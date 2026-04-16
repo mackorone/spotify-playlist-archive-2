@@ -4,7 +4,7 @@
 
 > 🚀 when ur love language is bpm 🚀  Cover: Marlon Hoffstadt
 
-678 songs - 1 day 16 hr 56 min
+679 songs - 1 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,10 +525,11 @@
 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 | 2024-12-09 |  |
 | [Say yes to heaven](https://open.spotify.com/track/6s5nJGUMS7g0tO8L1ejXA9) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [BAYZY](https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z), [Oleria](https://open.spotify.com/artist/2VhoK5L78oQvoUJIDT4eHY) | [Say yes to heaven](https://open.spotify.com/album/5xz3sjfbFqdnf9Raa1kCGa) | 1:55 | 2023-09-29 | 2023-10-05 |
 | [Scars](https://open.spotify.com/track/5nhgzZknavigy00j26edAY) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Scars](https://open.spotify.com/album/7zlXRLMuLPoYOQwPLrtvsj) | 3:30 | 2024-09-16 | 2024-10-14 |
+| [SCHREI NACH LIEBE](https://open.spotify.com/track/3QNc1m52Gwrow7nAZf3raw) | [Michael Klotz](https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh) | [SCHREI NACH LIEBE](https://open.spotify.com/album/5QIaC3d8OLlygvDAANvgHu) | 2:29 | 2026-04-09 |  |
 | [Schreien! \- Turbo Remix](https://open.spotify.com/track/4tQxA4wt4knZ19uqRka3u6) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Schreien! \(Turbo Remix\)](https://open.spotify.com/album/39nZLctQpTKoFBNZ8gHjsE) | 2:45 | 2023-05-10 | 2024-10-15 |
 | [Seraphim](https://open.spotify.com/track/3ljeAI0BtjhvGbIXthyACZ) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Seraphim](https://open.spotify.com/album/56Zt79ZBjC2CNZeyxIQCNn) | 2:28 | 2024-08-22 | 2024-09-17 |
 | [Serenity](https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Serenity](https://open.spotify.com/album/5SBYcUgDbjQNxILy4xvhop) | 6:55 | 2023-03-10 | 2024-01-31 |
-| [SEXY](https://open.spotify.com/track/1D6CSkKNYJVFgai1eQQ4Xm) | [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1), [CARGO](https://open.spotify.com/artist/47itHYdiZPEbLJcpWfTqbe) | [SEXY](https://open.spotify.com/album/2mvBle8cY9KZwcS4QsnnHu) | 3:16 | 2024-04-25 |  |
+| [SEXY](https://open.spotify.com/track/1D6CSkKNYJVFgai1eQQ4Xm) | [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1), [CARGO](https://open.spotify.com/artist/47itHYdiZPEbLJcpWfTqbe) | [SEXY](https://open.spotify.com/album/2mvBle8cY9KZwcS4QsnnHu) | 3:16 | 2024-04-25 | 2026-04-16 |
 | [Shadows](https://open.spotify.com/track/6jp2pfVIlIESLROvcHxCDd) | [ANDATA](https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ) | [Shadows](https://open.spotify.com/album/2FVVKWrRhcSvbvvugvpizL) | 3:02 | 2025-06-12 | 2025-06-20 |
 | [Shake For Me, Dance For Me](https://open.spotify.com/track/4glTWtWx78n6xjHWh8HFb1) | [Spacer Woman](https://open.spotify.com/artist/67FhwI60e0eCfogunrIi71) | [Shake For Me, Dance For Me](https://open.spotify.com/album/0kRnqoMiCAjXegglUZalfc) | 3:21 | 2024-07-25 | 2024-08-02 |
 | [Shake It](https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd) | [Sacha Harland](https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO) | [Shake It](https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ) | 2:24 | 2024-11-25 |  |

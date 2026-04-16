@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: Nebrugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,669 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,675 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 32 | [NOITE DE TRAP](https://open.spotify.com/track/6kfmdw0rCqnnnosIxKbBDZ) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Arthurzinho](https://open.spotify.com/artist/3k5mp3imY0h00XDaal3ELP), [D.A.A.N](https://open.spotify.com/artist/6FoJ1vMKehxpm93fteKX8v) | [NOITE DE TRAP](https://open.spotify.com/album/2N8aePZV3J6i2yV4tNAL4f) | 2:07 |
 | 33 | [Eu Meto Bronca](https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75) | [Eu Meto Bronca](https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl) | 2:37 |
 | 34 | [É Que os Menino É Bom](https://open.spotify.com/track/7xXiNfpfDCNXUWSnOzNfMD) | [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Soud](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm) | [É Que os Menino É Bom](https://open.spotify.com/album/7f9JfYpkwSzBrNJzQAvIoE) | 2:25 |
-| 35 | [Uen Uen Uen](https://open.spotify.com/track/6KugUjPZU5ppLRumh4P3eC) | [Suiky](https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6) | [Uen Uen Uen](https://open.spotify.com/album/3lOWqe9C98T0ItSVRVwUTv) | 3:28 |
+| 35 | [Setor Norte](https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [O Jogo Virou](https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY) | 2:37 |
 | 36 | [COMME DES GARÇONS](https://open.spotify.com/track/4yC4sRDhK1uXLW9B14jyQl) | [FAB GODAMN](https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g), [C4rlinhxs](https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp) | [FATALFATALFATAL](https://open.spotify.com/album/6mVG3MQDjFsJwSsZDxfXfm) | 1:40 |
-| 37 | [Setor Norte](https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [O Jogo Virou](https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY) | 2:37 |
+| 37 | [Uen Uen Uen](https://open.spotify.com/track/6KugUjPZU5ppLRumh4P3eC) | [Suiky](https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6) | [Uen Uen Uen](https://open.spotify.com/album/3lOWqe9C98T0ItSVRVwUTv) | 3:28 |
 | 38 | [SP](https://open.spotify.com/track/3FGySXuYYgAco8XpOYaxhf) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Torelli](https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [SP](https://open.spotify.com/album/7rEaFJDwmU1ThmYoheDUfX) | 2:35 |
 | 39 | [GET RICH](https://open.spotify.com/track/02n0kRA0M2Gs83V9QtWw0v) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Mvt](https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO) | [GET RICH](https://open.spotify.com/album/6Ju8WvKcYuBLWrC3AGDlzm) | 2:19 |
 | 40 | [Alta Massa \(ATM\)](https://open.spotify.com/track/6NmhXdIUkHYO8gojTVaAMM) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75) | [Alta Massa \(ATM\)](https://open.spotify.com/album/0Twjd4TvTqehiFjeaKPiAE) | 2:17 |

@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Fuck, Marry, Kill",
+        "url": "https://open.spotify.com/album/1xIWjruzzPXUWWZ9q20FVG"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217982,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/5hCG5TSz3fk2DEexB7TL9T"
+    },
+    {
+      "album": {
         "name": "Hood Hottest Princess (Deluxe)",
         "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },

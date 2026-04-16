@@ -4,7 +4,7 @@
 
 > 在KTV里，这些都是必点必唱的华语K歌。你准备好了吗？
 
-124 songs - 8 hr 48 min
+125 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [你被寫在我的歌裡](https://open.spotify.com/track/7ovUSP7jWkzWR2SHptYJfd) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U), [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [你在煩惱什麼](https://open.spotify.com/album/4GfRmbxZ3d1K05z3DWQlqa) | 4:35 | 2023-11-27 | 2025-08-27 |
 | [你超啤的 \(2024 7\-ELEVEN高雄啤酒音樂節主題曲\)](https://open.spotify.com/track/5eFwScMMyrC6oIm1BOkeHW) | [卓文萱](https://open.spotify.com/artist/5XHBjJm3bCgQCjpnInCxfT), [梁舒涵](https://open.spotify.com/artist/7gxft5phmvo7veiaqsKgjk) | [你超啤的](https://open.spotify.com/album/3wquvOUyE7UMbeYuD9svCC) | 3:16 | 2024-08-05 | 2024-10-12 |
 | [你，好不好？ \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛，教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 | 2023-11-27 |  |
+| [來自天堂的魔鬼](https://open.spotify.com/track/0g2XnkKghVN22yze1gTJzl) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [新的心跳](https://open.spotify.com/album/1tEl9cDFkTKGmaRpZLB7zW) | 4:05 | 2025-06-25 |  |
 | [修煉愛情](https://open.spotify.com/track/101iWa6yaODTI0RWewMK1B) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [因你 而在](https://open.spotify.com/album/4HIHR7UP1Wc04zwGkJDKX4) | 4:47 | 2023-11-27 | 2024-04-19 |
 | [倒帶](https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [城堡](https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV) | 4:25 | 2025-06-25 |  |
 | [偷偷想念你 \(feat\. 方晨\)](https://open.spotify.com/track/7xVj07lWHM86OIlTXkEq7R) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ), [方晨](https://open.spotify.com/artist/5Nd4foqBx41TIEW2VXyENC) | [偷偷想念你 \(feat\. 方晨\)](https://open.spotify.com/album/0CBuNM8l1oqJY6aq7sJeQo) | 2:51 | 2024-08-05 | 2024-10-12 |
@@ -84,7 +85,7 @@
 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 | 2023-11-27 |  |
 | [我真的受傷了](https://open.spotify.com/track/1vrAhXYvYmwKSSFKzpeWkH) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [你在我心上30周年紀念專輯](https://open.spotify.com/album/1H4PwVLyPJKzDwsPPebQes) | 3:51 | 2024-10-11 | 2025-06-26 |
 | [手心的薔薇](https://open.spotify.com/track/07DWACsD58aEdq6XnDadLh) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [新地球](https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8) | 4:40 | 2023-11-27 | 2025-01-14 |
-| [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 | 2023-11-27 |  |
+| [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 | 2023-11-27 | 2026-04-16 |
 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 | 2023-11-27 | 2026-04-13 |
 | [摯友](https://open.spotify.com/track/5evE7bweEhX83fd1ZmwPjP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [摯友](https://open.spotify.com/album/5XhdyuaZcuvgWVR135euye) | 5:13 | 2024-06-06 |  |
 | [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 | 2023-11-27 | 2024-04-19 |

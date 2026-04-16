@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 209000,
       "name": "Anouk",
       "url": "https://open.spotify.com/track/6cwG0qIHsLaVdLfLwFNIz6"
@@ -1782,6 +1782,24 @@
       "duration_ms": 371400,
       "name": "Belo Dia",
       "url": "https://open.spotify.com/track/49pIljBy8CvtXzcyvzCC6c"
+    },
+    {
+      "album": {
+        "name": "Bem Querer",
+        "url": "https://open.spotify.com/album/7K0snFwXckNidBggEm6HZa"
+      },
+      "artists": [
+        {
+          "name": "Curi\u00f3 Curi\u00f3",
+          "url": "https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221672,
+      "name": "Bem Querer",
+      "url": "https://open.spotify.com/track/1Fuxx2SM49Br613ri3I0h6"
     },
     {
       "album": {

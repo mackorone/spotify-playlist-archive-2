@@ -10779,6 +10779,32 @@
     },
     {
       "album": {
+        "name": "Ci\u0105gle tutaj jestem (diss na raka)",
+        "url": "https://open.spotify.com/album/61ZsllmBRIiz5QO5Hp4nzj"
+      },
+      "artists": [
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "Maja Mecan",
+          "url": "https://open.spotify.com/artist/2o92Q0VLN8KIMTm7Xj4Kbe"
+        },
+        {
+          "name": "Fundacja Cancer Fighters",
+          "url": "https://open.spotify.com/artist/4uQMFJbG5e9wBn8CWasdmf"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Ci\u0105gle tutaj jestem (diss na raka)",
+      "url": "https://open.spotify.com/track/0wvxzE8JEintqBBhaWVvoU"
+    },
+    {
+      "album": {
         "name": "Click Clack Bang",
         "url": "https://open.spotify.com/album/60RsZqasvHpnMKUEOwLTUU"
       },
@@ -14046,7 +14072,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 195704,
       "name": "Dom Nad Wod\u0105",
       "url": "https://open.spotify.com/track/3fsukGRaCYqfoQ010VQGcC"
@@ -25084,7 +25110,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 409600,
       "name": "Kamie\u0144 z serca",
       "url": "https://open.spotify.com/track/0A96peS7MFS4qNDFPGGQe2"
@@ -29826,7 +29852,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"

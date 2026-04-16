@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-888 songs - 2 day 14 hr 46 min
+889 songs - 2 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Ana Qalbi Ehtar \- Habibi Funk 021](https://open.spotify.com/track/2Nv9GGqfvggAUo5UgcMHPZ) | [The Free Music](https://open.spotify.com/artist/0I2ig8kucQMSWCNr8rHuY9), [Najib Alhoush](https://open.spotify.com/artist/3PAatZgj07isuZxGqo60ua) | [Ana Qalbi Ehtar \(Habibi Funk 021\)](https://open.spotify.com/album/4g7J4UG3vYNDBGmJCQER1P) | 4:45 | 2023-02-14 | 2023-05-24 |
 | [Angels On A Pin](https://open.spotify.com/track/6HjWUmDcJCvWXeXNMYyqrV) | [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Angels On A Pin](https://open.spotify.com/album/5dfGRfsik4iBH05h9OfUe1) | 4:44 | 2025-05-09 | 2025-06-07 |
 | [Anima latina](https://open.spotify.com/track/6XOguNHu0tyQRFhPqoBFeV) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Anima latina](https://open.spotify.com/album/6Dm9F6WuFAbYrevLFAfyfZ) | 6:37 | 2021-10-06 | 2023-08-08 |
-| [Anouk](https://open.spotify.com/track/6cwG0qIHsLaVdLfLwFNIz6) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Anouk](https://open.spotify.com/album/3e9Ix0XPK8q7MjeA38Z5E0) | 3:29 | 2023-12-12 |  |
+| [Anouk](https://open.spotify.com/track/6cwG0qIHsLaVdLfLwFNIz6) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Anouk](https://open.spotify.com/album/3e9Ix0XPK8q7MjeA38Z5E0) | 3:29 | 2023-12-12 | 2026-04-16 |
 | [AO Longo Do Rio](https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [A Journey to You](https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm) | 4:34 | 2021-10-06 | 2024-04-19 |
 | [AO Longo Do Rio](https://open.spotify.com/track/1guNEjxD2ZIxKti8jtMehV) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [AO Longo Do Rio](https://open.spotify.com/album/6ceZRBfduXzV866yCtMzxV) | 4:34 | 2021-10-06 | 2022-07-01 |
 | [Apollo Solar Drive](https://open.spotify.com/track/4MesbpwH8LvpTkH0duZCbz) | [Setenta](https://open.spotify.com/artist/4dRBVaj6yRwtOnJMqSNSeg), [Gregoire Maret](https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW) | [Apollo Solar Drive](https://open.spotify.com/album/6M6TsxBEkd0LbwDZoqvetx) | 3:52 | 2025-01-31 | 2025-04-12 |
@@ -100,6 +100,7 @@
 | [BC](https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 7:30 | 2023-04-05 | 2024-04-19 |
 | [BC](https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [4th Feb \(Stay Awake\) / BC](https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw) | 7:30 | 2023-04-05 | 2023-04-30 |
 | [Belo Dia](https://open.spotify.com/track/49pIljBy8CvtXzcyvzCC6c) | [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Belo Dia](https://open.spotify.com/album/2JKyusVirUlqCwTZR82nrU) | 6:11 | 2024-07-05 | 2025-02-21 |
+| [Bem Querer](https://open.spotify.com/track/1Fuxx2SM49Br613ri3I0h6) | [Curió Curió](https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a) | [Bem Querer](https://open.spotify.com/album/7K0snFwXckNidBggEm6HZa) | 3:41 | 2026-04-16 |  |
 | [Ben Bene La](https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX) | [Voiciii](https://open.spotify.com/album/5kf5N7odrE990aRCyW3PEH) | 4:48 | 2021-10-06 | 2023-08-08 |
 | [Bersinar Bersamamu](https://open.spotify.com/track/6pAUpp3urzftoj3O5wrw4q) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Adinda](https://open.spotify.com/artist/2c3wCnUuiH1cRgcUxpIrKB) | [Bersinar Bersamamu](https://open.spotify.com/album/0Ap2bqkmabssfNlAJt7k3s) | 4:42 | 2022-04-01 | 2022-10-01 |
 | [Bessa](https://open.spotify.com/track/1GClY6s7tBT9BnSWU1231A) | [KOFFIE](https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA) | [kokon](https://open.spotify.com/album/2zckcXgFYNW53mXVfKlwLK) | 3:39 | 2023-05-22 | 2024-07-06 |

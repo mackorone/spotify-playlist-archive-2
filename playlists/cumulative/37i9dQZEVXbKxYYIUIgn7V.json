@@ -6472,7 +6472,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 133564,
       "name": "Beretta (De Los Cerros La Escuela)",
       "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
@@ -8228,6 +8228,24 @@
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
+    },
+    {
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
       "album": {
@@ -18697,6 +18715,28 @@
     },
     {
       "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
+    },
+    {
+      "album": {
         "name": "Freed From Desire",
         "url": "https://open.spotify.com/album/1292CkAdy9w965GZ4ujR8d"
       },
@@ -23935,6 +23975,24 @@
     },
     {
       "album": {
+        "name": "Sharingan",
+        "url": "https://open.spotify.com/album/0dkk5FKiMCMZSz6J7y630R"
+      },
+      "artists": [
+        {
+          "name": "Bandra",
+          "url": "https://open.spotify.com/artist/7aOJ5qH75qy5tRxBPFFIq9"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120471,
+      "name": "Hokage",
+      "url": "https://open.spotify.com/track/74mgvzXDqauREmS7Ogp8Qk"
+    },
+    {
+      "album": {
         "name": "Hol mich raus",
         "url": "https://open.spotify.com/album/1xchpVewedigkIbgN9iA8G"
       },
@@ -28278,7 +28336,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -32376,7 +32434,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 139875,
       "name": "LOSE YOUR MIND",
       "url": "https://open.spotify.com/track/4MonCT2legJJ0cTLsXhDfe"
@@ -37936,7 +37994,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 163720,
       "name": "NEUANFANG",
       "url": "https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69"
@@ -42909,6 +42967,32 @@
     },
     {
       "album": {
+        "name": "Que pasa",
+        "url": "https://open.spotify.com/album/3AXzv1siNozGI4AOaKuv13"
+      },
+      "artists": [
+        {
+          "name": "Aymo",
+          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157377,
+      "name": "Que pasa",
+      "url": "https://open.spotify.com/track/4fH8BbJKlb5jnmmXDroWe1"
+    },
+    {
+      "album": {
         "name": "Queen St",
         "url": "https://open.spotify.com/album/5AFbRTavGTeT3M4azCIybO"
       },
@@ -44884,7 +44968,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 179657,
       "name": "R\u00fcya Gibiydin",
       "url": "https://open.spotify.com/track/4JHGcwZZo5yodlq5qQbSQw"
@@ -45822,7 +45906,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 149612,
       "name": "SCHREI NACH LIEBE",
       "url": "https://open.spotify.com/track/3QNc1m52Gwrow7nAZf3raw"
@@ -48458,7 +48542,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 206720,
       "name": "Sommerregen",
       "url": "https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX"
@@ -52798,7 +52882,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 236534,
       "name": "They Call Me Sonic - slowed",
       "url": "https://open.spotify.com/track/4SIWF4DUVgWwtL5DjIv3on"

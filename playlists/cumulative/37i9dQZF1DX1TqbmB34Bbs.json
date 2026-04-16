@@ -5143,6 +5143,32 @@
     },
     {
       "album": {
+        "name": "mp3",
+        "url": "https://open.spotify.com/album/4YOpO4iotuFawWYcUHvlYF"
+      },
+      "artists": [
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "TOMMY YANG",
+          "url": "https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157493,
+      "name": "Bullshit (Feat. Kid Milli, TOMMY YANG)",
+      "url": "https://open.spotify.com/track/69SJyODjpZhYDLwGJoAdox"
+    },
+    {
+      "album": {
         "name": "BUM (feat. Chillin Homie & Kid Milli)",
         "url": "https://open.spotify.com/album/7w9mPTFLGn8yGp1CwKNEAO"
       },
@@ -5572,6 +5598,24 @@
       "duration_ms": 157610,
       "name": "Can\u2019t Quit THIS Shit (feat. ILLINIT)",
       "url": "https://open.spotify.com/track/63JxE7DAQ7S8ZXoIj2V8VX"
+    },
+    {
+      "album": {
+        "name": "mp3",
+        "url": "https://open.spotify.com/album/4YOpO4iotuFawWYcUHvlYF"
+      },
+      "artists": [
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107407,
+      "name": "Cap",
+      "url": "https://open.spotify.com/track/2w2uQsuzr8Hj5i9Ct83IIf"
     },
     {
       "album": {
@@ -6016,7 +6060,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 218450,
       "name": "Chosun Savage",
       "url": "https://open.spotify.com/track/63mNHnrkWFa6ZqyxdbKJU7"
@@ -6317,6 +6361,28 @@
     },
     {
       "album": {
+        "name": "mp3",
+        "url": "https://open.spotify.com/album/4YOpO4iotuFawWYcUHvlYF"
+      },
+      "artists": [
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151106,
+      "name": "Cocky (Feat. BIBI)",
+      "url": "https://open.spotify.com/track/0f6Es3lVLNI4niwc8QsHRF"
+    },
+    {
+      "album": {
         "name": "COCKY",
         "url": "https://open.spotify.com/album/1AUrJt98UsKpAeRU1pL6Hu"
       },
@@ -6552,7 +6618,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 245378,
       "name": "Cooler Than the Cool (feat. Huckleberry P)",
       "url": "https://open.spotify.com/track/5zB0UyqorlSDkjSw5rzVZE"
@@ -17604,7 +17670,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 160137,
       "name": "MUKKBANG! - REMIX",
       "url": "https://open.spotify.com/track/2VatmjFdAfLAWCWDYa4KwS"
@@ -19898,7 +19964,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 340441,
       "name": "On Fire (feat. CokeJazz)",
       "url": "https://open.spotify.com/track/3lGpLQKgTSimbOHVpBtFsy"
@@ -24746,6 +24812,28 @@
       "duration_ms": 237999,
       "name": "SLIDE (feat. Chillin Homie & Blase)",
       "url": "https://open.spotify.com/track/2gef02SzAOGE9QKgxwMW9i"
+    },
+    {
+      "album": {
+        "name": "mp3",
+        "url": "https://open.spotify.com/album/4YOpO4iotuFawWYcUHvlYF"
+      },
+      "artists": [
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181523,
+      "name": "Slow Down (Feat. The Quiett)",
+      "url": "https://open.spotify.com/track/2P6cN61hEiK1aFkDr1q4Gy"
     },
     {
       "album": {

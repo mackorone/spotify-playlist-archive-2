@@ -1,6 +1,6 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 134323,
+  "num_followers": 134335,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Musica De Bolivia",
-        "url": "https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC"
-      },
-      "artists": [
-        {
-          "name": "Inti Punchai",
-          "url": "https://open.spotify.com/artist/0bw09OCO0e0MlvXxpbDE7r"
-        }
-      ],
-      "duration_ms": 237960,
-      "name": "Tatalitu (Chuntunqui)",
-      "url": "https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "A Journey To The Andes",
         "url": "https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 296560,
       "name": "Cacharpaya Del Indio",
       "url": "https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Musica De Bolivia",
+        "url": "https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC"
+      },
+      "artists": [
+        {
+          "name": "Inti Punchai",
+          "url": "https://open.spotify.com/artist/0bw09OCO0e0MlvXxpbDE7r"
+        }
+      ],
+      "duration_ms": 237960,
+      "name": "Tatalitu (Chuntunqui)",
+      "url": "https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Relato",
+      "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "Arriba Quemando el Sol",
         "url": "https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv"
       },
@@ -739,6 +759,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Hasta Donde Mande el Cuerpo",
+        "url": "https://open.spotify.com/album/55hScfNCMvg283Cde5iVpF"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 212172,
+      "name": "Hasta Donde Mande el Cuerpo",
+      "url": "https://open.spotify.com/track/6ma9Cak9JkUiA4uSHnfEm7"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/2nwchash9HLqv22iAUBrKx"
       },
@@ -755,22 +791,6 @@
       "duration_ms": 254815,
       "name": "Corazon de Rubi",
       "url": "https://open.spotify.com/track/4ZNIMDo5YS5blN6MsN0tL9"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Hasta Donde Mande el Cuerpo",
-        "url": "https://open.spotify.com/album/55hScfNCMvg283Cde5iVpF"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 212172,
-      "name": "Hasta Donde Mande el Cuerpo",
-      "url": "https://open.spotify.com/track/6ma9Cak9JkUiA4uSHnfEm7"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -803,26 +823,6 @@
       "duration_ms": 211491,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/2kJSKfA6jrrXxqmDZoWLvt"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Relato",
-      "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
     },
     {
       "added_at": "2023-09-29 18:58:26",

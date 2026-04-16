@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, MIK's Reaction, Lockjaw and more",
+  "description": "With photophor, AlligatorX, Lockjaw and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -652,6 +652,24 @@
       "duration_ms": 233482,
       "name": "Bird - 2023 Remastered Version",
       "url": "https://open.spotify.com/track/7faBwKTlRmeUHfCBwejwt4"
+    },
+    {
+      "album": {
+        "name": "Black and Blue",
+        "url": "https://open.spotify.com/album/5eAv7Cz6TMf0zvLf2J4cBo"
+      },
+      "artists": [
+        {
+          "name": "William Bleak",
+          "url": "https://open.spotify.com/artist/6BClTpfV8cDCoUeRj9IHSF"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235739,
+      "name": "Black and Blue",
+      "url": "https://open.spotify.com/track/3I3FrHVuIPOjh80qMOLdDx"
     },
     {
       "album": {
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 198458,
       "name": "Drunk Blue Eyes",
       "url": "https://open.spotify.com/track/2U3Cui7VgS5Qt2FudpVN7z"
@@ -3326,7 +3344,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 303464,
       "name": "Grief",
       "url": "https://open.spotify.com/track/36oVY58DO6phaiLLdVOyjh"
@@ -4043,6 +4061,24 @@
     },
     {
       "album": {
+        "name": "No Music for the Masses",
+        "url": "https://open.spotify.com/album/4ZljwnnmEhokWroGBnBXMO"
+      },
+      "artists": [
+        {
+          "name": "photophor",
+          "url": "https://open.spotify.com/artist/5uVqMT31K9S7WpFLC5LZsh"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248165,
+      "name": "Intention",
+      "url": "https://open.spotify.com/track/3q1xGTBDoR35bV7kfHRi9e"
+    },
+    {
+      "album": {
         "name": "IO",
         "url": "https://open.spotify.com/album/5yhVsqIReapxdmmdpxkgfh"
       },
@@ -4166,7 +4202,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -4242,7 +4278,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -4538,7 +4574,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 253020,
       "name": "Lich Tree",
       "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
@@ -4574,7 +4610,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 340000,
       "name": "Life Whisper & New Life - Reprise",
       "url": "https://open.spotify.com/track/6FhnVWokFfKBvsW33H5HCA"
@@ -4780,7 +4816,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 293422,
       "name": "Lori - Special Edition",
       "url": "https://open.spotify.com/track/3y64sLHWMzAJHBVSfGgwPX"
@@ -4888,7 +4924,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 260622,
       "name": "Man In The Box",
       "url": "https://open.spotify.com/track/1NgkJEwzFtPCkPcGu4f11k"
@@ -6490,7 +6526,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -7220,7 +7256,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 205252,
       "name": "Seize The Moment",
       "url": "https://open.spotify.com/track/08NLz5Jy9sc91Kse1nRr0u"
@@ -7782,7 +7818,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 365902,
       "name": "Station To Station - 50th Anniversary",
       "url": "https://open.spotify.com/track/1TRnxAoUZWXLUHH2jYeXq7"
@@ -8067,6 +8103,24 @@
     },
     {
       "album": {
+        "name": "NIHIL LAND",
+        "url": "https://open.spotify.com/album/7kH7ch4geeORhUOczDETaI"
+      },
+      "artists": [
+        {
+          "name": "NIHIL",
+          "url": "https://open.spotify.com/artist/3zbPkWAkIowJdshNMT3iCa"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230823,
+      "name": "Symphony In Minor",
+      "url": "https://open.spotify.com/track/4HLGfdfrRgB4YntkFv4Cw0"
+    },
+    {
+      "album": {
         "name": "trotz*d\u00e4m n\u00fct",
         "url": "https://open.spotify.com/album/5hzuBqlZgYgqfnptlN4na7"
       },
@@ -8212,7 +8266,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 258147,
       "name": "Tension - 442 Hz",
       "url": "https://open.spotify.com/track/1yUz9pCTAuytgs56FFb1wa"
@@ -8356,7 +8410,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 218408,
       "name": "The EyePhone Is My New Religion",
       "url": "https://open.spotify.com/track/3dqgKYCTzGdwPiOlSYrEpz"
@@ -9286,7 +9340,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 243972,
       "name": "Traitor",
       "url": "https://open.spotify.com/track/5QdFBCj9Nrm5XghPtXQvvy"
@@ -9906,7 +9960,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 160812,
       "name": "We're All Pretending",
       "url": "https://open.spotify.com/track/01YMRsDaqFwzL0crgns9ug"
@@ -10050,7 +10104,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 204605,
       "name": "Where Cats Go to Die",
       "url": "https://open.spotify.com/track/68RqMJAZU5bOApqbEuUHYG"
@@ -10386,7 +10440,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 208660,
       "name": "Zerrissen",
       "url": "https://open.spotify.com/track/6ZUbmwyM3p0YGQLZcq59Yw"

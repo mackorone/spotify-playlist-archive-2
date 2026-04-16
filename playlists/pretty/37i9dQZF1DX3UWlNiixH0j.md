@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: REJAY and Andr
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,926 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,943 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 65 | [sunday driver \- live](https://open.spotify.com/track/3BrRbfhDc58yfOtgbiM6U9) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka tte, doko? \#6 「くらやみざかより愛を込めてツアー」 \(kawasaki CLUB CITTA'\)](https://open.spotify.com/album/4yx2YaBMtgLzAZSArf56UU) | 4:31 |
 | 66 | [back for me](https://open.spotify.com/track/7HZMIIF0neWvNC8P1UgAQo) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [YONCE](https://open.spotify.com/artist/6tvhvpr5WUc7Q13ulPr2Zi) | [back for me](https://open.spotify.com/album/2sGhKPde7GODDkdaH2aP6C) | 3:28 |
 | 67 | [Satellite \(feat\. Jordana\)](https://open.spotify.com/track/2UshKLs8yzVzj47732hJQe) | [Gingersamm](https://open.spotify.com/artist/7zJKwa30x2YooSpPCEaNQx), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Satellite \(feat\. Jordana\)](https://open.spotify.com/album/3CalDhda1n1iOEk2WV39zz) | 5:08 |
-| 68 | [作品](https://open.spotify.com/track/69KMzT9d3a3aWOchi6KbiQ) | [\(自由研究\)](https://open.spotify.com/artist/0FxhWXR6I49BY7iAIrYkPx) | [作品](https://open.spotify.com/album/5H3SPoAWp7DBOx7UBCz8FA) | 3:37 |
+| 68 | [作品](https://open.spotify.com/track/69KMzT9d3a3aWOchi6KbiQ) | [自由研究](https://open.spotify.com/artist/6sXQh5nq9DHij5xE0NVVze) | [作品](https://open.spotify.com/album/5H3SPoAWp7DBOx7UBCz8FA) | 3:37 |
 | 69 | [Closer](https://open.spotify.com/track/78wTGdtAfI8ymGt89CDpxB) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [OJAZ](https://open.spotify.com/album/34aw7mdLTBpdHPAKhPzFIs) | 4:09 |
 | 70 | [Curious about your weekend](https://open.spotify.com/track/5NxOQx2DtKVYzT0D9RYQ8B) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [TOWN BEAT](https://open.spotify.com/album/5Hw4dows7KZqGmPASR7qWR) | 4:09 |
 | 71 | [街\(雑感\)](https://open.spotify.com/track/6PlFX6RBAwB1Rgzck8NnkF) | [らんまん](https://open.spotify.com/artist/0ynBxm5p6ZMSBqqSq2QEyY) | [街\(雑感\)](https://open.spotify.com/album/0LnVuF1VSgFY56w44febkI) | 5:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Lainey Wilson & Brandon Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,588 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,655 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 72 | [mourning 2 dancing](https://open.spotify.com/track/3T2vuPqaHbXLwegNZyeRVa) | [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [mourning 2 dancing](https://open.spotify.com/album/4nbGCL267piZpeBJ7jQsFq) | 2:44 |
 | 73 | [AUTOMATIC](https://open.spotify.com/track/1iHAGNjy0Nj9f92AXHxIeC) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [AUTOMATIC](https://open.spotify.com/album/4ZFTys5yabsYmedawVN4Q0) | 2:08 |
 | 74 | [King Of Kings](https://open.spotify.com/track/4cioLFyKIm59aYy3UMr5xT) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [King Of Kings](https://open.spotify.com/album/19ukezrB9UAsMe5oTQO45X) | 4:13 |
-| 75 | [Thank You Isn't Enough](https://open.spotify.com/track/77772WZUj2IYuZAgH5Ufuy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [Charles Weems](https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK) | [Thank You Isn't Enough](https://open.spotify.com/album/0iN5UvjZ7yBilr9o7tZA4s) | 3:06 |
+| 75 | [Thank You Isn't Enough](https://open.spotify.com/track/77772WZUj2IYuZAgH5Ufuy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK), [Charles Weems](https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab) | [Thank You Isn't Enough](https://open.spotify.com/album/0iN5UvjZ7yBilr9o7tZA4s) | 3:06 |
 | 76 | [Walk With Me](https://open.spotify.com/track/1YWNQDbaTcCZxhC1GpkOQ1) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Walk With Me](https://open.spotify.com/album/6lNIyJnOuyLhGvPod7YYJz) | 2:55 |
 | 77 | [Perfectly](https://open.spotify.com/track/4IBrkjZkW4qhVgunHJ1l8Y) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Perfectly](https://open.spotify.com/album/3XlPm3QjwLxOcTW0IxXJSA) | 2:44 |
 | 78 | [Just As I Am](https://open.spotify.com/track/0rSV9uiYoyR3TWoJWExhAL) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Just As I Am](https://open.spotify.com/album/6NJldZbC9itkMgDAu4Csww) | 3:04 |

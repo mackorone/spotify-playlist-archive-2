@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Ultraligera.
 
-769 songs - 2 day 1 hr 8 min
+770 songs - 2 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Camaleón](https://open.spotify.com/track/1BvS2e5k6Q9s6Y1czVPn0j) | [Alberto & García](https://open.spotify.com/artist/5BKyujkSrDiZtHyRGtVJx6) | [Barro](https://open.spotify.com/album/1iQLMSdyEyx9LbF6F90JBQ) | 3:09 | 2025-09-25 | 2025-10-04 |
 | [Camel Azul](https://open.spotify.com/track/4AFKOfwPxjqrefiLuulwOi) | [Hotel Nebraska](https://open.spotify.com/artist/417xUJN8m2gRJYI2Wu2ZnC) | [Camel Azul](https://open.spotify.com/album/5PuLjBVGnoqV66B5rgwXI6) | 2:43 | 2024-07-25 | 2024-08-02 |
 | [Camiseta de Rokanrol](https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Camiseta de Rokanrol](https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l) | 3:49 | 2022-05-19 |  |
+| [Canciones chulas](https://open.spotify.com/track/4NQQ79oNnFcqm0UNG4sf1U) | [Los Enemigos](https://open.spotify.com/artist/4uiuj3kqeIHmTH87B7VMnr) | [Canciones chulas](https://open.spotify.com/album/0j6TQGdzr2Lq71cFpbGUxW) | 3:43 | 2026-04-09 |  |
 | [Candela](https://open.spotify.com/track/5HjShrXAUChXJDyjgZka13) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Candela](https://open.spotify.com/album/3l9sGjSIG3STFT8V65JUB1) | 3:11 | 2023-08-24 | 2023-09-01 |
 | [Capitán Cobarde](https://open.spotify.com/track/6UlBpWP2Ye3OaQnzu59ro0) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6), [El Drogas](https://open.spotify.com/artist/5jJWnRLQeU7fe9VaDjpIWK) | [Capitán Cobarde](https://open.spotify.com/album/63ti8PnFmc7JPzBJ8e2KRB) | 4:56 | 2025-09-18 | 2025-10-27 |
 | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/track/3W86lhWeDNKPG59RHLJAdh) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/album/6ZXosHrTpN0BCjofSGsKxF) | 3:04 | 2023-04-06 | 2023-04-25 |

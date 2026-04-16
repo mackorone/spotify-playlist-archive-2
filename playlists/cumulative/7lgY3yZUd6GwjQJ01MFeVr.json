@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Today's top country music!",
+  "description": "Today's top country music! Cover: Cameron Whitcomb",
   "name": "Top Country Hits",
   "tracks": [
     {
@@ -694,6 +694,24 @@
       "duration_ms": 252080,
       "name": "Born",
       "url": "https://open.spotify.com/track/4WqPljx2MjzICrxJjnuiZB"
+    },
+    {
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
       "album": {

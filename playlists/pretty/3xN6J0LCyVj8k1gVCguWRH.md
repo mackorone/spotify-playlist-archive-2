@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,965 likes - 196 songs - 11 hr 24 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,960 likes - 191 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,10 +199,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 189 | [CAPITULO 3](https://open.spotify.com/track/4d4Yn8sxrdWss0lrQN6aEN) | [Cata Quiqui](https://open.spotify.com/artist/0eXr3CcKd4H7gDSO4Pwn40) | [CAPITULO 3](https://open.spotify.com/album/2khvQeuGiqnTlSp9WyXV2d) | 3:04 |
 | 190 | [Anxiety](https://open.spotify.com/track/1lREj8fkmpEwgpRR6JChfz) | [SHATT3R](https://open.spotify.com/artist/0eebHPjvUt6LoD7R3lVBOk) | [Anxiety](https://open.spotify.com/album/43cpeOadDTDIJULuEfb9Gz) | 2:37 |
 | 191 | [We've Got It Goin' On](https://open.spotify.com/track/3zdMjtvZY5Rgnb8AWwoXek) | [AVLS](https://open.spotify.com/artist/5JeADtknDnMDQ8ul7NaTE0) | [We've Got It Goin' On](https://open.spotify.com/album/6gunmjlWiIZtfROoJhF1a1) | 5:14 |
-| 192 | [Hallelujah](https://open.spotify.com/track/3udOrp7OKsleZZq0QUohfp) | [Mr Unity](https://open.spotify.com/artist/5yyCTJGCqbvwcm6qzlMm5p) | [Confession](https://open.spotify.com/album/6iXcA0CZVAko503T5fHc3P) | 4:56 |
-| 193 | [Tu Canción](https://open.spotify.com/track/51pYTj8gQ2wcXkeGG6mdi3) | [Alka 2001](https://open.spotify.com/artist/0FOZl9lnMPFefh81JmZOKR), [Zurdeik](https://open.spotify.com/artist/1ohuygiane6UcPS4fYlJXP) | [Tu Canción](https://open.spotify.com/album/71mc1up731HptXns52PPWK) | 2:22 |
-| 194 | [Make Believe](https://open.spotify.com/track/0qHxVLpEfjoFWlwwb1jPT2) | [Penelope](https://open.spotify.com/artist/10TjnjAFoOorE5NJoomfoN) | [Make Believe](https://open.spotify.com/album/6GM16JmN7ixpHYzoMOZ0XU) | 3:56 |
-| 195 | [Lie to Me](https://open.spotify.com/track/1lzUrX1mdkzJTrv0lIjRkn) | [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Lie to Me](https://open.spotify.com/album/645Nyu0nBt2rpGOzKfC2ld) | 2:37 |
-| 196 | [Lonely Soldier](https://open.spotify.com/track/71pBN796AjYSOtlUKBr1I5) | [Cass Miller](https://open.spotify.com/artist/1mcpBVj2ixcdsCcby53H0g) | [Lonely Soldier](https://open.spotify.com/album/620aoDr4DlKfGLSddl7KMR) | 3:06 |
 
-Snapshot ID: `AAA523HM27AyejMo0FJ3dvKBnNIWf02p`
+Snapshot ID: `AAA53F5NOekZBk/O6U7Z01v6MGx1TS0k`

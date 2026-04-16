@@ -1,12 +1,12 @@
 {
   "description": "Our favourite new music, curated by the XL team. ",
-  "num_followers": 16654,
+  "num_followers": 16655,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "AAAZSbgyWokE1B6VQg+VaRpm1cIMHmor",
+  "snapshot_id": "AAAZS69fqWzeMc9XxnT2MFKUTCRPLjNC",
   "tracks": [
     {
       "added_at": "2026-01-15 18:25:37",
@@ -67,6 +67,26 @@
       "duration_ms": 114580,
       "name": "TOUCH ON ME",
       "url": "https://open.spotify.com/track/4XcAjBdL4y1b9CcHaOkOCa"
+    },
+    {
+      "added_at": "2026-04-15 16:13:15",
+      "album": {
+        "name": "Where's Your Head At (Steve Angello Remix)",
+        "url": "https://open.spotify.com/album/5hjAI2j0sEvO2QhWtmH9nE"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 180024,
+      "name": "Where's Your Head At - Steve Angello Remix",
+      "url": "https://open.spotify.com/track/0oHhMAPR3t9DgDvjtSKBdr"
     },
     {
       "added_at": "2026-01-16 14:51:48",

@@ -5293,6 +5293,28 @@
     },
     {
       "album": {
+        "name": "Fukrey Returns (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7drFYOHaoPC5uqoUKJ03fP"
+      },
+      "artists": [
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "Ishq de Fanniyar - Female Version",
+      "url": "https://open.spotify.com/track/6JARNpkUypyzQEltxZM95O"
+    },
+    {
+      "album": {
         "name": "Ishq Hai Nibhana",
         "url": "https://open.spotify.com/album/69plEW753r4jGSuk10j3HN"
       },
@@ -11272,7 +11294,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 128407,
       "name": "Raina Jaage",
       "url": "https://open.spotify.com/track/3iXBl2sXTdSMJG4t0xioY6"

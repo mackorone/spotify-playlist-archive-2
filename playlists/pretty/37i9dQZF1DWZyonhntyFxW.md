@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: ويجز
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: مروان بابلو
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,346 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,391 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [El Ayam](https://open.spotify.com/track/0trJ6hrLHHHaXZYMe1JLnb) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 2:34 |
-| 2 | [FLEXIN](https://open.spotify.com/track/4hilPZuJldFY5ACcNRAzQv) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [٥ نظام](https://open.spotify.com/album/5AgqAqDuJ5dn6dlDD9oaax) | 1:33 |
+| 1 | [FLEXIN](https://open.spotify.com/track/4hilPZuJldFY5ACcNRAzQv) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [٥ نظام](https://open.spotify.com/album/5AgqAqDuJ5dn6dlDD9oaax) | 1:33 |
+| 2 | [El Ayam](https://open.spotify.com/track/0trJ6hrLHHHaXZYMe1JLnb) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 2:34 |
 | 3 | [Leeh? \- From EgyBest Movie: The Soundtrack](https://open.spotify.com/track/3X8Q3dS8UtjBqqtjjwkAR4) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Leeh? \(From EgyBest Movie: The Soundtrack\)](https://open.spotify.com/album/1pdVVxL4kXFJmCTmVK14oo) | 2:12 |
 | 4 | [بكرة تشوف](https://open.spotify.com/track/4a0Td5uLhLHJQih6enI4c5) | [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [Bokra Teshouf](https://open.spotify.com/album/0TtcPkZod7NR8ArDt9rhSR) | 3:14 |
 | 5 | [BABY SHARK](https://open.spotify.com/track/0kk9vdY4MkMkUHXChid1uF) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [BABY SHARK](https://open.spotify.com/album/2d1wj8Lrbg0iD7o3v44HP3) | 1:54 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 39 | [Wala Yehemak](https://open.spotify.com/track/7FeflOB46MGCh7Wzj1JuOW) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [6 Shohour](https://open.spotify.com/album/06wzYMLZWW2AawVYKlPkcz) | 1:58 |
 | 40 | [MAGHOOL](https://open.spotify.com/track/1gFRKxEsz8WalxCfNJkPic) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [MAGHOOL](https://open.spotify.com/album/5yX9hssUUeRlHmaQ8EGvaN) | 3:53 |
 
-Snapshot ID: `AAAAALLDcY2PwTk/bjxIs2d0oN5ve0+E`
+Snapshot ID: `AAAAAPgaBHCDK3nD285ooJE5k+v/eTGi`

@@ -130,7 +130,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 106728,
       "name": "Air Bender",
       "url": "https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8"
@@ -1197,6 +1197,32 @@
     },
     {
       "album": {
+        "name": "Fan Of The Fuss",
+        "url": "https://open.spotify.com/album/33w7jK8OpKUvWTIvly50Fm"
+      },
+      "artists": [
+        {
+          "name": "Mxdboi",
+          "url": "https://open.spotify.com/artist/6r0cAxab3bGz70KL6JJHEv"
+        },
+        {
+          "name": "gorn",
+          "url": "https://open.spotify.com/artist/6Qhoxy3TZE0E9o7AbcsRjJ"
+        },
+        {
+          "name": "soexclusive",
+          "url": "https://open.spotify.com/artist/4JKrB6b2vC2vS2QORvH7ix"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133413,
+      "name": "Fan Of The Fuss",
+      "url": "https://open.spotify.com/track/1uRRkNWCN7apsZmy9mIWc7"
+    },
+    {
+      "album": {
         "name": "Fire in my heart",
         "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
       },
@@ -1642,7 +1668,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 143775,
       "name": "Intervals",
       "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
@@ -2146,7 +2172,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 109652,
       "name": "MORDERMAND",
       "url": "https://open.spotify.com/track/6necwqqASlZrchrUAUI02Y"
@@ -2884,6 +2910,28 @@
     {
       "album": {
         "name": "Rubbin Of The Pain x New Flesh",
+        "url": "https://open.spotify.com/album/6pMUqsCxey6imx0CwE7NTE"
+      },
+      "artists": [
+        {
+          "name": "Hysteria",
+          "url": "https://open.spotify.com/artist/1s8L2v0OBabPogBPIKv6IY"
+        },
+        {
+          "name": "Srino n Fonda",
+          "url": "https://open.spotify.com/artist/2PIEUOwnDW10QyRrbfFxBC"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141214,
+      "name": "Rubbin Of The Pain x New Flesh",
+      "url": "https://open.spotify.com/track/3G7Ojhw4jSM4W0HqqUwDbz"
+    },
+    {
+      "album": {
+        "name": "Rubbin Of The Pain x New Flesh",
         "url": "https://open.spotify.com/album/2QV7NI4Oyt8WRhVPpxkZVh"
       },
       "artists": [
@@ -2930,7 +2978,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 141316,
       "name": "Rubbin Off The Paint x New Flesh",
       "url": "https://open.spotify.com/track/6d42nLEA7M1HDs86A5IB2t"

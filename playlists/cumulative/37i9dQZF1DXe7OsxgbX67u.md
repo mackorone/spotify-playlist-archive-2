@@ -4,7 +4,7 @@
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-84 songs - 5 hr 18 min
+86 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Chase Me \(feat\. Run The Jewels & Big Boi\) \- Single Version \- Music From The Motion Picture Baby Driver](https://open.spotify.com/track/2ouMVpv6OJglrFHg2GQPwd) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) | [Chase Me \(feat\. Run The Jewels & Big Boi\)](https://open.spotify.com/album/4gWX3HriDmej4AS8vE4Bh0) | 3:26 | 2025-02-06 |  |
 | [Clementine](https://open.spotify.com/track/6uaWRTGqadohCbGwo9EVSD) | [Sarah Jaffe](https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS) | [Suburban Nature](https://open.spotify.com/album/0RAHfGJIlvTKsenIKEagJ3) | 4:48 | 2026-04-01 |  |
 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 | 2026-03-18 |  |
+| [Company: II\. \-](https://open.spotify.com/track/6Rrx8TuUf7txxvS2X9r7yD) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Ulster Orchestra](https://open.spotify.com/artist/6ibvdCG0uLZYYq4HpUmXQ1), [Takuo Yuasa](https://open.spotify.com/artist/2RUifEObHtCS1mnhPOyRFG) | [Glass, P.: Violin Concerto / Company / Prelude From Akhnaten](https://open.spotify.com/album/0FgDQQlTe4bTHi0v7S86Mf) | 1:56 | 2026-04-15 |  |
 | [Cool for You](https://open.spotify.com/track/63z7Boga8IJYzsxIWWS6vh) | [Haiku Hands](https://open.spotify.com/artist/3QX8CTn1znpY0HF3hbnNye) | [Pleasure Beast](https://open.spotify.com/album/66IEmux2d5OFfbdVbG8zp3) | 3:18 | 2026-04-01 |  |
 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 | 2025-02-06 |  |
 | [Do Betta](https://open.spotify.com/track/3ArX3tk2z53Kw0YLchwlyk) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Love Me Like](https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf) | 2:52 | 2025-02-06 |  |
@@ -83,6 +84,7 @@
 | [Truly.Modern.Love](https://open.spotify.com/track/1Sh15oE0WQQiajIkMG5Ait) | [The Last Royals](https://open.spotify.com/artist/5IdTPFXrveWkm5GNFJa9fw) | [Truly.Modern.Love.](https://open.spotify.com/album/400QneRa5eZVCHBQFqhGlE) | 3:30 | 2025-02-06 |  |
 | [u and me, but mostly me](https://open.spotify.com/track/3JVVqUHTCylHLm9wCLh5hL) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [u and me, but mostly me](https://open.spotify.com/album/0QZZbn5ugHghTnSaHpPZPn) | 4:20 | 2025-02-06 |  |
 | [Ugly and Vengeful](https://open.spotify.com/track/6t9eDPVxlTcFrsibjpPEFd) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/3SyUQAjkOys8Gl5ANZsS5e) | 16:17 | 2026-03-18 |  |
+| [Under Stars \- Remastered 2019](https://open.spotify.com/track/2iOzx4XrUNl9UiS0SdghEQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo: Atmospheres And Soundtracks \(Extended Edition\)](https://open.spotify.com/album/1Km58i317Pm5bQR3wPHKcO) | 4:29 | 2026-04-15 |  |
 | [We Are Infinite](https://open.spotify.com/track/0PsCdWEczdow0ZYgmRd1Mq) | [The Lighthouse And The Whaler](https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3) | [Mont Royal](https://open.spotify.com/album/7DQVIBQzh3Jef1EeK3Fb1W) | 3:05 | 2025-02-06 |  |
 | [Weapon of Choice](https://open.spotify.com/track/08kB9HSfrcIi83rymwgjMz) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [The Greatest Hits: Why Try Harder](https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ) | 3:39 | 2025-02-06 |  |
 | [What I Needed](https://open.spotify.com/track/2J4D2sVNEoORSAsYd2sIqo) | [Bombay Beach Revival](https://open.spotify.com/artist/1W7pMXb6n6ZUUM9Axqi9tL) | [Another Soul](https://open.spotify.com/album/6pNbA97bxlpTYSy6nyrx4q) | 3:51 | 2025-02-20 |  |

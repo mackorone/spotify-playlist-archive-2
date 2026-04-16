@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23107,
+  "num_followers": 23117,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,26 @@
     {
       "added_at": "2026-04-13 14:50:44",
       "album": {
+        "name": "Formation",
+        "url": "https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Formation",
+      "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
+    },
+    {
+      "added_at": "2026-04-13 14:50:44",
+      "album": {
         "name": "MAIOR QUE O TEMPO",
         "url": "https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 228349,
       "name": "MULHER SECRETA",
       "url": "https://open.spotify.com/track/7IrWDPYP9rwNq1N4aUF3nG"
-    },
-    {
-      "added_at": "2026-04-13 14:50:44",
-      "album": {
-        "name": "Formation",
-        "url": "https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Formation",
-      "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
     },
     {
       "added_at": "2026-04-13 14:50:44",
@@ -339,6 +339,26 @@
     {
       "added_at": "2026-04-13 14:50:44",
       "album": {
+        "name": "9PM IN PARIS",
+        "url": "https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9"
+      },
+      "artists": [
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        },
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "duration_ms": 159322,
+      "name": "Touch me (feat. Ya Levis)",
+      "url": "https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk"
+    },
+    {
+      "added_at": "2026-04-13 14:50:44",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": "2026-04-13 14:50:44",
-      "album": {
-        "name": "9PM IN PARIS",
-        "url": "https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9"
-      },
-      "artists": [
-        {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
-        },
-        {
-          "name": "Ya Levis",
-          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
-        }
-      ],
-      "duration_ms": 159322,
-      "name": "Touch me (feat. Ya Levis)",
-      "url": "https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk"
     },
     {
       "added_at": "2026-04-13 14:50:44",
@@ -527,26 +527,6 @@
     {
       "added_at": "2026-04-13 14:50:44",
       "album": {
-        "name": "Repare",
-        "url": "https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 202245,
-      "name": "Repare",
-      "url": "https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R"
-    },
-    {
-      "added_at": "2026-04-13 14:50:44",
-      "album": {
         "name": "Baile Em Chamas",
         "url": "https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 173333,
       "name": "Baile Em Chamas",
       "url": "https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid"
+    },
+    {
+      "added_at": "2026-04-13 14:50:44",
+      "album": {
+        "name": "Repare",
+        "url": "https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 202245,
+      "name": "Repare",
+      "url": "https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R"
     },
     {
       "added_at": "2026-04-13 14:50:44",
@@ -715,6 +715,26 @@
     {
       "added_at": "2026-04-13 14:50:44",
       "album": {
+        "name": "PELE ESCURA",
+        "url": "https://open.spotify.com/album/4wkmiVQFi3CRV1nXEHWVEH"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Leonok",
+          "url": "https://open.spotify.com/artist/6wXZ4MpqeqQybIustnLsta"
+        }
+      ],
+      "duration_ms": 188615,
+      "name": "PELE ESCURA",
+      "url": "https://open.spotify.com/track/1Z99gpCrrTm7BW3Mwns9zO"
+    },
+    {
+      "added_at": "2026-04-13 14:50:44",
+      "album": {
         "name": "Coulda Shown You",
         "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
       },
@@ -759,6 +779,22 @@
     {
       "added_at": "2026-04-13 14:50:44",
       "album": {
+        "name": "Fiona",
+        "url": "https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF"
+      },
+      "artists": [
+        {
+          "name": "BENSH47",
+          "url": "https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "Fiona",
+      "url": "https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J"
+    },
+    {
+      "added_at": "2026-04-13 14:50:44",
+      "album": {
         "name": "CORTAVENTO",
         "url": "https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF"
       },
@@ -791,42 +827,6 @@
       "duration_ms": 230580,
       "name": "AYE O",
       "url": "https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2"
-    },
-    {
-      "added_at": "2026-04-13 14:50:44",
-      "album": {
-        "name": "PELE ESCURA",
-        "url": "https://open.spotify.com/album/4wkmiVQFi3CRV1nXEHWVEH"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Leonok",
-          "url": "https://open.spotify.com/artist/6wXZ4MpqeqQybIustnLsta"
-        }
-      ],
-      "duration_ms": 188615,
-      "name": "PELE ESCURA",
-      "url": "https://open.spotify.com/track/1Z99gpCrrTm7BW3Mwns9zO"
-    },
-    {
-      "added_at": "2026-04-13 14:50:44",
-      "album": {
-        "name": "Fiona",
-        "url": "https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF"
-      },
-      "artists": [
-        {
-          "name": "BENSH47",
-          "url": "https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "Fiona",
-      "url": "https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J"
     },
     {
       "added_at": "2026-04-13 14:50:44",

@@ -4,7 +4,7 @@
 
 > Best Love songs, Before Anything Else<br/>Cover : Don
 
-100 songs - 7 hr 5 min
+101 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Paisa Note](https://open.spotify.com/track/1SfZww9mRI9bWHqfvZItl1) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Pradeep Ranganathan](https://open.spotify.com/artist/5Kx2ruxFSUGdqCG7kJtet1), [Mobin](https://open.spotify.com/artist/2pGYcYwXLZsRkUbgaap75I), [Gana Kavi](https://open.spotify.com/artist/66Ep8Ayw969Dffjpusd1CU) | [Comali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3RpJzMQ79BEK7xCJIzgPSk) | 3:04 | 2022-05-10 |  |
 | [Pakkam Vanthu](https://open.spotify.com/track/2mo1jyrYHdyiekQHNKXx1C) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jo4lZjhgTwX7ldHD5hl1t) | 4:18 | 2022-05-10 | 2024-04-19 |
 | [Pakkam Vanthu \(From "Kaththi"\)](https://open.spotify.com/track/73QrFjT6dth8UlR7vFOFVM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 4:16 | 2022-05-10 |  |
+| [Pavazha Malli \- From "Think Indie"](https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Pavazha Malli \(From "Think Indie"\)](https://open.spotify.com/album/0AZKtXd74RQmQtCSGcVuZB) | 4:12 | 2026-04-15 |  |
 | [Pudhu Metro Rail](https://open.spotify.com/track/1agEYXNhamNXNnsUZVRd9c) | [Vikram](https://open.spotify.com/artist/1hP2OKkJ24oEkW8nNpQLX7), [Keerthy Suresh](https://open.spotify.com/artist/32ZzRl7e5UFtJnDO2URfGi) | [Saamy Square \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3oQgGFp6KmLOZa7HW6GP9l) | 4:18 | 2022-05-10 | 2023-05-03 |
 | [Raati](https://open.spotify.com/track/0iZ70iS3InwGoVyH1WBIl2) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D), [Swagatha](https://open.spotify.com/artist/3fX6I5TxaX7VusdmICwfy4) | [Partner \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ImbNeAxzmYKi5JtcAhVEQ) | 4:18 | 2022-05-10 | 2023-05-03 |
 | [Railin Oligal \- From "Blue Star"](https://open.spotify.com/track/5Y7Y315vZkOZbesJ22jXkK) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Railin Oligal \(From "Blue Star"\)](https://open.spotify.com/album/6SgtjBVtmhTI84jWMyQlFC) | 2:37 | 2023-09-29 |  |

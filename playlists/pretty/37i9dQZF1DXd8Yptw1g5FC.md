@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Melike Şahin x Seda Erciyes ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,419 likes - 141 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,417 likes - 141 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

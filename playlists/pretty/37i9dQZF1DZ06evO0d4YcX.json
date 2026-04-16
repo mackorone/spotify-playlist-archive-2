@@ -1,12 +1,12 @@
 {
   "description": "This is Amber Mark. The essential tracks, all in one playlist.",
-  "num_followers": 16225,
+  "num_followers": 16232,
   "original_name": "This Is Amber Mark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adwyAAAAAAD+q4UyV6iJvf80XWkW2goz",
+  "snapshot_id": "ad2DgAAAAABmL9z/fxWtRBqkng15pVpT",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Conex\u00e3o - EP",
+        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 232273,
+      "name": "Love Is Stronger Than Pride",
+      "url": "https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Like A Hunger",
         "url": "https://open.spotify.com/album/7wWi3qsBhpW0HWrUgOSzz3"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 272736,
       "name": "Like A Hunger",
       "url": "https://open.spotify.com/track/7lgZSvDebog8YgblEudPYA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conex\u00e3o - EP",
-        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 232273,
-      "name": "Love Is Stronger Than Pride",
-      "url": "https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX"
     },
     {
       "added_at": null,

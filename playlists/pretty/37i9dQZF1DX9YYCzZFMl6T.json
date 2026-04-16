@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 7870,
+  "num_followers": 7868,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Auld Lang Syne",
-        "url": "https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y"
-      },
-      "artists": [
-        {
-          "name": "The Wandering Hearts",
-          "url": "https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl"
-        }
-      ],
-      "duration_ms": 262941,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "I Heard the Bells",
         "url": "https://open.spotify.com/album/3inmUzW5uliXu4hNQdpDUl"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 159784,
       "name": "Christmas Is All Around",
       "url": "https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y"
+      },
+      "artists": [
+        {
+          "name": "The Wandering Hearts",
+          "url": "https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl"
+        }
+      ],
+      "duration_ms": 262941,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd"
     },
     {
       "added_at": "2025-12-18 16:35:14",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "I'll Stay 'Til After Christmas",
-        "url": "https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu"
-      },
-      "artists": [
-        {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Christmas Is Coming Soon",
-      "url": "https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Santa Man / Hot Christmas",
         "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 126409,
       "name": "Santa Man",
       "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "I'll Stay 'Til After Christmas",
+        "url": "https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "Christmas Is Coming Soon",
+      "url": "https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI"
     },
     {
       "added_at": "2025-12-12 05:00:29",

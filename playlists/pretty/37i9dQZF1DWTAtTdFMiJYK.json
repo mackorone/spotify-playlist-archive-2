@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Sameer Rahat",
-  "num_followers": 191326,
+  "num_followers": 191346,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-04-14 06:17:06",
       "album": {
-        "name": "Tu Chodiyon Na",
-        "url": "https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe"
-      },
-      "artists": [
-        {
-          "name": "Ronit Vinta",
-          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
-        }
-      ],
-      "duration_ms": 212922,
-      "name": "Tu Chodiyon Na",
-      "url": "https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA"
-    },
-    {
-      "added_at": "2026-04-14 06:17:06",
-      "album": {
         "name": "Patang (From \"UR Debut\")",
         "url": "https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O"
       },
@@ -551,6 +535,38 @@
       "duration_ms": 178222,
       "name": "Patang (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda"
+    },
+    {
+      "added_at": "2026-04-14 06:17:06",
+      "album": {
+        "name": "Tu Chodiyon Na",
+        "url": "https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe"
+      },
+      "artists": [
+        {
+          "name": "Ronit Vinta",
+          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
+        }
+      ],
+      "duration_ms": 212922,
+      "name": "Tu Chodiyon Na",
+      "url": "https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA"
+    },
+    {
+      "added_at": "2026-04-14 06:17:06",
+      "album": {
+        "name": "Barse More Naina",
+        "url": "https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Barse More Naina",
+      "url": "https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON"
     },
     {
       "added_at": "2026-04-14 06:17:06",
@@ -575,22 +591,6 @@
       "duration_ms": 174065,
       "name": "Better With You (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c"
-    },
-    {
-      "added_at": "2026-04-14 06:17:06",
-      "album": {
-        "name": "Barse More Naina",
-        "url": "https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg"
-      },
-      "artists": [
-        {
-          "name": "KhoslaRaghu",
-          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Barse More Naina",
-      "url": "https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON"
     },
     {
       "added_at": "2026-04-14 06:17:06",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-04-14 06:17:06",
       "album": {
+        "name": "Saanjh",
+        "url": "https://open.spotify.com/album/2eselSZqVzpUQXp2SYcamV"
+      },
+      "artists": [
+        {
+          "name": "Kartik Raman",
+          "url": "https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc"
+        }
+      ],
+      "duration_ms": 240870,
+      "name": "Saanjh",
+      "url": "https://open.spotify.com/track/73HnMlPFhxQ4jqvqUWS0qO"
+    },
+    {
+      "added_at": "2026-04-14 06:17:06",
+      "album": {
         "name": "Jaadugari",
         "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2026-04-14 06:17:06",
       "album": {
-        "name": "Saanjh",
-        "url": "https://open.spotify.com/album/2eselSZqVzpUQXp2SYcamV"
-      },
-      "artists": [
-        {
-          "name": "Kartik Raman",
-          "url": "https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc"
-        }
-      ],
-      "duration_ms": 240870,
-      "name": "Saanjh",
-      "url": "https://open.spotify.com/track/73HnMlPFhxQ4jqvqUWS0qO"
-    },
-    {
-      "added_at": "2026-04-14 06:17:06",
-      "album": {
         "name": "Heeriye",
         "url": "https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj"
       },
@@ -907,6 +907,26 @@
       "duration_ms": 215333,
       "name": "Heeriye",
       "url": "https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK"
+    },
+    {
+      "added_at": "2026-04-14 06:17:06",
+      "album": {
+        "name": "Bhaage Naina",
+        "url": "https://open.spotify.com/album/7MNqgKxMEZmaxN0AECvXSl"
+      },
+      "artists": [
+        {
+          "name": "Vismay Patel",
+          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
+        },
+        {
+          "name": "Shishir",
+          "url": "https://open.spotify.com/artist/6yVDprBf66s5n9yf2hQ220"
+        }
+      ],
+      "duration_ms": 159973,
+      "name": "Bhaage Naina",
+      "url": "https://open.spotify.com/track/1VGTeXWTqjpwCBP5n3kwrI"
     },
     {
       "added_at": "2026-04-14 06:17:06",
@@ -967,26 +987,6 @@
       "duration_ms": 190000,
       "name": "Jaa Tujhe Ishq Ho",
       "url": "https://open.spotify.com/track/3nsJy2UpjJyo14sqcbgJGH"
-    },
-    {
-      "added_at": "2026-04-14 06:17:06",
-      "album": {
-        "name": "Bhaage Naina",
-        "url": "https://open.spotify.com/album/7MNqgKxMEZmaxN0AECvXSl"
-      },
-      "artists": [
-        {
-          "name": "Vismay Patel",
-          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
-        },
-        {
-          "name": "Shishir",
-          "url": "https://open.spotify.com/artist/6yVDprBf66s5n9yf2hQ220"
-        }
-      ],
-      "duration_ms": 159973,
-      "name": "Bhaage Naina",
-      "url": "https://open.spotify.com/track/1VGTeXWTqjpwCBP5n3kwrI"
     },
     {
       "added_at": "2026-04-14 06:17:06",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-04-14 06:17:06",
       "album": {
-        "name": "Noor",
-        "url": "https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm"
-      },
-      "artists": [
-        {
-          "name": "Akshath",
-          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
-        }
-      ],
-      "duration_ms": 192592,
-      "name": "Noor",
-      "url": "https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H"
-    },
-    {
-      "added_at": "2026-04-14 06:17:06",
-      "album": {
         "name": "Aashiyan",
         "url": "https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 174222,
       "name": "Aashiyan",
       "url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h"
+    },
+    {
+      "added_at": "2026-04-14 06:17:06",
+      "album": {
+        "name": "Noor",
+        "url": "https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "duration_ms": 192592,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H"
     },
     {
       "added_at": "2026-04-14 06:17:06",
@@ -1251,34 +1251,6 @@
     {
       "added_at": "2026-04-14 06:17:06",
       "album": {
-        "name": "Tanhaiyaan",
-        "url": "https://open.spotify.com/album/0C8ZC5kcAPqOPJzW9DWfRl"
-      },
-      "artists": [
-        {
-          "name": "Sahil",
-          "url": "https://open.spotify.com/artist/0VTeniNQkQ4cezeg8IFwF9"
-        },
-        {
-          "name": "Himonshu Parikh",
-          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
-        },
-        {
-          "name": "Rajan Batra",
-          "url": "https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c"
-        },
-        {
-          "name": "Taaruk Raina",
-          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
-        }
-      ],
-      "duration_ms": 189729,
-      "name": "Tanhaiyaan",
-      "url": "https://open.spotify.com/track/6i4mVSCgUPbpNQxtQnKqe1"
-    },
-    {
-      "added_at": "2026-04-14 06:17:06",
-      "album": {
         "name": "CIRCLES",
         "url": "https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t"
       },
@@ -1307,6 +1279,34 @@
       "duration_ms": 172823,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ"
+    },
+    {
+      "added_at": "2026-04-14 06:17:06",
+      "album": {
+        "name": "Tanhaiyaan",
+        "url": "https://open.spotify.com/album/0C8ZC5kcAPqOPJzW9DWfRl"
+      },
+      "artists": [
+        {
+          "name": "Sahil",
+          "url": "https://open.spotify.com/artist/0VTeniNQkQ4cezeg8IFwF9"
+        },
+        {
+          "name": "Himonshu Parikh",
+          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
+        },
+        {
+          "name": "Rajan Batra",
+          "url": "https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c"
+        },
+        {
+          "name": "Taaruk Raina",
+          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
+        }
+      ],
+      "duration_ms": 189729,
+      "name": "Tanhaiyaan",
+      "url": "https://open.spotify.com/track/6i4mVSCgUPbpNQxtQnKqe1"
     },
     {
       "added_at": "2026-04-14 06:17:06",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-04-14 06:17:06",
       "album": {
-        "name": "Laut Aao Na",
-        "url": "https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O"
-      },
-      "artists": [
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Laut Aao Na",
-      "url": "https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu"
-    },
-    {
-      "added_at": "2026-04-14 06:17:06",
-      "album": {
         "name": "Kaise Ho Tum",
         "url": "https://open.spotify.com/album/6AnZMvLRQAA3WNH5OXC4ZJ"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 163899,
       "name": "Kaise Ho Tum",
       "url": "https://open.spotify.com/track/3Uwok7aLLQyXhfqNlekSim"
+    },
+    {
+      "added_at": "2026-04-14 06:17:06",
+      "album": {
+        "name": "Laut Aao Na",
+        "url": "https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Laut Aao Na",
+      "url": "https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu"
     },
     {
       "added_at": "2026-04-14 06:17:06",

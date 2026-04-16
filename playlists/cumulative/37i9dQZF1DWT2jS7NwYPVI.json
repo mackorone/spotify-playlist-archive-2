@@ -44406,24 +44406,6 @@
     {
       "album": {
         "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "date_added": "2023-04-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
-    },
-    {
-      "album": {
-        "name": "Nothing Matters (feat. Maresz)",
         "url": "https://open.spotify.com/album/68H5ipiHhUvkNO03s9n0oz"
       },
       "artists": [
@@ -44440,8 +44422,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182386,
-      "name": "Nothing Matters (feat. Maresz)",
+      "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/6GzUTy6FxAaSVEvlxJXgFB"
+    },
+    {
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-24",
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
       "album": {

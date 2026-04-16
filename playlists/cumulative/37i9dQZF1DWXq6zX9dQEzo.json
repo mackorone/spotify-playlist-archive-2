@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 136421,
       "name": "BACK OUTSIDE",
       "url": "https://open.spotify.com/track/6eRSb2uLyScpC2qvDhY5X0"
@@ -12446,6 +12446,28 @@
       "duration_ms": 135000,
       "name": "Out With a Bang",
       "url": "https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK"
+    },
+    {
+      "album": {
+        "name": "The Renaissance Era",
+        "url": "https://open.spotify.com/album/3FwMone2xbrog3Sn7A21kf"
+      },
+      "artists": [
+        {
+          "name": "Cyf\u00eb II",
+          "url": "https://open.spotify.com/artist/0g4dqela7F6gOIk4wEOgOv"
+        },
+        {
+          "name": "KRL",
+          "url": "https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "Outkast",
+      "url": "https://open.spotify.com/track/7mWS0RXJKtDI4uowLiUaK2"
     },
     {
       "album": {

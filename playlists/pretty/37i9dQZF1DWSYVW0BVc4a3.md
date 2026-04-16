@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > All energy\. Cover: Olof Dreijer
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,312 likes - 172 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,326 likes - 172 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

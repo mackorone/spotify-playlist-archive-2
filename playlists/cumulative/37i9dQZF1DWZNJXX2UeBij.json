@@ -3688,7 +3688,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 412970,
       "name": "Kay Sera Sera",
       "url": "https://open.spotify.com/track/0OXQa6GOzxeYWFopEmASw9"
@@ -5712,6 +5712,40 @@
       "duration_ms": 282973,
       "name": "Roobaroo",
       "url": "https://open.spotify.com/track/3vqJY3pVELLIxqXXyI08yr"
+    },
+    {
+      "album": {
+        "name": "Dil Ka Rishta (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5LQwSf3fgtxayGrZXwvB6W"
+      },
+      "artists": [
+        {
+          "name": "Nadeem Shravan",
+          "url": "https://open.spotify.com/artist/0xHXoShMJw3xDArjL8IHtt"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Sapna Awasthi",
+          "url": "https://open.spotify.com/artist/2tFjeCx8NJhn7JBTTiWT30"
+        },
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380840,
+      "name": "Saajan Saajan",
+      "url": "https://open.spotify.com/track/4P25f3LqNt0QkohVuRV3CN"
     },
     {
       "album": {

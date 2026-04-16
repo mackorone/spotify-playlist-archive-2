@@ -2403,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "Joe Dumars/Synth Hearts",
+        "url": "https://open.spotify.com/album/209BcoVqirjS4BdfJrHwLV"
+      },
+      "artists": [
+        {
+          "name": "Billy Manilli",
+          "url": "https://open.spotify.com/artist/7ghnXMugKVqRgtg0DjKKhT"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277439,
+      "name": "Synth Hearts",
+      "url": "https://open.spotify.com/track/467xmMRLAY5vlMyuSxJRj4"
+    },
+    {
+      "album": {
         "name": "Tangerine Dream",
         "url": "https://open.spotify.com/album/51D2TTeRC7Slr7pAz6BbSc"
       },
@@ -2844,6 +2862,24 @@
       "duration_ms": 275653,
       "name": "When the morning comes",
       "url": "https://open.spotify.com/track/25h7h8uwiZOK7Ozfm3NjZR"
+    },
+    {
+      "album": {
+        "name": "The Girl in the Green Dress",
+        "url": "https://open.spotify.com/album/6vKIe6idsMvaP2g9ohxSda"
+      },
+      "artists": [
+        {
+          "name": "Unlucky, the Artist",
+          "url": "https://open.spotify.com/artist/64yoZKpTyLneeIOG4O43nN"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138006,
+      "name": "Where'd the Time Go",
+      "url": "https://open.spotify.com/track/6i6lY3HsgbLGgyM86tHgZn"
     },
     {
       "album": {

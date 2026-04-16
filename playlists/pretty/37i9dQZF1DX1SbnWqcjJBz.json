@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 135421,
+  "num_followers": 135436,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 162595,
+      "name": "Look At Her Now",
+      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/49Teqcxp4dOBayTBtR3j5W"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 189200,
       "name": "1999",
       "url": "https://open.spotify.com/track/05mAIVLkIWc2d1UBYZBCp8"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 162595,
-      "name": "Look At Her Now",
-      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 255866,
-      "name": "Holler",
-      "url": "https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "A Joyful Noise",
         "url": "https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 211819,
       "name": "Move in the Right Direction",
       "url": "https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "Holler",
+      "url": "https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 194586,
-      "name": "Lost In My Bedroom",
-      "url": "https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Paris (U.S. Standard Version)",
         "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 189933,
       "name": "Nothing in This World",
       "url": "https://open.spotify.com/track/4XRGwyAARL21fesc6BvliF"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 194586,
+      "name": "Lost In My Bedroom",
+      "url": "https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Daddy AF",
+        "url": "https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "Daddy AF",
+      "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Breathe In. Breathe Out.",
         "url": "https://open.spotify.com/album/2hyPisCjBWeFQ90FLwhriT"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 235066,
       "name": "You\u2019re Not The One",
       "url": "https://open.spotify.com/track/0Px73m5ACfeYHYsAo9YTfP"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Daddy AF",
-        "url": "https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 151866,
-      "name": "Daddy AF",
-      "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "What Are You Waiting For?",
-        "url": "https://open.spotify.com/album/3MS1gNAz5pde4zfLKlALc3"
-      },
-      "artists": [
-        {
-          "name": "The Saturdays",
-          "url": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
-        },
-        {
-          "name": "The Alias",
-          "url": "https://open.spotify.com/artist/78WijkLKBV4F1vRUZepBSp"
-        }
-      ],
-      "duration_ms": 461737,
-      "name": "Greatest Hits Megamix",
-      "url": "https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Glorious (Deluxe)",
         "url": "https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru"
       },
@@ -1575,22 +1555,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Rebel Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
+        "name": "What Are You Waiting For?",
+        "url": "https://open.spotify.com/album/3MS1gNAz5pde4zfLKlALc3"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "The Saturdays",
+          "url": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
         },
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "The Alias",
+          "url": "https://open.spotify.com/artist/78WijkLKBV4F1vRUZepBSp"
         }
       ],
-      "duration_ms": 227480,
-      "name": "Bitch I'm Madonna",
-      "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
+      "duration_ms": 461737,
+      "name": "Greatest Hits Megamix",
+      "url": "https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1699,6 +1679,26 @@
       "duration_ms": 236533,
       "name": "Cry",
       "url": "https://open.spotify.com/track/7wgxq27uOvfydLunYkcmAU"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Rebel Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227480,
+      "name": "Bitch I'm Madonna",
+      "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
     }
   ],
   "unique_name": "Deserved",

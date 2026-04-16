@@ -4,7 +4,7 @@
 
 > Our favourite new music, curated by the XL team.
 
-931 songs - 2 day 4 hr 58 min
+932 songs - 2 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -914,6 +914,7 @@
 | [Where You Been \(feat\. Len\)](https://open.spotify.com/track/0XvmJxkm6NCCOM5PYgYBSs) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Where You Been \(feat\. Len\)](https://open.spotify.com/album/3IHvjKxvKVbXLMzGNbmLa1) | 2:26 | 2025-06-25 |  |
 | [where's my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where's my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 | 2023-12-06 | 2024-03-22 |
 | [Where's The Daddy?](https://open.spotify.com/track/2xnFroyqH6GJDkuCUCMTMF) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Where's The Daddy ?](https://open.spotify.com/album/23WBjm2FPx79LEaSKjPWwZ) | 2:52 | 2024-12-09 | 2025-06-26 |
+| [Where's Your Head At \- Steve Angello Remix](https://open.spotify.com/track/0oHhMAPR3t9DgDvjtSKBdr) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Where's Your Head At \(Steve Angello Remix\)](https://open.spotify.com/album/5hjAI2j0sEvO2QhWtmH9nE) | 3:00 | 2026-04-15 |  |
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-07-03 | 2023-12-08 |
 | [WHOEVER CONTROLS THE SKIES](https://open.spotify.com/track/1XfoNrpbaaz3NvvJVJPWer) | [CEEROUS](https://open.spotify.com/artist/0pysYjhrYgZ7wGkNOW7YFX) | [WHOEVER CONTROLS THE SKIES](https://open.spotify.com/album/7JsPL3YnNHytGMA5AMqPuT) | 2:57 | 2024-09-07 | 2025-03-21 |
 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 | 2023-01-18 | 2023-03-16 |

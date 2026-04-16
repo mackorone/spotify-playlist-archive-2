@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Eric Church
 
-231 songs - 16 hr 25 min
+232 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Thank God I'm a Country Boy \- Live at the Universal Amphitheatre, Los Angeles, CA \- August/September 1974](https://open.spotify.com/track/7sVfJHBjH9cr4XsTYAwNYI) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [An Evening With John Denver](https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4) | 3:40 | 2024-05-04 |  |
 | [The Cross \- Live](https://open.spotify.com/track/7DtC8PEwveWtuVImBCl42S) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(Live From Lexington\)](https://open.spotify.com/album/4YNYONGCfyUsXb3SjMWay1) | 3:42 | 2024-10-25 |  |
 | [The Devil I Know \- Live](https://open.spotify.com/track/6T8YqasfO5nRHXyoGc2mr3) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know \(Live\)](https://open.spotify.com/album/1zEc1DnGhkXQDfgc3AoSmE) | 4:08 | 2024-08-02 | 2024-09-22 |
+| [The Devil Went Down to Georgia \- Volunteer Jam V \- Live](https://open.spotify.com/track/5QsaNFwxRWMQ69aQ4656GE) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [The Devil Went Down to Georgia \- Volunteer Jam V \(Live\)](https://open.spotify.com/album/1CVUOTZXIf1dKazzxH8MUz) | 4:03 | 2026-04-15 |  |
 | [The First Cut Is The Deepest \- Live from the Ryman/2019](https://open.spotify.com/track/2XmHi7tiJKashUfWs3Ser3) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Live From the Ryman And More](https://open.spotify.com/album/6umHfVdm0kTvSVsasefD6U) | 4:04 | 2021-08-13 | 2024-05-05 |
 | [These Boots \- Live At Talking Stick Resort Arena, Phoenix, AZ / March 28, 2017](https://open.spotify.com/track/40lYJ3Ew1g03YQlgbvy5jv) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 3](https://open.spotify.com/album/3LIQDQZgWiRaBgydD5BgA3) | 4:00 | 2021-07-22 | 2025-11-02 |
 | [This Too Shall Pass](https://open.spotify.com/track/69hYzcgd827dKhwSMCsedv) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Larry Fleet \- The Live Sessions \[Vol\. 1\]](https://open.spotify.com/album/5H95ZfDRml2PLOWKL1r9lM) | 3:38 | 2022-10-28 | 2024-09-07 |
@@ -231,7 +232,7 @@
 | [Woman, Amen \- Live](https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 4:52 | 2021-07-22 |  |
 | [Wreckage \- Live](https://open.spotify.com/track/5zHB9D7aOex9INWtPJt1Kb) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wreckage \(Live\)](https://open.spotify.com/album/0kfcUkCxICzTR7iO6owi9O) | 3:31 | 2023-03-31 | 2025-03-24 |
 | [Write This Down \- Live](https://open.spotify.com/track/5AP4NeswU941cNkFxeloME) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 3:31 | 2021-07-22 |  |
-| [Written in the Sand \- Live](https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Written in the Sand \(Live\)](https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2) | 3:16 | 2021-07-22 |  |
+| [Written in the Sand \- Live](https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Written in the Sand \(Live\)](https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2) | 3:16 | 2021-07-22 | 2026-04-16 |
 | [You and Tequila \(with Grace Potter\) \- Live](https://open.spotify.com/track/42J7EbIglcJtzqeMSHD16P) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 4:45 | 2021-07-22 |  |
 | [you don't deserve a country song \- Live from the Ryman](https://open.spotify.com/track/5L7WGjIElVTxfZ7gXYYeg0) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Alana Springsteen: Live from the Ryman](https://open.spotify.com/album/3lEZ56PjLi31aGcN3jQnk6) | 4:41 | 2025-01-25 | 2025-04-14 |
 | [You Get What You Give \- Live from the HIGH AND ALIVE WORLD TOUR](https://open.spotify.com/track/3G5OWChi7RlexYHqzWsn9I) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH AND A\(LIVE\)](https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL) | 3:08 | 2025-12-12 |  |

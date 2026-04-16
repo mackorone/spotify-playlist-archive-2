@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 191443,
       "name": "Adored",
       "url": "https://open.spotify.com/track/5GLNsiFGhE9gHL4aefiQiT"
@@ -4410,7 +4410,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 184373,
       "name": "Blankspace",
       "url": "https://open.spotify.com/track/0y4l286JVQCzFf2mC1esgl"
@@ -5224,7 +5224,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 200230,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5kY94GfvzI4gVLVqf9A1HD"
@@ -11198,7 +11198,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 140373,
       "name": "Down on me",
       "url": "https://open.spotify.com/track/3qRHkOVmIFM6SJQuTwKZAs"
@@ -12657,6 +12657,24 @@
     },
     {
       "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391268,
+      "name": "Fabienk",
+      "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA"
+    },
+    {
+      "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/3SNqO4GPBDnHckxX87zj0N"
       },
@@ -13356,7 +13374,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 151580,
       "name": "Figurine",
       "url": "https://open.spotify.com/track/3eo9ytt9yiJRLUy85Wumnw"
@@ -15824,7 +15842,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 215760,
       "name": "Ground Kiss",
       "url": "https://open.spotify.com/track/15xTM6DyJGJRbcqVFz5lD8"
@@ -20793,6 +20811,24 @@
     },
     {
       "album": {
+        "name": "Let's Go Home",
+        "url": "https://open.spotify.com/album/1m0Zd4BsIy9A6H0CxEZ1ZN"
+      },
+      "artists": [
+        {
+          "name": "best dressed ghost",
+          "url": "https://open.spotify.com/artist/3Rh1YnnvbwePqsU1NPZhPy"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84881,
+      "name": "Kay, Babe",
+      "url": "https://open.spotify.com/track/67YXYKOHTCWZYvYqmKev0t"
+    },
+    {
+      "album": {
         "name": "Keep It",
         "url": "https://open.spotify.com/album/2hHedQNHgErs5oyPx5mhbe"
       },
@@ -21118,6 +21154,24 @@
       "duration_ms": 182619,
       "name": "Killer",
       "url": "https://open.spotify.com/track/3p5IllwCJZnK9sNU6SvkTP"
+    },
+    {
+      "album": {
+        "name": "Kind of Girl I Am",
+        "url": "https://open.spotify.com/album/18XwneodQZqn7N1we8ybgo"
+      },
+      "artists": [
+        {
+          "name": "Trophy Wife",
+          "url": "https://open.spotify.com/artist/7HcbQJiChdkCTU40v2tsvc"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143241,
+      "name": "Kind of Girl I Am",
+      "url": "https://open.spotify.com/track/2vmbWXnyrmCLI1usekZIEX"
     },
     {
       "album": {
@@ -22911,6 +22965,24 @@
     },
     {
       "album": {
+        "name": "Lovebird",
+        "url": "https://open.spotify.com/album/4yaBEW4uWx2hrtBjkJ6KRf"
+      },
+      "artists": [
+        {
+          "name": "idialedyournumber",
+          "url": "https://open.spotify.com/artist/7yyQ1q0HnyerC1kGKTj1Dm"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244571,
+      "name": "Lovebird",
+      "url": "https://open.spotify.com/track/6wER8KfUAILrQvv65xWuWl"
+    },
+    {
+      "album": {
         "name": "Studies and Observations",
         "url": "https://open.spotify.com/album/2vf6sOX1ZiZ9oL9iU6HZ9n"
       },
@@ -24568,7 +24640,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 208389,
       "name": "More Fire",
       "url": "https://open.spotify.com/track/4VWyHOJIH9Q6wsMDoPJW0Z"
@@ -27952,6 +28024,24 @@
       "duration_ms": 164485,
       "name": "peaches",
       "url": "https://open.spotify.com/track/4tcdP94DVfoNctCdz8aozT"
+    },
+    {
+      "album": {
+        "name": "Biting Heels",
+        "url": "https://open.spotify.com/album/3ebmGyTFXk74mBNYspqEwy"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "Perfect Pain",
+      "url": "https://open.spotify.com/track/58cpluWUBHARQKwRnnfisW"
     },
     {
       "album": {
@@ -32010,7 +32100,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 343190,
       "name": "Sherpa",
       "url": "https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G"
@@ -32176,6 +32266,24 @@
       "duration_ms": 181648,
       "name": "Sick Little Star",
       "url": "https://open.spotify.com/track/1uWpK1MUeMEKA77lyZM4tG"
+    },
+    {
+      "album": {
+        "name": "Sidestep",
+        "url": "https://open.spotify.com/album/3CYDOCmr3EZ89osXV0St45"
+      },
+      "artists": [
+        {
+          "name": "World News",
+          "url": "https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356146,
+      "name": "Sidestep",
+      "url": "https://open.spotify.com/track/2DKlZoozJDcMUMhZd6wB2J"
     },
     {
       "album": {
@@ -35022,7 +35130,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 291053,
       "name": "Sundance",
       "url": "https://open.spotify.com/track/5HhhqdWhNx2g4cBA2GXkt2"
@@ -38663,6 +38771,24 @@
     },
     {
       "album": {
+        "name": "Undefined",
+        "url": "https://open.spotify.com/album/2sg9fzFpyvoQIfcoSTKHKd"
+      },
+      "artists": [
+        {
+          "name": "youbet",
+          "url": "https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197453,
+      "name": "Undefined",
+      "url": "https://open.spotify.com/track/4YXvbI13LqYxXkDZVzWuvv"
+    },
+    {
+      "album": {
         "name": "Under The Table",
         "url": "https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW"
       },
@@ -39738,6 +39864,24 @@
       "duration_ms": 191020,
       "name": "We Can Start Over",
       "url": "https://open.spotify.com/track/6DT2cBHPFHcu7XSil5WB9m"
+    },
+    {
+      "album": {
+        "name": "We're Gonna Be Okay",
+        "url": "https://open.spotify.com/album/7bsWF5EJ5oMXtDS4SubL3X"
+      },
+      "artists": [
+        {
+          "name": "Dari Bay",
+          "url": "https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258500,
+      "name": "We're Gonna Be Okay",
+      "url": "https://open.spotify.com/track/3mUjvYCQXsbiloF2b2IHt0"
     },
     {
       "album": {
@@ -41310,7 +41454,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 176430,
       "name": "XO",
       "url": "https://open.spotify.com/track/7AJo6FdBPHCkyZ00euEKNg"

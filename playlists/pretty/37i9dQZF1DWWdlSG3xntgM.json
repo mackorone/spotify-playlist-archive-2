@@ -1,6 +1,6 @@
 {
-  "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
-  "num_followers": 50280,
+  "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
+  "num_followers": 50284,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-03-01 12:41:54",
       "album": {
-        "name": "Kh\u00fac T\u00ecnh X\u01b0a 1",
-        "url": "https://open.spotify.com/album/0KP7JvQacUA8pNIsX9wVFp"
-      },
-      "artists": [
-        {
-          "name": "L\u1ec7 Quy\u00ean",
-          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
-        }
-      ],
-      "duration_ms": 348138,
-      "name": "T\u00ecnh L\u1ee1",
-      "url": "https://open.spotify.com/track/5EaDSkp6yIfA516tmCGOPd"
-    },
-    {
-      "added_at": "2026-03-01 12:41:54",
-      "album": {
         "name": "Chuy\u1ec7n Gi\u00e0n Thi\u00ean L\u00fd (T\u00ecnh Kh\u00fac Anh B\u1eb1ng v\u00e0 Tr\u1ea7n Thi\u1ec7n Thanh)",
         "url": "https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 305349,
       "name": "Chuy\u1ec7n h\u1eb9n h\u00f2",
       "url": "https://open.spotify.com/track/4HpG7NZnDsWSKKyBLfEzYt"
+    },
+    {
+      "added_at": "2026-03-01 12:41:54",
+      "album": {
+        "name": "Kh\u00fac T\u00ecnh X\u01b0a 1",
+        "url": "https://open.spotify.com/album/0KP7JvQacUA8pNIsX9wVFp"
+      },
+      "artists": [
+        {
+          "name": "L\u1ec7 Quy\u00ean",
+          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
+        }
+      ],
+      "duration_ms": 348138,
+      "name": "T\u00ecnh L\u1ee1",
+      "url": "https://open.spotify.com/track/5EaDSkp6yIfA516tmCGOPd"
     },
     {
       "added_at": "2026-03-01 12:41:54",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-03-01 12:41:54",
       "album": {
-        "name": "\u0110\u00eam T\u00e2m S\u1ef1 (Kh\u00fac T\u00ecnh X\u01b0a 3)",
-        "url": "https://open.spotify.com/album/1u3z4jXHWQlbn6as6GECjV"
-      },
-      "artists": [
-        {
-          "name": "L\u1ec7 Quy\u00ean",
-          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
-        }
-      ],
-      "duration_ms": 305133,
-      "name": "Chuy\u1ebfn T\u00e0u Ho\u00e0ng H\u00f4n",
-      "url": "https://open.spotify.com/track/68MQeS7SL9bIe3BMZ9NKow"
-    },
-    {
-      "added_at": "2026-03-01 12:41:54",
-      "album": {
         "name": "X\u00f3t Xa",
         "url": "https://open.spotify.com/album/0WTjdkH320Kk3jiUeCWLU5"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 355266,
       "name": "Gi\u1ecdt L\u1ec7 \u0110\u00e0i Trang (feat. Ho\u00e0i L\u00e2m)",
       "url": "https://open.spotify.com/track/29MAQcIvkJOQ0NVceIdElR"
+    },
+    {
+      "added_at": "2026-03-01 12:41:54",
+      "album": {
+        "name": "\u0110\u00eam T\u00e2m S\u1ef1 (Kh\u00fac T\u00ecnh X\u01b0a 3)",
+        "url": "https://open.spotify.com/album/1u3z4jXHWQlbn6as6GECjV"
+      },
+      "artists": [
+        {
+          "name": "L\u1ec7 Quy\u00ean",
+          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
+        }
+      ],
+      "duration_ms": 305133,
+      "name": "Chuy\u1ebfn T\u00e0u Ho\u00e0ng H\u00f4n",
+      "url": "https://open.spotify.com/track/68MQeS7SL9bIe3BMZ9NKow"
     },
     {
       "added_at": "2026-03-01 12:41:54",
@@ -355,26 +355,6 @@
     {
       "added_at": "2026-03-01 12:41:54",
       "album": {
-        "name": "Kh\u00fac T\u00ecnh X\u01b0a 2",
-        "url": "https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX"
-      },
-      "artists": [
-        {
-          "name": "L\u1ec7 Quy\u00ean",
-          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
-        },
-        {
-          "name": "Quang L\u00ea",
-          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
-        }
-      ],
-      "duration_ms": 282721,
-      "name": "S\u1ea7u T\u00edm Thi\u1ec7p H\u1ed3ng",
-      "url": "https://open.spotify.com/track/6p2VRU6XOQ9caoStaN446h"
-    },
-    {
-      "added_at": "2026-03-01 12:41:54",
-      "album": {
         "name": "Kh\u00f4ng Ph\u1ea3i T\u1ea1i Ch\u00fang M\u00ecnh",
         "url": "https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 294106,
       "name": "Kh\u00f4ng Ph\u1ea3i T\u1ea1i Ch\u00fang M\u00ecnh",
       "url": "https://open.spotify.com/track/5Hfl18W3tEIalf5Uh83BPA"
+    },
+    {
+      "added_at": "2026-03-01 12:41:54",
+      "album": {
+        "name": "Kh\u00fac T\u00ecnh X\u01b0a 2",
+        "url": "https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX"
+      },
+      "artists": [
+        {
+          "name": "L\u1ec7 Quy\u00ean",
+          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
+        },
+        {
+          "name": "Quang L\u00ea",
+          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
+        }
+      ],
+      "duration_ms": 282721,
+      "name": "S\u1ea7u T\u00edm Thi\u1ec7p H\u1ed3ng",
+      "url": "https://open.spotify.com/track/6p2VRU6XOQ9caoStaN446h"
     },
     {
       "added_at": "2026-03-01 12:41:54",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-03-01 12:41:54",
       "album": {
-        "name": "\u0110\u00eam T\u00e2m S\u1ef1 (Kh\u00fac T\u00ecnh X\u01b0a 3)",
-        "url": "https://open.spotify.com/album/1u3z4jXHWQlbn6as6GECjV"
-      },
-      "artists": [
-        {
-          "name": "L\u1ec7 Quy\u00ean",
-          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
-        }
-      ],
-      "duration_ms": 334760,
-      "name": "Hoa N\u1edf V\u1ec1 \u0110\u00eam",
-      "url": "https://open.spotify.com/track/5TEBDblDZI2DZl7tJzDHma"
-    },
-    {
-      "added_at": "2026-03-01 12:41:54",
-      "album": {
         "name": "Kh\u00f4ng Ph\u1ea3i T\u1ea1i Ch\u00fang M\u00ecnh",
         "url": "https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2026-03-01 12:41:54",
       "album": {
-        "name": "\u0110\u00eam T\u00f3c R\u1ed1i",
-        "url": "https://open.spotify.com/album/1UFF5tQTFhLF8ULrxOBFmO"
+        "name": "\u0110\u00eam T\u00e2m S\u1ef1 (Kh\u00fac T\u00ecnh X\u01b0a 3)",
+        "url": "https://open.spotify.com/album/1u3z4jXHWQlbn6as6GECjV"
       },
       "artists": [
         {
-          "name": "Kh\u00e1nh B\u00ecnh",
-          "url": "https://open.spotify.com/artist/5pz8kleDDPd1Zf19PZO3JO"
+          "name": "L\u1ec7 Quy\u00ean",
+          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
         }
       ],
-      "duration_ms": 288466,
-      "name": "\u0110\u00eam T\u00f3c R\u1ed1i",
-      "url": "https://open.spotify.com/track/18tM1Iwp0HZpxGJnB6Tk40"
+      "duration_ms": 334760,
+      "name": "Hoa N\u1edf V\u1ec1 \u0110\u00eam",
+      "url": "https://open.spotify.com/track/5TEBDblDZI2DZl7tJzDHma"
     },
     {
       "added_at": "2026-03-01 12:41:54",
@@ -511,6 +495,22 @@
       "duration_ms": 280546,
       "name": "Chuy\u1ec7n h\u1ee3p tan",
       "url": "https://open.spotify.com/track/2tgGVELrUJO3gH3ziP2yCx"
+    },
+    {
+      "added_at": "2026-03-01 12:41:54",
+      "album": {
+        "name": "\u0110\u00eam T\u00f3c R\u1ed1i",
+        "url": "https://open.spotify.com/album/1UFF5tQTFhLF8ULrxOBFmO"
+      },
+      "artists": [
+        {
+          "name": "Kh\u00e1nh B\u00ecnh",
+          "url": "https://open.spotify.com/artist/5pz8kleDDPd1Zf19PZO3JO"
+        }
+      ],
+      "duration_ms": 288466,
+      "name": "\u0110\u00eam T\u00f3c R\u1ed1i",
+      "url": "https://open.spotify.com/track/18tM1Iwp0HZpxGJnB6Tk40"
     },
     {
       "added_at": "2026-03-01 12:41:54",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-03-01 12:41:54",
       "album": {
-        "name": "R\u1eebng L\u00e1 Thay Ch\u01b0a",
-        "url": "https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6"
-      },
-      "artists": [
-        {
-          "name": "Nh\u01b0 Qu\u1ef3nh",
-          "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
-        }
-      ],
-      "duration_ms": 401560,
-      "name": "Sao Ch\u01b0a Th\u1ea5y H\u1ed3i \u00c2m",
-      "url": "https://open.spotify.com/track/2bOLPLmnHoC8qAdsjSvRL8"
-    },
-    {
-      "added_at": "2026-03-01 12:41:54",
-      "album": {
         "name": "The Best Of Thanh Tuy\u1ec1n (Ng\u01b0\u1eddi M\u1eb9 B\u00e1n N\u00f3n)",
         "url": "https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 315385,
       "name": "Li\u00ean kh\u00fac Em l\u00e0 t\u1ea5t c\u1ea3 - Hai v\u00ec sao l\u1ea1c",
       "url": "https://open.spotify.com/track/4mtcwpgSjtHQYiKzIn5P5q"
+    },
+    {
+      "added_at": "2026-03-01 12:41:54",
+      "album": {
+        "name": "R\u1eebng L\u00e1 Thay Ch\u01b0a",
+        "url": "https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6"
+      },
+      "artists": [
+        {
+          "name": "Nh\u01b0 Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
+        }
+      ],
+      "duration_ms": 401560,
+      "name": "Sao Ch\u01b0a Th\u1ea5y H\u1ed3i \u00c2m",
+      "url": "https://open.spotify.com/track/2bOLPLmnHoC8qAdsjSvRL8"
     },
     {
       "added_at": "2026-03-01 12:41:54",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-03-01 12:41:54",
       "album": {
-        "name": "\u0110\u00eam bu\u1ed3n t\u1ec9nh l\u1ebb",
-        "url": "https://open.spotify.com/album/27rvjSE9KjUEKj3nqI50fA"
-      },
-      "artists": [
-        {
-          "name": "Tr\u01b0\u1eddng V\u0169",
-          "url": "https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo"
-        }
-      ],
-      "duration_ms": 278623,
-      "name": "Ng\u01b0\u1eddi y\u00eau c\u00f4 \u0111\u01a1n",
-      "url": "https://open.spotify.com/track/4XM1Y4jyxqcmBRKRSfUD7r"
-    },
-    {
-      "added_at": "2026-03-01 12:41:54",
-      "album": {
         "name": "The Best Of Thanh Tuy\u1ec1n (Ng\u01b0\u1eddi M\u1eb9 B\u00e1n N\u00f3n)",
         "url": "https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2026-03-01 12:41:54",
       "album": {
+        "name": "\u0110\u00eam bu\u1ed3n t\u1ec9nh l\u1ebb",
+        "url": "https://open.spotify.com/album/27rvjSE9KjUEKj3nqI50fA"
+      },
+      "artists": [
+        {
+          "name": "Tr\u01b0\u1eddng V\u0169",
+          "url": "https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo"
+        }
+      ],
+      "duration_ms": 278623,
+      "name": "Ng\u01b0\u1eddi y\u00eau c\u00f4 \u0111\u01a1n",
+      "url": "https://open.spotify.com/track/4XM1Y4jyxqcmBRKRSfUD7r"
+    },
+    {
+      "added_at": "2026-03-01 12:41:54",
+      "album": {
         "name": "Chuy\u1ec7n Gi\u00e0n Thi\u00ean L\u00fd (T\u00ecnh Kh\u00fac Anh B\u1eb1ng v\u00e0 Tr\u1ea7n Thi\u1ec7n Thanh)",
         "url": "https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv"
       },
@@ -695,6 +695,86 @@
       "duration_ms": 294617,
       "name": "S\u1ea7u l\u1ebb b\u00f3ng 2",
       "url": "https://open.spotify.com/track/1jYjDxPpkAqaxIm4p5ByiF"
+    },
+    {
+      "added_at": "2026-03-01 12:41:54",
+      "album": {
+        "name": "Chuyen Doi Toi Tuan Vu, Vol. 6",
+        "url": "https://open.spotify.com/album/5p3HfLsl5TsfCABDfvh9VY"
+      },
+      "artists": [
+        {
+          "name": "Tu\u1ea5n V\u0169",
+          "url": "https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP"
+        }
+      ],
+      "duration_ms": 329040,
+      "name": "Chuyen Tinh Khong Di Vang",
+      "url": "https://open.spotify.com/track/5ygjBNNPEdVjmUmWxzEJ7V"
+    },
+    {
+      "added_at": "2026-03-01 12:41:54",
+      "album": {
+        "name": "Ch\u1eafc G\u00ec",
+        "url": "https://open.spotify.com/album/299gkTUmSpoTKBQAIXr9S0"
+      },
+      "artists": [
+        {
+          "name": "Phi Nhung",
+          "url": "https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF"
+        }
+      ],
+      "duration_ms": 313760,
+      "name": "Ph\u1eadn T\u01a1 T\u1eb1m",
+      "url": "https://open.spotify.com/track/0D5WQIFqJdG0olsjuWvgHw"
+    },
+    {
+      "added_at": "2026-03-01 12:41:54",
+      "album": {
+        "name": "M\u01b0a R\u1eebng",
+        "url": "https://open.spotify.com/album/1SyuuH6GragftZfYVuLqUq"
+      },
+      "artists": [
+        {
+          "name": "L\u01b0u H\u1ed3ng",
+          "url": "https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "L\u1ea1nh tr\u1ecdn \u0111\u00eam m\u01b0a",
+      "url": "https://open.spotify.com/track/3rp4ByvMSs64N1BYxuijLk"
+    },
+    {
+      "added_at": "2026-03-01 12:41:54",
+      "album": {
+        "name": "Chuy\u1ec7n T\u00ecnh Y\u00eau (Remastered)",
+        "url": "https://open.spotify.com/album/4XHgexhllgIIJbZZFeIF8G"
+      },
+      "artists": [
+        {
+          "name": "H\u01b0\u01a1ng Lan",
+          "url": "https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn"
+        }
+      ],
+      "duration_ms": 275400,
+      "name": "\u0110\u1ec3 Tr\u1ea3 L\u1eddi M\u1ed9t C\u00e2u H\u1ecfi (1989) - Remastered",
+      "url": "https://open.spotify.com/track/5b3UPO3dt669drRyC4BTJ2"
+    },
+    {
+      "added_at": "2026-03-01 12:41:54",
+      "album": {
+        "name": "Ai Cho T\u00f4i T\u00ecnh Y\u00eau",
+        "url": "https://open.spotify.com/album/6nuh0xhKDgghXctszWjefR"
+      },
+      "artists": [
+        {
+          "name": "B\u1ea3o Y\u1ebfn",
+          "url": "https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe"
+        }
+      ],
+      "duration_ms": 342576,
+      "name": "Ai Kh\u1ed5 V\u00ec Ai",
+      "url": "https://open.spotify.com/track/1xJoJzNejKKw9qpoFjxKUR"
     },
     {
       "added_at": "2026-03-01 12:41:54",
@@ -719,102 +799,6 @@
     {
       "added_at": "2026-03-01 12:41:54",
       "album": {
-        "name": "Ch\u1eafc G\u00ec",
-        "url": "https://open.spotify.com/album/299gkTUmSpoTKBQAIXr9S0"
-      },
-      "artists": [
-        {
-          "name": "Phi Nhung",
-          "url": "https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF"
-        }
-      ],
-      "duration_ms": 313760,
-      "name": "Ph\u1eadn T\u01a1 T\u1eb1m",
-      "url": "https://open.spotify.com/track/0D5WQIFqJdG0olsjuWvgHw"
-    },
-    {
-      "added_at": "2026-03-01 12:41:54",
-      "album": {
-        "name": "Chuy\u1ec7n T\u00ecnh Y\u00eau (Remastered)",
-        "url": "https://open.spotify.com/album/4XHgexhllgIIJbZZFeIF8G"
-      },
-      "artists": [
-        {
-          "name": "H\u01b0\u01a1ng Lan",
-          "url": "https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn"
-        }
-      ],
-      "duration_ms": 275400,
-      "name": "\u0110\u1ec3 Tr\u1ea3 L\u1eddi M\u1ed9t C\u00e2u H\u1ecfi (1989) - Remastered",
-      "url": "https://open.spotify.com/track/5b3UPO3dt669drRyC4BTJ2"
-    },
-    {
-      "added_at": "2026-03-01 12:41:54",
-      "album": {
-        "name": "M\u01b0a R\u1eebng",
-        "url": "https://open.spotify.com/album/1SyuuH6GragftZfYVuLqUq"
-      },
-      "artists": [
-        {
-          "name": "L\u01b0u H\u1ed3ng",
-          "url": "https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "L\u1ea1nh tr\u1ecdn \u0111\u00eam m\u01b0a",
-      "url": "https://open.spotify.com/track/3rp4ByvMSs64N1BYxuijLk"
-    },
-    {
-      "added_at": "2026-03-01 12:41:54",
-      "album": {
-        "name": "D\u1ea5u Ch\u00e2n K\u1ef7 Ni\u1ec7m",
-        "url": "https://open.spotify.com/album/681A6zdwd0nbZbBcov98ph"
-      },
-      "artists": [
-        {
-          "name": "Nh\u01b0 Qu\u1ef3nh",
-          "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
-        }
-      ],
-      "duration_ms": 373546,
-      "name": "D\u1ea5u Ch\u00e2n K\u1ef7 Ni\u1ec7m",
-      "url": "https://open.spotify.com/track/1VNjqb5ofbD2ILhelOtpj1"
-    },
-    {
-      "added_at": "2026-03-01 12:41:54",
-      "album": {
-        "name": "Chuyen Doi Toi Tuan Vu, Vol. 6",
-        "url": "https://open.spotify.com/album/5p3HfLsl5TsfCABDfvh9VY"
-      },
-      "artists": [
-        {
-          "name": "Tu\u1ea5n V\u0169",
-          "url": "https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP"
-        }
-      ],
-      "duration_ms": 329040,
-      "name": "Chuyen Tinh Khong Di Vang",
-      "url": "https://open.spotify.com/track/5ygjBNNPEdVjmUmWxzEJ7V"
-    },
-    {
-      "added_at": "2026-03-01 12:41:54",
-      "album": {
-        "name": "Ai Cho T\u00f4i T\u00ecnh Y\u00eau",
-        "url": "https://open.spotify.com/album/6nuh0xhKDgghXctszWjefR"
-      },
-      "artists": [
-        {
-          "name": "B\u1ea3o Y\u1ebfn",
-          "url": "https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe"
-        }
-      ],
-      "duration_ms": 342576,
-      "name": "Ai Kh\u1ed5 V\u00ec Ai",
-      "url": "https://open.spotify.com/track/1xJoJzNejKKw9qpoFjxKUR"
-    },
-    {
-      "added_at": "2026-03-01 12:41:54",
-      "album": {
         "name": "Tr\u00fac Ph\u01b0\u01a1ng - \u00d4ng Ho\u00e0ng C\u1ee7a D\u00f2ng Nh\u1ea1c Bolero",
         "url": "https://open.spotify.com/album/0wLJdOiBX8PE4Yg6tUUzqx"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 305301,
       "name": "\u0110\u00f2 chi\u1ec1u",
       "url": "https://open.spotify.com/track/69ZuBaYz156wMPgIJKbLHi"
+    },
+    {
+      "added_at": "2026-03-01 12:41:54",
+      "album": {
+        "name": "R\u1eebng L\u00e1 Thay Ch\u01b0a",
+        "url": "https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6"
+      },
+      "artists": [
+        {
+          "name": "Nh\u01b0 Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Qua Ng\u00f5 Nh\u00e0 Anh",
+      "url": "https://open.spotify.com/track/41t4yWDcIa4vQQ5NIwL7Rk"
     },
     {
       "added_at": "2026-03-01 12:41:54",

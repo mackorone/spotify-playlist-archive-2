@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124074,
+  "num_followers": 124073,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVTnkxwkifsFq2fvVEdT74arDm2utl",
+  "snapshot_id": "AAAVT/mOTque5WCAVknQFNehi539r282",
   "tracks": [
+    {
+      "added_at": "2026-04-15 15:13:47",
+      "album": {
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/42rRSmWPbd3NQIltYKwSYl"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/3jiq4HBxQjEjOp1ZvOTGge"
+    },
     {
       "added_at": "2026-04-13 17:29:38",
       "album": {

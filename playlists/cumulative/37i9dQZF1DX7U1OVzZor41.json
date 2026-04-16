@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "\u65b0\u7684\u5fc3\u8df3",
+        "url": "https://open.spotify.com/album/1tEl9cDFkTKGmaRpZLB7zW"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245493,
+      "name": "\u4f86\u81ea\u5929\u5802\u7684\u9b54\u9b3c",
+      "url": "https://open.spotify.com/track/0g2XnkKghVN22yze1gTJzl"
+    },
+    {
+      "album": {
         "name": "\u56e0\u4f60 \u800c\u5728",
         "url": "https://open.spotify.com/album/4HIHR7UP1Wc04zwGkJDKX4"
       },
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 349773,
       "name": "\u62ab\u661f\u6234\u6708\u7684\u60f3\u4f60",
       "url": "https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m"

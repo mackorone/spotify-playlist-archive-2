@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Yuridope",
+  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Kartell'em",
   "name": "KALYE",
   "tracks": [
     {
@@ -2085,6 +2085,28 @@
     },
     {
       "album": {
+        "name": "DOWN KA BA?",
+        "url": "https://open.spotify.com/album/2nOfY7hMJC9Kx6fidcngim"
+      },
+      "artists": [
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        },
+        {
+          "name": "Steezy",
+          "url": "https://open.spotify.com/artist/4uAuSWekxOTL4gd0faBbjH"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143151,
+      "name": "DOWN KA BA?",
+      "url": "https://open.spotify.com/track/4uePAH2k50p4Stx900uuxt"
+    },
+    {
+      "album": {
         "name": "Down Timez",
         "url": "https://open.spotify.com/album/18weGXt4wxCtnSlYH39ZHf"
       },
@@ -3590,7 +3612,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 161257,
       "name": "Kahit Umulan",
       "url": "https://open.spotify.com/track/4Efi0EsFc6GnTmEUg8sj2I"
@@ -3998,7 +4020,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 166250,
       "name": "Laging Naroon Ka - Remix",
       "url": "https://open.spotify.com/track/484GVIzqdZmNkYh7Ni07fB"
@@ -5924,7 +5946,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 183157,
       "name": "POGI",
       "url": "https://open.spotify.com/track/1PmTiq3Z2ZExb7r8Xf8dVi"
@@ -7507,6 +7529,24 @@
     },
     {
       "album": {
+        "name": "Tate",
+        "url": "https://open.spotify.com/album/18C0WhSI3k1THUNj0oahQq"
+      },
+      "artists": [
+        {
+          "name": "La Mave",
+          "url": "https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157159,
+      "name": "Tate",
+      "url": "https://open.spotify.com/track/3wRv7hSIGHO335Li0ejFUu"
+    },
+    {
+      "album": {
         "name": "Teka Muna",
         "url": "https://open.spotify.com/album/6pnuarr1Ki17XziMATpkj9"
       },
@@ -7850,6 +7890,24 @@
       "duration_ms": 208000,
       "name": "Tunay",
       "url": "https://open.spotify.com/track/2R1mehVFt3PYQn3E3qW2hj"
+    },
+    {
+      "album": {
+        "name": "TYPE G",
+        "url": "https://open.spotify.com/album/7D6cNKjZIdfYDvIR8qfO4z"
+      },
+      "artists": [
+        {
+          "name": "GEE EXCLSV",
+          "url": "https://open.spotify.com/artist/6rjqsmPAKDp4RbgpsoLjGB"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "TYPE G",
+      "url": "https://open.spotify.com/track/0djcOLEtzLk2zgpLZW2QqB"
     },
     {
       "album": {

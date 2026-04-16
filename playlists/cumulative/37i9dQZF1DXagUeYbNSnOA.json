@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring ABRL. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Miluhska. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 161086,
       "name": "15 de enero",
       "url": "https://open.spotify.com/track/3apQ07OXsYPymxuzUYENus"
@@ -4173,6 +4173,24 @@
     },
     {
       "album": {
+        "name": "Saludos de Americania",
+        "url": "https://open.spotify.com/album/5yvoOuHKb3izES9XYDxxrv"
+      },
+      "artists": [
+        {
+          "name": "Americania",
+          "url": "https://open.spotify.com/artist/2lMqHIGk2hUnh09kmpYGAP"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235567,
+      "name": "Antonio Adolfo",
+      "url": "https://open.spotify.com/track/0iTKbFUdA1zMeNml0KEJho"
+    },
+    {
+      "album": {
         "name": "Antropoceno",
         "url": "https://open.spotify.com/album/5skECX0P5QQ5UY1nciJoVk"
       },
@@ -4651,6 +4669,24 @@
     },
     {
       "album": {
+        "name": "As\u00ed q Atr\u00e9vete",
+        "url": "https://open.spotify.com/album/2qAMaRNj5sxfkTdw4OGg6I"
+      },
+      "artists": [
+        {
+          "name": "Miluhska",
+          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195714,
+      "name": "As\u00ed q Atr\u00e9vete",
+      "url": "https://open.spotify.com/track/5YLIGr1NrZQl9xW5Dz3UHg"
+    },
+    {
+      "album": {
         "name": "As\u00ed Ser\u00e1",
         "url": "https://open.spotify.com/album/0LvIRZFPYOL3oxnGMfNVuZ"
       },
@@ -4862,6 +4898,24 @@
       "duration_ms": 183711,
       "name": "Aunque Est\u00e9s Cerca",
       "url": "https://open.spotify.com/track/6yFGop2VmGgrUSgf7Ysn6a"
+    },
+    {
+      "album": {
+        "name": "Aunque No Lo Sepa",
+        "url": "https://open.spotify.com/album/3k2dbgMrWREeQY4tcP0agD"
+      },
+      "artists": [
+        {
+          "name": "Lua Lelia",
+          "url": "https://open.spotify.com/artist/5Gqhf0Jh17ECXFZB1zXWCn"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215481,
+      "name": "Aunque No Lo Sepa",
+      "url": "https://open.spotify.com/track/00LMmWx75bYIudE4aAA6II"
     },
     {
       "album": {
@@ -8960,7 +9014,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 216000,
       "name": "CHORuS ChoRUS chOrus choRUS",
       "url": "https://open.spotify.com/track/6d5RwwDhKsRxsiQHgkdvOP"
@@ -11876,7 +11930,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 247894,
       "name": "de mi parte",
       "url": "https://open.spotify.com/track/74as3buIqHDQ70lpOHvB99"
@@ -16369,6 +16423,24 @@
     },
     {
       "album": {
+        "name": "en voz alta",
+        "url": "https://open.spotify.com/album/6CANqUuTmkD7LFwwwpcazR"
+      },
+      "artists": [
+        {
+          "name": "ABRL",
+          "url": "https://open.spotify.com/artist/34gZHRoHXDq8RR9p0koUbk"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216442,
+      "name": "en el aire",
+      "url": "https://open.spotify.com/track/5OVkjvPONlIkkwbhOXhJ8l"
+    },
+    {
+      "album": {
         "name": "En el dolor tambi\u00e9n hay dios",
         "url": "https://open.spotify.com/album/26utTCFELgXMcQM9yguHEW"
       },
@@ -19928,7 +20000,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 246666,
       "name": "gem n eyes",
       "url": "https://open.spotify.com/track/07yu6ntRYiuc1ONcMmSynd"
@@ -20352,7 +20424,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 139136,
       "name": "GRANADA",
       "url": "https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP"
@@ -20370,7 +20442,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 221802,
       "name": "Gris",
       "url": "https://open.spotify.com/track/350K2JHqQR8oN1dIz9kIjV"
@@ -22985,6 +23057,24 @@
     },
     {
       "album": {
+        "name": "KNOCK KNOCK",
+        "url": "https://open.spotify.com/album/4w9bzg06899FqvF9o8nJhH"
+      },
+      "artists": [
+        {
+          "name": "Gabby Black",
+          "url": "https://open.spotify.com/artist/2lvn6HDshxU8eNarC6jLFK"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122591,
+      "name": "KNOCK KNOCK",
+      "url": "https://open.spotify.com/track/1kOlcb92caaFigsM1sVnkB"
+    },
+    {
+      "album": {
         "name": "Escorpio",
         "url": "https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO"
       },
@@ -24055,6 +24145,24 @@
     },
     {
       "album": {
+        "name": "La Respuesta Eres T\u00fa",
+        "url": "https://open.spotify.com/album/56eqMLH0xbXH32z2k5jS9n"
+      },
+      "artists": [
+        {
+          "name": "Chell",
+          "url": "https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235800,
+      "name": "La Respuesta Eres T\u00fa",
+      "url": "https://open.spotify.com/track/6889HOpHTjEL5DT8aXLwiD"
+    },
+    {
+      "album": {
         "name": "La Semilla",
         "url": "https://open.spotify.com/album/67HfaX7dhdLXSgZ4qGir5z"
       },
@@ -24901,6 +25009,24 @@
     },
     {
       "album": {
+        "name": "Lentes Rosados",
+        "url": "https://open.spotify.com/album/05gArowHJdck08BCPKAxRR"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Wesley",
+          "url": "https://open.spotify.com/artist/3cAEKMvjBlVTUBkXV0Slsi"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209638,
+      "name": "Lentes Rosados",
+      "url": "https://open.spotify.com/track/34wpq0myOPwFEoX1aTHHuD"
+    },
+    {
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/5NN06mgYJh8izObPfukD47"
       },
@@ -25140,7 +25266,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 168800,
       "name": "lightspeed",
       "url": "https://open.spotify.com/track/5g71YkvLRR1a65L8yLsDnV"
@@ -25314,6 +25440,24 @@
       "duration_ms": 141613,
       "name": "Linda",
       "url": "https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP"
+    },
+    {
+      "album": {
+        "name": "LINDO RECUERDO",
+        "url": "https://open.spotify.com/album/3EOqKGsz5PKVgxjbmXzT5Y"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163469,
+      "name": "LINDO RECUERDO",
+      "url": "https://open.spotify.com/track/7FdKQZc4lm49oESCOeabIJ"
     },
     {
       "album": {
@@ -25826,7 +25970,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 175210,
       "name": "LO QUE PASA ES DISTINTO",
       "url": "https://open.spotify.com/track/3u9XARoZaDXzQxGC7vzaUg"
@@ -33673,6 +33817,24 @@
     },
     {
       "album": {
+        "name": "no te vayas",
+        "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194890,
+      "name": "no te vayas",
+      "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
+    },
+    {
+      "album": {
         "name": "No Tengo Due\u00f1o",
         "url": "https://open.spotify.com/album/4MdUyHtbjRKavVh5tei6Ai"
       },
@@ -33756,7 +33918,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 172521,
       "name": "no voy a salir de casa",
       "url": "https://open.spotify.com/track/5b9jMIQTn9LDmvAiiytOLg"
@@ -33940,6 +34102,24 @@
       "duration_ms": 159619,
       "name": "Noches Despierta",
       "url": "https://open.spotify.com/track/4GZMoEGxoLMDGnZiyrQxX0"
+    },
+    {
+      "album": {
+        "name": "noches sin zzZ",
+        "url": "https://open.spotify.com/album/4iVXRlBdDviOmv2HJVASIr"
+      },
+      "artists": [
+        {
+          "name": "DEL TORO",
+          "url": "https://open.spotify.com/artist/1Jn7RTBozrxlbYnnvLZnEU"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "noches sin zzZ",
+      "url": "https://open.spotify.com/track/0LstMDtQ15DpEzJqDQSwl4"
     },
     {
       "album": {
@@ -52698,7 +52878,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 168000,
       "name": "\u02d6\u207a\u2027\u208a\u02da \u2661 Sentimental \u2661 \u02da\u208a\u2027\u207a\u02d6",
       "url": "https://open.spotify.com/track/5JJ3mbjr0yKfxGPcKrv42B"

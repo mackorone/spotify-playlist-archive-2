@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Imon",
+  "description": "The best new music by independent artists and labels in India. Cover - ANA",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -2058,6 +2058,28 @@
       "duration_ms": 221527,
       "name": "Amaar",
       "url": "https://open.spotify.com/track/4PKMq5u5p5eQZ7jjLS7l38"
+    },
+    {
+      "album": {
+        "name": "Ambwa Talay",
+        "url": "https://open.spotify.com/album/4QlxOqWwjzTFTbUCqpWR5u"
+      },
+      "artists": [
+        {
+          "name": "Gurupriya Atreya",
+          "url": "https://open.spotify.com/artist/0OO4ioldaC9gDh0XBHy11I"
+        },
+        {
+          "name": "Hriday Goswami",
+          "url": "https://open.spotify.com/artist/4IpSIc9T223yFJHve2gVF7"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312832,
+      "name": "Ambwa Talay",
+      "url": "https://open.spotify.com/track/1CyLBIdvwHLXTrDm7PD8TY"
     },
     {
       "album": {
@@ -7390,6 +7412,24 @@
       "duration_ms": 192245,
       "name": "Dil Da Pecha",
       "url": "https://open.spotify.com/track/01RBxV5NhoOft5qsYwbPLj"
+    },
+    {
+      "album": {
+        "name": "Dil Gareeb",
+        "url": "https://open.spotify.com/album/3E5UzoxlKz9G63pNj05zsX"
+      },
+      "artists": [
+        {
+          "name": "Harry Arora",
+          "url": "https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Dil Gareeb",
+      "url": "https://open.spotify.com/track/3SyqWXqSNC8VyHBUGIABdn"
     },
     {
       "album": {
@@ -18259,6 +18299,28 @@
     },
     {
       "album": {
+        "name": "Khwabon Ka Sheher",
+        "url": "https://open.spotify.com/album/7f7nvIbOzA9mIsz7llqphg"
+      },
+      "artists": [
+        {
+          "name": "Tuhin Handique",
+          "url": "https://open.spotify.com/artist/6nySCJ1ZsWj9bq5b5l6J1E"
+        },
+        {
+          "name": "tav",
+          "url": "https://open.spotify.com/artist/0vBZXvMTqOaXp3oKnrpvoy"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201951,
+      "name": "Khwabon Ka Sheher",
+      "url": "https://open.spotify.com/track/5ZTfCBOy7dWKgNLCVHjvRq"
+    },
+    {
+      "album": {
         "name": "Khwabon Keh Parindey (From \"Khudsar\")",
         "url": "https://open.spotify.com/album/6fMFR5HutlteRpB6VY5wIN"
       },
@@ -20670,7 +20732,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 204935,
       "name": "Maano Na Yaar",
       "url": "https://open.spotify.com/track/3zMWhPIwFzzrapTwkWpWgn"
@@ -22200,7 +22262,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 349995,
       "name": "Mera Ho Jaye",
       "url": "https://open.spotify.com/track/2HZIIRP3VbKb5haEljXuxL"
@@ -24219,6 +24281,24 @@
     },
     {
       "album": {
+        "name": "Nazuk",
+        "url": "https://open.spotify.com/album/06NeR1JGVs0xsQB6lMfvwO"
+      },
+      "artists": [
+        {
+          "name": "ANA",
+          "url": "https://open.spotify.com/artist/4tqpVHY6GZqYwhNMFrhnkA"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129782,
+      "name": "Nazuk",
+      "url": "https://open.spotify.com/track/1h6lqLrGAqjBekqf38n03m"
+    },
+    {
+      "album": {
         "name": "Neelay",
         "url": "https://open.spotify.com/album/5bFYU75fdfUP3b9r1G0xuh"
       },
@@ -24578,7 +24658,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 269454,
       "name": "November",
       "url": "https://open.spotify.com/track/0UHjTYYVAYebbbGiLgQs1v"
@@ -35458,7 +35538,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 145730,
       "name": "Udta Hi Rehta",
       "url": "https://open.spotify.com/track/1YZqRzAanVW4f4cRVMtd5c"

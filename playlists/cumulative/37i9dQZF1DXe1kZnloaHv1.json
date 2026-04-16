@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 215769,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/3bkSpl9J6jPIkJF79204cd"
@@ -919,6 +919,28 @@
     },
     {
       "album": {
+        "name": "\ubd04",
+        "url": "https://open.spotify.com/album/6TR3l3PwGjS3g4MML8hEE1"
+      },
+      "artists": [
+        {
+          "name": "nov",
+          "url": "https://open.spotify.com/artist/3gyUm6cPk4sChNCVb3fFaC"
+        },
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244675,
+      "name": "Golden Hour (Feat. Colde)",
+      "url": "https://open.spotify.com/track/7wTw5xcLmGkx3lxk4gua6p"
+    },
+    {
+      "album": {
         "name": "Gulping laziness",
         "url": "https://open.spotify.com/album/7oHqgsdNXSol1p0H8jnCwj"
       },
@@ -1450,6 +1472,24 @@
       "duration_ms": 159133,
       "name": "Live My Life",
       "url": "https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\ub791\ud574 \uc545\ub9c8 X \uc2e0\uc9c0\uc724 (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/1VCyunBOlD4bddxylKqdDm"
+      },
+      "artists": [
+        {
+          "name": "Shin Jiyoon",
+          "url": "https://open.spotify.com/artist/0IKjPDzRyZql95nda6ZgKe"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209910,
+      "name": "Logout",
+      "url": "https://open.spotify.com/track/702jjsTw6kPl8wox04T9Me"
     },
     {
       "album": {
@@ -2312,7 +2352,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 136173,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/7g4X7EwMbW8LiCMGmHXW1I"

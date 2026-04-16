@@ -1,13 +1,29 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Featuring Osmosis Jones. Curated by human Spotify editors. \n",
-  "num_followers": 211978,
+  "description": "The best new dance tracks from independent artists & labels. Featuring Collect 200. Curated by human Spotify editors. \n",
+  "num_followers": 212010,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPttaB+QhpHzaqwEKFfEM1f4g4NO",
+  "snapshot_id": "AAAAAEp0DpblsDXEIZUBR4tM7xD/1AeZ",
   "tracks": [
+    {
+      "added_at": "2026-04-15 17:24:57",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
+    },
     {
       "added_at": "2026-04-03 04:02:29",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 160000,
       "name": "TU",
       "url": "https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN"
+    },
+    {
+      "added_at": "2026-04-15 17:24:57",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/0x91e6MfHNAyBaytxCFV4c"
+      },
+      "artists": [
+        {
+          "name": "Elroy (AUS)",
+          "url": "https://open.spotify.com/artist/6DiRok1NmemDiXM5SVIgXp"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/44UvUDywsREUPPGuJF0z73"
     },
     {
       "added_at": "2026-04-10 04:02:22",
@@ -41,36 +73,88 @@
       "url": "https://open.spotify.com/track/3Tokd2H9xxDzkvKVahm6tc"
     },
     {
-      "added_at": "2026-04-03 04:02:29",
+      "added_at": "2026-03-18 17:43:09",
       "album": {
-        "name": "All The Money In The World",
-        "url": "https://open.spotify.com/album/3cMXPuYSRoIhNCGLGDVAz0"
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3"
       },
       "artists": [
         {
-          "name": "Osmosis Jones",
-          "url": "https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n"
+          "name": "Ben Van Kuringen",
+          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
         }
       ],
-      "duration_ms": 225984,
-      "name": "All The Money In The World",
-      "url": "https://open.spotify.com/track/56kEN75zpdmdlprv6VlejQ"
+      "duration_ms": 195692,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW"
+    },
+    {
+      "added_at": "2026-04-15 17:24:57",
+      "album": {
+        "name": "Kinesis / Get Up N Dance",
+        "url": "https://open.spotify.com/album/2rr3B4LbCkTqk5RY6T9jsJ"
+      },
+      "artists": [
+        {
+          "name": "Jordan George",
+          "url": "https://open.spotify.com/artist/4AVZ1AsKWbzEc50djOcn2w"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Kinesis - Short Mix",
+      "url": "https://open.spotify.com/track/2JiASV4tYTbbB45lUJySdq"
     },
     {
       "added_at": "2026-04-08 16:58:31",
       "album": {
-        "name": "wav.",
-        "url": "https://open.spotify.com/album/3ZGHNX5i4aaHmYZgslN4fU"
+        "name": "Left Foot Right Foot",
+        "url": "https://open.spotify.com/album/2szB8PZLwss07ai7hy6GMz"
       },
       "artists": [
         {
-          "name": "Harrison First",
-          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
+          "name": "Tommy Gold",
+          "url": "https://open.spotify.com/artist/2AUIc8LBUY3YOJanUGnFoR"
         }
       ],
-      "duration_ms": 180299,
-      "name": "the benefactor",
-      "url": "https://open.spotify.com/track/53cBYaLXJTXOA9jtSIW6Ka"
+      "duration_ms": 163004,
+      "name": "Left Foot Right Foot",
+      "url": "https://open.spotify.com/track/4NqzQ8jpz7YmET9fOAlOB1"
+    },
+    {
+      "added_at": "2026-04-15 17:24:57",
+      "album": {
+        "name": "Summer Card",
+        "url": "https://open.spotify.com/album/3od5UAhncfYXEiHwkYqk0K"
+      },
+      "artists": [
+        {
+          "name": "SDK",
+          "url": "https://open.spotify.com/artist/7hN6wFQYdWHD7KnfV0CVnA"
+        },
+        {
+          "name": "Simone De Kunovich",
+          "url": "https://open.spotify.com/artist/6qEYuBlZWeehY6RxWCpA0r"
+        }
+      ],
+      "duration_ms": 366502,
+      "name": "Summer Card",
+      "url": "https://open.spotify.com/track/3Q0LhQkqusn71J7kkxcIZS"
+    },
+    {
+      "added_at": "2026-03-18 17:43:09",
+      "album": {
+        "name": "GTFU",
+        "url": "https://open.spotify.com/album/5jLlh1dm37OduWtv69Ouam"
+      },
+      "artists": [
+        {
+          "name": "Wal",
+          "url": "https://open.spotify.com/artist/349ZnULvoYVFB1lIOedjkc"
+        }
+      ],
+      "duration_ms": 230551,
+      "name": "What Ya Got",
+      "url": "https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055"
     },
     {
       "added_at": "2026-04-01 16:59:55",
@@ -105,36 +189,20 @@
       "url": "https://open.spotify.com/track/5ggI0yUk07SOIjgq6URRM8"
     },
     {
-      "added_at": "2026-03-18 17:43:09",
-      "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3"
-      },
-      "artists": [
-        {
-          "name": "Ben Van Kuringen",
-          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW"
-    },
-    {
       "added_at": "2026-04-08 16:58:31",
       "album": {
-        "name": "Left Foot Right Foot",
-        "url": "https://open.spotify.com/album/2szB8PZLwss07ai7hy6GMz"
+        "name": "wav.",
+        "url": "https://open.spotify.com/album/3ZGHNX5i4aaHmYZgslN4fU"
       },
       "artists": [
         {
-          "name": "Tommy Gold",
-          "url": "https://open.spotify.com/artist/2AUIc8LBUY3YOJanUGnFoR"
+          "name": "Harrison First",
+          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
         }
       ],
-      "duration_ms": 163004,
-      "name": "Left Foot Right Foot",
-      "url": "https://open.spotify.com/track/4NqzQ8jpz7YmET9fOAlOB1"
+      "duration_ms": 180299,
+      "name": "the benefactor",
+      "url": "https://open.spotify.com/track/53cBYaLXJTXOA9jtSIW6Ka"
     },
     {
       "added_at": "2026-04-10 04:02:22",
@@ -151,6 +219,58 @@
       "duration_ms": 188409,
       "name": "To The Party",
       "url": "https://open.spotify.com/track/2jsyn46OQHFQGYj4BbmHRD"
+    },
+    {
+      "added_at": "2026-04-03 04:02:29",
+      "album": {
+        "name": "All The Money In The World",
+        "url": "https://open.spotify.com/album/3cMXPuYSRoIhNCGLGDVAz0"
+      },
+      "artists": [
+        {
+          "name": "Osmosis Jones",
+          "url": "https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n"
+        }
+      ],
+      "duration_ms": 225984,
+      "name": "All The Money In The World",
+      "url": "https://open.spotify.com/track/56kEN75zpdmdlprv6VlejQ"
+    },
+    {
+      "added_at": "2026-04-15 19:22:49",
+      "album": {
+        "name": "MAKE DAT BOOTY",
+        "url": "https://open.spotify.com/album/0EGDaeH1FcgGCc4XkCsoyn"
+      },
+      "artists": [
+        {
+          "name": "KE-YEN",
+          "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
+        },
+        {
+          "name": "Respondent",
+          "url": "https://open.spotify.com/artist/3mrk91thNdLlVpdXnCdKpK"
+        }
+      ],
+      "duration_ms": 212747,
+      "name": "MAKE DAT BOOTY",
+      "url": "https://open.spotify.com/track/5sGA0qlCU2usW6Mws8icCu"
+    },
+    {
+      "added_at": "2026-03-20 04:00:52",
+      "album": {
+        "name": "TAKIN PICTURES",
+        "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
+      },
+      "artists": [
+        {
+          "name": "MAYV",
+          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "TAKIN PICTURES",
+      "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
     },
     {
       "added_at": "2026-04-08 16:58:31",
@@ -183,38 +303,6 @@
       "duration_ms": 170091,
       "name": "Space Funk",
       "url": "https://open.spotify.com/track/7kNGpPxG8mGt8KoQGxTJ6O"
-    },
-    {
-      "added_at": "2026-03-18 17:43:09",
-      "album": {
-        "name": "GTFU",
-        "url": "https://open.spotify.com/album/5jLlh1dm37OduWtv69Ouam"
-      },
-      "artists": [
-        {
-          "name": "Wal",
-          "url": "https://open.spotify.com/artist/349ZnULvoYVFB1lIOedjkc"
-        }
-      ],
-      "duration_ms": 230551,
-      "name": "What Ya Got",
-      "url": "https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055"
-    },
-    {
-      "added_at": "2026-03-20 04:00:52",
-      "album": {
-        "name": "TAKIN PICTURES",
-        "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
-      },
-      "artists": [
-        {
-          "name": "MAYV",
-          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "TAKIN PICTURES",
-      "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
     },
     {
       "added_at": "2026-04-08 16:58:31",
@@ -697,22 +785,6 @@
       "url": "https://open.spotify.com/track/6Il2m8E46J4fu1WFbrIKfE"
     },
     {
-      "added_at": "2026-03-11 17:10:27",
-      "album": {
-        "name": "CARGO / NOTCH",
-        "url": "https://open.spotify.com/album/4iuthIr3YVdxoaEcOld0oS"
-      },
-      "artists": [
-        {
-          "name": "POLO JAFFA",
-          "url": "https://open.spotify.com/artist/17elXZK1RlBOcrDJ8HjEhJ"
-        }
-      ],
-      "duration_ms": 298750,
-      "name": "CARGO",
-      "url": "https://open.spotify.com/track/3VomJjy7ugmCAXYbpjLwLr"
-    },
-    {
       "added_at": "2026-02-26 18:54:06",
       "album": {
         "name": "Daddy's Got A Gun",
@@ -815,26 +887,6 @@
       "duration_ms": 263978,
       "name": "DREAM",
       "url": "https://open.spotify.com/track/3Gv4iRTcFcDJ3n12vCyWst"
-    },
-    {
-      "added_at": "2026-02-26 18:54:06",
-      "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/0wO7jlEeVdkKoB1unZAHbh"
-      },
-      "artists": [
-        {
-          "name": "Polezsky",
-          "url": "https://open.spotify.com/artist/7qbUBlb8FSSWMqypKleqAL"
-        },
-        {
-          "name": "Kang Brul\u00e8e",
-          "url": "https://open.spotify.com/artist/5ZeHRvCKe43tfiVYy7w7Sj"
-        }
-      ],
-      "duration_ms": 227337,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/2nWpOoHMnIDHeK7CTnx7VG"
     },
     {
       "added_at": "2026-02-26 18:54:06",
@@ -1047,22 +1099,6 @@
     {
       "added_at": "2026-01-15 15:31:15",
       "album": {
-        "name": "think & dream",
-        "url": "https://open.spotify.com/album/3NWgXYTeSZ5q7sM0sqrjsH"
-      },
-      "artists": [
-        {
-          "name": "altrice",
-          "url": "https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "think & dream",
-      "url": "https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
         "name": "Certi EP",
         "url": "https://open.spotify.com/album/0a7m6ALRJD2CLCwQZpqNLf"
       },
@@ -1075,38 +1111,6 @@
       "duration_ms": 402879,
       "name": "Certi",
       "url": "https://open.spotify.com/track/6EyRHhZ1V743RzWfiZcak2"
-    },
-    {
-      "added_at": "2026-01-21 18:53:17",
-      "album": {
-        "name": "DONGURI ZOO",
-        "url": "https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL"
-      },
-      "artists": [
-        {
-          "name": "DONGURIZU",
-          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
-        }
-      ],
-      "duration_ms": 139384,
-      "name": "GORILLA",
-      "url": "https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "I Get This Feeling",
-        "url": "https://open.spotify.com/album/4sMQUgbUNDf576Cu9FQKI5"
-      },
-      "artists": [
-        {
-          "name": "Slaycey",
-          "url": "https://open.spotify.com/artist/6uRXkDohcGjfOw4TRASAHq"
-        }
-      ],
-      "duration_ms": 211019,
-      "name": "I Get This Feeling",
-      "url": "https://open.spotify.com/track/75sXo0wSGxpVC1kizgecZz"
     }
   ],
   "unique_name": "Fresh Finds Dance",

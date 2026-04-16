@@ -5664,7 +5664,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 203405,
       "name": "Four",
       "url": "https://open.spotify.com/track/4lRAemYqmqH4B5sMWmeRpg"
@@ -9182,6 +9182,28 @@
       "duration_ms": 176250,
       "name": "Let The Church Sing",
       "url": "https://open.spotify.com/track/7Anygo62MNwOsASBpIzWYr"
+    },
+    {
+      "album": {
+        "name": "The Secret Of Life: Partners, Volume 2",
+        "url": "https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296071,
+      "name": "Letter To My 13 Year Old Self",
+      "url": "https://open.spotify.com/track/7zOjSNTAUdwu3JK6Yt8uxF"
     },
     {
       "album": {

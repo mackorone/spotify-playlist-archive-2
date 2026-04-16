@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3916381,
+  "num_followers": 3916241,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
-    },
-    {
-      "added_at": "2026-04-09 22:02:50",
-      "album": {
         "name": "3 Days Later",
         "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 333658,
       "name": "3 Days Later",
       "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
+    },
+    {
+      "added_at": "2026-04-09 22:02:50",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
     },
     {
       "added_at": "2026-04-09 22:02:50",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 177206,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
+    },
+    {
+      "added_at": "2026-04-09 22:02:50",
+      "album": {
         "name": "Not The Same",
         "url": "https://open.spotify.com/album/6TcWS750Qhg2203YwZuPdX"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 196500,
       "name": "Not The Same",
       "url": "https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF"
-    },
-    {
-      "added_at": "2026-04-09 22:02:50",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 177206,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
     },
     {
       "added_at": "2026-04-09 22:02:50",
@@ -863,6 +863,30 @@
       "duration_ms": 237931,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv"
+    },
+    {
+      "added_at": "2026-04-09 22:02:50",
+      "album": {
+        "name": "See My Soul",
+        "url": "https://open.spotify.com/album/6pCdAFYi2NujUtttD0fPQJ"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "See My Soul",
+      "url": "https://open.spotify.com/track/5IDYlNp75toRLVVdaZL8W6"
     },
     {
       "added_at": "2026-04-09 22:02:50",
@@ -1139,30 +1163,6 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
-        "name": "See My Soul",
-        "url": "https://open.spotify.com/album/6pCdAFYi2NujUtttD0fPQJ"
-      },
-      "artists": [
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        },
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Courtney Storm",
-          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "See My Soul",
-      "url": "https://open.spotify.com/track/5IDYlNp75toRLVVdaZL8W6"
-    },
-    {
-      "added_at": "2026-04-09 22:02:50",
-      "album": {
         "name": "Light up my dark",
         "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
       },
@@ -1219,26 +1219,22 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
-        "name": "Love Pains",
-        "url": "https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9"
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
       },
       "artists": [
         {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
         },
         {
-          "name": "Freddie Elmberg",
-          "url": "https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md"
-        },
-        {
-          "name": "FLORES",
-          "url": "https://open.spotify.com/artist/6ijryPR4MbExatvDQD1AhY"
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
         }
       ],
-      "duration_ms": 265161,
-      "name": "Love Pains",
-      "url": "https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q"
+      "duration_ms": 251303,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
     },
     {
       "added_at": "2026-04-09 22:02:50",
@@ -1259,22 +1255,26 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
-        "name": "Rabbit Hole",
-        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
+        "name": "Love Pains",
+        "url": "https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
         },
         {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+          "name": "Freddie Elmberg",
+          "url": "https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md"
+        },
+        {
+          "name": "FLORES",
+          "url": "https://open.spotify.com/artist/6ijryPR4MbExatvDQD1AhY"
         }
       ],
-      "duration_ms": 251303,
-      "name": "Rabbit Hole",
-      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
+      "duration_ms": 265161,
+      "name": "Love Pains",
+      "url": "https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q"
     },
     {
       "added_at": "2026-04-09 22:02:50",
@@ -1515,22 +1515,26 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
-        "name": "blinded",
-        "url": "https://open.spotify.com/album/068Ad4vmafuvDv2AARyYLM"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
       },
       "artists": [
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
         },
         {
-          "name": "Orem",
-          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "Tigerblind",
+          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
         }
       ],
-      "duration_ms": 259400,
-      "name": "blinded",
-      "url": "https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi"
+      "duration_ms": 258644,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
     },
     {
       "added_at": "2026-04-09 22:02:50",
@@ -1555,26 +1559,22 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
+        "name": "blinded",
+        "url": "https://open.spotify.com/album/068Ad4vmafuvDv2AARyYLM"
       },
       "artists": [
         {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "Tigerblind",
-          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
+          "name": "Orem",
+          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
         }
       ],
-      "duration_ms": 258644,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
+      "duration_ms": 259400,
+      "name": "blinded",
+      "url": "https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi"
     },
     {
       "added_at": "2026-04-09 22:02:50",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
+      },
+      "artists": [
+        {
+          "name": "Eric Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
+    },
+    {
+      "added_at": "2026-04-09 22:02:50",
+      "album": {
         "name": "Double Reflections",
         "url": "https://open.spotify.com/album/4a4ko7jDduX8nERKBP9o28"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 237708,
       "name": "Upstate Miracle",
       "url": "https://open.spotify.com/track/1ponpoKvmoydHiIXsTjnpI"
-    },
-    {
-      "added_at": "2026-04-09 22:02:50",
-      "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
-      },
-      "artists": [
-        {
-          "name": "Eric Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
     },
     {
       "added_at": "2026-04-09 22:02:50",

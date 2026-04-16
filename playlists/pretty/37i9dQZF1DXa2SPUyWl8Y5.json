@@ -1,6 +1,6 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 560644,
+  "num_followers": 560693,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-03-04 14:01:17",
       "album": {
+        "name": "Sense of Wonder",
+        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
+      },
+      "artists": [
+        {
+          "name": "Paradoks",
+          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+        }
+      ],
+      "duration_ms": 241282,
+      "name": "Sense of Wonder",
+      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
+    },
+    {
+      "added_at": "2026-03-04 14:01:17",
+      "album": {
         "name": "Slave To The Algorithm",
         "url": "https://open.spotify.com/album/5VDG0cLHAsdNJiy24vpD3Q"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2026-03-04 14:01:17",
       "album": {
-        "name": "Sense of Wonder",
-        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
-      },
-      "artists": [
-        {
-          "name": "Paradoks",
-          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
-        }
-      ],
-      "duration_ms": 241282,
-      "name": "Sense of Wonder",
-      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
-    },
-    {
-      "added_at": "2026-03-04 14:01:17",
-      "album": {
         "name": "Minister",
         "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
       },
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-03-04 14:01:17",
       "album": {
+        "name": "Lyra",
+        "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 437891,
+      "name": "Lyra",
+      "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
+    },
+    {
+      "added_at": "2026-03-04 14:01:17",
+      "album": {
         "name": "Meertraum",
         "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 394418,
       "name": "Meertraum",
       "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
-    },
-    {
-      "added_at": "2026-03-04 14:01:17",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
     },
     {
       "added_at": "2026-03-04 14:01:17",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-03-04 14:01:17",
       "album": {
-        "name": "Planet Earth | March of the Giants",
-        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
-      },
-      "artists": [
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
-        }
-      ],
-      "duration_ms": 457080,
-      "name": "March of the giants",
-      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
-    },
-    {
-      "added_at": "2026-03-04 14:01:17",
-      "album": {
         "name": "Purple Days & Purple Nights",
         "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
       },
@@ -619,6 +603,54 @@
     {
       "added_at": "2026-03-04 14:01:17",
       "album": {
+        "name": "Planet Earth | March of the Giants",
+        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 457080,
+      "name": "March of the giants",
+      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
+    },
+    {
+      "added_at": "2026-03-04 14:01:17",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+    },
+    {
+      "added_at": "2026-03-04 14:01:17",
+      "album": {
+        "name": "Songs of Silence",
+        "url": "https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi"
+      },
+      "artists": [
+        {
+          "name": "Vince Clarke",
+          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
+        }
+      ],
+      "duration_ms": 227033,
+      "name": "Scarper",
+      "url": "https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1"
+    },
+    {
+      "added_at": "2026-03-04 14:01:17",
+      "album": {
         "name": "Unfold Voices EP",
         "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
       },
@@ -631,38 +663,6 @@
       "duration_ms": 391577,
       "name": "Unfold Me",
       "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
-    },
-    {
-      "added_at": "2026-03-04 14:01:17",
-      "album": {
-        "name": "Lyra",
-        "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 437891,
-      "name": "Lyra",
-      "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
-    },
-    {
-      "added_at": "2026-03-04 14:01:17",
-      "album": {
-        "name": "Wadi Dana",
-        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
-      },
-      "artists": [
-        {
-          "name": "Corren Cavini",
-          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Wadi Dana",
-      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
     },
     {
       "added_at": "2026-03-04 14:01:17",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-03-04 14:01:17",
       "album": {
-        "name": "Songs of Silence",
-        "url": "https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi"
+        "name": "Wadi Dana",
+        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
       },
       "artists": [
         {
-          "name": "Vince Clarke",
-          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
+          "name": "Corren Cavini",
+          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
         }
       ],
-      "duration_ms": 227033,
-      "name": "Scarper",
-      "url": "https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1"
+      "duration_ms": 249000,
+      "name": "Wadi Dana",
+      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
     },
     {
       "added_at": "2026-03-04 14:01:17",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-03-04 14:01:17",
       "album": {
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/0NsSwQGz2XD39C5pLEUinH"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mia",
+          "url": "https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq"
+        }
+      ],
+      "duration_ms": 478560,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/42VWlnp5ndV2kapnMvXmV1"
+    },
+    {
+      "added_at": "2026-03-04 14:01:17",
+      "album": {
         "name": "Exoplanet",
         "url": "https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 501290,
       "name": "Exoplanet",
       "url": "https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re"
-    },
-    {
-      "added_at": "2026-03-04 14:01:17",
-      "album": {
-        "name": "Ceremony",
-        "url": "https://open.spotify.com/album/0NsSwQGz2XD39C5pLEUinH"
-      },
-      "artists": [
-        {
-          "name": "Lauren Mia",
-          "url": "https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq"
-        }
-      ],
-      "duration_ms": 478560,
-      "name": "Ceremony",
-      "url": "https://open.spotify.com/track/42VWlnp5ndV2kapnMvXmV1"
     },
     {
       "added_at": "2026-03-04 14:01:17",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2026-03-04 14:01:17",
       "album": {
-        "name": "Night",
-        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
+        "name": "K\u00fcnstlerische Freiheit II",
+        "url": "https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs"
       },
       "artists": [
         {
-          "name": "AKZENTH",
-          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
+          "name": "Annett Gapstream",
+          "url": "https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD"
         }
       ],
-      "duration_ms": 253920,
-      "name": "Night",
-      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
+      "duration_ms": 397891,
+      "name": "Poetry",
+      "url": "https://open.spotify.com/track/0H4dkHiQ5zmqEtoNbCnhyG"
     },
     {
       "added_at": "2026-03-04 14:01:17",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2026-03-04 14:01:17",
       "album": {
-        "name": "K\u00fcnstlerische Freiheit II",
-        "url": "https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs"
+        "name": "Night",
+        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
       },
       "artists": [
         {
-          "name": "Annett Gapstream",
-          "url": "https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD"
+          "name": "AKZENTH",
+          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
         }
       ],
-      "duration_ms": 397891,
-      "name": "Poetry",
-      "url": "https://open.spotify.com/track/0H4dkHiQ5zmqEtoNbCnhyG"
+      "duration_ms": 253920,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
     },
     {
       "added_at": "2026-03-04 14:01:17",

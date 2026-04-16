@@ -4158,7 +4158,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 145991,
       "name": "Break",
       "url": "https://open.spotify.com/track/2OipY47boiVjtx5Sp66TvM"
@@ -6396,6 +6396,28 @@
       "duration_ms": 119458,
       "name": "Diamond & Pearl",
       "url": "https://open.spotify.com/track/1AbK30qwkWpYCGp4TPTxtS"
+    },
+    {
+      "album": {
+        "name": "did it",
+        "url": "https://open.spotify.com/album/7BUD57WtJPSJosQZ6dgpHC"
+      },
+      "artists": [
+        {
+          "name": "Jahxncho",
+          "url": "https://open.spotify.com/artist/1xF8q5zFMA0Hz5RSjciswQ"
+        },
+        {
+          "name": "JaySlimeSon",
+          "url": "https://open.spotify.com/artist/4XB30vCIEw53JuP1apnbCj"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121837,
+      "name": "did it",
+      "url": "https://open.spotify.com/track/2DntICc5UONOTjdYjeiA8T"
     },
     {
       "album": {
@@ -18214,6 +18236,28 @@
       "duration_ms": 160766,
       "name": "open my windovv",
       "url": "https://open.spotify.com/track/4U4WEupkAr5LtTXAX7GMrC"
+    },
+    {
+      "album": {
+        "name": "or",
+        "url": "https://open.spotify.com/album/1aVE90Uh56UT06VkpDoJej"
+      },
+      "artists": [
+        {
+          "name": "Arche",
+          "url": "https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI"
+        },
+        {
+          "name": "\u67ca\u4eba",
+          "url": "https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197657,
+      "name": "or",
+      "url": "https://open.spotify.com/track/1BCK3piwPhwLI5HXMwyD9L"
     },
     {
       "album": {

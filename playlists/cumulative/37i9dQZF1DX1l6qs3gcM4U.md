@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Calema
 
-663 songs - 1 day 14 hr 4 min
+664 songs - 1 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Bu Panco](https://open.spotify.com/track/6Yxwi70FH2DatDVdfa1oDT) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE) | [Bu Panco](https://open.spotify.com/album/5S080CzxSqLIIdVrFJHjJO) | 3:55 | 2021-12-10 | 2022-07-22 |
 | [Buena Vista](https://open.spotify.com/track/2zdt7imZNmvv1kSTpRdVIA) | [Luka Oramas](https://open.spotify.com/artist/3B9vtJM32oVlx0O2nNModG), [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Buena Vista](https://open.spotify.com/album/7gfnmS1ZSdLbqHHh1lAJQg) | 2:22 | 2025-06-05 | 2025-07-07 |
 | [Buquê](https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Buquê](https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX) | 3:31 | 2024-06-20 | 2026-03-22 |
-| [Bye Bye](https://open.spotify.com/track/3zHqzrkiGN7RR1OFjcS8JZ) | [Avanah](https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY) | [Bye Bye](https://open.spotify.com/album/3N5otHQA5GL3sX9y56xOwt) | 3:06 | 2026-03-06 |  |
+| [Bye Bye](https://open.spotify.com/track/3zHqzrkiGN7RR1OFjcS8JZ) | [Avanah](https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY) | [Bye Bye](https://open.spotify.com/album/3N5otHQA5GL3sX9y56xOwt) | 3:06 | 2026-03-06 | 2026-04-16 |
 | [Bypass](https://open.spotify.com/track/2mQ3Z8eMnQ1JMuAvwlEG3S) | [Deusânia Celma](https://open.spotify.com/artist/0830PftfyzdiCm5RdM9U11) | [Bypass](https://open.spotify.com/album/56AgOmRUllPIKtXR56YeLv) | 3:26 | 2022-07-07 | 2022-07-15 |
 | [Cabo Verde](https://open.spotify.com/track/4ZaJIFetJil7VcxS6v4acb) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Museu](https://open.spotify.com/album/1aMmsWFPsp3xmSoOS6a1LH) | 3:04 | 2023-12-01 | 2024-04-26 |
 | [Cada Detalhe Teu](https://open.spotify.com/track/6p7j5VQkywOk8aPKw2CGpU) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Cada Detalhe Teu](https://open.spotify.com/album/02y9Q2mTw9lGr3C3A3IO79) | 3:26 | 2022-07-22 | 2022-10-21 |
@@ -184,6 +184,7 @@
 | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [M&n Pro](https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK) | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C) | 4:56 | 2021-12-10 | 2023-06-23 |
 | [Don't You See](https://open.spotify.com/track/7Dk86YxunkaoHYzAcPg3fs) | [Kidy Wime](https://open.spotify.com/artist/2QtrhVR4nIagsw8ybScbxB), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Do Meu Jeito](https://open.spotify.com/album/5Nim65uiW7V0L2BRAwmAas) | 2:38 | 2024-05-23 | 2024-06-07 |
 | [Dor d'um Kriolu](https://open.spotify.com/track/3oMBUqIQYJMsLdPcyCgdNo) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Dor d’um Kriolu](https://open.spotify.com/album/4Sy8XgSSfdV6fKPUMQetMT) | 2:45 | 2021-12-10 | 2022-07-24 |
+| [Dorama](https://open.spotify.com/track/3w2cKQhYkSVk6a5p2vtSZY) | [12FUROS](https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp), [Cleyton David](https://open.spotify.com/artist/6SjhlmHzqfTKSChQ1k8lzq) | [Dorama](https://open.spotify.com/album/3ODvvShyN18tbPvBtOUOJ2) | 3:11 | 2026-04-09 |  |
 | [Dpos D'Quarentena](https://open.spotify.com/track/0ccb5rbfpzKAgfKmZNfzeN) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Dpos D'Quarentena](https://open.spotify.com/album/6CkuiZSgHAYVAM37aqdt7M) | 2:54 | 2021-12-10 | 2022-07-29 |
 | [Dripé](https://open.spotify.com/track/0q4dCRL7d7CoZnDpKGaNdJ) | [Lurhany](https://open.spotify.com/artist/3ohRcZusOEIJxhbEiFkDIi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Dripé](https://open.spotify.com/album/0EwnOEUyZGtlVWpVdj8yrD) | 2:56 | 2025-06-26 | 2025-07-12 |
 | [Dubai](https://open.spotify.com/track/63advOBOXbhkDmNXVHlCvw) | [Da Silva](https://open.spotify.com/artist/0VbLf7VNOS7UfPfxRGF02E) | [Dubai](https://open.spotify.com/album/0ODcUNYTD2X9CrAzgOufy4) | 2:54 | 2021-12-22 | 2022-01-06 |

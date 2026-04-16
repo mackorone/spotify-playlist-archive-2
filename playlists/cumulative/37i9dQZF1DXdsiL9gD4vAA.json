@@ -1171,6 +1171,32 @@
     },
     {
       "album": {
+        "name": "Dil Ke Chhaale",
+        "url": "https://open.spotify.com/album/13Lq2RJ7uLtN0NOpSg6aEt"
+      },
+      "artists": [
+        {
+          "name": "Prithvi Gandharv",
+          "url": "https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        },
+        {
+          "name": "Shahab Hussain",
+          "url": "https://open.spotify.com/artist/4bBGi3ViY36psd55ThPkDv"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322554,
+      "name": "Dil Ke Chhaale",
+      "url": "https://open.spotify.com/track/50704i9WQZM3Nco78XBLLo"
+    },
+    {
+      "album": {
         "name": "Dil Lagta Hi Nahi",
         "url": "https://open.spotify.com/album/3zW2rhHAI9vwmL8VPQaIv3"
       },
@@ -1584,7 +1610,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 286657,
       "name": "Guzra Hua Ye Waqt",
       "url": "https://open.spotify.com/track/79vqORwAkk9oNEiXJ3ZRsG"
@@ -2118,7 +2144,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 274674,
       "name": "Is Nahin Ka",
       "url": "https://open.spotify.com/track/0NShVQ20TXqbOtGP3uCh8k"
@@ -3110,7 +3136,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 292028,
       "name": "Pahle Dil Ko (From - Izhaar-E-Ishq)",
       "url": "https://open.spotify.com/track/3h6BgkcUhYK28dBs6Ta7iw"

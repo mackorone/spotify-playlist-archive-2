@@ -3160,7 +3160,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 270000,
       "name": "Beyond the sunset",
       "url": "https://open.spotify.com/track/5pTZ4EGb1PEW80fVdrWMIT"
@@ -26837,6 +26837,24 @@
     },
     {
       "album": {
+        "name": "Two Of us : Wish+ Ep. 03",
+        "url": "https://open.spotify.com/album/1pbXt7eB8KudmU24yI8VhT"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291846,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/6K8r6pX0pFKA2g5t2FORxJ"
+    },
+    {
+      "album": {
         "name": "Two people",
         "url": "https://open.spotify.com/album/2AMdl8gdA5yUFVzHU01t7l"
       },
@@ -30840,7 +30858,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 222130,
       "name": "\ubc14\ub77c\ub358 \uc774\ubcc4\uc740 \ub9c8\uc74c\uc5d0 \ub4dc\ub098\uc694",
       "url": "https://open.spotify.com/track/45aFlbSfWtHMznVdTzgcgL"
@@ -31490,6 +31508,24 @@
       "duration_ms": 218638,
       "name": "\uc774\ubcc4\uc774 \uc774\ub807\uac8c \ud798\ub4e4 \uac70\ub77c\uace0",
       "url": "https://open.spotify.com/track/6ixDSzvVMinZIxuQ8Lq5Yn"
+    },
+    {
+      "album": {
+        "name": "\uc774\uc81c\uc57c \uc0ac\ub791\uc774 \ubcf4\uc774\ub124",
+        "url": "https://open.spotify.com/album/1EPWuiiAmdXc47A9YLpeSZ"
+      },
+      "artists": [
+        {
+          "name": "Lee Sun Hee",
+          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "\uc774\uc81c\uc57c \uc0ac\ub791\uc774 \ubcf4\uc774\ub124",
+      "url": "https://open.spotify.com/track/7ojKhprnV0Z7efNXEUv4Tl"
     },
     {
       "album": {

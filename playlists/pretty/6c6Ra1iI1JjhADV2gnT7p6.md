@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,954 likes - 600 songs - 1 day 9 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,953 likes - 600 songs - 1 day 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 60 | [Not a Dream](https://open.spotify.com/track/2DoTyRXgTCt2FFTawyZTvj) | [Le Keep](https://open.spotify.com/artist/4zCiIjHfSzdPHuxVN1Jh5e) | [Not a Dream](https://open.spotify.com/album/4pDvlPuUYKPaGVIaP9MJSj) | 2:35 |
 | 61 | [Spitting Image](https://open.spotify.com/track/4H7VkYUxGFFEM2efhv0Q25) | [Taraneh](https://open.spotify.com/artist/7IoTiUNmwPOdUCPlNtezaO) | [Spitting Image](https://open.spotify.com/album/4eZNz6Nu5eOrrleYeMJLf0) | 3:29 |
 | 62 | [Phone Sex](https://open.spotify.com/track/6uP8N5dWnT81PG5XFHWqDW) | [Melt Mars](https://open.spotify.com/artist/7by44SlOwW5KJepB2kE9jr) | [Phone Sex](https://open.spotify.com/album/5EBjLj2GpRXFErag2h2YSV) | 2:44 |
-| 63 | [Nothing Matters \(feat\. Maresz\)](https://open.spotify.com/track/6GzUTy6FxAaSVEvlxJXgFB) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Maresz](https://open.spotify.com/artist/0sVLsjXKoUaUTQFUt2bRaW) | [Nothing Matters \(feat\. Maresz\)](https://open.spotify.com/album/68H5ipiHhUvkNO03s9n0oz) | 3:02 |
+| 63 | [Nothing Matters](https://open.spotify.com/track/6GzUTy6FxAaSVEvlxJXgFB) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Maresz](https://open.spotify.com/artist/0sVLsjXKoUaUTQFUt2bRaW) | [Nothing Matters](https://open.spotify.com/album/68H5ipiHhUvkNO03s9n0oz) | 3:02 |
 | 64 | [Delirium Passes](https://open.spotify.com/track/5820lUjxHqIiqgZZf57zfx) | [Anand Wilder](https://open.spotify.com/artist/5pMCcLhPil65XVA7x0rRO1) | [I Don't Know My Words](https://open.spotify.com/album/0eUoiOhZ24i9HgjI41g4t0) | 3:19 |
 | 65 | [Avalanche Sound Effect](https://open.spotify.com/track/6Equ5SPQdX9yAHMWNv2KvI) | [Robber Robber](https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM) | [Two Wheels Move the Soul](https://open.spotify.com/album/3H4iX1m8kNm12NV2oijGcu) | 2:28 |
 | 66 | [Like A Doll](https://open.spotify.com/track/3dmo9aFrOPFZcS67c4Wbfu) | [Jah PHNX](https://open.spotify.com/artist/4FAtkJD7fCoiw7nECuemAG) | [Like A Doll](https://open.spotify.com/album/0xUGiFfqwjWVGShXTAYQak) | 2:24 |
@@ -330,8 +330,8 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 320 | [Apathy](https://open.spotify.com/track/5OgcbQBijiPPM5tDYRpSd7) | [Domina](https://open.spotify.com/artist/5J4Y0TedRCY1Cx2pHOT0vP) | [Apathy](https://open.spotify.com/album/38ocrSY5JwHZlG3ulIXmsL) | 2:14 |
 | 321 | [MONNNEY](https://open.spotify.com/track/0QzuTisu4nm9TBiRxNi558) | [veronicavon](https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ) | [icecream](https://open.spotify.com/album/5Po4vHcEvcKP17j23ReHAa) | 2:57 |
 | 322 | [Hesitated](https://open.spotify.com/track/27AUhLeLRWJPtth1zjsq5R) | [Jack Rabbit](https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp) | [A Sensitive Subject](https://open.spotify.com/album/50y3BuuCTcCecFZoBBwpgn) | 2:40 |
-| 323 | [What Does It Take](https://open.spotify.com/track/6Oj1vBGXiFIOlwzAWrfqAI) | [Miljon](https://open.spotify.com/artist/1cQDZ3vvObFtSUrCIxGig7) | [What Does It Take](https://open.spotify.com/album/2yYzqecU7cQ0G12h2ylMtv) | 5:12 |
-| 324 | [32", 34"](https://open.spotify.com/track/2jw8ghYAMxfDYHz5gSrW3U) | [scott is okay](https://open.spotify.com/artist/74sQB0xBWG3zl72UcRjIKK) | [Turning up the Draw Distance](https://open.spotify.com/album/6OQuoyqweP3wiwkYtsqagO) | 2:05 |
+| 323 | [32", 34"](https://open.spotify.com/track/2jw8ghYAMxfDYHz5gSrW3U) | [scott is okay](https://open.spotify.com/artist/74sQB0xBWG3zl72UcRjIKK) | [Turning up the Draw Distance](https://open.spotify.com/album/6OQuoyqweP3wiwkYtsqagO) | 2:05 |
+| 324 | [What Does It Take](https://open.spotify.com/track/6Oj1vBGXiFIOlwzAWrfqAI) | [Miljon](https://open.spotify.com/artist/1cQDZ3vvObFtSUrCIxGig7) | [What Does It Take](https://open.spotify.com/album/2yYzqecU7cQ0G12h2ylMtv) | 5:12 |
 | 325 | [No Pleasure](https://open.spotify.com/track/69bP2C8AFRXadtyQOBIVGn) | [Cult Caves](https://open.spotify.com/artist/3zspmWtDKcQq2NLzmDz6Ni) | [No Pleasure](https://open.spotify.com/album/3DHeEUQaZXWVKdJHD0Aik9) | 3:18 |
 | 326 | [SLATHER ON THE HONEY](https://open.spotify.com/track/1c4cTw79dH5vuCrVn81zeW) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [SLATHER ON THE HONEY](https://open.spotify.com/album/7om5fqirc3hJg6Wm7xVy0r) | 3:50 |
 | 327 | [Snowblind](https://open.spotify.com/track/7iIXwj2MqChlYKKPriF0pG) | [Rex Laurent](https://open.spotify.com/artist/7BqfW1w5X3o5gqYUDxwBi2) | [Snowblind](https://open.spotify.com/album/59qc4e8z9rSmwkkAstWuRd) | 2:22 |
@@ -520,11 +520,11 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 510 | [Sugar Phantom Blackout](https://open.spotify.com/track/5XYfa98ccptbAeYG1ECA3v) | [Bluhm](https://open.spotify.com/artist/22aAOr0FxuHU9XaDdUbdle) | [Sugar Phantom Blackout](https://open.spotify.com/album/1TnfF9GLR9eaJoQLPpm2Da) | 3:25 |
 | 511 | [Heart on the Loose](https://open.spotify.com/track/2K9ikIIxbBzzlsZAqhC4Tx) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Idol Melodies](https://open.spotify.com/album/7zOW6frt5bFazKf6NEPpVT) | 2:40 |
 | 512 | [Perfect Hand \- Power Snatch Version](https://open.spotify.com/track/041it5i3hjWkeCq0Cm7tzD) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun), [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM), [Daniel James](https://open.spotify.com/artist/7fjWpR5V7rFThV1mf5fzp9) | [Perfect Hand \(Power Snatch Version\)](https://open.spotify.com/album/2JZbYMSKIM2MCoOHkPVnOM) | 3:33 |
-| 513 | [Bells](https://open.spotify.com/track/6U9759WtCxrYpyNWYCxjco) | [Wulfer](https://open.spotify.com/artist/0YBx9RunjSU2iPXSgj4GiN) | [I Love My TV](https://open.spotify.com/album/3ubuw6jkKYshHahTd9vRA7) | 2:46 |
-| 514 | [No Other](https://open.spotify.com/track/232Nmx7QpmOhuIFZ665Sd7) | [Jack Landess](https://open.spotify.com/artist/2Xog1ZaOPN7tbsisHXX4Z3) | [No Other](https://open.spotify.com/album/2kGUXKbRrk2vZRgIkK6aCE) | 3:42 |
-| 515 | [Versions](https://open.spotify.com/track/0TkWm7kNivR7kyTXEcOsf4) | [Moody Moody](https://open.spotify.com/artist/5PYfCBxp2YxG6asOPw4akG) | [Versions](https://open.spotify.com/album/1g23Umalf0qsDb6s1fYpg2) | 3:53 |
-| 516 | [Far Beyond The Sun](https://open.spotify.com/track/4Fk3DOPTybVJCLd9SmnI3N) | [Danalogue](https://open.spotify.com/artist/6lhPEH73wnzXY8agYbpdPu) | [Far Beyond The Sun](https://open.spotify.com/album/0ODdrUzAKTOngvXhWMLPEX) | 3:04 |
-| 517 | [I\-26 Connector](https://open.spotify.com/track/4YCbRZxtGcC8YSvX4Og62P) | [i26connector](https://open.spotify.com/artist/4O6RKDvxGhEChWGZOZSmmq) | [i26connector](https://open.spotify.com/album/0M5N9u8oX9pPq8oeVcwr9F) | 2:56 |
+| 513 | [I\-26 Connector](https://open.spotify.com/track/4YCbRZxtGcC8YSvX4Og62P) | [i26connector](https://open.spotify.com/artist/4O6RKDvxGhEChWGZOZSmmq) | [i26connector](https://open.spotify.com/album/0M5N9u8oX9pPq8oeVcwr9F) | 2:56 |
+| 514 | [Bells](https://open.spotify.com/track/6U9759WtCxrYpyNWYCxjco) | [Wulfer](https://open.spotify.com/artist/0YBx9RunjSU2iPXSgj4GiN) | [I Love My TV](https://open.spotify.com/album/3ubuw6jkKYshHahTd9vRA7) | 2:46 |
+| 515 | [No Other](https://open.spotify.com/track/232Nmx7QpmOhuIFZ665Sd7) | [Jack Landess](https://open.spotify.com/artist/2Xog1ZaOPN7tbsisHXX4Z3) | [No Other](https://open.spotify.com/album/2kGUXKbRrk2vZRgIkK6aCE) | 3:42 |
+| 516 | [Versions](https://open.spotify.com/track/0TkWm7kNivR7kyTXEcOsf4) | [Moody Moody](https://open.spotify.com/artist/5PYfCBxp2YxG6asOPw4akG) | [Versions](https://open.spotify.com/album/1g23Umalf0qsDb6s1fYpg2) | 3:53 |
+| 517 | [Far Beyond The Sun](https://open.spotify.com/track/4Fk3DOPTybVJCLd9SmnI3N) | [Danalogue](https://open.spotify.com/artist/6lhPEH73wnzXY8agYbpdPu) | [Far Beyond The Sun](https://open.spotify.com/album/0ODdrUzAKTOngvXhWMLPEX) | 3:04 |
 | 518 | [Reset](https://open.spotify.com/track/5ZZcINzdiNArgNStohLKdC) | [Jonah Paz](https://open.spotify.com/artist/2CmjHNxv6208TmTwtLQfHW), [Adeline Bateman](https://open.spotify.com/artist/17ZEM86immHpRXfqJoAk4p) | [Exit](https://open.spotify.com/album/5ZW0dAkMtiKRi85Lcn0zas) | 1:37 |
 | 519 | [Tachylite](https://open.spotify.com/track/0iCGsiEcWZzX5eOBjiNI3v) | [Elín Hall](https://open.spotify.com/artist/1hfm4VS7hTtOZF08Qd9OTb) | [Tachylite](https://open.spotify.com/album/3JpDsex3LN18FLPoChG6Bg) | 3:59 |
 | 520 | [Blank](https://open.spotify.com/track/22fEQtqfGQjdZ1QbBpGj7J) | [Stove](https://open.spotify.com/artist/4rkMcjdyDpeG57mT7lZNKs) | [Is the Meat That Fell Out](https://open.spotify.com/album/2r3bJ4dQUbkdYfCLrWEWvU) | 2:19 |
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 599 | [Commotion](https://open.spotify.com/track/29MnyydjwSuj8ZodH7tK7r) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 2:04 |
 | 600 | [Not A Phase](https://open.spotify.com/track/36ZQiXMIYRyu9cuFJOxsCc) | [Communions](https://open.spotify.com/artist/0R8TAmoXJnoB6ro5cp1XdI) | [Not A Phase](https://open.spotify.com/album/5vjMV5LhVU5VaXjvLITt6v) | 3:48 |
 
-Snapshot ID: `AAA2uy9WVk/WwMuEAJ62StYfHOsTPbbG`
+Snapshot ID: `AAA2xInstNxtGJDLNYqv7zzQMdob5FgV`

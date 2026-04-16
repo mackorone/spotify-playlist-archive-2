@@ -1,6 +1,6 @@
 {
   "description": "Recuerda la d\u00e9cada de los acampanados, patillas y cuellos picudos. Juan Gabriel en portada.",
-  "num_followers": 349420,
+  "num_followers": 349511,
   "original_name": "Los 70 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
+        "name": "Brillantes - Jose Jose",
+        "url": "https://open.spotify.com/album/3olQZ2Bjes0ujqc3aVvWYI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "El Amar y el Querer",
+      "url": "https://open.spotify.com/track/3O0VgO1XOxiJSQnThWWPv3"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/71RWDZGCcKYdMR9u626HC7"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 161786,
       "name": "Los nenes con los nenes",
       "url": "https://open.spotify.com/track/4qqsiYS4RvwJeSxnnGlYTH"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "Brillantes - Jose Jose",
-        "url": "https://open.spotify.com/album/3olQZ2Bjes0ujqc3aVvWYI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "El Amar y el Querer",
-      "url": "https://open.spotify.com/track/3O0VgO1XOxiJSQnThWWPv3"
     },
     {
       "added_at": "2019-09-04 23:38:38",

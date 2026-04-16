@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Momo Boyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,231 likes - 150 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,247 likes - 150 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 32 | [I'm Still](https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [I'm Still](https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu) | 2:42 |
 | 33 | [Gemini Eyes](https://open.spotify.com/track/0iAj8Y4ZSdezYNsqDjiFpd) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [Gemini Eyes](https://open.spotify.com/album/6v9iRVS2E9epoj2xr1c2tL) | 4:59 |
 | 34 | [Move \(feat\. Lucky Daye\)](https://open.spotify.com/track/2TkUALJxL9NGx38AIGGquG) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Move](https://open.spotify.com/album/1BCPjUqJvqEOkF5b7hKULR) | 2:52 |
-| 35 | [Shame](https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Shame](https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG) | 3:02 |
+| 35 | [Shame \(feat\. BunnaB\)](https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Shame \(feat\. BunnaB\)](https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG) | 3:02 |
 | 36 | [Maybe](https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Maybe](https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm) | 3:02 |
 | 37 | [Sofa Joy](https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return](https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR) | 3:44 |
 | 38 | [badman](https://open.spotify.com/track/4406h74Yzu8yH3TfsKJ41L) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [badman](https://open.spotify.com/album/7HryhBfvpRhVRzcWF2SH8W) | 2:54 |

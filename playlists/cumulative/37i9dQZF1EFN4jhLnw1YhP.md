@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-109 songs - 6 hr 40 min
+111 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [I Don't Think I Love You Anymore](https://open.spotify.com/track/1os3LM7fXjKRJowVkWZnwu) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [I Don't Think I Love You Anymore](https://open.spotify.com/album/05AOf7DlzBSXcuNlJUXI0A) | 2:52 | 2026-02-20 |  |
 | [If I Stayed](https://open.spotify.com/track/5XIYXLS7Arc0OBSpRtD5tp) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [Modera](https://open.spotify.com/artist/5srbzu0tyZ1Wb1HgDOqVFj) | [Second Sight](https://open.spotify.com/album/5I6PqYr0qD0CJjXa9IGqE7) | 4:14 | 2026-02-20 |  |
 | [Imagine](https://open.spotify.com/track/5eFxAvs1EBR5PrWGWs3hkG) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd) | [We Could Be Love](https://open.spotify.com/album/7MXx2NOHN8IsVPY9x57QXU) | 3:38 | 2025-10-27 |  |
+| [In The Wild](https://open.spotify.com/track/6qdawS2KDh5yAeojdhjYMi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [In The Wild](https://open.spotify.com/album/3RWogqgYqXE2o8KNUQvBuc) | 2:29 | 2026-04-15 |  |
 | [Japan](https://open.spotify.com/track/0TR0PalM9XZbbCp05H6NxH) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Japan](https://open.spotify.com/album/6pW4GJpv9gnYTnqsrnMeKg) | 3:59 | 2025-10-27 |  |
 | [Let Me Down \(Easy\)](https://open.spotify.com/track/0DsiVQyMcUSejXJ2lRSVAd) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [To Have, Not Just to Hold](https://open.spotify.com/album/6hbjxnwPHX21iQmpzqUnma) | 4:04 | 2025-10-27 |  |
 | [Let Me Tell You](https://open.spotify.com/track/4gjYZVAqK4v4ln0iSBl4uC) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [The One / Let Me Tell You](https://open.spotify.com/album/5vN8glAgbs4UOwbzd8bhuY) | 4:21 | 2025-10-27 |  |
@@ -105,6 +106,7 @@
 | [Still Rushing](https://open.spotify.com/track/0ClezjYrzLlJlUoJHHpijS) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Tibasko](https://open.spotify.com/album/3WUmU5EZANlpdNcPWabX9E) | 3:46 | 2026-02-20 |  |
 | [Tether](https://open.spotify.com/track/19SgSzIT7tACElrLcuwrTk) | [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu) | [Tether](https://open.spotify.com/album/53ZAjcZ9RlFAJmdsjfSQ0P) | 3:08 | 2026-02-20 |  |
 | [That's Alright \(feat\. Julia Church\)](https://open.spotify.com/track/6o1oZN8tCkcQrE0vtFKP2i) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [If Summer Was A Sound](https://open.spotify.com/album/4S5YBpgdnin3eYhbzPvErZ) | 3:34 | 2026-02-20 |  |
+| [The Edge](https://open.spotify.com/track/6P4gHVZuGI2K1OnuvOTBjX) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [The Edge](https://open.spotify.com/album/3ojueSxWncY2bxqPoUdrzS) | 3:40 | 2026-04-15 |  |
 | [Thursday](https://open.spotify.com/track/674eJylPTltR16ISBvUp3S) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Thursday](https://open.spotify.com/album/6tHlpSOXbM3YfWJcAPEuPI) | 4:25 | 2026-02-20 |  |
 | [Tides](https://open.spotify.com/track/0FDohASCkMdjnsyFJNENJQ) | [Lahos](https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w) | [Tides](https://open.spotify.com/album/1LyX2cr9RL4H3qBp5qzURf) | 3:36 | 2025-10-27 |  |
 | [Tightropes](https://open.spotify.com/track/6ihtjwDFO3MB8nCeYN9MdE) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4), [Adam Butler](https://open.spotify.com/artist/59OcLANY6VTX2eInlGP3GG) | [Tightropes](https://open.spotify.com/album/4jayika7Sm4T9JM6at4a9H) | 4:21 | 2025-10-27 |  |

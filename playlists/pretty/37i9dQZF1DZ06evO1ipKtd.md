@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ipKtd.md) - [plain]
 
 > This is Nala Sinephro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070 likes - 18 songs - 56 min 47 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,074 likes - 18 songs - 53 min 50 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ipKtd.md) - [plain]
 | 14 | [Continuum 5](https://open.spotify.com/track/1osH3uL7bpaqqihI6DtirD) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 1:26 |
 | 15 | [Dawn II](https://open.spotify.com/track/2spRx4wRN2ZM3CZdbgGGw4) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [The Smashing Machine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LPmqGCKhFHS5Fw8WyaKY8) | 1:07 |
 | 16 | [Space 3](https://open.spotify.com/track/4TS1SMLEEhjKr6qeKjfq5z) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 1:15 |
-| 17 | [Continuum 2](https://open.spotify.com/track/66O3YWGFyDk1UWhi8BTGMF) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 7:01 |
+| 17 | [Continuum 7](https://open.spotify.com/track/6OIfHsPyiMVEeDXa75ul0o) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 4:05 |
 | 18 | [Mark II](https://open.spotify.com/track/79cVFC9tcll7AhnOjJOlme) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [The Smashing Machine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LPmqGCKhFHS5Fw8WyaKY8) | 1:29 |
 
-Snapshot ID: `adwyAAAAAAAsEax6G0hZpcW/lShS+pJI`
+Snapshot ID: `ad2DgAAAAAA6E53UkrFDWBnTBkQCigbN`

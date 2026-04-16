@@ -11577,6 +11577,24 @@
     },
     {
       "album": {
+        "name": "quiet rooms",
+        "url": "https://open.spotify.com/album/6tb9N9G1xLWAft6scXUYv5"
+      },
+      "artists": [
+        {
+          "name": "William Thomson",
+          "url": "https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92830,
+      "name": "quiet rooms",
+      "url": "https://open.spotify.com/track/53CJl5cRlXbTBOcuHeeI3a"
+    },
+    {
+      "album": {
         "name": "Quiet Thought",
         "url": "https://open.spotify.com/album/4ku1gGUALwIW5W1tc6bGSE"
       },

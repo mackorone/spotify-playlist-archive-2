@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2140694,
+  "num_followers": 2140359,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
+        "name": "Ocean Bed",
+        "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Ocean Bed",
+      "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
         "name": "Covers One",
         "url": "https://open.spotify.com/album/34WkSeCkKh4wMsz7AFtU0F"
       },
@@ -595,18 +611,18 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Ocean Bed",
-        "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
+        "name": "The Lone Bellow",
+        "url": "https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB"
       },
       "artists": [
         {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
         }
       ],
-      "duration_ms": 240360,
-      "name": "Ocean Bed",
-      "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
+      "duration_ms": 252853,
+      "name": "Green Eyes and a Heart of Gold",
+      "url": "https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -627,18 +643,18 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "The Lone Bellow",
-        "url": "https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB"
+        "name": "Dream Within a Dream",
+        "url": "https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx"
       },
       "artists": [
         {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
         }
       ],
-      "duration_ms": 252853,
-      "name": "Green Eyes and a Heart of Gold",
-      "url": "https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j"
+      "duration_ms": 168080,
+      "name": "Dream Within a Dream",
+      "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -655,22 +671,6 @@
       "duration_ms": 249586,
       "name": "Don't You (Forget About Me)",
       "url": "https://open.spotify.com/track/5hOaRdlUqUSZ5nv8kQx1DF"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
-        "name": "Dream Within a Dream",
-        "url": "https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx"
-      },
-      "artists": [
-        {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
-        }
-      ],
-      "duration_ms": 168080,
-      "name": "Dream Within a Dream",
-      "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Classic",
-        "url": "https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU"
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS"
       },
       "artists": [
         {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0"
+      "duration_ms": 265920,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/7yMYqHqzye8vtyiHqdVlZw"
     }
   ],
   "unique_name": "Run Wild",

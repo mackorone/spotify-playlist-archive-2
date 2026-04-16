@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 192463,
+  "num_followers": 192558,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adwyAAAAAABftWkOwPQMHRcNjeQJGl91",
+  "snapshot_id": "ad2DgAAAAADwiYRqbezbV1qWJddXKwan",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+        "name": "DAWN PATROL",
+        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
       },
       "artists": [
         {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
         },
         {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 152750,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq"
+      "duration_ms": 185268,
+      "name": "YAHWEH",
+      "url": "https://open.spotify.com/track/1OVbFAwbXXPKKMlLq8tKbW"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
       "duration_ms": 155067,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq"
     },
     {
       "added_at": null,
@@ -764,25 +784,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 185268,
-      "name": "YAHWEH",
-      "url": "https://open.spotify.com/track/1OVbFAwbXXPKKMlLq8tKbW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "California Cowboy",
-        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 151905,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/6oknlBDl8nwMkmSXWsvViN"
+      "duration_ms": 125952,
+      "name": "SOULSHINE",
+      "url": "https://open.spotify.com/track/0fvskLBakfqcslW0RkB5JT"
     },
     {
       "added_at": null,
@@ -803,6 +807,22 @@
       "duration_ms": 188063,
       "name": "Nothing But The Blood",
       "url": "https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "California Cowboy",
+        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 151905,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/6oknlBDl8nwMkmSXWsvViN"
     },
     {
       "added_at": null,
@@ -840,25 +860,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 125952,
-      "name": "SOULSHINE",
-      "url": "https://open.spotify.com/track/0fvskLBakfqcslW0RkB5JT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SELAH",
-        "url": "https://open.spotify.com/album/7Ha4qYOG9q7bRVHi4mlSNI"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 202602,
-      "name": "SELAH",
-      "url": "https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz"
+      "duration_ms": 38998,
+      "name": "WEATHER REPORT",
+      "url": "https://open.spotify.com/track/5GHe5K2Ohj64QFc5ImY4SD"
     },
     {
       "added_at": null,
@@ -879,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SELAH",
+        "url": "https://open.spotify.com/album/7Ha4qYOG9q7bRVHi4mlSNI"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 202602,
+      "name": "SELAH",
+      "url": "https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHILD OF GOD (DELUXE)",
         "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 181374,
       "name": "ALIVE",
       "url": "https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DAWN PATROL",
-        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
-      },
-      "artists": [
-        {
-          "name": "PARTY WAVE",
-          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 38998,
-      "name": "WEATHER REPORT",
-      "url": "https://open.spotify.com/track/5GHe5K2Ohj64QFc5ImY4SD"
     }
   ],
   "unique_name": "This Is Forrest Frank",

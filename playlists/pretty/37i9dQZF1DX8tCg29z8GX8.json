@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 20218,
+  "num_followers": 20236,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,26 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
+        "name": "Run Away (OMALICHA)",
+        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Run Away (OMALICHA)",
+      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
         "name": "SOMETHING",
         "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
       },
@@ -411,42 +431,18 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
-        "name": "Run Away (OMALICHA)",
-        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Run Away (OMALICHA)",
-      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
-        "name": "So it Goes",
-        "url": "https://open.spotify.com/album/5NcIQDB0iObPQx5U3K0OoC"
+        "name": "IRON BOY",
+        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
       },
       "artists": [
         {
           "name": "Black Sherif",
           "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 223585,
-      "name": "So it Goes",
-      "url": "https://open.spotify.com/track/2dZ0GjY40Y2OYzRaiD8yYq"
+      "duration_ms": 137727,
+      "name": "Eye Open",
+      "url": "https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -463,6 +459,22 @@
       "duration_ms": 154335,
       "name": "Adu the Borga",
       "url": "https://open.spotify.com/track/1USHzKwx6N8MO9ePRnpqfo"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
+        "name": "BALENCIAGA",
+        "url": "https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "duration_ms": 140014,
+      "name": "BALENCIAGA",
+      "url": "https://open.spotify.com/track/1v50F7vK31Czts54YID73W"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -499,22 +511,6 @@
       "duration_ms": 185719,
       "name": "See What We've Done",
       "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
-        "name": "BALENCIAGA",
-        "url": "https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9"
-      },
-      "artists": [
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 140014,
-      "name": "BALENCIAGA",
-      "url": "https://open.spotify.com/track/1v50F7vK31Czts54YID73W"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -563,38 +559,6 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
-        "name": "This Is Not the Tape III",
-        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "Fefe Ne Fe",
-      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
         "name": "BALENCIAGA II",
         "url": "https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug"
       },
@@ -627,18 +591,18 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
-        "name": "Very Soon",
-        "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
+        "name": "This Is Not the Tape III",
+        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
       },
       "artists": [
         {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 189177,
-      "name": "Very Soon",
-      "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
+      "duration_ms": 168346,
+      "name": "Fefe Ne Fe",
+      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -655,6 +619,22 @@
       "duration_ms": 175682,
       "name": "STREET CROWN (African Dancehall)",
       "url": "https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
+        "name": "Very Soon",
+        "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "duration_ms": 189177,
+      "name": "Very Soon",
+      "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -679,6 +659,22 @@
       "duration_ms": 266967,
       "name": "Aso II",
       "url": "https://open.spotify.com/track/2OAZTmQH3HwsVzDYeK3LDw"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -735,26 +731,6 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
-        "name": "Perfect Combi & Naana",
-        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 181063,
-      "name": "Perfect Combi",
-      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS"
       },
@@ -771,6 +747,26 @@
       "duration_ms": 173033,
       "name": "Habit",
       "url": "https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
+        "name": "Perfect Combi & Naana",
+        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 181063,
+      "name": "Perfect Combi",
+      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -847,18 +843,22 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
-        "name": "MO NTW\u0190N!",
-        "url": "https://open.spotify.com/album/3srUpOMbqL0ez6KKEx8Y91"
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4"
       },
       "artists": [
         {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+          "name": "Del B",
+          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
+        },
+        {
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
         }
       ],
-      "duration_ms": 122024,
-      "name": "MO NTW\u0190N!",
-      "url": "https://open.spotify.com/track/7sMAkr15drJKAD6zysmihs"
+      "duration_ms": 168000,
+      "name": "After The Storm",
+      "url": "https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
+        "name": "MO NTW\u0190N!",
+        "url": "https://open.spotify.com/album/3srUpOMbqL0ez6KKEx8Y91"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "duration_ms": 122024,
+      "name": "MO NTW\u0190N!",
+      "url": "https://open.spotify.com/track/7sMAkr15drJKAD6zysmihs"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
         "name": "WALK WITH ME",
         "url": "https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl"
       },
@@ -895,26 +911,6 @@
       "duration_ms": 221418,
       "name": "Someday Soon",
       "url": "https://open.spotify.com/track/1tefeAORT76SRH3r4Qoj0g"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4"
-      },
-      "artists": [
-        {
-          "name": "Del B",
-          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
-        },
-        {
-          "name": "DJ Boat",
-          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "After The Storm",
-      "url": "https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -1007,6 +1003,22 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 211265,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
         "name": "Wins & Losses",
         "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
       },
@@ -1023,22 +1035,6 @@
       "duration_ms": 179825,
       "name": "Wins & Losses",
       "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 211265,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -1223,22 +1219,6 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
-        "name": "Another 365 (Happy Birthday)",
-        "url": "https://open.spotify.com/album/23EbraFueVN1bxuOSFNg5l"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 167741,
-      "name": "Another 365 (Happy Birthday)",
-      "url": "https://open.spotify.com/track/4KZfXltSnmDVUmehV2PWrh"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/3N4ErCHXXwH7cYTi8YFOdT"
       },
@@ -1271,6 +1251,22 @@
       "duration_ms": 197264,
       "name": "Fully Active (feat. Lalid)",
       "url": "https://open.spotify.com/track/1wA4YRKjoBgvkO7NoviGmN"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
+        "name": "Another 365 (Happy Birthday)",
+        "url": "https://open.spotify.com/album/23EbraFueVN1bxuOSFNg5l"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 167741,
+      "name": "Another 365 (Happy Birthday)",
+      "url": "https://open.spotify.com/track/4KZfXltSnmDVUmehV2PWrh"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -1315,6 +1311,26 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
+        "name": "Go n Look",
+        "url": "https://open.spotify.com/album/0H4zop3iXGovw6xqjTLnjh"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 135825,
+      "name": "Go n Look",
+      "url": "https://open.spotify.com/track/6uUh6ap9kH5Zuag6mFFW4w"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
         "name": "NLF (Breakfast) [Remix] (feat. Lyrical Joe, Medikal & Beeztrap KOTM)",
         "url": "https://open.spotify.com/album/08xthu9vDphOEDxyqDB9II"
       },
@@ -1347,26 +1363,6 @@
       "duration_ms": 266922,
       "name": "NLF (Breakfast) (feat. Lyrical Joe, Medikal & Beeztrap KOTM) - Remix",
       "url": "https://open.spotify.com/track/0p78AVztWdAadBisJf2AwD"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
-        "name": "Go n Look",
-        "url": "https://open.spotify.com/album/0H4zop3iXGovw6xqjTLnjh"
-      },
-      "artists": [
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 135825,
-      "name": "Go n Look",
-      "url": "https://open.spotify.com/track/6uUh6ap9kH5Zuag6mFFW4w"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -1467,6 +1463,26 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
+        "name": "Sofaya",
+        "url": "https://open.spotify.com/album/3VSGXnUx6iwH8tFpQq9BUs"
+      },
+      "artists": [
+        {
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        },
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Sofaya",
+      "url": "https://open.spotify.com/track/5DjlY8cBGWYQjyEQDDYBjq"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
         "name": "Put Am on God",
         "url": "https://open.spotify.com/album/5MYUW4xuYLfc5LCFLIxVqc"
       },
@@ -1495,26 +1511,6 @@
       "duration_ms": 129923,
       "name": "Scatter",
       "url": "https://open.spotify.com/track/6v0ipIa8GlGXd6kkzYiaYn"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
-        "name": "Do You Know?",
-        "url": "https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0"
-      },
-      "artists": [
-        {
-          "name": "siicie",
-          "url": "https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 145794,
-      "name": "Do You Know?",
-      "url": "https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql"
     }
   ],
   "unique_name": "Troski Rhythms",

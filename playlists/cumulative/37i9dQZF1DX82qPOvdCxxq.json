@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Praise Lubangu",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Lani Rose",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -6078,7 +6078,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 252250,
       "name": "Fortress",
       "url": "https://open.spotify.com/track/6UVu48178Ean6ymEL1nWBi"
@@ -6172,6 +6172,24 @@
       "duration_ms": 231896,
       "name": "Free Fall",
       "url": "https://open.spotify.com/track/2reaOoVvZ0jAbImx6q0aZV"
+    },
+    {
+      "album": {
+        "name": "Eastside Evangelist",
+        "url": "https://open.spotify.com/album/2Ix1D25SdRC8ilvq9oLLWp"
+      },
+      "artists": [
+        {
+          "name": "Caam1k",
+          "url": "https://open.spotify.com/artist/7jmrwYVgLNcjdhwBH6DxPz"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158874,
+      "name": "Free Game",
+      "url": "https://open.spotify.com/track/1GxxgiC4xP3ZMbbxBRhvFK"
     },
     {
       "album": {
@@ -7544,7 +7562,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 159914,
       "name": "Have Your Way",
       "url": "https://open.spotify.com/track/1i6Ns9XggdvEQwVHOW7hOd"
@@ -9306,7 +9324,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 148495,
       "name": "I'm Not Okay",
       "url": "https://open.spotify.com/track/3tRzG3MTlUnst2Uef0sFLI"
@@ -11132,7 +11150,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 133150,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/2P0TvLxCynuPGquWInTmQc"
@@ -14009,6 +14027,24 @@
     },
     {
       "album": {
+        "name": "Out Of Touch",
+        "url": "https://open.spotify.com/album/0MkbRC8bibouKkeo4PFolh"
+      },
+      "artists": [
+        {
+          "name": "Perri Jones",
+          "url": "https://open.spotify.com/artist/0v7n7KWfzG0Gg4grOnHdg4"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180715,
+      "name": "Out Of Touch",
+      "url": "https://open.spotify.com/track/6EGSvVXneV86Ct1dctAxqB"
+    },
+    {
+      "album": {
         "name": "Outrun You",
         "url": "https://open.spotify.com/album/4hAmjYuDsl0egwAowi0aXt"
       },
@@ -14382,6 +14418,24 @@
       "duration_ms": 258129,
       "name": "Peter\u2019s Confession",
       "url": "https://open.spotify.com/track/32u47YeZfnbTYaKH18ROOa"
+    },
+    {
+      "album": {
+        "name": "Plastic Fruit",
+        "url": "https://open.spotify.com/album/1NCa1RSwxfQ03vnXqzLH2D"
+      },
+      "artists": [
+        {
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209443,
+      "name": "Plastic Fruit",
+      "url": "https://open.spotify.com/track/2haZjYWVMFjpn3QxVuqANq"
     },
     {
       "album": {
@@ -17853,6 +17907,24 @@
     },
     {
       "album": {
+        "name": "Talking To A Dove",
+        "url": "https://open.spotify.com/album/22XaF4IHvqBCIlWic1GNEb"
+      },
+      "artists": [
+        {
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199950,
+      "name": "Talking To A Dove",
+      "url": "https://open.spotify.com/track/2VBWGfh1WorNT0yHkbG2Va"
+    },
+    {
+      "album": {
         "name": "Taste Another Day",
         "url": "https://open.spotify.com/album/4VtCG7OA1u5THNX1GkytHL"
       },
@@ -18826,6 +18898,24 @@
       "duration_ms": 204444,
       "name": "Till You're Home",
       "url": "https://open.spotify.com/track/2RrkLEP2YYsi2CXIpL3OZ8"
+    },
+    {
+      "album": {
+        "name": "Time for You",
+        "url": "https://open.spotify.com/album/6CUZHvfCGAPlo8Q7fsJlz0"
+      },
+      "artists": [
+        {
+          "name": "Anna Makula",
+          "url": "https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219750,
+      "name": "Time for You",
+      "url": "https://open.spotify.com/track/54IR8l2bqqj5CLlgAZ8mRO"
     },
     {
       "album": {
@@ -20940,7 +21030,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 172076,
       "name": "Woman Of Me",
       "url": "https://open.spotify.com/track/28FXH19Z9ihzOJKiFYyK6e"
@@ -21280,7 +21370,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 165619,
       "name": "YES BE YES",
       "url": "https://open.spotify.com/track/3InQ4YRFxbpi3wKYuQWxKU"

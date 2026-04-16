@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-1,842 songs - 3 day 22 hr 21 min
+1,843 songs - 3 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Beatriz](https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Leborato](https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Beatriz](https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup) | 4:07 | 2026-03-19 |  |
 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 | 2025-04-27 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-27 | 2024-04-07 |
+| [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2026-04-15 |  |
 | [Bebe e Vem Me Procurar / Quem Ama Sente Saudade \(Ao Vivo\)](https://open.spotify.com/track/1N19UVD4GRBFT6UrDaX6rk) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Turma no Quintal \(Ao Vivo\)](https://open.spotify.com/album/1N4vxCa92pFS7jdcLBTOqu) | 3:36 | 2025-07-02 | 2026-04-15 |
 | [Bebe, Beija e Trai \- Ao Vivo](https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs) | [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Bebe, Beija e Trai \(Ao Vivo\)](https://open.spotify.com/album/0E8TJBB3Y510HYS9llB48Q) | 2:36 | 2025-12-22 |  |
 | [Bebeto e Romário](https://open.spotify.com/track/1iYCb2ogLunulBHn3g3cPX) | [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V) | [Coração de Ouro](https://open.spotify.com/album/06JmpvXoHG2dFMvmIGRvi1) | 2:21 | 2024-11-05 | 2024-11-14 |
@@ -1367,7 +1368,7 @@
 | [Quem Não Conhece Tá Sem Internet](https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Quem Não Conhece Tá Sem Internet](https://open.spotify.com/album/5NHD24GC7W9uH2fdLzteGB) | 2:26 | 2022-10-04 | 2022-12-15 |
 | [QUEM SOU EU?](https://open.spotify.com/track/6E8KBuOUM9e23f9fyHsDU1) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 2:05 | 2022-12-23 | 2022-12-25 |
 | [Quem tá Pegando](https://open.spotify.com/track/6L2ule7uWSdh1qjcMO3vUD) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Quem tá Pegando](https://open.spotify.com/album/5khAraskzd7fw9TQbR39PR) | 2:42 | 2023-06-26 | 2024-06-01 |
-| [Quem É Esse? \- Ao Vivo](https://open.spotify.com/track/035Q417M83JnP3wvSlyFEK) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [A Maior Honra \(Ao Vivo\)](https://open.spotify.com/album/4ILheZBIdfuSt6cjQRsWiB) | 7:48 | 2025-08-05 |  |
+| [Quem É Esse? \- Ao Vivo](https://open.spotify.com/track/035Q417M83JnP3wvSlyFEK) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [A Maior Honra \(Ao Vivo\)](https://open.spotify.com/album/4ILheZBIdfuSt6cjQRsWiB) | 7:48 | 2025-08-05 | 2026-04-16 |
 | [Quer Voar](https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Quer Voar](https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e) | 3:07 | 2021-08-13 | 2022-01-30 |
 | [Quero Ver Cês Terminar](https://open.spotify.com/track/4fwode2LHBWDTfmmEFR9mw) | [Gustavo Moura & Rafael](https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T) | [Um Novo Ciclo, Vol\. 2](https://open.spotify.com/album/7GYAwXypZS3oJK7IvUphzV) | 2:40 | 2024-05-14 | 2024-06-07 |
 | [Quero Ver é Me Esquecer \(feat\. Jorge\) \- Ao Vivo](https://open.spotify.com/track/1Kkm6aiyVPbco6otyybdt6) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Da Roça Pra Cidade \(Ao Vivo\)](https://open.spotify.com/album/7lXBPw75Qj4rmBZ1la9E3P) | 2:27 | 2021-08-30 | 2021-09-01 |

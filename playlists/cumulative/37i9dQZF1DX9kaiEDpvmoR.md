@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-538 songs - 1 day 7 hr 44 min
+540 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Det löser sig med blåbärspaj \- Från "Svenska revyn"](https://open.spotify.com/track/73ZSckcVhaQndTcLpeQEvm) | [Henrik Dorsin](https://open.spotify.com/artist/26ELugcMgfqnLLFQHlhrSd), [Per “Putte” Ekdahls orkester](https://open.spotify.com/artist/4OFi5n5FmjB8GhTTaAdjMg) | [Det löser sig med blåbärspaj \(Från "Svenska revyn"\)](https://open.spotify.com/album/3LguV8haPBBtIQmzdhG9ws) | 4:57 | 2024-08-15 | 2024-09-20 |
 | [Det sista jag behöver](https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Det sista jag behöver](https://open.spotify.com/album/7mXhFByOKqVfAM8TxYMX9M) | 2:54 | 2025-01-09 | 2025-05-16 |
 | [Det Är Nog Kärlek Ändå](https://open.spotify.com/track/5gI30X0kenwXKCYywp7k3l) | [Jimmy Nordstrand](https://open.spotify.com/artist/2luFZL6C83ib0rPuLYdpdX) | [Det Är Nog Kärlek Ändå](https://open.spotify.com/album/2geXaBfZiPoLcnV8WxMDQ4) | 3:11 | 2024-08-15 | 2024-09-08 |
+| [Diamonds](https://open.spotify.com/track/1SXc5yCjwMjp0v7nNmESNs) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Escape Through Music 2021\-2025](https://open.spotify.com/album/4GR0pnEmPh492b5KFyPfSv) | 4:32 | 2026-04-14 |  |
 | [Din parfym](https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Din parfym](https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ) | 2:41 | 2024-09-12 | 2024-10-21 |
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-06-27 | 2024-08-09 |
 | [Djungeltelegrafen](https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Innan kronan blir för tung](https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p) | 3:53 | 2025-03-27 | 2026-02-13 |
@@ -197,7 +198,7 @@
 | [Hejdå för alltid](https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Hejdå för alltid](https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc) | 3:25 | 2024-08-15 | 2024-11-07 |
 | [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 | 2024-08-15 | 2024-10-20 |
 | [Hem till Dalarna](https://open.spotify.com/track/0WxY13xpXXt7f3zeUJRo0D) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe) | [Hem till Dalarna](https://open.spotify.com/album/3gEKKDGJxBp3ZKKtzaoNKU) | 4:41 | 2025-01-23 | 2025-05-30 |
-| [Henrys gitarr](https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK) | [Henrys gitarr](https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs) | 2:53 | 2025-06-19 |  |
+| [Henrys gitarr](https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK) | [Henrys gitarr](https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs) | 2:53 | 2025-06-19 | 2026-04-16 |
 | [Here](https://open.spotify.com/track/3crBzdu0lmHgnHBbFzGr4n) | [VAKER](https://open.spotify.com/artist/2sg9pn5r51AVgk9ihcSoKP) | [Here](https://open.spotify.com/album/73r6BjTe5UkHsV76kenlwO) | 3:08 | 2024-06-27 | 2024-08-09 |
 | [Heroes \- Spotify Singles](https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes \- Spotify Singles](https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag) | 3:00 | 2025-01-09 | 2025-05-16 |
 | [Hey Little Love](https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Hey Little Love](https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9) | 2:38 | 2024-06-27 | 2024-08-16 |
@@ -215,6 +216,7 @@
 | [Human \(feat\. Jesse & Joy\)](https://open.spotify.com/track/4MH2gZVOQMUo9CcKIzJsiR) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Human \(feat\. Jesse & Joy\)](https://open.spotify.com/album/37DEtkcmpXDSgFqJuy7eOU) | 4:03 | 2025-08-14 |  |
 | [Hummin' a Melody](https://open.spotify.com/track/05yiHrwmHDqyjOhLagO4ik) | [Isaac And The Soul Company](https://open.spotify.com/artist/2xvgiQmoknkwrQmSSOlvld) | [Hummin' a Melody](https://open.spotify.com/album/1rKwnTfec0E0AI8dhJUVr7) | 2:47 | 2024-06-27 | 2024-08-09 |
 | [Hurts](https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Hurts](https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6) | 3:20 | 2024-06-27 | 2025-04-04 |
+| [Huset har rasat](https://open.spotify.com/track/6wETYM9zLibxsj7IPtA7Cp) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Huset har rasat](https://open.spotify.com/album/5oadC7J0J3KNZ2Bi18t69T) | 3:25 | 2026-04-14 |  |
 | [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 | 2024-12-05 | 2025-05-16 |
 | [Hälften av han](https://open.spotify.com/track/0KALl4TnIi1k6JbKlmDpDl) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Hälften av han](https://open.spotify.com/album/5YQBLNQ1OT9pbLlw2aiJXY) | 2:25 | 2025-05-15 | 2025-05-30 |
 | [Hälsingevind](https://open.spotify.com/track/4S8r06IA1z67uAlKoa5Ubq) | [Engmans Kapell](https://open.spotify.com/artist/44RPeghKstDd42rYnzyZ8v), [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe) | [Hälsingevind](https://open.spotify.com/album/0SqezURYw039gJ7livqLby) | 4:47 | 2025-07-10 |  |
@@ -390,7 +392,7 @@
 | [Rädd för hundar](https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Rädd för hundar](https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t) | 4:11 | 2025-01-16 | 2025-05-30 |
 | [Rädda mig](https://open.spotify.com/track/7KVTHj4gD5UTxVuxQ00uyD) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Rädda mig](https://open.spotify.com/album/4DjlkBoRfh4KmiGsUrmOwz) | 3:00 | 2025-02-14 | 2025-03-21 |
 | [Rädda mig \- Akustisk Version](https://open.spotify.com/track/2kyaSOYJpZ6pDS2YVSuxtN) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Rädda mig \(Akustisk Version\)](https://open.spotify.com/album/5iEmiVCOdySnVIodNOe2Xt) | 3:09 | 2025-04-24 | 2025-06-13 |
-| [Röda trådens slut \(akustisk version\)](https://open.spotify.com/track/1i3moAuSbui5eTUiUgRyT2) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Röda trådens slut \(akustisk version\)](https://open.spotify.com/album/3MF0qqqvjc5Lvk3AxfzTo0) | 4:29 | 2026-01-08 |  |
+| [Röda trådens slut \(akustisk version\)](https://open.spotify.com/track/1i3moAuSbui5eTUiUgRyT2) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Röda trådens slut \(akustisk version\)](https://open.spotify.com/album/3MF0qqqvjc5Lvk3AxfzTo0) | 4:29 | 2026-01-08 | 2026-04-16 |
 | [Rör vid mig](https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Rör vid mig](https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE) | 3:10 | 2024-06-27 | 2025-03-11 |
 | [Sad Makeup](https://open.spotify.com/track/74eE402hFv13hLBw5iPQds) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 3:50 | 2025-01-16 | 2025-05-30 |
 | [Sagolik](https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Välkommen hem](https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp) | 3:18 | 2026-03-12 |  |

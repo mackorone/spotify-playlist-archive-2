@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 💐<br/>cover: Rosa Walton
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,727 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,708 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Halfway Round The World](https://open.spotify.com/track/3kWEvYnVvqwJDNiKz76yBV) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq) | [Halfway Round The World](https://open.spotify.com/album/45scJOU2avCqA3brzHgqSy) | 3:24 |
 | 2 | [Beauty Pageant](https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:15 |
 | 3 | [shootoutsinthewinter](https://open.spotify.com/track/3kdKa1HQm8y8OPX7f3PYHg) | [Bypass Music](https://open.spotify.com/artist/5LD8MmPEUqN4OIzWWrFUNI) | [shootoutsinthewinter](https://open.spotify.com/album/5knj05mJ9h7AlOFWap0imq) | 1:52 |
-| 4 | [Rude \(feat\. Kojaque\)](https://open.spotify.com/track/7d13dvKQT70XJvmtw6xCUX) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Rude \(feat\. Kojaque\)](https://open.spotify.com/album/1Xom9SIqeNlotFWsI3XSee) | 2:50 |
+| 4 | [Rude](https://open.spotify.com/track/7d13dvKQT70XJvmtw6xCUX) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Rude](https://open.spotify.com/album/1Xom9SIqeNlotFWsI3XSee) | 2:50 |
 | 5 | [NOBLE](https://open.spotify.com/track/36jgline0lR83kGP9YFXcE) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/7kSO56we07fodbcyHOSCps) | 3:05 |
 | 6 | [Bone Structure](https://open.spotify.com/track/42jkxiYg7D05HKmQNsRp8o) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Bone Structure](https://open.spotify.com/album/5Nqd6iPF3I8dFnVw66cFNV) | 3:01 |
 | 7 | [Black Cherry Liqueur](https://open.spotify.com/track/0FTqriqVRsDGT96kH6RfgC) | [Silver Gore](https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2) | [Black Cherry Liqueur](https://open.spotify.com/album/2mpS1n2hOWhO49xwxyNNq7) | 3:05 |

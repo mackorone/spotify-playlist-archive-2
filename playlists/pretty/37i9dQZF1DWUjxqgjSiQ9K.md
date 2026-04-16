@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Christine D'Clario y Cales Louima
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,531 likes - 75 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,642 likes - 75 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

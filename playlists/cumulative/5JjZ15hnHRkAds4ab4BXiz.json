@@ -6295,6 +6295,24 @@
     },
     {
       "album": {
+        "name": "Monsieur Gainsbourg Revisited",
+        "url": "https://open.spotify.com/album/0R0DwHyZlJKSUT7n3jh1Gm"
+      },
+      "artists": [
+        {
+          "name": "The Rakes",
+          "url": "https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Just A Man With A Job",
+      "url": "https://open.spotify.com/track/6iozVvekYagwUXltruLmQN"
+    },
+    {
+      "album": {
         "name": "Marvin's Marvelous Mechanical Museum",
         "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
       },

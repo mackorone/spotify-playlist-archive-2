@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > Punk spirit, alternative bones\. Music that pushes us forward\. Cover: Dead Finks
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,161 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,177 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 | 2 | [Anodyne](https://open.spotify.com/track/5JdLdXEzqQaHupskdS7a6Z) | [Dead Finks](https://open.spotify.com/artist/00tkcgJcr35Rwj3XBmQAgQ) | [New Plastik Abyss](https://open.spotify.com/album/1P0ItuKDoa4kT9hpOZFwjF) | 3:55 |
 | 3 | [Cult of Celebrity](https://open.spotify.com/track/2ptN3AC6mPNdtLrJaeOEQV) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Cult of Celebrity](https://open.spotify.com/album/0WI41FEVRdFwjcVdrTSBrm) | 2:13 |
 | 4 | [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 |
-| 5 | [Nothing Matters \(feat\. Maresz\)](https://open.spotify.com/track/6GzUTy6FxAaSVEvlxJXgFB) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Maresz](https://open.spotify.com/artist/0sVLsjXKoUaUTQFUt2bRaW) | [Nothing Matters \(feat\. Maresz\)](https://open.spotify.com/album/68H5ipiHhUvkNO03s9n0oz) | 3:02 |
+| 5 | [Nothing Matters](https://open.spotify.com/track/6GzUTy6FxAaSVEvlxJXgFB) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Maresz](https://open.spotify.com/artist/0sVLsjXKoUaUTQFUt2bRaW) | [Nothing Matters](https://open.spotify.com/album/68H5ipiHhUvkNO03s9n0oz) | 3:02 |
 | 6 | [Knowledge](https://open.spotify.com/track/5YZ5PRX0Wuyxwo9PSRKpN7) | [media puzzle](https://open.spotify.com/artist/1JFW3ACD123onrCbzNag5Z) | [Knowledge](https://open.spotify.com/album/6BZwhz1sryzucQvxPXEt8o) | 2:15 |
 | 7 | [Things I've Killed](https://open.spotify.com/track/4RJqm50m6kVJe5k3bup0uR) | [Telehealth](https://open.spotify.com/artist/3llBwQI73SJWVmKudqLghX) | [Things I've Killed](https://open.spotify.com/album/1xVxEwOcDyW3zIZ8x3eYej) | 2:50 |
 | 8 | [WHITE NOISE](https://open.spotify.com/track/74XCDJHLBDWNyKCVkoRktY) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [WHITE NOISE](https://open.spotify.com/album/4Ujzbe9tXwfIZabmtPFAEC) | 4:24 |

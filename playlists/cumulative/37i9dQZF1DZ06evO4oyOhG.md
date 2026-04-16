@@ -4,7 +4,7 @@
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-139 songs - 9 hr 3 min
+140 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [ワタシノテンシ](https://open.spotify.com/track/0oJkuurPe6RqlCYnsawcIm) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:22 | 2022-08-04 | 2022-10-13 |
 | [世界は恋に落ちている](https://open.spotify.com/track/2gjS4IldZTcJOntzMW6oh8) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb) | 5:11 | 2023-09-21 | 2024-01-03 |
 | [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はｉに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 | 2022-06-09 |  |
-| [世界は恋に落ちている \-Acoustic ver\- \- 2025.08.29 Premium Studio Live](https://open.spotify.com/track/7tLMvIfGPYBDrahIY0Lb80) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ラブホイッスル Special edition](https://open.spotify.com/album/69BC6aULa8qJQ7CrpIVcHZ) | 6:29 | 2026-01-15 |  |
+| [世界は恋に落ちている \-Acoustic ver\- \- 2025.08.29 Premium Studio Live](https://open.spotify.com/track/7tLMvIfGPYBDrahIY0Lb80) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ラブホイッスル Special edition](https://open.spotify.com/album/69BC6aULa8qJQ7CrpIVcHZ) | 6:29 | 2026-01-15 | 2026-04-16 |
 | [世界は恋に落ちている Instrumental](https://open.spotify.com/track/4CuU0Uh2snNXQSmrnC1IPv) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekaiwa Koi Ni Ochiteiru](https://open.spotify.com/album/1PF9h1FZKKZpFZaKxD3HBh) | 5:11 | 2023-09-21 | 2024-01-13 |
 | [世界は恋に落ちている TV size](https://open.spotify.com/track/1aHBms5oIswVJKHI29Wl8J) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界は恋に落ちている TVサイズver.](https://open.spotify.com/album/5LoYqCcX0EJGYlKXzqIVAe) | 1:32 | 2023-09-21 | 2024-01-13 |
 | [世界は恋に落ちている TV size Instrumental](https://open.spotify.com/track/6GXvMEsyk4JFJV84v2MzHp) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界は恋に落ちている TVサイズver.](https://open.spotify.com/album/0k8j4qQzHC8wjSwVt1T1xC) | 1:32 | 2022-06-09 | 2023-05-21 |
@@ -118,6 +118,7 @@
 | [今日もサクラ舞う暁に](https://open.spotify.com/track/7BB9jAA7JkX6oLaSioKvX4) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/56h6iaj51zfHqPMF9tVmwg) | 4:15 | 2023-11-10 | 2024-01-13 |
 | [冒険のVLOG](https://open.spotify.com/track/6KtkYlgZoBno6Ai894zfSD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [冒険のVLOG](https://open.spotify.com/album/6GptwTcu5mCv9YkfXpJZVs) | 4:22 | 2022-06-09 |  |
 | [可愛くなりたい](https://open.spotify.com/track/1XA0rFBVY3VouEigL2a5b1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 4:15 | 2023-09-21 | 2024-01-13 |
+| [君のせいで愛してる](https://open.spotify.com/track/07uIelDCQyg8Pmzbwjwloc) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [君のせいで愛してる](https://open.spotify.com/album/4eUCmpDRq2bu9O62BTKoPk) | 3:45 | 2026-04-16 |  |
 | [君ガ空コソカナシケレ](https://open.spotify.com/track/78eNy6PS6zZetlXJZIRSH1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [CHiCO with HoneyWorks 2016.1.10 "世界はiに満ちている \-1st\-" at 渋谷WWW](https://open.spotify.com/album/7eu3mYVNTeq6mV0sD7XkR0) | 3:21 | 2025-09-10 |  |
 | [大人になったね](https://open.spotify.com/track/0u2Y4PQ5hTZuQ3m5Qd2FIm) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [我武者羅](https://open.spotify.com/album/2lu8FueFpDKE5LtQ00aE8c) | 3:15 | 2022-06-09 | 2026-01-17 |
 | [平成バブル](https://open.spotify.com/track/3LheFUWRTy87Maqck4vWNW) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 4:26 | 2023-09-21 | 2024-01-13 |

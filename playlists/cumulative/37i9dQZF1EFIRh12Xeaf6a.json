@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Lady Soul",
+        "url": "https://open.spotify.com/album/6TYqjNcnBvFGtWCjiZFZug"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162256,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/4J0I490wZJa7JcrGPwNhQJ"
+    },
+    {
+      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
@@ -5165,6 +5183,24 @@
     },
     {
       "album": {
+        "name": "More of The Monkees",
+        "url": "https://open.spotify.com/album/3v6sEhZXD3ibRE5DdlIo4r"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150280,
+      "name": "Sometime in the Morning",
+      "url": "https://open.spotify.com/track/5760lBYIFZDx7YwhGcZhHN"
+    },
+    {
+      "album": {
         "name": "More of The Monkees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
       },
@@ -5176,7 +5212,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 150573,
       "name": "Sometime in the Morning - Original Stereo Version; 2006 Remaster",
       "url": "https://open.spotify.com/track/29MWHZL3EnA792mpBpabvU"
@@ -5443,6 +5479,24 @@
     },
     {
       "album": {
+        "name": "The Monkees",
+        "url": "https://open.spotify.com/album/5mJ9kXbLf0oleEBefPcD3n"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116706,
+      "name": "Sweet Young Thing",
+      "url": "https://open.spotify.com/track/7iJuF15LRMXEKbgjuZKTjx"
+    },
+    {
+      "album": {
         "name": "The Monkees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1q1LuLo92N5cl5e0GKRq7h"
       },
@@ -5454,7 +5508,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 116453,
       "name": "Sweet Young Thing - Original Stereo Version; 2006 Remaster",
       "url": "https://open.spotify.com/track/0BQOQg32KHdWJro82n4EDX"

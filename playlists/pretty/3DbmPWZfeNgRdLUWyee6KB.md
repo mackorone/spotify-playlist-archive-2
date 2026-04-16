@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,293 likes - 140 songs - 8 hr 2 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,292 likes - 142 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,5 +148,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 138 | [Oublier](https://open.spotify.com/track/28Bf8mE8vljd4yiyObmc6o) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Oublier](https://open.spotify.com/album/4sWS2GpOMkXIYFNxVaBwen) | 3:44 |
 | 139 | [ADN](https://open.spotify.com/track/6Vh5zrrGli4C9MBvfiqSMe) | [Angel Dz](https://open.spotify.com/artist/1agldgGiabw5qDe00nkdTh) | [XØ/LØVE II](https://open.spotify.com/album/1PJnS9MVKgPH245DbET7fx) | 3:45 |
 | 140 | [Cold Nights](https://open.spotify.com/track/7iAXxZyflGT5fNSX8xBhCC) | [OXT DA MXD](https://open.spotify.com/artist/16y1zDqUVY5goABIwMGG7C) | [Cold Nights](https://open.spotify.com/album/6FTgj02lcNWhVsTIlX858A) | 4:21 |
+| 141 | [Like Pulling A Push Door](https://open.spotify.com/track/0mrTVSHYd6kRWZtQLbhqGp) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [Like Pulling A Push Door](https://open.spotify.com/album/6kUbqWznpOf8umUS1EHmSq) | 3:24 |
+| 142 | [Forever Ain't Enough](https://open.spotify.com/track/6OlsfI380UGiQ7PDCLfVaX) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [CTRL FREQS \(The Album\)](https://open.spotify.com/album/0lIOspuasFJ6BALQKPbyqv) | 2:46 |
 
-Snapshot ID: `AAATB05rvtOPa/5zh8hl8GjYfWpzvB2f`
+Snapshot ID: `AAATCQg3+t6pRiWRiLR1QNJqpFIN7cQw`

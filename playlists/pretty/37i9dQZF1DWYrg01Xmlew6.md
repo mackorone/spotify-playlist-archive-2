@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Solo rap da Napoli e dalla Campania\. Le\-one in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,233 likes - 74 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,247 likes - 74 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 24 | [MOMO DESIGN \(feat\. Im Envy\)](https://open.spotify.com/track/1yGreSMP5Vle6mURU2bMdC) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7) | [MOMO DESIGN \(feat\. Im Envy\)](https://open.spotify.com/album/3G8Ej9TUqVEKGwcwYfg9SG) | 2:03 |
 | 25 | [LILO](https://open.spotify.com/track/6TUrpDjbbiadECPIgH66cN) | [Songop](https://open.spotify.com/artist/1W85h651mGAVGp2CmvCOna) | [LILO](https://open.spotify.com/album/4Z0zLIWveh8qoXa4h5q5vw) | 2:12 |
 | 26 | [GAMBINO](https://open.spotify.com/track/4lml3kYiuBppXCVtSA7SuY) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe) | [GAMBINO](https://open.spotify.com/album/3hmMoSZxe1ev9gDhqXmg2N) | 1:56 |
-| 27 | [polvere](https://open.spotify.com/track/6dGMbLb8LZ5AOH44LptaLB) | [Ciro Zero](https://open.spotify.com/artist/1aLtB5Kl02MrY8tWAL5xeE), [Haxia](https://open.spotify.com/artist/02ThCXGGC4HPDsaYVKfisx), [Envy](https://open.spotify.com/artist/2Hs8JRYD1GBivClQ7P8jDg), [ONii](https://open.spotify.com/artist/3HFLulppfcLWaMdAqrMPX9) | [Eren](https://open.spotify.com/album/2MofUcPPT1H67r0UGo4UjX) | 2:10 |
+| 27 | [polvere](https://open.spotify.com/track/6dGMbLb8LZ5AOH44LptaLB) | [Ciro Zero](https://open.spotify.com/artist/1aLtB5Kl02MrY8tWAL5xeE), [Haxia](https://open.spotify.com/artist/02ThCXGGC4HPDsaYVKfisx), [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7), [ONii](https://open.spotify.com/artist/3HFLulppfcLWaMdAqrMPX9) | [Eren](https://open.spotify.com/album/2MofUcPPT1H67r0UGo4UjX) | 2:10 |
 | 28 | [Ginevra \(feat\. Geolier\)](https://open.spotify.com/track/311m4sWQq8MZZROimkSGF7) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:48 |
 | 29 | [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 |
 | 30 | [FOTO SFOCATA](https://open.spotify.com/track/7deQGWLZF9GdnueZRwVDDT) | [MOWGLI](https://open.spotify.com/artist/048wJUTvO90bEipRqJlpfa), [musa](https://open.spotify.com/artist/0TA41Vre17wBa5qsPU0Xno) | [FOTO SFOCATA](https://open.spotify.com/album/3U7nY2lJsSxnIsqysXikwP) | 3:15 |

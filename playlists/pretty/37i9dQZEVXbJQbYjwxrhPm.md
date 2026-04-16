@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,584 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,587 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Питаш ли ме](https://open.spotify.com/track/4np8dpfv5qahhkOSzgsMFL) | [Tsvetelina Yaneva](https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH) | [Питаш ли ме](https://open.spotify.com/album/2wiHKbihm8cm4UTRebBDaE) | 2:58 |
 | 50 | [Маниак](https://open.spotify.com/track/4kbhl4YnKVwN0ElFNm3TdW) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Маниак](https://open.spotify.com/album/6o8NqpmemMBy0tqLnyZZQ3) | 3:44 |
 
-Snapshot ID: `MXGmmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MXL8yAAAAAAAAAAAAAAAAAAAAAAAAGVu`

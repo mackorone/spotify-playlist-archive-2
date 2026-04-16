@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 33824,
+  "num_followers": 33827,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -179,26 +179,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
-      },
-      "artists": [
-        {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
-        },
-        {
-          "name": "Lito Vitale",
-          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "Shape of My Heart",
-      "url": "https://open.spotify.com/track/6BBwufrPMAGPU6VTaPiH7u"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Cinemateca Finlandesa",
         "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 276640,
       "name": "Viernes 3AM",
       "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
+      },
+      "artists": [
+        {
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Shape of My Heart",
+      "url": "https://open.spotify.com/track/6BBwufrPMAGPU6VTaPiH7u"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Sesiones 2017-2020",
-        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
-      },
-      "artists": [
-        {
-          "name": "La Grande",
-          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
-        }
-      ],
-      "duration_ms": 374748,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Nude (En Vivo)",
         "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 305108,
       "name": "Learning the Blues - En Vivo",
       "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Sesiones 2017-2020",
+        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
+      },
+      "artists": [
+        {
+          "name": "La Grande",
+          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
+        }
+      ],
+      "duration_ms": 374748,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -807,6 +807,38 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Influencias",
+        "url": "https://open.spotify.com/album/2Y4W9eQipZ4xcQ2uOIZImY"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Fraga",
+          "url": "https://open.spotify.com/artist/5ETZ8t75GZqfKBvuVFm4f4"
+        },
+        {
+          "name": "Alvaro Torres",
+          "url": "https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE"
+        },
+        {
+          "name": "Andres Pellican",
+          "url": "https://open.spotify.com/artist/65XpLqacJAIUQcbKgLVvHo"
+        },
+        {
+          "name": "Oscar Giunta",
+          "url": "https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P"
+        },
+        {
+          "name": "Quintino Cinalli",
+          "url": "https://open.spotify.com/artist/46VejkVhYPLpD9FIhfHt4O"
+        }
+      ],
+      "duration_ms": 285487,
+      "name": "Se\u00fal",
+      "url": "https://open.spotify.com/track/2CS2wZySNIklLsBZt4rLjj"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "All the Things You Are",
         "url": "https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB"
       },
@@ -847,38 +879,6 @@
       "duration_ms": 572278,
       "name": "Estate",
       "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Influencias",
-        "url": "https://open.spotify.com/album/2Y4W9eQipZ4xcQ2uOIZImY"
-      },
-      "artists": [
-        {
-          "name": "Tom\u00e1s Fraga",
-          "url": "https://open.spotify.com/artist/5ETZ8t75GZqfKBvuVFm4f4"
-        },
-        {
-          "name": "Alvaro Torres",
-          "url": "https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE"
-        },
-        {
-          "name": "Andres Pellican",
-          "url": "https://open.spotify.com/artist/65XpLqacJAIUQcbKgLVvHo"
-        },
-        {
-          "name": "Oscar Giunta",
-          "url": "https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P"
-        },
-        {
-          "name": "Quintino Cinalli",
-          "url": "https://open.spotify.com/artist/46VejkVhYPLpD9FIhfHt4O"
-        }
-      ],
-      "duration_ms": 285487,
-      "name": "Se\u00fal",
-      "url": "https://open.spotify.com/track/2CS2wZySNIklLsBZt4rLjj"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Danza",
+        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+        }
+      ],
+      "duration_ms": 272036,
+      "name": "Cristal",
+      "url": "https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "The Way You Look Tonight",
         "url": "https://open.spotify.com/album/47dOChRxiDb1MCaJRo6Kl4"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Danza",
-        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
-      },
-      "artists": [
-        {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
-        }
-      ],
-      "duration_ms": 272036,
-      "name": "Cristal",
-      "url": "https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Atemporal",
         "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Reuni\u00f3n",
-        "url": "https://open.spotify.com/album/1pAheMkdST8sR3A4r84opB"
-      },
-      "artists": [
-        {
-          "name": "Pepi Taveira",
-          "url": "https://open.spotify.com/artist/1KQUkFUXWpIqmoFw3YN1x2"
-        }
-      ],
-      "duration_ms": 389440,
-      "name": "Reuni\u00f3n",
-      "url": "https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Ed\u00e9n",
         "url": "https://open.spotify.com/album/2P2fyMDSr96sznG3d2GvzR"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 397240,
       "name": "Masche",
       "url": "https://open.spotify.com/track/0xizSuVkSAW319P54gzhwU"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Reuni\u00f3n",
+        "url": "https://open.spotify.com/album/1pAheMkdST8sR3A4r84opB"
+      },
+      "artists": [
+        {
+          "name": "Pepi Taveira",
+          "url": "https://open.spotify.com/artist/1KQUkFUXWpIqmoFw3YN1x2"
+        }
+      ],
+      "duration_ms": 389440,
+      "name": "Reuni\u00f3n",
+      "url": "https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7"
     },
     {
       "added_at": "2025-04-14 14:58:34",

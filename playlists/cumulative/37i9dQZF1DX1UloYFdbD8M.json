@@ -2263,6 +2263,28 @@
     },
     {
       "album": {
+        "name": "Enikkayi",
+        "url": "https://open.spotify.com/album/5GJfQ6NPe1DHqu6hrB7iMR"
+      },
+      "artists": [
+        {
+          "name": "Sreevignesh Roshin",
+          "url": "https://open.spotify.com/artist/6e6FPxNAE7MqsdLNbTc2e9"
+        },
+        {
+          "name": "Sreya Anna Joseph",
+          "url": "https://open.spotify.com/artist/7kLMjxzItr4NbjZx1I4jqd"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184324,
+      "name": "Enikkayi",
+      "url": "https://open.spotify.com/track/1kX0hIdABpMCsYKHLiX5TP"
+    },
+    {
+      "album": {
         "name": "Ennakaruppi",
         "url": "https://open.spotify.com/album/1hhc40RRyJBxaU71OLcvI4"
       },
@@ -4178,6 +4200,28 @@
       "duration_ms": 217777,
       "name": "Kannodu - Live",
       "url": "https://open.spotify.com/track/5daE0LYn2yQquJ9BUTma2f"
+    },
+    {
+      "album": {
+        "name": "Kannondu",
+        "url": "https://open.spotify.com/album/2wS8JGLAiZGZ9EywGix72g"
+      },
+      "artists": [
+        {
+          "name": "Meera E",
+          "url": "https://open.spotify.com/artist/20zEJrH8OrzpCaNyolbiAf"
+        },
+        {
+          "name": "Sadique Pandallur",
+          "url": "https://open.spotify.com/artist/0xmb6mgODCpq8raCqRR3qo"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168383,
+      "name": "Kannondu",
+      "url": "https://open.spotify.com/track/34ZLhArQEPt66YcZTl0ozj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing sea sounds.
 
-261 songs - 12 hr 37 min
+262 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,11 +173,12 @@
 | [Serene Waves of the Pacific](https://open.spotify.com/track/0R0eXRziuRNCtJOR2KxhC0) | [Ocean Makers](https://open.spotify.com/artist/7boWOAsP1MHqkTWt8fyMO1) | [Serene Waves of the Pacific](https://open.spotify.com/album/05q6PAOZTKTHivzgVHSXwp) | 2:04 | 2023-06-19 | 2026-04-01 |
 | [Serenity Crests \(Ocean\)](https://open.spotify.com/track/5LqBy30T9wWRSRJaWLM1Ae) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Serenity Crests \(Ocean\)](https://open.spotify.com/album/6kwM9cEjN7yMb3n7E8Q0fC) | 4:14 | 2026-04-02 |  |
 | [Shivering Shores \(Ocean\)](https://open.spotify.com/track/00IJSFQ8lYK26Z6dLDxXLq) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Shivering Shores \(Ocean\)](https://open.spotify.com/album/7cg1RH90leSTTgoHjbn0kf) | 3:40 | 2026-04-02 |  |
+| [Shore Thing](https://open.spotify.com/track/2hnWLmxQx4DkOq1odzBVkz) | [Bona Nochy](https://open.spotify.com/artist/7g1GgBFicHlx2TFzckGhfL) | [Shore Thing](https://open.spotify.com/album/0an4jQFmHPfJrod5eqkhoX) | 2:17 | 2026-04-02 |  |
 | [Shoreline Sound](https://open.spotify.com/track/1K8VTg78Jo4BWAC1FAiGZz) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Ocean Waves for Sleeping](https://open.spotify.com/album/12lCxJLO2VT5AKc91ua881) | 5:42 | 2021-11-11 | 2026-04-10 |
 | [Sleep Refreshed](https://open.spotify.com/track/73zohs74P55sdkTRIzIuqN) | [Beach Top Sounders](https://open.spotify.com/artist/2MpXnqfEhxozPnAndJjTWM) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:32 | 2021-11-11 |  |
 | [Slow Coast](https://open.spotify.com/track/2CMUq4tgUWERePRV84NBMp) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Cold Water Warmth](https://open.spotify.com/album/6wWoRDBPOJJdUFI2hgcM7K) | 2:44 | 2026-04-02 |  |
 | [Slow Waves](https://open.spotify.com/track/5Is3rDh7Y7JcdmeaiOomYp) | [Sleep Factory](https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8) | [Slow Waves](https://open.spotify.com/album/5v5qT4eyJfLXD8lnNAIo2d) | 1:47 | 2021-11-11 | 2023-06-20 |
-| [Soft Rolling Waves](https://open.spotify.com/track/6fv4yl8OMQpTHti7nCTgLe) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Relax At Sea](https://open.spotify.com/album/7Ics0LpJ0tvnuJXWIXjSLr) | 2:27 | 2021-11-11 |  |
+| [Soft Rolling Waves](https://open.spotify.com/track/6fv4yl8OMQpTHti7nCTgLe) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Relax At Sea](https://open.spotify.com/album/7Ics0LpJ0tvnuJXWIXjSLr) | 2:27 | 2021-11-11 | 2026-04-16 |
 | [Soothing Carmel Waves](https://open.spotify.com/track/39hIhbVAwHcIHnwaTxM98v) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Coast of Carmel](https://open.spotify.com/album/2xIw3qo8CTPqCsOSQ8qxVd) | 4:56 | 2021-11-11 |  |
 | [Soothing Evening waves Of Nerja 3](https://open.spotify.com/track/2AFka6kv2ZNapN66OoMAcn) | [Soothing Waves Of Nerja](https://open.spotify.com/artist/0k1cImEoI17KHmKiVpSY4X) | [Soothing Evening waves Of Nerja](https://open.spotify.com/album/2fCA0NKd6DjSE3Z5Ur0jaJ) | 3:10 | 2021-11-11 | 2026-04-03 |
 | [Soothing Evening waves Of Nerja 4](https://open.spotify.com/track/0gJZa23KwVDfghKSGoWoHr) | [Soothing Waves Of Nerja](https://open.spotify.com/artist/0k1cImEoI17KHmKiVpSY4X) | [Soothing Evening waves Of Nerja](https://open.spotify.com/album/2fCA0NKd6DjSE3Z5Ur0jaJ) | 2:04 | 2021-11-11 |  |

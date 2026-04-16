@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,122 songs - 5 day 5 hr 41 min
+2,125 songs - 5 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,8 +709,10 @@
 | [Go Away](https://open.spotify.com/track/2Swmpa2837aD76euw9fyVt) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Go Away](https://open.spotify.com/album/0xxJymd2ioNgswp8qwS4sU) | 1:55 | 2023-07-04 |  |
 | [Go Fuck Yourself](https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc) | 2:09 | 2024-03-04 |  |
 | [Go Go 17](https://open.spotify.com/track/1YxPSP7pJDnNvW3o0VMrFp) | [Rat Silo](https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7) | [Go Go 17](https://open.spotify.com/album/1lDxHagG8y2nz3reAp4C55) | 2:35 | 2024-06-23 |  |
+| [GO, ASPES, GO!](https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [GO, ASPES, GO!](https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9) | 2:13 | 2026-04-15 |  |
 | [Goal!](https://open.spotify.com/track/0obqB3njpmFEzdynAgX279) | [AVINCOLA](https://open.spotify.com/artist/1z2n12qPNckf4VgX4HdzcC) | [Turisti](https://open.spotify.com/album/1MGdBgdEUZNFS2CSrwC6RS) | 3:00 | 2023-03-15 |  |
 | [Gocce](https://open.spotify.com/track/0id0lYAn1TYS9jyecBFZkx) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Gocce](https://open.spotify.com/album/1P11VMJbG2XweZPQBRzY8L) | 3:55 | 2022-10-24 |  |
+| [God knows I try](https://open.spotify.com/track/7635PQfM6ZDqZf6eAfqv6o) | [$!N](https://open.spotify.com/artist/4Oq5yreFMAg6DBIoSNaKpQ) | [God knows I try](https://open.spotify.com/album/4WPR1f6cgOUyXZig0T3DHs) | 2:36 | 2026-04-15 |  |
 | [Godsend \(Live Demo\)](https://open.spotify.com/track/4YF6RRhi9iwgNBWXsCgrM2) | [Sumaita](https://open.spotify.com/artist/081NccAEpHcYxwcll6FWf4) | [Godsend \(Live Demo\)](https://open.spotify.com/album/4JzHzX9lPx1uKlFamWrjud) | 3:48 | 2025-07-12 |  |
 | [Golden Carnival Parade](https://open.spotify.com/track/7cLZLza8csHbATiLo5AckH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Golden Carnival Parade](https://open.spotify.com/album/7aqSE2dVMLOalAWxKxBgsa) | 3:26 | 2026-01-30 |  |
 | [Golpazo](https://open.spotify.com/track/7xmHTvbADkUaFFm103HIXT) | [Gas Di Fede](https://open.spotify.com/artist/4EUypOt280PxTdB9HCzSGv) | [Golpazo](https://open.spotify.com/album/7ndhjTXAF4Ih2TfXwibbij) | 2:16 | 2025-04-25 |  |
@@ -752,6 +754,7 @@
 | [He Talks Too Angels](https://open.spotify.com/track/0dMjRdjCuvh8CTMGnwc4Uv) | [420 Vision](https://open.spotify.com/artist/0Jfa0ovGl8yKOxqRCzXmcr) | [He Talks Too Angels](https://open.spotify.com/album/29PpTwjX8Faxt3VhyyIH5t) | 5:44 | 2025-12-30 |  |
 | [HEAL+](https://open.spotify.com/track/1WuHnhDk7Ebo0JMK2UFzIZ) | [SPYROL](https://open.spotify.com/artist/4RRp58MyXF2GEX50W3QdMv) | [HEAL+](https://open.spotify.com/album/5wyyvHCnBZ2qj0wIxbMKoa) | 2:26 | 2025-11-30 |  |
 | [Hear the Sound](https://open.spotify.com/track/0C3nWmG2S3Cdsc6kgvKFpJ) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Hear the Sound](https://open.spotify.com/album/1vZwno53v8zdvLLpQpRyYZ) | 3:36 | 2025-06-09 |  |
+| [Hear you in the silence](https://open.spotify.com/track/7C48kdbcSroFS3LQgvd9cb) | [Funeral Letters](https://open.spotify.com/artist/0cDgNx7GyU4qBNjuQ1Zy7H) | [Hear you in the silence](https://open.spotify.com/album/1iuaowL63kbzi6VuWXDWYV) | 1:53 | 2026-04-15 |  |
 | [Hearts of Stone](https://open.spotify.com/track/3BLWZXp6bu4FeJzCNnzHId) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Hearts of Stone](https://open.spotify.com/album/6Fc2AFpa3KBMYoOe2BHaom) | 3:28 | 2025-08-11 |  |
 | [Heartt](https://open.spotify.com/track/1vfAlDF7GKLxcnI1RFxKOP) | [Kongo](https://open.spotify.com/artist/5BZIja2U8chUx5Txh1SJZD), [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC), [Leo cont](https://open.spotify.com/artist/0UByIf7UhdjJKWl4CGm8eI), [Takeoff Prod](https://open.spotify.com/artist/3TDdgh9R8V77E8z1MrOLWX) | [Suffocate](https://open.spotify.com/album/6fJjucRK9aullYFrcHk0tj) | 2:26 | 2025-10-25 |  |
 | [Heavyweight Ritual](https://open.spotify.com/track/2QLRAHZNmikPUBBFsIVpq3) | [Kaleya](https://open.spotify.com/artist/7qAqzv8beYvBi6bn1WP2D9) | [Basswise](https://open.spotify.com/album/66dJvyI73XslFIzYI0Lwby) | 6:42 | 2025-02-07 |  |

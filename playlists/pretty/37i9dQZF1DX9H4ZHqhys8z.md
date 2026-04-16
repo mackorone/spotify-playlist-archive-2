@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Γιορτάζοντας 5 Χρόνια EQUAL\. Εξώφυλλο: Andromache
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,340 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,351 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 48 | [VARIEMAI POLY](https://open.spotify.com/track/6N9R6bAcibKiLbC6j4cqQl) | [Elena Leoni](https://open.spotify.com/artist/7ytU4QnN3pCmYEBhFljKbN) | [VARIEMAI POLY](https://open.spotify.com/album/213s49lbmm639X7Thusa2I) | 2:11 |
 | 49 | [Exigiste Mou](https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Exigiste Mou](https://open.spotify.com/album/5wZG3GidgJwTxeNFMIse8S) | 2:53 |
 
-Snapshot ID: `AAAAAKz1P8GUVFcDA6JdI2szNDixrKjh`
+Snapshot ID: `AAAAAMGEiH8w950fAo0u5fGL43K9U0w4`

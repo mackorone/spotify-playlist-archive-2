@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 220937,
+  "num_followers": 220973,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adwyAAAAAAA0dxmM0YyI65RvwB9bZrqP",
+  "snapshot_id": "ad2DgAAAAAAw7HCKdTQCv/m6e4igf+y3",
   "tracks": [
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Number 1 Angel",
-        "url": "https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "cupcakKe",
-          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
-        }
-      ],
-      "duration_ms": 234755,
-      "name": "Lipgloss (feat. CupcakKe)",
-      "url": "https://open.spotify.com/track/7niKxzFThgRf5fXlIYdjtZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AR",
         "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 126105,
       "name": "2 die 4 (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Number 1 Angel",
+        "url": "https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        }
+      ],
+      "duration_ms": 234755,
+      "name": "Lipgloss (feat. CupcakKe)",
+      "url": "https://open.spotify.com/track/7niKxzFThgRf5fXlIYdjtZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,281 likes - 34 songs - 2 hr 28 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,287 likes - 35 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,5 +42,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 32 | [Funkier Than a Mosquito's Tweeter](https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [It Is Finished \(Expanded Edition\)](https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk) | 5:20 |
 | 33 | [Meet Me in the City](https://open.spotify.com/track/5LmmZgxFg1sSfxENxsdtak) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [First Recordings](https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87) | 2:31 |
 | 34 | [Killing The Blues](https://open.spotify.com/track/55g3S2tU6OHuaxXptJJsBL) | [Shawn Colvin](https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA) | [Cover Girl](https://open.spotify.com/album/2i6yafZMIkgqkjWAobKic5) | 3:45 |
+| 35 | [Wabash Cannonball](https://open.spotify.com/track/5RKPe1oN9lGayUCKn00fYi) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [The Essential Roy Acuff](https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM) | 2:36 |
 
-Snapshot ID: `AAAOIgICczjbUPiccwr29nMXr+FZMRXN`
+Snapshot ID: `AAAOI1Az6CHyVvjq4gPaSuLBOqnnzR9k`

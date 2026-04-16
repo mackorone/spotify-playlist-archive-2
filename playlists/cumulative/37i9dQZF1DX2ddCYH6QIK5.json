@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: PFOERTNER, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Mende, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "Archive Folder",
+        "url": "https://open.spotify.com/album/19Ld6Z8NDFSvDfJbwZLsx7"
+      },
+      "artists": [
+        {
+          "name": "FINE.",
+          "url": "https://open.spotify.com/artist/4asOB3NDvX82XNePNZpqQj"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Archive Folder",
+      "url": "https://open.spotify.com/track/7KmkP7LfMIH4FLP4MNgmCq"
+    },
+    {
+      "album": {
         "name": "ARM",
         "url": "https://open.spotify.com/album/1DTo5HHJtXd09C1qCkpEd2"
       },
@@ -2112,6 +2130,24 @@
       "duration_ms": 390500,
       "name": "Back to the Roots",
       "url": "https://open.spotify.com/track/54KvNhZTGFHT8tazI0TAdo"
+    },
+    {
+      "album": {
+        "name": "BACKBONE",
+        "url": "https://open.spotify.com/album/5cBCU5Ds5mtVdLiG6yWHo7"
+      },
+      "artists": [
+        {
+          "name": "Elena Shirin",
+          "url": "https://open.spotify.com/artist/7d94AgU8YMpNvzuRhHu7Fj"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169095,
+      "name": "BACKBONE",
+      "url": "https://open.spotify.com/track/5pg0NSRG5F6uoil4s5quzl"
     },
     {
       "album": {
@@ -3114,6 +3150,24 @@
       "duration_ms": 223292,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/7oOYclRZ2iI4DIJCjn11sA"
+    },
+    {
+      "album": {
+        "name": "blau",
+        "url": "https://open.spotify.com/album/11Ldu49AtKKxFBOZPOTnYB"
+      },
+      "artists": [
+        {
+          "name": "sofd",
+          "url": "https://open.spotify.com/artist/0AUT0Zezk0RgjT5dBjsj27"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197916,
+      "name": "blau",
+      "url": "https://open.spotify.com/track/74xSEc3zlocHq5N4G8jQQK"
     },
     {
       "album": {
@@ -4822,6 +4876,28 @@
       "duration_ms": 192820,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/1WzuSv5vdHtvA3hQNv0RJg"
+    },
+    {
+      "album": {
+        "name": "Ch\u00e2teau Brute",
+        "url": "https://open.spotify.com/album/2IHLwyoNxJhZ9BgeMsAZH8"
+      },
+      "artists": [
+        {
+          "name": "Luna Morgenstern",
+          "url": "https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh"
+        },
+        {
+          "name": "girl_irl",
+          "url": "https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164136,
+      "name": "Ch\u00e2teau Brute",
+      "url": "https://open.spotify.com/track/5v3GSpHEm5fHqZhndz0y4B"
     },
     {
       "album": {
@@ -8120,7 +8196,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 142207,
       "name": "er ist anders",
       "url": "https://open.spotify.com/track/7CseMwM25Tx762et5VIa8D"
@@ -8788,7 +8864,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 203000,
       "name": "Feel",
       "url": "https://open.spotify.com/track/5BOgK9BkIZ4otm3sbHN5yP"
@@ -9240,7 +9316,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 246500,
       "name": "focus on me",
       "url": "https://open.spotify.com/track/2qE3nk7IkuJl7OVCaBogyW"
@@ -10916,7 +10992,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 158293,
       "name": "Hafermilch",
       "url": "https://open.spotify.com/track/6GDg6KIhFCoOCqDlPWIn51"
@@ -14817,6 +14893,24 @@
     },
     {
       "album": {
+        "name": "Konturlos",
+        "url": "https://open.spotify.com/album/6iVUoJjodvKZyaCjg4vs7m"
+      },
+      "artists": [
+        {
+          "name": "TIEL",
+          "url": "https://open.spotify.com/artist/3CYnPMvOBu6wEB1iCdqoER"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219885,
+      "name": "Konturlos",
+      "url": "https://open.spotify.com/track/6EpdEDvxfI1EPBgU5gV0LZ"
+    },
+    {
+      "album": {
         "name": "Kr\u00e4hen",
         "url": "https://open.spotify.com/album/7JgTDFtmmKY5KopI3MmE3E"
       },
@@ -15870,7 +15964,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 243746,
       "name": "Like That",
       "url": "https://open.spotify.com/track/3sV6P55oktHAp440q2Rgw4"
@@ -18244,7 +18338,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 142125,
       "name": "Nicht mehr traurig",
       "url": "https://open.spotify.com/track/5RSPhBQyqzixPndAzzhuLE"
@@ -19064,6 +19158,24 @@
       "duration_ms": 299213,
       "name": "Ode To T",
       "url": "https://open.spotify.com/track/21hzJoieDGFJtnelfEvWNF"
+    },
+    {
+      "album": {
+        "name": "Odyssee",
+        "url": "https://open.spotify.com/album/7H1meLcsqJuICI4hQyOk6V"
+      },
+      "artists": [
+        {
+          "name": "Mende",
+          "url": "https://open.spotify.com/artist/1XfqP1N38BVNsyLfMD2UTL"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222445,
+      "name": "Odyssee",
+      "url": "https://open.spotify.com/track/2DrKoZTPMceehif9nQntT3"
     },
     {
       "album": {
@@ -21732,7 +21844,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 150726,
       "name": "rot",
       "url": "https://open.spotify.com/track/1SgZsKhdUZMfzlDn0m2Zxp"
@@ -25991,6 +26103,24 @@
     },
     {
       "album": {
+        "name": "The Well",
+        "url": "https://open.spotify.com/album/4rtZ2oOKOqeJ2rTLbCyvZo"
+      },
+      "artists": [
+        {
+          "name": "Mug",
+          "url": "https://open.spotify.com/artist/2JxWtiGcjSW5R5e76sSHLo"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277522,
+      "name": "The Well",
+      "url": "https://open.spotify.com/track/1PhBOyDcDa7ewZZbVMuRaU"
+    },
+    {
+      "album": {
         "name": "The Whole Shebang",
         "url": "https://open.spotify.com/album/5uF8ngdgJGwXssjHifQ27c"
       },
@@ -26789,6 +26919,24 @@
     },
     {
       "album": {
+        "name": "tu nicht so",
+        "url": "https://open.spotify.com/album/6Th5nD16ClQnpKsN5Ni4sj"
+      },
+      "artists": [
+        {
+          "name": "pxuldrizzle",
+          "url": "https://open.spotify.com/artist/4FxjZ2U23NLIRhrX06lB2j"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121815,
+      "name": "tu nicht so",
+      "url": "https://open.spotify.com/track/3icvndPd6i3oXKnfyFhzcZ"
+    },
+    {
+      "album": {
         "name": "Tunnel Scene",
         "url": "https://open.spotify.com/album/6eSeOTU7zw2h1ra0HLltZK"
       },
@@ -27570,7 +27718,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 140182,
       "name": "VERR\u00dcCKT",
       "url": "https://open.spotify.com/track/13kk2zXspuafWXdH9v8it9"

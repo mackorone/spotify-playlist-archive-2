@@ -16531,6 +16531,24 @@
     },
     {
       "album": {
+        "name": "The Essential Roy Acuff",
+        "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
+      },
+      "artists": [
+        {
+          "name": "Roy Acuff",
+          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156333,
+      "name": "Wabash Cannonball",
+      "url": "https://open.spotify.com/track/5RKPe1oN9lGayUCKn00fYi"
+    },
+    {
+      "album": {
         "name": "Walkin' b/w It's Gone",
         "url": "https://open.spotify.com/album/0zrnvbumoAzMEUHRbfNBwN"
       },

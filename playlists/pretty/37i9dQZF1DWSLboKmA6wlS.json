@@ -1,6 +1,6 @@
 {
   "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Jduck. Artwork: Isu Kim",
-  "num_followers": 12277,
+  "num_followers": 12276,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "\u0e20\u0e32\u0e1e\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
-        "url": "https://open.spotify.com/album/44DmI4olS2KnXxF0Qwhujg"
-      },
-      "artists": [
-        {
-          "name": "Dena Euprasert",
-          "url": "https://open.spotify.com/artist/5mLzhpjIOXrJBCjmfv0rUb"
-        }
-      ],
-      "duration_ms": 234101,
-      "name": "\u0e20\u0e32\u0e1e\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
-      "url": "https://open.spotify.com/track/4k0NvtSeR1PsD0ISDaSZJj"
-    },
-    {
-      "added_at": "2026-03-20 08:36:57",
-      "album": {
         "name": "\u0e1e\u0e48\u0e2d\u0e40\u0e18\u0e2d\u0e0a\u0e37\u0e48\u0e2d\u0e44\u0e23? (crazy question)",
         "url": "https://open.spotify.com/album/1gDb8Oahh6uHy4lK3tRN8a"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 260905,
       "name": "\u0e1e\u0e48\u0e2d\u0e40\u0e18\u0e2d\u0e0a\u0e37\u0e48\u0e2d\u0e44\u0e23? (crazy question)",
       "url": "https://open.spotify.com/track/5osNdD6oA5UcDMK0R13PJ3"
+    },
+    {
+      "added_at": "2026-03-20 08:36:57",
+      "album": {
+        "name": "\u0e20\u0e32\u0e1e\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/44DmI4olS2KnXxF0Qwhujg"
+      },
+      "artists": [
+        {
+          "name": "Dena Euprasert",
+          "url": "https://open.spotify.com/artist/5mLzhpjIOXrJBCjmfv0rUb"
+        }
+      ],
+      "duration_ms": 234101,
+      "name": "\u0e20\u0e32\u0e1e\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/4k0NvtSeR1PsD0ISDaSZJj"
     },
     {
       "added_at": "2026-03-20 08:36:57",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "\u0e40\u0e21\u0e14\u0e39\u0e0b\u0e32",
-        "url": "https://open.spotify.com/album/02FxppO27bX1sTyyx6eMXB"
-      },
-      "artists": [
-        {
-          "name": "PAPERCUP",
-          "url": "https://open.spotify.com/artist/02skmk7GUcfYczfrVjnNuk"
-        }
-      ],
-      "duration_ms": 181578,
-      "name": "\u0e40\u0e21\u0e14\u0e39\u0e0b\u0e32",
-      "url": "https://open.spotify.com/track/2aY504oSaFaF6ALq5gqfuD"
-    },
-    {
-      "added_at": "2026-03-20 08:36:57",
-      "album": {
         "name": "\u0e01\u0e2d\u0e14\u0e44\u0e27\u0e49 (It's u)",
         "url": "https://open.spotify.com/album/28vlKhumNRm5ojQWl0hlJ1"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "Stuck in Time",
-        "url": "https://open.spotify.com/album/0nUJ88CDBrdmhBxBWWvIrp"
+        "name": "\u0e40\u0e21\u0e14\u0e39\u0e0b\u0e32",
+        "url": "https://open.spotify.com/album/02FxppO27bX1sTyyx6eMXB"
       },
       "artists": [
         {
-          "name": "THREETIME",
-          "url": "https://open.spotify.com/artist/7v2soIsagtyu1JGioFHVcV"
+          "name": "PAPERCUP",
+          "url": "https://open.spotify.com/artist/02skmk7GUcfYczfrVjnNuk"
         }
       ],
-      "duration_ms": 263636,
-      "name": "Stuck in Time",
-      "url": "https://open.spotify.com/track/3JQr283KNSYui2HPtkwJYO"
+      "duration_ms": 181578,
+      "name": "\u0e40\u0e21\u0e14\u0e39\u0e0b\u0e32",
+      "url": "https://open.spotify.com/track/2aY504oSaFaF6ALq5gqfuD"
     },
     {
       "added_at": "2026-03-20 08:36:57",
@@ -555,6 +539,22 @@
       "duration_ms": 190000,
       "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/6SLXzYoPzuzhK73XNne8XZ"
+    },
+    {
+      "added_at": "2026-03-20 08:36:57",
+      "album": {
+        "name": "Stuck in Time",
+        "url": "https://open.spotify.com/album/0nUJ88CDBrdmhBxBWWvIrp"
+      },
+      "artists": [
+        {
+          "name": "THREETIME",
+          "url": "https://open.spotify.com/artist/7v2soIsagtyu1JGioFHVcV"
+        }
+      ],
+      "duration_ms": 263636,
+      "name": "Stuck in Time",
+      "url": "https://open.spotify.com/track/3JQr283KNSYui2HPtkwJYO"
     },
     {
       "added_at": "2026-03-20 08:36:57",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
+        "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
+        "url": "https://open.spotify.com/album/3TAyz9HaDGqsZ1msdGjjuN"
+      },
+      "artists": [
+        {
+          "name": "Ohmchom",
+          "url": "https://open.spotify.com/artist/4ImLDxx5rGj4jaXUMg10V9"
+        }
+      ],
+      "duration_ms": 120369,
+      "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
+      "url": "https://open.spotify.com/track/4phUpziIYbWDXytcL83NEw"
+    },
+    {
+      "added_at": "2026-03-20 08:36:57",
+      "album": {
         "name": "\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19 (My Bad)",
         "url": "https://open.spotify.com/album/7yZ8sXtYBDPr3fWIaXyYTq"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
-        "url": "https://open.spotify.com/album/3TAyz9HaDGqsZ1msdGjjuN"
-      },
-      "artists": [
-        {
-          "name": "Ohmchom",
-          "url": "https://open.spotify.com/artist/4ImLDxx5rGj4jaXUMg10V9"
-        }
-      ],
-      "duration_ms": 120369,
-      "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
-      "url": "https://open.spotify.com/track/4phUpziIYbWDXytcL83NEw"
-    },
-    {
-      "added_at": "2026-03-20 08:36:57",
-      "album": {
         "name": "\u0e19\u0e34\u0e17\u0e32\u0e19\u0e2b\u0e25\u0e2d\u0e01\u0e40\u0e14\u0e47\u0e01 (fairytale)",
         "url": "https://open.spotify.com/album/5e7aho7zMkYHZlklzyVBu6"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "Growing Wings",
-        "url": "https://open.spotify.com/album/0Jyiu1lkUMjaSpkQbFfG2r"
-      },
-      "artists": [
-        {
-          "name": "Jassmin",
-          "url": "https://open.spotify.com/artist/396JxNvlndih0y0IEb5xip"
-        }
-      ],
-      "duration_ms": 204356,
-      "name": "\u0e01\u0e38\u0e0d\u0e41\u0e08\u0e2b\u0e49\u0e2d\u0e07\u0e0b\u0e48\u0e2d\u0e19\u0e44\u0e27\u0e49\u0e17\u0e35\u0e48\u0e40\u0e14\u0e34\u0e21",
-      "url": "https://open.spotify.com/track/7vKrQvhRIWZx6wAHjehLOB"
-    },
-    {
-      "added_at": "2026-03-20 08:36:57",
-      "album": {
         "name": "\u0e20\u0e32\u0e1e\u0e40\u0e23\u0e32",
         "url": "https://open.spotify.com/album/4TyLJsokFClIRkyeurMKjG"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/3noHrPKz3uCkSQmpRoJqKo"
+        "name": "Growing Wings",
+        "url": "https://open.spotify.com/album/0Jyiu1lkUMjaSpkQbFfG2r"
       },
       "artists": [
         {
-          "name": "Chermin",
-          "url": "https://open.spotify.com/artist/5LcWM9WkyHFOHI6bMMMAc6"
+          "name": "Jassmin",
+          "url": "https://open.spotify.com/artist/396JxNvlndih0y0IEb5xip"
         }
       ],
-      "duration_ms": 223000,
-      "name": "First Take",
-      "url": "https://open.spotify.com/track/3yZgdkXPYaXqkU2tTEZ63d"
+      "duration_ms": 204356,
+      "name": "\u0e01\u0e38\u0e0d\u0e41\u0e08\u0e2b\u0e49\u0e2d\u0e07\u0e0b\u0e48\u0e2d\u0e19\u0e44\u0e27\u0e49\u0e17\u0e35\u0e48\u0e40\u0e14\u0e34\u0e21",
+      "url": "https://open.spotify.com/track/7vKrQvhRIWZx6wAHjehLOB"
     },
     {
       "added_at": "2026-03-20 08:36:57",
@@ -783,6 +767,22 @@
       "duration_ms": 226192,
       "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e04\u0e19\u0e43\u0e2b\u0e21\u0e48 - Before",
       "url": "https://open.spotify.com/track/4aNgOJCasw7aKsffY74L9w"
+    },
+    {
+      "added_at": "2026-03-20 08:36:57",
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/3noHrPKz3uCkSQmpRoJqKo"
+      },
+      "artists": [
+        {
+          "name": "Chermin",
+          "url": "https://open.spotify.com/artist/5LcWM9WkyHFOHI6bMMMAc6"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "First Take",
+      "url": "https://open.spotify.com/track/3yZgdkXPYaXqkU2tTEZ63d"
     },
     {
       "added_at": "2026-03-20 08:36:57",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "Deep Sea Monster",
-        "url": "https://open.spotify.com/album/4QvdtqP4c48Vq09kOQOxXV"
-      },
-      "artists": [
-        {
-          "name": "HEADLESS SCULPTURES",
-          "url": "https://open.spotify.com/artist/1N8WE8etYFapd7lt9RJNhB"
-        }
-      ],
-      "duration_ms": 286300,
-      "name": "Deep Sea Monster",
-      "url": "https://open.spotify.com/track/0jqWeLZDT99FyY7uDtRldJ"
-    },
-    {
-      "added_at": "2026-03-20 08:36:57",
-      "album": {
         "name": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19 (Allergy-Drinks)",
         "url": "https://open.spotify.com/album/6m1eyBH8wQbzLNTDjtYtFc"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 188613,
       "name": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19 (Allergy-Drinks)",
       "url": "https://open.spotify.com/track/39gUtXus8zaLBwNM0hETg7"
+    },
+    {
+      "added_at": "2026-03-20 08:36:57",
+      "album": {
+        "name": "Deep Sea Monster",
+        "url": "https://open.spotify.com/album/4QvdtqP4c48Vq09kOQOxXV"
+      },
+      "artists": [
+        {
+          "name": "HEADLESS SCULPTURES",
+          "url": "https://open.spotify.com/artist/1N8WE8etYFapd7lt9RJNhB"
+        }
+      ],
+      "duration_ms": 286300,
+      "name": "Deep Sea Monster",
+      "url": "https://open.spotify.com/track/0jqWeLZDT99FyY7uDtRldJ"
     },
     {
       "added_at": "2026-03-20 08:36:57",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "\u0e01\u0e47\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/4tq9zyAVTK6q0IqJUYVLgw"
-      },
-      "artists": [
-        {
-          "name": "PAIRY",
-          "url": "https://open.spotify.com/artist/6G6MRBKezYH9TPzzth53Ep"
-        }
-      ],
-      "duration_ms": 148474,
-      "name": "\u0e01\u0e47\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/1k6Szm0eZc8A0HCCL3v8Bd"
-    },
-    {
-      "added_at": "2026-03-20 08:36:57",
-      "album": {
         "name": "Lake",
         "url": "https://open.spotify.com/album/7A7U2aZ7jx9rttKZNP6qau"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 246000,
       "name": "Lake",
       "url": "https://open.spotify.com/track/3ltcYTFX6Dpsr54OiL1kaG"
+    },
+    {
+      "added_at": "2026-03-20 08:36:57",
+      "album": {
+        "name": "\u0e01\u0e47\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/4tq9zyAVTK6q0IqJUYVLgw"
+      },
+      "artists": [
+        {
+          "name": "PAIRY",
+          "url": "https://open.spotify.com/artist/6G6MRBKezYH9TPzzth53Ep"
+        }
+      ],
+      "duration_ms": 148474,
+      "name": "\u0e01\u0e47\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/1k6Szm0eZc8A0HCCL3v8Bd"
     },
     {
       "added_at": "2026-03-20 08:36:57",

@@ -1002,10 +1002,28 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 311173,
       "name": "Maior \u00e9 Jesus",
       "url": "https://open.spotify.com/track/6o7L4sctcv6DPiywAzIaFS"
+    },
+    {
+      "album": {
+        "name": "Marcas",
+        "url": "https://open.spotify.com/album/4ci7uGJSa0iCsopPAxQK2T"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325034,
+      "name": "Maior \u00c9 Jesus",
+      "url": "https://open.spotify.com/track/0weIhmOyHh9Zz7VYnKDeow"
     },
     {
       "album": {

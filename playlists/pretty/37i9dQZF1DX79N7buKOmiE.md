@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 49 | [Jupiter I.](https://open.spotify.com/track/2LL417EDW1SXdoSxOidASR) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [Jupiter](https://open.spotify.com/album/0PvSScFzrItgMlJ5d3lAG2) | 3:44 |
 | 50 | [veszélyes utcák](https://open.spotify.com/track/1tBuxxLlbZ7YXV4PcxfKQJ) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [veszélyes utcák](https://open.spotify.com/album/77Dpx7WvBnF10GzPO1LPgL) | 2:51 |
 
-Snapshot ID: `AAAAANSjewbyOjB8XFKFub056t+Pu3aI`
+Snapshot ID: `AAAAAMKX9RLRkXbTUM0aqIyf0cps+khW`

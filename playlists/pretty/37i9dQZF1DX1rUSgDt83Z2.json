@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 45796,
+  "num_followers": 45812,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-04-09 22:01:45",
       "album": {
-        "name": "Wat Als Ik Wat Mis",
-        "url": "https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ"
-      },
-      "artists": [
-        {
-          "name": "Danilo Kuiters",
-          "url": "https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu"
-        }
-      ],
-      "duration_ms": 165001,
-      "name": "Wat Als Ik Wat Mis",
-      "url": "https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ"
-    },
-    {
-      "added_at": "2026-04-09 22:01:45",
-      "album": {
         "name": "Ik Kom Weer Thuis",
         "url": "https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 183281,
       "name": "Ik Kom Weer Thuis",
       "url": "https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v"
+    },
+    {
+      "added_at": "2026-04-09 22:01:45",
+      "album": {
+        "name": "Rode Draad",
+        "url": "https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Rode Draad",
+      "url": "https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE"
     },
     {
       "added_at": "2026-04-09 22:01:45",
@@ -415,18 +415,18 @@
     {
       "added_at": "2026-04-09 22:01:45",
       "album": {
-        "name": "Rode Draad",
-        "url": "https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH"
+        "name": "Wat Als Ik Wat Mis",
+        "url": "https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ"
       },
       "artists": [
         {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+          "name": "Danilo Kuiters",
+          "url": "https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu"
         }
       ],
-      "duration_ms": 176333,
-      "name": "Rode Draad",
-      "url": "https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE"
+      "duration_ms": 165001,
+      "name": "Wat Als Ik Wat Mis",
+      "url": "https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ"
     },
     {
       "added_at": "2026-04-09 22:01:45",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-04-09 22:01:45",
       "album": {
+        "name": "Vergeef Me",
+        "url": "https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "duration_ms": 182312,
+      "name": "Vergeef Me",
+      "url": "https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6"
+    },
+    {
+      "added_at": "2026-04-09 22:01:45",
+      "album": {
         "name": "Levenslang",
         "url": "https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s"
       },
@@ -539,18 +555,22 @@
     {
       "added_at": "2026-04-09 22:01:45",
       "album": {
-        "name": "Vergeef Me",
-        "url": "https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN"
+        "name": "Is Het Gek",
+        "url": "https://open.spotify.com/album/1yJ0JSDA5BESShXio4fuT2"
       },
       "artists": [
         {
-          "name": "MEAU",
-          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+          "name": "SANN!E",
+          "url": "https://open.spotify.com/artist/2K6EYEUYCstKryMWqZDbGf"
+        },
+        {
+          "name": "Jim Bakkum",
+          "url": "https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD"
         }
       ],
-      "duration_ms": 182312,
-      "name": "Vergeef Me",
-      "url": "https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6"
+      "duration_ms": 153714,
+      "name": "Is Het Gek",
+      "url": "https://open.spotify.com/track/1imEuX1GPOSvGMlGbzJCD2"
     },
     {
       "added_at": "2026-04-09 22:01:45",
@@ -583,26 +603,6 @@
       "duration_ms": 177680,
       "name": "Wat Had Jij Van Mij Verwacht",
       "url": "https://open.spotify.com/track/6Ln5NYIuzJ8baOwoCRP7Kz"
-    },
-    {
-      "added_at": "2026-04-09 22:01:45",
-      "album": {
-        "name": "Is Het Gek",
-        "url": "https://open.spotify.com/album/1yJ0JSDA5BESShXio4fuT2"
-      },
-      "artists": [
-        {
-          "name": "SANN!E",
-          "url": "https://open.spotify.com/artist/2K6EYEUYCstKryMWqZDbGf"
-        },
-        {
-          "name": "Jim Bakkum",
-          "url": "https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD"
-        }
-      ],
-      "duration_ms": 153714,
-      "name": "Is Het Gek",
-      "url": "https://open.spotify.com/track/1imEuX1GPOSvGMlGbzJCD2"
     },
     {
       "added_at": "2026-04-09 22:01:45",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-04-09 22:01:45",
       "album": {
-        "name": "Ik Voel Me Zo Verdomd Alleen",
-        "url": "https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37"
-      },
-      "artists": [
-        {
-          "name": "Numidia",
-          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
-        }
-      ],
-      "duration_ms": 197799,
-      "name": "Ik Voel Me Zo Verdomd Alleen",
-      "url": "https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG"
-    },
-    {
-      "added_at": "2026-04-09 22:01:45",
-      "album": {
         "name": "Met de tijd",
         "url": "https://open.spotify.com/album/4LshNNq3ZIxCkzKDkjukyW"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 211140,
       "name": "Met de tijd",
       "url": "https://open.spotify.com/track/5EHMrjRk0K07KSlz93XPNA"
+    },
+    {
+      "added_at": "2026-04-09 22:01:45",
+      "album": {
+        "name": "Ik Voel Me Zo Verdomd Alleen",
+        "url": "https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37"
+      },
+      "artists": [
+        {
+          "name": "Numidia",
+          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
+        }
+      ],
+      "duration_ms": 197799,
+      "name": "Ik Voel Me Zo Verdomd Alleen",
+      "url": "https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG"
     },
     {
       "added_at": "2026-04-09 22:01:45",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-04-09 22:01:45",
       "album": {
-        "name": "Ik neem jou mee",
-        "url": "https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18"
-      },
-      "artists": [
-        {
-          "name": "Leonie Meijer",
-          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
-        }
-      ],
-      "duration_ms": 169456,
-      "name": "Ik neem jou mee",
-      "url": "https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG"
-    },
-    {
-      "added_at": "2026-04-09 22:01:45",
-      "album": {
         "name": "Plus 1",
         "url": "https://open.spotify.com/album/6qlG8hIZMSR6DOamCzu5rE"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 183169,
       "name": "Plus 1",
       "url": "https://open.spotify.com/track/3ypWTDKWHj7dtfYB6zXVrt"
+    },
+    {
+      "added_at": "2026-04-09 22:01:45",
+      "album": {
+        "name": "Ik neem jou mee",
+        "url": "https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18"
+      },
+      "artists": [
+        {
+          "name": "Leonie Meijer",
+          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
+        }
+      ],
+      "duration_ms": 169456,
+      "name": "Ik neem jou mee",
+      "url": "https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG"
     },
     {
       "added_at": "2026-04-09 22:01:45",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-04-09 22:01:45",
       "album": {
-        "name": "Alleen Maar Jou",
-        "url": "https://open.spotify.com/album/1B01Hg5J42wYdUgXiiCgm0"
-      },
-      "artists": [
-        {
-          "name": "Van Dik Hout",
-          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
-        }
-      ],
-      "duration_ms": 193388,
-      "name": "Alleen Maar Jou",
-      "url": "https://open.spotify.com/track/70AnDhv9j993sdGxAMpn9F"
-    },
-    {
-      "added_at": "2026-04-09 22:01:45",
-      "album": {
         "name": "Ruimte",
         "url": "https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 164813,
       "name": "Je bent de lente",
       "url": "https://open.spotify.com/track/7iFnSru1Fn45zNVQnWcLCL"
+    },
+    {
+      "added_at": "2026-04-09 22:01:45",
+      "album": {
+        "name": "Alleen Maar Jou",
+        "url": "https://open.spotify.com/album/1B01Hg5J42wYdUgXiiCgm0"
+      },
+      "artists": [
+        {
+          "name": "Van Dik Hout",
+          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
+        }
+      ],
+      "duration_ms": 193388,
+      "name": "Alleen Maar Jou",
+      "url": "https://open.spotify.com/track/70AnDhv9j993sdGxAMpn9F"
     }
   ],
   "unique_name": "Helemaal NL",

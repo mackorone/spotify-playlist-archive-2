@@ -1988,7 +1988,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 255946,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
@@ -5404,7 +5404,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 146728,
       "name": "Drie Keer",
       "url": "https://open.spotify.com/track/0U8oc6nOzqQHHres0JNYzi"
@@ -5448,6 +5448,24 @@
       "duration_ms": 190499,
       "name": "Droom Jij Over Mij Vannacht",
       "url": "https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL"
+    },
+    {
+      "album": {
+        "name": "Druk Je Lijf Tegen Dat Van Mij",
+        "url": "https://open.spotify.com/album/7cChHB5Ul0CqIjxe1CYxBQ"
+      },
+      "artists": [
+        {
+          "name": "Ricky Velking",
+          "url": "https://open.spotify.com/artist/52xTkaAFoManmwH5iqDU1L"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236879,
+      "name": "Druk Je Lijf Tegen Dat Van Mij",
+      "url": "https://open.spotify.com/track/4oozHh004NPr5MPErcFMip"
     },
     {
       "album": {
@@ -16290,7 +16308,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 343190,
       "name": "Sherpa",
       "url": "https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G"

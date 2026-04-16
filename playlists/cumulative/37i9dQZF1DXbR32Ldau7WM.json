@@ -13582,7 +13582,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 222222,
       "name": "Speak of the Devil",
       "url": "https://open.spotify.com/track/2cTKXbBQq9aMHPIWKqtff0"
@@ -17024,6 +17024,28 @@
       "duration_ms": 239665,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/6SiLb2AJVSRIv7EODUou2d"
+    },
+    {
+      "album": {
+        "name": "Daydream again",
+        "url": "https://open.spotify.com/album/38eDcULhkaQJW2ivB1r3xP"
+      },
+      "artists": [
+        {
+          "name": "Sawao Yamanaka",
+          "url": "https://open.spotify.com/artist/4X0lski0KnPuIyJJQSRhtF"
+        },
+        {
+          "name": "ELPIS",
+          "url": "https://open.spotify.com/artist/0naaoYVMMjPwLYHSSK8HUf"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179826,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/4QMteoJ6BM8RrkWQWOMJEd"
     },
     {
       "album": {

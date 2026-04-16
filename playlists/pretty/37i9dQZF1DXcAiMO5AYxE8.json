@@ -1,6 +1,6 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 547224,
+  "num_followers": 547257,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "You Should Be Dancing - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/5VAKsbOWGdBbg1VFlu9W8o"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Collections",
         "url": "https://open.spotify.com/album/4Rk1aQOMmwSqGl6fqMhCiz"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "You Should Be Dancing - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/5VAKsbOWGdBbg1VFlu9W8o"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Boogie Wonderland: The Best Of Earth, Wind & Fire",
         "url": "https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 336293,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/6ZFMq8W8dyUbTee0GDb08X"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Skyy Line",
-        "url": "https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ"
-      },
-      "artists": [
-        {
-          "name": "Skyy",
-          "url": "https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX"
-        }
-      ],
-      "duration_ms": 382333,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -995,6 +979,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "Skyy Line",
+        "url": "https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ"
+      },
+      "artists": [
+        {
+          "name": "Skyy",
+          "url": "https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX"
+        }
+      ],
+      "duration_ms": 382333,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Summer Breeze - The Best Of",
         "url": "https://open.spotify.com/album/6Un0lZsdNGDhV9Q4vbqvDe"
       },
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "A Simple Game",
-        "url": "https://open.spotify.com/album/0teJDgHyJ9lbThnbX7oTHz"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 303400,
-      "name": "A Simple Game",
-      "url": "https://open.spotify.com/track/1UXYaXFyEogAXs4ddBnpZg"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Can You Feel It: The Jacksons Collection",
         "url": "https://open.spotify.com/album/2CvbITS0dlUwUtXoWD4OwS"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 225080,
       "name": "Shake Your Body (Down To The Ground) - Single Version",
       "url": "https://open.spotify.com/track/6yhVPXKXRblL2T4jFfz7mw"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "A Simple Game",
+        "url": "https://open.spotify.com/album/0teJDgHyJ9lbThnbX7oTHz"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 303400,
+      "name": "A Simple Game",
+      "url": "https://open.spotify.com/track/1UXYaXFyEogAXs4ddBnpZg"
     },
     {
       "added_at": "2020-04-14 18:41:41",

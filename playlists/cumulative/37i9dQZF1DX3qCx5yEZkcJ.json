@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 126730,
       "name": "Cloud9",
       "url": "https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2"
@@ -5582,7 +5582,7 @@
       ],
       "date_added": "2020-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Lofi Loyal Caf\u00e9 Customer",
       "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
@@ -7944,6 +7944,28 @@
       "duration_ms": 161044,
       "name": "Recollection",
       "url": "https://open.spotify.com/track/7a55wM8GN7WcT7UXX3zBRK"
+    },
+    {
+      "album": {
+        "name": "Recollection (Cosmicosmo Remix)",
+        "url": "https://open.spotify.com/album/0FzYNZlsKsBiWjWF6HnCrD"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        },
+        {
+          "name": "Cosmicosmo",
+          "url": "https://open.spotify.com/artist/6JtJWLtwanDAmk4UMLFJ2v"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165568,
+      "name": "Recollection (Cosmicosmo Remix)",
+      "url": "https://open.spotify.com/track/2lK6kQsVSnZGACRr8ZJ1MK"
     },
     {
       "album": {
@@ -11366,7 +11388,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 212307,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"

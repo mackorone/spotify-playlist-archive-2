@@ -292,7 +292,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 220053,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/3dtf3Y9J1Yba0pq4J9JtBx"
@@ -2834,6 +2834,28 @@
       "duration_ms": 148778,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
+    },
+    {
+      "album": {
+        "name": "Underground Luxury",
+        "url": "https://open.spotify.com/album/177byugYOk12NcfRtWvghY"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "HeadBand (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/2LvRR121MWFmmEGkuV2vQP"
     },
     {
       "album": {

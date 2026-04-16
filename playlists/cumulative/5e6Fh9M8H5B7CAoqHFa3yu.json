@@ -13475,6 +13475,28 @@
     },
     {
       "album": {
+        "name": "GO, ASPES, GO!",
+        "url": "https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        },
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133652,
+      "name": "GO, ASPES, GO!",
+      "url": "https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm"
+    },
+    {
+      "album": {
         "name": "Turisti",
         "url": "https://open.spotify.com/album/1MGdBgdEUZNFS2CSrwC6RS"
       },
@@ -13508,6 +13530,24 @@
       "duration_ms": 235205,
       "name": "Gocce",
       "url": "https://open.spotify.com/track/0id0lYAn1TYS9jyecBFZkx"
+    },
+    {
+      "album": {
+        "name": "God knows I try",
+        "url": "https://open.spotify.com/album/4WPR1f6cgOUyXZig0T3DHs"
+      },
+      "artists": [
+        {
+          "name": "$!N",
+          "url": "https://open.spotify.com/artist/4Oq5yreFMAg6DBIoSNaKpQ"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156004,
+      "name": "God knows I try",
+      "url": "https://open.spotify.com/track/7635PQfM6ZDqZf6eAfqv6o"
     },
     {
       "album": {
@@ -14258,6 +14298,24 @@
       "duration_ms": 216946,
       "name": "Hear the Sound",
       "url": "https://open.spotify.com/track/0C3nWmG2S3Cdsc6kgvKFpJ"
+    },
+    {
+      "album": {
+        "name": "Hear you in the silence",
+        "url": "https://open.spotify.com/album/1iuaowL63kbzi6VuWXDWYV"
+      },
+      "artists": [
+        {
+          "name": "Funeral Letters",
+          "url": "https://open.spotify.com/artist/0cDgNx7GyU4qBNjuQ1Zy7H"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113960,
+      "name": "Hear you in the silence",
+      "url": "https://open.spotify.com/track/7C48kdbcSroFS3LQgvd9cb"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con La Santa Cecilia en portada.",
-  "num_followers": 546969,
+  "num_followers": 546948,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
+        "name": "Esto no acab\u00f3 por m\u00ed",
+        "url": "https://open.spotify.com/album/1tShB0umEqtrmHzr8mNRdZ"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "duration_ms": 207208,
+      "name": "Esto no acab\u00f3 por m\u00ed",
+      "url": "https://open.spotify.com/track/22Go3tznhPvBdgep0nmQSb"
+    },
+    {
+      "added_at": "2026-04-10 06:00:50",
+      "album": {
         "name": "Caso Cerrado",
         "url": "https://open.spotify.com/album/4QyAhMcjSCY1OjNMfIgSuq"
       },
@@ -943,34 +959,22 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
-        "name": "Te Volv\u00ed a So\u00f1ar",
-        "url": "https://open.spotify.com/album/5WoM0K8PODAHa8eYCsbrlv"
+        "name": "Mam\u00e1",
+        "url": "https://open.spotify.com/album/02Vg0bEN68tF5ySg2T6H0I"
       },
       "artists": [
         {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 211837,
-      "name": "Te Volv\u00ed a So\u00f1ar",
-      "url": "https://open.spotify.com/track/0Gb5nrMH23fSpK2aKlCAt4"
-    },
-    {
-      "added_at": "2026-04-10 06:00:50",
-      "album": {
-        "name": "Esto no acab\u00f3 por m\u00ed",
-        "url": "https://open.spotify.com/album/1tShB0umEqtrmHzr8mNRdZ"
-      },
-      "artists": [
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
         {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
         }
       ],
-      "duration_ms": 207208,
-      "name": "Esto no acab\u00f3 por m\u00ed",
-      "url": "https://open.spotify.com/track/22Go3tznhPvBdgep0nmQSb"
+      "duration_ms": 202799,
+      "name": "Mam\u00e1",
+      "url": "https://open.spotify.com/track/5DCCCNDhkcw1k3VMBN9zrx"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -991,22 +995,18 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
-        "name": "Mam\u00e1",
-        "url": "https://open.spotify.com/album/02Vg0bEN68tF5ySg2T6H0I"
+        "name": "Te Volv\u00ed a So\u00f1ar",
+        "url": "https://open.spotify.com/album/5WoM0K8PODAHa8eYCsbrlv"
       },
       "artists": [
         {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
         }
       ],
-      "duration_ms": 202799,
-      "name": "Mam\u00e1",
-      "url": "https://open.spotify.com/track/5DCCCNDhkcw1k3VMBN9zrx"
+      "duration_ms": 211837,
+      "name": "Te Volv\u00ed a So\u00f1ar",
+      "url": "https://open.spotify.com/track/0Gb5nrMH23fSpK2aKlCAt4"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
+    },
+    {
+      "added_at": "2026-04-10 06:00:50",
+      "album": {
         "name": "La Barca",
         "url": "https://open.spotify.com/album/78FMbZCEDk8whyk5hqCcLj"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+        "name": "Matina",
+        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
       },
       "artists": [
         {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
         }
       ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
+      "duration_ms": 128500,
+      "name": "Matina",
+      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
-        "name": "Matina",
-        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
         }
       ],
-      "duration_ms": 128500,
-      "name": "Matina",
-      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
+      "duration_ms": 164798,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
       },
       "artists": [
         {
-          "name": "Mia Salinas",
-          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
         }
       ],
-      "duration_ms": 164798,
-      "name": "Te So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1259,22 +1275,6 @@
       "duration_ms": 268146,
       "name": "Me Vuelves Loca",
       "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
-    },
-    {
-      "added_at": "2026-04-10 06:00:50",
-      "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1407,18 +1407,22 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
-        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
-        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
+        "name": "Como Quisiera Quererte",
+        "url": "https://open.spotify.com/album/1zyxtpEhfxsb5QfpDzLReB"
       },
       "artists": [
         {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
         }
       ],
-      "duration_ms": 165173,
-      "name": "En la Orilla del Mar",
-      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
+      "duration_ms": 258036,
+      "name": "Como Quisiera Quererte",
+      "url": "https://open.spotify.com/track/4r6OwScTgTeq1ugHGeqsT4"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1443,22 +1447,18 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
-        "name": "Como Quisiera Quererte",
-        "url": "https://open.spotify.com/album/1zyxtpEhfxsb5QfpDzLReB"
+        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
+        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
         }
       ],
-      "duration_ms": 258036,
-      "name": "Como Quisiera Quererte",
-      "url": "https://open.spotify.com/track/4r6OwScTgTeq1ugHGeqsT4"
+      "duration_ms": 165173,
+      "name": "En la Orilla del Mar",
+      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+    },
+    {
+      "added_at": "2026-04-10 06:00:50",
+      "album": {
         "name": "Empecemos a Empezar",
         "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 200859,
       "name": "Empecemos a Empezar",
       "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
-    },
-    {
-      "added_at": "2026-04-10 06:00:50",
-      "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
+        "name": "Maria Bonita",
+        "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Mar\u00eda Bonita",
+      "url": "https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP"
+    },
+    {
+      "added_at": "2026-04-10 06:00:50",
+      "album": {
         "name": "Tu Espejo Es Mentiroso",
         "url": "https://open.spotify.com/album/2k4bXlGyj2xZoz3iikYkF2"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
-        "name": "Maria Bonita",
-        "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Mar\u00eda Bonita",
-      "url": "https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP"
-    },
-    {
-      "added_at": "2026-04-10 06:00:50",
-      "album": {
         "name": "tu amor me da paz",
         "url": "https://open.spotify.com/album/60pmaWLTyguqSTl7HBUXXN"
       },
@@ -1615,30 +1615,6 @@
       "duration_ms": 195413,
       "name": "tu amor me da paz",
       "url": "https://open.spotify.com/track/1gE1rA1cAMv0mHcOFhcsQZ"
-    },
-    {
-      "added_at": "2026-04-10 06:00:50",
-      "album": {
-        "name": "ya llovi\u00f3",
-        "url": "https://open.spotify.com/album/1psW6fIoAAYTuZrRJnGIHT"
-      },
-      "artists": [
-        {
-          "name": "Reno Rojas",
-          "url": "https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l"
-        },
-        {
-          "name": "Frank Maza",
-          "url": "https://open.spotify.com/artist/5PSHGxg1VQAESRSvZBCbYD"
-        },
-        {
-          "name": "\u00c1ngel C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/49GDWEcr7vN0dPliciaA0c"
-        }
-      ],
-      "duration_ms": 234570,
-      "name": "ya llovi\u00f3",
-      "url": "https://open.spotify.com/track/1wLVZ66SdIFV03cwXauOvE"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1679,6 +1655,30 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
+        "name": "ya llovi\u00f3",
+        "url": "https://open.spotify.com/album/1psW6fIoAAYTuZrRJnGIHT"
+      },
+      "artists": [
+        {
+          "name": "Reno Rojas",
+          "url": "https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l"
+        },
+        {
+          "name": "Frank Maza",
+          "url": "https://open.spotify.com/artist/5PSHGxg1VQAESRSvZBCbYD"
+        },
+        {
+          "name": "\u00c1ngel C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/49GDWEcr7vN0dPliciaA0c"
+        }
+      ],
+      "duration_ms": 234570,
+      "name": "ya llovi\u00f3",
+      "url": "https://open.spotify.com/track/1wLVZ66SdIFV03cwXauOvE"
+    },
+    {
+      "added_at": "2026-04-10 06:00:50",
+      "album": {
         "name": "Idas y Vueltas",
         "url": "https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO"
       },
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 201829,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
+    },
+    {
+      "added_at": "2026-04-10 06:00:50",
+      "album": {
         "name": "nomeolvides",
         "url": "https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 179328,
       "name": "qu\u00e9 triste, qu\u00e9 desastre (bolero)",
       "url": "https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY"
-    },
-    {
-      "added_at": "2026-04-10 06:00:50",
-      "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 201829,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1787,22 +1787,18 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
-        "name": "L\u00e1grimas Negras",
-        "url": "https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ"
+        "name": "La Copa Rota",
+        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
       },
       "artists": [
         {
-          "name": "Las Hermanas Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
-        },
-        {
-          "name": "Reynier Limonta",
-          "url": "https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy"
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
         }
       ],
-      "duration_ms": 318893,
-      "name": "L\u00e1grimas Negras",
-      "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
+      "duration_ms": 189320,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
     }
   ],
   "unique_name": "nuevo bolero",

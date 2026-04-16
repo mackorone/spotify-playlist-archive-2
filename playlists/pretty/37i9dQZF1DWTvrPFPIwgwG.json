@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sara Evelyn",
-  "num_followers": 198538,
+  "num_followers": 198631,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,22 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
+        "name": "Minha B\u00ean\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/67XXl8qaJkOLA2UpIx2iHN"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 266936,
+      "name": "Minha B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0DhO7IbkaGsz7MbvqA28a3"
+    },
+    {
+      "added_at": "2026-03-02 15:13:25",
+      "album": {
         "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
         "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
       },
@@ -119,18 +135,18 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "Minha B\u00ean\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/67XXl8qaJkOLA2UpIx2iHN"
+        "name": "Sou Deus",
+        "url": "https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb"
       },
       "artists": [
         {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+          "name": "Eli\u00e3 Oliveira",
+          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
         }
       ],
-      "duration_ms": 266936,
-      "name": "Minha B\u00ean\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0DhO7IbkaGsz7MbvqA28a3"
+      "duration_ms": 255500,
+      "name": "Sou Deus",
+      "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -151,22 +167,6 @@
       "duration_ms": 402770,
       "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
       "url": "https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo"
-    },
-    {
-      "added_at": "2026-03-02 15:13:25",
-      "album": {
-        "name": "Sou Deus",
-        "url": "https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb"
-      },
-      "artists": [
-        {
-          "name": "Eli\u00e3 Oliveira",
-          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "Sou Deus",
-      "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -595,30 +595,6 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "A Presen\u00e7a (43 Anos Louvor Eterno) [Ao Vivo, Curitiba, Teatro Positivo, 2025]",
-        "url": "https://open.spotify.com/album/67wXgN3GtBrGBnIDFc2XxC"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        },
-        {
-          "name": "Dalete Hungria",
-          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 353770,
-      "name": "A Presen\u00e7a",
-      "url": "https://open.spotify.com/track/4oOWcwpwEuTU7Fewmna98p"
-    },
-    {
-      "added_at": "2026-03-02 15:13:25",
-      "album": {
         "name": "Hebreus 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv"
       },
@@ -639,6 +615,30 @@
       "duration_ms": 625714,
       "name": "Hebreus 1 - Ao Vivo",
       "url": "https://open.spotify.com/track/7DQOqbaquRT0VZmkfgo54z"
+    },
+    {
+      "added_at": "2026-03-02 15:13:25",
+      "album": {
+        "name": "A Presen\u00e7a (43 Anos Louvor Eterno) [Ao Vivo, Curitiba, Teatro Positivo, 2025]",
+        "url": "https://open.spotify.com/album/67wXgN3GtBrGBnIDFc2XxC"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        },
+        {
+          "name": "Dalete Hungria",
+          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 353770,
+      "name": "A Presen\u00e7a",
+      "url": "https://open.spotify.com/track/4oOWcwpwEuTU7Fewmna98p"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -803,26 +803,6 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "Eu e Deus - Ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/57vqSYRocsA1oDOL37wyIj"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        },
-        {
-          "name": "Claudia Can\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo"
-        }
-      ],
-      "duration_ms": 282709,
-      "name": "Eu e Deus - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/32CjL3PNGzdf6cEdZ8bMs2"
-    },
-    {
-      "added_at": "2026-03-02 15:13:25",
-      "album": {
         "name": "Eu Cuido de Tudo",
         "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
       },
@@ -843,26 +823,6 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "Eu N\u00e3o Era Nada",
-        "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 343799,
-      "name": "Eu N\u00e3o Era Nada",
-      "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
-    },
-    {
-      "added_at": "2026-03-02 15:13:25",
-      "album": {
         "name": "Prioridade (Ao Vivo)",
         "url": "https://open.spotify.com/album/4EO1KlcmvHxJGG37PzYmDw"
       },
@@ -879,6 +839,46 @@
       "duration_ms": 255663,
       "name": "Prioridade (Ao Vivo)",
       "url": "https://open.spotify.com/track/42xqD1YxWBXgU9ND55MqXE"
+    },
+    {
+      "added_at": "2026-03-02 15:13:25",
+      "album": {
+        "name": "Eu e Deus - Ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/57vqSYRocsA1oDOL37wyIj"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        },
+        {
+          "name": "Claudia Can\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo"
+        }
+      ],
+      "duration_ms": 282709,
+      "name": "Eu e Deus - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/32CjL3PNGzdf6cEdZ8bMs2"
+    },
+    {
+      "added_at": "2026-03-02 15:13:25",
+      "album": {
+        "name": "Eu N\u00e3o Era Nada",
+        "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 343799,
+      "name": "Eu N\u00e3o Era Nada",
+      "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/3JxLykAFGGCmx1vOls2RTN"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        }
-      ],
-      "duration_ms": 383466,
-      "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
-      "url": "https://open.spotify.com/track/7xKFol0XmSR5WyT06GSHyF"
-    },
-    {
-      "added_at": "2026-03-02 15:13:25",
-      "album": {
         "name": "Jesus Voltar\u00e1",
         "url": "https://open.spotify.com/album/33IYZiBre2fcfD2AMmIKKy"
       },
@@ -947,22 +931,18 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "Basta uma Palavra",
-        "url": "https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN"
+        "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/3JxLykAFGGCmx1vOls2RTN"
       },
       "artists": [
         {
-          "name": "Sandra Pires",
-          "url": "https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
         }
       ],
-      "duration_ms": 304938,
-      "name": "Basta uma Palavra",
-      "url": "https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R"
+      "duration_ms": 383466,
+      "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
+      "url": "https://open.spotify.com/track/7xKFol0XmSR5WyT06GSHyF"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -987,6 +967,26 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
+        "name": "Basta uma Palavra",
+        "url": "https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN"
+      },
+      "artists": [
+        {
+          "name": "Sandra Pires",
+          "url": "https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 304938,
+      "name": "Basta uma Palavra",
+      "url": "https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R"
+    },
+    {
+      "added_at": "2026-03-02 15:13:25",
+      "album": {
         "name": "O Segredo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 306694,
       "name": "O Segredo (Ao Vivo)",
       "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
-    },
-    {
-      "added_at": "2026-03-02 15:13:25",
-      "album": {
-        "name": "Existe Um Deus",
-        "url": "https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS"
-      },
-      "artists": [
-        {
-          "name": "Larissa Santos",
-          "url": "https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Existe Um Deus",
-      "url": "https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -1039,26 +1023,18 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "Na Mesa do Rei (43 Anos Louvor Eterno) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/44qgToIXG9M2x54KsX2Pco"
+        "name": "Existe Um Deus",
+        "url": "https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        },
-        {
-          "name": "Sara Evelyn",
-          "url": "https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+          "name": "Larissa Santos",
+          "url": "https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk"
         }
       ],
-      "duration_ms": 339626,
-      "name": "Na Mesa do Rei - Ao Vivo",
-      "url": "https://open.spotify.com/track/62KvypUN9K2JsuXIdNoq5y"
+      "duration_ms": 282000,
+      "name": "Existe Um Deus",
+      "url": "https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -1087,22 +1063,26 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "Eu Sei Quem Sou",
-        "url": "https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB"
+        "name": "Na Mesa do Rei (43 Anos Louvor Eterno) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/44qgToIXG9M2x54KsX2Pco"
       },
       "artists": [
         {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
         },
         {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+          "name": "Sara Evelyn",
+          "url": "https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 281106,
-      "name": "Eu Sei Quem Sou",
-      "url": "https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4"
+      "duration_ms": 339626,
+      "name": "Na Mesa do Rei - Ao Vivo",
+      "url": "https://open.spotify.com/track/62KvypUN9K2JsuXIdNoq5y"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -1123,22 +1103,22 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "Pra Gl\u00f3ria do Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ"
+        "name": "Eu Sei Quem Sou",
+        "url": "https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB"
       },
       "artists": [
         {
-          "name": "Fernanda Souza",
-          "url": "https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq"
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
         },
         {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 461540,
-      "name": "Pra Gl\u00f3ria do Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr"
+      "duration_ms": 281106,
+      "name": "Eu Sei Quem Sou",
+      "url": "https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -1155,6 +1135,26 @@
       "duration_ms": 321728,
       "name": "Passar pela Moenda - Ao Vivo",
       "url": "https://open.spotify.com/track/2lmKOWJr0QP4O4WQcxwNNT"
+    },
+    {
+      "added_at": "2026-03-02 15:13:25",
+      "album": {
+        "name": "Pra Gl\u00f3ria do Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Souza",
+          "url": "https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 461540,
+      "name": "Pra Gl\u00f3ria do Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "Esvaziando a Casa",
-        "url": "https://open.spotify.com/album/5PHdajlqc96BJm3wy5Hswd"
+        "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1PNy00WY2GINNmKOrMBQEw"
       },
       "artists": [
         {
-          "name": "Vanilda Bordieri",
-          "url": "https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O"
+          "name": "Polyana Martins",
+          "url": "https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x"
         },
         {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
         }
       ],
-      "duration_ms": 281490,
-      "name": "Esvaziando a Casa",
-      "url": "https://open.spotify.com/track/48yLKnpr7Vu8tIXDSLCKS8"
+      "duration_ms": 303778,
+      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2dU1myKI3jBTUL7qihW36S"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -1387,22 +1387,22 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1PNy00WY2GINNmKOrMBQEw"
+        "name": "Esvaziando a Casa",
+        "url": "https://open.spotify.com/album/5PHdajlqc96BJm3wy5Hswd"
       },
       "artists": [
         {
-          "name": "Polyana Martins",
-          "url": "https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x"
+          "name": "Vanilda Bordieri",
+          "url": "https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O"
         },
         {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 303778,
-      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2dU1myKI3jBTUL7qihW36S"
+      "duration_ms": 281490,
+      "name": "Esvaziando a Casa",
+      "url": "https://open.spotify.com/track/48yLKnpr7Vu8tIXDSLCKS8"
     },
     {
       "added_at": "2026-03-02 15:13:25",

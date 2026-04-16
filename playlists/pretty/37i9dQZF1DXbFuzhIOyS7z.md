@@ -4,49 +4,49 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,038 likes - 40 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,045 likes - 40 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [たらればの話](https://open.spotify.com/track/188bVKh1mLEfoSvk1wJssz) | [Fuzzy Days](https://open.spotify.com/artist/0TryaoYNYIWAtOuq0F9qLe) | [たらればの話](https://open.spotify.com/album/0KlDCbT4YEVQUgHQ4lJeIb) | 3:12 |
-| 2 | [泣くもんさ](https://open.spotify.com/track/7BvkjUum59fM7y0h9umaCI) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [aRange](https://open.spotify.com/album/377hbBhboksYjNjaTsoENP) | 2:58 |
-| 3 | [バイバイ](https://open.spotify.com/track/6Zr594BQu3tXv7YDbWrm8v) | [上に１回動かす。](https://open.spotify.com/artist/7BTx2ud4rJHzgG5ybPDACE) | [バイバイ](https://open.spotify.com/album/3RkDbgiFPtBB7LpTcSMzIg) | 4:16 |
-| 4 | [春の魔法](https://open.spotify.com/track/42BO8xZFOcZZe5waiL8vcx) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [春の魔法](https://open.spotify.com/album/6brjqLC9EfVz33FYX7Bf4w) | 4:11 |
-| 5 | [僕じゃない誰かと](https://open.spotify.com/track/29PNK9K71w0ZUXJunfP7Ef) | [City Lovers](https://open.spotify.com/artist/6Xdp5WREfjYkHTILEgp2JI) | [僕じゃない誰かと](https://open.spotify.com/album/1Xi77M2jxdIuT7gSYlLtnl) | 3:49 |
-| 6 | [御伽噺](https://open.spotify.com/track/5CaNCDsTw9FIkjX7u4o2ax) | [Hello Hello](https://open.spotify.com/artist/0VHtkjMrNXTTDNE9Ej96og) | [御伽噺](https://open.spotify.com/album/4MhjJjkGsemgepv081CfXi) | 4:15 |
-| 7 | [元彼氏の僕から](https://open.spotify.com/track/5yHCpmUQEXicU44Ocm6OBQ) | [ドロップワンドル](https://open.spotify.com/artist/0ZYeAuSREauzPWdPd90ATo) | [元彼氏の僕から](https://open.spotify.com/album/17iLdT1J2Ip93onUSke4Zb) | 3:51 |
-| 8 | [さよならロングヘアー](https://open.spotify.com/track/2QwatVtCNAW75YLarmoYbe) | [ペルシカリア](https://open.spotify.com/artist/4FdJpSAmMOX4yoYTAzjLKB) | [さよならロングヘアー](https://open.spotify.com/album/1IrDSEp97uSvFTOgEvt3P6) | 3:33 |
-| 9 | [ごめんね](https://open.spotify.com/track/5ugRVHDtx3uBxmpT2VNGYL) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [ごめんね](https://open.spotify.com/album/0oQ8GoeWuiiOx3PPg0ZLyZ) | 4:20 |
-| 10 | [もう書き終えたはずなのに](https://open.spotify.com/track/72es6FFl71DbVC1xUaK7SV) | [Sunny Girl](https://open.spotify.com/artist/1wkGtOevrl3LOU7tKa3hdm) | [いつか歌き終える日が来ても](https://open.spotify.com/album/5pOddeYB9rUHte1NTU8aNT) | 3:58 |
-| 11 | [○４](https://open.spotify.com/track/3n3DLZ49Nwt3LQheVoVHga) | [HARERU](https://open.spotify.com/artist/7v89gsqlNzmYGV9Dhl2Jev) | [あれから、](https://open.spotify.com/album/0FPXl0wfNpqAbtXc8Rd6aE) | 2:50 |
-| 12 | [最後は僕に](https://open.spotify.com/track/2n919quu4QbdkBGKT7xjaM) | [Last me](https://open.spotify.com/artist/5wUPFRJ34nQYnXJ00ABCLK) | [最後は僕に / 勝手](https://open.spotify.com/album/1AKPeDWKC5a4qDkoC4rUs2) | 3:56 |
-| 13 | [昨日に則って](https://open.spotify.com/track/2RHIpb9NyMaHZ56XTMpKIg) | [ざらばんし](https://open.spotify.com/artist/3MU1QugoEIeuNgHBfEeUij) | [昨日に則って](https://open.spotify.com/album/2kU6FH4ZwcwEnRFr4HGB6I) | 3:23 |
-| 14 | [少女 \(feat\. あい\)](https://open.spotify.com/track/7kkVocoQzgPCvGQLiobS3P) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07), [あい](https://open.spotify.com/artist/1nRw1Vj9uYzU2aO4Ruojxz) | [泣くな、青春](https://open.spotify.com/album/0fMOxtoOYTxqoid0tFlPr7) | 3:10 |
-| 15 | [ブルーベリー・ナイツ](https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:04 |
-| 16 | [こんな夜は](https://open.spotify.com/track/6bSf2QbTXKxo8PI86AdwyK) | [Peacock](https://open.spotify.com/artist/1dWcYuwsmUMgK8dzHuVluw) | [こんな夜は](https://open.spotify.com/album/3bBrVFtMnwfHIXl6gbIW5H) | 5:46 |
-| 17 | [こころのこり](https://open.spotify.com/track/6TGDjOSi5dOnzEKG7Voh7K) | [Brown Basket](https://open.spotify.com/artist/2mJfqewA84cfTX6sUPIyna) | [ROLLING](https://open.spotify.com/album/6rWtWYj3FITRioghDBeHsQ) | 3:36 |
-| 18 | [ただそれだけのことがさ](https://open.spotify.com/track/56sUmEzevrtIEr3FUI8D5l) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/2QKtmakVNgVWejUQRjZm1S) | 4:14 |
-| 19 | [envy](https://open.spotify.com/track/03KfnHmik5W7sBlxDnsI7X) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [angel](https://open.spotify.com/album/1OJ1rNEO8lriPuoXR924SO) | 2:39 |
-| 20 | [越冬](https://open.spotify.com/track/1aEc6uewmPW7e01LzMmAMB) | [KAMO](https://open.spotify.com/artist/51pdU9QwwwV2DTALhm5r7S) | [越冬](https://open.spotify.com/album/0fWpcb9BouNmGYIY3rf3jL) | 4:04 |
-| 21 | [アパート](https://open.spotify.com/track/7kwVILsU9Rqz2CZab2MYSv) | [イロムク](https://open.spotify.com/artist/0HvdM1LhLUh33vtdcw1nnN) | [六畳一間のミュージック](https://open.spotify.com/album/59h71loiGrZYhFqzHjWNlK) | 4:19 |
-| 22 | [月になるから好きになってよ](https://open.spotify.com/track/08b0C01tfsAB5bhtK2h4Lz) | [街人](https://open.spotify.com/artist/0CsNjZaYtiaR6k5f1UeSo2) | [月になるから好きになってよ](https://open.spotify.com/album/3AbY7wxNuLj9JQ9SjhQ7IO) | 3:20 |
-| 23 | [tender](https://open.spotify.com/track/0yCUbbm7kMsrRPJbFfdieR) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [あとのまつり](https://open.spotify.com/album/0HP7CqjM9x4ACo6MLQHIv7) | 3:30 |
-| 24 | [クソラスト](https://open.spotify.com/track/6xxhEmYbHgAqrUAumJt1RZ) | [アンと私](https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J) | [FALL DOWN 2](https://open.spotify.com/album/2c5PXJwnAfVENgxhv997qy) | 2:45 |
-| 25 | [ドライヤー](https://open.spotify.com/track/5b7RiVj4fmspWVaG6PwTJu) | [すずれ](https://open.spotify.com/artist/1NzKalXv77B25vl4yYZNoN) | [ドライヤー](https://open.spotify.com/album/3GLQSw46EKyOPqbPP4o7z8) | 3:41 |
-| 26 | [君がいない](https://open.spotify.com/track/6XRRqjI06DLCZx0fr54iTQ) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/6BOZRsqSvpxYYVrs3xBBYu) | 3:47 |
-| 27 | [黒鳥山公園](https://open.spotify.com/track/4dn0TJt9WIYGSytQV1EWOc) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [take](https://open.spotify.com/album/3QRTT5tE6psL4Ysofj0w9x) | 4:50 |
-| 28 | [予測変換から消えても](https://open.spotify.com/track/6YEL4FRbRkNUqxb3S78NV7) | [the paddles](https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO) | [予測変換から消えても](https://open.spotify.com/album/6eOPeAuOgSGoWFcAmk8dz1) | 3:46 |
-| 29 | [好きじゃない](https://open.spotify.com/track/64rPHTvB5YIoHX8Vdz1Y2X) | [アルコサイト](https://open.spotify.com/artist/7hk5b4YhnFsoCX8OFZQ58s) | [一筋縄じゃ愛せない](https://open.spotify.com/album/5MISip8ZhswZKL77lyTVFd) | 3:21 |
-| 30 | [今だから話せるみたいなことを](https://open.spotify.com/track/3nBI0TYn5u3qF5FHikmjvq) | [ポルトギース](https://open.spotify.com/artist/6Eiv6b2fUH9lnTMSMaRVNW) | [今だから話せるみたいなことを](https://open.spotify.com/album/4b7eQ3DBAJyE1WD35QmErq) | 2:38 |
-| 31 | [四月のこと](https://open.spotify.com/track/0DgClq2Hp88wMpGW8eeYUK) | [東京、君がいない街](https://open.spotify.com/artist/2f6Qo8o3wF0ZEpHaMt6Cal) | [23春](https://open.spotify.com/album/1KGEUbiIrHnuN18SQ9LKOF) | 3:41 |
-| 32 | [白昼夢](https://open.spotify.com/track/4c3Yc94YVGOByi408921Fn) | [Hi\-Fi Un!corn](https://open.spotify.com/artist/6095rKDrPnRCro0ckAe9hY) | [FIRST MOVE](https://open.spotify.com/album/5O8mj0lU5nIEbhhORk3obQ) | 4:18 |
-| 33 | [モノクロフィルム](https://open.spotify.com/track/6jdbsnQLUEq7trnpVjURCD) | [荒木一仁](https://open.spotify.com/artist/4y7o8ddrRi6bVPBvcSbNw1) | [モノクロフィルム](https://open.spotify.com/album/7zWAFqF72ZMlelqOO4nLtQ) | 5:05 |
-| 34 | [プラム](https://open.spotify.com/track/0cdvqonKYzfRKpvxLHMaFJ) | [メルトタイマー](https://open.spotify.com/artist/3ipWDVcSIYrBC1vVJottkd) | [プラム](https://open.spotify.com/album/7xBRuEOv0o90pn0wJjTZB7) | 4:09 |
-| 35 | [愛するたびに](https://open.spotify.com/track/3sxyRgptMAMjDpA5UB8LMM) | [Rina Katahira](https://open.spotify.com/artist/2e8owTBZutgOq6uUnVTURB) | [愛するたびに](https://open.spotify.com/album/44TsZuBjWVVtvDrcXxEzAp) | 5:41 |
-| 36 | [帰ろう](https://open.spotify.com/track/6Dmxt4rbi97c7sjoWRrJoj) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 4:44 |
-| 37 | [幾億光年](https://open.spotify.com/track/5Ak1F5nGzM4KRhE0H1Q3CP) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Pieces](https://open.spotify.com/album/12oRFHOYrtXpgdjGtUa5NM) | 4:36 |
-| 38 | [SSW](https://open.spotify.com/track/1pLWpoeGFxoyBB79ciwjAa) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [コレカラー](https://open.spotify.com/album/3es5sP9pdmnRvgVjzHhP7D) | 4:27 |
-| 39 | [僕と僕](https://open.spotify.com/track/3lSrh4kBSDHvPeRigb07Z2) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [カレンダー](https://open.spotify.com/album/1T18qFuxU67pmxaZWQRY3f) | 4:55 |
-| 40 | [話したいこと](https://open.spotify.com/track/4pN7LwhpI7qJqI4bHywzhp) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [bouquet](https://open.spotify.com/album/5orOfKlTjdQExk741M0MKb) | 3:55 |
+| 1 | [しょせんの二人](https://open.spotify.com/track/59BdhPMCsQMFAJhUO7UOvV) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [しょせんの二人](https://open.spotify.com/album/3uKgng1JP3MlGvKIOiuvkD) | 3:43 |
+| 2 | [two much pain](https://open.spotify.com/track/2HUxcg4mo0lqwxtzIo7gRv) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [s.i.n](https://open.spotify.com/album/1Ib69sAGlI69lAJkQoI4ge) | 4:17 |
+| 3 | [たられば](https://open.spotify.com/track/4yYsNhxb8oyU8jKPFUZeG4) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [たられば](https://open.spotify.com/album/5t3hoO6482UAbnF8rN5orm) | 2:40 |
+| 4 | [藤雨](https://open.spotify.com/track/7zpmoztJ5vgiDkrWiklsDC) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [EINSTEIN = ROSEN BRIDGE](https://open.spotify.com/album/5C8RwqgYO6VWR0wECIXGBD) | 4:08 |
+| 5 | [思い出せなくなるその日まで](https://open.spotify.com/track/5TLXuBFx2emPcQ5grqSz90) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [スーパースター](https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI) | 4:30 |
+| 6 | [愛してるって嘘ついた](https://open.spotify.com/track/2hbIjUrVNRgWreArE1HGkz) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [心の微熱](https://open.spotify.com/album/6MD084CmlPIeNIg952bHsu) | 2:50 |
+| 7 | [殺文句](https://open.spotify.com/track/1djwQmbNvClrQ9EiikUJOT) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [koroshimonku](https://open.spotify.com/album/3TGWwaivlVPcd1kbieP03I) | 3:37 |
+| 8 | [YURU FUWA](https://open.spotify.com/track/15kxYnOujPpPaKT9ogmnL1) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [YURU FUWA](https://open.spotify.com/album/4HvIZYDn9lP7DokbhBAwjv) | 3:38 |
+| 9 | [幸せにならないで、](https://open.spotify.com/track/7kCV6nTAIqYrkjO5he8BLf) | [金時](https://open.spotify.com/artist/0lvc0ts99tbSZM9X86zJet) | [幸せにならないで、](https://open.spotify.com/album/3ZU6uyTvdvPsMNb6FkLO6e) | 3:42 |
+| 10 | [部屋とガラクタと私](https://open.spotify.com/track/7agOQwYZK5SYmzsbbOuBWK) | [ミーマイナー](https://open.spotify.com/artist/7G8KRjagUdAsleZIfe2juo) | [部屋とガラクタと私](https://open.spotify.com/album/1G4WRoKBf3vj49N0cHyEIQ) | 3:28 |
+| 11 | [ぼくたちはとおく](https://open.spotify.com/track/7D2m6VVJbcxxrpksKJeMrp) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [ECHO](https://open.spotify.com/album/1BoahMAN2p1qYHUENqSDXP) | 4:11 |
+| 12 | [買ったばかりのものは](https://open.spotify.com/track/6alWikY3PhCK8KmW7KDRZO) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [good life, good people](https://open.spotify.com/album/4EsbxeEeLAAr5EOymJIZnB) | 3:45 |
+| 13 | [あなたに会えてよかった](https://open.spotify.com/track/0JIJQuNVgkFUDNyd3Fbc7P) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [あなたに会えてよかった](https://open.spotify.com/album/3QsmPXZnaduHmUQhLgnEzb) | 4:33 |
+| 14 | [タイムマシン](https://open.spotify.com/track/4UfLvlSUTBVn5imuzf87kj) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Nautilus](https://open.spotify.com/album/1e1wT6uxWS5EwnHVeu6K0b) | 4:18 |
+| 15 | [me me she](https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 4 ～おかずのごはん～](https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP) | 4:41 |
+| 16 | [エンドロール](https://open.spotify.com/track/1Iom9FU9V7svcjQpvrlUYD) | [Shout It Out](https://open.spotify.com/artist/2a5ADRTPWfcWQf0o0EUy2K) | [青年の主張](https://open.spotify.com/album/2jouQMGyTpEtB8tDdF751u) | 3:56 |
+| 17 | [さよなら、アイリーン](https://open.spotify.com/track/3fnuPySHNCiSvNOoRkwli3) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [三者山羊](https://open.spotify.com/album/6BDIjMM0k0DBvsGmxglAIC) | 4:17 |
+| 18 | [こんなに悲しいのに腹が鳴る](https://open.spotify.com/track/2KF57JKD8oQgBA904VRjQq) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [夜にしがみついて、朝で溶かして](https://open.spotify.com/album/2xXBLrS026lOtokTttSEm8) | 4:36 |
+| 19 | [化粧](https://open.spotify.com/track/74HOlE2VgeCvRbVHdWaRdm) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [boys](https://open.spotify.com/album/1GDfxRtJb5tCcYOTIw8Ehe) | 4:25 |
+| 20 | [アボカド](https://open.spotify.com/track/6s8A7i321AAB4g4OTZY09D) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Coming Spring](https://open.spotify.com/album/1iZcedGbC2jVjhcsVbf7MD) | 3:32 |
+| 21 | [親指の使い方](https://open.spotify.com/track/3GPfyfcYe5hyALhV4oP8CT) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [花火](https://open.spotify.com/album/4mTmlYUQm8fw3DJ4b5XLEU) | 4:26 |
+| 22 | [メロドラマ](https://open.spotify.com/track/65XvzSv2RzxJ2jJao5SiSf) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [君の話](https://open.spotify.com/album/0fKefAbbwk1WI10ieZBsMi) | 4:33 |
+| 23 | [嫌でもね](https://open.spotify.com/track/1FV9sOoxJIXB94ujaoHlKM) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [character](https://open.spotify.com/album/6NEViwfJmZULHN69wXcdUX) | 3:07 |
+| 24 | [部屋](https://open.spotify.com/track/4ECgL11icHnXzZ3RjTaoxJ) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [オードブル](https://open.spotify.com/album/1KNGxRMePtlPslrdAJiSnI) | 4:31 |
+| 25 | [煙](https://open.spotify.com/track/6y0gGO1K7eC0Pb5tyGqSLk) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [カントリーロード](https://open.spotify.com/album/7Cl3jWTWcdQxSrI54yzjOs) | 4:06 |
+| 26 | [関係のない人](https://open.spotify.com/track/3WlAqL1Vaei9e84PDNh5FH) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [関係のない人](https://open.spotify.com/album/6gcvBSWLvo4zpdPYQDiZPS) | 3:33 |
+| 27 | [恋呼吸](https://open.spotify.com/track/1EnV5DNjcY1B8yWC7tdfko) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [恋呼吸](https://open.spotify.com/album/6wBc9Q7Zy2p8nFc2ViNUgI) | 3:02 |
+| 28 | [ふたりの映画](https://open.spotify.com/track/29YSVp3ojCHjWTQGXVr0sM) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [君にモテたいっ!!](https://open.spotify.com/album/3xTmeOAhcWWRuHPjAC8ibT) | 3:27 |
+| 29 | [骨溶けた](https://open.spotify.com/track/7qWKwKY80n041WSkcReqEU) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [骨が溶けるほどの青い春](https://open.spotify.com/album/0XawcljKyiCwxyGp6E3Glg) | 3:32 |
+| 30 | [嘘](https://open.spotify.com/track/6uzFf9jyGDf0WLKgbB7WCv) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [JUKEBOX](https://open.spotify.com/album/0ojK6G6NEpXSyOR3FcKcSd) | 3:47 |
+| 31 | [願い](https://open.spotify.com/track/7dODNcz1h6UFj8GHlvRyqP) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [AMUSIC](https://open.spotify.com/album/77S1EmlVIWKiXrtwt21sZ1) | 5:15 |
+| 32 | [絶対幸せになってね](https://open.spotify.com/track/33ZttFBk51O1fwkdBtYmpa) | [線文字B](https://open.spotify.com/artist/22wgQK8kq0TeF6LgfDRK0O) | [絶対幸せになってね](https://open.spotify.com/album/64EyyrGxyNABNQtNy3607x) | 3:15 |
+| 33 | [カシスオレンジ](https://open.spotify.com/track/78cNVXTGe2OGnno2dLzhzr) | [Laughing Hick](https://open.spotify.com/artist/17DWzzd6Ap8umcfYBYHJ3W) | [DOPAMINE](https://open.spotify.com/album/4HvRTaeyzeSVXOHcPStadL) | 3:39 |
+| 34 | [今度会ったら](https://open.spotify.com/track/60ZbNsQMBEYERbQMI7PcNQ) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [ヤユヨ](https://open.spotify.com/album/4fWoXVbBd9OJC8R5HpIw66) | 3:20 |
+| 35 | [ウーロンハイと春に](https://open.spotify.com/track/59fPDd4F9SBeCcR9U1vySL) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x) | [ウーロンハイと春に](https://open.spotify.com/album/0BNaGmf68HWNej6vlAF44W) | 4:03 |
+| 36 | [さよならの予感がして](https://open.spotify.com/track/7i0pzxWFxp1gn3ak3QJGKW) | [エンプティルーム](https://open.spotify.com/artist/6rg3n5BiLYb8EZO7RjqykK) | [さよならの予感がして](https://open.spotify.com/album/7tl6NOeW4JUnTVIkZVNKGC) | 3:23 |
+| 37 | [他人](https://open.spotify.com/track/5YTXaU8MCd1JlWuLLev2ls) | [ミイ](https://open.spotify.com/artist/2wb6u3H5nVSAOG98sfbYHH) | [グッドナイト・ビューティフルデイズ](https://open.spotify.com/album/66fy5FHTZFEjkuMrgtbm41) | 3:30 |
+| 38 | [愛鍵](https://open.spotify.com/track/2zHp1zTWqEdWPaNJXJ7BTT) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [演じるくらいなら、ありのままでいいけどね](https://open.spotify.com/album/0ubURdpwAq6NhPkJBepwCw) | 3:46 |
+| 39 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 |
+| 40 | [デイドリーム](https://open.spotify.com/track/7bULwkgRO7FHaXHHJbvzI8) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [my](https://open.spotify.com/album/2ScDaY2kCiHLd0li7FQf37) | 4:28 |
 
-Snapshot ID: `AAAAAGUqm2YU574SdZxjQ2ZDhrbsMUJE`
+Snapshot ID: `AAAAAP858f06mXzu0M47pA1KXDVpk645`

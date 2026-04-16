@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Alabama Shakes
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,626 likes - 106 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,641 likes - 106 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 37 | [Borrowed Happiness](https://open.spotify.com/track/2xkkwNHZZSWWOQxlHCXa24) | [XCOMM](https://open.spotify.com/artist/5cpYeQPUGJh6KsQhnd6P8T) | [Borrowed Happiness](https://open.spotify.com/album/4gYp9i4WXe1Fwq00xKxBsa) | 2:53 |
 | 38 | [Burn](https://open.spotify.com/track/5KTagqbzwqw1lpO67N464P) | [Bay Faction](https://open.spotify.com/artist/5wl4eeiKZTQ0mgm7jLoy7g) | [Year of the Dog](https://open.spotify.com/album/6oWbbeW8Ysw4kElaUnReip) | 2:40 |
 | 39 | [Beautiful, Messed Up Head](https://open.spotify.com/track/10iv0KEGr1dEfz8b2LO5UH) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [The Gloomy Tapes, Vol\. 3](https://open.spotify.com/album/3zcRNxIE1vr9rv2YAIHWpv) | 3:24 |
-| 40 | [Nothing Matters \(feat\. Maresz\)](https://open.spotify.com/track/6GzUTy6FxAaSVEvlxJXgFB) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Maresz](https://open.spotify.com/artist/0sVLsjXKoUaUTQFUt2bRaW) | [Nothing Matters \(feat\. Maresz\)](https://open.spotify.com/album/68H5ipiHhUvkNO03s9n0oz) | 3:02 |
+| 40 | [Nothing Matters](https://open.spotify.com/track/6GzUTy6FxAaSVEvlxJXgFB) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Maresz](https://open.spotify.com/artist/0sVLsjXKoUaUTQFUt2bRaW) | [Nothing Matters](https://open.spotify.com/album/68H5ipiHhUvkNO03s9n0oz) | 3:02 |
 | 41 | [Bittersweet](https://open.spotify.com/track/6fku7eIHq1S1grAnwTw3SB) | [Tally Spear](https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp) | [Bittersweet](https://open.spotify.com/album/2plIofGd5etSiMkERrAeeI) | 3:28 |
 | 42 | [Undefined](https://open.spotify.com/track/4YXvbI13LqYxXkDZVzWuvv) | [youbet](https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI) | [Undefined](https://open.spotify.com/album/2sg9fzFpyvoQIfcoSTKHKd) | 3:17 |
 | 43 | [Pitch Boats](https://open.spotify.com/track/6HzOxqHnrluUQS4JVjnT3a) | [mildred](https://open.spotify.com/artist/3yKgN8NhQcYDi6CXDSYKM0) | [Pitch Boats](https://open.spotify.com/album/70O9VuLVmOTriNPq6kGh8a) | 3:31 |

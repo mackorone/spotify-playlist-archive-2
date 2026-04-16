@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Original Love + CADEJO
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,345 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,344 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Groove God's Love](https://open.spotify.com/track/34ptqwgaEtSeoteDl5y24X) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck), [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [From a South Island](https://open.spotify.com/album/2eZoAgmTbUjhoHus2nEjYo) | 5:18 |
-| 2 | [新世界](https://open.spotify.com/track/1Mep4DU7QN7or95x9FazJE) | [碎梦飞跃](https://open.spotify.com/artist/6SzldORVMPXulsJFkLqNTL) | [新世界](https://open.spotify.com/album/5UUV7WMKFQuz3NSX4SuicZ) | 4:14 |
+| 2 | [新世界](https://open.spotify.com/track/1Mep4DU7QN7or95x9FazJE) | [碎梦飞跃SleepLeaps](https://open.spotify.com/artist/6SzldORVMPXulsJFkLqNTL) | [新世界](https://open.spotify.com/album/5UUV7WMKFQuz3NSX4SuicZ) | 4:14 |
 | 3 | [Di Hotel Malibu](https://open.spotify.com/track/27ItwuFyKZbYH3hcmeDXLI) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Di Hotel Malibu](https://open.spotify.com/album/2aIHJbIgpUnEa2n0Bpt9FR) | 2:32 |
 | 4 | [請你離開](https://open.spotify.com/track/2ObQBIEZqWlpjHOCIquJpc) | [公館青少年 GGteens](https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp), [Outlander](https://open.spotify.com/artist/719QNv2dpubOiMYaxydbVq) | [請你離開](https://open.spotify.com/album/75Up5ybAQd5cnprIinAXRv) | 3:07 |
 | 5 | [Cola](https://open.spotify.com/track/3B93NLC96iNgCwIW0Z4n7J) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Cola](https://open.spotify.com/album/209FIuRImmUnuLvTQ7PQAS) | 4:01 |

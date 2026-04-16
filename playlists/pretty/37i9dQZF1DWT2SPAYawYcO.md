@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Ella Langley, The Strokes, Teddy Swims, PNAU, The Warning, Kehlani, Missy Elliot + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,917 likes - 96 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,904 likes - 96 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

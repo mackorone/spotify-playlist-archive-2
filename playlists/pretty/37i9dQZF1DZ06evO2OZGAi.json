@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 7066,
+  "num_followers": 7067,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adwyAAAAAACoD9JSsxsEGTPtdCpv+3/s",
+  "snapshot_id": "ad2DgAAAAAA5DWDHxlpfdEBEYIUCL4zI",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infectado",
-        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Dosis",
-      "url": "https://open.spotify.com/track/03TBqHj5fDznpRDIvRnmL9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos la Gente (Somos Uno)",
         "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 160306,
       "name": "El D\u00eda",
       "url": "https://open.spotify.com/track/4BqTzveFlEveHNtWZ3dAqh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infectado",
+        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Dosis",
+      "url": "https://open.spotify.com/track/03TBqHj5fDznpRDIvRnmL9"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 136081,
-      "name": "No S\u00e9 por Qu\u00e9",
-      "url": "https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos la Gente (Somos Uno)",
         "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
       },
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagando el precio",
-        "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 215076,
-      "name": "Pagando el precio",
-      "url": "https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr"
+      "duration_ms": 136081,
+      "name": "No S\u00e9 por Qu\u00e9",
+      "url": "https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 266020,
       "name": "Entre Cuatro Paredes",
       "url": "https://open.spotify.com/track/4U5Up5wS4scgfj0bhMOl2Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pagando el precio",
+        "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 215076,
+      "name": "Pagando el precio",
+      "url": "https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 195758,
-      "name": "Ella Es",
-      "url": "https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 192640,
       "name": "\u00c9chale la Culpa al Rock N' Roll",
       "url": "https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 195758,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 281757,
-      "name": "2020",
-      "url": "https://open.spotify.com/track/6kY9lyIn4FPuIse0a6Ettb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 253733,
       "name": "No Me Estoy Quemando",
       "url": "https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 281757,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/6kY9lyIn4FPuIse0a6Ettb"
     },
     {
       "added_at": null,

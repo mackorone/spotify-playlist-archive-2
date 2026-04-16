@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: muque
 
-3,159 songs - 8 day 5 hr 10 min
+3,160 songs - 8 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1607,6 +1607,7 @@
 | [Water](https://open.spotify.com/track/3u5YAg8IO5XEoiMr7HdIs4) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [SENSATION CIRCLE](https://open.spotify.com/album/3CNodmpURhtNqHwY365JZm) | 2:17 | 2026-01-13 | 2026-01-21 |
 | [Water Carrier](https://open.spotify.com/track/4l8jSXhZ3apqimhbzhiabB) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/3sNzrdLqdVxbPmHAu9Iuav) | 4:02 | 2024-03-19 | 2024-04-19 |
 | [Water Carrier](https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7) | 4:02 | 2024-03-19 | 2024-05-29 |
+| [Waterloo](https://open.spotify.com/track/4QMteoJ6BM8RrkWQWOMJEd) | [Sawao Yamanaka](https://open.spotify.com/artist/4X0lski0KnPuIyJJQSRhtF), [ELPIS](https://open.spotify.com/artist/0naaoYVMMjPwLYHSSK8HUf) | [Daydream again](https://open.spotify.com/album/38eDcULhkaQJW2ivB1r3xP) | 2:59 | 2026-04-15 |  |
 | [watermelon \(demo\)](https://open.spotify.com/track/1Pp3YC3HtXjjFDtJedRNj3) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [watermelon \(demo\)](https://open.spotify.com/album/0aTrDi5x5rI4IU7vGW6D6y) | 1:28 | 2023-12-12 | 2024-01-10 |
 | [WAZA](https://open.spotify.com/track/1KXatXM7CvCSyoiQRVjh55) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [WAZA](https://open.spotify.com/album/1qyYxL47bLnDvXW5AAAWfY) | 3:23 | 2025-05-27 | 2025-06-04 |
 | [we can't change the world without you here](https://open.spotify.com/track/0hdRkedEkFTGfgskmYOe57) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [driven by impulse](https://open.spotify.com/album/0CQuyz1VhstmZAfcvPcPf5) | 4:14 | 2023-10-03 | 2023-11-08 |
@@ -2947,7 +2948,7 @@
 | [白紙](https://open.spotify.com/track/1AFl3lIvHdcOb7iQFW59xa) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [白紙](https://open.spotify.com/album/6WXtPVulGbLQwmExfNwQVe) | 3:15 | 2024-11-13 | 2024-12-04 |
 | [百年公約](https://open.spotify.com/track/4GJKYoIEpIf1RMJlSSL9Hi) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [火星探索](https://open.spotify.com/album/4fjHgwIC74f4WJRFuOzrjS) | 3:26 | 2025-09-09 | 2025-09-18 |
 | [百花爛漫](https://open.spotify.com/track/3V03Si58cSI6Y8iZ5dRCSk) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [SCARECROWS](https://open.spotify.com/album/3FhfOnFgTha7RWkZSSEk2G) | 4:17 | 2023-09-26 | 2023-09-28 |
-| [盗まれたZIPANGU \- feat.浅井健一](https://open.spotify.com/track/2bxDjVtuza7NC3XxuOGdQ7) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Kenichi Asai](https://open.spotify.com/artist/5Gm55pqgmqzj8QbaHQTCFd) | [［SKA］SHOWDOWN](https://open.spotify.com/album/05qBkJ2QwzCp3FMoD4O1MN) | 4:03 | 2026-03-17 |  |
+| [盗まれたZIPANGU \- feat.浅井健一](https://open.spotify.com/track/2bxDjVtuza7NC3XxuOGdQ7) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Kenichi Asai](https://open.spotify.com/artist/5Gm55pqgmqzj8QbaHQTCFd) | [［SKA］SHOWDOWN](https://open.spotify.com/album/05qBkJ2QwzCp3FMoD4O1MN) | 4:03 | 2026-03-17 | 2026-04-16 |
 | [盲目だった](https://open.spotify.com/track/36QABuDItryqofQ50ncCIG) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [盲目だった](https://open.spotify.com/album/1uXjwPs53VTcNrBSeZbp4i) | 4:56 | 2024-11-19 | 2025-01-17 |
 | [直感way](https://open.spotify.com/track/1xtF0TQdneGOGeRIhmcr1v) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [直感way](https://open.spotify.com/album/1rADCXSslYaBD3wMzqZ7ph) | 4:28 | 2023-02-14 | 2023-03-08 |
 | [眠れない夜を君に](https://open.spotify.com/track/1ftEhiwyfsGsdYHyKxUj2f) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [眠れない夜を君に](https://open.spotify.com/album/7rrFcw6k2bhPTVkhswjxTk) | 4:04 | 2023-02-09 | 2023-03-03 |

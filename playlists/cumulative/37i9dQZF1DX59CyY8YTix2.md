@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: FINLANDS
 
-2,024 songs - 5 day 5 hr 23 min
+2,025 songs - 5 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1764,7 +1764,7 @@
 | [暗闇](https://open.spotify.com/track/1aT56py72Iv2nZl86wXGSu) | [バウンダリー](https://open.spotify.com/artist/3WrFAQo5JpE89ynQIvouXC) | [暗闇](https://open.spotify.com/album/1K9X2PvPQCZ0yLu0zugLcJ) | 3:17 | 2022-07-14 | 2022-07-20 |
 | [暮らし](https://open.spotify.com/track/1Bo3mAZ6d0DFzvWDdDpUOM) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [暮らし](https://open.spotify.com/album/1S6zjUA3v7mj34xGCummLo) | 2:09 | 2022-06-07 | 2022-06-13 |
 | [暴露](https://open.spotify.com/track/7Moykyl5fw6tqXdjW4MFye) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [暴露](https://open.spotify.com/album/4qFru6zhfdyb4B7BEokPOw) | 3:09 | 2023-07-11 | 2023-07-13 |
-| [曖昧なBEACH](https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [曖昧なBEACH](https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6) | 2:39 | 2024-07-30 |  |
+| [曖昧なBEACH](https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [曖昧なBEACH](https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6) | 2:39 | 2024-07-30 | 2026-04-16 |
 | [更衣室ディストピア](https://open.spotify.com/track/7K1pvJmrvgKuC0TMW73Wgi) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [更衣室ディストピア](https://open.spotify.com/album/1lMcGC8tL5QEGIFCNrXexL) | 4:16 | 2023-10-10 | 2023-10-18 |
 | [書きたい](https://open.spotify.com/track/7xXGFsnwMAaJWysKQrweo3) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Sweet.ep](https://open.spotify.com/album/2fgcE8yz8GWI7pCUWD0puM) | 3:44 | 2023-04-11 | 2023-04-13 |
 | [最後にひとつ](https://open.spotify.com/track/4IsrngG6NYJjPppWrNqwhD) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [未成線上](https://open.spotify.com/album/4a1ZiuceJCKjRm6lMdx5gT) | 4:04 | 2024-01-23 | 2024-01-25 |
@@ -1923,6 +1923,7 @@
 | [花咲く君の滑走路](https://open.spotify.com/track/4yEyxgbDM0S3J55ECcUXEz) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [花咲く君の滑走路](https://open.spotify.com/album/2Welq5m1RXmGjJNe6w47Lo) | 3:11 | 2022-05-31 | 2022-07-29 |
 | [花言葉](https://open.spotify.com/track/3RpmK5KfoRlbw2KkMUTHUx) | [水中スピカ](https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn) | [Osm](https://open.spotify.com/album/73exMw87vtPTO22xplpK31) | 4:54 | 2022-11-17 | 2022-11-19 |
 | [花道](https://open.spotify.com/track/2tgAbQ9obqi3ZNCB4tmRK0) | [Aruyue](https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW) | [光華を見つけて](https://open.spotify.com/album/7IVJErMew6EfOEuPdjWEFr) | 4:03 | 2023-12-05 | 2023-12-07 |
+| [芽吹くとき](https://open.spotify.com/track/5B5sSaCM7BjL729CNMWNw5) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [芽吹くとき](https://open.spotify.com/album/3FO16Ay7UtFOnJeH33CJ2d) | 3:39 | 2026-04-14 |  |
 | [若者たちよ](https://open.spotify.com/track/29tF221enccGogg3jgT00u) | [メとメ](https://open.spotify.com/artist/66yrLdRscnShf6ZIKqUltg) | [好物](https://open.spotify.com/album/1HTMdZ3wpf9IgFVC94IAI9) | 1:28 | 2023-05-30 | 2023-06-07 |
 | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/0wOkiindak4Dx5e4CuylaP) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/7jvzFjCae8MXblb8lmeXCm) | 4:28 | 2022-06-16 | 2022-12-02 |
 | [落陽](https://open.spotify.com/track/7zQlDzBYgpzNcAvjnBg1pT) | [レトロマイガール!!](https://open.spotify.com/artist/3dtVOi7B41MT6TKllYhfuT) | [落陽](https://open.spotify.com/album/1rUaWfCdwTApm3LzmJCX52) | 4:04 | 2024-06-25 | 2024-07-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 565 likes - 2,519 songs - 6 day 3 hr 10 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 566 likes - 2,519 songs - 6 day 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1566,7 +1566,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 1556 | [Biter Sözler](https://open.spotify.com/track/7g4Bj6YmLFotH2QEqRJuxw) | [Kaan Duman](https://open.spotify.com/artist/61cyIu7It7X2sI5hQGmGPN) | [Yavaş Yavaş](https://open.spotify.com/album/1hMIiEqCIRYa4Cwv85uBH4) | 3:53 |
 | 1557 | [Los sueños](https://open.spotify.com/track/5jxupTeXqVCshsgtOWh0xr) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:10 |
 | 1558 | [Zwischen den Zeilen](https://open.spotify.com/track/0LAXSgI1rt8ggb4MtK4tls) | [Wortspielzeit](https://open.spotify.com/artist/5HK6rQLQzK6AJ03ED3lDI2), [Marten Faber](https://open.spotify.com/artist/54YrSYkoqjBxoprntldBcj) | [Zwischen den Zeilen](https://open.spotify.com/album/5PqGAqgEFW8oLsb6YMXTfh) | 3:22 |
-| 1559 | [Feeling's](https://open.spotify.com/track/04ZnFliLB4OmK0mEO7qsx7) | [Nate Westbrook](https://open.spotify.com/artist/1KADJTMUWJYQ8ixhqYONMp) | [Feeling's](https://open.spotify.com/album/7nmtqFJYdoLoKEtKL6JGDP) | 4:15 |
+| 1559 | [Feeling's](https://open.spotify.com/track/04ZnFliLB4OmK0mEO7qsx7) | [Nate Westbrook](https://open.spotify.com/artist/1KADJTMUWJYQ8ixhqYONMp) | [Feeling's](https://open.spotify.com/album/7nmtqFJYdoLoKEtKL6JGDP) | 4:17 |
 | 1560 | [Your Love](https://open.spotify.com/track/6CaLyLAsL09Kq77eyukx8o) | [Arn\-Identified Flying Objects and Alien Friends](https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD) | [Sing\-Along Songs](https://open.spotify.com/album/44rjvUkproJfXlhdgdMZNH) | 3:08 |
 | 1561 | [Whiskey](https://open.spotify.com/track/4bC1SMELTFMRpyi622NBIG) | [Dulaney and Company](https://open.spotify.com/artist/4GQYW9UULmtxhd0WwTCyRz) | [Whiskey](https://open.spotify.com/album/14RJYB3gGSfIIPuFW0i5rx) | 5:20 |
 | 1562 | [Treetops](https://open.spotify.com/track/0djOxIPCkgHvy9NZ66uH7k) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Pastoral](https://open.spotify.com/album/0cXRHomVqT4f46Qd6RU1l3) | 1:40 |

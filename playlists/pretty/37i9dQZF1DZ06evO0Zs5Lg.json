@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 27941,
+  "num_followers": 27961,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adwyAAAAAAAV4xiP5OcbUdDgSI5wdJbE",
+  "snapshot_id": "ad2DgAAAAABx5KfdOQl86HQ7tneQmXUI",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "All The Colors",
+        "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        },
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 227137,
+      "name": "Neighborhood (with Krayzie Bone & Prof)",
+      "url": "https://open.spotify.com/track/6cLk7MbP2eN80S0wbwbyl6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/7g16JXCVFnNqKH5VVOoRLK"
       },
@@ -731,30 +755,6 @@
       "duration_ms": 213640,
       "name": "Windows",
       "url": "https://open.spotify.com/track/4ilUS5TveEEr0KFgWyYvyb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All The Colors",
-        "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Krayzie Bone",
-          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
-        },
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 227137,
-      "name": "Neighborhood (with Krayzie Bone & Prof)",
-      "url": "https://open.spotify.com/track/6cLk7MbP2eN80S0wbwbyl6"
     },
     {
       "added_at": null,

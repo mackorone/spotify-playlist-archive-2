@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,395 songs - 3 day 3 hr 51 min
+1,396 songs - 3 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,7 +523,7 @@
 | [Hit List](https://open.spotify.com/track/1dQtt3K8GyPmH7ZD1LJ2ox) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Hit List](https://open.spotify.com/album/2HFagfqzSWiinz9jqcj4Q2) | 2:46 | 2021-01-05 | 2021-07-24 |
 | [Hold It Down \(DARE\)](https://open.spotify.com/track/20Roe0czA0RVSwYhtRIFcz) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Hold It Down \(DARE\)](https://open.spotify.com/album/4GkbVNXOcQFtpClXpBaqSm) | 3:46 | 2025-11-14 |  |
 | [Hold Me Closer \- Joel Corry Remix](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hold Me Closer \(Joel Corry Remix\)](https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa) | 4:08 | 2022-12-02 | 2024-04-20 |
-| [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 | 2025-08-01 |  |
+| [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 | 2025-08-01 | 2026-04-16 |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2024-11-15 | 2025-11-04 |
 | [Hold On To Now](https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:57 | 2023-12-15 | 2024-01-25 |
 | [Hold On To Now](https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 3:57 | 2023-09-22 | 2023-11-18 |
@@ -1052,6 +1052,7 @@
 | [Shake It](https://open.spotify.com/track/1Eh1KT8TVoRISpnphcMG5W) | [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE) | [Shake It](https://open.spotify.com/album/0glqj5fGTpYXiAibo9MP9s) | 3:04 | 2020-09-21\* | 2021-01-23 |
 | [Shapes \- Oliver Smith Remix \(Mixed\)](https://open.spotify.com/track/4G8P3HXG8O3gRUcy5nv1NP) | [Maor Levi](https://open.spotify.com/artist/7iVuXpgNEl87BwdwV1L6he), [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Mat Zo Presents: 20 Years Of Anjunabeats](https://open.spotify.com/album/11y5JIlnyXqKjzkenVTfU5) | 6:25 | 2020-09-21\* | 2020-11-03 |
 | [She The Last One](https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [She The Last One](https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ) | 3:22 | 2025-03-28 | 2026-01-15 |
+| [She's A Devil](https://open.spotify.com/track/0RGoQAGnUlFkKcaCta4vmH) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [She's A Devil](https://open.spotify.com/album/0KNBzGKNzi9sS8R3TCjwQb) | 3:24 | 2026-04-10 |  |
 | [Shine](https://open.spotify.com/track/6dm4tlxk2CbSV9grb2hILi) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Shine](https://open.spotify.com/album/015OdKtK69kpEuN3jHTAw0) | 3:06 | 2020-09-21\* | 2020-10-10 |
 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-02-16 | 2024-10-13 |
 | [Shivers \(Dillon Francis Remix\) \[Main Mix\]](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Shivers \(Dillon Francis Remix\)](https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B) | 2:07 | 2022-03-11 | 2022-12-03 |
@@ -1264,7 +1265,7 @@
 | [Trust Fall](https://open.spotify.com/track/4jQZkLxVApMh4NPRWVSuP9) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp) | [Trust Fall](https://open.spotify.com/album/5rXnIb1ogWzXaVnfzkxht2) | 3:38 | 2022-06-03 | 2022-07-07 |
 | [Tukana](https://open.spotify.com/track/2u1FI6bIpe9tocTcpsUZps) | [XENDER](https://open.spotify.com/artist/73Dgjurtfyc520nagvm5lw) | [Tukana](https://open.spotify.com/album/4PKcMACD9R0ITfhpYIdlsn) | 3:23 | 2020-09-21\* | 2021-01-23 |
 | [Tung!](https://open.spotify.com/track/27htwwgxQwIXtQsFhZzvJZ) | [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [Tung!](https://open.spotify.com/album/0UVEksTJo4oCqTcEdgcTIq) | 2:51 | 2020-09-21\* | 2021-01-23 |
-| [Turbo Speed](https://open.spotify.com/track/0j5CaQ9881LxFM8Cwh9JuH) | [Control Alt Delete](https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Turbo Speed](https://open.spotify.com/album/0K72EPIuZhMavGaAjIvuUX) | 2:48 | 2026-03-13 |  |
+| [Turbo Speed](https://open.spotify.com/track/0j5CaQ9881LxFM8Cwh9JuH) | [Control Alt Delete](https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd) | [Turbo Speed](https://open.spotify.com/album/0K72EPIuZhMavGaAjIvuUX) | 2:48 | 2026-03-13 |  |
 | [TURMA](https://open.spotify.com/track/77AOawZpseyMrWqyA4TcE0) | [Twogangs](https://open.spotify.com/artist/6UzVrAkrAB6heSJG2mlRV4) | [TURMA](https://open.spotify.com/album/4bhqmRl8t98pt4CSPoegcL) | 3:00 | 2020-10-10 | 2021-03-26 |
 | [Turn It Up](https://open.spotify.com/track/0yrlRdgnfEFvk5zlZ9yCKy) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Turn It Up](https://open.spotify.com/album/6u61gpSi8MpKXK0JBEQTPB) | 2:52 | 2020-09-21\* | 2021-01-23 |
 | [Turn It Up](https://open.spotify.com/track/3V8NtZAKzVhM6XexfKl0fq) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [All Yours](https://open.spotify.com/album/3onzNjfLd2w7n3CcOCDspZ) | 4:15 | 2025-11-03 | 2025-12-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: DaBaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,804 likes - 76 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,794 likes - 76 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 18 | [SAME SH!T](https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [SAME SH!T](https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d) | 3:13 |
 | 19 | [Wacha Trucha](https://open.spotify.com/track/5eRIQwGFRD7NfdIanG6GNB) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Wacha Trucha](https://open.spotify.com/album/1vs4m5Ys0TJHTmsH69Qsjl) | 2:29 |
 | 20 | [Still Virgil](https://open.spotify.com/track/4YXtodBrujUCJJlP2rjk3k) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Still Virgil](https://open.spotify.com/album/1j0XqfL2CKaMI073ATSBRw) | 2:27 |
-| 21 | [2EAZY](https://open.spotify.com/track/109kqw1njTghISsOY8c1YF) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H) | [2EAZY](https://open.spotify.com/album/4mDcKwiEyYRpjdVgQAkLFx) | 2:16 |
+| 21 | [2EAZY](https://open.spotify.com/track/109kqw1njTghISsOY8c1YF) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H) | [2EAZY](https://open.spotify.com/album/4mDcKwiEyYRpjdVgQAkLFx) | 2:15 |
 | 22 | [Ibiza \(feat\. Blade Brown\)](https://open.spotify.com/track/6ZUdxfXm45SKQ5WcFA2OGS) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Blade Brown](https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK), [Carns Hill](https://open.spotify.com/artist/0BKkDZjC4e9k36ZvLM3DAm) | [Ibiza \(feat\. Blade Brown\)](https://open.spotify.com/album/28ZXQStyaSyp1rMm027ofw) | 2:28 |
 | 23 | [Taking It There](https://open.spotify.com/track/4uMTHzKxik80Xb2s22NOmY) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Carns Hill](https://open.spotify.com/artist/0BKkDZjC4e9k36ZvLM3DAm), [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy) | [Taking It There](https://open.spotify.com/album/6NEG3us567xxEGXjwIj37h) | 2:03 |
 | 24 | [Must Be](https://open.spotify.com/track/4jYwgNne9MLJjkoQ3KTyX9) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Must Be](https://open.spotify.com/album/6AFChJzqPoA4WOpZVqtZTW) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Holly Humberstone, Teddy Swims, Kehlani and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,506 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,473 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 44 | [Kill The Buddha](https://open.spotify.com/track/2bsusDVxGFVWKZec5tjAP2) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [Kill The Buddha](https://open.spotify.com/album/6JmvSaDVGCo8f07S4OMbUy) | 3:33 |
 | 45 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 |
 | 46 | [Talking Nonsense](https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Talking Nonsense](https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy) | 5:39 |
-| 47 | [Rude \(feat\. Kojaque\)](https://open.spotify.com/track/7d13dvKQT70XJvmtw6xCUX) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Rude \(feat\. Kojaque\)](https://open.spotify.com/album/1Xom9SIqeNlotFWsI3XSee) | 2:50 |
+| 47 | [Rude](https://open.spotify.com/track/7d13dvKQT70XJvmtw6xCUX) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Rude](https://open.spotify.com/album/1Xom9SIqeNlotFWsI3XSee) | 2:50 |
 | 48 | [Escape](https://open.spotify.com/track/2TuGDQpH0bN6kSBx8YrXhe) | [Jordan Peak](https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk) | [Escape](https://open.spotify.com/album/0YVAn2TP4lUzjFhq6Z89nD) | 2:41 |
 | 49 | [Ting Loud \(with Masicka\)](https://open.spotify.com/track/0SXhAXeKf5QuSsCUWoxRsH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Ting Loud \(with Masicka\)](https://open.spotify.com/album/46RyBz5z8NqR7x7wCJuKPX) | 3:22 |
 | 50 | [Freaky 1](https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Freaky 1](https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS) | 3:52 |

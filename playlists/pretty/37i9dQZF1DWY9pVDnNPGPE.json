@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 11398,
+  "num_followers": 11429,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,18 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 197613,
-      "name": "LOVE COUNTDOWN (Feat. Wonstein)",
-      "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
+      "duration_ms": 188369,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -131,18 +127,22 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
       "artists": [
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 188369,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
+      "duration_ms": 197613,
+      "name": "LOVE COUNTDOWN (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -303,30 +303,6 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
-        "name": "HAAN X Chan : Synergy",
-        "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
-      },
-      "artists": [
-        {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        },
-        {
-          "name": "Peakboy (\ud53d\ubcf4\uc774)",
-          "url": "https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU"
-        }
-      ],
-      "duration_ms": 194625,
-      "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
-      "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
-    },
-    {
-      "added_at": "2026-04-14 02:32:27",
-      "album": {
         "name": "Good Day (Feat. Jay Park, 1iL)",
         "url": "https://open.spotify.com/album/432CGZ4tKvuyizD5MSW5iW"
       },
@@ -347,6 +323,30 @@
       "duration_ms": 218000,
       "name": "Good Day (Feat. Jay Park, 1iL)",
       "url": "https://open.spotify.com/track/4lveRzAWbl6pNLITlfiW9A"
+    },
+    {
+      "added_at": "2026-04-14 02:32:27",
+      "album": {
+        "name": "HAAN X Chan : Synergy",
+        "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        },
+        {
+          "name": "Peakboy (\ud53d\ubcf4\uc774)",
+          "url": "https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU"
+        }
+      ],
+      "duration_ms": 194625,
+      "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
+      "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -451,8 +451,8 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
-        "name": "A flower bookmark, Pt. 2",
-        "url": "https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 224791,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B"
+      "duration_ms": 188293,
+      "name": "Flu",
+      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -531,8 +531,8 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "A flower bookmark, Pt. 2",
+        "url": "https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI"
       },
       "artists": [
         {
@@ -540,25 +540,9 @@
           "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 188293,
-      "name": "Flu",
-      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
-    },
-    {
-      "added_at": "2026-04-14 02:32:27",
-      "album": {
-        "name": "Wherever",
-        "url": "https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1"
-      },
-      "artists": [
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        }
-      ],
-      "duration_ms": 171251,
-      "name": "Wherever",
-      "url": "https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF"
+      "duration_ms": 224791,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -575,6 +559,22 @@
       "duration_ms": 261120,
       "name": "Je T'aime",
       "url": "https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w"
+    },
+    {
+      "added_at": "2026-04-14 02:32:27",
+      "album": {
+        "name": "Wherever",
+        "url": "https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "duration_ms": 171251,
+      "name": "Wherever",
+      "url": "https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
-        "name": "The Practical Guide to Love (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/1ShTAf3wQ5LKC3eKMmgec7"
-      },
-      "artists": [
-        {
-          "name": "MRCH",
-          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "I Feel Special",
-      "url": "https://open.spotify.com/track/2plWIXE3OlN3auMLlOaQNQ"
-    },
-    {
-      "added_at": "2026-04-14 02:32:27",
-      "album": {
         "name": "Puberty Book\u2160 Bom",
         "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
-        "name": "From JOY, with Love - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV"
+        "name": "The Practical Guide to Love (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/1ShTAf3wQ5LKC3eKMmgec7"
       },
       "artists": [
         {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
         }
       ],
-      "duration_ms": 196000,
-      "name": "La Vie En Bleu",
-      "url": "https://open.spotify.com/track/6IMhhjsF1OCCNkPXE72E4y"
+      "duration_ms": 238000,
+      "name": "I Feel Special",
+      "url": "https://open.spotify.com/track/2plWIXE3OlN3auMLlOaQNQ"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -747,6 +731,22 @@
       "duration_ms": 224394,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
+    },
+    {
+      "added_at": "2026-04-14 02:32:27",
+      "album": {
+        "name": "From JOY, with Love - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "La Vie En Bleu",
+      "url": "https://open.spotify.com/track/6IMhhjsF1OCCNkPXE72E4y"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
+        "name": "Crazy Weather (Our Pie X LUCY)",
+        "url": "https://open.spotify.com/album/5YgVYVi56JNU6XrIcnHWFW"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Crazy Weather (Our Pie X LUCY)",
+      "url": "https://open.spotify.com/track/1HZ5QwyJDROxUUpypZJvgg"
+    },
+    {
+      "added_at": "2026-04-14 02:32:27",
+      "album": {
         "name": "Our Beloved BoA #4 - SM STATION",
         "url": "https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 217533,
       "name": "Milky Way",
       "url": "https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3"
-    },
-    {
-      "added_at": "2026-04-14 02:32:27",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "17",
-      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
-        "name": "Crazy Weather (Our Pie X LUCY)",
-        "url": "https://open.spotify.com/album/5YgVYVi56JNU6XrIcnHWFW"
+        "name": "17",
+        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
       },
       "artists": [
         {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
         }
       ],
-      "duration_ms": 223093,
-      "name": "Crazy Weather (Our Pie X LUCY)",
-      "url": "https://open.spotify.com/track/1HZ5QwyJDROxUUpypZJvgg"
+      "duration_ms": 170533,
+      "name": "17",
+      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
     },
     {
       "added_at": "2026-04-14 02:32:27",

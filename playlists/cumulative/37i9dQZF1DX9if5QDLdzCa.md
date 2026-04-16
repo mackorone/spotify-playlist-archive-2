@@ -4,7 +4,7 @@
 
 > Drift to sleep with the calm sound of crashing waves on the beach.
 
-279 songs - 13 hr 31 min
+280 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Serenity Crests \(Ocean\)](https://open.spotify.com/track/5LqBy30T9wWRSRJaWLM1Ae) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Serenity Crests \(Ocean\)](https://open.spotify.com/album/6kwM9cEjN7yMb3n7E8Q0fC) | 4:14 | 2026-04-02 |  |
 | [Shivering Shores \(Ocean\)](https://open.spotify.com/track/00IJSFQ8lYK26Z6dLDxXLq) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Shivering Shores \(Ocean\)](https://open.spotify.com/album/7cg1RH90leSTTgoHjbn0kf) | 3:40 | 2026-04-02 |  |
 | [Shore Roaring and Undulating](https://open.spotify.com/track/2SMaQVNDeKXGhoh6JHsBmy) | [World Recorders](https://open.spotify.com/artist/1kG5S2MLYLuZUFlQb72rxE) | [Soft Ocean Waves](https://open.spotify.com/album/6hV7AFtm1OBdtnGvKNH5u9) | 2:41 | 2024-03-25 |  |
+| [Shore Thing](https://open.spotify.com/track/2hnWLmxQx4DkOq1odzBVkz) | [Bona Nochy](https://open.spotify.com/artist/7g1GgBFicHlx2TFzckGhfL) | [Shore Thing](https://open.spotify.com/album/0an4jQFmHPfJrod5eqkhoX) | 2:17 | 2026-04-02 |  |
 | [Singing Sea](https://open.spotify.com/track/2tJquhW3l29M39zPK7bFda) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Ocean Sounds Vol\. 2](https://open.spotify.com/album/07whyFvVINvAXzWJEKlPdJ) | 2:36 | 2021-11-10 |  |
 | [Siren's Lullaby of the Waves](https://open.spotify.com/track/01AnDwC3P2GgKcaFc0ELNW) | [Big Sounds](https://open.spotify.com/artist/1JLSWENZYA41LY8C3RfbnK) | [Oceanic Dreamcatcher](https://open.spotify.com/album/4mHb7NSKdeNBsnM2jBmzLF) | 2:09 | 2025-07-21 |  |
 | [Sky Waves](https://open.spotify.com/track/4dHtg5BstRQexbgb3nJs1h) | [Earth Rotation](https://open.spotify.com/artist/7FPgFjMgODapgQxBbhyuv0) | [A Scent Of Waves](https://open.spotify.com/album/3oILcu1IH7r5HpyPD9h9go) | 2:29 | 2021-11-10 | 2026-04-08 |
@@ -187,7 +188,7 @@
 | [Sleep Tight at the Beach](https://open.spotify.com/track/2LfeJE5IQ8scLCSQfePWHC) | [Big Sounds](https://open.spotify.com/artist/1JLSWENZYA41LY8C3RfbnK) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:09 | 2021-11-10 | 2023-06-20 |
 | [Sleep: Good Night Waves](https://open.spotify.com/track/24gfzgiimYXIf2gxQxF4cf) | [Lullaby Waves](https://open.spotify.com/artist/7AAUTALWYtiP3o5TUHHyjj) | [Good Night Waves](https://open.spotify.com/album/4tcp4jrPaRqqF9AS6wKI6X) | 2:23 | 2021-11-10 | 2023-06-20 |
 | [Sleep: Soft Ocean](https://open.spotify.com/track/6HV3zhmqLZ6kL9afSxn2t9) | [Ocean Sounds ACE](https://open.spotify.com/artist/4syiBrG4nPb9SCaHgyAHL8) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:29 | 2021-11-10 | 2023-06-20 |
-| [Sleeping by the Ocean](https://open.spotify.com/track/7BJ0UIwJSeVHKzvfNzGIkv) | [Ocean Currents](https://open.spotify.com/artist/387ZQQxQ8isrALG6HeDDEZ) | [Soothing Waves](https://open.spotify.com/album/3aVmiURRbh3c65al5xaDuU) | 2:56 | 2021-11-10 |  |
+| [Sleeping by the Ocean](https://open.spotify.com/track/7BJ0UIwJSeVHKzvfNzGIkv) | [Ocean Currents](https://open.spotify.com/artist/387ZQQxQ8isrALG6HeDDEZ) | [Soothing Waves](https://open.spotify.com/album/3aVmiURRbh3c65al5xaDuU) | 2:56 | 2021-11-10 | 2026-04-16 |
 | [Sleepy Waves](https://open.spotify.com/track/0Pi0y5q0sWjSucwQR5qqvg) | [World Recorders](https://open.spotify.com/artist/1kG5S2MLYLuZUFlQb72rxE) | [Sleepy Waves](https://open.spotify.com/album/0gq2bdNAUry8TOOCtPjXsa) | 3:11 | 2021-11-10 |  |
 | [Slow Coast](https://open.spotify.com/track/2CMUq4tgUWERePRV84NBMp) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Cold Water Warmth](https://open.spotify.com/album/6wWoRDBPOJJdUFI2hgcM7K) | 2:44 | 2026-04-02 |  |
 | [Small Ocean Waves](https://open.spotify.com/track/4h2HItUb5KqqTYmndwZvMC) | [Hawaiian Explosion](https://open.spotify.com/artist/6UY5lHIUz2dzWHwyGy2DMj) | [Island Waves](https://open.spotify.com/album/6jrW7MXGhQoWkfAajd2Fms) | 3:07 | 2021-11-10 |  |

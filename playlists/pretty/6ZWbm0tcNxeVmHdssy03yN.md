@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 51,716 likes - 95 songs - 4 hr 47 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 51,732 likes - 95 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 52 | [CHAMPS](https://open.spotify.com/track/71SAwx1cpkeCqZbh8MVaHn) | [kayeonwun](https://open.spotify.com/artist/2LWuiriYyZn5yvg4ejXEBc) | [CHAMPS](https://open.spotify.com/album/3QdIyikkwRwqbx1V6Rg9fE) | 1:58 |
 | 53 | [A Little Love](https://open.spotify.com/track/7cPUpmFJIUgrX7IPJmDR0L) | [East of Indigo](https://open.spotify.com/artist/3FFF05AP4ymKxFgQCLlvIg) | [A Little Love](https://open.spotify.com/album/4uwXpMSFFG6yVD3UJFGK5a) | 2:46 |
 | 54 | [Hear The Sound](https://open.spotify.com/track/6eASvtyVwCJGklq7usG3mM) | [Youngr](https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5) | [Hear The Sound](https://open.spotify.com/album/5MqhWtOKVC9h22IRR0mxHR) | 4:51 |
-| 55 | [Soul](https://open.spotify.com/track/5DVtmYkC3Mt9sh3TNkpYyf) | [Yung Fume](https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o) | [Soul](https://open.spotify.com/album/2NIbDYXi2lxZ2liew1SQo6) | 3:17 |
+| 55 | [SOUL](https://open.spotify.com/track/5DVtmYkC3Mt9sh3TNkpYyf) | [Yung Fume](https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o) | [SOUL](https://open.spotify.com/album/2NIbDYXi2lxZ2liew1SQo6) | 3:17 |
 | 56 | [FRACTION](https://open.spotify.com/track/1mqwLn3BbWNTEsO2ppWcUT) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [FRACTION](https://open.spotify.com/album/0QHZKtOlIIoou5L9ycJC0x) | 2:09 |
 | 57 | [ALL THORNS NO ROSES](https://open.spotify.com/track/4zAsrsEnRA3JwsTPDibT58) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [ALL THORNS NO ROSES](https://open.spotify.com/album/7whk2qSdvWEqv7zO4FX4HH) | 3:43 |
 | 58 | [Do You Want Some](https://open.spotify.com/track/17BIsH2JXIky3wDFyUspjS) | [N8tive](https://open.spotify.com/artist/3TFkBnOgExKva6GvdF2ZL2) | [Do You Want Some](https://open.spotify.com/album/43V83POXO8LjplIoGdNj67) | 2:15 |

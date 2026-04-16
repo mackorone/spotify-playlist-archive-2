@@ -770,7 +770,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 157241,
       "name": "Athra Ghora",
       "url": "https://open.spotify.com/track/0oEHDBB5BYIQeK5kfMP058"
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 148604,
       "name": "Dera Sheran Da",
       "url": "https://open.spotify.com/track/2bmvOTZFw1ez0eION36Vej"
@@ -7428,6 +7428,24 @@
     {
       "album": {
         "name": "Sarpanchi",
+        "url": "https://open.spotify.com/album/2yf5s25GEppaGEqH1nOMMc"
+      },
+      "artists": [
+        {
+          "name": "Jass Bajwa",
+          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "Sarpanchi",
+      "url": "https://open.spotify.com/track/5H8NbpBG1GQTtkf2QPPGNj"
+    },
+    {
+      "album": {
+        "name": "Sarpanchi",
         "url": "https://open.spotify.com/album/5TnWS9WFGm1koOsphWNrEG"
       },
       "artists": [
@@ -7954,7 +7972,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 170342,
       "name": "SUPREME",
       "url": "https://open.spotify.com/track/5nUAZKw9lVbhKfWvWc5hFm"

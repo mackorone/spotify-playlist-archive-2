@@ -251,6 +251,32 @@
     },
     {
       "album": {
+        "name": "Glass, P.: Violin Concerto / Company / Prelude From Akhnaten",
+        "url": "https://open.spotify.com/album/0FgDQQlTe4bTHi0v7S86Mf"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Ulster Orchestra",
+          "url": "https://open.spotify.com/artist/6ibvdCG0uLZYYq4HpUmXQ1"
+        },
+        {
+          "name": "Takuo Yuasa",
+          "url": "https://open.spotify.com/artist/2RUifEObHtCS1mnhPOyRFG"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116360,
+      "name": "Company: II. -",
+      "url": "https://open.spotify.com/track/6Rrx8TuUf7txxvS2X9r7yD"
+    },
+    {
+      "album": {
         "name": "Pleasure Beast",
         "url": "https://open.spotify.com/album/66IEmux2d5OFfbdVbG8zp3"
       },
@@ -1436,6 +1462,24 @@
       "duration_ms": 977227,
       "name": "Ugly and Vengeful",
       "url": "https://open.spotify.com/track/6t9eDPVxlTcFrsibjpPEFd"
+    },
+    {
+      "album": {
+        "name": "Apollo: Atmospheres And Soundtracks (Extended Edition)",
+        "url": "https://open.spotify.com/album/1Km58i317Pm5bQR3wPHKcO"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269666,
+      "name": "Under Stars - Remastered 2019",
+      "url": "https://open.spotify.com/track/2iOzx4XrUNl9UiS0SdghEQ"
     },
     {
       "album": {

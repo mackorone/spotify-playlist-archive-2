@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,210 songs - 2 day 19 hr 26 min
+1,211 songs - 2 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [BOUNCE](https://open.spotify.com/track/0x4k0Zc1XDU3bJj5zuxRUi) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [BOUNCE](https://open.spotify.com/album/60HooEaxdydmVDo1QALKX9) | 1:44 | 2024-01-10 | 2024-04-03 |
 | [Brain Busta](https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Brain Busta](https://open.spotify.com/album/3wSDZ6NTXZXwnf7PToXHP1) | 2:48 | 2024-12-04 | 2025-03-13 |
 | [Brain On Drugs](https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Brain On Drugs](https://open.spotify.com/album/6sJSCStldFAJWG0EHtLxYz) | 3:34 | 2024-08-19 | 2024-11-09 |
+| [Break It](https://open.spotify.com/track/3jiq4HBxQjEjOp1ZvOTGge) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Break It](https://open.spotify.com/album/42rRSmWPbd3NQIltYKwSYl) | 2:53 | 2026-04-15 |  |
 | [Break It Down](https://open.spotify.com/track/1KY425EZEJPqgeisOplYGJ) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Break It Down](https://open.spotify.com/album/6kR6ZW6AdWViJksGqmLzEO) | 2:41 | 2023-06-28 | 2023-09-26 |
 | [BREAK THROUGH](https://open.spotify.com/track/5dWiTTEHrm1JKuU6Ae0ytl) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [BREAK THROUGH / RADIATE](https://open.spotify.com/album/0UmwhMlIhRLcKk6UGTSMlV) | 3:15 | 2025-04-17 | 2025-07-10 |
 | [BREAK YOUR NECK](https://open.spotify.com/track/4OB9Vpew2T1eDEh8kGarFp) | [DJ Mii](https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m) | [BREAK YOUR NECK](https://open.spotify.com/album/4nIB5DVnc2ryn9UGX4JdWH) | 2:03 | 2026-03-06 |  |

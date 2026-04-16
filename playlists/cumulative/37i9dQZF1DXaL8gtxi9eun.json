@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u062c\u0645\u062f \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a \u0643\u0644\u0647\u0627 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0648\u0627\u062d\u062f\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u064f\u0633\u0644\u0650\u0645   ",
+  "description": "\u0623\u062c\u0645\u062f \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a \u0643\u0644\u0647\u0627 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0648\u0627\u062d\u062f\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0623\u0646\u063a\u0627\u0645   ",
   "name": "\u0628\u0648\u0628 \u0645\u0635\u0631\u064a",
   "tracks": [
+    {
+      "album": {
+        "name": "(\u064a\u0627 \u062d\u0628\u064a\u0628\u062a\u064a ) \u0642\u0644\u0628\u064a \u0645\u062d\u0627\u0631\u0628 [\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 | \u0648\u0646\u0646\u0633\u0649 \u0627\u0644\u0644\u064a \u0643\u0627\u0646]",
+        "url": "https://open.spotify.com/album/11HjxEynMj9YN8A8vdduaz"
+      },
+      "artists": [
+        {
+          "name": "Ameen Khattab",
+          "url": "https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253098,
+      "name": "(\u064a\u0627 \u062d\u0628\u064a\u0628\u062a\u064a ) \u0642\u0644\u0628\u064a \u0645\u062d\u0627\u0631\u0628 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 | \u0648\u0646\u0646\u0633\u0649 \u0627\u0644\u0644\u064a \u0643\u0627\u0646",
+      "url": "https://open.spotify.com/track/7jZWRnAEAS4hioUh7mlbbH"
+    },
     {
       "album": {
         "name": "00:00",
@@ -3620,7 +3638,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 179807,
       "name": "Mesh Adra",
       "url": "https://open.spotify.com/track/25c23utGu13Qt2krW1A0bE"
@@ -4341,6 +4359,24 @@
     },
     {
       "album": {
+        "name": "Sebtely Alby",
+        "url": "https://open.spotify.com/album/5siBJGS4A5yxVDNkzo3oIk"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242470,
+      "name": "Sebtely Alby",
+      "url": "https://open.spotify.com/track/4737Q6tMY1c8uSxNHMVQO7"
+    },
+    {
+      "album": {
         "name": "Seebk Enta",
         "url": "https://open.spotify.com/album/2L9QugHuAfWqw2rlG4CGPO"
       },
@@ -4554,7 +4590,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 185116,
       "name": "TARQEES",
       "url": "https://open.spotify.com/track/36Yh3W7CVaM6ccGntNTDO2"
@@ -7774,6 +7810,10 @@
         {
           "name": "Mahmoud El Esseily",
           "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        },
+        {
+          "name": "Sabren Elnegily",
+          "url": "https://open.spotify.com/artist/235oUgJq1DUHH7PXVmI7oJ"
         }
       ],
       "date_added": "2026-04-08",

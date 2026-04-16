@@ -1755,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "Escape Through Music 2021-2025",
+        "url": "https://open.spotify.com/album/4GR0pnEmPh492b5KFyPfSv"
+      },
+      "artists": [
+        {
+          "name": "Kleerup",
+          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272480,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1SXc5yCjwMjp0v7nNmESNs"
+    },
+    {
+      "album": {
         "name": "Din parfym",
         "url": "https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ"
       },
@@ -3594,7 +3612,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 173447,
       "name": "Henrys gitarr",
       "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
@@ -3912,6 +3930,24 @@
       "duration_ms": 200655,
       "name": "Hurts",
       "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
+    },
+    {
+      "album": {
+        "name": "Huset har rasat",
+        "url": "https://open.spotify.com/album/5oadC7J0J3KNZ2Bi18t69T"
+      },
+      "artists": [
+        {
+          "name": "Staffan Hellstrand",
+          "url": "https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205786,
+      "name": "Huset har rasat",
+      "url": "https://open.spotify.com/track/6wETYM9zLibxsj7IPtA7Cp"
     },
     {
       "album": {
@@ -7216,7 +7252,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 269520,
       "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
       "url": "https://open.spotify.com/track/1i3moAuSbui5eTUiUgRyT2"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance tracks from independent artists & labels. Featuring Osmosis Jones. Curated by human Spotify editors. \n",
+  "description": "The best new dance tracks from independent artists & labels. Featuring Collect 200. Curated by human Spotify editors. \n",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -10014,7 +10014,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 298750,
       "name": "CARGO",
       "url": "https://open.spotify.com/track/3VomJjy7ugmCAXYbpjLwLr"
@@ -18518,7 +18518,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 227337,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/2nWpOoHMnIDHeK7CTnx7VG"
@@ -24620,7 +24620,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 139384,
       "name": "GORILLA",
       "url": "https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2"
@@ -28566,7 +28566,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 211019,
       "name": "I Get This Feeling",
       "url": "https://open.spotify.com/track/75sXo0wSGxpVC1kizgecZz"
@@ -30392,6 +30392,24 @@
       "duration_ms": 149647,
       "name": "Insane",
       "url": "https://open.spotify.com/track/63MoZqC4ah8JuTyktm0HNr"
+    },
+    {
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/0x91e6MfHNAyBaytxCFV4c"
+      },
+      "artists": [
+        {
+          "name": "Elroy (AUS)",
+          "url": "https://open.spotify.com/artist/6DiRok1NmemDiXM5SVIgXp"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223384,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/44UvUDywsREUPPGuJF0z73"
     },
     {
       "album": {
@@ -32298,6 +32316,24 @@
       "duration_ms": 331000,
       "name": "Kilos",
       "url": "https://open.spotify.com/track/3S8s3Y9OfkxL1wA2HRCoPF"
+    },
+    {
+      "album": {
+        "name": "Kinesis / Get Up N Dance",
+        "url": "https://open.spotify.com/album/2rr3B4LbCkTqk5RY6T9jsJ"
+      },
+      "artists": [
+        {
+          "name": "Jordan George",
+          "url": "https://open.spotify.com/artist/4AVZ1AsKWbzEc50djOcn2w"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "Kinesis - Short Mix",
+      "url": "https://open.spotify.com/track/2JiASV4tYTbbB45lUJySdq"
     },
     {
       "album": {
@@ -36190,6 +36226,28 @@
       "duration_ms": 258320,
       "name": "Mainframe",
       "url": "https://open.spotify.com/track/4GpRdW1ljkq1xoo0S94cOc"
+    },
+    {
+      "album": {
+        "name": "MAKE DAT BOOTY",
+        "url": "https://open.spotify.com/album/0EGDaeH1FcgGCc4XkCsoyn"
+      },
+      "artists": [
+        {
+          "name": "KE-YEN",
+          "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
+        },
+        {
+          "name": "Respondent",
+          "url": "https://open.spotify.com/artist/3mrk91thNdLlVpdXnCdKpK"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212747,
+      "name": "MAKE DAT BOOTY",
+      "url": "https://open.spotify.com/track/5sGA0qlCU2usW6Mws8icCu"
     },
     {
       "album": {
@@ -46033,6 +46091,24 @@
     },
     {
       "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
+    },
+    {
+      "album": {
         "name": "HANDSOME GANG: Every Second We Try",
         "url": "https://open.spotify.com/album/2qXEzsvihC6CHwkHw0qOga"
       },
@@ -53891,6 +53967,28 @@
     },
     {
       "album": {
+        "name": "Summer Card",
+        "url": "https://open.spotify.com/album/3od5UAhncfYXEiHwkYqk0K"
+      },
+      "artists": [
+        {
+          "name": "SDK",
+          "url": "https://open.spotify.com/artist/7hN6wFQYdWHD7KnfV0CVnA"
+        },
+        {
+          "name": "Simone De Kunovich",
+          "url": "https://open.spotify.com/artist/6qEYuBlZWeehY6RxWCpA0r"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366502,
+      "name": "Summer Card",
+      "url": "https://open.spotify.com/track/3Q0LhQkqusn71J7kkxcIZS"
+    },
+    {
+      "album": {
         "name": "Summer Ghost",
         "url": "https://open.spotify.com/album/0F1GxhsuQCQUjNNGu12hSe"
       },
@@ -57664,7 +57762,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 216774,
       "name": "think & dream",
       "url": "https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Bye Parula
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,851 likes - 90 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,859 likes - 90 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 11 | [Ich streichle Tauben](https://open.spotify.com/track/4OrbLteaAmATTXbDyNnP8Z) | [SALÒ](https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz) | [Hardcore](https://open.spotify.com/album/32XC1Rvc87JaR5YqCNNj9U) | 3:22 |
 | 12 | [Château Brute](https://open.spotify.com/track/5v3GSpHEm5fHqZhndz0y4B) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [Château Brute](https://open.spotify.com/album/2IHLwyoNxJhZ9BgeMsAZH8) | 2:44 |
 | 13 | [Already There](https://open.spotify.com/track/0cU0j0Qh3op4FxO7Ai310h) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Already There](https://open.spotify.com/album/7sM8cK4wMWZBvZaPPfNw1b) | 3:50 |
-| 14 | [Nothing Matters \(feat\. Maresz\)](https://open.spotify.com/track/6GzUTy6FxAaSVEvlxJXgFB) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Maresz](https://open.spotify.com/artist/0sVLsjXKoUaUTQFUt2bRaW) | [Nothing Matters \(feat\. Maresz\)](https://open.spotify.com/album/68H5ipiHhUvkNO03s9n0oz) | 3:02 |
+| 14 | [Nothing Matters](https://open.spotify.com/track/6GzUTy6FxAaSVEvlxJXgFB) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Maresz](https://open.spotify.com/artist/0sVLsjXKoUaUTQFUt2bRaW) | [Nothing Matters](https://open.spotify.com/album/68H5ipiHhUvkNO03s9n0oz) | 3:02 |
 | 15 | [Wasted On Myself](https://open.spotify.com/track/5FrxdzVGEPxdwmARNuInnJ) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe), [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [Wasted On Myself](https://open.spotify.com/album/48EdvnwFvbu5imYvqLsawh) | 2:51 |
 | 16 | [Focus Disease](https://open.spotify.com/track/30lcg7EBdJ8Gnu1KPdwIyG) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v) | [Focus Disease](https://open.spotify.com/album/3seuApr7dEsbVStb9JPy1L) | 3:00 |
 | 17 | [Chance to Bleed](https://open.spotify.com/track/6jGus0lgXFwZGQ9aNAhOFw) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Chance to Bleed](https://open.spotify.com/album/6YaH4jJhfaOlc5XyLqFBrx) | 4:56 |

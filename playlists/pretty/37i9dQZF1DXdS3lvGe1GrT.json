@@ -1,13 +1,77 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Buzzy Lee",
-  "num_followers": 97024,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Sean Solomon",
+  "num_followers": 97038,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG24+d71WFn02jI6CTosZlJ5mvcC",
+  "snapshot_id": "AAAAAGdxXIMEgc5KjCzasWHGQ4ze/0iy",
   "tracks": [
+    {
+      "added_at": "2026-04-15 17:14:04",
+      "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/69yBujeTPGK2rC2qFcdS9X"
+      },
+      "artists": [
+        {
+          "name": "Sean Solomon",
+          "url": "https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3"
+        }
+      ],
+      "duration_ms": 200293,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/4tGVYB2GmhidTUN7hv6Rwt"
+    },
+    {
+      "added_at": "2026-04-15 17:14:04",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0Wi1YKnlOHLUm3AlA7dGGW"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "duration_ms": 248148,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ"
+    },
+    {
+      "added_at": "2026-04-15 17:14:04",
+      "album": {
+        "name": "Nothing To Me",
+        "url": "https://open.spotify.com/album/2xYIVVwhNQJyMYfDmUPIFL"
+      },
+      "artists": [
+        {
+          "name": "Minna",
+          "url": "https://open.spotify.com/artist/4Qk9F01tP4FfjkBam8LfNL"
+        }
+      ],
+      "duration_ms": 241962,
+      "name": "Nothing To Me",
+      "url": "https://open.spotify.com/track/6LqCRU03LUuicE0Y3IGzWG"
+    },
+    {
+      "added_at": "2026-04-15 17:14:04",
+      "album": {
+        "name": "Pearl Cloud Song",
+        "url": "https://open.spotify.com/album/5CFZFveOSHzFGL3UCekS38"
+      },
+      "artists": [
+        {
+          "name": "Juni Habel",
+          "url": "https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ"
+        }
+      ],
+      "duration_ms": 260464,
+      "name": "Pearl Cloud Song",
+      "url": "https://open.spotify.com/track/2GOC8SnvzxwJS66nKVNaBC"
+    },
     {
       "added_at": "2026-04-01 16:00:36",
       "album": {
@@ -39,6 +103,54 @@
       "duration_ms": 336000,
       "name": "Friendship Is The Truth",
       "url": "https://open.spotify.com/track/1cS1w3qvaehzsKCnLatbW4"
+    },
+    {
+      "added_at": "2026-04-15 17:14:04",
+      "album": {
+        "name": "Pitch Boats",
+        "url": "https://open.spotify.com/album/70O9VuLVmOTriNPq6kGh8a"
+      },
+      "artists": [
+        {
+          "name": "mildred",
+          "url": "https://open.spotify.com/artist/3yKgN8NhQcYDi6CXDSYKM0"
+        }
+      ],
+      "duration_ms": 211670,
+      "name": "Pitch Boats",
+      "url": "https://open.spotify.com/track/6HzOxqHnrluUQS4JVjnT3a"
+    },
+    {
+      "added_at": "2026-04-15 17:14:04",
+      "album": {
+        "name": "Another Time",
+        "url": "https://open.spotify.com/album/0t0aZd1jbEiYUzUiKPXiNn"
+      },
+      "artists": [
+        {
+          "name": "Zoh Amba",
+          "url": "https://open.spotify.com/artist/3Xfp6T1hoOKpC4Ywcz93EL"
+        }
+      ],
+      "duration_ms": 181537,
+      "name": "Another Time",
+      "url": "https://open.spotify.com/track/77Ukfo8YLUQg17odJF4brC"
+    },
+    {
+      "added_at": "2026-04-15 17:14:04",
+      "album": {
+        "name": "Crackled Grounds",
+        "url": "https://open.spotify.com/album/5TjeuLoE1i9HgpRSRSsL0Y"
+      },
+      "artists": [
+        {
+          "name": "Georgian",
+          "url": "https://open.spotify.com/artist/45BKB70SYuiW2jRGxC1dYv"
+        }
+      ],
+      "duration_ms": 228053,
+      "name": "Crackled Grounds",
+      "url": "https://open.spotify.com/track/6M18ClPMkQTS7M7hiwgXz2"
     },
     {
       "added_at": "2026-04-08 18:25:59",
@@ -953,22 +1065,6 @@
       "url": "https://open.spotify.com/track/6wK8WtrJBXGVEk0sXX6XZG"
     },
     {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "Old Friend",
-        "url": "https://open.spotify.com/album/1yK7hngYH2ctzYgkBPooJb"
-      },
-      "artists": [
-        {
-          "name": "Big Sleep",
-          "url": "https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a"
-        }
-      ],
-      "duration_ms": 214814,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/4Upa4Devu3DADgTvonkPkL"
-    },
-    {
       "added_at": "2026-01-28 17:00:07",
       "album": {
         "name": "Joy and Despair",
@@ -1037,22 +1133,6 @@
       "url": "https://open.spotify.com/track/5OUGnKAiNCNxX3RXsGTcMI"
     },
     {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
-        "name": "loose ends",
-        "url": "https://open.spotify.com/album/4lMssTCGOIWLKD8leuKxgi"
-      },
-      "artists": [
-        {
-          "name": "Lyla George",
-          "url": "https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa"
-        }
-      ],
-      "duration_ms": 199780,
-      "name": "loose ends",
-      "url": "https://open.spotify.com/track/67OFZ9ebvekdwrNEjdfk9G"
-    },
-    {
       "added_at": "2026-01-21 17:00:04",
       "album": {
         "name": "(Me Tomorrow)",
@@ -1067,22 +1147,6 @@
       "duration_ms": 198293,
       "name": "(Me Tomorrow)",
       "url": "https://open.spotify.com/track/6pGt3J3K2IkAibPJqipCkF"
-    },
-    {
-      "added_at": "2026-01-14 17:00:23",
-      "album": {
-        "name": "Evergreen In Your Mind",
-        "url": "https://open.spotify.com/album/5BvX4R2kpp1PZW8m7zLYe2"
-      },
-      "artists": [
-        {
-          "name": "Juni Habel",
-          "url": "https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ"
-        }
-      ],
-      "duration_ms": 210758,
-      "name": "Evergreen In Your Mind",
-      "url": "https://open.spotify.com/track/3QjTA3vO39iKdAWk8Igo2Y"
     },
     {
       "added_at": "2026-01-14 17:00:23",
@@ -1133,22 +1197,6 @@
       "url": "https://open.spotify.com/track/23gMLwhrD3EBd6ZA72sxHq"
     },
     {
-      "added_at": "2026-01-21 17:00:04",
-      "album": {
-        "name": "Murderer",
-        "url": "https://open.spotify.com/album/7EYEWY3LWVsbh165x6a5jF"
-      },
-      "artists": [
-        {
-          "name": "Tristan Trincado",
-          "url": "https://open.spotify.com/artist/4Mr2gPzomdZA8WkFARwK7w"
-        }
-      ],
-      "duration_ms": 223683,
-      "name": "Murderer",
-      "url": "https://open.spotify.com/track/0Ha86xqXK7vcBpYvG5SNp3"
-    },
-    {
       "added_at": "2026-01-14 17:00:23",
       "album": {
         "name": "Anywhere Else",
@@ -1163,70 +1211,6 @@
       "duration_ms": 285972,
       "name": "Anywhere Else",
       "url": "https://open.spotify.com/track/0fL6S8ciI1B7klHk7oTIFf"
-    },
-    {
-      "added_at": "2026-01-14 17:00:23",
-      "album": {
-        "name": "10:23",
-        "url": "https://open.spotify.com/album/6UJU2PB3L5tOaX2d4c74qp"
-      },
-      "artists": [
-        {
-          "name": "Hank Bee",
-          "url": "https://open.spotify.com/artist/5nhxIq9KHK2pnfB4T7URxn"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "10:23",
-      "url": "https://open.spotify.com/track/28EkYcJzKaRZGNbAxqw3xR"
-    },
-    {
-      "added_at": "2026-01-21 17:00:04",
-      "album": {
-        "name": "A Gust Of Wind Knocks Off My Hat",
-        "url": "https://open.spotify.com/album/5jtTHEiUh4amDl0o0T2i8c"
-      },
-      "artists": [
-        {
-          "name": "Jack Davies",
-          "url": "https://open.spotify.com/artist/41CCcG04zR4wxWbmYyxa34"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "Never Knew Me At All",
-      "url": "https://open.spotify.com/track/23fz4FBrTfCqVTdeftxGuE"
-    },
-    {
-      "added_at": "2026-01-14 17:00:23",
-      "album": {
-        "name": "felled 1",
-        "url": "https://open.spotify.com/album/4ECATdNcQFGWJ5Hx1Ooun6"
-      },
-      "artists": [
-        {
-          "name": "Boxtrod",
-          "url": "https://open.spotify.com/artist/01tYEs8EWO5StDlzerDXMx"
-        }
-      ],
-      "duration_ms": 138176,
-      "name": "now...later",
-      "url": "https://open.spotify.com/track/4xjB0AIUXQOJtOJCz6IaoB"
-    },
-    {
-      "added_at": "2026-01-21 17:00:04",
-      "album": {
-        "name": "Buzzkill",
-        "url": "https://open.spotify.com/album/4RFLQYL55m73ho9RPE1XxZ"
-      },
-      "artists": [
-        {
-          "name": "Jobi Riccio",
-          "url": "https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO"
-        }
-      ],
-      "duration_ms": 204210,
-      "name": "Buzzkill",
-      "url": "https://open.spotify.com/track/7hgP72kTlZxBIq4eygnBgk"
     }
   ],
   "unique_name": "Fresh Finds Folk",

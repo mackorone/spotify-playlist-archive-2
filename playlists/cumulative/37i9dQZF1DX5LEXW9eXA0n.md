@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: AKMU \(악뮤\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,723 songs - 4 day 16 hr 0 min
+1,725 songs - 4 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Between Us](https://open.spotify.com/track/2ztOFhdIuhY4Ee1RmqBLZG) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/1Rxo7snNPsZ9lE9JidXbLb) | 4:01 | 2022-03-24 | 2022-04-01 |
 | [Between You And Me \(Nth Romance X Car, the garden\)](https://open.spotify.com/track/3F31vRSaPlXqecuLleWG0E) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Between You And Me \(Nth Romance X Car, the garden\)](https://open.spotify.com/album/3iFLXiQVinX1CZpTPL2ZBW) | 2:57 | 2022-03-31 | 2022-06-15 |
 | [Beyond The Sea](https://open.spotify.com/track/4OxtWbT2vpoWOROrRSYHSk) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [Beyond The Sea](https://open.spotify.com/album/5sIJhxAbyNindPmfgYb0VS) | 3:00 | 2023-01-10 | 2023-02-25 |
-| [Beyond the sunset](https://open.spotify.com/track/5pTZ4EGb1PEW80fVdrWMIT) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Beyond the sunset](https://open.spotify.com/album/1kyucWXrwMj8VF0n6aXYTH) | 4:30 | 2025-12-02 |  |
+| [Beyond the sunset](https://open.spotify.com/track/5pTZ4EGb1PEW80fVdrWMIT) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Beyond the sunset](https://open.spotify.com/album/1kyucWXrwMj8VF0n6aXYTH) | 4:30 | 2025-12-02 | 2026-04-16 |
 | [bittersweet](https://open.spotify.com/track/3JqgRqxVfoZXfDWYosS9ef) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [STOP OVER](https://open.spotify.com/album/6uDov9hyYO6A3IKH1bALL7) | 3:28 | 2022-05-24 | 2022-07-27 |
 | [Bloom](https://open.spotify.com/track/7huP0epHGaopyXN3a51cPb) | [EXY](https://open.spotify.com/artist/3QFf0wwzpLiSmC4hx7lhER) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC) | 3:15 | 2022-01-25 | 2022-01-27 |
 | [BLOOM](https://open.spotify.com/track/3bCDoZgeNf9s6Zmf9iz51h) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [CEREMONIA](https://open.spotify.com/album/2tb2AzY9uac3ND3Wf8RQPL) | 3:52 | 2022-03-24 | 2022-04-21 |
@@ -1458,6 +1458,7 @@
 | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/track/36ua7Cbt724p1RFlOVy9up) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/album/6go9sISRH2r8yCT5UDUDKh) | 3:41 | 2022-03-29 | 2022-06-09 |
 | [Two Letters](https://open.spotify.com/track/1WWHM83WMlkceHY1XqnaNs) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be My Reason](https://open.spotify.com/album/20rBBVeawY0f6do5SXQnWn) | 3:33 | 2021-12-23 | 2022-06-19 |
 | [Two of us](https://open.spotify.com/track/6iEN1jW4u0QjcBsg3AV6R1) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [BREWING LOVE, Pt\. 10 \(Original Soundtrack\)](https://open.spotify.com/album/1S1DUzgYYBUBXlprX2pKYQ) | 4:22 | 2024-12-06 | 2025-05-14 |
+| [Two Of Us](https://open.spotify.com/track/6K8r6pX0pFKA2g5t2FORxJ) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Two Of us : Wish+ Ep\. 03](https://open.spotify.com/album/1pbXt7eB8KudmU24yI8VhT) | 4:51 | 2026-04-16 |  |
 | [Two people](https://open.spotify.com/track/3t7q2RhPmsGeZ1XbYkPBJP) | [Gemstone](https://open.spotify.com/artist/4dx29FxKF5aK2lUTY1bU5V) | [Two people](https://open.spotify.com/album/2AMdl8gdA5yUFVzHU01t7l) | 4:29 | 2023-02-14 | 2023-03-28 |
 | [Two People](https://open.spotify.com/track/7yxdDkL1ar39CWTX4hMRFk) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1tV7ZIyAJDZkis4RjXWQ91) | 4:27 | 2021-12-20 | 2022-07-07 |
 | [U](https://open.spotify.com/track/5GpjDEuBecJskwBdyti6KU) | [David Oh](https://open.spotify.com/artist/7LfjAtFXL1fwMB23GNf8Mu) | [Songs I'll Never Sing For You Volume.1](https://open.spotify.com/album/69PXgnmyr9q4isx0cKcWBj) | 3:19 | 2022-12-27 | 2023-02-25 |
@@ -1674,7 +1675,7 @@
 | [마지막 날에 Moving On](https://open.spotify.com/track/73TXBk1LE2V4OcyLI2aq3p) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [마지막 날에 Moving On](https://open.spotify.com/album/4xnNvjkkXT1OginjGHFeSk) | 4:57 | 2021-12-23 | 2022-06-01 |
 | [미래의 너에게 고마워 \(Thank you, future you.\)](https://open.spotify.com/track/5pjvvATx7UKmp2k7Vh5y7j) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [미래의 너에게 고마워 \(Thank you, future you.\)](https://open.spotify.com/album/4O9mh9UvVDrl2PCA1V6QEL) | 5:00 | 2025-06-23 | 2025-11-29 |
 | [미친 사랑의 속삭임](https://open.spotify.com/track/6ebK8ZX2wcBrO6rx6Sp7nu) | [장미미](https://open.spotify.com/artist/2XFA9KevNHVt4y6Zl5dYkh), [서울레트로보이](https://open.spotify.com/artist/6MfvU7HGkuPXvT6Jxijt2T) | [사랑...그 곳의 속삭임](https://open.spotify.com/album/1eWZs5BG7F8rufONzAZVZh) | 4:38 | 2022-03-24 | 2022-04-19 |
-| [바라던 이별은 마음에 드나요](https://open.spotify.com/track/45aFlbSfWtHMznVdTzgcgL) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [바라던 이별은 마음에 드나요](https://open.spotify.com/album/2KhTt4Xjbiy9vzKu2I0PLz) | 3:42 | 2026-01-02 |  |
+| [바라던 이별은 마음에 드나요](https://open.spotify.com/track/45aFlbSfWtHMznVdTzgcgL) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [바라던 이별은 마음에 드나요](https://open.spotify.com/album/2KhTt4Xjbiy9vzKu2I0PLz) | 3:42 | 2026-01-02 | 2026-04-16 |
 | [발라드, 려요 \- 김나영](https://open.spotify.com/track/1UWp8Mit5wHqql6YSVakav) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [발라드, 려요 \- 김나영](https://open.spotify.com/album/2HjmcbWeIZGzyTk0yWBI6X) | 0:03 | 2023-05-15 |  |
 | [벗 \(왕과 사는 남자 Original Soundtrack\)](https://open.spotify.com/track/6BfjwiYI0pz3IJlJvGF2Cn) | [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [벗 \(왕과 사는 남자 Original Soundtrack\)](https://open.spotify.com/album/7blbjKGb1p8TQR4ZLWJipu) | 3:30 | 2026-04-03 |  |
 | [보고 싶은 순간](https://open.spotify.com/track/2OM8UY7YROyhDcgfCEnyux) | [Marmalade Kitchen](https://open.spotify.com/artist/4HgQ22crYOIRhaxRkJKXaf), [전동욱](https://open.spotify.com/artist/18btmeYXREZ1TBpvQznG1u) | [보고 싶은 순간](https://open.spotify.com/album/29Ko3a0Sqbbx6jZWvKEyCr) | 3:37 | 2022-07-07 | 2022-07-27 |
@@ -1710,6 +1711,7 @@
 | [이렇게 지금](https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX) | [RUNY](https://open.spotify.com/artist/3Gqep11q40qGtYbAWy20t8) | [황금가면 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/4GyBq0xnIoHvbRWK2Zlq3L) | 3:57 | 2022-07-26 | 2022-10-15 |
 | [이별극 \(The Farewell Play\)](https://open.spotify.com/track/1QDuJT5YqzpzoV1KPKf5Rg) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [이별극 \(The Farewell Play\)](https://open.spotify.com/album/0TkDuNGHhANMrXVV1ztOZE) | 3:32 | 2026-03-26 |  |
 | [이별이 이렇게 힘들 거라고](https://open.spotify.com/track/6ixDSzvVMinZIxuQ8Lq5Yn) | [Suki](https://open.spotify.com/artist/6wiGqCi92zXYnvXazWTsry) | [결혼하자 맹꽁아! \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7kAfL2fjGE1WIsTFpnW50g) | 3:38 | 2024-10-30 | 2025-04-09 |
+| [이제야 사랑이 보이네](https://open.spotify.com/track/7ojKhprnV0Z7efNXEUv4Tl) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [이제야 사랑이 보이네](https://open.spotify.com/album/1EPWuiiAmdXc47A9YLpeSZ) | 4:04 | 2026-04-16 |  |
 | [이혼해요 \(Divorce\)](https://open.spotify.com/track/12l28wJSPM3ALuF57ApdNl) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [이혼해요 \(Divorce\)](https://open.spotify.com/album/6aXTjKAFSugInjPEFodUMd) | 3:47 | 2023-09-07 | 2023-10-17 |
 | [인사](https://open.spotify.com/track/4EGe0ovVvjRyGS5Wt9uM9C) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [인사 Prelude1](https://open.spotify.com/album/63qF2GbuABAfcprCdWlEXn) | 3:56 | 2025-09-18 | 2026-01-15 |
 | [잊고 있는 중](https://open.spotify.com/track/0zA7Awbp9OytjHG0PsVzIy) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [잊고 있는 중](https://open.spotify.com/album/1hQH5zANKRdlDLPxHwdwm1) | 3:57 | 2023-02-24 | 2023-06-23 |

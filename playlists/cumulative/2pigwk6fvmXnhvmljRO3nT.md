@@ -4,7 +4,7 @@
 
 > 
 
-8,594 songs - 21 day 21 hr 35 min
+8,595 songs - 21 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,6 +474,7 @@
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2025-04-18 |  |
 | [Angel Dust](https://open.spotify.com/track/1RkPqBGgFNPxdzlGD2Ar0m) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:42 | 2025-01-04 |  |
 | [Angel's Share](https://open.spotify.com/track/0MFky4zpOENxfUb35EK6rx) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- City of Winds and Idylls \(Original Game Soundtrack\)](https://open.spotify.com/album/4B5efqHkeq0UaDGx8nYOuf) | 1:53 | 2025-03-23 |  |
+| [Angelic Angel](https://open.spotify.com/track/46v8fYqNmVdqCyqiVeeSjj) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [μ's Complete BEST BOX \(Chapter.12\)](https://open.spotify.com/album/0pkmGenaj8UzPldSgoC2qE) | 4:56 | 2026-04-15 |  |
 | [Angels](https://open.spotify.com/track/0NFCFdJxEGCGO6EGkFCGgF) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:47 | 2024-12-05 |  |
 | [Angels \(feat\. Saba\)](https://open.spotify.com/track/0jx8zY5JQsS4YEQcfkoc5C) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 3:26 | 2024-12-14 |  |
 | [Angels and Demons](https://open.spotify.com/track/4P3tCSd85gGdlDiw5PilvT) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Best of SEKAI NO OWARI \(in Japanese\)](https://open.spotify.com/album/5o79Pz8HCBePpYYPmP07Hn) | 4:34 | 2025-01-15 |  |
@@ -8281,7 +8282,7 @@
 | [길](https://open.spotify.com/track/1giNYrthqVtEi6oldkeDBQ) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Difference](https://open.spotify.com/album/36HKeRjDoczel62iwy3z75) | 3:48 | 2025-01-15 |  |
 | [깊은 밤을 날아서](https://open.spotify.com/track/5vVL45nncczKCWS0uIQpzN) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 4집](https://open.spotify.com/album/031envKZiWUDD9cRdb0ZbX) | 3:02 | 2025-01-03 |  |
 | [꽃 피는 봄이오면](https://open.spotify.com/track/0RpI9034T3Z2zu7hToTdqT) | [발라드가수들](https://open.spotify.com/artist/2B6LUHwavLRRQscG3Oi74n) | [여자가수 히트 발라드 모음 1집](https://open.spotify.com/album/2NHe3n99KMAEUnXlHIqR7u) | 4:40 | 2025-04-20 |  |
-| [꽃밭에서](https://open.spotify.com/track/4KBU5cza39cf420BfhFru0) | [조관우](https://open.spotify.com/artist/0LZbMJR8riIQCwgh0UKsin) | [Memory](https://open.spotify.com/album/3pnQ1isPX3JZFdMV7YkMZ4) | 4:12 | 2025-01-15 |  |
+| [꽃밭에서](https://open.spotify.com/track/4KBU5cza39cf420BfhFru0) | [Jo Kwan Woo](https://open.spotify.com/artist/6O3pgOz6eZNFrHl5Z3PTG7) | [Memory](https://open.spotify.com/album/3pnQ1isPX3JZFdMV7YkMZ4) | 4:12 | 2025-01-15 |  |
 | [꿈에서 본 거리](https://open.spotify.com/track/7sDSTwpLdrCXRHetyAolSD) | [Blue Sky](https://open.spotify.com/artist/1pzkEz6aaXEEdzoT9iGJwg) | [푸른하늘 4집 \- 꿈에서 본 거리](https://open.spotify.com/album/1FEXN5g2iw7b6VfZ7DBOHt) | 5:20 | 2025-06-04 |  |
 | [나 가거든](https://open.spotify.com/track/697iSASa9UXARX0baUqREG) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [Yangpa The Best Album \- PI..ANWHA](https://open.spotify.com/album/6QPy92SsNFM5I8yQnNcFRk) | 5:26 | 2025-07-13 |  |
 | [나 어릴 적 꿈](https://open.spotify.com/track/35LWTNkTu78YPqF2lS7C0i) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [280KM SPEED](https://open.spotify.com/album/3v28A8eeQlCOnsGZlwsfVI) | 4:08 | 2025-01-15 |  |

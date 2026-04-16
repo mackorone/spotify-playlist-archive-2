@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 224848,
+  "num_followers": 224904,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
-      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Bah\u00eda Santiago",
         "url": "https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 260508,
       "name": "Globos",
       "url": "https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
+      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "\u00d3leos",
-        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 217272,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/6JwZcf1tj0DdPxaxMdiVv5"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Cycles of Existential Rhyme",
         "url": "https://open.spotify.com/album/5Jm8y8nnjMIUrsxZ6KjFe3"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 255960,
       "name": "Cycles of Existential Rhyme",
       "url": "https://open.spotify.com/track/6rpi77GqamZNoltbZ5ksdi"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "\u00d3leos",
+        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 217272,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/6JwZcf1tj0DdPxaxMdiVv5"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Regresa",
-        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 168755,
-      "name": "Ta Que Tiembla",
-      "url": "https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Ciclo",
         "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 172409,
       "name": "Ciclo",
       "url": "https://open.spotify.com/track/131pRjxiSb3iaZavjVutiQ"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 168755,
+      "name": "Ta Que Tiembla",
+      "url": "https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Regresa",
         "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 253984,
       "name": "Nydia",
       "url": "https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/7CaiIBfrajnAyCfv6p6IPb"
-      },
-      "artists": [
-        {
-          "name": "Besos",
-          "url": "https://open.spotify.com/artist/0g5ILGFHqkc89g0arxKvMk"
-        }
-      ],
-      "duration_ms": 186598,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/1AEseSSIT59rfreQOvtaI9"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Limbo Habitual, Vol. I",
         "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 262053,
       "name": "Dos que uno",
       "url": "https://open.spotify.com/track/3V2sqiqXuRUaK1gv1ugbdp"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/7CaiIBfrajnAyCfv6p6IPb"
+      },
+      "artists": [
+        {
+          "name": "Besos",
+          "url": "https://open.spotify.com/artist/0g5ILGFHqkc89g0arxKvMk"
+        }
+      ],
+      "duration_ms": 186598,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/1AEseSSIT59rfreQOvtaI9"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Month One",
-        "url": "https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE"
-      },
-      "artists": [
-        {
-          "name": "The Acapulco Express",
-          "url": "https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N"
-        }
-      ],
-      "duration_ms": 310090,
-      "name": "Week 4",
-      "url": "https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Limbo Habitual, Vol. I",
         "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 215013,
       "name": "Musa introvertida",
       "url": "https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Month One",
+        "url": "https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE"
+      },
+      "artists": [
+        {
+          "name": "The Acapulco Express",
+          "url": "https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N"
+        }
+      ],
+      "duration_ms": 310090,
+      "name": "Week 4",
+      "url": "https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf"
-      },
-      "artists": [
-        {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
-        }
-      ],
-      "duration_ms": 236503,
-      "name": "Drive - Edit",
-      "url": "https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "I Don't Mind",
         "url": "https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf"
+      },
+      "artists": [
+        {
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        }
+      ],
+      "duration_ms": 236503,
+      "name": "Drive - Edit",
+      "url": "https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "Hate My Face",
         "url": "https://open.spotify.com/album/2UUBmbPIewpO7axHpYeScJ"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 181173,
       "name": "Hate My Face",
       "url": "https://open.spotify.com/track/7h631DjBj4j7aFMFwEA7ma"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Whatchu Know?",
+        "url": "https://open.spotify.com/album/29JesIS2vuVrFVtoOp3mur"
+      },
+      "artists": [
+        {
+          "name": "Sam Sky",
+          "url": "https://open.spotify.com/artist/2YiWowjyYqKEXuAle5oNDU"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Whatchu Know?",
+      "url": "https://open.spotify.com/track/2aIBLMcUJzzBFj0jgQC7bN"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1559,22 +1575,6 @@
       "duration_ms": 237786,
       "name": "Popscuro",
       "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "Whatchu Know?",
-        "url": "https://open.spotify.com/album/29JesIS2vuVrFVtoOp3mur"
-      },
-      "artists": [
-        {
-          "name": "Sam Sky",
-          "url": "https://open.spotify.com/artist/2YiWowjyYqKEXuAle5oNDU"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "Whatchu Know?",
-      "url": "https://open.spotify.com/track/2aIBLMcUJzzBFj0jgQC7bN"
     },
     {
       "added_at": "2024-07-12 18:08:37",

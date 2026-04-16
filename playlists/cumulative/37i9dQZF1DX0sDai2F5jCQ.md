@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: DaBaby
 
-803 songs - 1 day 14 hr 54 min
+803 songs - 1 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [2 Mazza \(feat\. Drake\)](https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Don't Box Me In](https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT) | 3:11 | 2025-06-19 | 2025-09-19 |
 | [2 Shots](https://open.spotify.com/track/6FyFlGgQe6gLMAJza9CGpF) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [2 Shots](https://open.spotify.com/album/542rRvwCg06KXo9VNq14Up) | 2:12 | 2026-01-22 | 2026-02-13 |
 | [2004 \- feat\. buddy & the gang](https://open.spotify.com/track/53TwJxoz2dCjrfRYZJAIaQ) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [The Gang](https://open.spotify.com/artist/0FgJeqcioFnFh5jYUNZXMI) | [2004 \(feat\. buddy & the gang\)](https://open.spotify.com/album/0FKxD8lXXxJI0DDMMm8whM) | 4:02 | 2025-05-15 | 2025-06-20 |
-| [2EAZY](https://open.spotify.com/track/109kqw1njTghISsOY8c1YF) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H) | [2EAZY](https://open.spotify.com/album/4mDcKwiEyYRpjdVgQAkLFx) | 2:16 | 2026-04-03 |  |
+| [2EAZY](https://open.spotify.com/track/109kqw1njTghISsOY8c1YF) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H) | [2EAZY](https://open.spotify.com/album/4mDcKwiEyYRpjdVgQAkLFx) | 2:15 | 2026-04-03 |  |
 | [3am](https://open.spotify.com/track/1LYGpC6P9t7VARZxap9Kcx) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs), [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [3am](https://open.spotify.com/album/7HKTDmDebceTzrFxiCAO1m) | 3:29 | 2024-02-15 | 2024-06-14 |
 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 | 2025-09-19 |  |
 | [444](https://open.spotify.com/track/2f7NXiO2Uyffl4Pp2AArRI) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Lost In Euphoria](https://open.spotify.com/album/7baqnLVVcQUr5yUhakW9KX) | 2:41 | 2025-03-20 | 2025-05-02 |

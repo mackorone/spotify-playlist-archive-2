@@ -1,6 +1,6 @@
 {
   "description": "eles barulharam nessa sess\u00e3o hein \ud83d\udc40",
-  "num_followers": 1451053,
+  "num_followers": 1450981,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,26 @@
     {
       "added_at": "2026-04-10 03:01:30",
       "album": {
+        "name": "Eu Venci o Mundo",
+        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 107906,
+      "name": "Belieber",
+      "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
+    },
+    {
+      "added_at": "2026-04-10 03:01:30",
+      "album": {
         "name": "Presentinho",
         "url": "https://open.spotify.com/album/24nlfVasQri1ennoqY0SRb"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 342857,
       "name": "Presentinho",
       "url": "https://open.spotify.com/track/5p4kRwizPeq39JpvOL8kYC"
-    },
-    {
-      "added_at": "2026-04-10 03:01:30",
-      "album": {
-        "name": "Eu Venci o Mundo",
-        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 107906,
-      "name": "Belieber",
-      "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
     },
     {
       "added_at": "2026-04-10 03:01:30",
@@ -827,6 +827,34 @@
     {
       "added_at": "2026-04-10 03:01:30",
       "album": {
+        "name": "Particular",
+        "url": "https://open.spotify.com/album/1xXlj4lES5cohacVSro9v4"
+      },
+      "artists": [
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Particular",
+      "url": "https://open.spotify.com/track/725qKkD5G0bD4D0uhzzhRT"
+    },
+    {
+      "added_at": "2026-04-10 03:01:30",
+      "album": {
         "name": "THE BOX MEDLEY 11",
         "url": "https://open.spotify.com/album/2eZxNKX7vVsdh9OV3USOdW"
       },
@@ -875,34 +903,6 @@
       "duration_ms": 253042,
       "name": "THE BOX MEDLEY 11",
       "url": "https://open.spotify.com/track/6zlAWWyR93ryKDyWVQbL4v"
-    },
-    {
-      "added_at": "2026-04-10 03:01:30",
-      "album": {
-        "name": "Particular",
-        "url": "https://open.spotify.com/album/1xXlj4lES5cohacVSro9v4"
-      },
-      "artists": [
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Particular",
-      "url": "https://open.spotify.com/track/725qKkD5G0bD4D0uhzzhRT"
     },
     {
       "added_at": "2026-04-10 03:01:30",
@@ -1363,6 +1363,38 @@
     {
       "added_at": "2026-04-10 03:01:30",
       "album": {
+        "name": "GUCCI NO P\u00c9 DOS MLK",
+        "url": "https://open.spotify.com/album/7G6Z8fPyD544TZpxcX2iiH"
+      },
+      "artists": [
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        },
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Bymd.wav",
+          "url": "https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ"
+        },
+        {
+          "name": "Analogic",
+          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
+        }
+      ],
+      "duration_ms": 151942,
+      "name": "GUCCI NO P\u00c9 DOS MLK",
+      "url": "https://open.spotify.com/track/2BOrHikDokmX7Hw5cyKIsn"
+    },
+    {
+      "added_at": "2026-04-10 03:01:30",
+      "album": {
         "name": "Busco Romance Love Show (Deluxe)",
         "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
       },
@@ -1431,38 +1463,6 @@
     {
       "added_at": "2026-04-10 03:01:30",
       "album": {
-        "name": "GUCCI NO P\u00c9 DOS MLK",
-        "url": "https://open.spotify.com/album/7G6Z8fPyD544TZpxcX2iiH"
-      },
-      "artists": [
-        {
-          "name": "Fahel",
-          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
-        },
-        {
-          "name": "KayG",
-          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
-        },
-        {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        },
-        {
-          "name": "Bymd.wav",
-          "url": "https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ"
-        },
-        {
-          "name": "Analogic",
-          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
-        }
-      ],
-      "duration_ms": 151942,
-      "name": "GUCCI NO P\u00c9 DOS MLK",
-      "url": "https://open.spotify.com/track/2BOrHikDokmX7Hw5cyKIsn"
-    },
-    {
-      "added_at": "2026-04-10 03:01:30",
-      "album": {
         "name": "Um Pouco Pensativo",
         "url": "https://open.spotify.com/album/0VNFEm0ffYgY1w6jH0ldBQ"
       },
@@ -1527,30 +1527,6 @@
     {
       "added_at": "2026-04-10 03:01:30",
       "album": {
-        "name": "ANDO VAGANDO",
-        "url": "https://open.spotify.com/album/0WvwuWN0S0MLR2oIYRx7iD"
-      },
-      "artists": [
-        {
-          "name": "Thalin",
-          "url": "https://open.spotify.com/artist/5dTZiJpPZA6dvt0KWhi5Yd"
-        },
-        {
-          "name": "Nina Maia",
-          "url": "https://open.spotify.com/artist/1wiX27yg0NyiJYwftya0yy"
-        },
-        {
-          "name": "Shirts",
-          "url": "https://open.spotify.com/artist/7rGMt1pIA4R7hIGvhnKZnL"
-        }
-      ],
-      "duration_ms": 185758,
-      "name": "ANDO VAGANDO",
-      "url": "https://open.spotify.com/track/65shbn8jzJlRu4VfSW6HuD"
-    },
-    {
-      "added_at": "2026-04-10 03:01:30",
-      "album": {
         "name": "DIXAVANDO",
         "url": "https://open.spotify.com/album/30x1jnVXq7O1hZm13CssCA"
       },
@@ -1575,6 +1551,30 @@
       "duration_ms": 118153,
       "name": "DIXAVANDO",
       "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
+    },
+    {
+      "added_at": "2026-04-10 03:01:30",
+      "album": {
+        "name": "ANDO VAGANDO",
+        "url": "https://open.spotify.com/album/0WvwuWN0S0MLR2oIYRx7iD"
+      },
+      "artists": [
+        {
+          "name": "Thalin",
+          "url": "https://open.spotify.com/artist/5dTZiJpPZA6dvt0KWhi5Yd"
+        },
+        {
+          "name": "Nina Maia",
+          "url": "https://open.spotify.com/artist/1wiX27yg0NyiJYwftya0yy"
+        },
+        {
+          "name": "Shirts",
+          "url": "https://open.spotify.com/artist/7rGMt1pIA4R7hIGvhnKZnL"
+        }
+      ],
+      "duration_ms": 185758,
+      "name": "ANDO VAGANDO",
+      "url": "https://open.spotify.com/track/65shbn8jzJlRu4VfSW6HuD"
     }
   ],
   "unique_name": "creme",

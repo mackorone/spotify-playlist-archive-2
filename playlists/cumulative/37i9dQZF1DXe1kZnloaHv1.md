@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-147 songs - 7 hr 57 min
+149 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [BLUE GIANT](https://open.spotify.com/track/30eL5h0PUssrOfDsVWTRd0) | [CHASEDAE](https://open.spotify.com/artist/4MGqEzKNHeMDgR6iQLYie8) | [BLUE GIANT](https://open.spotify.com/album/3rEUlorNRsBYyAY5oAmBg3) | 5:04 | 2023-11-09 | 2026-04-09 |
 | [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 | 2023-11-09 | 2025-05-22 |
 | [break](https://open.spotify.com/track/7zpNqcJpxeTBmow2bwA2dR) | [Kim Neuk](https://open.spotify.com/artist/6g3wwcrVl0v453lpIoYENy) | [break](https://open.spotify.com/album/7HFgQWVEuvH3iTkNfkLlPd) | 1:47 | 2026-03-04 |  |
-| [Breeze](https://open.spotify.com/track/3bkSpl9J6jPIkJF79204cd) | [Yeonwoo](https://open.spotify.com/artist/1JhDrFaGBo6baiMOQ67guq) | [Breeze](https://open.spotify.com/album/6mAKz4Er700vwjc5EKU3zf) | 3:35 | 2023-11-09 |  |
+| [Breeze](https://open.spotify.com/track/3bkSpl9J6jPIkJF79204cd) | [Yeonwoo](https://open.spotify.com/artist/1JhDrFaGBo6baiMOQ67guq) | [Breeze](https://open.spotify.com/album/6mAKz4Er700vwjc5EKU3zf) | 3:35 | 2023-11-09 | 2026-04-16 |
 | [BURN\-OUT](https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1) | [FRIDA\-ANNE](https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr) | [BURN\-OUT](https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof) | 2:36 | 2023-11-09 |  |
 | [Burned out](https://open.spotify.com/track/0tHWG1FuBBH0H0ooj5H0Kp) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:06 | 2024-04-17 | 2025-12-09 |
 | [Burned out](https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 3:06 | 2023-11-09 | 2024-04-19 |
@@ -57,6 +57,7 @@
 | [Go with the flow](https://open.spotify.com/track/2WlWB81gbLbqyF2NbCngfZ) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 3:32 | 2023-11-09 | 2024-04-19 |
 | [Go with the flow](https://open.spotify.com/track/5jUdSZQOgU1olKinXBb8eC) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:32 | 2024-04-17 |  |
 | [Going Under](https://open.spotify.com/track/6pmSjlslSDwvKrhm2eD49o) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:16 | 2025-07-23 |  |
+| [Golden Hour \(Feat\. Colde\)](https://open.spotify.com/track/7wTw5xcLmGkx3lxk4gua6p) | [nov](https://open.spotify.com/artist/3gyUm6cPk4sChNCVb3fFaC), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [봄](https://open.spotify.com/album/6TR3l3PwGjS3g4MML8hEE1) | 4:04 | 2026-04-15 |  |
 | [Gulping laziness](https://open.spotify.com/track/03Z63iglmQEP6XtIJ9DmNI) | [weather](https://open.spotify.com/artist/4F26Ae7GmQK9iqv4M7vJsr) | [Gulping laziness](https://open.spotify.com/album/7oHqgsdNXSol1p0H8jnCwj) | 1:53 | 2025-05-22 |  |
 | [Gwichanist](https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j) | [Gwichanist](https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7) | 3:14 | 2025-10-17 |  |
 | [Have a good Sunday! \(Feat\. Wang WooYoung\)](https://open.spotify.com/track/7dBnxSbtW5TYC6hORAu0jo) | [chorim](https://open.spotify.com/artist/0Lw3RrzOZdrQFcWy9kYtEW), [왕우영](https://open.spotify.com/artist/6hP7yS9ZIDRRWtw5LaxICi) | [Have a good Sunday!](https://open.spotify.com/album/5SZw6Hj2lbH6P1ZfMeh9Cx) | 3:59 | 2026-04-08 |  |
@@ -86,6 +87,7 @@
 | [Like I'm saying](https://open.spotify.com/track/4irP8FbtdvsSdbMpUyDEWp) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 3:28 | 2024-04-17 | 2025-05-08 |
 | [Like I′m saying](https://open.spotify.com/track/3dBzRsKScRugEdrHi8fKQ0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 3:28 | 2023-11-09 | 2024-04-19 |
 | [Live My Life](https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:39 | 2024-07-02 |  |
+| [Logout](https://open.spotify.com/track/702jjsTw6kPl8wox04T9Me) | [Shin Jiyoon](https://open.spotify.com/artist/0IKjPDzRyZql95nda6ZgKe) | [사랑해 악마 X 신지윤 \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/1VCyunBOlD4bddxylKqdDm) | 3:29 | 2026-04-15 |  |
 | [Long Vacation](https://open.spotify.com/track/1ms3YLExi6hghQ4bgZtk2j) | [NO\_ON](https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz) | [Layer Cake](https://open.spotify.com/album/2fBSAIMEYFbPyejoDDEZwz) | 3:40 | 2026-02-25 |  |
 | [Love and hatred \(feat\. Jae Woo AN\)](https://open.spotify.com/track/0Ye13DeMM6YgKbZJNv5pq7) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [Jae Woo AN](https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3) | [Love and hatred](https://open.spotify.com/album/3WO6ObA3MkjiGR6TmhUwtM) | 2:34 | 2024-05-09 | 2025-12-09 |
 | [MAGIC](https://open.spotify.com/track/6ceAPjFnKNifeGlOTRTi1X) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [MAGIC](https://open.spotify.com/album/4R6JJEwoyqf7737pEdR0iK) | 3:19 | 2024-09-04 |  |
@@ -130,7 +132,7 @@
 | [Tomorrow \(Feat\. GIRIBOY, BIG Naughty\)](https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 4:36 | 2023-11-09 | 2025-10-18 |
 | [Too lazy](https://open.spotify.com/track/3mVnIJd0G6QXCUd7qjknS0) | [Kwon Han Kyung](https://open.spotify.com/artist/7v8HgyivGw13h8wCviw5wl) | [Too lazy](https://open.spotify.com/album/3f7bSVkQCCuOouO5ZsewEy) | 3:48 | 2025-04-16 |  |
 | [WEEKEND](https://open.spotify.com/track/2EWapiDxGPtiTCrV3JG3pN) | [Jomalxne](https://open.spotify.com/artist/6Cjo9LtMQwwLxADdvjvGpE) | [WEEKEND](https://open.spotify.com/album/7GOsvtjjUnTYepTZv8JZ4Q) | 3:24 | 2025-12-08 |  |
-| [Weightless](https://open.spotify.com/track/7g4X7EwMbW8LiCMGmHXW1I) | [SoNakByul](https://open.spotify.com/artist/2DvzRlivZ3gnMF2Z8xhflM) | [Weightless](https://open.spotify.com/album/0LXwyJ38ryNCzkdEcUbLeS) | 2:16 | 2024-08-10 |  |
+| [Weightless](https://open.spotify.com/track/7g4X7EwMbW8LiCMGmHXW1I) | [SoNakByul](https://open.spotify.com/artist/2DvzRlivZ3gnMF2Z8xhflM) | [Weightless](https://open.spotify.com/album/0LXwyJ38ryNCzkdEcUbLeS) | 2:16 | 2024-08-10 | 2026-04-16 |
 | [WHAT](https://open.spotify.com/track/3CPtRIybgrYhldTswmLdtq) | [Plum](https://open.spotify.com/artist/4srsioGBsXTm1SM18U5TeZ) | [WHAT](https://open.spotify.com/album/0UxmZV8hLl69za8DZ4dfVH) | 3:31 | 2023-11-09 | 2025-05-08 |
 | [When do I get that chicken?](https://open.spotify.com/track/2qeNam9eMMKZ5TuFjbDMkF) | [OFF THE TOWN](https://open.spotify.com/artist/51BaBbyJMybOQKMUSYhi0z) | [When do I get that chicken?](https://open.spotify.com/album/3gio8FNEYMEB9CwKyzOtjI) | 3:16 | 2024-10-08 |  |
 | [Why Would I](https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Why Would I](https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu) | 2:56 | 2023-11-09 |  |

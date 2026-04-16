@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Nell Mescal
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,734 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,739 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kissing The Ground](https://open.spotify.com/track/1uBcmYV9Ihtu4QicLJAj9K) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Kissing The Ground](https://open.spotify.com/album/2VlhBDoRmHdtU1HhxkpbU4) | 3:50 |
-| 2 | [Rude \(feat\. Kojaque\)](https://open.spotify.com/track/7d13dvKQT70XJvmtw6xCUX) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Rude \(feat\. Kojaque\)](https://open.spotify.com/album/1Xom9SIqeNlotFWsI3XSee) | 2:50 |
+| 2 | [Rude](https://open.spotify.com/track/7d13dvKQT70XJvmtw6xCUX) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Rude](https://open.spotify.com/album/1Xom9SIqeNlotFWsI3XSee) | 2:50 |
 | 3 | [Moral Victory](https://open.spotify.com/track/5D2AaNj4RfxSbHTSYjbb4E) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Moral Victory](https://open.spotify.com/album/573Kvyj26bxfDm7Bj1cyTK) | 5:02 |
 | 4 | [Kick The Curb](https://open.spotify.com/track/0VjvyzMoleGvCVtGnJQI6O) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Kick The Curb](https://open.spotify.com/album/5mr4cqipb96XwX12Flio21) | 4:11 |
 | 5 | [Life I Chose](https://open.spotify.com/track/2VL873YktGaHovvP1xCuc0) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Life I Chose](https://open.spotify.com/album/530cEtWkb3pn6NTwMiD6Nu) | 3:33 |

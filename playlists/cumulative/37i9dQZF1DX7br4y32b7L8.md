@@ -4,7 +4,7 @@
 
 > \#fyp songs voor je playlist
 
-876 songs - 1 day 19 hr 59 min
+877 songs - 1 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Beanie](https://open.spotify.com/track/01Mjc6LbGAMiXbgoccl6Hd) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/2kVk1VA2JnBovMvsyGSyT9) | 2:12 | 2024-11-13 | 2024-12-04 |
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2025-01-09 | 2025-03-28 |
 | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK) | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn) | 2:13 | 2023-02-23 | 2023-03-04 |
+| [Beauty And A Beat](https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:47 | 2026-04-15 |  |
 | [Beetje Vrijheid](https://open.spotify.com/track/5r2HA1QlAEVdhhqnC3nqkp) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Dromers Slapen Niet](https://open.spotify.com/album/7hD0o6qizBV3vivCFNHvqD) | 3:50 | 2024-04-04 | 2024-04-11 |
 | [Beetje Vrijheid](https://open.spotify.com/track/6uRh5pPZNPuMgFoSNlHKNN) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Beetje Vrijheid](https://open.spotify.com/album/7noOA6uNQKPIOS0PUkACvf) | 3:50 | 2024-04-10 | 2024-04-19 |
 | [Beez In The Trap](https://open.spotify.com/track/0x335qdLBS6o30hYdc8h2I) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 4:28 | 2026-03-09 |  |

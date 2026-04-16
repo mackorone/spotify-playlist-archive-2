@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 266302,
+  "num_followers": 266304,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adwyAAAAAAAHp3hWfQELCcJKGEsNB68H",
+  "snapshot_id": "ad2DgAAAAAAz0BHqpHn3gEpnQR+mKa32",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "Found You",
-      "url": "https://open.spotify.com/track/4iLeL1aYGcQBsYcWIhXIUO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 175773,
       "name": "Different Man",
       "url": "https://open.spotify.com/track/2n99h7z08LvHr7Cjcnm1Ub"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "Found You",
+      "url": "https://open.spotify.com/track/4iLeL1aYGcQBsYcWIhXIUO"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Be the Same (feat. Kane Brown)",
-        "url": "https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 225539,
-      "name": "Never Be the Same (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Main Street Country",
         "url": "https://open.spotify.com/album/1cvfkOrGG9m7OOpEUOlFn0"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 228133,
       "name": "Beauty and the Beast",
       "url": "https://open.spotify.com/track/6k61iSuJyKGdRs8hSZiyhM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Be the Same (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 225539,
+      "name": "Never Be the Same (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h"
     },
     {
       "added_at": null,

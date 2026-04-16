@@ -108,6 +108,24 @@
     {
       "album": {
         "name": "Afro Bossa",
+        "url": "https://open.spotify.com/album/7M9vNpxkRVlKyV1gk9tbNB"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington And His Orchestra",
+          "url": "https://open.spotify.com/artist/2uRZKi0u39J5Ip0fMcSMVm"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216371,
+      "name": "Absinthe",
+      "url": "https://open.spotify.com/track/7eB4SpTgVxvZWuIeyixPR0"
+    },
+    {
+      "album": {
+        "name": "Afro Bossa",
         "url": "https://open.spotify.com/album/4rVb2K3F6BHB5aY7kg0021"
       },
       "artists": [
@@ -118,7 +136,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 212613,
       "name": "Absinthe",
       "url": "https://open.spotify.com/track/3ZBQ8TTYYRWFlVDhV0T35f"

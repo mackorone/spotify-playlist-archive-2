@@ -4,7 +4,7 @@
 
 > This is Ludmila Ferber\. The essential tracks, all in one playlist.
 
-108 songs - 9 hr 37 min
+109 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Junto a Ti](https://open.spotify.com/track/6lf9YkAg9nzxfcMHAtz6uW) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [O Verdadeiro Amor](https://open.spotify.com/album/3V9Ew3aQ1Cq86tUlMaJ5Ga) | 3:02 | 2023-07-09 | 2024-04-19 |
 | [Maior Amor](https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 5 \- Quebrando as Maldições](https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR) | 3:20 | 2023-07-09 |  |
 | [Maior é Jesus](https://open.spotify.com/track/3kXERD0Bbh4gQYuObnB8lC) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Canções Inesquecíveis](https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO) | 5:11 | 2023-07-09 | 2026-01-02 |
-| [Maior é Jesus](https://open.spotify.com/track/6o7L4sctcv6DPiywAzIaFS) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Canções Inesquecíveis](https://open.spotify.com/album/2Dzo5LOdQfc60HNlA3BQ9a) | 5:11 | 2026-01-02 |  |
+| [Maior é Jesus](https://open.spotify.com/track/6o7L4sctcv6DPiywAzIaFS) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Canções Inesquecíveis](https://open.spotify.com/album/2Dzo5LOdQfc60HNlA3BQ9a) | 5:11 | 2026-01-02 | 2026-04-16 |
+| [Maior É Jesus](https://open.spotify.com/track/0weIhmOyHh9Zz7VYnKDeow) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Marcas](https://open.spotify.com/album/4ci7uGJSa0iCsopPAxQK2T) | 5:25 | 2026-04-16 |  |
 | [Maior é Jesus](https://open.spotify.com/track/2top1l3nzYWOeVWCssxoBx) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 11 \- O Ano da Graça](https://open.spotify.com/album/0TikZHgk6FGo9Aoo4KfKY1) | 3:40 | 2023-07-09 |  |
 | [Maravilhoso](https://open.spotify.com/track/5QLKWX0W2fcPqeuwG5pg2O) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 8 \- Maravilhoso És](https://open.spotify.com/album/05GWMnAUx5EJwpgUPvJnhL) | 4:32 | 2023-07-09 |  |
 | [Meu Prazer](https://open.spotify.com/track/1xWZv65Lh0soR16GOhTsoV) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Márcio Pereira](https://open.spotify.com/artist/0qdCtA4DBrgIcS3hdL6ZcB), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 7 \- Filho do Homem](https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit) | 5:07 | 2023-07-09 |  |

@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar, Salim Sulaiman
 
-473 songs - 1 day 5 hr 15 min
+475 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [ELELO](https://open.spotify.com/track/6pHfCAknAcqwPl1XiL2hq3) | [Amal Joseph](https://open.spotify.com/artist/6B00i8SePaASdF15tDKrTY), [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Elelo](https://open.spotify.com/album/0JcmYTHMcITbUq8C0ibP2d) | 3:38 | 2025-04-29 | 2025-08-09 |
 | [Embran \- Live](https://open.spotify.com/track/3GvKXNTlMlVUI8eCh7clLW) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Embran \(Live\)](https://open.spotify.com/album/2wlYJLa7aHN6e6jsnIjL82) | 3:48 | 2024-09-12 | 2025-06-30 |
 | [En Sadhai](https://open.spotify.com/track/7zbAkNH3VPpgQlUVA60Dzn) | [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ), [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [En Sadhai](https://open.spotify.com/album/42S7j3CTmtlgfe1vYATMF1) | 2:36 | 2023-07-27 | 2024-04-04 |
+| [Enikkayi](https://open.spotify.com/track/1kX0hIdABpMCsYKHLiX5TP) | [Sreevignesh Roshin](https://open.spotify.com/artist/6e6FPxNAE7MqsdLNbTc2e9), [Sreya Anna Joseph](https://open.spotify.com/artist/7kLMjxzItr4NbjZx1I4jqd) | [Enikkayi](https://open.spotify.com/album/5GJfQ6NPe1DHqu6hrB7iMR) | 3:04 | 2026-04-15 |  |
 | [Ennakaruppi](https://open.spotify.com/track/02bvAijBB6U4VeVF1mLEcI) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [gouthammm](https://open.spotify.com/artist/43Vt9P8hBXvNLz23OGzYoU), [nichesluck](https://open.spotify.com/artist/5o0U7xMRW1IxdOuwJ5z8ln) | [Ennakaruppi](https://open.spotify.com/album/1hhc40RRyJBxaU71OLcvI4) | 2:42 | 2026-01-28 |  |
 | [Ennennum](https://open.spotify.com/track/0QHa2O8xvreeXLC4pkMRlp) | [Akhil Ramachandran](https://open.spotify.com/artist/4tCLsydyCoQn1ycRykajX2), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [Kevin Soney](https://open.spotify.com/artist/7dGRq77QLo5zlEMXGEd3wI), [copiedthecat](https://open.spotify.com/artist/1t3dzWfQqSMa3uIziPcWBO) | [Ennennum](https://open.spotify.com/album/4dzSgo7E6xIEHpfXG3IoVa) | 2:53 | 2025-05-30 | 2025-07-30 |
 | [Enthavo](https://open.spotify.com/track/16Ijfdrq8MPcCZoky28NVP) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Enthavo](https://open.spotify.com/album/1KubOLlcV8zJ21veewmxp1) | 3:39 | 2022-12-27 | 2024-07-13 |
@@ -202,6 +203,7 @@
 | [Kannadi Koottil](https://open.spotify.com/track/3GJOpPMoYpv2mkPSJa3mWX) | [Derby Tomhills](https://open.spotify.com/artist/2cdukNqEfEWuFupQIfjen8), [Ashley Brownie](https://open.spotify.com/artist/4HuyfoUfbeZJLJ8oSNLc2S) | [Kannadi Koottil](https://open.spotify.com/album/3UJ8e89MqM8Xi2G1Lc8jGi) | 3:28 | 2025-06-06 | 2025-08-02 |
 | [Kanne \- Namah](https://open.spotify.com/track/3HIY7dBeJVAl8lIkFijDd7) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI), [Anandraj Benjamin Paul](https://open.spotify.com/artist/2mx8hHr8DpgOzv6gURprW5) | [Namah](https://open.spotify.com/album/0rwlL4cHDpPHUhdMGlk3Ew) | 4:55 | 2023-07-27 | 2024-03-09 |
 | [Kannodu \- Live](https://open.spotify.com/track/5daE0LYn2yQquJ9BUTma2f) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS), [Mridula Warrier](https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh) | [Kannodu \(Live\)](https://open.spotify.com/album/1C1whckbFcGGOUqzySzALK) | 3:37 | 2025-04-04 |  |
+| [Kannondu](https://open.spotify.com/track/34ZLhArQEPt66YcZTl0ozj) | [Meera E](https://open.spotify.com/artist/20zEJrH8OrzpCaNyolbiAf), [Sadique Pandallur](https://open.spotify.com/artist/0xmb6mgODCpq8raCqRR3qo) | [Kannondu](https://open.spotify.com/album/2wS8JGLAiZGZ9EywGix72g) | 2:48 | 2026-04-15 |  |
 | [Karmi](https://open.spotify.com/track/5KBX5XW0QHcLbeEgxF9APg) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH) | [Umoja](https://open.spotify.com/album/7in4aRp2Sjz8x2hpbVHGYt) | 4:54 | 2025-10-18 | 2025-12-14 |
 | [Karthi Kalyani](https://open.spotify.com/track/6dvZ9YupWV18hSwdDo8jza) | [Joel Johns](https://open.spotify.com/artist/0BiabvD708qvkGYVADsHA3), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC) | [Karthi Kalyani](https://open.spotify.com/album/5fvzCfvjT7yKgP3yEiNweZ) | 4:41 | 2023-07-18 | 2023-07-28 |
 | [Karukara](https://open.spotify.com/track/3beDYAoq3bQwL2mqlMmslR) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 6:20 | 2022-12-22 | 2024-08-21 |

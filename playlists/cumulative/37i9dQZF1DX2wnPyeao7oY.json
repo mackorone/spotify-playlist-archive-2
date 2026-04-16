@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: The Callous Daoboys",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: MAIASAURA",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 225353,
       "name": "A Place For Those Who Suffer, Alone",
       "url": "https://open.spotify.com/track/4lO7B1kDXNSzFT4Q0McK4j"
@@ -346,6 +346,46 @@
       "duration_ms": 297491,
       "name": "AFTER DEATH",
       "url": "https://open.spotify.com/track/0oYpw0aWV4a0Vn5sQrBdfQ"
+    },
+    {
+      "album": {
+        "name": "AFTER THE SILENCE",
+        "url": "https://open.spotify.com/album/3B7gqh2QaYZAxkvyVu4vuP"
+      },
+      "artists": [
+        {
+          "name": "Avalanche Effect",
+          "url": "https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb"
+        },
+        {
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235037,
+      "name": "AFTER THE SILENCE",
+      "url": "https://open.spotify.com/track/0oOMrrm8EgMQtmSx2h1J66"
+    },
+    {
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/6uHmy5T2n3zGQF8HDqyC1b"
+      },
+      "artists": [
+        {
+          "name": "Portal-Hex",
+          "url": "https://open.spotify.com/artist/3zV1v3t3Vo7SmZp4Ex5mFl"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286764,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/77vlVBy2iasW2jiiLlp3te"
     },
     {
       "album": {
@@ -504,7 +544,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 162039,
       "name": "Angel Wings",
       "url": "https://open.spotify.com/track/6Jix6cYFQwVtxsq2Z689sJ"
@@ -576,7 +616,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 200558,
       "name": "Anywhere But Here",
       "url": "https://open.spotify.com/track/59zuxuMunHtFDKYPq1EtR0"
@@ -2144,6 +2184,24 @@
       "duration_ms": 181386,
       "name": "Cannibal",
       "url": "https://open.spotify.com/track/2TqhTORgYMBEz8hrLbXIhT"
+    },
+    {
+      "album": {
+        "name": "CARGO NET",
+        "url": "https://open.spotify.com/album/2a83SrFvtLnVNQ4XM5uOLQ"
+      },
+      "artists": [
+        {
+          "name": "MAIASAURA",
+          "url": "https://open.spotify.com/artist/62mm8csnxeh1rBGa9fBrRX"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "CARGO NET",
+      "url": "https://open.spotify.com/track/2uWYO6SlLyUcFEjyJxkx1k"
     },
     {
       "album": {
@@ -4131,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "Edge of the Map",
+        "url": "https://open.spotify.com/album/5b0s5j6yJLcoQaGz4NGNSY"
+      },
+      "artists": [
+        {
+          "name": "The Wise Man's Fear",
+          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223294,
+      "name": "Edge of the Map",
+      "url": "https://open.spotify.com/track/3bsZPyqqZZUW62n3CxiuZ8"
+    },
+    {
+      "album": {
         "name": "Eject",
         "url": "https://open.spotify.com/album/4fZDEfg4Ri68UhJcAPGXTV"
       },
@@ -4236,6 +4312,24 @@
       "duration_ms": 187133,
       "name": "Emulator",
       "url": "https://open.spotify.com/track/684SXwWxyTuXI6tV2MdU7A"
+    },
+    {
+      "album": {
+        "name": "end this",
+        "url": "https://open.spotify.com/album/5Q1aCxI8GNqIqtkK7fi1gv"
+      },
+      "artists": [
+        {
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190182,
+      "name": "end this",
+      "url": "https://open.spotify.com/track/5mematTA9D87UfZG4OUHrL"
     },
     {
       "album": {
@@ -5570,7 +5664,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 240568,
       "name": "GIMP",
       "url": "https://open.spotify.com/track/3p7H5WSJoa5ds2nH4hlzaE"
@@ -7612,7 +7706,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 132733,
       "name": "Lacerate",
       "url": "https://open.spotify.com/track/4ZbzUmUtkE5Mke82mVxBAg"
@@ -8540,6 +8634,24 @@
       "duration_ms": 81682,
       "name": "Midian",
       "url": "https://open.spotify.com/track/6tAdsCuS26pGw807OvQQdg"
+    },
+    {
+      "album": {
+        "name": "Mirrorborn",
+        "url": "https://open.spotify.com/album/7w5Kf2PfmCJAaWsVIBhwNQ"
+      },
+      "artists": [
+        {
+          "name": "By the Thousands",
+          "url": "https://open.spotify.com/artist/7jbkCD5BIRbdCLOz5J6S1Y"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237176,
+      "name": "Mirrorborn",
+      "url": "https://open.spotify.com/track/7HXn3gBVIc92JiACznbsDE"
     },
     {
       "album": {
@@ -9926,7 +10038,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 231000,
       "name": "People Are Starting to Notice",
       "url": "https://open.spotify.com/track/6qF34cFuk88HkNpSsBIGds"
@@ -11203,6 +11315,24 @@
     },
     {
       "album": {
+        "name": "SEVERANCE",
+        "url": "https://open.spotify.com/album/2HRM6K0oPUvL5lHA1kVSr3"
+      },
+      "artists": [
+        {
+          "name": "Banks Arcade",
+          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "SEVERANCE",
+      "url": "https://open.spotify.com/track/3wZA7CDRqut6aSxvW6tRew"
+    },
+    {
+      "album": {
         "name": "The Temptation of Pain",
         "url": "https://open.spotify.com/album/3FpwIjm9XsL46kyhNvgScv"
       },
@@ -11846,6 +11976,24 @@
       "duration_ms": 194601,
       "name": "Split",
       "url": "https://open.spotify.com/track/1Z2zZy2r4tZFAVnJTVXDEq"
+    },
+    {
+      "album": {
+        "name": "Split Brow",
+        "url": "https://open.spotify.com/album/4I7jNE9Ymz4H9AhD4TiJFT"
+      },
+      "artists": [
+        {
+          "name": "Renesans",
+          "url": "https://open.spotify.com/artist/7KCdElfDqnvhKYAWOyPGSr"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220671,
+      "name": "Split Brow",
+      "url": "https://open.spotify.com/track/7BoMPwr6gxukuRukhU1zpO"
     },
     {
       "album": {
@@ -14336,7 +14484,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 203294,
       "name": "WEAPONEYES",
       "url": "https://open.spotify.com/track/2rmehG4gb9ISOf8wSFItLE"
@@ -14488,7 +14636,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 274613,
       "name": "Who We \u042f",
       "url": "https://open.spotify.com/track/7C1c8R2ezJf0PNMFteaCWK"

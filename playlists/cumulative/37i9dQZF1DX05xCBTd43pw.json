@@ -2654,7 +2654,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 136323,
       "name": "Exit Wound",
       "url": "https://open.spotify.com/track/6WeaUVL7TMsSwEsAHAtJVc"
@@ -9152,6 +9152,24 @@
       "duration_ms": 144866,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/3XiLkVWxjafBq4YcvtCqq8"
+    },
+    {
+      "album": {
+        "name": "All the Colors of the Sky",
+        "url": "https://open.spotify.com/album/19P0yRLN8TbnBVk8qUAYgZ"
+      },
+      "artists": [
+        {
+          "name": "Veronica Fusaro",
+          "url": "https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/2OUDuS00X3uIdcklQB1Ylv"
     },
     {
       "album": {

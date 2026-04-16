@@ -5049,6 +5049,24 @@
     },
     {
       "album": {
+        "name": "CTRL FREQS (The Album)",
+        "url": "https://open.spotify.com/album/0lIOspuasFJ6BALQKPbyqv"
+      },
+      "artists": [
+        {
+          "name": "CTRL FREQS",
+          "url": "https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166240,
+      "name": "Forever Ain't Enough",
+      "url": "https://open.spotify.com/track/6OlsfI380UGiQ7PDCLfVaX"
+    },
+    {
+      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/46zxO5mYLe4G5FksdFGFma"
       },
@@ -8366,6 +8384,24 @@
       "duration_ms": 199433,
       "name": "Like a Seagull",
       "url": "https://open.spotify.com/track/2wojO6FmZRzE56UBDJ35ms"
+    },
+    {
+      "album": {
+        "name": "Like Pulling A Push Door",
+        "url": "https://open.spotify.com/album/6kUbqWznpOf8umUS1EHmSq"
+      },
+      "artists": [
+        {
+          "name": "Denny Haze",
+          "url": "https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204519,
+      "name": "Like Pulling A Push Door",
+      "url": "https://open.spotify.com/track/0mrTVSHYd6kRWZtQLbhqGp"
     },
     {
       "album": {

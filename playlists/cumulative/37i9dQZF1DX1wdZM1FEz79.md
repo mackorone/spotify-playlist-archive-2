@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 10CM & SORAN\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 1415\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-672 songs - 1 day 15 hr 29 min
+674 songs - 1 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Bird Song](https://open.spotify.com/track/5t4gFAD6xd9WsacZP32uxU) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The potato lab, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/4eUdm8UPPfMEKNN0deQY8u) | 3:30 | 2025-03-14 | 2025-03-21 |
 | [Blame The Summer](https://open.spotify.com/track/6qKlzXAyGK0eWeSQZEgcPJ) | [LENA](https://open.spotify.com/artist/7DgPtuRm6ydMd3jxoeW0TR) | [Blame The Summer](https://open.spotify.com/album/0Q4tPpbf96cgJjlfG9rs7y) | 3:28 | 2024-09-23 | 2024-10-05 |
 | [Bloom](https://open.spotify.com/track/3ANZUoigx1r1GgZJMqbMwY) | [Moonbit](https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx) | [Bloom](https://open.spotify.com/album/3tePaoi07rPbKErbdBwE3w) | 3:35 | 2022-04-12 | 2022-04-16 |
-| [Bloom&Burn](https://open.spotify.com/track/7vyrHvrglNU0VjNLE6Gee2) | [장하은](https://open.spotify.com/artist/3LfxjFJmUHPDsexCDnUTt0) | [Bloom&Burn](https://open.spotify.com/album/0PmEDutdlq8C6iHQN4UvyM) | 2:47 | 2026-03-13 |  |
+| [Bloom&Burn](https://open.spotify.com/track/7vyrHvrglNU0VjNLE6Gee2) | [장하은](https://open.spotify.com/artist/3LfxjFJmUHPDsexCDnUTt0) | [Bloom&Burn](https://open.spotify.com/album/0PmEDutdlq8C6iHQN4UvyM) | 2:47 | 2026-03-13 | 2026-04-16 |
 | [Blue](https://open.spotify.com/track/3qjnIcGn7hp9iDYiaAt1oO) | [Choix2](https://open.spotify.com/artist/14RtqJKZMfdKYwObLGvnmV), [COE](https://open.spotify.com/artist/7Ld7na2w621hxwAQRfzpA2) | [Blue](https://open.spotify.com/album/7M3HVFFPw2ajPY5gsKMARe) | 3:06 | 2022-04-12 | 2022-04-20 |
 | [Blue cup](https://open.spotify.com/track/10iDbo5A1SPN384YGLCgp2) | [PERC%NT](https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx) | [OVERHAUL](https://open.spotify.com/album/2knl4OxinpGhYjUstyDXmB) | 2:55 | 2022-01-10 | 2022-04-03 |
 | [Blueberry Eyes \- Acoustic](https://open.spotify.com/track/0KY4z8DkvSae2ROsmsrAsN) | [Vanilla Mousse](https://open.spotify.com/artist/4DGY1BlqxH29zb9DGXLpB3) | [Blueberry Eyes \(Acoustic\)](https://open.spotify.com/album/6eS71yiVKtAuzp5yQGuqS9) | 2:31 | 2022-03-31 | 2022-06-07 |
@@ -116,7 +116,7 @@
 | [Dawn](https://open.spotify.com/track/5zbTSY9o6rRNbcoN2yPosM) | [Chance](https://open.spotify.com/artist/4qtH69NwjHUulLj4verBCJ) | [Dawn](https://open.spotify.com/album/0fL3Kkh9t8rv1BkpckEqHD) | 3:29 | 2021-12-10 | 2022-04-16 |
 | [dawn](https://open.spotify.com/track/3fUFxDs2Edus1oe5HxaqOT) | [Swon](https://open.spotify.com/artist/2s1VMSW1ooLGKqO5eLAguQ) | [dawn](https://open.spotify.com/album/0x1GXi4uJ7fMPdCkKmPbCm) | 3:09 | 2024-08-12 | 2024-09-04 |
 | [Deadline](https://open.spotify.com/track/1jIeeKf8N3UXLct7FI0VQy) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:19 | 2022-03-31 | 2022-04-17 |
-| [Dear](https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Dear](https://open.spotify.com/album/196beeYDQ5UEGMCvpprN32) | 3:12 | 2026-02-25 |  |
+| [Dear](https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Dear](https://open.spotify.com/album/196beeYDQ5UEGMCvpprN32) | 3:12 | 2026-02-25 | 2026-04-16 |
 | [dear \- monstera ver.](https://open.spotify.com/track/67tqFgcYqw6eIcrkf9wN3E) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [dear \(monstera ver.\)](https://open.spotify.com/album/1n7j1w0rcDrbiQnKnBGmws) | 3:57 | 2025-10-30 | 2025-11-29 |
 | [Dear DRan](https://open.spotify.com/track/5HiBQsMNcVehiKNUFiRsyu) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha), [무성](https://open.spotify.com/artist/4kYzRUks4PPzWaPQU8wMY9) | [Dear DRan](https://open.spotify.com/album/1ftozu6DmZ4J3OlPrjJFTn) | 3:11 | 2022-03-31 | 2022-06-07 |
 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 | 2023-01-25 | 2023-02-15 |
@@ -460,6 +460,7 @@
 | [Si Fueras Mía](https://open.spotify.com/track/2EDpsT55NCISpccODTIUiV) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 | 2021-12-10 | 2024-05-10 |
 | [Silent rainfalls](https://open.spotify.com/track/1FG8L8QhCB2QoG9dwpWhec) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [History of Nerds](https://open.spotify.com/album/4ZusrPbu6N5ObAayvhz5Yq) | 3:35 | 2025-03-20 | 2025-05-21 |
 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 | 2022-03-18 | 2022-07-29 |
+| [slow day](https://open.spotify.com/track/6wBV7hsXeg7GAMXGbDen4T) | [Ingyeong Choi](https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI) | [slow day](https://open.spotify.com/album/3a698AQdmmt7abCGfIkxFr) | 3:53 | 2026-04-15 |  |
 | [Slowly](https://open.spotify.com/track/1DSjB1I3OSvAPp9GXLj1Mm) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Slowly](https://open.spotify.com/album/7mCNiQanfqb34Bru9mCsLU) | 3:37 | 2022-04-12 | 2022-04-16 |
 | [Slowly Surely \- Acoustic Ver.](https://open.spotify.com/track/6EgDfIawG7x5957YCAzfB5) | [moderniq](https://open.spotify.com/artist/3m6WVewMgiOVsskjmELMKY) | [Slowly Surely](https://open.spotify.com/album/6LFmHBHFTo9p61n5f4DbjW) | 3:09 | 2022-03-31 | 2022-04-12 |
 | [Slowly, I Fall For you](https://open.spotify.com/track/3othkA3vUpgOBeOyQ7i97z) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Slowly, I Fall For you](https://open.spotify.com/album/1iNg2HlUkxiOcYF8EXO3UG) | 4:54 | 2025-06-09 | 2025-06-25 |
@@ -543,6 +544,7 @@
 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 | 2024-07-16 | 2024-08-06 |
 | [They're Gonna Say We're Right \(@leekangseung111\)](https://open.spotify.com/track/4o79zBj46P7i3cqWudJ4v0) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Remake 1.0](https://open.spotify.com/album/6VKe4jcpcrCpBWGVTwiK2J) | 3:29 | 2023-02-07 | 2025-03-10 |
 | [Think About You](https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH) | [Acoustic Collabo](https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G) | [Think About You](https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp) | 3:44 | 2021-12-10 | 2022-07-22 |
+| [This Life Feels Ruined](https://open.spotify.com/track/7e4kQ0rFWMazzPRHaib9qq) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [This Life Feels Ruined](https://open.spotify.com/album/3xTIKhAew5hPWXFxlc87o2) | 2:48 | 2026-04-15 |  |
 | [This Love](https://open.spotify.com/track/7iIonwGw62P7Cg82PwNBqz) | [Cha So Yeon](https://open.spotify.com/artist/3OmSRBBbXUGwj7MsMsgJpk) | [This Love](https://open.spotify.com/album/1FjXRR4fRodEIfOklIyDKI) | 4:04 | 2022-03-31 | 2022-04-19 |
 | [Though I Want To Complain \(feat\. Lee Min Hyuk\)](https://open.spotify.com/track/0KSO2jskXjBIZqfutot8VT) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Though I Want To Complain \(feat\. Lee Min Hyuk\)](https://open.spotify.com/album/5ACynX9ZoIGr9qJydtRaiU) | 3:07 | 2022-03-31 | 2022-04-20 |
 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 | 2021-12-10 |  |

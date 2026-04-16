@@ -5768,7 +5768,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 194978,
       "name": "Deep",
       "url": "https://open.spotify.com/track/3UfsbFtqWOt1rwdVzp79PB"
@@ -5968,7 +5968,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 120504,
       "name": "DERELICT (feat. Spencer Charnas from Ice Nine Kills)",
       "url": "https://open.spotify.com/track/4nzNLOMboszyXjoHeeEcbW"
@@ -6354,6 +6354,24 @@
       "duration_ms": 194370,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/2fhBazTvPdHa27az86vVui"
+    },
+    {
+      "album": {
+        "name": "dissolve",
+        "url": "https://open.spotify.com/album/2JtgJbW5X55UrcnNpRnuqE"
+      },
+      "artists": [
+        {
+          "name": "davvn",
+          "url": "https://open.spotify.com/artist/1QF0qdoDTPGn3h3zl3YIpT"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216813,
+      "name": "dissolve",
+      "url": "https://open.spotify.com/track/7EZ0Q0BV8zPSQfBn8qjBhM"
     },
     {
       "album": {
@@ -21384,6 +21402,24 @@
       "duration_ms": 248683,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/6w7Jb4kTmOPkoewZgk40gY"
+    },
+    {
+      "album": {
+        "name": "Say So",
+        "url": "https://open.spotify.com/album/6rHtASj6N3WhxXMoEmoblr"
+      },
+      "artists": [
+        {
+          "name": "Archers",
+          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183993,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/02kPZAxrFGPvlpGLUG9BgY"
     },
     {
       "album": {

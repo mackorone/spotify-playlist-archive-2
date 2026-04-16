@@ -1,6 +1,6 @@
 {
   "description": "Classic Country from the Legends of the 1940's. Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 149019,
+  "num_followers": 149020,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
-      },
-      "artists": [
-        {
-          "name": "Tex Ritter",
-          "url": "https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Deck Of Cards",
-      "url": "https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0"
-    },
-    {
-      "added_at": "2026-02-11 22:46:25",
-      "album": {
         "name": "Classic Western Swing",
         "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 148733,
       "name": "Roly-Poly",
       "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
+    },
+    {
+      "added_at": "2026-02-11 22:46:25",
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
+      },
+      "artists": [
+        {
+          "name": "Tex Ritter",
+          "url": "https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Deck Of Cards",
+      "url": "https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0"
     },
     {
       "added_at": "2026-02-11 22:46:25",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "The Essential Roy Acuff",
-        "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
-      },
-      "artists": [
-        {
-          "name": "Roy Acuff",
-          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Tennessee Waltz",
-      "url": "https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw"
-    },
-    {
-      "added_at": "2026-02-11 22:46:25",
-      "album": {
         "name": "The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 196293,
       "name": "Old Shep",
       "url": "https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf"
+    },
+    {
+      "added_at": "2026-02-11 22:46:25",
+      "album": {
+        "name": "The Essential Roy Acuff",
+        "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
+      },
+      "artists": [
+        {
+          "name": "Roy Acuff",
+          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Tennessee Waltz",
+      "url": "https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw"
     },
     {
       "added_at": "2026-02-11 22:46:25",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "Presenting Patsy Montana",
-        "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
-      },
-      "artists": [
-        {
-          "name": "Patsy Montana",
-          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "My Poncho Pony",
-      "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
-    },
-    {
-      "added_at": "2026-02-11 22:46:25",
-      "album": {
         "name": "The Merle Travis Story",
         "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 135933,
       "name": "Divorce Me C.O.D.",
       "url": "https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt"
+    },
+    {
+      "added_at": "2026-02-11 22:46:25",
+      "album": {
+        "name": "Presenting Patsy Montana",
+        "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
+      },
+      "artists": [
+        {
+          "name": "Patsy Montana",
+          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "My Poncho Pony",
+      "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
     },
     {
       "added_at": "2026-02-11 22:46:25",

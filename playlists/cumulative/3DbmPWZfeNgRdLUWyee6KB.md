@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-931 songs - 2 day 6 hr 29 min
+933 songs - 2 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [follow my rhythm](https://open.spotify.com/track/0MiJdUtnv11W5MGNOMxGAB) | [MIRIIEM](https://open.spotify.com/artist/44UwKvv3KL8W83pbxsID5t), [Von Hortix](https://open.spotify.com/artist/5e0Spjepkjnoo1qJIGtcjQ) | [follow my rhythm](https://open.spotify.com/album/74OBwZJzchBJf6fpjrCFm9) | 1:59 | 2026-03-17 | 2026-04-12 |
 | [For You](https://open.spotify.com/track/2pkaTtOzMeHZAbqMYcZtJx) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [Lunar Soul](https://open.spotify.com/album/5RxwaPBm2DHD5b02JfaYcq) | 2:38 | 2025-10-23 | 2025-12-21 |
 | [Forever](https://open.spotify.com/track/0Cuh5lx6TWoVLHJy36pz5T) | [Magenta Moody](https://open.spotify.com/artist/3UbIaBISNLCFdFZrTzPDbm) | [The Midnight Club](https://open.spotify.com/album/4Eo5xIuzdjeFbnmhmaYVtk) | 5:27 | 2025-08-23 | 2025-11-29 |
+| [Forever Ain't Enough](https://open.spotify.com/track/6OlsfI380UGiQ7PDCLfVaX) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [CTRL FREQS \(The Album\)](https://open.spotify.com/album/0lIOspuasFJ6BALQKPbyqv) | 2:46 | 2026-04-15 |  |
 | [Forever Young](https://open.spotify.com/track/49MO56FpFGj56tR8SAYIGo) | [CRUSHES](https://open.spotify.com/artist/1hKOcHvXIVFgmJdqcYJXuM) | [Forever Young](https://open.spotify.com/album/46zxO5mYLe4G5FksdFGFma) | 2:49 | 2025-12-16 | 2026-01-15 |
 | [Forse](https://open.spotify.com/track/3ntC3vnaj8bxxQOOSt1EFu) | [SlowlyMe](https://open.spotify.com/artist/21EPDLk3UH7IlOQccJBoVH) | [Forse](https://open.spotify.com/album/5z4E6o3AmQcATl52AMb3bM) | 2:55 | 2026-03-21 |  |
 | [Freedom from no tomorrow](https://open.spotify.com/track/4fWkcMaxDkRfqhLGV6WhBf) | [Cosmic Tikis](https://open.spotify.com/artist/3FgOxm7zjtZfsgLhSrCmDR), [Tatiana](https://open.spotify.com/artist/4DwDwWkbgmARkYrx6P2uFj) | [Freedom from no tomorrow](https://open.spotify.com/album/4BPdqSTglo6yeL7HGY5TG3) | 4:12 | 2025-12-24 | 2026-01-24 |
@@ -444,6 +445,7 @@
 | [Life in the Circus](https://open.spotify.com/track/1B3cRaaxyHuPFVMDWEwycW) | [Wilson Getchell](https://open.spotify.com/artist/5vVgsLGU7Y7zwfVrZo2yN3) | [Life in the Circus](https://open.spotify.com/album/145iEKhU3xtA4AwcXCEBwL) | 2:18 | 2025-09-19 | 2025-11-29 |
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-17 | 2026-01-15 |
 | [Like a Seagull](https://open.spotify.com/track/2wojO6FmZRzE56UBDJ35ms) | [Eden Rose](https://open.spotify.com/artist/5SOfWUcNGehU0c0foyXQjl) | [Like a Seagull](https://open.spotify.com/album/23Mh0bl7UsPtNhK4fo0CNb) | 3:19 | 2026-02-09 | 2026-03-07 |
+| [Like Pulling A Push Door](https://open.spotify.com/track/0mrTVSHYd6kRWZtQLbhqGp) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [Like Pulling A Push Door](https://open.spotify.com/album/6kUbqWznpOf8umUS1EHmSq) | 3:24 | 2026-04-15 |  |
 | [Liminal](https://open.spotify.com/track/1vHbFf4vScIbvOqdlUTmIU) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Liminal](https://open.spotify.com/album/0eMFhVV9J64pfUouzj7wAs) | 2:40 | 2026-03-30 |  |
 | [Limérence](https://open.spotify.com/track/2bHWqW5Z7yI8D8FgyJ3mgU) | [UDU](https://open.spotify.com/artist/55mFwxCAjmt3l6nmFtP6jp) | [Tabarden](https://open.spotify.com/album/20V1o95entpLF5IsVZkE2t) | 3:45 | 2025-12-17 | 2026-01-15 |
 | [Lola L'ammazzasette](https://open.spotify.com/track/0ChYDHlnBom7xScnIrEIzD) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Lola L'ammazzasette](https://open.spotify.com/album/734Xm0spmPwATfcJ02mfwF) | 5:00 | 2023-04-20 | 2025-11-29 |

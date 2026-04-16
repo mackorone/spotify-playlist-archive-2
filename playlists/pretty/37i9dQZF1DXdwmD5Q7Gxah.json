@@ -1,13 +1,29 @@
 {
   "description": "wasia project on the cover <3 <a href=\"https://loremandfriends.substack.com/p/everything-comes-back-around-and\">read our substack \ud83e\udee7  </a>   ",
-  "num_followers": 1186494,
+  "num_followers": 1186460,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAERBmSbepP+IO1pSWB/2Xnj6HuMt",
+  "snapshot_id": "AAAAAK1tUJKgHr08XvJhv9q/V20pyNbq",
   "tracks": [
+    {
+      "added_at": "2026-04-15 21:42:40",
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 197661,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI"
+    },
     {
       "added_at": "2026-04-03 04:02:59",
       "album": {

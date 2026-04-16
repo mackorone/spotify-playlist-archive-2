@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Paul McCartney",
-  "num_followers": 154396,
+  "num_followers": 154422,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-04-03 03:00:50",
       "album": {
+        "name": "Fica um Pouco Mais",
+        "url": "https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Fica um Pouco Mais",
+      "url": "https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m"
+    },
+    {
+      "added_at": "2026-04-03 03:00:50",
+      "album": {
         "name": "Pra Voc\u00ea Guardei o Amor",
         "url": "https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 299778,
       "name": "Pra Voc\u00ea Guardei o Amor",
       "url": "https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv"
-    },
-    {
-      "added_at": "2026-04-03 03:00:50",
-      "album": {
-        "name": "Fica um Pouco Mais",
-        "url": "https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Fica um Pouco Mais",
-      "url": "https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m"
     },
     {
       "added_at": "2026-04-03 03:00:50",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-04-03 03:00:50",
       "album": {
-        "name": "Outro Mundo, Outro Lugar",
-        "url": "https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl"
-      },
-      "artists": [
-        {
-          "name": "Ls Jack",
-          "url": "https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Outro Mundo, Outro Lugar",
-      "url": "https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf"
-    },
-    {
-      "added_at": "2026-04-03 03:00:50",
-      "album": {
         "name": "Vida Real",
         "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 230565,
       "name": "Vida Real",
       "url": "https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il"
+    },
+    {
+      "added_at": "2026-04-03 03:00:50",
+      "album": {
+        "name": "Outro Mundo, Outro Lugar",
+        "url": "https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl"
+      },
+      "artists": [
+        {
+          "name": "Ls Jack",
+          "url": "https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Outro Mundo, Outro Lugar",
+      "url": "https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf"
     },
     {
       "added_at": "2026-04-03 03:00:50",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-04-03 03:00:50",
       "album": {
-        "name": "Polaroid Sonora",
-        "url": "https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb"
-      },
-      "artists": [
-        {
-          "name": "A Outra Margem",
-          "url": "https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y"
-        }
-      ],
-      "duration_ms": 256725,
-      "name": "VOU ESTAR AQUI",
-      "url": "https://open.spotify.com/track/68a7d2NiPRLsKaKZ5qPPSU"
-    },
-    {
-      "added_at": "2026-04-03 03:00:50",
-      "album": {
         "name": "Dragon",
         "url": "https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 185684,
       "name": "Dragon",
       "url": "https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC"
+    },
+    {
+      "added_at": "2026-04-03 03:00:50",
+      "album": {
+        "name": "Polaroid Sonora",
+        "url": "https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb"
+      },
+      "artists": [
+        {
+          "name": "A Outra Margem",
+          "url": "https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y"
+        }
+      ],
+      "duration_ms": 256725,
+      "name": "VOU ESTAR AQUI",
+      "url": "https://open.spotify.com/track/68a7d2NiPRLsKaKZ5qPPSU"
     },
     {
       "added_at": "2026-04-03 03:00:50",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-04-03 03:00:50",
       "album": {
-        "name": "Solo Ma Non Troppo",
-        "url": "https://open.spotify.com/album/4biydG5xVHKEYFCySAtrjV"
-      },
-      "artists": [
-        {
-          "name": "Nasi",
-          "url": "https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z"
-        }
-      ],
-      "duration_ms": 212024,
-      "name": "Feedback - Ao Vivo",
-      "url": "https://open.spotify.com/track/0952QhP5pydDsBxgIxvZFg"
-    },
-    {
-      "added_at": "2026-04-03 03:00:50",
-      "album": {
         "name": "Quanto \u00e9 Muito? (Atravessar)",
         "url": "https://open.spotify.com/album/4k4LWyZ69kQQlgVfx0HZtd"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2026-04-03 03:00:50",
       "album": {
-        "name": "Espetacular",
-        "url": "https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc"
+        "name": "Solo Ma Non Troppo",
+        "url": "https://open.spotify.com/album/4biydG5xVHKEYFCySAtrjV"
       },
       "artists": [
         {
-          "name": "M\u00e1rcio Greyck",
-          "url": "https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4"
+          "name": "Nasi",
+          "url": "https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z"
         }
       ],
-      "duration_ms": 273488,
-      "name": "Espetacular",
-      "url": "https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ"
+      "duration_ms": 212024,
+      "name": "Feedback - Ao Vivo",
+      "url": "https://open.spotify.com/track/0952QhP5pydDsBxgIxvZFg"
     },
     {
       "added_at": "2026-04-03 03:00:50",
@@ -983,6 +967,22 @@
       "duration_ms": 275066,
       "name": "Insensatez",
       "url": "https://open.spotify.com/track/0eWjcSCH69BGN3UwLjqHXT"
+    },
+    {
+      "added_at": "2026-04-03 03:00:50",
+      "album": {
+        "name": "Espetacular",
+        "url": "https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcio Greyck",
+          "url": "https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4"
+        }
+      ],
+      "duration_ms": 273488,
+      "name": "Espetacular",
+      "url": "https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ"
     },
     {
       "added_at": "2026-04-03 03:00:50",

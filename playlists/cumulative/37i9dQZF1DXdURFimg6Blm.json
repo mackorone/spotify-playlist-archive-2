@@ -6243,6 +6243,28 @@
     },
     {
       "album": {
+        "name": "Homework (feat. Lancey Foux)",
+        "url": "https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154943,
+      "name": "Homework (feat. Lancey Foux)",
+      "url": "https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/4GY8ZAs5XRfTkjvcGTkBBH"
       },
@@ -13396,7 +13418,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 201230,
       "name": "System",
       "url": "https://open.spotify.com/track/0oB8BYocpXaQ7hxX8ZhPJ6"

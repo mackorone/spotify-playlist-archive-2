@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: HUR+
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,495 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,494 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [寂寞守望者](https://open.spotify.com/track/3ZOQ1UCywGGqBRqJoIpdpj) | [the Huiting 陳惠婷](https://open.spotify.com/artist/5KSQNJyPSHZ0FS5Qc9qUVz) | [成人世界](https://open.spotify.com/album/4rPQ4GDLbVqElfLaLNQXCU) | 4:32 |
 | 50 | [Back to Me](https://open.spotify.com/track/1asWHdX4xlMUzZUF4Z7r5z) | [CØZY](https://open.spotify.com/artist/1WrNLZeznXRwf1cOJkN2ma), [香蘭 LAN](https://open.spotify.com/artist/4LTa8nPXk7C8zPSHUhXOCe) | [Back to Me](https://open.spotify.com/album/4DiMMJ1mevviy1HqpdwCow) | 2:46 |
 
-Snapshot ID: `AAAAAAetO70coPG44Ts76TiDAF5LQ3xB`
+Snapshot ID: `AAAAAPmfjKYTpvCKDi2VWMkqmgDhtsvt`

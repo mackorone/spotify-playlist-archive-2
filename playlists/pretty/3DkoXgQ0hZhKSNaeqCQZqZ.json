@@ -1,13 +1,61 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1067,
+  "num_followers": 1068,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFLxj50gdpeNfBgN7VD5feh8Dyiy1X",
+  "snapshot_id": "AAAFNlDg4Wbp3A6APvTSRimOQ1rH1gOK",
   "tracks": [
+    {
+      "added_at": "2026-04-15 18:25:06",
+      "album": {
+        "name": "should've died years ago",
+        "url": "https://open.spotify.com/album/5sEnRmxYndenRP1yd6djsh"
+      },
+      "artists": [
+        {
+          "name": "Flxffy_",
+          "url": "https://open.spotify.com/artist/6IMOszBMoTJWk1TUPTJlGD"
+        }
+      ],
+      "duration_ms": 171654,
+      "name": "should've died years ago",
+      "url": "https://open.spotify.com/track/7ePJ6BcAdvmgHmP1s3aSyy"
+    },
+    {
+      "added_at": "2026-04-15 18:21:06",
+      "album": {
+        "name": "Muh",
+        "url": "https://open.spotify.com/album/2dj86r4wOWGi6MPtGWbnPv"
+      },
+      "artists": [
+        {
+          "name": "Pepper Coyote",
+          "url": "https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5"
+        }
+      ],
+      "duration_ms": 194186,
+      "name": "When I Die",
+      "url": "https://open.spotify.com/track/7FtoIzR0qkMHlbF6I7dF37"
+    },
+    {
+      "added_at": "2026-04-15 18:16:16",
+      "album": {
+        "name": "HAVAGO",
+        "url": "https://open.spotify.com/album/4vQupOFlFsPKyNpvC71CtL"
+      },
+      "artists": [
+        {
+          "name": "BASSDOG",
+          "url": "https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU"
+        }
+      ],
+      "duration_ms": 145549,
+      "name": "HAVAGO",
+      "url": "https://open.spotify.com/track/75uR1jODtXQ1OgTWArgwYc"
+    },
     {
       "added_at": "2026-04-10 13:43:20",
       "album": {

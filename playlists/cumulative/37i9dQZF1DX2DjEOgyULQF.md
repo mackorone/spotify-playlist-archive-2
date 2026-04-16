@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-436 songs - 20 hr 36 min
+437 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Jangal](https://open.spotify.com/track/2WpxMJwXbM0iQnSozptqy4) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Jangal](https://open.spotify.com/album/6DbllMEJuZiMW3IyflkbFx) | 3:22 | 2023-08-11 | 2026-03-08 |
 | [Journey](https://open.spotify.com/track/1JOCD6al50iWJDu0AblwPo) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Journey](https://open.spotify.com/album/2pCfZPRgrNQrgJ2TteOUIP) | 3:10 | 2024-12-20 | 2026-04-04 |
 | [Key Of Dreams \(Nature\)](https://open.spotify.com/track/4oeL93F47KEHwqVb1DNJmS) | [Whispers in Haze](https://open.spotify.com/artist/1lixcMl0CmYCkIX0ct66hP) | [Key Of Dreams](https://open.spotify.com/album/6i1MxZzJdaNH47m5AUaPX3) | 2:59 | 2023-04-28 | 2025-03-06 |
-| [Kitsilano](https://open.spotify.com/track/0fh7CVlKxnKzdKCf125OBR) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Kitsilano](https://open.spotify.com/album/6eRIVdsCRum4Za5YubIgjx) | 2:44 | 2023-11-10 |  |
+| [Kitsilano](https://open.spotify.com/track/0fh7CVlKxnKzdKCf125OBR) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Kitsilano](https://open.spotify.com/album/6eRIVdsCRum4Za5YubIgjx) | 2:44 | 2023-11-10 | 2026-04-16 |
 | [Lagoon](https://open.spotify.com/track/7mXIfR2N9mNUhI1ypzm4Qf) | [Cénter](https://open.spotify.com/artist/2pY8g248PiBjPTclQxaL0S) | [Lagoon](https://open.spotify.com/album/1QryRlE4bklvPidGi30ovp) | 3:00 | 2025-02-10 |  |
 | [Lake Quietude](https://open.spotify.com/track/3gGpRVCJPslykac2T6q0u9) | [A Place Of Solace](https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF) | [Lake Quietude](https://open.spotify.com/album/533cM8FSanZTR2SUtcIfjc) | 2:31 | 2025-03-19 | 2026-04-04 |
 | [Lapse of Time](https://open.spotify.com/track/7qgX4p0tNEfxWarc1KgY6d) | [Unity & Harmony](https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI) | [Lapse of Time](https://open.spotify.com/album/4vOLXGeE4xrCmrtEIqCjVm) | 2:32 | 2023-04-28 | 2025-05-22 |
@@ -429,6 +429,7 @@
 | [Where the sun goes down \(Nature Edit\)](https://open.spotify.com/track/5PS3msmNfcvZxAxPRpEIL4) | [Aurelin](https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X) | [Where the sun goes down \(Nature Edit\)](https://open.spotify.com/album/4T0ggBKzuWQuwDRqwGZGXM) | 3:27 | 2025-09-10 | 2026-04-04 |
 | [Whirling River](https://open.spotify.com/track/6MmRaqMZuFP3IpArpfdWRh) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Whirling River](https://open.spotify.com/album/0iMFpO6EJ85zYs7pEe7Xgy) | 2:44 | 2025-10-24 |  |
 | [Whispering Brook](https://open.spotify.com/track/0ZXsioKR9gqiTkwVA4ledQ) | [Grainscapes](https://open.spotify.com/artist/6LaLmmQ5cY4tQ7DvJTh3qZ) | [Whispering Brook](https://open.spotify.com/album/1l0Tfhd1t6QEACSu6TvLND) | 2:49 | 2025-12-17 | 2026-02-24 |
+| [Whispers in the Pine Forest](https://open.spotify.com/track/6p6gKm0X8RdwcKx9l8Zrhp) | [Veldt Echoes](https://open.spotify.com/artist/1pKgi9vX4GjRUTo6tSt0Fd) | [Whispers in the Pine Forest](https://open.spotify.com/album/34l4g7qFPCUw2nwvMXw8Oa) | 2:31 | 2026-04-03 |  |
 | [Wilderness \(Sound Bath\)](https://open.spotify.com/track/2MHG83f4G7CnoxuRrvDc68) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Wilderness](https://open.spotify.com/album/54Q3pJUG5p8VbES4aVTbKM) | 3:51 | 2023-04-28 | 2026-01-15 |
 | [Willow](https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Willow](https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC) | 2:38 | 2026-04-03 |  |
 | [Wisdom \- Gentle Forest](https://open.spotify.com/track/45hvuICHf2TG5iS3IQCh2S) | [Moments of Meaning](https://open.spotify.com/artist/10zMkTihC3EXDt7oSyNmHO) | [Wisdom \(Gentle Version\)](https://open.spotify.com/album/0wYUrVr3zzXemT1xeZyAMJ) | 2:26 | 2023-04-28 | 2024-04-02 |

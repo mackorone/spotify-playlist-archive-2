@@ -2,7 +2,7 @@
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: Tegi Pannu
+> Meet the future of music around the world\. Cover: Alcalá Norte
 
 2,327 songs - 5 day 5 hr 33 min
 

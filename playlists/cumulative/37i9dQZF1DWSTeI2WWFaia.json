@@ -2223,6 +2223,28 @@
     },
     {
       "album": {
+        "name": "Blue Marlin",
+        "url": "https://open.spotify.com/album/1DzaCBnbqK7pcVaUoE8isD"
+      },
+      "artists": [
+        {
+          "name": "Blade Brown",
+          "url": "https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201308,
+      "name": "Blue Marlin",
+      "url": "https://open.spotify.com/track/0xbz3yFshoRNPohArK6Q5l"
+    },
+    {
+      "album": {
         "name": "BLUE LIPS",
         "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
       },
@@ -10316,7 +10338,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 228763,
       "name": "Like Biggie Did",
       "url": "https://open.spotify.com/track/09j7r4RINFFmmWxQMCaVIC"
@@ -13058,6 +13080,10 @@
         {
           "name": "Black Thought",
           "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Likkle Jordee",
+          "url": "https://open.spotify.com/artist/67nc9inFEDdyhAXaFXqUZB"
         }
       ],
       "date_added": "2026-01-30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Renan Oliveira
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,518 likes - 76 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,563 likes - 76 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 30 | [Nosso Lance / No Meu Olhar / Uma Estrela \- Ao Vivo](https://open.spotify.com/track/3w9ZpncSzPhqcW3xq7e1ST) | [Samba da Ladeira](https://open.spotify.com/artist/0IB2uaFC6Xm2I9VSaUlesk) | [Samba da Ladeira \(Ao Vivo\)](https://open.spotify.com/album/3kXFjarRTF0HDevJfahQgP) | 5:39 |
 | 31 | [Reinventar / Pra Ver o Sol Brilhar \- Ao Vivo](https://open.spotify.com/track/67hKgDUbY3ktUK241L94d7) | [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Belo \- 10 Anos de Sucesso \(Deluxe\)](https://open.spotify.com/album/2s5GAaP1y8Jw4QXvqc7r6a) | 5:59 |
 | 32 | [Um Amor Gigante / Faz Falta \- Ao Vivo](https://open.spotify.com/track/1mm8CSHUkHL2xhRUHJgsLL) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [Pagode no Parque, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/3tawlijdi362bde1fKEjn6) | 4:54 |
-| 33 | [Instinto / Dá seu Jeito / Vou Desligar \- Ao Vivo feat\. Gamadinho](https://open.spotify.com/track/6TrG01VFPHwLS1i43GGhEY) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9), [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq), [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Instinto / Dá seu Jeito / Vou Desligar \(Ao Vivo feat\. Gamadinho\)](https://open.spotify.com/album/4nEiSWh52QNqP38bP8cugq) | 5:30 |
+| 33 | [Instinto / Dá seu Jeito / Vou Desligar \(feat\. Gamadinho\) \- Ao Vivo](https://open.spotify.com/track/6TrG01VFPHwLS1i43GGhEY) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9), [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq), [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Instinto / Dá seu Jeito / Vou Desligar \(Ao Vivo feat\. Gamadinho\)](https://open.spotify.com/album/4nEiSWh52QNqP38bP8cugq) | 5:30 |
 | 34 | [Fato Consumado / Já Virou Rotina / Tá Louco Hein \- Ao Vivo](https://open.spotify.com/track/2EIzQ3F26YtTkvuZ9L5U52) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [TDP20 \- Nossa História \- EP4 \(Ao Vivo\)](https://open.spotify.com/album/1SvPh4OD7jQD4NuRGYGhxF) | 5:00 |
 | 35 | [Vendaval / Um Sonho Bom / Direito de Te Amar](https://open.spotify.com/track/4aORqV0kOgsvEy4yP3QGTR) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Vendaval / Um Sonho Bom / Direito de Te Amar](https://open.spotify.com/album/1L2fa12dnia7mUH31DRLWm) | 4:51 |
 | 36 | [Engano / Diz Que Quer Ficar / Amar Você \- Ao Vivo](https://open.spotify.com/track/1MMZ7oNHMGrKyW7b5VkMTL) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Maroto As Antigas \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/6bp0caW2RBmlCqC5k52EJw) | 7:16 |

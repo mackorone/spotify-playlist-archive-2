@@ -2,7 +2,7 @@
 
 ### [포근 편안 폭신 \(Cozy K\-Pop\)](https://open.spotify.com/playlist/37i9dQZF1DWSvk1AxYsbvo)
 
-> 🐹햄찌와 함께 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.\)
+> 🐹김햄찌와 함께 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.\)
 
 293 songs - 17 hr 1 min
 
@@ -124,7 +124,7 @@
 | [Is this love](https://open.spotify.com/track/6DsrjsrglxSJh7I1dqHk8m) | [heeju](https://open.spotify.com/artist/7K57siwKn5EnZAGr6dD9Ct) | [Is this love](https://open.spotify.com/album/18G5i2H51eARo7jRYS1a97) | 2:47 | 2026-04-13 |  |
 | [Is you](https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb) | [Jay Chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk) | 3:51 | 2023-01-25 | 2023-07-08 |
 | [Is you](https://open.spotify.com/track/36HZ2Z3rvP3i4YFB5tUjY9) | [Jay chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/7y8QDramTNvHWnbFANijH1) | 3:51 | 2022-05-03 | 2022-07-28 |
-| [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 | 2023-01-10 | 2026-04-14 |
+| [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 | 2023-01-10 |  |
 | [It's strange](https://open.spotify.com/track/5UUb6UXXjGhdO9gcyrjeCs) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Bygones at night](https://open.spotify.com/album/4sFVw84S0iMunYWJrcMUQA) | 3:10 | 2022-05-03 | 2022-07-27 |
 | [It's You \(feat\. youś\)](https://open.spotify.com/track/6gVBE95pKlyOjTYig3MEXL) | [Kinn](https://open.spotify.com/artist/1xjybRUDl1NlkiSFXatruo), [youś](https://open.spotify.com/artist/590sDujsxkKEILVfkk3X3Q) | [It's You \(feat\. youś\)](https://open.spotify.com/album/5VFbsPMHmiOc3LIQE9mS1d) | 3:18 | 2024-12-05 | 2025-02-15 |
 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2022-05-03 | 2023-07-08 |
@@ -213,7 +213,7 @@
 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 | 2022-05-03 |  |
 | [Smile Box](https://open.spotify.com/track/1X8U43qt6jQF3HMyAZB5SW) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [My Little Thought](https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g) | 3:26 | 2022-05-03 | 2024-08-11 |
 | [So I Won't Fade](https://open.spotify.com/track/0rCda7npmc8qzmI6oKUOSU) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [So I Won't Fade](https://open.spotify.com/album/6sxwrD306l2STubKc8bn7J) | 2:52 | 2026-03-09 | 2026-04-10 |
-| [Softly](https://open.spotify.com/track/10wby8iW3J6A6z1XY1gfVh) | [Oh Si Young](https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI) | [Softly](https://open.spotify.com/album/7frWMgaysfdDFE6LcQH3ax) | 3:25 | 2026-03-16 |  |
+| [Softly](https://open.spotify.com/track/10wby8iW3J6A6z1XY1gfVh) | [Oh Si Young](https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI) | [Softly](https://open.spotify.com/album/7frWMgaysfdDFE6LcQH3ax) | 3:25 | 2026-03-16 | 2026-04-16 |
 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 | 2022-05-03 | 2023-07-08 |
 | [Something Special](https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:05 | 2022-06-18 | 2024-01-15 |
 | [Sound Sleep \(feat\. Mabinc\)](https://open.spotify.com/track/6fu9R8kbhpABqj12soV73s) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#1](https://open.spotify.com/album/1FJw2Gh31WNocjV5wv5WOB) | 3:09 | 2022-08-12 | 2022-08-19 |

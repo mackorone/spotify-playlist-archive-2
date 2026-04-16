@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag, ny musik fra Tobias Rahim, Katinka, D1MA og maaange flere  ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,619 likes - 93 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,621 likes - 93 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Green Sour Mints",
+        "url": "https://open.spotify.com/album/7JxmGEMidHm4YZTPd8zMn9"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231785,
+      "name": "Green Sour Mints",
+      "url": "https://open.spotify.com/track/4Yt2YK1WcIWkeomUHw95Sf"
+    },
+    {
+      "album": {
         "name": "El Profeta Del Nopal",
         "url": "https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt"
       },

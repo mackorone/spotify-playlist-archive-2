@@ -1,6 +1,6 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47264,
+  "num_followers": 47263,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "Piangere a 90",
-        "url": "https://open.spotify.com/album/1hnBudoNBHLZuExBjV3mM3"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 155532,
-      "name": "Piangere a 90",
-      "url": "https://open.spotify.com/track/0Pq53cPG2DSuPXABoZrYes"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 192000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
+        "name": "Piangere a 90",
+        "url": "https://open.spotify.com/album/1hnBudoNBHLZuExBjV3mM3"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "duration_ms": 155532,
+      "name": "Piangere a 90",
+      "url": "https://open.spotify.com/track/0Pq53cPG2DSuPXABoZrYes"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "BreathingExercise",
-        "url": "https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD"
-      },
-      "artists": [
-        {
-          "name": "surrenderdorothy",
-          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
-        }
-      ],
-      "duration_ms": 119333,
-      "name": "RepeatInfinite",
-      "url": "https://open.spotify.com/track/4ALZ8gmNvmtOVNkZwK19dC"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
         "name": "Come noi",
         "url": "https://open.spotify.com/album/0SB9emzbP6YHcagKLZbabG"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 129882,
       "name": "Come noi",
       "url": "https://open.spotify.com/track/7zmqrn1vES0c7sTKXEl3P0"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
+        "name": "BreathingExercise",
+        "url": "https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD"
+      },
+      "artists": [
+        {
+          "name": "surrenderdorothy",
+          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
+        }
+      ],
+      "duration_ms": 119333,
+      "name": "RepeatInfinite",
+      "url": "https://open.spotify.com/track/4ALZ8gmNvmtOVNkZwK19dC"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "SittingInTheCar",
-        "url": "https://open.spotify.com/album/38aYfUg9RGVSPThWTn3gxC"
-      },
-      "artists": [
-        {
-          "name": "surrenderdorothy",
-          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
-        }
-      ],
-      "duration_ms": 86227,
-      "name": "SittingInTheCar",
-      "url": "https://open.spotify.com/track/1biGLgU3ws2Z9S4iCMLoDx"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
         "name": "OSIRIDE",
         "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 186078,
       "name": "Giovane e triste",
       "url": "https://open.spotify.com/track/7lsnastHievyKnf1cz3FB2"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
+        "name": "SittingInTheCar",
+        "url": "https://open.spotify.com/album/38aYfUg9RGVSPThWTn3gxC"
+      },
+      "artists": [
+        {
+          "name": "surrenderdorothy",
+          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
+        }
+      ],
+      "duration_ms": 86227,
+      "name": "SittingInTheCar",
+      "url": "https://open.spotify.com/track/1biGLgU3ws2Z9S4iCMLoDx"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -787,22 +787,18 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "Il mio lato peggiore",
-        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+        "name": "La mia stanza",
+        "url": "https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Incredibile (feat. Kaash Paige)",
-      "url": "https://open.spotify.com/track/0XpCSax9B6EUS2IEpo3FU6"
+      "duration_ms": 203360,
+      "name": "Male",
+      "url": "https://open.spotify.com/track/07nCfjUbtcJsIxfHdXxlUs"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -823,18 +819,22 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "La mia stanza",
-        "url": "https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b"
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
       },
       "artists": [
         {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
         }
       ],
-      "duration_ms": 203360,
-      "name": "Male",
-      "url": "https://open.spotify.com/track/07nCfjUbtcJsIxfHdXxlUs"
+      "duration_ms": 220800,
+      "name": "Incredibile (feat. Kaash Paige)",
+      "url": "https://open.spotify.com/track/0XpCSax9B6EUS2IEpo3FU6"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/6w0sqUb9pXtssmiDxmd8LK"
-      },
-      "artists": [
-        {
-          "name": "22simba",
-          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
-        }
-      ],
-      "duration_ms": 176033,
-      "name": "Fammi Un Sorriso",
-      "url": "https://open.spotify.com/track/0ADVLH8oGt8Fh2yjiSFV7o"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
         "name": "SPECCHIO",
         "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 91006,
       "name": "SPECCHIO (interludio)",
       "url": "https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/6w0sqUb9pXtssmiDxmd8LK"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "duration_ms": 176033,
+      "name": "Fammi Un Sorriso",
+      "url": "https://open.spotify.com/track/0ADVLH8oGt8Fh2yjiSFV7o"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
+        "name": "cloud love",
+        "url": "https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk"
+      },
+      "artists": [
+        {
+          "name": "Anzj",
+          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
+        }
+      ],
+      "duration_ms": 89832,
+      "name": "sto bene, a volte",
+      "url": "https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
         "name": "PERCH\u00c9 NON TI CAPIVO",
         "url": "https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 142725,
       "name": "PERCH\u00c9 NON TI CAPIVO",
       "url": "https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
-        "name": "cloud love",
-        "url": "https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk"
-      },
-      "artists": [
-        {
-          "name": "Anzj",
-          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
-        }
-      ],
-      "duration_ms": 89832,
-      "name": "sto bene, a volte",
-      "url": "https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
+        "name": "Letto grande",
+        "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
+      },
+      "artists": [
+        {
+          "name": "Matteo Guccini",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+        },
+        {
+          "name": "Fedesse",
+          "url": "https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Letto grande",
+      "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
         "name": "FOTORICORDO",
         "url": "https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE"
       },
@@ -1327,22 +1347,6 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "Lacrime di sale",
-        "url": "https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 195683,
-      "name": "Lacrime di sale",
-      "url": "https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
         "name": "La stella pi\u00f9 bella di sempre",
         "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
       },
@@ -1359,22 +1363,18 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "Letto grande",
-        "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
+        "name": "Lacrime di sale",
+        "url": "https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A"
       },
       "artists": [
         {
-          "name": "Matteo Guccini",
-          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
-        },
-        {
-          "name": "Fedesse",
-          "url": "https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC"
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 211500,
-      "name": "Letto grande",
-      "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
+      "duration_ms": 195683,
+      "name": "Lacrime di sale",
+      "url": "https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1515,34 +1515,22 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "Sotto lo zero",
-        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
+        "name": "Ceramica",
+        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
       },
       "artists": [
         {
           "name": "Nisba",
           "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 180278,
-      "name": "Sotto lo zero",
-      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
-        "name": "QUARTA DIMENSIONE",
-        "url": "https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN"
-      },
-      "artists": [
+        },
         {
-          "name": "Carla Hero",
-          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         }
       ],
-      "duration_ms": 121000,
-      "name": "CAMBIARE VITA",
-      "url": "https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD"
+      "duration_ms": 193000,
+      "name": "Ceramica",
+      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1559,6 +1547,22 @@
       "duration_ms": 180763,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
+        "name": "QUARTA DIMENSIONE",
+        "url": "https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "CAMBIARE VITA",
+      "url": "https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1599,38 +1603,18 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "Ceramica",
-        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
+        "name": "Sotto lo zero",
+        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
       },
       "artists": [
         {
           "name": "Nisba",
           "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        },
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Ceramica",
-      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
-      },
-      "artists": [
-        {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
-        }
-      ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
+      "duration_ms": 180278,
+      "name": "Sotto lo zero",
+      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+      },
+      "artists": [
+        {
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+        }
+      ],
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
         "name": "non sto bene, va bene cos\u00ec",
         "url": "https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN"
       },
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "sfacciati",
-        "url": "https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD"
+        "name": "Winston Blue",
+        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
       },
       "artists": [
         {
-          "name": "UNK",
-          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
+          "name": "WECH PUTO",
+          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
         }
       ],
-      "duration_ms": 145500,
-      "name": "sfacciati",
-      "url": "https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX"
+      "duration_ms": 151013,
+      "name": "Winston Blue",
+      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
     }
   ],
   "unique_name": "rimedi per cuori spezzati",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: 3%
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,798 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,805 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 2 | [Welcome 2 Country](https://open.spotify.com/track/6YmFG6WGFw9WXZzeOc8y9D) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg), [Nooky](https://open.spotify.com/artist/5CCyr43Q4JJ85Cz6Ln28gs), [Mi\-kaisha](https://open.spotify.com/artist/2nDEgpZ9zmM7cqkdUab6Tr) | [Welcome 2 Country](https://open.spotify.com/album/7i0NTuHU1angVTUXlKuz7X) | 2:47 |
 | 3 | [Whistle](https://open.spotify.com/track/3npT8vIhMJQp3NYrs9FjAB) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Whistle](https://open.spotify.com/album/6wdBvLfeROObJGi5nIlyDD) | 2:22 |
 | 4 | [Wolves](https://open.spotify.com/track/2BlD3TjjQGxv0t3TTH7a5C) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI), [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD) | [Wolves](https://open.spotify.com/album/11VWQKzGaFD5p0bA3rfxpP) | 2:59 |
-| 5 | [2EAZY](https://open.spotify.com/track/109kqw1njTghISsOY8c1YF) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H) | [2EAZY](https://open.spotify.com/album/4mDcKwiEyYRpjdVgQAkLFx) | 2:16 |
+| 5 | [2EAZY](https://open.spotify.com/track/109kqw1njTghISsOY8c1YF) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H) | [2EAZY](https://open.spotify.com/album/4mDcKwiEyYRpjdVgQAkLFx) | 2:15 |
 | 6 | [be an adult \(have a breakdown\)](https://open.spotify.com/track/7tctL0fL0PBrr1IYRertWv) | [trials](https://open.spotify.com/artist/3vDxmrKt8X4CQl0RmDLVai) | [be an adult \(have a breakdown\) / …then I got dressed](https://open.spotify.com/album/3Bwhj5QA6GRKlZ848LOYfM) | 3:34 |
 | 7 | [BODYCOUNT](https://open.spotify.com/track/5LdF9GE0jxyCiFkGudFZ2q) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [1900Rugrat](https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5) | [CHALANT](https://open.spotify.com/album/1IXLyXoPqx9UTXL5sQlEMO) | 2:25 |
 | 8 | [Get That](https://open.spotify.com/track/7C0NUZjmIYuUg4YkDc6Uf8) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Get That](https://open.spotify.com/album/2ltXBPQwGqz7OVV1ZNwaVV) | 3:09 |

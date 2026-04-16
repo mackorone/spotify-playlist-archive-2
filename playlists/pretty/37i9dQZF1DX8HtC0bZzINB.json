@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 108342,
+  "num_followers": 108368,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "\u015eampanya",
+        "url": "https://open.spotify.com/album/3IGHVTYbfBsCY4AjdbvvvF"
+      },
+      "artists": [
+        {
+          "name": "Ceg",
+          "url": "https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq"
+        }
+      ],
+      "duration_ms": 253754,
+      "name": "\u015eampanya",
+      "url": "https://open.spotify.com/track/3flurnTXJlSjMa9yj2uvY0"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "Obsession",
         "url": "https://open.spotify.com/album/0ufgmq1tXqQ5W3wG6oioNl"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "\u015eampanya",
-        "url": "https://open.spotify.com/album/3IGHVTYbfBsCY4AjdbvvvF"
-      },
-      "artists": [
-        {
-          "name": "Ceg",
-          "url": "https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq"
-        }
-      ],
-      "duration_ms": 253754,
-      "name": "\u015eampanya",
-      "url": "https://open.spotify.com/track/3flurnTXJlSjMa9yj2uvY0"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
         "name": "ARABA",
         "url": "https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6"
       },
@@ -439,22 +439,18 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Made In Turkey",
-        "url": "https://open.spotify.com/album/1mDlX2DdJbX7FzqWTpCvIl"
+        "name": "RARRii",
+        "url": "https://open.spotify.com/album/23Au28uqhjjeDOfqDWMgnT"
       },
       "artists": [
         {
           "name": "Murda",
           "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
         }
       ],
-      "duration_ms": 196583,
-      "name": "AYA",
-      "url": "https://open.spotify.com/track/1d9GjRbLvVdAVBOTkwew4j"
+      "duration_ms": 167372,
+      "name": "RARRii",
+      "url": "https://open.spotify.com/track/7qGw1hPWBrbJwMdWzWjMXn"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -527,18 +523,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "RARRii",
-        "url": "https://open.spotify.com/album/23Au28uqhjjeDOfqDWMgnT"
+        "name": "Made In Turkey",
+        "url": "https://open.spotify.com/album/1mDlX2DdJbX7FzqWTpCvIl"
       },
       "artists": [
         {
           "name": "Murda",
           "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
         }
       ],
-      "duration_ms": 167372,
-      "name": "RARRii",
-      "url": "https://open.spotify.com/track/7qGw1hPWBrbJwMdWzWjMXn"
+      "duration_ms": 196583,
+      "name": "AYA",
+      "url": "https://open.spotify.com/track/1d9GjRbLvVdAVBOTkwew4j"
     },
     {
       "added_at": "2024-07-08 08:41:13",

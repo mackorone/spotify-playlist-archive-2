@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adwyAAAAAACOIlFSAQrmyp92NqEEwGoM",
+  "snapshot_id": "ad2DgAAAAADuj52ggKjyavncHzY7WRcD",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold Chain Cowboy (Special Edition)",
-        "url": "https://open.spotify.com/album/3OUUrRZtEpwfScVgNVNKx0"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 218804,
-      "name": "Blanco County Rain - Special Edition Track",
-      "url": "https://open.spotify.com/track/633WOcoZ6guzsSOtqE2EAc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Probably Wrong",
         "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gold Chain Cowboy (Special Edition)",
+        "url": "https://open.spotify.com/album/3OUUrRZtEpwfScVgNVNKx0"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 218804,
+      "name": "Blanco County Rain - Special Edition Track",
+      "url": "https://open.spotify.com/track/633WOcoZ6guzsSOtqE2EAc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Limestone Kid",
         "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
       },
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 246466,
-      "name": "Galveston Bay",
-      "url": "https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI"
+      "duration_ms": 226453,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "She'll Dance For Whiskey [Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)]",
-        "url": "https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "She'll Dance For Whiskey - Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)",
-      "url": "https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Probably Wrong",
         "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "She'll Dance For Whiskey [Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)]",
+        "url": "https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "She'll Dance For Whiskey - Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)",
+      "url": "https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Limestone Kid",
         "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
       },
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 226453,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX"
+      "duration_ms": 246466,
+      "name": "Galveston Bay",
+      "url": "https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Probably Wrong",
+        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 253453,
+      "name": "South of the City Lights",
+      "url": "https://open.spotify.com/track/1zf5HO14cdCxaCNXlhwvbV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paper Umbrellas",
         "url": "https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 209968,
       "name": "Paper Umbrellas",
       "url": "https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Probably Wrong",
-        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 253453,
-      "name": "South of the City Lights",
-      "url": "https://open.spotify.com/track/1zf5HO14cdCxaCNXlhwvbV"
     },
     {
       "added_at": null,

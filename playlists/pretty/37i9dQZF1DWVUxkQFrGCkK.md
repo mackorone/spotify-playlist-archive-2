@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: oskar med k
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,350 likes - 443 songs - 1 day 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,376 likes - 443 songs - 1 day 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

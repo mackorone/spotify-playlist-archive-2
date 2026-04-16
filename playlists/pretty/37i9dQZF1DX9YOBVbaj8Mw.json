@@ -1,12 +1,12 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19305,
+  "num_followers": 19304,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAz+jBLzlGeF0S0zXKGlToVPewAZ",
+  "snapshot_id": "aKMumQAAAACmEZ7KRQZSxT+4xfpnyaGN",
   "tracks": [
     {
       "added_at": "2025-04-06 08:27:45",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Himalaje",
-        "url": "https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m"
-      },
-      "artists": [
-        {
-          "name": "Mela Koteluk",
-          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
-        }
-      ],
-      "duration_ms": 207677,
-      "name": "Himalaje",
-      "url": "https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Czekam na \u015bwit",
         "url": "https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 196103,
       "name": "Zagrajmy",
       "url": "https://open.spotify.com/track/4p9Z6HmEeO3ucTOmgpbgf9"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Himalaje",
+        "url": "https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m"
+      },
+      "artists": [
+        {
+          "name": "Mela Koteluk",
+          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
+        }
+      ],
+      "duration_ms": 207677,
+      "name": "Himalaje",
+      "url": "https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "WAWA",
-        "url": "https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV"
-      },
-      "artists": [
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        }
-      ],
-      "duration_ms": 196145,
-      "name": "Sierpie\u0144",
-      "url": "https://open.spotify.com/track/0tH24ae0FBxOucvo21QW01"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "XXX Years Ov Blasphemy",
         "url": "https://open.spotify.com/album/4SNgCerS7obje1M8pIcdXf"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 180906,
       "name": "Cursed Angel of Doom - Live",
       "url": "https://open.spotify.com/track/14yjHvuMk4qEcdXnuKvVjF"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "WAWA",
+        "url": "https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 196145,
+      "name": "Sierpie\u0144",
+      "url": "https://open.spotify.com/track/0tH24ae0FBxOucvo21QW01"
     },
     {
       "added_at": "2025-04-06 08:27:45",

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-962 songs - 2 day 10 hr 24 min
+963 songs - 2 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,6 +903,7 @@
 | [Violent Jubilee](https://open.spotify.com/track/7HsV8OYfMry5VaY0oAxrhV) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Genevieve](https://open.spotify.com/album/2yCQ4DLqD50tTYiszcVR6o) | 5:09 | 2025-12-28 | 2026-01-01 |
 | [Virtual You](https://open.spotify.com/track/5TAlGe3sXWSYHuVEbrwN2W) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Virtual You](https://open.spotify.com/album/4qgvcFgjKdcLQRcgd12DNo) | 2:08 | 2024-09-07 | 2024-11-14 |
 | [Voices \(From "The Beach"\)](https://open.spotify.com/track/6mSzYWvicve9JYLFv0JFIf) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunmachine](https://open.spotify.com/album/6uJ1r53qcGH1oEWrHKf7dp) | 5:19 | 2025-08-17 | 2025-08-23 |
+| [Wabash Cannonball](https://open.spotify.com/track/5RKPe1oN9lGayUCKn00fYi) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [The Essential Roy Acuff](https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM) | 2:36 | 2026-04-15 |  |
 | [Walkin'](https://open.spotify.com/track/2Ll9VtmKPqyA09NnNEO6r7) | [Patti Whipp](https://open.spotify.com/artist/5eZRV1fHID81uBDkgQbofh) | [Walkin' b/w It's Gone](https://open.spotify.com/album/0zrnvbumoAzMEUHRbfNBwN) | 2:34 | 2024-03-09 | 2024-05-16 |
 | [Walking and Falling](https://open.spotify.com/track/0jV8lPEbz6mVI6Q34Ru0ym) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G) | [Big Science](https://open.spotify.com/album/5nfdstl6JxGrDQtm1B2LnZ) | 2:13 | 2025-04-20 | 2025-05-09 |
 | [Walking by Flashlight \- Thompson Fields Version](https://open.spotify.com/track/5i905CIs4whDxffaFOH4eH) | [Maria Schneider](https://open.spotify.com/artist/61bWkkCyCh1jSBmAKdC7sg), [Maria Schneider Orchestra](https://open.spotify.com/artist/6AUV57pKJN9J0V7JRZmrcF), [Maria Schneider Jazz Orchestra](https://open.spotify.com/artist/4YYi31zfDVuZjx8AR1FlMO) | [The Essential Maria Schneider](https://open.spotify.com/album/5TDoy8L0syQ3EepzY3hkHb) | 5:01 | 2025-10-26 | 2025-11-15 |

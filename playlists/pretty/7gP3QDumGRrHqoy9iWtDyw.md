@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,687 likes - 71 songs - 4 hr 10 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,688 likes - 71 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 | 38 | [Can’t Get No Love](https://open.spotify.com/track/0UcZabJMyHgdPMxoXGT4nc) | [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Can’t Get No Love](https://open.spotify.com/album/6CimO5ETB81efn4AvQIi4C) | 3:02 |
 | 39 | [Got The Funk](https://open.spotify.com/track/62HMqOpPcNgECRoOMUD8B2) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Capri](https://open.spotify.com/artist/4eHpewi8qb1L05TZvgKn7Z) | [Got The Funk](https://open.spotify.com/album/7suz7uIzl0sWYEaGjU5g8R) | 3:04 |
 | 40 | [Warehouse Symphony \- Pinto's One Two Edit](https://open.spotify.com/track/6ilSxc9mxzKfseKhCMsGbg) | [Pinto \(NYC\)](https://open.spotify.com/artist/4rldFvbl9NIVFrsguo5epO) | [Warehouse Symphony EP](https://open.spotify.com/album/4EayQhlke57qqYx5kL4ryh) | 3:30 |
-| 41 | [Bad Kubing](https://open.spotify.com/track/1dI9RBzkC4AQjMnukyV2Vz) | [dillon nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Bad Kubing](https://open.spotify.com/album/3tx73yrQaQuqB6CH0qnMOx) | 2:44 |
+| 41 | [Bad Kubing](https://open.spotify.com/track/1dI9RBzkC4AQjMnukyV2Vz) | [dillon nathaniel.](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Bad Kubing](https://open.spotify.com/album/3tx73yrQaQuqB6CH0qnMOx) | 2:44 |
 | 42 | [Go Hard](https://open.spotify.com/track/50xAER3SrklBtW7Fe0VciT) | [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [Go Hard](https://open.spotify.com/album/4kaqg98ATagSsnzO0Pl5y0) | 2:56 |
 | 43 | [Face Off](https://open.spotify.com/track/3MMRDkrBFf5hRcFaXxRvIG) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Face Off](https://open.spotify.com/album/4b0zRtK8MecEecbsxIQJMG) | 2:54 |
 | 44 | [Get Hyped](https://open.spotify.com/track/7dbBjMNdSuuUKAMHJVbYv0) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Get Hyped](https://open.spotify.com/album/4YNhZdyR2LwcCzvVJq3S9M) | 3:17 |

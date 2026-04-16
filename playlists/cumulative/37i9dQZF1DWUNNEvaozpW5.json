@@ -1869,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Canciones chulas",
+        "url": "https://open.spotify.com/album/0j6TQGdzr2Lq71cFpbGUxW"
+      },
+      "artists": [
+        {
+          "name": "Los Enemigos",
+          "url": "https://open.spotify.com/artist/4uiuj3kqeIHmTH87B7VMnr"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223920,
+      "name": "Canciones chulas",
+      "url": "https://open.spotify.com/track/4NQQ79oNnFcqm0UNG4sf1U"
+    },
+    {
+      "album": {
         "name": "Candela",
         "url": "https://open.spotify.com/album/3l9sGjSIG3STFT8V65JUB1"
       },

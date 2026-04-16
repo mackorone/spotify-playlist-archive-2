@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-158 songs - 9 hr 15 min
+160 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Super\-Heróis](https://open.spotify.com/track/6LDXpZyQXfT3YhQeDFuaSn) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heróis](https://open.spotify.com/album/1QLpxqo89sJiEJa0IEbEtx) | 3:19 | 2025-10-27 |  |
 | [Sweet](https://open.spotify.com/track/5vAGu3ICXxbTEK390kM0mQ) | [Larochelle](https://open.spotify.com/artist/16vZNpQon0yfpec96FdUVY) | [Deux II](https://open.spotify.com/album/3C9ScLyZdjp6OjWRMrix2R) | 3:36 | 2025-09-25 | 2025-12-17 |
 | [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 | 2025-09-04 | 2025-12-17 |
+| [Synth Hearts](https://open.spotify.com/track/467xmMRLAY5vlMyuSxJRj4) | [Billy Manilli](https://open.spotify.com/artist/7ghnXMugKVqRgtg0DjKKhT) | [Joe Dumars/Synth Hearts](https://open.spotify.com/album/209BcoVqirjS4BdfJrHwLV) | 4:37 | 2026-04-15 |  |
 | [Tangerine Dream](https://open.spotify.com/track/0JwjzbKBP6poHooDgqhlCZ) | [ALRIGHT](https://open.spotify.com/artist/6wsLLtTC30cVoWIpjFX8xx) | [Tangerine Dream](https://open.spotify.com/album/51D2TTeRC7Slr7pAz6BbSc) | 2:27 | 2025-12-12 |  |
 | [Tant Pis Pour Toi](https://open.spotify.com/track/2oxvhILb15VnXzfDWdoNq9) | [Loussiné](https://open.spotify.com/artist/3zLxLK1oV8PCGYcwAF09Un) | [Tant Pis Pour Toi](https://open.spotify.com/album/4oRkPURAwCVEOcVINon90p) | 2:35 | 2025-09-17 | 2025-12-17 |
 | [tears of gratitude](https://open.spotify.com/track/7AYR8wIPevYJw0G7omdYNc) | [anoushka hem](https://open.spotify.com/artist/5tjq7Oyj6Zu5PhVACjwC8t) | [moving forward!](https://open.spotify.com/album/2XlM5L9aWA82ghgUiCk1hw) | 5:13 | 2025-10-28 |  |
@@ -161,6 +162,7 @@
 | [We Want What We Want](https://open.spotify.com/track/2WPGynQzoC5TMdBG89FzlS) | [Shawn Kingsberry](https://open.spotify.com/artist/2h1NkxHseLwxV19EknwrbX), [Greg Crymes](https://open.spotify.com/artist/4N9ubYZJjExqEUZ4N4vcbg) | [We Want What We Want](https://open.spotify.com/album/46mmdEthZpl1sNoh3xs6ZY) | 3:53 | 2025-08-21 | 2025-12-16 |
 | [What I Want](https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:35 | 2025-09-25 | 2025-12-17 |
 | [When the morning comes](https://open.spotify.com/track/25h7h8uwiZOK7Ozfm3NjZR) | [momoyo](https://open.spotify.com/artist/01hxczOKxBEeXGsdqhfp9o) | [When the morning comes](https://open.spotify.com/album/10ht8hfjiZbube8jVBp02T) | 4:35 | 2025-11-18 |  |
+| [Where'd the Time Go](https://open.spotify.com/track/6i6lY3HsgbLGgyM86tHgZn) | [Unlucky, the Artist](https://open.spotify.com/artist/64yoZKpTyLneeIOG4O43nN) | [The Girl in the Green Dress](https://open.spotify.com/album/6vKIe6idsMvaP2g9ohxSda) | 2:18 | 2026-04-15 |  |
 | [YA NO VEO EL SOL](https://open.spotify.com/track/0OAl7XycvZTE3NVY2D0eEY) | [Basta Dalton!](https://open.spotify.com/artist/1vbhFoS8mAWmqosSpsxfUZ) | [YA NO VEO EL SOL](https://open.spotify.com/album/3lQIftKLCkJDR797Pu4cI0) | 3:09 | 2025-11-01 |  |
 | [You Call Me](https://open.spotify.com/track/03BNEWTnyl9okHOWxgLg2v) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9), [Velvet Stardust](https://open.spotify.com/artist/2J9AoO5nCh1htfy8dv6Svz) | [You Call Me](https://open.spotify.com/album/1VXEenNuByH6jO9G09lXDX) | 2:21 | 2025-09-23 | 2025-12-17 |
 | [You'll Be Ok Tomorrow](https://open.spotify.com/track/7HabeS9NRyTkIH9aLPBf5T) | [Strange Demons](https://open.spotify.com/artist/1voQLX4eaaC2KEb0ACbSGT) | [You'll Be Ok Tomorrow](https://open.spotify.com/album/3F9tf1XrWoseAVis8aT2dS) | 4:32 | 2025-08-28 | 2025-12-17 |

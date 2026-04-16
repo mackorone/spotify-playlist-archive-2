@@ -2539,6 +2539,32 @@
     },
     {
       "album": {
+        "name": "Bulleya Ve | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/0EDLG7SDQLmjVerqen9baP"
+      },
+      "artists": [
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        },
+        {
+          "name": "Swarit Shukl",
+          "url": "https://open.spotify.com/artist/68lFVBZfoBPbKgOLdPaUSb"
+        },
+        {
+          "name": "ASHOK MASKEEN",
+          "url": "https://open.spotify.com/artist/1raw5H3Hs5PAYeOG7UYoMX"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324456,
+      "name": "Bulleya Ve | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/6kb9VzJblzeib3eZD38K98"
+    },
+    {
+      "album": {
         "name": "Chaand",
         "url": "https://open.spotify.com/album/1bY2HK0xaFWGf31hCtcUiW"
       },
@@ -8764,7 +8790,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 330004,
       "name": "Mann Hawa (From \"Assi\")",
       "url": "https://open.spotify.com/track/3B5gqMyA7GrPDihCXHEz9B"
@@ -12022,7 +12048,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 202092,
       "name": "Rooh",
       "url": "https://open.spotify.com/track/4Zd2zHGhX3EcahGSd9vpWQ"
@@ -15249,7 +15275,7 @@
     },
     {
       "album": {
-        "name": "Tum Pe Hi Pyaar Aa Gaya (From \"Ginny Weds Sunny 2\")",
+        "name": "Tum Pe Hi Pyaar Aa Gaya (From \"Ginny Wedss Sunny 2\")",
         "url": "https://open.spotify.com/album/0igY7oDAnxBuVkzBf7I1oe"
       },
       "artists": [
@@ -15270,7 +15296,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 309629,
-      "name": "Tumpe Hi Pyaar Aagaya (From \"Ginny Weds Sunny 2\")",
+      "name": "Tumpe Hi Pyaar Aagaya (From \"Ginny Wedss Sunny 2\")",
       "url": "https://open.spotify.com/track/1pI8d3z9lvKyA24YURbVck"
     },
     {
@@ -15668,6 +15694,32 @@
       "duration_ms": 257763,
       "name": "Yaad Sajan Ki Aaye",
       "url": "https://open.spotify.com/track/5uf4WIA2QAQJhHUIzJinyH"
+    },
+    {
+      "album": {
+        "name": "Yaadon Ke Sahaare Chal (From \"Mercy\")",
+        "url": "https://open.spotify.com/album/6gFu9omUhIA9oTFSd8qzIH"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Kingshuk Chakravarty",
+          "url": "https://open.spotify.com/artist/0MmHrkXeuapU1nIUa8qDnx"
+        },
+        {
+          "name": "Mahika Bheda",
+          "url": "https://open.spotify.com/artist/4CTnZZ73jpOt00pv6cYSlJ"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170720,
+      "name": "Yaadon Ke Sahaare Chal - From \"Mercy\"",
+      "url": "https://open.spotify.com/track/3NKaxgdz3yMhDYMcmq4OEZ"
     },
     {
       "album": {

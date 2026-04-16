@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 237832,
       "name": "Basrah w Atooh",
       "url": "https://open.spotify.com/track/4vIbws1xp082bv0zl8vLaJ"
@@ -22496,6 +22496,10 @@
         {
           "name": "Mahmoud El Esseily",
           "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        },
+        {
+          "name": "Sabren Elnegily",
+          "url": "https://open.spotify.com/artist/235oUgJq1DUHH7PXVmI7oJ"
         }
       ],
       "date_added": "2026-03-11",
@@ -22810,7 +22814,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 195157,
       "name": "\u0648\u0646\u0646\u0633\u0649 \u0627\u0644\u0644\u064a \u0643\u0627\u0646",
       "url": "https://open.spotify.com/track/5ew2q5hC3OwnEWVB15uB9w"

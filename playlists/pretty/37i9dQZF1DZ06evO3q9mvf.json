@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3176,
+  "num_followers": 3182,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adwyAAAAAAD8MlfKri2anUneGrMF9zxx",
+  "snapshot_id": "ad2DgAAAAADNvX8KPRy3paW8TBWarj81",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
+        "name": "From The Basement",
+        "url": "https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 221306,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4"
+      "duration_ms": 98000,
+      "name": "From The Basement",
+      "url": "https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full moon",
-        "url": "https://open.spotify.com/album/19JQE5kPOQTsSIRYtAuaoI"
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 183960,
-      "name": "Full moon",
-      "url": "https://open.spotify.com/track/0ajtqxmXFgB9dRCXYSMf2J"
+      "duration_ms": 221306,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Basement",
-        "url": "https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs"
+        "name": "Full moon",
+        "url": "https://open.spotify.com/album/19JQE5kPOQTsSIRYtAuaoI"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 98000,
-      "name": "From The Basement",
-      "url": "https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2"
+      "duration_ms": 183960,
+      "name": "Full moon",
+      "url": "https://open.spotify.com/track/0ajtqxmXFgB9dRCXYSMf2J"
     },
     {
       "added_at": null,

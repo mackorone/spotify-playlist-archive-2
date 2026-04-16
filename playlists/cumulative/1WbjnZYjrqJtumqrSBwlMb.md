@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,316 songs - 3 day 8 hr 53 min
+1,317 songs - 3 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | ['Til You're Mine](https://open.spotify.com/track/5M1km9JQz8tDel1k8fA1vc) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Belladonna of Sadness](https://open.spotify.com/album/7zo4kiBFeJ6fTRJLTKo7XU) | 3:32 | 2022-07-23 |  |
 | [\(I'm\) Stung](https://open.spotify.com/track/6oW5zKvWlGEZjW0EX2y9Bv) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [\(I’m\) Stung](https://open.spotify.com/album/5Ef6CPuglBPWKolkQtLa3R) | 3:55 | 2024-04-01 |  |
 | [\- \- Recorded at Electric Lady Studios, New York](https://open.spotify.com/track/68H747D2LgwsPsPlVjFZUR) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Spotify Singles](https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q) | 2:25 | 2026-02-01 |  |
+| [10/10](https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 2:26 | 2026-04-16 |  |
 | [123](https://open.spotify.com/track/6JDvvigEkWW9Zsps71kgdn) | [forgive yourself](https://open.spotify.com/artist/4R0PDznz6UhsZTqglLC8Yq) | [Songs I'll Never Release](https://open.spotify.com/album/6a1cLgO7MZ6nFJcRfh5kjE) | 1:28 | 2025-08-30 |  |
 | [1AM FREESTYLE](https://open.spotify.com/track/0FqBNLXlTNimxmVRdDMj6b) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 1:53 | 2022-11-06 |  |
 | [1L0v3myL1f3!](https://open.spotify.com/track/4E7njsLjTwTSSBDXbJg4BF) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [Stardust](https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X) | 3:21 | 2025-12-02 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1603563,
+  "num_followers": 1603552,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Suicidal Tendencies",
+        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Institutionalized",
+      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Collection",
         "url": "https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 128426,
       "name": "Where Eagles Dare",
       "url": "https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Suicidal Tendencies",
-        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Institutionalized",
-      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Living In Darkness (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas"
-      },
-      "artists": [
-        {
-          "name": "Agent Orange",
-          "url": "https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA"
-        }
-      ],
-      "duration_ms": 113240,
-      "name": "Bloodstains - Original Version",
-      "url": "https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Q: Are We Not Men? A: We Are Devo!",
         "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
       },
@@ -319,18 +303,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Marquee Moon",
-        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
+        "name": "Living In Darkness (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas"
       },
       "artists": [
         {
-          "name": "Television",
-          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+          "name": "Agent Orange",
+          "url": "https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA"
         }
       ],
-      "duration_ms": 638426,
-      "name": "Marquee Moon",
-      "url": "https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd"
+      "duration_ms": 113240,
+      "name": "Bloodstains - Original Version",
+      "url": "https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -347,6 +331,22 @@
       "duration_ms": 146560,
       "name": "Rise Above",
       "url": "https://open.spotify.com/track/4kFfFe38CRVnTsakUTL4E4"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Marquee Moon",
+        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
+      },
+      "artists": [
+        {
+          "name": "Television",
+          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+        }
+      ],
+      "duration_ms": 638426,
+      "name": "Marquee Moon",
+      "url": "https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "GI",
+        "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
+      },
+      "artists": [
+        {
+          "name": "Germs",
+          "url": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+        }
+      ],
+      "duration_ms": 104360,
+      "name": "Lexicon Devil",
+      "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Collection 2",
         "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 119826,
       "name": "Last Caress",
       "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "GI",
-        "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
-      },
-      "artists": [
-        {
-          "name": "Germs",
-          "url": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
-        }
-      ],
-      "duration_ms": 104360,
-      "name": "Lexicon Devil",
-      "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "City Baby Attacked by Rats",
+        "url": "https://open.spotify.com/album/3E9flqSwqJRUuhZ3l4K8S6"
+      },
+      "artists": [
+        {
+          "name": "GBH",
+          "url": "https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY"
+        }
+      ],
+      "duration_ms": 152746,
+      "name": "Sick Boy",
+      "url": "https://open.spotify.com/track/4w6R5BW7q2u06Cq9vA5Kn8"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Operation Ivy",
         "url": "https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "City Baby Attacked by Rats",
-        "url": "https://open.spotify.com/album/3E9flqSwqJRUuhZ3l4K8S6"
+        "name": "Wild in the Streets",
+        "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
       },
       "artists": [
         {
-          "name": "GBH",
-          "url": "https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY"
+          "name": "Circle Jerks",
+          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
         }
       ],
-      "duration_ms": 152746,
-      "name": "Sick Boy",
-      "url": "https://open.spotify.com/track/4w6R5BW7q2u06Cq9vA5Kn8"
+      "duration_ms": 155693,
+      "name": "Wild in the Streets",
+      "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1459,18 +1475,34 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Wild in the Streets",
-        "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
+        "name": "Bad Brains",
+        "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
       },
       "artists": [
         {
-          "name": "Circle Jerks",
-          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
         }
       ],
-      "duration_ms": 155693,
-      "name": "Wild in the Streets",
-      "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
+      "duration_ms": 132786,
+      "name": "Banned In D.C.",
+      "url": "https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Loud, Fast, Ramones: Their Toughest Hits",
+        "url": "https://open.spotify.com/album/0Me9wrzxQGN7vZDudzlI4t"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Rock 'N' Roll High School - Remastered",
+      "url": "https://open.spotify.com/track/0CZPjc07HBHxmZVvVnnHWx"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1487,22 +1519,6 @@
       "duration_ms": 206666,
       "name": "Hurry Up Harry",
       "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Bad Brains",
-        "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
-      },
-      "artists": [
-        {
-          "name": "Bad Brains",
-          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
-        }
-      ],
-      "duration_ms": 115040,
-      "name": "Sailin' On",
-      "url": "https://open.spotify.com/track/05Uw3uX5jzesUSIF91gWDv"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1539,6 +1555,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Bad Brains",
+        "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
+      },
+      "artists": [
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "duration_ms": 115040,
+      "name": "Sailin' On",
+      "url": "https://open.spotify.com/track/05Uw3uX5jzesUSIF91gWDv"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Pink Flag",
         "url": "https://open.spotify.com/album/5dfFLlA2pgPWdZZxrgZAGP"
       },
@@ -1555,6 +1587,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Germ Free Adolescents: The Anthology",
+        "url": "https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9"
+      },
+      "artists": [
+        {
+          "name": "X-Ray Spex",
+          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Identity",
+      "url": "https://open.spotify.com/track/7xvIF8xmq2HsN2jvNcrEiv"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
       },
@@ -1567,54 +1615,6 @@
       "duration_ms": 155626,
       "name": "Bad Mouth",
       "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Bad Brains",
-        "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
-      },
-      "artists": [
-        {
-          "name": "Bad Brains",
-          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
-        }
-      ],
-      "duration_ms": 132786,
-      "name": "Banned In D.C.",
-      "url": "https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "First Two 7s",
-        "url": "https://open.spotify.com/album/3OirN90yBh2bSaIHcWyGsV"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 47226,
-      "name": "Straight Edge",
-      "url": "https://open.spotify.com/track/1xXKacUn8XhZ2ifv05RjL1"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Operators Manual (Buzzcocks Best)",
-        "url": "https://open.spotify.com/album/61K4bZBmmHrMdTZiRWERBF"
-      },
-      "artists": [
-        {
-          "name": "Buzzcocks",
-          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "What Do I Get?",
-      "url": "https://open.spotify.com/track/69cHTfo3Dc7S4sl1bQScNO"
     }
   ],
   "unique_name": "Classic Punk",

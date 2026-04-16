@@ -4,7 +4,7 @@
 
 > Listen to selected nominees for the 68th GRAMMY Awards.
 
-888 songs - 2 day 11 hr 32 min
+889 songs - 2 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [For God Is With Us](https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [For God Is With Us](https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn) | 3:16 | 2022-11-24 | 2023-11-11 |
 | [Formwela 10](https://open.spotify.com/track/1Xc5Htlpv1zgLRkY5drs9V) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [SONGWRIGHTS APOTHECARY LAB](https://open.spotify.com/album/3x2EYKuBcxSlog5QdD1hTO) | 3:28 | 2022-03-29 | 2022-11-24 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-11-08 | 2025-11-08 |
-| [Four](https://open.spotify.com/track/4lRAemYqmqH4B5sMWmeRpg) | [Michael Mayo](https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4) | [Fly](https://open.spotify.com/album/2lN2HpUppxgHZ3S5gzZ1qV) | 3:23 | 2025-11-07 |  |
+| [Four](https://open.spotify.com/track/4lRAemYqmqH4B5sMWmeRpg) | [Michael Mayo](https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4) | [Fly](https://open.spotify.com/album/2lN2HpUppxgHZ3S5gzZ1qV) | 3:23 | 2025-11-07 | 2026-04-16 |
 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 | 2022-03-29 | 2022-11-24 |
 | [From The Start](https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:49 | 2023-11-10 | 2024-11-09 |
 | [From This Place](https://open.spotify.com/track/4KmmcGnoSmo8BrKQTrb2HD) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [From This Place](https://open.spotify.com/album/5PfjsKZLI9whAwPSfNgnES) | 4:40 | 2021-03-10 | 2022-03-30 |
@@ -462,6 +462,7 @@
 | [Let Me Go](https://open.spotify.com/track/2tTyOqKFskYSQHxBGXNdhe) | [Mykal Kilgore](https://open.spotify.com/artist/0YO1x9lk7UJdHjR16lC23F) | [A Man Born Black](https://open.spotify.com/album/4ZuzPJ4oWqQ5lmXVp1Q4W1) | 3:45 | 2021-03-10 | 2022-03-30 |
 | [Let Me Stay in Your Arms](https://open.spotify.com/track/6OQ4HnTJkf2n4nyQvtm2tY) | [Cameron Dupuy & the Cajun Troubadours](https://open.spotify.com/artist/1sI2HC9gnmceN3ju1MSRzv) | [Cameron Dupuy and the Cajun Troubadours](https://open.spotify.com/album/3UBRkGnzBNJff03hnAghkp) | 3:39 | 2021-03-10 | 2022-03-30 |
 | [Let The Church Sing](https://open.spotify.com/track/7Anygo62MNwOsASBpIzWYr) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Let The Church Sing](https://open.spotify.com/album/7pAwBOLjE8lWRZ0TZgpdHx) | 2:56 | 2025-11-07 |  |
+| [Letter To My 13 Year Old Self](https://open.spotify.com/track/7zOjSNTAUdwu3JK6Yt8uxF) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Secret Of Life: Partners, Volume 2](https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2) | 4:56 | 2025-11-12 |  |
 | [LEVII'S JEANS](https://open.spotify.com/track/2UDARQiksl207HcSduDpov) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:17 | 2024-11-08 | 2025-11-08 |
 | [Liar](https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:24 | 2025-11-07 |  |
 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 | 2021-03-10 | 2022-03-30 |

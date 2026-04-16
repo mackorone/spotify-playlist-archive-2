@@ -6,7 +6,7 @@
     "name": "Indie Music",
     "url": "https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg"
   },
-  "snapshot_id": "AAADuyaDmuWhyD1aelvubE+Bxf7V6Evw",
+  "snapshot_id": "AAADvXDIAhcFDsKuXzpPMxH/dGkGv/9o",
   "tracks": [
     {
       "added_at": "2024-04-04 18:03:50",
@@ -1691,6 +1691,38 @@
       "duration_ms": 201487,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/5eR7DNmNasxNbaBRYzoUEI"
+    },
+    {
+      "added_at": "2026-04-15 10:23:49",
+      "album": {
+        "name": "Joe Dumars/Synth Hearts",
+        "url": "https://open.spotify.com/album/209BcoVqirjS4BdfJrHwLV"
+      },
+      "artists": [
+        {
+          "name": "Billy Manilli",
+          "url": "https://open.spotify.com/artist/7ghnXMugKVqRgtg0DjKKhT"
+        }
+      ],
+      "duration_ms": 277439,
+      "name": "Synth Hearts",
+      "url": "https://open.spotify.com/track/467xmMRLAY5vlMyuSxJRj4"
+    },
+    {
+      "added_at": "2026-04-15 10:57:58",
+      "album": {
+        "name": "The Girl in the Green Dress",
+        "url": "https://open.spotify.com/album/6vKIe6idsMvaP2g9ohxSda"
+      },
+      "artists": [
+        {
+          "name": "Unlucky, the Artist",
+          "url": "https://open.spotify.com/artist/64yoZKpTyLneeIOG4O43nN"
+        }
+      ],
+      "duration_ms": 138006,
+      "name": "Where'd the Time Go",
+      "url": "https://open.spotify.com/track/6i6lY3HsgbLGgyM86tHgZn"
     }
   ],
   "unique_name": "Indie Music Artists Essentials",

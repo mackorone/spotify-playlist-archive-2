@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Eileen Alister
 
-517 songs - 1 day 2 hr 44 min
+518 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 | 2025-04-24 | 2025-05-02 |
 | [Ewigi Liäbi](https://open.spotify.com/track/5ZhhqmfPUKOvrtApk9fSOh) | [Mash](https://open.spotify.com/artist/3B57Z4DUtbwlGvAlTWzCPl) | [Nid Vo Bärn](https://open.spotify.com/album/1bL3dNNhKomStmA6QuE6KY) | 4:21 | 2025-05-08 | 2025-05-16 |
 | [exit door](https://open.spotify.com/track/3ACRopLRVpHh4WAGyNAPQO) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [exit door](https://open.spotify.com/album/2FSf42CGwejkhmBUJEzpty) | 2:01 | 2025-08-14 | 2025-09-06 |
-| [Exit Wound](https://open.spotify.com/track/6WeaUVL7TMsSwEsAHAtJVc) | [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv), [Bad Boyfriend](https://open.spotify.com/artist/6i2nBCTVvTRt4YprAm8lkq) | [Exit Wound](https://open.spotify.com/album/68SbLgPXANkmt0yqEuvntV) | 2:16 | 2026-02-26 |  |
+| [Exit Wound](https://open.spotify.com/track/6WeaUVL7TMsSwEsAHAtJVc) | [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv), [Bad Boyfriend](https://open.spotify.com/artist/6i2nBCTVvTRt4YprAm8lkq) | [Exit Wound](https://open.spotify.com/album/68SbLgPXANkmt0yqEuvntV) | 2:16 | 2026-02-26 | 2026-04-16 |
 | [F\*gg Di](https://open.spotify.com/track/7Ke1aQ1Ppg8vzVgp6IHeIH) | [Tommy Vercetti](https://open.spotify.com/artist/26ZoEX0BLjUNba2ED2JyP3), [Dezmond Dez](https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD), [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [Ostbärn gseh und stärbe](https://open.spotify.com/album/7lfj26zC3hF9Gm9mHSqxyk) | 3:39 | 2025-04-24 | 2025-05-02 |
 | [Fading Fire](https://open.spotify.com/track/6MByHM4f80ba7SdRgNDdtZ) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Fading Fire](https://open.spotify.com/album/4948hTZx3MeXxnG39mSniT) | 2:33 | 2025-05-22 | 2025-05-24 |
 | [Fall](https://open.spotify.com/track/1byuhNxuaxTl2LUIkewV0t) | [Gigi Malua](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Fall](https://open.spotify.com/album/2VSTDIH1sT7ZzxanLuShoG) | 2:25 | 2025-11-27 | 2026-03-11 |
@@ -499,6 +499,7 @@
 | [We Got Love](https://open.spotify.com/track/6o2HzZfazmewxdXpYufWRx) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [We Got Love](https://open.spotify.com/album/2KBis9Of82TXR9ZDtwGrpL) | 2:20 | 2024-06-27 | 2024-10-20 |
 | [we should get married](https://open.spotify.com/track/2a8VJhlIkaqZqhW0JGKxcL) | [Jonny Breaux](https://open.spotify.com/artist/3yAa6SGambiG5LAk4tLTtR) | [we should get married](https://open.spotify.com/album/3t6Osg4q5C5TarZi0EOAzd) | 2:28 | 2026-04-02 |  |
 | [Weekend](https://open.spotify.com/track/3XiLkVWxjafBq4YcvtCqq8) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Été sans fin](https://open.spotify.com/album/5ya3DUeWCWz2gtftAC3tLH) | 2:24 | 2025-04-24 | 2025-05-02 |
+| [Weekend](https://open.spotify.com/track/2OUDuS00X3uIdcklQB1Ylv) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [All the Colors of the Sky](https://open.spotify.com/album/19P0yRLN8TbnBVk8qUAYgZ) | 3:32 | 2026-04-02 |  |
 | [Weird Kid](https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Weird Kid](https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6) | 3:45 | 2025-06-26 | 2026-03-06 |
 | [Wenn Du Das Lied Ghörsch](https://open.spotify.com/track/4Iu56eMBRx5CN6l5m4M16o) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Fürs Volk](https://open.spotify.com/album/5LMk7KjAHAhOqEna4GNqZG) | 3:33 | 2025-05-01 | 2025-05-09 |
 | [Wer hats erfunden](https://open.spotify.com/track/0QDZw9cs0VnQzEol2DfGJh) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Wer hats erfunden](https://open.spotify.com/album/52JBA7u2pkfcovbX91KTpm) | 2:12 | 2025-05-22 | 2025-09-13 |

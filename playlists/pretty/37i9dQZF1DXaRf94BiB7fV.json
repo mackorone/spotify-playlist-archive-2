@@ -1,13 +1,85 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - Imon",
-  "num_followers": 61163,
+  "description": "The best new music by independent artists and labels in India. Cover - ANA",
+  "num_followers": 61174,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPpWhQ2yk0HC+1HpcsJ35WoZY5u6",
+  "snapshot_id": "AAAAAOfPFoWCUGTWSJpJPNGkmrWnYK7C",
   "tracks": [
+    {
+      "added_at": "2026-04-15 07:30:21",
+      "album": {
+        "name": "Nazuk",
+        "url": "https://open.spotify.com/album/06NeR1JGVs0xsQB6lMfvwO"
+      },
+      "artists": [
+        {
+          "name": "ANA",
+          "url": "https://open.spotify.com/artist/4tqpVHY6GZqYwhNMFrhnkA"
+        }
+      ],
+      "duration_ms": 129782,
+      "name": "Nazuk",
+      "url": "https://open.spotify.com/track/1h6lqLrGAqjBekqf38n03m"
+    },
+    {
+      "added_at": "2026-04-15 07:30:21",
+      "album": {
+        "name": "Ambwa Talay",
+        "url": "https://open.spotify.com/album/4QlxOqWwjzTFTbUCqpWR5u"
+      },
+      "artists": [
+        {
+          "name": "Gurupriya Atreya",
+          "url": "https://open.spotify.com/artist/0OO4ioldaC9gDh0XBHy11I"
+        },
+        {
+          "name": "Hriday Goswami",
+          "url": "https://open.spotify.com/artist/4IpSIc9T223yFJHve2gVF7"
+        }
+      ],
+      "duration_ms": 312832,
+      "name": "Ambwa Talay",
+      "url": "https://open.spotify.com/track/1CyLBIdvwHLXTrDm7PD8TY"
+    },
+    {
+      "added_at": "2026-04-15 07:30:21",
+      "album": {
+        "name": "Khwabon Ka Sheher",
+        "url": "https://open.spotify.com/album/7f7nvIbOzA9mIsz7llqphg"
+      },
+      "artists": [
+        {
+          "name": "Tuhin Handique",
+          "url": "https://open.spotify.com/artist/6nySCJ1ZsWj9bq5b5l6J1E"
+        },
+        {
+          "name": "tav",
+          "url": "https://open.spotify.com/artist/0vBZXvMTqOaXp3oKnrpvoy"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Khwabon Ka Sheher",
+      "url": "https://open.spotify.com/track/5ZTfCBOy7dWKgNLCVHjvRq"
+    },
+    {
+      "added_at": "2026-04-15 07:30:21",
+      "album": {
+        "name": "Dil Gareeb",
+        "url": "https://open.spotify.com/album/3E5UzoxlKz9G63pNj05zsX"
+      },
+      "artists": [
+        {
+          "name": "Harry Arora",
+          "url": "https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Dil Gareeb",
+      "url": "https://open.spotify.com/track/3SyqWXqSNC8VyHBUGIABdn"
+    },
     {
       "added_at": "2026-04-08 07:30:06",
       "album": {
@@ -799,86 +871,6 @@
       "duration_ms": 166840,
       "name": "NOT A ROCKSTAR",
       "url": "https://open.spotify.com/track/3A8cLBzIsB5iIr8Byu5eqE"
-    },
-    {
-      "added_at": "2026-04-08 07:30:06",
-      "album": {
-        "name": "November",
-        "url": "https://open.spotify.com/album/7EOj6AfQac4m3NvQcxYZDa"
-      },
-      "artists": [
-        {
-          "name": "Ronit",
-          "url": "https://open.spotify.com/artist/3OURcL9YWDhgu7ozioKqqR"
-        }
-      ],
-      "duration_ms": 269454,
-      "name": "November",
-      "url": "https://open.spotify.com/track/0UHjTYYVAYebbbGiLgQs1v"
-    },
-    {
-      "added_at": "2026-04-08 07:30:06",
-      "album": {
-        "name": "Mera Ho Jaye",
-        "url": "https://open.spotify.com/album/5ioBBjFM8HgkUlCGsmJyRe"
-      },
-      "artists": [
-        {
-          "name": "Paras Chhaya",
-          "url": "https://open.spotify.com/artist/1lwvoa7cYVXSeXfJPD40ZN"
-        },
-        {
-          "name": "Christina Gurung",
-          "url": "https://open.spotify.com/artist/5F0oed2sGuf98wUU5vb2el"
-        }
-      ],
-      "duration_ms": 349995,
-      "name": "Mera Ho Jaye",
-      "url": "https://open.spotify.com/track/2HZIIRP3VbKb5haEljXuxL"
-    },
-    {
-      "added_at": "2026-04-08 07:30:06",
-      "album": {
-        "name": "Maano Na Yaar",
-        "url": "https://open.spotify.com/album/4BBpN3l7ttm0xeSAbS4pta"
-      },
-      "artists": [
-        {
-          "name": "Shubham Mody",
-          "url": "https://open.spotify.com/artist/2s5JRMkonkFF1IUhqHdsxS"
-        },
-        {
-          "name": "Akshata Kulkarni",
-          "url": "https://open.spotify.com/artist/14gTv0SZV8U9XUTbCB82gC"
-        },
-        {
-          "name": "Prakhar Yadav",
-          "url": "https://open.spotify.com/artist/4Do5isIX41eECxZV43PGdy"
-        }
-      ],
-      "duration_ms": 204935,
-      "name": "Maano Na Yaar",
-      "url": "https://open.spotify.com/track/3zMWhPIwFzzrapTwkWpWgn"
-    },
-    {
-      "added_at": "2026-04-08 07:30:06",
-      "album": {
-        "name": "Udta Hi Rehta",
-        "url": "https://open.spotify.com/album/52mcXSyEc2hapAACQM4AWA"
-      },
-      "artists": [
-        {
-          "name": "Yash Borse",
-          "url": "https://open.spotify.com/artist/0ql7dRlwJHQjnwGMBKk6iB"
-        },
-        {
-          "name": "Rushikesh Jadhav",
-          "url": "https://open.spotify.com/artist/1sE14c51iUQCus8DrpzYyv"
-        }
-      ],
-      "duration_ms": 145730,
-      "name": "Udta Hi Rehta",
-      "url": "https://open.spotify.com/track/1YZqRzAanVW4f4cRVMtd5c"
     },
     {
       "added_at": "2026-04-08 07:30:06",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Lilly Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,605 likes - 154 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,639 likes - 154 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

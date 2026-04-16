@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"Nijigasaki High School Idol Club\". \u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\n",
-  "num_followers": 18944,
+  "num_followers": 18945,
   "original_name": "Love Live! Nijigasaki High School Idol Club",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Love U my friends",
-        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
-      },
-      "artists": [
-        {
-          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
-          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
-        }
-      ],
-      "duration_ms": 269453,
-      "name": "MELODY",
-      "url": "https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "Just Believe!!!",
         "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 234240,
       "name": "\u6c7a\u610f\u306e\u5149",
       "url": "https://open.spotify.com/track/5bKOT6xcTF9SLJw4sKgb2s"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "duration_ms": 269453,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -395,18 +395,18 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
       },
       "artists": [
         {
-          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
-          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
         }
       ],
-      "duration_ms": 257519,
-      "name": "\u54c0\u6e29\u30ce\u8a69",
-      "url": "https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6"
+      "duration_ms": 238560,
+      "name": "Beautiful Moonlight",
+      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
-      },
-      "artists": [
-        {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Beautiful Moonlight",
-      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "SUPER NOVA",
         "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 253373,
       "name": "Love Triangle",
       "url": "https://open.spotify.com/track/5xzlhflKSdWND9ebn7rBDw"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "\u54c0\u6e29\u30ce\u8a69",
+      "url": "https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -475,18 +475,18 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "\u3069\u3053\u306b\u3044\u3066\u3082\u541b\u306f\u541b",
-        "url": "https://open.spotify.com/album/3ByQWR8ogTlrWM7lh5i5Om"
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
       "artists": [
         {
-          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
-          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
+          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
         }
       ],
-      "duration_ms": 233960,
-      "name": "Cara Tesoro",
-      "url": "https://open.spotify.com/track/0Qgi48UqdmsFcKCH3a8NKG"
+      "duration_ms": 224720,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/2H8qziW7IGOPO3yXAhk9o4"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -507,34 +507,34 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e2d\u9808\u304b\u3059\u307f\u76e4)",
+        "url": "https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar"
       },
       "artists": [
         {
-          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
-          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
         }
       ],
-      "duration_ms": 224720,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/2H8qziW7IGOPO3yXAhk9o4"
+      "duration_ms": 258146,
+      "name": "Poppin' Up!",
+      "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
     },
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
+        "name": "\u3069\u3053\u306b\u3044\u3066\u3082\u541b\u306f\u541b",
+        "url": "https://open.spotify.com/album/3ByQWR8ogTlrWM7lh5i5Om"
       },
       "artists": [
         {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
         }
       ],
-      "duration_ms": 281920,
-      "name": "Sing & Smile!!",
-      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
+      "duration_ms": 233960,
+      "name": "Cara Tesoro",
+      "url": "https://open.spotify.com/track/0Qgi48UqdmsFcKCH3a8NKG"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -555,18 +555,18 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e2d\u9808\u304b\u3059\u307f\u76e4)",
-        "url": "https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar"
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
       },
       "artists": [
         {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
         }
       ],
-      "duration_ms": 258146,
-      "name": "Poppin' Up!",
-      "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
+      "duration_ms": 281920,
+      "name": "Sing & Smile!!",
+      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -587,8 +587,8 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Awakening Promise / \u5922\u304c\u3053\u3053\u304b\u3089\u306f\u3058\u307e\u308b\u3088",
-        "url": "https://open.spotify.com/album/2AVHHCRSevbqVGmSNAos6o"
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
         }
       ],
-      "duration_ms": 253746,
-      "name": "Awakening Promise",
-      "url": "https://open.spotify.com/track/5tURJEIapyFgJB6OoykQJI"
+      "duration_ms": 258812,
+      "name": "\u958b\u82b1\u5ba3\u8a00",
+      "url": "https://open.spotify.com/track/2I2gxRtOhtaghM4kmQbFYH"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -715,8 +715,8 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Love U my friends",
-        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
         }
       ],
-      "duration_ms": 253320,
-      "name": "\u30c6\u30ec\u30c6\u30ec\u30d1\u30b7\u30fc",
-      "url": "https://open.spotify.com/track/1mMPqcCOJjvWOjBcgNZNdL"
+      "duration_ms": 280106,
+      "name": "\u30a2\u30ca\u30ed\u30b0\u30cf\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/6vWqcL79ETNeXDZpR231Tn"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "MONSTER GIRLS",
-        "url": "https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi"
-      },
-      "artists": [
-        {
-          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
-          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "\u7fe0\u3044\u30ab\u30ca\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/0pcnND4RErXrefEfytdlr8"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "Love U my friends",
         "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 260560,
       "name": "\u58f0\u7e4b\u3054\u3046\u3088",
       "url": "https://open.spotify.com/track/2wu07j9FHCuZ99fRfbjnK7"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
+          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "\u7fe0\u3044\u30ab\u30ca\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/0pcnND4RErXrefEfytdlr8"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -795,8 +795,8 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
         }
       ],
-      "duration_ms": 280106,
-      "name": "\u30a2\u30ca\u30ed\u30b0\u30cf\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/6vWqcL79ETNeXDZpR231Tn"
+      "duration_ms": 253320,
+      "name": "\u30c6\u30ec\u30c6\u30ec\u30d1\u30b7\u30fc",
+      "url": "https://open.spotify.com/track/1mMPqcCOJjvWOjBcgNZNdL"
     },
     {
       "added_at": "2025-07-21 16:15:15",

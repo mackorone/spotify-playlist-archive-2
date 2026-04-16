@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: James Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,016 likes - 160 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,023 likes - 160 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 35 | [Imagine](https://open.spotify.com/track/3kpODMFZjNcZDCglcqenuy) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Imagine](https://open.spotify.com/album/1wpj6QBsof5iWMR3kqfGoM) | 2:34 |
 | 36 | [GREEN VOWS](https://open.spotify.com/track/5yGxrxtSMNFYCOpEfdWgvV) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [MEMORIA, in blue](https://open.spotify.com/album/4oVZVw7nDN256d6Zm5YUId) | 3:43 |
 | 37 | [Honest](https://open.spotify.com/track/04pDLouxkwPk1PBW2FlqJA) | [Ebony Riley](https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo) | [Honest](https://open.spotify.com/album/4bUHERN8RD4z3vO6vxoxdR) | 3:22 |
-| 38 | [Shame](https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Shame](https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG) | 3:02 |
+| 38 | [Shame \(feat\. BunnaB\)](https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Shame \(feat\. BunnaB\)](https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG) | 3:02 |
 | 39 | [worst](https://open.spotify.com/track/67IUHgy0EDJcWX2UWTG7Oz) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [worst](https://open.spotify.com/album/1UTOeZvAysxKZHp2NWHXw0) | 2:46 |
 | 40 | [Maybe](https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Maybe](https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm) | 3:02 |
 | 41 | [We're Losing Recipes](https://open.spotify.com/track/4qGAalUpNKYTkkueGs1WQ1) | [Markus & The Outskrt](https://open.spotify.com/artist/5iUHICy4k2GcMK33e4ot5v) | [We're Losing Recipes](https://open.spotify.com/album/5gR7DKqt9jmrhqd5rvFKL3) | 2:36 |

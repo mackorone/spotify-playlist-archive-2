@@ -2,9 +2,9 @@
 
 ### [SIGMA MALE TIKTOK MUSIC \- BEST SIGMA SONGS](https://open.spotify.com/playlist/3XDx4ZH82386rU1QKqWV2Q)
 
-> most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
+> powered by www.releasejet.ai most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-815 songs - 1 day 12 hr 12 min
+816 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,6 +635,7 @@
 | [SBO WRLD \- Cypher](https://open.spotify.com/track/65sLCbk670WIbs46R7BKSh) | [SBO Swampy](https://open.spotify.com/artist/5COKLMFO3UKQRqRlA3nbRO), [Young Kasho](https://open.spotify.com/artist/2Pu1WzfbhbsAwZPKVaPlh1), [Dior](https://open.spotify.com/artist/2iXvEvt2bqyqBHSweN6EUm), [Nikko North$side](https://open.spotify.com/artist/4Na6CcS5oHkseranzfObUp) | [SBO WRLD](https://open.spotify.com/album/4XBr1YvyNXqqcAVEc4fsqc) | 4:38 | 2023-06-12 | 2023-07-29 |
 | [Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Scary Garry](https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP) | 1:39 | 2023-06-12 | 2023-09-26 |
 | [Sea Of Problems \- RAIZHELL Remix](https://open.spotify.com/track/4pi5uj638uQLTWMwowXKpJ) | [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks), [Proof Nation](https://open.spotify.com/artist/7CV2yBOPHytA4ZrSPsjoLA), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [Sea Of Problems \(Remixes\)](https://open.spotify.com/album/44AbKDesE4NuXoxN9c8C59) | 1:43 | 2023-08-21 | 2023-09-26 |
+| [Secluded](https://open.spotify.com/track/2VHn9po8TWkmYm0KeBp4C3) | [HAIKU](https://open.spotify.com/artist/25c4vcdOlW45YrXxTCBipR) | [Secluded](https://open.spotify.com/album/415XFIpxO25qtJB5EUEguP) | 2:50 | 2026-04-15 |  |
 | [See Me](https://open.spotify.com/track/5Az7ApIibeJqX3t31xTvqj) | [Gl0bal](https://open.spotify.com/artist/3nkApPk39ekjlyilodddaV), [BRONZY](https://open.spotify.com/artist/2hwlbb7qNW1pve5XHrpi8e), [RUN CLUB](https://open.spotify.com/artist/5q1MHtaiBZ8FlsuJbIeQza) | [See Me](https://open.spotify.com/album/4t2o5cSp6sBlyYKfpbBQii) | 4:15 | 2025-04-17 | 2025-06-18 |
 | [SENNA](https://open.spotify.com/track/5Q9xUW3jdfwfBMqzwMoq4f) | [Mannequin](https://open.spotify.com/artist/3btewOJD9jMKKrn5IV7nFj), [prod\. DTM](https://open.spotify.com/artist/661DKnfZy9RMb8FcbUZboE) | [SENNA](https://open.spotify.com/album/4Gi8cU9iWI6tAo9Q1SxjlE) | 1:46 | 2024-06-07 | 2024-10-08 |
 | [Sentando](https://open.spotify.com/track/4QCjlsSAFEV8opl2ZYjmVc) | [Shipu](https://open.spotify.com/artist/6SpI2wmQicP9Xhu90lBMqp), [Rviden](https://open.spotify.com/artist/1iQ4LvF29mWmQDUt2TpXDR) | [Sentando](https://open.spotify.com/album/4YRJW60b1mfxwYeYxwUbFU) | 1:39 | 2023-06-12 | 2023-07-11 |

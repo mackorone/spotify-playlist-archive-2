@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Kuba i Kuba
 
-798 songs - 1 day 14 hr 56 min
+799 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,6 +522,7 @@
 | [pijama party](https://open.spotify.com/track/5Lq1A1RyFYEMa08j7ynZJk) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [FREE WIFI](https://open.spotify.com/album/2GKIvHvN2ZmWMNOouIhUQE) | 1:38 | 2025-02-27 | 2025-03-07 |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-02-06 | 2025-03-28 |
 | [piosenka o smutnych ludziach](https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [o smutnych ludziach](https://open.spotify.com/album/5UMxjPRWqpHWjceBhznKop) | 2:37 | 2025-07-03 | 2025-08-27 |
+| [Piosenka z Portugalii](https://open.spotify.com/track/2O9i6Ye9T6CgWDATXWSyRx) | [BEMY](https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb), [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Piosenka z Portugalii](https://open.spotify.com/album/6JBx159DslaGqOkmsM7Sxn) | 2:50 | 2026-04-09 |  |
 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 | 2025-10-21 | 2025-12-06 |
 | [Playing House](https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Playing House](https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u) | 3:38 | 2025-07-10 | 2025-09-17 |
 | [playlista](https://open.spotify.com/track/42xk0YQdDMjas0cefk5mww) | [shane.](https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT), [didi](https://open.spotify.com/artist/52x2PpXaL6h6JesQPInDei) | [PARADOKS LP](https://open.spotify.com/album/4ApLaVSGtglh0DYmPpEkCJ) | 3:32 | 2024-08-01 | 2024-08-23 |
@@ -718,7 +719,7 @@
 | [W moim śnie](https://open.spotify.com/track/4KbU2jeBjeQOsG8T0apLgK) | [Blu](https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K) | [W moim śnie](https://open.spotify.com/album/1cboBq4Gu3OhwHsr48YVHe) | 2:43 | 2024-06-28 | 2024-08-23 |
 | [W snach](https://open.spotify.com/track/5FpxCMdHZTVGvHJVtrkBDk) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Pytania](https://open.spotify.com/album/6gDgbvpxYVyCTwJ1oLifF5) | 3:23 | 2026-03-12 |  |
 | [W takim kraju](https://open.spotify.com/track/3uzasYaubhIPzPwU1la2Ao) | [Kachus](https://open.spotify.com/artist/3Ya5NT5vLex3mCIt2DTmkJ) | [W takim kraju](https://open.spotify.com/album/1hjm91ITxEgtNJqfsa2rZq) | 4:06 | 2025-04-24 | 2025-05-09 |
-| [w\_moim\_małym\_pokoju.mp3](https://open.spotify.com/track/4nbYIpyJ2Np7exXt7TGV0R) | [noffkoffska](https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt) | [w\_moim\_małym\_pokoju.mp3](https://open.spotify.com/album/1lkPGlJd07OW9ORts512yP) | 1:48 | 2026-04-02 |  |
+| [w\_moim\_małym\_pokoju.mp3](https://open.spotify.com/track/4nbYIpyJ2Np7exXt7TGV0R) | [noffkoffska](https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt) | [w\_moim\_małym\_pokoju.mp3](https://open.spotify.com/album/1lkPGlJd07OW9ORts512yP) | 1:48 | 2026-04-02 | 2026-04-16 |
 | [Wakacje](https://open.spotify.com/track/2ECWb0NMqDOh8zEIbmqfoO) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [Wakacje](https://open.spotify.com/album/6s0WtvWCKK6LUGDzNwijj0) | 3:57 | 2025-06-05 | 2025-07-12 |
 | [Warszawa](https://open.spotify.com/track/0gHk4v0XswI91vsbb1mxCi) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Warszawa](https://open.spotify.com/album/0LPGGwbEOOduaKXN1doceo) | 3:54 | 2025-03-13 | 2025-07-04 |
 | [warszawska fantazja](https://open.spotify.com/track/3kmiK0nFMkIRBpU9tQdd32) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [warszawska fantazja](https://open.spotify.com/album/638cXSDmgC9JSmxev4heIT) | 3:23 | 2025-11-11 | 2026-01-31 |

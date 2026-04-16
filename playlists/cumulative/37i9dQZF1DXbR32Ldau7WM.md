@@ -4,7 +4,7 @@
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: Otoboke Beaver
 
-1,568 songs - 4 day 6 hr 22 min
+1,569 songs - 4 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,7 +741,7 @@
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2022-09-29 | 2024-02-07 |
 | [Sparks](https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sparks](https://open.spotify.com/album/3NIn670h7MTBhU1VGfmQF7) | 4:23 | 2023-06-06 | 2023-06-14 |
 | [Speak Like](https://open.spotify.com/track/1fT0s3i9dKmBT9PrIJLB5Y) | [Velludo](https://open.spotify.com/artist/0ZFxspJHmeXIH5ox6XGyHG) | [Speak Like](https://open.spotify.com/album/5MWnWYNZg6X31mxDE3Cqiw) | 2:49 | 2024-10-01 | 2024-11-06 |
-| [Speak of the Devil](https://open.spotify.com/track/2cTKXbBQq9aMHPIWKqtff0) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Speak of the Devil](https://open.spotify.com/album/0xC2kMMJgBSWohWmTDeW8L) | 3:42 | 2026-01-20 |  |
+| [Speak of the Devil](https://open.spotify.com/track/2cTKXbBQq9aMHPIWKqtff0) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Speak of the Devil](https://open.spotify.com/album/0xC2kMMJgBSWohWmTDeW8L) | 3:42 | 2026-01-20 | 2026-04-16 |
 | [Special Women](https://open.spotify.com/track/4tQEFw0b1SffWMrYHfVGFo) | [Misato Watanabe](https://open.spotify.com/artist/3ySOHOGVeGm9qQuEmWDa1k) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 4:42 | 2023-03-21 | 2023-03-29 |
 | [Special Women](https://open.spotify.com/track/5HQZUOUQiv5Gwlu9kyYPy9) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [The LEGEND](https://open.spotify.com/album/6tvgmGIg2Px1PAfpIWmMVR) | 4:32 | 2023-03-21 | 2023-03-23 |
 | [Special Women](https://open.spotify.com/track/7F4gwp9sUBPpWS8WeBRznU) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 4:34 | 2023-03-21 | 2023-03-29 |
@@ -927,6 +927,7 @@
 | [Waratteokure](https://open.spotify.com/track/4Yn9nYaGEjHA9R7oEU0Xyi) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [LOVE&PEACE!MASTERPEACE!](https://open.spotify.com/album/4BMVhIUdTJ8tos2dDXm3nt) | 4:33 | 2023-12-05 | 2023-12-13 |
 | [Waratteokure](https://open.spotify.com/track/588GkOEGHQUW4DOB7z2znS) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Waratteokure](https://open.spotify.com/album/5x2Ba1mfp35h8sRajMNXQs) | 4:33 | 2023-10-10 | 2023-11-01 |
 | [Warriors](https://open.spotify.com/track/6SiLb2AJVSRIv7EODUou2d) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Warriors](https://open.spotify.com/album/1VYUoVJpO8mqfNGIzw0FxY) | 3:59 | 2024-06-11 | 2024-10-09 |
+| [Waterloo](https://open.spotify.com/track/4QMteoJ6BM8RrkWQWOMJEd) | [Sawao Yamanaka](https://open.spotify.com/artist/4X0lski0KnPuIyJJQSRhtF), [ELPIS](https://open.spotify.com/artist/0naaoYVMMjPwLYHSSK8HUf) | [Daydream again](https://open.spotify.com/album/38eDcULhkaQJW2ivB1r3xP) | 2:59 | 2026-04-15 |  |
 | [we can't change the world without you here](https://open.spotify.com/track/0hdRkedEkFTGfgskmYOe57) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [driven by impulse](https://open.spotify.com/album/0CQuyz1VhstmZAfcvPcPf5) | 4:14 | 2023-10-03 | 2023-10-11 |
 | [We Will Never Give Up](https://open.spotify.com/track/3JiRL0aueGceNcM0lH2rtt) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [We Will Never Give Up](https://open.spotify.com/album/47q1dJtdX5WL2GVlSGCOaN) | 4:10 | 2023-08-15 | 2023-08-23 |
 | [Weekend](https://open.spotify.com/track/2FWDTbucnvUDT2pv3HR5Jl) | [Penpals](https://open.spotify.com/artist/4V8diCpPPWb4X7qav0BCNM) | [Weekend](https://open.spotify.com/album/1K5jez1Rj40wTRegT4BK15) | 3:55 | 2022-06-21 | 2022-07-14 |

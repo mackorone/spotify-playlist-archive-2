@@ -256,7 +256,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 91916,
       "name": "102",
       "url": "https://open.spotify.com/track/3NQXTWyASR2e5VUCklXn7t"
@@ -3982,7 +3982,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -4454,6 +4454,28 @@
       "duration_ms": 160500,
       "name": "BEAU-COUP",
       "url": "https://open.spotify.com/track/4Je6j6W8WyBnbofmVoEUHi"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
       "album": {
@@ -23372,7 +23394,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 183529,
       "name": "MINUIT D'APR\u00c8S",
       "url": "https://open.spotify.com/track/55pzc28mlzcpExm9yBw7US"
@@ -29780,7 +29802,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 178892,
       "name": "REJLA",
       "url": "https://open.spotify.com/track/1F7PcQDwxf8yk25tUPA9l5"
@@ -32422,7 +32444,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 194510,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f"

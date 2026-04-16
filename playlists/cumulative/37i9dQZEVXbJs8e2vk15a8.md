@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-3,986 songs - 8 day 23 hr 4 min
+3,988 songs - 8 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1285,6 +1285,7 @@
 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2023-08-29 | 2023-09-06 |
 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 | 2025-02-11 | 2025-02-19 |
 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-04-16 | 2024-05-18 |
+| [Favorite Girl](https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 4:16 | 2026-04-15 |  |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-24 | 2022-06-15 |
 | [Febrero](https://open.spotify.com/track/4LIVoYHPiHaxQZAnsEe4sI) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [Febrero](https://open.spotify.com/album/4mmcM1ZG1UvRcpqnlX22M3) | 2:44 | 2023-03-21 | 2023-04-05 |
 | [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 | 2024-08-29 | 2024-09-11 |
@@ -2561,7 +2562,8 @@
 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2024-02-03 | 2024-02-28 |
 | [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2022-06-30 | 2022-07-20 |
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2023-11-08 | 2024-01-31 |
-| [one of the girlz \- Remastered](https://open.spotify.com/track/5osBOAKiBt8Fr8YDZM1lN7) | [1717177x](https://open.spotify.com/artist/5uIvZ6y0SpfMHObdzv5FMp) | [one of the girlz \(Remastered\)](https://open.spotify.com/album/210DRFTES1Mm4oNwOItQnx) | 2:21 | 2026-04-14 |  |
+| [One Of The Girlz](https://open.spotify.com/track/7JNlM7gnYUVaEFHsMzgQin) | [Jesp7Tearz](https://open.spotify.com/artist/2hKzSNbt10rdDMtede2Gbi), [1717177x](https://open.spotify.com/artist/5uIvZ6y0SpfMHObdzv5FMp) | [One Of The Girlz](https://open.spotify.com/album/1G2BNJagFpIO9Uzmv1J64O) | 2:21 | 2026-04-15 |  |
+| [one of the girlz \- Remastered](https://open.spotify.com/track/5osBOAKiBt8Fr8YDZM1lN7) | [1717177x](https://open.spotify.com/artist/5uIvZ6y0SpfMHObdzv5FMp) | [one of the girlz \(Remastered\)](https://open.spotify.com/album/210DRFTES1Mm4oNwOItQnx) | 2:21 | 2026-04-14 | 2026-04-16 |
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2023-10-31 | 2023-11-16 |
 | [ONLINE](https://open.spotify.com/track/66ChRTsE2NVt5wQ1XbEQzQ) | [ARIA BELA](https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz) | [ONLINE](https://open.spotify.com/album/1yBBV8Gozmhg1xS6AjZ5nV) | 3:32 | 2025-06-03 | 2025-06-28 |
 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2023-06-22 | 2023-09-06 |
@@ -2748,7 +2750,7 @@
 | [Pico y Pala](https://open.spotify.com/track/1AWefrQG0I0OtvatTB01EZ) | [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [Pico y Pala](https://open.spotify.com/album/2W3jyJZSprQ0fxlOpEGH7H) | 2:54 | 2022-10-25 | 2022-10-31 |
 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 | 2024-02-20 | 2024-06-05 |
 | [PILATES](https://open.spotify.com/track/6w3cKSW3HCFx4Z47tRHiwv) | [ARIA BELA](https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz) | [PILATES](https://open.spotify.com/album/3MuMW080QRlLuVNwyNH8BA) | 2:44 | 2025-05-13 | 2025-07-03 |
-| [PIN](https://open.spotify.com/track/6oPnlI69BFw388L0rx9jDT) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [PIN](https://open.spotify.com/album/2CD3IqfUkAlxtiDOURO1J0) | 2:00 | 2026-04-14 |  |
+| [PIN](https://open.spotify.com/track/6oPnlI69BFw388L0rx9jDT) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [PIN](https://open.spotify.com/album/2CD3IqfUkAlxtiDOURO1J0) | 2:00 | 2026-04-14 | 2026-04-16 |
 | [PINK FLOYD](https://open.spotify.com/track/2YXmkEgrudYSKpNu4kKl0e) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [PINK FLOYD](https://open.spotify.com/album/2UkicL9GQDYs1LvSURTelG) | 2:51 | 2024-03-05 | 2024-03-20 |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2024-06-29 | 2024-07-10 |
 | [Pink Pony Club](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 4:18 | 2025-02-08 | 2025-02-24 |

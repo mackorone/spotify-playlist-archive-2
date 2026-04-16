@@ -6563,6 +6563,32 @@
     },
     {
       "album": {
+        "name": "Nothing Left",
+        "url": "https://open.spotify.com/album/4DD6FbOoiOaBbLx6yGFJuS"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180303,
+      "name": "Nothing Left",
+      "url": "https://open.spotify.com/track/7GQNTnBqlAPa3lQMWeIvUa"
+    },
+    {
+      "album": {
         "name": "Circulus Vitiosus",
         "url": "https://open.spotify.com/album/5xFPu0JBe4Wxh7gcu9Idmd"
       },

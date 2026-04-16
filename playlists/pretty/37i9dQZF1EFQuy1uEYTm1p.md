@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQuy1uEYTm1p.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oB0YuugRL9154dHN0yJqO">Ariel Imani</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110 likes - 34 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 110 likes - 35 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQuy1uEYTm1p.md) - [plain]
 | 24 | [IDC](https://open.spotify.com/track/2uawWVWUoUr621DlO1cgdi) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Note To Self](https://open.spotify.com/album/47KtxHjRKa2h8gHdmS10Zs) | 2:08 |
 | 25 | [Pressure](https://open.spotify.com/track/7o84y2UKRFwzdRzBFigtgf) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Pressure](https://open.spotify.com/album/79xuMQfvykmnxgjZui9MYB) | 2:35 |
 | 26 | [Up 4 Me](https://open.spotify.com/track/0RZR9BBg5ql33lwPuot46e) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Black & Unlimited](https://open.spotify.com/album/6rDL2TKoD4MzyJd7Dn2RFQ) | 2:34 |
-| 27 | [PROVE IT](https://open.spotify.com/track/7b2eUHjwHx9E7h9CMOtZz6) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [if only u knew](https://open.spotify.com/album/2efASljhtPCOtJKlK0l18Q) | 1:52 |
-| 28 | [Juice](https://open.spotify.com/track/06Pyoo02iAzvB6pbwFXlpu) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [Juice](https://open.spotify.com/album/0XytAajWSKZD09CECMhjly) | 2:34 |
-| 29 | [Don't Delay](https://open.spotify.com/track/4yL47INL2t5BvGGv9jV4Uv) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [if only u knew](https://open.spotify.com/album/2efASljhtPCOtJKlK0l18Q) | 2:22 |
-| 30 | [Fantasies](https://open.spotify.com/track/08aP0h8u8b8XmR4SBvk8gu) | [Love Moor](https://open.spotify.com/artist/2YUbTUcCN7avxcXKrJGm71) | [Fantasies](https://open.spotify.com/album/3SXbcs7d5guf139DkBMlRP) | 2:07 |
-| 31 | [Change U](https://open.spotify.com/track/3pLwWpm52nHCu2m4Go9yII) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Change U](https://open.spotify.com/album/1JaaeYIJxQSyNTYkMYbP3x) | 2:48 |
-| 32 | [CALL ME](https://open.spotify.com/track/3W46JGccgC8aVjpl9gpXbO) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [if only u knew](https://open.spotify.com/album/2efASljhtPCOtJKlK0l18Q) | 3:24 |
-| 33 | [Into me](https://open.spotify.com/track/0O3N02GOlmA64FjatIvzIp) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [Into me](https://open.spotify.com/album/5qlLxd49w1hdiJrZIsbMu7) | 1:50 |
-| 34 | [all i need](https://open.spotify.com/track/00joKEPIitqe05LXwZcWT2) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [all i need](https://open.spotify.com/album/72NXupoFp47op0ZlhzEMuu) | 2:23 |
+| 27 | [First Time](https://open.spotify.com/track/5hCG5TSz3fk2DEexB7TL9T) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Fuck, Marry, Kill](https://open.spotify.com/album/1xIWjruzzPXUWWZ9q20FVG) | 3:37 |
+| 28 | [PROVE IT](https://open.spotify.com/track/7b2eUHjwHx9E7h9CMOtZz6) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [if only u knew](https://open.spotify.com/album/2efASljhtPCOtJKlK0l18Q) | 1:52 |
+| 29 | [Juice](https://open.spotify.com/track/06Pyoo02iAzvB6pbwFXlpu) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [Juice](https://open.spotify.com/album/0XytAajWSKZD09CECMhjly) | 2:34 |
+| 30 | [Don't Delay](https://open.spotify.com/track/4yL47INL2t5BvGGv9jV4Uv) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [if only u knew](https://open.spotify.com/album/2efASljhtPCOtJKlK0l18Q) | 2:22 |
+| 31 | [Fantasies](https://open.spotify.com/track/08aP0h8u8b8XmR4SBvk8gu) | [Love Moor](https://open.spotify.com/artist/2YUbTUcCN7avxcXKrJGm71) | [Fantasies](https://open.spotify.com/album/3SXbcs7d5guf139DkBMlRP) | 2:07 |
+| 32 | [Change U](https://open.spotify.com/track/3pLwWpm52nHCu2m4Go9yII) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Change U](https://open.spotify.com/album/1JaaeYIJxQSyNTYkMYbP3x) | 2:48 |
+| 33 | [CALL ME](https://open.spotify.com/track/3W46JGccgC8aVjpl9gpXbO) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [if only u knew](https://open.spotify.com/album/2efASljhtPCOtJKlK0l18Q) | 3:24 |
+| 34 | [Into me](https://open.spotify.com/track/0O3N02GOlmA64FjatIvzIp) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [Into me](https://open.spotify.com/album/5qlLxd49w1hdiJrZIsbMu7) | 1:50 |
+| 35 | [all i need](https://open.spotify.com/track/00joKEPIitqe05LXwZcWT2) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [all i need](https://open.spotify.com/album/72NXupoFp47op0ZlhzEMuu) | 2:23 |
 
-Snapshot ID: `AcO3dAAAAACPf480tyPoJQla72lReZjQ`
+Snapshot ID: `AcO9FAAAAAC5s4sgnwUwwWmgSrUwkfUW`

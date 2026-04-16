@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u0633\u0644\u0645",
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0627\u062d\u0645\u062f \u0633\u0639\u062f",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -252,7 +252,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 207096,
       "name": "3ALA BAB EL CIMA",
       "url": "https://open.spotify.com/track/3U5uSudlSamkLBK8ZQKZ50"
@@ -3130,7 +3130,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 185238,
       "name": "Baad Meni",
       "url": "https://open.spotify.com/track/7voxWvCzZu0z8NuGQITDfa"
@@ -5308,6 +5308,24 @@
       "duration_ms": 200275,
       "name": "Ekhtary",
       "url": "https://open.spotify.com/track/2V3E17nHsmFLpuV3aswZKn"
+    },
+    {
+      "album": {
+        "name": "Mahragan El Qahera El Dawly",
+        "url": "https://open.spotify.com/album/6UxCN5Ic5AKjQgwuZCo9Qd"
+      },
+      "artists": [
+        {
+          "name": "Dallo",
+          "url": "https://open.spotify.com/artist/04xF9pcBH9WrpWbpMHmPIG"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136420,
+      "name": "El 2ashash",
+      "url": "https://open.spotify.com/track/3VXtEgJBlQsd3baHXCU6zz"
     },
     {
       "album": {
@@ -7940,7 +7958,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 170229,
       "name": "Ghaltan",
       "url": "https://open.spotify.com/track/0IiblwxKV0zYWi0cIKmDKy"
@@ -16631,6 +16649,46 @@
     },
     {
       "album": {
+        "name": "share3 el madrasa",
+        "url": "https://open.spotify.com/album/3OOuUNu94LyO2gMJKz6lk6"
+      },
+      "artists": [
+        {
+          "name": "Molotof",
+          "url": "https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "share3 el madrasa",
+      "url": "https://open.spotify.com/track/5DTqJRReCTCDAe54FuHOEO"
+    },
+    {
+      "album": {
+        "name": "Sharib El Osoul",
+        "url": "https://open.spotify.com/album/52wsrwuv5hIOmrF8FmG8UW"
+      },
+      "artists": [
+        {
+          "name": "\u0639\u0637\u0627\u0631",
+          "url": "https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ"
+        },
+        {
+          "name": "3enba",
+          "url": "https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136444,
+      "name": "Sharib El Osoul",
+      "url": "https://open.spotify.com/track/6rGED8eEnJ5hKL3KfpEw4l"
+    },
+    {
+      "album": {
         "name": "Shayfa Eh",
         "url": "https://open.spotify.com/album/74QxBcQ5KQjkO15JNOlNWF"
       },
@@ -18406,6 +18464,24 @@
       "duration_ms": 238248,
       "name": "Wasa3 Wasa3",
       "url": "https://open.spotify.com/track/2hZb0DuHOlqka9VYhHlTpM"
+    },
+    {
+      "album": {
+        "name": "THE SORROWS ALBUM",
+        "url": "https://open.spotify.com/album/7gSawX3Lw4xbpFUj8ZRtiN"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282378,
+      "name": "Wasalt Ma3ak",
+      "url": "https://open.spotify.com/track/1SRla7UVFXue89poJ52X4L"
     },
     {
       "album": {
@@ -22158,7 +22234,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 191016,
       "name": "\u0627\u0648\u0631\u0646\u0686 \u0648\u0623\u062d\u0645\u062f \u0633\u0639\u062f - \u064a\u0627 \u062d\u0644\u064a\u0644\u0629",
       "url": "https://open.spotify.com/track/7hyipDCX8rlOjDvzdUk2M1"
@@ -22234,6 +22310,28 @@
       "duration_ms": 233364,
       "name": "\u0627\u064a\u0647 \u063a\u064a\u0631\u0643",
       "url": "https://open.spotify.com/track/7d8Q20fRUqE7FaUXOTcARp"
+    },
+    {
+      "album": {
+        "name": "\u0627\u064a\u0647 \u064a\u0627 \u062d\u0644\u0648\u0629",
+        "url": "https://open.spotify.com/album/2ANHhZRyBsE6PVz33ZaSDf"
+      },
+      "artists": [
+        {
+          "name": "Coolpix",
+          "url": "https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ"
+        },
+        {
+          "name": "Muslim",
+          "url": "https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "\u0627\u064a\u0647 \u064a\u0627 \u062d\u0644\u0648\u0629",
+      "url": "https://open.spotify.com/track/7yhefLtVyxQPUltTyt74o8"
     },
     {
       "album": {
@@ -27090,7 +27188,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 240640,
       "name": "\u0642\u0641\u0644 \u0627\u0644\u0643\u0644\u0627\u0645",
       "url": "https://open.spotify.com/track/4MwaSykMfnUKZCrEJZwoTx"

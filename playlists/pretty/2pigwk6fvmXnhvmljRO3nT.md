@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,434 songs - 21 day 12 hr 2 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,435 songs - 21 day 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5867,7 +5867,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 5857 | [인형의 꿈](https://open.spotify.com/track/6DgclwC2Us4WUXaOwtesYI) | [일기예보](https://open.spotify.com/artist/41uzoiojZhXj2jXpm6CaFi) | [좋아좋아](https://open.spotify.com/album/6rwqrHdQ9S9FXl1W6dtpsb) | 4:17 |
 | 5858 | [걸어서 하늘까지](https://open.spotify.com/track/4GmInqIpO6FWABhriwk11U) | [장현철](https://open.spotify.com/artist/0ZJKLVwx5P3K7ReotmYRqx) | [걸어서 하늘까지 \(Original Television Soundtrack\)](https://open.spotify.com/album/457QeFqYj9CXL3ylzaAkzE) | 2:56 |
 | 5859 | [나에게로의 초대](https://open.spotify.com/track/36me6gJ2obYpfKc3YKXECM) | [Jeong Kyeong\-Hwa](https://open.spotify.com/artist/3Owuu7IVy9WojxhbFOHrcO) | [화답](https://open.spotify.com/album/47uDR8Nz6SEgOK6sKZUTld) | 4:16 |
-| 5860 | [꽃밭에서](https://open.spotify.com/track/4KBU5cza39cf420BfhFru0) | [조관우](https://open.spotify.com/artist/0LZbMJR8riIQCwgh0UKsin) | [Memory](https://open.spotify.com/album/3pnQ1isPX3JZFdMV7YkMZ4) | 4:12 |
+| 5860 | [꽃밭에서](https://open.spotify.com/track/4KBU5cza39cf420BfhFru0) | [Jo Kwan Woo](https://open.spotify.com/artist/6O3pgOz6eZNFrHl5Z3PTG7) | [Memory](https://open.spotify.com/album/3pnQ1isPX3JZFdMV7YkMZ4) | 4:12 |
 | 5861 | [IfILeave](https://open.spotify.com/track/1SUAOMe40Aqg4jGcTXu2ws) | [조수미](https://open.spotify.com/artist/68brkPC4EZkwLe5TJICYHa) | [인연](https://open.spotify.com/album/4tNYcoG7KmE4toxCvnHKQA) | 5:29 |
 | 5862 | [나에게로의 초대 \(이상한 나라의 앨리스, 하트다 하트여왕\)](https://open.spotify.com/track/0OJK94VxU23n0pnc6R9vbR) | [조유진](https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW), [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Mask Singer 89th \(Live Version\)](https://open.spotify.com/album/4dGCjv53KvBnD5Qt5oROhk) | 4:06 |
 | 5863 | [To You Who Knows My Sorrow](https://open.spotify.com/track/5JEy2mEU7holanTc9S8vbj) | [조하문](https://open.spotify.com/artist/1PyMXIa4mB5JyyribZ8Qud) | [Destiny / To You Who Knows My Sorrow](https://open.spotify.com/album/7JAVQe7fUadGc5mn1EZwcl) | 4:21 |
@@ -8442,5 +8442,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8432 | [Scarborough Fair / Canticle](https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 3:14 |
 | 8433 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 |
 | 8434 | [SOUVENIR](https://open.spotify.com/track/3GLSPr5dyhrNBvDPpdoPDK) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Iris](https://open.spotify.com/album/5FSNEQcyQtmVeizw5j5Y8b) | 4:25 |
+| 8435 | [Angelic Angel](https://open.spotify.com/track/46v8fYqNmVdqCyqiVeeSjj) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [μ's Complete BEST BOX \(Chapter.12\)](https://open.spotify.com/album/0pkmGenaj8UzPldSgoC2qE) | 4:56 |
 
-Snapshot ID: `AAALljlCe2zzFFuluvkr9Q7puXO8+HDi`
+Snapshot ID: `AAALl5c9jGkRxQCUXXM+1q9Pc1qRrmn9`

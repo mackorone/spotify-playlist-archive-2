@@ -1,12 +1,12 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Cover: Rockie Rode",
-  "num_followers": 255776,
+  "description": "The best new indie tracks from independent artists & labels. Cover: After Louise",
+  "num_followers": 255785,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGZfWryEDeWAN+j76JforaG0r3Hy",
+  "snapshot_id": "AAAAAIzwpFZEUrrBGMbvDGe3n2+nR4z2",
   "tracks": [
     {
       "added_at": "2026-04-08 16:00:06",
@@ -25,20 +25,36 @@
       "url": "https://open.spotify.com/track/1etY8R5Z0rXhBKlqkUkkwN"
     },
     {
-      "added_at": "2026-04-08 16:00:06",
+      "added_at": "2026-04-15 17:14:31",
       "album": {
-        "name": "FALLINFORU",
-        "url": "https://open.spotify.com/album/05717ezKBBLNKFiIRpqLD1"
+        "name": "a butterfly was born / things 2 make U smile",
+        "url": "https://open.spotify.com/album/1dt6cD8Q5ZghcT5fwsFT9d"
       },
       "artists": [
         {
-          "name": "jonie",
-          "url": "https://open.spotify.com/artist/4qI070Q4VrKFF2gHXzGRNa"
+          "name": "Rian Brazil",
+          "url": "https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH"
         }
       ],
-      "duration_ms": 177000,
-      "name": "FALLINFORU",
-      "url": "https://open.spotify.com/track/2eOK6VYIsnUsOvTTkEcZkJ"
+      "duration_ms": 113044,
+      "name": "things 2 make U smile",
+      "url": "https://open.spotify.com/track/6wBprAkQVcFYp4xLo4Hvg8"
+    },
+    {
+      "added_at": "2026-04-15 17:14:31",
+      "album": {
+        "name": "brave2",
+        "url": "https://open.spotify.com/album/6vgZs9r2Wpp3vaCAXNHZjB"
+      },
+      "artists": [
+        {
+          "name": "yeongseo",
+          "url": "https://open.spotify.com/artist/1BBEzOfPYEGI2AgA7Yqqv9"
+        }
+      ],
+      "duration_ms": 167315,
+      "name": "brave2",
+      "url": "https://open.spotify.com/track/65Lfg7gOR3BZQzVD4d7JJY"
     },
     {
       "added_at": "2026-04-08 16:00:06",
@@ -55,6 +71,134 @@
       "duration_ms": 160616,
       "name": "Better Angels",
       "url": "https://open.spotify.com/track/4dVmB6Y60E2U5tK79G2dhK"
+    },
+    {
+      "added_at": "2026-04-15 17:14:31",
+      "album": {
+        "name": "Generic Actress",
+        "url": "https://open.spotify.com/album/5lLKZrOFktnY1sUZocLkYG"
+      },
+      "artists": [
+        {
+          "name": "Paycheque",
+          "url": "https://open.spotify.com/artist/611gnATQNUeM0zwpBkyjhe"
+        }
+      ],
+      "duration_ms": 202117,
+      "name": "Generic Actress",
+      "url": "https://open.spotify.com/track/6B5UyhbPKCXvmF3FOfud0K"
+    },
+    {
+      "added_at": "2026-04-15 17:14:31",
+      "album": {
+        "name": "Lizzie mcguire",
+        "url": "https://open.spotify.com/album/20wDkNu6JhtpZUwVFS4gg6"
+      },
+      "artists": [
+        {
+          "name": "Nara's Room",
+          "url": "https://open.spotify.com/artist/3HZtXP2NFVOKB6aNLCmpwW"
+        }
+      ],
+      "duration_ms": 260296,
+      "name": "Lizzie mcguire",
+      "url": "https://open.spotify.com/track/7kNqAfUxLmrETcwvBTQCkg"
+    },
+    {
+      "added_at": "2026-04-08 16:00:06",
+      "album": {
+        "name": "FALLINFORU",
+        "url": "https://open.spotify.com/album/05717ezKBBLNKFiIRpqLD1"
+      },
+      "artists": [
+        {
+          "name": "jonie",
+          "url": "https://open.spotify.com/artist/4qI070Q4VrKFF2gHXzGRNa"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "FALLINFORU",
+      "url": "https://open.spotify.com/track/2eOK6VYIsnUsOvTTkEcZkJ"
+    },
+    {
+      "added_at": "2026-04-15 17:14:31",
+      "album": {
+        "name": "cannonball \u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007",
+        "url": "https://open.spotify.com/album/2PcuUV7KMSjFfKHJhJR4Jt"
+      },
+      "artists": [
+        {
+          "name": "cratre",
+          "url": "https://open.spotify.com/artist/26Jjqr3I02y7Q7TAxPWsFW"
+        }
+      ],
+      "duration_ms": 135611,
+      "name": "cannonball \u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007",
+      "url": "https://open.spotify.com/track/6QeNNqPnYmPwr4NAzd6lnM"
+    },
+    {
+      "added_at": "2026-04-15 17:14:31",
+      "album": {
+        "name": "One Way To Say",
+        "url": "https://open.spotify.com/album/0mZ82bAyTg7TLrTooWics6"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sais Quoi",
+          "url": "https://open.spotify.com/artist/6YpejmpNAfxBhj1D1O1vJI"
+        }
+      ],
+      "duration_ms": 164616,
+      "name": "One Way To Say",
+      "url": "https://open.spotify.com/track/5ZsE7Ycok9CbFqCnHQMYRu"
+    },
+    {
+      "added_at": "2026-04-01 16:00:37",
+      "album": {
+        "name": "Switcheroo",
+        "url": "https://open.spotify.com/album/6Wx8B7uw0trE9PQRXfIA78"
+      },
+      "artists": [
+        {
+          "name": "Gelli Haha",
+          "url": "https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI"
+        }
+      ],
+      "duration_ms": 224418,
+      "name": "Klouds Will Carry Me To Sleep",
+      "url": "https://open.spotify.com/track/7EcldKQZHuizgKU4b7UbSk"
+    },
+    {
+      "added_at": "2026-04-08 16:00:06",
+      "album": {
+        "name": "Birding",
+        "url": "https://open.spotify.com/album/4LRV1hTTosrrR7cdWyqyJo"
+      },
+      "artists": [
+        {
+          "name": "deary",
+          "url": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
+        }
+      ],
+      "duration_ms": 309947,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2ipXB1iXNOVsNiAuWkTsY3"
+    },
+    {
+      "added_at": "2026-04-15 17:14:31",
+      "album": {
+        "name": "If We Could, Would We",
+        "url": "https://open.spotify.com/album/14isRFBuLjdXwuQXes0WXr"
+      },
+      "artists": [
+        {
+          "name": "Gracie and Rachel",
+          "url": "https://open.spotify.com/artist/4jKFMEVOa9uon9utRFsLLX"
+        }
+      ],
+      "duration_ms": 197720,
+      "name": "Myself Again",
+      "url": "https://open.spotify.com/track/3fpaarYQRRWIb3BiSM4Ffa"
     },
     {
       "added_at": "2026-04-08 16:00:06",
@@ -93,6 +237,22 @@
       "url": "https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869"
     },
     {
+      "added_at": "2026-04-15 17:14:31",
+      "album": {
+        "name": "Loose Tie",
+        "url": "https://open.spotify.com/album/0ufs5pD6K63SgrqOjFkF9T"
+      },
+      "artists": [
+        {
+          "name": "Mila Degray",
+          "url": "https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu"
+        }
+      ],
+      "duration_ms": 197328,
+      "name": "Loose Tie",
+      "url": "https://open.spotify.com/track/2nvhQYIsZGYQWAlO7NU0Ud"
+    },
+    {
       "added_at": "2026-04-08 16:00:06",
       "album": {
         "name": "KookieCannibal",
@@ -107,38 +267,6 @@
       "duration_ms": 227453,
       "name": "KookieCannibal",
       "url": "https://open.spotify.com/track/4cBvn41NnVmR7EZmbI18xW"
-    },
-    {
-      "added_at": "2026-04-01 16:00:37",
-      "album": {
-        "name": "Switcheroo",
-        "url": "https://open.spotify.com/album/6Wx8B7uw0trE9PQRXfIA78"
-      },
-      "artists": [
-        {
-          "name": "Gelli Haha",
-          "url": "https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI"
-        }
-      ],
-      "duration_ms": 224418,
-      "name": "Klouds Will Carry Me To Sleep",
-      "url": "https://open.spotify.com/track/7EcldKQZHuizgKU4b7UbSk"
-    },
-    {
-      "added_at": "2026-04-08 16:00:06",
-      "album": {
-        "name": "Birding",
-        "url": "https://open.spotify.com/album/4LRV1hTTosrrR7cdWyqyJo"
-      },
-      "artists": [
-        {
-          "name": "deary",
-          "url": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
-        }
-      ],
-      "duration_ms": 309947,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/2ipXB1iXNOVsNiAuWkTsY3"
     },
     {
       "added_at": "2026-04-08 16:00:06",
@@ -267,22 +395,6 @@
       "duration_ms": 297252,
       "name": "say nothing",
       "url": "https://open.spotify.com/track/14kvSSMXYjRRath6EaxGlg"
-    },
-    {
-      "added_at": "2026-04-01 19:00:43",
-      "album": {
-        "name": "high me raise / bullet caught in a spiders web",
-        "url": "https://open.spotify.com/album/0EYMggfIHnSwm8JjsTTLyO"
-      },
-      "artists": [
-        {
-          "name": "Rian Brazil",
-          "url": "https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH"
-        }
-      ],
-      "duration_ms": 134909,
-      "name": "high me raise",
-      "url": "https://open.spotify.com/track/5Twl9IMecWukJB5FPPeo28"
     },
     {
       "added_at": "2026-04-01 16:00:37",
@@ -1059,134 +1171,6 @@
       "duration_ms": 165629,
       "name": "Even",
       "url": "https://open.spotify.com/track/36vGZ3MJUeXWHgmLT99w48"
-    },
-    {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "MARIGOLD",
-        "url": "https://open.spotify.com/album/1LfD6ontgCq0j9NJ9vMhc5"
-      },
-      "artists": [
-        {
-          "name": "Little Dog Star",
-          "url": "https://open.spotify.com/artist/2DayGMoy8DCtrJpBq8p0PH"
-        }
-      ],
-      "duration_ms": 180832,
-      "name": "MARIGOLD",
-      "url": "https://open.spotify.com/track/7yRTBRlM4kW0FOsEJFRs0n"
-    },
-    {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "All I Do",
-        "url": "https://open.spotify.com/album/2VVdUACeHgV0We2bMWObQn"
-      },
-      "artists": [
-        {
-          "name": "Baby Smith",
-          "url": "https://open.spotify.com/artist/4QzM5sY3QDA4mmgv8Xj932"
-        }
-      ],
-      "duration_ms": 209418,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/07753okQq77o7gtEAC9LNm"
-    },
-    {
-      "added_at": "2026-01-30 18:49:04",
-      "album": {
-        "name": "LEGACY",
-        "url": "https://open.spotify.com/album/3fZervxrJI13IbbJDp5Gci"
-      },
-      "artists": [
-        {
-          "name": "PIXY",
-          "url": "https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz"
-        }
-      ],
-      "duration_ms": 134117,
-      "name": "LEGACY",
-      "url": "https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM"
-    },
-    {
-      "added_at": "2026-01-21 17:00:04",
-      "album": {
-        "name": "When england comes",
-        "url": "https://open.spotify.com/album/5GHoySgrasrewtuUWFlDAX"
-      },
-      "artists": [
-        {
-          "name": "Pollyfromthedirt",
-          "url": "https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "When england comes",
-      "url": "https://open.spotify.com/track/2TcUaZUxjRv2Iwo0BVhKSF"
-    },
-    {
-      "added_at": "2026-01-21 17:00:04",
-      "album": {
-        "name": "Thought of You",
-        "url": "https://open.spotify.com/album/21987lXhmCn3CovoWKDU88"
-      },
-      "artists": [
-        {
-          "name": "Wulfer",
-          "url": "https://open.spotify.com/artist/0YBx9RunjSU2iPXSgj4GiN"
-        }
-      ],
-      "duration_ms": 137684,
-      "name": "Thought of You",
-      "url": "https://open.spotify.com/track/3euwmPkA6UHBKmuBjO7iXF"
-    },
-    {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "Sunlight Echoes",
-        "url": "https://open.spotify.com/album/4jHGgkjeyoEF5My7OLhXhB"
-      },
-      "artists": [
-        {
-          "name": "Whitelands",
-          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "Heat Of The Summer",
-      "url": "https://open.spotify.com/track/4E54f8H6e8WzE6Q2KEqVsD"
-    },
-    {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/26rQT8rF76BUqddeqISZ74"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 200275,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/5qmASqXmHpe3dDQPhigjC4"
-    },
-    {
-      "added_at": "2026-01-28 20:36:55",
-      "album": {
-        "name": "Texas Relation",
-        "url": "https://open.spotify.com/album/7IzxJFc9anPRTHPg8NffUP"
-      },
-      "artists": [
-        {
-          "name": "TV Star",
-          "url": "https://open.spotify.com/artist/4Rx3d0YJRjp5JDiCptaora"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Texas Relation",
-      "url": "https://open.spotify.com/track/4DfnE16NoQSEnbIhfsYlKh"
     },
     {
       "added_at": "2026-01-14 17:37:13",

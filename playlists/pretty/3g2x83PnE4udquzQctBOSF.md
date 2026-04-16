@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 
 > Our weekly selection is here ⚡️
 
-[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,732 likes - 242 songs - 16 hr 6 min
+[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,733 likes - 242 songs - 16 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,7 +244,7 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 | 234 | [Money Dance \- Original Mix](https://open.spotify.com/track/1YvdIDmn2QkL38kGDEb8Os) | [Brugio](https://open.spotify.com/artist/5vz838WN1qjvf2KTRngw8i) | [Manawa Sound \- 02](https://open.spotify.com/album/7DfkLGTcZfCxSDkRcPrH9j) | 4:31 |
 | 235 | [No Kidding](https://open.spotify.com/track/6baO8tFIkeFh0LUqMqkk6C) | [Krizman Toni](https://open.spotify.com/artist/1gs5auXmVRzKT318H1yRJ0) | [Futur Sampler Vol\. 2](https://open.spotify.com/album/4VbE8jvuLZCNTfUm5ycqjq) | 5:53 |
 | 236 | [Disco](https://open.spotify.com/track/0wUkQNAxwQT71RVxuRj4O9) | [Boogie \(ITA\)](https://open.spotify.com/artist/7bNFT0HXm3nrmA7lMcg8e9), [Blacksun](https://open.spotify.com/artist/2NlDG5IMAirmAZiNsdh2Rd) | [Disco](https://open.spotify.com/album/1SCIwn9MEPKf7pJXsihLo6) | 2:46 |
-| 237 | [Turn Up Da Bassline](https://open.spotify.com/track/4Dodmdr8t9FVk183pBQ0gc) | [dillon nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Turn Up Da Bassline](https://open.spotify.com/album/5hgWXkwEEm8mJgU50BVZe8) | 3:11 |
+| 237 | [Turn Up Da Bassline](https://open.spotify.com/track/4Dodmdr8t9FVk183pBQ0gc) | [dillon nathaniel.](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Turn Up Da Bassline](https://open.spotify.com/album/5hgWXkwEEm8mJgU50BVZe8) | 3:11 |
 | 238 | [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 |
 | 239 | [COCAINE & ROSE \- Radio Edit](https://open.spotify.com/track/4kH6eeFc7rxtB7JqWXsLe8) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [COCAINE & ROSE](https://open.spotify.com/album/2FqyNPWB3Q5fDP4YxxosvG) | 3:43 |
 | 240 | [Firestarter](https://open.spotify.com/track/40zrIbnQI3a3JRUvlKqoHT) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Firestarter](https://open.spotify.com/album/6IDyDOPO6hJIe5l2zZXe7h) | 3:04 |

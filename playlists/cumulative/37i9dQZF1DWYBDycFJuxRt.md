@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/345329">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/345484">連動記事</a>をSPICEでチェック!
 
-14,361 songs - 38 day 1 hr 28 min
+14,362 songs - 38 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [2026/3/25 Mr.Childrenがニューアルバムをリリース！ずっと真夜中でいいのに。のニューアルバム、羊文学の新曲も！kZmの新曲、注目のニューカマーKiannaの新作も！](https://open.spotify.com/episode/00sQkW8ERGVSUYpF904ruQ) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 22:48 | 2026-03-25 | 2026-04-01 |
 | [2026/3/4 嵐が新曲をリリース！ Furui Rihoロングインタビュー&Mitskiからのメッセージが到着！ヨルシカのニューアルバム、Kianna、Harka、AOTO、Sieroによる『POP YOURS』オリジナル楽曲もピックアップ！](https://open.spotify.com/episode/7sXiU57lFFpFRfc0oHkWGR) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 1:08:51 | 2026-03-04 | 2026-03-11 |
 | [2026/4/1 Mall BoyzがBIM、kZmを迎えた新曲をリリース！Official髭男dismの新曲も！ Kan Sanoがluvを迎えた新曲、カネコアヤノのニューシングル、Maverick Momもピックアップ！](https://open.spotify.com/episode/2MiBEeAtRP9sqBsaputwDk) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 18:51 | 2026-04-01 | 2026-04-08 |
+| [2026/4/15 STUTS&大貫妙子が登場！モナキからのメッセージも到着！Official髭男dismの新曲、Vaundyとyamaのスプリットシングル、muqueのニューアルバム、REJAYと台湾のアーティストAndrのコラボ曲、注目のアーティストJulia Takadaもピックアップ！](https://open.spotify.com/episode/6g3XUTuD2aEfbLiFQcqCJN) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 43:29 | 2026-04-15 |  |
 | [2026/4/8 Chevonがアルバムをリリース！！Kohjiyaのアルバムも！Original Loveと韓国のバンドCADEJOのコラボEP、崎山蒼志の新曲、Early NoiseアーティストLAUSBUBの新曲もピックアップ！！](https://open.spotify.com/episode/7m1EGrXPb572JYfJz9YemQ) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 20:31 | 2026-04-08 | 2026-04-15 |
 | [2043](https://open.spotify.com/track/42IgqSzvHhQElRxwOODYSc) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [2043](https://open.spotify.com/album/6tZvb95vFFg5CSmc3LefQv) | 3:50 | 2025-07-15 | 2025-07-23 |
 | [204号室](https://open.spotify.com/track/57fxEddP12LNLD90A9l5qv) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [204号室](https://open.spotify.com/album/049K22Wcjpmo9sM4CreI7j) | 3:26 | 2026-04-14 |  |

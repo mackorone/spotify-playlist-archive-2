@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Anirudh Suswaram
 
-504 songs - 1 day 6 hr 16 min
+505 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aishiteru](https://open.spotify.com/track/0NlswXncFVTwUDy9gFLiNA) | [C Shor](https://open.spotify.com/artist/1yUQaaxSIq7Pkms4iMvWmR) | [Aishiteru](https://open.spotify.com/album/35Gim0mIA1PD6mObdzvrSA) | 3:07 | 2025-11-18 |  |
 | [Alai Balai](https://open.spotify.com/track/6FrKmVd9tp2vygYXxcvHjV) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Alai Balai](https://open.spotify.com/album/1sdhNmeEMpP95ZuespP4VO) | 3:14 | 2022-07-18 | 2024-02-03 |
 | [Aliveni](https://open.spotify.com/track/5mMk94mShBq7m9x8tYkMgb) | [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H) | [Aliveni](https://open.spotify.com/album/5TPEa7XFRVi8kgHCPeUjiQ) | 3:33 | 2024-01-08 | 2024-03-22 |
+| [Amma](https://open.spotify.com/track/3aBodknhLkUpac581YamqC) | [Akhil Chandra](https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Amma](https://open.spotify.com/album/6aUxYQX5Krg0aWNCTOTTOX) | 4:03 | 2026-04-15 |  |
 | [AMMA \- Janmaala Runamu Kanipinchava](https://open.spotify.com/track/14VaG9fGETELHF1EkbWO5N) | [S K Parth](https://open.spotify.com/artist/20dOeJHWEcApptyMznAnT3), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC) | [AMMA \(Janmaala Runamu Kanipinchava\)](https://open.spotify.com/album/3aBG1lIVqPWTUQDphSNQXN) | 3:24 | 2023-05-16 | 2024-11-05 |
 | [Amma Paata](https://open.spotify.com/track/72PJ4xPZPVugEzylXYHWz4) | [Janhavi Yerram](https://open.spotify.com/artist/2S1gi8rHfqRE7XyNiAHj9n) | [Amma Paata](https://open.spotify.com/album/5NjRW3fcSvXnTkXZA97GT7) | 3:32 | 2024-07-16 | 2025-09-06 |
 | [Anaganaga Jasti](https://open.spotify.com/track/7c2OpCYcjMm13Y4Qs2KO48) | [Paul Prashanth](https://open.spotify.com/artist/5bIgxzh5iv4FXQpJcFWcGf) | [Anaganaga Jasti](https://open.spotify.com/album/2yTlCK9RC9SHT6f1OJ9ji5) | 2:51 | 2026-02-20 |  |
@@ -173,7 +174,7 @@
 | [Kallallo](https://open.spotify.com/track/4NH62FwthMMwtK6223RfQb) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU) | [Kallallo](https://open.spotify.com/album/5w5Ykym9wqvQMBmk8FC4TD) | 4:16 | 2025-10-08 | 2026-03-07 |
 | [Kalle Kalle](https://open.spotify.com/track/1jJfnXTyCJyvCfXvfR0u5K) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Kalle Kalle](https://open.spotify.com/album/6ahMugLjsmHEMnE8MGFT6R) | 3:10 | 2023-06-09 | 2025-01-18 |
 | [Kannamma](https://open.spotify.com/track/0OpuQnJLRdsLoOO99DkXhV) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Kannamma](https://open.spotify.com/album/7LG1TvZYp9aYEYHB6QgPrd) | 2:56 | 2025-02-13 | 2025-03-05 |
-| [Kannula Vindhaa](https://open.spotify.com/track/5kkSPU0XTSEa96jJ2fBOCL) | [Lakshmi Prasanna Susarla](https://open.spotify.com/artist/5J8atNaobLeHkrOYInqIHg), [Saketh Komanduri](https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L) | [Kannula Vindhaa](https://open.spotify.com/album/3k5whqcIiKYhTyxcEveayQ) | 3:12 | 2025-11-06 |  |
+| [Kannula Vindhaa](https://open.spotify.com/track/5kkSPU0XTSEa96jJ2fBOCL) | [Lakshmi Prasanna Susarla](https://open.spotify.com/artist/5J8atNaobLeHkrOYInqIHg), [Saketh Komanduri](https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L) | [Kannula Vindhaa](https://open.spotify.com/album/3k5whqcIiKYhTyxcEveayQ) | 3:12 | 2025-11-06 | 2026-04-16 |
 | [Kannullo Kala \- Manoharam](https://open.spotify.com/track/1GPnihVegNhrL1qbV2WMqh) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Kannullo Kala \(Manoharam\)](https://open.spotify.com/album/0vClCsoWXpytyztm9vWEcs) | 3:44 | 2023-03-22 | 2025-04-05 |
 | [Kannulo Nuvve](https://open.spotify.com/track/3ty8y4qnDUivIoBWSc3ggK) | [Manish Kumar](https://open.spotify.com/artist/6o6rpeT8ec4u0MHxF3SgNW), [Vyshu Maya](https://open.spotify.com/artist/2FEvji9wl0Qx3jUyYd0pQQ) | [Kannulo Nuvve](https://open.spotify.com/album/02wFfZWhVQ1UFFBuSH9Je9) | 5:10 | 2025-07-31 | 2026-02-14 |
 | [Karuna](https://open.spotify.com/track/3pYDC5i3YryOEkzHbKKDLy) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Karuna](https://open.spotify.com/album/2YtQTCZXkWX4LiaknHzga7) | 3:14 | 2023-05-31 | 2024-01-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Kelela
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,731 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,732 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 11 | [PAYG](https://open.spotify.com/track/0lgxvRcbVVylxN9cli3WSi) | [Digga](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [PAYG](https://open.spotify.com/album/1auIHYagR2co2AFtmAKILv) | 2:38 |
 | 12 | [Iran](https://open.spotify.com/track/0ehz376JBCz8DxX7UB6ToQ) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct) | [Last Run](https://open.spotify.com/album/2zP6Y1XtCVpqG0YPgAOfKL) | 2:03 |
 | 13 | [Kill The Buddha](https://open.spotify.com/track/2bsusDVxGFVWKZec5tjAP2) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [Kill The Buddha](https://open.spotify.com/album/6JmvSaDVGCo8f07S4OMbUy) | 3:33 |
-| 14 | [Rude \(feat\. Kojaque\)](https://open.spotify.com/track/7d13dvKQT70XJvmtw6xCUX) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Rude \(feat\. Kojaque\)](https://open.spotify.com/album/1Xom9SIqeNlotFWsI3XSee) | 2:50 |
+| 14 | [Rude](https://open.spotify.com/track/7d13dvKQT70XJvmtw6xCUX) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Rude](https://open.spotify.com/album/1Xom9SIqeNlotFWsI3XSee) | 2:50 |
 | 15 | [Ting Loud \(with Masicka\)](https://open.spotify.com/track/0SXhAXeKf5QuSsCUWoxRsH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Ting Loud \(with Masicka\)](https://open.spotify.com/album/46RyBz5z8NqR7x7wCJuKPX) | 3:22 |
 | 16 | [Life I Chose](https://open.spotify.com/track/2VL873YktGaHovvP1xCuc0) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Life I Chose](https://open.spotify.com/album/530cEtWkb3pn6NTwMiD6Nu) | 3:33 |
 | 17 | [promised land](https://open.spotify.com/track/1Xsk798mnogV1DcrVgdJYe) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [promised land](https://open.spotify.com/album/19CjpdahSIGd2n1h025Cvv) | 2:37 |

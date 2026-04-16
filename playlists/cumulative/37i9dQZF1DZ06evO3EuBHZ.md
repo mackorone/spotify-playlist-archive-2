@@ -4,7 +4,7 @@
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-197 songs - 10 hr 59 min
+198 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Mischievous Boogie](https://open.spotify.com/track/4dYtzSs5aYnwec44vkTI2m) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:34 | 2024-02-19 | 2024-07-11 |
 | [Mischievous Boogie](https://open.spotify.com/track/6tzb9BII2Q8M0DrjLETwvz) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [The Joe Scott Orchestra](https://open.spotify.com/artist/4Rh5i0t7SMGdzk7UkvGMR7) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2) | 2:34 | 2023-07-28 | 2023-07-30 |
 | [Mixed Up Feeling](https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hangover Blues](https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk) | 9:28 | 2022-08-05 |  |
+| [Mother In Law Blues \- Live](https://open.spotify.com/track/61uAL19jLip0wnHyF9Bynq) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [Ain't Gonna Get Drunk No More \(Live Montreaux '73\)](https://open.spotify.com/album/64ko1TULssSWBUYUQznf2I) | 5:15 | 2026-04-16 |  |
 | [Mr\. Cool](https://open.spotify.com/track/78qFFh8ovPynpVChRwz8I8) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama!](https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR) | 7:45 | 2022-08-05 | 2024-10-26 |
 | [My Baby Left Me \- Live](https://open.spotify.com/track/5kCcsWPQ78fqUdAJqmRmJ6) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Have Mercy! \(Live 1973\)](https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ) | 5:48 | 2022-12-13 | 2022-12-15 |
 | [My Man Called Me](https://open.spotify.com/track/44j02kVJqYuTgtCSxPSPvf) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:40 | 2024-04-08 |  |

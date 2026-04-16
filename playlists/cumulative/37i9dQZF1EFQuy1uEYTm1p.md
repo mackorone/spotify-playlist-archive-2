@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oB0YuugRL9154dHN0yJqO">Ariel Imani</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-35 songs - 1 hr 32 min
+36 songs - 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Fancy Ass Bitch \(feat\. Juicy J\)](https://open.spotify.com/track/5fY0QfTotLCJUHo6F7LAiF) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 3:21 | 2026-02-06 |  |
 | [Fantasies](https://open.spotify.com/track/08aP0h8u8b8XmR4SBvk8gu) | [Love Moor](https://open.spotify.com/artist/2YUbTUcCN7avxcXKrJGm71) | [Fantasies](https://open.spotify.com/album/3SXbcs7d5guf139DkBMlRP) | 2:07 | 2026-02-06 |  |
 | [Favourite Girl](https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Favourite Girl](https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh) | 2:36 | 2026-02-06 |  |
+| [First Time](https://open.spotify.com/track/5hCG5TSz3fk2DEexB7TL9T) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Fuck, Marry, Kill](https://open.spotify.com/album/1xIWjruzzPXUWWZ9q20FVG) | 3:37 | 2026-04-15 |  |
 | [Free My N\*\*\*a](https://open.spotify.com/track/4wiKgTjxd1Rh3KLRJ09T3S) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:09 | 2026-02-06 |  |
 | [HANDLE MY TRUTH](https://open.spotify.com/track/3zgBnJtjDRgGmkHjgUslEu) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE SINGLE LIFE](https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8) | 3:08 | 2026-02-06 |  |
 | [High Class](https://open.spotify.com/track/7zrYM0an4hLtIn90xqEFLU) | [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Cathedral City Supreme](https://open.spotify.com/album/2jJ1SQwKKY9wNN5FdYGQGO) | 3:39 | 2026-02-06 |  |

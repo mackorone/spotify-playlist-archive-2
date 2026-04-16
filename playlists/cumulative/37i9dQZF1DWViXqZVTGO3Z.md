@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
 
-517 songs - 1 day 9 hr 29 min
+518 songs - 1 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Go, Tell It On The Mountain](https://open.spotify.com/track/4RMsFcF3jHkdri4rwfZH0F) | [Chris Blue](https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv) | [Go, Tell It On The Mountain](https://open.spotify.com/album/3JJyeLpB7Oa6Y5jf1dTQIc) | 2:47 | 2025-11-05 |  |
 | [God Made A Way](https://open.spotify.com/track/6FRr6Qo9MGvJIPUo15a4ax) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj), [Tasha Layton](https://open.spotify.com/artist/571iV6vHz7IO6ZBPi0JM9y) | [God Made A Way](https://open.spotify.com/album/1sHDvHOITzgodxNW43WUtR) | 3:30 | 2022-11-26 |  |
 | [God Rest](https://open.spotify.com/track/0EEztnoPFhtd5SlfbS6qeJ) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [What A Beautiful Night](https://open.spotify.com/album/0EeEx2laes67i5MaTKmvNf) | 3:50 | 2023-12-15 | 2024-08-01 |
-| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2wqo9k9fUsx4L3HePw7BDl) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Drummer Boy](https://open.spotify.com/album/0qTbB09vNXRSsguZlNVZHU) | 3:03 | 2021-12-24 |  |
+| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2wqo9k9fUsx4L3HePw7BDl) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Drummer Boy](https://open.spotify.com/album/0qTbB09vNXRSsguZlNVZHU) | 3:03 | 2021-12-24 | 2026-04-16 |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/0ReTcEous3qIW3iihuCHX4) | [The Kingdom Choir](https://open.spotify.com/artist/3OZZeMIZnTvQKjfQEEqx6C) | [Together Again](https://open.spotify.com/album/3vRgpU0STMNzI1B2em1Rnk) | 2:53 | 2021-12-24 | 2022-07-29 |
 | [God Rest Ye Merry Gentlemen \(feat\. Sarah Reeves\)](https://open.spotify.com/track/5y5pMlMKwHKD8T2Q9Jx6B0) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Decade the Halls, Vol\. 1](https://open.spotify.com/album/7gEn3KzXsT2odUlIKtsGd2) | 3:46 | 2021-12-11 | 2023-12-16 |
 | [God Rest Ye Merry Gentlemen \(Joy\)](https://open.spotify.com/track/0b6mSmQyQeZDdtnvjeMPvh) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [God Rest Ye Merry Gentlemen \(Joy\)](https://open.spotify.com/album/3uulBIvr3d9zRVrSCoTcah) | 3:25 | 2023-11-03 |  |
@@ -165,6 +165,7 @@
 | [Gratitude / Worthy of it All / You’re Worthy of My Praise \(feat\. Brandon Lake, Natalie Grant & Mav City Gospel Choir\)](https://open.spotify.com/track/0KWGmjdgmpuovXuwWDrDt4) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [A Very Maverick Christmas](https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ) | 13:12 | 2021-12-24 | 2024-08-01 |
 | [Great Christmas](https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Great Christmas](https://open.spotify.com/album/1BBSnDN7zRzoBf4bQncMGw) | 2:47 | 2022-11-26 | 2025-05-08 |
 | [Grown Up Christmas List](https://open.spotify.com/track/56Yve1cQYZywRfpOTZO6e0) | [Trinity Anderson](https://open.spotify.com/artist/6dCn9t1NVjEKPvsBzxrf0h) | [Grown Up Christmas List](https://open.spotify.com/album/541QpGKQxmRPUfirkoUsd4) | 5:06 | 2021-12-11 | 2022-07-26 |
+| [Hallelujah](https://open.spotify.com/track/5tlL8n5XPi4ZfpA43RGMgD) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Hallelujah](https://open.spotify.com/album/6qrtrMU2yTrCylSHwBjmdV) | 3:13 | 2025-12-12 |  |
 | [Hallelujah Our King](https://open.spotify.com/track/0Zy6MFHQQv5saKuM0vxAli) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 4:07 | 2022-11-26 |  |
 | [Hallelujah, Christ Is Born](https://open.spotify.com/track/5E7epWuX7iVC2kNfo1NMWc) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [Hallelujah, Christ Is Born](https://open.spotify.com/album/2AOCGDHqtGYNUbg7y12ZI6) | 4:28 | 2021-12-11 | 2025-11-09 |
 | [Hallelujah, Jesus Christ Was Born](https://open.spotify.com/track/4MMnoxIZB5CgStUUWfErvt) | [Mat and Savanna Shaw](https://open.spotify.com/artist/4F8dV25EPLvvKVABCaSr8b) | [A Christmas We'll Remember](https://open.spotify.com/album/31aFyRNbhfzszhXSVBcd45) | 3:22 | 2023-11-27 | 2023-12-03 |

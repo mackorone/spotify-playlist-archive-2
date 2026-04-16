@@ -2975,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "Shore Thing",
+        "url": "https://open.spotify.com/album/0an4jQFmHPfJrod5eqkhoX"
+      },
+      "artists": [
+        {
+          "name": "Bona Nochy",
+          "url": "https://open.spotify.com/artist/7g1GgBFicHlx2TFzckGhfL"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137291,
+      "name": "Shore Thing",
+      "url": "https://open.spotify.com/track/2hnWLmxQx4DkOq1odzBVkz"
+    },
+    {
+      "album": {
         "name": "Ocean Waves for Sleeping",
         "url": "https://open.spotify.com/album/12lCxJLO2VT5AKc91ua881"
       },
@@ -3058,7 +3076,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 147534,
       "name": "Soft Rolling Waves",
       "url": "https://open.spotify.com/track/6fv4yl8OMQpTHti7nCTgLe"

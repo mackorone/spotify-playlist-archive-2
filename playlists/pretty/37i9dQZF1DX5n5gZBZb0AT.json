@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 978507,
+  "num_followers": 978636,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
+        "name": "PSL",
+        "url": "https://open.spotify.com/album/4hhb7OlsPwdMK0gqpHkrMq"
+      },
+      "artists": [
+        {
+          "name": "2KE",
+          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
+        }
+      ],
+      "duration_ms": 141317,
+      "name": "PSL - Slowed",
+      "url": "https://open.spotify.com/track/2LAYBsmfObMC0IPUHmvDav"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
         "name": "WAKE UP!",
         "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 231704,
       "name": "GHOST!",
       "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
-        "name": "PSL",
-        "url": "https://open.spotify.com/album/4hhb7OlsPwdMK0gqpHkrMq"
-      },
-      "artists": [
-        {
-          "name": "2KE",
-          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
-        }
-      ],
-      "duration_ms": 141317,
-      "name": "PSL - Slowed",
-      "url": "https://open.spotify.com/track/2LAYBsmfObMC0IPUHmvDav"
     },
     {
       "added_at": "2026-04-03 16:00:07",

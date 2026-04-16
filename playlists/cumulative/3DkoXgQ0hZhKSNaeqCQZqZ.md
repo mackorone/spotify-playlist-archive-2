@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-508 songs - 1 day 2 hr 54 min
+511 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [GOTH BITCH DUB \- 5p4M Remix](https://open.spotify.com/track/2nzVUvU3The7E3NRYVtZ5Z) | [621 gecs](https://open.spotify.com/artist/3NjokjblTaaMSU0aI74QfG), [5p4M](https://open.spotify.com/artist/5tXGRStVIEvCT3bncuaYyf) | [GOTH BITCH DUB: DARK MODE ACTIVATED](https://open.spotify.com/album/5LCXcFfKxBXdqzGrKoB9MN) | 3:03 | 2025-01-27 | 2026-03-01 |
 | [Great Fairy Fountain \(From "The Legend of Zelda: Ocarina of Time"\)](https://open.spotify.com/track/6yTpWXx5VvVfL8acHx8jYi) | [Duzzled](https://open.spotify.com/artist/0GhzKJWv9t65ln61aRlywb) | [Great Fairy Fountain \(From "The Legend of Zelda: Ocarina of Time"\)](https://open.spotify.com/album/30f9j2ZuaOY0GTtyhdQ5kk) | 3:30 | 2026-02-20 |  |
 | [Happier Than Ever](https://open.spotify.com/track/1jYALVAdoLsmP9Nh0g0W5Y) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [JTwusky](https://open.spotify.com/artist/1eUXPi6ctQSSt6y4VGZzGl) | [Happier Than Ever](https://open.spotify.com/album/6DzGmloBNUS7Cc6occWcrc) | 4:50 | 2024-01-18 |  |
+| [HAVAGO](https://open.spotify.com/track/75uR1jODtXQ1OgTWArgwYc) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [HAVAGO](https://open.spotify.com/album/4vQupOFlFsPKyNpvC71CtL) | 2:25 | 2026-04-15 |  |
 | [HEAT](https://open.spotify.com/track/2Eb90KOQVtffoYWTrx84cw) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [HEAT](https://open.spotify.com/album/6stY2PRGbRXTyShn6wvz5v) | 4:00 | 2025-07-29 |  |
 | [HEATDEATH](https://open.spotify.com/track/40MMRtYzfFgnXkPPpdYp6e) | [NOISE ARTIFACT](https://open.spotify.com/artist/6UojgIi7c86XvCyk5NCKs5) | [HEATDEATH](https://open.spotify.com/album/7wrOGqqfzuyvulI6NPkbOk) | 2:54 | 2024-07-22 | 2025-08-13 |
 | [HEAVENSENT!](https://open.spotify.com/track/6uen3LTLbdTnRtge8fA3pv) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [POM\-POM GUILLOTINE](https://open.spotify.com/album/5sPglyjvgeRbUqP4HdkYXJ) | 3:16 | 2025-03-10 |  |
@@ -397,6 +398,7 @@
 | [Shadow in the Dark](https://open.spotify.com/track/4bIAlhrgDknR6iPH1ZW4ES) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 4:14 | 2024-12-06 | 2026-03-01 |
 | [She Rained Down](https://open.spotify.com/track/7fvMOmTsmThOIpzKGO8A7p) | [This Is The Glasshouse](https://open.spotify.com/artist/090FV8x5cK3p3WwKnQXyFk) | [As Small As Ants](https://open.spotify.com/album/3nsiCBttVO5PmlsIT8mDVY) | 3:28 | 2024-07-22 |  |
 | [Shoot Me If You Can](https://open.spotify.com/track/2UkXYrNzmb1edRsMezsu1s) | [Kookie](https://open.spotify.com/artist/4lXLshdg09Wxh0oPdSNNwW) | [Shoot Me If You Can](https://open.spotify.com/album/3oEi6itGs4mFe5Op0QnTPz) | 3:25 | 2025-10-29 |  |
+| [should've died years ago](https://open.spotify.com/track/7ePJ6BcAdvmgHmP1s3aSyy) | [Flxffy\_](https://open.spotify.com/artist/6IMOszBMoTJWk1TUPTJlGD) | [should've died years ago](https://open.spotify.com/album/5sEnRmxYndenRP1yd6djsh) | 2:51 | 2026-04-15 |  |
 | [Side Effects](https://open.spotify.com/track/3BCBxtROaMqaFXBPNdrFiA) | [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [Side Effects](https://open.spotify.com/album/45Ix4hesCtMI2Hg1u457TW) | 2:20 | 2024-10-21 | 2026-03-01 |
 | [Silhouette](https://open.spotify.com/track/0fC9GePxGbjfuOuGJLcLlh) | [GrieferPig](https://open.spotify.com/artist/7DmWu55IMdbyjRKmhsgTA6), [Trey Husk](https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d), [Metajoker](https://open.spotify.com/artist/2fkfwkrtCqUBWuYOdg2iFO) | [Ponies At Dawn Fusion](https://open.spotify.com/album/4OGFquHWqzLZIAonNWdDwh) | 3:25 | 2026-01-17 |  |
 | [Silly Plans \~ Revisit](https://open.spotify.com/track/5vP1NGTKuXXaEpU6pDdFrx) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Silly Plans \~ Revisit](https://open.spotify.com/album/2Ef4YpCkxaLfkC3kE12yZt) | 2:36 | 2023-12-05 |  |
@@ -495,6 +497,7 @@
 | [what the](https://open.spotify.com/track/6QY4EGyvY1sKaIUEJAk00e) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [what the](https://open.spotify.com/album/5oJwI2DMsXCCq0tiinA843) | 1:53 | 2023-06-14 |  |
 | [what would my phone do without me](https://open.spotify.com/track/3MBBdWC2F0OdPEtEMsWGwu) | [YDXX](https://open.spotify.com/artist/5HTGIsBvCg8NpbTZuXkmJQ) | [what would my phone do without me](https://open.spotify.com/album/0VZFED1R1Xhnk5YypOHVgS) | 1:38 | 2026-02-22 |  |
 | [whatisthetruth](https://open.spotify.com/track/48m5yGOpFG7QAn8EY9ZKKi) | [nightstand lullaby](https://open.spotify.com/artist/0uHNW8Qq4LAZGMMrw66ceM), [InkyFirefly](https://open.spotify.com/artist/5OoLdY1AxARoc1Le6HbrsL) | [dilation](https://open.spotify.com/album/29MNuASiq6KXf6A4IPrQLM) | 3:18 | 2024-11-18 | 2025-08-13 |
+| [When I Die](https://open.spotify.com/track/7FtoIzR0qkMHlbF6I7dF37) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Muh](https://open.spotify.com/album/2dj86r4wOWGi6MPtGWbnPv) | 3:14 | 2026-04-15 |  |
 | [When I Say Go](https://open.spotify.com/track/7uLYm4sGWIyuLEe0UBbrPR) | [CaseJackal](https://open.spotify.com/artist/7g70RbgaRstVaB30WRBOP8), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [When I Say Go](https://open.spotify.com/album/0ADMGJ1s5a6QkTLzYhcEXt) | 4:21 | 2024-03-06 | 2026-03-01 |
 | [When The Opera Ends](https://open.spotify.com/track/4Wplx3eSDhIab3wglmii7O) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [When The Opera Ends](https://open.spotify.com/album/3VkWnUaXYnWkl8WQ87W3EB) | 2:38 | 2026-01-24 |  |
 | [Where Did You Go](https://open.spotify.com/track/2lMSCUf7lh8aMZzAF7vZSH) | [overblur](https://open.spotify.com/artist/6WmXUzSYwIPwKx2XTJHxkD), [Trey Husk](https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d) | [Where Did You Go](https://open.spotify.com/album/3e5gqJGCGaZyUVEQfLyKHL) | 3:13 | 2024-05-29 |  |

@@ -4,7 +4,7 @@
 
 > Get your bassface on with these classic Dubstep tracks.
 
-124 songs - 9 hr 36 min
+125 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Organ Donor](https://open.spotify.com/track/7kZ7HsK9XD6X6e9Yb5zBTn) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [UKF Dubstep 2011](https://open.spotify.com/album/3IKzKR31XJ3fuQVeeJEbaH) | 3:58 | 2020-10-03 | 2022-07-28 |
 | [Perfect Stranger \(feat\. Katy B\)](https://open.spotify.com/track/45pKLqudtUxyytI3xPBap7) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 5:57 | 2020-10-03 |  |
 | [Perfect Stranger \(feat\. Magnetic Man\)](https://open.spotify.com/track/6ZqBQWfrmYqk5F9yi9S36O) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:13 | 2020-10-03 |  |
+| [Pretty Bright Light](https://open.spotify.com/track/2sJlDr8V10DYpnxra6tWkR) | [RSD](https://open.spotify.com/artist/5z8Vn9xoYJ3OXi6VSfohzF) | [Corner Dub \(Blue & Red Mix\) / Pretty Bright Light](https://open.spotify.com/album/1ZLzAQlEXAIMNAhhYzq0jI) | 5:10 | 2024-12-12 |  |
 | [Promises](https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:17 | 2020-10-03 | 2024-04-19 |
 | [Promises](https://open.spotify.com/track/4UZifG6wVTl3dFIeHKLi8y) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality](https://open.spotify.com/album/6GazPcWYAUnvB83tXIbs97) | 4:17 | 2020-10-03 |  |
 | [Punisher](https://open.spotify.com/track/7qVGSVC8gXA8boXAvHePQS) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW) | [Punisher](https://open.spotify.com/album/2hiFjT0WLuuXKoNhvr7yze) | 4:24 | 2020-10-03 | 2024-12-13 |
@@ -119,7 +120,7 @@
 | [Stone Cold](https://open.spotify.com/track/0pmWk0ydV1DiN1XGNMFlw8) | [groove chronicles](https://open.spotify.com/artist/52ra5pt8grwDXQaE2AO5on) | [Stonecold / Hold On](https://open.spotify.com/album/1Jx6rUWeiMeIodcvTI76RN) | 5:37 | 2024-03-15 |  |
 | [Sweet Shop](https://open.spotify.com/track/0vUscbitfkKXkeIaxqvHHM) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Sweet Shop / Gargoyle](https://open.spotify.com/album/6Eb8vvrHeNeIN5upuYS3Io) | 4:35 | 2023-10-17 | 2024-04-19 |
 | [Sweet Shop](https://open.spotify.com/track/295nnPutAyvfXpVsfwJbga) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Sweet Shop / Gargoyle](https://open.spotify.com/album/0h4Tv7D0UWZzVtDPytqPvq) | 4:35 | 2020-10-03 | 2024-02-17 |
-| [The Knowledge](https://open.spotify.com/track/1BjCQM4rGB8muspU65nK72) | [Toasty](https://open.spotify.com/artist/5xD3piymhCUyYezMeJX2h5) | [The Knowledge](https://open.spotify.com/album/7osClkZir38QpfXpEB570p) | 5:06 | 2024-07-12 |  |
+| [The Knowledge](https://open.spotify.com/track/1BjCQM4rGB8muspU65nK72) | [Toasty](https://open.spotify.com/artist/5xD3piymhCUyYezMeJX2h5) | [The Knowledge](https://open.spotify.com/album/7osClkZir38QpfXpEB570p) | 5:06 | 2024-07-12 | 2026-04-16 |
 | [Time Lapse](https://open.spotify.com/track/79Ir3HCbMRSNhvnowWwJFk) | [Boofy](https://open.spotify.com/artist/1w2QxapVigswBn0iFFmhAm) | [Time Lapse](https://open.spotify.com/album/3Ttv6LO7YJrpYJA1PVPKFb) | 5:36 | 2020-10-03 | 2022-07-29 |
 | [Topper Top \(feat Teddy Bruckshot Lady Chann & Killa P\)](https://open.spotify.com/track/28LaoRYd7v0EpChEzj7z3O) | [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Topper Top](https://open.spotify.com/album/0CXlKrSc2Ih9ddExRTR6Bu) | 3:20 | 2024-09-30 | 2024-12-13 |
 | [Tortured](https://open.spotify.com/track/2J9k8u0qfqUJtLeqTfkxfF) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG) | [Tortured / Shattered](https://open.spotify.com/album/191Vujdxp5qZwTStz0gqZl) | 4:38 | 2024-09-30 | 2024-12-30 |

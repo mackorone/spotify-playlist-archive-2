@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 624 likes - 78 songs - 4 hr 29 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 629 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 76 | [What To Become](https://open.spotify.com/track/368ymVq33003r6t4n9GbRD) | [Highroad No\. 28](https://open.spotify.com/artist/2Rd79D7pa2uM72yzgHLaGQ) | [The Will To Endure](https://open.spotify.com/album/7pUjpFncOv0tTDrAi34Bb3) | 3:24 |
 | 77 | [Eco friendly](https://open.spotify.com/track/4ce7x8EqfVRzdw7keMoRgZ) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [Eco friendly](https://open.spotify.com/album/4JD9UxKxUa3Ar8FaX0QvUq) | 3:24 |
 | 78 | [Wilhelm Scream](https://open.spotify.com/track/6utT15xnEIQAvvhtB4UTRv) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Pixels and Poetry](https://open.spotify.com/album/4uAPVQZQXh00bC51MVWLgq) | 3:26 |
+| 79 | [Where The Shadows Creep](https://open.spotify.com/track/1LWeQi5o10m3ZKSXv9wZKK) | [New Disorder](https://open.spotify.com/artist/2P2kXMQwUdHW8EB9wYSwi0) | [Where The Shadows Creep](https://open.spotify.com/album/0hwRBcohCJmYRtfU80z9G0) | 3:58 |
+| 80 | [Золотом](https://open.spotify.com/track/5WvI8UliUjXmDLudsTwxlN) | [Маша Яблокова](https://open.spotify.com/artist/4sB4FO6pJwDMBwRJC8ntrq) | [Золотом](https://open.spotify.com/album/0Yc22TF8FZ8r8IqtG98LRM) | 3:53 |
 
-Snapshot ID: `AAADSbWOx1keH6g64GclKzokg5js0cBM`
+Snapshot ID: `AAADSzhqRBrwB3ywCSKWPkV/Kz2gObdq`

@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Ghoulish",
-  "num_followers": 104670,
+  "num_followers": 104687,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-03-20 08:27:15",
       "album": {
-        "name": "Picking Up The Pace",
-        "url": "https://open.spotify.com/album/3V7NkyfVDcZQQ2rFMbh547"
-      },
-      "artists": [
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        }
-      ],
-      "duration_ms": 178777,
-      "name": "Picking Up The Pace",
-      "url": "https://open.spotify.com/track/5koTalU95XrUKGGa1nwCSp"
-    },
-    {
-      "added_at": "2026-03-20 08:27:15",
-      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 194782,
       "name": "Power",
       "url": "https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8"
+    },
+    {
+      "added_at": "2026-03-20 08:27:15",
+      "album": {
+        "name": "Picking Up The Pace",
+        "url": "https://open.spotify.com/album/3V7NkyfVDcZQQ2rFMbh547"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 178777,
+      "name": "Picking Up The Pace",
+      "url": "https://open.spotify.com/track/5koTalU95XrUKGGa1nwCSp"
     },
     {
       "added_at": "2026-03-20 08:27:15",
@@ -967,26 +967,6 @@
     {
       "added_at": "2026-03-20 08:27:15",
       "album": {
-        "name": "PM to AM",
-        "url": "https://open.spotify.com/album/41T8EwgAIcKBF5a5TQBsh4"
-      },
-      "artists": [
-        {
-          "name": "Fish56Octagon",
-          "url": "https://open.spotify.com/artist/46Ro78dkP2X0XUKmiovwL3"
-        },
-        {
-          "name": "Alika",
-          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
-        }
-      ],
-      "duration_ms": 187562,
-      "name": "PM to AM",
-      "url": "https://open.spotify.com/track/6xWjM20FtXnoc3cL3st4kC"
-    },
-    {
-      "added_at": "2026-03-20 08:27:15",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/0FlFl8UOEfbmBdfpQWAVHI"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 147580,
       "name": "2 Spirits",
       "url": "https://open.spotify.com/track/21fDO61ssrijFjOXqrBw2n"
+    },
+    {
+      "added_at": "2026-03-20 08:27:15",
+      "album": {
+        "name": "PM to AM",
+        "url": "https://open.spotify.com/album/41T8EwgAIcKBF5a5TQBsh4"
+      },
+      "artists": [
+        {
+          "name": "Fish56Octagon",
+          "url": "https://open.spotify.com/artist/46Ro78dkP2X0XUKmiovwL3"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+        }
+      ],
+      "duration_ms": 187562,
+      "name": "PM to AM",
+      "url": "https://open.spotify.com/track/6xWjM20FtXnoc3cL3st4kC"
     },
     {
       "added_at": "2026-03-20 08:27:15",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-03-20 08:27:15",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        }
-      ],
-      "duration_ms": 169130,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo"
-    },
-    {
-      "added_at": "2026-03-20 08:27:15",
-      "album": {
         "name": "Feel Da Same",
         "url": "https://open.spotify.com/album/4YCC3uBhkoVU0Ku21mM3nx"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2026-03-20 08:27:15",
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        }
+      ],
+      "duration_ms": 169130,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo"
+    },
+    {
+      "added_at": "2026-03-20 08:27:15",
+      "album": {
         "name": "Nobody Else But U",
         "url": "https://open.spotify.com/album/6vNxyOKtUI4bpLKOtYlIkY"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 200804,
       "name": "Nobody Else But U",
       "url": "https://open.spotify.com/track/3iagcHosUvxs9876pJwZKI"
+    },
+    {
+      "added_at": "2026-03-20 08:27:15",
+      "album": {
+        "name": "Melon",
+        "url": "https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3"
+      },
+      "artists": [
+        {
+          "name": "Lockerz",
+          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Melon",
+      "url": "https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M"
     },
     {
       "added_at": "2026-03-20 08:27:15",
@@ -1175,22 +1191,6 @@
       "duration_ms": 253235,
       "name": "Like This Like That",
       "url": "https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0"
-    },
-    {
-      "added_at": "2026-03-20 08:27:15",
-      "album": {
-        "name": "Melon",
-        "url": "https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3"
-      },
-      "artists": [
-        {
-          "name": "Lockerz",
-          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Melon",
-      "url": "https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M"
     },
     {
       "added_at": "2026-03-20 08:27:15",

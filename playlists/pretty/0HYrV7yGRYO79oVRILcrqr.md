@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,778 likes - 148 songs - 9 hr 35 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,780 likes - 151 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,5 +156,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 146 | [FLICK MY HAIR](https://open.spotify.com/track/6kUmbD1EfBxaa95s05UhTU) | [ABELA](https://open.spotify.com/artist/3t19go2ralbBNKL0LggZW0) | [FLICK MY HAIR](https://open.spotify.com/album/0cNFUNwrBZw5WCSocHkpGI) | 2:47 |
 | 147 | [Oh, What a Sunny Day!](https://open.spotify.com/track/0lsZ7P31n0B5dDtAeA1BkL) | [The Hollow Frays](https://open.spotify.com/artist/4p9MmGhxHuh8SEcsOTiU9L) | [Oh, What a Sunny Day!](https://open.spotify.com/album/3E2NALBN9OHJH1fJlVRilk) | 2:51 |
 | 148 | [Dissonanze](https://open.spotify.com/track/4it9AInqERIyIVB2xAyGeU) | [Evan Park](https://open.spotify.com/artist/0Uy6ep5p6hkzzPs1SuucDU) | [Dissonanze](https://open.spotify.com/album/2UHDgfzcwmSw24WKsJI1e8) | 2:16 |
+| 149 | [Bayou Icarus](https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:28 |
+| 150 | [Abandono](https://open.spotify.com/track/6R993gafBxnGWUwymORDml) | [Condoizelles](https://open.spotify.com/artist/5zltVdFyM13oCtomjbvwme) | [Considerações sobre a paisagem](https://open.spotify.com/album/4vQzOdbdQ9ttVKoFdOCJK4) | 5:18 |
+| 151 | [Pra quê](https://open.spotify.com/track/4pP1UsBuRGrQexQ3T1hmD0) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heriós](https://open.spotify.com/album/5kVLd6P222EsnzQMNz54bP) | 3:37 |
 
-Snapshot ID: `AAALFB56fjGkGoufT3dkaUc+0OxAuD1V`
+Snapshot ID: `AAALF2e29Cdbom9GQ6mgrUA7cfUpB35a`

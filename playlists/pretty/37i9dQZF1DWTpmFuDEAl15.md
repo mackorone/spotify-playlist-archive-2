@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 
 > Curated for the culture, built for the fairway\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,794 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,816 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 | 99 | [I Want Your Love](https://open.spotify.com/track/4TKpetKIHxl4oV4TXx8soq) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Kaleidoscope](https://open.spotify.com/album/76o841qWVCuHhgFHfmi6bw) | 4:14 |
 | 100 | [Portrait of Tracy](https://open.spotify.com/track/5NBAy2oiS9OIWyAZhklsH2) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Jaco Pastorius](https://open.spotify.com/album/6SsT4Zyev0zS7eocL0B72m) | 2:22 |
 
-Snapshot ID: `AAAAABjy1y2x8BaHG3xp+g39x8pnJWdl`
+Snapshot ID: `AAAAANEzimXNkHPOiAf8QidbskRadiBC`

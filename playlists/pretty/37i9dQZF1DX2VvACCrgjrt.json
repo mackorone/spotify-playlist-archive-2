@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1313061,
+  "num_followers": 1313046,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -476,7 +476,7 @@
       },
       "artists": [
         {
-          "name": "dillon nathaniel",
+          "name": "dillon nathaniel.",
           "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
         }
       ],
@@ -947,6 +947,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "SOFI",
+          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
+        }
+      ],
+      "duration_ms": 195114,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Focus (feat. CLOVES) [Alok Remix]",
         "url": "https://open.spotify.com/album/71YUx35MIG4R7DUAAxCVfF"
       },
@@ -995,26 +1015,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Whiplash",
-        "url": "https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "SOFI",
-          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
-        }
-      ],
-      "duration_ms": 195114,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Faded (Blacklizt Version)(HNTR Remix)",
         "url": "https://open.spotify.com/album/69JzonS2xBTsz9UMYpD3dC"
       },
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Better Place",
+        "url": "https://open.spotify.com/album/3B2VzWQGV32CbRitgZo4lq"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        },
+        {
+          "name": "Jack August",
+          "url": "https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry"
+        }
+      ],
+      "duration_ms": 200353,
+      "name": "Better Place",
+      "url": "https://open.spotify.com/track/7klsdxLeKIkIE9RG49mDpD"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Shook Ones, PT. III",
         "url": "https://open.spotify.com/album/3O9VVRJeKfnT0XBTZIhRVb"
       },
@@ -1091,46 +1111,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Better Place",
-        "url": "https://open.spotify.com/album/3B2VzWQGV32CbRitgZo4lq"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        },
-        {
-          "name": "Jack August",
-          "url": "https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry"
-        }
-      ],
-      "duration_ms": 200353,
-      "name": "Better Place",
-      "url": "https://open.spotify.com/track/7klsdxLeKIkIE9RG49mDpD"
-    },
-    {
-      "added_at": "2026-03-06 05:00:10",
-      "album": {
-        "name": "INERTIA",
-        "url": "https://open.spotify.com/album/6vQY11JrPuG6h17SzGa1oD"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        },
-        {
-          "name": "Marzi",
-          "url": "https://open.spotify.com/artist/4ou6cmjDFP0qzoXwr0cJTM"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "YOU GOT ME",
-      "url": "https://open.spotify.com/track/0clHsShVOKyXflPbH5adcg"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "4U",
         "url": "https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 180703,
       "name": "4U",
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
+    },
+    {
+      "added_at": "2026-03-06 05:00:10",
+      "album": {
+        "name": "INERTIA",
+        "url": "https://open.spotify.com/album/6vQY11JrPuG6h17SzGa1oD"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        },
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/4ou6cmjDFP0qzoXwr0cJTM"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "YOU GOT ME",
+      "url": "https://open.spotify.com/track/0clHsShVOKyXflPbH5adcg"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1437,24 +1437,20 @@
       "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
     },
     {
-      "added_at": "2026-03-20 04:00:50",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Don't Care",
-        "url": "https://open.spotify.com/album/2hNNyaoRcuwmENRLYEoLRa"
+        "name": "About To Lose It",
+        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "GIACOBBI",
-          "url": "https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         }
       ],
-      "duration_ms": 153181,
-      "name": "Don't Care",
-      "url": "https://open.spotify.com/track/0T7mQq7lMpvw9VUZDaPHWW"
+      "duration_ms": 195942,
+      "name": "About To Lose It",
+      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
     },
     {
       "added_at": "2026-02-06 05:00:42",
@@ -1477,20 +1473,24 @@
       "url": "https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-03-20 04:00:50",
       "album": {
-        "name": "About To Lose It",
-        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
+        "name": "Don't Care",
+        "url": "https://open.spotify.com/album/2hNNyaoRcuwmENRLYEoLRa"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "GIACOBBI",
+          "url": "https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo"
         }
       ],
-      "duration_ms": 195942,
-      "name": "About To Lose It",
-      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
+      "duration_ms": 153181,
+      "name": "Don't Care",
+      "url": "https://open.spotify.com/track/0T7mQq7lMpvw9VUZDaPHWW"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "BABYLON",
-        "url": "https://open.spotify.com/album/3zqVGulkXSmIWOSoXGN2VW"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        }
-      ],
-      "duration_ms": 200712,
-      "name": "BABYLON",
-      "url": "https://open.spotify.com/track/7uM6anPIQpJdxt4v2Dis81"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Count On You",
         "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 165923,
       "name": "Count On You",
       "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "BABYLON",
+        "url": "https://open.spotify.com/album/3zqVGulkXSmIWOSoXGN2VW"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        }
+      ],
+      "duration_ms": 200712,
+      "name": "BABYLON",
+      "url": "https://open.spotify.com/track/7uM6anPIQpJdxt4v2Dis81"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1729,20 +1729,24 @@
       "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
     },
     {
-      "added_at": "2026-03-13 04:00:35",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Make Some Noise",
-        "url": "https://open.spotify.com/album/1tLvx3RU7RpR2DzAx288dx"
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/15ETuT3f79dmEM23ppNeH4"
       },
       "artists": [
         {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
         }
       ],
-      "duration_ms": 191139,
-      "name": "Make Some Noise",
-      "url": "https://open.spotify.com/track/4maoPRr7kjuafK4oZBoF6o"
+      "duration_ms": 140654,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/694KwHLls5cZF2HvsOIuFA"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1765,24 +1769,20 @@
       "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-03-13 04:00:35",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/15ETuT3f79dmEM23ppNeH4"
+        "name": "Make Some Noise",
+        "url": "https://open.spotify.com/album/1tLvx3RU7RpR2DzAx288dx"
       },
       "artists": [
         {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
         }
       ],
-      "duration_ms": 140654,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/694KwHLls5cZF2HvsOIuFA"
+      "duration_ms": 191139,
+      "name": "Make Some Noise",
+      "url": "https://open.spotify.com/track/4maoPRr7kjuafK4oZBoF6o"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1965,22 +1965,6 @@
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
-        "name": "4THEBOYS",
-        "url": "https://open.spotify.com/album/10pJch7joGi7t4vkd29m84"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "4THEBOYS",
-      "url": "https://open.spotify.com/track/3uqp9i661Wr0vsOdfWbCqd"
-    },
-    {
       "added_at": "2026-03-13 04:00:35",
       "album": {
         "name": "My Body",
@@ -1995,6 +1979,22 @@
       "duration_ms": 164954,
       "name": "My Body",
       "url": "https://open.spotify.com/track/6HFnh0hW2q0j7XpuXd02cr"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
+        "name": "4THEBOYS",
+        "url": "https://open.spotify.com/album/10pJch7joGi7t4vkd29m84"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "4THEBOYS",
+      "url": "https://open.spotify.com/track/3uqp9i661Wr0vsOdfWbCqd"
     },
     {
       "added_at": "2026-01-16 05:00:37",
@@ -2087,18 +2087,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Warehouse",
-        "url": "https://open.spotify.com/album/5cguVMkWcQVYde2ZucBdNR"
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
       },
       "artists": [
         {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
         }
       ],
-      "duration_ms": 139852,
-      "name": "Warehouse",
-      "url": "https://open.spotify.com/track/0TH77vpxcIxMIND1gnne68"
+      "duration_ms": 182272,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2123,18 +2123,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
+        "name": "Warehouse",
+        "url": "https://open.spotify.com/album/5cguVMkWcQVYde2ZucBdNR"
       },
       "artists": [
         {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
         }
       ],
-      "duration_ms": 182272,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
+      "duration_ms": 139852,
+      "name": "Warehouse",
+      "url": "https://open.spotify.com/track/0TH77vpxcIxMIND1gnne68"
     },
     {
       "added_at": "2026-01-30 05:00:51",
@@ -2213,24 +2213,20 @@
       "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
     },
     {
-      "added_at": "2026-03-06 05:00:10",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Dancing Through It All",
-        "url": "https://open.spotify.com/album/0sBFTmC0IfoBN9zAiXmsVb"
+        "name": "ZERO200",
+        "url": "https://open.spotify.com/album/5CWX8Gbb9qAuAYCnUIMhfB"
       },
       "artists": [
         {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
         }
       ],
-      "duration_ms": 165217,
-      "name": "Dancing Through It All",
-      "url": "https://open.spotify.com/track/1CispG7CncTdTDdbYTOASy"
+      "duration_ms": 186240,
+      "name": "ZERO200",
+      "url": "https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2289,20 +2285,24 @@
       "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-03-06 05:00:10",
       "album": {
-        "name": "ZERO200",
-        "url": "https://open.spotify.com/album/5CWX8Gbb9qAuAYCnUIMhfB"
+        "name": "Dancing Through It All",
+        "url": "https://open.spotify.com/album/0sBFTmC0IfoBN9zAiXmsVb"
       },
       "artists": [
         {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
         }
       ],
-      "duration_ms": 186240,
-      "name": "ZERO200",
-      "url": "https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1"
+      "duration_ms": 165217,
+      "name": "Dancing Through It All",
+      "url": "https://open.spotify.com/track/1CispG7CncTdTDdbYTOASy"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2339,26 +2339,6 @@
       "duration_ms": 181850,
       "name": "Good Girls",
       "url": "https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Kyra Mastro",
-          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
-        }
-      ],
-      "duration_ms": 184222,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2403,6 +2383,26 @@
       "duration_ms": 194076,
       "name": "Ice Cold",
       "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Kyra Mastro",
+          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
+        }
+      ],
+      "duration_ms": 184222,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
     },
     {
       "added_at": "2026-01-09 16:39:37",

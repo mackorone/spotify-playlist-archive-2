@@ -1,6 +1,6 @@
 {
   "description": "<3<3<3<3",
-  "num_followers": 775235,
+  "num_followers": 775153,
   "original_name": "Kilig Pa More",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-04-14 08:03:50",
       "album": {
-        "name": "Hindi Ako Mawawala",
-        "url": "https://open.spotify.com/album/3Xs46eH5aOqsGPdCYalWOS"
-      },
-      "artists": [
-        {
-          "name": "El Manu",
-          "url": "https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0"
-        }
-      ],
-      "duration_ms": 283809,
-      "name": "Hindi Ako Mawawala",
-      "url": "https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ"
-    },
-    {
-      "added_at": "2026-04-14 08:03:50",
-      "album": {
         "name": "10,000 Hours (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
@@ -615,6 +599,38 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "added_at": "2026-04-14 08:03:50",
+      "album": {
+        "name": "Hindi Ako Mawawala",
+        "url": "https://open.spotify.com/album/3Xs46eH5aOqsGPdCYalWOS"
+      },
+      "artists": [
+        {
+          "name": "El Manu",
+          "url": "https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0"
+        }
+      ],
+      "duration_ms": 283809,
+      "name": "Hindi Ako Mawawala",
+      "url": "https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ"
+    },
+    {
+      "added_at": "2026-04-14 08:03:50",
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "LOVE SONG",
+      "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ"
     },
     {
       "added_at": "2026-04-14 08:03:50",
@@ -647,22 +663,6 @@
       "duration_ms": 244915,
       "name": "Vanish Into You",
       "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
-    },
-    {
-      "added_at": "2026-04-14 08:03:50",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 133113,
-      "name": "drinks or coffee",
-      "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
     }
   ],
   "unique_name": "Kilig Pa More",

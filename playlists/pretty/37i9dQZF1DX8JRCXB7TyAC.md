@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,346 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,403 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 16 | [2 Thikhane](https://open.spotify.com/track/3L0D24OsYiep8UTIJD5yOz) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Muskan Lohan](https://open.spotify.com/artist/5OKqVSrcAoGngUNYtrcF4O) | [2 Thikhane](https://open.spotify.com/album/2jUbWUI5VkWJIk8xY5pU6X) | 2:47 |
 | 17 | [Gunde & Jhunde](https://open.spotify.com/track/1QMWBdBfRjwkJYR3cHubHM) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Gunde & Jhunde](https://open.spotify.com/album/5gF74TT3geUofbSdp0Eph7) | 2:49 |
 | 18 | [12 Bande](https://open.spotify.com/track/2KcTIyH6LF1yKEysNFViph) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [12 Bande](https://open.spotify.com/album/2z3ehE5Rn7AAQFuqQjkNJ5) | 2:45 |
-| 19 | [Tagde Karam](https://open.spotify.com/track/4KokOfuYaiKzjpbKbQfiOT) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Tagde Karam](https://open.spotify.com/album/5rTJ8zrN5kCFWM0uhoCiwa) | 2:45 |
-| 20 | [Og](https://open.spotify.com/track/2y286nV941JBSCJUF35fhC) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Og](https://open.spotify.com/album/6jO2GFWlZRkYqVXc5U3nnS) | 3:05 |
+| 19 | [Og](https://open.spotify.com/track/2y286nV941JBSCJUF35fhC) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Og](https://open.spotify.com/album/6jO2GFWlZRkYqVXc5U3nnS) | 3:05 |
+| 20 | [Tagde Karam](https://open.spotify.com/track/4KokOfuYaiKzjpbKbQfiOT) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Tagde Karam](https://open.spotify.com/album/5rTJ8zrN5kCFWM0uhoCiwa) | 2:45 |
 | 21 | [Surrey BC](https://open.spotify.com/track/7uMZMs65u1FlVYdmvQKXMs) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Surrey BC](https://open.spotify.com/album/4FZjdxEiFL0HWL4antngWO) | 3:47 |
 | 22 | [Lala Lori](https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Lala Lori](https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy) | 2:40 |
 | 23 | [Cheete](https://open.spotify.com/track/10ipeWfN2UZWuFgN82YiV2) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj) | [Cheete](https://open.spotify.com/album/156qPdGRsin25x6LKHJTXg) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Dole Laadle](https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dole Laadle](https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq) | 3:01 |
 | 50 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 |
 
-Snapshot ID: `AAAAAE65h2m79GHSHwqCn3RQdk/dfC3R`
+Snapshot ID: `AAAAAJXeTGdOFSsnh0WKg+Vd4v2E0Bee`

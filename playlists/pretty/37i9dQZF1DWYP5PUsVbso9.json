@@ -1,6 +1,6 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 315672,
+  "num_followers": 315685,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
+        "name": "I'm Jessi Colter",
+        "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
+      },
+      "artists": [
+        {
+          "name": "Jessi Colter",
+          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
+        }
+      ],
+      "duration_ms": 203106,
+      "name": "I'm Not Lisa",
+      "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
+    },
+    {
+      "added_at": "2026-02-03 18:46:39",
+      "album": {
         "name": "The Essential Johnny Duncan",
         "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 189786,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
-    },
-    {
-      "added_at": "2026-02-03 18:46:39",
-      "album": {
-        "name": "I'm Jessi Colter",
-        "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
-      },
-      "artists": [
-        {
-          "name": "Jessi Colter",
-          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
-        }
-      ],
-      "duration_ms": 203106,
-      "name": "I'm Not Lisa",
-      "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
     },
     {
       "added_at": "2026-02-03 18:46:39",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
+        "name": "Oak Ridge Boys Greatest Hits",
+        "url": "https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN"
       },
       "artists": [
         {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
         }
       ],
-      "duration_ms": 190773,
-      "name": "Marie Laveau",
-      "url": "https://open.spotify.com/track/7nIcb2zJj0HPNws3PRCl7k"
+      "duration_ms": 174226,
+      "name": "Y'all Come Back Saloon",
+      "url": "https://open.spotify.com/track/5O8eCRZGcjLfztSye87CMw"
     }
   ],
   "unique_name": "70s Country",

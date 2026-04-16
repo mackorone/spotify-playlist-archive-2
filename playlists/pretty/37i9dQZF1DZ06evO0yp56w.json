@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 833476,
+  "num_followers": 833527,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adwyAAAAAADFSUDeOuEi0mz8jQMNBfZ2",
+  "snapshot_id": "ad2DgAAAAACuPr9cChuHe7KFK73x6BEq",
   "tracks": [
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 198849,
-      "name": "Will Of The People",
-      "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
+      "duration_ms": 297962,
+      "name": "Verona",
+      "url": "https://open.spotify.com/track/35E8of4u0B5PI8o4Hy0tWq"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 297962,
-      "name": "Verona",
-      "url": "https://open.spotify.com/track/35E8of4u0B5PI8o4Hy0tWq"
+      "duration_ms": 198849,
+      "name": "Will Of The People",
+      "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
     },
     {
       "added_at": null,

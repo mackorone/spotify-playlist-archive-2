@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > The best of Swahili gospel music\. Cover: Guardian Angel
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,312 likes - 109 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,356 likes - 109 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2107,6 +2107,28 @@
     },
     {
       "album": {
+        "name": "Do Worry Be Happy",
+        "url": "https://open.spotify.com/album/7hcRYQuywqZ7syYMNX2XmQ"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "Anda",
+          "url": "https://open.spotify.com/artist/2PZt7SATrAxsNG60Mqkan4"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282879,
+      "name": "Dressroom",
+      "url": "https://open.spotify.com/track/1HckzcwOyGXrnc5QeuY54q"
+    },
+    {
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/6Ay26ho43I6fumK6UxFMPl"
       },
@@ -3126,6 +3148,24 @@
     {
       "album": {
         "name": "Headlights",
+        "url": "https://open.spotify.com/album/6jZcBqbatq5twIOd8XmU4o"
+      },
+      "artists": [
+        {
+          "name": "Kimsan",
+          "url": "https://open.spotify.com/artist/4PiqWnfbWGcCFT2UDxKCf1"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223360,
+      "name": "Headlight",
+      "url": "https://open.spotify.com/track/3tKqOIvxiN9z5AfN6pHDHd"
+    },
+    {
+      "album": {
+        "name": "Headlights",
         "url": "https://open.spotify.com/album/1AwebtVTQvVFyp8goceZOS"
       },
       "artists": [
@@ -3628,6 +3668,28 @@
       "duration_ms": 218160,
       "name": "Jam Jam",
       "url": "https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8"
+    },
+    {
+      "album": {
+        "name": "nokdu ep vol.1",
+        "url": "https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v"
+      },
+      "artists": [
+        {
+          "name": "nokdu",
+          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
+        },
+        {
+          "name": "JINBO the SuperFreak",
+          "url": "https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219818,
+      "name": "Just The Two of Us (feat. Jinbo)",
+      "url": "https://open.spotify.com/track/6HyBiexwqyNzDAJ72azjKo"
     },
     {
       "album": {
@@ -4162,7 +4224,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 233000,
       "name": "Love Theme (Feat. John Park)",
       "url": "https://open.spotify.com/track/4QKcefpavEt2FMmMRzlpDT"
@@ -5728,7 +5790,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 197240,
       "name": "Self Camera",
       "url": "https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx"
@@ -7656,7 +7718,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 201223,
       "name": "\uadf8\ub300 Hello",
       "url": "https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX"

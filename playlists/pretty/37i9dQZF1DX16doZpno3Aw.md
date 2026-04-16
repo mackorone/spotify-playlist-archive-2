@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,419 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,680 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 31 | [win again \- slowed](https://open.spotify.com/track/5tiyfwVBqGDSLH56B78NZ7) | [trucky](https://open.spotify.com/artist/6MdPiR4YieX09GxNj0Qmzs) | [win again](https://open.spotify.com/album/2sOx36sHdBoIDzE1m5C6NH) | 1:19 |
 | 32 | [Richter: On the Nature of Daylight](https://open.spotify.com/track/4qRsmiPUydTKAhD6qkkacl) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lorenz Dangel](https://open.spotify.com/artist/0NRmJjd0MVItn17pbeWY6k) | [Hamnet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0K3VFgeCSeUuQSGIftNUJn) | 6:36 |
 | 33 | [take a moment to breathe\. \- Instrumental](https://open.spotify.com/track/3lQmOV3OBO7O9FR7oCC8v1) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [take a moment to breathe.](https://open.spotify.com/album/22V9tEtQVgB85xG24ozhS3) | 3:38 |
-| 34 | [Almost forgot that this was the whole point \- Take my Hand Instrumental](https://open.spotify.com/track/5WyeHnhVm4vIRxo6R7yghd) | [AntonioVivald](https://open.spotify.com/artist/7qFqo0wbAJSGPiP115Z0lT) | [Almost forgot that this was the whole point \(Take my Hand Instrumental\)](https://open.spotify.com/album/7xsS2To8lfCppMpdZ6xSCa) | 1:31 |
+| 34 | [Almost forgot that this was the whole point \- Take my Hand Instrumental](https://open.spotify.com/track/5WyeHnhVm4vIRxo6R7yghd) | [afterlives](https://open.spotify.com/artist/4PuYRMP4WbowFgJJjMuMeO) | [Almost forgot that this was the whole point \(Take my Hand Instrumental\)](https://open.spotify.com/album/7xsS2To8lfCppMpdZ6xSCa) | 1:31 |
 | 35 | [L'amore dice Ciao \(Main Titles\) \- Remastered](https://open.spotify.com/track/03KBBkHF2vaeRol4Qt3ccX) | [Armando Trovajoli](https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0) | [La Matriarca \- The Libertine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lDkAePwaZMQ6wmNQYLPBJ) | 3:12 |
 | 36 | [Floating in Reverie](https://open.spotify.com/track/1JEhrWj7TIUsD5ZKA2kEXf) | [Moayad Aljabal](https://open.spotify.com/artist/2yIj6bZPIqv5WIYjD5vWZm) | [Floating in Reverie](https://open.spotify.com/album/0FOgUfITLFpQxfUuVNLTUe) | 1:46 |
 | 37 | [Laura Palmer's Theme \- Instrumental](https://open.spotify.com/track/7Bk3p8UqcP4sItaWNWbvXL) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [Soundtrack From Twin Peaks](https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX) | 4:52 |

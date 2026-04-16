@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31828,
+  "num_followers": 31825,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAARZlXaJwo96BbbvCrk3n0M5yS7ao2U",
+  "snapshot_id": "AAARaC66HhN+tf/yt9c9IwQtsewAaIE9",
   "tracks": [
     {
       "added_at": "2026-04-03 20:05:06",
@@ -147,6 +147,30 @@
       "duration_ms": 184083,
       "name": "CAPTAIN KERNEL",
       "url": "https://open.spotify.com/track/3qgdg6mAzmI6Lx2hseDSel"
+    },
+    {
+      "added_at": "2026-04-15 14:05:55",
+      "album": {
+        "name": "Nothing Left",
+        "url": "https://open.spotify.com/album/4DD6FbOoiOaBbLx6yGFJuS"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+        }
+      ],
+      "duration_ms": 180303,
+      "name": "Nothing Left",
+      "url": "https://open.spotify.com/track/7GQNTnBqlAPa3lQMWeIvUa"
     },
     {
       "added_at": "2026-03-27 10:32:34",

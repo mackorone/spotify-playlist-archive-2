@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Buzzy Lee",
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Sean Solomon",
   "name": "Fresh Finds Folk",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 264200,
       "name": "10:23",
       "url": "https://open.spotify.com/track/28EkYcJzKaRZGNbAxqw3xR"
@@ -1884,6 +1884,24 @@
       "duration_ms": 253314,
       "name": "Another Lover",
       "url": "https://open.spotify.com/track/2UqOQ7Qvsutio7H29qn9Je"
+    },
+    {
+      "album": {
+        "name": "Another Time",
+        "url": "https://open.spotify.com/album/0t0aZd1jbEiYUzUiKPXiNn"
+      },
+      "artists": [
+        {
+          "name": "Zoh Amba",
+          "url": "https://open.spotify.com/artist/3Xfp6T1hoOKpC4Ywcz93EL"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181537,
+      "name": "Another Time",
+      "url": "https://open.spotify.com/track/77Ukfo8YLUQg17odJF4brC"
     },
     {
       "album": {
@@ -5032,7 +5050,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 204210,
       "name": "Buzzkill",
       "url": "https://open.spotify.com/track/7hgP72kTlZxBIq4eygnBgk"
@@ -7121,6 +7139,24 @@
     },
     {
       "album": {
+        "name": "Crackled Grounds",
+        "url": "https://open.spotify.com/album/5TjeuLoE1i9HgpRSRSsL0Y"
+      },
+      "artists": [
+        {
+          "name": "Georgian",
+          "url": "https://open.spotify.com/artist/45BKB70SYuiW2jRGxC1dYv"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228053,
+      "name": "Crackled Grounds",
+      "url": "https://open.spotify.com/track/6M18ClPMkQTS7M7hiwgXz2"
+    },
+    {
+      "album": {
         "name": "Map // Creature Skin",
         "url": "https://open.spotify.com/album/5QbJqqzsFQV2B7JW8ZHwHr"
       },
@@ -8394,6 +8430,24 @@
       "duration_ms": 200373,
       "name": "Devil on the Dresser",
       "url": "https://open.spotify.com/track/5q01RMBLUJkQrHKAoQacek"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0Wi1YKnlOHLUm3AlA7dGGW"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248148,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ"
     },
     {
       "album": {
@@ -10346,7 +10400,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 210758,
       "name": "Evergreen In Your Mind",
       "url": "https://open.spotify.com/track/3QjTA3vO39iKdAWk8Igo2Y"
@@ -11554,6 +11608,24 @@
       "duration_ms": 215871,
       "name": "Find Our Way Home",
       "url": "https://open.spotify.com/track/28oB5HyQbKcEoAQWUn91si"
+    },
+    {
+      "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/69yBujeTPGK2rC2qFcdS9X"
+      },
+      "artists": [
+        {
+          "name": "Sean Solomon",
+          "url": "https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200293,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/4tGVYB2GmhidTUN7hv6Rwt"
     },
     {
       "album": {
@@ -20610,7 +20682,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 199780,
       "name": "loose ends",
       "url": "https://open.spotify.com/track/67OFZ9ebvekdwrNEjdfk9G"
@@ -22896,7 +22968,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 223683,
       "name": "Murderer",
       "url": "https://open.spotify.com/track/0Ha86xqXK7vcBpYvG5SNp3"
@@ -23382,7 +23454,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 155500,
       "name": "Never Knew Me At All",
       "url": "https://open.spotify.com/track/23fz4FBrTfCqVTdeftxGuE"
@@ -24223,6 +24295,24 @@
     },
     {
       "album": {
+        "name": "Nothing To Me",
+        "url": "https://open.spotify.com/album/2xYIVVwhNQJyMYfDmUPIFL"
+      },
+      "artists": [
+        {
+          "name": "Minna",
+          "url": "https://open.spotify.com/artist/4Qk9F01tP4FfjkBam8LfNL"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241962,
+      "name": "Nothing To Me",
+      "url": "https://open.spotify.com/track/6LqCRU03LUuicE0Y3IGzWG"
+    },
+    {
+      "album": {
         "name": "nothingness",
         "url": "https://open.spotify.com/album/6OY6euJPNtAeKsloc1fA5X"
       },
@@ -24288,7 +24378,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 138176,
       "name": "now...later",
       "url": "https://open.spotify.com/track/4xjB0AIUXQOJtOJCz6IaoB"
@@ -24630,7 +24720,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 214814,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/4Upa4Devu3DADgTvonkPkL"
@@ -25769,6 +25859,24 @@
     },
     {
       "album": {
+        "name": "Pearl Cloud Song",
+        "url": "https://open.spotify.com/album/5CFZFveOSHzFGL3UCekS38"
+      },
+      "artists": [
+        {
+          "name": "Juni Habel",
+          "url": "https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260464,
+      "name": "Pearl Cloud Song",
+      "url": "https://open.spotify.com/track/2GOC8SnvzxwJS66nKVNaBC"
+    },
+    {
+      "album": {
         "name": "People Pleaser",
         "url": "https://open.spotify.com/album/2t4RXcsXzAkT85rWJ1ShTK"
       },
@@ -25964,6 +26072,24 @@
       "duration_ms": 211053,
       "name": "Pipps Hill",
       "url": "https://open.spotify.com/track/1VDaJ1DvabCELKIVyTrZ5w"
+    },
+    {
+      "album": {
+        "name": "Pitch Boats",
+        "url": "https://open.spotify.com/album/70O9VuLVmOTriNPq6kGh8a"
+      },
+      "artists": [
+        {
+          "name": "mildred",
+          "url": "https://open.spotify.com/artist/3yKgN8NhQcYDi6CXDSYKM0"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211670,
+      "name": "Pitch Boats",
+      "url": "https://open.spotify.com/track/6HzOxqHnrluUQS4JVjnT3a"
     },
     {
       "album": {

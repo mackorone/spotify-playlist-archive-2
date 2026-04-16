@@ -1,12 +1,12 @@
 {
   "description": "Les plus grands hits fran\u00e7ais des ann\u00e9es 90. Photo: C\u00e9line Dion",
-  "num_followers": 208312,
+  "num_followers": 208334,
   "original_name": "Hits Fran\u00e7ais 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIs9oNcvixuJomt6t97yzcVlLdRU",
+  "snapshot_id": "AAAAAPWSKdVPbvrSP6Yt9GtmdqhPlhN0",
   "tracks": [
     {
       "added_at": "2025-12-23 14:43:02",
@@ -203,22 +203,6 @@
       "duration_ms": 223533,
       "name": "H\u00e9l\u00e8ne",
       "url": "https://open.spotify.com/track/1CgOx7wQjNc3J4PDWpMKV2"
-    },
-    {
-      "added_at": "2025-12-23 14:43:02",
-      "album": {
-        "name": "Alors regarde",
-        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "J'te l'dis quand m\u00eame",
-      "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
     },
     {
       "added_at": "2025-12-23 14:43:02",
@@ -635,6 +619,22 @@
       "duration_ms": 172493,
       "name": "J'envoie valser",
       "url": "https://open.spotify.com/track/30BWTpgeLnFCQlm7QoF9uV"
+    },
+    {
+      "added_at": "2025-12-23 14:43:02",
+      "album": {
+        "name": "Alors regarde",
+        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+        }
+      ],
+      "duration_ms": 219226,
+      "name": "J'te l'dis quand m\u00eame",
+      "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
     },
     {
       "added_at": "2025-12-23 14:43:02",

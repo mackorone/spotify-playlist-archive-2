@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 708 songs - 1 day 22 hr 4 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 707 songs - 1 day 22 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -715,6 +715,5 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 705 | [Not Broken](https://open.spotify.com/track/5X5rDwKQOnxwJbrDzBt4vf) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [And The Voice Said](https://open.spotify.com/album/2IBArX0JnPTNVhJ1tVbGoo) | 3:22 |
 | 706 | [Aperture](https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 5:11 |
 | 707 | [Gave On \- M Street](https://open.spotify.com/track/2nitBAPiZlWBMSPG3mC5t6) | [Nana Grizol](https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM) | [Dancing Dogs](https://open.spotify.com/album/2PWxllm289w9WK39WpE2Ct) | 1:26 |
-| 708 | [Target Practice](https://open.spotify.com/track/6ViXXJ6TMKmHIbgm3Hgqm8) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [My New Band Believe](https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J) | 2:05 |
 
-Snapshot ID: `AAAI6aTtWajAmMx0Wizn3w/ukivgZHrn`
+Snapshot ID: `AAAI6vZ84WQevL53rjv0U5tFFRrvjc/g`

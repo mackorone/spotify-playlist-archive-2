@@ -1,12 +1,12 @@
 {
   "description": "This is Elmiene. The essential tracks, all in one playlist.",
-  "num_followers": 9250,
+  "num_followers": 9260,
   "original_name": "This Is Elmiene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adwyAAAAAAAWeF5+DtXdPbUjgcxExLxl",
+  "snapshot_id": "ad2DgAAAAAB91riGqSCM7XbTpNYZxKMx",
   "tracks": [
     {
       "added_at": null,
@@ -250,11 +250,15 @@
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
         }
       ],
-      "duration_ms": 180734,
-      "name": "Saviour",
-      "url": "https://open.spotify.com/track/181XIyJMPKxgFkSIs0lboa"
+      "duration_ms": 234469,
+      "name": "Light By The Window",
+      "url": "https://open.spotify.com/track/4aUYeJamvtDTfj2jxIvZrN"
     },
     {
       "added_at": null,
@@ -318,15 +322,11 @@
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
         }
       ],
-      "duration_ms": 234469,
-      "name": "Light By The Window",
-      "url": "https://open.spotify.com/track/4aUYeJamvtDTfj2jxIvZrN"
+      "duration_ms": 165703,
+      "name": "Time Doesn\u2019t Heal",
+      "url": "https://open.spotify.com/track/0QSXeOV9rQEU00Itu2RI0F"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 165703,
-      "name": "Time Doesn\u2019t Heal",
-      "url": "https://open.spotify.com/track/0QSXeOV9rQEU00Itu2RI0F"
+      "duration_ms": 180734,
+      "name": "Saviour",
+      "url": "https://open.spotify.com/track/181XIyJMPKxgFkSIs0lboa"
     },
     {
       "added_at": null,

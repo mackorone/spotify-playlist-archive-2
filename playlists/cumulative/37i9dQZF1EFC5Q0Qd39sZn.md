@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-682 songs - 1 day 23 hr 13 min
+683 songs - 1 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 | 2024-01-24 |  |
 | [I Don't Know How I Got By](https://open.spotify.com/track/7xXlY5tR7PL7mgNF9SCfgf) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Playlist: The Best of Edwin McCain](https://open.spotify.com/album/4uFXMAwIhO6y7zJ1gS4k2q) | 3:46 | 2023-12-30 |  |
 | [I Don't Need You To](https://open.spotify.com/track/4ueBIcziMpSFAPW6ulYK8M) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Gotta Tell You](https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc) | 3:37 | 2024-07-04 |  |
-| [I Don't Wanna Live Without Your Love](https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 19 \(Expanded Edition\)](https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY) | 3:54 | 2023-12-30 | 2026-04-14 |
+| [I Don't Wanna Live Without Your Love](https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 19 \(Expanded Edition\)](https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY) | 3:54 | 2023-12-30 |  |
 | [I Don't Wanna Smile](https://open.spotify.com/track/4uPN4lISfBaXTDj4QIAgdm) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 4:43 | 2023-12-30 |  |
 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 | 2023-12-30 |  |
 | [I Don't Want to Miss a Thing](https://open.spotify.com/track/1cTATYMdB3N8Hq3TEwSZ0F) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing \(Official HD Video\)](https://open.spotify.com/album/3osPdU4wgtinhHvwKtLHNP) | 4:52 | 2024-01-21 | 2024-02-01 |
@@ -556,7 +556,8 @@
 | [The One I Gave My Heart To](https://open.spotify.com/track/1TmzjefIVfAR86yFarHYBO) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [One In A Million](https://open.spotify.com/album/5VT7ND2Rq0MhfqxkAzBNz3) | 4:30 | 2024-09-26 |  |
 | [The One I Gave My Heart To](https://open.spotify.com/track/5otUV0LUycAHXqGVz8bZY0) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [One In A Million](https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG) | 4:30 | 2023-12-30 | 2024-09-27 |
 | [The One Thing](https://open.spotify.com/track/3mgXHv9bi2TFYeC5O1D1zT) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:09 | 2023-12-30 |  |
-| [The Ones You Love](https://open.spotify.com/track/1UzAqWHz96lIutGzR6aQYw) | [Zendee](https://open.spotify.com/artist/4naOha45BMkEKW6fnTPQ3A) | [I Believe](https://open.spotify.com/album/1JpQ5L6frqPta1oGw2PzhI) | 3:46 | 2024-07-10 |  |
+| [The Ones You Love](https://open.spotify.com/track/1UzAqWHz96lIutGzR6aQYw) | [Zendee](https://open.spotify.com/artist/4naOha45BMkEKW6fnTPQ3A) | [I Believe](https://open.spotify.com/album/1JpQ5L6frqPta1oGw2PzhI) | 3:46 | 2024-07-10 | 2026-04-16 |
+| [The Ones You Love](https://open.spotify.com/track/5S6Op0fATsZxzxbZ05R6HS) | [Zendee](https://open.spotify.com/artist/4naOha45BMkEKW6fnTPQ3A) | [I Believe \(U.S\. Version\)](https://open.spotify.com/album/6yyU2JjrJx805gLP6gjc1X) | 3:46 | 2026-04-15 |  |
 | [The Only Good Thing \(You Ever Said Was Goodbye\)](https://open.spotify.com/track/0AiTstGRHGrTNKqMisi2Rn) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Notorious](https://open.spotify.com/album/5KztrAgu5Q8ZbNhDyPvSxS) | 4:26 | 2023-12-30 |  |
 | [The Plumbing Song](https://open.spotify.com/track/4feL1rU1EcDRDQHetpFYlr) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Off The Deep End](https://open.spotify.com/album/6qr3P9IV7X8zSmRWUfKTNL) | 4:06 | 2023-12-30 |  |
 | [The Right Kind Of Wrong](https://open.spotify.com/track/0bJ03Oyk12EZhfn5OEfOVu) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [The Right Kind Of Wrong \(Dave Audé Mix\)](https://open.spotify.com/album/4wAiIGnuCkfH8NgzOuamlQ) | 3:47 | 2023-12-30 |  |

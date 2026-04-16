@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Pamungkas, Laufey, KATSEYE, Teddy Adhitya, Silet Open Up, SonaOne dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,340 likes - 104 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,353 likes - 104 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

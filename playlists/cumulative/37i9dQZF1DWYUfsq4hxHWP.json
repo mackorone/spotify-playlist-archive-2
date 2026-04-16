@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Callie Prince, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Tatum Scott, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -1874,6 +1874,24 @@
       "duration_ms": 204342,
       "name": "Airstream Dreams",
       "url": "https://open.spotify.com/track/6yWgBTJcCZPQnl67VoPuMy"
+    },
+    {
+      "album": {
+        "name": "Alabama Avenue",
+        "url": "https://open.spotify.com/album/6XAhcEjTGZCtkmLWVfeNB7"
+      },
+      "artists": [
+        {
+          "name": "Tatum Scott",
+          "url": "https://open.spotify.com/artist/7qnInIoAbmwOwIVkOgQCwy"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192485,
+      "name": "Alabama Avenue",
+      "url": "https://open.spotify.com/track/7GJpqysns7lTzCOLyAOOyp"
     },
     {
       "album": {
@@ -10764,7 +10782,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 257627,
       "name": "COCAINE + HOOKERS",
       "url": "https://open.spotify.com/track/3gDVS3LRH5esmkKx5XIfFE"
@@ -17941,6 +17959,24 @@
     },
     {
       "album": {
+        "name": "Family Man",
+        "url": "https://open.spotify.com/album/7kFb4uQduC2IxCia5ryDZN"
+      },
+      "artists": [
+        {
+          "name": "Trey Pendley",
+          "url": "https://open.spotify.com/artist/2oOEyLAK9imfmtCtg591wy"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226765,
+      "name": "Family Man",
+      "url": "https://open.spotify.com/track/3c2nUOiNyuE7mfKL0kSLox"
+    },
+    {
+      "album": {
         "name": "Family Tree",
         "url": "https://open.spotify.com/album/7eie9vlMKH2zrZubcO9NdZ"
       },
@@ -20564,7 +20600,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 195194,
       "name": "Girl Out In Nevada",
       "url": "https://open.spotify.com/track/1PWaYO4hyrQDD8AeOcy90k"
@@ -22042,6 +22078,24 @@
       "duration_ms": 180250,
       "name": "Goodbye Ain't a Game",
       "url": "https://open.spotify.com/track/4XOLQDJmFpcN77VI5pjj46"
+    },
+    {
+      "album": {
+        "name": "Goodbye Gone",
+        "url": "https://open.spotify.com/album/56DVOPftwhPGRB6wn63LWE"
+      },
+      "artists": [
+        {
+          "name": "Sadie Bass",
+          "url": "https://open.spotify.com/artist/0KKnDewzC3LxfR6L3RA3i8"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194492,
+      "name": "Goodbye Gone",
+      "url": "https://open.spotify.com/track/2FhWNtyWCtjb53GleLksp4"
     },
     {
       "album": {
@@ -23916,6 +23970,24 @@
       "duration_ms": 223006,
       "name": "Heart Lesson",
       "url": "https://open.spotify.com/track/7cwOza2atkYBK8XNVcaAWC"
+    },
+    {
+      "album": {
+        "name": "Heart Like Yours",
+        "url": "https://open.spotify.com/album/6aVac3asUTxWblhmgov6O8"
+      },
+      "artists": [
+        {
+          "name": "Alex Hall",
+          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201754,
+      "name": "Heart Like Yours",
+      "url": "https://open.spotify.com/track/4cKqMrAV31REYiiVA9FoU2"
     },
     {
       "album": {
@@ -38276,7 +38348,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 205128,
       "name": "Miss You In The Morning",
       "url": "https://open.spotify.com/track/07o5o1HfjMhEZBouOED4GZ"
@@ -40730,7 +40802,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 187613,
       "name": "Not By You",
       "url": "https://open.spotify.com/track/3PE9xhUkCFa0La37VzJhlD"
@@ -45090,7 +45162,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 165680,
       "name": "REASON YOU DRINK",
       "url": "https://open.spotify.com/track/1ZNHq4ZBAhUtfhq2mdBpOI"
@@ -47588,6 +47660,24 @@
       "duration_ms": 204194,
       "name": "San Diego",
       "url": "https://open.spotify.com/track/5Ii8EVpw9oBkOeKz3K1Dor"
+    },
+    {
+      "album": {
+        "name": "SATURDAY SIN",
+        "url": "https://open.spotify.com/album/4YS4pwJxvMwSTmCxe1McF9"
+      },
+      "artists": [
+        {
+          "name": "Ashley Walls",
+          "url": "https://open.spotify.com/artist/1sO7K6dVf1ZYa4XNZVozBw"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212778,
+      "name": "SATURDAY SIN",
+      "url": "https://open.spotify.com/track/3v9IQFfUwtdWU4g52n0Bj2"
     },
     {
       "album": {
@@ -55901,6 +55991,24 @@
     },
     {
       "album": {
+        "name": "The In Between",
+        "url": "https://open.spotify.com/album/7l0NkuQ3TN4Lu0dhhHIEYX"
+      },
+      "artists": [
+        {
+          "name": "Cody Oliphant",
+          "url": "https://open.spotify.com/artist/1R5H4PobfhcxRif5X0m4UL"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232004,
+      "name": "The In Between",
+      "url": "https://open.spotify.com/track/5mgvXxCNsVBgkw4LWHBM94"
+    },
+    {
+      "album": {
         "name": "The Least You Could Do",
         "url": "https://open.spotify.com/album/1Uvssuk2dY5MMvmT1q9Rpg"
       },
@@ -59905,6 +60013,24 @@
     },
     {
       "album": {
+        "name": "Used to Be Friends",
+        "url": "https://open.spotify.com/album/1OCft11iwRtVETDpAp1Hyt"
+      },
+      "artists": [
+        {
+          "name": "Riley Roth",
+          "url": "https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182713,
+      "name": "Used to Be Friends",
+      "url": "https://open.spotify.com/track/7DuXdX8EaSdfTCehTLLH4q"
+    },
+    {
+      "album": {
         "name": "Roots Under Me",
         "url": "https://open.spotify.com/album/0yPX2AhL5rjaGssCWRANcR"
       },
@@ -60792,7 +60918,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 197107,
       "name": "We Should Probably Stop Here",
       "url": "https://open.spotify.com/track/2mYIIJ0hAhQ62AwGJ5z2J1"
@@ -61686,6 +61812,24 @@
       "duration_ms": 193413,
       "name": "What's Stopping Us",
       "url": "https://open.spotify.com/track/0xNbmz9rOGmhs183sH0o2c"
+    },
+    {
+      "album": {
+        "name": "What's Wrong With You",
+        "url": "https://open.spotify.com/album/57b6HbtA6x1BB1a0t39HjK"
+      },
+      "artists": [
+        {
+          "name": "Juno James",
+          "url": "https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204641,
+      "name": "What's Wrong With You",
+      "url": "https://open.spotify.com/track/1qbDqgOBHPpQSgLwL8oRTw"
     },
     {
       "album": {
@@ -64224,6 +64368,24 @@
       "duration_ms": 221480,
       "name": "Won't Break Heartbreak",
       "url": "https://open.spotify.com/track/6FIGkjdSjqU3ntgrsmDgqM"
+    },
+    {
+      "album": {
+        "name": "Wonder If You're Wonderin'",
+        "url": "https://open.spotify.com/album/0EDh5Peegm3ZGklo7VEFlB"
+      },
+      "artists": [
+        {
+          "name": "Christian Yancey",
+          "url": "https://open.spotify.com/artist/3P44ryV0jH0znmHk6rp8xw"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "Wonder If You're Wonderin'",
+      "url": "https://open.spotify.com/track/4ShDYuZHewyfDVI5xLjAoE"
     },
     {
       "album": {

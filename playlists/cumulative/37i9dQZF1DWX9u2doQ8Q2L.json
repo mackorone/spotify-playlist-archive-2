@@ -212,7 +212,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 203380,
       "name": "1000 days of moments",
       "url": "https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 208237,
       "name": "back for me",
       "url": "https://open.spotify.com/track/7HZMIIF0neWvNC8P1UgAQo"
@@ -8471,6 +8471,24 @@
     },
     {
       "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/4AmIYFw5LrSEvcVMh5GEYw"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232697,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/3vi0jFVbY21SJNbidnZLam"
+    },
+    {
+      "album": {
         "name": "Good Time In Disguise",
         "url": "https://open.spotify.com/album/2rEX0BniB4v4PaRGa5bsDE"
       },
@@ -9370,6 +9388,24 @@
       "duration_ms": 232234,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/0U5eI9p9H669wEu8sry6YO"
+    },
+    {
+      "album": {
+        "name": "higher",
+        "url": "https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK"
+      },
+      "artists": [
+        {
+          "name": "LAUSBUB",
+          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214733,
+      "name": "higher",
+      "url": "https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh"
     },
     {
       "album": {
@@ -10366,7 +10402,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 259333,
       "name": "I SYNC",
       "url": "https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw"
@@ -14964,7 +15000,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 180125,
       "name": "mosaic",
       "url": "https://open.spotify.com/track/1ndoxz0E52XBpO8XAz5MyC"

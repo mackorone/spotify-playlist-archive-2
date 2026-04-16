@@ -29263,6 +29263,28 @@
     },
     {
       "album": {
+        "name": "Daydream again",
+        "url": "https://open.spotify.com/album/38eDcULhkaQJW2ivB1r3xP"
+      },
+      "artists": [
+        {
+          "name": "Sawao Yamanaka",
+          "url": "https://open.spotify.com/artist/4X0lski0KnPuIyJJQSRhtF"
+        },
+        {
+          "name": "ELPIS",
+          "url": "https://open.spotify.com/artist/0naaoYVMMjPwLYHSSK8HUf"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179826,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/4QMteoJ6BM8RrkWQWOMJEd"
+    },
+    {
+      "album": {
         "name": "watermelon (demo)",
         "url": "https://open.spotify.com/album/0aTrDi5x5rI4IU7vGW6D6y"
       },
@@ -53714,7 +53736,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 243066,
       "name": "\u76d7\u307e\u308c\u305fZIPANGU - feat.\u6d45\u4e95\u5065\u4e00",
       "url": "https://open.spotify.com/track/2bxDjVtuza7NC3XxuOGdQ7"

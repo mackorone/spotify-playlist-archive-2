@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Birds Singing In The Park",
+        "url": "https://open.spotify.com/album/2wdnVPooTFEX6h6N1OFoVV"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62343,
+      "name": "Birds Singing In The Park",
+      "url": "https://open.spotify.com/track/6PvZUOTuc5K7hHawZv8FD9"
+    },
+    {
+      "album": {
         "name": "Blooming Flowers",
         "url": "https://open.spotify.com/album/041bD9COQS0TGAsZCNFUJg"
       },
@@ -942,7 +960,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 186537,
       "name": "Bowie - Awakening",
       "url": "https://open.spotify.com/track/63zRRZhL8x0VA64o82uh2d"
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 187125,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5Fr4RpT1YVZHJ5L7CkCDfn"
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 170708,
       "name": "Citrus",
       "url": "https://open.spotify.com/track/7M1jq7PiPbElU1P1n3SvPe"
@@ -2382,7 +2400,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 157090,
       "name": "Eternal River",
       "url": "https://open.spotify.com/track/51WiXO31Qb04gRsfVJWroH"
@@ -3437,6 +3455,24 @@
     },
     {
       "album": {
+        "name": "Hands In The Sky",
+        "url": "https://open.spotify.com/album/56bBodScnFrZTDX0PfpeHW"
+      },
+      "artists": [
+        {
+          "name": "Deepest Minds",
+          "url": "https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164112,
+      "name": "Hands In The Sky",
+      "url": "https://open.spotify.com/track/70ObLIVk41IfOm3ijjifgg"
+    },
+    {
+      "album": {
         "name": "Hands of Peace",
         "url": "https://open.spotify.com/album/4Dktl0OS3gUY0CrymbhZns"
       },
@@ -3466,7 +3502,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 157090,
       "name": "Haoma",
       "url": "https://open.spotify.com/track/40I2IA1fQ20M2l20WrSkO5"
@@ -6411,6 +6447,24 @@
     },
     {
       "album": {
+        "name": "Rebalanced",
+        "url": "https://open.spotify.com/album/58zk4RDP4DnF1nObrEpn8L"
+      },
+      "artists": [
+        {
+          "name": "Noah Florence",
+          "url": "https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169190,
+      "name": "Rebalanced",
+      "url": "https://open.spotify.com/track/7rAxEaJTcSQUpor4gw7rRS"
+    },
+    {
+      "album": {
         "name": "Recovery",
         "url": "https://open.spotify.com/album/31vutoDOOQeWJWo3B1s45F"
       },
@@ -8867,6 +8921,24 @@
     },
     {
       "album": {
+        "name": "Where the Rain Begins to Sing",
+        "url": "https://open.spotify.com/album/4nA7eft1WMWMBNRqOLJsIR"
+      },
+      "artists": [
+        {
+          "name": "Lush Aura",
+          "url": "https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200432,
+      "name": "Where the Rain Begins to Sing",
+      "url": "https://open.spotify.com/track/12Yi9MWiPV33nFiccg7zzI"
+    },
+    {
+      "album": {
         "name": "Whispering Stream",
         "url": "https://open.spotify.com/album/7gTsoPZiP1jy2I3CWGKpkX"
       },
@@ -8878,7 +8950,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 169615,
       "name": "Whispering Stream",
       "url": "https://open.spotify.com/track/1pmvW9hcN5WngmDjEZIOb8"

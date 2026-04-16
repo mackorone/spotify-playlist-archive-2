@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adwyAAAAAABJmh52O5ouyExxXY+0cQE0",
+  "snapshot_id": "ad2DgAAAAAAHWGWtFieQkbqkxrxur8U5",
   "tracks": [
     {
       "added_at": null,
@@ -671,30 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live from the Lugano Festival 2003",
-        "url": "https://open.spotify.com/album/6439UWOWsiCTsfoTNOaPGG"
-      },
-      "artists": [
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        }
-      ],
-      "duration_ms": 371760,
-      "name": "Haydn: Keyboard Trio in G Major, Hob. XV:25 \"Gypsy\": II. Poco adagio (Live)",
-      "url": "https://open.spotify.com/track/1eQIkwOZpG8FAHBZ4pkTp8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sensations - Gabriel's Oboe (From \"The Mission\")",
         "url": "https://open.spotify.com/album/1T3ZpS8nQm9mJHveoJveUX"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 149293,
       "name": "Morricone: Gabriel's Oboe (From \"The Mission\")",
       "url": "https://open.spotify.com/track/4tkOrMjWuEhL5yMyfXUek0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live from the Lugano Festival 2003",
+        "url": "https://open.spotify.com/album/6439UWOWsiCTsfoTNOaPGG"
+      },
+      "artists": [
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "duration_ms": 371760,
+      "name": "Haydn: Keyboard Trio in G Major, Hob. XV:25 \"Gypsy\": II. Poco adagio (Live)",
+      "url": "https://open.spotify.com/track/1eQIkwOZpG8FAHBZ4pkTp8"
     },
     {
       "added_at": null,
@@ -1167,6 +1167,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Capucelli",
+        "url": "https://open.spotify.com/album/5mrGfxM48UCqKrOqG4Rmqm"
+      },
+      "artists": [
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Capucelli",
+          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
+        }
+      ],
+      "duration_ms": 290306,
+      "name": "Delibes: Lakm\u00e9, Act 1: Duo des fleurs (Transcr. Ducros for Cello Ensemble)",
+      "url": "https://open.spotify.com/track/52LED4jd2BKyd9FWQH2s0k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sensations",
         "url": "https://open.spotify.com/album/0nVAQLpoiKnF4zAVoNeEVq"
       },
@@ -1195,22 +1215,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capucelli",
-        "url": "https://open.spotify.com/album/5mrGfxM48UCqKrOqG4Rmqm"
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
       },
       "artists": [
+        {
+          "name": "Philippe Sarde",
+          "url": "https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK"
+        },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Capucelli",
-          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
+          "name": "J\u00e9r\u00f4me Ducros",
+          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
         }
       ],
-      "duration_ms": 290306,
-      "name": "Delibes: Lakm\u00e9, Act 1: Duo des fleurs (Transcr. Ducros for Cello Ensemble)",
-      "url": "https://open.spotify.com/track/52LED4jd2BKyd9FWQH2s0k"
+      "duration_ms": 162600,
+      "name": "La chanson d\u2019H\u00e9l\u00e8ne",
+      "url": "https://open.spotify.com/track/1QUHxreR506sMhPpeoI13E"
     },
     {
       "added_at": null,
@@ -1243,30 +1267,6 @@
       "duration_ms": 264013,
       "name": "La vie en rose",
       "url": "https://open.spotify.com/track/4uDiP7xdjkD5fYhS6fypp8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
-      },
-      "artists": [
-        {
-          "name": "Philippe Sarde",
-          "url": "https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "J\u00e9r\u00f4me Ducros",
-          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "La chanson d\u2019H\u00e9l\u00e8ne",
-      "url": "https://open.spotify.com/track/1QUHxreR506sMhPpeoI13E"
     },
     {
       "added_at": null,
@@ -1323,50 +1323,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saint-Sa\u00ebns: Le carnaval des animaux, Septuor & Fantaisie",
-        "url": "https://open.spotify.com/album/28HNwkqtbBQzratVgmhqb1"
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
       },
       "artists": [
         {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "B\u00e9atrice Muthelet",
-          "url": "https://open.spotify.com/artist/1g2WdTd3cGeJBqaRPd337j"
-        },
-        {
-          "name": "Esther Hoppe",
-          "url": "https://open.spotify.com/artist/5P6R1Fp5iLgZHZ090XVs7F"
-        },
-        {
-          "name": "Florent Jodelet",
-          "url": "https://open.spotify.com/artist/6bRfALDm1P7NjYk9eIiRiE"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+          "name": "Ennio Moriconne",
+          "url": "https://open.spotify.com/artist/2yndP9zpcSeLDIDV2ZYotM"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Michel Dalberto",
-          "url": "https://open.spotify.com/artist/1hzIjeYlO245tJ5hS50dUJ"
+          "name": "J\u00e9r\u00f4me Ducros",
+          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
         },
         {
-          "name": "Paul Meyer",
-          "url": "https://open.spotify.com/artist/31rALqMKxBY8SoTJhNwJhn"
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
         }
       ],
-      "duration_ms": 76133,
-      "name": "Saint-Sa\u00ebns: Le carnaval des animaux, R 125: XII. Fossiles",
-      "url": "https://open.spotify.com/track/6twvqDY7lfbPn3FUD1VlDX"
+      "duration_ms": 206586,
+      "name": "Chi mai",
+      "url": "https://open.spotify.com/track/4NyVobuooQ1CGec0vSGE5K"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

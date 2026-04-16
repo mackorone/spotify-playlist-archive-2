@@ -9896,7 +9896,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 199639,
       "name": "Fine Di Un'Era",
       "url": "https://open.spotify.com/track/3pOpZ3BStCHuixCYipeFyF"
@@ -18213,6 +18213,40 @@
     },
     {
       "album": {
+        "name": "Miyako",
+        "url": "https://open.spotify.com/album/5Fe4qcvdX1XMWcNaWHjmGr"
+      },
+      "artists": [
+        {
+          "name": "Anthony Fung",
+          "url": "https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W"
+        },
+        {
+          "name": "Andrew Renfroe",
+          "url": "https://open.spotify.com/artist/1FvH1xEnhG1bs07KgnKXYo"
+        },
+        {
+          "name": "Luca Alemanno",
+          "url": "https://open.spotify.com/artist/4wrQWfHC54aM6Ae5SysjlF"
+        },
+        {
+          "name": "Dayna Stephens",
+          "url": "https://open.spotify.com/artist/3Y8rffZJZVJgNWMM6ZVGin"
+        },
+        {
+          "name": "Javier Santiago",
+          "url": "https://open.spotify.com/artist/3L3oWS9VsgTRBF7HFHdOEz"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324600,
+      "name": "Miyako",
+      "url": "https://open.spotify.com/track/6weB3ybL5mPRAuYEtUKNQu"
+    },
+    {
+      "album": {
         "name": "Moanin'",
         "url": "https://open.spotify.com/album/0jCJWtbZ4W7AfxPXsRhu21"
       },
@@ -25250,7 +25284,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 271266,
       "name": "Skyrim",
       "url": "https://open.spotify.com/track/5ASJoqze1d53dBdJXRMz2Z"
@@ -25272,6 +25306,24 @@
       "duration_ms": 239613,
       "name": "Skyscrapers",
       "url": "https://open.spotify.com/track/00E0F6S41u75kegMAnTiXd"
+    },
+    {
+      "album": {
+        "name": "Indigo Garden",
+        "url": "https://open.spotify.com/album/2ZvPEBdZ5mNXQLNPHqPOn6"
+      },
+      "artists": [
+        {
+          "name": "Black Nile",
+          "url": "https://open.spotify.com/artist/6hb590a1aY49Cv4EAew8Pb"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242213,
+      "name": "Slauson Fog",
+      "url": "https://open.spotify.com/track/5Min2tY6fWLJN84cTi3Mlp"
     },
     {
       "album": {
@@ -28076,7 +28128,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 248602,
       "name": "The Bounce",
       "url": "https://open.spotify.com/track/6SQV0gvucW9KhzREeDngOO"
@@ -32426,6 +32478,32 @@
       "duration_ms": 190229,
       "name": "WHEN THE DAY COMES",
       "url": "https://open.spotify.com/track/5Mz8j6zm5sIRQMOfhxY8Zw"
+    },
+    {
+      "album": {
+        "name": "When The Light Finds Us",
+        "url": "https://open.spotify.com/album/0PmOh4yEE3NeAkcpKjQy7Z"
+      },
+      "artists": [
+        {
+          "name": "Jon Onabowu",
+          "url": "https://open.spotify.com/artist/1B3fZSaCWJ9RkCUH2ZgYlu"
+        },
+        {
+          "name": "Brandon Rose",
+          "url": "https://open.spotify.com/artist/0SBl8rjTMTsWqbWIwkQZEd"
+        },
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247482,
+      "name": "When The Light Finds Us",
+      "url": "https://open.spotify.com/track/1sdLMrcNbLtVp3W3rHGq8N"
     },
     {
       "album": {

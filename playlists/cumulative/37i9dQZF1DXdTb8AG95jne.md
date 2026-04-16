@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: <br/>이예린 \(Lee Yerin\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,316 songs - 3 day 7 hr 36 min
+1,318 songs - 3 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Break Up](https://open.spotify.com/track/4VaN00fKWOc8ZtYs3lc7v8) | [Yyeon](https://open.spotify.com/artist/0qmWztaNn9Nrriuo0aP4uR) | [Break Up](https://open.spotify.com/album/1tDDkdNzfpuEoukq3zrgOE) | 2:31 | 2025-03-14 | 2025-04-11 |
 | [Breathe](https://open.spotify.com/track/0KaN3qT6D58wAezCAEyIU2) | [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Begins youth \(Original Xclusive Soundtrack\), Pt\. 1](https://open.spotify.com/album/4nK3NKTn5dDmuRMKW33QFL) | 4:08 | 2024-05-16 | 2024-07-23 |
 | [Broken camper](https://open.spotify.com/track/4k2erZIXJTbRnYXQ3dpmAk) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Broken camper](https://open.spotify.com/album/4MDrfI6KLD88dZceoqJi7D) | 4:00 | 2024-11-20 | 2025-01-31 |
+| [Bruised](https://open.spotify.com/track/24suBl4SGNDcRF4quflSFo) | [roon](https://open.spotify.com/artist/1Wq5gAIzVM5HKXv2j94j2j) | [A Blend of Scars and Healing](https://open.spotify.com/album/6lZym1hPod0mQHKoE6cJlQ) | 3:15 | 2026-04-15 |  |
 | [Bruised Cloud](https://open.spotify.com/track/7vvA2Xv9Pp2d94oPArNw48) | [Doha](https://open.spotify.com/artist/3BruFP7xkpoAQg1VJnw4k5) | [Bruised Cloud](https://open.spotify.com/album/3gUHZCAPR0m2vogn5cmZVm) | 3:42 | 2022-01-27 | 2022-07-10 |
 | [Bullseye](https://open.spotify.com/track/72klky41z2aZ5ft5YAxlDy) | [Jeong Jia](https://open.spotify.com/artist/2dbUmZGHQxbgINmaqNxzz3) | [Bullseye](https://open.spotify.com/album/4K9A9hREpor7KTRbriaF7C) | 4:05 | 2022-06-18 | 2022-07-15 |
 | [BURN](https://open.spotify.com/track/6lhkk6BanA5aIc7FMIu8kN) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [IGNITE](https://open.spotify.com/album/7DG2868ELzq0vyfRKadbDx) | 3:18 | 2024-10-24 | 2024-11-21 |
@@ -289,7 +290,7 @@
 | [Earth](https://open.spotify.com/track/5UqUMoymWBJD3bAKK7rGb2) | [Lee Jun Hyung](https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq) | [Earth](https://open.spotify.com/album/72W91ap1swKyQxPxhWIHgJ) | 4:35 | 2022-07-08 | 2022-08-05 |
 | [Earth Is Flat](https://open.spotify.com/track/0TJLtj4BvtXs7kc1rThrbq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Earth Is Flat](https://open.spotify.com/album/5tmAQ7Z2eN2yqkhHMgjzY1) | 2:30 | 2024-11-06 | 2025-01-23 |
 | [ease](https://open.spotify.com/track/2UuBsH8yc2HWsZgYwQFGuR) | [Ghim Reezn](https://open.spotify.com/artist/6sA91BD6gLqVE0tyyxx5zI) | [ease](https://open.spotify.com/album/7y0O4fVqSwFSaPgpahelAU) | 2:12 | 2025-07-15 | 2025-08-08 |
-| [easy love](https://open.spotify.com/track/41DVmQcacIUuujHOUyZwRQ) | [drewboi](https://open.spotify.com/artist/4v3atOCQjqdxU6VkWfOf0U) | [easy love](https://open.spotify.com/album/21URFCnjceyLY17RkZhMZQ) | 3:03 | 2026-02-20 |  |
+| [easy love](https://open.spotify.com/track/41DVmQcacIUuujHOUyZwRQ) | [drewboi](https://open.spotify.com/artist/4v3atOCQjqdxU6VkWfOf0U) | [easy love](https://open.spotify.com/album/21URFCnjceyLY17RkZhMZQ) | 3:03 | 2026-02-20 | 2026-04-16 |
 | [Echo \(feat\. JUKJAE\)](https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v), [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Echo \(feat .JUKJAE\)](https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj) | 3:12 | 2024-09-23 | 2024-11-30 |
 | [Echo! \(talk to me baby\)](https://open.spotify.com/track/5BYdnzxaLxqOXk1a94qliS) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [Echo! \(talk to me baby\)](https://open.spotify.com/album/7kCuNUFdsY91GvViZ86Qha) | 2:54 | 2025-09-11 | 2025-10-31 |
 | [Eden](https://open.spotify.com/track/0o7DpobP2DG9TCCPlcnloZ) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Eden](https://open.spotify.com/album/7DKWTFyONUmqYSyDFA2D7V) | 3:08 | 2022-03-31 | 2022-04-09 |
@@ -728,6 +729,7 @@
 | [Morning](https://open.spotify.com/track/62gf2fft5H9FM4H5s4fPLJ) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Morning](https://open.spotify.com/album/2IXgInYjof7yiyDS5BxBDc) | 3:26 | 2025-05-02 | 2025-05-15 |
 | [morning twist](https://open.spotify.com/track/5i5uM0W7hi9ZInDnhvkNIW) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [basecamp](https://open.spotify.com/album/5HbP580hlXJjGGpte2jy6x) | 3:07 | 2025-09-02 | 2025-10-10 |
 | [movie](https://open.spotify.com/track/0gNQjJJgXvAG9ZgNaQdNCN) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [movie](https://open.spotify.com/album/36OnG0nTb9bw3QBQuylYPn) | 3:49 | 2024-04-30 | 2024-05-10 |
+| [Moving on](https://open.spotify.com/track/5fbz2WBSO0X0UKn9ruqFrM) | [615](https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp) | [Moving on](https://open.spotify.com/album/4T7aYpnDgZAOOmQ7Ibqfck) | 4:05 | 2026-04-15 |  |
 | [Mulli Mulli](https://open.spotify.com/track/2y0ozrZZP0unL0rCV5J9np) | [juun](https://open.spotify.com/artist/7GlkJWepxWqGNkDyuG2oCY) | [Mulli Mulli](https://open.spotify.com/album/3p2auYiBhiRRhqExjz6xvR) | 3:07 | 2024-11-29 | 2025-01-31 |
 | [MUSE](https://open.spotify.com/track/0ixKAyXnjZ97RC9RlEpdug) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:32 | 2022-03-31 | 2022-07-09 |
 | [my bad](https://open.spotify.com/track/7Dr1tRPRrJ4DWVhzm8sLjd) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [my bed](https://open.spotify.com/album/3oBSEPLaOzlzDieuJCFbgU) | 4:44 | 2024-04-30 | 2024-05-10 |
@@ -776,7 +778,7 @@
 | [No One Told Me Why](https://open.spotify.com/track/1z9iPDRjp1fZUoisaJiTcA) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [1](https://open.spotify.com/album/4IBGLlaW7yGfCRCrHj03Vx) | 3:43 | 2022-07-27 | 2023-07-03 |
 | [No Parking](https://open.spotify.com/track/0WB8Mlh8kAuCzMOLRPViBa) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [No Parking](https://open.spotify.com/album/7jbvIztCHFiJ9kBHzIFx7W) | 4:17 | 2024-12-19 | 2025-03-05 |
 | [No Reason](https://open.spotify.com/track/2bFKSblSou0f9BnGsO1lSA) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [No Reason](https://open.spotify.com/album/0s2AqRLQOx2w57ZX4CfFWk) | 2:49 | 2022-03-31 | 2022-06-21 |
-| [No way A way \(NWAW\)](https://open.spotify.com/track/1gdZlHRdr3OXnUpDb4FYQC) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [No way A way \(NWAW\)](https://open.spotify.com/album/6O60ZeEzv8gPBM9rxk2CSJ) | 3:18 | 2026-03-16 |  |
+| [No way A way \(NWAW\)](https://open.spotify.com/track/1gdZlHRdr3OXnUpDb4FYQC) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [No way A way \(NWAW\)](https://open.spotify.com/album/6O60ZeEzv8gPBM9rxk2CSJ) | 3:18 | 2026-03-16 | 2026-04-16 |
 | [No Worry Salon](https://open.spotify.com/track/0qTny0XZx8NOzJLjiOLQoU) | [sanha](https://open.spotify.com/artist/3SSkfDFsKDXm5gwMK47uBR) | [No Worry Salon](https://open.spotify.com/album/6gTnFa78SoCnX1yRFn7leu) | 4:11 | 2026-01-14 | 2026-02-10 |
 | [Nobody \(With Mac curly\)](https://open.spotify.com/track/0mCOeuPYwQbEjReOmQhDhX) | [Vincent Park](https://open.spotify.com/artist/101RqEN906HsLFMCf1AOW7) | [PREVIEW \- Vincent Park](https://open.spotify.com/album/5SZJbfMzxp0QTJBhBm2eR0) | 3:07 | 2021-12-21 | 2022-06-02 |
 | [Nobody can find us](https://open.spotify.com/track/18sJ7LfYeLdZIHJKC3wc9g) | [Plo6](https://open.spotify.com/artist/7qY3PamjXoWN7X51bZuoBa) | [Nobody can find us](https://open.spotify.com/album/6FOdQu6OKJdVZcfn6XjGEk) | 3:24 | 2022-04-12 | 2022-04-21 |

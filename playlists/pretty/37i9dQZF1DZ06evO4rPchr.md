@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rPchr.md) - [plain]
 
 > This is Arushi Jain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 26 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 74 likes - 26 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,16 +23,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rPchr.md) - [plain]
 | 13 | [Cultivating Self Love](https://open.spotify.com/track/58JWS7ldLdrmCN0theav1k) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj) | 9:41 |
 | 14 | [A Portal To Silver Linings](https://open.spotify.com/track/1847QMgarVgg8Md0LfK8EJ) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:54 |
 | 15 | [Drown Out the Noise With Your Silence](https://open.spotify.com/track/2hbHQ6sI7bn90uEkTmY3Yt) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [With & Without](https://open.spotify.com/album/0aR3ME6vD1gGWkSYqxFrWo) | 10:45 |
-| 16 | [Anna](https://open.spotify.com/track/2pUoIagEfkojQmTlW92nxS) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [Just a Feeling](https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw) | 5:38 |
+| 16 | [Shanti](https://open.spotify.com/track/0cOT30jmHC4WVVbP9IzEWu) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [Just a Feeling](https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw) | 5:29 |
 | 17 | [The Sun Swirls Within You](https://open.spotify.com/track/6F51yoqVfFpHfLKBlsYd6b) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj) | 9:54 |
-| 18 | [Play In The Void](https://open.spotify.com/track/6fz51xPtM0V3Zs45xkUUHf) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:00 |
-| 19 | [Moksha](https://open.spotify.com/track/4hWiRXQbDM5hRvxZnqWWDY) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [connected \#1](https://open.spotify.com/album/0q9qcP8x7bZO8W2gwGbYJm) | 6:52 |
-| 20 | [I Feel Incomplete Without Sound](https://open.spotify.com/track/6NfGbV2WnS5yv2y5Um4u6v) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [With & Without](https://open.spotify.com/album/0aR3ME6vD1gGWkSYqxFrWo) | 11:38 |
+| 18 | [Exquisite Portraiture](https://open.spotify.com/track/5NLnkoYHzOSQwvdpCAUOqN) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:27 |
+| 19 | [I Feel Incomplete Without Sound](https://open.spotify.com/track/6NfGbV2WnS5yv2y5Um4u6v) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [With & Without](https://open.spotify.com/album/0aR3ME6vD1gGWkSYqxFrWo) | 11:38 |
+| 20 | [Anna](https://open.spotify.com/track/2pUoIagEfkojQmTlW92nxS) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [Just a Feeling](https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw) | 5:38 |
 | 21 | [Under The Lilac Sky](https://open.spotify.com/track/0a6C3EpA3qmz91mCuQD8ww) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj) | 12:43 |
-| 22 | [Exquisite Portraiture](https://open.spotify.com/track/5NLnkoYHzOSQwvdpCAUOqN) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:27 |
-| 23 | [Shanti](https://open.spotify.com/track/0cOT30jmHC4WVVbP9IzEWu) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [Just a Feeling](https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw) | 5:29 |
+| 22 | [I Surrender](https://open.spotify.com/track/0QELACvO7OB3XW4FrfrQM5) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:26 |
+| 23 | [Moksha](https://open.spotify.com/track/4hWiRXQbDM5hRvxZnqWWDY) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [connected \#1](https://open.spotify.com/album/0q9qcP8x7bZO8W2gwGbYJm) | 6:52 |
 | 24 | [Hum Honge Kaamyab / We Shall Overcome](https://open.spotify.com/track/6NCbGeuETdHYmhLX2fLnjT) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [We Shall Overcome / Hum Honge Kaamyaab](https://open.spotify.com/album/7jg2abOJUGNjGyWaSo4m5z) | 5:32 |
 | 25 | [Cio](https://open.spotify.com/track/1aoTgLHC5Rj16TGwZA8N5s) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [Just a Feeling](https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw) | 6:56 |
 | 26 | [Farida](https://open.spotify.com/track/75sS8w13lxeUTKx6k0HR0K) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [Just a Feeling](https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw) | 5:59 |
 
-Snapshot ID: `adwyAAAAAABl9DQnXJyAt0B7Dq7sDFZE`
+Snapshot ID: `ad2DgAAAAABpNirb9PVE7R0XK7kC3R2o`

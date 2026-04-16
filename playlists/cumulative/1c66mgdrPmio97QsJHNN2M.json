@@ -2453,6 +2453,28 @@
     },
     {
       "album": {
+        "name": "Baked Beans",
+        "url": "https://open.spotify.com/album/302TmhIOH0hL6B0TDoSuNC"
+      },
+      "artists": [
+        {
+          "name": "Zerchronika",
+          "url": "https://open.spotify.com/artist/0BW0PJS70OZ0T9AbX8xJU2"
+        },
+        {
+          "name": "Joseph Lawless",
+          "url": "https://open.spotify.com/artist/6ymg9JY69Tc8uCPAnj1iVP"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137941,
+      "name": "Baked Beans",
+      "url": "https://open.spotify.com/track/5bf1ZEPjEAO0lQ9B7QNyA6"
+    },
+    {
+      "album": {
         "name": "Balance Beam",
         "url": "https://open.spotify.com/album/0sZdU9ijHsmLCCAvruEESL"
       },
@@ -3908,6 +3930,24 @@
       "duration_ms": 187725,
       "name": "Burning fire",
       "url": "https://open.spotify.com/track/3KKrqbrSngyEnJGHD6w8rj"
+    },
+    {
+      "album": {
+        "name": "The Flow State (EP)",
+        "url": "https://open.spotify.com/album/1tItR0oKQwD7EnIkOImSvu"
+      },
+      "artists": [
+        {
+          "name": "Devon Cleo",
+          "url": "https://open.spotify.com/artist/2DhXgLXsvrwHrbDNU8CDGk"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177557,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/4SkL9usryt5YtR9wNPgVqF"
     },
     {
       "album": {
@@ -5719,6 +5759,24 @@
     },
     {
       "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/06AG0fmXUeImnkqEgVnVjI"
+      },
+      "artists": [
+        {
+          "name": "Punch 11",
+          "url": "https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166370,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/3d5hWEKuetJFGns4axVWoV"
+    },
+    {
+      "album": {
         "name": "Dance Music ARMeniCA (Musica De Baile)",
         "url": "https://open.spotify.com/album/520TLSw4O5i8GQxYShtm7u"
       },
@@ -5792,7 +5850,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 233290,
       "name": "Dancing In The Rain",
       "url": "https://open.spotify.com/track/2RhLupXwJ3PNQQzs5cpdCG"
@@ -6510,6 +6568,24 @@
       "duration_ms": 141000,
       "name": "Do You Know",
       "url": "https://open.spotify.com/track/5CTgUx3Dxg0BDBpLjyCE4Q"
+    },
+    {
+      "album": {
+        "name": "Do You Think You Are ...",
+        "url": "https://open.spotify.com/album/7aySkDtNQbHGcPsrG1GLNo"
+      },
+      "artists": [
+        {
+          "name": "Guest",
+          "url": "https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233606,
+      "name": "Do You Think You Are ...",
+      "url": "https://open.spotify.com/track/6LZkKLSRhixSCSv0fU0Iyo"
     },
     {
       "album": {
@@ -8258,8 +8334,8 @@
       },
       "artists": [
         {
-          "name": "Verena",
-          "url": "https://open.spotify.com/artist/3QSg39zXOtTTdxvwRUm52y"
+          "name": "The Last Verena",
+          "url": "https://open.spotify.com/artist/218ezUr1oZPPoKjMTCay3o"
         }
       ],
       "date_added": "2026-03-31",
@@ -8268,6 +8344,24 @@
       "duration_ms": 156390,
       "name": "Everyone Clapped Anyway",
       "url": "https://open.spotify.com/track/2zrBWiv8Htq8oWS4fmW8iz"
+    },
+    {
+      "album": {
+        "name": "Everything's Gotta Be About You",
+        "url": "https://open.spotify.com/album/5vFtK6ZDu2y5gwycDRraPo"
+      },
+      "artists": [
+        {
+          "name": "EsumMusic",
+          "url": "https://open.spotify.com/artist/4URGAY6N1o1FdhvpqETIk0"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "Everything's Gotta Be About You",
+      "url": "https://open.spotify.com/track/7lh43V03nZQPriE97qUxLu"
     },
     {
       "album": {
@@ -10916,7 +11010,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 176000,
       "name": "Hard 2 Say",
       "url": "https://open.spotify.com/track/5WgKaJdNGY9yBi5agxI97p"
@@ -12320,6 +12414,24 @@
       "duration_ms": 214000,
       "name": "I Love You Still",
       "url": "https://open.spotify.com/track/3C055vbHmlckZhjtTekZrt"
+    },
+    {
+      "album": {
+        "name": "This Is Fine",
+        "url": "https://open.spotify.com/album/5qETSdVXH2f675oThRNhfk"
+      },
+      "artists": [
+        {
+          "name": "Ella Slone",
+          "url": "https://open.spotify.com/artist/0HOQnpgbTlEjVdcgun1FdB"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192239,
+      "name": "I Mean It This Time",
+      "url": "https://open.spotify.com/track/33NnmwnFnxI1sjaFdZINrQ"
     },
     {
       "album": {
@@ -15447,6 +15559,24 @@
     },
     {
       "album": {
+        "name": "Look to the Left, Look to the Right",
+        "url": "https://open.spotify.com/album/6o7NXuKePoAU6DWH7qEGPB"
+      },
+      "artists": [
+        {
+          "name": "Aleksi Oksanen",
+          "url": "https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112991,
+      "name": "Look to the Left, Look to the Right",
+      "url": "https://open.spotify.com/track/36ysdfAFO9qWTEdKWdQDiM"
+    },
+    {
+      "album": {
         "name": "Loose Change (Gone Electric)",
         "url": "https://open.spotify.com/album/1lxtSkDnbhQM6qrJjPGXXh"
       },
@@ -16996,7 +17126,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 204857,
       "name": "millie and sadie",
       "url": "https://open.spotify.com/track/7ktSQyvFy8ZgPA32dnLGrU"
@@ -22057,6 +22187,24 @@
     },
     {
       "album": {
+        "name": "Rising High",
+        "url": "https://open.spotify.com/album/7rCIyTaiA7vXRu9hBz9bI6"
+      },
+      "artists": [
+        {
+          "name": "Dany Aureo",
+          "url": "https://open.spotify.com/artist/14FZ6U8NdBWFoVMr1IRcP2"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275440,
+      "name": "Rising High",
+      "url": "https://open.spotify.com/track/6fTaXFBbFgWuaNUNrNwYLJ"
+    },
+    {
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/61nffI0NYvb7zRw1RKXQCG"
       },
@@ -22328,7 +22476,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 181318,
       "name": "Running Late",
       "url": "https://open.spotify.com/track/52osk7dpXMPR0uZpl00XWU"
@@ -26569,6 +26717,24 @@
     },
     {
       "album": {
+        "name": "The album",
+        "url": "https://open.spotify.com/album/4L6CXU0lV05T253fNW8UJH"
+      },
+      "artists": [
+        {
+          "name": "FRF2",
+          "url": "https://open.spotify.com/artist/6WD8ugMWHBwTSI2HaNyL7A"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153146,
+      "name": "The spiral",
+      "url": "https://open.spotify.com/track/3KKdesQx26r6cPBF3W5UU9"
+    },
+    {
+      "album": {
         "name": "The Straight Dope",
         "url": "https://open.spotify.com/album/0beTAqB9tTu7gXgVxE5pYf"
       },
@@ -30072,6 +30238,24 @@
       "duration_ms": 127000,
       "name": "Wolves (Instrumental Version)",
       "url": "https://open.spotify.com/track/3fPmoZmxjh4b8oJpi7NCeK"
+    },
+    {
+      "album": {
+        "name": "Won't Let go",
+        "url": "https://open.spotify.com/album/3yvNA2BsiyzbViJH3eC01K"
+      },
+      "artists": [
+        {
+          "name": "Satya",
+          "url": "https://open.spotify.com/artist/3AuLKYl8ryJkeclCUJDniJ"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175670,
+      "name": "Won't Let go",
+      "url": "https://open.spotify.com/track/1MS83OYMIGFRDIE63l48BJ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212223,
+  "num_followers": 212242,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "i'm not a violent dog, i don't know why i bite",
-        "url": "https://open.spotify.com/album/0S2hBpEIxwy70VcRuqHa9P"
-      },
-      "artists": [
-        {
-          "name": "dog isle",
-          "url": "https://open.spotify.com/artist/0OPB40Rma9zNV0q9E0HJZx"
-        }
-      ],
-      "duration_ms": 115067,
-      "name": "she loved dogs",
-      "url": "https://open.spotify.com/track/7cDUACo0ZIHrUPjVRjmEVG"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Summer Sun",
         "url": "https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf"
       },
@@ -459,18 +443,34 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Frigid Stars",
-        "url": "https://open.spotify.com/album/3a7G9BVcIu4T3kf3jQFrk9"
+        "name": "i'm not a violent dog, i don't know why i bite",
+        "url": "https://open.spotify.com/album/0S2hBpEIxwy70VcRuqHa9P"
       },
       "artists": [
         {
-          "name": "Codeine",
-          "url": "https://open.spotify.com/artist/60CBjmRpwr02JwAd3Ho25U"
+          "name": "dog isle",
+          "url": "https://open.spotify.com/artist/0OPB40Rma9zNV0q9E0HJZx"
         }
       ],
-      "duration_ms": 267533,
-      "name": "D",
-      "url": "https://open.spotify.com/track/2bMMG4vn7pHC20gj8Yb34m"
+      "duration_ms": 115067,
+      "name": "she loved dogs",
+      "url": "https://open.spotify.com/track/7cDUACo0ZIHrUPjVRjmEVG"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "talking to flowers",
+        "url": "https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi"
+      },
+      "artists": [
+        {
+          "name": "porch kiss",
+          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
+        }
+      ],
+      "duration_ms": 123047,
+      "name": "talking to flowers",
+      "url": "https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -491,18 +491,18 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "talking to flowers",
-        "url": "https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi"
+        "name": "Frigid Stars",
+        "url": "https://open.spotify.com/album/3a7G9BVcIu4T3kf3jQFrk9"
       },
       "artists": [
         {
-          "name": "porch kiss",
-          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
+          "name": "Codeine",
+          "url": "https://open.spotify.com/artist/60CBjmRpwr02JwAd3Ho25U"
         }
       ],
-      "duration_ms": 123047,
-      "name": "talking to flowers",
-      "url": "https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN"
+      "duration_ms": 267533,
+      "name": "D",
+      "url": "https://open.spotify.com/track/2bMMG4vn7pHC20gj8Yb34m"
     },
     {
       "added_at": "2025-08-07 23:00:59",

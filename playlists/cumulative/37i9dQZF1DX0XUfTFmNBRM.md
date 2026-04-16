@@ -4,7 +4,7 @@
 
 > Hottest Hindi music that India is listening to\. Cover \- Dhurandhar:  The Revenge
 
-503 songs - 1 day 8 hr 48 min
+504 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Ishq Mitaye](https://open.spotify.com/track/6TcZOEqYum5s3OWFZFYpBe) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Amar Singh Chamkila](https://open.spotify.com/album/3XBoJ6awI7H0aRvMWDszp3) | 4:33 | 2024-04-18 | 2024-06-13 |
 | [Ishq Nachaawe \- From "Kho Gaye Hum Kahan"](https://open.spotify.com/track/4lQzrLcNfjm1fqBpQmbHG6) | [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [Kho Gaye Hum Kahan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O) | 3:41 | 2024-01-10 | 2024-04-03 |
 | [Ishq Namazaa \(From "The Big Bull"\)](https://open.spotify.com/track/2ZuMkKQXmmxAcsSFDalcPp) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Gourov Dasgupta](https://open.spotify.com/artist/3o3G8YHpQHYo70WtJ4Hg8W) | [Ishq Namazaa \(From "The Big Bull"\)](https://open.spotify.com/album/6Kqsn6bMWEKZ5TuKog6l4S) | 4:25 | 2021-04-30 | 2021-06-22 |
-| [Iss Tarah](https://open.spotify.com/track/1hj2XHe0acA4QuAS0HSxsz) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Iss Tarah](https://open.spotify.com/album/6ZMzPoQ7uJXIrzxAqtRBU9) | 5:23 | 2026-02-18 |  |
+| [Iss Tarah](https://open.spotify.com/track/1hj2XHe0acA4QuAS0HSxsz) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Iss Tarah](https://open.spotify.com/album/6ZMzPoQ7uJXIrzxAqtRBU9) | 5:23 | 2026-02-18 | 2026-04-16 |
 | [I’m Done\. \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 | 2025-11-06 |  |
 | [Jaadui](https://open.spotify.com/track/5iydgkuP2lJFDT9CgyY26x) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tu Jhoothi Main Makkaar](https://open.spotify.com/album/1t1gWslYejaaqicumEbdKU) | 3:42 | 2023-03-24 | 2023-07-04 |
 | [Jaage Hain](https://open.spotify.com/track/3nYhm7l8FuLyIXgb9j82W1) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Madras Chorale Group](https://open.spotify.com/artist/1GC0Sd86XMhMkhUT83p566) | [Guru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kWI9GDPhMhaGNo80Q1XT5) | 6:34 | 2021-04-06 | 2021-04-12 |
@@ -511,5 +511,6 @@
 | [Zihaal e Miskin](https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Zihaal e Miskin](https://open.spotify.com/album/54ubCIO3voLnU7ZmJhxqBd) | 4:03 | 2023-06-05 | 2024-06-04 |
 | [Zinda](https://open.spotify.com/track/1gEHNfJRSXpDVaEicwRRfe) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Lootera](https://open.spotify.com/album/3VrQeNAFHS4Vjl4uspl1s3) | 4:01 | 2021-04-06 | 2021-04-12 |
 | [Zinda Banda \(From "Jawan"\)](https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Zinda Banda \(From "Jawan"\)](https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE) | 4:24 | 2023-08-04 | 2023-11-29 |
+| [Zulfein](https://open.spotify.com/track/6GK02ZOmn7hzEOWVc4YfwC) | [Mehul Mahesh](https://open.spotify.com/artist/2kyOjoPL3gf3VnKeje7NoD), [Dj AYnik](https://open.spotify.com/artist/7woN8EeGudPDKwSjbuUezk) | [Zulfein](https://open.spotify.com/album/2WHjGj5PkPBpuINBtPWQAU) | 3:18 | 2026-04-15 |  |
 
 \*This playlist was first scraped on 2021-01-25. Prior content cannot be recovered.

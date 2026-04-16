@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Broken Glow",
+        "url": "https://open.spotify.com/album/3Nq9lJogDf7tLD588oQkDP"
+      },
+      "artists": [
+        {
+          "name": "Elvin Mercher",
+          "url": "https://open.spotify.com/artist/5GVmxZZpLOj3mPeqMmNoFv"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157132,
+      "name": "Broken Glow",
+      "url": "https://open.spotify.com/track/0VMnvh47RGaO3idhInkls3"
+    },
+    {
+      "album": {
         "name": "Caelestis",
         "url": "https://open.spotify.com/album/0ZDwNPLcNqAZpO8WojVXAI"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 147692,
       "name": "in another life",
       "url": "https://open.spotify.com/track/5tmlfz9I5OIkFULfcQklF0"
@@ -3188,10 +3206,28 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 132170,
       "name": "Porcelain I",
       "url": "https://open.spotify.com/track/5GEyjX4ZG60P1agLRJNJnE"
+    },
+    {
+      "album": {
+        "name": "Porcelain II",
+        "url": "https://open.spotify.com/album/3AgpszNpUfq4EYKep8YOYy"
+      },
+      "artists": [
+        {
+          "name": "Lentia",
+          "url": "https://open.spotify.com/artist/0AKE83RUGa20NvsAep3UHb"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149055,
+      "name": "Porcelain II",
+      "url": "https://open.spotify.com/track/3D5uaMe1yGiTvdnsss3l3C"
     },
     {
       "album": {
@@ -3322,6 +3358,28 @@
       "duration_ms": 137142,
       "name": "rainfall romance",
       "url": "https://open.spotify.com/track/23gnwVis55FifknVon0bw0"
+    },
+    {
+      "album": {
+        "name": "Rainy Afternoon",
+        "url": "https://open.spotify.com/album/2vtFT6hD573N1VdJ0E1q9J"
+      },
+      "artists": [
+        {
+          "name": "Relax AF",
+          "url": "https://open.spotify.com/artist/41QOw4HrudfICy0OqGkokO"
+        },
+        {
+          "name": "Tom Iansek",
+          "url": "https://open.spotify.com/artist/5rSA8bm9qo9t5x8t8xXtwi"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260351,
+      "name": "Rainy Afternoon",
+      "url": "https://open.spotify.com/track/0S0IzohIrXjqRSWqIc0TaA"
     },
     {
       "album": {
@@ -3538,7 +3596,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 180874,
       "name": "Seraphim",
       "url": "https://open.spotify.com/track/5I5ORjjFYe7jiBL0EqEkZe"
@@ -4053,6 +4111,24 @@
     },
     {
       "album": {
+        "name": "Threshold I",
+        "url": "https://open.spotify.com/album/5Q3gwkEa1ND3njPkSFBDqJ"
+      },
+      "artists": [
+        {
+          "name": "Lentia",
+          "url": "https://open.spotify.com/artist/0AKE83RUGa20NvsAep3UHb"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "Threshold I",
+      "url": "https://open.spotify.com/track/16dwIVPzpThUmF69S02cZc"
+    },
+    {
+      "album": {
         "name": "Through Mirror",
         "url": "https://open.spotify.com/album/7MJhbjSDN4AXdQZRbbcoYR"
       },
@@ -4518,7 +4594,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 160200,
       "name": "where do we go from now on",
       "url": "https://open.spotify.com/track/5MdW0f7jvNDYNCvjTBBcCz"
@@ -4662,7 +4738,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 160000,
       "name": "Witness II",
       "url": "https://open.spotify.com/track/7fTQY5YJhjDNdaG7cluwCM"
@@ -4698,7 +4774,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 170863,
       "name": "Yami",
       "url": "https://open.spotify.com/track/0jWg1eNcYVsE9BzxM7DmeD"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Emelie Trahan. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: d\u00f3ttir.x. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -518,6 +518,24 @@
       "duration_ms": 183859,
       "name": "20 BPM",
       "url": "https://open.spotify.com/track/2vC3G5OVfO8BGSbMkVYcV7"
+    },
+    {
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/2guvefR1ZH0bcGjcD5L3bA"
+      },
+      "artists": [
+        {
+          "name": "Luke Armstrong",
+          "url": "https://open.spotify.com/artist/2s79UW9iyNXLZQEXHJi5hG"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154987,
+      "name": "2000",
+      "url": "https://open.spotify.com/track/2j4lA6lFaDXqsBCtpKxKy2"
     },
     {
       "album": {
@@ -6291,6 +6309,24 @@
     },
     {
       "album": {
+        "name": "batman",
+        "url": "https://open.spotify.com/album/5vxI5NjlQ9kTLrqxsl4GAd"
+      },
+      "artists": [
+        {
+          "name": "Fia James",
+          "url": "https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205483,
+      "name": "batman",
+      "url": "https://open.spotify.com/track/5LvQwR4I2HHqIhuxCuitDY"
+    },
+    {
+      "album": {
         "name": "Bbydoll",
         "url": "https://open.spotify.com/album/1TMq136QwGdMxvVN23MLOs"
       },
@@ -6716,7 +6752,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 153665,
       "name": "BEEP BEEP",
       "url": "https://open.spotify.com/track/37QZTqlBL2zWGC0ZOqIKg4"
@@ -37843,6 +37879,24 @@
     },
     {
       "album": {
+        "name": "my head is a jungle in a deforestation way",
+        "url": "https://open.spotify.com/album/1FscXGFbEu6Aaq7FZqeoqd"
+      },
+      "artists": [
+        {
+          "name": "KCH",
+          "url": "https://open.spotify.com/artist/46uWTUVuDzfIAfiLA8Xfgb"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203141,
+      "name": "ingrained",
+      "url": "https://open.spotify.com/track/0z8c9tITOflVHvum6znURZ"
+    },
+    {
+      "album": {
         "name": "Inject Me",
         "url": "https://open.spotify.com/album/6NOxYzzbRk5F60RpRWifNv"
       },
@@ -38334,7 +38388,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 157500,
       "name": "isn't it?",
       "url": "https://open.spotify.com/track/0cIp3Gc6SxLDUzBTx5tPNk"
@@ -38634,7 +38688,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 169872,
       "name": "It's Not You It's Him",
       "url": "https://open.spotify.com/track/5GliRrmzhcTZyXCl0EXBC1"
@@ -50206,6 +50260,24 @@
       "duration_ms": 173625,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/7gTh8WhiD2y4Jd3zk0EqtO"
+    },
+    {
+      "album": {
+        "name": "From My Side",
+        "url": "https://open.spotify.com/album/5vmJ1xWkA9gU8IBSn6gAck"
+      },
+      "artists": [
+        {
+          "name": "Karly Bowman",
+          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186334,
+      "name": "Next To Me",
+      "url": "https://open.spotify.com/track/2JkJ3ju8snOnciAw7YRC92"
     },
     {
       "album": {
@@ -65538,7 +65610,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 187869,
       "name": "Special",
       "url": "https://open.spotify.com/track/1tKt5lYHwNymK3SMDrzQNK"
@@ -66021,6 +66093,24 @@
     },
     {
       "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/14zKqCPTDPPF5HNGJeoUaQ"
+      },
+      "artists": [
+        {
+          "name": "Leona Rue",
+          "url": "https://open.spotify.com/artist/7FrJbMXCyvdwO9WeALL1oe"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170522,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/2OXCKPnXMeyHzHDLBlv5Fl"
+    },
+    {
+      "album": {
         "name": "start all over",
         "url": "https://open.spotify.com/album/6E3NYKusAj1XttDsSGQ5dW"
       },
@@ -66238,6 +66328,24 @@
       "duration_ms": 162127,
       "name": "Stay Close",
       "url": "https://open.spotify.com/track/78cZf7Lvdd4hZsIqOWze2Z"
+    },
+    {
+      "album": {
+        "name": "stay with me",
+        "url": "https://open.spotify.com/album/1szkuMBPAlxjThr7K8PVxv"
+      },
+      "artists": [
+        {
+          "name": "d\u00f3ttir.x",
+          "url": "https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "stay with me",
+      "url": "https://open.spotify.com/track/3ohtc0JIOXUIjZVy5DCSBI"
     },
     {
       "album": {
@@ -67222,7 +67330,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 138329,
       "name": "Suck My MP3",
       "url": "https://open.spotify.com/track/5HQpbbX3ge8TYtpAHYBjSw"
@@ -73732,7 +73840,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-16",
       "duration_ms": 125607,
       "name": "Troy",
       "url": "https://open.spotify.com/track/2KVj7oGzV2LFjxO72z1FX1"

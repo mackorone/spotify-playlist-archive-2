@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Iceage
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,095 likes - 284 songs - 16 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,094 likes - 284 songs - 16 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,252 songs - 3 day 5 hr 9 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,253 songs - 3 day 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1260,5 +1260,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1250 | [Private Presley \- Live](https://open.spotify.com/track/4rGaffcKgGFV47SVtK7Sf7) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 7:02 |
 | 1251 | [Peach Pit \- Live](https://open.spotify.com/track/7JJTMPO5F6VFROyjSa8Bcl) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 5:13 |
 | 1252 | [Tommy's Party \- Live](https://open.spotify.com/track/1w2iGiB7aNdZ4ajxBXP7U8) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 6:05 |
+| 1253 | [10/10](https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 2:26 |
 
-Snapshot ID: `AAAJ2/1Gb7U98o7mnZ2/Nm3g72pVpE2h`
+Snapshot ID: `AAAJ3MQTN04OOQ/Pvjb+FU/ettwNujPv`
