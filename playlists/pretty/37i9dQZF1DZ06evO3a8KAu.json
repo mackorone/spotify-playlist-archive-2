@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50677,
+  "num_followers": 50683,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAACiPuAxcO77N1b9JFtfiV7D",
+  "snapshot_id": "ad7VAAAAAAAWljkRk6XYQ1rw2PidEqtk",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Navolato Vengo, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 192218,
-      "name": "No Tiene Comparaci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/4AD956FupTm5uKLjDY8aLV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Muchacho de La Esquina",
         "url": "https://open.spotify.com/album/7izvRY7Za6veHyloHmhGuf"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 154151,
       "name": "El Muchacho de La Esquina",
       "url": "https://open.spotify.com/track/6lCqXnW5hWF1LK5IBgttSt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Navolato Vengo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 192218,
+      "name": "No Tiene Comparaci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/4AD956FupTm5uKLjDY8aLV"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un D\u00eda a La Vez (En Vivo)",
+        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 195957,
+      "name": "Nunca Valiste Tanto (En Vivo)",
+      "url": "https://open.spotify.com/track/58zCeobzx6kDpn6iebGK1z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "30 Aniversario De Don Miguel Angulo (Vol. 1)",
         "url": "https://open.spotify.com/album/3iEu46MqpFlCcSBGO410nu"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 234160,
       "name": "A Toda Prueba",
       "url": "https://open.spotify.com/track/0eQA3v4oNIfTxP5B8sNXQX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un D\u00eda a La Vez (En Vivo)",
-        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 195957,
-      "name": "Nunca Valiste Tanto (En Vivo)",
-      "url": "https://open.spotify.com/track/58zCeobzx6kDpn6iebGK1z"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brincale al Toro",
-        "url": "https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy"
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 178537,
-      "name": "Las Ense\u00f1anzas",
-      "url": "https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL"
+      "duration_ms": 236009,
+      "name": "Mi Mejor Plan Eres Tu",
+      "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+        "name": "Brincale al Toro",
+        "url": "https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 236009,
-      "name": "Mi Mejor Plan Eres Tu",
-      "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
+      "duration_ms": 178537,
+      "name": "Las Ense\u00f1anzas",
+      "url": "https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
       "duration_ms": 175381,
       "name": "11:11",
       "url": "https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 219149,
+      "name": "Entre Mas Te Miro",
+      "url": "https://open.spotify.com/track/4S0cDhVhaJtF5dDJvPCLov"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 219149,
-      "name": "Entre Mas Te Miro",
-      "url": "https://open.spotify.com/track/4S0cDhVhaJtF5dDJvPCLov"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 166751,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 222778,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/6EoJjlaHxHGuDGYQd2xMJB"
     },
     {
       "added_at": null,
@@ -767,22 +783,6 @@
       "duration_ms": 208443,
       "name": "Como los Vaqueros",
       "url": "https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 222778,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/6EoJjlaHxHGuDGYQd2xMJB"
     },
     {
       "added_at": null,

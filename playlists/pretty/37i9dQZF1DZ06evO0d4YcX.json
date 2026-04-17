@@ -1,12 +1,12 @@
 {
   "description": "This is Amber Mark. The essential tracks, all in one playlist.",
-  "num_followers": 16232,
+  "num_followers": 16238,
   "original_name": "This Is Amber Mark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAABmL9z/fxWtRBqkng15pVpT",
+  "snapshot_id": "ad7VAAAAAAC5D+vd6Ecwee2/id2FuzyE",
   "tracks": [
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAKER'S DESIGN",
-        "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
-      },
-      "artists": [
-        {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
-        },
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 209773,
-      "name": "GODDESS REIGN",
-      "url": "https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Head Over Heels",
         "url": "https://open.spotify.com/album/5P95ihuNOcJWjpepHBNjtB"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 229920,
       "name": "Just Friends (feat. Amber Mark)",
       "url": "https://open.spotify.com/track/73agc0UL322jZnJncsqNM0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAKER'S DESIGN",
+        "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
+      },
+      "artists": [
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 209773,
+      "name": "GODDESS REIGN",
+      "url": "https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic"
     },
     {
       "added_at": null,

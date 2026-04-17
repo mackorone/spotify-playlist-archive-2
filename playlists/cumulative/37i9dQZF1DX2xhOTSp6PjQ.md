@@ -4,7 +4,7 @@
 
 > Khuphuka lapho… seku\-late! Cover: Stallion X
 
-291 songs - 23 hr 2 min
+292 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Fusegi Ngempela Manje!](https://open.spotify.com/track/5uCxT0vTqqJSgjUgZCBSmJ) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [NO CHANCE](https://open.spotify.com/album/6te22nhwMSwD2mlRwqLXhL) | 10:19 | 2023-11-27 |  |
 | [Gucci](https://open.spotify.com/track/567NwM1L86vGvZwiZfCsMo) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Gucci \(Deleted\)](https://open.spotify.com/album/0k6dVKW5uBGPCW623VFpq8) | 4:07 | 2024-10-10 |  |
 | [Gusheshe \- Live](https://open.spotify.com/track/75rFfC4ti306ncUw7hHYcX) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Inkanyezi 2.0 \(Live\)](https://open.spotify.com/album/6rStwnR4K0V6Cjhl0h5Qrr) | 10:00 | 2025-11-04 | 2026-02-06 |
-| [Healing](https://open.spotify.com/track/7Ejxa1MQT8DlsdQSoxP7Wq) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Healing](https://open.spotify.com/album/60sN6VCrfd9JS3oGRL8b9e) | 3:49 | 2025-04-24 |  |
+| [Healing](https://open.spotify.com/track/7Ejxa1MQT8DlsdQSoxP7Wq) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Healing](https://open.spotify.com/album/60sN6VCrfd9JS3oGRL8b9e) | 3:49 | 2025-04-24 | 2026-04-17 |
 | [Hit after Hit](https://open.spotify.com/track/5TY9ovYtBeJTY9s7K3ijEd) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Uyihlo nonyoko](https://open.spotify.com/album/7aNmPlwAQeVPY8P7qjuGhs) | 4:39 | 2024-01-11 |  |
 | [Hlala Nam](https://open.spotify.com/track/0nPqPgBHcvVCmajDTxwsNr) | [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [KUM](https://open.spotify.com/album/1NpVWcAz4p9bv0Q4Grzk2P) | 3:42 | 2023-08-03 | 2023-09-22 |
 | [I'm Happy](https://open.spotify.com/track/5wuZ7biZx3qqGnO1YBvjiG) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl) | [I'm Happy](https://open.spotify.com/album/0DpvdwG7l5D2TbDyibQzG6) | 3:49 | 2023-08-24 | 2023-10-27 |
@@ -259,6 +259,7 @@
 | [Umcebo](https://open.spotify.com/track/4wPKQWzPiKBBf1AUmAQbA2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umsebenzi \(Gold Deluxe\)](https://open.spotify.com/album/6TE4E8HVGy0HM4lT3vgHWz) | 3:52 | 2023-01-30 | 2023-08-25 |
 | [Umeqiselo](https://open.spotify.com/track/7hdOzJv2HNhbQ3TYFelg8Z) | [Saliwa](https://open.spotify.com/artist/2I0i5ZfLpQQ1dzFTkyBON8), [Zulu Messengers](https://open.spotify.com/artist/0OuB1y0iqY12jRAAElgAgQ) | [Emabhukwini Amafa](https://open.spotify.com/album/34aIyCyXYvuscSo4LjAdym) | 5:05 | 2024-09-20 |  |
 | [Umfazi Womuntu Enqunu](https://open.spotify.com/track/4vDPSGw1tPXwu0cCsLg3Lg) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Umfazi Womuntu Enqunu](https://open.spotify.com/album/09pjuUtEgrOpcEdGkHKaov) | 5:51 | 2023-12-08 | 2024-06-07 |
+| [Umjolo \(feat\. Shenge, Mjolisi & Vivi\)](https://open.spotify.com/track/3VKUDp5143MnfgLYkgSUZt) | [Mphathiwohlelo MC](https://open.spotify.com/artist/3D8SLrKlLVHWhsdUQi4VQ7), [Shenge](https://open.spotify.com/artist/1xIivPK6sC42jpYgBl45v4), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Vivi](https://open.spotify.com/artist/3ZDhe4b969Lt2bwWcqtHwI) | [Umjolo \(feat\. Shenge, Mjolisi & Vivi\)](https://open.spotify.com/album/3ZJkVMuL5mN8F8B3MBJ9RN) | 5:05 | 2026-04-16 |  |
 | [Umjolo Lowo](https://open.spotify.com/track/4zkTyuLiE6mH4DoCi6C8fB) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Luve Dubazane](https://open.spotify.com/artist/0B6FEFiymNPCKJB34TBsFi) | [Umjolo Lowo](https://open.spotify.com/album/6KV7h9dmu6Cijf8399HbwB) | 4:04 | 2023-10-16 |  |
 | [Umjolo O Healthy](https://open.spotify.com/track/1L5EDYQ4hKPmW4KZg6vGWI) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3) | [Ugcobo](https://open.spotify.com/album/4nmkSLGgClQeentYCUEwmg) | 3:58 | 2023-05-25 | 2023-08-29 |
 | [Umkhov'etsheni \(feat\. Igcokama elisha\)](https://open.spotify.com/track/0RzfxaDqYuolVaKc0jUQ5e) | [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Igcokama Elisha](https://open.spotify.com/artist/0CfaRCWMy2aXtbVQPCGG15) | [Umkhov'etsheni \(feat\. Igcokama elisha\)](https://open.spotify.com/album/7gB8A3VKKBIX3WBL24ubZQ) | 3:49 | 2023-11-23 | 2024-05-24 |

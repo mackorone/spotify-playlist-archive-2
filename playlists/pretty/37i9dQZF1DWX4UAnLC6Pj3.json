@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Adictiva & Julio Preciado \ud83d\udcf8",
-  "num_followers": 1301182,
+  "num_followers": 1301220,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Lo Que Dure Esta Botella",
-        "url": "https://open.spotify.com/album/3MfBnEj0n4cG683ZBqRZZg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 174824,
-      "name": "Lo Que Dure Esta Botella",
-      "url": "https://open.spotify.com/track/0PJlAjQTp04PjEf3Rci3JH"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "M\u00e1ndame La Ubi",
         "url": "https://open.spotify.com/album/3Ue9dnfFbPUAB53YhwctGP"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 138651,
       "name": "M\u00e1ndame La Ubi",
       "url": "https://open.spotify.com/track/22vRSKgaMyGHhnozVxDAyj"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "Lo Que Dure Esta Botella",
+        "url": "https://open.spotify.com/album/3MfBnEj0n4cG683ZBqRZZg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 174824,
+      "name": "Lo Que Dure Esta Botella",
+      "url": "https://open.spotify.com/track/0PJlAjQTp04PjEf3Rci3JH"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Que Bonita Mujer",
-        "url": "https://open.spotify.com/album/2BtZH6xEnUZ9FVoi9DXLdN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Que Bonita Mujer",
-      "url": "https://open.spotify.com/track/2vXiRUDuwj8dGaEE8MbiRB"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "Directo al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4UBZzHIHJjeDrqs8aTshMd"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 216157,
       "name": "Directo al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1DrgCuJsScMhFaTXdMc8pr"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "Que Bonita Mujer",
+        "url": "https://open.spotify.com/album/2BtZH6xEnUZ9FVoi9DXLdN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Que Bonita Mujer",
+      "url": "https://open.spotify.com/track/2vXiRUDuwj8dGaEE8MbiRB"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "El Amor No Es Suficiente",
-        "url": "https://open.spotify.com/album/61jmwGb6asWDDtAghH1r03"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "El Amor No Es Suficiente",
-      "url": "https://open.spotify.com/track/4qNLPr5NuhX98yqUMHZhgW"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "Con La Misma Piedra",
         "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
+        "name": "El Amor No Es Suficiente",
+        "url": "https://open.spotify.com/album/61jmwGb6asWDDtAghH1r03"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "El Amor No Es Suficiente",
+      "url": "https://open.spotify.com/track/4qNLPr5NuhX98yqUMHZhgW"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 170468,
       "name": "La Serenata",
       "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
-        "name": "Chalupas y buenas",
-        "url": "https://open.spotify.com/album/16a59d961IIDP9LFXfEXg7"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 156893,
-      "name": "Chalupas y buenas",
-      "url": "https://open.spotify.com/track/0tnHG8STmZWs9WJEi4cJgu"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -679,18 +663,18 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Quererte Mucho",
-        "url": "https://open.spotify.com/album/1800xp5HQliVuxyEodwdF8"
+        "name": "Chalupas y buenas",
+        "url": "https://open.spotify.com/album/16a59d961IIDP9LFXfEXg7"
       },
       "artists": [
         {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Quererte Mucho",
-      "url": "https://open.spotify.com/track/41BXvJcqgPfaPbgovNrZEs"
+      "duration_ms": 156893,
+      "name": "Chalupas y buenas",
+      "url": "https://open.spotify.com/track/0tnHG8STmZWs9WJEi4cJgu"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -707,6 +691,22 @@
       "duration_ms": 193103,
       "name": "Habla Tu Ex",
       "url": "https://open.spotify.com/track/4m2g3MSQmM3vRDMVeDjddV"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "Quererte Mucho",
+        "url": "https://open.spotify.com/album/1800xp5HQliVuxyEodwdF8"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Quererte Mucho",
+      "url": "https://open.spotify.com/track/41BXvJcqgPfaPbgovNrZEs"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -815,18 +815,38 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Sentimental (En Vivo)",
-        "url": "https://open.spotify.com/album/2JHZkvvlS9rpifBcokiGGr"
+        "name": "Como Este Loco",
+        "url": "https://open.spotify.com/album/67FAnc1ZeFv7B7gv5MFvxa"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Sentimental - En Vivo",
-      "url": "https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx"
+      "duration_ms": 215068,
+      "name": "Como Este Loco",
+      "url": "https://open.spotify.com/track/6x7953w9X48ERFGN2QpEqN"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "Me Qued\u00e9 Sin Ti",
+        "url": "https://open.spotify.com/album/08Be7gEjlfSHACW7exR7ef"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 182127,
+      "name": "Me Qued\u00e9 Sin Ti",
+      "url": "https://open.spotify.com/track/26TXWg2uSzyqVhXywgG10F"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -851,38 +871,18 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Me Qued\u00e9 Sin Ti",
-        "url": "https://open.spotify.com/album/08Be7gEjlfSHACW7exR7ef"
+        "name": "Sentimental (En Vivo)",
+        "url": "https://open.spotify.com/album/2JHZkvvlS9rpifBcokiGGr"
       },
       "artists": [
         {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 182127,
-      "name": "Me Qued\u00e9 Sin Ti",
-      "url": "https://open.spotify.com/track/26TXWg2uSzyqVhXywgG10F"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
-        "name": "Como Este Loco",
-        "url": "https://open.spotify.com/album/67FAnc1ZeFv7B7gv5MFvxa"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 215068,
-      "name": "Como Este Loco",
-      "url": "https://open.spotify.com/track/6x7953w9X48ERFGN2QpEqN"
+      "duration_ms": 168000,
+      "name": "Sentimental - En Vivo",
+      "url": "https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "As\u00ed Empez\u00f3 Mi A\u00f1o",
-        "url": "https://open.spotify.com/album/1IRQ1xyTC7R7naV4lJESHk"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 157306,
-      "name": "As\u00ed Empez\u00f3 Mi A\u00f1o",
-      "url": "https://open.spotify.com/track/4oCq6h67eWeUEbJeA12ZQo"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "No Tiene Precio",
         "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 183640,
       "name": "Si Se Trata De Ti",
       "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "As\u00ed Empez\u00f3 Mi A\u00f1o",
+        "url": "https://open.spotify.com/album/1IRQ1xyTC7R7naV4lJESHk"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "As\u00ed Empez\u00f3 Mi A\u00f1o",
+      "url": "https://open.spotify.com/track/4oCq6h67eWeUEbJeA12ZQo"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
+        "name": "Y de Repente",
+        "url": "https://open.spotify.com/album/1qPTt3cxLSg69dREKy9jpD"
+      },
+      "artists": [
+        {
+          "name": "Francisco El Gallo Elizalde",
+          "url": "https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb"
+        }
+      ],
+      "duration_ms": 189544,
+      "name": "Y de Repente",
+      "url": "https://open.spotify.com/track/56Bvs8Rn1SedqQuuMsXFBS"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
         "name": "Me la Pelan",
         "url": "https://open.spotify.com/album/3gWvHNH1bjOjeENNQRhg93"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 186335,
       "name": "Me la Pelan",
       "url": "https://open.spotify.com/track/3uKB59qvKbrZDF7mcusl0i"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
-        "name": "Y de Repente",
-        "url": "https://open.spotify.com/album/1qPTt3cxLSg69dREKy9jpD"
-      },
-      "artists": [
-        {
-          "name": "Francisco El Gallo Elizalde",
-          "url": "https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb"
-        }
-      ],
-      "duration_ms": 189544,
-      "name": "Y de Repente",
-      "url": "https://open.spotify.com/track/56Bvs8Rn1SedqQuuMsXFBS"
     },
     {
       "added_at": "2026-03-27 16:10:47",

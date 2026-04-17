@@ -612,7 +612,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 122592,
       "name": "Anyting",
       "url": "https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 224763,
       "name": "BIG 45",
       "url": "https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar"
@@ -3024,7 +3024,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 195589,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
@@ -3078,7 +3078,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 144315,
       "name": "Do Me",
       "url": "https://open.spotify.com/track/2m8yLRwDDjKh3CWSTLqEdN"
@@ -3784,7 +3784,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 174117,
       "name": "FLAKO",
       "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
@@ -3958,7 +3958,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 245628,
       "name": "Forever Grateful",
       "url": "https://open.spotify.com/track/4EPXfugV9mM66inwJIyLaU"
@@ -7410,7 +7410,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 206081,
       "name": "Money",
       "url": "https://open.spotify.com/track/258dAAbHbmjEuxZCPT3YqC"
@@ -7574,7 +7574,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 128000,
       "name": "Mwah!",
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
@@ -7924,6 +7924,24 @@
       "duration_ms": 129807,
       "name": "New Born Fela",
       "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
+    },
+    {
+      "album": {
+        "name": "THE IMPACT (Deluxe): PGLA Edition",
+        "url": "https://open.spotify.com/album/3EUplPSI0pgkirQtANGobF"
+      },
+      "artists": [
+        {
+          "name": "Armanii",
+          "url": "https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159219,
+      "name": "NEW TINGZ",
+      "url": "https://open.spotify.com/track/4Pl2d8rQHO8hnFZR3RO244"
     },
     {
       "album": {
@@ -9498,7 +9516,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 187593,
       "name": "PUSH 2 START - REMIX",
       "url": "https://open.spotify.com/track/03A9CAoRTrqSeaEEERXuNT"
@@ -9676,7 +9694,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 157149,
       "name": "RHUDE GYAL! (with Darkoo)",
       "url": "https://open.spotify.com/track/7fTZGGFULOk6KDBAhupep5"
@@ -10010,7 +10028,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 153355,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/3bdntVS2dHPTPitwms9gLK"
@@ -10412,7 +10430,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
@@ -10517,6 +10535,24 @@
     },
     {
       "album": {
+        "name": "Shy Lover",
+        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Shy Lover",
+      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
+    },
+    {
+      "album": {
         "name": "Sidepiece (feat. Ruger)",
         "url": "https://open.spotify.com/album/5fn47w1LhCu4qHmayD2Rgx"
       },
@@ -10554,6 +10590,24 @@
       "duration_ms": 158400,
       "name": "Sip (Alcohol)",
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
+    },
+    {
+      "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/2hERpr8bZ0b6uxL3eBOUqK"
+      },
+      "artists": [
+        {
+          "name": "Binta",
+          "url": "https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/1LkzZiQNavLnLKUy4T41AF"
     },
     {
       "album": {
@@ -10998,7 +11052,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 142524,
       "name": "Soyaiya",
       "url": "https://open.spotify.com/track/1lC0Ezh2f3NrddIrURhzXw"
@@ -11238,7 +11292,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 232269,
       "name": "Superfuji(GOBE)",
       "url": "https://open.spotify.com/track/0WheF6yGnxE4gzGg8ScAji"
@@ -11940,7 +11994,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 194436,
       "name": "Toro - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
@@ -12214,7 +12268,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 207865,
       "name": "Update",
       "url": "https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb"
@@ -12236,7 +12290,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 156190,
       "name": "US III",
       "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"

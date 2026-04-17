@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAAA143JL3rT8hP1FiGu4RCv8",
+  "snapshot_id": "ad7VAAAAAAAU1eDks2k2uLnADJBc/2MK",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buena Se\u00f1al",
-        "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Buena Se\u00f1al",
-      "url": "https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 4",
         "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 153994,
       "name": "No Le Hago Falta",
       "url": "https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buena Se\u00f1al",
+        "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Buena Se\u00f1al",
+      "url": "https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196080,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00e9 Me Vas A Dar (Cumbia)",
         "url": "https://open.spotify.com/album/65PsHT4xP40nlvdVNE1ldU"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 207248,
       "name": "Qu\u00e9 Me Vas A Dar - Cumbia",
       "url": "https://open.spotify.com/track/0OXXOSfjkIwHBA32jiguQ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 197137,
-      "name": "No Me Hubiera Enamorado",
-      "url": "https://open.spotify.com/track/4iQ12cbctsVMoP3t7vHTm4"
     },
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Competencia",
-        "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "La Competencia",
-      "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 4",
         "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
       },
@@ -664,9 +644,25 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 196080,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX"
+      "duration_ms": 197137,
+      "name": "No Me Hubiera Enamorado",
+      "url": "https://open.spotify.com/track/4iQ12cbctsVMoP3t7vHTm4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 182787,
+      "name": "Nadie Es Indispensable",
+      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
     },
     {
       "added_at": null,
@@ -687,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+        "name": "La Competencia",
+        "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
       },
       "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 182787,
-      "name": "Nadie Es Indispensable",
-      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
+      "duration_ms": 209160,
+      "name": "La Competencia",
+      "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+        "name": "Menos Mal Que Me Quer\u00edas",
+        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 249974,
-      "name": "Me Va A Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/6ba7EliMJofFCitLiNDX80"
+      "duration_ms": 157638,
+      "name": "Menos Mal Que Me Quer\u00edas",
+      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Menos Mal Que Me Quer\u00edas",
-        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 157638,
-      "name": "Menos Mal Que Me Quer\u00edas",
-      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
+      "duration_ms": 249974,
+      "name": "Me Va A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/6ba7EliMJofFCitLiNDX80"
     },
     {
       "added_at": null,

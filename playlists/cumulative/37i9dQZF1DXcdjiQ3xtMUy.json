@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 166233,
       "name": "everywhere<3",
       "url": "https://open.spotify.com/track/0x3iQHDSInr7mrFcfYIlYJ"
@@ -2888,6 +2888,28 @@
       "duration_ms": 216060,
       "name": "Kornaro - Remix",
       "url": "https://open.spotify.com/track/527rcJEpvVxbOZ7PEWFHUP"
+    },
+    {
+      "album": {
+        "name": "Kouklara",
+        "url": "https://open.spotify.com/album/0ZaQCTznYe8DZ4g6k7bf60"
+      },
+      "artists": [
+        {
+          "name": "Lava",
+          "url": "https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152270,
+      "name": "Kouklara",
+      "url": "https://open.spotify.com/track/1s5qK6dOmswkeWtj0wiaB3"
     },
     {
       "album": {
@@ -4113,6 +4135,24 @@
     },
     {
       "album": {
+        "name": "Aisiodoksi Matia",
+        "url": "https://open.spotify.com/album/5DmlVgu0g1HGI2Xai33BGT"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Koufos",
+          "url": "https://open.spotify.com/artist/1P2Y42avJKqxYP3ZrUuzqj"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206838,
+      "name": "Proteraiotita",
+      "url": "https://open.spotify.com/track/1bLeGv7pHEnY1j7Ni7wOTX"
+    },
+    {
+      "album": {
         "name": "Oneiropolos",
         "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
       },
@@ -4608,7 +4648,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 192000,
       "name": "TELEFTEA FORA",
       "url": "https://open.spotify.com/track/4ik2v05QflCm8AtLZUg9z3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,962 likes - 48 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,045 likes - 48 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 34 | [Sigo na Sombra](https://open.spotify.com/track/17FxYOCcJ0lF4M2EuYkrb5) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 3:15 |
 | 35 | [Vinho, Voz e Violão \- Ao Vivo](https://open.spotify.com/track/1wx8J9hbkS1m2KMiXN9Q7B) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Trapzeiro \(Meu Piseiro Brasileiro\) \[Ao Vivo\]](https://open.spotify.com/album/3S4xoyB55MVXwT1ukuOL4p) | 3:45 |
 | 36 | [Cidade do Pecado](https://open.spotify.com/track/4EqChUnhC7Ukq4w2PKwfqV) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Cidade do Pecado](https://open.spotify.com/album/1ZVgAn5v8hT0V4dvvPligx) | 3:31 |
-| 37 | [Se Eu Não Manter](https://open.spotify.com/track/0mBr4S97a0duSfgebe007c) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 3:11 |
+| 37 | [Não Me Abandona](https://open.spotify.com/track/1Mq3sx9w4o26tUt4ThimhY) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r), [MUC4](https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M) | [Eu Odeio o Dia dos Namorados](https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu) | 3:23 |
 | 38 | [O Próximo Nascer do Sol](https://open.spotify.com/track/60B493B55sBjjJ5JFhAUkm) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 3:06 |
-| 39 | [Não Me Abandona](https://open.spotify.com/track/1Mq3sx9w4o26tUt4ThimhY) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r), [MUC4](https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M) | [Eu Odeio o Dia dos Namorados](https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu) | 3:23 |
+| 39 | [Se Eu Não Manter](https://open.spotify.com/track/0mBr4S97a0duSfgebe007c) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 3:11 |
 | 40 | [Sensação de Liberdade](https://open.spotify.com/track/64iBfVmlDnQVxZCz9ySpU1) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o) | 2:58 |
 | 41 | [Rei da Noite](https://open.spotify.com/track/1VmX5IO6VCOPVVaEQgNy08) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 2:25 |
 | 42 | [Amor](https://open.spotify.com/track/3SYUDlqR6tYOwjOayZX1xV) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [O Líder em Movimento](https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq) | 2:32 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 47 | [ANJO DA MADRUGADA](https://open.spotify.com/track/2c0x0hg7DlzlPk6XLXhNgH) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 2:29 |
 | 48 | [Deus do Furdunço](https://open.spotify.com/track/3sUhwX7vQhzuKDkFC6lAEr) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nave](https://open.spotify.com/artist/3lsEmETqVt85iRYSYslRMb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32) | 2:28 |
 
-Snapshot ID: `ad2DgAAAAAARNxlb+FjqNrqP4hviYejE`
+Snapshot ID: `ad7VAAAAAADY7ccOcaEoxDo2Yn5d4/qj`

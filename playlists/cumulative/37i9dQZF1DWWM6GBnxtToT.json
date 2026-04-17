@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 263733,
       "name": "Are You OK?",
       "url": "https://open.spotify.com/track/13AYk3zwAtSuuu1t9GTf7n"
@@ -3290,6 +3290,24 @@
       "duration_ms": 210266,
       "name": "Things will be fine",
       "url": "https://open.spotify.com/track/0TQ1cfWKYRSvt3eCEMvGoK"
+    },
+    {
+      "album": {
+        "name": "Think of U",
+        "url": "https://open.spotify.com/album/1te1WbWRBjGLD0hqjJ25gp"
+      },
+      "artists": [
+        {
+          "name": "Slug Father",
+          "url": "https://open.spotify.com/artist/4UFFkfcL64h1AGvMDQ9VrD"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217556,
+      "name": "Think of U",
+      "url": "https://open.spotify.com/track/5Fl4UUAGkTr7yPly0iAiG3"
     },
     {
       "album": {

@@ -8971,7 +8971,7 @@
     },
     {
       "album": {
-        "name": "Control",
+        "name": "Control (Remix)",
         "url": "https://open.spotify.com/album/2zywhbY7pjD1o9cap0VZkV"
       },
       "artists": [
@@ -8996,7 +8996,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148637,
-      "name": "Control",
+      "name": "Control - Remix",
       "url": "https://open.spotify.com/track/1Atmj6CNZsuBK1cLMqXm3H"
     },
     {
@@ -9720,6 +9720,24 @@
       "duration_ms": 105428,
       "name": "Dansa Under Regn",
       "url": "https://open.spotify.com/track/0besPBzuD9KuRcH7k9hrBX"
+    },
+    {
+      "album": {
+        "name": "DANSAT KLART",
+        "url": "https://open.spotify.com/album/7oFar5oeXHl3I3vannJvQg"
+      },
+      "artists": [
+        {
+          "name": "Mohel\u00e1",
+          "url": "https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "DANSAT KLART",
+      "url": "https://open.spotify.com/track/0BgfFQwaNDb0y6t1y7ySPq"
     },
     {
       "album": {
@@ -10872,7 +10890,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 134651,
       "name": "Dont Stop",
       "url": "https://open.spotify.com/track/43cKERe8r48weKSswLFm6L"
@@ -13772,6 +13790,32 @@
       "duration_ms": 121383,
       "name": "Fin & Bad",
       "url": "https://open.spotify.com/track/7nwxrW8dM7LJWQ5ne64Adj"
+    },
+    {
+      "album": {
+        "name": "FINAL",
+        "url": "https://open.spotify.com/album/5wCxNoFNd1E4VYuECG0Yuv"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        },
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "NBLNATION",
+          "url": "https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128837,
+      "name": "FINAL",
+      "url": "https://open.spotify.com/track/7CfLohdHZlvV3rCU3yJrCw"
     },
     {
       "album": {
@@ -21062,7 +21106,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 204137,
       "name": "Kan Bli Vad Du Vill",
       "url": "https://open.spotify.com/track/5eqfkxCF4JffnPG8i7lrTa"
@@ -22690,6 +22734,24 @@
       "duration_ms": 217263,
       "name": "K\u00e4rlek",
       "url": "https://open.spotify.com/track/3ZnZPPqpDO3kR8aY3zBtaj"
+    },
+    {
+      "album": {
+        "name": "K\u00e4rlek & brott",
+        "url": "https://open.spotify.com/album/4EZhLDlDFGcxhNGIgS0kxS"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "K\u00e4rlek & brott",
+      "url": "https://open.spotify.com/track/0jZIXTGOxUkKvk0wwzabKI"
     },
     {
       "album": {
@@ -24976,7 +25038,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 151502,
       "name": "L\u00c5NGT BORT",
       "url": "https://open.spotify.com/track/7zYIepuvq0QCKxF5RtGsGY"
@@ -29559,6 +29621,24 @@
     },
     {
       "album": {
+        "name": "Nya Sverige 2026",
+        "url": "https://open.spotify.com/album/18qIucEmXCfjGgFV6Xiu7k"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Nya Sverige 2026",
+      "url": "https://open.spotify.com/track/3o0XwyqwQ8RcPev4h1bu0B"
+    },
+    {
+      "album": {
         "name": "NYLON",
         "url": "https://open.spotify.com/album/4Q2qRFbmPxoeSqsVPDXYNm"
       },
@@ -30174,7 +30254,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 162720,
       "name": "Omerta",
       "url": "https://open.spotify.com/track/4Etlo3kxRw41oMpQb0Q02a"
@@ -31626,8 +31706,8 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
-      "duration_ms": 115914,
+      "date_removed": null,
+      "duration_ms": 116000,
       "name": "PERFORMANTE",
       "url": "https://open.spotify.com/track/0L0IVsiiM565BaEw6ZC44Q"
     },
@@ -31898,7 +31978,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 155776,
       "name": "PLATS",
       "url": "https://open.spotify.com/track/7v2WS0PtWoigTLwKB4C7SQ"
@@ -36866,7 +36946,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 135000,
       "name": "Spola tillbaks",
       "url": "https://open.spotify.com/track/2SeWCyfAqcNuRzEIjsKOIo"
@@ -42817,6 +42897,24 @@
     },
     {
       "album": {
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/7F9aFHNyq5lXJ32l7x4M3d"
+      },
+      "artists": [
+        {
+          "name": "MARLEY",
+          "url": "https://open.spotify.com/artist/1tCHIYYThjbl1pdOPCst48"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142978,
+      "name": "Vibrations",
+      "url": "https://open.spotify.com/track/5mKXu5j0mJMd13jj5kwyZL"
+    },
+    {
+      "album": {
         "name": "Vidare",
         "url": "https://open.spotify.com/album/44pixg7S5zZibeAZzCzmkO"
       },
@@ -43014,7 +43112,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 140750,
       "name": "Vintage Love",
       "url": "https://open.spotify.com/track/3zhuF3oUrRIUHT2L3ldYIF"
@@ -43040,6 +43138,24 @@
       "duration_ms": 150596,
       "name": "Violence (feat. Branco)",
       "url": "https://open.spotify.com/track/6YdvKXXBg33LPe40riAVCc"
+    },
+    {
+      "album": {
+        "name": "VIS MAN",
+        "url": "https://open.spotify.com/album/0UUbwSjjDKx2MqUNOw2CmF"
+      },
+      "artists": [
+        {
+          "name": "JAE",
+          "url": "https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160253,
+      "name": "VIS MAN",
+      "url": "https://open.spotify.com/track/0bkeMrmnJ91siXBajhl07W"
     },
     {
       "album": {

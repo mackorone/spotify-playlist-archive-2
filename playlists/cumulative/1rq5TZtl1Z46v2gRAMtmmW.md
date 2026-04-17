@@ -4,7 +4,7 @@
 
 > 
 
-512 songs - 1 day 9 hr 19 min
+514 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 | 2022-02-10 | 2022-07-15 |
 | [I Saw](https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [I Saw](https://open.spotify.com/album/5dYFkoGHXg0xjjtXEqZkwV) | 3:27 | 2022-10-20 | 2023-05-04 |
 | [I Smile for E](https://open.spotify.com/track/2Wcv0p4gniHJ1rJvUae3B9) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [I Smile for E](https://open.spotify.com/album/5LhyZEaz7iQYniUzgkMSsk) | 3:08 | 2023-02-23 | 2023-07-07 |
+| [I Want Your Love](https://open.spotify.com/track/14i1XgUcPXmB74ezzk5172) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Kaesu](https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [I Want Your Love](https://open.spotify.com/album/21HJ7l1A9ucgEzfupxpFA6) | 2:33 | 2026-04-16 |  |
 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 | 2025-09-15 | 2026-04-04 |
 | [I'd Rather Not Think About It](https://open.spotify.com/track/2h0vIjcPUidp6xJjx7O0dl) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Felix](https://open.spotify.com/artist/5wjBidqp8mV29FhdOVeXP8) | [Anywhere, But Here With You](https://open.spotify.com/album/3GQuAjzfQV1eOL0ukXf33v) | 4:23 | 2024-11-29 | 2025-11-07 |
 | [If We Only Knew \(From the Documentary Film "Blue Carbon”\)](https://open.spotify.com/track/56DNY0mhdCjbZihfRRPUEi) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [If We Only Knew \(From the Documentary Film "Blue Carbon”\)](https://open.spotify.com/album/0RKMHWmW6g5JZWZnvW2a4f) | 3:50 | 2024-06-20 | 2024-09-14 |
@@ -496,6 +497,7 @@
 | [We Change \- Part I](https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5) | [Brandon Coleman](https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Interstellar Black Space](https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO) | 4:54 | 2022-05-20 | 2022-09-21 |
 | [We never talk](https://open.spotify.com/track/3ZVt3Q14d9Xxj0HX4XhHbt) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [We never talk](https://open.spotify.com/album/5BQQZMv1R1BpbopUPW96lZ) | 2:47 | 2025-08-19 | 2025-11-07 |
 | [WEARY](https://open.spotify.com/track/2ZZbZZmUVqgdKLJdiOXmwp) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [WEARY](https://open.spotify.com/album/6TwZUO3jqcX5SGJlh1FLXQ) | 2:18 | 2024-05-09 | 2024-08-09 |
+| [Weaver](https://open.spotify.com/track/5CMlbzwepoJp88Uvqp1WTF) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Weaver](https://open.spotify.com/album/067ufogz1TAr7npEfLq2mz) | 3:12 | 2026-04-16 |  |
 | [What Not To Do \- Moodymann Remix](https://open.spotify.com/track/4M6ywvPu0K14mUPJ6qnTjK) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [What Not To Do \(Moodymann Remix\)](https://open.spotify.com/album/0q5IDnHeEk0RqkaQvZ8gOY) | 5:16 | 2023-08-09 | 2023-09-23 |
 | [What3vr](https://open.spotify.com/track/5jqRZna4pjmgETTNo349Rk) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Evangelic Girl is a Gun](https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50) | 2:47 | 2025-05-30 | 2025-09-18 |
 | [When She Dance \- David Ariza Club Edit](https://open.spotify.com/track/3xqU7Qvop66DaYfXKaJmXw) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [David Ariza](https://open.spotify.com/artist/3l3BG1aNUKmVsV555tR0BI) | [When She Dance \(David Ariza Club Edit\)](https://open.spotify.com/album/2Y6yUZjNh8jtuQWqFWunvy) | 5:36 | 2023-08-17 | 2023-09-06 |

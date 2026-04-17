@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Oria
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,905 likes - 71 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,902 likes - 71 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

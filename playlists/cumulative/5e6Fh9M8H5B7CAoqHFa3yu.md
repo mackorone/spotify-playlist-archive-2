@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,125 songs - 5 day 5 hr 48 min
+2,126 songs - 5 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,12 +709,13 @@
 | [Go Away](https://open.spotify.com/track/2Swmpa2837aD76euw9fyVt) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Go Away](https://open.spotify.com/album/0xxJymd2ioNgswp8qwS4sU) | 1:55 | 2023-07-04 |  |
 | [Go Fuck Yourself](https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc) | 2:09 | 2024-03-04 |  |
 | [Go Go 17](https://open.spotify.com/track/1YxPSP7pJDnNvW3o0VMrFp) | [Rat Silo](https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7) | [Go Go 17](https://open.spotify.com/album/1lDxHagG8y2nz3reAp4C55) | 2:35 | 2024-06-23 |  |
-| [GO, ASPES, GO!](https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [GO, ASPES, GO!](https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9) | 2:13 | 2026-04-15 |  |
+| [GO, ASPES, GO!](https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [GO, ASPES, GO!](https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9) | 2:13 | 2026-04-15 |  |
 | [Goal!](https://open.spotify.com/track/0obqB3njpmFEzdynAgX279) | [AVINCOLA](https://open.spotify.com/artist/1z2n12qPNckf4VgX4HdzcC) | [Turisti](https://open.spotify.com/album/1MGdBgdEUZNFS2CSrwC6RS) | 3:00 | 2023-03-15 |  |
 | [Gocce](https://open.spotify.com/track/0id0lYAn1TYS9jyecBFZkx) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Gocce](https://open.spotify.com/album/1P11VMJbG2XweZPQBRzY8L) | 3:55 | 2022-10-24 |  |
 | [God knows I try](https://open.spotify.com/track/7635PQfM6ZDqZf6eAfqv6o) | [$!N](https://open.spotify.com/artist/4Oq5yreFMAg6DBIoSNaKpQ) | [God knows I try](https://open.spotify.com/album/4WPR1f6cgOUyXZig0T3DHs) | 2:36 | 2026-04-15 |  |
 | [Godsend \(Live Demo\)](https://open.spotify.com/track/4YF6RRhi9iwgNBWXsCgrM2) | [Sumaita](https://open.spotify.com/artist/081NccAEpHcYxwcll6FWf4) | [Godsend \(Live Demo\)](https://open.spotify.com/album/4JzHzX9lPx1uKlFamWrjud) | 3:48 | 2025-07-12 |  |
 | [Golden Carnival Parade](https://open.spotify.com/track/7cLZLza8csHbATiLo5AckH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Golden Carnival Parade](https://open.spotify.com/album/7aqSE2dVMLOalAWxKxBgsa) | 3:26 | 2026-01-30 |  |
+| [Golden Summer Wave](https://open.spotify.com/track/70GJMcoOV4yA1uJ5AVqaAS) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Golden Summer Wave](https://open.spotify.com/album/72swxV7f8P4hJNuCN1p9Ei) | 2:49 | 2026-04-16 |  |
 | [Golpazo](https://open.spotify.com/track/7xmHTvbADkUaFFm103HIXT) | [Gas Di Fede](https://open.spotify.com/artist/4EUypOt280PxTdB9HCzSGv) | [Golpazo](https://open.spotify.com/album/7ndhjTXAF4Ih2TfXwibbij) | 2:16 | 2025-04-25 |  |
 | [Good Enough](https://open.spotify.com/track/0fLDtQvw5BhgwmPe2zgOEQ) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Good Enough](https://open.spotify.com/album/1eeJcMYNLBl514AF2KM5ED) | 2:45 | 2025-06-09 |  |
 | [Goodbye](https://open.spotify.com/track/2VmozdG04Rzg1nwsJwOi10) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Goodbye](https://open.spotify.com/album/11VEbc2aRfahpmOloNyRjX) | 2:19 | 2026-02-05 |  |

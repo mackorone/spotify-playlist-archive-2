@@ -1,6 +1,6 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 113749,
+  "num_followers": 113773,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "P\u00e1jaros En La Cabeza",
+        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 249680,
+      "name": "El universo sobre m\u00ed",
+      "url": "https://open.spotify.com/track/1jJn6iK6o2Vg7iUKHztRTk"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "El misterioso caso de Efecto Pasillo",
         "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 202146,
       "name": "Pan y mantequilla",
       "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Una Peque\u00f1a Parte Del Mundo",
-        "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 241266,
-      "name": "C\u00f3mo hablar",
-      "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Una Peque\u00f1a Parte Del Mundo",
+        "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "C\u00f3mo hablar",
+      "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "Aviones",
         "url": "https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 191586,
       "name": "Lady Madrid",
       "url": "https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "P\u00e1jaros En La Cabeza",
-        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 249680,
-      "name": "El universo sobre m\u00ed",
-      "url": "https://open.spotify.com/track/1jJn6iK6o2Vg7iUKHztRTk"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Cosas Mias",
-        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Alba",
-      "url": "https://open.spotify.com/track/6uojMoKuVkIVEeqH4JCBAr"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/4XIrvN5W5fTbTRrSnFN2Ny"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 194870,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/5Aax4WuBCyiVp4NDB3lg5j"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Cosas Mias",
+        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Alba",
+      "url": "https://open.spotify.com/track/6uojMoKuVkIVEeqH4JCBAr"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Las 100 mejores canciones del Pop Espa\u00f1ol, Vol. 3",
-        "url": "https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 217093,
-      "name": "Como un burro amarrado en la puerta del baile",
-      "url": "https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas M\u00e1s (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 240560,
       "name": "C\u00f3mo Te Atreves",
       "url": "https://open.spotify.com/track/21Tzyc6OYFvtWjKrhZ0cTB"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Las 100 mejores canciones del Pop Espa\u00f1ol, Vol. 3",
+        "url": "https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 217093,
+      "name": "Como un burro amarrado en la puerta del baile",
+      "url": "https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC"
     },
     {
       "added_at": "2022-01-25 22:47:02",

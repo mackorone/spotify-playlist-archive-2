@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143545,
+  "num_followers": 143552,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-04-10 04:04:07",
       "album": {
+        "name": "Dog (everybody learns)",
+        "url": "https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP"
+      },
+      "artists": [
+        {
+          "name": "Avril Jensen",
+          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
+        }
+      ],
+      "duration_ms": 193212,
+      "name": "Dog (everybody learns)",
+      "url": "https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q"
+    },
+    {
+      "added_at": "2026-04-10 04:04:07",
+      "album": {
         "name": "sMiLes",
         "url": "https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 174023,
       "name": "SHouLd I sMiLe?",
       "url": "https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz"
-    },
-    {
-      "added_at": "2026-04-10 04:04:07",
-      "album": {
-        "name": "Dog (everybody learns)",
-        "url": "https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP"
-      },
-      "artists": [
-        {
-          "name": "Avril Jensen",
-          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
-        }
-      ],
-      "duration_ms": 193212,
-      "name": "Dog (everybody learns)",
-      "url": "https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q"
     },
     {
       "added_at": "2026-04-10 04:04:07",
@@ -831,8 +831,8 @@
     {
       "added_at": "2026-04-10 04:04:07",
       "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+        "name": "C'est tout, c'est rien",
+        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+      "duration_ms": 173515,
+      "name": "C'est tout, c'est rien",
+      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
     },
     {
       "added_at": "2026-04-10 04:04:07",
@@ -911,8 +911,8 @@
     {
       "added_at": "2026-04-10 04:04:07",
       "album": {
-        "name": "C'est tout, c'est rien",
-        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 173515,
-      "name": "C'est tout, c'est rien",
-      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
       "added_at": "2026-04-10 04:04:07",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-04-10 04:04:07",
       "album": {
-        "name": "La lumi\u00e8re",
-        "url": "https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk"
+        "name": "Ya s\u00e9 ya s\u00e9",
+        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
       },
       "artists": [
         {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
         }
       ],
-      "duration_ms": 240485,
-      "name": "La lumi\u00e8re",
-      "url": "https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm"
+      "duration_ms": 223689,
+      "name": "Ya s\u00e9 ya s\u00e9",
+      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
     },
     {
       "added_at": "2026-04-10 04:04:07",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2026-04-10 04:04:07",
       "album": {
-        "name": "Ya s\u00e9 ya s\u00e9",
-        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+        "name": "La lumi\u00e8re",
+        "url": "https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk"
       },
       "artists": [
         {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
         }
       ],
-      "duration_ms": 223689,
-      "name": "Ya s\u00e9 ya s\u00e9",
-      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
+      "duration_ms": 240485,
+      "name": "La lumi\u00e8re",
+      "url": "https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm"
     },
     {
       "added_at": "2026-04-10 04:04:07",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-04-10 04:04:07",
       "album": {
+        "name": "Que ta lumi\u00e8re",
+        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 232319,
+      "name": "Que ta lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
+    },
+    {
+      "added_at": "2026-04-10 04:04:07",
+      "album": {
         "name": "Quand je pleure, je suis content",
         "url": "https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 217773,
       "name": "Quand je pleure, je suis content",
       "url": "https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC"
-    },
-    {
-      "added_at": "2026-04-10 04:04:07",
-      "album": {
-        "name": "Saving Face",
-        "url": "https://open.spotify.com/album/0bhpmu6VscDZUJNScNElnM"
-      },
-      "artists": [
-        {
-          "name": "Olivia Khoury",
-          "url": "https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe"
-        }
-      ],
-      "duration_ms": 241870,
-      "name": "Saving Face",
-      "url": "https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN"
     },
     {
       "added_at": "2026-04-10 04:04:07",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-04-10 04:04:07",
       "album": {
-        "name": "Que ta lumi\u00e8re",
-        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
+        "name": "Saving Face",
+        "url": "https://open.spotify.com/album/0bhpmu6VscDZUJNScNElnM"
       },
       "artists": [
         {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+          "name": "Olivia Khoury",
+          "url": "https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe"
         }
       ],
-      "duration_ms": 232319,
-      "name": "Que ta lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
+      "duration_ms": 241870,
+      "name": "Saving Face",
+      "url": "https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN"
     },
     {
       "added_at": "2026-04-10 04:04:07",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-04-10 04:04:07",
       "album": {
-        "name": "I took off my heels",
-        "url": "https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc"
-      },
-      "artists": [
-        {
-          "name": "Avery Jane",
-          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
-        }
-      ],
-      "duration_ms": 226480,
-      "name": "I took off my heels",
-      "url": "https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi"
-    },
-    {
-      "added_at": "2026-04-10 04:04:07",
-      "album": {
         "name": "River Run (with Lila Dupont)",
         "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2026-04-10 04:04:07",
       "album": {
-        "name": "Le temps qui passe",
-        "url": "https://open.spotify.com/album/56ulJfotRuqXCnXm9MXoNj"
+        "name": "I took off my heels",
+        "url": "https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc"
       },
       "artists": [
         {
-          "name": "Hubert Proulx",
-          "url": "https://open.spotify.com/artist/36hH4nqtR9vm6m0HgyeZ2O"
+          "name": "Avery Jane",
+          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
         }
       ],
-      "duration_ms": 240146,
-      "name": "Le temps qui passe",
-      "url": "https://open.spotify.com/track/03n6p8Wac7MUi7tlHEPNyq"
+      "duration_ms": 226480,
+      "name": "I took off my heels",
+      "url": "https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi"
     },
     {
       "added_at": "2026-04-10 04:04:07",
@@ -1471,6 +1455,22 @@
       "duration_ms": 168358,
       "name": "Ici",
       "url": "https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7"
+    },
+    {
+      "added_at": "2026-04-10 04:04:07",
+      "album": {
+        "name": "Le temps qui passe",
+        "url": "https://open.spotify.com/album/56ulJfotRuqXCnXm9MXoNj"
+      },
+      "artists": [
+        {
+          "name": "Hubert Proulx",
+          "url": "https://open.spotify.com/artist/36hH4nqtR9vm6m0HgyeZ2O"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Le temps qui passe",
+      "url": "https://open.spotify.com/track/03n6p8Wac7MUi7tlHEPNyq"
     },
     {
       "added_at": "2026-04-10 04:04:07",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-04-10 04:04:07",
       "album": {
-        "name": "tout me quitte / tout vient \u00e0 moi",
-        "url": "https://open.spotify.com/album/6NzSqNUhcdFuOYlqgGVZJn"
-      },
-      "artists": [
-        {
-          "name": "Nana Quinn",
-          "url": "https://open.spotify.com/artist/6oB1eI3s62d0KyLxrKG0x4"
-        }
-      ],
-      "duration_ms": 277461,
-      "name": "Oiseau migrateur",
-      "url": "https://open.spotify.com/track/2QOHrzgwSZg7oDrrLEshB0"
-    },
-    {
-      "added_at": "2026-04-10 04:04:07",
-      "album": {
         "name": "Montr\u00e9al (Avec Louis-Jean Cormier)",
         "url": "https://open.spotify.com/album/5JscHrlWGficiFNu4ULZrM"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 213107,
       "name": "Swimmer",
       "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
+    },
+    {
+      "added_at": "2026-04-10 04:04:07",
+      "album": {
+        "name": "tout me quitte / tout vient \u00e0 moi",
+        "url": "https://open.spotify.com/album/6NzSqNUhcdFuOYlqgGVZJn"
+      },
+      "artists": [
+        {
+          "name": "Nana Quinn",
+          "url": "https://open.spotify.com/artist/6oB1eI3s62d0KyLxrKG0x4"
+        }
+      ],
+      "duration_ms": 277461,
+      "name": "Oiseau migrateur",
+      "url": "https://open.spotify.com/track/2QOHrzgwSZg7oDrrLEshB0"
     },
     {
       "added_at": "2026-04-10 04:04:07",

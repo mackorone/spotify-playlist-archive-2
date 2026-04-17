@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love\. Marvel Studios' The Fantastic Four: First Steps is now streaming on Disney+.
 
-248 songs - 10 hr 45 min
+249 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Purpose Is Glorious](https://open.spotify.com/track/14ttivyM8Dj0xichnst1Vd) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Season 2 \- Vol\. 2 \(Episodes 4\-6\) \[Original Soundtrack\]](https://open.spotify.com/album/1bn4dWCtQfJnsuuUTbJFvQ) | 3:08 | 2024-05-22 |  |
 | [Quantum Nexus](https://open.spotify.com/track/2EIFbx9UZBz1iPjxbOGIU5) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Ant\-Man and The Wasp: Quantumania \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/523LVgy2uFE1nD4BgTV57I) | 3:16 | 2024-01-05 | 2026-04-15 |
 | [Ragnarok Suite](https://open.spotify.com/track/646yYgVW5sZWJloaGEW728) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Thor: Ragnarok \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4gecrZPdDxMlVxBtpobpxr) | 8:53 | 2024-01-05 | 2026-04-15 |
+| [Resist\. Rebel\. Rebuild.](https://open.spotify.com/track/2G1fZX0CNVMiGhgUs2QqeC) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [Marvel's Daredevil: Born Again \- Season 2: Vol\. 1 \(Episodes 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/5okv8MnorM4j6AeCvO6hrX) | 2:52 | 2026-04-16 |  |
 | [Revolution Starts Here \(Battle Theme\)](https://open.spotify.com/track/5rOaFnl9mzHUnXzeQpAfaL) | [Netmarble Monster Sound Team](https://open.spotify.com/artist/4FltW3DdTf4VjREPFrpmBq) | [MARVEL Future Revolution: The Convergence Soundtrack \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7xdi478x5z8DrcRcC7WG1w) | 2:00 | 2024-01-05 | 2026-04-15 |
 | [Rio](https://open.spotify.com/track/5AlqGtj7IAJnyGmWFS0Z7D) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Agatha All Along: Vol\. 1 \(Episodes 1\-5\) \[Original Soundtrack\]](https://open.spotify.com/album/0mGccmUOGqeiISKtiTcBWX) | 3:00 | 2024-10-15 | 2025-01-31 |
 | [Rivals](https://open.spotify.com/track/3Qm2T0JIIxyOsSIVTMY18j) | [Christopher Alan Grabar](https://open.spotify.com/artist/6Iqjhmr12uPpkWTLuTKjAp) | [MARVEL SNAP Vol\. 3 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/1rMNzLgjGRGgf56sldvPFJ) | 3:25 | 2025-02-01 | 2026-04-15 |

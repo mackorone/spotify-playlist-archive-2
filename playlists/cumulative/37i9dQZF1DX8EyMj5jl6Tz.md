@@ -4,7 +4,7 @@
 
 > Dance remixes of popular songs!
 
-197 songs - 8 hr 45 min
+198 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Danza Kuduro \- Remix](https://open.spotify.com/track/6XMCVXop0owqRXdfGAaKqW) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Andre Schnura](https://open.spotify.com/artist/1kVBxbzTGmSjLrr3dPioHK), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Danza Kuduro \(Remix\)](https://open.spotify.com/album/2twR9fOnFT913bvRn74dcT) | 2:49 | 2025-07-10 |  |
 | [Day 'N' Nite](https://open.spotify.com/track/46mlgXXpNSqwF1e6Fefuyi) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [y\_x](https://open.spotify.com/artist/1mntvQYpOHDTcAlSG8bmqM) | [Day 'N' Nite](https://open.spotify.com/album/2y4zFJGQbMMYMrQKO7cBZH) | 2:36 | 2025-07-10 |  |
 | [Diamonds In The Sky](https://open.spotify.com/track/4i4taIEvxoR8OqHAOSljfb) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Diamonds In The Sky](https://open.spotify.com/album/2o2nEnlTbGahHfuRLQoT7I) | 2:27 | 2025-07-10 |  |
-| [Désenchantée](https://open.spotify.com/track/174GfVWcX1r7ZxB3crEguD) | [Funky Beatz](https://open.spotify.com/artist/7mqX0sJOYDEc8aXlTV3f2r), [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Désenchantée](https://open.spotify.com/album/4Xxt2G4Lce7d6sxPNCEVWL) | 2:42 | 2025-07-10 |  |
+| [Désenchantée](https://open.spotify.com/track/174GfVWcX1r7ZxB3crEguD) | [Funky Beatz](https://open.spotify.com/artist/7mqX0sJOYDEc8aXlTV3f2r), [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Désenchantée](https://open.spotify.com/album/4Xxt2G4Lce7d6sxPNCEVWL) | 2:42 | 2025-07-10 | 2026-04-17 |
+| [Désenchantée 3000](https://open.spotify.com/track/7kKk5e4iAABsp1LM02SBBc) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Désenchantée 3000](https://open.spotify.com/album/4Av5NxZsaLYPkFTqdJJ4TZ) | 3:04 | 2026-04-16 |  |
 | [Easy On My Heart](https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Easy On My Heart](https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab) | 2:58 | 2025-07-10 | 2025-09-05 |
 | [Eres Tu \(Better Off Alone\) \[with Nicky Jam\]](https://open.spotify.com/track/6NntHaXivKLrk5wGPOfyYj) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [3rd Wall](https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Eres Tu \(Better Off Alone\) \[with Nicky Jam\]](https://open.spotify.com/album/4OAqFjNNlUsMGvH77YOyy6) | 2:26 | 2025-07-10 | 2025-09-12 |
 | [Everybody](https://open.spotify.com/track/30eIn0R4QMmbILrdx8KGdp) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI) | [Everybody](https://open.spotify.com/album/1rZMbJw4G1AoMmRw6w29Ak) | 3:31 | 2026-01-29 | 2026-03-06 |

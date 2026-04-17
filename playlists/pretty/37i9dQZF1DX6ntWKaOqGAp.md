@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: muque
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,409 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,423 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [スターダスト](https://open.spotify.com/track/60Lst9oTXDsAPXvHKUrxpk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [スターダスト](https://open.spotify.com/album/4wXR68a3kHWi9uusIZDRZ0) | 4:48 |
-| 2 | [風と町](https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [風と町](https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W) | 3:38 |
-| 3 | [飛ぶ時](https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:12 |
-| 4 | [One Two Three](https://open.spotify.com/track/5CEYf8aWwIXLg4cHhn5fou) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [One Two Three](https://open.spotify.com/album/5pE3JSHuaNRIYCwS1kmWJY) | 3:35 |
-| 5 | [Bouquet](https://open.spotify.com/track/6AEiVvowy0FhIACwS9BROM) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [GLHF](https://open.spotify.com/album/5UosEfWZJZ7ol7WLerlTNq) | 3:35 |
+| 1 | [Bouquet](https://open.spotify.com/track/6AEiVvowy0FhIACwS9BROM) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [GLHF](https://open.spotify.com/album/5UosEfWZJZ7ol7WLerlTNq) | 3:35 |
+| 2 | [スターダスト](https://open.spotify.com/track/60Lst9oTXDsAPXvHKUrxpk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [スターダスト](https://open.spotify.com/album/4wXR68a3kHWi9uusIZDRZ0) | 4:48 |
+| 3 | [風と町](https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [風と町](https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W) | 3:38 |
+| 4 | [飛ぶ時](https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:12 |
+| 5 | [One Two Three](https://open.spotify.com/track/5CEYf8aWwIXLg4cHhn5fou) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [One Two Three](https://open.spotify.com/album/5pE3JSHuaNRIYCwS1kmWJY) | 3:35 |
 | 6 | [NON\-FICTION](https://open.spotify.com/track/6NpxbiptV7ArQeLlcw8RNh) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [NON\-FICTION](https://open.spotify.com/album/2gRQWQNCyf5Ahb705yjcrT) | 3:49 |
 | 7 | [Vein](https://open.spotify.com/track/3teTtZKoqQbvaOWZSwjb8V) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Vein / ERROR](https://open.spotify.com/album/4SEy5PCYulggMZz2tDYU6b) | 3:20 |
 | 8 | [ネバーランド](https://open.spotify.com/track/7eGIA6KedV5AnKIJVDpixd) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ネバーランド](https://open.spotify.com/album/4ulmjwaClL4t3mG2xt6E42) | 3:35 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 92 | [SCARY MONSTER](https://open.spotify.com/track/2Etd3iNEAKpYgp7otKkTAB) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [SCARY MONSTERS EP](https://open.spotify.com/album/3mWJos5NX3yC9QnpdCjvxD) | 3:04 |
 | 93 | [KINTSUGI feat\. Koie](https://open.spotify.com/track/5HxM1saoFXmxuegcBvf8gP) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ), [Koie](https://open.spotify.com/artist/35yfozzh2wqgabWuz3d0AC) | [KINTSUGI feat\. Koie](https://open.spotify.com/album/6rLUcfQJ9m1ZYNSrj5kcu0) | 3:23 |
 | 94 | [Massara](https://open.spotify.com/track/3SPY8XHLaGJaGUnfTmTPCO) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Curry Rice](https://open.spotify.com/album/4FhUmxv0CFpZlnWfnvqYwj) | 4:33 |
-| 95 | [ソユーズに乗って](https://open.spotify.com/track/746B9Li1VaKQCMjO5wCXaY) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [EINSTEIN = ROSEN BRIDGE](https://open.spotify.com/album/5C8RwqgYO6VWR0wECIXGBD) | 3:43 |
-| 96 | [ROCKET](https://open.spotify.com/track/7dZJWmJ7wdhPGIFHicT3uT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [ROCKET](https://open.spotify.com/album/0VR4AOEr2bJBgOt6deWIFi) | 3:28 |
-| 97 | [かけら](https://open.spotify.com/track/0TT3LvUE69NWYaZXGXke88) | [古舘佑太郎](https://open.spotify.com/artist/4I91ZByhrKZbJgNUdoNR5v) | [TAYUTAU](https://open.spotify.com/album/5iqaNQ3HgJniMKAaTMwDDV) | 4:23 |
-| 98 | [dance now!](https://open.spotify.com/track/0RDXqfmkzxoiQ53JHrFNYz) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [dance now!](https://open.spotify.com/album/6mO4D69qVPbluFWDXCh0ya) | 2:44 |
+| 95 | [AI WO KOMETE](https://open.spotify.com/track/0s91mDDFGn1txjurZr7n4e) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [AI WO KOMETE](https://open.spotify.com/album/7tSKSGsE6jcpYqDXUtqX1R) | 3:07 |
+| 96 | [ソユーズに乗って](https://open.spotify.com/track/746B9Li1VaKQCMjO5wCXaY) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [EINSTEIN = ROSEN BRIDGE](https://open.spotify.com/album/5C8RwqgYO6VWR0wECIXGBD) | 3:43 |
+| 97 | [ROCKET](https://open.spotify.com/track/7dZJWmJ7wdhPGIFHicT3uT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [ROCKET](https://open.spotify.com/album/0VR4AOEr2bJBgOt6deWIFi) | 3:28 |
+| 98 | [かけら](https://open.spotify.com/track/0TT3LvUE69NWYaZXGXke88) | [古舘佑太郎](https://open.spotify.com/artist/4I91ZByhrKZbJgNUdoNR5v) | [TAYUTAU](https://open.spotify.com/album/5iqaNQ3HgJniMKAaTMwDDV) | 4:23 |
 | 99 | [クライマー](https://open.spotify.com/track/6hPMNe8R5KOwghvzxDNF1D) | [Reaction The Buttha](https://open.spotify.com/artist/7HT7QBLHLQ16iL4W2xjkeX) | [クライマー](https://open.spotify.com/album/7ueXryuEOeVnOMCK0km30U) | 3:44 |
 | 100 | [Romeo](https://open.spotify.com/track/5wAQo2E9nq1ywCakVFgftt) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Romeo](https://open.spotify.com/album/3Bsx6OjdZj362VILxymjhR) | 4:00 |
 
-Snapshot ID: `AAAAAKkKGqJdPzkQWK5sXUBKhBKgmcmR`
+Snapshot ID: `AAAAAD5q45Qg7chByl+9QIYoavhN/dkM`

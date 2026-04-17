@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TcWL6sPDr5.md) - [plain]
 
 > Listen to women at full volume\. Cover: Pil 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,521 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,517 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TcWL6sPDr5.md) - [plain]
 | 99 | [Butterfly Knives](https://open.spotify.com/track/7kSrQbne9ovuITpTocNc4i) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Butterfly Knives](https://open.spotify.com/album/4zkWLFaNafYsgjBggpjMF6) | 3:35 |
 | 100 | [You Always Liked Me Better When I Was Stoned](https://open.spotify.com/track/31Zd47aEZP29ZoGQkp45VN) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [You Always Liked Me Better When I Was Stoned](https://open.spotify.com/album/4JUnK6tzlRvi07mUSxN8hH) | 3:09 |
 
-Snapshot ID: `AAAAAEuZ/te2Y18Vvj7sYxHHudWTMYI7`
+Snapshot ID: `AAAAABblvNdupMMlKKaixBkBNqwEkMjc`

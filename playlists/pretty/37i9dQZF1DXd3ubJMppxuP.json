@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 87079,
+  "num_followers": 87098,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -207,26 +207,18 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
-        "name": "Libert\u00e9 (Sefa & Outsiders Remix)",
-        "url": "https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO"
+        "name": "Zomer Op Het Platteland",
+        "url": "https://open.spotify.com/album/0eje2YhBe7SEHckRuoFu7m"
       },
       "artists": [
         {
-          "name": "Parla & Pardoux",
-          "url": "https://open.spotify.com/artist/3qt7yUEE6loq4FEGM7aw3M"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+          "name": "Beatcrooks",
+          "url": "https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b"
         }
       ],
-      "duration_ms": 180292,
-      "name": "Libert\u00e9 - Sefa & Outsiders Remix",
-      "url": "https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI"
+      "duration_ms": 150000,
+      "name": "Zomer Op Het Platteland",
+      "url": "https://open.spotify.com/track/3va9avvxP8THnv2ZFpZFpF"
     },
     {
       "added_at": "2026-04-02 22:00:25",
@@ -339,18 +331,26 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
-        "name": "Zomer Op Het Platteland",
-        "url": "https://open.spotify.com/album/0eje2YhBe7SEHckRuoFu7m"
+        "name": "Libert\u00e9 (Sefa & Outsiders Remix)",
+        "url": "https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO"
       },
       "artists": [
         {
-          "name": "Beatcrooks",
-          "url": "https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b"
+          "name": "Parla & Pardoux",
+          "url": "https://open.spotify.com/artist/3qt7yUEE6loq4FEGM7aw3M"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Zomer Op Het Platteland",
-      "url": "https://open.spotify.com/track/3va9avvxP8THnv2ZFpZFpF"
+      "duration_ms": 180292,
+      "name": "Libert\u00e9 - Sefa & Outsiders Remix",
+      "url": "https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI"
     },
     {
       "added_at": "2026-04-02 22:00:25",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
-        "name": "Outsiders Remix EP",
-        "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Rene Froger",
-          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
-        }
-      ],
-      "duration_ms": 226245,
-      "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
-      "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
-    },
-    {
-      "added_at": "2026-04-02 22:00:25",
-      "album": {
         "name": "Van Goes Tot Purmerend (Altijd Larstig & Rob Gasd'rop en FeestDJRuud Remix)",
         "url": "https://open.spotify.com/album/6eauvU44jAYmb66jXi3ZMS"
       },
@@ -727,6 +707,26 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
+        "name": "Outsiders Remix EP",
+        "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
+        }
+      ],
+      "duration_ms": 226245,
+      "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
+      "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
+    },
+    {
+      "added_at": "2026-04-02 22:00:25",
+      "album": {
         "name": "In Mijn Bloed (feat. Eelco)",
         "url": "https://open.spotify.com/album/58J28k6uKH7deW2yBxs5w9"
       },
@@ -791,6 +791,26 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
+        "name": "Gas Erop",
+        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
+      },
+      "artists": [
+        {
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+        },
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "Gas Erop",
+      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
+    },
+    {
+      "added_at": "2026-04-02 22:00:25",
+      "album": {
         "name": "Vier Zomers Lang (Barry Fest Remix)",
         "url": "https://open.spotify.com/album/0wRbxX6azZGqmB8VpIvtxr"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 207063,
       "name": "Vier Zomers Lang - Barry Fest Remix",
       "url": "https://open.spotify.com/track/216Zm7o5aJcu4kdPpiIXTf"
-    },
-    {
-      "added_at": "2026-04-02 22:00:25",
-      "album": {
-        "name": "Gas Erop",
-        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
-      },
-      "artists": [
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        },
-        {
-          "name": "K-Liber",
-          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "Gas Erop",
-      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
     },
     {
       "added_at": "2026-04-02 22:00:25",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
+        "name": "Als De Morgen Is Gekomen (Remix)",
+        "url": "https://open.spotify.com/album/7qTX3e6tbD9E0y4tFMeHnh"
+      },
+      "artists": [
+        {
+          "name": "Nederlandse Hardstyle",
+          "url": "https://open.spotify.com/artist/3Kj6Jw1opUnWyO3EgKHd3r"
+        }
+      ],
+      "duration_ms": 145241,
+      "name": "Als De Morgen Is Gekomen (Remix)",
+      "url": "https://open.spotify.com/track/7yNPDa3hkjmIOY8tWnLzar"
+    },
+    {
+      "added_at": "2026-04-02 22:00:25",
+      "album": {
         "name": "Allez Allez Allez (Original Mix)",
         "url": "https://open.spotify.com/album/4YMwHhq4OIzESqEAQ1bNZ3"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 215612,
       "name": "Allez Allez Allez - Original Mix",
       "url": "https://open.spotify.com/track/6h8Ycc0BdpEE0FkbRPygs3"
-    },
-    {
-      "added_at": "2026-04-02 22:00:25",
-      "album": {
-        "name": "Als De Morgen Is Gekomen (Remix)",
-        "url": "https://open.spotify.com/album/7qTX3e6tbD9E0y4tFMeHnh"
-      },
-      "artists": [
-        {
-          "name": "Nederlandse Hardstyle",
-          "url": "https://open.spotify.com/artist/3Kj6Jw1opUnWyO3EgKHd3r"
-        }
-      ],
-      "duration_ms": 145241,
-      "name": "Als De Morgen Is Gekomen (Remix)",
-      "url": "https://open.spotify.com/track/7yNPDa3hkjmIOY8tWnLzar"
     },
     {
       "added_at": "2026-04-02 22:00:25",

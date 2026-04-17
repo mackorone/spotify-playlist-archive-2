@@ -4,7 +4,7 @@
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Stan
 
-263 songs - 14 hr 51 min
+264 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [PARÉA \- co\-starring Lena Zevgara](https://open.spotify.com/track/1Ualn0R2DXgdx3OxlaGKLC) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [PARÉA \(co\-starring Lena Zevgara\)](https://open.spotify.com/album/01qQx5SUUIaPII6dedD550) | 2:33 | 2026-03-26 |  |
 | [Pausipona](https://open.spotify.com/track/6yo6cqulqLF4BKo3Hewpd6) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Pausipona](https://open.spotify.com/album/7LqTAz1zU4I7RQdWWWvvKz) | 3:21 | 2025-09-11 | 2025-11-07 |
 | [Perifanos Aetos](https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Perifanos Aetos](https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1) | 3:48 | 2025-02-27 |  |
-| [Perno Tin Efthini](https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Perno Tin Efthini](https://open.spotify.com/album/6AL96TadQffNkXkCW3BvMH) | 3:35 | 2025-07-03 |  |
+| [Perno Tin Efthini](https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Perno Tin Efthini](https://open.spotify.com/album/6AL96TadQffNkXkCW3BvMH) | 3:35 | 2025-07-03 | 2026-04-17 |
 | [Pes Mou](https://open.spotify.com/track/2KDf834esNz60YkoISdDu2) | [Christina Salti](https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr) | [Pes Mou](https://open.spotify.com/album/732IvasfkpLJYx41saBVrg) | 2:49 | 2024-08-22 | 2024-10-07 |
 | [Pes Mou Kati](https://open.spotify.com/track/6LDc0SG4DGhowqwjBvaMnG) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Pes Mou Kati](https://open.spotify.com/album/3R0Wv0GGXq3XEHrO1T33sN) | 4:00 | 2024-06-27 | 2024-10-18 |
 | [Pes Tou](https://open.spotify.com/track/5OaWfAqcuFy4Mza599OyEZ) | [Giannis Fakinos](https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG) | [Pes Tou](https://open.spotify.com/album/6MrcPPRPLs3O5yeVkOx0PE) | 2:55 | 2025-06-19 | 2025-07-04 |
@@ -189,6 +189,7 @@
 | [Poios Tha Tou To Pei](https://open.spotify.com/track/67rlb9f252xaAJ1LQabIw2) | [Eleni Hatzidou](https://open.spotify.com/artist/6P6FzomDMeM5mwj5AHBaWl) | [Poios Tha Tou To Pei](https://open.spotify.com/album/2MxKF6SqvEIfwzmUpHTa6i) | 3:07 | 2025-04-10 | 2025-05-09 |
 | [Porni Outopia](https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI) | [Paola](https://open.spotify.com/artist/7m0YMvg7P6lnhSa2Ttu5TF) | [Porni Outopia](https://open.spotify.com/album/76sgSrnerOEpJHQxca7Wx5) | 3:32 | 2024-12-12 | 2026-02-27 |
 | [Pou Ti Vrike?](https://open.spotify.com/track/58NBDso0aGKOH1HGMqeR6c) | [Angela Dimitriou](https://open.spotify.com/artist/7xySz9OyEWxKC6RyDlo256), [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pou Ti Vrike?](https://open.spotify.com/album/5CMbdkrcS8H2QWwjr3GYvI) | 3:08 | 2025-10-09 | 2026-03-27 |
+| [Proteraiotita](https://open.spotify.com/track/1bLeGv7pHEnY1j7Ni7wOTX) | [Konstantinos Koufos](https://open.spotify.com/artist/1P2Y42avJKqxYP3ZrUuzqj) | [Aisiodoksi Matia](https://open.spotify.com/album/5DmlVgu0g1HGI2Xai33BGT) | 3:26 | 2026-04-16 |  |
 | [Psahno Na Vro](https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Psahno Na Vro](https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo) | 3:19 | 2024-06-27 | 2025-11-07 |
 | [Psemata](https://open.spotify.com/track/57oG2z9WHnenuZocjynJgx) | [Nikiforos Vithoulkas](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [Psemata](https://open.spotify.com/album/7GWb2fF3a2oLIILDru8BpQ) | 3:39 | 2025-11-13 | 2025-11-28 |
 | [Psixi Me Psixi](https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Psixi Me Psixi](https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC) | 4:21 | 2024-10-10 | 2026-02-27 |

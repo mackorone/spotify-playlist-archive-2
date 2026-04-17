@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 338940,
+  "num_followers": 339015,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAADIHrXWABg4GZOq4NB5QYOm",
+  "snapshot_id": "ad7VAAAAAAB/ELc8vBwZOzwTfQGGEEwR",
   "tracks": [
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colby O",
-        "url": "https://open.spotify.com/album/5g8W4mhkTV4XZ4YuBmhSr3"
-      },
-      "artists": [
-        {
-          "name": "Colby O'Donis",
-          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 243013,
-      "name": "What You Got",
-      "url": "https://open.spotify.com/track/3MldzywZOH4Uci6bq9noyJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strength & Loyalty",
         "url": "https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 287480,
       "name": "I Tried",
       "url": "https://open.spotify.com/track/2elA6JLRaQ6iB7hxiuTKN4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colby O",
+        "url": "https://open.spotify.com/album/5g8W4mhkTV4XZ4YuBmhSr3"
+      },
+      "artists": [
+        {
+          "name": "Colby O'Donis",
+          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 243013,
+      "name": "What You Got",
+      "url": "https://open.spotify.com/track/3MldzywZOH4Uci6bq9noyJ"
     },
     {
       "added_at": null,

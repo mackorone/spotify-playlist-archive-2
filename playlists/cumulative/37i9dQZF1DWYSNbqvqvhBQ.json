@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe tijdloze muziek. Cover: Oscar and the Wolf",
+  "description": "Nieuwe tijdloze muziek. Cover: MICHA (<a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR</a>-artist)",
   "name": "Altijd Goed",
   "tracks": [
     {
@@ -4623,6 +4623,24 @@
     },
     {
       "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211063,
+      "name": "God Was Showing Off",
+      "url": "https://open.spotify.com/track/1sVBT215CDmVJvfy1E2OCU"
+    },
+    {
+      "album": {
         "name": "God Went Crazy",
         "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
       },
@@ -6961,6 +6979,24 @@
     },
     {
       "album": {
+        "name": "It Feels Right",
+        "url": "https://open.spotify.com/album/15cgWFKi6jU95bKbZmpqwy"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218870,
+      "name": "It Feels Right",
+      "url": "https://open.spotify.com/track/6of3KnaLpo3j8ANnr0BLn7"
+    },
+    {
+      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/5M84TQMlBTgqPZej6KCvVd"
       },
@@ -7330,7 +7366,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 309191,
       "name": "L'aurora (feat. Alicia Keys)",
       "url": "https://open.spotify.com/track/2KWeyq9rNnXLubrBqUw1zC"
@@ -7612,6 +7648,24 @@
       "duration_ms": 224844,
       "name": "Levenslang",
       "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
+    },
+    {
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217637,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM"
     },
     {
       "album": {
@@ -9644,7 +9698,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 174676,
       "name": "On My Soul",
       "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
@@ -14920,7 +14974,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 194685,
       "name": "We Made It Look Easy (with Robbie Williams)",
       "url": "https://open.spotify.com/track/7Ic1kADy4mqKVDvMWQIXE2"
@@ -15036,6 +15090,24 @@
       "duration_ms": 242922,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
+    },
+    {
+      "album": {
+        "name": "OUTCAST TOWN",
+        "url": "https://open.spotify.com/album/2vbUakBweYESNGM676tA5l"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169637,
+      "name": "Welcome To Outcast Town",
+      "url": "https://open.spotify.com/track/3BKM92m9Wr4i2VehhBgFkQ"
     },
     {
       "album": {
@@ -15890,7 +15962,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 179086,
       "name": "You've Got Another Thing Coming - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz"

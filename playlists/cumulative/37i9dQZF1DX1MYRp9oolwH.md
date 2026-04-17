@@ -2,9 +2,9 @@
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Dacoit
+> Bringing out the best of latest love tracks<br/>Cover : Lenin
 
-385 songs - 1 day 0 hr 43 min
+386 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Mastaaru Mastaaru](https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Sir](https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc) | 3:45 | 2022-11-10 | 2023-08-17 |
 | [Maya Chesave Manasa \(From "Natho Nenu"\)](https://open.spotify.com/track/19Ug1yV94de5gK6lyjaY7n) | [Sai Deva Harsha](https://open.spotify.com/artist/723KW0hW8iVh0ckRZZDUgB), [Satya Kashyap](https://open.spotify.com/artist/13wkbQshOwC5ElpWpe1KX7), [Santhikumar Turlapati](https://open.spotify.com/artist/3E0ClhTQPhVikOuQGqRoqw) | [Maya Chesave Manasa \(From "Natho Nenu"\)](https://open.spotify.com/album/0oQU1stneoViSy4omlfuPG) | 3:14 | 2025-01-31 | 2025-06-04 |
 | [Meenu](https://open.spotify.com/track/3luKXJpyD1E6q8XXoe3qJv) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Pranavi Acharya](https://open.spotify.com/artist/6og51DkYGWSEdZtaRf4w6l), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [Sankranthiki Vasthunam](https://open.spotify.com/album/1KojQi3EIw8EWjz0HYhohq) | 4:45 | 2025-01-15 | 2025-03-19 |
-| [Meesaala Pilla \(From "Mana ShankaraVaraprasad Garu \- Pandagaki Vasthunnaru"\)](https://open.spotify.com/track/00cE2yTZLjn2AKjHttfNfd) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Bhaskarabhatla](https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu) | [Meesaala Pilla \(From "Mana Shankaravaraprasad Garu \- Pandagaki Vasthunnaru"\)](https://open.spotify.com/album/11otE69w7N7RmAhffSvwIv) | 3:47 | 2025-10-14 |  |
+| [Meesaala Pilla \(From "Mana ShankaraVaraprasad Garu \- Pandagaki Vasthunnaru"\)](https://open.spotify.com/track/00cE2yTZLjn2AKjHttfNfd) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Bhaskarabhatla](https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu) | [Meesaala Pilla \(From "Mana Shankaravaraprasad Garu \- Pandagaki Vasthunnaru"\)](https://open.spotify.com/album/11otE69w7N7RmAhffSvwIv) | 3:47 | 2025-10-14 | 2026-04-17 |
 | [Megham Karigena \(From "Thiru"\)](https://open.spotify.com/track/548VhmAhtRb8g4agXrqvCM) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Megham Karigena \(From "Thiru"\)](https://open.spotify.com/album/60souT1gyPJdMI1jcqAf89) | 4:50 | 2022-08-23 | 2023-04-25 |
 | [Mehabooba](https://open.spotify.com/track/1XOCtdeIjy7eIIPsYFGXzZ) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/6tYYbx3TIgC0xIqAYGkCD7) | 3:32 | 2022-05-04 | 2023-02-21 |
 | [Merisi Poye](https://open.spotify.com/track/5Pn2hVl721GNQDwIE0pPXx) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Sarath Santosh](https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp), [Sanare](https://open.spotify.com/artist/5OBBWXv2u5ZODe8odcEHbl) | [With Love \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7MnwQqeT6sNmGV58bgjs2O) | 3:17 | 2026-02-05 |  |
@@ -393,5 +393,6 @@
 | [Yedurangula Vaana](https://open.spotify.com/track/0l70yEnMGHPPZff7iLplnY) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [18 Pages](https://open.spotify.com/album/6DYN9cn9dlRY1wvhPJsHHI) | 4:12 | 2022-12-12 | 2023-10-12 |
 | [Yegire Manasule \(From "Mechanic Rocky"\)](https://open.spotify.com/track/72YNM7C4o8IUCfX8FAsbW5) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Yegire Manasule \(From "Mechanic Rocky"\)](https://open.spotify.com/album/4lkCl4dlT66ulvuMa4ul8W) | 1:30 | 2025-01-31 | 2025-04-17 |
 | [Yemaiundacho](https://open.spotify.com/track/3S7IadsjeS0DXkAaHSREkM) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Yemaiundacho](https://open.spotify.com/album/2QfB98RhYr6Y3YqwK5tbFx) | 5:25 | 2022-03-11 | 2023-02-21 |
+| [Yetta Yetta \(From "Lenin"\)](https://open.spotify.com/track/31b5VAlGdyvuKbqrvAEwXs) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Bhaskarabhatla](https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu) | [Yetta Yetta \(From "Lenin"\)](https://open.spotify.com/album/3j9dRlUxSullTEIPx4vtSw) | 3:23 | 2026-04-16 |  |
 
 \*This playlist was first scraped on 2023-02-14. Prior content cannot be recovered.

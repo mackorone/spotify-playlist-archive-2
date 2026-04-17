@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 253536,
       "name": "Khwaab Dekhoon - From \"Ek Din\"",
       "url": "https://open.spotify.com/track/4bgLijHlYnG50GcGe4dzfE"
@@ -2390,6 +2390,32 @@
       "duration_ms": 330906,
       "name": "Kitni Haseen Hogi (From \"Hit - The First Case\")",
       "url": "https://open.spotify.com/track/6h6kOAlIeWdsqNopumppU5"
+    },
+    {
+      "album": {
+        "name": "Laiyaan",
+        "url": "https://open.spotify.com/album/7v1vuvYPo1OLs7GSWBTKWM"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Ruaa Kayy",
+          "url": "https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7"
+        },
+        {
+          "name": "RUTVXK",
+          "url": "https://open.spotify.com/artist/1GmpuAH0l3Z0AYj0vkGh2e"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213093,
+      "name": "Laiyaan",
+      "url": "https://open.spotify.com/track/2ecDjOlGElRwIIhfpeg7Z6"
     },
     {
       "album": {

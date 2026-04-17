@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAgGnKnh41hj89gs0hltpkl2WTDlcBz",
+  "snapshot_id": "AAAgHXdeYNEiim+ELhwMk6jUgh29Uk/b",
   "tracks": [
     {
       "added_at": "2022-05-03 16:09:53",
@@ -3635,6 +3635,70 @@
       "duration_ms": 170253,
       "name": "Brianstorm",
       "url": "https://open.spotify.com/track/5rTIpPWeO0IL4HWlGWrz5G"
+    },
+    {
+      "added_at": "2026-04-17 01:53:40",
+      "album": {
+        "name": "Live And In Color",
+        "url": "https://open.spotify.com/album/4F6xX5UGoiGGpLpItFYHzp"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 189176,
+      "name": "Big Bag Talk",
+      "url": "https://open.spotify.com/track/2oHhxuEZkVT6TADkyLlFvX"
+    },
+    {
+      "added_at": "2026-04-17 01:53:45",
+      "album": {
+        "name": "Live And In Color",
+        "url": "https://open.spotify.com/album/4F6xX5UGoiGGpLpItFYHzp"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 152880,
+      "name": "Get Right (feat. Project Pat)",
+      "url": "https://open.spotify.com/track/5GOX4KkLskHaG9UfEuNPfX"
+    },
+    {
+      "added_at": "2026-04-17 01:59:54",
+      "album": {
+        "name": "Live And In Color",
+        "url": "https://open.spotify.com/album/4F6xX5UGoiGGpLpItFYHzp"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 85326,
+      "name": "We Live",
+      "url": "https://open.spotify.com/track/3hcMXaYUqCOUuFgJOoBBl2"
     }
   ],
   "unique_name": "main ",

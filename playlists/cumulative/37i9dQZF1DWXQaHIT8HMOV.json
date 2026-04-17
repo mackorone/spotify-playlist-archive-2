@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan gems in one playlist. Cover: A Pass",
+  "description": "Homegrown Ugandan gems in one playlist. Cover: Winnie Nwagi",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -130,7 +130,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 130000,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/7LZi2twUKdO939aMSu4xHb"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 164000,
       "name": "Amazaina",
       "url": "https://open.spotify.com/track/1gobRUGrQ3nxM343Z3SINY"
@@ -7567,6 +7567,24 @@
     },
     {
       "album": {
+        "name": "Omubiri",
+        "url": "https://open.spotify.com/album/6pysw0poR4xlrbDxTNykhN"
+      },
+      "artists": [
+        {
+          "name": "Gloria Bugie",
+          "url": "https://open.spotify.com/artist/73fzrko85oNtIAE0jTTnuY"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171840,
+      "name": "Omubiri",
+      "url": "https://open.spotify.com/track/6NelawHXpg5yMvoNPtuJrK"
+    },
+    {
+      "album": {
         "name": "Omugongo",
         "url": "https://open.spotify.com/album/7hHA0ASfWH6dHKf4mLEc0M"
       },
@@ -10874,6 +10892,24 @@
       "duration_ms": 177400,
       "name": "WEEKENDI",
       "url": "https://open.spotify.com/track/3hNKoxy3BOUWKNuqVY0G7p"
+    },
+    {
+      "album": {
+        "name": "Wendi",
+        "url": "https://open.spotify.com/album/17KmXQUvQCcKua31joQiwf"
+      },
+      "artists": [
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173877,
+      "name": "Wendi",
+      "url": "https://open.spotify.com/track/3UgrtbRvmUyDbaarznoFmm"
     },
     {
       "album": {

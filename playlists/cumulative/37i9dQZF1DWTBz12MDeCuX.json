@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Rubi",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Ski Aggu",
   "name": "me right now",
   "tracks": [
     {
@@ -3808,7 +3808,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 213440,
       "name": "American Girls",
       "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
@@ -9369,6 +9369,24 @@
     },
     {
       "album": {
+        "name": "BORDSTEIN",
+        "url": "https://open.spotify.com/album/7wXaq6rYd38a4DrcBJocYm"
+      },
+      "artists": [
+        {
+          "name": "Moonkid \u263e",
+          "url": "https://open.spotify.com/artist/3WxwK3gG6z16jveKwtThfv"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "BORDSTEIN",
+      "url": "https://open.spotify.com/track/6kAx3ylAikTDVld1Q2h5nP"
+    },
+    {
+      "album": {
         "name": "Bottle Girls (feat. Polo G & Almighty Jay)",
         "url": "https://open.spotify.com/album/5U1QskyIQkYSdRrtiHKPuG"
       },
@@ -12629,6 +12647,24 @@
     },
     {
       "album": {
+        "name": "xoxo, Ceren",
+        "url": "https://open.spotify.com/album/5c7Et33y3c2hsFCuISXyJR"
+      },
+      "artists": [
+        {
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121660,
+      "name": "Damals",
+      "url": "https://open.spotify.com/track/0HlZZTIru4DqZBYvIPP3oB"
+    },
+    {
+      "album": {
         "name": "Damals",
         "url": "https://open.spotify.com/album/0cFl7GKxwsIDOOXoH2cUuw"
       },
@@ -14794,6 +14830,24 @@
       "duration_ms": 196916,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8"
+    },
+    {
+      "album": {
+        "name": "done done done",
+        "url": "https://open.spotify.com/album/6QGYexIgJpVXPpDlkqFrX7"
+      },
+      "artists": [
+        {
+          "name": "Ordinary Kid",
+          "url": "https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116940,
+      "name": "done done done",
+      "url": "https://open.spotify.com/track/4pGMZRqLZtqrQe4ehY4lCQ"
     },
     {
       "album": {
@@ -17038,7 +17092,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 181181,
       "name": "Empty Of You",
       "url": "https://open.spotify.com/track/4mtvX2WPw0Z92zwjx4KFsO"
@@ -20439,6 +20493,28 @@
     },
     {
       "album": {
+        "name": "FR\u00dcHLING",
+        "url": "https://open.spotify.com/album/084IdjarQRuXQlN7cdt31R"
+      },
+      "artists": [
+        {
+          "name": "S1RENA",
+          "url": "https://open.spotify.com/artist/6CvM2CYmcK06XVbI1qI4SW"
+        },
+        {
+          "name": "TYM",
+          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244209,
+      "name": "FR\u00dcHLING",
+      "url": "https://open.spotify.com/track/0L9r9pTmJwc8buVT93aca6"
+    },
+    {
+      "album": {
         "name": "Fr\u00fchling im Viertel 2.0 (feat. Kane)",
         "url": "https://open.spotify.com/album/0rZurbCu8FvjKe1tZRMlnx"
       },
@@ -21798,6 +21874,24 @@
       "duration_ms": 170012,
       "name": "Gekreuzte Finger",
       "url": "https://open.spotify.com/track/3qLNG3UvIe2G3DQ0XGMeEY"
+    },
+    {
+      "album": {
+        "name": "GELD",
+        "url": "https://open.spotify.com/album/7yonE5FXF3MeeXL8IMP6zQ"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105035,
+      "name": "GELD",
+      "url": "https://open.spotify.com/track/0hpiVWAZbVxE0R92i7kucF"
     },
     {
       "album": {
@@ -23192,6 +23286,28 @@
       "duration_ms": 214046,
       "name": "GO AGAIN (feat. Superheaven)",
       "url": "https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E"
+    },
+    {
+      "album": {
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Best Coast",
+          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193733,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
     },
     {
       "album": {
@@ -26136,7 +26252,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 167577,
       "name": "HIMMEL",
       "url": "https://open.spotify.com/track/1u6V9vHiPnVKAV03PL3Jlh"
@@ -27288,6 +27404,24 @@
       "duration_ms": 169824,
       "name": "I Cannot Be (A Sadder Song) (with Gunna)",
       "url": "https://open.spotify.com/track/4IxeKzzxUSEgivgtbSbyIK"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Go!",
+        "url": "https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159315,
+      "name": "I Don't Wanna Go!",
+      "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
     },
     {
       "album": {
@@ -32670,7 +32804,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 169031,
       "name": "Komm vorbei",
       "url": "https://open.spotify.com/track/5ith3Fiz6YDXRIe7HoRq9L"
@@ -34389,6 +34523,28 @@
     },
     {
       "album": {
+        "name": "Letztes Lied",
+        "url": "https://open.spotify.com/album/498HXnLGLmrJZi0tSbY6R1"
+      },
+      "artists": [
+        {
+          "name": "Rex",
+          "url": "https://open.spotify.com/artist/4oZpEOsCD2du75K8BadPSY"
+        },
+        {
+          "name": "Sira Faal",
+          "url": "https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188205,
+      "name": "Letztes Lied",
+      "url": "https://open.spotify.com/track/32CTnLyfwOpDQWwB7IOYXj"
+    },
+    {
+      "album": {
         "name": "lfme",
         "url": "https://open.spotify.com/album/03DyXViqu7sKlcZmtHayIg"
       },
@@ -34782,7 +34938,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 126024,
       "name": "Liebe ist h\u00e4sslich.",
       "url": "https://open.spotify.com/track/3IJmYStLMIMa16tXvM4FRB"
@@ -35664,7 +35820,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 162000,
       "name": "Loser",
       "url": "https://open.spotify.com/track/41bvcMH85cMo0ZCNZvdRru"
@@ -41106,7 +41262,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 187096,
       "name": "Need it Bad (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
@@ -43784,6 +43940,32 @@
       "duration_ms": 159106,
       "name": "Ok es tut mir leid",
       "url": "https://open.spotify.com/track/41za1eeqP32PgCUpYCNU4F"
+    },
+    {
+      "album": {
+        "name": "ok wenn du weinst",
+        "url": "https://open.spotify.com/album/5pbngCjT6zUmGfHxI3SsRq"
+      },
+      "artists": [
+        {
+          "name": "Strob",
+          "url": "https://open.spotify.com/artist/0JP5ABLaBXOg8HFsxUoPzC"
+        },
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        },
+        {
+          "name": "zuender",
+          "url": "https://open.spotify.com/artist/4lCQMLf3GIOuDzrhVsd2FW"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121829,
+      "name": "ok wenn du weinst",
+      "url": "https://open.spotify.com/track/7HcAbD1vX5zznHjZJQEPi5"
     },
     {
       "album": {
@@ -46742,7 +46924,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 262726,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
@@ -51611,6 +51793,28 @@
     },
     {
       "album": {
+        "name": "Shotgun (mit Provinz)",
+        "url": "https://open.spotify.com/album/6dD3fdp0aPMAW0ecT7B8xL"
+      },
+      "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Shotgun (mit Provinz)",
+      "url": "https://open.spotify.com/track/1qTMaaS5FdqiulCExFkvGy"
+    },
+    {
+      "album": {
         "name": "Backup '25",
         "url": "https://open.spotify.com/album/1jD7rC3RAV2O4SARc3I6sW"
       },
@@ -51858,7 +52062,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 176480,
       "name": "Sie",
       "url": "https://open.spotify.com/track/5s3S2D5OZD8pNlK3hbq88C"
@@ -53421,6 +53625,28 @@
     },
     {
       "album": {
+        "name": "Sommerregen (Nimm meine Hand)",
+        "url": "https://open.spotify.com/album/26kjrd1kjAaPl7bKlnE3q2"
+      },
+      "artists": [
+        {
+          "name": "KXXMA",
+          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
+        },
+        {
+          "name": "KushTekK",
+          "url": "https://open.spotify.com/artist/17lK1LyA0KGd5r41OOE2d0"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182374,
+      "name": "Sommerregen (Nimm meine Hand)",
+      "url": "https://open.spotify.com/track/17qpIQNRNWWeOQm6VwT6SN"
+    },
+    {
+      "album": {
         "name": "Sommersprossenzeit",
         "url": "https://open.spotify.com/album/3XWpVEUSWlrMYtTb5MoYxx"
       },
@@ -53490,7 +53716,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 168712,
       "name": "sommerwind",
       "url": "https://open.spotify.com/track/3puY290XhaYRHxebmg9NvN"
@@ -54448,6 +54674,28 @@
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+    },
+    {
+      "album": {
+        "name": "stargirls",
+        "url": "https://open.spotify.com/album/18snFwyIEmmrOapOaJz0tr"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        },
+        {
+          "name": "Emma Rose",
+          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161295,
+      "name": "stargirls",
+      "url": "https://open.spotify.com/track/3BF32A5iFMrWRCeubDcJwE"
     },
     {
       "album": {
@@ -56048,7 +56296,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -58803,6 +59051,24 @@
     },
     {
       "album": {
+        "name": "Tricks Are For Kids",
+        "url": "https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO"
+      },
+      "artists": [
+        {
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140259,
+      "name": "Tricks Are For Kids",
+      "url": "https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw"
+    },
+    {
+      "album": {
         "name": "Trinke Tee",
         "url": "https://open.spotify.com/album/1uKBBOSJuoRg3UuXGb6RTf"
       },
@@ -59138,6 +59404,28 @@
       "duration_ms": 161125,
       "name": "TURBO MATE",
       "url": "https://open.spotify.com/track/6VJYxkPmukhR3HOrZebdhT"
+    },
+    {
+      "album": {
+        "name": "Turbofresh",
+        "url": "https://open.spotify.com/album/7vxViJNNHmazf6mDNuMYjI"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        },
+        {
+          "name": "Frank Lotion",
+          "url": "https://open.spotify.com/artist/0NRUSXrcqFAFhyV438TdgG"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133082,
+      "name": "Turbofresh",
+      "url": "https://open.spotify.com/track/4MvB5zSLSxNPzmgTXWPH9J"
     },
     {
       "album": {
@@ -61281,6 +61569,24 @@
     },
     {
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/58NrvyTDNC3JMpyKyX60uI"
+      },
+      "artists": [
+        {
+          "name": "Edwin Rosen",
+          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210191,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV"
+    },
+    {
+      "album": {
         "name": "vertrauen",
         "url": "https://open.spotify.com/album/7xpU6nvKf8rZUaUaXwqgNl"
       },
@@ -61380,6 +61686,24 @@
       "duration_ms": 207177,
       "name": "Vicious",
       "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
+    },
+    {
+      "album": {
+        "name": "VICTIM TO MY BRAIN",
+        "url": "https://open.spotify.com/album/0v9UFbGvyMwOdGhHO1Dy5K"
+      },
+      "artists": [
+        {
+          "name": "h3nce",
+          "url": "https://open.spotify.com/artist/2NII5V3cxjPuP5cg6UK7Ob"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130888,
+      "name": "VICTIM TO MY BRAIN",
+      "url": "https://open.spotify.com/track/5Ukh3ip8IXv7ASEFtXCtRI"
     },
     {
       "album": {
@@ -62984,7 +63308,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 149394,
       "name": "We Don\u2019t Get Along (with Marshmello)",
       "url": "https://open.spotify.com/track/2XhatQ5NqfdqZMLCegWnbD"
@@ -63676,7 +64000,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 128534,
       "name": "Wei\u00dft du \u00fcberhaupt noch wer ich bin?",
       "url": "https://open.spotify.com/track/2WaGqcbTEIiM8QPHPmqclR"
@@ -64614,7 +64938,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 184203,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
@@ -64748,7 +65072,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 248807,
       "name": "White Ferrari",
       "url": "https://open.spotify.com/track/4r9CtoTORnhgolvhslLdTx"
@@ -65078,7 +65402,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 144859,
       "name": "wie lang geht das noch gut",
       "url": "https://open.spotify.com/track/4YCIZm90kKtHchOFqrWyaw"

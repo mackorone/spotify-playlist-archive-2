@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 2222,
+  "num_followers": 2226,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -471,26 +471,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "All Good (Jasper Tygner Remix)",
-        "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        },
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 243853,
-      "name": "All Good - Jasper Tygner Remix",
-      "url": "https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 284477,
       "name": "SFC - Hommage Mix",
       "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "All Good (Jasper Tygner Remix)",
+        "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        },
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 243853,
+      "name": "All Good - Jasper Tygner Remix",
+      "url": "https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Mercury Remixes",
+        "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
+      },
+      "artists": [
+        {
+          "name": "The Range",
+          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "duration_ms": 207304,
+      "name": "Violet - DJ Python Remix",
+      "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Minoxidil Life crisis",
         "url": "https://open.spotify.com/album/2hOQX3N7h2SaTE3UiFZwz3"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 333694,
       "name": "I Wanted More",
       "url": "https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Mercury Remixes",
-        "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
-      },
-      "artists": [
-        {
-          "name": "The Range",
-          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
-        }
-      ],
-      "duration_ms": 207304,
-      "name": "Violet - DJ Python Remix",
-      "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
     },
     {
       "added_at": "2023-08-31 14:00:00",

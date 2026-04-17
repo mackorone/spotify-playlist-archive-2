@@ -1,12 +1,12 @@
 {
   "description": "This is John Williams. The essential tracks, all in one playlist.",
-  "num_followers": 230669,
+  "num_followers": 230688,
   "original_name": "This Is John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAADoEvRCdYONtjmxgRFoGT3v",
+  "snapshot_id": "ad7VAAAAAAC3/jNyafPFx++yBoOBgZMX",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "Duel of the Fates",
-      "url": "https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 179573,
       "name": "The Imperial March (Darth Vader's Theme)",
       "url": "https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Duel of the Fates",
+      "url": "https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "March of the Resistance",
-      "url": "https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 346933,
       "name": "Star Wars (Main Theme)",
       "url": "https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 155906,
+      "name": "March of the Resistance",
+      "url": "https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr"
     },
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Yoda's Theme",
+      "url": "https://open.spotify.com/track/69f4J5zQkPqzf9IZ36zNQL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cinema Serenade",
         "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 198026,
       "name": "Love Theme (From \"Cinema Paradiso\")",
       "url": "https://open.spotify.com/track/0Qo1kcncYrePDxWHxpz1IQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Yoda's Theme",
-      "url": "https://open.spotify.com/track/69f4J5zQkPqzf9IZ36zNQL"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 69595,
+  "num_followers": 69609,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAAALCQaMrNAFMzgEysGgXhBi",
+  "snapshot_id": "ad7VAAAAAAC7HVIaYHsc+SKM+yHsGGR3",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bajo Mil Llaves",
-        "url": "https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 149560,
-      "name": "Bajo Mil Llaves",
-      "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rey de Mil Coronas",
         "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 165960,
       "name": "A Punto de Marcharme",
       "url": "https://open.spotify.com/track/1Jhjre6l1vse8MzyDodeSA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bajo Mil Llaves",
+        "url": "https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 149560,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
     },
     {
       "added_at": null,

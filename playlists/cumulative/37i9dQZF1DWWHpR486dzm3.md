@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä.
 
-1,141 songs - 2 day 20 hr 37 min
+1,143 songs - 2 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [hometown](https://open.spotify.com/track/3jdieYfpnjMGe3cDULBQmT) | [NAILOV](https://open.spotify.com/artist/49TbRPtRh0j5xSrvBCjTM0) | [hometown](https://open.spotify.com/album/3sKF7gZ4vLd6NHugsFD9Hh) | 2:20 | 2024-09-12 | 2024-10-04 |
 | [honey, rise](https://open.spotify.com/track/6VUwK4JhuPqYmLINq9l9GA) | [Hilda Ruijs](https://open.spotify.com/artist/47SFL7zHeuUz5zufzbXOjP) | [Honey, rise](https://open.spotify.com/album/68TXJ2JsIgrmvtqBf8i5Tb) | 3:32 | 2024-07-02 | 2024-08-16 |
 | [Hoodoo\-mama](https://open.spotify.com/track/20bZr8LnlhUsZDvz5i4jEB) | [AK\-77](https://open.spotify.com/artist/6MvyUZ15BwWLM4xxJaqEgR) | [Amerihaka](https://open.spotify.com/album/5YJ87o01HUjPpvwkb3fct2) | 3:40 | 2024-09-05 | 2024-10-11 |
+| [Hopecore](https://open.spotify.com/track/64JGiEydeopZWrlMW0NY8q) | [Sokar](https://open.spotify.com/artist/4PzL17F31KST5eIda3RDrm) | [Hopecore](https://open.spotify.com/album/571wFHJ3PxQ4J7qtipg3Ko) | 2:22 | 2026-04-16 |  |
 | [Horisontin takana](https://open.spotify.com/track/09Nau2rvRcWWr8ejmH9uRH) | [Oskari Muro](https://open.spotify.com/artist/7iJ5EZFnFX0pzWJlrIniqp) | [Horisontin takana](https://open.spotify.com/album/2EdWuVb3dxCTnZ3Esa5cui) | 3:01 | 2024-09-19 | 2024-10-25 |
 | [Horrors](https://open.spotify.com/track/6oezainZsBXsNDxeahq7OC) | [Cats Of Transnistria](https://open.spotify.com/artist/2Rnlk97rOW76miPCgrvZKX) | [Horrors](https://open.spotify.com/album/4nTEOQif1OODmOKlfyYn6t) | 4:46 | 2025-01-16 | 2025-02-28 |
 | [Houreisina heiluvat hongistot](https://open.spotify.com/track/6TeANeiELir1MPQfjoIChV) | [Peijas](https://open.spotify.com/artist/4xwxiBiAyNl5N3tSSh0i3R) | [Peijas](https://open.spotify.com/album/0yj8jtMr3WBrPhwCSqIsds) | 4:02 | 2024-10-17 | 2024-11-29 |
@@ -714,6 +715,7 @@
 | [Otteet](https://open.spotify.com/track/4l7mN9DB8uNYImjm2YfhbR) | [Suisto](https://open.spotify.com/artist/3fgGRAdwG3yg5RvoHgHVaG) | [Otteet](https://open.spotify.com/album/5z7oLvmxgB2XMOIV3YXe5j) | 3:44 | 2025-06-12 | 2025-08-15 |
 | [Out Of Place](https://open.spotify.com/track/5hhjr9iVoSeb9ndIFTT5XM) | [Moonwards](https://open.spotify.com/artist/5LeoSKe7L1E4nlIRd3K2sm) | [Out Of Place](https://open.spotify.com/album/7vTQMqwmvfa3UhiLBNkGWk) | 6:44 | 2025-02-27 | 2025-03-28 |
 | [Outoja asioita](https://open.spotify.com/track/0EQ90bXxI468crQjYjawX2) | [Ricky Kotka](https://open.spotify.com/artist/58dssykZY3085DVuqWcyvf) | [Outoja asioita](https://open.spotify.com/album/507yrIZ9VWx71WGPlW3LPe) | 3:00 | 2024-09-19 | 2024-11-08 |
+| [P](https://open.spotify.com/track/2ajyCojqxNVkrvboad1d2W) | [Baby Blu](https://open.spotify.com/artist/4MRUt0W6EcwLPwuH7ehu4A) | [P](https://open.spotify.com/album/40jOXHrFenuRiQt8tOzZGE) | 2:10 | 2026-04-16 |  |
 | [Paha häviää](https://open.spotify.com/track/0XP80BSo6Y0cHH7NPbgSnO) | [Tomi Nordlund & Syvä Joki](https://open.spotify.com/artist/4AwIOFa6wK3ViD6qNdSPBU) | [Paha häviää](https://open.spotify.com/album/3dHotn51GIxDeU9J4XfGRd) | 3:55 | 2025-04-03 | 2025-05-30 |
 | [Paha Lucia](https://open.spotify.com/track/4XgurX8ryrmIilt1LCAPCz) | [Paha Lucia](https://open.spotify.com/artist/0i8ZFwDH4E1vjuA2fzVoTB) | [Paha Lucia](https://open.spotify.com/album/5bgCT9oIW7rHTVx7DCrqzS) | 3:03 | 2025-09-11 | 2025-09-26 |
 | [Pahat tavat](https://open.spotify.com/track/6sniQycPpkszFlnk7QgJVN) | [Elias Gould](https://open.spotify.com/artist/2vMYb9ojrYEFFcz0IRF2b3) | [Pahat tavat](https://open.spotify.com/album/19W0WirLkEj7c2fJbB6xIN) | 2:57 | 2025-04-17 | 2025-06-06 |

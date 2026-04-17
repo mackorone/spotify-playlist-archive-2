@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: CHO",
-  "num_followers": 141025,
+  "num_followers": 141035,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "February Stories",
-        "url": "https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3"
-      },
-      "artists": [
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        },
-        {
-          "name": "Jandro",
-          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
-        }
-      ],
-      "duration_ms": 143346,
-      "name": "February Stories",
-      "url": "https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
         "name": "Van Mij Zijn",
         "url": "https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 166911,
       "name": "Van Mij Zijn",
       "url": "https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "February Stories",
+        "url": "https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        }
+      ],
+      "duration_ms": 143346,
+      "name": "February Stories",
+      "url": "https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9"
     },
     {
       "added_at": "2026-04-02 22:02:08",

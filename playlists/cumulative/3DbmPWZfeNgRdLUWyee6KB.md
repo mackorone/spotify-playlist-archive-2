@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-933 songs - 2 day 6 hr 35 min
+935 songs - 2 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Everything](https://open.spotify.com/track/1oL4pFLc2E8b9CKsZApmSm) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Love & Heartbreak, Vol\. 3](https://open.spotify.com/album/3b2UKbjlhHnEJHr3LjpRmi) | 4:28 | 2026-02-11 | 2026-03-15 |
 | [Everything to me \- 2026 Remastered](https://open.spotify.com/track/6srrd8bYqdRznLnOcJrE32) | [Martin Music](https://open.spotify.com/artist/5Y1uMD9d4HYryBiBvhssUW) | [Everything to me \(2026 Remastered\)](https://open.spotify.com/album/2PIDJ9NUlXxYvw0pD5N7hy) | 2:39 | 2026-03-16 | 2026-04-12 |
 | [Extra Juicy](https://open.spotify.com/track/5pjXk1yt9rxwt2G6phJX2U) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Extra Juicy](https://open.spotify.com/album/7foyhwKtR2A6JrPM7ppeYT) | 3:14 | 2026-03-16 | 2026-04-12 |
+| [Fade \- Remix](https://open.spotify.com/track/376ImRIk78DYFiY03n7s8L) | [GRAMZ NFT](https://open.spotify.com/artist/2W3A0iYZ114bkHssTcl3Cr) | [Blues & Rhythms](https://open.spotify.com/album/7w3z8FgUCAoXFLtGUHHcVG) | 2:47 | 2026-04-16 |  |
 | [Fading Into You](https://open.spotify.com/track/5VPBujeOcYZ6SJ50pbXZiv) | [Reyzalla](https://open.spotify.com/artist/1GDg9eSEuaf2DR4zwuAQZE) | [Fading Into You](https://open.spotify.com/album/5uFWFE43KS6GIwCoaFdWnM) | 3:27 | 2026-03-11 | 2026-04-12 |
 | [Falling in Love](https://open.spotify.com/track/2MKPa3GKO45HF0r2HXYISS) | [FreeRider X](https://open.spotify.com/artist/6SWiYmuroeOupS9tZDSsy2) | [Falling in Love](https://open.spotify.com/album/4i4RbGOEc9CHtqN0vR9BBq) | 2:45 | 2025-12-09 | 2026-01-05 |
 | [Falling into the Void](https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:56 | 2025-12-04 | 2026-01-05 |
@@ -496,6 +497,7 @@
 | [Marijuana](https://open.spotify.com/track/5pDVvTglDQQl2L20O8aX8l) | [Plastic Madmen](https://open.spotify.com/artist/5VLgQK5WAN6jPdhgQ3y2sA) | [Marijuana](https://open.spotify.com/album/4kszJUeS7W1gR1LK3AHlnH) | 4:37 | 2025-11-04 | 2025-12-21 |
 | [Mariposa Y Rosa](https://open.spotify.com/track/2rhDxx8vtqJmBo2K1Efvv0) | [Pablo Wildside](https://open.spotify.com/artist/3dsKXTSwTgebpPv1KRZnpO) | [Mariposa Y Rosa](https://open.spotify.com/album/4HqjbAY9ywzJFjipZHc0Uz) | 6:13 | 2026-04-11 |  |
 | [Marsy](https://open.spotify.com/track/5RguEb0BlI88ZqxsNLlWdj) | [DISSONANT](https://open.spotify.com/artist/3XYNgEne3ULFkzHdtXXUpl) | [Marsy](https://open.spotify.com/album/4Ve0AHpwDXIg01doQcpQKK) | 2:57 | 2025-12-29 | 2026-01-24 |
+| [MATTER OF FACT](https://open.spotify.com/track/0hjQt1kEUvrSjSUxcBH0Hx) | [C\-Zero](https://open.spotify.com/artist/5I8EdBtHPl24xU2dysCj3o) | [MATTER OF FACT](https://open.spotify.com/album/30VP3gPVpwHyaZGJYPQm3I) | 3:03 | 2026-04-16 |  |
 | [Maybe Heaven Knows](https://open.spotify.com/track/6l68nfAWEcNYUq9aaYJ6ST) | [Chillin''](https://open.spotify.com/artist/08OE1oQavpFMQU51ZnkWFO) | [From the Heart](https://open.spotify.com/album/4oV7XlqgMbpTmzE4yTRgfL) | 3:16 | 2026-01-06 | 2026-02-03 |
 | [Maybe Tomorrow](https://open.spotify.com/track/0ARCZiCkfh5zKlNN3IvOp7) | [Paul Marturano](https://open.spotify.com/artist/4ErK966kYcXS7y7s4e3MLA) | [Bucks County](https://open.spotify.com/album/5CwcyeEYyhy2pYlJhZnKTL) | 4:12 | 2025-12-22 | 2026-01-24 |
 | [Maçã](https://open.spotify.com/track/0rydRbJCbrTugZjGkAZZWm) | [Salvatore Nanè](https://open.spotify.com/artist/2OyUGRvXMkmSHMSjacXjNZ), [Andrea Maia](https://open.spotify.com/artist/0GKHbfqyqJ3ViQi45PopsQ), [Luca Segala](https://open.spotify.com/artist/6J49zCELs85KDUCsgXa3X7) | [Maçã](https://open.spotify.com/album/4I6amNqmfeoBtegDw9yrJu) | 3:50 | 2023-04-27 | 2025-11-29 |

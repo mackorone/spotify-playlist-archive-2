@@ -553,6 +553,28 @@
     },
     {
       "album": {
+        "name": "Crimson Sky (Radio Edit)",
+        "url": "https://open.spotify.com/album/476peAghmC51l3S77Tf1d1"
+      },
+      "artists": [
+        {
+          "name": "Alisha Popat",
+          "url": "https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn"
+        },
+        {
+          "name": "Normen Goltz",
+          "url": "https://open.spotify.com/artist/3AAL6Hp40AVMA7YLtTeMyT"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204970,
+      "name": "Crimson Sky - Radio Edit",
+      "url": "https://open.spotify.com/track/48QpNkIX5Dz0Cm2qh9zzUt"
+    },
+    {
+      "album": {
         "name": "Crocodile",
         "url": "https://open.spotify.com/album/1VKBWhjqEIzcbGy1U1NS5a"
       },
@@ -2000,7 +2022,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 231576,
       "name": "Playing With Fire",
       "url": "https://open.spotify.com/track/13ampMIuI5NynkDnUa4CGe"
@@ -2018,7 +2040,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 141968,
       "name": "pour it onto me",
       "url": "https://open.spotify.com/track/5g4qy057kYuNSgeZ1wI2R7"
@@ -2440,6 +2462,28 @@
       "duration_ms": 260668,
       "name": "Silaha",
       "url": "https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA"
+    },
+    {
+      "album": {
+        "name": "Sioni Mbele",
+        "url": "https://open.spotify.com/album/6oCfqw1wxvrUDbD7O9Gd9c"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Clark Keeng",
+          "url": "https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183329,
+      "name": "Sioni Mbele",
+      "url": "https://open.spotify.com/track/53jDdL38b0npbH3hqxTQpM"
     },
     {
       "album": {

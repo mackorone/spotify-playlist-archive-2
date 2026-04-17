@@ -27387,6 +27387,24 @@
     },
     {
       "album": {
+        "name": "Yung Lil Face",
+        "url": "https://open.spotify.com/album/5GWqWlzSxyfSQDobIzzU4y"
+      },
+      "artists": [
+        {
+          "name": "11",
+          "url": "https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Yung Lil Face",
+      "url": "https://open.spotify.com/track/2MZLM5bhNCz2JPqcGjg2vQ"
+    },
+    {
+      "album": {
         "name": "YURARI",
         "url": "https://open.spotify.com/album/246iMfvhwWDy7qRFLKMSJL"
       },

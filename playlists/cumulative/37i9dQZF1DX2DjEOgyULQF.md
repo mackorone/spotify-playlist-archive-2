@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-437 songs - 20 hr 38 min
+438 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Sleep Shine](https://open.spotify.com/track/1NSpVywHEnNOG53Nkz3jV5) | [Hwardo Ineso](https://open.spotify.com/artist/462RWWtGvZzX3dhgZmoXgg) | [Sleep Shine](https://open.spotify.com/album/3gwXQ7jSpRBFM5qO1fqCWT) | 2:34 | 2025-07-09 | 2026-04-14 |
 | [Slow River](https://open.spotify.com/track/6Pepcvh8x9js9gD4Xq4Rh7) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Slow River](https://open.spotify.com/album/774opILeSkptANsD6z00tS) | 2:51 | 2026-04-03 |  |
 | [Slowly Stream](https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Slowly](https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo) | 3:11 | 2023-11-24 |  |
-| [Slumber](https://open.spotify.com/track/4zE3EZNDuoLabKLlvWcuBw) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Slumber](https://open.spotify.com/album/6HwXGFUGqfDeaisYykNZGw) | 2:17 | 2024-08-23 |  |
+| [Slumber](https://open.spotify.com/track/4zE3EZNDuoLabKLlvWcuBw) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Slumber](https://open.spotify.com/album/6HwXGFUGqfDeaisYykNZGw) | 2:17 | 2024-08-23 | 2026-04-17 |
 | [Soft and Secluded](https://open.spotify.com/track/3pm88ndOSvKfDbC28FGb7E) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Soft and Secluded](https://open.spotify.com/album/4EqmSSOmcAXzvtT18N3mUZ) | 3:00 | 2026-04-03 |  |
 | [Soft Lights](https://open.spotify.com/track/5wCsBYlomdTdpCMYoguRCg) | [Astral Ocean](https://open.spotify.com/artist/3bV8AeagkRMuP7GwSrK4J6) | [Soft Lights](https://open.spotify.com/album/2Xj4CDF8lq5dYHZEPCsrUd) | 3:02 | 2025-06-12 |  |
 | [Solemn Echo](https://open.spotify.com/track/5NtSWnA98CIXpE6HloLurX) | [Stormfields](https://open.spotify.com/artist/1PlgaV9zKrbKabenfaMf0C) | [Solemn Echo](https://open.spotify.com/album/4b8EHzObZBqI6KXyU3DE2g) | 2:12 | 2023-04-28 | 2025-04-21 |
@@ -384,6 +384,7 @@
 | [The Enchanted Forest](https://open.spotify.com/track/20AEQnFt9dyIwCa8Cpqhkv) | [Light Channel](https://open.spotify.com/artist/1QsSs3Pr4rV3E5ypP9Arda) | [The Enchanted Forest](https://open.spotify.com/album/4TSyvNaMQSh2DDn1kaSMcU) | 3:12 | 2023-04-28 | 2026-04-04 |
 | [The Forest Is My Friend](https://open.spotify.com/track/6VUYQlqEN5VCi2eI2hdf5r) | [Rosonance](https://open.spotify.com/artist/4SYjHr4H1LksGbBg0sXkb3), [Verdelume](https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8) | [The Forest Is My Friend](https://open.spotify.com/album/7hr89r9X0e1OrHmrscxxgl) | 2:21 | 2026-02-23 | 2026-04-04 |
 | [The Golden Path](https://open.spotify.com/track/1n6RWCdlR1noijUCeoU1bn) | [Salome Azul](https://open.spotify.com/artist/0ukN1ypDmoKy71vfx6xw1j) | [The Golden Path](https://open.spotify.com/album/2gFNaNjUKztfUjenabaluq) | 2:14 | 2026-04-03 |  |
+| [The Ground Beneath](https://open.spotify.com/track/0DLDgts6WSS6c7JW9fpDWk) | [Aurelin](https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X) | [The Ground Beneath](https://open.spotify.com/album/78rNE8rWFyf7Nv5o29c6xS) | 3:01 | 2026-04-03 |  |
 | [The Nature of Night](https://open.spotify.com/track/3aBPxsGyqG7GesgQwSmCPP) | [Oliver Hoffman](https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7) | [The Nature of Night](https://open.spotify.com/album/7hg2a7EBaV6LABrr4ZfXTM) | 3:13 | 2023-04-28 | 2025-03-06 |
 | [The Stream And It's Rippling Beauty](https://open.spotify.com/track/4Em82D0AnHc37y5m714r94) | [State Of Tranquility](https://open.spotify.com/artist/3MF7nYOg59ZVk4hYtJuIwU) | [The Stream And Its Rippling Beauty](https://open.spotify.com/album/71QnkxSIsoSUJhhN06hB6U) | 2:46 | 2025-10-24 | 2026-04-04 |
 | [The Tone Of Willingness Nature](https://open.spotify.com/track/2GgRVa0s3OhSZ49dOlfM21) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [The Tone Of Willingness](https://open.spotify.com/album/5TMPEcTcOqawK7lYsLsSh3) | 2:44 | 2023-04-28 | 2025-12-25 |

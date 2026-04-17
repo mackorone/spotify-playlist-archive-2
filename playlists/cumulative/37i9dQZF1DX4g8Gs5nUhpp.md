@@ -4,7 +4,7 @@
 
 > V\-Pop nở trên những khúc ca này\. Ảnh bìa: Hngle
 
-453 songs - 1 day 3 hr 32 min
+455 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Ai Ngoài Anh](https://open.spotify.com/track/6GM4ZOBDcDroldUxI8GZ2B) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [Triệu \(Phase 1 of 3\)](https://open.spotify.com/album/4P4Hymi1F14y3jj1wM9Zlo) | 3:19 | 2026-02-12 |  |
 | [Ai Đưa Em Về](https://open.spotify.com/track/39TAKt2hL8sdhVTFCNfm2Y) | [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt), [Le Thien Hieu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ai Đưa Em Về](https://open.spotify.com/album/1wkAoUayWVlX0ayIbiWlCq) | 3:53 | 2022-07-27 | 2023-05-30 |
 | [Ai Đưa Em Về](https://open.spotify.com/track/4iDyFW4a7iCJh2VqSpwGQz) | [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt), [Le Thien Hieu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ai Đưa Em Về](https://open.spotify.com/album/3g4UhKs9pmkiJiLytUv9nB) | 3:53 | 2022-05-27 | 2022-07-29 |
-| [Ai Đưa Em Về](https://open.spotify.com/track/7LTdc7R99Q9sHlD3I0e10t) | [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt), [Lê Thiện Hiếu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ai Đưa Em Về](https://open.spotify.com/album/6LgVrcjpVQJv9nPJ7vGBw9) | 3:53 | 2026-04-16 |  |
+| [Ai Đưa Em Về](https://open.spotify.com/track/7LTdc7R99Q9sHlD3I0e10t) | [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt), [Lê Thiện Hiếu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ai Đưa Em Về](https://open.spotify.com/album/6LgVrcjpVQJv9nPJ7vGBw9) | 3:53 | 2026-04-16 | 2026-04-17 |
+| [Ai đưa em về \(Cukak Remix\)](https://open.spotify.com/track/1I00yDXQKeUfYg2HOpGC8B) | [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt), [Lê Thiện Hiếu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab), [Cukak](https://open.spotify.com/artist/3swW6OR2g7qTY3626sqVW4) | [Ai đưa em về \(Cukak Remix\)](https://open.spotify.com/album/1Z6QGkFdyxh6wnLf7gOUDH) | 3:50 | 2026-04-16 |  |
 | [AMEE chúc Tết](https://open.spotify.com/track/5VJBWMfTyfpwvYESxRIPns) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:26 | 2025-01-23 | 2025-02-12 |
 | [Anh Chưa Thương Em Đến Vậy Đâu](https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tập 12: The Masked Singer Vietnam](https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA) | 4:30 | 2023-01-11 | 2025-01-24 |
 | [Anh Chẳng Thể](https://open.spotify.com/track/3c8s2bCBk3cn8Taete6Q5B) | [Phạm Kỳ](https://open.spotify.com/artist/3yCPgp6ckDEqBUQnybWeTm) | [Anh Chẳng Thể](https://open.spotify.com/album/02d8ze0zMLjXziyKr7Fbol) | 3:35 | 2025-07-28 | 2025-09-24 |
@@ -243,6 +244,7 @@
 | [Mời Anh Vào Team Em](https://open.spotify.com/track/4fx2Hs100AuN9qPsFj3fW7) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [Mời Anh Vào Team Em](https://open.spotify.com/album/0qnWAQh9eqFA7JGjznCJE0) | 3:15 | 2024-05-26 | 2024-06-17 |
 | [Ngàn Năm Ánh Sáng](https://open.spotify.com/track/4nyoalDFgUaZOzIKqj3aS5) | [Đặng Vĩnh Thịnh](https://open.spotify.com/artist/5HoKHEC3OTaMgMDnCqc00B), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m), [Nguyễn Trung Đức](https://open.spotify.com/artist/0AOAMHZgHaxM71om8IDGsv) | [Ngàn Năm Ánh Sáng](https://open.spotify.com/album/2csmfc6jgCbjPuSzHmrOqP) | 3:34 | 2025-10-26 |  |
 | [Ngày Này, Người Con Gái Này](https://open.spotify.com/track/4ElFTH8hqX7XkzRbCtktfi) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Ngày Này, Người Con Gái Này](https://open.spotify.com/album/7J1wfogVQNgDoiZFaOJIij) | 4:15 | 2025-02-16 | 2025-04-14 |
+| [Ngày Rời Chuyến Bay](https://open.spotify.com/track/73RcFjiDtStfP3GCW44vJu) | [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK), [Pinny](https://open.spotify.com/artist/3qkLndunlLATOqHJeefh7J) | [Ngày Rời Chuyến Bay](https://open.spotify.com/album/7FSNmHkCRQNdiwzvLCV0FV) | 3:49 | 2026-04-16 |  |
 | [Ngày Đầu Sau Chia Tay](https://open.spotify.com/track/6xKs4CnVadRzdNZ48vhT27) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Ngày Đầu Sau Chia Tay](https://open.spotify.com/album/6XbpwMft3xRSeR2YNjTmGO) | 4:36 | 2024-06-23 | 2025-01-21 |
 | [Ngày Đầu Tiên](https://open.spotify.com/track/5Msoarj5hk9LguTtiIyqug) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Ngày Đầu Tiên](https://open.spotify.com/album/2vki9hRAipW0SbK0A0c92W) | 3:28 | 2022-05-27 | 2023-05-30 |
 | [Ngày Đẹp Trời Để Nói Chia Tay](https://open.spotify.com/track/3Alwi53Ahc2GwHgvel42b2) | [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Ngày Đẹp Trời Để Nói Chia Tay](https://open.spotify.com/album/3iFlB14QgBcKFkaChZ9cYq) | 3:40 | 2024-06-18 | 2025-01-24 |

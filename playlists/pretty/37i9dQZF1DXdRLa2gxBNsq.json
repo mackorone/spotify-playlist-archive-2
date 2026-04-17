@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 115244,
+  "num_followers": 115261,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "La Buena M\u00fasica",
-        "url": "https://open.spotify.com/album/4MsDjFy2xpRc7t7Iakglr6"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 177421,
-      "name": "La Buena M\u00fasica",
-      "url": "https://open.spotify.com/track/09Y2rADdCOBtv7N1LBRNTx"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Bienvenidos a Occidente",
         "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 254946,
       "name": "Prefiero Caminar",
       "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "La Buena M\u00fasica",
+        "url": "https://open.spotify.com/album/4MsDjFy2xpRc7t7Iakglr6"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 177421,
+      "name": "La Buena M\u00fasica",
+      "url": "https://open.spotify.com/track/09Y2rADdCOBtv7N1LBRNTx"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -731,6 +731,26 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
+        "name": "Discobolo",
+        "url": "https://open.spotify.com/album/4RJ2f70YrdG7cGVJ2IgYFU"
+      },
+      "artists": [
+        {
+          "name": "Manolo Kabezabolo",
+          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+        },
+        {
+          "name": "Parabellum",
+          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+        }
+      ],
+      "duration_ms": 135626,
+      "name": "Pogo",
+      "url": "https://open.spotify.com/track/2Bs5xnNBDiKuWhX2LFxpoc"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
         "name": "Camino hacia la ruina",
         "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 303419,
       "name": "Como me ense\u00f1\u00f3 mam\u00e1",
       "url": "https://open.spotify.com/track/0TXGJCvgupEcblOv4YNHE3"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "Discobolo",
-        "url": "https://open.spotify.com/album/4RJ2f70YrdG7cGVJ2IgYFU"
-      },
-      "artists": [
-        {
-          "name": "Manolo Kabezabolo",
-          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
-        },
-        {
-          "name": "Parabellum",
-          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
-        }
-      ],
-      "duration_ms": 135626,
-      "name": "Pogo",
-      "url": "https://open.spotify.com/track/2Bs5xnNBDiKuWhX2LFxpoc"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -819,6 +819,26 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
+        "name": "Cuando nadie est\u00e1",
+        "url": "https://open.spotify.com/album/73xTP1HKA5FXLy7v60hBHn"
+      },
+      "artists": [
+        {
+          "name": "Kamikazes",
+          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
+        },
+        {
+          "name": "Free City",
+          "url": "https://open.spotify.com/artist/1LcREmgvQNtlFFkYyIUua0"
+        }
+      ],
+      "duration_ms": 199750,
+      "name": "Cuando nadie est\u00e1",
+      "url": "https://open.spotify.com/track/06rI6RWVN6mRIqEJJ9AYdE"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
         "name": "Putos Nazis",
         "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
       },
@@ -855,26 +875,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Cuando nadie est\u00e1",
-        "url": "https://open.spotify.com/album/73xTP1HKA5FXLy7v60hBHn"
-      },
-      "artists": [
-        {
-          "name": "Kamikazes",
-          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
-        },
-        {
-          "name": "Free City",
-          "url": "https://open.spotify.com/artist/1LcREmgvQNtlFFkYyIUua0"
-        }
-      ],
-      "duration_ms": 199750,
-      "name": "Cuando nadie est\u00e1",
-      "url": "https://open.spotify.com/track/06rI6RWVN6mRIqEJJ9AYdE"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Garrote Vil",
         "url": "https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 105386,
       "name": "Jubilaci\u00f3n a los 18",
       "url": "https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "A Bocajarro + Sopla Sopla",
+        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
+      },
+      "artists": [
+        {
+          "name": "Tijuana in blue",
+          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
+        }
+      ],
+      "duration_ms": 289367,
+      "name": "Maki Navaja, El \u00daltimo Chorisso",
+      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -915,22 +931,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "A Bocajarro + Sopla Sopla",
-        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
-      },
-      "artists": [
-        {
-          "name": "Tijuana in blue",
-          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
-        }
-      ],
-      "duration_ms": 289367,
-      "name": "Maki Navaja, El \u00daltimo Chorisso",
-      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Sudapollismo Ilustrado",
         "url": "https://open.spotify.com/album/4vkp4b9gVT5Lg8E5ppkLsr"
       },
@@ -943,26 +943,6 @@
       "duration_ms": 190426,
       "name": "Sudapollismo Ilustrado",
       "url": "https://open.spotify.com/track/0BB5RNNNGtHfkYIP0EyQt6"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "O Mundo Toleou",
-        "url": "https://open.spotify.com/album/0SGKBiTKEXGACMk9mepESk"
-      },
-      "artists": [
-        {
-          "name": "Residuos Do Sistema",
-          "url": "https://open.spotify.com/artist/3jQFONl2KOkCENGhDnJzWo"
-        },
-        {
-          "name": "Soak",
-          "url": "https://open.spotify.com/artist/1sFx9AKYzR2OQYrUin52Pa"
-        }
-      ],
-      "duration_ms": 218227,
-      "name": "O Mundo Toleou",
-      "url": "https://open.spotify.com/track/0L3iUfeunkRbkftq1ZnYsA"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -995,6 +975,26 @@
       "duration_ms": 148000,
       "name": "Ni una Sola Palabra",
       "url": "https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "O Mundo Toleou",
+        "url": "https://open.spotify.com/album/0SGKBiTKEXGACMk9mepESk"
+      },
+      "artists": [
+        {
+          "name": "Residuos Do Sistema",
+          "url": "https://open.spotify.com/artist/3jQFONl2KOkCENGhDnJzWo"
+        },
+        {
+          "name": "Soak",
+          "url": "https://open.spotify.com/artist/1sFx9AKYzR2OQYrUin52Pa"
+        }
+      ],
+      "duration_ms": 218227,
+      "name": "O Mundo Toleou",
+      "url": "https://open.spotify.com/track/0L3iUfeunkRbkftq1ZnYsA"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Noches sin Luna",
-        "url": "https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK"
-      },
-      "artists": [
-        {
-          "name": "La Mercury Punk",
-          "url": "https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo"
-        }
-      ],
-      "duration_ms": 259310,
-      "name": "Noches sin Luna",
-      "url": "https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "ANTIFASCISTA",
         "url": "https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 273052,
       "name": "ANTIFASCISTA",
       "url": "https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Noches sin Luna",
+        "url": "https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK"
+      },
+      "artists": [
+        {
+          "name": "La Mercury Punk",
+          "url": "https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo"
+        }
+      ],
+      "duration_ms": 259310,
+      "name": "Noches sin Luna",
+      "url": "https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
+        "name": "Molestar",
+        "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 158074,
+      "name": "Molestar",
+      "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
         "name": "Una y Nos Vamos (Versi\u00f3n 2024)",
         "url": "https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 220942,
       "name": "Una y Nos Vamos - Versi\u00f3n 2024",
       "url": "https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "Molestar",
-        "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
-      },
-      "artists": [
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 158074,
-      "name": "Molestar",
-      "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
     },
     {
       "added_at": "2026-04-09 22:00:22",

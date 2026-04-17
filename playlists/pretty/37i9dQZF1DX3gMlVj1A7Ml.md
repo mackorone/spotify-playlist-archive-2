@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă la volum maxim vocile feminine din România și piesele alese de editorii noștri\. Cover: EMAA
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,824 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,838 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 49 | [Poate](https://open.spotify.com/track/6kJA7pcwujyeYab8jb8t4r) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym) | [Poate](https://open.spotify.com/album/27iOpF43g5EboHsuvKYzyB) | 2:43 |
 | 50 | [Cine Are](https://open.spotify.com/track/7KJKB9QLrdomMvtQdsPN2C) | [Tania Turtureanu](https://open.spotify.com/artist/74ZQ7MCBPLLsG0jHpddrai) | [Cine Are](https://open.spotify.com/album/4MAlOSU21ZW3uoVCSRMF0A) | 3:18 |
 
-Snapshot ID: `AAAAAGPpxz3JxIzxUu+Vj0wC25EKe3wv`
+Snapshot ID: `AAAAAPCgU+hv1QkY/0P7E1E1NbL02n8P`

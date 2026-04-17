@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- United Kingdom.
 
-669 songs - 1 day 12 hr 14 min
+670 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 | 2025-10-27 | 2026-01-24 |
 | [404 \(New Era\)](https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8) | 2:59 | 2026-02-23 | 2026-03-29 |
 | [404 \(New Era\)](https://open.spotify.com/track/7Dgh6z47wLzI5wikmGsYC3) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/09YZd8EhjQjGDJbc8EUuKq) | 2:59 | 2026-02-12 | 2026-02-24 |
-| [500 Miles](https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Peter, Paul and Mary](https://open.spotify.com/album/1cRbbPxFMpHFeYIkLqqzBo) | 2:42 | 2026-02-22 | 2026-04-15 |
+| [500 Miles](https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Peter, Paul and Mary](https://open.spotify.com/album/1cRbbPxFMpHFeYIkLqqzBo) | 2:42 | 2026-02-22 |  |
 | [67 Merry Rizzmas](https://open.spotify.com/track/3XDIoxXcu2DcuygJ47Axab) | [Goji Georgie](https://open.spotify.com/artist/0mY93TwquAvEjUZOPbVSlg) | [67 Merry Rizzmas](https://open.spotify.com/album/3M9tJ9aUDvuhRPPdcGlFPd) | 1:19 | 2025-12-17 | 2025-12-20 |
 | [99 Eyes](https://open.spotify.com/track/2kWwTQdFg2Phlu5grf9bQg) | [Daydream Affiliate](https://open.spotify.com/artist/367fs93DnQD5h2QQEFZioV) | [99 Eyes](https://open.spotify.com/album/0nmQxTbmZUI5uzva3xIA9L) | 2:34 | 2025-12-09 | 2025-12-24 |
 | [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 | 2025-10-27 | 2025-10-29 |
@@ -98,8 +98,9 @@
 | [Can't Go Back](https://open.spotify.com/track/2MjUXeQsfJAFhSXvpojmQX) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues) | [Can't Go Back](https://open.spotify.com/album/41bWxmg2OBhUMmqOIiujgq) | 2:35 | 2026-02-27 | 2026-03-04 |
 | [Card Declined \(Brimful of Asha\)](https://open.spotify.com/track/1KCtSFsSn9khPDhM4cdGm9) | [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Card Declined \(Brimful of Asha\)](https://open.spotify.com/album/0TU7fkJIagDONaPvWu3DE1) | 2:32 | 2025-10-27 | 2025-11-02 |
 | [Carnival](https://open.spotify.com/track/4TfmXkmAqtiq1ixe5PT5kX) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Carnival](https://open.spotify.com/album/7rbWFdSpf8wyUpkOb7vvD6) | 1:44 | 2025-12-24 | 2025-12-31 |
-| [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 | 2026-04-14 |  |
+| [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 | 2026-04-14 | 2026-04-17 |
 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-31 |  |
+| [Celebrate Me](https://open.spotify.com/track/2i2hd5SXypE3DL3440L2hB) | [IngaRose](https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1) | [Celebrate Me](https://open.spotify.com/album/1jSedaP3OdRCyHq110m3f6) | 3:37 | 2026-04-16 |  |
 | [Century](https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Century](https://open.spotify.com/album/3iEInaFAamSTND6sovehX7) | 1:49 | 2025-11-18 | 2026-01-15 |
 | [Chains of Love](https://open.spotify.com/track/77qLAmRzMPetmXywybpH15) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 2:50 | 2026-02-17 | 2026-03-08 |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-11-20 | 2026-01-04 |
@@ -181,7 +182,7 @@
 | [Falling Slow](https://open.spotify.com/track/7GIn0rqyXLGXePQJChyzMU) | [Sienna Rose](https://open.spotify.com/artist/6wq8iklwcF2dj0jtMpPvOJ) | [Velvet Embrace](https://open.spotify.com/album/3089DTFGUlcMRefJTAsM70) | 3:38 | 2026-01-26 | 2026-01-28 |
 | [Famous Girl](https://open.spotify.com/track/5t5Y97MUjjhE5gKDTIfPVK) | [Beaux Neptune](https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj) | [Famous Girl](https://open.spotify.com/album/3mKDWLSxPG9d0qGtXRlsKL) | 3:20 | 2025-11-05 | 2025-11-13 |
 | [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 | 2025-10-27 | 2025-11-02 |
-| [FATHER \(feat\. Travis Scott\)](https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 2:49 | 2026-04-14 |  |
+| [FATHER \(feat\. Travis Scott\)](https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 2:49 | 2026-04-14 | 2026-04-17 |
 | [FDO](https://open.spotify.com/track/5YbDA37CN0YcgZXF6L2cBX) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [FDO](https://open.spotify.com/album/2ME0R7wx6jnHudplZAG2be) | 5:19 | 2025-12-30 | 2026-01-02 |
 | [FEAR](https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 4:28 | 2025-12-02 | 2025-12-10 |
 | [Feel What You Want \(2020 Remaster\) \- Our Tribe Vocal Mix](https://open.spotify.com/track/0qaLvkeb8ZLN7CB1ReQ6Oi) | [Kristine W](https://open.spotify.com/artist/3tY3dHLP0MmkYwPhNVOU0x), [Our Tribe](https://open.spotify.com/artist/6yjXAxk6PPY0a917KobNNu) | [Champion Classics \(35th Anniversary Album\) Part 1 mixed & compiled by StoneBridge](https://open.spotify.com/album/6KWVViKxrLMGZE3PRbwkJN) | 5:28 | 2026-01-26 | 2026-02-22 |

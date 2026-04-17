@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Alies, Zuna
 
-367 songs - 16 hr 37 min
+368 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Freunde > Feinde](https://open.spotify.com/track/0XGx9mHPqPU1m9oPYnPPdc) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf), [Zackavelli](https://open.spotify.com/artist/3NSdRHaVCc4BOF0sbkgvZk) | [Farben](https://open.spotify.com/album/5SWddhongXa7QPNmKdSPNR) | 3:34 | 2026-02-12 |  |
 | [Frieden](https://open.spotify.com/track/2O8k1wqMQ0HlfYUO8c4HQR) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Frieden](https://open.spotify.com/album/6KChMYkGsRpK2xmq24Eiut) | 3:37 | 2025-03-03 | 2026-03-23 |
 | [Frühling im Viertel 2.0 \(feat\. Kane\)](https://open.spotify.com/track/5jtca751346RjMOjNh4M0P) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Frühling im Viertel 2.0 \(feat\. Kane\)](https://open.spotify.com/album/0rZurbCu8FvjKe1tZRMlnx) | 2:40 | 2025-08-28 |  |
+| [fuego](https://open.spotify.com/track/73xl6z80ICsdmciiizTq4z) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [fuego](https://open.spotify.com/album/1kRigIQQUKqo0gZnPGGmSa) | 2:20 | 2026-04-09 |  |
 | [FULL IN LOVE](https://open.spotify.com/track/1P8sXHNdNth4EMXDNk757U) | [PaulK](https://open.spotify.com/artist/721tVsXwxU1C96H1BQM5P6), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [FULL IN LOVE](https://open.spotify.com/album/0oZq7hPUvt8RU882s0Vvzt) | 3:30 | 2025-04-24 | 2025-09-15 |
 | [Für immer](https://open.spotify.com/track/5GHiHUrlsLfE6EM7N0LkPI) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Fahrt ins Blaue](https://open.spotify.com/album/2XxZIwmuF0vBZr1pJBDey1) | 2:52 | 2026-03-30 |  |
 | [Für immer](https://open.spotify.com/track/3801V1ff6WknMMJAGmW1ON) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5) | [Für immer](https://open.spotify.com/album/6tPWvKqXiCNNQ8IZ17nXvO) | 2:32 | 2025-11-27 | 2026-03-11 |
@@ -240,7 +241,7 @@
 | [NaNa](https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [NaNa](https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69) | 2:21 | 2024-06-28 | 2025-04-13 |
 | [Narben](https://open.spotify.com/track/2Y0H8oWAJzDpkMIb9sEKTK) | [yAN](https://open.spotify.com/artist/15dImMpI2Fu5LwzhpcLHW9) | [Narben](https://open.spotify.com/album/3WL1zqCZ7ClKg9fjaaNQQo) | 2:38 | 2025-01-20 | 2025-02-28 |
 | [Nicht Perfekt](https://open.spotify.com/track/2a4V6o8HRSWtKB6vqsbFZN) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Nicht Perfekt](https://open.spotify.com/album/1mZwJkUMW0LbSwru2fbnG0) | 2:59 | 2025-03-24 | 2025-08-11 |
-| [Nie wieder](https://open.spotify.com/track/2biArscoLJQm00Xy26kVOu) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Nie wieder](https://open.spotify.com/album/1fMb9dmgvavzElRNoAtjRC) | 2:59 | 2025-07-17 |  |
+| [Nie wieder](https://open.spotify.com/track/2biArscoLJQm00Xy26kVOu) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Nie wieder](https://open.spotify.com/album/1fMb9dmgvavzElRNoAtjRC) | 2:59 | 2025-07-17 | 2026-04-17 |
 | [Nie wieder](https://open.spotify.com/track/6HENsmG5BVQpVaewDUTlqq) | [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e), [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [Nie wieder](https://open.spotify.com/album/4n17pN1bg08cqAMnogswkY) | 2:36 | 2026-01-30 |  |
 | [nie wieder normal](https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [nie wieder normal](https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav) | 3:17 | 2024-06-28 |  |
 | [Nie wieder sehen](https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Nie wieder sehen](https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY) | 2:41 | 2024-06-28 | 2025-07-03 |

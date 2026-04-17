@@ -1097,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "2026 freestyle",
+        "url": "https://open.spotify.com/album/0CDwcPSVqDKxUBcDPNEWot"
+      },
+      "artists": [
+        {
+          "name": "018",
+          "url": "https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129683,
+      "name": "2026 freestyle",
+      "url": "https://open.spotify.com/track/549qWufvFkKj72zVK440VF"
+    },
+    {
+      "album": {
         "name": "21\u221e",
         "url": "https://open.spotify.com/album/72K3gsBWFNQSXjSWdwqw84"
       },

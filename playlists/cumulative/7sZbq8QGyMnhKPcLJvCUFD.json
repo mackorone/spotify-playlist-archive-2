@@ -2599,6 +2599,28 @@
     },
     {
       "album": {
+        "name": "CERBERUS",
+        "url": "https://open.spotify.com/album/2AgN9TGZmxADMJxsfcPTGx"
+      },
+      "artists": [
+        {
+          "name": "TANTRON",
+          "url": "https://open.spotify.com/artist/6HTp9Q7rmHmQjatn98BLAi"
+        },
+        {
+          "name": "More Plastic",
+          "url": "https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210085,
+      "name": "CERBERUS",
+      "url": "https://open.spotify.com/track/3tOtHXtNW0aE9e2GMHuHsK"
+    },
+    {
+      "album": {
         "name": "Cereb",
         "url": "https://open.spotify.com/album/201kszqcsGij86IBeZvFnj"
       },

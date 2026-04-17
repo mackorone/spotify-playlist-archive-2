@@ -5676,7 +5676,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 201722,
       "name": "The Matrix",
       "url": "https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG"
@@ -6022,6 +6022,24 @@
       "duration_ms": 236933,
       "name": "Typhoons",
       "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
+    },
+    {
+      "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/4iG8D4tZShUn8DpFvVDQEw"
+      },
+      "artists": [
+        {
+          "name": "Betcha",
+          "url": "https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173202,
+      "name": "Unaffected",
+      "url": "https://open.spotify.com/track/0ZC23Lr1ZJPeCwUKwIi1ZN"
     },
     {
       "album": {

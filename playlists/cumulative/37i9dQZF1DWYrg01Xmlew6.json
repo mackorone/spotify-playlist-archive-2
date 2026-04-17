@@ -5535,6 +5535,24 @@
     },
     {
       "album": {
+        "name": "LOCO",
+        "url": "https://open.spotify.com/album/37gg7kaGWbOLVjLKMLKrwG"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124528,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/0LRn7PREPQewuKuiHTRC6T"
+    },
+    {
+      "album": {
         "name": "Lonely (feat. Christian Revo)",
         "url": "https://open.spotify.com/album/2nAjv2gB9U51oIJB0h2yLz"
       },
@@ -5946,7 +5964,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 137676,
       "name": "MALAGA MULAGA",
       "url": "https://open.spotify.com/track/2p7wP3E4iwfxCuyGJ6ROV1"
@@ -7176,7 +7194,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 168437,
       "name": "NATI X SBAGLIO",
       "url": "https://open.spotify.com/track/63VRTX462G3lNL1icN5StH"
@@ -8283,6 +8301,24 @@
     },
     {
       "album": {
+        "name": "P tutt a vit",
+        "url": "https://open.spotify.com/album/52lujTZeOxzH9RlDo1z50L"
+      },
+      "artists": [
+        {
+          "name": "El Chapo Junior",
+          "url": "https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "P tutt a vit",
+      "url": "https://open.spotify.com/track/01tyjGbDTG63iQrLsOWyfP"
+    },
+    {
+      "album": {
         "name": "PACTO",
         "url": "https://open.spotify.com/album/69PGHUPMp7FPMND7IMZKnm"
       },
@@ -8312,7 +8348,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 130740,
       "name": "PALLONE D'ORO",
       "url": "https://open.spotify.com/track/59c0GDpHk94wvhUzka53xH"
@@ -8568,6 +8604,24 @@
       "duration_ms": 165721,
       "name": "Password",
       "url": "https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil"
+    },
+    {
+      "album": {
+        "name": "PAZZO",
+        "url": "https://open.spotify.com/album/3t0ai6LhFismBULaEDfu3O"
+      },
+      "artists": [
+        {
+          "name": "Lefar",
+          "url": "https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "PAZZO",
+      "url": "https://open.spotify.com/track/0BcM8rOBC1rBm3WofkRJaD"
     },
     {
       "album": {
@@ -9432,6 +9486,28 @@
       "duration_ms": 152250,
       "name": "PUSH!",
       "url": "https://open.spotify.com/track/3M1shvccYsWzWk0HW5uGTU"
+    },
+    {
+      "album": {
+        "name": "QUADRANTE (feat. Im Envy)",
+        "url": "https://open.spotify.com/album/6DAM2HDcA8cmtvoXXQYaSI"
+      },
+      "artists": [
+        {
+          "name": "Rue Diego",
+          "url": "https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F"
+        },
+        {
+          "name": "Im Envy",
+          "url": "https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130800,
+      "name": "QUADRANTE (feat. Im Envy)",
+      "url": "https://open.spotify.com/track/04hnG0Qr3ReeB8htSZxx5L"
     },
     {
       "album": {

@@ -5939,6 +5939,32 @@
     },
     {
       "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/3HpHW9r9grbAHVflpDttMU"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/64RtBPP0NXkUA0N79pDE4P"
+    },
+    {
+      "album": {
         "name": "Dread",
         "url": "https://open.spotify.com/album/7fURpnftVkIFjUMtm2IMe8"
       },

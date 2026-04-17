@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,744 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,814 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 38 | [proszę pana](https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [proszę pana](https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7) | 2:10 |
 | 39 | [PAMIĘTAJ](https://open.spotify.com/track/5xGpJoxIzALCGEVreG4KoW) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg) | [PAMIĘTAJ](https://open.spotify.com/album/3FWEcL3khaOowLFFzgNDLE) | 2:48 |
 | 40 | [Pierwszy raz](https://open.spotify.com/track/2ihiNri1NnpPqce4TbC9xE) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Znajdź mnie w tym](https://open.spotify.com/album/3ejpPh0fWw2YEzyd2Rl17R) | 2:49 |
-| 41 | [Dom](https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza) | [Krystian Embradora](https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z) | [Dom](https://open.spotify.com/album/5la4J8vKDZwNe4wvh8e4Cr) | 2:34 |
-| 42 | [Dotknij](https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx) | [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Dotknij](https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh) | 2:34 |
-| 43 | [kto jak nie my](https://open.spotify.com/track/5rNlHvLzdWxWUPX2oPGv0B) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [kto jak nie my](https://open.spotify.com/album/32CQm6plS0cfSSfvomyqn0) | 2:35 |
-| 44 | [na zabój](https://open.spotify.com/track/4s6TSLuS5vJv1tmSSSuCXk) | [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [Alien BSC](https://open.spotify.com/artist/33wR1nI0o5pJgyl4ft8BWT), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [na zabój](https://open.spotify.com/album/7MINDF0PK3Jj9Rp2yJAPaj) | 3:45 |
+| 41 | [Dotknij](https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx) | [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Dotknij](https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh) | 2:34 |
+| 42 | [na zabój](https://open.spotify.com/track/4s6TSLuS5vJv1tmSSSuCXk) | [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [Alien BSC](https://open.spotify.com/artist/33wR1nI0o5pJgyl4ft8BWT), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [na zabój](https://open.spotify.com/album/7MINDF0PK3Jj9Rp2yJAPaj) | 3:45 |
+| 43 | [Dom](https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza) | [Krystian Embradora](https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z) | [Dom](https://open.spotify.com/album/5la4J8vKDZwNe4wvh8e4Cr) | 2:34 |
+| 44 | [kto jak nie my](https://open.spotify.com/track/5rNlHvLzdWxWUPX2oPGv0B) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [kto jak nie my](https://open.spotify.com/album/32CQm6plS0cfSSfvomyqn0) | 2:35 |
 | 45 | [SEN](https://open.spotify.com/track/1Gc4ROFZUlEupmjMGKLSe2) | [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl), [Paulina Chmura](https://open.spotify.com/artist/4nq9i2sLDlG3BrVvEvwnH7), [20tune](https://open.spotify.com/artist/6n5vxeBa60Rm5Bv2QNUtEZ), [SZAJUR](https://open.spotify.com/artist/253rVwZnTeAXcpYSFwy13A) | [SEN](https://open.spotify.com/album/0cpR457cV80VWCBN46aFDS) | 3:01 |
 | 46 | [A Nuż](https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv) | [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Światłocienie EP](https://open.spotify.com/album/2gT5d3yzS9w4wLEOiKLrKw) | 2:41 |
 | 47 | [Miłość itd.](https://open.spotify.com/track/7BfQIV2V28FVblkqVegwnj) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Miłość itd.](https://open.spotify.com/album/4LNqtIipHftDkT0ZnFUK58) | 4:14 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 52 | [TOKSYNA](https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ) | [Aron x Krux](https://open.spotify.com/artist/3bEHrOv4S7ITrX3PAt4HwP), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Bajorson](https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS) | [TOKSYNA](https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF) | 3:36 |
 | 53 | [jet lag](https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [jet lag](https://open.spotify.com/album/0T5gxTSQ6mwKCAY19q4Z8p) | 3:21 |
 | 54 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 |
-| 55 | [Ciebie brak](https://open.spotify.com/track/1jQSDt9npU5n6HEfCKsokt) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [SALON](https://open.spotify.com/album/19oOJv14gKILUG9Re8O7SW) | 3:18 |
-| 56 | [Muzyka pop](https://open.spotify.com/track/5R0i3UmUiz7dQjzECeFPwt) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Muzyka pop](https://open.spotify.com/album/0xLwcioIso3I9TpCYinABA) | 4:13 |
+| 55 | [Muzyka pop](https://open.spotify.com/track/5R0i3UmUiz7dQjzECeFPwt) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Muzyka pop](https://open.spotify.com/album/0xLwcioIso3I9TpCYinABA) | 4:13 |
+| 56 | [Ciebie brak](https://open.spotify.com/track/1jQSDt9npU5n6HEfCKsokt) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [SALON](https://open.spotify.com/album/19oOJv14gKILUG9Re8O7SW) | 3:18 |
 | 57 | [Hot!](https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hot!](https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0) | 2:45 |
-| 58 | [Brightest Light](https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp) | [Marianna Kłos](https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc) | [Brightest Light](https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h) | 3:00 |
-| 59 | [Więcej nas](https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh), [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Więcej nas](https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx) | 3:01 |
-| 60 | [Hiroszima, mon amour](https://open.spotify.com/track/3gMwIRYyZV3hpE5WhBCkNQ) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Niesamowita Trupa Pana Hiroszimy](https://open.spotify.com/album/0keblXeuVMoglZxtBUGYfE) | 3:31 |
+| 58 | [Więcej nas](https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh), [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Więcej nas](https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx) | 3:01 |
+| 59 | [Brightest Light](https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp) | [Marianna Kłos](https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc) | [Brightest Light](https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h) | 3:00 |
+| 60 | [Ciszej](https://open.spotify.com/track/6aZayI481YYsBFERs1a0UG) | [Linia Nocna](https://open.spotify.com/artist/6ASsF4ZKpJlpeRF7HarDfe) | [Ciszej](https://open.spotify.com/album/02gdMVpWIJtHi393VT1gbC) | 2:28 |
 
 Snapshot ID: `AAAAAAYXEZsGr0UY1FXa74jOeVSy76u+`

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 439958,
+  "num_followers": 440021,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "brb",
         "url": "https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 156478,
       "name": "brb",
       "url": "https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
+        "name": "Fading Forward",
+        "url": "https://open.spotify.com/album/6nTysmAKuGBgaaHj8hfMy7"
+      },
+      "artists": [
+        {
+          "name": "Les Imprim\u00e9s",
+          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
+        }
+      ],
+      "duration_ms": 186178,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/6NOUlMbo6c3XXFC5kmuHIw"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
         "name": "Boredom (Demo 2015)",
         "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 228173,
       "name": "The Echo & The Shadow",
       "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
-        "name": "Fading Forward",
-        "url": "https://open.spotify.com/album/6nTysmAKuGBgaaHj8hfMy7"
-      },
-      "artists": [
-        {
-          "name": "Les Imprim\u00e9s",
-          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
-        }
-      ],
-      "duration_ms": 186178,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/6NOUlMbo6c3XXFC5kmuHIw"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "SANGRE SUCIA",
-        "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngeles Toledano",
-          "url": "https://open.spotify.com/artist/4E1RSsrjfViRShEG4r0ofW"
-        }
-      ],
-      "duration_ms": 224132,
-      "name": "ERES GUAPA (\u273f\u00b4\u203f`) - Taranta",
-      "url": "https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "No tenemos tiempo",
         "url": "https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 212571,
       "name": "No tenemos tiempo",
       "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "SANGRE SUCIA",
+        "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngeles Toledano",
+          "url": "https://open.spotify.com/artist/4E1RSsrjfViRShEG4r0ofW"
+        }
+      ],
+      "duration_ms": 224132,
+      "name": "ERES GUAPA (\u273f\u00b4\u203f`) - Taranta",
+      "url": "https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
+        "name": "\u00c1rboles",
+        "url": "https://open.spotify.com/album/6VzEPYcEHxMZssFe1b9vXW"
+      },
+      "artists": [
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "\u00c1rboles",
+      "url": "https://open.spotify.com/track/7ifZcrE6kGBTXOT4ypxqqS"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
         "name": "I Feel Good",
         "url": "https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 229253,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
-        "name": "\u00c1rboles",
-        "url": "https://open.spotify.com/album/6VzEPYcEHxMZssFe1b9vXW"
-      },
-      "artists": [
-        {
-          "name": "MO\u00dcGLI",
-          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "\u00c1rboles",
-      "url": "https://open.spotify.com/track/7ifZcrE6kGBTXOT4ypxqqS"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Consid\u00e9rame",
-        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Consid\u00e9rame",
-      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "em plou a dins",
         "url": "https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 176288,
       "name": "em plou a dins",
       "url": "https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Consid\u00e9rame",
+        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Consid\u00e9rame",
+      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Tan brillant",
-        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
-      },
-      "artists": [
-        {
-          "name": "Renaldo & Clara",
-          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "Tan brillant",
-      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
         "url": "https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 200696,
       "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
       "url": "https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Tan brillant",
+        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
+      },
+      "artists": [
+        {
+          "name": "Renaldo & Clara",
+          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "Tan brillant",
+      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
+        "name": "1 Dolor",
+        "url": "https://open.spotify.com/album/7gXbL0h3fgN9iThK5cypAG"
+      },
+      "artists": [
+        {
+          "name": "Suave",
+          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
+        },
+        {
+          "name": "Junnio",
+          "url": "https://open.spotify.com/artist/1sLvo7ClsDMTBrFe8aTzF6"
+        }
+      ],
+      "duration_ms": 186737,
+      "name": "1 Dolor",
+      "url": "https://open.spotify.com/track/6lNBceAGdl6t9slEQQc9UC"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
         "name": "Ada Road",
         "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
       },
@@ -1727,26 +1747,6 @@
       "duration_ms": 162774,
       "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
       "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
-        "name": "1 Dolor",
-        "url": "https://open.spotify.com/album/7gXbL0h3fgN9iThK5cypAG"
-      },
-      "artists": [
-        {
-          "name": "Suave",
-          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
-        },
-        {
-          "name": "Junnio",
-          "url": "https://open.spotify.com/artist/1sLvo7ClsDMTBrFe8aTzF6"
-        }
-      ],
-      "duration_ms": 186737,
-      "name": "1 Dolor",
-      "url": "https://open.spotify.com/track/6lNBceAGdl6t9slEQQc9UC"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -2131,22 +2131,18 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW"
+        "name": "La jugada maestra",
+        "url": "https://open.spotify.com/album/46HNGax06gtSaaHdXqEgFn"
       },
       "artists": [
         {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        },
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+          "name": "Amateur",
+          "url": "https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2"
         }
       ],
-      "duration_ms": 199746,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
+      "duration_ms": 328960,
+      "name": "La jugada maestra",
+      "url": "https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A"
     }
   ],
   "unique_name": "Relax en casa",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Luna Morgenstern, girl_irl",
+  "description": "New music off the beaten track. Cover: Digitalism",
   "name": "OFF POP",
   "tracks": [
     {
@@ -3932,7 +3932,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 240661,
       "name": "chrysalis",
       "url": "https://open.spotify.com/track/1CyqOIcejpX5Zqzw5BRHFb"
@@ -9641,6 +9641,24 @@
     },
     {
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5M2gAdU3TtwlDucUL7YFQf"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165737,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/73ob1BOoxobzYqlnwSVmJv"
+    },
+    {
+      "album": {
         "name": "Golden Cage (Fred Falke Remix)",
         "url": "https://open.spotify.com/album/6vwpM5BFTKL6R6bVWzr2g1"
       },
@@ -10467,6 +10485,28 @@
     },
     {
       "album": {
+        "name": "Nine Inch Noize",
+        "url": "https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237956,
+      "name": "Heresy - Nine Inch Noize Version",
+      "url": "https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV"
+    },
+    {
+      "album": {
         "name": "Hey",
         "url": "https://open.spotify.com/album/5cwPTjEWjgmGximXW8pyWk"
       },
@@ -11018,7 +11058,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 190101,
       "name": "hold.",
       "url": "https://open.spotify.com/track/36owiHjuvdDG5lswUTxYwp"
@@ -15304,7 +15344,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 258562,
       "name": "Losing",
       "url": "https://open.spotify.com/track/1oABrqtcWkHoUkvbRoZSwj"
@@ -21031,6 +21071,24 @@
     },
     {
       "album": {
+        "name": "runaway",
+        "url": "https://open.spotify.com/album/7nRRXXbWWUysqjNWWv9bFM"
+      },
+      "artists": [
+        {
+          "name": "Josi Miller",
+          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186552,
+      "name": "runaway",
+      "url": "https://open.spotify.com/track/69wW6EfIBvGukl09GyQAoe"
+    },
+    {
+      "album": {
         "name": "Runner",
         "url": "https://open.spotify.com/album/4yTCk0Nct4AxyZuB1HVJqS"
       },
@@ -21372,6 +21430,28 @@
       "duration_ms": 199488,
       "name": "Satisfaction Skank",
       "url": "https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz"
+    },
+    {
+      "album": {
+        "name": "The Nightlife",
+        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244708,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
     },
     {
       "album": {
@@ -27476,7 +27556,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 220534,
       "name": "viscus (feat. FKA twigs)",
       "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
@@ -27746,7 +27826,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 234140,
       "name": "Waiting So Long",
       "url": "https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8"
@@ -29286,6 +29366,32 @@
       "duration_ms": 218929,
       "name": "You Belong To No-One",
       "url": "https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG"
+    },
+    {
+      "album": {
+        "name": "You Could Easily Have Me (Adiel & Pat Alvarez Rework)",
+        "url": "https://open.spotify.com/album/19IxadfIcYJfQYOtCddR6N"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Adiel",
+          "url": "https://open.spotify.com/artist/1yetl1fEx0mE16k164jXvw"
+        },
+        {
+          "name": "Pat Alvarez",
+          "url": "https://open.spotify.com/artist/44rUL8RUXtDCmb8Mtjy5kp"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317047,
+      "name": "You Could Easily Have Me - Adiel & Pat Alvarez Rework",
+      "url": "https://open.spotify.com/track/7xEJiguYN0ZUxpUzwfDzRt"
     },
     {
       "album": {

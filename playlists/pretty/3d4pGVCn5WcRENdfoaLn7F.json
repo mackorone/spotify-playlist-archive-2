@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 629,
+  "num_followers": 633,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADSzhqRBrwB3ywCSKWPkV/Kz2gObdq",
+  "snapshot_id": "AAADT+Y0SFFlz1DjhU2Dm/ggOOD4PfaU",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1295,6 +1295,70 @@
       "duration_ms": 233817,
       "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u043c",
       "url": "https://open.spotify.com/track/5WvI8UliUjXmDLudsTwxlN"
+    },
+    {
+      "added_at": "2026-04-16 14:25:39",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3gG2TMhM8GUz3zbufRsYvv"
+      },
+      "artists": [
+        {
+          "name": "By Million Wires",
+          "url": "https://open.spotify.com/artist/4QoLD4kvqh88dZF1VpDMSm"
+        }
+      ],
+      "duration_ms": 309500,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0OP5S6UqR2haqJdIR1YY1x"
+    },
+    {
+      "added_at": "2026-04-16 14:36:14",
+      "album": {
+        "name": "Anfang unsrer Zeit",
+        "url": "https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t"
+      },
+      "artists": [
+        {
+          "name": "Voltwechsel",
+          "url": "https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Anfang unsrer Zeit",
+      "url": "https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4"
+    },
+    {
+      "added_at": "2026-04-16 15:02:51",
+      "album": {
+        "name": "Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT"
+      },
+      "artists": [
+        {
+          "name": "June 101",
+          "url": "https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD"
+        }
+      ],
+      "duration_ms": 264203,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/3FLhwiCJmU4MTCGZP1MzCD"
+    },
+    {
+      "added_at": "2026-04-16 15:30:19",
+      "album": {
+        "name": "Addressed To Me",
+        "url": "https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "duration_ms": 227569,
+      "name": "Addressed To Me",
+      "url": "https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

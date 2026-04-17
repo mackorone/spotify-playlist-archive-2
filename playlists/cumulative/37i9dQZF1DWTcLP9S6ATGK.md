@@ -2,9 +2,9 @@
 
 ### [Musik Akhir Pekan](https://open.spotify.com/playlist/37i9dQZF1DWTcLP9S6ATGK)
 
-> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Timun Jelita
+> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Gloria Jessica, Ade Govinda
 
-875 songs - 2 day 8 hr 58 min
+880 songs - 2 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Adilkah](https://open.spotify.com/track/23p4g75mHgBprHF94scJRu) | [Hiladies](https://open.spotify.com/artist/428ar0NRUaq5rxp11C8ofg) | [Adilkah](https://open.spotify.com/album/6mg7IFvjhK7gqyuLJYtY7z) | 3:26 | 2025-07-31 | 2025-10-17 |
 | [Aduh Kamu](https://open.spotify.com/track/4oen35ip77UproFcF4RtbH) | [Dinalia](https://open.spotify.com/artist/1QOfVvOZVReOcEKSZR17lw) | [Aduh Kamu](https://open.spotify.com/album/22IYZ7GYdVRK77oggvJvkI) | 3:34 | 2026-04-09 |  |
 | [Aduhai](https://open.spotify.com/track/1Pm6rRDGMpRPuRdXAK6M5W) | [Mytha Lestari](https://open.spotify.com/artist/4qb81y9DFygggMTArjhQMn) | [Aduhai](https://open.spotify.com/album/3GsD0171owyBasP5HMqNBq) | 4:13 | 2025-09-25 | 2025-10-31 |
+| [Ahli Bermain Cinta](https://open.spotify.com/track/6qUEX5JSKinEIW56cJFduG) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Ahli Bermain Cinta](https://open.spotify.com/album/58YrWD9Rgn01GDZC3u5Lnr) | 4:07 | 2026-04-16 |  |
 | [Ai](https://open.spotify.com/track/6qeLyF5vcvcYhTVB6etSSN) | [Aldy Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V), [eńau](https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u) | [50/50](https://open.spotify.com/album/4GGV2N1Fra0dKwyuyHzsfJ) | 3:24 | 2025-10-23 | 2025-12-05 |
 | [akankah aku sampai kesana?](https://open.spotify.com/track/1DSAGMCAHhKihNoge4QlCX) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [kira](https://open.spotify.com/album/5rmc5LHFzb8v69KTdNfoeX) | 3:14 | 2026-04-10 |  |
 | [Akhir Cinta](https://open.spotify.com/track/2RcgOUhhLdK3cDi5ROBdD5) | [Iga Azwika](https://open.spotify.com/artist/6CUzR2a7m9M60s0c7QLbAt) | [Akhir Cinta](https://open.spotify.com/album/2r7WyPCKOAT8O9MpNsEFjd) | 4:45 | 2024-06-27 | 2024-08-02 |
@@ -245,6 +246,7 @@
 | [Doa Anak Negeri](https://open.spotify.com/track/0UMYhVKbRXN9iHhyD6e9c0) | [Iren Glory](https://open.spotify.com/artist/7tkbfHtHXuuUvs0kWfSwa0) | [Doa Anak Negeri](https://open.spotify.com/album/0wLUD7fD9GgUzF4JlWXEQA) | 3:30 | 2025-10-03 | 2025-10-31 |
 | [Don't Stop](https://open.spotify.com/track/6WkBMtZ1RAYr8yht4Y8uic) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Forever In The Air](https://open.spotify.com/album/07rCINMa9qmft2nk9beVSZ) | 3:03 | 2025-10-09 | 2025-11-28 |
 | [dua tahun](https://open.spotify.com/track/5uqrv56qfnAxeLprqBvaJZ) | [Luthfi Aulia](https://open.spotify.com/artist/1LUNypbU0AXcWNgrcyHzVN) | [dua tahun](https://open.spotify.com/album/32FbzIGASXCBFcIDX4FukU) | 3:37 | 2025-08-08 | 2025-10-03 |
+| [Dulu Kita Masih Remaja \- Original Soundtrack Dilan ITB 1997](https://open.spotify.com/track/6WzOu0UnyfFSxOLw2Rs5nY) | [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Dulu Kita Masih Remaja \(Original Soundtrack Dilan ITB 1997\)](https://open.spotify.com/album/6JptcIbyDVqXg6ulVCnRz2) | 3:01 | 2026-04-16 |  |
 | [Ego](https://open.spotify.com/track/39B12Su7R0fIDcQPykPwkc) | [Padi](https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg) | [Ego](https://open.spotify.com/album/1R9tlrCSbbO1rUmQZ1a8r6) | 5:24 | 2025-11-06 | 2026-01-24 |
 | [Ego \- Live Version](https://open.spotify.com/track/25Lal5T01WHDBjW7WEbM8X) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Tujuh Belas](https://open.spotify.com/album/5LMiSpyLeOxZBpYZmu0Uiu) | 4:20 | 2025-07-03 | 2025-08-22 |
 | [Elu\-elukan](https://open.spotify.com/track/7LQ9yw8sSdjmckKCK4CHSo) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Elu\-elukan](https://open.spotify.com/album/4TOeWC89ZQcQDLfUvqKaVm) | 4:03 | 2025-10-16 | 2026-02-13 |
@@ -260,6 +262,7 @@
 | [Gantung Aku](https://open.spotify.com/track/3ZiKadU8FnJwKyDgTdb9hX) | [Aurla](https://open.spotify.com/artist/5aqBDf8HH7H0fduSKocH4Y) | [Gantung Aku](https://open.spotify.com/album/1LrW1BsfigrClXjZ1YjLtr) | 3:28 | 2024-07-25 | 2024-09-27 |
 | [Gelap Yang Terang](https://open.spotify.com/track/7fYP9QIs8W9nGIofho4U4D) | [Panji Sakti](https://open.spotify.com/artist/1zJG0BbOnVVijQXfYYibvD) | [Gelap Yang Terang](https://open.spotify.com/album/6mlkjSMKOl1q2F20fmkOPy) | 3:48 | 2025-02-20 | 2025-05-09 |
 | [Gelora Api Cinta](https://open.spotify.com/track/0YTZxhWbGXYngtEkkA2INc) | [Dian Piesesha](https://open.spotify.com/artist/1VXrpcuRNWPy5Ev4PZTKlY) | [Cinta dan Waktu](https://open.spotify.com/album/79SBy5CuVNBAYhdA3ELvRP) | 4:30 | 2024-11-22 | 2025-03-07 |
+| [Geram](https://open.spotify.com/track/4AihnQANO1NNQx3YagzToS) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Geram](https://open.spotify.com/album/1436FpDhmJzFNUTeRQtGVQ) | 4:09 | 2026-04-16 |  |
 | [Gila Dunia Ini Bercandanya](https://open.spotify.com/track/5GVRVN0vBsdqpVDazuquaI) | [SAIVA](https://open.spotify.com/artist/21aguPG8NYw56jG3qwIQZG) | [Gila Dunia Ini Bercandanya](https://open.spotify.com/album/4xJozwYdmfpZZYM9wvDIv4) | 4:15 | 2025-07-03 | 2025-09-26 |
 | [Gini Gini Aja](https://open.spotify.com/track/16Hf4fDGmXDCpvMxjStDsh) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Gini Gini Aja](https://open.spotify.com/album/0zK0hZ6PBP0RBizTXK4CJZ) | 2:02 | 2024-07-25 | 2024-09-13 |
 | [Gontai](https://open.spotify.com/track/7q4pOr7RZPB8zC6Ojok6GH) | [Helmi Utta](https://open.spotify.com/artist/39JS42rH1yHMax2Te0Bys3), [Awra Putri](https://open.spotify.com/artist/6X2gPeIJz689q0nvgVI6bI) | [Gontai](https://open.spotify.com/album/05T6m2Uhv2464Q7I06rIzr) | 4:35 | 2024-09-12 | 2024-11-29 |
@@ -520,6 +523,7 @@
 | [Mundur Perlahan](https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Mundur Perlahan](https://open.spotify.com/album/46JONawt8M57m28JCS7EtT) | 4:18 | 2024-06-27 | 2024-07-27 |
 | [Mungkin Aku Memang Setulus Itu](https://open.spotify.com/track/7qXnEjwnXd7MdL27L6mKxR) | [Dimas M](https://open.spotify.com/artist/2Lp5Ti7LZGpcKPvD3KEthU) | [Mungkin Aku Memang Setulus Itu](https://open.spotify.com/album/6JCGWAIrZaXL1S3FvMUHCr) | 2:04 | 2025-06-05 | 2025-07-11 |
 | [Mungkin Belum Sekarang \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/track/4yrsCwGmG5SqraKGoHwE53) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Mungkin Belum Sekarang \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Tz9cik7fBpYXrDemIH7S5) | 3:57 | 2024-07-11 | 2024-11-22 |
+| [Mungkin di Depan Buram](https://open.spotify.com/track/7Jg5lblHcvzWRHppWHa7ff) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mungkin di Depan Buram](https://open.spotify.com/album/7A2XPc9WgnKN3S4yGUJVLo) | 2:37 | 2026-04-16 |  |
 | [Mungkin Hanya Kamu](https://open.spotify.com/track/06ecDe5VHZhpCi7V5kQFTW) | [Aurelia Syaharani](https://open.spotify.com/artist/7A8RuvaCkbtKEZwf1pW3cn) | [Mungkin Hanya Kamu](https://open.spotify.com/album/3sy9zZeAtCUk6BAnOQZb9K) | 3:39 | 2025-05-08 | 2025-06-06 |
 | [Muslihat \- Muslihat Original Soundtrack](https://open.spotify.com/track/234mUkdICBtkPqZqsSdw97) | [Tata Janeeta](https://open.spotify.com/artist/6reQVU3OFzQdP0NqZCwrCz) | [Muslihat \(Muslihat Original Soundtrack\)](https://open.spotify.com/album/5PFDIJ7EvKDnENjhy3iNai) | 4:53 | 2024-07-18 | 2024-09-27 |
 | [Nada Kasih](https://open.spotify.com/track/66v72L6lQ3W33f2AtOfYxb) | [Fariz RM](https://open.spotify.com/artist/1m5XLTx8naayWUXhNNrHjT), [Rieka Roslan](https://open.spotify.com/artist/1uv8Uq3SQm91fql1Ef6G2l), [Harsya Rieuwpassa](https://open.spotify.com/artist/3EIWLqVx1wWdsayIvqwe0w) | [Nada Kasih](https://open.spotify.com/album/3gxPL86jiJVh5quZLL6c7n) | 3:11 | 2024-11-28 | 2025-02-28 |
@@ -824,6 +828,7 @@
 | [Terapi Hati](https://open.spotify.com/track/1kdgOWjhVQMhXFP8W0H3Pv) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Terapi Hati](https://open.spotify.com/album/3BenZSY1REHnUr79QNojR9) | 3:32 | 2025-09-18 | 2025-10-31 |
 | [Terbaik](https://open.spotify.com/track/4oZYiXBwrd8w8drTisFtku) | [Hugo Kasela](https://open.spotify.com/artist/1SBsX2VwIcpPKcjTqrtIiz) | [Terbaik](https://open.spotify.com/album/6za6C9lT3O7eixKkcxAudM) | 5:13 | 2024-11-14 | 2024-11-29 |
 | [Terbawa Suasana](https://open.spotify.com/track/2MgcfN4Sp8ougHmasK8EXB) | [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Terbawa Suasana](https://open.spotify.com/album/5ZnqRmmlH1EgJY3GKIfYoL) | 4:10 | 2024-08-15 | 2024-11-22 |
+| [Terbelah Jadi Dua](https://open.spotify.com/track/3aM3bFzA2dCtej0U3h4WKH) | [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Terbelah Jadi Dua](https://open.spotify.com/album/7yOC8uTLy0iwjg1n7YBz4P) | 4:15 | 2026-04-16 |  |
 | [Tercipta Untukmu](https://open.spotify.com/track/7y2wNnNXT3NMgJ07DL5TKZ) | [NINEBALL](https://open.spotify.com/artist/1qAwDrmiiBt6JjepLcjXdp) | [Tercipta Untukmu](https://open.spotify.com/album/60S6BVDoaAFJ5wrDBNqgsU) | 3:04 | 2025-05-30 | 2025-06-27 |
 | [Terdengar Gila](https://open.spotify.com/track/7jcq6clMZyqORDvVlquz2C) | [Asila Maisa](https://open.spotify.com/artist/0RdcUOv3TaCqZYuzOY8gRd) | [Terdengar Gila](https://open.spotify.com/album/1iTrqrHzmr55TewC8PhR0L) | 4:33 | 2025-01-16 | 2025-02-28 |
 | [Tergariskan](https://open.spotify.com/track/5ojHPGLl3ZjE6ikmUqoeHA) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn) | [Tergariskan](https://open.spotify.com/album/6Hed4MpnhCfLIJ6uDMOskA) | 4:10 | 2024-12-12 | 2025-08-09 |

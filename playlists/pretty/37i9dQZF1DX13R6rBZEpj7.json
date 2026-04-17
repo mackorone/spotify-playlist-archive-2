@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 280151,
+  "num_followers": 280202,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2026-03-20 08:41:04",
       "album": {
-        "name": "Hot In Herre",
-        "url": "https://open.spotify.com/album/0dWhoOS6NPadGXYK12ZHp1"
-      },
-      "artists": [
-        {
-          "name": "Cepaque",
-          "url": "https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc"
-        },
-        {
-          "name": "WHYCARE",
-          "url": "https://open.spotify.com/artist/3sPOQGC7Qba2TdaM9WbrBF"
-        },
-        {
-          "name": "freeroll.",
-          "url": "https://open.spotify.com/artist/60lGHkRLpgsBoF1VWgEZ8M"
-        }
-      ],
-      "duration_ms": 126956,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/1vkARldHL4suLzugyV9Nuj"
-    },
-    {
-      "added_at": "2026-03-20 08:41:04",
-      "album": {
         "name": "U",
         "url": "https://open.spotify.com/album/1fc7h41ZALPCGGv3t1hrPI"
       },
@@ -1363,6 +1339,26 @@
       "duration_ms": 180000,
       "name": "U",
       "url": "https://open.spotify.com/track/1yBIVECGDfhoebR6QnwWxo"
+    },
+    {
+      "added_at": "2026-03-20 08:41:04",
+      "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/6714860pGAmNimPSUT0GWN"
+      },
+      "artists": [
+        {
+          "name": "H \"two\" O",
+          "url": "https://open.spotify.com/artist/2ev9Efr1n87BI5ZqZJ8SlW"
+        },
+        {
+          "name": "Rocco LDN",
+          "url": "https://open.spotify.com/artist/012wRb4Wr9RU3zaxSxPTFX"
+        }
+      ],
+      "duration_ms": 275962,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/2f0bZbD4u8HX3Kn7PjKi6C"
     }
   ],
   "unique_name": "Bassline Bangers",

@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Cuarteto de Nos",
-  "num_followers": 125738,
+  "num_followers": 125754,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-03-20 03:00:28",
       "album": {
-        "name": "En Vivo en el Estadio \u00danico",
-        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 341626,
-      "name": "Traicionero - En Vivo en el Estadio \u00danico",
-      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
         "name": "Concierto Obras 30 y 31 Julio, Parte Uno (En Vivo)",
         "url": "https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 267240,
       "name": "Una Nueva Noche Fria - Vivo - Mezclado y Masterizado 2017",
       "url": "https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
+        "name": "En Vivo en el Estadio \u00danico",
+        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 341626,
+      "name": "Traicionero - En Vivo en el Estadio \u00danico",
+      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
     },
     {
       "added_at": "2026-03-20 03:00:28",
@@ -815,18 +815,22 @@
     {
       "added_at": "2026-03-20 03:00:28",
       "album": {
-        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
+        "name": "MVD/05/03/05 (En Vivo)",
+        "url": "https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U"
       },
       "artists": [
         {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Sebasti\u00e1n Teysera",
+          "url": "https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK"
         }
       ],
-      "duration_ms": 183826,
-      "name": "Nuestro Verano - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/0ENYKDAMZMGiygBAOjs8tk"
+      "duration_ms": 398705,
+      "name": "Cosa Linda/Clara - En Vivo",
+      "url": "https://open.spotify.com/track/48JNsIQ07dqVwpOdjjN8yu"
     },
     {
       "added_at": "2026-03-20 03:00:28",
@@ -847,6 +851,22 @@
     {
       "added_at": "2026-03-20 03:00:28",
       "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Nuestro Verano - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/0ENYKDAMZMGiygBAOjs8tk"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
         "name": "Ven Aqu\u00ed (MTV Unplugged)",
         "url": "https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 266519,
       "name": "Ven Aqu\u00ed - MTV Unplugged",
       "url": "https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
-        "name": "MVD/05/03/05 (En Vivo)",
-        "url": "https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Sebasti\u00e1n Teysera",
-          "url": "https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK"
-        }
-      ],
-      "duration_ms": 398705,
-      "name": "Cosa Linda/Clara - En Vivo",
-      "url": "https://open.spotify.com/track/48JNsIQ07dqVwpOdjjN8yu"
     },
     {
       "added_at": "2026-03-20 03:00:28",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-03-20 03:00:28",
       "album": {
-        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 156999,
-      "name": "Tormenta Roja - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/0ydhEMvXNvWXOuHivcnWaa"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 263373,
       "name": "Pronta Entrega - En Vivo",
       "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 156999,
+      "name": "Tormenta Roja - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/0ydhEMvXNvWXOuHivcnWaa"
     },
     {
       "added_at": "2026-03-20 03:00:28",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-03-20 03:00:28",
       "album": {
-        "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
-        "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
-      },
-      "artists": [
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 383040,
-      "name": "Espejismo - En Vivo",
-      "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
         "name": "Ji Ji Ji (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
         "url": "https://open.spotify.com/album/32bau642DRCuW27UlsiEnw"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 363208,
       "name": "Ji Ji Ji - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
       "url": "https://open.spotify.com/track/1TGLpWSsFMuDR3DMD6Pyc5"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
+        "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
+        "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
+      },
+      "artists": [
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 383040,
+      "name": "Espejismo - En Vivo",
+      "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
     },
     {
       "added_at": "2026-03-20 03:00:28",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-03-20 03:00:28",
       "album": {
-        "name": "Fanky (En Vivo)",
-        "url": "https://open.spotify.com/album/1Tq3ZmiF3AR38Qmbd5hvZ6"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        }
-      ],
-      "duration_ms": 303952,
-      "name": "Fanky (En Vivo)",
-      "url": "https://open.spotify.com/track/0y4NWYQEikgDDE9SyyU6RU"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
         "name": "El Rito de los Corazones Sangrando: En Vivo Festival Madres 20 a\u00f1os \u00a1Ni Un Paso Atr\u00e1s!",
         "url": "https://open.spotify.com/album/2C73XAjTXOnBic34nyQLDY"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 280810,
       "name": "Hasta Estallar (En Vivo)",
       "url": "https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
+        "name": "Fanky (En Vivo)",
+        "url": "https://open.spotify.com/album/1Tq3ZmiF3AR38Qmbd5hvZ6"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "duration_ms": 303952,
+      "name": "Fanky (En Vivo)",
+      "url": "https://open.spotify.com/track/0y4NWYQEikgDDE9SyyU6RU"
     },
     {
       "added_at": "2026-03-20 03:00:28",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-03-20 03:00:28",
       "album": {
-        "name": "Hilda Canta Charly 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/30s6htP6Xzn4ULrplHzyyC"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        }
-      ],
-      "duration_ms": 230481,
-      "name": "Necesito tu amor (En Vivo)",
-      "url": "https://open.spotify.com/track/2GEbKNfS9kV75UlbVm3hzq"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
         "name": "El Vuelo del Drag\u00f3n, Pt. 3",
         "url": "https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 289804,
       "name": "Ella Vendr\u00e1",
       "url": "https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
+        "name": "Hilda Canta Charly 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/30s6htP6Xzn4ULrplHzyyC"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "duration_ms": 230481,
+      "name": "Necesito tu amor (En Vivo)",
+      "url": "https://open.spotify.com/track/2GEbKNfS9kV75UlbVm3hzq"
     },
     {
       "added_at": "2026-03-20 03:00:28",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-03-20 03:00:28",
       "album": {
-        "name": "M\u00fasica del Alma (En Vivo)",
-        "url": "https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 251296,
-      "name": "M\u00fasica Del Alma - En Vivo",
-      "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
         "name": "Dif\u00edcil De Entender (En Vivo)",
         "url": "https://open.spotify.com/album/4vNwIgcdszi9DH3IOjsoD8"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 338500,
       "name": "Dif\u00edcil De Entender - En Vivo",
       "url": "https://open.spotify.com/track/6j213IFF8ae9gA8lQb6s8o"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
+        "name": "M\u00fasica del Alma (En Vivo)",
+        "url": "https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 251296,
+      "name": "M\u00fasica Del Alma - En Vivo",
+      "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
     },
     {
       "added_at": "2026-03-20 03:00:28",

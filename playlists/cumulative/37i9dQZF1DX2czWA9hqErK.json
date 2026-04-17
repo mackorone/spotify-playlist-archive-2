@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Sunday morning whenever you like",
+  "description": "Soft edges and slow motion moments \ud83e\udeb4",
   "name": "Easy",
   "tracks": [
     {
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 242499,
       "name": "America Forever (with Maisie Peters & Carol Ades)",
       "url": "https://open.spotify.com/track/4exBSFyP1m02FKSVzz4LpF"
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 161075,
       "name": "breaking news",
       "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
@@ -2826,7 +2826,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 151000,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/2eh3xk8BufBNoW9gnnMgAM"
@@ -3426,7 +3426,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 128165,
       "name": "cut! (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
@@ -4678,7 +4678,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 234812,
       "name": "Fantasy (with Raveena)",
       "url": "https://open.spotify.com/track/6g8cxooV9l2dluphzZyJDg"
@@ -5882,7 +5882,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 195697,
       "name": "Hanging By Your Halo",
       "url": "https://open.spotify.com/track/0aLsrFUyCvDC2zYO2aRmMD"
@@ -6066,7 +6066,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 196200,
       "name": "HEADPHONES",
       "url": "https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx"
@@ -6138,7 +6138,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 147461,
       "name": "Heaven II",
       "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
@@ -9068,10 +9068,28 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 315245,
       "name": "Little Miss Sunshine",
       "url": "https://open.spotify.com/track/4ALTbG2KpqPEHo4r8OtrRy"
+    },
+    {
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ujXwurXPasKhBGQteD07z"
+      },
+      "artists": [
+        {
+          "name": "Sonny Tennet",
+          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155049,
+      "name": "Live First, Love Later",
+      "url": "https://open.spotify.com/track/3VpG43w5Cfmw7rLAfS2Ovx"
     },
     {
       "album": {
@@ -9610,7 +9628,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 237632,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/0UiS217Jk2oDxfDnOIrOwb"
@@ -9945,6 +9963,24 @@
     },
     {
       "album": {
+        "name": "Meet On The Moon",
+        "url": "https://open.spotify.com/album/3z10Km1QHb5OzX5x6wYoum"
+      },
+      "artists": [
+        {
+          "name": "Alex Amor",
+          "url": "https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195028,
+      "name": "Meet On The Moon",
+      "url": "https://open.spotify.com/track/1L3tJLkMNqmneU2wZNCwZ9"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
       },
@@ -10058,7 +10094,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 155624,
       "name": "Miles",
       "url": "https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z"
@@ -11500,7 +11536,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 216006,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
@@ -12048,7 +12084,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 172872,
       "name": "Portland",
       "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
@@ -12210,7 +12246,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 212959,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/02F70YYcqNe7jVKG3Ouc24"
@@ -12622,7 +12658,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 214986,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
@@ -12820,7 +12856,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 164175,
       "name": "Scary Movie",
       "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
@@ -13336,7 +13372,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 222125,
       "name": "Sleeping On It",
       "url": "https://open.spotify.com/track/0Phrnlx3qNUN1CIUxm6Ct4"
@@ -13740,7 +13776,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 133059,
       "name": "Someone That's Better",
       "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
@@ -14053,6 +14089,24 @@
     },
     {
       "album": {
+        "name": "Survive - EP",
+        "url": "https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206106,
+      "name": "Stay Love",
+      "url": "https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3"
+    },
+    {
+      "album": {
         "name": "steal my soul",
         "url": "https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH"
       },
@@ -14064,7 +14118,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 141320,
       "name": "steal my soul",
       "url": "https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS"
@@ -14266,7 +14320,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 172282,
       "name": "Sweet Delusion",
       "url": "https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h"
@@ -14669,6 +14723,28 @@
     },
     {
       "album": {
+        "name": "HELP(2)",
+        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248552,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/1d34entSOiu5ICLuMtYUud"
+    },
+    {
+      "album": {
         "name": "The Boy Who Can't Be Named",
         "url": "https://open.spotify.com/album/7oOEBdD1KrqQFQwwfNYo9z"
       },
@@ -14976,7 +15052,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 207616,
       "name": "the oxygen you left",
       "url": "https://open.spotify.com/track/2WXVter56LKAZSy3FFVJHh"
@@ -16308,6 +16384,24 @@
       "duration_ms": 177814,
       "name": "welcome to the sidelines",
       "url": "https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln"
+    },
+    {
+      "album": {
+        "name": "What a Shame",
+        "url": "https://open.spotify.com/album/3q7qinKhOIWldtsM1qmhni"
+      },
+      "artists": [
+        {
+          "name": "Matthew Hall",
+          "url": "https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "What a Shame",
+      "url": "https://open.spotify.com/track/0SWk801xDpmtlZurtUzWhj"
     },
     {
       "album": {

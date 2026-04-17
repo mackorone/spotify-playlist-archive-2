@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Ramy Sabry
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,864 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,872 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 20 | [بخاف من مسلسل سيد الناس](https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [بخاف من مسلسل سيد الناس](https://open.spotify.com/album/37Y9kPOLBf9mBHYX60YDVf) | 4:52 |
 | 21 | [وتقابل حبيب](https://open.spotify.com/track/7M1EnR4adNU8vth13OjtBM) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [وتقابل حبيب](https://open.spotify.com/album/0kW5bh1ijiHrwxw828IyAF) | 3:04 |
 | 22 | [LW](https://open.spotify.com/track/0lfrT9HNAKihongwIDvNKX) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Lw](https://open.spotify.com/album/2hdAO3uXLqhPqeyeNybMvu) | 3:21 |
-| 23 | [زامباهولا](https://open.spotify.com/track/3GxSdwd4Y1i5xCOY2IDPh4) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [زامباهولا](https://open.spotify.com/album/29d089qSiwvpl7VZq1yeJa) | 2:54 |
-| 24 | [Tareky](https://open.spotify.com/track/22euUY2htIxug24Wfu1hTG) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Tareky Series](https://open.spotify.com/album/6ZcmIgkKh6COUyXudJvT1j) | 4:20 |
+| 23 | [Tareky](https://open.spotify.com/track/22euUY2htIxug24Wfu1hTG) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Tareky Series](https://open.spotify.com/album/6ZcmIgkKh6COUyXudJvT1j) | 4:20 |
+| 24 | [زامباهولا](https://open.spotify.com/track/3GxSdwd4Y1i5xCOY2IDPh4) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [زامباهولا](https://open.spotify.com/album/29d089qSiwvpl7VZq1yeJa) | 2:54 |
 | 25 | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/track/2aZNUu6LFLD0nsppiw8f0p) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/album/3nHHSUiPdf5V88OgBsUSXA) | 2:38 |
 | 26 | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/track/4b9XevTC3G9v8NdGms3Y9z) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/album/0998OOSuYxxCvIJXSY8TbM) | 3:03 |
 | 27 | [Chou Nater \- ‘‘Bel Haram’’ Series Soundtrack](https://open.spotify.com/track/5edPMA7qQWgeqR5M4KqaUz) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Chou Nater \(‘‘Bel Haram’’ Series Soundtrack\)](https://open.spotify.com/album/1Ozz6B4Db11A8jdF2hVW9E) | 3:15 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 34 | [قالتلي لا لا \- من مسلسل العتاولة ٢](https://open.spotify.com/track/1570e9oi9j2eJflDGtkBX7) | [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk), [مصطفى ابو سريع](https://open.spotify.com/artist/33x0PBqHDjYcm5JpNlyK5d) | [قالتلي لا لا \(من مسلسل العتاولة ٢\)](https://open.spotify.com/album/11dWPCENI07626fPX39wJD) | 2:04 |
 | 35 | [Taht Sabeh Ared](https://open.spotify.com/track/0gH9krYOtjKAox1RIzc8BP) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Taht Sabeh Ared](https://open.spotify.com/album/4kWsTh3dTg3KykBmE8pmAp) | 3:14 |
 | 36 | [بابا المجال](https://open.spotify.com/track/4PWyDZSIrKxRQV0ioxjrXf) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Mohamed Shaheen](https://open.spotify.com/artist/6DcpnGFm5ORC758EKTT5B0) | [بابا المجال](https://open.spotify.com/album/219E4D2CXK3NYwmJ5mI8dw) | 3:30 |
-| 37 | [L3adaw](https://open.spotify.com/track/6rWU0KVXrU3sYODH1hBcYo) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [L3adaw](https://open.spotify.com/album/5FW6OqBRURamAU7BmWBj3i) | 3:29 |
-| 38 | [الفرحه فرحتنا \- من مسلسل ٨٠ باكو](https://open.spotify.com/track/1vwTWLElYkCftcMNnTmfnE) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [الفرحه فرحتنا \(من مسلسل ٨٠ باكو\)](https://open.spotify.com/album/28gTpRFAdkNIVmIVO9AWGb) | 3:53 |
-| 39 | [Qabeel](https://open.spotify.com/track/0Aq9BOAm6Qbr264MupIUh8) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Qabeel](https://open.spotify.com/album/6BNvDpII7YrU4m6bAgrUpz) | 2:56 |
+| 37 | [الفرحه فرحتنا \- من مسلسل ٨٠ باكو](https://open.spotify.com/track/1vwTWLElYkCftcMNnTmfnE) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [الفرحه فرحتنا \(من مسلسل ٨٠ باكو\)](https://open.spotify.com/album/28gTpRFAdkNIVmIVO9AWGb) | 3:53 |
+| 38 | [Qabeel](https://open.spotify.com/track/0Aq9BOAm6Qbr264MupIUh8) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Qabeel](https://open.spotify.com/album/6BNvDpII7YrU4m6bAgrUpz) | 2:56 |
+| 39 | [L3adaw](https://open.spotify.com/track/6rWU0KVXrU3sYODH1hBcYo) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [L3adaw](https://open.spotify.com/album/5FW6OqBRURamAU7BmWBj3i) | 3:29 |
 | 40 | [عوضي على الله](https://open.spotify.com/track/0efourIzovJKGWQ1XuTuTg) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [عوضي على الله](https://open.spotify.com/album/4ZKhuztTCbtjtr1E1qloIY) | 3:16 |
 | 41 | [تعيش وتجرح \(من مسلسل علي كلاي\)](https://open.spotify.com/track/0kSArG59KlX6jJ6DOntupm) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [تعيش وتجرح \(من مسلسل علي كلاي\)](https://open.spotify.com/album/2pwRgWHyD8acTHCFw8LXzU) | 2:07 |
 | 42 | [Al Kaysar](https://open.spotify.com/track/0NTIqYkabZBj6jlSSaGshQ) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Kaysar](https://open.spotify.com/album/2nLOFHz8g2kP99PX5HyKPQ) | 4:40 |

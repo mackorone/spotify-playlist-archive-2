@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "10 von 10",
+        "url": "https://open.spotify.com/album/51rg3umrp0IXNtrI77zEd9"
+      },
+      "artists": [
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134924,
+      "name": "10 von 10",
+      "url": "https://open.spotify.com/track/37xCUommA4coyrL4d8Vylf"
+    },
+    {
+      "album": {
         "name": "24-6 (Scheissegal welcher Tag)",
         "url": "https://open.spotify.com/album/5AXr8RJzTQgDbUec1Yf4uv"
       },
@@ -56,7 +74,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 239466,
       "name": "7 S\u00fcnden - Party Mix",
       "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
@@ -110,7 +128,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 206944,
       "name": "Abfahrt",
       "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
@@ -1413,6 +1431,28 @@
     },
     {
       "album": {
+        "name": "Endlich normale Leute",
+        "url": "https://open.spotify.com/album/24Y2gS1Cwimx835fiby3nv"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Chris Tall",
+          "url": "https://open.spotify.com/artist/0exB6UwclmlyA9gRpitxTZ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Endlich normale Leute",
+      "url": "https://open.spotify.com/track/4EuCrfqlLbZ4TudoNT0SjH"
+    },
+    {
+      "album": {
         "name": "Erwischt",
         "url": "https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m"
       },
@@ -1592,6 +1632,24 @@
       "duration_ms": 187053,
       "name": "Geh mal Bier hol'n - GmBh",
       "url": "https://open.spotify.com/track/0NipOXqC53PNZVUMfthzPt"
+    },
+    {
+      "album": {
+        "name": "Geile Leute",
+        "url": "https://open.spotify.com/album/4dFLKl90osXSo5BFCS4xHA"
+      },
+      "artists": [
+        {
+          "name": "Mountain Crew",
+          "url": "https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151620,
+      "name": "Geile Leute",
+      "url": "https://open.spotify.com/track/6BFCqAqB8lF3x4pMTwxEG5"
     },
     {
       "album": {
@@ -3476,7 +3534,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 180157,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
@@ -4148,10 +4206,28 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 205880,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0eZ79jSIKo6SfpJ90iU3Nu"
+    },
+    {
+      "album": {
+        "name": "STIMMUNG!",
+        "url": "https://open.spotify.com/album/19ZY1xaAX38yA1QR4DfRPx"
+      },
+      "artists": [
+        {
+          "name": "Bierkapit\u00e4n",
+          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172156,
+      "name": "STIMMUNG!",
+      "url": "https://open.spotify.com/track/4unvOWa73YZAXS8s9MF6UW"
     },
     {
       "album": {
@@ -4192,6 +4268,32 @@
       "duration_ms": 206613,
       "name": "Sweet Caroline - Party Remix",
       "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
+    },
+    {
+      "album": {
+        "name": "Thekendienst",
+        "url": "https://open.spotify.com/album/2kRdBwJTwAbdcbAy3nV7RF"
+      },
+      "artists": [
+        {
+          "name": "Honk!",
+          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+        },
+        {
+          "name": "Lambo Luki",
+          "url": "https://open.spotify.com/artist/6Xh9S4cRv30hKUV8gweWPm"
+        },
+        {
+          "name": "Malle Marc",
+          "url": "https://open.spotify.com/artist/4ygyuWkX03UburDATEjtby"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164285,
+      "name": "Thekendienst",
+      "url": "https://open.spotify.com/track/3TZ5RJY07hrNhV8ZNVf0Yn"
     },
     {
       "album": {
@@ -4574,7 +4676,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 167142,
       "name": "Zum Greifen nah",
       "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"

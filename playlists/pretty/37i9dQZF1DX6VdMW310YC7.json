@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3916241,
+  "num_followers": 3916097,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,30 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
+        "name": "See My Soul",
+        "url": "https://open.spotify.com/album/6pCdAFYi2NujUtttD0fPQJ"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "See My Soul",
+      "url": "https://open.spotify.com/track/5IDYlNp75toRLVVdaZL8W6"
+    },
+    {
+      "added_at": "2026-04-09 22:02:50",
+      "album": {
         "name": "Places",
         "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
       },
@@ -863,30 +887,6 @@
       "duration_ms": 237931,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv"
-    },
-    {
-      "added_at": "2026-04-09 22:02:50",
-      "album": {
-        "name": "See My Soul",
-        "url": "https://open.spotify.com/album/6pCdAFYi2NujUtttD0fPQJ"
-      },
-      "artists": [
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        },
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Courtney Storm",
-          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "See My Soul",
-      "url": "https://open.spotify.com/track/5IDYlNp75toRLVVdaZL8W6"
     },
     {
       "added_at": "2026-04-09 22:02:50",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 209899,
-      "name": "Melancholia",
-      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
-    },
-    {
-      "added_at": "2026-04-09 22:02:50",
-      "album": {
         "name": "Out Of Ten (Shingo Nakamura & before saudade Remix)",
         "url": "https://open.spotify.com/album/2muoiXwIB1Jw4JMXRFgrbz"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 153875,
       "name": "Out Of Ten - Shingo Nakamura & before saudade Remix",
       "url": "https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj"
+    },
+    {
+      "added_at": "2026-04-09 22:02:50",
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 209899,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
     },
     {
       "added_at": "2026-04-09 22:02:50",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
+      },
+      "artists": [
+        {
+          "name": "Eric Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
+    },
+    {
+      "added_at": "2026-04-09 22:02:50",
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 197286,
       "name": "The Call",
       "url": "https://open.spotify.com/track/18qBwssRu9P9uyhrZbaatB"
-    },
-    {
-      "added_at": "2026-04-09 22:02:50",
-      "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
-      },
-      "artists": [
-        {
-          "name": "Eric Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
     },
     {
       "added_at": "2026-04-09 22:02:50",

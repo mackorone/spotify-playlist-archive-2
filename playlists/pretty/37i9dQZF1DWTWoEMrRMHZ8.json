@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Tuyo",
-  "num_followers": 356033,
+  "num_followers": 356019,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -335,26 +335,6 @@
     {
       "added_at": "2026-04-10 17:15:43",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Bruna Marquezine",
-          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
-        }
-      ],
-      "duration_ms": 297233,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
-    },
-    {
-      "added_at": "2026-04-10 17:15:43",
-      "album": {
         "name": "Nosso Caso",
         "url": "https://open.spotify.com/album/0AXxBy1IF6U6myBm3EyZ3u"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 211699,
       "name": "Nosso Caso",
       "url": "https://open.spotify.com/track/0EAKZbRpwDUVdr8wxUtazd"
+    },
+    {
+      "added_at": "2026-04-10 17:15:43",
+      "album": {
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Bruna Marquezine",
+          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
+        }
+      ],
+      "duration_ms": 297233,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
     },
     {
       "added_at": "2026-04-10 17:15:43",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-04-10 17:15:43",
       "album": {
-        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
-        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 266302,
-      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
-      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
-    },
-    {
-      "added_at": "2026-04-10 17:15:43",
-      "album": {
         "name": "Depois do Breu",
         "url": "https://open.spotify.com/album/2ZzOd4RWiJUBjRwsMoqsY7"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 250851,
       "name": "Depois do Breu",
       "url": "https://open.spotify.com/track/1uGsuX9zgJPjRBmMN2u2pZ"
+    },
+    {
+      "added_at": "2026-04-10 17:15:43",
+      "album": {
+        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
+        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 266302,
+      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
+      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
     },
     {
       "added_at": "2026-04-10 17:15:43",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-04-10 17:15:43",
       "album": {
-        "name": "Ainda",
-        "url": "https://open.spotify.com/album/6A5mRdyV0cPvsMPZlpMHuu"
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
       },
       "artists": [
         {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Ainda",
-      "url": "https://open.spotify.com/track/7eruJrFFk6bToBSxEzC1x7"
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-04-10 17:15:43",
@@ -651,18 +651,18 @@
     {
       "added_at": "2026-04-10 17:15:43",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+        "name": "Ainda",
+        "url": "https://open.spotify.com/album/6A5mRdyV0cPvsMPZlpMHuu"
       },
       "artists": [
         {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
         }
       ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+      "duration_ms": 240000,
+      "name": "Ainda",
+      "url": "https://open.spotify.com/track/7eruJrFFk6bToBSxEzC1x7"
     },
     {
       "added_at": "2026-04-10 17:15:43",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-04-10 17:15:43",
       "album": {
-        "name": "Fruto Do Tempo",
-        "url": "https://open.spotify.com/album/2ayzvQrO9Sxt2qxdNyII3W"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 244821,
-      "name": "Fruto Do Tempo",
-      "url": "https://open.spotify.com/track/3mHCLBftcI0Q07oFRlS4n0"
-    },
-    {
-      "added_at": "2026-04-10 17:15:43",
-      "album": {
         "name": "Afim De Ver\u00e3o",
         "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
       },
@@ -715,6 +699,42 @@
       "duration_ms": 300567,
       "name": "Afim De Ver\u00e3o",
       "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
+    },
+    {
+      "added_at": "2026-04-10 17:15:43",
+      "album": {
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3UfNX5cB9G6TOxbgO5csVA"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9Vitor",
+          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
+        },
+        {
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 159127,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/3GOQjDG5AxA8pcphzefPRf"
+    },
+    {
+      "added_at": "2026-04-10 17:15:43",
+      "album": {
+        "name": "Fruto Do Tempo",
+        "url": "https://open.spotify.com/album/2ayzvQrO9Sxt2qxdNyII3W"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 244821,
+      "name": "Fruto Do Tempo",
+      "url": "https://open.spotify.com/track/3mHCLBftcI0Q07oFRlS4n0"
     },
     {
       "added_at": "2026-04-10 17:15:43",
@@ -775,26 +795,6 @@
     {
       "added_at": "2026-04-10 17:15:43",
       "album": {
-        "name": "Deixe-me Ir",
-        "url": "https://open.spotify.com/album/3UfNX5cB9G6TOxbgO5csVA"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9Vitor",
-          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
-        },
-        {
-          "name": "Xande de Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 159127,
-      "name": "Deixe-me Ir",
-      "url": "https://open.spotify.com/track/3GOQjDG5AxA8pcphzefPRf"
-    },
-    {
-      "added_at": "2026-04-10 17:15:43",
-      "album": {
         "name": "FOI NO S\u00c3O JO\u00c3O",
         "url": "https://open.spotify.com/album/6Ql0MXVyqO4ph6bz8HQ2pD"
       },
@@ -835,6 +835,26 @@
     {
       "added_at": "2026-04-10 17:15:43",
       "album": {
+        "name": "Se o Meu Peito Fosse o Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5YGJgU35coBKBHnsaHcNJL"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        }
+      ],
+      "duration_ms": 240301,
+      "name": "O Que Ser\u00e1 N\u00f3s Dois - Ao Vivo",
+      "url": "https://open.spotify.com/track/5rbRRSmZVA0SyduyHyltJt"
+    },
+    {
+      "added_at": "2026-04-10 17:15:43",
+      "album": {
         "name": "Outra Ladeira",
         "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 231201,
       "name": "\u00cata N\u00f3is",
       "url": "https://open.spotify.com/track/41uHXUQewtLYIV8dANlnzo"
-    },
-    {
-      "added_at": "2026-04-10 17:15:43",
-      "album": {
-        "name": "Se o Meu Peito Fosse o Mundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5YGJgU35coBKBHnsaHcNJL"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        },
-        {
-          "name": "Bruna Black",
-          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
-        }
-      ],
-      "duration_ms": 240301,
-      "name": "O Que Ser\u00e1 N\u00f3s Dois - Ao Vivo",
-      "url": "https://open.spotify.com/track/5rbRRSmZVA0SyduyHyltJt"
     },
     {
       "added_at": "2026-04-10 17:15:43",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-04-10 17:15:43",
       "album": {
+        "name": "a natureza das coisas",
+        "url": "https://open.spotify.com/album/0MxZANPoJbhP7ma8NK5col"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 119702,
+      "name": "a natureza das coisas",
+      "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
+    },
+    {
+      "added_at": "2026-04-10 17:15:43",
+      "album": {
         "name": "Pupillo",
         "url": "https://open.spotify.com/album/2oOKYjxPF5C3gvWDAugzqn"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 189019,
       "name": "Fealh\u00e1",
       "url": "https://open.spotify.com/track/3sb1yYFxHuPNWDBH499Ut4"
-    },
-    {
-      "added_at": "2026-04-10 17:15:43",
-      "album": {
-        "name": "a natureza das coisas",
-        "url": "https://open.spotify.com/album/0MxZANPoJbhP7ma8NK5col"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 119702,
-      "name": "a natureza das coisas",
-      "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
     },
     {
       "added_at": "2026-04-10 17:15:43",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2026-04-10 17:15:43",
       "album": {
-        "name": "Beleza",
-        "url": "https://open.spotify.com/album/5cntHecIHsUxVDDPUjFrhg"
-      },
-      "artists": [
-        {
-          "name": "Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/6arRXoJBfebp5a9VKlEATa"
-        },
-        {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
-        }
-      ],
-      "duration_ms": 271285,
-      "name": "Beleza",
-      "url": "https://open.spotify.com/track/6fNO8kUQv98XLDmIiopTwd"
-    },
-    {
-      "added_at": "2026-04-10 17:15:43",
-      "album": {
         "name": "Desculpe o Au\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/70ayyaP7jxqFfpvOvbtxqK"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 213536,
       "name": "Desculpe o Au\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/2wHOXgPbLgsrdDf60hsJy7"
+    },
+    {
+      "added_at": "2026-04-10 17:15:43",
+      "album": {
+        "name": "Beleza",
+        "url": "https://open.spotify.com/album/5cntHecIHsUxVDDPUjFrhg"
+      },
+      "artists": [
+        {
+          "name": "Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/6arRXoJBfebp5a9VKlEATa"
+        },
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        }
+      ],
+      "duration_ms": 271285,
+      "name": "Beleza",
+      "url": "https://open.spotify.com/track/6fNO8kUQv98XLDmIiopTwd"
     },
     {
       "added_at": "2026-04-10 17:15:43",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-04-10 17:15:43",
       "album": {
-        "name": "Minhas L\u00e1grimas",
-        "url": "https://open.spotify.com/album/5LZNgDg54E3iLePRlw7fxC"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Leone",
-          "url": "https://open.spotify.com/artist/5OSnDersfRNsStPWnyuOKN"
-        }
-      ],
-      "duration_ms": 211337,
-      "name": "Cara Limpa",
-      "url": "https://open.spotify.com/track/32JWv6BThEfCu1a6t7oQYQ"
-    },
-    {
-      "added_at": "2026-04-10 17:15:43",
-      "album": {
         "name": "Fico a Fim",
         "url": "https://open.spotify.com/album/6dSfLJ8KK1jMi26mPdWT7Y"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 190000,
       "name": "Fico a Fim",
       "url": "https://open.spotify.com/track/2skXQTeaAMYZdI3JHFX2Jc"
+    },
+    {
+      "added_at": "2026-04-10 17:15:43",
+      "album": {
+        "name": "Minhas L\u00e1grimas",
+        "url": "https://open.spotify.com/album/5LZNgDg54E3iLePRlw7fxC"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Leone",
+          "url": "https://open.spotify.com/artist/5OSnDersfRNsStPWnyuOKN"
+        }
+      ],
+      "duration_ms": 211337,
+      "name": "Cara Limpa",
+      "url": "https://open.spotify.com/track/32JWv6BThEfCu1a6t7oQYQ"
     },
     {
       "added_at": "2026-04-10 17:15:43",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-04-10 17:15:43",
       "album": {
-        "name": "Wasabi",
-        "url": "https://open.spotify.com/album/3zoxHI9tM3WytQC2ShnNGI"
-      },
-      "artists": [
-        {
-          "name": "2DE1",
-          "url": "https://open.spotify.com/artist/4wBcHIPRXjBeZPWLKekdfo"
-        }
-      ],
-      "duration_ms": 245266,
-      "name": "Wasabi",
-      "url": "https://open.spotify.com/track/1UkGJzED0op1iGczcnHB3i"
-    },
-    {
-      "added_at": "2026-04-10 17:15:43",
-      "album": {
         "name": "s\u00f3 eu sei",
         "url": "https://open.spotify.com/album/5AXHyzrsBqeLPTZieytJyW"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 223000,
       "name": "s\u00f3 eu sei",
       "url": "https://open.spotify.com/track/7e0h3dwmifDZT14DLjgqZJ"
+    },
+    {
+      "added_at": "2026-04-10 17:15:43",
+      "album": {
+        "name": "Wasabi",
+        "url": "https://open.spotify.com/album/3zoxHI9tM3WytQC2ShnNGI"
+      },
+      "artists": [
+        {
+          "name": "2DE1",
+          "url": "https://open.spotify.com/artist/4wBcHIPRXjBeZPWLKekdfo"
+        }
+      ],
+      "duration_ms": 245266,
+      "name": "Wasabi",
+      "url": "https://open.spotify.com/track/1UkGJzED0op1iGczcnHB3i"
     },
     {
       "added_at": "2026-04-10 17:15:43",

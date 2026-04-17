@@ -4,7 +4,7 @@
 
 > Porque el barrio es el barrio y eso nadie nos lo va a cambiar..\. Lucky Brown y El Bogueto en portada.
 
-647 songs - 1 day 11 hr 1 min
+648 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [La 701 \- Panter Belico](https://open.spotify.com/track/4C1Nffkw1W8ecBjNLJRgAS) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [La 701 \- Panter Belico](https://open.spotify.com/album/1U8AwjMc0FdRXtjAP1wIFt) | 3:03 | 2023-07-14 | 2023-08-06 |
 | [La 701 \- Panter Belico](https://open.spotify.com/track/5yPJK5jRsaeIoNo0rcFkgP) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [La 701 \- Panter Belico](https://open.spotify.com/album/0SwvlaDXZ02ru0A2F8F0PG) | 3:03 | 2023-07-14 | 2023-07-31 |
 | [La Baliniza](https://open.spotify.com/track/1ZkytXaGzi4od3VnwEO8FA) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [La Baliniza](https://open.spotify.com/album/41P1oKDYfOHh5SaD9hPEmZ) | 1:46 | 2024-03-15 | 2024-08-17 |
+| [La Bandera \(Remix\)](https://open.spotify.com/track/17eoa5LPrYT2Y7tAi4Y8yL) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [La Bandera \(Remix\)](https://open.spotify.com/album/5oGcK4Yz4zpnFkAUKXbjfE) | 2:40 | 2026-04-10 |  |
 | [La Barda](https://open.spotify.com/track/0pi1spZ3Upm2gXb1OVDq5y) | [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [La Barda](https://open.spotify.com/album/1nJyjfqugNuIxK5e1b4svo) | 4:28 | 2022-06-01 | 2022-11-08 |
 | [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-01-27 | 2023-04-20 |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-04-19 | 2023-08-05 |

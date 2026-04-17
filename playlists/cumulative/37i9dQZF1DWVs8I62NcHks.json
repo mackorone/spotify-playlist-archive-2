@@ -3815,6 +3815,28 @@
     },
     {
       "album": {
+        "name": "Main Street Country",
+        "url": "https://open.spotify.com/album/1cvfkOrGG9m7OOpEUOlFn0"
+      },
+      "artists": [
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230200,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/3rS4DHki5GX4GieQHj3zq4"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },

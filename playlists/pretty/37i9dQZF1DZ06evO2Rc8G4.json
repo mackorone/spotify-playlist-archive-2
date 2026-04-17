@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 171100,
+  "num_followers": 171114,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAACmqb5vmPriu0Z+UMpRqBpj",
+  "snapshot_id": "ad7VAAAAAAABdtPMl6Nj1M7fc/a59+5O",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 204128,
+      "name": "I Should Be so Lucky",
+      "url": "https://open.spotify.com/track/0RggFSMfsJvAsrI4itTIzr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Especially for You",
         "url": "https://open.spotify.com/album/0DXTYW6fxh7RmQbZwjGsqP"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 240892,
       "name": "Especially for You",
       "url": "https://open.spotify.com/track/0mVEYOASqm8DX7mCmHgIWt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 204128,
-      "name": "I Should Be so Lucky",
-      "url": "https://open.spotify.com/track/0RggFSMfsJvAsrI4itTIzr"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Out Of 10 (feat. Kylie Minogue)",
-        "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "10 Out Of 10 (feat. Kylie Minogue)",
-      "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 249666,
       "name": "Music's Too Sad Without You",
       "url": "https://open.spotify.com/track/2cUU9jelvVTypTwJttFwkV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Out Of 10 (feat. Kylie Minogue)",
+        "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 170602,
+      "name": "10 Out Of 10 (feat. Kylie Minogue)",
+      "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
     }
   ],
   "unique_name": "This Is Kylie Minogue",

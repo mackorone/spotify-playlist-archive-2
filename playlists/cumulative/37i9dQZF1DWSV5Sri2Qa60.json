@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: Truthpaste",
+  "description": "Where your new favourite bands are discovered. Cover: THEATRE",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -2914,7 +2914,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 211651,
       "name": "I.D.C.",
       "url": "https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1"
@@ -3418,7 +3418,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 204213,
       "name": "London, Out There",
       "url": "https://open.spotify.com/track/0HJycSl4z0y8n4lHhB7USt"
@@ -4445,6 +4445,24 @@
     },
     {
       "album": {
+        "name": "Rubik\u2019s Cube",
+        "url": "https://open.spotify.com/album/3suBlVevdfaTNvvwRlscA1"
+      },
+      "artists": [
+        {
+          "name": "1000 Rabbits",
+          "url": "https://open.spotify.com/artist/6KouMFgMa5zEeyXaeg6fvA"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224933,
+      "name": "Rubik's Cube",
+      "url": "https://open.spotify.com/track/1elHrc1DZab6ZSOrH6HjZ9"
+    },
+    {
+      "album": {
         "name": "Ruminate",
         "url": "https://open.spotify.com/album/7DGL058t2VrOUa7et3IZdh"
       },
@@ -5237,6 +5255,24 @@
     },
     {
       "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx"
+      },
+      "artists": [
+        {
+          "name": "THEATRE",
+          "url": "https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259053,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT"
+    },
+    {
+      "album": {
         "name": "The Lovers",
         "url": "https://open.spotify.com/album/7mHWcf7Vve9BxsEmOfP8iq"
       },
@@ -6011,6 +6047,24 @@
     },
     {
       "album": {
+        "name": "\u80aa \uff5cBo",
+        "url": "https://open.spotify.com/album/2en4aIjPUvlolSAAXWStDy"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "\u80aa \uff5cBo",
+      "url": "https://open.spotify.com/track/71J6B49V8UJAhbAB3FZpgB"
+    },
+    {
+      "album": {
         "name": "\u98a8\uff5cKaze",
         "url": "https://open.spotify.com/album/0dz6iowGbmc2Q0ovSLRke4"
       },
@@ -6022,7 +6076,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 105000,
       "name": "\u98a8\uff5cKaze",
       "url": "https://open.spotify.com/track/6PpzrR9L9kcto2T7JwZEks"

@@ -7646,7 +7646,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 219989,
       "name": "CH\u00c9VERE (premium_remix)",
       "url": "https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ"
@@ -15143,6 +15143,24 @@
     },
     {
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256799,
+      "name": "Favorite Girl",
+      "url": "https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI"
+    },
+    {
+      "album": {
         "name": "Faz de Chicote",
         "url": "https://open.spotify.com/album/2cuIEt1nONL2bu9HnSXjVT"
       },
@@ -17114,7 +17132,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 188876,
       "name": "Ha Ha",
       "url": "https://open.spotify.com/track/2ef8nibK9jOPm6c23ioyIf"
@@ -18244,7 +18262,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 206000,
       "name": "Himno del Mediocre",
       "url": "https://open.spotify.com/track/684Ss8rlDsMkzduSKIIPYz"
@@ -28426,7 +28444,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 189103,
       "name": "Nadie Esta Hablando De Amar",
       "url": "https://open.spotify.com/track/1nQRoMDJBlSokeU8NKiNvY"
@@ -29300,7 +29318,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 80480,
       "name": "NO LES DA",
       "url": "https://open.spotify.com/track/6pryujEohwqSNKGTW33SKE"
@@ -41971,6 +41989,24 @@
     },
     {
       "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "That Should Be Me",
+      "url": "https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S"
+    },
+    {
+      "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
@@ -43565,6 +43601,28 @@
     },
     {
       "album": {
+        "name": "GANGSTA LOVE",
+        "url": "https://open.spotify.com/album/4XLeQteU8UQ6o0QRMiULRU"
+      },
+      "artists": [
+        {
+          "name": "juanssin",
+          "url": "https://open.spotify.com/artist/0xszM5KDxL2achZuOizmQ8"
+        },
+        {
+          "name": "laconexion",
+          "url": "https://open.spotify.com/artist/7qqpFlYyacpfZoBe4oKI4L"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161201,
+      "name": "Tropicana - Remix",
+      "url": "https://open.spotify.com/track/5576lVOHKjL0L5rmE2mxkP"
+    },
+    {
+      "album": {
         "name": "Tropicana RMX",
         "url": "https://open.spotify.com/album/0fDOoC3xGxjPdx7I69KviF"
       },
@@ -43576,7 +43634,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 161309,
       "name": "Tropicana RMX",
       "url": "https://open.spotify.com/track/5OaYJizGI2Wt32mzqcNFzj"
@@ -48106,7 +48164,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 218248,
       "name": "\u00bfC\u00f3mo se ama?",
       "url": "https://open.spotify.com/track/0aEIAGgFPbtWe9HX4lSEPk"

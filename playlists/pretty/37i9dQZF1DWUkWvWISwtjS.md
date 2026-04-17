@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,713 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,648 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 47 | [Sua Melhor Versão \- Ao Vivo](https://open.spotify.com/track/7nvOKQtlpjQAwLNLhqoO5L) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:56 |
 | 48 | [Cobaia](https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Cobaia](https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd) | 3:39 |
 | 49 | [Pegada Que Desgrama](https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Pegada Que Desgrama](https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An) | 3:02 |
-| 50 | [Desbotequei \(Ai Bebê\) \- Acústico / Ao Vivo](https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Acústico Show PPA \(Acústico / Ao Vivo\)](https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww) | 2:27 |
-| 51 | [Amor De Cana \- Ao Vivo](https://open.spotify.com/track/0fZfE8LEbsQT8eLMxqJBRF) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS) | [Buteco Raiz \(Só As Derramadas\) \[Ao Vivo\]](https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai) | 2:43 |
-| 52 | [Sigilo \- Ao Vivo](https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Sigilo \(Ao Vivo\)](https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa) | 2:45 |
-| 53 | [Duvido Você Não Tomar Uma \- Ao Vivo](https://open.spotify.com/track/43SZcLQB8jtHMuDVDHTV5S) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:10 |
-| 54 | [Espelho Meu \- Ao Vivo](https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [Espelho Meu \(Ao Vivo\)](https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC) | 2:41 |
+| 50 | [Sigilo \- Ao Vivo](https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Sigilo \(Ao Vivo\)](https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa) | 2:45 |
+| 51 | [Desbotequei \(Ai Bebê\) \- Acústico / Ao Vivo](https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Acústico Show PPA \(Acústico / Ao Vivo\)](https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww) | 2:27 |
+| 52 | [Amor De Cana \- Ao Vivo](https://open.spotify.com/track/0fZfE8LEbsQT8eLMxqJBRF) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS) | [Buteco Raiz \(Só As Derramadas\) \[Ao Vivo\]](https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai) | 2:43 |
+| 53 | [Espelho Meu \- Ao Vivo](https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [Espelho Meu \(Ao Vivo\)](https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC) | 2:41 |
+| 54 | [Duvido Você Não Tomar Uma \- Ao Vivo](https://open.spotify.com/track/43SZcLQB8jtHMuDVDHTV5S) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:10 |
 | 55 | [Eu Era](https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Eu Era](https://open.spotify.com/album/4vQ19EdJVj7sS6JvKGlq0K) | 3:31 |
 | 56 | [Ainda Sou Tão Seu \- Ao Vivo](https://open.spotify.com/track/07PHNpknqZFw6N3GzNQWB8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Esquenta Do Felipe Araújo \(Ao Vivo\)](https://open.spotify.com/album/2t0KATEqI2hGmuDy6BzU33) | 2:42 |
 | 57 | [Cê Acredita](https://open.spotify.com/track/4sVkydp30HWLjOvF2ILbGy) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Cê Acredita](https://open.spotify.com/album/5WePCCEsG1GwFRbnGISXrY) | 2:50 |

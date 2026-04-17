@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,981 songs - 6 day 10 hr 5 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,982 songs - 6 day 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2989,5 +2989,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2979 | [Freak Show](https://open.spotify.com/track/1AW4dtMU8cP9999inj10lv) | [Maul](https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU), [Avaire](https://open.spotify.com/artist/5PD4TII1attpjYjYRjI8YK) | [Freak Show](https://open.spotify.com/album/1r4fRJOzDe4pANRm26l7KT) | 2:56 |
 | 2980 | [The Age Of Love \(Hard Remix\)](https://open.spotify.com/track/08emeyDzGaOFWkxUDymnge) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [The Age Of Love \(Hard Remix\)](https://open.spotify.com/album/1ES6cr7pw2ZRMd4FyjAR7W) | 3:47 |
 | 2981 | [FIRE EYES](https://open.spotify.com/track/3qnAAp0i7iFNN9cLT12UE2) | [Chrizens](https://open.spotify.com/artist/0PpV3wJeippPzgbqzVnYZ0), [Flinke Herrie](https://open.spotify.com/artist/2zASDu4ug3FvTxk93z1xuv) | [FIRE EYES](https://open.spotify.com/album/1VyvSOu5f0sjTL781YednC) | 2:54 |
+| 2982 | [We Are Free \- KVN Remix](https://open.spotify.com/track/5AoiUMrH530BeezG1rgNeo) | [WILDWEST](https://open.spotify.com/artist/2ET4cHHBMdc5NDZPc8tInB), [WADEZ](https://open.spotify.com/artist/2G1HNUrDPyHZQUi2NBSmsY), [WILDWADEZ](https://open.spotify.com/artist/7Gqn5LX7KkU7XJR7NSkQid), [KVN](https://open.spotify.com/artist/5Ui8u3x32EyTRemTHOo9dA) | [We Are Free \(KVN Remix\)](https://open.spotify.com/album/1EpeNu7W1v19Qoarlm2Qsz) | 3:13 |
 
-Snapshot ID: `AAAL/KWABUlVb6dCgXJbWffX6eTDOPlM`
+Snapshot ID: `AAAL/RDHhhyEHXLqz+sJS7zJZDYg9Jk7`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica tropical, cumbia, guasca y de carrilera para recordar y disfrutar!",
-  "num_followers": 145309,
+  "num_followers": 145307,
   "original_name": "Viejoteca",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Dar\u00edo Dar\u00edo Esclavo de las Mujeres",
-        "url": "https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm"
-      },
-      "artists": [
-        {
-          "name": "Dario Dario",
-          "url": "https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG"
-        }
-      ],
-      "duration_ms": 221773,
-      "name": "Mu\u00f1eco de Vitrina",
-      "url": "https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "No Hay Porqu\u00e9 Esperar",
         "url": "https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 176562,
       "name": "Me Tragaba Tus Mentiras",
       "url": "https://open.spotify.com/track/0Z2KrRMIL80GrzQUmXsLeu"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Dar\u00edo Dar\u00edo Esclavo de las Mujeres",
+        "url": "https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm"
+      },
+      "artists": [
+        {
+          "name": "Dario Dario",
+          "url": "https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG"
+        }
+      ],
+      "duration_ms": 221773,
+      "name": "Mu\u00f1eco de Vitrina",
+      "url": "https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Clasicas de la Cancion Popular, Vol. 5",
-        "url": "https://open.spotify.com/album/3kv4gOvF572KH6yBm2B2zq"
-      },
-      "artists": [
-        {
-          "name": "Ibarra y Medina",
-          "url": "https://open.spotify.com/artist/20Uda1t31CPZ79yOtMbKgM"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Todo Es Amor",
-      "url": "https://open.spotify.com/track/2c032My2b1gSCVUMSgkXjA"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "La Sonora Matancera y sus voces de oro, Vol. 1 (Remastered)",
         "url": "https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 153414,
       "name": "El negrito del Batey - Remastered",
       "url": "https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Clasicas de la Cancion Popular, Vol. 5",
+        "url": "https://open.spotify.com/album/3kv4gOvF572KH6yBm2B2zq"
+      },
+      "artists": [
+        {
+          "name": "Ibarra y Medina",
+          "url": "https://open.spotify.com/artist/20Uda1t31CPZ79yOtMbKgM"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Todo Es Amor",
+      "url": "https://open.spotify.com/track/2c032My2b1gSCVUMSgkXjA"
     },
     {
       "added_at": "2026-02-23 16:04:48",

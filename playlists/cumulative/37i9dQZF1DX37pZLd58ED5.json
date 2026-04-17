@@ -276,7 +276,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 157470,
       "name": "440",
       "url": "https://open.spotify.com/track/6fSEJV9GWM4lbmuRAhTFOr"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 196078,
       "name": "AVANTI E INDIETRO",
       "url": "https://open.spotify.com/track/4HF7Hu6nDB7cvZ727WVJXT"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 167861,
       "name": "BABY (DO YOU LOVE ME?)",
       "url": "https://open.spotify.com/track/1kQ9UfXAwrYTBFgBCTrBGC"
@@ -1772,6 +1772,24 @@
       "duration_ms": 166982,
       "name": "Come Stai",
       "url": "https://open.spotify.com/track/6mmBVpItqlggbdKOD9zOu9"
+    },
+    {
+      "album": {
+        "name": "DISINCANTO",
+        "url": "https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202893,
+      "name": "COME STAI?",
+      "url": "https://open.spotify.com/track/2QjyiKbzVyfrRgE6EGF3bn"
     },
     {
       "album": {
@@ -3250,6 +3268,24 @@
       "duration_ms": 198946,
       "name": "Indelebili",
       "url": "https://open.spotify.com/track/75Yzvfpj7uGrT9c39u4pvq"
+    },
+    {
+      "album": {
+        "name": "DISINCANTO",
+        "url": "https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177280,
+      "name": "INVIDIOSA",
+      "url": "https://open.spotify.com/track/0IlzQAJto4settbYqRONHP"
     },
     {
       "album": {
@@ -5920,7 +5956,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 163106,
       "name": "Reggio Piange",
       "url": "https://open.spotify.com/track/0tlGkLFFJ4y0zCg4776n8c"
@@ -6172,7 +6208,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 150725,
       "name": "sara",
       "url": "https://open.spotify.com/track/3745a4rbog9BfZy7wxDe97"
@@ -6542,7 +6578,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 171766,
       "name": "SONO PERSA",
       "url": "https://open.spotify.com/track/1CfhwjK3SSRwLy4A7uOxb6"
@@ -7168,7 +7204,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 169133,
       "name": "Up",
       "url": "https://open.spotify.com/track/55bbclV2CNma8iNwua3Ks5"
@@ -7334,6 +7370,28 @@
       "duration_ms": 156774,
       "name": "Vita nuova (feat. Gheba)",
       "url": "https://open.spotify.com/track/3N2s9VIfSU6ApdIeTZVZD5"
+    },
+    {
+      "album": {
+        "name": "DISINCANTO",
+        "url": "https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "VOLEVO CAPIRE CON MARRACASH",
+      "url": "https://open.spotify.com/track/6UrPST46XxYPqbAAThhSMS"
     },
     {
       "album": {

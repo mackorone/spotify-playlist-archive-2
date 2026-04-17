@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 406,
+  "num_followers": 409,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABgLfWFyM0Fh4Q+qSbdiV1WnGPuFft",
+  "snapshot_id": "AAABghPVH/4FfnGtASbWVUVzXWLJD/kI",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1279,6 +1279,38 @@
       "duration_ms": 221265,
       "name": "Prosthetic",
       "url": "https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd"
+    },
+    {
+      "added_at": "2026-04-16 02:48:00",
+      "album": {
+        "name": "Libertad de Expresi\u00f3n",
+        "url": "https://open.spotify.com/album/0DGZGMrloXmGnADcqIlJd0"
+      },
+      "artists": [
+        {
+          "name": "Misi\u00f3n P\u00e1jaro",
+          "url": "https://open.spotify.com/artist/0fbfzghafzuSdoHe1VMZXy"
+        }
+      ],
+      "duration_ms": 340728,
+      "name": "Libertad de Expresi\u00f3n",
+      "url": "https://open.spotify.com/track/37uRx1n0rsGqoIIIz6QcPO"
+    },
+    {
+      "added_at": "2026-04-16 14:41:55",
+      "album": {
+        "name": "Guardians of the Phallicy",
+        "url": "https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU"
+      },
+      "artists": [
+        {
+          "name": "AG Session",
+          "url": "https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy"
+        }
+      ],
+      "duration_ms": 152708,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/5fTYOxtkQXksKM7Pbj6SQy"
     }
   ],
   "unique_name": "Local Rock Bands",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Thundercat",
+  "description": "Beyond titles, beyond genre. Cover: Jalen Ngonda",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 150666,
       "name": "Blow my lid",
       "url": "https://open.spotify.com/track/6dIqq1fS01fSAHxKuOXHsb"
@@ -2912,7 +2912,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 203865,
       "name": "cu\u00eddame de mi",
       "url": "https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F"
@@ -3508,6 +3508,24 @@
       "duration_ms": 200573,
       "name": "Doctrine of Love",
       "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
+    },
+    {
+      "album": {
+        "name": "does it still rain?",
+        "url": "https://open.spotify.com/album/3dLcb6UK74af7IgA7vAq8B"
+      },
+      "artists": [
+        {
+          "name": "BEASTIE",
+          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "does it still rain?",
+      "url": "https://open.spotify.com/track/2QrFAGaJXM1gnJsbfE0zrO"
     },
     {
       "album": {
@@ -4873,6 +4891,24 @@
     },
     {
       "album": {
+        "name": "LUX (Complete Works)",
+        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170533,
+      "name": "Focu 'Ranni",
+      "url": "https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH"
+    },
+    {
+      "album": {
         "name": "For Sure",
         "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
       },
@@ -5718,6 +5754,24 @@
       "duration_ms": 193443,
       "name": "Hammer",
       "url": "https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW"
+    },
+    {
+      "album": {
+        "name": "Hang It On The Shelf",
+        "url": "https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145786,
+      "name": "Hang It On The Shelf",
+      "url": "https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK"
     },
     {
       "album": {
@@ -7762,7 +7816,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 248750,
       "name": "Koneko",
       "url": "https://open.spotify.com/track/5OKtvYYQH7Ej7C7BD3uWBH"
@@ -8584,6 +8638,28 @@
       "duration_ms": 182360,
       "name": "Loud Thoughts (feat. Samba Jean-Baptiste)",
       "url": "https://open.spotify.com/track/2HPJLXIgTcNLw0KpThbyB6"
+    },
+    {
+      "album": {
+        "name": "Love Hate (feat. Thomas Day)",
+        "url": "https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        },
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192075,
+      "name": "Love Hate (feat. Thomas Day)",
+      "url": "https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY"
     },
     {
       "album": {
@@ -10738,7 +10814,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 129986,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/0QDpFGGK0vPADxypanLHVz"
@@ -11578,7 +11654,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 211945,
       "name": "R3verse",
       "url": "https://open.spotify.com/track/06QzPn91srChnujaOnUN5A"
@@ -12696,6 +12772,24 @@
       "duration_ms": 207616,
       "name": "Should've known better (choices)",
       "url": "https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF"
+    },
+    {
+      "album": {
+        "name": "SHUT YOUR DAMN 95.7892",
+        "url": "https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185407,
+      "name": "SHUT YOUR DAMN 95.7892",
+      "url": "https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l"
     },
     {
       "album": {

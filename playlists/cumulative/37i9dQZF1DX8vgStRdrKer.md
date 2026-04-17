@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-764 songs - 2 day 17 hr 30 min
+765 songs - 2 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [All Glory Must Be to the Lord](https://open.spotify.com/track/1wyMgop3N0ULYPfUBHCHXn) | [Ogoh Precious](https://open.spotify.com/artist/1ozEQMzWQuJLNAAXRVpz83), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [All Glory Must Be to the Lord](https://open.spotify.com/album/5jfIojBBvR0v5ol5ax9ioT) | 2:09 | 2025-05-30 | 2025-07-16 |
 | [All I Have](https://open.spotify.com/track/6sTaaBeDm3lc2yhxOQy81C) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [All I Have](https://open.spotify.com/album/642utidvaV4fu1rlI1FdPP) | 5:50 | 2024-10-11 | 2025-06-20 |
 | [ALL I WANT](https://open.spotify.com/track/5H4XvFQKWdHGtUNBf282kz) | [Macjosh](https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak) | [ALL I WANT](https://open.spotify.com/album/1ZdTVup0DzP4t5rrPmzERY) | 3:06 | 2025-06-27 | 2025-08-04 |
+| [All My Life](https://open.spotify.com/track/3l6ek8A46LHzqPDSbWfBXw) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [All My Life](https://open.spotify.com/album/1HMUdkIPCBsOBJy7518Hh6) | 4:31 | 2026-03-27 |  |
 | [All Night Prayer](https://open.spotify.com/track/1hZaoh4wKbi2XKkWKYav85) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Condoseven](https://open.spotify.com/artist/20rqbefynSHHd079In5Ipa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [All Night Prayer](https://open.spotify.com/album/5KlJitZ9pta6sZNNAHR94C) | 2:30 | 2025-09-19 | 2025-10-03 |
 | [All Over The World](https://open.spotify.com/track/0QQXbuDmrGBcxVSNjCbAjs) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv), [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [All Over The World](https://open.spotify.com/album/2WW74ORHcfnmasd6ROZOlK) | 3:06 | 2024-07-19 | 2024-09-27 |
 | [All Powerful](https://open.spotify.com/track/3ajMxkGIalFItWrXuEf9YS) | [Mnqobi Nxumalo](https://open.spotify.com/artist/70Y2n0KGh0iCJrpBronVOW) | [The Pursuit](https://open.spotify.com/album/4c1ujaYiWGsU3qFsKmu8rv) | 7:49 | 2025-09-05 | 2025-09-29 |
@@ -451,7 +452,7 @@
 | [Miracle](https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle](https://open.spotify.com/album/0j428IWZNxi3fAJTahWjil) | 4:12 | 2023-12-01 | 2024-03-16 |
 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 | 2023-09-15 | 2024-03-16 |
 | [Miracle Season](https://open.spotify.com/track/5IqJ8yatgnsKakT9rDk5Gx) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Miracle Season](https://open.spotify.com/album/0G3KmZWweFL5ar1Bjylv8t) | 4:32 | 2025-07-04 | 2025-10-04 |
-| [Miracle Walking \- Radio Edit](https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Miracle Walking \(Radio Edit\)](https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih) | 3:37 | 2026-03-13 |  |
+| [Miracle Walking \- Radio Edit](https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Miracle Walking \(Radio Edit\)](https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih) | 3:37 | 2026-03-13 | 2026-04-17 |
 | [Miyeruwe](https://open.spotify.com/track/49W1rWTLscuPm49Uztjha5) | [Bada Godwin](https://open.spotify.com/artist/3OpSfWD36e1vwrf16uou9F), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Miyeruwe](https://open.spotify.com/album/5sz29dKcDx5uIBRGpMLwrn) | 5:25 | 2025-08-22 | 2025-11-04 |
 | [MOG](https://open.spotify.com/track/1Sdcat45qN20OLrKZR0FJM) | [Mic Dada](https://open.spotify.com/artist/2SWGKvYcm3wowvgdQTwQ4c) | [MOG](https://open.spotify.com/album/6lmXCMLzFR9xvTx2V9xdjL) | 3:46 | 2025-06-27 | 2025-07-16 |
 | [Moja](https://open.spotify.com/track/6q3P3cfcEJHqNiPk01xH31) | [Moses Luka](https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp), [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Moja](https://open.spotify.com/album/4NlB5czbw0xdrWuuwS7IqC) | 3:20 | 2026-03-06 |  |

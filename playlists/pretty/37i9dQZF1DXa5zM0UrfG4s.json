@@ -1,15 +1,15 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 117567,
+  "num_followers": 117571,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMtRzVgC9MhmkB9wiO0p0gk9UGur",
+  "snapshot_id": "AAAAAFErITp0XTEFtmcnco+Mk2aTE0D6",
   "tracks": [
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Baby, du er r\u00e5!",
         "url": "https://open.spotify.com/album/6yFNlkxfGaZSMGEttBWmD7"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/5pD6vZ2GG9ulDChjwwp8Hv"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Hva gj\u00f8r du n\u00e5?",
         "url": "https://open.spotify.com/album/2VKqpZN9XCAQ20Etpxjd7a"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/1ZWDLei3i9cWF4IMClFYxo"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Drekke d\u00e6 fin",
         "url": "https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Norge trenger bonden!",
         "url": "https://open.spotify.com/album/6OyAEErfXmTxJEl3kauZCf"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/0mOahKjQsKatdM08cTkXHr"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Falla",
         "url": "https://open.spotify.com/album/17uI2EwTaK9s29cyoJoFOX"
@@ -105,7 +105,23 @@
       "url": "https://open.spotify.com/track/43YgCJIcbcSOYSqh7G9dx6"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
+      "album": {
+        "name": "Pengene eller Livet",
+        "url": "https://open.spotify.com/album/10eqaM5ACUHLLIQEtYA0ld"
+      },
+      "artists": [
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
+        }
+      ],
+      "duration_ms": 160675,
+      "name": "Pengene eller Livet",
+      "url": "https://open.spotify.com/track/7kjaJxq0ilgPOUY0IpDq3V"
+    },
+    {
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Bygda",
         "url": "https://open.spotify.com/album/5mOY8DE3sFf1y1B90SlWj8"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/4bM5KnzjYWui6jr20pU3ZW"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Naboen",
         "url": "https://open.spotify.com/album/0V83AYZQaHZLyc8Ej57Den"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/43Fe7HmRD4htXBxcRfBMzS"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "BUBBEL P\u00c5 BALKONGEN",
         "url": "https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn"
@@ -165,23 +181,7 @@
       "url": "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "P\u00e5 vei",
-        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "Rundt neste sving",
-      "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Dans med meg",
         "url": "https://open.spotify.com/album/7muCKlH36eZGABYNxTy3vl"
@@ -197,7 +197,23 @@
       "url": "https://open.spotify.com/track/2g7232WSHdTpsh3br3ueXt"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
+      "album": {
+        "name": "P\u00e5 vei",
+        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "Rundt neste sving",
+      "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
+    },
+    {
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Jentekveld",
         "url": "https://open.spotify.com/album/6sQugPUwv6kMn83YM4Ooaz"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/3ULg1vFh05UW6TPSnsgGpy"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Elektrisk",
         "url": "https://open.spotify.com/album/40IR6P8ox7OUd6MK1uciEE"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/0mQOTQHZ64Xojgf7ypkrKh"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "St\u00f8gg melodi",
         "url": "https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Bygdegut (her er eg)",
         "url": "https://open.spotify.com/album/0TiVDDgfK4JpMZaBlwYlrP"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/5t4O0SahpSw7pavJBwGEC5"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Berre i natt",
         "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Sl\u00e5ss f\u00f6r dig",
         "url": "https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "I natt",
         "url": "https://open.spotify.com/album/5vfB0w1bOkEqvBdGYy4usj"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/5vbCn0kZNFFCkxCmGoiTa2"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "E45",
         "url": "https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
         "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Festen er aldri over",
         "url": "https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Cowboyhatten",
         "url": "https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Sommernatta",
         "url": "https://open.spotify.com/album/3sCT7fDeGQbQLh1koh7TWJ"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/14cXhnFvaND0EEDvbY7Eca"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Promiski\u00f8s (PM)",
         "url": "https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp"
@@ -453,7 +469,7 @@
       "url": "https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Staut",
         "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
@@ -469,7 +485,7 @@
       "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Pickup truck",
         "url": "https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "B\u00e6st I Test",
         "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Ingenting kan stoppe oss",
         "url": "https://open.spotify.com/album/4BdAQy3bCKpsYQEIEwdz7M"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/3vT5zeUXtsnpl5zYZlh8GB"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Flaska",
         "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "G\u00e5r det bra?",
         "url": "https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Dum i haue",
         "url": "https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "En d\u00e5rlig id\u00e9",
         "url": "https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "S\u00e5nn So Det Va F\u00f8r",
         "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Helg",
         "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Hele natta",
         "url": "https://open.spotify.com/album/3uVAwQKUH2tDeVxQzA9CXZ"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/6ErJLc3g3F3LTR89uSQaOW"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
         "url": "https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Flesk og duppe",
         "url": "https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/6fQFJFQ32fixoWCwQs234R"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "H\u00f8gt over landet",
         "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
@@ -709,23 +725,7 @@
       "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "Konge p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 180393,
-      "name": "Konge p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "G\u00e5r i hundre",
         "url": "https://open.spotify.com/album/5dF8qDJtjtq0f0eH9U4v5J"
@@ -741,7 +741,23 @@
       "url": "https://open.spotify.com/track/6bSCsSwV5iHwftQ17G1Vuj"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
+      "album": {
+        "name": "Konge p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 180393,
+      "name": "Konge p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
+    },
+    {
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Jeg har v\u00e6rt en idiot",
         "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Norge rundt med Staysman",
         "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Helt \u00c6rlig",
         "url": "https://open.spotify.com/album/5tpY3sc8z7TFGeCixCgW0Y"
@@ -797,23 +813,7 @@
       "url": "https://open.spotify.com/track/00NVYE5PrMpR1gVlC8zPZV"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Viddas Himmelbl\u00e5",
         "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
@@ -837,23 +837,39 @@
       "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
-        "name": "Kunna vorre v\u00e6r",
-        "url": "https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt"
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
       },
       "artists": [
         {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 138388,
-      "name": "Kunna vorre v\u00e6r",
-      "url": "https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV"
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
+      "album": {
+        "name": "Langt igjen \u00e5 g\u00e5",
+        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 182824,
+      "name": "Langt igjen \u00e5 g\u00e5",
+      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
+    },
+    {
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Singel til jeg d\u00f8r",
         "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
@@ -869,7 +885,7 @@
       "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "De g\u00e6rne har det godt",
         "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
@@ -889,7 +905,23 @@
       "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
+      "album": {
+        "name": "Kunna vorre v\u00e6r",
+        "url": "https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 138388,
+      "name": "Kunna vorre v\u00e6r",
+      "url": "https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV"
+    },
+    {
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Gamlehjem",
         "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
@@ -905,23 +937,7 @@
       "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "Langt igjen \u00e5 g\u00e5",
-        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 182824,
-      "name": "Langt igjen \u00e5 g\u00e5",
-      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Der Jeg H\u00f8rer Te (Bygda)",
         "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
@@ -937,7 +953,7 @@
       "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Gikk en tur p\u00e5 stien",
         "url": "https://open.spotify.com/album/1xx33P54osSgrtU0yMcpdS"
@@ -953,7 +969,7 @@
       "url": "https://open.spotify.com/track/0t8E42WWXZQ9Jd8XibIiZz"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Bara vara med dig",
         "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
@@ -969,23 +985,7 @@
       "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "Er det lov \u00e5 leva",
-        "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 131835,
-      "name": "Er det lov \u00e5 leva",
-      "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Sv\u00e6re Pupper",
         "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
@@ -1001,7 +1001,23 @@
       "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
+      "album": {
+        "name": "Er det lov \u00e5 leva",
+        "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 131835,
+      "name": "Er det lov \u00e5 leva",
+      "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
+    },
+    {
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Tro",
         "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
@@ -1017,7 +1033,7 @@
       "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Ryker p\u00e5'a igjen",
         "url": "https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf"
@@ -1037,7 +1053,7 @@
       "url": "https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Ja vi elsker (Typisk Norsk 2019)",
         "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
@@ -1053,23 +1069,7 @@
       "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "Ola",
-        "url": "https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 204336,
-      "name": "Ola",
-      "url": "https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "GUTTA (feat. Plumbo)",
         "url": "https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x"
@@ -1089,7 +1089,23 @@
       "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
+      "album": {
+        "name": "Ola",
+        "url": "https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 204336,
+      "name": "Ola",
+      "url": "https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6"
+    },
+    {
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver (EPA Remixes)",
         "url": "https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp"
@@ -1109,23 +1125,7 @@
       "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "En gammal Amazon",
-        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
-      },
-      "artists": [
-        {
-          "name": "Str\u00f6g1",
-          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
-        }
-      ],
-      "duration_ms": 166297,
-      "name": "En gammal Amazon",
-      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
         "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
@@ -1141,7 +1141,23 @@
       "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
+      "album": {
+        "name": "En gammal Amazon",
+        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
+      },
+      "artists": [
+        {
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+        }
+      ],
+      "duration_ms": 166297,
+      "name": "En gammal Amazon",
+      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
+    },
+    {
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Tr\u00f8bbel",
         "url": "https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw"
@@ -1157,7 +1173,7 @@
       "url": "https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Svensk i kv\u00e4ll",
         "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
@@ -1177,7 +1193,7 @@
       "url": "https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "N\u00e5 er det helg",
         "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
@@ -1193,7 +1209,23 @@
       "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
+      "album": {
+        "name": "Her og n\u00e5",
+        "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
+      },
+      "artists": [
+        {
+          "name": "River",
+          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
+        }
+      ],
+      "duration_ms": 136981,
+      "name": "Her og n\u00e5",
+      "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
+    },
+    {
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "GUT OG KAR",
         "url": "https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e"
@@ -1213,23 +1245,7 @@
       "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "Her og n\u00e5",
-        "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
-      },
-      "artists": [
-        {
-          "name": "River",
-          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
-        }
-      ],
-      "duration_ms": 136981,
-      "name": "Her og n\u00e5",
-      "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Polisen",
         "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
@@ -1245,7 +1261,7 @@
       "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
     },
     {
-      "added_at": "2026-04-09 22:02:04",
+      "added_at": "2026-04-16 22:02:13",
       "album": {
         "name": "Flammer og Bensin",
         "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
@@ -1259,22 +1275,6 @@
       "duration_ms": 212360,
       "name": "Flammer og Bensin",
       "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "Naboen har operert kona si",
-        "url": "https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8rse",
-          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
-        }
-      ],
-      "duration_ms": 150624,
-      "name": "Naboen har operert kona si",
-      "url": "https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

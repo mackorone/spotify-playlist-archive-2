@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Nenny",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Agir",
   "name": "Seda",
   "tracks": [
     {
@@ -758,6 +758,28 @@
       "duration_ms": 211826,
       "name": "Aleluia",
       "url": "https://open.spotify.com/track/6uCHzPdg4soaXghzZcmloN"
+    },
+    {
+      "album": {
+        "name": "ALGO MAIS QUE FLOR FEIA",
+        "url": "https://open.spotify.com/album/6XaP26MjMpBYBTvi2LF3h1"
+      },
+      "artists": [
+        {
+          "name": "Agir",
+          "url": "https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC"
+        },
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264417,
+      "name": "ALGO MAIS QUE FLOR FEIA",
+      "url": "https://open.spotify.com/track/4HFBl4zxIUX37uDLxPuZrz"
     },
     {
       "album": {
@@ -8101,6 +8123,28 @@
     },
     {
       "album": {
+        "name": "Ko Kai (feat. Richie Campbell)",
+        "url": "https://open.spotify.com/album/1vMLoOHnNjLU5bjfNakVXe"
+      },
+      "artists": [
+        {
+          "name": "Rislene",
+          "url": "https://open.spotify.com/artist/2323qzOfGL0pQYXoLdz8PR"
+        },
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Ko Kai (feat. Richie Campbell)",
+      "url": "https://open.spotify.com/track/25ynrfpCTfbkmXtWaN6evH"
+    },
+    {
+      "album": {
         "name": "Balan\u00e7o",
         "url": "https://open.spotify.com/album/6ZjznsfvWwuODmsepHwG93"
       },
@@ -8568,7 +8612,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 151826,
       "name": "LONGE",
       "url": "https://open.spotify.com/track/0P42hkV71GOK9De2sE2Z7X"
@@ -11186,7 +11230,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 135652,
       "name": "O Nosso Caminho",
       "url": "https://open.spotify.com/track/72iqGUNjxnYb7fuprm0e59"

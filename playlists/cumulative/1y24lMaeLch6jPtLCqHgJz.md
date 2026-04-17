@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-465 songs - 23 hr 23 min
+466 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Born To Die \- BLK RSE Mix](https://open.spotify.com/track/4AhF1IFiqP7ccKBCYzT8e4) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [ShowKaaze Vol\. 3](https://open.spotify.com/album/1PJbL6uCqFlgZfTZLfNh9N) | 3:07 | 2022-07-29 | 2022-09-30 |
 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 | 2023-08-11 |  |
 | [Break Away](https://open.spotify.com/track/7GzNzbsrMC3O7jLh2rl1OR) | [Denmatt](https://open.spotify.com/artist/3cV7xalGnxwyfYaO5K4NQE), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe) | [Crash & Smile in Dada Land \- March](https://open.spotify.com/album/5Z4rjjju4su6VRnACT09oA) | 2:58 | 2023-03-30 | 2023-09-02 |
+| [Break My Fall](https://open.spotify.com/track/24n6weUoFTSfph6oXvxCU6) | [2ACES](https://open.spotify.com/artist/5dHy2mDWei8fmwzE3fsrC3) | [Break My Fall](https://open.spotify.com/album/4ktru366GqV7sfnvK5u5Ff) | 3:30 | 2026-04-16 |  |
 | [Break This Heart](https://open.spotify.com/track/3bQ4fFG9lBksBns3YyCdfX) | [Couddio](https://open.spotify.com/artist/0QgrbtBh2X2FOL0FCvYhEY), [MasterBangg](https://open.spotify.com/artist/0OR0HHn3OGSrPxFO0ea6W5), [PRYVT RYN](https://open.spotify.com/artist/6zq6KNF09GUIFltBdxaSb0) | [Break This Heart](https://open.spotify.com/album/6DztBxiOPt4pVtKI72I5tj) | 3:26 | 2023-09-07 | 2025-10-09 |
 | [Breathing](https://open.spotify.com/track/0RdQFQGVGhGmBCNREU7vsC) | [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc), [Lost Astro](https://open.spotify.com/artist/6yp0fKhPxEjq0e3IbGLg4X) | [Breathing](https://open.spotify.com/album/2yrdbmuPSFMhxZ8mz1SCBD) | 2:51 | 2025-01-31 | 2025-03-13 |
 | [Breathless](https://open.spotify.com/track/4kydVCpanDuAzoGuHMNZBZ) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Kazden](https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y), [Karasso](https://open.spotify.com/artist/751zFKXhbzKTvHnxt2iIFn), [Brunetti](https://open.spotify.com/artist/57HqYJzEeUisul8wKeOrOB) | [Breathless](https://open.spotify.com/album/4YNvCzLe7cq4CVIrzg976s) | 3:10 | 2023-08-24 | 2024-07-13 |

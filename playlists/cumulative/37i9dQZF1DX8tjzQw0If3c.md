@@ -2,12 +2,13 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Alpha
+> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: supercatkei
 
-308 songs - 16 hr 46 min
+311 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1000 Kali Sakit](https://open.spotify.com/track/0uzE4bSVct5gjrLaGaWuT7) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8), [mimpi.](https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE) | [1000 Kali Sakit](https://open.spotify.com/album/22otPjlpE1GtHzxphsmSDy) | 4:04 | 2026-04-17 |  |
 | [3 HAJAT](https://open.spotify.com/track/1XmCZBnNXYYTgCiQUZA9XK) | [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z) | [SAMPAH](https://open.spotify.com/album/5OBNO5de9kYK1MeMDmKlw1) | 3:33 | 2025-04-15 | 2026-04-07 |
 | [30,000](https://open.spotify.com/track/2d0JouNdQsX6rFzaWlRtkD) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [30,000](https://open.spotify.com/album/4BvAGJTpHcxLjcIC9t6OTg) | 3:07 | 2024-11-28 | 2024-12-05 |
 | [99](https://open.spotify.com/track/6Fx2MscRZmwIUhjOO3qUsg) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 3:03 | 2024-12-04 | 2025-04-16 |
@@ -20,6 +21,7 @@
 | [All Night Long \(feat\. 唐仲彣\)](https://open.spotify.com/track/16dEsck7g3sl9GBgjNi9lj) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx), [唐仲彣](https://open.spotify.com/artist/2AXIg0cc8pzzVcNnE3sSI6) | [All Night Long \(feat\. 唐仲彣\)](https://open.spotify.com/album/2FohZt2GfxsBBJwkHsrXps) | 2:29 | 2024-06-27 | 2025-04-16 |
 | [AMBANI MONEY](https://open.spotify.com/track/0FbFG2Oe58DgtBmVGVZJoR) | [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z) | [AMBANI MONEY](https://open.spotify.com/album/700iQlRgavSFq8H3JMqxIj) | 2:47 | 2025-10-30 | 2026-04-07 |
 | [Angau](https://open.spotify.com/track/2JVm4VDnZzIFoVjdVXOyCP) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Angau](https://open.spotify.com/album/0ScMd2xOV2o6OC6ldq59bL) | 2:40 | 2025-04-15 | 2026-04-07 |
+| [angel in disguise](https://open.spotify.com/track/2zQYlFRHVpBC2WmTnBsxja) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [angel in disguise](https://open.spotify.com/album/4cPJiXzTeTNU4U6XiflS7P) | 3:28 | 2026-04-17 |  |
 | [Apocalypse!!!](https://open.spotify.com/track/01eeBhcadGcWdKT6pPvsRQ) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Apocalypse!!!](https://open.spotify.com/album/1Q3SaKJkTur2f8gNYieufg) | 2:45 | 2025-04-17 | 2026-04-07 |
 | [Arus & Arah](https://open.spotify.com/track/65oQyasDR8yC76NLeVQ5Fi) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Arus & Arah](https://open.spotify.com/album/5Vva6ynjE5EkmvgnxmLpvi) | 3:30 | 2025-06-12 | 2026-04-07 |
 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 | 2024-06-27 | 2025-04-16 |
@@ -278,6 +280,7 @@
 | [THE HILLS](https://open.spotify.com/track/7ekI4xr14wQ0dxuxtR82em) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Echoes from the Hills](https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB) | 2:15 | 2025-10-24 | 2026-04-07 |
 | [Then There's You](https://open.spotify.com/track/3l5447HIPhfaDfH1g6yEJV) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg), [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Then There's You](https://open.spotify.com/album/6CEIbrfrBtblERDfN4H1Ky) | 3:54 | 2025-08-21 | 2026-04-07 |
 | [THRU THE ROOF](https://open.spotify.com/track/5N1SgEuIi1rC22q58Yj3IO) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8), [Aditya Ojha](https://open.spotify.com/artist/1As4gXpkB3Vkwox0WRlbzT) | [THRU THE ROOF](https://open.spotify.com/album/1cuyM7IwnEw6VV63RjZ98k) | 3:54 | 2025-06-19 | 2026-04-07 |
+| [Tiada Pengganti](https://open.spotify.com/track/2Bfp4yZKfMJxCkScw7s1G3) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [Tiada Pengganti](https://open.spotify.com/album/7vzNHzXi5yCbTRdc5eogmA) | 3:08 | 2026-04-17 |  |
 | [Tiap Kali Bertemu](https://open.spotify.com/track/6mmLZi96biKSGiIfXOATwm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 4:14 | 2024-08-08 | 2024-12-05 |
 | [Time](https://open.spotify.com/track/6XxN0arhVahVrq0JLX4K43) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Time](https://open.spotify.com/album/4kgKn7ydkHXSHQoqIStObO) | 2:43 | 2024-06-27 | 2025-04-16 |
 | [Ting Tang Raya](https://open.spotify.com/track/2LEeHghDTUIRDCUPp7qA51) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Ewal](https://open.spotify.com/artist/1qM3N86kXp85fgj9eJE88O) | [Ting Tang Raya](https://open.spotify.com/album/0Qctzr846ys97tTdmeyaBs) | 2:52 | 2026-03-20 | 2026-04-07 |

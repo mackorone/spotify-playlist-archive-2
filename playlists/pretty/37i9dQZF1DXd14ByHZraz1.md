@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Almanac
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,495 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,456 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 5 | [Anytime](https://open.spotify.com/track/1UXN6YD98neROqVMLf2cRS) | [FatSync](https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U) | [Anytime](https://open.spotify.com/album/4FeBJWZ4PfVcpDCcLWgYGL) | 2:30 |
 | 6 | [Izzin](https://open.spotify.com/track/1vFtcubbaGr3ih0C5l8Ob9) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX) | [Izzin](https://open.spotify.com/album/1sDI4g2XELYnyUGcFA25x8) | 3:01 |
 | 7 | [Substance](https://open.spotify.com/track/5On7CF20MHgFOYUUlacXbf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Substance](https://open.spotify.com/album/2fJ1PQyoQEA7QiWkGjjpaA) | 2:40 |
-| 8 | [So Am I](https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder](https://open.spotify.com/album/1LL2XVTzO6xLRNMag9XtXV) | 3:11 |
+| 8 | [So Am I](https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder](https://open.spotify.com/album/1LL2XVTzO6xLRNMag9XtXV) | 4:43 |
 | 9 | [Cherry Blossom \- Vintage Culture Remix](https://open.spotify.com/track/7qTu1G3gDgC5qJ6Eu71OUs) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Cherry Blossom \(Vintage Culture Remix\)](https://open.spotify.com/album/1O5zlTiK5ZTJDmMnsVJaxd) | 4:13 |
 | 10 | [System Error](https://open.spotify.com/track/2RKGqUw14sYGxChBCymGa7) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [System Error](https://open.spotify.com/album/0OiTED4JIxWHqwsK8ViPDA) | 2:10 |
 | 11 | [Hear It](https://open.spotify.com/track/4wEcWmgrx7ANAS1TVmaXe5) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Hear It](https://open.spotify.com/album/07RZ8CLwCSRPUpa4GbcaBX) | 3:11 |

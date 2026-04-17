@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 
 > for the late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,841 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,839 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 70 | [Lagoon](https://open.spotify.com/track/6AukzxLBWmUJ6F5anYkQDu) | [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [R\-Kay](https://open.spotify.com/artist/4M5sR9GhVebERklwVPeEp2) | [Lagoon](https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY) | 4:48 |
 | 71 | [Bad](https://open.spotify.com/track/4NOzEFuBL6jzKqovwxB5Pi) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz) | [Bad](https://open.spotify.com/album/3I8m0mug29wYCCVJuX7xqA) | 3:31 |
 | 72 | [West End](https://open.spotify.com/track/3kQ9d2gkLtNT0xkGbefSgH) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0) | [West End](https://open.spotify.com/album/4Loru0xZI5PfOd3ntrImBa) | 2:34 |
-| 73 | [Coffee](https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3), [Ralph Taylor](https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK) | [Coffee](https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO) | 2:31 |
-| 74 | [Living Room](https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [What We Become](https://open.spotify.com/album/59orHxxohwog8QsHMSXjso) | 2:53 |
-| 75 | [Babybrown](https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Elevator Music](https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW) | 2:18 |
+| 73 | [Living Room](https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [What We Become](https://open.spotify.com/album/59orHxxohwog8QsHMSXjso) | 2:53 |
+| 74 | [Babybrown](https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Elevator Music](https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW) | 2:18 |
+| 75 | [Coffee](https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3), [Ralph Taylor](https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK) | [Coffee](https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO) | 2:31 |
 | 76 | [Comfort Zone](https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [The South's Got Something To Say](https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I) | 3:11 |
 | 77 | [Now That I Know You](https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Now That I Know You](https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7) | 3:46 |
 | 78 | [Be My Friend](https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Be My Friend](https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt) | 3:27 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 80 | [give it to me](https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE) | [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f) | [give it to me](https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt) | 2:45 |
 | 81 | [★SLEEPY★](https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [★SLEEPY★](https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG) | 2:14 |
 | 82 | [Feeling Like](https://open.spotify.com/track/6eXOVvVtIYFNnLOpHcv5Yp) | [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo), [Wasalu](https://open.spotify.com/artist/56pecKMLXlMSMDCLhQS8B7) | [Feeling Like](https://open.spotify.com/album/5dkMgbChILOPiuKpEk381O) | 3:04 |
-| 83 | [LIME](https://open.spotify.com/track/2hPDMrRuZYlNmea4QdCxj9) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [LIME](https://open.spotify.com/album/0cntvKHE1aJK5ysJJWPlDM) | 3:15 |
-| 84 | [Ride 2 Nowhere](https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [26% MIXTAPE](https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi) | 3:08 |
+| 83 | [Ride 2 Nowhere](https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [26% MIXTAPE](https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi) | 3:08 |
+| 84 | [LIME](https://open.spotify.com/track/2hPDMrRuZYlNmea4QdCxj9) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [LIME](https://open.spotify.com/album/0cntvKHE1aJK5ysJJWPlDM) | 3:15 |
 | 85 | [Summer 17](https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Summer 17](https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4) | 3:01 |
 | 86 | [honey lemon tea \(feat\. Jaydonclover\)](https://open.spotify.com/track/7FSlGYVKwVDfi1J1DD8daS) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [honey lemon tea](https://open.spotify.com/album/694WwGLnOXDg8Mh44e4FbT) | 2:19 |
 | 87 | [Another Life](https://open.spotify.com/track/4e4pO1c9DUlBwMEzN1iS3v) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Take Two](https://open.spotify.com/album/4h4Qdr8JqB24QhrfL98Rym) | 1:53 |

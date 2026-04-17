@@ -1,13 +1,37 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Dacoit",
-  "num_followers": 169565,
+  "description": "Bringing out the best of latest love tracks\nCover : Lenin",
+  "num_followers": 169596,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMkc0EDIKUBUGZ7P43ixQhXEw6al",
+  "snapshot_id": "AAAAAD/VyCwX9bh0okarO5phsQ4E98he",
   "tracks": [
+    {
+      "added_at": "2026-04-16 13:17:45",
+      "album": {
+        "name": "Yetta Yetta (From \"Lenin\")",
+        "url": "https://open.spotify.com/album/3j9dRlUxSullTEIPx4vtSw"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "duration_ms": 203138,
+      "name": "Yetta Yetta (From \"Lenin\")",
+      "url": "https://open.spotify.com/track/31b5VAlGdyvuKbqrvAEwXs"
+    },
     {
       "added_at": "2026-02-27 10:46:56",
       "album": {
@@ -1139,34 +1163,6 @@
       "duration_ms": 183000,
       "name": "Naalo Nenu (From \"Couple Friendly\")",
       "url": "https://open.spotify.com/track/0HnDe5h7wuFEljaFbftkWb"
-    },
-    {
-      "added_at": "2025-10-14 10:55:31",
-      "album": {
-        "name": "Meesaala Pilla (From \"Mana Shankaravaraprasad Garu - Pandagaki Vasthunnaru\")",
-        "url": "https://open.spotify.com/album/11otE69w7N7RmAhffSvwIv"
-      },
-      "artists": [
-        {
-          "name": "Bheems Ceciroleo",
-          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        },
-        {
-          "name": "Bhaskarabhatla",
-          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Meesaala Pilla (From \"Mana ShankaraVaraprasad Garu - Pandagaki Vasthunnaru\")",
-      "url": "https://open.spotify.com/track/00cE2yTZLjn2AKjHttfNfd"
     },
     {
       "added_at": "2026-02-05 12:08:15",

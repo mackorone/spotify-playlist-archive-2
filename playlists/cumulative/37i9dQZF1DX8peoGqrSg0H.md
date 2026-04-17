@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: ATLAS
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: FOURTH
 
-867 songs - 2 day 2 hr 53 min
+868 songs - 2 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [YES MAN](https://open.spotify.com/track/5imQCK9oeRB665CGgar7f8) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [YES MAN](https://open.spotify.com/album/4EHQhdZSqQEY6eZ3uUZdlK) | 3:24 | 2024-10-17 | 2024-11-08 |
 | [YOBO](https://open.spotify.com/track/7KdROwz8Wl1zzoFIhDNdvu) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4) | [YOBO](https://open.spotify.com/album/3Za23TsoTrgMIdgiRBQjwf) | 3:22 | 2024-06-27 | 2024-07-12 |
 | [YOOM](https://open.spotify.com/track/6OrckhDU7Q8ZMDdRAKNCY7) | [QVINT](https://open.spotify.com/artist/1Tjk3sUtF6JhurRrOqasJL) | [YOOM](https://open.spotify.com/album/0lIKjnWiH2Y7Emsoymuix3) | 3:06 | 2026-03-06 | 2026-03-13 |
-| [You Give Me Butterflies](https://open.spotify.com/track/4VjdrMPJtXDEAzbaiNmh7O) | [BLUE PONGTIWAT](https://open.spotify.com/artist/2qOLzlqMqg4sUAcwdO4tYJ), [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [You Give Me Butterflies](https://open.spotify.com/album/1zaRbxugwNRnSY0HeJDx4b) | 3:30 | 2026-02-12 |  |
+| [You Give Me Butterflies](https://open.spotify.com/track/4VjdrMPJtXDEAzbaiNmh7O) | [BLUE PONGTIWAT](https://open.spotify.com/artist/2qOLzlqMqg4sUAcwdO4tYJ), [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [You Give Me Butterflies](https://open.spotify.com/album/1zaRbxugwNRnSY0HeJDx4b) | 3:30 | 2026-02-12 | 2026-04-17 |
 | [YOU OF THE YEAR](https://open.spotify.com/track/7IGMR3tJIZn4IF5OL0P1BX) | [PJ](https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0) | [YOU OF THE YEAR](https://open.spotify.com/album/5I49TQuKqF2CHsXBGg07YS) | 3:48 | 2025-12-18 | 2026-01-23 |
 | [Yours](https://open.spotify.com/track/2nhMQ5sGCQvBVlvXbaJmiH) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW) | [Yours](https://open.spotify.com/album/5YqPF2b3Yy43HpgowDgpUx) | 3:21 | 2026-01-29 | 2026-02-20 |
 | [ZiGZaG](https://open.spotify.com/track/2yE00Onz1GMJZ4h5lYs2u0) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [ZiGZaG](https://open.spotify.com/album/68EaJMPDCWqT0huDBBAT7k) | 2:34 | 2023-11-09 | 2023-11-25 |
@@ -666,6 +666,7 @@
 | [อยู่คนเดียวกับเขา](https://open.spotify.com/track/53LA6FpWz2mGrQVde1vTr9) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [อยู่คนเดียวกับเขา](https://open.spotify.com/album/2Pm2Btrcqr3bhyOLPXRolY) | 3:45 | 2024-08-22 | 2024-10-04 |
 | [อยู่คนเดียวยังไงไหว \(OUR TIME\)](https://open.spotify.com/track/7ryl96WbiU10WXCJHVQkHx) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [อยู่คนเดียวยังไงไหว \(OUR TIME\)](https://open.spotify.com/album/4tF1Mxe1WyMNpRmETeJz2P) | 2:55 | 2026-02-02 | 2026-03-07 |
 | [อยู่ดีๆก็อ่อนแอ \(My Weakness is You\)](https://open.spotify.com/track/5Kw1ljNGHNZy8xmPn81QyH) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [Emotional Rollercoaster](https://open.spotify.com/album/7x6Rqd74OhtmCkipVZ31FM) | 2:56 | 2024-10-03 | 2024-10-18 |
+| [อยู่ด้วยกันนะ \(Every Single Day\)](https://open.spotify.com/track/2odtCLRbw7U2SuLrTfADtO) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [อยู่ด้วยกันนะ \(Every Single Day\)](https://open.spotify.com/album/3HDs76j5WZCrJpZHX88d0e) | 3:55 | 2026-04-16 |  |
 | [อยู่อย่างนี้ดีกว่าไหม \(Not too close\)](https://open.spotify.com/track/79b1jvvma41fVEycWddFgO) | [MANIACT](https://open.spotify.com/artist/4vwzfpFBKNWO5wSikwFm8j) | [อยู่อย่างนี้ดีกว่าไหม \(Not too close\)](https://open.spotify.com/album/0CIMFN6hXEe7bgIKvzegdy) | 3:27 | 2024-10-03 | 2024-10-11 |
 | [อยู่เฉยๆ ก็น่ารัก \(Please Be Mine\)](https://open.spotify.com/track/6lrMGW46YadQYHzD6mzz4E) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [อยู่เฉยๆ ก็น่ารัก \(Please Be Mine\) \- Single](https://open.spotify.com/album/4IJ0gjuhqJoGQlwJiEMHH9) | 2:59 | 2023-08-10 | 2024-04-19 |
 | [อย่ากระโตกกระตาก \(SHH!\)](https://open.spotify.com/track/1bmGDIqV9ihU8yUbdOWHcO) | [MINDY](https://open.spotify.com/artist/2a7WiIiQJcunh4cSWmp0Gi) | [อย่ากระโตกกระตาก \(SHH!\)](https://open.spotify.com/album/0ne1FuRRBHkrsnJEy5STNA) | 3:09 | 2024-06-27 | 2024-07-05 |

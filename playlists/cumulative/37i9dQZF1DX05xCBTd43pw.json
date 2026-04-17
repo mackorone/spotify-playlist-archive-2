@@ -2998,7 +2998,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 167450,
       "name": "For You",
       "url": "https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1"
@@ -7232,7 +7232,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 176733,
       "name": "Shine",
       "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
@@ -7402,6 +7402,24 @@
       "duration_ms": 187473,
       "name": "Skylines",
       "url": "https://open.spotify.com/track/1VZifdc2a0Fvbqpsj93chz"
+    },
+    {
+      "album": {
+        "name": "Small Town Big Mouth",
+        "url": "https://open.spotify.com/album/3A31DUqX2nawoG6C0Qoa6L"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166933,
+      "name": "Small Town Big Mouth",
+      "url": "https://open.spotify.com/track/6r7XaoY8NsXq1hYHijeaQQ"
     },
     {
       "album": {
@@ -8737,6 +8755,24 @@
     },
     {
       "album": {
+        "name": "Versailles",
+        "url": "https://open.spotify.com/album/4K6V5ncucugpMxxM9zqYBI"
+      },
+      "artists": [
+        {
+          "name": "Sivilian",
+          "url": "https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155367,
+      "name": "Versailles",
+      "url": "https://open.spotify.com/track/1RLRhYJBhzwhV3YmHWaeXn"
+    },
+    {
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0"
       },
@@ -9011,6 +9047,24 @@
     },
     {
       "album": {
+        "name": "Wash My Pain Away",
+        "url": "https://open.spotify.com/album/18C1zHsomKERvtv69EzVak"
+      },
+      "artists": [
+        {
+          "name": "Femi Luna",
+          "url": "https://open.spotify.com/artist/76e5g5LPWUlEHtTjKwSfsW"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173613,
+      "name": "Wash My Pain Away",
+      "url": "https://open.spotify.com/track/0O5WTZ1HqTHLWWBsDwP5VS"
+    },
+    {
+      "album": {
         "name": "Wasteland",
         "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
       },
@@ -9130,7 +9184,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 148965,
       "name": "we should get married",
       "url": "https://open.spotify.com/track/2a8VJhlIkaqZqhW0JGKxcL"

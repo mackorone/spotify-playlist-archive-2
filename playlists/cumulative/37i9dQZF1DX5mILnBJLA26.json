@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: Xduppy",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: Felo Le Tee",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 354894,
       "name": "Ahh ahhhh (feat. PRVIS3 & Ray&Jay)",
       "url": "https://open.spotify.com/track/3mlIg0p5EVq8pmLDSJ20Rd"
@@ -16640,6 +16640,36 @@
       "duration_ms": 383539,
       "name": "iThuba",
       "url": "https://open.spotify.com/track/0tWwRx1JLzGRH6DIQ09mBo"
+    },
+    {
+      "album": {
+        "name": "Ithuba (feat. Q Bonke)",
+        "url": "https://open.spotify.com/album/22zWM1oZqDoO6Di8JU06kE"
+      },
+      "artists": [
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "Miikey Ndlovu",
+          "url": "https://open.spotify.com/artist/37OCqJiAgVgfAgkZ8oNnon"
+        },
+        {
+          "name": "Mlooda",
+          "url": "https://open.spotify.com/artist/2On2Z0I0nxWTLghJqZs2UR"
+        },
+        {
+          "name": "Q Bonke",
+          "url": "https://open.spotify.com/artist/18x1hJ7KfwqPOLotLPc92r"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314341,
+      "name": "Ithuba (feat. Q Bonke)",
+      "url": "https://open.spotify.com/track/6jtXifD0ge6Kl7r6n0Jaen"
     },
     {
       "album": {

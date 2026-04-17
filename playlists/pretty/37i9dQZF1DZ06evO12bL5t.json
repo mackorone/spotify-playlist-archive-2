@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 142998,
+  "num_followers": 143018,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAAA1SxpTf2ItPriWToHGwUuU",
+  "snapshot_id": "ad7VAAAAAAAfC+5HepYZYYlyfWIinaKt",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Que Fuera",
-        "url": "https://open.spotify.com/album/4MaldveQZEyhPBcp3QEzxO"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Ni Que Fuera",
-      "url": "https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorry For The Wait 2",
         "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 213265,
       "name": "Lo Que Pudo Ser",
       "url": "https://open.spotify.com/track/3BONaN9ZGSecM2fJX8CVds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Que Fuera",
+        "url": "https://open.spotify.com/album/4MaldveQZEyhPBcp3QEzxO"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Ni Que Fuera",
+      "url": "https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Versos del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/70VcKSFyh5oFttLl6M6lkK"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 253196,
-      "name": "Versos del Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4s0BOQ0BtJjts20hO2ii1D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buen Ejemplo",
         "url": "https://open.spotify.com/album/6uStvNsIm7ymwGUAbRk5gW"
       },
@@ -415,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Versos del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/70VcKSFyh5oFttLl6M6lkK"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 253196,
+      "name": "Versos del Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4s0BOQ0BtJjts20hO2ii1D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Las Vibras",
         "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
       },
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 158250,
-      "name": "Historia De Los Barrios",
-      "url": "https://open.spotify.com/track/30D57KzZN77jlSkMpVGELy"
+      "duration_ms": 241785,
+      "name": "Distinta Movida",
+      "url": "https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 241785,
-      "name": "Distinta Movida",
-      "url": "https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr"
+      "duration_ms": 158250,
+      "name": "Historia De Los Barrios",
+      "url": "https://open.spotify.com/track/30D57KzZN77jlSkMpVGELy"
     },
     {
       "added_at": null,

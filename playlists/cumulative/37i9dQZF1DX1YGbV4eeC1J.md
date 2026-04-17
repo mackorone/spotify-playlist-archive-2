@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Tuku Kantu
+> What is your love language? Say it in Swahili\.  Cover: Yammi
 
-353 songs - 19 hr 49 min
+355 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Falling](https://open.spotify.com/track/2hyUzNsKT454MY5Ro0nnD7) | [Narah Elba](https://open.spotify.com/artist/49xus9KjnESiLPl9EQuvU4) | [Falling](https://open.spotify.com/album/6gXbJ7vbb4mQWAqOjv6eon) | 2:39 | 2024-03-07 | 2024-03-15 |
 | [Far Away](https://open.spotify.com/track/3xkPEQyclUqwYfrDCzgdUp) | [Haitham Kim](https://open.spotify.com/artist/750ujPfB38qROElCTru0vL) | [Far Away](https://open.spotify.com/album/26SiJtz00mjV9MHUL3y5zi) | 3:20 | 2024-07-04 | 2024-08-30 |
 | [Far Away](https://open.spotify.com/track/4TxqEHX4IPL7bQR8ZWrmyr) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Far Away](https://open.spotify.com/album/3hQN2SC0cgP0LPVh1GErMR) | 2:47 | 2024-05-16 | 2024-08-23 |
-| [Feelings \(feat\. Khaligraph Jones\)](https://open.spotify.com/track/4TwiRbTgM2vvY8cErSflxy) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Bumbuli Boy](https://open.spotify.com/album/7LyCaevKDsXhUhW0dFi7W9) | 3:14 | 2025-09-25 |  |
+| [Feelings \(feat\. Khaligraph Jones\)](https://open.spotify.com/track/4TwiRbTgM2vvY8cErSflxy) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Bumbuli Boy](https://open.spotify.com/album/7LyCaevKDsXhUhW0dFi7W9) | 3:14 | 2025-09-25 | 2026-04-17 |
 | [Fitingi \(feat\. Marioo\)](https://open.spotify.com/track/5UhDCKzxdH5RLbnUL5f4ld) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Fitingi \(feat\. Marioo\)](https://open.spotify.com/album/14LrFiTCxQoYkteAQO4iJY) | 3:00 | 2025-04-04 |  |
 | [Forever](https://open.spotify.com/track/1T64n0T17I3deCh0Uk9hct) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Therapy](https://open.spotify.com/album/0E7ArB2FlQPLLdyynSOvUp) | 3:37 | 2024-04-25 | 2024-07-05 |
 | [Furaha](https://open.spotify.com/track/77tlTHsLMs2ubmp8VyNqpx) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Furaha](https://open.spotify.com/album/4xsB6wIT8GFXLF1JIx2eVl) | 2:45 | 2025-02-13 |  |
@@ -121,6 +121,7 @@
 | [Jinadi](https://open.spotify.com/track/4mtx6cKVqYS3C6AqmckWps) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Jinadi](https://open.spotify.com/album/7pS8jFmqBRfhGk7tgFz2Cp) | 2:38 | 2022-11-10 | 2023-01-20 |
 | [Juu](https://open.spotify.com/track/0u5J0a8oOTw9AVI07iD7yS) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Colorful Generation](https://open.spotify.com/album/0nIEkzSwKoMM2Chsgew9DV) | 2:50 | 2025-01-31 | 2025-10-31 |
 | [Kama](https://open.spotify.com/track/4ulwSWSNoXFhuZZ9bWqGPD) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Kama](https://open.spotify.com/album/4vqoy2PNlAqmQpcTKjCKui) | 3:08 | 2023-12-08 | 2024-04-26 |
+| [Kama Sio](https://open.spotify.com/track/6S920U14Kw9v5dedojzQLA) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Kama Sio](https://open.spotify.com/album/3jlIsMfVbLH2l8aS8EgDvJ) | 3:14 | 2026-04-16 |  |
 | [Katam \(feat\. Bien\)](https://open.spotify.com/track/4MGtTXaggDrYal3andtYxP) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Katam \(feat\. Bien\)](https://open.spotify.com/album/2yRuZcR1TDAY2oFyLs6vHf) | 4:05 | 2025-06-09 |  |
 | [Katerina](https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Katerina](https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U) | 4:35 | 2022-05-26 | 2024-11-08 |
 | [Keki](https://open.spotify.com/track/3G6JOHEn46OK8LUH4qiJhW) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Keki](https://open.spotify.com/album/3JiAtCjaZzPx1Z4uK1n16W) | 3:03 | 2025-01-31 |  |
@@ -222,6 +223,7 @@
 | [Ni We](https://open.spotify.com/track/1xTb97ajiL7Rq3dMBk2UJu) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heart to Hurt](https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX) | 2:54 | 2022-05-26 | 2023-03-25 |
 | [Nibusu \(feat\. Yammi & Mbosso\)](https://open.spotify.com/track/3rT4o1CqCokObfcJmOZypt) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nibusu \(feat\. Yammi & Mbosso\)](https://open.spotify.com/album/45cqgSwHq5eKZJzRFaE0m8) | 3:37 | 2024-06-20 | 2026-03-27 |
 | [Nibusu \(feat\. Yammi\)](https://open.spotify.com/track/4dVzMCH149RdkaqROrsATS) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Nibusu \(feat\. Yammi\)](https://open.spotify.com/album/1F3HikuQyKXhIFfrPQ9SyV) | 3:37 | 2024-05-02 | 2024-10-25 |
+| [Nichum \(feat\. Darassa\)](https://open.spotify.com/track/02FisdTIvwtjVyRnWaDf7K) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Nichum \(feat\. Darassa\)](https://open.spotify.com/album/4TheUCjOTTQgkYZSLvvA0M) | 3:15 | 2026-04-16 |  |
 | [Nikatoke Nao](https://open.spotify.com/track/6BHdibLa2cNJ049jTjQ3E8) | [Barakah The Prince](https://open.spotify.com/artist/2Lrp6RL4vdo88oCzuutNfL) | [Nikatoke Nao](https://open.spotify.com/album/5epvY4TABqhIZQYO2u4I3F) | 3:22 | 2024-11-07 | 2024-11-29 |
 | [Nikilala](https://open.spotify.com/track/6RFGm7BDBsbGM2A4Q332n4) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Nikilala](https://open.spotify.com/album/1cUWkCUttv5J9EyGJutwWL) | 2:30 | 2023-03-10 | 2023-07-07 |
 | [Nikoe](https://open.spotify.com/track/3desdv5kEpEEFJNBsmSess) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Nikoe](https://open.spotify.com/album/5xyjeDCqPI5cFxTqo3aIrM) | 2:57 | 2025-03-14 | 2025-03-21 |
@@ -295,7 +297,7 @@
 | [Siwezi](https://open.spotify.com/track/3XOAheboN0U3W0IlWIgv9b) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Siwezi](https://open.spotify.com/album/6xZjqJJGPFA89OdfzPrGaL) | 3:30 | 2026-01-23 | 2026-04-10 |
 | [Siwezi](https://open.spotify.com/track/5rHwhDMhECn3kuE9zH4gZF) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Siwezi](https://open.spotify.com/album/5DZnhDiqjk4VHKRs9trO9D) | 3:22 | 2025-12-18 |  |
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-05-26 | 2023-07-28 |
-| [Siwezi](https://open.spotify.com/track/71dAnBhTrNKhsUfL7IJ8ht) | [RICH MAVOKO](https://open.spotify.com/artist/4aeCyyHNM1iZbxz48788cd) | [Siwezi](https://open.spotify.com/album/6kqYOHMLPw6yERhUiQ7QFP) | 2:33 | 2025-10-30 |  |
+| [Siwezi](https://open.spotify.com/track/71dAnBhTrNKhsUfL7IJ8ht) | [RICH MAVOKO](https://open.spotify.com/artist/4aeCyyHNM1iZbxz48788cd) | [Siwezi](https://open.spotify.com/album/6kqYOHMLPw6yERhUiQ7QFP) | 2:33 | 2025-10-30 | 2026-04-17 |
 | [Sugar](https://open.spotify.com/track/7geOX315j041sZXu7B1Kpf) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Sugar](https://open.spotify.com/album/0ala3wvsS9xR8wVcUyvfOh) | 3:25 | 2025-01-16 |  |
 | [Sunina](https://open.spotify.com/track/5CBvhD0E4XClAsdpug6KWK) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Sunina](https://open.spotify.com/album/5t77HSTbhdvM1n7KEh9urC) | 3:04 | 2023-06-08 | 2023-09-15 |
 | [Sunset](https://open.spotify.com/track/54EH4aks1rG4WL8HiG3szm) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Cuffed in Love](https://open.spotify.com/album/2VTrwsi53HGL2yYsEYTMgH) | 3:23 | 2024-02-22 | 2024-05-10 |

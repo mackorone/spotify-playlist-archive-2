@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 41565,
+  "num_followers": 41572,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAABGl6klWxwG0w3t4u0xjiNP",
+  "snapshot_id": "ad7VAAAAAAD2C5b/BNA/RaE2hkoVD7TD",
   "tracks": [
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Gold",
-        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
+        "name": "Fica At\u00e9 Umas Hora",
+        "url": "https://open.spotify.com/album/0VCfXfgGoV1ogsTnMW74Ot"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 197840,
-      "name": "Real Gold",
-      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
+      "duration_ms": 228800,
+      "name": "Fica At\u00e9 Umas Hora",
+      "url": "https://open.spotify.com/track/066BKF0jdIIgoNoRUm7f8Z"
     },
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica At\u00e9 Umas Hora",
-        "url": "https://open.spotify.com/album/0VCfXfgGoV1ogsTnMW74Ot"
+        "name": "Real Gold",
+        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Fica At\u00e9 Umas Hora",
-      "url": "https://open.spotify.com/track/066BKF0jdIIgoNoRUm7f8Z"
+      "duration_ms": 197840,
+      "name": "Real Gold",
+      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
     },
     {
       "added_at": null,
@@ -491,30 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Eu Te Quero (Remix)",
-        "url": "https://open.spotify.com/album/202XFQhcWaClPP1PbwDb5y"
-      },
-      "artists": [
-        {
-          "name": "Gabe",
-          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
-        },
-        {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Como Eu Te Quero - Remix",
-      "url": "https://open.spotify.com/track/028kyZPJ1bWNSDrtmj6CWM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gord\u00e3o Chefe",
         "url": "https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y"
       },
@@ -535,6 +511,30 @@
       "duration_ms": 331775,
       "name": "Sinto Muito Baby",
       "url": "https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Eu Te Quero (Remix)",
+        "url": "https://open.spotify.com/album/202XFQhcWaClPP1PbwDb5y"
+      },
+      "artists": [
+        {
+          "name": "Gabe",
+          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
+        },
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Como Eu Te Quero - Remix",
+      "url": "https://open.spotify.com/track/028kyZPJ1bWNSDrtmj6CWM"
     },
     {
       "added_at": null,

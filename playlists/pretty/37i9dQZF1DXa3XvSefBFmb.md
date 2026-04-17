@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, explora as músicas escolhidas pelos nossos editores\. Cover: Neyna
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,241 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,268 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 48 | [DROWN](https://open.spotify.com/track/4iyzWWLC4TOn5FqoyatMxp) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [SO MUCH HAS CHANGED](https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA) | 3:53 |
 | 49 | [Último ou Primeiro?](https://open.spotify.com/track/6MggE9l0a9sbiRZMfvQ6zW) | [Matilde Jacob](https://open.spotify.com/artist/1h7kvRfDWr2EcsNdan58Zo) | [Último ou Primeiro?](https://open.spotify.com/album/7Cyco3nvJ9jOyjkte6EqyH) | 2:57 |
 
-Snapshot ID: `AAAAABRvVldx62wzgg5bKlu/6xyD5Fgn`
+Snapshot ID: `AAAAAEHZGm17d6aVBXUetDglt35bSnuK`

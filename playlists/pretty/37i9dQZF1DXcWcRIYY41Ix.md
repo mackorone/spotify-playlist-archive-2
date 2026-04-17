@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Sofía Comas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,538 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,548 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 75 | [Si te aleja del amor no puede ser bueno](https://open.spotify.com/track/74OSeuCRZ8PD3odrj8wDMX) | [Calequi y Las Panteras](https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u), [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6) | [Si te aleja del amor no puede ser bueno](https://open.spotify.com/album/1o9aYmc0gxZKd4kY62fTD7) | 2:35 |
 | 76 | [Anfibia Por Veces](https://open.spotify.com/track/0fFtmexbKrdPHW3TyfeAxP) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Anfibia Por Veces](https://open.spotify.com/album/66W6vjIToX8YxcoGVjghH1) | 3:18 |
 | 77 | [Hacesdelmundomejor](https://open.spotify.com/track/7E7FGEpgQeegry3UyRqnjA) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [nosoymeri](https://open.spotify.com/artist/6cF5Ndv7Q40DEc9Fxgxt4Z), [STEGA](https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 2:50 |
-| 78 | [La Escalera](https://open.spotify.com/track/6mKVAtAmyVNpr2QzzrMcIh) | [Rita Ojanguren](https://open.spotify.com/artist/1noVzLdWnsIHYoSuxlG5mr) | [La Escalera](https://open.spotify.com/album/5ZDKvsAz9v1l9YHiMPqgpc) | 2:59 |
+| 78 | [La Escalera \(milongón\)](https://open.spotify.com/track/6mKVAtAmyVNpr2QzzrMcIh) | [Rita Ojanguren](https://open.spotify.com/artist/1noVzLdWnsIHYoSuxlG5mr) | [La Escalera \(milongón\)](https://open.spotify.com/album/5ZDKvsAz9v1l9YHiMPqgpc) | 2:59 |
 | 79 | [No Se Quitan](https://open.spotify.com/track/17PrQxmxwQUhOqMQg5MjAx) | [Chlöe's Clue](https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE) | [Nanas Para Adultos](https://open.spotify.com/album/4Eak5f9wMi1W93GiyAGqww) | 3:53 |
 | 80 | [Derecho de Nacimiento \(feat\. Los Macorinos\)](https://open.spotify.com/track/5XkqOjBws8qpEkBW7X5Ppy) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 5:48 |
 | 81 | [No Lo Pienses Más](https://open.spotify.com/track/4DESpkuAs9cBvnLhFmptLx) | [Franny Glass](https://open.spotify.com/artist/6mI3D7vgMoxV2KIYsJkN9w) | [No Lo Pienses Más](https://open.spotify.com/album/6k5a6GEr0ppsdG3XXNYple) | 3:18 |

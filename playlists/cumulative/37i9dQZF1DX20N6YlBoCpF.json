@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Al die nuutste Afrikaanse musiek met Ricus Nel, Barto, Wilma Van Heerden en meer!",
+  "description": "Al die nuutste Afrikaanse musiek met Tamlyn Wessels, Renaldo, Van Pletzen, Neil Sandilands en meer!",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 194081,
       "name": "Alles Vir My",
       "url": "https://open.spotify.com/track/4mi8dQjLf6I2GNAjPdDftB"
@@ -5756,7 +5756,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 148000,
       "name": "Bosveldnooi",
       "url": "https://open.spotify.com/track/3J9WFrc0fYg5x1oBd8b5SH"
@@ -9279,6 +9279,24 @@
     },
     {
       "album": {
+        "name": "Van Oukraal Tot Kalahari",
+        "url": "https://open.spotify.com/album/1PaGdnf2BfC0cXbxE7vrza"
+      },
+      "artists": [
+        {
+          "name": "Gift Matjila",
+          "url": "https://open.spotify.com/artist/5h0mlI0AHTm4uzXOZscQlq"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Die Oukraal Liedjie",
+      "url": "https://open.spotify.com/track/4aTdN7Z0SkhirPx2NEqggP"
+    },
+    {
+      "album": {
         "name": "Die Pad",
         "url": "https://open.spotify.com/album/4OW7qQ048lMybu2jfnO1kn"
       },
@@ -11173,6 +11191,24 @@
     },
     {
       "album": {
+        "name": "Dromers",
+        "url": "https://open.spotify.com/album/1zfL7JzXviZEYcUXaUegbu"
+      },
+      "artists": [
+        {
+          "name": "BiBi",
+          "url": "https://open.spotify.com/artist/1jTYq06uhdOxUem1l7JRDX"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Dromers",
+      "url": "https://open.spotify.com/track/1iGoMsoYLOTCe5SgKCWfnx"
+    },
+    {
+      "album": {
         "name": "Dronk op Liefde (Acoustic)",
         "url": "https://open.spotify.com/album/0hXxhdOZIPXpFUJAG2ZAto"
       },
@@ -11192,6 +11228,24 @@
       "duration_ms": 217500,
       "name": "Dronk op liefde - Acoustic",
       "url": "https://open.spotify.com/track/1KsLbbzU3S96KvsM0V5T37"
+    },
+    {
+      "album": {
+        "name": "Droom Te Klein",
+        "url": "https://open.spotify.com/album/7osYsxzNScMBUAGe4k4Gt2"
+      },
+      "artists": [
+        {
+          "name": "Renaldo",
+          "url": "https://open.spotify.com/artist/1fPqxk00kT60a1iOvlfRVX"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162168,
+      "name": "Droom Te Klein",
+      "url": "https://open.spotify.com/track/2sIqBmgh9B5ErwmsPW6xku"
     },
     {
       "album": {
@@ -14157,6 +14211,24 @@
     },
     {
       "album": {
+        "name": "Genade",
+        "url": "https://open.spotify.com/album/7fazNteVTCyLE18XY33vEb"
+      },
+      "artists": [
+        {
+          "name": "Pierre Henrico",
+          "url": "https://open.spotify.com/artist/7bPE5HMliBPTfeA0vnov4F"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209276,
+      "name": "Genade",
+      "url": "https://open.spotify.com/track/7d1hSMxe5DMkcffCOY4IaO"
+    },
+    {
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/7sh2okNRARZZWLSxQmgNDd"
       },
@@ -14952,6 +15024,24 @@
       "duration_ms": 144135,
       "name": "Goue Ure",
       "url": "https://open.spotify.com/track/7jHgjlmt7yjgjBn2NPJbbv"
+    },
+    {
+      "album": {
+        "name": "Gqeberha shake dat ass",
+        "url": "https://open.spotify.com/album/2q2KdapYdpJWArhPWDQl9P"
+      },
+      "artists": [
+        {
+          "name": "Van Pletzen",
+          "url": "https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194317,
+      "name": "Gqeberha shake dat ass",
+      "url": "https://open.spotify.com/track/0Fqr0mX5tOGJP9r6x7bbEh"
     },
     {
       "album": {
@@ -16250,7 +16340,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 182374,
       "name": "Hemel In My Hande",
       "url": "https://open.spotify.com/track/4l9isFlMoWwBqLfFJfJYhU"
@@ -18570,7 +18660,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 197218,
       "name": "Inge 2 - SENSASIE Remix",
       "url": "https://open.spotify.com/track/3bU6VYPHEnjSpvx6yIufp8"
@@ -32973,6 +33063,24 @@
     },
     {
       "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/5Upgna7YdQhkSrfv2F1g1A"
+      },
+      "artists": [
+        {
+          "name": "Tamlyn Wessels",
+          "url": "https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187627,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/6Nh839lqe0AxLUlVqHedyO"
+    },
+    {
+      "album": {
         "name": "Planttyd",
         "url": "https://open.spotify.com/album/0qGMCV50i9yplg9S3cr1yy"
       },
@@ -34523,6 +34631,24 @@
     },
     {
       "album": {
+        "name": "Rooksein",
+        "url": "https://open.spotify.com/album/4Wtgot5JENKdO24gDevxGl"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Rooksein",
+      "url": "https://open.spotify.com/track/7c2I70ecb1SgpT8NjfUCa9"
+    },
+    {
+      "album": {
         "name": "Rosie Rosie",
         "url": "https://open.spotify.com/album/1xLtJfGTK4toDuN6fShmKo"
       },
@@ -35458,7 +35584,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 192794,
       "name": "SELFBEWUS",
       "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
@@ -40225,6 +40351,24 @@
     },
     {
       "album": {
+        "name": "Taaibos",
+        "url": "https://open.spotify.com/album/0mW4ModhMitOX2DlHHgsgX"
+      },
+      "artists": [
+        {
+          "name": "Neil Sandilands",
+          "url": "https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158853,
+      "name": "Taaibos",
+      "url": "https://open.spotify.com/track/1mTsaBzeYP8N8XF1ebDwSu"
+    },
+    {
+      "album": {
         "name": "Taal Van Die O\u00eb",
         "url": "https://open.spotify.com/album/5bQDFBKRSOPFVdC5LEQSP4"
       },
@@ -42830,7 +42974,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 154000,
       "name": "Verby Jou",
       "url": "https://open.spotify.com/track/1DmYzZK6xtKL4XqAr66MFl"
@@ -44450,7 +44594,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 150693,
       "name": "VRA DIE VRAAG",
       "url": "https://open.spotify.com/track/1KAZcrI4rXaELp1v7uTA9z"
@@ -45608,7 +45752,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 228000,
       "name": "Wat Jy Aan My Doen",
       "url": "https://open.spotify.com/track/0YYx7OQq9Z4vlrbrX49DGa"

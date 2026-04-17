@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,608 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,802 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 85 | [Dubai](https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Dubai](https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm) | 2:37 |
 | 86 | [Te Necesito](https://open.spotify.com/track/6EylLZvd69kYDDtT35gZOB) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Te Necesito](https://open.spotify.com/album/19jxPXaPFxk7pPFnG6oHqw) | 4:02 |
 | 87 | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH) | 3:22 |
-| 88 | [Krippy Kush \(feat\. 21 Savage & Rvssian\) \- Remix](https://open.spotify.com/track/038kavjqUaGIYZL5lYocvX) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Krippy Kush \(feat\. 21 Savage & Rvssian\) \[Remix\]](https://open.spotify.com/album/6PLLKjD7vpHDrl8tc7aFaR) | 3:56 |
-| 89 | [Perdóname](https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Perdóname](https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU) | 2:43 |
+| 88 | [Perdóname](https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Perdóname](https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU) | 2:43 |
+| 89 | [Krippy Kush \(feat\. 21 Savage & Rvssian\) \- Remix](https://open.spotify.com/track/038kavjqUaGIYZL5lYocvX) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Krippy Kush \(feat\. 21 Savage & Rvssian\) \[Remix\]](https://open.spotify.com/album/6PLLKjD7vpHDrl8tc7aFaR) | 3:56 |
 | 90 | [La Movie](https://open.spotify.com/track/4n6utGnsc8sxoRl1SIOPv7) | [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [La Movie](https://open.spotify.com/album/4C8ptlfZoKQfEWQrjr1GZh) | 5:29 |
 | 91 | [Fresko](https://open.spotify.com/track/2Zbw0nOYZoKU27sOYbrsv7) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [Fresko](https://open.spotify.com/album/5CF5dNA0aLDCPlgS4DlAia) | 3:21 |
 | 92 | [Dime Pa Que](https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Trap Tumbado](https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb) | 2:38 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 97 | [Mente Gitana](https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Mente Gitana](https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY) | 3:33 |
 | 98 | [Malportau](https://open.spotify.com/track/4jLFEYbIYqNWnxbuLEf7z5) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Malportau](https://open.spotify.com/album/2vfsczLvfRlioZqTWfoaDx) | 3:33 |
 | 99 | [PARA SACARMELO \(prod\. OMAR VARELA\)](https://open.spotify.com/track/7vVBHIVPewg2rCkiSMFquc) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:36 |
-| 100 | [Como Me Ven](https://open.spotify.com/track/7j13aYb9i5749QxSI8Yhfv) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [LVV the Real Rondon](https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR) | 2:47 |
+| 100 | [Modo Bestia](https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 2:21 |
 
 Snapshot ID: `AAAAAPWzYNGTXYZ6ojqIT3eVuZ0VwLP8`

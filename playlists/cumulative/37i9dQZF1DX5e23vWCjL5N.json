@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Punchline, storytelling, rap italiano. \"Dio Esiste\" di Shiva in prima posizione, un brano unico per capire il suo nuovo album.",
+  "description": "Punchline, storytelling, rap italiano. Madame in cover.",
   "name": "Liricisti",
   "tracks": [
     {
@@ -2107,6 +2107,24 @@
     },
     {
       "album": {
+        "name": "DISINCANTO",
+        "url": "https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202893,
+      "name": "COME STAI?",
+      "url": "https://open.spotify.com/track/2QjyiKbzVyfrRgE6EGF3bn"
+    },
+    {
+      "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
       },
@@ -3361,6 +3379,24 @@
     },
     {
       "album": {
+        "name": "DISINCANTO",
+        "url": "https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "GRAZIE",
+      "url": "https://open.spotify.com/track/6iLx6AGj9tD3hvsYNRQobS"
+    },
+    {
+      "album": {
         "name": "7/8 EP (feat. 18K)",
         "url": "https://open.spotify.com/album/144Whqoe6XZY8fBze4CBwg"
       },
@@ -3454,6 +3490,32 @@
       "duration_ms": 193090,
       "name": "Guess Who's Back",
       "url": "https://open.spotify.com/track/2jWBTpS709oRAG7GwbPU8X"
+    },
+    {
+      "album": {
+        "name": "GENESI",
+        "url": "https://open.spotify.com/album/6OVoXMg3SBr9EKHrN0F8a0"
+      },
+      "artists": [
+        {
+          "name": "Myto",
+          "url": "https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "Tormento",
+          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258139,
+      "name": "HAI MAI (feat. Silent Bob, Tormento)",
+      "url": "https://open.spotify.com/track/4iAEtBJwSTGh03F4P0ZB3y"
     },
     {
       "album": {
@@ -5032,6 +5094,24 @@
       "duration_ms": 166288,
       "name": "Magico - RMX",
       "url": "https://open.spotify.com/track/6b8JPs39GF8QFqL7QCpAdv"
+    },
+    {
+      "album": {
+        "name": "DISINCANTO",
+        "url": "https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241200,
+      "name": "MAI PI\u00d9",
+      "url": "https://open.spotify.com/track/2BTuF83W1U6nkGxaogfxx4"
     },
     {
       "album": {

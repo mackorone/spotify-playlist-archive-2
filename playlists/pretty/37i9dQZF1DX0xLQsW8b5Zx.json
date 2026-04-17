@@ -1,6 +1,6 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 546268,
+  "num_followers": 546278,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Glen Rocks",
-        "url": "https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv"
-      },
-      "artists": [
-        {
-          "name": "Glen Glenn",
-          "url": "https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx"
-        }
-      ],
-      "duration_ms": 162493,
-      "name": "Everybody's Movin'",
-      "url": "https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt"
-    },
-    {
-      "added_at": "2025-10-24 14:43:53",
-      "album": {
         "name": "Rock In Threes!",
         "url": "https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 160466,
       "name": "Another Sunday Morning",
       "url": "https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0"
+    },
+    {
+      "added_at": "2025-10-24 14:43:53",
+      "album": {
+        "name": "Glen Rocks",
+        "url": "https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv"
+      },
+      "artists": [
+        {
+          "name": "Glen Glenn",
+          "url": "https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx"
+        }
+      ],
+      "duration_ms": 162493,
+      "name": "Everybody's Movin'",
+      "url": "https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -743,22 +743,18 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Ooby Dooby / Go Go Go",
-        "url": "https://open.spotify.com/album/0XoMFggtttMeiJtnBjoijY"
+        "name": "From the Waist Down",
+        "url": "https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj"
       },
       "artists": [
         {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        },
-        {
-          "name": "The Teen Kings",
-          "url": "https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ"
+          "name": "Jack Rabbit Slim",
+          "url": "https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI"
         }
       ],
-      "duration_ms": 126500,
-      "name": "Go Go Go",
-      "url": "https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV"
+      "duration_ms": 121253,
+      "name": "Rock-a-Cha",
+      "url": "https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -783,22 +779,6 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "From the Waist Down",
-        "url": "https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj"
-      },
-      "artists": [
-        {
-          "name": "Jack Rabbit Slim",
-          "url": "https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI"
-        }
-      ],
-      "duration_ms": 121253,
-      "name": "Rock-a-Cha",
-      "url": "https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK"
-    },
-    {
-      "added_at": "2025-10-24 14:43:53",
-      "album": {
         "name": "Our Brand",
         "url": "https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 149293,
       "name": "Rockabilly Rebel",
       "url": "https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT"
+    },
+    {
+      "added_at": "2025-10-24 14:43:53",
+      "album": {
+        "name": "Ooby Dooby / Go Go Go",
+        "url": "https://open.spotify.com/album/0XoMFggtttMeiJtnBjoijY"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        },
+        {
+          "name": "The Teen Kings",
+          "url": "https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ"
+        }
+      ],
+      "duration_ms": 126500,
+      "name": "Go Go Go",
+      "url": "https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV"
     },
     {
       "added_at": "2025-10-24 14:43:53",

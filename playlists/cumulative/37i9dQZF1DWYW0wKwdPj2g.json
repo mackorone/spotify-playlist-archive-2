@@ -1605,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "God Alone (Live)",
+        "url": "https://open.spotify.com/album/36VZypiP0OK3wfvI60Os0f"
+      },
+      "artists": [
+        {
+          "name": "OMASHINES",
+          "url": "https://open.spotify.com/artist/2WPK5MznLVJDeI440TE3QM"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260500,
+      "name": "God Alone - Live",
+      "url": "https://open.spotify.com/track/3dWxH0XNHZgC4A8Nbz8n12"
+    },
+    {
+      "album": {
         "name": "Goliathi (Live at Goshen City Church 2023)",
         "url": "https://open.spotify.com/album/3tprEY7g0ha2s23TvgIsy2"
       },
@@ -1696,7 +1714,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 584411,
       "name": "Grateful - Live",
       "url": "https://open.spotify.com/track/6EhxiCqTYkJvLoZ1014BCt"
@@ -2598,6 +2616,28 @@
       "duration_ms": 458083,
       "name": "Jehovah Is Your Name - Live",
       "url": "https://open.spotify.com/track/1HTKLiju70vqy48PSoouCN"
+    },
+    {
+      "album": {
+        "name": "Jesu O (Live)",
+        "url": "https://open.spotify.com/album/5oISUI4BzFdWp7qwe1UEjB"
+      },
+      "artists": [
+        {
+          "name": "Minstrel John Leke",
+          "url": "https://open.spotify.com/artist/4Y9c0hrqtHikpZFb7lif8o"
+        },
+        {
+          "name": "Shiloh-JewEl Idoko",
+          "url": "https://open.spotify.com/artist/4X05DqwYWzocKj5vpmzfGa"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 676848,
+      "name": "Jesu O (Live)",
+      "url": "https://open.spotify.com/track/4hN0MbGDinXaKHVyHiddwr"
     },
     {
       "album": {
@@ -3604,7 +3644,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 878716,
       "name": "Nakupenda - Live",
       "url": "https://open.spotify.com/track/7FhBF3erXmu9EwpIw2Wr3V"

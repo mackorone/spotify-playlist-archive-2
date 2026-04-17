@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=glHBHJpWRtmJpm62ielH0w>Xolly Mncwango</a>"
 
-458 songs - 2 day 0 hr 45 min
+460 songs - 2 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Mmrane](https://open.spotify.com/track/5iLWh0plYIPG6lDs7sGOkB) | [DrumPIPO](https://open.spotify.com/artist/5h0tAAig7dghGyu529G6jI), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu) | [Mmrane](https://open.spotify.com/album/2LBeyV0CfD9P60qPtmxz0T) | 5:01 | 2024-12-13 | 2025-02-28 |
 | [Mnini Mandla Onke](https://open.spotify.com/track/0FpEb0ELaosNg8phFfXAWf) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 26: Joy](https://open.spotify.com/album/0LDgE8E5vGayjvl767emzC) | 5:03 | 2022-04-14 | 2023-03-18 |
 | [Modisa Wa Dinku](https://open.spotify.com/track/4UnXuTOxpqvP05llekAKoD) | [IPCC YOUTH](https://open.spotify.com/artist/1mdnJbkFBtyxeqCJml77st) | [Modisa Wa Dinku](https://open.spotify.com/album/4V2QcMzsM2RWwf4eQ4NtVj) | 4:41 | 2025-04-18 | 2025-05-23 |
+| [Mofahlolodi](https://open.spotify.com/track/49baq6pqA2QCxgMrgGlKCm) | [5 Fold Worship](https://open.spotify.com/artist/5g9jOwxRVYqWHwXPM5ZUZD), [Winnie Maluleka](https://open.spotify.com/artist/4JKZj0YFC3VvipXUYZH0uK) | [Christ Exalted](https://open.spotify.com/album/5UiFJTfUB9pnYLgfyFIaGa) | 7:54 | 2026-04-17 |  |
 | [Mokgethwa \- Live](https://open.spotify.com/track/1qo6Q6gSoxeOj8Z1STUEl7) | [Jaymusic Sarela](https://open.spotify.com/artist/29jKLI6shY4i4TrDSQ7ZB7), [Prince Monyai](https://open.spotify.com/artist/0Nq95YhtBu2taFHm5sIwIu) | [Mokgethwa](https://open.spotify.com/album/5yf54peQO36L9Vu1V0A97i) | 5:19 | 2025-08-01 | 2025-09-19 |
 | [Moya Ka Jehovah \- Live](https://open.spotify.com/track/4Y2RXhp12YudM5bRtdw4rY) | [Jabu Hlongwane](https://open.spotify.com/artist/7DPMhjzvIdLdtZfElG1vzf) | [Crosspower Experience 3 \(Live\)](https://open.spotify.com/album/5wHtxMh4PMD0uqONkrhGfm) | 6:56 | 2018-12-18 | 2024-05-03 |
 | [Moyongcwele](https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Moyongcwele](https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC) | 5:09 | 2024-04-05 |  |
@@ -318,6 +319,7 @@
 | [Sithembe Wena/Egalile](https://open.spotify.com/track/73b3N7Vx2rwLxCixZNoYV4) | [The Light Twins](https://open.spotify.com/artist/2zvKxVB2VOf18MMBuCFsJi) | [Ngikhuleka Kuwe Nkulunkulu](https://open.spotify.com/album/1e0IQHmeGklSqSKqQOYSTB) | 5:02 | 2025-04-25 | 2025-05-30 |
 | [Sixolele](https://open.spotify.com/track/77DtZoPVPzsetJnfN7Gzn6) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i) | [Izililo](https://open.spotify.com/album/6thyPQyQMTgLI3TzkRh4GP) | 5:00 | 2023-06-16 | 2023-07-07 |
 | [Sojabula \- Hosanna Kweliphezulu](https://open.spotify.com/track/4MJWtu8wNvCDZMcuyrDlpM) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Sojabula \(Hosanna Kweliphezulu\)](https://open.spotify.com/album/4e7plmHk0aw1kvX22l852X) | 5:37 | 2024-08-30 | 2025-02-14 |
+| [Solala Ngokonwaba \- Live](https://open.spotify.com/track/1qZCNkmOLC17Pvh3AoIWqb) | [Ziyanda Tshangana](https://open.spotify.com/artist/0M8zlsLqG3ODIjtZulBbNO) | [Prophetic Worship Encounter \(Live\)](https://open.spotify.com/album/0N9DkqZMv3hQmEvEHNV4V6) | 9:34 | 2026-04-17 |  |
 | [Song of Breakthrough \- Live](https://open.spotify.com/track/6SrbZuCMDscTp9aVwfNewN) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [Word + Prayer + Worship, Vol\. 1](https://open.spotify.com/album/4O7nAl5WLCFh0eVm4DjgKr) | 10:50 | 2024-03-29 | 2024-04-05 |
 | [South African Hymns Medley](https://open.spotify.com/track/2ISFvLQr4ids67oJbk82Wj) | [Halal Afrika](https://open.spotify.com/artist/5gX3emCuEZBBq99uBvA3yh), [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [South African Hymns Medley](https://open.spotify.com/album/1LbcounheZIUd5xbxVbBk1) | 17:55 | 2025-06-27 |  |
 | [Surely Goodness](https://open.spotify.com/track/6EuTx7OqOebUZcEGZfE1d7) | [Sbu Noah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Surely Goodness](https://open.spotify.com/album/2YThyI33V5DNVVYLOSQQqA) | 7:28 | 2022-04-14 | 2023-06-16 |

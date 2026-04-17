@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Tuku Kantu",
+  "description": "What is your love language? Say it in Swahili.  Cover: Yammi",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 194666,
       "name": "Feelings (feat. Khaligraph Jones)",
       "url": "https://open.spotify.com/track/4TwiRbTgM2vvY8cErSflxy"
@@ -2260,6 +2260,28 @@
       "duration_ms": 188423,
       "name": "Kama",
       "url": "https://open.spotify.com/track/4ulwSWSNoXFhuZZ9bWqGPD"
+    },
+    {
+      "album": {
+        "name": "Kama Sio",
+        "url": "https://open.spotify.com/album/3jlIsMfVbLH2l8aS8EgDvJ"
+      },
+      "artists": [
+        {
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194021,
+      "name": "Kama Sio",
+      "url": "https://open.spotify.com/track/6S920U14Kw9v5dedojzQLA"
     },
     {
       "album": {
@@ -4265,6 +4287,28 @@
     },
     {
       "album": {
+        "name": "Nichum (feat. Darassa)",
+        "url": "https://open.spotify.com/album/4TheUCjOTTQgkYZSLvvA0M"
+      },
+      "artists": [
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        },
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Nichum (feat. Darassa)",
+      "url": "https://open.spotify.com/track/02FisdTIvwtjVyRnWaDf7K"
+    },
+    {
+      "album": {
         "name": "Nikatoke Nao",
         "url": "https://open.spotify.com/album/5epvY4TABqhIZQYO2u4I3F"
       },
@@ -5706,7 +5750,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 153401,
       "name": "Siwezi",
       "url": "https://open.spotify.com/track/71dAnBhTrNKhsUfL7IJ8ht"

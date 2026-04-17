@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Punk spirit, alternative bones. Music that pushes us forward. Cover: Dead Finks",
+  "description": "Punk spirit, alternative bones. Music that pushes us forward. Cover: Nine Inch Noize",
   "name": "Wire",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 163979,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/3UoZLsDz4FjfciCCJQtjhq"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 275454,
       "name": "Double Clover",
       "url": "https://open.spotify.com/track/7saFP1pvhh9Uqd2BciqajX"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 135000,
       "name": "FME",
       "url": "https://open.spotify.com/track/46mmlCxxF6c4mzobMVK94b"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 66360,
       "name": "Gatekeep",
       "url": "https://open.spotify.com/track/78WLXqaqyu9PeUbMjvF5iQ"
@@ -1147,6 +1147,28 @@
     },
     {
       "album": {
+        "name": "Nine Inch Noize",
+        "url": "https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237956,
+      "name": "Heresy - Nine Inch Noize Version",
+      "url": "https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV"
+    },
+    {
+      "album": {
         "name": "Hit My Head All Day",
         "url": "https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI"
       },
@@ -1241,6 +1263,42 @@
     },
     {
       "album": {
+        "name": "Is That A Prayer?",
+        "url": "https://open.spotify.com/album/3YHNqnbCp8lPooUyGg7LGp"
+      },
+      "artists": [
+        {
+          "name": "A. Swayze & The Ghosts",
+          "url": "https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122375,
+      "name": "Is That A Prayer?",
+      "url": "https://open.spotify.com/track/4hWulk2MmnTTgLzYC8IMmW"
+    },
+    {
+      "album": {
+        "name": "Is The New Album Out Yet?",
+        "url": "https://open.spotify.com/album/40GWsNlzUiu4BNVUK3Osr6"
+      },
+      "artists": [
+        {
+          "name": "Otoboke Beaver",
+          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92240,
+      "name": "Is The New Album Out Yet?",
+      "url": "https://open.spotify.com/track/5ifURZDS0giN09C2usZ7uq"
+    },
+    {
+      "album": {
         "name": "New Age",
         "url": "https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl"
       },
@@ -1252,7 +1310,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 261931,
       "name": "ITS FINE",
       "url": "https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV"
@@ -1346,6 +1404,24 @@
       "duration_ms": 211000,
       "name": "Just a Memory",
       "url": "https://open.spotify.com/track/10ElMw2aUfjQgq0l9ATVXR"
+    },
+    {
+      "album": {
+        "name": "Again, Again",
+        "url": "https://open.spotify.com/album/3sAXgTIcyf8B18AsLj2Mru"
+      },
+      "artists": [
+        {
+          "name": "Hot Glue",
+          "url": "https://open.spotify.com/artist/6Xz3noOPv6Cpb2ULyIHOiG"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181049,
+      "name": "Keychain",
+      "url": "https://open.spotify.com/track/2VOhFvluZlMT2wHIuJWkR1"
     },
     {
       "album": {
@@ -1766,6 +1842,24 @@
       "duration_ms": 152414,
       "name": "One Train",
       "url": "https://open.spotify.com/track/5CiLlBxMClDoCe7fAJfn8p"
+    },
+    {
+      "album": {
+        "name": "ONLY FREE WHEN SLEEPING",
+        "url": "https://open.spotify.com/album/6n5FhsyPFibZFYOMI5VW8x"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "ONLY FREE WHEN SLEEPING",
+      "url": "https://open.spotify.com/track/2pM5288FJrc08RobtMlEOy"
     },
     {
       "album": {
@@ -2535,6 +2629,24 @@
     },
     {
       "album": {
+        "name": "The New VR Ted Bundy Biopic",
+        "url": "https://open.spotify.com/album/6hIG5n4UxQV6Dqtu5QNWUd"
+      },
+      "artists": [
+        {
+          "name": "Special Guest",
+          "url": "https://open.spotify.com/artist/4WPcB3czUtzQ2QT1MAikKu"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172239,
+      "name": "The New VR Ted Bundy Biopic",
+      "url": "https://open.spotify.com/track/5unw4KVxfx3mv0B9UqTUqz"
+    },
+    {
+      "album": {
         "name": "THE RECAP",
         "url": "https://open.spotify.com/album/5mJPfSEKnCAjpfuknVQwol"
       },
@@ -2806,7 +2918,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 254168,
       "name": "Violet - YHWH Nailgun Remix",
       "url": "https://open.spotify.com/track/2kbKNHVudgXof9wjHE133Z"

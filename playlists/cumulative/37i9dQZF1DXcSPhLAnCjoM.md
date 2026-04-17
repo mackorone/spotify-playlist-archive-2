@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Ça fait mal" de Vitaa est le Grand Hit de la semaine.
+> "La lune" de Christophe Maé est le Grand Hit de la semaine.
 
 324 songs - 16 hr 36 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3098,
+  "num_followers": 3103,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAAAUjStC2XxiuX6Vjffn6NIl",
+  "snapshot_id": "ad7VAAAAAAAh3gvRN6Ifl5ccWiO9TWpK",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sappho",
-        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 216971,
-      "name": "Come Home With Me",
-      "url": "https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evil Angel",
         "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 169871,
       "name": "Bedspell",
       "url": "https://open.spotify.com/track/0486NoRItdcZ1k42ErhWHG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sappho",
+        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 216971,
+      "name": "Come Home With Me",
+      "url": "https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Immaculate Conception",
-        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Explosion",
-      "url": "https://open.spotify.com/track/6endOGznHKDNpOtC2DHc2V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evil Angel",
         "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 149373,
       "name": "Loveline",
       "url": "https://open.spotify.com/track/5oLim0g3AnZSay3a6U7KTT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bye Bye Baby",
+        "url": "https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Bye Bye Baby",
+      "url": "https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bye Bye Baby",
-        "url": "https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk"
+        "name": "Immaculate Conception",
+        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 179666,
-      "name": "Bye Bye Baby",
-      "url": "https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB"
+      "duration_ms": 210500,
+      "name": "Explosion",
+      "url": "https://open.spotify.com/track/6endOGznHKDNpOtC2DHc2V"
     },
     {
       "added_at": null,

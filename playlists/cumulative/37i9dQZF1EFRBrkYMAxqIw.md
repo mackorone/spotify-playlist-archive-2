@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-191 songs - 10 hr 9 min
+192 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [My Birthday](https://open.spotify.com/track/4fO2KD344M4IeTiroNFH3v) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [My Birthday](https://open.spotify.com/album/12RwDvWCBgdUztmQlP6UU1) | 2:16 | 2025-05-03 |  |
 | [Need Your Heart](https://open.spotify.com/track/703LdqMMYYrp3hIvyJAzBQ) | [Latchmere](https://open.spotify.com/artist/7hH4Q8dq2p4oy5dhvPDKc5) | [Lovedrunk](https://open.spotify.com/album/0Ixpgs0TTTgLDlRqGDoU54) | 3:34 | 2022-05-25 |  |
 | [Never Let You Go](https://open.spotify.com/track/195rIaxn3j8SysVOs2UaOJ) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [Never Let You Go](https://open.spotify.com/album/7aGJUHI9MDCEabog2n4B3O) | 2:54 | 2022-10-23 |  |
+| [No Mercy](https://open.spotify.com/track/3WKaMWuVBDfb0fBXdpsZfY) | [Leblanc](https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb) | [No Mercy](https://open.spotify.com/album/2O5VnN5s1stWeAqnIGsDxV) | 2:56 | 2026-04-16 |  |
 | [Not Now Kids](https://open.spotify.com/track/5QJbZk6ieUNlOiKXv4nHx5) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:04 | 2024-09-29 |  |
 | [NYC](https://open.spotify.com/track/2rzWSWPzZZGSx6Wzj4ZJKO) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [NYC](https://open.spotify.com/album/2UaIgK5kTsX38Q9p9RnqRC) | 3:08 | 2022-05-25 |  |
 | [Oblivion \(feat\. Amber Van Day\)](https://open.spotify.com/track/3HNs1UAn7OZQiby7DXTIYl) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Oblivion \(feat\. Amber Van Day\)](https://open.spotify.com/album/4xG7w6o7w2ah1W2a3tPgaV) | 3:12 | 2022-05-25 |  |

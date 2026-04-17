@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: James Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,023 likes - 160 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,027 likes - 160 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

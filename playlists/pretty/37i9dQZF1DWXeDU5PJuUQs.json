@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 263106,
+  "num_followers": 263170,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
+        "name": "La Misma Cancion (En Vivo)",
+        "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 182064,
+      "name": "La Misma Cancion (En Vivo)",
+      "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
         "name": "Un sue\u00f1o hecho realidad",
         "url": "https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 186706,
       "name": "La pollera amarilla",
       "url": "https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
-        "name": "La Misma Cancion (En Vivo)",
-        "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "La Misma Cancion (En Vivo)",
-      "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "En Vivo en el Gran Rex",
-        "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 177739,
-      "name": "No Llores - En Vivo",
-      "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 281234,
       "name": "Si No Te Hubieras Ido - En Vivo",
       "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "En Vivo en el Gran Rex",
+        "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 177739,
+      "name": "No Llores - En Vivo",
+      "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "Un Millon de Rosas / Me Enamore de una Bandida / El Camison (En Vivo)",
-        "url": "https://open.spotify.com/album/6Xp8jfGfA8gCZa5PK3Rlwo"
-      },
-      "artists": [
-        {
-          "name": "Ale Ceberio",
-          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
-        }
-      ],
-      "duration_ms": 429920,
-      "name": "Un Millon de Rosas / Me Enamore / El Camison (En Vivo)",
-      "url": "https://open.spotify.com/track/1XtgMbP5enmvmfOoPtt2Io"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
         "name": "Ay, Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 81813,
       "name": "Despu\u00e9s De Ti",
       "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "Un Millon de Rosas / Me Enamore de una Bandida / El Camison (En Vivo)",
+        "url": "https://open.spotify.com/album/6Xp8jfGfA8gCZa5PK3Rlwo"
+      },
+      "artists": [
+        {
+          "name": "Ale Ceberio",
+          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+        }
+      ],
+      "duration_ms": 429920,
+      "name": "Un Millon de Rosas / Me Enamore / El Camison (En Vivo)",
+      "url": "https://open.spotify.com/track/1XtgMbP5enmvmfOoPtt2Io"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/48a6h9MWyM2bxiAlc3B7Rr"
-      },
-      "artists": [
-        {
-          "name": "Daniel Cardozo",
-          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
-        }
-      ],
-      "duration_ms": 121087,
-      "name": "Tu Carcel - En Vivo",
-      "url": "https://open.spotify.com/track/5MviAyrK0T1iGhgEOdmq2I"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
         "name": "En Vivo Estadio Luna Park",
         "url": "https://open.spotify.com/album/6xYnpeN2izdbOVKbEIJs1z"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 278811,
       "name": "Amiga Traidora - En Vivo Estadio Luna Park",
       "url": "https://open.spotify.com/track/6LFz8eGFPl3Wl7RGSS8HBc"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/48a6h9MWyM2bxiAlc3B7Rr"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        }
+      ],
+      "duration_ms": 121087,
+      "name": "Tu Carcel - En Vivo",
+      "url": "https://open.spotify.com/track/5MviAyrK0T1iGhgEOdmq2I"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Cardozo",
-          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
-        }
-      ],
-      "duration_ms": 124253,
-      "name": "La Ultima Cancion - En Vivo",
-      "url": "https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
         "name": "Mi Gran Maestro (Montevideo Music Sessions)",
         "url": "https://open.spotify.com/album/4bEHL08FgsySG8mVwBIQxc"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 210744,
       "name": "Mi Gran Maestro - Montevideo Music Sessions",
       "url": "https://open.spotify.com/track/0rekCZBOnQQ7xtjukqeA8j"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        }
+      ],
+      "duration_ms": 124253,
+      "name": "La Ultima Cancion - En Vivo",
+      "url": "https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "Inigualable (En Vivo)",
-        "url": "https://open.spotify.com/album/1lEfjXb3WD9L6c1AtBVwIf"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 229302,
-      "name": "Amantes / Mas Hombre Que Tu - En Vivo",
-      "url": "https://open.spotify.com/track/09d8x3UOE0ptPkfW5kz3NO"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
         "name": "En Vivo Desde el Teatro Opera",
         "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 462272,
       "name": "Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor",
       "url": "https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "Inigualable (En Vivo)",
+        "url": "https://open.spotify.com/album/1lEfjXb3WD9L6c1AtBVwIf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 229302,
+      "name": "Amantes / Mas Hombre Que Tu - En Vivo",
+      "url": "https://open.spotify.com/track/09d8x3UOE0ptPkfW5kz3NO"
     },
     {
       "added_at": "2026-03-13 03:00:05",

@@ -2540,7 +2540,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 158483,
       "name": "Jab Mila Tu",
       "url": "https://open.spotify.com/track/6y7GIEEmOatGnxZzVdGd8W"
@@ -3762,7 +3762,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 154616,
       "name": "Maan Jao",
       "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
@@ -3890,7 +3890,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 231250,
       "name": "Marammatein",
       "url": "https://open.spotify.com/track/5IvcYdbyPCoFocOu5hoZyN"
@@ -5084,6 +5084,28 @@
       "duration_ms": 158617,
       "name": "Ranjheya",
       "url": "https://open.spotify.com/track/3EyFLvf2phMoveVeyHjYtl"
+    },
+    {
+      "album": {
+        "name": "Stay Vol. 1",
+        "url": "https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql"
+      },
+      "artists": [
+        {
+          "name": "Taaruk Raina",
+          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
+        },
+        {
+          "name": "Charan",
+          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148218,
+      "name": "Ratiyaan",
+      "url": "https://open.spotify.com/track/6AW4SkLk5mYWpsPDz8lGXz"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Sora Ambient](https://open.spotify.com/playlist/37i9dQZF1DWZqNqPemiefM)
 
-> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: D.A.N.
+> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Meitei
 
-980 songs - 3 day 2 hr 7 min
+981 songs - 3 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Haze](https://open.spotify.com/track/5FWxDuuGMsNBZj3R9Eltwd) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK), [Shushi Matsuura](https://open.spotify.com/artist/5yBmc1Cewr6L2KsxuMU3QP) | [Pale](https://open.spotify.com/album/0vFSmKPhft7GcADTEypWpA) | 2:12 | 2022-04-16 | 2022-07-09 |
 | [Haze Garden \(Prayer\)](https://open.spotify.com/track/4XigfPo7zRs3S3ntut37zd) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Haze Garden \(Prayer\)](https://open.spotify.com/album/7hu4RONzaQHEArMTBnBzgJ) | 3:18 | 2022-07-28 | 2024-02-09 |
 | [Hazy Colors](https://open.spotify.com/track/7tmLKzeAlDLp2QuGosr351) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Hazy Colors](https://open.spotify.com/album/0KMysn3t8WvztKJQGI3ytk) | 2:27 | 2026-02-20 | 2026-03-13 |
+| [HAŌ](https://open.spotify.com/track/1eqGDIj6A7wEouPBIIJcsS) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [AGATE](https://open.spotify.com/album/1aKgkW4UDBKdFxdHK3uYOc) | 5:53 | 2026-04-16 |  |
 | [heal](https://open.spotify.com/track/5KqDQ7PGYziOu0Da8VQ41U) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [halo](https://open.spotify.com/album/0xN4bGmZl4uD0IaM5AYjNk) | 2:28 | 2024-05-09 | 2024-11-29 |
 | [Hearsay](https://open.spotify.com/track/1ijxEsdn2IqzjesRbdROHt) | [Ken Ikeda](https://open.spotify.com/artist/7jmgDnD5qtBb0Vw7VsGY7m) | [Sparse Memory](https://open.spotify.com/album/3sXf7vC0g92GljNNdWmHX6) | 6:36 | 2023-05-04 | 2023-05-26 |
 | [Heartaches](https://open.spotify.com/track/6WPWEHhr1tdX2ZUAWBmksK) | [Al Bowlly](https://open.spotify.com/artist/6l3iPTof4l2D75Wawq9w7R), [Sid Phillips & His Melodians](https://open.spotify.com/artist/7nfhR4TR6hs89DEuGOv0y5) | [The Al Bowlly Collection 1927\-40, Vol\. 1](https://open.spotify.com/album/0q3hlkQANkjMg4SpmxD6kE) | 3:29 | 2024-02-08 | 2025-09-23 |

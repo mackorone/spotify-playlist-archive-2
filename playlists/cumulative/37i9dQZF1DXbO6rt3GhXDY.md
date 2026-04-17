@@ -2,7 +2,7 @@
 
 ### [Indie Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DXbO6rt3GhXDY)
 
-> You know em, you love em, these are indie pop hits\. Cover: Malcom Todd
+> You know em, you love em, these are indie pop hits\. Cover: Malcolm Todd
 
 198 songs - 10 hr 49 min
 

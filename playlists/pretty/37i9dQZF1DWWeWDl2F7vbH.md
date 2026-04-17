@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,935 likes - 50 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,959 likes - 50 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Where Love Lives \- featured on the John Lewis Christmas Advert 2025](https://open.spotify.com/track/0ilZMeXHPKDPjUc4Neu04f) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 6:56 |
 | 2 | [Good Life](https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 4:04 |
 | 3 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
-| 4 | [Love Can't Turn Around \(Original Mix\)](https://open.spotify.com/track/37cwvKWbzlim74LV27VDxS) | [Farley "Jackmaster" Funk](https://open.spotify.com/artist/0B9P7RXrukgIdmutz9XMVN), [Darryl Pandy](https://open.spotify.com/artist/4DdTAu2ze9ocUPqcFg1sKs) | [Farley Jackmaster Funk](https://open.spotify.com/album/1dqRqbXfDnEdoxbHCzeZkl) | 4:11 |
-| 5 | [Mystery Of Love](https://open.spotify.com/track/6AvtRMA6AzFNYZ3qEMYpch) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Amnesia](https://open.spotify.com/album/3qcIddqx4v69RvwyY5hfSH) | 7:10 |
-| 6 | [Someday](https://open.spotify.com/track/5bGlU4BXhMRMMHWZnHuKhj) | [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [CeCe Rogers](https://open.spotify.com/album/7nxYXN1wJ2PsPpQI09abMx) | 3:50 |
-| 7 | [Your Love \(feat\. Jamie Principle\)](https://open.spotify.com/track/6tvtFyEdNpeurBkT2zNMEL) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [Jamie Principle](https://open.spotify.com/artist/5obQFNrkFoWB51hm1JTHMw) | [Four Most Cuts Presents \- Frankie Knuckles vs\. Mr Fingers](https://open.spotify.com/album/1OM6ULzT778hgqBI4stbFR) | 6:47 |
-| 8 | [Acid Thunder](https://open.spotify.com/track/2vR3tdPA1GsuIrJpmahB4X) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3lwFe9HmbSXyTjoWHlX9y9) | 4:32 |
-| 9 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
+| 4 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
+| 5 | [Love Can't Turn Around \(Original Mix\)](https://open.spotify.com/track/37cwvKWbzlim74LV27VDxS) | [Farley "Jackmaster" Funk](https://open.spotify.com/artist/0B9P7RXrukgIdmutz9XMVN), [Darryl Pandy](https://open.spotify.com/artist/4DdTAu2ze9ocUPqcFg1sKs) | [Farley Jackmaster Funk](https://open.spotify.com/album/1dqRqbXfDnEdoxbHCzeZkl) | 4:11 |
+| 6 | [Mystery Of Love](https://open.spotify.com/track/6AvtRMA6AzFNYZ3qEMYpch) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Amnesia](https://open.spotify.com/album/3qcIddqx4v69RvwyY5hfSH) | 7:10 |
+| 7 | [Someday](https://open.spotify.com/track/5bGlU4BXhMRMMHWZnHuKhj) | [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [CeCe Rogers](https://open.spotify.com/album/7nxYXN1wJ2PsPpQI09abMx) | 3:50 |
+| 8 | [Your Love \(feat\. Jamie Principle\)](https://open.spotify.com/track/6tvtFyEdNpeurBkT2zNMEL) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [Jamie Principle](https://open.spotify.com/artist/5obQFNrkFoWB51hm1JTHMw) | [Four Most Cuts Presents \- Frankie Knuckles vs\. Mr Fingers](https://open.spotify.com/album/1OM6ULzT778hgqBI4stbFR) | 6:47 |
+| 9 | [Acid Thunder](https://open.spotify.com/track/2vR3tdPA1GsuIrJpmahB4X) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3lwFe9HmbSXyTjoWHlX9y9) | 4:32 |
 | 10 | [Move Your Body](https://open.spotify.com/track/5eAymAmVU6CyejjFJxvcMI) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Frankie Knuckles Presents: His Greatest Hits from Trax Records](https://open.spotify.com/album/0FV16C1tWVlaSSYUYofPwT) | 6:45 |
 | 11 | [Get Get Down](https://open.spotify.com/track/4h4AEqy0iBbjdlbtWvIx5O) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Get Get Down](https://open.spotify.com/album/1ND1coyFl0AIA9D5OujGgg) | 6:07 |
 | 12 | [Sensation \- Long Version](https://open.spotify.com/track/3WdgafphoKHRYPnV3Raru2) | [Ron Hardy](https://open.spotify.com/artist/4E0iBKQ8E2IYxzf5oLYkHB) | [Sensation](https://open.spotify.com/album/1bEyxcFTqbWefAN6fAmk8u) | 6:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 49 | [Turn Up The Bass \- Fast Eddie Scratch It Up Mix](https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn) | [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6) | 4:58 |
 | 50 | [Dream Girl \- Wet Dream Mix](https://open.spotify.com/track/4xLRVwJ2hDzoaWijzbY6T1) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk) | [Dream Girl](https://open.spotify.com/album/6LUK1l2Bxmmns70WRIx5uY) | 8:53 |
 
-Snapshot ID: `AAAAAOCDg8FW91lft+u4LgMQPcarTtQT`
+Snapshot ID: `AAAAANLgNbx9U4mUHjWyqVgxtTaknikn`

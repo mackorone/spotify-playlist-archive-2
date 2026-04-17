@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 810401,
+  "num_followers": 810529,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Lungs",
-        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 177359,
-      "name": "Lungs",
-      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "By The Rule",
         "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
       },
@@ -891,22 +875,18 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
       },
       "artists": [
         {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
         }
       ],
-      "duration_ms": 193866,
-      "name": "O Death (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj"
+      "duration_ms": 177359,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -923,6 +903,26 @@
       "duration_ms": 164344,
       "name": "Crisscross Way",
       "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "O Death (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Boy From The North (ADA / USA)",
-        "url": "https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH"
+        "name": "Stumbler's Business",
+        "url": "https://open.spotify.com/album/3IUX21sPPxhNpIcZBoalvc"
       },
       "artists": [
         {
-          "name": "Monica Heldal",
-          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
+          "name": "Kendl Winter",
+          "url": "https://open.spotify.com/artist/32iM5mg9ke0SyutYzWwkbM"
         }
       ],
-      "duration_ms": 196946,
-      "name": "Conman Coming",
-      "url": "https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq"
+      "duration_ms": 243533,
+      "name": "The River's Will",
+      "url": "https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Stumbler's Business",
-        "url": "https://open.spotify.com/album/3IUX21sPPxhNpIcZBoalvc"
+        "name": "Boy From The North (ADA / USA)",
+        "url": "https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH"
       },
       "artists": [
         {
-          "name": "Kendl Winter",
-          "url": "https://open.spotify.com/artist/32iM5mg9ke0SyutYzWwkbM"
+          "name": "Monica Heldal",
+          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
         }
       ],
-      "duration_ms": 243533,
-      "name": "The River's Will",
-      "url": "https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ"
+      "duration_ms": 196946,
+      "name": "Conman Coming",
+      "url": "https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1499,6 +1499,30 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "The Angry River (feat. Father John Misty and S.I. Istwa) [From the HBO\u00ae Series True Detective]",
+        "url": "https://open.spotify.com/album/5bCMuYl8KZARE7qDtwM4EN"
+      },
+      "artists": [
+        {
+          "name": "The Hat",
+          "url": "https://open.spotify.com/artist/0UiSKMMZHzAvON7xNNeTnh"
+        },
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        },
+        {
+          "name": "S.I. Istwa",
+          "url": "https://open.spotify.com/artist/23DkZl7xuseePWZqXE1qUr"
+        }
+      ],
+      "duration_ms": 175153,
+      "name": "The Angry River (feat. Father John Misty and S.I. Istwa) [Theme From the HBO\u00ae Series True Detective]",
+      "url": "https://open.spotify.com/track/1gZmLcA6IqI4YGhKIfFO8E"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "Hell Among The Yearlings",
         "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
       },
@@ -1563,30 +1587,6 @@
       "duration_ms": 380160,
       "name": "Will There Be Enough Water?",
       "url": "https://open.spotify.com/track/3Bx2b6DkK0lOLuwnLVaULP"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
-        "name": "The Angry River (feat. Father John Misty and S.I. Istwa) [From the HBO\u00ae Series True Detective]",
-        "url": "https://open.spotify.com/album/5bCMuYl8KZARE7qDtwM4EN"
-      },
-      "artists": [
-        {
-          "name": "The Hat",
-          "url": "https://open.spotify.com/artist/0UiSKMMZHzAvON7xNNeTnh"
-        },
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        },
-        {
-          "name": "S.I. Istwa",
-          "url": "https://open.spotify.com/artist/23DkZl7xuseePWZqXE1qUr"
-        }
-      ],
-      "duration_ms": 175153,
-      "name": "The Angry River (feat. Father John Misty and S.I. Istwa) [Theme From the HBO\u00ae Series True Detective]",
-      "url": "https://open.spotify.com/track/1gZmLcA6IqI4YGhKIfFO8E"
     },
     {
       "added_at": "2026-03-27 00:00:34",

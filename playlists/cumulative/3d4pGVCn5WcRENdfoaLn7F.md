@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-311 songs - 18 hr 54 min
+315 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [50/50](https://open.spotify.com/track/3AD2WXL3wz12SyNw6jfXFc) | [The Lovves](https://open.spotify.com/artist/0D1Pm8FvVpv0CUoawzKyO2) | [Day Dreamer Night Thinker](https://open.spotify.com/album/3v1i2iiTOt0yptE5meyxAB) | 4:14 | 2026-03-18 | 2026-04-15 |
 | [A Dream Goes Walking By](https://open.spotify.com/track/0fUwJ39xEsvWS6ynNhTK6k) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 5:13 | 2025-11-26 | 2025-12-28 |
 | [A mani vuote](https://open.spotify.com/track/7GbUksy2hbn9Y4in8VU8rN) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [A mani vuote](https://open.spotify.com/album/5KOYdCWPstaraOwRpsK2xK) | 3:12 | 2025-11-11 | 2025-12-06 |
+| [Addressed To Me](https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Addressed To Me](https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6) | 3:47 | 2026-04-16 |  |
 | [Adrift](https://open.spotify.com/track/649n923Nb1uamTFlRmpKrT) | [Joel Hunt](https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8) | [AudioVisual](https://open.spotify.com/album/0JdcjgsOJ1ybVEmHuFhfBD) | 3:22 | 2026-01-28 | 2026-02-19 |
 | [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 | 2026-03-11 | 2026-04-15 |
 | [Aggravated Cultivation](https://open.spotify.com/track/03j9ESzqUIcPzWn5hh1W7g) | [Tom Markey](https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ) | [Pale Ontology](https://open.spotify.com/album/7xDRFDBkIeinYvAGc5ctT6) | 3:45 | 2026-01-19 | 2026-02-19 |
@@ -20,6 +21,7 @@
 | [Alchemical Romance](https://open.spotify.com/track/5WWvHcc1dQc6528tbZsVip) | [Belladonna](https://open.spotify.com/artist/46kYkISh4NadImXUdivRVb) | [The Noir Album](https://open.spotify.com/album/3wURhrqRieO3ZuMIlEqpDR) | 3:22 | 2026-02-13 |  |
 | [All Along](https://open.spotify.com/track/24XphTpo1iSOJcWgBUCZUZ) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:37 | 2026-03-12 | 2026-04-15 |
 | [All I Know](https://open.spotify.com/track/0ZjhuatJiL7b3x9bVRAVRm) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Light On The Horizon](https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw) | 3:41 | 2026-03-17 | 2026-04-15 |
+| [Anfang unsrer Zeit](https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Anfang unsrer Zeit](https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t) | 3:28 | 2026-04-16 |  |
 | [Another Light Year](https://open.spotify.com/track/2LxPolkDBMrJHAhxOTCQXX) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Surrounded by Spiders](https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT) | 2:24 | 2025-10-04 | 2026-01-05 |
 | [Anything Better to Do](https://open.spotify.com/track/5rk0K5Z6oyuHpP7gjlScDK) | [Feyer](https://open.spotify.com/artist/7Eu9QyMHf0nXat8KuTJJX4) | [Bridging The Gaps](https://open.spotify.com/album/1NPMdLOVMk6kqBB4DQMKfi) | 3:19 | 2026-01-17 | 2026-02-19 |
 | [Aquella mirada](https://open.spotify.com/track/3KnPS50cVLvfJhaN8CGQUo) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Aquella Mirada](https://open.spotify.com/album/61EmKeW5ZlfiO1Q5PI7Yw7) | 4:01 | 2025-11-11 | 2025-12-06 |
@@ -199,6 +201,7 @@
 | [One Shot](https://open.spotify.com/track/2uQ5bMY5E0cflJbbGQcpgJ) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [One Shot](https://open.spotify.com/album/21nnXiPD8UoiWD4c6ydkAo) | 2:34 | 2025-08-31 | 2026-01-05 |
 | [ostracized myself](https://open.spotify.com/track/4kedkU5YfOg9aP3Rhaqh8Y) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [ostracized myself](https://open.spotify.com/album/7zzcYFc64KJdA2Hd1AB7Fm) | 2:50 | 2025-12-03 | 2026-01-05 |
 | [Our Path](https://open.spotify.com/track/0wLvmx2XhFfSipYnbsnSYL) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7) | [3AM Thoughts](https://open.spotify.com/album/3QlI5crNjxyuTbNMXSEEPm) | 3:56 | 2025-09-02 |  |
+| [Over](https://open.spotify.com/track/0OP5S6UqR2haqJdIR1YY1x) | [By Million Wires](https://open.spotify.com/artist/4QoLD4kvqh88dZF1VpDMSm) | [Over](https://open.spotify.com/album/3gG2TMhM8GUz3zbufRsYvv) | 5:09 | 2026-04-16 |  |
 | [Pain](https://open.spotify.com/track/1zwMKnJT3310A8q3Diwsam) | [Moontalks](https://open.spotify.com/artist/6yOLpceZAYKJKtxJaNeM5n) | [Pain](https://open.spotify.com/album/48n7z6FWoZaReBfUtx9UU6) | 2:54 | 2025-11-01 | 2025-12-06 |
 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 | 2025-12-20 | 2026-02-25 |
 | [Perfect life](https://open.spotify.com/track/7MqtvOVB7fIqwaOFE8Upjk) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [Perfect life](https://open.spotify.com/album/1rg4ZejsarO8YjR7fyu26X) | 2:44 | 2025-11-04 | 2025-12-06 |
@@ -239,6 +242,7 @@
 | [Smokky](https://open.spotify.com/track/4EIYedHpU8bSOZzyYL8yA3) | [Angelic Bipolar](https://open.spotify.com/artist/2u0uX0s7XYniiI9VY3rTfe) | [Horrible Parallel](https://open.spotify.com/album/1zUgcsZrPvrjbgvg8zJPk7) | 2:54 | 2026-02-09 | 2026-03-05 |
 | [SOAPBOX \- Single Version](https://open.spotify.com/track/11XQKzMwrZjBW9RCgKNEko) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [SOAPBOX](https://open.spotify.com/album/6acbhbjewDcTnpZVDvcl4r) | 2:44 | 2026-03-31 |  |
 | [Sombra](https://open.spotify.com/track/5BMFCvyN2LsLyiZTk1yFWj) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto III](https://open.spotify.com/album/3CwO3k5yLQmvPr6wXfY8xq) | 5:14 | 2026-02-04 | 2026-03-05 |
+| [Someday](https://open.spotify.com/track/3FLhwiCJmU4MTCGZP1MzCD) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 4:24 | 2026-04-16 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2025-12-11 | 2026-01-05 |
 | [Sotto Controllo](https://open.spotify.com/track/6jAPPaMIFWkCDgFdu86G1m) | [Rockify](https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33) | [Sotto Controllo](https://open.spotify.com/album/5LB0TRZvTWRjYIFFTAHBEE) | 3:57 | 2026-02-15 | 2026-03-27 |
 | [SPECKS](https://open.spotify.com/track/3MqmmpXA0BHiUthZJ7kMgH) | [Vampire Slumber Party](https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d) | [HOLES](https://open.spotify.com/album/5zl7NEY0kWkXzqdCCksGvQ) | 3:32 | 2026-02-28 |  |

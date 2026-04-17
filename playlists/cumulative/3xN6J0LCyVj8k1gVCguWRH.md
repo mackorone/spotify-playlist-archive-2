@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,944 songs - 13 day 20 hr 3 min
+5,947 songs - 13 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1305,6 +1305,7 @@
 | [Dimension](https://open.spotify.com/track/0rTgTSd9xvlDSl06YuHHXt) | [мика](https://open.spotify.com/artist/0yYZZ377KkGhYbFUPm4fUM) | [Dimension](https://open.spotify.com/album/6XHM11XnA3hDS74qOKUHar) | 2:51 | 2023-06-24 | 2023-07-15 |
 | [Dimensionality](https://open.spotify.com/track/0gtKPzI9PTsV4Ss6ln02BA) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Dimensionality](https://open.spotify.com/album/4jjgmtKnFq8r75REWbSoDr) | 4:00 | 2021-02-03 | 2021-02-10 |
 | [Dionysus](https://open.spotify.com/track/0LGeyHxMIgawNi3tZrVvwV) | [Ay Wing](https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4), [Chuuwee](https://open.spotify.com/artist/6ZBnvCszokLW4YHZ50uHY8) | [Dionysus](https://open.spotify.com/album/6N7EuGvb7jcVlFepBRpXva) | 3:02 | 2023-09-08 | 2023-12-14 |
+| [Dios Es Un Stalker \(versión Francotiradora\)](https://open.spotify.com/track/55VfayiDkGUTyFE5M3mUFO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX \(Complete Works\)](https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU) | 2:57 | 2026-04-17 |  |
 | [Directions](https://open.spotify.com/track/6qQMgHCGCm8QTMq1rzkpR3) | [Gregory Leon](https://open.spotify.com/artist/0ApkvoTXRnjx94ZQ92Vwol) | [Directions](https://open.spotify.com/album/6mQqaMEQW042I55AHqNhix) | 4:07 | 2025-03-23 | 2025-04-04 |
 | [Dirt Road to Downtown](https://open.spotify.com/track/4bf7r2C08fjhJXuYkzFOuN) | [Kyle Bunney](https://open.spotify.com/artist/6AJIJDkkmXNrrEhKk7QOuC) | [Dirt Road to Downtown](https://open.spotify.com/album/0WvAmoCRrzGXTJC2r1qToY) | 3:41 | 2026-02-12 | 2026-02-24 |
 | [Dirty Blue](https://open.spotify.com/track/0tyBp1oNoJd3vQkawFWPZ4) | [Cook Thugless](https://open.spotify.com/artist/6nP9APsxfZXjwl4vl3e3DF) | [Dirty Blue](https://open.spotify.com/album/0jEJhpFsKA0ROSpu9WCEfY) | 2:24 | 2021-02-26 | 2021-03-14 |
@@ -2510,6 +2511,7 @@
 | [I've Got You Under My Skin \- Remastered 1998](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 3:43 | 2019-09-29\* | 2021-11-19 |
 | [I've Heard It's Sunny Down In Mexico](https://open.spotify.com/track/6bLsOOpjM07x3aXFcUZfwT) | [Purple Drapes](https://open.spotify.com/artist/4s5WE47upudsL5at2Y8Upp) | [I've Heard It's Sunny Down In Mexico](https://open.spotify.com/album/5HaqGvW7RvXo9ZOmct0DtU) | 3:44 | 2024-03-23 | 2024-04-10 |
 | [I've Searched](https://open.spotify.com/track/64qqab7wvA9fAJFS9B6yI8) | [DaeShawn Forrest](https://open.spotify.com/artist/2XdyspU05FgF3PTKuJ7UBK) | [THE DREAM](https://open.spotify.com/album/3dgx6HqaOB4GbRDienVBGH) | 3:10 | 2024-10-05 | 2024-10-16 |
+| [IAWYD](https://open.spotify.com/track/4imQvmWBDK3C1zYPG2or4a) | [HYPSE](https://open.spotify.com/artist/4rcbAKtcPbZuuHwNN5V9Ej) | [IAWYD](https://open.spotify.com/album/3Fs9IaRpwsfwbvoU0FSFwp) | 3:34 | 2026-04-16 |  |
 | [Ibadan](https://open.spotify.com/track/53s2f89yvUvo3j8tDYEq9e) | [JaneliaSoul](https://open.spotify.com/artist/7acLtX4zNSLHWoFjWsKaBY) | [Janeliasoul](https://open.spotify.com/album/3EkkIF6qGePwxukQwkkTnS) | 2:52 | 2024-10-25 | 2024-11-06 |
 | [Ibeji](https://open.spotify.com/track/5fQft21KM4aVy8YjMGe4Jw) | [Aramà](https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD), [Parmi](https://open.spotify.com/artist/6LTcNC8jITmAKE5qG9Ghsa), [Eduardo Brechó](https://open.spotify.com/artist/7kHr5iZGUIh7rcl0lhegzI) | [As Luas de Wesak](https://open.spotify.com/album/4hO4oKptf0YGzhKab3uk7b) | 2:41 | 2021-04-03 | 2021-04-18 |
 | [Ibiza](https://open.spotify.com/track/4mk7tgtFWLW6txjZqOrD6u) | [Angel Bleu](https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO) | [Ibiza](https://open.spotify.com/album/4LYQUL8y6ZS0KoMO6o0Erp) | 2:37 | 2024-09-27 | 2024-10-10 |
@@ -4676,6 +4678,7 @@
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-03-10 | 2025-04-16 |
 | [Sorry I'm Late](https://open.spotify.com/track/7jDkLNrrXVTwtjOL4NsPN2) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF) | [Sorry I'm Late](https://open.spotify.com/album/2Lr779IPkcv2MnzbC8081d) | 4:28 | 2025-07-24 | 2025-09-03 |
 | [Soul](https://open.spotify.com/track/13JS7yOAEhnd7Z74ewX5Az) | [Tyler Ramerion](https://open.spotify.com/artist/1rkrWIkE4muHAnvgZqTkwo) | [Different Heaven](https://open.spotify.com/album/46gK3El0AI0OBpnTPPJID3) | 3:01 | 2025-07-14 | 2025-07-29 |
+| [Soul Blessings \- 2026 Remaster](https://open.spotify.com/track/73oXLHZB3nuahCPPA9iEss) | [Tony Redhouse](https://open.spotify.com/artist/7EsZjynVjkb2hZSqiczwmQ), [Liv & Let Liv](https://open.spotify.com/artist/5VTziJoT5lQseymSSI8kKZ) | [Soul Blessings \(2026 Remastered\)](https://open.spotify.com/album/305Xgc0geoL0xRw060beTz) | 6:29 | 2026-04-16 |  |
 | [Soul Hold](https://open.spotify.com/track/4XbOv2FDnldmx53sOWdaVz) | [Shaunt.wav](https://open.spotify.com/artist/5qbMudkAZQ4vApcUzS4ick) | [Soul Hold](https://open.spotify.com/album/5Z6NiTreyn8AtHqXd4pAHX) | 4:10 | 2020-02-08 | 2020-02-21 |
 | [Soul Magic](https://open.spotify.com/track/4HAMhklHSmARgGJUOFGY0Z) | [Ronnie Williams](https://open.spotify.com/artist/5NI2aZmFGp0pmQtqoU3LIB), [Sunflower](https://open.spotify.com/artist/6zTvyuLHXmfuEGBXdBoMVo), [Nate Myers IV](https://open.spotify.com/artist/3eSamZainmMZFufkWuyxs1) | [Soul Magic](https://open.spotify.com/album/7drmAprHFuwWtYbLLMUyZ8) | 3:35 | 2022-03-04 | 2022-03-26 |
 | [Soul Phazed](https://open.spotify.com/track/23L3C7CHo9NQR3uj62W28c) | [Jessica Hart](https://open.spotify.com/artist/41WPcAIdEkYBBn9lfiD6us) | [Soul Phazed](https://open.spotify.com/album/72fx005Eok1uET27uqssxq) | 4:17 | 2021-05-28 | 2021-06-13 |

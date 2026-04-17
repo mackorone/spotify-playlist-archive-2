@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 177067,
       "name": "10 Toes (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
@@ -112,7 +112,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 203077,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex"
@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Young Daddy",
+        "url": "https://open.spotify.com/album/6mQzGchJ3p5yKAsugrc5Gm"
+      },
+      "artists": [
+        {
+          "name": "RCEE",
+          "url": "https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147911,
+      "name": "Money Makes The World Go Round (MMTWGR)",
+      "url": "https://open.spotify.com/track/6Z4XuIm4CoQM7r4cMH9n6l"
+    },
+    {
+      "album": {
         "name": "LOVE AND CHAOS",
         "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
       },
@@ -1150,6 +1168,28 @@
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
+    },
+    {
+      "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117389,
+      "name": "No. 1 Fan",
+      "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
     },
     {
       "album": {
@@ -1712,7 +1752,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 181968,
       "name": "The Matter",
       "url": "https://open.spotify.com/track/6tcy7IvK0ncegksr9YxNz0"
@@ -1878,6 +1918,32 @@
       "duration_ms": 150000,
       "name": "Xtra Cool",
       "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+    },
+    {
+      "album": {
+        "name": "Ye Dede (feat. DarkoVibes)",
+        "url": "https://open.spotify.com/album/0B4VXn4Ur7AOmpkQLdRySW"
+      },
+      "artists": [
+        {
+          "name": "Nxwrth",
+          "url": "https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS"
+        },
+        {
+          "name": "$pacely",
+          "url": "https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160288,
+      "name": "Ye Dede (feat. DarkoVibes)",
+      "url": "https://open.spotify.com/track/3n0PQFnAzLsPbIQdu8ns7q"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3tRPv7i7zvy"

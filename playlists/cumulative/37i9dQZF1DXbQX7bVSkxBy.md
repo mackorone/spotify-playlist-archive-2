@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover: Sinach
 
-549 songs - 1 day 19 hr 34 min
+550 songs - 1 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Nothing](https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Nothing](https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h) | 3:36 | 2023-06-02 | 2023-09-15 |
 | [Now I See](https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Mr\. DDavid](https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC) | [Now I See](https://open.spotify.com/album/5c3xz82NykD7mtk1lIVvu9) | 3:11 | 2023-05-26 | 2023-06-23 |
 | [Nwachinemelu](https://open.spotify.com/track/4TKB7cAwgWwkVQ3KJxl7s8) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Nwachinemelu](https://open.spotify.com/album/2JKnfrfl4fuSOybUMxjjYL) | 3:06 | 2025-04-25 | 2025-05-16 |
-| [Obinasom](https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 5:00 | 2023-04-07 |  |
+| [Obinasom](https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 5:00 | 2023-04-07 | 2026-04-17 |
 | [Odimafo \(Defender\)](https://open.spotify.com/track/3tpJBR2KkjeXIJ3I8Bs35P) | [Morris Singz](https://open.spotify.com/artist/3X3TVlZ7n0RSp3eVaM9nnP), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Odimafo \(Defender\)](https://open.spotify.com/album/1IlSu6Awaq4xaZOYNN7i2L) | 2:35 | 2026-01-30 | 2026-04-03 |
 | [Oghene Do](https://open.spotify.com/track/5XCC5Ht7wNIKGPSlpJg3Ww) | [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [Oghene Do](https://open.spotify.com/album/4OMOfEjqFKN0rvpqDnWOyf) | 2:54 | 2025-03-28 | 2025-04-04 |
 | [Oghene Doh](https://open.spotify.com/track/1nQ8q7jsrcmzexCi5eGUUK) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Oghene Doh](https://open.spotify.com/album/2eiepZSsPBPYugqKudqfG1) | 3:59 | 2024-04-12 | 2024-05-24 |
@@ -532,6 +532,7 @@
 | [Yes And Amen](https://open.spotify.com/track/456ibkFtbcSMfKU6NvhIEW) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/31Zvl6ebdEQwBfqju54Ji0) | 8:02 | 2024-03-29 | 2024-04-05 |
 | [Yeshua](https://open.spotify.com/track/6VDhWqHgYFJQkWC8X6GwEl) | [Jesufemi](https://open.spotify.com/artist/3Hk1MSEN7hTVpjPdKp8GRA) | [Yeshua](https://open.spotify.com/album/16HVSUhTrK4U231KZJ1Me4) | 3:05 | 2026-04-03 |  |
 | [Yeshua Hamashiach](https://open.spotify.com/track/6xmcjy9fiHc5UZlUZDg5uy) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The King Is Coming](https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG) | 7:44 | 2023-04-20 | 2023-12-30 |
+| [Yeshua!](https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Yeshua!](https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8) | 3:40 | 2026-04-03 |  |
 | [Yewo](https://open.spotify.com/track/24q2NrlyFV3htvw0EqqJvE) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Yewo](https://open.spotify.com/album/4BlGgfSDbniELn7AvOd0zM) | 2:34 | 2024-06-07 | 2024-07-02 |
 | [You alone are God](https://open.spotify.com/track/5f10cifz8BDcuHqpj8DZp5) | [Grace Akakam](https://open.spotify.com/artist/6RxBaERGqQUh8s7IW6ebDV) | [You alone are God](https://open.spotify.com/album/1yFlJS0Te49HovSjoul6r0) | 6:23 | 2025-06-27 | 2025-07-25 |
 | [You Are \- Acoustic](https://open.spotify.com/track/4wg9Wy24wkh0Y4usZoSDTm) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Julia McMillan](https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ) | [You Are \(Acoustic\)](https://open.spotify.com/album/2YTuTpvN68yP0eWB1RU2T6) | 3:10 | 2025-06-27 | 2025-08-08 |

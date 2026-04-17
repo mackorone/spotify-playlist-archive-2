@@ -1,13 +1,29 @@
 {
-  "description": "Shaken, not stirred... Cover: Doja Cat",
-  "num_followers": 95523,
+  "description": "Shaken, not stirred... Cover: Lana Del Rey",
+  "num_followers": 95526,
   "original_name": "Best of Bond",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAO44k1TmkGQrHUdumR1DxTvZIAc",
+  "snapshot_id": "AAAAABlTYWpGlF/GmLSr5wWjBvmGVSU2",
   "tracks": [
+    {
+      "added_at": "2026-04-16 15:00:33",
+      "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 204233,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
+    },
     {
       "added_at": "2025-03-03 14:34:48",
       "album": {

@@ -4,10 +4,11 @@
 
 > These are some independent rock bands you need to hear.
 
-447 songs - 1 day 3 hr 47 min
+453 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [27 Club](https://open.spotify.com/track/3UjPYwiPULXhmVK91dHYhd) | [justJOY](https://open.spotify.com/artist/7xpJWxpoYSVlE9rTgn5Wna) | [27 Club](https://open.spotify.com/album/6Ym82PzOA7dAM7UgtwMby3) | 4:24 | 2026-04-16 |  |
 | [9 to 5 Dreams](https://open.spotify.com/track/3WNHabi5yTf8a4bce3xIlL) | [Deadline/Daydreams](https://open.spotify.com/artist/4qYkrZKqZwnck4JVLMAw22) | [9 to 5 Dreams](https://open.spotify.com/album/2lcVxVFpsbSo7DzB7tXgMJ) | 3:53 | 2026-04-06 |  |
 | [A Candle's Night](https://open.spotify.com/track/5SOKQmZoBsA4SaLKfntmE5) | [CRAZY PARTY](https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup) | [Dreamscape Odyssey](https://open.spotify.com/album/16V3zTfXjLdYnH608CAKgD) | 4:39 | 2026-01-22 | 2026-02-23 |
 | [A Cautionary Tale](https://open.spotify.com/track/6pDaf6QczqxT2fu52rTxWO) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed II](https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi) | 3:27 | 2026-01-05 | 2026-02-02 |
@@ -19,6 +20,7 @@
 | [Addressed To Me](https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Addressed To Me](https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6) | 3:47 | 2025-10-18 |  |
 | [Aeon's End](https://open.spotify.com/track/0bb27f1MO2rIB9bemoFgrY) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Aeon's End](https://open.spotify.com/album/3coizvmbxb4VaoGcUusbg3) | 4:56 | 2026-03-06 |  |
 | [Affection](https://open.spotify.com/track/1MbXQOK884LNMc6DzIyn4h) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed](https://open.spotify.com/album/2fe1lqChqutX3RlqZB5rqN) | 4:27 | 2025-11-04 | 2025-12-12 |
+| [Age of Aquarius](https://open.spotify.com/track/240S4AH0AvoM75oZ7PDk2Y) | [Regina](https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL) | [Age of Aquarius](https://open.spotify.com/album/6ej2r12pNYvAmXOTKcD52k) | 3:27 | 2026-04-16 |  |
 | [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 | 2026-01-03 | 2026-01-21 |
 | [Ain't no story of love](https://open.spotify.com/track/3f0iRjjbwR4gBSqlSjAOwe) | [Fredrik Bernhardtz](https://open.spotify.com/artist/1KhYjWBOtFNMf0VaIyWnK9) | [Ain't no story of love](https://open.spotify.com/album/5P8mY5mb96uTL53ThfjKfQ) | 5:46 | 2026-01-29 | 2026-02-23 |
 | [Alchemical Romance](https://open.spotify.com/track/5WWvHcc1dQc6528tbZsVip) | [Belladonna](https://open.spotify.com/artist/46kYkISh4NadImXUdivRVb) | [The Noir Album](https://open.spotify.com/album/3wURhrqRieO3ZuMIlEqpDR) | 3:22 | 2026-02-13 |  |
@@ -31,6 +33,7 @@
 | [Alone In LA](https://open.spotify.com/track/6hezehHsgXu0FvNzOMOLWK) | [Andrew Cärter](https://open.spotify.com/artist/5hng4ZEPzBFLEY0jfmFCdt) | [Alone In LA](https://open.spotify.com/album/1j8p383R5oRrfA6l48XZxH) | 3:05 | 2025-10-30 | 2025-11-22 |
 | [Alright](https://open.spotify.com/track/206t9kiN5fvPUOCzIayQuV) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 3:24 | 2025-12-29 | 2026-01-21 |
 | [Anemia](https://open.spotify.com/track/3bWz0GzNoQfYN4j7ZCU5Dh) | [M30](https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz) | [Anemia](https://open.spotify.com/album/2hVCVRqUQt7UE41lNrh9DZ) | 2:43 | 2026-03-15 |  |
+| [Anfang unsrer Zeit](https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Anfang unsrer Zeit](https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t) | 3:28 | 2026-04-16 |  |
 | [Another Broken Life](https://open.spotify.com/track/2C4uQkC2n41IDhKzr4ZfzI) | [Jasper Lane](https://open.spotify.com/artist/7Jy6PeI8aqpMobGCpaFSEw) | [Becoming The Angel](https://open.spotify.com/album/201udL0wJkhD9Md9s18KjC) | 4:18 | 2025-12-23 | 2026-01-21 |
 | [Another Road](https://open.spotify.com/track/240unn2aJKGurliwi6lJF2) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7), [Erim Ahmet](https://open.spotify.com/artist/2PmZza7fj5zPBKqLAchsjv) | [Another Road](https://open.spotify.com/album/1ns78XX82aqpqIKgdLkxAB) | 4:13 | 2025-10-02 |  |
 | [April](https://open.spotify.com/track/1A6hxO7ymM4QPip7txEt53) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 3:29 | 2025-12-23 | 2026-01-21 |
@@ -78,6 +81,7 @@
 | [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 | 2026-04-15 |  |
 | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 | 2025-12-01 | 2025-12-28 |
 | [Camgirl](https://open.spotify.com/track/5YXhWJnu9N8MWknVCROT4s) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Camgirl](https://open.spotify.com/album/2AMBpnaYyvfBN9XRFNeZkt) | 4:08 | 2026-02-04 |  |
+| [Chilly](https://open.spotify.com/track/0fhXATRQObAWuSEUlNY6td) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:38 | 2026-04-16 |  |
 | [Ciclos](https://open.spotify.com/track/4oIDPzkzzlZSWo2IKn6YfR) | [Peyote](https://open.spotify.com/artist/2jlDdJ58pw1y20cCSrmbPF) | [Ciclos](https://open.spotify.com/album/3XL3e4KxuMu0ty0nj8HW2F) | 3:57 | 2025-11-11 | 2025-12-12 |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-15 | 2026-02-04 |
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-11-04 | 2025-12-12 |
@@ -134,6 +138,7 @@
 | [Eres Lo Que Quiero](https://open.spotify.com/track/21SgAoUFH0EacYN57lW7mo) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 3:12 | 2026-01-07 | 2026-02-02 |
 | [Estrellas](https://open.spotify.com/track/1u6yb30nxGeF32KRImj1Hz) | [EnRockecidos](https://open.spotify.com/artist/6j4BNmLmFMCkyszhxBDdnr) | [Lo que cuentan las aceras](https://open.spotify.com/album/2iJvyNUu7kiIpLz8WxmFaX) | 3:29 | 2026-01-11 | 2026-02-04 |
 | [Estupideces](https://open.spotify.com/track/5dzpZRtR52Pqxeg5PZtfpI) | [Croupiers](https://open.spotify.com/artist/3R0Fcr1lCsQy3W18te2HcB) | [Si Vieras Lo Rápido Que Pierdo La Elegancia](https://open.spotify.com/album/0aRngY5uGhtLEP9D4BwGAL) | 3:36 | 2026-02-07 | 2026-03-04 |
+| [Every 1’s a Winner](https://open.spotify.com/track/2E7HHBw2ZYZIbo8E5uzn9P) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [Every 1’s a Winner](https://open.spotify.com/album/6V2mbkh0DXgupUg1wGHbmG) | 3:16 | 2026-04-16 |  |
 | [FAKE](https://open.spotify.com/track/2ee980L0EX5tDefxf5kumE) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET](https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq) | 2:58 | 2026-02-14 |  |
 | [Farewell](https://open.spotify.com/track/27tcaTzyrakD3Upv0kNKhU) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 6:05 | 2026-04-06 |  |
 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 | 2025-12-13 | 2026-01-05 |
@@ -259,6 +264,7 @@
 | [No puedes saber](https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3) | [Decode](https://open.spotify.com/artist/4LveHUW9mrBnEh7xARbo3r) | [No puedes saber](https://open.spotify.com/album/2V9ECtvzI8NCv4fWOEEWWf) | 4:57 | 2026-03-05 |  |
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-11-13 | 2025-12-12 |
 | [No Sympathy](https://open.spotify.com/track/26gB1uyvQVxwFDNOs68Tfw) | [Tia Rose](https://open.spotify.com/artist/1gGadeENa0utvSOoPSlLSc) | [No Sympathy](https://open.spotify.com/album/32faOwJCBADaLbFoPtrcbx) | 3:27 | 2025-12-11 | 2026-01-05 |
+| [No Thanks](https://open.spotify.com/track/2anuBT1LsOHNxz5H9qXXkN) | [Fat Fungus](https://open.spotify.com/artist/5JvuLxzIE57fVdo7U29d2D) | [No Thanks](https://open.spotify.com/album/0652xN2MATBffKJ2tapEky) | 4:35 | 2026-04-16 |  |
 | [Noir](https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD) | [Summoners](https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn) | [Noir](https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2) | 3:21 | 2026-03-21 |  |
 | [Notopia](https://open.spotify.com/track/2cuabAoFvJj2yx1xDhjxee) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 3:55 | 2025-10-27 | 2025-11-22 |
 | [Nuestro Camino](https://open.spotify.com/track/0UpD8nhlWeDDmGIsbhEYVj) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [Nuestro Camino](https://open.spotify.com/album/0YkzKQaESw6nPRyOHTfZWy) | 4:44 | 2025-11-04 | 2025-12-12 |

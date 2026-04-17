@@ -161,6 +161,28 @@
     },
     {
       "album": {
+        "name": "CTRL ESCAPE",
+        "url": "https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198964,
+      "name": "CYANIDE",
+      "url": "https://open.spotify.com/track/6f1mEDrve2XTLByOsIP8AT"
+    },
+    {
+      "album": {
         "name": "CEREBRUM",
         "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
       },
@@ -194,6 +216,28 @@
       "duration_ms": 211010,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6P6RvzP7XmTIfiGrxT7nvb"
+    },
+    {
+      "album": {
+        "name": "CTRL ESCAPE",
+        "url": "https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187617,
+      "name": "DON'T BELIEVE IT",
+      "url": "https://open.spotify.com/track/5TbTOkgK8UAjtjIuIVPAjE"
     },
     {
       "album": {

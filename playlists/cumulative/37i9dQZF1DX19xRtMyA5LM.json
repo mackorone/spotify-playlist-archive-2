@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste tracks in WS\u2757\ufe0fCover: Lusho",
+  "description": "De beste tracks in WS\u2757\ufe0fCover: D-Double",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -422,7 +422,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 227727,
       "name": "Alcantara",
       "url": "https://open.spotify.com/track/6PBgiQ0JVfHBBidyIBQHMe"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 149825,
       "name": "AMBIANCE",
       "url": "https://open.spotify.com/track/7twLk6frSaHq0184G0nwi1"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 207407,
       "name": "AMG Met Matje",
       "url": "https://open.spotify.com/track/5ggvkkbCuV1rh01Ey8KoUY"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 139354,
       "name": "Brrrr \ud83e\udd76\ud83c\udde8\ud83c\udde6",
       "url": "https://open.spotify.com/track/5Zyaa1GakQxEVdnZ8bF2kQ"
@@ -2044,10 +2044,28 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 184812,
       "name": "Eenzaam",
       "url": "https://open.spotify.com/track/2dg10oKMTxkzABwSythyvK"
+    },
+    {
+      "album": {
+        "name": "Eenzaam",
+        "url": "https://open.spotify.com/album/1vUU3kqZAjhcbN3e2jvIUI"
+      },
+      "artists": [
+        {
+          "name": "Mesy",
+          "url": "https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152368,
+      "name": "Eenzaam",
+      "url": "https://open.spotify.com/track/6J5WlSjIOIQxHUro6UgkRX"
     },
     {
       "album": {
@@ -2066,6 +2084,24 @@
       "duration_ms": 139591,
       "name": "Eerste Klus",
       "url": "https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E"
+    },
+    {
+      "album": {
+        "name": "Emotional Damage",
+        "url": "https://open.spotify.com/album/7g9ZnM61b2rc5qDfkVGoA9"
+      },
+      "artists": [
+        {
+          "name": "D-Double",
+          "url": "https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237428,
+      "name": "Emotional Damage",
+      "url": "https://open.spotify.com/track/35BD5rWTlSWfH2Z9W5UVSc"
     },
     {
       "album": {
@@ -6303,6 +6339,24 @@
     },
     {
       "album": {
+        "name": "Rennen op Nikes",
+        "url": "https://open.spotify.com/album/2VGz9VEVizwT9DkIoXRBf1"
+      },
+      "artists": [
+        {
+          "name": "Jordymone9",
+          "url": "https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167187,
+      "name": "Rennen op Nikes",
+      "url": "https://open.spotify.com/track/5YbVM3iiKMkTEEjNceOz8I"
+    },
+    {
+      "album": {
         "name": "Rijcke Rapper",
         "url": "https://open.spotify.com/album/1kUmiyYTg9PLnsx62UzecU"
       },
@@ -6736,7 +6790,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 154310,
       "name": "Shoulder Lean",
       "url": "https://open.spotify.com/track/3FMy6QQ9L7DIKRwXeXvzpP"
@@ -6863,6 +6917,28 @@
     },
     {
       "album": {
+        "name": "Special1One",
+        "url": "https://open.spotify.com/album/0xUWVLjErmZqbi6UjulyRn"
+      },
+      "artists": [
+        {
+          "name": "Bastosz",
+          "url": "https://open.spotify.com/artist/6CtxmUMNLxhOEPh1S1mY4g"
+        },
+        {
+          "name": "Solid Circle",
+          "url": "https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Special1One",
+      "url": "https://open.spotify.com/track/7m1hs3T73oPQ05CfhsOHv3"
+    },
+    {
+      "album": {
         "name": "Springplank 2 (Deluxe)",
         "url": "https://open.spotify.com/album/2H3WpgJ9cxgjMcVSwAJTlL"
       },
@@ -6890,6 +6966,24 @@
       "duration_ms": 144000,
       "name": "Speld",
       "url": "https://open.spotify.com/track/1RlQQ7IhyKqSih2cWopppl"
+    },
+    {
+      "album": {
+        "name": "SPLATJAS",
+        "url": "https://open.spotify.com/album/7I9XTYh1MLVAP6JMvTcSHy"
+      },
+      "artists": [
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164445,
+      "name": "SPLATJAS",
+      "url": "https://open.spotify.com/track/3IK5UwjQiu6F6lFYMR9qWY"
     },
     {
       "album": {
@@ -7206,6 +7300,24 @@
       "duration_ms": 134482,
       "name": "Ten Hag",
       "url": "https://open.spotify.com/track/0DhFudPWfqlTA4olwQBaHs"
+    },
+    {
+      "album": {
+        "name": "The Biggest",
+        "url": "https://open.spotify.com/album/1p5gs3ri4razIUXp9ysuos"
+      },
+      "artists": [
+        {
+          "name": "Geechi",
+          "url": "https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105806,
+      "name": "The Biggest",
+      "url": "https://open.spotify.com/track/064X2YCbMsFVEG2NO8c0ME"
     },
     {
       "album": {

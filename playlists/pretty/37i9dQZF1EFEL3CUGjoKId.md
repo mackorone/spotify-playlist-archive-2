@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrGNtrGiJfVh8TSrPHSiE">Christine McVie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531 likes - 87 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 532 likes - 87 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Chain \- 2001 Remaster](https://open.spotify.com/track/2MRjYBbIbH1VTToIrO1mdi) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/04bZvSsD7bbuKyeEdMABLF) | 4:29 |
-| 2 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 |
-| 3 | [Little Lies \- 2017 Remaster](https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:41 |
+| 2 | [Everywhere](https://open.spotify.com/track/38iKuyifRL4mQ36F2hIxmF) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango in the Night](https://open.spotify.com/album/2kRyLrP2uR7fuQRmofhxlF) | 3:47 |
+| 3 | [Little Lies](https://open.spotify.com/track/6EMKNpgXkzanwRbUgTZKed) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango in the Night](https://open.spotify.com/album/2kRyLrP2uR7fuQRmofhxlF) | 3:41 |
 | 4 | [Don't Stop \- 2001 Remaster](https://open.spotify.com/track/0E916WgoG1dEwIiIMkfHm1) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/04bZvSsD7bbuKyeEdMABLF) | 3:13 |
 | 5 | [Never Going Back Again \- 2004 Remaster](https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 2:14 |
 | 6 | [You Make Loving Fun \- 2001 Remaster](https://open.spotify.com/track/1DgjjfcI6VozLVbUdJPAEm) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/04bZvSsD7bbuKyeEdMABLF) | 3:34 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 13 | [World Turning](https://open.spotify.com/track/6QvgyZ8xG2OFGjZsH3s8d3) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:25 |
 | 14 | [Think About Me \- 2015 Remaster](https://open.spotify.com/track/1Q5kDGREVR7mcTjhvuFLm1) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 2:44 |
 | 15 | [Over & Over \- 2015 Remaster](https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 4:34 |
-| 16 | [Isn't It Midnight \- 2017 Remaster](https://open.spotify.com/track/6D8BkkjFumCyE2qi5I7a3D) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 4:13 |
+| 16 | [Isn't It Midnight](https://open.spotify.com/track/6SLQcI4TZ6nnDNBmRMjLdn) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango in the Night](https://open.spotify.com/album/2kRyLrP2uR7fuQRmofhxlF) | 4:13 |
 | 17 | [Only over You \- 2016 Remaster](https://open.spotify.com/track/6zAwSWQywmeEFP11tK7t5W) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:09 |
 | 18 | [Wind Blow](https://open.spotify.com/track/2SO6T1KaYLu4yXP4qf286F) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Strength & Loyalty](https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB) | 4:18 |
 | 19 | [Warm Ways](https://open.spotify.com/track/4SysnIGNcHQlaz9jJVnIxX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:54 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 22 | [I Do](https://open.spotify.com/track/3lKoKxbgDUmpRWyUQUjDvi) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 4:28 |
 | 23 | [Temporary One \- Live at Warner Brothers Studios in Burbank, CA 5/23/97](https://open.spotify.com/track/2TeczJua7d0fQenCUUeyMI) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Dance](https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ) | 4:00 |
 | 24 | [Love in Store \- 2016 Remaster](https://open.spotify.com/track/41tJM6A0L02Rw6JSS5iThp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 3:15 |
-| 25 | [You and I, Pt\. II \- 2017 Remaster](https://open.spotify.com/track/0yaYq5I0HyUcuR4U073Vf2) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 2:39 |
+| 25 | [You and I, Pt\. II](https://open.spotify.com/track/4rByJ2VpPZf91PNViVudls) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango in the Night](https://open.spotify.com/album/2kRyLrP2uR7fuQRmofhxlF) | 2:41 |
 | 26 | [Sugar Daddy](https://open.spotify.com/track/29IWmqmyYyA1LylPAd2fxh) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:10 |
 | 27 | [Brown Eyes \- 2015 Remaster](https://open.spotify.com/track/0dSxQIAUGw75lq0x06ig8J) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 4:27 |
 | 28 | [Honey Hi \- 2015 Remaster](https://open.spotify.com/track/4hitfppPqFmsKsI9GS7IBc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 2:45 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 55 | [Game of Pretend](https://open.spotify.com/track/0eoJlrS9Fd975OR7XfeEek) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO), [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Lindsey Buckingham Christine McVie](https://open.spotify.com/album/0hV5tUdhxoe9ul2YVqco6b) | 4:33 |
 | 56 | [One More Night \- Live at Santa Monica Civic Auditorium, Santa Monica, CA 9/3/80](https://open.spotify.com/track/41vjdhINlFn5FSiougSNkY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Live \(Deluxe Edition\)](https://open.spotify.com/album/4gY6KDbChOnXCp1K4p4z0M) | 3:45 |
 | 57 | [Tell Me You Need Me](https://open.spotify.com/track/1XUx5u3OXpvvfVkoMz7daM) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Crazy About the Blues](https://open.spotify.com/album/0S9mjaLKoH28jETRQnqTAz) | 3:45 |
-| 58 | [Friend](https://open.spotify.com/track/0pwHYR5GGOBxLPyxaecBj5) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 4:30 |
-| 59 | [Get Like You Used to Be \- Live at Capitol Theatre, Passaic, NJ, 10/17/75](https://open.spotify.com/track/0zaqvXwFoLKCPiWc0neuAr) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac \(Deluxe Edition\)](https://open.spotify.com/album/0OQxaj2MqTb9nEtoTPfN4P) | 4:24 |
+| 58 | [Get Like You Used to Be \- Live at Capitol Theatre, Passaic, NJ, 10/17/75](https://open.spotify.com/track/0zaqvXwFoLKCPiWc0neuAr) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac \(Deluxe Edition\)](https://open.spotify.com/album/0OQxaj2MqTb9nEtoTPfN4P) | 4:24 |
+| 59 | [Friend](https://open.spotify.com/track/0pwHYR5GGOBxLPyxaecBj5) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 4:30 |
 | 60 | [Ask Anybody](https://open.spotify.com/track/14Ypfdkytzb8yxww1IN7Ip) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 5:29 |
 | 61 | [Bad Loser](https://open.spotify.com/track/7KwGYQdzjbW7K56J0PYQUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Heroes Are Hard to Find](https://open.spotify.com/album/2ISNpwmh12Nf2420YUQcNE) | 3:25 |
 | 62 | [The Smile I Live For](https://open.spotify.com/track/2GCKVHYgTcdoJNYIGj4O8C) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 5:07 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 86 | [Sweet Revenge](https://open.spotify.com/track/469gfzBdPNs6FfZ9SMEvlw) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:50 |
 | 87 | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/track/5wUSCnSTvyRXUJzpAaorhz) | [GTF](https://open.spotify.com/artist/6qa9mE0Y9cguezXeXWJBQ1) | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/album/1tAkT1wiSxVsR2hgYcirAh) | 3:15 |
 
-Snapshot ID: `AcO9FAAAAABl8ISuXhw4pvmiKvmOnEU8`
+Snapshot ID: `AcPCqgAAAACRK0uc1bkq8fPlSqjWetpR`

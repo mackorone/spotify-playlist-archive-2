@@ -1,13 +1,133 @@
 {
-  "description": "R&B and good vibe tracks for your current mood. Cover: Wesley Joseph & Jorja Smith",
+  "description": "R&B and good vibe tracks for your current mood. Cover: rjtheweirdo",
   "num_followers": 149172,
   "original_name": "mood. ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALaJVSz+PTiy0XHaa4j+zdB6X3dM",
+  "snapshot_id": "AAAAAB+bYzawO4czDaUfc/hziCCTslSB",
   "tracks": [
+    {
+      "added_at": "2026-04-16 18:00:11",
+      "album": {
+        "name": "The Perfect One",
+        "url": "https://open.spotify.com/album/0FMOM9uORDUmqqRbGJqw0u"
+      },
+      "artists": [
+        {
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "The Perfect One",
+      "url": "https://open.spotify.com/track/50sdq6Bggs4uoQY97AiVah"
+    },
+    {
+      "added_at": "2026-04-16 18:00:11",
+      "album": {
+        "name": "Hang It On The Shelf",
+        "url": "https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 145786,
+      "name": "Hang It On The Shelf",
+      "url": "https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK"
+    },
+    {
+      "added_at": "2026-04-16 18:00:11",
+      "album": {
+        "name": "Still Got That Good Love",
+        "url": "https://open.spotify.com/album/4OKesGt7DdZOKtjEAEgqWE"
+      },
+      "artists": [
+        {
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+        },
+        {
+          "name": "King George",
+          "url": "https://open.spotify.com/artist/70OWDCBJlG60nShbP5QwE5"
+        },
+        {
+          "name": "Calvin Richardson",
+          "url": "https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb"
+        },
+        {
+          "name": "Cupid",
+          "url": "https://open.spotify.com/artist/50k5Sq2KiasO0C3Jrs70bu"
+        },
+        {
+          "name": "Roi \"Chip\" Anthony",
+          "url": "https://open.spotify.com/artist/4ESOTgyjEynayRgn3L1u6J"
+        }
+      ],
+      "duration_ms": 223464,
+      "name": "Still Got That Good Love",
+      "url": "https://open.spotify.com/track/7KfCTRTypkitmkqq3Ko6uk"
+    },
+    {
+      "added_at": "2026-04-16 18:00:11",
+      "album": {
+        "name": "BLUEBOY",
+        "url": "https://open.spotify.com/album/2NVOpcr50Ltvk7eOnG9CGi"
+      },
+      "artists": [
+        {
+          "name": "Finn Askew",
+          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
+        }
+      ],
+      "duration_ms": 150069,
+      "name": "Save My Time",
+      "url": "https://open.spotify.com/track/21pwm56tB8PTqEPQbKVllE"
+    },
+    {
+      "added_at": "2026-04-16 18:00:11",
+      "album": {
+        "name": "IRL (Feat. Cory Wong)",
+        "url": "https://open.spotify.com/album/4RBYOBELMu6VowgpJ8OK03"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 211662,
+      "name": "IRL (Feat. Cory Wong)",
+      "url": "https://open.spotify.com/track/4ikBUaKuFx8OFWNUsqfXii"
+    },
+    {
+      "added_at": "2026-04-16 18:00:11",
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/1b7WoJiSs6apwdTDAMk5e0"
+      },
+      "artists": [
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/5VKrQBby547qReBsOcSVgz"
+    },
     {
       "added_at": "2026-04-09 16:00:34",
       "album": {
@@ -1171,22 +1291,6 @@
     {
       "added_at": "2026-04-09 16:00:34",
       "album": {
-        "name": "Foul",
-        "url": "https://open.spotify.com/album/0RrCbYpd3E2UwH3i0K0n8i"
-      },
-      "artists": [
-        {
-          "name": "Pimmie",
-          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
-        }
-      ],
-      "duration_ms": 113305,
-      "name": "Foul",
-      "url": "https://open.spotify.com/track/6lYb8xPgq1lhfoxfx6UJqr"
-    },
-    {
-      "added_at": "2026-04-09 16:00:34",
-      "album": {
         "name": "Call Me / 1Time",
         "url": "https://open.spotify.com/album/4F95EXN5Z238745yfGxEJn"
       },
@@ -1219,22 +1323,6 @@
     {
       "added_at": "2026-04-09 16:00:34",
       "album": {
-        "name": "Maybe...",
-        "url": "https://open.spotify.com/album/6q6meFNQnJyNwiT5PQWZEu"
-      },
-      "artists": [
-        {
-          "name": "Adria Kain",
-          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
-        }
-      ],
-      "duration_ms": 224273,
-      "name": "Maybe...",
-      "url": "https://open.spotify.com/track/279Wu3If7JDlRoor8f3XxJ"
-    },
-    {
-      "added_at": "2026-04-09 16:00:34",
-      "album": {
         "name": "easy love",
         "url": "https://open.spotify.com/album/21URFCnjceyLY17RkZhMZQ"
       },
@@ -1247,22 +1335,6 @@
       "duration_ms": 183125,
       "name": "easy love",
       "url": "https://open.spotify.com/track/41DVmQcacIUuujHOUyZwRQ"
-    },
-    {
-      "added_at": "2026-04-09 16:00:34",
-      "album": {
-        "name": "ROSE PERFUME",
-        "url": "https://open.spotify.com/album/11tkfRERbeefYZXz1nJNoh"
-      },
-      "artists": [
-        {
-          "name": "blam",
-          "url": "https://open.spotify.com/artist/56644p8xhaOuDdZaACcqG4"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "ROSE PERFUME",
-      "url": "https://open.spotify.com/track/2GwQF0IDkaIpgd4piQA4Xh"
     },
     {
       "added_at": "2026-04-09 16:00:34",
@@ -1399,22 +1471,6 @@
     {
       "added_at": "2026-04-09 16:00:34",
       "album": {
-        "name": "Sweater",
-        "url": "https://open.spotify.com/album/6ucXmTxvLp3pJrEiOJcRfW"
-      },
-      "artists": [
-        {
-          "name": "OZO",
-          "url": "https://open.spotify.com/artist/2BlMyti7MTSjjlD51fHHVI"
-        }
-      ],
-      "duration_ms": 234461,
-      "name": "Sweater",
-      "url": "https://open.spotify.com/track/00zym4gip0T3BaJTRYdimU"
-    },
-    {
-      "added_at": "2026-04-09 16:00:34",
-      "album": {
         "name": "Die For Me",
         "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
       },
@@ -1427,26 +1483,6 @@
       "duration_ms": 180147,
       "name": "Die For Me",
       "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
-    },
-    {
-      "added_at": "2026-04-09 16:00:34",
-      "album": {
-        "name": "WHO YOU ARE",
-        "url": "https://open.spotify.com/album/36FU04sICHMM2HqIVFe39n"
-      },
-      "artists": [
-        {
-          "name": "RANJ",
-          "url": "https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H"
-        },
-        {
-          "name": "Clifr",
-          "url": "https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14"
-        }
-      ],
-      "duration_ms": 144395,
-      "name": "WHO YOU ARE",
-      "url": "https://open.spotify.com/track/4e0DNkQOrKm0vuqKWEzi5T"
     },
     {
       "added_at": "2026-04-09 16:00:34",
@@ -1567,26 +1603,6 @@
       "duration_ms": 244591,
       "name": "Sisters With Me",
       "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
-    },
-    {
-      "added_at": "2026-04-09 16:00:34",
-      "album": {
-        "name": "Typical",
-        "url": "https://open.spotify.com/album/0PrdhsKVovAnesjsn6JbgN"
-      },
-      "artists": [
-        {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 176020,
-      "name": "Typical",
-      "url": "https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4"
     },
     {
       "added_at": "2026-04-09 16:00:34",

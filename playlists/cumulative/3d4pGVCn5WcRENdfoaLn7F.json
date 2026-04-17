@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Addressed To Me",
+        "url": "https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227569,
+      "name": "Addressed To Me",
+      "url": "https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe"
+    },
+    {
+      "album": {
         "name": "AudioVisual",
         "url": "https://open.spotify.com/album/0JdcjgsOJ1ybVEmHuFhfBD"
       },
@@ -218,6 +236,24 @@
       "duration_ms": 221460,
       "name": "All I Know",
       "url": "https://open.spotify.com/track/0ZjhuatJiL7b3x9bVRAVRm"
+    },
+    {
+      "album": {
+        "name": "Anfang unsrer Zeit",
+        "url": "https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t"
+      },
+      "artists": [
+        {
+          "name": "Voltwechsel",
+          "url": "https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208733,
+      "name": "Anfang unsrer Zeit",
+      "url": "https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4"
     },
     {
       "album": {
@@ -3487,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3gG2TMhM8GUz3zbufRsYvv"
+      },
+      "artists": [
+        {
+          "name": "By Million Wires",
+          "url": "https://open.spotify.com/artist/4QoLD4kvqh88dZF1VpDMSm"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309500,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0OP5S6UqR2haqJdIR1YY1x"
+    },
+    {
+      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/48n7z6FWoZaReBfUtx9UU6"
       },
@@ -4212,6 +4266,24 @@
       "duration_ms": 314919,
       "name": "Sombra",
       "url": "https://open.spotify.com/track/5BMFCvyN2LsLyiZTk1yFWj"
+    },
+    {
+      "album": {
+        "name": "Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT"
+      },
+      "artists": [
+        {
+          "name": "June 101",
+          "url": "https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264203,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/3FLhwiCJmU4MTCGZP1MzCD"
     },
     {
       "album": {

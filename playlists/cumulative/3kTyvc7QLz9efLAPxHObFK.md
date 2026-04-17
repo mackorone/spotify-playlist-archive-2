@@ -4,7 +4,7 @@
 
 > 
 
-2,988 songs - 6 day 10 hr 29 min
+2,989 songs - 6 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2844,6 +2844,7 @@
 | [We Are \(One Piece\) \- Extended Mix](https://open.spotify.com/track/2x382N3ZxuWwiuMo2U4mJP) | [Suae](https://open.spotify.com/artist/0pTJdgzCj4Wo6RwdOcGinx), [Technikal](https://open.spotify.com/artist/4pHs90ktjf7gtmd2dvx4lf) | [We Are \(One Piece\)](https://open.spotify.com/album/2Y1jo5sD1854Y7FCzPiCjd) | 3:10 | 2023-09-22 |  |
 | [We Are Back \(Harder Force Anthem\)](https://open.spotify.com/track/2cNYQ51sdsfX3nlQxGAnB7) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC), [Invictuz](https://open.spotify.com/artist/2pN6eQ3LBF6BLCC1wxUSpp) | [We Are Back \(Harder Force Anthem\)](https://open.spotify.com/album/1yiLwb8gk6oaMRh8towSNj) | 3:36 | 2022-09-06 |  |
 | [WE ARE FREE](https://open.spotify.com/track/5h1iSn0vuyKgPbqZcmitXI) | [Loner](https://open.spotify.com/artist/3dzQCe5nzyqtcpQCnK7hry) | [WE ARE FREE](https://open.spotify.com/album/3PavRoIx6VZCuDekkH4GMa) | 2:00 | 2025-01-13 |  |
+| [We Are Free \- KVN Remix](https://open.spotify.com/track/5AoiUMrH530BeezG1rgNeo) | [WILDWEST](https://open.spotify.com/artist/2ET4cHHBMdc5NDZPc8tInB), [WADEZ](https://open.spotify.com/artist/2G1HNUrDPyHZQUi2NBSmsY), [WILDWADEZ](https://open.spotify.com/artist/7Gqn5LX7KkU7XJR7NSkQid), [KVN](https://open.spotify.com/artist/5Ui8u3x32EyTRemTHOo9dA) | [We Are Free \(KVN Remix\)](https://open.spotify.com/album/1EpeNu7W1v19Qoarlm2Qsz) | 3:13 | 2026-04-16 |  |
 | [We are Frenchcore](https://open.spotify.com/track/2m2R5CO0YORG5OWchqgjgf) | [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [We are Frenchcore](https://open.spotify.com/album/5RYJtjJ2BCCWg5SwMSbQkz) | 3:24 | 2023-05-13 |  |
 | [We Are Hardcore](https://open.spotify.com/track/4tGobCBbfeyptV2gdwZAAj) | [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E) | [We Are Hardcore](https://open.spotify.com/album/02n4e6DIdZxmwWzvqEzY7n) | 5:12 | 2023-03-24 |  |
 | [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/track/2wVnIK8OHuNAvmvq30EsSt) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Broken Brains](https://open.spotify.com/artist/5pgM0qfyjqqr1lMQCLxtL8), [Mc Braincase](https://open.spotify.com/artist/51itOrfxQckDhcRHOB1Fve) | [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/album/3HeTRsYD6njlshBXB6097j) | 4:01 | 2023-10-06 |  |

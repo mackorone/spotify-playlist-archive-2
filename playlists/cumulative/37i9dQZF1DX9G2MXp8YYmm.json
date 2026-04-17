@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Murat Boz x Melek Mosso",
+  "description": "Pop'un sevilen isimleri. Kapak: Sezen Aksu",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 128804,
       "name": "Ac\u0131yor Kalbim",
       "url": "https://open.spotify.com/track/5at6EvpZwE8neKRrDrk7gI"
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 179399,
       "name": "Bay\u0131l\u0131yorum Sana",
       "url": "https://open.spotify.com/track/3k2xuHNxGDtiuI6rEVd3CT"
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 191327,
       "name": "Beyo\u011flu",
       "url": "https://open.spotify.com/track/2FFXK765vLnL6bRVyMkdLj"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 186336,
       "name": "Bi Gece Gidebilirim",
       "url": "https://open.spotify.com/track/7L52bWVSbEPSwyHF4IeVk8"
@@ -2191,6 +2191,28 @@
     },
     {
       "album": {
+        "name": "Bitmedi Senelerce",
+        "url": "https://open.spotify.com/album/7jq6xAeIeUajeibsIwVHPp"
+      },
+      "artists": [
+        {
+          "name": "O\u011fuzhan Ko\u00e7",
+          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
+        },
+        {
+          "name": "\u00c7a\u011fr\u0131 Telk\u0131v\u0131ran",
+          "url": "https://open.spotify.com/artist/3cG5ZuByuKRhYSqRAhjmQG"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "Bitmedi Senelerce",
+      "url": "https://open.spotify.com/track/6a24UkNP1NRrf2UWfMZT5V"
+    },
+    {
+      "album": {
         "name": "Bitmi\u015f Bir R\u00fcya",
         "url": "https://open.spotify.com/album/0mI8DhOeoZrg44NWlWQihk"
       },
@@ -2528,7 +2550,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 204200,
       "name": "Bundan Gayr\u0131",
       "url": "https://open.spotify.com/track/6UVUuNq21sRH4iAxB0xJf9"
@@ -2922,6 +2944,24 @@
       "duration_ms": 225833,
       "name": "Da\u011f\u0131ld\u0131m Sonunda",
       "url": "https://open.spotify.com/track/6WgtaLyJKnnNtfbATAt4q3"
+    },
+    {
+      "album": {
+        "name": "Da\u011f\u0131l\u0131yorum Olays\u0131z",
+        "url": "https://open.spotify.com/album/7vybR1qBebDpCjugizOX94"
+      },
+      "artists": [
+        {
+          "name": "Mabel Matiz",
+          "url": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Da\u011f\u0131l\u0131yorum Olays\u0131z",
+      "url": "https://open.spotify.com/track/45jA9LOLzxtvChh8zFWS9P"
     },
     {
       "album": {
@@ -4408,6 +4448,28 @@
       "duration_ms": 117446,
       "name": "HA\u0130NS\u0130N",
       "url": "https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh"
+    },
+    {
+      "album": {
+        "name": "Halay",
+        "url": "https://open.spotify.com/album/28x63CEfkGD4ONSdHO3Xiu"
+      },
+      "artists": [
+        {
+          "name": "Murat Yeter",
+          "url": "https://open.spotify.com/artist/0iLfrHLxdwM5Rtd9iyk9xu"
+        },
+        {
+          "name": "Kenan Do\u011fulu",
+          "url": "https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197542,
+      "name": "Halay",
+      "url": "https://open.spotify.com/track/548WGEzCeRItRnJOuSHIbY"
     },
     {
       "album": {
@@ -6154,7 +6216,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 193000,
       "name": "K\u0131\u015f K\u0131\u015f",
       "url": "https://open.spotify.com/track/7dPt6dEmIr788BonzTIVJt"
@@ -6476,6 +6538,24 @@
       "duration_ms": 175000,
       "name": "Mevzu Derin",
       "url": "https://open.spotify.com/track/5VGWEPtPUKqjQwGO1Pyz2r"
+    },
+    {
+      "album": {
+        "name": "Misafir",
+        "url": "https://open.spotify.com/album/4SVsB40go4tAWhiKweWiwP"
+      },
+      "artists": [
+        {
+          "name": "Zeynep Bast\u0131k",
+          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152136,
+      "name": "Misafir",
+      "url": "https://open.spotify.com/track/0S1U1NW1XX8nB6E6HVBxuG"
     },
     {
       "album": {
@@ -7812,7 +7892,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 206458,
       "name": "Seni Bana Katsam",
       "url": "https://open.spotify.com/track/7wU7ynZWkIuMAGPf5aeb7i"
@@ -8857,6 +8937,24 @@
     },
     {
       "album": {
+        "name": "PARDON MUTLULUKLAR",
+        "url": "https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP"
+      },
+      "artists": [
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158779,
+      "name": "UYUYAMADIN D\u0130M\u0130?",
+      "url": "https://open.spotify.com/track/6ldLZlXIkKaaM9Y4bErh07"
+    },
+    {
+      "album": {
         "name": "UZAY",
         "url": "https://open.spotify.com/album/43QEACkUTzXSGkGiSZLJbE"
       },
@@ -9224,6 +9322,24 @@
       "duration_ms": 172346,
       "name": "Yang\u0131n",
       "url": "https://open.spotify.com/track/66n9vXHYJP0mfF2glaTeb3"
+    },
+    {
+      "album": {
+        "name": "Biz de Yeniden Ba\u015flar\u0131z",
+        "url": "https://open.spotify.com/album/5PRI1MtJMkT4AvqfpHO9OS"
+      },
+      "artists": [
+        {
+          "name": "Sezen Aksu",
+          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151720,
+      "name": "Yani",
+      "url": "https://open.spotify.com/track/362o5cXgMAJpPI3JXp3pNE"
     },
     {
       "album": {
@@ -9703,6 +9819,24 @@
     },
     {
       "album": {
+        "name": "Yine Seni Severdim",
+        "url": "https://open.spotify.com/album/4IIr6Fc5broTRT8M0UKk5k"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215213,
+      "name": "Yine Seni Severdim",
+      "url": "https://open.spotify.com/track/2euys2kJ6EgcLSXraEhKE8"
+    },
+    {
+      "album": {
         "name": "Yine \u00d6lmem",
         "url": "https://open.spotify.com/album/0kflPDxezDaMTQ18WonlXA"
       },
@@ -9920,6 +10054,28 @@
       "duration_ms": 180800,
       "name": "Y\u0131k\u0131lana Kadar",
       "url": "https://open.spotify.com/track/3lIVcbwGFHXCxhm3fjAqss"
+    },
+    {
+      "album": {
+        "name": "Y\u0131k\u0131lana Kadar (with \u0130rem Derici)",
+        "url": "https://open.spotify.com/album/4eo1mwSnNEoNhwOzY8odR1"
+      },
+      "artists": [
+        {
+          "name": "\u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        },
+        {
+          "name": "\u0130rem Derici",
+          "url": "https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "Y\u0131k\u0131lana Kadar - with \u0130rem Derici",
+      "url": "https://open.spotify.com/track/7i06FmelUto7k4Y3j4Vc7f"
     },
     {
       "album": {

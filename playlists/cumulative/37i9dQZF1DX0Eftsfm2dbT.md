@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: MIKADO \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,429 songs - 5 day 2 hr 19 min
+2,430 songs - 5 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [2026](https://open.spotify.com/track/7ggN0bAPYL32feiNNTXpm2) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [2026](https://open.spotify.com/album/7Jl2VqvYnGT90JTaklV3Yk) | 2:54 | 2026-01-27 | 2026-02-11 |
 | [2026 \(feat\. MIKADO\)](https://open.spotify.com/track/6XCN7y6e18iADCkwBnN9Wk) | [YDIZZY](https://open.spotify.com/artist/7IhH3sGwKqQCdtYylRSewz), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [II0IIVI](https://open.spotify.com/album/1Y8j7kiZX5LTXr1Q7Zpthd) | 2:31 | 2025-12-09 | 2026-01-28 |
 | [2026 \(feat\. Watson\)](https://open.spotify.com/track/7yFxiIg2aMbzBVdlewvlCD) | [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Crest](https://open.spotify.com/album/3yEnBtEW0WtyoCH0VjRb0C) | 3:57 | 2026-03-26 |  |
+| [2026 freestyle](https://open.spotify.com/track/549qWufvFkKj72zVK440VF) | [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN) | [2026 freestyle](https://open.spotify.com/album/0CDwcPSVqDKxUBcDPNEWot) | 2:09 | 2026-04-17 |  |
 | [21∞](https://open.spotify.com/track/1IqPBPqzCeJIHiH5mCxHdI) | [JUMANJI](https://open.spotify.com/artist/6CoJ0sr10VZCu97NDPcdfQ) | [21∞](https://open.spotify.com/album/72K3gsBWFNQSXjSWdwqw84) | 4:19 | 2026-03-10 | 2026-03-18 |
 | [22](https://open.spotify.com/track/7JP6VzbPQnaRdqtWD4Hsjk) | [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [New Vintage](https://open.spotify.com/album/4c59zUaORT4VV062BXPT8o) | 2:40 | 2024-05-21 | 2024-07-03 |
 | [221 \(feat\. ZORN\)](https://open.spotify.com/track/3IcDdDTTLmCOtgbgWHVg5f) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [ZORN](https://open.spotify.com/artist/1usR8ZFyugMzuO9eDDwMKU) | [221 \(feat\. ZORN\)](https://open.spotify.com/album/3KJ5QvU7qZBKix94O4ncQC) | 3:15 | 2024-10-02 | 2025-02-26 |

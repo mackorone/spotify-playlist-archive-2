@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Cheerio",
+        "url": "https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148815,
+      "name": "Cheerio",
+      "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
+    },
+    {
+      "album": {
         "name": "Could Have Been Us",
         "url": "https://open.spotify.com/album/6MBWWDyw0JTFgbP1E14fr8"
       },
@@ -5288,7 +5306,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 172317,
       "name": "Lichtje Branden",
       "url": "https://open.spotify.com/track/16VFlUdJfBnF2UoMgTJIDI"
@@ -6400,6 +6418,24 @@
       "duration_ms": 200921,
       "name": "oeps",
       "url": "https://open.spotify.com/track/4w7Zhg034GDeMYnpOoZIuu"
+    },
+    {
+      "album": {
+        "name": "AH!",
+        "url": "https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224909,
+      "name": "Of Er Nog Iets Terugkaatst",
+      "url": "https://open.spotify.com/track/6YRTHsPQyM0ga4fdsLy0oO"
     },
     {
       "album": {
@@ -7902,7 +7938,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 199371,
       "name": "TIJDSGEEST",
       "url": "https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z"
@@ -9576,10 +9612,28 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 164275,
       "name": "\u2060Tot Het Eind Van Mij",
       "url": "https://open.spotify.com/track/5MSrJGjtJy0eu2Z0oRXYlP"
+    },
+    {
+      "album": {
+        "name": "\u2060Tot Het Eind Van Mij - Akoestisch",
+        "url": "https://open.spotify.com/album/5kgoAHKiaOk2YsJe6HATxX"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150475,
+      "name": "\u2060Tot Het Eind Van Mij - Akoestisch",
+      "url": "https://open.spotify.com/track/2uA8dEMA61IBCXGz4lA3GD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL"

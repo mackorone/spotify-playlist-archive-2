@@ -3360,7 +3360,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 224311,
       "name": "Al Final del D\u00eda",
       "url": "https://open.spotify.com/track/20x85AyTOIxu5KH5uwFQiZ"
@@ -3382,6 +3382,24 @@
       "duration_ms": 224311,
       "name": "Al Final del D\u00eda",
       "url": "https://open.spotify.com/track/29OfK2Au1LFtDNSKwsAm7i"
+    },
+    {
+      "album": {
+        "name": "Al Final del D\u00eda",
+        "url": "https://open.spotify.com/album/0ZglB5998i7ZLgIjSmCMiK"
+      },
+      "artists": [
+        {
+          "name": "Xolo Music",
+          "url": "https://open.spotify.com/artist/23ZEJoIVfvwkBAe022VUZ6"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224351,
+      "name": "Al Final del D\u00eda",
+      "url": "https://open.spotify.com/track/5H8LciSEYfQELyQlNCVZZi"
     },
     {
       "album": {
@@ -35166,7 +35184,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -55174,10 +55192,28 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 206657,
       "name": "No Me Rompiste, Me Despertaste",
       "url": "https://open.spotify.com/track/1yfhVvyF6pOoLWS5Qr6kVp"
+    },
+    {
+      "album": {
+        "name": "No Me Rompiste, Me Despertaste",
+        "url": "https://open.spotify.com/album/3rENp4lLRLJkdG6CO21QLL"
+      },
+      "artists": [
+        {
+          "name": "Vidal Labadie",
+          "url": "https://open.spotify.com/artist/0KAfjG5Q3nHDkByHw9qSyL"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206657,
+      "name": "No Me Rompiste, Me Despertaste",
+      "url": "https://open.spotify.com/track/7anUaWKP8wYGU0MPZbWVV2"
     },
     {
       "album": {
@@ -78954,7 +78990,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 191578,
       "name": "Tienes - Remix (Prod. by Dj Honda)",
       "url": "https://open.spotify.com/track/7MbqAiyl4FtyGwSLjT3g70"

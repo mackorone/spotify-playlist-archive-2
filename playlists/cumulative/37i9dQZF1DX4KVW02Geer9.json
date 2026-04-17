@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Thundercat",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: N.S. DANCEMBLE",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -2940,7 +2940,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 198553,
       "name": "Fabric Rain",
       "url": "https://open.spotify.com/track/4cwzTtq8ZHKnOlyp4to0dB"
@@ -4490,6 +4490,24 @@
       "duration_ms": 236519,
       "name": "Idea #5",
       "url": "https://open.spotify.com/track/1WQ1DsGnAbVhSzhvVfDITL"
+    },
+    {
+      "album": {
+        "name": "iii",
+        "url": "https://open.spotify.com/album/2lxf14F3bTB8ngyyMXTukD"
+      },
+      "artists": [
+        {
+          "name": "N.S. DANCEMBLE",
+          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275633,
+      "name": "iii",
+      "url": "https://open.spotify.com/track/00HzLDjV2mRnBkBXDef4j2"
     },
     {
       "album": {
@@ -7752,6 +7770,24 @@
       "duration_ms": 324000,
       "name": "Ra",
       "url": "https://open.spotify.com/track/65QqzOBCUjxbAV1fu1XVJv"
+    },
+    {
+      "album": {
+        "name": "Raccoon",
+        "url": "https://open.spotify.com/album/6AU9T8gFA74uVIsGhwIC6Q"
+      },
+      "artists": [
+        {
+          "name": "Fried Banana Shop",
+          "url": "https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Raccoon",
+      "url": "https://open.spotify.com/track/20ZpdLjSxQ7yAupAFQpMM7"
     },
     {
       "album": {

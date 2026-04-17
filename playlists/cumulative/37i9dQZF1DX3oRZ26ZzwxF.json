@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Ameka Zrai",
+  "description": "Le meilleur du rap africain francophone. Photo : Didi B",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -217,6 +217,24 @@
     },
     {
       "album": {
+        "name": "Fl\u00e2 Ni",
+        "url": "https://open.spotify.com/album/338CpWJ2T8WYv1ABjLEp5j"
+      },
+      "artists": [
+        {
+          "name": "Ameka Zrai",
+          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164211,
+      "name": "Adriano",
+      "url": "https://open.spotify.com/track/3BSbM6PrlqWHRL2uci4kAz"
+    },
+    {
+      "album": {
         "name": "Ako",
         "url": "https://open.spotify.com/album/6nANkNEcyIgAY1rOMLsd6N"
       },
@@ -348,6 +366,24 @@
       "duration_ms": 166250,
       "name": "ALL\u00d4-ALL\u00d4",
       "url": "https://open.spotify.com/track/4ZWUV50lCAVznwmKcnNFJQ"
+    },
+    {
+      "album": {
+        "name": "AMADAN",
+        "url": "https://open.spotify.com/album/76fbIrnYRRxc6zjykmBNwV"
+      },
+      "artists": [
+        {
+          "name": "Lamine l\u00f8ssa",
+          "url": "https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194448,
+      "name": "AMADAN",
+      "url": "https://open.spotify.com/track/59SNPmcXGLAMAmnUqQw2ZH"
     },
     {
       "album": {
@@ -622,6 +658,24 @@
       "duration_ms": 179104,
       "name": "BLACK PANTHER",
       "url": "https://open.spotify.com/track/5aJbJK6NlZgUnVvCBbUWtc"
+    },
+    {
+      "album": {
+        "name": "BLOCK",
+        "url": "https://open.spotify.com/album/4YfHQnRvQz4QkAzN8Hqkay"
+      },
+      "artists": [
+        {
+          "name": "Retro.",
+          "url": "https://open.spotify.com/artist/686DFXZx1kH3rMgsac1jUB"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140527,
+      "name": "BLOCK",
+      "url": "https://open.spotify.com/track/4kUsJ1k2xR5FrI3GttIulA"
     },
     {
       "album": {
@@ -1099,6 +1153,46 @@
     },
     {
       "album": {
+        "name": "Chang\u00e9",
+        "url": "https://open.spotify.com/album/6nVQZxPT1UgvT6DrpkfkPa"
+      },
+      "artists": [
+        {
+          "name": "Devone",
+          "url": "https://open.spotify.com/artist/42n26sVrqcTkYhNLFQ4UFF"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131199,
+      "name": "Chang\u00e9",
+      "url": "https://open.spotify.com/track/48Rs1K0mkLfIKh0vDSW0cq"
+    },
+    {
+      "album": {
+        "name": "Chang\u00e9 Num\u00e9ro",
+        "url": "https://open.spotify.com/album/6xxQxl4VSbyue4vuQPgK65"
+      },
+      "artists": [
+        {
+          "name": "Nyerky",
+          "url": "https://open.spotify.com/artist/5U4o1zywerDRWMxteldGoC"
+        },
+        {
+          "name": "Ameka Zrai",
+          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140384,
+      "name": "Chang\u00e9 Num\u00e9ro",
+      "url": "https://open.spotify.com/track/3Wg22N6Gqn6gggoOMnnEGj"
+    },
+    {
+      "album": {
         "name": "Charger",
         "url": "https://open.spotify.com/album/0iskaRfgHt8Y9iR4sym0VR"
       },
@@ -1114,6 +1208,28 @@
       "duration_ms": 192640,
       "name": "Charger",
       "url": "https://open.spotify.com/track/5LoG4nhfVuHeWFvBAePU52"
+    },
+    {
+      "album": {
+        "name": "Cherie Coco",
+        "url": "https://open.spotify.com/album/4viEDlUF8I7Accte5lREK4"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161095,
+      "name": "Cherie Coco",
+      "url": "https://open.spotify.com/track/14OrPWhEwB6glyErCCZ5AK"
     },
     {
       "album": {
@@ -2010,7 +2126,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 168693,
       "name": "En Bri",
       "url": "https://open.spotify.com/track/2hFMzkCv3udvyL9jXj5c82"
@@ -2410,7 +2526,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 149333,
       "name": "GARBA 13K",
       "url": "https://open.spotify.com/track/2MNH7y7Q5MgwX7YyQNU3uN"
@@ -2520,7 +2636,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 153243,
       "name": "Gnanhi",
       "url": "https://open.spotify.com/track/58SldGaCjTH0OgRz4Al8nO"
@@ -2596,7 +2712,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 164170,
       "name": "Golden Boy 2",
       "url": "https://open.spotify.com/track/6HqtDBTRdLKHJJlz3LpQLz"
@@ -2836,7 +2952,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 180000,
       "name": "Je suis plus dans \u00e7a",
       "url": "https://open.spotify.com/track/2GGlu1QKMsISgw3QI5aav9"
@@ -2909,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "KAGEINNOVE!",
+        "url": "https://open.spotify.com/album/5LmDG8gpJvW8yFsZZuwdLu"
+      },
+      "artists": [
+        {
+          "name": "KAGE",
+          "url": "https://open.spotify.com/artist/5oNgpBQyteJdewZ0emcyfb"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189411,
+      "name": "KAGEINNOVE!",
+      "url": "https://open.spotify.com/track/3AAFqi7W4QcpvsX7PrGMRa"
+    },
+    {
+      "album": {
         "name": "KATI-K",
         "url": "https://open.spotify.com/album/572IgrZPGEt7PxkovVXqib"
       },
@@ -2978,7 +3112,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 263160,
       "name": "Kira 5",
       "url": "https://open.spotify.com/track/5kjNtDSk3kBFIQU4ZasFm1"
@@ -3246,6 +3380,24 @@
       "duration_ms": 186028,
       "name": "Les gens",
       "url": "https://open.spotify.com/track/03E63cMopu2W92QcEk2VK1"
+    },
+    {
+      "album": {
+        "name": "LIFESTYLE",
+        "url": "https://open.spotify.com/album/5SOkaStzRLPVDBkcZfeB32"
+      },
+      "artists": [
+        {
+          "name": "ODK.",
+          "url": "https://open.spotify.com/artist/6M7fV1KXrCJmZI36Ooiu2D"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136417,
+      "name": "LIFESTYLE",
+      "url": "https://open.spotify.com/track/2L55aOsMk5DxShP6nXlXXf"
     },
     {
       "album": {
@@ -3886,7 +4038,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 133346,
       "name": "Mouvement",
       "url": "https://open.spotify.com/track/4Wu0AgXXt2wjZAYt9J99my"
@@ -4068,7 +4220,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 70596,
       "name": "No Signal - 01",
       "url": "https://open.spotify.com/track/4YSvFBdJbfqdpu9a6Edpv4"
@@ -4196,6 +4348,24 @@
       "duration_ms": 192040,
       "name": "Nuit \u00e0 nuit (feat. Genezio)",
       "url": "https://open.spotify.com/track/3ZyePpKFYf1rRxqjhKXkhs"
+    },
+    {
+      "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/7cXvYCBhsR0QJckyTGKmqe"
+      },
+      "artists": [
+        {
+          "name": "Le Niapo",
+          "url": "https://open.spotify.com/artist/6usbXA7yWZzwHOmOaKbDoJ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142160,
+      "name": "Number One",
+      "url": "https://open.spotify.com/track/0pzVy9m27gZ9vZ99PmYQXN"
     },
     {
       "album": {
@@ -4527,6 +4697,28 @@
     },
     {
       "album": {
+        "name": "PAS COMME NOUS",
+        "url": "https://open.spotify.com/album/1GIrJZSIQiAgfTC1Psmskk"
+      },
+      "artists": [
+        {
+          "name": "Moba",
+          "url": "https://open.spotify.com/artist/2WXKtQ4KWW3WQpRWPC7nxO"
+        },
+        {
+          "name": "Sins",
+          "url": "https://open.spotify.com/artist/4pgGpt1oWR7yDcKWJqtVSa"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "PAS COMME NOUS",
+      "url": "https://open.spotify.com/track/0QTIYn0tbSyUg9a4JsZEXJ"
+    },
+    {
+      "album": {
         "name": "Pas Toucher (feat. Fanicko)",
         "url": "https://open.spotify.com/album/3bfjBd4B9uYpVg3GCRI8oZ"
       },
@@ -4847,6 +5039,28 @@
     },
     {
       "album": {
+        "name": "Fl\u00e2 Ni",
+        "url": "https://open.spotify.com/album/338CpWJ2T8WYv1ABjLEp5j"
+      },
+      "artists": [
+        {
+          "name": "Ameka Zrai",
+          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
+        },
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132260,
+      "name": "Recommence",
+      "url": "https://open.spotify.com/track/3ELmcYIi0PXmFXrnLeKwIt"
+    },
+    {
+      "album": {
         "name": "Redressement",
         "url": "https://open.spotify.com/album/7do7o9AEZPddbpVJN4mtqZ"
       },
@@ -5008,7 +5222,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 187940,
       "name": "Sant\u00e9",
       "url": "https://open.spotify.com/track/5WGnX9BtRdajMRI9oS75hp"
@@ -5296,7 +5510,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 156744,
       "name": "Tale",
       "url": "https://open.spotify.com/track/1wpyMgXu9YOjHKZ6nDHdH7"
@@ -5560,7 +5774,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 167323,
       "name": "Tranch\u00e9es",
       "url": "https://open.spotify.com/track/1WFV0xsjOvvoXh8J1ygmAr"

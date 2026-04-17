@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 72224,
+  "num_followers": 72238,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2026-03-27 19:13:43",
       "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 178352,
+      "name": "Amor da Minha Vida",
+      "url": "https://open.spotify.com/track/1cbLFYmad56AWDBu6HNIW0"
+    },
+    {
+      "added_at": "2026-03-27 19:13:43",
+      "album": {
         "name": "Os Garotin Session 2",
         "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 249255,
       "name": "Maldade",
       "url": "https://open.spotify.com/track/4a1BLWVTSwGno5lUJS7s0h"
-    },
-    {
-      "added_at": "2026-03-27 19:13:43",
-      "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 178352,
-      "name": "Amor da Minha Vida",
-      "url": "https://open.spotify.com/track/1cbLFYmad56AWDBu6HNIW0"
     },
     {
       "added_at": "2026-03-27 19:13:43",
@@ -335,26 +335,6 @@
     {
       "added_at": "2026-03-27 19:13:43",
       "album": {
-        "name": "Fiquei assim",
-        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 218662,
-      "name": "Fiquei assim",
-      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
-    },
-    {
-      "added_at": "2026-03-27 19:13:43",
-      "album": {
         "name": "Abre Alas",
         "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 311811,
       "name": "Abre Alas",
       "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
+    },
+    {
+      "added_at": "2026-03-27 19:13:43",
+      "album": {
+        "name": "Fiquei assim",
+        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 218662,
+      "name": "Fiquei assim",
+      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
     },
     {
       "added_at": "2026-03-27 19:13:43",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-03-27 19:13:43",
       "album": {
+        "name": "Como \u00e9 bom poder dizer eu te amo",
+        "url": "https://open.spotify.com/album/21295uHlotpc6pU7N7dso1"
+      },
+      "artists": [
+        {
+          "name": "idontcare",
+          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
+        }
+      ],
+      "duration_ms": 143305,
+      "name": "Me Amas",
+      "url": "https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4"
+    },
+    {
+      "added_at": "2026-03-27 19:13:43",
+      "album": {
         "name": "V\u00edcios q eu gosto",
         "url": "https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 184687,
       "name": "Voc\u00ea Merece",
       "url": "https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm"
-    },
-    {
-      "added_at": "2026-03-27 19:13:43",
-      "album": {
-        "name": "Como \u00e9 bom poder dizer eu te amo",
-        "url": "https://open.spotify.com/album/21295uHlotpc6pU7N7dso1"
-      },
-      "artists": [
-        {
-          "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
-        }
-      ],
-      "duration_ms": 143305,
-      "name": "Me Amas",
-      "url": "https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4"
     },
     {
       "added_at": "2026-03-27 19:13:43",

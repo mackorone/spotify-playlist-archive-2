@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 36447,
+  "num_followers": 36451,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAABUMO5vVU9NUqb1hmKxvV+B",
+  "snapshot_id": "ad7VAAAAAAB9a9343RR02DrOUkPByur0",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrebol",
-        "url": "https://open.spotify.com/album/6G6mZ0b2SzKv3391GZYdb0"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 408000,
-      "name": "Arrebol",
-      "url": "https://open.spotify.com/track/4GfyC2qJ8hCsbeNdyPnJAT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trilog\u00eda el Rencuentro",
         "url": "https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 302560,
       "name": "Cholito Pantal\u00f3n Blanco",
       "url": "https://open.spotify.com/track/20SP3B4f0aXF4MVVsFAtty"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arrebol",
+        "url": "https://open.spotify.com/album/6G6mZ0b2SzKv3391GZYdb0"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Arrebol",
+      "url": "https://open.spotify.com/track/4GfyC2qJ8hCsbeNdyPnJAT"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 242200,
-      "name": "Aguamarina",
-      "url": "https://open.spotify.com/track/5cN62o6B0GORay2k1tFsDT"
+      "duration_ms": 257760,
+      "name": "Ni\u00f1a Serrana",
+      "url": "https://open.spotify.com/track/5RuS5afTt26XtXfbnAoyv7"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ventana (Remasterizado 2020)",
-        "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 261746,
-      "name": "Ayer Cache - 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/3CGulbIk6Zsc7h8UDjvRep"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hijos de la Tierra",
         "url": "https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Ventana (Remasterizado 2020)",
+        "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 261746,
+      "name": "Ayer Cache - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/3CGulbIk6Zsc7h8UDjvRep"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si T\u00fa No Est\u00e1s",
         "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
       },
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 257760,
-      "name": "Ni\u00f1a Serrana",
-      "url": "https://open.spotify.com/track/5RuS5afTt26XtXfbnAoyv7"
+      "duration_ms": 242200,
+      "name": "Aguamarina",
+      "url": "https://open.spotify.com/track/5cN62o6B0GORay2k1tFsDT"
     }
   ],
   "unique_name": "This Is Los Jaivas",

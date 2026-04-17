@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Beeztrap KOTM
 
-288 songs - 14 hr 18 min
+290 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Show Working](https://open.spotify.com/track/2mwqFfDi6vQCI5QFUp1g1I) | [st Lennon](https://open.spotify.com/artist/1EwRNWlGnMEf3K515NAPvB) | [Show Working](https://open.spotify.com/album/6EP7oNJfif0bUl2AFxWWSn) | 2:08 | 2024-01-12 | 2024-01-19 |
 | [Sika](https://open.spotify.com/track/5lV4Y37uIq7RkmDhLvIsJr) | [Okyeame Kwame](https://open.spotify.com/artist/03PFnT5fu6TcuZMu1ZBvz4), [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Sika](https://open.spotify.com/album/350x7UlHy9nSUhCAAmMCqL) | 3:25 | 2024-03-01 | 2024-04-05 |
 | [Sika Adeda Me](https://open.spotify.com/track/2enuAHX8IXT5gqcz4hWFZn) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [TRAVIS](https://open.spotify.com/album/4rG7WTMDTAvPMQlcFzTDVz) | 2:42 | 2024-06-07 | 2024-07-12 |
+| [SIKA NE WEE](https://open.spotify.com/track/5qVgYqMKxHhYyze2WKFuFR) | [Kuka Perry](https://open.spotify.com/artist/7wJLyVGdtVnkNKSNnRuZxs), [Droplord](https://open.spotify.com/artist/0MgQjumeakDGMyrpGMdGKt), [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [SIKA NE WEE](https://open.spotify.com/album/3BvSLNDZ9tLa6Ut0CZK7cU) | 2:51 | 2026-04-17 |  |
 | [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 | 2022-11-04 | 2022-11-29 |
 | [Sinner](https://open.spotify.com/track/6miftk872yxPKve9CdKaQO) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Lp2loose](https://open.spotify.com/artist/6PvcxssrQ0QaJVaBWHD07l) | [Sinner](https://open.spotify.com/album/1sODnxd2EWcvRsMkfeBL3z) | 3:52 | 2022-06-09 | 2024-03-29 |
 | [So it Goes](https://open.spotify.com/track/2dZ0GjY40Y2OYzRaiD8yYq) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So it Goes](https://open.spotify.com/album/5NcIQDB0iObPQx5U3K0OoC) | 3:43 | 2025-01-31 |  |
@@ -265,6 +266,7 @@
 | [Toffee](https://open.spotify.com/track/4qncFa5abNWOljfJ6atPcZ) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [TOFFEE](https://open.spotify.com/album/2w0uS5c01bbICce8aD9thW) | 3:25 | 2025-07-18 | 2025-09-19 |
 | [Tonight](https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Tonight](https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz) | 2:19 | 2023-11-17 | 2024-01-19 |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |
+| [Track 2](https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [BEASTMODE VOL1](https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6) | 0:00 | 2026-04-17 |  |
 | [Trapper Man](https://open.spotify.com/track/1J8NL4Us5EZSJw1GwkvRiS) | [Hiphop Africa](https://open.spotify.com/artist/2s1z2VzXmksRd1VNoKhkhY), [Sobolo Geng](https://open.spotify.com/artist/5gKj7cTFiW0Edum0HkGifx) | [Trapper Man](https://open.spotify.com/album/6tTm9ln6qZuquAWFnO4Di3) | 3:07 | 2025-09-26 | 2025-11-05 |
 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 | 2024-05-24 |  |
 | [TSOOBI \(AKONOBA\)](https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [TSOOBI \(AKONOBA\)](https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV) | 3:46 | 2026-01-14 |  |

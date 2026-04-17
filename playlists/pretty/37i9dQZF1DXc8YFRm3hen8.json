@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis diaria de rock \ud83d\udcf8 NTVG",
-  "num_followers": 193677,
+  "num_followers": 193687,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2026-04-10 03:00:29",
       "album": {
-        "name": "Ramma + Cindy Cats - Spotify Sessions",
-        "url": "https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7"
-      },
-      "artists": [
-        {
-          "name": "Ramma",
-          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
-        },
-        {
-          "name": "Cindy Cats",
-          "url": "https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv"
-        }
-      ],
-      "duration_ms": 286035,
-      "name": "Bicho de Ciudad - Spotify Sessions",
-      "url": "https://open.spotify.com/track/1yzL2dFew4VVhjcdbefbHL"
-    },
-    {
-      "added_at": "2026-04-10 03:00:29",
-      "album": {
         "name": "La M\u00e1quina",
         "url": "https://open.spotify.com/album/7jDD7GuuMirFLeNX7ksSjw"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 191906,
       "name": "Los chicos",
       "url": "https://open.spotify.com/track/6UdCeS92BsXBNoITIxVqdi"
+    },
+    {
+      "added_at": "2026-04-10 03:00:29",
+      "album": {
+        "name": "Ramma + Cindy Cats - Spotify Sessions",
+        "url": "https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7"
+      },
+      "artists": [
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        },
+        {
+          "name": "Cindy Cats",
+          "url": "https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv"
+        }
+      ],
+      "duration_ms": 286035,
+      "name": "Bicho de Ciudad - Spotify Sessions",
+      "url": "https://open.spotify.com/track/1yzL2dFew4VVhjcdbefbHL"
     },
     {
       "added_at": "2026-04-10 03:00:29",

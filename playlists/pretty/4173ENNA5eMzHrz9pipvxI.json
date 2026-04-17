@@ -1,13 +1,69 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: AFROJACK, Sia, David Guetta",
-  "num_followers": 118409,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Joshua Robbie &amp; Dolore",
+  "num_followers": 118404,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAg9bz/Ql/rU2yTqIvrLJzwbHJaKrK9",
+  "snapshot_id": "AAAg+dKSDTWRhxnIpGsvBqPMr3G1yxdk",
   "tracks": [
+    {
+      "added_at": "2026-04-16 22:00:02",
+      "album": {
+        "name": "Filhos de Zambi",
+        "url": "https://open.spotify.com/album/2FovD5KYyQQ6aJK9eBlLuX"
+      },
+      "artists": [
+        {
+          "name": "Joshua Robbie",
+          "url": "https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ"
+        },
+        {
+          "name": "Dolore",
+          "url": "https://open.spotify.com/artist/6SvOamW1u9CE5YicXDZrrg"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Filhos de Zambi",
+      "url": "https://open.spotify.com/track/1yFvtXJkaf6TvvQIeydsgQ"
+    },
+    {
+      "added_at": "2026-04-16 22:00:04",
+      "album": {
+        "name": "D\u00e9senchant\u00e9e 3000",
+        "url": "https://open.spotify.com/album/4Av5NxZsaLYPkFTqdJJ4TZ"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 184965,
+      "name": "D\u00e9senchant\u00e9e 3000",
+      "url": "https://open.spotify.com/track/7kKk5e4iAABsp1LM02SBBc"
+    },
+    {
+      "added_at": "2026-04-16 22:00:07",
+      "album": {
+        "name": "forever",
+        "url": "https://open.spotify.com/album/5wVeADP9SjRlqqg2y7BTCS"
+      },
+      "artists": [
+        {
+          "name": "Trance Mums",
+          "url": "https://open.spotify.com/artist/78NwP5P1DANlGdmzjBOi9w"
+        }
+      ],
+      "duration_ms": 145603,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/6KV5Xm6lewOAt8byWtff0F"
+    },
     {
       "added_at": "2026-04-10 08:17:13",
       "album": {

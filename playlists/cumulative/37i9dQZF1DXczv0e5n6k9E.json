@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: DAIMA",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Mente Fuerte",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Kingpin 2",
+        "url": "https://open.spotify.com/album/0WMnNM1kfwzu2fU5FTYc3O"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148654,
+      "name": "An Mia Mera",
+      "url": "https://open.spotify.com/track/4I1x69jDnmCmCeGkPC1HcA"
+    },
+    {
+      "album": {
         "name": "Anadysi",
         "url": "https://open.spotify.com/album/4WMjUCjgNJx3JuumWbkiLI"
       },
@@ -2261,6 +2279,32 @@
     },
     {
       "album": {
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/6SfjX64Bpd4CpfIndf00Hn"
+      },
+      "artists": [
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        },
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        },
+        {
+          "name": "Adams",
+          "url": "https://open.spotify.com/artist/2MmaF1qaC1pL5IJs7HQMuv"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104233,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/3yG5QwVZfesivke0nOWr9R"
+    },
+    {
+      "album": {
         "name": "BORDEL",
         "url": "https://open.spotify.com/album/4jvARw7ybBJmXJcDl2ydco"
       },
@@ -2871,6 +2915,28 @@
     },
     {
       "album": {
+        "name": "CHECKS",
+        "url": "https://open.spotify.com/album/2aJMaDG7wlUkjFpUZvUVcz"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130384,
+      "name": "CHECKS",
+      "url": "https://open.spotify.com/track/3SScDeSOibZKagVI11nTgX"
+    },
+    {
+      "album": {
         "name": "CHOCO FRESH",
         "url": "https://open.spotify.com/album/0KiLceIAWD6fFxbU2c0BNv"
       },
@@ -3022,7 +3088,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 164571,
       "name": "CPR",
       "url": "https://open.spotify.com/track/2nMUwsXvnKJBd1NB073nrp"
@@ -7756,7 +7822,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 129411,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/1US8gNjzFXw1bmUyvcbVdY"
@@ -8512,6 +8578,24 @@
       "duration_ms": 100263,
       "name": "Matomeni Triti (Freestyle)",
       "url": "https://open.spotify.com/track/5eJrtF7LyktIwjWSX4OFze"
+    },
+    {
+      "album": {
+        "name": "Kingpin 2",
+        "url": "https://open.spotify.com/album/0WMnNM1kfwzu2fU5FTYc3O"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177533,
+      "name": "Mavra Timberlands",
+      "url": "https://open.spotify.com/track/4IJXQPNXL0uWheuGGrK3pH"
     },
     {
       "album": {
@@ -9774,7 +9858,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 214736,
       "name": "Ntolia",
       "url": "https://open.spotify.com/track/74VIwjiUa111jjrDesaq5l"
@@ -10720,7 +10804,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 133793,
       "name": "PARADEISOS",
       "url": "https://open.spotify.com/track/28yBTTCraz7txf1rlv5nLk"
@@ -11650,7 +11734,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 256271,
       "name": "Prin Mou Klepsoun Ta Poulia Ta Tragoudia",
       "url": "https://open.spotify.com/track/3kg3QT1BqgDEbTEMXyqNMB"
@@ -12128,7 +12212,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 221142,
       "name": "RAIGEKI",
       "url": "https://open.spotify.com/track/7p7ch2rYxIVEsviZwC3xth"
@@ -13091,6 +13175,24 @@
     },
     {
       "album": {
+        "name": "SIMADIA",
+        "url": "https://open.spotify.com/album/7tlLYENbYURMgBVzUWHy8N"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "SIMADIA",
+      "url": "https://open.spotify.com/track/4lP32IhvWfxaqAyxKkWNPG"
+    },
+    {
+      "album": {
         "name": "SIN PLIN",
         "url": "https://open.spotify.com/album/6WbBTOHSCSD603ym4WfURh"
       },
@@ -13650,7 +13752,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 122637,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/4oT1BiDu0b2P4dDWng62VB"
@@ -15067,6 +15169,28 @@
     },
     {
       "album": {
+        "name": "Vgazeis Cafe",
+        "url": "https://open.spotify.com/album/26fEd8HXmV6h9hZMiYGZbS"
+      },
+      "artists": [
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120959,
+      "name": "Vgazeis Cafe",
+      "url": "https://open.spotify.com/track/4jeAxO6RFFP04pcYgvxabz"
+    },
+    {
+      "album": {
         "name": "VIETNAM",
         "url": "https://open.spotify.com/album/5ncvRWnEGgACHtFyJsnYtI"
       },
@@ -15662,6 +15786,36 @@
       "duration_ms": 144461,
       "name": "YAMAHA",
       "url": "https://open.spotify.com/track/299atntfE9wfFWe85iau4o"
+    },
+    {
+      "album": {
+        "name": "YAMAHA",
+        "url": "https://open.spotify.com/album/1SeDqetoZ9M8F4bDdYvAV9"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Th Mark",
+          "url": "https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "YAMAHA",
+      "url": "https://open.spotify.com/track/5UGJAKKS9r5GJkOEofFLaA"
     },
     {
       "album": {

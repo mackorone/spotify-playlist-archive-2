@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-688 songs - 1 day 19 hr 10 min
+693 songs - 1 day 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Bassline Phenomena](https://open.spotify.com/track/4Bt3hOOoxEzjOM3crYro4O) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Bassline Phenomena](https://open.spotify.com/album/64fSyVklb0r3Xn0EuezI8A) | 4:03 | 2023-01-22 | 2023-02-13 |
 | [Be What You Want](https://open.spotify.com/track/1bcsIhfIuOTSLb7lFzPEwv) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Let's Dance / Be What You Want](https://open.spotify.com/album/7Dt5XJMCSg3hPICh3yjvA5) | 3:13 | 2023-03-31 | 2023-04-17 |
 | [Be with you, na na na na \- Remix Version 2026](https://open.spotify.com/track/63oq59PaooAbu5ucUGbGOz) | [Damasco Dj](https://open.spotify.com/artist/1VZrKUMcbLfxPFxDfTHJFb) | [Be with you, na na na na \(Remix Version 2026\)](https://open.spotify.com/album/5I73qPXycT1LNhDGgc7lA6) | 3:35 | 2026-03-21 |  |
+| [Beach Body Dance](https://open.spotify.com/track/6ZQhIBovTOljm5VVcCnJXc) | [Archi K](https://open.spotify.com/artist/2t0eG7qAMeAL62ZdVzlcRY), [Sax I](https://open.spotify.com/artist/43Qup31qxWPUIwa2XxMVaN) | [Beach Body Dance](https://open.spotify.com/album/2CD2fydg1kxeqPLAJYI9Zi) | 4:21 | 2026-04-16 |  |
 | [Beat](https://open.spotify.com/track/41zbZ3ed6BYG3cGgG0Csk2) | [Jamie G](https://open.spotify.com/artist/6BDpVmQwKZSv0lQL83wN7i) | [Beat](https://open.spotify.com/album/1dQbJzsDTiMZxKwc4Xe7fv) | 3:21 | 2024-02-04 | 2024-03-11 |
 | [Been Dreaming](https://open.spotify.com/track/05aycF0iwg7oncrbAPXlvn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [GD Vandal](https://open.spotify.com/artist/1CWlv9N9hW7ugqHBRy2fqX) | [Been Dreaming](https://open.spotify.com/album/45DVxrONjJSdjVkFtfVeqH) | 2:40 | 2023-04-23 | 2023-05-15 |
 | [Before i Was](https://open.spotify.com/track/29K9LpuQPDwXd3fw8MWLul) | [Valdor Senna](https://open.spotify.com/artist/0k0aYsHeehlO0BPS5m76jH) | [Before i Was](https://open.spotify.com/album/0XMOIKd54REe2P0POsdZGZ) | 5:07 | 2026-04-06 |  |
@@ -154,9 +155,11 @@
 | [Deep Down Low](https://open.spotify.com/track/3Ue9vGsg5XVnEo7P2EdLxX) | [Ell Jordan](https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl) | [Deep Down Low](https://open.spotify.com/album/4IwNXHXcjHJsLLEE3mwESP) | 4:55 | 2024-07-07 |  |
 | [Deep In](https://open.spotify.com/track/5C7RLTV7tbTjStCdn8KrEt) | [Archi K](https://open.spotify.com/artist/2t0eG7qAMeAL62ZdVzlcRY), [Артур Кетов](https://open.spotify.com/artist/5g68HnhWHSrMC15D0qLL16) | [Jazzy\-Hazy](https://open.spotify.com/album/6EuY3dU5mtxrkyBXD4cnHw) | 2:58 | 2026-04-01 |  |
 | [Deep Motion](https://open.spotify.com/track/5UZeFHedkK1oxxf4DLrBNN) | [DJ Esse](https://open.spotify.com/artist/5eXb8rgQwq17mWwmotpgQc) | [No Name](https://open.spotify.com/album/3I4tmZaSuBpGbCVBC8Spoh) | 7:03 | 2026-04-11 |  |
+| [Deep Vibes](https://open.spotify.com/track/6qW6CjECw9itew6ca8LpNM) | [DJ Esse](https://open.spotify.com/artist/5eXb8rgQwq17mWwmotpgQc) | [Flying Disco](https://open.spotify.com/album/2cLAARKxFDcnIlc3YwCYIc) | 5:21 | 2026-04-16 |  |
 | [Deeper](https://open.spotify.com/track/7D6SEmF2v2xlFUct2atTfe) | [OTK](https://open.spotify.com/artist/1RfUpnBiwRzA6LCl4qaJwG) | [Deeper](https://open.spotify.com/album/2HJ5dqnKM6w7yFhgWkrxyu) | 3:17 | 2025-11-28 | 2026-01-03 |
 | [Dentro a due vite](https://open.spotify.com/track/3yZHjRPsC7c8CT5ylbN07E) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Dentro a due vite](https://open.spotify.com/album/7KVJtGXPA1cEyZomd6bB83) | 3:08 | 2026-01-01 | 2026-01-03 |
 | [DESIRE96](https://open.spotify.com/track/1Isw0eYkTeBUP4uuqLNHZt) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DESIRE96](https://open.spotify.com/album/32qjzjfmDJX4lA6yAPR2fb) | 4:13 | 2023-04-16 | 2023-05-01 |
+| [Destination](https://open.spotify.com/track/3DN8uRW2rAayreo7gUX6Al) | [J\-Neo](https://open.spotify.com/artist/5m0jVgouc937PFIKKfFzoA) | [Destination](https://open.spotify.com/album/7wdkbK2k0kTFOo7jRvBGUc) | 7:34 | 2026-04-16 |  |
 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 | 2023-03-05 | 2023-03-27 |
 | [Dimension](https://open.spotify.com/track/4PBW79WVzYojdwSPdzHXjA) | [Survival Mode](https://open.spotify.com/artist/71ZV9O3HAnc2zBk1Pq3LwZ) | [Dimension](https://open.spotify.com/album/1FPIVz5o2Hg39u3Z1f9g2p) | 6:24 | 2024-01-14 | 2024-03-11 |
 | [Disco](https://open.spotify.com/track/0wUkQNAxwQT71RVxuRj4O9) | [Boogie \(ITA\)](https://open.spotify.com/artist/7bNFT0HXm3nrmA7lMcg8e9), [Blacksun](https://open.spotify.com/artist/2NlDG5IMAirmAZiNsdh2Rd) | [Disco](https://open.spotify.com/album/1SCIwn9MEPKf7pJXsihLo6) | 2:46 | 2024-10-13 |  |
@@ -441,6 +444,7 @@
 | [On My Way](https://open.spotify.com/track/0I1p43mg1k4EoCDYYlhXkP) | [The Seadix](https://open.spotify.com/artist/5q5xX0d07ULjV8NKTGXLrB) | [Aplysia](https://open.spotify.com/album/5jK8fD4534sjltztJ8oMe7) | 3:54 | 2026-04-03 |  |
 | [ON YA MARK](https://open.spotify.com/track/70CWkjPF4ETV62o5Hu82SD) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [ON YA MARK](https://open.spotify.com/album/2LTSKqCad4wS9IAWkswsFe) | 6:31 | 2024-04-14 | 2024-07-08 |
 | [One is Loose](https://open.spotify.com/track/5d66qwcjHhhnvPzTRFwk8T) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Afterhours: Cinematic Techno \(Vol\. 1\)](https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa) | 4:29 | 2026-03-22 |  |
+| [One More Time](https://open.spotify.com/track/1nrNFCtwLDacRJugr7yL4q) | [TELN](https://open.spotify.com/artist/2b35txC54k4KbkVnHJMrMH) | [One More Time](https://open.spotify.com/album/5AcHX7laCvbHwyunS88UIc) | 3:52 | 2026-04-16 |  |
 | [Only Love Matters \- Part 1 \- London](https://open.spotify.com/track/6P45k6uEzsbuXlL6t1qEha) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Only Love Matters \(Part 1 \- London\)](https://open.spotify.com/album/0nlGjAwuEminR5Nd1i6Cij) | 2:17 | 2025-12-12 | 2026-01-03 |
 | [Only love matters \- Part 2 \- Tokyo](https://open.spotify.com/track/4TTtutuSdhUSp1VAs60k3U) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Only love matters \(Part 2 \- Tokyo\)](https://open.spotify.com/album/7cVCgIn6MPBDIZoOoNKMVy) | 2:16 | 2025-12-16 | 2026-01-03 |
 | [Only love matters \- Part 3 \- New York](https://open.spotify.com/track/2f0WmuM6pBsiqyU7xfCZcm) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Only love matters \(Part 3 \- New York\)](https://open.spotify.com/album/7xUtGIn5ZYwIGhXfaOCecE) | 2:25 | 2026-01-24 | 2026-02-23 |
@@ -606,6 +610,7 @@
 | [The Movement](https://open.spotify.com/track/7Iv0WsLicswjnu8giaN2Wn) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [The Movement](https://open.spotify.com/album/5XGUdgMXArjFNlckLB5jUC) | 3:04 | 2023-04-30 | 2023-05-23 |
 | [The Mumble](https://open.spotify.com/track/1oQkhEfJrxUxFIMGlUMr9O) | [Groove Aspect](https://open.spotify.com/artist/6y0pzhdHu0IQAmqbbg6dhd) | [The Mumble](https://open.spotify.com/album/63xMbYrGDTZ2GTwG96AZch) | 3:46 | 2023-04-09 | 2023-04-24 |
 | [The Music In My Head](https://open.spotify.com/track/6HkQWhfkemJbus2zzACiUC) | [West Dingo](https://open.spotify.com/artist/6B30jOzfy4u8nu9PrcoOFa) | [The Music In My Head](https://open.spotify.com/album/4iPXKep6t2ZDMvkJGpueRV) | 2:32 | 2026-03-29 |  |
+| [The One \- MG Edit](https://open.spotify.com/track/4RzzDTQM15DeRvDecVvUp5) | [Mic Giuliani](https://open.spotify.com/artist/0LPvQdmSQ0sEUC8QcB8PG6) | [The One \(MG Edit\)](https://open.spotify.com/album/1la2R2UiRASCHrsS88Nj8H) | 3:12 | 2026-04-16 |  |
 | [The Room I Painted Over](https://open.spotify.com/track/4l71PedTVFhblTju2ic9j3) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Afterhours: Cinematic Techno \(Vol\. 1\)](https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa) | 5:31 | 2026-04-04 |  |
 | [The Rose](https://open.spotify.com/track/1uIQ895GDy3q9NlMu14pI7) | [Bruno Costa](https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2) | [Paradise](https://open.spotify.com/album/4UWUFqTM4G2XZCigKozMqY) | 3:32 | 2026-02-18 | 2026-02-23 |
 | [The Skyline Holds](https://open.spotify.com/track/7dCiBMbFyao9V37WhLXpHA) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 5:28 | 2026-03-30 |  |

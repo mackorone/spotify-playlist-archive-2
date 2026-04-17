@@ -1,6 +1,6 @@
 {
   "description": "a dose of high-energy alternative songs for your workout.",
-  "num_followers": 610357,
+  "num_followers": 610336,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 163260,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "No Name",
         "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 191813,
       "name": "That's How I'm Feeling",
       "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 163260,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "All Born Screaming",
-        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 178722,
-      "name": "Big Time Nothing",
-      "url": "https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "DEADBEAT!",
         "url": "https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 146677,
       "name": "SLEEP WHEN I'M DEAD",
       "url": "https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "All Born Screaming",
+        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 178722,
+      "name": "Big Time Nothing",
+      "url": "https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "Detroit",
-        "url": "https://open.spotify.com/album/0Fg9GTE8wRg3bGirHuiduy"
-      },
-      "artists": [
-        {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
-        }
-      ],
-      "duration_ms": 211509,
-      "name": "Detroit",
-      "url": "https://open.spotify.com/track/2NgvsclHyE5KaOVSxJxPTu"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "Man Made of Meat",
         "url": "https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 189947,
       "name": "Man Made of Meat",
       "url": "https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "Detroit",
+        "url": "https://open.spotify.com/album/0Fg9GTE8wRg3bGirHuiduy"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 211509,
+      "name": "Detroit",
+      "url": "https://open.spotify.com/track/2NgvsclHyE5KaOVSxJxPTu"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "Welcome To My House",
-        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 190611,
-      "name": "By The Time You're Reading This",
-      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "GALORE",
         "url": "https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 191666,
       "name": "Fuse",
       "url": "https://open.spotify.com/track/0UYOncanPfTJVemojPksIP"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "Welcome To My House",
+        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 190611,
+      "name": "By The Time You're Reading This",
+      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/4iG8D4tZShUn8DpFvVDQEw"
+      },
+      "artists": [
+        {
+          "name": "Betcha",
+          "url": "https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh"
+        }
+      ],
+      "duration_ms": 173202,
+      "name": "Unaffected",
+      "url": "https://open.spotify.com/track/0ZC23Lr1ZJPeCwUKwIi1ZN"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
         "name": "INSIDE",
         "url": "https://open.spotify.com/album/6s4hR4MJMaEzWCke3o1YP8"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 154025,
       "name": "INSIDE",
       "url": "https://open.spotify.com/track/6CCuNaertE0MJJHRmfjn0T"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
-        "name": "The Matrix",
-        "url": "https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 201722,
-      "name": "The Matrix",
-      "url": "https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG"
     }
   ],
   "unique_name": "Rock Me Up",

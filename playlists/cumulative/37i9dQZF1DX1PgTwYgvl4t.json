@@ -1645,6 +1645,32 @@
     },
     {
       "album": {
+        "name": "EMMANUEL",
+        "url": "https://open.spotify.com/album/4WQBzGzQGdsvEA9qi1BR1c"
+      },
+      "artists": [
+        {
+          "name": "Joshua Adedeji",
+          "url": "https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh"
+        },
+        {
+          "name": "Pst. Philip Olubakin",
+          "url": "https://open.spotify.com/artist/74pp9axkqLkKoCiIMQJkXx"
+        },
+        {
+          "name": "Toju Egharegbemi",
+          "url": "https://open.spotify.com/artist/3RwlTq4ZFTpltOJyuMpk3o"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 808162,
+      "name": "EMMANUEL",
+      "url": "https://open.spotify.com/track/42ZTYHCMSifp9Ie7QA8Rud"
+    },
+    {
+      "album": {
         "name": "I AM WORSHIP",
         "url": "https://open.spotify.com/album/4KeOD3GEkjsXVZjGUkVs4c"
       },
@@ -3024,7 +3050,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 409416,
       "name": "I Am Yours",
       "url": "https://open.spotify.com/track/5mUjdff3OcxmnuCEvA44It"
@@ -3677,6 +3703,28 @@
     },
     {
       "album": {
+        "name": "Jesu O (Live)",
+        "url": "https://open.spotify.com/album/5oISUI4BzFdWp7qwe1UEjB"
+      },
+      "artists": [
+        {
+          "name": "Minstrel John Leke",
+          "url": "https://open.spotify.com/artist/4Y9c0hrqtHikpZFb7lif8o"
+        },
+        {
+          "name": "Shiloh-JewEl Idoko",
+          "url": "https://open.spotify.com/artist/4X05DqwYWzocKj5vpmzfGa"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 676848,
+      "name": "Jesu O (Live)",
+      "url": "https://open.spotify.com/track/4hN0MbGDinXaKHVyHiddwr"
+    },
+    {
+      "album": {
         "name": "Lion of Judah",
         "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
       },
@@ -4105,6 +4153,24 @@
     },
     {
       "album": {
+        "name": "Living Water (Live)",
+        "url": "https://open.spotify.com/album/4WVc8QgPdL4HX9v3ijsBY7"
+      },
+      "artists": [
+        {
+          "name": "LaKendria Ujah",
+          "url": "https://open.spotify.com/artist/6W9EZhC63QLxDCmOYmDYzb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384093,
+      "name": "Living Water - Live",
+      "url": "https://open.spotify.com/track/1qzGNhKEjKDqZuK5IO5gyp"
+    },
+    {
+      "album": {
         "name": "The Spirit of Light",
         "url": "https://open.spotify.com/album/7BqAuNsaQdbaxlwTXl9RLO"
       },
@@ -4178,7 +4244,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 248054,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI"
@@ -4710,6 +4776,28 @@
       "duration_ms": 443978,
       "name": "My Whole Life",
       "url": "https://open.spotify.com/track/1AF0pdTy5CdhxxVxtA3s2H"
+    },
+    {
+      "album": {
+        "name": "My Worship (Live)",
+        "url": "https://open.spotify.com/album/5o1neASuNsbvvVqcI8FkNu"
+      },
+      "artists": [
+        {
+          "name": "Ema Onyx",
+          "url": "https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F"
+        },
+        {
+          "name": "Chucks Kalu",
+          "url": "https://open.spotify.com/artist/4liRgSenYOYvahEsw87et1"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512068,
+      "name": "My Worship - Live",
+      "url": "https://open.spotify.com/track/7ylThPuF8RevLqtzc4FkAJ"
     },
     {
       "album": {
@@ -5380,6 +5468,24 @@
       "duration_ms": 312980,
       "name": "Only You Satisfy",
       "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
+    },
+    {
+      "album": {
+        "name": "Oranmonise",
+        "url": "https://open.spotify.com/album/5rH2z6G9wONmPLzbBNPJsd"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 576341,
+      "name": "Oranmonise",
+      "url": "https://open.spotify.com/track/17rXiC1IuXGJ0FBDrzSMKN"
     },
     {
       "album": {
@@ -7202,7 +7308,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 291692,
       "name": "You Are Holy",
       "url": "https://open.spotify.com/track/3aModrqpU2p6Vrmfzbb48L"
@@ -7260,7 +7366,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 381970,
       "name": "You Are There",
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"

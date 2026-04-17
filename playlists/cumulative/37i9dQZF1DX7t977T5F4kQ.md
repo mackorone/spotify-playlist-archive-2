@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest and recent Ghana party starters\. Cover: Camidoh
+> The hottest and recent Ghana party starters\. Cover: RCEE
 
-631 songs - 1 day 8 hr 23 min
+633 songs - 1 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [License](https://open.spotify.com/track/5ZyPiaFTDOX68KYU5zFMqz) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [License](https://open.spotify.com/album/31TyYecWH5bkMTLkyWKYPU) | 2:30 | 2023-03-24 | 2023-04-21 |
 | [Lifestyle](https://open.spotify.com/track/6nKwEtcFYQNrPojlZZLZl0) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Lifestyle \(with KOJO BLAK & AlorG\)](https://open.spotify.com/album/165q8Io9bp8qwgbYuORy8j) | 3:00 | 2025-01-31 | 2025-09-19 |
 | [Like Electricity](https://open.spotify.com/track/1rcAOj1TyavWMnfMGwRbMX) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Like Electricity](https://open.spotify.com/album/58vZNlvKOQDhsAgkwSYVvq) | 3:02 | 2023-05-12 | 2023-05-27 |
-| [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW) | 2:44 | 2023-07-28 |  |
+| [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW) | 2:44 | 2023-07-28 | 2026-04-17 |
 | [LIL BOOTYS MATTER \(feat\. DarkoVibes\)](https://open.spotify.com/track/6DnE5HdK5h3JSs4HEKcgOb) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [LIL BOOTYS MATTER \(feat\. DarkoVibes\)](https://open.spotify.com/album/11pZv6AjCzYtGNjQzr5bZ0) | 2:48 | 2023-02-03 | 2023-02-10 |
 | [Limit](https://open.spotify.com/track/2IMHlTEhKOKDm33U6fD7yB) | [The Continent\. Live](https://open.spotify.com/artist/3kLjyGr4QxbGCZisf1qfvc), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Dove Nicol](https://open.spotify.com/artist/4EivwNwx6JdqaTRF9yT89Q) | [The Continent Live: First Class Vol\. 1](https://open.spotify.com/album/04XOyfHHNmpBJNmS3p3TrD) | 2:45 | 2024-03-15 | 2024-06-01 |
 | [LIQUOR](https://open.spotify.com/track/5O1XtrzDEnzuCCVCub26fb) | [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [LIQUOR](https://open.spotify.com/album/6MahyLFpyrepCcvRDc4g1Q) | 2:28 | 2024-11-15 | 2024-12-20 |
@@ -354,8 +354,9 @@
 | [Million Style](https://open.spotify.com/track/1aShenubI5JKdlv1S4Sm7s) | [KillBeatz](https://open.spotify.com/artist/2GhMAu306y5q68iXy64Puy), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Killa Riddim](https://open.spotify.com/album/5POFszPRMh67b1cImkzLnA) | 3:28 | 2024-03-22 | 2024-09-07 |
 | [Miss You](https://open.spotify.com/track/0h7AuxckvEgyoaBzXZuYyB) | [Reefer Tym](https://open.spotify.com/artist/3HmAVmxYJSA0yC4fMhYE27) | [Miss You](https://open.spotify.com/album/3UsYwByBCsosmzI5ZMzqOL) | 2:36 | 2023-07-28 | 2023-08-02 |
 | [Miss Yu](https://open.spotify.com/track/0jvNABBGWF3vQH1PhJ5hJz) | [Joshua Moszi](https://open.spotify.com/artist/4VXF3uE8fAjVHyffIYO8yA), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Badu](https://open.spotify.com/album/3FbAWIKQQ5bOVXnwJDTtpa) | 2:37 | 2024-10-12 | 2024-10-26 |
-| [Mon Bebe](https://open.spotify.com/track/1Df7BbqPdArbvnrllykcGq) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Mon Bebe](https://open.spotify.com/album/6d1FnGrErpamMnPW9GWpgf) | 2:01 | 2026-02-20 |  |
+| [Mon Bebe](https://open.spotify.com/track/1Df7BbqPdArbvnrllykcGq) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Mon Bebe](https://open.spotify.com/album/6d1FnGrErpamMnPW9GWpgf) | 2:01 | 2026-02-20 | 2026-04-17 |
 | [Mon Bebe](https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 2:31 | 2022-11-04 | 2024-03-15 |
+| [Money Makes The World Go Round \(MMTWGR\)](https://open.spotify.com/track/6Z4XuIm4CoQM7r4cMH9n6l) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Young Daddy](https://open.spotify.com/album/6mQzGchJ3p5yKAsugrc5Gm) | 2:27 | 2026-04-17 |  |
 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 | 2023-11-08 | 2025-03-08 |
 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 | 2022-11-04 | 2024-02-09 |
 | [More Money](https://open.spotify.com/track/2hF2Rv9c4tZXtTy1J1proB) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [More Money](https://open.spotify.com/album/79L4DbQvEt6P5m36ei2eJc) | 3:03 | 2024-06-07 | 2025-04-12 |
@@ -387,6 +388,7 @@
 | [No Money](https://open.spotify.com/track/2wS10dgPSZ3EmQdYCbwSsy) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [OmoAkin](https://open.spotify.com/artist/1JNn0khn6hvlOZacF7VVUh) | [Global Party](https://open.spotify.com/album/1NJRIStQQb5jBuoQVdcJ6y) | 2:57 | 2023-03-24 | 2023-03-31 |
 | [No More](https://open.spotify.com/track/7eClgSPyjnbANZYbogtZNE) | [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [No More Tears](https://open.spotify.com/album/6A62r1F4Sn29IBUI9zHjM7) | 2:40 | 2023-11-03 | 2024-07-06 |
 | [No One](https://open.spotify.com/track/12mDXHABGzTSBPoLB0A6Wm) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [The Godson](https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi) | 4:02 | 2024-11-29 | 2025-04-01 |
+| [No\. 1 Fan](https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d) | 1:57 | 2026-04-17 |  |
 | [Nobody](https://open.spotify.com/track/0wNnw5wgzLUBo8unHciXpD) | [Deri](https://open.spotify.com/artist/4cjiX7KQiC1QrmjD0kJWKR), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Without A Map](https://open.spotify.com/album/16kGxp8kthCYyV5PbnYHe1) | 2:50 | 2023-09-14 | 2023-10-13 |
 | [Nobody](https://open.spotify.com/track/70FKWQNSTDcmcXNQYemy0P) | [Kurl Songx](https://open.spotify.com/artist/0VukMQoTyIAqKl0qUEw9Cv) | [Nobody](https://open.spotify.com/album/0ykFfjy3oJJpaJXGC3pzHu) | 3:06 | 2023-04-20 | 2023-04-28 |
 | [Noko Fio \(Money Dey Talk\)](https://open.spotify.com/track/5pEDejb1qHo9t4Cmgay9hI) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Noko Fio \(Money Dey Talk\)](https://open.spotify.com/album/0RlxxDmlWe7uqNuHfRqLiJ) | 3:35 | 2026-01-30 | 2026-03-17 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 31705,
+  "num_followers": 31709,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAADjP+obIq+0ETJRLoGSjxCN",
+  "snapshot_id": "ad7VAAAAAABiY6HJ7+aiJK2gfbsJ4tku",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "La Plancha",
+      "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Abr\u00e1zame Y B\u00e9same (En Vivo)",
         "url": "https://open.spotify.com/album/5P7Xa033hHs5AOZcF0EYAs"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 218886,
       "name": "Abr\u00e1zame Y B\u00e9same - En Vivo",
       "url": "https://open.spotify.com/track/0P3Vp1LUe0Ryq5JkoF9ICf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "La Plancha",
-      "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Cuando Me Dejes De Amar",
-      "url": "https://open.spotify.com/track/0vT4nUou6ofzflZOZGhZmX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 135266,
       "name": "Mujer Maravilla",
       "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Cuando Me Dejes De Amar",
+      "url": "https://open.spotify.com/track/0vT4nUou6ofzflZOZGhZmX"
     },
     {
       "added_at": null,

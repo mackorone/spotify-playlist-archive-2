@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:3f5VCwd57gZsqMad28jyLV">Maria Bethânia</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,737 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,747 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 36 | [Ter Filhos Fortes](https://open.spotify.com/track/53EdazlS9uRL1MTT4fsnA1) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [Ter Filhos Fortes](https://open.spotify.com/album/2yExdcx2kjImSo2CrxezZc) | 4:19 |
 | 37 | [Beatriz](https://open.spotify.com/track/72pMw0S2aWQmQoNGAtlyal) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Noites de Gala, Samba Na Rua](https://open.spotify.com/album/7nOAvR01AU3cbIMGTlMI5v) | 4:56 |
 | 38 | [Doce Presença](https://open.spotify.com/track/4izEvMiE7VGx7TEvbsLJ06) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn), [Cesar Camargo Mariano](https://open.spotify.com/artist/43B6M32q64TmvCjO9WAhWd) | [Voz E Suor](https://open.spotify.com/album/5kFLiVWINVn7Q5N6GVdmDI) | 4:03 |
-| 39 | [Lá Vem Você](https://open.spotify.com/track/3zzcfYi62uc81Vkoc89kbD) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Lá Vem Você](https://open.spotify.com/album/0dSPkm4Rd4YwrMt8f75yiv) | 2:25 |
-| 40 | [Gerando na Alta](https://open.spotify.com/track/2VkyGDJt5GufPlriJfDkNJ) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Gerando na Alta](https://open.spotify.com/album/4BSFDWZXGcfjqteEakRbvb) | 4:08 |
+| 39 | [Gerando na Alta](https://open.spotify.com/track/2VkyGDJt5GufPlriJfDkNJ) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Gerando na Alta](https://open.spotify.com/album/4BSFDWZXGcfjqteEakRbvb) | 4:08 |
+| 40 | [Lá Vem Você](https://open.spotify.com/track/3zzcfYi62uc81Vkoc89kbD) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Lá Vem Você](https://open.spotify.com/album/0dSPkm4Rd4YwrMt8f75yiv) | 2:25 |
 | 41 | [Voltei](https://open.spotify.com/track/6mPPoDXnKWGTXz5e7VI0s7) | [Alulu Paranhos](https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW) | [Põe Esperança Nisso](https://open.spotify.com/album/6CC7VWHHDS4sPvo9f60zNA) | 2:09 |
-| 42 | [Besta](https://open.spotify.com/track/1OsiHpk6nTYGHMPRhwfAud) | [Bruna Alimonda](https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng) | [Besta](https://open.spotify.com/album/4AJK2ki88LpMNnUcTJoIEK) | 3:01 |
-| 43 | [Louca Me Chamam \(Crazy He Call's Me\)](https://open.spotify.com/track/1PRgQsAd2MJaCKuD3bUhUz) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Caras E Bocas](https://open.spotify.com/album/73gyxoh7akWRRrv78uJC1o) | 3:29 |
+| 42 | [Louca Me Chamam \(Crazy He Call's Me\)](https://open.spotify.com/track/1PRgQsAd2MJaCKuD3bUhUz) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Caras E Bocas](https://open.spotify.com/album/73gyxoh7akWRRrv78uJC1o) | 3:29 |
+| 43 | [Besta](https://open.spotify.com/track/1OsiHpk6nTYGHMPRhwfAud) | [Bruna Alimonda](https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng) | [Besta](https://open.spotify.com/album/4AJK2ki88LpMNnUcTJoIEK) | 3:01 |
 | 44 | [Na Linha Do Mar](https://open.spotify.com/track/3z230YvqImYt9p39Vc7Mkp) | [Clementina De Jesus](https://open.spotify.com/artist/0tWtrXx0eO52k40JMojM0j) | [Marinheiro So](https://open.spotify.com/album/5KLXL6l0NXxoqmVTvzaFyU) | 3:17 |
 | 45 | [Trocando Em Miúdos](https://open.spotify.com/track/2AMts0GdmjrYkEGDmYOql9) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Com Açúcar Com Afeto](https://open.spotify.com/album/0zUlPiXAZDYDJiirhBr4MR) | 2:16 |
 | 46 | [Jurema do Mar](https://open.spotify.com/track/1MgxzC2nIvg5yn7r4ZUp8U) | [Elisa de Sena](https://open.spotify.com/artist/33l16BPoMAO3bgHH54VLaq), [Luísa de Paula](https://open.spotify.com/artist/3gOX962N98bUrNldMPsb5r) | [Orgânica](https://open.spotify.com/album/1REY8480gnFg0pxEDocOL2) | 3:49 |

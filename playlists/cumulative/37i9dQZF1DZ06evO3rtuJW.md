@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-227 songs - 11 hr 24 min
+228 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Add It Up](https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up](https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7) | 2:49 | 2022-11-11 | 2022-12-08 |
 | [Add It Up \(feat\. G Herbo\)](https://open.spotify.com/track/63CppbO1NyPUpnMHJ5lYDo) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up \(feat\. G Herbo\)](https://open.spotify.com/album/0jhDS6QHDbWLapC8gifh9n) | 2:49 | 2022-12-26 | 2024-04-08 |
 | [Ahhh](https://open.spotify.com/track/1LMsoLko6U1QHS2zHi5B5T) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Stepping In Blood](https://open.spotify.com/album/6NMO2xSNS195esMlTJu3Mk) | 2:50 | 2024-08-07 |  |
+| [Ain't Easy](https://open.spotify.com/track/3dTs6hT4HPJvcZcE6pU2Um) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Chicken Talkin Bastard](https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R) | 3:35 | 2026-04-17 |  |
 | [All On Me \(feat\. G Herbo\)](https://open.spotify.com/track/0pVYhms1xQW1TFsyl1SDmH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [All On Me \(feat\. G Herbo\)](https://open.spotify.com/album/3pxhs8CANAHUxndAVWAjvL) | 3:39 | 2025-10-27 |  |
 | [All On Me \(feat\. G Herbo\)](https://open.spotify.com/track/6j9hMjMCp0II1QX1auUlWX) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:39 | 2026-04-09 | 2026-04-10 |
 | [All That \(with Kodak Black\)](https://open.spotify.com/track/4pE1289TEn8kZ87N08lPOp) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 1:49 | 2022-10-28 | 2023-05-23 |
@@ -174,7 +175,7 @@
 | [Skeme \(feat\. G Herbo\)](https://open.spotify.com/track/6ds1oPJafnw3gDfjjJj1Aq) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [4GOD II](https://open.spotify.com/album/14J4vtLYatcLVFZ3HSW4QK) | 2:19 | 2023-08-01 | 2024-07-15 |
 | [Sleepless Nights](https://open.spotify.com/track/4XR8LZWfJkrXJOS8zaC5DA) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:18 | 2022-10-28 | 2023-01-06 |
 | [Slide \(feat\. G Herbo\)](https://open.spotify.com/track/2A875AE6xfeiBuC28ZYtO3) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Skeletor](https://open.spotify.com/album/3IAgMv1WFncG3ucFS0Jywd) | 6:11 | 2026-04-04 | 2026-04-12 |
-| [Sneaky Link Chicago](https://open.spotify.com/track/1eoBWsU36esCVnmX947nBX) | [HXLLYWOOD](https://open.spotify.com/artist/7xlLJW6mWTYxZVLYkSGPjJ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Sneaky Link Chicago](https://open.spotify.com/album/2lSKyvTSRoWix2gGoqz8Wk) | 2:00 | 2026-01-22 |  |
+| [Sneaky Link Chicago](https://open.spotify.com/track/1eoBWsU36esCVnmX947nBX) | [HXLLYWOOD](https://open.spotify.com/artist/7xlLJW6mWTYxZVLYkSGPjJ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Sneaky Link Chicago](https://open.spotify.com/album/2lSKyvTSRoWix2gGoqz8Wk) | 2:00 | 2026-01-22 | 2026-04-17 |
 | [Splat](https://open.spotify.com/track/6gDEcdPBV7aB5S5KFouT6x) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 2:24 | 2024-09-09 | 2024-12-01 |
 | [Statement](https://open.spotify.com/track/79lRUyyy0iwWRkbFFNJ95S) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Statement](https://open.spotify.com/album/5VAilvKAeXaLbgfQAFIDeQ) | 2:20 | 2022-10-28 | 2024-07-24 |
 | [Still Dangerous](https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 2:33 | 2025-04-16 | 2026-04-04 |

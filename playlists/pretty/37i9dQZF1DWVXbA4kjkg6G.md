@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Atmospheric textures & downtempo beats\. Cover: Beth Gibbons of Portishead
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,094 likes - 75 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,247 likes - 75 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 69 | [Plasmic Head](https://open.spotify.com/track/7lqxSZ3J8ruav0r3J1di3t) | [Freakniks](https://open.spotify.com/artist/1zuLvuDPCTbBxby5ZGBt0I) | [Dope On Plastic 2](https://open.spotify.com/album/5C1crZawgqAk00GnCJdim8) | 5:41 |
 | 70 | [Contemplating Jazz](https://open.spotify.com/track/2IJHB5hnXXXsjPHUnsZlvt) | [Attica Blues](https://open.spotify.com/artist/2pllF0hZ5P7QjtlVoFUYAP) | [The Man From Mo’ Wax \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3s4nn0k0RXhScSDaBXuvEq) | 5:46 |
 | 71 | [Misunderstood \(feat\. Donna Paul\)](https://open.spotify.com/track/78kypI1IufTDhrcbhvtLeS) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8), [Donna Paul](https://open.spotify.com/artist/4wveYkIOgvIRH40xpN51YA) | [Like Weather \(Remastered Edition\)](https://open.spotify.com/album/21t4lny66XPZPuVVPoo1hO) | 3:31 |
-| 72 | [Terrapin](https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:39 |
-| 73 | [Striplight](https://open.spotify.com/track/0xjkjlSouvIL3gUWoFcDf4) | [A.P.E.](https://open.spotify.com/artist/6RJYzry9PD4BHsF9MVACC6) | [Dope On Plastic 2](https://open.spotify.com/album/5C1crZawgqAk00GnCJdim8) | 5:37 |
+| 72 | [Striplight](https://open.spotify.com/track/0xjkjlSouvIL3gUWoFcDf4) | [A.P.E.](https://open.spotify.com/artist/6RJYzry9PD4BHsF9MVACC6) | [Dope On Plastic 2](https://open.spotify.com/album/5C1crZawgqAk00GnCJdim8) | 5:37 |
+| 73 | [Terrapin](https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:39 |
 | 74 | [Headz Still Ain't Ready](https://open.spotify.com/track/0mh6tyjSe8UkIKVQszbBaV) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [USSR Repertoire / The Theory Of Verticality](https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv) | 5:55 |
 | 75 | [Midnight In A Perfect World](https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l) | 4:58 |
 

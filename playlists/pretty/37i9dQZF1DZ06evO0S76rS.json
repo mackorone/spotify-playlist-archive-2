@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 163585,
+  "num_followers": 163614,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAAAbZhlTY+mnANCEeQ2mzBH1",
+  "snapshot_id": "ad7VAAAAAACNbnjU6SRLRrgAbcOPi25f",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "La Canoa Ranchaa",
-      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Alto En El Camino",
         "url": "https://open.spotify.com/album/5K1xoFuq0UnWFVLhYcRCI5"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 290373,
       "name": "Un Alto En El Camino",
       "url": "https://open.spotify.com/track/6DyMFZOsFnCCr6vrbsFE9f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "La Canoa Ranchaa",
+      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tapando el Hueco",
-        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 305506,
-      "name": "Mi Valle del Cauca",
-      "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 287000,
       "name": "Rupelto Mena",
       "url": "https://open.spotify.com/track/26PQMla9TXfmFcclWiQfak"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tapando el Hueco",
+        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 305506,
+      "name": "Mi Valle del Cauca",
+      "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tocando el Cielo Con las Manos",
-        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 250696,
-      "name": "Tocando el Cielo Con las Manos",
-      "url": "https://open.spotify.com/track/6YnkOFLD5ecp9EhxDxKemx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 289341,
       "name": "Falto un Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/5rjEJwL2hp7z7CmxUDPhcl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tocando el Cielo Con las Manos",
+        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 250696,
+      "name": "Tocando el Cielo Con las Manos",
+      "url": "https://open.spotify.com/track/6YnkOFLD5ecp9EhxDxKemx"
     },
     {
       "added_at": null,

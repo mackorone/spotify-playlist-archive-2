@@ -475,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Il Basso",
+        "url": "https://open.spotify.com/album/20hBBhewVZ1DsH5TOTDJGi"
+      },
+      "artists": [
+        {
+          "name": "Donny Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344116,
+      "name": "Bernard's Boogie",
+      "url": "https://open.spotify.com/track/3Itrvnb2MoahGrowaJG9fW"
+    },
+    {
+      "album": {
         "name": "Bernard's Boogie",
         "url": "https://open.spotify.com/album/5RRaRYGMzIKmxSzy4hLoT2"
       },
@@ -2150,7 +2168,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 200414,
       "name": "Give Me All Your Love",
       "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
@@ -4662,7 +4680,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 326240,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
@@ -5202,7 +5220,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 190451,
       "name": "SELFISH",
       "url": "https://open.spotify.com/track/5LiJslg0y8OFUJz5r5YBgV"
@@ -5300,6 +5318,24 @@
       "duration_ms": 374677,
       "name": "Shadow Archetype",
       "url": "https://open.spotify.com/track/5NUphP5OTGZpwIWJlaQscH"
+    },
+    {
+      "album": {
+        "name": "Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5R9YEihXqBgCJQyxr2Edpl"
+      },
+      "artists": [
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226058,
+      "name": "Shadow Of Your Smile",
+      "url": "https://open.spotify.com/track/35KDCFm9Oil4kEXjNR2sfq"
     },
     {
       "album": {
@@ -6842,7 +6878,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 210000,
       "name": "What You Do",
       "url": "https://open.spotify.com/track/6Yc79MqvwiUdekS4Gs83xa"

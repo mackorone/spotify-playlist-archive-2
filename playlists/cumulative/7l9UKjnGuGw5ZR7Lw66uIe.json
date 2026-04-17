@@ -611,6 +611,28 @@
     },
     {
       "album": {
+        "name": "Y\u0131k\u0131lana Kadar (with \u0130rem Derici)",
+        "url": "https://open.spotify.com/album/4eo1mwSnNEoNhwOzY8odR1"
+      },
+      "artists": [
+        {
+          "name": "\u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        },
+        {
+          "name": "\u0130rem Derici",
+          "url": "https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "Y\u0131k\u0131lana Kadar - with \u0130rem Derici",
+      "url": "https://open.spotify.com/track/7i06FmelUto7k4Y3j4Vc7f"
+    },
+    {
+      "album": {
         "name": "zalim",
         "url": "https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv"
       },

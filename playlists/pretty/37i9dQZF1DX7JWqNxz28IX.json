@@ -1,6 +1,6 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47263,
+  "num_followers": 47264,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
@@ -579,8 +579,8 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "BreathingExercise",
-        "url": "https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD"
+        "name": "SittingInTheCar",
+        "url": "https://open.spotify.com/album/38aYfUg9RGVSPThWTn3gxC"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
         }
       ],
-      "duration_ms": 119333,
-      "name": "RepeatInfinite",
-      "url": "https://open.spotify.com/track/4ALZ8gmNvmtOVNkZwK19dC"
+      "duration_ms": 86227,
+      "name": "SittingInTheCar",
+      "url": "https://open.spotify.com/track/1biGLgU3ws2Z9S4iCMLoDx"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -659,8 +659,8 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "SittingInTheCar",
-        "url": "https://open.spotify.com/album/38aYfUg9RGVSPThWTn3gxC"
+        "name": "BreathingExercise",
+        "url": "https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
         }
       ],
-      "duration_ms": 86227,
-      "name": "SittingInTheCar",
-      "url": "https://open.spotify.com/track/1biGLgU3ws2Z9S4iCMLoDx"
+      "duration_ms": 119333,
+      "name": "RepeatInfinite",
+      "url": "https://open.spotify.com/track/4ALZ8gmNvmtOVNkZwK19dC"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/6w0sqUb9pXtssmiDxmd8LK"
-      },
-      "artists": [
-        {
-          "name": "22simba",
-          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
-        }
-      ],
-      "duration_ms": 176033,
-      "name": "Fammi Un Sorriso",
-      "url": "https://open.spotify.com/track/0ADVLH8oGt8Fh2yjiSFV7o"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
         "name": "MALA VITA",
         "url": "https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 257156,
       "name": "IL MONDO FUORi : .. ?",
       "url": "https://open.spotify.com/track/4KhQFg7o7JRJWiI8zQmxIf"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/6w0sqUb9pXtssmiDxmd8LK"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "duration_ms": 176033,
+      "name": "Fammi Un Sorriso",
+      "url": "https://open.spotify.com/track/0ADVLH8oGt8Fh2yjiSFV7o"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
+        "name": "Lacrime di sale",
+        "url": "https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 195683,
+      "name": "Lacrime di sale",
+      "url": "https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
         "name": "FOTORICORDO",
         "url": "https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE"
       },
@@ -1343,38 +1359,6 @@
       "duration_ms": 149671,
       "name": "FOTORICORDO",
       "url": "https://open.spotify.com/track/4CJ53jdJwJLZFHB3LfZpDm"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
-        "name": "La stella pi\u00f9 bella di sempre",
-        "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "La stella pi\u00f9 bella di sempre",
-      "url": "https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
-        "name": "Lacrime di sale",
-        "url": "https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 195683,
-      "name": "Lacrime di sale",
-      "url": "https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1411,22 +1395,18 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "Sedato e Deluso",
-        "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
+        "name": "La stella pi\u00f9 bella di sempre",
+        "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
       },
       "artists": [
         {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Elan Rood",
-          "url": "https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy"
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
         }
       ],
-      "duration_ms": 202744,
-      "name": "Sedato e Deluso",
-      "url": "https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo"
+      "duration_ms": 126000,
+      "name": "La stella pi\u00f9 bella di sempre",
+      "url": "https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1443,6 +1423,26 @@
       "duration_ms": 200153,
       "name": "Semprerosa",
       "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
+        "name": "Sedato e Deluso",
+        "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
+      },
+      "artists": [
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Elan Rood",
+          "url": "https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy"
+        }
+      ],
+      "duration_ms": 202744,
+      "name": "Sedato e Deluso",
+      "url": "https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "Piano e Forte",
-        "url": "https://open.spotify.com/album/2u8d07uzF2uLgwCnxioRv2"
-      },
-      "artists": [
-        {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Gheb",
-          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Piano e Forte",
-      "url": "https://open.spotify.com/track/74NKUib7jQciADIreMyNJZ"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
         "name": "Ceramica",
         "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
       },
@@ -1535,18 +1515,22 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+        "name": "Piano e Forte",
+        "url": "https://open.spotify.com/album/2u8d07uzF2uLgwCnxioRv2"
       },
       "artists": [
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Gheb",
+          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
         }
       ],
-      "duration_ms": 180763,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+      "duration_ms": 158400,
+      "name": "Piano e Forte",
+      "url": "https://open.spotify.com/track/74NKUib7jQciADIreMyNJZ"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 180763,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
         "name": "Devil May Cry",
         "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 148818,
       "name": "Devil May Cry",
       "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
+        "name": "Sotto lo zero",
+        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 180278,
+      "name": "Sotto lo zero",
+      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 151858,
       "name": "pensieri brutti",
       "url": "https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
-        "name": "Sotto lo zero",
-        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 180278,
-      "name": "Sotto lo zero",
-      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
     },
     {
       "added_at": "2026-04-09 22:04:00",

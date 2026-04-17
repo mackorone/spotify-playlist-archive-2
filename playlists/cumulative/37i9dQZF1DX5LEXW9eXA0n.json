@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: AKMU (\uc545\ubba4)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: \uc6b0\ub514 (Woody)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -3185,6 +3185,24 @@
     },
     {
       "album": {
+        "name": "Black Glasses",
+        "url": "https://open.spotify.com/album/29fIiMKUx3NnAMPWHgSEPI"
+      },
+      "artists": [
+        {
+          "name": "Tophyun",
+          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Black Glasses",
+      "url": "https://open.spotify.com/track/7eOcaoeDk9lZBVndn2NQOG"
+    },
+    {
+      "album": {
         "name": "IDOL: The Coup (Original Television Soundtrack, Pt. 2)",
         "url": "https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC"
       },
@@ -5096,7 +5114,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 286000,
       "name": "December 32 days",
       "url": "https://open.spotify.com/track/1fXcEQ3qQkXHmEtyMOoGYa"
@@ -7216,7 +7234,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 258000,
       "name": "Farewell for myself (Veiled Musician X HuhGak with Madu-dong Samdaejang)",
       "url": "https://open.spotify.com/track/2dvq6LBNSBzopoxZHEAb4b"
@@ -23442,6 +23460,24 @@
       "duration_ms": 212000,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/2el8yRLvLFS5sxdcqjhDLS"
+    },
+    {
+      "album": {
+        "name": "Our Cosmos",
+        "url": "https://open.spotify.com/album/2yudf19Ddb0ynglfZtKpD0"
+      },
+      "artists": [
+        {
+          "name": "LEE BYEONGCHAN",
+          "url": "https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227238,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/40ozUffOxCv6Ge5ip6jSN0"
     },
     {
       "album": {

@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 36 | [Twenty One](https://open.spotify.com/track/1NgCWYuBLfqBDA3b8MgSVU) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:04 |
 | 37 | [If You See Her](https://open.spotify.com/track/3coUcc0CDAHz2QwdP7Pee8) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:02 |
 | 38 | [Don't Say](https://open.spotify.com/track/1pJQAHpD51J7GYaFrrFO9S) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:48 |
-| 39 | [High Five](https://open.spotify.com/track/1oIWorI4t6H6Dv2hU5fEH8) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/35sqv4Shi0QN4U779xvwMY) | 2:49 |
-| 40 | [Strings](https://open.spotify.com/track/6eAnWf8yT7GLnUvaT0oyKN) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:10 |
+| 39 | [Strings](https://open.spotify.com/track/6eAnWf8yT7GLnUvaT0oyKN) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:10 |
+| 40 | [High Five](https://open.spotify.com/track/1oIWorI4t6H6Dv2hU5fEH8) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/35sqv4Shi0QN4U779xvwMY) | 2:49 |
 | 41 | [Mirror](https://open.spotify.com/track/46XBrXzTAYXdRMeVxVeA6G) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 2:36 |
 | 42 | [Follow](https://open.spotify.com/track/4xFcQGVBVakReaL0OOJiP6) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Sentio](https://open.spotify.com/album/45gsxfnJ5Nt2RZp82SQenc) | 3:41 |
 | 43 | [Alive](https://open.spotify.com/track/12VqHHz4wvVcnEdSivjLeQ) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:57 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 183 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 | 184 | [Paper Cuts](https://open.spotify.com/track/25oDwHzFC3coKT3jcPAbJC) | [Alec Chambers](https://open.spotify.com/artist/3weLeY2Bu0Eij4k0tQ4EzJ) | [Paper Cuts](https://open.spotify.com/album/6KhZJNPMnHT7ypOhgNAekF) | 2:53 |
 
-Snapshot ID: `AcO9AAAAAAB1/oXVF/0jWxhJTzDcIE1w`
+Snapshot ID: `AcPCoAAAAABHOoLyBHGXcH7eDuQWcAmD`

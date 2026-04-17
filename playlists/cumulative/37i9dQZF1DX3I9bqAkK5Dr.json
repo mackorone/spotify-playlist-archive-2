@@ -201,28 +201,6 @@
     },
     {
       "album": {
-        "name": "Amma",
-        "url": "https://open.spotify.com/album/6aUxYQX5Krg0aWNCTOTTOX"
-      },
-      "artists": [
-        {
-          "name": "Akhil Chandra",
-          "url": "https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        }
-      ],
-      "date_added": "2026-04-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 243571,
-      "name": "Amma",
-      "url": "https://open.spotify.com/track/3aBodknhLkUpac581YamqC"
-    },
-    {
-      "album": {
         "name": "AMMA (Janmaala Runamu Kanipinchava)",
         "url": "https://open.spotify.com/album/3aBG1lIVqPWTUQDphSNQXN"
       },
@@ -1714,6 +1692,28 @@
       "duration_ms": 198532,
       "name": "E Kshanamey",
       "url": "https://open.spotify.com/track/6j5qKkJpWhRN88ltIAWlru"
+    },
+    {
+      "album": {
+        "name": "Edho Varamila",
+        "url": "https://open.spotify.com/album/6aUxYQX5Krg0aWNCTOTTOX"
+      },
+      "artists": [
+        {
+          "name": "Akhil Chandra",
+          "url": "https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243571,
+      "name": "Edho Varamila",
+      "url": "https://open.spotify.com/track/3aBodknhLkUpac581YamqC"
     },
     {
       "album": {

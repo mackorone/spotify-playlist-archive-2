@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: ivri
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,093 likes - 54 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,091 likes - 54 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 26 | [The Devil's Not In Hell](https://open.spotify.com/track/3dKVfdf7d7iB90YfCPBLGw) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [The Devil's Not In Hell](https://open.spotify.com/album/2WZtNmAoengyn0T0fIILek) | 2:58 |
 | 27 | [Dead End](https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Dead End](https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9) | 4:05 |
 | 28 | [People Like Us](https://open.spotify.com/track/4OtVMOooJI6jPn6jvAT9k2) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [People Like Us](https://open.spotify.com/album/5hv79KtUL5zPYmNHaexXoM) | 3:12 |
-| 29 | [cul\-de\-sac](https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1) | [Maya J'an](https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0) | [cul\-de\-sac](https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP) | 3:16 |
-| 30 | [Tell Me It's Over](https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Tell Me It's Over](https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP) | 2:56 |
+| 29 | [Tell Me It's Over](https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Tell Me It's Over](https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP) | 2:56 |
+| 30 | [cul\-de\-sac](https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1) | [Maya J'an](https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0) | [cul\-de\-sac](https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP) | 3:16 |
 | 31 | [THUM](https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [THUM](https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr) | 2:11 |
 | 32 | [Drunk Cigs](https://open.spotify.com/track/6cwCpbUf4SNAl4GxnQnJfL) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Drunk Cigs](https://open.spotify.com/album/1SBpNaoGLqkAPhN88qIXCP) | 3:41 |
 | 33 | [just friends](https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW) | [camille blackman](https://open.spotify.com/artist/5jswcyyCL6uoFlF9TaEtHc) | [just friends](https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8) | 3:28 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 35 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 |
 | 36 | [Church Girl](https://open.spotify.com/track/21cwn0wFC2FIaFShgFjsPT) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Church Girl](https://open.spotify.com/album/0VmjCDUt4jvjulivLagXOf) | 3:19 |
 | 37 | [Ceremony](https://open.spotify.com/track/67gqSywShfhuuYwDbcJ2hG) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [Ceremony](https://open.spotify.com/album/7gcIgsU1vw9E2GwZDMaIcp) | 3:19 |
-| 38 | [Now I Know](https://open.spotify.com/track/7HMn8iu3nnEUTmmQkklQ0c) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Now I Know](https://open.spotify.com/album/4I5Ed6aPOc9hruSfmYjK6a) | 3:31 |
-| 39 | [Hard Pill](https://open.spotify.com/track/1MKBNca9hluUAqgsUV4qMG) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Hard Pill](https://open.spotify.com/album/15PD9rnBxeUhFfA13qkXVO) | 3:19 |
+| 38 | [Hard Pill](https://open.spotify.com/track/1MKBNca9hluUAqgsUV4qMG) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Hard Pill](https://open.spotify.com/album/15PD9rnBxeUhFfA13qkXVO) | 3:19 |
+| 39 | [Now I Know](https://open.spotify.com/track/7HMn8iu3nnEUTmmQkklQ0c) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Now I Know](https://open.spotify.com/album/4I5Ed6aPOc9hruSfmYjK6a) | 3:31 |
 | 40 | [Chronic](https://open.spotify.com/track/5c20yKxwM7vnSCG6LGyJPy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Chronic](https://open.spotify.com/album/0AXvyUq5ZDOWScCAEbr4hT) | 2:36 |
 | 41 | [Woman Of Me](https://open.spotify.com/track/28FXH19Z9ihzOJKiFYyK6e) | [Kyndal](https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx) | [Woman Of Me](https://open.spotify.com/album/5JV3aHNpmimwsh3Woml32k) | 2:52 |
 | 42 | [A Man Written by a Woman](https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk) | [Whitney Whitney](https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R) | [A Man Written by a Woman](https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E) | 2:47 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 46 | [Change The Man](https://open.spotify.com/track/10BWPBIJFx3RPgJfTKS15N) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Change The Man](https://open.spotify.com/album/5rlZ8t1zTFpFPQPOiVUEbO) | 3:31 |
 | 47 | [back 2 u](https://open.spotify.com/track/32hCv3uH5eZrQyiwKUbfUq) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [MUSIC 4 DANCING](https://open.spotify.com/album/4Ktfjs4DfhzMJ1gcK6NS91) | 4:08 |
 | 48 | [Blame it on You](https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Blame it on You](https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq) | 3:05 |
-| 49 | [NOT TODAY](https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [NOT TODAY](https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs) | 3:35 |
-| 50 | [Volcano](https://open.spotify.com/track/3MJA1vEuDATierADDMEJep) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Volcano](https://open.spotify.com/album/4TrWXcgGPCnLlI0MlUharD) | 2:28 |
+| 49 | [Volcano](https://open.spotify.com/track/3MJA1vEuDATierADDMEJep) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Volcano](https://open.spotify.com/album/4TrWXcgGPCnLlI0MlUharD) | 2:28 |
+| 50 | [NOT TODAY](https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [NOT TODAY](https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs) | 3:35 |
 | 51 | [I Still Choose You](https://open.spotify.com/track/6jeIRXvir9UGLDpz1cmpbq) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [I Still Choose You](https://open.spotify.com/album/54W2okGfjHrV9WRA9HDye5) | 4:28 |
 | 52 | [Housewife](https://open.spotify.com/track/1iJF4mX0EnG6Pqfg91Vm7r) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Housewife](https://open.spotify.com/album/6mRkUgC6mCNj20Nhllj6Nb) | 2:39 |
-| 53 | [I'm Crying, Are You?](https://open.spotify.com/track/5Gxcn52HxfnJ5PON6N5OeZ) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I'm Crying, Are You?](https://open.spotify.com/album/3lbMAsFE6E9q2apfBnNWjY) | 3:00 |
-| 54 | [two shots in and sobbing](https://open.spotify.com/track/4MOs5IcNNQNOgVuUIeYEFh) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [two shots in and sobbing](https://open.spotify.com/album/40DR5WekpOOl2wanfQdUB7) | 3:44 |
+| 53 | [two shots in and sobbing](https://open.spotify.com/track/4MOs5IcNNQNOgVuUIeYEFh) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [two shots in and sobbing](https://open.spotify.com/album/40DR5WekpOOl2wanfQdUB7) | 3:44 |
+| 54 | [I'm Crying, Are You?](https://open.spotify.com/track/5Gxcn52HxfnJ5PON6N5OeZ) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I'm Crying, Are You?](https://open.spotify.com/album/3lbMAsFE6E9q2apfBnNWjY) | 3:00 |
 
 Snapshot ID: `AAAAAHLKWE44ORhz1t78R4gcv5JNUxnx`

@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36047,
+  "num_followers": 36054,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Sea Of Problems",
+        "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
+      },
+      "artists": [
+        {
+          "name": "glichery",
+          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
+        }
+      ],
+      "duration_ms": 110624,
+      "name": "Sea Of Problems",
+      "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "2 Times",
         "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
@@ -1175,38 +1191,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Sea Of Problems",
-        "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
-      },
-      "artists": [
-        {
-          "name": "glichery",
-          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
-        }
-      ],
-      "duration_ms": 110624,
-      "name": "Sea Of Problems",
-      "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
-      },
-      "artists": [
-        {
-          "name": "Isolate.exe",
-          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "3am - Nic Vans Remix",
         "url": "https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 164142,
       "name": "3am - Nic Vans Remix",
       "url": "https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
+      },
+      "artists": [
+        {
+          "name": "Isolate.exe",
+          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Scopin",
-        "url": "https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 101632,
-      "name": "Scopin",
-      "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "ONE FOR YOU",
         "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 152516,
       "name": "ONE FOR YOU",
       "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Scopin",
+        "url": "https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 101632,
+      "name": "Scopin",
+      "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Butterfly 2026",
+        "url": "https://open.spotify.com/album/1lwNp8Fmtac2FTiI1fh3w9"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 164336,
+      "name": "Butterfly 2026",
+      "url": "https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM"
       },
@@ -1767,26 +1787,6 @@
       "duration_ms": 148645,
       "name": "hold tight",
       "url": "https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Butterfly 2026",
-        "url": "https://open.spotify.com/album/1lwNp8Fmtac2FTiI1fh3w9"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 164336,
-      "name": "Butterfly 2026",
-      "url": "https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "TAKIN PICTURES",
+        "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
+      },
+      "artists": [
+        {
+          "name": "MAYV",
+          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "TAKIN PICTURES",
+      "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Echo Chamber",
         "url": "https://open.spotify.com/album/2TjelVZVTDssWHvROGDyC4"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 253714,
       "name": "Echo Chamber",
       "url": "https://open.spotify.com/track/7sJ4ue5uhSaXnNlmBWOyuv"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "TAKIN PICTURES",
-        "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
-      },
-      "artists": [
-        {
-          "name": "MAYV",
-          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "TAKIN PICTURES",
-      "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "One Of These Mornings",
-        "url": "https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "One Of These Mornings",
-      "url": "https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Jump In",
         "url": "https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 150857,
       "name": "Jump In",
       "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "One Of These Mornings",
+        "url": "https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "One Of These Mornings",
+      "url": "https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "CLONED VOL.1",
-        "url": "https://open.spotify.com/album/37oUYWWioeyUoHeosrU1Sl"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Error 303",
-      "url": "https://open.spotify.com/track/2rmh0nTshhsiKvHfUm1C1S"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Dem Not Ready",
         "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 277714,
       "name": "Dem Not Ready",
       "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "CLONED VOL.1",
+        "url": "https://open.spotify.com/album/37oUYWWioeyUoHeosrU1Sl"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Error 303",
+      "url": "https://open.spotify.com/track/2rmh0nTshhsiKvHfUm1C1S"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Pop",
-        "url": "https://open.spotify.com/album/69znXGnL5lj0jEIbl7yni7"
-      },
-      "artists": [
-        {
-          "name": "Mary Droppinz",
-          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/0TgoIKzHyU2zysMf12KuJD"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Feel the Beat",
         "url": "https://open.spotify.com/album/4izfgFschtwTedFJH5b4rO"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 397189,
       "name": "Feel the Beat - Partiboi69 Remix",
       "url": "https://open.spotify.com/track/2wNEBBr52TumYRmtYH1ocC"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/69znXGnL5lj0jEIbl7yni7"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "duration_ms": 179142,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/0TgoIKzHyU2zysMf12KuJD"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Hot 'N Heavy",
-        "url": "https://open.spotify.com/album/1mRWJ7HcS8cxSz9L7bOX60"
-      },
-      "artists": [
-        {
-          "name": "Lenny Delicious",
-          "url": "https://open.spotify.com/artist/2MBDmFDbGZLXblS3AnXsqh"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Hot 'N Heavy",
-      "url": "https://open.spotify.com/track/14bmYLH9zFWXyR0wggKuKw"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "HEAVY",
         "url": "https://open.spotify.com/album/6pyBVhhnvUn2SFFSD0sPVo"
       },
@@ -2559,6 +2543,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Hot 'N Heavy",
+        "url": "https://open.spotify.com/album/1mRWJ7HcS8cxSz9L7bOX60"
+      },
+      "artists": [
+        {
+          "name": "Lenny Delicious",
+          "url": "https://open.spotify.com/artist/2MBDmFDbGZLXblS3AnXsqh"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Hot 'N Heavy",
+      "url": "https://open.spotify.com/track/14bmYLH9zFWXyR0wggKuKw"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Sucker",
         "url": "https://open.spotify.com/album/2kjJ97kUqeAbq3EI5TyYbS"
       },
@@ -2571,6 +2571,22 @@
       "duration_ms": 123316,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/04A0Rm6cMA5J1r9f2WlVPO"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "club maki",
+        "url": "https://open.spotify.com/album/0TL0aAXpuy64QIJKMv4bhb"
+      },
+      "artists": [
+        {
+          "name": "uramaki.",
+          "url": "https://open.spotify.com/artist/3AMDhBn0zTUgeY5o7Wplxh"
+        }
+      ],
+      "duration_ms": 304928,
+      "name": "cantcatchme",
+      "url": "https://open.spotify.com/track/71XdxnvFc773OCQaJynqmf"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2599,22 +2615,6 @@
       "duration_ms": 164571,
       "name": "Baller (feat. So-ma, Karyuu & Barney Soon)",
       "url": "https://open.spotify.com/track/5hhwoBsZHsDxv2umK0d9Y0"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "club maki",
-        "url": "https://open.spotify.com/album/0TL0aAXpuy64QIJKMv4bhb"
-      },
-      "artists": [
-        {
-          "name": "uramaki.",
-          "url": "https://open.spotify.com/artist/3AMDhBn0zTUgeY5o7Wplxh"
-        }
-      ],
-      "duration_ms": 304928,
-      "name": "cantcatchme",
-      "url": "https://open.spotify.com/track/71XdxnvFc773OCQaJynqmf"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2911,26 +2911,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Ela Joga na Hora",
-        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
-      },
-      "artists": [
-        {
-          "name": "Mc Pogba",
-          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
-        },
-        {
-          "name": "DJ Guih Da ZO",
-          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
-        }
-      ],
-      "duration_ms": 132922,
-      "name": "Ela Joga na Hora",
-      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "The Best Part of Life (Imanbek Remix)",
         "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
       },
@@ -2947,6 +2927,26 @@
       "duration_ms": 198979,
       "name": "The Best Part of Life (Imanbek Remix)",
       "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Ela Joga na Hora",
+        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
+      },
+      "artists": [
+        {
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "duration_ms": 132922,
+      "name": "Ela Joga na Hora",
+      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
     },
     {
       "added_at": "2026-04-13 15:38:24",

@@ -235,6 +235,32 @@
     },
     {
       "album": {
+        "name": "about u",
+        "url": "https://open.spotify.com/album/1crTuA979eow5XxepZbIOD"
+      },
+      "artists": [
+        {
+          "name": "Hechmann",
+          "url": "https://open.spotify.com/artist/47EbO9KG9g9bIa3ZXn0pwk"
+        },
+        {
+          "name": "RAEYA",
+          "url": "https://open.spotify.com/artist/4uAnzMtsxff9YdDsr5gzEu"
+        },
+        {
+          "name": "Mark Filip",
+          "url": "https://open.spotify.com/artist/615YZvEZ59KeIELygC4Q3z"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146929,
+      "name": "about u",
+      "url": "https://open.spotify.com/track/0tkSskIOYhr1bvjwUuWsV8"
+    },
+    {
+      "album": {
         "name": "Addicted (feat. TIMID.)",
         "url": "https://open.spotify.com/album/1g3CRfapU2HVFs1QK6jNAs"
       },
@@ -6436,7 +6462,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 191250,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/36O5AFobnQ3rpJfyCYX50u"
@@ -9594,7 +9620,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 140689,
       "name": "Hiding Places",
       "url": "https://open.spotify.com/track/7E5jiGNH5AjriJtRUEd9Vt"
@@ -14620,7 +14646,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 150000,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/5rq6H4Uxi0mbr8Nn8IbmsC"
@@ -18228,7 +18254,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 183996,
       "name": "Not Lonely",
       "url": "https://open.spotify.com/track/7zT7SKTVcD2o26TYHg8YES"
@@ -18614,7 +18640,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 141375,
       "name": "On Memories",
       "url": "https://open.spotify.com/track/2MTSeMNLl4NWp78TqKkoWj"
@@ -19619,6 +19645,24 @@
     },
     {
       "album": {
+        "name": "Perfect Day",
+        "url": "https://open.spotify.com/album/5vOiPtWuwl2xj6kHbaRAsa"
+      },
+      "artists": [
+        {
+          "name": "ENVOL",
+          "url": "https://open.spotify.com/artist/5h8U1AIYA23J6XR0mgNOD4"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142439,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/7K0pkTdKYMnWs6zTWzxJ34"
+    },
+    {
+      "album": {
         "name": "Persephone",
         "url": "https://open.spotify.com/album/5UBMWNfl9UMmpZ62xHREyP"
       },
@@ -19730,7 +19774,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 156072,
       "name": "Place We Know",
       "url": "https://open.spotify.com/track/12gsdUDClTjDeCM61nnqdX"
@@ -20936,7 +20980,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 150000,
       "name": "Running Blind",
       "url": "https://open.spotify.com/track/2L3i743B96YisevjdoNpVA"
@@ -22694,6 +22738,32 @@
       "duration_ms": 126450,
       "name": "Something New",
       "url": "https://open.spotify.com/track/3Y6OZc2MXvwVwgcYoOZxFE"
+    },
+    {
+      "album": {
+        "name": "Something Real",
+        "url": "https://open.spotify.com/album/789OHGf8yuNopwNvDsxWO1"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "clarity.",
+          "url": "https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH"
+        },
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128235,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/0wCFs6PrNk1oGrqnJ4a1Bu"
     },
     {
       "album": {

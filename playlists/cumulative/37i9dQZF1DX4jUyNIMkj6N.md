@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-405 songs - 1 day 0 hr 22 min
+406 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Boy Tied In A Knot](https://open.spotify.com/track/0D6sECAN11gZwLV2LJWrKM) | [Mylder](https://open.spotify.com/artist/2il8lJz1YxlB2QJpvznBGF) | [Boy Tied In A Knot](https://open.spotify.com/album/2BRAJOVMfYuXRbbCGQmtK2) | 3:04 | 2023-09-28 | 2023-10-06 |
 | [Break Things](https://open.spotify.com/track/1GgFAaCWCPcENXLJMhepOj) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Wildflower](https://open.spotify.com/album/2h3EpBG8Y0kyOfincWdKoa) | 3:22 | 2025-09-18 | 2026-04-03 |
 | [Breathe](https://open.spotify.com/track/38Mg9q2em0bT8pJaguYh3i) | [Real Ones](https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym) | [Breathe](https://open.spotify.com/album/1MWU1W7jPAvasm97wTowWO) | 4:13 | 2022-12-08 | 2023-01-25 |
-| [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 | 2023-11-23 |  |
+| [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 | 2023-11-23 | 2026-04-17 |
 | [Bright Lights](https://open.spotify.com/track/2HbDSISON7nWNdnUhaRPDA) | [Unnveig Aas](https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se) | [Love EP](https://open.spotify.com/album/483bq5roSleMjKuPlIxEcp) | 3:19 | 2021-12-02 | 2022-07-28 |
 | [Broken Road](https://open.spotify.com/track/3U68FhkqgAVLxCR1s7aoD4) | [Niila](https://open.spotify.com/artist/25PzS3ToWjTF5cznfaYpFq) | [Broken Road](https://open.spotify.com/album/1fB4KhlQ5k3sPXwV1PJcE3) | 3:22 | 2024-05-23 | 2025-02-11 |
 | [Brother](https://open.spotify.com/track/210qO1uNPiBhwNThR8MYW7) | [Real Ones](https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym) | [Brother](https://open.spotify.com/album/2Fy0aW2a5YWnHVdZQDGIOC) | 3:58 | 2022-10-06 | 2023-02-01 |
@@ -212,6 +212,7 @@
 | [Little Twirl](https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Carvings](https://open.spotify.com/album/0g5Hk7IoMATmXQKDwdM9ln) | 2:22 | 2023-01-19 | 2023-02-08 |
 | [Living In It](https://open.spotify.com/track/0ZRaUVbA5LXkyBoU33SBpf) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [Crossfade](https://open.spotify.com/album/3rfUDup9i149Ge1ZGoqUlb) | 2:47 | 2026-02-05 | 2026-04-10 |
 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 | 2024-04-04 |  |
+| [Longed For This Moment](https://open.spotify.com/track/3X6OzLlY8xGD1MUvZgT755) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Longed For This Moment](https://open.spotify.com/album/1XmJ9gbDf1OlDOngzd2qMP) | 3:14 | 2026-04-16 |  |
 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 | 2021-12-02 | 2023-10-06 |
 | [Lost](https://open.spotify.com/track/3y30CMKgom7ymwPVnDuoQ4) | [Sonic Løland](https://open.spotify.com/artist/3g4SAPEqsPhWUsAzRqnu8o) | [Lost](https://open.spotify.com/album/5KGvjHsl3He6zOSszh8uFH) | 3:45 | 2022-11-10 | 2022-11-26 |
 | [Lou Lou](https://open.spotify.com/track/7fdPcyE4xzQlm0Fkf0JERy) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Lou Lou](https://open.spotify.com/album/39Tx9lVSciEVoYmCCdpkXH) | 2:04 | 2021-12-02 | 2022-07-28 |

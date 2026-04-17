@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: 3%",
+  "description": "The best new AUS & NZ Rap. Cover: The Kid LAROI",
   "name": "Local Hype",
   "tracks": [
     {
@@ -6314,7 +6314,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 166857,
       "name": "DENIAL",
       "url": "https://open.spotify.com/track/5hMRy19x6lhkHPd5vZ4mZt"
@@ -9096,7 +9096,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 151986,
       "name": "For What (feat. Cash Cobain)",
       "url": "https://open.spotify.com/track/6GfC36LoOZv0zCa45Et1Fg"
@@ -11826,7 +11826,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 128978,
       "name": "HIYA",
       "url": "https://open.spotify.com/track/3gS8kc8bloDNOfHY0m9bHL"
@@ -12751,6 +12751,24 @@
     },
     {
       "album": {
+        "name": "I CONDEMN",
+        "url": "https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142597,
+      "name": "I CONDEMN",
+      "url": "https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT"
+    },
+    {
+      "album": {
         "name": "I DID IT (w/ Kanii & Anycia)",
         "url": "https://open.spotify.com/album/36C2ZuAPEWKfTps7yIG1oB"
       },
@@ -12822,6 +12840,28 @@
       "duration_ms": 126600,
       "name": "I LOVE YOU HOE (w/ 9lives)",
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
+    },
+    {
+      "album": {
+        "name": "I PRAY",
+        "url": "https://open.spotify.com/album/0PDo9TmQOSokmRWlfbT8hT"
+      },
+      "artists": [
+        {
+          "name": "BARAKA THE KID",
+          "url": "https://open.spotify.com/artist/632zuYvAmSbcN7oXlck1DF"
+        },
+        {
+          "name": "Kapsize",
+          "url": "https://open.spotify.com/artist/5oqZMFZ8sWe46xsIp8HF6t"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "I PRAY",
+      "url": "https://open.spotify.com/track/1RPWj0qrrQLH8ckCO1zv3n"
     },
     {
       "album": {
@@ -16027,6 +16067,24 @@
     },
     {
       "album": {
+        "name": "make ha dance",
+        "url": "https://open.spotify.com/album/0FcDcW2Uh3c3WKK19ZriPi"
+      },
+      "artists": [
+        {
+          "name": "leecerti",
+          "url": "https://open.spotify.com/artist/4GCBx9G31irWT77xXxWrSA"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120827,
+      "name": "make ha dance",
+      "url": "https://open.spotify.com/track/2nZycbXJkUbDcwZBbqnCTG"
+    },
+    {
+      "album": {
         "name": "MAKE IT DIP",
         "url": "https://open.spotify.com/album/2rxCJpUc6RhvjTFaFdCPCg"
       },
@@ -16728,7 +16786,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 185129,
       "name": "MILLIONS",
       "url": "https://open.spotify.com/track/2VmzVHBUhv0XZFspuSCMBO"
@@ -17872,7 +17930,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 174762,
       "name": "Never Off",
       "url": "https://open.spotify.com/track/3Q8BYAoiMBROSKf0CzvMWL"
@@ -18490,6 +18548,24 @@
       "duration_ms": 186422,
       "name": "NO LIE",
       "url": "https://open.spotify.com/track/303IWfId82zVOK2jdXl0h7"
+    },
+    {
+      "album": {
+        "name": "NO MAS",
+        "url": "https://open.spotify.com/album/62fbcTkk0CdYwgSvwJjlGl"
+      },
+      "artists": [
+        {
+          "name": "Anfa Rose",
+          "url": "https://open.spotify.com/artist/6QyD04sHvKf1AjxkXrNRk1"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123016,
+      "name": "NO MAS",
+      "url": "https://open.spotify.com/track/4HUurRgqiQtbgBUbydsE80"
     },
     {
       "album": {
@@ -19422,7 +19498,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 180874,
       "name": "One Life (feat. Nauti)",
       "url": "https://open.spotify.com/track/2utN0NpJOSx9VgDIt6iO8h"
@@ -19876,7 +19952,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 185399,
       "name": "Overseas",
       "url": "https://open.spotify.com/track/0X3qs1Yw4zu1Akchj45G8o"
@@ -22843,6 +22919,28 @@
     },
     {
       "album": {
+        "name": "Sabotage!",
+        "url": "https://open.spotify.com/album/4gWjvKGe1YjlPXeCIf3mc3"
+      },
+      "artists": [
+        {
+          "name": "DOBBY",
+          "url": "https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad"
+        },
+        {
+          "name": "Josh Pyke",
+          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220822,
+      "name": "Sabotage!",
+      "url": "https://open.spotify.com/track/0iU7NU0oYEa3DFBJ6uPRsD"
+    },
+    {
+      "album": {
         "name": "Sad Boy Feeling",
         "url": "https://open.spotify.com/album/52AGrHjnAhckUSaVbodalh"
       },
@@ -23064,7 +23162,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 109506,
       "name": "Say What I Mean",
       "url": "https://open.spotify.com/track/0MgJu8E60EWYGsxatzkQ5S"
@@ -23476,6 +23574,24 @@
       "duration_ms": 194000,
       "name": "SHAKE (feat. BLESSED)",
       "url": "https://open.spotify.com/track/2ujRJ2xKrKUutv1HJbbnwf"
+    },
+    {
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/3PJa3nfxYh9HXqMGVuxiE2"
+      },
+      "artists": [
+        {
+          "name": "Rops1",
+          "url": "https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/58Wkvm0ChQ75X8nXv8NPON"
     },
     {
       "album": {
@@ -23946,6 +24062,24 @@
       "duration_ms": 154667,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/15OJF0O9mcqDvTGnAR8mOb"
+    },
+    {
+      "album": {
+        "name": "Sixth Sense",
+        "url": "https://open.spotify.com/album/5dmD53AthaOn0hr0L9Xdvn"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143052,
+      "name": "Sixth Sense",
+      "url": "https://open.spotify.com/track/6YjpYMUcEjCje7AXYxQZtL"
     },
     {
       "album": {
@@ -24749,6 +24883,36 @@
     },
     {
       "album": {
+        "name": "Split Personality",
+        "url": "https://open.spotify.com/album/0iPYsOa6ftpKkF4vdaIqLi"
+      },
+      "artists": [
+        {
+          "name": "ozpolo",
+          "url": "https://open.spotify.com/artist/2I8O5ZIJaRsRY7jtRLvr6A"
+        },
+        {
+          "name": "KZ Da Bandit",
+          "url": "https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P"
+        },
+        {
+          "name": "HKRamz",
+          "url": "https://open.spotify.com/artist/11sv1aT0SJiblvZJFHITEO"
+        },
+        {
+          "name": "Yung Maynie",
+          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157966,
+      "name": "Split Personality",
+      "url": "https://open.spotify.com/track/2BVhM6EuVLSxL4bMux9SNn"
+    },
+    {
+      "album": {
         "name": "Split Screen Remix",
         "url": "https://open.spotify.com/album/5upht9XZEbSaCTBDJQ7BoB"
       },
@@ -24870,7 +25034,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 154893,
       "name": "STAY ON TOP",
       "url": "https://open.spotify.com/track/5XUc173YjC6mEaPoFqPJaW"
@@ -25114,6 +25278,28 @@
       "duration_ms": 138865,
       "name": "Storyboards",
       "url": "https://open.spotify.com/track/0G3bv9WgDR2UfNiECeluL8"
+    },
+    {
+      "album": {
+        "name": "STRANGE WAYYZ",
+        "url": "https://open.spotify.com/album/6YSUR94oXa5Ak7oF7ycf6g"
+      },
+      "artists": [
+        {
+          "name": "Sollyy",
+          "url": "https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf"
+        },
+        {
+          "name": "Church",
+          "url": "https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140625,
+      "name": "STRANGE WAYYZ",
+      "url": "https://open.spotify.com/track/1tl7Bo7EnZ343ipJkqngqj"
     },
     {
       "album": {
@@ -27983,6 +28169,28 @@
     },
     {
       "album": {
+        "name": "BRON",
+        "url": "https://open.spotify.com/album/02wgeAEygUvgt7mwBnmPdO"
+      },
+      "artists": [
+        {
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        },
+        {
+          "name": "Revus",
+          "url": "https://open.spotify.com/artist/2bvztHh7wnuRLZAwLZwpBa"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225753,
+      "name": "ULA MAN",
+      "url": "https://open.spotify.com/track/2LoSMbMBPdQ1xDICl37P2j"
+    },
+    {
+      "album": {
         "name": "Umva",
         "url": "https://open.spotify.com/album/1JkWxgKl2W2WKN0JtPPy1S"
       },
@@ -29436,7 +29644,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 190173,
       "name": "what's the colour of love?",
       "url": "https://open.spotify.com/track/68Lr6H2MZE9R0TXL8xfrrQ"
@@ -29544,7 +29752,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 131031,
       "name": "When The Dust Settles",
       "url": "https://open.spotify.com/track/4hY25zPsBVvE50L4jAqHNA"

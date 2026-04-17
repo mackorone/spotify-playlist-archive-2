@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Claudia de Breij
 
-259 songs - 15 hr 41 min
+260 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Kom Terug](https://open.spotify.com/track/4ovxUTMs3Mi7ntZS2tJojk) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [tot ziens, Justine Keller](https://open.spotify.com/album/2aeLBdqU5aMNt5TPKuDHRg) | 3:50 | 2023-02-10 | 2023-04-26 |
 | [Koortsdroom \(Nooit Spijt\)](https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Koortsdroom](https://open.spotify.com/album/4JYA7GDjDCSkHM401aXVXG) | 2:42 | 2025-03-13 | 2025-09-05 |
 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 | 2023-02-10 |  |
+| [Laat Het Licht Aan](https://open.spotify.com/track/3m7590UqY1VXNtF6axoWj1) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Laat Het Licht Aan](https://open.spotify.com/album/04rBOWpJpSp3pDFU5EGXb4) | 4:00 | 2026-04-16 |  |
 | [Laat Me](https://open.spotify.com/track/6XzBlaRUFcps7zkKgZWh7E) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Dag En Nacht](https://open.spotify.com/album/7Mjuv0IphBgLcHXhUyzCJe) | 5:05 | 2023-02-10 | 2026-03-13 |
 | [Laat Me / Vivre \- Lange versie](https://open.spotify.com/track/1IpdAKuSYrQKTXs0KpypFb) | [Gerard Alderliefste](https://open.spotify.com/artist/718CHttAO54nPQXP00EzmD), [Alderliefste](https://open.spotify.com/artist/5J8ns43YpsiTRsG45N1cDi) | [Laat Me / Vivre](https://open.spotify.com/album/0d4Dr3RCYyHXFgWz0PFD1M) | 6:25 | 2023-02-10 |  |
 | [Laat Mij In Die Waan \- In De Basis](https://open.spotify.com/track/26mA2v7PUMenye7GiIZ9jo) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [In De Basis: Kant C](https://open.spotify.com/album/7i1vRdGnnv6x0wpb7UDTzf) | 3:03 | 2023-02-10 | 2023-09-15 |

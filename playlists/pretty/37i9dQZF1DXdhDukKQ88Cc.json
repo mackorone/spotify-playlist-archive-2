@@ -1,15 +1,63 @@
 {
-  "description": "\ud83d\udd25 den nyeste rap i dk \ud83d\udd25 cover: D1MA",
-  "num_followers": 187841,
+  "description": "\ud83d\udd25 den nyeste rap i dk \ud83d\udd25 cover: Lamin",
+  "num_followers": 187830,
   "original_name": "rap dk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM+dU6ifG9nzi0r97O/CuMBQd1rr",
+  "snapshot_id": "AAAAAGX4ZdBuVR2IfZ5rLyKj2XFXWm77",
   "tracks": [
     {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
+      "album": {
+        "name": "L\u00e5st Inde",
+        "url": "https://open.spotify.com/album/5OwonuqW871q6LmAmxE3nw"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 178347,
+      "name": "L\u00e5st Inde",
+      "url": "https://open.spotify.com/track/1o7wzFWTUv2My3ulZIPlqw"
+    },
+    {
+      "added_at": "2026-04-16 22:02:04",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/1HguiuA7Gq99gj7rpLln1g"
+      },
+      "artists": [
+        {
+          "name": "Benny",
+          "url": "https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/3vv6DL1Pl8bf6GeUtL9Zjh"
+    },
+    {
+      "added_at": "2026-04-16 22:02:04",
+      "album": {
+        "name": "Stadig Her",
+        "url": "https://open.spotify.com/album/3Hwefv9rT5iHnMvD6prWTx"
+      },
+      "artists": [
+        {
+          "name": "Fouli",
+          "url": "https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/1Qf940bnF9nnS95GNClHFu"
+    },
+    {
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "blessed",
         "url": "https://open.spotify.com/album/2SGhFr27vLpx0QCG4MU6Ic"
@@ -25,7 +73,7 @@
       "url": "https://open.spotify.com/track/15cjK5y0kli27DFjxZUCt7"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "Mentally",
         "url": "https://open.spotify.com/album/2nRMyEBaMtQ9riwmv47Ga9"
@@ -41,7 +89,7 @@
       "url": "https://open.spotify.com/track/1Yx9f4IEoor3fwHhZ2NC3H"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "26",
         "url": "https://open.spotify.com/album/5RTwUXP4jGsHyEbbjmgGhF"
@@ -57,7 +105,7 @@
       "url": "https://open.spotify.com/track/5jT5wsWSCmQUYuqvrU879E"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "$AMMEN",
         "url": "https://open.spotify.com/album/7C2AQA02ZhqeKf8UPYDcTD"
@@ -73,7 +121,7 @@
       "url": "https://open.spotify.com/track/2eEUhbrrR7ZwYkOKDIO9oh"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "Anderledes Aura",
         "url": "https://open.spotify.com/album/68TaBEOIlGQjolKMIDThPa"
@@ -93,7 +141,7 @@
       "url": "https://open.spotify.com/track/0Y3i5QMg6gkiNNXQl2fBAM"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "Planet",
         "url": "https://open.spotify.com/album/0irkTGOgtcESdDAqcDmZdi"
@@ -113,7 +161,7 @@
       "url": "https://open.spotify.com/track/2z8ren6BAtcW6VWKjy0aTu"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "Udenlands",
         "url": "https://open.spotify.com/album/6MdVTllUWzvSPF6JSOrEYx"
@@ -129,27 +177,7 @@
       "url": "https://open.spotify.com/track/36LhHBZSbY7Z1BKqQQpI6M"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
-      "album": {
-        "name": "H\u00f8jt At Flyve Dybt At Falde",
-        "url": "https://open.spotify.com/album/0ZiHfwBVdjA78WfyNXTJTU"
-      },
-      "artists": [
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
-        },
-        {
-          "name": "Jamaika",
-          "url": "https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS"
-        }
-      ],
-      "duration_ms": 161245,
-      "name": "3 2 1 (feat. Jamaika)",
-      "url": "https://open.spotify.com/track/0PUfJ77DHXydetNvwYsI31"
-    },
-    {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "Der Kommer En Dag",
         "url": "https://open.spotify.com/album/2qWaptQGTODsiCzrYt3QmS"
@@ -165,7 +193,7 @@
       "url": "https://open.spotify.com/track/0FdCmsOZQmExwEUda6WvNI"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "Walo",
         "url": "https://open.spotify.com/album/7wqu8glYkOk1hzqp2qCQDr"
@@ -181,47 +209,39 @@
       "url": "https://open.spotify.com/track/5lt9tqbYBlVJnYcHlrcTN6"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
-        "name": "H.C. (feat. Lamin & KESI)",
-        "url": "https://open.spotify.com/album/1btCfwzvzlMIuqb1D0sr18"
+        "name": "Tal I",
+        "url": "https://open.spotify.com/album/1eglgzn0PahdeAbUsOnYHq"
       },
       "artists": [
         {
-          "name": "JEFF3",
-          "url": "https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW"
-        },
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        },
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+          "name": "DIBSET",
+          "url": "https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH"
         }
       ],
-      "duration_ms": 208083,
-      "name": "H.C. (feat. Lamin & KESI)",
-      "url": "https://open.spotify.com/track/7DH8FCjWuNSUBk0hXAepvo"
+      "duration_ms": 135519,
+      "name": "Tal I",
+      "url": "https://open.spotify.com/track/2r8QgkyOQD3scdt2s96Tan"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
-        "name": "20 Times",
-        "url": "https://open.spotify.com/album/6SujSL0akcBtBR3u8bkAgH"
+        "name": "BUSINESS",
+        "url": "https://open.spotify.com/album/4fYJvKqr8znK81X29kPdYS"
       },
       "artists": [
         {
-          "name": "Xabski",
-          "url": "https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF"
+          "name": "S1",
+          "url": "https://open.spotify.com/artist/04CctwCyNzsVAMMqwKLEpX"
         }
       ],
-      "duration_ms": 124639,
-      "name": "20 Times",
-      "url": "https://open.spotify.com/track/1Drcv968Oo64KD9JN1MMLc"
+      "duration_ms": 134181,
+      "name": "BUSINESS",
+      "url": "https://open.spotify.com/track/7Aj7h6dyHJvlM9eihUBPa6"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "Hver Dag",
         "url": "https://open.spotify.com/album/5Dicwkd8fam4tqR6nCGyEL"
@@ -237,27 +257,7 @@
       "url": "https://open.spotify.com/track/2oaR5QU69kcdbeQvJV3yLd"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
-      "album": {
-        "name": "Cobra (feat. Jamaika)",
-        "url": "https://open.spotify.com/album/6ODopWPSC73RjkK0bN3UjL"
-      },
-      "artists": [
-        {
-          "name": "Carmon",
-          "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
-        },
-        {
-          "name": "Jamaika",
-          "url": "https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS"
-        }
-      ],
-      "duration_ms": 161785,
-      "name": "Cobra (feat. Jamaika)",
-      "url": "https://open.spotify.com/track/7mUPCop88z8A4mTP1Rxrvq"
-    },
-    {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "INITIALER",
         "url": "https://open.spotify.com/album/6ubm3y76MDFZpEvpBOjxGp"
@@ -273,39 +273,7 @@
       "url": "https://open.spotify.com/track/4oCEv3TMIR40w5Ymju5GQl"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
-      "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/0UVSC630dOdCW1CVqXGP5M"
-      },
-      "artists": [
-        {
-          "name": "Cizzo",
-          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/4vBmOdsWBa6HvHlzqVYhSh"
-    },
-    {
-      "added_at": "2026-04-09 22:01:26",
-      "album": {
-        "name": "ACCELERATION",
-        "url": "https://open.spotify.com/album/6ExgHkQczbskQxCIqxsV4W"
-      },
-      "artists": [
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
-        }
-      ],
-      "duration_ms": 149161,
-      "name": "ACCELERATION",
-      "url": "https://open.spotify.com/track/6rNAaJAYB3P9aHKdHmzr4P"
-    },
-    {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/2pt92EysnA3W9rTFOt5jct"
@@ -321,7 +289,7 @@
       "url": "https://open.spotify.com/track/1NVupq5lOcX0PAlbcoauxy"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "HIMMELSENDT",
         "url": "https://open.spotify.com/album/1SLP82qp6FDgLFmCJGiqjN"
@@ -337,39 +305,7 @@
       "url": "https://open.spotify.com/track/3RTfF3z9LBQReOjWYBVcDO"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
-      "album": {
-        "name": "Mozart",
-        "url": "https://open.spotify.com/album/1j9hmGqgddPasebxfgckk7"
-      },
-      "artists": [
-        {
-          "name": "Xabski",
-          "url": "https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF"
-        }
-      ],
-      "duration_ms": 122113,
-      "name": "Mozart",
-      "url": "https://open.spotify.com/track/6PsOpjwjkUIAELLXz30bC9"
-    },
-    {
-      "added_at": "2026-04-09 22:01:26",
-      "album": {
-        "name": "Big Dreams",
-        "url": "https://open.spotify.com/album/3h4KulkpwRAEDYXW9jmxfo"
-      },
-      "artists": [
-        {
-          "name": "Edo6k",
-          "url": "https://open.spotify.com/artist/1OyJnaSDsPqfU4Y1T7AcNa"
-        }
-      ],
-      "duration_ms": 163834,
-      "name": "Big Dreams",
-      "url": "https://open.spotify.com/track/30VQkyVaEfHqubpIFa41Hs"
-    },
-    {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/6pUqW06fBNLb6cmPg7cw8D"
@@ -389,7 +325,7 @@
       "url": "https://open.spotify.com/track/64uzNBLwjR0ZkSS3R8xKe1"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "ALLEREDE",
         "url": "https://open.spotify.com/album/2JyzgAsW974AJslkCtyGs4"
@@ -405,23 +341,7 @@
       "url": "https://open.spotify.com/track/7zemG7X02GuBnJEUiKj2RN"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
-      "album": {
-        "name": "BAG P\u00c5 MIG",
-        "url": "https://open.spotify.com/album/0AgMwr1veVx7prfbQs4x9p"
-      },
-      "artists": [
-        {
-          "name": "Elias",
-          "url": "https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K"
-        }
-      ],
-      "duration_ms": 136237,
-      "name": "BAG P\u00c5 MIG",
-      "url": "https://open.spotify.com/track/6fPZu4iJ3foO6ZOa7tCKyz"
-    },
-    {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "Er du med mig?",
         "url": "https://open.spotify.com/album/5CF47ZbFyakSVTPkavX5CC"
@@ -437,7 +357,7 @@
       "url": "https://open.spotify.com/track/0IcZtFpwvgf6zQw3aPwyFe"
     },
     {
-      "added_at": "2026-04-09 22:01:26",
+      "added_at": "2026-04-16 22:02:04",
       "album": {
         "name": "DOKU",
         "url": "https://open.spotify.com/album/1dYA6H6pefJSyWs7HT1I4d"

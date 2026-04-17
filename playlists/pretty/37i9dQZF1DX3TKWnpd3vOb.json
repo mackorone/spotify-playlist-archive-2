@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Tres",
-  "num_followers": 186818,
+  "num_followers": 186809,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
+        "name": "Un D\u00eda por Concepci\u00f3n",
+        "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
+      },
+      "artists": [
+        {
+          "name": "Billy Norton",
+          "url": "https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb"
+        }
+      ],
+      "duration_ms": 183484,
+      "name": "Un D\u00eda por Concepci\u00f3n",
+      "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 219000,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "Un D\u00eda por Concepci\u00f3n",
-        "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
-      },
-      "artists": [
-        {
-          "name": "Billy Norton",
-          "url": "https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb"
-        }
-      ],
-      "duration_ms": 183484,
-      "name": "Un D\u00eda por Concepci\u00f3n",
-      "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -619,8 +619,8 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Mis Hermanos Sue\u00f1an Despiertos",
-        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/7qsBFKGtx7itrfVd7fOxiE"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 204829,
-      "name": "Mis Hermanos Sue\u00f1an Despiertos",
-      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
+      "duration_ms": 220295,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/0edQQyB3klYXb3ptkcdDIo"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "All\u00ed Va",
-        "url": "https://open.spotify.com/album/4t8GmiNlKqpXlVcPJdvyT9"
-      },
-      "artists": [
-        {
-          "name": "Pettinellis",
-          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
-        }
-      ],
-      "duration_ms": 153942,
-      "name": "All\u00ed Va",
-      "url": "https://open.spotify.com/track/7a4vF2iVE2BspL2yRy47nX"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "Mariposa Peregrina",
         "url": "https://open.spotify.com/album/6Xyg15pXpZOhVaIkpoY5D1"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 258269,
       "name": "Mariposa Peregrina",
       "url": "https://open.spotify.com/track/4gMeMbcQg2susBehVPgZwS"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "All\u00ed Va",
+        "url": "https://open.spotify.com/album/4t8GmiNlKqpXlVcPJdvyT9"
+      },
+      "artists": [
+        {
+          "name": "Pettinellis",
+          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
+        }
+      ],
+      "duration_ms": 153942,
+      "name": "All\u00ed Va",
+      "url": "https://open.spotify.com/track/7a4vF2iVE2BspL2yRy47nX"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Caballo sin due\u00f1o",
-        "url": "https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz"
-      },
-      "artists": [
-        {
-          "name": "Pettinellis",
-          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
-        }
-      ],
-      "duration_ms": 217543,
-      "name": "Caballo sin due\u00f1o",
-      "url": "https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "Se Aleja el Tren",
         "url": "https://open.spotify.com/album/5nF2JwPZV8GGwV0JdNq0ss"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 246322,
       "name": "Se Aleja el Tren",
       "url": "https://open.spotify.com/track/043AiQhetJSAQWiHI7Tz63"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Caballo sin due\u00f1o",
+        "url": "https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz"
+      },
+      "artists": [
+        {
+          "name": "Pettinellis",
+          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
+        }
+      ],
+      "duration_ms": 217543,
+      "name": "Caballo sin due\u00f1o",
+      "url": "https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
+        "name": "Solo de Ti",
+        "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ilabaca",
+          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
+        }
+      ],
+      "duration_ms": 237830,
+      "name": "Solo de Ti",
+      "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
         "name": "Arauco Tiene una Pena",
         "url": "https://open.spotify.com/album/4WI0nDxBevacGtx4K2NFW9"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 348871,
       "name": "Arauco Tiene una Pena",
       "url": "https://open.spotify.com/track/2cBNm3iPJeD0nLiE6KB4Dc"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "Solo de Ti",
-        "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ilabaca",
-          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
-        }
-      ],
-      "duration_ms": 237830,
-      "name": "Solo de Ti",
-      "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1631,8 +1631,8 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Cielo",
-        "url": "https://open.spotify.com/album/7qsBFKGtx7itrfVd7fOxiE"
+        "name": "Mis Hermanos Sue\u00f1an Despiertos",
+        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
       },
       "artists": [
         {
@@ -1640,9 +1640,9 @@
           "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 220295,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/0edQQyB3klYXb3ptkcdDIo"
+      "duration_ms": 204829,
+      "name": "Mis Hermanos Sue\u00f1an Despiertos",
+      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
     },
     {
       "added_at": "2026-04-10 19:32:23",

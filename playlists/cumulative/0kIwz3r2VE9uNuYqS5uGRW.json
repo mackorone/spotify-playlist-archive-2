@@ -2535,6 +2535,24 @@
     },
     {
       "album": {
+        "name": "Prosthetic",
+        "url": "https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM"
+      },
+      "artists": [
+        {
+          "name": "Dymer",
+          "url": "https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221265,
+      "name": "Prosthetic",
+      "url": "https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd"
+    },
+    {
+      "album": {
         "name": "pull up",
         "url": "https://open.spotify.com/album/7JC48ko5wABisFzZNl6JE6"
       },

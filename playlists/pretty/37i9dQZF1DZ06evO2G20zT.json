@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 47537,
+  "num_followers": 47563,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAAD2jaxy28yNFpTjEeyrJwIc",
+  "snapshot_id": "ad7VAAAAAADoRGzv7V6OVF8hmlndx8RJ",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 141913,
+      "name": "Migos",
+      "url": "https://open.spotify.com/track/75Z6UVdO4anTZIGf3DrvYn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sanity",
         "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 140240,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 141913,
-      "name": "Migos",
-      "url": "https://open.spotify.com/track/75Z6UVdO4anTZIGf3DrvYn"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+        "name": "Vibe Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 151282,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
+      "duration_ms": 145714,
+      "name": "Blacka Rhythm",
+      "url": "https://open.spotify.com/track/55cRnjrOrjRCw3cp0tUwB5"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vibe Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj"
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 145714,
-      "name": "Blacka Rhythm",
-      "url": "https://open.spotify.com/track/55cRnjrOrjRCw3cp0tUwB5"
+      "duration_ms": 151282,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
       "duration_ms": 143505,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/419bdMkIYCMrQ9MHvT60JV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 145002,
-      "name": "Lagos",
-      "url": "https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw"
     },
     {
       "added_at": null,
@@ -859,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 145002,
+      "name": "Lagos",
+      "url": "https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NSNV",
         "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 164213,
-      "name": "Santorini",
-      "url": "https://open.spotify.com/track/6vnToAh7RIRYU4XMM2Wir4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billion Dollar Baby",
         "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 144927,
       "name": "Billion Dollar",
       "url": "https://open.spotify.com/track/4Wuqy79kCWtbvTSp0xiLYp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 164213,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/6vnToAh7RIRYU4XMM2Wir4"
     },
     {
       "added_at": null,

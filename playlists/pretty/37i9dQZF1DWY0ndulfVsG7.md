@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Meet Uncle Hussain, Adi Priyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,958 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,965 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 47 | [Kekasih Bayangan](https://open.spotify.com/track/3PeIxOLCSZtpMCo24EcapU) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Kekasih Bayangan](https://open.spotify.com/album/2Xw7OI35YCxYybg7zDnK39) | 4:43 |
 | 48 | [Penantian](https://open.spotify.com/track/6v9LrcHY72rvk1HtKOeAwj) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Pagi Pulang Pagi](https://open.spotify.com/album/3WOli1F3NswIesoWcJ6jpa) | 4:09 |
 | 49 | [Kepuraanmu](https://open.spotify.com/track/5tNfSGN2zQ6y3E5pl5Wggy) | [Luqman Faiz](https://open.spotify.com/artist/2ZhUfT19cZKRi7sayQcEZH) | [Kepuraanmu](https://open.spotify.com/album/2rMuIKkyrOHg60Ulf9Sa1e) | 3:51 |
-| 50 | [Gerimis Mengundang](https://open.spotify.com/track/0uoL9b2NPoSq8bXjD31pWy) | [Slam](https://open.spotify.com/artist/6ZK1l84rj8SLSn2tXVgCsf) | [Rindiani](https://open.spotify.com/album/3aSrDhdhPEsGwiXm53uDMu) | 5:24 |
+| 50 | [Biarkanlah](https://open.spotify.com/track/0TbxuF4pkOZBfdBipPorYQ) | [Drama Band](https://open.spotify.com/artist/5NWfEZx5XGbVCAQTjhSxlR) | [Biarkanlah](https://open.spotify.com/album/5oR5jLtz8APUIBiZ5lB4CL) | 4:13 |
 
 Snapshot ID: `AAAAAHdP5Z/9sigil/UluybLzNf5WwV/`

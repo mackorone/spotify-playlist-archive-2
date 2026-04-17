@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 406 likes - 79 songs - 5 hr 2 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 409 likes - 81 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,5 +87,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 77 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 |
 | 78 | [To The Moon](https://open.spotify.com/track/6DVsYLEObwwI5j8TMbMecX) | [Stopgap Solution](https://open.spotify.com/artist/0H2WxOdnVCqVeXCwyfJgAb) | [To The Moon](https://open.spotify.com/album/2ElBuY7uYQpk55T1GHgZz5) | 3:44 |
 | 79 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 |
+| 80 | [Libertad de Expresión](https://open.spotify.com/track/37uRx1n0rsGqoIIIz6QcPO) | [Misión Pájaro](https://open.spotify.com/artist/0fbfzghafzuSdoHe1VMZXy) | [Libertad de Expresión](https://open.spotify.com/album/0DGZGMrloXmGnADcqIlJd0) | 5:40 |
+| 81 | [Pride](https://open.spotify.com/track/5fTYOxtkQXksKM7Pbj6SQy) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 2:32 |
 
-Snapshot ID: `AAABgLfWFyM0Fh4Q+qSbdiV1WnGPuFft`
+Snapshot ID: `AAABghPVH/4FfnGtASbWVUVzXWLJD/kI`

@@ -1,12 +1,12 @@
 {
   "description": "This is Emily A. Sprague. The essential tracks, all in one playlist.",
-  "num_followers": 171,
+  "num_followers": 172,
   "original_name": "This Is Emily A. Sprague",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAADa6u2LrgrJhLiO/P9rP02M",
+  "snapshot_id": "ad7VAAAAAABRxvFb5zA2Q2rMBAFnlSJR",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 441533,
-      "name": "Synth 1",
-      "url": "https://open.spotify.com/track/3UEvagUTpKhD1BSSNHWkj9"
+      "duration_ms": 297666,
+      "name": "Synth 3",
+      "url": "https://open.spotify.com/track/7F2oeHj1KjVGIyIpA8s1XQ"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 297666,
-      "name": "Synth 3",
-      "url": "https://open.spotify.com/track/7F2oeHj1KjVGIyIpA8s1XQ"
+      "duration_ms": 441533,
+      "name": "Synth 1",
+      "url": "https://open.spotify.com/track/3UEvagUTpKhD1BSSNHWkj9"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 351093,
-      "name": "Woven",
-      "url": "https://open.spotify.com/track/70kQ67AxENqAghLsofvC8c"
+      "duration_ms": 413826,
+      "name": "Star Gazing",
+      "url": "https://open.spotify.com/track/06DeoRfplLugqP2Soi6No2"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 413826,
-      "name": "Star Gazing",
-      "url": "https://open.spotify.com/track/06DeoRfplLugqP2Soi6No2"
+      "duration_ms": 351093,
+      "name": "Woven",
+      "url": "https://open.spotify.com/track/70kQ67AxENqAghLsofvC8c"
     },
     {
       "added_at": null,

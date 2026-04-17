@@ -1,13 +1,97 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2733,
+  "num_followers": 2735,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASKqhFLqy08FP/dF/kaxei3lSCOuIr",
+  "snapshot_id": "AAASLiGecyqU1dtX/2JbysQ4JsNxvqih",
   "tracks": [
+    {
+      "added_at": "2026-04-16 18:34:15",
+      "album": {
+        "name": "The One (MG Edit)",
+        "url": "https://open.spotify.com/album/1la2R2UiRASCHrsS88Nj8H"
+      },
+      "artists": [
+        {
+          "name": "Mic Giuliani",
+          "url": "https://open.spotify.com/artist/0LPvQdmSQ0sEUC8QcB8PG6"
+        }
+      ],
+      "duration_ms": 192638,
+      "name": "The One - MG Edit",
+      "url": "https://open.spotify.com/track/4RzzDTQM15DeRvDecVvUp5"
+    },
+    {
+      "added_at": "2026-04-16 16:54:12",
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/7wdkbK2k0kTFOo7jRvBGUc"
+      },
+      "artists": [
+        {
+          "name": "J-Neo",
+          "url": "https://open.spotify.com/artist/5m0jVgouc937PFIKKfFzoA"
+        }
+      ],
+      "duration_ms": 454838,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/3DN8uRW2rAayreo7gUX6Al"
+    },
+    {
+      "added_at": "2026-04-16 11:08:01",
+      "album": {
+        "name": "Flying Disco",
+        "url": "https://open.spotify.com/album/2cLAARKxFDcnIlc3YwCYIc"
+      },
+      "artists": [
+        {
+          "name": "DJ Esse",
+          "url": "https://open.spotify.com/artist/5eXb8rgQwq17mWwmotpgQc"
+        }
+      ],
+      "duration_ms": 321739,
+      "name": "Deep Vibes",
+      "url": "https://open.spotify.com/track/6qW6CjECw9itew6ca8LpNM"
+    },
+    {
+      "added_at": "2026-04-16 09:55:42",
+      "album": {
+        "name": "Beach Body Dance",
+        "url": "https://open.spotify.com/album/2CD2fydg1kxeqPLAJYI9Zi"
+      },
+      "artists": [
+        {
+          "name": "Archi K",
+          "url": "https://open.spotify.com/artist/2t0eG7qAMeAL62ZdVzlcRY"
+        },
+        {
+          "name": "Sax I",
+          "url": "https://open.spotify.com/artist/43Qup31qxWPUIwa2XxMVaN"
+        }
+      ],
+      "duration_ms": 261288,
+      "name": "Beach Body Dance",
+      "url": "https://open.spotify.com/track/6ZQhIBovTOljm5VVcCnJXc"
+    },
+    {
+      "added_at": "2026-04-16 09:55:42",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5AcHX7laCvbHwyunS88UIc"
+      },
+      "artists": [
+        {
+          "name": "TELN",
+          "url": "https://open.spotify.com/artist/2b35txC54k4KbkVnHJMrMH"
+        }
+      ],
+      "duration_ms": 232919,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/1nrNFCtwLDacRJugr7yL4q"
+    },
     {
       "added_at": "2026-04-14 14:50:54",
       "album": {

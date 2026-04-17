@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 434713,
+  "num_followers": 434648,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Sigilo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 165366,
+      "name": "Sigilo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Ac\u00fastico Show PPA (Ac\u00fastico / Ao Vivo)",
         "url": "https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Sigilo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
+        "name": "Espelho Meu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC"
       },
       "artists": [
         {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+          "name": "Henrique & Diego",
+          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
         }
       ],
-      "duration_ms": 165366,
-      "name": "Sigilo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
+      "duration_ms": 161152,
+      "name": "Espelho Meu - Ao Vivo",
+      "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -907,22 +923,6 @@
       "duration_ms": 190619,
       "name": "Duvido Voc\u00ea N\u00e3o Tomar Uma - Ao Vivo",
       "url": "https://open.spotify.com/track/43SZcLQB8jtHMuDVDHTV5S"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Espelho Meu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Diego",
-          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
-        }
-      ],
-      "duration_ms": 161152,
-      "name": "Espelho Meu - Ao Vivo",
-      "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
     },
     {
       "added_at": "2026-01-16 03:03:24",

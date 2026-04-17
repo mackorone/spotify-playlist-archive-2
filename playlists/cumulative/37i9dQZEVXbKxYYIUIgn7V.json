@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Peter, Paul and Mary",
+        "url": "https://open.spotify.com/album/1cRbbPxFMpHFeYIkLqqzBo"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162933,
+      "name": "500 Miles",
+      "url": "https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb"
+    },
+    {
+      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
       },
@@ -24736,7 +24754,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 136400,
       "name": "H\u00f6r zu",
       "url": "https://open.spotify.com/track/41cbOnM4k92XXUwXQY3nMr"
@@ -28336,7 +28354,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -42452,7 +42470,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 160928,
       "name": "Primitivo",
       "url": "https://open.spotify.com/track/4WPyb049xnzcpX0dMYK9BW"
@@ -44120,7 +44138,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 199600,
       "name": "RICHMAN",
       "url": "https://open.spotify.com/track/3JfbMm4LfBmm96mkKhyG6I"
@@ -47348,6 +47366,24 @@
       "duration_ms": 183890,
       "name": "Shut The Fuck Up And Let Go",
       "url": "https://open.spotify.com/track/7mIVlnojeJOmmezsR81cs2"
+    },
+    {
+      "album": {
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187658,
+      "name": "Shy Girl",
+      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
     },
     {
       "album": {
@@ -57230,7 +57266,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 162946,
       "name": "We Run",
       "url": "https://open.spotify.com/track/2ZGSXWF4H5HogHxtKbyckj"
@@ -61106,7 +61142,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 174545,
       "name": "\u00d6mr\u00fcm",
       "url": "https://open.spotify.com/track/4e54GhjU0PAXwbGvbwAPz6"

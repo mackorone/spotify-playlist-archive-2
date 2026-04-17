@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sadturs e KIID in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "Flaco G in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -572,6 +572,24 @@
       "duration_ms": 164568,
       "name": "38 (feat. RRARI DAL TACCO, Artie 5ive)",
       "url": "https://open.spotify.com/track/2KK5IaJLPoQADUmLPME9so"
+    },
+    {
+      "album": {
+        "name": "3:33",
+        "url": "https://open.spotify.com/album/0DXyM0l7Cchdna2ySwoFhr"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kalvin",
+          "url": "https://open.spotify.com/artist/2AAA2f9pypoLem07n4Rj9n"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156981,
+      "name": "3:33",
+      "url": "https://open.spotify.com/track/0DLpdlnRQhqj2Pk3jU9fIO"
     },
     {
       "album": {
@@ -1246,7 +1264,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 113814,
       "name": "Affari di Famiglia",
       "url": "https://open.spotify.com/track/4asfq8On9n52IARlPE7p7f"
@@ -10617,6 +10635,28 @@
     },
     {
       "album": {
+        "name": "GENESI",
+        "url": "https://open.spotify.com/album/6OVoXMg3SBr9EKHrN0F8a0"
+      },
+      "artists": [
+        {
+          "name": "Myto",
+          "url": "https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO"
+        },
+        {
+          "name": "Enny P",
+          "url": "https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132270,
+      "name": "JEFFREY EPSTEIN (feat. Enny P)",
+      "url": "https://open.spotify.com/track/2eVpMcfwUKg8RgNGtx84nR"
+    },
+    {
+      "album": {
         "name": "Jersey",
         "url": "https://open.spotify.com/album/29Q9PF20p26NQMIlafoXdI"
       },
@@ -12168,7 +12208,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 122000,
       "name": "MAHATMA",
       "url": "https://open.spotify.com/track/7hILuJZtSKO6ZBmvyzgJ76"
@@ -12638,6 +12678,24 @@
       "duration_ms": 152800,
       "name": "Massafghanistan",
       "url": "https://open.spotify.com/track/2z8mWFWbz1dyBqbLWbmPWi"
+    },
+    {
+      "album": {
+        "name": "MATTONE",
+        "url": "https://open.spotify.com/album/0CsSp5EBVxqrWEnyLGExBy"
+      },
+      "artists": [
+        {
+          "name": "Over Lapa",
+          "url": "https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140249,
+      "name": "MATTONE",
+      "url": "https://open.spotify.com/track/0VZOMTITniI3tskCL7RgU6"
     },
     {
       "album": {
@@ -13148,7 +13206,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 245853,
       "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
       "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
@@ -18883,6 +18941,24 @@
     },
     {
       "album": {
+        "name": "SEX TRAP REPEAT",
+        "url": "https://open.spotify.com/album/5nPq2Nmm3NU2BNCrWBcFep"
+      },
+      "artists": [
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145263,
+      "name": "SEX TRAP REPEAT",
+      "url": "https://open.spotify.com/track/7jhVsioCwQDGQSXFL35cEF"
+    },
+    {
+      "album": {
         "name": "Sexy Jersey",
         "url": "https://open.spotify.com/album/1zY0TsrS9Eqn6g36f2wUoH"
       },
@@ -22088,7 +22164,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 201904,
       "name": "velocista inarrestabile (feat. G.Mineiro, YD Frost, Flaco G)",
       "url": "https://open.spotify.com/track/6aEn4vhSKGXtCG8CxqHHKr"

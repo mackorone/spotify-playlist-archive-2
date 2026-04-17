@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Jasley in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "Joshua in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -840,7 +840,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 217482,
       "name": "alba",
       "url": "https://open.spotify.com/track/3ghXBFBVy0o5VlEO63WuBZ"
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 236000,
       "name": "AR Luna Park",
       "url": "https://open.spotify.com/track/2F3DuIXANQvWn8BMOsTDEf"
@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 178374,
       "name": "Bravi A Lasciarsi",
       "url": "https://open.spotify.com/track/5uB9Nm1nWyN31ZiK0qpYST"
@@ -3562,7 +3562,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 175934,
       "name": "Chiocciola/spin",
       "url": "https://open.spotify.com/track/3A5ORlX3xb8CGN62iv2dJx"
@@ -8277,6 +8277,24 @@
     },
     {
       "album": {
+        "name": "anche fallire \u00e8 un'arte",
+        "url": "https://open.spotify.com/album/76Utvc4jI69qDs3uLQQ4IH"
+      },
+      "artists": [
+        {
+          "name": "NANA X",
+          "url": "https://open.spotify.com/artist/3ff0FEpa4PmQjULCI7dtaT"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196224,
+      "name": "INGANNO (io non esisterei)",
+      "url": "https://open.spotify.com/track/03DApyRyCA2X4L5AeJQvVS"
+    },
+    {
+      "album": {
         "name": "INSTINTO",
         "url": "https://open.spotify.com/album/4zvVL3FKsY3FwsmW91cIom"
       },
@@ -9146,7 +9164,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 178000,
       "name": "la tua strada",
       "url": "https://open.spotify.com/track/1sdyBYV3veJtQZjtKXOoPb"
@@ -11013,6 +11031,24 @@
     },
     {
       "album": {
+        "name": "MI UCCIDE",
+        "url": "https://open.spotify.com/album/3nbizBffNRhOlKobXSBpsh"
+      },
+      "artists": [
+        {
+          "name": "GIOVAPI\u00d9GIOVA",
+          "url": "https://open.spotify.com/artist/2bJ8pwwyjQJfeVcLRQDnlx"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120222,
+      "name": "MI UCCIDE",
+      "url": "https://open.spotify.com/track/7g4Zaq7bR7ud0rJRRKbMaY"
+    },
+    {
+      "album": {
         "name": "Nessuna",
         "url": "https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM"
       },
@@ -11328,6 +11364,24 @@
       "duration_ms": 144000,
       "name": "muozzeco",
       "url": "https://open.spotify.com/track/0opk7SysHBG6XQo9utTIIq"
+    },
+    {
+      "album": {
+        "name": "Mwasi Chou",
+        "url": "https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ"
+      },
+      "artists": [
+        {
+          "name": "Epoque",
+          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155689,
+      "name": "Mwasi Chou",
+      "url": "https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte"
     },
     {
       "album": {
@@ -15731,6 +15785,24 @@
     },
     {
       "album": {
+        "name": "SAPORE",
+        "url": "https://open.spotify.com/album/6B1DIBVkXY3jWYK8wT9FS9"
+      },
+      "artists": [
+        {
+          "name": "Florence",
+          "url": "https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150184,
+      "name": "SAPORE",
+      "url": "https://open.spotify.com/track/1scWWCal3Xb3pHUoA8WzYH"
+    },
+    {
+      "album": {
         "name": "Sarai un ricordo",
         "url": "https://open.spotify.com/album/30sdwTQH6S91bEDROjk2B8"
       },
@@ -16064,6 +16136,24 @@
       "duration_ms": 150000,
       "name": "SEGRETO (feat. Sina Tekle)",
       "url": "https://open.spotify.com/track/0wUqkKIjEdZIMf2eaJiY6p"
+    },
+    {
+      "album": {
+        "name": "Seguimi",
+        "url": "https://open.spotify.com/album/7iThjUgQrGQMHDVh6C3YiR"
+      },
+      "artists": [
+        {
+          "name": "BEA",
+          "url": "https://open.spotify.com/artist/6v3GclaeAI15MfDOPY6alo"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241008,
+      "name": "Seguimi",
+      "url": "https://open.spotify.com/track/1uKq0pRzddjEaIIO7F5VDQ"
     },
     {
       "album": {
@@ -19190,7 +19280,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 186000,
       "name": "un'altra nel mio letto",
       "url": "https://open.spotify.com/track/69zX3dTK2h7LVJbykdBzL4"
@@ -20286,6 +20376,24 @@
       "duration_ms": 162000,
       "name": "\u2018Ncroce",
       "url": "https://open.spotify.com/track/0CZOHbZ3roRxHhUfm749Xh"
+    },
+    {
+      "album": {
+        "name": "\u2735\ud81a\uddb9 luce bambina \ud81a\uddb9\u2735",
+        "url": "https://open.spotify.com/album/2MfoEt7C4YvydCkqxByfIG"
+      },
+      "artists": [
+        {
+          "name": "Najma",
+          "url": "https://open.spotify.com/artist/0XqMXRWagj3oufGzaSBCqk"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "\u2735\ud81a\uddb9 luce bambina \ud81a\uddb9\u2735",
+      "url": "https://open.spotify.com/track/0OsrsjyPrLcDWB6Ocv2m34"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF"

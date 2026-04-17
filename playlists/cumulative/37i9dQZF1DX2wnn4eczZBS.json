@@ -652,7 +652,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 225428,
       "name": "Bob Dylan",
       "url": "https://open.spotify.com/track/5FfhOLX2T07YpFNctSrO9P"
@@ -1508,6 +1508,24 @@
       "duration_ms": 193738,
       "name": "Geest Van Het Zuiden",
       "url": "https://open.spotify.com/track/3aY93NRQyDNARcblm0javK"
+    },
+    {
+      "album": {
+        "name": "Gefeliciteerd",
+        "url": "https://open.spotify.com/album/027zmAQqyEznyL4ty6ERuG"
+      },
+      "artists": [
+        {
+          "name": "LOT",
+          "url": "https://open.spotify.com/artist/5WFiEpMZfNw5NgFTHfJA8K"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164117,
+      "name": "Gefeliciteerd",
+      "url": "https://open.spotify.com/track/14mSt9SODkDGfTawFGyIM4"
     },
     {
       "album": {
@@ -3394,7 +3412,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 160678,
       "name": "Moe Van Jezelf",
       "url": "https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo"
@@ -5800,6 +5818,28 @@
       "duration_ms": 208999,
       "name": "Zeg Me Hoe Het Moet",
       "url": "https://open.spotify.com/track/3JZHFwhoi5UnxkothjScpS"
+    },
+    {
+      "album": {
+        "name": "Zie mij graag",
+        "url": "https://open.spotify.com/album/3LE9BSOO5lfrLq8bw5eZEG"
+      },
+      "artists": [
+        {
+          "name": "Bovenste Knoopje Open",
+          "url": "https://open.spotify.com/artist/74ZDRWqO6aHeLRjAaugQej"
+        },
+        {
+          "name": "Vic Willems",
+          "url": "https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272680,
+      "name": "Zie mij graag",
+      "url": "https://open.spotify.com/track/1pc1xnIszMNn3fg3HJHZA9"
     },
     {
       "album": {

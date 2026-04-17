@@ -2,7 +2,7 @@
 
 ### [最愛...周杰倫](https://open.spotify.com/playlist/37i9dQZF1DWSBcxmKiZ0B8)
 
-> 周杰倫是華語樂壇千禧以來最重要的名字，被稱為「亞洲流行音樂新天王」。
+> 周杰倫是華語樂壇千禧以來最重要的名字，被稱為「亞洲流行音樂新天王」。<a href="spotify:presents:jaychou16">點此</a>進入「周杰倫16包廂」
 
 215 songs - 15 hr 14 min
 

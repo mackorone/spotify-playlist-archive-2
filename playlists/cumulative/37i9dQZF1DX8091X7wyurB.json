@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 556346,
       "name": "Bamba Mzalwane (Live)",
       "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 602195,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/3aNOA9cf8vm3YSuMzhbLdG"
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 237913,
       "name": "Boku",
       "url": "https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl"
@@ -2982,7 +2982,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 561714,
       "name": "Do A Work In Me - Live",
       "url": "https://open.spotify.com/track/5ts4pT5MBeNDv4FxzkcOxc"
@@ -3314,6 +3314,24 @@
       "duration_ms": 427500,
       "name": "Eledumare - Live",
       "url": "https://open.spotify.com/track/26UUHxn7Mhbav9oJIwhqYc"
+    },
+    {
+      "album": {
+        "name": "In His Presence, Vol. 15 - Who Am I",
+        "url": "https://open.spotify.com/album/37evHnW5yxhDB7jUmTbcAi"
+      },
+      "artists": [
+        {
+          "name": "Dr Paul Enenche",
+          "url": "https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319180,
+      "name": "Elohim",
+      "url": "https://open.spotify.com/track/206d91DwnGAY1quOz8auKi"
     },
     {
       "album": {
@@ -3936,6 +3954,24 @@
       "duration_ms": 417624,
       "name": "Father",
       "url": "https://open.spotify.com/track/1Y0hXpUG2enh3D9CwlD55R"
+    },
+    {
+      "album": {
+        "name": "Father",
+        "url": "https://open.spotify.com/album/3teuBwGRzSIJUxY77xTDjg"
+      },
+      "artists": [
+        {
+          "name": "Mairo Great",
+          "url": "https://open.spotify.com/artist/1jNE6zqcxeVgxJmYpQygon"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/2WPjFlvF3E8SQrOE2KkY9C"
     },
     {
       "album": {
@@ -4788,6 +4824,24 @@
       "duration_ms": 159204,
       "name": "GO!",
       "url": "https://open.spotify.com/track/2VtQ4TnLxooGfv89IC3Qc3"
+    },
+    {
+      "album": {
+        "name": "God Alone (Live)",
+        "url": "https://open.spotify.com/album/36VZypiP0OK3wfvI60Os0f"
+      },
+      "artists": [
+        {
+          "name": "OMASHINES",
+          "url": "https://open.spotify.com/artist/2WPK5MznLVJDeI440TE3QM"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260500,
+      "name": "God Alone - Live",
+      "url": "https://open.spotify.com/track/3dWxH0XNHZgC4A8Nbz8n12"
     },
     {
       "album": {
@@ -5736,7 +5790,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 389080,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6PPdWf0sxUPYMXfSFUp2n6"
@@ -8147,6 +8201,28 @@
     },
     {
       "album": {
+        "name": "Jesu O (Live)",
+        "url": "https://open.spotify.com/album/5oISUI4BzFdWp7qwe1UEjB"
+      },
+      "artists": [
+        {
+          "name": "Minstrel John Leke",
+          "url": "https://open.spotify.com/artist/4Y9c0hrqtHikpZFb7lif8o"
+        },
+        {
+          "name": "Shiloh-JewEl Idoko",
+          "url": "https://open.spotify.com/artist/4X05DqwYWzocKj5vpmzfGa"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 676848,
+      "name": "Jesu O (Live)",
+      "url": "https://open.spotify.com/track/4hN0MbGDinXaKHVyHiddwr"
+    },
+    {
+      "album": {
         "name": "The Road Best Travelled",
         "url": "https://open.spotify.com/album/7mlcnYrdZSLwKh5qgPvdXG"
       },
@@ -8820,6 +8896,24 @@
       "duration_ms": 567399,
       "name": "Live Again - Live",
       "url": "https://open.spotify.com/track/2PJtONySMmQWuMNpSg9gBo"
+    },
+    {
+      "album": {
+        "name": "Living Water (Live)",
+        "url": "https://open.spotify.com/album/4WVc8QgPdL4HX9v3ijsBY7"
+      },
+      "artists": [
+        {
+          "name": "LaKendria Ujah",
+          "url": "https://open.spotify.com/artist/6W9EZhC63QLxDCmOYmDYzb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384093,
+      "name": "Living Water - Live",
+      "url": "https://open.spotify.com/track/1qzGNhKEjKDqZuK5IO5gyp"
     },
     {
       "album": {
@@ -9522,7 +9616,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 166000,
       "name": "Miracle No Dey Tire Jesus",
       "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
@@ -10098,6 +10192,28 @@
       "duration_ms": 390447,
       "name": "My Papa",
       "url": "https://open.spotify.com/track/2EZdxvhQQ4TM4bpSCNKJVy"
+    },
+    {
+      "album": {
+        "name": "My Praise (Live Recording)",
+        "url": "https://open.spotify.com/album/3tMwkJ4APzjfk7qziJUxYY"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Eziashi",
+          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
+        },
+        {
+          "name": "Muyiwa Riversongz",
+          "url": "https://open.spotify.com/artist/5ZNX2ftHqEekKBVpRfv5BX"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 628504,
+      "name": "My Praise - Live Recording",
+      "url": "https://open.spotify.com/track/0fDkeonrdhmAxCCRS1rXQ1"
     },
     {
       "album": {
@@ -11678,6 +11794,24 @@
       "duration_ms": 265538,
       "name": "Onyeoma (Good God)",
       "url": "https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8"
+    },
+    {
+      "album": {
+        "name": "Oranmonise",
+        "url": "https://open.spotify.com/album/5rH2z6G9wONmPLzbBNPJsd"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 576341,
+      "name": "Oranmonise",
+      "url": "https://open.spotify.com/track/17rXiC1IuXGJ0FBDrzSMKN"
     },
     {
       "album": {
@@ -14832,7 +14966,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 504001,
       "name": "Unto The Lord",
       "url": "https://open.spotify.com/track/2Gzy8qkrlxYl95ZBKd73ux"
@@ -14890,7 +15024,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 400763,
       "name": "Uya Mangadza Yeso - Live",
       "url": "https://open.spotify.com/track/2Sq6Dz0ARNawM0tQFKGh7X"
@@ -15064,6 +15198,28 @@
       "duration_ms": 560000,
       "name": "Wait",
       "url": "https://open.spotify.com/track/7Jr30GSDrdnNnxuTUZmCAe"
+    },
+    {
+      "album": {
+        "name": "Wait On You",
+        "url": "https://open.spotify.com/album/43XE5518l2BLCQmqwSA15A"
+      },
+      "artists": [
+        {
+          "name": "Godwin King",
+          "url": "https://open.spotify.com/artist/3zNPsJVNyCnqjWvTPFghkC"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237792,
+      "name": "Wait On You",
+      "url": "https://open.spotify.com/track/7yErAxvmSIVzWb0BFH0U4n"
     },
     {
       "album": {

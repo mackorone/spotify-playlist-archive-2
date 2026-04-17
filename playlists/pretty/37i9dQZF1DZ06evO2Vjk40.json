@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 718350,
+  "num_followers": 718433,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAABT7MKVN0s4KAt1AKUq9Ssl",
+  "snapshot_id": "ad7VAAAAAACxI1xK4j+8yQ5tFAbETAIW",
   "tracks": [
     {
       "added_at": null,
@@ -655,26 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/4eZanBieJfTfgXAcnk9uaf"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Melissa Etheridge",
+          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
         },
         {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 209120,
-      "name": "BLOW (with Chris Stapleton & Bruno Mars)",
-      "url": "https://open.spotify.com/track/7hvO2qCwJVZxiyoA7c9i5d"
+      "duration_ms": 242875,
+      "name": "The Other Side Of Blue",
+      "url": "https://open.spotify.com/track/1orTjCUpOGDVxhpqqv6G9L"
     },
     {
       "added_at": null,
@@ -711,22 +707,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/4eZanBieJfTfgXAcnk9uaf"
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
       "artists": [
         {
-          "name": "Melissa Etheridge",
-          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 242875,
-      "name": "The Other Side Of Blue",
-      "url": "https://open.spotify.com/track/1orTjCUpOGDVxhpqqv6G9L"
+      "duration_ms": 209120,
+      "name": "BLOW (with Chris Stapleton & Bruno Mars)",
+      "url": "https://open.spotify.com/track/7hvO2qCwJVZxiyoA7c9i5d"
     },
     {
       "added_at": null,

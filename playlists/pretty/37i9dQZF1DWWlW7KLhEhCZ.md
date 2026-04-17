@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: kouth
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,164 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,160 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 71 | [Caminho$ \(feat\. Frajadx\)](https://open.spotify.com/track/378XtJcF7ZmvOpsrXQzUJh) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Harley Mc](https://open.spotify.com/artist/21HIA1rFEITRi6JHKoXAJF), [Novato Mc](https://open.spotify.com/artist/2uVEAh3RP4CqkRM9ropLxu), [Guimacê](https://open.spotify.com/artist/6aOyDUxUbS01s0rLrl4fhk), [Frajadx](https://open.spotify.com/artist/4NxS5jNLcOyPrIFlTJumfK) | [Ouro do Bairro, Vol\. 4](https://open.spotify.com/album/00tDKjn27JO98DTiINSZZs) | 3:19 |
 | 72 | [TaTaTa \- Spotify Sessions](https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [KayBlack & Burna Boy \- Spotify Sessions](https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z) | 2:45 |
 | 73 | [CENÁRIO DE HORROR](https://open.spotify.com/track/1cjM394LsQ3IoLQ6MgHLkc) | [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [D'mazo](https://open.spotify.com/artist/378Z1zBVfU16par2plZF6k), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [CENÁRIO DE HORROR](https://open.spotify.com/album/2jydjUll3DfRs7PDpJS7aV) | 1:54 |
-| 74 | [COMUM](https://open.spotify.com/track/0Kg7nwpDBXttC8jCVQogQd) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Baby](https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V) | [COMUM](https://open.spotify.com/album/06pg4DiDrZlPbb8qH7oWvi) | 3:04 |
+| 74 | [COMUM](https://open.spotify.com/track/0Kg7nwpDBXttC8jCVQogQd) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [COMUM](https://open.spotify.com/album/06pg4DiDrZlPbb8qH7oWvi) | 3:04 |
 | 75 | [Carnavalesca](https://open.spotify.com/track/75j0nsc6JU9D1a8oVJk57P) | [okie](https://open.spotify.com/artist/7cPUUMttmnzfRdM8smHaVZ), [Bena](https://open.spotify.com/artist/7ay8X74qIVNpiJMTwKprCR) | [Carnavalesca](https://open.spotify.com/album/0bMFESoU2mzbZuyWZXmbSO) | 1:54 |
 
 Snapshot ID: `AAAAAEles+sdXpy5qdJ5GyEp92GNigzS`

@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 585608,
+  "num_followers": 585802,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Perd\u00f3name",
+        "url": "https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 163466,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Krippy Kush (feat. 21 Savage & Rvssian) [Remix]",
         "url": "https://open.spotify.com/album/6PLLKjD7vpHDrl8tc7aFaR"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 236965,
       "name": "Krippy Kush (feat. 21 Savage & Rvssian) - Remix",
       "url": "https://open.spotify.com/track/038kavjqUaGIYZL5lYocvX"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Perd\u00f3name",
-        "url": "https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 163466,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2251,22 +2251,18 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "LVV the Real Rondon",
-        "url": "https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR"
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
       "artists": [
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 167028,
-      "name": "Como Me Ven",
-      "url": "https://open.spotify.com/track/7j13aYb9i5749QxSI8Yhfv"
+      "duration_ms": 141904,
+      "name": "Modo Bestia",
+      "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
     }
   ],
   "unique_name": "Trap viejito",

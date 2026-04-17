@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 ### [RADAR Argentina](https://open.spotify.com/playlist/37i9dQZF1DX6nghHfwjiMg)
 
-> El futuro está acá 📸 Little Boggie
+> Descubrí nuevos artistas, nueva música todas las semanas 📸 Little Boggie
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,491 likes - 33 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,494 likes - 33 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 32 | [Quedateloo\-O](https://open.spotify.com/track/0KU2sqzPNNU8I4LhKO2D5g) | [Zé Pequeña](https://open.spotify.com/artist/3XRUcyfxcvfUR4EHAA7p9C), [Sirÿa](https://open.spotify.com/artist/5IAu4qGafIVgRR4LryUGpW) | [A Todo Ritmo](https://open.spotify.com/album/5To2OCrmbKGiTmJO0YhqrS) | 2:37 |
 | 33 | [Marfil](https://open.spotify.com/track/2C7a49yOHA2eUHndOZ8YjJ) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [Marfil / E.M.C](https://open.spotify.com/album/3kGuw41SZs0uBDTaTudef1) | 1:42 |
 
-Snapshot ID: `AAAAAPo5c+LWsbfvqcFSDxQcKAe9eaql`
+Snapshot ID: `AAAAAKkmWwBDmrXNqhSgpbVirrraQk6F`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: Alcalá Norte
+> Meet the future of music around the world\. Cover: Tegi Pannu
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,120 likes - 21 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,128 likes - 21 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 8 | [Tou7chtk](https://open.spotify.com/track/1tGIVt8MeK4vhF9NWQ6IUs) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [AUJ](https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx) | 2:47 |
 | 9 | [El Hombre Planeta](https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Hombre Planeta](https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8) | 3:52 |
 | 10 | [Gouden Handdruk](https://open.spotify.com/track/3HryFpTCmYuRrrIs4SMSZO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Gouden Handdruk](https://open.spotify.com/album/3zDAMQGuzJza5R8dObj7HD) | 2:08 |
-| 11 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 |
-| 12 | [MEEN SAME3NA](https://open.spotify.com/track/6eSaR4ydYuADFBTwPSje8C) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [MEEN SAME3NA](https://open.spotify.com/album/4DyGmGMadiWknwVbuSpgVx) | 2:23 |
+| 11 | [MEEN SAME3NA](https://open.spotify.com/track/6eSaR4ydYuADFBTwPSje8C) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [MEEN SAME3NA](https://open.spotify.com/album/4DyGmGMadiWknwVbuSpgVx) | 2:23 |
+| 12 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 |
 | 13 | [What’s a Girl Gotta Do?](https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Room Service](https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ) | 2:47 |
 | 14 | [Believe](https://open.spotify.com/track/0P4m0R5msH9E5I2CfQx7Dg) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Believe](https://open.spotify.com/album/5UML5yybgZrFpHIMD3w7zY) | 3:42 |
 | 15 | [CENT PER CENT](https://open.spotify.com/track/4DN7qIOgFue3K9mH6sJs6Y) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [CENT PER CENT](https://open.spotify.com/album/773bcOMkLxhlik2epGoXXH) | 3:12 |

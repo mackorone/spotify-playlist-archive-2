@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,479 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,508 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 46 | [Sikam Szampan Techno](https://open.spotify.com/track/7Isl0TecJwk6ZiihNey0lp) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6) | [Sikam Szampan Techno](https://open.spotify.com/album/0vNH64YmfuzqxXTo41BMNz) | 3:08 |
 | 47 | [Traceless](https://open.spotify.com/track/62kISC6MTAMqmohFGPY0Iw) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Traceless](https://open.spotify.com/album/1JVT8ysvkvJlDfw5GlR0bX) | 3:45 |
 | 48 | [Blast Your Stereo](https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Blast Your Stereo](https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE) | 2:11 |
-| 49 | [Hate Destroyer](https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Hate Destroyer](https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb) | 2:55 |
+| 49 | [BAMM](https://open.spotify.com/track/6gFYR0l7xwGCYfiYRdwld5) | [Essociaal](https://open.spotify.com/artist/4G2YFwn4mbVinDu5MrDMI0), [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s) | [BAMM](https://open.spotify.com/album/7vQcXvS4vvL3Kghayv2IjY) | 3:01 |
 | 50 | [The Nightmare Man](https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [The Nightmare Man](https://open.spotify.com/album/3oXDaPVMjVKy0QdScVeYyU) | 3:06 |
 
 Snapshot ID: `AAAAAK+eMdnUOVnsEtAc8dE0PfW0YCh+`

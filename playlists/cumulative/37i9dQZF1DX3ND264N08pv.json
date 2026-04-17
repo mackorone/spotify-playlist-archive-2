@@ -453,6 +453,28 @@
     },
     {
       "album": {
+        "name": "BAMM",
+        "url": "https://open.spotify.com/album/7vQcXvS4vvL3Kghayv2IjY"
+      },
+      "artists": [
+        {
+          "name": "Essociaal",
+          "url": "https://open.spotify.com/artist/4G2YFwn4mbVinDu5MrDMI0"
+        },
+        {
+          "name": "Hans Glock",
+          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181411,
+      "name": "BAMM",
+      "url": "https://open.spotify.com/track/6gFYR0l7xwGCYfiYRdwld5"
+    },
+    {
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG"
       },
@@ -3270,7 +3292,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 175000,
       "name": "Hate Destroyer",
       "url": "https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0"

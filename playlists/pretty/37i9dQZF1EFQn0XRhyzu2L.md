@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,494 likes - 402 songs - 22 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,496 likes - 402 songs - 22 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 51 | [Acoustic](https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 2:52 |
 | 52 | [Tongue Tied \(with YUNGBLUD & blackbear\)](https://open.spotify.com/track/3xvthxS30q9iPgDKputvyM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Tongue Tied \(with YUNGBLUD & blackbear\)](https://open.spotify.com/album/5kz8Zdv4SUXmuWdqOgTISl) | 3:06 |
 | 53 | [Pretty Girls](https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:26 |
-| 54 | [Worst In Me](https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 3:22 |
-| 55 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 |
+| 54 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 |
+| 55 | [Worst In Me](https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 3:22 |
 | 56 | [Alice](https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:57 |
 | 57 | [it's not u it's me](https://open.spotify.com/track/7cLm450e9XaPrEZTSTsfwU) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [it's not u it's me](https://open.spotify.com/album/2H7CLWulZOueBe1Hjtznm1) | 3:14 |
 | 58 | [Start Over](https://open.spotify.com/track/2Iug43iQrHN8CbGsUd2tEt) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:06 |
@@ -322,8 +322,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 312 | [Pictures of You](https://open.spotify.com/track/4LVcQI2OT4JRb4riFwQXuK) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [Pictures of You](https://open.spotify.com/album/2ES8m0KwPOWaYoDuAQ1azW) | 3:14 |
 | 313 | [My Rules](https://open.spotify.com/track/3WjEuK8hRX3u13eTxZXhMK) | [Jadagrace](https://open.spotify.com/artist/6fmhVXwUMitRwDRCJVIxmA) | [My Rules](https://open.spotify.com/album/0pryFF1ovjtrxuvclVIQ0Y) | 3:03 |
 | 314 | [Better Off Alone](https://open.spotify.com/track/6V7CjTVnam4vUZrXouZYJI) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Very Jonas Christmas Movie \(Original Soundtrack\)](https://open.spotify.com/album/1IJDQOKfMGSDKy1St3nJVc) | 3:00 |
-| 315 | [Semi Precious Weapons](https://open.spotify.com/track/2ZvFC6reAtpxXN1CHjWsRc) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [You Love You](https://open.spotify.com/album/6hwVVJuEBCHwAYnkMttS6S) | 3:06 |
-| 316 | [Casual Lady](https://open.spotify.com/track/56edMzlWCGCZNsTGAXbZDs) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Casual Lady](https://open.spotify.com/album/5wA8jdtd6ipkhSILzenhzh) | 3:14 |
+| 315 | [Casual Lady](https://open.spotify.com/track/56edMzlWCGCZNsTGAXbZDs) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Casual Lady](https://open.spotify.com/album/5wA8jdtd6ipkhSILzenhzh) | 3:14 |
+| 316 | [Semi Precious Weapons](https://open.spotify.com/track/2ZvFC6reAtpxXN1CHjWsRc) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [You Love You](https://open.spotify.com/album/6hwVVJuEBCHwAYnkMttS6S) | 3:06 |
 | 317 | [Midnight In Tokyo](https://open.spotify.com/track/2L7Lx8z4g57Kdz8oJ0A23k) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Lucky Ones \(Deluxe\)](https://open.spotify.com/album/2ryebd6mWqm1tI2Wr4ZbMp) | 3:17 |
 | 318 | [Strangers](https://open.spotify.com/track/701MqraZ3kyR5uXRyU6iN3) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 4:23 |
 | 319 | [Cold World](https://open.spotify.com/track/7f2DtLP4F17xdbFRvKJPgq) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Big Fat Lie \(Deluxe\)](https://open.spotify.com/album/4bri66CrtrD3e2I6ge0Ja0) | 3:26 |
@@ -411,4 +411,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 401 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 402 | [Killing Me \- MissisBliss, Jordan \(ES\) Remix](https://open.spotify.com/track/4fZ8XO8vMzcljxOQLa3eXl) | [Jordan \(ES\)](https://open.spotify.com/artist/1gl8rc6F9a4BXOHa3ypGHk), [Oscar Vera](https://open.spotify.com/artist/0saYjOjp2B19PdPJU5VBXs), [MissisBliss](https://open.spotify.com/artist/72NF2nTtoePYZEAQwXp3b6) | [I Belive EP](https://open.spotify.com/album/4tHjtUEDMsWnT5Ob7KWmyk) | 5:32 |
 
-Snapshot ID: `AcO9AAAAAACyxqXSUwMaij19v4S2Dynw`
+Snapshot ID: `AcPCoAAAAADih7DJ24DnQs+2tZ9Uat8u`

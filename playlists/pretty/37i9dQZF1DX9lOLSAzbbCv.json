@@ -1,12 +1,12 @@
 {
   "description": "\u0425\u0456\u0442\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0435\u043f\u0443. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Parfeniuk & Scroodgee",
-  "num_followers": 46201,
+  "num_followers": 46210,
   "original_name": "\u0420\u0435\u043f \u0445\u0456\u0442\u0438",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ7XYkN1FwY0z7Y0CwDpzcJ01LJG",
+  "snapshot_id": "AAAAAF+qwERN1guQLjajQz8J5JuYU+Vh",
   "tracks": [
     {
       "added_at": "2026-04-10 14:27:39",
@@ -27,6 +27,22 @@
       "duration_ms": 164571,
       "name": "\u0411\u043e\u043c\u0431\u0438\u0442\u044c",
       "url": "https://open.spotify.com/track/5lfAtjdZNkomb4vs9K12QX"
+    },
+    {
+      "added_at": "2026-04-16 21:00:33",
+      "album": {
+        "name": "\u0422\u0430\u043b\u0430\u043d\u0442.",
+        "url": "https://open.spotify.com/album/1JNqPxc1Cii8UnHCa8XMis"
+      },
+      "artists": [
+        {
+          "name": "lesfleures",
+          "url": "https://open.spotify.com/artist/5rvTaikujPdqylzMhjYsVn"
+        }
+      ],
+      "duration_ms": 111483,
+      "name": "\u041a\u0456\u043b\u043e\u043c\u0435\u0442\u0440\u0438",
+      "url": "https://open.spotify.com/track/686IIGkIhXlr3oF78XoGmT"
     },
     {
       "added_at": "2026-04-10 14:27:39",
@@ -607,22 +623,6 @@
       "duration_ms": 153750,
       "name": "\u041f\u0430\u0440\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/0JUfqu1dhWpt3yuNp48iwi"
-    },
-    {
-      "added_at": "2026-04-10 14:27:39",
-      "album": {
-        "name": "Minimum",
-        "url": "https://open.spotify.com/album/5RCR4cWhqWQjfUTaYf42OH"
-      },
-      "artists": [
-        {
-          "name": "kavabanga Depo kolibri",
-          "url": "https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/2z5LKY5a2QESEgPk2Gpwqx"
     },
     {
       "added_at": "2026-04-10 14:27:39",

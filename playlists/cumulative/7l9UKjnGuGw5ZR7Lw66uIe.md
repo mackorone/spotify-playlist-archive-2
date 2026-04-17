@@ -4,7 +4,7 @@
 
 > neler yaşamışım ben ya...
 
-37 songs - 1 hr 44 min
+38 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [yazık ettin](https://open.spotify.com/track/2bdngNxumON7IUnZe6Wada) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yazık ettin](https://open.spotify.com/album/3nXqsbUDmDkTv0dXsvBzNF) | 2:50 | 2024-09-13 |  |
 | [yine bana kal](https://open.spotify.com/track/5XXXU9Nx21Klm3vZwyC9V2) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yine bana kal](https://open.spotify.com/album/59ACJKAX7mYDjX8lwIXCTX) | 3:03 | 2024-01-26 |  |
 | [Yıkılana Kadar](https://open.spotify.com/track/3lIVcbwGFHXCxhm3fjAqss) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Yıkılana Kadar](https://open.spotify.com/album/3oP289E84GWpjyPFWfE3qg) | 3:00 | 2025-11-06 |  |
+| [Yıkılana Kadar \- with İrem Derici](https://open.spotify.com/track/7i06FmelUto7k4Y3j4Vc7f) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Yıkılana Kadar \(with İrem Derici\)](https://open.spotify.com/album/4eo1mwSnNEoNhwOzY8odR1) | 3:00 | 2026-04-16 |  |
 | [zalim](https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [zalim](https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv) | 2:10 | 2024-08-02 |  |
 | [ZAR ZOR](https://open.spotify.com/track/7i3U8xnLEtkzzsetcu4j7s) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [ZAR ZOR](https://open.spotify.com/album/3RwVkeAdTEEs5JU4xQ34y7) | 2:31 | 2022-07-27 |  |
 | [ZAR ZOR \(Aytaç Kart Remix\) \(feat\. Aytac Kart\)](https://open.spotify.com/track/1H4qxPotx1YuUacESzS6E3) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Aytac Kart](https://open.spotify.com/artist/66AHlsRl8ONmvQCiuVIdJ3) | [ZAR ZOR \(Aytaç Kart Remix\) \(feat\. Aytac Kart\)](https://open.spotify.com/album/51kSkawyx2mHLBEAmu3tBl) | 2:49 | 2022-07-27 | 2025-04-11 |

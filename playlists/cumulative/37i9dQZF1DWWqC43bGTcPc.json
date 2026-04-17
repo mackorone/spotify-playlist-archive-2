@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u5468\u6770\u502b ",
+  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u6d3e\u5049\u4fca",
   "name": "\u6700Hit\u83ef\u8a9e\u699c",
   "tracks": [
     {
@@ -742,7 +742,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 235781,
       "name": "Deadend (\u6d3b\u8a72)",
       "url": "https://open.spotify.com/track/7kTascTa0lCunmQyCtX9iU"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 197663,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/6yPJonblWxOkMVscbU8c45"
@@ -3665,6 +3665,24 @@
     },
     {
       "album": {
+        "name": "\u300a\u9010\u7389\u300b \u5f71\u89c6\u539f\u58f0\u5e26",
+        "url": "https://open.spotify.com/album/2k86NBEelfaj8iqDZ9ppqa"
+      },
+      "artists": [
+        {
+          "name": "\u5f20\u7d2b\u5b81 / \u674e\u946b\u4e00",
+          "url": "https://open.spotify.com/artist/2OL7dKjcDZjMiPjFohbmAZ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "\u4e00\u5ff5 (\u5f71\u89c6\u5267\u300a\u9010\u7389\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/1iZVXRo5IcIradUoVYymRW"
+    },
+    {
+      "album": {
         "name": "\u5e36\u4f60\u98db",
         "url": "https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy"
       },
@@ -4440,6 +4458,24 @@
       "duration_ms": 198333,
       "name": "\u4e0d\u60f3\u518d\u611b",
       "url": "https://open.spotify.com/track/57rC2DMTHTzO2olnXWgABf"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u60f3\u518d\u8b93\u4f60\u54ed",
+        "url": "https://open.spotify.com/album/1NjxB5pU8fe7ttL10QrrCs"
+      },
+      "artists": [
+        {
+          "name": "\u5468\u7956\u5b89",
+          "url": "https://open.spotify.com/artist/1x50iht7O1AAi9671KbiA6"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163880,
+      "name": "\u4e0d\u60f3\u518d\u8b93\u4f60\u54ed",
+      "url": "https://open.spotify.com/track/2Dx0qpw947mEuTE95aeixa"
     },
     {
       "album": {
@@ -13800,7 +13836,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 201495,
       "name": "\u62fc\u4e00\u500b\u6d6a\u6f2b",
       "url": "https://open.spotify.com/track/1aw0qanOEfpwqoRM1qfTk3"
@@ -14288,7 +14324,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 202228,
       "name": "\u65e9\u5230\u7684U",
       "url": "https://open.spotify.com/track/0O0Sh3Q7CXSIGHReW4kPyo"
@@ -16566,6 +16602,24 @@
       "duration_ms": 170181,
       "name": "\u6df1\u7231\u7684\u4f60",
       "url": "https://open.spotify.com/track/3beJucbnWJmuCrbmGDZt8X"
+    },
+    {
+      "album": {
+        "name": "\u300a\u9010\u7389\u300b \u5f71\u89c6\u539f\u58f0\u5e26",
+        "url": "https://open.spotify.com/album/2k86NBEelfaj8iqDZ9ppqa"
+      },
+      "artists": [
+        {
+          "name": "\u90c1\u53ef\u552f",
+          "url": "https://open.spotify.com/artist/4XOgZBMcpRQqKHbE8L9zW1"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204512,
+      "name": "\u6e05\u6e05\u5982\u6211 (\u5f71\u89c6\u5267\u300a\u9010\u7389\u300b\u6292\u60c5\u4e3b\u9898\u66f2)",
+      "url": "https://open.spotify.com/track/5efxFEdG46hIOqQm9mZNGH"
     },
     {
       "album": {
@@ -22362,7 +22416,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 173239,
       "name": "\u9ecf\u8e22\u8e22",
       "url": "https://open.spotify.com/track/2ie8EJUt1qBUZLAjOZuDOD"

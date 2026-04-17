@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,323 likes - 50 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,349 likes - 50 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 49 | [Mirapakai](https://open.spotify.com/track/5XzWkd0hxTesChmAs2o00G) | [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [Mirapakay](https://open.spotify.com/album/7jsaQdNi0QERa22Wm7NVq7) | 1:16 |
 | 50 | [Rise of Karthikeya](https://open.spotify.com/track/2tdFX0TdftpyaixQ2OJPvE) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA) | [Karthikeya](https://open.spotify.com/album/5e0PXRVSqL2hqJ4RysHdTC) | 1:21 |
 
-Snapshot ID: `AAAAAED5oX7kY6oq2wIn2ZwymGSrYjn1`
+Snapshot ID: `AAAAABn7CyftFtN8hJSdkcwxL2APr7nr`

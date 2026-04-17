@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "For the new generation of trendsetters coming through, we move. Cover: Paul Stephan",
+  "description": "For the new generation of trendsetters coming through, we move. Cover: KhakiKid",
   "name": "We Move",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 121031,
       "name": "2026",
       "url": "https://open.spotify.com/track/1LZX6iUlpK8tuPs1nx2Cdy"
@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "BAD BIT*HES",
+        "url": "https://open.spotify.com/album/7v7FPD08cAGFdHhrMro5bD"
+      },
+      "artists": [
+        {
+          "name": "Booter Bee",
+          "url": "https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126119,
+      "name": "BAD BIT*HES",
+      "url": "https://open.spotify.com/track/59PzAZnukiRBQJnbPEWzjb"
+    },
+    {
+      "album": {
         "name": "Bk2life",
         "url": "https://open.spotify.com/album/2BUn48YdQFkDHOr7F9pbUT"
       },
@@ -298,7 +316,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 154105,
       "name": "BLEND IN",
       "url": "https://open.spotify.com/track/1xRYvt8LFr9gGv2Ktg7Xic"
@@ -515,6 +533,28 @@
     },
     {
       "album": {
+        "name": "caught up",
+        "url": "https://open.spotify.com/album/37CZe90UUBmPPedcTo6cc6"
+      },
+      "artists": [
+        {
+          "name": "nikhil",
+          "url": "https://open.spotify.com/artist/21Nhs4mlXS9iS4wR1VV6Sp"
+        },
+        {
+          "name": "Hadji Gaviota",
+          "url": "https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "caught up",
+      "url": "https://open.spotify.com/track/3ItBDVIrb7rwSy1v4aLuQD"
+    },
+    {
+      "album": {
         "name": "Chancer",
         "url": "https://open.spotify.com/album/6DuDANtEfqCWZ6HafjRWdT"
       },
@@ -654,7 +694,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 137000,
       "name": "Debut",
       "url": "https://open.spotify.com/track/1UZJ4hNtLJSctGQi41zqLN"
@@ -748,6 +788,42 @@
       "duration_ms": 98297,
       "name": "Do Too Much",
       "url": "https://open.spotify.com/track/7iPrQixC1StJegCF468i5T"
+    },
+    {
+      "album": {
+        "name": "does it still rain?",
+        "url": "https://open.spotify.com/album/3dLcb6UK74af7IgA7vAq8B"
+      },
+      "artists": [
+        {
+          "name": "BEASTIE",
+          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "does it still rain?",
+      "url": "https://open.spotify.com/track/2QrFAGaJXM1gnJsbfE0zrO"
+    },
+    {
+      "album": {
+        "name": "DON'T ASK!",
+        "url": "https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182395,
+      "name": "DON'T ASK!",
+      "url": "https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA"
     },
     {
       "album": {
@@ -872,7 +948,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 123428,
       "name": "Everest",
       "url": "https://open.spotify.com/track/0XUiK6UHJJP3X7aE8W2Aa9"
@@ -1234,7 +1310,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 88775,
       "name": "Grandad",
       "url": "https://open.spotify.com/track/3lyJqisiNRrhiXlYDR5zT7"
@@ -1252,7 +1328,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 196967,
       "name": "Headside In Da Skiez (Babycham Supernova)",
       "url": "https://open.spotify.com/track/4ol6wLKnSSiu7MpPhYvIrk"
@@ -1492,7 +1568,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 117428,
       "name": "i_aint_fly (G6)",
       "url": "https://open.spotify.com/track/0gzF6cVbWR9pxvsLgC4wTi"
@@ -1845,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "More Than U Know",
+        "url": "https://open.spotify.com/album/2l11S3y24CE9s3zeM5AunP"
+      },
+      "artists": [
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158770,
+      "name": "More Than U Know",
+      "url": "https://open.spotify.com/track/2ALJOResYdGVnp7LvYmE21"
+    },
+    {
+      "album": {
         "name": "Move on",
         "url": "https://open.spotify.com/album/2nLoFygVWZrgN2Bxf3B40q"
       },
@@ -1856,7 +1950,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 150430,
       "name": "Move on",
       "url": "https://open.spotify.com/track/2x3ysVnMpdIwtski9oYQPJ"
@@ -2265,6 +2359,24 @@
     },
     {
       "album": {
+        "name": "BLUEBOY",
+        "url": "https://open.spotify.com/album/2NVOpcr50Ltvk7eOnG9CGi"
+      },
+      "artists": [
+        {
+          "name": "Finn Askew",
+          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150069,
+      "name": "Save My Time",
+      "url": "https://open.spotify.com/track/21pwm56tB8PTqEPQbKVllE"
+    },
+    {
+      "album": {
         "name": "Say What's Up",
         "url": "https://open.spotify.com/album/4bVnuj0kX8bcAjA6n9zlf3"
       },
@@ -2377,6 +2489,28 @@
     },
     {
       "album": {
+        "name": "Shoes Up",
+        "url": "https://open.spotify.com/album/4kyRqympwe9wDsLOGhxjnT"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        },
+        {
+          "name": "Joe Butler",
+          "url": "https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "Shoes Up",
+      "url": "https://open.spotify.com/track/0C9iEXm7FXYN6wta1XjRy6"
+    },
+    {
+      "album": {
         "name": "Siren Song",
         "url": "https://open.spotify.com/album/7MjKeqKVTb6MU0TG4YaOng"
       },
@@ -2388,7 +2522,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 177915,
       "name": "Siren Song",
       "url": "https://open.spotify.com/track/5paAVu6xnigUiRzIGNNEWN"
@@ -2598,7 +2732,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 141176,
       "name": "Soul",
       "url": "https://open.spotify.com/track/02rwWyN3w5hneOnazVbEuW"
@@ -2624,6 +2758,24 @@
       "duration_ms": 192060,
       "name": "Special - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6BJkASXKRj1fMX8ZRMmD1Z"
+    },
+    {
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "SPLINTER",
+      "url": "https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj"
     },
     {
       "album": {
@@ -2959,6 +3111,24 @@
     },
     {
       "album": {
+        "name": "Til95",
+        "url": "https://open.spotify.com/album/1wrQ1BOVXdnDFyksxMuC70"
+      },
+      "artists": [
+        {
+          "name": "Downtown Kayoto",
+          "url": "https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136093,
+      "name": "Til95",
+      "url": "https://open.spotify.com/track/6RhMNlG85piPym1au9zWTZ"
+    },
+    {
+      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/3YT79msB3OrgU1qvd7vyot"
       },
@@ -3247,6 +3417,24 @@
     },
     {
       "album": {
+        "name": "WAY U MOVE",
+        "url": "https://open.spotify.com/album/53j5zsXCSgA1ufUYC05uQx"
+      },
+      "artists": [
+        {
+          "name": "JD Cliffe",
+          "url": "https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "WAY U MOVE",
+      "url": "https://open.spotify.com/track/0Ne9qvEn0GN5ixFUyPm7RP"
+    },
+    {
+      "album": {
         "name": "ab, we wanna party!",
         "url": "https://open.spotify.com/album/0Mip5DiQijAAI9gX80ypGA"
       },
@@ -3298,7 +3486,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 132413,
       "name": "What's Gud?",
       "url": "https://open.spotify.com/track/7ivX7rXBpUVvlj0Y1upFyR"

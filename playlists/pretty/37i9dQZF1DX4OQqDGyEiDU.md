@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > Explore the current wave of VOCALOID culture\. Cover: NILFRUITS
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,097 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,103 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 9 | [メズマライザー \(feat\. 初音ミク&重音テト\)](https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [メズマライザー](https://open.spotify.com/album/3DkZ625ZGRV80f5aFnlPCL) | 2:36 |
 | 10 | [いい国夢気分](https://open.spotify.com/track/4BSFFzyd7OS6PPaHchaFOu) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [必死](https://open.spotify.com/album/6xmiMQEOeFgvh8Tot6ueMv) | 2:52 |
 | 11 | [個々々々々々人](https://open.spotify.com/track/1QPzvGlrRXbv3KVH2lgyJv) | [Sohbana](https://open.spotify.com/artist/1wdjWyhvXFyP3gBWVGZiS5) | [個々々々々々人](https://open.spotify.com/album/3x8GCTGhjM1RYH5Ij1woET) | 3:00 |
-| 12 | [モニタリング](https://open.spotify.com/track/1iywVk6Xx1XmJwd0rExYI3) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [モニタリング](https://open.spotify.com/album/66YO0i7JPJqriHH4olIqdr) | 2:56 |
+| 12 | [ラビットホール](https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラビットホール](https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS) | 2:39 |
 | 13 | [address](https://open.spotify.com/track/72cV03SdW2D3qF6ihADzwI) | [miyu](https://open.spotify.com/artist/3VfQZXT5mEj0pZYapWSpDh), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [address](https://open.spotify.com/album/3Qf0BoJVQgDZJ3tBD4xNW4) | 2:59 |
 | 14 | [メルト \- CPK! Remix](https://open.spotify.com/track/6nZ3a0UPrYgvVghFvV0ffk) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [CPK! Remix](https://open.spotify.com/album/3t2VNxS4trJfr9cCIohZ2c) | 4:30 |
 | 15 | [テトリス](https://open.spotify.com/track/6LIpqsMbsfc8I7F0dsFXsv) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [テトリス](https://open.spotify.com/album/2oyxublk7MjXShFbm7ca0S) | 2:22 |
 | 16 | [Baumkuchen\_EndCredits](https://open.spotify.com/track/3W9qs513ZgVEqK0EN9Okjt) | [amala](https://open.spotify.com/artist/6gsYua8nnnutLOGReIJHsK) | [Baumkuchen\_EndCredits](https://open.spotify.com/album/1X4eosGFqxc1vzqAkWnWq4) | 2:24 |
-| 17 | [ラビットホール](https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラビットホール](https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS) | 2:39 |
+| 17 | [モニタリング](https://open.spotify.com/track/1iywVk6Xx1XmJwd0rExYI3) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [モニタリング](https://open.spotify.com/album/66YO0i7JPJqriHH4olIqdr) | 2:56 |
 | 18 | [デロスサントス](https://open.spotify.com/track/5W6i71A1a4cZL9bQ6CN4qv) | [山本](https://open.spotify.com/artist/00fzpOBrYFD3sfklXqTkBU) | [デロスサントス](https://open.spotify.com/album/7aQIYdwuQ2eVhqM19FO5X5) | 3:21 |
 | 19 | [ダイダイダイダイダイキライ](https://open.spotify.com/track/1gFVXBVuYlDUIEdwOrN5T8) | [雨良](https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl) | [ダイダイダイダイダイキライ](https://open.spotify.com/album/2OfdrTwI2aGBqRVUqyrWmt) | 2:36 |
 | 20 | [酔いどれ知らず](https://open.spotify.com/track/4oPCfEDVIKnPJ6UPkhJPCa) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [酔いどれ知らず](https://open.spotify.com/album/4mLK5FpqwN0OwbDw3tToit) | 2:14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The latest of R&B rising in the UK. Cover: Bellah",
+  "description": "The latest of R&B rising in the UK. Cover: Finn Askew",
   "name": "R&B UK",
   "tracks": [
     {
@@ -396,6 +396,28 @@
       "duration_ms": 246400,
       "name": "Aged Eyes",
       "url": "https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5Dj7KRmVUnjxz1MdNfgSMH"
+      },
+      "artists": [
+        {
+          "name": "Marie Dahlstrom",
+          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
+        },
+        {
+          "name": "Jords",
+          "url": "https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209146,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1Vdt5HO84vJr6hGui1rGie"
     },
     {
       "album": {
@@ -1772,7 +1794,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 149488,
       "name": "Class A",
       "url": "https://open.spotify.com/track/3X5VHuawDizSLFIYpJQD5U"
@@ -4085,6 +4107,24 @@
     },
     {
       "album": {
+        "name": "Hang It On The Shelf",
+        "url": "https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145786,
+      "name": "Hang It On The Shelf",
+      "url": "https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK"
+    },
+    {
+      "album": {
         "name": "Hard To Be",
         "url": "https://open.spotify.com/album/66VsC4E6NmpkcMC03kraZz"
       },
@@ -5962,7 +6002,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 229583,
       "name": "Light",
       "url": "https://open.spotify.com/track/5Mlitki4j9rXjKEapw0lUJ"
@@ -7650,7 +7690,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 218150,
       "name": "Open Light",
       "url": "https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h"
@@ -8297,6 +8337,24 @@
     },
     {
       "album": {
+        "name": "RERUN",
+        "url": "https://open.spotify.com/album/6gKn5nH8qm3hXkLtEkcK8M"
+      },
+      "artists": [
+        {
+          "name": "JEDSOUL",
+          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144225,
+      "name": "RERUN",
+      "url": "https://open.spotify.com/track/6sU5Psf8N5Aq4517Sc9g24"
+    },
+    {
+      "album": {
         "name": "A Little Lost, A Little Found",
         "url": "https://open.spotify.com/album/60vFu4HyCBEE5YgIIMZaEg"
       },
@@ -8558,6 +8616,24 @@
       "duration_ms": 114310,
       "name": "sauna",
       "url": "https://open.spotify.com/track/1IzaYVea9wm69Tby8ekGSD"
+    },
+    {
+      "album": {
+        "name": "BLUEBOY",
+        "url": "https://open.spotify.com/album/2NVOpcr50Ltvk7eOnG9CGi"
+      },
+      "artists": [
+        {
+          "name": "Finn Askew",
+          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150069,
+      "name": "Save My Time",
+      "url": "https://open.spotify.com/track/21pwm56tB8PTqEPQbKVllE"
     },
     {
       "album": {
@@ -9100,6 +9176,24 @@
       "duration_ms": 165000,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
+    },
+    {
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "SPLINTER",
+      "url": "https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj"
     },
     {
       "album": {
@@ -9892,7 +9986,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 206793,
       "name": "Thank You (feat. Yukimi)",
       "url": "https://open.spotify.com/track/2ZXstywlOq3OrFDhxXGHyo"
@@ -10590,7 +10684,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 214254,
       "name": "Water",
       "url": "https://open.spotify.com/track/0iPRaGu0MkIfLHRjFfWedg"

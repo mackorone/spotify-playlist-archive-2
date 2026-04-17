@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Original Koffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,149,773 likes - 110 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,149,547 likes - 110 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,9 +114,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 104 | [Look Deep](https://open.spotify.com/track/2kfNmluPa17SRaKtjFpQ2x) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Look Deep](https://open.spotify.com/album/4k5gEubeYKoHDOyVjxn8ex) | 2:57 |
 | 105 | [Ring The Alarm](https://open.spotify.com/track/1jxQKV6UlzV3scs6SMBHNX) | [Tenor Saw](https://open.spotify.com/artist/1LAgDHjyZvOQf39Fa9rtlT) | [Little Sound Boy](https://open.spotify.com/album/79q0gy6D49JPt0mUJPjw3k) | 2:56 |
 | 106 | [Enemy](https://open.spotify.com/track/2Cc0WpZVvtzKNlFbpLGIqF) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Enemy](https://open.spotify.com/album/27kVp8H89oU90F0umUVzKL) | 2:18 |
-| 107 | [Dangerous \(with Busy Signal & The Movement\)](https://open.spotify.com/track/087SR6Yy8rFPssgPXChZCo) | [Hector Roots Lewis](https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL) | [Dangerous \(with Busy Signal & The Movement\)](https://open.spotify.com/album/5VNHisrt6cTjxN8fPaVBTW) | 3:33 |
-| 108 | [Africa Must Wake Up](https://open.spotify.com/track/2TjwK8EkwVUBty7eBUPCYD) | [Nas & Damian "Jr\. Gong" Marley](https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe), [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Distant Relatives](https://open.spotify.com/album/6Cj4gSdavyZCIhmeoCcrI6) | 6:40 |
-| 109 | [Selassie is the Chapel](https://open.spotify.com/track/6347eqxZEaPQr9Y4hSAgc2) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Selassie is the Chapel](https://open.spotify.com/album/6gkiVkkaGUkZRsv6GNOpRd) | 3:32 |
-| 110 | [In My Arms](https://open.spotify.com/track/6lWwV7yfTJH0sPMqd1lpfq) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [One Love, One Life](https://open.spotify.com/album/6Zx65ILksaqErTeClBiVl1) | 3:44 |
+| 107 | [Africa Must Wake Up](https://open.spotify.com/track/2TjwK8EkwVUBty7eBUPCYD) | [Nas & Damian "Jr\. Gong" Marley](https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe), [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Distant Relatives](https://open.spotify.com/album/6Cj4gSdavyZCIhmeoCcrI6) | 6:40 |
+| 108 | [Dangerous \(with Busy Signal & The Movement\)](https://open.spotify.com/track/087SR6Yy8rFPssgPXChZCo) | [Hector Roots Lewis](https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL) | [Dangerous \(with Busy Signal & The Movement\)](https://open.spotify.com/album/5VNHisrt6cTjxN8fPaVBTW) | 3:33 |
+| 109 | [In My Arms](https://open.spotify.com/track/6lWwV7yfTJH0sPMqd1lpfq) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [One Love, One Life](https://open.spotify.com/album/6Zx65ILksaqErTeClBiVl1) | 3:44 |
+| 110 | [Selassie is the Chapel](https://open.spotify.com/track/6347eqxZEaPQr9Y4hSAgc2) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Selassie is the Chapel](https://open.spotify.com/album/6gkiVkkaGUkZRsv6GNOpRd) | 3:32 |
 
 Snapshot ID: `AAAAAHiwbR+4ntnw96cZ+FRbbqNcm3rI`

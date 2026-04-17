@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 546820,
+  "num_followers": 546906,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAACz0OfdNfkj1Pboy0nfnfOw",
+  "snapshot_id": "ad7VAAAAAADKXbkB0X0wcsDErlwQnZXI",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Stage",
-        "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 221973,
-      "name": "God Damn",
-      "url": "https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Stage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 512024,
       "name": "The Stage",
       "url": "https://open.spotify.com/track/69gBAQdpxvCsw34Bbf8MnD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Stage",
+        "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 221973,
+      "name": "God Damn",
+      "url": "https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7"
     },
     {
       "added_at": null,

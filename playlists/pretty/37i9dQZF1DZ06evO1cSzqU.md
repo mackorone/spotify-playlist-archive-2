@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,818 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,861 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [You Give Me All I Need](https://open.spotify.com/track/4t2dUobtoXRlqxz2pIxp71) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:38 |
 | 50 | [In Search Of The Peace Of Mind \- 2026 Mix](https://open.spotify.com/track/5J3Xja8A1W3Tj0WJ3Lnh5f) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lonesome Crow \(2026 Mix\)](https://open.spotify.com/album/0qhXnEKarNqXNXmOgOulxB) | 4:53 |
 
-Snapshot ID: `ad2DgAAAAAAehmuhWlo692GxnFkYA3wi`
+Snapshot ID: `ad7VAAAAAAC3o0QnFa3r6GRXzJ334hLZ`

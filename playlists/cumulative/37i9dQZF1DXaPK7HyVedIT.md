@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok, Khalid
 
-884 songs - 2 day 0 hr 50 min
+884 songs - 2 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -726,7 +726,7 @@
 | [SMACK MY BITCH UP](https://open.spotify.com/track/1PGjrdORlsE1vZ7aZh3gF2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Amesens](https://open.spotify.com/artist/10fNI7PF4BbCeORkKdjRrN) | [SMACK MY BITCH UP](https://open.spotify.com/album/7qxB5oguYnStizAjwTB0Q8) | 3:44 | 2024-10-11 | 2024-11-16 |
 | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Carolina Liar](https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi) | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im) | 3:12 | 2024-07-19 | 2024-08-03 |
 | [Smooth Operator](https://open.spotify.com/track/799wx0ioF4BzmdiV1YN49S) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Visage Music](https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko), [Brave Culture](https://open.spotify.com/artist/2ae35zW7NgAB7k7XlWYOcd) | [Smooth Operator](https://open.spotify.com/album/3cTuGp98cRGHDTlLGSPz9z) | 3:38 | 2025-06-13 | 2025-09-26 |
-| [So Am I](https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder](https://open.spotify.com/album/1LL2XVTzO6xLRNMag9XtXV) | 3:11 | 2026-02-06 |  |
+| [So Am I](https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder](https://open.spotify.com/album/1LL2XVTzO6xLRNMag9XtXV) | 4:43 | 2026-02-06 |  |
 | [So Far So Good](https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [So Far So Good](https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11) | 2:42 | 2024-03-08 | 2024-03-23 |
 | [Somebody to Love](https://open.spotify.com/track/5TXKD2zQ5bK90ifrBjNdDB) | [Dj Remo](https://open.spotify.com/artist/2rXNDwn76DVzIrU2ytI7nW), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Somebody to Love](https://open.spotify.com/album/3EDlBi5yJ7FKvXpDW4PKDf) | 2:17 | 2025-08-15 | 2025-11-14 |
 | [Somebody To Love](https://open.spotify.com/track/6OPopjRnpoCGU71lECUL4t) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Somebody To Love](https://open.spotify.com/album/5ZVcSrP8UZENH8D21iJYDG) | 3:43 | 2025-08-01 | 2025-10-25 |

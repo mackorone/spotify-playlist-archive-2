@@ -4,7 +4,7 @@
 
 > Indiepop in het Nederlands\. Cover: IDA
 
-320 songs - 16 hr 36 min
+322 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Blijf Maar Zitten](https://open.spotify.com/track/2Im5y148VhyId6QP2Theig) | [FULCO](https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt) | [Blijf Maar Zitten](https://open.spotify.com/album/0XqFNh4lPuxE0caEm6B5Yi) | 3:00 | 2024-11-14 | 2025-03-14 |
 | [Blijven](https://open.spotify.com/track/3iKkOyOmhhavRA3v4Rzy7O) | [monokimono](https://open.spotify.com/artist/4DXrrpP0iZv5KlcnZvYawZ) | [Blijven](https://open.spotify.com/album/6K1aa83670KggQuqWy1Mrn) | 2:33 | 2024-11-07 | 2025-03-10 |
 | [Blowen & Smoken](https://open.spotify.com/track/2R2DpPft8SiKSWXA7X0uXu) | [Terry Joint](https://open.spotify.com/artist/1csNIQ2X2wlFiCJvBfJHAy) | [Blowen & Smoken](https://open.spotify.com/album/1tPBRJVFhyPbV67BbfXrkk) | 3:08 | 2024-08-29 | 2024-10-23 |
-| [Bob Dylan](https://open.spotify.com/track/5FfhOLX2T07YpFNctSrO9P) | [De Plaag](https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d) | [Bob Dylan](https://open.spotify.com/album/15cwNEjCv4EjW8xUiUnQ5M) | 3:45 | 2026-03-19 |  |
+| [Bob Dylan](https://open.spotify.com/track/5FfhOLX2T07YpFNctSrO9P) | [De Plaag](https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d) | [Bob Dylan](https://open.spotify.com/album/15cwNEjCv4EjW8xUiUnQ5M) | 3:45 | 2026-03-19 | 2026-04-17 |
 | [BOM](https://open.spotify.com/track/0CGEEbLcQQgGaf4W6vKfi6) | [Hang Youth](https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR) | [BOM](https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym) | 2:06 | 2024-10-09 | 2025-03-29 |
 | [Boter, Kaas en Eieren](https://open.spotify.com/track/1ksF2Z3ql9E1HkoQ4wD1KE) | [So\-Fi](https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs) | [Calls From The Hull vol\. III](https://open.spotify.com/album/2dQw0QVHFeOcArTpxaW76Y) | 1:45 | 2024-10-09 | 2025-01-11 |
 | [Boterham](https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [Boterham](https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO) | 2:07 | 2025-09-26 |  |
@@ -89,6 +89,7 @@
 | [Geen Ego](https://open.spotify.com/track/1CwTDPhXGfgHZX6MFmDaLi) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [Hardt](https://open.spotify.com/album/7vDfXzVI6iBTtK7p2gSH7i) | 3:05 | 2026-02-12 | 2026-03-10 |
 | [Geen Steek Veranderd](https://open.spotify.com/track/0Z7UuliJxlUTtPuA7HqrdU) | [\(...\) Centraal](https://open.spotify.com/artist/4qMeDxDec29mBmicnpyiq2) | [puntpuntpunt](https://open.spotify.com/album/3m9qDzog8BUub1BLDqs9xM) | 3:25 | 2024-06-26 | 2024-08-02 |
 | [Geest Van Het Zuiden](https://open.spotify.com/track/3aY93NRQyDNARcblm0javK) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Of Het Terugkomt](https://open.spotify.com/album/1YRPxfopR6ICS1ZUIDAmSV) | 3:13 | 2024-06-26 | 2024-09-13 |
+| [Gefeliciteerd](https://open.spotify.com/track/14mSt9SODkDGfTawFGyIM4) | [LOT](https://open.spotify.com/artist/5WFiEpMZfNw5NgFTHfJA8K) | [Gefeliciteerd](https://open.spotify.com/album/027zmAQqyEznyL4ty6ERuG) | 2:44 | 2026-04-16 |  |
 | [Geluk Ontelbaar](https://open.spotify.com/track/1pO0uHgZRf8UXuxVeEGmkb) | [Bud Kolk](https://open.spotify.com/artist/1euiaKy1PkptZMZzs8BF9j) | [Geluk Ontelbaar](https://open.spotify.com/album/3G44X64cFD4jhmClRRt9fH) | 2:48 | 2024-07-05 | 2025-01-11 |
 | [Giftig](https://open.spotify.com/track/0KfzPMMjRQw9Vh3J8rzTDK) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH), [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [Giftig](https://open.spotify.com/album/6XjQOyWXlcCjgKzivTgUl2) | 2:52 | 2025-07-17 |  |
 | [Glijpanter](https://open.spotify.com/track/0cWIJhR3QZHJPHHoRn0vr6) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Glijpanter](https://open.spotify.com/album/5VSqpjC7klSeMAztyXlO1O) | 3:39 | 2024-06-26 | 2024-07-19 |
@@ -189,7 +190,7 @@
 | [Mijn Naam is Niemand](https://open.spotify.com/track/5I4AagJIE3YslYmASx2QRb) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [Mijn Naam Is Niemand](https://open.spotify.com/album/7h0ye8wK1DjHi1KeDhC7sw) | 3:22 | 2024-06-26 | 2024-10-25 |
 | [Misschien](https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Frok en Stien](https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ) | 3:02 | 2025-10-21 |  |
 | [Misschien \(Kwijt\)](https://open.spotify.com/track/3YtCnJtiIGkoP5kXEGJWIg) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [HIGH SOCIETY SWAGGERBOY](https://open.spotify.com/album/3CqCzAHqRdcUWje8yLip2v) | 3:02 | 2024-06-26 | 2025-02-14 |
-| [Moe Van Jezelf](https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [Moe Van Jezelf](https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo) | 2:40 | 2025-12-11 |  |
+| [Moe Van Jezelf](https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [Moe Van Jezelf](https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo) | 2:40 | 2025-12-11 | 2026-04-17 |
 | [Mommy](https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Mommy](https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU) | 2:54 | 2026-01-26 |  |
 | [MooiMooiMooi](https://open.spotify.com/track/0zSQBDv2MqScJt49tXfRKZ) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [MooiMooiMooi](https://open.spotify.com/album/7Eq2mxj3nCQnUyQlYL1Z2T) | 2:25 | 2024-11-14 | 2025-01-12 |
 | [Naakt Op Het Plein](https://open.spotify.com/track/1L7FnIPHrVXjt49m7Dr36Z) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Samen Tegen Elkaar](https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH) | 3:24 | 2024-06-26 | 2024-11-15 |
@@ -317,6 +318,7 @@
 | [Zachter](https://open.spotify.com/track/35L5RWfwYaoE1KEP8QWzRZ) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [Zachter](https://open.spotify.com/album/74Ykd7VHFyzI5b3rNeautA) | 3:18 | 2025-12-18 | 2026-02-09 |
 | [Ze Wil](https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [YAYO HARTJE JIMMY](https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v) | 3:09 | 2025-11-08 |  |
 | [Zeg Me Hoe Het Moet](https://open.spotify.com/track/3JZHFwhoi5UnxkothjScpS) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Zeg Me Hoe Het Moet](https://open.spotify.com/album/212j764AlLIekepAcRJsy6) | 3:28 | 2026-01-30 | 2026-03-06 |
+| [Zie mij graag](https://open.spotify.com/track/1pc1xnIszMNn3fg3HJHZA9) | [Bovenste Knoopje Open](https://open.spotify.com/artist/74ZDRWqO6aHeLRjAaugQej), [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Zie mij graag](https://open.spotify.com/album/3LE9BSOO5lfrLq8bw5eZEG) | 4:32 | 2026-04-16 |  |
 | [Zieke Wereld](https://open.spotify.com/track/3uuNvNmN2O2ufgGoMNoLrC) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Zieke Wereld](https://open.spotify.com/album/0Xiq0JmDnC7RM0yaLbFQ5p) | 3:04 | 2025-03-07 | 2025-05-09 |
 | [Zo Licht Als Een Veertje](https://open.spotify.com/track/0ItuxgKyxZ9PfYuzcVwVDW) | [Rens, Jaïr & Ome Uncle](https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD) | [Zo Licht Als een Veertje](https://open.spotify.com/album/3Do7RQ7EPLRYnmTWih10ii) | 2:41 | 2024-10-22 | 2025-02-16 |
 | [Zonder handen rijden](https://open.spotify.com/track/2lVKoxQgBNqJwCE1SeLFKl) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:23 | 2024-10-24 | 2025-02-27 |

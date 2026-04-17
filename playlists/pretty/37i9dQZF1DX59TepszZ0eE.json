@@ -1,12 +1,12 @@
 {
   "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=glHBHJpWRtmJpm62ielH0w>Xolly Mncwango</a>\"",
-  "num_followers": 120758,
+  "num_followers": 120797,
   "original_name": "Sunday Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI/2RIrHEsTf+8o/k1uXT3YkrABj",
+  "snapshot_id": "AAAAAIFx1Bl2Dy5uBi2RutsZnuND8UzO",
   "tracks": [
     {
       "added_at": "2024-08-16 00:01:00",
@@ -51,6 +51,26 @@
       "duration_ms": 556346,
       "name": "Bamba Mzalwane (Live)",
       "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
+    },
+    {
+      "added_at": "2026-04-17 00:01:28",
+      "album": {
+        "name": "Christ Exalted",
+        "url": "https://open.spotify.com/album/5UiFJTfUB9pnYLgfyFIaGa"
+      },
+      "artists": [
+        {
+          "name": "5 Fold Worship",
+          "url": "https://open.spotify.com/artist/5g9jOwxRVYqWHwXPM5ZUZD"
+        },
+        {
+          "name": "Winnie Maluleka",
+          "url": "https://open.spotify.com/artist/4JKZj0YFC3VvipXUYZH0uK"
+        }
+      ],
+      "duration_ms": 474500,
+      "name": "Mofahlolodi",
+      "url": "https://open.spotify.com/track/49baq6pqA2QCxgMrgGlKCm"
     },
     {
       "added_at": "2026-03-27 00:01:14",
@@ -127,6 +147,22 @@
       "duration_ms": 535991,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc"
+    },
+    {
+      "added_at": "2026-04-17 00:01:28",
+      "album": {
+        "name": "Prophetic Worship Encounter (Live)",
+        "url": "https://open.spotify.com/album/0N9DkqZMv3hQmEvEHNV4V6"
+      },
+      "artists": [
+        {
+          "name": "Ziyanda Tshangana",
+          "url": "https://open.spotify.com/artist/0M8zlsLqG3ODIjtZulBbNO"
+        }
+      ],
+      "duration_ms": 574000,
+      "name": "Solala Ngokonwaba - Live",
+      "url": "https://open.spotify.com/track/1qZCNkmOLC17Pvh3AoIWqb"
     },
     {
       "added_at": "2026-04-10 00:01:32",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: Nell Mescal",
+  "description": "New tunes from Ireland for your discovery. Cover: F3miii",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -3356,7 +3356,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 165388,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
@@ -3468,7 +3468,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 229342,
       "name": "is \u00e9 a locht a laghad",
       "url": "https://open.spotify.com/track/4HNS5FBg9GwhYz2J9rVaXG"
@@ -3544,6 +3544,24 @@
       "duration_ms": 167964,
       "name": "Jacky",
       "url": "https://open.spotify.com/track/3bPy026qseqB4X4I380hVW"
+    },
+    {
+      "album": {
+        "name": "John's Song",
+        "url": "https://open.spotify.com/album/3NU7iqOGclbHvW86UGdI1i"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "John's Song",
+      "url": "https://open.spotify.com/track/0LtyfzUIi656oVoKbc3tqF"
     },
     {
       "album": {
@@ -4312,7 +4330,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 201207,
       "name": "Miss You Bby",
       "url": "https://open.spotify.com/track/4OP5MNkdpWz2dgeIqMZHdR"
@@ -5871,6 +5889,28 @@
     },
     {
       "album": {
+        "name": "Shoes Up",
+        "url": "https://open.spotify.com/album/4kyRqympwe9wDsLOGhxjnT"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        },
+        {
+          "name": "Joe Butler",
+          "url": "https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "Shoes Up",
+      "url": "https://open.spotify.com/track/0C9iEXm7FXYN6wta1XjRy6"
+    },
+    {
+      "album": {
         "name": "Shot In The Dark",
         "url": "https://open.spotify.com/album/67tb6jF9KTKzLlhc0HDk32"
       },
@@ -6159,6 +6199,24 @@
     },
     {
       "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "SPLINTER",
+      "url": "https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj"
+    },
+    {
+      "album": {
         "name": "spring will come",
         "url": "https://open.spotify.com/album/08gU4cgs5HdjAZvFINhRat"
       },
@@ -6300,7 +6358,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 225635,
       "name": "Storm Warnings",
       "url": "https://open.spotify.com/track/1ChB4a5EAEBYR976Rvpdan"
@@ -6665,6 +6723,24 @@
     },
     {
       "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx"
+      },
+      "artists": [
+        {
+          "name": "THEATRE",
+          "url": "https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259053,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT"
+    },
+    {
+      "album": {
         "name": "The First Time",
         "url": "https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP"
       },
@@ -6930,7 +7006,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 364000,
       "name": "The Wind Doesn't Blow This Far Right",
       "url": "https://open.spotify.com/track/3iOQBAob6hgke7DbVI1E2e"
@@ -7464,6 +7540,24 @@
       "duration_ms": 180724,
       "name": "WE GOOD ?",
       "url": "https://open.spotify.com/track/7vqIJVpShC23VVNy1s4lJ4"
+    },
+    {
+      "album": {
+        "name": "We Were Only Young",
+        "url": "https://open.spotify.com/album/6HJ2sCLJeiGQEP4MHwpMnz"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "We Were Only Young",
+      "url": "https://open.spotify.com/track/6SzPfJJegDfsltDble6ZSG"
     },
     {
       "album": {

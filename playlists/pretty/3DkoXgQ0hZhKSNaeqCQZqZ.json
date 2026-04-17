@@ -1,12 +1,12 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1068,
+  "num_followers": 1072,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFNlDg4Wbp3A6APvTSRimOQ1rH1gOK",
+  "snapshot_id": "AAAFOnl9me9D5di4ituBsTV8PqKxO9V1",
   "tracks": [
     {
       "added_at": "2026-04-15 18:25:06",
@@ -91,6 +91,38 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
+        "name": "PASSENGERPRINCESS",
+        "url": "https://open.spotify.com/album/6Sm7ZO5A4G1gVWqUJXeut9"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "CREDIT CARD",
+      "url": "https://open.spotify.com/track/5P1LnQvlvZmhWvdieCyMoO"
+    },
+    {
+      "added_at": "2026-03-29 22:37:40",
+      "album": {
+        "name": "SNARL AT YOUR FRIENDS!!!",
+        "url": "https://open.spotify.com/album/58fwYy1AyXZ3FFaeVAyVtH"
+      },
+      "artists": [
+        {
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "SNARL AT YOUR FRIENDS!!!",
+      "url": "https://open.spotify.com/track/1XnagEe3r0kvWlTVjYHJjN"
+    },
+    {
+      "added_at": "2026-03-05 04:42:47",
+      "album": {
         "name": "Don't Waste Good Names on an EP",
         "url": "https://open.spotify.com/album/2ShEAf3Yx2jb6fSzjp5S6D"
       },
@@ -103,22 +135,6 @@
       "duration_ms": 202378,
       "name": "April's Fool",
       "url": "https://open.spotify.com/track/16MZjQqrS1Dvni4IxKrJh4"
-    },
-    {
-      "added_at": "2026-03-31 20:24:23",
-      "album": {
-        "name": "When I'm With You / Too Late",
-        "url": "https://open.spotify.com/album/6nBMymUlBdMQXGO36H6RcW"
-      },
-      "artists": [
-        {
-          "name": "WORLDWIDEWOLF",
-          "url": "https://open.spotify.com/artist/0PT2yAXwZHB4q6eMBGM4kV"
-        }
-      ],
-      "duration_ms": 290879,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/3aZiG45CNmjjKrBisc8hEg"
     },
     {
       "added_at": "2026-04-01 10:25:07",
@@ -137,20 +153,20 @@
       "url": "https://open.spotify.com/track/3HdBABZV9a6A5B2xgpEVKj"
     },
     {
-      "added_at": "2026-03-29 22:37:40",
+      "added_at": "2026-03-31 20:24:23",
       "album": {
-        "name": "SNARL AT YOUR FRIENDS!!!",
-        "url": "https://open.spotify.com/album/58fwYy1AyXZ3FFaeVAyVtH"
+        "name": "When I'm With You / Too Late",
+        "url": "https://open.spotify.com/album/6nBMymUlBdMQXGO36H6RcW"
       },
       "artists": [
         {
-          "name": "Vylet Pony",
-          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
+          "name": "WORLDWIDEWOLF",
+          "url": "https://open.spotify.com/artist/0PT2yAXwZHB4q6eMBGM4kV"
         }
       ],
-      "duration_ms": 205875,
-      "name": "SNARL AT YOUR FRIENDS!!!",
-      "url": "https://open.spotify.com/track/1XnagEe3r0kvWlTVjYHJjN"
+      "duration_ms": 290879,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/3aZiG45CNmjjKrBisc8hEg"
     },
     {
       "added_at": "2026-03-18 07:18:57",
@@ -1547,22 +1563,6 @@
       "duration_ms": 120613,
       "name": "4K CARPET",
       "url": "https://open.spotify.com/track/284qRqsftKxNPWrejNEewL"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
-        "name": "PASSENGERPRINCESS",
-        "url": "https://open.spotify.com/album/6Sm7ZO5A4G1gVWqUJXeut9"
-      },
-      "artists": [
-        {
-          "name": "passengerprincess",
-          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "CREDIT CARD",
-      "url": "https://open.spotify.com/track/5P1LnQvlvZmhWvdieCyMoO"
     },
     {
       "added_at": "2026-03-05 04:42:47",

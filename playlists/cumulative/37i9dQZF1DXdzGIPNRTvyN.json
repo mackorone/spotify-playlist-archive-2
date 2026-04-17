@@ -592,7 +592,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 157173,
       "name": "Arvandor",
       "url": "https://open.spotify.com/track/19eZSugiuVjEkYF88fiOmH"
@@ -1849,6 +1849,28 @@
     },
     {
       "album": {
+        "name": "Developments 2: Motion",
+        "url": "https://open.spotify.com/album/67zojxNhuPhPre8kID2R3T"
+      },
+      "artists": [
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        },
+        {
+          "name": "Patrik Berg Almkvisth",
+          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Developments 2: Motion",
+      "url": "https://open.spotify.com/track/7hCIU4hiTwMiZ3r9C5cX87"
+    },
+    {
+      "album": {
         "name": "Dolphin Run",
         "url": "https://open.spotify.com/album/4zBk6VC3HPAe8K35C3pCFN"
       },
@@ -2256,7 +2278,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 179500,
       "name": "Endless Horizon",
       "url": "https://open.spotify.com/track/6zVDXYs5Jp1SI9Aro3A5cf"
@@ -3614,6 +3636,24 @@
       "duration_ms": 182400,
       "name": "Healing Winds (Nature)",
       "url": "https://open.spotify.com/track/6eZvMOonscNh15H00jJeKX"
+    },
+    {
+      "album": {
+        "name": "Heart of nature",
+        "url": "https://open.spotify.com/album/4q1LDuZ78fHCF9Eilb74pw"
+      },
+      "artists": [
+        {
+          "name": "Aponian Flow",
+          "url": "https://open.spotify.com/artist/0ECZqa8KVFTuyM92asZRy1"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Heart of nature",
+      "url": "https://open.spotify.com/track/0PydlHyHt06LIZ21X9jS7l"
     },
     {
       "album": {
@@ -5594,7 +5634,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 160416,
       "name": "Oran Beinne",
       "url": "https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX"
@@ -6087,6 +6127,24 @@
     },
     {
       "album": {
+        "name": "Philosophy of Mind",
+        "url": "https://open.spotify.com/album/1JSa4EWk3EaFNyJMpc8wnG"
+      },
+      "artists": [
+        {
+          "name": "Pure Purposes",
+          "url": "https://open.spotify.com/artist/4kbLiTWkq9FIV3VHRS24EY"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197105,
+      "name": "Philosophy of Mind",
+      "url": "https://open.spotify.com/track/7i0bw8dAa72b1fOe3mo070"
+    },
+    {
+      "album": {
         "name": "Physis",
         "url": "https://open.spotify.com/album/3VjPtNVQSOzJQzfhDlTFK3"
       },
@@ -6458,7 +6516,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 169190,
       "name": "Rebalanced",
       "url": "https://open.spotify.com/track/7rAxEaJTcSQUpor4gw7rRS"
@@ -6494,7 +6552,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 160415,
       "name": "Recursive",
       "url": "https://open.spotify.com/track/70CElW5vR4cUlUbGiVJLky"
@@ -7585,6 +7643,24 @@
     },
     {
       "album": {
+        "name": "Song of the Forest",
+        "url": "https://open.spotify.com/album/0ZpNKgschn5HdrmjXZIh9T"
+      },
+      "artists": [
+        {
+          "name": "Silent Peaks",
+          "url": "https://open.spotify.com/artist/78cVzWtdhDa6Mfx5uKo0YV"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Song of the Forest",
+      "url": "https://open.spotify.com/track/25pX7clkjhZ0Nd9vsNxWnz"
+    },
+    {
+      "album": {
         "name": "Soothing Journey",
         "url": "https://open.spotify.com/album/6jIQpZH08z2csxVXWMMPWC"
       },
@@ -8284,6 +8360,24 @@
       "duration_ms": 180641,
       "name": "The Forest Waking Up",
       "url": "https://open.spotify.com/track/3qw8EyWRVEci8CXhRybfz6"
+    },
+    {
+      "album": {
+        "name": "The Golden Path",
+        "url": "https://open.spotify.com/album/2gFNaNjUKztfUjenabaluq"
+      },
+      "artists": [
+        {
+          "name": "Salome Azul",
+          "url": "https://open.spotify.com/artist/0ukN1ypDmoKy71vfx6xw1j"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134606,
+      "name": "The Golden Path",
+      "url": "https://open.spotify.com/track/1n6RWCdlR1noijUCeoU1bn"
     },
     {
       "album": {

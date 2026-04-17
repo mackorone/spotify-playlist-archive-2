@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 235896,
       "name": "Holy",
       "url": "https://open.spotify.com/track/4tM5iliYtWcS5jSZCHc6rB"
@@ -3018,6 +3018,24 @@
       "duration_ms": 244999,
       "name": "La Cath\u00e9drale Engloutie",
       "url": "https://open.spotify.com/track/0GiSKGYCdQtGXDSCmSxuVb"
+    },
+    {
+      "album": {
+        "name": "la circulation silencieuse",
+        "url": "https://open.spotify.com/album/4ZyImCuB2iBG8QTExJIKoa"
+      },
+      "artists": [
+        {
+          "name": "attic",
+          "url": "https://open.spotify.com/artist/51VqZtvqCcpFPdEPN1X1Ku"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "la circulation silencieuse",
+      "url": "https://open.spotify.com/track/3E3va6hFvGt05VGGgI9XRt"
     },
     {
       "album": {

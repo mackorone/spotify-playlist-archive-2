@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De 50 grootste hits in NL. Cover: ANOTR",
+  "description": "De 50 grootste hits in NL. Cover: HUGEL",
   "name": "Hot Hits NL",
   "tracks": [
     {
@@ -4704,7 +4704,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 162666,
       "name": "Helaas",
       "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
@@ -8109,6 +8109,28 @@
     },
     {
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/4LrHUpnY1xu6qqvS06lzAm"
+      },
+      "artists": [
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120410,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1wf6avCJvxMmxoSS9TdMQ0"
+    },
+    {
+      "album": {
         "name": "One in a Million",
         "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
       },
@@ -10190,7 +10212,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
@@ -11572,6 +11594,28 @@
       "duration_ms": 178432,
       "name": "Waar Blijf Je Nou",
       "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
+    },
+    {
+      "album": {
+        "name": "Waar De Ladies Zijn",
+        "url": "https://open.spotify.com/album/7sItPhIOsuhFEqT9PyPRXq"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        },
+        {
+          "name": "Matthy",
+          "url": "https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140625,
+      "name": "Waar De Ladies Zijn",
+      "url": "https://open.spotify.com/track/1RBAmptvCgOBmUQorOiT31"
     },
     {
       "album": {

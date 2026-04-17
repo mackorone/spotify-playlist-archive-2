@@ -2123,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "fuego",
+        "url": "https://open.spotify.com/album/1kRigIQQUKqo0gZnPGGmSa"
+      },
+      "artists": [
+        {
+          "name": "Erda",
+          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140357,
+      "name": "fuego",
+      "url": "https://open.spotify.com/track/73xl6z80ICsdmciiizTq4z"
+    },
+    {
+      "album": {
         "name": "FULL IN LOVE",
         "url": "https://open.spotify.com/album/0oZq7hPUvt8RU882s0Vvzt"
       },
@@ -4648,7 +4666,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 179000,
       "name": "Nie wieder",
       "url": "https://open.spotify.com/track/2biArscoLJQm00Xy26kVOu"

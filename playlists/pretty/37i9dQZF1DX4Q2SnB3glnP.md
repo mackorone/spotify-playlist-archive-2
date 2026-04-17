@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,540 likes - 222 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,588 likes - 222 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,4 +231,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 221 | [Gateway Glitter](https://open.spotify.com/track/6Brzc1DjbCqhTuJl4wBDMM) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Gateway Glitter](https://open.spotify.com/album/5QXgxzxiOzManaZz4XBcoq) | 2:25 |
 | 222 | [Dewdrops at Dawn](https://open.spotify.com/track/43HbRE0WWFqKd6TyP9tdWX) | [Night Syndicate](https://open.spotify.com/artist/49T3w5GxDcNks7XGqmaONt) | [Dewdrops at Dawn](https://open.spotify.com/album/3lUPG1JbtL4y3sWX35KnG8) | 2:58 |
 
-Snapshot ID: `AAAAAPY9d8TYKm5h5Q9gewNDtNDbSmqA`
+Snapshot ID: `AAAAAKqNkk4s9dZNH/MiMjhVmuQgg1ii`

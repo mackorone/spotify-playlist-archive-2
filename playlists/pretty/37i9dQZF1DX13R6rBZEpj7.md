@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,151 likes - 69 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,202 likes - 69 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 65 | [Inside The Rider \- Darkzy Remix](https://open.spotify.com/track/1OgyH85fktvryf3sxD1X6g) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Inside The Rider \(Darkzy Remix\)](https://open.spotify.com/album/0jeNTBGFj5lcFIdPEgTgXD) | 2:52 |
 | 66 | [On My Way \(Feat\. Zdot, Kara Marni\) \- ZKG Remix](https://open.spotify.com/track/0QXvYArdrPJEaGJTW5hL2N) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv), [ZKG](https://open.spotify.com/artist/6SXQM1iGWeRGGpxJKcl4uh) | [On My Way \(Feat\. Zdot, Kara Marni\) \[ZKG Remix\]](https://open.spotify.com/album/5hKK3n38k4IFoMVR72APw5) | 2:39 |
 | 67 | [Cheat Code](https://open.spotify.com/track/6a8EYMszSDhQV65yQiZn40) | [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH), [Subten](https://open.spotify.com/artist/1D7TdByuV3l9cpOf6bGV3n) | [Cheat Code](https://open.spotify.com/album/0pPpPEkkUO8QX7OHT3xcRE) | 2:41 |
-| 68 | [Hot In Herre](https://open.spotify.com/track/1vkARldHL4suLzugyV9Nuj) | [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc), [WHYCARE](https://open.spotify.com/artist/3sPOQGC7Qba2TdaM9WbrBF), [freeroll.](https://open.spotify.com/artist/60lGHkRLpgsBoF1VWgEZ8M) | [Hot In Herre](https://open.spotify.com/album/0dWhoOS6NPadGXYK12ZHp1) | 2:06 |
-| 69 | [U](https://open.spotify.com/track/1yBIVECGDfhoebR6QnwWxo) | [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1), [mush\_uk](https://open.spotify.com/artist/3eZBlLZmZc3b2B5iruwyqS), [R2R](https://open.spotify.com/artist/36pnL1Ts2jHf8FprmL6LtH) | [U](https://open.spotify.com/album/1fc7h41ZALPCGGv3t1hrPI) | 3:00 |
+| 68 | [U](https://open.spotify.com/track/1yBIVECGDfhoebR6QnwWxo) | [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1), [mush\_uk](https://open.spotify.com/artist/3eZBlLZmZc3b2B5iruwyqS), [R2R](https://open.spotify.com/artist/36pnL1Ts2jHf8FprmL6LtH) | [U](https://open.spotify.com/album/1fc7h41ZALPCGGv3t1hrPI) | 3:00 |
+| 69 | [Lovesick](https://open.spotify.com/track/2f0bZbD4u8HX3Kn7PjKi6C) | [H "two" O](https://open.spotify.com/artist/2ev9Efr1n87BI5ZqZJ8SlW), [Rocco LDN](https://open.spotify.com/artist/012wRb4Wr9RU3zaxSxPTFX) | [Lovesick](https://open.spotify.com/album/6714860pGAmNimPSUT0GWN) | 4:35 |
 
 Snapshot ID: `AAAAAATX8wSWXkQfsKFBHm8BE47czcU7`

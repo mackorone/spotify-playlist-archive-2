@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Ste Milano
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Dydy Yeman
 
-290 songs - 15 hr 48 min
+291 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [BIAMA 2 BLACK K](https://open.spotify.com/track/7K65fwVYwjWHvyxwc8vvUi) | [Black K](https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq) | [REMINISCENCE](https://open.spotify.com/album/1vxkcusCDeE3AXMVo4nAgV) | 2:22 | 2024-09-26 | 2024-10-04 |
 | [BIAMA BOMBÉ](https://open.spotify.com/track/0fVTSESDZB3MpDVGss5F6O) | [Oyoki Onanayo](https://open.spotify.com/artist/4aKN9IVVCH0haHMdFhfw7L) | [BIAMA BOMBÉ](https://open.spotify.com/album/4fqWDiCXrAW64SfrGNVGdW) | 3:22 | 2026-02-05 | 2026-04-03 |
 | [Biama Brut Reverse](https://open.spotify.com/track/2cql6AVi8ktgedXr4RAFR0) | [Oyoki Onanayo](https://open.spotify.com/artist/4aKN9IVVCH0haHMdFhfw7L), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Biama Brut Reverse](https://open.spotify.com/album/3xoYfNYq0K6abXFOyAIhIO) | 3:01 | 2025-01-02 |  |
+| [Biama Yacouba](https://open.spotify.com/track/5IsiQqDyhpvqIDuehfKpfl) | [Daoudi le Kirikou](https://open.spotify.com/artist/1GVBIJDTEKCVfHLwbcevz7) | [Biama Yacouba](https://open.spotify.com/album/2LezrIZ0etl4wgUorwYExu) | 2:17 | 2026-04-16 |  |
 | [Bina Ngo](https://open.spotify.com/track/7xYzrfdekBpAH7c59wsg0s) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l) | [Bina Ngo](https://open.spotify.com/album/2ovAbyHeQJgfTP4KQB8kd5) | 2:59 | 2021-12-20 | 2022-06-17 |
 | [BINAKA](https://open.spotify.com/track/4G5lllH9iGUSyFkMDwabMU) | [Dj Moasco](https://open.spotify.com/artist/6AfzTdenXg9xaTui9NXoRa), [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [BINAKA](https://open.spotify.com/album/0zCYYMTHLUKVTeGJm1w8lh) | 3:56 | 2022-12-01 | 2023-04-07 |
 | [Bio](https://open.spotify.com/track/6jbQLx2fqj2cAKaPig8GDA) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0) | [Bio](https://open.spotify.com/album/1wXuyllSrUv7y4Mf8Pzhv5) | 3:05 | 2024-05-16 | 2024-11-29 |
@@ -197,7 +198,7 @@
 | [Mapouka](https://open.spotify.com/track/6WT4eFi2jTFNuN8UkVGFLO) | [TNT Family](https://open.spotify.com/artist/707k62nFnrWfAmYF9qFcI6) | [12 Raisons](https://open.spotify.com/album/50VVd86np0xlYcTpibU37n) | 3:03 | 2022-06-02 | 2022-09-02 |
 | [MEME](https://open.spotify.com/track/6jq8XCdFOgVU1xb83EZ7NC) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [MEME](https://open.spotify.com/album/3F5WzTfqrtSpIDJNnvtzG9) | 3:20 | 2021-12-20 | 2022-06-17 |
 | [Merci](https://open.spotify.com/track/6Rg1VzMCXGvRfvQe2VLYaG) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Merci](https://open.spotify.com/album/4sr8d7oYgvGytEOtyT4RgK) | 3:22 | 2024-04-04 | 2025-03-28 |
-| [MinistreDesAffaires](https://open.spotify.com/track/0GewusghyHYrdtt71yfhpo) | [sleepypierre](https://open.spotify.com/artist/0TAxLQ3NNRtFzkg5ZDOmpN) | [MinistreDesAffaires](https://open.spotify.com/album/2GhGBG7r2oSJzCKYWdAUPC) | 2:32 | 2026-04-02 |  |
+| [MinistreDesAffaires](https://open.spotify.com/track/0GewusghyHYrdtt71yfhpo) | [sleepypierre](https://open.spotify.com/artist/0TAxLQ3NNRtFzkg5ZDOmpN) | [MinistreDesAffaires](https://open.spotify.com/album/2GhGBG7r2oSJzCKYWdAUPC) | 2:32 | 2026-04-02 | 2026-04-17 |
 | [Misu na misu](https://open.spotify.com/track/0rEnLlgpNdxntNU7irVb51) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Misu na misu](https://open.spotify.com/album/4kI0FPGAJdKHE7DEvfNv1i) | 3:28 | 2021-12-20 | 2022-02-19 |
 | [Mon combat](https://open.spotify.com/track/6T6AQIS7A7zUTgl3ByyKq6) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Mon combat](https://open.spotify.com/album/3fPVIQpas8ugxlY9ZasrBv) | 3:32 | 2024-03-14 | 2025-04-18 |
 | [Mon coupé décalé](https://open.spotify.com/track/5dcWqDjwZjo9yp6bGfWY1o) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Mon coupé décalé](https://open.spotify.com/album/1ezwwP8oJFETR8e3rfRsWk) | 4:15 | 2021-12-20 | 2022-02-19 |

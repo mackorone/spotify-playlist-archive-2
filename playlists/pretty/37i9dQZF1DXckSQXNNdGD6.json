@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Ouineta.",
-  "num_followers": 21537,
+  "num_followers": 21621,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPNCgZNYeU+P01+78aCx8pEOHPmk",
+  "snapshot_id": "AAAAAF+dEiC4yeuBlkxTjsCa4BZaaqs+",
   "tracks": [
     {
       "added_at": "2026-04-07 22:00:22",
@@ -367,22 +367,18 @@
     {
       "added_at": "2026-04-07 22:00:22",
       "album": {
-        "name": "Ay Amor",
-        "url": "https://open.spotify.com/album/24zbNGOGUKdAzsHIsa7zxL"
+        "name": "se sube la falda",
+        "url": "https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN"
       },
       "artists": [
         {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Juacko",
-          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
         }
       ],
-      "duration_ms": 131150,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/7wMmqdopL0YxhFmn6WSStr"
+      "duration_ms": 154136,
+      "name": "se sube la falda",
+      "url": "https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7"
     },
     {
       "added_at": "2026-04-07 22:00:22",
@@ -455,18 +451,22 @@
     {
       "added_at": "2026-04-07 22:00:22",
       "album": {
-        "name": "se sube la falda",
-        "url": "https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN"
+        "name": "Ay Amor",
+        "url": "https://open.spotify.com/album/24zbNGOGUKdAzsHIsa7zxL"
       },
       "artists": [
         {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Juacko",
+          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
         }
       ],
-      "duration_ms": 154136,
-      "name": "se sube la falda",
-      "url": "https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7"
+      "duration_ms": 131150,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/7wMmqdopL0YxhFmn6WSStr"
     },
     {
       "added_at": "2026-04-07 22:00:22",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-04-07 22:00:22",
       "album": {
+        "name": "Donde nada es para tanto",
+        "url": "https://open.spotify.com/album/16HxA8so0smcyGapeDhXor"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 117869,
+      "name": "Novio o novia",
+      "url": "https://open.spotify.com/track/3Kn35ojAyhYVogKD8Bk70U"
+    },
+    {
+      "added_at": "2026-04-07 22:00:22",
+      "album": {
         "name": "Mu\u00e9rdeme",
         "url": "https://open.spotify.com/album/1Kcw4eZVazTL1pJdiunYRC"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2026-04-07 22:00:22",
       "album": {
-        "name": "Donde nada es para tanto",
-        "url": "https://open.spotify.com/album/16HxA8so0smcyGapeDhXor"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 117869,
-      "name": "Novio o novia",
-      "url": "https://open.spotify.com/track/3Kn35ojAyhYVogKD8Bk70U"
-    },
-    {
-      "added_at": "2026-04-07 22:00:22",
-      "album": {
         "name": "Se te est\u00e1 olvidando",
         "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 167856,
       "name": "Se te est\u00e1 olvidando",
       "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
+    },
+    {
+      "added_at": "2026-04-07 22:00:22",
+      "album": {
+        "name": "Para 2",
+        "url": "https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo"
+      },
+      "artists": [
+        {
+          "name": "Luna Ki",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "duration_ms": 165375,
+      "name": "Para 2",
+      "url": "https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK"
     },
     {
       "added_at": "2026-04-07 22:00:22",
@@ -811,22 +827,6 @@
       "duration_ms": 202781,
       "name": "Asereg\u00e9",
       "url": "https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT"
-    },
-    {
-      "added_at": "2026-04-07 22:00:22",
-      "album": {
-        "name": "Para 2",
-        "url": "https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo"
-      },
-      "artists": [
-        {
-          "name": "Luna Ki",
-          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
-        }
-      ],
-      "duration_ms": 165375,
-      "name": "Para 2",
-      "url": "https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK"
     },
     {
       "added_at": "2026-04-07 22:00:22",

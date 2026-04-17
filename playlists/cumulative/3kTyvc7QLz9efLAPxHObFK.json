@@ -58897,6 +58897,36 @@
     },
     {
       "album": {
+        "name": "We Are Free (KVN Remix)",
+        "url": "https://open.spotify.com/album/1EpeNu7W1v19Qoarlm2Qsz"
+      },
+      "artists": [
+        {
+          "name": "WILDWEST",
+          "url": "https://open.spotify.com/artist/2ET4cHHBMdc5NDZPc8tInB"
+        },
+        {
+          "name": "WADEZ",
+          "url": "https://open.spotify.com/artist/2G1HNUrDPyHZQUi2NBSmsY"
+        },
+        {
+          "name": "WILDWADEZ",
+          "url": "https://open.spotify.com/artist/7Gqn5LX7KkU7XJR7NSkQid"
+        },
+        {
+          "name": "KVN",
+          "url": "https://open.spotify.com/artist/5Ui8u3x32EyTRemTHOo9dA"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193340,
+      "name": "We Are Free - KVN Remix",
+      "url": "https://open.spotify.com/track/5AoiUMrH530BeezG1rgNeo"
+    },
+    {
+      "album": {
         "name": "We are Frenchcore",
         "url": "https://open.spotify.com/album/5RYJtjJ2BCCWg5SwMSbQkz"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Gavin Adcock",
-  "num_followers": 135964,
+  "num_followers": 135973,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-04-10 04:02:12",
       "album": {
-        "name": "Graveyard Whistling",
-        "url": "https://open.spotify.com/album/7b3A1mZPmO9P7zHWAgr1U3"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 244247,
-      "name": "Graveyard Whistling",
-      "url": "https://open.spotify.com/track/7kLC499Jj7W8kZUfvZsq5S"
-    },
-    {
-      "added_at": "2026-04-10 04:02:12",
-      "album": {
         "name": "No More Tears (live from the let go letters tour)",
         "url": "https://open.spotify.com/album/7rdYGgrRJCTTMRestLOWhL"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 231155,
       "name": "No More Tears - live from the let go letters tour",
       "url": "https://open.spotify.com/track/7yZ5o8UjP08LkmhpJgLHCe"
+    },
+    {
+      "added_at": "2026-04-10 04:02:12",
+      "album": {
+        "name": "Graveyard Whistling",
+        "url": "https://open.spotify.com/album/7b3A1mZPmO9P7zHWAgr1U3"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 244247,
+      "name": "Graveyard Whistling",
+      "url": "https://open.spotify.com/track/7kLC499Jj7W8kZUfvZsq5S"
     },
     {
       "added_at": "2026-04-10 04:02:12",
@@ -735,22 +735,18 @@
     {
       "added_at": "2026-04-10 04:02:12",
       "album": {
-        "name": "Only Daddy That'll Walk The Line",
-        "url": "https://open.spotify.com/album/2xa8mCSTqEWOUkXOoRTiSy"
+        "name": "Judge Jerrod & The Hung Jury",
+        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
       },
       "artists": [
         {
-          "name": "Gavin Adcock",
-          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
-        },
-        {
-          "name": "Country Never Dies",
-          "url": "https://open.spotify.com/artist/6TCgpmXVJnPOtKQVBWv4nk"
+          "name": "Jerrod Niemann",
+          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
         }
       ],
-      "duration_ms": 157880,
-      "name": "Only Daddy That'll Walk The Line",
-      "url": "https://open.spotify.com/track/6PyTN8XqAYMqQyKs2F9XD8"
+      "duration_ms": 193733,
+      "name": "Lover, Lover",
+      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
     },
     {
       "added_at": "2026-04-10 04:02:12",
@@ -775,18 +771,22 @@
     {
       "added_at": "2026-04-10 04:02:12",
       "album": {
-        "name": "Judge Jerrod & The Hung Jury",
-        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
+        "name": "Only Daddy That'll Walk The Line",
+        "url": "https://open.spotify.com/album/2xa8mCSTqEWOUkXOoRTiSy"
       },
       "artists": [
         {
-          "name": "Jerrod Niemann",
-          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        },
+        {
+          "name": "Country Never Dies",
+          "url": "https://open.spotify.com/artist/6TCgpmXVJnPOtKQVBWv4nk"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Lover, Lover",
-      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
+      "duration_ms": 157880,
+      "name": "Only Daddy That'll Walk The Line",
+      "url": "https://open.spotify.com/track/6PyTN8XqAYMqQyKs2F9XD8"
     },
     {
       "added_at": "2026-04-10 04:02:12",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-04-10 04:02:12",
       "album": {
+        "name": "Take Me as I Am",
+        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 241280,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
+    },
+    {
+      "added_at": "2026-04-10 04:02:12",
+      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 182973,
       "name": "Highwayman",
       "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
-    },
-    {
-      "added_at": "2026-04-10 04:02:12",
-      "album": {
-        "name": "Take Me as I Am",
-        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 241280,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
     },
     {
       "added_at": "2026-04-10 04:02:12",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2026-04-10 04:02:12",
       "album": {
+        "name": "If The World Was Ending",
+        "url": "https://open.spotify.com/album/5CBbA4bVDdbyMtprUAJ4I4"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 208597,
+      "name": "If The World Was Ending",
+      "url": "https://open.spotify.com/track/2HF7Aq8uTCPwUPaG8sMwrT"
+    },
+    {
+      "added_at": "2026-04-10 04:02:12",
+      "album": {
         "name": "Clay Pigeons",
         "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
       },
@@ -1175,22 +1195,6 @@
       "duration_ms": 230666,
       "name": "Clay Pigeons",
       "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
-    },
-    {
-      "added_at": "2026-04-10 04:02:12",
-      "album": {
-        "name": "When A Man Loves A Woman",
-        "url": "https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 197885,
-      "name": "When A Man Loves A Woman",
-      "url": "https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG"
     },
     {
       "added_at": "2026-04-10 04:02:12",
@@ -1211,6 +1215,22 @@
     {
       "added_at": "2026-04-10 04:02:12",
       "album": {
+        "name": "When A Man Loves A Woman",
+        "url": "https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "duration_ms": 197885,
+      "name": "When A Man Loves A Woman",
+      "url": "https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG"
+    },
+    {
+      "added_at": "2026-04-10 04:02:12",
+      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 296866,
       "name": "Believe (with Jelly Roll)",
       "url": "https://open.spotify.com/track/3Nh5mzU8htHws2Wi7j2X4Z"
-    },
-    {
-      "added_at": "2026-04-10 04:02:12",
-      "album": {
-        "name": "If The World Was Ending",
-        "url": "https://open.spotify.com/album/5CBbA4bVDdbyMtprUAJ4I4"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        },
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 208597,
-      "name": "If The World Was Ending",
-      "url": "https://open.spotify.com/track/2HF7Aq8uTCPwUPaG8sMwrT"
     },
     {
       "added_at": "2026-04-10 04:02:12",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-04-10 04:02:12",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4OMQzJZkwj82nPQ5FqZr0f"
-      },
-      "artists": [
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 329376,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/7gwGD2p8hy7Rphsx6n9NTL"
-    },
-    {
-      "added_at": "2026-04-10 04:02:12",
-      "album": {
         "name": "Dammit",
         "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 199445,
       "name": "Dammit",
       "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
+    },
+    {
+      "added_at": "2026-04-10 04:02:12",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4OMQzJZkwj82nPQ5FqZr0f"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "duration_ms": 329376,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/7gwGD2p8hy7Rphsx6n9NTL"
     },
     {
       "added_at": "2026-04-10 04:02:12",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-04-10 04:02:12",
       "album": {
-        "name": "If You Want Love",
-        "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
-      },
-      "artists": [
-        {
-          "name": "Jon Langston",
-          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "If You Want Love",
-      "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
-    },
-    {
-      "added_at": "2026-04-10 04:02:12",
-      "album": {
         "name": "Much Too Young (To Feel This Damn Old)",
         "url": "https://open.spotify.com/album/0QD8L2AaVBlUtuWB7SYPga"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2026-04-10 04:02:12",
       "album": {
-        "name": "Eastside",
-        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
+        "name": "If You Want Love",
+        "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
       },
       "artists": [
         {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+          "name": "Jon Langston",
+          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Eastside",
-      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
+      "duration_ms": 204760,
+      "name": "If You Want Love",
+      "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
     },
     {
       "added_at": "2026-04-10 04:02:12",
@@ -1607,6 +1591,22 @@
       "duration_ms": 328053,
       "name": "Pretty When It's New",
       "url": "https://open.spotify.com/track/1UmPE10DDHeEGxptZ7MzaY"
+    },
+    {
+      "added_at": "2026-04-10 04:02:12",
+      "album": {
+        "name": "Eastside",
+        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
     },
     {
       "added_at": "2026-04-10 04:02:12",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2026-04-10 04:02:12",
       "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 162411,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
+    },
+    {
+      "added_at": "2026-04-10 04:02:12",
+      "album": {
         "name": "Country Never Dies",
         "url": "https://open.spotify.com/album/2a6THopXVAZN4ivuKdOi2d"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 206213,
       "name": "Slow Hand",
       "url": "https://open.spotify.com/track/2dXkp8a86uDRuRJhQsjVTx"
-    },
-    {
-      "added_at": "2026-04-10 04:02:12",
-      "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 162411,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
     },
     {
       "added_at": "2026-04-10 04:02:12",

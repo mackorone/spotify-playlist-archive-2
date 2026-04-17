@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 915,
+  "num_followers": 926,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAFwejnUqNmf7/365+KC7GIFdhuj0lJ",
+  "snapshot_id": "AAAFx/A2hWEwxmkn8Pbk0HJlitnlRaMI",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -2423,6 +2423,102 @@
       "duration_ms": 432810,
       "name": "A Million Miles Away",
       "url": "https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf"
+    },
+    {
+      "added_at": "2026-04-16 02:27:43",
+      "album": {
+        "name": "27 Club",
+        "url": "https://open.spotify.com/album/6Ym82PzOA7dAM7UgtwMby3"
+      },
+      "artists": [
+        {
+          "name": "justJOY",
+          "url": "https://open.spotify.com/artist/7xpJWxpoYSVlE9rTgn5Wna"
+        }
+      ],
+      "duration_ms": 264117,
+      "name": "27 Club",
+      "url": "https://open.spotify.com/track/3UjPYwiPULXhmVK91dHYhd"
+    },
+    {
+      "added_at": "2026-04-16 02:57:21",
+      "album": {
+        "name": "No Thanks",
+        "url": "https://open.spotify.com/album/0652xN2MATBffKJ2tapEky"
+      },
+      "artists": [
+        {
+          "name": "Fat Fungus",
+          "url": "https://open.spotify.com/artist/5JvuLxzIE57fVdo7U29d2D"
+        }
+      ],
+      "duration_ms": 275593,
+      "name": "No Thanks",
+      "url": "https://open.spotify.com/track/2anuBT1LsOHNxz5H9qXXkN"
+    },
+    {
+      "added_at": "2026-04-16 14:36:06",
+      "album": {
+        "name": "Anfang unsrer Zeit",
+        "url": "https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t"
+      },
+      "artists": [
+        {
+          "name": "Voltwechsel",
+          "url": "https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Anfang unsrer Zeit",
+      "url": "https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4"
+    },
+    {
+      "added_at": "2026-04-16 15:08:57",
+      "album": {
+        "name": "Age of Aquarius",
+        "url": "https://open.spotify.com/album/6ej2r12pNYvAmXOTKcD52k"
+      },
+      "artists": [
+        {
+          "name": "Regina",
+          "url": "https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL"
+        }
+      ],
+      "duration_ms": 207881,
+      "name": "Age of Aquarius",
+      "url": "https://open.spotify.com/track/240S4AH0AvoM75oZ7PDk2Y"
+    },
+    {
+      "added_at": "2026-04-16 15:12:14",
+      "album": {
+        "name": "Acid Viking",
+        "url": "https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz"
+      },
+      "artists": [
+        {
+          "name": "Lady Owl",
+          "url": "https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO"
+        }
+      ],
+      "duration_ms": 218906,
+      "name": "Chilly",
+      "url": "https://open.spotify.com/track/0fhXATRQObAWuSEUlNY6td"
+    },
+    {
+      "added_at": "2026-04-16 15:27:31",
+      "album": {
+        "name": "Every 1\u2019s a Winner",
+        "url": "https://open.spotify.com/album/6V2mbkh0DXgupUg1wGHbmG"
+      },
+      "artists": [
+        {
+          "name": "Byron's Brigades",
+          "url": "https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf"
+        }
+      ],
+      "duration_ms": 196083,
+      "name": "Every 1\u2019s a Winner",
+      "url": "https://open.spotify.com/track/2E7HHBw2ZYZIbo8E5uzn9P"
     }
   ],
   "unique_name": "Unsigned Rock",

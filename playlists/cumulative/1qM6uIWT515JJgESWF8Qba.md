@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-212 songs - 13 hr 10 min
+214 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [La Muerte No Es El Final](https://open.spotify.com/track/2zYM7UHTmc1uCDIyDiJyzv) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [La Muerte No Es El Final](https://open.spotify.com/album/2x1dWg4fWHuhiilvgAFBa2) | 5:01 | 2025-12-01 | 2025-12-28 |
 | [Last String](https://open.spotify.com/track/1c3Nso9d1oMWGR9YCWsNhI) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Down](https://open.spotify.com/album/41OIZc7GGve2d6Upc7MRhu) | 4:12 | 2025-12-13 | 2026-01-21 |
 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 | 2026-02-09 |  |
+| [Libertad de Expresión](https://open.spotify.com/track/37uRx1n0rsGqoIIIz6QcPO) | [Misión Pájaro](https://open.spotify.com/artist/0fbfzghafzuSdoHe1VMZXy) | [Libertad de Expresión](https://open.spotify.com/album/0DGZGMrloXmGnADcqIlJd0) | 5:40 | 2026-04-16 |  |
 | [Libre](https://open.spotify.com/track/4D03zGZazrn4H4eJhkV2pb) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [Libre](https://open.spotify.com/album/4LUp5e5P4XxVkkENXdL7vE) | 3:22 | 2026-01-07 | 2026-02-02 |
 | [Lie \- '25](https://open.spotify.com/track/6pJJ8YphCAGDA89qMMhKPr) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 6:02 | 2025-12-03 | 2025-12-28 |
 | [Lies](https://open.spotify.com/track/6BEeSTmtL7G1omggshngn3) | [Highway Queen](https://open.spotify.com/artist/6HV2ATap9CHsc4EcZnzc4u) | [Extendead Play](https://open.spotify.com/album/5kf27yA2pk86epIZc20WlB) | 4:31 | 2026-02-16 |  |
@@ -159,6 +160,7 @@
 | [Perché amo il mio lavoro](https://open.spotify.com/track/336aLiYmKlh1WfDVY1QJLF) | [Hofmann Orchestra](https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK) | [Un'estate all'inferno](https://open.spotify.com/album/72aYGJWx28UtvsP7sXaX42) | 2:41 | 2025-10-30 | 2025-12-28 |
 | [Piece Of The Pie](https://open.spotify.com/track/01SzDzVKiUZzwgsxkgxCqp) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Piece Of The Pie](https://open.spotify.com/album/458bpgTUEVcU1q51PS6h6R) | 3:41 | 2025-12-13 | 2026-01-21 |
 | [Play The Fool](https://open.spotify.com/track/17utc5QAA7nYqFHJBecviD) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:13 | 2025-11-21 | 2025-12-28 |
+| [Pride](https://open.spotify.com/track/5fTYOxtkQXksKM7Pbj6SQy) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 2:32 | 2026-04-16 |  |
 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 | 2026-04-15 |  |
 | [Pumping on Your Stereo](https://open.spotify.com/track/0XBCiN9V5wtPDTtAZjwXlX) | [The Funky Ducklings](https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ) | [Album.1](https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg) | 2:38 | 2025-11-03 | 2025-12-28 |
 | [Purple Wings](https://open.spotify.com/track/3FrWG2dq5dAvQVidWt3ORC) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [Purple Wings](https://open.spotify.com/album/6Yvrw0NredYIxJaxFjST52) | 5:41 | 2026-02-09 |  |

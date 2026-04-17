@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > Trending rn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,541 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,629 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 17 | [Jogodo](https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Jogodo](https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx) | 3:08 |
 | 18 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
 | 19 | [Galorizzy](https://open.spotify.com/track/5DuhLCBVuGRYVoV64ucaWh) | [Galorizzy](https://open.spotify.com/artist/6S9TlkW0vuMPSukzSi2ekT), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Ecool](https://open.spotify.com/artist/6JR1ZXP9TnnNSPb1hgIYt2), [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Iphxne Dj](https://open.spotify.com/artist/4EfQl4TQ42KtYG63xYRutj) | [Galorizzy](https://open.spotify.com/album/7K7xjE4WLt5qg2rbvBQQLq) | 4:13 |
-| 20 | [All for You](https://open.spotify.com/track/1W6jbXrUrPQXHFbdiwPMmG) | [Boi Chase](https://open.spotify.com/artist/3oDfCf5QvkoeVhPr5ixgZb) | [All for You](https://open.spotify.com/album/2oRxw8c555SnVKZ3ljNDZQ) | 2:33 |
+| 20 | [ON YOU \- ii](https://open.spotify.com/track/1L7mx2rrY4CZEN7v7HsJna) | [Timi Dre](https://open.spotify.com/artist/32pQwaIjQrF9MjT4YeoF9Q), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [ON YOU \(ii\)](https://open.spotify.com/album/0pUPU8nToAwF09iTcUNGxH) | 3:25 |
 | 21 | [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 |
 | 22 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 | 23 | [Mark Zuckerberg \(feat\. Slyzza Rsa\)](https://open.spotify.com/track/1lrAlFWcmIyDEo3a0VvPYo) | [Mulest Vankay](https://open.spotify.com/artist/3xqiosg5nLMwVd8w3lO5li), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Slyzza Rsa](https://open.spotify.com/artist/61w0RQ0wzRDoEocR0IR4v2) | [Mark Zuckerberg \(feat\. Slyzza Rsa\)](https://open.spotify.com/album/5sXKmGAemtZ1kuAbdeJdEB) | 7:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 49 | [Love Me](https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot](https://open.spotify.com/album/4W2jsXW6tFmAtPzeEBWAlA) | 4:33 |
 | 50 | [Gimbiyar Hausa](https://open.spotify.com/track/6UJiEG1Dnv7qXzSJXsq97j) | [Boyskido](https://open.spotify.com/artist/7xodrwn8b6PBIJMCJwzh5w) | [Gimbiyar Hausa](https://open.spotify.com/album/6o41ZRA8PN1VvXmOA3dVoy) | 2:51 |
 
-Snapshot ID: `AAAAAE2Q8piBIuDpodf3R68YPzXmBQdX`
+Snapshot ID: `AAAAAIPyf0b0A25jqNFgjreM/QOgFiqh`

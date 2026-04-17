@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3382,
+  "num_followers": 3385,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Doen Net Jou Ding",
+        "url": "https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe"
+      },
+      "artists": [
+        {
+          "name": "Benjamen",
+          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
+        }
+      ],
+      "duration_ms": 185395,
+      "name": "Doen Net Jou Ding",
+      "url": "https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "Private",
         "url": "https://open.spotify.com/album/5xII4hT5elWFNk8JJ6nsGT"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 180976,
       "name": "Private",
       "url": "https://open.spotify.com/track/2ch0sBikWq1WN9QAZQEHy1"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Doen Net Jou Ding",
-        "url": "https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe"
-      },
-      "artists": [
-        {
-          "name": "Benjamen",
-          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
-        }
-      ],
-      "duration_ms": 185395,
-      "name": "Doen Net Jou Ding",
-      "url": "https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -963,18 +963,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Exs Die Ou",
-        "url": "https://open.spotify.com/album/6QJR1nAn1kQzI0s8uc85J4"
+        "name": "Ladies From The Cape",
+        "url": "https://open.spotify.com/album/6UPbO4Hwf2z1oaCwGI6iXN"
       },
       "artists": [
         {
-          "name": "Mr Heinz",
-          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+          "name": "illRow",
+          "url": "https://open.spotify.com/artist/2dRcdCUa8vHBggtgvngMI1"
+        },
+        {
+          "name": "Charly X2C",
+          "url": "https://open.spotify.com/artist/6yu8nIyG3jnvaF3xWPkXmX"
         }
       ],
-      "duration_ms": 186723,
-      "name": "Exs Die Ou",
-      "url": "https://open.spotify.com/track/3ka1g6KZDn50XNLVDatqcP"
+      "duration_ms": 177812,
+      "name": "Ladies From The Cape",
+      "url": "https://open.spotify.com/track/0xqENcBffVOxa2EWqhrhtI"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

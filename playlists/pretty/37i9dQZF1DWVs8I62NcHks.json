@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your favorite Disney tunes, including \"Zoo\" from Zootopia 2!",
-  "num_followers": 2074590,
+  "num_followers": 2074639,
   "original_name": "Disney Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFvw9ne1zGQWgDeylw0YIbZFsHUU",
+  "snapshot_id": "AAAAAB18EgSM7v9Q4pltk7daazX3h7Wm",
   "tracks": [
     {
       "added_at": "2026-04-03 13:00:18",
@@ -1331,6 +1331,26 @@
       "duration_ms": 123026,
       "name": "Supercalifragilisticexpialidocious",
       "url": "https://open.spotify.com/track/7fImDWw5bcUhRbZ0w1ny4J"
+    },
+    {
+      "added_at": "2026-04-16 18:15:31",
+      "album": {
+        "name": "Main Street Country",
+        "url": "https://open.spotify.com/album/1cvfkOrGG9m7OOpEUOlFn0"
+      },
+      "artists": [
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/3rS4DHki5GX4GieQHj3zq4"
     },
     {
       "added_at": "2026-04-03 13:00:18",

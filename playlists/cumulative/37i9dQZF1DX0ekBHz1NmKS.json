@@ -3741,6 +3741,24 @@
     },
     {
       "album": {
+        "name": "Blindg\u00e5ngare / Du \u00e4r vid liv",
+        "url": "https://open.spotify.com/album/6eQFzMf0W6BniBkrWdR4yV"
+      },
+      "artists": [
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234360,
+      "name": "Blindg\u00e5ngare",
+      "url": "https://open.spotify.com/track/100mfCn33NMGrzd2L7Tr5L"
+    },
+    {
+      "album": {
         "name": "Blod",
         "url": "https://open.spotify.com/album/30FsiBg4znluk97LOPeDhe"
       },
@@ -9686,7 +9704,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 148888,
       "name": "En dr\u00f6m",
       "url": "https://open.spotify.com/track/3dQGDtM4mk2rMAEJiZdmcr"
@@ -11276,7 +11294,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 127142,
       "name": "Fight!",
       "url": "https://open.spotify.com/track/2EXsWp0rm1RVFVb4FhMTYy"
@@ -18270,6 +18288,24 @@
       "duration_ms": 167892,
       "name": "Ingenting",
       "url": "https://open.spotify.com/track/3t6K2juWZJbEEWWXM8YMjL"
+    },
+    {
+      "album": {
+        "name": "INGET E SAMMA",
+        "url": "https://open.spotify.com/album/3vEuDEYKjbonMqING0XegG"
+      },
+      "artists": [
+        {
+          "name": "Reyn",
+          "url": "https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152903,
+      "name": "INGET E SAMMA",
+      "url": "https://open.spotify.com/track/13aLtHCE3vPPDCct3nz6Iz"
     },
     {
       "album": {
@@ -28242,7 +28278,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 107302,
       "name": "Precis som jag",
       "url": "https://open.spotify.com/track/22LcCHcm5fiaf7V52k18j0"
@@ -32847,6 +32883,24 @@
     },
     {
       "album": {
+        "name": "Sp\u00f6ken",
+        "url": "https://open.spotify.com/album/1cqYqPKOj0X8m5ujIGWKcs"
+      },
+      "artists": [
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181948,
+      "name": "Sp\u00f6ken",
+      "url": "https://open.spotify.com/track/71eGRVXsrdEdGScvbz13gK"
+    },
+    {
+      "album": {
         "name": "Memory Be a Blade",
         "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
       },
@@ -37211,6 +37265,24 @@
     },
     {
       "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195018,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX"
+    },
+    {
+      "album": {
         "name": "Tv\u00e5 idioter",
         "url": "https://open.spotify.com/album/2VgpCTBPtS3jhFeGGaUGMm"
       },
@@ -39102,7 +39174,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 179000,
       "name": "Vintersaga (feat. Erik Lundin)",
       "url": "https://open.spotify.com/track/10UCosnyAKb33FIpMLCK20"

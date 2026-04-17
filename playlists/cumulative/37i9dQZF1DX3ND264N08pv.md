@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-427 songs - 22 hr 51 min
+428 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Back 2 The Rave](https://open.spotify.com/track/0FASAn7UH8MTSFd1TfJ41q) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Back 2 The Rave](https://open.spotify.com/album/5K3tYCDfi6KH4T4VOuYiJ8) | 2:44 | 2024-05-17 | 2024-06-28 |
 | [Back In The Game](https://open.spotify.com/track/1gZsQhy8eW7IEuxcQ9Dzuy) | [KEMAL](https://open.spotify.com/artist/7JW9vNFifByjqiuZMVwlwg), [D\-Tempo](https://open.spotify.com/artist/5qsxbdy5zUGUvUzNbWhCot) | [Back In The Game](https://open.spotify.com/album/0BD4etlJxWIQ3rrEezCXqj) | 2:54 | 2024-11-18 | 2025-04-06 |
 | [Bad To The Bone!!](https://open.spotify.com/track/5pptbJFvpxSlIjMjy9aqsf) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Bad To The Bone!!](https://open.spotify.com/album/0PJo9SFqLIgvwQ8dYMCloy) | 2:41 | 2025-06-19 | 2025-11-25 |
+| [BAMM](https://open.spotify.com/track/6gFYR0l7xwGCYfiYRdwld5) | [Essociaal](https://open.spotify.com/artist/4G2YFwn4mbVinDu5MrDMI0), [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s) | [BAMM](https://open.spotify.com/album/7vQcXvS4vvL3Kghayv2IjY) | 3:01 | 2026-04-13 |  |
 | [Bang Bang](https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [Bang Bang](https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG) | 4:54 | 2022-12-08 | 2023-12-22 |
 | [BANG BANG](https://open.spotify.com/track/3EpRJN0najsfQrBCsTtVWI) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [BANG BANG](https://open.spotify.com/album/4NknmJjW2wUwfdZiAJksX4) | 2:48 | 2024-05-02 | 2025-04-04 |
 | [BASS CANNON](https://open.spotify.com/track/7fB5h3FffLhYp3HrH9JkWp) | [Slaughterhouse](https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [BASS CANNON](https://open.spotify.com/album/4IJqXcnHeWcENkMBKwcvBD) | 2:09 | 2025-08-07 | 2026-03-07 |
@@ -161,7 +162,7 @@
 | [Hardcore Strikes Back](https://open.spotify.com/track/7bf4DG2tPnRn5Dce4virJE) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Hardcore Strikes Back](https://open.spotify.com/album/6mReiEKP5mrzmQV1N0YRdE) | 3:09 | 2025-08-07 | 2025-10-02 |
 | [Hardcore Style](https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [The Bones Collection](https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR) | 3:20 | 2022-12-08 | 2023-09-15 |
 | [HARI HARI \(2024 RMX\)](https://open.spotify.com/track/7huXZkJSKKIdk9kEQ5jvYU) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Ender](https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw) | [HARI HARI \(2024 RMX\)](https://open.spotify.com/album/21TAQ8FTR3StxaSFckS4MM) | 3:16 | 2024-01-24 | 2024-02-09 |
-| [Hate Destroyer](https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Hate Destroyer](https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb) | 2:55 | 2025-04-17 |  |
+| [Hate Destroyer](https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Hate Destroyer](https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb) | 2:55 | 2025-04-17 | 2026-04-17 |
 | [Heartquake](https://open.spotify.com/track/5KXOVRegnjDDTyDC4P29kE) | [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu), [Goblin Grave](https://open.spotify.com/artist/1z54PqrKf4Z6qRhdxbK6k2) | [Heartquake](https://open.spotify.com/album/1yANHCdK6mKBeV8bVdVkoQ) | 2:24 | 2024-08-02 | 2024-11-09 |
 | [Heavy Kickdrum](https://open.spotify.com/track/5FCQP1z9oNKDo0yjlZypWk) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt), [Boogshe](https://open.spotify.com/artist/0XugtaijoMOUdu6eVWPtX3) | [Heavy Kickdrum](https://open.spotify.com/album/2md9H6p9vC9hJpkoi0RORN) | 3:39 | 2026-02-12 |  |
 | [Hell Boy](https://open.spotify.com/track/0eJHFqxFo6Zie80rJfWHrg) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Hell Boy](https://open.spotify.com/album/7Ae8pqHUbS1f2HNxwiFWtk) | 3:44 | 2022-12-08 | 2023-09-15 |

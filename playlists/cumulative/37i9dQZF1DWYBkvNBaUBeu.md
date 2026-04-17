@@ -4,7 +4,7 @@
 
 > Future hits in the Philippines! Cover: KATSEYE
 
-739 songs - 1 day 15 hr 2 min
+740 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 | 2025-02-03 | 2025-03-11 |
 | [Bliss](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Bliss](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 | 2025-05-13 | 2025-07-07 |
 | [Blue](https://open.spotify.com/track/4wZ4Mb2u58AcVPbNNXKQwL) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Blue](https://open.spotify.com/album/4e5cub7bCm8o61uKKaAVFW) | 3:16 | 2026-01-12 | 2026-03-03 |
+| [Blueberry Skies](https://open.spotify.com/track/3NCz117frOEZV6dSgVpop6) | [CHIRAI](https://open.spotify.com/artist/2p3FQ1wlwCWcCXQpUuxWTa) | [Blueberry Skies](https://open.spotify.com/album/75El775pQjP9Mx13n1rl41) | 3:26 | 2026-04-16 |  |
 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-04-21 | 2025-06-09 |
 | [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 | 2025-10-13 | 2025-11-18 |
 | [Boy In Love](https://open.spotify.com/track/19TlagHWD2YdNCOoZc1Fjp) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Boy In Love](https://open.spotify.com/album/4SoPcHKJ7s4XnNZtLbpJ9Y) | 2:37 | 2024-11-25 | 2025-04-08 |

@@ -3762,7 +3762,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 158769,
       "name": "I Never Knew - Shiba San Remix",
       "url": "https://open.spotify.com/track/4k4R0Fboys1lMarTUtrIu0"
@@ -7410,6 +7410,28 @@
       "duration_ms": 274736,
       "name": "Silence - John Summit Remix",
       "url": "https://open.spotify.com/track/2OP7UAuQF1OJbjeYXa5fhm"
+    },
+    {
+      "album": {
+        "name": "Sinking",
+        "url": "https://open.spotify.com/album/3aaoUvAkxmbAqmUDX6wAty"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236927,
+      "name": "Sinking",
+      "url": "https://open.spotify.com/track/31N5i68R7fFHqH6E87OgHB"
     },
     {
       "album": {

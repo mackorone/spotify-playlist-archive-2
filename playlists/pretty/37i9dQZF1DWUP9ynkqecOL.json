@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 26085,
+  "num_followers": 26088,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,26 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
+        "name": "Nave",
+        "url": "https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR"
+      },
+      "artists": [
+        {
+          "name": "Cocaibica",
+          "url": "https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 189791,
+      "name": "Nave",
+      "url": "https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
         "name": "Tierra Natal (Barzo Remix)",
         "url": "https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 199578,
       "name": "Tierra Natal - Barzo Remix",
       "url": "https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
-        "name": "Nave",
-        "url": "https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR"
-      },
-      "artists": [
-        {
-          "name": "Cocaibica",
-          "url": "https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 189791,
-      "name": "Nave",
-      "url": "https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU"
     },
     {
       "added_at": "2026-02-13 13:38:17",

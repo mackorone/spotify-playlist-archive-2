@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALAi9nJHKzdSu+uWcbOKdgZGkFWN",
+  "snapshot_id": "AAAAAEXSfMjycklTxCroZTrOqMziLCER",
   "tracks": [
     {
       "added_at": "2026-04-07 21:00:17",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2026-04-07 21:00:17",
       "album": {
-        "name": "ku\u015f gibi",
-        "url": "https://open.spotify.com/album/3h9SMqRKzzhGvrNAmVg4sI"
-      },
-      "artists": [
-        {
-          "name": "Eda Atlas",
-          "url": "https://open.spotify.com/artist/7evFI1HE86akQXdNhdWJVd"
-        },
-        {
-          "name": "istanbul g\u00fcnl\u00fc\u011f\u00fc",
-          "url": "https://open.spotify.com/artist/1XIZrNcJyVWBO77ndl82Xk"
-        }
-      ],
-      "duration_ms": 119959,
-      "name": "ku\u015f gibi",
-      "url": "https://open.spotify.com/track/24d0dWSUWmogEax1FZt7xC"
-    },
-    {
-      "added_at": "2026-04-07 21:00:17",
-      "album": {
         "name": "Deniz \u00dcst\u00fc K\u00f6p\u00fcr\u00fcr",
         "url": "https://open.spotify.com/album/25ef0d0jVtaet4p6YlJhaQ"
       },
@@ -1411,22 +1391,6 @@
       "duration_ms": 191033,
       "name": "Anlamazlar",
       "url": "https://open.spotify.com/track/5n2dyBpz17dMIQPyyxy6GI"
-    },
-    {
-      "added_at": "2026-04-07 21:00:17",
-      "album": {
-        "name": "Kalp K\u0131r\u0131c\u0131",
-        "url": "https://open.spotify.com/album/5FM11VN98NQg2ewTMWPG58"
-      },
-      "artists": [
-        {
-          "name": "I\u015f\u0131l Y\u00fccesoy",
-          "url": "https://open.spotify.com/artist/1WjIcCjkJaaiW4rgwXsyuU"
-        }
-      ],
-      "duration_ms": 151400,
-      "name": "Kalp K\u0131r\u0131c\u0131",
-      "url": "https://open.spotify.com/track/7AIhJGK6BXvyVnOz7jPYxF"
     },
     {
       "added_at": "2026-04-07 21:00:17",

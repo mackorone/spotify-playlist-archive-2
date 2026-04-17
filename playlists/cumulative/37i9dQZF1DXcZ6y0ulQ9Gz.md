@@ -4,7 +4,7 @@
 
 > The best indie of then and the best of now\. Cover: Daniela Andrade
 
-840 songs - 2 day 2 hr 34 min
+841 songs - 2 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 | 2023-12-08 | 2024-04-13 |
 | [Afterlife](https://open.spotify.com/track/53NgnwT6xCOxEuVmIBDFpy) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:30 | 2025-11-28 | 2025-12-17 |
 | [Again](https://open.spotify.com/track/6TxXpZ17qTxOVDleRQ3aM9) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [And It's the Same](https://open.spotify.com/album/54OHuVIsIzyZoiUhTGpreI) | 3:51 | 2021-04-30 | 2022-07-28 |
-| [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 | 2023-02-10 |  |
+| [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 | 2023-02-10 | 2026-04-17 |
 | [Air Forces](https://open.spotify.com/track/69bqljA2mItBcXom1vkjQX) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/3uS8BaiM7cV3lqQ5OIpgaH) | 2:58 | 2021-03-27 | 2022-06-26 |
 | [Air Power \(feat\. The Kount\)](https://open.spotify.com/track/0m6ehZK0yTw5rLvYXy53ML) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY) | [Air Power \(feat\. The Kount\)](https://open.spotify.com/album/2yeVwhR3XVshdhp3ppP3M7) | 3:39 | 2022-03-25 | 2022-04-13 |
 | [Airport Dreams \(feat\. Sarah Bonito\)](https://open.spotify.com/track/4WD6nT9bsGqVXlOUbZ4HNy) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11), [Sarah Bonito](https://open.spotify.com/artist/154N9q0T7ZUx3svKaObbps) | [Airport Dreams \(feat\. Sarah Bonito\)](https://open.spotify.com/album/69CnwTzHcwf5j8i0jraAhj) | 2:56 | 2021-12-17 | 2022-05-14 |
@@ -471,6 +471,7 @@
 | [mexico](https://open.spotify.com/track/7h4WvFZjJQvH87W9fTIjyl) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT), [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl) | [mexico](https://open.spotify.com/album/0TFUXnSmt2oHWYPl8q4uJQ) | 2:10 | 2021-05-05 | 2022-04-16 |
 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 | 2022-08-23 | 2023-02-11 |
 | [Mile High \(feat\. Travis Scott & Metro Boomin\)](https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:13 | 2023-02-10 | 2025-11-29 |
+| [Milkman](https://open.spotify.com/track/6HoUzmc0wu7zjKgjnKKTLX) | [Mah Moud](https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf) | [Alexander Mure's Songs in the Key of C\-Minus!](https://open.spotify.com/album/04GJJ7V0sBgkRREWsBJHZf) | 2:50 | 2026-04-17 |  |
 | [Mindless](https://open.spotify.com/track/63JuomZqCbDTgZ4lect9T2) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Under The Weather](https://open.spotify.com/album/5qwVn38pLMvOFSki8dbRrp) | 2:49 | 2022-08-23 | 2022-09-03 |
 | [Mirror](https://open.spotify.com/track/7ucHWihrU5rXvifBLPiUbZ) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Humanhood](https://open.spotify.com/album/7qWfaw5cGD6TBkfFFoKW5N) | 4:56 | 2025-02-14 | 2025-11-29 |
 | [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 | 2021-04-30 | 2022-08-24 |

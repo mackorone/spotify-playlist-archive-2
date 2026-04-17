@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with John Summit",
-  "num_followers": 498822,
+  "num_followers": 499218,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-04-10 04:02:20",
       "album": {
-        "name": "I Like It (with Nate Smith)",
-        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 152349,
-      "name": "I Like It (with Nate Smith)",
-      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
-    },
-    {
-      "added_at": "2026-04-10 04:02:20",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
       },
@@ -959,26 +939,22 @@
     {
       "added_at": "2026-04-10 04:02:20",
       "album": {
-        "name": "Sweet Nothing (2025 Edit)",
-        "url": "https://open.spotify.com/album/4i8AwmJIMxxO8RrXOkjm3p"
+        "name": "I Like It (with Nate Smith)",
+        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
       },
       "artists": [
         {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Florence Welch",
-          "url": "https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 202176,
-      "name": "Sweet Nothing - 2025 Edit",
-      "url": "https://open.spotify.com/track/4ClVzfSYEea03HjEoDYOX3"
+      "duration_ms": 152349,
+      "name": "I Like It (with Nate Smith)",
+      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
     },
     {
       "added_at": "2026-04-10 04:02:20",
@@ -999,6 +975,30 @@
       "duration_ms": 193842,
       "name": "That's When You Know",
       "url": "https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D"
+    },
+    {
+      "added_at": "2026-04-10 04:02:20",
+      "album": {
+        "name": "Sweet Nothing (2025 Edit)",
+        "url": "https://open.spotify.com/album/4i8AwmJIMxxO8RrXOkjm3p"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Florence Welch",
+          "url": "https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg"
+        }
+      ],
+      "duration_ms": 202176,
+      "name": "Sweet Nothing - 2025 Edit",
+      "url": "https://open.spotify.com/track/4ClVzfSYEea03HjEoDYOX3"
     },
     {
       "added_at": "2026-04-10 04:02:20",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-04-10 04:02:20",
       "album": {
-        "name": "Bring Me To Life",
-        "url": "https://open.spotify.com/album/0hLl6XW9qAjuuPijk9SKTe"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "FORS",
-          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
-        }
-      ],
-      "duration_ms": 258461,
-      "name": "Bring Me To Life",
-      "url": "https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp"
-    },
-    {
-      "added_at": "2026-04-10 04:02:20",
-      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 140986,
       "name": "Around The World",
       "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
+    },
+    {
+      "added_at": "2026-04-10 04:02:20",
+      "album": {
+        "name": "Bring Me To Life",
+        "url": "https://open.spotify.com/album/0hLl6XW9qAjuuPijk9SKTe"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "FORS",
+          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
+        }
+      ],
+      "duration_ms": 258461,
+      "name": "Bring Me To Life",
+      "url": "https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp"
     },
     {
       "added_at": "2026-04-10 04:02:20",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2026-04-10 04:02:20",
       "album": {
-        "name": "Forever Yours (Tim\u2019s 2016 Ibiza Version)",
-        "url": "https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 208159,
-      "name": "Forever Yours - Tim\u2019s 2016 Ibiza Version",
-      "url": "https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT"
-    },
-    {
-      "added_at": "2026-04-10 04:02:20",
-      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 227735,
       "name": "\u2060\u2060Butterflies",
       "url": "https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT"
+    },
+    {
+      "added_at": "2026-04-10 04:02:20",
+      "album": {
+        "name": "Forever Yours (Tim\u2019s 2016 Ibiza Version)",
+        "url": "https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 208159,
+      "name": "Forever Yours - Tim\u2019s 2016 Ibiza Version",
+      "url": "https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT"
     },
     {
       "added_at": "2026-04-10 04:02:20",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2026-04-10 04:02:20",
       "album": {
-        "name": "Interstellar",
-        "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 231591,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
-    },
-    {
-      "added_at": "2026-04-10 04:02:20",
-      "album": {
         "name": "Ain't Letting You Down",
         "url": "https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 160888,
       "name": "Destination Calabria",
       "url": "https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2"
+    },
+    {
+      "added_at": "2026-04-10 04:02:20",
+      "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 231591,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
     },
     {
       "added_at": "2026-04-10 04:02:20",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2026-04-10 04:02:20",
       "album": {
-        "name": "The End Of Genesys (Deluxe)",
-        "url": "https://open.spotify.com/album/5mrhEkyhLEU7HCb1msC0bw"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "Out Of My Body (feat. EJAE)",
-      "url": "https://open.spotify.com/track/4gWtx9QQlkt7x7dIohwoHE"
-    },
-    {
-      "added_at": "2026-04-10 04:02:20",
-      "album": {
         "name": "Inside Our Hearts",
         "url": "https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh"
       },
@@ -1971,6 +1951,26 @@
       "duration_ms": 161276,
       "name": "One By One (feat. Oaks)",
       "url": "https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA"
+    },
+    {
+      "added_at": "2026-04-10 04:02:20",
+      "album": {
+        "name": "The End Of Genesys (Deluxe)",
+        "url": "https://open.spotify.com/album/5mrhEkyhLEU7HCb1msC0bw"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Out Of My Body (feat. EJAE)",
+      "url": "https://open.spotify.com/track/4gWtx9QQlkt7x7dIohwoHE"
     },
     {
       "added_at": "2026-04-10 04:02:20",
@@ -2103,26 +2103,6 @@
     {
       "added_at": "2026-04-10 04:02:20",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/06qQT1E5uhlINmwovogW4P"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 192836,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/4e1L2pH75XOtCE0I0XzxlU"
-    },
-    {
-      "added_at": "2026-04-10 04:02:20",
-      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/5yz98zU9Q0jqwaBP1ppMI4"
       },
@@ -2139,6 +2119,26 @@
       "duration_ms": 150000,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p"
+    },
+    {
+      "added_at": "2026-04-10 04:02:20",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/06qQT1E5uhlINmwovogW4P"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 192836,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/4e1L2pH75XOtCE0I0XzxlU"
     },
     {
       "added_at": "2026-04-10 04:02:20",

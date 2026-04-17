@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 520720,
+  "num_followers": 520792,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAACkZkEM2KBAb/ZLkztUsGBJ",
+  "snapshot_id": "ad7VAAAAAACi2KFq1Aii0Z7JwfSxTAnT",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indomable",
-        "url": "https://open.spotify.com/album/3ywdCjvMj2iL372ajvu3Xx"
+        "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
       "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        },
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 225986,
-      "name": "Learn Me Right",
-      "url": "https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC"
+      "duration_ms": 271025,
+      "name": "Friend of the Devil",
+      "url": "https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m"
     },
     {
       "added_at": null,
@@ -699,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Day of the Dead",
-        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
+        "name": "Indomable",
+        "url": "https://open.spotify.com/album/3ywdCjvMj2iL372ajvu3Xx"
       },
       "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        },
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 271025,
-      "name": "Friend of the Devil",
-      "url": "https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m"
+      "duration_ms": 225986,
+      "name": "Learn Me Right",
+      "url": "https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC"
     }
   ],
   "unique_name": "This Is Mumford & Sons",

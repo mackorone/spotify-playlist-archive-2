@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: YUNGTARR
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: JOEY PHUWASIT
 
-231 songs - 14 hr 56 min
+234 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [hot2hot](https://open.spotify.com/track/3eUgJRHtoCxg9T0wV49gKo) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [hot2hot](https://open.spotify.com/album/6qjuFWN9s0z4gho6PWQXQH) | 4:13 | 2024-05-30 | 2024-07-21 |
 | [Hotel Lobby](https://open.spotify.com/track/5ZwO6yhqNgne3juzRbHgDB) | [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg) | [Hotel Lobby](https://open.spotify.com/album/6V1DgWqsW0A09jYNKH8PW6) | 3:20 | 2025-04-24 | 2025-07-04 |
 | [Hurry up!](https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0YLmjPr1cUP4JpOVbHOFfR) | 2:43 | 2025-05-08 |  |
-| [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 | 2024-09-19 |  |
+| [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 | 2024-09-19 | 2026-04-17 |
 | [I love you a latte](https://open.spotify.com/track/59wHlNG8GyEBWlXKGCOnuV) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [I love you a latte](https://open.spotify.com/album/5sNeJA74iuvnlSXaCBM1EI) | 3:53 | 2025-05-08 | 2025-08-08 |
 | [I’m OK // Not OK \- Headphones Version](https://open.spotify.com/track/4eXfkqFZLTixR89GpkjKgE) | [BOYdPOD](https://open.spotify.com/artist/31esXlsRlVAFFGS7lx4BOS), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [I’m OK // Not OK \(Headphones Version\)](https://open.spotify.com/album/5FqyaQKzUJtMJkXqpGMA2k) | 5:16 | 2025-06-05 | 2025-07-25 |
 | [Just For You](https://open.spotify.com/track/1rHCpL5fzMrHwhFA5rk6wO) | [BADMIXY](https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1), [JEEP](https://open.spotify.com/artist/3SHZIwDKgpVv86LfYJNGy2) | [Just For You](https://open.spotify.com/album/0lrjJZPK1RTqGVMNyz3rhB) | 4:18 | 2025-04-24 | 2025-07-12 |
@@ -175,7 +175,7 @@
 | [วันนี้ปีที่แล้ว](https://open.spotify.com/track/4bnxMt1viexb85sAtVz1dA) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [วันนี้ปีที่แล้ว \- Single](https://open.spotify.com/album/6gI2LOnO76dKJ97awecXIx) | 3:53 | 2024-01-26 | 2025-01-16 |
 | [วาสนาผู้ใด](https://open.spotify.com/track/1atD9QMSoZjgKiUKKopZBW) | [Parkmalody](https://open.spotify.com/artist/6qb55pF0q2KS3v4M1Vd0yE) | [วาสนาผู้ใด](https://open.spotify.com/album/3pcJIZiaDMxH8hvTig1v99) | 3:15 | 2024-01-26 | 2024-04-19 |
 | [วาสนาผู้ใด](https://open.spotify.com/track/3skwZnq1wGOaBvniFLZjGo) | [Parkmalody](https://open.spotify.com/artist/6qb55pF0q2KS3v4M1Vd0yE) | [วาสนาผู้ใด](https://open.spotify.com/album/21KFJc9i08LxmFt1zP74vo) | 3:15 | 2024-04-18 | 2024-06-01 |
-| [วิงวอน](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 | 2024-11-22 |  |
+| [วิงวอน](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 | 2024-11-22 | 2026-04-17 |
 | [สมดุลรัก \(Balance\)](https://open.spotify.com/track/2luYdyxKSSxuC3cSW8N6A0) | [SEA.](https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC), [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE) | [สมดุลรัก \(Balance\)](https://open.spotify.com/album/27NJks9IX9VfAjgvQQRtgk) | 3:17 | 2025-10-22 |  |
 | [สวยงามเสมอ \(Ever\-Forever\) \- Ost\. หลานม่า](https://open.spotify.com/track/5Bs2KbKUeNHM25x8t1DBTF) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [สวยงามเสมอ \(Ever\-Forever\) \[Ost\. หลานม่า\]](https://open.spotify.com/album/2NLjV6ULahC8NVfjWSlsOv) | 3:41 | 2024-03-27 | 2024-07-19 |
 | [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 | 2025-02-08 |  |
@@ -195,6 +195,7 @@
 | [อยู่ได้แล้ว](https://open.spotify.com/track/2AdBbeVaEdW731a3FXJAJC) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [อยู่ได้แล้ว](https://open.spotify.com/album/3NkCwiKDPhfwZaKSEZUUiE) | 4:13 | 2024-08-08 | 2026-03-20 |
 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 | 2024-01-26 | 2024-06-07 |
 | [อิจฉา](https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [อิจฉา \- Single](https://open.spotify.com/album/01dsnQ9UyqGzZ4FtoZvXtQ) | 3:35 | 2024-01-26 | 2024-08-23 |
+| [อู้บ่จ้าง](https://open.spotify.com/track/5RhEVajyRoOtks0txRnCke) | [Sukrit Wisetkaew](https://open.spotify.com/artist/05ycwBAg6CYEweEbZgAYeT) | [อู้บ่จ้าง](https://open.spotify.com/album/67pHjCmyZ9jaPhNSjujGyp) | 3:59 | 2026-04-16 |  |
 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 | 2025-05-22 |  |
 | [เจ้าของที่](https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [Q.E.D](https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0) | 4:00 | 2024-01-26 | 2025-01-17 |
 | [เดินทางโดยสวัสดิภาพ](https://open.spotify.com/track/5xEtdOxQ3z18NWmDhG98N5) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [THAOWAN](https://open.spotify.com/artist/2bZps5eDWmWtRwjs54Qtwj) | [ชานชา\(ลา\)](https://open.spotify.com/album/1hjPLRs9m5kEJiTyYQSfiq) | 3:52 | 2025-02-06 | 2025-03-21 |
@@ -223,12 +224,13 @@
 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 | 2024-06-06 | 2025-02-09 |
 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 | 2024-05-06 | 2024-12-07 |
 | [แลกอะไรก็ได้](https://open.spotify.com/track/4lYo2OzvdN3WCy7FQhHIv5) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [แลกอะไรก็ได้](https://open.spotify.com/album/1czWyzVwvKtsAAOQiuUrqw) | 3:37 | 2024-05-30 | 2024-09-20 |
-| [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/track/01m0HHk6WUdTjYXyOqZ5p3) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/album/031mYAdFkMANelKfQYBG1p) | 3:27 | 2026-03-05 |  |
+| [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/track/01m0HHk6WUdTjYXyOqZ5p3) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/album/031mYAdFkMANelKfQYBG1p) | 3:27 | 2026-03-05 | 2026-04-17 |
 | [แอบเก็บความในใจไว้ภายในแว่นเรย์แบนสีดำ](https://open.spotify.com/track/6sowsQcSP7ThATfccaEk1S) | [TaitosmitH](https://open.spotify.com/artist/0CR1aLS3JQTlekHgHTga60) | [แอบเก็บความในใจไว้ภายในแว่นเรย์แบนสีดำ \- Single](https://open.spotify.com/album/59g2gOFybbppLJRcsRec7C) | 5:32 | 2024-04-11 | 2024-05-17 |
 | [โลกทั้งใบ](https://open.spotify.com/track/0L5mkLRkk05Mfz4Tk0zU70) | [เล็ก รัชเมศฐ์](https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz) | [โลกทั้งใบ](https://open.spotify.com/album/6eN1MV5bdmZbuwgUcoTC21) | 3:42 | 2025-08-07 | 2025-10-03 |
 | [โลกที่แบกไว้](https://open.spotify.com/track/1BAIaOr39e7FsxRYjbPiyz) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [โลกที่แบกไว้](https://open.spotify.com/album/7Kd7MwlHvyBxiwAFaqhTqJ) | 4:40 | 2024-03-27 | 2024-08-28 |
 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 | 2024-03-10 | 2024-06-01 |
 | [ใจฉันตามเธอไป](https://open.spotify.com/track/75mFrseCKSI6Nz8WANXq90) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 4:24 | 2025-11-09 |  |
+| [ใจบาง](https://open.spotify.com/track/1znP3iOktHkMy0P8ZFPFe9) | [LUMMUN](https://open.spotify.com/artist/6Qk2g62cWGo8Ji8hSBoriS) | [ใจบาง](https://open.spotify.com/album/2nIEGU77LAyQSuP2oVVtSj) | 3:41 | 2026-04-16 |  |
 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 | 2024-04-11 | 2025-07-15 |
 | [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 | 2024-01-26 | 2024-07-13 |
 | [ใจหล่น \(Ruined\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/3eU8rU2yr6GFhR6gpWhNBA) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 4:58 | 2025-04-02 | 2025-04-29 |
@@ -239,5 +241,6 @@
 | [ไม่เป็นรอง](https://open.spotify.com/track/38uarkAk3Y13onWxwj0MIq) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ไม่เป็นรอง \- Single](https://open.spotify.com/album/1vsxelQ8EZjwbqMPEETzZ8) | 4:53 | 2024-01-26 | 2024-06-01 |
 | [ไม่ใช่ไม่รัก](https://open.spotify.com/track/2UYCVz38O2zoQICICt9ZzU) | [PORZAX](https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP) | [ไม่ใช่ไม่รัก](https://open.spotify.com/album/3DqJ2YjutAdb7xv55GTFTd) | 4:31 | 2026-01-15 | 2026-02-20 |
 | [ไม่ให้ไป](https://open.spotify.com/track/0zLFNFvbnPmWZfDewtyaVg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่ให้ไป \- Single](https://open.spotify.com/album/5mS7KW0IM3CrLf0SO9QM6P) | 4:00 | 2024-06-14 | 2025-08-22 |
+| [ไม่ได้ลืมแค่ไม่ได้เจอ \- Flashback](https://open.spotify.com/track/2m7as7aD1JAEUSOJCNoeHT) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ไม่ได้ลืมแค่ไม่ได้เจอ \(Flashback\)](https://open.spotify.com/album/3VA8BIHjnmu3sOgZcEB97e) | 3:48 | 2026-04-16 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-01",
-  "description": "Fresh from the recording to your ears. Latest Hindi music, right here. Cover - Dhurandhar: The Revenge",
+  "description": "Fresh from the recording to your ears. Latest Hindi music, right here. Cover - Cocktail 2",
   "name": "New Music Hindi",
   "tracks": [
     {
@@ -2536,6 +2536,36 @@
       "duration_ms": 343899,
       "name": "Brahmakalasha (From \"Kantara A Legend Chapter 1 - Hindi\")",
       "url": "https://open.spotify.com/track/4ZWt2TEXKAYJB5XtsWi7As"
+    },
+    {
+      "album": {
+        "name": "Bulletproof (From \"Lukkhe\")",
+        "url": "https://open.spotify.com/album/0wCIknAP0Im4Baez90mTjA"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Amira Gill",
+          "url": "https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        },
+        {
+          "name": "Manreet Khara",
+          "url": "https://open.spotify.com/artist/5IbqlFtFzlcqZW0KlnyVkq"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189717,
+      "name": "Bulletproof (From \"Lukkhe\")",
+      "url": "https://open.spotify.com/track/1jIIO95sVRWK97p6xYMx3b"
     },
     {
       "album": {
@@ -6530,10 +6560,44 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 98966,
       "name": "Jab Talak (Teaser) - From \u201cCocktail 2\u201d",
       "url": "https://open.spotify.com/track/4iVBj5uRWR4vjO9o1EXTCT"
+    },
+    {
+      "album": {
+        "name": "Jab Talak (From \u201cCocktail 2\u201d)",
+        "url": "https://open.spotify.com/album/13TFS2PsukoC4xLHULBClg"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192203,
+      "name": "Jab Talak - From \u201cCocktail 2\u201d",
+      "url": "https://open.spotify.com/track/3KZSwka3VHbj4edxiaqxfa"
     },
     {
       "album": {
@@ -8161,6 +8225,32 @@
     },
     {
       "album": {
+        "name": "Kya Kamaal Hai (From \"Main Vaapas Aaunga\")",
+        "url": "https://open.spotify.com/album/2sKyo6EVgRM9XcXjCGBmz4"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299132,
+      "name": "Kya Kamaal Hai (From \"Main Vaapas Aaunga\")",
+      "url": "https://open.spotify.com/track/43sFADxRRZQqutFgfzI6cx"
+    },
+    {
+      "album": {
         "name": "Kyun Mujhse Door Tha",
         "url": "https://open.spotify.com/album/43danYlLX7SAOpn9ZfIaZ4"
       },
@@ -8180,6 +8270,32 @@
       "duration_ms": 206571,
       "name": "Kyun Mujhse Door Tha",
       "url": "https://open.spotify.com/track/0g5ajF67afRJPw502dUEUM"
+    },
+    {
+      "album": {
+        "name": "Laiyaan",
+        "url": "https://open.spotify.com/album/7v1vuvYPo1OLs7GSWBTKWM"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Ruaa Kayy",
+          "url": "https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7"
+        },
+        {
+          "name": "RUTVXK",
+          "url": "https://open.spotify.com/artist/1GmpuAH0l3Z0AYj0vkGh2e"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213093,
+      "name": "Laiyaan",
+      "url": "https://open.spotify.com/track/2ecDjOlGElRwIIhfpeg7Z6"
     },
     {
       "album": {
@@ -12764,7 +12880,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 102247,
       "name": "Sapno Ki Zidd (From \"Hello Bachhon\")",
       "url": "https://open.spotify.com/track/6eR4exufGdIY2alJNZHFW1"
@@ -15002,7 +15118,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 143341,
       "name": "Tu Mila",
       "url": "https://open.spotify.com/track/2TheIuczIyxWtOgBGoqbPN"
@@ -15275,7 +15391,7 @@
     },
     {
       "album": {
-        "name": "Tum Pe Hi Pyaar Aa Gaya (From \"Ginny Wedss Sunny 2\")",
+        "name": "Tumpe Hi Pyaar Aa Gaya (From \"Ginny Wedss Sunny 2\")",
         "url": "https://open.spotify.com/album/0igY7oDAnxBuVkzBf7I1oe"
       },
       "artists": [
@@ -15502,7 +15618,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 177211,
       "name": "Valeti Daaru",
       "url": "https://open.spotify.com/track/6olZNsDtuNZqTBpRhgaUfG"

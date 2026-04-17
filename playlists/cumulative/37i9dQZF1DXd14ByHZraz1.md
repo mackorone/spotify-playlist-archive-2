@@ -4,7 +4,7 @@
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Almanac
 
-297 songs - 15 hr 31 min
+297 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Sicko Drop](https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE) | 2:27 | 2022-07-08 | 2023-08-19 |
 | [Sleepwalking \(feat\. The Chain Gang of 1974\)](https://open.spotify.com/track/5jnfFrLjhMrB3O2lh4jamJ) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [GHOSTT](https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Sleepwalking \(feat\. The Chain Gang of 1974\)](https://open.spotify.com/album/0u5cnlfY2VDHNC7cY4hr6u) | 2:39 | 2022-12-02 | 2024-03-09 |
 | [Slow Down \(feat\. Jorja Smith\) \- Vintage Culture & Slow Motion Remix](https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I) | [Slow Down \(feat\. Jorja Smith\) \[Vintage Culture & Slow Motion Remix\]](https://open.spotify.com/album/3AvjrWwSEgfZs0Ic7Srt8b) | 3:01 | 2021-12-24 | 2022-04-02 |
-| [So Am I](https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder](https://open.spotify.com/album/1LL2XVTzO6xLRNMag9XtXV) | 3:11 | 2026-02-27 |  |
+| [So Am I](https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder](https://open.spotify.com/album/1LL2XVTzO6xLRNMag9XtXV) | 4:43 | 2026-02-27 |  |
 | [Something](https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Something](https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ) | 2:43 | 2022-07-29 | 2022-11-12 |
 | [Sophisticated](https://open.spotify.com/track/0Wz8Q9U1m2UkZxCdYa47eH) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT), [2STRANGE](https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi) | [Reduto EP](https://open.spotify.com/album/6Enq0QVFspJuwf1hS6Qrdd) | 3:27 | 2024-04-26 | 2025-05-02 |
 | [Spinnin' Circles](https://open.spotify.com/track/4AtbLOzVyOaFbzEzkQz15Q) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Spinnin' Circles](https://open.spotify.com/album/7JMeqjNj2dDmm9hoDtgpio) | 3:46 | 2023-11-10 | 2024-10-04 |

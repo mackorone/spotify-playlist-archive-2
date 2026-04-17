@@ -946,7 +946,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 183648,
       "name": "Bar Anthem - From \"Good Day\"",
       "url": "https://open.spotify.com/track/4lamCUKj6lUNqaOzhmkN8k"
@@ -3114,6 +3114,36 @@
       "duration_ms": 201777,
       "name": "Koranaaru (From \"Captain Miller\") (Tamil)",
       "url": "https://open.spotify.com/track/27nmLlAoTajIHORlx6SBa6"
+    },
+    {
+      "album": {
+        "name": "Korean Family (From \"Con City\")",
+        "url": "https://open.spotify.com/album/4npAtkDywTNwWaVHBRYb4R"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        },
+        {
+          "name": "Vangal Pulla Vicky",
+          "url": "https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234061,
+      "name": "Korean Family (From \"Con City\")",
+      "url": "https://open.spotify.com/track/4oTaHQJrKi8bQMJ75mLjIO"
     },
     {
       "album": {

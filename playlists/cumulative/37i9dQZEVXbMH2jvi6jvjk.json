@@ -1173,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "Bayede",
+        "url": "https://open.spotify.com/album/3gndOvCu4HGrDOrv0nnyif"
+      },
+      "artists": [
+        {
+          "name": "Danya Devs",
+          "url": "https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160104,
+      "name": "Abakhongi",
+      "url": "https://open.spotify.com/track/1mpiLPRPR1AYvpOICVA5wx"
+    },
+    {
+      "album": {
         "name": "Abalele",
         "url": "https://open.spotify.com/album/59lFnkd1eVH8wl0cAXAPoz"
       },
@@ -19312,7 +19330,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 381570,
       "name": "Gone Kanje (feat. Mellow & Sleazy & Dlala Regal)",
       "url": "https://open.spotify.com/track/5NbkOhZw2pfkLAipJmojSK"
@@ -25592,7 +25610,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 240039,
       "name": "IVALENTINE (feat. Shenge wasehlalankosi)",
       "url": "https://open.spotify.com/track/42Z8LNtIBkHEMW5hguw0Fo"
@@ -25842,7 +25860,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 266067,
       "name": "Izingane Lezi",
       "url": "https://open.spotify.com/track/6P6sGpb4zj2zDRdqo3vkXV"
@@ -37826,7 +37844,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 821507,
       "name": "Ngiyayigxoba Inja",
       "url": "https://open.spotify.com/track/0gmgZ5chYagQQxAOYlo6XM"
@@ -46342,7 +46360,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 278073,
       "name": "Sekuzolunga Mama",
       "url": "https://open.spotify.com/track/6W8CWNHx5yktT9EPIPBYFR"
@@ -57840,7 +57858,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 259709,
       "name": "Uyoncengwa Unyoko",
       "url": "https://open.spotify.com/track/3H2sEc2EOfjeptg8pPPTlx"
@@ -57954,7 +57972,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 282000,
       "name": "Uzofa",
       "url": "https://open.spotify.com/track/6ncwDiN52UyECF9Nfeej33"

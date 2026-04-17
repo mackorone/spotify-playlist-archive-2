@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover:  Jae5, Skillibeng, Skepta, Lojay
 
-409 songs - 21 hr 6 min
+410 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Million](https://open.spotify.com/track/50Auw53j8FiSIB4frKT12I) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [A Million](https://open.spotify.com/album/1K7d4nsh7rQiu4eSqYlsAf) | 2:34 | 2021-10-14 | 2022-07-08 |
 | [Abebrese](https://open.spotify.com/track/6wXa8h2vC297a8ks2Ta9Gu) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Abebrese](https://open.spotify.com/album/5ZdHKnvxVASTL9RQ82QluX) | 4:20 | 2025-03-28 |  |
 | [Accidentally \(feat\. Seyi Vibez\)](https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:06 | 2024-05-17 | 2025-06-20 |
-| [ACL](https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:44 | 2025-10-24 |  |
+| [ACL](https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:44 | 2025-10-24 | 2026-04-17 |
 | [ADISA OGBON \(GOD SENT LAYCON\)](https://open.spotify.com/track/2qqq6gSvMdMpt75GP6uAvD) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP) | [ANY GIVEN MONDAY III](https://open.spotify.com/album/0rKiUKuJeVT67WzL0OsEaW) | 3:12 | 2024-07-19 | 2024-10-05 |
 | [Advice](https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Advice](https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM) | 2:45 | 2023-08-31 | 2024-09-28 |
 | [Africana \(feat\. Victoria Kimani\)](https://open.spotify.com/track/7v7cJqKreMEQOZlarcBAU8) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [Africana \(feat\. Victoria Kimani\)](https://open.spotify.com/album/2k54ttWzOu5qOqH9e5ng0K) | 3:47 | 2021-10-14 | 2022-03-08 |
@@ -132,6 +132,7 @@
 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 | 2024-01-05 |  |
 | [Family](https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Family](https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN) | 3:21 | 2023-04-27 | 2024-05-24 |
 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 | 2021-10-14 | 2024-01-12 |
+| [FINE SHYT \(feat\. Tml Vibez\)](https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [No Excuses Deluxe](https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0) | 2:12 | 2026-04-17 |  |
 | [Fire on Me](https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Fire on Me](https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT) | 2:14 | 2024-07-19 | 2025-08-23 |
 | [FIREGUN](https://open.spotify.com/track/3GYjrPY5rh4f02ezDl07De) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN](https://open.spotify.com/album/0papSoKgmmRHnyIkCmMRhl) | 3:14 | 2023-06-29 | 2024-08-09 |
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj) | 3:14 | 2023-06-29 | 2023-10-11 |

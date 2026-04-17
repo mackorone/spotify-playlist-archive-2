@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Shaken, not stirred... Cover: Doja Cat",
+  "description": "Shaken, not stirred... Cover: Lana Del Rey",
   "name": "Best of Bond",
   "tracks": [
     {
@@ -176,6 +176,24 @@
       "duration_ms": 276986,
       "name": "Die Another Day",
       "url": "https://open.spotify.com/track/4NvgRMckw4uzjNn2t7taPe"
+    },
+    {
+      "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204233,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
     },
     {
       "album": {

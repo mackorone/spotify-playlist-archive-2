@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Nicole Cherry",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Delia",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Analog",
+        "url": "https://open.spotify.com/album/10LHZgdI5Dj1esKEkiiKOM"
+      },
+      "artists": [
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162194,
+      "name": "Analog",
+      "url": "https://open.spotify.com/track/7uP2yYhEtz8FGi6iDgIMAd"
+    },
+    {
+      "album": {
         "name": "Ancora",
         "url": "https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan"
       },
@@ -954,7 +972,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 141333,
       "name": "Azucar",
       "url": "https://open.spotify.com/track/7C8OBP3RyIy9458F2T0FFe"
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 196258,
       "name": "Dans\u0103m",
       "url": "https://open.spotify.com/track/7r93tDwB4wgchV9mnTtzJD"
@@ -2446,7 +2464,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 166595,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/0Aqf7EsbKerBfdPrsN3bJ4"
@@ -3353,6 +3371,24 @@
     },
     {
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/5n0RsqJukHxaXLDlPFy0K8"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197704,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4rDwRReunkleF9aisMmguC"
+    },
+    {
+      "album": {
         "name": "Flori In Decembrie",
         "url": "https://open.spotify.com/album/4rcotOW8FtqVlsYiBV00GT"
       },
@@ -3426,7 +3462,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 160733,
       "name": "forEva",
       "url": "https://open.spotify.com/track/5dOCPmdvTvRBXzmWBxqi4U"
@@ -3803,6 +3839,24 @@
     },
     {
       "album": {
+        "name": "Hey NaNaNa",
+        "url": "https://open.spotify.com/album/1mQRXUIOUx0LnApyBoAc3e"
+      },
+      "artists": [
+        {
+          "name": "Misha Miller",
+          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139872,
+      "name": "Hey NaNaNa",
+      "url": "https://open.spotify.com/track/5nRWAsfbpOX2xjgLYYBwQs"
+    },
+    {
+      "album": {
         "name": "Hora fetelor",
         "url": "https://open.spotify.com/album/580phVNDwAGjBZvhc19gwO"
       },
@@ -4152,7 +4206,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 175609,
       "name": "Inimile noastre",
       "url": "https://open.spotify.com/track/19Re1fbphPNpGt1jMw7hN7"
@@ -4257,6 +4311,28 @@
     },
     {
       "album": {
+        "name": "Iubirea na\u0219te mon\u0219tri",
+        "url": "https://open.spotify.com/album/1p3l13FGTGWMYsHXm7S7Q8"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        },
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174078,
+      "name": "Iubirea na\u0219te mon\u0219tri",
+      "url": "https://open.spotify.com/track/68Llxh2OxOlnbQ4jnIwCYs"
+    },
+    {
+      "album": {
         "name": "Iubirea \u00eentr-un om",
         "url": "https://open.spotify.com/album/2bTOX3SjgOTGeszeL1lUK6"
       },
@@ -4312,6 +4388,24 @@
       "duration_ms": 149677,
       "name": "Iubitul meu de mai-nainte",
       "url": "https://open.spotify.com/track/1WNZWKFJTN30e9GOIiDW0x"
+    },
+    {
+      "album": {
+        "name": "Izabela",
+        "url": "https://open.spotify.com/album/7gGvvDd2j9GHeBn99YHLuR"
+      },
+      "artists": [
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Izabela",
+      "url": "https://open.spotify.com/track/6TJF9CvKYwbgOC2GcHbLUp"
     },
     {
       "album": {
@@ -6630,7 +6724,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 156923,
       "name": "Pies\u0103 f\u0103r\u0103 nume",
       "url": "https://open.spotify.com/track/0cxaHgsi65MpJI65iDmmEp"
@@ -7198,7 +7292,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 151200,
       "name": "Schimb de inimi",
       "url": "https://open.spotify.com/track/4t41jYRQbsAIBdVttN57mj"
@@ -8605,6 +8699,28 @@
     },
     {
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/0ZURnSfVTSgD0ziVwewsVY"
+      },
+      "artists": [
+        {
+          "name": "SICKOTOY",
+          "url": "https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF"
+        },
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149714,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/51U5l8NFscDrt343MeiIoN"
+    },
+    {
+      "album": {
         "name": "Zece",
         "url": "https://open.spotify.com/album/6ov5ww74tvKQ8C6XBmDTW6"
       },
@@ -8726,6 +8842,24 @@
       "duration_ms": 207120,
       "name": "\u00cemi place ploaia",
       "url": "https://open.spotify.com/track/3zlJIBfHmFMjvT8TtGf1BW"
+    },
+    {
+      "album": {
+        "name": "\u00cen c\u0103utarea fericirii",
+        "url": "https://open.spotify.com/album/0po2U3nO9fn8vZaXhZe5j1"
+      },
+      "artists": [
+        {
+          "name": "EMAA",
+          "url": "https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164014,
+      "name": "\u00cen c\u0103utarea fericirii",
+      "url": "https://open.spotify.com/track/2vIVjEFiKM20qIDApuHoKr"
     },
     {
       "album": {

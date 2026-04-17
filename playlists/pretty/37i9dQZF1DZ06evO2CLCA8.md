@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 11 | [Don't Come Around Here No More](https://open.spotify.com/track/3BSoskNONnjn05yRO2tYFX) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 5:07 |
 | 12 | [Here Comes My Girl](https://open.spotify.com/track/685sEpLJe80Zzuxz3siOVT) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 4:24 |
 | 13 | [Listen To Her Heart](https://open.spotify.com/track/1cfnrxKDTz0kcKVL5EclFG) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [You're Gonna Get It!](https://open.spotify.com/album/6q5l0EKkX5ZITkSUy5SObw) | 3:04 |
-| 14 | [Swingin'](https://open.spotify.com/track/61SdG3F3LncuuMLAS8oN6j) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Echo](https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW) | 5:30 |
-| 15 | [Mary Jane's Last Dance](https://open.spotify.com/track/0UWhRKpZxLEUZhmku98WcH) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 4:31 |
+| 14 | [Mary Jane's Last Dance](https://open.spotify.com/track/0UWhRKpZxLEUZhmku98WcH) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 4:31 |
+| 15 | [Swingin'](https://open.spotify.com/track/61SdG3F3LncuuMLAS8oN6j) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Echo](https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW) | 5:30 |
 | 16 | [Even The Losers](https://open.spotify.com/track/5SdMXQmfV4OZx5O05986d3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Greatest Hits](https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y) | 3:38 |
 | 17 | [I Need To Know](https://open.spotify.com/track/2NNpI1bOvnhXcACZ4IdiM3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [You're Gonna Get It!](https://open.spotify.com/album/6q5l0EKkX5ZITkSUy5SObw) | 2:24 |
 | 18 | [A Woman In Love \(It's Not Me\)](https://open.spotify.com/track/2OECBjmrt1tupVdg8jcfE1) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 49 | [Spike](https://open.spotify.com/track/0OynySxoDTVepVdwm0iigw) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 3:32 |
 | 50 | [Waiting for Tonight \- 2015 Remaster](https://open.spotify.com/track/0lBy4mnED2JLmdSxMyG37f) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Nobody's Children](https://open.spotify.com/album/3xcXoGZnv9c6ubjkF9Ehio) | 3:29 |
 
-Snapshot ID: `ad2DgAAAAAA5cyv2tx7vlKxumGGEoKBk`
+Snapshot ID: `ad7VAAAAAAD6BiP3QpjeiWXeW+TVYXJe`

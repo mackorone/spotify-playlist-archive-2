@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: Sugar 'N Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,378 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,376 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [HURRICANE](https://open.spotify.com/track/4EBha8njgnyRajfMvrvfBW) | [NAMP](https://open.spotify.com/artist/3PswRd4t5e69N3OEMZrzSA) | [HURRICANE](https://open.spotify.com/album/7KFCnbqQzV4qFyoqjTaGno) | 3:26 |
 | 50 | [No More Tears](https://open.spotify.com/track/5Pr866rB8DsBU4xF9yY7hF) | [CHOMPUU](https://open.spotify.com/artist/5ZXPmS9fr6XHEkuf08CIRt) | [No More Tears](https://open.spotify.com/album/5g0N3hE2eJXVz6DwYDpSSr) | 3:28 |
 
-Snapshot ID: `AAAAAJg/ZLKhykj1xQ5D92KwLAPnuZU/`
+Snapshot ID: `AAAAAM1Fb3+Mv/wihFnhoeOrBYUJLnIs`

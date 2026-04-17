@@ -2,9 +2,9 @@
 
 ### [RADAR GSA](https://open.spotify.com/playlist/37i9dQZF1DX3Vl51vsat7a)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Eileen Alister
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Lina\-Mariah
 
-504 songs - 1 day 1 hr 39 min
+505 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [dafür bin ich frei \(feat\. Bausa\)](https://open.spotify.com/track/40sRMHcdSscmLVWqCiFdML) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:46 | 2024-06-20 | 2025-01-31 |
 | [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Dankbar](https://open.spotify.com/album/7I41RkVYbBHhTrnPdCjaDm) | 2:43 | 2025-11-06 |  |
 | [Das Schönste](https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Das Schönste](https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1) | 1:36 | 2023-02-16 | 2023-04-14 |
-| [Date You Won't Forget](https://open.spotify.com/track/7MgG0DwqLSGPHfScZ4YhNM) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Date You Won't Forget](https://open.spotify.com/album/5W4HnNFHtayuXHevqXdrut) | 1:47 | 2025-09-04 |  |
+| [Date You Won't Forget](https://open.spotify.com/track/7MgG0DwqLSGPHfScZ4YhNM) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Date You Won't Forget](https://open.spotify.com/album/5W4HnNFHtayuXHevqXdrut) | 1:47 | 2025-09-04 | 2026-04-17 |
 | [Daywalker](https://open.spotify.com/track/00daiXpq7Jb76fXCJZA6rN) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [MANN MIT DER BRILLE](https://open.spotify.com/album/3TJXTSpg5o4vftq3BMBtab) | 2:05 | 2022-03-24 | 2022-06-10 |
 | [Delulu](https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Delulu](https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd) | 1:59 | 2024-04-18 | 2024-07-12 |
 | [Der neue Stil meiner Generation](https://open.spotify.com/track/6PUomERMiVx0qOz0D5UlDM) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Der neue Stil meiner Generation](https://open.spotify.com/album/5fetQgc4TVEdRGWmQfGjRi) | 2:24 | 2023-01-19 | 2023-02-17 |
@@ -211,6 +211,7 @@
 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 | 2026-01-13 | 2026-01-30 |
 | [Hope](https://open.spotify.com/track/2QRGdW5I7M74y0URMgkfqn) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [The Pictures](https://open.spotify.com/album/1gd2DBDRgwMmrwvUC8sOX1) | 7:28 | 2021-12-16 | 2022-05-20 |
 | [Hotel](https://open.spotify.com/track/3Ldae7O6YMFE7vxlTNocdQ) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Hotel](https://open.spotify.com/album/1naWv2unZPzXPa3UdQIdAb) | 2:43 | 2021-12-16 | 2022-07-15 |
+| [I Don't Wanna Go!](https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Don't Wanna Go!](https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585) | 2:39 | 2026-04-16 |  |
 | [I felt all there is to feel](https://open.spotify.com/track/4uYdwdPQQqgIdsWY43UV3o) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [I felt all there is to feel](https://open.spotify.com/album/3sRm6ZhRGz2P7826NhIcBt) | 3:22 | 2025-06-12 | 2025-08-22 |
 | [I Hate Love](https://open.spotify.com/track/0LeyCzaxWW6ashnoEiow37) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Hate Love](https://open.spotify.com/album/1kA1toYzXRZe6fZle3oLQH) | 3:12 | 2026-01-13 |  |
 | [I Hate You \(So Much\)](https://open.spotify.com/track/4jOscqspgP24yNJ0jhOFRN) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [I Hate You \(So Much\)](https://open.spotify.com/album/5qR3QHS5XHa2IA4i6ujUNi) | 2:58 | 2024-07-18 | 2025-06-13 |

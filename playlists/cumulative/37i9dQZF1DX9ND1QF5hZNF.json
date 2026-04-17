@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/2GMaa33OUYwIoSlZT1foei"
+      },
+      "artists": [
+        {
+          "name": "NOVEMBER KID",
+          "url": "https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152624,
+      "name": "Baby Can I Hold You",
+      "url": "https://open.spotify.com/track/1r9YpG9VizqqPfYDyP0hav"
+    },
+    {
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
       },
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 283000,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/3mJSu7WdreL5WucqTpjwW7"
@@ -7482,7 +7500,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 213284,
       "name": "The Sun Comes Up Tremendous",
       "url": "https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU"
@@ -7922,6 +7940,24 @@
       "duration_ms": 145500,
       "name": "Voyage Voyage",
       "url": "https://open.spotify.com/track/5dy0ZEDh2Lxvza4bK6GR8w"
+    },
+    {
+      "album": {
+        "name": "waited a long",
+        "url": "https://open.spotify.com/album/5H3ZApCGAHlasfg91EpWtf"
+      },
+      "artists": [
+        {
+          "name": "Holseek",
+          "url": "https://open.spotify.com/artist/6rtScDLmn7xeFY4F71v4e3"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "waited a long",
+      "url": "https://open.spotify.com/track/7yh8CCk3kEemmXEqk9SFln"
     },
     {
       "album": {

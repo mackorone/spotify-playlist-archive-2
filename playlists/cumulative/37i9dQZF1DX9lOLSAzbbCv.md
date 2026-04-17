@@ -4,7 +4,7 @@
 
 > Хіти українського репу\. Обкладинка: Parfeniuk & Scroodgee
 
-172 songs - 7 hr 52 min
+173 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [lambada](https://open.spotify.com/track/2lsSwYf4KcOEhWE10xfWnK) | [askwhen](https://open.spotify.com/artist/0GsArlDO65z8mj3McTCliI), [MBY](https://open.spotify.com/artist/3AXXysK0eGG8CmbmJINr5R) | [lambada](https://open.spotify.com/album/2rF1ds7PTw6EcFJwLO1cIr) | 2:08 | 2025-10-14 |  |
 | [Lost Cause](https://open.spotify.com/track/6NfDMEzKj5omozlckcvjcA) | [Watsebha](https://open.spotify.com/artist/4NKiKE60GYOcPCe02G9Ke4) | [Lost Cause](https://open.spotify.com/album/6TWLH4tJwj1pOEYk2enT4n) | 2:27 | 2024-06-27 | 2024-11-09 |
 | [LOW](https://open.spotify.com/track/3cLbZqWUpulkbPkMO7a5rx) | [elarm](https://open.spotify.com/artist/3kHaXuC8z4UDq7sVGaJh21) | [LOW](https://open.spotify.com/album/0rArprq4Kd7JOVG7c2ueAN) | 1:44 | 2025-02-28 |  |
-| [Minimum](https://open.spotify.com/track/2z5LKY5a2QESEgPk2Gpwqx) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Minimum](https://open.spotify.com/album/5RCR4cWhqWQjfUTaYf42OH) | 2:23 | 2025-06-19 |  |
+| [Minimum](https://open.spotify.com/track/2z5LKY5a2QESEgPk2Gpwqx) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Minimum](https://open.spotify.com/album/5RCR4cWhqWQjfUTaYf42OH) | 2:23 | 2025-06-19 | 2026-04-17 |
 | [Mommy](https://open.spotify.com/track/212Zy4CjSIOLmxg4qxCvyJ) | [BURLA](https://open.spotify.com/artist/4Xc09aG2Xh4nCikfxZRszu) | [Mommy](https://open.spotify.com/album/4JfHr3SQMc7psDms6EScVs) | 2:13 | 2024-09-12 | 2024-10-01 |
 | [RAGNAROK](https://open.spotify.com/track/2too3Pi9ZnJtwt6koMJEmF) | [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [RAGNAROK](https://open.spotify.com/album/21iXpwif0hx1bu32KMAiDp) | 3:33 | 2024-06-27 |  |
 | [Steak](https://open.spotify.com/track/7hnYa9z06usmai8Ac4DCgZ) | [elarm](https://open.spotify.com/artist/3kHaXuC8z4UDq7sVGaJh21) | [Steak](https://open.spotify.com/album/4fGHUvM7hOazyJfwwsclJk) | 2:11 | 2026-02-19 | 2026-04-03 |
@@ -78,6 +78,7 @@
 | [КИЇВСЬКИЙ ДВІЖ](https://open.spotify.com/track/4eFIuirPLgbwCCco4AWgGJ) | [VARASH](https://open.spotify.com/artist/2Cgd8E6jpBkdN2Jlhi3lgi), [BURLA](https://open.spotify.com/artist/4Xc09aG2Xh4nCikfxZRszu), [Santorin](https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q) | [КИЇВСЬКИЙ ДВІЖ](https://open.spotify.com/album/1Ylj3DVv9xyG6Bt9HcTV3b) | 2:34 | 2024-11-08 | 2025-03-01 |
 | [Кожного Дня](https://open.spotify.com/track/2wtwoWPuJiPrtQJ1BVul5B) | [BURLA](https://open.spotify.com/artist/4Xc09aG2Xh4nCikfxZRszu) | [Кожного Дня](https://open.spotify.com/album/2sNyCOmZDidJbM2esfPzwl) | 2:52 | 2025-06-06 | 2025-06-20 |
 | [Колискова](https://open.spotify.com/track/2ulGKgYxUdz5P9J2lRL38A) | [CHURSANOV](https://open.spotify.com/artist/5UqC0WSLyRoS6xGD8NA55e) | [Колискова](https://open.spotify.com/album/2mW9JNVGJySGliMRJPgake) | 2:12 | 2024-08-15 | 2025-03-01 |
+| [Кілометри](https://open.spotify.com/track/686IIGkIhXlr3oF78XoGmT) | [lesfleures](https://open.spotify.com/artist/5rvTaikujPdqylzMhjYsVn) | [Талант.](https://open.spotify.com/album/1JNqPxc1Cii8UnHCa8XMis) | 1:51 | 2026-04-16 |  |
 | [Листопад](https://open.spotify.com/track/6mNHoMuMLUh5rIxiyICJG5) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Листопад](https://open.spotify.com/album/53O4pGKQMQ9gscRjc6Bus0) | 2:33 | 2024-11-08 | 2025-03-01 |
 | [Листопад](https://open.spotify.com/track/2ARYmVaJa8i7DTczEhuqAk) | [VERLOKA](https://open.spotify.com/artist/0tckoUCOIgx8MOe4mIOvUc), [HOLLY](https://open.spotify.com/artist/3EJ1bX5tskfrkykBaVzxD6) | [Листопад](https://open.spotify.com/album/5Ydo9v0cXTvcbrGMT5ZIQy) | 2:02 | 2024-06-27 | 2024-07-12 |
 | [Ломка](https://open.spotify.com/track/5Uq7PROQYS8l6dYLWdufim) | [Mark Greider](https://open.spotify.com/artist/5uFQX3xS7WcnexP5lH91eJ) | [Ломка](https://open.spotify.com/album/5gjD15gojux2Qn7RhHSXo5) | 3:09 | 2026-03-12 |  |

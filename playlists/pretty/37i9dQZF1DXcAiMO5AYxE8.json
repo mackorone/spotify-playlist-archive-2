@@ -1,6 +1,6 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 547257,
+  "num_followers": 547300,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
@@ -524,13 +524,13 @@
       },
       "artists": [
         {
-          "name": "G.Q.",
-          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
+          "name": "Vicki Sue Robinson",
+          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
         }
       ],
-      "duration_ms": 233266,
-      "name": "Disco Nights (Rock Freak) - Single Remix",
-      "url": "https://open.spotify.com/track/2dZVfFCuI0PGE6jYF4pfHo"
+      "duration_ms": 204200,
+      "name": "Turn the Beat Around",
+      "url": "https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -540,13 +540,13 @@
       },
       "artists": [
         {
-          "name": "Vicki Sue Robinson",
-          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
+          "name": "G.Q.",
+          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
         }
       ],
-      "duration_ms": 204200,
-      "name": "Turn the Beat Around",
-      "url": "https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA"
+      "duration_ms": 233266,
+      "name": "Disco Nights (Rock Freak) - Single Remix",
+      "url": "https://open.spotify.com/track/2dZVfFCuI0PGE6jYF4pfHo"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "The Best Year Of My Life: 1981G010004775674D",
-        "url": "https://open.spotify.com/album/34psLr9vLAgw49ehAgo6SJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        }
-      ],
-      "duration_ms": 233040,
-      "name": "Funkin' for Jamaica",
-      "url": "https://open.spotify.com/track/1es1B258zAVeXx6uzksrJd"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Disco Party",
         "url": "https://open.spotify.com/album/7Kneel529obA7Qd9glamb4"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 185733,
       "name": "I Can't Stand the Rain",
       "url": "https://open.spotify.com/track/7n6c2YLAejUpmfuXAVWIQR"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "The Best Year Of My Life: 1981G010004775674D",
+        "url": "https://open.spotify.com/album/34psLr9vLAgw49ehAgo6SJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "duration_ms": 233040,
+      "name": "Funkin' for Jamaica",
+      "url": "https://open.spotify.com/track/1es1B258zAVeXx6uzksrJd"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -835,22 +835,6 @@
       "duration_ms": 237560,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Collections",
-        "url": "https://open.spotify.com/album/4Rk1aQOMmwSqGl6fqMhCiz"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/72FyfakDR6pi2vZv5JVYn4"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -979,6 +963,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "Collections",
+        "url": "https://open.spotify.com/album/4Rk1aQOMmwSqGl6fqMhCiz"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/72FyfakDR6pi2vZv5JVYn4"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Skyy Line",
         "url": "https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 314893,
       "name": "It's a Disco Night (Rock Don't Stop), Pts. 1 & 2",
       "url": "https://open.spotify.com/track/23chygECXqQIz7l80H87lS"
-    },
-    {
-      "added_at": "2021-07-04 17:34:32",
-      "album": {
-        "name": "Bridget Jones\u2019s Baby (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4JEghNfeXfS21MXpZWiRlc"
-      },
-      "artists": [
-        {
-          "name": "McFadden & Whitehead",
-          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Ain't No Stoppin' Us Now - Single Version",
-      "url": "https://open.spotify.com/track/18piene9mIdOJA2dura9LH"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -1055,6 +1039,22 @@
       "duration_ms": 225080,
       "name": "Shake Your Body (Down To The Ground) - Single Version",
       "url": "https://open.spotify.com/track/6yhVPXKXRblL2T4jFfz7mw"
+    },
+    {
+      "added_at": "2021-07-04 17:34:32",
+      "album": {
+        "name": "Bridget Jones\u2019s Baby (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4JEghNfeXfS21MXpZWiRlc"
+      },
+      "artists": [
+        {
+          "name": "McFadden & Whitehead",
+          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Ain't No Stoppin' Us Now - Single Version",
+      "url": "https://open.spotify.com/track/18piene9mIdOJA2dura9LH"
     },
     {
       "added_at": "2020-04-14 18:41:41",

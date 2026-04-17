@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-164 songs - 9 hr 1 min
+166 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Caught Out](https://open.spotify.com/track/3RwL3Dm5AbICvYXSAGFuu0) | [Athieno](https://open.spotify.com/artist/2Mkt9y1gnzybZCa5R8CNBr) | [Caught Out](https://open.spotify.com/album/51AuQNCfV9SKNR3ivka3wE) | 3:52 | 2023-06-30 | 2023-12-09 |
 | [Chasing Love](https://open.spotify.com/track/0UvDsFVi25ulx7UsoboyLZ) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Chasing Love](https://open.spotify.com/album/4kCSRS7Tr6RMq67l3icaTd) | 3:20 | 2023-06-30 | 2024-05-10 |
 | [ControlS!](https://open.spotify.com/track/43ckrM6WEcb8dRYgzD54VE) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Nesha’s Cypher](https://open.spotify.com/album/0Q1jUGy3d5AG9G7zUjAeRo) | 3:28 | 2024-10-10 |  |
+| [Crimson Sky \- Radio Edit](https://open.spotify.com/track/48QpNkIX5Dz0Cm2qh9zzUt) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn), [Normen Goltz](https://open.spotify.com/artist/3AAL6Hp40AVMA7YLtTeMyT) | [Crimson Sky \(Radio Edit\)](https://open.spotify.com/album/476peAghmC51l3S77Tf1d1) | 3:24 | 2026-04-16 |  |
 | [Crocodile](https://open.spotify.com/track/0G0P8mRIdJ0QvoT9g8YANi) | [Cindy Saray](https://open.spotify.com/artist/0tnlDKnp21gh74TmQnpmrk), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Crocodile](https://open.spotify.com/album/1VKBWhjqEIzcbGy1U1NS5a) | 3:47 | 2025-08-21 | 2026-03-13 |
 | [Cry In A Lambo Not Prius](https://open.spotify.com/track/5DHuDjgL9QsuQxLTgUYw0G) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Cry In A Lambo Not Prius](https://open.spotify.com/album/4NFd8aIfaiD64uTUkKfRPK) | 4:03 | 2025-01-17 |  |
 | [Cut Me Down](https://open.spotify.com/track/6g33SNfqUoIcxnNpGfzWak) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 4:57 | 2023-06-30 | 2024-05-10 |
@@ -106,8 +107,8 @@
 | [Oh Shoot](https://open.spotify.com/track/4kHKic91jzEObqoLgYzROV) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Oh Shoot](https://open.spotify.com/album/5Hq2dnXCD2b5HVhy8wwP9U) | 2:49 | 2023-10-20 | 2024-07-16 |
 | [Perfect](https://open.spotify.com/track/7aYgfQTQIuoi9FojUgE7lY) | [Faith Kimani](https://open.spotify.com/artist/3B5MbmvxoqmqByCtU4temj), [TY1NE](https://open.spotify.com/artist/4Cc5wSjyKdtkmQjuBLAo5B) | [Perfect](https://open.spotify.com/album/07lMSOElGW77832xvtCJes) | 2:50 | 2024-06-13 | 2025-07-04 |
 | [Pineapple Drink](https://open.spotify.com/track/3EiV7BXmyIEJbUYpulc7Kj) | [Ras Amor](https://open.spotify.com/artist/196LafXHcjwZnGudGOtcA4), [Katelyn Skye](https://open.spotify.com/artist/32GN439n6P2c3lwfWJMYi2) | [The Lost Tapes](https://open.spotify.com/album/5gKtx3nrdXfYNrZPI4b42h) | 3:04 | 2023-06-30 | 2024-02-23 |
-| [Playing With Fire](https://open.spotify.com/track/13ampMIuI5NynkDnUa4CGe) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Playing With Fire](https://open.spotify.com/album/1tNjqUWWiP4BCd6JotQMEo) | 3:51 | 2023-09-01 |  |
-| [pour it onto me](https://open.spotify.com/track/5g4qy057kYuNSgeZ1wI2R7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [pour it onto me](https://open.spotify.com/album/6UUfR3AnGM3bZn3mE3UARk) | 2:21 | 2025-05-29 |  |
+| [Playing With Fire](https://open.spotify.com/track/13ampMIuI5NynkDnUa4CGe) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Playing With Fire](https://open.spotify.com/album/1tNjqUWWiP4BCd6JotQMEo) | 3:51 | 2023-09-01 | 2026-04-17 |
+| [pour it onto me](https://open.spotify.com/track/5g4qy057kYuNSgeZ1wI2R7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [pour it onto me](https://open.spotify.com/album/6UUfR3AnGM3bZn3mE3UARk) | 2:21 | 2025-05-29 | 2026-04-17 |
 | [Presha](https://open.spotify.com/track/1OelLLNoOJNYnukzOPYSct) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Presha](https://open.spotify.com/album/5QlAwtL0kaP0JPEe93PN4A) | 2:56 | 2023-06-30 | 2024-07-16 |
 | [Realign](https://open.spotify.com/track/7yLYmP8jdEuTQiJD2qlDch) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Realign](https://open.spotify.com/album/650zxNU9Z5rX6IKhRoaXqu) | 3:40 | 2025-12-11 |  |
 | [Restore](https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Jay James](https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH) | [Restore](https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6) | 2:27 | 2024-07-02 | 2025-05-02 |
@@ -129,6 +130,7 @@
 | [She](https://open.spotify.com/track/6aNR1tbrRtamWleMigQs4J) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [She](https://open.spotify.com/album/2s3pBPqxmcbmy1Zct8Ezu5) | 3:38 | 2023-06-30 | 2024-08-24 |
 | [Shelter](https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Shelter](https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW) | 3:06 | 2024-02-22 | 2025-08-22 |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2023-06-30 | 2024-10-18 |
+| [Sioni Mbele](https://open.spotify.com/track/53jDdL38b0npbH3hqxTQpM) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Sioni Mbele](https://open.spotify.com/album/6oCfqw1wxvrUDbD7O9Gd9c) | 3:03 | 2026-04-16 |  |
 | [Skies Have Cleared](https://open.spotify.com/track/1sHI5KcCF4nXZKR5iQQgHM) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Lia April](https://open.spotify.com/artist/4zduBC59YxJ3rRjz2E9x6F) | [Skies Have Cleared](https://open.spotify.com/album/75hXQzEJGC7ZxZXbSIVoTW) | 3:07 | 2024-05-30 | 2025-09-20 |
 | [SLOWLY FAST](https://open.spotify.com/track/6eg0gp8fr41kX8s40wQJ5M) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [hihi](https://open.spotify.com/artist/2OXj55sxdZ4Lw0kSpRD9me) | [PRE PACK](https://open.spotify.com/album/3m0vczVUu8N3K7VZIoxdjq) | 1:04 | 2025-03-07 |  |
 | [Something Is You](https://open.spotify.com/track/1KQfpF8EmbF8oP1YwpwJ0O) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Something Is You](https://open.spotify.com/album/6zNhbmvLEE12cGS1c53VL0) | 1:50 | 2023-06-30 | 2024-06-01 |

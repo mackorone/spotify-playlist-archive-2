@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-235 songs - 1 day 1 hr 35 min
+237 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Mlondolozi \- Live](https://open.spotify.com/track/6DFTcyNPTiG3iON72zGscu) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Mlondolozi](https://open.spotify.com/album/1c3fVc8kTxsYNPTAqANfUp) | 8:02 | 2025-03-14 | 2025-04-18 |
 | [Mmrane](https://open.spotify.com/track/5iLWh0plYIPG6lDs7sGOkB) | [DrumPIPO](https://open.spotify.com/artist/5h0tAAig7dghGyu529G6jI), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu) | [Mmrane](https://open.spotify.com/album/2LBeyV0CfD9P60qPtmxz0T) | 5:01 | 2024-12-13 | 2025-03-21 |
 | [Modisa Wa Dinku](https://open.spotify.com/track/4UnXuTOxpqvP05llekAKoD) | [IPCC YOUTH](https://open.spotify.com/artist/1mdnJbkFBtyxeqCJml77st) | [Modisa Wa Dinku](https://open.spotify.com/album/4V2QcMzsM2RWwf4eQ4NtVj) | 4:41 | 2025-04-18 | 2025-05-30 |
+| [Mofahlolodi](https://open.spotify.com/track/49baq6pqA2QCxgMrgGlKCm) | [5 Fold Worship](https://open.spotify.com/artist/5g9jOwxRVYqWHwXPM5ZUZD), [Winnie Maluleka](https://open.spotify.com/artist/4JKZj0YFC3VvipXUYZH0uK) | [Christ Exalted](https://open.spotify.com/album/5UiFJTfUB9pnYLgfyFIaGa) | 7:54 | 2026-04-17 |  |
 | [Moya Wa Ka Reta Morena \(Live\)](https://open.spotify.com/track/7jqN9DIvOJvgclDMGYe7zn) | [Tshwane Gospel Choir](https://open.spotify.com/artist/3mQR6Ep0xUi6lekkWfqMpi) | [The Next Revival \(Live\)](https://open.spotify.com/album/60ttdHW2njGJ4hBe4ZwpTb) | 2:30 | 2024-10-04 |  |
 | [Moya Wami \(Live\)](https://open.spotify.com/track/4V47lua1XD4rnzvPLeR4JZ) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Umusa \(Live\)](https://open.spotify.com/album/4YPlI2djfvKTgghrUgQS0V) | 8:36 | 2024-10-04 |  |
 | [Moyongcwele](https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Moyongcwele](https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC) | 5:09 | 2024-10-04 |  |
@@ -173,6 +174,7 @@
 | [Sinomlilo](https://open.spotify.com/track/1zvBqJgbDWBjx4nc96LdYz) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sinomlilo](https://open.spotify.com/album/1mU0f8KzQGXG2apx46GNvf) | 4:41 | 2025-12-12 | 2026-02-14 |
 | [Siza Bawo](https://open.spotify.com/track/6onm77NipOKjurj1kG9Qyh) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Vine&Vibes](https://open.spotify.com/artist/0JWMVtY26AhbhaQQOU0BSi), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Those Who Dream](https://open.spotify.com/album/5ZFAp15k4bCQWByhijRjIa) | 2:55 | 2026-01-30 | 2026-03-06 |
 | [Sojabula \- Hosanna Kweliphezulu](https://open.spotify.com/track/4MJWtu8wNvCDZMcuyrDlpM) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Sojabula \(Hosanna Kweliphezulu\)](https://open.spotify.com/album/4e7plmHk0aw1kvX22l852X) | 5:37 | 2024-10-11 | 2025-03-21 |
+| [Solala Ngokonwaba \- Live](https://open.spotify.com/track/1qZCNkmOLC17Pvh3AoIWqb) | [Ziyanda Tshangana](https://open.spotify.com/artist/0M8zlsLqG3ODIjtZulBbNO) | [Prophetic Worship Encounter \(Live\)](https://open.spotify.com/album/0N9DkqZMv3hQmEvEHNV4V6) | 9:34 | 2026-04-17 |  |
 | [South African Hymns Medley](https://open.spotify.com/track/2ISFvLQr4ids67oJbk82Wj) | [Halal Afrika](https://open.spotify.com/artist/5gX3emCuEZBBq99uBvA3yh), [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [South African Hymns Medley](https://open.spotify.com/album/1LbcounheZIUd5xbxVbBk1) | 17:55 | 2025-06-27 |  |
 | [Tana Moya](https://open.spotify.com/track/0E5QvVarCGJgMNeKT4Z45t) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [The GAP](https://open.spotify.com/album/1xFLWxPqiYL71QWH9WRZqm) | 3:03 | 2025-08-01 | 2025-08-06 |
 | [Tana Moya](https://open.spotify.com/track/47cota1Kwv2YshEGp86jSU) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [Tana Moya](https://open.spotify.com/album/508JUVLvHES39OHZ63hs53) | 3:03 | 2025-03-14 | 2025-04-18 |

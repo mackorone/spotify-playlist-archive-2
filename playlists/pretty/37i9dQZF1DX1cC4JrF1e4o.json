@@ -1,6 +1,6 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 495760,
+  "num_followers": 495829,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-07-15 15:23:26",
       "album": {
-        "name": "In The Wee Small Hours",
-        "url": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
+        "name": "Comin' Home Baby",
+        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
         }
       ],
-      "duration_ms": 180933,
-      "name": "In The Wee Small Hours Of The Morning - Remastered 1998",
-      "url": "https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj"
+      "duration_ms": 165360,
+      "name": "Comin' Home Baby",
+      "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
     },
     {
       "added_at": "2024-07-15 15:23:26",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-07-15 15:23:26",
       "album": {
-        "name": "Comin' Home Baby",
-        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
+        "name": "In The Wee Small Hours",
+        "url": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
       },
       "artists": [
         {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 165360,
-      "name": "Comin' Home Baby",
-      "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
+      "duration_ms": 180933,
+      "name": "In The Wee Small Hours Of The Morning - Remastered 1998",
+      "url": "https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj"
     },
     {
       "added_at": "2024-07-15 15:23:26",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-15 15:23:26",
       "album": {
-        "name": "The Anthology: 1931 - 1968",
-        "url": "https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo"
-      },
-      "artists": [
-        {
-          "name": "The Mills Brothers",
-          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
-        }
-      ],
-      "duration_ms": 189453,
-      "name": "You Always Hurt The One You Love",
-      "url": "https://open.spotify.com/track/42og107RMzQPsQUIJBSUbD"
-    },
-    {
-      "added_at": "2024-07-15 15:23:26",
-      "album": {
         "name": "The Stardust Road",
         "url": "https://open.spotify.com/album/1e1zz72xREdXtdedgG8EDx"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 146346,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/0VX8ptOQhUt1SIOHYLZGNN"
+    },
+    {
+      "added_at": "2024-07-15 15:23:26",
+      "album": {
+        "name": "The Anthology: 1931 - 1968",
+        "url": "https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo"
+      },
+      "artists": [
+        {
+          "name": "The Mills Brothers",
+          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+        }
+      ],
+      "duration_ms": 189453,
+      "name": "You Always Hurt The One You Love",
+      "url": "https://open.spotify.com/track/42og107RMzQPsQUIJBSUbD"
     },
     {
       "added_at": "2024-07-15 15:23:26",

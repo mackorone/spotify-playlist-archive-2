@@ -2261,6 +2261,28 @@
     },
     {
       "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
+    },
+    {
+      "album": {
         "name": "Rap Vi\u1ec7t M\u00f9a 3 (2023) - T\u1eadp 8",
         "url": "https://open.spotify.com/album/6t6MpiPsDCgZutjx2BQF5Z"
       },
@@ -3546,7 +3568,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 205171,
       "name": "Bu\u00f4ng",
       "url": "https://open.spotify.com/track/2ZBi1KpCR0grEWRNgySqwg"
@@ -5942,7 +5964,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 218512,
       "name": "C\u00f3 Em",
       "url": "https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa"
@@ -10298,7 +10320,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 264785,
       "name": "G\u1ed9i \u0110\u1ea7u",
       "url": "https://open.spotify.com/track/22GCbN9OyrCa1tC1jZnX8O"
@@ -11360,7 +11382,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 219403,
       "name": "H\u1eb9n L\u1ea7n Sau",
       "url": "https://open.spotify.com/track/1r9gNSD1WUFscqTSA2Rcet"
@@ -13162,7 +13184,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 232647,
       "name": "Kh\u00f4ng Y\u00eau Em Th\u00ec Y\u00eau Ai?",
       "url": "https://open.spotify.com/track/0e6fZkLArSmDIHnZcIua7t"
@@ -16516,7 +16538,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 328240,
       "name": "m\u1ed9t \u0111\u1eddi",
       "url": "https://open.spotify.com/track/4gaxEUZE4z9pJAVTSFwgQI"
@@ -18684,7 +18706,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 260488,
       "name": "N\u1ebfu Nh\u1eefng Ti\u1ebfc Nu\u1ed1i",
       "url": "https://open.spotify.com/track/2dPJtlvoa3GDowCh035M8P"
@@ -19758,7 +19780,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 266666,
       "name": "Ph\u00e9p M\u00e0u - \u0110\u00e0n C\u00e1 G\u1ed7 Original Soundtrack",
       "url": "https://open.spotify.com/track/1DVYafsLmcQySKkJnY4RCs"
@@ -25389,6 +25411,28 @@
     },
     {
       "album": {
+        "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
+        "url": "https://open.spotify.com/album/0e88PS3OLpgp5ItldoIaB4"
+      },
+      "artists": [
+        {
+          "name": "OgeNus",
+          "url": "https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220289,
+      "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
+      "url": "https://open.spotify.com/track/1mtmvJjTchdqDCoJbFv1Op"
+    },
+    {
+      "album": {
         "name": "Guitar Songs",
         "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
       },
@@ -25560,7 +25604,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/2DrLqMSO89napGpafkcvM4"
@@ -25578,7 +25622,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/3VkV6L37ub0rtuYQoawAqz"
@@ -26722,7 +26766,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
@@ -26890,7 +26934,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 185625,
       "name": "v\u1ea1n v\u1eadt nh\u01b0 mu\u1ed1n ta b\u00ean nhau",
       "url": "https://open.spotify.com/track/5WkuMbkHX7yR7nnBKCn7tV"

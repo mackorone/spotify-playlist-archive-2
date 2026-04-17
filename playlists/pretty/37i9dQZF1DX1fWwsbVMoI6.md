@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Grupo Frontera y Silvestre Dangond
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,136 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,148 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 18 | [Pidiendo perdón](https://open.spotify.com/track/5ANrUD8Sl6rwq11zBygjZ6) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Pidiendo perdón](https://open.spotify.com/album/1z3p0PQHLiiRo1gP9yrdtS) | 3:17 |
 | 19 | [Ay Amor](https://open.spotify.com/track/4OeH2AOHW84cdsrK4PFbfG) | [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [Vol\. 1](https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d) | 3:44 |
 | 20 | [Serpiente](https://open.spotify.com/track/2OXYYCVlDZfiVtktj00ul5) | [Armonía 10 de Walther Lozada](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Primicias y Éxitos](https://open.spotify.com/album/5pzyQ9Ytd01DXdhZUCmgQ2) | 2:01 |
-| 21 | [Puro Corazón](https://open.spotify.com/track/2mEVUW5UL7iDK5DnomVvOy) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Puro Corazón](https://open.spotify.com/album/6J6p32z5lFri9g2K1iwGjo) | 3:07 |
-| 22 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
+| 21 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
+| 22 | [Puro Corazón](https://open.spotify.com/track/2mEVUW5UL7iDK5DnomVvOy) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Puro Corazón](https://open.spotify.com/album/6J6p32z5lFri9g2K1iwGjo) | 3:07 |
 | 23 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 |
 | 24 | [Por Siempre Mi Angel](https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN) | [Son de Ríos](https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z) | [Imposible Olvidarte](https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT) | 5:58 |
 | 25 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 41 | [Motivos](https://open.spotify.com/track/3ovuamiUGQPLN0HuVeCNKi) | [Los Morunos](https://open.spotify.com/artist/7aH8EFjZNlY5FLsjmR9Bqh), [Mariachi Los Fortunatos](https://open.spotify.com/artist/0lsLHvQYVP3ZRzADYk90vN) | [Es para Ti Esta Serenata](https://open.spotify.com/album/2Dkbg4ojESNAQFQw3Y6lsC) | 4:02 |
 | 42 | [Cerveza](https://open.spotify.com/track/33ek6CHUmrNH33hfYlUl7B) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Cerveza](https://open.spotify.com/album/2lpuYOEhZG1vqeNgYHdxez) | 3:09 |
 | 43 | [Corazón de Piedra](https://open.spotify.com/track/7aX99BUihifb3Flv07Dtyb) | [Tony Rosado](https://open.spotify.com/artist/2J6aYS0OVbeD3fxpbhINsC), [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [La Karibeña 12 Años](https://open.spotify.com/album/5Kuj4IEDPOnVbZu3yaYOn8) | 5:06 |
-| 44 | [Me Usas Y Me Dejas](https://open.spotify.com/track/5k603bqfQg0hYoeaISITQC) | [El Encanto De Corazón](https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2) | [Ámame Una Vez Más](https://open.spotify.com/album/7BbNDAJFfq8EYMLF0Vyp2G) | 4:41 |
-| 45 | [Chiquitita](https://open.spotify.com/track/0betY4GqNwj5KrvsUPs0RM) | [Patrick Romantik](https://open.spotify.com/artist/3czJg4rK6iHdgBmjS1MiCA), [Hnos Yaipén](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg), [Erick Elera](https://open.spotify.com/artist/0W8XvI6GtKZf52COOfXxLW) | [Chiquitita](https://open.spotify.com/album/1KwqvNN3q7AOsalOiXOGlf) | 3:29 |
+| 44 | [Chiquitita](https://open.spotify.com/track/0betY4GqNwj5KrvsUPs0RM) | [Patrick Romantik](https://open.spotify.com/artist/3czJg4rK6iHdgBmjS1MiCA), [Hnos Yaipén](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg), [Erick Elera](https://open.spotify.com/artist/0W8XvI6GtKZf52COOfXxLW) | [Chiquitita](https://open.spotify.com/album/1KwqvNN3q7AOsalOiXOGlf) | 3:29 |
+| 45 | [Me Usas Y Me Dejas](https://open.spotify.com/track/5k603bqfQg0hYoeaISITQC) | [El Encanto De Corazón](https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2) | [Ámame Una Vez Más](https://open.spotify.com/album/7BbNDAJFfq8EYMLF0Vyp2G) | 4:41 |
 | 46 | [Algo de Mi](https://open.spotify.com/track/1BPtafg3QTReiTZlz4Lhix) | [Briyit y Su Banda](https://open.spotify.com/artist/1653vuBCsYsC9dtWE0HAeS) | [Sálvame](https://open.spotify.com/album/1xkomr3AT5INTVanUiprik) | 4:23 |
 | 47 | [Empecemos De Cero](https://open.spotify.com/track/4OAfookZMEsWpZnXS1rLpN) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Empecemos De Cero](https://open.spotify.com/album/40rQKnNuOGRhxkZ59NA3G6) | 2:42 |
 | 48 | [Si Estuvieras Aquí](https://open.spotify.com/track/1ZthdulxOUHCiPtPs8UIDB) | [Los Hermanos Medina](https://open.spotify.com/artist/2QUO2NrRwGIaC1MLnzbfIh), [Pipe Calderón](https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w) | [Si Estuvieras Aquí](https://open.spotify.com/album/5D52xaMHzqCROFT6fHZbiz) | 3:23 |

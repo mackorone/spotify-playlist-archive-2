@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Enter Shikari ",
+  "description": "The UK's biggest rock playlist. Cover: thistle.",
   "name": "The Rock List",
   "tracks": [
     {
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 493146,
       "name": "Bad Moons",
       "url": "https://open.spotify.com/track/1vFLg6nWigxe7H8pw2GT6z"
@@ -2950,7 +2950,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 196338,
       "name": "Blood Run Warm",
       "url": "https://open.spotify.com/track/0px9GCcaidXur2tRtlgzvH"
@@ -5312,7 +5312,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 150255,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/43AOW7GMURYgHE1KFNjLZJ"
@@ -8797,6 +8797,24 @@
     },
     {
       "album": {
+        "name": "SIDE EFFECTS PT.1",
+        "url": "https://open.spotify.com/album/64ruOFU72r6CZNm97UVv4K"
+      },
+      "artists": [
+        {
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196442,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/1vW6LHtAe0wu8uVehErPsQ"
+    },
+    {
+      "album": {
         "name": "The Prius Diaries: A Hybrid Story",
         "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
       },
@@ -8989,6 +9007,24 @@
     },
     {
       "album": {
+        "name": "haven't seen you in a while",
+        "url": "https://open.spotify.com/album/3jliCbDDzo2YMZuamfbVgQ"
+      },
+      "artists": [
+        {
+          "name": "Bottle Rockets",
+          "url": "https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193106,
+      "name": "haven't seen you in a while",
+      "url": "https://open.spotify.com/track/7JL6PmKndly4X7jODvh1d9"
+    },
+    {
+      "album": {
         "name": "Tremor",
         "url": "https://open.spotify.com/album/2Mf3c9BbAcMOybdL2FTkkJ"
       },
@@ -9004,7 +9040,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 236951,
       "name": "Haze",
       "url": "https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1"
@@ -10035,6 +10071,24 @@
     },
     {
       "album": {
+        "name": "I Don't Wanna Go!",
+        "url": "https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159315,
+      "name": "I Don't Wanna Go!",
+      "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
+    },
+    {
+      "album": {
         "name": "I Don't Want It",
         "url": "https://open.spotify.com/album/1DW7NqqzHq2QdzoDvB5VXm"
       },
@@ -10532,7 +10586,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 111666,
       "name": "I'm The Outside",
       "url": "https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO"
@@ -12212,7 +12266,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 189073,
       "name": "Limbo No. 5",
       "url": "https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs"
@@ -12400,6 +12454,24 @@
       "duration_ms": 403520,
       "name": "LOOK OUT FOR ME",
       "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
+    },
+    {
+      "album": {
+        "name": "Looking For Fun",
+        "url": "https://open.spotify.com/album/5QocbKX6lpWt2LNbONyuem"
+      },
+      "artists": [
+        {
+          "name": "Hard-Fi",
+          "url": "https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237240,
+      "name": "Looking For Fun",
+      "url": "https://open.spotify.com/track/35YExK6fDrmHnO5OYJjYpi"
     },
     {
       "album": {
@@ -12664,6 +12736,24 @@
       "duration_ms": 154516,
       "name": "love is embarrassing",
       "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
+    },
+    {
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/7t0GsYTsTodsWg3Oyuhx4r"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263279,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6P8GSsFudw7kcEmSyUT8Bb"
     },
     {
       "album": {
@@ -15529,6 +15619,24 @@
     },
     {
       "album": {
+        "name": "ONLY FREE WHEN SLEEPING",
+        "url": "https://open.spotify.com/album/6n5FhsyPFibZFYOMI5VW8x"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "ONLY FREE WHEN SLEEPING",
+      "url": "https://open.spotify.com/track/2pM5288FJrc08RobtMlEOy"
+    },
+    {
+      "album": {
         "name": "Karaoke Sellouts",
         "url": "https://open.spotify.com/album/6HinBdxcvcnRmm4QKvDP1d"
       },
@@ -16272,7 +16380,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 202788,
       "name": "pieces",
       "url": "https://open.spotify.com/track/0TYYCO93FESiUlTanVH9pX"
@@ -16809,6 +16917,24 @@
     },
     {
       "album": {
+        "name": "PROWLER",
+        "url": "https://open.spotify.com/album/4o8ibLshDMD2wTrG9s2GwO"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165690,
+      "name": "PROWLER",
+      "url": "https://open.spotify.com/track/5fD5ikfL6P5NZkbQYCfXa7"
+    },
+    {
+      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe"
       },
@@ -16954,6 +17080,24 @@
       "duration_ms": 192500,
       "name": "Punk's Dead",
       "url": "https://open.spotify.com/track/5RFjklYNzWhHH3wZ6c7ngo"
+    },
+    {
+      "album": {
+        "name": "pylon",
+        "url": "https://open.spotify.com/album/1EmVyAK3OZFFLHqHekJHA7"
+      },
+      "artists": [
+        {
+          "name": "thistle.",
+          "url": "https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146762,
+      "name": "pylon",
+      "url": "https://open.spotify.com/track/13a44jgmdMKQ83q1qbWrXC"
     },
     {
       "album": {
@@ -19188,7 +19332,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 235413,
       "name": "Song Of The Future",
       "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
@@ -20884,6 +21028,24 @@
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx"
+      },
+      "artists": [
+        {
+          "name": "THEATRE",
+          "url": "https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259053,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT"
     },
     {
       "album": {
@@ -22663,6 +22825,24 @@
     },
     {
       "album": {
+        "name": "Vendetta",
+        "url": "https://open.spotify.com/album/3cGO3FBxbnkyB7gWIWYmwS"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268062,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/2iaqhM34CBBgoyHLxOg5Ba"
+    },
+    {
+      "album": {
         "name": "Venom",
         "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
       },
@@ -23818,7 +23998,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 215200,
       "name": "Wild Woman",
       "url": "https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6"
@@ -23872,7 +24052,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 153530,
       "name": "WIRED",
       "url": "https://open.spotify.com/track/0kS71QsF9XfcrV07J3KRmF"
@@ -23962,7 +24142,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 162573,
       "name": "won't speak again",
       "url": "https://open.spotify.com/track/1ynfvyFOlaRb3HLC7WMS8c"
@@ -24494,6 +24674,24 @@
       "duration_ms": 162932,
       "name": "Zombieland",
       "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
+    },
+    {
+      "album": {
+        "name": "\u80aa \uff5cBo",
+        "url": "https://open.spotify.com/album/2en4aIjPUvlolSAAXWStDy"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "\u80aa \uff5cBo",
+      "url": "https://open.spotify.com/track/71J6B49V8UJAhbAB3FZpgB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT"

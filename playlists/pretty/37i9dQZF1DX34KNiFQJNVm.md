@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luísa Sonza, Zé Neto & Cristiano, Anitta com Shakira, Lady Gaga com Doechii,  Mariara & Maraísa, NATTAN e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,279,223 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,279,063 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

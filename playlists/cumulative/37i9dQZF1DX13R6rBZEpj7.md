@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-390 songs - 22 hr 36 min
+391 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Hot Flush](https://open.spotify.com/track/3EWHkgA4CWTaFn8IjWkUmZ) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Hot Flush](https://open.spotify.com/album/1Op4KXayD19pKY6CtdU27B) | 5:17 | 2022-04-15 | 2022-07-29 |
 | [Hot Flush](https://open.spotify.com/track/3Pwcb7LvFeCexk1QzZo225) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Hot Flush](https://open.spotify.com/album/4lKHOh8edLTDSrPgPQ5QDn) | 5:17 | 2022-07-14 | 2023-09-09 |
 | [Hot In Here](https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Hot In Here](https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W) | 3:11 | 2023-12-22 | 2026-01-16 |
-| [Hot In Herre](https://open.spotify.com/track/1vkARldHL4suLzugyV9Nuj) | [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc), [WHYCARE](https://open.spotify.com/artist/3sPOQGC7Qba2TdaM9WbrBF), [freeroll.](https://open.spotify.com/artist/60lGHkRLpgsBoF1VWgEZ8M) | [Hot In Herre](https://open.spotify.com/album/0dWhoOS6NPadGXYK12ZHp1) | 2:06 | 2025-10-02 |  |
+| [Hot In Herre](https://open.spotify.com/track/1vkARldHL4suLzugyV9Nuj) | [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc), [WHYCARE](https://open.spotify.com/artist/3sPOQGC7Qba2TdaM9WbrBF), [freeroll.](https://open.spotify.com/artist/60lGHkRLpgsBoF1VWgEZ8M) | [Hot In Herre](https://open.spotify.com/album/0dWhoOS6NPadGXYK12ZHp1) | 2:06 | 2025-10-02 | 2026-04-17 |
 | [I Got You](https://open.spotify.com/track/2FlLzsxCF8eHG7Ghoz58Eg) | [Kirbs](https://open.spotify.com/artist/4nuxG6KiK9pq1GRc89GkIm), [KTE](https://open.spotify.com/artist/38MTgSJ7hMFifr3sbiRPGJ) | [I Got You](https://open.spotify.com/album/0aetWgoztOAmY5oayMqb87) | 3:24 | 2022-05-13 | 2022-07-12 |
 | [I Just Want U](https://open.spotify.com/track/5B8uSlQlHH8XTQLrK4hJDk) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [I Just Want U](https://open.spotify.com/album/0cT99LxUk6j20kOlTurhnD) | 3:28 | 2026-01-16 |  |
 | [I need to know](https://open.spotify.com/track/2mc817QLOMfEGZG2rlQsy3) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [I need to know](https://open.spotify.com/album/4dvap2kLDTcRL4NI8etXwd) | 2:18 | 2025-01-30 |  |
@@ -229,6 +229,7 @@
 | [Lost It](https://open.spotify.com/track/1LaZl4dhIj9v3uUPwJpfVG) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP) | [Mixtape 1: \#Heaters](https://open.spotify.com/album/5vlmZo8r8wFHTs7w4aMZZt) | 3:35 | 2023-09-22 | 2023-12-22 |
 | [Lost It \- Medicine Place Remix](https://open.spotify.com/track/3y4Gf3Dp0HVzJnFYHhT8V0) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP), [Medicine Place](https://open.spotify.com/artist/5zKQqXKkTQAe5C9LqEQvNm) | [Lost It \(Remixed\)](https://open.spotify.com/album/0rv3P4AUuSqXPsbAuedEqg) | 3:25 | 2023-12-22 | 2024-05-08 |
 | [Lots and Lots VIP](https://open.spotify.com/track/5tTAU7IeaUf9ZQv67yqyYT) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Lots and Lots VIP](https://open.spotify.com/album/6IVBW7FPrwPCJtYf1ODJsK) | 4:31 | 2023-10-13 | 2023-12-22 |
+| [Lovesick](https://open.spotify.com/track/2f0bZbD4u8HX3Kn7PjKi6C) | [H "two" O](https://open.spotify.com/artist/2ev9Efr1n87BI5ZqZJ8SlW), [Rocco LDN](https://open.spotify.com/artist/012wRb4Wr9RU3zaxSxPTFX) | [Lovesick](https://open.spotify.com/album/6714860pGAmNimPSUT0GWN) | 4:35 | 2026-03-20 |  |
 | [LOViNG YOU](https://open.spotify.com/track/6cgMiUEjYLrvP2JRFglYNX) | [MXNiC](https://open.spotify.com/artist/3DwEf3VAdqBVNYZBFDDokz) | [LOViNG YOU](https://open.spotify.com/album/4BONH1yayoSzzuWQc2sqKp) | 5:36 | 2022-04-15 | 2022-07-14 |
 | [LOYAL](https://open.spotify.com/track/0XTC88XX9rerDucl82skTW) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [LOYAL](https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI) | 4:15 | 2023-12-01 | 2025-10-15 |
 | [Lululemon](https://open.spotify.com/track/4gUQvWM9KoiIkbw9cOLJWW) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Lululemon](https://open.spotify.com/album/66ToBa4wAO6EOnlZHPfsVR) | 3:28 | 2025-06-20 |  |

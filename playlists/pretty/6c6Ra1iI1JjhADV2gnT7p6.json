@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 59953,
+  "num_followers": 59959,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAA2xInstNxtGJDLNYqv7zzQMdob5FgV",
+  "snapshot_id": "AAA2yKcQcnG26FXHViZ+X69yCr4MaAE4",
   "tracks": [
     {
       "added_at": "2026-04-11 12:03:51",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
+        "name": "Pain Will Polish Me",
+        "url": "https://open.spotify.com/album/2gQRYx8YxrWvmS93clqLrI"
+      },
+      "artists": [
+        {
+          "name": "New German Cinema",
+          "url": "https://open.spotify.com/artist/5gssGahmFreA31AlhyKqLK"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Water Drops",
+      "url": "https://open.spotify.com/track/65SwobxDwUigYvd91PIAuF"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/0qBKP13vmSH5zdS4xHueSY"
       },
@@ -347,6 +363,70 @@
       "duration_ms": 197453,
       "name": "Undefined",
       "url": "https://open.spotify.com/track/4YXvbI13LqYxXkDZVzWuvv"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
+        "name": "microscope reality",
+        "url": "https://open.spotify.com/album/3VUDDajX0zsWHaffeqS44m"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chase",
+          "url": "https://open.spotify.com/artist/7bmbyVxD0v0ViTrZPT0vJZ"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "microscope reality",
+      "url": "https://open.spotify.com/track/62RzZ8f8kRAwLU3tddSDOJ"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
+        "name": "Humming Bees",
+        "url": "https://open.spotify.com/album/2aOlErgXWzosrvpjCYgsV2"
+      },
+      "artists": [
+        {
+          "name": "Misty Coast",
+          "url": "https://open.spotify.com/artist/3Bhr5ZB7uj7GfVhhmh39xv"
+        }
+      ],
+      "duration_ms": 142188,
+      "name": "Humming Bees",
+      "url": "https://open.spotify.com/track/5broChFTP9Kmk035Go4Xb3"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
+        "name": "My Satellite",
+        "url": "https://open.spotify.com/album/3BPuGtP2utmB9CV5jaX3aw"
+      },
+      "artists": [
+        {
+          "name": "Rose Hotel",
+          "url": "https://open.spotify.com/artist/5ctJa3WZob6jGQmdLYa0vJ"
+        }
+      ],
+      "duration_ms": 221794,
+      "name": "My Satellite",
+      "url": "https://open.spotify.com/track/6fGZGS2M7UOKIJuyOl9Nu9"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
+        "name": "You Know That, Right?",
+        "url": "https://open.spotify.com/album/0KtkeH4dY9T2dt8A3C7Odv"
+      },
+      "artists": [
+        {
+          "name": "SYT\u00cb",
+          "url": "https://open.spotify.com/artist/3FeH234dEJoLCwGmc2TOG9"
+        }
+      ],
+      "duration_ms": 160562,
+      "name": "Bungee Jumping",
+      "url": "https://open.spotify.com/track/5JQhGv7bvkktSQS6EzNQpQ"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -783,6 +863,42 @@
       "duration_ms": 286297,
       "name": "My Body's Flame is a Hunter",
       "url": "https://open.spotify.com/track/47G2VjOiab1vJRProCLciu"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5DKIE6GWSddAFFZSflGUXH"
+      },
+      "artists": [
+        {
+          "name": "NO BILLS",
+          "url": "https://open.spotify.com/artist/0KvKQGcKAdyCa0tptYZu6Z"
+        },
+        {
+          "name": "SATICA",
+          "url": "https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We"
+        }
+      ],
+      "duration_ms": 131612,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2cx6Kuq7DN8Cf9VjoTin5s"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
+        "name": "Road",
+        "url": "https://open.spotify.com/album/6xadX5F8WMLjID19Pu86lp"
+      },
+      "artists": [
+        {
+          "name": "Cold Cause",
+          "url": "https://open.spotify.com/artist/3VkVlQYQnXDvgGRktDZhZN"
+        }
+      ],
+      "duration_ms": 302375,
+      "name": "Road",
+      "url": "https://open.spotify.com/track/4FNXY6NduTVe5Aeze1DuRh"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -2407,38 +2523,6 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
-        "name": "microscope reality",
-        "url": "https://open.spotify.com/album/3VUDDajX0zsWHaffeqS44m"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chase",
-          "url": "https://open.spotify.com/artist/7bmbyVxD0v0ViTrZPT0vJZ"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "microscope reality",
-      "url": "https://open.spotify.com/track/62RzZ8f8kRAwLU3tddSDOJ"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
-        "name": "Humming Bees",
-        "url": "https://open.spotify.com/album/2aOlErgXWzosrvpjCYgsV2"
-      },
-      "artists": [
-        {
-          "name": "Misty Coast",
-          "url": "https://open.spotify.com/artist/3Bhr5ZB7uj7GfVhhmh39xv"
-        }
-      ],
-      "duration_ms": 142188,
-      "name": "Humming Bees",
-      "url": "https://open.spotify.com/track/5broChFTP9Kmk035Go4Xb3"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
         "name": "Nature Boy",
         "url": "https://open.spotify.com/album/65Zq8Uc43UDos0HJB5Uhih"
       },
@@ -2483,22 +2567,6 @@
       "duration_ms": 210090,
       "name": "Liaisons (450)",
       "url": "https://open.spotify.com/track/6hg3nwSOOpoQdpTSR7YaJ3"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
-        "name": "Pain Will Polish Me",
-        "url": "https://open.spotify.com/album/2gQRYx8YxrWvmS93clqLrI"
-      },
-      "artists": [
-        {
-          "name": "New German Cinema",
-          "url": "https://open.spotify.com/artist/5gssGahmFreA31AlhyKqLK"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Water Drops",
-      "url": "https://open.spotify.com/track/65SwobxDwUigYvd91PIAuF"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -2563,38 +2631,6 @@
       "duration_ms": 161185,
       "name": "Real Deal",
       "url": "https://open.spotify.com/track/22DPPXxESGkKrVsPR6Q0kv"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
-        "name": "My Satellite",
-        "url": "https://open.spotify.com/album/3BPuGtP2utmB9CV5jaX3aw"
-      },
-      "artists": [
-        {
-          "name": "Rose Hotel",
-          "url": "https://open.spotify.com/artist/5ctJa3WZob6jGQmdLYa0vJ"
-        }
-      ],
-      "duration_ms": 221794,
-      "name": "My Satellite",
-      "url": "https://open.spotify.com/track/6fGZGS2M7UOKIJuyOl9Nu9"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
-        "name": "You Know That, Right?",
-        "url": "https://open.spotify.com/album/0KtkeH4dY9T2dt8A3C7Odv"
-      },
-      "artists": [
-        {
-          "name": "SYT\u00cb",
-          "url": "https://open.spotify.com/artist/3FeH234dEJoLCwGmc2TOG9"
-        }
-      ],
-      "duration_ms": 160562,
-      "name": "Bungee Jumping",
-      "url": "https://open.spotify.com/track/5JQhGv7bvkktSQS6EzNQpQ"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -3063,42 +3099,6 @@
       "duration_ms": 195500,
       "name": "something waiting",
       "url": "https://open.spotify.com/track/1lfzDE0IZEdjX7StHByk5J"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5DKIE6GWSddAFFZSflGUXH"
-      },
-      "artists": [
-        {
-          "name": "NO BILLS",
-          "url": "https://open.spotify.com/artist/0KvKQGcKAdyCa0tptYZu6Z"
-        },
-        {
-          "name": "SATICA",
-          "url": "https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We"
-        }
-      ],
-      "duration_ms": 131612,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2cx6Kuq7DN8Cf9VjoTin5s"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
-        "name": "Road",
-        "url": "https://open.spotify.com/album/6xadX5F8WMLjID19Pu86lp"
-      },
-      "artists": [
-        {
-          "name": "Cold Cause",
-          "url": "https://open.spotify.com/artist/3VkVlQYQnXDvgGRktDZhZN"
-        }
-      ],
-      "duration_ms": 302375,
-      "name": "Road",
-      "url": "https://open.spotify.com/track/4FNXY6NduTVe5Aeze1DuRh"
     },
     {
       "added_at": "2026-04-11 12:03:51",

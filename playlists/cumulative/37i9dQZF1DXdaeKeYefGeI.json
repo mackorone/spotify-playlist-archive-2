@@ -2395,6 +2395,24 @@
     },
     {
       "album": {
+        "name": "Laat Het Licht Aan",
+        "url": "https://open.spotify.com/album/04rBOWpJpSp3pDFU5EGXb4"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Laat Het Licht Aan",
+      "url": "https://open.spotify.com/track/3m7590UqY1VXNtF6axoWj1"
+    },
+    {
+      "album": {
         "name": "Dag En Nacht",
         "url": "https://open.spotify.com/album/7Mjuv0IphBgLcHXhUyzCJe"
       },

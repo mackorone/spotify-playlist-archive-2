@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-447 songs - 20 hr 26 min
+448 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK) | [DJ Anton](https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq) | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw) | 2:52 | 2021-12-16 |  |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-03-24 | 2022-04-12 |
 | [Naboen](https://open.spotify.com/track/43Fe7HmRD4htXBxcRfBMzS) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Naboen](https://open.spotify.com/album/0V83AYZQaHZLyc8Ej57Den) | 2:22 | 2026-01-29 |  |
-| [Naboen har operert kona si](https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl) | [Naboen har operert kona si](https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE) | 2:30 | 2023-11-02 |  |
+| [Naboen har operert kona si](https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl) | [Naboen har operert kona si](https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE) | 2:30 | 2023-11-02 | 2026-04-17 |
 | [Nachspiel](https://open.spotify.com/track/6LGZTgf2BWIL4rT5luKAyU) | [Swingklubben](https://open.spotify.com/artist/1N6yMzPtvz09r7oiOmLhuz), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Nachspiel](https://open.spotify.com/album/6xGaQNvJydJViYIFqjesaE) | 2:37 | 2025-09-04 | 2026-01-01 |
 | [NATT TILL DAG](https://open.spotify.com/track/3OGIM1caVXkaAElEhGkLMB) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [NATT TILL DAG](https://open.spotify.com/album/7DrEhHhsCtyMT3HVKk8vKv) | 2:48 | 2023-07-27 | 2023-12-13 |
 | [Natten Er Vår](https://open.spotify.com/track/2G9haqdpvhVKKeVvjCdpqL) | [Bank I Bordet](https://open.spotify.com/artist/29QA9MItOHMfEuYZIedm2p), [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Natten Er Vår](https://open.spotify.com/album/7EiLYYgl69oQz8UNwWt7hT) | 2:34 | 2025-07-10 | 2025-09-11 |
@@ -324,6 +324,7 @@
 | [Oslo \- Takk, jeg er ferdig](https://open.spotify.com/track/1KRshP62zz9fFXfRzqHOD8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Oslo \(Takk, jeg er ferdig\)](https://open.spotify.com/album/0YiF4FO522DbWOwzfCW1Fc) | 2:24 | 2021-12-16 | 2022-10-16 |
 | [Partyjoik](https://open.spotify.com/track/180k05Dn11ylHDEkIzvssR) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:34 | 2024-02-15 | 2025-07-11 |
 | [Partyjoik](https://open.spotify.com/track/74mJCN9Yr4aTxRM7AbS4FI) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Partyjoik](https://open.spotify.com/album/0y18OXhsVZFe0xVABQO1g1) | 2:34 | 2022-02-03 | 2022-08-05 |
+| [Pengene eller Livet](https://open.spotify.com/track/7kjaJxq0ilgPOUY0IpDq3V) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Pengene eller Livet](https://open.spotify.com/album/10eqaM5ACUHLLIQEtYA0ld) | 2:40 | 2026-04-16 |  |
 | [Pickup truck](https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Pickup truck](https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx) | 3:30 | 2025-06-12 |  |
 | [PIGA & DRÄNG](https://open.spotify.com/track/3TqNrIB75lAx8rJBzyLNhX) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [PIGA & DRÄNG](https://open.spotify.com/album/2hv4vzbU53T6bjOSv0vpm0) | 2:28 | 2023-08-17 | 2023-10-11 |
 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 | 2021-12-16 | 2025-08-08 |

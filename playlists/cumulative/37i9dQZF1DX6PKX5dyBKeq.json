@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Rico Ace",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: M Huncho",
   "name": "Rap UK",
   "tracks": [
     {
@@ -6349,6 +6349,28 @@
     },
     {
       "album": {
+        "name": "Blue Marlin",
+        "url": "https://open.spotify.com/album/1DzaCBnbqK7pcVaUoE8isD"
+      },
+      "artists": [
+        {
+          "name": "Blade Brown",
+          "url": "https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201308,
+      "name": "Blue Marlin",
+      "url": "https://open.spotify.com/track/0xbz3yFshoRNPohArK6Q5l"
+    },
+    {
+      "album": {
         "name": "Bluebird",
         "url": "https://open.spotify.com/album/7F1O7eIMsLzwpLVcRMe9ka"
       },
@@ -10482,7 +10504,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 152582,
       "name": "CRIP",
       "url": "https://open.spotify.com/track/3woT2onx5jrFT5QYm9PAbD"
@@ -26630,7 +26652,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 169127,
       "name": "Mightjuss",
       "url": "https://open.spotify.com/track/2BCTfnyOqyEq4CmZ3aPjEj"
@@ -27755,6 +27777,24 @@
     },
     {
       "album": {
+        "name": "More Than U Know",
+        "url": "https://open.spotify.com/album/2l11S3y24CE9s3zeM5AunP"
+      },
+      "artists": [
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158770,
+      "name": "More Than U Know",
+      "url": "https://open.spotify.com/track/2ALJOResYdGVnp7LvYmE21"
+    },
+    {
+      "album": {
         "name": "Mortal Kombat (Remix)",
         "url": "https://open.spotify.com/album/3TXqiLvDzTYwr3SS3w23vg"
       },
@@ -28412,6 +28452,28 @@
       "duration_ms": 205000,
       "name": "My Story",
       "url": "https://open.spotify.com/track/5wlJDcToETmyXpTvksyRZG"
+    },
+    {
+      "album": {
+        "name": "MYSTERY BOX",
+        "url": "https://open.spotify.com/album/7HeruNqcvYvfqVh1IeHxnp"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "MYSTERY BOX",
+      "url": "https://open.spotify.com/track/47GOaqqJedheuOyncO2Brk"
     },
     {
       "album": {
@@ -29794,7 +29856,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 151764,
       "name": "Nonchalant",
       "url": "https://open.spotify.com/track/4usbXc7kKixh1pN7qrnzZd"
@@ -32348,7 +32410,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 185521,
       "name": "Penny Up",
       "url": "https://open.spotify.com/track/0s57hh6VeOcVsO7R9Q9n7v"
@@ -37720,7 +37782,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 122834,
       "name": "SING4ME",
       "url": "https://open.spotify.com/track/6XxWKbPOJGo6cwYFUvLAU3"
@@ -38302,7 +38364,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 122482,
       "name": "SMOKE",
       "url": "https://open.spotify.com/track/7lvhQgjoCKu7gFiLomImjU"
@@ -41727,6 +41789,28 @@
     },
     {
       "album": {
+        "name": "thirty degrees.",
+        "url": "https://open.spotify.com/album/5YScMSTEjAYVJAg6KuOcR1"
+      },
+      "artists": [
+        {
+          "name": "Floetic",
+          "url": "https://open.spotify.com/artist/65DpzULsU41SimkMyFx72v"
+        },
+        {
+          "name": "db.",
+          "url": "https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "thirty degrees.",
+      "url": "https://open.spotify.com/track/2JkHcevzr1noJyFSSgA6me"
+    },
+    {
+      "album": {
         "name": "This Is That",
         "url": "https://open.spotify.com/album/5kQttEMu3JC2XWV2bks71D"
       },
@@ -42394,6 +42478,36 @@
       "duration_ms": 215157,
       "name": "Tony Soprano 3",
       "url": "https://open.spotify.com/track/0y4jUgtW1KlE9CCLxhNBZi"
+    },
+    {
+      "album": {
+        "name": "Too Bait (Music Inspired by the Original Series \"Bait\")",
+        "url": "https://open.spotify.com/album/4BmzCIIdjOBlYmvfpaig5S"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        },
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        },
+        {
+          "name": "Anik Khan",
+          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Too Bait - Music Inspired by the Original Series \"Bait\"",
+      "url": "https://open.spotify.com/track/6e7eop8x4gRcuZAG3vBYc1"
     },
     {
       "album": {
@@ -44895,6 +45009,24 @@
     },
     {
       "album": {
+        "name": "WAY U MOVE",
+        "url": "https://open.spotify.com/album/53j5zsXCSgA1ufUYC05uQx"
+      },
+      "artists": [
+        {
+          "name": "JD Cliffe",
+          "url": "https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "WAY U MOVE",
+      "url": "https://open.spotify.com/track/0Ne9qvEn0GN5ixFUyPm7RP"
+    },
+    {
+      "album": {
         "name": "HARAM!",
         "url": "https://open.spotify.com/album/5m1R17FavKPjP7H5YPtrt1"
       },
@@ -46137,6 +46269,24 @@
     },
     {
       "album": {
+        "name": "Wizard Of Oz",
+        "url": "https://open.spotify.com/album/3ogwVPzWAxYZjROwu0MidL"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153677,
+      "name": "Wizard Of Oz",
+      "url": "https://open.spotify.com/track/4WUmgsEZZZx5aJqb5DE9Ta"
+    },
+    {
+      "album": {
         "name": "WOAH",
         "url": "https://open.spotify.com/album/4yBpDldVwK7pQO6Rav2NY8"
       },
@@ -46748,7 +46898,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 192513,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/1UL13ugmjz3HSbkN4d8nm2"

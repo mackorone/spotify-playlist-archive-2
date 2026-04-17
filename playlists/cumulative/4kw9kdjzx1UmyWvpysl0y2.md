@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,211 songs - 2 day 19 hr 29 min
+1,212 songs - 2 day 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Doorman](https://open.spotify.com/track/2Jb8KZOgoSCzbZ8oVKuOcV) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Doorman](https://open.spotify.com/album/6YPPtqhN5yMSXIt7py2808) | 3:37 | 2024-04-19 | 2024-07-12 |
 | [Doppelleben](https://open.spotify.com/track/7HF6q1y3zrvuB74VxOoZqP) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Doppelleben](https://open.spotify.com/album/0AFtfyQilo8jDVHssOtSE9) | 4:09 | 2021-11-19 | 2022-02-23 |
 | [Double Tap](https://open.spotify.com/track/4bc9Yk2C6ad3fAnTLfrBGZ) | [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Double Tap](https://open.spotify.com/album/4SDO9lDKGzIIBp9zubIvPo) | 3:21 | 2022-10-10 | 2022-12-10 |
+| [Downtown](https://open.spotify.com/track/64RtBPP0NXkUA0N79pDE4P) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu) | [Downtown](https://open.spotify.com/album/3HpHW9r9grbAHVflpDttMU) | 3:03 | 2026-04-16 |  |
 | [Dread](https://open.spotify.com/track/1n7nra0AJErSjEXpcrWKg5) | [RZRKT](https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC) | [Dread](https://open.spotify.com/album/7fURpnftVkIFjUMtm2IMe8) | 3:50 | 2024-03-18 | 2024-06-05 |
 | [Dream Cycle](https://open.spotify.com/track/7txsm358oTUP7fYsV1pI5M) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4) | [Dream Cycle](https://open.spotify.com/album/1QvHgVXLSeEvJ7QYtapuBK) | 3:47 | 2022-01-26 | 2022-04-06 |
 | [Dream of You](https://open.spotify.com/track/2WF1F1BeYTsYVxAJcKicV9) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Dream of You](https://open.spotify.com/album/0b2VziRlntuir19sjg1thx) | 2:43 | 2023-01-13 | 2023-03-30 |

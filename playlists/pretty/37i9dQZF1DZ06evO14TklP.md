@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,604 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,651 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 14 | [Vale Do Silício](https://open.spotify.com/track/0RIbrYxa06ta7MAlYCIGrI) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 3:37 |
 | 15 | [Terapia](https://open.spotify.com/track/4Zf8s6LPf3H83hCjkAHgzY) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Terapia](https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7) | 1:58 |
 | 16 | [8KG](https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c) | 2:12 |
-| 17 | [Sangue Ruim \#01](https://open.spotify.com/track/5WmegqJ48EYeF7L1pBgvWO) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2 \(De Luxo\)](https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO) | 0:42 |
+| 17 | [Parte do Mundo](https://open.spotify.com/track/4mWJYUQ2RPbFizCnpOD8r2) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2 \(De Luxo\)](https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO) | 2:10 |
 | 18 | [Não Lembro Da Minha Infância](https://open.spotify.com/track/7CuNThg1DPo5mde6vhUIKh) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 1:52 |
 | 19 | [Lei da Atração](https://open.spotify.com/track/0hPGlfjB2wK89hzKS8D2cq) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7) | 1:48 |
-| 20 | [Festa do Pijama](https://open.spotify.com/track/2FLPGzvxxcaQqaAxlbGGFh) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 2:19 |
-| 21 | [Parte do Mundo](https://open.spotify.com/track/4mWJYUQ2RPbFizCnpOD8r2) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2 \(De Luxo\)](https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO) | 2:10 |
+| 20 | [MANIA \(oi amor, bom dia\)](https://open.spotify.com/track/68xlHabOLtNATuxSFcOAyT) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [MANIA \(oi amor, bom dia\)](https://open.spotify.com/album/0FfaZWXTDQp0rbYhOaVIZP) | 2:47 |
+| 21 | [Sangue Ruim \#01](https://open.spotify.com/track/5WmegqJ48EYeF7L1pBgvWO) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2 \(De Luxo\)](https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO) | 0:42 |
 | 22 | [Triplex](https://open.spotify.com/track/3mbw5wfUXaNr4yCOnUxqlA) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:15 |
 | 23 | [Hentai](https://open.spotify.com/track/6hgtuciqHAArNVTXuglAnh) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Terapia](https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7) | 2:22 |
-| 24 | [MANIA \(oi amor, bom dia\)](https://open.spotify.com/track/68xlHabOLtNATuxSFcOAyT) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [MANIA \(oi amor, bom dia\)](https://open.spotify.com/album/0FfaZWXTDQp0rbYhOaVIZP) | 2:47 |
+| 24 | [Festa do Pijama](https://open.spotify.com/track/2FLPGzvxxcaQqaAxlbGGFh) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 2:19 |
 | 25 | [Hong He](https://open.spotify.com/track/6g6R2NZhbJMR0scWTPprws) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2 \(De Luxo\)](https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO) | 1:47 |
 | 26 | [BAILE NO RXOTA](https://open.spotify.com/track/3ll1oyrd95gYrzerOoBDod) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Gambiarra Chic, Pt\. 2](https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi) | 3:35 |
 | 27 | [SXO \- Irmãs de Pau Remix](https://open.spotify.com/track/4vr8YAo8u75p01nfqRdgJt) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [NTGMX](https://open.spotify.com/album/1PX0GHNvrbAHtOyfBSilVQ) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 49 | [After](https://open.spotify.com/track/6WODGYSGiq0aUNqYlOYNhA) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 2:12 |
 | 50 | [Xoxo](https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j) | [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Xoxo](https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv) | 2:10 |
 
-Snapshot ID: `ad2DgAAAAABhdNHn5Z0Nx3e8DUldkqu5`
+Snapshot ID: `ad7VAAAAAADvuxgaoW/Qr5CtdCFqkwN7`

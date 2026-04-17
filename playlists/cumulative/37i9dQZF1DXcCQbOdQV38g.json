@@ -407,6 +407,24 @@
     },
     {
       "album": {
+        "name": "Cheerio",
+        "url": "https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148815,
+      "name": "Cheerio",
+      "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
+    },
+    {
+      "album": {
         "name": "De Eerste Keer",
         "url": "https://open.spotify.com/album/6U53g89WwY7vnrmHVFB8tL"
       },
@@ -426,6 +444,24 @@
       "duration_ms": 164170,
       "name": "De Eerste Keer",
       "url": "https://open.spotify.com/track/4o1Hhg6PfdbsWGtfy9ARBs"
+    },
+    {
+      "album": {
+        "name": "De Tapster Uit Tijuana",
+        "url": "https://open.spotify.com/album/43Xdl2v1kht5oRtsp8a6qL"
+      },
+      "artists": [
+        {
+          "name": "Sander Kwarten",
+          "url": "https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186911,
+      "name": "De Tapster Uit Tijuana",
+      "url": "https://open.spotify.com/track/3VKUZemyzO52vCdZrXl7A9"
     },
     {
       "album": {
@@ -516,7 +552,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 184671,
       "name": "Een Blik In Jouw Ogen",
       "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
@@ -706,6 +742,24 @@
       "duration_ms": 179025,
       "name": "Hartslag Van De Stad",
       "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
+    },
+    {
+      "album": {
+        "name": "Heerlijk",
+        "url": "https://open.spotify.com/album/68JDBphxyUiqaNt3qotaf7"
+      },
+      "artists": [
+        {
+          "name": "Danny De Munk",
+          "url": "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126489,
+      "name": "Heerlijk",
+      "url": "https://open.spotify.com/track/3uNLa5MkTaw3OdXWfXzgXZ"
     },
     {
       "album": {
@@ -964,7 +1018,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 171750,
       "name": "Ken Je Dat Gevoel",
       "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
@@ -1650,7 +1704,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 176012,
       "name": "Se\u00f1orita, Meisje van de nacht",
       "url": "https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht"

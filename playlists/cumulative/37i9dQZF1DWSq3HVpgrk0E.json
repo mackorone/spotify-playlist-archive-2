@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "The whole truth. Cover: DJ Khaled, Lil Baby, Future",
+  "description": "The whole truth. Cover: Blade Brown, Benny The Butcher",
   "name": "No Cap (2)",
   "tracks": [
     {
@@ -187,6 +187,28 @@
     },
     {
       "album": {
+        "name": "Blue Marlin",
+        "url": "https://open.spotify.com/album/1DzaCBnbqK7pcVaUoE8isD"
+      },
+      "artists": [
+        {
+          "name": "Blade Brown",
+          "url": "https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201308,
+      "name": "Blue Marlin",
+      "url": "https://open.spotify.com/track/0xbz3yFshoRNPohArK6Q5l"
+    },
+    {
+      "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
       },
@@ -322,7 +344,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 150344,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/2QpJEpndRVvaeZSB8fYM99"
@@ -986,7 +1008,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 284363,
       "name": "Noid",
       "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
@@ -1110,7 +1132,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 153600,
       "name": "Pattern",
       "url": "https://open.spotify.com/track/6ZdnXGLHEtYuvb49N9nGfq"
@@ -1140,6 +1162,24 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
+    },
+    {
+      "album": {
+        "name": "PAYG",
+        "url": "https://open.spotify.com/album/1auIHYagR2co2AFtmAKILv"
+      },
+      "artists": [
+        {
+          "name": "Digga",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "PAYG",
+      "url": "https://open.spotify.com/track/0lgxvRcbVVylxN9cli3WSi"
     },
     {
       "album": {

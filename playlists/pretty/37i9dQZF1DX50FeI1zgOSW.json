@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sharan Kumar",
-  "num_followers": 19312,
+  "num_followers": 19317,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN/8fb978YWiW0T8BJwfLxGJjj/a",
+  "snapshot_id": "AAAAABqXEqJR47sYSk/i01Sq6dqhPa67",
   "tracks": [
     {
       "added_at": "2026-04-02 06:27:19",
@@ -43,6 +43,50 @@
       "duration_ms": 146000,
       "name": "Maname",
       "url": "https://open.spotify.com/track/1dhe3PICallkMWr9098yzp"
+    },
+    {
+      "added_at": "2026-02-19 11:44:49",
+      "album": {
+        "name": "Maayam Neeyadi",
+        "url": "https://open.spotify.com/album/66XgsDlWKmaHu3TXcztoud"
+      },
+      "artists": [
+        {
+          "name": "Harsha Vardhan",
+          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 176341,
+      "name": "Maayam Neeyadi",
+      "url": "https://open.spotify.com/track/6dEDlp5g1WaebGKI3K3IGH"
+    },
+    {
+      "added_at": "2026-02-13 05:13:51",
+      "album": {
+        "name": "Broken Star (From \"Loopd\")",
+        "url": "https://open.spotify.com/album/4OV1vpPYa4djhsQcBBRCtI"
+      },
+      "artists": [
+        {
+          "name": "John Robins",
+          "url": "https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc"
+        },
+        {
+          "name": "Vetti Payan Venkat",
+          "url": "https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e"
+        }
+      ],
+      "duration_ms": 234294,
+      "name": "Broken Star (From \"Loopd\")",
+      "url": "https://open.spotify.com/track/0hIgpTZOcfxex9i1xW7prm"
     },
     {
       "added_at": "2026-02-27 09:11:22",
@@ -93,48 +137,28 @@
       "url": "https://open.spotify.com/track/3sc9YTUagSYEDhXSnzZln2"
     },
     {
-      "added_at": "2026-02-19 11:44:49",
+      "added_at": "2026-04-16 05:52:46",
       "album": {
-        "name": "Maayam Neeyadi",
-        "url": "https://open.spotify.com/album/66XgsDlWKmaHu3TXcztoud"
+        "name": "Back To The Roots",
+        "url": "https://open.spotify.com/album/27JxJVYrTLX0ncTr5rvHUh"
       },
       "artists": [
         {
-          "name": "Harsha Vardhan",
-          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
+          "name": "SUVI",
+          "url": "https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL"
         },
         {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+          "name": "Duke Mushroom",
+          "url": "https://open.spotify.com/artist/1sZnlkyXABYTycNmFYm58a"
         },
         {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+          "name": "B.K.L.A.",
+          "url": "https://open.spotify.com/artist/2r5ZXiwwTuHC341Ouxi04G"
         }
       ],
-      "duration_ms": 176341,
-      "name": "Maayam Neeyadi",
-      "url": "https://open.spotify.com/track/6dEDlp5g1WaebGKI3K3IGH"
-    },
-    {
-      "added_at": "2026-02-13 05:13:51",
-      "album": {
-        "name": "Broken Star (From \"Loopd\")",
-        "url": "https://open.spotify.com/album/4OV1vpPYa4djhsQcBBRCtI"
-      },
-      "artists": [
-        {
-          "name": "John Robins",
-          "url": "https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc"
-        },
-        {
-          "name": "Vetti Payan Venkat",
-          "url": "https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e"
-        }
-      ],
-      "duration_ms": 234294,
-      "name": "Broken Star (From \"Loopd\")",
-      "url": "https://open.spotify.com/track/0hIgpTZOcfxex9i1xW7prm"
+      "duration_ms": 161104,
+      "name": "Back To The Roots",
+      "url": "https://open.spotify.com/track/346aABQohca53F3M3bJJJc"
     },
     {
       "added_at": "2026-04-02 06:27:19",
@@ -181,6 +205,22 @@
       "url": "https://open.spotify.com/track/2a8lNazO6H29GlIKHmikhw"
     },
     {
+      "added_at": "2026-04-16 06:17:36",
+      "album": {
+        "name": "Vaanavil (Bachata)",
+        "url": "https://open.spotify.com/album/0STD8doSGdttyq21ahA3vf"
+      },
+      "artists": [
+        {
+          "name": "Arun Pauer",
+          "url": "https://open.spotify.com/artist/1nXfmyX8X7x8meYQKiUsYp"
+        }
+      ],
+      "duration_ms": 208610,
+      "name": "Vaanavil (Bachata)",
+      "url": "https://open.spotify.com/track/1z6Zlar4NmlC1PhktFGHXC"
+    },
+    {
       "added_at": "2026-04-02 06:27:19",
       "album": {
         "name": "Kaalam Thaandi",
@@ -199,6 +239,54 @@
       "duration_ms": 215737,
       "name": "Kaalam Thaandi",
       "url": "https://open.spotify.com/track/25RJWsx5213PQNXXa7vwPq"
+    },
+    {
+      "added_at": "2026-04-16 05:52:46",
+      "album": {
+        "name": "Rathiye",
+        "url": "https://open.spotify.com/album/6CrZVGXeJLbjHCEJdXmy8z"
+      },
+      "artists": [
+        {
+          "name": "Deluxshion",
+          "url": "https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B"
+        },
+        {
+          "name": "Arvind Raj",
+          "url": "https://open.spotify.com/artist/26CNPypOLdqMPbT7qyVskl"
+        },
+        {
+          "name": "Boston IFT",
+          "url": "https://open.spotify.com/artist/6ayz42A0YTjZRWxZLuhFKP"
+        }
+      ],
+      "duration_ms": 255319,
+      "name": "Rathiye",
+      "url": "https://open.spotify.com/track/4wVhiEPqk0NvXI8QhGCXib"
+    },
+    {
+      "added_at": "2026-04-16 05:52:46",
+      "album": {
+        "name": "manase",
+        "url": "https://open.spotify.com/album/4e9da6j9leq62ET06iCrGK"
+      },
+      "artists": [
+        {
+          "name": "cavya sound",
+          "url": "https://open.spotify.com/artist/1bHLrn1seutyUjIUCJnMyj"
+        },
+        {
+          "name": "Pritt",
+          "url": "https://open.spotify.com/artist/5UBfs4W6ckxE7jCcqapRPn"
+        },
+        {
+          "name": "dilushselva",
+          "url": "https://open.spotify.com/artist/0kmN7hZGqNtmFNgJz4YvKZ"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "manase",
+      "url": "https://open.spotify.com/track/2rAkyTAdRsQmqUMQaOC5jj"
     },
     {
       "added_at": "2026-04-09 10:06:42",

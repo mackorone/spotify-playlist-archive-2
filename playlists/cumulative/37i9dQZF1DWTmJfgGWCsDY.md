@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Kidene Fighter
 
-183 songs - 11 hr 59 min
+184 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Chura Superstar](https://open.spotify.com/track/14xLOCMIFzks6x7H1lTDqg) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Chura Superstar](https://open.spotify.com/album/5M4vDpC8xehFml0hAOXrVi) | 5:49 | 2022-08-05 | 2024-10-14 |
 | [Chura Wangu](https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Chura Wangu](https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR) | 3:07 | 2022-08-05 | 2025-08-22 |
 | [Coming Home](https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Coming Home](https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd) | 3:20 | 2025-07-17 |  |
+| [Dakika Mbili](https://open.spotify.com/track/6iO8u0nErVcarnZrPHoYji) | [Tiffah Devoice](https://open.spotify.com/artist/4llRmRImGPBPjayxu2mEAD) | [Dakika Mbili](https://open.spotify.com/album/3u6gf9HOgyaYT72o3e3QQw) | 3:18 | 2026-04-16 |  |
 | [Dar Es Salaam](https://open.spotify.com/track/5ilkB8b305bzKh3zzgs5cB) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Dar Es Salaam](https://open.spotify.com/album/1zbJ41YdrJ9WuOjxcgH4hJ) | 2:33 | 2024-11-01 |  |
 | [Demu Wangu](https://open.spotify.com/track/2zl5QAmjBZVDmpBNX7mnx2) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Demu Wangu \(Remix\)](https://open.spotify.com/album/7zSRhcHQG4jIHEHBSq5euQ) | 4:07 | 2023-04-07 | 2026-03-28 |
 | [Dua](https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Dua](https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7) | 4:42 | 2024-10-04 |  |
@@ -113,7 +114,7 @@
 | [Natafuta Hela](https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK) | [DJ Jukk](https://open.spotify.com/artist/32nFfq390c9vyz1ZqDGpZl), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [K Pizo](https://open.spotify.com/artist/2B5oYAod3fGCDamm4YdUWV) | [Natafuta Hela](https://open.spotify.com/album/1R7nqRuAyCeoox1AAo7zAp) | 3:44 | 2025-04-17 |  |
 | [Natamani](https://open.spotify.com/track/5PY0K1JkB3IbgldFpHiWuM) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Chege](https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB) | [Natamani](https://open.spotify.com/album/6A8pezWuBNYujOhZhffVmE) | 4:22 | 2022-08-05 | 2024-12-18 |
 | [Naumia](https://open.spotify.com/track/28qsyjBi4t7aD1yGsE030F) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN) | [Naumia](https://open.spotify.com/album/70hchTWlKZnkowXc624R7v) | 3:44 | 2023-04-14 | 2024-07-25 |
-| [Niaminishe](https://open.spotify.com/track/0phOZHYeL2fmsubAwswkFk) | [Kayumba](https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk) | [Niaminishe](https://open.spotify.com/album/3YqLpGfjbwkkb6ThnZL3ka) | 4:32 | 2025-08-29 |  |
+| [Niaminishe](https://open.spotify.com/track/0phOZHYeL2fmsubAwswkFk) | [Kayumba](https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk) | [Niaminishe](https://open.spotify.com/album/3YqLpGfjbwkkb6ThnZL3ka) | 4:32 | 2025-08-29 | 2026-04-17 |
 | [Niite Mbwa](https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Niite Mbwa](https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9) | 3:48 | 2022-08-05 | 2025-11-24 |
 | [Nikizipata](https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nikizipata](https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4) | 3:00 | 2022-08-05 |  |
 | [Nilie Mpata](https://open.spotify.com/track/4GV9OHEyqNkggs1KfPzmtB) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Nilie Mpata](https://open.spotify.com/album/6qlBsvxiNxf3k1o6JmiPmb) | 4:44 | 2022-08-05 | 2024-04-23 |

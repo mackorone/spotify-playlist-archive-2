@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112744,
+  "num_followers": 112814,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-04-10 09:40:45",
       "album": {
-        "name": "Dom",
-        "url": "https://open.spotify.com/album/5la4J8vKDZwNe4wvh8e4Cr"
-      },
-      "artists": [
-        {
-          "name": "Krystian Embradora",
-          "url": "https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z"
-        }
-      ],
-      "duration_ms": 154368,
-      "name": "Dom",
-      "url": "https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza"
-    },
-    {
-      "added_at": "2026-04-10 09:40:45",
-      "album": {
         "name": "Dotknij",
         "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
       },
@@ -763,22 +747,6 @@
       "duration_ms": 154736,
       "name": "Dotknij",
       "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
-    },
-    {
-      "added_at": "2026-04-10 09:40:45",
-      "album": {
-        "name": "kto jak nie my",
-        "url": "https://open.spotify.com/album/32CQm6plS0cfSSfvomyqn0"
-      },
-      "artists": [
-        {
-          "name": "Lanberry",
-          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "kto jak nie my",
-      "url": "https://open.spotify.com/track/5rNlHvLzdWxWUPX2oPGv0B"
     },
     {
       "added_at": "2026-04-10 09:40:45",
@@ -803,6 +771,38 @@
       "duration_ms": 225000,
       "name": "na zab\u00f3j",
       "url": "https://open.spotify.com/track/4s6TSLuS5vJv1tmSSSuCXk"
+    },
+    {
+      "added_at": "2026-04-10 09:40:45",
+      "album": {
+        "name": "Dom",
+        "url": "https://open.spotify.com/album/5la4J8vKDZwNe4wvh8e4Cr"
+      },
+      "artists": [
+        {
+          "name": "Krystian Embradora",
+          "url": "https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z"
+        }
+      ],
+      "duration_ms": 154368,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza"
+    },
+    {
+      "added_at": "2026-04-10 09:40:45",
+      "album": {
+        "name": "kto jak nie my",
+        "url": "https://open.spotify.com/album/32CQm6plS0cfSSfvomyqn0"
+      },
+      "artists": [
+        {
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "kto jak nie my",
+      "url": "https://open.spotify.com/track/5rNlHvLzdWxWUPX2oPGv0B"
     },
     {
       "added_at": "2026-04-10 09:40:45",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-04-10 09:40:45",
       "album": {
+        "name": "Muzyka pop",
+        "url": "https://open.spotify.com/album/0xLwcioIso3I9TpCYinABA"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "duration_ms": 253703,
+      "name": "Muzyka pop",
+      "url": "https://open.spotify.com/track/5R0i3UmUiz7dQjzECeFPwt"
+    },
+    {
+      "added_at": "2026-04-10 09:40:45",
+      "album": {
         "name": "SALON",
         "url": "https://open.spotify.com/album/19oOJv14gKILUG9Re8O7SW"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 198240,
       "name": "Ciebie brak",
       "url": "https://open.spotify.com/track/1jQSDt9npU5n6HEfCKsokt"
-    },
-    {
-      "added_at": "2026-04-10 09:40:45",
-      "album": {
-        "name": "Muzyka pop",
-        "url": "https://open.spotify.com/album/0xLwcioIso3I9TpCYinABA"
-      },
-      "artists": [
-        {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
-        }
-      ],
-      "duration_ms": 253703,
-      "name": "Muzyka pop",
-      "url": "https://open.spotify.com/track/5R0i3UmUiz7dQjzECeFPwt"
     },
     {
       "added_at": "2026-04-10 09:40:45",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-04-10 09:40:45",
       "album": {
-        "name": "Brightest Light",
-        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
-      },
-      "artists": [
-        {
-          "name": "Marianna K\u0142os",
-          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
-        }
-      ],
-      "duration_ms": 180691,
-      "name": "Brightest Light",
-      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
-    },
-    {
-      "added_at": "2026-04-10 09:40:45",
-      "album": {
         "name": "Wi\u0119cej nas",
         "url": "https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx"
       },
@@ -1091,18 +1075,34 @@
     {
       "added_at": "2026-04-10 09:40:45",
       "album": {
-        "name": "Niesamowita Trupa Pana Hiroszimy",
-        "url": "https://open.spotify.com/album/0keblXeuVMoglZxtBUGYfE"
+        "name": "Brightest Light",
+        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
       },
       "artists": [
         {
-          "name": "Lordofon",
-          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
+          "name": "Marianna K\u0142os",
+          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
         }
       ],
-      "duration_ms": 211524,
-      "name": "Hiroszima, mon amour",
-      "url": "https://open.spotify.com/track/3gMwIRYyZV3hpE5WhBCkNQ"
+      "duration_ms": 180691,
+      "name": "Brightest Light",
+      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
+    },
+    {
+      "added_at": "2026-04-10 09:40:45",
+      "album": {
+        "name": "Ciszej",
+        "url": "https://open.spotify.com/album/02gdMVpWIJtHi393VT1gbC"
+      },
+      "artists": [
+        {
+          "name": "Linia Nocna",
+          "url": "https://open.spotify.com/artist/6ASsF4ZKpJlpeRF7HarDfe"
+        }
+      ],
+      "duration_ms": 148292,
+      "name": "Ciszej",
+      "url": "https://open.spotify.com/track/6aZayI481YYsBFERs1a0UG"
     }
   ],
   "unique_name": "... ale najpierw kawa",

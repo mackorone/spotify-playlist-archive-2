@@ -2514,7 +2514,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 240933,
       "name": "Comme un refrain",
       "url": "https://open.spotify.com/track/2MkA4ZOZC3xrUVj3jiVQkX"
@@ -4061,6 +4061,24 @@
     },
     {
       "album": {
+        "name": "EVIL WORLD",
+        "url": "https://open.spotify.com/album/6v5mzCcDl3yZzi8EtPIslR"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "EVIL WORLD",
+      "url": "https://open.spotify.com/track/3p7Xlyos3h0Ua6XNe2LviD"
+    },
+    {
+      "album": {
         "name": "Exquisite",
         "url": "https://open.spotify.com/album/4Rlp7ncaNEzgJVoWhpWFMo"
       },
@@ -4162,7 +4180,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 391268,
       "name": "Fabienk",
       "url": "https://open.spotify.com/track/4UXwfhy8RTOcH0QWJF8SMg"
@@ -4380,6 +4398,24 @@
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
       "album": {
@@ -4706,10 +4742,52 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 153828,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5caiMGkiOJtDOpYv3C17df"
+    },
+    {
+      "album": {
+        "name": "GRACIAS (feat. benjamiin, King Melrose & Justin Roy)",
+        "url": "https://open.spotify.com/album/0UDYAVLhXNfRHYhpN0Joxn"
+      },
+      "artists": [
+        {
+          "name": "Classe Moyenne",
+          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        },
+        {
+          "name": "benjamiin",
+          "url": "https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y"
+        },
+        {
+          "name": "King Melrose",
+          "url": "https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91"
+        },
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162765,
+      "name": "GRACIAS (feat. benjamiin, King Melrose & Justin Roy)",
+      "url": "https://open.spotify.com/track/72yq1Q5f9FsXGDMWKLH1oq"
     },
     {
       "album": {
@@ -5866,6 +5944,24 @@
       "duration_ms": 108064,
       "name": "Je confirme ma pr\u00e9sence",
       "url": "https://open.spotify.com/track/5Hycs03T6DODsC0i97ndGm"
+    },
+    {
+      "album": {
+        "name": "je n'entends plus",
+        "url": "https://open.spotify.com/album/7BsHuSyxz1pZ7hDbf8GB5h"
+      },
+      "artists": [
+        {
+          "name": "Katrine Sansregret",
+          "url": "https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130600,
+      "name": "je n'entends plus",
+      "url": "https://open.spotify.com/track/45I6Tnlo8gSv3kYKWu4f1c"
     },
     {
       "album": {
@@ -8256,7 +8352,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -9831,6 +9927,28 @@
     },
     {
       "album": {
+        "name": "Rivi\u00e8re",
+        "url": "https://open.spotify.com/album/3xsOfF7KbAqA2PyW9mWytV"
+      },
+      "artists": [
+        {
+          "name": "Laurence St-Martin",
+          "url": "https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG"
+        },
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213176,
+      "name": "Rivi\u00e8re",
+      "url": "https://open.spotify.com/track/4NAWiD6hltdiI4zvdbl3J9"
+    },
+    {
+      "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
@@ -10113,6 +10231,24 @@
     },
     {
       "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275599,
+      "name": "Sarniezz",
+      "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
+    },
+    {
+      "album": {
         "name": "Saturn",
         "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
       },
@@ -10328,7 +10464,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 343190,
       "name": "Sherpa",
       "url": "https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G"
@@ -12578,7 +12714,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 197142,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235892,
+  "num_followers": 235894,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAADl3QvsYtu1ImwGJHqc4v9n",
+  "snapshot_id": "ad7VAAAAAAAgF6HHAsrhLvjCjbPhB1rU",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raya y el \u00daltimo Drag\u00f3n (Banda Sonora Original en Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/2oZQAdZR7MN3FAqyjamR0B"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 224150,
-      "name": "Hasta vencer",
-      "url": "https://open.spotify.com/track/7BdR0he8VuKnBK94I8FlWf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 180000,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raya y el \u00daltimo Drag\u00f3n (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/2oZQAdZR7MN3FAqyjamR0B"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 224150,
+      "name": "Hasta vencer",
+      "url": "https://open.spotify.com/track/7BdR0he8VuKnBK94I8FlWf"
     },
     {
       "added_at": null,

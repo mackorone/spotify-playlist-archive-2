@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 167600,
       "name": "10/10",
       "url": "https://open.spotify.com/track/6ELD8bXnTOMJkdFtrXXgMB"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 161465,
       "name": "Beautiful Disaster",
       "url": "https://open.spotify.com/track/1GWmWZxXC2rAoOBgioW0C8"
@@ -3404,6 +3404,28 @@
       "duration_ms": 500310,
       "name": "Hennessy Cypher",
       "url": "https://open.spotify.com/track/4Pk8OqjfAwDnYS6kD7RlRa"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/3o7CrZMZ4Wi7Amme6B1bSY"
+      },
+      "artists": [
+        {
+          "name": "8th Street Gang",
+          "url": "https://open.spotify.com/artist/2dBpYnIr6v0mfiMIFMkHIO"
+        },
+        {
+          "name": "WizArdoh",
+          "url": "https://open.spotify.com/artist/10S3QxAK89ICSRWT4AT3Iu"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238356,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/2l2aIEmVfvoPRGcKaxjXID"
     },
     {
       "album": {
@@ -6610,7 +6632,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 224415,
       "name": "November 3rd / Sober",
       "url": "https://open.spotify.com/track/6LTFRhZucBXu5qyXJDFDKe"
@@ -8278,7 +8300,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 161518,
       "name": "Sleep Over",
       "url": "https://open.spotify.com/track/1hG0Vqqrd35XJgD0qIGOAP"
@@ -9369,6 +9391,28 @@
     },
     {
       "album": {
+        "name": "TIP",
+        "url": "https://open.spotify.com/album/6uKjJdnCZaD6LTzBQrMolq"
+      },
+      "artists": [
+        {
+          "name": "Silverstone Barz",
+          "url": "https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg"
+        },
+        {
+          "name": "Ndovu Kuu",
+          "url": "https://open.spotify.com/artist/0RLaYMrpAyHQp8IFohsSIQ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97586,
+      "name": "TIP",
+      "url": "https://open.spotify.com/track/27lfg11DPSNc1OOaeFia9W"
+    },
+    {
+      "album": {
         "name": "Toka DM",
         "url": "https://open.spotify.com/album/5N0RZBpJm8LYdZ4A3WxZ76"
       },
@@ -9424,6 +9468,24 @@
       "duration_ms": 132685,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/0KeypJHo1vNcEUR5cQSBHz"
+    },
+    {
+      "album": {
+        "name": "Trap Harakati",
+        "url": "https://open.spotify.com/album/5uSLpHtIbUEAQyb1F2pHvo"
+      },
+      "artists": [
+        {
+          "name": "Jovie Jovv",
+          "url": "https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Trap Harakati",
+      "url": "https://open.spotify.com/track/5zqzBnWP6dLTNLp7zT0jXx"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Cece Caramel
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Adikara
 
-609 songs - 1 day 11 hr 34 min
+613 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [a.way \(with Jin Min Ho\)](https://open.spotify.com/track/0S9zODk7VYgZZMlfoXlypk) | [BLEUR](https://open.spotify.com/artist/7hWuIb3WTuXRN6QCYKs9L3), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Jin Minho](https://open.spotify.com/artist/32nBx6aSKfWVXWTl5pLneY) | [a.way \(with Jin Min Ho\)](https://open.spotify.com/album/1RPAZp71VRzy3tFQ1kx9ti) | 3:41 | 2024-10-03 | 2025-01-24 |
 | [Adam & Eve](https://open.spotify.com/track/63vscEc34aVwFMsdYM88gd) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Adam & Eve](https://open.spotify.com/album/0DIay3dTps5nQRfq3LLcss) | 3:25 | 2024-12-12 | 2025-09-30 |
 | [ADDICTION](https://open.spotify.com/track/62yN59Z49wkOnPByz4VzWI) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [ADDICTION](https://open.spotify.com/album/7c1IM0Lwuv0NzcFAt6FVSp) | 2:29 | 2025-07-18 |  |
-| [Addiction \- Acoustic](https://open.spotify.com/track/2FfiwEFWDceK0TlkpAwLIH) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [Addiction \(Acoustic\)](https://open.spotify.com/album/3t8LQCTAuhNLUtOGnUPMoz) | 2:35 | 2025-12-05 |  |
+| [Addiction \- Acoustic](https://open.spotify.com/track/2FfiwEFWDceK0TlkpAwLIH) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [Addiction \(Acoustic\)](https://open.spotify.com/album/3t8LQCTAuhNLUtOGnUPMoz) | 2:35 | 2025-12-05 | 2026-04-17 |
 | [After All](https://open.spotify.com/track/0wSdGTI9Uc8zKNSyzoyIzV) | [Dried Cassava](https://open.spotify.com/artist/0ZFOqczQaOVygEA3lFm244) | [After All](https://open.spotify.com/album/0FXuhf7oz9QFTYKET9a5uF) | 2:35 | 2024-06-27 | 2024-09-27 |
 | [AIN'T AFRAID OF LOVE](https://open.spotify.com/track/4tOw8pFsj43Tihuk3b0a0l) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [AIN'T AFRAID OF LOVE](https://open.spotify.com/album/5ag0GwwNQXV6YriCl5fqqS) | 3:33 | 2025-09-29 | 2025-12-06 |
 | [Aliens](https://open.spotify.com/track/2H6IA5KEr3RvFZrZTwMkQz) | [Rahma Savitri](https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V) | [Aliens](https://open.spotify.com/album/3Ge9wre66gxREL0Gv5iIPr) | 3:05 | 2025-02-06 | 2025-06-13 |
@@ -103,7 +103,9 @@
 | [Buzzin](https://open.spotify.com/track/2zbNNWI53q6yRi6jdYfwX1) | [Cece Caramel](https://open.spotify.com/artist/1AGoLYap5zJzPMHu2lO5EY) | [Caramelting](https://open.spotify.com/album/3UmgYlwjVpYAHTWL7pHUCj) | 3:14 | 2026-04-09 |  |
 | [Call Me](https://open.spotify.com/track/3TGZXTdMvVmZcKBEOwz6mh) | [Owwie](https://open.spotify.com/artist/2wKVIIT00EhTd9ncgdMPW7) | [Call Me](https://open.spotify.com/album/5g6dStSGK2J2trVNvfcBqz) | 3:00 | 2024-06-27 | 2024-09-06 |
 | [CALL ME ON DRUGS](https://open.spotify.com/track/2yCOKtAURfxaL5WuKoEYO5) | [Andrea Turk](https://open.spotify.com/artist/3ymNbNvWkiHrhoe1ytgppa) | [CALL ME ON DRUGS](https://open.spotify.com/album/2AWtAZMn18hA1XvzBxTfwZ) | 2:36 | 2025-01-30 | 2025-04-25 |
+| [Camel](https://open.spotify.com/track/6JD9Pgo0GPnZIMpREWunb1) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM) | [Camel](https://open.spotify.com/album/5U5FVJ2SjMVDEcQXG4WwfA) | 3:22 | 2026-04-16 |  |
 | [Campfire](https://open.spotify.com/track/6ESZivUp2Tp5uNyuffnMRk) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc) | [Campfire](https://open.spotify.com/album/3TRhJfsSgsvZseDYfrRfVD) | 3:17 | 2025-02-13 | 2025-05-09 |
+| [Can I Tell The World I Love You?](https://open.spotify.com/track/5qOjoHn1nUjx6iyDhLwRft) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Spotless Dove](https://open.spotify.com/album/5MgP6rG2BYp0QXg8tEYDrW) | 3:12 | 2026-04-16 |  |
 | [Can We Be Friends Again?](https://open.spotify.com/track/0c3beEhARvqtTRwKFskjX3) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Can We Be Friends Again?](https://open.spotify.com/album/7ILkOWv9uelFdP2Ncv2BfU) | 3:53 | 2025-07-03 | 2026-02-13 |
 | [Can We Be Friends Again? \- Live Stripped Down](https://open.spotify.com/track/2Gp4IGR1rv2A2NWt1YjKuV) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [forevermore, but it's just me and the piano](https://open.spotify.com/album/3Pg8EGDamSy623Y1c0cPZs) | 4:00 | 2026-03-05 |  |
 | [Can We Turn Back Time?](https://open.spotify.com/track/5VCh25lzZju9d3JaXBCJQh) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Can We Turn Back Time?](https://open.spotify.com/album/6pBdm8jQ3i1KubQpect3db) | 3:15 | 2025-08-29 | 2025-11-07 |
@@ -136,6 +138,7 @@
 | [Daisies](https://open.spotify.com/track/6HXZZMhKZfEPBwvT5COP6g) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Daisies](https://open.spotify.com/album/6Ez5TxGJT6ylmhM7Q2iHUb) | 4:07 | 2025-01-23 | 2025-04-18 |
 | [Dancing On The Edge](https://open.spotify.com/track/0yrYaevAu2jOtjwUX7Pmxx) | [JUNJI](https://open.spotify.com/artist/6mjeFtDhVUlJ7pR2ZoJTET) | [Daydreams](https://open.spotify.com/album/2jjWb7XY4trmaRRP8rtMbK) | 4:05 | 2024-10-10 | 2024-11-29 |
 | [Dear Diary](https://open.spotify.com/track/1Fi14RVbPnkAk2CSFgHskR) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Dear Diary](https://open.spotify.com/album/1ekuciDr4CiXnVOxBpVG5f) | 2:43 | 2025-11-06 | 2026-01-15 |
+| [Death of Me](https://open.spotify.com/track/6iRRIqjMhHQOYdocnA995r) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI), [The Soul & Rollers](https://open.spotify.com/artist/0oOKNUtbLhBGyq7ALH6ZMu) | [Death of Me](https://open.spotify.com/album/5URwlUwJpNla4zc3iqQGdj) | 4:11 | 2026-04-16 |  |
 | [Desire](https://open.spotify.com/track/6jAUDZNyKTbMCLMflUzRXA) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Desire](https://open.spotify.com/album/2d7DX8CHBMjkyjpq502DTJ) | 3:14 | 2025-02-13 |  |
 | [DESTINY](https://open.spotify.com/track/4JyewXavoNDSkLdX1A2cjI) | [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj) | [DESTINY](https://open.spotify.com/album/6hKFay0QfMNYhM6P4TI0SA) | 3:16 | 2025-01-17 | 2025-04-11 |
 | [Devastated](https://open.spotify.com/track/66u9o62E8XjHwYIiXCrqAN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson](https://open.spotify.com/album/2WYZVN2DU9dOpZGKjfIzh9) | 3:51 | 2024-06-27 | 2024-11-16 |
@@ -454,6 +457,7 @@
 | [Reverie](https://open.spotify.com/track/3tEHmpoGjvi6FAcu0YGUNi) | [Aruna Dawn](https://open.spotify.com/artist/0IR68oTOmMzCDoidJ7FICS) | [Reverie](https://open.spotify.com/album/5cMhH6CED8TexREEwEKHQi) | 2:53 | 2024-06-27 | 2024-07-27 |
 | [ride](https://open.spotify.com/track/76DGdLjh2E520hCmUNzxbO) | [Emir Hermono](https://open.spotify.com/artist/4pw0ZfX3PzaBXQu1qL5G0p), [Ibrahim Hady](https://open.spotify.com/artist/7CY2yX0drmINWD5PzBxcZh) | [ride](https://open.spotify.com/album/1bHZhY0wLxuNCL0bL2C76q) | 2:57 | 2024-06-27 | 2024-09-06 |
 | [RODEO](https://open.spotify.com/track/0XHFv970OR2DsFuZ5wphN2) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [RODEO](https://open.spotify.com/album/3rJ5KX09jYLvNEVKAaK1oh) | 2:41 | 2024-06-27 | 2024-10-11 |
+| [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 | 2026-04-16 |  |
 | [Room 17A \(make up ur mind\)](https://open.spotify.com/track/2yXOKrUhgwXqW1hdarSEEt) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Room 17A \(make up ur mind\)](https://open.spotify.com/album/5gx1vLtw8bGVTPC7VIelrN) | 3:45 | 2025-09-18 | 2025-12-06 |
 | [Rose\-Tinted Glasses](https://open.spotify.com/track/4qg4p3MsAUojCC5Qsbjluv) | [Kendis](https://open.spotify.com/artist/5HLrlI5LdULY9s740CsAFZ) | [DISCO](https://open.spotify.com/album/5vvuakA6CVikfUwArrorTd) | 3:30 | 2025-04-17 | 2025-05-30 |
 | [Rosie Got Away!](https://open.spotify.com/track/4FSVu6h0wjrWtmGK1uNKfq) | [Christabelle Marbun](https://open.spotify.com/artist/6A4Sbpi0Ow0FqXLqsVD3RB) | [Rosie Got Away!](https://open.spotify.com/album/0Zr0sfjQdz3EpYUCS5nS0q) | 2:30 | 2025-11-20 |  |

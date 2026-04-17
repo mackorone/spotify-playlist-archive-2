@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,160,339 likes - 305 songs - 13 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,160,742 likes - 305 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -314,4 +314,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 304 | [Andas](https://open.spotify.com/track/6eL4ra9UXGjQeUiscYgDQ7) | [Prodigieux](https://open.spotify.com/artist/6YILY619DfWelHq35w4DRb) | [Andas](https://open.spotify.com/album/4gGM2KxStZemealz68WyLn) | 2:54 |
 | 305 | [Weightless](https://open.spotify.com/track/1cwIFVr8sCNPIBnM0FXr7b) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Weightless](https://open.spotify.com/album/1PEyjldKkafJ0PDnv74554) | 3:15 |
 
-Snapshot ID: `AAAAAH7pWb7/aQ8n6rVGGza9kCzdf6MP`
+Snapshot ID: `AAAAACCH/3TFIrRXWaSzG6iXwYylb4Hg`

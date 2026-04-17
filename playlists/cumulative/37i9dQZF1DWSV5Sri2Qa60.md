@@ -2,9 +2,9 @@
 
 ### [Hot New Bands](https://open.spotify.com/playlist/37i9dQZF1DWSV5Sri2Qa60)
 
-> Where your new favourite bands are discovered\. Cover: Truthpaste
+> Where your new favourite bands are discovered\. Cover: THEATRE
 
-334 songs - 19 hr 30 min
+337 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [I Was Here](https://open.spotify.com/track/0sh49tZQQG9Qsd46dbh2UY) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [I Was Here](https://open.spotify.com/album/27pZBFE96hTJNPctbRQMLm) | 3:38 | 2025-07-17 | 2025-09-06 |
 | [I Was Just A Boy](https://open.spotify.com/track/11cuYyuMk4kkDyv00WepRo) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [It's a Hell of an Age](https://open.spotify.com/album/6oZmZb6MX4lhYPN6v3sD2S) | 7:24 | 2026-01-30 |  |
 | [I'm Losing It](https://open.spotify.com/track/3OKvp0AJfu0BzRP9fIvKGf) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [I'm Losing It](https://open.spotify.com/album/1iO532J1AahkCofCiD4ImL) | 3:06 | 2025-05-15 | 2025-09-06 |
-| [I.D.C.](https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [I.D.C.](https://open.spotify.com/album/2JcaLMni0sJcuU2rEGOd9w) | 3:31 | 2026-01-16 |  |
+| [I.D.C.](https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [I.D.C.](https://open.spotify.com/album/2JcaLMni0sJcuU2rEGOd9w) | 3:31 | 2026-01-16 | 2026-04-17 |
 | [Ice Tea](https://open.spotify.com/track/2WsDpjiSwHsQ5ezjpet8Kt) | [congratulations](https://open.spotify.com/artist/3Zd0jI43rmogm8qVt2QAdq) | [Ice Tea](https://open.spotify.com/album/0kJrHL72kBIvld7dgdr7Xy) | 3:36 | 2024-10-06 | 2025-03-18 |
 | [If We Fall](https://open.spotify.com/track/6iqOb2PgaAZCZJBHEqcJfv) | [Affection to Rent](https://open.spotify.com/artist/63BMR8XkE64hscCBhiAQkf) | [If We Fall](https://open.spotify.com/album/1zgDehDf0iJCOCeppI8qw7) | 4:12 | 2024-10-06 | 2025-02-14 |
 | [In My Bed](https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [In My Bed](https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT) | 2:42 | 2024-09-13 | 2025-01-23 |
@@ -197,7 +197,7 @@
 | [Lightbulb Moment](https://open.spotify.com/track/3eCSG6GiW6ldZ9sCNApLBl) | [Adult Play](https://open.spotify.com/artist/0qAWgmNrJU4yfHMCMnEnOl) | [Deep Recess Dial Up Despair](https://open.spotify.com/album/3WeWOz5wpbGwK9YWqTAaNo) | 3:47 | 2024-06-14 | 2024-09-14 |
 | [Like Best Friends](https://open.spotify.com/track/0g95vn2Szj5apK4CIOcyAZ) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [Like Best Friends / Fine For Now](https://open.spotify.com/album/469c6WV6LEt6AjZv4QqYxG) | 3:09 | 2024-06-14 | 2024-10-07 |
 | [Lil' Horse](https://open.spotify.com/track/6rmGnb6OgWimjTZSlvHY50) | [Kissing on Camera](https://open.spotify.com/artist/06yv1oYDbg9T8Ei42l9YOU) | [Lil' Horse](https://open.spotify.com/album/5YO2PLIdJCAFVaOYcKCHyJ) | 2:14 | 2025-03-12 | 2025-07-18 |
-| [London, Out There](https://open.spotify.com/track/0HJycSl4z0y8n4lHhB7USt) | [The New Cut](https://open.spotify.com/artist/5S5fjngXUQ6ZTBJJL1djIf) | [London, Out There](https://open.spotify.com/album/6QKhhDf9Cp3l0SQZgoMDeH) | 3:24 | 2026-01-30 |  |
+| [London, Out There](https://open.spotify.com/track/0HJycSl4z0y8n4lHhB7USt) | [The New Cut](https://open.spotify.com/artist/5S5fjngXUQ6ZTBJJL1djIf) | [London, Out There](https://open.spotify.com/album/6QKhhDf9Cp3l0SQZgoMDeH) | 3:24 | 2026-01-30 | 2026-04-17 |
 | [Loving Feeling](https://open.spotify.com/track/2LikCq4xT7CO3X3HTeTanh) | [PARTICLS](https://open.spotify.com/artist/2B7GYX6sOts4KNiI6ZLjrK) | [Loving Feeling/ Face To Face](https://open.spotify.com/album/5BaAm9TcA9UYTkdyFXbY4w) | 3:27 | 2025-01-22 | 2025-03-18 |
 | [Lucky](https://open.spotify.com/track/70DK9qoXC1XvgRjeOIHdH1) | [Mên An Tol](https://open.spotify.com/artist/4CFcHsL8xqUWQC4vIZWPOs) | [Lucky](https://open.spotify.com/album/12hBbCObC2UB756DKj6tca) | 3:12 | 2025-09-05 | 2026-03-20 |
 | [MadDog](https://open.spotify.com/track/141fl9M2mCLjtVzEKQuCRc) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [MadDog](https://open.spotify.com/album/2Q6eyFzIAGrfcacgBw3wMC) | 4:02 | 2025-05-15 | 2025-09-06 |
@@ -254,6 +254,7 @@
 | [Rivers Run Red](https://open.spotify.com/track/62UhV1TTMWqAKvoQHt8ClT) | [The New Eves](https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l) | [The New Eve / Rivers Run Red](https://open.spotify.com/album/7gUMLfkzb45lMwN1O5MVSl) | 3:19 | 2025-05-15 | 2025-08-08 |
 | [Rome \(in progress\)](https://open.spotify.com/track/6zbFB1wkb0QQRSbfuuMpag) | [ladylike](https://open.spotify.com/artist/6u8UBNI8HFEPxpaQYBquZ9) | [Rome \(in progress\)](https://open.spotify.com/album/1cJFBpWo5KZ2ZS5DX1PMkf) | 3:59 | 2026-01-16 |  |
 | [rosie](https://open.spotify.com/track/00xit1IKzGivuMXn6FZNUw) | [lots of hands](https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9) | [rosie](https://open.spotify.com/album/3XvF6gVnLNIWPvImkgZb3G) | 3:08 | 2024-07-12 | 2024-08-17 |
+| [Rubik's Cube](https://open.spotify.com/track/1elHrc1DZab6ZSOrH6HjZ9) | [1000 Rabbits](https://open.spotify.com/artist/6KouMFgMa5zEeyXaeg6fvA) | [Rubik’s Cube](https://open.spotify.com/album/3suBlVevdfaTNvvwRlscA1) | 3:44 | 2026-04-16 |  |
 | [Ruminate](https://open.spotify.com/track/6odyiCWTis0oVok60fdogG) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Ruminate](https://open.spotify.com/album/7DGL058t2VrOUa7et3IZdh) | 3:01 | 2025-07-17 | 2025-11-29 |
 | [Run Kid](https://open.spotify.com/track/2MIOg8OV9I7qxpXrCOPtNu) | [Arkayla](https://open.spotify.com/artist/09w9cxzjdgXxzACb0N3C50) | [Run Kid](https://open.spotify.com/album/7FMwvpxiU0ITuiVQSFlyLa) | 2:55 | 2026-03-20 |  |
 | [Saltspreader](https://open.spotify.com/track/2QvJ5GzPTZg2PEiPdPMdMp) | [ashnymph](https://open.spotify.com/artist/1zVKP29Wt1d7hF2yRpZV5o) | [Saltspreader](https://open.spotify.com/album/0Qf68KWWjg6dMdgoXcTsog) | 3:48 | 2025-08-07 | 2026-03-06 |
@@ -298,6 +299,7 @@
 | [That's life](https://open.spotify.com/track/3LfIitMUKhDhGNfnKltA1a) | [multiscreen](https://open.spotify.com/artist/2VqxisWQnAzd1wSq1XDZ9b) | [That's life](https://open.spotify.com/album/4Co8vokKKDeh48yesgG8zE) | 7:24 | 2025-06-20 | 2025-10-04 |
 | [The Age of Innocence](https://open.spotify.com/track/5CpvAXYX4QYrmp8Z4jDaUV) | [Tooth](https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s) | [The Age of Innocence](https://open.spotify.com/album/0RNPeJkIcoPbHfUtY2BS9b) | 2:33 | 2026-01-30 | 2026-03-06 |
 | [The Boss](https://open.spotify.com/track/1CcInJMJvGVozu3AaDKTz6) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [The Boss](https://open.spotify.com/album/1OwrqBMQkhVUmHbG9HONpZ) | 2:58 | 2024-10-06 | 2024-11-09 |
+| [The Fall](https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [The Fall](https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx) | 4:19 | 2026-04-16 |  |
 | [The Lovers](https://open.spotify.com/track/6LqdSUFNR0H2CwWBVHgUut) | [Croíthe](https://open.spotify.com/artist/1rt7AxU5xgNMAxeIzUsjXl) | [The Lovers](https://open.spotify.com/album/7mHWcf7Vve9BxsEmOfP8iq) | 3:09 | 2025-08-07 | 2025-09-06 |
 | [The Lowrider \(Just About Meant To Be\)](https://open.spotify.com/track/4aCRH85lzpMp2ZzQWe5mlu) | [CVC](https://open.spotify.com/artist/4UVp2DRjYXq2ZWQwA5QLuD) | [The Lowrider \(Just About Meant To Be\)](https://open.spotify.com/album/4xW2GmQethztAMp81hkCxx) | 4:07 | 2024-09-13 | 2025-02-14 |
 | [The Man](https://open.spotify.com/track/6yUy4C7Gn0Geg7YEB8qRzj) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [The Man](https://open.spotify.com/album/1PiAdNZtIBipn9FGJ4GjZB) | 3:14 | 2024-08-16 | 2024-09-14 |
@@ -341,6 +343,7 @@
 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 | 2025-03-07 | 2025-04-12 |
 | [You Used To Be So Sexy](https://open.spotify.com/track/39cjW8n16TyVDb7KFCIxcV) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I'm Not Your Punchbag](https://open.spotify.com/album/1npzO7WsfJ3MHwFNic1RCV) | 3:24 | 2025-05-15 | 2025-10-04 |
 | [Your Fantasy](https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Your Fantasy](https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB) | 2:19 | 2025-05-15 | 2025-10-04 |
-| [風｜Kaze](https://open.spotify.com/track/6PpzrR9L9kcto2T7JwZEks) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [風｜Kaze](https://open.spotify.com/album/0dz6iowGbmc2Q0ovSLRke4) | 1:45 | 2026-03-06 |  |
+| [肪 ｜Bo](https://open.spotify.com/track/71J6B49V8UJAhbAB3FZpgB) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [肪 ｜Bo](https://open.spotify.com/album/2en4aIjPUvlolSAAXWStDy) | 3:16 | 2026-04-16 |  |
+| [風｜Kaze](https://open.spotify.com/track/6PpzrR9L9kcto2T7JwZEks) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [風｜Kaze](https://open.spotify.com/album/0dz6iowGbmc2Q0ovSLRke4) | 1:45 | 2026-03-06 | 2026-04-17 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

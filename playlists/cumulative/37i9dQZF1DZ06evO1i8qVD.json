@@ -814,6 +814,28 @@
     {
       "album": {
         "name": "Fresh Out",
+        "url": "https://open.spotify.com/album/4QysjcUB2ja1c9LwTrCobS"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228019,
+      "name": "Fresh Out",
+      "url": "https://open.spotify.com/track/2PydYhMoVs5mm9GeFALE9e"
+    },
+    {
+      "album": {
+        "name": "Fresh Out",
         "url": "https://open.spotify.com/album/0ssT151vDQvOAL1dcf4zZY"
       },
       "artists": [
@@ -828,7 +850,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 228019,
       "name": "Fresh Out",
       "url": "https://open.spotify.com/track/6L5nqMCbzcg9Xq8ZE6PC91"

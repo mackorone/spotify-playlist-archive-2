@@ -1,12 +1,12 @@
 {
   "description": "This is Zona Ganjah. The essential tracks, all in one playlist.",
-  "num_followers": 91176,
+  "num_followers": 91193,
   "original_name": "This Is Zona Ganjah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAABlECOmvRPQJvdg0fVMCRAf",
+  "snapshot_id": "ad7VAAAAAABz0KpHHcGhdWF/Wk0zOtEo",
   "tracks": [
     {
       "added_at": null,
@@ -682,15 +682,11 @@
         {
           "name": "Zona Ganjah",
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        },
-        {
-          "name": "Malaya",
-          "url": "https://open.spotify.com/artist/1xHPjXBPyStKOEKfTIyoxj"
         }
       ],
-      "duration_ms": 180447,
-      "name": "No existen fronteras",
-      "url": "https://open.spotify.com/track/7joTq2CorwMDNeI0DZechn"
+      "duration_ms": 233000,
+      "name": "Laberinto interno",
+      "url": "https://open.spotify.com/track/0e5y2pI0PGFE5XbjFwNyOd"
     },
     {
       "added_at": null,
@@ -750,11 +746,15 @@
         {
           "name": "Zona Ganjah",
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        },
+        {
+          "name": "Malaya",
+          "url": "https://open.spotify.com/artist/1xHPjXBPyStKOEKfTIyoxj"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Laberinto interno",
-      "url": "https://open.spotify.com/track/0e5y2pI0PGFE5XbjFwNyOd"
+      "duration_ms": 180447,
+      "name": "No existen fronteras",
+      "url": "https://open.spotify.com/track/7joTq2CorwMDNeI0DZechn"
     },
     {
       "added_at": null,

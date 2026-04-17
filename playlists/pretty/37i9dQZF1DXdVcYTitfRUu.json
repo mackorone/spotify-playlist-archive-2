@@ -1,12 +1,12 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 15851,
+  "num_followers": 15854,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA0gqOwJKh8OLegiqXLoFJxPgKBf",
+  "snapshot_id": "AAAAAI45LWMANE7GZWg1sNAaQ/sVv4E6",
   "tracks": [
     {
       "added_at": "2026-04-09 05:24:08",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-04-09 05:24:08",
       "album": {
-        "name": "Moving Away",
-        "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
-      },
-      "artists": [
-        {
-          "name": "#Annyeong",
-          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
-        }
-      ],
-      "duration_ms": 264069,
-      "name": "Moving Away",
-      "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
-    },
-    {
-      "added_at": "2026-04-09 05:24:08",
-      "album": {
         "name": "Only you",
         "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2026-04-09 05:24:08",
       "album": {
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
+      },
+      "artists": [
+        {
+          "name": "#Annyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+        }
+      ],
+      "duration_ms": 264069,
+      "name": "Moving Away",
+      "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
+    },
+    {
+      "added_at": "2026-04-09 05:24:08",
+      "album": {
         "name": "Harmony",
         "url": "https://open.spotify.com/album/5pEyhM1dfcAGCcXgxXILUw"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 240000,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/3Za3hxz2Hw4M9f0sFc1FuY"
-    },
-    {
-      "added_at": "2026-04-09 05:24:08",
-      "album": {
-        "name": "I Miss You So Much",
-        "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
-      },
-      "artists": [
-        {
-          "name": "Hwang Karam",
-          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
-        }
-      ],
-      "duration_ms": 216813,
-      "name": "I Miss You So Much",
-      "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
     },
     {
       "added_at": "2026-04-09 05:24:08",
@@ -1299,6 +1283,22 @@
       "duration_ms": 195333,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"
+    },
+    {
+      "added_at": "2026-04-09 05:24:08",
+      "album": {
+        "name": "I Miss You So Much",
+        "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
+      },
+      "artists": [
+        {
+          "name": "Hwang Karam",
+          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
+        }
+      ],
+      "duration_ms": 216813,
+      "name": "I Miss You So Much",
+      "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
     },
     {
       "added_at": "2026-04-09 05:24:08",

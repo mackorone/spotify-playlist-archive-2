@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: JustmineNika
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,374 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,378 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 19 | [ง่ายไป \(Love is Verb\)](https://open.spotify.com/track/3NuFCD3AHydEznL3WBMTfa) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [ง่ายไป \(Love is Verb\)](https://open.spotify.com/album/3V4VMN5AklsUFACWZYK5IL) | 2:59 |
 | 20 | [Sheป้ะ](https://open.spotify.com/track/2BWDtrQ3RwiNDc1tsxkv3r) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [Sheป้ะ](https://open.spotify.com/album/2NdahWtun1Oj0wTAWrdYIX) | 3:53 |
 | 21 | [silly nature](https://open.spotify.com/track/39TQI4MMElmwhA0f07apQ8) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 2:27 |
-| 22 | [Crv](https://open.spotify.com/track/4L2DOfgRpdSF0Qs5WNsaIh) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [Tsunami](https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu) | 3:39 |
-| 23 | [เนิร์ดดี \(Nerdy\)](https://open.spotify.com/track/21NwwpDdex2A27E87VGqRX) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [เนิร์ดดี \(Nerdy\)](https://open.spotify.com/album/3ID5rgCeHEpASNQjQmXmxN) | 2:33 |
+| 22 | [เนิร์ดดี \(Nerdy\)](https://open.spotify.com/track/21NwwpDdex2A27E87VGqRX) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [เนิร์ดดี \(Nerdy\)](https://open.spotify.com/album/3ID5rgCeHEpASNQjQmXmxN) | 2:33 |
+| 23 | [Crv](https://open.spotify.com/track/4L2DOfgRpdSF0Qs5WNsaIh) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [Tsunami](https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu) | 3:39 |
 | 24 | [ABUM](https://open.spotify.com/track/4fua2kyOh4I2wQGjuLtSYc) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [ABUM](https://open.spotify.com/album/2rPwuobO3nwliWwrw3IK8F) | 3:32 |
 | 25 | [HOW ARE YOU](https://open.spotify.com/track/42PY0meRTLVpVn3Qv9iJKZ) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [HOW ARE YOU](https://open.spotify.com/album/1pmvKyNoyuvK4mwblZHiiw) | 3:26 |
 | 26 | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/track/4dgvGtPwlchPHgLQ7el2P9) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/album/4gf7kuptrv0VvYa6qNyyD5) | 3:26 |

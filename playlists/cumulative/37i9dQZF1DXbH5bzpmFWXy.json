@@ -6621,6 +6621,28 @@
     },
     {
       "album": {
+        "name": "La Bandera (Remix)",
+        "url": "https://open.spotify.com/album/5oGcK4Yz4zpnFkAUKXbjfE"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160664,
+      "name": "La Bandera (Remix)",
+      "url": "https://open.spotify.com/track/17eoa5LPrYT2Y7tAi4Y8yL"
+    },
+    {
+      "album": {
         "name": "La Barda",
         "url": "https://open.spotify.com/album/1nJyjfqugNuIxK5e1b4svo"
       },

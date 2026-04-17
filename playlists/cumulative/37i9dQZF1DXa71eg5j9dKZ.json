@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: SHY FX",
+  "description": "The home for alternative electronic music. Cover: Honey Dijon",
   "name": "Altar",
   "tracks": [
     {
@@ -252,7 +252,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 226146,
       "name": "28 Eyes",
       "url": "https://open.spotify.com/track/6ZiLYTqYr7oT22hrwGzOVM"
@@ -886,6 +886,32 @@
       "duration_ms": 184500,
       "name": "All Dancing Under The Same Sky",
       "url": "https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2"
+    },
+    {
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/2WXlWfRLX0awg4LE3PV2KX"
+      },
+      "artists": [
+        {
+          "name": "NIGHT manoeuvres",
+          "url": "https://open.spotify.com/artist/2CanvvhMZkqCFDFEOvcdNE"
+        },
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+        },
+        {
+          "name": "ABSOLUTE.",
+          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207954,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/3uyH0XgTF60yYaF4f4CRAA"
     },
     {
       "album": {
@@ -3664,6 +3690,28 @@
       "duration_ms": 246453,
       "name": "burning (feat. just lil)",
       "url": "https://open.spotify.com/track/2DFA2QYJrgbUVMNgiavKEl"
+    },
+    {
+      "album": {
+        "name": "Burning From",
+        "url": "https://open.spotify.com/album/2v5pQzH6dLCNHT5F8b9y2Q"
+      },
+      "artists": [
+        {
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
+        },
+        {
+          "name": "Goya Gumbani",
+          "url": "https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243596,
+      "name": "Burning From",
+      "url": "https://open.spotify.com/track/130iK6dyCb0FnaltUElePv"
     },
     {
       "album": {
@@ -7961,6 +8009,24 @@
     },
     {
       "album": {
+        "name": "Everything U",
+        "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210294,
+      "name": "Everything U",
+      "url": "https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY"
+    },
+    {
+      "album": {
         "name": "100 dollar bill",
         "url": "https://open.spotify.com/album/1qynLst7OhBvksTgLTJZiw"
       },
@@ -10746,7 +10812,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 214125,
       "name": "HARD",
       "url": "https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX"
@@ -12475,6 +12541,24 @@
     },
     {
       "album": {
+        "name": "If You",
+        "url": "https://open.spotify.com/album/2KvJjcipHCM9DsjwEJXblM"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200348,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/2PvVkI3P9Z2on1G1vNn2uB"
+    },
+    {
+      "album": {
         "name": "if you wanna party, come over to my house",
         "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
       },
@@ -12728,6 +12812,24 @@
       "duration_ms": 255426,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/1UcSwc91w0QBondREndseA"
+    },
+    {
+      "album": {
+        "name": "In The Mood For Love",
+        "url": "https://open.spotify.com/album/0U1p8qw2feI668xBBr3qcc"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353060,
+      "name": "In The Mood For Love",
+      "url": "https://open.spotify.com/track/1SJUDmxkiTQgLg1JgBOc75"
     },
     {
       "album": {
@@ -14187,6 +14289,28 @@
     },
     {
       "album": {
+        "name": "LA PRIMA",
+        "url": "https://open.spotify.com/album/4KkwhTIRsuOMmA7OLd4mns"
+      },
+      "artists": [
+        {
+          "name": "KINGH",
+          "url": "https://open.spotify.com/artist/6vSxQatNRZCtcEuTPE0pBo"
+        },
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164651,
+      "name": "LA PRIMA",
+      "url": "https://open.spotify.com/track/1cgPykzXPyjjtIUpiT6Otp"
+    },
+    {
+      "album": {
         "name": "Kalam Hub EP",
         "url": "https://open.spotify.com/album/1WObGTDQtqAYYSC2knf3jM"
       },
@@ -15330,7 +15454,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 239973,
       "name": "Love Who You Love",
       "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
@@ -21251,6 +21375,28 @@
     },
     {
       "album": {
+        "name": "The Nightlife",
+        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244708,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
+    },
+    {
+      "album": {
         "name": "Universal Consciousness EP",
         "url": "https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ"
       },
@@ -23568,7 +23714,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 154100,
       "name": "Subliminals",
       "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
@@ -24038,7 +24184,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 193846,
       "name": "Talk of the Town",
       "url": "https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF"
@@ -26358,7 +26504,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 240492,
       "name": "U DO",
       "url": "https://open.spotify.com/track/6LTPzG9ONMja1bvY2yDYZt"
@@ -27248,7 +27394,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 234140,
       "name": "Waiting So Long",
       "url": "https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8"

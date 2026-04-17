@@ -812,7 +812,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 206385,
       "name": "Back Of My Hand",
       "url": "https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB"
@@ -3401,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "Garden (Bang Goes the Drum)",
+        "url": "https://open.spotify.com/album/0F3GbkflTypBRivJQAtNNL"
+      },
+      "artists": [
+        {
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Garden (Bang Goes the Drum)",
+      "url": "https://open.spotify.com/track/3XBIRvFmD3Az0karsCXVr3"
+    },
+    {
+      "album": {
         "name": "GEEKD",
         "url": "https://open.spotify.com/album/3bwIFbfnfDlsek3SlfFNcd"
       },
@@ -4433,6 +4451,24 @@
     },
     {
       "album": {
+        "name": "I CONDEMN",
+        "url": "https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142597,
+      "name": "I CONDEMN",
+      "url": "https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT"
+    },
+    {
+      "album": {
         "name": "i couldn't hold back",
         "url": "https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa"
       },
@@ -4636,6 +4672,28 @@
       "duration_ms": 218784,
       "name": "i want the light to swallow me whole",
       "url": "https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj"
+    },
+    {
+      "album": {
+        "name": "EIGHT",
+        "url": "https://open.spotify.com/album/0RPquFmrpgt3KYLpQt1bYt"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        },
+        {
+          "name": "IsGwan",
+          "url": "https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263887,
+      "name": "I Want Ya",
+      "url": "https://open.spotify.com/track/46YPT8AJc1OTx8RxD0jJyQ"
     },
     {
       "album": {
@@ -5865,6 +5923,24 @@
     },
     {
       "album": {
+        "name": "Tragic Magic",
+        "url": "https://open.spotify.com/album/7oLX84jA6AHnCyELknktHA"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271087,
+      "name": "Maker",
+      "url": "https://open.spotify.com/track/2OX9uITulRbPtILYQ2totl"
+    },
+    {
+      "album": {
         "name": "Mantis/Sugar Plum",
         "url": "https://open.spotify.com/album/0GGa1FKiyveo2FPZnvDkKh"
       },
@@ -6126,7 +6202,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 170526,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx"
@@ -8388,7 +8464,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 202744,
       "name": "Setting Fires",
       "url": "https://open.spotify.com/track/6DR3L7CKoLAivNdK9fhR6w"
@@ -10498,7 +10574,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 164117,
       "name": "Two Feet & A Heartbeat",
       "url": "https://open.spotify.com/track/6usSjDLorJNv7yzSOKz94p"

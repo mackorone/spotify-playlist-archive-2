@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Thưởng thức và tôn vinh các nghệ sĩ nữ Việt Nam\. Ảnh bìa: Châu Bùi
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,001 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,004 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Thương](https://open.spotify.com/track/64R6c49ljNaTEl7sGZxQ00) | [Bích Phương](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [Thương](https://open.spotify.com/album/0uzJPbCh0luZoWx0WXSkW9) | 3:10 |
 | 50 | [Chỉ mình anh đi xa](https://open.spotify.com/track/0dhrbrTYAwP2NfUc6jbmzO) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [Sweet Home](https://open.spotify.com/album/6Zze02jnvnBlr4LHEFMW4Q) | 4:52 |
 
-Snapshot ID: `AAAAAAfOz2ToBaGc0oqtEB33SCfsnCjB`
+Snapshot ID: `AAAAAEQIPYjhfayyGGxMAzbgnF4eBvP0`

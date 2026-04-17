@@ -2,7 +2,7 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk & kompa du moment\. Photo : Sensey'
+> Les hits zouk & kompa du moment\. Photo : Naïka
 
 393 songs - 20 hr 38 min
 

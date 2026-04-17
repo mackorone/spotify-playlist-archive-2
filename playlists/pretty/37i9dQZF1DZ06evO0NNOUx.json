@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 192558,
+  "num_followers": 192623,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAADwiYRqbezbV1qWJddXKwan",
+  "snapshot_id": "ad7VAAAAAAD6XpHh8UdlFL6YC2QGlYDw",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
+        "name": "LOW KEY",
+        "url": "https://open.spotify.com/album/3LB9SqNsc9eLsGtnJOAOF8"
       },
       "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 214850,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
+      "duration_ms": 150485,
+      "name": "LOW KEY",
+      "url": "https://open.spotify.com/track/1PPEVabQ8ggfXBGFpodjM6"
     },
     {
       "added_at": null,
@@ -495,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOW KEY",
-        "url": "https://open.spotify.com/album/3LB9SqNsc9eLsGtnJOAOF8"
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
       },
       "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 150485,
-      "name": "LOW KEY",
-      "url": "https://open.spotify.com/track/1PPEVabQ8ggfXBGFpodjM6"
+      "duration_ms": 214850,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
     },
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DAWN PATROL",
+        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
+      },
+      "artists": [
+        {
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 185268,
+      "name": "YAHWEH",
+      "url": "https://open.spotify.com/track/1OVbFAwbXXPKKMlLq8tKbW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New Hymns",
         "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },
@@ -708,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 185268,
-      "name": "YAHWEH",
-      "url": "https://open.spotify.com/track/1OVbFAwbXXPKKMlLq8tKbW"
+      "duration_ms": 125952,
+      "name": "SOULSHINE",
+      "url": "https://open.spotify.com/track/0fvskLBakfqcslW0RkB5JT"
     },
     {
       "added_at": null,
@@ -784,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 125952,
-      "name": "SOULSHINE",
-      "url": "https://open.spotify.com/track/0fvskLBakfqcslW0RkB5JT"
+      "duration_ms": 38998,
+      "name": "WEATHER REPORT",
+      "url": "https://open.spotify.com/track/5GHe5K2Ohj64QFc5ImY4SD"
     },
     {
       "added_at": null,
@@ -860,9 +880,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 38998,
-      "name": "WEATHER REPORT",
-      "url": "https://open.spotify.com/track/5GHe5K2Ohj64QFc5ImY4SD"
+      "duration_ms": 192027,
+      "name": "JUNE GLOOM",
+      "url": "https://open.spotify.com/track/6gIgB4sGliVmisT36yiST7"
     },
     {
       "added_at": null,
@@ -895,22 +915,6 @@
       "duration_ms": 202602,
       "name": "SELAH",
       "url": "https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 181374,
-      "name": "ALIVE",
-      "url": "https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd"
     }
   ],
   "unique_name": "This Is Forrest Frank",

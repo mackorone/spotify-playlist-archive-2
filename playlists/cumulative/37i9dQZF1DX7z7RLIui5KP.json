@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Muthoni Drummer Queen & Blinky Bill",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Khaligraph Jones ",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 212713,
       "name": "Bazu",
       "url": "https://open.spotify.com/track/2Sowk0iXxacHuxBejdL9d8"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 119898,
       "name": "Brayo",
       "url": "https://open.spotify.com/track/7avyAPtxZStI48t4TSArol"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 185346,
       "name": "Farova Forever",
       "url": "https://open.spotify.com/track/3GJFGFpL1A0WD6RUUPc2Co"
@@ -1046,6 +1046,24 @@
       "duration_ms": 162176,
       "name": "Hadi Kesho",
       "url": "https://open.spotify.com/track/4Kgv6S8WbiM4sAIVU5Fw12"
+    },
+    {
+      "album": {
+        "name": "Hainaga Mambo",
+        "url": "https://open.spotify.com/album/1dvGUPvN4elqBbs2LAJSlr"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153234,
+      "name": "Hainaga Mambo",
+      "url": "https://open.spotify.com/track/22GqqA7GmzbSWMSrax8IDn"
     },
     {
       "album": {
@@ -1822,7 +1840,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 162220,
       "name": "MAYOO",
       "url": "https://open.spotify.com/track/0UGIdREkw9Xn2ZoO5V2YAs"
@@ -2268,7 +2286,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 201290,
       "name": "Not Letting Go",
       "url": "https://open.spotify.com/track/28kmfPLAoD1ZBqubXquElg"
@@ -2769,6 +2787,28 @@
     },
     {
       "album": {
+        "name": "Shots",
+        "url": "https://open.spotify.com/album/1tVrJnTIwaRl91TAJjFztO"
+      },
+      "artists": [
+        {
+          "name": "Lafayette.da1",
+          "url": "https://open.spotify.com/artist/57H4nHhR07vH4c27c1Zvzy"
+        },
+        {
+          "name": "Dyana Cods",
+          "url": "https://open.spotify.com/artist/1TMFrPAmqxTK5rVS8ujqMR"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169320,
+      "name": "Shots",
+      "url": "https://open.spotify.com/track/0ITJ31MlkIIud7veHr6OTR"
+    },
+    {
+      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/5MSWmlh2HPKxWv7B77dylp"
       },
@@ -2831,6 +2871,28 @@
     },
     {
       "album": {
+        "name": "Mtoto wa Khadija",
+        "url": "https://open.spotify.com/album/2K7N2vaEzwGlz8TX91cFfn"
+      },
+      "artists": [
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        },
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136363,
+      "name": "Siaka",
+      "url": "https://open.spotify.com/track/0aJb7gWWz2HbI0GB3kq6vP"
+    },
+    {
+      "album": {
         "name": "Sianda",
         "url": "https://open.spotify.com/album/6l5PRDG1ZSuNHFs36twLbY"
       },
@@ -2842,7 +2904,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 189913,
       "name": "Sianda",
       "url": "https://open.spotify.com/track/6oWyXVtVgd7UxA4GnUppTR"
@@ -3072,7 +3134,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 232577,
       "name": "TIKI TAKO",
       "url": "https://open.spotify.com/track/2gJRqeN8Q9Yg5jpx6WKm7h"
@@ -3174,7 +3236,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 220387,
       "name": "Tumia Pesa",
       "url": "https://open.spotify.com/track/57Kt03TEDsK2nJFpaHwiPk"

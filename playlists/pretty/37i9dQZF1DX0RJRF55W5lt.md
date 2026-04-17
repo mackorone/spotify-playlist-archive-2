@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Sunship
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,069 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,238 likes - 75 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 72 | [The Rub](https://open.spotify.com/track/4vZManO1cgneOP8PV0bbZu) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 5:04 |
 | 73 | [The Heartless Theme AKA Superglue Riddim](https://open.spotify.com/track/0SlmWUiAHCOOUws7KieJBH) | [Heartless Crew](https://open.spotify.com/artist/4TFwgJ0aP8Jr6rz9ZaIjkV) | [Pure Grime \- The Very Best of Grime](https://open.spotify.com/album/4KoltQiyOJAt1ToaeyKkYj) | 5:57 |
 | 74 | [My Desire \- Dreem Team Remix](https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3) | [AMIRA](https://open.spotify.com/artist/32GCwVMzzFTuaFhQGXgdxD) | [My Desire \(Remixes\)](https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug) | 5:44 |
-| 75 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |
+| 75 | [All I Do \(Bump & Flex Club Mix\)](https://open.spotify.com/track/6d5kAMXULpIYwfM5MgpiiM) | [Cleptomaniacs](https://open.spotify.com/artist/5vsTFEVitPhOSaJy0aQN6L) | [All I do](https://open.spotify.com/album/7fR9oZPJHUDHoIxD1SxdOw) | 6:08 |
 
 Snapshot ID: `AAAAAG5D8yptH9QhG3oT3//C/rb7sITz`

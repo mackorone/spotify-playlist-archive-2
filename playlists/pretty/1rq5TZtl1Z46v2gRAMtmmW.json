@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31825,
+  "num_followers": 31823,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAARaC66HhN+tf/yt9c9IwQtsewAaIE9",
+  "snapshot_id": "AAARayzpQ03iESR8felUzZWVU3vId2QE",
   "tracks": [
     {
       "added_at": "2026-04-03 20:05:06",
@@ -171,6 +171,54 @@
       "duration_ms": 180303,
       "name": "Nothing Left",
       "url": "https://open.spotify.com/track/7GQNTnBqlAPa3lQMWeIvUa"
+    },
+    {
+      "added_at": "2026-04-16 13:59:16",
+      "album": {
+        "name": "I Want Your Love",
+        "url": "https://open.spotify.com/album/21HJ7l1A9ucgEzfupxpFA6"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Kaesu",
+          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
+        },
+        {
+          "name": "TABLE",
+          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
+        },
+        {
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
+        }
+      ],
+      "duration_ms": 153050,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/14i1XgUcPXmB74ezzk5172"
+    },
+    {
+      "added_at": "2026-04-16 13:59:35",
+      "album": {
+        "name": "Weaver",
+        "url": "https://open.spotify.com/album/067ufogz1TAr7npEfLq2mz"
+      },
+      "artists": [
+        {
+          "name": "Nohr",
+          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
+        },
+        {
+          "name": "Afnan Prince",
+          "url": "https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ"
+        }
+      ],
+      "duration_ms": 192625,
+      "name": "Weaver",
+      "url": "https://open.spotify.com/track/5CMlbzwepoJp88Uvqp1WTF"
     },
     {
       "added_at": "2026-03-27 10:32:34",

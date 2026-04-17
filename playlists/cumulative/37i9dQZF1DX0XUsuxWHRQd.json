@@ -43715,6 +43715,24 @@
     },
     {
       "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/3A29Ss77LjRZ3sKuauWieY"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223120,
+      "name": "Show Me What You Got",
+      "url": "https://open.spotify.com/track/1SlPhbS52PbNqqVCqGU12I"
+    },
+    {
+      "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
       },

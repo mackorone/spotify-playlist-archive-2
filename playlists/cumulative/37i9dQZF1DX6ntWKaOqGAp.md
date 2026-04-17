@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: muque
 
-3,160 songs - 8 day 5 hr 13 min
+3,161 songs - 8 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:00 | 2023-04-04 | 2023-05-17 |
 | [Ai no Nuime](https://open.spotify.com/track/2VrLKMGOl1xiqMePpmBe3V) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Ai no Nuime](https://open.spotify.com/album/4TpFPHYF6Qpz8Mq5zPLtHT) | 3:59 | 2023-01-13 | 2023-01-25 |
 | [Ai wa Kitto Lonely](https://open.spotify.com/track/4uwXkSlTtdLsXfUpEnQRF9) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Ai wa Kitto Lonely](https://open.spotify.com/album/5Bvj0ZNTDtHaDQuOWtdQHd) | 3:58 | 2025-10-21 | 2025-11-19 |
+| [AI WO KOMETE](https://open.spotify.com/track/0s91mDDFGn1txjurZr7n4e) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [AI WO KOMETE](https://open.spotify.com/album/7tSKSGsE6jcpYqDXUtqX1R) | 3:07 | 2026-04-17 |  |
 | [Aiai](https://open.spotify.com/track/2fk7HoBZPtoeqIl54CLTR7) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madaramoyo](https://open.spotify.com/album/2SQQoQMMoeB2TnIQ8Wbc19) | 3:47 | 2024-01-18 | 2024-04-19 |
 | [Ainokansoki](https://open.spotify.com/track/2cg3kcWIvavYN4YajDvvco) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Ainokansoki](https://open.spotify.com/album/5T0FVtQa6uPc1DNF5Aj8lq) | 3:54 | 2023-08-29 | 2023-09-27 |
 | [Aisubekihibiyo](https://open.spotify.com/track/4t0uFxqYrjXjJneeTByjFj) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Donnakotonidemoshiawasewokanjirukotogadekitanara](https://open.spotify.com/album/6UO3ol61HQD56nV50GxLJl) | 4:38 | 2023-09-26 | 2023-12-13 |
@@ -319,7 +320,7 @@
 | [daiseikai](https://open.spotify.com/track/1dVE8jZlBroPUcnFTEc3hS) | [Dramatic Alaska](https://open.spotify.com/artist/3bWD87dw5iBrQPXFThIRDf) | [daiseikai](https://open.spotify.com/album/0f3ELzQ1EoU4ak2Kg4EIZT) | 3:09 | 2023-10-17 | 2023-11-22 |
 | [Dakishimetai](https://open.spotify.com/track/3DJoyANhZxtYMesCp68oPY) | [Taifu Club](https://open.spotify.com/artist/3JEESS9y1OL3Rww1I8sHxL) | [Dakishimetai](https://open.spotify.com/album/5ZsMH9DFJhuOsN7MPzSAtM) | 3:57 | 2025-12-23 | 2026-01-15 |
 | [DALMATIAN](https://open.spotify.com/track/7qDHY3ZDeKvgPMVZX1whLK) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DALMATIAN](https://open.spotify.com/album/736N8pHiehLrYOfJMSshMZ) | 4:05 | 2024-12-24 | 2026-01-30 |
-| [dance now!](https://open.spotify.com/track/0RDXqfmkzxoiQ53JHrFNYz) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [dance now!](https://open.spotify.com/album/6mO4D69qVPbluFWDXCh0ya) | 2:44 | 2026-03-24 |  |
+| [dance now!](https://open.spotify.com/track/0RDXqfmkzxoiQ53JHrFNYz) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [dance now!](https://open.spotify.com/album/6mO4D69qVPbluFWDXCh0ya) | 2:44 | 2026-03-24 | 2026-04-17 |
 | [danceasphalt](https://open.spotify.com/track/15QwPOnO8ZJa8F08bQycIo) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [danceasphalt](https://open.spotify.com/album/64Ce2StULSUtZGXDWyMrH1) | 3:37 | 2025-06-11 | 2025-07-02 |
 | [Dancer in the Dark](https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Dancer in the Dark](https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh) | 2:55 | 2023-06-15 | 2023-07-12 |
 | [DANCE扁桃体](https://open.spotify.com/track/2pVnjeeJu6GrByXApWvTLN) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [最後の初恋](https://open.spotify.com/album/0dEoSEaWD6MmHSlrzcXtij) | 3:01 | 2024-06-11 | 2024-07-10 |

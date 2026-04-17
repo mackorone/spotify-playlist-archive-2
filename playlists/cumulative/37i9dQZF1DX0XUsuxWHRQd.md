@@ -4,7 +4,7 @@
 
 > New music from Yeat, DJ Khaled and Don Toliver.
 
-2,729 songs - 5 day 21 hr 37 min
+2,730 songs - 5 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2083,6 +2083,7 @@
 | [Shottas \(Lala\)](https://open.spotify.com/track/2Ox2c1WEJDeQCHTXPE3YKM) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:02 | 2021-04-24 | 2021-05-29 |
 | [Shoulder Lean \(feat\. T.I.\)](https://open.spotify.com/track/2OqYarizUUGzSSNHPrDEii) | [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Best Thang Smokin' \(Explicit Version\)](https://open.spotify.com/album/4UZzO6rBo6wjM2zfuRgd3r) | 4:18 | 2025-08-07 | 2025-08-10 |
 | [Show Me Up](https://open.spotify.com/track/3BGppswSnFNGUSFiJ6rj4n) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Show Me Up](https://open.spotify.com/album/5xe3MDpbfGY6ELBF4zU29w) | 2:46 | 2021-04-10 | 2021-04-24 |
+| [Show Me What You Got](https://open.spotify.com/track/1SlPhbS52PbNqqVCqGU12I) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Kingdom Come](https://open.spotify.com/album/3A29Ss77LjRZ3sKuauWieY) | 3:43 | 2026-04-16 |  |
 | [Show of Hands](https://open.spotify.com/track/0cGn4vxyoBftN61XUv2aQk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:33 | 2024-04-13 | 2024-04-19 |
 | [Show Out \(with Skepta & Pop Smoke\)](https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:54 | 2020-12-11 | 2021-03-19 |
 | [Shrimp & Grits \(feat\. Young Nudy\)](https://open.spotify.com/track/04yFP7f0TBeeIKs34TXvAP) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:44 | 2024-08-09 | 2024-08-24 |

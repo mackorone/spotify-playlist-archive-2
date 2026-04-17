@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Anna Calvi",
-  "num_followers": 93723,
+  "num_followers": 93720,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "Equus Caballus",
         "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
       },
@@ -227,22 +211,6 @@
       "duration_ms": 207500,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
-        "name": "The Banjo Song",
-        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "The Banjo Song",
-      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -267,6 +235,22 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
+        "name": "The Banjo Song",
+        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "The Banjo Song",
+      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
         "name": "Everybody Scream",
         "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 244500,
       "name": "Everybody Scream",
       "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
+        "name": "Guitar",
+        "url": "https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Rock And Roll",
+      "url": "https://open.spotify.com/track/58yz3lbCHxj18jsbwkQEyz"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
         "name": "Flags",
         "url": "https://open.spotify.com/album/4tocgMB81kYzmX1J79SiiH"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 306537,
       "name": "Flags",
       "url": "https://open.spotify.com/track/0GkUyGCLewjgand5EEfCOO"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
-        "name": "Guitar",
-        "url": "https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Rock And Roll",
-      "url": "https://open.spotify.com/track/58yz3lbCHxj18jsbwkQEyz"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Cold Heart",
-        "url": "https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 225726,
-      "name": "Cold Heart",
-      "url": "https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "Taxes",
         "url": "https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 197661,
       "name": "Taxes",
       "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 225726,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Trailers after dark",
-        "url": "https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4"
-      },
-      "artists": [
-        {
-          "name": "Finn Wolfhard",
-          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
-        }
-      ],
-      "duration_ms": 198168,
-      "name": "Trailers after dark",
-      "url": "https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 131906,
       "name": "Home",
       "url": "https://open.spotify.com/track/6e1LCVpjkOXQ65iZ7RRRyC"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "Trailers after dark",
+        "url": "https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4"
+      },
+      "artists": [
+        {
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+        }
+      ],
+      "duration_ms": 198168,
+      "name": "Trailers after dark",
+      "url": "https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "The Scythe",
-        "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "The Scythe",
-      "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "Forever Howlong",
         "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 257547,
       "name": "Goodbye (Don\u2019t Tell Me)",
       "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "The Scythe",
+        "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "The Scythe",
+      "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
+        "name": "Shells",
+        "url": "https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Shells",
+      "url": "https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
         "name": "Always The Same (feat. St. Vincent)",
         "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Shells",
-        "url": "https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Shells",
-      "url": "https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "Antidepressants",
         "url": "https://open.spotify.com/album/6N0IlrIaCkdqM4V6u3BYxk"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Pale Song / Love Is",
-        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 188271,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "Get Sunk",
         "url": "https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 235106,
       "name": "No Love",
       "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 188271,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "drains",
-        "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 228999,
-      "name": "drains",
-      "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "In Limerence",
         "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 159066,
       "name": "Of Amber",
       "url": "https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "drains",
+        "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 228999,
+      "name": "drains",
+      "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "NATIONAL AVERAGE.",
-        "url": "https://open.spotify.com/album/2wHHIEXgiVxTRS2EjFzMmo"
-      },
-      "artists": [
-        {
-          "name": "BIG SPECIAL",
-          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
-        }
-      ],
-      "duration_ms": 189842,
-      "name": "GOD SAVE THE PONY.",
-      "url": "https://open.spotify.com/track/3QrvKxTmQWIpI9cGE3HakK"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "Let All That We Imagine Be The Light",
         "url": "https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 273598,
       "name": "Hold",
       "url": "https://open.spotify.com/track/7y9jNvL0e0jTu0yr4OJ7Yd"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "NATIONAL AVERAGE.",
+        "url": "https://open.spotify.com/album/2wHHIEXgiVxTRS2EjFzMmo"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "duration_ms": 189842,
+      "name": "GOD SAVE THE PONY.",
+      "url": "https://open.spotify.com/track/3QrvKxTmQWIpI9cGE3HakK"
     },
     {
       "added_at": "2026-02-20 10:02:12",

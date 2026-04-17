@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Iceage",
+  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Terra",
   "name": "Indie Highlights",
   "tracks": [
     {
@@ -432,6 +432,24 @@
       "duration_ms": 162133,
       "name": "Above Love",
       "url": "https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4"
+    },
+    {
+      "album": {
+        "name": "Please Like Me",
+        "url": "https://open.spotify.com/album/0uB17I8AT9aGuQwO8X0aaC"
+      },
+      "artists": [
+        {
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209206,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/2uGBnu8TR4Lx8oxRCgYPd7"
     },
     {
       "album": {
@@ -942,6 +960,24 @@
       "duration_ms": 228960,
       "name": "Amiss",
       "url": "https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ"
+    },
+    {
+      "album": {
+        "name": "WISH I DID",
+        "url": "https://open.spotify.com/album/0kCZCavxhsAEg5ohTxPdAy"
+      },
+      "artists": [
+        {
+          "name": "TANTAN",
+          "url": "https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "amsterdam",
+      "url": "https://open.spotify.com/track/5S5nlOQiL447fccRofXW8H"
     },
     {
       "album": {
@@ -2734,6 +2770,24 @@
       "duration_ms": 192416,
       "name": "Break the Ice",
       "url": "https://open.spotify.com/track/0Hd36xyIMV9dQCneVpuzU5"
+    },
+    {
+      "album": {
+        "name": "Breaking Point",
+        "url": "https://open.spotify.com/album/12GfWaAGM3hXcWjdyuF6bK"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157149,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/5v7Wn3282jUbkqT8dhkCwn"
     },
     {
       "album": {
@@ -5349,6 +5403,24 @@
     },
     {
       "album": {
+        "name": "Eleanor's Escape",
+        "url": "https://open.spotify.com/album/639kU4PVltUCtPQOL7rNUL"
+      },
+      "artists": [
+        {
+          "name": "100%WET",
+          "url": "https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256266,
+      "name": "Eleanor's Escape",
+      "url": "https://open.spotify.com/track/21LcmaUSmbrzdxqHUEhi8B"
+    },
+    {
+      "album": {
         "name": "Electric Green Lambo",
         "url": "https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM"
       },
@@ -6263,6 +6335,24 @@
     },
     {
       "album": {
+        "name": "Florence",
+        "url": "https://open.spotify.com/album/0GAuzNrkQcaZyNezFjNDSB"
+      },
+      "artists": [
+        {
+          "name": "Ea Othilde",
+          "url": "https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271866,
+      "name": "Florence",
+      "url": "https://open.spotify.com/track/4vNf1qqBHno9dM6PcgVBHj"
+    },
+    {
+      "album": {
         "name": "Flowers at a Funeral",
         "url": "https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg"
       },
@@ -6460,6 +6550,24 @@
       "duration_ms": 133613,
       "name": "forever, for a while",
       "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
+    },
+    {
+      "album": {
+        "name": "Forget-Me-Not",
+        "url": "https://open.spotify.com/album/72JQDBDnY86CMmKswHQDhs"
+      },
+      "artists": [
+        {
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138733,
+      "name": "Forget-Me-Not",
+      "url": "https://open.spotify.com/track/5Mtm5gUQBKse03h1S6bKam"
     },
     {
       "album": {
@@ -11976,6 +12084,24 @@
       "duration_ms": 292408,
       "name": "luminary rainbows",
       "url": "https://open.spotify.com/track/3ekQzz3KHdp043leCnwRdX"
+    },
+    {
+      "album": {
+        "name": "Lust // Tiger\u00f6ga",
+        "url": "https://open.spotify.com/album/2Q1C8ASSUHdI7si0nSFy1w"
+      },
+      "artists": [
+        {
+          "name": "Terra ",
+          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237653,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/52Gd1OK0WZS13KZgPleUiD"
     },
     {
       "album": {
@@ -19007,6 +19133,24 @@
     },
     {
       "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx"
+      },
+      "artists": [
+        {
+          "name": "THEATRE",
+          "url": "https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259053,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT"
+    },
+    {
+      "album": {
         "name": "The Feast",
         "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
       },
@@ -20188,6 +20332,28 @@
       "duration_ms": 239748,
       "name": "Took the Train 'til the End",
       "url": "https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL"
+    },
+    {
+      "album": {
+        "name": "Track and Field",
+        "url": "https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA"
+      },
+      "artists": [
+        {
+          "name": "JJerome87",
+          "url": "https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio"
+        },
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195448,
+      "name": "Track and Field",
+      "url": "https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE"
     },
     {
       "album": {

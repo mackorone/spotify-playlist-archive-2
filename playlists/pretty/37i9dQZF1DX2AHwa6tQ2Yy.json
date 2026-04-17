@@ -1,12 +1,12 @@
 {
   "description": "Try a little tenderness. Cover: 54 Ultra",
-  "num_followers": 54684,
+  "num_followers": 54699,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAId7YOhQnCzSXpT7JAS4y22fiDsS",
+  "snapshot_id": "AAAAAGE1U7aSoz5P5FFW2sMDazDqOHmb",
   "tracks": [
     {
       "added_at": "2026-01-23 01:47:43",
@@ -93,20 +93,36 @@
       "url": "https://open.spotify.com/track/6D3XgKK1nqJykoZ5UDcPVp"
     },
     {
-      "added_at": "2026-01-23 01:47:43",
+      "added_at": "2026-04-16 14:00:34",
       "album": {
-        "name": "Give Me All Your Love",
-        "url": "https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6"
+        "name": "Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5R9YEihXqBgCJQyxr2Edpl"
       },
       "artists": [
         {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
         }
       ],
-      "duration_ms": 200414,
-      "name": "Give Me All Your Love",
-      "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
+      "duration_ms": 226058,
+      "name": "Shadow Of Your Smile",
+      "url": "https://open.spotify.com/track/35KDCFm9Oil4kEXjNR2sfq"
+    },
+    {
+      "added_at": "2026-04-16 14:00:34",
+      "album": {
+        "name": "Il Basso",
+        "url": "https://open.spotify.com/album/20hBBhewVZ1DsH5TOTDJGi"
+      },
+      "artists": [
+        {
+          "name": "Donny Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
+        }
+      ],
+      "duration_ms": 344116,
+      "name": "Bernard's Boogie",
+      "url": "https://open.spotify.com/track/3Itrvnb2MoahGrowaJG9fW"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -163,34 +179,18 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "SOULSTAR",
-        "url": "https://open.spotify.com/album/3oSHew9KClPrhpUNfqUcfs"
+        "name": "Love in the Wind",
+        "url": "https://open.spotify.com/album/5wDxHx4iZf2hXHMfANu6DG"
       },
       "artists": [
         {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+          "name": "The Sha La Das",
+          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
         }
       ],
-      "duration_ms": 190451,
-      "name": "SELFISH",
-      "url": "https://open.spotify.com/track/5LiJslg0y8OFUJz5r5YBgV"
-    },
-    {
-      "added_at": "2026-03-26 16:00:07",
-      "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/5XOlnwM7OF1XInZ4djuZXw"
-      },
-      "artists": [
-        {
-          "name": "Olivia Escuyos",
-          "url": "https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "What You Do",
-      "url": "https://open.spotify.com/track/6Yc79MqvwiUdekS4Gs83xa"
+      "duration_ms": 238280,
+      "name": "Those Years Are Over",
+      "url": "https://open.spotify.com/track/4DPx5423HjiwbHZ7WEBN2t"
     },
     {
       "added_at": "2026-03-26 16:00:07",
@@ -231,18 +231,18 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Love in the Wind",
-        "url": "https://open.spotify.com/album/5wDxHx4iZf2hXHMfANu6DG"
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
       "artists": [
         {
-          "name": "The Sha La Das",
-          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 238280,
-      "name": "Those Years Are Over",
-      "url": "https://open.spotify.com/track/4DPx5423HjiwbHZ7WEBN2t"
+      "duration_ms": 238733,
+      "name": "Didn't Cha Know",
+      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
       "added_at": "2026-03-05 13:00:11",
@@ -259,22 +259,6 @@
       "duration_ms": 245080,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/3P2q9dfDRYQOrbTTEyAFQX"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Didn't Cha Know",
-      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -397,6 +381,22 @@
       "url": "https://open.spotify.com/track/7g18n5nxV5ep8ugBR3BmHD"
     },
     {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Oh Honey",
+        "url": "https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi"
+      },
+      "artists": [
+        {
+          "name": "Delegation",
+          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Oh Honey",
+      "url": "https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG"
+    },
+    {
       "added_at": "2026-02-12 13:00:19",
       "album": {
         "name": "Friends Again",
@@ -415,22 +415,6 @@
       "duration_ms": 218122,
       "name": "Friends Again",
       "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Oh Honey",
-        "url": "https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi"
-      },
-      "artists": [
-        {
-          "name": "Delegation",
-          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Oh Honey",
-      "url": "https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -939,22 +923,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/3cpNHI7xhNIosF9WjSk8Zh"
-      },
-      "artists": [
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
-        }
-      ],
-      "duration_ms": 203960,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/43sdRsmJFcSnlTWTVRhYtz"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "2 Much",
         "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
       },
@@ -967,6 +935,22 @@
       "duration_ms": 200000,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/3cpNHI7xhNIosF9WjSk8Zh"
+      },
+      "artists": [
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 203960,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/43sdRsmJFcSnlTWTVRhYtz"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1033,6 +1017,26 @@
       "url": "https://open.spotify.com/track/2MIavWMdvbYuRoA2Cw6VkN"
     },
     {
+      "added_at": "2026-04-03 05:00:21",
+      "album": {
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 242541,
+      "name": "Senses ft. Sampha",
+      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
+    },
+    {
       "added_at": "2026-01-23 01:47:43",
       "album": {
         "name": "The Bottom Line",
@@ -1063,26 +1067,6 @@
       "duration_ms": 200573,
       "name": "Doctrine of Love",
       "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
-    },
-    {
-      "added_at": "2026-04-03 05:00:21",
-      "album": {
-        "name": "Ambiguous Desire",
-        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 242541,
-      "name": "Senses ft. Sampha",
-      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1215,6 +1199,22 @@
       "duration_ms": 173112,
       "name": "Send It Back",
       "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 326240,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
     }
   ],
   "unique_name": "soulful",

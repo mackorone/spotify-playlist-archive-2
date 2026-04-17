@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 306304,
+  "num_followers": 306343,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Saga All Stars: Be Bop a Lula / 1956",
-        "url": "https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs"
-      },
-      "artists": [
-        {
-          "name": "Gene Vincent",
-          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
-        }
-      ],
-      "duration_ms": 156493,
-      "name": "Be Bop a Lula",
-      "url": "https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Complete Hank Williams",
         "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 174293,
       "name": "Hey, Good Lookin'",
       "url": "https://open.spotify.com/track/0F76EzCOmno4KJviO7iGNq"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Saga All Stars: Be Bop a Lula / 1956",
+        "url": "https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent",
+          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
+        }
+      ],
+      "duration_ms": 156493,
+      "name": "Be Bop a Lula",
+      "url": "https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Lloyd Price Greatest Hits: The Original ABC-Paramount Recordings",
+        "url": "https://open.spotify.com/album/5qYhWkc4dKbKuevLza5rlh"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Price",
+          "url": "https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Personality",
+      "url": "https://open.spotify.com/track/5vjigjfoXuJEttqLB3HTAg"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "At the Rock House",
         "url": "https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 130500,
       "name": "Ooby Dooby",
       "url": "https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Lloyd Price Greatest Hits: The Original ABC-Paramount Recordings",
-        "url": "https://open.spotify.com/album/5qYhWkc4dKbKuevLza5rlh"
-      },
-      "artists": [
-        {
-          "name": "Lloyd Price",
-          "url": "https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Personality",
-      "url": "https://open.spotify.com/track/5vjigjfoXuJEttqLB3HTAg"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "So Young / Right Behind You Baby",
-        "url": "https://open.spotify.com/album/6LP7wSqVMR2We0QErREC0w"
-      },
-      "artists": [
-        {
-          "name": "Ray Smith",
-          "url": "https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I"
-        }
-      ],
-      "duration_ms": 145093,
-      "name": "Right Behind You Baby",
-      "url": "https://open.spotify.com/track/5omAt5Vn4vRZH9ulslkKZ6"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockin' & Rollin' (Volume 1)",
         "url": "https://open.spotify.com/album/3L5LMEk9l6WaSgBmIU0j2G"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 128011,
       "name": "Red River Rock",
       "url": "https://open.spotify.com/track/7EM1CeaWPjCdVY1vO0KiO4"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "So Young / Right Behind You Baby",
+        "url": "https://open.spotify.com/album/6LP7wSqVMR2We0QErREC0w"
+      },
+      "artists": [
+        {
+          "name": "Ray Smith",
+          "url": "https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I"
+        }
+      ],
+      "duration_ms": 145093,
+      "name": "Right Behind You Baby",
+      "url": "https://open.spotify.com/track/5omAt5Vn4vRZH9ulslkKZ6"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockabilly Portrait",
-        "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 109500,
-      "name": "Wild One",
-      "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockabilly",
         "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Flyin' Saucers Rock & Roll / I Want You Baby",
-        "url": "https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS"
+        "name": "Rockabilly Portrait",
+        "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
       },
       "artists": [
         {
-          "name": "Billy Lee Riley",
-          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 122108,
-      "name": "Flyin' Saucers Rock & Roll",
-      "url": "https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv"
+      "duration_ms": 109500,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Flyin' Saucers Rock & Roll / I Want You Baby",
+        "url": "https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "duration_ms": 122108,
+      "name": "Flyin' Saucers Rock & Roll",
+      "url": "https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry",
         "url": "https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The King of Rockabilly (Sun Records 70th / Remastered 2022)",
-        "url": "https://open.spotify.com/album/6ek7cgGhlT5vuILlgsXDux"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 132866,
-      "name": "Everybody's Trying to Be My Baby - Remastered 2022",
-      "url": "https://open.spotify.com/track/32q7HHkDDaAVQDf1y0VB4p"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockabilly",
         "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 112561,
       "name": "Baby I Don't Care",
       "url": "https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The King of Rockabilly (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/6ek7cgGhlT5vuILlgsXDux"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 132866,
+      "name": "Everybody's Trying to Be My Baby - Remastered 2022",
+      "url": "https://open.spotify.com/track/32q7HHkDDaAVQDf1y0VB4p"
     },
     {
       "added_at": "2022-06-07 05:25:13",

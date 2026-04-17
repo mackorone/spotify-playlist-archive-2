@@ -1,6 +1,6 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Megadeth",
-  "num_followers": 583740,
+  "num_followers": 583782,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Hornet's Nest",
-        "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 279811,
-      "name": "Hornet's Nest",
-      "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Enter The Grave",
         "url": "https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 189360,
       "name": "Thrasher",
       "url": "https://open.spotify.com/track/3ghhd7sdIcWrWL4yeYc81Q"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Hornet's Nest",
+        "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 279811,
+      "name": "Hornet's Nest",
+      "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Ignorance & Surf Nicaragua",
-        "url": "https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0"
+        "name": "An Overdose of Death...",
+        "url": "https://open.spotify.com/album/5UfQpdGMJJ4dfhk7BnHiEU"
       },
       "artists": [
         {
-          "name": "Sacred Reich",
-          "url": "https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH"
+          "name": "Toxic Holocaust",
+          "url": "https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0"
         }
       ],
-      "duration_ms": 280400,
-      "name": "Surf Nicaragua",
-      "url": "https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN"
+      "duration_ms": 167800,
+      "name": "Nuke The Cross",
+      "url": "https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "An Overdose of Death...",
-        "url": "https://open.spotify.com/album/5UfQpdGMJJ4dfhk7BnHiEU"
+        "name": "Ignorance & Surf Nicaragua",
+        "url": "https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0"
       },
       "artists": [
         {
-          "name": "Toxic Holocaust",
-          "url": "https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0"
+          "name": "Sacred Reich",
+          "url": "https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH"
         }
       ],
-      "duration_ms": 167800,
-      "name": "Nuke The Cross",
-      "url": "https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg"
+      "duration_ms": 280400,
+      "name": "Surf Nicaragua",
+      "url": "https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Heavy Metal Maniac",
-        "url": "https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il"
-      },
-      "artists": [
-        {
-          "name": "Exciter",
-          "url": "https://open.spotify.com/artist/1jH2JkQvdH6R63yORA8GTd"
-        }
-      ],
-      "duration_ms": 227453,
-      "name": "Heavy Metal Maniac",
-      "url": "https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Empire of the Blind",
         "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 351613,
       "name": "Empire of the Blind",
       "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Heavy Metal Maniac",
+        "url": "https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il"
+      },
+      "artists": [
+        {
+          "name": "Exciter",
+          "url": "https://open.spotify.com/artist/1jH2JkQvdH6R63yORA8GTd"
+        }
+      ],
+      "duration_ms": 227453,
+      "name": "Heavy Metal Maniac",
+      "url": "https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "World Circus",
-        "url": "https://open.spotify.com/album/0vpkJpw2GlqWu2oENfdXYx"
-      },
-      "artists": [
-        {
-          "name": "Toxik",
-          "url": "https://open.spotify.com/artist/5v4Rmw4m3h9jJUeXd4hD2m"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Heart Attack",
-      "url": "https://open.spotify.com/track/38kRxXRL2FbAM2mHZ2tqSQ"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Cabaret De La Guillotine",
         "url": "https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 361013,
       "name": "Sharpen the Guillotine",
       "url": "https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "World Circus",
+        "url": "https://open.spotify.com/album/0vpkJpw2GlqWu2oENfdXYx"
+      },
+      "artists": [
+        {
+          "name": "Toxik",
+          "url": "https://open.spotify.com/artist/5v4Rmw4m3h9jJUeXd4hD2m"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/38kRxXRL2FbAM2mHZ2tqSQ"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Schizophrenia (Re-Recorded)",
-        "url": "https://open.spotify.com/album/3SlfkVIXt6loQjZOByllmv"
-      },
-      "artists": [
-        {
-          "name": "Cavalera Conspiracy",
-          "url": "https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV"
-        }
-      ],
-      "duration_ms": 258953,
-      "name": "Nightmares Of Delirium",
-      "url": "https://open.spotify.com/track/1ra04CMFjC869EOb6T6cmN"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Spread the Fire",
         "url": "https://open.spotify.com/album/4bwww1qTnCIRQdWjJIrAkX"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 314786,
       "name": "Thrash Is Back",
       "url": "https://open.spotify.com/track/0mTHshGGNTGxUiyohrdj2Z"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Schizophrenia (Re-Recorded)",
+        "url": "https://open.spotify.com/album/3SlfkVIXt6loQjZOByllmv"
+      },
+      "artists": [
+        {
+          "name": "Cavalera Conspiracy",
+          "url": "https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV"
+        }
+      ],
+      "duration_ms": 258953,
+      "name": "Nightmares Of Delirium",
+      "url": "https://open.spotify.com/track/1ra04CMFjC869EOb6T6cmN"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Beyond the Wall of Desolation",
-        "url": "https://open.spotify.com/album/4szLMEwiYzD3QC4jI7ClZA"
-      },
-      "artists": [
-        {
-          "name": "High Command",
-          "url": "https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ"
-        }
-      ],
-      "duration_ms": 297360,
-      "name": "Inexorable Darkness",
-      "url": "https://open.spotify.com/track/5rWhMFUhgeGFgiLLu4vZAv"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/7DlA2Vm8witrWKt7mZEGyQ"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 182084,
       "name": "Insane",
       "url": "https://open.spotify.com/track/0EussHoROH1wsSg3qhN0WO"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Beyond the Wall of Desolation",
+        "url": "https://open.spotify.com/album/4szLMEwiYzD3QC4jI7ClZA"
+      },
+      "artists": [
+        {
+          "name": "High Command",
+          "url": "https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ"
+        }
+      ],
+      "duration_ms": 297360,
+      "name": "Inexorable Darkness",
+      "url": "https://open.spotify.com/track/5rWhMFUhgeGFgiLLu4vZAv"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2747,22 +2747,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Sodom & Gomorrah",
-        "url": "https://open.spotify.com/album/4C1zs0n33qMNPMiXN8Fy70"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "Sodom & Gomorrah",
-      "url": "https://open.spotify.com/track/3uPYITcnVb9RZ7d8aKMV3r"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Phantom Force",
         "url": "https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH"
       },
@@ -2775,6 +2759,22 @@
       "duration_ms": 179796,
       "name": "Phantom Force",
       "url": "https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Sodom & Gomorrah",
+        "url": "https://open.spotify.com/album/4C1zs0n33qMNPMiXN8Fy70"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "Sodom & Gomorrah",
+      "url": "https://open.spotify.com/track/3uPYITcnVb9RZ7d8aKMV3r"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2959,22 +2959,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Killer Of Killers",
-        "url": "https://open.spotify.com/album/1CZuXJsnDzVn7zLtdLwOBk"
-      },
-      "artists": [
-        {
-          "name": "Zig Zags",
-          "url": "https://open.spotify.com/artist/5Na7fSSXoKezg6Q1ebPqs3"
-        }
-      ],
-      "duration_ms": 228640,
-      "name": "Killer Of Killers",
-      "url": "https://open.spotify.com/track/1tgwzbkqYhLL8LWMgfHq1v"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Let the World Burn",
         "url": "https://open.spotify.com/album/1kQuMFWJMNmcyH3OpZR3Qn"
       },
@@ -3003,6 +2987,22 @@
       "duration_ms": 238106,
       "name": "Reap What You Sow",
       "url": "https://open.spotify.com/track/0PbOpIcpyKYKfL3Iuz4g9S"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Killer Of Killers",
+        "url": "https://open.spotify.com/album/1CZuXJsnDzVn7zLtdLwOBk"
+      },
+      "artists": [
+        {
+          "name": "Zig Zags",
+          "url": "https://open.spotify.com/artist/5Na7fSSXoKezg6Q1ebPqs3"
+        }
+      ],
+      "duration_ms": 228640,
+      "name": "Killer Of Killers",
+      "url": "https://open.spotify.com/track/1tgwzbkqYhLL8LWMgfHq1v"
     },
     {
       "added_at": "2026-02-06 16:07:07",

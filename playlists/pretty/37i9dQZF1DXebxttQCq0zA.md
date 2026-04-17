@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,249,142 likes - 230 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,249,354 likes - 230 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 229 | [Waiting for Nightfall](https://open.spotify.com/track/6lxQE5lJyt8IQveo31hDUy) | [Selenique](https://open.spotify.com/artist/6w2PLwVJnXbLWkyyDq4CII) | [Waiting for Nightfall](https://open.spotify.com/album/1rvdhChEisKZXHECRMXgMG) | 2:28 |
 | 230 | [Quiet Pulse](https://open.spotify.com/track/5NPzlu6tuiNfu4XXQX5LhG) | [Kuyenao](https://open.spotify.com/artist/6iOvRGmfeqxfjqNRDboCsp) | [Quiet Pulse](https://open.spotify.com/album/5ocHfNs7R7nRwMVHPYc3gE) | 3:02 |
 
-Snapshot ID: `AAAAAHhCOKtH3CTHmYHZhEdJIaGa9EkZ`
+Snapshot ID: `AAAAAKfkxAq/ZxfUCfOWimSmnnLduX0F`

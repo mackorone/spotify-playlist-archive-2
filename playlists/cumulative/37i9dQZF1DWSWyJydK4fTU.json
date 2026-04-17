@@ -136,7 +136,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 137360,
       "name": "400 Cities",
       "url": "https://open.spotify.com/track/0gdNSd9ztRCeONjBec42PE"
@@ -548,6 +548,24 @@
       "duration_ms": 183586,
       "name": "Beautiful Reason",
       "url": "https://open.spotify.com/track/13lJN9FLQ6Unk70LhhdnxX"
+    },
+    {
+      "album": {
+        "name": "BEAUTY QUEEN",
+        "url": "https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "BEAUTY QUEEN",
+      "url": "https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih"
     },
     {
       "album": {
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 150373,
       "name": "Kurz f\u00fcr immer",
       "url": "https://open.spotify.com/track/3sO0vONRaSGKrIA4p9IVXY"
@@ -3403,6 +3421,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Reasons",
+        "url": "https://open.spotify.com/album/6RAtQragsbDyTaYQ97DWsM"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146626,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/0J17rlejk0pNUDejkxCjoD"
+    },
+    {
+      "album": {
         "name": "Loyal to myself",
         "url": "https://open.spotify.com/album/4ZWf3l2OK3oV2GSCYOXTm1"
       },
@@ -3572,7 +3608,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -3745,6 +3781,24 @@
     },
     {
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156973,
+      "name": "Middle of Nowhere",
+      "url": "https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME"
+    },
+    {
+      "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
@@ -3764,6 +3818,24 @@
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+    },
+    {
+      "album": {
+        "name": "Miss You Like Hell",
+        "url": "https://open.spotify.com/album/5yXnvCbolLRgQD5B46LIfx"
+      },
+      "artists": [
+        {
+          "name": "Chris James",
+          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "Miss You Like Hell",
+      "url": "https://open.spotify.com/track/3bakvSaZbHr7fCipik4sMA"
     },
     {
       "album": {
@@ -4197,6 +4269,24 @@
     },
     {
       "album": {
+        "name": "Our Last Fight",
+        "url": "https://open.spotify.com/album/0x9VEJW5HA3TIPwCaiPYWL"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182720,
+      "name": "Our Last Fight",
+      "url": "https://open.spotify.com/track/3IOI9dRbnGy9olByG8I5eM"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0Y51sbINvBPVZfzuXbDrml"
       },
@@ -4580,7 +4670,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 220833,
       "name": "Sex, Etc.",
       "url": "https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM"

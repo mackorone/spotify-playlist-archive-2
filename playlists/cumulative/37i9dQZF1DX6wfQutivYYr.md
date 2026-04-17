@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Sal Da Vinci sulla cover della playlist più grande in Italia 🔥
+> Shiva sulla cover della playlist più grande in Italia 🔥
 
 319 songs - 16 hr 37 min
 

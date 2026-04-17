@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Lloyiso",
+  "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Tyla & Zara Larsson",
   "name": "pop fm",
   "tracks": [
     {
@@ -5307,6 +5307,24 @@
     },
     {
       "album": {
+        "name": "Hello Goodbye",
+        "url": "https://open.spotify.com/album/4oArlyQMejUAK1jdPWhfUz"
+      },
+      "artists": [
+        {
+          "name": "Lola Audreys",
+          "url": "https://open.spotify.com/artist/1hAEiB06cyEmWTSyt1BFkp"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185120,
+      "name": "Hello Goodbye",
+      "url": "https://open.spotify.com/track/42Ls6yMxH0HdVkZdbdB8fy"
+    },
+    {
+      "album": {
         "name": "Hello My Old Lover",
         "url": "https://open.spotify.com/album/576OBHrTMTv0uNbSrCZQHp"
       },
@@ -10071,6 +10089,24 @@
     },
     {
       "album": {
+        "name": "rollerblade",
+        "url": "https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114056,
+      "name": "rollerblade",
+      "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
+    },
+    {
+      "album": {
         "name": "Rome",
         "url": "https://open.spotify.com/album/29EVH059QDp9V6TMKkrUtl"
       },
@@ -10457,6 +10493,28 @@
     },
     {
       "album": {
+        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213241,
+      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
+    },
+    {
+      "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
@@ -10548,6 +10606,24 @@
       "duration_ms": 270200,
       "name": "Shutcho (feat. The Joy)",
       "url": "https://open.spotify.com/track/6AZLjrFI5qh6IsMHzvyrIi"
+    },
+    {
+      "album": {
+        "name": "KONNAKOL",
+        "url": "https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197159,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm"
     },
     {
       "album": {
@@ -14237,6 +14313,24 @@
     },
     {
       "album": {
+        "name": "Written",
+        "url": "https://open.spotify.com/album/6Tugfz5Byo1qKuQjdVOHhp"
+      },
+      "artists": [
+        {
+          "name": "GhostwriterMel",
+          "url": "https://open.spotify.com/artist/7BXatN3mB4rAllCGNGNqDD"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193985,
+      "name": "Written",
+      "url": "https://open.spotify.com/track/1G8iJbYCHs5GmUqdCy0vh4"
+    },
+    {
+      "album": {
         "name": "All Of My Tomorrows",
         "url": "https://open.spotify.com/album/3AM8B0FEnBnYZJw7KA0egc"
       },
@@ -14562,7 +14656,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1264713,
+  "num_followers": 1264729,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAABsazSBEcmJecy0fa9J2Jrs",
+  "snapshot_id": "ad7VAAAAAAC5+TcqWe0KvRm6eSsOJL4/",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 278053,
+      "name": "Song For Hal",
+      "url": "https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Days Of Ash EP",
         "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 235413,
       "name": "Song Of The Future",
       "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 317466,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/5zAoWUlW6Te34M8n8d3VTy"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 317466,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/5zAoWUlW6Te34M8n8d3VTy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rattle And Hum",
         "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 389933,
       "name": "All I Want Is You",
       "url": "https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 278053,
-      "name": "Song For Hal",
-      "url": "https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 296240,
-      "name": "Walk On",
-      "url": "https://open.spotify.com/track/3pUWV5hvXsI9diJ9TeNeCh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easter Lily EP",
         "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 302933,
       "name": "Resurrection Song",
       "url": "https://open.spotify.com/track/09QaPzjG6mCiiTrT9hlerp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 296240,
+      "name": "Walk On",
+      "url": "https://open.spotify.com/track/3pUWV5hvXsI9diJ9TeNeCh"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How To Dismantle An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 305080,
-      "name": "Sometimes You Can't Make It On Your Own",
-      "url": "https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easter Lily EP",
         "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 368306,
       "name": "Easter Parade",
       "url": "https://open.spotify.com/track/2o0wVUgsiIhd3NJG1r5r3V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 305080,
+      "name": "Sometimes You Can't Make It On Your Own",
+      "url": "https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 263175,
-      "name": "American Obituary",
-      "url": "https://open.spotify.com/track/3OeSl8lZH1ufOO87gJdcfi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 226626,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 263175,
+      "name": "American Obituary",
+      "url": "https://open.spotify.com/track/3OeSl8lZH1ufOO87gJdcfi"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 278480,
-      "name": "Until The End Of The World",
-      "url": "https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take Me To The Clouds Above (LMC Vs. U2 / Remixes)",
         "url": "https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 171546,
       "name": "Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit",
       "url": "https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 278480,
+      "name": "Until The End Of The World",
+      "url": "https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5"
     },
     {
       "added_at": null,

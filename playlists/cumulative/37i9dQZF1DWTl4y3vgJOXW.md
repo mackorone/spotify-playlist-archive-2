@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Lamelo Ball
 
-901 songs - 1 day 21 hr 54 min
+902 songs - 1 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,6 +781,7 @@
 | [TAN](https://open.spotify.com/track/1WDOIn5NLqAstbVjArxKkh) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [TAN](https://open.spotify.com/album/4U6lKEILlMsNsdYjKC6erZ) | 2:31 | 2023-02-17 | 2023-02-22 |
 | [Tantrum](https://open.spotify.com/track/5MBbNPb6J1ofHcfZELK6GI) | [Pariz](https://open.spotify.com/artist/3yQZdCVI1neqpZgZzCjsOI) | [Burning in Pariz 2](https://open.spotify.com/album/0F1vB70qmW6MM8755nHbZa) | 2:43 | 2021-09-02 | 2022-05-19 |
 | [Teen Bean](https://open.spotify.com/track/4jx9GqqVMPacAOKHaFlsLb) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen Bean](https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB) | 1:59 | 2023-02-17 | 2023-02-22 |
+| [Tell Me Why](https://open.spotify.com/track/11S1sUabJj7rArvWDFb491) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Tell Me Why](https://open.spotify.com/album/7kZkch5axDOIoTT2hQMuFT) | 2:26 | 2026-04-10 |  |
 | [TGIF](https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF \(Alternate Versions\)](https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD) | 2:44 | 2024-07-05 | 2024-07-13 |
 | [THank god 4 me](https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 2:57 | 2024-07-12 | 2024-07-19 |
 | [That's All She Wrote](https://open.spotify.com/track/6XAA7T9VHcqKQSzjmXAJ8o) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [No Mercy](https://open.spotify.com/album/6LGR2plk2Yk4A33CAktJN3) | 5:18 | 2022-06-24 | 2023-02-18 |

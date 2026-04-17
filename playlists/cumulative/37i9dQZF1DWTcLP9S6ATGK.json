@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Timun Jelita",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Gloria Jessica, Ade Govinda ",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -308,6 +308,24 @@
       "duration_ms": 253658,
       "name": "Aduhai",
       "url": "https://open.spotify.com/track/1Pm6rRDGMpRPuRdXAK6M5W"
+    },
+    {
+      "album": {
+        "name": "Ahli Bermain Cinta",
+        "url": "https://open.spotify.com/album/58YrWD9Rgn01GDZC3u5Lnr"
+      },
+      "artists": [
+        {
+          "name": "Vionita",
+          "url": "https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247200,
+      "name": "Ahli Bermain Cinta",
+      "url": "https://open.spotify.com/track/6qUEX5JSKinEIW56cJFduG"
     },
     {
       "album": {
@@ -4443,6 +4461,24 @@
     },
     {
       "album": {
+        "name": "Dulu Kita Masih Remaja (Original Soundtrack Dilan ITB 1997)",
+        "url": "https://open.spotify.com/album/6JptcIbyDVqXg6ulVCnRz2"
+      },
+      "artists": [
+        {
+          "name": "Ariel NOAH",
+          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Dulu Kita Masih Remaja - Original Soundtrack Dilan ITB 1997",
+      "url": "https://open.spotify.com/track/6WzOu0UnyfFSxOLw2Rs5nY"
+    },
+    {
+      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/1R9tlrCSbbO1rUmQZ1a8r6"
       },
@@ -4726,6 +4762,24 @@
       "duration_ms": 270790,
       "name": "Gelora Api Cinta",
       "url": "https://open.spotify.com/track/0YTZxhWbGXYngtEkkA2INc"
+    },
+    {
+      "album": {
+        "name": "Geram",
+        "url": "https://open.spotify.com/album/1436FpDhmJzFNUTeRQtGVQ"
+      },
+      "artists": [
+        {
+          "name": "Geisha",
+          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249995,
+      "name": "Geram",
+      "url": "https://open.spotify.com/track/4AihnQANO1NNQx3YagzToS"
     },
     {
       "album": {
@@ -9646,6 +9700,24 @@
       "duration_ms": 237230,
       "name": "Mungkin Belum Sekarang (Catatan Harian Menantu Sinting Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/4yrsCwGmG5SqraKGoHwE53"
+    },
+    {
+      "album": {
+        "name": "Mungkin di Depan Buram",
+        "url": "https://open.spotify.com/album/7A2XPc9WgnKN3S4yGUJVLo"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157969,
+      "name": "Mungkin di Depan Buram",
+      "url": "https://open.spotify.com/track/7Jg5lblHcvzWRHppWHa7ff"
     },
     {
       "album": {
@@ -15422,6 +15494,28 @@
       "duration_ms": 250690,
       "name": "Terbawa Suasana",
       "url": "https://open.spotify.com/track/2MgcfN4Sp8ougHmasK8EXB"
+    },
+    {
+      "album": {
+        "name": "Terbelah Jadi Dua",
+        "url": "https://open.spotify.com/album/7yOC8uTLy0iwjg1n7YBz4P"
+      },
+      "artists": [
+        {
+          "name": "Gloria Jessica",
+          "url": "https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS"
+        },
+        {
+          "name": "Ade Govinda",
+          "url": "https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Terbelah Jadi Dua",
+      "url": "https://open.spotify.com/track/3aM3bFzA2dCtej0U3h4WKH"
     },
     {
       "album": {

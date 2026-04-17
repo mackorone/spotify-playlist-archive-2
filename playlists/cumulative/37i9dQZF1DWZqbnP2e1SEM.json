@@ -2279,6 +2279,28 @@
     },
     {
       "album": {
+        "name": "Devotion (Sweetest Emotion)",
+        "url": "https://open.spotify.com/album/5lr9NRdfJmcITfu7NCObUC"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157341,
+      "name": "Devotion (Sweetest Emotion)",
+      "url": "https://open.spotify.com/track/6ffejqaHW8eatoka1sntka"
+    },
+    {
+      "album": {
         "name": "Didn't Know (Tobtok Remix)",
         "url": "https://open.spotify.com/album/03G4hEf2EjJh6UY9ilPUF9"
       },
@@ -3028,7 +3050,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 194890,
       "name": "Favour",
       "url": "https://open.spotify.com/track/7oNqFOek4W2px8jzrK4BxF"
@@ -3054,6 +3076,24 @@
       "duration_ms": 216480,
       "name": "Feel About You - Edit",
       "url": "https://open.spotify.com/track/4OSS2eDxVmkG13O7MXPxul"
+    },
+    {
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/3ANG7KGCa7K4Tdjl9r3bYT"
+      },
+      "artists": [
+        {
+          "name": "Ammara",
+          "url": "https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166206,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/5FNCBisssbOECFN0Th2KHl"
     },
     {
       "album": {
@@ -5104,7 +5144,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 159387,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU"

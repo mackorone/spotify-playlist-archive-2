@@ -4,7 +4,7 @@
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 41 min
+52 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Seven \- Live](https://open.spotify.com/track/01Qou0Jb4jUyCRfBhDSa74) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Seven / Pitiful \(Live\)](https://open.spotify.com/album/0juD5oBhlYYbiK1y62xasu) | 5:12 | 2024-05-12 | 2024-07-27 |
 | [Seven Years](https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:12 | 2022-10-25 |  |
 | [Sleepers](https://open.spotify.com/track/6s3d8xe76eyHPgD2QYutJQ) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 2:51 | 2022-10-25 |  |
+| [Starting Over Again](https://open.spotify.com/track/34VjbHxkXXjl7iv7df3rDt) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Starting Over Again](https://open.spotify.com/album/6KsGdacJiG8uv9F6o2bmfL) | 3:56 | 2026-04-17 |  |
 | [The Silver String](https://open.spotify.com/track/1fulFeOm8Zm5QJDSLRpoCc) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 3:57 | 2022-10-25 |  |
 | [The Stutter Says A Lot](https://open.spotify.com/track/70YL1BWVpf2O6M4V1kHM8b) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 2:53 | 2022-10-25 |  |
 | [The Worst of Me](https://open.spotify.com/track/1wiIhmcIU1hJWqEKhcaXcp) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:34 | 2022-10-25 |  |

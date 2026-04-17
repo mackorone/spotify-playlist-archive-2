@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Grasu XXL",
+  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Bitza",
   "name": "Suflet + Sunet",
   "tracks": [
     {
@@ -412,7 +412,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 162901,
       "name": "Antarctica",
       "url": "https://open.spotify.com/track/4p3206jk0fwiwEnaTRfhvI"
@@ -2627,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "Personale",
+        "url": "https://open.spotify.com/album/3SqqpSUOBlYO7xDlb4rFiG"
+      },
+      "artists": [
+        {
+          "name": "Bitza",
+          "url": "https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186383,
+      "name": "Iubeste ce faci",
+      "url": "https://open.spotify.com/track/1UE7ucYzOVUPwwSW6vKA3P"
+    },
+    {
+      "album": {
         "name": "Aproape TOT",
         "url": "https://open.spotify.com/album/1Qb2fUJIgv2xKKYGo1WWl7"
       },
@@ -4578,7 +4596,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 169241,
       "name": "Thomas Shelby",
       "url": "https://open.spotify.com/track/7poAba97Xq74UQNlgESmYD"
@@ -4947,6 +4965,28 @@
     },
     {
       "album": {
+        "name": "VA FI BINE",
+        "url": "https://open.spotify.com/album/2zjHnqL5U885nzUtukCloi"
+      },
+      "artists": [
+        {
+          "name": "KYOTO",
+          "url": "https://open.spotify.com/artist/7HZEPyhE3YmdG74uLUB1VO"
+        },
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297834,
+      "name": "VA FI BINE",
+      "url": "https://open.spotify.com/track/6ocxmERe0FcpRaLVhNqSNb"
+    },
+    {
+      "album": {
         "name": "Valuri",
         "url": "https://open.spotify.com/album/5INqX6JMCosUk3DVNJxtJ9"
       },
@@ -5024,7 +5064,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 166153,
       "name": "Vise La Plic",
       "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
@@ -5068,6 +5108,24 @@
       "duration_ms": 139354,
       "name": "VREM",
       "url": "https://open.spotify.com/track/6mBitYebZxZUyW8UgyI8TP"
+    },
+    {
+      "album": {
+        "name": "Vremea Impostorilor",
+        "url": "https://open.spotify.com/album/6UYQlt2n1PoaKCcA43kmCN"
+      },
+      "artists": [
+        {
+          "name": "Grasu XXL",
+          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191418,
+      "name": "Vremea Impostorilor",
+      "url": "https://open.spotify.com/track/5DfvBOrqPyKMqddw1ae9Ur"
     },
     {
       "album": {

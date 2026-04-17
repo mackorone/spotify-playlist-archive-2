@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,382 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,385 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 25 | [Moola](https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Moola](https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t) | 3:04 |
 | 26 | [Spitbraai](https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Spitbraai](https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu) | 3:18 |
 | 27 | [Koue Flow](https://open.spotify.com/track/7LEn9gNB3vvohujENpOtL9) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr), [Master Raw](https://open.spotify.com/artist/12dQuJzCsLugjFsAzkKqIT), [Ashey\_SA](https://open.spotify.com/artist/5T1W4BsHUhPFsJ2FSCNuXe), [Terwie](https://open.spotify.com/artist/1j46XrGhYerbT7pneGSsfr) | [Koue Flow](https://open.spotify.com/album/1xbJ3QlJU44IbXWbFPeDmB) | 3:33 |
-| 28 | [Private](https://open.spotify.com/track/2ch0sBikWq1WN9QAZQEHy1) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO) | [Private](https://open.spotify.com/album/5xII4hT5elWFNk8JJ6nsGT) | 3:00 |
-| 29 | [Doen Net Jou Ding](https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Doen Net Jou Ding](https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe) | 3:05 |
+| 28 | [Doen Net Jou Ding](https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Doen Net Jou Ding](https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe) | 3:05 |
+| 29 | [Private](https://open.spotify.com/track/2ch0sBikWq1WN9QAZQEHy1) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO) | [Private](https://open.spotify.com/album/5xII4hT5elWFNk8JJ6nsGT) | 3:00 |
 | 30 | [Koepie Gevrietie](https://open.spotify.com/track/7Dy4POL2thHmuMk7Fy6cD9) | [Maintjie](https://open.spotify.com/artist/3XAYWDIMwPLQUXr0j5jTpb), [TYREAKE](https://open.spotify.com/artist/5uHVVOJq0zlg0BSy7TKyBe) | [Koepie Gevrietie](https://open.spotify.com/album/3t6muPDJ2IoGG1WMajYf4T) | 3:19 |
 | 31 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
 | 32 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 47 | [SYS N BADDIE](https://open.spotify.com/track/2YN1BTHUYk7c21PkZ63Mba) | [BARZX](https://open.spotify.com/artist/1sfLbppjFJohHRV1Z2I0RK) | [SYS N BADDIE](https://open.spotify.com/album/7AimRndL52aehc62FKMAft) | 2:07 |
 | 48 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 |
 | 49 | [Tyd Saam](https://open.spotify.com/track/6J9rWNVO1o859GVwSM088z) | [EAZY CPT](https://open.spotify.com/artist/6J5gjRHi3E9eLTKtsvT0cm) | [Tyd Saam](https://open.spotify.com/album/1ZVA1TwHvzCTC9UsVw3c7c) | 2:47 |
-| 50 | [Exs Die Ou](https://open.spotify.com/track/3ka1g6KZDn50XNLVDatqcP) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Exs Die Ou](https://open.spotify.com/album/6QJR1nAn1kQzI0s8uc85J4) | 3:06 |
+| 50 | [Ladies From The Cape](https://open.spotify.com/track/0xqENcBffVOxa2EWqhrhtI) | [illRow](https://open.spotify.com/artist/2dRcdCUa8vHBggtgvngMI1), [Charly X2C](https://open.spotify.com/artist/6yu8nIyG3jnvaF3xWPkXmX) | [Ladies From The Cape](https://open.spotify.com/album/6UPbO4Hwf2z1oaCwGI6iXN) | 2:57 |
 
 Snapshot ID: `AAAAAH2LGxQnz9bJRiuQxiFS+amCP2eg`

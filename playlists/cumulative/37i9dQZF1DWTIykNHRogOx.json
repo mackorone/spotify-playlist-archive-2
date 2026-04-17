@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Yoa",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Noor",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -408,6 +408,28 @@
       "duration_ms": 106600,
       "name": "babichou",
       "url": "https://open.spotify.com/track/0Th8pW2g5QlUrwz6g0NqQM"
+    },
+    {
+      "album": {
+        "name": "baby",
+        "url": "https://open.spotify.com/album/5ASEDSjwn38h4DsVR3DJfN"
+      },
+      "artists": [
+        {
+          "name": "Nina Battisti",
+          "url": "https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP"
+        },
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190769,
+      "name": "baby",
+      "url": "https://open.spotify.com/track/5wTrByjrkQWtaiL5SfUUfr"
     },
     {
       "album": {
@@ -1354,7 +1376,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 151805,
       "name": "Fleur bleue",
       "url": "https://open.spotify.com/track/7zJku7F9CPT7GLTZhZDbQB"
@@ -1650,7 +1672,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 209200,
       "name": "Il neige sur la mer",
       "url": "https://open.spotify.com/track/1Dim0Di4nKfRrGeh3Qv2pM"
@@ -1870,7 +1892,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 259845,
       "name": "Je ne l'ai jamais dit \u00e0 personne",
       "url": "https://open.spotify.com/track/10YFRCEbeCjWBJCr8DpfEz"
@@ -2144,7 +2166,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 191357,
       "name": "L'\u00eele aux cygnes",
       "url": "https://open.spotify.com/track/3xdTwb3TLh0RoKEihnDj7d"
@@ -2732,7 +2754,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 185986,
       "name": "Le loup - Spotify Singles",
       "url": "https://open.spotify.com/track/0L16T8OZAAKREvReNkUft7"
@@ -4169,6 +4191,24 @@
     },
     {
       "album": {
+        "name": "Pas tant de d'chichi ponpon",
+        "url": "https://open.spotify.com/album/2aDungCHKgSgxxLdle6kb8"
+      },
+      "artists": [
+        {
+          "name": "Ez\u00e9chiel Pailh\u00e8s",
+          "url": "https://open.spotify.com/artist/4rqegcqfzES4oBRh4n8TM1"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229063,
+      "name": "Pas tant de d'chichi ponpon",
+      "url": "https://open.spotify.com/track/7c9Lz2fK1nIRVZdkWwsXer"
+    },
+    {
+      "album": {
         "name": "The Lake",
         "url": "https://open.spotify.com/album/07LgPK6EakfWO7ArkdwBmZ"
       },
@@ -4466,6 +4506,24 @@
       "duration_ms": 165279,
       "name": "Que Ma Peau",
       "url": "https://open.spotify.com/track/1PdWbXnOiud2UTSvvklYBa"
+    },
+    {
+      "album": {
+        "name": "1900 jours",
+        "url": "https://open.spotify.com/album/2XbDLC9ZtqgrZoftlf5j3q"
+      },
+      "artists": [
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217338,
+      "name": "Que reste-t-il de moi ?",
+      "url": "https://open.spotify.com/track/3a0qWLvCFukamkr8vNAu7w"
     },
     {
       "album": {
@@ -4845,6 +4903,24 @@
     },
     {
       "album": {
+        "name": "Seule",
+        "url": "https://open.spotify.com/album/5VPSWiJsTpDpQyMCXqaZua"
+      },
+      "artists": [
+        {
+          "name": "Iliona",
+          "url": "https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208721,
+      "name": "Seule",
+      "url": "https://open.spotify.com/track/1J5H2xHZRSqoheMgsDpQfA"
+    },
+    {
+      "album": {
         "name": "Si beau",
         "url": "https://open.spotify.com/album/0BODdkgwRorbheFUCiFJSz"
       },
@@ -5018,7 +5094,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 134709,
       "name": "T'es Beau - Doug's Version",
       "url": "https://open.spotify.com/track/7g7sUmIDaZgq5gtHne6jdL"
@@ -5040,6 +5116,24 @@
       "duration_ms": 149808,
       "name": "ta peau, ma peau",
       "url": "https://open.spotify.com/track/3M0FOj8R8WD3VxdZEZRNl0"
+    },
+    {
+      "album": {
+        "name": "Te rencontrer encore",
+        "url": "https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ"
+      },
+      "artists": [
+        {
+          "name": "ESTL",
+          "url": "https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Te rencontrer encore",
+      "url": "https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09"
     },
     {
       "album": {
@@ -5242,6 +5336,28 @@
       "duration_ms": 191489,
       "name": "Tout Va Bien",
       "url": "https://open.spotify.com/track/5KZj2gtIVHWq8TA1lSCb8p"
+    },
+    {
+      "album": {
+        "name": "Toute l'eau qui coule",
+        "url": "https://open.spotify.com/album/5HqFQf5hFstEHgZAp4d0mT"
+      },
+      "artists": [
+        {
+          "name": "Laura Cahen",
+          "url": "https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F"
+        },
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246968,
+      "name": "Toute l'eau qui coule",
+      "url": "https://open.spotify.com/track/7sI0sOYbt9POeWwalKfMdz"
     },
     {
       "album": {

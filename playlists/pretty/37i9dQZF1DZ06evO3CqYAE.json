@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14570,
+  "num_followers": 14568,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAACKZSn3e0K4BVeSlAjTmtdb",
+  "snapshot_id": "ad7VAAAAAACCbytOg7lRgOmK6IXWa/wR",
   "tracks": [
     {
       "added_at": null,
@@ -726,31 +726,11 @@
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Fiokee",
-          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
         }
       ],
-      "duration_ms": 237479,
-      "name": "Regular (feat. Fiokee)",
-      "url": "https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suddenly + Amazing God (Double Single)",
-        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 291493,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
+      "duration_ms": 327216,
+      "name": "Igwe",
+      "url": "https://open.spotify.com/track/0bmIKllyl9bZhNxt2jgvzA"
     },
     {
       "added_at": null,
@@ -779,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 291493,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In His Will",
         "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
       },
@@ -802,31 +798,15 @@
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 327216,
-      "name": "Igwe",
-      "url": "https://open.spotify.com/track/0bmIKllyl9bZhNxt2jgvzA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR"
-      },
-      "artists": [
-        {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
         },
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Fiokee",
+          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
         }
       ],
-      "duration_ms": 375563,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya"
+      "duration_ms": 237479,
+      "name": "Regular (feat. Fiokee)",
+      "url": "https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP"
     },
     {
       "added_at": null,
@@ -915,6 +895,26 @@
       "duration_ms": 339880,
       "name": "Jesus United",
       "url": "https://open.spotify.com/track/5qH2JtPSnaETSCZI58k6bi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR"
+      },
+      "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 375563,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-446 songs - 22 hr 54 min
+447 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Can't You Feel It](https://open.spotify.com/track/7qw1FDLaNC5LA6kifisldI) | [MIDNIGHT CVLT](https://open.spotify.com/artist/6fT08N8EN9rPdbeWxXkNdX), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU) | [Can't You Feel It](https://open.spotify.com/album/1mdT842jxLeARBJpahEw6f) | 3:43 | 2022-09-20 | 2023-08-11 |
 | [Capsized](https://open.spotify.com/track/2LtLVmev6gw15F1fmeIFsB) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [Capsized](https://open.spotify.com/album/2cUgd3L6zpTmr90b2t29Xy) | 3:38 | 2022-02-03 | 2022-07-12 |
 | [Cash Out](https://open.spotify.com/track/4VIhfUoqGVL67qzjGDecDX) | [Schrandy](https://open.spotify.com/artist/16DOlPH2Uh5OyntSN9qlxz) | [Cash Out](https://open.spotify.com/album/1bbedyCgIrSX1hQSfUALky) | 2:22 | 2026-01-15 |  |
+| [CERBERUS](https://open.spotify.com/track/3tOtHXtNW0aE9e2GMHuHsK) | [TANTRON](https://open.spotify.com/artist/6HTp9Q7rmHmQjatn98BLAi), [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [CERBERUS](https://open.spotify.com/album/2AgN9TGZmxADMJxsfcPTGx) | 3:30 | 2026-04-16 |  |
 | [Champion](https://open.spotify.com/track/5OpxV19WN2rkZf6C2cAFK9) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Champion](https://open.spotify.com/album/2cEvSMNPmlpODdf2NKQTTd) | 3:33 | 2023-08-10 |  |
 | [Chasing Stars](https://open.spotify.com/track/3seg3AiX4HgzVXCZV1k0hB) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd) | [Chasing Stars](https://open.spotify.com/album/0IJrzqHMIRCKEXiYdwXCvo) | 3:05 | 2022-02-03 | 2022-09-15 |
 | [Circle](https://open.spotify.com/track/37QbBWAlIYTmm1v23MNLGW) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Circle](https://open.spotify.com/album/5NchOgnEho2Pd3TX6RNVrR) | 3:58 | 2022-08-31 | 2023-08-11 |

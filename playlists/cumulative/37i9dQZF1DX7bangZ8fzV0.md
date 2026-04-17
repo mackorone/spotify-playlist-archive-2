@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Barto
+> Net die beste Afrikaanse musiek! Omslag: Ricus Nel
 
-379 songs - 20 hr 56 min
+380 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Boereworsgordyn](https://open.spotify.com/track/38R4Dldpw56RYWRN4lnz7q) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd), [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Boereworsgordyn](https://open.spotify.com/album/0bjsKbIPpx5Y49kQqtxBZV) | 3:16 | 2025-02-27 | 2025-08-08 |
 | [Boertjie](https://open.spotify.com/track/1gDHAsZHRaNJ8vU42xYkgR) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Boertjie](https://open.spotify.com/album/1K74L4cyxA3HY5BEWv7JDg) | 3:09 | 2025-05-29 | 2025-06-01 |
 | [Boertjie Voor My Deur](https://open.spotify.com/track/4rGcXHZCHPEBAPPW4NoOh8) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Boertjie Voor My Deur](https://open.spotify.com/album/7LdbqExbfbd0AWVRXPxUFe) | 3:25 | 2025-11-27 |  |
+| [Bok Is Beter](https://open.spotify.com/track/0X3biI4C1D1D1J27EoMfai) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Bok Is Beter](https://open.spotify.com/album/3koINTsMu8WAOEF5HcQ1vf) | 2:45 | 2026-04-16 |  |
 | [Boksemdais](https://open.spotify.com/track/47nOlGusMrYoBDq3CFnbYg) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Die Lot](https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F) | 3:08 | 2025-11-10 | 2025-11-15 |
 | [Boksemdais](https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Boksemdais](https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0) | 3:08 | 2023-10-12 | 2026-01-03 |
 | [Bokswyn](https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Bokswyn](https://open.spotify.com/album/0AUEv3KyWp0AGzlxq0sjud) | 3:09 | 2022-08-18 | 2023-12-01 |
@@ -196,7 +197,7 @@
 | [Koue Hande](https://open.spotify.com/track/31BLoKHfaI81Fdo5lODFHs) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Hier Waar Ek Nou Is](https://open.spotify.com/album/4jdUS4txDqUeoHViljbXLg) | 4:30 | 2025-11-10 |  |
 | [Koue Kole](https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Koue Kole](https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE) | 3:50 | 2023-05-11 | 2025-11-07 |
 | [Koue Pizza](https://open.spotify.com/track/1fEZOVHd17gcqv0ND1fpcV) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Koue Pizza](https://open.spotify.com/album/0UE7Fs2XSTfjAtcwNKe439) | 3:01 | 2022-10-20 | 2022-11-11 |
-| [Kroeg Cowboys](https://open.spotify.com/track/0J3OJrSPHZhrWkYPkPzc2e) | [Fran Prins](https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv), [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Kroeg Cowboys](https://open.spotify.com/album/393Eoz9i0wmaUTEc6SH5Lc) | 3:07 | 2025-12-04 |  |
+| [Kroeg Cowboys](https://open.spotify.com/track/0J3OJrSPHZhrWkYPkPzc2e) | [Fran Prins](https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv), [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Kroeg Cowboys](https://open.spotify.com/album/393Eoz9i0wmaUTEc6SH5Lc) | 3:07 | 2025-12-04 | 2026-04-17 |
 | [Kwaai](https://open.spotify.com/track/5C34K01X7SH8IK19GhnLKG) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Kwaai](https://open.spotify.com/album/2bNCNkYpsXSzHObC5t6woq) | 2:48 | 2025-09-04 | 2025-11-15 |
 | [Kwaaitjie](https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Kwaaitjie](https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z) | 3:08 | 2022-08-04 | 2024-11-01 |
 | [Kwagga Karnaval](https://open.spotify.com/track/0YibPa1JNIDIvubnDjrDFF) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd), [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Kwagga Karnaval](https://open.spotify.com/album/7J8QRwCuKTylCzzhObMTTc) | 3:30 | 2023-08-24 | 2024-03-29 |

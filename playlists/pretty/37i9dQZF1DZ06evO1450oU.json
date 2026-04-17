@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAACx/BCpZFsh8XxXvLSmK24i",
+  "snapshot_id": "ad7VAAAAAAADgyfjzS9yNXPUQxpOgRtP",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 239872,
-      "name": "On Your Road",
-      "url": "https://open.spotify.com/track/04GJSqGoFAuzOhOahSrUDA"
+      "duration_ms": 218137,
+      "name": "Lock the Doors",
+      "url": "https://open.spotify.com/track/3bA0HYpBmhLH1qpQTIEPEL"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 218137,
-      "name": "Lock the Doors",
-      "url": "https://open.spotify.com/track/3bA0HYpBmhLH1qpQTIEPEL"
+      "duration_ms": 239872,
+      "name": "On Your Road",
+      "url": "https://open.spotify.com/track/04GJSqGoFAuzOhOahSrUDA"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 186447,
-      "name": "EVERYONEISTHESAME",
-      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
+      "duration_ms": 218705,
+      "name": "The Vine",
+      "url": "https://open.spotify.com/track/6tabBGQ5viiUw8DnnfKO9S"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 218705,
-      "name": "The Vine",
-      "url": "https://open.spotify.com/track/6tabBGQ5viiUw8DnnfKO9S"
+      "duration_ms": 186447,
+      "name": "EVERYONEISTHESAME",
+      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
     }
   ],
   "unique_name": "This Is Salt Creek",

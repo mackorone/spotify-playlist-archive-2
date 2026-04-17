@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 169929,
       "name": "2.0",
       "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
@@ -49490,7 +49490,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 255639,
       "name": "Life Boat.",
       "url": "https://open.spotify.com/track/7BguGjelfXyHttxhfQVxzr"
@@ -73690,7 +73690,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 199600,
       "name": "RICHMAN",
       "url": "https://open.spotify.com/track/3JfbMm4LfBmm96mkKhyG6I"
@@ -86826,6 +86826,24 @@
       "duration_ms": 112320,
       "name": "The Official FIFA World Cup Qatar 2022\u2122 Theme",
       "url": "https://open.spotify.com/track/5aKcJDDiDTzrmVi6putOnq"
+    },
+    {
+      "album": {
+        "name": "The One Who's Running the Show",
+        "url": "https://open.spotify.com/album/3QUo9uBdC8zyHPsk02Yf7B"
+      },
+      "artists": [
+        {
+          "name": "Gooseworx",
+          "url": "https://open.spotify.com/artist/4I31Oaf4lpU501IMCuEHTt"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133800,
+      "name": "The One Who's Running the Show",
+      "url": "https://open.spotify.com/track/1Qmmte3WKo1HgQDmDISvNc"
     },
     {
       "album": {

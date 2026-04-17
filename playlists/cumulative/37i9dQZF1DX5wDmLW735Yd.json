@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status, Lancey Foux",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Harriet Jaxxon, Josie Man",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 166896,
       "name": "Believe Again (I Found U)",
       "url": "https://open.spotify.com/track/7aDEbPXBdGXjwp9DQKN6B1"
@@ -3005,6 +3005,28 @@
     },
     {
       "album": {
+        "name": "BrAiNdEaD",
+        "url": "https://open.spotify.com/album/7z53Y9A1QRPNobhODXj4fH"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164610,
+      "name": "BrAiNdEaD",
+      "url": "https://open.spotify.com/track/6z6ffepNBAyt3p68b9aPfv"
+    },
+    {
+      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/3dta7WJB6g1ld5mMIuNPFQ"
       },
@@ -3382,6 +3404,32 @@
       "duration_ms": 226206,
       "name": "Burn For You",
       "url": "https://open.spotify.com/track/19uyrxLPmX9sAnQC3y9EkA"
+    },
+    {
+      "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/6zszI8HwncZ9jHgUbQO2aV"
+      },
+      "artists": [
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        },
+        {
+          "name": "Lady Leshurr",
+          "url": "https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211300,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/5n1pY15l26QRpBZ0urMjvO"
     },
     {
       "album": {
@@ -9903,6 +9951,28 @@
     },
     {
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4bjnv5gOW5PXWe7Fp4oLq6"
+      },
+      "artists": [
+        {
+          "name": "Harriet Jaxxon",
+          "url": "https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu"
+        },
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158742,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/75HR9SahNi9NxHtR3ZZtGV"
+    },
+    {
+      "album": {
         "name": "Heartleap",
         "url": "https://open.spotify.com/album/5ynbocv7MO1wn19uXW7Hlo"
       },
@@ -12222,7 +12292,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 186514,
       "name": "Kung Fu",
       "url": "https://open.spotify.com/track/4PmGrMmJL7BG0ou0EVZHwY"
@@ -13716,7 +13786,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 257243,
       "name": "Lovebombs",
       "url": "https://open.spotify.com/track/0XC1E7JdINwIbX94uT5YkU"
@@ -17957,6 +18027,28 @@
     },
     {
       "album": {
+        "name": "Rage Days",
+        "url": "https://open.spotify.com/album/4KmpFnF9cHZInIXsVATOfP"
+      },
+      "artists": [
+        {
+          "name": "Mix'Elle",
+          "url": "https://open.spotify.com/artist/43QGdvDr2wO4x1Y8wbeovp"
+        },
+        {
+          "name": "BRAVA",
+          "url": "https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245581,
+      "name": "Rage Days",
+      "url": "https://open.spotify.com/track/6h9ckbO36zzMJ2H5GdnV7S"
+    },
+    {
+      "album": {
         "name": "Raggamuffin",
         "url": "https://open.spotify.com/album/3Y071HqrUq3wln4GW0i7sX"
       },
@@ -18310,7 +18402,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 213793,
       "name": "Reaper (feat. Comma Dee)",
       "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
@@ -18956,6 +19048,40 @@
       "duration_ms": 196551,
       "name": "Rise",
       "url": "https://open.spotify.com/track/3FKtwI55ioKC1aS2KSuBMt"
+    },
+    {
+      "album": {
+        "name": "Rise Again",
+        "url": "https://open.spotify.com/album/6yocomZOu2QH7xi1sOHYDP"
+      },
+      "artists": [
+        {
+          "name": "NQ",
+          "url": "https://open.spotify.com/artist/5XZBXsKarf3hMpCRqNLpBL"
+        },
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
+        },
+        {
+          "name": "Tiggs Da Author",
+          "url": "https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200236,
+      "name": "Rise Again",
+      "url": "https://open.spotify.com/track/6yz6fybeShgviaEp1FLYJq"
     },
     {
       "album": {
@@ -19634,7 +19760,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 206774,
       "name": "Scream My Name",
       "url": "https://open.spotify.com/track/2aXOl9fXqnWrmAFDwWVZl7"
@@ -21994,7 +22120,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 226206,
       "name": "Synchronise",
       "url": "https://open.spotify.com/track/6VNCxBZLzXY3Lgdue2PXwF"
@@ -24632,6 +24758,28 @@
       "duration_ms": 338000,
       "name": "Wasting My Time - Tim Reaper Remix",
       "url": "https://open.spotify.com/track/2GSOtGiKIncKgAzFCT2hZ5"
+    },
+    {
+      "album": {
+        "name": "Supraliminal",
+        "url": "https://open.spotify.com/album/3mBLHwfzIcsraatmdmIUiM"
+      },
+      "artists": [
+        {
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+        },
+        {
+          "name": "flowanastasia",
+          "url": "https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207844,
+      "name": "Watch Your Step",
+      "url": "https://open.spotify.com/track/10obaeO9W5iLXoc5SUFfEi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: A Good Year
 
-268 songs - 15 hr 31 min
+270 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [E45](https://open.spotify.com/track/0w6G3E9M8EVoZMAyg76U2L) | [Dork](https://open.spotify.com/artist/3jE90CFpLX1fYiDPHqDZul) | [E45](https://open.spotify.com/album/6AkwQ74vKoFeb3ansGY171) | 3:34 | 2025-10-03 |  |
 | [Easy Rider Geneva Heat](https://open.spotify.com/track/18vBir4mGmDL54cnwn758B) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8) | [Unrecognisable](https://open.spotify.com/album/6mMdp6Ua31O86pTWSdxcMC) | 1:40 | 2026-02-19 |  |
 | [Ecstatic Heads](https://open.spotify.com/track/6h8nLmwNxWrHKYm9p28oc2) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 4:39 | 2025-09-12 |  |
+| [Eleanor's Escape](https://open.spotify.com/track/21LcmaUSmbrzdxqHUEhi8B) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Eleanor's Escape](https://open.spotify.com/album/639kU4PVltUCtPQOL7rNUL) | 4:16 | 2026-04-16 |  |
 | [Electric Puppy](https://open.spotify.com/track/3eupceUgZJ7Yh73zDD6dMQ) | [SY3](https://open.spotify.com/artist/3knZSaPAzRgjzuwcvsGBHw) | [梦游 Sleepwalker](https://open.spotify.com/album/5dKZrF0SFKdBE8ntlhaGUw) | 2:40 | 2026-03-26 |  |
 | [Embarrassed Dog](https://open.spotify.com/track/5dBCI9rpjUHrBtQkgGlQ7A) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 2:00 | 2025-03-13 |  |
 | [Emmaus](https://open.spotify.com/track/5ecTsNsx6BvWBIeXCXNEOc) | [Andrew Aged](https://open.spotify.com/artist/6MDHB1sd0dW7eI5weGsgTG) | [crown](https://open.spotify.com/album/1PGS974JDZDzm0wqGcEmuM) | 4:11 | 2025-12-05 |  |
@@ -200,6 +201,7 @@
 | [Roxy](https://open.spotify.com/track/1jDB7tzhA5xmR8MyzQa2Be) | [ESP](https://open.spotify.com/artist/0G2H8XIsqcdI5GJrYdRRPa) | [Roxy](https://open.spotify.com/album/32ceApBpebrRqqT2bh0Kwt) | 4:20 | 2026-02-19 |  |
 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 | 2025-06-26 |  |
 | [Sacrificial Code](https://open.spotify.com/track/18xisk5Sg6dJVobPvDovNp) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw) | 5:29 | 2025-05-08 | 2026-01-17 |
+| [sad song](https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [sad song](https://open.spotify.com/album/3M4kVE1218U6n9Qh6JQ03I) | 3:03 | 2026-04-16 |  |
 | [Seasons](https://open.spotify.com/track/1DdXVmPCIKccJFThb97GPs) | [Astrid Samuelsen](https://open.spotify.com/artist/5YTzwbSyMvUDPTVJE8HBjd) | [Seasons](https://open.spotify.com/album/44fnGesr3lUT4g11vICkqZ) | 4:24 | 2025-08-18 | 2026-03-07 |
 | [second place](https://open.spotify.com/track/1fbOvCYi48oNtnUvTU3Khr) | [soki yue](https://open.spotify.com/artist/3pSvLi87jU6OWr1zk8lBj9) | [second place](https://open.spotify.com/album/5gYgcCmZo9BaWmvyW4ZX2k) | 2:45 | 2025-07-18 | 2026-03-07 |
 | [Seeing Is Forgetting](https://open.spotify.com/track/19iE95ZowwXzcMaLZNcWyn) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 3:36 | 2026-03-06 |  |

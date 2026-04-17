@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,352 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,392 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 5 | [Yemi Cheyamanduve](https://open.spotify.com/track/6GgP6NTpwRaokozTVyC6Be) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Priyuraalu Pilichindi](https://open.spotify.com/album/06ZpiZ28CpnSRitF4srJFc) | 6:02 |
 | 6 | [Adigaa](https://open.spotify.com/track/4k9RLcTWZog34sIXt23Ibr) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Hi Nanna](https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD) | 3:30 |
 | 7 | [Kannullo Nee Roopame](https://open.spotify.com/track/7jbNMW04ju92tfMsSwIJyi) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Ninne Pelladatha](https://open.spotify.com/album/541GRaOEn6UBptC1WlX8E1) | 5:21 |
-| 8 | [Baby He Loves You](https://open.spotify.com/track/4r6jFSaXqHlfq1OmEziT9Q) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Aarya \- 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7vuWNVdv7zSwgHJ7qx26O4) | 5:21 |
-| 9 | [Manasu Maree](https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [V](https://open.spotify.com/album/47S3yMixAINohfHXD5vHfc) | 4:27 |
+| 8 | [Manasu Maree](https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [V](https://open.spotify.com/album/47S3yMixAINohfHXD5vHfc) | 4:27 |
+| 9 | [Baby He Loves You](https://open.spotify.com/track/4r6jFSaXqHlfq1OmEziT9Q) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Aarya \- 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7vuWNVdv7zSwgHJ7qx26O4) | 5:21 |
 | 10 | [Ninnu Chuse Anandamlo](https://open.spotify.com/track/16RigX2qPBrjju5ddZv1X6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Anantha Sriram](https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq) | [Gang Leader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv) | 4:53 |
 | 11 | [Chilipiga](https://open.spotify.com/track/5J3Gykr4QdXzgbRGlusUrM) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:28 |
 | 12 | [Oh Prema](https://open.spotify.com/track/63NdWczrPCYGWKY1RV4Zbh) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Sita Ramam \(Telugu\) \(Extended Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5d0eh1FoU7tOYEnHLohjjv) | 3:28 |

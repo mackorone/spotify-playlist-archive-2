@@ -5423,6 +5423,32 @@
     },
     {
       "album": {
+        "name": "SIKA NE WEE",
+        "url": "https://open.spotify.com/album/3BvSLNDZ9tLa6Ut0CZK7cU"
+      },
+      "artists": [
+        {
+          "name": "Kuka Perry",
+          "url": "https://open.spotify.com/artist/7wJLyVGdtVnkNKSNnRuZxs"
+        },
+        {
+          "name": "Droplord",
+          "url": "https://open.spotify.com/artist/0MgQjumeakDGMyrpGMdGKt"
+        },
+        {
+          "name": "Ypee",
+          "url": "https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171912,
+      "name": "SIKA NE WEE",
+      "url": "https://open.spotify.com/track/5qVgYqMKxHhYyze2WKFuFR"
+    },
+    {
+      "album": {
         "name": "YPSZN3",
         "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
       },
@@ -6008,6 +6034,24 @@
       "duration_ms": 122668,
       "name": "Touch\u00e9",
       "url": "https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv"
+    },
+    {
+      "album": {
+        "name": "BEASTMODE VOL1",
+        "url": "https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
     },
     {
       "album": {

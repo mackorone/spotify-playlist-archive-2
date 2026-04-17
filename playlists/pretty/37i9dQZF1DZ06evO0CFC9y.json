@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 38502,
+  "num_followers": 38508,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAACIX/dWKJaVw8c9f/+WO49M",
+  "snapshot_id": "ad7VAAAAAAAEPpvQXOR2AbHLPU74osc+",
   "tracks": [
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 198003,
-      "name": "Ash Speck in a Green Eye",
-      "url": "https://open.spotify.com/track/3MIpe4qqcTLRKsWEyaxnfx"
+      "duration_ms": 184900,
+      "name": "Marguerite",
+      "url": "https://open.spotify.com/track/5FRoSL3BeHF28QqiXYFa85"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art Of Drowning",
-        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 155333,
-      "name": "The Nephilim",
-      "url": "https://open.spotify.com/track/6AbO0VF7dLnvQFJ8AbM5Vm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing The Sorrow (Deluxe)",
         "url": "https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 155333,
+      "name": "The Nephilim",
+      "url": "https://open.spotify.com/track/6AbO0VF7dLnvQFJ8AbM5Vm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Silver Bleeds the Black Sun...",
         "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
       },
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 184900,
-      "name": "Marguerite",
-      "url": "https://open.spotify.com/track/5FRoSL3BeHF28QqiXYFa85"
+      "duration_ms": 198003,
+      "name": "Ash Speck in a Green Eye",
+      "url": "https://open.spotify.com/track/3MIpe4qqcTLRKsWEyaxnfx"
     },
     {
       "added_at": null,

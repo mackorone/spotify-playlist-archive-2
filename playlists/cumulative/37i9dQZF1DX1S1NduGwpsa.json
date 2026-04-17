@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Stacey Kent",
+  "description": "The best jazz new releases. Cover: Sofiane Pamart",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -174,6 +174,28 @@
       "duration_ms": 253253,
       "name": "A Fine Romance",
       "url": "https://open.spotify.com/track/4DdjqjTARDbAvjELiHxuyn"
+    },
+    {
+      "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR"
+      },
+      "artists": [
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        },
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287516,
+      "name": "A Kiss A Kill",
+      "url": "https://open.spotify.com/track/2FoduzDx5BvoN9MMwA9CYO"
     },
     {
       "album": {
@@ -6289,6 +6311,36 @@
     },
     {
       "album": {
+        "name": "Liberetto V: Echomyr",
+        "url": "https://open.spotify.com/album/5CLe0rk6IiIePYDMhZizmi"
+      },
+      "artists": [
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Magnus \u00d6str\u00f6m",
+          "url": "https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2"
+        },
+        {
+          "name": "Gr\u00e9gory Privat",
+          "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
+        },
+        {
+          "name": "John Parricelli",
+          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349600,
+      "name": "Gl\u00f2r",
+      "url": "https://open.spotify.com/track/3AsKQkYvnehFj9JkVYdTJP"
+    },
+    {
+      "album": {
         "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
         "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
       },
@@ -7270,7 +7322,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 227733,
       "name": "I Cannot Believe In Tomorrow",
       "url": "https://open.spotify.com/track/3V8Uo8FEWucjOaKoExg6R6"
@@ -7878,6 +7930,28 @@
       "duration_ms": 384243,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/2gzXIH2zuVQ6omwQBvpeas"
+    },
+    {
+      "album": {
+        "name": "If I Only Had A Brain",
+        "url": "https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190026,
+      "name": "If I Only Had A Brain",
+      "url": "https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ"
     },
     {
       "album": {
@@ -9150,6 +9224,32 @@
       "duration_ms": 201992,
       "name": "La Gloria Eres T\u00fa",
       "url": "https://open.spotify.com/track/1CpwwKDtTwWJ4NNC6gVygw"
+    },
+    {
+      "album": {
+        "name": "La Habana Kr\u00e9yol",
+        "url": "https://open.spotify.com/album/5EwZtm8QV1t1axK49o81zN"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Jurion",
+          "url": "https://open.spotify.com/artist/4zFTMFADHb1YOkjYBAmgPJ"
+        },
+        {
+          "name": "Arnaud Dolmen",
+          "url": "https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm"
+        },
+        {
+          "name": "Damian Nueva",
+          "url": "https://open.spotify.com/artist/2qgoWPBB9bkhdPwNeb9amJ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356405,
+      "name": "La Habana Kr\u00e9yol",
+      "url": "https://open.spotify.com/track/1HUBXEWnN3TsHYJyHKdlnp"
     },
     {
       "album": {
@@ -11196,7 +11296,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 250237,
       "name": "Misty",
       "url": "https://open.spotify.com/track/1y3PEN0MP4b3KT1ss15bnj"
@@ -11756,7 +11856,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 531662,
       "name": "My Very Own Ride",
       "url": "https://open.spotify.com/track/59ZAfJo35Lunuv56upvhCZ"
@@ -19946,7 +20046,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 185000,
       "name": "Young at Heart (feat. Rod Stewart)",
       "url": "https://open.spotify.com/track/7bxsLsRvyJDVsTTSKLgQ6h"

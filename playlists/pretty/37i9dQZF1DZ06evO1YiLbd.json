@@ -1,13 +1,29 @@
 {
   "description": "This is Yuki Hayashi. The essential tracks, all in one playlist.",
-  "num_followers": 8129,
+  "num_followers": 8130,
   "original_name": "This Is Yuki Hayashi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAAD8x78KL908qCEDeXWGN9uc",
+  "snapshot_id": "ad7VAAAAAABL6Y7UAAD42nBnIfx3RLXt",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u300eMy Hero Academia: Vigilantes\u300fOriginal Soundtrack",
+        "url": "https://open.spotify.com/album/2VMxBBULdDPTebig7v0oX9"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 55866,
+      "name": "GAAAAAH adlib. \u2161",
+      "url": "https://open.spotify.com/track/4ts0cR3it4IZ0rviEwQrfu"
+    },
     {
       "added_at": null,
       "album": {
@@ -175,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
-        "url": "https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "\u5927\u4eba\u305f\u3061",
-      "url": "https://open.spotify.com/track/2cldiPnH3DGMbXUmXZ58OU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR"
       },
@@ -203,6 +203,22 @@
       "duration_ms": 173106,
       "name": "\u541b\u306e\u529b",
       "url": "https://open.spotify.com/track/2sUwFqwbQwS8dfT3gbfKVZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
+        "url": "https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "\u30c1\u30fc\u30e0\u306e\u5730\u529b",
+      "url": "https://open.spotify.com/track/0H5GCiZwJHZv8kdgwNCB3i"
     },
     {
       "added_at": null,
@@ -239,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
-        "url": "https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "\u30c1\u30fc\u30e0\u306e\u5730\u529b",
-      "url": "https://open.spotify.com/track/0H5GCiZwJHZv8kdgwNCB3i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
         "url": "https://open.spotify.com/album/54yg1VofNhuje44hH5ySea"
       },
@@ -267,6 +267,22 @@
       "duration_ms": 176626,
       "name": "\u771f\u3063\u5411\u52dd\u8ca0",
       "url": "https://open.spotify.com/track/0qJ7OecpYupx360N8havQm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
+        "url": "https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "\u5927\u4eba\u305f\u3061",
+      "url": "https://open.spotify.com/track/2cldiPnH3DGMbXUmXZ58OU"
     },
     {
       "added_at": null,
@@ -419,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TV Animation My Hero Academia 7th Original Soundtrack",
-        "url": "https://open.spotify.com/album/6u7u6gaokipiDoPPxnJ2z1"
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR"
       },
       "artists": [
         {
@@ -428,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 179253,
-      "name": "Sixth Magnitude Star - MHA Arr Ver.",
-      "url": "https://open.spotify.com/track/5P8p3KXKcNyNrjo2u9cxgL"
+      "duration_ms": 224573,
+      "name": "\u4e09\u4f4d\u4e00\u4f53",
+      "url": "https://open.spotify.com/track/029gE0tJnnOfGNoV0d4I5C"
     },
     {
       "added_at": null,
@@ -451,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR"
+        "name": "TV Animation My Hero Academia 7th Original Soundtrack",
+        "url": "https://open.spotify.com/album/6u7u6gaokipiDoPPxnJ2z1"
       },
       "artists": [
         {
@@ -460,9 +476,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 224573,
-      "name": "\u4e09\u4f4d\u4e00\u4f53",
-      "url": "https://open.spotify.com/track/029gE0tJnnOfGNoV0d4I5C"
+      "duration_ms": 179253,
+      "name": "Sixth Magnitude Star - MHA Arr Ver.",
+      "url": "https://open.spotify.com/track/5P8p3KXKcNyNrjo2u9cxgL"
     },
     {
       "added_at": null,
@@ -483,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 81666,
-      "name": "From Me to You",
-      "url": "https://open.spotify.com/track/34OP5ugxs1t3RaiJlyqJRb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!!TO THE TOP\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh"
       },
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 81666,
+      "name": "From Me to You",
+      "url": "https://open.spotify.com/track/34OP5ugxs1t3RaiJlyqJRb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo"
       },
@@ -524,9 +540,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 208000,
-      "name": "\u76ee\u6a19",
-      "url": "https://open.spotify.com/track/1bnHb1q8DePjvo7sH20ugT"
+      "duration_ms": 234360,
+      "name": "\u30cf\u30a4\u30ad\u30e5\u30fc!!",
+      "url": "https://open.spotify.com/track/5zjO7yPF7xRUA4APAvxjV8"
     },
     {
       "added_at": null,
@@ -551,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "My Hero Is Our Hero",
-      "url": "https://open.spotify.com/track/2yheZqd9dNuvawJM1lkeAU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z"
       },
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "My Hero Is Our Hero",
+      "url": "https://open.spotify.com/track/2yheZqd9dNuvawJM1lkeAU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo"
       },
@@ -592,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 234360,
-      "name": "\u30cf\u30a4\u30ad\u30e5\u30fc!!",
-      "url": "https://open.spotify.com/track/5zjO7yPF7xRUA4APAvxjV8"
+      "duration_ms": 208000,
+      "name": "\u76ee\u6a19",
+      "url": "https://open.spotify.com/track/1bnHb1q8DePjvo7sH20ugT"
     },
     {
       "added_at": null,
@@ -615,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 132866,
-      "name": "\u30aa\u30fc\u30eb\uff65\u30d5\u30a9\u30fc\uff65\u30ef\u30f3",
-      "url": "https://open.spotify.com/track/0fW6pNl1nIgPWaUaCnn4LZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
         "url": "https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78"
       },
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"My Hero Academia\" Soundtrack Selection 2019 - 2021",
-        "url": "https://open.spotify.com/album/1a4tvtDdCiWYvfz2WjsTWi"
+        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 179333,
-      "name": "I'll be your hero",
-      "url": "https://open.spotify.com/track/7Ex5OWpR7dFfoTVWau789a"
+      "duration_ms": 132866,
+      "name": "\u30aa\u30fc\u30eb\uff65\u30d5\u30a9\u30fc\uff65\u30ef\u30f3",
+      "url": "https://open.spotify.com/track/0fW6pNl1nIgPWaUaCnn4LZ"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Hero Academia (Soundtrack Selection 2021-2023)",
-        "url": "https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO"
+        "name": "\"My Hero Academia\" Soundtrack Selection 2019 - 2021",
+        "url": "https://open.spotify.com/album/1a4tvtDdCiWYvfz2WjsTWi"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 154880,
-      "name": "I'm Sorry for Everything I've done",
-      "url": "https://open.spotify.com/track/2zIQJsE1KrqlHWG0EVbEMT"
+      "duration_ms": 179333,
+      "name": "I'll be your hero",
+      "url": "https://open.spotify.com/track/7Ex5OWpR7dFfoTVWau789a"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
       "duration_ms": 199866,
       "name": "\u6b6f\u8eca",
       "url": "https://open.spotify.com/track/3kMYYFcPC0rgig7GC1Fbm8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 175973,
-      "name": "\u79c1\u304b\u3089\u541b\u3078",
-      "url": "https://open.spotify.com/track/6sd9efoxeKdEssItdXtLIm"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 120160,
+      "name": "\u71b1(\u3072\u3060\u308a)\u306f\u7d76\u5bfe\u4f7f\u308f\u306d\u3048",
+      "url": "https://open.spotify.com/track/4SAnyLkFJUhq3YPdELqv0j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo"
       },
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR"
+        "name": "My Hero Academia (Soundtrack Selection 2021-2023)",
+        "url": "https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 120160,
-      "name": "\u71b1(\u3072\u3060\u308a)\u306f\u7d76\u5bfe\u4f7f\u308f\u306d\u3048",
-      "url": "https://open.spotify.com/track/4SAnyLkFJUhq3YPdELqv0j"
+      "duration_ms": 154880,
+      "name": "I'm Sorry for Everything I've done",
+      "url": "https://open.spotify.com/track/2zIQJsE1KrqlHWG0EVbEMT"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u70cf\u91ce\u9ad8\u6821 V S\u767d\u9ce5\u6ca2\u5b66\u5712\u9ad8\u6821\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/7iODUgHHgyeo4fkH9E0w4Q"
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 121213,
-      "name": "\u3054\u3042\u3044\u3055\u3064",
-      "url": "https://open.spotify.com/track/66dqsdJHQmSNzzNH17QfyQ"
+      "duration_ms": 125240,
+      "name": "\u7206\u6bba\u738b!!",
+      "url": "https://open.spotify.com/track/3zTlEfMGB9sQyyqDQMdlHn"
     }
   ],
   "unique_name": "This Is Yuki Hayashi",

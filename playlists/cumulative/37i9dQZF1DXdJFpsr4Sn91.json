@@ -7956,7 +7956,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 153701,
       "name": "Jos Kaiken Annan",
       "url": "https://open.spotify.com/track/4Zb0rJLCHm6zwHeVO2Nw9n"
@@ -8145,6 +8145,28 @@
     },
     {
       "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/5lzkzJ8wSkUqUFSpiTgEDc"
+      },
+      "artists": [
+        {
+          "name": "Mikael Laurent",
+          "url": "https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO"
+        },
+        {
+          "name": "Jaakko Kulta",
+          "url": "https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172684,
+      "name": "Jussi (feat. Jaakko Kulta)",
+      "url": "https://open.spotify.com/track/0QVaSbyIo8jPzrkU5exmE0"
+    },
+    {
+      "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
       },
@@ -8320,7 +8342,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 234880,
       "name": "Kaiken arvoinen",
       "url": "https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1"
@@ -8722,7 +8744,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 168582,
       "name": "Kenen mukaan",
       "url": "https://open.spotify.com/track/5Q5aAxsbtKqYyzMikGPyXP"
@@ -8976,7 +8998,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 181293,
       "name": "Koirulip\u00e4iv\u00e4",
       "url": "https://open.spotify.com/track/6y9xoMMDZxU2FhfpVaU5WP"
@@ -17769,6 +17791,24 @@
     },
     {
       "album": {
+        "name": "Sulhanen",
+        "url": "https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30"
+      },
+      "artists": [
+        {
+          "name": "Aleksanteri Hakaniemi",
+          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Sulhanen",
+      "url": "https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT"
+    },
+    {
+      "album": {
         "name": "Sun katu (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
         "url": "https://open.spotify.com/album/083cIrf5AiGD5ZneqWjj12"
       },
@@ -18339,6 +18379,28 @@
     },
     {
       "album": {
+        "name": "S\u00e4 Kannoit Mua",
+        "url": "https://open.spotify.com/album/5p3AJrgUcHGQ4RfD3AAV6K"
+      },
+      "artists": [
+        {
+          "name": "Immanuel",
+          "url": "https://open.spotify.com/artist/57KAL3JM9mmp29xb8dUvpr"
+        },
+        {
+          "name": "Kristiina Brask",
+          "url": "https://open.spotify.com/artist/5L0xsQmR0XRypu4bkbyoz9"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252409,
+      "name": "S\u00e4 Kannoit Mua",
+      "url": "https://open.spotify.com/track/7LF0RYLBxYCWrkHqhDTDVl"
+    },
+    {
+      "album": {
         "name": "S\u00e4 voit itkee",
         "url": "https://open.spotify.com/album/6iTlU8fhVjCYAHylCd10Q2"
       },
@@ -18890,7 +18952,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 148374,
       "name": "Ter\u00e4lehti",
       "url": "https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:6aaMZ3fcfLv4tEbmY7bjRM">Isaiah Rashad</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,132,104 likes - 149 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132,153 likes - 149 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

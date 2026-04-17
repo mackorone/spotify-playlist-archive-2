@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 683 likes - 167 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 682 likes - 167 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 48 | [You Still Get Me High](https://open.spotify.com/track/726GRWH3hMbnr6HAlMJUfA) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:38 |
 | 49 | [Story](https://open.spotify.com/track/0dV9JbXkCeuQWjuxG8BtIS) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:16 |
 | 50 | [Heavenly](https://open.spotify.com/track/7Dq8M4iWryFiA0r6W2rZMm) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:45 |
-| 51 | [In And Out Of Love](https://open.spotify.com/track/0RBr7lFDgDdm6sofZS7fcK) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:14 |
-| 52 | [Don't Wanna Let You Go](https://open.spotify.com/track/4r1WgNj8sGOSeG8qROc6NG) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:24 |
+| 51 | [Don't Wanna Let You Go](https://open.spotify.com/track/4r1WgNj8sGOSeG8qROc6NG) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:24 |
+| 52 | [In And Out Of Love](https://open.spotify.com/track/0RBr7lFDgDdm6sofZS7fcK) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:14 |
 | 53 | [Hot in December](https://open.spotify.com/track/1yepCSPoxirpHDK1580Eq5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Fully Wrapped\)](https://open.spotify.com/album/2Qqr2SBEHLPEyqsQPYTa6y) | 3:12 |
 | 54 | [Somebody To Love](https://open.spotify.com/track/2sgCo8gmeF3zgsYpe1F8OD) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:52 |
 | 55 | [Around the World](https://open.spotify.com/track/0Ek1Jt3GiTnyDwiQu0eqQq) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 4:33 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 166 | [Rettungsschwimmer](https://open.spotify.com/track/20n7znKJtjth2aRVoTD3OS) | [Kinderfete](https://open.spotify.com/artist/3T6CmDs4rszGZqlL7PClxC) | [Kinderfetenhits \(Die Kinder Fetenhits\)](https://open.spotify.com/album/2DZgdqZL5j6x3JpTbV07E5) | 2:45 |
 | 167 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
 
-Snapshot ID: `AcO9KAAAAADewLo+W4m6VNRGX6AD5EVO`
+Snapshot ID: `AcPCjAAAAADEdMLTyi5/ZkhmFrRIuJLR`

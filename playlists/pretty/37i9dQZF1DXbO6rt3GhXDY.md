@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 
 ### [Indie Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DXbO6rt3GhXDY)
 
-> You know em, you love em, these are indie pop hits\. Cover: Malcom Todd
+> You know em, you love em, these are indie pop hits\. Cover: Malcolm Todd
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,461 likes - 127 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,553 likes - 127 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 | 126 | [When U Loved Me](https://open.spotify.com/track/7pADtei8K3suMQlLBxR4iw) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [When U Loved Me](https://open.spotify.com/album/6ob1fJyKwsUIIoyjz8PL0w) | 3:11 |
 | 127 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 |
 
-Snapshot ID: `AAAAAG3CDUuxlCMdAvqd7+feEzxt5uAt`
+Snapshot ID: `AAAAAN0CQvpk5y9pM10An+k+6dt+brcZ`

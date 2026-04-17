@@ -141,6 +141,24 @@
     },
     {
       "album": {
+        "name": "Alo",
+        "url": "https://open.spotify.com/album/7gvJTfD0bqq6h9ziaze3tO"
+      },
+      "artists": [
+        {
+          "name": "Maycash",
+          "url": "https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Alo",
+      "url": "https://open.spotify.com/track/3bsk1YJFVOVjJPF7z6QFKD"
+    },
+    {
+      "album": {
         "name": "Aventador",
         "url": "https://open.spotify.com/album/3OGAYjnJmDBvrvnHtQpFb2"
       },
@@ -548,7 +566,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 160000,
       "name": "Liever Alleen",
       "url": "https://open.spotify.com/track/0DwZRtAdpj1LXx7U3m3oko"

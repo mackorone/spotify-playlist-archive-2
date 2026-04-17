@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: <br/>이예린 \(Lee Yerin\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,318 songs - 3 day 7 hr 43 min
+1,319 songs - 3 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Flower](https://open.spotify.com/track/4rvPYhCiaSqv24S4UxqFvJ) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [Flower](https://open.spotify.com/album/4crMQvV6BNVcEu7ei8pnd1) | 3:28 | 2026-01-30 | 2026-03-07 |
 | [Flower 꽃](https://open.spotify.com/track/2RZcBcDje7h7XnINICVJtR) | [Lacuna 라쿠나](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Garden 정원](https://open.spotify.com/album/72cTrdX2EGfSpYdZsyCvLj) | 4:33 | 2022-04-12 | 2022-04-14 |
 | [flowerain](https://open.spotify.com/track/1p0cy7P5OdzZtVJOzhjfSF) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [flowerain](https://open.spotify.com/album/00h8cmaMZFSyKkPAJ4uvTJ) | 2:57 | 2022-03-31 | 2022-04-12 |
+| [Flowering](https://open.spotify.com/track/0xy1eGLBSa6SFxyEzg9gtn) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [clover \#4](https://open.spotify.com/album/25QGxPyc0aQyLlace8HKAQ) | 3:04 | 2026-04-16 |  |
 | [Flowering Plant](https://open.spotify.com/track/3tczgQIb4AoaxandxcWvv5) | [Adios Audio](https://open.spotify.com/artist/5A5DAxEQJ5F7HA4wVVHV8a) | [Sanullim 50th Anniversary full length album, Vol\. 1](https://open.spotify.com/album/544JzJsgzf1hNIygvWN26P) | 3:21 | 2024-11-06 | 2024-11-30 |
 | [flume](https://open.spotify.com/track/39dRSKx7laZF09YQcxgxN1) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [flume](https://open.spotify.com/album/1M8LqBeWt1riIcutig4M1C) | 2:41 | 2022-02-18 | 2022-02-20 |
 | [Fly to me](https://open.spotify.com/track/6KrDSC2vcLc2E6lajkGSw4) | [CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz) | [Fly to me](https://open.spotify.com/album/2Jo2mvplm5HgWP81gsXsSc) | 3:01 | 2022-06-29 | 2022-07-28 |
@@ -582,7 +583,7 @@
 | [Jane.](https://open.spotify.com/track/7eeZR0OkclxBfhAlFd9N4g) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Jane.](https://open.spotify.com/album/6z4IJIFHHEg1Cka8fWBC3E) | 2:54 | 2025-02-06 | 2025-04-11 |
 | [Jayu 자유](https://open.spotify.com/track/5vlUplZyrXnN0bbejrKfqu) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Jayu 자유](https://open.spotify.com/album/2ikSIntGYyG6biNQC0UgnH) | 3:55 | 2022-02-16 | 2022-06-22 |
 | [Jennie2](https://open.spotify.com/track/1pA9VPhiqspHAyEfe3v81W) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Jennie2](https://open.spotify.com/album/5AxSYyIoOWfoV22lyKc4mc) | 3:20 | 2025-10-14 | 2025-11-07 |
-| [Joe](https://open.spotify.com/track/2S6pQwV5E9W0RLp6oNbyiK) | [Potatoi](https://open.spotify.com/artist/0gBPHR1hURnHSHXiiIKVCf) | [Orange Courage](https://open.spotify.com/album/7utBWrEE1OfvsysNTRS6eH) | 3:28 | 2026-03-13 |  |
+| [Joe](https://open.spotify.com/track/2S6pQwV5E9W0RLp6oNbyiK) | [Potatoi](https://open.spotify.com/artist/0gBPHR1hURnHSHXiiIKVCf) | [Orange Courage](https://open.spotify.com/album/7utBWrEE1OfvsysNTRS6eH) | 3:28 | 2026-03-13 | 2026-04-17 |
 | [Jungle Bike](https://open.spotify.com/track/58NiYwHiOAsrl9ayiRYQXE) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Jungle Bike](https://open.spotify.com/album/1FkXoPtPNwDUN1Ow5iwWSW) | 2:46 | 2022-08-04 | 2022-08-24 |
 | [Just a Friend](https://open.spotify.com/track/4cRXmzPshRDVuL1NTGk5c0) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [simsong](https://open.spotify.com/artist/51MWzTgAg8ZIxqyO2Zz0c9) | [Just a Friend](https://open.spotify.com/album/4o5z8EULkN1q4wmNH6qI8W) | 3:36 | 2022-03-31 | 2022-05-13 |
 | [Just As A Lie 거짓말처럼](https://open.spotify.com/track/12rpCeScvPRFTcnKU8Md18) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Short Film 'Sequence \#3'](https://open.spotify.com/album/4N9NQQsJIVX3ftDiFfYJdr) | 4:17 | 2022-03-31 | 2022-04-18 |

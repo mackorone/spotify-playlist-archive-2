@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-383 songs - 1 day 3 hr 42 min
+384 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [HereAfter](https://open.spotify.com/track/76ZzbHJqu3jahM8IhaEHkW) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [HereAfter](https://open.spotify.com/album/3eOpeSAgeHVoLGzXfxvtGu) | 6:03 | 2024-08-08 | 2025-01-14 |
 | [Hicari](https://open.spotify.com/track/5LoCraezdIDtyxCRIQdNLi) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Hicari](https://open.spotify.com/album/5N5zlunO6d2GMuQuUsEYCR) | 1:54 | 2022-05-27 |  |
 | [Hitotoki](https://open.spotify.com/track/7oihgOOxT7CvQrDNF1yDo8) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Hitotoki](https://open.spotify.com/album/3PoEsNjbgIkR1dQtnT1FYT) | 2:41 | 2022-12-20 | 2023-08-19 |
-| [Holy](https://open.spotify.com/track/4tM5iliYtWcS5jSZCHc6rB) | [Twon Lake](https://open.spotify.com/artist/0DWNbLXfqQRTAZz7SJhYuB) | [White Tape](https://open.spotify.com/album/0E6xFj4zYpjWDuIBSf23fe) | 3:55 | 2022-01-07 |  |
+| [Holy](https://open.spotify.com/track/4tM5iliYtWcS5jSZCHc6rB) | [Twon Lake](https://open.spotify.com/artist/0DWNbLXfqQRTAZz7SJhYuB) | [White Tape](https://open.spotify.com/album/0E6xFj4zYpjWDuIBSf23fe) | 3:55 | 2022-01-07 | 2026-04-17 |
 | [Hondou no Kumo](https://open.spotify.com/track/3fd0CkItjLx54Fk9PPQaBf) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 1:55 | 2023-01-06 | 2025-11-29 |
 | [honnkakuha](https://open.spotify.com/track/3SqTFpSAlMdl3J84674IWx) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kimi](https://open.spotify.com/album/7jRxYILcGpWI1ETlXIiNEX) | 2:33 | 2023-09-08 |  |
 | [hope](https://open.spotify.com/track/6UqoRGlpMtKjVuBfVhioL5) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [hope](https://open.spotify.com/album/53Fdq3uJ2ueVXsK4UVRhjq) | 2:43 | 2024-06-07 | 2025-12-03 |
@@ -172,6 +172,7 @@
 | [Körper](https://open.spotify.com/track/5LoatYCsraVXB08X6bhpzO) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Raum](https://open.spotify.com/album/1CPBp6tHWeEUM87bEBCpxS) | 5:55 | 2022-10-15 | 2024-04-19 |
 | [La brise oubliée](https://open.spotify.com/track/0HJ6XZxSibaTLpqJFo8Pj0) | [attic](https://open.spotify.com/artist/51VqZtvqCcpFPdEPN1X1Ku) | [La brise oubliée](https://open.spotify.com/album/5Iik8YsocayeSiVJRuJLdA) | 2:26 | 2025-07-03 | 2025-08-07 |
 | [La Cathédrale Engloutie](https://open.spotify.com/track/0GiSKGYCdQtGXDSCmSxuVb) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [Re.sort](https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9) | 4:04 | 2022-01-07 | 2022-12-21 |
+| [la circulation silencieuse](https://open.spotify.com/track/3E3va6hFvGt05VGGgI9XRt) | [attic](https://open.spotify.com/artist/51VqZtvqCcpFPdEPN1X1Ku) | [la circulation silencieuse](https://open.spotify.com/album/4ZyImCuB2iBG8QTExJIKoa) | 1:52 | 2026-04-08 |  |
 | [Lachrymation](https://open.spotify.com/track/5SCIlWl5oI8QmSgF9j5mjr) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Lachrymation](https://open.spotify.com/album/4av2tDxEG9t4rlssx6XJUT) | 3:59 | 2022-01-07 | 2025-03-20 |
 | [Layer](https://open.spotify.com/track/7CxY2kPVqFLmwePf8YfGZW) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Layer](https://open.spotify.com/album/60lpyOQBN0qHUDHuP2IB9F) | 3:12 | 2025-05-16 |  |
 | [Leaving](https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Leaving](https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT) | 3:43 | 2023-10-13 | 2024-03-08 |

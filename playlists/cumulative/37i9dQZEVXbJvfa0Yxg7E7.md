@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,608 songs - 5 day 16 hr 26 min
+2,609 songs - 5 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2110,6 +2110,7 @@
 | [Sonjas Sang Til Julestjernen](https://open.spotify.com/track/19P1H7kpTEwoFtuiPyBVEc) | [Hanne Krogh](https://open.spotify.com/artist/3uVksNHrN6QwS2m0wzqkWY) | [Julestjerner](https://open.spotify.com/album/1M1Uysx0OAS9QeIkrcVUcW) | 1:59 | 2022-12-05 | 2022-12-27 |
 | [Sorry](https://open.spotify.com/track/4dPjk0ZHgfeEzDyh2YT6jO) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [ISÁK](https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl) | [Sorry \(feat\. ISÁK\)](https://open.spotify.com/album/46bbdjreWFFqBYTKCqh7RX) | 2:45 | 2021-03-27\* | 2021-05-03 |
 | [Sorry](https://open.spotify.com/track/5y2mAAd8UZBRb11RbvfD1H) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Sorry](https://open.spotify.com/album/24kCjukoDPcf6gomKVGevd) | 2:43 | 2021-09-12 | 2021-09-19 |
+| [Sorry](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:20 | 2026-04-16 |  |
 | [Sorry \(feat\. Musti\)](https://open.spotify.com/track/1uWxnUQd05yyOI3M9DeKI8) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67), [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6) | [Sorry \(feat\. Musti\)](https://open.spotify.com/album/1Xc0A1xoKDWNNeLYCvlW5A) | 3:56 | 2021-03-27\* | 2021-05-16 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/15zJeVUmKFnbrxm9dxcxYD) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:36 | 2025-11-18 | 2025-11-20 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-03-01 | 2025-05-11 |
@@ -2469,7 +2470,7 @@
 | [Vi Tenner Våre Lykter](https://open.spotify.com/track/7D4C0tB0unuSzCguxyHp0r) | [Hanne Krogh](https://open.spotify.com/artist/3uVksNHrN6QwS2m0wzqkWY) | [God Jul: Hannes Beste Julesanger](https://open.spotify.com/album/4xt7xlADnEvT070WxKbPuE) | 2:56 | 2021-12-25 | 2021-12-27 |
 | [Vi trenger ikke preke om det](https://open.spotify.com/track/6iRNwzuscGYPlTlmUoeFbp) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Vi trenger ikke preke om det](https://open.spotify.com/album/3qQRUvBOhiJbCl5bbMYa0u) | 2:20 | 2026-01-15 | 2026-02-08 |
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-30 |
-| [Vikingblod](https://open.spotify.com/track/34YF4ZTr6cWQyHsjAmV1Co) | [Oljeberget](https://open.spotify.com/artist/2fpiU89XxYeTRcnPtuEBip), [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Vikingblod](https://open.spotify.com/album/6U7wwnQ9GrWMj4dCvOXky1) | 2:42 | 2026-03-28 |  |
+| [Vikingblod](https://open.spotify.com/track/34YF4ZTr6cWQyHsjAmV1Co) | [Oljeberget](https://open.spotify.com/artist/2fpiU89XxYeTRcnPtuEBip), [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Vikingblod](https://open.spotify.com/album/6U7wwnQ9GrWMj4dCvOXky1) | 2:42 | 2026-03-28 | 2026-04-17 |
 | [Vil Ikke Dele](https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Vil Ikke Dele](https://open.spotify.com/album/2F8IyxW4ddsPxLjYPFwGg3) | 2:15 | 2025-01-18 | 2025-02-23 |
 | [Vill ha dig](https://open.spotify.com/track/7zueKXZbwLlfn5gyfUSI2s) | [Mr\. Melo](https://open.spotify.com/artist/1TRIsAhdyjtScfOMhVKj4D) | [VILL HA DIG](https://open.spotify.com/album/78p0xLgUJuFslzdFQvnwRW) | 3:38 | 2025-07-22 | 2025-08-17 |
 | [Villblomst](https://open.spotify.com/track/5VGfYVvq36GeUPG4DAPUAL) | [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Villblomst](https://open.spotify.com/album/6V7q09UKUA7NIsUHQUnm2e) | 2:37 | 2025-09-20 | 2025-10-19 |

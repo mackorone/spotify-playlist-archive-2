@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,116 songs - 2 day 9 hr 32 min
+1,117 songs - 2 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Follow Up](https://open.spotify.com/track/4zL6ul8QT3MWtnhX10xbiY) | [Dj Brodda](https://open.spotify.com/artist/0hYKwwwNdvLnr5SklZI54A) | [Follow Up](https://open.spotify.com/album/5SDqyDGTlU309fyMolWAzS) | 3:12 | 2026-01-16 |  |
 | [Fool \(feat\. Betty Bloom\)](https://open.spotify.com/track/0z1keLvev9EbAXycMboeRt) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz), [Betty Bloom](https://open.spotify.com/artist/028AENVWICmqAiAj5xXncO) | [Fool \(feat\. Betty Bloom\)](https://open.spotify.com/album/4dasbc6vD7yjIufobTnoOF) | 2:32 | 2024-12-05 | 2025-05-09 |
 | [Foreplay](https://open.spotify.com/track/7zeytstyMc7wsX2e3tu6ME) | [Oscar N \(USA\)](https://open.spotify.com/artist/2Iftoi7IM3hKePgIb85EqG) | [Foreplay](https://open.spotify.com/album/73mvLSXIpIc1HveylH4PwK) | 3:19 | 2025-01-06 |  |
+| [forever](https://open.spotify.com/track/6KV5Xm6lewOAt8byWtff0F) | [Trance Mums](https://open.spotify.com/artist/78NwP5P1DANlGdmzjBOi9w) | [forever](https://open.spotify.com/album/5wVeADP9SjRlqqg2y7BTCS) | 2:25 | 2026-04-16 |  |
 | [Found My Way](https://open.spotify.com/track/6mmMwIHSjffwyz1n91py9s) | [NEVERGLOW](https://open.spotify.com/artist/2K7Hlrg5cti0mVKx4l0Rwz), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC), [B Martin](https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD) | [Found My Way](https://open.spotify.com/album/5bYYvUjqFjDGipDsiO5opJ) | 2:26 | 2024-12-05 | 2025-01-09 |
 | [Found Myself](https://open.spotify.com/track/0y5cXO3YMMTw7I7uniOIpo) | [Yellow Is The New White](https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u), [Febration](https://open.spotify.com/artist/2nJONDf5g9CPy0oH9mGQEM) | [Found Myself](https://open.spotify.com/album/61wXkMuDCQxg9z0IMn9naR) | 2:56 | 2023-02-12 | 2023-03-25 |
 | [Freak \- GREG 99 Remix](https://open.spotify.com/track/0HtQwyWR5sCO45FfeMmCqo) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [GREG 99](https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp) | [Freak \(GREG 99 Remix\)](https://open.spotify.com/album/42FGoEHVrhMCRN4aZKGKUN) | 2:45 | 2025-02-07 |  |

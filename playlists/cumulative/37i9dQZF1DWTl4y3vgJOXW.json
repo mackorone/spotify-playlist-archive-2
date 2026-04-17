@@ -16287,6 +16287,24 @@
     },
     {
       "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/7kZkch5axDOIoTT2hQMuFT"
+      },
+      "artists": [
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/11S1sUabJj7rArvWDFb491"
+    },
+    {
+      "album": {
         "name": "TGIF (Alternate Versions)",
         "url": "https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD"
       },

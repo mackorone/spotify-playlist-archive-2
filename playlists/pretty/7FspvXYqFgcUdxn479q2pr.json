@@ -1,13 +1,33 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31643,
+  "num_followers": 31642,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAvyGtssviANVDqCCf967IbCU4TyAaa",
+  "snapshot_id": "AAAvzbbshUlTLIQkfEy6RpsjVFlw6yWh",
   "tracks": [
+    {
+      "added_at": "2026-04-16 22:00:04",
+      "album": {
+        "name": "D\u00e9senchant\u00e9e 3000",
+        "url": "https://open.spotify.com/album/4Av5NxZsaLYPkFTqdJJ4TZ"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 184965,
+      "name": "D\u00e9senchant\u00e9e 3000",
+      "url": "https://open.spotify.com/track/7kKk5e4iAABsp1LM02SBBc"
+    },
     {
       "added_at": "2026-04-10 08:17:14",
       "album": {
@@ -31,6 +51,58 @@
       "duration_ms": 190013,
       "name": "Awake Tonight",
       "url": "https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP"
+    },
+    {
+      "added_at": "2026-04-16 22:00:08",
+      "album": {
+        "name": "forever",
+        "url": "https://open.spotify.com/album/5wVeADP9SjRlqqg2y7BTCS"
+      },
+      "artists": [
+        {
+          "name": "Trance Mums",
+          "url": "https://open.spotify.com/artist/78NwP5P1DANlGdmzjBOi9w"
+        }
+      ],
+      "duration_ms": 145603,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/6KV5Xm6lewOAt8byWtff0F"
+    },
+    {
+      "added_at": "2026-04-16 22:00:02",
+      "album": {
+        "name": "Filhos de Zambi",
+        "url": "https://open.spotify.com/album/2FovD5KYyQQ6aJK9eBlLuX"
+      },
+      "artists": [
+        {
+          "name": "Joshua Robbie",
+          "url": "https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ"
+        },
+        {
+          "name": "Dolore",
+          "url": "https://open.spotify.com/artist/6SvOamW1u9CE5YicXDZrrg"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Filhos de Zambi",
+      "url": "https://open.spotify.com/track/1yFvtXJkaf6TvvQIeydsgQ"
+    },
+    {
+      "added_at": "2026-04-16 22:00:06",
+      "album": {
+        "name": "Inside This Room",
+        "url": "https://open.spotify.com/album/3guP2LE0HLHwyoqweuEoYF"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        }
+      ],
+      "duration_ms": 192608,
+      "name": "Inside This Room",
+      "url": "https://open.spotify.com/track/4zTS6PkVA4MwOQMTqXDbCd"
     },
     {
       "added_at": "2026-04-09 14:44:15",

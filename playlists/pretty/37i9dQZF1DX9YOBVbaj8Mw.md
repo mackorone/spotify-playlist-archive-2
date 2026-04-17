@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,304 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,303 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,16 +31,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 21 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 |
 | 22 | [Tango Porcjarza](https://open.spotify.com/track/6NkDVpzHieLBfdSa69uF8k) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [XX](https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL) | 3:21 |
 | 23 | [Kochaj](https://open.spotify.com/track/0BIinvAbW4ka0Hb9i8DBLT) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [ZGŁOWY](https://open.spotify.com/album/3XIDxziYfm9hhIUVQMbS4u) | 3:22 |
-| 24 | [TYLE MAM](https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv) | [ĆPAJ STAJL](https://open.spotify.com/artist/1mAoRpDy7J3s5jX96Bm5jF), [Cool P](https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV), [DJ CRACK\-R](https://open.spotify.com/artist/1pzbygMlr2pl7rD7rEQk3P) | [BIAŁE SZALEŃSTWO](https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9) | 2:34 |
-| 25 | [Można](https://open.spotify.com/track/77hzpC7B8W8GqLmY6XI2fi) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Kasia i Błażej](https://open.spotify.com/album/6UH0UcgRruP71UGChmwNCi) | 4:00 |
+| 24 | [Można](https://open.spotify.com/track/77hzpC7B8W8GqLmY6XI2fi) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Kasia i Błażej](https://open.spotify.com/album/6UH0UcgRruP71UGChmwNCi) | 4:00 |
+| 25 | [TYLE MAM](https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv) | [ĆPAJ STAJL](https://open.spotify.com/artist/1mAoRpDy7J3s5jX96Bm5jF), [Cool P](https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV), [DJ CRACK\-R](https://open.spotify.com/artist/1pzbygMlr2pl7rD7rEQk3P) | [BIAŁE SZALEŃSTWO](https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9) | 2:34 |
 | 26 | [Gymnopedie](https://open.spotify.com/track/6sw7RatlLS3neerVArXPKu) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Passacaglia](https://open.spotify.com/album/0oclKCCHh2pgR5M5bolNST) | 3:42 |
 | 27 | [Together \- Pejzaż Remix](https://open.spotify.com/track/6kVLk2VH5SxaOA3RRFrLt7) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q), [Pejzaż](https://open.spotify.com/artist/5PWnUGbA3SNGNE7U9YPnXH) | [Recut](https://open.spotify.com/album/5vJeXyvdrDhN91UZd1tmQ7) | 4:10 |
 | 28 | [Miłego lata](https://open.spotify.com/track/2uN7ueBbQDExGTiJD5kchM) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny](https://open.spotify.com/album/5jGt4gP9qMEc0SALUvTIUk) | 2:42 |
 | 29 | [Zaopiekuj się mną](https://open.spotify.com/track/2ARY8GEdjYuyo5FrNnRUYn) | [KARAŚ/ROGUCKI](https://open.spotify.com/artist/1ZAGaCgMaOtt2yOUm1Qq6x) | [Atlas Iskier](https://open.spotify.com/album/6oi4yuECBxANeBl9Y21AGU) | 4:13 |
 | 30 | [Skacz ze mną na bombę](https://open.spotify.com/track/5MvaJfO0ojGBdhHFnu11QN) | [Małpa](https://open.spotify.com/artist/4Oy0tTQfhCKKaBPkQJhZHK), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb), [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Na południu bez zmian](https://open.spotify.com/album/4kpClwjCLjrJik61hEUc0G) | 3:38 |
 | 31 | [Sama na planecie](https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:22 |
-| 32 | [Warszawa Wschodnia](https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6) | [Tomasz Makowiecki](https://open.spotify.com/artist/5BndU3xioxu02gpARK3ssF) | [Bailando](https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe) | 4:43 |
-| 33 | [Zagrajmy](https://open.spotify.com/track/4p9Z6HmEeO3ucTOmgpbgf9) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Czekam na świt](https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n) | 3:16 |
+| 32 | [Zagrajmy](https://open.spotify.com/track/4p9Z6HmEeO3ucTOmgpbgf9) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Czekam na świt](https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n) | 3:16 |
+| 33 | [Warszawa Wschodnia](https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6) | [Tomasz Makowiecki](https://open.spotify.com/artist/5BndU3xioxu02gpARK3ssF) | [Bailando](https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe) | 4:43 |
 | 34 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:27 |
 | 35 | [Zima](https://open.spotify.com/track/1lpDXgomCsKmXUl2yRRaLH) | [Bogdan Kondracki](https://open.spotify.com/artist/5A3i0bsXUJf3menS0aSKq0), [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Cudze rady psują mi życie](https://open.spotify.com/album/72gEeFKWNw8mqXxdiscM20) | 3:57 |
 | 36 | [Północ](https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:17 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 78 | [Morning Sea](https://open.spotify.com/track/0IBQDcU3f1m5fs3xgc8tEr) | [Szymon Zawodny Quintet](https://open.spotify.com/artist/1FzZFGg0D2C6v8tF3B314n) | [Zero Waste](https://open.spotify.com/album/0wSbtYIaTVvnvFiqhvCF9P) | 3:09 |
 | 79 | [Boozing](https://open.spotify.com/track/2NZeUYUdcNljussjj0rkvZ) | [Henryk Miskiewicz](https://open.spotify.com/artist/76vMiiQed2ErHD9VMnl6Ie), [Chopin University Big Band](https://open.spotify.com/artist/1MYHzClHBMXiGszv6dVQeY), [Piotr Kostrzewa](https://open.spotify.com/artist/4Y6wgs2MdhYn22SQnsO4pB) | [Come back...](https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v) | 6:03 |
 
-Snapshot ID: `aKMumQAAAACmEZ7KRQZSxT+4xfpnyaGN`
+Snapshot ID: `AAAAAAz+jBLzlGeF0S0zXKGlToVPewAZ`

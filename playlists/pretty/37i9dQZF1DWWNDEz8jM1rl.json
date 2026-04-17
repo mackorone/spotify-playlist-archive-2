@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 156232,
+  "num_followers": 156271,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
+        "name": "DIOS es el que SABE",
+        "url": "https://open.spotify.com/album/4LDQzDoBvcbkNCc9DUsKKg"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "DIOS es el que SABE",
+      "url": "https://open.spotify.com/track/7oRUdU5tPb4CRKnFILi8qL"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
         "name": "Conectao",
         "url": "https://open.spotify.com/album/1fo3maaIHMFeNjeR1KrtKF"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 179753,
       "name": "Conectao",
       "url": "https://open.spotify.com/track/7BsOW4E8b7BEfKsvrD9R0X"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
-        "name": "DIOS es el que SABE",
-        "url": "https://open.spotify.com/album/4LDQzDoBvcbkNCc9DUsKKg"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "DIOS es el que SABE",
-      "url": "https://open.spotify.com/track/7oRUdU5tPb4CRKnFILi8qL"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
+        "name": "TE QUIERO A MI LAU <3",
+        "url": "https://open.spotify.com/album/77AGAXhsDQPkj37PypBlne"
+      },
+      "artists": [
+        {
+          "name": "Pauneto",
+          "url": "https://open.spotify.com/artist/1cs6ODU6Bu1cxX7nqsBC7W"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "TE QUIERO A MI LAU <3",
+      "url": "https://open.spotify.com/track/633xpklRiB5wdid6tmzBdQ"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
         "name": "Esto es Otra Cosa",
         "url": "https://open.spotify.com/album/6lowaja53FwTaGjHnc3she"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 231013,
       "name": "Nueva Temporada",
       "url": "https://open.spotify.com/track/0xCF4lhRRnqgrm9Ey1FCDx"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
-        "name": "TE QUIERO A MI LAU <3",
-        "url": "https://open.spotify.com/album/77AGAXhsDQPkj37PypBlne"
-      },
-      "artists": [
-        {
-          "name": "Pauneto",
-          "url": "https://open.spotify.com/artist/1cs6ODU6Bu1cxX7nqsBC7W"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "TE QUIERO A MI LAU <3",
-      "url": "https://open.spotify.com/track/633xpklRiB5wdid6tmzBdQ"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -831,26 +831,18 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/5ydJx6BvJ2Az5N6ZEfXznw"
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
       },
       "artists": [
         {
-          "name": "Ariel Ramirez",
-          "url": "https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv"
-        },
-        {
-          "name": "Jadi Torres",
-          "url": "https://open.spotify.com/artist/2qK5GWkN7jKSM5GOAzD564"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 217253,
-      "name": "Invencible",
-      "url": "https://open.spotify.com/track/6bRVHuWfivG1EkMaUdPvZ7"
+      "duration_ms": 254135,
+      "name": "Antes Que Salga El Sol",
+      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -875,18 +867,26 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/5ydJx6BvJ2Az5N6ZEfXznw"
       },
       "artists": [
         {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+          "name": "Ariel Ramirez",
+          "url": "https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv"
+        },
+        {
+          "name": "Jadi Torres",
+          "url": "https://open.spotify.com/artist/2qK5GWkN7jKSM5GOAzD564"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
         }
       ],
-      "duration_ms": 254135,
-      "name": "Antes Que Salga El Sol",
-      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
+      "duration_ms": 217253,
+      "name": "Invencible",
+      "url": "https://open.spotify.com/track/6bRVHuWfivG1EkMaUdPvZ7"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 291112,
+      "name": "Veo Tu Gloria",
+      "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
         "name": "Cubana",
         "url": "https://open.spotify.com/album/5605UFRgEq28zlWSa5Q0K5"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 186750,
       "name": "Cubana",
       "url": "https://open.spotify.com/track/6LcXSW7D6XH5BzBFeCM9OX"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 291112,
-      "name": "Veo Tu Gloria",
-      "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -1003,6 +1003,26 @@
       "duration_ms": 206959,
       "name": "Locura",
       "url": "https://open.spotify.com/track/5hHDsJhk22leT1ve97m70j"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
+        "name": "BUENO",
+        "url": "https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG"
+      },
+      "artists": [
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        },
+        {
+          "name": "Isaani Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk"
+        }
+      ],
+      "duration_ms": 168214,
+      "name": "BUENO",
+      "url": "https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -1035,22 +1055,18 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "BUENO",
-        "url": "https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG"
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
       },
       "artists": [
         {
-          "name": "Nate Diaz",
-          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
-        },
-        {
-          "name": "Isaani Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk"
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
         }
       ],
-      "duration_ms": 168214,
-      "name": "BUENO",
-      "url": "https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8"
+      "duration_ms": 142306,
+      "name": "Gracia Divina",
+      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -1067,22 +1083,6 @@
       "duration_ms": 162751,
       "name": "No se Compara",
       "url": "https://open.spotify.com/track/0VGrYOOefuaJSlr0OHmDOR"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
-      },
-      "artists": [
-        {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
-        }
-      ],
-      "duration_ms": 142306,
-      "name": "Gracia Divina",
-      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "Bueno",
-        "url": "https://open.spotify.com/album/7mX06PtvfDeBhuORXU96z3"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 175636,
-      "name": "Bueno",
-      "url": "https://open.spotify.com/track/52vDuygHaa5PnaW0as9jzy"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
         "name": "La Verdad EP",
         "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 182474,
       "name": "Quema",
       "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
+        "name": "Bueno",
+        "url": "https://open.spotify.com/album/7mX06PtvfDeBhuORXU96z3"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 175636,
+      "name": "Bueno",
+      "url": "https://open.spotify.com/track/52vDuygHaa5PnaW0as9jzy"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -1307,30 +1307,18 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "Segunda Vida",
-        "url": "https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD"
+        "name": "Mes\u00edas",
+        "url": "https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW"
       },
       "artists": [
         {
-          "name": "Kingdom & Culture",
-          "url": "https://open.spotify.com/artist/4xC5LBd0us1IX0V80JouyT"
-        },
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        },
-        {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+          "name": "Dexter Music",
+          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
         }
       ],
-      "duration_ms": 157168,
-      "name": "Segunda Vida",
-      "url": "https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv"
+      "duration_ms": 324017,
+      "name": "Mes\u00edas",
+      "url": "https://open.spotify.com/track/2i0aHf1chYGjmpZuERxji9"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -1363,18 +1351,30 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "Mes\u00edas",
-        "url": "https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW"
+        "name": "Segunda Vida",
+        "url": "https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD"
       },
       "artists": [
         {
-          "name": "Dexter Music",
-          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
+          "name": "Kingdom & Culture",
+          "url": "https://open.spotify.com/artist/4xC5LBd0us1IX0V80JouyT"
+        },
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        },
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         }
       ],
-      "duration_ms": 324017,
-      "name": "Mes\u00edas",
-      "url": "https://open.spotify.com/track/2i0aHf1chYGjmpZuERxji9"
+      "duration_ms": 157168,
+      "name": "Segunda Vida",
+      "url": "https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "Probar de Ti",
-        "url": "https://open.spotify.com/album/1lLEMRz0K45OG2SOGTKjfe"
-      },
-      "artists": [
-        {
-          "name": "Samuel Troc",
-          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
-        },
-        {
-          "name": "Art Aguilera",
-          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
-        }
-      ],
-      "duration_ms": 153366,
-      "name": "Probar de Ti",
-      "url": "https://open.spotify.com/track/2p2qsi2FkSPk51Smr5w8ZQ"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
         "name": "Jesucristo Me Toco (En Vivo)",
         "url": "https://open.spotify.com/album/2NP0fYbcms52HQgQlticFX"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 219559,
       "name": "Jesucristo Me Toco - En Vivo",
       "url": "https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
+        "name": "Probar de Ti",
+        "url": "https://open.spotify.com/album/1lLEMRz0K45OG2SOGTKjfe"
+      },
+      "artists": [
+        {
+          "name": "Samuel Troc",
+          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
+        },
+        {
+          "name": "Art Aguilera",
+          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
+        }
+      ],
+      "duration_ms": 153366,
+      "name": "Probar de Ti",
+      "url": "https://open.spotify.com/track/2p2qsi2FkSPk51Smr5w8ZQ"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "Celebra",
-        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Celebra",
-      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
         "name": "Tu Eres Mi Alegr\u00eda",
         "url": "https://open.spotify.com/album/0RoX4wyu0X44BsiILlt41z"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 208321,
       "name": "Tu Eres Mi Alegr\u00eda",
       "url": "https://open.spotify.com/track/3hKH4XhqFAFWaPz8ZSkcyg"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
+        "name": "Celebra",
+        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Celebra",
+      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "LA CARRERA",
-        "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
-      },
-      "artists": [
-        {
-          "name": "LINARES",
-          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
-        },
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
-        }
-      ],
-      "duration_ms": 177605,
-      "name": "LA CARRERA",
-      "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
         "name": "Vers\u00e1til, Vol. 2",
         "url": "https://open.spotify.com/album/4bw9eGTsSxRwgvDlKsuPbT"
       },
@@ -1627,18 +1607,22 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
-        "name": "SE\u00d1ALES",
-        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
+        "name": "LA CARRERA",
+        "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
       },
       "artists": [
         {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        },
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
         }
       ],
-      "duration_ms": 135737,
-      "name": "TE ENCONTRE",
-      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
+      "duration_ms": 177605,
+      "name": "LA CARRERA",
+      "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -1667,6 +1651,22 @@
       "duration_ms": 209316,
       "name": "Del Agua Al Cielo",
       "url": "https://open.spotify.com/track/1eDMdg30D6ylaY3cFhKeva"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
+        "name": "SE\u00d1ALES",
+        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
+      },
+      "artists": [
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+        }
+      ],
+      "duration_ms": 135737,
+      "name": "TE ENCONTRE",
+      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
     },
     {
       "added_at": "2026-03-23 15:09:03",
@@ -1755,6 +1755,46 @@
     {
       "added_at": "2026-03-23 15:09:03",
       "album": {
+        "name": "Amor Verdadero",
+        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
+      },
+      "artists": [
+        {
+          "name": "Abel Xanders",
+          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
+        }
+      ],
+      "duration_ms": 203271,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
+        "name": "\u00a1C\u00f3mo no Hablar!",
+        "url": "https://open.spotify.com/album/0wgi4e3pNkO9fXcmWNHELB"
+      },
+      "artists": [
+        {
+          "name": "Familia Emanuel Worship",
+          "url": "https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak"
+        },
+        {
+          "name": "Hern\u00e1n De Arco",
+          "url": "https://open.spotify.com/artist/1Wgt3tScbP5NBX7hQhBJOr"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        }
+      ],
+      "duration_ms": 208760,
+      "name": "\u00a1C\u00f3mo no Hablar!",
+      "url": "https://open.spotify.com/track/1meqrG2mSGdLX3RBweHorZ"
+    },
+    {
+      "added_at": "2026-03-23 15:09:03",
+      "album": {
         "name": "MOSAICO",
         "url": "https://open.spotify.com/album/6yzQXnVwzW94yNLFDw6VKE"
       },
@@ -1795,46 +1835,6 @@
       "duration_ms": 163839,
       "name": "Todito",
       "url": "https://open.spotify.com/track/5KxqJXclcIpKbMRa9XyQRG"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
-        "name": "Amor Verdadero",
-        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
-      },
-      "artists": [
-        {
-          "name": "Abel Xanders",
-          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
-        }
-      ],
-      "duration_ms": 203271,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
-    },
-    {
-      "added_at": "2026-03-23 15:09:03",
-      "album": {
-        "name": "\u00a1C\u00f3mo no Hablar!",
-        "url": "https://open.spotify.com/album/0wgi4e3pNkO9fXcmWNHELB"
-      },
-      "artists": [
-        {
-          "name": "Familia Emanuel Worship",
-          "url": "https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak"
-        },
-        {
-          "name": "Hern\u00e1n De Arco",
-          "url": "https://open.spotify.com/artist/1Wgt3tScbP5NBX7hQhBJOr"
-        },
-        {
-          "name": "Travy Joe",
-          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
-        }
-      ],
-      "duration_ms": 208760,
-      "name": "\u00a1C\u00f3mo no Hablar!",
-      "url": "https://open.spotify.com/track/1meqrG2mSGdLX3RBweHorZ"
     },
     {
       "added_at": "2026-03-23 15:09:03",

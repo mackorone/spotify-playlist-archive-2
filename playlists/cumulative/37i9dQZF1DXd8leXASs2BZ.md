@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: ORIGAMI
 
-1,444 songs - 2 day 18 hr 36 min
+1,445 songs - 2 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1327,6 +1327,7 @@
 | [Youth](https://open.spotify.com/track/5cacwNDm744DRT4ja7je6t) | [Ole](https://open.spotify.com/artist/7m9yK07LzbtyQCfhtNkUEd), [ggoyle](https://open.spotify.com/artist/1aZM18HplOP2ZfNIcRT9NM) | [PSP4000](https://open.spotify.com/album/10Z9oRfsym5hoPSOofIxw0) | 2:16 | 2024-02-13 | 2024-03-27 |
 | [YOYU \(feat\. N.i.L\)](https://open.spotify.com/track/2Xz6e530NFdiWrgDgRAQNl) | [Henny K](https://open.spotify.com/artist/5kHlhiDhgmsqZldMC6hPoL), [N.i.L](https://open.spotify.com/artist/3ztRYxZ6IKW7xXpobGus7o) | [REBOOT](https://open.spotify.com/album/0d6kepG8MA1sr40p1HbQQZ) | 2:16 | 2025-11-18 | 2026-01-21 |
 | [YUKI](https://open.spotify.com/track/5KjyspvAkdJu7YwcV1Fz6f) | [ORCO](https://open.spotify.com/artist/6nofUffzNKs9FFeO6oYeZn), [BHS Svve](https://open.spotify.com/artist/6uFfH7ZHSnHMXjNCgpIWb2) | [YUKI](https://open.spotify.com/album/3kVh6iJsBiSex81wQvgJc2) | 3:12 | 2025-06-03 | 2025-09-10 |
+| [Yung Lil Face](https://open.spotify.com/track/2MZLM5bhNCz2JPqcGjg2vQ) | [11](https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa) | [Yung Lil Face](https://open.spotify.com/album/5GWqWlzSxyfSQDobIzzU4y) | 2:24 | 2026-04-15 |  |
 | [YURARI](https://open.spotify.com/track/3LCQs7a5ImmtqC4RhZV3mY) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [YURARI](https://open.spotify.com/album/246iMfvhwWDy7qRFLKMSJL) | 2:26 | 2025-12-02 | 2026-01-28 |
 | [YUTAKA](https://open.spotify.com/track/11VuEf8R7gASDb6EbgWtqz) | [東京感性](https://open.spotify.com/artist/1fSgB8zXVtsaLofBtgVXne) | [YUTAKA](https://open.spotify.com/album/0lAp8PyIJCZWdoIqg4MF6a) | 3:19 | 2025-11-18 | 2026-02-04 |
 | [YUTORI](https://open.spotify.com/track/1oCRKBSES8Z8n0bIAKNtcP) | [ENEL](https://open.spotify.com/artist/5UyerN25hRt7bD2tnAvxdg), [Slay4](https://open.spotify.com/artist/5nB5QcOVvlHCTvoAuMpivc), [krynX](https://open.spotify.com/artist/1py5oZLR8kK3me6CZFcaQo) | [YUTORI](https://open.spotify.com/album/3JJig2quAq3JSzk5EsanoC) | 2:45 | 2026-02-25 | 2026-03-25 |

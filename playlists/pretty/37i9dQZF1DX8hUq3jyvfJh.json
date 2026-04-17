@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:3f5VCwd57gZsqMad28jyLV\">Maria Beth\u00e2nia</a>.",
-  "num_followers": 192737,
+  "num_followers": 192747,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "L\u00e1 Vem Voc\u00ea",
-        "url": "https://open.spotify.com/album/0dSPkm4Rd4YwrMt8f75yiv"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        },
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 145130,
-      "name": "L\u00e1 Vem Voc\u00ea",
-      "url": "https://open.spotify.com/track/3zzcfYi62uc81Vkoc89kbD"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Gerando na Alta",
         "url": "https://open.spotify.com/album/4BSFDWZXGcfjqteEakRbvb"
       },
@@ -699,6 +679,26 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
+        "name": "L\u00e1 Vem Voc\u00ea",
+        "url": "https://open.spotify.com/album/0dSPkm4Rd4YwrMt8f75yiv"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        },
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 145130,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/3zzcfYi62uc81Vkoc89kbD"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
         "name": "P\u00f5e Esperan\u00e7a Nisso",
         "url": "https://open.spotify.com/album/6CC7VWHHDS4sPvo9f60zNA"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Besta",
-        "url": "https://open.spotify.com/album/4AJK2ki88LpMNnUcTJoIEK"
-      },
-      "artists": [
-        {
-          "name": "Bruna Alimonda",
-          "url": "https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng"
-        }
-      ],
-      "duration_ms": 181136,
-      "name": "Besta",
-      "url": "https://open.spotify.com/track/1OsiHpk6nTYGHMPRhwfAud"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Caras E Bocas",
         "url": "https://open.spotify.com/album/73gyxoh7akWRRrv78uJC1o"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 209266,
       "name": "Louca Me Chamam (Crazy He Call's Me)",
       "url": "https://open.spotify.com/track/1PRgQsAd2MJaCKuD3bUhUz"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "Besta",
+        "url": "https://open.spotify.com/album/4AJK2ki88LpMNnUcTJoIEK"
+      },
+      "artists": [
+        {
+          "name": "Bruna Alimonda",
+          "url": "https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng"
+        }
+      ],
+      "duration_ms": 181136,
+      "name": "Besta",
+      "url": "https://open.spotify.com/track/1OsiHpk6nTYGHMPRhwfAud"
     },
     {
       "added_at": "2026-04-01 03:00:06",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 BLANCO in cover",
+  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 Sarah Toscano in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 222122,
       "name": "16 MARZO (con Achille Lauro)",
       "url": "https://open.spotify.com/track/01TUkBH9V8oHCf2BkqOZUG"
@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Amore Mio",
+        "url": "https://open.spotify.com/album/16paxUbOzbSJPs21qcIDp7"
+      },
+      "artists": [
+        {
+          "name": "Sissi",
+          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170528,
+      "name": "Amore Mio",
+      "url": "https://open.spotify.com/track/7BeDxg0gxPargyAeyXiyfr"
+    },
+    {
+      "album": {
         "name": "Anche a vent\u2019anni si muore",
         "url": "https://open.spotify.com/album/5ia2NfmJrcmFBZcX5GVloM"
       },
@@ -688,7 +706,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 153277,
       "name": "ANCORA",
       "url": "https://open.spotify.com/track/0wpHfNrcHhorXg5hAShozc"
@@ -840,7 +858,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 154434,
       "name": "ASPETTANDO PRIMAVERA",
       "url": "https://open.spotify.com/track/7MyzOTWTUIB2gczr0nCdu3"
@@ -2042,7 +2060,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 172769,
       "name": "Colpo di stato",
       "url": "https://open.spotify.com/track/6HL5aWVABB5ViuM1VMvtOk"
@@ -2140,6 +2158,24 @@
       "duration_ms": 188624,
       "name": "COMPLICI",
       "url": "https://open.spotify.com/track/4mXxduWkCzPG5Fk6wqg2G7"
+    },
+    {
+      "album": {
+        "name": "Comuni Immortali",
+        "url": "https://open.spotify.com/album/2fip0ycNIWi34aIEaderBP"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207831,
+      "name": "Comuni Immortali",
+      "url": "https://open.spotify.com/track/1VsUaDLGDWdaITdEB8BZmY"
     },
     {
       "album": {
@@ -3589,6 +3625,24 @@
     },
     {
       "album": {
+        "name": "Foto Mosse",
+        "url": "https://open.spotify.com/album/1ojLCqMPY82wmoI49yHw7e"
+      },
+      "artists": [
+        {
+          "name": "Arisa",
+          "url": "https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193386,
+      "name": "Foto mosse",
+      "url": "https://open.spotify.com/track/5RcXnnGbvoYmIW3KWAjehp"
+    },
+    {
+      "album": {
         "name": "FOTOGRAFIA",
         "url": "https://open.spotify.com/album/33uyidreFCPnfn0sgERJeR"
       },
@@ -4300,7 +4354,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 198093,
       "name": "Il tuo profumo",
       "url": "https://open.spotify.com/track/48F1Mu2S2Fk1L44QrQcS2f"
@@ -4954,6 +5008,24 @@
       "duration_ms": 199615,
       "name": "LA PARTE MIGLIORE DI ME",
       "url": "https://open.spotify.com/track/51miOIJTThgonu4p9QcSVJ"
+    },
+    {
+      "album": {
+        "name": "LA PI\u00d9 BELLA DEL MONDO",
+        "url": "https://open.spotify.com/album/4dTqYKAZbwKptg49MlwDlP"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173179,
+      "name": "LA PI\u00d9 BELLA DEL MONDO",
+      "url": "https://open.spotify.com/track/0G2g4DpwQ9qxuq3JvXMnA9"
     },
     {
       "album": {
@@ -6523,6 +6595,24 @@
     },
     {
       "album": {
+        "name": "Mwasi Chou",
+        "url": "https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ"
+      },
+      "artists": [
+        {
+          "name": "Epoque",
+          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155689,
+      "name": "Mwasi Chou",
+      "url": "https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte"
+    },
+    {
+      "album": {
         "name": "NERO GOTICO",
         "url": "https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg"
       },
@@ -7788,7 +7878,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 151558,
       "name": "Piove Metallo",
       "url": "https://open.spotify.com/track/5VIuELxegdSs0nwVfjuJos"
@@ -9864,7 +9954,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 224400,
       "name": "Stupido pensiero (feat. Elisa)",
       "url": "https://open.spotify.com/track/4w6JWbj7B7YlhjxHta6hnq"
@@ -10248,6 +10338,24 @@
       "duration_ms": 182923,
       "name": "TORRE DI BABELE",
       "url": "https://open.spotify.com/track/77E6NrYw1wBVmHBiNQyoR0"
+    },
+    {
+      "album": {
+        "name": "BITTE LEBEN",
+        "url": "https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy"
+      },
+      "artists": [
+        {
+          "name": "Francamente",
+          "url": "https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy"
     },
     {
       "album": {
@@ -11015,6 +11123,28 @@
     },
     {
       "album": {
+        "name": "DISINCANTO",
+        "url": "https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "VOLEVO CAPIRE CON MARRACASH",
+      "url": "https://open.spotify.com/track/6UrPST46XxYPqbAAThhSMS"
+    },
+    {
+      "album": {
         "name": "Volevo essere un duro",
         "url": "https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT"
       },
@@ -11062,7 +11192,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 142702,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/2f0xOtq4RcnelcBQRpcfBp"

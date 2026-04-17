@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasuki Vaibhav
 
-649 songs - 1 day 12 hr 53 min
+650 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,7 @@
 | [Preethiya Geleyane](https://open.spotify.com/track/0yU8PWvIvn7jo01WpyzB7x) | [Savishri](https://open.spotify.com/artist/0fnz0R41yiKKRTkKiBIubJ) | [Preethiya Geleyane](https://open.spotify.com/album/6476ZX7SPEpEG7cIOFQCRi) | 3:57 | 2024-11-20 | 2025-04-17 |
 | [Preetiye](https://open.spotify.com/track/4aXgkyxFn7c0tMOHgUdhet) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Preetiye](https://open.spotify.com/album/3CvlEQEBS8oUKbAZUfWwEo) | 1:05 | 2023-08-23 | 2024-04-04 |
 | [Prema Sagara](https://open.spotify.com/track/1HQ1ODNrcw6t1I7iIUZQ0p) | [Manikanta Naik Puttur](https://open.spotify.com/artist/2dLmrYEdVGzU8QITguTmDf) | [Prema Sagara](https://open.spotify.com/album/4UU73MuvQoCzYc4CdIGmwO) | 4:19 | 2023-05-25 | 2023-06-08 |
-| [Premada Raagini](https://open.spotify.com/track/2jOi8LoHhkLerCfoKkzYLR) | [Roshan Bhat](https://open.spotify.com/artist/21qGWaUNzb7MiK33Gvmm0T) | [Premada Raagini](https://open.spotify.com/album/58taMSGbTmIhAqX0hfVCNz) | 3:02 | 2025-11-10 |  |
+| [Premada Raagini](https://open.spotify.com/track/2jOi8LoHhkLerCfoKkzYLR) | [Roshan Bhat](https://open.spotify.com/artist/21qGWaUNzb7MiK33Gvmm0T) | [Premada Raagini](https://open.spotify.com/album/58taMSGbTmIhAqX0hfVCNz) | 3:02 | 2025-11-10 | 2026-04-17 |
 | [Premigala Gamanakke \(Title Track\)](https://open.spotify.com/track/0Iu7JKJsQD3Sff7EwOMrwH) | [Manju Kavi](https://open.spotify.com/artist/5NQxCtMc9L8j1ZKsh13s4Q), [Meghana Haliyal](https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i) | [Premigala Gamanakke](https://open.spotify.com/album/1Y7sK3Fc3KBN95Ww27uOSL) | 4:25 | 2025-11-11 |  |
 | [Psych Boy](https://open.spotify.com/track/4zVzWfJ7fELjRrWxWvjHIF) | [X Paapi Psycho](https://open.spotify.com/artist/2xVVYDPi4Kb3pMrV47nrww), [Nandan V R](https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a) | [Psych Boy](https://open.spotify.com/album/1KjvaQIdZq8YfChkgCGDx7) | 2:10 | 2023-05-26 | 2024-01-23 |
 | [Queen](https://open.spotify.com/track/3ZwA5XT8yNMktFl41qfwfu) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [God Movess](https://open.spotify.com/album/16x5VIDSCWPmpSCjt06v5K) | 2:45 | 2023-07-13 | 2023-07-22 |
@@ -582,6 +582,7 @@
 | [Shiva](https://open.spotify.com/track/5NSLb3aHUk8RaVyuCEGwJ3) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Gagan Baderiya](https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq) | [Shiva](https://open.spotify.com/album/6AB4QHFgID7VKotMPva48Q) | 3:42 | 2025-02-24 | 2025-08-12 |
 | [Shiva Shiva](https://open.spotify.com/track/6Uhwoz3nDGC4ih9y9t49Px) | [Dhananjay Keys](https://open.spotify.com/artist/4Kil8poSmTgXmNzSYKqMlY) | [Shiva Shiva](https://open.spotify.com/album/1D150acI9mxmtQKus3Xhau) | 2:58 | 2024-08-22 | 2025-03-05 |
 | [Shooters](https://open.spotify.com/track/5MrPRW711LRR69yGCZ36DS) | [SU5](https://open.spotify.com/artist/4ej8BS6AG7RMz8txpauJjE) | [Shooters](https://open.spotify.com/album/5dsiDqAmMmWL1pYrp65q1e) | 2:41 | 2025-10-06 | 2026-02-18 |
+| [Siddayya](https://open.spotify.com/track/6Q26rNvQqvfvou2Qc2qsga) | [Pancham Jeeva](https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s) | [Siddayya](https://open.spotify.com/album/4iZpPLYia2PUIZkacxjvLa) | 3:21 | 2026-04-16 |  |
 | [Sindi Sarai](https://open.spotify.com/track/2YePAWfRwKlt5dSgEQs4gS) | [Amrapali Shindhe](https://open.spotify.com/artist/2qEUD5jyimcJVrCttLAjON) | [Sindi Sarai](https://open.spotify.com/album/2saJcd1WCzHnFDjjT8aL1E) | 3:15 | 2024-08-16 | 2025-02-12 |
 | [SKY](https://open.spotify.com/track/3cnbXyiWN1YY80kIi6o3HR) | [Darshan Kumar](https://open.spotify.com/artist/7ivnUAjEiLvEjqUZppEpLb) | [SKY](https://open.spotify.com/album/3oca2qXY6YgVmtsxEfp0Ae) | 3:11 | 2023-11-14 | 2024-02-17 |
 | [Solo King](https://open.spotify.com/track/2caf1VcfyH0Op9ozofaJrN) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Solo King](https://open.spotify.com/album/76ChkZ5OwDEguUC8VZVdJG) | 3:07 | 2023-03-28 | 2023-12-30 |

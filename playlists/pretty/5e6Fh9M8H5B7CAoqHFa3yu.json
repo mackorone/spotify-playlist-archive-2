@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 306,
+  "num_followers": 305,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJOhgQSsTK9J2fDWm4Jkh5cWCBMb4m",
+  "snapshot_id": "AAAJO6xxgGfj2rxPWA4yRTn+YQoU1W20",
   "tracks": [
     {
       "added_at": "2026-04-13 10:40:02",
@@ -37314,10 +37314,6 @@
         {
           "name": "Prova MI",
           "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
-        },
-        {
-          "name": "001 BEST",
-          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
         }
       ],
       "duration_ms": 133652,
@@ -37355,6 +37351,22 @@
       "duration_ms": 156004,
       "name": "God knows I try",
       "url": "https://open.spotify.com/track/7635PQfM6ZDqZf6eAfqv6o"
+    },
+    {
+      "added_at": "2026-04-16 23:18:35",
+      "album": {
+        "name": "Golden Summer Wave",
+        "url": "https://open.spotify.com/album/72swxV7f8P4hJNuCN1p9Ei"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Golden Summer Wave",
+      "url": "https://open.spotify.com/track/70GJMcoOV4yA1uJ5AVqaAS"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

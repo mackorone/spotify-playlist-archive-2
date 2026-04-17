@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 629 likes - 80 songs - 4 hr 37 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 633 likes - 84 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,9 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 78 | [Wilhelm Scream](https://open.spotify.com/track/6utT15xnEIQAvvhtB4UTRv) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Pixels and Poetry](https://open.spotify.com/album/4uAPVQZQXh00bC51MVWLgq) | 3:26 |
 | 79 | [Where The Shadows Creep](https://open.spotify.com/track/1LWeQi5o10m3ZKSXv9wZKK) | [New Disorder](https://open.spotify.com/artist/2P2kXMQwUdHW8EB9wYSwi0) | [Where The Shadows Creep](https://open.spotify.com/album/0hwRBcohCJmYRtfU80z9G0) | 3:58 |
 | 80 | [Золотом](https://open.spotify.com/track/5WvI8UliUjXmDLudsTwxlN) | [Маша Яблокова](https://open.spotify.com/artist/4sB4FO6pJwDMBwRJC8ntrq) | [Золотом](https://open.spotify.com/album/0Yc22TF8FZ8r8IqtG98LRM) | 3:53 |
+| 81 | [Over](https://open.spotify.com/track/0OP5S6UqR2haqJdIR1YY1x) | [By Million Wires](https://open.spotify.com/artist/4QoLD4kvqh88dZF1VpDMSm) | [Over](https://open.spotify.com/album/3gG2TMhM8GUz3zbufRsYvv) | 5:09 |
+| 82 | [Anfang unsrer Zeit](https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Anfang unsrer Zeit](https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t) | 3:28 |
+| 83 | [Someday](https://open.spotify.com/track/3FLhwiCJmU4MTCGZP1MzCD) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 4:24 |
+| 84 | [Addressed To Me](https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Addressed To Me](https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6) | 3:47 |
 
-Snapshot ID: `AAADSzhqRBrwB3ywCSKWPkV/Kz2gObdq`
+Snapshot ID: `AAADT+Y0SFFlz1DjhU2Dm/ggOOD4PfaU`

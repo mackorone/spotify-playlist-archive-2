@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 915 likes - 150 songs - 9 hr 13 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 926 likes - 156 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,5 +158,11 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 148 | [Roadkill Restaurant](https://open.spotify.com/track/1zLd7KMysA9gpu1OPB3IDI) | [Parlour Creepers](https://open.spotify.com/artist/6kRPePqhwCE1t7JIwmEXnd) | [Roadkill Restaurant](https://open.spotify.com/album/0NWM7dlb6tB799edJnikxn) | 3:04 |
 | 149 | [Schwarzer Engel](https://open.spotify.com/track/3NfW08uCTFOhvgrdGGPQkJ) | [Seelentrost](https://open.spotify.com/artist/4KafT120JV2hhs3TlovDWD) | [Schwarzer Engel](https://open.spotify.com/album/6pB2eeRbU2Qc5ounDES7yj) | 2:55 |
 | 150 | [A Million Miles Away](https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [A Million Miles Away](https://open.spotify.com/album/5NNokKgXWExS1Pu54fIJ6G) | 7:12 |
+| 151 | [27 Club](https://open.spotify.com/track/3UjPYwiPULXhmVK91dHYhd) | [justJOY](https://open.spotify.com/artist/7xpJWxpoYSVlE9rTgn5Wna) | [27 Club](https://open.spotify.com/album/6Ym82PzOA7dAM7UgtwMby3) | 4:24 |
+| 152 | [No Thanks](https://open.spotify.com/track/2anuBT1LsOHNxz5H9qXXkN) | [Fat Fungus](https://open.spotify.com/artist/5JvuLxzIE57fVdo7U29d2D) | [No Thanks](https://open.spotify.com/album/0652xN2MATBffKJ2tapEky) | 4:35 |
+| 153 | [Anfang unsrer Zeit](https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Anfang unsrer Zeit](https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t) | 3:28 |
+| 154 | [Age of Aquarius](https://open.spotify.com/track/240S4AH0AvoM75oZ7PDk2Y) | [Regina](https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL) | [Age of Aquarius](https://open.spotify.com/album/6ej2r12pNYvAmXOTKcD52k) | 3:27 |
+| 155 | [Chilly](https://open.spotify.com/track/0fhXATRQObAWuSEUlNY6td) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:38 |
+| 156 | [Every 1’s a Winner](https://open.spotify.com/track/2E7HHBw2ZYZIbo8E5uzn9P) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [Every 1’s a Winner](https://open.spotify.com/album/6V2mbkh0DXgupUg1wGHbmG) | 3:16 |
 
-Snapshot ID: `AAAFwejnUqNmf7/365+KC7GIFdhuj0lJ`
+Snapshot ID: `AAAFx/A2hWEwxmkn8Pbk0HJlitnlRaMI`

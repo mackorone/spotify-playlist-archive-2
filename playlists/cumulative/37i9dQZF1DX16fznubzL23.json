@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 168103,
       "name": "Aquafina",
       "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
@@ -374,6 +374,28 @@
       "duration_ms": 150000,
       "name": "Baby I'm Jealous",
       "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
+    },
+    {
+      "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110882,
+      "name": "Baby I'm Still Jealous",
+      "url": "https://open.spotify.com/track/7CXSw6Gifu5xrPQwW3zxSp"
     },
     {
       "album": {
@@ -2922,7 +2944,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 161684,
       "name": "Lukaku",
       "url": "https://open.spotify.com/track/1d1XEBuQ4NrlJIKJgYKWYt"
@@ -3298,7 +3320,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 178064,
       "name": "Money",
       "url": "https://open.spotify.com/track/1jEFxzaf8WWPcNrmU96gVN"
@@ -4069,6 +4091,32 @@
     },
     {
       "album": {
+        "name": "Pepper Me",
+        "url": "https://open.spotify.com/album/2IuV8IbDTqAOHh71fNSkzZ"
+      },
+      "artists": [
+        {
+          "name": "KFMD",
+          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155309,
+      "name": "Pepper Me",
+      "url": "https://open.spotify.com/track/6SBir05Tucy1GKt4yMWa2c"
+    },
+    {
+      "album": {
         "name": "Perfect Girl (feat. MisterKay)",
         "url": "https://open.spotify.com/album/10SAFauFQQneSjEe47W0hw"
       },
@@ -4506,7 +4554,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 137142,
       "name": "september rush",
       "url": "https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp"

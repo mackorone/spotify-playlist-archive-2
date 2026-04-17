@@ -4,7 +4,7 @@
 
 > Diese Beats machen garantiert gute Laune!
 
-212 songs - 9 hr 55 min
+213 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 | 2024-08-22 | 2026-02-20 |
 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 | 2025-05-28 | 2025-07-25 |
 | [Atlantis](https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Atlantis](https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr) | 2:16 | 2024-02-09 | 2024-02-12 |
+| [Awake Tonight](https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Awake Tonight](https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0) | 3:10 | 2026-04-13 |  |
 | [Baby, You're the One \(Whole Again\)](https://open.spotify.com/track/4J9oreH8X23uV8dhjo9uwq) | [Salvatore Mancuso](https://open.spotify.com/artist/4LVJtOjpXBAj6kRVQQultK), [Max Niklas](https://open.spotify.com/artist/2odc9r3Utp0yWZkPcexIdi) | [Baby, You're the One \(Whole Again\)](https://open.spotify.com/album/6E5nsoVzcVSwx4L47mhMcA) | 2:11 | 2024-09-16 | 2025-10-03 |
 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 | 2023-12-01 | 2024-04-19 |
 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 | 2023-09-01 | 2023-10-21 |
@@ -72,7 +73,7 @@
 | [Don’t Wake Me Up](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don’t Wake Me Up](https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs) | 3:08 | 2023-09-01 | 2025-02-15 |
 | [Drink in Moderation](https://open.spotify.com/track/13vW2uIXG0H3IpL4faoPNZ) | [BOY LOCO](https://open.spotify.com/artist/6VemVOal7ebbuYJZSSCPvX) | [Drink in Moderation](https://open.spotify.com/album/5NUUa5rNKMGLgOC7eRIaL8) | 2:20 | 2024-12-16 | 2025-04-08 |
 | [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-09-01 | 2024-10-30 |
-| [Embers](https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Embers](https://open.spotify.com/album/0bJj4VUm90sLGDcfl69ZM4) | 3:01 | 2026-01-16 |  |
+| [Embers](https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Embers](https://open.spotify.com/album/0bJj4VUm90sLGDcfl69ZM4) | 3:01 | 2026-01-16 | 2026-04-17 |
 | [Endless Summer \(LUM!X Remix\)](https://open.spotify.com/track/2sfyCks2pCYrutBLaAScGe) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Endless Summer \(LUM!X Remix\)](https://open.spotify.com/album/3RoaCuBXnv3ehgethBtNHV) | 2:37 | 2023-09-01 | 2023-09-09 |
 | [Ex's & Oh's](https://open.spotify.com/track/2hqYXrqzmYWhQQH9wvccdT) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Ex's & Oh's](https://open.spotify.com/album/2YFHbRlQNfc4uOfNTxqtyR) | 2:03 | 2025-11-06 | 2026-04-05 |
 | [Feel](https://open.spotify.com/track/4scxvvNN8Dhm5y4p54QamD) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Feel](https://open.spotify.com/album/7kkyeILHHd6XfHyR3K36yD) | 2:47 | 2024-12-09 | 2025-07-09 |

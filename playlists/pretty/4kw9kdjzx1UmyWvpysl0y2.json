@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124073,
+  "num_followers": 124072,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVT/mOTque5WCAVknQFNehi539r282",
+  "snapshot_id": "AAAVUKv50yZ/vJebP3jeNeUV5MN1rrPp",
   "tracks": [
+    {
+      "added_at": "2026-04-16 18:18:03",
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/3HpHW9r9grbAHVflpDttMU"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/64RtBPP0NXkUA0N79pDE4P"
+    },
     {
       "added_at": "2026-04-15 15:13:47",
       "album": {

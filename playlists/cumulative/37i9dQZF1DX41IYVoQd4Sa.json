@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 244253,
       "name": "La fille pas cool",
       "url": "https://open.spotify.com/track/1NXGO1khpTD7rl4NCUde41"
@@ -4121,6 +4121,24 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05e9\u05e7\u05e8 \u05d9\u05d5\u05e9\u05d1 \u05d1\u05e8\u05d0\u05e9 \u05d4\u05e9\u05d5\u05dc\u05d7\u05df",
+        "url": "https://open.spotify.com/album/70Z6gE1X0DnJgPfaW86JFT"
+      },
+      "artists": [
+        {
+          "name": "The Backyard",
+          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "\u05d4\u05e9\u05e7\u05e8 \u05d9\u05d5\u05e9\u05d1 \u05d1\u05e8\u05d0\u05e9 \u05d4\u05e9\u05d5\u05dc\u05d7\u05df",
+      "url": "https://open.spotify.com/track/184bquGeMyIcq3lYTdTlPn"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05d7\u05e6\u05e8 \u05d4\u05d0\u05d7\u05d5\u05e8\u05d9\u05ea 3",
         "url": "https://open.spotify.com/album/0l8ynz9r3gU65k9JYOoXHE"
       },
@@ -4308,6 +4326,28 @@
       "duration_ms": 176812,
       "name": "\u05d6\u05d4 \u05dc\u05d0 \u05d7\u05d9\u05d9\u05dd",
       "url": "https://open.spotify.com/track/5TYvxPIqdVbIUk066PaRNe"
+    },
+    {
+      "album": {
+        "name": "\u05d6\u05d4 \u05dc\u05d6\u05d4",
+        "url": "https://open.spotify.com/album/7LizDZVPbKTa4PLc7QQJbm"
+      },
+      "artists": [
+        {
+          "name": "Yoni Rechter",
+          "url": "https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh"
+        },
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222325,
+      "name": "\u05d6\u05d4 \u05dc\u05d6\u05d4",
+      "url": "https://open.spotify.com/track/2LBujQB6VtcFuR172QYYUF"
     },
     {
       "album": {
@@ -4592,6 +4632,28 @@
       "duration_ms": 195686,
       "name": "\u05d8\u05d1\u05e2",
       "url": "https://open.spotify.com/track/7HNLTGplfBTSEM4oxcvXPF"
+    },
+    {
+      "album": {
+        "name": "\u05d8\u05d9\u05e4\u05d4 \u05e2\u05dc \u05d4\u05de\u05e6\u05d5\u05e7",
+        "url": "https://open.spotify.com/album/62OkRL2BvktU7opUHcelz4"
+      },
+      "artists": [
+        {
+          "name": "Tamar Eisenman",
+          "url": "https://open.spotify.com/artist/70MssnYTTSvL88RKLd2RlB"
+        },
+        {
+          "name": "Itay Pearl",
+          "url": "https://open.spotify.com/artist/6CrowZiPXE0WfF5xEzimLq"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238016,
+      "name": "\u05d8\u05d9\u05e4\u05d4 \u05e2\u05dc \u05d4\u05de\u05e6\u05d5\u05e7",
+      "url": "https://open.spotify.com/track/0V1icYN4vcDt1HZh4eIVQ7"
     },
     {
       "album": {
@@ -5646,7 +5708,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 196262,
       "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
       "url": "https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X"
@@ -5926,7 +5988,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 159665,
       "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
       "url": "https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV"

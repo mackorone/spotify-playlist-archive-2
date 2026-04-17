@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 202 songs - 10 hr 33 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 203 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,5 +210,6 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 200 | [Still classy](https://open.spotify.com/track/3YQ3kRyU3KkdJmRKDTbrdZ) | [Dylan Vel](https://open.spotify.com/artist/1JZ7h4obyLusP8iJoX5lv5) | [Intelligence without love](https://open.spotify.com/album/1ogbieHuWXXudQIIxKCGFJ) | 5:51 |
 | 201 | [KILLER](https://open.spotify.com/track/4EzcHscbLds0XLxTxlzdYG) | [MEanIngfUl](https://open.spotify.com/artist/5j62YtmsqrRgu7v49wDtrA) | [KILLER](https://open.spotify.com/album/7zN3fyHeb5UujbCsNSJWM2) | 2:49 |
 | 202 | [Shadow On That Wall](https://open.spotify.com/track/26Hnnzyv8G31g3pLs8YZ2X) | [Skyyy](https://open.spotify.com/artist/4EmOC9W13wmWQyJTYyqyXo) | [Shadow On That Wall](https://open.spotify.com/album/4nssfVrog8nSlQYmJbw3pI) | 4:49 |
+| 203 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 |
 
-Snapshot ID: `AAAV0N0+s2NsxnAw4pXUjcwQfrpXoae5`
+Snapshot ID: `AAAV0X7kkVDshrD8MpFdHP0P++TDhZaR`

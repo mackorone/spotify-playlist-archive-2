@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok, Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,194,913 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,194,825 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 54 | [The Button](https://open.spotify.com/track/4B2GQVogNcFOat66WA0uMh) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [The Button](https://open.spotify.com/album/1FwjdsZ02U5eNpUsMMGWgA) | 2:45 |
 | 55 | [A New Day](https://open.spotify.com/track/2eaS1iJ2COp7sZWYL6IAFd) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [HNGT](https://open.spotify.com/artist/1LMZAwKQsYL6iIyAx7VuLK) | [A New Day](https://open.spotify.com/album/50TJbf8ARpqpcp8lHMapuc) | 3:55 |
 | 56 | [Hear It](https://open.spotify.com/track/4wEcWmgrx7ANAS1TVmaXe5) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Hear It](https://open.spotify.com/album/07RZ8CLwCSRPUpa4GbcaBX) | 3:11 |
-| 57 | [So Am I](https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder](https://open.spotify.com/album/1LL2XVTzO6xLRNMag9XtXV) | 3:11 |
+| 57 | [So Am I](https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder](https://open.spotify.com/album/1LL2XVTzO6xLRNMag9XtXV) | 4:43 |
 | 58 | [Mind Illuminate](https://open.spotify.com/track/5p7hNVYvzfrdb4wOiWtcNo) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Mind Illuminate](https://open.spotify.com/album/1hC1LUMQUyiBYxCUbVDkt3) | 2:51 |
 | 59 | [Feel Good](https://open.spotify.com/track/6JY6jXuAuTEH8VMgmkW87Y) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Zaark](https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r) | [Feel Good](https://open.spotify.com/album/5XuKcuWfhlgvNSwylIQu0e) | 2:44 |
 | 60 | [Bang Bang!](https://open.spotify.com/track/1CxB3pq41FeSTAIhctsRC8) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH), [Mc Pbó](https://open.spotify.com/artist/3D7PMz4E8Qb54xqv77B8Nv) | [Bang Bang!](https://open.spotify.com/album/1f5H6sr9MBTBLBe2ZdjYmb) | 2:42 |

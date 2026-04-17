@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: Regina Song",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: brb.",
   "name": "Rising 65",
   "tracks": [
     {
@@ -464,7 +464,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 268383,
       "name": "Aidilfitri Mulia",
       "url": "https://open.spotify.com/track/0BtQSqGEzukpJoKhUZn4JU"
@@ -992,6 +992,24 @@
       "duration_ms": 199200,
       "name": "angel eyes",
       "url": "https://open.spotify.com/track/1SyVx2eadrwkX2qiN8Cbi9"
+    },
+    {
+      "album": {
+        "name": "angel in disguise",
+        "url": "https://open.spotify.com/album/4cPJiXzTeTNU4U6XiflS7P"
+      },
+      "artists": [
+        {
+          "name": "quiet morning",
+          "url": "https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "angel in disguise",
+      "url": "https://open.spotify.com/track/2zQYlFRHVpBC2WmTnBsxja"
     },
     {
       "album": {
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 140400,
       "name": "Beraya!",
       "url": "https://open.spotify.com/track/5VYzkmLXmFo7mZsY5U8ayS"
@@ -4028,7 +4046,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 264066,
       "name": "Dari Aku, Mama & Papa!",
       "url": "https://open.spotify.com/track/00i2JT1xHfwcMbD8C7BcBT"
@@ -4260,7 +4278,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 142040,
       "name": "Di Pagi Raya",
       "url": "https://open.spotify.com/track/1wYyQseKSjHIE7LOeN1MHO"
@@ -6953,6 +6971,24 @@
     },
     {
       "album": {
+        "name": "grammy",
+        "url": "https://open.spotify.com/album/6gC6hc4aDhu4GWdnmO8CPu"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "grammy",
+      "url": "https://open.spotify.com/track/3KobTfSpubhJHP6oZFESlz"
+    },
+    {
+      "album": {
         "name": "Green Sheets",
         "url": "https://open.spotify.com/album/3UIyY9WWjw8WFoQmjgMhJU"
       },
@@ -7979,6 +8015,24 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0ZOdanOd9e5H0ReEjyYvZU"
+      },
+      "artists": [
+        {
+          "name": "Good Luck Chuck",
+          "url": "https://open.spotify.com/artist/6zgQqfZ8mYlQOhpsGjok96"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4CZC8Xeu7gMCUyBvCDITwu"
+    },
+    {
+      "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/5TmvZOkGXtMJCBGzxL7ZlD"
       },
@@ -8416,7 +8470,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 222666,
       "name": "I Always Knew",
       "url": "https://open.spotify.com/track/3795oPflx7wwOBKJC462ao"
@@ -10855,6 +10909,28 @@
     },
     {
       "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/0oaR0NBsoC0AfwNvAd4urB"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342295,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/2gxzxlccdITQyj7TAjP4CU"
+    },
+    {
+      "album": {
         "name": "Effigies",
         "url": "https://open.spotify.com/album/0tHgORcMP9Njk3pKWv4h7f"
       },
@@ -11596,7 +11672,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 207360,
       "name": "Maaf Dan Gembira",
       "url": "https://open.spotify.com/track/24ZkQj1TSt1x51a3QW1tF0"
@@ -13150,7 +13226,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 156279,
       "name": "No One Can",
       "url": "https://open.spotify.com/track/5HEKj8vmOnF51YvQTYaqGP"
@@ -13256,6 +13332,28 @@
       "duration_ms": 162206,
       "name": "Nobody's Home",
       "url": "https://open.spotify.com/track/4jhoqChqIHofAFV4KauA6v"
+    },
+    {
+      "album": {
+        "name": "Nobody's Home",
+        "url": "https://open.spotify.com/album/5OcNEeWvpwyNJ6bvQ6Y59v"
+      },
+      "artists": [
+        {
+          "name": "The TENG Ensemble",
+          "url": "https://open.spotify.com/artist/3HuizOqeIWauF1Jv7NUmPu"
+        },
+        {
+          "name": "Charlie Lim",
+          "url": "https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230198,
+      "name": "Nobody's Home",
+      "url": "https://open.spotify.com/track/5i9o34vXLi9ctcrNRnB31J"
     },
     {
       "album": {
@@ -13845,6 +13943,24 @@
     },
     {
       "album": {
+        "name": "one of one freestyle",
+        "url": "https://open.spotify.com/album/31aciwdsoj0yOxr0Fc1s6E"
+      },
+      "artists": [
+        {
+          "name": "Yung Raja",
+          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108571,
+      "name": "one of one freestyle",
+      "url": "https://open.spotify.com/track/0kLBmK4S0lf76fmUtFSRXn"
+    },
+    {
+      "album": {
         "name": "One Sunrise At A Time",
         "url": "https://open.spotify.com/album/615YUEpbaWtii06WTIBWPK"
       },
@@ -14290,7 +14406,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 206129,
       "name": "Paper Heart",
       "url": "https://open.spotify.com/track/7jFdo3u0fXsbD1IcaqWBGg"
@@ -14972,7 +15088,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 209199,
       "name": "Pulang Ke Rumah",
       "url": "https://open.spotify.com/track/1gl49Jk68DZRB0CosYN2bP"
@@ -14990,7 +15106,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 261285,
       "name": "Pulanglah 2026",
       "url": "https://open.spotify.com/track/19dkNsefM6JPsJBdFOyZSN"
@@ -16304,7 +16420,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 250000,
       "name": "Sedikit Waktu",
       "url": "https://open.spotify.com/track/5B8VKRe7xuUcLRJ9FAX0cv"
@@ -16322,7 +16438,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 200538,
       "name": "Sekejap Dah Raya",
       "url": "https://open.spotify.com/track/3LfE4TpJnJzHvJgwITkSMl"
@@ -16388,7 +16504,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 178512,
       "name": "Seloka Dua Saudara",
       "url": "https://open.spotify.com/track/0QW2JzI4An96fjaMDRtqRG"
@@ -22705,6 +22821,24 @@
     },
     {
       "album": {
+        "name": "\u4f9d\u7136\u9078\u64c7\u4f60",
+        "url": "https://open.spotify.com/album/0DBuh1kP3RdIWg6H50hAOr"
+      },
+      "artists": [
+        {
+          "name": "Tay Kewei",
+          "url": "https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "\u4f9d\u7136\u9078\u64c7\u4f60",
+      "url": "https://open.spotify.com/track/5nur2hWa06LOsQNBQNT2WC"
+    },
+    {
+      "album": {
         "name": "\u4fef\u885d\u7684\u9748\u9b42",
         "url": "https://open.spotify.com/album/690mx56BtcjEFRKB4uXLJz"
       },
@@ -23693,6 +23827,24 @@
     },
     {
       "album": {
+        "name": "\u5fc3\u88e1\u8ab2",
+        "url": "https://open.spotify.com/album/3VbcMLHYTB3G0pjJu7I6qA"
+      },
+      "artists": [
+        {
+          "name": "meixuan",
+          "url": "https://open.spotify.com/artist/4YtoSwLEvfuE7gFcoo3duS"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "\u5fc3\u88e1\u8ab2",
+      "url": "https://open.spotify.com/track/3O4eyknRRxL5t1UXpYIXs6"
+    },
+    {
+      "album": {
         "name": "\u60c5\u4eba\u7bc0\u53d6\u6d88",
         "url": "https://open.spotify.com/album/72DcPrrBiRN2WXYJfgEJ2o"
       },
@@ -23873,6 +24025,24 @@
     },
     {
       "album": {
+        "name": "\u6211\u5728\u4e5d\u4efd\u653e\u8457\u5929\u71c8",
+        "url": "https://open.spotify.com/album/48X20BO29UeTnA5W7iBIhi"
+      },
+      "artists": [
+        {
+          "name": "Boon Hui Lu",
+          "url": "https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253076,
+      "name": "\u6211\u5728\u4e5d\u4efd\u653e\u8457\u5929\u71c8",
+      "url": "https://open.spotify.com/track/6vSArbAQvjSTOzdHzscy0i"
+    },
+    {
+      "album": {
         "name": "\u6211\u5c0d\u7de3\u5206\u5c0f\u5fc3\u7ffc\u7ffc (\u5287\u96c6\u300a\u9010\u7389\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/77DbiSm5R4EduZCAk6ZH7x"
       },
@@ -23942,6 +24112,24 @@
       "duration_ms": 177560,
       "name": "\u6211\u7684\u7f57\u66fc\u8482\u514b\u7684\u68a6",
       "url": "https://open.spotify.com/track/2yccRPeP21Q5DkQfksndhJ"
+    },
+    {
+      "album": {
+        "name": "\u6211\u771f\u7684\u611b\u904e",
+        "url": "https://open.spotify.com/album/7xVRASKL208NbU2apXCy4b"
+      },
+      "artists": [
+        {
+          "name": "Calvert Tay",
+          "url": "https://open.spotify.com/artist/3ZYC5DuefIg4HuAAU5YBU4"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "\u6211\u771f\u7684\u611b\u904e",
+      "url": "https://open.spotify.com/track/2gFaVocOJhuMnLR71R6Zue"
     },
     {
       "album": {

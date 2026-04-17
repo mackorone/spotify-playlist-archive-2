@@ -4,7 +4,7 @@
 
 > This is Absolutely\. The essential tracks, all in one playlist.
 
-38 songs - 2 hr 3 min
+40 songs - 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,10 @@
 | [Arrivals](https://open.spotify.com/track/3s7j6rr4X9PcSRl6i0qtUb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 3:05 | 2025-05-08 | 2025-07-30 |
 | [Close To You](https://open.spotify.com/track/6HuEuUruCrjWyt00zHqJUx) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:54 | 2025-05-03 | 2025-12-16 |
 | [Close To You](https://open.spotify.com/track/7JOczAqSpp8pPBhOqjSnOQ) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:54 | 2025-12-16 |  |
+| [CYANIDE](https://open.spotify.com/track/6f1mEDrve2XTLByOsIP8AT) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CTRL ESCAPE](https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e) | 3:18 | 2026-04-17 |  |
 | [Daylight](https://open.spotify.com/track/5gFQ0Gt2IO9qsf5z8LClso) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:31 | 2025-12-22 |  |
 | [Daylight](https://open.spotify.com/track/6P6RvzP7XmTIfiGrxT7nvb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 3:31 | 2025-06-14 | 2025-12-22 |
+| [DON'T BELIEVE IT](https://open.spotify.com/track/5TbTOkgK8UAjtjIuIVPAjE) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CTRL ESCAPE](https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e) | 3:07 | 2026-04-17 |  |
 | [Elevator](https://open.spotify.com/track/29iIxkfKomRxXdkzVhQuAE) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 3:30 | 2026-02-22 |  |
 | [EVERYBODY KNOWS I'M SAD \- REMIX](https://open.spotify.com/track/15BYAhv1YFKwKaOIJz1r9s) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [PRINCESS OF POWER \(DELUXE\)](https://open.spotify.com/album/7KKQfFKPruJ3lHVVtwGuo7) | 4:07 | 2025-10-26 |  |
 | [Glass](https://open.spotify.com/track/4DHMDRYAzaFq3k1STg2qSb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:18 | 2025-08-09 |  |

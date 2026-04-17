@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe?si=Kv7lyJUvTb61i7XZSH8h9w">Khal!l</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,712 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,747 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 79 | [same bed](https://open.spotify.com/track/4hipQPwuLqq9RFxlpVAJET) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89) | [keepsake](https://open.spotify.com/album/7qbYXzYoWTnlzDTHbs0oCS) | 2:35 |
 | 80 | [HARD TO LOVE](https://open.spotify.com/track/5KeT3r2AjQ9zsW1tBwiPRW) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [HARD TO LOVE](https://open.spotify.com/album/3r7d8VEgrb33RxLRuhA9ua) | 2:50 |
 
-Snapshot ID: `AAAAAD+LkHNpT5Md6Vk8M0B90LxkND5R`
+Snapshot ID: `AAAAAG2PczVG5Ox57LYGj4uGoe8VLDV6`

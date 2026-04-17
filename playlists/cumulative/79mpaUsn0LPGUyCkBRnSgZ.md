@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,112 songs - 3 day 0 hr 11 min
+1,113 songs - 3 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Agnus Dei](https://open.spotify.com/track/22iFfneMU95dpTN8g0y1Rb) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/3xxkjx6Hgl8sWpNfuqhHtD) | 5:33 | 2025-11-14 |  |
 | [Ain't Nice \- Live](https://open.spotify.com/track/3gdKrnlB0WmJtlxSur73Rm) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Shrimp Sessions 2 \(Live\)](https://open.spotify.com/album/5eSg2ejmod1kGMjCR7giv7) | 3:32 | 2023-12-23 |  |
 | [Ain't That Easy](https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 4:49 | 2022-01-06 | 2024-08-03 |
+| [Air on a G String](https://open.spotify.com/track/5MV7OsDQMZGHDrdWnHim7O) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk](https://open.spotify.com/album/4Ru8u9idKX3t67U7xCf5QA) | 3:01 | 2026-04-16 |  |
 | [Airbag](https://open.spotify.com/track/7c378mlmubSu7NGkLFa4sN) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:47 | 2022-01-11 | 2024-07-03 |
 | [Alagbon Close](https://open.spotify.com/track/4GSQCm1u2rjFAY5fa3jzqM) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Alagbon Close](https://open.spotify.com/album/7ITClWSnPtE9Nvqy6F8vsy) | 17:01 | 2023-06-14 | 2023-07-09 |
 | [Albatross](https://open.spotify.com/track/60sDbx6WosEmzOy2EwdzkI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:14 | 2024-08-19 | 2025-07-25 |

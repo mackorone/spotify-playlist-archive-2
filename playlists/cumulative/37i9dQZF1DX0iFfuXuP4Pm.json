@@ -5545,6 +5545,28 @@
     },
     {
       "album": {
+        "name": "Moolah",
+        "url": "https://open.spotify.com/album/6P6HlYKePGlHFy9pVeBNNS"
+      },
+      "artists": [
+        {
+          "name": "SCOOP DOGG",
+          "url": "https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2"
+        },
+        {
+          "name": "Daarth",
+          "url": "https://open.spotify.com/artist/1tAln3eaP4KDXezHvfy1a3"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Moolah",
+      "url": "https://open.spotify.com/track/26DXCOVx8HiHooG0RveKEn"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/204uhd5Yr7mUtfydYTnBDQ"
       },
@@ -7124,7 +7146,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 248289,
       "name": "Papermoon",
       "url": "https://open.spotify.com/track/7fmKXSl4UIoE5EM1t69Er8"

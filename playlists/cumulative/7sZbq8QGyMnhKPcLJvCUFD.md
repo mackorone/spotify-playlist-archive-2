@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-845 songs - 1 day 17 hr 54 min
+846 songs - 1 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Cash Out](https://open.spotify.com/track/4VIhfUoqGVL67qzjGDecDX) | [Schrandy](https://open.spotify.com/artist/16DOlPH2Uh5OyntSN9qlxz) | [Cash Out](https://open.spotify.com/album/1bbedyCgIrSX1hQSfUALky) | 2:22 | 2026-01-15 |  |
 | [Castle](https://open.spotify.com/track/7tUToegtVh5dodpcqaYrHo) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Harddope](https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E) | [Castle](https://open.spotify.com/album/3bxvt8vyLXAC0ioYQ2IixH) | 2:38 | 2023-08-08 | 2024-03-13 |
 | [Catching Feelings](https://open.spotify.com/track/31nf4tcEQwkjhWtKY0Odox) | [VERB](https://open.spotify.com/artist/1pRjBwChdQFuoYH6NiI3pe) | [Catching Feelings](https://open.spotify.com/album/12uiINa1SNssVPOXdYXXqq) | 2:25 | 2023-03-01 | 2023-08-10 |
+| [CERBERUS](https://open.spotify.com/track/3tOtHXtNW0aE9e2GMHuHsK) | [TANTRON](https://open.spotify.com/artist/6HTp9Q7rmHmQjatn98BLAi), [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [CERBERUS](https://open.spotify.com/album/2AgN9TGZmxADMJxsfcPTGx) | 3:30 | 2026-04-16 |  |
 | [Cereb](https://open.spotify.com/track/5U27BfsytyQfOn6zatsyTp) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Cereb](https://open.spotify.com/album/201kszqcsGij86IBeZvFnj) | 4:36 | 2023-08-03 | 2023-08-10 |
 | [Champions](https://open.spotify.com/track/0TX9BlX5jJfMMinl7UWaPa) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Lunaar](https://open.spotify.com/artist/13utdDa4vewlnpTmTHZNma), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Champions](https://open.spotify.com/album/2Xfu9gcaWqUiFdjXFJToOB) | 3:30 | 2022-04-23 | 2023-04-28 |
 | [Change](https://open.spotify.com/track/3UqK34q5uhmHsyQhBIV2T4) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [November Lights](https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH) | [Change](https://open.spotify.com/album/3OBJ42ekOCgYt5Pj7idOwY) | 3:07 | 2025-02-13 |  |

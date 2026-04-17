@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 220909,
+  "num_followers": 220955,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 273058,
-      "name": "Parev' Ajere",
-      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 443640,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1goTiiRtaNdwiGOsSIgBA4"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 273058,
+      "name": "Parev' Ajere",
+      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "The Livelong Day",
-        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 614363,
-      "name": "The Wild Rover",
-      "url": "https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Amatssou",
         "url": "https://open.spotify.com/album/6midUauH9WLxQllqEAvqhM"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
+        "name": "The Livelong Day",
+        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 614363,
+      "name": "The Wild Rover",
+      "url": "https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
         "name": "Harumi",
         "url": "https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 214226,
       "name": "Fire By The River",
       "url": "https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Yahudky",
+        "url": "https://open.spotify.com/album/0KyTYyyHjdkYS65d08fvYm"
+      },
+      "artists": [
+        {
+          "name": "DakhaBrakha",
+          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "\u0428\u043e \u0437-\u043f\u043e\u0434 \u0434\u0443\u0431\u0430",
+      "url": "https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -431,22 +447,6 @@
       "duration_ms": 384383,
       "name": "On te l'avait dit",
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
-        "name": "Yahudky",
-        "url": "https://open.spotify.com/album/0KyTYyyHjdkYS65d08fvYm"
-      },
-      "artists": [
-        {
-          "name": "DakhaBrakha",
-          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "\u0428\u043e \u0437-\u043f\u043e\u0434 \u0434\u0443\u0431\u0430",
-      "url": "https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Amidinine",
-      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "THE FUTURE IS ANCESTRAL",
         "url": "https://open.spotify.com/album/6pmFJ5VC7URN6Q7xI0SYt3"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 209925,
       "name": "Sina Vaishu",
       "url": "https://open.spotify.com/track/3uKyFQLFROMWoaNAVQ7Mw4"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Amidinine",
+      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "No. 1",
-        "url": "https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC"
-      },
-      "artists": [
-        {
-          "name": "Etran de L'A\u00cfr",
-          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
-        }
-      ],
-      "duration_ms": 351375,
-      "name": "Agrim Agadez",
-      "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Worldly World (Ohaa Uha Uha)",
         "url": "https://open.spotify.com/album/6xfXvOTxevWLXbsbPO4xPR"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 186173,
       "name": "Worldly World (Ohaa Uha Uha)",
       "url": "https://open.spotify.com/track/51B5lAKM1mZgwPUmRqjSRq"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "No. 1",
+        "url": "https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC"
+      },
+      "artists": [
+        {
+          "name": "Etran de L'A\u00cfr",
+          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
+        }
+      ],
+      "duration_ms": 351375,
+      "name": "Agrim Agadez",
+      "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 338108,
-      "name": "Tala Tannam",
-      "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Feira De Mangaio",
         "url": "https://open.spotify.com/album/55ubWcyqgWWOAI1GuowYAH"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 156600,
       "name": "Feira De Mangaio",
       "url": "https://open.spotify.com/track/33iTVkckI2X5ip1qX4dFsh"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 338108,
+      "name": "Tala Tannam",
+      "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 445816,
-      "name": "Afrique Victime",
-      "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Coconut Rock",
         "url": "https://open.spotify.com/album/7gW7B0IdXwmNaMBAZ0XryK"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Gur\u00fa",
-        "url": "https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq"
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
       "artists": [
         {
-          "name": "Pony Bravo",
-          "url": "https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF"
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
         }
       ],
-      "duration_ms": 218360,
-      "name": "Totomami",
-      "url": "https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU"
+      "duration_ms": 445816,
+      "name": "Afrique Victime",
+      "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1119,6 +1103,22 @@
       "duration_ms": 192893,
       "name": "Los Chucos Suaves (featuring Macha)",
       "url": "https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Gur\u00fa",
+        "url": "https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq"
+      },
+      "artists": [
+        {
+          "name": "Pony Bravo",
+          "url": "https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "Totomami",
+      "url": "https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "A\u015fk",
-        "url": "https://open.spotify.com/album/3dynzqPHUqyPPnGGs8STcI"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 220142,
-      "name": "Rakiya Su Katamam",
-      "url": "https://open.spotify.com/track/2SGrsMd6uJXhVVwS9ScG42"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Ghibli",
         "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Taivshral",
-        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+        "name": "A\u015fk",
+        "url": "https://open.spotify.com/album/3dynzqPHUqyPPnGGs8STcI"
       },
       "artists": [
         {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
         }
       ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
+      "duration_ms": 220142,
+      "name": "Rakiya Su Katamam",
+      "url": "https://open.spotify.com/track/2SGrsMd6uJXhVVwS9ScG42"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1267,6 +1251,22 @@
       "duration_ms": 252196,
       "name": "Ventura Phase",
       "url": "https://open.spotify.com/track/0GZpJMYiXYcW6CYd85dPax"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
+        "name": "Dejate Llevar",
+        "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+        }
+      ],
+      "duration_ms": 301723,
+      "name": "Dejate Llevar",
+      "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
         "name": "Enkaz",
         "url": "https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH"
       },
@@ -1387,26 +1407,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Dejate Llevar",
-        "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Israel Arteaga",
-          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
-        }
-      ],
-      "duration_ms": 301723,
-      "name": "Dejate Llevar",
-      "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Ordunun Dereleri",
         "url": "https://open.spotify.com/album/4mfZiG69wQPi8f4iJdv2xm"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 285241,
       "name": "Ordunun Dereleri",
       "url": "https://open.spotify.com/track/64Pztp6tg1ZBV9zF09mdFr"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
-        "name": "Unconscious Collective",
-        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
-      },
-      "artists": [
-        {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
-        }
-      ],
-      "duration_ms": 353965,
-      "name": "Makeda",
-      "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1471,6 +1455,22 @@
       "duration_ms": 357552,
       "name": "Lam Phu Thai # 1",
       "url": "https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Unconscious Collective",
+        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+      },
+      "artists": [
+        {
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        }
+      ],
+      "duration_ms": 353965,
+      "name": "Makeda",
+      "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
+        "name": "Binbo\u011fa",
+        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
+      },
+      "artists": [
+        {
+          "name": "Yalnayak",
+          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Binbo\u011fa",
+      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
         "name": "Jos\u00e9 Louis And The Paradox Of Love",
         "url": "https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 184946,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
-        "name": "Binbo\u011fa",
-        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
-      },
-      "artists": [
-        {
-          "name": "Yalnayak",
-          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Binbo\u011fa",
-      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Hagata",
-        "url": "https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp"
+        "name": "Wee Rosebud",
+        "url": "https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD"
       },
       "artists": [
         {
-          "name": "TEKE::TEKE",
-          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
         }
       ],
-      "duration_ms": 244973,
-      "name": "Doppelganger",
-      "url": "https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8"
+      "duration_ms": 261959,
+      "name": "Wee Rosebud",
+      "url": "https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS"
     }
   ],
   "unique_name": "Folk Fabrique",

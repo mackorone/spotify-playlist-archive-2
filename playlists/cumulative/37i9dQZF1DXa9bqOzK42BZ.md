@@ -2,9 +2,9 @@
 
 ### [Swahili Praise](https://open.spotify.com/playlist/37i9dQZF1DXa9bqOzK42BZ)
 
-> The best of Swahili gospel music\. Cover: Guardian Angel
+> The best of Swahili gospel music\. Cover: Moses Luka
 
-326 songs - 1 day 4 hr 9 min
+327 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Egemeo](https://open.spotify.com/track/03k9zseKZJ8mu2nTWHuoHQ) | [Godwill Babette](https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG) | [Umenibeba](https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB) | 5:34 | 2022-06-24 | 2023-04-07 |
 | [Faraja ya Moyo](https://open.spotify.com/track/5Lbg6hYmEESv0ijPREbiwl) | [Saint Carlson](https://open.spotify.com/artist/2syF79LbREdIoJlDpBPdJf) | [FARAJA YA MOYO](https://open.spotify.com/album/4R78v8Ol8gX8Zu2pX9ke88) | 4:42 | 2023-07-21 | 2024-11-22 |
 | [For Me](https://open.spotify.com/track/0JuQugiqRPorEn8jQ7cc5W) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [For Me](https://open.spotify.com/album/4fcHzgzwobDMPvshp3U7oR) | 3:48 | 2025-03-28 | 2025-08-09 |
+| [Fugazi](https://open.spotify.com/track/5B3P2y63tqqYkaTEmvhucg) | [Moses Luka](https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp) | [Moses Luka](https://open.spotify.com/album/0Bx2I6c8NDDvcsEGMeSJKd) | 2:48 | 2026-04-17 |  |
 | [Gharama](https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ), [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Gharama](https://open.spotify.com/album/636VoPFDMsGNC4E5MGRz1z) | 3:14 | 2023-04-21 | 2025-10-10 |
 | [God Is Good](https://open.spotify.com/track/0LFir0yRLOrcTwTOcIe7P1) | [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Tabasamu](https://open.spotify.com/album/3hCCDdn0RsImTjrriM0GDS) | 3:48 | 2026-02-06 |  |
 | [God Ye Buddy](https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw), [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW), [Swangz All\-Star](https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ) | [God Ye Buddy](https://open.spotify.com/album/5A6sxUUxdUUiVBMikeydeH) | 4:23 | 2024-10-04 |  |

@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "LUCID DREAMS",
+        "url": "https://open.spotify.com/album/5jIZEQP2E5YkW1Fp5vRNYj"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149743,
+      "name": "AGAIN",
+      "url": "https://open.spotify.com/track/7dfleX1KObfJQdDc4RUABd"
+    },
+    {
+      "album": {
         "name": "Excuse Me (Deluxe)",
         "url": "https://open.spotify.com/album/3CEWoLRhNHEtBcw1wmgWd8"
       },

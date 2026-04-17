@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 460 likes - 424 songs - 21 hr 17 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 460 likes - 429 songs - 21 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -432,5 +432,10 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 422 | [Luv](https://open.spotify.com/track/3TnCzKW7LncoTyXa9pFles) | [Que K](https://open.spotify.com/artist/7dcJm2exRKPpt1j6Pk91ML), [GARCI Gang Apples](https://open.spotify.com/artist/082gfwyn0AYPMXeQigMCRM), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [U shoulda stayed down 26.....](https://open.spotify.com/album/7mrXxwvsfXQx9Q2GwDE6qe) | 3:29 |
 | 423 | [Planting Lies](https://open.spotify.com/track/1RupRobeRR4wnYC1ToofkH) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heriós](https://open.spotify.com/album/5kVLd6P222EsnzQMNz54bP) | 3:17 |
 | 424 | [Diarios de Nirak pt\. 1](https://open.spotify.com/track/5x7LP3TqnOqUkHGy3qLi4K) | [P.A.C\. 7](https://open.spotify.com/artist/4xYTZFwBIsZqSuYLRzNIGF), [Old Máfia 021 Rec RD'RUA](https://open.spotify.com/artist/2etqM9FQJqGUMCL2rezdkt) | [Diarios de Nirak pt\. 1](https://open.spotify.com/album/6o0TnFdar5U4Mf5FDwVUeT) | 1:40 |
+| 425 | [Without You!](https://open.spotify.com/track/3UVHxqIOyROw4hHp34kATo) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Disruptive Drop](https://open.spotify.com/album/3j8lMFPPNJoLmfP8B05Nbl) | 1:56 |
+| 426 | [Otra canción de amor](https://open.spotify.com/track/7o5HfYqqHEn0E0Z8AirRQe) | [Eduardo Robles](https://open.spotify.com/artist/2qwNSIP0Jyv5mstU2i5wwm) | [De paso música que dejan los migrantes](https://open.spotify.com/album/24OvaVA7Rp7mjugolMl4jN) | 4:44 |
+| 427 | [V!SCERE](https://open.spotify.com/track/66e12hiMp0wSK8wDVtT1p8) | [Makaine](https://open.spotify.com/artist/65RasmNLWEaP03oVTkdA0m) | [SHAMSHIEL](https://open.spotify.com/album/6kiHZJXH8VK1sFXliKqoh5) | 2:42 |
+| 428 | [Night Of Fire](https://open.spotify.com/track/51mXKPBJ57J0b8uTwIuOeu) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Komb](https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc) | [Night Of Fire](https://open.spotify.com/album/04YQCSprd9hoxZYsTNrWhJ) | 2:59 |
+| 429 | [WHAT U DECIDE](https://open.spotify.com/track/2IDKSaNltyFhJUs5bOkm3T) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [WHAT U DECIDE](https://open.spotify.com/album/20LpJHpuXdYRmimtpg2plt) | 2:15 |
 
-Snapshot ID: `AAAcUG4qo91Ta4E1qOuQ3JTQ7FMa4Gbr`
+Snapshot ID: `AAAcVaPOkWuSRLvxKkf77xY9LK4wV+K2`

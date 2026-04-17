@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 376800,
+  "num_followers": 376879,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAACVBFth1FZyIDq7BOidRl+X",
+  "snapshot_id": "ad7VAAAAAAB/WXJaCziolDDap3855vd0",
   "tracks": [
     {
       "added_at": null,
@@ -254,15 +254,11 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 198466,
-      "name": "D\u00edas Tristes",
-      "url": "https://open.spotify.com/track/0BSG1hM4RR2ZtY50Fvkcdx"
+      "duration_ms": 152765,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/1YVjjxE9UErzHRL6hqA2CH"
     },
     {
       "added_at": null,
@@ -326,11 +322,15 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 152765,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/1YVjjxE9UErzHRL6hqA2CH"
+      "duration_ms": 198466,
+      "name": "D\u00edas Tristes",
+      "url": "https://open.spotify.com/track/0BSG1hM4RR2ZtY50Fvkcdx"
     },
     {
       "added_at": null,
@@ -415,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HEROINA",
-        "url": "https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal"
+        "name": "Tokome",
+        "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
       },
       "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 166181,
-      "name": "Stripper",
-      "url": "https://open.spotify.com/track/5QKrFTauGFgmrj4HQzOszg"
+      "duration_ms": 157450,
+      "name": "Tokome",
+      "url": "https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6"
     },
     {
       "added_at": null,
@@ -455,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokome",
-        "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
+        "name": "Lovelove U",
+        "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
       },
       "artists": [
         {
@@ -464,9 +460,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 157450,
-      "name": "Tokome",
-      "url": "https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6"
+      "duration_ms": 175479,
+      "name": "Lovelove U",
+      "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
     },
     {
       "added_at": null,
@@ -487,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovelove U",
-        "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
+        "name": "HEROINA",
+        "url": "https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal"
       },
       "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 175479,
-      "name": "Lovelove U",
-      "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
+      "duration_ms": 166181,
+      "name": "Stripper",
+      "url": "https://open.spotify.com/track/5QKrFTauGFgmrj4HQzOszg"
     },
     {
       "added_at": null,

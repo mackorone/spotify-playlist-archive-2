@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The voices shaping R&B. Cover: Wesley Joseph, Jorja Smith",
+  "description": "The voices shaping R&B. Cover: Tora-i",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -502,6 +502,28 @@
       "duration_ms": 214749,
       "name": "after the love",
       "url": "https://open.spotify.com/track/0e4lQTcrHvREhpCsccmhOx"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5Dj7KRmVUnjxz1MdNfgSMH"
+      },
+      "artists": [
+        {
+          "name": "Marie Dahlstrom",
+          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
+        },
+        {
+          "name": "Jords",
+          "url": "https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209146,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1Vdt5HO84vJr6hGui1rGie"
     },
     {
       "album": {
@@ -1822,7 +1844,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 181116,
       "name": "Cheddar",
       "url": "https://open.spotify.com/track/0McVW4rubFvfBLzRWhXpBH"
@@ -1956,7 +1978,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 153042,
       "name": "couture",
       "url": "https://open.spotify.com/track/391NOaXhF0TrlCgwDu3T5V"
@@ -2278,7 +2300,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 259142,
       "name": "Delulu",
       "url": "https://open.spotify.com/track/2BwdUAnoBIJpRPgs8vHg6K"
@@ -2506,6 +2528,24 @@
       "duration_ms": 194066,
       "name": "Doctor, My Eyes",
       "url": "https://open.spotify.com/track/4ZgXDDRSS4lVx1g3WkRon0"
+    },
+    {
+      "album": {
+        "name": "DON'T ASK!",
+        "url": "https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182395,
+      "name": "DON'T ASK!",
+      "url": "https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA"
     },
     {
       "album": {
@@ -3536,6 +3576,24 @@
       "duration_ms": 149773,
       "name": "ghosted",
       "url": "https://open.spotify.com/track/1YxifpuwgU6IcGt7NKUVpb"
+    },
+    {
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/2gWZJlucbSEUyCS1FaXeuq"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/08fPZ0IIoPCDIodw3J2LMi"
     },
     {
       "album": {
@@ -9420,7 +9478,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 147482,
       "name": "so i can feel again (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/6GeBTwuDueDVXIUvsrlXex"
@@ -9580,6 +9638,24 @@
       "duration_ms": 165000,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
+    },
+    {
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "SPLINTER",
+      "url": "https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj"
     },
     {
       "album": {

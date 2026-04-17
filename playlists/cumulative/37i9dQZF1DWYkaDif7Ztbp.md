@@ -2,9 +2,9 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover: Kidd Carder
+> The tracks heating up the continent right now!  Cover: Fally Ipupa
 
-681 songs - 1 day 16 hr 50 min
+682 songs - 1 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Italy \(feat\. Blaq Diamond\)](https://open.spotify.com/track/79P1sxrpp1phhTgF1gkaI8) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Italy \(feat\. Blaq Diamond\)](https://open.spotify.com/album/6yXZuo4j1YCVsbuDTJdwNp) | 3:08 | 2022-02-10 | 2022-05-20 |
 | [Izolo](https://open.spotify.com/track/1ix1dhMZI8cYXiyzHgun42) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Visca](https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Mpura](https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn) | [Banyana](https://open.spotify.com/album/2k5u0sNv2ERDu8eAIvRCC1) | 7:25 | 2022-12-29 | 2023-01-07 |
 | [i’m a mess](https://open.spotify.com/track/1muOmaGrLHPU86XiE8pLgJ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:33 | 2022-07-14 | 2022-07-29 |
+| [Jam](https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [XX](https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf) | 3:00 | 2026-04-17 |  |
 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 | 2024-01-19 | 2024-03-22 |
 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/1e6YKMFg7PLb51KorjUT8C) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [BUTiFLY](https://open.spotify.com/album/2xvYJb8vpUxIvzmUTeleQ3) | 2:44 | 2026-03-04 | 2026-03-09 |
 | [Jealousy \(feat\. Leemckrazy & Ceeka RSA\)](https://open.spotify.com/track/6OGNF7mro80pMi5q1HhylS) | [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY) | [Jealousy \(feat\. Leemckrazy & Ceeka RSA\)](https://open.spotify.com/album/0prfEaQxPCu9UqPSnscpoS) | 6:30 | 2024-12-23 | 2025-08-09 |
@@ -348,7 +349,7 @@
 | [Kwelanga 2.0 \(feat\. Tman Xpress & LeeMcKrazy\)](https://open.spotify.com/track/1gM44tVZ9pfUe9v35Stp31) | [Bassie](https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6), [M\-Touch](https://open.spotify.com/artist/1WyQuSMk2VrDyfYfdfa4w6), [Ranger](https://open.spotify.com/artist/6V0AnQuqPD8zkTZKbO1pbk), [Amaza](https://open.spotify.com/artist/0lxNEAFHu0uIMSTWMiKV3q), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx) | [Kwelanga](https://open.spotify.com/album/2z9yriqyUhlEWg1HQXPwRK) | 7:21 | 2024-07-26 | 2024-10-25 |
 | [Laho](https://open.spotify.com/track/0lhLSwvRKGHfIcVEz3uQK6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Laho](https://open.spotify.com/album/65SUCKOvwWityHzXuDGWTl) | 2:24 | 2025-12-30 | 2026-01-06 |
 | [Laho](https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Laho](https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ) | 2:24 | 2025-03-14 | 2025-04-25 |
-| [Laho II](https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Laho II](https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR) | 2:39 | 2025-04-25 |  |
+| [Laho II](https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Laho II](https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR) | 2:39 | 2025-04-25 | 2026-04-17 |
 | [Lapaz Toyota](https://open.spotify.com/track/0Xu5qQoq3ZzMxK4uZlCA8a) | [Guru Nkz](https://open.spotify.com/artist/02erLj5S8dJEjZyFYug3Ck) | [Lapaz Toyota](https://open.spotify.com/album/77ld1gjHrcJAnXJ7hZXB6X) | 4:47 | 2026-03-04 | 2026-03-09 |
 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 | 2024-05-31 | 2024-06-28 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-12 | 2023-03-23 |

@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-316 songs - 19 hr 33 min
+317 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Si Te Portas Bonito](https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 5:01 | 2023-07-28 | 2025-08-16 |
 | [Sideways](https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:13 | 2024-07-26 |  |
 | [Simple Hit](https://open.spotify.com/track/0C3QADQBYFjcSeU8bY7Oex) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Simple Hit](https://open.spotify.com/album/4cNRNpj5a81e2iF5cIb1n5) | 3:39 | 2022-03-29 | 2022-04-29 |
-| [Simple Things](https://open.spotify.com/track/0Q1XK58PPN7VZIBK6a3DFf) | [VITO \(UK\)](https://open.spotify.com/artist/4ipu1Wi05H8ZdEkvULDaKI), [Marian \(BR\)](https://open.spotify.com/artist/5FCqRgK9PqJYyfnBJg4AeH) | [Simple Things](https://open.spotify.com/album/3bKOdCt0sT8z5bthYD2zfr) | 4:13 | 2026-03-20 |  |
+| [Simple Things](https://open.spotify.com/track/0Q1XK58PPN7VZIBK6a3DFf) | [VITO \(UK\)](https://open.spotify.com/artist/4ipu1Wi05H8ZdEkvULDaKI), [Marian \(BR\)](https://open.spotify.com/artist/5FCqRgK9PqJYyfnBJg4AeH) | [Simple Things](https://open.spotify.com/album/3bKOdCt0sT8z5bthYD2zfr) | 4:13 | 2026-03-20 | 2026-04-17 |
 | [Skywalking](https://open.spotify.com/track/0so587BGO1K3OU3fMqF25I) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Skywalking](https://open.spotify.com/album/0UbrZBSsBlWSNiUW9bRw5o) | 6:14 | 2022-03-29 | 2022-06-28 |
 | [So Fine](https://open.spotify.com/track/14qkKbAfG7tYYrgtlZXZFr) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [So Fine](https://open.spotify.com/album/7tcQHmLF5xdqM93umRMdt5) | 3:36 | 2022-03-29 | 2022-07-28 |
 | [SOFIA](https://open.spotify.com/track/1U40NYEnXxvbwdmDugvgjS) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:53 | 2024-07-26 | 2026-03-21 |
@@ -280,6 +280,7 @@
 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 | 2022-03-29 | 2024-08-10 |
 | [Sweet Potato](https://open.spotify.com/track/6E09140FnSWgjdUJJosGfx) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Sweet Potato](https://open.spotify.com/album/3jMgo1MoBGBoAHfy3cgEeV) | 2:46 | 2022-06-27 | 2022-07-27 |
 | [Tambora](https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Tambora](https://open.spotify.com/album/7LUHIlbhuFHoZKRlamEd9Y) | 2:30 | 2026-03-20 | 2026-04-12 |
+| [Te Doy La Libertad](https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Spanish Chica](https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN) | 4:04 | 2026-04-10 |  |
 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 | 2024-04-19 |  |
 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 | 2023-12-07 | 2026-03-21 |
 | [Tell Me What You Want](https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Tell Me What You Want](https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi) | 2:40 | 2024-08-09 | 2025-03-23 |

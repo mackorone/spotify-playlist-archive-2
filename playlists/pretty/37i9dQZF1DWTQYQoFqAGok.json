@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65219,
+  "num_followers": 65227,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Electratoaster - EP",
-        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
-      },
-      "artists": [
-        {
-          "name": "Gigio Romero",
-          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
-        }
-      ],
-      "duration_ms": 257004,
-      "name": "Dana (Cha-Cha-Shag)",
-      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "D\u00edas Lentos",
         "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 214000,
       "name": "Chorinho Blanco",
       "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Electratoaster - EP",
+        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
+      },
+      "artists": [
+        {
+          "name": "Gigio Romero",
+          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
+        }
+      ],
+      "duration_ms": 257004,
+      "name": "Dana (Cha-Cha-Shag)",
+      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Groove Zone",
-        "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
-      },
-      "artists": [
-        {
-          "name": "Pepe Hernandez",
-          "url": "https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW"
-        }
-      ],
-      "duration_ms": 272771,
-      "name": "Nu Soul",
-      "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "What's The Rush? (Remastered)",
         "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
       },
@@ -763,22 +747,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "2 Cartas",
-        "url": "https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3"
+        "name": "Groove Zone",
+        "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Antonio S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
+          "name": "Pepe Hernandez",
+          "url": "https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW"
         }
       ],
-      "duration_ms": 285386,
-      "name": "2 Cartas",
-      "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
+      "duration_ms": 272771,
+      "name": "Nu Soul",
+      "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -807,6 +787,22 @@
       "duration_ms": 238039,
       "name": "La Danza de Helmut",
       "url": "https://open.spotify.com/track/3XIuXL9FZBfoQe0KK7tdqc"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cruz Tr\u00edo",
+          "url": "https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL"
+        }
+      ],
+      "duration_ms": 378493,
+      "name": "A la Ventana Carolina",
+      "url": "https://open.spotify.com/track/1JFYLc7GyftevczE418CcE"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -851,18 +847,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx"
+        "name": "2 Cartas",
+        "url": "https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3"
       },
       "artists": [
         {
-          "name": "Aaron Cruz Tr\u00edo",
-          "url": "https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Antonio S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
         }
       ],
-      "duration_ms": 378493,
-      "name": "A la Ventana Carolina",
-      "url": "https://open.spotify.com/track/1JFYLc7GyftevczE418CcE"
+      "duration_ms": 285386,
+      "name": "2 Cartas",
+      "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
     },
     {
       "added_at": "2024-08-29 03:09:23",

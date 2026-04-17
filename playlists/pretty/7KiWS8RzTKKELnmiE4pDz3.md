@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 194 songs - 12 hr 0 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 197 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,5 +202,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 192 | [Get Ya Mind Right](https://open.spotify.com/track/3QHdKXnXbI7Moz2lhVK0bq) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Let’s Get It: Thug Motivation 101 \(Deluxe Edition\)](https://open.spotify.com/album/7z6s0Wd7MWCJYLYyMOfRJl) | 3:41 |
 | 193 | [616 Rewind](https://open.spotify.com/track/4SelxC1hEiz0Rn3yoFAAWg) | [CunninLynguists](https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa), [Tonedeff](https://open.spotify.com/artist/6tJRz44hifa2rNseM7RoTt), [Sankofa](https://open.spotify.com/artist/1oJN0sVkiKJM7IkNRXTX40), [Kashal Tee](https://open.spotify.com/artist/7F7sg8CCxnqXibGtqf9U4V), [Celph Titled](https://open.spotify.com/artist/6bJSpzkLD8XYKqsXJ5jJNS) | [Will Rap for Food \(Deluxe Edition\)](https://open.spotify.com/album/6mlzH4VwTfAHyRM8bnO0T7) | 4:15 |
 | 194 | [Brianstorm](https://open.spotify.com/track/5rTIpPWeO0IL4HWlGWrz5G) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:50 |
+| 195 | [Big Bag Talk](https://open.spotify.com/track/2oHhxuEZkVT6TADkyLlFvX) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Live And In Color](https://open.spotify.com/album/4F6xX5UGoiGGpLpItFYHzp) | 3:09 |
+| 196 | [Get Right \(feat\. Project Pat\)](https://open.spotify.com/track/5GOX4KkLskHaG9UfEuNPfX) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Live And In Color](https://open.spotify.com/album/4F6xX5UGoiGGpLpItFYHzp) | 2:32 |
+| 197 | [We Live](https://open.spotify.com/track/3hcMXaYUqCOUuFgJOoBBl2) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Live And In Color](https://open.spotify.com/album/4F6xX5UGoiGGpLpItFYHzp) | 1:25 |
 
-Snapshot ID: `AAAgGnKnh41hj89gs0hltpkl2WTDlcBz`
+Snapshot ID: `AAAgHXdeYNEiim+ELhwMk6jUgh29Uk/b`

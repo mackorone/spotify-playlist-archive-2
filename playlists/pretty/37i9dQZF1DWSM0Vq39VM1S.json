@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388727,
+  "num_followers": 388705,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-04-09 22:01:32",
       "album": {
-        "name": "Old Man",
-        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 207242,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
-    },
-    {
-      "added_at": "2026-04-09 22:01:32",
-      "album": {
         "name": "Rent California",
         "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 243595,
       "name": "Rent California",
       "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
+    },
+    {
+      "added_at": "2026-04-09 22:01:32",
+      "album": {
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 207242,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
     },
     {
       "added_at": "2026-04-09 22:01:32",
@@ -415,26 +415,6 @@
     {
       "added_at": "2026-04-09 22:01:32",
       "album": {
-        "name": "Stranger - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4Yzt0EVPbpFPVFvaN4BUkF"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 146430,
-      "name": "Stranger - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1QzvrIv4uCWf3pv1xCUvAf"
-    },
-    {
-      "added_at": "2026-04-09 22:01:32",
-      "album": {
         "name": "BIG MONEY",
         "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 251502,
       "name": "LEAN ON MY LOVE (feat. Andra Day)",
       "url": "https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee"
+    },
+    {
+      "added_at": "2026-04-09 22:01:32",
+      "album": {
+        "name": "Stranger - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4Yzt0EVPbpFPVFvaN4BUkF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 146430,
+      "name": "Stranger - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1QzvrIv4uCWf3pv1xCUvAf"
     },
     {
       "added_at": "2026-04-09 22:01:32",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-04-09 22:01:32",
       "album": {
-        "name": "Yours Or Mine",
-        "url": "https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2"
-      },
-      "artists": [
-        {
-          "name": "Hajaj",
-          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
-        }
-      ],
-      "duration_ms": 230977,
-      "name": "Yours Or Mine",
-      "url": "https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4"
-    },
-    {
-      "added_at": "2026-04-09 22:01:32",
-      "album": {
         "name": "Ridin'",
         "url": "https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2026-04-09 22:01:32",
       "album": {
-        "name": "Against The Current",
-        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
+        "name": "Yours Or Mine",
+        "url": "https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2"
       },
       "artists": [
         {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
         }
       ],
-      "duration_ms": 216426,
-      "name": "Against The Current",
-      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
+      "duration_ms": 230977,
+      "name": "Yours Or Mine",
+      "url": "https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4"
     },
     {
       "added_at": "2026-04-09 22:01:32",
@@ -635,6 +619,22 @@
       "duration_ms": 143268,
       "name": "Borrow mine",
       "url": "https://open.spotify.com/track/3IB7RouchQngKLsY3ZWSS5"
+    },
+    {
+      "added_at": "2026-04-09 22:01:32",
+      "album": {
+        "name": "Against The Current",
+        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Against The Current",
+      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
     },
     {
       "added_at": "2026-04-09 22:01:32",

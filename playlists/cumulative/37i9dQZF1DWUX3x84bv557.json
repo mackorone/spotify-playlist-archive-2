@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Russo",
+  "description": "Frisse Nederlandse pop. Cover: FLEMMING, Trobi & Snelle",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -82,6 +82,28 @@
       "duration_ms": 186813,
       "name": "1 Dans",
       "url": "https://open.spotify.com/track/2kO7seuAYgbVWVvVzLZSP3"
+    },
+    {
+      "album": {
+        "name": "Samen Is Leuker Dan Alleen",
+        "url": "https://open.spotify.com/album/48Y7pJ00km4Md3neQJM9Tf"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151237,
+      "name": "1 Glas",
+      "url": "https://open.spotify.com/track/6clSdKrl17kWuNT28L17nV"
     },
     {
       "album": {
@@ -1095,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "Alleen Met Mij",
+        "url": "https://open.spotify.com/album/1saku8NgoF4jMVAh3PDiz5"
+      },
+      "artists": [
+        {
+          "name": "Roets",
+          "url": "https://open.spotify.com/artist/3K0u138EjCuhbWEwUnGwmu"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139760,
+      "name": "Alleen Met Mij",
+      "url": "https://open.spotify.com/track/7qBnso24ioY5e2paJWFKTL"
+    },
+    {
+      "album": {
         "name": "Alleen op de wereld",
         "url": "https://open.spotify.com/album/5MRBUpQbMCON0mx61DzAFL"
       },
@@ -1328,6 +1368,24 @@
       "duration_ms": 195386,
       "name": "Alles Kwijt - Live in Carr\u00e9 2023",
       "url": "https://open.spotify.com/track/3swj4AMjeqaPxHAqftfAq8"
+    },
+    {
+      "album": {
+        "name": "Alles of Niets",
+        "url": "https://open.spotify.com/album/11b75O1vrwS4FO5YprIjkn"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136935,
+      "name": "Alles of Niets",
+      "url": "https://open.spotify.com/track/5OC1jrn8jYlBj3W5OmfHkJ"
     },
     {
       "album": {
@@ -4921,6 +4979,24 @@
     },
     {
       "album": {
+        "name": "De Kroeg",
+        "url": "https://open.spotify.com/album/1fq5xZhnwRumsxsPXX0HKz"
+      },
+      "artists": [
+        {
+          "name": "Nino",
+          "url": "https://open.spotify.com/artist/33qeczxHwDRybWmW1vI2Nu"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179310,
+      "name": "De Kroeg",
+      "url": "https://open.spotify.com/track/2BQUkwFfjxOerNgb3SEG7P"
+    },
+    {
+      "album": {
         "name": "De Laatste Keer",
         "url": "https://open.spotify.com/album/5EFiDReWmoIkvCGLvVLwvZ"
       },
@@ -5774,7 +5850,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 146132,
       "name": "Dokter",
       "url": "https://open.spotify.com/track/25Vcw9JrYrUf9I2jKIQcST"
@@ -6042,7 +6118,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 202758,
       "name": "Droom",
       "url": "https://open.spotify.com/track/5eAudbQPYwHtyNom3Pl5sf"
@@ -9569,6 +9645,24 @@
     },
     {
       "album": {
+        "name": "Hou van mezelf",
+        "url": "https://open.spotify.com/album/2yDI54RFHQgh3MvGPAhcqD"
+      },
+      "artists": [
+        {
+          "name": "Pleun",
+          "url": "https://open.spotify.com/artist/3pb53tofp8YlvcYAlWHNjx"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180706,
+      "name": "Hou van mezelf",
+      "url": "https://open.spotify.com/track/0FcqV3x0ctMnnK82W2TA43"
+    },
+    {
+      "album": {
         "name": "Houden Van Haten",
         "url": "https://open.spotify.com/album/5pTIrOVqiNEe0pi9pV333j"
       },
@@ -10480,7 +10574,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 197799,
       "name": "Ik Voel Me Zo Verdomd Alleen",
       "url": "https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG"
@@ -10564,6 +10658,24 @@
       "duration_ms": 174953,
       "name": "Ik Wil Dat Je Liegt",
       "url": "https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU"
+    },
+    {
+      "album": {
+        "name": "Ik word nooit je man / Houden van mij mag nu in je eentje",
+        "url": "https://open.spotify.com/album/2er8o4xPtEE5JpoVXil3b9"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198277,
+      "name": "Ik word nooit je man",
+      "url": "https://open.spotify.com/track/0QcqIDQXJlq9UEVwnmQnyt"
     },
     {
       "album": {
@@ -11384,7 +11496,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 160481,
       "name": "Jouw Moment",
       "url": "https://open.spotify.com/track/04CMjdiQKsS1EKuYkmE9YD"
@@ -11723,6 +11835,24 @@
     },
     {
       "album": {
+        "name": "Kingsize Bed",
+        "url": "https://open.spotify.com/album/14h229HZfdrktan1EQaaIT"
+      },
+      "artists": [
+        {
+          "name": "Hansen Tomas",
+          "url": "https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154752,
+      "name": "Kingsize Bed",
+      "url": "https://open.spotify.com/track/1V7NFChveWl2i1QkT4PyBb"
+    },
+    {
+      "album": {
         "name": "Klaar Met Jou",
         "url": "https://open.spotify.com/album/6mnhnt9QUJDMXRcmAgfxpY"
       },
@@ -11806,7 +11936,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 127769,
       "name": "Kleine kometen",
       "url": "https://open.spotify.com/track/0IWs52tOay3lU8lYSCqu9O"
@@ -12064,6 +12194,24 @@
       "duration_ms": 148070,
       "name": "Komt Goed",
       "url": "https://open.spotify.com/track/3qIJrZsdgUxtCjop0MD5gs"
+    },
+    {
+      "album": {
+        "name": "Koning",
+        "url": "https://open.spotify.com/album/0moTgtPcTHQVEKxJ4ZFXBZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Forte",
+          "url": "https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161427,
+      "name": "Koning",
+      "url": "https://open.spotify.com/track/0iEx4vifhq4fhi2qoqcfSJ"
     },
     {
       "album": {
@@ -12952,7 +13100,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 178000,
       "name": "Leun Maar Op Mij",
       "url": "https://open.spotify.com/track/6CDrrTgSp0UGOWwse24uWn"
@@ -13862,7 +14010,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 193738,
       "name": "Me Enamoro",
       "url": "https://open.spotify.com/track/4pnm1a0IwpibMqiYw7hRup"
@@ -17330,7 +17478,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 144520,
       "name": "Radio",
       "url": "https://open.spotify.com/track/2NhflROyhPgc2AtDjRo9bC"
@@ -19752,7 +19900,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 134561,
       "name": "The One",
       "url": "https://open.spotify.com/track/2pB1SUpDblBsmCLyt4RXan"
@@ -20778,7 +20926,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 195160,
       "name": "Vergeven",
       "url": "https://open.spotify.com/track/7n2GoIkriYMco6mk7udtoK"
@@ -21256,7 +21404,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 164402,
       "name": "Voelen Dat Ik Leef",
       "url": "https://open.spotify.com/track/3Zg0fHvU7UOcEyprrLt0Oq"
@@ -21840,7 +21988,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 217467,
       "name": "Waar Ik Ben",
       "url": "https://open.spotify.com/track/5f8CxfFjYKpbZMPGenQMbG"
@@ -22496,6 +22644,32 @@
       "duration_ms": 210986,
       "name": "We Vieren Het Toch",
       "url": "https://open.spotify.com/track/0lGq8CN6aFfJ7LuOQbZn8f"
+    },
+    {
+      "album": {
+        "name": "Samen Is Leuker Dan Alleen",
+        "url": "https://open.spotify.com/album/48Y7pJ00km4Md3neQJM9Tf"
+      },
+      "artists": [
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        },
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163653,
+      "name": "Weer Een Dagje Ouder",
+      "url": "https://open.spotify.com/track/7zAYKczeN7LibBSPX48qrW"
     },
     {
       "album": {
@@ -23303,6 +23477,32 @@
     },
     {
       "album": {
+        "name": "Zij Hoort Bij Mij",
+        "url": "https://open.spotify.com/album/5DIbGZCUppQpa7eZ3RWN8o"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        },
+        {
+          "name": "Frans Bauer",
+          "url": "https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126976,
+      "name": "Zij Hoort Bij Mij",
+      "url": "https://open.spotify.com/track/4NzVNVrPqz7APlA5C0TuBP"
+    },
+    {
+      "album": {
         "name": "Zij is met me",
         "url": "https://open.spotify.com/album/30ieAMDw3MoOtdsS0OYIlF"
       },
@@ -23354,7 +23554,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 171023,
       "name": "Zijn Probleem",
       "url": "https://open.spotify.com/track/7FJo5nWEp80SJsJ4ibkkof"
@@ -23462,7 +23662,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 188400,
       "name": "Zoals Ik Doe",
       "url": "https://open.spotify.com/track/1XmXqzm6UCtFirlJTGRPDm"
@@ -23856,7 +24056,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 175380,
       "name": "Zonder Jou",
       "url": "https://open.spotify.com/track/1amdcqzkjFf3eVuoIKyNDh"

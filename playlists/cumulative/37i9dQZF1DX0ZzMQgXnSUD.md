@@ -2,9 +2,9 @@
 
 ### [Best of Bond](https://open.spotify.com/playlist/37i9dQZF1DX0ZzMQgXnSUD)
 
-> Shaken, not stirred..\. Cover: Doja Cat
+> Shaken, not stirred..\. Cover: Lana Del Rey
 
-53 songs - 3 hr 8 min
+54 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Another Way to Die](https://open.spotify.com/track/01bMpqmvH031R417l3AQTA) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Quantum Of Solace: Original Motion Picture Soundtrack](https://open.spotify.com/album/2ahUhfrELmIHEUEiWUC1Nv) | 4:23 | 2022-04-14 | 2022-11-13 |
 | [Diamonds Are Forever](https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Let Me Sing and I'm Happy](https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5) | 2:41 | 2021-10-14 |  |
 | [Die Another Day](https://open.spotify.com/track/4NvgRMckw4uzjNn2t7taPe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:36 | 2021-10-14 |  |
+| [First Light](https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [First Light](https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4) | 3:24 | 2026-04-16 |  |
 | [For Your Eyes Only](https://open.spotify.com/track/4jRJWlkCn3pAwezfqFODU3) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [You Could Have Been With Me \[Bonus Tracks Version\]](https://open.spotify.com/album/4Enc1z5S8zcRxrVKcgnTyn) | 3:04 | 2022-04-14 | 2024-04-19 |
 | [For Your Eyes Only](https://open.spotify.com/track/725WEYn3Pksgnr4xlgKScZ) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [The Best of Bond...James Bond](https://open.spotify.com/album/2lHvf04m2IO93HC7PNdkfL) | 3:04 | 2022-03-28 |  |
 | [From Russia with Love](https://open.spotify.com/track/2iM5xuFmyzhTQql4lbB4ao) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [In the Mood for Easy Listening](https://open.spotify.com/album/2MzdhaYw4NNA23KscFxOia) | 2:34 | 2022-04-14 | 2022-11-14 |

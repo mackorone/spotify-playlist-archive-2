@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: Pimmie
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,124 likes - 169 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,139 likes - 169 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

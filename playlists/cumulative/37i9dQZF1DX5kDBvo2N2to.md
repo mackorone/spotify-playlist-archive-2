@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-594 songs - 1 day 7 hr 39 min
+595 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Cutting Ties](https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Cutting Ties](https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp) | 4:21 | 2025-10-09 | 2026-04-03 |
 | [cypress](https://open.spotify.com/track/4Z9RsUUOjGkSraOB2h8Cbg) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [cypress](https://open.spotify.com/album/34A3HZas24PfzMckyhVKrt) | 4:32 | 2025-05-15 | 2025-09-09 |
 | [D enkla livet](https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [D enkla livet](https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0) | 3:28 | 2024-06-28 | 2024-08-16 |
+| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2026-04-16 |  |
 | [Daisy](https://open.spotify.com/track/0d7flN7b6jYvCamBnU1NZO) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Daisy](https://open.spotify.com/album/6N7jh5ffhLYxx05vXbPFe7) | 3:28 | 2025-01-16 | 2025-03-09 |
 | [Dallas](https://open.spotify.com/track/37YwXzdP7EdR487VhhCPdP) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx) | [Dallas](https://open.spotify.com/album/7IcbNnWX8Lp2S0ZgkGwb0X) | 2:04 | 2026-02-19 | 2026-02-27 |
 | [Damned](https://open.spotify.com/track/4aSqI2QSyfmnCBmKqaExz0) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ) | [Damned](https://open.spotify.com/album/1rKX1Fsy3e8H1dpFt1BFXn) | 2:34 | 2025-09-04 | 2026-02-20 |
@@ -141,7 +142,7 @@
 | [Ditt hjärta bor](https://open.spotify.com/track/61HiBDc2oUSHectbGwr7GU) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Sjung om \(lyxversion\)](https://open.spotify.com/album/0ncTdDynh14mkzhC6KHfJ2) | 2:39 | 2024-06-28 | 2024-08-30 |
 | [Ditt safeword ikväll?](https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Ditt safeword ikväll?](https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg) | 2:12 | 2024-10-10 | 2025-01-19 |
 | [Do You Love Me](https://open.spotify.com/track/5lMiSTRHgJWp16KUCjef9y) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Do You Love Me](https://open.spotify.com/album/20mAlA3bsGhvDFPKgpLD3I) | 2:54 | 2025-06-12 | 2025-10-12 |
-| [Dominos](https://open.spotify.com/track/1QUflqkPMZBpiMkrLhLG5i) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Som i en dröm](https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM) | 2:40 | 2026-04-02 |  |
+| [Dominos](https://open.spotify.com/track/1QUflqkPMZBpiMkrLhLG5i) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Som i en dröm](https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM) | 2:40 | 2026-04-02 | 2026-04-17 |
 | [Dominos](https://open.spotify.com/track/7wI92IXumenyQgway6FaKs) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Dominos](https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg) | 2:40 | 2025-04-24 | 2026-02-13 |
 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-04-02 |  |
 | [Driver dagg faller regn](https://open.spotify.com/track/7sr9OAMBkVp90D17mgzkuN) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Driver dagg faller regn](https://open.spotify.com/album/79XqkwbMx2FEIrSb9keJ9N) | 3:47 | 2024-11-08 | 2025-02-02 |
@@ -324,7 +325,7 @@
 | [Känslostyrd](https://open.spotify.com/track/2uehAVAiwspd3OlukIw100) | [Sebastian Lara](https://open.spotify.com/artist/1gK6bR7fr8AfgfdZfGPyB0) | [Känslostyrd](https://open.spotify.com/album/1XBacOnNOR4BkbBRAPCxoe) | 2:28 | 2026-01-12 | 2026-04-03 |
 | [Kära Idioter](https://open.spotify.com/track/2UfUdKkWiq4SSaV0WOnc16) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Kära Idioter](https://open.spotify.com/album/44I05AXUG1XXhRzdY2sV9U) | 2:50 | 2025-03-07 | 2025-03-30 |
 | [l.o.v.e](https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [l.o.v.e](https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL) | 2:59 | 2025-10-02 | 2026-04-03 |
-| [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 | 2026-04-02 |  |
+| [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 | 2026-04-02 | 2026-04-17 |
 | [Ladder](https://open.spotify.com/track/3vRVeGYoJGYSkbka121cx2) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [Ladder](https://open.spotify.com/album/4v1tuyoBHh0F60UbAo7NcZ) | 3:14 | 2026-03-26 | 2026-04-03 |
 | [Lampan tänd för dig](https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Lampan tänd för dig](https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl) | 2:33 | 2025-03-20 | 2026-01-30 |
 | [Lasse & hunden](https://open.spotify.com/track/2ugliGsPZth0lK3QKinrRy) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Lasse & hunden](https://open.spotify.com/album/0SEyzhS1YHYQCsyTIlxzIG) | 2:44 | 2025-03-24 | 2025-09-05 |

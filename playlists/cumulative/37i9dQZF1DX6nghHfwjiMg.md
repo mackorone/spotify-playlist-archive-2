@@ -2,7 +2,7 @@
 
 ### [RADAR Argentina](https://open.spotify.com/playlist/37i9dQZF1DX6nghHfwjiMg)
 
-> El futuro está acá 📸 Little Boggie
+> Descubrí nuevos artistas, nueva música todas las semanas 📸 Little Boggie
 
 278 songs - 14 hr 20 min
 

@@ -7470,7 +7470,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 300878,
       "name": "Obinasom",
       "url": "https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC"
@@ -10798,6 +10798,24 @@
       "duration_ms": 464306,
       "name": "Yeshua Hamashiach",
       "url": "https://open.spotify.com/track/6xmcjy9fiHc5UZlUZDg5uy"
+    },
+    {
+      "album": {
+        "name": "Yeshua!",
+        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220766,
+      "name": "Yeshua!",
+      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
     },
     {
       "album": {

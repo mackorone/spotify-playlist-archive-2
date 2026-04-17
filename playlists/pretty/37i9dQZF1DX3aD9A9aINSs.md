@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Sena Şahin
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,261 likes - 88 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,261 likes - 86 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,16 +85,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 75 | [Mihman](https://open.spotify.com/track/4dL91YXXbLZG2qbmicYyqR) | [Güler Duman](https://open.spotify.com/artist/56TBrBN0rtJxZfvKcGtfDS), [Ahmet Gültekin](https://open.spotify.com/artist/2bfx9GYBxeXZ6hkxJiHOgi) | [Mihman](https://open.spotify.com/album/2F1B49bW880GnThdqTE8PF) | 4:35 |
 | 76 | [İyi Misin?](https://open.spotify.com/track/3ntOHn0bpVsl4e5nsoCe8n) | [Cemre Esel](https://open.spotify.com/artist/7gkOxCFAj4vvJ3EcKlWjHi) | [İyi Misin?](https://open.spotify.com/album/3G1voqSI0588ghZTopOlrT) | 2:54 |
 | 77 | [bir başıma](https://open.spotify.com/track/0ZmMfFOkX1TPvvPh2ukPFp) | [ELARA](https://open.spotify.com/artist/43GTMffFpic3whTow0orG4) | [DYSTOPIA](https://open.spotify.com/album/7paahfKAo6TkYME9uw9Tfr) | 3:19 |
-| 78 | [kuş gibi](https://open.spotify.com/track/24d0dWSUWmogEax1FZt7xC) | [Eda Atlas](https://open.spotify.com/artist/7evFI1HE86akQXdNhdWJVd), [istanbul günlüğü](https://open.spotify.com/artist/1XIZrNcJyVWBO77ndl82Xk) | [kuş gibi](https://open.spotify.com/album/3h9SMqRKzzhGvrNAmVg4sI) | 1:59 |
-| 79 | [Deniz Üstü Köpürür](https://open.spotify.com/track/3OfIE6ER0D33b0LMaC3EB1) | [Meltem Hayirli](https://open.spotify.com/artist/4vv67pU9Jew189RY28jXCF), [Begüm Yiğit](https://open.spotify.com/artist/74jfszyHYEkbgAnlyl9HCa) | [Deniz Üstü Köpürür](https://open.spotify.com/album/25ef0d0jVtaet4p6YlJhaQ) | 2:37 |
-| 80 | [Pula Dönersin](https://open.spotify.com/track/6l61busWvnSMEV0EqXtRQ5) | [Hülya Evrensel](https://open.spotify.com/artist/6JVkiXE4QmX20m9tWsuicT) | [Pula Dönersin](https://open.spotify.com/album/3Rc6wHbHaKWfsXXx0XCRKe) | 4:55 |
-| 81 | [YARA İÇİNDE YARA](https://open.spotify.com/track/28F2QcsmjE0eMhnudafxeU) | [Dilara Torlak](https://open.spotify.com/artist/2I85dpiapm1nGUBUWtlRLX) | [YARA İÇİNDE YARA](https://open.spotify.com/album/7KEqkXMEarJ7P519VVOLBa) | 2:26 |
-| 82 | [An Meselesi](https://open.spotify.com/track/4TckSJJ0z2GSw8gkry8ZFn) | [Nilüfer Bektemur](https://open.spotify.com/artist/1F1IeR1cHAbuX1P2Ug7T6S) | [An Meselesi](https://open.spotify.com/album/5iCXRGDmaTKX7yxSP8HTde) | 3:31 |
-| 83 | [Anlamazlar](https://open.spotify.com/track/5n2dyBpz17dMIQPyyxy6GI) | [Jülide](https://open.spotify.com/artist/2jORWiqkOfzfaNL0FPbH5w) | [Anlamazlar](https://open.spotify.com/album/56rSdpJmFaFPnfQZjRi8uj) | 3:11 |
-| 84 | [Kalp Kırıcı](https://open.spotify.com/track/7AIhJGK6BXvyVnOz7jPYxF) | [Işıl Yücesoy](https://open.spotify.com/artist/1WjIcCjkJaaiW4rgwXsyuU) | [Kalp Kırıcı](https://open.spotify.com/album/5FM11VN98NQg2ewTMWPG58) | 2:31 |
-| 85 | [Tuttu Ellerimi](https://open.spotify.com/track/5LXMvKI2mCWjg7tbA7yHis) | [Ceren Hocaoğlu](https://open.spotify.com/artist/1SR1sF3sCRJb6xR6tl99hA) | [Tuttu Ellerimi](https://open.spotify.com/album/1Coq8nrzfSUs1zclnuq5Wm) | 2:20 |
-| 86 | [Başı Bağlı](https://open.spotify.com/track/3IHFikNS50ACvnLuVmEE0G) | [Nur Bal](https://open.spotify.com/artist/4C0FBerSEmtJZBHN3knRmE) | [Başı Bağlı](https://open.spotify.com/album/2uQZJOSL2LkSMfs67RuDwi) | 2:13 |
-| 87 | [Işıklar Yanar](https://open.spotify.com/track/6mpqBoqQ4rsxtdZGbyXpCp) | [Rüya Ersavcı](https://open.spotify.com/artist/057ReRdRcnTRIYOYOHM3ns) | [Işıklar Yanar](https://open.spotify.com/album/7pQq3MzyzSQxgPabrjtAxt) | 3:22 |
-| 88 | [Aşkın Güzelliği](https://open.spotify.com/track/2XlyEH3P1er4ydCzBrP3bV) | [Melike Demirağ](https://open.spotify.com/artist/2s6QqZySEQ9hVsqe59BqAa) | [Aşkın Güzelliği](https://open.spotify.com/album/2PHvHHSrDNt6fuUBYc8B4n) | 3:03 |
+| 78 | [Deniz Üstü Köpürür](https://open.spotify.com/track/3OfIE6ER0D33b0LMaC3EB1) | [Meltem Hayirli](https://open.spotify.com/artist/4vv67pU9Jew189RY28jXCF), [Begüm Yiğit](https://open.spotify.com/artist/74jfszyHYEkbgAnlyl9HCa) | [Deniz Üstü Köpürür](https://open.spotify.com/album/25ef0d0jVtaet4p6YlJhaQ) | 2:37 |
+| 79 | [Pula Dönersin](https://open.spotify.com/track/6l61busWvnSMEV0EqXtRQ5) | [Hülya Evrensel](https://open.spotify.com/artist/6JVkiXE4QmX20m9tWsuicT) | [Pula Dönersin](https://open.spotify.com/album/3Rc6wHbHaKWfsXXx0XCRKe) | 4:55 |
+| 80 | [YARA İÇİNDE YARA](https://open.spotify.com/track/28F2QcsmjE0eMhnudafxeU) | [Dilara Torlak](https://open.spotify.com/artist/2I85dpiapm1nGUBUWtlRLX) | [YARA İÇİNDE YARA](https://open.spotify.com/album/7KEqkXMEarJ7P519VVOLBa) | 2:26 |
+| 81 | [An Meselesi](https://open.spotify.com/track/4TckSJJ0z2GSw8gkry8ZFn) | [Nilüfer Bektemur](https://open.spotify.com/artist/1F1IeR1cHAbuX1P2Ug7T6S) | [An Meselesi](https://open.spotify.com/album/5iCXRGDmaTKX7yxSP8HTde) | 3:31 |
+| 82 | [Anlamazlar](https://open.spotify.com/track/5n2dyBpz17dMIQPyyxy6GI) | [Jülide](https://open.spotify.com/artist/2jORWiqkOfzfaNL0FPbH5w) | [Anlamazlar](https://open.spotify.com/album/56rSdpJmFaFPnfQZjRi8uj) | 3:11 |
+| 83 | [Tuttu Ellerimi](https://open.spotify.com/track/5LXMvKI2mCWjg7tbA7yHis) | [Ceren Hocaoğlu](https://open.spotify.com/artist/1SR1sF3sCRJb6xR6tl99hA) | [Tuttu Ellerimi](https://open.spotify.com/album/1Coq8nrzfSUs1zclnuq5Wm) | 2:20 |
+| 84 | [Başı Bağlı](https://open.spotify.com/track/3IHFikNS50ACvnLuVmEE0G) | [Nur Bal](https://open.spotify.com/artist/4C0FBerSEmtJZBHN3knRmE) | [Başı Bağlı](https://open.spotify.com/album/2uQZJOSL2LkSMfs67RuDwi) | 2:13 |
+| 85 | [Işıklar Yanar](https://open.spotify.com/track/6mpqBoqQ4rsxtdZGbyXpCp) | [Rüya Ersavcı](https://open.spotify.com/artist/057ReRdRcnTRIYOYOHM3ns) | [Işıklar Yanar](https://open.spotify.com/album/7pQq3MzyzSQxgPabrjtAxt) | 3:22 |
+| 86 | [Aşkın Güzelliği](https://open.spotify.com/track/2XlyEH3P1er4ydCzBrP3bV) | [Melike Demirağ](https://open.spotify.com/artist/2s6QqZySEQ9hVsqe59BqAa) | [Aşkın Güzelliği](https://open.spotify.com/album/2PHvHHSrDNt6fuUBYc8B4n) | 3:03 |
 
-Snapshot ID: `AAAAALAi9nJHKzdSu+uWcbOKdgZGkFWN`
+Snapshot ID: `AAAAAEXSfMjycklTxCroZTrOqMziLCER`

@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 하현상\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 휘인 \(Whee In\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,174 songs - 2 day 23 hr 15 min
+1,176 songs - 2 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Daydream](https://open.spotify.com/track/3jLe3Jb7Ri2Tjcvnn03kZ6) | [EUNICE](https://open.spotify.com/artist/1ptpMZmWJI8ENe5I7TzEqU) | [Daydream](https://open.spotify.com/album/3SyG2CrI1QNdZSwvNONVVI) | 4:03 | 2024-10-27 | 2024-12-14 |
 | [Daylight](https://open.spotify.com/track/3VJSYgrJKUdc22n5GzVaza) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Parole Examiner Lee, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/40SxrE2o08KMsXPiqSIc4g) | 3:48 | 2024-11-21 | 2025-01-15 |
 | [Dazed & Confused](https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:47 | 2025-03-17 | 2026-03-27 |
-| [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 | 2025-06-10 |  |
+| [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 | 2025-06-10 | 2026-04-17 |
 | [Dear Joy](https://open.spotify.com/track/1HYPRFbjqzhdlZCXkMuoC5) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Dear Nobody](https://open.spotify.com/album/14CUSx8Br1OuPQmsXNnyd6) | 3:54 | 2025-06-10 | 2025-06-17 |
 | [Dear Love](https://open.spotify.com/track/0R4i9qbhgNQjJt5tGFbslP) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rendez\-Vous](https://open.spotify.com/album/6vK3j1RpbI17a2Tn2SqbTQ) | 5:02 | 2022-04-22 | 2022-07-14 |
 | [Dear Me](https://open.spotify.com/track/35Zg9ymD0ytUfRpyAnXv49) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Dear Me](https://open.spotify.com/album/0owjEdpdMRcomZHxqOzITp) | 3:36 | 2025-09-18 | 2025-09-24 |
@@ -290,13 +290,14 @@
 | [Face](https://open.spotify.com/track/50OgyUeTppAqsJbGthk2x9) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Face](https://open.spotify.com/album/1lcBukbd61zGUprqrePYMv) | 3:34 | 2024-02-21 | 2024-05-10 |
 | [Fading Person, Fading Love](https://open.spotify.com/track/64yMSkIEN5JJWUOhtSd3hl) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Fading Person, Fading Love](https://open.spotify.com/album/7zm4iYoy893pHeRYQKLGVr) | 3:52 | 2023-11-15 | 2024-05-10 |
 | [FAKE LOVE \- Rocking Vibe Mix](https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:58 | 2022-07-22 | 2024-03-22 |
-| [Fall Into The Sky](https://open.spotify.com/track/13e8aevTarVIQWjcvHvoYq) | [DADADA](https://open.spotify.com/artist/2QJ3Y9xgZFulkgbDnteypu) | [Fall Into The Sky](https://open.spotify.com/album/2rRWNBAA284jBTCloAeemh) | 3:50 | 2026-04-09 |  |
+| [Fall Into The Sky](https://open.spotify.com/track/13e8aevTarVIQWjcvHvoYq) | [DADADA](https://open.spotify.com/artist/2QJ3Y9xgZFulkgbDnteypu) | [Fall Into The Sky](https://open.spotify.com/album/2rRWNBAA284jBTCloAeemh) | 3:50 | 2026-04-09 | 2026-04-17 |
 | [Fallen](https://open.spotify.com/track/0jo45PactLXFCw311Xa4gi) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Fallen](https://open.spotify.com/album/2L6Wq8SWyqp11SYcH46Rsp) | 3:38 | 2022-12-22 | 2023-01-07 |
 | [falling flowers](https://open.spotify.com/track/70QKJJkJKYuSGMVDrSg6Zg) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [falling flowers](https://open.spotify.com/album/7E8wAPrJSayhaDNGuG5UF9) | 3:24 | 2024-04-09 | 2024-05-10 |
 | [Falling for](https://open.spotify.com/track/7AKvp1Fci3LydbDCFS5FCL) | [Saevie](https://open.spotify.com/artist/6VkF74y0Xi38WJyePVqwCV) | [Falling for](https://open.spotify.com/album/5Da9jMl5MXAV6ZG7FhRWNO) | 3:49 | 2024-11-06 | 2024-11-30 |
 | [Farewell for now!](https://open.spotify.com/track/4N9ges2SfrZcvO7J1zj2EH) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:27 | 2025-07-15 | 2025-09-26 |
 | [Fate](https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:41 | 2024-03-13 | 2025-04-30 |
 | [Fearless](https://open.spotify.com/track/3gu28iWFnrj9fzZO523qxf) | [Rolling Quartz](https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe) | [Fearless](https://open.spotify.com/album/4ajlLUmeRBBJWgfC9tIRwb) | 2:57 | 2023-09-20 | 2023-09-28 |
+| [Feel Me](https://open.spotify.com/track/2psEOi0dDz19G9BljUiL2v) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [Feel Me](https://open.spotify.com/album/4ObKjAefu7Dg1VcWrW3nKO) | 3:29 | 2026-04-16 |  |
 | [Ferris wheel](https://open.spotify.com/track/1Sn7DtIloV3CNuGO3Uok8K) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Ferris wheel](https://open.spotify.com/album/3BROQVd2b9S6DgTzIrnGf9) | 3:35 | 2026-01-15 | 2026-01-23 |
 | [Festival](https://open.spotify.com/track/6bbGdzd2wwAMQ8t9a8iXtg) | [HERD](https://open.spotify.com/artist/6aQtLvZBb5B8fy6KfWRvTQ) | [New Forest](https://open.spotify.com/album/6KayWBF4SwMXmRq7T0r1SX) | 3:31 | 2022-05-03 | 2022-06-27 |
 | [FIGHT](https://open.spotify.com/track/0shVYlsAgAr7Dn2HBqCuyZ) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [FIGHT](https://open.spotify.com/album/5zCQF6HSkA1WZdxuUgC5zk) | 3:40 | 2022-06-03 | 2022-07-03 |
@@ -987,6 +988,7 @@
 | [The Starry Night](https://open.spotify.com/track/0daiNZK6DTgP65O4mM3Iv1) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [WE : Dream Chaser](https://open.spotify.com/album/0gWM4TwSrL4t3fj4V9dfKb) | 3:17 | 2025-03-06 | 2025-04-12 |
 | [The Story Behind](https://open.spotify.com/track/1FjIg32VDdvHabecHKpe03) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Restart](https://open.spotify.com/album/3lZxrczzvuxPrbJYf8Sdyo) | 4:16 | 2024-01-09 | 2024-05-10 |
 | [The Summer We Shared](https://open.spotify.com/track/0BtqyDF7zslNB6aXx1sQZl) | [TOVE](https://open.spotify.com/artist/0wF5o1LMXTCIFKdPNkCvze) | [Echoes of Summer](https://open.spotify.com/album/5SRvSeWEjPKy2dqBUkUxeb) | 3:03 | 2025-09-22 | 2025-09-24 |
+| [The Symphony of Fxxkboys](https://open.spotify.com/track/52KygGkyBwayKKdv7gDAdP) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [adagio](https://open.spotify.com/album/1BNiIpMz58htoqjXUMpq1T) | 3:15 | 2026-04-16 |  |
 | [The Wave 파도](https://open.spotify.com/track/5uIsBpHUamPdpEkiVeKIyT) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [The Wave 파도](https://open.spotify.com/album/25MHFHuE0XqzgCYncmiFIE) | 4:42 | 2022-04-12 | 2022-04-21 |
 | [Thelma & Louise](https://open.spotify.com/track/0O1keBwfQKJxZK0qfwhEXn) | [Harrybigbutton](https://open.spotify.com/artist/0ePqNOsEhh6mPuKWLhggld) | [Thelma & Louise](https://open.spotify.com/album/1zQHPJd2bpykSQpqlYHsUT) | 3:32 | 2022-04-12 | 2022-05-12 |
 | [then](https://open.spotify.com/track/4QxYmsSK2bjNVwUspuogC0) | [DICKPUNKS](https://open.spotify.com/artist/2g1DmQlx7A9z1ctK0dNlen) | [then](https://open.spotify.com/album/2ySsYhkj4D4mTIYcvPH5tu) | 4:16 | 2022-04-12 | 2022-04-21 |
@@ -1087,7 +1089,7 @@
 | [White Seoul](https://open.spotify.com/track/2QB8bTfK7eOfaiTqL37SxP) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [White Seoul](https://open.spotify.com/album/30kR7wI3eWvdgmpHHhZnnj) | 3:58 | 2024-12-18 | 2025-03-01 |
 | [White the wilds](https://open.spotify.com/track/1bF5PdCcQPPi30hO6lfubH) | [muscoda](https://open.spotify.com/artist/0PFrzocEGd0JUKSkZvyYs8) | [White the wilds](https://open.spotify.com/album/64Bgsvemjrzdwpq7tYiL4G) | 4:28 | 2022-06-18 | 2022-07-13 |
 | [Who Are You](https://open.spotify.com/track/3p2pmzfh1NPvJhbYcGZHqo) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Who Are You \- The 4th Mini Album](https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB) | 3:04 | 2025-09-23 | 2025-11-15 |
-| [Whoever, Someone](https://open.spotify.com/track/2i6xxAfoNGjg1wD4maNStS) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Whoever, Someone](https://open.spotify.com/album/5IRjFw7dlHzDgdF5YJmZlx) | 4:03 | 2026-04-06 | 2026-04-10 |
+| [Whoever, Someone](https://open.spotify.com/track/2i6xxAfoNGjg1wD4maNStS) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Whoever, Someone](https://open.spotify.com/album/5IRjFw7dlHzDgdF5YJmZlx) | 4:03 | 2026-04-06 |  |
 | [Why You Worry About Me ?](https://open.spotify.com/track/0eFluhjGKP9fuHievmNyHw) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Urb Fisher](https://open.spotify.com/artist/0voTqkcuTrpIN2tZDzYccH) | [Why You Worry About Me ?](https://open.spotify.com/album/2m4lmQ1qIZSspi9kfqjAhH) | 2:32 | 2022-04-12 | 2022-05-08 |
 | [Why, Why, Why, Why?](https://open.spotify.com/track/0tabWZnomzilUiz0jWh6Tw) | [6band](https://open.spotify.com/artist/55MF5Kz0DX8pSvAYoZywh5) | [The Killer's Shopping List, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0MP9FMNoVcZN3ebEXKkSt5) | 3:01 | 2022-06-09 | 2022-06-14 |
 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 | 2022-07-22 |  |
@@ -1164,7 +1166,7 @@
 | [마네킨 Mannequin](https://open.spotify.com/track/2jZl3rjxP3BcouBIEd4XS2) | [The ASIANIC](https://open.spotify.com/artist/7hrYxrbbaa7TtlKqg9iruF) | [마네킨 Mannequin](https://open.spotify.com/album/2xuc8x41OZSjTeP255pqdv) | 3:40 | 2023-01-10 | 2023-01-26 |
 | [밤이 깊었네 Oh! What a Shiny Night \(25th Anniv\. Ver.\)](https://open.spotify.com/track/0sY4hsa7Xd3I4dUNho8tti) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [밤이 깊었네 Oh! What a Shiny Night \(25th Anniv\. Ver.\)](https://open.spotify.com/album/6LK325AvLUydBNuhnPUsDG) | 4:15 | 2022-06-09 | 2022-07-03 |
 | [불꽃놀이](https://open.spotify.com/track/6s4CfimDTNqCWAkTCgYmRD) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,\(세븐 콤마\) <빛을 따라서...>](https://open.spotify.com/album/7lqABGolJepJu86N1WRo9T) | 4:05 | 2022-08-12 | 2022-08-19 |
-| [사랑병동 Highs and Lows](https://open.spotify.com/track/2fzdKqLRPuCHd6SUI6ypJY) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Unpiltered](https://open.spotify.com/album/1MQjq9SydT8E0dCf3qLSvk) | 2:48 | 2026-03-31 |  |
+| [사랑병동 Highs and Lows](https://open.spotify.com/track/2fzdKqLRPuCHd6SUI6ypJY) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Unpiltered](https://open.spotify.com/album/1MQjq9SydT8E0dCf3qLSvk) | 2:48 | 2026-03-31 | 2026-04-17 |
 | [사랑은 먼지 같아도](https://open.spotify.com/track/2wkREQBFKKJwTBQSDLX6cE) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [그냥](https://open.spotify.com/album/1flU2TXdMjvTwsGnJxKcHN) | 3:20 | 2023-04-26 | 2023-05-13 |
 | [사랑이라 했던 말 속에서](https://open.spotify.com/track/0XyClpdRwhN06hxTNgIVHI) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [사랑이라 했던 말 속에서](https://open.spotify.com/album/4aP0PyJ9kWQFDJiHb7f7hK) | 3:19 | 2026-04-13 |  |
 | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR) | [Jisokury](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2) | 4:15 | 2022-10-02 | 2022-10-19 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4658,
+  "num_followers": 4662,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAADqJ2zgXSv48A/QAtOP5KGF",
+  "snapshot_id": "ad7VAAAAAAC4ygwtLLaq/rWrn3Bb1lAR",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Won't Care How You Remember Me",
-        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+        "name": "Studio 4 Acoustic Session",
+        "url": "https://open.spotify.com/album/12173Lz2GcUGc64Ki6f300"
       },
       "artists": [
         {
           "name": "Tigers Jaw",
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        },
-        {
-          "name": "Andy Hull",
-          "url": "https://open.spotify.com/artist/1Rule8VpCyWvoSwUQQqGDV"
         }
       ],
-      "duration_ms": 216947,
-      "name": "I Won't Care How You Remember Me",
-      "url": "https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME"
+      "duration_ms": 252856,
+      "name": "Safe In Your Skin / Where Am I?",
+      "url": "https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx"
     },
     {
       "added_at": null,
@@ -323,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Studio 4 Acoustic Session",
-        "url": "https://open.spotify.com/album/12173Lz2GcUGc64Ki6f300"
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
       },
       "artists": [
         {
           "name": "Tigers Jaw",
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        },
+        {
+          "name": "Andy Hull",
+          "url": "https://open.spotify.com/artist/1Rule8VpCyWvoSwUQQqGDV"
         }
       ],
-      "duration_ms": 252856,
-      "name": "Safe In Your Skin / Where Am I?",
-      "url": "https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx"
+      "duration_ms": 216947,
+      "name": "I Won't Care How You Remember Me",
+      "url": "https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 337844,
-      "name": "Baptized on a Redwood Drive",
-      "url": "https://open.spotify.com/track/7GnFA32tJRqelxlDvpswRX"
+      "duration_ms": 210053,
+      "name": "BREEZER",
+      "url": "https://open.spotify.com/track/3TyqHPSgVkKw5xgJZeMYGP"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 121933,
-      "name": "Coil/Recoil",
-      "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
+      "duration_ms": 102186,
+      "name": "Return",
+      "url": "https://open.spotify.com/track/1rK3riOSALoAw3dKxluP8m"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Balance and Composure & Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 158920,
+      "name": "Jet Alone",
+      "url": "https://open.spotify.com/track/5oUl5qMNWrZlbA2LvqVUYF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Two Worlds",
         "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
       },
@@ -672,9 +688,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 102186,
-      "name": "Return",
-      "url": "https://open.spotify.com/track/1rK3riOSALoAw3dKxluP8m"
+      "duration_ms": 112946,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/6fntXgWBG5KkL312QXaRIp"
     },
     {
       "added_at": null,
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 112946,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/6fntXgWBG5KkL312QXaRIp"
+      "duration_ms": 121933,
+      "name": "Coil/Recoil",
+      "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
     },
     {
       "added_at": null,

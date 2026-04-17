@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 95080,
+  "num_followers": 95100,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAAB/5Jv5YH7eW1ONhVm3+zig",
+  "snapshot_id": "ad7VAAAAAACyxhROdBeV1PwI/ZkL/PxO",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ways Of The World",
-        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 237756,
-      "name": "Siren (with Stick Figure)",
-      "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Home (with Stick Figure)",
         "url": "https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 210182,
       "name": "Home (with Stick Figure)",
       "url": "https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ways Of The World",
+        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 237756,
+      "name": "Siren (with Stick Figure)",
+      "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
     },
     {
       "added_at": null,
@@ -582,11 +582,15 @@
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Eric Rachmany",
+          "url": "https://open.spotify.com/artist/7fLTVZfdwBPBgGkAYdSprM"
         }
       ],
-      "duration_ms": 274813,
-      "name": "Out the Door",
-      "url": "https://open.spotify.com/track/6fo3vAnEA8NLICFCzYfVI8"
+      "duration_ms": 255986,
+      "name": "Mind Block (with Eric Rachmany)",
+      "url": "https://open.spotify.com/track/6aZGYH9pDOFew9SvIKwi5M"
     },
     {
       "added_at": null,
@@ -650,15 +654,11 @@
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Eric Rachmany",
-          "url": "https://open.spotify.com/artist/7fLTVZfdwBPBgGkAYdSprM"
         }
       ],
-      "duration_ms": 255986,
-      "name": "Mind Block (with Eric Rachmany)",
-      "url": "https://open.spotify.com/track/6aZGYH9pDOFew9SvIKwi5M"
+      "duration_ms": 274813,
+      "name": "Out the Door",
+      "url": "https://open.spotify.com/track/6fo3vAnEA8NLICFCzYfVI8"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Siren Section, JUST LIZZY, Evil Level Live and more",
+  "description": "With Evil Level Live, JUST LIZZY, Siren Section and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -714,7 +714,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 236843,
       "name": "Bad Vibes",
       "url": "https://open.spotify.com/track/3s6DOP7T21I2hhwab5RZOb"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 202821,
       "name": "BURN",
       "url": "https://open.spotify.com/track/6RNkZxvFm4GTfmlW6gfd4x"
@@ -1384,6 +1384,24 @@
       "duration_ms": 179867,
       "name": "Call of the Wendigo",
       "url": "https://open.spotify.com/track/1jRF9SJgxRqqghUkFmCgGJ"
+    },
+    {
+      "album": {
+        "name": "Baobab",
+        "url": "https://open.spotify.com/album/7lQ0wMvyW23oLeRkFZQ2kn"
+      },
+      "artists": [
+        {
+          "name": "Evil Level Live",
+          "url": "https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156980,
+      "name": "Calling the Rain",
+      "url": "https://open.spotify.com/track/2zixwyPGq4YuqVUuPbWEa8"
     },
     {
       "album": {
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 196573,
       "name": "Comfortably Numb",
       "url": "https://open.spotify.com/track/7sRuGGOjQ8fl43PYTZgfvJ"
@@ -1868,6 +1886,24 @@
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
+    },
+    {
+      "album": {
+        "name": "Being Informed",
+        "url": "https://open.spotify.com/album/2mr3TXsWpyKJkpg6P1EOgV"
+      },
+      "artists": [
+        {
+          "name": "Carey Michael",
+          "url": "https://open.spotify.com/artist/4eXvAUjCXdkPa1hInXUUvn"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257091,
+      "name": "Contain",
+      "url": "https://open.spotify.com/track/4HLd3nCtsvfoETEr2FtWr9"
     },
     {
       "album": {
@@ -2482,7 +2518,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 231231,
       "name": "Deliria",
       "url": "https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF"
@@ -2764,7 +2800,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 278936,
       "name": "Drowning Without You",
       "url": "https://open.spotify.com/track/1X7JrHjTSDPg7tm3iUtXD4"
@@ -3294,7 +3330,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 132250,
       "name": "Fear Of extinction",
       "url": "https://open.spotify.com/track/2HF3Ro2XlnqP1S5iFzxSQd"
@@ -3590,7 +3626,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 235932,
       "name": "Fragile Things",
       "url": "https://open.spotify.com/track/3buzObI8wNmbDmpChyPYfk"
@@ -3906,7 +3942,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 196025,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/3qCPJ2JFgFsjpBo8x0h48f"
@@ -3964,7 +4000,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 142296,
       "name": "Grackle Grackle",
       "url": "https://open.spotify.com/track/4VIQCb2y7ny84EGajG4bBM"
@@ -4866,7 +4902,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 205000,
       "name": "Innocent Smile",
       "url": "https://open.spotify.com/track/3Zyxr5jVP7wYUMumD5S4uy"
@@ -5104,7 +5140,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -5368,6 +5404,24 @@
       "duration_ms": 215666,
       "name": "Koru Mindset",
       "url": "https://open.spotify.com/track/2NZK6ruSrACvOr4gZDUTah"
+    },
+    {
+      "album": {
+        "name": "La nuit",
+        "url": "https://open.spotify.com/album/4MzXwTQCHLjIo8zGNGBcWY"
+      },
+      "artists": [
+        {
+          "name": "Ann'so M",
+          "url": "https://open.spotify.com/artist/1SfrxzLINVU5EVtrykYLI4"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280465,
+      "name": "La nuit",
+      "url": "https://open.spotify.com/track/1zxgApHJwCNwnCI0e2oiqK"
     },
     {
       "album": {
@@ -5682,7 +5736,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 183930,
       "name": "Limp",
       "url": "https://open.spotify.com/track/2Wn5Axqj2lkBUwZmiaZjzn"
@@ -5718,7 +5772,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 199857,
       "name": "Lobotomize",
       "url": "https://open.spotify.com/track/4vsSkXM6cT2qEFfSVHPY1d"
@@ -6851,6 +6905,42 @@
     },
     {
       "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/5fVYh42zl7h1C63WOvM6U0"
+      },
+      "artists": [
+        {
+          "name": "Masca",
+          "url": "https://open.spotify.com/artist/42vPY52emDSpJvGXSV1X9p"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246413,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/0CA8XgSRKkaiBa0OzmqS7b"
+    },
+    {
+      "album": {
+        "name": "Old Photo (Here We Are)",
+        "url": "https://open.spotify.com/album/6iCkvRRQ1lCxqAX1UH4KPn"
+      },
+      "artists": [
+        {
+          "name": "Angie Kuske",
+          "url": "https://open.spotify.com/artist/1g7DWBaMmSNhOAjLBV1vJe"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Old Photo (Here We Are)",
+      "url": "https://open.spotify.com/track/6yEsX8zRnPaJJtleNERha9"
+    },
+    {
+      "album": {
         "name": "Prism Perspective",
         "url": "https://open.spotify.com/album/5BrPj73DSl0obLmqZc2eoN"
       },
@@ -6952,7 +7042,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 305393,
       "name": "Outside",
       "url": "https://open.spotify.com/track/2rEjcfaK9qYB2JLgbTB31Y"
@@ -7704,10 +7794,28 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 186549,
       "name": "Robey Ven",
       "url": "https://open.spotify.com/track/242Lof3nt3f8rFgauer135"
+    },
+    {
+      "album": {
+        "name": "Roseblood",
+        "url": "https://open.spotify.com/album/05TdhcsPNgOpgXp9fwuCp9"
+      },
+      "artists": [
+        {
+          "name": "Ann My Guard",
+          "url": "https://open.spotify.com/artist/1z4OkNfVgoXZ89IvFmelwV"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241893,
+      "name": "Roseblood",
+      "url": "https://open.spotify.com/track/0SvqrLZMvV3uSJ4gavipef"
     },
     {
       "album": {
@@ -7816,7 +7924,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 217191,
       "name": "Sacred Heart",
       "url": "https://open.spotify.com/track/6ToeRxDsAvNlFazlp7Tdjc"
@@ -7982,7 +8090,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 207719,
       "name": "Save Me From Myself",
       "url": "https://open.spotify.com/track/6b33R3VZm5QjqiKZ91z0cy"
@@ -8170,7 +8278,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 276000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
@@ -8940,7 +9048,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 202875,
       "name": "Stay Golden",
       "url": "https://open.spotify.com/track/5Pjcc8Mt7JaKzARXjYNIUH"
@@ -9160,7 +9268,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 225640,
       "name": "Sugar Baby",
       "url": "https://open.spotify.com/track/6ZtLXd2xnNKVmU3I9OCKJ3"
@@ -9338,7 +9446,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Takin' Out The Trash",
       "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
@@ -11300,7 +11408,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 276535,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/4s4sUzZZ4arHtSFxE4Il7p"

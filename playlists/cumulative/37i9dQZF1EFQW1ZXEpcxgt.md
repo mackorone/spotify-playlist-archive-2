@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-178 songs - 9 hr 49 min
+179 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Miracle](https://open.spotify.com/track/7BFj9LKuwSTiBn5k73Sur3) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:21 | 2025-05-26 |  |
 | [Mona Lisa](https://open.spotify.com/track/6FjcShHWPvel5QPNhWivJe) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 3:30 | 2022-06-04 |  |
 | [Money Changed Everything](https://open.spotify.com/track/358z3unoqcwgy6oPAX5wx5) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:33 | 2022-06-04 |  |
+| [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 | 2026-04-16 |  |
 | [Mula Remix](https://open.spotify.com/track/4k1twluDPNSnrFd3Wxsibv) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 5:54 | 2022-06-04 |  |
 | [My Guy](https://open.spotify.com/track/2oQhNpylkd2vtbXGr6IBWa) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:20 | 2022-06-04 |  |
 | [Naked \(feat\. Big Sean\)](https://open.spotify.com/track/6NNWpqisP8aFWSO377cAks) | [Kevin McCall](https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Naked \(feat\. Big Sean\)](https://open.spotify.com/album/0jMahV23gJ1MZErE9ZzvGk) | 4:21 | 2022-06-04 | 2025-05-22 |

@@ -1,6 +1,6 @@
 {
   "description": "Special songs for your special day. Cover: Alex Warren and Kouvr Annon \ud83d\udc97",
-  "num_followers": 283865,
+  "num_followers": 284027,
   "original_name": "Wedding Songs",
   "owner": {
     "name": "Spotify",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-03-25 18:13:37",
       "album": {
+        "name": "In Motion Pictures",
+        "url": "https://open.spotify.com/album/2VNMoSXYKrjAAU4aqiTvtY"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "She",
+      "url": "https://open.spotify.com/track/31Tp5iKrVUayn65qhg06nE"
+    },
+    {
+      "added_at": "2026-03-25 18:13:37",
+      "album": {
         "name": "Die With A Smile (Acoustic)",
         "url": "https://open.spotify.com/album/5eLr5u0UcnXjtNZgbnsoYS"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 251667,
       "name": "Die With A Smile - Acoustic",
       "url": "https://open.spotify.com/track/6gSkYEONe1fCvrOUgmXZTy"
-    },
-    {
-      "added_at": "2026-03-25 18:13:37",
-      "album": {
-        "name": "In Motion Pictures",
-        "url": "https://open.spotify.com/album/2VNMoSXYKrjAAU4aqiTvtY"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello",
-          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "She",
-      "url": "https://open.spotify.com/track/31Tp5iKrVUayn65qhg06nE"
     },
     {
       "added_at": "2026-03-25 18:13:37",

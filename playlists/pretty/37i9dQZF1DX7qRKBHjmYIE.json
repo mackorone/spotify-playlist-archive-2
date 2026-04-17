@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con maye.",
-  "num_followers": 746926,
+  "num_followers": 746882,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2026-04-10 04:03:12",
       "album": {
-        "name": "Goo Goo Ga Ga",
-        "url": "https://open.spotify.com/album/0QrOLBDdv5gk0oVI1hAolW"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        },
-        {
-          "name": "Jack Black",
-          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
-        }
-      ],
-      "duration_ms": 191765,
-      "name": "Goo Goo Ga Ga",
-      "url": "https://open.spotify.com/track/1OshrLJk7kar0EoabLbEOo"
-    },
-    {
-      "added_at": "2026-04-10 04:03:12",
-      "album": {
         "name": "BBY ROMEO",
         "url": "https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 198715,
       "name": "BBY ROMEO",
       "url": "https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe"
+    },
+    {
+      "added_at": "2026-04-10 04:03:12",
+      "album": {
+        "name": "Goo Goo Ga Ga",
+        "url": "https://open.spotify.com/album/0QrOLBDdv5gk0oVI1hAolW"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "duration_ms": 191765,
+      "name": "Goo Goo Ga Ga",
+      "url": "https://open.spotify.com/track/1OshrLJk7kar0EoabLbEOo"
     },
     {
       "added_at": "2026-04-10 04:03:12",
@@ -475,22 +475,18 @@
     {
       "added_at": "2026-04-10 04:03:12",
       "album": {
-        "name": "TANTO TANTO",
-        "url": "https://open.spotify.com/album/7JQ2W78F3nUzUYTdiThV53"
+        "name": "kiss goodbye / brb",
+        "url": "https://open.spotify.com/album/45omOM9b7ujbjudttnasFa"
       },
       "artists": [
         {
-          "name": "Dav Julca",
-          "url": "https://open.spotify.com/artist/5WVyfv3T27DrkqOclE85b2"
-        },
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
         }
       ],
-      "duration_ms": 240000,
-      "name": "TANTO TANTO",
-      "url": "https://open.spotify.com/track/6ALHw0J3sXfvcdDhli6xPe"
+      "duration_ms": 163736,
+      "name": "kiss goodbye",
+      "url": "https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF"
     },
     {
       "added_at": "2026-04-10 04:03:12",
@@ -551,18 +547,22 @@
     {
       "added_at": "2026-04-10 04:03:12",
       "album": {
-        "name": "kiss goodbye / brb",
-        "url": "https://open.spotify.com/album/45omOM9b7ujbjudttnasFa"
+        "name": "TANTO TANTO",
+        "url": "https://open.spotify.com/album/7JQ2W78F3nUzUYTdiThV53"
       },
       "artists": [
         {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+          "name": "Dav Julca",
+          "url": "https://open.spotify.com/artist/5WVyfv3T27DrkqOclE85b2"
+        },
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
         }
       ],
-      "duration_ms": 163736,
-      "name": "kiss goodbye",
-      "url": "https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF"
+      "duration_ms": 240000,
+      "name": "TANTO TANTO",
+      "url": "https://open.spotify.com/track/6ALHw0J3sXfvcdDhli6xPe"
     },
     {
       "added_at": "2026-04-10 04:03:12",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-04-10 04:03:12",
       "album": {
-        "name": "barquito (bonus track)",
-        "url": "https://open.spotify.com/album/3szw5BHAAHGTkYsDoK75k0"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 204974,
-      "name": "barquito - bonus track",
-      "url": "https://open.spotify.com/track/3p8qlvSvFlFtlzADchNJpi"
-    },
-    {
-      "added_at": "2026-04-10 04:03:12",
-      "album": {
         "name": "PIKI",
         "url": "https://open.spotify.com/album/0Evi337rRbs0degCcRoTqQ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 259867,
       "name": "PIKI",
       "url": "https://open.spotify.com/track/55ZZAOtvWkHrEFX10Zg0lP"
+    },
+    {
+      "added_at": "2026-04-10 04:03:12",
+      "album": {
+        "name": "barquito (bonus track)",
+        "url": "https://open.spotify.com/album/3szw5BHAAHGTkYsDoK75k0"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 204974,
+      "name": "barquito - bonus track",
+      "url": "https://open.spotify.com/track/3p8qlvSvFlFtlzADchNJpi"
     },
     {
       "added_at": "2026-04-10 04:03:12",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-04-10 04:03:12",
       "album": {
-        "name": "GOLOSA",
-        "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        },
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 214140,
-      "name": "Mi Terraza",
-      "url": "https://open.spotify.com/track/6liXtsSKDHM1OPMbmszF70"
-    },
-    {
-      "added_at": "2026-04-10 04:03:12",
-      "album": {
         "name": "bandOlerO",
         "url": "https://open.spotify.com/album/4ci6a270otpgbQ0J1sWGi9"
       },
@@ -911,34 +891,22 @@
     {
       "added_at": "2026-04-10 04:03:12",
       "album": {
-        "name": "otro d\u00eda m\u00e1s",
-        "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
+        "name": "GOLOSA",
+        "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
       },
       "artists": [
         {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 151264,
-      "name": "otro d\u00eda m\u00e1s",
-      "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
-    },
-    {
-      "added_at": "2026-04-10 04:03:12",
-      "album": {
-        "name": "La Noche Que No Hab\u00eda Uber",
-        "url": "https://open.spotify.com/album/5wpenRu8SHRkQyoIRgKRzi"
-      },
-      "artists": [
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        },
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
         }
       ],
-      "duration_ms": 163125,
-      "name": "La Noche Que No Hab\u00eda Uber",
-      "url": "https://open.spotify.com/track/410SEtWKVzELYu9KuQSvza"
+      "duration_ms": 214140,
+      "name": "Mi Terraza",
+      "url": "https://open.spotify.com/track/6liXtsSKDHM1OPMbmszF70"
     },
     {
       "added_at": "2026-04-10 04:03:12",
@@ -963,18 +931,34 @@
     {
       "added_at": "2026-04-10 04:03:12",
       "album": {
-        "name": "Soulost",
-        "url": "https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE"
+        "name": "La Noche Que No Hab\u00eda Uber",
+        "url": "https://open.spotify.com/album/5wpenRu8SHRkQyoIRgKRzi"
       },
       "artists": [
         {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 240498,
-      "name": "iii. LaDrogaM\u00e1sSuaveDelMundo(!) \u00b7 enamoramiento",
-      "url": "https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v"
+      "duration_ms": 163125,
+      "name": "La Noche Que No Hab\u00eda Uber",
+      "url": "https://open.spotify.com/track/410SEtWKVzELYu9KuQSvza"
+    },
+    {
+      "added_at": "2026-04-10 04:03:12",
+      "album": {
+        "name": "otro d\u00eda m\u00e1s",
+        "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "duration_ms": 151264,
+      "name": "otro d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
     },
     {
       "added_at": "2026-04-10 04:03:12",
@@ -995,22 +979,38 @@
     {
       "added_at": "2026-04-10 04:03:12",
       "album": {
-        "name": "aunquetelopida",
-        "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
+        "name": "Soulost",
+        "url": "https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE"
       },
       "artists": [
         {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        },
-        {
-          "name": "Riosse",
-          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
         }
       ],
-      "duration_ms": 180631,
-      "name": "aunquetelopida",
-      "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
+      "duration_ms": 240498,
+      "name": "iii. LaDrogaM\u00e1sSuaveDelMundo(!) \u00b7 enamoramiento",
+      "url": "https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v"
+    },
+    {
+      "added_at": "2026-04-10 04:03:12",
+      "album": {
+        "name": "no voy a estar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1wFTNFddZkNd2XXceMvMbX"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "no voy a estar ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0MOKVcgy5F8WwYfQ62Py4c"
     },
     {
       "added_at": "2026-04-10 04:03:12",
@@ -1035,22 +1035,38 @@
     {
       "added_at": "2026-04-10 04:03:12",
       "album": {
-        "name": "no voy a estar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1wFTNFddZkNd2XXceMvMbX"
+        "name": "aunquetelopida",
+        "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
       },
       "artists": [
         {
-          "name": "FaceBrooklyn",
-          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
         },
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "Riosse",
+          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
         }
       ],
-      "duration_ms": 177773,
-      "name": "no voy a estar ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0MOKVcgy5F8WwYfQ62Py4c"
+      "duration_ms": 180631,
+      "name": "aunquetelopida",
+      "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
+    },
+    {
+      "added_at": "2026-04-10 04:03:12",
+      "album": {
+        "name": "Cenizas En El Desierto",
+        "url": "https://open.spotify.com/album/0EST70rsJHUzaSJEpcb32B"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "duration_ms": 204265,
+      "name": "Cenizas En El Desierto",
+      "url": "https://open.spotify.com/track/4gAaHL8HR58hvHXrvSh5sY"
     },
     {
       "added_at": "2026-04-10 04:03:12",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2026-04-10 04:03:12",
       "album": {
-        "name": "Cenizas En El Desierto",
-        "url": "https://open.spotify.com/album/0EST70rsJHUzaSJEpcb32B"
-      },
-      "artists": [
-        {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        }
-      ],
-      "duration_ms": 204265,
-      "name": "Cenizas En El Desierto",
-      "url": "https://open.spotify.com/track/4gAaHL8HR58hvHXrvSh5sY"
-    },
-    {
-      "added_at": "2026-04-10 04:03:12",
-      "album": {
         "name": "YORU",
         "url": "https://open.spotify.com/album/46NnC6qj5SlVbqMPFoeQQs"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-04-10 04:03:12",
       "album": {
-        "name": "Mi Casita",
-        "url": "https://open.spotify.com/album/1liyupp5i1sa8MR0epkUCr"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        }
-      ],
-      "duration_ms": 249579,
-      "name": "Mi Casita",
-      "url": "https://open.spotify.com/track/5MQPlCMoRXxIg1waL0Keo8"
-    },
-    {
-      "added_at": "2026-04-10 04:03:12",
-      "album": {
         "name": "Sof\u00eda Vald\u00e9s",
         "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 198463,
       "name": "Already Yours",
       "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
+    },
+    {
+      "added_at": "2026-04-10 04:03:12",
+      "album": {
+        "name": "Mi Casita",
+        "url": "https://open.spotify.com/album/1liyupp5i1sa8MR0epkUCr"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        }
+      ],
+      "duration_ms": 249579,
+      "name": "Mi Casita",
+      "url": "https://open.spotify.com/track/5MQPlCMoRXxIg1waL0Keo8"
     },
     {
       "added_at": "2026-04-10 04:03:12",
@@ -1587,22 +1587,18 @@
     {
       "added_at": "2026-04-10 04:03:12",
       "album": {
-        "name": "Pinta Bonito",
-        "url": "https://open.spotify.com/album/3tRAsO7rFrSh6uDYFl1uiJ"
+        "name": "N\u00edtido",
+        "url": "https://open.spotify.com/album/4jvLDuUoWJRUWcMc6VZk41"
       },
       "artists": [
         {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+          "name": "Soultade",
+          "url": "https://open.spotify.com/artist/6W7QkdmLk3AtXkfrKH5ZDV"
         }
       ],
-      "duration_ms": 216677,
-      "name": "Pinta Bonito",
-      "url": "https://open.spotify.com/track/6j98s4dlTDuUl8tMy8BUZ7"
+      "duration_ms": 165529,
+      "name": "Ecos",
+      "url": "https://open.spotify.com/track/6OcofGGF5dzeql46GJbG3k"
     },
     {
       "added_at": "2026-04-10 04:03:12",
@@ -1623,18 +1619,22 @@
     {
       "added_at": "2026-04-10 04:03:12",
       "album": {
-        "name": "N\u00edtido",
-        "url": "https://open.spotify.com/album/4jvLDuUoWJRUWcMc6VZk41"
+        "name": "Pinta Bonito",
+        "url": "https://open.spotify.com/album/3tRAsO7rFrSh6uDYFl1uiJ"
       },
       "artists": [
         {
-          "name": "Soultade",
-          "url": "https://open.spotify.com/artist/6W7QkdmLk3AtXkfrKH5ZDV"
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
         }
       ],
-      "duration_ms": 165529,
-      "name": "Ecos",
-      "url": "https://open.spotify.com/track/6OcofGGF5dzeql46GJbG3k"
+      "duration_ms": 216677,
+      "name": "Pinta Bonito",
+      "url": "https://open.spotify.com/track/6j98s4dlTDuUl8tMy8BUZ7"
     },
     {
       "added_at": "2026-04-10 04:03:12",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-04-10 04:03:12",
       "album": {
-        "name": "Me Asusta Amar Tanto la Soledad",
-        "url": "https://open.spotify.com/album/1RjUloYZjSGblp5fKixULs"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 202354,
-      "name": "Me Asusta Amar Tanto la Soledad",
-      "url": "https://open.spotify.com/track/6026RHq4ZOiQH6Zdo0pTy3"
-    },
-    {
-      "added_at": "2026-04-10 04:03:12",
-      "album": {
         "name": "Solo T\u00fa",
         "url": "https://open.spotify.com/album/0fFuwgphyt1Kj6A2Smgnuo"
       },
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2026-04-10 04:03:12",
       "album": {
-        "name": "EL QUE NO LLORA NO MAMA",
-        "url": "https://open.spotify.com/album/6HSgzh8ytBsALx1cqVcDH8"
+        "name": "Me Asusta Amar Tanto la Soledad",
+        "url": "https://open.spotify.com/album/1RjUloYZjSGblp5fKixULs"
       },
       "artists": [
         {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
         }
       ],
-      "duration_ms": 189598,
-      "name": "ME TEN\u00cdA QUE PASAR",
-      "url": "https://open.spotify.com/track/6ma0wyYOS2p1TusUdT16bp"
+      "duration_ms": 202354,
+      "name": "Me Asusta Amar Tanto la Soledad",
+      "url": "https://open.spotify.com/track/6026RHq4ZOiQH6Zdo0pTy3"
     },
     {
       "added_at": "2026-04-10 04:03:12",
@@ -1731,6 +1715,22 @@
       "duration_ms": 270250,
       "name": "La Espiral",
       "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
+    },
+    {
+      "added_at": "2026-04-10 04:03:12",
+      "album": {
+        "name": "EL QUE NO LLORA NO MAMA",
+        "url": "https://open.spotify.com/album/6HSgzh8ytBsALx1cqVcDH8"
+      },
+      "artists": [
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 189598,
+      "name": "ME TEN\u00cdA QUE PASAR",
+      "url": "https://open.spotify.com/track/6ma0wyYOS2p1TusUdT16bp"
     },
     {
       "added_at": "2026-04-10 04:03:12",

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 39281,
+  "num_followers": 39294,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAADrIZl7OB/qfh28AjAD7ucA",
+  "snapshot_id": "ad7VAAAAAACJeyfAcMDI3ZTGkE/2MqvY",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka (30 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka - 30 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Canciones Favoritas",
         "url": "https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 197640,
       "name": "Mil Gracias",
       "url": "https://open.spotify.com/track/1bzIOUvASf8r8Qtz6dlRyO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka (30 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka - 30 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 142653,
-      "name": "Mujer Paseada",
-      "url": "https://open.spotify.com/track/7irQS7Wm2SsGFRkOOqZ0Hv"
+      "duration_ms": 164213,
+      "name": "El Zancudito",
+      "url": "https://open.spotify.com/track/5fPtcVAyO515jP3wgloERw"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 164213,
-      "name": "El Zancudito",
-      "url": "https://open.spotify.com/track/5fPtcVAyO515jP3wgloERw"
+      "duration_ms": 142653,
+      "name": "Mujer Paseada",
+      "url": "https://open.spotify.com/track/7irQS7Wm2SsGFRkOOqZ0Hv"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagrimas De Sangre",
-        "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "Lagrimas de Sangre",
-      "url": "https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Nueva Era de la Quebradita",
-        "url": "https://open.spotify.com/album/5F1r9gvkQNWDYLFAGplUJr"
+        "name": "Lagrimas De Sangre",
+        "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 190360,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/2FdinMm7jqvpR9Os7hflpA"
+      "duration_ms": 161560,
+      "name": "Lagrimas de Sangre",
+      "url": "https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 148188,
       "name": "Ay Amigo",
       "url": "https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Nueva Era de la Quebradita",
+        "url": "https://open.spotify.com/album/5F1r9gvkQNWDYLFAGplUJr"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/2FdinMm7jqvpR9Os7hflpA"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Son las Cosas",
-        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Brinca Brita",
-      "url": "https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 158157,
       "name": "Por una L\u00e1grima",
       "url": "https://open.spotify.com/track/5lMi9SktHdwfast6BALpAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Son las Cosas",
+        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Brinca Brita",
+      "url": "https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi"
     },
     {
       "added_at": null,

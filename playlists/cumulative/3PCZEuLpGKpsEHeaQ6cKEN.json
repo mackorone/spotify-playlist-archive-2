@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 195600,
       "name": "All Things Go",
       "url": "https://open.spotify.com/track/5zRzH31eNesILtPWZfs5XK"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 211200,
       "name": "Angels",
       "url": "https://open.spotify.com/track/7bLxSkJfRz3WGg6LWiKDtX"
@@ -2473,6 +2473,28 @@
     },
     {
       "album": {
+        "name": "Be OK",
+        "url": "https://open.spotify.com/album/0iwhXyOUK1BDYmliOivVgp"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Be OK",
+      "url": "https://open.spotify.com/track/4Qujdsyg6fVpuI6rMZsTQI"
+    },
+    {
+      "album": {
         "name": "Be Somebody",
         "url": "https://open.spotify.com/album/0PDLin87k6ky44k0lo2Xts"
       },
@@ -2746,7 +2768,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 238161,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1Awgm6eNs5BojzttZePxeB"
@@ -3972,7 +3994,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 198095,
       "name": "Bugatti - Benny Benassi & Laherte Remix",
       "url": "https://open.spotify.com/track/7nUFalVIU4NyswnyiVPOi3"
@@ -4811,6 +4833,28 @@
     },
     {
       "album": {
+        "name": "Catch",
+        "url": "https://open.spotify.com/album/4wudeJJpmkcQiIGRrBcf5v"
+      },
+      "artists": [
+        {
+          "name": "Kosheen",
+          "url": "https://open.spotify.com/artist/5squ8uM6fhMQY71t9xobJC"
+        },
+        {
+          "name": "KASIA",
+          "url": "https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178329,
+      "name": "Catch",
+      "url": "https://open.spotify.com/track/2exOn0XZdcbLhZoOFB3zvB"
+    },
+    {
+      "album": {
         "name": "Chain Reaction",
         "url": "https://open.spotify.com/album/5kpwiveJpNJoB9gkZLgzzV"
       },
@@ -5624,7 +5668,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 243967,
       "name": "Coming On Strong",
       "url": "https://open.spotify.com/track/3OxO5qycdP6Rg6dFgefWFZ"
@@ -9944,7 +9988,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 192696,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/4CUN8JPl9Un9x5u59jG9hJ"
@@ -10146,6 +10190,28 @@
       "duration_ms": 180018,
       "name": "Feel The Passion",
       "url": "https://open.spotify.com/track/4GoJMFJoAVyUb9GS3DTn8P"
+    },
+    {
+      "album": {
+        "name": "Feel the Power",
+        "url": "https://open.spotify.com/album/5eeJzYaS77PQmFtAKrcNBy"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        },
+        {
+          "name": "Re.You",
+          "url": "https://open.spotify.com/artist/3AE5c8fBFJYdxXHCSXAyVx"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217741,
+      "name": "Feel the Power",
+      "url": "https://open.spotify.com/track/53uyxg6lqpFXn5ZWn5V0dm"
     },
     {
       "album": {
@@ -14666,7 +14732,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 175974,
       "name": "Hold On - Brooks Remix",
       "url": "https://open.spotify.com/track/37KcUfJUL3YpIPEkuGZGJs"
@@ -16214,10 +16280,28 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 190258,
       "name": "I'm Watching You (So Many Times)",
       "url": "https://open.spotify.com/track/6KzhSkI5PAP0F2qL8ASGlP"
+    },
+    {
+      "album": {
+        "name": "I'm Watching You (So Many Times)",
+        "url": "https://open.spotify.com/album/3aiPumYnYZ81XrpTszU7BB"
+      },
+      "artists": [
+        {
+          "name": "Gadjo",
+          "url": "https://open.spotify.com/artist/28ZtvtD63uuc4Lf81lYWmr"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "I'm Watching You (So Many Times)",
+      "url": "https://open.spotify.com/track/4MOP8pTKd957TkMoNRdWFW"
     },
     {
       "album": {
@@ -16236,7 +16320,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 212231,
       "name": "I'm Watching You (So Many Times)",
       "url": "https://open.spotify.com/track/2R2zlhIdHCVKU1czByXsyX"
@@ -17218,6 +17302,24 @@
       "duration_ms": 179769,
       "name": "It Could Be - Kevin Saunderson & Dantiez Club Mix",
       "url": "https://open.spotify.com/track/6ie7D1AvuUS0Uv8bXWzMZS"
+    },
+    {
+      "album": {
+        "name": "Hear My Cry",
+        "url": "https://open.spotify.com/album/0URtQPPT2v8bRux2w6amMP"
+      },
+      "artists": [
+        {
+          "name": "Sonique",
+          "url": "https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229760,
+      "name": "It Feels So Good",
+      "url": "https://open.spotify.com/track/1zOzCQOw9THED5ixSVHiBc"
     },
     {
       "album": {
@@ -20282,7 +20384,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 191076,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O"
@@ -22106,7 +22208,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 433319,
       "name": "Most Precious Love - DF's Future 3000 Extended Mix",
       "url": "https://open.spotify.com/track/2KK21tkRsD9jfN8JpwGIXG"
@@ -22166,7 +22268,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 198468,
       "name": "Most Precious Love - DF's Future 3000 Mix",
       "url": "https://open.spotify.com/track/6EBa2dyZE2bIeG8C68oeue"
@@ -24026,7 +24128,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 168369,
       "name": "On the Top of the World (YMCA)",
       "url": "https://open.spotify.com/track/5Um54VXuOZAjXr9ueivAJX"
@@ -25236,7 +25338,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 177090,
       "name": "Pasarla Bien",
       "url": "https://open.spotify.com/track/49dhRQpoeThD6iUw3bpnm7"
@@ -25610,7 +25712,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 183428,
       "name": "Perfect Honey (Temptation) 2025 Rework - Radio Edit",
       "url": "https://open.spotify.com/track/5iHy2EPkpdcfPJiQVsfv2J"
@@ -27416,6 +27518,24 @@
     {
       "album": {
         "name": "Right On, Right On",
+        "url": "https://open.spotify.com/album/1vfX22b8QcuuLZ3TjXVasN"
+      },
+      "artists": [
+        {
+          "name": "Silicone Soul",
+          "url": "https://open.spotify.com/artist/6VPQvrpzt328DmG3dmLbhE"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192533,
+      "name": "Right On!",
+      "url": "https://open.spotify.com/track/1ac3wSoAIcANOfKqES8X9h"
+    },
+    {
+      "album": {
+        "name": "Right On, Right On",
         "url": "https://open.spotify.com/album/02AC8OE8Mb2RHA0mNdj8Xq"
       },
       "artists": [
@@ -28474,7 +28594,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 233626,
       "name": "Saturday - Full Intention Mix",
       "url": "https://open.spotify.com/track/1SIcwKdciuqDSqNol4AjUT"
@@ -29626,6 +29746,32 @@
       "duration_ms": 225671,
       "name": "Shine On Me",
       "url": "https://open.spotify.com/track/6uKqTRwxjlgmkNfPEUf2jC"
+    },
+    {
+      "album": {
+        "name": "Shined On Me (Les Bisous Remix)",
+        "url": "https://open.spotify.com/album/7pIa8vtyG9ngFVTOP1Iz2Q"
+      },
+      "artists": [
+        {
+          "name": "Praise Cats",
+          "url": "https://open.spotify.com/artist/69W0aldHPYkHgQFCv54fBc"
+        },
+        {
+          "name": "Andrea Love",
+          "url": "https://open.spotify.com/artist/3WClgwP2nm5MpJA21mlbYO"
+        },
+        {
+          "name": "Les Bisous",
+          "url": "https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168930,
+      "name": "Shined On Me - Les Bisous Remix",
+      "url": "https://open.spotify.com/track/36sK9b8ebA0Fb1UebRbMZt"
     },
     {
       "album": {
@@ -31292,7 +31438,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 189756,
       "name": "Steppin' Out Tonight",
       "url": "https://open.spotify.com/track/15bNp4ae0Qa5yMHwqi0Yx1"
@@ -32302,7 +32448,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 212307,
       "name": "Super Powers",
       "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
@@ -32756,6 +32902,28 @@
       "duration_ms": 156747,
       "name": "Sweet Escape",
       "url": "https://open.spotify.com/track/1Ll3vzqdM1XuzeuR9HCQKh"
+    },
+    {
+      "album": {
+        "name": "Sympathy For The Devil",
+        "url": "https://open.spotify.com/album/7j2bfbPa9SfdPLRGLOuNG1"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        },
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219963,
+      "name": "Sympathy For The Devil",
+      "url": "https://open.spotify.com/track/3rrbTQvYSZNPZ5qFrti0xO"
     },
     {
       "album": {
@@ -35419,6 +35587,78 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/5Z8B1uaNQoTPJbntCZwGUT"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 12",
+      "url": "https://open.spotify.com/track/2C9SlTGx0xyRoFWLD0xPoS"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/6Bx1OKdcPIJTCpOXfr3QsF"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc"
+    },
+    {
+      "album": {
         "name": "Transmission (Armin van Buuren Remix)",
         "url": "https://open.spotify.com/album/7k3gNgTTuM0f9cIRdW8FTP"
       },
@@ -35758,7 +35998,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 133294,
       "name": "Truth or Dare - Fiesta Edit",
       "url": "https://open.spotify.com/track/1UclKL47YYsQcx6QHu2C2C"
@@ -36722,7 +36962,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 140680,
       "name": "Vibe Check",
       "url": "https://open.spotify.com/track/6507rh4LJxpJUGtsOZoYGR"

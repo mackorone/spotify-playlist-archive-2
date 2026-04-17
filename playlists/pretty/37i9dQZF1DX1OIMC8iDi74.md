@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 👑 with EVAN GIIA & Pauline Herr
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,103 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,081 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,25 +88,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 78 | [say\_yes\_FESTIVALMIX1](https://open.spotify.com/track/0klC111yCH3JWuPCDbpFqP) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [say\_yes\_FESTIVALMIX1](https://open.spotify.com/album/5G79EoSpJ0nEEkBm1vJPje) | 3:08 |
 | 79 | [DOPAMINE++](https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [DOPAMINE++](https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF) | 3:22 |
 | 80 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
-| 81 | [What U Got](https://open.spotify.com/track/2zJEJNYyI45ekNQbJQ2oTf) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [What U Got](https://open.spotify.com/album/3pT7yoj0eMAguauZW5dOk2) | 2:48 |
-| 82 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
+| 81 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
+| 82 | [What U Got](https://open.spotify.com/track/2zJEJNYyI45ekNQbJQ2oTf) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [What U Got](https://open.spotify.com/album/3pT7yoj0eMAguauZW5dOk2) | 2:48 |
 | 83 | [WRECKLESS](https://open.spotify.com/track/4oejX73F36hVfzAMaaOKem) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [WRECKLESS](https://open.spotify.com/album/5nCsEV5JAy3zfOCuchh6gl) | 2:31 |
 | 84 | [Sometimes / DOPAMINE++++](https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME : ZERO](https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa) | 3:15 |
 | 85 | [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 |
-| 86 | [BITE \(MY STYLE\)](https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [BITE \(MY STYLE\)](https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO) | 2:28 |
-| 87 | [GHOST](https://open.spotify.com/track/1o73nORK3wlwnWnVOA1oxw) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [GHOST](https://open.spotify.com/album/1WAFXc23bKEYQSLnbNla2o) | 2:26 |
+| 86 | [GHOST](https://open.spotify.com/track/1o73nORK3wlwnWnVOA1oxw) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [GHOST](https://open.spotify.com/album/1WAFXc23bKEYQSLnbNla2o) | 2:26 |
+| 87 | [BITE \(MY STYLE\)](https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [BITE \(MY STYLE\)](https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO) | 2:28 |
 | 88 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
 | 89 | [Lazarus Rise](https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m) | [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2), [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Lazarus Rise](https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw) | 3:12 |
 | 90 | [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 |
 | 91 | [HI\-FASHION \(feat\. Matt Ox, DJ Smokey\)](https://open.spotify.com/track/0ca78EYblROFZ2hrdIGMSU) | [Ailow](https://open.spotify.com/artist/270jtLW7Wr3QPEVoE2HAkB), [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG), [Matt OX](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r), [Dj Smokey](https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy) | [HI\-FASHION \(feat\. Matt Ox, Dj Smokey\)](https://open.spotify.com/album/0bRNwBjkZTYH6u87PxdbFB) | 3:02 |
 | 92 | [CONTROL](https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [CONTROL](https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6) | 2:25 |
 | 93 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
-| 94 | [change my mind](https://open.spotify.com/track/2htiiQZqJKqY6mFUF9wh0d) | [Altare](https://open.spotify.com/artist/3W3dTmUEXbo2D9CQzNTSaI) | [change my mind](https://open.spotify.com/album/6a2hTHbTAodgtnysbaMzaH) | 3:18 |
-| 95 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
+| 94 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
+| 95 | [change my mind](https://open.spotify.com/track/2htiiQZqJKqY6mFUF9wh0d) | [Altare](https://open.spotify.com/artist/3W3dTmUEXbo2D9CQzNTSaI) | [change my mind](https://open.spotify.com/album/6a2hTHbTAodgtnysbaMzaH) | 3:18 |
 | 96 | [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 |
 | 97 | [CIRCLES](https://open.spotify.com/track/4DOUmbni3qj9A71DtXvsXS) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [CIRCLES](https://open.spotify.com/album/4cIQpUbjCi5J9DpSx3wg0E) | 3:08 |
 | 98 | [Anxious](https://open.spotify.com/track/0aIZGMXxGwKfkIOwiTzY82) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Anxious](https://open.spotify.com/album/2fvpGsmXuNd24IC3gEABHU) | 2:22 |
-| 99 | [ur such a JERK!](https://open.spotify.com/track/1uKVaRz9nJVcNa9dCcW6js) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [the unicorn who believed in love](https://open.spotify.com/album/4Ji0jYiDG2pSI78Fuk8VWh) | 2:30 |
-| 100 | [GO!](https://open.spotify.com/track/6mwrQ7UyriEE3P2DVUZzke) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [GO!](https://open.spotify.com/album/2ceqIvXa5nWgTq79Mzeq5t) | 2:21 |
+| 99 | [GO!](https://open.spotify.com/track/6mwrQ7UyriEE3P2DVUZzke) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [GO!](https://open.spotify.com/album/2ceqIvXa5nWgTq79Mzeq5t) | 2:21 |
+| 100 | [ur such a JERK!](https://open.spotify.com/track/1uKVaRz9nJVcNa9dCcW6js) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [the unicorn who believed in love](https://open.spotify.com/album/4Ji0jYiDG2pSI78Fuk8VWh) | 2:30 |
 
 Snapshot ID: `AAAAAFUxM2VJ4tFRODK/GujmoJEj0UCO`

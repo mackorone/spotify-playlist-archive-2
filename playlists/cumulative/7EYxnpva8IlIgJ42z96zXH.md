@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym!
 
-1,093 songs - 2 day 9 hr 24 min
+1,094 songs - 2 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [How To Save A Life \(feat\. loafers & The High\)](https://open.spotify.com/track/63gWjcGKmpz90e8AHxF680) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [loafers](https://open.spotify.com/artist/4O8EiXZbelscSDs7TgOXHc), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [How To Save A Life \(feat\. loafers & The High\)](https://open.spotify.com/album/7uuHadEOX65HwVIpnPdaUF) | 3:17 | 2021-12-03 | 2022-01-14 |
 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 | 2021-09-24 | 2022-07-16 |
 | [Hummingbird](https://open.spotify.com/track/1nxNsIJ6tvThm68lXtL4db) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Hummingbird](https://open.spotify.com/album/1pkrlrW9kOkUOU2vjwYUac) | 3:15 | 2024-10-18 | 2024-12-06 |
+| [Hypa](https://open.spotify.com/track/7hQUvQN4IcDVhuBeaX7wwW) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Specialist Moss](https://open.spotify.com/artist/0Sclq3c13du0AJMrihvEx2) | [Hypa](https://open.spotify.com/album/2qt5CEqE5IeJfVGgGIRMGd) | 3:12 | 2026-04-16 |  |
 | [I Don't Want You](https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [I Don't Want You](https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2) | 3:10 | 2021-09-04 | 2024-02-02 |
 | [I Got Nothing](https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [I Got Nothing](https://open.spotify.com/album/32wadIN0emxBanTLINlH08) | 3:23 | 2023-12-08 | 2024-07-19 |
 | [I Got You](https://open.spotify.com/track/5DF2KFDVeC7wF5CXipl9WN) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [I Got You](https://open.spotify.com/album/0FETAhMXmt1mnN0sQTzRfX) | 3:30 | 2020-11-03\* | 2021-06-04 |
@@ -606,7 +607,7 @@
 | [Medicine \- Navos Remix](https://open.spotify.com/track/0G9JMGMWgxJG72BaZGAocL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Medicine \(Navos Remix\)](https://open.spotify.com/album/511JsjYoCHPcIccfXBVvp0) | 2:44 | 2021-04-24 | 2021-06-11 |
 | [Medicine \- PS1 Remix](https://open.spotify.com/track/0HpUZyqZy5AoCFFXvkhrQa) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj) | [Medicine \(PS1 Remix\)](https://open.spotify.com/album/2CbtSDaeIxFoiJZhNA7d2l) | 3:43 | 2021-03-19 | 2021-04-24 |
 | [Medicine \- R3HAB Remix](https://open.spotify.com/track/6bAcuSKKxTWY4sNawTxUpf) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Medicine \(R3HAB Remix\)](https://open.spotify.com/album/4N6f0Ccuty3ofezs3ZJf2G) | 2:25 | 2021-04-17 | 2021-04-24 |
-| [Meet Me In The Middle](https://open.spotify.com/track/2pmvEffn5k4CD5WEmOjDrO) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Meet Me In The Middle](https://open.spotify.com/album/1XUuSXvM22T5sRqD1pOU9K) | 2:17 | 2024-10-03 |  |
+| [Meet Me In The Middle](https://open.spotify.com/track/2pmvEffn5k4CD5WEmOjDrO) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Meet Me In The Middle](https://open.spotify.com/album/1XUuSXvM22T5sRqD1pOU9K) | 2:17 | 2024-10-03 | 2026-04-17 |
 | [Meet You There](https://open.spotify.com/track/5BQ9kXwUXFLfM7NiwpRMxt) | [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jimmy James](https://open.spotify.com/artist/7et8xRIk2umQqXw4r8FAmU) | [Meet You There](https://open.spotify.com/album/36moJf2cV22etPG5XwJ9qx) | 2:40 | 2023-12-08 | 2024-02-02 |
 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 | 2022-01-20 | 2023-01-28 |
 | [Memories](https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Memories](https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD) | 2:35 | 2023-12-08 | 2024-02-02 |

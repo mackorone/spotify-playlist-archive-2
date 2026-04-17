@@ -1,12 +1,12 @@
 {
   "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 18928,
+  "num_followers": 18930,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad2DgAAAAAAkQm2AaR5eLsrEke1XtrkV",
+  "snapshot_id": "ad7VAAAAAAC4inMcGgHXJQhyfjoc2fZU",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dynamite (The Remixes)",
         "url": "https://open.spotify.com/album/1QIRKG66PdTq9PKf7ooDQA"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 215226,
       "name": "Dynamite - Stonebridge Remix Radio Edit",
       "url": "https://open.spotify.com/track/3woqA7BkmDe9ROuGkqo7WT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 225306,
+      "name": "I Can Be",
+      "url": "https://open.spotify.com/track/49YfIDm5WBGKyUxL8Vt5FV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/0iimd0kXrAa4g8wJ7piCXq"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 173119,
       "name": "Signs",
       "url": "https://open.spotify.com/track/3bOoVnf3pItMfU5PMossd9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 225306,
-      "name": "I Can Be",
-      "url": "https://open.spotify.com/track/49YfIDm5WBGKyUxL8Vt5FV"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Can't Say Go",
+      "url": "https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Row The Body (feat. French Montana)",
         "url": "https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 237500,
       "name": "Row The Body (feat. French Montana)",
       "url": "https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Can't Say Go",
-      "url": "https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "I'll Never Love Again",
+      "url": "https://open.spotify.com/track/5PmRkzt9g5o3GXqWgl12ES"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me On You",
         "url": "https://open.spotify.com/album/59rLZXhHthZStCJJbn1Rme"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 196222,
       "name": "Me On You",
       "url": "https://open.spotify.com/track/3nD6hpOexPDS1LHtoL7bPM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "I'll Never Love Again",
-      "url": "https://open.spotify.com/track/5PmRkzt9g5o3GXqWgl12ES"
     },
     {
       "added_at": null,

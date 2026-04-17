@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05e2\u05d3\u05df \u05d7\u05e1\u05d5\u05df ",
-  "num_followers": 25782,
+  "num_followers": 25783,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
+        "name": "\u05ea\u05e7\u05dc\u05d9\u05d8 \u05d6\u05d4\u05d1",
+        "url": "https://open.spotify.com/album/43NJSfiyzp8yak9wBRUS7o"
+      },
+      "artists": [
+        {
+          "name": "Gil Vain",
+          "url": "https://open.spotify.com/artist/7LYtqxi8Le9d8KvQhzpcjj"
+        },
+        {
+          "name": "Bar Tzabary",
+          "url": "https://open.spotify.com/artist/3lDTgudSVNR05wyiJ1RptF"
+        }
+      ],
+      "duration_ms": 212142,
+      "name": "\u05ea\u05e7\u05dc\u05d9\u05d8 \u05d6\u05d4\u05d1",
+      "url": "https://open.spotify.com/track/5q5j10lw64WVnuYJOvvQnk"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
         "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
         "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 238000,
       "name": "\u05dc\u05d3\u05e4\u05d5\u05e7 \u05ea'\u05e8\u05d0\u05e9",
       "url": "https://open.spotify.com/track/3dkItSs4LurpACEg70HDIB"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
-        "name": "\u05ea\u05e7\u05dc\u05d9\u05d8 \u05d6\u05d4\u05d1",
-        "url": "https://open.spotify.com/album/43NJSfiyzp8yak9wBRUS7o"
-      },
-      "artists": [
-        {
-          "name": "Gil Vain",
-          "url": "https://open.spotify.com/artist/7LYtqxi8Le9d8KvQhzpcjj"
-        },
-        {
-          "name": "Bar Tzabary",
-          "url": "https://open.spotify.com/artist/3lDTgudSVNR05wyiJ1RptF"
-        }
-      ],
-      "duration_ms": 212142,
-      "name": "\u05ea\u05e7\u05dc\u05d9\u05d8 \u05d6\u05d4\u05d1",
-      "url": "https://open.spotify.com/track/5q5j10lw64WVnuYJOvvQnk"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
-        "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
-      },
-      "artists": [
-        {
-          "name": "Idan Amedi",
-          "url": "https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "\u05dc\u05ea\u05ea \u05dc\u05d7\u05d9\u05d9\u05dd \u05dc\u05e8\u05e7\u05d5\u05d3",
-      "url": "https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "\u05d4\u05d9\u05d9 \u05d0\u05d4\u05d5\u05d1\u05d4",
         "url": "https://open.spotify.com/album/5am6d33LlJu2GhvsLEIVLE"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 170216,
       "name": "\u05d4\u05d9\u05d9 \u05d0\u05d4\u05d5\u05d1\u05d4",
       "url": "https://open.spotify.com/track/5WTyArd4ylPYTAifaqKDyM"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
+        "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
+      },
+      "artists": [
+        {
+          "name": "Idan Amedi",
+          "url": "https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "\u05dc\u05ea\u05ea \u05dc\u05d7\u05d9\u05d9\u05dd \u05dc\u05e8\u05e7\u05d5\u05d3",
+      "url": "https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl"
     },
     {
       "added_at": "2026-01-16 15:38:53",

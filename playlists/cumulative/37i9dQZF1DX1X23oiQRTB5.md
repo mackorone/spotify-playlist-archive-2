@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Gradur x Ninho au top de la première playlist de rap français.
+> WIXO & LA2S au top de la première playlist de rap français.
 
-424 songs - 21 hr 22 min
+425 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Paris](https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [Paris](https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ) | 2:52 | 2025-04-24 | 2025-11-14 |
 | [Parle moi](https://open.spotify.com/track/0u3X2FAuek7g4K2a7Nw5Om) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Parle moi](https://open.spotify.com/album/0Fkw1FmVzg5hwSD2nfuKUo) | 3:03 | 2025-10-16 |  |
 | [Parler tout bas](https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps](https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu) | 3:21 | 2024-06-13 | 2024-08-22 |
+| [PARLU](https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Numéro d'écrou](https://open.spotify.com/album/5d0BjgEFwZpszVVLbAbDBf) | 2:21 | 2026-04-16 |  |
 | [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 | 2022-08-18 | 2023-06-02 |
 | [Pas là](https://open.spotify.com/track/2gH0sY8ATBTt01imXPZJdH) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm) | 2:27 | 2023-03-23 | 2023-12-15 |
 | [Pas solo](https://open.spotify.com/track/5N3lIBZ88nTuerAuBgMK5u) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Pas solo](https://open.spotify.com/album/1Up5VOa7KYBOdMUherbXj4) | 2:41 | 2026-02-05 |  |
@@ -366,7 +367,7 @@
 | [Selfie](https://open.spotify.com/track/3r8VoLB4rSYaCWg6nEZWG8) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Selfie](https://open.spotify.com/album/2QW5d3Iczt0ZzhaSc5I6sI) | 2:36 | 2022-09-29 | 2023-02-17 |
 | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW) | 2:08 | 2025-01-09 | 2025-06-06 |
 | [Serrure \#5](https://open.spotify.com/track/79HWCJC8r8UHGUOAaRN4IO) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Serrure \#5](https://open.spotify.com/album/0Zk8t2ZRO8cHHL7RmLuCoB) | 2:18 | 2025-09-04 | 2026-04-03 |
-| [Serrure \#667](https://open.spotify.com/track/4zipUPcZZkWmxn2TEMummt) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Serrure \#667](https://open.spotify.com/album/0HzOMyTAUOlrjnZzrMWkA6) | 2:27 | 2026-02-12 |  |
+| [Serrure \#667](https://open.spotify.com/track/4zipUPcZZkWmxn2TEMummt) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Serrure \#667](https://open.spotify.com/album/0HzOMyTAUOlrjnZzrMWkA6) | 2:27 | 2026-02-12 | 2026-04-17 |
 | [Sexy Woman](https://open.spotify.com/track/3rcYxqjhN14IdYmRwfWhbi) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Sexy Woman](https://open.spotify.com/album/2xnmWvqnvQSffJ3OxnJpHZ) | 2:31 | 2025-02-20 | 2025-12-05 |
 | [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 | 2023-08-03 | 2023-11-24 |
 | [Shooter](https://open.spotify.com/track/6RkusvVLSW6i29LiUWyg8w) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:43 | 2022-02-10 | 2022-04-01 |

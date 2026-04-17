@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: The Strokes",
+  "description": "The best indie music of the moment. Cover: Not For Radio",
   "name": "The Indie List",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 215513,
       "name": "(easily) moved",
       "url": "https://open.spotify.com/track/6wK8WtrJBXGVEk0sXX6XZG"
@@ -510,6 +510,24 @@
       "duration_ms": 215913,
       "name": "About Leaving",
       "url": "https://open.spotify.com/track/6iraVxe9TrUxvpnymEAe7P"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
+      },
+      "artists": [
+        {
+          "name": "Not for Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265606,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
     },
     {
       "album": {
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 210945,
       "name": "Au Pays du Cocaine",
       "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
@@ -1844,6 +1862,24 @@
       "duration_ms": 177250,
       "name": "Better ft. Cuco",
       "url": "https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX"
+    },
+    {
+      "album": {
+        "name": "Big Bite",
+        "url": "https://open.spotify.com/album/464fIAOLIx4pAfDIMjMztj"
+      },
+      "artists": [
+        {
+          "name": "Mac Wetha",
+          "url": "https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Big Bite",
+      "url": "https://open.spotify.com/track/3kylx2hAIQALe9zQDCajFN"
     },
     {
       "album": {
@@ -2720,6 +2756,24 @@
       "duration_ms": 146127,
       "name": "Can't See",
       "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
+    },
+    {
+      "album": {
+        "name": "Can't Shake This Feeling",
+        "url": "https://open.spotify.com/album/4PQOJiIIvUYNaFQbe0F8Sd"
+      },
+      "artists": [
+        {
+          "name": "Carly Hann",
+          "url": "https://open.spotify.com/artist/5vxDMnh02mh7RQ9c2wiT6b"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209314,
+      "name": "Can't Shake This Feeling",
+      "url": "https://open.spotify.com/track/1grXmYQ0WLIfKzZp4ahtO0"
     },
     {
       "album": {
@@ -4838,7 +4892,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 236102,
       "name": "Every Woman",
       "url": "https://open.spotify.com/track/0Vor1chusdXS3b1nUYS2vQ"
@@ -4892,7 +4946,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 203026,
       "name": "EVERYTHING",
       "url": "https://open.spotify.com/track/7B2qUMtvYuAr8QGCx1vVij"
@@ -5329,6 +5383,24 @@
     },
     {
       "album": {
+        "name": "Florence",
+        "url": "https://open.spotify.com/album/0GAuzNrkQcaZyNezFjNDSB"
+      },
+      "artists": [
+        {
+          "name": "Ea Othilde",
+          "url": "https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271866,
+      "name": "Florence",
+      "url": "https://open.spotify.com/track/4vNf1qqBHno9dM6PcgVBHj"
+    },
+    {
+      "album": {
         "name": "For the Cold Country",
         "url": "https://open.spotify.com/album/6HnC12N2Ir7bb6jUj67RfY"
       },
@@ -5650,7 +5722,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 202196,
       "name": "Get Go",
       "url": "https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01"
@@ -6075,6 +6147,24 @@
     },
     {
       "album": {
+        "name": "Grey Mullet / Scup",
+        "url": "https://open.spotify.com/album/0fI1dJtiVGbRA38kN3NHHZ"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147159,
+      "name": "Grey Mullet",
+      "url": "https://open.spotify.com/track/717tRuYfcGM29jDCzDt2hy"
+    },
+    {
+      "album": {
         "name": "Greyhound",
         "url": "https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx"
       },
@@ -6342,6 +6432,24 @@
       "duration_ms": 211257,
       "name": "Harriet",
       "url": "https://open.spotify.com/track/209gemJjT5HBPKA2Pspu8L"
+    },
+    {
+      "album": {
+        "name": "haven't seen you in a while",
+        "url": "https://open.spotify.com/album/3jliCbDDzo2YMZuamfbVgQ"
+      },
+      "artists": [
+        {
+          "name": "Bottle Rockets",
+          "url": "https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193106,
+      "name": "haven't seen you in a while",
+      "url": "https://open.spotify.com/track/7JL6PmKndly4X7jODvh1d9"
     },
     {
       "album": {
@@ -6922,6 +7030,24 @@
       "duration_ms": 199293,
       "name": "I Don\u2019t Wanna",
       "url": "https://open.spotify.com/track/4hHizy49Hzl7QfP3mGVJOY"
+    },
+    {
+      "album": {
+        "name": "I Expect Better",
+        "url": "https://open.spotify.com/album/2ZogXq5ZB7L97sPQWmIl5a"
+      },
+      "artists": [
+        {
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139784,
+      "name": "I Expect Better",
+      "url": "https://open.spotify.com/track/5GR30tXyjrKUb5LcWya8zn"
     },
     {
       "album": {
@@ -8708,7 +8834,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 226077,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/3FAgUjS7OqRoXl4WjowcKS"
@@ -9014,7 +9140,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
@@ -9490,7 +9616,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 199059,
       "name": "Mind Disaster",
       "url": "https://open.spotify.com/track/6QWqLUIU5263SuqWLWSVbN"
@@ -9751,6 +9877,24 @@
     },
     {
       "album": {
+        "name": "My Favourite Book Is One I\u2019ve Read A Bunch",
+        "url": "https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3"
+      },
+      "artists": [
+        {
+          "name": "Dermot Henry",
+          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214549,
+      "name": "My Favourite Book Is One I\u2019ve Read A Bunch",
+      "url": "https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC"
+    },
+    {
+      "album": {
         "name": "My Favourite Monster",
         "url": "https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu"
       },
@@ -9816,7 +9960,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 109072,
       "name": "My Guitar",
       "url": "https://open.spotify.com/track/1bRTiAfN4FKqP4ZqGnQFYm"
@@ -11631,6 +11775,24 @@
     },
     {
       "album": {
+        "name": "Every Woman",
+        "url": "https://open.spotify.com/album/7bH6riJ4ia37J72m69lPt7"
+      },
+      "artists": [
+        {
+          "name": "Fiona-Lee",
+          "url": "https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221514,
+      "name": "Rational",
+      "url": "https://open.spotify.com/track/1q8g8XnEVEn08t57g8BK2h"
+    },
+    {
+      "album": {
         "name": "Reach Out And Kiss Me",
         "url": "https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX"
       },
@@ -12750,7 +12912,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 248800,
       "name": "Sliced by a Fingernail",
       "url": "https://open.spotify.com/track/5gSmH3RJTOLqQwxRhzBZIg"
@@ -13911,6 +14073,24 @@
     },
     {
       "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197661,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI"
+    },
+    {
+      "album": {
         "name": "Taxes",
         "url": "https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE"
       },
@@ -14266,6 +14446,24 @@
       "duration_ms": 212957,
       "name": "The Coward Forgets His Nightmare",
       "url": "https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb"
+    },
+    {
+      "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx"
+      },
+      "artists": [
+        {
+          "name": "THEATRE",
+          "url": "https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259053,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT"
     },
     {
       "album": {
@@ -15986,7 +16184,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 207509,
       "name": "Want It Back",
       "url": "https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA"
@@ -16372,7 +16570,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 268694,
       "name": "When You Tie Your Hair Up",
       "url": "https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg"
@@ -16790,7 +16988,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 167272,
       "name": "You Could Have It",
       "url": "https://open.spotify.com/track/2ndh30vZhrfL0Zpq8wRbvl"

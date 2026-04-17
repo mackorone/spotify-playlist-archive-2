@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: AKMU \(악뮤\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 우디 \(Woody\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,725 songs - 4 day 16 hr 9 min
+1,727 songs - 4 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Beyond The Sea](https://open.spotify.com/track/4OxtWbT2vpoWOROrRSYHSk) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [Beyond The Sea](https://open.spotify.com/album/5sIJhxAbyNindPmfgYb0VS) | 3:00 | 2023-01-10 | 2023-02-25 |
 | [Beyond the sunset](https://open.spotify.com/track/5pTZ4EGb1PEW80fVdrWMIT) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Beyond the sunset](https://open.spotify.com/album/1kyucWXrwMj8VF0n6aXYTH) | 4:30 | 2025-12-02 | 2026-04-16 |
 | [bittersweet](https://open.spotify.com/track/3JqgRqxVfoZXfDWYosS9ef) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [STOP OVER](https://open.spotify.com/album/6uDov9hyYO6A3IKH1bALL7) | 3:28 | 2022-05-24 | 2022-07-27 |
+| [Black Glasses](https://open.spotify.com/track/7eOcaoeDk9lZBVndn2NQOG) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Black Glasses](https://open.spotify.com/album/29fIiMKUx3NnAMPWHgSEPI) | 3:54 | 2026-04-16 |  |
 | [Bloom](https://open.spotify.com/track/7huP0epHGaopyXN3a51cPb) | [EXY](https://open.spotify.com/artist/3QFf0wwzpLiSmC4hx7lhER) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC) | 3:15 | 2022-01-25 | 2022-01-27 |
 | [BLOOM](https://open.spotify.com/track/3bCDoZgeNf9s6Zmf9iz51h) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [CEREMONIA](https://open.spotify.com/album/2tb2AzY9uac3ND3Wf8RQPL) | 3:52 | 2022-03-24 | 2022-04-21 |
 | [Blooming flower](https://open.spotify.com/track/1s2N4vr2R1ANpBOX1z4vFb) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [Blooming flower](https://open.spotify.com/album/4QuioXphvFEWHvkKtJfYgL) | 3:53 | 2023-11-15 | 2024-03-21 |
@@ -284,7 +285,7 @@
 | [Dear Love](https://open.spotify.com/track/6rR8TIrMrrMOZ72xf81H5I) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [\#ff00ff](https://open.spotify.com/album/5PAqvFOTIUDAPpujNE54Rr) | 4:15 | 2023-02-14 | 2023-03-28 |
 | [Dear My Love](https://open.spotify.com/track/6QdzLFR1l1GP4OoiJAZNtF) | [BYUL](https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp) | [When the Weather is fine OST Part.4](https://open.spotify.com/album/2OMholRSxY7jILMGLWXuJD) | 4:45 | 2022-03-24 | 2022-04-17 |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-08-12 | 2022-12-27 |
-| [December 32 days](https://open.spotify.com/track/1fXcEQ3qQkXHmEtyMOoGYa) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [December 32 days](https://open.spotify.com/album/78QCfGI4tbL1ifynZHcwlK) | 4:46 | 2025-12-16 |  |
+| [December 32 days](https://open.spotify.com/track/1fXcEQ3qQkXHmEtyMOoGYa) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [December 32 days](https://open.spotify.com/album/78QCfGI4tbL1ifynZHcwlK) | 4:46 | 2025-12-16 | 2026-04-17 |
 | [December's Spring\(Prod\. Sam Kim\)](https://open.spotify.com/track/2gccCocSljvkKhBL7gkYLN) | [YUN HU](https://open.spotify.com/artist/2yjxXnxo2b9nxPv6JbvDgp) | [December's Spring](https://open.spotify.com/album/4knx3cIPVE7wb6yNJhhS1A) | 3:30 | 2023-01-10 | 2023-02-25 |
 | [December\. 24](https://open.spotify.com/track/5Ohvq1eQp1tqAFphomgG2i) | [Yoon Jisung](https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM) | [December\. 24](https://open.spotify.com/album/4DHi2uDjBt98cQzfSD7Fut) | 3:30 | 2022-12-05 | 2023-01-21 |
 | [Decision to leave](https://open.spotify.com/track/0qP6zleSUcWWlS3Q5Ikoj6) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Decision to leave](https://open.spotify.com/album/5omlHbU5tSowwzqJ1QCFem) | 3:08 | 2023-06-13 | 2023-10-20 |
@@ -398,7 +399,7 @@
 | [Falling Slowly](https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Falling Slowly](https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s) | 3:57 | 2024-03-05 | 2024-08-01 |
 | [FALLIN’](https://open.spotify.com/track/6SB3WxKENI2kc1rFOo2mDB) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [FALLIN’](https://open.spotify.com/album/24QqEpbJ5la5efKymw6kcK) | 3:20 | 2024-11-06 | 2025-04-23 |
 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2022-05-16 | 2022-10-08 |
-| [Farewell for myself \(Veiled Musician X HuhGak with Madu\-dong Samdaejang\)](https://open.spotify.com/track/2dvq6LBNSBzopoxZHEAb4b) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Farewell for myself \(Veiled Musician X HuhGak with Madu\-dong Samdaejang\)](https://open.spotify.com/album/1Rd33YoDQAIQLiU0WZ9CN1) | 4:18 | 2026-01-02 |  |
+| [Farewell for myself \(Veiled Musician X HuhGak with Madu\-dong Samdaejang\)](https://open.spotify.com/track/2dvq6LBNSBzopoxZHEAb4b) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Farewell for myself \(Veiled Musician X HuhGak with Madu\-dong Samdaejang\)](https://open.spotify.com/album/1Rd33YoDQAIQLiU0WZ9CN1) | 4:18 | 2026-01-02 | 2026-04-17 |
 | [Farewell In Tears](https://open.spotify.com/track/28ctCyUPyDomk7LLwN4aY8) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The World of the Married, Pt.5 \(Original Television SoundTrack\)](https://open.spotify.com/album/4Oi5IpgCPeyMdyuXAIssyJ) | 4:16 | 2022-03-31 | 2022-04-12 |
 | [Fearless](https://open.spotify.com/track/7reaS01vXpksmfnt17zNXg) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR) | [Fearless](https://open.spotify.com/album/6yPFHssyrN73JMEXYjRnIt) | 3:00 | 2025-09-26 | 2026-01-15 |
 | [Feeling of love](https://open.spotify.com/track/45S9VsBpy4zZ5BHcwklih2) | [Yeji \(GyeongseoYeji\)](https://open.spotify.com/artist/6jWusfRYDNKV2iwUtMO7kp) | [My Universe](https://open.spotify.com/album/1t7A3JHDRTdFb1VM9DDAxV) | 3:53 | 2023-10-02 | 2023-12-30 |
@@ -1276,6 +1277,7 @@
 | [Steps Towards You](https://open.spotify.com/track/59263BYqT0AARHtTfHEAR1) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [The Lovers Note](https://open.spotify.com/album/55ddigAUNLCkDpvkjG1w9U) | 3:48 | 2025-02-28 | 2025-06-14 |
 | [Still](https://open.spotify.com/track/2FPVLNcMPKysmV1TpozETD) | [VROMANCE](https://open.spotify.com/artist/5YPW3OmiqnqnQaFjloAvA7) | [Still](https://open.spotify.com/album/0dS3PtdYqB4uboBYWRln6H) | 3:43 | 2024-07-22 | 2024-11-29 |
 | [Still Here](https://open.spotify.com/track/2el8yRLvLFS5sxdcqjhDLS) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [EXchange4, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/6DnjKL09yARkT22fUCULgQ) | 3:32 | 2025-11-12 |  |
+| [Still Here](https://open.spotify.com/track/40ozUffOxCv6Ge5ip6jSN0) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Our Cosmos](https://open.spotify.com/album/2yudf19Ddb0ynglfZtKpD0) | 3:47 | 2026-04-16 |  |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-07 | 2023-01-11 |
 | [Still Here, Still Us](https://open.spotify.com/track/2OE45UXXsoaYkWNNaMLmot) | [SeeYa](https://open.spotify.com/artist/3Mbxr8TL0Sny7dUNicKWm2) | [Still Here, Still Us](https://open.spotify.com/album/7gI1pzZRjxCgWHMwRb8ouv) | 3:33 | 2026-03-31 |  |
 | [Still I miss you](https://open.spotify.com/track/7wernZE5R61X4HtWD1aBhs) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Still I miss you](https://open.spotify.com/album/2i4UOo0Yr9vEzySpsyVj4v) | 4:08 | 2023-03-21 | 2023-07-08 |

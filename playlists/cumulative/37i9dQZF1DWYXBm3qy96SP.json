@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: The Strokes",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: NINE INCH NAILS",
   "name": "Rock The World",
   "tracks": [
     {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 207306,
       "name": "2 or 3",
       "url": "https://open.spotify.com/track/2B5shqKyg2QwIsdLe9UUm7"
@@ -10136,7 +10136,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 205812,
       "name": "Ember",
       "url": "https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY"
@@ -14065,6 +14065,28 @@
     },
     {
       "album": {
+        "name": "Nine Inch Noize",
+        "url": "https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237956,
+      "name": "Heresy - Nine Inch Noize Version",
+      "url": "https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV"
+    },
+    {
+      "album": {
         "name": "Heroes - Spotify Singles",
         "url": "https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag"
       },
@@ -14635,6 +14657,24 @@
     },
     {
       "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/2vSANlvNVEfUl0maUcNeoD"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203424,
+      "name": "HOPE",
+      "url": "https://open.spotify.com/track/0gBfHrAHah7hoyWiOHSNia"
+    },
+    {
+      "album": {
         "name": "Hope is a Dangerous Little Thing",
         "url": "https://open.spotify.com/album/13JTf9C01ApbfehYZoc7lX"
       },
@@ -14972,7 +15012,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 64733,
       "name": "I Don't Need To Be In Your Strike Zone",
       "url": "https://open.spotify.com/track/6pfgiW3ugfx2gSv1H9WY5W"
@@ -15016,6 +15056,24 @@
       "duration_ms": 187400,
       "name": "I Don't Wanna Dance (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/77v0c1CYJ04g9IteCB4Hfu"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Go!",
+        "url": "https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159315,
+      "name": "I Don't Wanna Go!",
+      "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
     },
     {
       "album": {
@@ -16469,6 +16527,24 @@
     },
     {
       "album": {
+        "name": "Is The New Album Out Yet?",
+        "url": "https://open.spotify.com/album/40GWsNlzUiu4BNVUK3Osr6"
+      },
+      "artists": [
+        {
+          "name": "Otoboke Beaver",
+          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92240,
+      "name": "Is The New Album Out Yet?",
+      "url": "https://open.spotify.com/track/5ifURZDS0giN09C2usZ7uq"
+    },
+    {
+      "album": {
         "name": "Is What It Is",
         "url": "https://open.spotify.com/album/3EKqraKWALJHm2AZ2cDzSr"
       },
@@ -17498,7 +17574,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 138000,
       "name": "Knock 'Em Out",
       "url": "https://open.spotify.com/track/0geAieQWT0AllbJpUnBgFe"
@@ -19877,6 +19953,24 @@
     },
     {
       "album": {
+        "name": "meaning",
+        "url": "https://open.spotify.com/album/1eNXkTH3nkNUcWbacD6zyW"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224306,
+      "name": "meaning",
+      "url": "https://open.spotify.com/track/23rFnCXBIlKpxuKSorAyeL"
+    },
+    {
+      "album": {
         "name": "Dinosaur",
         "url": "https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a"
       },
@@ -20618,7 +20712,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 117101,
       "name": "More Horse, Less Code",
       "url": "https://open.spotify.com/track/1IQhCIhuDX2MgElAomxXWl"
@@ -20964,7 +21058,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 235006,
       "name": "My Baby's Place",
       "url": "https://open.spotify.com/track/5noMqCfgrkV3zOcCvpC6We"
@@ -22653,6 +22747,24 @@
     },
     {
       "album": {
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/3Z28WbXa0mpnXpWXfpODoU"
+      },
+      "artists": [
+        {
+          "name": "DYGL",
+          "url": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188082,
+      "name": "NRG",
+      "url": "https://open.spotify.com/track/3hR1AVjKsZLT1PgkdiUOTV"
+    },
+    {
+      "album": {
         "name": "Nuclear Boy Scout",
         "url": "https://open.spotify.com/album/2lmSKXcV1MkDYaKli47ICz"
       },
@@ -24212,7 +24324,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 179520,
       "name": "Perfect Pain",
       "url": "https://open.spotify.com/track/58cpluWUBHARQKwRnnfisW"
@@ -26845,6 +26957,24 @@
     },
     {
       "album": {
+        "name": "savior",
+        "url": "https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163559,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0"
+    },
+    {
+      "album": {
         "name": "say it",
         "url": "https://open.spotify.com/album/1wR2zPQSlFq0o8fqHibOQe"
       },
@@ -27162,7 +27292,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 202744,
       "name": "Setting Fires",
       "url": "https://open.spotify.com/track/6DR3L7CKoLAivNdK9fhR6w"
@@ -29660,6 +29790,24 @@
       "duration_ms": 174119,
       "name": "Sugarcat",
       "url": "https://open.spotify.com/track/18pICKHsEvVhiKB2zwW1ta"
+    },
+    {
+      "album": {
+        "name": "\u5916\u9762\u662f\u590f\u5929",
+        "url": "https://open.spotify.com/album/5zMKN3Q5BK91foqe9MfbSX"
+      },
+      "artists": [
+        {
+          "name": "\u788e\u68a6\u98de\u8dc3SleepLeaps",
+          "url": "https://open.spotify.com/artist/6SzldORVMPXulsJFkLqNTL"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261250,
+      "name": "Summer.Noise.Pool",
+      "url": "https://open.spotify.com/track/5kf2wCgfs6xQ6TX0058Crb"
     },
     {
       "album": {
@@ -32860,7 +33008,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-17",
       "duration_ms": 264503,
       "name": "Two Hands",
       "url": "https://open.spotify.com/track/70wvbulgaxQEwS5UPEcY3B"
@@ -36664,6 +36812,24 @@
       "duration_ms": 186506,
       "name": "\u7f38",
       "url": "https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu"
+    },
+    {
+      "album": {
+        "name": "\u80aa \uff5cBo",
+        "url": "https://open.spotify.com/album/2en4aIjPUvlolSAAXWStDy"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "\u80aa \uff5cBo",
+      "url": "https://open.spotify.com/track/71J6B49V8UJAhbAB3FZpgB"
     },
     {
       "album": {
