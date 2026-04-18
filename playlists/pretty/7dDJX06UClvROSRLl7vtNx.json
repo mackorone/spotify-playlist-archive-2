@@ -1,12 +1,12 @@
 {
   "description": "Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party. For submissions: j-dosch@freenet.de",
-  "num_followers": 105168,
+  "num_followers": 105228,
   "original_name": "Beach Lounge 2026 \ud83c\udf34 IBIZA Summer Chillout",
   "owner": {
     "name": "j-dosch",
     "url": "https://open.spotify.com/user/j-dosch"
   },
-  "snapshot_id": "AABRmLIoWRjr35jwF20nwXMucSC1p4ME",
+  "snapshot_id": "AABRngD7vxhpAyPUIPzQYbwmqHzmQl47",
   "tracks": [
     {
       "added_at": "2023-09-22 10:40:16",
@@ -651,6 +651,30 @@
       "duration_ms": 144390,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6cWY6Pf6zFEvp0wODVAlfy"
+    },
+    {
+      "added_at": "2026-04-17 10:38:44",
+      "album": {
+        "name": "Missing You (Le Jardin Secret Remix)",
+        "url": "https://open.spotify.com/album/2S9BrkDWlzyH81HV8BQcQt"
+      },
+      "artists": [
+        {
+          "name": "Samuel Miller",
+          "url": "https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8"
+        },
+        {
+          "name": "LO",
+          "url": "https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto"
+        },
+        {
+          "name": "Le Jardin Secret",
+          "url": "https://open.spotify.com/artist/0Hzo0ny2O7V0MK5HbttDi5"
+        }
+      ],
+      "duration_ms": 163278,
+      "name": "Missing You - Le Jardin Secret Remix",
+      "url": "https://open.spotify.com/track/6H7cbyo4hiOdn2fUxToGA6"
     },
     {
       "added_at": "2026-04-16 22:30:59",
@@ -3097,26 +3121,6 @@
       "url": "https://open.spotify.com/track/27niacZVlyFl35A1Tf9meg"
     },
     {
-      "added_at": "2025-11-15 23:19:52",
-      "album": {
-        "name": "Dance In The Dark",
-        "url": "https://open.spotify.com/album/2kEfNyO8AkwPImvpIoldrD"
-      },
-      "artists": [
-        {
-          "name": "Calm Springs",
-          "url": "https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb"
-        },
-        {
-          "name": "Baked Moon",
-          "url": "https://open.spotify.com/artist/1EakYdOq1DNS0vJEC9Gy8K"
-        }
-      ],
-      "duration_ms": 198125,
-      "name": "Dance In The Dark",
-      "url": "https://open.spotify.com/track/3LSPoubZ1lhdh9FsRu2vur"
-    },
-    {
       "added_at": "2026-01-25 22:34:40",
       "album": {
         "name": "Fortnight",
@@ -4475,6 +4479,22 @@
       "duration_ms": 139885,
       "name": "Too Late Now",
       "url": "https://open.spotify.com/track/3S0lvq4rYAEJtrdjtKZBsO"
+    },
+    {
+      "added_at": "2026-04-17 20:55:35",
+      "album": {
+        "name": "burn me down",
+        "url": "https://open.spotify.com/album/5Ui16zFYXEJTU354KKgWRi"
+      },
+      "artists": [
+        {
+          "name": "j\u00fcnn",
+          "url": "https://open.spotify.com/artist/1CLWdsKEaYZAiQAf8iv0vU"
+        }
+      ],
+      "duration_ms": 142142,
+      "name": "burn me down",
+      "url": "https://open.spotify.com/track/5n6m0IMINOotiNaDGIwPdx"
     }
   ],
   "unique_name": "Beach Lounge 2026 \ud83c\udf34 IBIZA Summer Chillout",

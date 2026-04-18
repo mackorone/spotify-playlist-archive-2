@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "lo alt, raro y cool. The xx en portada.",
+  "description": "lo alt, raro y cool. TOMORA en portada.",
   "name": "el indie no es un g\u00e9nero ",
   "tracks": [
     {
@@ -1187,6 +1187,24 @@
     },
     {
       "album": {
+        "name": "Badlands",
+        "url": "https://open.spotify.com/album/0lMhnhcPMq08GzLqgu9Kw9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234159,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/0uGdGEN2qDOFQ8mmkIuWyA"
+    },
+    {
+      "album": {
         "name": "Bag of Bones",
         "url": "https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl"
       },
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 262306,
       "name": "Bring Home My Man",
       "url": "https://open.spotify.com/track/1OeNu7kjS4MGCt1nTzgefU"
@@ -2376,7 +2394,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 183542,
       "name": "Checking Out",
       "url": "https://open.spotify.com/track/2AimdilpvdZIxgAZNLAKEY"
@@ -2448,7 +2466,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 262654,
       "name": "Children Of The Revolution - Remastered 2026",
       "url": "https://open.spotify.com/track/7oVTcIJSqVqXadBP002G2Z"
@@ -2466,7 +2484,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 239913,
       "name": "Chinese Tobacco",
       "url": "https://open.spotify.com/track/0wi8HTSPE4b6LE6zAI98oN"
@@ -4238,7 +4256,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 203026,
       "name": "EVERYTHING",
       "url": "https://open.spotify.com/track/7B2qUMtvYuAr8QGCx1vVij"
@@ -4296,6 +4314,28 @@
       "duration_ms": 261005,
       "name": "Fable",
       "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
+    },
+    {
+      "album": {
+        "name": "Fade Into You",
+        "url": "https://open.spotify.com/album/1hBXcVtSiaYkflIiqjQfAV"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269875,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/37kGpZDrqQekpIQswHYHw6"
     },
     {
       "album": {
@@ -5392,7 +5432,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 170826,
       "name": "Half A Spark",
       "url": "https://open.spotify.com/track/7FciOLJQatqLi7F813PrzE"
@@ -5749,6 +5789,24 @@
     },
     {
       "album": {
+        "name": "Holly!",
+        "url": "https://open.spotify.com/album/4pMhDFwae5Udlg8MTn4BGg"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190533,
+      "name": "Holly!",
+      "url": "https://open.spotify.com/track/6rlCtwow78KOeQFkSQhQwy"
+    },
+    {
+      "album": {
         "name": "Hombre Roto",
         "url": "https://open.spotify.com/album/3nPFVNL38CvmoGCWw5fi8x"
       },
@@ -6082,6 +6140,32 @@
       "duration_ms": 228939,
       "name": "I Don't Think You're Ready",
       "url": "https://open.spotify.com/track/6oWx7grNKOeW7sW2trVFYa"
+    },
+    {
+      "album": {
+        "name": "I DRINK THE LIGHT",
+        "url": "https://open.spotify.com/album/0Ysa2JxQZVJQxLb6qVO6NO"
+      },
+      "artists": [
+        {
+          "name": "TOMORA",
+          "url": "https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Tom Rowlands",
+          "url": "https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476893,
+      "name": "I DRINK THE LIGHT",
+      "url": "https://open.spotify.com/track/4ytjR8q5geAVO7EQM9Gjzd"
     },
     {
       "album": {
@@ -7028,7 +7112,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 251440,
       "name": "Kick The Curb",
       "url": "https://open.spotify.com/track/0VjvyzMoleGvCVtGnJQI6O"
@@ -7947,6 +8031,24 @@
     },
     {
       "album": {
+        "name": "Simpleton",
+        "url": "https://open.spotify.com/album/6HBee8pZzb8VoTTBcCcM7B"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262245,
+      "name": "Make It Easy",
+      "url": "https://open.spotify.com/track/2PEQCyAXRgvipvmnI7FyQ7"
+    },
+    {
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
       },
@@ -8628,7 +8730,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 162291,
       "name": "My Fun",
       "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
@@ -9338,7 +9440,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 224133,
       "name": "On Hold",
       "url": "https://open.spotify.com/track/7fEVEn2QxhSCLewdFtPnhX"
@@ -10108,6 +10210,28 @@
       "duration_ms": 218193,
       "name": "Playing House",
       "url": "https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK"
+    },
+    {
+      "album": {
+        "name": "Pockets Full Of Sand (with Bryce Vine)",
+        "url": "https://open.spotify.com/album/4gMRBI8iRuiE4Qi9m7MG8J"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200906,
+      "name": "Pockets Full Of Sand (with Bryce Vine)",
+      "url": "https://open.spotify.com/track/3TCgGzaMnRvIbWrb5KYZZv"
     },
     {
       "album": {
@@ -12599,6 +12723,24 @@
     },
     {
       "album": {
+        "name": "The Call",
+        "url": "https://open.spotify.com/album/61LVjKvyP3uRXdjnNv7kwC"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253306,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/4teod5AtonjsogVrSl2EEW"
+    },
+    {
+      "album": {
         "name": "The Conflict of the Mind",
         "url": "https://open.spotify.com/album/7bGzvyccrDzn32gieBu3tE"
       },
@@ -12756,7 +12898,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 189021,
       "name": "The God of Lying (feat. IDLES)",
       "url": "https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98"
@@ -13775,6 +13917,24 @@
     },
     {
       "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195018,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX"
+    },
+    {
+      "album": {
         "name": "Typical",
         "url": "https://open.spotify.com/album/2DjjY1hhVEV4B6X6cEUCc6"
       },
@@ -14468,7 +14628,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 212023,
       "name": "What\u2019s On Your Mind",
       "url": "https://open.spotify.com/track/2DOKvJS61usFOxobo7jLi0"
@@ -14710,7 +14870,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 165889,
       "name": "Wish on Me",
       "url": "https://open.spotify.com/track/5yOGGUuECd2hsJwKWCBOwG"

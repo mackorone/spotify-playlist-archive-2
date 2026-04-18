@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1315,
+  "num_followers": 1314,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAN+HFfWa+iietXHDk3nwGmhRq0Xptn",
+  "snapshot_id": "AAAOCqfvJWFNR86gpyI5xzf2rMNHkfSc",
   "tracks": [
     {
       "added_at": "2026-02-26 08:38:44",
@@ -143,6 +143,26 @@
       "duration_ms": 185777,
       "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
       "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-04-17 09:15:24",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/382eLbnHnuZCJ5ujxao4Sw"
+      },
+      "artists": [
+        {
+          "name": "Waves Like Walls",
+          "url": "https://open.spotify.com/artist/46doEvVIZO7tclsJSLNRc2"
+        },
+        {
+          "name": "Downpour",
+          "url": "https://open.spotify.com/artist/2LjCRqa3fgVxFvn3FpPHHQ"
+        }
+      ],
+      "duration_ms": 206194,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/5YF3QUNPI7xR61kFOW1Izb"
     },
     {
       "added_at": "2026-04-16 11:01:41",
@@ -1685,118 +1705,6 @@
       "url": "https://open.spotify.com/track/0e7qshg39yZQKsA7pCfuHx"
     },
     {
-      "added_at": "2026-03-17 15:22:46",
-      "album": {
-        "name": "Are We Not Men?",
-        "url": "https://open.spotify.com/album/1s9mkvAm9niE20qM0lH1mf"
-      },
-      "artists": [
-        {
-          "name": "Ben Gel",
-          "url": "https://open.spotify.com/artist/061zXo3f18S4rvBolMK6Pk"
-        }
-      ],
-      "duration_ms": 187228,
-      "name": "Are We Not Men?",
-      "url": "https://open.spotify.com/track/2dsddOLeJMxJIKDuBysVz1"
-    },
-    {
-      "added_at": "2026-03-17 15:19:58",
-      "album": {
-        "name": "Repotism",
-        "url": "https://open.spotify.com/album/7AnGihBbuClk4EK3QRmTLE"
-      },
-      "artists": [
-        {
-          "name": "Bent Heavens",
-          "url": "https://open.spotify.com/artist/3eDoaB18Q99OcjtD0X5ejG"
-        }
-      ],
-      "duration_ms": 152431,
-      "name": "Murmurs",
-      "url": "https://open.spotify.com/track/5EctKJGyhsGOxQiqAr8Id4"
-    },
-    {
-      "added_at": "2026-03-17 15:14:44",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/6X2kZUL7O8jM5xWNheuzdP"
-      },
-      "artists": [
-        {
-          "name": "Harri Georgio",
-          "url": "https://open.spotify.com/artist/2Td89Xyv9wnPRfO0KodMHe"
-        }
-      ],
-      "duration_ms": 135857,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/25ooJFZ75AlSgJkTMYX13T"
-    },
-    {
-      "added_at": "2026-03-17 15:07:35",
-      "album": {
-        "name": "Have Your Say",
-        "url": "https://open.spotify.com/album/3sJgNrX4tRIJlI4wJpVzNh"
-      },
-      "artists": [
-        {
-          "name": "Friends With Boats",
-          "url": "https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc"
-        }
-      ],
-      "duration_ms": 177300,
-      "name": "Have Your Say",
-      "url": "https://open.spotify.com/track/5G0y8rEfDcnsT6MyxquLmn"
-    },
-    {
-      "added_at": "2026-03-17 15:02:57",
-      "album": {
-        "name": "wrecked",
-        "url": "https://open.spotify.com/album/4b5bcSF7KSUMOLVOszH7T4"
-      },
-      "artists": [
-        {
-          "name": "Bliss Abyss",
-          "url": "https://open.spotify.com/artist/1DLwFy1kFyeQYO6rnjMaaZ"
-        }
-      ],
-      "duration_ms": 208480,
-      "name": "wrecked",
-      "url": "https://open.spotify.com/track/3N63XR695EZgdQYiQJVtAY"
-    },
-    {
-      "added_at": "2026-03-17 14:52:03",
-      "album": {
-        "name": "Foam",
-        "url": "https://open.spotify.com/album/0RelhQ9p601GBkaUU0teXS"
-      },
-      "artists": [
-        {
-          "name": "Unsafe",
-          "url": "https://open.spotify.com/artist/5pPl6lJUOCYj2ZJYxxl70P"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Foam",
-      "url": "https://open.spotify.com/track/1gpAZwusu4vDpY0QR1g2t0"
-    },
-    {
-      "added_at": "2026-03-17 12:48:24",
-      "album": {
-        "name": "The Shit Split",
-        "url": "https://open.spotify.com/album/71DZycL3EgRqrdUFu6Eetf"
-      },
-      "artists": [
-        {
-          "name": "Mermaid Island",
-          "url": "https://open.spotify.com/artist/7iGEsQzSOaEhXNgTSKfqSS"
-        }
-      ],
-      "duration_ms": 242377,
-      "name": "Shit Out Of Luck",
-      "url": "https://open.spotify.com/track/5QqPn9qJ2xBUGqsoWYwy37"
-    },
-    {
       "added_at": "2025-08-03 07:15:47",
       "album": {
         "name": "White Blood Cells",
@@ -3024,7 +2932,7 @@
           "url": "https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs"
         }
       ],
-      "duration_ms": 296000,
+      "duration_ms": 288125,
       "name": "Auntie Jade (remaster)",
       "url": "https://open.spotify.com/track/4Cn1FTpngOK19sRLX0s03c"
     },
@@ -4087,6 +3995,174 @@
       "duration_ms": 214153,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/5bdW7nt9fpg497enkGAdTP"
+    },
+    {
+      "added_at": "2026-04-17 05:40:44",
+      "album": {
+        "name": "It Feels Wrong (AuraWave Remix)",
+        "url": "https://open.spotify.com/album/0AB39Ar28AKdoCMOxFkERu"
+      },
+      "artists": [
+        {
+          "name": "Plexiphones",
+          "url": "https://open.spotify.com/artist/2yFpazLF0TVoqwk12C49CB"
+        },
+        {
+          "name": "AuraWave",
+          "url": "https://open.spotify.com/artist/52QIX1G7NJPAZaYUK08xgN"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "It Feels Wrong (Aurawave Starlight Remix)",
+      "url": "https://open.spotify.com/track/0989fQZGrjQmV4dDb3F62X"
+    },
+    {
+      "added_at": "2026-04-17 15:15:40",
+      "album": {
+        "name": "Cosquilleo",
+        "url": "https://open.spotify.com/album/08LkhNcZlKqlVCnprQVXo8"
+      },
+      "artists": [
+        {
+          "name": "Hanz Ruiz",
+          "url": "https://open.spotify.com/artist/492JvkAgPNolAHLI8QPXP8"
+        }
+      ],
+      "duration_ms": 204893,
+      "name": "Cosquilleo",
+      "url": "https://open.spotify.com/track/0p7lNfxGLkLLw6mXqLjwJB"
+    },
+    {
+      "added_at": "2026-04-17 15:15:55",
+      "album": {
+        "name": "Dirty Pretty Ugly",
+        "url": "https://open.spotify.com/album/68TyBO2UNEBZl2uO8ofLfa"
+      },
+      "artists": [
+        {
+          "name": "Marshmallow Tinderbox",
+          "url": "https://open.spotify.com/artist/1a1fNQ31cdZolZTdiARKhi"
+        }
+      ],
+      "duration_ms": 179797,
+      "name": "Out of Control",
+      "url": "https://open.spotify.com/track/55yukdPodlnmXSyNVg6D7x"
+    },
+    {
+      "added_at": "2026-04-17 15:16:52",
+      "album": {
+        "name": "Visionz",
+        "url": "https://open.spotify.com/album/0BZhJ5TcSYCYMwENLhsnqD"
+      },
+      "artists": [
+        {
+          "name": "Cyberdelics",
+          "url": "https://open.spotify.com/artist/4MjBEh24pb8kh189w2Z9xL"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Visionz",
+      "url": "https://open.spotify.com/track/743CewBkDpdbldp94aoif6"
+    },
+    {
+      "added_at": "2026-04-17 15:17:07",
+      "album": {
+        "name": "Clown",
+        "url": "https://open.spotify.com/album/6A9clqWhKG2ce8AVXj1f6N"
+      },
+      "artists": [
+        {
+          "name": "Carl Schonbeck",
+          "url": "https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF"
+        },
+        {
+          "name": "Snug'n'Mo",
+          "url": "https://open.spotify.com/artist/3SRaiNgeQvMAjEuM5EH6bo"
+        }
+      ],
+      "duration_ms": 259181,
+      "name": "Clown",
+      "url": "https://open.spotify.com/track/77rGav8CBbntBb4xJ8OmEU"
+    },
+    {
+      "added_at": "2026-04-17 15:20:23",
+      "album": {
+        "name": "Heart of a Coward / Maelstrom",
+        "url": "https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "duration_ms": 270498,
+      "name": "Heart of a Coward",
+      "url": "https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv"
+    },
+    {
+      "added_at": "2026-04-17 15:21:30",
+      "album": {
+        "name": "Mr. Collision / Awhile Longer",
+        "url": "https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "duration_ms": 301333,
+      "name": "Mr. Collision",
+      "url": "https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF"
+    },
+    {
+      "added_at": "2026-04-17 20:40:50",
+      "album": {
+        "name": "Four years",
+        "url": "https://open.spotify.com/album/2b8sej527cM9Rd6a2DjG7Z"
+      },
+      "artists": [
+        {
+          "name": "Nakace7",
+          "url": "https://open.spotify.com/artist/79WqBie5aUELM4nIUaNqZs"
+        }
+      ],
+      "duration_ms": 169399,
+      "name": "Four years",
+      "url": "https://open.spotify.com/track/2gH9L3CkaLnhs4m86mWHHC"
+    },
+    {
+      "added_at": "2026-04-17 20:41:40",
+      "album": {
+        "name": "Let's keep it down",
+        "url": "https://open.spotify.com/album/1eIujJtNpjwA3ztHIfof7T"
+      },
+      "artists": [
+        {
+          "name": "INTOTHEVOID",
+          "url": "https://open.spotify.com/artist/4FYLVQGKQn5RIycdpzZtlj"
+        }
+      ],
+      "duration_ms": 220860,
+      "name": "Let's keep it down",
+      "url": "https://open.spotify.com/track/5zahUH63hbgnWDA4FmqOQ2"
+    },
+    {
+      "added_at": "2026-04-17 20:42:52",
+      "album": {
+        "name": "Line Them Up",
+        "url": "https://open.spotify.com/album/7xXnNyCNRY0vortmzd7shM"
+      },
+      "artists": [
+        {
+          "name": "The Ratskins",
+          "url": "https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V"
+        }
+      ],
+      "duration_ms": 167205,
+      "name": "Line Them Up",
+      "url": "https://open.spotify.com/track/1qpnSa87IPUX0u5xl0JIMx"
     }
   ],
   "unique_name": "Shuffle Roulette",

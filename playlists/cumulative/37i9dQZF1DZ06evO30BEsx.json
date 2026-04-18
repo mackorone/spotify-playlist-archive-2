@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 185653,
       "name": "La foule",
       "url": "https://open.spotify.com/track/5sCkDSAclPwinVZZxDYrNV"
@@ -1594,6 +1594,28 @@
       "duration_ms": 252360,
       "name": "Pavane pour une infante d\u00e9funte, M. 19",
       "url": "https://open.spotify.com/track/3nMesKO4nOyRrP1pUKQulO"
+    },
+    {
+      "album": {
+        "name": "Capucelli",
+        "url": "https://open.spotify.com/album/5mrGfxM48UCqKrOqG4Rmqm"
+      },
+      "artists": [
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Capucelli",
+          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Piazzolla: Suite del \u00c1ngel: III. Muerte del \u00c1ngel (Transcr. Walnier for Cello Ensemble)",
+      "url": "https://open.spotify.com/track/1UOi3E1w3XnWOQeV170kmh"
     },
     {
       "album": {

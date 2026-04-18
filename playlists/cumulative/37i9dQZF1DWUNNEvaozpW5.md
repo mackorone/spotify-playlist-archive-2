@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Bunbury.
 
-773 songs - 2 day 1 hr 19 min
+773 songs - 2 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Juguemos](https://open.spotify.com/track/7MnS8sUKTd3Vk1Erk2V20D) | [Simón Salinas](https://open.spotify.com/artist/5ogm4ORgtWxbH7ZJPuCiEC), [Alejo](https://open.spotify.com/artist/4pNlsYEjhnTIVPNZRlRx1h) | [Juguemos](https://open.spotify.com/album/4aO6QrQQwNWnFnY4lmZiUn) | 2:58 | 2024-08-29 | 2024-09-06 |
 | [Juliette \- Versión 2005](https://open.spotify.com/track/5J07Go5VORFPvKsN5tzcXe) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Hay mucho Rock & Roll\- Resumen](https://open.spotify.com/album/0JbOeNFwRRzFZva6WYwQnC) | 3:37 | 2022-05-26 | 2022-06-08 |
 | [Juramentos](https://open.spotify.com/track/2zHaMO7wdWosy8s7ergneM) | [Les Camisetes](https://open.spotify.com/artist/0NfzJL4JCERuUD6GOqacGl) | [Juramentos](https://open.spotify.com/album/55osmIpcwzTDe6fo82C5VB) | 3:10 | 2025-05-16 | 2025-05-24 |
+| [King´s Road](https://open.spotify.com/track/3dq5tt3jW2wytXEhWiryHx) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [LA 03010](https://open.spotify.com/album/6TSIpW2B1o6CJIaG3CJd8U) | 5:12 | 2026-04-16 |  |
 | [Kokagram](https://open.spotify.com/track/2bmnmJUy235wkJHFGJ28wy) | [Isma Romero](https://open.spotify.com/artist/5tGFnFD0dIxKMG8uuR9p89) | [Tira y afloja](https://open.spotify.com/album/6HzmGMkmXh5MYTE7AH1sPG) | 2:38 | 2026-03-05 | 2026-03-13 |
 | [Ké Más Nos Da](https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopía](https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02) | 3:20 | 2024-03-14 |  |
 | [La cabecita loca \- Directo Botánico](https://open.spotify.com/track/5uc29SREot10Yu5ToGX4sT) | [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [La cabecita loca \- Directo Botánico](https://open.spotify.com/album/59NpAQaaPqOV3LUIwxi6sd) | 3:53 | 2024-09-05 | 2024-09-13 |
@@ -708,7 +709,6 @@
 | [Todos los Gatos Son Pardos](https://open.spotify.com/track/5hzeePzx39dRlrIeOpRCXR) | [Gato Ventura](https://open.spotify.com/artist/7h2kM4syJ9RjSNu0UMGmTZ) | [Todos los Gatos Son Pardos](https://open.spotify.com/album/6ALMyNUewyCdW4QgrlTLmZ) | 2:53 | 2022-06-09 | 2022-08-24 |
 | [Todos los peligros me conocen](https://open.spotify.com/track/4oNQQtQ8NPMaesW2dQiXp8) | [Ilegales](https://open.spotify.com/artist/2laDE3zsNJYoX7n8nF3YPJ) | [Todos los peligros me conocen](https://open.spotify.com/album/2B5hmo6tBMdzvHZgwDumfB) | 2:22 | 2023-03-09 | 2023-03-18 |
 | [Tonada del bosque](https://open.spotify.com/track/5ztOwpKs9yiV11RL31DPwQ) | [Alberto & García](https://open.spotify.com/artist/5BKyujkSrDiZtHyRGtVJx6), [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Tonada del bosque](https://open.spotify.com/album/26JTN2p6eQGpvj12U2QWMK) | 3:33 | 2025-09-04 | 2025-09-12 |
-| [Track 11](https://open.spotify.com/track/3dq5tt3jW2wytXEhWiryHx) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [LA 03010](https://open.spotify.com/album/6TSIpW2B1o6CJIaG3CJd8U) | 0:00 | 2026-04-16 |  |
 | [Trance gil chill paella](https://open.spotify.com/track/77T7LBWBGqm4HBjyKeka17) | [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [Trance gil chill paella](https://open.spotify.com/album/02xSZqE6zhOHEwQpvFfvl5) | 3:50 | 2024-10-24 | 2024-11-08 |
 | [Transparente](https://open.spotify.com/track/3vuXkFCWyPNPZfSZhYQiAj) | [Los DelTonos](https://open.spotify.com/artist/0ep7WDZsYAGAQPnpwe7dWt) | [Transparente](https://open.spotify.com/album/72UIoQszjedP3huV9UBtoE) | 3:24 | 2024-03-14 | 2024-03-22 |
 | [Tras la barra](https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Vamos Tirando](https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V) | 3:08 | 2022-05-19 |  |

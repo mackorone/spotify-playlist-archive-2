@@ -4,7 +4,7 @@
 
 > Every couple meets their match\. Listen to the music from BEEF Season 2, now playing on Netflix.
 
-54 songs - 3 hr 32 min
+59 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [In For The Kill \- Skream's Let's Get Ravey Remix](https://open.spotify.com/track/0BiKlpiLKh3nWk37D52FSz) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [In For The Kill](https://open.spotify.com/album/0yriRaz3CB1RIhSC84Z7jM) | 5:02 | 2026-04-16 |  |
 | [It Takes Time To Be A Man](https://open.spotify.com/track/0iEPuk4S40DZkI5LmncSdk) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [In The Grace Of Your Love](https://open.spotify.com/album/4hAIvHYvfv3euwKp94v2Nd) | 5:41 | 2026-04-16 |  |
 | [Jinx \- Remastered](https://open.spotify.com/track/78n6WlaPuUb3th6RNtVJLL) | [Tad](https://open.spotify.com/artist/2mncWLPUUFpNvBLkHzTsDO) | [8\-Way Santa \(Deluxe Edition\)](https://open.spotify.com/album/453ha4HyeCoEcH0zCa6VV1) | 3:01 | 2023-04-06 |  |
+| [Josh & Lindsay](https://open.spotify.com/track/4ca6zRqbVUK1MO9vzCUGkp) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [BEEF Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/0VxziZFOojSiGCJ5YbVcRG) | 2:16 | 2026-04-17 |  |
 | [Liquid Dreams](https://open.spotify.com/track/2Pxzfzd1jaZT2F2uqLkZUr) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town](https://open.spotify.com/album/2yWrBg2LjW4oPnCRQrJJLV) | 3:30 | 2023-04-06 |  |
 | [Lonely Day](https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 2:47 | 2023-04-06 |  |
 | [Love Like a Sunset, Pt\. I](https://open.spotify.com/track/25wmDyqurSaUc7RB6SUIHT) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1) | 5:38 | 2026-04-16 |  |
@@ -40,7 +41,9 @@
 | [Mayonaise \- 2011 Remaster](https://open.spotify.com/track/0jmKzJmUEKNbC7eU8YfOiA) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 5:48 | 2023-04-06 |  |
 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 | 2026-04-16 |  |
 | [Mockingbirds](https://open.spotify.com/track/5x19KF85NUG8HvzvKG0HNk) | [Grant Lee Buffalo](https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw) | [Mighty Joe Moon](https://open.spotify.com/album/6PtEmK9iNNZVuwYCFePLd4) | 4:40 | 2023-04-06 |  |
+| [Monte Vista Point](https://open.spotify.com/track/6pmzsKdA9Adz1FFadZ3Uv4) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [BEEF Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/0VxziZFOojSiGCJ5YbVcRG) | 2:12 | 2026-04-17 |  |
 | [Natural One](https://open.spotify.com/track/4Gqy2Hhl142fdjgVjR3bNx) | [Shearwater](https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49) | [Fellow Travelers](https://open.spotify.com/album/4yzgWf28xZsmCBeZnWvXCv) | 3:27 | 2023-04-06 |  |
+| [New Person, Same Old Mistakes \(From BEEF Season 2\)](https://open.spotify.com/track/0NCy4HzwLGqkckGkkgkCKD) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [New Person, Same Old Mistakes \(From BEEF Season 2\)](https://open.spotify.com/album/5QZbv4uATqD3m3YgV79t7n) | 3:14 | 2026-04-17 |  |
 | [Nobody Loves Me Like You](https://open.spotify.com/track/21jx7ZJ9bH0xQugaPa1wG0) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [0](https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb) | 5:55 | 2026-04-16 |  |
 | [Nookie](https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:49 | 2023-04-06 |  |
 | [On the Up](https://open.spotify.com/track/2TlTxMXBt9GZCDyPmc1yEb) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [BEEF \(Original Score\)](https://open.spotify.com/album/2JxflpxGl1wCTjfSWRuQ0E) | 0:37 | 2023-04-13 |  |
@@ -50,6 +53,7 @@
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2026-04-16 |  |
 | [same squad](https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:31 | 2023-04-06 |  |
 | [Self Esteem](https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 4:17 | 2023-04-06 |  |
+| [Self\-Isolation](https://open.spotify.com/track/3JUsv8SwxU0D20BHSkMeqK) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [BEEF Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/0VxziZFOojSiGCJ5YbVcRG) | 2:13 | 2026-04-17 |  |
 | [Shine](https://open.spotify.com/track/77YKoNCjP5hWqiXMRG2839) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Hints, Allegations & Things Left Unsaid](https://open.spotify.com/album/2B2KQTgQr3UhQf4n2VtoUG) | 5:06 | 2023-04-06 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2023-04-06 |  |
 | [Stealing for Church](https://open.spotify.com/track/4Ixsn3jrJedgDkEltFPUQx) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [BEEF \(Original Score\)](https://open.spotify.com/album/2JxflpxGl1wCTjfSWRuQ0E) | 2:00 | 2023-04-13 |  |
@@ -57,6 +61,7 @@
 | [The Birds Don't Sing, They Screech in Pain](https://open.spotify.com/track/2VeV0h40xsSK74CL0e9yE4) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [BEEF: The Bonus Tracks](https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP) | 0:13 | 2023-06-13 |  |
 | [The Drama of Original Choice](https://open.spotify.com/track/6zTNkNW9DzQy5D5kivid1D) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [BEEF: The Bonus Tracks](https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP) | 0:54 | 2023-06-13 |  |
 | [The Reason](https://open.spotify.com/track/58AwxWLaRHn2lTqqH9dLkU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Best Of](https://open.spotify.com/album/6471rrLPKqZgXQ6TqN5AgU) | 3:52 | 2023-04-06 |  |
+| [Vicious Thoughts \(from BEEF Season 2\)](https://open.spotify.com/track/00xELhGIGH8f11v2bZVaLt) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [BEEF Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/0VxziZFOojSiGCJ5YbVcRG) | 2:51 | 2026-04-17 |  |
 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 | 2026-04-16 |  |
 | [What Goes Around.../...Comes Around \(Interlude\)](https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 7:28 | 2026-04-16 |  |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2026-04-16 |  |

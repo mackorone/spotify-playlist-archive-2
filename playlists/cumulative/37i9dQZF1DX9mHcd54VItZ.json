@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: Blush",
+  "description": "The best new and classic South African Rock. Cover: Zo\u00e9",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -3505,6 +3505,24 @@
     },
     {
       "album": {
+        "name": "Die Binnenshuise Versierder",
+        "url": "https://open.spotify.com/album/6pAfkuqrKeAEG6klYwDxAr"
+      },
+      "artists": [
+        {
+          "name": "Klaas Zaberman en die Nie-reisende Reserwes",
+          "url": "https://open.spotify.com/artist/4H6OMdEui2kMQ4FAMFM3aA"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200421,
+      "name": "Die Binnenshuise Versierder",
+      "url": "https://open.spotify.com/track/5V3Z6uzeqpfnN403KLohiw"
+    },
+    {
+      "album": {
         "name": "Die Brug",
         "url": "https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA"
       },
@@ -4166,6 +4184,24 @@
       "duration_ms": 214662,
       "name": "Drinking Alone",
       "url": "https://open.spotify.com/track/0PvTuzW3IxIFZM7LwIRXR7"
+    },
+    {
+      "album": {
+        "name": "Droom Te Klein",
+        "url": "https://open.spotify.com/album/7osYsxzNScMBUAGe4k4Gt2"
+      },
+      "artists": [
+        {
+          "name": "Renaldo",
+          "url": "https://open.spotify.com/artist/1fPqxk00kT60a1iOvlfRVX"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162168,
+      "name": "Droom Te Klein",
+      "url": "https://open.spotify.com/track/2sIqBmgh9B5ErwmsPW6xku"
     },
     {
       "album": {
@@ -5570,7 +5606,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 282973,
       "name": "Genie",
       "url": "https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX"
@@ -6089,6 +6125,24 @@
     },
     {
       "album": {
+        "name": "Grondonteiening",
+        "url": "https://open.spotify.com/album/4bRl8kRjfyuW44OLkFdzJb"
+      },
+      "artists": [
+        {
+          "name": "Neil Sandilands",
+          "url": "https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222626,
+      "name": "Grondonteiening",
+      "url": "https://open.spotify.com/track/5acW55cP37K3nXJsqvvN7d"
+    },
+    {
+      "album": {
         "name": "Groovie Ghoulie",
         "url": "https://open.spotify.com/album/2K6cfdKCxGEaqEPjEWM9da"
       },
@@ -6432,7 +6486,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 192000,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/6ufA1cDkuSjmRuB8EJSboe"
@@ -7812,7 +7866,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 244728,
       "name": "Judas Mind - edit",
       "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
@@ -7920,7 +7974,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 173000,
       "name": "Kannie Langer",
       "url": "https://open.spotify.com/track/16OP0hwomGCAkh7xStFga9"
@@ -8498,7 +8552,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 171750,
       "name": "Langs My",
       "url": "https://open.spotify.com/track/6WDumyGTRTzKyxIe4oTdFm"
@@ -8938,7 +8992,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 251866,
       "name": "Lonely Boer",
       "url": "https://open.spotify.com/track/5dnGE4esorDnA5lu8zF9H2"
@@ -9580,7 +9634,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 268235,
       "name": "MK Dae",
       "url": "https://open.spotify.com/track/7IdZJkoFdviBahi3AZmqEx"
@@ -9753,6 +9807,24 @@
     },
     {
       "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/16tg33hGgJoIPNEEEWzZGF"
+      },
+      "artists": [
+        {
+          "name": "Gaz",
+          "url": "https://open.spotify.com/artist/0YAL8izS16IewZXB4dlLdS"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205351,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/21XyJ0IDy7s3FG8S9tJfjZ"
+    },
+    {
+      "album": {
         "name": "Mud",
         "url": "https://open.spotify.com/album/4Ne7tTIbyzladfzbwO2y8x"
       },
@@ -9800,7 +9872,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 207327,
       "name": "Muishond",
       "url": "https://open.spotify.com/track/5fYXxM6Z2Z1vHD30WCHp9g"
@@ -10388,7 +10460,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 243705,
       "name": "Nog Nie",
       "url": "https://open.spotify.com/track/3bhrgXPprD1Ssjrb4WJqr6"
@@ -11351,6 +11423,24 @@
     },
     {
       "album": {
+        "name": "Pikkewynstraat",
+        "url": "https://open.spotify.com/album/3qP7RP6ZB8dG83L3FjLAv0"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180011,
+      "name": "Pikkewynstraat",
+      "url": "https://open.spotify.com/track/6kHnBVq4migU2NmT7JUVPI"
+    },
+    {
+      "album": {
         "name": "Pink Codeine",
         "url": "https://open.spotify.com/album/1mT061XTU1JRimRQap8hQe"
       },
@@ -12137,6 +12227,24 @@
     },
     {
       "album": {
+        "name": "Rooksein",
+        "url": "https://open.spotify.com/album/4Wtgot5JENKdO24gDevxGl"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Rooksein",
+      "url": "https://open.spotify.com/track/7c2I70ecb1SgpT8NjfUCa9"
+    },
+    {
+      "album": {
         "name": "Rosie Rosie",
         "url": "https://open.spotify.com/album/1xLtJfGTK4toDuN6fShmKo"
       },
@@ -12587,6 +12695,24 @@
     },
     {
       "album": {
+        "name": "she doesn't want flowers",
+        "url": "https://open.spotify.com/album/33blatct2OS6Ac7QUNHKNp"
+      },
+      "artists": [
+        {
+          "name": "Wellyn",
+          "url": "https://open.spotify.com/artist/50rF4Hh00h6fQlMQaPLsuR"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149735,
+      "name": "she doesn't want flowers",
+      "url": "https://open.spotify.com/track/4QtQUjY84gnbBrmJHBeWC6"
+    },
+    {
+      "album": {
         "name": "She's got Soul",
         "url": "https://open.spotify.com/album/6ensgFJIR7fQOtYDnKzUAq"
       },
@@ -12926,6 +13052,24 @@
       "duration_ms": 243745,
       "name": "Slaaploos",
       "url": "https://open.spotify.com/track/5d7d5sqBxji4ywBBDfsOUq"
+    },
+    {
+      "album": {
+        "name": "Slightly Jaded",
+        "url": "https://open.spotify.com/album/25qdDX4d6IixN1JVJzSFa1"
+      },
+      "artists": [
+        {
+          "name": "Stereo Club",
+          "url": "https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224704,
+      "name": "Slightly Jaded",
+      "url": "https://open.spotify.com/track/2qqdljHHgWaAGCU1jplkG8"
     },
     {
       "album": {
@@ -14093,6 +14237,24 @@
     },
     {
       "album": {
+        "name": "Taaibos",
+        "url": "https://open.spotify.com/album/0mW4ModhMitOX2DlHHgsgX"
+      },
+      "artists": [
+        {
+          "name": "Neil Sandilands",
+          "url": "https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158853,
+      "name": "Taaibos",
+      "url": "https://open.spotify.com/track/1mTsaBzeYP8N8XF1ebDwSu"
+    },
+    {
+      "album": {
         "name": "Take It Easy",
         "url": "https://open.spotify.com/album/3MqT31zMaLm6IBiKu939c5"
       },
@@ -14122,7 +14284,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 167081,
       "name": "Take It Or Leave It",
       "url": "https://open.spotify.com/track/72gLIIWyUjQxBveANncBVH"
@@ -14780,7 +14942,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 220666,
       "name": "The Right Words",
       "url": "https://open.spotify.com/track/7EHocaSQCcyFBgbYILTYM2"
@@ -15044,7 +15206,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 170271,
       "name": "Tip The Waitress",
       "url": "https://open.spotify.com/track/0S6RQKi4Kg2L1SsaE0uCAC"
@@ -16290,7 +16452,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 193454,
       "name": "Why Does This Always Happen To Me?",
       "url": "https://open.spotify.com/track/5b7gY6VlwwLJgvoOWZQ4r5"

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 11643,
+  "num_followers": 11642,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 245778,
+      "name": "Off the Wall",
+      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 319386,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 245778,
-      "name": "Off the Wall",
-      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Dancehall 101 Vol. 3",
+        "url": "https://open.spotify.com/album/2cGFEvfRv59zyj2E9BTkiH"
+      },
+      "artists": [
+        {
+          "name": "Mad Cobra",
+          "url": "https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/2TajSezbrdFdex9g5L6wo9"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "There's Something About Remy-Based On A True Story",
         "url": "https://open.spotify.com/album/6y9AdbqYziDJmcLSyyOsGO"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 226066,
       "name": "Whuteva",
       "url": "https://open.spotify.com/track/0QJU13S307gWlr4nhUh2SV"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 206465,
-      "name": "Find Someone Like You",
-      "url": "https://open.spotify.com/track/53SIeTHgXuAOd98hZWV2wD"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -891,18 +891,18 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Dancehall 101 Vol. 3",
-        "url": "https://open.spotify.com/album/2cGFEvfRv59zyj2E9BTkiH"
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
       },
       "artists": [
         {
-          "name": "Mad Cobra",
-          "url": "https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 230693,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/2TajSezbrdFdex9g5L6wo9"
+      "duration_ms": 206465,
+      "name": "Find Someone Like You",
+      "url": "https://open.spotify.com/track/53SIeTHgXuAOd98hZWV2wD"
     }
   ],
   "unique_name": "Monique Blake's Taste",

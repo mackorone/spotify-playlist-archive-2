@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 446266,
       "name": "Angola",
       "url": "https://open.spotify.com/track/52s4ni6wnfdVhVPFZBpvQW"
@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/2dsbyfeOhmmpzisluBfPKc"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "CANADA BREEZE",
+      "url": "https://open.spotify.com/track/5bZoHEhzsgj49TZR6R7Uc3"
+    },
+    {
+      "album": {
         "name": "Casablanca (feat. Ayo Maff)",
         "url": "https://open.spotify.com/album/23neUYDSWEpEPAmQwVxoKk"
       },
@@ -310,7 +328,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 177599,
       "name": "Dar es Salaam",
       "url": "https://open.spotify.com/track/2Czqphq8jmnDxiI19BbRON"
@@ -420,7 +438,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 251941,
       "name": "Ghana",
       "url": "https://open.spotify.com/track/6sOITd3VYPzrGOWZnHqwYM"
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 239258,
       "name": "Lamu Afternoons",
       "url": "https://open.spotify.com/track/4Sbd0TwvpWBqOQLPVold7G"
@@ -1112,7 +1130,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 415173,
       "name": "Lusaka",
       "url": "https://open.spotify.com/track/1BELwoaSOmh6YGb1qgwmpk"
@@ -1818,6 +1836,24 @@
       "duration_ms": 298997,
       "name": "Soweto Blues",
       "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
+    },
+    {
+      "album": {
+        "name": "Sunsets in Mali",
+        "url": "https://open.spotify.com/album/7mnUtM2EmetLyn87eJ3Rvc"
+      },
+      "artists": [
+        {
+          "name": "Oshun Grizzly",
+          "url": "https://open.spotify.com/artist/3i6xQ8FElsPXsYLUsdEadD"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84193,
+      "name": "Sunsets in Mali",
+      "url": "https://open.spotify.com/track/1WgVgu7b06lDj9Rdd7wd49"
     },
     {
       "album": {

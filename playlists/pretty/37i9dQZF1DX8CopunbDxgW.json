@@ -1,13 +1,29 @@
 {
-  "description": "Warm indie dance bliss from O'Flynn \u2764\ufe0f metropolis is your home for the best indie dance",
-  "num_followers": 873067,
+  "description": "DJ Seinfeld with gorgeous, melancholic bleeps & bloops \ud83d\udd4a\ufe0f metropolis is your home for the best indie dance",
+  "num_followers": 873030,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE3Uil59TVN67Sgy7tKb62HVFrE+",
+  "snapshot_id": "AAAAAC0cV7lttE/48K9ryHKqb6bWYWuF",
   "tracks": [
+    {
+      "added_at": "2026-04-17 04:02:52",
+      "album": {
+        "name": "Everything U",
+        "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 210294,
+      "name": "Everything U",
+      "url": "https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY"
+    },
     {
       "added_at": "2026-04-10 04:02:28",
       "album": {
@@ -39,6 +55,38 @@
       "duration_ms": 155538,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
+    },
+    {
+      "added_at": "2026-04-10 04:02:28",
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-04-17 04:02:52",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "duration_ms": 154979,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -93,20 +141,20 @@
       "url": "https://open.spotify.com/track/0Wnq7CivkLqb2nBtgej9m0"
     },
     {
-      "added_at": "2026-04-10 04:02:28",
+      "added_at": "2026-04-17 04:02:52",
       "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+        "name": "A Moment Like That",
+        "url": "https://open.spotify.com/album/1cKJa8ObjWixbZFpkSxMqI"
       },
       "artists": [
         {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
         }
       ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+      "duration_ms": 247282,
+      "name": "A Moment Like That",
+      "url": "https://open.spotify.com/track/2XCTfIMG5NKBcqlM71liG0"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -221,6 +269,30 @@
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
     },
     {
+      "added_at": "2026-04-17 04:02:52",
+      "album": {
+        "name": "Nothing Left",
+        "url": "https://open.spotify.com/album/4DD6FbOoiOaBbLx6yGFJuS"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+        }
+      ],
+      "duration_ms": 180303,
+      "name": "Nothing Left",
+      "url": "https://open.spotify.com/track/7GQNTnBqlAPa3lQMWeIvUa"
+    },
+    {
       "added_at": "2026-04-10 04:02:28",
       "album": {
         "name": "Tour de Dance",
@@ -291,6 +363,22 @@
       "duration_ms": 282087,
       "name": "Rest Of Your Life",
       "url": "https://open.spotify.com/track/20IQ8O5FvPcQ8D03vbz8a9"
+    },
+    {
+      "added_at": "2026-04-17 04:02:52",
+      "album": {
+        "name": "Ventricle",
+        "url": "https://open.spotify.com/album/7JyLPiCcJmpKtndcjGwU87"
+      },
+      "artists": [
+        {
+          "name": "Next To Blue",
+          "url": "https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco"
+        }
+      ],
+      "duration_ms": 214100,
+      "name": "Ventricle",
+      "url": "https://open.spotify.com/track/6vrVUOH8GBueYVLXXOIlfe"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -663,38 +751,6 @@
     {
       "added_at": "2026-04-10 04:02:28",
       "album": {
-        "name": "Dream House",
-        "url": "https://open.spotify.com/album/6ztAmj7OoaQHdyqzaDK9pZ"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "Dream House",
-      "url": "https://open.spotify.com/track/04kUzwSMwCIsuXoxqeaZ75"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1oWY347VLS0mYJzGSKaVxt"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 176246,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/2Qwp0YeGOipTgVok5mLtqv"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/1kWud8wo0loZ1y3d9rZqpM"
       },
@@ -835,22 +891,6 @@
       "duration_ms": 189090,
       "name": "JOY (This One)",
       "url": "https://open.spotify.com/track/188ciRFWgwvGO63WwTRcfm"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Found You",
-        "url": "https://open.spotify.com/album/5oRY3pj7s5WuQCeeZ8i1tv"
-      },
-      "artists": [
-        {
-          "name": "RUSH AVENUE",
-          "url": "https://open.spotify.com/artist/0BuZtV1vrh5miIrx1ZPgFP"
-        }
-      ],
-      "duration_ms": 149886,
-      "name": "Found You",
-      "url": "https://open.spotify.com/track/5kekimKJDI3gib9efP8Duu"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -1079,30 +1119,6 @@
       "duration_ms": 212932,
       "name": "JOY (Nobody Ever) 7\u201d mix",
       "url": "https://open.spotify.com/track/5EQPP2o54ROuY3DII048De"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Can't Fake The Feeling (Radio Mix)",
-        "url": "https://open.spotify.com/album/6AFRIq41vWqfICYzrtA5V2"
-      },
-      "artists": [
-        {
-          "name": "Kamma & Masalo",
-          "url": "https://open.spotify.com/artist/3kYivDAcsxzKQe5D6tSISu"
-        },
-        {
-          "name": "Kamma",
-          "url": "https://open.spotify.com/artist/775xcuXzPW9p8TODycEul0"
-        },
-        {
-          "name": "Masalo",
-          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
-        }
-      ],
-      "duration_ms": 276479,
-      "name": "Can't Fake The Feeling - Radio Mix",
-      "url": "https://open.spotify.com/track/6Um8WBoZODMJFTXeQwl2Mo"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -1691,26 +1707,6 @@
       "duration_ms": 158580,
       "name": "The Moment I Dance",
       "url": "https://open.spotify.com/track/4T5o16hIVjdvIy06jhsJLG"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "In Daytona Yellow",
-        "url": "https://open.spotify.com/album/0uxwDrSCeLR4coJ1xT9F0U"
-      },
-      "artists": [
-        {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
-        },
-        {
-          "name": "Kenzie TTH",
-          "url": "https://open.spotify.com/artist/1KCkoNEJ8ATn1W6GujtTom"
-        }
-      ],
-      "duration_ms": 257124,
-      "name": "Romantica",
-      "url": "https://open.spotify.com/track/3PeuFE2pbe9xELrlt2iitD"
     },
     {
       "added_at": "2026-04-10 04:02:28",

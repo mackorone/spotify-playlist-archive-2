@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 345584,
+  "num_followers": 345607,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad7VAAAAAAA2MU3gs+h/rFIJ6nKD8E8S",
+  "snapshot_id": "aeAmgAAAAAA6wJZXAeN1ShgacWfEu8tj",
   "tracks": [
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
+        "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
+        "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
       },
       "artists": [
         {
@@ -508,13 +508,13 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         },
         {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
         }
       ],
-      "duration_ms": 242439,
-      "name": "Mario Portillo",
-      "url": "https://open.spotify.com/track/0HXYmIG0cO3y0ASrZiezJx"
+      "duration_ms": 202675,
+      "name": "Corrido Del Gallito",
+      "url": "https://open.spotify.com/track/3iOVKQR6StoaMH7kOvVYWr"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
-        "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
+        "name": "Chalino S\u00e1nchez con Banda Brava",
+        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
       "artists": [
         {
@@ -548,13 +548,13 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         },
         {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
         }
       ],
-      "duration_ms": 202675,
-      "name": "Corrido Del Gallito",
-      "url": "https://open.spotify.com/track/3iOVKQR6StoaMH7kOvVYWr"
+      "duration_ms": 242439,
+      "name": "Mario Portillo",
+      "url": "https://open.spotify.com/track/0HXYmIG0cO3y0ASrZiezJx"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exitos de Colecci\u00f3n, Vol.1",
+        "url": "https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "Pilares de Cristal",
+      "url": "https://open.spotify.com/track/5m2MnopFzUS2J9LPtePQuA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 220926,
       "name": "Por Una Rencilla Vieja",
       "url": "https://open.spotify.com/track/7FANq8cIDYSfNzoXR09I8V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exitos de Colecci\u00f3n, Vol.1",
-        "url": "https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "Pilares de Cristal",
-      "url": "https://open.spotify.com/track/5m2MnopFzUS2J9LPtePQuA"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "in your lush & lazy era \ud83e\udeb7 cozy beats, comfy self-care vibes",
-  "num_followers": 1079758,
+  "num_followers": 1079783,
   "original_name": "slow living",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIEGmi7o8UNcOSnX9K0TGnGvlKfA",
+  "snapshot_id": "AAAAAD3jED0pbPqBV0muuy6eJIOlbrbh",
   "tracks": [
     {
       "added_at": "2026-04-09 13:09:02",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-04-09 13:09:02",
       "album": {
-        "name": "ValleyViews",
-        "url": "https://open.spotify.com/album/0j5r810d6h4DmFeaq0hJ0Q"
-      },
-      "artists": [
-        {
-          "name": "Mellow Mirror",
-          "url": "https://open.spotify.com/artist/7kVcHt4VUH5dGb0Gz8IY3G"
-        }
-      ],
-      "duration_ms": 118518,
-      "name": "ValleyViews",
-      "url": "https://open.spotify.com/track/7E2GF1dct7xy9GKgp4eQrj"
-    },
-    {
-      "added_at": "2026-04-09 13:09:02",
-      "album": {
         "name": "Half Moon",
         "url": "https://open.spotify.com/album/2J9XleapibIQICho30gRz6"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 113850,
       "name": "Half Moon",
       "url": "https://open.spotify.com/track/0iWxaTdBHSLRtDIUEh16Ee"
+    },
+    {
+      "added_at": "2026-04-09 13:09:02",
+      "album": {
+        "name": "ValleyViews",
+        "url": "https://open.spotify.com/album/0j5r810d6h4DmFeaq0hJ0Q"
+      },
+      "artists": [
+        {
+          "name": "Mellow Mirror",
+          "url": "https://open.spotify.com/artist/7kVcHt4VUH5dGb0Gz8IY3G"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "ValleyViews",
+      "url": "https://open.spotify.com/track/7E2GF1dct7xy9GKgp4eQrj"
     },
     {
       "added_at": "2026-04-09 13:09:02",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-04-09 13:09:02",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/2z9VbBhqV4YexR3UX6tAeJ"
-      },
-      "artists": [
-        {
-          "name": "Soulflu",
-          "url": "https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/6vF4LLcHVYeWAKNV7JT7VV"
-    },
-    {
-      "added_at": "2026-04-09 13:09:02",
-      "album": {
         "name": "Folded Rhythm",
         "url": "https://open.spotify.com/album/0s2MKyjmIwBY8OKH9T9AM9"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 110438,
       "name": "Folded Rhythm",
       "url": "https://open.spotify.com/track/7vvBoOT2L8QrXB5LY1beo1"
+    },
+    {
+      "added_at": "2026-04-09 13:09:02",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/2z9VbBhqV4YexR3UX6tAeJ"
+      },
+      "artists": [
+        {
+          "name": "Soulflu",
+          "url": "https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/6vF4LLcHVYeWAKNV7JT7VV"
     },
     {
       "added_at": "2026-04-09 13:09:02",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-04-09 13:09:02",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/2yIMXGXNmsMFNrGHf1wZf2"
-      },
-      "artists": [
-        {
-          "name": "hiking trip",
-          "url": "https://open.spotify.com/artist/2LYQSy5WzO4IpaDmvmGzts"
-        }
-      ],
-      "duration_ms": 154218,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/4fnD147UMtT4vv5bougNIJ"
-    },
-    {
-      "added_at": "2026-04-09 13:09:02",
-      "album": {
         "name": "Hiber Nation",
         "url": "https://open.spotify.com/album/4IkDYVJ79vXbyUTUcynndN"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 162393,
       "name": "Hiber Nation",
       "url": "https://open.spotify.com/track/1E8dmRocWJY7TMk908wpH9"
+    },
+    {
+      "added_at": "2026-04-09 13:09:02",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/2yIMXGXNmsMFNrGHf1wZf2"
+      },
+      "artists": [
+        {
+          "name": "hiking trip",
+          "url": "https://open.spotify.com/artist/2LYQSy5WzO4IpaDmvmGzts"
+        }
+      ],
+      "duration_ms": 154218,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/4fnD147UMtT4vv5bougNIJ"
     },
     {
       "added_at": "2026-04-09 13:09:02",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-04-09 13:09:02",
       "album": {
-        "name": "Surf",
-        "url": "https://open.spotify.com/album/66EAjNXod8ux4htXfWsXDj"
-      },
-      "artists": [
-        {
-          "name": "Kuma",
-          "url": "https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB"
-        }
-      ],
-      "duration_ms": 155578,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/3OxCF7LYaXs4gbvIrXNeAQ"
-    },
-    {
-      "added_at": "2026-04-09 13:09:02",
-      "album": {
         "name": "Get Through",
         "url": "https://open.spotify.com/album/4Tv2AoLCwQ9kRvLu48XbE8"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 118153,
       "name": "Get Through",
       "url": "https://open.spotify.com/track/2UZuQRrgCuoY2yYpoUaWGb"
+    },
+    {
+      "added_at": "2026-04-09 13:09:02",
+      "album": {
+        "name": "Surf",
+        "url": "https://open.spotify.com/album/66EAjNXod8ux4htXfWsXDj"
+      },
+      "artists": [
+        {
+          "name": "Kuma",
+          "url": "https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB"
+        }
+      ],
+      "duration_ms": 155578,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/3OxCF7LYaXs4gbvIrXNeAQ"
     },
     {
       "added_at": "2026-04-09 13:09:02",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2026-04-09 13:09:02",
       "album": {
+        "name": "Eagle",
+        "url": "https://open.spotify.com/album/4azzrrmrAvjDiRIk3ZZCEj"
+      },
+      "artists": [
+        {
+          "name": "Gloomey",
+          "url": "https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr"
+        }
+      ],
+      "duration_ms": 190054,
+      "name": "Eagle",
+      "url": "https://open.spotify.com/track/7y59bf74fnWo54y3cSLBvx"
+    },
+    {
+      "added_at": "2026-04-09 13:09:02",
+      "album": {
         "name": "eclipse",
         "url": "https://open.spotify.com/album/2whe5rcSytK3yTy2XuLwJm"
       },
@@ -1775,18 +1791,18 @@
     {
       "added_at": "2026-04-09 13:09:02",
       "album": {
-        "name": "Eagle",
-        "url": "https://open.spotify.com/album/4azzrrmrAvjDiRIk3ZZCEj"
+        "name": "Stussy",
+        "url": "https://open.spotify.com/album/36q17oo5LpxFExpzshZ1Vx"
       },
       "artists": [
         {
-          "name": "Gloomey",
-          "url": "https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr"
+          "name": "Kuma",
+          "url": "https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB"
         }
       ],
-      "duration_ms": 190054,
-      "name": "Eagle",
-      "url": "https://open.spotify.com/track/7y59bf74fnWo54y3cSLBvx"
+      "duration_ms": 166955,
+      "name": "Stussy",
+      "url": "https://open.spotify.com/track/0OjvOvXXEaWpWP3J8hfwKk"
     },
     {
       "added_at": "2026-04-09 13:09:02",
@@ -1807,22 +1823,6 @@
       "duration_ms": 132423,
       "name": "rainy nights",
       "url": "https://open.spotify.com/track/1BTqZfkczOQQflgBmVZfyy"
-    },
-    {
-      "added_at": "2026-04-09 13:09:02",
-      "album": {
-        "name": "Stussy",
-        "url": "https://open.spotify.com/album/36q17oo5LpxFExpzshZ1Vx"
-      },
-      "artists": [
-        {
-          "name": "Kuma",
-          "url": "https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB"
-        }
-      ],
-      "duration_ms": 166955,
-      "name": "Stussy",
-      "url": "https://open.spotify.com/track/0OjvOvXXEaWpWP3J8hfwKk"
     },
     {
       "added_at": "2026-04-09 13:09:02",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2026-04-09 13:09:02",
       "album": {
-        "name": "neon reflections",
-        "url": "https://open.spotify.com/album/4Bgj9xRKXC70Hyx8GinF97"
-      },
-      "artists": [
-        {
-          "name": "Jarhed",
-          "url": "https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF"
-        }
-      ],
-      "duration_ms": 118400,
-      "name": "neon reflections",
-      "url": "https://open.spotify.com/track/4qneH71UmcvFiAjkyTkCQg"
-    },
-    {
-      "added_at": "2026-04-09 13:09:02",
-      "album": {
         "name": "Forgotten",
         "url": "https://open.spotify.com/album/7wnhqe7r2D6sg82zGfZgpb"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 89600,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/6kOTW7PCRfhd2I4hpq6BVT"
+    },
+    {
+      "added_at": "2026-04-09 13:09:02",
+      "album": {
+        "name": "neon reflections",
+        "url": "https://open.spotify.com/album/4Bgj9xRKXC70Hyx8GinF97"
+      },
+      "artists": [
+        {
+          "name": "Jarhed",
+          "url": "https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "neon reflections",
+      "url": "https://open.spotify.com/track/4qneH71UmcvFiAjkyTkCQg"
     },
     {
       "added_at": "2026-04-09 13:09:02",

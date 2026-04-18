@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de Corazón Serrano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,041 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,037 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 9 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
 | 10 | [Mucho Pa Ti](https://open.spotify.com/track/1MbDm22W7TbwPNythT3LI9) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Mucho Pa Ti](https://open.spotify.com/album/06gniuNPI4KOdff4tBOcgF) | 2:33 |
 | 11 | [Señor Mentira](https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 4:29 |
-| 12 | [Se Que Te Amaré \- Live Session](https://open.spotify.com/track/6aDvVWzIdLha959Dk7WNZ6) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [Se Que Te Amaré \(Live Session\)](https://open.spotify.com/album/3JhFEqogqbnVbphFzz4lGU) | 4:26 |
+| 12 | [Se Que Te Amaré \- En Vivo](https://open.spotify.com/track/6aDvVWzIdLha959Dk7WNZ6) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [Se Que Te Amaré \(En Vivo\)](https://open.spotify.com/album/3JhFEqogqbnVbphFzz4lGU) | 4:26 |
 | 13 | [ALMA](https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:56 |
 | 14 | [Que Lindo Son Tus Ojos](https://open.spotify.com/track/7MocJmOLDqA1uFS8CjyEy8) | [Dina Paucar](https://open.spotify.com/artist/7s3YtWmP1OMVh8dDsNl5XZ) | [Éxitos de Oro](https://open.spotify.com/album/1wriA7EeLJeYxvf1Eei1f2) | 5:24 |
 | 15 | [Corta Venas](https://open.spotify.com/track/2VPuxws8H5NMsjMtwWwjxh) | [Yarita Lizeth Yanarico](https://open.spotify.com/artist/1XyAr4Gr1SItyAVPiiAI7y) | [Corta Venas](https://open.spotify.com/album/1eDF30PJA7naiy1Mdr7nGw) | 5:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 49 | [Escándalo](https://open.spotify.com/track/5LYoS1KD4ce78Y1PvP7tIL) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Algo Que Darte](https://open.spotify.com/album/5ZWgfUlndLtxaQTnyWqZMZ) | 2:31 |
 | 50 | [el tiempo pasa rápido](https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [el tiempo pasa rápido](https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM) | 4:07 |
 
-Snapshot ID: `AAAAAAn+foTA4iv1k8HUu+dqJPK8nQeq`
+Snapshot ID: `AAAAAJLaQ3K0stz0pHjIomrv+rvLXn7l`

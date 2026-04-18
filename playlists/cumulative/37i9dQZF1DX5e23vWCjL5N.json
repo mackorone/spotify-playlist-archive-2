@@ -5687,6 +5687,24 @@
     },
     {
       "album": {
+        "name": "No vabb\u00e8 amo",
+        "url": "https://open.spotify.com/album/4ZGh5I613XypAiyvptHitk"
+      },
+      "artists": [
+        {
+          "name": "Mostro",
+          "url": "https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133216,
+      "name": "No vabb\u00e8 amo",
+      "url": "https://open.spotify.com/track/1EmTrWf38Z2gluHNS5nu9T"
+    },
+    {
+      "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
       },

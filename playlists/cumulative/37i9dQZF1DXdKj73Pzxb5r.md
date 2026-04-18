@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Inoya House
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover:Turbokidz
 
-510 songs - 1 day 8 hr 34 min
+513 songs - 1 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,11 +464,13 @@
 | [Tamasya](https://open.spotify.com/track/454GREw0cFbPj8lZGJ7QqS) | [Kahfii](https://open.spotify.com/artist/1omUKn9sxGqCzZaSd1Xo07) | [Tamasya](https://open.spotify.com/album/3rJzH3pXhnTiKNEhRc5GWe) | 5:21 | 2024-06-27 | 2024-08-02 |
 | [Tamasya di Angkasa](https://open.spotify.com/track/3ZExfEyY39Qpzt0fvsCUDn) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [Tamasya di Angkasa](https://open.spotify.com/album/76HWh17AMLevhXUBvMO8Bf) | 4:21 | 2025-09-25 |  |
 | [Tamasya Dibuka](https://open.spotify.com/track/6OA6ek5hm2o5npUQazEXY3) | [BATDD](https://open.spotify.com/artist/5kKtLpfYwq6zeQ9AEhtSbm) | [Tamasya Dibuka](https://open.spotify.com/album/2stEMeVwQsRP8hH0qjEJzT) | 5:50 | 2025-03-21 | 2025-05-09 |
+| [Tanggeria](https://open.spotify.com/track/4q69c9lXLzj1Pn7Q8Rnz4d) | [BATDD](https://open.spotify.com/artist/5kKtLpfYwq6zeQ9AEhtSbm) | [Tanggeria](https://open.spotify.com/album/73CnagUH70y66OakmUCNLS) | 4:48 | 2026-04-17 |  |
 | [Tarian Pembantai](https://open.spotify.com/track/4cO6paTmfs8RamVyROWn8D) | [Figura Renata](https://open.spotify.com/artist/4l7rQ4b0SprtkOMgfMRDN5) | [Dunia Tetap Berputar Meskipun Aku Tertidur](https://open.spotify.com/album/44oL1mqGI2v4JwraqLQQBb) | 4:27 | 2024-06-27 | 2024-07-27 |
 | [Teduh](https://open.spotify.com/track/0j1N2ILdZQkyUZvYH8HCNr) | [FOODOMORE](https://open.spotify.com/artist/7pjUcS7PGlN60mkd82n6Wn) | [Teduh](https://open.spotify.com/album/6VvSI1VgsP7RfUS2LuLQhs) | 3:51 | 2024-07-25 | 2024-10-04 |
 | [Telisik](https://open.spotify.com/track/7BDrp62oI7QVtKC6OvMgm4) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Telisik \(lagi\) \[Deluxe Version\]](https://open.spotify.com/album/5apQM4mnZOw5l0ZUIiLhPi) | 2:42 | 2024-11-07 | 2025-09-26 |
 | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/track/0CADqD68QbiDuGkIGBusP4) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/album/1GXu9yIAipEhNmkJNU0tzq) | 3:20 | 2024-11-07 | 2025-02-14 |
 | [Tenggelam](https://open.spotify.com/track/1SZMxDGWDiKa9Jb5van3nA) | [Flowr Pit](https://open.spotify.com/artist/3FOqYio7C8ihO8MciypqLv) | [Super Possible](https://open.spotify.com/album/28y4KlQklqbpzWvjJtTmUU) | 4:02 | 2026-01-23 |  |
+| [Tentang Dunia dan Masa Muda](https://open.spotify.com/track/4gHRbKrk17CxWEEvEMLNpV) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Tentang Dunia dan Masa Muda](https://open.spotify.com/album/6OIxujlnQ7BUq9q1J4zEqJ) | 4:15 | 2026-04-17 |  |
 | [Tentang Mimpi Berupa Pelangi](https://open.spotify.com/track/7oi973e6bB0mgi6vszLdKN) | [Pendarra](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2) | [Semburat](https://open.spotify.com/album/3mhN7GdnANPCYy3Jh7HgFC) | 4:21 | 2026-03-05 |  |
 | [Terdiasi](https://open.spotify.com/track/1UZKEWCeZ2Zv3BanLxDFD6) | [The Paperplane](https://open.spotify.com/artist/00MqgOUf6FeJBMHpmGAozh), [Koembang Terbang](https://open.spotify.com/artist/6G92HLtl4eLGTiqFrHIDxw) | [Terdiasi](https://open.spotify.com/album/71cVGV0wdx9cO8JVDGNkwg) | 3:56 | 2024-06-27 | 2024-07-05 |
 | [Text Me \(When It's Over\)](https://open.spotify.com/track/6JjHBg0GsvwjpnczvBhtbv) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Text Me \(When It's Over\)](https://open.spotify.com/album/1ERnC3W3zKYuepZvBvBemw) | 3:04 | 2025-07-24 | 2025-10-24 |
@@ -494,6 +496,7 @@
 | [Ujung Andromeda](https://open.spotify.com/track/6dbYpkS5dhnoJcu5mhWko0) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [Ujung Andromeda](https://open.spotify.com/album/6267dKL2VuVN8Pc8ODc0I1) | 4:45 | 2024-06-27 | 2025-02-21 |
 | [Under SUBSTANCE](https://open.spotify.com/track/4Jvr4IKUvzGj0ymn5Ja0oN) | [The Canary](https://open.spotify.com/artist/4w1gA1nMo8Oii93mlK7wvK) | [Heaven In Philadelphia](https://open.spotify.com/album/0q5azHZ8A0b41jjG0kKP58) | 3:32 | 2026-01-30 | 2026-04-10 |
 | [Untuk Bunga](https://open.spotify.com/track/1HGzVBvwUSlvE3JzVjUPaO) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Untuk Bunga](https://open.spotify.com/album/2VtEtHxewo8Az3Pr8xruI7) | 3:54 | 2024-07-19 | 2024-11-01 |
+| [vanilla scented room](https://open.spotify.com/track/0oFmMMWqiEdFmT1woHvAre) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [vanilla scented room](https://open.spotify.com/album/0wpXUppiAsmU9ygjBuuCgP) | 2:48 | 2026-04-17 |  |
 | [Vom](https://open.spotify.com/track/6Kq42y6TC92XYhvObBQAO7) | [ATSEA](https://open.spotify.com/artist/29YMwt7N0OV3oG5nw2NmeI) | [Vom](https://open.spotify.com/album/0y2gdrV2oqEF2sE24Zxuny) | 1:59 | 2024-06-27 | 2024-08-30 |
 | [Wahai Kau](https://open.spotify.com/track/1CDC40cmf5EBqJBwC586zi) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Wahai Kau](https://open.spotify.com/album/76BF66VPRzxHj1m8GvxFvq) | 4:08 | 2024-08-29 | 2025-10-24 |
 | [waiting game](https://open.spotify.com/track/49PybRHBfBnXXwJNuZsWO0) | [adoracion](https://open.spotify.com/artist/24t67LUda95ichX4Rz0Rlr) | [waiting game](https://open.spotify.com/album/2VzlrNdjwTkLzMocNcQwzE) | 3:09 | 2024-06-27 | 2024-07-05 |

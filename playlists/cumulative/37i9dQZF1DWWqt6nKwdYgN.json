@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Rivs, Akapellah y Santa Fe Klan en portada. ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Dharius en portada. ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -3101,6 +3101,24 @@
     },
     {
       "album": {
+        "name": "Bien Perro",
+        "url": "https://open.spotify.com/album/1RRnsMYBuDtrRjwkiULkK0"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160242,
+      "name": "Bien Perro",
+      "url": "https://open.spotify.com/track/4N2GoKa7cuyjiArYHVopzD"
+    },
+    {
+      "album": {
         "name": "BIG MOMMA",
         "url": "https://open.spotify.com/album/0WFHRsTbg2agEKzUUwm4m2"
       },
@@ -3512,7 +3530,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 256106,
       "name": "BORRACHO Y SOLO",
       "url": "https://open.spotify.com/track/1Ql3PB1kM1Zf0VDH71SEtK"
@@ -6846,7 +6864,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 171572,
       "name": "Dejela Ser",
       "url": "https://open.spotify.com/track/4OIShuVMAVRbTP511sx8hG"
@@ -7840,7 +7858,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 96000,
       "name": "Dumb",
       "url": "https://open.spotify.com/track/6ZrZCopOz91jiNQVXrABQA"
@@ -8108,7 +8126,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 331821,
       "name": "El Declive de la Cima",
       "url": "https://open.spotify.com/track/3Fdrr8RT2XxN7lVUyCUGgG"
@@ -8402,7 +8420,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 178236,
       "name": "El Sosa V1",
       "url": "https://open.spotify.com/track/4e2ombdFjzANL6L352Z2ms"
@@ -9132,7 +9150,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 188759,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/3m8momUN2p0pi5ErGfiKJd"
@@ -9686,6 +9704,28 @@
       "duration_ms": 202043,
       "name": "Familia/Gloria/Respeto/Dinero",
       "url": "https://open.spotify.com/track/6oge9atKQr7gXYtshnFIGa"
+    },
+    {
+      "album": {
+        "name": "Familias Separadas",
+        "url": "https://open.spotify.com/album/1iWiyNeQoPGAe58oS98rrx"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207644,
+      "name": "Familias Separadas",
+      "url": "https://open.spotify.com/track/4Mb560Hkn40SFZdWw9P29U"
     },
     {
       "album": {
@@ -10368,7 +10408,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 202666,
       "name": "Fuspar Wagner",
       "url": "https://open.spotify.com/track/68o4RGPPhZEdHKWaPFfnf2"
@@ -14046,7 +14086,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 208560,
       "name": "Lealtad",
       "url": "https://open.spotify.com/track/5yMNS2b1XDPyQKaJHghHzi"
@@ -14576,6 +14616,36 @@
       "duration_ms": 250908,
       "name": "Los Carnales",
       "url": "https://open.spotify.com/track/1UVPtbvuAzTdIA31Q0ep8b"
+    },
+    {
+      "album": {
+        "name": "NYCOL",
+        "url": "https://open.spotify.com/album/3g7QEeblQzIG1wg9tkzXv9"
+      },
+      "artists": [
+        {
+          "name": "Ruzto",
+          "url": "https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo"
+        },
+        {
+          "name": "Plaza718",
+          "url": "https://open.spotify.com/artist/2NmBQFolCI4hAzIj3Lgucu"
+        },
+        {
+          "name": "PNO",
+          "url": "https://open.spotify.com/artist/6WvzfmDzyF1baKzCps2Odf"
+        },
+        {
+          "name": "RARE GEMS",
+          "url": "https://open.spotify.com/artist/5xrBrDlvVITr3eUvbBNYCg"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178563,
+      "name": "LOS FINOS",
+      "url": "https://open.spotify.com/track/4BeXb3R8yPBSHnyJ6WRq8u"
     },
     {
       "album": {
@@ -17362,6 +17432,32 @@
       "duration_ms": 176326,
       "name": "Naci\u00f3 Ganador",
       "url": "https://open.spotify.com/track/7zMTzcKCOMRWKOetKjlD6W"
+    },
+    {
+      "album": {
+        "name": "Levitar 2.0",
+        "url": "https://open.spotify.com/album/0VMSXePiDoE6c1haukCMkz"
+      },
+      "artists": [
+        {
+          "name": "Sr Pablo",
+          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
+        },
+        {
+          "name": "Thomas Parr",
+          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        },
+        {
+          "name": "Pocket Tincho",
+          "url": "https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137762,
+      "name": "Nada de Drama",
+      "url": "https://open.spotify.com/track/6qaZalSprW0BAkpi6YLd8f"
     },
     {
       "album": {
@@ -20848,6 +20944,24 @@
       "duration_ms": 137100,
       "name": "Punta",
       "url": "https://open.spotify.com/track/0K5DwQlaUVw35ghfcDGcAN"
+    },
+    {
+      "album": {
+        "name": "Punto D\u00e9bil",
+        "url": "https://open.spotify.com/album/73pFms1bri6h1IikXgyJF7"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Punto D\u00e9bil",
+      "url": "https://open.spotify.com/track/58QtQYfiockbGhPYM3RezA"
     },
     {
       "album": {
@@ -24987,6 +25101,28 @@
     },
     {
       "album": {
+        "name": "Tiro la Mia",
+        "url": "https://open.spotify.com/album/76TTsXPXjCzgxsmSGpD2Bf"
+      },
+      "artists": [
+        {
+          "name": "Dj Mad Pee",
+          "url": "https://open.spotify.com/artist/0fIVHIhpzTYjwmnSSEHpJV"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149647,
+      "name": "Tiro la Mia",
+      "url": "https://open.spotify.com/track/2yHcCTXwOiYfuGtfwcYijd"
+    },
+    {
+      "album": {
         "name": "TNT",
         "url": "https://open.spotify.com/album/4vhHyij5KPPWgDbd5xPWnK"
       },
@@ -25266,6 +25402,32 @@
       "duration_ms": 227702,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/35K0LpLwLnV8XVlwMHu1yA"
+    },
+    {
+      "album": {
+        "name": "Transmisi\u00f3n Manual",
+        "url": "https://open.spotify.com/album/5GT2TpCYIbedeZiJheSjdv"
+      },
+      "artists": [
+        {
+          "name": "Rap Bang Club",
+          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
+        },
+        {
+          "name": "Timm Clayton",
+          "url": "https://open.spotify.com/artist/0ABAOfUlpeI9xRwK5gCVKi"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Transmisi\u00f3n Manual",
+      "url": "https://open.spotify.com/track/3fmfIvfnN1STlyn12Lys5A"
     },
     {
       "album": {
@@ -27522,6 +27684,24 @@
       "duration_ms": 186000,
       "name": "ZUMBANDO",
       "url": "https://open.spotify.com/track/0eyQrJBitRm6DZfdQ7Ssnc"
+    },
+    {
+      "album": {
+        "name": "ZXM-YR Mami",
+        "url": "https://open.spotify.com/album/1lQGIOE4Buny19S91SjKKy"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "ZXM-YR Mami",
+      "url": "https://open.spotify.com/track/7GoNA4Sbq9RDycYtiKe5dF"
     },
     {
       "album": {

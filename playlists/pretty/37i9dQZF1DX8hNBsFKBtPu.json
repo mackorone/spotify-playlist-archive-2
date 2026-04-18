@@ -1,6 +1,6 @@
 {
   "description": "We got you! Den bedste nye pop er samlet her \ud83d\udc95",
-  "num_followers": 108306,
+  "num_followers": 108318,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
       "duration_ms": 144928,
       "name": "M\u00e5ske I Et Andet Liv",
       "url": "https://open.spotify.com/track/0jUVqVFeBqZspEjkWdSypY"
+    },
+    {
+      "added_at": "2026-04-16 22:02:15",
+      "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/5K4Zc9szq5RbBJITaMAmpL"
+      },
+      "artists": [
+        {
+          "name": "KOPS",
+          "url": "https://open.spotify.com/artist/10GRqg0xzOzJI8yOgs5DbS"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/40GEzV3juSOOEiQOUfokIO"
     },
     {
       "added_at": "2026-04-16 22:02:15",

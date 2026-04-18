@@ -4163,6 +4163,24 @@
     },
     {
       "album": {
+        "name": "Xellay Acoustic",
+        "url": "https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX"
+      },
+      "artists": [
+        {
+          "name": "Xellay",
+          "url": "https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211687,
+      "name": "Love - Acoustic",
+      "url": "https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx"
+    },
+    {
+      "album": {
         "name": "Collage",
         "url": "https://open.spotify.com/album/78iXBQSLQd5SnSts47tzAI"
       },
@@ -4622,6 +4640,24 @@
       "duration_ms": 130588,
       "name": "MORE",
       "url": "https://open.spotify.com/track/7b67qEURJqOSa37ZLTga6a"
+    },
+    {
+      "album": {
+        "name": "Mr. Collision / Awhile Longer",
+        "url": "https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301333,
+      "name": "Mr. Collision",
+      "url": "https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF"
     },
     {
       "album": {
@@ -6156,6 +6192,24 @@
       "duration_ms": 192000,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/6lrSKUxM1wZaONPYU4qwWf"
+    },
+    {
+      "album": {
+        "name": "Suerte",
+        "url": "https://open.spotify.com/album/0BX5xTASG4jk84rbv4Y1Pr"
+      },
+      "artists": [
+        {
+          "name": "Los de Marte",
+          "url": "https://open.spotify.com/artist/3IswqnIMsJKqBzGplTP91r"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167011,
+      "name": "Suerte",
+      "url": "https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M"
     },
     {
       "album": {

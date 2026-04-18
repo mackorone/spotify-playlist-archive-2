@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Proudly Kenyan gems made for the entire family\. Cover: Khaligraph Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,496 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,517 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 | 4 | [Siaka](https://open.spotify.com/track/0aJb7gWWz2HbI0GB3kq6vP) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Mtoto wa Khadija](https://open.spotify.com/album/2K7N2vaEzwGlz8TX91cFfn) | 2:16 |
 | 5 | [NYONGI](https://open.spotify.com/track/5PUhfcbU3PutbBtikw34C9) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [NYONGI](https://open.spotify.com/album/7FC6JmMcBdAQXO1E1WOeQd) | 3:49 |
 | 6 | [Better Love](https://open.spotify.com/track/48FW62a8isVS443e7EaIUE) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT) | [Better Love](https://open.spotify.com/album/2K6u2p51mwoN9MbDNWzFAI) | 3:02 |
-| 7 | [Hainaga Mambo](https://open.spotify.com/track/22GqqA7GmzbSWMSrax8IDn) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Hainaga Mambo](https://open.spotify.com/album/1dvGUPvN4elqBbs2LAJSlr) | 2:33 |
+| 7 | [Hainaga Mambo](https://open.spotify.com/track/22GqqA7GmzbSWMSrax8IDn) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Hainaga Mambo](https://open.spotify.com/album/1dvGUPvN4elqBbs2LAJSlr) | 2:38 |
 | 8 | [Chai ya saa kumi](https://open.spotify.com/track/1gQsbe5nVBPmfj5Y1d1kec) | [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Chai ya saa kumi](https://open.spotify.com/album/6zo9fgnkIliVQoZLSB9Wh5) | 4:00 |
 | 9 | [Pretty Whine](https://open.spotify.com/track/4vbcjVBD0JrwndFVxcOmFV) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Lafayette Pwaguzi](https://open.spotify.com/artist/6TiZKAvTyNttA4DDKbEZQG) | [Pretty Whine](https://open.spotify.com/album/4WEK0bhve3Sf5TSoCXtq63) | 3:18 |
 | 10 | [Shots](https://open.spotify.com/track/0ITJ31MlkIIud7veHr6OTR) | [Lafayette.da1](https://open.spotify.com/artist/57H4nHhR07vH4c27c1Zvzy), [Dyana Cods](https://open.spotify.com/artist/1TMFrPAmqxTK5rVS8ujqMR) | [Shots](https://open.spotify.com/album/1tVrJnTIwaRl91TAJjFztO) | 2:49 |

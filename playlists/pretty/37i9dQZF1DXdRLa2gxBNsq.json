@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 115261,
+  "num_followers": 115288,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALdG/wFyAtVbT+xZonODEMWEAPkM",
+  "snapshot_id": "AAAAAM/fD0I7lDw9pfmeOShWfSrZNJCT",
   "tracks": [
     {
       "added_at": "2026-04-09 22:00:22",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Los Chicos No Est\u00e1n Bien",
-        "url": "https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8"
-      },
-      "artists": [
-        {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
-        }
-      ],
-      "duration_ms": 202488,
-      "name": "Los Chicos No Est\u00e1n Bien",
-      "url": "https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "C\u00f3mo Convertirse en Nada",
         "url": "https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 160253,
       "name": "C\u00f3mo Convertirse en Nada",
       "url": "https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Los Chicos No Est\u00e1n Bien",
+        "url": "https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "duration_ms": 202488,
+      "name": "Los Chicos No Est\u00e1n Bien",
+      "url": "https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
+        "name": "Busc\u00e1ndose la Vida",
+        "url": "https://open.spotify.com/album/50X2yfnVjoqHP9jpj5Hztj"
+      },
+      "artists": [
+        {
+          "name": "The Meas",
+          "url": "https://open.spotify.com/artist/3r5PC1XHrMZP8h4thSBP3c"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Ja, Ja, Ja",
+      "url": "https://open.spotify.com/track/0QVrkmPehChchi52biyo8w"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
         "name": "Inadaptados",
         "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 184262,
       "name": "Amar Mata - Remasterizado 2024",
       "url": "https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "Busc\u00e1ndose la Vida",
-        "url": "https://open.spotify.com/album/50X2yfnVjoqHP9jpj5Hztj"
-      },
-      "artists": [
-        {
-          "name": "The Meas",
-          "url": "https://open.spotify.com/artist/3r5PC1XHrMZP8h4thSBP3c"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Ja, Ja, Ja",
-      "url": "https://open.spotify.com/track/0QVrkmPehChchi52biyo8w"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "La Buena M\u00fasica",
-        "url": "https://open.spotify.com/album/4MsDjFy2xpRc7t7Iakglr6"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 177421,
-      "name": "La Buena M\u00fasica",
-      "url": "https://open.spotify.com/track/09Y2rADdCOBtv7N1LBRNTx"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Cicatriz en la Matrix",
         "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 118986,
       "name": "Tenemos a la Pasma",
       "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "La Buena M\u00fasica",
+        "url": "https://open.spotify.com/album/4MsDjFy2xpRc7t7Iakglr6"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 177421,
+      "name": "La Buena M\u00fasica",
+      "url": "https://open.spotify.com/track/09Y2rADdCOBtv7N1LBRNTx"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Ya No Me Divierto",
-        "url": "https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Ya No Me Divierto",
-      "url": "https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Discobolo",
         "url": "https://open.spotify.com/album/4RJ2f70YrdG7cGVJ2IgYFU"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
+        "name": "Ya No Me Divierto",
+        "url": "https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Ya No Me Divierto",
+      "url": "https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
         "name": "Camino hacia la ruina",
         "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
       },
@@ -763,6 +763,26 @@
       "duration_ms": 285640,
       "name": "Amor frenop\u00e1tico",
       "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Cuando nadie est\u00e1",
+        "url": "https://open.spotify.com/album/73xTP1HKA5FXLy7v60hBHn"
+      },
+      "artists": [
+        {
+          "name": "Kamikazes",
+          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
+        },
+        {
+          "name": "Free City",
+          "url": "https://open.spotify.com/artist/1LcREmgvQNtlFFkYyIUua0"
+        }
+      ],
+      "duration_ms": 199750,
+      "name": "Cuando nadie est\u00e1",
+      "url": "https://open.spotify.com/track/06rI6RWVN6mRIqEJJ9AYdE"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -819,26 +839,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Cuando nadie est\u00e1",
-        "url": "https://open.spotify.com/album/73xTP1HKA5FXLy7v60hBHn"
-      },
-      "artists": [
-        {
-          "name": "Kamikazes",
-          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
-        },
-        {
-          "name": "Free City",
-          "url": "https://open.spotify.com/artist/1LcREmgvQNtlFFkYyIUua0"
-        }
-      ],
-      "duration_ms": 199750,
-      "name": "Cuando nadie est\u00e1",
-      "url": "https://open.spotify.com/track/06rI6RWVN6mRIqEJJ9AYdE"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Putos Nazis",
         "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
       },
@@ -875,38 +875,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Garrote Vil",
-        "url": "https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD"
-      },
-      "artists": [
-        {
-          "name": "XpresidentX",
-          "url": "https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK"
-        }
-      ],
-      "duration_ms": 105386,
-      "name": "Jubilaci\u00f3n a los 18",
-      "url": "https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "A Bocajarro + Sopla Sopla",
-        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
-      },
-      "artists": [
-        {
-          "name": "Tijuana in blue",
-          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
-        }
-      ],
-      "duration_ms": 289367,
-      "name": "Maki Navaja, El \u00daltimo Chorisso",
-      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "No Sabemos Perder",
         "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
       },
@@ -927,6 +895,38 @@
       "duration_ms": 240800,
       "name": "No Sabemos Perder",
       "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "A Bocajarro + Sopla Sopla",
+        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
+      },
+      "artists": [
+        {
+          "name": "Tijuana in blue",
+          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
+        }
+      ],
+      "duration_ms": 289367,
+      "name": "Maki Navaja, El \u00daltimo Chorisso",
+      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Garrote Vil",
+        "url": "https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD"
+      },
+      "artists": [
+        {
+          "name": "XpresidentX",
+          "url": "https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK"
+        }
+      ],
+      "duration_ms": 105386,
+      "name": "Jubilaci\u00f3n a los 18",
+      "url": "https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
+        "name": "Figurante",
+        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+        }
+      ],
+      "duration_ms": 150701,
+      "name": "Figurante",
+      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
         "name": "O Mundo Toleou",
         "url": "https://open.spotify.com/album/0SGKBiTKEXGACMk9mepESk"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 218227,
       "name": "O Mundo Toleou",
       "url": "https://open.spotify.com/track/0L3iUfeunkRbkftq1ZnYsA"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "Figurante",
-        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
-        }
-      ],
-      "duration_ms": 150701,
-      "name": "Figurante",
-      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
     },
     {
       "added_at": "2026-04-09 22:00:22",

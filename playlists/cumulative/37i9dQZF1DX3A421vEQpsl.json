@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 202733,
       "name": "Aankhein Chaar - From \"Tu Yaa Main\"",
       "url": "https://open.spotify.com/track/22g8UmHccgD5NEoqWb3B1b"
@@ -2343,6 +2343,28 @@
     },
     {
       "album": {
+        "name": "Husn Ke Lakhon Rang (From \"Toaster\")",
+        "url": "https://open.spotify.com/album/74wptMFVQMwOrZCwBrchhf"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Arjun Iyer",
+          "url": "https://open.spotify.com/artist/5cJfXcI6GTlvjvebwaLEL0"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Husn Ke Lakhon Rang - From \"Toaster\"",
+      "url": "https://open.spotify.com/track/4m20rRVI0u4hvcK3noOOuI"
+    },
+    {
+      "album": {
         "name": "Husn Hai Suhana (from \"Coolie No. 1\")",
         "url": "https://open.spotify.com/album/3FkE669VDUI9nh7g86QyAs"
       },
@@ -2565,7 +2587,7 @@
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 332087,
+      "duration_ms": 332116,
       "name": "Jaan Se Guzarte Hain",
       "url": "https://open.spotify.com/track/0bdA7CMrqT1qJVwwhw2Yn4"
     },

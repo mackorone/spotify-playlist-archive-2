@@ -4063,6 +4063,28 @@
     },
     {
       "album": {
+        "name": "Chal Urhain",
+        "url": "https://open.spotify.com/album/3xZNv21NGijHBcwMyFuDnL"
+      },
+      "artists": [
+        {
+          "name": "Shoaib Rana",
+          "url": "https://open.spotify.com/artist/3dAiw13swmLCKky6DgywNV"
+        },
+        {
+          "name": "Sulaman Naseer",
+          "url": "https://open.spotify.com/artist/1UwVaWlzMZUGV9uBUb1Y4L"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198352,
+      "name": "Chal Urhain",
+      "url": "https://open.spotify.com/track/0MwmxTxmDpXLflrPDjk6pC"
+    },
+    {
+      "album": {
         "name": "Chala Hoon",
         "url": "https://open.spotify.com/album/1OYWXeErd42tvTJs15KAxB"
       },
@@ -5642,7 +5664,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 185143,
       "name": "Dil Darda Mera",
       "url": "https://open.spotify.com/track/13c7VqSVTwxrNYYrrS3mNf"
@@ -8595,6 +8617,32 @@
     },
     {
       "album": {
+        "name": "Hairan Amanam",
+        "url": "https://open.spotify.com/album/4Vf5F1uAaEiavQl6qbyS1t"
+      },
+      "artists": [
+        {
+          "name": "Humnava",
+          "url": "https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI"
+        },
+        {
+          "name": "Rizwan Abbas",
+          "url": "https://open.spotify.com/artist/4kOvSNxvoq1KMyie7p2qx0"
+        },
+        {
+          "name": "Maheen Sattar",
+          "url": "https://open.spotify.com/artist/1bheH3ZoEEfJlLkWVZfBHW"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309945,
+      "name": "Hairan Amanam",
+      "url": "https://open.spotify.com/track/0avO50pud1zOzaFKh3efBV"
+    },
+    {
+      "album": {
         "name": "Halaat",
         "url": "https://open.spotify.com/album/25or8vfKVWttGW0rwl5JNB"
       },
@@ -10168,6 +10216,24 @@
       "duration_ms": 161806,
       "name": "Ishq Ka Panchi",
       "url": "https://open.spotify.com/track/7vT0xOPF5EU8Qs1iwZAoUy"
+    },
+    {
+      "album": {
+        "name": "itna zaroor",
+        "url": "https://open.spotify.com/album/5AIkCaaC3JGbCt1rEgqQSp"
+      },
+      "artists": [
+        {
+          "name": "Sinan Rajput",
+          "url": "https://open.spotify.com/artist/0avEinyUN34b2mxTo7YZLY"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161763,
+      "name": "itna zaroor",
+      "url": "https://open.spotify.com/track/5kjJlgieZwsu2sP5zA14VK"
     },
     {
       "album": {
@@ -13819,6 +13885,28 @@
     },
     {
       "album": {
+        "name": "Maazi",
+        "url": "https://open.spotify.com/album/3lY40ZHsX0z3BSK5OSUFi9"
+      },
+      "artists": [
+        {
+          "name": "Daniyal Abid",
+          "url": "https://open.spotify.com/artist/05YR7CqRwC120pSVQxkwtc"
+        },
+        {
+          "name": "Usaid Nadeem",
+          "url": "https://open.spotify.com/artist/7kWY6eD2hCs1FUFKp7vp0Y"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "Maazi",
+      "url": "https://open.spotify.com/track/0B4YYlxPsu13rEqs4gqdEQ"
+    },
+    {
+      "album": {
         "name": "Machli",
         "url": "https://open.spotify.com/album/4yfwvfGVrmkf50RoVbKax2"
       },
@@ -13940,6 +14028,28 @@
       "duration_ms": 222197,
       "name": "Main Na Rahoon",
       "url": "https://open.spotify.com/track/5H6EKQ9HCI3u7VH1EOxA7g"
+    },
+    {
+      "album": {
+        "name": "Main Wo Nahi",
+        "url": "https://open.spotify.com/album/3Qdus0uqB8lJQNMrYrRtvJ"
+      },
+      "artists": [
+        {
+          "name": "Mehmood J",
+          "url": "https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF"
+        },
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Main Wo Nahi",
+      "url": "https://open.spotify.com/track/0jg78sSq67ZNtK3bn2mKBN"
     },
     {
       "album": {
@@ -19286,6 +19396,24 @@
     {
       "album": {
         "name": "Saajna",
+        "url": "https://open.spotify.com/album/50BM6yrfg5GRbmVRCdzqSd"
+      },
+      "artists": [
+        {
+          "name": "Musawir Khan",
+          "url": "https://open.spotify.com/artist/2NBIny5IPKXQYH3YQNtTVH"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180141,
+      "name": "Saajna",
+      "url": "https://open.spotify.com/track/27xt7pD3h0mZ6cg0y07PpV"
+    },
+    {
+      "album": {
+        "name": "Saajna",
         "url": "https://open.spotify.com/album/45SyUM1lclSDpwBG5UVVO2"
       },
       "artists": [
@@ -24615,6 +24743,24 @@
     },
     {
       "album": {
+        "name": "WHAT YOU DID",
+        "url": "https://open.spotify.com/album/60miJ0vMxRWpOfABpeS8dJ"
+      },
+      "artists": [
+        {
+          "name": "Ar Sonu",
+          "url": "https://open.spotify.com/artist/0XFpn7dgJIgKTgJYNPwgtF"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "WHAT YOU DID",
+      "url": "https://open.spotify.com/track/0EUecJYr7UNAZICXdsOptY"
+    },
+    {
+      "album": {
         "name": "What You Got",
         "url": "https://open.spotify.com/album/6enwL0n6BObNNEu55RO4p0"
       },
@@ -24696,7 +24842,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 172586,
       "name": "WHY ME",
       "url": "https://open.spotify.com/track/52a978RE0uwVfovfCWdQDP"

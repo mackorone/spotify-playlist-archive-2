@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "BITTE LEBEN",
+        "url": "https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy"
+      },
+      "artists": [
+        {
+          "name": "Francamente",
+          "url": "https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "5 di mattina",
+      "url": "https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy"
+    },
+    {
+      "album": {
         "name": "5 MINUTI",
         "url": "https://open.spotify.com/album/0fU3tzoyTLdQKkpsRhg39i"
       },
@@ -27874,24 +27892,6 @@
       "duration_ms": 210001,
       "name": "Tra le tue braccia (feat. Cosmo)",
       "url": "https://open.spotify.com/track/4d6WWKu0HAs0psJP57AUrO"
-    },
-    {
-      "album": {
-        "name": "BITTE LEBEN",
-        "url": "https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy"
-      },
-      "artists": [
-        {
-          "name": "Francamente",
-          "url": "https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts"
-        }
-      ],
-      "date_added": "2026-04-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy"
     },
     {
       "album": {

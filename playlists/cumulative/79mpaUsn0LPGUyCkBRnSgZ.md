@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,113 songs - 3 day 0 hr 14 min
+1,115 songs - 3 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,6 +556,7 @@
 | [Life's Greatest Fool](https://open.spotify.com/track/70IVVzw7Wmi2EdYWlPwbnO) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 4:44 | 2024-09-15 |  |
 | [Lift](https://open.spotify.com/track/7imDM0mCmxkNgt9ROwijiU) | [Katie Gately](https://open.spotify.com/artist/6FP6ynzSPeBFX46vkI1OsW) | [Color](https://open.spotify.com/album/5pVeEzOuaLQDIoJxOwyWDj) | 4:17 | 2024-01-18 | 2025-07-25 |
 | [Light Bath](https://open.spotify.com/track/720pdWg4AIjiYSpY7kT8YY) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [The Complete Score from "The Catherine Wheel"](https://open.spotify.com/album/5DyoXk3EjmrhbqUv0FiFA6) | 1:11 | 2025-03-30 |  |
+| [Light My Dart Up](https://open.spotify.com/track/367GA7wOCuScxnLH5SlAup) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Rainbow Valley](https://open.spotify.com/album/5k2ppB8SwrTTFyHUoqRzBW) | 3:59 | 2026-04-17 |  |
 | [Like a Prayer](https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Prayer](https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV) | 5:40 | 2025-09-20 |  |
 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 | 2023-11-01 | 2024-09-10 |
 | [Lilian's Pavilion](https://open.spotify.com/track/1XbBXvgRlTJB6880Du8jlH) | [CEP](https://open.spotify.com/artist/2aooHIljVYIZhEFFNmIaEz) | [Drawing the Target Around the Arrow](https://open.spotify.com/album/1Uu3fza2uwuAM9kbn5EtBs) | 2:57 | 2023-10-17 |  |
@@ -596,6 +597,7 @@
 | [Mahashmashana](https://open.spotify.com/track/1wSzyIk6YisAMGtvbDEsuU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mahashmashana](https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw) | 9:19 | 2024-11-22 | 2024-11-28 |
 | [Main Titles](https://open.spotify.com/track/5TTPUpjBOycZtQYyxjOshu) | [Wes Borland](https://open.spotify.com/artist/3Uzo5Y5sjGlwxNjfZDtGLF) | [Crystal Machete](https://open.spotify.com/album/6RrfC1hxrS4ANiOQPTtCs3) | 6:29 | 2024-01-18 |  |
 | [Manhattan](https://open.spotify.com/track/0dYTYyBD0j1neoklCctt1s) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Winterreise](https://open.spotify.com/album/23tjIW6fzlYMWfc55QHSAs) | 7:26 | 2024-03-25 | 2024-06-10 |
+| [Manifesto](https://open.spotify.com/track/5i2859ZJXGPOzDwdZSOMiH) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Manifesto](https://open.spotify.com/album/1LDD2nUQ17tm1WMchsevtp) | 5:29 | 2026-04-17 |  |
 | [Manning Fireworks](https://open.spotify.com/track/6Ge9RrMoV65nlpjQ5YJOut) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 2:59 | 2024-09-09 | 2025-01-04 |
 | [Marching Bands of Manhattan](https://open.spotify.com/track/7xBWYN1Dzciatr34K6sfDh) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 4:12 | 2025-03-29 | 2025-06-22 |
 | [Margaret vs\. Pauline](https://open.spotify.com/track/7zp9Uj66my5wUpdH1FTfy9) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 2:52 | 2023-02-21 | 2023-12-14 |

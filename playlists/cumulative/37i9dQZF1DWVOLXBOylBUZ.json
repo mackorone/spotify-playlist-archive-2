@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Lu\u00edsa Sonza y Young Miko.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Anitta y Shakira.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -3473,6 +3473,24 @@
     },
     {
       "album": {
+        "name": "BIAF <3",
+        "url": "https://open.spotify.com/album/0GnGHUSD8DxEU0ejWjvCNA"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170434,
+      "name": "BIAF <3",
+      "url": "https://open.spotify.com/track/2niaqfUN4XWJ6BuDEm77Vh"
+    },
+    {
+      "album": {
         "name": "BIEN :(",
         "url": "https://open.spotify.com/album/4ibU38APxYukWF4ozigVz0"
       },
@@ -3594,7 +3612,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 151202,
       "name": "Blancanieves",
       "url": "https://open.spotify.com/track/1CDo1ZxKO7LxGIZNYZ4nFL"
@@ -3678,6 +3696,24 @@
       "duration_ms": 161739,
       "name": "BNB",
       "url": "https://open.spotify.com/track/2kjdVfAQbAaHolDCkAtjlS"
+    },
+    {
+      "album": {
+        "name": "BOMB\u00d3N",
+        "url": "https://open.spotify.com/album/4wix4eBwzjNtaf5wlMexEF"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130148,
+      "name": "BOMB\u00d3N",
+      "url": "https://open.spotify.com/track/0FBOPrPkQaLBEwtdCOdXiX"
     },
     {
       "album": {
@@ -4730,6 +4766,28 @@
       "duration_ms": 200769,
       "name": "Calor",
       "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+    },
+    {
+      "album": {
+        "name": "CANAIMA",
+        "url": "https://open.spotify.com/album/0mwHC4EpVfJ1y2hY7PvfYX"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151967,
+      "name": "CANAIMA",
+      "url": "https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs"
     },
     {
       "album": {
@@ -12140,7 +12198,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 181290,
       "name": "HABLA CLARO",
       "url": "https://open.spotify.com/track/0lsin6yQEzs9065d0uBJhK"
@@ -13666,7 +13724,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 156831,
       "name": "La Casita",
       "url": "https://open.spotify.com/track/0y5WI7qdCLDdniHwP1AvMX"
@@ -14174,6 +14232,24 @@
       "duration_ms": 146441,
       "name": "La Mini",
       "url": "https://open.spotify.com/track/5cBYXVEGfdcEm506VCvxHG"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Rika",
+        "url": "https://open.spotify.com/album/5Ux3yqgehYSnOZNwHTIF6q"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146711,
+      "name": "La M\u00e1s Rika",
+      "url": "https://open.spotify.com/track/3eIhjAdYTPIacTss3HGrz6"
     },
     {
       "album": {
@@ -16572,7 +16648,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 194000,
       "name": "MARACAIBO",
       "url": "https://open.spotify.com/track/2nodHwYNSvdYy3VVpCgqU5"
@@ -19888,7 +19964,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 189712,
       "name": "Nostalgia .0001 Hacerte De Todo (feat. DimeloooLexx)",
       "url": "https://open.spotify.com/track/74jsmySKgsS3SZWT50klnu"
@@ -20585,6 +20661,24 @@
     },
     {
       "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155524,
+      "name": "Ojitos Playa",
+      "url": "https://open.spotify.com/track/5gtWXPSEemcheEfhBT253g"
+    },
+    {
+      "album": {
         "name": "BRILLAR",
         "url": "https://open.spotify.com/album/4Ks3FX1TliFM3R8hBIhlTy"
       },
@@ -20710,7 +20804,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 107100,
       "name": "ONICHAN",
       "url": "https://open.spotify.com/track/5FFRwTDH8bqOcNfs6jqoXD"
@@ -22240,6 +22334,24 @@
       "duration_ms": 186952,
       "name": "Perreito Under",
       "url": "https://open.spotify.com/track/6l0pG6obvyfFGeSUI3aS5y"
+    },
+    {
+      "album": {
+        "name": "AMOR & DROGA",
+        "url": "https://open.spotify.com/album/2nEcbAjssahw9l2VdiZswg"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188636,
+      "name": "PERREO LLORANDO",
+      "url": "https://open.spotify.com/track/44n0bJGRKc0aaKsYXZGq06"
     },
     {
       "album": {

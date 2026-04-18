@@ -4,7 +4,7 @@
 
 > Tiffany Day...\. you dropped this 👑
 
-2,637 songs - 5 day 0 hr 45 min
+2,639 songs - 5 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [better outside](https://open.spotify.com/track/4uzBtvdU1gZ8jMSYkSUZeZ) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU), [Chris Moon](https://open.spotify.com/artist/4kNKHF5Zxd8Ftq6Zq5iVP9) | [better outside](https://open.spotify.com/album/1zGUJO8gfWtISByeVTIj1w) | 3:18 | 2023-06-02 | 2023-09-01 |
 | [better outside](https://open.spotify.com/track/7fhe5bUjmWgYs0dxjRhQtk) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU), [Chris Moon](https://open.spotify.com/artist/4kNKHF5Zxd8Ftq6Zq5iVP9) | [better outside](https://open.spotify.com/album/4U31cMz4TiLy1zbmq7tzX5) | 3:18 | 2023-06-02 | 2023-07-30 |
 | [Beverly Hills](https://open.spotify.com/track/4DnyQxa0UP9xorQcG58BYW) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [Beverly Hills](https://open.spotify.com/album/5DkrsWtn8AbzHH9dSEMkk6) | 2:55 | 2022-02-25 | 2022-05-12 |
-| [BFF](https://open.spotify.com/track/3wGlth38MGe6Rwuix0wROh) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [BFF](https://open.spotify.com/album/33mnXGN1236HTRpTaGUE7p) | 2:25 | 2025-11-28 |  |
+| [BFF](https://open.spotify.com/track/3wGlth38MGe6Rwuix0wROh) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [BFF](https://open.spotify.com/album/33mnXGN1236HTRpTaGUE7p) | 2:25 | 2025-11-28 | 2026-04-18 |
 | [Big Age](https://open.spotify.com/track/1tthNvobJJpXWpwY9F1hP5) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Blinks](https://open.spotify.com/album/6nWmnZpOMHaYBjDZe43fuJ) | 3:33 | 2020-12-11 | 2021-01-08 |
 | [Big Break](https://open.spotify.com/track/3XkF97AUMDBcixfFndkIF5) | [Lewis Grant](https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj) | [Big Break](https://open.spotify.com/album/6FVvFtyyX1UlqF6QvIvLl2) | 3:06 | 2020-10-23 | 2021-01-27 |
 | [Big Dog](https://open.spotify.com/track/5CYLZR0WUIojJmNVuBmtRY) | [Rahul.mp3](https://open.spotify.com/artist/3Y3lcQULVuy43NluZDkr1N) | [Big Dog](https://open.spotify.com/album/1tgx46ofmWvZrG1B2QNWad) | 2:32 | 2025-11-14 | 2026-03-21 |
@@ -1359,6 +1359,7 @@
 | [LAKE OF LOVE](https://open.spotify.com/track/7MZRh424fSUsjmUYEebcvK) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [LAKE OF LOVE](https://open.spotify.com/album/4W4eNy279B7ogE6nBm6Dbw) | 5:43 | 2022-04-01 | 2022-04-29 |
 | [Lamb who screams](https://open.spotify.com/track/58yOLUdlwYI0gfnlsi07fX) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Lamb who screams](https://open.spotify.com/album/4aTBp6pfeZeSqQ2VBJq3yh) | 2:18 | 2025-03-29 | 2025-09-13 |
 | [LANDSLIDE](https://open.spotify.com/track/6FKSlnhS5u3pzetulq9KXJ) | [murdermart](https://open.spotify.com/artist/29mB5AIM7WGd2tZLIuDmUi) | [LANDSLIDE](https://open.spotify.com/album/4WzbZWDaq8rEshuzfxTtGn) | 2:38 | 2026-04-03 |  |
+| [Lara's Boyfriend](https://open.spotify.com/track/1oG0qodkwuizOggAJEWBNa) | [MARiMARi](https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl) | [Lara's Boyfriend](https://open.spotify.com/album/6WzXFSfxylpQiNvdlvbyxO) | 2:06 | 2026-04-17 |  |
 | [lastjune](https://open.spotify.com/track/1welGULVlPbPc61eiGEELm) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [DOA](https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP) | 2:31 | 2024-01-19 | 2024-08-24 |
 | [lavender](https://open.spotify.com/track/1Idid9PZdEK2U3L37yoR4A) | [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [lavender](https://open.spotify.com/album/5NgbRiQlNELNvWXDoO6kKe) | 2:39 | 2022-03-11 | 2022-05-14 |
 | [Lavender](https://open.spotify.com/track/3Sa7PJ7ohCAEnAzLccmmfj) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Lavender](https://open.spotify.com/album/45ZJzB6Cxl4liNOyfcejQ5) | 3:03 | 2024-02-16 | 2025-05-03 |
@@ -1644,6 +1645,7 @@
 | [Nike](https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nike](https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx) | 2:07 | 2022-09-03 | 2022-10-22 |
 | [Ninja](https://open.spotify.com/track/1xDENykwH0WhdB5XVDYX3k) | [Tlya X An](https://open.spotify.com/artist/6KF6XPVpveOW82GRFgwFsX) | [Ninja](https://open.spotify.com/album/67q2ad1ImfNsm3O5c3erXE) | 2:13 | 2024-09-10 | 2025-08-23 |
 | [Nisemono Smilin](https://open.spotify.com/track/3rDBU4noiq1rjG50MPKi9t) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [Nisemono Smilin](https://open.spotify.com/album/3jnprTN6EFTMgknqhN0PEI) | 3:02 | 2025-09-19 | 2026-02-19 |
+| [niterush](https://open.spotify.com/track/1xQMe8qRq31Sklgh9CukHd) | [Luvpurp](https://open.spotify.com/artist/30muNCXgfZLdtjCRV91RH7) | [niterush](https://open.spotify.com/album/2Se9DtzSTbI74wlR0lv6yw) | 2:15 | 2026-04-17 |  |
 | [No Body](https://open.spotify.com/track/3iZt8KJvoKxOYj0cLXGluK) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 2:44 | 2023-08-11 | 2024-01-23 |
 | [No Comma](https://open.spotify.com/track/33Wh5qaiRVWuVIDnGGNlHh) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [No Comma](https://open.spotify.com/album/1OXQGYsWEZSYN3G3EYgqG4) | 2:41 | 2024-09-20 | 2026-01-15 |
 | [no expectations.](https://open.spotify.com/track/1qOHyWo63YavYVYPo47hh9) | [Lucyen](https://open.spotify.com/artist/5UBw2VnIl4iOxxtjpL83g7) | [no expectations.](https://open.spotify.com/album/3Hj9wpcgosXqcw6sdmSBg3) | 1:22 | 2023-07-28 | 2024-01-23 |
@@ -2131,7 +2133,7 @@
 | [SLiiDE](https://open.spotify.com/track/3feQjYIk1CK3Ag2XWis8C0) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [SLiiDE](https://open.spotify.com/album/1OADacwTzsjwGyKWFAumWM) | 2:05 | 2020-11-03 | 2021-01-08 |
 | [slomo \(with Tohji & Midas The Jagaban\)](https://open.spotify.com/track/1siKLsvJLmVM8fBzJrpBNy) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 3:12 | 2022-09-27 | 2023-02-18 |
 | [SLUG SLUG SLUG](https://open.spotify.com/track/7IFqcJvqi9uf2GX8RxuZJC) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [SLUG SLUG SLUG](https://open.spotify.com/album/3eo0sE7mor2Lzkz7M9xZTF) | 2:11 | 2020-10-13\* | 2021-01-08 |
-| [Slug Song](https://open.spotify.com/track/5rg66yM2srFONrhJFFLpCk) | [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [Bronze Claw Iso](https://open.spotify.com/album/6qVrpKWa2A5QG200JYa7X1) | 2:34 | 2025-09-05 |  |
+| [Slug Song](https://open.spotify.com/track/5rg66yM2srFONrhJFFLpCk) | [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [Bronze Claw Iso](https://open.spotify.com/album/6qVrpKWa2A5QG200JYa7X1) | 2:34 | 2025-09-05 | 2026-04-18 |
 | [slut for the dj](https://open.spotify.com/track/3TePjhnsBXPFpPZ7yqo0cl) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [slut for the dj](https://open.spotify.com/album/4OwU91pl4OEW1k0hhYLM1K) | 2:45 | 2026-02-13 | 2026-04-04 |
 | [smack'd](https://open.spotify.com/track/0brgyfMV6ecfOSlTmKhsk5) | [Button Maker](https://open.spotify.com/artist/4MAagcKJAflUPllm4L7SOQ), [swazy\*](https://open.spotify.com/artist/2GJ6PPwgGBtFS6RX0WFzFV) | [smack'd](https://open.spotify.com/album/2efYM4CCNSenq3CQLvCA8f) | 1:46 | 2022-02-04 | 2022-03-19 |
 | [Smile](https://open.spotify.com/track/1T8TZteffzdtNbxGhh4nIv) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [SUMMER03](https://open.spotify.com/album/4ZfNAMkPChAeUvKGp7g4x0) | 2:26 | 2021-03-26 | 2021-11-13 |

@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,117 songs - 2 day 9 hr 35 min
+1,118 songs - 2 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Aqua Stars](https://open.spotify.com/track/39n08kBqm9qP66WTUt5M39) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Rose Avenue Compilation, Vol\. 1](https://open.spotify.com/album/0j1j9mr3P0igODr1dFcqAt) | 7:05 | 2023-08-08 | 2023-12-23 |
 | [Aquí](https://open.spotify.com/track/4VkLkS6EHULiBDnrD0fAXN) | [Bryan Softwell](https://open.spotify.com/artist/3BoPm6NYFfRsuJplyNuUzf) | [Aquí](https://open.spotify.com/album/6ap5fnMGOUCNLbgXAEg2JX) | 3:31 | 2023-02-12 | 2023-04-13 |
 | [Arava](https://open.spotify.com/track/0k2ZUVgUDvrVlXBOpnrcRA) | [OTIOT](https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF), [BEMET](https://open.spotify.com/artist/1fqI54BLIfyPm5tgLcON1t) | [Sinai \- Arava](https://open.spotify.com/album/0ZLhaLgCwMik7vekWvxXMC) | 5:31 | 2026-01-15 | 2026-01-23 |
+| [Army](https://open.spotify.com/track/75386mOXWOPoHCjNRc3rgj) | [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE) | [Army](https://open.spotify.com/album/2G3yUfX12UEtZ33VTwkRm4) | 2:32 | 2026-04-17 |  |
 | [Around We Go](https://open.spotify.com/track/1t7Mbqw7mrtX4S4bYPPPGc) | [Ben Remember](https://open.spotify.com/artist/4QDXiDOwAxmzwZOaqP2ePc) | [Around We Go](https://open.spotify.com/album/4tmaK94UxQtJSiuvG6J1QF) | 3:34 | 2023-07-14 | 2023-12-14 |
 | [As We Know](https://open.spotify.com/track/4zwH8Clzrn4AuYnBI30M4r) | [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY) | [As We Know](https://open.spotify.com/album/2AqZ8hm6V7mdi87e86OA0i) | 3:54 | 2023-06-23 | 2023-07-14 |
 | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/track/7jZXymh2SwJUGD4juPNVVH) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Laureano](https://open.spotify.com/artist/4Hu88bgyAjHvZZpfBK9ncX), [Bambo Cissokho](https://open.spotify.com/artist/2qjWUEZjsTxLUYI6MNk3Yq) | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/album/39YxZgJhoL9YQfc4lmKwhN) | 2:42 | 2024-12-05 |  |
@@ -761,7 +762,7 @@
 | [Pills](https://open.spotify.com/track/5arYn3Yofxkw0CCM3XkiCE) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Pills](https://open.spotify.com/album/7mWEltJZJ16efLQawS02y0) | 3:17 | 2023-05-11 | 2023-12-23 |
 | [Play](https://open.spotify.com/track/18iezdh9TvdsxBK5hdRlhv) | [Bassium](https://open.spotify.com/artist/2W3Nv6Ej8jREhbxiTKK0lc) | [Play](https://open.spotify.com/album/3lwbaoXT5j76EIiz5XmzAe) | 3:29 | 2024-05-24 | 2025-01-09 |
 | [Play Hard](https://open.spotify.com/track/7dtO7dHGNide8mfe02874q) | [Julius Arth](https://open.spotify.com/artist/3Fp986DIwS5780aXiudGm1) | [Play Hard](https://open.spotify.com/album/0vOteWPDwBTL5zTb90U2N0) | 3:31 | 2024-02-02 | 2024-09-26 |
-| [Play Right](https://open.spotify.com/track/22jWUbQfMwxzQzBI66U3Lt) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Manhart](https://open.spotify.com/artist/0ZSz1lehQ1CQU6OkKA32dd) | [Play Right](https://open.spotify.com/album/7eFEljHE7bl04qYJFstSNz) | 2:09 | 2026-01-09 |  |
+| [Play Right](https://open.spotify.com/track/22jWUbQfMwxzQzBI66U3Lt) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Manhart](https://open.spotify.com/artist/0ZSz1lehQ1CQU6OkKA32dd) | [Play Right](https://open.spotify.com/album/7eFEljHE7bl04qYJFstSNz) | 2:09 | 2026-01-09 | 2026-04-18 |
 | [Play The Beat](https://open.spotify.com/track/02lNJz6huBFo6QrW9xXOmn) | [Mr\. Sid](https://open.spotify.com/artist/6RNKef9r8fl05a3yy0gjcu), [Monroe](https://open.spotify.com/artist/070pjBhWWo9AT3KtkebV8c) | [Play The Beat](https://open.spotify.com/album/1ZwrvRwgSdICrpGbcogvKc) | 2:04 | 2023-06-22 | 2023-07-14 |
 | [Play This Rhythm](https://open.spotify.com/track/7Blp79ZL8i7VJYHWLgqaMM) | [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [Play This Rhythm](https://open.spotify.com/album/50Ss2QG6IQnpsaYlUSNhjA) | 2:54 | 2024-09-27 | 2025-01-09 |
 | [Playa](https://open.spotify.com/track/3D0VEmqcbT95B22ojdjkU1) | [RAFI](https://open.spotify.com/artist/1lHKz7UclrOxsquASlnNRs) | [Playa](https://open.spotify.com/album/5Ys8n1I5tFS0uvFAlaRna0) | 3:06 | 2023-02-17 | 2023-04-13 |

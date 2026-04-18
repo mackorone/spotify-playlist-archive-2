@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10530,
+  "num_followers": 10535,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad7VAAAAAABkkY+VQ8J1uwbPFsc9JhAy",
+  "snapshot_id": "aeAmgAAAAACP66MWEqGsgpQATBuTzEj6",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crush EP",
-        "url": "https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i"
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
       "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         },
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
         }
       ],
-      "duration_ms": 220100,
-      "name": "4 Leaf Clover (feat. Steve Lacy)",
-      "url": "https://open.spotify.com/track/1To829onYmL63wLNtU7Zm8"
+      "duration_ms": 233077,
+      "name": "Lauder Too (feat. Ravyn Lenae & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/14l9gwYmyxQu5m8tD5bv0W"
     },
     {
       "added_at": null,
@@ -363,26 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Forever Story (Extended Version)",
-        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+        "name": "Crush EP",
+        "url": "https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i"
       },
       "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         },
         {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 233077,
-      "name": "Lauder Too (feat. Ravyn Lenae & Eryn Allen Kane)",
-      "url": "https://open.spotify.com/track/14l9gwYmyxQu5m8tD5bv0W"
+      "duration_ms": 220100,
+      "name": "4 Leaf Clover (feat. Steve Lacy)",
+      "url": "https://open.spotify.com/track/1To829onYmL63wLNtU7Zm8"
     },
     {
       "added_at": null,
@@ -603,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NOIR",
+        "url": "https://open.spotify.com/album/5rVlqi2fHOmWB764N8PsWF"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "MF GROOVE (with Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/3f0wlG15mXf22WOraAYwJ7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Live In A Society",
         "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 169061,
       "name": "Is It Real (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NOIR",
-        "url": "https://open.spotify.com/album/5rVlqi2fHOmWB764N8PsWF"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "MF GROOVE (with Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/3f0wlG15mXf22WOraAYwJ7"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soulection White Label - Monte Booker",
-        "url": "https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE"
-      },
-      "artists": [
-        {
-          "name": "monte booker",
-          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 186647,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
         "url": "https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 153133,
       "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
       "url": "https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soulection White Label - Monte Booker",
+        "url": "https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE"
+      },
+      "artists": [
+        {
+          "name": "monte booker",
+          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 186647,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo"
     },
     {
       "added_at": null,

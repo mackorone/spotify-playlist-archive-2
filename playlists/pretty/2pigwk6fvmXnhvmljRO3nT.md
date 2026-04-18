@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,435 songs - 21 day 12 hr 7 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,440 songs - 21 day 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7692,7 +7692,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7682 | [Save That Shit](https://open.spotify.com/track/6ptNBM3aWWACAQqC4rgkmp) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [Back from the Dead](https://open.spotify.com/album/36wYfxi4GQ9QunPwdfiwBI) | 3:33 |
 | 7683 | [Drankin N Smokin](https://open.spotify.com/track/0k7wmahjkn389wAZdz19Cv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto](https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt) | 3:33 |
 | 7684 | [LIKE WEEZY](https://open.spotify.com/track/4zK082ykqJzJGzC64NXjp1) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:55 |
-| 7685 | [Outside \(feat\. Ellie Goulding\)](https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:47 |
+| 7685 | [Outside \(feat\. Ellie Goulding\)](https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb) | [Calvin Harris](https://open.spotify.com/artist/5JIdaV4V6IaLMQG6uzAhJY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:47 |
 | 7686 | [Skylanders Main Theme](https://open.spotify.com/track/0iv3wH3PuY0tjeUy5Z3I2S) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Skylanders: Spyro's Adventure \(Original Game Soundtrack\)](https://open.spotify.com/album/4WnZqinJEVatq14X4BXOx5) | 2:13 |
 | 7687 | [dothatshit!](https://open.spotify.com/track/1KzNsOkpQthVwpCJrADJEQ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:04 |
 | 7688 | [Holiday](https://open.spotify.com/track/1Bjy9ZtwMle3uhVgoBgiGN) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Holiday Night \- The 6th Album](https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF) | 3:19 |
@@ -8443,5 +8443,10 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8433 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 |
 | 8434 | [SOUVENIR](https://open.spotify.com/track/3GLSPr5dyhrNBvDPpdoPDK) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Iris](https://open.spotify.com/album/5FSNEQcyQtmVeizw5j5Y8b) | 4:25 |
 | 8435 | [Angelic Angel](https://open.spotify.com/track/46v8fYqNmVdqCyqiVeeSjj) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [μ's Complete BEST BOX \(Chapter.12\)](https://open.spotify.com/album/0pkmGenaj8UzPldSgoC2qE) | 4:56 |
+| 8436 | [キミのくせに!](https://open.spotify.com/track/2EgFitP5szGlhglt4P0wN7) | [lily white](https://open.spotify.com/artist/0AVxxoSuVTDb0JamZGKmmA) | [μ's Complete BEST BOX \(Chapter.09\)](https://open.spotify.com/album/56r4XvKUMrmB9kcRFIbZmv) | 3:57 |
+| 8437 | [A song for You! You? You!!](https://open.spotify.com/track/1TLDe7LHaRGh3nxPl1cKHG) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [A song for You! You? You!!](https://open.spotify.com/album/6QYnlFEi1gI9gXvOGwUK2J) | 5:50 |
+| 8438 | [Round ＆ Laundry](https://open.spotify.com/track/2iY4oU7WUKKfTXowEAVxsV) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1](https://open.spotify.com/album/54hb2cgal71xCmoC9EB4IW) | 3:12 |
+| 8439 | [HAPPY PARTY TRAIN](https://open.spotify.com/track/79lPN4KsjswcqoKDUGn16h) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015〜2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:37 |
+| 8440 | [soldier game](https://open.spotify.com/track/0xzwcaP8fD9rWgIBUM3BJ1) | [西木野真姫\(CV.Pile\)](https://open.spotify.com/artist/2OU9W3Nbb1UaIr9SmZuLdK), [園田海未\(CV.三森すずこ\)](https://open.spotify.com/artist/6U3OZAgzVyqqqz87z6mse7), [絢瀬絵里\(CV.南條愛乃\)](https://open.spotify.com/artist/1hH0U0CBUFUvzCw8xTJu1R) | [soldier game](https://open.spotify.com/album/7maP3nXdOuFwLlLwwcdQIM) | 3:41 |
 
-Snapshot ID: `AAALl5c9jGkRxQCUXXM+1q9Pc1qRrmn9`
+Snapshot ID: `AAALnoAB89HCaSpgMEcuPOy5cri4By7Z`

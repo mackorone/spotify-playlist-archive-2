@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 featuring HOL! + Waka Flocka Flame",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 featuring Subtronics",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 108800,
       "name": "03 Honda",
       "url": "https://open.spotify.com/track/41eaZucQZKiNguOtJ5ZuUW"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 186666,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/00PY9WzRFF4inMX6Fg0iwd"
@@ -3273,6 +3273,24 @@
     },
     {
       "album": {
+        "name": "BBFL",
+        "url": "https://open.spotify.com/album/0CodZZC4AQt9FtcZTdM4EB"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "BBFL",
+      "url": "https://open.spotify.com/track/0pqlIvYxalvFLP1Oje5zD3"
+    },
+    {
+      "album": {
         "name": "MIDHEAVEN: OPUS 03",
         "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
       },
@@ -3954,7 +3972,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 191800,
       "name": "Blood On My Hands",
       "url": "https://open.spotify.com/track/6kMqtoG4GUMjCSorLD6Max"
@@ -4749,6 +4767,28 @@
     },
     {
       "album": {
+        "name": "BrAiNdEaD",
+        "url": "https://open.spotify.com/album/7z53Y9A1QRPNobhODXj4fH"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164610,
+      "name": "BrAiNdEaD",
+      "url": "https://open.spotify.com/track/6z6ffepNBAyt3p68b9aPfv"
+    },
+    {
+      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE"
       },
@@ -5328,7 +5368,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 173846,
       "name": "BURN ME DOWN",
       "url": "https://open.spotify.com/track/2OrxKVkjOlbM19UN2dn4Iu"
@@ -8532,7 +8572,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 207887,
       "name": "DIAMONDS",
       "url": "https://open.spotify.com/track/0w1pczzsvV3CmYY9VlyeoO"
@@ -9892,7 +9932,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 120000,
       "name": "DUBST3P",
       "url": "https://open.spotify.com/track/17IIGh6GnHhmgoq7yEnzT5"
@@ -11157,6 +11197,28 @@
     },
     {
       "album": {
+        "name": "Eyes Cut Deeper (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/2g487gVxjRBjBwhMVJ4Ldn"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Eyes Cut Deeper (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW"
+    },
+    {
+      "album": {
         "name": "EYES ON ME",
         "url": "https://open.spotify.com/album/7vZcwbfpxJoSlWvcrtGmBB"
       },
@@ -11230,7 +11292,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 156800,
       "name": "FACEDOWN",
       "url": "https://open.spotify.com/track/5bBsJxig0Ls4USQqIukB6I"
@@ -15179,6 +15241,24 @@
     },
     {
       "album": {
+        "name": "HEADLOCK",
+        "url": "https://open.spotify.com/album/2BbKEEnpv0xKn7tGkQYD5u"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "HEADLOCK",
+      "url": "https://open.spotify.com/track/6lnuGOIpbDljQaP9YxADOG"
+    },
+    {
+      "album": {
         "name": "headrush",
         "url": "https://open.spotify.com/album/2fCsgrim7zFbYMOYD97SIs"
       },
@@ -15466,6 +15546,28 @@
       "duration_ms": 229805,
       "name": "Heavy Metal",
       "url": "https://open.spotify.com/track/701sPqgQqlzdBPE8reDeBH"
+    },
+    {
+      "album": {
+        "name": "HEAVYWEIGHT (feat. Space Laces)",
+        "url": "https://open.spotify.com/album/7K6Uie7MRPJhPajairUJzx"
+      },
+      "artists": [
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        },
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "HEAVYWEIGHT (feat. Space Laces)",
+      "url": "https://open.spotify.com/track/6VphpbVkmB65W5EHwPpNrx"
     },
     {
       "album": {
@@ -18854,7 +18956,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 185589,
       "name": "l!sten",
       "url": "https://open.spotify.com/track/7wIxOG0GnM21WueiICVACR"
@@ -20831,6 +20933,28 @@
     },
     {
       "album": {
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/7nx48tDd3OUma5YgfkAV1S"
+      },
+      "artists": [
+        {
+          "name": "ATALI",
+          "url": "https://open.spotify.com/artist/54iphS7cuaMAws0rLK14JD"
+        },
+        {
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/3PMel3HLmAWXHzUyP3ZMuf"
+    },
+    {
+      "album": {
         "name": "MACHINE",
         "url": "https://open.spotify.com/album/34ZXvS2vUviORekLOh9qPA"
       },
@@ -20956,6 +21080,24 @@
       "duration_ms": 234285,
       "name": "Make U SWEAT!",
       "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+    },
+    {
+      "album": {
+        "name": "Make You Move",
+        "url": "https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Make You Move",
+      "url": "https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ"
     },
     {
       "album": {
@@ -22193,6 +22335,28 @@
     },
     {
       "album": {
+        "name": "Mouth Piece",
+        "url": "https://open.spotify.com/album/3myrVCO1twKlfwkjBpvcmD"
+      },
+      "artists": [
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        },
+        {
+          "name": "KARAN!",
+          "url": "https://open.spotify.com/artist/6yP4wtuCtanniMox38L6NE"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203909,
+      "name": "Mouth Piece",
+      "url": "https://open.spotify.com/track/1JG6tCIJPCvy8td4OfTOgd"
+    },
+    {
+      "album": {
         "name": "Move Back",
         "url": "https://open.spotify.com/album/0d2xyxHilLmIIqfugVYOVI"
       },
@@ -22252,7 +22416,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 144000,
       "name": "move! (that body)",
       "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
@@ -23010,6 +23174,28 @@
       "duration_ms": 153931,
       "name": "Next Up",
       "url": "https://open.spotify.com/track/70PesUD5AQBzkhqVRoEDzC"
+    },
+    {
+      "album": {
+        "name": "Nexus",
+        "url": "https://open.spotify.com/album/7FohOMeifnnZOsoDFOybRZ"
+      },
+      "artists": [
+        {
+          "name": "G-REX",
+          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+        },
+        {
+          "name": "STUCA",
+          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151020,
+      "name": "Nexus",
+      "url": "https://open.spotify.com/track/7Db3ixbu5fo3uUZ2ZyQDKW"
     },
     {
       "album": {
@@ -25001,6 +25187,24 @@
     },
     {
       "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/1ZHtmHzf0tkecVFCYC2hBQ"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "OVERDRIVE",
+      "url": "https://open.spotify.com/track/3k0W2VVsHCMub8iS7kKb8S"
+    },
+    {
+      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/2P1ggyaxbrZlkqW1WuVZsV"
       },
@@ -26548,7 +26752,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 219428,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/753rbQGinx1824G2x3k5HM"
@@ -28080,7 +28284,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 154285,
       "name": "Riviera",
       "url": "https://open.spotify.com/track/1f2JxBpYnQD2LRTnuLaTlk"
@@ -28358,7 +28562,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 185142,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l"
@@ -29621,6 +29825,24 @@
     },
     {
       "album": {
+        "name": "SHAKEUP",
+        "url": "https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "SHAKEUP",
+      "url": "https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7"
+    },
+    {
+      "album": {
         "name": "For The Crystal Children",
         "url": "https://open.spotify.com/album/51iEQt7vje9pFPgxVYvuGx"
       },
@@ -30068,7 +30290,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 153818,
       "name": "SICK FUCK",
       "url": "https://open.spotify.com/track/77A94wc7fOY0vuMffWELYJ"
@@ -31654,6 +31876,32 @@
       "duration_ms": 156924,
       "name": "STFU",
       "url": "https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw"
+    },
+    {
+      "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/3FIpsiZhamKYiUQ3hquB7G"
+      },
+      "artists": [
+        {
+          "name": "Malaa (Alter Ego)",
+          "url": "https://open.spotify.com/artist/23OllNLLdftM8a6HhEhAi9"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/4fkKvnl1ndRKRzJBwWnCdT"
     },
     {
       "album": {
@@ -37448,6 +37696,28 @@
       "duration_ms": 172682,
       "name": "WONKY",
       "url": "https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw"
+    },
+    {
+      "album": {
+        "name": "WONKY SHIT",
+        "url": "https://open.spotify.com/album/7g4Yj4gmORFhAJf11XXuOL"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "J. Plaza",
+          "url": "https://open.spotify.com/artist/5byn1BtQQdomxOZgqd2S0Y"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "WONKY SHIT",
+      "url": "https://open.spotify.com/track/1HzfJVzAFhHxas1hpco7bs"
     },
     {
       "album": {

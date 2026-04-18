@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Josiah and the Bonnevilles",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Kevin Morby",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 144145,
       "name": "105",
       "url": "https://open.spotify.com/track/2i5R1iPGTfmycvWURBj4Vo"
@@ -2931,6 +2931,24 @@
     },
     {
       "album": {
+        "name": "Always on Time",
+        "url": "https://open.spotify.com/album/0Ffw2yoTKxljzSwk7DI86b"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294880,
+      "name": "Always on Time",
+      "url": "https://open.spotify.com/track/1JU9FC6MmeaN9hZEwEFfYp"
+    },
+    {
+      "album": {
         "name": "Always Some MF",
         "url": "https://open.spotify.com/album/7kySkdJL5cB48aMcxNdEIc"
       },
@@ -4205,6 +4223,24 @@
     },
     {
       "album": {
+        "name": "Are We Famous",
+        "url": "https://open.spotify.com/album/2wenx7l4XGj2Dst6F1zm6H"
+      },
+      "artists": [
+        {
+          "name": "Matt Hartke",
+          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213360,
+      "name": "Are We Famous",
+      "url": "https://open.spotify.com/track/5j65rqnKB9XsI5e8ddCvwF"
+    },
+    {
+      "album": {
         "name": "Are You Dreaming",
         "url": "https://open.spotify.com/album/39dwFOgWi18oj1rwbLekwQ"
       },
@@ -5195,6 +5231,24 @@
     },
     {
       "album": {
+        "name": "Badlands",
+        "url": "https://open.spotify.com/album/0lMhnhcPMq08GzLqgu9Kw9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234159,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/0uGdGEN2qDOFQ8mmkIuWyA"
+    },
+    {
+      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
       },
@@ -6102,7 +6156,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 188988,
       "name": "Best of Our Possible Lives",
       "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
@@ -8300,7 +8354,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 116666,
       "name": "branch bent",
       "url": "https://open.spotify.com/track/3ICa8SGMQ0r9s9xj6RhbuO"
@@ -10367,6 +10421,24 @@
     },
     {
       "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193658,
+      "name": "Catch A Fire",
+      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
+    },
+    {
+      "album": {
         "name": "Catching Butterflies",
         "url": "https://open.spotify.com/album/6uAmQemgkQ1PKS1zGdye4F"
       },
@@ -12154,6 +12226,24 @@
       "duration_ms": 256107,
       "name": "complex (demo)",
       "url": "https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB"
+    },
+    {
+      "album": {
+        "name": "Conclus\u00e3o",
+        "url": "https://open.spotify.com/album/558KhhJ6MhkqHlgiB4IoAc"
+      },
+      "artists": [
+        {
+          "name": "Lau Ro",
+          "url": "https://open.spotify.com/artist/541ER2icL7JZDTQ2SeiOGJ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222160,
+      "name": "Conclus\u00e3o",
+      "url": "https://open.spotify.com/track/4edMM3tBl3WFKA3z79SfJt"
     },
     {
       "album": {
@@ -14468,6 +14558,28 @@
       "duration_ms": 360720,
       "name": "Dearly Missed",
       "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
+    },
+    {
+      "album": {
+        "name": "Death Grip",
+        "url": "https://open.spotify.com/album/1llv8Op2jSF1108gJmw8lh"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        },
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177974,
+      "name": "Death Grip",
+      "url": "https://open.spotify.com/track/3qtqyrxRDuG0ORWZ1BoIUv"
     },
     {
       "album": {
@@ -17483,6 +17595,24 @@
     },
     {
       "album": {
+        "name": "Eastern Time",
+        "url": "https://open.spotify.com/album/7219GK59ut1GptItHdsERG"
+      },
+      "artists": [
+        {
+          "name": "Zach Seabaugh",
+          "url": "https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198085,
+      "name": "Eastern Time",
+      "url": "https://open.spotify.com/track/6VlOKgkfQQDytXIj8uZUzi"
+    },
+    {
+      "album": {
         "name": "Eastside",
         "url": "https://open.spotify.com/album/0vXSm7NqmYi2fTkWECZPXP"
       },
@@ -19207,6 +19337,28 @@
     },
     {
       "album": {
+        "name": "Fade Into You",
+        "url": "https://open.spotify.com/album/1hBXcVtSiaYkflIiqjQfAV"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269875,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/37kGpZDrqQekpIQswHYHw6"
+    },
+    {
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/4oS4SNU2v3tSJx9RYhMPC0"
       },
@@ -20370,6 +20522,24 @@
       "duration_ms": 173946,
       "name": "Finest Work",
       "url": "https://open.spotify.com/track/0ry7byytV1WoXLtUreDvDU"
+    },
+    {
+      "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/69yBujeTPGK2rC2qFcdS9X"
+      },
+      "artists": [
+        {
+          "name": "Sean Solomon",
+          "url": "https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200293,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/4tGVYB2GmhidTUN7hv6Rwt"
     },
     {
       "album": {
@@ -21898,7 +22068,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 211304,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/5U6sbkexYOvmOkhIYaprrP"
@@ -25972,7 +26142,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 371671,
       "name": "Hearken",
       "url": "https://open.spotify.com/track/4xEBLCaklcfiEk0d6BIeZe"
@@ -26102,7 +26272,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 128733,
       "name": "Heartbreak City",
       "url": "https://open.spotify.com/track/3xRUh1mHl0OVOliGFlOWhY"
@@ -29196,7 +29366,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 177755,
       "name": "Hurt You Now",
       "url": "https://open.spotify.com/track/69rFRPzGqm52dzSaTF7x5S"
@@ -32292,7 +32462,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 256481,
       "name": "Imidiwan Takyadam - feat. Jos\u00e9 Gonz\u00e1lez",
       "url": "https://open.spotify.com/track/2b4fBioLLqcnL4reo9XtRu"
@@ -32810,7 +32980,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 193888,
       "name": "In the Middle of It",
       "url": "https://open.spotify.com/track/7hZUlbdkawpMvh54ZMyFGF"
@@ -34394,7 +34564,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 285240,
       "name": "Julia",
       "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
@@ -35050,7 +35220,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 235448,
       "name": "Kindness Isn't Common Sense",
       "url": "https://open.spotify.com/track/0ZJXnr1jOYENd4lrW4MKNu"
@@ -39535,6 +39705,24 @@
     },
     {
       "album": {
+        "name": "Tragic Magic",
+        "url": "https://open.spotify.com/album/7oLX84jA6AHnCyELknktHA"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271087,
+      "name": "Maker",
+      "url": "https://open.spotify.com/track/2OX9uITulRbPtILYQ2totl"
+    },
+    {
+      "album": {
         "name": "Strange Medicine",
         "url": "https://open.spotify.com/album/5lQLi9nBKgQvdhjceYjR6D"
       },
@@ -42667,6 +42855,24 @@
     },
     {
       "album": {
+        "name": "My Favourite Book Is One I\u2019ve Read A Bunch / Little Rib",
+        "url": "https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3"
+      },
+      "artists": [
+        {
+          "name": "Dermot Henry",
+          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214549,
+      "name": "My Favourite Book Is One I\u2019ve Read A Bunch",
+      "url": "https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC"
+    },
+    {
+      "album": {
         "name": "My First Heartbreak",
         "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
       },
@@ -44327,6 +44533,24 @@
     },
     {
       "album": {
+        "name": "No Driver",
+        "url": "https://open.spotify.com/album/1mtcNZvxU9QfWH9RmUkOrH"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228840,
+      "name": "No Driver",
+      "url": "https://open.spotify.com/track/2Md8LNHMvHDN8Ed4GwRCw3"
+    },
+    {
+      "album": {
         "name": "No Getting Over You",
         "url": "https://open.spotify.com/album/050wCYmVFvCFknJr2sLINf"
       },
@@ -45980,6 +46204,24 @@
       "duration_ms": 195705,
       "name": "On Its Way",
       "url": "https://open.spotify.com/track/0INfPpnTk4tAu64juzAffA"
+    },
+    {
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/4cSBzZucKih37AdrzGvFkL"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275519,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/5OFGjQaMRex7vfrHPruQZj"
     },
     {
       "album": {
@@ -48390,6 +48632,24 @@
       "duration_ms": 136013,
       "name": "Pink Balloon",
       "url": "https://open.spotify.com/track/1Mc8HwZY1aDTsZC0hrcixb"
+    },
+    {
+      "album": {
+        "name": "Pink Living Room",
+        "url": "https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236739,
+      "name": "Pink Living Room",
+      "url": "https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar"
     },
     {
       "album": {
@@ -55055,6 +55315,24 @@
     },
     {
       "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/4PnsPNH41o40lO1TjXZufB"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193146,
+      "name": "Silver Wave",
+      "url": "https://open.spotify.com/track/5dsWR4AuIjIVi5DWj7slaB"
+    },
+    {
+      "album": {
         "name": "Silverware",
         "url": "https://open.spotify.com/album/0UShYI4QY1XaiscbmOAAKd"
       },
@@ -57620,7 +57898,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 234672,
       "name": "Staring At The Sun",
       "url": "https://open.spotify.com/track/5ZrdwjbvmSuz79vQhnVRCO"
@@ -58318,6 +58596,24 @@
       "duration_ms": 190714,
       "name": "Stones & Waves",
       "url": "https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y"
+    },
+    {
+      "album": {
+        "name": "Storybook Song",
+        "url": "https://open.spotify.com/album/6s3R07uwJtzYAmH7P1dC1k"
+      },
+      "artists": [
+        {
+          "name": "gabrielle hope",
+          "url": "https://open.spotify.com/artist/5VSQfk6IkMUb8IVxo3mtPt"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192844,
+      "name": "Storybook Song",
+      "url": "https://open.spotify.com/track/2HNu2cPLdVBxDLhGc8xR0j"
     },
     {
       "album": {
@@ -60629,6 +60925,24 @@
     },
     {
       "album": {
+        "name": "So The Sun Can Pour",
+        "url": "https://open.spotify.com/album/2FJNdtergBuQ1q2qOo5IBe"
+      },
+      "artists": [
+        {
+          "name": "Hayden Everett",
+          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255395,
+      "name": "Taylor",
+      "url": "https://open.spotify.com/track/49Ya4VAhgiUgABC0XnDhOE"
+    },
+    {
+      "album": {
         "name": "Until The Comet Came",
         "url": "https://open.spotify.com/album/1Ag9sz7rFDlTiHtacxRQ17"
       },
@@ -62628,7 +62942,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 238321,
       "name": "The Last Armchair",
       "url": "https://open.spotify.com/track/5KIfLBaXqyddfrQkM3NJAA"
@@ -66334,7 +66648,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 160775,
       "name": "Tracksuit",
       "url": "https://open.spotify.com/track/2dwYgqWg56JlVCRSnD5dWU"
@@ -68122,7 +68436,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 258715,
       "name": "Wait",
       "url": "https://open.spotify.com/track/42rejkV5A3mQdNa9G9u1Kd"
@@ -69150,7 +69464,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 260995,
       "name": "We Almost Made It",
       "url": "https://open.spotify.com/track/0tRDMVjiYuq0CbPDHVNVKz"
@@ -70831,6 +71145,28 @@
     },
     {
       "album": {
+        "name": "Where\u2019s Your Love Now (Waxahatchee Version)",
+        "url": "https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321140,
+      "name": "Where\u2019s Your Love Now - Waxahatchee Version",
+      "url": "https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv"
+    },
+    {
+      "album": {
         "name": "Which Way",
         "url": "https://open.spotify.com/album/4kpQZIxtqmteE5mYGsW2Mg"
       },
@@ -70943,6 +71279,24 @@
     },
     {
       "album": {
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/2uB5nyQCsFejw9e0cpzlVm"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/1Lk4rIjW0TcZ0KGTClWsPE"
+    },
+    {
+      "album": {
         "name": "White Horses",
         "url": "https://open.spotify.com/album/3Ike2bIm9FObOUEwXQim6O"
       },
@@ -70958,7 +71312,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 151548,
       "name": "White Horses",
       "url": "https://open.spotify.com/track/5B0YKmpBDLkIz9gwtmGSBJ"

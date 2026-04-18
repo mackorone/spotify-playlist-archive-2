@@ -2533,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Aceite Nuevo",
+        "url": "https://open.spotify.com/album/7rMtLeQnPwRVxStnf5yS8R"
+      },
+      "artists": [
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424700,
+      "name": "Aceite Nuevo",
+      "url": "https://open.spotify.com/track/2tvuicnkKIaXmjRxEScJmh"
+    },
+    {
+      "album": {
         "name": "ACELERAA\u00c1",
         "url": "https://open.spotify.com/album/2TKn4GY7C2jZ7DtPJo0noi"
       },
@@ -3862,7 +3880,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 229152,
       "name": "ALL THE LOVE (feat. Andre Troutman)",
       "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
@@ -5456,7 +5474,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 540114,
       "name": "Aparto Todo",
       "url": "https://open.spotify.com/track/0vvqnyFB7jGUQm26hrt9hy"
@@ -22678,7 +22696,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -28670,7 +28688,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 169330,
       "name": "FATHER (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
@@ -49700,6 +49718,24 @@
       "duration_ms": 202478,
       "name": "Mi Gata",
       "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
+    },
+    {
+      "album": {
+        "name": "Mi gran amor",
+        "url": "https://open.spotify.com/album/35PM69zUdeLkVOvwsl8zWx"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165081,
+      "name": "Mi gran amor",
+      "url": "https://open.spotify.com/track/0h9OowuDE24mx1dZPCFo7c"
     },
     {
       "album": {
@@ -78990,7 +79026,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 191578,
       "name": "Tienes - Remix (Prod. by Dj Honda)",
       "url": "https://open.spotify.com/track/7MbqAiyl4FtyGwSLjT3g70"
@@ -81882,6 +81918,24 @@
       "duration_ms": 191020,
       "name": "T\u00edteres - Ft. Nesi",
       "url": "https://open.spotify.com/track/3Zp7EoTbIi4URlTACQJmIv"
+    },
+    {
+      "album": {
+        "name": "T\u00f3picos y tiempo",
+        "url": "https://open.spotify.com/album/5TIRcop8joH5X7vnOEkCkp"
+      },
+      "artists": [
+        {
+          "name": "Loreto Sesma",
+          "url": "https://open.spotify.com/artist/4Ga7dYGRufcyMV9xxWIlU2"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150090,
+      "name": "T\u00f3picos y tiempo",
+      "url": "https://open.spotify.com/track/3qn6fKtPiYwuot1GxMYHQF"
     },
     {
       "album": {

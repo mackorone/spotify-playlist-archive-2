@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: YUVI
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,665 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,666 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 64 | [Чорні Птахи](https://open.spotify.com/track/2hujOwcGE21eCQHMz61y75) | [Woman Based Mechanics](https://open.spotify.com/artist/0HAHqBJrbpBocXeVJ90NoO) | [Чорні Птахи](https://open.spotify.com/album/5HQTd4eWOXHDmqYVfkP7ST) | 3:29 |
 | 65 | [Килим на стіні](https://open.spotify.com/track/3pMAcO1Dmv1OEQBHBTa2Pc) | [INSHAYA](https://open.spotify.com/artist/0KRduEGNhx9fs3h3cxv2ON) | [Килим на стіні](https://open.spotify.com/album/2iRuKkZQUHXqBPMuq8JnVh) | 2:56 |
 
-Snapshot ID: `AAAAAAdcsowbR43WERewTu+4le/6vLxP`
+Snapshot ID: `AAAAADNsB7+G3jiEdte4dwC/2dzxwEpR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Flaco G in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,382 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,425 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 43 | [GIOVANE K](https://open.spotify.com/track/4dB7n000x0cP71A4BhWnAu) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [GIOVANE K](https://open.spotify.com/album/21D5q29NdDolvQzfTpJxYh) | 2:15 |
 | 44 | [9MILLIMETRI](https://open.spotify.com/track/5WwZG4HIxAEF5flOeoG4Bn) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [9MILLIMETRI](https://open.spotify.com/album/1fNoI35Kz2ImcqXOzat0br) | 2:48 |
 | 45 | [SOGNO AMERICANO](https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 |
-| 46 | [Tinky Winky \(feat\. Pitta & Macello\)](https://open.spotify.com/track/0CcRHkvHChzo9wJDDtzR2L) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT) | [Tinky Winky \(feat\. Pitta & Macello\)](https://open.spotify.com/album/1oOMmNU5XeQPApDIfU1SHW) | 3:10 |
+| 46 | [Tinky Winky \(feat\. Pitta & Macello\)](https://open.spotify.com/track/0CcRHkvHChzo9wJDDtzR2L) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [Tinky Winky \(feat\. Pitta & Macello\)](https://open.spotify.com/album/1oOMmNU5XeQPApDIfU1SHW) | 3:10 |
 | 47 | [MONEY MACHINE \(feat\. Lazza & Tony Effe\)](https://open.spotify.com/track/4txJR7LWq7AQYNYoBCf0gB) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:48 |
 | 48 | [devo cambiare i vestiti \(feat\. Lubi, Astro\)](https://open.spotify.com/track/33tSYUrYTXKdxh3jqHCpo7) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy), [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [NO REGULAR MUSIC 2.5](https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n) | 2:21 |
 | 49 | [Potere \(feat\. Tony Boy\)](https://open.spotify.com/track/6MwOss3bVsCw0VFCkzVT73) | [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Potere \(feat\. Tony Boy\)](https://open.spotify.com/album/599BKohPCJPOW0r19HvOyY) | 3:15 |

@@ -2,7 +2,7 @@
 
 ### [Indie Twang](https://open.spotify.com/playlist/37i9dQZF1DWZ1RmpoqILAO)
 
-> you met me at a very indie twang time in my life..\. Sluice on the cover
+> you met me at a very indie twang time in my life...This Is Lorelei on the cover
 
 359 songs - 23 hr 6 min
 

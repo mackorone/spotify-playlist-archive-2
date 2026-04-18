@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 565326,
+  "num_followers": 565440,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad7VAAAAAAAt/6Va495p89UCaqXo7Jpg",
+  "snapshot_id": "aeAmgAAAAADMk5FG78sHxoCDhXpZdeCT",
   "tracks": [
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "See You On the Other Side",
-        "url": "https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF"
+        "name": "The Nothing",
+        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 254760,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/6B1uhU0w4fk7nNeylg41Xq"
+      "duration_ms": 225731,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5KVISJL93AgXcQG0WRJ3Gq"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nothing",
-        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
+        "name": "See You On the Other Side",
+        "url": "https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 225731,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/5KVISJL93AgXcQG0WRJ3Gq"
+      "duration_ms": 254760,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/6B1uhU0w4fk7nNeylg41Xq"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > amazarashi ASIA TOUR 2026 in SEOUL 04.18 @올림픽공원 올림픽홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,663 likes - 20 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,655 likes - 20 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 19 | [命にふさわしい](https://open.spotify.com/track/6oPxAp4sGNnWnd1BNNQp1J) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate\(Special Edition\)](https://open.spotify.com/album/4Ct6sYCEbQHNkMiBk3zV3J) | 5:52 |
 | 20 | [小市民イーア](https://open.spotify.com/track/6rPUD1i6oZl8IGt7w5EgNI) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [ゴースト](https://open.spotify.com/album/2TpBEh1ws3G929qObZ7jCB) | 3:41 |
 
-Snapshot ID: `AAAAAComXqDYfzaTma0vWwESpRweShEn`
+Snapshot ID: `AAAAAKQUAmuRNicTrQh0zxvOEn4ip2N1`

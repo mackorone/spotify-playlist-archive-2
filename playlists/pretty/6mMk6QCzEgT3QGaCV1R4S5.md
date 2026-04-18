@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 
 > Get moving on the dancefloor with some big room beats with the biggest dance hits in 2025
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,317 likes - 99 songs - 5 hr 22 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,314 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 | 98 | [Freaky Like That](https://open.spotify.com/track/7bDFVicEweylijRmYV3fCf) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Bodyology](https://open.spotify.com/album/5qok8IPBfEexiGz31oz3H6) | 2:21 |
 | 99 | [I Feel Love](https://open.spotify.com/track/2b65InUDd78nPS9fbuElA0) | [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n) | [I Feel Love](https://open.spotify.com/album/2uGKUwthbzObN2reu5PwIV) | 3:28 |
 
-Snapshot ID: `AAAi/oun9nS0HYVzLuP2oaRc/83dCUrh`
+Snapshot ID: `AAAjALDV4MtVBZbBIjcj4EfI4hn5gXa3`

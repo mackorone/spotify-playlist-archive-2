@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad7VAAAAAAB9a9343RR02DrOUkPByur0",
+  "snapshot_id": "aeAmgAAAAACdigse+g1YayLHAUe1EEHe",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ventana (Remasterizado 2020)",
-        "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 421311,
-      "name": "Mira Ni\u00f1ita - 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/1rGtk9RA9tX52rB1YNkUmX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alturas de Macchu Picchu",
         "url": "https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 286506,
       "name": "Sube a Nacer Conmigo Hermano",
       "url": "https://open.spotify.com/track/3EvvlSne1RKjPYJsi1qKpl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Ventana (Remasterizado 2020)",
+        "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 421311,
+      "name": "Mira Ni\u00f1ita - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/1rGtk9RA9tX52rB1YNkUmX"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ventana (Remasterizado 2020)",
-        "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 345096,
-      "name": "Todos Juntos - 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/2K0z6L77gmn3Wl0MHMtE0G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alturas de Macchu Picchu",
         "url": "https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 672253,
       "name": "La Poderosa Muerte",
       "url": "https://open.spotify.com/track/6ArNvGUEBngQ9sliZXeGrr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Ventana (Remasterizado 2020)",
+        "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 345096,
+      "name": "Todos Juntos - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/2K0z6L77gmn3Wl0MHMtE0G"
     },
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alturas de Macchu Picchu",
+        "url": "https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 328133,
+      "name": "Amor Americano",
+      "url": "https://open.spotify.com/track/6jjhtVX8EMP7GfxOwWV7SS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trilog\u00eda el Rencuentro",
         "url": "https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 240560,
       "name": "Valpara\u00edso - Versi\u00f3n 1996",
       "url": "https://open.spotify.com/track/1SwVz4P6vzrjS7ce3N860c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alturas de Macchu Picchu",
-        "url": "https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 328133,
-      "name": "Amor Americano",
-      "url": "https://open.spotify.com/track/6jjhtVX8EMP7GfxOwWV7SS"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "La Vida M\u00e1gica \u00a1Ay, S\u00ed!",
-      "url": "https://open.spotify.com/track/5GkXLuX2TZ0RIl0aJcCw1H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alturas de Macchu Picchu",
         "url": "https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 322413,
       "name": "\u00c1guila Sideral",
       "url": "https://open.spotify.com/track/5KiAfMWWdmUpoYI0NLIDCq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "La Vida M\u00e1gica \u00a1Ay, S\u00ed!",
+      "url": "https://open.spotify.com/track/5GkXLuX2TZ0RIl0aJcCw1H"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 192672,
-      "name": "Frescura Antigua",
-      "url": "https://open.spotify.com/track/1Jy9T9TKNbUcJCFnCTnG2V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alturas de Macchu Picchu",
         "url": "https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 136560,
       "name": "Del Aire al Aire",
       "url": "https://open.spotify.com/track/1MzUpAQrUIPT6qE27YnnBO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 192672,
+      "name": "Frescura Antigua",
+      "url": "https://open.spotify.com/track/1Jy9T9TKNbUcJCFnCTnG2V"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 461928,
-      "name": "Canci\u00f3n del Sur",
-      "url": "https://open.spotify.com/track/3QpRCEJpMHzoqZIY8OjgGw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alturas de Macchu Picchu",
         "url": "https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 339000,
       "name": "Antigua Am\u00e9rica",
       "url": "https://open.spotify.com/track/4AgZfnB0Z1gtYAV5sdVD9y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 461928,
+      "name": "Canci\u00f3n del Sur",
+      "url": "https://open.spotify.com/track/3QpRCEJpMHzoqZIY8OjgGw"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 586893,
-      "name": "Corre Que Te Pillo",
-      "url": "https://open.spotify.com/track/7ynwdIuc9g4jjw0blnVnVB"
+      "duration_ms": 209800,
+      "name": "Debajo de las Higueras",
+      "url": "https://open.spotify.com/track/7ukGH5jqrIyuTxyF8vXIvG"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 209800,
-      "name": "Debajo de las Higueras",
-      "url": "https://open.spotify.com/track/7ukGH5jqrIyuTxyF8vXIvG"
+      "duration_ms": 586893,
+      "name": "Corre Que Te Pillo",
+      "url": "https://open.spotify.com/track/7ynwdIuc9g4jjw0blnVnVB"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ventana (Remasterizado 2020)",
-        "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 283189,
-      "name": "La Quebr\u00e1 del Aj\u00ed - 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/4DcL14AtBwYVpCKq5Lvz2a"
+      "duration_ms": 302560,
+      "name": "Cholito Pantal\u00f3n Blanco",
+      "url": "https://open.spotify.com/track/20SP3B4f0aXF4MVVsFAtty"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilog\u00eda el Rencuentro",
-        "url": "https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH"
+        "name": "La Ventana (Remasterizado 2020)",
+        "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 302560,
-      "name": "Cholito Pantal\u00f3n Blanco",
-      "url": "https://open.spotify.com/track/20SP3B4f0aXF4MVVsFAtty"
+      "duration_ms": 283189,
+      "name": "La Quebr\u00e1 del Aj\u00ed - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/4DcL14AtBwYVpCKq5Lvz2a"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 257760,
-      "name": "Ni\u00f1a Serrana",
-      "url": "https://open.spotify.com/track/5RuS5afTt26XtXfbnAoyv7"
+      "duration_ms": 242200,
+      "name": "Aguamarina",
+      "url": "https://open.spotify.com/track/5cN62o6B0GORay2k1tFsDT"
     },
     {
       "added_at": null,
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 242200,
-      "name": "Aguamarina",
-      "url": "https://open.spotify.com/track/5cN62o6B0GORay2k1tFsDT"
+      "duration_ms": 257760,
+      "name": "Ni\u00f1a Serrana",
+      "url": "https://open.spotify.com/track/5RuS5afTt26XtXfbnAoyv7"
     }
   ],
   "unique_name": "This Is Los Jaivas",

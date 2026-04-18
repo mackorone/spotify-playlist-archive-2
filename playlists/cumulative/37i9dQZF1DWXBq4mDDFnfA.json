@@ -721,6 +721,40 @@
     },
     {
       "album": {
+        "name": "Letters from Paris (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2h2G8u7GHvYwpVlD5IxCrB"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        },
+        {
+          "name": "Louiguy",
+          "url": "https://open.spotify.com/artist/5YBGb1FUahcLMQj9F4C6B3"
+        },
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        },
+        {
+          "name": "Carducci String Quartet",
+          "url": "https://open.spotify.com/artist/4cKOYjPLQGb79166NxfeyI"
+        },
+        {
+          "name": "Thea Sayer",
+          "url": "https://open.spotify.com/artist/714JS9rlnrMrl26o9zevTq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210053,
+      "name": "La vie en rose (Arr. Snowden for Guitar & String Ensemble)",
+      "url": "https://open.spotify.com/track/1s8ja7NQFsVhOq5DjbvdHh"
+    },
+    {
+      "album": {
         "name": "Classical Guitar Music for Reading and Studying",
         "url": "https://open.spotify.com/album/0UAfu361s41QtSeGArjPYq"
       },

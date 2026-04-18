@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-558 songs - 1 day 3 hr 6 min
+559 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2023-04-06 | 2024-01-18 |
 | [Corfu](https://open.spotify.com/track/26Ai0IMyGM4cGA0Dp2uTjm) | [The Blue Sun](https://open.spotify.com/artist/7IovadbLWNyXi5BWqo98gD) | [The Blue Sun](https://open.spotify.com/album/2vYFhbACGYRpPk5tlH0drO) | 3:48 | 2023-04-06 | 2024-04-03 |
 | [Cosmic Bells](https://open.spotify.com/track/5jetoEQ0EDEXF5RtwODdw9) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Cosmic Bells](https://open.spotify.com/album/58r9xAtFKqSt6CGWLz3kmF) | 2:33 | 2024-05-20 | 2024-10-16 |
-| [Cosmic Gaze](https://open.spotify.com/track/5FqgYw0PF7lBbgf63IwFkT) | [Elijah Bitter](https://open.spotify.com/artist/0dJCfJF8Gex94fMVqYYD1m) | [Cosmic Gaze](https://open.spotify.com/album/7KacFSFGMbPzw2cCppCHEG) | 3:24 | 2024-09-05 |  |
+| [Cosmic Gaze](https://open.spotify.com/track/5FqgYw0PF7lBbgf63IwFkT) | [Elijah Bitter](https://open.spotify.com/artist/0dJCfJF8Gex94fMVqYYD1m) | [Cosmic Gaze](https://open.spotify.com/album/7KacFSFGMbPzw2cCppCHEG) | 3:24 | 2024-09-05 | 2026-04-18 |
 | [cosmo tide](https://open.spotify.com/track/6NPc6yHZ0fhjLbkr2O0JeU) | [ẹmi](https://open.spotify.com/artist/3Ls5y8kRsJNOb5OvljWQaU) | [cosmo tide](https://open.spotify.com/album/4HUpDvCVCjjLPSaKP8mcy9) | 2:49 | 2025-03-19 |  |
 | [Cosmos](https://open.spotify.com/track/255QaLyGos50EZcuRY52Ze) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Cosmos](https://open.spotify.com/album/09FueE3QRuEAGavjv676ds) | 2:55 | 2024-11-21 | 2026-03-12 |
 | [Creation](https://open.spotify.com/track/1Q2nWimBEhOpUsl4u8Bumw) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Creation](https://open.spotify.com/album/2MmtENlcU7GpS2CjVzu76f) | 3:19 | 2024-11-21 | 2026-03-12 |
@@ -204,7 +204,7 @@
 | [Filaments In The Dark](https://open.spotify.com/track/6ydoT7msnxWSz7jhMxC539) | [Into A Dream](https://open.spotify.com/artist/4V3QwXoUMFmSF1aJ934nbS) | [The Silent Mind](https://open.spotify.com/album/40YwLU6A5En5HNNUk27z8H) | 3:21 | 2023-04-06 | 2024-01-18 |
 | [Fill You In](https://open.spotify.com/track/3PWJLmavjdgyN1PgNc2g8y) | [Nea Thomas](https://open.spotify.com/artist/28tnxZs2E0Gs4r8xGcgG8J) | [Fill You In](https://open.spotify.com/album/0S6vKISn4KY3C9dKfJLpQF) | 3:01 | 2023-04-06 | 2024-04-23 |
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2023-04-06 | 2024-01-18 |
-| [Finding My Way, Pt\. 2](https://open.spotify.com/track/5ye1yxRr8FrlWICq9y8LI0) | [Liquid Mind](https://open.spotify.com/artist/2mvZFsiQR3yWcHAroduCTF) | [Liquid Mind VII: Reflection](https://open.spotify.com/album/6RHzPJWBjLCvGsIZUbtuxf) | 4:58 | 2024-04-22 |  |
+| [Finding My Way, Pt\. 2](https://open.spotify.com/track/5ye1yxRr8FrlWICq9y8LI0) | [Liquid Mind](https://open.spotify.com/artist/2mvZFsiQR3yWcHAroduCTF) | [Liquid Mind VII: Reflection](https://open.spotify.com/album/6RHzPJWBjLCvGsIZUbtuxf) | 4:58 | 2024-04-22 | 2026-04-18 |
 | [Finding Shelter](https://open.spotify.com/track/0PszhVpHQQvvI8e4SUBynT) | [Ombra Oscura](https://open.spotify.com/artist/4jjQhCdDZfvCkOVKsQXO4i) | [Finding Shelter](https://open.spotify.com/album/67eByo9yx4hzfrcN9gXiyr) | 2:04 | 2025-07-23 |  |
 | [Fireflies](https://open.spotify.com/track/61lm60zqXsjZnsFyMCEA6O) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [Fireflies](https://open.spotify.com/album/1o9KBYfaQJijVGHXpBOWeh) | 2:53 | 2025-09-24 |  |
 | [Fjord](https://open.spotify.com/track/5F820xSuKiMLpGOV04Xs3c) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Fjord](https://open.spotify.com/album/6uJxTkCL8G3hjXi7S3ejkJ) | 2:54 | 2023-04-06 | 2026-03-12 |
@@ -495,6 +495,7 @@
 | [Tauko](https://open.spotify.com/track/2CzrYJ8mxMNWHSFrc0J2A6) | [Juhani Ahonen](https://open.spotify.com/artist/4ZZFTeqpq5hugMfAdDh4oZ) | [Tauko](https://open.spotify.com/album/7r2p6GpL2HVRJcvdnm6E6s) | 2:46 | 2023-04-06 | 2024-04-23 |
 | [Tawelwch](https://open.spotify.com/track/3dQv95YPj2n9tesVZKN4FT) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Tawelwch](https://open.spotify.com/album/0QlsWt0H3rYHW0nTmuvzIR) | 2:50 | 2023-04-06 | 2024-04-23 |
 | [Tears by the River](https://open.spotify.com/track/6eICHGb5GTaKUhmWEI7Ftr) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Tears by the River](https://open.spotify.com/album/1ZyIHFJiIiLOBMRwRAqaNF) | 2:32 | 2025-03-19 | 2026-03-12 |
+| [Tepid Tides](https://open.spotify.com/track/27Bk1FtbmttzwZhJFcSB06) | [Äre](https://open.spotify.com/artist/2mXYEJdhbHNuRffjicAVML) | [Tepid Tides](https://open.spotify.com/album/2PN4bfrjFT8X4iVJO8W730) | 2:36 | 2026-04-17 |  |
 | [Thaka](https://open.spotify.com/track/6pJ0Pp4wUKqtxU1E5Ssf5j) | [Ammachi](https://open.spotify.com/artist/6OsvGWU797S5XC4lF9LNxj) | [Thaka](https://open.spotify.com/album/3szjMZXhGRW2MS4jVZ0ORx) | 3:20 | 2023-04-06 | 2024-01-18 |
 | [The Broken](https://open.spotify.com/track/5zYA6XdGJbTF5zJGbLyjL3) | [Juni](https://open.spotify.com/artist/68kbxgcI5HmdfhnfW3vkbv) | [The Broken](https://open.spotify.com/album/18FKM6nTXUBpyKRE5185Fb) | 3:03 | 2023-04-06 | 2024-07-09 |
 | [The Butterfly Effect](https://open.spotify.com/track/1WLZuGNHUN8H8ylUbJNO1q) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [The Butterfly Effect](https://open.spotify.com/album/4HRdyd69XKgZgoNbWZoJOo) | 2:55 | 2023-04-06 | 2024-01-18 |

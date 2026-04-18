@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-2,501 songs - 4 day 18 hr 34 min
+2,502 songs - 4 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,8 +896,8 @@
 | [My Love Танюха](https://open.spotify.com/track/0TzSKCLwNINLyxrYb4X6qo) | [Igorek](https://open.spotify.com/artist/02oGBZOjZmZunuS9itG7Yq) | [My Love Танюха](https://open.spotify.com/album/5JR9rr64ffHGW5S4OneeBZ) | 3:48 | 2026-01-18 | 2026-02-04 |
 | [My Love Танюха](https://open.spotify.com/track/4pFopPJRrvXhdXmvSlsJ5A) | [Igorek](https://open.spotify.com/artist/02oGBZOjZmZunuS9itG7Yq) | [Подождём твою мать](https://open.spotify.com/album/0u9FcWftYYtY1AUt3DA5Id) | 3:48 | 2024-02-17 | 2024-02-21 |
 | [My Moon My Man](https://open.spotify.com/track/6mQRbuEmqiAf1ABQYDPwF7) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/5aRmeQVSfJ0R1gjTbGq6mX) | 3:48 | 2025-12-30 | 2026-03-26 |
-| [My Moon My Man](https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:48 | 2025-12-24 | 2026-04-01 |
-| [My Moon My Man](https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:48 | 2025-12-22 |  |
+| [My Moon My Man](https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:48 | 2025-12-24 |  |
+| [My Moon My Man](https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:48 | 2025-12-22 | 2026-04-18 |
 | [my twenty first reason </3](https://open.spotify.com/track/4K475XgrOAIwfIbp0Pks2B) | [wifiskeleton](https://open.spotify.com/artist/4hLAoNv1hzhT4yLcYU12do) | [suburban daredevil](https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK) | 1:45 | 2025-05-14 | 2025-05-16 |
 | [MY TYPE \- Slowed](https://open.spotify.com/track/5smCqaAEcKpArEBVhtaryT) | [DJ ZBK](https://open.spotify.com/artist/4pmKpROq7rAVibM7qR9h6P), [RD12](https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q) | [MY TYPE](https://open.spotify.com/album/4yUHDMHDEl6Th3jPimciMz) | 1:31 | 2025-01-25 | 2025-01-31 |
 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-30 | 2024-02-03 |
@@ -1855,6 +1855,7 @@
 | [Люблю](https://open.spotify.com/track/1xLXgTfojHvAqVuevBQ1Gz) | [Марія Чайковська](https://open.spotify.com/artist/1t6OTC1dbNIqb1jOUnfVQf), [Евгений Соя](https://open.spotify.com/artist/6VkBInowtryUeDgr8CqqEo) | [Люблю](https://open.spotify.com/album/2WbTUQkAzzYSVGYBiI41ED) | 4:53 | 2024-12-11 | 2025-03-01 |
 | [Любовь](https://open.spotify.com/track/6Dwahul5BIUfUiKYir2FXz) | [Dolphin](https://open.spotify.com/artist/2pktDyTJxrLJo7dL2qT1pA) | [Глубина резкости](https://open.spotify.com/album/70GQe37gMb2QhVLfkzdCHt) | 4:19 | 2024-03-01 | 2024-03-27 |
 | [Любовь](https://open.spotify.com/track/05fbTFpcc7ZvJ13MKpmFqx) | [Бонд с кнопкой](https://open.spotify.com/artist/2JrtkA0Z0JxBfEmxL25cP6) | [Дом](https://open.spotify.com/album/7KdfN3YUxLTuMLdlqvqThI) | 3:24 | 2025-10-21 | 2025-10-30 |
+| [Любовь в ресторане](https://open.spotify.com/track/2HvBmepfNc5LJJAuNQ6LC2) | [Isko](https://open.spotify.com/artist/3jKIslLMAzfs1EJ9rKdtPP) | [Любовь в ресторане](https://open.spotify.com/album/7BMjMVmGs2Dbv4qkuIViz1) | 1:29 | 2026-04-17 |  |
 | [любовь для быдла](https://open.spotify.com/track/7i3YzuFAdlbETXLUed8uHi) | [umirai](https://open.spotify.com/artist/0tCyureI6ZSgkXzj0hQcCi), [зефир.](https://open.spotify.com/artist/2LzVV1MgciXMqKVCbsqlop) | [любовь для быдла](https://open.spotify.com/album/2soPqxAc7oQ16qmdCnSqOQ) | 3:03 | 2025-09-10 | 2025-09-28 |
 | [Любят суки](https://open.spotify.com/track/7iTyMRXGbIyGAprE9RMkGR) | [T.A\. Loc](https://open.spotify.com/artist/4vfJAXPi7TumQoEJXWdENP) | [Любят суки](https://open.spotify.com/album/0UzC3UJeN8hjKypgYEgvyN) | 4:06 | 2024-10-24 | 2025-02-03 |
 | [Любят суки](https://open.spotify.com/track/0wvKFdz3tEOoevKHXRPEV1) | [T.A\. Loc](https://open.spotify.com/artist/4vfJAXPi7TumQoEJXWdENP) | [Лучшее](https://open.spotify.com/album/2DWXadKuYuBloK0UAnenIH) | 4:06 | 2024-10-13 | 2024-10-25 |
@@ -2391,7 +2392,7 @@
 | [ХОТЕЛА ЦЕЛОВАТЬ](https://open.spotify.com/track/1lW50Wd6RYQvuvRDbRWTKp) | [ROLDOZZZER](https://open.spotify.com/artist/5O0MDAHpTqHwqdHzLpVgTZ) | [ХОТЕЛА ЦЕЛОВАТЬ](https://open.spotify.com/album/5CMFWEkI6kbSqE0TnwU6h6) | 2:27 | 2025-12-02 | 2025-12-28 |
 | [Хочется тебя касаться](https://open.spotify.com/track/20wwWa61FqDNbNg5CkjaOW) | [AloeVera](https://open.spotify.com/artist/50QfhXI1069kvJI5RPBLM3) | [Сделаем вид](https://open.spotify.com/album/4fysl8Am6JVfWpgtjQSWpc) | 3:04 | 2025-03-13 | 2025-04-29 |
 | [ХОЧУ 18+](https://open.spotify.com/track/5x39VMQPsF1wDgLyhUSZYP) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [Voskresenskii](https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3) | [2007, Ч.1](https://open.spotify.com/album/3X6mGWf1bB8pwtcHDdRvNo) | 2:41 | 2024-06-10 | 2024-06-26 |
-| [Хочу быть как Газан](https://open.spotify.com/track/2ZitqM9FXFrpo5JU486llG) | [Gazan](https://open.spotify.com/artist/4Qdtzv8titXp66B9nwAstz) | [Хочу быть как Газан](https://open.spotify.com/album/2wbKTuWcOpPUewM2ih9svC) | 1:38 | 2026-03-31 |  |
+| [Хочу быть как Газан](https://open.spotify.com/track/2ZitqM9FXFrpo5JU486llG) | [Gazan](https://open.spotify.com/artist/4Qdtzv8titXp66B9nwAstz) | [Хочу быть как Газан](https://open.spotify.com/album/2wbKTuWcOpPUewM2ih9svC) | 1:38 | 2026-03-31 | 2026-04-18 |
 | [Хочу быть с ней и всë](https://open.spotify.com/track/3kUbyrIRk26bdIVau5TU5X) | [урал гайсин](https://open.spotify.com/artist/6CGetCSvhKrqmeKnsaI4Bm) | [Хочу быть с ней и всë](https://open.spotify.com/album/0YK1CwJN9gwKqDIV7mCGbT) | 1:40 | 2025-04-04 | 2025-04-13 |
 | [Хризантеми](https://open.spotify.com/track/2ZwNgWo1U0PLbzFCYMNPTW) | [анастимоза](https://open.spotify.com/artist/387gWxnXhGdDQFO7Ld3mLZ) | [Хризантеми](https://open.spotify.com/album/6pHum88f6JOO8QxkpBU5Bv) | 2:56 | 2024-11-24 | 2024-12-20 |
 | [Худи](https://open.spotify.com/track/0glvXDmskrwf9FITIU0cen) | [Geegun](https://open.spotify.com/artist/5W7N6u4EjCEMKj7bDyzPEC), [Artik & Asti](https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA), [NILETTO](https://open.spotify.com/artist/7wHvox8DtmBBPpDFRVURv4) | [Худи](https://open.spotify.com/album/0HWzemmcn0dHatBKeJql2A) | 2:46 | 2024-11-05 | 2024-11-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Luke Grimes",
+  "description": "A new shade of Country. Cover: Benjamin Tod",
   "name": "Indigo",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 215497,
       "name": "(Looking Through) Rose Colored Glasses",
       "url": "https://open.spotify.com/track/0fp9X7zv7W75w5mQSFMwYu"
@@ -2313,6 +2313,28 @@
     },
     {
       "album": {
+        "name": "Cardinal Sin (feat. Jason Isbell)",
+        "url": "https://open.spotify.com/album/5bqzhOiZ1j42qcD2oMCh32"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "Cardinal Sin (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/1wU21mCoSc3fc8VZq1WkAn"
+    },
+    {
+      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/6DJpZnz5JxwtbLSJPb15K8"
       },
@@ -2560,6 +2582,24 @@
       "duration_ms": 244240,
       "name": "Cheap Seats",
       "url": "https://open.spotify.com/track/5AnsnQkwnkPf2kxj05ZMlK"
+    },
+    {
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/1cPNmlx4bKWmVgqcJC6dcb"
+      },
+      "artists": [
+        {
+          "name": "Kalyn Fay",
+          "url": "https://open.spotify.com/artist/2ojhmBnnR44AHdtGGK8f9q"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284757,
+      "name": "Cherokee County",
+      "url": "https://open.spotify.com/track/2sIgxINMmXpDNsclC74NKT"
     },
     {
       "album": {
@@ -3901,6 +3941,24 @@
     },
     {
       "album": {
+        "name": "Eastern Time",
+        "url": "https://open.spotify.com/album/7219GK59ut1GptItHdsERG"
+      },
+      "artists": [
+        {
+          "name": "Zach Seabaugh",
+          "url": "https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198085,
+      "name": "Eastern Time",
+      "url": "https://open.spotify.com/track/6VlOKgkfQQDytXIj8uZUzi"
+    },
+    {
+      "album": {
         "name": "Easy as Hello",
         "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
@@ -5003,6 +5061,24 @@
     },
     {
       "album": {
+        "name": "Going Gone",
+        "url": "https://open.spotify.com/album/7gWoQaclVBWJOmFDxloGGt"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176879,
+      "name": "Going Gone",
+      "url": "https://open.spotify.com/track/755YHY8NRYiOtSquUwGPX6"
+    },
+    {
+      "album": {
         "name": "Going Home (Live)",
         "url": "https://open.spotify.com/album/69BlZSkkD9n0sIV1Z0ISWg"
       },
@@ -5600,7 +5676,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 153695,
       "name": "Hell Without the Flames",
       "url": "https://open.spotify.com/track/72GVljzrfY9QON2StU9onh"
@@ -5824,7 +5900,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 212470,
       "name": "Highway Queen",
       "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
@@ -7255,6 +7331,24 @@
     },
     {
       "album": {
+        "name": "Lady of the Moon",
+        "url": "https://open.spotify.com/album/7kuOm00w2VYEb4NknlfXrw"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio",
+          "url": "https://open.spotify.com/artist/0PFfIFgLmqHJOlRocks9Cr"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242513,
+      "name": "Lady of the Moon",
+      "url": "https://open.spotify.com/track/5JsE9iEUEtulJ0oRTV14Xi"
+    },
+    {
+      "album": {
         "name": "Fortune Favors the Bold",
         "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
       },
@@ -7576,7 +7670,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 209748,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ"
@@ -8416,7 +8510,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 217093,
       "name": "Mint Tea",
       "url": "https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8"
@@ -8474,6 +8568,24 @@
       "duration_ms": 296581,
       "name": "Moon & Stars",
       "url": "https://open.spotify.com/track/7BdHOZHXOplL5ifxKbuyPx"
+    },
+    {
+      "album": {
+        "name": "Moral Victory",
+        "url": "https://open.spotify.com/album/573Kvyj26bxfDm7Bj1cyTK"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302908,
+      "name": "Moral Victory",
+      "url": "https://open.spotify.com/track/5D2AaNj4RfxSbHTSYjbb4E"
     },
     {
       "album": {
@@ -9529,6 +9641,24 @@
     },
     {
       "album": {
+        "name": "Pink Living Room",
+        "url": "https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236739,
+      "name": "Pink Living Room",
+      "url": "https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar"
+    },
+    {
+      "album": {
         "name": "Pink Skies",
         "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
       },
@@ -9750,7 +9880,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 184949,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU"
@@ -9860,6 +9990,24 @@
       "duration_ms": 212760,
       "name": "Problem With It",
       "url": "https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO"
+    },
+    {
+      "album": {
+        "name": "Pull Some Strings",
+        "url": "https://open.spotify.com/album/6YrimsPNjkfVNwpYO8vMJT"
+      },
+      "artists": [
+        {
+          "name": "Breakfield",
+          "url": "https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219474,
+      "name": "Pull Some Strings",
+      "url": "https://open.spotify.com/track/0MHTpft8rmYLOlPpJi6BjO"
     },
     {
       "album": {
@@ -10186,7 +10334,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
@@ -11692,7 +11840,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 190759,
       "name": "Take Me As I Come",
       "url": "https://open.spotify.com/track/23J38YFp8WIuUFAigUAxuV"
@@ -11948,6 +12096,42 @@
       "duration_ms": 177293,
       "name": "The Architect",
       "url": "https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm"
+    },
+    {
+      "album": {
+        "name": "The Big Time",
+        "url": "https://open.spotify.com/album/6DULsRHZgOAeTM7VnBzbjz"
+      },
+      "artists": [
+        {
+          "name": "Thomas Csorba",
+          "url": "https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220341,
+      "name": "The Big Time",
+      "url": "https://open.spotify.com/track/0Cq7dBJ0G1JFeu6fQTLYyH"
+    },
+    {
+      "album": {
+        "name": "Vengeance and Grace",
+        "url": "https://open.spotify.com/album/74YQ2s3XrZGwl280BuB7Ku"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209973,
+      "name": "The Bottle's Gone",
+      "url": "https://open.spotify.com/track/0ImDYE0mQU0x1twdSQOD5U"
     },
     {
       "album": {
@@ -14110,7 +14294,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 179013,
       "name": "Years",
       "url": "https://open.spotify.com/track/72ha7F3FCjTFXFkUHt4fMe"
@@ -14226,7 +14410,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 287363,
       "name": "You Can't Look At Me Like That - Alternate Version",
       "url": "https://open.spotify.com/track/6CqRukzmd5kXblACwQBNHW"

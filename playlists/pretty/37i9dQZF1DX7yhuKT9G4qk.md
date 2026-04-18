@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yhuKT9G4qk.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Call Me Crazy](https://open.spotify.com/track/4S7zxt4SMDVUW4Fd91jlcZ) | [Gregory Ackerman](https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX) | [Call Me Crazy](https://open.spotify.com/album/1mmKk0mfNOj48gzkYMWRE4) | 4:39 |
 | 2 | [LOVE, LOVE, LOVE](https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f) | 4:02 |
-| 3 | [MY CITY \- Radio edit](https://open.spotify.com/track/3XqEeUvPdYHtU8U3tYqcse) | [Ty Darling](https://open.spotify.com/artist/2EZ6sQxeNZGklwhOXjIYz8) | [MY CITY \(Radio edit\)](https://open.spotify.com/album/2CFqRjQTbvFvaV5M6VXbUt) | 3:09 |
+| 3 | [MY CITY](https://open.spotify.com/track/3XqEeUvPdYHtU8U3tYqcse) | [Ty Darling](https://open.spotify.com/artist/2EZ6sQxeNZGklwhOXjIYz8) | [MY CITY](https://open.spotify.com/album/2CFqRjQTbvFvaV5M6VXbUt) | 3:09 |
 | 4 | [Wasting Time](https://open.spotify.com/track/59vUtjLVDKlFtemXHqzGhr) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Always On Time](https://open.spotify.com/album/3eVA8tg3rfoVPGIP4EwfdP) | 2:51 |
 | 5 | [Radio Silence](https://open.spotify.com/track/0TXfQpQ48zNRQHWF0ujg5c) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Radio Silence](https://open.spotify.com/album/6MzwLnpf99FUDAUwpzRJuB) | 2:15 |
 | 6 | [Either Way](https://open.spotify.com/track/4pyg7pmXXbG10fv10rBGE9) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Either Way](https://open.spotify.com/album/3BI21PVblsUMdyNPvfjxiv) | 3:47 |

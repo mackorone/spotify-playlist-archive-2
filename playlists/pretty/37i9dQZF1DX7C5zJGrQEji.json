@@ -1,13 +1,53 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 13323,
+  "num_followers": 13353,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHPa2HoVXwg0eFE3l6l0LbZNfCG6",
+  "snapshot_id": "AAAAAPexfuvHtQnYomG8PgeKWJRt4HQe",
   "tracks": [
+    {
+      "added_at": "2026-04-17 11:08:17",
+      "album": {
+        "name": "Miyazaki (THE NATURE VERSION)",
+        "url": "https://open.spotify.com/album/7CVKbyhJztcX5notNDryUs"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 215821,
+      "name": "Miyazaki - THE NATURE VERSION",
+      "url": "https://open.spotify.com/track/4lzgFT8OUtG8MJ5jBzB6yu"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Elemental (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3tn1EReiyQYhrgVgR7xREN"
+      },
+      "artists": [
+        {
+          "name": "Alexia Evellyn",
+          "url": "https://open.spotify.com/artist/3awh5uAYSBoDSIjHbhx6OV"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "Elemental (feat. NATURE)",
+      "url": "https://open.spotify.com/track/2Tp32RuxhtvhdnIm33R8fb"
+    },
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
@@ -35,26 +75,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Elemental (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3tn1EReiyQYhrgVgR7xREN"
-      },
-      "artists": [
-        {
-          "name": "Alexia Evellyn",
-          "url": "https://open.spotify.com/artist/3awh5uAYSBoDSIjHbhx6OV"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 213373,
-      "name": "Elemental (feat. NATURE)",
-      "url": "https://open.spotify.com/track/2Tp32RuxhtvhdnIm33R8fb"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Cello, City, Sky",
         "url": "https://open.spotify.com/album/48tULXQ4uUuXHGIQGobWJh"
       },
@@ -75,22 +95,22 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Like Real People Do (feat. NATURE)",
-        "url": "https://open.spotify.com/album/6of1wza1AE9KmiY1RLc8iP"
+        "name": "Let Me Be Water (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3yl2RfiTpVxBXAImM3Eb8k"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Madame Gandhi",
+          "url": "https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Like Real People Do (feat. NATURE)",
-      "url": "https://open.spotify.com/track/06qMEP66rkjgsCoie3WeQl"
+      "duration_ms": 133366,
+      "name": "Let Me Be Water (feat. NATURE)",
+      "url": "https://open.spotify.com/track/6dnvVGk8QSrcqoRhJPCCfA"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -219,42 +239,22 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "All I Need (Acoustic feat. NATURE)",
-        "url": "https://open.spotify.com/album/1Fg85j9gRG2sgQo82iTPWG"
+        "name": "Like Real People Do (feat. NATURE)",
+        "url": "https://open.spotify.com/album/6of1wza1AE9KmiY1RLc8iP"
       },
       "artists": [
         {
-          "name": "Jack Cullen",
-          "url": "https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 215901,
-      "name": "All I Need (Acoustic feat. NATURE)",
-      "url": "https://open.spotify.com/track/4ISyImqR3DsprhlxE9Hl34"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Let Me Be Water (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3yl2RfiTpVxBXAImM3Eb8k"
-      },
-      "artists": [
-        {
-          "name": "Madame Gandhi",
-          "url": "https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 133366,
-      "name": "Let Me Be Water (feat. NATURE)",
-      "url": "https://open.spotify.com/track/6dnvVGk8QSrcqoRhJPCCfA"
+      "duration_ms": 201000,
+      "name": "Like Real People Do (feat. NATURE)",
+      "url": "https://open.spotify.com/track/06qMEP66rkjgsCoie3WeQl"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -295,6 +295,26 @@
       "duration_ms": 282442,
       "name": "This Isn't It (feat. NATURE)",
       "url": "https://open.spotify.com/track/1cysjajx4kclT34bOVU74T"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "All I Need (Acoustic feat. NATURE)",
+        "url": "https://open.spotify.com/album/1Fg85j9gRG2sgQo82iTPWG"
+      },
+      "artists": [
+        {
+          "name": "Jack Cullen",
+          "url": "https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 215901,
+      "name": "All I Need (Acoustic feat. NATURE)",
+      "url": "https://open.spotify.com/track/4ISyImqR3DsprhlxE9Hl34"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -959,26 +979,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Orange Skies - Chapter 2 (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4jgHswvb5geQh6pI6EBRur"
-      },
-      "artists": [
-        {
-          "name": "Rozzi",
-          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 206877,
-      "name": "Orange Skies - Chapter 2 (feat. NATURE)",
-      "url": "https://open.spotify.com/track/4Y2ZhE91YTh1LCZfbW7LhW"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Breathe (feat. NATURE)",
         "url": "https://open.spotify.com/album/4gr69bVV2WxDFAqYf3q2It"
       },
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "Orange Skies - Chapter 2 (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4jgHswvb5geQh6pI6EBRur"
+      },
+      "artists": [
+        {
+          "name": "Rozzi",
+          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 206877,
+      "name": "Orange Skies - Chapter 2 (feat. NATURE)",
+      "url": "https://open.spotify.com/track/4Y2ZhE91YTh1LCZfbW7LhW"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "Dew (feat. NATURE)",
         "url": "https://open.spotify.com/album/7lXQ19myGmHdIPBVaoeDJo"
       },
@@ -1019,6 +1039,26 @@
       "duration_ms": 257250,
       "name": "Dew (feat. NATURE)",
       "url": "https://open.spotify.com/track/2Juto9OSTiDPiGaVpWuQEn"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Naima (feat. NATURE)",
+        "url": "https://open.spotify.com/album/2QQnmpxrcluC5qv4ewnh25"
+      },
+      "artists": [
+        {
+          "name": "Aura Dione",
+          "url": "https://open.spotify.com/artist/5SUSe6NpDjc6BNKX8Dx0hj"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 150272,
+      "name": "Naima (feat. NATURE)",
+      "url": "https://open.spotify.com/track/1diMMU4dEjZad3i42ldDwN"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1067,50 +1107,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Naima (feat. NATURE)",
-        "url": "https://open.spotify.com/album/2QQnmpxrcluC5qv4ewnh25"
-      },
-      "artists": [
-        {
-          "name": "Aura Dione",
-          "url": "https://open.spotify.com/artist/5SUSe6NpDjc6BNKX8Dx0hj"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 150272,
-      "name": "Naima (feat. NATURE)",
-      "url": "https://open.spotify.com/track/1diMMU4dEjZad3i42ldDwN"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Metropolis (feat. NATURE)",
-        "url": "https://open.spotify.com/album/56LyWTBEzesbge7fz95sTi"
-      },
-      "artists": [
-        {
-          "name": "KAM-BU",
-          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
-        },
-        {
-          "name": "Jakwob",
-          "url": "https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 291461,
-      "name": "Metropolis (feat. NATURE)",
-      "url": "https://open.spotify.com/track/2eisqIatF58br1F2BA6b3N"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Running Water (feat.NATURE)",
         "url": "https://open.spotify.com/album/5AtZIB54Q1F6syKbjqiXM7"
       },
@@ -1155,6 +1151,30 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "Metropolis (feat. NATURE)",
+        "url": "https://open.spotify.com/album/56LyWTBEzesbge7fz95sTi"
+      },
+      "artists": [
+        {
+          "name": "KAM-BU",
+          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
+        },
+        {
+          "name": "Jakwob",
+          "url": "https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 291461,
+      "name": "Metropolis (feat. NATURE)",
+      "url": "https://open.spotify.com/track/2eisqIatF58br1F2BA6b3N"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "Loved & Lost Reprise (feat. NATURE)",
         "url": "https://open.spotify.com/album/1MNmWztxAHe91S9W2ocyaL"
       },
@@ -1179,6 +1199,30 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "Universal (feat. NATURE)",
+        "url": "https://open.spotify.com/album/6yRMDEcwvw3GNTgiBHGdDn"
+      },
+      "artists": [
+        {
+          "name": "Joshua Sam Miller",
+          "url": "https://open.spotify.com/artist/2AWiZLYN8BaYhMJp9lfQ9j"
+        },
+        {
+          "name": "WHAIA",
+          "url": "https://open.spotify.com/artist/52frXpqXCFxLGQIZ59V7LD"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 280241,
+      "name": "Universal (feat. NATURE)",
+      "url": "https://open.spotify.com/track/1FiLR3xdD95WyN4XSX9rfY"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "Nightingale (feat. NATURE)",
         "url": "https://open.spotify.com/album/2rQTUrvNkzyhnMtlTMMN02"
       },
@@ -1195,34 +1239,6 @@
       "duration_ms": 163408,
       "name": "Nightingale (feat. NATURE)",
       "url": "https://open.spotify.com/track/3NawWmpRgds78Yo53QOw8G"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Somos R\u00edo Vivo (feat. NATURE)",
-        "url": "https://open.spotify.com/album/0sKOw24k7tLTPHewdUlo6u"
-      },
-      "artists": [
-        {
-          "name": "Mariposa Solar",
-          "url": "https://open.spotify.com/artist/1wft9KoPpO7Imb4uzXy3cw"
-        },
-        {
-          "name": "Conector",
-          "url": "https://open.spotify.com/artist/07911i0JpJbxQyDEHDgkbT"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
-        }
-      ],
-      "duration_ms": 275110,
-      "name": "Somos R\u00edo Vivo (feat. NATURE)",
-      "url": "https://open.spotify.com/track/2X64uhBr2j5YkaVh99xsxC"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1255,26 +1271,30 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Universal (feat. NATURE)",
-        "url": "https://open.spotify.com/album/6yRMDEcwvw3GNTgiBHGdDn"
+        "name": "Somos R\u00edo Vivo (feat. NATURE)",
+        "url": "https://open.spotify.com/album/0sKOw24k7tLTPHewdUlo6u"
       },
       "artists": [
         {
-          "name": "Joshua Sam Miller",
-          "url": "https://open.spotify.com/artist/2AWiZLYN8BaYhMJp9lfQ9j"
+          "name": "Mariposa Solar",
+          "url": "https://open.spotify.com/artist/1wft9KoPpO7Imb4uzXy3cw"
         },
         {
-          "name": "WHAIA",
-          "url": "https://open.spotify.com/artist/52frXpqXCFxLGQIZ59V7LD"
+          "name": "Conector",
+          "url": "https://open.spotify.com/artist/07911i0JpJbxQyDEHDgkbT"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
         }
       ],
-      "duration_ms": 280241,
-      "name": "Universal (feat. NATURE)",
-      "url": "https://open.spotify.com/track/1FiLR3xdD95WyN4XSX9rfY"
+      "duration_ms": 275110,
+      "name": "Somos R\u00edo Vivo (feat. NATURE)",
+      "url": "https://open.spotify.com/track/2X64uhBr2j5YkaVh99xsxC"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1323,30 +1343,6 @@
       "duration_ms": 260657,
       "name": "Oregon Rain (feat. NATURE)",
       "url": "https://open.spotify.com/track/4QXodwucoCLns2sp22Azvo"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "We Can't Walk Away (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3xGkTOw4uW3y80ViuvcRsW"
-      },
-      "artists": [
-        {
-          "name": "Dirty Vegas",
-          "url": "https://open.spotify.com/artist/2IkHcHKErbWa0TA14yHkbl"
-        },
-        {
-          "name": "Storeys",
-          "url": "https://open.spotify.com/artist/3gba6ezq6TiP73eFzGcMLr"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 241846,
-      "name": "We Can't Walk Away (feat. NATURE)",
-      "url": "https://open.spotify.com/track/7BNm9A4t8tSTrJve0iuiSB"
     }
   ],
   "unique_name": "feat. NATURE",

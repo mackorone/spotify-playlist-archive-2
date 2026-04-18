@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Joe Bonamassa
 
-553 songs - 1 day 13 hr 12 min
+554 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [I Love You, I Need You](https://open.spotify.com/track/53m5ENjvMhRoxzoIesvRyu) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [I Love You, I Need You](https://open.spotify.com/album/1mtVf4jbcps8v9Ii380OEE) | 2:04 | 2025-02-07 | 2025-11-08 |
 | [I Shall Not Be Moved](https://open.spotify.com/track/0vgye3WuFujBVE0o7bMlUs) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [I Shall Not Be Moved](https://open.spotify.com/album/7rdwOavrIfe48baqM5SPP6) | 4:19 | 2022-02-25 | 2022-04-23 |
 | [I Walk On Guilded Splinters](https://open.spotify.com/track/0un5nhtFkx4GF6QMjuQQ0f) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [I Walk On Guilded Splinters](https://open.spotify.com/album/0iS2DhekYLvmmY2eylbJgc) | 4:53 | 2022-05-06 | 2022-06-11 |
-| [I Wanna Know](https://open.spotify.com/track/4Z8hHuifTbXns7NcpR34b5) | [Amani Burnham](https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD) | [I Wanna Know](https://open.spotify.com/album/2IAjjyx8kiTShjJjKBdpTe) | 3:50 | 2026-03-27 |  |
+| [I Wanna Know](https://open.spotify.com/track/4Z8hHuifTbXns7NcpR34b5) | [Amani Burnham](https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD) | [I Wanna Know](https://open.spotify.com/album/2IAjjyx8kiTShjJjKBdpTe) | 3:50 | 2026-03-27 | 2026-04-18 |
 | [I Wanna Thank You](https://open.spotify.com/track/5zAYaE9T5Pwjz1bSshIWnC) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [I Wanna Thank You](https://open.spotify.com/album/1hSsRGTrvNRefy6y5xt6to) | 4:41 | 2025-09-19 | 2025-10-11 |
 | [I Want My Crown \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/2DqvcJ1mq1ioIVWmDGgWBn) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want My Crown \(feat\. Joe Bonamassa\)](https://open.spotify.com/album/40W7GqrM3klsP4bHSxGrBT) | 4:19 | 2021-10-22 | 2022-04-23 |
 | [I Want To](https://open.spotify.com/track/5JsZqpiC00eYCz7NRmACw6) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [All My Love For You](https://open.spotify.com/album/222kRkwtM8uoejy4iuhMMK) | 3:56 | 2023-08-18 | 2024-07-19 |
@@ -387,6 +387,7 @@
 | [Roll On Buddy](https://open.spotify.com/track/716inKAgvoukiftOCG4l6l) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Roll On Buddy](https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM) | 3:23 | 2024-08-23 | 2025-11-15 |
 | [Rooster](https://open.spotify.com/track/28A4wvtJNrfEUJ1OvKadpk) | [JJ Grey & Mofro](https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv) | [Rooster](https://open.spotify.com/album/7htHDHnkAKQAJgDMTRhKgM) | 4:51 | 2023-12-01 | 2025-09-27 |
 | [Root City](https://open.spotify.com/track/047ghmBqV2962LxO24aUm9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Root City](https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob) | 2:52 | 2021-04-30 | 2022-02-26 |
+| [Roots & Wings](https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG) | [Amani Burnham](https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD) | [Roots & Wings](https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL) | 3:46 | 2026-04-17 |  |
 | [Rum Boogie](https://open.spotify.com/track/5FBfO62TdPOvZcZTFxK36b) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Rum Boogie](https://open.spotify.com/album/4bfuTpL2T1fDU8xMyGgzCx) | 3:17 | 2025-01-31 | 2025-04-26 |
 | [Runaway \- Radio Edit](https://open.spotify.com/track/3voGGhiHlPTZ9tG7WYt69Z) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Runaway \(Radio Edit\)](https://open.spotify.com/album/3TBFyqswoBMZgHAJT8uaoK) | 3:31 | 2025-01-31 |  |
 | [Runaway Train](https://open.spotify.com/track/0p0F9JbSXgllWzOAIeje7Y) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Runaway Train](https://open.spotify.com/album/6TylTdm2xJghIX9o9sBp1Y) | 4:15 | 2023-09-15 | 2025-08-10 |

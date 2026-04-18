@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Joe Bonamassa",
-  "num_followers": 150401,
+  "num_followers": 150447,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB4+3Knoe30PA7r5HEKsbn003IFE",
+  "snapshot_id": "AAAAAFDnynLcy4EN+ZTpiZ9nDyAvhdS9",
   "tracks": [
+    {
+      "added_at": "2026-04-17 04:00:59",
+      "album": {
+        "name": "Roots & Wings",
+        "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
+      },
+      "artists": [
+        {
+          "name": "Amani Burnham",
+          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Roots & Wings",
+      "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
+    },
     {
       "added_at": "2026-04-03 04:00:19",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 255942,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/2YN68c2uZ5b5aipZJtul4u"
-    },
-    {
-      "added_at": "2026-03-27 04:00:07",
-      "album": {
-        "name": "I Wanna Know",
-        "url": "https://open.spotify.com/album/2IAjjyx8kiTShjJjKBdpTe"
-      },
-      "artists": [
-        {
-          "name": "Amani Burnham",
-          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
-        }
-      ],
-      "duration_ms": 230026,
-      "name": "I Wanna Know",
-      "url": "https://open.spotify.com/track/4Z8hHuifTbXns7NcpR34b5"
     },
     {
       "added_at": "2026-04-10 04:00:40",

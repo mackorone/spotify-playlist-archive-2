@@ -1,13 +1,45 @@
 {
-  "description": "a little indie, a little pop, soda featuring Dolder",
-  "num_followers": 229411,
+  "description": "a little indie, a little pop, soda featuring Johnny Orlando",
+  "num_followers": 229433,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALexuv8RApHmY4SvzDEE7ewRZrDj",
+  "snapshot_id": "AAAAAGntKslas2+sthNkttPkjhTioQHz",
   "tracks": [
+    {
+      "added_at": "2026-04-17 06:03:18",
+      "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/2BoIQZ3r83HbY0mYVXubDY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Charlotte",
+      "url": "https://open.spotify.com/track/5UrxRPPKl5EiLy1RTbobZl"
+    },
+    {
+      "added_at": "2026-04-17 06:03:18",
+      "album": {
+        "name": "Potential",
+        "url": "https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242517,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
+    },
     {
       "added_at": "2026-04-10 04:46:07",
       "album": {
@@ -25,6 +57,22 @@
       "url": "https://open.spotify.com/track/42jkxiYg7D05HKmQNsRp8o"
     },
     {
+      "added_at": "2026-04-17 06:03:18",
+      "album": {
+        "name": "She's Missing",
+        "url": "https://open.spotify.com/album/7n7ktFWH8qWh5GJsOnWo4r"
+      },
+      "artists": [
+        {
+          "name": "Maximillian",
+          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
+        }
+      ],
+      "duration_ms": 184655,
+      "name": "She's Missing",
+      "url": "https://open.spotify.com/track/3zjgHWQEOHrtN801SqtOzo"
+    },
+    {
       "added_at": "2026-04-10 04:46:07",
       "album": {
         "name": "Bad To Worse",
@@ -39,6 +87,22 @@
       "duration_ms": 157684,
       "name": "Bad To Worse",
       "url": "https://open.spotify.com/track/4jLRHYDOrPnHMIFGLkV4OY"
+    },
+    {
+      "added_at": "2026-04-17 06:03:18",
+      "album": {
+        "name": "i just get worse",
+        "url": "https://open.spotify.com/album/1WIJm4X12wNQC6v1eoL6Sk"
+      },
+      "artists": [
+        {
+          "name": "Kevian Kraemer",
+          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
+        }
+      ],
+      "duration_ms": 205919,
+      "name": "i just get worse",
+      "url": "https://open.spotify.com/track/6hlWEgVDcf5TTkFeVlQNKg"
     },
     {
       "added_at": "2026-04-10 04:46:07",
@@ -721,38 +785,6 @@
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
-      "added_at": "2026-01-23 05:03:59",
-      "album": {
-        "name": "Imposter",
-        "url": "https://open.spotify.com/album/47GKjNzCbyJVYNrgpq4314"
-      },
-      "artists": [
-        {
-          "name": "Louis Tomlinson",
-          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
-        }
-      ],
-      "duration_ms": 158238,
-      "name": "Imposter",
-      "url": "https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7"
-    },
-    {
-      "added_at": "2026-01-30 05:01:03",
-      "album": {
-        "name": "savior",
-        "url": "https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa"
-      },
-      "artists": [
-        {
-          "name": "Rol3ert",
-          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
-        }
-      ],
-      "duration_ms": 163559,
-      "name": "savior",
-      "url": "https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0"
-    },
-    {
       "added_at": "2026-02-06 10:00:13",
       "album": {
         "name": "Wake Up",
@@ -783,38 +815,6 @@
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
-    },
-    {
-      "added_at": "2026-01-16 16:23:10",
-      "album": {
-        "name": "Drama King",
-        "url": "https://open.spotify.com/album/02iICHeNdgziyDRE70DCse"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 190901,
-      "name": "Drama King",
-      "url": "https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx"
     }
   ],
   "unique_name": "soda",

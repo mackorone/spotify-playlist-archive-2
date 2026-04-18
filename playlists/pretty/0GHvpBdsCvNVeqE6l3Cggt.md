@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 50 songs - 3 hr 11 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 46 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,14 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 35 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
 | 36 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 |
 | 37 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 |
-| 38 | [Love’s Sweet Tide](https://open.spotify.com/track/5ULZ7VWAHFq7q2seEOIBRJ) | [Holographica](https://open.spotify.com/artist/5jZcEwt43lueHOgtTtgljQ) | [Mechanical Ghost](https://open.spotify.com/album/1Sd2bvyyjmIgjA8z9WLgpH) | 3:11 |
-| 39 | [Feels Good](https://open.spotify.com/track/3tmBkPuLf9v9ogrcT2dp9B) | [Jude Todd](https://open.spotify.com/artist/0oiGuzjA6uQU96nSXV67le) | [Feels Good](https://open.spotify.com/album/5l63DQvlXDJTbETo4xCGFG) | 2:14 |
-| 40 | [Dumb Girls](https://open.spotify.com/track/6nNp16Zb7uk0egfT8yKOiB) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Anemoia Vol.2](https://open.spotify.com/album/4tQHF7O8XhCyQEKGvtvCMQ) | 2:55 |
-| 41 | [Almost there](https://open.spotify.com/track/7B3KxH2EVuSkdRM97N7nqm) | [Elaisa Mancini](https://open.spotify.com/artist/54nSWwT0f9C4TYbN1SxUBr) | [Almost there](https://open.spotify.com/album/5dKD5QCVTHAqfLdt2mjunh) | 3:42 |
-| 42 | [Game On](https://open.spotify.com/track/2aWcot6GOxqs1heiljf4Ca) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Game On](https://open.spotify.com/album/3B3LMDVoV0Mf19fGqNcicH) | 2:26 |
-| 43 | [People's Game \- Riky Dainesi Remix](https://open.spotify.com/track/3cM78eVwhptGKn4fZYJzaC) | [B3NNY R](https://open.spotify.com/artist/746FzmylKASljW5r63AKkP), [Riky Dainesi](https://open.spotify.com/artist/0PaqLD8MGoPEYcdJL0sB0L) | [People's Game \(Riky Dainesi Remix\)](https://open.spotify.com/album/7eb9XnMUrBLmj4qJETUJhu) | 3:15 |
-| 44 | [Not There](https://open.spotify.com/track/5qu1ZbZglE1eEpketsdNCL) | [blanket season](https://open.spotify.com/artist/6MkM0uop587AXtnDFsQJMC) | [Not There](https://open.spotify.com/album/2OpqAFx1fBVA2Ap2SBoXkR) | 3:04 |
-| 45 | [Something Better](https://open.spotify.com/track/0mtt3La0vOFO0jjUBzDyDe) | [Buffy](https://open.spotify.com/artist/2cduAtZPJsBg9LGGbS2Ktp) | [Something Better](https://open.spotify.com/album/2bGyHyfbRmdiEazFAZgdyu) | 4:28 |
-| 46 | [Minority](https://open.spotify.com/track/7EahJBzq7oNuxktGieAJa4) | [Catii](https://open.spotify.com/artist/5VWLPyWRDkbnaiV5LYSnXv) | [Minority](https://open.spotify.com/album/1T9q32c5d8PPBg72mbu12Q) | 4:14 |
-| 47 | [Copies](https://open.spotify.com/track/3ZfXF6vUNS9229TSoNXUCA) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Destroying Is Easy](https://open.spotify.com/album/5SBt9G3F3IIoEr3whAzM5w) | 4:55 |
-| 48 | [Pancakes](https://open.spotify.com/track/5BRqccEaTPHXI0zAzp8Hqr) | [Sunday Lemonade](https://open.spotify.com/artist/7fTdpGoJdp9BPY5Mdo82vj) | [Pancakes](https://open.spotify.com/album/2rwC62yt7guLH8WAMGqNeg) | 4:02 |
-| 49 | [So I Go](https://open.spotify.com/track/3TeB8lRNddWlypSvwXf1R6) | [Coya](https://open.spotify.com/artist/4Sk7nS0b73o1fMxiTYxd7x), [T Henry](https://open.spotify.com/artist/6V42pwtgf8J5RNdgHuh4sU) | [So I Go](https://open.spotify.com/album/6HJ9CPcUoUxB73jp4pBsFy) | 3:08 |
-| 50 | [Love \- Acoustic](https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Xellay Acoustic](https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX) | 3:31 |
+| 38 | [Game On](https://open.spotify.com/track/2aWcot6GOxqs1heiljf4Ca) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Game On](https://open.spotify.com/album/3B3LMDVoV0Mf19fGqNcicH) | 2:26 |
+| 39 | [People's Game \- Riky Dainesi Remix](https://open.spotify.com/track/3cM78eVwhptGKn4fZYJzaC) | [B3NNY R](https://open.spotify.com/artist/746FzmylKASljW5r63AKkP), [Riky Dainesi](https://open.spotify.com/artist/0PaqLD8MGoPEYcdJL0sB0L) | [People's Game \(Riky Dainesi Remix\)](https://open.spotify.com/album/7eb9XnMUrBLmj4qJETUJhu) | 3:15 |
+| 40 | [Not There](https://open.spotify.com/track/5qu1ZbZglE1eEpketsdNCL) | [blanket season](https://open.spotify.com/artist/6MkM0uop587AXtnDFsQJMC) | [Not There](https://open.spotify.com/album/2OpqAFx1fBVA2Ap2SBoXkR) | 3:04 |
+| 41 | [Something Better](https://open.spotify.com/track/0mtt3La0vOFO0jjUBzDyDe) | [Buffy](https://open.spotify.com/artist/2cduAtZPJsBg9LGGbS2Ktp) | [Something Better](https://open.spotify.com/album/2bGyHyfbRmdiEazFAZgdyu) | 4:28 |
+| 42 | [Minority](https://open.spotify.com/track/7EahJBzq7oNuxktGieAJa4) | [Catii](https://open.spotify.com/artist/5VWLPyWRDkbnaiV5LYSnXv) | [Minority](https://open.spotify.com/album/1T9q32c5d8PPBg72mbu12Q) | 4:14 |
+| 43 | [Copies](https://open.spotify.com/track/3ZfXF6vUNS9229TSoNXUCA) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Destroying Is Easy](https://open.spotify.com/album/5SBt9G3F3IIoEr3whAzM5w) | 4:55 |
+| 44 | [Pancakes](https://open.spotify.com/track/5BRqccEaTPHXI0zAzp8Hqr) | [Sunday Lemonade](https://open.spotify.com/artist/7fTdpGoJdp9BPY5Mdo82vj) | [Pancakes](https://open.spotify.com/album/2rwC62yt7guLH8WAMGqNeg) | 4:02 |
+| 45 | [So I Go](https://open.spotify.com/track/3TeB8lRNddWlypSvwXf1R6) | [Coya](https://open.spotify.com/artist/4Sk7nS0b73o1fMxiTYxd7x), [T Henry](https://open.spotify.com/artist/6V42pwtgf8J5RNdgHuh4sU) | [So I Go](https://open.spotify.com/album/6HJ9CPcUoUxB73jp4pBsFy) | 3:08 |
+| 46 | [Love \- Acoustic](https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Xellay Acoustic](https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX) | 3:31 |
 
-Snapshot ID: `AAAkKdMIenMcraTP71qFQPWOi+uhSGhV`
+Snapshot ID: `AAAkLZGLvz3igLjFBcEUw+MfigsI7GmX`

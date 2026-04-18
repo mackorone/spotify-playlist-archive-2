@@ -2523,6 +2523,24 @@
     },
     {
       "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/5K4Zc9szq5RbBJITaMAmpL"
+      },
+      "artists": [
+        {
+          "name": "KOPS",
+          "url": "https://open.spotify.com/artist/10GRqg0xzOzJI8yOgs5DbS"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/40GEzV3juSOOEiQOUfokIO"
+    },
+    {
+      "album": {
         "name": "Dancing Around The Truth",
         "url": "https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe"
       },

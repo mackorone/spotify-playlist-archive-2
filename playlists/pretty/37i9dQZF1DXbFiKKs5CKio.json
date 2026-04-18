@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 72238,
+  "num_followers": 72252,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,18 @@
     {
       "added_at": "2026-03-27 19:13:43",
       "album": {
-        "name": "Os Garotin Session 2",
-        "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
+        "name": "Despacha",
+        "url": "https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi"
       },
       "artists": [
         {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
         }
       ],
-      "duration_ms": 249255,
-      "name": "Maldade",
-      "url": "https://open.spotify.com/track/4a1BLWVTSwGno5lUJS7s0h"
+      "duration_ms": 178557,
+      "name": "Despacha",
+      "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
     },
     {
       "added_at": "2026-03-27 19:13:43",
@@ -195,18 +191,22 @@
     {
       "added_at": "2026-03-27 19:13:43",
       "album": {
-        "name": "Despacha",
-        "url": "https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi"
+        "name": "Os Garotin Session 2",
+        "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
       },
       "artists": [
         {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
         }
       ],
-      "duration_ms": 178557,
-      "name": "Despacha",
-      "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
+      "duration_ms": 249255,
+      "name": "Maldade",
+      "url": "https://open.spotify.com/track/4a1BLWVTSwGno5lUJS7s0h"
     },
     {
       "added_at": "2026-03-27 19:13:43",
@@ -243,6 +243,22 @@
       "duration_ms": 166800,
       "name": "Eternamente",
       "url": "https://open.spotify.com/track/3Ez01JZkWXupNqWLBwhGme"
+    },
+    {
+      "added_at": "2026-03-27 19:13:43",
+      "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 178548,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
     },
     {
       "added_at": "2026-03-27 19:13:43",
@@ -287,22 +303,6 @@
     {
       "added_at": "2026-03-27 19:13:43",
       "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
-    },
-    {
-      "added_at": "2026-03-27 19:13:43",
-      "album": {
         "name": "Tudo Que Eu Sinto Faz Barulho",
         "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
       },
@@ -331,6 +331,26 @@
       "duration_ms": 208617,
       "name": "Cola Comigo",
       "url": "https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183"
+    },
+    {
+      "added_at": "2026-03-27 19:13:43",
+      "album": {
+        "name": "Amar\u00edssima V2 (Remix)",
+        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Allefez",
+          "url": "https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Gaveta/Onironauta",
+      "url": "https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P"
     },
     {
       "added_at": "2026-03-27 19:13:43",
@@ -375,26 +395,6 @@
     {
       "added_at": "2026-03-27 19:13:43",
       "album": {
-        "name": "Amar\u00edssima V2 (Remix)",
-        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Allefez",
-          "url": "https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Gaveta/Onironauta",
-      "url": "https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P"
-    },
-    {
-      "added_at": "2026-03-27 19:13:43",
-      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
       },
@@ -427,6 +427,26 @@
       "duration_ms": 190993,
       "name": "Jeito Certo",
       "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
+    },
+    {
+      "added_at": "2026-03-27 19:13:43",
+      "album": {
+        "name": "Canto Djavan",
+        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Slap",
+          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
+        }
+      ],
+      "duration_ms": 221183,
+      "name": "Tenha Calma",
+      "url": "https://open.spotify.com/track/7F6ylpYzjY4c2kKow8sYNi"
     },
     {
       "added_at": "2026-03-27 19:13:43",
@@ -467,26 +487,6 @@
       "duration_ms": 139200,
       "name": "me chama de sua",
       "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
-    },
-    {
-      "added_at": "2026-03-27 19:13:43",
-      "album": {
-        "name": "Canto Djavan",
-        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Slap",
-          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Tenha Calma",
-      "url": "https://open.spotify.com/track/7F6ylpYzjY4c2kKow8sYNi"
     },
     {
       "added_at": "2026-03-27 19:13:43",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-03-27 19:13:43",
       "album": {
+        "name": "Como \u00e9 bom poder dizer eu te amo",
+        "url": "https://open.spotify.com/album/21295uHlotpc6pU7N7dso1"
+      },
+      "artists": [
+        {
+          "name": "idontcare",
+          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
+        }
+      ],
+      "duration_ms": 143305,
+      "name": "Me Amas",
+      "url": "https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4"
+    },
+    {
+      "added_at": "2026-03-27 19:13:43",
+      "album": {
         "name": "reconectar",
         "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 168275,
       "name": "reconectar",
       "url": "https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2"
-    },
-    {
-      "added_at": "2026-03-27 19:13:43",
-      "album": {
-        "name": "Como \u00e9 bom poder dizer eu te amo",
-        "url": "https://open.spotify.com/album/21295uHlotpc6pU7N7dso1"
-      },
-      "artists": [
-        {
-          "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
-        }
-      ],
-      "duration_ms": 143305,
-      "name": "Me Amas",
-      "url": "https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4"
     },
     {
       "added_at": "2026-03-27 19:13:43",

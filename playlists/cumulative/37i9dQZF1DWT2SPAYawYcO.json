@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Brand new music from The Kid LAROI, Tyla, Zara Larsson, John Summit, Devault, Matt Corby + more",
+  "description": "Brand new music from Olivia Rodrigo, The Kid LAROI, Tyla, Zara Larsson, John Summit, Devault, Matt Corby + more",
   "name": "New Music Friday AU & NZ",
   "tracks": [
     {
@@ -61013,6 +61013,24 @@
     },
     {
       "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "album": {
         "name": "Drop Me Out",
         "url": "https://open.spotify.com/album/1WqBdPB6qkcWD8HbNWdMTo"
       },
@@ -115593,6 +115611,24 @@
     },
     {
       "album": {
+        "name": "The Muse",
+        "url": "https://open.spotify.com/album/0EshqHHvLmWyxU8lSVAmWk"
+      },
+      "artists": [
+        {
+          "name": "Mim Jensen",
+          "url": "https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207530,
+      "name": "Karmic",
+      "url": "https://open.spotify.com/track/3YUOtlbkKPayMmm941VhTF"
+    },
+    {
+      "album": {
         "name": "Kat Food",
         "url": "https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks"
       },
@@ -152195,6 +152231,24 @@
     },
     {
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154469,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
+    },
+    {
+      "album": {
         "name": "NUMB",
         "url": "https://open.spotify.com/album/1APmwMIfD7BxwXRxffPYw0"
       },
@@ -174998,6 +175052,24 @@
       "duration_ms": 168160,
       "name": "RIGHT/WRONG",
       "url": "https://open.spotify.com/track/1kdWhxp9RbFFkv5exPEfrB"
+    },
+    {
+      "album": {
+        "name": "Ring",
+        "url": "https://open.spotify.com/album/16i0QEYE0vsq7JF0eU1s46"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201709,
+      "name": "Ring",
+      "url": "https://open.spotify.com/track/5IF8oRNkO1KKj99N0clN70"
     },
     {
       "album": {
@@ -221310,24 +221382,6 @@
       "duration_ms": 148798,
       "name": "TRA TRA",
       "url": "https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ"
-    },
-    {
-      "album": {
-        "name": "The Muse",
-        "url": "https://open.spotify.com/album/0EshqHHvLmWyxU8lSVAmWk"
-      },
-      "artists": [
-        {
-          "name": "Mim Jensen",
-          "url": "https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg"
-        }
-      ],
-      "date_added": "2026-04-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/3YUOtlbkKPayMmm941VhTF"
     },
     {
       "album": {

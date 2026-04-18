@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Chapter IV",
+        "url": "https://open.spotify.com/album/3RRSy7ypBCuUbPorgw6bO7"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Ace",
+      "url": "https://open.spotify.com/track/33H3JkG5kAlqwgtI5rYbpP"
+    },
+    {
+      "album": {
         "name": "4Three4Life",
         "url": "https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y"
       },
@@ -5301,6 +5319,24 @@
     },
     {
       "album": {
+        "name": "Chapter IV",
+        "url": "https://open.spotify.com/album/3RRSy7ypBCuUbPorgw6bO7"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Moves",
+      "url": "https://open.spotify.com/track/53kcU6lCvTptLec1UXacaq"
+    },
+    {
+      "album": {
         "name": "MUDDA (feat. Seedhe Maut)",
         "url": "https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn"
       },
@@ -5962,7 +5998,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 187173,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/1VV95ihwv6YL69VvlP86jU"
@@ -7330,7 +7366,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 178311,
       "name": "Supreme",
       "url": "https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob"

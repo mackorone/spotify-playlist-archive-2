@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 215969,
       "name": "Gullah Geechee",
       "url": "https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A"
@@ -6686,6 +6686,24 @@
       "duration_ms": 347674,
       "name": "Shoot From The Hip",
       "url": "https://open.spotify.com/track/0IqQ6QaM4ALeR3mmRgJy07"
+    },
+    {
+      "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/4PnsPNH41o40lO1TjXZufB"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193146,
+      "name": "Silver Wave",
+      "url": "https://open.spotify.com/track/5dsWR4AuIjIVi5DWj7slaB"
     },
     {
       "album": {

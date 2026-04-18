@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-447 songs - 22 hr 57 min
+448 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [When I'm Gone](https://open.spotify.com/track/6rhZZuD7lVsJTOkqxLepTj) | [Tetrix Bass](https://open.spotify.com/artist/7wqWpJmkmXr5e8dcXdbrC6), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Ellen Louise](https://open.spotify.com/artist/67yangDHSVlDpDS4U4UWKe) | [When I'm Gone](https://open.spotify.com/album/1BlfvPW5eXF2tyyL6OkDaY) | 3:37 | 2022-06-09 | 2023-08-11 |
 | [When I'm With You](https://open.spotify.com/track/4IpHprcfDRMRjV1Vm2rr29) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [When I'm With You](https://open.spotify.com/album/4LxPVPgBo9EGncjqxWkrPW) | 3:07 | 2022-09-16 | 2023-08-11 |
 | [When We Leavin](https://open.spotify.com/track/1xl54xMFlx7R316617s5kx) | [IntoAlter](https://open.spotify.com/artist/48qJTUrYO2CHJA3oX4MK7A), [Too Martian](https://open.spotify.com/artist/23UmQoccnr8zWXAmVdO4Lq), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK) | [When We Leavin](https://open.spotify.com/album/5OTxCckeiP4PErRyjIOU3W) | 2:46 | 2022-02-03 | 2022-09-15 |
+| [whenyoufindout.](https://open.spotify.com/track/3rqhya8bcjUymz9e4FJMl0) | [dg.](https://open.spotify.com/artist/3FVO5thIWXe2SHW6ZTWCm6), [Coben](https://open.spotify.com/artist/0jdKD1yBCUmUAUmvh1X0oT), [SMOORIBA](https://open.spotify.com/artist/1CMsNzudMd14qTGeFs2Uvk) | [whenyoufindout.](https://open.spotify.com/album/31RRYL5eUhYKqIzuIa0kyp) | 3:39 | 2026-04-17 |  |
 | [Whiplash](https://open.spotify.com/track/64spXyGyh0oONfSnNvuz12) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [Emily J](https://open.spotify.com/artist/5ChprbFpHquoq5pkUUdY0v), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [Cartoon & Friends](https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC) | 3:31 | 2025-07-25 |  |
 | [Whole](https://open.spotify.com/track/6v7RCySsjhaWD3DZkJVrDg) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Adam Tell](https://open.spotify.com/artist/1t8LijuXy59r0O5qlLkENl) | [Whole](https://open.spotify.com/album/0TJXxHF8PWFGmNAYcHrRiZ) | 3:34 | 2023-08-10 |  |
 | [Willow Tree](https://open.spotify.com/track/6J9OBBRpR4JZqUkewgDjsS) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [CADMIUM](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Rosendale](https://open.spotify.com/artist/3ZVW9s2Xb8NQDzwEqElbNq) | [Willow Tree](https://open.spotify.com/album/0z24XzwOR8RobYQxacyDpS) | 3:08 | 2023-08-10 |  |

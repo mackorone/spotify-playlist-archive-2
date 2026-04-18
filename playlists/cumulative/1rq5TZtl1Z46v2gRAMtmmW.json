@@ -8519,6 +8519,24 @@
     },
     {
       "album": {
+        "name": "1983",
+        "url": "https://open.spotify.com/album/2WdDBUfqvkdZ7hsudUNs5m"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128293,
+      "name": "S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/0rq02HJcHdHnya1SjRqAec"
+    },
+    {
+      "album": {
         "name": "Telescope",
         "url": "https://open.spotify.com/album/6M3hPrILsU7h2ifDR3XKGW"
       },

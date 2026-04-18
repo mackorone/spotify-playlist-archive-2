@@ -2,9 +2,9 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro ya está aquí, con nuestra nueva promoción\. Foto: El Bobo de las 3000.
+> El futuro ya está aquí, con nuestra nueva promoción\. Foto: Metrika.
 
-337 songs - 16 hr 26 min
+338 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [El Mundo Delante De Ti](https://open.spotify.com/track/2Pk8xhJde8ueiR6OymzIov) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 5:07 | 2026-03-18 |  |
 | [El Mundo Nadie](https://open.spotify.com/track/2drLIPJ3A7yJgsUnbJc1UI) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [El Mundo Nadie](https://open.spotify.com/album/2ebXa37CytU1fUkMucOhWN) | 3:13 | 2026-03-18 |  |
 | [El Rey De Los Judíos \(Un Cosquilleo\)](https://open.spotify.com/track/0rpWNeRBXnHPIaHBplGJW3) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:04 | 2026-03-18 |  |
-| [EL TASER DE MAMÁ](https://open.spotify.com/track/5SFyVDHU8Hqr2vTTIGc8Ce) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [PICHI](https://open.spotify.com/artist/4hhUpqs3ta9iTAXSlt1Xk1) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:28 | 2026-03-18 |  |
+| [EL TASER DE MAMÁ](https://open.spotify.com/track/5SFyVDHU8Hqr2vTTIGc8Ce) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [PICHI](https://open.spotify.com/artist/4hhUpqs3ta9iTAXSlt1Xk1) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:28 | 2026-03-18 | 2026-04-18 |
+| [EL TASER DE MAMÁ \(REMIX\)](https://open.spotify.com/track/2SINilxUbNWB55Tcl6UFK5) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG), [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1), [Kristina](https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [PICHI](https://open.spotify.com/artist/4hhUpqs3ta9iTAXSlt1Xk1) | [EL TASER DE MAMÁ \(REMIX\)](https://open.spotify.com/album/4I7qJNZaCBSR6mGKU4HxD1) | 4:33 | 2026-04-17 |  |
 | [En Dos](https://open.spotify.com/track/13Pe624JlpZ8c7Ktjybzav) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [En Dos](https://open.spotify.com/album/7AMe9ECyROJ6z0mQCQUjQ2) | 3:07 | 2022-01-06 | 2022-06-07 |
 | [En El Aire](https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [En El Aire](https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6) | 3:23 | 2024-10-31 | 2025-03-04 |
 | [EN EL CIELO](https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [EN EL CIELO](https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW) | 2:28 | 2022-06-06 | 2023-02-22 |

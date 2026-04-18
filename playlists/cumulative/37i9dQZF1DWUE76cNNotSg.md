@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-660 songs - 1 day 16 hr 28 min
+661 songs - 1 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Done It All Wrongh](https://open.spotify.com/track/2y3rFDdYs6AKLrUJYtiCrX) | [Andrew Applepie](https://open.spotify.com/artist/5BYcwjrQth7em7maAt0yKE) | [Regress](https://open.spotify.com/album/3jNs26bwkz3e4yIcoSFoYO) | 3:27 | 2020-12-22 | 2022-04-24 |
 | [Downtown](https://open.spotify.com/track/3MAkPH0PUgcz8QSCnlq7ts) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Downtown](https://open.spotify.com/album/26O1KQ5LTFvMI2XH2POMXd) | 4:45 | 2020-12-22 | 2022-07-29 |
 | [Downtown](https://open.spotify.com/track/6CS2VZem8trycECb9mEGK0) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Downtown](https://open.spotify.com/album/7BUIXtXeK8lyCZ0ZbjCaol) | 4:45 | 2023-08-18 | 2024-03-30 |
+| [Downtown](https://open.spotify.com/track/64RtBPP0NXkUA0N79pDE4P) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu) | [Downtown](https://open.spotify.com/album/3HpHW9r9grbAHVflpDttMU) | 3:03 | 2026-04-17 |  |
 | [Dream](https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Dream](https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d) | 2:44 | 2025-08-11 |  |
 | [Dream with You \- Bosq Remix](https://open.spotify.com/track/5Kw5LPKOu0HqRMLbFCk8OQ) | [Jeffrey Paradise](https://open.spotify.com/artist/3ZiAPWZArTIpiFG6L06Fwy) | [Dream with You](https://open.spotify.com/album/4HmnbASaQNUkcQTRx7pw5Q) | 4:30 | 2020-12-22 | 2022-07-20 |
 | [Dreams \- Lil Texas Remix](https://open.spotify.com/track/2lfUpF2DryDUrNmQMe4Qr4) | [Kid Froopy](https://open.spotify.com/artist/4yXRQkCMWWkfZSSTA2oKjU), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Drive Slow](https://open.spotify.com/album/4HaHzvVVqxq4q1DWppTWjH) | 4:00 | 2020-12-22 | 2022-07-26 |
@@ -242,7 +243,7 @@
 | [Heights](https://open.spotify.com/track/1OCrb7dmygmJiDcjdFAPR8) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heights](https://open.spotify.com/album/59IswWk54vUt2dT0tvSzPJ) | 2:54 | 2020-12-22 | 2023-12-16 |
 | [Her \(Never Like This\)](https://open.spotify.com/track/6YnsAiMmdM4KwlcAF2ynyw) | [Florian Hope](https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN) | [Her \(Never Like This\)](https://open.spotify.com/album/67PHWWXqPg7eKB8kUodhw5) | 2:40 | 2025-05-30 | 2025-11-15 |
 | [Here We Are Again](https://open.spotify.com/track/3CLsZEY8QC4ZTBJGF47sGp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Here We Are Again](https://open.spotify.com/album/1LWzd1ZpdNVucRD7kPEqXb) | 3:27 | 2020-12-22 | 2022-04-20 |
-| [Here With Me](https://open.spotify.com/track/526W1GLtLsmwoCPbfMFPkm) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Platonic Romance](https://open.spotify.com/album/0fOGZAml7Km4yrdvKgipLe) | 3:38 | 2026-01-09 |  |
+| [Here With Me](https://open.spotify.com/track/526W1GLtLsmwoCPbfMFPkm) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Platonic Romance](https://open.spotify.com/album/0fOGZAml7Km4yrdvKgipLe) | 3:38 | 2026-01-09 | 2026-04-18 |
 | [Hesitate](https://open.spotify.com/track/6L4xcis49DzITX6J3dPdcz) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Hesitate](https://open.spotify.com/album/5yCaCrHtiOhgbdBAupRJJM) | 4:11 | 2020-12-22 | 2024-04-19 |
 | [Hesitate](https://open.spotify.com/track/6PmsHVre2N9yOjDge00r9c) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Hesitate](https://open.spotify.com/album/0NJRlSmi5q6ekPkm77OCgj) | 4:11 | 2020-12-22 | 2022-12-01 |
 | [high like heaven](https://open.spotify.com/track/3meres0DABX79jyb2DX37O) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [high like heaven](https://open.spotify.com/album/0yN3ErS7WzyswjZGpzuRHk) | 2:11 | 2025-08-15 | 2026-01-15 |

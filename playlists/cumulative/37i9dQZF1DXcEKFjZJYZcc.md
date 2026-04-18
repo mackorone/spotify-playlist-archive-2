@@ -4,10 +4,11 @@
 
 > Positive, uplifting piano to make you feel good.
 
-349 songs - 14 hr 18 min
+352 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Dance To Sleep](https://open.spotify.com/track/4C1lxa2UxgGpbthTRNTsSn) | [Mariuga](https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN) | [A Dance To Sleep](https://open.spotify.com/album/67sqAqLWTc5j1VeQD1J397) | 2:39 | 2026-04-17 |  |
 | [A Marlene Melody](https://open.spotify.com/track/1vdpvcd1r330uJwTmrcsdT) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [A Marlene Melody](https://open.spotify.com/album/0ybpLOZ07qSpsWL2VtpJKB) | 2:37 | 2023-10-10 |  |
 | [A Moment For Us](https://open.spotify.com/track/7K0BCfDf8sBsbGVnbg7SSD) | [Michel Vernier](https://open.spotify.com/artist/2nXxUDqU4WIvBnhU4bWle5) | [A Moment For Us](https://open.spotify.com/album/4bk37pGNPPUueyE4hBR71i) | 2:12 | 2021-12-14 | 2023-04-19 |
 | [A Picture Of Her](https://open.spotify.com/track/3W2VdvndrAvJdlqa2pn2Pc) | [Derick Carson](https://open.spotify.com/artist/0CaZ6x330PQergmF3mEpuY) | [A Picture Of Her](https://open.spotify.com/album/6tWUieCeCdwaimukWcmJdv) | 2:13 | 2023-06-20 | 2025-11-13 |
@@ -15,6 +16,7 @@
 | [A Thought Evoked](https://open.spotify.com/track/5CIuhTu5H6req55w8yBejp) | [Chloé Czans](https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu) | [A Thought Evoked](https://open.spotify.com/album/5tbZrlYXjQCuPYF9IwjI7w) | 2:54 | 2021-12-14 | 2025-06-11 |
 | [A Walk Along the Seine](https://open.spotify.com/track/5X1UIUwfELwhImAfkIGfMD) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [A Walk Along the Seine](https://open.spotify.com/album/6i64uiYslHoDvAmP9U2gLW) | 2:11 | 2025-05-20 |  |
 | [Abbotsbury](https://open.spotify.com/track/3pagZPFqFtaunRgnimseRR) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Abbotsbury](https://open.spotify.com/album/6xI5KVTGlWKNyeg2BCkx4e) | 2:04 | 2021-12-14 | 2022-10-27 |
+| [Abide](https://open.spotify.com/track/10Ti5x7D9AH9IQI5maZXNV) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Abide](https://open.spotify.com/album/7E6OQnzeA4oRBqxxUbS3r3) | 4:05 | 2026-04-17 |  |
 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 | 2021-12-14 | 2025-06-11 |
 | [Alentejo](https://open.spotify.com/track/2AbSbrm05gpRaZoomLi2LM) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Alentejo](https://open.spotify.com/album/4bodWawvIufMLPIJyx9Bwq) | 2:16 | 2022-12-06 |  |
 | [Allegrini](https://open.spotify.com/track/7GYHZi5vPB3ihAInagsKu2) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Allegrini](https://open.spotify.com/album/0AV7kYSGd7yiNupGpSZ8UF) | 1:58 | 2022-09-13 | 2023-09-19 |
@@ -147,6 +149,7 @@
 | [Je rougis](https://open.spotify.com/track/6TbUya8wunzRxpBF3XXOZ0) | [Zdenek Lemelin](https://open.spotify.com/artist/7z8fwNUZFxgizWrG2GDQt3) | [Je rougis](https://open.spotify.com/album/4Bjq0XHA7ON33c3aoqonUc) | 2:06 | 2022-10-26 | 2025-11-13 |
 | [Jeunesse du printemps](https://open.spotify.com/track/7aHWyb1G3SiRMXCMPkPo26) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [Jeunesse du printemps](https://open.spotify.com/album/2NWDEBEAK8JnESZDfykIy7) | 2:24 | 2022-08-30 | 2025-11-13 |
 | [Journey](https://open.spotify.com/track/1quhoqxC3qTryCIJUnDcRA) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Journey](https://open.spotify.com/album/1VnMbZezkNaowQQHJ7HP3u) | 2:23 | 2024-11-19 |  |
+| [Just This](https://open.spotify.com/track/0VkdPaQygNTx5kw4eJ2QEQ) | [Aurelian Juno](https://open.spotify.com/artist/0clWZsJkYSrFdmUkQygfiQ) | [Just This](https://open.spotify.com/album/1kuqOtSgKXoetlIhTAb7OU) | 3:01 | 2026-04-17 |  |
 | [Kalopsia](https://open.spotify.com/track/3XebcloY8ola1VTGRm6aLP) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Kalopsia](https://open.spotify.com/album/3kJJgfrEqoVMQkR9cHRsm8) | 2:58 | 2023-02-21 |  |
 | [Kiriume](https://open.spotify.com/track/6VaWHjTTcKiPjWEkejHkMR) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Kiriume](https://open.spotify.com/album/63qOqv2FOkfpIUs2SKEuH6) | 2:24 | 2021-12-14 | 2024-10-02 |
 | [Klang](https://open.spotify.com/track/0Uu2BFQxlxYIBng7MkXUZi) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Klang](https://open.spotify.com/album/1QcSE0agb1Hf3oNWdqOekb) | 2:17 | 2023-01-27 |  |
@@ -177,7 +180,7 @@
 | [Memoirs](https://open.spotify.com/track/0YF4Mt2ogoa0LmjVAtuWX0) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Memoirs](https://open.spotify.com/album/2EsHsEfS3J41jWl61q12yt) | 2:07 | 2022-04-28 | 2025-11-13 |
 | [Memories oh Memories](https://open.spotify.com/track/0kkCdwO0YUP8RWrGUGvRoL) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Memories oh Memories](https://open.spotify.com/album/4ETSS7UrgjY7mgwTAmsLfJ) | 2:35 | 2025-03-14 |  |
 | [Mistral](https://open.spotify.com/track/592I7fjtb5nNIFiI6UphGw) | [DeLange](https://open.spotify.com/artist/7HQO1jUh000BYg1FEeV6Wa) | [Mistral](https://open.spotify.com/album/2PzlydU3HyzJ7nWMXRlTTW) | 5:03 | 2022-08-30 | 2022-10-27 |
-| [Mistral](https://open.spotify.com/track/79PEP3OdHaiHlTq2Cdq2aK) | [DeLange](https://open.spotify.com/artist/7HQO1jUh000BYg1FEeV6Wa) | [Contemplations \~ Opus I & II](https://open.spotify.com/album/2ck5A1qAUzsv5exkPPgRgS) | 5:03 | 2022-10-26 |  |
+| [Mistral](https://open.spotify.com/track/79PEP3OdHaiHlTq2Cdq2aK) | [DeLange](https://open.spotify.com/artist/7HQO1jUh000BYg1FEeV6Wa) | [Contemplations \~ Opus I & II](https://open.spotify.com/album/2ck5A1qAUzsv5exkPPgRgS) | 5:03 | 2022-10-26 | 2026-04-18 |
 | [Monza](https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw) | [Lorcan Ó Faoláin](https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t) | [Monza](https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk) | 2:13 | 2024-05-07 |  |
 | [More than Close](https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [More than Close](https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq) | 2:42 | 2021-12-14 | 2023-01-28 |
 | [Morgensol](https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ) | [Bolethe Kristensen](https://open.spotify.com/artist/5FdY1HR5TdShBfxywCliMI) | [Morgensol](https://open.spotify.com/album/1CiembCAvOPBFHRbZe8cLk) | 1:45 | 2021-12-14 | 2022-04-05 |
@@ -269,7 +272,7 @@
 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2021-12-14 | 2024-10-02 |
 | [Sommer](https://open.spotify.com/track/1YLCOfxtPxeOG8OpZZ9vbj) | [Philipp Hasse](https://open.spotify.com/artist/76Awap7mRTdIk1ACiLdzYX) | [Sommer](https://open.spotify.com/album/6tDiYUSg6guLHhxdV3eUP5) | 2:15 | 2023-01-09 |  |
 | [Sommervind](https://open.spotify.com/track/1haFHD1fgYqX7Kw3VV6clJ) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Kveld](https://open.spotify.com/album/0n6oSeXcZOyfdmdnnfm0xl) | 3:16 | 2021-12-14 | 2023-01-21 |
-| [Son De Pluie](https://open.spotify.com/track/2sMXPyPYP81Wml9UnBJs5N) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Son De Pluie](https://open.spotify.com/album/3P7mZrXwwHVvhQ72JfqYeU) | 2:35 | 2023-01-09 |  |
+| [Son De Pluie](https://open.spotify.com/track/2sMXPyPYP81Wml9UnBJs5N) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Son De Pluie](https://open.spotify.com/album/3P7mZrXwwHVvhQ72JfqYeU) | 2:35 | 2023-01-09 | 2026-04-18 |
 | [Sonata del Giardino](https://open.spotify.com/track/2wNBTbBMhZ1FDFx5US3u3o) | [Domani Fendi](https://open.spotify.com/artist/1GaEeF01ebT6znhYvW1s7b) | [Sonata del Giardino](https://open.spotify.com/album/1L0WoZmWBaqsMwbs8oa4wm) | 2:45 | 2021-12-14 | 2025-06-11 |
 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 | 2022-03-17 | 2023-11-11 |
 | [Sonnenblume](https://open.spotify.com/track/5OwyqAz6sXFkq6Ny60M12h) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Sonnenblume](https://open.spotify.com/album/5fSmW7WWjIwYt5xtOgbu7t) | 2:12 | 2022-05-20 |  |
@@ -281,7 +284,7 @@
 | [Starlight Canyon](https://open.spotify.com/track/2ZNtfHoeaslSqK2UbtK2S6) | [Lok Hanzo](https://open.spotify.com/artist/1cncGJWbNVksCj9GsqxDdR) | [Lavender Dreams](https://open.spotify.com/album/4OcV6gotcV6oh8XEmRezDz) | 1:38 | 2022-04-04 | 2023-09-19 |
 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 | 2022-03-03 | 2023-11-11 |
 | [Stav](https://open.spotify.com/track/1ltPSEQo0VjEF979y3B2I3) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Stav](https://open.spotify.com/album/6PHiSyeG1zzSUfDZYm8gKQ) | 2:48 | 2024-12-11 |  |
-| [Stay Close](https://open.spotify.com/track/3L0WeSDRrBJApHA4UFmt4D) | [Larry McDavid](https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz) | [Stay Close](https://open.spotify.com/album/5LkrrGRSG6jT6TR7kmxjpT) | 2:00 | 2023-01-20 |  |
+| [Stay Close](https://open.spotify.com/track/3L0WeSDRrBJApHA4UFmt4D) | [Larry McDavid](https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz) | [Stay Close](https://open.spotify.com/album/5LkrrGRSG6jT6TR7kmxjpT) | 2:00 | 2023-01-20 | 2026-04-18 |
 | [Stirling](https://open.spotify.com/track/1lBZFfbME5sIHKtgNuXq2I) | [Tuga Topić](https://open.spotify.com/artist/30nHhrHqaesxWRiNzW4g6O) | [Stirling](https://open.spotify.com/album/6JHOTIWdn1UyUZYys8HEpO) | 1:59 | 2021-12-14 | 2023-09-19 |
 | [Storytelling](https://open.spotify.com/track/4rhOJ6KXbzenI63eYKjdrw) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Storytelling](https://open.spotify.com/album/0msgHgZpWhe5InxDJIauQ8) | 2:21 | 2021-12-14 | 2024-10-02 |
 | [Stundom](https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Stundom](https://open.spotify.com/album/5WYK03J5fXQzuSx67C1Npu) | 2:28 | 2021-12-14 | 2025-05-15 |

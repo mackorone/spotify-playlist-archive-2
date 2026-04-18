@@ -3327,6 +3327,24 @@
     },
     {
       "album": {
+        "name": "Again & Again",
+        "url": "https://open.spotify.com/album/0FjTpHahhr4g7UF2WPwjYY"
+      },
+      "artists": [
+        {
+          "name": "Dia Vibez",
+          "url": "https://open.spotify.com/artist/6rJ7oHSsQ8bpyjJP1fbL0U"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169519,
+      "name": "Again & Again",
+      "url": "https://open.spotify.com/track/3Twgw2xkdHWUV19LrCy5sY"
+    },
+    {
+      "album": {
         "name": "Against",
         "url": "https://open.spotify.com/album/45SxqhCbCQX5iYcMC53ZUA"
       },
@@ -27479,6 +27497,24 @@
     },
     {
       "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "album": {
         "name": "TO CRY A FLOOD",
         "url": "https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva"
       },
@@ -38282,8 +38318,8 @@
           "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         },
         {
-          "name": "King Baba",
-          "url": "https://open.spotify.com/artist/0XuNzuWk45k0fj4BIwgDoq"
+          "name": "Ngaaka Blinde",
+          "url": "https://open.spotify.com/artist/6JBweZ5NTBmZ8rJhDrb902"
         }
       ],
       "date_added": "2026-04-17",
@@ -45734,6 +45770,24 @@
       "duration_ms": 120000,
       "name": "I Don't Wanna Die",
       "url": "https://open.spotify.com/track/0Ha71IjOuY5K1mbTvXk1XY"
+    },
+    {
+      "album": {
+        "name": "BEASTMODE VOL1",
+        "url": "https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "I DONT CARE",
+      "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
     },
     {
       "album": {
@@ -55398,6 +55452,28 @@
       "duration_ms": 148253,
       "name": "la patadita",
       "url": "https://open.spotify.com/track/2B4kxkpv5OuB5b23XlZYTt"
+    },
+    {
+      "album": {
+        "name": "63PROBL\u00c8MES",
+        "url": "https://open.spotify.com/album/1MamPjKmVMCx46H4zKgjS5"
+      },
+      "artists": [
+        {
+          "name": "63OG",
+          "url": "https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163718,
+      "name": "la tourelle",
+      "url": "https://open.spotify.com/track/2WSVaKIQqnqUD87dZLL9XT"
     },
     {
       "album": {
@@ -73970,6 +74046,24 @@
       "duration_ms": 186616,
       "name": "Nufftime",
       "url": "https://open.spotify.com/track/0pMwoHmBn1QG6vsbTP2Ipa"
+    },
+    {
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154469,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
     },
     {
       "album": {
@@ -106183,42 +106277,6 @@
     },
     {
       "album": {
-        "name": "63PROBL\u00c8MES",
-        "url": "https://open.spotify.com/album/1MamPjKmVMCx46H4zKgjS5"
-      },
-      "artists": [
-        {
-          "name": "63OG",
-          "url": "https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k"
-        }
-      ],
-      "date_added": "2026-04-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/2WSVaKIQqnqUD87dZLL9XT"
-    },
-    {
-      "album": {
-        "name": "BEASTMODE VOL1",
-        "url": "https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        }
-      ],
-      "date_added": "2026-04-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
-    },
-    {
-      "album": {
         "name": "Monica",
         "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
       },
@@ -112144,7 +112202,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 172480,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/2ZsKqi6y17hvGDwmv0kLXp"

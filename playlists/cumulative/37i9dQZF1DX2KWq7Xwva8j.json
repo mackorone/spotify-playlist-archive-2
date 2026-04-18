@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro ya est\u00e1 aqu\u00ed, con nuestra nueva promoci\u00f3n. Foto: El Bobo de las 3000.",
+  "description": "El futuro ya est\u00e1 aqu\u00ed, con nuestra nueva promoci\u00f3n. Foto: Metrika.",
   "name": "RADAR Espa\u00f1a",
   "tracks": [
     {
@@ -1784,10 +1784,52 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 148666,
       "name": "EL TASER DE MAM\u00c1",
       "url": "https://open.spotify.com/track/5SFyVDHU8Hqr2vTTIGc8Ce"
+    },
+    {
+      "album": {
+        "name": "EL TASER DE MAM\u00c1 (REMIX)",
+        "url": "https://open.spotify.com/album/4I7qJNZaCBSR6mGKU4HxD1"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "La Zowi",
+          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
+        },
+        {
+          "name": "Xiyo",
+          "url": "https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ"
+        },
+        {
+          "name": "Fernandezz",
+          "url": "https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1"
+        },
+        {
+          "name": "Kristina",
+          "url": "https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        },
+        {
+          "name": "PICHI",
+          "url": "https://open.spotify.com/artist/4hhUpqs3ta9iTAXSlt1Xk1"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273333,
+      "name": "EL TASER DE MAM\u00c1 (REMIX)",
+      "url": "https://open.spotify.com/track/2SINilxUbNWB55Tcl6UFK5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 131747,
+  "num_followers": 131762,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad7VAAAAAACcvGw2Js84uVzQ2h/b3BZI",
+  "snapshot_id": "aeAmgAAAAACUW+9itcP2jyIpP+5rf25f",
   "tracks": [
     {
       "added_at": null,
@@ -703,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Delighted People",
-        "url": "https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/64U7yOMQtMNro5WD9rw5e2"
       },
       "artists": [
+        {
+          "name": "Meg Lui",
+          "url": "https://open.spotify.com/artist/0ei3gCD1ByhH4bn6DeGBsJ"
+        },
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 219453,
-      "name": "Enchanting Ghost",
-      "url": "https://open.spotify.com/track/2YLSreQAZs2E4VAKPt3vSc"
+      "duration_ms": 234003,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/0lDmaJqbfQLbnhOGGQvSxE"
     },
     {
       "added_at": null,
@@ -739,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Delighted People",
+        "url": "https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "Enchanting Ghost",
+      "url": "https://open.spotify.com/track/2YLSreQAZs2E4VAKPt3vSc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seven Swans (Deluxe Edition)",
         "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
       },
@@ -755,22 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/64U7yOMQtMNro5WD9rw5e2"
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
       },
       "artists": [
-        {
-          "name": "Meg Lui",
-          "url": "https://open.spotify.com/artist/0ei3gCD1ByhH4bn6DeGBsJ"
-        },
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 234003,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/0lDmaJqbfQLbnhOGGQvSxE"
+      "duration_ms": 134404,
+      "name": "City of Roses",
+      "url": "https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
       "duration_ms": 184866,
       "name": "Size Too Small",
       "url": "https://open.spotify.com/track/2Z3WGXNF3OqaJ3XaAaP10a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Greatest Gift",
-        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 134404,
-      "name": "City of Roses",
-      "url": "https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA"
     },
     {
       "added_at": null,

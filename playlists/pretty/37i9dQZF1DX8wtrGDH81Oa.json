@@ -1,29 +1,13 @@
 {
   "description": "Instrumental house for when you need to focus!",
-  "num_followers": 449539,
+  "num_followers": 449698,
   "original_name": "House Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABsk49Q4NkIwmSc1nY1b9jDfIJNY",
+  "snapshot_id": "AAAAAJ229ZQhAKIPnGwShfFlgSZ8fBte",
   "tracks": [
-    {
-      "added_at": "2026-03-20 12:05:16",
-      "album": {
-        "name": "Baller",
-        "url": "https://open.spotify.com/album/6pSVq3K6TxYAyZPcgWbKVy"
-      },
-      "artists": [
-        {
-          "name": "Bear Frantz",
-          "url": "https://open.spotify.com/artist/1nEOXCXHk8zFrNecfXhgrr"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "Baller",
-      "url": "https://open.spotify.com/track/3RctP3VOVyFuBgQZoR4RCa"
-    },
     {
       "added_at": "2026-03-20 12:05:16",
       "album": {
@@ -391,22 +375,6 @@
       "duration_ms": 144905,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/6g0OIFMXnDDBPpLIkXAwda"
-    },
-    {
-      "added_at": "2026-03-20 12:05:16",
-      "album": {
-        "name": "Footy",
-        "url": "https://open.spotify.com/album/6Jc2XriVWYNSnZunkDDk6u"
-      },
-      "artists": [
-        {
-          "name": "Bear Frantz",
-          "url": "https://open.spotify.com/artist/1nEOXCXHk8zFrNecfXhgrr"
-        }
-      ],
-      "duration_ms": 146120,
-      "name": "Footy",
-      "url": "https://open.spotify.com/track/4aozT1oSz1xuCVclHqGuN0"
     },
     {
       "added_at": "2026-03-20 12:05:16",

@@ -4,7 +4,7 @@
 
 > Uutta musaa tarjoilevat Lauri Haav, Sara Bee, Minttu, Costi..\. ja moni muu  🎶
 
-10,716 songs - 23 day 15 hr 24 min
+10,719 songs - 23 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2060,6 +2060,7 @@
 | [Drive In](https://open.spotify.com/track/1NKrlaVAGeYryDnz36voww) | [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9) | [Drive In](https://open.spotify.com/album/7HbC3zod5bqiofXj5jwCKB) | 2:49 | 2025-06-05 | 2025-06-13 |
 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-02-05 | 2026-02-13 |
 | [DRIVING](https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [DRIVING](https://open.spotify.com/album/5IolhHwXOqy3zVWba8AZZW) | 2:50 | 2025-07-31 | 2025-08-08 |
+| [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-17 |  |
 | [Droptop](https://open.spotify.com/track/4GiP2BsWx12z5UgU9R91dy) | [SVANI](https://open.spotify.com/artist/3DUvsq0GmOqz0qfIIrdjio) | [Droptop](https://open.spotify.com/album/6w25ubeV6iiBveWFIM73CU) | 2:24 | 2025-11-20 | 2025-11-28 |
 | [drown](https://open.spotify.com/track/6qKGw4mPngMJ43oING2nTV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [drown](https://open.spotify.com/album/4SBqaBsnhT1kWWr7N9lvGv) | 2:54 | 2024-10-10 | 2024-10-18 |
 | [Drown](https://open.spotify.com/track/2K7W7iXlIa6mt5XO479vzy) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak) | [Drown](https://open.spotify.com/album/1GbYYljOS6zphPyjcaeyff) | 3:21 | 2025-08-29 | 2025-09-06 |
@@ -2282,6 +2283,7 @@
 | [En tunne mitään](https://open.spotify.com/track/2Tq6TvRPymUrGdWgILUxj9) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [En tunne mitään](https://open.spotify.com/album/1C9U1TeUv97mFMTsecCycO) | 3:04 | 2024-10-03 | 2024-10-11 |
 | [En tunne sua enää](https://open.spotify.com/track/1Km7wl0R09u3Foonzd6tKt) | [Salla Flinkman](https://open.spotify.com/artist/71UgFcuxzgiAFdwTu26Qlg) | [En tunne sua enää](https://open.spotify.com/album/4CcwAaUvVzosXDlQvAmakd) | 3:15 | 2024-10-31 | 2024-11-08 |
 | [Encore](https://open.spotify.com/track/3tL63sIiQeAbuAlK1SOszo) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Encore](https://open.spotify.com/album/7cMAENdfa3iVtcbfhJo6aQ) | 3:22 | 2024-10-17 | 2024-10-25 |
+| [ENCORE! \(BIG DREAMERS\)](https://open.spotify.com/track/2YbCTNIdUnhQh85EEVnyTJ) | [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [ENCORE! \(BIG DREAMERS\)](https://open.spotify.com/album/7BVu5xHde8LCZ3uFTVaJtv) | 3:35 | 2026-04-17 |  |
 | [End Credits](https://open.spotify.com/track/1cVKKjz0xDKOU95zPLeaJ0) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [End Credits](https://open.spotify.com/album/5buMlOG40ceSS60U9vnzPf) | 3:00 | 2025-07-24 | 2025-08-01 |
 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 | 2024-04-26 | 2024-05-03 |
 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-07-24 | 2025-08-01 |
@@ -7614,6 +7616,7 @@
 | [Rock n Roll](https://open.spotify.com/track/1T2zLWVcr4nXMrMnzyHUVl) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Rock n Roll](https://open.spotify.com/album/1Jey66mOXbJOwGtVKwdUWb) | 2:38 | 2024-10-24 | 2024-11-01 |
 | [rock n roll healing](https://open.spotify.com/track/2CXDiDUdBihWFy1ztEDrtD) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [rock n roll healing](https://open.spotify.com/album/2h8tS5vUSw5gH0AVPUmESF) | 2:47 | 2025-01-16 | 2025-01-24 |
 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 | 2024-06-06 | 2024-06-14 |
+| [Rock Solid \(feat\. Anderson .Paak\)](https://open.spotify.com/track/4uKKm5ErFjlXSLwFqWRhDn) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Rock Solid \(feat\. Anderson .Paak\)](https://open.spotify.com/album/4Yqwii1Awg1nTLcSOgL6el) | 2:38 | 2026-04-17 |  |
 | [Rock Song From Hell](https://open.spotify.com/track/2MWOLQAI2VHHRDeWacTHLu) | [rock band from hell](https://open.spotify.com/artist/271PF7IlfHIJJ6XoOYg7cP) | [Rock Song From Hell](https://open.spotify.com/album/5UJdJBqfM7mq0XBf53gwSH) | 2:47 | 2025-10-09 | 2025-10-17 |
 | [Rock\-musiikkia](https://open.spotify.com/track/74yCJXK2QHV8RJceDR8dLL) | [Radio Rock Band](https://open.spotify.com/artist/7AKqB3rJHH92XIfPnnKZsp) | [Rock\-musiikkia](https://open.spotify.com/album/3CeREPAOcy7lEZ8r6Q6kSG) | 4:12 | 2025-06-26 | 2025-07-05 |
 | [ROCKET](https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ROCKET](https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El) | 2:46 | 2024-06-27 | 2024-07-05 |

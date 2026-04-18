@@ -4,7 +4,7 @@
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-630 songs - 1 day 8 hr 28 min
+631 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Fuchsia Pink Noise](https://open.spotify.com/track/7D6xhab9nRmW595UhjVjI0) | [Alex Slumber](https://open.spotify.com/artist/220bhoAsBPF9N3gZJPgNtF) | [Fuchsia Pink Noise](https://open.spotify.com/album/3I5cdnEm7E1BRQVHQt2e4V) | 2:56 | 2025-12-09 |  |
 | [Gentle Dust](https://open.spotify.com/track/3BYD3XHwIaKf5L0oPhnZW9) | [Fluffy Duffy](https://open.spotify.com/artist/5Zar2ecaQrP2jeYjnjNk9p) | [Gentle Dust](https://open.spotify.com/album/5S7pZeDAnSTpRN9Hd265WB) | 2:22 | 2025-12-09 |  |
 | [Gentle Pink Noise For Relaxing](https://open.spotify.com/track/0taZseusWikx1dh9XED8X7) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Pink Noise Vol\. 1](https://open.spotify.com/album/6nFeI4o3dbTAqLskfod7m7) | 2:47 | 2021-12-01 | 2022-12-16 |
-| [Geocentric Noise](https://open.spotify.com/track/4rsUhrp7ONH8Ekt0sxmkoT) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Discrete Pink Noise](https://open.spotify.com/album/5S55bRvqqur38ufd9SQo4l) | 3:21 | 2023-03-16 |  |
+| [Geocentric Noise](https://open.spotify.com/track/4rsUhrp7ONH8Ekt0sxmkoT) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Discrete Pink Noise](https://open.spotify.com/album/5S55bRvqqur38ufd9SQo4l) | 3:21 | 2023-03-16 | 2026-04-18 |
 | [Glittering Pink Noise](https://open.spotify.com/track/71rj22EzkPHSF0JNhSMHZO) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Glittering Pink Noise](https://open.spotify.com/album/6MyMwwiOtLzbmD51dSfoMx) | 4:47 | 2025-12-09 |  |
 | [Gravity of Pink Noise](https://open.spotify.com/track/5dyRRsnAKJM9SLbGErQjuK) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Pink Noise for Dreaming](https://open.spotify.com/album/7nvAnxamuXjGljTTdkZkwl) | 3:10 | 2022-01-21 | 2023-03-18 |
 | [Halcyon Pink](https://open.spotify.com/track/4Tr9gx1fsA9VpilqHZABpc) | [Panoramia](https://open.spotify.com/artist/7j68r0RRJ2pdn6lh6Xhxn9) | [Pinksomnia](https://open.spotify.com/album/5ogQBNAiBaVC2zNRgDgdL4) | 3:12 | 2022-08-02 | 2023-03-18 |
@@ -419,6 +419,7 @@
 | [Pink Noise Oasis](https://open.spotify.com/track/2oyQpcNanWs2DzhR6h0ppc) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [Pink Noise Dreamscape](https://open.spotify.com/album/5WQ8yzLy303xPRsC3LaKhg) | 2:38 | 2023-03-16 |  |
 | [Pink Noise on my Mind](https://open.spotify.com/track/3TqvwnaebRia8ILlU8QQKX) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [Pink Noise on my Mind](https://open.spotify.com/album/0fzzpCkWMiuwzFxibbEIYM) | 3:47 | 2022-05-06 | 2023-03-18 |
 | [Pink Noise on the Mountain](https://open.spotify.com/track/1B3d73vcqNuQPYkZXELpUW) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [Pink Noise](https://open.spotify.com/album/3kSg0lHjBIc2wOsLpA6TSv) | 3:57 | 2021-12-01 | 2023-02-10 |
+| [Pink Noise Panorama](https://open.spotify.com/track/55gtEAjulgNsR3ssFS2ByK) | [Sleeping Parachuter](https://open.spotify.com/artist/00NdWBjv7CpdfDBXUfg5qq) | [Pink Noise Panorama](https://open.spotify.com/album/0aWMEw9nXyCsgz32y7MEBt) | 3:16 | 2026-03-31 |  |
 | [Pink Noise Peaceful Mind](https://open.spotify.com/track/2RYl1iQkWAtSiQht9dGer8) | [Kilo Herz](https://open.spotify.com/artist/1cDJHAhR1MlgitRpErRmzL) | [Pink Noise Moods](https://open.spotify.com/album/5SYXzpjzVq58l6ZnSUvhwA) | 3:11 | 2023-03-16 | 2025-12-10 |
 | [Pink Noise Peaceful Mind](https://open.spotify.com/track/03Fho16bPUvttiWMCybkgW) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Pink Noise Mindfulness](https://open.spotify.com/album/6Tr86zLXZAWqi3327doz3Q) | 2:34 | 2023-03-16 | 2023-10-28 |
 | [Pink Noise Radiance](https://open.spotify.com/track/380wgRoGVD380J3Vqe1QGq) | [Auplaudios](https://open.spotify.com/artist/60ij1zmMyrIFCA09Md4xk4) | [The Elevation of Pink Noise](https://open.spotify.com/album/20trYAiOcxBM8DwLAvaZyW) | 3:02 | 2023-02-09 | 2023-03-18 |

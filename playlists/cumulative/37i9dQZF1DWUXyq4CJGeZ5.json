@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Breakfast At Lago Maggiore",
+        "url": "https://open.spotify.com/album/53Je21oZftAZtKKHa0FRhY"
+      },
+      "artists": [
+        {
+          "name": "Purple Kees",
+          "url": "https://open.spotify.com/artist/1DJk5phajqhPpEq84bJzjz"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169083,
+      "name": "Breakfast At Lago Maggiore",
+      "url": "https://open.spotify.com/track/3Cnzted2MWyuC5uWMCH5N0"
+    },
+    {
+      "album": {
         "name": "Bridge to Nowhere",
         "url": "https://open.spotify.com/album/75eFUsF34geJ4j4CiPD5Jt"
       },

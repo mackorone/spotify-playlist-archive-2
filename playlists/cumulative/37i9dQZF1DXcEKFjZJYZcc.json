@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Dance To Sleep",
+        "url": "https://open.spotify.com/album/67sqAqLWTc5j1VeQD1J397"
+      },
+      "artists": [
+        {
+          "name": "Mariuga",
+          "url": "https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159056,
+      "name": "A Dance To Sleep",
+      "url": "https://open.spotify.com/track/4C1lxa2UxgGpbthTRNTsSn"
+    },
+    {
+      "album": {
         "name": "A Marlene Melody",
         "url": "https://open.spotify.com/album/0ybpLOZ07qSpsWL2VtpJKB"
       },
@@ -128,6 +146,24 @@
       "duration_ms": 124979,
       "name": "Abbotsbury",
       "url": "https://open.spotify.com/track/3pagZPFqFtaunRgnimseRR"
+    },
+    {
+      "album": {
+        "name": "Abide",
+        "url": "https://open.spotify.com/album/7E6OQnzeA4oRBqxxUbS3r3"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245219,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/10Ti5x7D9AH9IQI5maZXNV"
     },
     {
       "album": {
@@ -2519,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "Just This",
+        "url": "https://open.spotify.com/album/1kuqOtSgKXoetlIhTAb7OU"
+      },
+      "artists": [
+        {
+          "name": "Aurelian Juno",
+          "url": "https://open.spotify.com/artist/0clWZsJkYSrFdmUkQygfiQ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Just This",
+      "url": "https://open.spotify.com/track/0VkdPaQygNTx5kw4eJ2QEQ"
+    },
+    {
+      "album": {
         "name": "Kalopsia",
         "url": "https://open.spotify.com/album/3kJJgfrEqoVMQkR9cHRsm8"
       },
@@ -3070,7 +3124,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 303600,
       "name": "Mistral",
       "url": "https://open.spotify.com/track/79PEP3OdHaiHlTq2Cdq2aK"
@@ -4738,7 +4792,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 155989,
       "name": "Son De Pluie",
       "url": "https://open.spotify.com/track/2sMXPyPYP81Wml9UnBJs5N"
@@ -4954,7 +5008,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 120383,
       "name": "Stay Close",
       "url": "https://open.spotify.com/track/3L0WeSDRrBJApHA4UFmt4D"

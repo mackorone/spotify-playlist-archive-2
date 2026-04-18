@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "hurt",
+        "url": "https://open.spotify.com/album/5MZVjZmCiFYoLAkoCzJdEr"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173626,
+      "name": "hurt",
+      "url": "https://open.spotify.com/track/08hCu7Zd4PCgZ458xeyzFV"
+    },
+    {
+      "album": {
         "name": "Stephen Hough's Spanish Album",
         "url": "https://open.spotify.com/album/2hUxiz4J02RVcQ60yu3vbv"
       },

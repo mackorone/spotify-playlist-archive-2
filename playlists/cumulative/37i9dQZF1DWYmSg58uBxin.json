@@ -16,7 +16,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 139500,
       "name": "A Gift To Share",
       "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 157904,
       "name": "A Marlene Melody",
       "url": "https://open.spotify.com/track/1vdpvcd1r330uJwTmrcsdT"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 150613,
       "name": "bonhomie",
       "url": "https://open.spotify.com/track/3TpeNOYVDlFqn61LCrYFyg"
@@ -2175,6 +2175,24 @@
     },
     {
       "album": {
+        "name": "Hidden Stillness",
+        "url": "https://open.spotify.com/album/4MoGuXeh9oCtSogkEhsDlv"
+      },
+      "artists": [
+        {
+          "name": "Noa Lind",
+          "url": "https://open.spotify.com/artist/5UAUIiqYYQxAV9lolkVFB6"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Hidden Stillness",
+      "url": "https://open.spotify.com/track/09tRcytainzbl2k9YQowsv"
+    },
+    {
+      "album": {
         "name": "Himlen",
         "url": "https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp"
       },
@@ -3044,7 +3062,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 129175,
       "name": "Love Lies Bleeding",
       "url": "https://open.spotify.com/track/5sQwJ3rAWhIe1B1kZiuG4X"
@@ -3224,7 +3242,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 240527,
       "name": "Mirer",
       "url": "https://open.spotify.com/track/4XrCdS8orGnh2045XBGp9d"
@@ -5068,7 +5086,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 122343,
       "name": "The Destination",
       "url": "https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs"
@@ -5256,6 +5274,24 @@
       "duration_ms": 181379,
       "name": "The Seeds I\u2019ve Sown",
       "url": "https://open.spotify.com/track/3OLr0gzUC0zLlWmpE6L0Ay"
+    },
+    {
+      "album": {
+        "name": "The Sleeping Valley",
+        "url": "https://open.spotify.com/album/3KuNR2oClvAJgtygT5rlcR"
+      },
+      "artists": [
+        {
+          "name": "Calen Valley",
+          "url": "https://open.spotify.com/artist/3DDHQ85h49sRtsjbWX2kIB"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118415,
+      "name": "The Sleeping Valley",
+      "url": "https://open.spotify.com/track/1GnmkBkteF7OUcZt4vhrXS"
     },
     {
       "album": {

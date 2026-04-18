@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Kuba i Kuba",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Marissa",
   "name": "up next",
   "tracks": [
     {
@@ -388,7 +388,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 123694,
       "name": "Ale u mnie te\u017c",
       "url": "https://open.spotify.com/track/6oUiphLZOezNMfCi5eIPEI"
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 176000,
       "name": "bez zmian",
       "url": "https://open.spotify.com/track/0VPho47aCdrkXNydaikOiR"
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 188474,
       "name": "Byle Jaki",
       "url": "https://open.spotify.com/track/3Qwo68PbnC6u43331YBu5d"
@@ -2386,7 +2386,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 220406,
       "name": "CO TOBIE ZROBI\u0118",
       "url": "https://open.spotify.com/track/0YwIaxDRbAAblma3DWuPSt"
@@ -5276,6 +5276,24 @@
       "duration_ms": 221590,
       "name": "jak to jest?",
       "url": "https://open.spotify.com/track/0ubUWjVsO0HcIThLXkEEff"
+    },
+    {
+      "album": {
+        "name": "Jeans",
+        "url": "https://open.spotify.com/album/3oxAD1pjomOuHWlDlZkk1R"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Jeans",
+      "url": "https://open.spotify.com/track/30zdqL78rZFXVRCTFDw8zu"
     },
     {
       "album": {
@@ -9133,6 +9151,24 @@
     },
     {
       "album": {
+        "name": "Odkochaj",
+        "url": "https://open.spotify.com/album/536Y6k6glJY1fMr8jlyZPO"
+      },
+      "artists": [
+        {
+          "name": "Marissa",
+          "url": "https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Odkochaj",
+      "url": "https://open.spotify.com/track/0ALsDccwFMj8QznHPah8fn"
+    },
+    {
+      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/61Cya6AJcIuZAfcoewYda4"
       },
@@ -9620,7 +9656,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 169063,
       "name": "Panienka",
       "url": "https://open.spotify.com/track/1Lgg81BvOvFYjup8x9Gqeg"
@@ -10016,7 +10052,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 157258,
       "name": "Po co tyle m\u00f3wi\u0107",
       "url": "https://open.spotify.com/track/1sWLhSjvxrwbIBpOpOap80"
@@ -10248,6 +10284,24 @@
       "duration_ms": 123600,
       "name": "Powiedz",
       "url": "https://open.spotify.com/track/3z9K5dBzEyQWht7Y3PARnM"
+    },
+    {
+      "album": {
+        "name": "powiem/nie powiem",
+        "url": "https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208055,
+      "name": "powiem/nie powiem",
+      "url": "https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc"
     },
     {
       "album": {
@@ -10588,6 +10642,24 @@
       "duration_ms": 113982,
       "name": "psychokiller",
       "url": "https://open.spotify.com/track/09V4HW3dQhhYrKYOQE2JIb"
+    },
+    {
+      "album": {
+        "name": "psychoza",
+        "url": "https://open.spotify.com/album/5drcL43jmDI0vV2htMyXRg"
+      },
+      "artists": [
+        {
+          "name": "Jan Majewski",
+          "url": "https://open.spotify.com/artist/22jvbmwhlcx0iogTUmMMyi"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "psychoza",
+      "url": "https://open.spotify.com/track/70IiZpYyEN0LeQDfW7kCF7"
     },
     {
       "album": {
@@ -11459,6 +11531,28 @@
     },
     {
       "album": {
+        "name": "Si\u00f3dma Sosna",
+        "url": "https://open.spotify.com/album/3yFJzPRH0w3EEhb0zxJa63"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        },
+        {
+          "name": "Mateusz G\u0119dek",
+          "url": "https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164949,
+      "name": "Si\u00f3dma Sosna",
+      "url": "https://open.spotify.com/track/4bLfMCa2nYQnWOeMcqLiY9"
+    },
+    {
+      "album": {
         "name": "si\u00f3dme \u2013 nie kradnij",
         "url": "https://open.spotify.com/album/1uqf7Jx4Jpw9z3Y09jQlAT"
       },
@@ -12193,6 +12287,24 @@
     },
     {
       "album": {
+        "name": "Szeroko\u015bci!",
+        "url": "https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157607,
+      "name": "Szeroko\u015bci!",
+      "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
+    },
+    {
+      "album": {
         "name": "szklane s\u0142owa",
         "url": "https://open.spotify.com/album/4jtsC63Y9ExVEszBljphUD"
       },
@@ -12506,6 +12618,24 @@
       "duration_ms": 172854,
       "name": "Talk Me Down",
       "url": "https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb"
+    },
+    {
+      "album": {
+        "name": "Middle Child",
+        "url": "https://open.spotify.com/album/40UETJYLuyi0ys3kWhFuXM"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212009,
+      "name": "Talking To Jesus",
+      "url": "https://open.spotify.com/track/52cTqjEjB5PEftPWqKxmgD"
     },
     {
       "album": {
@@ -13166,6 +13296,24 @@
       "duration_ms": 169485,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/1PEY0rrb2d8Ic5f4hCPCkX"
+    },
+    {
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195018,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX"
     },
     {
       "album": {
@@ -14182,7 +14330,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 172193,
       "name": "Wspania\u0142y to by\u0142 rok",
       "url": "https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV"
@@ -14492,7 +14640,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 179032,
       "name": "Za t\u0119 mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/0yu7zunzQDh5MPlDM3BZCA"
@@ -14822,7 +14970,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 131866,
       "name": "Ze stali",
       "url": "https://open.spotify.com/track/5Zdq0ubjxhpzlIAFE6rroT"
@@ -15062,6 +15210,24 @@
       "duration_ms": 158666,
       "name": "Z\u0141Y",
       "url": "https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6"
+    },
+    {
+      "album": {
+        "name": "Wieje",
+        "url": "https://open.spotify.com/album/5tpWJuzhUJ4PrQp3WeZ8ap"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253551,
+      "name": "Z\u0142y, najgorszy sen",
+      "url": "https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF"
     },
     {
       "album": {

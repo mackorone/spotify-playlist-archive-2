@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 167013,
       "name": "Being a Good Girl Hurts",
       "url": "https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj"
@@ -5060,7 +5060,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 300786,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
@@ -5648,6 +5648,24 @@
       "duration_ms": 321546,
       "name": "Flower Tail",
       "url": "https://open.spotify.com/track/7xEGoHycWoyimqDSOwJ5Hv"
+    },
+    {
+      "album": {
+        "name": "clover #4",
+        "url": "https://open.spotify.com/album/25QGxPyc0aQyLlace8HKAQ"
+      },
+      "artists": [
+        {
+          "name": "Boramiyu",
+          "url": "https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Flowering",
+      "url": "https://open.spotify.com/track/0xy1eGLBSa6SFxyEzg9gtn"
     },
     {
       "album": {
@@ -7288,6 +7306,24 @@
       "duration_ms": 187666,
       "name": "hellbound",
       "url": "https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o"
+    },
+    {
+      "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/20nWISvEaeTmzSY4CDVqUd"
+      },
+      "artists": [
+        {
+          "name": "IT\u2019S",
+          "url": "https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233693,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/4mCM8hfSM90j7dDBuzFYvc"
     },
     {
       "album": {
@@ -12364,7 +12400,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 160000,
       "name": "NINETEEN",
       "url": "https://open.spotify.com/track/2fBzTfPEf46iuJvZpTD5gp"
@@ -18235,6 +18271,24 @@
     },
     {
       "album": {
+        "name": "YB Mastered 3.1 LIVE",
+        "url": "https://open.spotify.com/album/0lxbJh4Nd4AQyvB2zz3DTb"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312486,
+      "name": "Thirty Winds",
+      "url": "https://open.spotify.com/track/4cLzacU5UURBgc3VfTm9Us"
+    },
+    {
+      "album": {
         "name": "This is Beta Testing",
         "url": "https://open.spotify.com/album/4bf0FX0qrw3lYJETWgIdi5"
       },
@@ -19123,6 +19177,24 @@
     },
     {
       "album": {
+        "name": "DEAD AND",
+        "url": "https://open.spotify.com/album/10z4Yg7ZTYAyhP7isN21Xd"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234520,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/5P3ai9DW0SVnQoVmYQj6EM"
+    },
+    {
+      "album": {
         "name": "ASTERUM",
         "url": "https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z"
       },
@@ -19776,7 +19848,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 201533,
       "name": "when the rain stops",
       "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
@@ -19974,7 +20046,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 243253,
       "name": "Whoever, Someone",
       "url": "https://open.spotify.com/track/2i6xxAfoNGjg1wD4maNStS"
@@ -21400,7 +21472,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 168026,
       "name": "\uc0ac\ub791\ubcd1\ub3d9 Highs and Lows",
       "url": "https://open.spotify.com/track/2fzdKqLRPuCHd6SUI6ypJY"

@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/2si6eLZZgNW1bVZLU6VIK2"
+      },
+      "artists": [
+        {
+          "name": "The Slumbermill",
+          "url": "https://open.spotify.com/artist/02A9GGv3NJ4R7mytTPB2vR"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132250,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/32Pq8mR1BIT5ChcklgEcy9"
+    },
+    {
+      "album": {
         "name": "Clouds Coming",
         "url": "https://open.spotify.com/album/7IAk6YxAb3zjyOaGV0nzb0"
       },
@@ -2491,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "Montefioralle",
+        "url": "https://open.spotify.com/album/7lnIeh2U1gMfL4KQqORJel"
+      },
+      "artists": [
+        {
+          "name": "Bodi Lukasz",
+          "url": "https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Montefioralle",
+      "url": "https://open.spotify.com/track/3ZKRbGaccBDftO8d3Bf3aM"
+    },
+    {
+      "album": {
         "name": "Morro Da Saudade",
         "url": "https://open.spotify.com/album/5PwlrJ6yMoMPYvGBo0kzOw"
       },
@@ -2693,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "Only This",
+        "url": "https://open.spotify.com/album/4A2o1qKlIau3fwwN0Fa5NJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Bom",
+          "url": "https://open.spotify.com/artist/322b1QHcAr1pM9nu1A7CC9"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Only This",
+      "url": "https://open.spotify.com/track/17f2DDyfRo8KFXEYAJs6UB"
+    },
+    {
+      "album": {
         "name": "Onward",
         "url": "https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i"
       },
@@ -2758,7 +2812,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 153255,
       "name": "Pac\u00edfico",
       "url": "https://open.spotify.com/track/48NKvaN1zc5pCUaqGLc82G"
@@ -3291,6 +3345,24 @@
     },
     {
       "album": {
+        "name": "Sleeping Tides",
+        "url": "https://open.spotify.com/album/5qqUBXJCUSHvqH5idK0mwc"
+      },
+      "artists": [
+        {
+          "name": "Riku Arai",
+          "url": "https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154619,
+      "name": "Sleeping Tides",
+      "url": "https://open.spotify.com/track/7DXwclCaCbV9zOw6J9fcjd"
+    },
+    {
+      "album": {
         "name": "Slow Fall",
         "url": "https://open.spotify.com/album/77O8mS4PmfryxmsKuMrM2S"
       },
@@ -3428,7 +3500,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 142008,
       "name": "Stillness",
       "url": "https://open.spotify.com/track/0SGBSwX49QWTGiXMu39mUz"
@@ -3702,7 +3774,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 175439,
       "name": "The View \u666f\u8272",
       "url": "https://open.spotify.com/track/2sdCizizVGvenywdhB3VIx"

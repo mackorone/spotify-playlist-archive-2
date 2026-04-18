@@ -2565,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/5prKcMoquj7VcUdwvU3wEi"
+      },
+      "artists": [
+        {
+          "name": "Ron Lopata",
+          "url": "https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162495,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2V3v8ta1peC6X3vXsqpQsv"
+    },
+    {
+      "album": {
         "name": "How Deep Is Your Love - from \"Saturday Night Fever\"",
         "url": "https://open.spotify.com/album/5EdZ7r5mE1gSrtPqvPj52a"
       },
@@ -3016,6 +3034,24 @@
       "duration_ms": 208893,
       "name": "Kabhi Khushi Kabhie Gham",
       "url": "https://open.spotify.com/track/2uU4tNepmkbE5lyQ9d0zFZ"
+    },
+    {
+      "album": {
+        "name": "Kill Bill",
+        "url": "https://open.spotify.com/album/09WQcQnzdd79MYl4ZbqGU9"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156413,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/2WCkyrXkIUqipUUHgVErxz"
     },
     {
       "album": {

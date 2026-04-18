@@ -1,12 +1,12 @@
 {
   "description": "the glorious sounds of Jazz House, from Lagos & beyond \ud83d\udd4a\ufe0f featuring SPINALL",
-  "num_followers": 32206,
+  "num_followers": 32281,
   "original_name": "Jazz House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALDWrQdpzS+76y53e8pZEHlBiP5U",
+  "snapshot_id": "AAAAAMi7PAnBSVmqMaPTJuTOGWl4vp+2",
   "tracks": [
     {
       "added_at": "2026-04-10 04:02:19",
@@ -39,6 +39,34 @@
       "duration_ms": 360299,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"
+    },
+    {
+      "added_at": "2026-04-17 04:02:11",
+      "album": {
+        "name": "I Want Your Love",
+        "url": "https://open.spotify.com/album/21HJ7l1A9ucgEzfupxpFA6"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Kaesu",
+          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
+        },
+        {
+          "name": "TABLE",
+          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
+        },
+        {
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
+        }
+      ],
+      "duration_ms": 153050,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/14i1XgUcPXmB74ezzk5172"
     },
     {
       "added_at": "2026-04-10 04:02:19",
@@ -79,6 +107,22 @@
       "duration_ms": 207656,
       "name": "On & On",
       "url": "https://open.spotify.com/track/6Khjz6ZTdxhVujmB4fUWsK"
+    },
+    {
+      "added_at": "2026-04-17 04:02:11",
+      "album": {
+        "name": "You Crazy",
+        "url": "https://open.spotify.com/album/54NKfX3AxHRXNLXM9aBtMN"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        }
+      ],
+      "duration_ms": 263416,
+      "name": "You Crazy",
+      "url": "https://open.spotify.com/track/0NgWk376k1bwhZedtd2Gy7"
     },
     {
       "added_at": "2026-04-10 04:02:19",
@@ -273,6 +317,22 @@
       "url": "https://open.spotify.com/track/3vzDijp4GClTC0KEacZbce"
     },
     {
+      "added_at": "2026-04-17 04:02:11",
+      "album": {
+        "name": "Love is Here",
+        "url": "https://open.spotify.com/album/1PFh7P6mxasF8oijczIk1S"
+      },
+      "artists": [
+        {
+          "name": "Tomos",
+          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
+        }
+      ],
+      "duration_ms": 234105,
+      "name": "Love is Here",
+      "url": "https://open.spotify.com/track/6HLEYfLDzrhy720GRlQ5sA"
+    },
+    {
       "added_at": "2026-04-10 04:02:19",
       "album": {
         "name": "Take your time.",
@@ -393,6 +453,22 @@
       "url": "https://open.spotify.com/track/3T8sgiTSZnC5EOKEYZ0eCh"
     },
     {
+      "added_at": "2026-04-17 04:02:11",
+      "album": {
+        "name": "coincidence",
+        "url": "https://open.spotify.com/album/0FELv2lgjvO9tJPzuo2Wjf"
+      },
+      "artists": [
+        {
+          "name": "RUI HAYAKAWA",
+          "url": "https://open.spotify.com/artist/7eOuxMv5X3RAZiAn2fSWc6"
+        }
+      ],
+      "duration_ms": 383351,
+      "name": "coincidence",
+      "url": "https://open.spotify.com/track/1MKsGvzaGNfqCxFPBgHsdq"
+    },
+    {
       "added_at": "2026-04-10 04:02:19",
       "album": {
         "name": "Would appear to be jazz.",
@@ -407,26 +483,6 @@
       "duration_ms": 111724,
       "name": "Empty.",
       "url": "https://open.spotify.com/track/4oOKNkUzGkjwI3nBoRuc4q"
-    },
-    {
-      "added_at": "2026-04-10 04:02:19",
-      "album": {
-        "name": "Serotonin",
-        "url": "https://open.spotify.com/album/2E9As6XKHDGXfihFuF2KQB"
-      },
-      "artists": [
-        {
-          "name": "Juando",
-          "url": "https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv"
-        },
-        {
-          "name": "Pablo Narea",
-          "url": "https://open.spotify.com/artist/5p8jrSEwzfpHlBrGlYgDIo"
-        }
-      ],
-      "duration_ms": 339960,
-      "name": "Serotonin",
-      "url": "https://open.spotify.com/track/6W645HND6UgMEumwYAm94M"
     },
     {
       "added_at": "2026-04-10 04:02:19",
@@ -735,38 +791,42 @@
     {
       "added_at": "2026-04-10 04:02:19",
       "album": {
-        "name": "You can count on me.",
-        "url": "https://open.spotify.com/album/2gPoDqhG5UholG4AfzFun5"
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/2E9As6XKHDGXfihFuF2KQB"
       },
       "artists": [
         {
-          "name": "Bolden.",
-          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
-        }
-      ],
-      "duration_ms": 133047,
-      "name": "You can count on me.",
-      "url": "https://open.spotify.com/track/4buhsm0hBj9buN2B2mn0LK"
-    },
-    {
-      "added_at": "2026-04-10 04:02:19",
-      "album": {
-        "name": "thoughts of blue",
-        "url": "https://open.spotify.com/album/2hCTXOzWeQzQqB6QFm1BtG"
-      },
-      "artists": [
-        {
-          "name": "fyodor",
-          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
+          "name": "Juando",
+          "url": "https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv"
         },
         {
-          "name": "Ap\u00e9ro",
-          "url": "https://open.spotify.com/artist/72zV93lLjsCDg4Zmvgqs68"
+          "name": "Pablo Narea",
+          "url": "https://open.spotify.com/artist/5p8jrSEwzfpHlBrGlYgDIo"
         }
       ],
-      "duration_ms": 176640,
-      "name": "thoughts of blue",
-      "url": "https://open.spotify.com/track/0eB4DuVahiN8tGL6N4lsU0"
+      "duration_ms": 339960,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/6W645HND6UgMEumwYAm94M"
+    },
+    {
+      "added_at": "2026-04-17 04:02:11",
+      "album": {
+        "name": "vintage",
+        "url": "https://open.spotify.com/album/45hcYUnFQwdOIq1RN3I1eK"
+      },
+      "artists": [
+        {
+          "name": "M1NT",
+          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
+        },
+        {
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+        }
+      ],
+      "duration_ms": 173124,
+      "name": "vintage",
+      "url": "https://open.spotify.com/track/1H8ZbxwujLonOE2kZB9fIp"
     },
     {
       "added_at": "2026-04-10 04:02:19",
@@ -843,30 +903,6 @@
       "duration_ms": 116166,
       "name": "waxed & sealed",
       "url": "https://open.spotify.com/track/5cYSLRDc9jRWaPfxcR5LjJ"
-    },
-    {
-      "added_at": "2026-04-10 04:02:19",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/2MnZjVl6VPmbmJ8KhGiDvf"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "Dana Williams",
-          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
-        },
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 143791,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/37Qgd1Iyo8bSlK4kIZFLxL"
     },
     {
       "added_at": "2026-04-10 04:02:19",
@@ -1247,26 +1283,6 @@
     {
       "added_at": "2026-04-10 04:02:19",
       "album": {
-        "name": "under the jazz tree",
-        "url": "https://open.spotify.com/album/5t7Rr5TVJ7L76xd8m0rCcN"
-      },
-      "artists": [
-        {
-          "name": "mango heist",
-          "url": "https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs"
-        },
-        {
-          "name": "Koresma",
-          "url": "https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "under the jazz tree",
-      "url": "https://open.spotify.com/track/2az9x3n3OdY5D2N5K6x0zY"
-    },
-    {
-      "added_at": "2026-04-10 04:02:19",
-      "album": {
         "name": "A Deeper Life",
         "url": "https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 210000,
       "name": "SOMEWHERE IN MANHATTAN",
       "url": "https://open.spotify.com/track/2oOi12NtTZZGJkujoAK3cL"
-    },
-    {
-      "added_at": "2026-04-10 04:02:19",
-      "album": {
-        "name": "Reach Into Your Soul",
-        "url": "https://open.spotify.com/album/6HyBHvtA4ZLhFLceK1yIRm"
-      },
-      "artists": [
-        {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
-        }
-      ],
-      "duration_ms": 214838,
-      "name": "Reach Into Your Soul",
-      "url": "https://open.spotify.com/track/3gkM4jhqalnNnyTqZN4308"
     },
     {
       "added_at": "2026-04-10 04:02:19",

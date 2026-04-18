@@ -1,6 +1,6 @@
 {
   "description": "All the new music you need to hear right now. Cover: Tyla & Zara Larsson",
-  "num_followers": 603453,
+  "num_followers": 604177,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAACY6r3LlTkkKO+7c4vx5t8wN2rXt",
   "tracks": [
+    {
+      "added_at": "2026-04-16 23:31:42",
+      "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
     {
       "added_at": "2026-04-16 23:31:42",
       "album": {

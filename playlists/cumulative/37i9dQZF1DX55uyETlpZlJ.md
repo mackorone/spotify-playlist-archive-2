@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasuki Vaibhav
 
-650 songs - 1 day 12 hr 57 min
+651 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [Kareyole](https://open.spotify.com/track/41poRcXRASGAqDinA3b0Vo) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Kareyole](https://open.spotify.com/album/2rcaCvSIHM78sM8GiRp9mQ) | 3:14 | 2026-03-26 |  |
 | [Karma](https://open.spotify.com/track/5uOfjSX8fqPKTqdmDwoXKK) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Karma](https://open.spotify.com/album/0otfI7PmqVOgKLlmktOaB9) | 1:25 | 2023-07-17 | 2024-01-19 |
 | [Karunada Rajakumara](https://open.spotify.com/track/46kuuT29cpKKYe4UDHnz8U) | [Pranav Satish](https://open.spotify.com/artist/2dxv96rKJF5dYWQ9Kbt961), [Pruthuviraj Sanki](https://open.spotify.com/artist/01XlfcAXv2vz5or291EVjv), [Shanmukha Govindaraj](https://open.spotify.com/artist/6zgQiJjYwOhpZS1MULEmef) | [Karunada Rajakumara](https://open.spotify.com/album/0zIYEfryqVg73pCF4Q932C) | 4:12 | 2024-03-19 | 2024-08-08 |
-| [KATHE](https://open.spotify.com/track/4f3zywcq8Iloc0zof3grWz) | [Darshan Shet](https://open.spotify.com/artist/7LAxciuTqn342KPL96WM8q) | [KATHE](https://open.spotify.com/album/0DbWaw4SJM8OQN6GKs78wM) | 2:34 | 2025-11-03 |  |
+| [KATHE](https://open.spotify.com/track/4f3zywcq8Iloc0zof3grWz) | [Darshan Shet](https://open.spotify.com/artist/7LAxciuTqn342KPL96WM8q) | [KATHE](https://open.spotify.com/album/0DbWaw4SJM8OQN6GKs78wM) | 2:34 | 2025-11-03 | 2026-04-18 |
 | [Kattida Kanaja](https://open.spotify.com/track/6nByxU4WMi5sUiipyRQlCv) | [Basavaraj Narendra](https://open.spotify.com/artist/4q7mP1jGEu5xvxJ5aFPFYj), [Manjula Gururaj](https://open.spotify.com/artist/75HAL44LxgiktGqiyaf1B9) | [Kattida Kanaja \- Single](https://open.spotify.com/album/4kwYsDa2ybRP83vnYqGc2Y) | 8:15 | 2024-04-22 | 2024-10-02 |
 | [Kavali Hanninantha Kannaki](https://open.spotify.com/track/1do1hM2ItPI4KAJj4VFPea) | [Shivu Hugar](https://open.spotify.com/artist/6OXe2rlWVfCTjR5L56M0Nd), [Rameshkrishna](https://open.spotify.com/artist/5auj9BvlrfpT8Jhg36yAsD), [Sahadev Master Kubinal](https://open.spotify.com/artist/0SAAhuZlIDu5Gjmzc5AUis) | [Kavali Hanninantha Kannaki](https://open.spotify.com/album/1MnMAjMffq7BCO29mPGf3a) | 4:37 | 2026-01-14 |  |
 | [Kavitha](https://open.spotify.com/track/0wURISVP7R9gMb4uFRsMqX) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Kavitha](https://open.spotify.com/album/5l6woSE1WkZkNuikH8mnVu) | 2:33 | 2024-05-13 | 2024-11-05 |
@@ -574,6 +574,7 @@
 | [Sarvasva](https://open.spotify.com/track/6LwQiE4cRBM4YJg2nXYX6I) | [Chetan Rao](https://open.spotify.com/artist/1BqAWpvIAKLMISzajmSS6P), [Arjun Kishor Chandra](https://open.spotify.com/artist/6mLU8wT3dCJP64BDTq0p4W) | [Sarvasva](https://open.spotify.com/album/34reXacrMBY1Us6Fxr9WGm) | 4:04 | 2024-09-23 | 2025-03-18 |
 | [Saviyada](https://open.spotify.com/track/7H8zRoRXxz0syKMxrLTLl7) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Saviyada](https://open.spotify.com/album/64pKI9E3rbwBsdeVIZ4NCr) | 2:32 | 2023-10-04 | 2024-05-14 |
 | [Savu Ide Antha Gottu](https://open.spotify.com/track/60MUpeevIJBtY4Kjjr7xTG) | [Ravindra Soragavi](https://open.spotify.com/artist/5Vw12AHNNQ8o4yZ4PzDKat), [Shivamani](https://open.spotify.com/artist/5qA54NfNbyEl3GAbTfjgq4) | [Savu Ide Antha Gottu](https://open.spotify.com/album/4jJbxdh7G42RTCabK95Wt8) | 5:52 | 2025-06-06 | 2025-11-08 |
+| [Seetha Kalyana](https://open.spotify.com/track/58XLGj0o2jt9gkcFf0Xves) | [Curry](https://open.spotify.com/artist/1sHWKJ2CYul8vAS8wL2Yl5) | [Seetha Kalyana](https://open.spotify.com/album/4MISJlR1HH5v0C2mKhLEC9) | 3:38 | 2026-04-17 |  |
 | [Shakalaka Boom](https://open.spotify.com/track/1DsTp17E9Xn7tgBRG6RqNv) | [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [Shakalaka Boom](https://open.spotify.com/album/215gzKZ1UKqMchbeJim7kM) | 2:19 | 2025-11-03 | 2026-03-28 |
 | [Shakkarpari](https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 4:55 | 2024-07-08 | 2025-01-31 |
 | [Shambo Shiva Shankara](https://open.spotify.com/track/0g4QRe3yNIB9Ld0HOImBYp) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Shambo Shiva Shankara](https://open.spotify.com/album/75rglwOtnPh1RwGEcTqaQD) | 2:22 | 2024-05-20 | 2024-11-09 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 126723,
+  "num_followers": 126730,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad7VAAAAAABHB9ujVGesEzlHfuJB/ZSQ",
+  "snapshot_id": "aeAmgAAAAABsgi04COtjkO6NlCsCLV1i",
   "tracks": [
     {
       "added_at": null,
@@ -695,26 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFROROCKSTAR",
-        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
+        "name": "Qu\u00e9 Dir\u00edas?",
+        "url": "https://open.spotify.com/album/6nz3906mjf2FD4EiuzBrGM"
       },
       "artists": [
         {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Daramola",
-          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
         }
       ],
-      "duration_ms": 202351,
-      "name": "Chamba",
-      "url": "https://open.spotify.com/track/6wsThRu35S56XQhbeslTzm"
+      "duration_ms": 183613,
+      "name": "Qu\u00e9 Dir\u00edas?",
+      "url": "https://open.spotify.com/track/3HPvXWekjDqIppRxhpHkDT"
     },
     {
       "added_at": null,
@@ -739,18 +731,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Dir\u00edas?",
-        "url": "https://open.spotify.com/album/6nz3906mjf2FD4EiuzBrGM"
+        "name": "AFROROCKSTAR",
+        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
       },
       "artists": [
         {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
         }
       ],
-      "duration_ms": 183613,
-      "name": "Qu\u00e9 Dir\u00edas?",
-      "url": "https://open.spotify.com/track/3HPvXWekjDqIppRxhpHkDT"
+      "duration_ms": 202351,
+      "name": "Chamba",
+      "url": "https://open.spotify.com/track/6wsThRu35S56XQhbeslTzm"
     },
     {
       "added_at": null,

@@ -8130,7 +8130,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 343240,
       "name": "Nikita",
       "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"
@@ -13100,10 +13100,28 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 238293,
       "name": "Weight Of The World",
       "url": "https://open.spotify.com/track/0zoWR9ChfiAMb1MMFOFW7J"
+    },
+    {
+      "album": {
+        "name": "Pigeon John and the Summertime Pool Party",
+        "url": "https://open.spotify.com/album/31gKgYMAXbu0Mls7UABalN"
+      },
+      "artists": [
+        {
+          "name": "Pigeon John",
+          "url": "https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218684,
+      "name": "Weight of the World",
+      "url": "https://open.spotify.com/track/6SCK9JOlS8VLw9fXGW3UIS"
     },
     {
       "album": {

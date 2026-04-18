@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-935 songs - 2 day 6 hr 41 min
+938 songs - 2 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [BARK](https://open.spotify.com/track/5Nlz8HtWk4bULZ58wXfN90) | [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb), [OBI ALI](https://open.spotify.com/artist/1IfibYZptPrskRP9aFelO0) | [BARK](https://open.spotify.com/album/25rraJ2LBBLpjvYso8sus1) | 1:44 | 2026-02-15 | 2026-03-25 |
 | [Be My Forever](https://open.spotify.com/track/4GtWJi7p6xcrntPaCJRalL) | [Adrian Wang](https://open.spotify.com/artist/3ppXRwJyEfcCNHLVplAIty) | [Be My Forever](https://open.spotify.com/album/6q5THIYhKayml89ZMtWEJF) | 3:42 | 2026-01-13 | 2026-02-20 |
 | [BEARER OF BROKEN HEARTS](https://open.spotify.com/track/3x0tdYzRgbL40ug33BDlwh) | [Rob Dowler's Vanity Project](https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b) | [BEARER OF BROKEN HEARTS](https://open.spotify.com/album/5dCSAArQXvpni9MaflvRFa) | 3:25 | 2026-02-16 | 2026-03-15 |
+| [Beautiful Baby](https://open.spotify.com/track/7pni0f9P5XEJ6YVf7yg3uY) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Hodges, James & Smith](https://open.spotify.com/artist/6g6hZbf2pP8nHZAhPpsvA3) | [EZ Listens Songs Library](https://open.spotify.com/album/0LkQNSpF0OeXwxEdCXrwVw) | 3:57 | 2026-04-17 |  |
 | [Beautiful Fear](https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Beautiful Fear](https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD) | 3:52 | 2026-01-27 | 2026-02-28 |
 | [BEFORE I CAN TELL](https://open.spotify.com/track/6iJlyDMdotLGenjBZKutpT) | [Vinicio Simonetti](https://open.spotify.com/artist/457CGCR3k3hCBcMPkrYm8D) | [BEFORE I CAN TELL](https://open.spotify.com/album/1xGCLvUXuxrlY6V7ZYLvwX) | 4:25 | 2026-03-02 | 2026-04-12 |
 | [Before You Go \- Cover](https://open.spotify.com/track/77LJibXZjnlnAlPkJWyE9o) | [Naham Nakrour](https://open.spotify.com/artist/4Y6NGFNQxsNe5RcN37DNfs) | [Before You Go \(Cover\)](https://open.spotify.com/album/3v1kIPgLbTTLN5wykaAzh3) | 2:26 | 2026-03-13 | 2026-04-12 |
@@ -296,6 +297,7 @@
 | [Goldfinger](https://open.spotify.com/track/7CxpqrpikeDO932mUdMT3D) | [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL) | [Jazz on the Rocks](https://open.spotify.com/album/5eiluKFW35SbkOipksoF8B) | 4:09 | 2023-04-20 | 2025-11-29 |
 | [GOOD FOR YOU](https://open.spotify.com/track/2uHuyQH3meGuANECYfsxOj) | [Joseph Culpepper](https://open.spotify.com/artist/59vVBRGa1W9LWAqs9UswfE) | [GOOD FOR YOU](https://open.spotify.com/album/6Nq8Ln6gGbzBLCbdaR7cNl) | 2:44 | 2025-12-15 | 2026-01-15 |
 | [goodbye, magenta.](https://open.spotify.com/track/7BNNKc24hazUDCbp1KsfJq) | [CerVon Campbell](https://open.spotify.com/artist/11BE68QWC1UePwPs7clKa5) | [LOVED](https://open.spotify.com/album/5fYZQtJI5bqjVebYOLLosn) | 3:23 | 2025-12-30 | 2026-02-03 |
+| [Grace Under Fire](https://open.spotify.com/track/6qDrIGQ2SEcdHx0H8DCrf9) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:10 | 2026-04-17 |  |
 | [Görmeseydim](https://open.spotify.com/track/3e0L8kr4FZusJbyTnufoly) | [Sefa Gümüştakım](https://open.spotify.com/artist/68pWu4Vj6PfXu7B2qYCavq) | [Görmeseydim](https://open.spotify.com/album/55pul9AWZslDTdcAduIu1u) | 2:37 | 2026-01-20 | 2026-02-20 |
 | [Habitar](https://open.spotify.com/track/0YcGS5JFK7Cfr1kxRmjeq4) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Habitar](https://open.spotify.com/album/2Nz486xwXRIxTzrpgCWSEm) | 3:40 | 2026-03-14 | 2026-04-12 |
 | [Halfway Home](https://open.spotify.com/track/1nUxd4nc2Z1QX8ZBCgfdYW) | [Madison Graye](https://open.spotify.com/artist/4XfxIBVikREynI933gcBvK) | [Halfway Home](https://open.spotify.com/album/2tj9llZsZU8syhHCRRqO1q) | 3:13 | 2025-12-24 | 2026-01-24 |
@@ -422,6 +424,7 @@
 | [La vida es tan corta](https://open.spotify.com/track/76CdKpx2YFJen1lY769Tmr) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Mal Presagio](https://open.spotify.com/album/0IhrnjkKKD2Gf9u87acMLR) | 2:44 | 2025-11-25 | 2026-01-05 |
 | [Labbra Red](https://open.spotify.com/track/15K1NWxChXdujT6gYIp7QA) | [Newgenerationsg](https://open.spotify.com/artist/1h2ymTAOwwusUzU3OzjRjX), [Grazi Guidara](https://open.spotify.com/artist/5mHhkzGMmFrHQUwhxn7dQV) | [Labbra Red](https://open.spotify.com/album/4MUYEGUiGRW2iz0IF8tMVW) | 3:31 | 2026-04-06 |  |
 | [Laddove](https://open.spotify.com/track/1UqljvWThNiyrEeSqES0DL) | [Nailuz](https://open.spotify.com/artist/75eTPvGYXVQkPzo0kVk6mg) | [Laddove](https://open.spotify.com/album/3xCGBUIMhU53IW3jo4pb5o) | 3:36 | 2026-02-17 | 2026-03-15 |
+| [Laptop On The Shore](https://open.spotify.com/track/3l8xEb2AndT9E8Iw99liKN) | [LoFeld](https://open.spotify.com/artist/1FU0ab74tj0rwvsfMBBFGO), [Schönfelder Entertainment](https://open.spotify.com/artist/6Sh7cBPFsRls63qlBK8Ldn) | [Miami Wave](https://open.spotify.com/album/6lwmkp0wvLOTLQC1o0t8in) | 3:56 | 2026-04-17 |  |
 | [Lara's Song](https://open.spotify.com/track/1NgIKvwjtB9Igm9s8IgkaN) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Francesco Consaga](https://open.spotify.com/artist/46YcHNc1RagPGq1l8t7N6L), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE), [Carlo Colombo](https://open.spotify.com/artist/6CPbxGm2Uetd32H4OX1aZS) | [Lara's Song](https://open.spotify.com/album/7GVgNdIAtsWckAPZzToEzm) | 3:35 | 2024-07-18 | 2025-12-28 |
 | [Last Call](https://open.spotify.com/track/2gyG5UbBkej1ibLJoP4lWB) | [Six Years Gone](https://open.spotify.com/artist/3BYUpsDqN6Wk7wWehl3hSZ) | [Last Call](https://open.spotify.com/album/7KE21nAsBUZThp7imkUvcK) | 3:47 | 2025-11-30 | 2026-01-05 |
 | [Last goodbye](https://open.spotify.com/track/6O9SFmIBLtzo4TfnWoxt4g) | [Amovura](https://open.spotify.com/artist/73Yp1MIb1iXRJBYcwzPOSq) | [Last goodbye](https://open.spotify.com/album/7wA0mOThGfDXOBy4boUHpV) | 4:03 | 2025-12-22 | 2026-01-24 |

@@ -2865,6 +2865,28 @@
     },
     {
       "album": {
+        "name": "GOAT (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg"
+      },
+      "artists": [
+        {
+          "name": "KOLE",
+          "url": "https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8"
+        },
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152325,
+      "name": "World Go Round",
+      "url": "https://open.spotify.com/track/2ReI2xfSzQ31zxNHcMDSPP"
+    },
+    {
+      "album": {
         "name": "Winning",
         "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
       },

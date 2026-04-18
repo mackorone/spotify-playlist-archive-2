@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Heartache",
+        "url": "https://open.spotify.com/album/7JzRaydwlyhg9BPZFEKJSQ"
+      },
+      "artists": [
+        {
+          "name": "Duane Betts",
+          "url": "https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320760,
+      "name": "Heartache",
+      "url": "https://open.spotify.com/track/2HJDmTnxghGmCVdwy66fdE"
+    },
+    {
+      "album": {
         "name": "Grievous Angel",
         "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
       },
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 273668,
       "name": "If I Had Wings",
       "url": "https://open.spotify.com/track/5G2h3SmlMFhSGCbHugDWAU"
@@ -1544,6 +1562,28 @@
       "duration_ms": 296520,
       "name": "L.A. Freeway",
       "url": "https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz"
+    },
+    {
+      "album": {
+        "name": "Lavender Cowboy",
+        "url": "https://open.spotify.com/album/6zeA4GCl9aHODp1dB4yo8w"
+      },
+      "artists": [
+        {
+          "name": "Andrew Sa",
+          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
+        },
+        {
+          "name": "H.C. McEntire",
+          "url": "https://open.spotify.com/artist/223IvfSnge3qiGcDMHk2e4"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193555,
+      "name": "Lavender Cowboy",
+      "url": "https://open.spotify.com/track/2B8BHU6KqYiDbabtYEqfqD"
     },
     {
       "album": {
@@ -2654,7 +2694,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 246466,
       "name": "South Dakota",
       "url": "https://open.spotify.com/track/44vfk0WNEL5V8WWY3zJWU0"
@@ -3276,7 +3316,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 262151,
       "name": "Turn on the Dark",
       "url": "https://open.spotify.com/track/4w3onFNS34k4XqMEBdlCt8"

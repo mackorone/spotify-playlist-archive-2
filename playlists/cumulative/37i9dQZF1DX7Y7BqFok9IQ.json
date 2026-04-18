@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Catch A Buzz, Not The Fuzz",
+        "url": "https://open.spotify.com/album/5BTSeFRpYaQx6EL0OeDz20"
+      },
+      "artists": [
+        {
+          "name": "Lombardy",
+          "url": "https://open.spotify.com/artist/0P0SonGsS5tXo0oLO62djE"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169623,
+      "name": "1992 Hooters 500",
+      "url": "https://open.spotify.com/track/57vJ2FZCAZmMrWmOeRAWVg"
+    },
+    {
+      "album": {
         "name": "662",
         "url": "https://open.spotify.com/album/7vKItws7UGBfZpWG5mlqqn"
       },
@@ -2805,6 +2823,24 @@
     },
     {
       "album": {
+        "name": "Come Along As One (LP)",
+        "url": "https://open.spotify.com/album/0IpuT8N2S3FVcYhokRa0PQ"
+      },
+      "artists": [
+        {
+          "name": "Shane Guerrette",
+          "url": "https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183272,
+      "name": "Hollow Gold",
+      "url": "https://open.spotify.com/track/5PRUvwLrYzBKcTayCFowkj"
+    },
+    {
+      "album": {
         "name": "The Lucky Strokes",
         "url": "https://open.spotify.com/album/4S5JMPHzFFEPql78r26qux"
       },
@@ -3272,7 +3308,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 227200,
       "name": "In Stride",
       "url": "https://open.spotify.com/track/4maDoiqrbnZYA64w4Wzmha"
@@ -4196,7 +4232,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 246351,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/04GLIP00vRsOHC6m7P6Cps"
@@ -4326,6 +4362,24 @@
       "duration_ms": 153760,
       "name": "My Lucky Card",
       "url": "https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b"
+    },
+    {
+      "album": {
+        "name": "Need Your Love",
+        "url": "https://open.spotify.com/album/7GZLRmopHNfwjXCugqXLp5"
+      },
+      "artists": [
+        {
+          "name": "No Fit State",
+          "url": "https://open.spotify.com/artist/51dJqJNH1kWA81xA9UbXnX"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190928,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/17RlXTh9eXY5Uxlx783wLO"
     },
     {
       "album": {
@@ -5076,7 +5130,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 165248,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/0MMBjSzV3ZqCWLEuJdVqvK"
@@ -5300,6 +5354,24 @@
       "duration_ms": 218016,
       "name": "Rubberband",
       "url": "https://open.spotify.com/track/597NMs0QRqHKrkj5e8pvHH"
+    },
+    {
+      "album": {
+        "name": "Runnin' Hot",
+        "url": "https://open.spotify.com/album/3bxHFkjBd7RtlJYBOF6OCT"
+      },
+      "artists": [
+        {
+          "name": "Jared James Nichols",
+          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190103,
+      "name": "Runnin' Hot",
+      "url": "https://open.spotify.com/track/1YriAYtDy59A8nA0hlNsnk"
     },
     {
       "album": {
@@ -6258,7 +6330,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon"

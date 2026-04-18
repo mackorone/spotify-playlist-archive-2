@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 21세기 대군부인 \(Perfect Crown\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,718,556 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,718,487 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 2 | [How Far Would You Go](https://open.spotify.com/track/0EY9F0MajwhRrTavo01MbX) | [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Mad Concrete Dreams, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0sW5AD1XBio8tDSaRo5FHb) | 2:34 |
 | 3 | [Please Don’t Stop](https://open.spotify.com/track/60MlMG7WbBFb2pwXd1gFg0) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4XfsazZHKWIDrwlTHukrQ8) | 3:23 |
 | 4 | [Hello](https://open.spotify.com/track/5z9xBkTjtyYhgrAx1guUND) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Siren's Kiss \(Original Soundtrack\) Part.3](https://open.spotify.com/album/5GAq5rGmqpkS5lWHQjgUiK) | 4:13 |
-| 5 | [My Love, My Destiny](https://open.spotify.com/track/3CHmQuIkYUmHfIUo38Bo8p) | [JEON YU JIN](https://open.spotify.com/artist/0Dw3QbByZg3dKYrYPrisMX) | [My Love, My Destiny \(Original Soundtrack from Recipe for Love\)](https://open.spotify.com/album/29cehmXUN9ohT0oRchkYDq) | 2:55 |
+| 5 | [My Love, My Destiny](https://open.spotify.com/track/3CHmQuIkYUmHfIUo38Bo8p) | [JEON YU JIN](https://open.spotify.com/artist/0Dw3QbByZg3dKYrYPrisMX) | [My Love, My Destiny \(Original Soundtrack from Recipe for Love, Pt\. 5\)](https://open.spotify.com/album/29cehmXUN9ohT0oRchkYDq) | 2:55 |
 | 6 | [Here I Am \(Phantom Lawyer : Original Television Soundtrack\)](https://open.spotify.com/track/1ymd1VFO6Rodf2hKVv03Ny) | [PARK JI WON \(fromis\_9\)](https://open.spotify.com/artist/1j9Do4dv7NDwi8GrlTdzzr) | [Phantom Lawyer, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1D0D9wTkMgUxTyVSAsNhNt) | 3:18 |
 | 7 | [Bitter Sweet \(Addiction\)](https://open.spotify.com/track/2DDCG4QLRuz2QgTj12kEHv) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Mad Concrete Dreams, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3qCCWvZSFuUeWktmaU9iQE) | 2:41 |
 | 8 | [A Season Called You](https://open.spotify.com/track/6eNMIIrHWToTTRbQ3I5Ajy) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/7Mum92InCqQIG95pO5FQtr) | 4:13 |

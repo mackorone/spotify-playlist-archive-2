@@ -4,7 +4,7 @@
 
 > Sing\-along to your favorite songs from Disney Jr\. shows including music from Mickey Mouse Clubhouse+
 
-237 songs - 6 hr 12 min
+238 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Friends Like These](https://open.spotify.com/track/3BSeV1FOTwGZb7MXcRMTfV) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Disney Junior Music: Puppy Dog Pals \- Pup\-tastic Party Vol\. 2](https://open.spotify.com/album/5IECGUtko6AYAAYoCSG3HM) | 1:56 | 2022-03-18 |  |
 | [Gather Round](https://open.spotify.com/track/2aFIt5maVUkdDMkafHFW4b) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:55 | 2022-03-18 |  |
 | [Glow Webs Glow \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/29dZo6xmKqGCZsUNoiUGAh) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Glow Webs Glow \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/2NZqBD53gQlVUuY2JnV9fN) | 2:24 | 2022-07-15 |  |
+| [Go Big](https://open.spotify.com/track/3Ju2lM4TwVHMdDQUaE46UR) | [Marvel’s Iron Man and His Awesome Friends – Cast](https://open.spotify.com/artist/1isd6R81bLb8bfNX0JSvMc), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Marvel's Iron Man and His Awesome Friends: Giant\-Sized Armor](https://open.spotify.com/album/7s4rY8oDp6jJQmNw2arfbb) | 1:34 | 2026-04-17 |  |
 | [Go Dino\-Webs Go](https://open.spotify.com/track/652swEGAml76MDdsFHnD7T) | [Marvel’s Spidey and His Amazing Friends \- Cast](https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Marvel's Spidey and His Amazing Friends \- Music From and Inspired By](https://open.spotify.com/album/28PAtOT7ctTLu3na2oc2E2) | 2:17 | 2024-06-26 |  |
 | [Green Gobby Party \- From "Disney Junior Live On Tour: Costume Palooza"](https://open.spotify.com/track/2inYtWjbX1oSywjJwr6Fuk) | [Marvel’s Spidey and His Amazing Friends \- Cast](https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Green Gobby Party \(From "Disney Junior Live On Tour: Costume Palooza"\)](https://open.spotify.com/album/2lW3YwQEe3otAWjyTieumY) | 2:06 | 2022-09-01 |  |
 | [Ha Cha Cha](https://open.spotify.com/track/6bjKZJv8YdvkHDKAPkqcBb) | [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Mickey Mouse Funhouse Pirate Adventure \(From "Disney Junior Music: Mickey Mouse Funhouse Pirate Adventure"\)](https://open.spotify.com/album/29L5MnlFSoKVglrbcIvnLt) | 0:43 | 2022-08-19 |  |

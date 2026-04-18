@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,576 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,577 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 31 | [Kuvia mun kännykässä](https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Kuvia mun kännykässä](https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega) | 2:36 |
 | 32 | [Tom Ford](https://open.spotify.com/track/52gUymoTGCj5xg0YU1kCw3) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Stallion](https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo) | 2:03 |
 | 33 | [Ajaton \(feat\. Gettomasa\)](https://open.spotify.com/track/4ppjwqlfxPmhJF4wVjSoen) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Ajaton \(feat\. Gettomasa\)](https://open.spotify.com/album/6YkXqmmAC3sGdazSjqOjw6) | 3:07 |
-| 34 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
-| 35 | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT) | 3:07 |
+| 34 | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT) | 3:07 |
+| 35 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
 | 36 | [iPhone](https://open.spotify.com/track/6swERFE6dr11ejVdBvJ076) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [iPhone](https://open.spotify.com/album/1IfmeepspqRCeBFKFgztAv) | 2:31 |
 | 37 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
 | 38 | [Aito freak](https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Aito freak](https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn) | 2:18 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 46 | [DD](https://open.spotify.com/track/1bqtP940InJ6mnv1wbIJY0) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Shakespeare 2](https://open.spotify.com/album/5EZPtBbhpoYa9XdMgQcaTi) | 1:55 |
 | 47 | [Jättebra \(feat\. SVANI\)](https://open.spotify.com/track/5hRMgkefRQTIlY5xdSGUUd) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra), [SVANI](https://open.spotify.com/artist/3DUvsq0GmOqz0qfIIrdjio) | [Jättebra \(feat\. SVANI\)](https://open.spotify.com/album/0vWlkvSqfybQN4pqu6MVKV) | 2:20 |
 | 48 | [HENKIVAKUUS](https://open.spotify.com/track/7cYGCSkNwAJTHdRIMIkeJJ) | [D1 DANI](https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx) | [OBJ / HENKIVAKUUS](https://open.spotify.com/album/74pox3WjGLeYTUv83zA4fK) | 2:11 |
-| 49 | [Ringside](https://open.spotify.com/track/2nsvYByxwXzlJw6Tps4Tde) | [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB) | [Ringside](https://open.spotify.com/album/6unsEZgvoHkSk8LyvVRhuc) | 2:58 |
-| 50 | [Fake Love \(feat\. Sicario Jr\)](https://open.spotify.com/track/5vdl2SUnd7qwE1BSmiNrXc) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Sicario Jr](https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI) | [Fake Love \(feat\. Sicario Jr\)](https://open.spotify.com/album/3ppByEXeXULRFFXYhflemr) | 2:38 |
+| 49 | [Fake Love \(feat\. Sicario Jr\)](https://open.spotify.com/track/5vdl2SUnd7qwE1BSmiNrXc) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Sicario Jr](https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI) | [Fake Love \(feat\. Sicario Jr\)](https://open.spotify.com/album/3ppByEXeXULRFFXYhflemr) | 2:38 |
+| 50 | [Ringside](https://open.spotify.com/track/2nsvYByxwXzlJw6Tps4Tde) | [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB) | [Ringside](https://open.spotify.com/album/6unsEZgvoHkSk8LyvVRhuc) | 2:58 |
 
 Snapshot ID: `AAAAAHWPhFKE2fDxTWYB9PyQ1nM+Wu4c`

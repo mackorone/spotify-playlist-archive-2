@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Kevin Kalvin in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,721 likes - 70 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,774 likes - 70 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 11 | [\#ennyp](https://open.spotify.com/track/5i1Fzs7ylTdu2uoUujL5D1) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [\#ennyp](https://open.spotify.com/album/4NAudiTZW30MVLZqbMSTps) | 2:39 |
 | 12 | [ALL IN](https://open.spotify.com/track/1ycn9FKyoyjQseu6lbFfPN) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [ALL IN](https://open.spotify.com/album/6dKFBZWxbWs4p1Jqh4FgnI) | 2:01 |
 | 13 | [Via dei Mille](https://open.spotify.com/track/2qBPVhXAvX3kTFp2mk46gn) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Via dei Mille](https://open.spotify.com/album/582gc2Nyig9saw8gHx9sUw) | 2:10 |
-| 14 | [Tinky Winky \(feat\. Pitta & Macello\)](https://open.spotify.com/track/0CcRHkvHChzo9wJDDtzR2L) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT) | [Tinky Winky \(feat\. Pitta & Macello\)](https://open.spotify.com/album/1oOMmNU5XeQPApDIfU1SHW) | 3:10 |
+| 14 | [Tinky Winky \(feat\. Pitta & Macello\)](https://open.spotify.com/track/0CcRHkvHChzo9wJDDtzR2L) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [Tinky Winky \(feat\. Pitta & Macello\)](https://open.spotify.com/album/1oOMmNU5XeQPApDIfU1SHW) | 3:10 |
 | 15 | [GRANATA \(feat\. 22Simba\)](https://open.spotify.com/track/0ECuLZrYdjiIGbZgqtCKXb) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [DIAMANTE](https://open.spotify.com/album/41PGzFoRVHv9Cu1KQq42uh) | 3:07 |
 | 16 | [ART ATTACK](https://open.spotify.com/track/786Ix4kzThar3zwk8vx6xj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [ART ATTACK](https://open.spotify.com/album/42OhbFUoE1r4I2ltGbKsG3) | 2:12 |
 | 17 | [DYK](https://open.spotify.com/track/6t9aSHVQJXCgyrFptsJxBg) | [Dema](https://open.spotify.com/artist/2GF0hfaBGDm6DmDlQxlP0O), [effee](https://open.spotify.com/artist/2SOcHQPo4X70IqbReiuSrT) | [DYK](https://open.spotify.com/album/6yegcQEzT1ELl8FE4V4RSG) | 2:48 |

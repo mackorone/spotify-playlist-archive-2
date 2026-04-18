@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,401 likes - 101 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,447 likes - 101 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gaslight](https://open.spotify.com/track/2YN68c2uZ5b5aipZJtul4u) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Gaslight](https://open.spotify.com/album/48M5raydjk0czvX1C9yw6I) | 4:15 |
-| 2 | [I Wanna Know](https://open.spotify.com/track/4Z8hHuifTbXns7NcpR34b5) | [Amani Burnham](https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD) | [I Wanna Know](https://open.spotify.com/album/2IAjjyx8kiTShjJjKBdpTe) | 3:50 |
+| 1 | [Roots & Wings](https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG) | [Amani Burnham](https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD) | [Roots & Wings](https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL) | 3:46 |
+| 2 | [Gaslight](https://open.spotify.com/track/2YN68c2uZ5b5aipZJtul4u) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Gaslight](https://open.spotify.com/album/48M5raydjk0czvX1C9yw6I) | 4:15 |
 | 3 | [Wild About My Lovin'](https://open.spotify.com/track/0iuq567Xa1XqYa0zP8gbGq) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Phantom Blues Band](https://open.spotify.com/artist/1Pi5tK3cAz6VxVKqzMWTTi) | [Wild About My Lovin'](https://open.spotify.com/album/0xxvug41aaDdUaFWmWs0t7) | 5:43 |
 | 4 | [Deja Voodoo](https://open.spotify.com/track/0QuZ8emk0omHDV5OVT38YO) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Deja Voodoo](https://open.spotify.com/album/1ZR7wNQ6ZHXBKwD7gr3P5S) | 6:27 |
 | 5 | [Downtown At Midnight](https://open.spotify.com/track/3QqboVfrxsmYfYzNoGxprT) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Downtown At Midnight](https://open.spotify.com/album/1AzuOvyUu5zqgBN8k7UohA) | 5:59 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 100 | [River Picker](https://open.spotify.com/track/2ig7mP35oEcsraWEz5Mx9S) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Bayport BBQ Blues](https://open.spotify.com/album/1xXqW6V7aVyaTaAM5gv0dU) | 4:18 |
 | 101 | [2x2](https://open.spotify.com/track/1ErjgoKMkRUjsEQ50bFaTJ) | [Taj Farrant](https://open.spotify.com/artist/33yogRYdM0M5dc9VxfoqaJ) | [2x2](https://open.spotify.com/album/5bgr5dGuxXoVUZigkqMGcK) | 2:40 |
 
-Snapshot ID: `AAAAAB4+3Knoe30PA7r5HEKsbn003IFE`
+Snapshot ID: `AAAAAFDnynLcy4EN+ZTpiZ9nDyAvhdS9`

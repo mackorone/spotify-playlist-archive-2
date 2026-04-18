@@ -1,6 +1,6 @@
 {
   "description": "Neue Musik von Tyla, Zara Larsson, Sido, Lewis Capaldi & vielen mehr!\n",
-  "num_followers": 912564,
+  "num_followers": 914554,
   "original_name": "New Music Friday Deutschland",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,22 @@
       "duration_ms": 164985,
       "name": "Gl\u00fcck",
       "url": "https://open.spotify.com/track/7j1OD1NADcP0m05LpZvBrl"
+    },
+    {
+      "added_at": "2026-04-16 22:02:29",
+      "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
     },
     {
       "added_at": "2026-04-16 22:02:29",
@@ -123,7 +139,7 @@
     {
       "added_at": "2026-04-16 22:02:29",
       "album": {
-        "name": "GELD",
+        "name": "Geld",
         "url": "https://open.spotify.com/album/7yonE5FXF3MeeXL8IMP6zQ"
       },
       "artists": [
@@ -133,7 +149,7 @@
         }
       ],
       "duration_ms": 105035,
-      "name": "GELD",
+      "name": "Geld",
       "url": "https://open.spotify.com/track/0hpiVWAZbVxE0R92i7kucF"
     },
     {
@@ -162,10 +178,18 @@
         {
           "name": "Aymo",
           "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 149326,
+      "name": "Alles ist geschrieben",
       "url": "https://open.spotify.com/track/1OnUCZlFa0C21KmI7CGeuV"
     },
     {
@@ -447,6 +471,26 @@
       "duration_ms": 206002,
       "name": "Dansons",
       "url": "https://open.spotify.com/track/7qRK8GXzeSjfOOjDASmXs8"
+    },
+    {
+      "added_at": "2026-04-16 22:02:29",
+      "album": {
+        "name": "HunchO STEP! (feat. Quavo)",
+        "url": "https://open.spotify.com/album/1QZeMcXY4qchahi6eQFzuT"
+      },
+      "artists": [
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "HunchO STEP! (feat. Quavo)",
+      "url": "https://open.spotify.com/track/5Q5q2dBnvn6CkpuB8RmLXr"
     },
     {
       "added_at": "2026-04-16 22:02:29",
@@ -1467,6 +1511,26 @@
     {
       "added_at": "2026-04-16 22:02:29",
       "album": {
+        "name": "Rock Solid (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/4Yqwii1Awg1nTLcSOgL6el"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Rock Solid (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/4uKKm5ErFjlXSLwFqWRhDn"
+    },
+    {
+      "added_at": "2026-04-16 22:02:29",
+      "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR"
       },
@@ -1568,8 +1632,8 @@
           "url": "https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 172445,
+      "name": "Mensch",
       "url": "https://open.spotify.com/track/4xfW7ZUtKWyWYhfJ8Dz8BF"
     },
     {

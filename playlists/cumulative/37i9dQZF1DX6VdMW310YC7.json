@@ -7314,7 +7314,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 310560,
       "name": "Devices",
       "url": "https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be"
@@ -22736,6 +22736,24 @@
       "duration_ms": 178535,
       "name": "My House - Chill Mix",
       "url": "https://open.spotify.com/track/0TVMVtaGg7KUqWGlI9zwjs"
+    },
+    {
+      "album": {
+        "name": "My Journey",
+        "url": "https://open.spotify.com/album/13oH6VZuvXN6KIZVq7BO7k"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194380,
+      "name": "My Journey",
+      "url": "https://open.spotify.com/track/2RvjNucBfwpP5Wn7144aZA"
     },
     {
       "album": {

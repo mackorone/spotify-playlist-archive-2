@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad7VAAAAAABN5K1X6+eUYDvD9v/HDP6z",
+  "snapshot_id": "aeAmgAAAAADnkz/Sk7GJtvItlxi9YOcI",
   "tracks": [
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 142419,
-      "name": "I've got a bad feeling...",
-      "url": "https://open.spotify.com/track/7sWQ6AQ5FR4hkNUoP2EJZS"
+      "duration_ms": 196902,
+      "name": "Disco Dystopia",
+      "url": "https://open.spotify.com/track/1G6fd7WK2vYogmHdaqugT9"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 196902,
-      "name": "Disco Dystopia",
-      "url": "https://open.spotify.com/track/1G6fd7WK2vYogmHdaqugT9"
+      "duration_ms": 142419,
+      "name": "I've got a bad feeling...",
+      "url": "https://open.spotify.com/track/7sWQ6AQ5FR4hkNUoP2EJZS"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American in Paris",
-        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "American in Paris",
-      "url": "https://open.spotify.com/track/0qmiXuQjdromX08E2ZjZ4j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cautiously Optimistic",
         "url": "https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 145674,
       "name": "Cautiously Optimistic",
       "url": "https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "American in Paris",
+      "url": "https://open.spotify.com/track/0qmiXuQjdromX08E2ZjZ4j"
     },
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Not to Love",
+        "url": "https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 185738,
+      "name": "Who Not to Love",
+      "url": "https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "guitar center",
         "url": "https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American in Paris",
-        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Because of Me",
-      "url": "https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pop Drama",
         "url": "https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5"
       },
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Not to Love",
-        "url": "https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw"
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 185738,
-      "name": "Who Not to Love",
-      "url": "https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8"
+      "duration_ms": 182500,
+      "name": "Because of Me",
+      "url": "https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D"
     }
   ],
   "unique_name": "This Is Meg Smith",

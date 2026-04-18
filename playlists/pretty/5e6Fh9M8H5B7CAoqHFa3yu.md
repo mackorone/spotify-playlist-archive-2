@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 305 likes - 2,198 songs - 5 day 10 hr 6 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 305 likes - 2,204 songs - 5 day 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2202,9 +2202,15 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2192 | [Rituals](https://open.spotify.com/track/22jnSqBJ5fxftDizxD4sid) | [Ashanti Selah](https://open.spotify.com/artist/1IdpvTfGDPshOD7PaYPAkS), [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA) | [Rituals](https://open.spotify.com/album/790fxRQeupN9YpHLNiWYiK) | 5:12 |
 | 2193 | [Космос ждёт!](https://open.spotify.com/track/3eI5TOZVCiR9F1UGgBunrq) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос ждёт!](https://open.spotify.com/album/3aEUPND51PH4Kw466Tw49M) | 4:44 |
 | 2194 | [Pizza Pepperoni](https://open.spotify.com/track/0QesMcqtIJuPYELEnpIQIF) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Pepperoni](https://open.spotify.com/album/526zGbVmgH3mxUafAM80ov) | 2:21 |
-| 2195 | [GO, ASPES, GO!](https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [GO, ASPES, GO!](https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9) | 2:13 |
+| 2195 | [GO, ASPES, GO!](https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [GO, ASPES, GO!](https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9) | 2:13 |
 | 2196 | [Hear you in the silence](https://open.spotify.com/track/7C48kdbcSroFS3LQgvd9cb) | [Funeral Letters](https://open.spotify.com/artist/0cDgNx7GyU4qBNjuQ1Zy7H) | [Hear you in the silence](https://open.spotify.com/album/1iuaowL63kbzi6VuWXDWYV) | 1:53 |
 | 2197 | [God knows I try](https://open.spotify.com/track/7635PQfM6ZDqZf6eAfqv6o) | [$!N](https://open.spotify.com/artist/4Oq5yreFMAg6DBIoSNaKpQ) | [God knows I try](https://open.spotify.com/album/4WPR1f6cgOUyXZig0T3DHs) | 2:36 |
 | 2198 | [Golden Summer Wave](https://open.spotify.com/track/70GJMcoOV4yA1uJ5AVqaAS) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Golden Summer Wave](https://open.spotify.com/album/72swxV7f8P4hJNuCN1p9Ei) | 2:49 |
+| 2199 | [Rainbow Days](https://open.spotify.com/track/6LXfw9mlFx4WsqjLAR9KgI) | [Helen Keeling\-Marston](https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP) | [Rainbow Days](https://open.spotify.com/album/4w4CrM6m5pVOnjErV8ock0) | 2:54 |
+| 2200 | [Sea Dreaming](https://open.spotify.com/track/2IiKYrxcrMeDG2ulnTOAko) | [Hellykom](https://open.spotify.com/artist/4TNnchYcTeKxyA5bbhdVsS) | [Sea Dreaming](https://open.spotify.com/album/5elhRpQ4aCGu88uYStaM4j) | 2:46 |
+| 2201 | [Fade Away](https://open.spotify.com/track/0cI1WIlj0gvI5n0Fge2DJk) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Gabriel Blue](https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ) | [Double Pulse](https://open.spotify.com/album/0PhwvUsBX486IZqMkZhePp) | 4:19 |
+| 2202 | [Live In The Moment](https://open.spotify.com/track/2JVMgLR7tUwIpBa8DCOQpN) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Stroboman](https://open.spotify.com/artist/2hIwRQeT2pmwDmOge2AAh2), [Isha Bel](https://open.spotify.com/artist/7ssdbwgJh9AyNrDWZLTw3k), [Mc Dada](https://open.spotify.com/artist/7nAO5NxSOEAT2QhtMI4W3v) | [Double Pulse](https://open.spotify.com/album/0PhwvUsBX486IZqMkZhePp) | 4:07 |
+| 2203 | [Motivation Progress](https://open.spotify.com/track/7MiGzH6INaZGKg0dVkHzMW) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 1:44 |
+| 2204 | [Love \- Acoustic](https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Xellay Acoustic](https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX) | 3:31 |
 
-Snapshot ID: `AAAJO6xxgGfj2rxPWA4yRTn+YQoU1W20`
+Snapshot ID: `AAAJQO7oZftbqAiAGpxd3cQyAWm7fV76`

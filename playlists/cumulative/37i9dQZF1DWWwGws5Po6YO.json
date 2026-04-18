@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-09",
-  "description": "The women at the forefront of ambient and experimental music. Cover: Emily A. Sprague",
+  "description": "The women at the forefront of ambient and experimental music. Cover: Kayla Pichichero",
   "name": "Women of Ambient",
   "tracks": [
     {
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 80968,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM"
@@ -2056,7 +2056,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 390000,
       "name": "Hokkaido",
       "url": "https://open.spotify.com/track/2v46UWicnCYFQAdtT6YNrq"
@@ -2364,6 +2364,24 @@
       "duration_ms": 1214483,
       "name": "Ingrid",
       "url": "https://open.spotify.com/track/2rEEQZzotPv8knXJxJBEkA"
+    },
+    {
+      "album": {
+        "name": "Touchtheplants Presents: Love Letters",
+        "url": "https://open.spotify.com/album/6ntiI5Q11Q2m8ZEWNMsv5u"
+      },
+      "artists": [
+        {
+          "name": "Sophye Soliveau",
+          "url": "https://open.spotify.com/artist/3CNkbU1JbbStMaufusgDwq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133146,
+      "name": "Initiation",
+      "url": "https://open.spotify.com/track/31Bx6z9osU2aJiHbc0TTnm"
     },
     {
       "album": {
@@ -4072,7 +4090,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
@@ -4198,7 +4216,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Springtime in Croatia",
       "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
@@ -4784,6 +4802,28 @@
       "duration_ms": 421566,
       "name": "Thoughts On The Future",
       "url": "https://open.spotify.com/track/6D0MpF3h4bFyfZAjlX8tvm"
+    },
+    {
+      "album": {
+        "name": "Threaded",
+        "url": "https://open.spotify.com/album/6mnGt3qIumxdSOjkDbibXj"
+      },
+      "artists": [
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+        },
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Threaded",
+      "url": "https://open.spotify.com/track/4CUaVMUhZV6f3NqBR4qWzu"
     },
     {
       "album": {

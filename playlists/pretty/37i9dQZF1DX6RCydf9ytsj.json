@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 729392,
+  "num_followers": 729526,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -743,18 +743,22 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Guitars, Cadillacs, Etc., Etc.",
-        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
       "artists": [
         {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 185239,
-      "name": "Guitars, Cadillacs",
-      "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
+      "duration_ms": 287626,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -775,22 +779,18 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+        "name": "Guitars, Cadillacs, Etc., Etc.",
+        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
         }
       ],
-      "duration_ms": 287626,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
+      "duration_ms": 185239,
+      "name": "Guitars, Cadillacs",
+      "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "The Best Of Terri Gibbs",
-        "url": "https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t"
+        "name": "Best Of Eddy Raven",
+        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
       },
       "artists": [
         {
-          "name": "Terri Gibbs",
-          "url": "https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg"
+          "name": "Eddy Raven",
+          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Somebody's Knockin'",
-      "url": "https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE"
+      "duration_ms": 146466,
+      "name": "I Got Mexico",
+      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Best Of Eddy Raven",
-        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
+        "name": "The Best Of Terri Gibbs",
+        "url": "https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t"
       },
       "artists": [
         {
-          "name": "Eddy Raven",
-          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
+          "name": "Terri Gibbs",
+          "url": "https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg"
         }
       ],
-      "duration_ms": 146466,
-      "name": "I Got Mexico",
-      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
+      "duration_ms": 181666,
+      "name": "Somebody's Knockin'",
+      "url": "https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Love Is Fair",
-        "url": "https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy"
-      },
-      "artists": [
-        {
-          "name": "Barbara Mandrell",
-          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
-        }
-      ],
-      "duration_ms": 154554,
-      "name": "Crackers - Single Version",
-      "url": "https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "Kentucky Hearts",
         "url": "https://open.spotify.com/album/0lNKmPEUsnsrVc4vLSnd0x"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 168666,
       "name": "Give Me One More Chance",
       "url": "https://open.spotify.com/track/3yaillNLF2RYHeHw2bBX96"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "Love Is Fair",
+        "url": "https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mandrell",
+          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+        }
+      ],
+      "duration_ms": 154554,
+      "name": "Crackers - Single Version",
+      "url": "https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Takin' It Easy",
-        "url": "https://open.spotify.com/album/2emdvvcPKBgIMCJkA4nzZa"
-      },
-      "artists": [
-        {
-          "name": "Lacy J. Dalton",
-          "url": "https://open.spotify.com/artist/3JTFILRsbbqmkb740jjT0l"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "Takin' It Easy",
-      "url": "https://open.spotify.com/track/11enveFO56ghu7Az89ekd3"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/2ktMx6m6ivjS1Pqm9tSrkJ"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 186706,
       "name": "Woke Up In Love",
       "url": "https://open.spotify.com/track/0t2EyDBuMiQ3iHi3rXrFtR"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "Takin' It Easy",
+        "url": "https://open.spotify.com/album/2emdvvcPKBgIMCJkA4nzZa"
+      },
+      "artists": [
+        {
+          "name": "Lacy J. Dalton",
+          "url": "https://open.spotify.com/artist/3JTFILRsbbqmkb740jjT0l"
+        }
+      ],
+      "duration_ms": 208786,
+      "name": "Takin' It Easy",
+      "url": "https://open.spotify.com/track/11enveFO56ghu7Az89ekd3"
     }
   ],
   "unique_name": "80s Country",

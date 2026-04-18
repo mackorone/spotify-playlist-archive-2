@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Faisal Kapadia",
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Rizwan Abbas, Maheen Sattar",
   "name": "New Pakistani Pop",
   "tracks": [
     {
@@ -1973,6 +1973,28 @@
     },
     {
       "album": {
+        "name": "Dil Sukoon",
+        "url": "https://open.spotify.com/album/152qf6NRUG3O7TPbWT5qWI"
+      },
+      "artists": [
+        {
+          "name": "Third Fret",
+          "url": "https://open.spotify.com/artist/5zAOSBpwzxlqolVhmCtTYH"
+        },
+        {
+          "name": "HAVI",
+          "url": "https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248328,
+      "name": "Dil Sukoon",
+      "url": "https://open.spotify.com/track/7mLQ4dPtw6FBvCjLDpginY"
+    },
+    {
+      "album": {
         "name": "Par Ab Jo Aayegi Tu",
         "url": "https://open.spotify.com/album/1fEFaG0JWVUkvVVH3C7tE4"
       },
@@ -2988,6 +3010,32 @@
       "duration_ms": 164658,
       "name": "Habibi (feat. Zoha Zuberi)",
       "url": "https://open.spotify.com/track/1jNRvKWOjotXJ7JmonNJV5"
+    },
+    {
+      "album": {
+        "name": "Hairan Amanam",
+        "url": "https://open.spotify.com/album/4Vf5F1uAaEiavQl6qbyS1t"
+      },
+      "artists": [
+        {
+          "name": "Humnava",
+          "url": "https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI"
+        },
+        {
+          "name": "Rizwan Abbas",
+          "url": "https://open.spotify.com/artist/4kOvSNxvoq1KMyie7p2qx0"
+        },
+        {
+          "name": "Maheen Sattar",
+          "url": "https://open.spotify.com/artist/1bheH3ZoEEfJlLkWVZfBHW"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309945,
+      "name": "Hairan Amanam",
+      "url": "https://open.spotify.com/track/0avO50pud1zOzaFKh3efBV"
     },
     {
       "album": {
@@ -4967,6 +5015,28 @@
     },
     {
       "album": {
+        "name": "The Unsent Messages",
+        "url": "https://open.spotify.com/album/3klHtYs0xMUwU8uC19AUxt"
+      },
+      "artists": [
+        {
+          "name": "Mudabbir Azeez Jamall",
+          "url": "https://open.spotify.com/artist/7HX5PwfHdsoLD7dDdY0f7l"
+        },
+        {
+          "name": "The Hashtags",
+          "url": "https://open.spotify.com/artist/2I98zL3Q63jrawDI778pmV"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191418,
+      "name": "Lovestruck",
+      "url": "https://open.spotify.com/track/3j34rJMliX9YYZlFYWX1rd"
+    },
+    {
+      "album": {
         "name": "Lutteya",
         "url": "https://open.spotify.com/album/4alqVnUPeTCTlRLT6FLtyW"
       },
@@ -5216,6 +5286,28 @@
       "duration_ms": 222197,
       "name": "Main Na Rahoon",
       "url": "https://open.spotify.com/track/5H6EKQ9HCI3u7VH1EOxA7g"
+    },
+    {
+      "album": {
+        "name": "Main Wo Nahi",
+        "url": "https://open.spotify.com/album/3Qdus0uqB8lJQNMrYrRtvJ"
+      },
+      "artists": [
+        {
+          "name": "Mehmood J",
+          "url": "https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF"
+        },
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Main Wo Nahi",
+      "url": "https://open.spotify.com/track/0jg78sSq67ZNtK3bn2mKBN"
     },
     {
       "album": {

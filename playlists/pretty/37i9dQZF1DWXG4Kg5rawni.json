@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 115087,
+  "num_followers": 115093,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/7tAd298Bqlq5r9WQ6tq8F2"
-      },
-      "artists": [
-        {
-          "name": "Vanderson Santos",
-          "url": "https://open.spotify.com/artist/0qmGMjtYTEdwGXCiMO9uXM"
-        }
-      ],
-      "duration_ms": 127093,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Cantando o Amor Vol. 2",
         "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 303020,
       "name": "A Perfei\u00e7\u00e3o de Deus",
       "url": "https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/7tAd298Bqlq5r9WQ6tq8F2"
+      },
+      "artists": [
+        {
+          "name": "Vanderson Santos",
+          "url": "https://open.spotify.com/artist/0qmGMjtYTEdwGXCiMO9uXM"
+        }
+      ],
+      "duration_ms": 127093,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA"
     },
     {
       "added_at": "2024-07-11 15:58:05",

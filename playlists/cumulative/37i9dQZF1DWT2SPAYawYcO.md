@@ -2,9 +2,9 @@
 
 ### [New Music Friday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWT2SPAYawYcO)
 
-> Brand new music from The Kid LAROI, Tyla, Zara Larsson, John Summit, Devault, Matt Corby + more
+> Brand new music from Olivia Rodrigo, The Kid LAROI, Tyla, Zara Larsson, John Summit, Devault, Matt Corby + more
 
-12,625 songs - 28 day 15 hr 32 min
+12,628 songs - 28 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3156,6 +3156,7 @@
 | [DRIVING](https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [DRIVING](https://open.spotify.com/album/5IolhHwXOqy3zVWba8AZZW) | 2:50 | 2025-07-31 | 2025-08-08 |
 | [Driving Me Wild](https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 3:02 | 2025-06-05 | 2025-06-13 |
 | [Drone](https://open.spotify.com/track/5f0S8MYAve5k02OJaiOnv7) | [Karnivool](https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um) | [Drone](https://open.spotify.com/album/7x0fnd4CBbRgf00jWks3ID) | 4:59 | 2025-06-27 | 2025-07-04 |
+| [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-17 |  |
 | [Drop Me Out](https://open.spotify.com/track/64C9Mimhyd333spyj1P8c0) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Drop Me Out](https://open.spotify.com/album/1WqBdPB6qkcWD8HbNWdMTo) | 3:57 | 2024-09-19 | 2024-09-27 |
 | [Drop That](https://open.spotify.com/track/5v895dSLobjyUxCmtg9NsY) | [Creed Tha Kid](https://open.spotify.com/artist/0Gzx0kLgEZkaNJYGJCbdYR) | [Drop That](https://open.spotify.com/album/6ZbGJeoaZmeC1JVOqVreFL) | 2:44 | 2023-11-09 | 2023-11-17 |
 | [Drop Top Down](https://open.spotify.com/track/4MVuezmJ0vh071qLHWEeTO) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [Drop Top Down](https://open.spotify.com/album/2EkJsPsm2ZgYQrTD2Tqvp1) | 3:57 | 2025-04-04 | 2025-04-11 |
@@ -5974,6 +5975,7 @@
 | [KARAOKE](https://open.spotify.com/track/3uVQNkFMVS4BTxukzG35UR) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [KARAOKE](https://open.spotify.com/album/5wRNoI7QzBYp49j21ZwZX6) | 3:41 | 2025-03-06 | 2025-03-14 |
 | [Karma](https://open.spotify.com/track/12dXnIPZSQy66NSJLsSJtN) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Karma](https://open.spotify.com/album/6biBN2b9A7LuLIN2gOWCKE) | 3:35 | 2023-06-15 | 2023-06-23 |
 | [Karma](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Karma](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 | 2024-02-22 | 2024-03-01 |
+| [Karmic](https://open.spotify.com/track/3YUOtlbkKPayMmm941VhTF) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [The Muse](https://open.spotify.com/album/0EshqHHvLmWyxU8lSVAmWk) | 3:27 | 2026-04-16 |  |
 | [Kat Food](https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kat Food](https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks) | 4:46 | 2023-08-31 | 2023-09-08 |
 | [KATSU \(feat\. Moses\)](https://open.spotify.com/track/75upQ8CWhCGPw0o0ogWnba) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J), [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [KATSU / Ninety Seven Flows](https://open.spotify.com/album/1hFkoGVhQsTW7hUSBrr8ix) | 2:59 | 2024-11-28 | 2024-12-06 |
 | [KAVAFIED](https://open.spotify.com/track/78Mrv1y0tVzrhNRpv9BcXj) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Revus](https://open.spotify.com/artist/2bvztHh7wnuRLZAwLZwpBa) | [KAVAFIED](https://open.spotify.com/album/6XXFEoCUDmrONzj2qLNGgq) | 3:04 | 2025-04-04 | 2025-04-11 |
@@ -7861,6 +7863,7 @@
 | [NRG](https://open.spotify.com/track/1Yz8xzdwt7G1ycQcsmkjiL) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [NRG](https://open.spotify.com/album/3oA8nvPoNme2PLz7pHvfpr) | 2:02 | 2025-02-27 | 2025-03-07 |
 | [NRG](https://open.spotify.com/track/79Ojf7CxxJw04NP4d8hrf8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [NRG](https://open.spotify.com/album/3S6FlsCt2FK6saAarcRoyy) | 2:26 | 2023-10-05 | 2023-10-13 |
 | [Numb](https://open.spotify.com/track/3JrxFr41KToUg6fs5XzbYV) | [Alex the Astronaut](https://open.spotify.com/artist/42NjRVKqEGe2DkGvlUd5qM) | [Rage And All Its Friends](https://open.spotify.com/album/1lzDgdlVNDGKR8ZgWxyeBa) | 2:49 | 2024-11-21 | 2024-11-29 |
+| [Numb](https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Numb](https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma) | 2:34 | 2026-04-17 |  |
 | [NUMB](https://open.spotify.com/track/3hCr2zWQWAt3tv6xIGyepr) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [NUMB](https://open.spotify.com/album/1APmwMIfD7BxwXRxffPYw0) | 3:23 | 2025-02-06 | 2025-02-14 |
 | [NUMB](https://open.spotify.com/track/0btSp7vKRL3tzpjeoO2voN) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [NUMB](https://open.spotify.com/album/2SPP3BVqOJRHPIvQYbyKbz) | 3:24 | 2025-06-19 | 2025-06-27 |
 | [Number 1](https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Number 1](https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3) | 2:25 | 2023-07-20 | 2023-07-28 |
@@ -9032,6 +9035,7 @@
 | [Right There](https://open.spotify.com/track/2bsXb2bRRkPohzW4AjroNv) | [Lowbrain](https://open.spotify.com/artist/3GPYxTFTrtFQPS8MzJVhek), [zacattacq](https://open.spotify.com/artist/27a1KqccmjqualZvUVfTKT) | [Right There](https://open.spotify.com/album/6eg4rN3OZi9mFT7o3F7svx) | 2:35 | 2026-04-16 |  |
 | [Right Til Now](https://open.spotify.com/track/3V1FVvMHfuLZ6Fk8xSsFIU) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [Right Til Now](https://open.spotify.com/album/3qUPiZ4Xry4NTzDJmKUwco) | 2:48 | 2025-10-02 | 2025-10-10 |
 | [RIGHT/WRONG](https://open.spotify.com/track/1kdWhxp9RbFFkv5exPEfrB) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [people stories](https://open.spotify.com/album/0XfiOPqfpikqCUmvSs2kRS) | 2:48 | 2025-08-21 | 2025-08-29 |
+| [Ring](https://open.spotify.com/track/5IF8oRNkO1KKj99N0clN70) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Ring](https://open.spotify.com/album/16i0QEYE0vsq7JF0eU1s46) | 3:21 | 2026-04-17 |  |
 | [Ring On It](https://open.spotify.com/track/6jsILzXZH4g0bIT56ophdx) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Ring On It](https://open.spotify.com/album/6mJNwKLjfUifIFmkXhUgVw) | 3:04 | 2025-04-04 | 2025-04-11 |
 | [Ring Ring](https://open.spotify.com/track/1mLrKUepZE0AI11JvOwWci) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Ring Ring](https://open.spotify.com/album/7HDaOyg3G7ltdxVPbQIkry) | 2:03 | 2024-05-16 | 2024-05-24 |
 | [Ring Ring \(feat\. Gold Fang\)](https://open.spotify.com/track/09DmxKwN6I1JZyLJIo8Rgv) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Ring Ring \(feat\. Gold Fang\)](https://open.spotify.com/album/42lgJRGdcLHuOK60aOl6ay) | 2:27 | 2023-08-10 | 2023-08-18 |
@@ -11420,7 +11424,6 @@
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-23 | 2023-06-30 |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-07-31 | 2025-08-08 |
 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 | 2024-05-16 | 2024-05-24 |
-| [Track 5](https://open.spotify.com/track/3YUOtlbkKPayMmm941VhTF) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [The Muse](https://open.spotify.com/album/0EshqHHvLmWyxU8lSVAmWk) | 0:00 | 2026-04-16 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-03 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-20 |
 | [TRAFFIC](https://open.spotify.com/track/5lVNQLvr89qXZFu2CyyLX4) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [TRAFFIC](https://open.spotify.com/album/76FsZpoyeFy6sH4nccj2HL) | 4:00 | 2026-01-29 | 2026-02-06 |

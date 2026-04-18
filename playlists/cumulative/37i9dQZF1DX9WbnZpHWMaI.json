@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the center of innovation in electronic music. Featuring Storm Mollison.",
+  "description": "Celebrating women at the center of innovation in electronic music. Featuring Carlita.",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -854,7 +854,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 203195,
       "name": "ASCEND",
       "url": "https://open.spotify.com/track/20cOEyAbHE1aq1FUaPCs1N"
@@ -1170,6 +1170,24 @@
       "duration_ms": 163000,
       "name": "Baddiez",
       "url": "https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k"
+    },
+    {
+      "album": {
+        "name": "Piratebae",
+        "url": "https://open.spotify.com/album/3zvIXXx4TxO7px4sUq3IrA"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207300,
+      "name": "Baewatch",
+      "url": "https://open.spotify.com/track/0WQanxyDKJltTrsp29co9T"
     },
     {
       "album": {
@@ -2226,6 +2244,28 @@
       "duration_ms": 244533,
       "name": "Catch The Beat",
       "url": "https://open.spotify.com/track/5xJ6K23ELhgOd6YHeFam9m"
+    },
+    {
+      "album": {
+        "name": "A Shift In Perspective",
+        "url": "https://open.spotify.com/album/1p0swVFMZ8dgXLHfydcF8Q"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Street Fever",
+          "url": "https://open.spotify.com/artist/0vr95mHdD2YEVeNXmGgYja"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/4a8WB7ZmEId2rsts2M05Lj"
     },
     {
       "album": {
@@ -5951,6 +5991,24 @@
     },
     {
       "album": {
+        "name": "Heartbroken",
+        "url": "https://open.spotify.com/album/1b4mHMMPEM3oUgb3c0CcZJ"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312727,
+      "name": "Heartbroken",
+      "url": "https://open.spotify.com/track/0WCWtP6EOpc9vjlJ6TCUq3"
+    },
+    {
+      "album": {
         "name": "GHOST WORLD",
         "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
       },
@@ -7346,7 +7404,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 326930,
       "name": "It's Magic",
       "url": "https://open.spotify.com/track/1wKb5YlIulQbyQggHLwxXQ"
@@ -8316,7 +8374,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 275208,
       "name": "Los Poemas No Siempre Riman (DJ-Kicks)",
       "url": "https://open.spotify.com/track/3iDRa9vD0TunjvYzcVcRSC"
@@ -9088,7 +9146,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 236110,
       "name": "Move & Flow",
       "url": "https://open.spotify.com/track/7vfwYnc46GCiyAxozMvJFz"
@@ -10199,6 +10257,28 @@
     },
     {
       "album": {
+        "name": "Patchwork",
+        "url": "https://open.spotify.com/album/1jdPpk0cKJ4iQvsZfEXstU"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187087,
+      "name": "Patchwork",
+      "url": "https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD"
+    },
+    {
+      "album": {
         "name": "SOLACE",
         "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
       },
@@ -10294,6 +10374,24 @@
       "duration_ms": 240916,
       "name": "Phantasy",
       "url": "https://open.spotify.com/track/5uEW8Kp1dM8UbotWxieU9c"
+    },
+    {
+      "album": {
+        "name": "Pingers",
+        "url": "https://open.spotify.com/album/7KCeEhwf6JElhbfuNxfPgf"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Pingers",
+      "url": "https://open.spotify.com/track/5H6hs8cw8QDcqWlyy2ifXH"
     },
     {
       "album": {
@@ -10704,7 +10802,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 174330,
       "name": "Push The Vibe",
       "url": "https://open.spotify.com/track/6tpo6T9msGhFT7NJRo1D53"
@@ -11659,6 +11757,28 @@
     },
     {
       "album": {
+        "name": "Shake Down (Regrette Rien Mix)",
+        "url": "https://open.spotify.com/album/1kFOuM0oYv7FgZwUtvazeS"
+      },
+      "artists": [
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        },
+        {
+          "name": "KURT.",
+          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219630,
+      "name": "Shake Down - Regrette Rien Mix",
+      "url": "https://open.spotify.com/track/70tSdH7QeLCoiEsq4gzxAk"
+    },
+    {
+      "album": {
         "name": "Shapes",
         "url": "https://open.spotify.com/album/2leZqHN3OIH8eC6dSDHZOk"
       },
@@ -12220,7 +12340,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 111566,
       "name": "SOMETHING BEAUTIFUL",
       "url": "https://open.spotify.com/track/7wecYEdY8NUL3H4ARYZ8jz"
@@ -13113,6 +13233,28 @@
     },
     {
       "album": {
+        "name": "That Girl (feat. Julz Romwell)",
+        "url": "https://open.spotify.com/album/0ftJeDt2MZ9P7HmEBm1Lyy"
+      },
+      "artists": [
+        {
+          "name": "Billie-Jean Blackett",
+          "url": "https://open.spotify.com/artist/7DWh212YUZY1gdBsXDgMBe"
+        },
+        {
+          "name": "Julz Romwell",
+          "url": "https://open.spotify.com/artist/2sNHabI4zdxVX5BDVNKpEF"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324500,
+      "name": "That Girl (feat. Julz Romwell)",
+      "url": "https://open.spotify.com/track/26NIdvq84Xr466gKTnwUX1"
+    },
+    {
+      "album": {
         "name": "Through The Wall",
         "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
       },
@@ -13768,7 +13910,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 171444,
       "name": "Too Slow (All Night)",
       "url": "https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU"

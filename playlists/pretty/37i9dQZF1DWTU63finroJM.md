@@ -2,32 +2,36 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: Tegi Pannu
+> Meet the future of music around the world\. Cover: Chezka
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,128 likes - 21 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,126 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Faço Acontecer](https://open.spotify.com/track/37ApccN7IgSrnuDYMbRNHU) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [C4rlinhxs](https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp), [vvallace](https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO) | [Faço Acontecer](https://open.spotify.com/album/1JoDY5x7dmUiQZQhFEMl7M) | 2:36 |
-| 2 | [Eastside](https://open.spotify.com/track/2evvE2jejUgiMrZNeCyi0H) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Eastside](https://open.spotify.com/album/3TC2ByOCEmKmVQmSaBmAWl) | 1:37 |
-| 3 | [JDP](https://open.spotify.com/track/36kIGKkKT22D1DXI8iVMVq) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG) | [Misunderstood](https://open.spotify.com/album/5NtMBGjZe5Io2gyCAARolT) | 2:17 |
-| 4 | [KISSBURN](https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [KISSBURN](https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT) | 3:12 |
-| 5 | [Without Me](https://open.spotify.com/track/4fp4bybobrFHSjpG39jG64) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Without Me](https://open.spotify.com/album/0m7SYiB2n6V3FNZumxHSwW) | 3:39 |
-| 6 | [Disappear](https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Greyhound](https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP) | 3:31 |
-| 7 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 |
-| 8 | [Tou7chtk](https://open.spotify.com/track/1tGIVt8MeK4vhF9NWQ6IUs) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [AUJ](https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx) | 2:47 |
-| 9 | [El Hombre Planeta](https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Hombre Planeta](https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8) | 3:52 |
-| 10 | [Gouden Handdruk](https://open.spotify.com/track/3HryFpTCmYuRrrIs4SMSZO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Gouden Handdruk](https://open.spotify.com/album/3zDAMQGuzJza5R8dObj7HD) | 2:08 |
-| 11 | [MEEN SAME3NA](https://open.spotify.com/track/6eSaR4ydYuADFBTwPSje8C) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [MEEN SAME3NA](https://open.spotify.com/album/4DyGmGMadiWknwVbuSpgVx) | 2:23 |
-| 12 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 |
-| 13 | [What’s a Girl Gotta Do?](https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Room Service](https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ) | 2:47 |
-| 14 | [Believe](https://open.spotify.com/track/0P4m0R5msH9E5I2CfQx7Dg) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Believe](https://open.spotify.com/album/5UML5yybgZrFpHIMD3w7zY) | 3:42 |
-| 15 | [CENT PER CENT](https://open.spotify.com/track/4DN7qIOgFue3K9mH6sJs6Y) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [CENT PER CENT](https://open.spotify.com/album/773bcOMkLxhlik2epGoXXH) | 3:12 |
-| 16 | [steer](https://open.spotify.com/track/4H6koInIFUq2k2qaSFPuWG) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [steer](https://open.spotify.com/album/6eV82gYdpWpoQVbBJjqTIK) | 2:58 |
-| 17 | [SONO PERSA](https://open.spotify.com/track/1CfhwjK3SSRwLy4A7uOxb6) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SONO PERSA](https://open.spotify.com/album/3Yf86Lnx0lY2yNuslp5OIp) | 2:51 |
-| 18 | [Precious](https://open.spotify.com/track/20djsOOXlbSIeO2idY99c3) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Gäelle](https://open.spotify.com/artist/6aiaoT7eRRVYKgpYDB4s6T) | [Precious](https://open.spotify.com/album/7Mv6IVfkVlzxlyAihQspQK) | 2:32 |
-| 19 | [OVERSIZE](https://open.spotify.com/track/1DWdzegxzshILVfcdlKLsO) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [OVERSIZE](https://open.spotify.com/album/38rVKLQJl7LzrJ8yivSj7y) | 2:03 |
-| 20 | [just busiNESS \(feat\. Kalisway\)](https://open.spotify.com/track/00VNNaPRpJCGiV4T1LRuyL) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [INSECURE](https://open.spotify.com/album/3aIMsGenEfDKTS2Cco1JP8) | 2:54 |
-| 21 | [عيون طبعه](https://open.spotify.com/track/5Pwo31TU96rueCTItC9f7v) | [Bandar Abdulaziz](https://open.spotify.com/artist/4QnEgid1Wuxlr1vHgyzUXw) | [عيون طبعه](https://open.spotify.com/album/5A5WIQitjOs9zw0OT9N7N7) | 3:27 |
+| 1 | [EEEE A](https://open.spotify.com/track/4h07ne6Xf5AaCIGkrgNq1i) | [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu) | [INI DIA](https://open.spotify.com/album/2zrnqv7JAhdID3uKiIxbUR) | 1:58 |
+| 2 | [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 |
+| 3 | [Hum](https://open.spotify.com/track/7oNZfE9wnu7SP55LwNSiKG) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Hum](https://open.spotify.com/album/7idG3a5Nmotd02hA6ifD0f) | 4:35 |
+| 4 | [Tonight](https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Tonight](https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe) | 2:25 |
+| 5 | [Maname](https://open.spotify.com/track/1dhe3PICallkMWr9098yzp) | [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO) | [Maname](https://open.spotify.com/album/7ekJRzvF4WcSUNddETbXjm) | 2:26 |
+| 6 | [MALU MALU](https://open.spotify.com/track/70mMQpJZwUuqardEybuaPP) | [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu), [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB) | [INI DIA](https://open.spotify.com/album/2zrnqv7JAhdID3uKiIxbUR) | 3:25 |
+| 7 | [BUONA DOMENICA](https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [BUONA DOMENICA](https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn) | 3:07 |
+| 8 | [SpiceKick](https://open.spotify.com/track/0s6ESjDmU3DNbhXrPoIxrX) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [SpiceKick](https://open.spotify.com/album/58PCIgUueFleyunThXBdf4) | 2:29 |
+| 9 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
+| 10 | [Conversation](https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Conversation](https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp) | 3:06 |
+| 11 | [2 u](https://open.spotify.com/track/1YllcxF83MuX91skLPWibK) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [stranger](https://open.spotify.com/album/3zx9SPca8Igs9PsN6Yf0xV) | 2:16 |
+| 12 | [Oxygen](https://open.spotify.com/track/6IHodicddcuL8RqlvMfYwL) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Oxygen](https://open.spotify.com/album/157wCjGBfjmL0R0wzKr57o) | 2:32 |
+| 13 | [Stranger's Funeral](https://open.spotify.com/track/0xsKzUbzpcqQ9kGLV1tZ16) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Stranger's Funeral](https://open.spotify.com/album/5n9BwlAdpF815L01sIed5l) | 3:43 |
+| 14 | [Liar](https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Liar](https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9) | 3:37 |
+| 15 | [Zarii](https://open.spotify.com/track/2yHBq4DRKITMUypmWT136A) | [rohh](https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Zarii](https://open.spotify.com/album/70ZVp8tkKTz2VUl6TIvjDS) | 2:51 |
+| 16 | [Nothing](https://open.spotify.com/track/3VfiR8Ikkdx9H8CKaBkVwL) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Slow Death Of A Good Girl](https://open.spotify.com/album/7cjBiziS9cTyXLM9VCKL2h) | 4:47 |
+| 17 | [Limerence](https://open.spotify.com/track/7GX3fsty0E2X2ZE8GivcGm) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Limerence](https://open.spotify.com/album/0EM7cPfo622WFhZVFCDtFt) | 2:08 |
+| 18 | [PICKY](https://open.spotify.com/track/2IccNAIFnWsgRfIVfTNRZv) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [PICKY](https://open.spotify.com/album/0x1XlFTb3Gx4s6Z36ABV6e) | 2:08 |
+| 19 | [silly nature](https://open.spotify.com/track/39TQI4MMElmwhA0f07apQ8) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 2:27 |
+| 20 | [RUDE BOYS](https://open.spotify.com/track/1JM9T6BscsTCG7MLvliLTw) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [METAMORFOSI](https://open.spotify.com/album/4Xxeo92mq7Nr9jlZyr0yza) | 2:21 |
+| 21 | [Kiss u goodnight](https://open.spotify.com/track/4Vz6slkVySutvsUxegFupk) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V) | [Kiss u goodnight](https://open.spotify.com/album/0no5KOn0MFnit0HXQr8M9S) | 3:14 |
+| 22 | [Misfire](https://open.spotify.com/track/3LB91BYKAZqcQG7Q2TGepV) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Misfire](https://open.spotify.com/album/0UmM7cmL7Mxy4ZUCDdD41e) | 3:41 |
+| 23 | [Ye SUBAH](https://open.spotify.com/track/68Kq0B0ZdM6c00puZv1HwQ) | [Sameer Rahat](https://open.spotify.com/artist/0GjCAhxXdNW2Cje8YIHxp0) | [Ye SUBAH](https://open.spotify.com/album/3uXDLXxjHTcpj48rXarsHu) | 3:49 |
+| 24 | [i told chatgpt about you](https://open.spotify.com/track/0bFhKx00u59mp57ICYhwCM) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [i told chatgpt about you](https://open.spotify.com/album/7jMn0C4Thymtq0OKKA5qlZ) | 3:14 |
+| 25 | [末日之戀](https://open.spotify.com/track/04IkgvVjxtp5YrWqNtNPUX) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V) | [末日之戀](https://open.spotify.com/album/3tHQ6niOyfDc5rQ3hQVVUc) | 3:40 |
 
-Snapshot ID: `AAAAAHC0d+po3FRCzIrTCVoTeAt+yPAf`
+Snapshot ID: `AAAAALZEE5PAqN2bOc2A5HFhE75j7eb2`

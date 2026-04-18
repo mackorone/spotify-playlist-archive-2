@@ -192,6 +192,24 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515517,
+      "name": "diluted dreams",
+      "url": "https://open.spotify.com/track/2SCGNFoRjm5YqWgOhUVh9W"
+    },
+    {
+      "album": {
+        "name": "a softer focus",
+        "url": "https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -394,7 +412,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 165000,
       "name": "going home",
       "url": "https://open.spotify.com/track/2YCubAqWhA0xekkAbsNWBI"
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 289737,
       "name": "stoned gesture",
       "url": "https://open.spotify.com/track/596Te3MjCbYJ3keibf780e"
@@ -1256,7 +1274,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 504000,
       "name": "v",
       "url": "https://open.spotify.com/track/5BZyjIbDp5u7PeT2TlmTfk"

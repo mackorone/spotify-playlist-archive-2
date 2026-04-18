@@ -652,7 +652,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 154880,
       "name": "I'm Sorry for Everything I've done",
       "url": "https://open.spotify.com/track/2zIQJsE1KrqlHWG0EVbEMT"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 133862,
       "name": "Overlay",
       "url": "https://open.spotify.com/track/7jiQGNVSxAmnEy5z5mtYo2"
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 179253,
       "name": "Sixth Magnitude Star - MHA Arr Ver.",
       "url": "https://open.spotify.com/track/5P8p3KXKcNyNrjo2u9cxgL"
@@ -2028,7 +2028,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 121213,
       "name": "\u3054\u3042\u3044\u3055\u3064",
       "url": "https://open.spotify.com/track/66dqsdJHQmSNzzNH17QfyQ"
@@ -2576,6 +2576,24 @@
       "duration_ms": 179733,
       "name": "\u4ffa\u304c\u541b\u306e\u30d2\u30fc\u30ed\u30fc\u306b\u306a\u308b",
       "url": "https://open.spotify.com/track/4wOATd2ihCOz8Qx662M8uJ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f7th\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3BD6yrG6ElkvT8sZi1F8SP"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179253,
+      "name": "\u516d\u7b49\u661f - MHA Arr Ver.",
+      "url": "https://open.spotify.com/track/00DcXgTtsvtv6AtN64GkF3"
     },
     {
       "album": {
@@ -3656,7 +3674,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 91973,
       "name": "\u9802\u306e\u666f\u8272",
       "url": "https://open.spotify.com/track/3TQq78O1tjqaAvEusTDh4s"

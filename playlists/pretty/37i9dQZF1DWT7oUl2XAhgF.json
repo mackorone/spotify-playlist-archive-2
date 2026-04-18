@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 394689,
+  "num_followers": 394760,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGVA6wYdwTiI74WSR8JQshQRMdsO",
+  "snapshot_id": "AAAAAOBIg4O4onW51MjmSXOfbJrNgBEM",
   "tracks": [
+    {
+      "added_at": "2026-04-17 04:01:03",
+      "album": {
+        "name": "Hang It On The Shelf",
+        "url": "https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 145786,
+      "name": "Hang It On The Shelf",
+      "url": "https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK"
+    },
     {
       "added_at": "2026-04-10 04:00:47",
       "album": {
@@ -59,22 +75,6 @@
       "duration_ms": 261946,
       "name": "Maybe I'm A Fool (But I'm In Love Again)",
       "url": "https://open.spotify.com/track/0PrKi90d6J8PygGGSyUIoJ"
-    },
-    {
-      "added_at": "2026-03-06 05:00:04",
-      "album": {
-        "name": "Doctrine of Love",
-        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Doctrine of Love",
-      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
     },
     {
       "added_at": "2026-02-27 05:00:47",

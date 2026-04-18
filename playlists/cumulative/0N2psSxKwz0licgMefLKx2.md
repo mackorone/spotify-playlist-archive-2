@@ -2,9 +2,9 @@
 
 ### [2026 COUNTRY BANGERS 🤠🔥](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross
+> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Owen Riegling
 
-423 songs - 23 hr 3 min
+424 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Reel Problems](https://open.spotify.com/track/6GIQCOTlVMCn1XEcO3tUiG) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:17 | 2024-10-18 | 2024-11-26 |
 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 | 2023-11-03 | 2024-06-09 |
 | [Remember Me Well](https://open.spotify.com/track/1Eii2r1Y6Whb6U5URN1Ydm) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Remember Me Well](https://open.spotify.com/album/5lLxk2C7m4VjYFG1jmzd4c) | 3:49 | 2023-11-03 | 2024-03-02 |
+| [Rest Of My](https://open.spotify.com/track/5gg60N7CLZfi8n6dUDds7C) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [In The Feeling](https://open.spotify.com/album/08njMjzGJAA15lxMQzqzbo) | 3:20 | 2026-04-17 |  |
 | [Ride Or Die Radio](https://open.spotify.com/track/6h42TDOrNK8k6zba6rvh1G) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Ride Or Die Radio](https://open.spotify.com/album/6By8hGFha0XbGQRZ9SyGVV) | 3:50 | 2025-04-04 | 2025-04-26 |
 | [Roads That Go Nowhere](https://open.spotify.com/track/2ZB6CLPqN9OvtPKKC81Sq6) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Roads That Go Nowhere](https://open.spotify.com/album/63yxXLeDSqWIehJZNC3n6N) | 3:18 | 2024-02-23 | 2024-05-04 |
 | [Roulette On The Heart](https://open.spotify.com/track/5g4ARvINyjjLoiDX4roM8m) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk), [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Smoky Mountains](https://open.spotify.com/album/2giuHTYPbL8hSugmqDcvAz) | 3:15 | 2024-01-26 | 2024-06-09 |

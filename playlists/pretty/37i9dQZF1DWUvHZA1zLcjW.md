@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,508 likes - 131 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,479 likes - 131 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Carnival of the Animals, R\. 125: XIII\. The Swan](https://open.spotify.com/track/3U8Fx7zNTQrctytkj6Gqgd) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M), [Jeneba Kanneh\-Mason](https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Saint\-Saëns: Carnival of the Animals: The Swan](https://open.spotify.com/album/3SbOSz7UrUpxok03YjX5YI) | 2:30 |
+| 1 | [The Carnival of the Animals, R\. 125: XIII\. The Swan](https://open.spotify.com/track/3U8Fx7zNTQrctytkj6Gqgd) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M), [Jeneba Kanneh\-Mason](https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Saint\-Saëns: Carnival of the Animals: The Swan](https://open.spotify.com/album/3SbOSz7UrUpxok03YjX5YI) | 2:30 |
 | 2 | [Gymnopédie No\. 1](https://open.spotify.com/track/5NGtFXVpXSvwunEIGeviY3) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Philippe Entremont](https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO) | [Erik Satie & Friends](https://open.spotify.com/album/32kkHw8GnItrzLQ1qwupbJ) | 3:25 |
 | 3 | [Piano Sonata No\. 12 in F Major, K\. 332: II\. Adagio](https://open.spotify.com/track/0ftAOThcYwpSDapJhDOy7o) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Mozart: Piano Sonatas K.309, K.332 & K.570](https://open.spotify.com/album/44c4dUwLlRWjAvMgg4ihIG) | 4:44 |
 | 4 | [Kinderszenen, Op\. 15: I\. Von fremden Ländern und Menschen](https://open.spotify.com/track/6lWeNiZ3cLcXbVecSlTrN4) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Marc\-André Hamelin](https://open.spotify.com/artist/0pm0LWiklLtNXUP2GVwdqY) | [Schumann: Scenes from Childhood; Waldszenen – Janáček: On the Overgrown Path, Book 1](https://open.spotify.com/album/0yJNUjSB1TQ4ewZoaPOEwh) | 1:58 |

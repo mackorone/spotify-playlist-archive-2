@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,989 likes - 110 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,998 likes - 110 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 21 | [Whosoever \- Live](https://open.spotify.com/track/6FfQyUSA8grFb1Y3Wnbanq) | [Wellspring Music](https://open.spotify.com/artist/760XbihuDnesUcKkNEOOIj), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Malachi Lucey](https://open.spotify.com/artist/1lNMOGGfhY4JFmw92Wr1mJ) | [Whosoever \(Live\)](https://open.spotify.com/album/5VD7Hzv0v0cZ5mxUhckuA3) | 4:09 |
 | 22 | [Bigger Everyday](https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [The membrane](https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5), [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:12 |
 | 23 | [Jehovah Move](https://open.spotify.com/track/6qW4DOv4LVcjIuP96YTMX3) | [Sikaflames](https://open.spotify.com/artist/1g45lpGTrdvpcNlQ3ZQnRg) | [Jehovah Move](https://open.spotify.com/album/6BZRvHDc4aHW40nIjr5mBm) | 3:41 |
-| 24 | [Like Fire](https://open.spotify.com/track/5zdpJyBSFvecdK7Zt5QaMb) | [Danad](https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J) | [Like Fire](https://open.spotify.com/album/3hVb3G3HXrhCY0KgIV6YCu) | 2:28 |
+| 24 | [Like Fire](https://open.spotify.com/track/5zdpJyBSFvecdK7Zt5QaMb) | [Danad](https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J) | [Like Fire](https://open.spotify.com/album/3hVb3G3HXrhCY0KgIV6YCu) | 2:29 |
 | 25 | [first love](https://open.spotify.com/track/4WsHLmE2vJsCh3ToaBpaCv) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [first love](https://open.spotify.com/album/4m4Yp50LJXurZbV9eBLTPt) | 2:48 |
 | 26 | [Call My Name](https://open.spotify.com/track/1WI5G7gvxfLanIVuWPxDrG) | [Ken erics](https://open.spotify.com/artist/5pSgNNjy7wnH4MF8PqTf7U) | [Call My Name](https://open.spotify.com/album/0QsiNQJW66Fnl7IeLzYkOs) | 2:46 |
 | 27 | [Ebenezer II](https://open.spotify.com/track/6Bn0kysMFUy3tGhubATm2L) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Ebenezer II](https://open.spotify.com/album/4L8FTJoXvoTphjxlsPFd0d) | 2:36 |

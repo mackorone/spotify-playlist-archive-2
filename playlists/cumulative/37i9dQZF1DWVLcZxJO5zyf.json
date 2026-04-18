@@ -2589,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "EQUILIBRIVM",
+        "url": "https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170581,
+      "name": "Desgra\u00e7a",
+      "url": "https://open.spotify.com/track/7kLZlMAsV9Kx7RynqQaTiG"
+    },
+    {
+      "album": {
         "name": "Deslocado",
         "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
       },
@@ -3192,7 +3210,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 146086,
       "name": "FAL",
       "url": "https://open.spotify.com/track/4Rs3vSQPDnvnQBmbw9pVY6"
@@ -3856,7 +3874,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 204194,
       "name": "grillos",
       "url": "https://open.spotify.com/track/7A9cJvJvTynNe4yjcHS30A"
@@ -5097,6 +5115,28 @@
     },
     {
       "album": {
+        "name": "Melhor Amiga do Tempo (com Maru2D)",
+        "url": "https://open.spotify.com/album/6UkRen2khd0V2T2d5iponC"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150618,
+      "name": "Melhor Amiga do Tempo (com Maru2D)",
+      "url": "https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK"
+    },
+    {
+      "album": {
         "name": "Melhor Assunto",
         "url": "https://open.spotify.com/album/4FfCVmFmOOBFwuVCYwrDff"
       },
@@ -5462,6 +5502,24 @@
       "duration_ms": 160000,
       "name": "Muito Prazer",
       "url": "https://open.spotify.com/track/4lr83Y9bskhsphElLXuAs6"
+    },
+    {
+      "album": {
+        "name": "MULHER (By BERSHKA Music)",
+        "url": "https://open.spotify.com/album/1Mym0DikYAiFaKftMdsqo4"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205409,
+      "name": "MULHER (By BERSHKA Music)",
+      "url": "https://open.spotify.com/track/0boJTpbJMlKJWzyEEWuQdO"
     },
     {
       "album": {
@@ -8772,7 +8830,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 122554,
       "name": "Subconsciente",
       "url": "https://open.spotify.com/track/5M9u4fXuHLDYSrxGzezMSL"

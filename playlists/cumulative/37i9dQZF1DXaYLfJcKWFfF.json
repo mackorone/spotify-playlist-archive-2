@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Failed Artist",
+        "url": "https://open.spotify.com/album/79ELHzdwqYVYy7faFPXHxM"
+      },
+      "artists": [
+        {
+          "name": "Zwonaka",
+          "url": "https://open.spotify.com/artist/5oD2IgsstX9I592DVC5gQi"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193639,
+      "name": "A Failed Artist",
+      "url": "https://open.spotify.com/track/3ToWtugfYUA1eLU8cQJmto"
+    },
+    {
+      "album": {
         "name": "A Long Way",
         "url": "https://open.spotify.com/album/2MxblownRNGAkkYxPsFA2V"
       },
@@ -786,7 +804,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 252216,
       "name": "Broda Kevwe",
       "url": "https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2"
@@ -884,6 +902,24 @@
       "duration_ms": 204000,
       "name": "BY THE BOOK",
       "url": "https://open.spotify.com/track/4bsyynJ3cTfhwJwRNaU7ja"
+    },
+    {
+      "album": {
+        "name": "candlelight",
+        "url": "https://open.spotify.com/album/3N3NZeApBVtfALz0oKrP8E"
+      },
+      "artists": [
+        {
+          "name": "meelu",
+          "url": "https://open.spotify.com/artist/2deayPInIeJYpH3mf60duo"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192613,
+      "name": "candlelight",
+      "url": "https://open.spotify.com/track/5aBqHxTL1XmW4KtH47SXIf"
     },
     {
       "album": {
@@ -1271,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "Day Dreamer",
+        "url": "https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW"
+      },
+      "artists": [
+        {
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192174,
+      "name": "Day Dreamer",
+      "url": "https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv"
+    },
+    {
+      "album": {
         "name": "Sarang / \uc0ac\ub791",
         "url": "https://open.spotify.com/album/4NVaNkPf051HYgA6SiWyDy"
       },
@@ -1358,7 +1412,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 221960,
       "name": "Djanfa Di",
       "url": "https://open.spotify.com/track/4FcHp8FUkrAwUehLBKM6si"
@@ -2331,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "Hello Goodbye",
+        "url": "https://open.spotify.com/album/4oArlyQMejUAK1jdPWhfUz"
+      },
+      "artists": [
+        {
+          "name": "Lola Audreys",
+          "url": "https://open.spotify.com/artist/1hAEiB06cyEmWTSyt1BFkp"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185120,
+      "name": "Hello Goodbye",
+      "url": "https://open.spotify.com/track/42Ls6yMxH0HdVkZdbdB8fy"
+    },
+    {
+      "album": {
         "name": "Heya",
         "url": "https://open.spotify.com/album/7D2ZtohV2KRQ3TNIm7l4ZY"
       },
@@ -2466,6 +2538,24 @@
     {
       "album": {
         "name": "Home",
+        "url": "https://open.spotify.com/album/7clLRInWHlfpccu0M8rQYc"
+      },
+      "artists": [
+        {
+          "name": "ARCHR",
+          "url": "https://open.spotify.com/artist/6sbMpWQfzVDSz8MY0SAXSw"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188522,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6lUdBRur3EQb6BhMZ5eduR"
+    },
+    {
+      "album": {
+        "name": "Home",
         "url": "https://open.spotify.com/album/7qZiuy7KLt5j5BXrs76wo3"
       },
       "artists": [
@@ -2564,7 +2654,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 219605,
       "name": "How Dare You",
       "url": "https://open.spotify.com/track/3NxnFgg4YKQkqzNPQqAKRX"
@@ -3122,7 +3212,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 236158,
       "name": "Joyce Buyers Method",
       "url": "https://open.spotify.com/track/3IsTEeUvjblUnfHzuH88WO"
@@ -3474,7 +3564,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 265480,
       "name": "Let Love Be",
       "url": "https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV"
@@ -3598,7 +3688,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 168315,
       "name": "Light in Darkest Night",
       "url": "https://open.spotify.com/track/7c81879sor33GdZ2Qx4ris"
@@ -3620,6 +3710,24 @@
       "duration_ms": 213720,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/6yGXvc3MzZOYIfh5bVwe07"
+    },
+    {
+      "album": {
+        "name": "Lighten My Heart",
+        "url": "https://open.spotify.com/album/3AwsRLBiUlqFba7IhPjnNt"
+      },
+      "artists": [
+        {
+          "name": "Vian Izak",
+          "url": "https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183277,
+      "name": "Lighten My Heart",
+      "url": "https://open.spotify.com/track/6pn4vgkxx4XzhA0X0P9OzO"
     },
     {
       "album": {
@@ -4010,6 +4118,24 @@
       "duration_ms": 188715,
       "name": "maybe it's time",
       "url": "https://open.spotify.com/track/0soVtqtaQyCSmCqJWtUE9G"
+    },
+    {
+      "album": {
+        "name": "Mediocre Man",
+        "url": "https://open.spotify.com/album/5IpW6tVPJe4bVGn2dKnRLn"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185835,
+      "name": "Mediocre Man",
+      "url": "https://open.spotify.com/track/1hUQcaN5z13FvtnNhhPsoy"
     },
     {
       "album": {
@@ -6310,7 +6436,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 201600,
       "name": "Stuck in a Freezer with Dead Animals",
       "url": "https://open.spotify.com/track/1ii1lAd1aPP75QYNfTc0a2"
@@ -7246,7 +7372,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 187014,
       "name": "UNTITLED 1981",
       "url": "https://open.spotify.com/track/61RCyIHnmBpbNNvVNNHe0F"
@@ -8012,6 +8138,24 @@
       "duration_ms": 181176,
       "name": "You Made It Easy to Let Go",
       "url": "https://open.spotify.com/track/0ePA3ZPD4hQW9w0GIjwyQg"
+    },
+    {
+      "album": {
+        "name": "You Want Me",
+        "url": "https://open.spotify.com/album/6DzCw29EiZh5vbzfJwo7L7"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Lee",
+          "url": "https://open.spotify.com/artist/5Mm5UKAlvabjuuw6i4oz98"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "You Want Me",
+      "url": "https://open.spotify.com/track/4uWaSDMiSisZW5cf7mCNdF"
     },
     {
       "album": {

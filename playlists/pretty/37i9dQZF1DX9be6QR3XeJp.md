@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Natanya
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,453 likes - 276 songs - 14 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,456 likes - 276 songs - 14 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

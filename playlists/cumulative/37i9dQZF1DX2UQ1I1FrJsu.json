@@ -692,10 +692,28 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 157186,
       "name": "Come Live With Me",
       "url": "https://open.spotify.com/track/3YT2vdLbvfcjfCiNR4DsKT"
+    },
+    {
+      "album": {
+        "name": "Conclus\u00e3o",
+        "url": "https://open.spotify.com/album/558KhhJ6MhkqHlgiB4IoAc"
+      },
+      "artists": [
+        {
+          "name": "Lau Ro",
+          "url": "https://open.spotify.com/artist/541ER2icL7JZDTQ2SeiOGJ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222160,
+      "name": "Conclus\u00e3o",
+      "url": "https://open.spotify.com/track/4edMM3tBl3WFKA3z79SfJt"
     },
     {
       "album": {
@@ -1014,6 +1032,32 @@
       "duration_ms": 194623,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/6WT8Fwros1G2niyDvgtNnY"
+    },
+    {
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/3HpHW9r9grbAHVflpDttMU"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/64RtBPP0NXkUA0N79pDE4P"
     },
     {
       "album": {
@@ -1686,7 +1730,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 245297,
       "name": "Herbs & Wine",
       "url": "https://open.spotify.com/track/2jqOdhAQIFJseY4FnnphGX"

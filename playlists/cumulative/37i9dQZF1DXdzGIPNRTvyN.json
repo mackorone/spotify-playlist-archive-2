@@ -437,6 +437,28 @@
     },
     {
       "album": {
+        "name": "AV // TH",
+        "url": "https://open.spotify.com/album/452uPYouELxWeqwyap8Dyj"
+      },
+      "artists": [
+        {
+          "name": "rhubiqs",
+          "url": "https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT"
+        },
+        {
+          "name": "Good Weather For An Airstrike",
+          "url": "https://open.spotify.com/artist/1LcsFT5fwJajcpAqmlitHX"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227266,
+      "name": "and finally, we reach the summit",
+      "url": "https://open.spotify.com/track/5H3eECDA7nMacVuqr5At31"
+    },
+    {
+      "album": {
         "name": "Anjali (Sound Bath)",
         "url": "https://open.spotify.com/album/3Z8rKbN7ZoADeJHCUTtvCF"
       },
@@ -862,7 +884,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 175287,
       "name": "Blooming Flowers",
       "url": "https://open.spotify.com/track/713dLHQqGsLpHRxOyZfQsS"
@@ -1806,7 +1828,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 148833,
       "name": "Deeper Calm",
       "url": "https://open.spotify.com/track/2BpU0v43DOa2MlVcj2OWiw"
@@ -2102,6 +2124,24 @@
       "duration_ms": 146426,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/1l2nIWTWCAL2vGbMZnLPQb"
+    },
+    {
+      "album": {
+        "name": "Early Morning",
+        "url": "https://open.spotify.com/album/6sEvEYVw9R2YYZoKUzBxwR"
+      },
+      "artists": [
+        {
+          "name": "Full Presence",
+          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145566,
+      "name": "Early Morning",
+      "url": "https://open.spotify.com/track/3vXdKKZSwwbHBn23eWZEZh"
     },
     {
       "album": {
@@ -4255,6 +4295,24 @@
     },
     {
       "album": {
+        "name": "Level Ground",
+        "url": "https://open.spotify.com/album/6jeJ3vCyE5mocDiHIQfjww"
+      },
+      "artists": [
+        {
+          "name": "Orion Rivera",
+          "url": "https://open.spotify.com/artist/2ZAAs2C0Sslu20k8JexdpG"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194692,
+      "name": "Level Ground",
+      "url": "https://open.spotify.com/track/6PBjsnOTKDeZga28tSx6Pq"
+    },
+    {
+      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/3x6sLQ6VTeIG03HzIN9pWi"
       },
@@ -5134,6 +5192,24 @@
       "duration_ms": 218000,
       "name": "My Favorite Moment",
       "url": "https://open.spotify.com/track/6xDrOfy2c9pyfcPmUBIJeV"
+    },
+    {
+      "album": {
+        "name": "Mystic Nature",
+        "url": "https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP"
+      },
+      "artists": [
+        {
+          "name": "Dawe Natauk",
+          "url": "https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202789,
+      "name": "Mystic Nature",
+      "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"
     },
     {
       "album": {
@@ -6624,7 +6700,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 198600,
       "name": "Restful",
       "url": "https://open.spotify.com/track/6NpQVqL5DGAmxhPsIcn8a5"
@@ -6732,7 +6808,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 155852,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/0hTCA84tj8bavCVIR7TBGz"

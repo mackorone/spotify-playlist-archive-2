@@ -5388,7 +5388,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 145025,
       "name": "BFF",
       "url": "https://open.spotify.com/track/3wGlth38MGe6Rwuix0wROh"
@@ -26915,6 +26915,24 @@
     },
     {
       "album": {
+        "name": "Lara's Boyfriend",
+        "url": "https://open.spotify.com/album/6WzXFSfxylpQiNvdlvbyxO"
+      },
+      "artists": [
+        {
+          "name": "MARiMARi",
+          "url": "https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126750,
+      "name": "Lara's Boyfriend",
+      "url": "https://open.spotify.com/track/1oG0qodkwuizOggAJEWBNa"
+    },
+    {
+      "album": {
         "name": "DOA",
         "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
       },
@@ -32638,6 +32656,24 @@
       "duration_ms": 182243,
       "name": "Nisemono Smilin",
       "url": "https://open.spotify.com/track/3rDBU4noiq1rjG50MPKi9t"
+    },
+    {
+      "album": {
+        "name": "niterush",
+        "url": "https://open.spotify.com/album/2Se9DtzSTbI74wlR0lv6yw"
+      },
+      "artists": [
+        {
+          "name": "Luvpurp",
+          "url": "https://open.spotify.com/artist/30muNCXgfZLdtjCRV91RH7"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135446,
+      "name": "niterush",
+      "url": "https://open.spotify.com/track/1xQMe8qRq31Sklgh9CukHd"
     },
     {
       "album": {
@@ -42370,7 +42406,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 154022,
       "name": "Slug Song",
       "url": "https://open.spotify.com/track/5rg66yM2srFONrhJFFLpCk"

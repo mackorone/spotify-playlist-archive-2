@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 22131,
+  "num_followers": 22134,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -372,6 +372,22 @@
       "added_at": "2024-08-02 17:18:29",
       "album": {
         "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
+      },
+      "artists": [
+        {
+          "name": "Eladia Bl\u00e1zquez",
+          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
+        }
+      ],
+      "duration_ms": 286093,
+      "name": "Adios Nonino",
+      "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
       },
       "artists": [
@@ -387,22 +403,6 @@
       "duration_ms": 113213,
       "name": "Pipistrela",
       "url": "https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
-      },
-      "artists": [
-        {
-          "name": "Eladia Bl\u00e1zquez",
-          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Adios Nonino",
-      "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -535,18 +535,38 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Yo No Se Que Me Han Hecho Tus Ojos",
-        "url": "https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy"
+        "name": "Patio De Tango",
+        "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
       },
       "artists": [
         {
-          "name": "Ada Falc\u00f3n",
-          "url": "https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3"
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        },
+        {
+          "name": "Brian Chambouleyron",
+          "url": "https://open.spotify.com/artist/4ItsXJStGq1NA4LkKSV6WJ"
+        },
+        {
+          "name": "Esteban Morgado",
+          "url": "https://open.spotify.com/artist/1pL3N36WdUgF8sdmLG8OMl"
+        },
+        {
+          "name": "Damian Bolotin",
+          "url": "https://open.spotify.com/artist/6K2DK1fVzvbY5oSx3xPajp"
+        },
+        {
+          "name": "Walter Castro",
+          "url": "https://open.spotify.com/artist/163oQfMweTcJsoOdYdDjNG"
+        },
+        {
+          "name": "Mono Hurtado",
+          "url": "https://open.spotify.com/artist/2SKGUiZZSPBgQ9ZgdBiUTL"
         }
       ],
-      "duration_ms": 208426,
-      "name": "Yo No Se Que Me Han Hecho Tus Ojos",
-      "url": "https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z"
+      "duration_ms": 270791,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -587,38 +607,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Patio De Tango",
-        "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
+        "name": "Yo No Se Que Me Han Hecho Tus Ojos",
+        "url": "https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy"
       },
       "artists": [
         {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        },
-        {
-          "name": "Brian Chambouleyron",
-          "url": "https://open.spotify.com/artist/4ItsXJStGq1NA4LkKSV6WJ"
-        },
-        {
-          "name": "Esteban Morgado",
-          "url": "https://open.spotify.com/artist/1pL3N36WdUgF8sdmLG8OMl"
-        },
-        {
-          "name": "Damian Bolotin",
-          "url": "https://open.spotify.com/artist/6K2DK1fVzvbY5oSx3xPajp"
-        },
-        {
-          "name": "Walter Castro",
-          "url": "https://open.spotify.com/artist/163oQfMweTcJsoOdYdDjNG"
-        },
-        {
-          "name": "Mono Hurtado",
-          "url": "https://open.spotify.com/artist/2SKGUiZZSPBgQ9ZgdBiUTL"
+          "name": "Ada Falc\u00f3n",
+          "url": "https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3"
         }
       ],
-      "duration_ms": 270791,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb"
+      "duration_ms": 208426,
+      "name": "Yo No Se Que Me Han Hecho Tus Ojos",
+      "url": "https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Pu\u00f1al de Sombra",
+        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        }
+      ],
+      "duration_ms": 213476,
+      "name": "Mano a Mano",
+      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 210613,
       "name": "Cafet\u00edn de Buenos Aires",
       "url": "https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Pu\u00f1al de Sombra",
-        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        }
-      ],
-      "duration_ms": 213476,
-      "name": "Mano a Mano",
-      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -927,6 +927,42 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Mi Buenos Aires Querido",
+        "url": "https://open.spotify.com/album/5ToOxGt228WpFbX6TOyY3n"
+      },
+      "artists": [
+        {
+          "name": "Ines Cuello",
+          "url": "https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW"
+        },
+        {
+          "name": "La Grela Quinteto de Tango",
+          "url": "https://open.spotify.com/artist/3P7aMfgfzuP6ltbwWDTj53"
+        }
+      ],
+      "duration_ms": 223255,
+      "name": "Mi Buenos Aires Querido",
+      "url": "https://open.spotify.com/track/7I81caW5uhQUdQUDHLDMj1"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Mujeres del Tango",
+        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
+      },
+      "artists": [
+        {
+          "name": "Las Del Abasto",
+          "url": "https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Quejas de Bandone\u00f3n",
+      "url": "https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Susy Leiva - Grandes Exitos -",
         "url": "https://open.spotify.com/album/2yeB0qqmekdprMgK6xF4mG"
       },
@@ -955,42 +991,6 @@
       "duration_ms": 155293,
       "name": "Madrugada y Soledad",
       "url": "https://open.spotify.com/track/4A8z6iDEj8fnk9hdzry5if"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Mujeres del Tango",
-        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
-      },
-      "artists": [
-        {
-          "name": "Las Del Abasto",
-          "url": "https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Quejas de Bandone\u00f3n",
-      "url": "https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Mi Buenos Aires Querido",
-        "url": "https://open.spotify.com/album/5ToOxGt228WpFbX6TOyY3n"
-      },
-      "artists": [
-        {
-          "name": "Ines Cuello",
-          "url": "https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW"
-        },
-        {
-          "name": "La Grela Quinteto de Tango",
-          "url": "https://open.spotify.com/artist/3P7aMfgfzuP6ltbwWDTj53"
-        }
-      ],
-      "duration_ms": 223255,
-      "name": "Mi Buenos Aires Querido",
-      "url": "https://open.spotify.com/track/7I81caW5uhQUdQUDHLDMj1"
     },
     {
       "added_at": "2024-08-02 17:18:29",

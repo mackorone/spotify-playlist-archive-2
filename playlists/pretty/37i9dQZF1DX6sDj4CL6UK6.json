@@ -1,12 +1,12 @@
 {
   "description": "English songs from Indian artists\nCover: Prateek Kuhad",
-  "num_followers": 39803,
+  "num_followers": 39807,
   "original_name": "Indian Indie English",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALN35t9CIt1YhjzqyA1oD0cbr8CE",
+  "snapshot_id": "AAAAACJmUCfgsU+Es2Itjd4xd3jnbYUQ",
   "tracks": [
     {
       "added_at": "2026-04-03 06:18:38",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/3dBnKADF2MmLXM9IopV9Bt"
     },
     {
+      "added_at": "2026-04-17 06:44:51",
+      "album": {
+        "name": "Phantom Baby",
+        "url": "https://open.spotify.com/album/2TPVo4DPP8kA6yosp9lpIa"
+      },
+      "artists": [
+        {
+          "name": "JBABE",
+          "url": "https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Phantom Baby",
+      "url": "https://open.spotify.com/track/1CN05iiInwzi0XzNXB6WIZ"
+    },
+    {
       "added_at": "2026-04-03 06:18:38",
       "album": {
         "name": "I\u2019ve Found My Dream",
@@ -63,26 +79,6 @@
       "duration_ms": 192050,
       "name": "I\u2019ve Found My Dream",
       "url": "https://open.spotify.com/track/51yljhTTXyrINXyHhwm1b6"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
-        "name": "Sunbeam",
-        "url": "https://open.spotify.com/album/1cl634ubs2v0l1gSPO6gGk"
-      },
-      "artists": [
-        {
-          "name": "ASHWYN",
-          "url": "https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd"
-        },
-        {
-          "name": "Gurl",
-          "url": "https://open.spotify.com/artist/6pvE17zpH50Jwgyl8FfeuO"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Sunbeam",
-      "url": "https://open.spotify.com/track/15MOuM5Jz3KJAmPPWDZI5G"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -119,18 +115,22 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "so beautiful, with you",
-        "url": "https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf"
+        "name": "Sunbeam",
+        "url": "https://open.spotify.com/album/1cl634ubs2v0l1gSPO6gGk"
       },
       "artists": [
         {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+          "name": "ASHWYN",
+          "url": "https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd"
+        },
+        {
+          "name": "Gurl",
+          "url": "https://open.spotify.com/artist/6pvE17zpH50Jwgyl8FfeuO"
         }
       ],
-      "duration_ms": 218000,
-      "name": "so beautiful, with you",
-      "url": "https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl"
+      "duration_ms": 171093,
+      "name": "Sunbeam",
+      "url": "https://open.spotify.com/track/15MOuM5Jz3KJAmPPWDZI5G"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -151,18 +151,18 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/3Go4qMxReIx9sTKGYMLakO"
+        "name": "so beautiful, with you",
+        "url": "https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf"
       },
       "artists": [
         {
-          "name": "Parekh & Singh",
-          "url": "https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp"
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
         }
       ],
-      "duration_ms": 169986,
-      "name": "I Love You Baby, I Love You Doll",
-      "url": "https://open.spotify.com/track/1uC8CoidgacQzx9f01n73h"
+      "duration_ms": 218000,
+      "name": "so beautiful, with you",
+      "url": "https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -215,6 +215,22 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/3Go4qMxReIx9sTKGYMLakO"
+      },
+      "artists": [
+        {
+          "name": "Parekh & Singh",
+          "url": "https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp"
+        }
+      ],
+      "duration_ms": 169986,
+      "name": "I Love You Baby, I Love You Doll",
+      "url": "https://open.spotify.com/track/1uC8CoidgacQzx9f01n73h"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
         "name": "again...",
         "url": "https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 177073,
       "name": "again...",
       "url": "https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
-        "name": "No One's Baby",
-        "url": "https://open.spotify.com/album/6nMYUfTcGxnYyfjUxj0RJI"
-      },
-      "artists": [
-        {
-          "name": "Kiara Chettri",
-          "url": "https://open.spotify.com/artist/6bO1Y6AkZ6jtWqmktvmmJ5"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "No One's Baby",
-      "url": "https://open.spotify.com/track/7jBaw5iWZmvbga7nIbp7Y4"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -275,6 +275,22 @@
       "duration_ms": 153999,
       "name": "Everybody Dances to Techno",
       "url": "https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
+        "name": "No One's Baby",
+        "url": "https://open.spotify.com/album/6nMYUfTcGxnYyfjUxj0RJI"
+      },
+      "artists": [
+        {
+          "name": "Kiara Chettri",
+          "url": "https://open.spotify.com/artist/6bO1Y6AkZ6jtWqmktvmmJ5"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "No One's Baby",
+      "url": "https://open.spotify.com/track/7jBaw5iWZmvbga7nIbp7Y4"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -371,22 +387,6 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE"
-      },
-      "artists": [
-        {
-          "name": "Run it's the Kid",
-          "url": "https://open.spotify.com/artist/36057fby7tY856T2vg7jQj"
-        }
-      ],
-      "duration_ms": 176869,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
         "name": "Not Overthinking This",
         "url": "https://open.spotify.com/album/5II8XlsVFGRtwt7cKTOOhV"
       },
@@ -399,6 +399,22 @@
       "duration_ms": 205238,
       "name": "You\u2019re Not Sorry",
       "url": "https://open.spotify.com/track/7khy0rHAOfdbIjjOtSHCmC"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE"
+      },
+      "artists": [
+        {
+          "name": "Run it's the Kid",
+          "url": "https://open.spotify.com/artist/36057fby7tY856T2vg7jQj"
+        }
+      ],
+      "duration_ms": 176869,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -439,6 +455,22 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
+        "name": "Unicorn And The Sheep",
+        "url": "https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI"
+      },
+      "artists": [
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        }
+      ],
+      "duration_ms": 151531,
+      "name": "Unicorn and the Sheep",
+      "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
         "name": "Could've Been",
         "url": "https://open.spotify.com/album/7BBHLb75DUrEFh9108117K"
       },
@@ -455,22 +487,6 @@
       "duration_ms": 167000,
       "name": "Could've Been",
       "url": "https://open.spotify.com/track/3htkrQoG9nyhf8foW2dzp0"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
-        "name": "Unicorn And The Sheep",
-        "url": "https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI"
-      },
-      "artists": [
-        {
-          "name": "Raghav Meattle",
-          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
-        }
-      ],
-      "duration_ms": 151531,
-      "name": "Unicorn and the Sheep",
-      "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -671,22 +687,6 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "On Second Thought",
-        "url": "https://open.spotify.com/album/5rO88Y8IDjnxAUkpKCDbPe"
-      },
-      "artists": [
-        {
-          "name": "Heat Sink",
-          "url": "https://open.spotify.com/artist/5tELNfpv17VAcaAUL77bSD"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Wait a sec",
-      "url": "https://open.spotify.com/track/40qyi5LG0OPw3EsjsSwGje"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
         "name": "the party song",
         "url": "https://open.spotify.com/album/63sVUToNMo3Buh9GwODQRZ"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 184447,
       "name": "the party song",
       "url": "https://open.spotify.com/track/3KPXbXXOS2oJbXOaX6xP27"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
+        "name": "On Second Thought",
+        "url": "https://open.spotify.com/album/5rO88Y8IDjnxAUkpKCDbPe"
+      },
+      "artists": [
+        {
+          "name": "Heat Sink",
+          "url": "https://open.spotify.com/artist/5tELNfpv17VAcaAUL77bSD"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Wait a sec",
+      "url": "https://open.spotify.com/track/40qyi5LG0OPw3EsjsSwGje"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -843,18 +859,18 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "BUCK WILD",
-        "url": "https://open.spotify.com/album/0VP7f9QYaLQsUVKY5MGVO5"
+        "name": "Don't Know Where Else",
+        "url": "https://open.spotify.com/album/7bB7ufqbgTFMxwhUC8Gase"
       },
       "artists": [
         {
-          "name": "Karshni",
-          "url": "https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff"
+          "name": "Takar Nabam",
+          "url": "https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H"
         }
       ],
-      "duration_ms": 204000,
-      "name": "GIRL",
-      "url": "https://open.spotify.com/track/1zIDzzt7QxjEmGV2TfBE80"
+      "duration_ms": 220691,
+      "name": "Don't Know Where Else",
+      "url": "https://open.spotify.com/track/3cmw6gkiodCtSwnsWhFp39"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -875,18 +891,18 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "Don't Know Where Else",
-        "url": "https://open.spotify.com/album/7bB7ufqbgTFMxwhUC8Gase"
+        "name": "BUCK WILD",
+        "url": "https://open.spotify.com/album/0VP7f9QYaLQsUVKY5MGVO5"
       },
       "artists": [
         {
-          "name": "Takar Nabam",
-          "url": "https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H"
+          "name": "Karshni",
+          "url": "https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff"
         }
       ],
-      "duration_ms": 220691,
-      "name": "Don't Know Where Else",
-      "url": "https://open.spotify.com/track/3cmw6gkiodCtSwnsWhFp39"
+      "duration_ms": 204000,
+      "name": "GIRL",
+      "url": "https://open.spotify.com/track/1zIDzzt7QxjEmGV2TfBE80"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -979,30 +995,6 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "Nyima, Vol. 1",
-        "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
-      },
-      "artists": [
-        {
-          "name": "Tabitha Kagoo",
-          "url": "https://open.spotify.com/artist/0frv5xYywAPIxOEixlCDdC"
-        },
-        {
-          "name": "Anika Bharwani",
-          "url": "https://open.spotify.com/artist/50wQD996rRMv7WKstW7kb8"
-        },
-        {
-          "name": "Jenn Steeves",
-          "url": "https://open.spotify.com/artist/6hM5NElb1Y12OIWCkQHp8j"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Come Sit By My Bed",
-      "url": "https://open.spotify.com/track/15TTMLZbrk30lUdGpFFCjz"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
         "name": "Keep You",
         "url": "https://open.spotify.com/album/77YwQgSDxEaAt1Me1J6VV1"
       },
@@ -1035,18 +1027,26 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "Puzzle",
-        "url": "https://open.spotify.com/album/3TzceoIMgAeXLi4iFljGbO"
+        "name": "Nyima, Vol. 1",
+        "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
       },
       "artists": [
         {
-          "name": "Akhil Sahni",
-          "url": "https://open.spotify.com/artist/0s1Ya2nFCfTMXpsWbq6UPj"
+          "name": "Tabitha Kagoo",
+          "url": "https://open.spotify.com/artist/0frv5xYywAPIxOEixlCDdC"
+        },
+        {
+          "name": "Anika Bharwani",
+          "url": "https://open.spotify.com/artist/50wQD996rRMv7WKstW7kb8"
+        },
+        {
+          "name": "Jenn Steeves",
+          "url": "https://open.spotify.com/artist/6hM5NElb1Y12OIWCkQHp8j"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Ignorance",
-      "url": "https://open.spotify.com/track/6ogsXVG78tnwJj2clGZnDx"
+      "duration_ms": 184320,
+      "name": "Come Sit By My Bed",
+      "url": "https://open.spotify.com/track/15TTMLZbrk30lUdGpFFCjz"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -1063,6 +1063,22 @@
       "duration_ms": 167343,
       "name": "Baby Breath",
       "url": "https://open.spotify.com/track/43rjtl8khJXJUJBdlvBprd"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/3TzceoIMgAeXLi4iFljGbO"
+      },
+      "artists": [
+        {
+          "name": "Akhil Sahni",
+          "url": "https://open.spotify.com/artist/0s1Ya2nFCfTMXpsWbq6UPj"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Ignorance",
+      "url": "https://open.spotify.com/track/6ogsXVG78tnwJj2clGZnDx"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "Paws",
-        "url": "https://open.spotify.com/album/6hJGqgJ27wrN2FUyKIVw5Z"
-      },
-      "artists": [
-        {
-          "name": "Shourya Malhotra",
-          "url": "https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS"
-        }
-      ],
-      "duration_ms": 252032,
-      "name": "Paws",
-      "url": "https://open.spotify.com/track/1V5SNs95aHmZmuucDHvLpN"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1Gtpf8VgbXJtjYNpOStP1X"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 179812,
       "name": "Detour",
       "url": "https://open.spotify.com/track/4Y9pVTAamWwZn4p4e2vBmw"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
+        "name": "Paws",
+        "url": "https://open.spotify.com/album/6hJGqgJ27wrN2FUyKIVw5Z"
+      },
+      "artists": [
+        {
+          "name": "Shourya Malhotra",
+          "url": "https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS"
+        }
+      ],
+      "duration_ms": 252032,
+      "name": "Paws",
+      "url": "https://open.spotify.com/track/1V5SNs95aHmZmuucDHvLpN"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "Believer's Curse",
-        "url": "https://open.spotify.com/album/38Znbt9EJHnwLpcBxClkQT"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah de Rozario",
-          "url": "https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Believer's Curse",
-      "url": "https://open.spotify.com/track/5CeJ2QAPBrx26JISJqExRD"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
         "name": "Nyima, Vol. 1",
         "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 230522,
       "name": "Into The Wild",
       "url": "https://open.spotify.com/track/4z901LnfXd572xKSoTjtNn"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
+        "name": "Believer's Curse",
+        "url": "https://open.spotify.com/album/38Znbt9EJHnwLpcBxClkQT"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah de Rozario",
+          "url": "https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Believer's Curse",
+      "url": "https://open.spotify.com/track/5CeJ2QAPBrx26JISJqExRD"
     },
     {
       "added_at": "2026-04-03 06:18:38",

@@ -1,13 +1,29 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 14170,
+  "num_followers": 14183,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJOaoRf6uDd6r3bwBC5jyiPKyBGY",
+  "snapshot_id": "AAAAADsRoZ/TbZloqo1UOlJzOw4KKUFw",
   "tracks": [
+    {
+      "added_at": "2026-04-17 04:01:01",
+      "album": {
+        "name": "Steady Rolling",
+        "url": "https://open.spotify.com/album/1NwK7mKYgerz20Q8rxVSIY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Beale",
+          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
+        }
+      ],
+      "duration_ms": 188904,
+      "name": "Look at the Tears Roll",
+      "url": "https://open.spotify.com/track/2Nn4vByhCJUNGdf9iRYYrd"
+    },
     {
       "added_at": "2025-03-14 04:00:05",
       "album": {
@@ -583,22 +599,6 @@
       "duration_ms": 213933,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/4KSljblpjITY4IsjkKSqK4"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Why Not?",
-        "url": "https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY"
-      },
-      "artists": [
-        {
-          "name": "Akolo",
-          "url": "https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J"
-        }
-      ],
-      "duration_ms": 213818,
-      "name": "Why Not?",
-      "url": "https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8"
     },
     {
       "added_at": "2020-12-01 05:01:00",

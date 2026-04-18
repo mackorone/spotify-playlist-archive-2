@@ -3329,6 +3329,28 @@
     },
     {
       "album": {
+        "name": "Stadig Her",
+        "url": "https://open.spotify.com/album/3Hwefv9rT5iHnMvD6prWTx"
+      },
+      "artists": [
+        {
+          "name": "Fouli",
+          "url": "https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N"
+        },
+        {
+          "name": "Jimilian",
+          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/1Qf940bnF9nnS95GNClHFu"
+    },
+    {
+      "album": {
         "name": "NOGET M\u00c5 GI'",
         "url": "https://open.spotify.com/album/2M9hwv5KpmzSOMN9WfMn1D"
       },
@@ -9124,24 +9146,6 @@
       "duration_ms": 141833,
       "name": "Topform (feat. Lamin)",
       "url": "https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH"
-    },
-    {
-      "album": {
-        "name": "Stadig Her",
-        "url": "https://open.spotify.com/album/3Hwefv9rT5iHnMvD6prWTx"
-      },
-      "artists": [
-        {
-          "name": "Fouli",
-          "url": "https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N"
-        }
-      ],
-      "date_added": "2026-04-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/1Qf940bnF9nnS95GNClHFu"
     },
     {
       "album": {

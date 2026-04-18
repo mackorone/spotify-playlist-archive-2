@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Malayalam Hip-Hop! \nCover :  M.H.R, Shafi Kollam",
+  "description": "Best of Malayalam Hip-Hop! \nCover :  Dabzee",
   "name": "RAP 91 Malayalam",
   "tracks": [
     {
@@ -532,6 +532,28 @@
       "duration_ms": 211714,
       "name": "Abida",
       "url": "https://open.spotify.com/track/5WZRTshmGbiIIGCxv2gQEu"
+    },
+    {
+      "album": {
+        "name": "ACHARRR",
+        "url": "https://open.spotify.com/album/5K9mRcqym23uorkAoXX6t8"
+      },
+      "artists": [
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "RXZOR",
+          "url": "https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145247,
+      "name": "ACHARRR",
+      "url": "https://open.spotify.com/track/1uiDfjsOTO82esSBL9AzZy"
     },
     {
       "album": {
@@ -1356,7 +1378,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 133333,
       "name": "BANDANA",
       "url": "https://open.spotify.com/track/5n0H86Axz5rqTyv8ljXZ8X"
@@ -2152,6 +2174,36 @@
       "duration_ms": 185172,
       "name": "CHILL OUT",
       "url": "https://open.spotify.com/track/1gUmzKldDiBbVUKcaxDygk"
+    },
+    {
+      "album": {
+        "name": "CHILLARA FLEX",
+        "url": "https://open.spotify.com/album/5DwJYu4wEeiZ4GJX1wkBbV"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "FIFTY4",
+          "url": "https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP"
+        },
+        {
+          "name": "RONN",
+          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142184,
+      "name": "CHILLARA FLEX",
+      "url": "https://open.spotify.com/track/1aAkDOxVXY9I0VyEuOgRY5"
     },
     {
       "album": {
@@ -9946,7 +9998,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 199687,
       "name": "Sick",
       "url": "https://open.spotify.com/track/5bZHyKP7mcpsNwkrf7kdf1"

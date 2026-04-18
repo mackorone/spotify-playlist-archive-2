@@ -14689,6 +14689,24 @@
     },
     {
       "album": {
+        "name": "Rock Like This EP",
+        "url": "https://open.spotify.com/album/6gSmK3aSu26VRpaaOlFqjt"
+      },
+      "artists": [
+        {
+          "name": "Amour Propre",
+          "url": "https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200951,
+      "name": "Blurred Signal",
+      "url": "https://open.spotify.com/track/3KhfmxD6U9ll0mFgArrQTe"
+    },
+    {
+      "album": {
         "name": "Blush",
         "url": "https://open.spotify.com/album/7pgJNN38kdnUlgUEbM8G96"
       },
@@ -37222,6 +37240,24 @@
       "duration_ms": 314906,
       "name": "Every You",
       "url": "https://open.spotify.com/track/0gxMVptwBuSC3kragNfCoQ"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154979,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc"
     },
     {
       "album": {
@@ -122742,42 +122778,6 @@
       "duration_ms": 415037,
       "name": "Tracid",
       "url": "https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp"
-    },
-    {
-      "album": {
-        "name": "Rock Like This EP",
-        "url": "https://open.spotify.com/album/6gSmK3aSu26VRpaaOlFqjt"
-      },
-      "artists": [
-        {
-          "name": "Amour Propre",
-          "url": "https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ"
-        }
-      ],
-      "date_added": "2026-04-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3KhfmxD6U9ll0mFgArrQTe"
-    },
-    {
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        }
-      ],
-      "date_added": "2026-04-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Yorkk & ARTSALGHUL
 
-1,063 songs - 2 day 3 hr 19 min
+1,064 songs - 2 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Ei voi \(feat\. Luwa.Mp4\)](https://open.spotify.com/track/6xpZg3sfg49gNihQZGLsl1) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Luwa.Mp4](https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ) | [Ei voi \(feat\. Luwa.Mp4\)](https://open.spotify.com/album/2hdZSRF3c42AzLGRrCuvDG) | 3:10 | 2026-04-10 |  |
 | [El Chapo](https://open.spotify.com/track/22cpDkwxFPGpD0zu0bhoyZ) | [Reechdee](https://open.spotify.com/artist/3PaWKH51rpBK83eeFtTQki), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [El Chapo](https://open.spotify.com/album/4YaVtmZTvCrrPI9uNiJSmT) | 2:22 | 2024-01-05 | 2024-01-09 |
 | [Electric \(feat\. Wizkid & London\)](https://open.spotify.com/track/2g59YEtG3OZq3lp4eDj97p) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [London](https://open.spotify.com/artist/48XO5sXDsZ0NgyVmGT5qxW) | [SoundMan Vol\. 1](https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY) | 2:58 | 2024-03-21 | 2024-03-25 |
+| [Emefa's Revenge](https://open.spotify.com/track/1BixnXufFnYkbhpToboElg) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [Emefa's Revenge](https://open.spotify.com/album/4wEEWn3n3LkmmqamkKpzlR) | 3:31 | 2026-04-17 |  |
 | [End You](https://open.spotify.com/track/6H9j5IHCgn6JRYSsBdIiW9) | [Waye](https://open.spotify.com/artist/4xB0OZoxh4Kv0dbn4YDT4v) | [End You](https://open.spotify.com/album/4UxwablSV5mMR5M9f9NDK1) | 1:35 | 2024-05-10 | 2024-10-19 |
 | [Escapism \(feat\. Fave & Tay Iwar\)](https://open.spotify.com/track/0ixcA2mSYrHIu5RNgJ2vBB) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Escapism \(feat\. Fave & Tay Iwar\)](https://open.spotify.com/album/1pXxUkUcfkvbCTeCRPRHVe) | 3:25 | 2023-11-10 | 2024-05-17 |
 | [Ethiopia](https://open.spotify.com/track/6lx4aUEcnR7sojpxEQu4mV) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Panther in Mode](https://open.spotify.com/album/23J7otrnhFa80hs2xCpKw1) | 3:05 | 2021-11-18 | 2022-01-14 |

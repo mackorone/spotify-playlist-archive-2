@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Malik Montana, Young Leosia
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,889 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,915 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 32 | [BALENCI](https://open.spotify.com/track/1RjgnAi4yxYhvDTd2KbmMm) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [BALENCI](https://open.spotify.com/album/2xht0UECXf1I17uxSpnPlk) | 2:11 |
 | 33 | [to nieprawda, że nie lubisz róż ;\*\*](https://open.spotify.com/track/5xskLtosDcTGusD4WZ4TFc) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH) | [to nieprawda, że nie lubisz róż ;\*\*](https://open.spotify.com/album/034bX2fFpFwsAnRsY0TKkg) | 2:25 |
 | 34 | [SIE KLEI](https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y) | [javier](https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY) | [NEXT](https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo) | 1:53 |
-| 35 | [ZAKOCHAŁEM SIĘ POD APTEKĄ](https://open.spotify.com/track/6F9Xu5kvOMQNCPFkoa2yST) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Rumak](https://open.spotify.com/artist/0SHA3sB1gMMWcphYond5y3), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [LATARNIE WSZĘDZIE DAWNO ZGASŁY](https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL) | 4:21 |
+| 35 | [ZAKOCHAŁEM SIĘ POD APTEKĄ](https://open.spotify.com/track/6F9Xu5kvOMQNCPFkoa2yST) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Rumak](https://open.spotify.com/artist/0SHA3sB1gMMWcphYond5y3), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [LATARNIE WSZĘDZIE DAWNO ZGASŁY](https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL) | 4:26 |
 | 36 | [PENTHOUSE 2](https://open.spotify.com/track/2GKWGd6NXm1bhWGBYOKtUV) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0), [Koneser](https://open.spotify.com/artist/3iXrMGww8ozzbsPVkoysgG), [BNP](https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P) | [PENTHOUSE 2](https://open.spotify.com/album/5gKyqPOTXacxlIWbOpK64y) | 3:19 |
 | 37 | [BĘDĘ PREZYDENTEM :\)](https://open.spotify.com/track/1yWCdDFV6kdML8EeUpyzhd) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [BĘDĘ PREZYDENTEM :\)](https://open.spotify.com/album/2Wydw9B4D0ZIlblUv0fXO7) | 3:33 |
 | 38 | [XL](https://open.spotify.com/track/73BMvnk2GbshPzyg3nRr8T) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC) | [XL](https://open.spotify.com/album/1HPJSB1t9znN7ZDFLvP5y8) | 2:09 |

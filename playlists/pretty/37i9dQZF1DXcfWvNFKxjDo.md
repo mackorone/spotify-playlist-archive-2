@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: AVAION, BUNT.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,624 likes - 91 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,801 likes - 91 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,14 +62,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 52 | [Analog Heart](https://open.spotify.com/track/7zX9PJkUe4KtUHDsK76HQ2) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Analog Heart](https://open.spotify.com/album/5GWMWBImvvlcLOlFZap0gx) | 2:36 |
 | 53 | [Love Feels Like You](https://open.spotify.com/track/0G3oPhw5CDuITXUjCLdCSi) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Love Feels Like You](https://open.spotify.com/album/34iQr6ezHu7nDYt8ak7mqE) | 2:42 |
 | 54 | [Beautiful Life](https://open.spotify.com/track/15pViH8S6yor5SmFrV03ic) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Beautiful Life](https://open.spotify.com/album/2sGLInJA6FWZs6c8PeAG6i) | 2:57 |
-| 55 | [Track 9](https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R) | 0:00 |
+| 55 | [Everybody](https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R) | 2:34 |
 | 56 | [Just Keep Watching](https://open.spotify.com/track/2BRYM9ftOTHcJq8zrq3yXz) | [KALUMA](https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [Just Keep Watching](https://open.spotify.com/album/1M1vRTMYQBGrzXztkW7aQQ) | 2:15 |
 | 57 | [Where We Go](https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Go](https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE) | 3:16 |
 | 58 | [NEED YOU TONIGHT](https://open.spotify.com/track/3SCx4mLXTc6FHWSbnTqZ0v) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [HOTLIFE](https://open.spotify.com/album/2Yu4om24Rz6igbGawd8Aak) | 5:29 |
 | 59 | [Ghost town...](https://open.spotify.com/track/38oXrd1MqNYOTdhIpgDYJ1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ghost town...](https://open.spotify.com/album/2Fwcr34Ta0UdWAHtakPLdD) | 2:44 |
 | 60 | [Feel the Power](https://open.spotify.com/track/53uyxg6lqpFXn5ZWn5V0dm) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0), [Re.You](https://open.spotify.com/artist/3AE5c8fBFJYdxXHCSXAyVx) | [Feel the Power](https://open.spotify.com/album/5eeJzYaS77PQmFtAKrcNBy) | 3:37 |
 | 61 | [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 |
-| 62 | [Echoes](https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Saksham](https://open.spotify.com/artist/6VVI4hKZWovOZO0ia3jaFi), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [Echoes](https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8) | 3:39 |
+| 62 | [Echoes](https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [Echoes](https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8) | 3:39 |
 | 63 | [The Last Time](https://open.spotify.com/track/2L0zhlf3PzOuoxr3WfCBhX) | [Immersed](https://open.spotify.com/artist/32gWxeDN3ZzMUNfoiKWGEr) | [The Last Time](https://open.spotify.com/album/0z8wNo1gsaFX1CP2wuqwwo) | 3:13 |
 | 64 | [RUNNING AROUND](https://open.spotify.com/track/0PTfZEcBjJOjUsfzjcVj8J) | [Michael Klotz](https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh) | [RUNNING AROUND](https://open.spotify.com/album/3vysuS4f5rJi6jsc2Cva1r) | 2:47 |
 | 65 | [Jikininki's Hunger](https://open.spotify.com/track/3nmzd1PhC7H5G3RHTe6zqU) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Jikininki's Hunger](https://open.spotify.com/album/4v2TQJbYIk2a4MCC8p2qfW) | 2:36 |

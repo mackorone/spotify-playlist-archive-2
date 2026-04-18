@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "coincidence",
+        "url": "https://open.spotify.com/album/0FELv2lgjvO9tJPzuo2Wjf"
+      },
+      "artists": [
+        {
+          "name": "RUI HAYAKAWA",
+          "url": "https://open.spotify.com/artist/7eOuxMv5X3RAZiAn2fSWc6"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383351,
+      "name": "coincidence",
+      "url": "https://open.spotify.com/track/1MKsGvzaGNfqCxFPBgHsdq"
+    },
+    {
+      "album": {
         "name": "Cold nights and city bike rides.",
         "url": "https://open.spotify.com/album/1Ckf2d3h4SerfA7E8IFjp2"
       },
@@ -1625,6 +1643,36 @@
     },
     {
       "album": {
+        "name": "I Want Your Love",
+        "url": "https://open.spotify.com/album/21HJ7l1A9ucgEzfupxpFA6"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Kaesu",
+          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
+        },
+        {
+          "name": "TABLE",
+          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
+        },
+        {
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153050,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/14i1XgUcPXmB74ezzk5172"
+    },
+    {
+      "album": {
         "name": "I'm here.",
         "url": "https://open.spotify.com/album/2Llsr7bTTcmTJvSdffaQ1i"
       },
@@ -2078,6 +2126,24 @@
       "duration_ms": 288000,
       "name": "Loire & Pinot Gris",
       "url": "https://open.spotify.com/track/0saHEfGDqdEBdgjZIwQVzE"
+    },
+    {
+      "album": {
+        "name": "Love is Here",
+        "url": "https://open.spotify.com/album/1PFh7P6mxasF8oijczIk1S"
+      },
+      "artists": [
+        {
+          "name": "Tomos",
+          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234105,
+      "name": "Love is Here",
+      "url": "https://open.spotify.com/track/6HLEYfLDzrhy720GRlQ5sA"
     },
     {
       "album": {
@@ -3056,7 +3122,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 214838,
       "name": "Reach Into Your Soul",
       "url": "https://open.spotify.com/track/3gkM4jhqalnNnyTqZN4308"
@@ -3536,7 +3602,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 143791,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/37Qgd1Iyo8bSlK4kIZFLxL"
@@ -3736,7 +3802,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 176640,
       "name": "thoughts of blue",
       "url": "https://open.spotify.com/track/0eB4DuVahiN8tGL6N4lsU0"
@@ -3850,7 +3916,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 193453,
       "name": "under the jazz tree",
       "url": "https://open.spotify.com/track/2az9x3n3OdY5D2N5K6x0zY"
@@ -3930,6 +3996,28 @@
       "duration_ms": 235932,
       "name": "Villa Palmera",
       "url": "https://open.spotify.com/track/2efRw4Puze8guf4W68QM7x"
+    },
+    {
+      "album": {
+        "name": "vintage",
+        "url": "https://open.spotify.com/album/45hcYUnFQwdOIq1RN3I1eK"
+      },
+      "artists": [
+        {
+          "name": "M1NT",
+          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
+        },
+        {
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173124,
+      "name": "vintage",
+      "url": "https://open.spotify.com/track/1H8ZbxwujLonOE2kZB9fIp"
     },
     {
       "album": {
@@ -4208,10 +4296,28 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 133047,
       "name": "You can count on me.",
       "url": "https://open.spotify.com/track/4buhsm0hBj9buN2B2mn0LK"
+    },
+    {
+      "album": {
+        "name": "You Crazy",
+        "url": "https://open.spotify.com/album/54NKfX3AxHRXNLXM9aBtMN"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263416,
+      "name": "You Crazy",
+      "url": "https://open.spotify.com/track/0NgWk376k1bwhZedtd2Gy7"
     },
     {
       "album": {

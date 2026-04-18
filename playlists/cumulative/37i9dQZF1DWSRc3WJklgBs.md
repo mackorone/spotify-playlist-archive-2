@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,573 songs - 3 day 18 hr 36 min
+1,575 songs - 3 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Everything](https://open.spotify.com/track/0jmTMsQ3sA2VI2uRQ6ELt4) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Everything](https://open.spotify.com/album/5on1sPRggVbWYuJfB8lqxV) | 3:05 | 2023-06-09 | 2023-06-17 |
 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 | 2025-01-17 |  |
 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 | 2022-07-15 | 2023-04-09 |
+| [Everything U](https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Everything U](https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi) | 3:30 | 2026-04-17 |  |
 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 | 2023-10-27 | 2025-11-08 |
 | [Everywhere \(I wanna be with you\)](https://open.spotify.com/track/2lh1prYnrU9tL843C6rzSq) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Everywhere \(I wanna be with you\)](https://open.spotify.com/album/79PJhpCEtArNZ9paa2jOjw) | 2:20 | 2024-07-02 | 2026-02-07 |
 | [eye2eye \- Jai Wolf Remix](https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [eye2eye \(Jai Wolf Remix\)](https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv) | 4:13 | 2025-02-28 |  |
@@ -1169,6 +1170,7 @@
 | [Shades](https://open.spotify.com/track/32K4G5jEHKSXpdvqtJyMqp) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Shades](https://open.spotify.com/album/2HIMHpEJFDTq8aMuvIuaxg) | 3:44 | 2022-10-28 | 2023-06-01 |
 | [Shades](https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Shades](https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS) | 2:31 | 2024-09-27 |  |
 | [Shades \(feat\. Donnie Sloan & Ricky Ducati\)](https://open.spotify.com/track/5EqvRNLWBnhHevkDIyCPU6) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Donnie Sloan](https://open.spotify.com/artist/4t95822Jv53tQJK2iS4dKt), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [Aurra / Shades](https://open.spotify.com/album/6HLdPDaMRZETi2daqsjscC) | 3:38 | 2019-08-09\* | 2019-09-14 |
+| [SHADES OF BLUE](https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [CTRL ESCAPE](https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e) | 3:23 | 2026-04-17 |  |
 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-03-07 | 2024-06-22 |
 | [Shadow Of Us \(Electronic Family 2019 Anthem\)](https://open.spotify.com/track/3MeSZSPE6CpyyM8WTvB4Cz) | [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu), [Lara](https://open.spotify.com/artist/16f58JWIJyEoaXGgTfkw8F) | [Different](https://open.spotify.com/album/4eShgx8APtLnZlY9sQQUue) | 3:03 | 2019-08-20 | 2020-10-30 |
 | [SHADOWS](https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [SHADOWS](https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp) | 3:21 | 2026-02-13 |  |

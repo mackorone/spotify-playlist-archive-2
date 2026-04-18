@@ -4,7 +4,7 @@
 
 > ¡Los éxitos más champetúos de ayer y hoy se vacilan en Spotify! Foto: Ovy On the Drums, Luister La Voz, Dekko
 
-126 songs - 7 hr 54 min
+127 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [La Marea](https://open.spotify.com/track/45hPuMm4eduF7RTRLNYVGZ) | [Criss & Ronny](https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [La Colectiva Élite](https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa) | [La Marea](https://open.spotify.com/album/7rndrbnyQYsVochFG2SOrm) | 2:41 | 2023-12-15 | 2024-04-19 |
 | [La Propia Nube](https://open.spotify.com/track/2po4k3FIPA3pFsRaGUh5TC) | [El Sayayín](https://open.spotify.com/artist/1sZj8fq4nSJnPycjQ2i7sp) | [El Mismo Saya, Vol\. 1](https://open.spotify.com/album/1AXivIj9tVdduUOyuqoN6c) | 3:54 | 2023-12-15 | 2024-04-19 |
 | [La Propia Nube](https://open.spotify.com/track/6jVtQ1jruUYPqQXpecxw3t) | [El Sayayín](https://open.spotify.com/artist/1sZj8fq4nSJnPycjQ2i7sp) | [El Mismo Saya, Vol\. 1 \(Desde Colombia a la USA\)](https://open.spotify.com/album/3AhwT0buFsjNmgp7AK23Uu) | 3:54 | 2023-12-15 |  |
-| [La Puntilla \- En Vivo](https://open.spotify.com/track/3QRmYG2tPdUgYK9ylGTKfH) | [DJ Jader Tremendo](https://open.spotify.com/artist/777DUvjLDJpcVq84ogE8sG), [Andy Brand](https://open.spotify.com/artist/2HFslzhkT0s1eQnWEcwiPd) | [La Puntilla \(En Vivo\)](https://open.spotify.com/album/5wpmNhh3vOAnV3MHF7qHSe) | 4:08 | 2023-12-15 |  |
+| [La Puntilla \- En Vivo](https://open.spotify.com/track/3QRmYG2tPdUgYK9ylGTKfH) | [DJ Jader Tremendo](https://open.spotify.com/artist/777DUvjLDJpcVq84ogE8sG), [Andy Brand](https://open.spotify.com/artist/2HFslzhkT0s1eQnWEcwiPd) | [La Puntilla \(En Vivo\)](https://open.spotify.com/album/5wpmNhh3vOAnV3MHF7qHSe) | 4:08 | 2023-12-15 | 2026-04-18 |
 | [La Pupicole](https://open.spotify.com/track/2aYZ09EKXWTDODNLMcj9i4) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx), [Rey Three Latino](https://open.spotify.com/artist/1rPEfTLbDVGyONtRnaFm50) | [La Pupicole](https://open.spotify.com/album/1CwRGHNTOR00RW7AJngCXS) | 3:17 | 2023-12-15 | 2024-04-19 |
 | [La Pupicole](https://open.spotify.com/track/2wIIVZkJohopVQMy0D5dMd) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx), [Rey Three Latino](https://open.spotify.com/artist/1rPEfTLbDVGyONtRnaFm50) | [La Pupicole](https://open.spotify.com/album/2KvkTMyVYOSZTDXqEpPLQF) | 3:22 | 2023-12-15 |  |
 | [La Pupileta](https://open.spotify.com/track/4xk7GC0Icjs0bKXxl8PQoo) | [Bazurto All Stars](https://open.spotify.com/artist/0BhgcfRYexO5WqUGuqOgGF) | [La Pupileta](https://open.spotify.com/album/4IUHA6ngGd8EC90EXYQzw4) | 3:01 | 2023-12-15 |  |
@@ -111,6 +111,7 @@
 | [Mami Ya pa' Qué](https://open.spotify.com/track/2VcmZyAxTPjFCVkJMtrPn8) | [Rey Three Latino](https://open.spotify.com/artist/1rPEfTLbDVGyONtRnaFm50) | [Mami Ya pa' Qué](https://open.spotify.com/album/2PKqC2oFPeUmO9CGQ2Ugle) | 3:33 | 2023-12-15 |  |
 | [Me Voy](https://open.spotify.com/track/0LTX2r35slMYBTaKv7Vy2I) | [Koffee el Kafetero](https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm) | [El Más Grande de la Champeta](https://open.spotify.com/album/6Z2cB8c4g9CwfyUvLh4lod) | 3:26 | 2023-12-15 |  |
 | [Me Voy](https://open.spotify.com/track/5iF0m6OjXmGMPiVH5MXfF5) | [Koffee el Kafetero](https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm) | [El Mas Grande De La Champeta](https://open.spotify.com/album/1pZbHIe2hC2ddoajPFmjUV) | 3:26 | 2023-12-15 | 2024-04-19 |
+| [Nos Vemos Nunca](https://open.spotify.com/track/78b90b0QNop5aEpyZpCd6d) | [Mc Car](https://open.spotify.com/artist/1vVqFZ65U41UO7RTT4egvl), [DJ Jader Tremendo](https://open.spotify.com/artist/777DUvjLDJpcVq84ogE8sG) | [Nos Vemos Nunca](https://open.spotify.com/album/2CrBRNjSp0BVW2RdjbWNbe) | 3:20 | 2026-04-17 |  |
 | [Pa la Calle Me Voy](https://open.spotify.com/track/3FxYndV4m9ZmCBsNShINDE) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx) | [Pa la Calle Me Voy](https://open.spotify.com/album/53VS7laVyJPo9I73nUphiR) | 3:57 | 2023-12-15 |  |
 | [Pa La Calle Me Voy](https://open.spotify.com/track/68GhT6KTdY3Ms1R8Ktxx7i) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx) | [Pa La Calle Me Voy](https://open.spotify.com/album/4oWlI9QFUOMxGUUSvRiBBL) | 3:57 | 2023-12-15 | 2024-04-19 |
 | [Paola](https://open.spotify.com/track/07rzF2jiwidYzEX51mulN9) | [El Sayayín](https://open.spotify.com/artist/1sZj8fq4nSJnPycjQ2i7sp) | [El Mismo Saya, Vol\. 1 \(Desde Colombia a la USA\)](https://open.spotify.com/album/3AhwT0buFsjNmgp7AK23Uu) | 4:05 | 2023-12-15 |  |

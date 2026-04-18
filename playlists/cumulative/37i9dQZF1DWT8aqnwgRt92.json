@@ -32373,6 +32373,24 @@
     },
     {
       "album": {
+        "name": "\u30ab\u30df\u30ce\u30b7\u30ba\u30af",
+        "url": "https://open.spotify.com/album/2EZ4c3wcz5E1w7e6X1n8eo"
+      },
+      "artists": [
+        {
+          "name": "Maaya Uchida",
+          "url": "https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268360,
+      "name": "\u30ab\u30df\u30ce\u30b7\u30ba\u30af",
+      "url": "https://open.spotify.com/track/1wHhROPKNGCaeHQfCOCFJ6"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30e1\u30ea\u30a2",
         "url": "https://open.spotify.com/album/1LRosPPyCwodwdO8oSwWt1"
       },

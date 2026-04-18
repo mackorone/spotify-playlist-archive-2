@@ -4,14 +4,14 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-846 songs - 1 day 23 hr 28 min
+847 songs - 1 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1/17](https://open.spotify.com/track/5cwjNspmIDLehxMTfX2NIC) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [1/17](https://open.spotify.com/album/3WehGHIYOKvthEqIs8E8ID) | 4:12 | 2025-03-28 | 2025-08-09 |
 | [10K Summer Nights](https://open.spotify.com/track/2FTTz19ql2XzrwnCBM0dP7) | [Eighty Ninety](https://open.spotify.com/artist/3Fg3y3Gx6hwdzb9sEOWHEW) | [10K Summer Nights](https://open.spotify.com/album/3ZOqum5A04o9fMcS8QfzZe) | 3:08 | 2020-10-13\* | 2021-06-19 |
 | [123](https://open.spotify.com/track/7dcYzQESWxba1b2Y794gYI) | [Izabel](https://open.spotify.com/artist/3YTr9y6XOl88xxHv246Vlf) | [123](https://open.spotify.com/album/0HPec1mbtwFvsoBBUX2UbY) | 2:36 | 2021-07-04 | 2022-01-22 |
-| [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-19 |  |
+| [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-19 | 2026-04-18 |
 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-29 | 2023-09-23 |
 | [2023 \- Majid Jordan Remix](https://open.spotify.com/track/2RsNzKRF6wQWS9NWO7xZpj) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [2023 \(Majid Jordan Remixes\)](https://open.spotify.com/album/7xSOcBD9jpAb7UzNnfS6gC) | 2:26 | 2022-08-05 | 2022-10-14 |
 | [24 Hours in Paris](https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [24 Hours in Paris](https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha) | 3:00 | 2024-06-07 | 2024-08-27 |
@@ -301,6 +301,7 @@
 | [Giving In To The Love](https://open.spotify.com/track/6pVGigBjIqGgGscGcKGqSi) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Giving In To The Love](https://open.spotify.com/album/5K0nBsDX1pO2OakhRPpsIJ) | 3:01 | 2021-10-16 | 2022-04-17 |
 | [GLAM!](https://open.spotify.com/track/4IazlP0NMBXhS1hF6H7et6) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [GLAM!](https://open.spotify.com/album/3oJkESCEfG0Q1M2xYIK63U) | 3:41 | 2022-01-07 | 2022-04-17 |
 | [Glitch](https://open.spotify.com/track/6wAFvJPpTZVirBKGZ4EnMW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 2:28 | 2022-10-28 | 2023-07-08 |
+| [GO](https://open.spotify.com/track/1KAV8Xo95JU3eNwmvW2imc) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [GO](https://open.spotify.com/album/6H1P4U7vkFCorLUxgoOAlt) | 3:00 | 2026-04-17 |  |
 | [Gold](https://open.spotify.com/track/6ZSO7kPn8IMJFymyticbJO) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [low kii savage](https://open.spotify.com/album/2EvTMiJyF3H4BoxNCL4HLh) | 3:45 | 2021-06-26 | 2021-07-04 |
 | [Good Cry](https://open.spotify.com/track/4kLFM89C6XMeIMxlrfyM2M) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Good Cry](https://open.spotify.com/album/4X3qM37B4hEZIHIq5nGsMv) | 3:17 | 2021-07-17 | 2022-04-09 |
 | [Good II Me](https://open.spotify.com/track/6q0wI1UiE9s03kH6bnY6VA) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [Good II Me](https://open.spotify.com/album/6MEfXZQ6c0Xj5C2NeYgJMm) | 3:28 | 2024-02-16 | 2024-08-31 |

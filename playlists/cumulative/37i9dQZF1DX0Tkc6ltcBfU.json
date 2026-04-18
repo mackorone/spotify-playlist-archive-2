@@ -5928,7 +5928,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 178520,
       "name": "Bird Flu",
       "url": "https://open.spotify.com/track/3qzYpnWOvJKRAqN6QBZRro"
@@ -9694,7 +9694,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 222204,
       "name": "CHR\u00d6ME (feat. slayr)",
       "url": "https://open.spotify.com/track/13bMRD7SZJCqbx4fSGHK0Y"
@@ -11281,6 +11281,32 @@
     },
     {
       "album": {
+        "name": "UY SCUTI B\u00d8YZ",
+        "url": "https://open.spotify.com/album/5YlKFqNUVuYLG4kiCKG4Qb"
+      },
+      "artists": [
+        {
+          "name": "Tezzus",
+          "url": "https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152640,
+      "name": "Da Fuck (feat. Young Thug & Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/51bhOqXgPKv9Zk7jUJUb4Y"
+    },
+    {
+      "album": {
         "name": "Da Fuxk (feat. Lil Yachty, G Herbo, YTB Fatt, G Youngin & BTY Beedo) [Remix]",
         "url": "https://open.spotify.com/album/0w3sdo5iH8tvcYBiFA0Rle"
       },
@@ -11450,7 +11476,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 120000,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/5b3QlErg4XqEe5hMaUXB0C"
@@ -12701,6 +12727,24 @@
     },
     {
       "album": {
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/1OsVdkrDUcnS02minz4CvL"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130874,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/5lLMNS5WYrYPFL7CsaAleK"
+    },
+    {
+      "album": {
         "name": "DO IT AGAIN",
         "url": "https://open.spotify.com/album/32zyLW6egVzXZKusfN49KX"
       },
@@ -13450,7 +13494,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 128000,
       "name": "Down",
       "url": "https://open.spotify.com/track/4Q7bNCSuhbwMAKGLkOJuHj"
@@ -13490,7 +13534,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 139805,
       "name": "Down South (feat. Key Glock)",
       "url": "https://open.spotify.com/track/70sjcC1GLyYfcHntiZ16cN"
@@ -13980,7 +14024,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 139174,
       "name": "Duality",
       "url": "https://open.spotify.com/track/7lQkOyv7iVSqwguPlRmMke"
@@ -14468,10 +14512,28 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 112000,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/0yYDa9Zuu7qM9MZO2cbK4Y"
+    },
+    {
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/6IiC7JXB47i74ybfGV4xcx"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/0f5EhuNMwbizCKWPxo4j6s"
     },
     {
       "album": {
@@ -16345,6 +16407,24 @@
     },
     {
       "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/4Z1bwN41GF6DwjgerhMI2n"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160509,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/02fpY51jccaKv1iIokSNqV"
+    },
+    {
+      "album": {
         "name": "Flights",
         "url": "https://open.spotify.com/album/1Fa22nkjCibBCB6PDNzojd"
       },
@@ -16900,7 +16980,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 132780,
       "name": "Forbes List",
       "url": "https://open.spotify.com/track/0eDIDoVdh6d1eYjZTvwbAS"
@@ -22215,6 +22295,28 @@
     },
     {
       "album": {
+        "name": "HunchO STEP! (feat. Quavo)",
+        "url": "https://open.spotify.com/album/1QZeMcXY4qchahi6eQFzuT"
+      },
+      "artists": [
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200547,
+      "name": "HunchO STEP! (feat. Quavo)",
+      "url": "https://open.spotify.com/track/5Q5q2dBnvn6CkpuB8RmLXr"
+    },
+    {
+      "album": {
         "name": "Might Delete Later",
         "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
       },
@@ -25781,6 +25883,24 @@
     },
     {
       "album": {
+        "name": "Knuckle",
+        "url": "https://open.spotify.com/album/26bKk2o2uqOCAJqUxssE5o"
+      },
+      "artists": [
+        {
+          "name": "MexikoDro",
+          "url": "https://open.spotify.com/artist/6VTn4Wmhm4uD4UNFcEIkEP"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140970,
+      "name": "Knuckle",
+      "url": "https://open.spotify.com/track/39joTOIiLjgzDAp3r5racP"
+    },
+    {
+      "album": {
         "name": "KO",
         "url": "https://open.spotify.com/album/4X4lSxXixoFEuAkUICyZMR"
       },
@@ -27557,6 +27677,24 @@
     },
     {
       "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/3TUyrzPFZVYseRl3VkSaJm"
+      },
+      "artists": [
+        {
+          "name": "Jay Montana",
+          "url": "https://open.spotify.com/artist/0VZ8xEb6CWeTe3swY7qcxw"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Locked In",
+      "url": "https://open.spotify.com/track/5nTmbg1nqM1WEofQJPHl9E"
+    },
+    {
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/2MrAeXVF8AF8jb3LSK4TIM"
       },
@@ -27568,7 +27706,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 154333,
       "name": "Loco",
       "url": "https://open.spotify.com/track/2LIHIN3N3WK5psQzKtqfMW"
@@ -32594,7 +32732,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 68666,
       "name": "NO HOOK",
       "url": "https://open.spotify.com/track/2bQQV9oDgqBjU3wnKQtyCk"
@@ -33619,6 +33757,24 @@
     },
     {
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154469,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
+    },
+    {
+      "album": {
         "name": "Numb (2024)",
         "url": "https://open.spotify.com/album/6olJ0gCPTGEFXsolFIll70"
       },
@@ -34022,7 +34178,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 192019,
       "name": "OFG!",
       "url": "https://open.spotify.com/track/3FDHnylmGbOBmbIrwnWI88"
@@ -38079,6 +38235,24 @@
     },
     {
       "album": {
+        "name": "Pull Over",
+        "url": "https://open.spotify.com/album/0fBFZblcPCYspMLHDR1IJu"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177084,
+      "name": "Pull Over",
+      "url": "https://open.spotify.com/track/0wHgsYlk5WR4j98qQwOQym"
+    },
+    {
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/6IVO2hFQmA6VoIvhklQQnM"
       },
@@ -38580,7 +38754,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 131506,
       "name": "Quagoo",
       "url": "https://open.spotify.com/track/7vfbtV6IJVB0nthc6mNzls"
@@ -39864,7 +40038,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 189295,
       "name": "Risky",
       "url": "https://open.spotify.com/track/0fdkcKlz1XvgCEDTf8C7oA"
@@ -41335,6 +41509,24 @@
     },
     {
       "album": {
+        "name": "SF5 Intro",
+        "url": "https://open.spotify.com/album/5A6JHzNR1BsZsjt7nDkAsV"
+      },
+      "artists": [
+        {
+          "name": "Tafia",
+          "url": "https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147754,
+      "name": "SF5 Intro",
+      "url": "https://open.spotify.com/track/4HPXpgjciNBu8Wm6q0WHyi"
+    },
+    {
+      "album": {
         "name": "SGA",
         "url": "https://open.spotify.com/album/77wY1T1RU4DCaBxRHTGIuy"
       },
@@ -41626,7 +41818,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 123118,
       "name": "She Luv Dat",
       "url": "https://open.spotify.com/track/0TRmLWfXbpjPGPV7NjUG64"
@@ -43600,6 +43792,28 @@
     {
       "album": {
         "name": "Spin",
+        "url": "https://open.spotify.com/album/5Nj4Y2qCEQyiGEX6nm24Mx"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255104,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/3Y915GAqFaP9hO4VDip2ud"
+    },
+    {
+      "album": {
+        "name": "Spin",
         "url": "https://open.spotify.com/album/5aVjW4gWTnOePnW7Y2dudP"
       },
       "artists": [
@@ -45337,6 +45551,28 @@
     },
     {
       "album": {
+        "name": "Sunday Again (with 2 Chainz)",
+        "url": "https://open.spotify.com/album/1b3dLmOwWOyyqsUtT0NrBv"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220106,
+      "name": "Sunday Again (with 2 Chainz)",
+      "url": "https://open.spotify.com/track/0jqIclUdaqiwYEi4FLUBOc"
+    },
+    {
+      "album": {
         "name": "Sunday Service",
         "url": "https://open.spotify.com/album/5ayh7q1xq1jFa3QsmE3M7n"
       },
@@ -46486,6 +46722,24 @@
       "duration_ms": 176191,
       "name": "Tell Me Bout It",
       "url": "https://open.spotify.com/track/7I3VPjpsYDKxKFbxSTZbAb"
+    },
+    {
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/7kZkch5axDOIoTT2hQMuFT"
+      },
+      "artists": [
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/11S1sUabJj7rArvWDFb491"
     },
     {
       "album": {
@@ -53210,6 +53464,24 @@
       "duration_ms": 140636,
       "name": "WTM",
       "url": "https://open.spotify.com/track/50J3eT2OtzhLWCWmvEz1NY"
+    },
+    {
+      "album": {
+        "name": "WYD",
+        "url": "https://open.spotify.com/album/3UQ4Eu0TwyHelMM8LR5smw"
+      },
+      "artists": [
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156266,
+      "name": "WYD",
+      "url": "https://open.spotify.com/track/4VzsfQSUEwJ37RjyzAmQ5Y"
     },
     {
       "album": {

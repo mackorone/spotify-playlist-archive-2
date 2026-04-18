@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest trending lofi beats for chill, focus, or study vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,753 likes - 100 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,861 likes - 100 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 99 | [Say You Love It](https://open.spotify.com/track/5ALF6lAf5ed9QjMIJmdJHe) | [Nobel](https://open.spotify.com/artist/5uC5qAuoCUyUduFrVAnYrE), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Say You Love It](https://open.spotify.com/album/4qELQahBGyksXyN9fUF9NN) | 2:03 |
 | 100 | [mountain drive](https://open.spotify.com/track/6xXxcOC9qJQ6jtEpG1sQbd) | [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo) | [mountain drive](https://open.spotify.com/album/0p5bK4Coubg7OeNogqjkF2) | 2:17 |
 
-Snapshot ID: `AAAAALWey9NMAOYViq4H3Y4AkHRCxp8z`
+Snapshot ID: `AAAAADpdvRdefBT+CUnSLTdghcQeHeA5`

@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-310 songs - 17 hr 46 min
+312 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Here Comes The Sun](https://open.spotify.com/track/0wWYUyq3TtIgxPSWyHyqRY) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 11](https://open.spotify.com/album/19M7tJBsBJcr2vrQINJMDH) | 3:49 | 2023-02-10 |  |
 | [Heroes \(Version for Piano\)](https://open.spotify.com/track/5fMc2MTb6pb5ehYQOl8A4s) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Maurizio Baglini](https://open.spotify.com/artist/6GKFibfWHRW8jfNr102ZkU) | [David Bowie: Heroes](https://open.spotify.com/album/2wZjHNQDTwkD7zxksqPGlJ) | 2:40 | 2025-02-21 |  |
 | [Higher Love \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/1v2ZoMBeTmUaoDKrFkpdfR) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Higher Love \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/3g8ZOcsJebfAwwcxoGreRk) | 3:23 | 2021-11-19 |  |
+| [How Deep Is Your Love](https://open.spotify.com/track/2V3v8ta1peC6X3vXsqpQsv) | [Ron Lopata](https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA) | [How Deep Is Your Love](https://open.spotify.com/album/5prKcMoquj7VcUdwvU3wEi) | 2:42 | 2026-04-17 |  |
 | [How Deep Is Your Love \- from "Saturday Night Fever"](https://open.spotify.com/track/2FsOgkX2KYPegtaZJ5pchf) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Robin Gibb](https://open.spotify.com/artist/4vZduJO8Uukqzx64de5JxV), [Maurice Gibb](https://open.spotify.com/artist/6h4ALbc1G80KRRG7THwHic), [Jean\-Michel Bernard](https://open.spotify.com/artist/5MTEeanu1d3pEbBauZ9srY), [Paul Meyer](https://open.spotify.com/artist/31rALqMKxBY8SoTJhNwJhn) | [How Deep Is Your Love \- from "Saturday Night Fever"](https://open.spotify.com/album/5EdZ7r5mE1gSrtPqvPj52a) | 3:26 | 2024-09-27 |  |
 | [How Will I Know \(arr\. piano\)](https://open.spotify.com/track/5pT81cp8OK5FuACexrkgC1) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [How Will I Know \(arr\. piano\)](https://open.spotify.com/album/0C9p3l8YDqEC8G5UYilo8F) | 3:38 | 2021-11-19 | 2023-09-30 |
 | [How You Like That](https://open.spotify.com/track/6FUe1Kgy6poQC8AXy2F9Tk) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs BLACKPINK](https://open.spotify.com/album/6ZuOjRxh4TX7wx1QPo9EuK) | 3:00 | 2025-08-08 |  |
@@ -163,6 +164,7 @@
 | [Isn't She Lovely \(Arr\. Piano\)](https://open.spotify.com/track/1w99LEOdE8U2KyKZaHgxLL) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Isn't She Lovely \(Arr\. Piano\)](https://open.spotify.com/album/2GENYb53sKhh8Im8T5MwpQ) | 2:22 | 2025-08-15 |  |
 | [Jealous](https://open.spotify.com/track/48qSRomfnylKcw01TNhjFH) | [Shimmer](https://open.spotify.com/artist/1WLgLNSzeuOhkhfEZbSXM3) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 3:33 | 2024-05-17 |  |
 | [Kabhi Khushi Kabhie Gham](https://open.spotify.com/track/2uU4tNepmkbE5lyQ9d0zFZ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 3:28 | 2022-03-30 |  |
+| [Kill Bill](https://open.spotify.com/track/2WCkyrXkIUqipUUHgVErxz) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Kill Bill](https://open.spotify.com/album/09WQcQnzdd79MYl4ZbqGU9) | 2:36 | 2026-04-17 |  |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/6RUSzFE0Qv9YqaIz1qCCpo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Killing Me Softly With His Song](https://open.spotify.com/album/1crWufifVQchsnAVXSk6UZ) | 1:03 | 2024-09-06 |  |
 | [Kiss](https://open.spotify.com/track/0aC3m5Y6lIfG1MqVzrQyme) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Kiss](https://open.spotify.com/album/1yVHHlAsAmcUmbf7MQAGQU) | 3:41 | 2023-03-03 |  |
 | [LA FAMA](https://open.spotify.com/track/1RTMnKO8H1XiZaJUmBVg4b) | [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [LA FAMA](https://open.spotify.com/album/2BID0wZNtqNSN8x7FS0i91) | 2:59 | 2023-06-12 |  |

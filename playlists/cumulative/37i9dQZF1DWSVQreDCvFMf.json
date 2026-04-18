@@ -146,7 +146,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 174000,
       "name": "365",
       "url": "https://open.spotify.com/track/6ItgT8b2w0x7XzFPEJ5qus"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 198315,
       "name": "All Day",
       "url": "https://open.spotify.com/track/1kKMlsnMpeggqb8ezCMoyZ"
@@ -3519,6 +3519,24 @@
     },
     {
       "album": {
+        "name": "Ether",
+        "url": "https://open.spotify.com/album/5Ovt0lNhvauiZR3bb4GOoN"
+      },
+      "artists": [
+        {
+          "name": "barb.",
+          "url": "https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251134,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/0Kcn243BBpYS1CaZI3WHMn"
+    },
+    {
+      "album": {
         "name": "All These and More",
         "url": "https://open.spotify.com/album/7kJi6tJj8GvOoBdhttiO6x"
       },
@@ -5238,7 +5256,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 290023,
       "name": "Huli Na Ba Ang Lahat?",
       "url": "https://open.spotify.com/track/1KPwDC5T93NQsrqR5QXiKw"
@@ -8262,7 +8280,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 226875,
       "name": "Maligaya Street",
       "url": "https://open.spotify.com/track/0xT3loVOOSoN3IGeAUrV1k"
@@ -8338,6 +8356,24 @@
       "duration_ms": 251632,
       "name": "Manariwa",
       "url": "https://open.spotify.com/track/2Pv13ly5oEKiukj3w2i7H8"
+    },
+    {
+      "album": {
+        "name": "Manatili",
+        "url": "https://open.spotify.com/album/74M3oYE898sDzK8l0vmONg"
+      },
+      "artists": [
+        {
+          "name": "Over October",
+          "url": "https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220833,
+      "name": "Manatili",
+      "url": "https://open.spotify.com/track/6IigVaC8ZwuXktW0K39a16"
     },
     {
       "album": {
@@ -10962,7 +10998,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 263161,
       "name": "Pansamantala",
       "url": "https://open.spotify.com/track/5OIfVsyqjgYvZty3rpkln0"
@@ -12281,6 +12317,28 @@
     },
     {
       "album": {
+        "name": "Sa Walang Hanggan",
+        "url": "https://open.spotify.com/album/300Q4DS2z7WHxexjY4js3O"
+      },
+      "artists": [
+        {
+          "name": "Healy After Dark",
+          "url": "https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY"
+        },
+        {
+          "name": "Chrstn",
+          "url": "https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233268,
+      "name": "Sa Walang Hanggan",
+      "url": "https://open.spotify.com/track/51M0GSzpTPuCBK2pQIiVcc"
+    },
+    {
+      "album": {
         "name": "Saan Kailan",
         "url": "https://open.spotify.com/album/3hoElwU0nvOovSKpaOfZC6"
       },
@@ -13318,6 +13376,24 @@
     {
       "album": {
         "name": "Sinungaling",
+        "url": "https://open.spotify.com/album/4SP2WYFM5HFsr16xRPYz3i"
+      },
+      "artists": [
+        {
+          "name": "Nameless Kids",
+          "url": "https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226728,
+      "name": "Sinungaling",
+      "url": "https://open.spotify.com/track/0DaEuZBzjBabTkbsnCZPs0"
+    },
+    {
+      "album": {
+        "name": "Sinungaling",
         "url": "https://open.spotify.com/album/3m0sk4kgBEphytLUt6JMhq"
       },
       "artists": [
@@ -13896,6 +13972,24 @@
       "duration_ms": 225750,
       "name": "Swimming In The Clouds",
       "url": "https://open.spotify.com/track/0n9wOJzo8MdwKm5YSVadhc"
+    },
+    {
+      "album": {
+        "name": "Tabi!",
+        "url": "https://open.spotify.com/album/1pxiJwgnObZAfyhjgQz46K"
+      },
+      "artists": [
+        {
+          "name": "dwta",
+          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214223,
+      "name": "Tabi!",
+      "url": "https://open.spotify.com/track/3aO6rk9KOQFt9D2GDoKrL8"
     },
     {
       "album": {

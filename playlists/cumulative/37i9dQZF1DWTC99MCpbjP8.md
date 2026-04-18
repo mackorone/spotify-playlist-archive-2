@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-685 songs - 1 day 5 hr 39 min
+690 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,8 @@
 | [A Little Journey](https://open.spotify.com/track/1ri5KgNPbiYHZEc4pYaKhB) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [A Little Journey](https://open.spotify.com/album/5hZI8dZFuOUmWn4Jlbb3Tb) | 2:00 | 2022-04-22 | 2023-08-08 |
 | [A New Day](https://open.spotify.com/track/3f3o11I6fICW22aTW3ZK2k) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [A New Day](https://open.spotify.com/album/1OUJJk70WJeyliPi5Hu3q9) | 2:18 | 2022-04-22 | 2023-10-05 |
 | [A Part Of Us](https://open.spotify.com/track/5aC8nrtrXpYfnhnRyG9LgI) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [A Part Of Us](https://open.spotify.com/album/7JDvhxgKoaufSFdaemvWPI) | 1:57 | 2023-04-03 | 2023-08-15 |
+| [A soft return](https://open.spotify.com/track/6Age7Pl5qQB3YA1Q1xKQyw) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [A soft return](https://open.spotify.com/album/3ypxF5yC1Tk3q3l4X76pWg) | 3:24 | 2026-04-17 |  |
+| [A Way Forward](https://open.spotify.com/track/7wMckEgxWuP0FhwUvpVNsf) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [A Way Forward](https://open.spotify.com/album/1NR5CRihxGz7dsNoaaot1W) | 2:14 | 2026-04-17 |  |
 | [A World Without Pain](https://open.spotify.com/track/33LOlNbHBUCieXLQS88RpK) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/6RWb9qbPQsNEbqStnFM6lw) | 2:36 | 2022-07-27 | 2023-10-05 |
 | [A World Without Pain](https://open.spotify.com/track/536rm114S2ByPbh906pksj) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/76i9FGk2iswEnsUcv1Hmjd) | 2:36 | 2022-04-22 | 2022-07-29 |
 | [Abbellimenti](https://open.spotify.com/track/6CJRpyYTWrVqVGFbu9rc8r) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Abbellimenti](https://open.spotify.com/album/3vzFG9NkHWpizfwNBIqMx8) | 2:32 | 2022-04-22 | 2022-07-28 |
@@ -91,6 +93,7 @@
 | [Breathe](https://open.spotify.com/track/10EePqFwFowFmqDqwyP1qm) | [Jamie McNeal](https://open.spotify.com/artist/74vNtY2P9DwQNltXVislIc) | [Breathe](https://open.spotify.com/album/7JfW3XHvMfeoC4ioGD9FpI) | 2:12 | 2024-04-09 |  |
 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 | 2022-09-15 | 2023-08-15 |
 | [Broken Dreams](https://open.spotify.com/track/5rLF5WFvEFXONKAALc6ABb) | [Ben Berkenbosch](https://open.spotify.com/artist/052Q9RnerwsOF5MDRHiSwk) | [Broken Dreams](https://open.spotify.com/album/4l0zMN3fgA2JmxMWTXoN6o) | 4:39 | 2023-01-26 | 2023-02-01 |
+| [Broken Shores](https://open.spotify.com/track/77oWSWsQCozPMFfDU63lKM) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Broken Shores](https://open.spotify.com/album/49U4k8jpRUidVGgr16PgM1) | 2:22 | 2026-04-17 |  |
 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 | 2022-04-22 | 2023-01-27 |
 | [Campanula](https://open.spotify.com/track/7y0HN6kd7tx0mU7ZVCPLco) | [Hidden Natúr](https://open.spotify.com/artist/1r3WsPkeb5nKMaRza1SBX3) | [Campanula](https://open.spotify.com/album/6gqgoR8RcAmkTLXF7E0z2q) | 3:05 | 2024-05-29 |  |
 | [Candles](https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Candles](https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn) | 2:52 | 2023-07-03 |  |
@@ -145,6 +148,7 @@
 | [Down The Line](https://open.spotify.com/track/25DsngbeW7QvMTuPJBy8ww) | [Cassandra Millen](https://open.spotify.com/artist/1UMCj1ixpKQ4Bg9VWsqQel) | [Down The Line](https://open.spotify.com/album/5dx9rLR3Lqfx8zh6XWklKw) | 2:26 | 2023-05-03 |  |
 | [Dream Residue](https://open.spotify.com/track/66psQH5NhF48bBYJMZYi7a) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Dream Residue](https://open.spotify.com/album/7A4KyA0JhZdmKdLuGhYsVJ) | 2:24 | 2025-12-01 |  |
 | [Dream Until the First Rays of Dawn](https://open.spotify.com/track/1YrmdTAZdNa2uzxKttTXq6) | [Dravde](https://open.spotify.com/artist/48hcGoeqRficiqH0Egd2Kc) | [Dream Until the First Rays of Dawn](https://open.spotify.com/album/3XlmyE8Y0HKjOHAG4qXLrl) | 2:35 | 2022-04-22 | 2023-01-27 |
+| [Dreaming in Silver](https://open.spotify.com/track/3lbwEu9hVkMlRRSEbfk8sK) | [Jonathan Gillham](https://open.spotify.com/artist/5DDB7qJGqbzCijr4mUSOOs) | [Dreaming in Silver](https://open.spotify.com/album/7aVKyH1BuxP6wy2VApjtC5) | 2:05 | 2026-04-17 |  |
 | [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 | 2023-01-26 | 2026-01-24 |
 | [Dreamy](https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 2:59 | 2023-10-23 | 2024-04-19 |
 | [Dried Out](https://open.spotify.com/track/0Hn8q446fA8GvnmFBspfJ1) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Dried Out](https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX) | 2:52 | 2022-04-22 | 2024-04-16 |
@@ -225,6 +229,7 @@
 | [Goodwill](https://open.spotify.com/track/1BfkOTr6W7SyXsfappHLHy) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Goodwill](https://open.spotify.com/album/5AkNMQIU6nLtldzxl4YGYH) | 3:26 | 2022-04-22 | 2023-10-05 |
 | [Gouttes de pluie](https://open.spotify.com/track/2aWlN3NzJxxY8AXlYYDj8S) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Gouttes de pluie](https://open.spotify.com/album/2ZBtySzL3lB1Kk06oBQX4x) | 2:15 | 2022-04-22 | 2023-08-08 |
 | [Gradually](https://open.spotify.com/track/0Mxsdq6eSdRsa2lmwhHvHR) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Gradually](https://open.spotify.com/album/59jM5oDB27DXOz6X5d9cz2) | 2:28 | 2024-04-15 |  |
+| [Grey Water](https://open.spotify.com/track/2P741Yxi3YjddCbffCS5aD) | [Axel Bennett](https://open.spotify.com/artist/3cbNP4ir2UsDvVi8kbd1qz) | [Grey Water](https://open.spotify.com/album/3gUoRf1886czsbsVT47LQd) | 3:00 | 2026-04-17 |  |
 | [Ha tudnád](https://open.spotify.com/track/73NUBJWApOkAp9ioV8nI9O) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Ha tudnád](https://open.spotify.com/album/7ygjuvjtDBNaolW7rHHZoK) | 2:15 | 2023-03-21 | 2025-05-15 |
 | [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-01-31 |  |
 | [Harmony](https://open.spotify.com/track/6I3wMGZNIGwGvjPfzIyq01) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Harmony](https://open.spotify.com/album/2GsLI3ZuRTI5GyktudCsBd) | 2:43 | 2024-04-09 |  |

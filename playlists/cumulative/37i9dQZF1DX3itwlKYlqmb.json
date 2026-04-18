@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "De est\u00e1 sierra a la otra sierra se divisa \nSan Jos\u00e9. En portada: Los Alegres de la Sierra",
+  "description": "De est\u00e1 sierra a la otra sierra se divisa \nSan Jos\u00e9. En portada: Rom\u00e1n De Los Reyes",
   "name": "Pasito Sierre\u00f1o",
   "tracks": [
     {
@@ -2963,6 +2963,24 @@
     },
     {
       "album": {
+        "name": "EL Celular",
+        "url": "https://open.spotify.com/album/3z6bndczkuq0R1OpcohJrw"
+      },
+      "artists": [
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171107,
+      "name": "EL Celular",
+      "url": "https://open.spotify.com/track/0YULTqV7NAO69PsWXwWbsL"
+    },
+    {
+      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 269986,
       "name": "El Columpio",
       "url": "https://open.spotify.com/track/3oZp7J4bwzzCnsDWejOy2t"
@@ -5146,6 +5164,46 @@
       "duration_ms": 143960,
       "name": "La Iguana - Version Ranchera",
       "url": "https://open.spotify.com/track/4D1CgTdbnMXcV8YuuJwa1t"
+    },
+    {
+      "album": {
+        "name": "DESDE LA OFI",
+        "url": "https://open.spotify.com/album/6Mz8g9QhFZCdKHKKGIkitS"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292199,
+      "name": "LA LAMPARA",
+      "url": "https://open.spotify.com/track/5Ph4MjSnorEkgNWt5BDKYm"
+    },
+    {
+      "album": {
+        "name": "La Loteria",
+        "url": "https://open.spotify.com/album/25sYpaIHVgrQD9Bxp4a7Zl"
+      },
+      "artists": [
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+        },
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190310,
+      "name": "La Loteria",
+      "url": "https://open.spotify.com/track/5G7J0l1Q1IJC3SQa92YEtk"
     },
     {
       "album": {
@@ -7282,6 +7340,24 @@
       "duration_ms": 242133,
       "name": "O Me Voy O Te Vas",
       "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
+    },
+    {
+      "album": {
+        "name": "Obscuridad",
+        "url": "https://open.spotify.com/album/1RInSjzPEdPoQkz0CBk72N"
+      },
+      "artists": [
+        {
+          "name": "Los Meros Meros De La Sierra",
+          "url": "https://open.spotify.com/artist/6Y6fEyJFUrmXDLYfHAq1La"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199562,
+      "name": "Obscuridad",
+      "url": "https://open.spotify.com/track/5OXJene3gtawDjrWLbxzeI"
     },
     {
       "album": {

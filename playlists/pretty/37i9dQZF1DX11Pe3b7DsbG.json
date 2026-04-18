@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 234699,
+  "num_followers": 234694,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "A Batucada Dos Nossos Tant\u00e3s",
-        "url": "https://open.spotify.com/album/23zoyC5zT8lqnPTBytd4LC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fundo De Quintal",
-          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "A Batucada Dos Nossos Tant\u00e3s",
-      "url": "https://open.spotify.com/track/1yqJ3Xi70OumcNDUgVAT5p"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Bebadosamba",
         "url": "https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 205200,
       "name": "Timoneiro",
       "url": "https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "A Batucada Dos Nossos Tant\u00e3s",
+        "url": "https://open.spotify.com/album/23zoyC5zT8lqnPTBytd4LC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "A Batucada Dos Nossos Tant\u00e3s",
+      "url": "https://open.spotify.com/track/1yqJ3Xi70OumcNDUgVAT5p"
     },
     {
       "added_at": "2025-09-19 22:07:37",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "Sentimento Brasileiro",
-        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 171293,
-      "name": "Quando o povo entra na dan\u00e7a",
-      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Banho de Folhas",
         "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 231017,
       "name": "Banho de Folhas",
       "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "Sentimento Brasileiro",
+        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 171293,
+      "name": "Quando o povo entra na dan\u00e7a",
+      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
     },
     {
       "added_at": "2025-09-19 22:07:37",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "Jovelina P\u00e9rola Negra",
-        "url": "https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf"
-      },
-      "artists": [
-        {
-          "name": "Jovelina Perola Negra",
-          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Menina Voc\u00ea Bebeu",
-      "url": "https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Xande Canta Caetano",
         "url": "https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 235180,
       "name": "Gente",
       "url": "https://open.spotify.com/track/4N2qVdPVkeBX0d89WflVbc"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "Jovelina P\u00e9rola Negra",
+        "url": "https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf"
+      },
+      "artists": [
+        {
+          "name": "Jovelina Perola Negra",
+          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Menina Voc\u00ea Bebeu",
+      "url": "https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX"
     },
     {
       "added_at": "2025-09-19 22:07:37",
@@ -931,6 +931,26 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
+        "name": "Cidade do Samba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0pi0cmNcMMi5RXrXg6KiHy"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "Mulheres - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Kjil04DcA70F6h3WjLz2e"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
         "name": "Sambabook Dona Ivone Lara",
         "url": "https://open.spotify.com/album/69qErPKLHHugsWzOXRB0Ls"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 292275,
       "name": "Amiga da Minha Mulher / Cilada - Ao Vivo",
       "url": "https://open.spotify.com/track/7wkn5YzIbYWtub1jgwp2D8"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
-        "name": "Cidade do Samba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0pi0cmNcMMi5RXrXg6KiHy"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "Mulheres - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Kjil04DcA70F6h3WjLz2e"
     },
     {
       "added_at": "2025-09-19 22:07:37",

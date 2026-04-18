@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "sweet. sharp. unbothered - Magi Merlin on the cover",
+  "description": "sweet. sharp. unbothered - Whee In on the cover",
   "name": "SALT",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 170826,
       "name": "007",
       "url": "https://open.spotify.com/track/2GikvXlSzcrm7cXXkSkhYN"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 203602,
       "name": "4ever - triple j Like A Version",
       "url": "https://open.spotify.com/track/14lz4KBqBTg3BRzk1atbxC"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 154155,
       "name": "BLEED MY LOVE",
       "url": "https://open.spotify.com/track/5vbuYJAzJqMIIaGcEuu021"
@@ -2286,6 +2286,24 @@
       "duration_ms": 186666,
       "name": "BODY BAG",
       "url": "https://open.spotify.com/track/63f24av3B364sOS3oXoGL0"
+    },
+    {
+      "album": {
+        "name": "BODY HORROR",
+        "url": "https://open.spotify.com/album/6KEW2xl30m37AfWixq60Jl"
+      },
+      "artists": [
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168196,
+      "name": "BODY HORROR",
+      "url": "https://open.spotify.com/track/4X7VQgoyjOMTONyGI6rkEV"
     },
     {
       "album": {
@@ -5091,6 +5109,24 @@
     },
     {
       "album": {
+        "name": "DUMB",
+        "url": "https://open.spotify.com/album/68SonfKPODsOntzXjCZOvn"
+      },
+      "artists": [
+        {
+          "name": "JORDY",
+          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140506,
+      "name": "DUMB",
+      "url": "https://open.spotify.com/track/30iQqVmUyPxyDPTby3KjwM"
+    },
+    {
+      "album": {
         "name": "still not ur girlfriend",
         "url": "https://open.spotify.com/album/3SxhS51jQH7FewYY5BY3CT"
       },
@@ -5106,6 +5142,24 @@
       "duration_ms": 152857,
       "name": "dumb dumb dumb",
       "url": "https://open.spotify.com/track/7mUOGK2T7zONpDE0KwegZ0"
+    },
+    {
+      "album": {
+        "name": "god forbid a girl spits out her feelings!",
+        "url": "https://open.spotify.com/album/1Ae3HjPsQvfnnZKEvOxXwN"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142626,
+      "name": "dumbest girl in the world",
+      "url": "https://open.spotify.com/track/6Lsp0hAsrd1HDHbLxRnu5u"
     },
     {
       "album": {
@@ -6470,6 +6524,24 @@
       "duration_ms": 163927,
       "name": "Girl Of Your Dreams",
       "url": "https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg"
+    },
+    {
+      "album": {
+        "name": "Girls Are So Lucky",
+        "url": "https://open.spotify.com/album/0vrId1FtS9yQlcwxCLpw1b"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135758,
+      "name": "Girls Are So Lucky",
+      "url": "https://open.spotify.com/track/1iyDMAsVPrn25iGiqjI9Ev"
     },
     {
       "album": {
@@ -9685,6 +9757,24 @@
     },
     {
       "album": {
+        "name": "KILLSWITCH",
+        "url": "https://open.spotify.com/album/2UXXrsBmLTvy63ZD9o6YuX"
+      },
+      "artists": [
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138372,
+      "name": "KILLSWITCH",
+      "url": "https://open.spotify.com/track/2ONOuIhH0c9h8ioIxr2msm"
+    },
+    {
+      "album": {
         "name": "Kind of Love",
         "url": "https://open.spotify.com/album/68g8IaUYJTGfMnhTr661c0"
       },
@@ -12545,6 +12635,24 @@
     },
     {
       "album": {
+        "name": "Oops (it's a bad idea)",
+        "url": "https://open.spotify.com/album/5g1uxRDXBGvrzAruK4OXxa"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202614,
+      "name": "Oops (it's a bad idea)",
+      "url": "https://open.spotify.com/track/2hsilQOlgcV5QtlBFuhhDK"
+    },
+    {
+      "album": {
         "name": "oops, my bad!",
         "url": "https://open.spotify.com/album/2Flg62smX1tChliD7jWClT"
       },
@@ -14326,7 +14434,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 196250,
       "name": "ROLL THE CREDITS",
       "url": "https://open.spotify.com/track/2paspRstByBiQWEQ5e559C"
@@ -14962,7 +15070,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 203949,
       "name": "Sexxxtapes",
       "url": "https://open.spotify.com/track/67gl2k7No6jIOMm4F2XNTZ"
@@ -15002,6 +15110,28 @@
       "duration_ms": 146383,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/5bmGMXvdLlUdLp0qYauHcC"
+    },
+    {
+      "album": {
+        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213241,
+      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
     },
     {
       "album": {
@@ -15464,7 +15594,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 158396,
       "name": "Slap On The Wrist",
       "url": "https://open.spotify.com/track/54t4eAvCmdEWh2QwelmCXC"
@@ -17026,7 +17156,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 189107,
       "name": "the punisher",
       "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
@@ -17084,6 +17214,24 @@
       "duration_ms": 206522,
       "name": "The Same Bitch!",
       "url": "https://open.spotify.com/track/1NiHPhOiEqtqxIyuvF5X4E"
+    },
+    {
+      "album": {
+        "name": "adagio",
+        "url": "https://open.spotify.com/album/1BNiIpMz58htoqjXUMpq1T"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "The Symphony of Fxxkboys",
+      "url": "https://open.spotify.com/track/52KygGkyBwayKKdv7gDAdP"
     },
     {
       "album": {
@@ -18320,7 +18468,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 139335,
       "name": "Vices",
       "url": "https://open.spotify.com/track/45vN3pKjL8MxaU6PGGb8hh"

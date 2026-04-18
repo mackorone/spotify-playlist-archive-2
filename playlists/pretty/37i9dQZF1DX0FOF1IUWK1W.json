@@ -1,15 +1,31 @@
 {
-  "description": "Mc Lele JP, Mc Poze do Rodo, MC Leozinho ZS o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
-  "num_followers": 8815246,
+  "description": "Ferrugem o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "num_followers": 8815295,
   "original_name": "Top Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKiIagvR421pjV7F3AWHaVv5ywYm",
+  "snapshot_id": "AAAAABBRkVKao3Qe2vqowDmxDqeYvksw",
   "tracks": [
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
+      "album": {
+        "name": "Sentimento",
+        "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 180832,
+      "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
+      "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
+    },
+    {
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
         "url": "https://open.spotify.com/album/1nJFHpaSmVAKbLMrzWOdwz"
@@ -37,7 +53,27 @@
       "url": "https://open.spotify.com/track/22bl3LPkCHQSBhCAdw8Jwk"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
+      "album": {
+        "name": "Bola Uma Vela (Trava Chip)",
+        "url": "https://open.spotify.com/album/4VqvH1Is9WcgpuO2Jfisre"
+      },
+      "artists": [
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        }
+      ],
+      "duration_ms": 99692,
+      "name": "Bola Uma Vela (Trava Chip)",
+      "url": "https://open.spotify.com/track/4tP2kbroBcBmYk4IhbYwu5"
+    },
+    {
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Reliquia do 2T",
         "url": "https://open.spotify.com/album/6ecRUuOdAsn1ROohWK7D2Z"
@@ -73,43 +109,71 @@
       "url": "https://open.spotify.com/track/6n9JMoXkXu4lDOu1k6MRpy"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
-        "name": "Bola Uma Vela (Trava Chip)",
-        "url": "https://open.spotify.com/album/4VqvH1Is9WcgpuO2Jfisre"
+        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
+        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
       },
       "artists": [
         {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "Dj Yuri Pedrada",
-          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+          "name": "Filho do Piseiro",
+          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
         }
       ],
-      "duration_ms": 99692,
-      "name": "Bola Uma Vela (Trava Chip)",
-      "url": "https://open.spotify.com/track/4tP2kbroBcBmYk4IhbYwu5"
+      "duration_ms": 136333,
+      "name": "Raparigas",
+      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
-        "name": "Sentimento",
-        "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
+        "name": "Voc\u00eas & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
+        "url": "https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB"
       },
       "artists": [
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 180832,
-      "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
-      "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
+      "duration_ms": 160613,
+      "name": "Cadeira Cativa - Ao Vivo",
+      "url": "https://open.spotify.com/track/7gx504HCEsTgxmyPNov5Lh"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
+      "album": {
+        "name": "Cheiro De Culpado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3hYI6LURMi5rdYRn9slfn6"
+      },
+      "artists": [
+        {
+          "name": "J\u00fanior e C\u00e9zar",
+          "url": "https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk"
+        }
+      ],
+      "duration_ms": 161298,
+      "name": "Cheiro De Culpado - Ao Vivo",
+      "url": "https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9"
+    },
+    {
+      "added_at": "2026-04-17 20:00:11",
+      "album": {
+        "name": "Saudade Estranha - Du Nada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4oSSmxah3nxooXXpHiosbY"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "duration_ms": 174794,
+      "name": "Saudade Estranha - Du Nada - Ao Vivo",
+      "url": "https://open.spotify.com/track/3LZcSnTOCRalXwMXvkZnLZ"
+    },
+    {
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "PEGA A MALDADE DA BANDIDA",
         "url": "https://open.spotify.com/album/3Car77d25w5IcvDwDhYKMc"
@@ -137,55 +201,7 @@
       "url": "https://open.spotify.com/track/588PdhJdtsuypJdUb4ms4K"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
-      "album": {
-        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
-        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
-      },
-      "artists": [
-        {
-          "name": "Filho do Piseiro",
-          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "Raparigas",
-      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
-    },
-    {
-      "added_at": "2026-04-13 17:41:16",
-      "album": {
-        "name": "Cheiro De Culpado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3hYI6LURMi5rdYRn9slfn6"
-      },
-      "artists": [
-        {
-          "name": "J\u00fanior e C\u00e9zar",
-          "url": "https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk"
-        }
-      ],
-      "duration_ms": 161298,
-      "name": "Cheiro De Culpado - Ao Vivo",
-      "url": "https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9"
-    },
-    {
-      "added_at": "2026-04-13 17:41:16",
-      "album": {
-        "name": "Saudade Estranha - Du Nada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4oSSmxah3nxooXXpHiosbY"
-      },
-      "artists": [
-        {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        }
-      ],
-      "duration_ms": 174794,
-      "name": "Saudade Estranha - Du Nada - Ao Vivo",
-      "url": "https://open.spotify.com/track/3LZcSnTOCRalXwMXvkZnLZ"
-    },
-    {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "MOLHO (Ao Vivo)",
         "url": "https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/6B7ot6Wlqf7zt3FCkYl2FJ"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Beat Que Te Deixa Alerta",
         "url": "https://open.spotify.com/album/0iyEVVDNrHcSKCu37Jdc49"
@@ -237,7 +253,27 @@
       "url": "https://open.spotify.com/track/7qqixxBvZIGSep53Eh2o0b"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
+      "album": {
+        "name": "Choka Choka",
+        "url": "https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 131562,
+      "name": "Choka Choka",
+      "url": "https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV"
+    },
+    {
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Eu Me Apaixonei",
         "url": "https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA"
@@ -253,7 +289,7 @@
       "url": "https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/2lmUmRXPsds8n2YU68dalX"
@@ -269,7 +305,7 @@
       "url": "https://open.spotify.com/track/2Hw0LzrD6ic8AckKBxJhiO"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Velhos H\u00e1bitos Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5yHzNUDYfdl02KiOqld5mm"
@@ -285,7 +321,7 @@
       "url": "https://open.spotify.com/track/0dI5yI0wplyuwBMEGKXeJC"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Amo Minha Favela",
         "url": "https://open.spotify.com/album/20s95PaYtUZtoplbDIBetb"
@@ -305,7 +341,7 @@
       "url": "https://open.spotify.com/track/4S1SaaCxQ87nXpA2EfYFj4"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Carn\u00edvoro",
         "url": "https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa"
@@ -333,7 +369,7 @@
       "url": "https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Lembrei de Tu",
         "url": "https://open.spotify.com/album/088pxvJGLblIFVW4PL95Zq"
@@ -357,7 +393,7 @@
       "url": "https://open.spotify.com/track/1lokGTw8YKDexcSPtQ8AQ3"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Bebe, Beija e Trai (Ao Vivo)",
         "url": "https://open.spotify.com/album/0E8TJBB3Y510HYS9llB48Q"
@@ -377,7 +413,7 @@
       "url": "https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Panda Sem Modera\u00e7\u00e3o 2, Vol.3",
         "url": "https://open.spotify.com/album/2sDHEgQXJv3VxmitGB0wh3"
@@ -397,7 +433,7 @@
       "url": "https://open.spotify.com/track/4V2rUOmaevK0C1bKAkeFf5"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Saudade do Carai",
         "url": "https://open.spotify.com/album/3PWOSqpHDsgbSNFjnsDTLn"
@@ -421,7 +457,7 @@
       "url": "https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Alian\u00e7a - Vol.1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5GAdbWrj64YwrmUh1HJtfE"
@@ -437,7 +473,7 @@
       "url": "https://open.spotify.com/track/1CqUGmt2Cyn2vvvAyQKJZQ"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "JETSKI",
         "url": "https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o"
@@ -461,7 +497,7 @@
       "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
         "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
@@ -493,7 +529,7 @@
       "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Feito \u00c0 M\u00e3o",
         "url": "https://open.spotify.com/album/3ZqeqDoYXUEUvfdPkohMjl"
@@ -509,7 +545,7 @@
       "url": "https://open.spotify.com/track/0vKdIvvXWdvaQ2qPVchDWB"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Admita (Ao Vivo)",
         "url": "https://open.spotify.com/album/5LSlkNPGCk88r7UzXC33e2"
@@ -529,7 +565,7 @@
       "url": "https://open.spotify.com/track/2YKc5o2kQ6e1Pch1DwpjkO"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Beatriz",
         "url": "https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup"
@@ -553,7 +589,7 @@
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Faz Parte De Mim",
         "url": "https://open.spotify.com/album/2zl9Sd8R4Nuf5vNCcM35b2"
@@ -573,7 +609,7 @@
       "url": "https://open.spotify.com/track/6omKlm9PHL3w95NzNtVDZd"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Ensaios Da Anitta",
         "url": "https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39"
@@ -597,7 +633,7 @@
       "url": "https://open.spotify.com/track/2s4nhrlWTnmzSnGFH5pyAM"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "10 SEGUNDOS",
         "url": "https://open.spotify.com/album/1Y4VDN6EZjy7dCBdixGHdl"
@@ -617,7 +653,7 @@
       "url": "https://open.spotify.com/track/48SYVECjCIwWWsqogDHWVF"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "MOLHO (Ao Vivo)",
         "url": "https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi"
@@ -637,7 +673,7 @@
       "url": "https://open.spotify.com/track/38Ps9Kui6qJjpVqdBOfN5M"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "SET DO JAPA NK 2.0",
         "url": "https://open.spotify.com/album/0IJNesGOY68YOquXRgGENh"
@@ -693,7 +729,7 @@
       "url": "https://open.spotify.com/track/1JZDwJgE9VSC0V2GR66z63"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Era Sol Que Me Faltava",
         "url": "https://open.spotify.com/album/0T2U6usC99EdA4L5MA7HTn"
@@ -717,7 +753,7 @@
       "url": "https://open.spotify.com/track/2M6M1f5SVQqamxeyItWZxo"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Se Eu Te Perdoar (Ao Vivo)",
         "url": "https://open.spotify.com/album/6sC92xi1q2e4PwFQWtF5p5"
@@ -737,7 +773,7 @@
       "url": "https://open.spotify.com/track/4c4tcqYfqiFc527gqNdRE5"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "MIXTAPE - BIG G",
         "url": "https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3"
@@ -765,7 +801,7 @@
       "url": "https://open.spotify.com/track/4ukpXdplqDEMk3Fy2i30oI"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "SEQU\u00caNCIAS #1",
         "url": "https://open.spotify.com/album/55dQeTyxDtzrixKmRhhG02"
@@ -797,7 +833,7 @@
       "url": "https://open.spotify.com/track/1JUmsSEfVwhdJCVBG83XGU"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Di\u00e1rio de um Cafajeste",
         "url": "https://open.spotify.com/album/3KcnMYtFSEkkHfNsy6KwuA"
@@ -833,7 +869,7 @@
       "url": "https://open.spotify.com/track/6kaWah1Acn1dtNjAy6sm1p"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "RESENHA NATORA (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Vg8dStAaHhiE25pIIWHIv"
@@ -853,7 +889,7 @@
       "url": "https://open.spotify.com/track/0qZwqMsGSClyrKzbVbRto9"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Ao Vivo Em Uberl\u00e2ndia Vol. 02",
         "url": "https://open.spotify.com/album/2gbsDRJhXlBr23ab9O95c9"
@@ -869,7 +905,7 @@
       "url": "https://open.spotify.com/track/6tUdNbB9aYbX0sUDXOzX1u"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Panda Sem Modera\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC"
@@ -893,7 +929,7 @@
       "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Ama Um Maloqueiro",
         "url": "https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S"
@@ -917,7 +953,7 @@
       "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Manifesto Musical 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KWB57wZ3fZQLCr5jgbcbU"
@@ -933,7 +969,7 @@
       "url": "https://open.spotify.com/track/7tesyGMnAFNI0l2xaxcFKi"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Altas Modas",
         "url": "https://open.spotify.com/album/59doVfwiWIHdhD7lKWpwGh"
@@ -953,7 +989,7 @@
       "url": "https://open.spotify.com/track/473DqaeIno75pBbp0bNrkT"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Ana Castela - Spotify Sessions",
         "url": "https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q"
@@ -969,7 +1005,7 @@
       "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "MOLHO (Ao Vivo)",
         "url": "https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi"
@@ -985,7 +1021,7 @@
       "url": "https://open.spotify.com/track/6IFF888dQ0P6ilbj4kL6G8"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Toma Essa Verdade (Ao Vivo)",
         "url": "https://open.spotify.com/album/6vour1AXVo2RNRspJQjQoV"
@@ -1001,7 +1037,7 @@
       "url": "https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
         "url": "https://open.spotify.com/album/3FjxQlpQrfjpwIcb410U50"
@@ -1021,43 +1057,7 @@
       "url": "https://open.spotify.com/track/2gLUZtZN1gfercLP9guft3"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
-      "album": {
-        "name": "KayBlack & Burna Boy - Spotify Sessions",
-        "url": "https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        }
-      ],
-      "duration_ms": 165540,
-      "name": "TaTaTa - Spotify Sessions",
-      "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"
-    },
-    {
-      "added_at": "2026-04-13 17:41:16",
-      "album": {
-        "name": "Repert\u00f3rio Fim de Ano",
-        "url": "https://open.spotify.com/album/1lgnxbdljukcNXswFLN4LX"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Sensa\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/30tExRU8h8VOiCeL9ia2aK"
-        }
-      ],
-      "duration_ms": 142824,
-      "name": "Fanatismo",
-      "url": "https://open.spotify.com/track/1bWYjhtGuje05MGLOAQvpj"
-    },
-    {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Saudade Proibida (Ao Vivo)",
         "url": "https://open.spotify.com/album/0dBMGKZldtmOrLaF2h5jSa"
@@ -1073,7 +1073,7 @@
       "url": "https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
         "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
     },
     {
-      "added_at": "2026-04-13 17:41:16",
+      "added_at": "2026-04-17 20:00:11",
       "album": {
         "name": "Manifesto Musical 2 (Ao Vivo / Vol.1)",
         "url": "https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn"

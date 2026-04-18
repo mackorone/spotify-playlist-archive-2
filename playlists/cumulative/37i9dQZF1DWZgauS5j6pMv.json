@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of today's funk. Cover: The Philharmonik",
+  "description": "The best of today's funk. Cover: Devon Gilfillian",
   "name": "Nu-Funk",
   "tracks": [
     {
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 169090,
       "name": "By Design",
       "url": "https://open.spotify.com/track/4w8ATXCpeWhoHbtnN9cnBt"
@@ -4678,10 +4678,32 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 211529,
       "name": "IRL",
       "url": "https://open.spotify.com/track/3RlATEbGvl4bvoBgeksryg"
+    },
+    {
+      "album": {
+        "name": "IRL (Feat. Cory Wong)",
+        "url": "https://open.spotify.com/album/4RBYOBELMu6VowgpJ8OK03"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211662,
+      "name": "IRL (Feat. Cory Wong)",
+      "url": "https://open.spotify.com/track/4ikBUaKuFx8OFWNUsqfXii"
     },
     {
       "album": {
@@ -5766,6 +5788,32 @@
       "duration_ms": 224000,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/14OQ9qHCNEOGiy9UryGImS"
+    },
+    {
+      "album": {
+        "name": "Love Resuscitation",
+        "url": "https://open.spotify.com/album/3lLcvxRvoNgFAX5ikwzzmM"
+      },
+      "artists": [
+        {
+          "name": "fuseo",
+          "url": "https://open.spotify.com/artist/3EZXLhrrovkLwDCaIKczLW"
+        },
+        {
+          "name": "Jon Klaasen",
+          "url": "https://open.spotify.com/artist/3V3pZ3KWwGaHnuEgl8BUV4"
+        },
+        {
+          "name": "heavytones",
+          "url": "https://open.spotify.com/artist/6mZjidOcc7ROFL6ywkQmI5"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192763,
+      "name": "Love Resuscitation",
+      "url": "https://open.spotify.com/track/5qxTM3ouqr6mY4Ym1BS4dN"
     },
     {
       "album": {

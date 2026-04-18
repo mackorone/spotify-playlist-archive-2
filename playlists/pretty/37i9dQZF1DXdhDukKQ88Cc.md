@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 den nyeste rap i dk 🔥 cover: Lamin
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,830 likes - 22 songs - 52 min 48 sec
+[Spotify](https://open.spotify.com/user/spotify) - 187,827 likes - 22 songs - 55 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Låst Inde](https://open.spotify.com/track/1o7wzFWTUv2My3ulZIPlqw) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Låst Inde](https://open.spotify.com/album/5OwonuqW871q6LmAmxE3nw) | 2:58 |
 | 2 | [24/7](https://open.spotify.com/track/3vv6DL1Pl8bf6GeUtL9Zjh) | [Benny](https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM) | [24/7](https://open.spotify.com/album/1HguiuA7Gq99gj7rpLln1g) | 2:16 |
-| 3 | [Track 6](https://open.spotify.com/track/1Qf940bnF9nnS95GNClHFu) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Stadig Her](https://open.spotify.com/album/3Hwefv9rT5iHnMvD6prWTx) | 0:00 |
+| 3 | [Fake Love](https://open.spotify.com/track/1Qf940bnF9nnS95GNClHFu) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Stadig Her](https://open.spotify.com/album/3Hwefv9rT5iHnMvD6prWTx) | 2:41 |
 | 4 | [blessed](https://open.spotify.com/track/15cjK5y0kli27DFjxZUCt7) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [blessed](https://open.spotify.com/album/2SGhFr27vLpx0QCG4MU6Ic) | 2:40 |
 | 5 | [Mentally](https://open.spotify.com/track/1Yx9f4IEoor3fwHhZ2NC3H) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Mentally](https://open.spotify.com/album/2nRMyEBaMtQ9riwmv47Ga9) | 2:35 |
 | 6 | [26](https://open.spotify.com/track/5jT5wsWSCmQUYuqvrU879E) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [26](https://open.spotify.com/album/5RTwUXP4jGsHyEbbjmgGhF) | 1:49 |

@@ -335,6 +335,32 @@
     },
     {
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/4YhAUpnjOVYuTC4bWrpVY5"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        },
+        {
+          "name": "CAVALLI",
+          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
+        },
+        {
+          "name": "BIG KAPOH",
+          "url": "https://open.spotify.com/artist/1aCqNMQTutPOigRS3vkDH8"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/7d6vTg6KhuNCEgzQ89j7uH"
+    },
+    {
+      "album": {
         "name": "Bass In Ya Face",
         "url": "https://open.spotify.com/album/5mGD1C80VPiXsNB7Dsf1Ep"
       },
@@ -2108,7 +2134,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 202380,
       "name": "I Don't Wanna Come Down",
       "url": "https://open.spotify.com/track/1CIB8WypDLpGXijTpGd0su"
@@ -2316,7 +2342,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 161133,
       "name": "Jacked In",
       "url": "https://open.spotify.com/track/6GM6890r9vLzd577LrQCO7"
@@ -2364,6 +2390,24 @@
       "duration_ms": 168375,
       "name": "Just Believe",
       "url": "https://open.spotify.com/track/6mlKkQJuBs7O7Ijkx0YEzg"
+    },
+    {
+      "album": {
+        "name": "Ke Tu Kiere",
+        "url": "https://open.spotify.com/album/4iHfvQoOOIvxnCYsVdphas"
+      },
+      "artists": [
+        {
+          "name": "Nolek",
+          "url": "https://open.spotify.com/artist/3lqYpuRWMveuEstXognq7q"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197419,
+      "name": "Ke Tu Kiere",
+      "url": "https://open.spotify.com/track/5e41siARVudhUUgs2e0Gkl"
     },
     {
       "album": {
@@ -3283,6 +3327,28 @@
     },
     {
       "album": {
+        "name": "Party People",
+        "url": "https://open.spotify.com/album/0eniscN5OX3k19FT5k8NtM"
+      },
+      "artists": [
+        {
+          "name": "Darius Syrossian",
+          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+        },
+        {
+          "name": "Melon Bomb",
+          "url": "https://open.spotify.com/artist/349BkyqZ2AuEDoloKq9EFS"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202810,
+      "name": "Party People - Basement Mix",
+      "url": "https://open.spotify.com/track/72utzaDwnNKAGSZiWT75fy"
+    },
+    {
+      "album": {
         "name": "Patchwork",
         "url": "https://open.spotify.com/album/1jdPpk0cKJ4iQvsZfEXstU"
       },
@@ -4029,6 +4095,28 @@
     },
     {
       "album": {
+        "name": "Story Of My Life",
+        "url": "https://open.spotify.com/album/6kg1pJ2pDOOBpy2jV5FNUE"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        },
+        {
+          "name": "Danny Howard",
+          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Story Of My Life",
+      "url": "https://open.spotify.com/track/1zXjPVQeJKcKulwkVkU0rW"
+    },
+    {
+      "album": {
         "name": "Sungazing (Electronic Mix)",
         "url": "https://open.spotify.com/album/4h1vw2FoXuoCPFrMu3wZpg"
       },
@@ -4408,7 +4496,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 193690,
       "name": "Three Lines Deep",
       "url": "https://open.spotify.com/track/3cXaJhYEvQxAVffledgN7G"
@@ -4597,6 +4685,24 @@
     },
     {
       "album": {
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/5aFRPxE20AOr5JKkKtA1AG"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/1RIB2ELrIX5H6KUy0gBeGv"
+    },
+    {
+      "album": {
         "name": "Watch Out",
         "url": "https://open.spotify.com/album/4uWCyY8Q9giKJd01bb9w73"
       },
@@ -4714,7 +4820,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 168633,
       "name": "Woman",
       "url": "https://open.spotify.com/track/1KBkA7QvAyCm53A6o9uOye"

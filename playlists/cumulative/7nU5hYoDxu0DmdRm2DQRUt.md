@@ -4,7 +4,7 @@
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-455 songs - 1 day 19 hr 50 min
+459 songs - 1 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,9 +289,11 @@
 | [Nothing Feels The Same](https://open.spotify.com/track/2emwvq1hG1UUqpyM3W3EgX) | [Ida Engberg](https://open.spotify.com/artist/5psccYjSTbvey4GWul62EB) | [Speicher 135](https://open.spotify.com/album/1SAEMKGmN5CjFaqLM2gnQc) | 5:12 | 2025-03-14 | 2026-01-15 |
 | [Nur um Liebe \- Sanfte Version](https://open.spotify.com/track/5EwAznGWUinw6wh2YbMgAS) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Dirk von Lowtzow](https://open.spotify.com/artist/4iThdARg7lrGGuvBkWhVLm) | [Nur Um Liebe](https://open.spotify.com/album/3XtV6gb9iHtosfqag1Lfdk) | 3:23 | 2025-09-16 |  |
 | [On Your Way \- Deep Mix](https://open.spotify.com/track/2rpzt7UCgiSilaUa8AueCK) | [The Sound Vandals](https://open.spotify.com/artist/5JHcRK5jq5ZTgJqoij8S6y) | [Second Dimensions](https://open.spotify.com/album/64VWtrhnimcagN9algwO2D) | 8:34 | 2025-10-15 |  |
+| [One Day \- Polygonia Remix](https://open.spotify.com/track/0IRh622wqPUllaAb74TEbO) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA), [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [One Day \(Polygonia Remix\)](https://open.spotify.com/album/2OTDiJyHtlGAFfr03R1wHD) | 5:29 | 2026-04-17 |  |
 | [Open Your Mind \(Extended Version\)](https://open.spotify.com/track/2KGaFDHJjYvBsFdo6hqoBS) | [Last Rhythm](https://open.spotify.com/artist/3V8Bn8sVkOXV5v3mIlwlf4) | [Open Your Mind](https://open.spotify.com/album/2s68nkucZRZL0G8m5sNyUi) | 6:42 | 2024-11-19 | 2025-11-11 |
 | [Orange](https://open.spotify.com/track/5XKK77Oj58sGuv8Cg24pMM) | [Quince](https://open.spotify.com/artist/2gUQQnVAJzMHh3TL10UmZ8), [Sayne](https://open.spotify.com/artist/14yfOG5LDT3qJbF2PGAN67) | [Work](https://open.spotify.com/album/4uKkcvm15yp9qS4IhSIZs5) | 4:47 | 2025-10-15 |  |
 | [Orange Sky](https://open.spotify.com/track/2y6bEcLorsfNNhp8jCovou) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Tears & Hope](https://open.spotify.com/album/1gjc7Ob9kMCsZ4AmFRcMcP) | 5:45 | 2025-11-04 |  |
+| [Our Darkness](https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5) | [Anne Clark](https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL) | [Joined Up Writing/The Sitting Room](https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ) | 5:24 | 2026-04-17 |  |
 | [Our Sector](https://open.spotify.com/track/67SdvYau4vfF8A3qudmcZ5) | [Ben Klock](https://open.spotify.com/artist/1vJHfCreWAS46V8RZ67ojo), [Fadi Mohem](https://open.spotify.com/artist/054VxUoJAoxf48TlGoWf75), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Our Sector](https://open.spotify.com/album/2yEkcwx4spbcT8SZfmFT4s) | 3:51 | 2024-11-27 | 2025-11-11 |
 | [Paean](https://open.spotify.com/track/6iaDnUOg2JmOy2sh2lZUrb) | [Martinou](https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp) | [Paean](https://open.spotify.com/album/2eyt8edbVI5cXsiHD5L6Ru) | 7:50 | 2026-01-07 |  |
 | [Pale Blue Dot](https://open.spotify.com/track/1SqGXqXivIG7LbUPRLRxvZ) | [Pass Into Silence](https://open.spotify.com/artist/5I2Upsicrkkkmr1ECiISq4) | [Pop Ambient 2026](https://open.spotify.com/album/3N7bCqSjxnsX2FDAfEQKgQ) | 6:39 | 2025-12-09 |  |
@@ -412,6 +414,7 @@
 | [The Warning \- Remastered](https://open.spotify.com/track/0EzqsB1wXhPdE9xfFAl6fT) | [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h) | [Dream Sequence X](https://open.spotify.com/album/3eOjATpwR0heNFwaciUt1y) | 4:22 | 2025-06-24 |  |
 | [There's Another Way \(Gui Boratto's Rework Radio\) \- Radio Edit](https://open.spotify.com/track/2QFCDqfbPV0Eq2Eoc5XDpI) | [MOTO SOLO](https://open.spotify.com/artist/0l6NxdphNnd5TJrCEudT97), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [There's Another Way \(Gui Boratto's Rework\)](https://open.spotify.com/album/427Jn6qB5Wc7bB438uwtuS) | 3:26 | 2025-04-11 | 2026-03-17 |
 | [They Came For My Head](https://open.spotify.com/track/1yZSrHYMITz0eaxNqwjga3) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Loud Ambient](https://open.spotify.com/album/5a1UTBrZDRr3rOFxoDCh08) | 4:43 | 2025-11-21 |  |
+| [Third Guitar](https://open.spotify.com/track/4Dh4ZxbNoq0Id0Tx8KYtW5) | [Samo DJ](https://open.spotify.com/artist/05442HVVO9EfYoNa8F835e) | [Learns to Chill](https://open.spotify.com/album/0lGqRKT1vu6Ogh5PxBRpGS) | 4:25 | 2026-04-17 |  |
 | [This Is Not a Mind Trip \- Live at Love Parade 1994](https://open.spotify.com/track/198H335WASOsUYYAsLQB2G) | [Air Liquide](https://open.spotify.com/artist/5MhxFD2oBgZmX4lbhjSc3N) | [The Increased Difficulty Of Concentration, Part 1.2](https://open.spotify.com/album/5W4nJZv03LlaQPR9RCKVbI) | 6:08 | 2025-10-15 |  |
 | [Three 'O Three \- Remastered 2021](https://open.spotify.com/track/3LYJw5E4lY8wNpS8Ozbv3T) | [Public Energy](https://open.spotify.com/artist/4QJutd2DcjF4VzfNXKbgkY) | [Three 'O Three \(Remastered 2021\)](https://open.spotify.com/album/7mzFQ76d8mSQC1JtjhOei0) | 5:12 | 2025-04-25 | 2026-03-17 |
 | [Time To Wake Up](https://open.spotify.com/track/7aZumITSUGOnLOFsbPyefP) | [Paul St\. Hilaire](https://open.spotify.com/artist/2z6qOkQVyn7h3XzUuNlRlM), [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [w/ The Producers](https://open.spotify.com/album/0h2gv1PpURjTh5szxIC0wZ) | 4:23 | 2025-09-29 |  |
@@ -462,6 +465,7 @@
 | [You're Only SQL \- Remastered](https://open.spotify.com/track/2N873iY5Mbs0f3hLt09ju7) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Further Vexations \(Remastered\)](https://open.spotify.com/album/3ui8Fp4kET2pOUiGU8cal9) | 4:57 | 2025-02-14 | 2026-01-15 |
 | [Your Tears](https://open.spotify.com/track/71LYpj1krpThr5aBv5VSih) | [Mioche](https://open.spotify.com/artist/6v35t8oNbqhHLrvxggkfvQ) | [Your Tears](https://open.spotify.com/album/3WMJnSOlh2z7dQqAbpYHP9) | 6:44 | 2025-03-27 | 2026-01-15 |
 | [Yucon](https://open.spotify.com/track/58QASUiIYdw8JzCduRhhEF) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Evaporator](https://open.spotify.com/album/0uB9jp5XGssp3jbEpWdSId) | 2:49 | 2026-03-16 |  |
+| [¡No Pasarán!](https://open.spotify.com/track/4GSF9gV4y6fhwldNNyDttz) | [Extrawelt](https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB) | [¡NO PASARÁN!](https://open.spotify.com/album/0LO6huSYt7RLUeTuTfIsdT) | 5:46 | 2026-04-17 |  |
 | [ファイアークラッカー \- 2018 Bob Ludwig Remastering](https://open.spotify.com/track/05CuE9Av2R8EF3pu2pL7Pe) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [Yellow Magic Orchestra](https://open.spotify.com/album/72noAkTZmKDGR5F2wSQNf0) | 4:50 | 2025-04-07 | 2026-03-17 |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

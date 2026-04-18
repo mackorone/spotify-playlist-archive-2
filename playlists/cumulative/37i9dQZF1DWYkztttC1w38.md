@@ -4,7 +4,7 @@
 
 > Soothing classical music to help you relax while you read.
 
-127 songs - 8 hr 36 min
+128 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/1ENZ1YHuOp5MMFJlWBQ6V7) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Deluxe Edt\. Studio + Live\)](https://open.spotify.com/album/70uK1xeiYicJZPFNkhfIdk) | 2:20 | 2022-02-04 |  |
 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 2:20 | 2022-05-03 | 2024-04-19 |
 | [Goldberg Variations, BWV 988: XIII\. Variation 13 \(arr\. David Juritz\)](https://open.spotify.com/track/1kYPoC4fHUqj31mC53gB9e) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [David Juritz](https://open.spotify.com/artist/5Xyu14RdgJeW896p80XDFU), [Craig Ogden](https://open.spotify.com/artist/07pZelCNTBK93CD474588Q), [Tim Hugh](https://open.spotify.com/artist/1O6njeMdZ3Jm2lnR9s5lEk) | [Goldberg Variations, BWV 988: XIII\. Variation 13 \(arr\. David Juritz\)](https://open.spotify.com/album/5Qf3KbhDYJF9hcHP9cBtVY) | 3:39 | 2022-02-04 |  |
+| [hurt](https://open.spotify.com/track/08hCu7Zd4PCgZ458xeyzFV) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [hurt](https://open.spotify.com/album/5MZVjZmCiFYoLAkoCzJdEr) | 2:53 | 2026-04-17 |  |
 | [Iberia, T\. 105, Book 1: I\. Evocación](https://open.spotify.com/track/5JPHyyUuPhQ4DeSJL8fMfk) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Stephen Hough's Spanish Album](https://open.spotify.com/album/2hUxiz4J02RVcQ60yu3vbv) | 5:18 | 2025-10-03 |  |
 | [In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 | 2022-02-04 |  |
 | [Ithaca Suite: IV\. Penelopeia](https://open.spotify.com/track/6Qw6T3l4tyQReC1CkvAhql) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ithaca Suite/IV\. Penelopeia](https://open.spotify.com/album/0F5yKT6K8NbuXm1KPnPfnC) | 3:48 | 2025-09-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,292 likes - 35 songs - 2 hr 30 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,294 likes - 37 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,5 +43,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 33 | [Meet Me in the City](https://open.spotify.com/track/5LmmZgxFg1sSfxENxsdtak) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [First Recordings](https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87) | 2:31 |
 | 34 | [Killing The Blues](https://open.spotify.com/track/55g3S2tU6OHuaxXptJJsBL) | [Shawn Colvin](https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA) | [Cover Girl](https://open.spotify.com/album/2i6yafZMIkgqkjWAobKic5) | 3:45 |
 | 35 | [Wabash Cannonball](https://open.spotify.com/track/5RKPe1oN9lGayUCKn00fYi) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [The Essential Roy Acuff](https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM) | 2:36 |
+| 36 | [Black Eyed Susan](https://open.spotify.com/track/4F9lWUCeY9iqehF4Po5QCO) | [Paul Westerberg](https://open.spotify.com/artist/3N6WAAPHoIjo6na008793X) | [14 Songs](https://open.spotify.com/album/2UgKw2bpp1lqokUSXWD2uy) | 3:36 |
+| 37 | [New York City Song](https://open.spotify.com/track/7DLirypUivO3MsTT4JLsIG) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Born to Be With You / Streetheart](https://open.spotify.com/album/0DOf8RoY5pxvrbDCEGlj7B) | 3:45 |
 
-Snapshot ID: `AAAOI1Az6CHyVvjq4gPaSuLBOqnnzR9k`
+Snapshot ID: `AAAOJUtLwXA2s2W9EWdS1954fhirMAso`

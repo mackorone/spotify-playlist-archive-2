@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,689 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,760 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Any Old Fool](https://open.spotify.com/track/6HNpTTwnQHo5JSrWQETLwg) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Any Old Fool](https://open.spotify.com/album/645BIIezXIuUl2UADCAJyS) | 3:04 |
-| 2 | [365 Flavors](https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [365 Flavors](https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h) | 3:58 |
-| 3 | [Maybe I'm A Fool \(But I'm In Love Again\)](https://open.spotify.com/track/0PrKi90d6J8PygGGSyUIoJ) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [Shea Givens](https://open.spotify.com/artist/3JrKj7XoBT5EbFJB4exFKB) | [Maybe I'm A Fool \(But I'm In Love Again\)](https://open.spotify.com/album/1eU6rYcckrC0PmsP4lsjri) | 4:21 |
-| 4 | [Doctrine of Love](https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l) | 3:20 |
+| 1 | [Hang It On The Shelf](https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Hang It On The Shelf](https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM) | 2:25 |
+| 2 | [Any Old Fool](https://open.spotify.com/track/6HNpTTwnQHo5JSrWQETLwg) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Any Old Fool](https://open.spotify.com/album/645BIIezXIuUl2UADCAJyS) | 3:04 |
+| 3 | [365 Flavors](https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [365 Flavors](https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h) | 3:58 |
+| 4 | [Maybe I'm A Fool \(But I'm In Love Again\)](https://open.spotify.com/track/0PrKi90d6J8PygGGSyUIoJ) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [Shea Givens](https://open.spotify.com/artist/3JrKj7XoBT5EbFJB4exFKB) | [Maybe I'm A Fool \(But I'm In Love Again\)](https://open.spotify.com/album/1eU6rYcckrC0PmsP4lsjri) | 4:21 |
 | 5 | [You Went Away Too Long](https://open.spotify.com/track/7Bxor3rKUpBDuNi9lVIzpz) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [You Went Away Too Long](https://open.spotify.com/album/5NpT7rCbRYs6LRMcmBEKOD) | 3:19 |
 | 6 | [This Feelin'](https://open.spotify.com/track/7fZi9X5RGmoCKNMRtJN9in) | [Charlotte Colace](https://open.spotify.com/artist/3LAiKQXxGsQWRFfmKqHyXd) | [No Way But Through](https://open.spotify.com/album/2h7iQYlbNpEVAZjNUVuN3n) | 2:09 |
 | 7 | [Hardest Yards](https://open.spotify.com/track/3r2ZYYvlY5p51LgpjFLf3Z) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [DIG!](https://open.spotify.com/album/3DREa2s2CceeFKADZVyqrX) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [You Were Mine](https://open.spotify.com/track/4Q6WTLLZtYZ2OuQ4pCZH0A) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Dark Black](https://open.spotify.com/album/2eV8dXQXxJderdQEvY3ZuC) | 3:51 |
 | 100 | [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 |
 
-Snapshot ID: `AAAAAGVA6wYdwTiI74WSR8JQshQRMdsO`
+Snapshot ID: `AAAAAOBIg4O4onW51MjmSXOfbJrNgBEM`

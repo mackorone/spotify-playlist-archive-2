@@ -33175,6 +33175,24 @@
     },
     {
       "album": {
+        "name": "\u00e9toiles",
+        "url": "https://open.spotify.com/album/697UPTNo1H3r1h2515Epok"
+      },
+      "artists": [
+        {
+          "name": "Ethan \u00c9lgar",
+          "url": "https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "\u00e9toiles",
+      "url": "https://open.spotify.com/track/0r0R8NevRcUdgR9r9YboqA"
+    },
+    {
+      "album": {
         "name": "\u00c9veil",
         "url": "https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft"
       },

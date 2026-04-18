@@ -241,6 +241,32 @@
     },
     {
       "album": {
+        "name": "Alguien Mejor Que Yo",
+        "url": "https://open.spotify.com/album/5izCgXmLdwGlU1Zg7zTyPJ"
+      },
+      "artists": [
+        {
+          "name": "Sharon y los Camperos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        },
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201247,
+      "name": "Alguien Mejor Que Yo",
+      "url": "https://open.spotify.com/track/2hmWVUzKNZH0nYa1OAR5oT"
+    },
+    {
+      "album": {
         "name": "All\u00e1 por Capivar\u00e1 / De Oreja a Oreja / Puerta de los Cerros",
         "url": "https://open.spotify.com/album/73HBzmonTc0g6yuCmtC4Y6"
       },
@@ -1005,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "El Jefe",
+        "url": "https://open.spotify.com/album/1TSHkknEf5oMyvK6ohBNhI"
+      },
+      "artists": [
+        {
+          "name": "Maite Guzm\u00e1n y Su Estilo Campero",
+          "url": "https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180175,
+      "name": "El Jefe",
+      "url": "https://open.spotify.com/track/3wRTfnN1YDgha1hbjyKYNP"
+    },
+    {
+      "album": {
         "name": "Chamam\u00e9 Con Estilo Propio",
         "url": "https://open.spotify.com/album/4SzyVKQbXI2788CC3Cyahb"
       },
@@ -1176,7 +1220,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 237785,
       "name": "Enganchados de Sobremesa: El toro / Jineteando en Tostado / El gatea\u00b4o",
       "url": "https://open.spotify.com/track/6YtQAPKwLVWOZFr6qGs0Lu"
@@ -2730,7 +2774,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 212828,
       "name": "Por amarte as\u00ed",
       "url": "https://open.spotify.com/track/0kQl4zjpWRbwYVygVDQ5Wr"

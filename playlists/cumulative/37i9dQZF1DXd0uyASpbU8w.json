@@ -2679,6 +2679,24 @@
     },
     {
       "album": {
+        "name": "A Failed Artist",
+        "url": "https://open.spotify.com/album/79ELHzdwqYVYy7faFPXHxM"
+      },
+      "artists": [
+        {
+          "name": "Zwonaka",
+          "url": "https://open.spotify.com/artist/5oD2IgsstX9I592DVC5gQi"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193639,
+      "name": "A Failed Artist",
+      "url": "https://open.spotify.com/track/3ToWtugfYUA1eLU8cQJmto"
+    },
+    {
+      "album": {
         "name": "A Fairytale Love",
         "url": "https://open.spotify.com/album/2zW4NR7Pkn7828XMPOiG3p"
       },
@@ -49530,6 +49548,24 @@
       "duration_ms": 366834,
       "name": "Driving me crazy",
       "url": "https://open.spotify.com/track/4GQsKqzl4J1kth6nmp9W7f"
+    },
+    {
+      "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
     },
     {
       "album": {
@@ -131822,6 +131858,10 @@
         {
           "name": "beatsbyhand",
           "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        },
+        {
+          "name": "Matt Davies",
+          "url": "https://open.spotify.com/artist/7rV4Ll81hwDGB3629I53NV"
         }
       ],
       "date_added": "2026-04-16",
@@ -145068,6 +145108,24 @@
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154469,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
     },
     {
       "album": {

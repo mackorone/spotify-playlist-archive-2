@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "A Little Like You",
+        "url": "https://open.spotify.com/album/6Z57PsQ7Mq37M4919TlUYn"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194865,
+      "name": "A Little Like You",
+      "url": "https://open.spotify.com/track/2m2IaXq2dYBN27cPb39yjW"
+    },
+    {
+      "album": {
         "name": "A Real Man",
         "url": "https://open.spotify.com/album/46Hx2WVHRs07MDXGVgzdD1"
       },
@@ -2902,7 +2920,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 181000,
       "name": "Disappearing Days",
       "url": "https://open.spotify.com/track/3kB7IejLd7alIgOO2j0ZOC"
@@ -4478,6 +4496,24 @@
       "duration_ms": 199733,
       "name": "Heart Brakes",
       "url": "https://open.spotify.com/track/1Rx2AHqY2md1mtavuFzEA7"
+    },
+    {
+      "album": {
+        "name": "Heart You Didn't Break",
+        "url": "https://open.spotify.com/album/5uUttORPPONM7o3vhYZO2m"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192185,
+      "name": "Heart You Didn't Break",
+      "url": "https://open.spotify.com/track/3LZ9tH82f13GAbbm97c8dN"
     },
     {
       "album": {
@@ -6672,7 +6708,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 231375,
       "name": "Motel 6 - Acoustic",
       "url": "https://open.spotify.com/track/4pZvsbjmeV2zu2BifOBw1H"
@@ -7024,7 +7060,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 214678,
       "name": "Night Diving (feat. Cameron Whitcomb)",
       "url": "https://open.spotify.com/track/4Qn5FKe3I2pNL64so6gvX3"
@@ -7541,6 +7577,24 @@
     },
     {
       "album": {
+        "name": "P.O.S.",
+        "url": "https://open.spotify.com/album/4mmeyfgVl2um0sm62Ixl9v"
+      },
+      "artists": [
+        {
+          "name": "Noah Brigden",
+          "url": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198278,
+      "name": "P.O.S.",
+      "url": "https://open.spotify.com/track/6AJaDD64IxpDR3qntU56Pd"
+    },
+    {
+      "album": {
         "name": "Palm Trees",
         "url": "https://open.spotify.com/album/0PNI3abPhCRgjwVwODnhLN"
       },
@@ -7704,6 +7758,24 @@
       "duration_ms": 204405,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/2gvi2caSU5dR8JlqWOtJHA"
+    },
+    {
+      "album": {
+        "name": "When You Know You Know",
+        "url": "https://open.spotify.com/album/7jOp38flePWqWH0OxxTvDg"
+      },
+      "artists": [
+        {
+          "name": "Benny G",
+          "url": "https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206653,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/7lbQiRc7nKiZEJBoFBbisE"
     },
     {
       "album": {
@@ -8780,7 +8852,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 168705,
       "name": "Somebody Single",
       "url": "https://open.spotify.com/track/0o9GNazjKvX09AIwKM8Td0"
@@ -10866,6 +10938,24 @@
       "duration_ms": 139760,
       "name": "WHISKEY WHISKEY",
       "url": "https://open.spotify.com/track/0PY70NiuO5yDhn9FjdtPvr"
+    },
+    {
+      "album": {
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/2uB5nyQCsFejw9e0cpzlVm"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/1Lk4rIjW0TcZ0KGTClWsPE"
     },
     {
       "album": {

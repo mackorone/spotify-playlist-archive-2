@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Thundercat",
+  "description": "Genre-less. Quality first always. Cover: Isaiah Rashad",
   "name": "POLLEN",
   "tracks": [
     {
@@ -3827,6 +3827,28 @@
     },
     {
       "album": {
+        "name": "And Where Is The Heart? I've Searched My Entire Home",
+        "url": "https://open.spotify.com/album/4uSjUfFRB9cwPI9Hrmonx4"
+      },
+      "artists": [
+        {
+          "name": "Fire-Toolz",
+          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
+        },
+        {
+          "name": "Jennifer Holm",
+          "url": "https://open.spotify.com/artist/6OWrEjKgMyuSiXrKYghYqp"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231820,
+      "name": "And Where Is The Heart? I've Searched My Entire Home",
+      "url": "https://open.spotify.com/track/7HOwhS23BdpCslN9S3sOMn"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -6010,6 +6032,24 @@
       "duration_ms": 237026,
       "name": "Be Honest",
       "url": "https://open.spotify.com/track/1GDe2pacTrpqTvJANhWRXy"
+    },
+    {
+      "album": {
+        "name": "beach",
+        "url": "https://open.spotify.com/album/6yEaBoWxUwKXt22cSvAzgY"
+      },
+      "artists": [
+        {
+          "name": "duendita",
+          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88892,
+      "name": "beach",
+      "url": "https://open.spotify.com/track/09dAPp6oMjukGQsHHyOGpv"
     },
     {
       "album": {
@@ -20841,6 +20881,28 @@
     },
     {
       "album": {
+        "name": "Flatline",
+        "url": "https://open.spotify.com/album/51arBhKIegC6cWHk0PD3da"
+      },
+      "artists": [
+        {
+          "name": "Loraine James",
+          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
+        },
+        {
+          "name": "Miho Hatori",
+          "url": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192692,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/5SECCwE6k8Q4LR7ToX2YFH"
+    },
+    {
+      "album": {
         "name": "RIP Human Art",
         "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
       },
@@ -24046,7 +24108,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 261884,
       "name": "Good Night Baby",
       "url": "https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB"
@@ -29044,7 +29106,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 157146,
       "name": "I Wanna Be Your Dog Again",
       "url": "https://open.spotify.com/track/3sFMNnMiceLkl3wKIGuD54"
@@ -29254,7 +29316,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 155404,
       "name": "I'll Take It - Mura Masa's 'Can't Feel A Thing' Edit",
       "url": "https://open.spotify.com/track/1v3c7CaFHEPLRS2VCsewsC"
@@ -29855,6 +29917,24 @@
     },
     {
       "album": {
+        "name": "If You",
+        "url": "https://open.spotify.com/album/2KvJjcipHCM9DsjwEJXblM"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200348,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/2PvVkI3P9Z2on1G1vNn2uB"
+    },
+    {
+      "album": {
         "name": "IF YOU PRAY RIGHT",
         "url": "https://open.spotify.com/album/4oIbhyy9UZlP4JgN0IFciv"
       },
@@ -29914,7 +29994,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 336000,
       "name": "Illegal + Four Tet",
       "url": "https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj"
@@ -30902,6 +30982,28 @@
       "duration_ms": 194000,
       "name": "Irrational",
       "url": "https://open.spotify.com/track/1AAk3NJuimLgWIFjiOgtig"
+    },
+    {
+      "album": {
+        "name": "SAVE!",
+        "url": "https://open.spotify.com/album/3ZhL5dmsbLOlYR7Kk15dpE"
+      },
+      "artists": [
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        },
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191225,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/0SYpRF77aDTsKEaVfPyfwg"
     },
     {
       "album": {
@@ -39427,6 +39529,28 @@
     },
     {
       "album": {
+        "name": "Move Time",
+        "url": "https://open.spotify.com/album/17j3ldBZcSBEUAZbPMPC7z"
+      },
+      "artists": [
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219661,
+      "name": "Move Time",
+      "url": "https://open.spotify.com/track/6Y7GcjfcDs7VYJypebcECU"
+    },
+    {
+      "album": {
         "name": "Move Up",
         "url": "https://open.spotify.com/album/1mTSoVUWOXdRJdvPE6Jxfn"
       },
@@ -40434,7 +40558,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 272171,
       "name": "NEMO",
       "url": "https://open.spotify.com/track/57CtJJQRcYK0hfDKgN5CkD"
@@ -49320,7 +49444,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 158797,
       "name": "Round Me",
       "url": "https://open.spotify.com/track/67BtrWFeJfef2l3VabMY0T"
@@ -51100,6 +51224,28 @@
       "duration_ms": 157616,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO"
+    },
+    {
+      "album": {
+        "name": "Shake Down (Regrette Rien Mix)",
+        "url": "https://open.spotify.com/album/1kFOuM0oYv7FgZwUtvazeS"
+      },
+      "artists": [
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        },
+        {
+          "name": "KURT.",
+          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219630,
+      "name": "Shake Down - Regrette Rien Mix",
+      "url": "https://open.spotify.com/track/70tSdH7QeLCoiEsq4gzxAk"
     },
     {
       "album": {
@@ -63830,7 +63976,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 157591,
       "name": "what will they say",
       "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"

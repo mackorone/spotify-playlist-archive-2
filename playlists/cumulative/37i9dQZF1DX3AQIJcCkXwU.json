@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 445318,
       "name": "A Journey of Meditation",
       "url": "https://open.spotify.com/track/0Mn3pmD7EFDRtkypVxtZ6v"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 319133,
       "name": "Ancient Voices (From Call of the Mystic)",
       "url": "https://open.spotify.com/track/4VYZ5F1Efe5elXeGBPCbcG"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 120000,
       "name": "Before the storm",
       "url": "https://open.spotify.com/track/63hsSENsGAduFKshEtbxom"
@@ -690,6 +690,24 @@
       "duration_ms": 312400,
       "name": "Calm",
       "url": "https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU"
+    },
+    {
+      "album": {
+        "name": "Calm Balance",
+        "url": "https://open.spotify.com/album/4cxuFgqUgTtmsCfCsmdrqJ"
+      },
+      "artists": [
+        {
+          "name": "Sacred Bansuri",
+          "url": "https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137190,
+      "name": "Calm Balance",
+      "url": "https://open.spotify.com/track/4xD4REkbAxsROYIL6EybD2"
     },
     {
       "album": {
@@ -956,7 +974,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 179191,
       "name": "Dawn Dusk Divinity",
       "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
@@ -1564,10 +1582,28 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 156033,
       "name": "Healing Heart",
       "url": "https://open.spotify.com/track/5qQBguwulDKiqUTTec4Fcz"
+    },
+    {
+      "album": {
+        "name": "Healing Raga",
+        "url": "https://open.spotify.com/album/2qtKimdiG1gJKcGWmL1Wsp"
+      },
+      "artists": [
+        {
+          "name": "Cautious Voice",
+          "url": "https://open.spotify.com/artist/4hARNYdi1hdngkpAAGEWCG"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226690,
+      "name": "Healing Raga",
+      "url": "https://open.spotify.com/track/3U2CoFQ5CtrSRNZHDpNTtb"
     },
     {
       "album": {
@@ -2212,7 +2248,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 290000,
       "name": "Lilypad Dreams",
       "url": "https://open.spotify.com/track/3HPNeRsvcGDAzBAL2Tfp15"
@@ -3094,7 +3130,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 137142,
       "name": "Pray For Tomorrow",
       "url": "https://open.spotify.com/track/1qZGlJPkJMPswlYSS5ypP5"
@@ -3330,7 +3366,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 274000,
       "name": "Raga Shuddhya Tintal",
       "url": "https://open.spotify.com/track/3DvS4XTDQFUVzDFuoBwkZv"
@@ -3661,6 +3697,42 @@
     },
     {
       "album": {
+        "name": "Sattva Flow",
+        "url": "https://open.spotify.com/album/5Bl3392Qcx18OskLp2QeY2"
+      },
+      "artists": [
+        {
+          "name": "Lounge Moon",
+          "url": "https://open.spotify.com/artist/3vHKR66rZC4Pekq9z68yQu"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sattva Flow",
+      "url": "https://open.spotify.com/track/2ARv314m6AutEDD5DvS8Vj"
+    },
+    {
+      "album": {
+        "name": "Sattva Flute Meditation",
+        "url": "https://open.spotify.com/album/1VFLq1n3a0aCcBX9k3ZFwh"
+      },
+      "artists": [
+        {
+          "name": "Lounge Moon",
+          "url": "https://open.spotify.com/artist/3vHKR66rZC4Pekq9z68yQu"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177187,
+      "name": "Sattva Flute Meditation",
+      "url": "https://open.spotify.com/track/2xRpOm1tLkYbt3TgO6VLx6"
+    },
+    {
+      "album": {
         "name": "Shaant Garmee",
         "url": "https://open.spotify.com/album/1OUUILFcARqONfzoxVxTlf"
       },
@@ -3950,7 +4022,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 273750,
       "name": "Soul Searching - Charukesi",
       "url": "https://open.spotify.com/track/78X6R2gLpWvPTJdVhRkql3"
@@ -3986,7 +4058,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 248437,
       "name": "Spiritual Ascent",
       "url": "https://open.spotify.com/track/2GzX0oSb1iRgvDkDweIANZ"
@@ -4008,6 +4080,24 @@
       "duration_ms": 160138,
       "name": "Spiritual Morning",
       "url": "https://open.spotify.com/track/4Rez6ejp3uLedEgbQwqcWC"
+    },
+    {
+      "album": {
+        "name": "Step to the Unknown",
+        "url": "https://open.spotify.com/album/1t219zNkQW2nHHNFtKpsdD"
+      },
+      "artists": [
+        {
+          "name": "Dumana",
+          "url": "https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141573,
+      "name": "Step to the Unknown",
+      "url": "https://open.spotify.com/track/4a5DhFfTk4yKRJIiXbWw5y"
     },
     {
       "album": {
@@ -4112,7 +4202,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 157090,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/2TSl5Cypccceda3yBQADQA"
@@ -4220,7 +4310,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 141679,
       "name": "Temple of Silence",
       "url": "https://open.spotify.com/track/14LGBqzDNJGKD58sySJ7BY"
@@ -4876,7 +4966,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 304594,
       "name": "Your Daily Practice: Yoga",
       "url": "https://open.spotify.com/track/3TJu7LDVWY1WoYxVuClXtD"

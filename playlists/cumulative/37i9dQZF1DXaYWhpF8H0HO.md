@@ -4,7 +4,7 @@
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Adikara
 
-613 songs - 1 day 11 hr 47 min
+614 songs - 1 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Missing You](https://open.spotify.com/track/3lIyZOz2hZLeMD8KK8br7Z) | [DAY](https://open.spotify.com/artist/5wz16QPWwXLAjpGxHaJoUS) | [have a nice DAY](https://open.spotify.com/album/0IjmpdtaR7N8HQeEViTew0) | 4:15 | 2024-12-12 | 2025-04-18 |
 | [Missing You](https://open.spotify.com/track/5MVf4vkfI1Y6jvV4m9pBZC) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Daydream](https://open.spotify.com/album/3UTMJp4fLna0RpWH6v1oeT) | 3:39 | 2025-06-19 | 2025-10-04 |
 | [Monopolar \- Tom Furse Remix](https://open.spotify.com/track/5TR2FSjKZeNN3VQsSA6iVy) | [Strange Fruit](https://open.spotify.com/artist/2rxlzU062cVwq4yA0LFQGy), [Tom Furse](https://open.spotify.com/artist/656QlXWNjRtnzAr5YNBEQB) | [Monopolar \(Tom Furse Remix\)](https://open.spotify.com/album/4OfKdPcOGCrn3MxBvr1WkM) | 4:25 | 2026-03-05 |  |
+| [Moonlight \- Live Stripped Down](https://open.spotify.com/track/5DBkIrEshZAqDd2Kg9mPOK) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Moonlight](https://open.spotify.com/album/0Ug96Tk15B2vfNbcaMoigs) | 2:49 | 2026-04-17 |  |
 | [Mother Angels](https://open.spotify.com/track/6myB4SLfmZpPpXgPPsodyY) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Mother Angels](https://open.spotify.com/album/6Bne5YPXNSPhsA2MMLAazu) | 2:44 | 2025-09-18 | 2025-12-06 |
 | [Mother Tongue](https://open.spotify.com/track/5cG4DL30OjzMIJwpJtjETa) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [Dorothy Chan](https://open.spotify.com/artist/1Vtc3DwCV0rwTPrqM0g4JN) | [Mother Tongue](https://open.spotify.com/album/7miEy7gOIovPnonf2afoWq) | 3:39 | 2026-02-05 |  |
 | [mr\. worldwide](https://open.spotify.com/track/1u98uNlFDonggbCFabg2ck) | [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi) | [mr\. worldwide](https://open.spotify.com/album/5OzCeyucGcabUw0nBoV6Sq) | 3:03 | 2024-10-31 | 2025-01-24 |

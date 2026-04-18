@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 212276,
       "name": "Block (I'm Not What You Need)",
       "url": "https://open.spotify.com/track/1Urz5TQBN9HGUl1iTDBwqJ"
@@ -5022,6 +5022,28 @@
     {
       "album": {
         "name": "Hold On",
+        "url": "https://open.spotify.com/album/40vyS2qyr6fTHqj93uTbX1"
+      },
+      "artists": [
+        {
+          "name": "Lucky Rose",
+          "url": "https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E"
+        },
+        {
+          "name": "Fa\u00fcna",
+          "url": "https://open.spotify.com/artist/0lzKARKhaojkklWlFuLpBw"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154301,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/72UYkWkClJ8YS2nGd4HTwV"
+    },
+    {
+      "album": {
+        "name": "Hold On",
         "url": "https://open.spotify.com/album/4xjQGvDA4lJAXZ0HSYPPHl"
       },
       "artists": [
@@ -5849,6 +5871,28 @@
     },
     {
       "album": {
+        "name": "ifidiewouldyoucry",
+        "url": "https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175037,
+      "name": "ifidiewouldyoucry",
+      "url": "https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC"
+    },
+    {
+      "album": {
         "name": "In And Out Of Love",
         "url": "https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK"
       },
@@ -6554,7 +6598,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 154285,
       "name": "Learn to Let Go",
       "url": "https://open.spotify.com/track/0vEQdBeCzVQVfPfZim8JVZ"
@@ -8750,6 +8794,32 @@
       "duration_ms": 189375,
       "name": "Nothing Hurts",
       "url": "https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56"
+    },
+    {
+      "album": {
+        "name": "Nothing Left",
+        "url": "https://open.spotify.com/album/4DD6FbOoiOaBbLx6yGFJuS"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180303,
+      "name": "Nothing Left",
+      "url": "https://open.spotify.com/track/7GQNTnBqlAPa3lQMWeIvUa"
     },
     {
       "album": {
@@ -12250,7 +12320,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 227179,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/2OanCtn4n2jC2SgHMMjn65"
@@ -12698,6 +12768,24 @@
       "duration_ms": 291657,
       "name": "Us",
       "url": "https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi"
+    },
+    {
+      "album": {
+        "name": "Ventricle",
+        "url": "https://open.spotify.com/album/7JyLPiCcJmpKtndcjGwU87"
+      },
+      "artists": [
+        {
+          "name": "Next To Blue",
+          "url": "https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214100,
+      "name": "Ventricle",
+      "url": "https://open.spotify.com/track/6vrVUOH8GBueYVLXXOIlfe"
     },
     {
       "album": {
@@ -13270,7 +13358,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 129634,
       "name": "WHERE DO I GO?",
       "url": "https://open.spotify.com/track/2dkzYmHV0jW0I66hmdMTey"

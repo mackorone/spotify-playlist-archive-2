@@ -1,13 +1,61 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Sophie May",
-  "num_followers": 219143,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Karly Bowman",
+  "num_followers": 219148,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKKmdP2Xcl9JBDukxQqwfNPkPRm1",
+  "snapshot_id": "AAAAAPLEB0RRpHCKw6XnNj0IGhvuFaLo",
   "tracks": [
+    {
+      "added_at": "2026-04-17 04:01:18",
+      "album": {
+        "name": "From My Side",
+        "url": "https://open.spotify.com/album/5vmJ1xWkA9gU8IBSn6gAck"
+      },
+      "artists": [
+        {
+          "name": "Karly Bowman",
+          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
+        }
+      ],
+      "duration_ms": 186334,
+      "name": "Next To Me",
+      "url": "https://open.spotify.com/track/2JkJ3ju8snOnciAw7YRC92"
+    },
+    {
+      "added_at": "2026-04-17 04:01:18",
+      "album": {
+        "name": "Please Like Me",
+        "url": "https://open.spotify.com/album/0uB17I8AT9aGuQwO8X0aaC"
+      },
+      "artists": [
+        {
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 209206,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/2uGBnu8TR4Lx8oxRCgYPd7"
+    },
+    {
+      "added_at": "2026-04-17 04:01:18",
+      "album": {
+        "name": "batman",
+        "url": "https://open.spotify.com/album/5vxI5NjlQ9kTLrqxsl4GAd"
+      },
+      "artists": [
+        {
+          "name": "Fia James",
+          "url": "https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R"
+        }
+      ],
+      "duration_ms": 205483,
+      "name": "batman",
+      "url": "https://open.spotify.com/track/5LvQwR4I2HHqIhuxCuitDY"
+    },
     {
       "added_at": "2026-04-03 04:01:42",
       "album": {
@@ -235,22 +283,6 @@
       "duration_ms": 198386,
       "name": "Love Will Kill Me",
       "url": "https://open.spotify.com/track/2VyGB5B0Y0YLbrBtGZIOLK"
-    },
-    {
-      "added_at": "2026-03-20 04:00:44",
-      "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/5HiwhWP8TjCKAy3G7jh4Wa"
-      },
-      "artists": [
-        {
-          "name": "Karly Bowman",
-          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
-        }
-      ],
-      "duration_ms": 161537,
-      "name": "June",
-      "url": "https://open.spotify.com/track/6Cja8mqmoef4FBxNfQlt2k"
     },
     {
       "added_at": "2026-04-03 04:01:42",
@@ -1021,22 +1053,6 @@
       "url": "https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1"
     },
     {
-      "added_at": "2026-01-16 05:00:31",
-      "album": {
-        "name": "Please Don't Hate Me",
-        "url": "https://open.spotify.com/album/14EBLrQbRhhzyCMQBSlhmn"
-      },
-      "artists": [
-        {
-          "name": "Aaron Rowe",
-          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
-        }
-      ],
-      "duration_ms": 201063,
-      "name": "Please Don't Hate Me",
-      "url": "https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t"
-    },
-    {
       "added_at": "2026-01-06 19:25:50",
       "album": {
         "name": "Blood On Your Hands",
@@ -1099,22 +1115,6 @@
       "duration_ms": 196837,
       "name": "Hospital Bed",
       "url": "https://open.spotify.com/track/5p6RDcjE7idytdlwmZqGkI"
-    },
-    {
-      "added_at": "2026-01-06 19:25:50",
-      "album": {
-        "name": "Overkill",
-        "url": "https://open.spotify.com/album/3UAhzKyLSrVek7nUGN7bnO"
-      },
-      "artists": [
-        {
-          "name": "Aidan Jones",
-          "url": "https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK"
-        }
-      ],
-      "duration_ms": 240229,
-      "name": "Overkill",
-      "url": "https://open.spotify.com/track/1PQdDXskvuR7wvPmotXC1d"
     },
     {
       "added_at": "2025-11-21 05:00:30",

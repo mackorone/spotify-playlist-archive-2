@@ -4,7 +4,7 @@
 
 > For the new generation of trendsetters coming through, we move\. Cover: KhakiKid
 
-187 songs - 8 hr 9 min
+188 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [kool aid \(feat\. Bawo\)](https://open.spotify.com/track/6FlVGdt3mFvDXqwVrjXBhu) | [David Armada](https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [stone radio](https://open.spotify.com/album/3NI1FaapWxo9bLT20nsJOT) | 1:58 | 2025-10-23 | 2026-02-13 |
 | [LEGACY](https://open.spotify.com/track/3e82RF8rwQYOpCwjLSu6gA) | [PIXY](https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz) | [LEGACY](https://open.spotify.com/album/480cO3M1pWRyGwxnYb0hxF) | 2:14 | 2026-03-20 |  |
 | [Limit](https://open.spotify.com/track/6NkJkPVDH8BRWTJXerQU2t) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Limit](https://open.spotify.com/album/51p6qDj0rYyGuXy97ZeDau) | 2:45 | 2025-11-14 | 2026-03-06 |
+| [Lost](https://open.spotify.com/track/5YGduouoFxWARvrXbaU5JT) | [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Lost](https://open.spotify.com/album/79dc2PZ0ddi1QTSt4PWrOa) | 2:05 | 2026-04-16 |  |
 | [LV Sandals](https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:51 | 2025-10-23 | 2026-02-21 |
 | [Main Characters](https://open.spotify.com/track/2XWt6PR2aKNPe7blhztYCX) | [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo), [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5) | [Main Characters](https://open.spotify.com/album/7Cuef2gDnprnX7xb5f9Clm) | 3:09 | 2025-10-23 | 2026-02-13 |
 | [MAKE IT HOME](https://open.spotify.com/track/01RMH5GzzR6FzWyEnAmCAK) | [Tdarq](https://open.spotify.com/artist/32fjTg4szazZo87Sgxs9a2), [J\-kari](https://open.spotify.com/artist/1XfhFMilNLBjEotGHliWGK) | [MAKE IT HOME](https://open.spotify.com/album/3FBzEpxt9qpGhLoLyxTZqD) | 2:24 | 2025-11-07 | 2026-02-27 |

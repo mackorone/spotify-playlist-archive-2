@@ -1,6 +1,6 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Banda MS, Los Plebes del Rancho en portada \ud83d\udcf8",
-  "num_followers": 1074430,
+  "num_followers": 1074540,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-03-27 06:00:13",
       "album": {
+        "name": "Amor Brutal",
+        "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
+      },
+      "artists": [
+        {
+          "name": "Los Primos MX",
+          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "Mi Bello \u00c1ngel",
+      "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
+    },
+    {
+      "added_at": "2026-03-27 06:00:13",
+      "album": {
         "name": "Vali\u00f3 La Pena Equivocarme",
         "url": "https://open.spotify.com/album/1zJpRuqckbWc29EXSboCuc"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 221905,
       "name": "Vali\u00f3 La Pena Equivocarme",
       "url": "https://open.spotify.com/track/5fadmmChFKcR3G0mChCwP1"
-    },
-    {
-      "added_at": "2026-03-27 06:00:13",
-      "album": {
-        "name": "Amor Brutal",
-        "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
-      },
-      "artists": [
-        {
-          "name": "Los Primos MX",
-          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "Mi Bello \u00c1ngel",
-      "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
     },
     {
       "added_at": "2026-03-27 06:00:13",
@@ -1223,8 +1223,8 @@
     {
       "added_at": "2026-03-27 06:00:13",
       "album": {
-        "name": "El Jefe De Las Plazas",
-        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
       "artists": [
         {
@@ -1232,29 +1232,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 180080,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/39R8oPoofJ002w5YOwFzjy"
-    },
-    {
-      "added_at": "2026-03-27 06:00:13",
-      "album": {
-        "name": "Que Empiece La Borrachera (En Vivo)",
-        "url": "https://open.spotify.com/album/3bx8b36tOXgle97X8LpBPm"
-      },
-      "artists": [
-        {
-          "name": "Arath Arceo",
-          "url": "https://open.spotify.com/artist/179sKnhSlC0IVj10e98XhZ"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "El Que Sigue De Mi (En Vivo)",
-      "url": "https://open.spotify.com/track/37jsgAXVIxD48j8c0UqZKC"
+      "duration_ms": 138466,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
     },
     {
       "added_at": "2026-03-27 06:00:13",
@@ -1275,6 +1255,26 @@
       "duration_ms": 197107,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
+    },
+    {
+      "added_at": "2026-03-27 06:00:13",
+      "album": {
+        "name": "Que Empiece La Borrachera (En Vivo)",
+        "url": "https://open.spotify.com/album/3bx8b36tOXgle97X8LpBPm"
+      },
+      "artists": [
+        {
+          "name": "Arath Arceo",
+          "url": "https://open.spotify.com/artist/179sKnhSlC0IVj10e98XhZ"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "El Que Sigue De Mi (En Vivo)",
+      "url": "https://open.spotify.com/track/37jsgAXVIxD48j8c0UqZKC"
     },
     {
       "added_at": "2026-03-27 06:00:13",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2026-03-27 06:00:13",
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 138466,
-      "name": "Me Gusta Estar Contigo",
-      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
+      "duration_ms": 180080,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/39R8oPoofJ002w5YOwFzjy"
     },
     {
       "added_at": "2026-03-27 06:00:13",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-03-27 06:00:13",
       "album": {
-        "name": "B\u00e9same Diferente",
-        "url": "https://open.spotify.com/album/2pL8DZXeH1W8TblZQtgiNS"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 152436,
-      "name": "B\u00e9same Diferente",
-      "url": "https://open.spotify.com/track/2mDtsObUPQJ3BhhLqW6wxh"
-    },
-    {
-      "added_at": "2026-03-27 06:00:13",
-      "album": {
         "name": "Te Volver\u00eda A Elegir",
         "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
       },
@@ -1415,34 +1399,18 @@
     {
       "added_at": "2026-03-27 06:00:13",
       "album": {
-        "name": "Simbolo Sexual",
-        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+        "name": "B\u00e9same Diferente",
+        "url": "https://open.spotify.com/album/2pL8DZXeH1W8TblZQtgiNS"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 180208,
-      "name": "Simbolo Sexual",
-      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
-    },
-    {
-      "added_at": "2026-03-27 06:00:13",
-      "album": {
-        "name": "Puras Complacencias, Vol. 7 (En Vivo)",
-        "url": "https://open.spotify.com/album/317N0hbjQfDNwtoG26LMJK"
-      },
-      "artists": [
-        {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Cari\u00f1ito De Mi Vida - En Vivo",
-      "url": "https://open.spotify.com/track/2ZEIX2et1Fq5za4uWsETCM"
+      "duration_ms": 152436,
+      "name": "B\u00e9same Diferente",
+      "url": "https://open.spotify.com/track/2mDtsObUPQJ3BhhLqW6wxh"
     },
     {
       "added_at": "2026-03-27 06:00:13",
@@ -1463,6 +1431,22 @@
     {
       "added_at": "2026-03-27 06:00:13",
       "album": {
+        "name": "Puras Complacencias, Vol. 7 (En Vivo)",
+        "url": "https://open.spotify.com/album/317N0hbjQfDNwtoG26LMJK"
+      },
+      "artists": [
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Cari\u00f1ito De Mi Vida - En Vivo",
+      "url": "https://open.spotify.com/track/2ZEIX2et1Fq5za4uWsETCM"
+    },
+    {
+      "added_at": "2026-03-27 06:00:13",
+      "album": {
         "name": "Se Va A Querer Morir",
         "url": "https://open.spotify.com/album/5OPgEqmLQ9LYbPpGDoaOdT"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 206521,
       "name": "Se Va A Querer Morir",
       "url": "https://open.spotify.com/track/7r3pnWG7rIYnr9ipn7viBa"
+    },
+    {
+      "added_at": "2026-03-27 06:00:13",
+      "album": {
+        "name": "Simbolo Sexual",
+        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180208,
+      "name": "Simbolo Sexual",
+      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
     },
     {
       "added_at": "2026-03-27 06:00:13",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-03-27 06:00:13",
       "album": {
-        "name": "El Mundo Es Del Que Se Anima",
-        "url": "https://open.spotify.com/album/6zuGZAkB6sMHRNUOC11hgx"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 187822,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/22sGlWHrJfScxPwCd26S2z"
-    },
-    {
-      "added_at": "2026-03-27 06:00:13",
-      "album": {
         "name": "Directo al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4UBZzHIHJjeDrqs8aTshMd"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 216157,
       "name": "Directo al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1DrgCuJsScMhFaTXdMc8pr"
+    },
+    {
+      "added_at": "2026-03-27 06:00:13",
+      "album": {
+        "name": "El Mundo Es Del Que Se Anima",
+        "url": "https://open.spotify.com/album/6zuGZAkB6sMHRNUOC11hgx"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 187822,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/22sGlWHrJfScxPwCd26S2z"
     },
     {
       "added_at": "2026-03-27 06:00:13",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-03-27 06:00:13",
       "album": {
-        "name": "Ranchero y Mucho M\u00e1s",
-        "url": "https://open.spotify.com/album/1s2tmVGQkMd6nlVaRxqM4W"
-      },
-      "artists": [
-        {
-          "name": "Jessie Morales El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
-        }
-      ],
-      "duration_ms": 163066,
-      "name": "Creo Estar Sona\u00f1do",
-      "url": "https://open.spotify.com/track/2pDG22gxgPsxFjh7aVcDHY"
-    },
-    {
-      "added_at": "2026-03-27 06:00:13",
-      "album": {
         "name": "Con La Misma Piedra",
         "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 175496,
       "name": "Con La Misma Piedra",
       "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
+    },
+    {
+      "added_at": "2026-03-27 06:00:13",
+      "album": {
+        "name": "Ranchero y Mucho M\u00e1s",
+        "url": "https://open.spotify.com/album/1s2tmVGQkMd6nlVaRxqM4W"
+      },
+      "artists": [
+        {
+          "name": "Jessie Morales El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+        }
+      ],
+      "duration_ms": 163066,
+      "name": "Creo Estar Sona\u00f1do",
+      "url": "https://open.spotify.com/track/2pDG22gxgPsxFjh7aVcDHY"
     },
     {
       "added_at": "2026-03-27 06:00:13",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-03-27 06:00:13",
       "album": {
-        "name": "Te He Prometido",
-        "url": "https://open.spotify.com/album/22pQFjhrfjfky4uoetcaLu"
-      },
-      "artists": [
-        {
-          "name": "Jessie Morales El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/05hpTrbQIXJ2DiXrozJtyF"
-    },
-    {
-      "added_at": "2026-03-27 06:00:13",
-      "album": {
         "name": "Rom\u00e1ntico Incurable",
         "url": "https://open.spotify.com/album/7KhdmbkTi55OpeFPSLNQCH"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 205384,
       "name": "Rom\u00e1ntico Incurable",
       "url": "https://open.spotify.com/track/2Fau1qHNJKLCKHQdxxWZkI"
+    },
+    {
+      "added_at": "2026-03-27 06:00:13",
+      "album": {
+        "name": "Te He Prometido",
+        "url": "https://open.spotify.com/album/22pQFjhrfjfky4uoetcaLu"
+      },
+      "artists": [
+        {
+          "name": "Jessie Morales El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+        }
+      ],
+      "duration_ms": 192360,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/05hpTrbQIXJ2DiXrozJtyF"
     },
     {
       "added_at": "2026-03-27 06:00:13",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-03-27 06:00:13",
       "album": {
-        "name": "Los Inmortales",
-        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
-      },
-      "artists": [
-        {
-          "name": "Adan Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Me Canse De Morir Por Tu Amor",
-      "url": "https://open.spotify.com/track/7GV9iziCj6kx0noYOtrI6O"
-    },
-    {
-      "added_at": "2026-03-27 06:00:13",
-      "album": {
         "name": "Llegando Al Rancho",
         "url": "https://open.spotify.com/album/6vJ9ymVhHcvI1NgFuFA0rN"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 196002,
       "name": "Celos",
       "url": "https://open.spotify.com/track/14cKYjqTETGeewrsckuwtK"
+    },
+    {
+      "added_at": "2026-03-27 06:00:13",
+      "album": {
+        "name": "Los Inmortales",
+        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Me Canse De Morir Por Tu Amor",
+      "url": "https://open.spotify.com/track/7GV9iziCj6kx0noYOtrI6O"
     },
     {
       "added_at": "2026-03-27 06:00:13",
@@ -1935,18 +1935,18 @@
     {
       "added_at": "2026-03-27 06:00:13",
       "album": {
-        "name": "Situaciones",
-        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
       },
       "artists": [
         {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 233706,
-      "name": "De Uno Y De Todos Los Modos - Version Bolero",
-      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
+      "duration_ms": 220000,
+      "name": "Tu Eterno Enamorado",
+      "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
     },
     {
       "added_at": "2026-03-27 06:00:13",
@@ -1967,18 +1967,18 @@
     {
       "added_at": "2026-03-27 06:00:13",
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
+        "name": "Situaciones",
+        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
       },
       "artists": [
         {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Tu Eterno Enamorado",
-      "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
+      "duration_ms": 233706,
+      "name": "De Uno Y De Todos Los Modos - Version Bolero",
+      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
     },
     {
       "added_at": "2026-03-27 06:00:13",

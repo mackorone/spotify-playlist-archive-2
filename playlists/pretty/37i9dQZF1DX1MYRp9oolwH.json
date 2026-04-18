@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Lenin",
-  "num_followers": 169596,
+  "num_followers": 169629,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD/VyCwX9bh0okarO5phsQ4E98he",
+  "snapshot_id": "AAAAAAageZ5ZhGZ7eBpez8fvdJD+stkm",
   "tracks": [
     {
       "added_at": "2026-04-16 13:17:45",
@@ -187,6 +187,26 @@
       "duration_ms": 270016,
       "name": "Kallonu Neeve - From \"Hey Balwanth\"",
       "url": "https://open.spotify.com/track/5C9SiDdapQmMu0pmbOy5jm"
+    },
+    {
+      "added_at": "2026-04-17 06:52:57",
+      "album": {
+        "name": "Mr.X (Telugu) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/7wPMlX1FfWpAyJ44IP4WWm"
+      },
+      "artists": [
+        {
+          "name": "Dhibu Ninan Thomas",
+          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        }
+      ],
+      "duration_ms": 266625,
+      "name": "Haiyayyo",
+      "url": "https://open.spotify.com/track/26rXjKl1hgCwraoGx1Uklh"
     },
     {
       "added_at": "2026-04-06 04:36:35",
@@ -623,30 +643,6 @@
       "duration_ms": 226640,
       "name": "Nenela Undaalila",
       "url": "https://open.spotify.com/track/1Q2viLb7fUrfXBFkEPEasg"
-    },
-    {
-      "added_at": "2026-02-05 12:08:15",
-      "album": {
-        "name": "With Love (Telugu) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/7MnwQqeT6sNmGV58bgjs2O"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Vijaynarain",
-          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
-        },
-        {
-          "name": "Sanare",
-          "url": "https://open.spotify.com/artist/5OBBWXv2u5ZODe8odcEHbl"
-        }
-      ],
-      "duration_ms": 206065,
-      "name": "Ayyo Kadhaley",
-      "url": "https://open.spotify.com/track/7er0FmDFY5LabmYl6pqDNb"
     },
     {
       "added_at": "2025-12-07 06:58:31",

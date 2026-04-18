@@ -960,7 +960,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 209536,
       "name": "Cruel Odds",
       "url": "https://open.spotify.com/track/0YP1ZPdqjqfVxHRUvzquwz"
@@ -7130,7 +7130,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 172000,
       "name": "\u51ac\u306e\u306f\u3058\u307e\u308a",
       "url": "https://open.spotify.com/track/2NA611BGLKXlDKrV7JIJyF"
@@ -7798,10 +7798,28 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 252928,
       "name": "\u60aa\u5922\u306e\u3088\u3046\u306a - Acoustic",
       "url": "https://open.spotify.com/track/5UedywpBjrrvbhwDzjDAUn"
+    },
+    {
+      "album": {
+        "name": "good life, good people",
+        "url": "https://open.spotify.com/album/4EsbxeEeLAAr5EOymJIZnB"
+      },
+      "artists": [
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234840,
+      "name": "\u60aa\u9b54",
+      "url": "https://open.spotify.com/track/5yACHWDsUsC5n1QJuVTqMp"
     },
     {
       "album": {

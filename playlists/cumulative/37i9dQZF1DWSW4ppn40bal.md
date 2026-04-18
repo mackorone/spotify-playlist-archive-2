@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-726 songs - 1 day 14 hr 13 min
+727 songs - 1 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,6 +565,7 @@
 | [Pink Steady Flowing Noise](https://open.spotify.com/track/5ZvyTGWWdNdXF6lnhpWGQp) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Pink Noise Sounds for Focus and Relaxation](https://open.spotify.com/album/1f6H56oC6fIHVMlJ1SnHRT) | 2:52 | 2022-11-18 | 2026-04-03 |
 | [Pink Sundown](https://open.spotify.com/track/4Dc0wjSmEiKOz0ymExmmkf) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [Pink Sundown](https://open.spotify.com/album/4VndUjrTaivnUdHE6WblC8) | 3:15 | 2022-08-02 | 2025-11-15 |
 | [Pink Universe](https://open.spotify.com/track/0Arhl0vegC9JMLHjPNpPa7) | [Somnolence](https://open.spotify.com/artist/0np7yt4AmDMRNvEuYgOIXm) | [Pink Universe](https://open.spotify.com/album/6b9ImVVuhEfY1TxpqOuZAs) | 2:59 | 2022-11-18 |  |
+| [Pink Velvet](https://open.spotify.com/track/21F8cDnV49vkfKztMyTNOn) | [Ecstatix](https://open.spotify.com/artist/4Z2EaSwZpqDleK7b7qYSvx) | [Pink Velvet](https://open.spotify.com/album/1Ni2VrzcMl2XXuN19rIUPf) | 3:33 | 2026-03-31 |  |
 | [Pink Velvet Dreams](https://open.spotify.com/track/07iZrwOl5MRS6hkqQiuuzC) | [Noise Chillantro](https://open.spotify.com/artist/5on19ok7di3nj6e4OEh5PU) | [Pink Velvet Dreams](https://open.spotify.com/album/1AaDcM51jeWlhLAhB3gLeW) | 5:23 | 2024-02-09 | 2026-04-11 |
 | [Pink Winds](https://open.spotify.com/track/46KIgyisohiTkHPVWxE1ia) | [Spiritual Essence](https://open.spotify.com/artist/0noRWYJspgODzUSRy5yD98) | [Pinkosphere](https://open.spotify.com/album/555ZCFbz8lYoxEYlDr8l5F) | 3:06 | 2022-11-18 |  |
 | [Pink World Noise 03.03 \(REMASTERED\)](https://open.spotify.com/track/3JIrvyaMeg8Uts813PeAfn) | [Noise Rex](https://open.spotify.com/artist/0usgNFvCTCk0XWskQpdhAy) | [Soothing Pink Noise](https://open.spotify.com/album/4FxaPv28JDKabUP62Bi0vv) | 2:59 | 2021-12-01 | 2023-02-17 |
@@ -574,7 +575,7 @@
 | [Pool of Pink Noise](https://open.spotify.com/track/2Tr59tiEcAMub2JLqJA72C) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Pool of Pink Noise](https://open.spotify.com/album/753Pp9yVc0DpU9sqFR9TqW) | 3:29 | 2022-06-03 | 2026-04-01 |
 | [Precious Bedtime](https://open.spotify.com/track/6b50H35ZNObNWB1JTOmwuR) | [Instant Recuperate](https://open.spotify.com/artist/38y9kFWR4BFY9lhR6dXMBV) | [Pink Noise Aficionado](https://open.spotify.com/album/2BG66eZYVb2AXzMhFImd6Y) | 2:57 | 2022-11-18 | 2026-04-03 |
 | [Princess Pink Noise](https://open.spotify.com/track/3ZXwtonxcZy9EjykI4fyM3) | [The Frequency Shifters](https://open.spotify.com/artist/7MbxdnkfBJ2STy1K8VzbzJ) | [Princess Pink Noise](https://open.spotify.com/album/6PHguJxV0BG0BDKHQPTeJd) | 4:02 | 2025-12-19 |  |
-| [Profound Pink](https://open.spotify.com/track/3kIjRT6rqRXTRrGZNmLLya) | [Universal Waves](https://open.spotify.com/artist/1J9iGTlSe1UKgzNbILBnL8) | [Universal Pink](https://open.spotify.com/album/3OBBa7NZrWw8lnkQQIPmaJ) | 3:00 | 2022-12-20 |  |
+| [Profound Pink](https://open.spotify.com/track/3kIjRT6rqRXTRrGZNmLLya) | [Universal Waves](https://open.spotify.com/artist/1J9iGTlSe1UKgzNbILBnL8) | [Universal Pink](https://open.spotify.com/album/3OBBa7NZrWw8lnkQQIPmaJ) | 3:00 | 2022-12-20 | 2026-04-18 |
 | [Pure Brown Noise](https://open.spotify.com/track/0UgcG4LALGX6cTFp6TtSXl) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Brown Noise](https://open.spotify.com/album/4UxFcwdtIeqsCQe1tIpqHs) | 3:22 | 2021-12-01 | 2022-08-03 |
 | [Pure Brown Noise 3](https://open.spotify.com/track/5QjGpAks7zoO83nqs0phLa) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Pure Brown Noise](https://open.spotify.com/album/4GqKlkURm7KhUr397GeVlm) | 3:02 | 2021-12-01 | 2022-07-02 |
 | [Pure Brown Noise 6](https://open.spotify.com/track/1GdAEyWMnFjUz6goHuTfoQ) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Pure Brown Noise](https://open.spotify.com/album/4GqKlkURm7KhUr397GeVlm) | 3:17 | 2021-12-01 | 2022-12-21 |

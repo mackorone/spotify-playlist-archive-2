@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: BINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,481 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,387 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 5 | [Bang Bang](https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Sweet Talker \(Deluxe Version\)](https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb) | 3:19 |
 | 6 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 |
 | 7 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
-| 8 | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Kitchie Nadal](https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk) | 4:09 |
-| 9 | [Back in Love](https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Back in Love](https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce) | 3:14 |
+| 8 | [Back in Love](https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Back in Love](https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce) | 3:14 |
+| 9 | [BRITTANY MURPHY.](https://open.spotify.com/track/4oUrl0RyDqr1DvNDvPNdRL) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:44 |
 | 10 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
-| 11 | [BRITTANY MURPHY.](https://open.spotify.com/track/4oUrl0RyDqr1DvNDvPNdRL) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:44 |
+| 11 | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Kitchie Nadal](https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk) | 4:09 |
 | 12 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
 | 13 | [Night at the Opera](https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO) | 3:04 |
 | 14 | [STAY](https://open.spotify.com/track/3tP6QKbXvtrxiDI7QwKyUf) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:50 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 27 | [Titibo\-Tibo](https://open.spotify.com/track/2zArX6uAJaGQzMXoqob8V6) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Malaya](https://open.spotify.com/album/4MPMYc8S6csdHlF8Ud1yLp) | 3:22 |
 | 28 | [Feel Special](https://open.spotify.com/track/14rWuS6yllHOdfZ8sZsZUj) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/5efEhTY3yPlGU4Ofu2yi7F) | 3:26 |
 | 29 | [Mix Poco Yo: Sé Que Te Amo / Tu Traición / Otra Ocupa Mi Lugar / Te He Prometido \- en vivo](https://open.spotify.com/track/2fvTFcJoB0jFnpl3U9Jip4) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Mix Poco Yo: Sé Que Te Amo / Tu Traición / Otra Ocupa Mi Lugar / Te He Prometido \(En Vivo\)](https://open.spotify.com/album/3ijH4T7QFQuueB1sQJeQNB) | 6:36 |
-| 30 | [NOISE](https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [NOISE](https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj) | 2:42 |
-| 31 | [Sousouro](https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Sousouro](https://open.spotify.com/album/1ZuGXCJPpIFwRcgMHSghLU) | 3:51 |
+| 30 | [Sousouro](https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Sousouro](https://open.spotify.com/album/1ZuGXCJPpIFwRcgMHSghLU) | 3:51 |
+| 31 | [NOISE](https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [NOISE](https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj) | 2:42 |
 | 32 | [Paper Hearts](https://open.spotify.com/track/4X8jImpljCdt2eDge8OzoQ) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Foreword](https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD) | 3:19 |
 | 33 | [Salam](https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Salam](https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH) | 2:53 |
 | 34 | [Cyklen](https://open.spotify.com/track/6M2N6oak5eZgBamt4QnYzH) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Cyklen](https://open.spotify.com/album/4YMu9CztQJLOuvf2MqjU4e) | 3:03 |
@@ -50,15 +50,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 40 | [Nuda ma alla Moda](https://open.spotify.com/track/1H8U4KJR2ZRJadajrxupwe) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [5](https://open.spotify.com/album/1EUQXou8NYiZ508c6CkUiv) | 2:36 |
 | 41 | [¿ARDIDA QUIÉN?](https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [¿ARDIDA QUIÉN?](https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ) | 2:20 |
 | 42 | [X AMOR](https://open.spotify.com/track/3VmbHemGYprg5fYFG6ZEdh) | [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7), [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Gonzo](https://open.spotify.com/artist/7oAnJj6TBKt2qWXz7g6WPS), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [X AMOR](https://open.spotify.com/album/67pDqlELzfg5FNceBAd8Vc) | 2:54 |
-| 43 | [Vera Cruz](https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Vera Cruz](https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj) | 2:36 |
+| 43 | [Fluturi](https://open.spotify.com/track/3SWHzg17hqXGkiOdox5jkS) | [EMAA](https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE) | [Fluturi](https://open.spotify.com/album/21ylqkjzBLno60czMwYYle) | 2:35 |
 | 44 | [steer](https://open.spotify.com/track/4H6koInIFUq2k2qaSFPuWG) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [steer](https://open.spotify.com/album/6eV82gYdpWpoQVbBJjqTIK) | 2:58 |
-| 45 | [Fluturi](https://open.spotify.com/track/3SWHzg17hqXGkiOdox5jkS) | [EMAA](https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE) | [Fluturi](https://open.spotify.com/album/21ylqkjzBLno60czMwYYle) | 2:35 |
+| 45 | [Vera Cruz](https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Vera Cruz](https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj) | 2:36 |
 | 46 | [3AM in San Francisco](https://open.spotify.com/track/1fHl2iP3wNPBVIj6RUjXue) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [3AM in San Francisco](https://open.spotify.com/album/4pSkt6nxEHn3LBrKf6XpQ2) | 2:26 |
 | 47 | [Maghron La](https://open.spotify.com/track/6zU7GoGlsJtIUNPRGNl0m8) | [Sabri Sisters](https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn), [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Maghron La](https://open.spotify.com/album/0WwgZENQ2PIRVDqaVNzlSA) | 4:06 |
 | 48 | [Must Be](https://open.spotify.com/track/4jYwgNne9MLJjkoQ3KTyX9) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Must Be](https://open.spotify.com/album/6AFChJzqPoA4WOpZVqtZTW) | 2:55 |
 | 49 | [Toma Toma](https://open.spotify.com/track/1zJxOcvQ84OzBsAfGcrWtc) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Taliixo Beatz](https://open.spotify.com/artist/0zJbnxrPTqqwSac6FEHWKE), [Wiils](https://open.spotify.com/artist/5nlb9fduEXeYSS8K6IkFwj) | [Toma Toma](https://open.spotify.com/album/1rKwmiX9ouMu23H5cddHqC) | 2:40 |
-| 50 | [Sun\-Kissed](https://open.spotify.com/track/5zKu2kbKSpzr5QvINZswOy) | [Sugar 'N Spice](https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl) | [Sun\-Kissed](https://open.spotify.com/album/5UzL6zf0GmyjtKuqlGoJNT) | 2:51 |
-| 51 | [PICKY PICKY](https://open.spotify.com/track/1rXkRz2Kq0OPtUCbYl1FnR) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [PICKY PICKY](https://open.spotify.com/album/5ALLCCDEVDdmmuSDeNE1ZW) | 2:08 |
+| 50 | [PICKY PICKY](https://open.spotify.com/track/1rXkRz2Kq0OPtUCbYl1FnR) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [PICKY PICKY](https://open.spotify.com/album/5ALLCCDEVDdmmuSDeNE1ZW) | 2:08 |
+| 51 | [Sun\-Kissed](https://open.spotify.com/track/5zKu2kbKSpzr5QvINZswOy) | [Sugar 'N Spice](https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl) | [Sun\-Kissed](https://open.spotify.com/album/5UzL6zf0GmyjtKuqlGoJNT) | 2:51 |
 | 52 | [Kiss u goodnight](https://open.spotify.com/track/4Vz6slkVySutvsUxegFupk) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V) | [Kiss u goodnight](https://open.spotify.com/album/0no5KOn0MFnit0HXQr8M9S) | 3:14 |
 | 53 | [Big Girl Don’t You Cry](https://open.spotify.com/track/1uOvwcp4JvIJ7UUa9GKAwS) | [Châu Bùi](https://open.spotify.com/artist/6mKDR6IdsyqRp38x1uigAR) | [Big Girl Don’t You Cry](https://open.spotify.com/album/6SLJql6MEBS3SRMrSIY61H) | 3:52 |
 | 54 | [You Cannot Erase Us](https://open.spotify.com/track/5bEPnxCjUwTua7uca5ctaA) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA), [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [You Cannot Erase Us](https://open.spotify.com/album/0EP4syxuSGZmVWGbwM5H0r) | 3:23 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 64 | [Power](https://open.spotify.com/track/03Nor3UpgNjFpsv4rEQSgr) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Deluxe\)](https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs) | 4:07 |
 | 65 | [pov](https://open.spotify.com/track/1qCHCDdq2oEGPRCkugPAfZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [NOW That's What I Call Music, Vol\. 79](https://open.spotify.com/album/39SS3PDEJrpM9NZXjn2Njm) | 3:19 |
 
-Snapshot ID: `AAAAAKO8RUzyL9BIa7y4An+aYx9wZId6`
+Snapshot ID: `AAAAAKe4fbPatVFFJMQKe6FqKXlBpWle`

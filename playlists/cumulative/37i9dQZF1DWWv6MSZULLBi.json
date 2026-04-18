@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Allison Russell",
+  "description": "A laid-back trip in the folk scene. Cover: Noah Derksen",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Acid Washed",
+        "url": "https://open.spotify.com/album/7ByICVrVB3zYNVoSfGbe7s"
+      },
+      "artists": [
+        {
+          "name": "Flowerboy",
+          "url": "https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127272,
+      "name": "Acid Washed",
+      "url": "https://open.spotify.com/track/0bla0kPTlY0r1M3tOY6BfS"
+    },
+    {
+      "album": {
         "name": "Midwest",
         "url": "https://open.spotify.com/album/2VBZSu0oiE6ggq0IoBRFbf"
       },
@@ -950,7 +968,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 188373,
       "name": "All I Am",
       "url": "https://open.spotify.com/track/6EC8WKlArPIeWznmf79OMk"
@@ -1733,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "Is All This Mess Mine?",
+        "url": "https://open.spotify.com/album/6hWE6td6a58vca6v4ZPn11"
+      },
+      "artists": [
+        {
+          "name": "Jillian Lake",
+          "url": "https://open.spotify.com/artist/1VBiXsCfOgQzy8uxyhCnPY"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229948,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/1KMhXTesfuZzoaeoFV4Jbq"
+    },
+    {
+      "album": {
         "name": "Apple Core",
         "url": "https://open.spotify.com/album/5kWl6GBEG82T4bZtlPxTJZ"
       },
@@ -2152,7 +2188,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 183815,
       "name": "Balance",
       "url": "https://open.spotify.com/track/6LGbYF62eHtdQlK0UCkq2m"
@@ -4752,7 +4788,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 260446,
       "name": "Colours In My Head - Reimagined",
       "url": "https://open.spotify.com/track/1OwI04CumrbSa3BAT7zxNe"
@@ -5204,7 +5240,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 170501,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/2KlpiqavcINb8DaNR4mlxc"
@@ -8368,6 +8404,24 @@
       "duration_ms": 178890,
       "name": "Find My Way To You",
       "url": "https://open.spotify.com/track/1uTWuhwyZVLHxrBwn732FN"
+    },
+    {
+      "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/69yBujeTPGK2rC2qFcdS9X"
+      },
+      "artists": [
+        {
+          "name": "Sean Solomon",
+          "url": "https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200293,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/4tGVYB2GmhidTUN7hv6Rwt"
     },
     {
       "album": {
@@ -12112,7 +12166,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 271318,
       "name": "I Think I Preferred The Question",
       "url": "https://open.spotify.com/track/3x5y20gf4hrQ1gHS3KrWns"
@@ -12462,7 +12516,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 203333,
       "name": "If You Know Me",
       "url": "https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL"
@@ -14186,7 +14240,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 199679,
       "name": "Let 'Em Go",
       "url": "https://open.spotify.com/track/4nBtsK1aqOGnd1Te6Aaizc"
@@ -15988,6 +16042,28 @@
       "duration_ms": 241552,
       "name": "Memory Palace",
       "url": "https://open.spotify.com/track/60wYARCUwuFlDHumkWOIv7"
+    },
+    {
+      "album": {
+        "name": "Mercy on the Skyline",
+        "url": "https://open.spotify.com/album/3UQcepdvrX3mnYHcCbQML2"
+      },
+      "artists": [
+        {
+          "name": "Noah Derksen",
+          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
+        },
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282341,
+      "name": "Mercy on the Skyline",
+      "url": "https://open.spotify.com/track/7MZlYIv52fVAEN9voOhCKV"
     },
     {
       "album": {
@@ -18159,6 +18235,24 @@
     },
     {
       "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/4YfEuKXW6YOH78loY9OSFh"
+      },
+      "artists": [
+        {
+          "name": "Sam Weber",
+          "url": "https://open.spotify.com/artist/5S7A3k8YvGhc78LKeqe8gl"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279640,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/58OXRaVJvx3tZyrQK40gpz"
+    },
+    {
+      "album": {
         "name": "Oh No! (Edit)",
         "url": "https://open.spotify.com/album/1bRxGv1rHtNJmVb6pOXHkv"
       },
@@ -19422,7 +19516,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 208720,
       "name": "Photograph of a Cyclone",
       "url": "https://open.spotify.com/track/23FYMYQwvk7tYATcPe3EfE"
@@ -19574,6 +19668,24 @@
       "duration_ms": 222920,
       "name": "Pine",
       "url": "https://open.spotify.com/track/0a3SUkWh13mUx6mh2Lg2mq"
+    },
+    {
+      "album": {
+        "name": "Pink Living Room",
+        "url": "https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236739,
+      "name": "Pink Living Room",
+      "url": "https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar"
     },
     {
       "album": {
@@ -19772,7 +19884,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 210915,
       "name": "Portland, Maine (feat. Jordan Davis)",
       "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
@@ -21865,6 +21977,24 @@
     },
     {
       "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/4PnsPNH41o40lO1TjXZufB"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193146,
+      "name": "Silver Wave",
+      "url": "https://open.spotify.com/track/5dsWR4AuIjIVi5DWj7slaB"
+    },
+    {
+      "album": {
         "name": "Sing Me a Song",
         "url": "https://open.spotify.com/album/5qccHZQbxaKW0rlUz8N37y"
       },
@@ -22234,6 +22364,28 @@
       "duration_ms": 196560,
       "name": "So Far Gone (feat. Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/2ttemPsvqBdA8ItME6DCbL"
+    },
+    {
+      "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/4TS5qTWNuLDV8z37LvLltE"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        },
+        {
+          "name": "Pharis Romero",
+          "url": "https://open.spotify.com/artist/77uiRXIgPWA1Bn1QNfcB7c"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260480,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/4lexNzOyQF52GSgeBiH2jr"
     },
     {
       "album": {
@@ -22848,6 +23000,24 @@
       "duration_ms": 207928,
       "name": "Spring Bug",
       "url": "https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6"
+    },
+    {
+      "album": {
+        "name": "Stand-Up Woman",
+        "url": "https://open.spotify.com/album/5i3RXx1VMRSlNJ9fyvTuiV"
+      },
+      "artists": [
+        {
+          "name": "Mia Kelly",
+          "url": "https://open.spotify.com/artist/3QvVwM4jqnOtzctJZr2Bch"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205804,
+      "name": "Stand-Up Woman",
+      "url": "https://open.spotify.com/track/0qxsNDeLFjfynBD8j8zWk5"
     },
     {
       "album": {
@@ -23878,6 +24048,24 @@
       "duration_ms": 158117,
       "name": "tangerine!",
       "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
+    },
+    {
+      "album": {
+        "name": "So The Sun Can Pour",
+        "url": "https://open.spotify.com/album/2FJNdtergBuQ1q2qOo5IBe"
+      },
+      "artists": [
+        {
+          "name": "Hayden Everett",
+          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255395,
+      "name": "Taylor",
+      "url": "https://open.spotify.com/track/49Ya4VAhgiUgABC0XnDhOE"
     },
     {
       "album": {
@@ -27774,6 +27962,24 @@
       "duration_ms": 170586,
       "name": "Whiskey Angel",
       "url": "https://open.spotify.com/track/4dkJAQlRswrkaapPJcOfys"
+    },
+    {
+      "album": {
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/2uB5nyQCsFejw9e0cpzlVm"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/1Lk4rIjW0TcZ0KGTClWsPE"
     },
     {
       "album": {

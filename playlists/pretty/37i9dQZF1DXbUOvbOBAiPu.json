@@ -1,6 +1,6 @@
 {
   "description": "New music from Camille Yembe, The Strokes, Lady Gaga x Doechii, Gradur x Ninho and more...",
-  "num_followers": 49918,
+  "num_followers": 50091,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
       "duration_ms": 213241,
       "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
+    },
+    {
+      "added_at": "2026-04-16 22:02:51",
+      "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
     },
     {
       "added_at": "2026-04-16 22:02:51",
@@ -800,8 +816,8 @@
           "url": "https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 163809,
+      "name": "taille mannequin",
       "url": "https://open.spotify.com/track/50MHFINeWYGYiWugL7JVuY"
     },
     {
@@ -1299,7 +1315,7 @@
     {
       "added_at": "2026-04-16 22:02:51",
       "album": {
-        "name": "GEPETO",
+        "name": "GEPPETTO",
         "url": "https://open.spotify.com/album/7nlxJzhMMqsb2F7ppj9ssK"
       },
       "artists": [
@@ -1309,7 +1325,7 @@
         }
       ],
       "duration_ms": 148732,
-      "name": "GEPETO",
+      "name": "GEPPETTO",
       "url": "https://open.spotify.com/track/3Wa5JhMz7omPtv9jUPPjNH"
     },
     {

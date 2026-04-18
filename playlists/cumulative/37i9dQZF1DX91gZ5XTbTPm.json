@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Skilla Baby and 42 Dugg",
+  "description": "The Midwest is always on time. Cover: Sexyy Red",
   "name": "CST",
   "tracks": [
     {
@@ -3001,6 +3001,28 @@
     },
     {
       "album": {
+        "name": "Bappin (Freestyle)",
+        "url": "https://open.spotify.com/album/3qYc6EyufTic1W6UtTl6Ch"
+      },
+      "artists": [
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        },
+        {
+          "name": "DJ Pharris",
+          "url": "https://open.spotify.com/artist/3HGmrfO5u74WgnYN3wmfdQ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136579,
+      "name": "Bappin (Freestyle) (with DJ Pharris)",
+      "url": "https://open.spotify.com/track/250ocJsuI4FFL5lJ5Dk0r9"
+    },
+    {
+      "album": {
         "name": "The Party Never Ends 2.0",
         "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
       },
@@ -3968,7 +3990,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 236434,
       "name": "Blow Your Advance",
       "url": "https://open.spotify.com/track/3zZRn6uetoMYmbCZtIS0NJ"
@@ -16491,6 +16513,24 @@
     },
     {
       "album": {
+        "name": "Mental",
+        "url": "https://open.spotify.com/album/6zBsZN1rqnnDuvdk1rFF0p"
+      },
+      "artists": [
+        {
+          "name": "YFG FATSO",
+          "url": "https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192592,
+      "name": "Mental",
+      "url": "https://open.spotify.com/track/4z1EMObA8dj4ZzjEvFHepu"
+    },
+    {
+      "album": {
         "name": "MIAMI FLOW",
         "url": "https://open.spotify.com/album/4UH4awceaxhge9M57poy3T"
       },
@@ -16896,7 +16936,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 163299,
       "name": "Monetize",
       "url": "https://open.spotify.com/track/4uUxaK8VZTyTk9QTWDHlB4"
@@ -18588,6 +18628,24 @@
       "duration_ms": 165392,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/34cEqOnaJRikAuS8fijvZk"
+    },
+    {
+      "album": {
+        "name": "Nobody Dere",
+        "url": "https://open.spotify.com/album/5vP59JeR5Y9cbFiPH6njtW"
+      },
+      "artists": [
+        {
+          "name": "Luhh Dyl",
+          "url": "https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175058,
+      "name": "Nobody Dere",
+      "url": "https://open.spotify.com/track/3ggb8DQmrFysyWdmyJ0ckp"
     },
     {
       "album": {
@@ -21342,6 +21400,28 @@
       "duration_ms": 198297,
       "name": "Rabies (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/7lIk3q0MT5hxtetX9ueIFu"
+    },
+    {
+      "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173806,
+      "name": "Rackies (feat. ATL Jacob)",
+      "url": "https://open.spotify.com/track/0UcuymskcvzMYexnJiVBmd"
     },
     {
       "album": {
@@ -27738,7 +27818,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 149608,
       "name": "Till Den",
       "url": "https://open.spotify.com/track/7939C5vP46XpoaHgxqR7Zh"
@@ -28822,7 +28902,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 148633,
       "name": "U or Me",
       "url": "https://open.spotify.com/track/3b0MgTX4FH5KRi0mm3nlCV"
@@ -29226,7 +29306,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 160009,
       "name": "Wack 'Em",
       "url": "https://open.spotify.com/track/7vRlf8jNeRQQORDKw5a2tn"
@@ -31166,6 +31246,28 @@
       "duration_ms": 214823,
       "name": "YN'S",
       "url": "https://open.spotify.com/track/7EIdkR9lGbCcdmfwp2tDGI"
+    },
+    {
+      "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235742,
+      "name": "Yop (U Wit A Star) (feat. Metro Boomin)",
+      "url": "https://open.spotify.com/track/18PAZ96x24huoahKbzFvdd"
     },
     {
       "album": {

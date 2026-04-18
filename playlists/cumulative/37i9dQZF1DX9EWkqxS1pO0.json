@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Dila Uzun",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: OD Band",
   "name": "Ke\u015fif",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 130714,
       "name": "4AM IST",
       "url": "https://open.spotify.com/track/4RH68GIWehSJXXF7pzsueV"
+    },
+    {
+      "album": {
+        "name": "8.10 Vapuru",
+        "url": "https://open.spotify.com/album/6sJgTaExup6zv2aNbC5hT4"
+      },
+      "artists": [
+        {
+          "name": "Ufuk L\u00fcker",
+          "url": "https://open.spotify.com/artist/08z50NnXa3xZlz0yhJtF9K"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207048,
+      "name": "8.10 Vapuru",
+      "url": "https://open.spotify.com/track/76VAkfk8ECw0FrBSZ714ns"
     },
     {
       "album": {
@@ -160,7 +178,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 181894,
       "name": "Ah\u0131m Olsun",
       "url": "https://open.spotify.com/track/73ZR1sekgo3fROlSSgfFug"
@@ -2150,7 +2168,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 168535,
       "name": "D\u00fc\u015fman De\u011filiz",
       "url": "https://open.spotify.com/track/4hiqQu67ZNPtL1RjDx3PFs"
@@ -3145,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "Nim",
+        "url": "https://open.spotify.com/album/2QzSlCKqc3PA3QJXG10NGX"
+      },
+      "artists": [
+        {
+          "name": "Deyim Yerindeyse",
+          "url": "https://open.spotify.com/artist/2JGVad7QxMqyZzI0GhlJ1P"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238124,
+      "name": "\u0130ki Buz",
+      "url": "https://open.spotify.com/track/01vublxkWMotaDh7LCgd04"
+    },
+    {
+      "album": {
         "name": "\u0130nsan Sanm\u0131\u015ft\u0131m Seni",
         "url": "https://open.spotify.com/album/012t7ZnX1FkafamtZxTwiW"
       },
@@ -3250,6 +3286,24 @@
       "duration_ms": 184235,
       "name": "\u0130yi Bilirsin",
       "url": "https://open.spotify.com/track/6DGN33TDClN9geoathxgmF"
+    },
+    {
+      "album": {
+        "name": "\u0130zlerim",
+        "url": "https://open.spotify.com/album/0Ytzk1Gaw628FXQR4tJOn1"
+      },
+      "artists": [
+        {
+          "name": "OD Band",
+          "url": "https://open.spotify.com/artist/4jT7a6Eq3mnAxfboEQLvzL"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244816,
+      "name": "\u0130zlerim",
+      "url": "https://open.spotify.com/track/60aYyHOqGlZIb4V8YzO77Y"
     },
     {
       "album": {
@@ -3545,6 +3599,24 @@
     },
     {
       "album": {
+        "name": "Kes",
+        "url": "https://open.spotify.com/album/5W6exc9dSsVEsoKxFyYHwZ"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcner K\u00fcnier",
+          "url": "https://open.spotify.com/artist/1R3ze0S5sCH3Hz9HXGxyk0"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197470,
+      "name": "Kes",
+      "url": "https://open.spotify.com/track/3uJh4SvyVFG9P8uZBLiV5g"
+    },
+    {
+      "album": {
         "name": "Ke\u015fke",
         "url": "https://open.spotify.com/album/0AR8NqHIqblQXnedF3sOaD"
       },
@@ -3686,7 +3758,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 160500,
       "name": "kurutmu\u015fsun g\u00fclleri",
       "url": "https://open.spotify.com/track/7rtzpqq8Ppmf4A7XpXjET9"
@@ -4852,7 +4924,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 226234,
       "name": "Sevgilim Beni Affet",
       "url": "https://open.spotify.com/track/3E3ausTrcU9zkSxYYD3dim"

@@ -1,13 +1,29 @@
 {
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Elena Rose y Alleh",
-  "num_followers": 68240,
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Maca y Gero",
+  "num_followers": 68244,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFdjqfNosw7O0RYyMxUIKv8IW/gh",
+  "snapshot_id": "AAAAACA/qru8i+2gY4w+7yrj/WVf1YFM",
   "tracks": [
+    {
+      "added_at": "2026-04-17 04:59:27",
+      "album": {
+        "name": "Lo Que Queda En El Aire",
+        "url": "https://open.spotify.com/album/6AkiAuBKXri22573T23r9E"
+      },
+      "artists": [
+        {
+          "name": "Maca & Gero",
+          "url": "https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV"
+        }
+      ],
+      "duration_ms": 185374,
+      "name": "Cada 12 Horas",
+      "url": "https://open.spotify.com/track/3C5HoJa6qd800P5Q2ICrcr"
+    },
     {
       "added_at": "2026-03-27 04:59:28",
       "album": {
@@ -29,36 +45,20 @@
       "url": "https://open.spotify.com/track/6Og7yuXfE5KyE8dSHU8yap"
     },
     {
-      "added_at": "2026-03-06 04:59:28",
+      "added_at": "2026-04-17 15:14:49",
       "album": {
-        "name": "Muchas (MUCHAS) gracias",
-        "url": "https://open.spotify.com/album/5cQiuS0mh4pvXGhCNqrGrS"
+        "name": "Las Flores",
+        "url": "https://open.spotify.com/album/4rYkjbia1gDi2BUi4dIY01"
       },
       "artists": [
         {
-          "name": "Laura Mar\u00e9",
-          "url": "https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 133411,
-      "name": "Muchas (MUCHAS) gracias",
-      "url": "https://open.spotify.com/track/21WqnTphjylRyrdnVyRk1S"
-    },
-    {
-      "added_at": "2026-01-30 04:59:23",
-      "album": {
-        "name": "al romper la burbuja 2",
-        "url": "https://open.spotify.com/album/0laGuJ1xeprihqPkexp5PB"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 205084,
-      "name": "torpe",
-      "url": "https://open.spotify.com/track/2NCV9stP4wBkIi7QsKcyJG"
+      "duration_ms": 179980,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/4uRYuPIcuRedAHptdTaF3L"
     },
     {
       "added_at": "2026-03-13 15:22:43",
@@ -77,20 +77,60 @@
       "url": "https://open.spotify.com/track/5T9WsAmro0KoNqdGE8a19f"
     },
     {
-      "added_at": "2026-01-30 04:59:23",
+      "added_at": "2026-04-17 04:59:27",
       "album": {
-        "name": "Deber\u00eda Ser Yo",
-        "url": "https://open.spotify.com/album/272ZhTo8R6fUWDgAbp1wOi"
+        "name": "(enamorada)",
+        "url": "https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7"
       },
       "artists": [
         {
-          "name": "Maca & Gero",
-          "url": "https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV"
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
         }
       ],
-      "duration_ms": 166730,
-      "name": "Deber\u00eda Ser Yo",
-      "url": "https://open.spotify.com/track/1XufZGKFoECAFOFc9BGIkd"
+      "duration_ms": 241704,
+      "name": "(ENAMORADA)",
+      "url": "https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk"
+    },
+    {
+      "added_at": "2026-03-06 04:59:28",
+      "album": {
+        "name": "Muchas (MUCHAS) gracias",
+        "url": "https://open.spotify.com/album/5cQiuS0mh4pvXGhCNqrGrS"
+      },
+      "artists": [
+        {
+          "name": "Laura Mar\u00e9",
+          "url": "https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO"
+        }
+      ],
+      "duration_ms": 133411,
+      "name": "Muchas (MUCHAS) gracias",
+      "url": "https://open.spotify.com/track/21WqnTphjylRyrdnVyRk1S"
+    },
+    {
+      "added_at": "2026-03-26 18:25:59",
+      "album": {
+        "name": "ASTROPICAL",
+        "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "ASTROPICAL",
+          "url": "https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz"
+        }
+      ],
+      "duration_ms": 219221,
+      "name": "Brinca (Acuario)",
+      "url": "https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx"
     },
     {
       "added_at": "2026-03-26 18:25:59",
@@ -131,30 +171,6 @@
       "duration_ms": 180340,
       "name": "Me Toca A M\u00ed",
       "url": "https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U"
-    },
-    {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
-        "name": "ASTROPICAL",
-        "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "ASTROPICAL",
-          "url": "https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz"
-        }
-      ],
-      "duration_ms": 219221,
-      "name": "Brinca (Acuario)",
-      "url": "https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx"
     },
     {
       "added_at": "2026-03-26 18:25:59",
@@ -569,26 +585,6 @@
       "url": "https://open.spotify.com/track/5yyfFBIoO5KwYd5yJ90VKf"
     },
     {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
-        "name": "LA CIUDAD",
-        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
-    },
-    {
       "added_at": "2026-01-30 04:59:23",
       "album": {
         "name": "Querida Yo",
@@ -623,26 +619,6 @@
       "duration_ms": 193342,
       "name": "\u00bfEs En Serio?",
       "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
-    },
-    {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
-        "name": "Lejos de la Ciudad (con Camilo)",
-        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 187358,
-      "name": "Lejos de la Ciudad - con Camilo",
-      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
     },
     {
       "added_at": "2026-03-26 18:25:59",
@@ -995,22 +971,6 @@
     {
       "added_at": "2026-03-26 18:25:59",
       "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 216752,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
-    },
-    {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
         "name": "AMOR",
         "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
       },
@@ -1179,22 +1139,6 @@
       "duration_ms": 215600,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
-    },
-    {
-      "added_at": "2026-01-30 04:59:23",
-      "album": {
-        "name": "Me Lo Merezco",
-        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 172124,
-      "name": "Me Lo Merezco",
-      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
     },
     {
       "added_at": "2026-03-26 18:25:59",

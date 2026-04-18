@@ -1449,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Crystal Horizon",
+        "url": "https://open.spotify.com/album/1hyxiJfzGCDGjtCc9b0Gnc"
+      },
+      "artists": [
+        {
+          "name": "Siljann",
+          "url": "https://open.spotify.com/artist/0AvPkMDg6bdQlUQ3Nn07cF"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142502,
+      "name": "Crystal Horizon",
+      "url": "https://open.spotify.com/track/3szB1TNhdC9dSBdWsQcF4M"
+    },
+    {
+      "album": {
         "name": "Cultivating Stillness",
         "url": "https://open.spotify.com/album/2eyQMIw9DxLgA5w2DW5XSL"
       },
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 154749,
       "name": "Evening Waves",
       "url": "https://open.spotify.com/track/3qfv2OFBqpSDGBFxVjrSgB"
@@ -2876,6 +2894,24 @@
       "duration_ms": 169896,
       "name": "In Cycles",
       "url": "https://open.spotify.com/track/5vjKJnFZGJf3f1slK57JNp"
+    },
+    {
+      "album": {
+        "name": "In Every Moment",
+        "url": "https://open.spotify.com/album/3faIy4Envd3r03W5JjfM51"
+      },
+      "artists": [
+        {
+          "name": "Slepth",
+          "url": "https://open.spotify.com/artist/3sKO7LRCv1v7joHE7Hpbql"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "In Every Moment",
+      "url": "https://open.spotify.com/track/2vVtOpHGRJCEcIr8VP0S8s"
     },
     {
       "album": {
@@ -3790,7 +3826,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 303546,
       "name": "My Life",
       "url": "https://open.spotify.com/track/75ovDWR2daEUvICb8585dy"
@@ -4006,7 +4042,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 199500,
       "name": "Night Vision",
       "url": "https://open.spotify.com/track/2fRzBSbWD0BPCZy8KXc5IT"
@@ -5454,7 +5490,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 184152,
       "name": "Shared Values - Radio Edit",
       "url": "https://open.spotify.com/track/7FuqfvRhw7HzB5iPLZqPa2"
@@ -6102,7 +6138,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 133624,
       "name": "Splendiferous",
       "url": "https://open.spotify.com/track/4R0DjdmE9sHEZ9ephvGrcQ"
@@ -6318,7 +6354,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 221113,
       "name": "Surrender to Love - Radio Edit",
       "url": "https://open.spotify.com/track/2SbiRVhCTfBxHwnUU5xZaD"
@@ -6822,7 +6858,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 194880,
       "name": "Tylus",
       "url": "https://open.spotify.com/track/4J3CD4dqguRr2C827Yq7Aw"

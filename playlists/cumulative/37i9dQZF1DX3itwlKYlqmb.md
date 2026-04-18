@@ -2,9 +2,9 @@
 
 ### [Pasito Sierreño](https://open.spotify.com/playlist/37i9dQZF1DX3itwlKYlqmb)
 
-> De está sierra a la otra sierra se divisa <br/>San José\. En portada: Los Alegres de la Sierra
+> De está sierra a la otra sierra se divisa <br/>San José\. En portada: Román De Los Reyes
 
-547 songs - 1 day 6 hr 0 min
+551 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,10 +155,11 @@
 | [El Borracho](https://open.spotify.com/track/0YRSWkOFtnRDHHtUFIiURL) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Corridos](https://open.spotify.com/album/4itbhtcdGhGhYPkfIp2jXW) | 2:22 | 2025-06-11 | 2025-10-25 |
 | [El Botecito](https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [El Botecito](https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP) | 2:30 | 2023-01-16 | 2023-12-05 |
 | [El Cadete \(En Vivo\)](https://open.spotify.com/track/26nU6cPZ186mbLwM3kmRj3) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [Puras de Laberinto \(En Vivo\)](https://open.spotify.com/album/6gXFZR2fH5bMr589xkrv1i) | 4:02 | 2025-10-24 |  |
+| [EL Celular](https://open.spotify.com/track/0YULTqV7NAO69PsWXwWbsL) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [EL Celular](https://open.spotify.com/album/3z6bndczkuq0R1OpcohJrw) | 2:51 | 2026-04-17 |  |
 | [El Chico Del Apartamento 512](https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:28 | 2023-01-16 | 2024-01-09 |
 | [El Chulo \(En Vivo\)](https://open.spotify.com/track/1M47DXCg94CjWdurQ5Eyeu) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [Puras de Laberinto \(En Vivo\)](https://open.spotify.com/album/6gXFZR2fH5bMr589xkrv1i) | 2:32 | 2025-10-24 |  |
 | [El Cisne](https://open.spotify.com/track/71xjYnpAwlop77mvcVeIUc) | [Los Alteños De La Sierra](https://open.spotify.com/artist/5C4JSfm4IJsyqrngMh1iPK) | [30 Exitos Serie de Diamante, Vol\. 4](https://open.spotify.com/album/2DI0cNEe5EAvhevmraGlpJ) | 3:16 | 2025-10-24 |  |
-| [El Columpio](https://open.spotify.com/track/3oZp7J4bwzzCnsDWejOy2t) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [Suerte He Tenido](https://open.spotify.com/album/13uRlfKliCNUGJ3i6JEzgG) | 4:29 | 2025-10-24 |  |
+| [El Columpio](https://open.spotify.com/track/3oZp7J4bwzzCnsDWejOy2t) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [Suerte He Tenido](https://open.spotify.com/album/13uRlfKliCNUGJ3i6JEzgG) | 4:29 | 2025-10-24 | 2026-04-18 |
 | [El Correcto](https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Correcto](https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH) | 2:48 | 2024-01-08 | 2024-03-02 |
 | [El Enamorado](https://open.spotify.com/track/0CcFhIRRW468bAlAwD9FFs) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 2:34 | 2025-06-11 | 2025-10-25 |
 | [El Florero](https://open.spotify.com/track/6mTkdoQ3HKqTK9oGqJbiY6) | [Los Sierreños De Sinaloa](https://open.spotify.com/artist/591DfPGLZ9Q9fWLrRIbSJn) | [Se Solicita Personal](https://open.spotify.com/album/3bX1uCqj9h06cSCQ9PE8Ap) | 2:49 | 2025-10-24 |  |
@@ -266,6 +267,8 @@
 | [La Gripa](https://open.spotify.com/track/2w768HOLmKCRdVTO65oONx) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [La Gripa](https://open.spotify.com/album/1NYnNjUrtHVlcjXGqtpt8f) | 2:23 | 2025-06-11 | 2025-10-25 |
 | [La Guerita](https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Guerita](https://open.spotify.com/album/2LcCq1U716IqmlzlwSLAct) | 3:04 | 2024-05-14 | 2024-09-19 |
 | [La Iguana \- Version Ranchera](https://open.spotify.com/track/4D1CgTdbnMXcV8YuuJwa1t) | [Los Alteños De La Sierra](https://open.spotify.com/artist/5C4JSfm4IJsyqrngMh1iPK) | [La Iguana](https://open.spotify.com/album/2dk85Srmd9lUhPQ7u4AoqG) | 2:23 | 2025-10-24 |  |
+| [LA LAMPARA](https://open.spotify.com/track/5Ph4MjSnorEkgNWt5BDKYm) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [DESDE LA OFI](https://open.spotify.com/album/6Mz8g9QhFZCdKHKKGIkitS) | 4:52 | 2026-04-17 |  |
+| [La Loteria](https://open.spotify.com/track/5G7J0l1Q1IJC3SQa92YEtk) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF), [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [La Loteria](https://open.spotify.com/album/25sYpaIHVgrQD9Bxp4a7Zl) | 3:10 | 2026-04-17 |  |
 | [La Lámpara](https://open.spotify.com/track/1Kdl4dgQeoTFE1B6KBaclB) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Puro Che Rios Oiga](https://open.spotify.com/album/0RpKcuhlypb45ragJxcPDD) | 3:03 | 2025-10-24 |  |
 | [La Mas Bonita De Todas](https://open.spotify.com/track/3hLptR1bKh5ZAqtCryajNY) | [Los Alteños De La Sierra](https://open.spotify.com/artist/5C4JSfm4IJsyqrngMh1iPK) | [Ultimas Noticias](https://open.spotify.com/album/4s3BTX3ekS3FJEBPUYhQfM) | 2:52 | 2025-10-24 |  |
 | [La Mas Bonita De Todas](https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 3:29 | 2025-10-24 |  |
@@ -376,6 +379,7 @@
 | [Nunca Mas Podre Olvidarte](https://open.spotify.com/track/5zFht1M7BWLIaLCbSOKrrg) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [15 Exitos](https://open.spotify.com/album/4YkSWaoEXIa5M5L5eBq1MC) | 2:43 | 2025-10-24 |  |
 | [Nunca Mas Podre Olvidarte](https://open.spotify.com/track/35hJS6BWu1hIAnMaB4jhn0) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Mis Favoritas Del Sierreño](https://open.spotify.com/album/2jWWpLlVMpVTRnM9oIa9i7) | 2:41 | 2025-10-24 |  |
 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 | 2023-12-04 | 2025-06-12 |
+| [Obscuridad](https://open.spotify.com/track/5OXJene3gtawDjrWLbxzeI) | [Los Meros Meros De La Sierra](https://open.spotify.com/artist/6Y6fEyJFUrmXDLYfHAq1La) | [Obscuridad](https://open.spotify.com/album/1RInSjzPEdPoQkz0CBk72N) | 3:19 | 2026-04-17 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2023-01-16 | 2024-09-19 |
 | [Ojo X Ojo](https://open.spotify.com/track/0W4yC1CrhJVQCpcFrB6oGU) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Ojo X Ojo](https://open.spotify.com/album/3z2e4ob5NdNuKyyGhOgB5W) | 3:01 | 2024-01-08 | 2024-03-02 |
 | [Ojos Verdes](https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:57 | 2023-01-16 | 2025-06-12 |

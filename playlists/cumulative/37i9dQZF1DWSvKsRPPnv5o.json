@@ -6769,6 +6769,32 @@
     },
     {
       "album": {
+        "name": "SYNY 3 ACT III",
+        "url": "https://open.spotify.com/album/4HGO4xsnxiXdUylihPjTUB"
+      },
+      "artists": [
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        },
+        {
+          "name": "OVRKST",
+          "url": "https://open.spotify.com/artist/2KN7u9XRAo6wlZag0iQYK2"
+        },
+        {
+          "name": "Igwe Aka",
+          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78794,
+      "name": "CONTEXT CLUE",
+      "url": "https://open.spotify.com/track/4SXpvUja1RZJIR8ls8elIb"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/6kaR3V58Zeg0kBOMFQjAmx"
       },
@@ -25890,7 +25916,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 174649,
       "name": "SAD CITY",
       "url": "https://open.spotify.com/track/4KnkCsZeEZSCisKCV3V57T"
@@ -28748,6 +28774,24 @@
       "duration_ms": 142821,
       "name": "Strange Ways",
       "url": "https://open.spotify.com/track/6cCr4322AW8708Af5VL60d"
+    },
+    {
+      "album": {
+        "name": "While Y'all Wait",
+        "url": "https://open.spotify.com/album/59Q7UtDMOgMRRxXoltnfTw"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195941,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/593fLceKvKYdySkrBkk0dQ"
     },
     {
       "album": {

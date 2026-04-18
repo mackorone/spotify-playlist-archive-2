@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 63 songs - 3 hr 33 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 72 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,5 +71,14 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 61 | [Never Real](https://open.spotify.com/track/28sDuFjlwBhCiqg6yxf8sB) | [Tarsik](https://open.spotify.com/artist/2530s2wwvLVcrdDZHMR0vE) | [Never Real](https://open.spotify.com/album/22UJOFtqbf8uBTIpEDbjqA) | 4:17 |
 | 62 | [White Line](https://open.spotify.com/track/1xbQ2wpt4m8n9EaRabQ0au) | [Vinyl Arch Rodeo](https://open.spotify.com/artist/6dUpuhgr9qyVooQ8bNI35H) | [Herodotus](https://open.spotify.com/album/7rXX3Aa51XP0lCBpXyRJdT) | 4:33 |
 | 63 | [X88B88](https://open.spotify.com/track/3Z0Q4Bvun8AtZnezG0ipZF) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [X88B88](https://open.spotify.com/album/2N8NZAtzbYwrMt3Fm2EtEo) | 2:56 |
+| 64 | [Have Your Say](https://open.spotify.com/track/5G0y8rEfDcnsT6MyxquLmn) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [Have Your Say](https://open.spotify.com/album/3sJgNrX4tRIJlI4wJpVzNh) | 2:57 |
+| 65 | [starbound](https://open.spotify.com/track/2lrsKVxuYrmodpdmNhnsOd) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [starbound](https://open.spotify.com/album/08OpQIuyaFZftKaf9r1FuK) | 3:04 |
+| 66 | [Way Back When](https://open.spotify.com/track/2vgyU6ZF9kBl2F1IjJL3pM) | [Hugh James Hardman](https://open.spotify.com/artist/0mealHl6nJ088L73CjJjO0) | [Black & White World](https://open.spotify.com/album/5bdhtvziRwH9V4F8evKFwS) | 3:57 |
+| 67 | [Yes I Can](https://open.spotify.com/track/0gqAbfeygrSgMrCiiyH1FK) | [Corinne Cook](https://open.spotify.com/artist/0T6E8iD2LpBY1wBzxsIbCA) | [Yes I Can](https://open.spotify.com/album/49OoChDqql0vAqyr5XAFlL) | 3:30 |
+| 68 | [Infinito](https://open.spotify.com/track/5K4JUd244XjzQLWfmiaTmS) | [Andrés Zapata](https://open.spotify.com/artist/3EVyrf1OgXe8woUNY6fbdO), [Daniela Garzon](https://open.spotify.com/artist/57VooYaAoRCGzc6AuRcIqj) | [Infinito](https://open.spotify.com/album/0JerWmlIVL40BX3uDukQSF) | 4:32 |
+| 69 | [Capgras](https://open.spotify.com/track/0GnM2MsysrU25aZEhSnnKV) | [Alano](https://open.spotify.com/artist/67pd5kQwnJqJELrkUSI1w2) | [Capgras](https://open.spotify.com/album/7fves1lJ4iWUrebac0Ygg1) | 3:38 |
+| 70 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 |
+| 71 | [jealousy misery](https://open.spotify.com/track/0x2N0M44PqRv2Dx4YtYJSy) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [Hush](https://open.spotify.com/album/3D6Dnsu11iFwDWIUoB1GUJ) | 2:47 |
+| 72 | [More](https://open.spotify.com/track/14aDPcz6whbi82MtqIGSAZ) | [Alanna Sterling](https://open.spotify.com/artist/6gfQSJ07CJAEvOwKz4sX2f) | [More](https://open.spotify.com/album/5iAMFLHajNIwWxFJh0iA0E) | 3:42 |
 
-Snapshot ID: `AAAOX5NY9G876INPjeHE/l5NSX0DBKXm`
+Snapshot ID: `AAAOaNdrdDSGBONmHHby4E08LNM6R3WO`

@@ -2,9 +2,9 @@
 
 ### [alt.rock](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 Winona Riders
+> rock alternativo argentino\. <br/>📷 RYAN
 
-320 songs - 18 hr 8 min
+325 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Amanece](https://open.spotify.com/track/4S2WsYzOnCpuXFTFP6vs8i) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Quietud](https://open.spotify.com/album/1EhRQbu7FuQ5HzSafgAMOI) | 3:35 | 2022-03-25 | 2025-10-25 |
 | [Amarnos](https://open.spotify.com/track/4GlJZmAfBesKa5xrY0I1rg) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [CRO9UIS](https://open.spotify.com/album/6pPaMqRFOp0JAEp5lDju7U) | 3:25 | 2022-03-25 | 2024-05-10 |
 | [Amarnos](https://open.spotify.com/track/6JMeRwLmGHjdelPQYF55mN) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Amarnos](https://open.spotify.com/album/5j7KJx5cEJAelHynrW7L0z) | 3:25 | 2023-03-31 | 2023-04-07 |
+| [AMIS](https://open.spotify.com/track/24tAh2Rn9gkk5aEl5DCElD) | [Señorita Novio](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [Fermín Irigoyen](https://open.spotify.com/artist/6iUCARgUPYbGD3sUSzxr9b) | [AMIS](https://open.spotify.com/album/7tBfRXD5UjkaIudtpTFhPo) | 2:00 | 2026-04-17 |  |
 | [Anita](https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Anita](https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy) | 2:51 | 2023-05-19 | 2025-10-25 |
 | [Aniversario Luctuoso](https://open.spotify.com/track/02FEgeTr1KvpMtgk2G40bi) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Comportamiento Errático](https://open.spotify.com/album/1a8yT9fS1ws8oxo0NrZKqc) | 3:38 | 2024-11-15 |  |
 | [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 | 2023-05-26 | 2025-11-21 |
@@ -146,6 +147,7 @@
 | [Guerrero Atípico](https://open.spotify.com/track/5JcF5s0zg7kpeEXg7Iwrgq) | [Camionero](https://open.spotify.com/artist/6mwXlhRao6ThMMjARoOTIc) | [Todo lo Sólido se Desvanece en el Aire](https://open.spotify.com/album/20ER5NM3DjvoJJGglffgwl) | 4:11 | 2025-11-14 |  |
 | [Hasta Siempre Amigo](https://open.spotify.com/track/2OhfXrj1TUxx6APfMwqHdN) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Hasta siempre amigo](https://open.spotify.com/album/4cKAM2P37tkDQFkx7J1mNz) | 3:25 | 2023-05-19 | 2025-10-25 |
 | [HC Disnei](https://open.spotify.com/track/7nozKIKtdSH48GSxQ2Kt6P) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Homogénica](https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt), [Lagrimitas](https://open.spotify.com/artist/6ciaCuNXH1oI9zNW0Wrm9a) | [HC Disnei](https://open.spotify.com/album/2W2jxvKviaq8lVRbkrJXRC) | 2:51 | 2025-04-18 | 2026-04-04 |
+| [Hermoso desastre](https://open.spotify.com/track/5XZI1mfoqDtGSOJKwanXxl) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Hermoso desastre](https://open.spotify.com/album/5JLx5GobXUJcikXTyAWuSw) | 3:16 | 2026-04-17 |  |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-03-25 | 2025-11-14 |
 | [Hienas](https://open.spotify.com/track/3Fcaiko1BbbviiIrCsSt9c) | [mamá glitch](https://open.spotify.com/artist/2wxT6SRtxESURlsXrfEeFn) | [Hienas](https://open.spotify.com/album/4RsFfIRqpNykovYJe5yKxF) | 4:26 | 2024-05-09 |  |
 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-03-25 | 2023-03-25 |
@@ -197,6 +199,7 @@
 | [Millones](https://open.spotify.com/track/3L1SRzZusiy1dV02HjIxVg) | [La Foca](https://open.spotify.com/artist/0pFNCx059c6q0VJwI0oFLF) | [Millones](https://open.spotify.com/album/209q6Mt9aQaZu2C1x6jwej) | 2:35 | 2022-03-25 | 2023-03-25 |
 | [Mirandonos](https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [El Encanto Del Fuego](https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97) | 4:02 | 2023-03-23 | 2023-06-03 |
 | [Miseria](https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX) | [THE COLORATED](https://open.spotify.com/artist/5TR49gppYqwHy7E6VHFUpK), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Miseria](https://open.spotify.com/album/6OvaaOohiSRpW9w9iJ0gAM) | 2:20 | 2022-03-25 | 2023-03-25 |
+| [Morfina](https://open.spotify.com/track/5tjOXv02KtdMLIAv35F3iv) | [Posguerra](https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf) | [Morfina](https://open.spotify.com/album/4J0CA7aRj6X2RM1tE8MgJq) | 2:40 | 2026-04-17 |  |
 | [Motivos](https://open.spotify.com/track/5sj8qsK8IC2U89ALnWEIEr) | [DOJO](https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG) | [Cuando Éramos Jóvenes](https://open.spotify.com/album/7tkNFeKcjqASwvTx05BNkw) | 3:33 | 2024-09-13 | 2026-04-04 |
 | [Mundo actual](https://open.spotify.com/track/5hiK6Jj3cbhAKbChvmBfr1) | [Sangre de Barro](https://open.spotify.com/artist/1nVPGomlqTNvWO6IrBE8uw) | [Sangre de Barro](https://open.spotify.com/album/5BfsTwWQa5S0FoJ2GiVtQs) | 2:03 | 2024-10-03 | 2026-04-04 |
 | [Muy Callados](https://open.spotify.com/track/0VHtYulrMYi562H5HcrjjT) | [Error Vanessa](https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF) | [Muy Callados](https://open.spotify.com/album/7qMY8uroz6XD9owsd9pvLC) | 3:09 | 2023-07-14 | 2025-03-15 |
@@ -227,6 +230,7 @@
 | [Oro y Barro](https://open.spotify.com/track/3n3nEclXD69K27BqpqjXHB) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC) | [Oro y Barro](https://open.spotify.com/album/15txAv95srdrDAPnK1Clcc) | 3:29 | 2023-03-23 | 2023-08-12 |
 | [Orquesta China](https://open.spotify.com/track/1MLx64q9VADddmBXP8DQ05) | [Clamor](https://open.spotify.com/artist/4LbaOuP0EEYLfOLQczfBLV) | [Para No Olvidarte](https://open.spotify.com/album/0s2J7yRCNDtiYC4pZNAXZL) | 3:30 | 2026-04-03 |  |
 | [Pagando de Más](https://open.spotify.com/track/4BMyL8QxN9W5jE4ia12l2G) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Barato Ideal](https://open.spotify.com/album/3vHJZa6kVgGjot5mgsjOUg) | 2:51 | 2024-02-02 | 2025-05-17 |
+| [Para Caer](https://open.spotify.com/track/4uQAlEBcRHiJNJ3sGuc0sh) | [Posguerra](https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf) | [Todos Extrańos](https://open.spotify.com/album/6TBirBFm2DtznOs4vcpm1m) | 3:42 | 2026-04-17 |  |
 | [Para Darte](https://open.spotify.com/track/4Rb8aadEFGLziAJKfnOpt3) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:07 | 2022-03-25 | 2023-03-25 |
 | [Para Renacer \(Lado V\)](https://open.spotify.com/track/2ESsyrSEGGBscCSZL4HKfM) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Superstar / Para Renacer](https://open.spotify.com/album/1fXi7rF9qY5aabO0wtn78j) | 3:35 | 2022-03-25 | 2022-08-27 |
 | [Para Renacer \(Lado V\)](https://open.spotify.com/track/4jZDcaRTAESl4TMgXu35sL) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Superstar / Para Renacer](https://open.spotify.com/album/0xUtJQzRNWrQurHiYzXLF7) | 3:35 | 2022-03-25 | 2022-07-29 |
@@ -259,6 +263,7 @@
 | [Querido chico](https://open.spotify.com/track/3jyCGPvVavcRnvOMvlJOOO) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Querido chico](https://open.spotify.com/album/3Qh9uYKdwMnhZLXdI0BZsu) | 2:50 | 2025-11-21 |  |
 | [Qué me importa](https://open.spotify.com/track/24h868TwxJicgv2geeijAv) | [Pelopincho](https://open.spotify.com/artist/14V8tDnnDCXIVaJctOamBG) | [Loop Adolescente](https://open.spotify.com/album/1OGDMGGnVTOkj8NxpvMMMb) | 2:33 | 2022-03-25 | 2023-03-25 |
 | [Qué Más Puedo Hacer?](https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [El Club Audiovisual](https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ) | 2:52 | 2023-08-11 | 2024-03-23 |
+| [Qué Rocker](https://open.spotify.com/track/4DJZiHbEvr3qoGJcDHLxLZ) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Qué Rocker](https://open.spotify.com/album/3cnwciLwmd7auNlyFCrRVq) | 3:00 | 2026-04-17 |  |
 | [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 | 2024-09-13 | 2026-04-04 |
 | [Radio Jam](https://open.spotify.com/track/1H4hyPHLidWmoGXdvnKOkb) | [Samsara](https://open.spotify.com/artist/6VzEcHKJeWi4VweVa6VqYx) | [Radio Jam](https://open.spotify.com/album/6f9gIdFEfcK8tXg3gASMi5) | 2:54 | 2026-01-23 | 2026-03-28 |
 | [Regalos](https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM) | [Cometas](https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF) | [Regalos](https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO) | 3:30 | 2023-06-30 | 2026-04-04 |

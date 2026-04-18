@@ -205,6 +205,24 @@
     },
     {
       "album": {
+        "name": "BITTE LEBEN",
+        "url": "https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy"
+      },
+      "artists": [
+        {
+          "name": "Francamente",
+          "url": "https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "5 di mattina",
+      "url": "https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy"
+    },
+    {
+      "album": {
         "name": "5cm",
         "url": "https://open.spotify.com/album/4nU1cJTiDUmTp5bcNOIdAU"
       },
@@ -10338,24 +10356,6 @@
       "duration_ms": 182923,
       "name": "TORRE DI BABELE",
       "url": "https://open.spotify.com/track/77E6NrYw1wBVmHBiNQyoR0"
-    },
-    {
-      "album": {
-        "name": "BITTE LEBEN",
-        "url": "https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy"
-      },
-      "artists": [
-        {
-          "name": "Francamente",
-          "url": "https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts"
-        }
-      ],
-      "date_added": "2026-04-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy"
     },
     {
       "album": {

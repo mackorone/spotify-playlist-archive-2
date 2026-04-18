@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="sspotify:show:6GqaBGrJau17NofsIw9R1J">Ideas de Altura Podcast</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,996 likes - 9 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,997 likes - 9 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

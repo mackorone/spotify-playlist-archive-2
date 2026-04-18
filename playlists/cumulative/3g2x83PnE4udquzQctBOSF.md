@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-693 songs - 1 day 19 hr 34 min
+697 songs - 1 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [After the Echo](https://open.spotify.com/track/2H3g7RJOeQbha9i71Dri0d) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Parallel Skies: Future Garage & Cinematic Bass \(Vol\. 1\)](https://open.spotify.com/album/1zHuy0yhMHocAREenyzNIB) | 3:57 | 2026-03-22 |  |
 | [Afterlife \- Original Mix](https://open.spotify.com/track/7pc3t5Yr2VLcsdRGFLvqES) | [Bartolomeo Di Chiara](https://open.spotify.com/artist/79HWXwdfrEFu327dotcqph) | [Afterlife \(Original Mix\)](https://open.spotify.com/album/0jwgN7ICfDjn2KD2MCndMK) | 4:03 | 2026-04-05 |  |
 | [Afterparty](https://open.spotify.com/track/2LTenX3kElT3fN77CA4wMt) | [OMBRO](https://open.spotify.com/artist/651nuNscY3BP9sr0LFpPwo) | [Afterparty](https://open.spotify.com/album/409JzsQzbj6QxKu24FtSML) | 2:55 | 2023-04-30 | 2023-05-30 |
+| [All About House Music \- Radio Edit](https://open.spotify.com/track/6dYRfPjchXT6NLvldcDDbq) | [Frisk](https://open.spotify.com/artist/716qj6jI9jMErexGaIvShg), [Vix](https://open.spotify.com/artist/79qNDx4zUZkKyyKFL9Ndma) | [All About House Music](https://open.spotify.com/album/6TKrhFNpbKM946Nkcp4l53) | 3:42 | 2026-04-17 |  |
 | [All My Dogs](https://open.spotify.com/track/6VBvc1SHws6dNgVHNYRsVu) | [Felipe Fella](https://open.spotify.com/artist/4fINHdoufNssJ32yLC3NsK), [cesco.](https://open.spotify.com/artist/1KVp24r2N0WPNNa7HSh0OG) | [Welcome to Hell II](https://open.spotify.com/album/3CTcKWxnFO7AZtadH6rofz) | 3:15 | 2023-03-19 | 2023-04-10 |
 | [All Night](https://open.spotify.com/track/2Q9XnnbrJrg8Tx33vLgBxZ) | [Andrea Moricone](https://open.spotify.com/artist/5smRjMdumk9zNe6UQjc3eh), [Movha](https://open.spotify.com/artist/3NOBj57odsPGBoHI9Q2BrN) | [All Night](https://open.spotify.com/album/6Q7CQUEFmgnH6YXVoRHJjG) | 3:18 | 2026-01-28 | 2026-02-23 |
 | [All Night](https://open.spotify.com/track/0mrdtRdrp9W05nKuE2qFO6) | [Bellecour](https://open.spotify.com/artist/1PiNBMw3iIaG021gWeidUY), [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [All Night](https://open.spotify.com/album/6TlbQ4aXAwS1Iw55zm42jO) | 3:08 | 2023-04-23 | 2023-05-15 |
@@ -242,6 +243,7 @@
 | [Frikitona](https://open.spotify.com/track/0q9YhUuxm8G1UatNDgBAdh) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/7nsb4hMX1yb6GOILmcp7Kl) | 2:54 | 2023-07-16 | 2023-08-20 |
 | [FUKINASTY \- Sosa UK Remix](https://open.spotify.com/track/5h51uySGVxlfhhzBZKwCuT) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [DJ Rush](https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5) | [FUKINASTY \(Sosa UK Remix\)](https://open.spotify.com/album/1cTm7oPFuT83dYHuyje1Hy) | 3:00 | 2024-05-19 |  |
 | [Funk Soul Brother \- GENESI Edit](https://open.spotify.com/track/7LkfF06CRUFC5XqnURku9Z) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Funk Soul Brother \(GENESI Edit\)](https://open.spotify.com/album/55dSkmDjRxOBYIOmItBV2w) | 3:18 | 2023-11-05 | 2024-01-15 |
+| [FunkHouse](https://open.spotify.com/track/0UxAqy5Ux13ij3M6rXVU7g) | [Agigulf](https://open.spotify.com/artist/4rRPRX8WcOd8NRgtIiLwLT) | [FunkHouse](https://open.spotify.com/album/7077UOXPqNCpVRyxP5qy3R) | 4:11 | 2026-04-17 |  |
 | [Funky Piano](https://open.spotify.com/track/37SfQh73wu3wmOV3jOn2VJ) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Funky Piano](https://open.spotify.com/album/68tmrWsO43Ux4OVnl3PGn3) | 2:51 | 2022-01-14 | 2023-02-11 |
 | [FUSS](https://open.spotify.com/track/3SLQapJPV8hihiAkf0HJf8) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [FUSS](https://open.spotify.com/album/1nFPA7zFaBGln1pFSSOrqm) | 4:13 | 2023-08-06 | 2023-09-26 |
 | [Für Nimmer](https://open.spotify.com/track/73GKSqqeuhZgNweb48vqPl) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Für Nimmer](https://open.spotify.com/album/0P7b94OcydT0AQHFm9Quwa) | 3:19 | 2023-07-02 | 2023-08-09 |
@@ -642,6 +644,7 @@
 | [Turn Up Da Bassline](https://open.spotify.com/track/4Dodmdr8t9FVk183pBQ0gc) | [dillon nathaniel.](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Turn Up Da Bassline](https://open.spotify.com/album/5hgWXkwEEm8mJgU50BVZe8) | 3:11 | 2024-10-13 |  |
 | [Twentyk](https://open.spotify.com/track/3FNOkOASmP5RW1kws04Msv) | [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM) | [Break The Roof EP](https://open.spotify.com/album/5gxHkVyxMaMXsoZKcYfntZ) | 3:35 | 2023-12-10 | 2024-02-19 |
 | [Un vacío en el ser me dejaste](https://open.spotify.com/track/2v3K6Y1Z9SMhsapgvae9IU) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [House latino por un mundo mejor](https://open.spotify.com/album/5gsQQyh19aGYDGvNzfdY2K) | 3:48 | 2026-01-19 | 2026-02-23 |
+| [Under Your Spell](https://open.spotify.com/track/2CuDfzx7WixsjNHcH04Kae) | [PAWPAWTHEDAWG](https://open.spotify.com/artist/7AbDcmHZnaA3O5cIsQuyd1), [C.C](https://open.spotify.com/artist/21aRFxJp0YdjZOOsgeYmVB), [JAIMIE P](https://open.spotify.com/artist/7fqCJh3jRzdVI2tOCLrclq), [Slowed Remix DJ](https://open.spotify.com/artist/3enC2RjmMGO8UrWChmsx6R) | [Under Your Spell](https://open.spotify.com/album/3WtqEQEZqvhfVcowNem2SE) | 3:39 | 2026-04-18 |  |
 | [Unplug](https://open.spotify.com/track/1lMfEjN2aKjpGtapViabUo) | [White Off](https://open.spotify.com/artist/3YYih7Xf8yIMm6nm6r1j7N) | [Unplug EP](https://open.spotify.com/album/0hPx4gWeqLaZv3FouezDUK) | 3:27 | 2024-10-13 |  |
 | [Ur Soul](https://open.spotify.com/track/6Wo1JXT5HBSDwbuMwXboh1) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Ur Soul](https://open.spotify.com/album/2neMSzeB6NODYQ65h6jrx9) | 3:29 | 2024-03-24 | 2024-05-20 |
 | [Vado](https://open.spotify.com/track/5aUFH0IPjAdBQOpR0F1zQC) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Vado](https://open.spotify.com/album/2k8WSRAQ4zrQeMsfWrz9fz) | 2:36 | 2026-04-07 |  |
@@ -700,6 +703,7 @@
 | [Zane](https://open.spotify.com/track/5zJgHPRSPZAx4nWEv93WE5) | [Andrea Moricone](https://open.spotify.com/artist/5smRjMdumk9zNe6UQjc3eh) | [Zane](https://open.spotify.com/album/1owN0NwKWzWoNzmIrBD0D7) | 4:32 | 2025-12-19 | 2026-01-03 |
 | [Zed](https://open.spotify.com/track/6ve2DARqa8GFqpDBpYj65y) | [Laera](https://open.spotify.com/artist/66dGFhhv24QNwzclFPMlIz), [Henrik Voght](https://open.spotify.com/artist/2p3u5Wl9xYehO9QRwmnvTc) | [Zed](https://open.spotify.com/album/2Wjq0qdw3QQghtFWcH2zkS) | 4:05 | 2025-12-14 | 2026-01-03 |
 | [Zenith](https://open.spotify.com/track/6dMIdroeAo63DjzxjNlw9D) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Zenith](https://open.spotify.com/album/6W0vPRoGAzqspqxdtFgEnM) | 3:38 | 2026-04-04 |  |
+| [Zoy](https://open.spotify.com/track/3mq6ll6KmQH2LAsvJflp60) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Zoy](https://open.spotify.com/album/2rz7ieaKOTRQxRWDIoKaWu) | 2:43 | 2026-04-17 |  |
 | [Жизнь по кайфу](https://open.spotify.com/track/73VNVSDCbuebJ3qbiqNOuw) | [Echoes And Vibes](https://open.spotify.com/artist/3KYnVGmtNOtC5MrmHRp0mF) | [Жизнь по кайфу](https://open.spotify.com/album/5XDxLmzQF4olsjKbdTLAmr) | 3:29 | 2026-04-14 |  |
 
 \*This playlist was first scraped on 2023-02-03. Prior content cannot be recovered.

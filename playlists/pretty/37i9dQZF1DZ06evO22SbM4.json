@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 46551,
+  "num_followers": 46563,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad7VAAAAAADlD33h61q6dQziislEWq2e",
+  "snapshot_id": "aeAmgAAAAAAKbRwT9CFXUJOAvqtrPmr9",
   "tracks": [
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell or High Water (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE"
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/5PUFR2sBnMOdRAoM5jDQN0"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 194571,
-      "name": "Hell or High Water (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn"
+      "duration_ms": 230913,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2j8pCpVtMjKchtmuu64BnY"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
       "duration_ms": 220800,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/4U8SkKuNOZrgTR1NC9WYaC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/5PUFR2sBnMOdRAoM5jDQN0"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 230913,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/2j8pCpVtMjKchtmuu64BnY"
     },
     {
       "added_at": null,
@@ -483,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leave The Light On",
-        "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 228270,
-      "name": "From The Fall",
-      "url": "https://open.spotify.com/track/1NYf23TIqL4hyIw8rppZ2S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From Nashville",
         "url": "https://open.spotify.com/album/2WaRFVSRoYF4sW35doUmdF"
       },
@@ -515,6 +483,22 @@
       "duration_ms": 281323,
       "name": "Rockstar (with Bailey Zimmerman) - Live From Nashville",
       "url": "https://open.spotify.com/track/2uQfe8bd43MRHIjHwaAgC8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 228270,
+      "name": "From The Fall",
+      "url": "https://open.spotify.com/track/1NYf23TIqL4hyIw8rppZ2S"
     }
   ],
   "unique_name": "This Is Bailey Zimmerman",

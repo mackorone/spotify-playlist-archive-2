@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "buttons",
+        "url": "https://open.spotify.com/album/5ievaFZh2WoAvzxDdwzc9l"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204266,
+      "name": "buttons",
+      "url": "https://open.spotify.com/track/0LFNBiDtOFKhSWWPUi0avw"
+    },
+    {
+      "album": {
         "name": "can i come over?",
         "url": "https://open.spotify.com/album/4wtMHzT5SBHLWjY24r3Qxu"
       },
@@ -784,6 +802,24 @@
       "duration_ms": 170217,
       "name": "could be nice",
       "url": "https://open.spotify.com/track/5OI0l7dymvGw4ZkHwSRrda"
+    },
+    {
+      "album": {
+        "name": "ambrosia",
+        "url": "https://open.spotify.com/album/39ns8ZLNsG2wXOt22dyU4h"
+      },
+      "artists": [
+        {
+          "name": "Epsilonn",
+          "url": "https://open.spotify.com/artist/31v54x5PqtTtfa29sQzNXr"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "cry",
+      "url": "https://open.spotify.com/track/4rVGzvyRwfAuQoTzb5vDND"
     },
     {
       "album": {
@@ -1809,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "i walked all the way home",
+        "url": "https://open.spotify.com/album/6V9Y5WuqQ154oaroAXrC4w"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cello",
+          "url": "https://open.spotify.com/artist/1dXr00ZTDAbZXIyfrD82SH"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "i walked all the way home",
+      "url": "https://open.spotify.com/track/69DDbvhTpFwXRFaE2vdLYJ"
+    },
+    {
+      "album": {
         "name": "melanchole",
         "url": "https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ"
       },
@@ -1910,7 +1964,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 63934,
       "name": "i'm going to fail my class",
       "url": "https://open.spotify.com/track/5omKvSB7yvJZxHthOzhqRP"
@@ -3338,7 +3392,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 258870,
       "name": "run it back",
       "url": "https://open.spotify.com/track/5Wcc3fBgp1vjBmbxhHEXCR"

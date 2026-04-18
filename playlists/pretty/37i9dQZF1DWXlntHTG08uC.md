@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,664 likes - 195 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,759 likes - 194 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,19 +189,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 179 | [Soporwaves 528 Hz](https://open.spotify.com/track/7GJWh1vAhzUQOmUzTD5eHQ) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Soporwaves 528 Hz](https://open.spotify.com/album/6AGj5BcUxH4dUfAzWUaHHr) | 3:01 |
 | 180 | [528 Hz Mind and Body](https://open.spotify.com/track/0ojfY3l1RaSNj052NMFviV) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [528 Hz Frequencies for Mind and Body Vol 1](https://open.spotify.com/album/35JMHwBhv21ehQgncjx2S4) | 3:02 |
 | 181 | [Release Guilt](https://open.spotify.com/track/3y1xAcvu0IqsuNHkgaZhHG) | [Frozen Voices](https://open.spotify.com/artist/6CHiV1LMP7HIwJWk1CJDfz) | [Letting Go](https://open.spotify.com/album/2einESbC1mpHussGKlQyJ6) | 3:08 |
-| 182 | [Coastline](https://open.spotify.com/track/3bTIrATW4lqsYtOasWHHNq) | [Drew Morrison](https://open.spotify.com/artist/31YMTuzX6SccnRYcWrQVJe) | [Coastline](https://open.spotify.com/album/169F874BHCrBzYYordSZAe) | 2:51 |
-| 183 | [528 HZ \- Deep Healing](https://open.spotify.com/track/6vtYjREW23uIJspypp65iH) | [Zen Atlas](https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N) | [528 Hz \- Deep Healing](https://open.spotify.com/album/4vP0xnIRWPnJhioaPH015Q) | 2:39 |
-| 184 | [Alchemy of Peace 528 Hz](https://open.spotify.com/track/3a9fMpm7q9I5HmovLUibEI) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Alchemy of Peace 528 Hz](https://open.spotify.com/album/55Lus08VvD86i1ju4GWkX9) | 3:10 |
-| 185 | [Solar Solfeggio 528 Hz](https://open.spotify.com/track/6wUKVADIGGaHLNSfZHl6E9) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Solfeggio Nonagon](https://open.spotify.com/album/5agkzJIkbY3lzyonAKBwn0) | 2:58 |
-| 186 | [Rays Of White Light 528 Hz](https://open.spotify.com/track/1RitS0w28wS0Pkp4izwuo8) | [Aura Glow](https://open.spotify.com/artist/7IGjZnvxxrmq5LtjOSjLt6) | [Rays Of White Light 528 Hz](https://open.spotify.com/album/7GsSC4fjgtFKpM38EadRYT) | 2:47 |
-| 187 | [Into Nothing 528 Hz](https://open.spotify.com/track/1k3qD89JD6WzlYuWlvopph) | [The Anodic](https://open.spotify.com/artist/6fZhUg52Jqu49syExDuKII) | [Into Nothing 528 Hz](https://open.spotify.com/album/0KUwBzQ5rFWHGoBvKCj2zD) | 2:31 |
-| 188 | [Floating Through Solfeggio 528 Hz](https://open.spotify.com/track/5VGpVjeSr7r8w8uWIRQeef) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 3:10 |
-| 189 | [Gleann 528 Hz](https://open.spotify.com/track/6vd9UF5DozJUOC2rtyWD4X) | [Peaceful Village](https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI) | [Gleann 528 Hz](https://open.spotify.com/album/2NRBeEROmqGecxyyD2fwCc) | 2:28 |
-| 190 | [528hz Oscillating Love Frequency](https://open.spotify.com/track/0Uru40KT5hM9RdzHZmP8Mk) | [Sacred Vibrational Sense](https://open.spotify.com/artist/5d7zpEJw3hhXugS5UFTQvg) | [528hz Oscillating Love Frequency](https://open.spotify.com/album/4ujYIEJ7B35yo76kaRIREa) | 2:27 |
-| 191 | [528 Hz DNA Repair](https://open.spotify.com/track/3orHWYTBLSAnTqFf1yLcXv) | [Frozen Voices](https://open.spotify.com/artist/6CHiV1LMP7HIwJWk1CJDfz) | [528 Hz DNA Repair](https://open.spotify.com/album/7eGZ63j2ZjTys2jwD9OSsh) | 3:24 |
-| 192 | [Melodies of the Deep 528Hz](https://open.spotify.com/track/1NvsFiTLIbYxXj87Jg3Tpi) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Melodies of the Deep 528Hz](https://open.spotify.com/album/4YA9jYglctHdvnJg90sQSS) | 3:11 |
-| 193 | [528 Hz Increase Oxytocin](https://open.spotify.com/track/7xvlJRLvflf4cTfKiHtIoA) | [Healing Touch](https://open.spotify.com/artist/3tSf7BvYRcSPRTsDDKmfVV) | [528 Hz Increase Oxytocin](https://open.spotify.com/album/2HYw0aeGT74xYq3oqsgYaR) | 2:45 |
-| 194 | [Trippertronics 528 Hz](https://open.spotify.com/track/7qmlDL2e8N8HyNmqfg4AoH) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Trippertronics](https://open.spotify.com/album/0y0xdDlRZQVfWYhfWQnQC4) | 2:56 |
-| 195 | [Heavenly Portal 528 Hz](https://open.spotify.com/track/7eRKA2baivor19wewOAQ4n) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Heavenly Portal 528 Hz](https://open.spotify.com/album/6a4np3ukSYj7PrimbdKcTS) | 2:43 |
+| 182 | [528 HZ \- Deep Healing](https://open.spotify.com/track/6vtYjREW23uIJspypp65iH) | [Zen Atlas](https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N) | [528 Hz \- Deep Healing](https://open.spotify.com/album/4vP0xnIRWPnJhioaPH015Q) | 2:39 |
+| 183 | [Alchemy of Peace 528 Hz](https://open.spotify.com/track/3a9fMpm7q9I5HmovLUibEI) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Alchemy of Peace 528 Hz](https://open.spotify.com/album/55Lus08VvD86i1ju4GWkX9) | 3:10 |
+| 184 | [Solar Solfeggio 528 Hz](https://open.spotify.com/track/6wUKVADIGGaHLNSfZHl6E9) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Solfeggio Nonagon](https://open.spotify.com/album/5agkzJIkbY3lzyonAKBwn0) | 2:58 |
+| 185 | [Rays Of White Light 528 Hz](https://open.spotify.com/track/1RitS0w28wS0Pkp4izwuo8) | [Aura Glow](https://open.spotify.com/artist/7IGjZnvxxrmq5LtjOSjLt6) | [Rays Of White Light 528 Hz](https://open.spotify.com/album/7GsSC4fjgtFKpM38EadRYT) | 2:47 |
+| 186 | [Into Nothing 528 Hz](https://open.spotify.com/track/1k3qD89JD6WzlYuWlvopph) | [The Anodic](https://open.spotify.com/artist/6fZhUg52Jqu49syExDuKII) | [Into Nothing 528 Hz](https://open.spotify.com/album/0KUwBzQ5rFWHGoBvKCj2zD) | 2:31 |
+| 187 | [Floating Through Solfeggio 528 Hz](https://open.spotify.com/track/5VGpVjeSr7r8w8uWIRQeef) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 3:10 |
+| 188 | [Gleann 528 Hz](https://open.spotify.com/track/6vd9UF5DozJUOC2rtyWD4X) | [Peaceful Village](https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI) | [Gleann 528 Hz](https://open.spotify.com/album/2NRBeEROmqGecxyyD2fwCc) | 2:28 |
+| 189 | [528hz Oscillating Love Frequency](https://open.spotify.com/track/0Uru40KT5hM9RdzHZmP8Mk) | [Sacred Vibrational Sense](https://open.spotify.com/artist/5d7zpEJw3hhXugS5UFTQvg) | [528hz Oscillating Love Frequency](https://open.spotify.com/album/4ujYIEJ7B35yo76kaRIREa) | 2:27 |
+| 190 | [528 Hz DNA Repair](https://open.spotify.com/track/3orHWYTBLSAnTqFf1yLcXv) | [Frozen Voices](https://open.spotify.com/artist/6CHiV1LMP7HIwJWk1CJDfz) | [528 Hz DNA Repair](https://open.spotify.com/album/7eGZ63j2ZjTys2jwD9OSsh) | 3:24 |
+| 191 | [Melodies of the Deep 528Hz](https://open.spotify.com/track/1NvsFiTLIbYxXj87Jg3Tpi) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Melodies of the Deep 528Hz](https://open.spotify.com/album/4YA9jYglctHdvnJg90sQSS) | 3:11 |
+| 192 | [528 Hz Increase Oxytocin](https://open.spotify.com/track/7xvlJRLvflf4cTfKiHtIoA) | [Healing Touch](https://open.spotify.com/artist/3tSf7BvYRcSPRTsDDKmfVV) | [528 Hz Increase Oxytocin](https://open.spotify.com/album/2HYw0aeGT74xYq3oqsgYaR) | 2:45 |
+| 193 | [Trippertronics 528 Hz](https://open.spotify.com/track/7qmlDL2e8N8HyNmqfg4AoH) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Trippertronics](https://open.spotify.com/album/0y0xdDlRZQVfWYhfWQnQC4) | 2:56 |
+| 194 | [Heavenly Portal 528 Hz](https://open.spotify.com/track/7eRKA2baivor19wewOAQ4n) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Heavenly Portal 528 Hz](https://open.spotify.com/album/6a4np3ukSYj7PrimbdKcTS) | 2:43 |
 
-Snapshot ID: `AAAAAGT5Rq6LUhxWAP26lmTPCbiCgdeI`
+Snapshot ID: `AAAAAMNpikuqLY1H0LoZbsB0/FwtW8Zv`

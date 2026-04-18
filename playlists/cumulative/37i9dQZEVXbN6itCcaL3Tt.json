@@ -872,7 +872,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 232133,
       "name": "1998 (mam to we krwi)",
       "url": "https://open.spotify.com/track/5WOnkFszDc0OY8PZw4gygY"
@@ -5213,17 +5213,13 @@
     },
     {
       "album": {
-        "name": "Bailando",
+        "name": "Bailando (Lose Control Remix)",
         "url": "https://open.spotify.com/album/1l58295uREa2T8qG0MWn8L"
       },
       "artists": [
         {
           "name": "Bajorson",
           "url": "https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS"
-        },
-        {
-          "name": "Dawid Obserwator",
-          "url": "https://open.spotify.com/artist/17TxUtKcfnsMuLJ7GF0gBC"
         },
         {
           "name": "Dj Killer",
@@ -5236,9 +5232,9 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 222620,
-      "name": "Bailando",
+      "name": "Bailando - Lose Control Remix",
       "url": "https://open.spotify.com/track/7ztpISTetVPoca640QDqZn"
     },
     {
@@ -12404,7 +12400,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 98400,
       "name": "da da da(\u017cyje dla rapu)",
       "url": "https://open.spotify.com/track/2guW0FLEPd4QgJn9GEDi0n"
@@ -12582,7 +12578,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 139200,
       "name": "DAREK",
       "url": "https://open.spotify.com/track/7LheBJUQs8SnrglULP056H"
@@ -29870,7 +29866,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -35830,7 +35826,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 204221,
       "name": "NIE CHC\u0118 WRACA\u0106",
       "url": "https://open.spotify.com/track/0gZ6aSidViW10soPaibyFa"
@@ -60475,7 +60471,7 @@
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 261120,
+      "duration_ms": 266840,
       "name": "ZAKOCHA\u0141EM SI\u0118 POD APTEK\u0104",
       "url": "https://open.spotify.com/track/6F9Xu5kvOMQNCPFkoa2yST"
     },

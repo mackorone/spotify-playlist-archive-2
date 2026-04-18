@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,251 likes - 215 songs - 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,369 likes - 215 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Everything U](https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Everything U](https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi) | 3:30 |
 | 2 | [in my arms](https://open.spotify.com/track/7yWy7PV3Sv6kzjhgx4gI4S) | [abelon](https://open.spotify.com/artist/6RknJW6TTU6TQfTZDptOui) | [in my arms](https://open.spotify.com/album/0UvFs5H7Rtv6u26xJsU5uP) | 2:05 |
 | 3 | [Safe and Sound](https://open.spotify.com/track/1rXEgR88Cm8jC28kWI99D8) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Safe and Sound](https://open.spotify.com/album/490fzBpBbQcuEBaOS116Fj) | 3:17 |
-| 4 | [Track 9](https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R) | 0:00 |
+| 4 | [Everybody](https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R) | 2:34 |
 | 5 | [I Don't Wanna Stop](https://open.spotify.com/track/5mLybISpqBigKI2dXM3Yl5) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [I Don't Wanna Stop](https://open.spotify.com/album/1oMTheMSsGJrmkGr2NbrnZ) | 3:38 |
 | 6 | [Sweet Nothings](https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [feel](https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL) | 3:40 |
 | 7 | [How Does It Feel](https://open.spotify.com/track/5cuYsYvYGGZbQcUyr0mOe0) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [How Does It Feel](https://open.spotify.com/album/0d1eHvWg3lOTIUQJdsj80V) | 3:33 |

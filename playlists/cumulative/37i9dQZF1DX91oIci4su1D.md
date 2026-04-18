@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,264 songs - 3 day 3 hr 37 min
+1,265 songs - 3 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,6 +563,7 @@
 | [Infinity](https://open.spotify.com/track/2gwmzjBRPv1ElKevOdp3Ld) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96) | [Infinity](https://open.spotify.com/album/6fBOUmSFyjXFfKF71uRDjZ) | 4:07 | 2023-07-07 | 2024-07-13 |
 | [Inner Strength \- Original Progressive Mix](https://open.spotify.com/track/4rfwxsfsqN8de5BrJxJK5k) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Inner Strength \(Progressive Mix\)](https://open.spotify.com/album/3fRb4Yr6TcX2dCOXhdeuPh) | 2:59 | 2023-03-03 | 2023-06-10 |
 | [Innocence](https://open.spotify.com/track/72g5MSt0ctPo7Sv3Ccctdf) | [Sam Laxton](https://open.spotify.com/artist/53Nb2hmEBQV4dbkKbTpSnU) | [Innocence](https://open.spotify.com/album/5ZB36wLX4P7aozcWcmjKc4) | 3:37 | 2022-10-14 | 2024-02-17 |
+| [Inside This Room](https://open.spotify.com/track/4zTS6PkVA4MwOQMTqXDbCd) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Inside This Room](https://open.spotify.com/album/3guP2LE0HLHwyoqweuEoYF) | 3:12 | 2026-04-17 |  |
 | [INTO MY ARMS](https://open.spotify.com/track/7MKJv10BVcfkZSJZzOmtvI) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [INTO MY ARMS](https://open.spotify.com/album/6ZYPZJdWbJrCrCD0wTzM6t) | 3:54 | 2022-07-29 | 2023-07-08 |
 | [Into the Night](https://open.spotify.com/track/2ucRE68wy12o3kV3y1cCKF) | [Audorn](https://open.spotify.com/artist/3vpObPX3081idCIxwXiXq1), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Into the Night](https://open.spotify.com/album/3wfgKnNiPc0cWt5JWiDdx8) | 4:00 | 2024-06-21 | 2025-05-17 |
 | [Invaders](https://open.spotify.com/track/4ZBDlALixvnxtg8I22pZHF) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [FAWZY](https://open.spotify.com/artist/3aTYYBTJCGSfPEPR9JJ4mj) | [Invaders](https://open.spotify.com/album/4njR9gO1pouK6VsZoe1GNy) | 3:11 | 2021-12-17 | 2022-07-24 |
@@ -640,7 +641,7 @@
 | [Lisbon](https://open.spotify.com/track/0teGeggE4isvrjIsTJ17vY) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [Lisbon](https://open.spotify.com/album/6WLfFIWuYJNJy6LoxLRnGL) | 3:11 | 2021-12-17 | 2022-03-12 |
 | [Little Pieces](https://open.spotify.com/track/21C2aEhXEdso5iOsLGFKL7) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Little Pieces](https://open.spotify.com/album/17obxDQCInibRahprDVLHi) | 4:27 | 2021-12-17 | 2023-02-25 |
 | [Live For Tonight \- Scorz Remix](https://open.spotify.com/track/4RHFjle9srlZWXn7mjEpcj) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07), [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn) | [Live For Tonight \(Scorz Remix\)](https://open.spotify.com/album/0fEYcXAlwni1fUkT6v7LAr) | 2:40 | 2021-12-17 | 2023-01-14 |
-| [Live Forever](https://open.spotify.com/track/3IO2i18iLklayyLyRY1T3y) | [Paul Webster](https://open.spotify.com/artist/2xxQ1Dy2fyyhVqJodKB4OC), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Live Forever](https://open.spotify.com/album/3gVgIjc3A4v1O75QDH2Cr6) | 2:56 | 2026-02-13 |  |
+| [Live Forever](https://open.spotify.com/track/3IO2i18iLklayyLyRY1T3y) | [Paul Webster](https://open.spotify.com/artist/2xxQ1Dy2fyyhVqJodKB4OC), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Live Forever](https://open.spotify.com/album/3gVgIjc3A4v1O75QDH2Cr6) | 2:56 | 2026-02-13 | 2026-04-18 |
 | [Lockdown Heart](https://open.spotify.com/track/1h4veLWNE7ICl6cgSiBFOn) | [Ana Criado](https://open.spotify.com/artist/74wwiRVGGmTpYiU2l1olVU) | [Lockdown Heart](https://open.spotify.com/album/7GBUwO9gG4F1PV1j7dC7Cv) | 3:30 | 2022-04-01 | 2022-05-22 |
 | [Lone Wolf](https://open.spotify.com/track/2jbKdQmXdOg8CATVQfZYOR) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3) | [Brave Game / Lone Wolf](https://open.spotify.com/album/5xguNCAC1chhbCkf9r69HK) | 2:56 | 2022-12-02 | 2024-02-17 |
 | [Lonely Soul \- Radio Edit](https://open.spotify.com/track/33dzDNwMRgVUNmGRPCy4Hx) | [Eugenio Tokarev](https://open.spotify.com/artist/0ExSQUT5mJ2vFIBe7GqLM4), [Beatsole](https://open.spotify.com/artist/6Gs2jNsD9XkEYUJZOSx4qk), [Amin Salmee](https://open.spotify.com/artist/4cddDQHcyoPKIqJhJCVETy) | [Lonely Soul](https://open.spotify.com/album/6o1ysH7IGH6xu1EOIsV0bp) | 3:18 | 2022-06-24 | 2022-07-20 |

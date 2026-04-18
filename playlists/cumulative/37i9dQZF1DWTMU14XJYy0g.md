@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre 📸 RYAN
+> Más vivo que nunca, más nuestro que siempre 📸 Juanse
 
-449 songs - 1 day 3 hr 51 min
+451 songs - 1 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Coleccionando Cicatrices](https://open.spotify.com/track/0nFNXj5EVrMR4q2Qm74CtP) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/732rZ7r8CfbcxZt7kiXpug) | 3:58 | 2022-11-02 | 2022-11-14 |
 | [Coleccionando Cicatrices](https://open.spotify.com/track/2bPWrKKz9TrV8Q6x5zEQEv) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/3ch8w03YXSOE0BTtul5uNr) | 3:58 | 2022-06-24 | 2022-07-29 |
 | [Colmena](https://open.spotify.com/track/3didqbZlbcOd3tEaLreWtp) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Colmena](https://open.spotify.com/album/4rSdMBUFUJDmj6lYa0Jik6) | 4:18 | 2023-12-01 | 2025-12-13 |
+| [Con Elvira Es Otra Cosa](https://open.spotify.com/track/1Lh3kR5EdSZLTgXKdxKpSN) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Pappo x Juanse, Vol\. 2](https://open.spotify.com/album/69tHkZGH9JoBWfmUZx1Dum) | 3:04 | 2026-04-17 |  |
 | [Con Vos](https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Con Vos](https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9) | 2:42 | 2022-06-24 | 2024-06-01 |
 | [Conmigo](https://open.spotify.com/track/54wyNTp0qU0qJ9xBk3brnN) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Conmigo](https://open.spotify.com/album/2YBbMqoVXGVWZEutpP5ous) | 4:24 | 2023-09-01 | 2024-09-21 |
 | [Consuelo Eterno](https://open.spotify.com/track/77macJENdb7DleZ3TzeRsF) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Consuelo Eterno](https://open.spotify.com/album/7gdS0noL8pkq65xl9qIcqo) | 4:01 | 2023-05-05 | 2023-07-29 |
@@ -282,7 +283,7 @@
 | [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 | 2023-03-10 |
 | [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-03 | 2023-06-03 |
 | [Melodia Simple](https://open.spotify.com/track/40BgkgWAKioAOxfTEPYCdZ) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Melodia Simple](https://open.spotify.com/album/1pzGjX0PjN41scZKFFqhsx) | 3:22 | 2025-06-13 |  |
-| [Melodía del Adiós](https://open.spotify.com/track/6tbNnSpsaRBjqszmWU6JEd) | [LOBEL](https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl) | [Melodía del Adiós](https://open.spotify.com/album/5xuoOnrivnxR4MOiOoafWY) | 3:38 | 2024-10-04 |  |
+| [Melodía del Adiós](https://open.spotify.com/track/6tbNnSpsaRBjqszmWU6JEd) | [LOBEL](https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl) | [Melodía del Adiós](https://open.spotify.com/album/5xuoOnrivnxR4MOiOoafWY) | 3:38 | 2024-10-04 | 2026-04-18 |
 | [Mi Canción de Amor](https://open.spotify.com/track/3BpvNUPVz9Os5aAJwTLFjo) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Mi Canción de Amor](https://open.spotify.com/album/1gkFj9u95ujrnuIbgw28Jm) | 3:44 | 2026-01-16 |  |
 | [Mi Dios](https://open.spotify.com/track/2k6o3Lq8ZZXtLPby7SkgeD) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Fuera de Moda](https://open.spotify.com/album/0IVrP8hRUEnOiPYKln5wNV) | 3:23 | 2024-04-26 | 2024-05-25 |
 | [Miedo](https://open.spotify.com/track/2OJqUom0FBpJ9OdiUVIlk2) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Miedo](https://open.spotify.com/album/4ASiIcEpLwd67EyucGsuwY) | 4:18 | 2022-08-05 | 2022-12-03 |
@@ -360,6 +361,7 @@
 | [Regresar al Cuerpo](https://open.spotify.com/track/71u7FtnJxZPqvdHqzyo8qS) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Regresar al Cuerpo](https://open.spotify.com/album/60kAJYfszVgUglDQDoCZiK) | 3:03 | 2023-11-17 | 2024-02-24 |
 | [Reloj De Plastilina](https://open.spotify.com/track/39TSahzhyETcOxJSoXyFoi) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Reloj De Plastilina](https://open.spotify.com/album/6FGgUO2s8saavc4DGHvvzf) | 2:36 | 2024-03-22 | 2024-09-21 |
 | [REVELACIONES APARTE](https://open.spotify.com/track/5zVysKtBACHlyu7Ovt0Ezi) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [CUERPOS, Vol\. 1](https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV) | 2:52 | 2025-12-05 | 2026-01-17 |
+| [Rock and Roll y Fiebre](https://open.spotify.com/track/2uNdfnBpTaAGLw93iiKBR3) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Pappo x Juanse, Vol\. 2](https://open.spotify.com/album/69tHkZGH9JoBWfmUZx1Dum) | 3:12 | 2026-04-17 |  |
 | [Rock es rock!](https://open.spotify.com/track/7mearCDj7s3ztuwX3BS6Ph) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rock es rock! / Hijos de la tempestad / Cuando sane tu corazón / Mujer Amante](https://open.spotify.com/album/2N5ILDgxaUUz8MftHtymYb) | 3:51 | 2024-10-24 | 2025-04-30 |
 | [Rojo Profundo](https://open.spotify.com/track/23uZ2cVSSecPQBhKtU9xSY) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Rojo Profundo](https://open.spotify.com/album/78uTzESVkmihOHuIuSio9H) | 3:03 | 2025-11-07 | 2025-11-15 |
 | [Rola de Primera](https://open.spotify.com/track/6DPQLhYRp5PJrhgk2OWVJE) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Rola de Primera](https://open.spotify.com/album/4Weh68myPcgmZtGITPYIi1) | 3:37 | 2023-10-26 | 2024-03-16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo argentino. \n\ud83d\udcf7 Winona Riders",
+  "description": "rock alternativo argentino. \n\ud83d\udcf7 RYAN",
   "name": "alt.rock",
   "tracks": [
     {
@@ -354,6 +354,32 @@
       "duration_ms": 205000,
       "name": "Amarnos",
       "url": "https://open.spotify.com/track/6JMeRwLmGHjdelPQYF55mN"
+    },
+    {
+      "album": {
+        "name": "AMIS",
+        "url": "https://open.spotify.com/album/7tBfRXD5UjkaIudtpTFhPo"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1orita Novio",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
+        },
+        {
+          "name": "Lichi",
+          "url": "https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht"
+        },
+        {
+          "name": "Ferm\u00edn Irigoyen",
+          "url": "https://open.spotify.com/artist/6iUCARgUPYbGD3sUSzxr9b"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120895,
+      "name": "AMIS",
+      "url": "https://open.spotify.com/track/24tAh2Rn9gkk5aEl5DCElD"
     },
     {
       "album": {
@@ -2617,6 +2643,24 @@
     },
     {
       "album": {
+        "name": "Hermoso desastre",
+        "url": "https://open.spotify.com/album/5JLx5GobXUJcikXTyAWuSw"
+      },
+      "artists": [
+        {
+          "name": "Sakatumba",
+          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196219,
+      "name": "Hermoso desastre",
+      "url": "https://open.spotify.com/track/5XZI1mfoqDtGSOJKwanXxl"
+    },
+    {
+      "album": {
         "name": "Hice Todo Mal",
         "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
       },
@@ -3575,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "Morfina",
+        "url": "https://open.spotify.com/album/4J0CA7aRj6X2RM1tE8MgJq"
+      },
+      "artists": [
+        {
+          "name": "Posguerra",
+          "url": "https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160381,
+      "name": "Morfina",
+      "url": "https://open.spotify.com/track/5tjOXv02KtdMLIAv35F3iv"
+    },
+    {
+      "album": {
         "name": "Cuando \u00c9ramos J\u00f3venes",
         "url": "https://open.spotify.com/album/7tkNFeKcjqASwvTx05BNkw"
       },
@@ -4136,6 +4198,24 @@
       "duration_ms": 171294,
       "name": "Pagando de M\u00e1s",
       "url": "https://open.spotify.com/track/4BMyL8QxN9W5jE4ia12l2G"
+    },
+    {
+      "album": {
+        "name": "Todos Extra\u0144os",
+        "url": "https://open.spotify.com/album/6TBirBFm2DtznOs4vcpm1m"
+      },
+      "artists": [
+        {
+          "name": "Posguerra",
+          "url": "https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222652,
+      "name": "Para Caer",
+      "url": "https://open.spotify.com/track/4uQAlEBcRHiJNJ3sGuc0sh"
     },
     {
       "album": {
@@ -4728,6 +4808,24 @@
       "duration_ms": 172823,
       "name": "Qu\u00e9 M\u00e1s Puedo Hacer?",
       "url": "https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Rocker",
+        "url": "https://open.spotify.com/album/3cnwciLwmd7auNlyFCrRVq"
+      },
+      "artists": [
+        {
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180874,
+      "name": "Qu\u00e9 Rocker",
+      "url": "https://open.spotify.com/track/4DJZiHbEvr3qoGJcDHLxLZ"
     },
     {
       "album": {

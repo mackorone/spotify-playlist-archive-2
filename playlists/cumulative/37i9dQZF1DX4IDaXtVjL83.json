@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: LISA, Anyma)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: TAEYONG & Anderson .Paak)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 217672,
       "name": "All My Life (Stray Kids Remix)",
       "url": "https://open.spotify.com/track/5OHNBi6tsE0acRA9Kt4ybC"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 142213,
       "name": "CLOUD 9",
       "url": "https://open.spotify.com/track/1EV5az9KISodiYS8CmfRY0"
@@ -2446,7 +2446,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 273173,
       "name": "Humming For Sunset",
       "url": "https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE"
@@ -2548,7 +2548,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 270533,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/2vZhQcFme5X52JfVTcRk2R"
@@ -3589,6 +3589,28 @@
     },
     {
       "album": {
+        "name": "NAIL",
+        "url": "https://open.spotify.com/album/6wXgjwwY1YLZhAQupPi3m4"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162853,
+      "name": "NAIL (feat. Lolo Zoua\u00ef)",
+      "url": "https://open.spotify.com/track/2VdbARHQxe2Oo0PRlXpg4I"
+    },
+    {
+      "album": {
         "name": "NEON",
         "url": "https://open.spotify.com/album/4fqYkhN96NZ2zvcf5HRMIs"
       },
@@ -4070,6 +4092,28 @@
       "duration_ms": 179026,
       "name": "RISE UP (Korean ver.)",
       "url": "https://open.spotify.com/track/1dRjox4xKpbrMHanzC2rNq"
+    },
+    {
+      "album": {
+        "name": "Rock Solid (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/5vyseN9ZJ5UgstGAuScyiz"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Rock Solid (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/7g57jPAhy12yvPoIS6BenO"
     },
     {
       "album": {
@@ -4714,6 +4758,28 @@
       "duration_ms": 144348,
       "name": "superstars",
       "url": "https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj"
+    },
+    {
+      "album": {
+        "name": "seriously unserious",
+        "url": "https://open.spotify.com/album/5iK4Cr6djzpTWvuPCxCosm"
+      },
+      "artists": [
+        {
+          "name": "HEYOON",
+          "url": "https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1"
+        },
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124736,
+      "name": "swipe_feat_lou_garcia_v1.mp3",
+      "url": "https://open.spotify.com/track/4zsxh0FkRntWV1vA7ckhHQ"
     },
     {
       "album": {

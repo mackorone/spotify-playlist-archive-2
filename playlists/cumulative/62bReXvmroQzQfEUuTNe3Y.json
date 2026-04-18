@@ -4852,7 +4852,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 125653,
       "name": "in my arms",
       "url": "https://open.spotify.com/track/7yWy7PV3Sv6kzjhgx4gI4S"
@@ -7524,7 +7524,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 159854,
       "name": "Out of Reach",
       "url": "https://open.spotify.com/track/3IWxVPHeBIZgrPuLIa0Avy"
@@ -9134,7 +9134,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 174228,
       "name": "Slide",
       "url": "https://open.spotify.com/track/6ogAI7hxJhcpH04xFuwGn4"
@@ -9376,6 +9376,24 @@
       "duration_ms": 141102,
       "name": "Stare Into Your Eyes",
       "url": "https://open.spotify.com/track/21YSNocrWGa1vdSeXsOypC"
+    },
+    {
+      "album": {
+        "name": "stay",
+        "url": "https://open.spotify.com/album/48uDIpaAQjpm7jVh96pJad"
+      },
+      "artists": [
+        {
+          "name": "all things break",
+          "url": "https://open.spotify.com/artist/7krmtqHJ8N1fg1JkjlrP0P"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191428,
+      "name": "stay",
+      "url": "https://open.spotify.com/track/1QLJZ0k0nRDlbKoTGtyKJQ"
     },
     {
       "album": {

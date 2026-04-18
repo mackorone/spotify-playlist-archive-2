@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Silvestre Dangond",
+  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Gusi, Ivan Villazon",
   "name": "Lo + del Vallenato",
   "tracks": [
     {
@@ -426,7 +426,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 254125,
       "name": "Ay Mi Valle",
       "url": "https://open.spotify.com/track/6mH0bTdVS73lFdQLiZaW8B"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 190500,
       "name": "C\u00f3mo Me Olvido de Ti",
       "url": "https://open.spotify.com/track/0y86u7eDV1jgxG0yRjz4bL"
@@ -1643,6 +1643,28 @@
     },
     {
       "album": {
+        "name": "Eso Va",
+        "url": "https://open.spotify.com/album/0dMNFtb1y2AmgQIuZ4kJ6J"
+      },
+      "artists": [
+        {
+          "name": "LuisRa",
+          "url": "https://open.spotify.com/artist/5rhQwhtlARXOxuskeZBElY"
+        },
+        {
+          "name": "Chide Garcia",
+          "url": "https://open.spotify.com/artist/1QWdrs9RSQ2VapbV6Qf8Mh"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206241,
+      "name": "Eso Va",
+      "url": "https://open.spotify.com/track/3iGqBfvt9H9ZRyVTMCC5Zj"
+    },
+    {
+      "album": {
         "name": "Estoy Como un Quiqu\u00ed",
         "url": "https://open.spotify.com/album/1un0c85dgcDajCPIAD9rwm"
       },
@@ -2161,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Vallenato",
+        "url": "https://open.spotify.com/album/6XsNcwOeu2ZgIi1bQtPk3P"
+      },
+      "artists": [
+        {
+          "name": "La Banda del 5",
+          "url": "https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Le Hago Caso a Titi",
+      "url": "https://open.spotify.com/track/6IwyydBvphktS0q9vdUQbE"
+    },
+    {
+      "album": {
         "name": "Sin Miedo Al \u00c9xito",
         "url": "https://open.spotify.com/album/0H7htUNPhsSLGI1HZgtkGv"
       },
@@ -2521,6 +2561,28 @@
     },
     {
       "album": {
+        "name": "Vallenato Social Club",
+        "url": "https://open.spotify.com/album/0uXi5UjqNM8zQxizf3tlJ8"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        },
+        {
+          "name": "Ivan Villazon",
+          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Merenguito",
+      "url": "https://open.spotify.com/track/2vKS8OvHJeMgRJft3JrKaD"
+    },
+    {
+      "album": {
         "name": "Imparables",
         "url": "https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO"
       },
@@ -2594,7 +2656,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 232131,
       "name": "MI\u00c9NTEME",
       "url": "https://open.spotify.com/track/6hSXXBr0OA96m7xp1DwZZm"

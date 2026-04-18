@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 132328,
       "name": "Aqui En Mi Corazon Tu Mandas",
       "url": "https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU"
@@ -1448,10 +1448,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 208927,
       "name": "Los Mitotes",
       "url": "https://open.spotify.com/track/0MEHgDJShhpGFQ5DRWEge0"
+    },
+    {
+      "album": {
+        "name": "El Mes De Las Madres",
+        "url": "https://open.spotify.com/album/7jpqgiHrZJ8SYEiXsAzV5t"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208927,
+      "name": "Los Mitotes",
+      "url": "https://open.spotify.com/track/5BEf4JOghSSfTBVMlGVPoR"
     },
     {
       "album": {
@@ -2006,7 +2024,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 134307,
       "name": "Te Da Igual",
       "url": "https://open.spotify.com/track/1XnP7dgmDdTDo8MYCR6ZjQ"

@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Silva
 
-913 songs - 1 day 21 hr 37 min
+914 songs - 1 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Acabou](https://open.spotify.com/track/3502SF6xTXvq6GNJ380me6) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Acabou](https://open.spotify.com/album/3C9V9mhn1oFxnMEUbXzAim) | 2:58 | 2023-05-26 | 2023-06-17 |
 | [acende essa ponta](https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Entre o Nada e o Infinito](https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H) | 2:55 | 2024-07-26 | 2026-01-24 |
 | [Acorda Amor](https://open.spotify.com/track/3wcfLGyG8FRCWxZOO7NsII) | [MARCEL](https://open.spotify.com/artist/6u0K20qShucTXhhb9lOZjX) | [Acorda Amor](https://open.spotify.com/album/5qCDzPx6lP6XKlYO6sbHBx) | 2:27 | 2022-05-13 | 2022-06-15 |
-| [Acordar Com Você](https://open.spotify.com/track/5dWKOlJER7cwCuDjjoAHRS) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai), [Marina Aquino](https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr) | [Acordar Com Você](https://open.spotify.com/album/1sJwsHDsgwmtHTESz6q0WU) | 3:02 | 2025-08-15 |  |
+| [Acordar Com Você](https://open.spotify.com/track/5dWKOlJER7cwCuDjjoAHRS) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai), [Marina Aquino](https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr) | [Acordar Com Você](https://open.spotify.com/album/1sJwsHDsgwmtHTESz6q0WU) | 3:02 | 2025-08-15 | 2026-04-18 |
 | [Adolescente](https://open.spotify.com/track/4v84TqBjgpA027CgOYKvE9) | [Phil](https://open.spotify.com/artist/5gZF5DAcbjAJ9ZfOAFzVCH) | [Adolescente](https://open.spotify.com/album/7Gpy5nKEfivZZFUMootNGo) | 3:18 | 2022-12-02 | 2022-12-24 |
 | [Adoro Amar Você](https://open.spotify.com/track/1Epc5aVhjQLAfF0tZJnDAZ) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Adoro Amar Você](https://open.spotify.com/album/0dMtLl7Qgizyv3ry7MaZVl) | 4:33 | 2022-09-09 | 2023-01-28 |
 | [Afrodite](https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Afrodite](https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT) | 3:21 | 2024-09-06 | 2024-12-13 |
@@ -163,6 +163,7 @@
 | [Cartões Postais](https://open.spotify.com/track/1fDE5tMYjqwrUIgBrkZdlQ) | [Rafa Martins](https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o) | [Cartões Postais](https://open.spotify.com/album/3dZsMCVQ2IrofYTC2MfE1y) | 2:04 | 2024-05-17 | 2024-12-13 |
 | [Casa](https://open.spotify.com/track/1G5ob1rdtY4ISrGVpV9qFm) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Casa](https://open.spotify.com/album/3oB9lIYSwUIXoYoUgignIu) | 3:46 | 2024-08-16 | 2025-01-18 |
 | [Casa Comigo?](https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Casa Comigo?](https://open.spotify.com/album/3wjR90Q98DFO8exvuwuYLr) | 2:39 | 2023-07-28 | 2023-12-02 |
+| [Caso de Amor](https://open.spotify.com/track/0aq5sraSVIpEHY9MZWZDyG) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 3:02 | 2026-04-17 |  |
 | [Caso eu Case](https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Caso eu Case](https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN) | 3:35 | 2024-12-20 | 2026-03-28 |
 | [Cataflor](https://open.spotify.com/track/3KQgz9YoHSBPUZHHwZ6nbR) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Troco Likes 10 Anos](https://open.spotify.com/album/4ENAQW1v7CNmUjxJckfqI5) | 3:25 | 2026-03-27 |  |
 | [Ceará](https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Ceará](https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx) | 2:12 | 2023-07-28 | 2024-07-06 |

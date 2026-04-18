@@ -3383,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "meaning EP",
+        "url": "https://open.spotify.com/album/5Q8lP30pXIRUrtrJ4ots85"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "meaning - acoustic piano version",
+      "url": "https://open.spotify.com/track/1MlqlQMno8vaH2ljiwybiJ"
+    },
+    {
+      "album": {
         "name": "Mermaid",
         "url": "https://open.spotify.com/album/5bmgJcXApczi08TVQGNR8F"
       },
@@ -5753,6 +5771,24 @@
     },
     {
       "album": {
+        "name": "White",
+        "url": "https://open.spotify.com/album/12sqeDOTfuZ2QVyCofM0KI"
+      },
+      "artists": [
+        {
+          "name": "uc",
+          "url": "https://open.spotify.com/artist/53zowxWa8NTxds7uKrMPB3"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179064,
+      "name": "White",
+      "url": "https://open.spotify.com/track/1yLKV9k5cxD25zJMHCbkdO"
+    },
+    {
+      "album": {
         "name": "worst behaviour (feat. Kehlani)",
         "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
       },
@@ -6032,7 +6068,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 260173,
       "name": "\u306a\u3093\u3066\u3044\u3046",
       "url": "https://open.spotify.com/track/4DEiaO0l7pCVHGM5rnH5XL"
@@ -6678,7 +6714,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 194902,
       "name": "\u7b11\u3063\u305f\u308a\u8ee2\u3093\u3060\u308a",
       "url": "https://open.spotify.com/track/0zmzVQMhAdO5qKiQIRdImn"

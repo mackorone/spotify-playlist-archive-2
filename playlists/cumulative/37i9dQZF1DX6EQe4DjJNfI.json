@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Budah, Duquesa",
+  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Bela Maria, Maru2D",
   "name": "R&B Brasil",
   "tracks": [
     {
@@ -812,7 +812,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 119776,
       "name": "Brincando De Amor",
       "url": "https://open.spotify.com/track/7AKSqQaYLeJqHTAMxOwUYm"
@@ -3429,6 +3429,24 @@
     },
     {
       "album": {
+        "name": "Me Deixa Ser Pausa",
+        "url": "https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127389,
+      "name": "Me Deixa Ser Pausa",
+      "url": "https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn"
+    },
+    {
+      "album": {
         "name": "Me Diz",
         "url": "https://open.spotify.com/album/1BnN8Y7gxuohSEaanKASYt"
       },
@@ -3540,6 +3558,28 @@
       "duration_ms": 120000,
       "name": "Melanina",
       "url": "https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot"
+    },
+    {
+      "album": {
+        "name": "Melhor Amiga do Tempo (com Maru2D)",
+        "url": "https://open.spotify.com/album/6UkRen2khd0V2T2d5iponC"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150618,
+      "name": "Melhor Amiga do Tempo (com Maru2D)",
+      "url": "https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK"
     },
     {
       "album": {
@@ -5344,7 +5384,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 134406,
       "name": "Red On My Lips",
       "url": "https://open.spotify.com/track/5MBNXbieJAHV7lOcNxpzfL"

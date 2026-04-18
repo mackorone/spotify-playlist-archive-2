@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Theresa Phondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,253 likes - 96 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,556 likes - 96 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 22 | [Glorious](https://open.spotify.com/track/3fEh0zYAR233jl8UNef9z9) | [Urban revival music](https://open.spotify.com/artist/6fS6vMiypBC6XgowSckLtD), [Fatso](https://open.spotify.com/artist/0Scl1mm0Je2Bq8xrdepQWr) | [Glorious](https://open.spotify.com/album/4wkwWLqsJwSZxksp2kk7WY) | 21:08 |
 | 23 | [OBSESSION](https://open.spotify.com/track/2WFGBpsikGu6zSBhexz2Ul) | [AJ Cephas](https://open.spotify.com/artist/779hpkbMI5XZ26k7i3nqft), [Phaya](https://open.spotify.com/artist/0MulQ2Tg2qC8vmTQgGBGWk) | [OBSESSION](https://open.spotify.com/album/44Sab0vN3m7vxnOsoN3qAe) | 3:26 |
 | 24 | [Thank You](https://open.spotify.com/track/7INILyOD3TEQoA8ZEgPP2o) | [AGATHA MOSES](https://open.spotify.com/artist/3y5Gaau4VQ45CUyyOZEjDE), [Ima Gospel](https://open.spotify.com/artist/1qX8wWTQUqcgYCkPdl7HjI) | [Thank You](https://open.spotify.com/album/0GXWvNrsXxDdLbRtFKUxWo) | 2:57 |
-| 25 | [Like Fire](https://open.spotify.com/track/5zdpJyBSFvecdK7Zt5QaMb) | [Danad](https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J) | [Like Fire](https://open.spotify.com/album/3hVb3G3HXrhCY0KgIV6YCu) | 2:28 |
+| 25 | [Like Fire](https://open.spotify.com/track/5zdpJyBSFvecdK7Zt5QaMb) | [Danad](https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J) | [Like Fire](https://open.spotify.com/album/3hVb3G3HXrhCY0KgIV6YCu) | 2:29 |
 | 26 | [Wait On You](https://open.spotify.com/track/7yErAxvmSIVzWb0BFH0U4n) | [Godwin King](https://open.spotify.com/artist/3zNPsJVNyCnqjWvTPFghkC), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Wait On You](https://open.spotify.com/album/43XE5518l2BLCQmqwSA15A) | 3:57 |
 | 27 | [Enough for Me](https://open.spotify.com/track/0GRCnJ6SC7BKP2GfNt0SkQ) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Yielded](https://open.spotify.com/album/7qr1dZ2t1xVpv8vcgotE5D) | 7:26 |
 | 28 | [Ndi a Fulufhela](https://open.spotify.com/track/0RtY6IO01pf1VJLH7QVdzP) | [Nkanyezi Kubheka](https://open.spotify.com/artist/0APN22F7fuIUq8X5FIAEEu) | [Ndi a Fulufhela](https://open.spotify.com/album/1cv81Eqr7sMu9ncNGrCyHo) | 4:46 |

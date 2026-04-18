@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Psyched-out bands from the four corners of the world. Sedef  Seb\u00fcktekin on cover.",
+  "description": "Psyched-out bands from the four corners of the world. Temples on cover.",
   "name": "Neo-Psychedelic Rock",
   "tracks": [
     {
@@ -282,6 +282,24 @@
       "duration_ms": 417777,
       "name": "Angel Dust",
       "url": "https://open.spotify.com/track/75wCRzBwolcOkpB4OsRVnL"
+    },
+    {
+      "album": {
+        "name": "Angeles",
+        "url": "https://open.spotify.com/album/1vad0gJkkmtHw3j57nrrSj"
+      },
+      "artists": [
+        {
+          "name": "City of the Sun",
+          "url": "https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/1WRwNkPolcW0a6sveTUBY8"
     },
     {
       "album": {
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 201422,
       "name": "Distant Restart",
       "url": "https://open.spotify.com/track/3z6UUdNXqe6RgdCBlB0bn1"
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 277443,
       "name": "El Tiempo",
       "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
@@ -1666,7 +1684,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 352542,
       "name": "El Veh\u00edculo de las Transformaciones",
       "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
@@ -1778,6 +1796,24 @@
       "duration_ms": 173862,
       "name": "Escultura Misterio",
       "url": "https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD"
+    },
+    {
+      "album": {
+        "name": "PISS! PEAS! PEACE!",
+        "url": "https://open.spotify.com/album/1JQEawqqWequOQOz2i72HZ"
+      },
+      "artists": [
+        {
+          "name": "Lovvb\u00f6mbing!",
+          "url": "https://open.spotify.com/artist/2fCM484FPEFRbjqqpU1sjt"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172725,
+      "name": "Esquisito River",
+      "url": "https://open.spotify.com/track/16HGLBTpgw5VKclztUUayG"
     },
     {
       "album": {
@@ -2016,6 +2052,24 @@
       "duration_ms": 362226,
       "name": "Fishbelly 86 Onions",
       "url": "https://open.spotify.com/track/7HiyaZlTkSRWvLrHfBMcqz"
+    },
+    {
+      "album": {
+        "name": "Fliiim",
+        "url": "https://open.spotify.com/album/3FoCvSpo76YEUAt98FSKAq"
+      },
+      "artists": [
+        {
+          "name": "Upupay\u0101ma",
+          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329102,
+      "name": "Fliiim",
+      "url": "https://open.spotify.com/track/1aAsUzTj2bIH6cAHLsacKw"
     },
     {
       "album": {
@@ -2318,7 +2372,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 170186,
       "name": "Golden Dawn",
       "url": "https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU"
@@ -3229,6 +3283,24 @@
     },
     {
       "album": {
+        "name": "Kundela Mawedi",
+        "url": "https://open.spotify.com/album/5AHhPN1GiSsxdlbBZmlThN"
+      },
+      "artists": [
+        {
+          "name": "Atabasca",
+          "url": "https://open.spotify.com/artist/2vIpX7cPlF9qmWNac8TbKi"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337241,
+      "name": "Kundela Mawedi",
+      "url": "https://open.spotify.com/track/3lGcSLtbK1vBbm7CbXWULD"
+    },
+    {
+      "album": {
         "name": "Impuros Fan\u00e1ticos",
         "url": "https://open.spotify.com/album/2ZqLBWbe85F9FH8gHANGWE"
       },
@@ -3868,7 +3940,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 434000,
       "name": "Nel Tempio Blu",
       "url": "https://open.spotify.com/track/7IcLUN0igVIWMHuvVp3GwZ"
@@ -3976,7 +4048,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 274176,
       "name": "Norfolk Hotel",
       "url": "https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9"
@@ -4896,7 +4968,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 214466,
       "name": "Saku Saku (\u30b5\u30af\u30b5\u30af\uff09",
       "url": "https://open.spotify.com/track/0kyoRa0YcOHWjdcf4l2IIf"
@@ -5228,6 +5300,24 @@
       "duration_ms": 256000,
       "name": "Sn\u00f6-Golem",
       "url": "https://open.spotify.com/track/2VAkRcPecdWmnZ658FAMdN"
+    },
+    {
+      "album": {
+        "name": "Transmutations: Encore",
+        "url": "https://open.spotify.com/album/23SMXQIkiQyceJr1cAcR3D"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144780,
+      "name": "Solar (Alchemized)",
+      "url": "https://open.spotify.com/track/1brrFg5NPT8i7pvccAbxsN"
     },
     {
       "album": {
@@ -6069,6 +6159,24 @@
     },
     {
       "album": {
+        "name": "Vendetta",
+        "url": "https://open.spotify.com/album/3cGO3FBxbnkyB7gWIWYmwS"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268062,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/2iaqhM34CBBgoyHLxOg5Ba"
+    },
+    {
+      "album": {
         "name": "Good Bad Not Evil",
         "url": "https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ"
       },
@@ -6394,6 +6502,24 @@
       "duration_ms": 247306,
       "name": "Without a Trace",
       "url": "https://open.spotify.com/track/3kHTbTT9qOITWhR9OGPlpU"
+    },
+    {
+      "album": {
+        "name": "Wormslayer",
+        "url": "https://open.spotify.com/album/7oqqC29ERBClNdbl1IEIeJ"
+      },
+      "artists": [
+        {
+          "name": "Kula Shaker",
+          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450113,
+      "name": "Wormslayer",
+      "url": "https://open.spotify.com/track/2Xd7KKCsVsVsqEyGaZ5eK5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Bluesy blips and blops
 
-88 songs - 5 hr 59 min
+89 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Left Behind](https://open.spotify.com/track/5gSHmVV30dqKESS4nYGpXg) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [Left Behind](https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF) | 3:36 | 2020-12-01 |  |
 | [Levee & Brick \(Down to This\)](https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [Levee & Brick \(Down to This\)](https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4) | 2:46 | 2023-01-20 |  |
 | [Levee & Brick \(Down to This\)](https://open.spotify.com/track/2oTHtSfjzbVlhTyDqVls7d) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [III](https://open.spotify.com/album/7wOCyDQqR7yUb4JvEgBnrd) | 2:46 | 2023-02-03 | 2024-04-19 |
+| [Look at the Tears Roll](https://open.spotify.com/track/2Nn4vByhCJUNGdf9iRYYrd) | [Charlie Beale](https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o) | [Steady Rolling](https://open.spotify.com/album/1NwK7mKYgerz20Q8rxVSIY) | 3:08 | 2026-04-17 |  |
 | [Love Me \- KR3TURE Remix](https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S) | [DJ Taz Rashid](https://open.spotify.com/artist/2XvQyfssNbXYWcOkKaWYlx), [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu) | [High Vibe Remixes, Vol\. 1](https://open.spotify.com/album/3NlmTWejiSpfgnxD7CiVzt) | 3:49 | 2021-08-13 |  |
 | [Midnight Dream](https://open.spotify.com/track/0v1JpYiFmnpgbxxzh5Oqul) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Hard Grind](https://open.spotify.com/album/3T2bRUO66PXyXR97uiXQeY) | 4:03 | 2020-12-01 |  |
 | [Midnight Dream](https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Hard Grind](https://open.spotify.com/album/1kw3Ixj3jFCe153TQcicpB) | 4:03 | 2020-12-01 | 2024-04-19 |
@@ -93,7 +94,7 @@
 | [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/track/3AbawelgHpuAm3VTz7vAgF) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/album/0itpRa7RxoZXXhuOYJALqS) | 3:11 | 2023-02-03 |  |
 | [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/track/3fxmPJD9uAhBmQLPqxsW3g) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [We'r Gonna Have \(A Good Time\)](https://open.spotify.com/album/5ppQwO8UwO15NrEpDlVg88) | 3:11 | 2023-03-17 | 2024-04-11 |
 | [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/track/4G9aIO19Bpmil8aOPmS1K1) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [We'r Gonna Have \(A Good Time\)](https://open.spotify.com/album/32t2T9nsxWEeJ8ZHLqHiba) | 3:11 | 2023-03-17 | 2024-04-19 |
-| [Why Not?](https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Why Not?](https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY) | 3:33 | 2020-12-01 |  |
+| [Why Not?](https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Why Not?](https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY) | 3:33 | 2020-12-01 | 2026-04-18 |
 | [Wolves](https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 2:55 | 2020-12-01 |  |
 | [Xotic](https://open.spotify.com/track/5zT0oYIpruDMbverZ28esj) | [miXendorp](https://open.spotify.com/artist/4lK3eAKeNM2RTUE5cILbgP) | [Bluestronica EP nr 2](https://open.spotify.com/album/5CnJQvhMyM5qtHoRBjVvC3) | 4:05 | 2023-08-04 |  |
 

@@ -4,7 +4,7 @@
 
 > Nuovi brani di Madame, ROSALÍA, sombr, Achille Lauro, Lana Del Rey, Olivia Rodrigo e tanti altri.
 
-8,682 songs - 18 day 7 hr 9 min
+8,683 songs - 18 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [4X4](https://open.spotify.com/track/54j9WqGM5qQQAaO58tTsB6) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Skinny Flex](https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW) | [4X4](https://open.spotify.com/album/391J3aAlf22fuHzHSoRokv) | 3:00 | 2024-08-29 | 2024-09-06 |
 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 | 2025-01-24 | 2025-01-31 |
 | [5 AM](https://open.spotify.com/track/5AHbliUwx0rJ4dd5iSwArl) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [5 AM](https://open.spotify.com/album/5Jec1PHcm59IIt3vp7cUs6) | 2:21 | 2025-04-10 | 2025-04-18 |
+| [5 di mattina](https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [BITTE LEBEN](https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy) | 3:01 | 2026-04-16 |  |
 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 | 2025-01-10 | 2025-01-17 |
 | [5 Estrellas \- W Sound 23](https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [5 Estrellas \- W Sound 23](https://open.spotify.com/album/4L6MTI7UEE1kF0zHprnx3S) | 3:11 | 2026-02-05 | 2026-02-13 |
 | [5 Minutes](https://open.spotify.com/track/5FY5bSkPdugbE0i1psTU86) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [5 Minutes](https://open.spotify.com/album/2J2mY0YdMoofsAaFGLkAqQ) | 3:13 | 2026-01-02 | 2026-01-15 |
@@ -1406,7 +1407,7 @@
 | [cenere](https://open.spotify.com/track/10Xlfvqv5axeyKPoBpcaAZ) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [cenere](https://open.spotify.com/album/2o2KJ764EtNgl8GQpfSLVS) | 2:41 | 2025-12-19 | 2026-01-02 |
 | [Cenere e fumo](https://open.spotify.com/track/7dW2uYFGWiLhc3EFVDp0vF) | [Shari](https://open.spotify.com/artist/3X9nkz31tAOM25rdtzfi60) | [Amore & Blues](https://open.spotify.com/album/3FggKt3YeS9XAQJdHbnmTh) | 2:38 | 2024-11-28 | 2024-12-06 |
 | [CENTO RAGAZZE](https://open.spotify.com/track/2YzoQKJwvo0ZBeQc6Ro7LT) | [rob](https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7) | [CENTO RAGAZZE](https://open.spotify.com/album/4xrK0fSYLtKdgFAaRgp61W) | 2:42 | 2025-11-20 | 2025-11-28 |
-| [CENTOMILA](https://open.spotify.com/track/2K5LuNBoNkIO9A5yx8Owyl) | [Gabriel Tonelli](https://open.spotify.com/artist/1SHwQTs9UzjrQPwnLHx46U) | [CENTOMILA](https://open.spotify.com/album/5SzP7MjXslryCmHKvxqVtk) | 4:01 | 2026-04-16 |  |
+| [CENTOMILA](https://open.spotify.com/track/2K5LuNBoNkIO9A5yx8Owyl) | [GABRIEL TONELLI](https://open.spotify.com/artist/3gzEVxb4jUC0579HQ08Opx) | [CENTOMILA](https://open.spotify.com/album/5SzP7MjXslryCmHKvxqVtk) | 4:01 | 2026-04-16 |  |
 | [Centomila](https://open.spotify.com/track/1qPXw4KAoJgjAVnhAedkAl) | [Nicolaj Serjotti](https://open.spotify.com/artist/6esxRpRlB73YqS63CDjss7) | [Side C Side D](https://open.spotify.com/album/1dAnYXlBerK02lfqiH1ySS) | 3:15 | 2025-05-15 | 2025-05-23 |
 | [CENTRALE ELETTRICA \(feat\. Not Good\)](https://open.spotify.com/track/3jBe7yZjYmWF2Vuvh8ByhE) | [heysimo](https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A), [Paola Pizzino](https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug), [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [CENTRALE ELETTRICA \(feat\. Not Good\)](https://open.spotify.com/album/4XtThyzrdlNCOdMecXqYzA) | 2:31 | 2024-05-16 | 2024-05-24 |
 | [Centri Commerciali](https://open.spotify.com/track/1QdLcCH3xq7JEqCE8Lfbac) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Centri Commerciali](https://open.spotify.com/album/7nkwjllcvWQUTGQk25LjE6) | 2:37 | 2025-06-19 | 2025-06-27 |
@@ -2280,6 +2281,7 @@
 | [DRIVE BY](https://open.spotify.com/track/1P0M9PUXDsgctVrNzjoIHt) | [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR) | [DRIVE BY](https://open.spotify.com/album/0RJAfvj2UZrHCxbJnbnPbo) | 2:09 | 2024-10-10 | 2024-10-18 |
 | [drive safe](https://open.spotify.com/track/6CUKOiRpzycNTimZizcT3D) | [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP) | [drive safe](https://open.spotify.com/album/4fioYAH0jgMho34kamskta) | 2:28 | 2025-01-16 | 2025-01-24 |
 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-02-05 | 2026-02-13 |
+| [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-16 |  |
 | [DROWN](https://open.spotify.com/track/4iyzWWLC4TOn5FqoyatMxp) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [SO MUCH HAS CHANGED](https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA) | 3:53 | 2026-01-30 | 2026-02-06 |
 | [DROWN](https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [TO CRY A FLOOD](https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva) | 2:31 | 2025-11-13 | 2025-11-21 |
 | [Drown Me in Your River](https://open.spotify.com/track/0I7ppo2wo6EOz1sz00krtP) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Drown Me in Your River](https://open.spotify.com/album/2cU0FflY59LDxXqyeisN6C) | 2:46 | 2024-09-19 | 2024-09-27 |
@@ -7857,7 +7859,6 @@
 | [Tra le mani un cuore](https://open.spotify.com/track/1Xx6THZu4z3IoKFZhLHz1y) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d) | [Tra le mani un cuore](https://open.spotify.com/album/5kBEwe5XOm8c3wP8voJltU) | 3:15 | 2025-02-13 | 2025-02-21 |
 | [Tra le onde](https://open.spotify.com/track/4TfxicRtSNQwfdWPSZ7JQc) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Tra le onde](https://open.spotify.com/album/3lAn7sXbnuxqnjzaUTU1w1) | 3:06 | 2024-12-05 | 2024-12-13 |
 | [tra parentesi](https://open.spotify.com/track/1FVGtE2nAqIR22ial5EbHo) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [tra parentesi](https://open.spotify.com/album/1szcGWQ3Mgv5VZwxmobw66) | 1:58 | 2025-11-28 | 2025-12-05 |
-| [Track 2](https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [BITTE LEBEN](https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy) | 0:00 | 2026-04-16 |  |
 | [Track 3](https://open.spotify.com/track/2u7oaYuzOEAnkgoiWlVjoW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [PIÙ CHE SOLIDO](https://open.spotify.com/album/1p4XYB6kR49pnvbdBJibCT) | 0:00 | 2026-03-05 | 2026-03-07 |
 | [Track 5](https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 | 2025-10-25 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-03 |

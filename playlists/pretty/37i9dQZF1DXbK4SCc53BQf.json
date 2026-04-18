@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 107099,
+  "num_followers": 107120,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Bajo la Luna",
-        "url": "https://open.spotify.com/album/16gdetmIdSQmGsOBN6YhfY"
-      },
-      "artists": [
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Bajo la Luna",
-      "url": "https://open.spotify.com/track/2Cox3krXGo7Fs1YiVAsn0Q"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Taba Lloviendo",
         "url": "https://open.spotify.com/album/6AFl7NFbzUmkHztB5C2vvF"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 188318,
       "name": "Taba Lloviendo",
       "url": "https://open.spotify.com/track/7GFiB95NCGLBZbZFbe5Lue"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Bajo la Luna",
+        "url": "https://open.spotify.com/album/16gdetmIdSQmGsOBN6YhfY"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "Bajo la Luna",
+      "url": "https://open.spotify.com/track/2Cox3krXGo7Fs1YiVAsn0Q"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Merengueton",
-        "url": "https://open.spotify.com/album/6cQdkMoB6vqMU4orFz2WeP"
-      },
-      "artists": [
-        {
-          "name": "Townix",
-          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
-        }
-      ],
-      "duration_ms": 161803,
-      "name": "Merengueton",
-      "url": "https://open.spotify.com/track/72VmExJKcEzxCJZJo5f7HO"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Enamorarme Mas",
         "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 275426,
       "name": "Perfume a Tus Pies",
       "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Merengueton",
+        "url": "https://open.spotify.com/album/6cQdkMoB6vqMU4orFz2WeP"
+      },
+      "artists": [
+        {
+          "name": "Townix",
+          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
+        }
+      ],
+      "duration_ms": 161803,
+      "name": "Merengueton",
+      "url": "https://open.spotify.com/track/72VmExJKcEzxCJZJo5f7HO"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -323,22 +323,18 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Sublime Gracia",
-        "url": "https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX"
+        "name": "Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
       },
       "artists": [
         {
-          "name": "Damaris Guerra",
-          "url": "https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj"
-        },
-        {
-          "name": "Isamar",
-          "url": "https://open.spotify.com/artist/2drlQvlGLUluWh7iqqB8p7"
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
         }
       ],
-      "duration_ms": 166875,
-      "name": "Sublime Gracia",
-      "url": "https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S"
+      "duration_ms": 244426,
+      "name": "Digan Lo Que Diga",
+      "url": "https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -359,18 +355,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
+        "name": "Sublime Gracia",
+        "url": "https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX"
       },
       "artists": [
         {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+          "name": "Damaris Guerra",
+          "url": "https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj"
+        },
+        {
+          "name": "Isamar",
+          "url": "https://open.spotify.com/artist/2drlQvlGLUluWh7iqqB8p7"
         }
       ],
-      "duration_ms": 244426,
-      "name": "Digan Lo Que Diga",
-      "url": "https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3"
+      "duration_ms": 166875,
+      "name": "Sublime Gracia",
+      "url": "https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -543,6 +543,26 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "Siempre Has Sido Fiel",
+        "url": "https://open.spotify.com/album/5MapDgrCSpghEvUw29FE1L"
+      },
+      "artists": [
+        {
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+        },
+        {
+          "name": "Kaelyn Reese",
+          "url": "https://open.spotify.com/artist/0ZkULBMxdmXuVGzA0xSOnl"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Siempre Has Sido Fiel",
+      "url": "https://open.spotify.com/track/0ExRFTBr0xfteBCElp0kI2"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "Lejos",
         "url": "https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A"
       },
@@ -583,22 +603,18 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Siempre Has Sido Fiel",
-        "url": "https://open.spotify.com/album/5MapDgrCSpghEvUw29FE1L"
+        "name": "Alegria Latina",
+        "url": "https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR"
       },
       "artists": [
         {
-          "name": "Yore",
-          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
-        },
-        {
-          "name": "Kaelyn Reese",
-          "url": "https://open.spotify.com/artist/0ZkULBMxdmXuVGzA0xSOnl"
+          "name": "Yan Rymond",
+          "url": "https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j"
         }
       ],
-      "duration_ms": 171764,
-      "name": "Siempre Has Sido Fiel",
-      "url": "https://open.spotify.com/track/0ExRFTBr0xfteBCElp0kI2"
+      "duration_ms": 239026,
+      "name": "Sana Nuestra Tierra",
+      "url": "https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -615,22 +631,6 @@
       "duration_ms": 229180,
       "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
       "url": "https://open.spotify.com/track/1I4NvCYmKakgaYtFU2KHU1"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Alegria Latina",
-        "url": "https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR"
-      },
-      "artists": [
-        {
-          "name": "Yan Rymond",
-          "url": "https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Sana Nuestra Tierra",
-      "url": "https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Lo Mejor De La Vida",
-        "url": "https://open.spotify.com/album/10o6MR8g8EXpeRGulLaPSl"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        }
-      ],
-      "duration_ms": 217660,
-      "name": "Lo Mejor De La Vida",
-      "url": "https://open.spotify.com/track/4T8vv4Hwzg0vEwsRg253oS"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Ped\u00ed Un Deseo",
         "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 267769,
       "name": "Antes Que Salga El Sol - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/6Ya4oYH9PgKiYzoHiajM9P"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Lo Mejor De La Vida",
+        "url": "https://open.spotify.com/album/10o6MR8g8EXpeRGulLaPSl"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        }
+      ],
+      "duration_ms": 217660,
+      "name": "Lo Mejor De La Vida",
+      "url": "https://open.spotify.com/track/4T8vv4Hwzg0vEwsRg253oS"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
+      },
+      "artists": [
+        {
+          "name": "ANMILY",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 147672,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "CARTAGENA",
         "url": "https://open.spotify.com/album/1LKiiYDppMPV3xQCn9W65N"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 164877,
       "name": "CARTAGENA",
       "url": "https://open.spotify.com/track/5PfhsUM1oFLszzFO449aC7"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
-      },
-      "artists": [
-        {
-          "name": "ANMILY",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 147672,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Cada ma\u00f1ana",
-        "url": "https://open.spotify.com/album/2bIrI9nbxJj73KJkr00DTe"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Cada ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0rpuMehsTKtZ26XFUTlnnO"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Tus Planes",
         "url": "https://open.spotify.com/album/6HXnKD6egQWcHc3MbPfJPk"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 170898,
       "name": "Tus Planes",
       "url": "https://open.spotify.com/track/0h5tuSnIQx4wQR34ohExuM"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Cada ma\u00f1ana",
+        "url": "https://open.spotify.com/album/2bIrI9nbxJj73KJkr00DTe"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Cada ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0rpuMehsTKtZ26XFUTlnnO"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Cantar\u00e9",
-        "url": "https://open.spotify.com/album/4MnjTYf9BgX5bR0EsZZaff"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 243608,
-      "name": "Cantar\u00e9",
-      "url": "https://open.spotify.com/track/2X9UqOkHdY7tiRTnG98SO8"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Diez Mil Razones",
         "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 180069,
       "name": "Diez Mil Razones",
       "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Cantar\u00e9",
+        "url": "https://open.spotify.com/album/4MnjTYf9BgX5bR0EsZZaff"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 243608,
+      "name": "Cantar\u00e9",
+      "url": "https://open.spotify.com/track/2X9UqOkHdY7tiRTnG98SO8"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/7aEzCDMGy3WeYY2EPPuDv4"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "duration_ms": 188429,
+      "name": "Bendita Prueba",
+      "url": "https://open.spotify.com/track/77Kn707gltWkmNxh1Ab7x9"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "Me Encontr\u00f3",
         "url": "https://open.spotify.com/album/5phrKSVCrkrFV3dSJBAy1p"
       },
@@ -1199,18 +1215,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/7aEzCDMGy3WeYY2EPPuDv4"
+        "name": "La Criolla",
+        "url": "https://open.spotify.com/album/3UlKZOXdj6lqe9eyssrjFP"
       },
       "artists": [
         {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+          "name": "BuiltOn Purpose",
+          "url": "https://open.spotify.com/artist/3jKdeKwnpmGGsZwkg8RypA"
+        },
+        {
+          "name": "Giovani",
+          "url": "https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG"
         }
       ],
-      "duration_ms": 188429,
-      "name": "Bendita Prueba",
-      "url": "https://open.spotify.com/track/77Kn707gltWkmNxh1Ab7x9"
+      "duration_ms": 160285,
+      "name": "La Criolla",
+      "url": "https://open.spotify.com/track/3pEBiQSYCtSC1wyNIeNvgH"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1251,26 +1271,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "La Criolla",
-        "url": "https://open.spotify.com/album/3UlKZOXdj6lqe9eyssrjFP"
-      },
-      "artists": [
-        {
-          "name": "BuiltOn Purpose",
-          "url": "https://open.spotify.com/artist/3jKdeKwnpmGGsZwkg8RypA"
-        },
-        {
-          "name": "Giovani",
-          "url": "https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG"
-        }
-      ],
-      "duration_ms": 160285,
-      "name": "La Criolla",
-      "url": "https://open.spotify.com/track/3pEBiQSYCtSC1wyNIeNvgH"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Adorar A Dios",
         "url": "https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
-        "url": "https://open.spotify.com/album/5OJF5gjJmi6RhI0YnqQBuU"
-      },
-      "artists": [
-        {
-          "name": "Altar Vivo",
-          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
-        }
-      ],
-      "duration_ms": 139839,
-      "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
-      "url": "https://open.spotify.com/track/1jm1I2fv53f1xH3DFTYR2D"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Baila",
         "url": "https://open.spotify.com/album/2DDQ42rZLhCHGkzyI56lHB"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 209837,
       "name": "Baila",
       "url": "https://open.spotify.com/track/1JDkqv7ry2RPAbK18JEllb"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
+        "url": "https://open.spotify.com/album/5OJF5gjJmi6RhI0YnqQBuU"
+      },
+      "artists": [
+        {
+          "name": "Altar Vivo",
+          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
+        }
+      ],
+      "duration_ms": 139839,
+      "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
+      "url": "https://open.spotify.com/track/1jm1I2fv53f1xH3DFTYR2D"
     },
     {
       "added_at": "2026-03-29 00:09:04",

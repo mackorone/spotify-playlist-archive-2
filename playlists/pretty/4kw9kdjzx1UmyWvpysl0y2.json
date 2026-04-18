@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124072,
+  "num_followers": 124065,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVUKv50yZ/vJebP3jeNeUV5MN1rrPp",
+  "snapshot_id": "AAAVUpetDicBw9/CQ1Xminke2DvNivIk",
   "tracks": [
+    {
+      "added_at": "2026-04-17 16:08:57",
+      "album": {
+        "name": "Make You Move",
+        "url": "https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Make You Move",
+      "url": "https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ"
+    },
+    {
+      "added_at": "2026-04-17 16:08:45",
+      "album": {
+        "name": "Get Slippy",
+        "url": "https://open.spotify.com/album/3E5sDCaFFndVN6LSZgCWRD"
+      },
+      "artists": [
+        {
+          "name": "SHOSH",
+          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "Get Slippy",
+      "url": "https://open.spotify.com/track/194ZRoXmA3C8RqnZCUvirF"
+    },
     {
       "added_at": "2026-04-16 18:18:03",
       "album": {

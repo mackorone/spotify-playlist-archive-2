@@ -8831,6 +8831,24 @@
     },
     {
       "album": {
+        "name": "Get Slippy",
+        "url": "https://open.spotify.com/album/3E5sDCaFFndVN6LSZgCWRD"
+      },
+      "artists": [
+        {
+          "name": "SHOSH",
+          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Get Slippy",
+      "url": "https://open.spotify.com/track/194ZRoXmA3C8RqnZCUvirF"
+    },
+    {
+      "album": {
         "name": "Get Through",
         "url": "https://open.spotify.com/album/5iDeNESrto46Zim2KP4bfX"
       },
@@ -13448,6 +13466,24 @@
       "duration_ms": 153936,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/2bbjDrZw5OsRy3wtqmfO1N"
+    },
+    {
+      "album": {
+        "name": "Make You Move",
+        "url": "https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Make You Move",
+      "url": "https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ"
     },
     {
       "album": {

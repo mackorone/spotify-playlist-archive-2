@@ -1,6 +1,6 @@
 {
   "description": "a playlist without boundaries \ud83e\uddfa\ncover: JD CLIFFE",
-  "num_followers": 297678,
+  "num_followers": 297643,
   "original_name": "Our Generation",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-04-16 23:00:18",
       "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "added_at": "2026-04-16 23:00:18",
+      "album": {
         "name": "does it still rain?",
         "url": "https://open.spotify.com/album/3dLcb6UK74af7IgA7vAq8B"
       },
@@ -303,7 +319,7 @@
     {
       "added_at": "2026-04-16 23:00:18",
       "album": {
-        "name": "My Favourite Book Is One I\u2019ve Read A Bunch",
+        "name": "My Favourite Book Is One I\u2019ve Read A Bunch / Little Rib",
         "url": "https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3"
       },
       "artists": [

@@ -1045,36 +1045,6 @@
     },
     {
       "album": {
-        "name": "Saint-Sa\u00ebns: Carnival of the Animals: The Swan",
-        "url": "https://open.spotify.com/album/3SbOSz7UrUpxok03YjX5YI"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Isata Kanneh-Mason",
-          "url": "https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M"
-        },
-        {
-          "name": "Jeneba Kanneh-Mason",
-          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
-        },
-        {
-          "name": "Sheku Kanneh-Mason",
-          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
-        }
-      ],
-      "date_added": "2024-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150146,
-      "name": "Carnival of the Animals, R. 125: XIII. The Swan",
-      "url": "https://open.spotify.com/track/3U8Fx7zNTQrctytkj6Gqgd"
-    },
-    {
-      "album": {
         "name": "Cavalleria rusticana: Intermezzo",
         "url": "https://open.spotify.com/album/4QzroossnF0SqsfH2jIQFp"
       },
@@ -3960,6 +3930,36 @@
       "duration_ms": 285442,
       "name": "The Arts and the Hours",
       "url": "https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs"
+    },
+    {
+      "album": {
+        "name": "Saint-Sa\u00ebns: Carnival of the Animals: The Swan",
+        "url": "https://open.spotify.com/album/3SbOSz7UrUpxok03YjX5YI"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Isata Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M"
+        },
+        {
+          "name": "Jeneba Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
+        },
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150146,
+      "name": "The Carnival of the Animals, R. 125: XIII. The Swan",
+      "url": "https://open.spotify.com/track/3U8Fx7zNTQrctytkj6Gqgd"
     },
     {
       "album": {

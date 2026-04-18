@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Vaazha 2",
-  "num_followers": 652003,
+  "num_followers": 652761,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALi1sRVn2wn9TrM7k4D2hfTZaAOg",
+  "snapshot_id": "AAAAADop86tJAOMhREAslSSFUBjAniQd",
   "tracks": [
     {
       "added_at": "2026-04-13 07:23:30",
@@ -79,6 +79,34 @@
       "duration_ms": 244571,
       "name": "Koodappirannor",
       "url": "https://open.spotify.com/track/4zeA83WTPlKCkag4utanxx"
+    },
+    {
+      "added_at": "2026-04-17 11:39:21",
+      "album": {
+        "name": "CHILLARA FLEX",
+        "url": "https://open.spotify.com/album/5DwJYu4wEeiZ4GJX1wkBbV"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "FIFTY4",
+          "url": "https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP"
+        },
+        {
+          "name": "RONN",
+          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
+        }
+      ],
+      "duration_ms": 142184,
+      "name": "CHILLARA FLEX",
+      "url": "https://open.spotify.com/track/1aAkDOxVXY9I0VyEuOgRY5"
     },
     {
       "added_at": "2026-02-26 09:58:49",
@@ -1067,38 +1095,6 @@
       "duration_ms": 217777,
       "name": "Kannodu - Live",
       "url": "https://open.spotify.com/track/5daE0LYn2yQquJ9BUTma2f"
-    },
-    {
-      "added_at": "2025-02-17 08:09:53",
-      "album": {
-        "name": "Cheth Song (From \"Pravinkoodu Shappu\")",
-        "url": "https://open.spotify.com/album/74sP5qGtpKTlQ21rZB6W3S"
-      },
-      "artists": [
-        {
-          "name": "Vishnu Vijay",
-          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
-        },
-        {
-          "name": "Aparna Harikumar",
-          "url": "https://open.spotify.com/artist/7LNUzNqFRlLgmF05m4yyXK"
-        },
-        {
-          "name": "Padmaja Sreenivasan",
-          "url": "https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P"
-        },
-        {
-          "name": "Indu Sanath",
-          "url": "https://open.spotify.com/artist/6uXJN01hJLo1cZPfQOldgi"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 225865,
-      "name": "Cheth Song (From \"Pravinkoodu Shappu\")",
-      "url": "https://open.spotify.com/track/6zu3OZLSZqrHedlgvrdCPE"
     },
     {
       "added_at": "2025-05-06 06:08:30",

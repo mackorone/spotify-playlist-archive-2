@@ -526,7 +526,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 257640,
       "name": "Antivenom",
       "url": "https://open.spotify.com/track/6owOPBbWiOC4oWFDX8ZoAe"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 152842,
       "name": "Bar Fight with Buzz Aldrin (Robo Mix)",
       "url": "https://open.spotify.com/track/7qHzNi3KQOrMKAitWSd8rM"
@@ -852,6 +852,24 @@
       "duration_ms": 186352,
       "name": "Below",
       "url": "https://open.spotify.com/track/7EN56vFE3dTbkuzaIBkplR"
+    },
+    {
+      "album": {
+        "name": "Saviour On The Spilled Blood",
+        "url": "https://open.spotify.com/album/3yvBmFubGWL0y4O3HHzoCl"
+      },
+      "artists": [
+        {
+          "name": "Theo Vandenhoff",
+          "url": "https://open.spotify.com/artist/2Uphb2bRaId3wQttgfvyfs"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305441,
+      "name": "Below the Western Steppe",
+      "url": "https://open.spotify.com/track/0O9ON4NlRXOrC3LwqeXEuO"
     },
     {
       "album": {
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 224163,
       "name": "Bleed (Everything You Bury)",
       "url": "https://open.spotify.com/track/2cccKUd5qsD6l4bM9bxHZV"
@@ -1481,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "softness",
+        "url": "https://open.spotify.com/album/4YtHD8uyn5QKEvbsPWdEO6"
+      },
+      "artists": [
+        {
+          "name": "velvet motel",
+          "url": "https://open.spotify.com/artist/1Eg76plZ9N7NbKIh8tZCw2"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211027,
+      "name": "Capabilities",
+      "url": "https://open.spotify.com/track/1CXN41nejqYRaIKve3Y7vA"
+    },
+    {
+      "album": {
         "name": "Egbertronic",
         "url": "https://open.spotify.com/album/0RCJvRjxsIuC49Ki8fc66h"
       },
@@ -1492,7 +1528,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 211981,
       "name": "Castle of love II",
       "url": "https://open.spotify.com/track/5S7AVhwllnAQ3ZOgf7SnLn"
@@ -1900,7 +1936,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 257091,
       "name": "Contain",
       "url": "https://open.spotify.com/track/4HLd3nCtsvfoETEr2FtWr9"
@@ -2272,7 +2308,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 153397,
       "name": "Damaged Melody",
       "url": "https://open.spotify.com/track/27fOvapD2k1r432yfIVN4X"
@@ -2518,7 +2554,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 231231,
       "name": "Deliria",
       "url": "https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF"
@@ -3128,7 +3164,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 250139,
       "name": "Eye For An Eye",
       "url": "https://open.spotify.com/track/6EyzhcKyRGTCUTVFaOg1Oe"
@@ -3330,7 +3366,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 132250,
       "name": "Fear Of extinction",
       "url": "https://open.spotify.com/track/2HF3Ro2XlnqP1S5iFzxSQd"
@@ -4308,6 +4344,24 @@
       "duration_ms": 288750,
       "name": "Here comes the rain again",
       "url": "https://open.spotify.com/track/0IDP8V9dFCoayfuQ8UH60b"
+    },
+    {
+      "album": {
+        "name": "Here I Come & Go (Again Remix)",
+        "url": "https://open.spotify.com/album/5njaIE1RrzDEDluL6rkORf"
+      },
+      "artists": [
+        {
+          "name": "The Godivas",
+          "url": "https://open.spotify.com/artist/69y2q2PkXUbp95NaSGLj6X"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176397,
+      "name": "Here I Come & Go - Again Remix",
+      "url": "https://open.spotify.com/track/42QDXQumDPrDdZfO6XjIst"
     },
     {
       "album": {
@@ -5418,7 +5472,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 280465,
       "name": "La nuit",
       "url": "https://open.spotify.com/track/1zxgApHJwCNwnCI0e2oiqK"
@@ -5772,7 +5826,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 199857,
       "name": "Lobotomize",
       "url": "https://open.spotify.com/track/4vsSkXM6cT2qEFfSVHPY1d"
@@ -5790,7 +5844,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 236615,
       "name": "Long Distance to Go",
       "url": "https://open.spotify.com/track/5CpzD2bjv4G7R7xZsg7jCL"
@@ -6934,7 +6988,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 223000,
       "name": "Old Photo (Here We Are)",
       "url": "https://open.spotify.com/track/6yEsX8zRnPaJJtleNERha9"
@@ -7024,7 +7078,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 187984,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/0HUuA0SKzCoHvvc8YabRyi"
@@ -7711,6 +7765,24 @@
     },
     {
       "album": {
+        "name": "Reishi (Dark Forest Mix)",
+        "url": "https://open.spotify.com/album/1fIdhiSplA8iNK5uNUOmE2"
+      },
+      "artists": [
+        {
+          "name": "Death Hags",
+          "url": "https://open.spotify.com/artist/0PulgZlDMcE2B1AQD4kITo"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178205,
+      "name": "Reishi (Dark Forest Mix)",
+      "url": "https://open.spotify.com/track/1DmqcIAhNDjZWAkQiSnQkp"
+    },
+    {
+      "album": {
         "name": "Return to Sender",
         "url": "https://open.spotify.com/album/4Clf8pJUeZ2axvofct9OtF"
       },
@@ -7812,7 +7884,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 241893,
       "name": "Roseblood",
       "url": "https://open.spotify.com/track/0SvqrLZMvV3uSJ4gavipef"
@@ -8072,7 +8144,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -8646,7 +8718,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Slipping away",
       "url": "https://open.spotify.com/track/67iGteenwJZQbZJ4yTBb2m"
@@ -8954,7 +9026,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/0xClyT50QEG0EwFYsg2xds"
@@ -9413,6 +9485,24 @@
     },
     {
       "album": {
+        "name": "Chasing Desire",
+        "url": "https://open.spotify.com/album/6lfx5CwRgWeV0wmULh2Dam"
+      },
+      "artists": [
+        {
+          "name": "Esya",
+          "url": "https://open.spotify.com/artist/0uSZKksJSS8sAUZKHX2YQ5"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219017,
+      "name": "Take My All",
+      "url": "https://open.spotify.com/track/1WvhiSKCEuLe0yoi5rGEUZ"
+    },
+    {
+      "album": {
         "name": "Take on me",
         "url": "https://open.spotify.com/album/27WiBAO7LZTAV6Vn18olKP"
       },
@@ -9565,6 +9655,24 @@
     },
     {
       "album": {
+        "name": "Mondo Tomorrow",
+        "url": "https://open.spotify.com/album/3yePB1tilUvX1MsiQoToQu"
+      },
+      "artists": [
+        {
+          "name": "The Neptune Power Federation",
+          "url": "https://open.spotify.com/artist/7JycGU3Hz4e5g1ZFSAIy0P"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390080,
+      "name": "The Barbarian Dominion",
+      "url": "https://open.spotify.com/track/0JqJFhQjgJ6xSr04KaZd7n"
+    },
+    {
+      "album": {
         "name": "The Beat",
         "url": "https://open.spotify.com/album/0SGlHdLL1eF5cOYC6GRmLh"
       },
@@ -9660,7 +9768,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 316000,
       "name": "The End Of All Wars",
       "url": "https://open.spotify.com/track/338zgBwLel82z2hPqahA2U"
@@ -9934,7 +10042,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 173338,
       "name": "The Secret of the Future",
       "url": "https://open.spotify.com/track/7uuwXkk4WloEcCsB4DsUFZ"
@@ -11122,7 +11230,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Watch You Beg",
       "url": "https://open.spotify.com/track/5ee27I7cWQALUMjs06nnkt"
@@ -11776,6 +11884,24 @@
       "duration_ms": 208002,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/0wQ3CyATsC1qjdPg9R7oTl"
+    },
+    {
+      "album": {
+        "name": "Your Blood Is Like Mine",
+        "url": "https://open.spotify.com/album/7AysLBRJYqrJTnbBjyMXQP"
+      },
+      "artists": [
+        {
+          "name": "Distant Stares",
+          "url": "https://open.spotify.com/artist/5BKnDbzkcEmjSpvngzG3Q8"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232040,
+      "name": "Your Blood Is Like Mine",
+      "url": "https://open.spotify.com/track/68DA4SFMI6X3c9KWuAt9sR"
     },
     {
       "album": {

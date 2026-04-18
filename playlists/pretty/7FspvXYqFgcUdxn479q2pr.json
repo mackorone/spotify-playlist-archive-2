@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31642,
+  "num_followers": 31643,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAvzbbshUlTLIQkfEy6RpsjVFlw6yWh",
+  "snapshot_id": "AAAv17OlLNazUfN1v21l+VOaUBKXZYzG",
   "tracks": [
     {
       "added_at": "2026-04-16 22:00:04",
@@ -331,6 +331,34 @@
       "duration_ms": 300595,
       "name": "Oud and Roll",
       "url": "https://open.spotify.com/track/4B4OK2yW6Hwv35xgrvEyH6"
+    },
+    {
+      "added_at": "2026-04-17 10:52:51",
+      "album": {
+        "name": "Tobago (Serve Cold, Bensy & Grigor\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/1Aw7wAwGoeEKTFQwhmKYWc"
+      },
+      "artists": [
+        {
+          "name": "Jonas Rathsman",
+          "url": "https://open.spotify.com/artist/0evBopfnhhbHzmHebWTDx7"
+        },
+        {
+          "name": "Serve Cold",
+          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
+        },
+        {
+          "name": "Bensy",
+          "url": "https://open.spotify.com/artist/5bL6DC0g37boJqvYx1Ofom"
+        },
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Tobago - Serve Cold, Bensy & Grigor\u00e9 Remix",
+      "url": "https://open.spotify.com/track/3JIC1IKM3RaM4rF4QB2D4t"
     },
     {
       "added_at": "2026-03-30 10:20:47",
@@ -809,6 +837,42 @@
       "url": "https://open.spotify.com/track/5X9wmreOpsUOsZQXZGiwW3"
     },
     {
+      "added_at": "2026-04-17 11:47:52",
+      "album": {
+        "name": "The Great Unknown",
+        "url": "https://open.spotify.com/album/5p6cVv7sZ65a6YZ2ijrn0F"
+      },
+      "artists": [
+        {
+          "name": "Stiky Flaw",
+          "url": "https://open.spotify.com/artist/5ym0xE9MakAkOYeDKqaunM"
+        }
+      ],
+      "duration_ms": 255355,
+      "name": "Highs",
+      "url": "https://open.spotify.com/track/7aNwa2bwdIHR54j9BKB7Tw"
+    },
+    {
+      "added_at": "2026-04-17 14:57:24",
+      "album": {
+        "name": "It Hits Me Now",
+        "url": "https://open.spotify.com/album/5DdEsEPuhLTPYhsWdOSKUO"
+      },
+      "artists": [
+        {
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+        },
+        {
+          "name": "FELYN",
+          "url": "https://open.spotify.com/artist/0szTDpZPGXwM1fJpgaJkhF"
+        }
+      ],
+      "duration_ms": 196662,
+      "name": "It Hits Me Now",
+      "url": "https://open.spotify.com/track/39JHPzMjrO9RoptN3QEC9J"
+    },
+    {
       "added_at": "2026-03-30 10:20:47",
       "album": {
         "name": "My Love",
@@ -843,6 +907,26 @@
       "duration_ms": 192493,
       "name": "Que Rico",
       "url": "https://open.spotify.com/track/0qKHpiXu8bjQ9TCW5XEBkl"
+    },
+    {
+      "added_at": "2026-04-17 11:24:24",
+      "album": {
+        "name": "Play Right",
+        "url": "https://open.spotify.com/album/7eFEljHE7bl04qYJFstSNz"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "Manhart",
+          "url": "https://open.spotify.com/artist/0ZSz1lehQ1CQU6OkKA32dd"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Play Right",
+      "url": "https://open.spotify.com/track/22jWUbQfMwxzQzBI66U3Lt"
     },
     {
       "added_at": "2026-03-30 10:20:47",
@@ -883,6 +967,22 @@
       "duration_ms": 138490,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/7Bpcka9WoP8luIcKXTCyWN"
+    },
+    {
+      "added_at": "2026-04-17 14:50:36",
+      "album": {
+        "name": "Run With Me",
+        "url": "https://open.spotify.com/album/7AMEJSOFnpT21PwbO2SiwB"
+      },
+      "artists": [
+        {
+          "name": "CRAY C",
+          "url": "https://open.spotify.com/artist/08fYg6DKDtJiKGFzP3zshv"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Run With Me",
+      "url": "https://open.spotify.com/track/0ZmP14kJq3VLEjvBiJXXHp"
     },
     {
       "added_at": "2026-03-30 10:20:47",
@@ -1041,6 +1141,42 @@
       "url": "https://open.spotify.com/track/7oQINccoBoR8alaprW0GRY"
     },
     {
+      "added_at": "2026-04-17 14:57:23",
+      "album": {
+        "name": "Army",
+        "url": "https://open.spotify.com/album/2G3yUfX12UEtZ33VTwkRm4"
+      },
+      "artists": [
+        {
+          "name": "Qobra",
+          "url": "https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE"
+        }
+      ],
+      "duration_ms": 152929,
+      "name": "Army",
+      "url": "https://open.spotify.com/track/75386mOXWOPoHCjNRc3rgj"
+    },
+    {
+      "added_at": "2026-04-17 11:47:51",
+      "album": {
+        "name": "Fade 2 Grey",
+        "url": "https://open.spotify.com/album/1F51DQqP10r6oS3lUDX8Zl"
+      },
+      "artists": [
+        {
+          "name": "Sallok",
+          "url": "https://open.spotify.com/artist/3Z8RsSMEuDW1tS3EP0x4WJ"
+        },
+        {
+          "name": "Jolie",
+          "url": "https://open.spotify.com/artist/3TwN012FBy5wpDOnw0YLoZ"
+        }
+      ],
+      "duration_ms": 230344,
+      "name": "Fade 2 Grey",
+      "url": "https://open.spotify.com/track/7sHSQmDDVu6BnDpr9kXNDN"
+    },
+    {
       "added_at": "2026-03-30 10:20:47",
       "album": {
         "name": "Upside Down",
@@ -1161,6 +1297,42 @@
       "url": "https://open.spotify.com/track/2FjygPrHAtjeMD4AwWK0Yp"
     },
     {
+      "added_at": "2026-04-17 14:50:35",
+      "album": {
+        "name": "Triple Vision",
+        "url": "https://open.spotify.com/album/67chGZgo2AdDcJSyxVFAej"
+      },
+      "artists": [
+        {
+          "name": "F.G. Noise",
+          "url": "https://open.spotify.com/artist/4i4THUvAy8JTW3DxJlD81X"
+        },
+        {
+          "name": "Revealed Recordings",
+          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
+        }
+      ],
+      "duration_ms": 196271,
+      "name": "Triple Vision",
+      "url": "https://open.spotify.com/track/3YnBpooGsLq81zCLpPSTOK"
+    },
+    {
+      "added_at": "2026-04-17 11:33:09",
+      "album": {
+        "name": "Body Work",
+        "url": "https://open.spotify.com/album/2ddb8x1AlFmMG1v21OcTIt"
+      },
+      "artists": [
+        {
+          "name": "Wily",
+          "url": "https://open.spotify.com/artist/3Eo3uezW1mY4MgsHEkcBMV"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Body Work",
+      "url": "https://open.spotify.com/track/50ElUxvvdDRJgMJuDfOCkO"
+    },
+    {
       "added_at": "2026-03-30 10:20:47",
       "album": {
         "name": "I Got It",
@@ -1235,6 +1407,26 @@
       "duration_ms": 170769,
       "name": "Money On The Floor",
       "url": "https://open.spotify.com/track/3BeN7pqAET4Z0pGAAU1u8v"
+    },
+    {
+      "added_at": "2026-04-17 11:47:53",
+      "album": {
+        "name": "Ride the Beat",
+        "url": "https://open.spotify.com/album/2tiGOm7AG7K3KabJSf1RXf"
+      },
+      "artists": [
+        {
+          "name": "Sallok",
+          "url": "https://open.spotify.com/artist/3Z8RsSMEuDW1tS3EP0x4WJ"
+        },
+        {
+          "name": "Jolie",
+          "url": "https://open.spotify.com/artist/5jIPjEI3r77ep8HuEAkofa"
+        }
+      ],
+      "duration_ms": 235862,
+      "name": "Ride the Beat",
+      "url": "https://open.spotify.com/track/3IySTc50L2AEhSSG56YRTz"
     },
     {
       "added_at": "2026-03-30 11:55:09",

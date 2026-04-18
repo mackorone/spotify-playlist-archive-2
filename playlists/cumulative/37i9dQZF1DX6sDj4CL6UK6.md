@@ -4,7 +4,7 @@
 
 > English songs from Indian artists<br/>Cover: Prateek Kuhad
 
-399 songs - 22 hr 47 min
+400 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 | 2026-04-03 |  |
 | [Perfect Life](https://open.spotify.com/track/61ayAzvFPbItOznMjWBZwu) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X) | [Perfect Life](https://open.spotify.com/album/2qX6H9xdwN6uBmdzPqrdk5) | 4:02 | 2023-03-03 | 2025-02-05 |
 | [Permanent Food](https://open.spotify.com/track/2tt1Q2eYTrMl7fhfPqOGlG) | [Shantanu Pandit](https://open.spotify.com/artist/0s6UCPuypDgqfdqp0bypNG) | [Permanent Food](https://open.spotify.com/album/4mwKW9CZbncuZCitTBQbRc) | 2:34 | 2022-03-25 | 2023-01-13 |
+| [Phantom Baby](https://open.spotify.com/track/1CN05iiInwzi0XzNXB6WIZ) | [JBABE](https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby) | [Phantom Baby](https://open.spotify.com/album/2TPVo4DPP8kA6yosp9lpIa) | 3:32 | 2026-04-17 |  |
 | [Pink Blue](https://open.spotify.com/track/3dBnKADF2MmLXM9IopV9Bt) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd) | [Pink Blue](https://open.spotify.com/album/0qYhqBhpicb2Kl8oB6YziF) | 3:25 | 2022-10-25 |  |
 | [Pitch Black Dark](https://open.spotify.com/track/7gQDVDweYE3SaAGZ6oMJqD) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Saazish](https://open.spotify.com/album/7s5dluAxPU6OAT1J8gr8nA) | 1:46 | 2022-07-04 | 2023-01-13 |
 | [Pretend](https://open.spotify.com/track/4bnHwImy2mOklzIUIrgt18) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c) | [Pretend](https://open.spotify.com/album/0mtuUaDFnZtRHzUYnXopOc) | 3:04 | 2022-03-25 | 2022-04-06 |

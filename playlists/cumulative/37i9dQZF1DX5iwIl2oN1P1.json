@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "All new Gospel songs on the rise! Cover: Forward City",
+  "description": "All new Gospel songs on the rise! Cover: PJ Morton",
   "name": "Gospel Rising",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 287709,
       "name": "ABLE",
       "url": "https://open.spotify.com/track/4n87FlxzdkEHb7ywcubA9g"
@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Again & Again",
+        "url": "https://open.spotify.com/album/3Tw9IYHxYkjVqdW3lcKsTH"
+      },
+      "artists": [
+        {
+          "name": "Will Ngonga",
+          "url": "https://open.spotify.com/artist/6IRwmt9e2PKz2uTmCOzme7"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146703,
+      "name": "Again & Again",
+      "url": "https://open.spotify.com/track/3UqL1MGIyvEGCXmofYHNU6"
+    },
+    {
+      "album": {
         "name": "Aileyipada",
         "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
       },
@@ -262,6 +280,24 @@
       "duration_ms": 282779,
       "name": "Air I Breathe - Live",
       "url": "https://open.spotify.com/track/1Fp2pre5ueRmSVSBrVdtMA"
+    },
+    {
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/0ZzCkWtTyM8GJkWGy1FuUC"
+      },
+      "artists": [
+        {
+          "name": "Lady Audri",
+          "url": "https://open.spotify.com/artist/75HzJOTVySISxmtIxZnqke"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178947,
+      "name": "Alabaster Box",
+      "url": "https://open.spotify.com/track/01ij7XzZi6PZK020XL2faE"
     },
     {
       "album": {
@@ -426,7 +462,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 361120,
       "name": "Always Been You (with Anike) - Live",
       "url": "https://open.spotify.com/track/43HieN3qrUrZUgAsyhFTDM"
@@ -722,6 +758,24 @@
       "duration_ms": 405290,
       "name": "At The Cross",
       "url": "https://open.spotify.com/track/72jFUmoipIJVLJLZmlqo1p"
+    },
+    {
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/5J2DvCksUcyJ6xCAwU88R9"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223846,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/6fylcXbAU92i1MJyel5H2a"
     },
     {
       "album": {
@@ -1222,7 +1276,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 285289,
       "name": "Change",
       "url": "https://open.spotify.com/track/5WdOorEvqXwI3T5c2noW3A"
@@ -1852,7 +1906,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 188372,
       "name": "Every Step",
       "url": "https://open.spotify.com/track/37oSWxe9preFc1a6Q1BMqg"
@@ -2247,6 +2301,28 @@
     },
     {
       "album": {
+        "name": "For My Good",
+        "url": "https://open.spotify.com/album/0ufCnnYuv61GsVK2YSp94u"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        },
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155119,
+      "name": "For My Good",
+      "url": "https://open.spotify.com/track/6SVy3leF34BVhx34kLyuGX"
+    },
+    {
+      "album": {
         "name": "For The Win feat. BERKLEE Summer Gospel Choir",
         "url": "https://open.spotify.com/album/6fkIJ2DFdhgQ8p3mTq0xXM"
       },
@@ -2324,6 +2400,58 @@
       "duration_ms": 397878,
       "name": "Freedom chant - Live",
       "url": "https://open.spotify.com/track/7bBecDvVJ3ngeIFGs1M8BG"
+    },
+    {
+      "album": {
+        "name": "Fresh Wind (feat. Julius Witherspoon & Chaquanna Iman)",
+        "url": "https://open.spotify.com/album/5NhzlKqO0EEI26OoOT0uw8"
+      },
+      "artists": [
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Julius Witherspoon",
+          "url": "https://open.spotify.com/artist/0vhV8fCwarjXV8IHPkLzQ8"
+        },
+        {
+          "name": "Chaquanna Iman",
+          "url": "https://open.spotify.com/artist/6t94UuOzHsqVaS1KQpC3fe"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526287,
+      "name": "Fresh Wind (feat. Julius Witherspoon & Chaquanna Iman)",
+      "url": "https://open.spotify.com/track/3Ds8DVsEX2OwuZcdti3qf5"
+    },
+    {
+      "album": {
+        "name": "Give Him His Crown (Live)",
+        "url": "https://open.spotify.com/album/2GsaAf501pCDpoGnoeDCRQ"
+      },
+      "artists": [
+        {
+          "name": "Bethany Echo",
+          "url": "https://open.spotify.com/artist/3F2bI4LAlE7z6PB78OViwc"
+        },
+        {
+          "name": "Meshak Muyaka",
+          "url": "https://open.spotify.com/artist/1m5N4kZdRkpivJDGX3siiO"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199048,
+      "name": "Give Him His Crown (Reprise) - Live",
+      "url": "https://open.spotify.com/track/6u8Uo8hl0dGEmssVKuFQHs"
     },
     {
       "album": {
@@ -3579,6 +3707,28 @@
     },
     {
       "album": {
+        "name": "Chapter 7 (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0TdADwn8RBoyHpXlumCfgk"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237656,
+      "name": "I Have A God (feat. Zara McFarlane) (Live at the Royal Albert Hall)",
+      "url": "https://open.spotify.com/track/379elayI3tNRn65G2gghlN"
+    },
+    {
+      "album": {
         "name": "I Kept On",
         "url": "https://open.spotify.com/album/2QyTEHglxsKeD23wAzcLHt"
       },
@@ -4529,6 +4679,32 @@
     },
     {
       "album": {
+        "name": "Lift Up Jesus (Live)",
+        "url": "https://open.spotify.com/album/5A0B8txfBITFTd9trOD6YI"
+      },
+      "artists": [
+        {
+          "name": "CCC Collective",
+          "url": "https://open.spotify.com/artist/1IKvoVXgyeixSHxoJvE9yV"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        },
+        {
+          "name": "Chris Blue",
+          "url": "https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413824,
+      "name": "Lift Up Jesus - Live",
+      "url": "https://open.spotify.com/track/3YMM9hBhuuYX66zNrYAJuh"
+    },
+    {
+      "album": {
         "name": "Lifted Up",
         "url": "https://open.spotify.com/album/0flcgnq7sdZtGtiQimLDpm"
       },
@@ -4866,6 +5042,24 @@
       "duration_ms": 216177,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/31B4973cn2QBnl05li51z1"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/0JkOeQSX2cFvxqBsWI2uhJ"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147450,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/70b52gyy9fRkXhPfQ38hnN"
     },
     {
       "album": {
@@ -5380,7 +5574,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 270123,
       "name": "no stages",
       "url": "https://open.spotify.com/track/3sX88h1DVMSRa1VUm3rvhe"
@@ -6020,7 +6214,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 461772,
       "name": "Rain - Live",
       "url": "https://open.spotify.com/track/1X3OKs3UUroYUSsBXXqIDg"
@@ -6768,7 +6962,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 282000,
       "name": "Striving (feat. Anthony Moore)",
       "url": "https://open.spotify.com/track/44f2MNIC9eNDBCyaWhYIrX"
@@ -6798,6 +6992,28 @@
       "duration_ms": 454791,
       "name": "Strongest Place (feat. Chaquanna Iman)",
       "url": "https://open.spotify.com/track/2zm6J7sFIfb70voviHlXox"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/2az66l3p60stcXJh8u7iqk"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/2gyMKeLaMJnOCCoeTE9yae"
     },
     {
       "album": {
@@ -7076,7 +7292,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 177168,
       "name": "The Air I Breathe",
       "url": "https://open.spotify.com/track/0j55NbLswJVsfNcAWDvaWJ"
@@ -8802,7 +9018,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 296000,
       "name": "You're Not Finished",
       "url": "https://open.spotify.com/track/3rH3Jge1u3YF1fsi2hkBwu"
@@ -8976,7 +9192,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 592829,
       "name": "Your name is Jesus",
       "url": "https://open.spotify.com/track/6zKI1FoNtoKWghgxNqBPc0"

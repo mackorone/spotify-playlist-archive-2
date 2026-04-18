@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1TKLER9anp82uwNUrFo1xc">SAKIMA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 105 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 38 | [Basket](https://open.spotify.com/track/2En7vhcwb15kFzza0prsWm) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Ricky](https://open.spotify.com/album/3gujW1ZTujEEqlO1WEt17S) | 3:08 |
 | 39 | [Pretty Boys](https://open.spotify.com/track/5K5RpOdJ0c8gd5sbDxxcEK) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Pretty Boys](https://open.spotify.com/album/0w08DJAH95mbwvAEUc5DUk) | 2:58 |
 | 40 | [Polari](https://open.spotify.com/track/2rLKyCunwwLmJ4SWZR1ou2) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Ricky](https://open.spotify.com/album/3gujW1ZTujEEqlO1WEt17S) | 3:30 |
-| 41 | [Pity Party](https://open.spotify.com/track/6UQLJGWfnjbezFNQvsQxRh) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 3:32 |
-| 42 | [Recreational](https://open.spotify.com/track/5MrgJu81wrxihrWz6Q9uEk) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Recreational](https://open.spotify.com/album/5khEIs42VqkwaxRqPAUTOT) | 3:13 |
+| 41 | [Recreational](https://open.spotify.com/track/5MrgJu81wrxihrWz6Q9uEk) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Recreational](https://open.spotify.com/album/5khEIs42VqkwaxRqPAUTOT) | 3:13 |
+| 42 | [Pity Party](https://open.spotify.com/track/6UQLJGWfnjbezFNQvsQxRh) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 3:32 |
 | 43 | [Snow Angels](https://open.spotify.com/track/1qnElVL3NLrl3u3i4A2DSC) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Ricky](https://open.spotify.com/album/3gujW1ZTujEEqlO1WEt17S) | 3:28 |
 | 44 | [Snake Boy City](https://open.spotify.com/track/7yczJegu2JdFnVgqc9ddEj) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Kitsuné Maison Compilation 18: The Hysterical Advisory Issue](https://open.spotify.com/album/6Tm4wS4LFg8vTZvnOTIwEB) | 3:39 |
 | 45 | [Me B4 U](https://open.spotify.com/track/0nsfsyK2GvHlHs7VD0Wb4o) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Me B4 U](https://open.spotify.com/album/2nPjPA6wAKt58YoNq5kIbp) | 3:30 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 54 | [Fuck Things Up](https://open.spotify.com/track/4J2r5n7wTXGdaRGse0ON6G) | [Vera Hotsauce](https://open.spotify.com/artist/5KucN3rNvkbmfNWqknOvth) | [Hot N Saucy](https://open.spotify.com/album/5aerQ661gL2BTTPjPpYsm1) | 3:03 |
 | 55 | [Punch](https://open.spotify.com/track/7JtmLurRXvcyvqVGwxoS9M) | [Darcy Day](https://open.spotify.com/artist/0jsZR31z3SUBQ1BJuAdEDn) | [Punch](https://open.spotify.com/album/0MgS9kN89HMeT1m2YuWPVF) | 2:29 |
 
-Snapshot ID: `AcPCtAAAAAAbJPsMQkXhxzqTbcsigOSL`
+Snapshot ID: `AcPIVAAAAACb5jXVxqdbuRhEfw6jmci4`

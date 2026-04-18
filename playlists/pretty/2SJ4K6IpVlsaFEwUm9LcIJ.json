@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2026 (previous playlists archived on my profile)",
-  "num_followers": 24292,
+  "num_followers": 24294,
   "original_name": "home when you return",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOI1Az6CHyVvjq4gPaSuLBOqnnzR9k",
+  "snapshot_id": "AAAOJUtLwXA2s2W9EWdS1954fhirMAso",
   "tracks": [
     {
       "added_at": "2026-03-12 17:07:42",
@@ -583,6 +583,38 @@
       "duration_ms": 156333,
       "name": "Wabash Cannonball",
       "url": "https://open.spotify.com/track/5RKPe1oN9lGayUCKn00fYi"
+    },
+    {
+      "added_at": "2026-04-17 15:02:27",
+      "album": {
+        "name": "14 Songs",
+        "url": "https://open.spotify.com/album/2UgKw2bpp1lqokUSXWD2uy"
+      },
+      "artists": [
+        {
+          "name": "Paul Westerberg",
+          "url": "https://open.spotify.com/artist/3N6WAAPHoIjo6na008793X"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Black Eyed Susan",
+      "url": "https://open.spotify.com/track/4F9lWUCeY9iqehF4Po5QCO"
+    },
+    {
+      "added_at": "2026-04-17 15:49:09",
+      "album": {
+        "name": "Born to Be With You / Streetheart",
+        "url": "https://open.spotify.com/album/0DOf8RoY5pxvrbDCEGlj7B"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "New York City Song",
+      "url": "https://open.spotify.com/track/7DLirypUivO3MsTT4JLsIG"
     }
   ],
   "unique_name": "home when you return",

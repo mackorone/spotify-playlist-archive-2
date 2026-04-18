@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 77951,
+  "num_followers": 77966,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 222089,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Sad Piano House",
         "url": "https://open.spotify.com/album/5RqK2ppKKTOIZbCl9wNbtv"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 305010,
       "name": "Sad Piano House",
       "url": "https://open.spotify.com/track/5aoW3sHEi8uBBYEQyC16i9"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 222089,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR"
     },
     {
       "added_at": "2025-12-03 12:15:55",

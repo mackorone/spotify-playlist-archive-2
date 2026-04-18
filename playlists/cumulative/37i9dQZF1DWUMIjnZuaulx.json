@@ -3280,7 +3280,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 311566,
       "name": "Feed Me",
       "url": "https://open.spotify.com/track/1qZIiR7Y1x4DFmSwuqfzDu"
@@ -3571,6 +3571,36 @@
     },
     {
       "album": {
+        "name": "Fresh Wind (feat. Julius Witherspoon & Chaquanna Iman)",
+        "url": "https://open.spotify.com/album/5NhzlKqO0EEI26OoOT0uw8"
+      },
+      "artists": [
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Julius Witherspoon",
+          "url": "https://open.spotify.com/artist/0vhV8fCwarjXV8IHPkLzQ8"
+        },
+        {
+          "name": "Chaquanna Iman",
+          "url": "https://open.spotify.com/artist/6t94UuOzHsqVaS1KQpC3fe"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526287,
+      "name": "Fresh Wind (feat. Julius Witherspoon & Chaquanna Iman)",
+      "url": "https://open.spotify.com/track/3Ds8DVsEX2OwuZcdti3qf5"
+    },
+    {
+      "album": {
         "name": "From My Savior",
         "url": "https://open.spotify.com/album/1LRH1yU3aHVG5oJNbEkEK5"
       },
@@ -3648,6 +3678,28 @@
       "duration_ms": 379507,
       "name": "Get Up - Live",
       "url": "https://open.spotify.com/track/65d4T2Ine2ex2XcCXB09ut"
+    },
+    {
+      "album": {
+        "name": "Give Him His Crown (Live)",
+        "url": "https://open.spotify.com/album/2GsaAf501pCDpoGnoeDCRQ"
+      },
+      "artists": [
+        {
+          "name": "Bethany Echo",
+          "url": "https://open.spotify.com/artist/3F2bI4LAlE7z6PB78OViwc"
+        },
+        {
+          "name": "Meshak Muyaka",
+          "url": "https://open.spotify.com/artist/1m5N4kZdRkpivJDGX3siiO"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199048,
+      "name": "Give Him His Crown (Reprise) - Live",
+      "url": "https://open.spotify.com/track/6u8Uo8hl0dGEmssVKuFQHs"
     },
     {
       "album": {
@@ -7002,7 +7054,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 433689,
       "name": "In My Name",
       "url": "https://open.spotify.com/track/02GWOW5Zbm05Umnw2lCbSQ"
@@ -8160,6 +8212,32 @@
       "duration_ms": 478000,
       "name": "Let The Redeemed Of The Lord Say So - Live",
       "url": "https://open.spotify.com/track/3oEvGMSAWHNJHcXU7FbIU4"
+    },
+    {
+      "album": {
+        "name": "Lift Up Jesus (Live)",
+        "url": "https://open.spotify.com/album/5A0B8txfBITFTd9trOD6YI"
+      },
+      "artists": [
+        {
+          "name": "CCC Collective",
+          "url": "https://open.spotify.com/artist/1IKvoVXgyeixSHxoJvE9yV"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        },
+        {
+          "name": "Chris Blue",
+          "url": "https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413824,
+      "name": "Lift Up Jesus - Live",
+      "url": "https://open.spotify.com/track/3YMM9hBhuuYX66zNrYAJuh"
     },
     {
       "album": {
@@ -12554,7 +12632,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 454791,
       "name": "Strongest Place (feat. Chaquanna Iman)",
       "url": "https://open.spotify.com/track/2zm6J7sFIfb70voviHlXox"

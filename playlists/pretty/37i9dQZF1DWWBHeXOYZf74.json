@@ -1,28 +1,48 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Thundercat",
-  "num_followers": 1326901,
+  "description": "Genre-less. Quality first always. Cover: Isaiah Rashad",
+  "num_followers": 1326887,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHdG2zV/OOQXVut2wfVKHndZ4n1C",
+  "snapshot_id": "AAAAABHKqKLBCsz/n2LNpg3knKp4jFrx",
   "tracks": [
     {
-      "added_at": "2026-04-10 04:02:16",
+      "added_at": "2026-04-17 14:48:46",
       "album": {
-        "name": "a butterfly was born / things 2 make U smile",
-        "url": "https://open.spotify.com/album/1dt6cD8Q5ZghcT5fwsFT9d"
+        "name": "Move Time",
+        "url": "https://open.spotify.com/album/17j3ldBZcSBEUAZbPMPC7z"
       },
       "artists": [
         {
-          "name": "Rian Brazil",
-          "url": "https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH"
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
         }
       ],
-      "duration_ms": 113044,
-      "name": "things 2 make U smile",
-      "url": "https://open.spotify.com/track/6wBprAkQVcFYp4xLo4Hvg8"
+      "duration_ms": 219661,
+      "name": "Move Time",
+      "url": "https://open.spotify.com/track/6Y7GcjfcDs7VYJypebcECU"
+    },
+    {
+      "added_at": "2026-04-17 14:48:46",
+      "album": {
+        "name": "If You",
+        "url": "https://open.spotify.com/album/2KvJjcipHCM9DsjwEJXblM"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        }
+      ],
+      "duration_ms": 200348,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/2PvVkI3P9Z2on1G1vNn2uB"
     },
     {
       "added_at": "2026-04-10 04:02:16",
@@ -39,6 +59,154 @@
       "duration_ms": 193294,
       "name": "SAME SH!T",
       "url": "https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f"
+    },
+    {
+      "added_at": "2026-04-17 14:48:46",
+      "album": {
+        "name": "beach",
+        "url": "https://open.spotify.com/album/6yEaBoWxUwKXt22cSvAzgY"
+      },
+      "artists": [
+        {
+          "name": "duendita",
+          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
+        }
+      ],
+      "duration_ms": 88892,
+      "name": "beach",
+      "url": "https://open.spotify.com/track/09dAPp6oMjukGQsHHyOGpv"
+    },
+    {
+      "added_at": "2026-04-17 14:48:46",
+      "album": {
+        "name": "Shake Down (Regrette Rien Mix)",
+        "url": "https://open.spotify.com/album/1kFOuM0oYv7FgZwUtvazeS"
+      },
+      "artists": [
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        },
+        {
+          "name": "KURT.",
+          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
+        }
+      ],
+      "duration_ms": 219630,
+      "name": "Shake Down - Regrette Rien Mix",
+      "url": "https://open.spotify.com/track/70tSdH7QeLCoiEsq4gzxAk"
+    },
+    {
+      "added_at": "2026-04-03 04:01:39",
+      "album": {
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 242541,
+      "name": "Senses ft. Sampha",
+      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
+    },
+    {
+      "added_at": "2026-04-17 14:48:46",
+      "album": {
+        "name": "And Where Is The Heart? I've Searched My Entire Home",
+        "url": "https://open.spotify.com/album/4uSjUfFRB9cwPI9Hrmonx4"
+      },
+      "artists": [
+        {
+          "name": "Fire-Toolz",
+          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
+        },
+        {
+          "name": "Jennifer Holm",
+          "url": "https://open.spotify.com/artist/6OWrEjKgMyuSiXrKYghYqp"
+        }
+      ],
+      "duration_ms": 231820,
+      "name": "And Where Is The Heart? I've Searched My Entire Home",
+      "url": "https://open.spotify.com/track/7HOwhS23BdpCslN9S3sOMn"
+    },
+    {
+      "added_at": "2026-04-03 04:01:39",
+      "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/6TcqhHCbNpDXDY0CA6KyuG"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/25jvcrDD3TbvgOpn3MUYbF"
+    },
+    {
+      "added_at": "2026-04-17 14:48:46",
+      "album": {
+        "name": "Flatline",
+        "url": "https://open.spotify.com/album/51arBhKIegC6cWHk0PD3da"
+      },
+      "artists": [
+        {
+          "name": "Loraine James",
+          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
+        },
+        {
+          "name": "Miho Hatori",
+          "url": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
+        }
+      ],
+      "duration_ms": 192692,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/5SECCwE6k8Q4LR7ToX2YFH"
+    },
+    {
+      "added_at": "2026-04-17 14:48:46",
+      "album": {
+        "name": "SAVE!",
+        "url": "https://open.spotify.com/album/3ZhL5dmsbLOlYR7Kk15dpE"
+      },
+      "artists": [
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        },
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        }
+      ],
+      "duration_ms": 191225,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/0SYpRF77aDTsKEaVfPyfwg"
+    },
+    {
+      "added_at": "2026-04-10 04:02:16",
+      "album": {
+        "name": "a butterfly was born / things 2 make U smile",
+        "url": "https://open.spotify.com/album/1dt6cD8Q5ZghcT5fwsFT9d"
+      },
+      "artists": [
+        {
+          "name": "Rian Brazil",
+          "url": "https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH"
+        }
+      ],
+      "duration_ms": 113044,
+      "name": "things 2 make U smile",
+      "url": "https://open.spotify.com/track/6wBprAkQVcFYp4xLo4Hvg8"
     },
     {
       "added_at": "2026-04-10 04:02:16",
@@ -171,22 +339,6 @@
     {
       "added_at": "2026-04-03 04:01:39",
       "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/6TcqhHCbNpDXDY0CA6KyuG"
-      },
-      "artists": [
-        {
-          "name": "Loukeman",
-          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/25jvcrDD3TbvgOpn3MUYbF"
-    },
-    {
-      "added_at": "2026-04-03 04:01:39",
-      "album": {
         "name": "Distracted",
         "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
       },
@@ -203,26 +355,6 @@
       "duration_ms": 155960,
       "name": "Funny Friends",
       "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
-    },
-    {
-      "added_at": "2026-04-03 04:01:39",
-      "album": {
-        "name": "Ambiguous Desire",
-        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 242541,
-      "name": "Senses ft. Sampha",
-      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -805,26 +937,6 @@
       "url": "https://open.spotify.com/track/2bQQV9oDgqBjU3wnKQtyCk"
     },
     {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
-        "name": "Illegal + Four Tet",
-        "url": "https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Illegal + Four Tet",
-      "url": "https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj"
-    },
-    {
       "added_at": "2026-02-25 17:52:46",
       "album": {
         "name": "Stupid Bitches",
@@ -957,6 +1069,22 @@
       "url": "https://open.spotify.com/track/2fo5XVkVtd91WoSArcFemh"
     },
     {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 245384,
+      "name": "world is yours.",
+      "url": "https://open.spotify.com/track/61LIrROTdBzB2wOsgFNODa"
+    },
+    {
       "added_at": "2026-02-20 05:00:52",
       "album": {
         "name": "Vestibule EP",
@@ -987,22 +1115,6 @@
       "duration_ms": 160408,
       "name": "Manmade Manmaid",
       "url": "https://open.spotify.com/track/3kskGPo6CJ1hFke3Mca6Ie"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Icon",
-        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 245384,
-      "name": "world is yours.",
-      "url": "https://open.spotify.com/track/61LIrROTdBzB2wOsgFNODa"
     },
     {
       "added_at": "2026-02-20 05:00:52",
@@ -1109,22 +1221,6 @@
       "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "I Wanna Be Your Dog Again",
-        "url": "https://open.spotify.com/album/2qDdMz4B1rDeXdhKj5txOd"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "I Wanna Be Your Dog Again",
-      "url": "https://open.spotify.com/track/3sFMNnMiceLkl3wKIGuD54"
-    },
-    {
       "added_at": "2026-02-06 05:00:41",
       "album": {
         "name": "Seeing Is Forgetting",
@@ -1159,22 +1255,6 @@
       "duration_ms": 232000,
       "name": "38 inch loveseat",
       "url": "https://open.spotify.com/track/55dPDt8xXd5Qbyu88JJDFs"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Round Me",
-        "url": "https://open.spotify.com/album/0bGWkCSiH2vkCFvFudcuiu"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 158797,
-      "name": "Round Me",
-      "url": "https://open.spotify.com/track/67BtrWFeJfef2l3VabMY0T"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1575,22 +1655,6 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "Good Night Baby",
-        "url": "https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 261884,
-      "name": "Good Night Baby",
-      "url": "https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
         "name": "Marmalade",
         "url": "https://open.spotify.com/album/0mvRtzN04fV5zjP37TTO2J"
       },
@@ -1649,26 +1713,6 @@
       "url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
-        "name": "I'll Take It (Mura Masa's 'Can't Feel A Thing' Edit)",
-        "url": "https://open.spotify.com/album/03Wjc6qqYQ2y01ZnlQOf9a"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        },
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 155404,
-      "name": "I'll Take It - Mura Masa's 'Can't Feel A Thing' Edit",
-      "url": "https://open.spotify.com/track/1v3c7CaFHEPLRS2VCsewsC"
-    },
-    {
       "added_at": "2025-09-26 04:00:09",
       "album": {
         "name": "Company (with Orion Sun)",
@@ -1687,26 +1731,6 @@
       "duration_ms": 202355,
       "name": "Company (with Orion Sun)",
       "url": "https://open.spotify.com/track/5bw80qtCHR863QUcC4o8qM"
-    },
-    {
-      "added_at": "2026-01-09 05:00:39",
-      "album": {
-        "name": "NEMO",
-        "url": "https://open.spotify.com/album/6conS8uzPywLrqEYqAnFLH"
-      },
-      "artists": [
-        {
-          "name": "SEES00000",
-          "url": "https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45"
-        },
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 272171,
-      "name": "NEMO",
-      "url": "https://open.spotify.com/track/57CtJJQRcYK0hfDKgN5CkD"
     },
     {
       "added_at": "2025-11-14 00:00:24",
@@ -1743,22 +1767,6 @@
       "duration_ms": 302748,
       "name": "Dopamine - Jamie xx Remix",
       "url": "https://open.spotify.com/track/6BRSGk5zVklP8FRLTRm8Ar"
-    },
-    {
-      "added_at": "2025-12-12 05:00:38",
-      "album": {
-        "name": "what will they say",
-        "url": "https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 157591,
-      "name": "what will they say",
-      "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"
     },
     {
       "added_at": "2025-11-07 05:00:53",

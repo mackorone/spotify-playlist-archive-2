@@ -4,7 +4,7 @@
 
 > Céline Dion, Pierre de Maere et Tyla x Zara Larsson au top des nouveautés de la semaine !
 
-8,983 songs - 19 day 9 hr 46 min
+8,984 songs - 19 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2217,6 +2217,7 @@
 | [DROGA](https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:42 | 2025-05-22 | 2025-05-30 |
 | [Drogba](https://open.spotify.com/track/1eBBDrTE4NA35gOo8J2aRA) | [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Drogba](https://open.spotify.com/album/1P5bBLmv2a3ngGGs21EoeT) | 2:34 | 2024-05-16 | 2024-05-24 |
 | [DROGBA](https://open.spotify.com/track/04M9RvAjHc6tySSGyVZqtm) | [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE) | [DROGBA](https://open.spotify.com/album/1Umt3iNskG6f5O0ed4ExsP) | 2:51 | 2025-03-27 | 2025-04-04 |
+| [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-16 |  |
 | [Drop That Beat](https://open.spotify.com/track/1zdpuot7uYIIPUAqKUcMap) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [Ixxel](https://open.spotify.com/artist/4FuPIvoA4iAe0sVoEfXhal) | [Drop That Beat](https://open.spotify.com/album/5HSSnZBsoHxq1Ch7LH9niU) | 3:28 | 2026-01-23 | 2026-01-30 |
 | [DROWN](https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [TO CRY A FLOOD](https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva) | 2:31 | 2025-11-13 | 2025-11-21 |
 | [Drugs You Should Try It](https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 3:28 | 2024-08-22 | 2024-08-30 |
@@ -2906,7 +2907,7 @@
 | [Genkidama](https://open.spotify.com/track/09n6Y0EosYBt0SDyPlwNu2) | [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Genkidama](https://open.spotify.com/album/2YToMjpcRUMwan7Zy7Qyia) | 2:33 | 2025-07-03 | 2025-07-11 |
 | [Gentil Garçon](https://open.spotify.com/track/7DM7DHed6lj67JC08Gg5xp) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Gentil Garçon](https://open.spotify.com/album/4ivStYmGyNsbAC8ysETIwN) | 3:24 | 2025-02-20 | 2025-03-01 |
 | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h) | 2:48 | 2024-12-05 | 2024-12-13 |
-| [GEPETO](https://open.spotify.com/track/3Wa5JhMz7omPtv9jUPPjNH) | [KLM](https://open.spotify.com/artist/51IIEUubMmZPCLqgGCSvgn) | [GEPETO](https://open.spotify.com/album/7nlxJzhMMqsb2F7ppj9ssK) | 2:28 | 2026-04-16 |  |
+| [GEPPETTO](https://open.spotify.com/track/3Wa5JhMz7omPtv9jUPPjNH) | [KLM](https://open.spotify.com/artist/51IIEUubMmZPCLqgGCSvgn) | [GEPPETTO](https://open.spotify.com/album/7nlxJzhMMqsb2F7ppj9ssK) | 2:28 | 2026-04-16 |  |
 | [Get Away](https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Out Loud](https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY) | 4:28 | 2026-03-12 | 2026-03-20 |
 | [Get Down](https://open.spotify.com/track/2dFaDJzmyKzFXeKfN7cTpC) | [DJ LEWIS](https://open.spotify.com/artist/7tcmR6KRcQZL4qnA98Fide), [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Get Down](https://open.spotify.com/album/3kIxliOlUMRweu9NBNV7tz) | 2:44 | 2025-03-27 | 2025-04-04 |
 | [Get Down](https://open.spotify.com/track/5CmH0SbgB3pR5OU6BkHF2Z) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [The World Is to Dig](https://open.spotify.com/album/4jpjgfkssywBpkK0aQw7Z5) | 2:47 | 2026-04-16 |  |
@@ -7620,6 +7621,7 @@
 | [TACOS](https://open.spotify.com/track/2mg2UBcIB85NvtQDkOJaNr) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5) | [TACOS](https://open.spotify.com/album/2wOil3wJekfJJaYfiVibLL) | 2:46 | 2024-10-24 | 2024-11-01 |
 | [TAGADA](https://open.spotify.com/track/6MO6jOYSBio7diMCMrqmyg) | [DJ Ken](https://open.spotify.com/artist/1qyIUGgexI2Qi0NRweEVgf), [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [TAGADA](https://open.spotify.com/album/1HPzalVQ9WIaSz1eQ6NAOV) | 2:14 | 2025-02-20 | 2025-03-01 |
 | [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 | 2025-12-11 | 2025-12-19 |
+| [taille mannequin](https://open.spotify.com/track/50MHFINeWYGYiWugL7JVuY) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [63PROBLÈMES](https://open.spotify.com/album/1MamPjKmVMCx46H4zKgjS5) | 2:43 | 2026-04-16 |  |
 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 | 2024-08-29 | 2024-09-06 |
 | [Tailored by Design](https://open.spotify.com/track/671jBUKxQUrRSQcbjAN4Sm) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Tailored by Design](https://open.spotify.com/album/7gmYvVntAFEqRsBr8OVgnE) | 3:31 | 2024-10-10 | 2024-10-18 |
 | [Tais\-toi](https://open.spotify.com/track/3LwfbyO75PgkZ0xWE1vSZD) | [VONFELT](https://open.spotify.com/artist/6A93vsKzaeq6m03BwAkTAU) | [Tais\-toi](https://open.spotify.com/album/4N0BiJFSutaAq66ZbNDJva) | 2:32 | 2026-04-16 |  |
@@ -8142,7 +8144,6 @@
 | [Toxic Sunny Delight](https://open.spotify.com/track/2xyn7wWJ7urittAvQXmPhI) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Toxic Sunny Delight](https://open.spotify.com/album/5073mQ9KqkmZCp663XcSga) | 3:46 | 2025-10-16 | 2025-10-24 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2024-12-13 |
 | [TP sur TP](https://open.spotify.com/track/5pEftKLE1dyuOLTewNQZeX) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 3:06 | 2025-12-04 | 2025-12-12 |
-| [Track 9](https://open.spotify.com/track/50MHFINeWYGYiWugL7JVuY) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [63PROBLÈMES](https://open.spotify.com/album/1MamPjKmVMCx46H4zKgjS5) | 0:00 | 2026-04-16 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [TRAHISON POUR DU PAPERS](https://open.spotify.com/track/386lC3S1fta3sRqXai233D) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [THUG CEREMONY](https://open.spotify.com/album/7HXLcrvfG2UXJcZFLdKfB5) | 2:29 | 2026-01-15 | 2026-01-23 |
 | [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-18 | 2025-09-26 |

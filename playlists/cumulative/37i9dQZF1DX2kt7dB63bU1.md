@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-906 songs - 2 day 14 hr 49 min
+907 songs - 2 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [If I Loved You](https://open.spotify.com/track/4QZfE0uBTRIUknpnmru7XQ) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [If I Loved You](https://open.spotify.com/album/15L2n6vVD5Gm2EE1v4ti4y) | 3:50 | 2025-11-28 |  |
 | [If I Loved You](https://open.spotify.com/track/6mMaZQLLPCMxOWhTjBpRkW) | [Spencer Day](https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Broadway By Day](https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3) | 4:10 | 2022-02-25 | 2023-02-25 |
 | [If I Never Get To Heaven](https://open.spotify.com/track/4uqMVAe76Y0UBQXn0KCXLh) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [For Dinah](https://open.spotify.com/album/7jH6j03bgQIOsVG3Haw5kZ) | 6:05 | 2025-10-03 |  |
+| [If I Only Had A Brain](https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [If I Only Had A Brain](https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI) | 3:10 | 2026-04-17 |  |
 | [If I Ruled the World](https://open.spotify.com/track/1ur83GnjXdRY6FKYeHrUg6) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs), [Lou Pomanti](https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW) | [If I Ruled The World](https://open.spotify.com/album/2jz9UQA6s4AsFsqyum9GBg) | 2:53 | 2024-06-14 | 2024-07-06 |
 | [If Love Is Overrated](https://open.spotify.com/track/3iLubgTcHY4ozbOLgfE8ZN) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Best Love Ballads](https://open.spotify.com/album/04HiwRR7Ct1A4qkZnLQF8n) | 5:53 | 2020-10-09 | 2022-02-19 |
 | [If This Was](https://open.spotify.com/track/2SFjIjgQzFMjlL2ONkmstB) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [If This Was](https://open.spotify.com/album/7Ed4UdAZsXXVqeDAE1xI4t) | 4:11 | 2020-10-09 | 2022-02-19 |
@@ -504,7 +505,7 @@
 | [Marina](https://open.spotify.com/track/6gevpgscwofUjTdGM0g6T9) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Quietude](https://open.spotify.com/album/0SzEjiRsCBU2SWT0C6ydUs) | 3:37 | 2022-10-14 | 2024-03-16 |
 | [Maya, Maya, Maya](https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Maya, Maya, Maya](https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML) | 2:59 | 2025-02-28 |  |
 | [Meadows](https://open.spotify.com/track/6BxloZErdEYBf5ZzmqVeWF) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [Darkness, my old friend.](https://open.spotify.com/album/0LKJuasVlaxeVGAaabhIXr) | 3:39 | 2026-02-06 |  |
-| [Mean To Me](https://open.spotify.com/track/4Tp6SPIAAwGMuRZBzMZh1c) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Mean To Me](https://open.spotify.com/album/5tlr80pnA12qL8t47TNUbK) | 3:04 | 2026-02-20 |  |
+| [Mean To Me](https://open.spotify.com/track/4Tp6SPIAAwGMuRZBzMZh1c) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Mean To Me](https://open.spotify.com/album/5tlr80pnA12qL8t47TNUbK) | 3:04 | 2026-02-20 | 2026-04-18 |
 | [Meet Me in New Orleans](https://open.spotify.com/track/2Rc8QvEAbbVEsVX1DE8DJy) | [Leah Ashton](https://open.spotify.com/artist/6bcdnRh3T16mFz42g1D58e) | [Meet Me in New Orleans](https://open.spotify.com/album/6DdzTqDYGItjmDFtEKD1GG) | 4:18 | 2021-02-05 | 2022-07-23 |
 | [Meet Me in Paris](https://open.spotify.com/track/10cJYD29XNsV9hdsj5drOK) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5), [Scott Mulvahill](https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn) | [Meet Me in Paris](https://open.spotify.com/album/7K3LJ09NiFml7k1LFdBnBB) | 3:44 | 2025-02-07 | 2025-05-03 |
 | [Melancolia](https://open.spotify.com/track/3QEumJ2N6d2aIofXv9TogC) | [Reginald Policard](https://open.spotify.com/artist/2rpkFjDSlvqHvuhNDNPuU2), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT) | [Melancolia](https://open.spotify.com/album/1GATA4Xp005aHyOdYpwe9s) | 4:36 | 2023-02-24 | 2024-06-15 |

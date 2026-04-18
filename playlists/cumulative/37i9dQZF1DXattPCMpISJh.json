@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "A new take on a classic sound. Cover: Say She She",
+  "description": "A new take on a classic sound. Cover: Dabeull",
   "name": "Nu-Disco",
   "tracks": [
     {
@@ -342,6 +342,24 @@
       "duration_ms": 224016,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/5SIqGf6nEnGaUDrCX2hIDd"
+    },
+    {
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/2GSzcW6NFA9XUpMqLqpZUy"
+      },
+      "artists": [
+        {
+          "name": "Baccus",
+          "url": "https://open.spotify.com/artist/1j748qGtsUgMFsBi3yl6PW"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/0Wgjmt7RIQYdRFh5bViTdA"
     },
     {
       "album": {
@@ -1831,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Easy Love",
+        "url": "https://open.spotify.com/album/1JfbKBCGJHhS5pH3LAzWIC"
+      },
+      "artists": [
+        {
+          "name": "BowAsWell",
+          "url": "https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146726,
+      "name": "Easy Love",
+      "url": "https://open.spotify.com/track/5Mm9eOexQgDBt3Kzyg6BPP"
+    },
+    {
+      "album": {
         "name": "Romantic Images",
         "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
       },
@@ -2140,7 +2176,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 206355,
       "name": "Feel This",
       "url": "https://open.spotify.com/track/6Dca0REtMaazrwoI5YS0ib"
@@ -2316,7 +2352,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 183363,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/1slmHtKIZR5WmOeBzFzy77"
@@ -2546,7 +2582,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 197619,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/6bVQzNKYsvxwFlsoChGfyf"
@@ -5095,6 +5131,24 @@
     },
     {
       "album": {
+        "name": "Rhythm Unknown",
+        "url": "https://open.spotify.com/album/6t4d4ZN2JjuEzWgmg3b3yK"
+      },
+      "artists": [
+        {
+          "name": "Moss Kena",
+          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180204,
+      "name": "Rhythm Unknown",
+      "url": "https://open.spotify.com/track/1WeM5XntFJnLceZ7RVAcgo"
+    },
+    {
+      "album": {
         "name": "Right Back at Ya",
         "url": "https://open.spotify.com/album/5vaWj1ydB4XP1vkNOmc4PO"
       },
@@ -5282,6 +5336,24 @@
       "duration_ms": 145319,
       "name": "Seven Years",
       "url": "https://open.spotify.com/track/18eFjMhBiekCdJeNGhdkF9"
+    },
+    {
+      "album": {
+        "name": "Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5R9YEihXqBgCJQyxr2Edpl"
+      },
+      "artists": [
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226058,
+      "name": "Shadow Of Your Smile",
+      "url": "https://open.spotify.com/track/35KDCFm9Oil4kEXjNR2sfq"
     },
     {
       "album": {
@@ -5576,7 +5648,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 241550,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/4LcpxbumkUC8OBNiwBf616"

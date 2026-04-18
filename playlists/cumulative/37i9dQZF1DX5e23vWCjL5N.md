@@ -4,7 +4,7 @@
 
 > Punchline, storytelling, rap italiano\. Madame in cover.
 
-407 songs - 20 hr 44 min
+408 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [NESSUNO \(feat\. Geolier\)](https://open.spotify.com/track/0HdrGJfHWYG5A0cNhiMDG4) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:28 | 2022-04-15 | 2025-04-19 |
 | [NEVERMIND](https://open.spotify.com/track/3LT20AYqvnIPJN20CuFWJf) | [Mezzosangue](https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB) | [Musica Cicatrene](https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d) | 3:28 | 2025-04-18 | 2025-06-27 |
 | [No More Sorrow](https://open.spotify.com/track/0L7FgupwZknMv53Gd2FhaY) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Poopatch](https://open.spotify.com/artist/2bjCxkueVmbdaVbNLPthla) | [Penna Capitale](https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL) | 4:12 | 2024-01-02 | 2024-01-04 |
+| [No vabbè amo](https://open.spotify.com/track/1EmTrWf38Z2gluHNS5nu9T) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [No vabbè amo](https://open.spotify.com/album/4ZGh5I613XypAiyvptHitk) | 2:13 | 2026-04-17 |  |
 | [NOI](https://open.spotify.com/track/0FvYrmmPglHGBKJ3AtZovH) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 4:32 | 2022-04-15 |  |
 | [NOI](https://open.spotify.com/track/6g4ZDGB7jj7T1X8sWB5GFQ) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 4:32 | 2022-07-15 | 2024-04-19 |
 | [Noia](https://open.spotify.com/track/67eVdMdbm9cp8A1Thsdcr1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 4:44 | 2022-04-15 | 2024-01-12 |

@@ -2051,6 +2051,28 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
+    },
+    {
+      "album": {
         "name": "Mi Vida - Edition de No\u00ebl",
         "url": "https://open.spotify.com/album/6Rq5fjFsMh2iF4RCNo2PFk"
       },
@@ -3706,7 +3728,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 249280,
       "name": "Chacun fait (c'qui lui plait)",
       "url": "https://open.spotify.com/track/5TpIQ1tVlPnm4SHObswUU6"
@@ -9406,7 +9428,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 258996,
       "name": "Karma",
       "url": "https://open.spotify.com/track/28kLe1YD8fxrUTf6duHVs8"
@@ -12082,7 +12104,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 153230,
       "name": "MATH\u00c9MATIQUE",
       "url": "https://open.spotify.com/track/1k2MSLuxyPxJbM47VrVVIq"
@@ -13548,6 +13570,24 @@
       "duration_ms": 169133,
       "name": "M\u00e9t\u00e9o",
       "url": "https://open.spotify.com/track/0VjQ7FZ89Vf6dPSFK2i3sy"
+    },
+    {
+      "album": {
+        "name": "M\u00e9t\u00e9o",
+        "url": "https://open.spotify.com/album/2nnedqC1J1NqCkwtq7Tp7v"
+      },
+      "artists": [
+        {
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188727,
+      "name": "M\u00e9t\u00e9o",
+      "url": "https://open.spotify.com/track/3bt5BRftwyv5Y8wisexVdz"
     },
     {
       "album": {
@@ -15623,6 +15663,24 @@
     },
     {
       "album": {
+        "name": "Pineapple",
+        "url": "https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160487,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB"
+    },
+    {
+      "album": {
         "name": "Pink Lemonade (Str8 Reload)",
         "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
       },
@@ -15704,6 +15762,24 @@
       "duration_ms": 211155,
       "name": "PLAYER",
       "url": "https://open.spotify.com/track/444hAcCB1cvQ5HvRRuGRgB"
+    },
+    {
+      "album": {
+        "name": "PMF #1 (Cheveux Liss\u00e9s)",
+        "url": "https://open.spotify.com/album/4emJsqpXBSPBHpvL6kdiU4"
+      },
+      "artists": [
+        {
+          "name": "DLM",
+          "url": "https://open.spotify.com/artist/4Fdja4uNAMdIjqg0cwRXm8"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163352,
+      "name": "PMF #1 (Cheveux Liss\u00e9s)",
+      "url": "https://open.spotify.com/track/54ulUhE0EuFrKMoReYEsFN"
     },
     {
       "album": {
@@ -16992,7 +17068,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 202204,
       "name": "SALE \u00c9TAT",
       "url": "https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3"
@@ -17622,7 +17698,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 206166,
       "name": "Shower",
       "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
@@ -21156,6 +21232,40 @@
       "duration_ms": 222539,
       "name": "\u00c0 Deux",
       "url": "https://open.spotify.com/track/42Rapmc2bbFCf9LqFDu3RI"
+    },
+    {
+      "album": {
+        "name": "404",
+        "url": "https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD"
+      },
+      "artists": [
+        {
+          "name": "TRIANGLE DES BERMUDES",
+          "url": "https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
+        {
+          "name": "MC YOSHI",
+          "url": "https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Kokosvoice",
+          "url": "https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179640,
+      "name": "\u00c0 l'aise",
+      "url": "https://open.spotify.com/track/3XzwTdwcIz67nPOE6sitEo"
     },
     {
       "album": {

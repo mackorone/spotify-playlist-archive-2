@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 232000,
       "name": "111",
       "url": "https://open.spotify.com/track/1wisB4DtmmPiuLrA188XmR"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 293572,
       "name": "Back To The Basics - Sinego Remix",
       "url": "https://open.spotify.com/track/1CrxeiD4X8ZhJ6NcsgZqvx"
@@ -901,6 +901,36 @@
     },
     {
       "album": {
+        "name": "Believe In Us",
+        "url": "https://open.spotify.com/album/6EYNnyT5alWlKspslbOGnN"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Jawora",
+          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
+        },
+        {
+          "name": "Neyl",
+          "url": "https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD"
+        },
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Believe In Us",
+      "url": "https://open.spotify.com/track/62O2Y6iQE3apMyrpEFpmPA"
+    },
+    {
+      "album": {
         "name": "Benjam\u00edn Carri\u00f3n",
         "url": "https://open.spotify.com/album/0UacT2HwlzcN9bnbtqI98k"
       },
@@ -930,7 +960,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 177786,
       "name": "Benjam\u00edn Carri\u00f3n",
       "url": "https://open.spotify.com/track/4wxoAvFshEHA6JL1ymeFNf"
@@ -1682,7 +1712,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 253233,
       "name": "Come Too Far",
       "url": "https://open.spotify.com/track/1aAy0BkWSBmrgfgBdByVxx"
@@ -1814,10 +1844,32 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 380380,
       "name": "D'jambu - Fiona Kraft Remix",
       "url": "https://open.spotify.com/track/17206iZI5Wln4txpx7ixko"
+    },
+    {
+      "album": {
+        "name": "Dame M\u00e1s",
+        "url": "https://open.spotify.com/album/4ntVMpmyHVx0oYc2C97q1t"
+      },
+      "artists": [
+        {
+          "name": "NCO",
+          "url": "https://open.spotify.com/artist/2ty7kZyNViw7hnjjyTPEfb"
+        },
+        {
+          "name": "Val Doering",
+          "url": "https://open.spotify.com/artist/4c6o4lEy5C3JOLsfquDdVF"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255609,
+      "name": "Dame M\u00e1s",
+      "url": "https://open.spotify.com/track/5mCt7RDTgqxPMZs1E8ZepY"
     },
     {
       "album": {
@@ -2731,6 +2783,24 @@
     },
     {
       "album": {
+        "name": "Euphoric",
+        "url": "https://open.spotify.com/album/0HqE4saYBSo53OjV7kunSH"
+      },
+      "artists": [
+        {
+          "name": "DUSST",
+          "url": "https://open.spotify.com/artist/6XgK7qOSV4FBngw1SjL1yr"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Euphoric",
+      "url": "https://open.spotify.com/track/20RHvwVmIMrEqHG1C9ArPr"
+    },
+    {
+      "album": {
         "name": "Everybody Get Up",
         "url": "https://open.spotify.com/album/5PpvKpWaDFmCAtJgEdGkar"
       },
@@ -2776,7 +2846,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 360270,
       "name": "EYES WIDE OPEN",
       "url": "https://open.spotify.com/track/2fSVs6qzOJZGxJs0BtlNIc"
@@ -2846,7 +2916,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 216774,
       "name": "Faut Pas F\u00e2cher",
       "url": "https://open.spotify.com/track/7IIdpOnUp1e5s56pvXPxZF"
@@ -2912,7 +2982,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 234240,
       "name": "Feria",
       "url": "https://open.spotify.com/track/66Iq2EfI5tkewEtfXBphsB"
@@ -2956,6 +3026,32 @@
       "duration_ms": 248310,
       "name": "Flore Chico (feat. Chico Castillo)",
       "url": "https://open.spotify.com/track/4KEuR4qFFiCfnXit0db0PQ"
+    },
+    {
+      "album": {
+        "name": "Flying Away With You Remixes",
+        "url": "https://open.spotify.com/album/4Wt02ELW10Qyj9OkWMjL6q"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        },
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272640,
+      "name": "Flying Away With You - Notre Dame Remix",
+      "url": "https://open.spotify.com/track/7pr3sX0AR5UazQ23qexRG5"
     },
     {
       "album": {
@@ -3970,7 +4066,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 230163,
       "name": "La Candelaria",
       "url": "https://open.spotify.com/track/5tz0s6t6V9ElCAvGCu4Ldi"
@@ -4566,7 +4662,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 194758,
       "name": "Mala",
       "url": "https://open.spotify.com/track/2LTDoJXKif735jmUZwafPH"
@@ -4640,6 +4736,24 @@
       "duration_ms": 209813,
       "name": "Mas Que Nada (feat. Rolando Faria)",
       "url": "https://open.spotify.com/track/5OdabQctuIS8WWL70YCrC9"
+    },
+    {
+      "album": {
+        "name": "Massako",
+        "url": "https://open.spotify.com/album/4jugnC3t0VJuScQveV9Ds7"
+      },
+      "artists": [
+        {
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249249,
+      "name": "Massako",
+      "url": "https://open.spotify.com/track/54fo79hH3GjbWjW3zdhpLY"
     },
     {
       "album": {
@@ -4880,6 +4994,28 @@
       "duration_ms": 346237,
       "name": "Mi Pena",
       "url": "https://open.spotify.com/track/4H1WX8N0IRyPn2kG1TrJEI"
+    },
+    {
+      "album": {
+        "name": "Mi Pena (Remixes)",
+        "url": "https://open.spotify.com/album/5KZH7BnPu6cKRQC95GeyJm"
+      },
+      "artists": [
+        {
+          "name": "Birds of Mind",
+          "url": "https://open.spotify.com/artist/6V4bkdqHvsJ2lqkIl4qnG7"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168276,
+      "name": "Mi Pena - AM\u00c9M\u00c9 Remix",
+      "url": "https://open.spotify.com/track/6iICF4b8n2gV78lijHoCdT"
     },
     {
       "album": {
@@ -5556,7 +5692,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 194880,
       "name": "Nuraan",
       "url": "https://open.spotify.com/track/0ZIdK9xgN6vEXj27fzj8V8"
@@ -6083,6 +6219,24 @@
     },
     {
       "album": {
+        "name": "Puro Mambo",
+        "url": "https://open.spotify.com/album/3To831Y2DDdp42fp2mDmnm"
+      },
+      "artists": [
+        {
+          "name": "Buraka Som Sistema",
+          "url": "https://open.spotify.com/artist/6zUiRChNyL3HEezOd1Wjam"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169117,
+      "name": "Puro Mambo",
+      "url": "https://open.spotify.com/track/6Z9U6Xk4kQtziCcdEZfUzw"
+    },
+    {
+      "album": {
         "name": "Push Me",
         "url": "https://open.spotify.com/album/5iPPHGZzzZJYk4rbI2MWAd"
       },
@@ -6350,7 +6504,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 309426,
       "name": "Rinketin",
       "url": "https://open.spotify.com/track/1g7MwlRkYZgGsMBB4am3rj"
@@ -6478,7 +6632,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 276000,
       "name": "Romance",
       "url": "https://open.spotify.com/track/0j17YePnS81vgykhzZuz1B"
@@ -6926,7 +7080,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 213442,
       "name": "Sentimental - Sombras",
       "url": "https://open.spotify.com/track/5rl7bbc4BX52AqIhKI2PK1"
@@ -6956,6 +7110,24 @@
       "duration_ms": 342076,
       "name": "Shaman Dance - Fairplay Remix",
       "url": "https://open.spotify.com/track/1jkLu8DJgdMShFB3stv5NY"
+    },
+    {
+      "album": {
+        "name": "Lump Records [Mediterranea] (DJ Mix)",
+        "url": "https://open.spotify.com/album/1vc5nqSacl8lduWOO9qKyM"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312772,
+      "name": "Shamma - Mixed",
+      "url": "https://open.spotify.com/track/2hurzetg6nqmPIFq6xZGGm"
     },
     {
       "album": {
@@ -7044,6 +7216,28 @@
       "duration_ms": 211653,
       "name": "Si T\u00fa (feat. Sepia Brown) - Rafa Barrios Remix",
       "url": "https://open.spotify.com/track/2gshJPr6LhwDTSbrBDBrSH"
+    },
+    {
+      "album": {
+        "name": "Si Vas Al mar",
+        "url": "https://open.spotify.com/album/180iVVSyWKcPtT4RoPIMy4"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256475,
+      "name": "Si Vas Al mar",
+      "url": "https://open.spotify.com/track/1oU2mTReAEUNlQdC6e4IAp"
     },
     {
       "album": {
@@ -7398,7 +7592,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 149278,
       "name": "Suelta",
       "url": "https://open.spotify.com/track/1JXIQ6knwQsB9lXK9ino3m"
@@ -7562,6 +7756,24 @@
       "duration_ms": 389395,
       "name": "TERRITORY - SOMMA REMIX",
       "url": "https://open.spotify.com/track/2wKT63Yyolf89Pxc8eKaZI"
+    },
+    {
+      "album": {
+        "name": "MoBlack presents FROM LATIN AMERICA WITH LOVE",
+        "url": "https://open.spotify.com/album/2CJ7QpNHb3627dPR54fI2e"
+      },
+      "artists": [
+        {
+          "name": "Murmusica",
+          "url": "https://open.spotify.com/artist/7jdrU9OQr55FHQVztoanvY"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297968,
+      "name": "Tete Ete",
+      "url": "https://open.spotify.com/track/63qYpGi0f1GVEzCcH5bgh4"
     },
     {
       "album": {
@@ -8072,7 +8284,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "Tulum",
       "url": "https://open.spotify.com/track/4UZindmHKTn1YdqixOUYGM"
@@ -8164,7 +8376,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 300487,
       "name": "Un Idiota - Te Perd\u00ed",
       "url": "https://open.spotify.com/track/1oe42GaLCuxepZNDc6Hl27"
@@ -8942,10 +9154,28 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 443346,
       "name": "Y Que Tengo - Joeski Remix",
       "url": "https://open.spotify.com/track/0hnaEoTFfiyTT6Q6Dz55wM"
+    },
+    {
+      "album": {
+        "name": "Yali",
+        "url": "https://open.spotify.com/album/5IAB4OLqYjiJUk57cQwj7Q"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307972,
+      "name": "Yali",
+      "url": "https://open.spotify.com/track/0tUy2htwSX9x7Q44RLsare"
     },
     {
       "album": {
@@ -8968,6 +9198,24 @@
       "duration_ms": 280044,
       "name": "You Don\u2019t See Me",
       "url": "https://open.spotify.com/track/7eRf7FEjMtf9MxNIRHhsco"
+    },
+    {
+      "album": {
+        "name": "You're a Star",
+        "url": "https://open.spotify.com/album/350A5du2DM13luw7uLfJmU"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268743,
+      "name": "You're a Star",
+      "url": "https://open.spotify.com/track/2YbuRaVpUb5GUgYu4k0ZkZ"
     },
     {
       "album": {

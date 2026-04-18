@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-683 songs - 1 day 12 hr 45 min
+684 songs - 1 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,8 +501,9 @@
 | [So In Love](https://open.spotify.com/track/1CML9iOr9Ht5LfYLYpra1A) | [Nestor Torres](https://open.spotify.com/artist/25z14Qw0e8uN0dIaWVe2Mk) | [Jazz Flute Traditions](https://open.spotify.com/album/4DqJWhHolufk0kDOzbIsQs) | 8:25 | 2025-07-10 |  |
 | [So Near And Yet So Far](https://open.spotify.com/track/3iOSsAJVdhmxWijje9262j) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson \- Jazz Moods](https://open.spotify.com/album/4O6elzt1pv8vei5SkWy0Jl) | 3:21 | 2026-01-23 |  |
 | [So Near and Yet So Far](https://open.spotify.com/track/6AC7UynRLE48GlJWEAWICV) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Songbooks](https://open.spotify.com/album/5LdHsGaNecatmBABHpbdoZ) | 3:21 | 2024-07-24 | 2026-01-24 |
-| [So, What's New \(Peroni Spot Tv\)](https://open.spotify.com/track/27oaGM2vE3wqDaztsg7QWP) | [Montefiori Cocktail](https://open.spotify.com/artist/2AGsq5G3ME9ctnL21lHj1G) | [Classics \(a New Release of Selected Tracks from 1997 to 2000\)](https://open.spotify.com/album/3KjQ1gqbJ0OAlcUzUGdDon) | 4:01 | 2025-05-24 |  |
+| [So, What's New \(Peroni Spot Tv\)](https://open.spotify.com/track/27oaGM2vE3wqDaztsg7QWP) | [Montefiori Cocktail](https://open.spotify.com/artist/2AGsq5G3ME9ctnL21lHj1G) | [Classics \(a New Release of Selected Tracks from 1997 to 2000\)](https://open.spotify.com/album/3KjQ1gqbJ0OAlcUzUGdDon) | 4:01 | 2025-05-24 | 2026-04-18 |
 | [So, What's New \(Peroni Spot Tv\)](https://open.spotify.com/track/4adVw6NMItG5Hjo6bCWRum) | [Montefiori Cocktail](https://open.spotify.com/artist/2AGsq5G3ME9ctnL21lHj1G) | [Classics \(a New Release of Selected Tracks from 1997 to 2000\)](https://open.spotify.com/album/4jZlfWH3mwcfW4PfAHd2vX) | 4:01 | 2024-07-24 | 2025-05-25 |
+| [So, What's New \(Peroni Spot Tv\)](https://open.spotify.com/track/65QQqNcHU6IyFNYkDFvfjM) | [Montefiori Cocktail](https://open.spotify.com/artist/2AGsq5G3ME9ctnL21lHj1G) | [Classics \(a New Release of Selected Tracks from 1997 to 2000\)](https://open.spotify.com/album/0gzaSu8JQgiDWm1JSUFbMH) | 4:01 | 2026-04-17 |  |
 | [Soft As Spring](https://open.spotify.com/track/4XvZLaEaVoiLXf8Sty1HO2) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Merrill At Midnight](https://open.spotify.com/album/0mjrxHCEFCY9EbXJNnh6D9) | 3:14 | 2024-07-24 |  |
 | [Solomon](https://open.spotify.com/track/2cJPrkSoyoBsoASGIztLGA) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter In London, Vol\. 1](https://open.spotify.com/album/0DS8IXLdZ7be3Y6mBCEX2U) | 3:07 | 2025-07-10 |  |
 | [Solomon](https://open.spotify.com/track/4F0WeGqbVZflplT9WySDWM) | [Nitty Gritty](https://open.spotify.com/artist/5scrFOJmEsbpwUJLjkFFHJ) | [Selector's Choice Presents Mighty Crown](https://open.spotify.com/album/1XNxU4p6PJx2wmkZIAzytJ) | 1:58 | 2025-06-27 | 2025-07-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > A celebration of lesbian voices across the Universal Music family\. 🌈 For Lesbian Visibility Week, this playlist brings together artists who are shaping culture, telling their stories, and creating space through their music across genres and generations \(curated by The Pride Network\)
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 112,477 likes - 16 songs - 55 min 39 sec
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 112,453 likes - 15 songs - 52 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,9 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 9 | [Sailor Song](https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:31 |
 | 10 | [Girl I Met On The Internet](https://open.spotify.com/track/3HPaR5OOXPAfP8dnURL1MG) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Girl I Met On The Internet](https://open.spotify.com/album/5qkNZPW0NPGx6jro9tlcEf) | 3:41 |
 | 11 | [Is It Just Me?](https://open.spotify.com/track/1o2E5CwlBWuVElc41EqOSU) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [My Town](https://open.spotify.com/album/18SfYsQ4uFVYaMVctPDAvX) | 3:23 |
-| 12 | [She's My Religion](https://open.spotify.com/track/0LwJllN73QYBHEBdGUTyEp) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Who Am I?](https://open.spotify.com/album/5FLKDb9bvbMu0yTahZtgHO) | 3:09 |
-| 13 | [Like The Way I Do](https://open.spotify.com/track/3Fe3L3N5pGaa0BBT4eVypZ) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Melissa Etheridge](https://open.spotify.com/album/5osNPHpdk6WyPSDerAUBWf) | 5:24 |
-| 14 | [The Look Of Love](https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Look Of Love \(Expanded Edition\)](https://open.spotify.com/album/3clrlTlu2wENPvdXz88YPh) | 3:36 |
-| 15 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 |
-| 16 | [Romeo and Juliet](https://open.spotify.com/track/7r9Fix8OaMvWDqRegk1bPu) | [Loren Heat](https://open.spotify.com/artist/43Fg9z6zfjmsHQOwexx7wt) | [Romeo and Juliet](https://open.spotify.com/album/4zbim017hQnJr4c9eyvMwN) | 3:14 |
+| 12 | [Like The Way I Do](https://open.spotify.com/track/3Fe3L3N5pGaa0BBT4eVypZ) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Melissa Etheridge](https://open.spotify.com/album/5osNPHpdk6WyPSDerAUBWf) | 5:24 |
+| 13 | [The Look Of Love](https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Look Of Love \(Expanded Edition\)](https://open.spotify.com/album/3clrlTlu2wENPvdXz88YPh) | 3:36 |
+| 14 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 |
+| 15 | [Romeo and Juliet](https://open.spotify.com/track/7r9Fix8OaMvWDqRegk1bPu) | [Loren Heat](https://open.spotify.com/artist/43Fg9z6zfjmsHQOwexx7wt) | [Romeo and Juliet](https://open.spotify.com/album/4zbim017hQnJr4c9eyvMwN) | 3:14 |
 
-Snapshot ID: `AAAapfCfsH/eedTdLzw8eXpXswMFcf0E`
+Snapshot ID: `AAAapsrpMzxlHuFRWZyGOzuun2RawxsY`

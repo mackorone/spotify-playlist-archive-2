@@ -174,7 +174,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 129344,
       "name": "A Sky Full Of Stars",
       "url": "https://open.spotify.com/track/3Z2ueAJtrYO5yHMXLz4TP2"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 137682,
       "name": "Alicante",
       "url": "https://open.spotify.com/track/4NfuYShHpqVocwgQ6IcZVe"
@@ -1292,6 +1292,24 @@
       "duration_ms": 125000,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3XoNXct7zTtKFoExkw2yhw"
+    },
+    {
+      "album": {
+        "name": "Another Place",
+        "url": "https://open.spotify.com/album/1l2HIPSbkBObLh8a84erLC"
+      },
+      "artists": [
+        {
+          "name": "just here.",
+          "url": "https://open.spotify.com/artist/3e8DK3HacvVTlhoYlQOIAx"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Another Place",
+      "url": "https://open.spotify.com/track/7wKvAAhR98Dc5Miwi28eHN"
     },
     {
       "album": {
@@ -5871,6 +5889,32 @@
     },
     {
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/2Aa2te0iNnqtwOW9s9VdA3"
+      },
+      "artists": [
+        {
+          "name": "Panuma",
+          "url": "https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH"
+        },
+        {
+          "name": "Tom Ferry",
+          "url": "https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179512,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/5cXeme5DUuEBD1n0lvAmlk"
+    },
+    {
+      "album": {
         "name": "Dark",
         "url": "https://open.spotify.com/album/4A93l2J1gEFzNErIP0aklZ"
       },
@@ -10205,6 +10249,24 @@
     },
     {
       "album": {
+        "name": "Gave You My All",
+        "url": "https://open.spotify.com/album/1eL0Nc3B0ri3uB4wnrkoQ8"
+      },
+      "artists": [
+        {
+          "name": "Solara",
+          "url": "https://open.spotify.com/artist/1M7CohuwV1Mgim4czMhWRe"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195833,
+      "name": "Gave You My All",
+      "url": "https://open.spotify.com/track/4yyof2CrOoFA817aoChfFC"
+    },
+    {
+      "album": {
         "name": "Get Back To You",
         "url": "https://open.spotify.com/album/6f8LJ5QlQnukYgJLxUiK24"
       },
@@ -12414,7 +12476,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 153245,
       "name": "Honest",
       "url": "https://open.spotify.com/track/0LWPhTRMJfWF5AipqXDPFX"
@@ -17982,7 +18044,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 158095,
       "name": "miss those nights",
       "url": "https://open.spotify.com/track/57oIvbxSqRsOAbyJ7o54fp"
@@ -18078,6 +18140,32 @@
       "duration_ms": 176847,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/4NaGVHcdjaBERvOeSVV79Y"
+    },
+    {
+      "album": {
+        "name": "Missing You (Le Jardin Secret Remix)",
+        "url": "https://open.spotify.com/album/2S9BrkDWlzyH81HV8BQcQt"
+      },
+      "artists": [
+        {
+          "name": "Samuel Miller",
+          "url": "https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8"
+        },
+        {
+          "name": "LO",
+          "url": "https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto"
+        },
+        {
+          "name": "Le Jardin Secret",
+          "url": "https://open.spotify.com/artist/0Hzo0ny2O7V0MK5HbttDi5"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "Missing You - Le Jardin Secret Remix",
+      "url": "https://open.spotify.com/track/6H7cbyo4hiOdn2fUxToGA6"
     },
     {
       "album": {
@@ -18196,6 +18284,28 @@
       "duration_ms": 170689,
       "name": "Moments Away",
       "url": "https://open.spotify.com/track/1sR1g3504zuwjd0rv7mM0r"
+    },
+    {
+      "album": {
+        "name": "Money & Fame",
+        "url": "https://open.spotify.com/album/4o0JX5e8CkhqvaAVrk9dHi"
+      },
+      "artists": [
+        {
+          "name": "\u00c6j",
+          "url": "https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41"
+        },
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Money & Fame (feat. Gabriella)",
+      "url": "https://open.spotify.com/track/12ATtCE5bXPCMvPSt4Nacq"
     },
     {
       "album": {
@@ -18366,7 +18476,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 184005,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/2x3oNXRXqn79zuGIeKRkkS"
@@ -19472,6 +19582,28 @@
       "duration_ms": 139115,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/0t3wlK1LOLTbAso7NclwUG"
+    },
+    {
+      "album": {
+        "name": "no regrets",
+        "url": "https://open.spotify.com/album/4L9dieoZtQV3u82QDY28AJ"
+      },
+      "artists": [
+        {
+          "name": "Dimside",
+          "url": "https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX"
+        },
+        {
+          "name": "Yung Toro",
+          "url": "https://open.spotify.com/artist/00M4YfDf85wDkMzApz9ilM"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135909,
+      "name": "no regrets",
+      "url": "https://open.spotify.com/track/039yNsAZAsZucYO2UC0nzw"
     },
     {
       "album": {
@@ -21244,6 +21376,28 @@
       "duration_ms": 177600,
       "name": "Paris",
       "url": "https://open.spotify.com/track/2AwK34wiXqYBYr3DCI42LT"
+    },
+    {
+      "album": {
+        "name": "Part-Time Lover",
+        "url": "https://open.spotify.com/album/5H8naJoVWKWVgJnP5vy1Qm"
+      },
+      "artists": [
+        {
+          "name": "Maurice Lessing",
+          "url": "https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r"
+        },
+        {
+          "name": "Emma Wells",
+          "url": "https://open.spotify.com/artist/3ChhgHO30YBZB8X7kyligx"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195725,
+      "name": "Part-Time Lover",
+      "url": "https://open.spotify.com/track/0PknEt9IJuG2K19fzQi2r9"
     },
     {
       "album": {
@@ -24323,6 +24477,24 @@
     },
     {
       "album": {
+        "name": "So Easy (To Fall In Love)",
+        "url": "https://open.spotify.com/album/1KdJz5eKqA5qfN59AQc5q7"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/4JulxGIurJOGZh9GtGsHGd"
+    },
+    {
+      "album": {
         "name": "So Far Away",
         "url": "https://open.spotify.com/album/1wSiogYThA7TlPQ2C1V6oK"
       },
@@ -24581,6 +24753,32 @@
     },
     {
       "album": {
+        "name": "Something Real",
+        "url": "https://open.spotify.com/album/789OHGf8yuNopwNvDsxWO1"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "clarity.",
+          "url": "https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH"
+        },
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128235,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/0wCFs6PrNk1oGrqnJ4a1Bu"
+    },
+    {
+      "album": {
         "name": "Something Right",
         "url": "https://open.spotify.com/album/4rneJcPuFnV9zlailwPZDM"
       },
@@ -24716,6 +24914,28 @@
       "duration_ms": 152380,
       "name": "Space 2 Breathe - Radio Edit",
       "url": "https://open.spotify.com/track/6yAhLCiuH22cNUzNlBv5n9"
+    },
+    {
+      "album": {
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/5svtHJvYm1FpDEMA8anIc3"
+      },
+      "artists": [
+        {
+          "name": "Odare",
+          "url": "https://open.spotify.com/artist/1Z636FAEL724WokX4TvF8G"
+        },
+        {
+          "name": "ENVOL",
+          "url": "https://open.spotify.com/artist/5h8U1AIYA23J6XR0mgNOD4"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150334,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/7wF12vlybqVXvmWAJxStg8"
     },
     {
       "album": {
@@ -27292,7 +27512,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 174952,
       "name": "There For You",
       "url": "https://open.spotify.com/track/3TPYOpX9qaLUv2mVWYkhBD"
@@ -27693,6 +27913,24 @@
     },
     {
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/3vKcexSBJMqNmr5gK14Lzi"
+      },
+      "artists": [
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147005,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/4EEK3feXL1jtNU7j3r9xxs"
+    },
+    {
+      "album": {
         "name": "Together In The Night",
         "url": "https://open.spotify.com/album/0LRD4arfIM8cl2lLgfQDWK"
       },
@@ -27990,6 +28228,28 @@
       "duration_ms": 127500,
       "name": "True",
       "url": "https://open.spotify.com/track/51SF5c50uwFbjCGo36A5NU"
+    },
+    {
+      "album": {
+        "name": "Turn The Lights Off",
+        "url": "https://open.spotify.com/album/0Y0MwdwLnsLVE1qjDTMbCf"
+      },
+      "artists": [
+        {
+          "name": "Neascape",
+          "url": "https://open.spotify.com/artist/0mkR2PQg7ozJy4ntTGCPrT"
+        },
+        {
+          "name": "Ra\u00efko",
+          "url": "https://open.spotify.com/artist/4EWRb8AQHri7uQ1douoFe4"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168050,
+      "name": "Turn The Lights Off",
+      "url": "https://open.spotify.com/track/393cmbXj9vM8AzflL3hOln"
     },
     {
       "album": {

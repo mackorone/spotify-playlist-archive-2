@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "BITTE LEBEN",
+        "url": "https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy"
+      },
+      "artists": [
+        {
+          "name": "Francamente",
+          "url": "https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "5 di mattina",
+      "url": "https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy"
+    },
+    {
+      "album": {
         "name": "7 AM",
         "url": "https://open.spotify.com/album/7l2awPEfSHsjdWjG0UjF8k"
       },
@@ -4176,8 +4194,8 @@
       },
       "artists": [
         {
-          "name": "Gabriel Tonelli",
-          "url": "https://open.spotify.com/artist/1SHwQTs9UzjrQPwnLHx46U"
+          "name": "GABRIEL TONELLI",
+          "url": "https://open.spotify.com/artist/3gzEVxb4jUC0579HQ08Opx"
         }
       ],
       "date_added": "2026-04-16",
@@ -22442,24 +22460,6 @@
       "duration_ms": 208235,
       "name": "Tra Milioni",
       "url": "https://open.spotify.com/track/7FAXcq2A8zGQmAYtsAyWPK"
-    },
-    {
-      "album": {
-        "name": "BITTE LEBEN",
-        "url": "https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy"
-      },
-      "artists": [
-        {
-          "name": "Francamente",
-          "url": "https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts"
-        }
-      ],
-      "date_added": "2026-04-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy"
     },
     {
       "album": {

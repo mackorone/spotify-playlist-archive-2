@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Murilo Huff
+> O melhor do sertanejo em uma só playlist! Foto: Zé Neto & Cristiano
 
 385 songs - 18 hr 4 min
 

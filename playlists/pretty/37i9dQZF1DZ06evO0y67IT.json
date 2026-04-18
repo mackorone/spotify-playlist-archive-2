@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 9548,
+  "num_followers": 9551,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad7VAAAAAACDhEoIKg1rjlQOqWQPgp82",
+  "snapshot_id": "aeAmgAAAAADrSeh6UlLwU1b8tjmvhSxv",
   "tracks": [
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 266314,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/7vDSpbz16ylQ6tnUFpfIB6"
+      "duration_ms": 201414,
+      "name": "Tail Lights",
+      "url": "https://open.spotify.com/track/1wLyxJA73dEPitzJFtY0pd"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 201414,
-      "name": "Tail Lights",
-      "url": "https://open.spotify.com/track/1wLyxJA73dEPitzJFtY0pd"
+      "duration_ms": 266314,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/7vDSpbz16ylQ6tnUFpfIB6"
     },
     {
       "added_at": null,

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Mente Fuerte
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,075 likes - 59 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,092 likes - 59 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [An Mia Mera](https://open.spotify.com/track/4I1x69jDnmCmCeGkPC1HcA) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH) | [Kingpin 2](https://open.spotify.com/album/0WMnNM1kfwzu2fU5FTYc3O) | 2:28 |
+| 1 | [An Mia Mera](https://open.spotify.com/track/4I1x69jDnmCmCeGkPC1HcA) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Giorgos Orfanidis](https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh) | [Kingpin 2](https://open.spotify.com/album/0WMnNM1kfwzu2fU5FTYc3O) | 2:28 |
 | 2 | [OP TI EGINE?](https://open.spotify.com/track/46PHloRvhwUO728FcaQmzx) | [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN) | [OP TI EGINE?](https://open.spotify.com/album/6eFzC6wdmHur0gFcjINLL0) | 2:58 |
 | 3 | [AMA SARESW](https://open.spotify.com/track/27YR9PvR67oRBOquAXS87Y) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [AMA SARESW](https://open.spotify.com/album/72IuhQ5rCDH8Gv5aNEbXly) | 2:16 |
 | 4 | [SIMADIA](https://open.spotify.com/track/4lP32IhvWfxaqAyxKkWNPG) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [SIMADIA](https://open.spotify.com/album/7tlLYENbYURMgBVzUWHy8N) | 2:20 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 13 | [CHECKS](https://open.spotify.com/track/3SScDeSOibZKagVI11nTgX) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [CHECKS](https://open.spotify.com/album/2aJMaDG7wlUkjFpUZvUVcz) | 2:10 |
 | 14 | [RP](https://open.spotify.com/track/0eS4UksBnRsMsS3eRH1ALh) | [SKEZ](https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH), [Ank Beats](https://open.spotify.com/artist/2mNrF07VPij0HJqtgOZO5W) | [RP](https://open.spotify.com/album/3W8DrDJSd0SUhc7n3OC5AO) | 2:18 |
 | 15 | [POIOS NA SOU TO PEI](https://open.spotify.com/track/1fVMxUXpzDQCBxmdn0GClq) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [10](https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0) | 2:55 |
-| 16 | [Mavra Timberlands](https://open.spotify.com/track/4IJXQPNXL0uWheuGGrK3pH) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH) | [Kingpin 2](https://open.spotify.com/album/0WMnNM1kfwzu2fU5FTYc3O) | 2:57 |
+| 16 | [Mavra Timberlands](https://open.spotify.com/track/4IJXQPNXL0uWheuGGrK3pH) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm), [Katerina Lazaridou](https://open.spotify.com/artist/5T4L2fNupIsT3VZhbUiEQO) | [Kingpin 2](https://open.spotify.com/album/0WMnNM1kfwzu2fU5FTYc3O) | 2:57 |
 | 17 | [PTR](https://open.spotify.com/track/2UCl29yD6Q92WEnAEBxFD0) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [PTR](https://open.spotify.com/album/789ERgR4bspBuGQTsakEll) | 2:51 |
 | 18 | [CARTEL](https://open.spotify.com/track/1sH3C1vAF0x9lUz2viD8t6) | [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV), [Marzi](https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq), [GMBeaTz](https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz) | [CARTEL](https://open.spotify.com/album/21K02Axdn1jKwF7q4qkF5y) | 2:41 |
 | 19 | [Asteria](https://open.spotify.com/track/62ErMQlE4ub2GvtKdwy7id) | [FANN](https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269), [CARLA](https://open.spotify.com/artist/0efzWCTqpsoaTZNUn3ar4z), [Greco Beats](https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV) | [Lilith Tape 2](https://open.spotify.com/album/4Y9fHUK7IKvbbkDv6CyH5S) | 3:57 |

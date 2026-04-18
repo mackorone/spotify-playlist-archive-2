@@ -20391,6 +20391,24 @@
     },
     {
       "album": {
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/2dvUZGreos1DGkLnq1y2Dn"
+      },
+      "artists": [
+        {
+          "name": "KYUL",
+          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139310,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/6lveODyI410pzcdlS9HMRw"
+    },
+    {
+      "album": {
         "name": "back to you (feat. \uae30\uc6b1)",
         "url": "https://open.spotify.com/album/7GGpqCliHa2pp5pa4beZAH"
       },
@@ -28070,7 +28088,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 168000,
       "name": "Biggest Fan",
       "url": "https://open.spotify.com/track/63razyPQswXocUXL3cGJgo"
@@ -56794,7 +56812,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 184069,
       "name": "DESPERADO",
       "url": "https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd"
@@ -67216,7 +67234,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 260000,
       "name": "Eden",
       "url": "https://open.spotify.com/track/4nONpeCoIWR46Lgzt765p7"
@@ -85318,7 +85336,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 272410,
       "name": "From Mark",
       "url": "https://open.spotify.com/track/0OnhIlYh3ayzcaV0pHh410"
@@ -87280,6 +87298,28 @@
       "duration_ms": 170133,
       "name": "Get It",
       "url": "https://open.spotify.com/track/7cACJwffFNUIEznL65UOc2"
+    },
+    {
+      "album": {
+        "name": "GET JIGGY!",
+        "url": "https://open.spotify.com/album/4a6kufyKKzmTo9kkMihJBW"
+      },
+      "artists": [
+        {
+          "name": "Luci Gang",
+          "url": "https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S"
+        },
+        {
+          "name": "Rohann",
+          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132931,
+      "name": "GET JIGGY!",
+      "url": "https://open.spotify.com/track/2RvB8W3b4a0viQh6jMBjnQ"
     },
     {
       "album": {
@@ -108150,7 +108190,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 197000,
       "name": "I AM REMIX (with. YLN Foreign, KAMBO)",
       "url": "https://open.spotify.com/track/3TqmcL6cxPSLZBSGD9k0cH"
@@ -127170,6 +127210,24 @@
       "duration_ms": 256173,
       "name": "I\u2032m Sorry",
       "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
+    },
+    {
+      "album": {
+        "name": "I'm Spring, You Are Flower",
+        "url": "https://open.spotify.com/album/0WFZOhYtJmn38x9pUC8Gov"
+      },
+      "artists": [
+        {
+          "name": "BUMJIN",
+          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "I\u2032m Spring, You Are Flower",
+      "url": "https://open.spotify.com/track/3tTRSYyeX7EBoGbbWhGt29"
     },
     {
       "album": {
@@ -168067,6 +168125,28 @@
     },
     {
       "album": {
+        "name": "NAIL",
+        "url": "https://open.spotify.com/album/6wXgjwwY1YLZhAQupPi3m4"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162853,
+      "name": "NAIL (feat. Lolo Zoua\u00ef)",
+      "url": "https://open.spotify.com/track/2VdbARHQxe2Oo0PRlXpg4I"
+    },
+    {
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/4VhfbigSNqthXAEzdOr89E"
       },
@@ -171946,6 +172026,24 @@
       "duration_ms": 163923,
       "name": "No Destination",
       "url": "https://open.spotify.com/track/62Mtv128QRn9peL7FQHoX8"
+    },
+    {
+      "album": {
+        "name": "Perfect Crown OST Part.3",
+        "url": "https://open.spotify.com/album/7BHby27F9TW0nIED8c43sQ"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "No Doubt",
+      "url": "https://open.spotify.com/track/3wSejKYOwx4So5fpeS7Ehz"
     },
     {
       "album": {
@@ -193782,7 +193880,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 243000,
       "name": "PUBLIC ENEMIES (Feat. OSUN, Iyaan, Jeffrey White, Raf Sandou)",
       "url": "https://open.spotify.com/track/6TUuxnabfrlNbFi0FJSz5G"
@@ -196928,6 +197026,24 @@
       "duration_ms": 155500,
       "name": "Ready, Set, Go",
       "url": "https://open.spotify.com/track/1jPdG70zsifL8YRMErMzds"
+    },
+    {
+      "album": {
+        "name": "Absolute Value of Romance OST Part 1",
+        "url": "https://open.spotify.com/album/4bdPeKUzWoCYWnx9g17jUd"
+      },
+      "artists": [
+        {
+          "name": "VIOLA",
+          "url": "https://open.spotify.com/artist/25aScl6kfWpLHcAwRKvwU3"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182984,
+      "name": "Real Fantasy",
+      "url": "https://open.spotify.com/track/7qzgYIkVfxH0NzBBqvuWOS"
     },
     {
       "album": {
@@ -201680,6 +201796,28 @@
       "duration_ms": 200680,
       "name": "Rock Burst",
       "url": "https://open.spotify.com/track/4W9dsOnTnkTUTyL9MWfX6B"
+    },
+    {
+      "album": {
+        "name": "Rock Solid (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/5vyseN9ZJ5UgstGAuScyiz"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Rock Solid (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/7g57jPAhy12yvPoIS6BenO"
     },
     {
       "album": {
@@ -246629,6 +246767,24 @@
     },
     {
       "album": {
+        "name": "YB Mastered 3.1 LIVE",
+        "url": "https://open.spotify.com/album/0lxbJh4Nd4AQyvB2zz3DTb"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312486,
+      "name": "Thirty Winds",
+      "url": "https://open.spotify.com/track/4cLzacU5UURBgc3VfTm9Us"
+    },
+    {
+      "album": {
         "name": "This & That",
         "url": "https://open.spotify.com/album/30fW8X8srOAQEnXKFzdM6l"
       },
@@ -261184,6 +261340,24 @@
       "duration_ms": 196466,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/6h6doF8cZ0adRQ1WODeWEX"
+    },
+    {
+      "album": {
+        "name": "DEAD AND",
+        "url": "https://open.spotify.com/album/10z4Yg7ZTYAyhP7isN21Xd"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234520,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/5P3ai9DW0SVnQoVmYQj6EM"
     },
     {
       "album": {
@@ -282338,7 +282512,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 219000,
       "name": "You Ruined Me",
       "url": "https://open.spotify.com/track/5G9yKd2KszcMMK6FaXnzq1"
@@ -287962,7 +288136,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 239000,
       "name": "\ub098\uc758 \ubc14\ub78c\uc740 (My Wish)",
       "url": "https://open.spotify.com/track/4nBrz3SZL65qMNf2oF4i5O"
@@ -291078,7 +291252,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 202968,
       "name": "\ubbf8\uc2a4\uae40 \ub77c\uc77c\ub77d (Miss Kim lilac)",
       "url": "https://open.spotify.com/track/0DzW12IK936NsQHao8BhPF"

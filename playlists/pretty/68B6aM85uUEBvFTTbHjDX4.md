@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/68B6aM85uUEBvFTTbHjDX4.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Thinking About You \(feat\. Ayah Marar\)](https://open.spotify.com/track/1KtD0xaLAikgIt5tPbteZQ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ayah Marar](https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 4:07 |
+| 1 | [Thinking About You \(feat\. Ayah Marar\)](https://open.spotify.com/track/1KtD0xaLAikgIt5tPbteZQ) | [Calvin Harris](https://open.spotify.com/artist/5JIdaV4V6IaLMQG6uzAhJY), [Ayah Marar](https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 4:07 |
 | 2 | [Synrise](https://open.spotify.com/track/4SD5ttMTZP2HF3EP9bWe4W) | [GOOSE](https://open.spotify.com/artist/3gAnduA93Ykv75yNrwXhz5) | [Synrise](https://open.spotify.com/album/56XubiYgiBFYFV7TrYIzWC) | 5:31 |
 | 3 | [Waiting All Night \(feat\. Ella Eyre\)](https://open.spotify.com/track/666elemQTQGi8xbjAAdIgB) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Waiting All Night](https://open.spotify.com/album/6Jf8KEBkBLFYZUq3qxrXNl) | 4:52 |
 | 4 | [If I Could \(feat\. Joe Killington\)](https://open.spotify.com/track/52UFPPFMnUzaWfiU8oYgpw) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Mosaik](https://open.spotify.com/album/1miPtr5WVeMoYFvu0RZ6Mc) | 3:51 |

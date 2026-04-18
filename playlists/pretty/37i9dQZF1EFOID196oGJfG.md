@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 23 | [No Hard Feelings](https://open.spotify.com/track/7qpPnapb1VUCvr74EnaI4q) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [No Hard Feelings](https://open.spotify.com/album/72WLSIvdo0R4NuNHu4pEz7) | 3:25 |
 | 24 | [Happy We Happened](https://open.spotify.com/track/3mEUU5VAHA5TMQHs2vLLWi) | [Carter Ryan](https://open.spotify.com/artist/2hg54ZO1N0bQXbTlLKWSnc) | [Happy We Happened](https://open.spotify.com/album/3Q16F8hTgZAWFniox8j8Ol) | 2:57 |
 | 25 | [Loving Means Leaving](https://open.spotify.com/track/2ySKEa16GDpwon90g1cILI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [A Heart Is a Terrible Thing to Break](https://open.spotify.com/album/6mBNXZGN2V1JmcUhjlxU3q) | 3:03 |
-| 26 | [Till The Wheels Fall Off](https://open.spotify.com/track/1Bxx0NQI5tiWpBdjkTrLbv) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/0wlHdQIQOfVMzD83Lvpjkj) | 2:34 |
-| 27 | [Fast Lane](https://open.spotify.com/track/2FazcKsxgoI6X9FxFgLd9k) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Fast Lane](https://open.spotify.com/album/63XwmOMDfcOpOc8JSSNwp7) | 2:31 |
+| 26 | [Fast Lane](https://open.spotify.com/track/2FazcKsxgoI6X9FxFgLd9k) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Fast Lane](https://open.spotify.com/album/63XwmOMDfcOpOc8JSSNwp7) | 2:31 |
+| 27 | [Till The Wheels Fall Off](https://open.spotify.com/track/1Bxx0NQI5tiWpBdjkTrLbv) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/0wlHdQIQOfVMzD83Lvpjkj) | 2:34 |
 | 28 | [Mad at You](https://open.spotify.com/track/15xawByQGSgYAztg5aRc7g) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Mad at You](https://open.spotify.com/album/4mdm9IcJ8c4ymN2625XVzx) | 3:28 |
 | 29 | [LA](https://open.spotify.com/track/5nRuGEeeqRQZ71fwIBLMxl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Crossing More Than City Lines](https://open.spotify.com/album/7KIPA6botKqAyQWwX8jeDb) | 3:20 |
 | 30 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 40 | [Unhappy](https://open.spotify.com/track/5u3j8OZnb4PP4B3gnTjuoO) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4plpuG3ZuucaxXhIo2gobJ) | 3:08 |
 | 41 | [I Love It When You're Low](https://open.spotify.com/track/4SNXOFgK2f3TUkj4ZBt9T8) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Less Is More](https://open.spotify.com/album/3OAGrLvtuYjT7Zy6V3EKkp) | 3:06 |
 
-Snapshot ID: `AcPCjAAAAADdBruMuGwTa1Z5i1ThJbKH`
+Snapshot ID: `AcPIaAAAAADbfk9sJeAT0NAeuLK8H8wd`

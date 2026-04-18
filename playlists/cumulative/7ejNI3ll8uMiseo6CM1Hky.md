@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-185 songs - 10 hr 21 min
+188 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Cotton Candy](https://open.spotify.com/track/6pTXXNyt5ofhClLOKM8oOQ) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Cotton Candy](https://open.spotify.com/album/2RkbbCl9JrCJzOTfAfiAqE) | 2:51 | 2024-12-03 | 2025-01-09 |
 | [Crystal Dolphin](https://open.spotify.com/track/6kx8Hf1Udk4V0Ivq6zpoyG) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Crust Fm](https://open.spotify.com/album/2YZJ2QWjBY1tDqcy8u4nkC) | 1:55 | 2019-04-27 |  |
 | [Cuphead Rap](https://open.spotify.com/track/3GMuEUTFL1sNfLrY4q4qW5) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk) | [O.P.](https://open.spotify.com/album/2FbTHUdaQgMPVKR0mfmvvN) | 3:51 | 2020-03-26 |  |
+| [Cut the Ties](https://open.spotify.com/track/3t2S6YcvQhVgFdiC76gKBt) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk), [Andrea Storm Kaden](https://open.spotify.com/artist/2suYQj2pv0J5xZdNNqzDaU) | [Cut the Ties](https://open.spotify.com/album/7JPZrrcdV2yKqf85xbgvTY) | 3:46 | 2026-04-17 |  |
 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 | 2023-06-27 |  |
 | [Dancin \(feat\. Luvli\) \- Krono Remix](https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr) | [Dancin \(feat\. Luvli\) \[Krono Remix\]](https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE) | 3:18 | 2019-11-12 |  |
 | [Danny Don't You Know](https://open.spotify.com/track/2UAkvf29DvpqYCqK0VFf84) | [Ninja Sex Party](https://open.spotify.com/artist/3jsyANBBy6gOZUSQhiGclx) | [Cool Patrol](https://open.spotify.com/album/05VZA6Th4AQvZwDL3XUHt5) | 4:34 | 2025-10-15 |  |
@@ -172,6 +173,7 @@
 | [The Good In Me](https://open.spotify.com/track/0XA9B3KXLmdgaQ2KcIJa3h) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 3:43 | 2019-06-21 |  |
 | [The Mean Kitty Song \(Hey Little Sparta\)](https://open.spotify.com/track/1LoaJqoMazBgXzCedWkp8x) | [Cory Williams](https://open.spotify.com/artist/3sct943v8qsOCvXrhzGaJm) | [The Mean Kitty Song \(Hey Little Sparta\)](https://open.spotify.com/album/1aY3VHGGkZcuEcC7Z4Sy4F) | 3:26 | 2018-12-06 |  |
 | [The Merry\-Go\-Round](https://open.spotify.com/track/7dtZBlwhY4SxBeVNzn3W0d) | [The Stupendium](https://open.spotify.com/artist/5bkJvRo8OeDzWKpiY4GK0O) | [The Merry\-Go\-Round \(The Amazing Digital Circus Song\)](https://open.spotify.com/album/7dOyc1AeTHuKG2U3Hk8QDg) | 6:32 | 2025-07-14 |  |
+| [The One Who's Running the Show](https://open.spotify.com/track/1Qmmte3WKo1HgQDmDISvNc) | [Gooseworx](https://open.spotify.com/artist/4I31Oaf4lpU501IMCuEHTt) | [The One Who's Running the Show](https://open.spotify.com/album/3QUo9uBdC8zyHPsk02Yf7B) | 2:13 | 2026-04-17 |  |
 | [The Spectre](https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Spectre](https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW) | 3:13 | 2020-02-20 |  |
 | [There's No Good in a Goodbye](https://open.spotify.com/track/4SXGlAPgk4ucGfn3NHCdGI) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 4:10 | 2020-11-13 |  |
 | [Trndsttr \(feat\. M\. Maggie\) \- Lucian Remix](https://open.spotify.com/track/5LZQ5s0kRZS9nBSd1xLK7U) | [Black Coast](https://open.spotify.com/artist/4JMdvZoXArDVuMNNelKmjo), [M\. Maggie](https://open.spotify.com/artist/3jaknADFL7EOn3lSRneM7v), [Lucian](https://open.spotify.com/artist/5CVsjwjuzUOrlEc2OJbUg4) | [Trndsttr \(feat\. M\. Maggie\) \[Lucian Remix\]](https://open.spotify.com/album/5q3vgbTbWJut1Go3qzVgya) | 2:59 | 2018-12-06 |  |
@@ -193,5 +195,6 @@
 | [World's Smallest Violin](https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 3:00 | 2022-09-17 |  |
 | [Worst in Me](https://open.spotify.com/track/4j29JKO2fFyxWFC384vMup) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Worst in Me](https://open.spotify.com/album/7GxMNCxxT7tyTENYtID5ys) | 3:17 | 2025-01-25 |  |
 | [Worst In Me](https://open.spotify.com/track/6lYktNy0nhWLQjo6zvKizF) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Worst In Me](https://open.spotify.com/album/6Y3no6rvyB2wZ77C7yAgkL) | 3:17 | 2018-12-23 |  |
+| [Your New Home 2](https://open.spotify.com/track/5bdZ9pbV0msuGiWVhn345s) | [Switchers Records](https://open.spotify.com/artist/3C9THwdBNJVZ9uic0MPHYc), [Gooseworx](https://open.spotify.com/artist/4I31Oaf4lpU501IMCuEHTt), [Evan Alderete](https://open.spotify.com/artist/2TrXT9J7vh2gaEp6Nb0g0K) | [Your New Home 2](https://open.spotify.com/album/3mOu6Ym88BJ9xN4wVm7eWa) | 3:17 | 2026-04-17 |  |
 
 \*This playlist was first scraped on 2024-12-14. Prior content cannot be recovered.

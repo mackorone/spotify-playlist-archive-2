@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-128 songs - 9 hr 26 min
+130 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Best Of Your Love](https://open.spotify.com/track/40AXbmCmcdCf8gmWCoEFmq) | [Ben Jones](https://open.spotify.com/artist/5uFhgpnmddmAmfqZawWt3k) | [No Simulation](https://open.spotify.com/album/7BzehtbRHHHekt6Tne5q5l) | 4:02 | 2024-03-29 |  |
 | [BMBM](https://open.spotify.com/track/1Ibl3KfZXlzkvyuV9REdWd) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY) | [Night Cruisin'](https://open.spotify.com/album/6sL3gRxmuhhsSpc196Enif) | 3:06 | 2021-07-09 |  |
 | [Bonnie & Clyde](https://open.spotify.com/track/1hOOaJNogPDV1yQVAUipKy) | [Winfree](https://open.spotify.com/artist/4Iov3IICSPYPmfcjuHBiJI), [Methrone](https://open.spotify.com/artist/3YqRniSXLT8kdm125ZfQF6), [Sinamin](https://open.spotify.com/artist/2R2Cc3QWntnZ2IbTOc47KS) | [Bonnie & Clyde](https://open.spotify.com/album/6l3CpW4VLWVSvC0ARj9Cfn) | 4:41 | 2021-03-05 |  |
+| [BOUNCE OUT](https://open.spotify.com/track/1ur9eFiVzYvlT2w1Ufn9Bv) | [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [BOUNCE OUT](https://open.spotify.com/album/3WUm6IoL869ydp3m7VNW2D) | 4:36 | 2026-04-17 |  |
 | [Break\-Out](https://open.spotify.com/track/27pmnmNu2OOktpgfXqC6Xl) | [Rodney Stepp](https://open.spotify.com/artist/02mMWXpx6Kkkr55vi4iyhf) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/5ThrbrIXfa7CbL34g1FH0f) | 5:47 | 2020-09-18 |  |
 | [Break\-Out](https://open.spotify.com/track/6jkw6ers6QNSIn5lxkp11N) | [Rodney Stepp](https://open.spotify.com/artist/02mMWXpx6Kkkr55vi4iyhf) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/7FyxIddviuFxayIXXIl358) | 5:47 | 2020-09-18 | 2024-04-19 |
 | [Breathe Deeper](https://open.spotify.com/track/51nYrq1zvDorGijDA0hLC1) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Breathe Deeper](https://open.spotify.com/album/7qkQOjSJbwUzRIFMdvXMQf) | 5:13 | 2022-03-18 |  |
@@ -99,6 +100,7 @@
 | [Robot Gossip \(Lonely Days Are Over\)](https://open.spotify.com/track/6ZdfdEFNurN8xwd2BDoEur) | [NEW CITY](https://open.spotify.com/artist/4X5U7EjHMofqX4mUAkJm23) | [Robot Gossip \(Lonely Days Are Over\)](https://open.spotify.com/album/0JJYu0sAbqWk5PKnm1l94f) | 3:12 | 2024-04-12 |  |
 | [Robot Man \- Vinyl Edit Version](https://open.spotify.com/track/6myAJZFY7NYLCF8fJIIciU) | [Marcelinho Backspin](https://open.spotify.com/artist/75lcNc72emAl0sY7NR5xG4), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [Robot Man \(Vinyl Edit Version\)](https://open.spotify.com/album/3cVvm1DlqO4UVsoQzjjbRw) | 3:43 | 2023-01-06 |  |
 | [Scorpio](https://open.spotify.com/track/3oWXABQqIZ8ETgM7hxxxO5) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [The Message](https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7) | 4:55 | 2020-09-18 |  |
+| [Shadow Of Your Smile](https://open.spotify.com/track/35KDCFm9Oil4kEXjNR2sfq) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb) | [Shadow Of Your Smile](https://open.spotify.com/album/5R9YEihXqBgCJQyxr2Edpl) | 3:46 | 2026-04-17 |  |
 | [Shake It \(Extended\)](https://open.spotify.com/track/318AONjmfz3gTrcKXCjMIi) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/5h3omMgMw42o9lNiNPpXIw) | 7:03 | 2020-09-18 | 2024-01-06 |
 | [Shake It \(Extended\)](https://open.spotify.com/track/7qJ4aBgsLOVtLppmCDjf9w) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/2zJajyObpMy1kyKQCC8XC6) | 7:03 | 2020-09-18 | 2022-11-21 |
 | [She's drivin me crazy](https://open.spotify.com/track/6ehsvuQU6rrGTKBulK4TDP) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt) | [Sound of Tha Tube](https://open.spotify.com/album/43xWKRfPQtIzXdguOWiXjW) | 3:01 | 2020-09-18 |  |

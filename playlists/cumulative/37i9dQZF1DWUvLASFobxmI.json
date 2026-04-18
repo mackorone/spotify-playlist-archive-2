@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Jorge Morales El Jilguero en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Grupo Anexxado y Predilecto en portada.",
   "name": "Norte\u00f1o 2026",
   "tracks": [
     {
@@ -478,6 +478,24 @@
       "duration_ms": 246647,
       "name": "A Que Si Te Acuerdas",
       "url": "https://open.spotify.com/track/6cnQxQqmPIXoNtNoe9O0gV"
+    },
+    {
+      "album": {
+        "name": "A Ver Como Le Hago",
+        "url": "https://open.spotify.com/album/5Ekh1tHT0fNxAgtxy5raMa"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161875,
+      "name": "A Ver Como Le Hago",
+      "url": "https://open.spotify.com/track/2F0lok1o6mQ539XqGlqrmC"
     },
     {
       "album": {
@@ -2735,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Desde El Charco (En Vivo)",
+        "url": "https://open.spotify.com/album/35yF2G3lDUoDpBoYaA8Upe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aktitud",
+          "url": "https://open.spotify.com/artist/66mY8ZqJGTJfcdqC6jeOEX"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227314,
+      "name": "Como Poder Olvidarte - En Vivo",
+      "url": "https://open.spotify.com/track/5Z0evnieeQdtG9SnIKw8Xn"
+    },
+    {
+      "album": {
         "name": "Como Te Amo Yo",
         "url": "https://open.spotify.com/album/5YmHECrIOvtkrct1ZK5cEV"
       },
@@ -2753,6 +2789,28 @@
     },
     {
       "album": {
+        "name": "Como Yo",
+        "url": "https://open.spotify.com/album/2zBLWhPAKzYJX0iE8TX8Nv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Anexxado",
+          "url": "https://open.spotify.com/artist/5U4SQ3MLlKmphCGAcD1Ls9"
+        },
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175068,
+      "name": "Como Yo",
+      "url": "https://open.spotify.com/track/53IseA7MTbFA0Ojnptm19z"
+    },
+    {
+      "album": {
         "name": "Con La Muerte en Ancas",
         "url": "https://open.spotify.com/album/1RZoMN2uYn25BnFrkrbr86"
       },
@@ -2768,6 +2826,24 @@
       "duration_ms": 182393,
       "name": "Con La Muerte en Ancas",
       "url": "https://open.spotify.com/track/3vIpX0oW53VSDv1dKCWg8h"
+    },
+    {
+      "album": {
+        "name": "Desde Los Angeles (En Vivo)",
+        "url": "https://open.spotify.com/album/5drm9uMXrWRaUVT0GoxlgZ"
+      },
+      "artists": [
+        {
+          "name": "Los Pilares De Culiacan",
+          "url": "https://open.spotify.com/artist/4SRCDftKEFcjil6H0AxKFR"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175210,
+      "name": "Con Que Me Pagas (En Vivo)",
+      "url": "https://open.spotify.com/track/167Gsc6yomj3IwvYOhD7BN"
     },
     {
       "album": {
@@ -2866,6 +2942,24 @@
       "duration_ms": 159527,
       "name": "Contigo Si",
       "url": "https://open.spotify.com/track/55gJhKCCmVByx5EyCFABgh"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde La Oficina",
+        "url": "https://open.spotify.com/album/2WjjoqOuPMIbmZcJkqrrMc"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144370,
+      "name": "Copa de Vino",
+      "url": "https://open.spotify.com/track/0LflEWaUaypzR08kLtgrd0"
     },
     {
       "album": {
@@ -3627,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "De Beso En Cuando",
+        "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
+      },
+      "artists": [
+        {
+          "name": "Vilax",
+          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156013,
+      "name": "De Beso En Cuando",
+      "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
+    },
+    {
+      "album": {
         "name": "De Botas O Gabanas (En Vivo)",
         "url": "https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww"
       },
@@ -3858,7 +3970,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 217596,
       "name": "Desde Que Est\u00e1s Conmigo",
       "url": "https://open.spotify.com/track/7FlHA00BUKaxCeTa7kKhOv"
@@ -4206,7 +4318,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 175375,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
@@ -4224,7 +4336,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 202106,
       "name": "D\u00e9jame Amarte - En Vivo",
       "url": "https://open.spotify.com/track/2vufDNF0g0D3DV5L4GwnDc"
@@ -4318,7 +4430,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 171711,
       "name": "El Armani",
       "url": "https://open.spotify.com/track/5H5WVFN4r7wpFLoyJ0gzhU"
@@ -4376,6 +4488,24 @@
       "duration_ms": 190467,
       "name": "El Ayer Pas\u00f3",
       "url": "https://open.spotify.com/track/1hr2PFq6t2lTzAD16oE1Fm"
+    },
+    {
+      "album": {
+        "name": "El Baquet\u00f3n",
+        "url": "https://open.spotify.com/album/2Xw6vC48yvWMU6sElKBRtQ"
+      },
+      "artists": [
+        {
+          "name": "Lupe Borbon y su Blindaje 7",
+          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149326,
+      "name": "El Baquet\u00f3n",
+      "url": "https://open.spotify.com/track/1GlmdM7hgqERuvzJR8aTIf"
     },
     {
       "album": {
@@ -4510,6 +4640,24 @@
       "duration_ms": 169484,
       "name": "El Cascabel",
       "url": "https://open.spotify.com/track/2QYc8Rh7ogygZK77usef00"
+    },
+    {
+      "album": {
+        "name": "EL CHAVALON",
+        "url": "https://open.spotify.com/album/6T80qFUIxL19njTbB4iUCw"
+      },
+      "artists": [
+        {
+          "name": "Linea M",
+          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "EL CHAVALON",
+      "url": "https://open.spotify.com/track/070iYUd4a6hmqpLZiikJV3"
     },
     {
       "album": {
@@ -6156,7 +6304,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 186000,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/1uh8sWHg8QcCs8K9S2NDZM"
@@ -6918,7 +7066,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 187578,
       "name": "Estoy Enamorado De Ti",
       "url": "https://open.spotify.com/track/0iWeoEW9hPrYEAoTwyNaKG"
@@ -9274,7 +9422,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 222000,
       "name": "La vida recia - En Vivo",
       "url": "https://open.spotify.com/track/5PDK2DNVnr11CNZ1X0hXsR"
@@ -9480,7 +9628,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 186133,
       "name": "Las Calles Enlodadas (En Vivo)",
       "url": "https://open.spotify.com/track/6isXA21iRtiZ2aIRAJXAdj"
@@ -9506,6 +9654,24 @@
       "duration_ms": 245568,
       "name": "Las Dos Cruces",
       "url": "https://open.spotify.com/track/3smZXzA9dK9vtp8FCdmcWu"
+    },
+    {
+      "album": {
+        "name": "IMPERIO",
+        "url": "https://open.spotify.com/album/1BTjfD9iXvnGQxUBuUPOKS"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238463,
+      "name": "Las Drzl",
+      "url": "https://open.spotify.com/track/01JKMAdkL6PAG0F4SFYL0E"
     },
     {
       "album": {
@@ -10882,6 +11048,24 @@
       "duration_ms": 154546,
       "name": "Mi Bello Angel",
       "url": "https://open.spotify.com/track/5moNkvlkeMq5evkPWynyuH"
+    },
+    {
+      "album": {
+        "name": "Mi Condena",
+        "url": "https://open.spotify.com/album/6r7a3JoNpGCo9uqaM7hLFx"
+      },
+      "artists": [
+        {
+          "name": "Los Ejemplares del Rancho",
+          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193784,
+      "name": "Mi Condena",
+      "url": "https://open.spotify.com/track/2t1hPaHuynRaY3GrANTch4"
     },
     {
       "album": {
@@ -12318,7 +12502,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 201600,
       "name": "NO TE APARTES DE MI",
       "url": "https://open.spotify.com/track/0ybgO6fK2ngAChR7jc4Qia"
@@ -12948,7 +13132,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 153733,
       "name": "Pase y Pase - En Vivo",
       "url": "https://open.spotify.com/track/1NVVvyIakIXkQQFeQkbL54"
@@ -13524,7 +13708,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 247479,
       "name": "Por Debajo del Agua",
       "url": "https://open.spotify.com/track/0A1PJPNx8tZXHuew1cT0Ym"
@@ -13626,6 +13810,24 @@
       "duration_ms": 176350,
       "name": "Por La Baja Navegamos",
       "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
+    },
+    {
+      "album": {
+        "name": "Por Mi Bien",
+        "url": "https://open.spotify.com/album/4aaPUnuOcSaF9nQqb1vyoP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157705,
+      "name": "Por Mi Bien",
+      "url": "https://open.spotify.com/track/7dy0dBzo5bvubzDwlaVhvm"
     },
     {
       "album": {
@@ -15092,7 +15294,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 233898,
       "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
       "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"
@@ -16463,6 +16665,24 @@
     },
     {
       "album": {
+        "name": "Tokio",
+        "url": "https://open.spotify.com/album/413VfZS0gDZw3pXhMEmzoT"
+      },
+      "artists": [
+        {
+          "name": "Al Tiro de Armando Ramos",
+          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140145,
+      "name": "Tokio",
+      "url": "https://open.spotify.com/track/5McvNcl1jvckdcGc5I316i"
+    },
+    {
+      "album": {
         "name": "Tomo",
         "url": "https://open.spotify.com/album/5scIE5k2NdR6fms8efBleI"
       },
@@ -16854,6 +17074,24 @@
       "duration_ms": 153647,
       "name": "Un Amor Bonito",
       "url": "https://open.spotify.com/track/1JQfkZedTZnrudWt104FEt"
+    },
+    {
+      "album": {
+        "name": "Expansi\u00f3n",
+        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155131,
+      "name": "Un Corridazo",
+      "url": "https://open.spotify.com/track/6VIX6Tu8pnrZurbOnpLj2x"
     },
     {
       "album": {
@@ -17382,7 +17620,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 215792,
       "name": "Vicio y Soledad",
       "url": "https://open.spotify.com/track/4NOkqBkyb9ZdBBEaCbOGmj"

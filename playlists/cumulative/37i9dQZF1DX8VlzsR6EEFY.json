@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Majo Aguilar en portada \ud83c\udf39",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Victor Garc\u00eda en portada \ud83c\udf39",
   "name": "La Miscel\u00e1nea",
   "tracks": [
     {
@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Alexa",
+        "url": "https://open.spotify.com/album/44D5Vzj9VlATgAfZCzrzmA"
+      },
+      "artists": [
+        {
+          "name": "Fer Villarreal",
+          "url": "https://open.spotify.com/artist/7bF6f3RXGqn7w6PaKVJ7vX"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193312,
+      "name": "Alexa",
+      "url": "https://open.spotify.com/track/6Mz5D2cKxAihRvxJpIojcV"
+    },
+    {
+      "album": {
         "name": "Algo Bien",
         "url": "https://open.spotify.com/album/1aVzxKZtuM9hOV0NR2CWqt"
       },
@@ -522,7 +540,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 177333,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/6uCZqv78d015paeHFUOUlI"
@@ -3061,6 +3079,28 @@
     },
     {
       "album": {
+        "name": "Ibas De Salida",
+        "url": "https://open.spotify.com/album/2peeWMWXIRp5R6vpyriJl4"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202593,
+      "name": "Ibas De Salida",
+      "url": "https://open.spotify.com/track/369qTpwZBsjQ4LLakE5nRj"
+    },
+    {
+      "album": {
         "name": "Ilusi\u00f3n 98",
         "url": "https://open.spotify.com/album/2vsVaOp6BKaDFrHNFzWetm"
       },
@@ -3707,6 +3747,28 @@
     },
     {
       "album": {
+        "name": "La Vida Es As\u00ed",
+        "url": "https://open.spotify.com/album/6lqyfU9G5QpallxLMEEFl6"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230064,
+      "name": "La Vida Es As\u00ed",
+      "url": "https://open.spotify.com/track/45bJeOgpjE4fizusyt7XWg"
+    },
+    {
+      "album": {
         "name": "Corridos Metaf\u00edsicos",
         "url": "https://open.spotify.com/album/7wtaCv2CF3R8at9Ecq9CLw"
       },
@@ -3954,7 +4016,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 394587,
       "name": "Libro Abierto / Qu\u00e9 Se Te Olvid\u00f3 (En Vivo)",
       "url": "https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S"
@@ -4158,6 +4220,24 @@
       "duration_ms": 193207,
       "name": "Lo Que No Saben",
       "url": "https://open.spotify.com/track/2gmtoAkcrH2oRla8QrlQLT"
+    },
+    {
+      "album": {
+        "name": "Recuerdos de un Ayer",
+        "url": "https://open.spotify.com/album/4GgZphApTiN2CTO24oUyjQ"
+      },
+      "artists": [
+        {
+          "name": "Victor Garcia",
+          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140970,
+      "name": "Lo Que Te Queda",
+      "url": "https://open.spotify.com/track/3cklOLNls1aOdvFmRsOyoo"
     },
     {
       "album": {
@@ -5633,6 +5713,28 @@
     },
     {
       "album": {
+        "name": "OSAD\u00cdA",
+        "url": "https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206538,
+      "name": "OSAD\u00cdA",
+      "url": "https://open.spotify.com/track/0cCKN8doEIZ3mk7pXN0nW5"
+    },
+    {
+      "album": {
         "name": "Versi\u00f3n Actualizada",
         "url": "https://open.spotify.com/album/50YaqXciMFkvBf8I9G3TDz"
       },
@@ -5836,7 +5938,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 167250,
       "name": "Pasa Tips",
       "url": "https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx"
@@ -5858,7 +5960,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 202385,
       "name": "Paz en Este Amor",
       "url": "https://open.spotify.com/track/6pfWjpZdU7qG2oI4Iz69jd"
@@ -6022,6 +6124,32 @@
       "duration_ms": 174206,
       "name": "Por culpa de un tercero",
       "url": "https://open.spotify.com/track/3qjpDAoUAHs1jrIg1VwxxX"
+    },
+    {
+      "album": {
+        "name": "Por Ella (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181253,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu"
     },
     {
       "album": {
@@ -6290,7 +6418,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 230034,
       "name": "Qu\u00e9 Fuimos (En Vivo)",
       "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
@@ -6500,7 +6628,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 139759,
       "name": "Safo En El Amor",
       "url": "https://open.spotify.com/track/71BLIwRGw7O0pTIIjgUWaM"

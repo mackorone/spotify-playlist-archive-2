@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-08",
-  "description": "late night vibes \u2013 notifications off. cover: Pimmie",
+  "description": "late night vibes \u2013 notifications off. cover: Don Toliver",
   "name": "DND.",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 119325,
       "name": "21",
       "url": "https://open.spotify.com/track/40dowkPicYLsLrVJgce4bj"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 166780,
       "name": "Burnout (feat. Bun B)",
       "url": "https://open.spotify.com/track/5iUi6YOwdomq32Mb7NqyR9"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 122568,
       "name": "Cannonball (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/57yu1WujridphAAkPgpkhC"
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 171228,
       "name": "Dry Eyes",
       "url": "https://open.spotify.com/track/0Loxl2mUu4CySrjBXFXT4j"
@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 155149,
       "name": "If I Say I Hate U I Mean It",
       "url": "https://open.spotify.com/track/6IumWBzpQyBCIkxo0aKZo3"
@@ -2792,7 +2792,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 144095,
       "name": "IS U DOWN?",
       "url": "https://open.spotify.com/track/5XBIDZeDNEebkPiUdpTpLQ"
@@ -3128,6 +3128,28 @@
       "duration_ms": 125346,
       "name": "LINK UP",
       "url": "https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk"
+    },
+    {
+      "album": {
+        "name": "At Least She's Beautiful",
+        "url": "https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL"
+      },
+      "artists": [
+        {
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+        },
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Loud Silence",
+      "url": "https://open.spotify.com/track/7oy8nSUaWx7hMBl2xSDAc9"
     },
     {
       "album": {
@@ -3818,7 +3840,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 150325,
       "name": "One In A Million",
       "url": "https://open.spotify.com/track/5RQsvUtZm0Qai3ree2nKS9"
@@ -4118,7 +4140,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 138383,
       "name": "Prettiest Girl (Tyler's Version)",
       "url": "https://open.spotify.com/track/0P8sGPeiBOgY5I8k2Vugzf"
@@ -4162,6 +4184,24 @@
       "duration_ms": 138862,
       "name": "prima donna",
       "url": "https://open.spotify.com/track/7FxvjlrKLQm0GI4GF6dcPz"
+    },
+    {
+      "album": {
+        "name": "Projections",
+        "url": "https://open.spotify.com/album/7GIrtGPaAIkOsd8NSrVkB9"
+      },
+      "artists": [
+        {
+          "name": "EB3N",
+          "url": "https://open.spotify.com/artist/3BwAAR1uCuMrml0o8WnjNu"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178461,
+      "name": "Projections",
+      "url": "https://open.spotify.com/track/5Ijbe5Z5eZXH2xy5kD6eRZ"
     },
     {
       "album": {
@@ -4881,6 +4921,24 @@
     },
     {
       "album": {
+        "name": "Fuck, Marry, Kill",
+        "url": "https://open.spotify.com/album/1xIWjruzzPXUWWZ9q20FVG"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164574,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/0hRGRX8FoVM6QiastWeO8u"
+    },
+    {
+      "album": {
         "name": "strip",
         "url": "https://open.spotify.com/album/0zY6ypwdZdLflCpWDwMCYb"
       },
@@ -5076,7 +5134,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 169914,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/34R2RCXgGbCnMrCCOF4n6g"
@@ -5210,7 +5268,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 134000,
       "name": "The Life",
       "url": "https://open.spotify.com/track/2HzSHAtrNZfiLpNtYv4HUc"
@@ -5524,7 +5582,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 118082,
       "name": "Upperhand",
       "url": "https://open.spotify.com/track/6YHLJnzjbH5b5x3THQ41yq"
@@ -5802,7 +5860,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 174866,
       "name": "Who Is It",
       "url": "https://open.spotify.com/track/1IwEhO9YkJeXM60zi5YSAD"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Rock para cantar en todos lados! Siddhartha en portada.",
+  "description": "\u00a1Rock para cantar en todos lados! Ana Sofi W. en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 271781,
       "name": "18",
       "url": "https://open.spotify.com/track/6hEyKkr5aTQAGV8U9SRuA9"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 197440,
       "name": "Am\u00e9n",
       "url": "https://open.spotify.com/track/3BjdxxowgG7jwZNNoSprdM"
@@ -1271,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n hinchado",
+        "url": "https://open.spotify.com/album/2wZHlVJw1HAXlPZtnOMHl5"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "Coraz\u00f3n hinchado",
+      "url": "https://open.spotify.com/track/51hwVUxXajijH8QarFV6Q7"
+    },
+    {
+      "album": {
         "name": "Cristal",
         "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
       },
@@ -1397,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "Cuenta mis pasos",
+        "url": "https://open.spotify.com/album/6OKxHgWUqC6BBwb8w8LHVg"
+      },
+      "artists": [
+        {
+          "name": "The Space Ocean",
+          "url": "https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217473,
+      "name": "Cuenta mis pasos",
+      "url": "https://open.spotify.com/track/7HrVWuwDDCbOk5tTryM3tE"
+    },
+    {
+      "album": {
         "name": "Sarajevo",
         "url": "https://open.spotify.com/album/1r2XwYa9lsn7h6FWSooZeS"
       },
@@ -1506,7 +1542,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 176781,
       "name": "Dando vueltas",
       "url": "https://open.spotify.com/track/1vTEUsNu9TqL5DBNHf7j5b"
@@ -2026,7 +2062,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 190205,
       "name": "El Tiempo Que Paso Contigo",
       "url": "https://open.spotify.com/track/48ikKqBYGbNApD8bEJCamc"
@@ -2066,6 +2102,24 @@
       "duration_ms": 223990,
       "name": "Elemento Noches De Sal\u00f3n - Noches De Sal\u00f3n",
       "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
+    },
+    {
+      "album": {
+        "name": "EN LO TOTAL",
+        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
+      },
+      "artists": [
+        {
+          "name": "Lori Meyers",
+          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235141,
+      "name": "EN LO TOTAL",
+      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
     },
     {
       "album": {
@@ -2294,7 +2348,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 188097,
       "name": "Godzilla",
       "url": "https://open.spotify.com/track/4dDCoRNN2wz0PeEFLb7xfb"
@@ -2414,6 +2468,24 @@
       "duration_ms": 211155,
       "name": "Incomprensible",
       "url": "https://open.spotify.com/track/39eazIEoQhjlwg6u29zMnl"
+    },
+    {
+      "album": {
+        "name": "Infinito Mar",
+        "url": "https://open.spotify.com/album/2IhvA4fr0UsxXbgu2UM7Vh"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212123,
+      "name": "Infinito Mar",
+      "url": "https://open.spotify.com/track/6DfCculWFs8nCDNPe4aNmU"
     },
     {
       "album": {
@@ -2634,7 +2706,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 285480,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
@@ -4186,7 +4258,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 192214,
       "name": "PIRRI",
       "url": "https://open.spotify.com/track/4PKnU6PICOeVRSJYVYDBDz"
@@ -4334,7 +4406,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 188515,
       "name": "Por no bailar contigo",
       "url": "https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp"
@@ -4432,7 +4504,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 162210,
       "name": "Prayer in C",
       "url": "https://open.spotify.com/track/7sNg9mh9ciatqUzJLAyUNZ"
@@ -4614,7 +4686,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 267238,
       "name": "Quiero saber si es amor (feat. Joy)",
       "url": "https://open.spotify.com/track/7eCEgiZZkQXtLtfZWaOBOv"
@@ -5550,7 +5622,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 210127,
       "name": "Todo cambia",
       "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
@@ -5648,6 +5720,24 @@
       "duration_ms": 198841,
       "name": "TRANKIS",
       "url": "https://open.spotify.com/track/1wNDU9iweBU4ZZpWBUW9O5"
+    },
+    {
+      "album": {
+        "name": "narcisista",
+        "url": "https://open.spotify.com/album/4nLvuTsARQy9fxbDvytJhL"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185250,
+      "name": "tranqui, todos vuelven",
+      "url": "https://open.spotify.com/track/6mdgVWWld1KeR0odv5zkIf"
     },
     {
       "album": {

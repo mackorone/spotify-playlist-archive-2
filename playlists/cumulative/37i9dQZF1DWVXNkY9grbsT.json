@@ -2505,6 +2505,28 @@
     },
     {
       "album": {
+        "name": "Circle 61",
+        "url": "https://open.spotify.com/album/1pXKS0GOXG45moQAIdO4aQ"
+      },
+      "artists": [
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Circle 61",
+      "url": "https://open.spotify.com/track/3QTQ5h0kOY8HViyYQr1hVb"
+    },
+    {
+      "album": {
         "name": "Circle of Eyes",
         "url": "https://open.spotify.com/album/7KZrDmpcamZhERuiv34WeD"
       },
@@ -3424,6 +3446,24 @@
       "duration_ms": 129037,
       "name": "Dim Hopes",
       "url": "https://open.spotify.com/track/7yNH2twHv2Tk90prpWlwIV"
+    },
+    {
+      "album": {
+        "name": "Dim Stars / For Residue (Extended)",
+        "url": "https://open.spotify.com/album/1apaH4pqZbqx7ETQ5BBdTw"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234893,
+      "name": "Dim Stars",
+      "url": "https://open.spotify.com/track/4uXMT0xoObBj422bkwOnXv"
     },
     {
       "album": {
@@ -4393,6 +4433,28 @@
     },
     {
       "album": {
+        "name": "Flatline",
+        "url": "https://open.spotify.com/album/51arBhKIegC6cWHk0PD3da"
+      },
+      "artists": [
+        {
+          "name": "Loraine James",
+          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
+        },
+        {
+          "name": "Miho Hatori",
+          "url": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192692,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/5SECCwE6k8Q4LR7ToX2YFH"
+    },
+    {
+      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -5348,7 +5410,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 168750,
       "name": "i hope this is love",
       "url": "https://open.spotify.com/track/3OFyCqT6cr3PTCpVAIasgh"
@@ -5870,6 +5932,24 @@
       "duration_ms": 196296,
       "name": "Kumquat",
       "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
+    },
+    {
+      "album": {
+        "name": "La Baleine et Le Musicien (Edit)",
+        "url": "https://open.spotify.com/album/2iCGXBhln5BWeAx8B9V5PD"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113709,
+      "name": "La Baleine et Le Musicien - Edit",
+      "url": "https://open.spotify.com/track/0pQOaZupabi454ut9D72qT"
     },
     {
       "album": {
@@ -6574,7 +6654,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 244333,
       "name": "Montenero - Mixed",
       "url": "https://open.spotify.com/track/59pzquagIdcOZvssWMSKVE"
@@ -6998,7 +7078,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 214000,
       "name": "night signs (space calling)",
       "url": "https://open.spotify.com/track/0cSrbC2tLzHc5F0hjvl6WR"
@@ -9296,7 +9376,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 574000,
       "name": "Sit Down and Play",
       "url": "https://open.spotify.com/track/6cZVmYX7alw9JONCRhN4YQ"

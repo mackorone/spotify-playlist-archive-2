@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=bwxFNSQ\_QcuacRy0nrEU3A"> Khaligraph Jones</a>
 
-495 songs - 1 day 2 hr 33 min
+496 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [Usilete Compe](https://open.spotify.com/track/3eqilZPy7bO7EOALsN49Xb) | [Bamboo](https://open.spotify.com/artist/2OaLQhTswKGcokk6rF8GPG) | [Usilete Compe](https://open.spotify.com/album/3pfSDOIZojVedX6bnQZA4j) | 3:53 | 2025-08-07 | 2025-08-15 |
 | [Uspimee](https://open.spotify.com/track/0xirX2KdpdLGaYeoyWRLu1) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Uspimee](https://open.spotify.com/album/2oyV5vgWv2H5PvTFYexZQK) | 3:25 | 2026-01-29 |  |
 | [Utazoea \(Symphony in F\-Sharp Minor\)](https://open.spotify.com/track/6nkjFtVjHkxgvt8TMqrizr) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Good Old Days](https://open.spotify.com/album/18aQXnAG7DR9uMVCZE4Br6) | 4:45 | 2025-09-19 | 2025-10-03 |
+| [Very Bad](https://open.spotify.com/track/2eghpMUR7JXx8WxyN7eACl) | [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9), [Kayvo Kforce](https://open.spotify.com/artist/1fPPCBsDEGE70rXGO1mMyC) | [Very Bad](https://open.spotify.com/album/3ULMmUg9PuiEJTrwRe18s4) | 3:37 | 2026-04-16 |  |
 | [Vibes Central](https://open.spotify.com/track/16mm3Ff5z9O57NEVxAyoGn) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ), [Ekumbo](https://open.spotify.com/artist/6CSvMO39kIaSHLxQ1Ndk5D), [Swahili Papi](https://open.spotify.com/artist/2RGnAdqLNaHmfQSWamGQ3K) | [Vibes Central](https://open.spotify.com/album/7FqkCr6qjywfEUQuzRo7PD) | 2:21 | 2023-05-18 | 2023-11-24 |
 | [Vile Inafaa](https://open.spotify.com/track/32SQRBIkHMzYqEtVWV4nzQ) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o), [Muthoni DQ](https://open.spotify.com/artist/6ZcegK63i6GAgOwU0aI7gV) | [Chocolate City](https://open.spotify.com/album/5qdsNRNMgjNEMEuXLMlwio) | 4:05 | 2025-08-07 | 2025-08-15 |
 | [Vile Tafanya](https://open.spotify.com/track/7nKvrV5UQyCiW9LGMN7FS4) | [Juacali](https://open.spotify.com/artist/5EcQLJLOc9AiB2fc6ljaus), [Prezzo](https://open.spotify.com/artist/1LaIBioYprBlvauTgk1xmB), [Nonini](https://open.spotify.com/artist/5YcY7m1reIfpkedVfV3P5V), [Sylvia](https://open.spotify.com/artist/3doP2QWtByNGoRwupOcaMi) | [Juacalisekta](https://open.spotify.com/album/5ZH38acVF49tz0A3i83wNu) | 4:40 | 2025-08-07 | 2025-08-15 |

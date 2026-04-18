@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,926,042 likes - 250 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,926,347 likes - 249 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,16 +247,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 237 | [Faint Light](https://open.spotify.com/track/6b3XdzyGfhd2ZZXgQ0BKRj) | [Meliore](https://open.spotify.com/artist/2idtXzJnFZXORxj1JhTTqZ) | [Faint Light](https://open.spotify.com/album/0mLLnESyoHHSpGfTcTChey) | 2:35 |
 | 238 | [No Signal](https://open.spotify.com/track/3QB28WJ9efFcgQktkPA7A0) | [Atli Einarsdóttir](https://open.spotify.com/artist/213t12SUo7qH5ZsE6Uvz1a) | [No Signal](https://open.spotify.com/album/4JIRxWd03yjH8Z9rDlvju3) | 2:12 |
 | 239 | [The Principle of Mind](https://open.spotify.com/track/5ebKwksChZF7hubZ4UdFl0) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [The Principle of Mind](https://open.spotify.com/album/6l3Tzu4Dk84MTnOtZruuPZ) | 3:17 |
-| 240 | [For You](https://open.spotify.com/track/3vW3wAJq5ZiTDBN9IlVG3Y) | [Visual Flow](https://open.spotify.com/artist/1JWRuM0jwY2GwjWbCoMKCv) | [For You](https://open.spotify.com/album/78Q9z02wrA7JPEBAqfUTOK) | 2:44 |
-| 241 | [Rigel](https://open.spotify.com/track/64t0sOEPuhAoB0ERelT48v) | [Prodigieux](https://open.spotify.com/artist/6YILY619DfWelHq35w4DRb) | [Rigel](https://open.spotify.com/album/4RyPYQBNynM9Mi6uzEaLkh) | 2:45 |
-| 242 | [Vanishing Point](https://open.spotify.com/track/6lre0ASE6VEfUxLwjTPBkr) | [Rawiri Te Awa](https://open.spotify.com/artist/7N2I8FaKX2fyQSVIOEzFRP) | [Vanishing Point](https://open.spotify.com/album/4xiS8kadLjUVMKElccm1tb) | 2:43 |
-| 243 | [Lost in Reverie](https://open.spotify.com/track/6jyTCE2xqDfnK6K2GDHi2G) | [Umi no Yume](https://open.spotify.com/artist/2CbTni1UIAt2eoi6jMWaaQ) | [Lost in Reverie](https://open.spotify.com/album/0GPuSTj8WoCq4GItHpOIvW) | 2:22 |
-| 244 | [Dreaming of You](https://open.spotify.com/track/06bSszzyfCQFZo2dkNx5WU) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Dreaming of You](https://open.spotify.com/album/0dapygDWQEP1e9oHSRKyKd) | 2:49 |
-| 245 | [Fading Into Dreams](https://open.spotify.com/track/7oGd6fxsrIDOP3Z6Wm6xm0) | [Oblivionis](https://open.spotify.com/artist/15iUgjfevdKD9hVKqnq6MO) | [Fading Into Dreams](https://open.spotify.com/album/0JRdveX8Mt0DBBx4LJmr1A) | 2:23 |
-| 246 | [Alchemy](https://open.spotify.com/track/61L3JZB1lHtY825F56sW19) | [Somatika](https://open.spotify.com/artist/1Vsl6f5WQOxy3TlalqdyQt) | [Alchemy](https://open.spotify.com/album/0rwVhmqxMXGi48a0xIAyBC) | 2:54 |
-| 247 | [Visuals](https://open.spotify.com/track/10lYWPngF6IfK1WRXWNRAV) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Visuals](https://open.spotify.com/album/2R9pnIgNpXVJrZWWDXEgyi) | 2:58 |
-| 248 | [Blind Stars](https://open.spotify.com/track/1MSxyodmJcge1ZtpnmeF8i) | [Tuscany Flow](https://open.spotify.com/artist/2I7UrIVsTUPBeK3JH8pXaE) | [Blind Stars](https://open.spotify.com/album/4vUygSK60OtSmOdfUfLHPb) | 2:44 |
-| 249 | [Luminous drift](https://open.spotify.com/track/3RsyDUiEpswWGZdqGzMDJE) | [Ava Mills](https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj) | [Luminous drift](https://open.spotify.com/album/0nmJxvWhfD5vdRC0m514tn) | 2:59 |
-| 250 | [melting away](https://open.spotify.com/track/0UhJO5iQ6PWIZEK0qA9YIU) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [melting away](https://open.spotify.com/album/694SZQYkPKJwstHnnMI7Rf) | 2:22 |
+| 240 | [Rigel](https://open.spotify.com/track/64t0sOEPuhAoB0ERelT48v) | [Prodigieux](https://open.spotify.com/artist/6YILY619DfWelHq35w4DRb) | [Rigel](https://open.spotify.com/album/4RyPYQBNynM9Mi6uzEaLkh) | 2:45 |
+| 241 | [Vanishing Point](https://open.spotify.com/track/6lre0ASE6VEfUxLwjTPBkr) | [Rawiri Te Awa](https://open.spotify.com/artist/7N2I8FaKX2fyQSVIOEzFRP) | [Vanishing Point](https://open.spotify.com/album/4xiS8kadLjUVMKElccm1tb) | 2:43 |
+| 242 | [Lost in Reverie](https://open.spotify.com/track/6jyTCE2xqDfnK6K2GDHi2G) | [Umi no Yume](https://open.spotify.com/artist/2CbTni1UIAt2eoi6jMWaaQ) | [Lost in Reverie](https://open.spotify.com/album/0GPuSTj8WoCq4GItHpOIvW) | 2:22 |
+| 243 | [Dreaming of You](https://open.spotify.com/track/06bSszzyfCQFZo2dkNx5WU) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Dreaming of You](https://open.spotify.com/album/0dapygDWQEP1e9oHSRKyKd) | 2:49 |
+| 244 | [Fading Into Dreams](https://open.spotify.com/track/7oGd6fxsrIDOP3Z6Wm6xm0) | [Oblivionis](https://open.spotify.com/artist/15iUgjfevdKD9hVKqnq6MO) | [Fading Into Dreams](https://open.spotify.com/album/0JRdveX8Mt0DBBx4LJmr1A) | 2:23 |
+| 245 | [Alchemy](https://open.spotify.com/track/61L3JZB1lHtY825F56sW19) | [Somatika](https://open.spotify.com/artist/1Vsl6f5WQOxy3TlalqdyQt) | [Alchemy](https://open.spotify.com/album/0rwVhmqxMXGi48a0xIAyBC) | 2:54 |
+| 246 | [Visuals](https://open.spotify.com/track/10lYWPngF6IfK1WRXWNRAV) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Visuals](https://open.spotify.com/album/2R9pnIgNpXVJrZWWDXEgyi) | 2:58 |
+| 247 | [Blind Stars](https://open.spotify.com/track/1MSxyodmJcge1ZtpnmeF8i) | [Tuscany Flow](https://open.spotify.com/artist/2I7UrIVsTUPBeK3JH8pXaE) | [Blind Stars](https://open.spotify.com/album/4vUygSK60OtSmOdfUfLHPb) | 2:44 |
+| 248 | [Luminous drift](https://open.spotify.com/track/3RsyDUiEpswWGZdqGzMDJE) | [Ava Mills](https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj) | [Luminous drift](https://open.spotify.com/album/0nmJxvWhfD5vdRC0m514tn) | 2:59 |
+| 249 | [melting away](https://open.spotify.com/track/0UhJO5iQ6PWIZEK0qA9YIU) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [melting away](https://open.spotify.com/album/694SZQYkPKJwstHnnMI7Rf) | 2:22 |
 
-Snapshot ID: `AAAAAFwePXMAHIqLMYJrv/7PN5TO4DlU`
+Snapshot ID: `AAAAAKb7ujlgNf0/hcS5bq7w4kcCZeww`

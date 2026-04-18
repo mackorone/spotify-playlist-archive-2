@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Pop bops for the saints!  Cover: Tenroc",
+  "description": "Pop bops for the saints!  Cover: Anna Golden",
   "name": "Christian Pop",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 164673,
       "name": "AFRAID!",
       "url": "https://open.spotify.com/track/7CL73y6Alwtgh9UGeugLYH"
@@ -926,6 +926,28 @@
       "duration_ms": 202554,
       "name": "Beautiful Things (From the Angel Original Series Miracle)",
       "url": "https://open.spotify.com/track/5pdVUXCTlMP4kfwcNICBai"
+    },
+    {
+      "album": {
+        "name": "Because Of God (feat. Tenth Avenue North)",
+        "url": "https://open.spotify.com/album/5ShCSS4EhBuMPicMN0YZVs"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        },
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Because Of God - feat. Tenth Avenue North",
+      "url": "https://open.spotify.com/track/73sCmgmVQdGGRAnyFmcVtP"
     },
     {
       "album": {
@@ -2086,7 +2108,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 192086,
       "name": "Custody",
       "url": "https://open.spotify.com/track/4IoCFR8se2aMc4gPMQ3tIC"
@@ -3436,7 +3458,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 181851,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/5cPZop4TWt0LaDKXZK3axt"
@@ -4169,6 +4191,24 @@
     },
     {
       "album": {
+        "name": "God You Are",
+        "url": "https://open.spotify.com/album/4mRUE1qv3wayr88QDwLPP3"
+      },
+      "artists": [
+        {
+          "name": "Madison Watkins",
+          "url": "https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204267,
+      "name": "God You Are",
+      "url": "https://open.spotify.com/track/2dWsjSbkkt7672CdprwILN"
+    },
+    {
+      "album": {
         "name": "GOD'S HANDS",
         "url": "https://open.spotify.com/album/3cVyk2yqxSYm9eofvXVnqn"
       },
@@ -4346,7 +4386,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 175488,
       "name": "Good Plans",
       "url": "https://open.spotify.com/track/7kuOL4VysvTXtoPnq6FASL"
@@ -7575,6 +7615,24 @@
     },
     {
       "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/08oXopCW2RCdYqNdHiTrit"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233961,
+      "name": "listening",
+      "url": "https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj"
+    },
+    {
+      "album": {
         "name": "Easel",
         "url": "https://open.spotify.com/album/1DBnQ2Wl9s5TF6n2beqpC3"
       },
@@ -10432,6 +10490,28 @@
       "duration_ms": 160332,
       "name": "RUNNIN",
       "url": "https://open.spotify.com/track/65QTe4wYnjHVePLxRPIqEL"
+    },
+    {
+      "album": {
+        "name": "M.I.7",
+        "url": "https://open.spotify.com/album/6TGoIu9hPSLt2fYgdThVKD"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        },
+        {
+          "name": "Kala",
+          "url": "https://open.spotify.com/artist/1u94nEnxIMhDOMOScTHVTr"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171586,
+      "name": "SACRED HEART",
+      "url": "https://open.spotify.com/track/0XOlRD5Q2foFN2hCOOyZc1"
     },
     {
       "album": {

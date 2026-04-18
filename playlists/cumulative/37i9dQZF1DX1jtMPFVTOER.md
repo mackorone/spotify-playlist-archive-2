@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-616 songs - 1 day 12 hr 51 min
+617 songs - 1 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [atimemyfriend](https://open.spotify.com/track/1FZJuTa8z5fe1RC67AbuZ5) | [FRANK LEONE](https://open.spotify.com/artist/6hyHkgqHkUlJU6QMmzCNMK), [lojii](https://open.spotify.com/artist/2N2l2BR0KlnQrFnOn7ntEN) | [atimemyfriend](https://open.spotify.com/album/1IOq0vhip6TkwxkCLg3Ltm) | 2:19 | 2022-11-11 | 2023-12-09 |
 | [ATLiens](https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:50 | 2021-11-12 | 2022-05-20 |
 | [b i g f e e l i n g s](https://open.spotify.com/track/0Xfkeu82ju4uni0CH2z9XN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [b i g f e e l i n g s](https://open.spotify.com/album/2H6k8joKIeY5mLZVPyPVfu) | 4:24 | 2024-04-12 |  |
+| [BABY STEPS](https://open.spotify.com/track/0l7bUjZoWwzg7EYh0ia4bY) | [Kent Jones](https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO) | [BABY STEPS](https://open.spotify.com/album/4S0Yw0pXtxG0iiKW5rmkIX) | 2:56 | 2026-04-17 |  |
 | [Baby, I'm Shining and Free](https://open.spotify.com/track/6Pua9XVHra6m0uP8DPqpOe) | [Apollo Bebop](https://open.spotify.com/artist/5Ar4PuRM6i2krbQ8QduUFG) | [Baby, I'm Shining and Free](https://open.spotify.com/album/61xSPhkZd8KYBAzWtjs9bB) | 2:24 | 2022-07-22 | 2023-02-25 |
 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 | 2023-07-28 |  |
 | [Backinluv](https://open.spotify.com/track/0k3WtyxIG1Hvv5nn6BwhfX) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Full Circle](https://open.spotify.com/album/61T2bvjnhjUEmucspVNvtE) | 4:30 | 2022-08-12 | 2023-03-11 |
@@ -603,7 +604,7 @@
 | [Who's That](https://open.spotify.com/track/1RIlcIWjccMwUUwI1u4UGE) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Who's That](https://open.spotify.com/album/4vvvQeWZY9GBS8u1bXDPM5) | 2:55 | 2021-12-10 | 2022-04-29 |
 | [Why We Speak \[Feat\. Q\-Tip & Esperanza Spalding\]](https://open.spotify.com/track/3126FOxYcf0g9zVdXkNUdH) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Why We Speak \[Feat\. Q\-Tip & Esperanza Spalding\]](https://open.spotify.com/album/4y6khUULM8jcY5OyIVswU8) | 6:19 | 2022-02-25 | 2022-07-30 |
 | [Will They Try](https://open.spotify.com/track/25bNfiteje5iDrNwgn8ZTP) | [Isatta Sheriff](https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK), [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Will They Try](https://open.spotify.com/album/4d7VseMuHJxbs8JRwiM7Am) | 3:28 | 2022-09-02 | 2022-10-15 |
-| [Win](https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Win](https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf) | 3:55 | 2023-06-16 |  |
+| [Win](https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Win](https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf) | 3:55 | 2023-06-16 | 2026-04-18 |
 | [Window Thoughts](https://open.spotify.com/track/17oVAtOSqFo1Dh7RKkR2ao) | [Isatta Sheriff](https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK), [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Window Thoughts](https://open.spotify.com/album/0MOnfjDIf8uTlIVE3yvdnl) | 3:51 | 2022-08-08 | 2022-10-01 |
 | [Wipelash](https://open.spotify.com/track/2rPLS6L5yaZRRacvZyXETq) | [Shanf](https://open.spotify.com/artist/6cosyZCnamrYPDOoiAzFbt), [Waxamilion](https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6) | [Wipelash](https://open.spotify.com/album/7d95ImLvMRaS9ybCohNepP) | 4:00 | 2023-07-07 | 2023-07-22 |
 | [Wish You the Best](https://open.spotify.com/track/5qm6wyQXDPnEUWM3LAIIkR) | [BRAVE JAMES](https://open.spotify.com/artist/6fbZXklegkoeleZeWTgxx7), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Wish You the Best](https://open.spotify.com/album/1bOb9XYlOOesWwEEH2DhHq) | 3:23 | 2023-02-03 | 2023-04-29 |

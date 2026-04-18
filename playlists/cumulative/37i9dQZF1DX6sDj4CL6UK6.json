@@ -5455,6 +5455,24 @@
     },
     {
       "album": {
+        "name": "Phantom Baby",
+        "url": "https://open.spotify.com/album/2TPVo4DPP8kA6yosp9lpIa"
+      },
+      "artists": [
+        {
+          "name": "JBABE",
+          "url": "https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "Phantom Baby",
+      "url": "https://open.spotify.com/track/1CN05iiInwzi0XzNXB6WIZ"
+    },
+    {
+      "album": {
         "name": "Pink Blue",
         "url": "https://open.spotify.com/album/0qYhqBhpicb2Kl8oB6YziF"
       },

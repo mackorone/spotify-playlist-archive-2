@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,883 songs - 5 day 7 hr 54 min
+1,884 songs - 5 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,7 @@
 | [DESCEND](https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [DESCEND](https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY) | 3:40 | 2024-01-19 | 2026-02-21 |
 | [Desire \- Gryffin Remix](https://open.spotify.com/track/0dy9clh4KhNnimYUHPpb34) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [We Are Your Friends \(Music From The Original Motion Picture/Deluxe\)](https://open.spotify.com/album/0gwPIyz660wduMXCW8BXQn) | 4:28 | 2020-05-18 | 2020-07-03 |
 | [Desperate Times](https://open.spotify.com/track/34w2o0qfeBwahiiiNw3o1R) | [Spooky Cowboy](https://open.spotify.com/artist/6h1yIlHlRIUed7rT69kISl) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:57 | 2020-03-16 | 2022-06-01 |
-| [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 | 2024-08-02 |  |
+| [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 | 2024-08-02 | 2026-04-18 |
 | [DEVOTION](https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [DEVOTION](https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw) | 3:51 | 2022-08-26 | 2022-09-10 |
 | [Dhollandia](https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Dhollandia / Circles](https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr) | 6:18 | 2021-09-03 | 2022-07-23 |
 | [Diamonds](https://open.spotify.com/track/2IpfiNS4x20FJ5qKTHWaJ3) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Rise](https://open.spotify.com/album/0lf36j9fSShEB9w8dN4sJn) | 5:54 | 2020-02-29\* | 2020-03-16 |
@@ -1121,6 +1121,7 @@
 | [My Everything](https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [My Everything](https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd) | 3:48 | 2023-10-13 | 2024-01-02 |
 | [My Friends](https://open.spotify.com/track/1CDIWYnX6vo2IPCtRA07H2) | [Parada](https://open.spotify.com/artist/29y0WHW3GGg8GJC2M8uEge), [Axel Ehnström](https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM) | [My Friends](https://open.spotify.com/album/0f6qHuMHy4GgzrUqyH2EL7) | 2:19 | 2025-04-04 | 2025-04-14 |
 | [My House \- Chill Mix](https://open.spotify.com/track/0TVMVtaGg7KUqWGlI9zwjs) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [My House \(Chill Mix\)](https://open.spotify.com/album/4qZo3KMdvmsQNbtCsu3OcK) | 2:58 | 2020-08-06 | 2020-10-09 |
+| [My Journey](https://open.spotify.com/track/2RvjNucBfwpP5Wn7144aZA) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [My Journey](https://open.spotify.com/album/13oH6VZuvXN6KIZVq7BO7k) | 3:14 | 2026-04-17 |  |
 | [My Kick](https://open.spotify.com/track/2RDiFlBlx0Df7YRfSDsmm0) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [The Element](https://open.spotify.com/artist/4G1P9jyp1Qqj3NONg6zyuQ) | [My Kick](https://open.spotify.com/album/2ozuxSRKkk1v0nRo3nN40L) | 2:50 | 2020-05-18 | 2020-07-18 |
 | [My Life](https://open.spotify.com/track/2NDZ6i6UfOUSKgFiTQKbnv) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [My Life](https://open.spotify.com/album/7mjgGNr0d9YXywp7luOqHh) | 4:54 | 2020-05-18 | 2020-07-18 |
 | [My Reflection](https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [My Reflection](https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT) | 4:17 | 2024-06-21 |  |

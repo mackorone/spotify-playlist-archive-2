@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > SCAR in cover + tutto il meglio delle novità indie 🍇
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,655 likes - 110 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,660 likes - 110 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 26 | [Ricordo](https://open.spotify.com/track/4dNMxxTgcLnEHED7TeWE3S) | [GIIN](https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM) | [Ricordo](https://open.spotify.com/album/4764NQcBmKJtx5Cp9ohNZS) | 3:30 |
 | 27 | [Fiocco rosso \(feat\. Piccolo\)](https://open.spotify.com/track/4OUFixO9c4KDUuqXPHSg3R) | [SCAR](https://open.spotify.com/artist/2COZ1UNN4kWa65mYMVH1JZ), [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO) | [Esordienti 1994](https://open.spotify.com/album/7feRUSGS3HffjLaYzeOPPS) | 3:02 |
 | 28 | [Celeste](https://open.spotify.com/track/5YhCCEgwBE2ZO8XlMyOmnF) | [L'Officina Della Camomilla](https://open.spotify.com/artist/3E0AdQIPzFjiMFto5NiKuM) | [Celeste](https://open.spotify.com/album/3IKmzO0FtUj7uAufdbdqCT) | 3:35 |
-| 29 | [Track 2](https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [BITTE LEBEN](https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy) | 0:00 |
+| 29 | [5 di mattina](https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [BITTE LEBEN](https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy) | 3:01 |
 | 30 | [Punk](https://open.spotify.com/track/6C9xjiQtORHsOZofPpxBeo) | [Zara Colombo](https://open.spotify.com/artist/0UieFG2dymbbVECj27mBcx) | [Madre Lingua](https://open.spotify.com/album/1naMbMqwfCgeIRsBmaue8x) | 3:30 |
 | 31 | [Gimcana](https://open.spotify.com/track/1yii8gq9b5TmvCBF6mxaxc) | [Nuvolari](https://open.spotify.com/artist/53YV6jNITDfPlpYtP2GXLb) | [Gimcana](https://open.spotify.com/album/6qPyGr6Nt35wUtkj0QyrNO) | 3:11 |
 | 32 | [Quella Stanza di Paris](https://open.spotify.com/track/07QtsVtRaPEvJEX5YNfKat) | [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Quella Stanza di Paris](https://open.spotify.com/album/5ZBjTD0K0cRZ1o4PVajH0u) | 4:02 |

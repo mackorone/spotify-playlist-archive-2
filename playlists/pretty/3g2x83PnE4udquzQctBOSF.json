@@ -1,13 +1,93 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2735,
+  "num_followers": 2736,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASLiGecyqU1dtX/2JbysQ4JsNxvqih",
+  "snapshot_id": "AAASMueKYJhLbe9zvKwO7NzqYKBU/tX1",
   "tracks": [
+    {
+      "added_at": "2026-04-18 02:12:28",
+      "album": {
+        "name": "Under Your Spell",
+        "url": "https://open.spotify.com/album/3WtqEQEZqvhfVcowNem2SE"
+      },
+      "artists": [
+        {
+          "name": "PAWPAWTHEDAWG",
+          "url": "https://open.spotify.com/artist/7AbDcmHZnaA3O5cIsQuyd1"
+        },
+        {
+          "name": "C.C",
+          "url": "https://open.spotify.com/artist/21aRFxJp0YdjZOOsgeYmVB"
+        },
+        {
+          "name": "JAIMIE P",
+          "url": "https://open.spotify.com/artist/7fqCJh3jRzdVI2tOCLrclq"
+        },
+        {
+          "name": "Slowed Remix DJ",
+          "url": "https://open.spotify.com/artist/3enC2RjmMGO8UrWChmsx6R"
+        }
+      ],
+      "duration_ms": 219639,
+      "name": "Under Your Spell",
+      "url": "https://open.spotify.com/track/2CuDfzx7WixsjNHcH04Kae"
+    },
+    {
+      "added_at": "2026-04-17 11:07:33",
+      "album": {
+        "name": "All About House Music",
+        "url": "https://open.spotify.com/album/6TKrhFNpbKM946Nkcp4l53"
+      },
+      "artists": [
+        {
+          "name": "Frisk",
+          "url": "https://open.spotify.com/artist/716qj6jI9jMErexGaIvShg"
+        },
+        {
+          "name": "Vix",
+          "url": "https://open.spotify.com/artist/79qNDx4zUZkKyyKFL9Ndma"
+        }
+      ],
+      "duration_ms": 222130,
+      "name": "All About House Music - Radio Edit",
+      "url": "https://open.spotify.com/track/6dYRfPjchXT6NLvldcDDbq"
+    },
+    {
+      "added_at": "2026-04-17 10:00:06",
+      "album": {
+        "name": "FunkHouse",
+        "url": "https://open.spotify.com/album/7077UOXPqNCpVRyxP5qy3R"
+      },
+      "artists": [
+        {
+          "name": "Agigulf",
+          "url": "https://open.spotify.com/artist/4rRPRX8WcOd8NRgtIiLwLT"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "FunkHouse",
+      "url": "https://open.spotify.com/track/0UxAqy5Ux13ij3M6rXVU7g"
+    },
+    {
+      "added_at": "2026-04-17 07:03:35",
+      "album": {
+        "name": "Zoy",
+        "url": "https://open.spotify.com/album/2rz7ieaKOTRQxRWDIoKaWu"
+      },
+      "artists": [
+        {
+          "name": "Peritz",
+          "url": "https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp"
+        }
+      ],
+      "duration_ms": 163555,
+      "name": "Zoy",
+      "url": "https://open.spotify.com/track/3mq6ll6KmQH2LAsvJflp60"
+    },
     {
       "added_at": "2026-04-16 18:34:15",
       "album": {

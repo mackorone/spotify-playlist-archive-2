@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Pop on the rise you should know, featuring Manuel Turizo.",
+  "description": "Pop on the rise you should know, featuring Greeicy.",
   "name": "Latin Pop Today",
   "tracks": [
+    {
+      "album": {
+        "name": "(enamorada)",
+        "url": "https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241704,
+      "name": "(ENAMORADA)",
+      "url": "https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk"
+    },
     {
       "album": {
         "name": "(favorito)",
@@ -38,7 +56,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 198351,
       "name": "(pablo)",
       "url": "https://open.spotify.com/track/1XSW7SenbLKKkRVvmmkoEo"
@@ -56,7 +74,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 149931,
       "name": "(todo lo que haces para no acordarte de mi)",
       "url": "https://open.spotify.com/track/1LSZR83twS1UYcydCYzx9E"
@@ -4836,6 +4854,24 @@
       "duration_ms": 168286,
       "name": "Disculpa Amiga",
       "url": "https://open.spotify.com/track/1zfJC7Zm6WpbmklOBJGZEL"
+    },
+    {
+      "album": {
+        "name": "Disc\u00falpeme Se\u00f1or",
+        "url": "https://open.spotify.com/album/3rXPB8pYN0z9kw6nz5k8Z2"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173693,
+      "name": "Disc\u00falpeme Se\u00f1or",
+      "url": "https://open.spotify.com/track/6c1ZfnHFuzU5Wh8PS48IWI"
     },
     {
       "album": {

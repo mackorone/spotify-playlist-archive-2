@@ -7339,6 +7339,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0Ug96Tk15B2vfNbcaMoigs"
+      },
+      "artists": [
+        {
+          "name": "Assia Keva",
+          "url": "https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169080,
+      "name": "Moonlight - Live Stripped Down",
+      "url": "https://open.spotify.com/track/5DBkIrEshZAqDd2Kg9mPOK"
+    },
+    {
+      "album": {
         "name": "Mother Angels",
         "url": "https://open.spotify.com/album/6Bne5YPXNSPhsA2MMLAazu"
       },

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Mi Me Vale](https://open.spotify.com/track/66d3HONkgvO06vvIpYh4us) | [Techy Fatule](https://open.spotify.com/artist/6qpTu1AzEuiBommRAqk3Xe) | [Sie7e](https://open.spotify.com/album/3MWypGfaEAZZ6gOOayxPsG) | 2:44 | 2024-09-05 |  |
+| [A Mi Me Vale](https://open.spotify.com/track/66d3HONkgvO06vvIpYh4us) | [Techy](https://open.spotify.com/artist/6qpTu1AzEuiBommRAqk3Xe) | [Sie7e](https://open.spotify.com/album/3MWypGfaEAZZ6gOOayxPsG) | 2:44 | 2024-09-05 |  |
 | [Afilá](https://open.spotify.com/track/1c8DKOOtFiN1SMqB5VXpuY) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Pandora](https://open.spotify.com/album/3TbZrsYVkYq5UgE20sHITX) | 2:33 | 2024-09-05 |  |
 | [Alerta](https://open.spotify.com/track/2esf1g68O1tbZc9tcbqbpT) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Pandora](https://open.spotify.com/album/3TbZrsYVkYq5UgE20sHITX) | 0:33 | 2024-09-05 |  |
 | [Alquimia](https://open.spotify.com/track/2ZVYRoOpwWBQZDm94q2gDY) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Sexto Sentido](https://open.spotify.com/album/2i1KFGoNAsZCNmCvZBEGzw) | 3:12 | 2024-09-05 |  |

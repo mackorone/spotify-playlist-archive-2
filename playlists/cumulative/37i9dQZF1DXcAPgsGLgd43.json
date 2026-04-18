@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 185476,
       "name": "Dame Mas",
       "url": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu"
@@ -4824,6 +4824,28 @@
       "duration_ms": 136875,
       "name": "Guataqui",
       "url": "https://open.spotify.com/track/1j5ocYQRNSZRoj7L5ekkqn"
+    },
+    {
+      "album": {
+        "name": "Habla M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/6RXnAT8Ny5vrfj9xbBI5wz"
+      },
+      "artists": [
+        {
+          "name": "Juan Dileju",
+          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
+        },
+        {
+          "name": "Ankonu",
+          "url": "https://open.spotify.com/artist/4xreErKQFps2Yh7Jo65ZdM"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156614,
+      "name": "Habla M\u00e1s Fuerte",
+      "url": "https://open.spotify.com/track/5oJIerbzHbUuCY9uBe7WNz"
     },
     {
       "album": {
@@ -6816,7 +6838,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 167066,
       "name": "MIA in Miami",
       "url": "https://open.spotify.com/track/6FC1NTWsL1uYAVnAHvSuqL"
@@ -8278,7 +8300,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 197419,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
@@ -9360,7 +9382,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 214281,
       "name": "Sito",
       "url": "https://open.spotify.com/track/1BNNKaBfhvIIadlgbokroM"
@@ -10480,6 +10502,28 @@
       "duration_ms": 147840,
       "name": "Tumba la Casa",
       "url": "https://open.spotify.com/track/0FLjpOTxvokthyij5x5uyt"
+    },
+    {
+      "album": {
+        "name": "Tumba La Casa (Mr. Pauer Remix)",
+        "url": "https://open.spotify.com/album/2hqqbpb0vlqqQzrlsvXTl2"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pauer",
+          "url": "https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ"
+        },
+        {
+          "name": "Sancocho",
+          "url": "https://open.spotify.com/artist/4Fm5ZOqg1GJIZbrovgQTlX"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190099,
+      "name": "Tumba La Casa - Mr. Pauer Remix",
+      "url": "https://open.spotify.com/track/7lqWfd2NyIbxmXoyRcVa72"
     },
     {
       "album": {

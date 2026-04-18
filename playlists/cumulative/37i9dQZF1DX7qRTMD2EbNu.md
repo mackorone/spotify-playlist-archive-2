@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: Jay Bahd
 
-915 songs - 1 day 21 hr 58 min
+915 songs - 1 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Humanity](https://open.spotify.com/track/4719gLP5JBD9jC9P2NSsGu) | [Tinny](https://open.spotify.com/artist/0NYLVN4PyUYvQkADsUEpx7) | [Humanity](https://open.spotify.com/album/6riDnEq7xh8ohYqbfEvbKS) | 3:32 | 2025-09-26 | 2025-10-10 |
 | [Hustle](https://open.spotify.com/track/0RxAs0b2CZXy6UTBxOuEyN) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Hustle](https://open.spotify.com/album/6fxTABtD1wZ5kWhdpWH00F) | 2:49 | 2025-11-14 |  |
 | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ) | 3:15 | 2025-06-06 |  |
+| [I DONT CARE](https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [BEASTMODE VOL1](https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6) | 2:58 | 2026-04-17 |  |
 | [I Like](https://open.spotify.com/track/4U64p5uCo1MJ81mhuyPaeK) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [I Like](https://open.spotify.com/album/3ix1fR4a6mrGJ7IkGczQkO) | 3:22 | 2023-06-22 | 2023-09-29 |
 | [Idiotss](https://open.spotify.com/track/5mRyFG6xXoVxOnOdtweXvt) | [Thomas the Great](https://open.spotify.com/artist/4DaWXLEMSsQWHrkshW0IDc), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Idiotss](https://open.spotify.com/album/0IlFrSyLczgNN4FHCyv7hQ) | 3:18 | 2024-05-31 | 2024-06-21 |
 | [If I Tell You](https://open.spotify.com/track/6293ThDJcHuXJ9CdXY5iYp) | [Kotoku D'Mentor](https://open.spotify.com/artist/7hU1ETGnbiNB2l4RNMr7lq), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [If I Tell You](https://open.spotify.com/album/5UhW1JcbgEDVla9IUmZ2V4) | 2:32 | 2025-05-23 | 2025-05-30 |
@@ -823,7 +824,6 @@
 | [Too Windy 4 U](https://open.spotify.com/track/7JuLuj4Z4v85apcflxXW5O) | [Mus](https://open.spotify.com/artist/4gIy9bx9Mw1zNM6PRnfT0P), [Japo](https://open.spotify.com/artist/7fKwtNYCndojisAPoE3z7m) | [Too Windy 4 U](https://open.spotify.com/album/4SdPGtonnFujGC874zu2Ii) | 1:58 | 2024-08-09 | 2024-08-26 |
 | [Top Speed](https://open.spotify.com/track/5uMtLvgPkHjclh5zIgYSOO) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Top Speed](https://open.spotify.com/album/5QTnDhXpzwXkhzqHcyhxYp) | 3:01 | 2025-09-26 |  |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |
-| [Track 2](https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [BEASTMODE VOL1](https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6) | 0:00 | 2026-04-17 |  |
 | [Tracking You](https://open.spotify.com/track/03l6Kj3GCCp0kxnzJXrUVw) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Tracking You](https://open.spotify.com/album/796ArCT8MVsMRDZ0qGHnu6) | 3:03 | 2025-09-05 |  |
 | [Tranquillo](https://open.spotify.com/track/0R5MHXzCbwJkng8NHlH2S2) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Allan Harvey](https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt) | [Tranquillo](https://open.spotify.com/album/6tlJwdz4dFTig2UG6HoSAn) | 3:05 | 2023-06-09 | 2023-06-23 |
 | [Trap](https://open.spotify.com/track/6Lss25OMzPLTx8czIC8Wr4) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Trap](https://open.spotify.com/album/46zsXuCelHvSbq1wtawF59) | 2:58 | 2024-03-08 | 2024-08-09 |

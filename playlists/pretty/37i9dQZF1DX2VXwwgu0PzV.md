@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Noël Mio
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,326 likes - 120 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,400 likes - 120 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 17 | [In God's Hand](https://open.spotify.com/track/5cGhKhAK0EQ7dKwrWlncCa) | [Tobi Toun](https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22) | [In God's Hand](https://open.spotify.com/album/6xpbb7UdIkJxP0cICcB9wM) | 3:00 |
 | 18 | [Confidence \|\|](https://open.spotify.com/track/1un0vrukPpvRLL3083CHgj) | [Rimz john](https://open.spotify.com/artist/67ZYJtBc4bY0Zy0hLK5xpw), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Confidence \|\|](https://open.spotify.com/album/4QkboKxqnyONL15pyrxG3g) | 3:12 |
 | 19 | [Off Days](https://open.spotify.com/track/4ICreVvOWLDmvt98XAWSHz) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Off Days](https://open.spotify.com/album/32VGwDDqJ7ZG6mfnsAAIQU) | 3:20 |
-| 20 | [Like Fire](https://open.spotify.com/track/5zdpJyBSFvecdK7Zt5QaMb) | [Danad](https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J) | [Like Fire](https://open.spotify.com/album/3hVb3G3HXrhCY0KgIV6YCu) | 2:28 |
+| 20 | [Like Fire](https://open.spotify.com/track/5zdpJyBSFvecdK7Zt5QaMb) | [Danad](https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J) | [Like Fire](https://open.spotify.com/album/3hVb3G3HXrhCY0KgIV6YCu) | 2:29 |
 | 21 | [Find My Way](https://open.spotify.com/track/06G2J3dUtslq6YLTmWpZGE) | [Roxanne](https://open.spotify.com/artist/2xxwryvY971wmdGsD625b4), [Annie Daymar](https://open.spotify.com/artist/3xjZKxoPWWG1akLsPpNfsS), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Find My Way](https://open.spotify.com/album/4CTvjM1vSA6k21JCvyoP72) | 3:28 |
 | 22 | [EASY](https://open.spotify.com/track/3p0APw04agDTOQtctspfaC) | [Terungwa](https://open.spotify.com/artist/1VIaFi0nZDdpxIIb1P9Acj), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [EASY](https://open.spotify.com/album/0s5vTDcuZ8J2hi46KfHQtv) | 3:05 |
 | 23 | [The Line](https://open.spotify.com/track/4hTNHUNdFCInhDxNLrLH0G) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [The Line](https://open.spotify.com/album/6m2JKKOcPsjzXIKnstB676) | 2:22 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 85 | [Mercy](https://open.spotify.com/track/10mu4u3tUh7CHVrqVG6yit) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I) | [Mercy](https://open.spotify.com/album/6yLPkiUBX4SnwSBBrOtwU7) | 3:48 |
 | 86 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
 | 87 | [Take It](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 3:30 |
-| 88 | [Brand New](https://open.spotify.com/track/2l6sGpjkd43k894sneTj5Y) | [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE), [Kdfromthepack](https://open.spotify.com/artist/4okNmvwnCdNJhRQGPxUi4R), [gLowDaKidd](https://open.spotify.com/artist/62Cddbv2BB2J6cmt1xSOzv), [GodBrothers](https://open.spotify.com/artist/2p12W94UFWEY2EnlsaTMfr) | [Brand New](https://open.spotify.com/album/6i0Ho0vqne32NgPG2kWawA) | 3:34 |
+| 88 | [BRAND NEW](https://open.spotify.com/track/2l6sGpjkd43k894sneTj5Y) | [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE), [Kdfromthepack](https://open.spotify.com/artist/4okNmvwnCdNJhRQGPxUi4R), [gLowDaKidd](https://open.spotify.com/artist/62Cddbv2BB2J6cmt1xSOzv), [GodBrothers](https://open.spotify.com/artist/2p12W94UFWEY2EnlsaTMfr) | [BRAND NEW](https://open.spotify.com/album/6i0Ho0vqne32NgPG2kWawA) | 3:34 |
 | 89 | [IMOLE \- II](https://open.spotify.com/track/0whLg5l1zHr88DSIkClepW) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [CHUKWUMA](https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [IMOLE \(II\)](https://open.spotify.com/album/7ceDKQ3t5jMFD4qje4b97p) | 2:44 |
 | 90 | [Undefeated](https://open.spotify.com/track/7o1jxTxRAzKpAKHz6EVYMg) | [Geary Tobi](https://open.spotify.com/artist/1hWhJk6dJt47s5r7TBf9re) | [Undefeated](https://open.spotify.com/album/4LZhxE1O0AtF4TQolmDQcI) | 2:48 |
 | 91 | [Pain Killer](https://open.spotify.com/track/1ZgdZC6apTnoccNzM7qkSm) | [Saelem](https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb) | [Pain Killer](https://open.spotify.com/album/0IsBgS4ulHe5hchLBo5Xvc) | 2:52 |

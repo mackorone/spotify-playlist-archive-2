@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: DJ Kaymoworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,554 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,565 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mi Amor](https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Free \(Deluxe\)](https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo) | 2:00 |
-| 2 | [Cold Summer](https://open.spotify.com/track/4S646er9wi1ii24KEfDwSQ) | [DJ Kaymoworld](https://open.spotify.com/artist/7y4x271U84CHr0SwMZug6y), [JustSam](https://open.spotify.com/artist/68ny7n7usquGxbpJY9o8Pb), [Hemustbefabulous](https://open.spotify.com/artist/6PbySqsaAfQdCLpPCuOJ3v), [Caask Asid](https://open.spotify.com/artist/1mfp5cTzPUaPI2BqCOAkSl) | [Cold Summer](https://open.spotify.com/album/2VrZbr3G4Xi8fscxLJl70H) | 3:52 |
+| 2 | [Cold Summer](https://open.spotify.com/track/4S646er9wi1ii24KEfDwSQ) | [DJ Kaymoworld](https://open.spotify.com/artist/7y4x271U84CHr0SwMZug6y), [JustSam](https://open.spotify.com/artist/2Ao8EyQwyG0jjPcr3t4d9o), [Hemustbefabulous](https://open.spotify.com/artist/6PbySqsaAfQdCLpPCuOJ3v), [Caask Asid](https://open.spotify.com/artist/1mfp5cTzPUaPI2BqCOAkSl) | [Cold Summer](https://open.spotify.com/album/2VrZbr3G4Xi8fscxLJl70H) | 3:52 |
 | 3 | [maatla , thata](https://open.spotify.com/track/3HdLERcMc38Yq5UDnCFGf3) | [Trophy](https://open.spotify.com/artist/65vyqjRCxzXjN1TQ3wxoH2), [Orieblxckmaestro](https://open.spotify.com/artist/1fBoGGZkTvoMMUD90ZV5kj), [MajorIcey](https://open.spotify.com/artist/3D1v2h1bVnBVHAx1iSocJq), [Carlow Picasso](https://open.spotify.com/artist/4VoY4qXMbV8nRrMYagmJWs), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT) | [maatla , thata](https://open.spotify.com/album/07yKyQjDNoCXg4qLDVphj1) | 2:39 |
 | 4 | [Indlela \(feat\. Blue Pappi\)](https://open.spotify.com/track/3PllcnoixuT3kb5NDBUpYw) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D) | [NOSANGE](https://open.spotify.com/album/4VCDfRRf7SUvFx396U3cn9) | 2:49 |
 | 5 | [Ready4Drama](https://open.spotify.com/track/2ywfqtI9sHXNEwBstT9Xhj) | [Hemustbeswae](https://open.spotify.com/artist/3Bybf5TtRgNGiyjTtzt0oB), [HEMUSTBEFRWSH](https://open.spotify.com/artist/3yZ9XgvtjRn0aaaFgiEfOc) | [Ready4Drama](https://open.spotify.com/album/6RE2Dt75qm8GHbIAiW1WCI) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 99 | [Ringo \(freestyle\)](https://open.spotify.com/track/07kcrqGBRzGTZWyJkRW4S9) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW) | [Ringo \(freestyle\)](https://open.spotify.com/album/2WIKSvpr0CGQXxEAZWmKeG) | 2:17 |
 | 100 | [PLAYMAKER](https://open.spotify.com/track/2nmgHVFopEAUWTRgBnwN2U) | [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR) | [SOLDIER IN TRANSIT](https://open.spotify.com/album/15xG70LDB6Ba7IjrsYFo13) | 2:04 |
 
-Snapshot ID: `AAAAACFfBshTlb+pe/siKb0D32Nws49C`
+Snapshot ID: `AAAAABswOJl76L5e5t6DU4rCHULuTlZB`

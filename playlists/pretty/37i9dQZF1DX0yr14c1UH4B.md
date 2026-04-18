@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song  🎧 cover: Sam Tompkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,081 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,090 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 10 | [Moral Victory](https://open.spotify.com/track/5D2AaNj4RfxSbHTSYjbb4E) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Moral Victory](https://open.spotify.com/album/573Kvyj26bxfDm7Bj1cyTK) | 5:02 |
 | 11 | [Kingdom of Fear](https://open.spotify.com/track/5NIrBJ64wXc8eZB317cmqZ) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:41 |
 | 12 | [Was It Love](https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 2](https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7) | 4:10 |
-| 13 | [My Favourite Book Is One I’ve Read A Bunch](https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC) | [Dermot Henry](https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H) | [My Favourite Book Is One I’ve Read A Bunch](https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3) | 3:34 |
+| 13 | [My Favourite Book Is One I’ve Read A Bunch](https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC) | [Dermot Henry](https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H) | [My Favourite Book Is One I’ve Read A Bunch / Little Rib](https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3) | 3:34 |
 | 14 | [Never Know Love](https://open.spotify.com/track/2tlONys5V3ZuO5OxrDJfE8) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Never Know Love](https://open.spotify.com/album/2AZdDD0w09CGHCDKP2Tqnf) | 3:09 |
 | 15 | [Under My Skin](https://open.spotify.com/track/44lKMeJ47gpHs3esszn7ca) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Under My Skin](https://open.spotify.com/album/38zPy3UXihGMSZ91bigaGh) | 2:44 |
 | 16 | [You Need a Lover](https://open.spotify.com/track/7AC6WisXk8OGXctLQ6Lap9) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [You Need a Lover](https://open.spotify.com/album/2j10ISyKGoqdyvmom28ZCS) | 2:21 |

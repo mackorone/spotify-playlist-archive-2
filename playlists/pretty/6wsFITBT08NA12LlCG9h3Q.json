@@ -1,12 +1,12 @@
 {
   "description": "A <a href=\"http://www.digster.fm/decades\">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.",
-  "num_followers": 144273,
+  "num_followers": 144265,
   "original_name": "90s",
   "owner": {
     "name": "uDiscover Playlists",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAFPQ01cW811wSrfriDCR7+eywRECtA",
+  "snapshot_id": "AAAFRCIvYF36ayLUbcw4Phn0GlREtQ9v",
   "tracks": [
     {
       "added_at": "2026-04-03 17:27:16",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/3dmqIB2Qxe2XZobw9gXxJ6"
     },
     {
+      "added_at": "2026-03-07 00:52:45",
+      "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "It Ain't Over 'Til It's Over",
+      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
+    },
+    {
       "added_at": "2026-03-27 19:20:54",
       "album": {
         "name": "No Need To Argue (2025 Remastered)",
@@ -41,20 +57,36 @@
       "url": "https://open.spotify.com/track/3k8qSv5e8ALW6tA9cpY9mm"
     },
     {
-      "added_at": "2026-03-07 00:52:45",
+      "added_at": "2026-04-17 17:38:56",
       "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+        "name": "Static & Silence",
+        "url": "https://open.spotify.com/album/00Z7sMv2YhKb49u10ajvy4"
       },
       "artists": [
         {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+          "name": "The Sundays",
+          "url": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
         }
       ],
-      "duration_ms": 242640,
-      "name": "It Ain't Over 'Til It's Over",
-      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
+      "duration_ms": 213493,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/4TwaeQT1YTeBUBRB8NeSCo"
+    },
+    {
+      "added_at": "2026-04-17 17:37:16",
+      "album": {
+        "name": "Blurring The Edges",
+        "url": "https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1"
+      },
+      "artists": [
+        {
+          "name": "Meredith Brooks",
+          "url": "https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM"
     },
     {
       "added_at": "2026-03-07 00:54:40",

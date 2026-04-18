@@ -6,7 +6,7 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAARS4rQoisC6zp80imavaWMn5AQg1pf",
+  "snapshot_id": "AAARTSlIwjuh2O1obYVTc2viykkGt37q",
   "tracks": [
     {
       "added_at": "2026-04-09 14:44:16",
@@ -829,6 +829,22 @@
       "url": "https://open.spotify.com/track/1qkemFylpvVolVww5xXzHe"
     },
     {
+      "added_at": "2026-04-17 14:57:23",
+      "album": {
+        "name": "Army",
+        "url": "https://open.spotify.com/album/2G3yUfX12UEtZ33VTwkRm4"
+      },
+      "artists": [
+        {
+          "name": "Qobra",
+          "url": "https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE"
+        }
+      ],
+      "duration_ms": 152929,
+      "name": "Army",
+      "url": "https://open.spotify.com/track/75386mOXWOPoHCjNRc3rgj"
+    },
+    {
       "added_at": "2026-04-10 12:23:15",
       "album": {
         "name": "Blow A Kiss",
@@ -1387,26 +1403,6 @@
       "duration_ms": 205241,
       "name": "Get Sturdy",
       "url": "https://open.spotify.com/track/57s7Z9hoov2XELEcvmATVq"
-    },
-    {
-      "added_at": "2026-02-20 11:15:11",
-      "album": {
-        "name": "Play Right",
-        "url": "https://open.spotify.com/album/7eFEljHE7bl04qYJFstSNz"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "Manhart",
-          "url": "https://open.spotify.com/artist/0ZSz1lehQ1CQU6OkKA32dd"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Play Right",
-      "url": "https://open.spotify.com/track/22jWUbQfMwxzQzBI66U3Lt"
     },
     {
       "added_at": "2026-02-20 11:15:11",

@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 124133,
       "name": "back outside",
       "url": "https://open.spotify.com/track/6dXHYXHgF0p7NOqZIfTDeg"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 140307,
       "name": "Be Me",
       "url": "https://open.spotify.com/track/24tokRChZL5vKAYJHC3ZxJ"
@@ -3124,7 +3124,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 158037,
       "name": "Chinatown Pt 2",
       "url": "https://open.spotify.com/track/4hI2Gj8zEoJTwP4mvwHe2E"
@@ -7981,6 +7981,24 @@
     },
     {
       "album": {
+        "name": "I CONDEMN",
+        "url": "https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142597,
+      "name": "I CONDEMN",
+      "url": "https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT"
+    },
+    {
+      "album": {
         "name": "i crash, u crash",
         "url": "https://open.spotify.com/album/188NanXzV5HE8FmrNYs8jF"
       },
@@ -8354,6 +8372,28 @@
       "duration_ms": 169677,
       "name": "I.D.F.A.",
       "url": "https://open.spotify.com/track/1DOwQW2wD2ssjaNmo4wGVD"
+    },
+    {
+      "album": {
+        "name": "ICEBOY",
+        "url": "https://open.spotify.com/album/2TQ4TXcdmgfG4BqMfUyv2j"
+      },
+      "artists": [
+        {
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+        },
+        {
+          "name": "SHIV PAUL",
+          "url": "https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194074,
+      "name": "ICEBOY",
+      "url": "https://open.spotify.com/track/4lGLdCZSzH7A4Ue9kmVbfh"
     },
     {
       "album": {
@@ -9230,6 +9270,24 @@
       "duration_ms": 202087,
       "name": "Kiss The Sky",
       "url": "https://open.spotify.com/track/2SuRhgjUzegI6wP1SswwnG"
+    },
+    {
+      "album": {
+        "name": "Knock At The Door",
+        "url": "https://open.spotify.com/album/4FmxUsRfZtHjWOhSb7CsiN"
+      },
+      "artists": [
+        {
+          "name": "Bally Baby",
+          "url": "https://open.spotify.com/artist/7I0vkHapi0O00Yd6BZcl2Z"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101402,
+      "name": "Knock At The Door",
+      "url": "https://open.spotify.com/track/7snf3SZJKO8P5xbsFugPCE"
     },
     {
       "album": {
@@ -11506,7 +11564,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 157974,
       "name": "Never Put You First",
       "url": "https://open.spotify.com/track/1H0FrllQSrM3y5BLThpyMO"
@@ -14724,6 +14782,24 @@
       "duration_ms": 152888,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/33JNU1PMIMcUJtPGcVaoBa"
+    },
+    {
+      "album": {
+        "name": "SHUT YOUR DAMN 95.7892",
+        "url": "https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185407,
+      "name": "SHUT YOUR DAMN 95.7892",
+      "url": "https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l"
     },
     {
       "album": {

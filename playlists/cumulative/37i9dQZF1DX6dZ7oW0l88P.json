@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Ancient Tree Heart",
+        "url": "https://open.spotify.com/album/34zFBLHasVx9EctsJtR8sp"
+      },
+      "artists": [
+        {
+          "name": "Niko Thalen",
+          "url": "https://open.spotify.com/artist/5Bkxu5J5AvHXfbcg9B9kEB"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249300,
+      "name": "Ancient Tree Heart",
+      "url": "https://open.spotify.com/track/3mcVpwNFFFdOkYjAhISRLW"
+    },
+    {
+      "album": {
         "name": "Angelic Harp",
         "url": "https://open.spotify.com/album/76aM79V9VXvpcXry4Q1O3z"
       },
@@ -913,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Distanciation",
+        "url": "https://open.spotify.com/album/6pb9segbKrgHGyd1OldGii"
+      },
+      "artists": [
+        {
+          "name": "Van Monet",
+          "url": "https://open.spotify.com/artist/7IB7yudcC4sArV1CWKpAiN"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137481,
+      "name": "Distanciation",
+      "url": "https://open.spotify.com/track/03bqUzpyszSMuRbQgAvCiR"
+    },
+    {
+      "album": {
         "name": "Imminent Light",
         "url": "https://open.spotify.com/album/1QMLibbaVhq5CEdI0Wgx73"
       },
@@ -1057,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Feathered Hours",
+        "url": "https://open.spotify.com/album/6puZsf8CqUdIwJR8tC04oy"
+      },
+      "artists": [
+        {
+          "name": "Anne Smiles",
+          "url": "https://open.spotify.com/artist/5xaqXD0Vd23LiE0p2JuOAk"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184550,
+      "name": "Feathered Hours",
+      "url": "https://open.spotify.com/track/2v9Uw3ZmBXZEuZSCP6Vhvp"
+    },
+    {
+      "album": {
         "name": "Feeling Happy",
         "url": "https://open.spotify.com/album/05XQpRE0NTHqKH0hQXjbPz"
       },
@@ -1198,6 +1252,24 @@
       "duration_ms": 108884,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/7CwUf0NzKiRlxnMKpQqmEz"
+    },
+    {
+      "album": {
+        "name": "Garden Colors",
+        "url": "https://open.spotify.com/album/3CFFWzJQBIElXBJSZGl9dG"
+      },
+      "artists": [
+        {
+          "name": "Solar Collective",
+          "url": "https://open.spotify.com/artist/4VcgkoUJgvBLieWpQWaiDC"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150967,
+      "name": "Garden Colors",
+      "url": "https://open.spotify.com/track/5OT0wmgZQ8OQgUonGKdQW1"
     },
     {
       "album": {
@@ -1637,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Into Gold",
+        "url": "https://open.spotify.com/album/65gVreMJNWcRNI6dQyQD5X"
+      },
+      "artists": [
+        {
+          "name": "Anna Murakami",
+          "url": "https://open.spotify.com/artist/2kEfDMbRORDJWTJQhAxbws"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169124,
+      "name": "Into Gold",
+      "url": "https://open.spotify.com/track/44OwVouutuSeFOI0lTijcC"
+    },
+    {
+      "album": {
         "name": "Enchanted Eden & Introspective Illusions",
         "url": "https://open.spotify.com/album/1iAlgtn0THENUi4T6gMMbn"
       },
@@ -1955,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "Love takes time",
+        "url": "https://open.spotify.com/album/0MGbHaIcevyrxs0s9M8701"
+      },
+      "artists": [
+        {
+          "name": "Onassis Hernandez",
+          "url": "https://open.spotify.com/artist/05pNPJ1TZmBUJobBpDxZt9"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Love takes time",
+      "url": "https://open.spotify.com/track/6DprUjWBl4XUwPK3SD5ZtD"
+    },
+    {
+      "album": {
         "name": "Lyre Somnium",
         "url": "https://open.spotify.com/album/4QOwg5GTMocVvx4fCBeGlk"
       },
@@ -2186,10 +2294,28 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 205098,
       "name": "Molly's Ghost",
       "url": "https://open.spotify.com/track/2ET3uBqSRf53thLa4LnQKH"
+    },
+    {
+      "album": {
+        "name": "Moment Of Harp",
+        "url": "https://open.spotify.com/album/46gkMK19YW0My4JayGiu2Q"
+      },
+      "artists": [
+        {
+          "name": "Sheila's Disciples",
+          "url": "https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163874,
+      "name": "Moment Of Harp",
+      "url": "https://open.spotify.com/track/6RpDTQTA07lquioeTRFydO"
     },
     {
       "album": {
@@ -2208,6 +2334,24 @@
       "duration_ms": 215500,
       "name": "Moonstone",
       "url": "https://open.spotify.com/track/45Vp8l2HUsIANJm4T6izXF"
+    },
+    {
+      "album": {
+        "name": "Music for Growing Flowers (Nocturne)",
+        "url": "https://open.spotify.com/album/4CKkzl0jldlDcCQnqrlrcq"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185314,
+      "name": "Music For Growing Flowers (Nocturne) - Pt. 3",
+      "url": "https://open.spotify.com/track/1sk1hF0p3AueSQgWPCqxn5"
     },
     {
       "album": {
@@ -2494,6 +2638,24 @@
       "duration_ms": 176807,
       "name": "Nyhavn",
       "url": "https://open.spotify.com/track/3YivETFj5CLJb88bxMyNVw"
+    },
+    {
+      "album": {
+        "name": "Nymphaea",
+        "url": "https://open.spotify.com/album/5qKNlxWVGTfZrNvL0KXuVv"
+      },
+      "artists": [
+        {
+          "name": "Ekayana",
+          "url": "https://open.spotify.com/artist/37jiKDb6o5YpDusODsz2V0"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143714,
+      "name": "Nymphaea",
+      "url": "https://open.spotify.com/track/759lGUjtCgLGxAk2Ukbrtu"
     },
     {
       "album": {
@@ -3064,7 +3226,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 201173,
       "name": "Rosemary",
       "url": "https://open.spotify.com/track/2ZlFfgNXTEVfqPOk20mzQ5"
@@ -3687,6 +3849,24 @@
     },
     {
       "album": {
+        "name": "Temple of Infinite Light",
+        "url": "https://open.spotify.com/album/0k8VGq6qAHzEk2DfCEBQs0"
+      },
+      "artists": [
+        {
+          "name": "Antropen",
+          "url": "https://open.spotify.com/artist/1OVCqnXfyaaW9GRzlRnW4T"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170524,
+      "name": "Temple of Infinite Light",
+      "url": "https://open.spotify.com/track/7jaDIZBFuyfACUUPMjP4Nj"
+    },
+    {
+      "album": {
         "name": "The Brave Hearted",
         "url": "https://open.spotify.com/album/7n2zVISJbZFdgd32UaVKAJ"
       },
@@ -3742,6 +3922,24 @@
       "duration_ms": 179000,
       "name": "The Dream is the Answer",
       "url": "https://open.spotify.com/track/1Kgs9sJrIvldhEOSci4oVY"
+    },
+    {
+      "album": {
+        "name": "The Eternal Sun Gate",
+        "url": "https://open.spotify.com/album/4AGiLmtpJ9wErqo3Ua3PL1"
+      },
+      "artists": [
+        {
+          "name": "Wanderminds",
+          "url": "https://open.spotify.com/artist/1klTTHODeL7EIW2Kd0nWUL"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "The Eternal Sun Gate",
+      "url": "https://open.spotify.com/track/3whUX9RzzNG8H4suyZKaRZ"
     },
     {
       "album": {
@@ -4135,6 +4333,24 @@
     },
     {
       "album": {
+        "name": "Ways Of Grace",
+        "url": "https://open.spotify.com/album/5yLglOHieihjy3vO11r08M"
+      },
+      "artists": [
+        {
+          "name": "Miriam van Steeg",
+          "url": "https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131362,
+      "name": "Ways Of Grace",
+      "url": "https://open.spotify.com/track/0NkxpZ2z5bg4kFIyQkMBm4"
+    },
+    {
+      "album": {
         "name": "Collected Pieces: 2015-2020",
         "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
       },
@@ -4168,6 +4384,24 @@
       "duration_ms": 230051,
       "name": "We Wave From Our Boats",
       "url": "https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN"
+    },
+    {
+      "album": {
+        "name": "Weight of Air",
+        "url": "https://open.spotify.com/album/2FeMFTtLgbyK5b3jxnEM6I"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Island",
+          "url": "https://open.spotify.com/artist/0s2PIIFX28PHshwhsbFjJh"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Weight of Air",
+      "url": "https://open.spotify.com/track/0vSOmploQxjuJEIhzw3Adv"
     },
     {
       "album": {

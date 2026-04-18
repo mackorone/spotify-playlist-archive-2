@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-555 songs - 1 day 2 hr 30 min
+556 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Running \- KARTY Remix](https://open.spotify.com/track/3epakg3oUvNuBFYWq2Sql8) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [KARTY](https://open.spotify.com/artist/1d4NBnW4o8yblqpLJ0EEci) | [Currently On Earth Remixes](https://open.spotify.com/album/7JUYT95dnaemQAfStopYkO) | 3:30 | 2026-03-06 |  |
 | [Running \- Ookay Remix](https://open.spotify.com/track/0tNVqP7h2s2aUV9CfVfvim) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Currently On Earth Remixes](https://open.spotify.com/album/7JUYT95dnaemQAfStopYkO) | 2:51 | 2026-03-06 |  |
 | [RXDIO ACTXVE](https://open.spotify.com/track/6K0VFqzZ53URyjfAjLDsqK) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXDIO ACTXVE](https://open.spotify.com/album/44AORFKg2rxNyDfppWfFwt) | 2:34 | 2023-11-22 | 2025-04-27 |
+| [SABOTAGE](https://open.spotify.com/track/45ozl7DjaeJDWt6cd9rTL5) | [Killin' Void](https://open.spotify.com/artist/6qi5arAoexSVz1HfaDlGrR), [sanna frankie](https://open.spotify.com/artist/31BTzG2olQWOHbn1nh1E94) | [SABOTAGE](https://open.spotify.com/album/04vWP9MFvqscwy1R0B1t6M) | 2:59 | 2026-04-17 |  |
 | [SAFE](https://open.spotify.com/track/1An0fvGIjjMDFGoebz2GI9) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [God Bless The Trap House](https://open.spotify.com/album/3gGdE5OzZ8qUPGSXf0OzZ7) | 2:11 | 2023-08-09 | 2023-12-14 |
 | [San Diego](https://open.spotify.com/track/4jbmPbCPQD4TxAXjGMbNIr) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [San Diego](https://open.spotify.com/album/1FsJRWqLv5jI7LwO6ptrzn) | 2:48 | 2025-10-24 |  |
 | [Sangre Poderosa](https://open.spotify.com/track/6XlTWSJ9MiCsE9zV05TeLM) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Sangre Poderosa](https://open.spotify.com/album/70Pw8yVlZQkoEu8ttNiIDf) | 2:26 | 2022-05-06 | 2022-06-25 |

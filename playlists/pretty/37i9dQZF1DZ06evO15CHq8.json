@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 673771,
+  "num_followers": 673822,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad7VAAAAAABkRSLuQOaQaPp83jM/4uXV",
+  "snapshot_id": "aeAmgAAAAAATyd0kgtciTQTSTK7G2NH2",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long Term Effects of SUFFERING",
-        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 140858,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/19n8izXThARSuQAXrOKNbO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KILL YOURSELF Part XX: The Infinity Saga",
         "url": "https://open.spotify.com/album/1sbKmnLvYSP6o6iPCjmCVd"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 156069,
       "name": "For the Last Time",
       "url": "https://open.spotify.com/track/5m61GgCY2vUmDBlOCfNRX9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Long Term Effects of SUFFERING",
+        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 140858,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/19n8izXThARSuQAXrOKNbO"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILL YOURSELF Part IX: The Soulseek Saga",
-        "url": "https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 136997,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Want to Die In New Orleans",
         "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 137772,
       "name": "Coma",
       "url": "https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KILL YOURSELF Part IX: The Soulseek Saga",
+        "url": "https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 136997,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD"
     },
     {
       "added_at": null,

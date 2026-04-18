@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 
 > All the J\-Pop tunes you love in one playlist\. Cover: Creepy Nuts
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,045 likes - 86 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,050 likes - 86 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 | 85 | [Angelseek](https://open.spotify.com/track/1MEjwcB4LYKiCq0dsFGckD) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Angelseek](https://open.spotify.com/album/1FHrSsOvsfP1YdidikH1xw) | 3:49 |
 | 86 | [SWEET MAGIC](https://open.spotify.com/track/61tmQ29LoIoDmAgcZLqfyf) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [SWEET MAGIC](https://open.spotify.com/album/0suptqC4XOddvtb9eF0kUX) | 3:13 |
 
-Snapshot ID: `AAAAAN7kx9XaE8hyIro6AGdN1R6lGkUu`
+Snapshot ID: `AAAAAJzSt6n9tsVfRQkNJvNlHu0ZRcQc`

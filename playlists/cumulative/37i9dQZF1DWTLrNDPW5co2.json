@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of electronic music culture. Featuring 2charm. ",
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of electronic music culture. Featuring Honey Dijon. ",
   "name": "Club Resistance",
   "tracks": [
     {
@@ -574,7 +574,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 162552,
       "name": "B-AXX SHAKING SONG",
       "url": "https://open.spotify.com/track/0lzEJo5zpsyNUXfKg7dM9K"
@@ -5528,7 +5528,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 132493,
       "name": "Moodboard",
       "url": "https://open.spotify.com/track/6fpqzhSCpzGQthHJGA3j6u"
@@ -5546,7 +5546,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 159746,
       "name": "MOVE IT",
       "url": "https://open.spotify.com/track/4kM0cCRw8ufrtbEdORq60P"
@@ -5791,6 +5791,28 @@
     },
     {
       "album": {
+        "name": "My Weakness",
+        "url": "https://open.spotify.com/album/0qNAEeDx3Y1jkalp7tESv9"
+      },
+      "artists": [
+        {
+          "name": "Fiorious",
+          "url": "https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor"
+        },
+        {
+          "name": "Bawrut",
+          "url": "https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231774,
+      "name": "My Weakness",
+      "url": "https://open.spotify.com/track/1kw9MrbB8vSthetSUJl79Y"
+    },
+    {
+      "album": {
         "name": "NEED TO KNOW",
         "url": "https://open.spotify.com/album/1gQ2z0wuUco7TtvX3J8DOl"
       },
@@ -5976,6 +5998,28 @@
       "duration_ms": 168448,
       "name": "No Lube So Rude",
       "url": "https://open.spotify.com/track/6zgvKcL58XPES10HwspEkT"
+    },
+    {
+      "album": {
+        "name": "no me quiero dormir",
+        "url": "https://open.spotify.com/album/5wmPqODKNYl7HTr8RJti7x"
+      },
+      "artists": [
+        {
+          "name": "Safety Trance",
+          "url": "https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "no me quiero dormir",
+      "url": "https://open.spotify.com/track/6pLKe1SzXJexj7VpBleAL4"
     },
     {
       "album": {
@@ -7366,6 +7410,28 @@
       "duration_ms": 200866,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/38bCx6AbjjduaSVlgIwKZP"
+    },
+    {
+      "album": {
+        "name": "The Nightlife",
+        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244708,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
     },
     {
       "album": {

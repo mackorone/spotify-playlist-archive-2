@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Tenille Townes",
+  "description": "The home of Canadian country music. Cover: Owen Riegling",
   "name": "North Country",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 178804,
       "name": "Ain't That The Truth",
       "url": "https://open.spotify.com/track/1gZM90tQYxq9zL1dauJfIK"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 177491,
       "name": "Angel",
       "url": "https://open.spotify.com/track/2o3iV0wXd1uhSp2M0vBM0A"
@@ -406,6 +406,24 @@
       "duration_ms": 212426,
       "name": "Another One",
       "url": "https://open.spotify.com/track/7hZxg7lxEGl5k8uFhorSKg"
+    },
+    {
+      "album": {
+        "name": "Headlights & Memories / Any Easier",
+        "url": "https://open.spotify.com/album/70uAWM56N4JPsmby2zb09o"
+      },
+      "artists": [
+        {
+          "name": "Chevy Beaulieu",
+          "url": "https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216885,
+      "name": "Any Easier",
+      "url": "https://open.spotify.com/track/0RGPhUgF2xzoyg8jnCzVPO"
     },
     {
       "album": {
@@ -604,7 +622,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 204985,
       "name": "Background Noise",
       "url": "https://open.spotify.com/track/7qq5kTdIWO25k1ZhRUKqwY"
@@ -914,7 +932,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 188710,
       "name": "Blue Collar Man",
       "url": "https://open.spotify.com/track/3DDThoYBTEYebm6UyYqxBY"
@@ -1745,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "County Line 5 (4X4 Mix)",
+        "url": "https://open.spotify.com/album/2Z2Xnu7ovPYSYid4mEfM6e"
+      },
+      "artists": [
+        {
+          "name": "Bradley Hale",
+          "url": "https://open.spotify.com/artist/1TPjClIZ0S2xtgSNfqV6gF"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218837,
+      "name": "County Line 5 - 4X4 Mix",
+      "url": "https://open.spotify.com/track/70SdZnWRqvQMAt2NgWSTKk"
+    },
+    {
+      "album": {
         "name": "County Line Five",
         "url": "https://open.spotify.com/album/55N43YQf2aWivDZLES01pK"
       },
@@ -2127,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Deep Water",
+        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153069,
+      "name": "Deep Water",
+      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
+    },
+    {
+      "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/17coSWwLrpBsVho0IFp1ke"
       },
@@ -2362,6 +2416,24 @@
       "duration_ms": 148031,
       "name": "Drink Around",
       "url": "https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv"
+    },
+    {
+      "album": {
+        "name": "Drinking Till I'm Dead",
+        "url": "https://open.spotify.com/album/39AVoolLd6dBXg2Z3PBmRo"
+      },
+      "artists": [
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181497,
+      "name": "Drinking Till I'm Dead",
+      "url": "https://open.spotify.com/track/1K6yIq9JWtK05naKIDK7cX"
     },
     {
       "album": {
@@ -4735,6 +4807,24 @@
     },
     {
       "album": {
+        "name": "I Should Be Your Man",
+        "url": "https://open.spotify.com/album/63gTv2PVmYMR1fQaxP9yDO"
+      },
+      "artists": [
+        {
+          "name": "Dave Sampson",
+          "url": "https://open.spotify.com/artist/6uGkbfEf30iy7nVOqZIWJp"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210445,
+      "name": "I Should Be Your Man",
+      "url": "https://open.spotify.com/track/0xDdiaSUAtpn6QPAlYwNUE"
+    },
+    {
+      "album": {
         "name": "Deer in the Headlights",
         "url": "https://open.spotify.com/album/5qeZSe0axVQt0roM9PqMJL"
       },
@@ -5276,10 +5366,28 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 145100,
       "name": "Keep on Truckin'",
       "url": "https://open.spotify.com/track/2grFyPMwj6cFj9ONYhiWjh"
+    },
+    {
+      "album": {
+        "name": "Killer Instinct",
+        "url": "https://open.spotify.com/album/0ApCfCsGsqL8cGvp14gzNw"
+      },
+      "artists": [
+        {
+          "name": "Rick Duff",
+          "url": "https://open.spotify.com/artist/4MNUaMf0Yl05yY6x342xBH"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197625,
+      "name": "Killer Instinct",
+      "url": "https://open.spotify.com/track/1nSxYz9KGiqPUoBF4RIFcM"
     },
     {
       "album": {
@@ -5897,6 +6005,24 @@
     },
     {
       "album": {
+        "name": "Losing Side Of Love",
+        "url": "https://open.spotify.com/album/2eNuX8hCzeSbxT6hMO97BW"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/7buSpDfGpMZwpTs45IT9uo"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209992,
+      "name": "Losing Side Of Love",
+      "url": "https://open.spotify.com/track/26pYgdKLIK3IbVOVbcq582"
+    },
+    {
+      "album": {
         "name": "Love and Hate",
         "url": "https://open.spotify.com/album/3abW5Ufgrl07Fdje1bzPmJ"
       },
@@ -6128,7 +6254,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 202506,
       "name": "Memories and Empties",
       "url": "https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7"
@@ -7283,6 +7409,24 @@
     },
     {
       "album": {
+        "name": "P.O.S.",
+        "url": "https://open.spotify.com/album/4mmeyfgVl2um0sm62Ixl9v"
+      },
+      "artists": [
+        {
+          "name": "Noah Brigden",
+          "url": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198278,
+      "name": "P.O.S.",
+      "url": "https://open.spotify.com/track/6AJaDD64IxpDR3qntU56Pd"
+    },
+    {
+      "album": {
         "name": "Panic Years",
         "url": "https://open.spotify.com/album/17PHdYIEcZkOyRN6qVyIsz"
       },
@@ -7854,6 +7998,24 @@
       "duration_ms": 193621,
       "name": "RENT FREE",
       "url": "https://open.spotify.com/track/0aVHXmSUizaqth5OswMMUE"
+    },
+    {
+      "album": {
+        "name": "In The Feeling",
+        "url": "https://open.spotify.com/album/5t9dUqzhZipR4hx7et4gx4"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200623,
+      "name": "Rest Of My",
+      "url": "https://open.spotify.com/track/3nPggg2eXJSJWTnThsj85q"
     },
     {
       "album": {
@@ -8672,7 +8834,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 187582,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/5pMqKMKf7v6XZYG8yNTDTQ"
@@ -8852,7 +9014,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 149715,
       "name": "South Side of Sober",
       "url": "https://open.spotify.com/track/1XctHNqa8Ev0jJmd5uSlKz"
@@ -9040,6 +9202,24 @@
       "duration_ms": 208789,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/2nfzo62qLpxKagL3Ed4lOx"
+    },
+    {
+      "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/5X5wRngyWiympuJNexkVQc"
+      },
+      "artists": [
+        {
+          "name": "Sheri Marie Ptolemy",
+          "url": "https://open.spotify.com/artist/1FSvvr0FJTrRRqinxwzBH7"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200183,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/6soWZfR1hksoCG9iMU90Wy"
     },
     {
       "album": {
@@ -9950,6 +10130,24 @@
       "duration_ms": 267798,
       "name": "Turn My Lover Loose",
       "url": "https://open.spotify.com/track/5gNKywykgKB0J7mTeqsHBC"
+    },
+    {
+      "album": {
+        "name": "Two Years in Two Weeks",
+        "url": "https://open.spotify.com/album/1nfSrfS1NvsckoC6yfHxdd"
+      },
+      "artists": [
+        {
+          "name": "Taylor-Rae",
+          "url": "https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "Two Years in Two Weeks",
+      "url": "https://open.spotify.com/track/0P7lYijRL5egHjELsuKtRk"
     },
     {
       "album": {

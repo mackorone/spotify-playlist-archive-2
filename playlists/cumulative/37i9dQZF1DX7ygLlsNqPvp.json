@@ -2983,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "BEASTMODE VOL1",
+        "url": "https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "I DONT CARE",
+      "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
+    },
+    {
+      "album": {
         "name": "Invoice (feat. JayBhad and Superwozzy)",
         "url": "https://open.spotify.com/album/6x23A7be271sTaPRBnJelP"
       },
@@ -6034,24 +6052,6 @@
       "duration_ms": 122668,
       "name": "Touch\u00e9",
       "url": "https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv"
-    },
-    {
-      "album": {
-        "name": "BEASTMODE VOL1",
-        "url": "https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        }
-      ],
-      "date_added": "2026-04-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
     },
     {
       "album": {

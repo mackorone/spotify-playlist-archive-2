@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-30",
-  "description": "A melting pot of Caribbean culture. Cover: 450 & Weekday",
+  "description": "A melting pot of Caribbean culture. Cover: Buju Banton",
   "name": "Fever",
   "tracks": [
     {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 166800,
       "name": "8:00 PM",
       "url": "https://open.spotify.com/track/6cN5twf94UTiHitcAXgrwk"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 192640,
       "name": "Anything 4 U",
       "url": "https://open.spotify.com/track/4jnbeBNQaWiS1bkSPCzfz2"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 176909,
       "name": "Bad",
       "url": "https://open.spotify.com/track/2mYTrNPWiFAritdBxPTMD6"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 204943,
       "name": "BALCONY",
       "url": "https://open.spotify.com/track/6QkLZN4rEHXTomRaskbeqD"
@@ -976,7 +976,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 151320,
       "name": "BOSS UP",
       "url": "https://open.spotify.com/track/458u353fkPaERY2SoOGPl3"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 163764,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/6gBThFhnhTl3gf5KKWVzlY"
@@ -1104,6 +1104,24 @@
       "duration_ms": 101694,
       "name": "Bubble Gum",
       "url": "https://open.spotify.com/track/1S5NReadPAI7o5G9mUfunZ"
+    },
+    {
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/0nMqTIKccDako5MXgaGD8i"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154503,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6rJ4Wf8HZZNIukRXINmuv6"
     },
     {
       "album": {
@@ -1504,7 +1522,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 146272,
       "name": "Dance Pon Me",
       "url": "https://open.spotify.com/track/5QAkndPQOLg72jJIsHEY8n"
@@ -2240,7 +2258,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 156055,
       "name": "FIYAH",
       "url": "https://open.spotify.com/track/4d0FZdFVwNRD3CUnmx6IOU"
@@ -2262,7 +2280,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 112591,
       "name": "Flap Flap",
       "url": "https://open.spotify.com/track/2VbSOGBmQeIj4iHEFXdVwd"
@@ -2433,6 +2451,32 @@
     },
     {
       "album": {
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/4L5VT0M3x3erBVmtaFVqDF"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Massive B",
+          "url": "https://open.spotify.com/artist/36fJ2Mx3ktclhSlBbsUbFY"
+        },
+        {
+          "name": "Bobby Konders",
+          "url": "https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196418,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/69xsImgaWVgZ4fiCo1rkBf"
+    },
+    {
+      "album": {
         "name": "Good Like Jesus",
         "url": "https://open.spotify.com/album/4rB4Zu1eQrb3MZybj0Uu6a"
       },
@@ -2484,7 +2528,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 159686,
       "name": "Guapi",
       "url": "https://open.spotify.com/track/3yNI1o1FqHkiIU62tS31qj"
@@ -2954,7 +2998,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 136159,
       "name": "Instructions",
       "url": "https://open.spotify.com/track/1zRvqTBUJBRAIs8s6mIV5E"
@@ -3264,7 +3308,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 147329,
       "name": "Let Me Go - Honeycomb Riddim",
       "url": "https://open.spotify.com/track/5LIWnma5CYXgDsxlfzjFLo"
@@ -3870,7 +3914,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 159183,
       "name": "Muhammad Ali (Can't Relate) (Remix)",
       "url": "https://open.spotify.com/track/7aaFH6C5BKupGMB9TMOw5b"
@@ -4078,7 +4122,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 171789,
       "name": "NNT",
       "url": "https://open.spotify.com/track/6RJ5RBEdQUdzAuLMRbeNqm"
@@ -4272,7 +4316,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 192216,
       "name": "NY Girls Remix",
       "url": "https://open.spotify.com/track/4loPWebjiAv8kuPkFMPUft"
@@ -4308,7 +4352,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 214000,
       "name": "On The Boulevard",
       "url": "https://open.spotify.com/track/4Xn30YPhWTv48MI3szcLjq"
@@ -4330,7 +4374,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 161706,
       "name": "One Man",
       "url": "https://open.spotify.com/track/5kSCM1Lklz9CJOAHZgmHKd"
@@ -4418,7 +4462,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 179271,
       "name": "Pam Pam Pam",
       "url": "https://open.spotify.com/track/0rAaMscdc9Rrs0fMc3BXKD"
@@ -4604,7 +4648,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 180000,
       "name": "People",
       "url": "https://open.spotify.com/track/0cB5rK28HIRJPQKXO8yr5n"
@@ -4764,7 +4808,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 168202,
       "name": "Pretty Dolly",
       "url": "https://open.spotify.com/track/2j5bvRhftjtpup4epaJCdC"
@@ -4958,7 +5002,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 207789,
       "name": "Ready for the Ride",
       "url": "https://open.spotify.com/track/1mBlAPx3o1upduoTYXwgcZ"
@@ -5220,7 +5264,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 193516,
       "name": "Sexology",
       "url": "https://open.spotify.com/track/4rlPHlXh9ubCB9mXCzjZkJ"
@@ -5324,6 +5368,24 @@
       "duration_ms": 145742,
       "name": "SHATTAZ",
       "url": "https://open.spotify.com/track/0hYj0PVgn1gRi7k5wPtSU6"
+    },
+    {
+      "album": {
+        "name": "Pool Party 2.0",
+        "url": "https://open.spotify.com/album/44UWR1XbVmXmyQsyvt9s22"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208554,
+      "name": "She Jus Wah Wine",
+      "url": "https://open.spotify.com/track/1BhfNm0ZkwXPf9vnany5U8"
     },
     {
       "album": {
@@ -5440,7 +5502,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 160000,
       "name": "SIQ",
       "url": "https://open.spotify.com/track/5DIDRFjERMATWgoBMAC49W"
@@ -5636,7 +5698,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 140638,
       "name": "Still Searching",
       "url": "https://open.spotify.com/track/2mB1Yec2jZy5IHtG9Cy9s5"
@@ -5728,7 +5790,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 194612,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/7EHdJHByG2AJXVSbJ5QeO4"
@@ -6032,7 +6094,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 214268,
       "name": "The Days",
       "url": "https://open.spotify.com/track/2psbBm3QcUHimjTUGa8soF"
@@ -6099,6 +6161,28 @@
     },
     {
       "album": {
+        "name": "The Locusts (with Pressure Busspipe)",
+        "url": "https://open.spotify.com/album/1l85rEizeqiixFdZdzB4iL"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Pressure Busspipe",
+          "url": "https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274391,
+      "name": "The Locusts (with Pressure Busspipe)",
+      "url": "https://open.spotify.com/track/5MTwwtAnAHeqr4xuWOqMOC"
+    },
+    {
+      "album": {
         "name": "TIME",
         "url": "https://open.spotify.com/album/2FbMoqc0ksmsJqLqqoGJmB"
       },
@@ -6150,7 +6234,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 202886,
       "name": "Ting Loud (with Masicka)",
       "url": "https://open.spotify.com/track/0SXhAXeKf5QuSsCUWoxRsH"
@@ -6186,7 +6270,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 148715,
       "name": "TONIGHT",
       "url": "https://open.spotify.com/track/1TMXIYsFeW7OQhvNkyeE6g"
@@ -6208,7 +6292,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 134439,
       "name": "Too Hot (feat. Moliy)",
       "url": "https://open.spotify.com/track/5yApOjKdnQZZb1yXtl4Owh"
@@ -6506,7 +6590,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 131250,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/0Oqiavr7my94MXN2K8HLeJ"

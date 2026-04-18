@@ -4,7 +4,7 @@
 
 > a playlist without boundaries 🧺<br/>cover: JD CLIFFE
 
-931 songs - 1 day 23 hr 27 min
+932 songs - 1 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Dream Cheater](https://open.spotify.com/track/7wwwpMpKfM7HktpHSbrXTI) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Dream Cheater](https://open.spotify.com/album/6zhDwwOMrwyER7Rqtw0TL2) | 3:00 | 2025-11-14 | 2026-02-13 |
 | [Drive](https://open.spotify.com/track/2Z9Biqmc0XwwYUVgvIkeiq) | [Alfie Neale](https://open.spotify.com/artist/3kMEpQS5iaBwIvrudhKYmG) | [Drive](https://open.spotify.com/album/7DCk4UPh5RZ7gNgBwkcgkC) | 2:45 | 2025-06-05 | 2025-08-01 |
 | [Drive](https://open.spotify.com/track/0dAj6BkZaBkAUJ8wJxKgCR) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Drive](https://open.spotify.com/album/26MHLlcZIbBkyeIvyeq4Wi) | 3:32 | 2026-03-20 |  |
+| [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-16 |  |
 | [Drugs Don't Work](https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Hope Came Last](https://open.spotify.com/album/435kjRF6b4PhhLa8cadcLC) | 2:16 | 2025-09-18 | 2026-02-06 |
 | [Dumb Bitch Juice](https://open.spotify.com/track/3GREjwadOvBZW448ULa6TC) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:31 | 2024-06-27 | 2024-07-19 |
 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 | 2025-02-28 | 2025-05-16 |
@@ -571,7 +572,7 @@
 | [My Best](https://open.spotify.com/track/4ZymouWt2nNptreEh93ByP) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Thinking With My Ears](https://open.spotify.com/album/1Ia99w2Ob3HprO65ePGeVk) | 2:05 | 2024-07-18 | 2024-09-06 |
 | [My Best Friend](https://open.spotify.com/track/3Vk3eZgCp9L4LlVBk8U0Qd) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [My Best Friend](https://open.spotify.com/album/0fVdj6w8YyTsoAqyxr3zWc) | 2:34 | 2026-02-06 |  |
 | [My Endeavour](https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Somersault Queen](https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm) | 4:05 | 2025-11-21 | 2026-02-27 |
-| [My Favourite Book Is One I’ve Read A Bunch](https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC) | [Dermot Henry](https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H) | [My Favourite Book Is One I’ve Read A Bunch](https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3) | 3:34 | 2026-04-16 |  |
+| [My Favourite Book Is One I’ve Read A Bunch](https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC) | [Dermot Henry](https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H) | [My Favourite Book Is One I’ve Read A Bunch / Little Rib](https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3) | 3:34 | 2026-04-16 |  |
 | [my girl](https://open.spotify.com/track/5m53Xb1GL2xR6fPpqUqFA8) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [my girl](https://open.spotify.com/album/3Ue6flrmXLRAvieVSoXZxb) | 4:16 | 2024-08-29 | 2024-11-01 |
 | [My Kind of Freak](https://open.spotify.com/track/2ObIu129zXkIbMtGdZode0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Stars and Teeth](https://open.spotify.com/album/5kcHMWjStxSfaii3tLcc8V) | 3:11 | 2026-03-27 |  |
 | [National Disgrace](https://open.spotify.com/track/2W16NH0f34xellZYUjEPsX) | [Little Dog Star](https://open.spotify.com/artist/2DayGMoy8DCtrJpBq8p0PH) | [National Disgrace](https://open.spotify.com/album/1c7sibEGZbZPVfgSFi4LOh) | 3:30 | 2025-08-14 | 2025-09-26 |

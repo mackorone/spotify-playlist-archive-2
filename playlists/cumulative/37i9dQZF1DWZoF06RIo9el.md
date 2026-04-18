@@ -2,9 +2,9 @@
 
 ### [Lo mejor del mes](https://open.spotify.com/playlist/37i9dQZF1DWZoF06RIo9el)
 
-> Lo mejor de abril 2026\. Cover: María Isabel
+> Lo mejor de abril 2026\. Cover: Trueno
 
-1,463 songs - 3 day 5 hr 40 min
+1,464 songs - 3 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,7 @@
 | [En Otra Vida](https://open.spotify.com/track/2oWM4XRTXpgWniW874YcAq) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Décimo Cuarto](https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2) | 3:16 | 2023-06-05 | 2023-07-22 |
 | [En Otra Vida \- Con Carin Leon](https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [En Otra Vida \- Con Carin Leon](https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ) | 2:30 | 2025-01-14 | 2025-03-04 |
 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 | 2025-02-10 | 2025-03-25 |
-| [En Tercera Persona](https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n) | [More](https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi) | [En Tercera Persona](https://open.spotify.com/album/0MqVHSORj4pxurPL2VYuKT) | 3:31 | 2026-03-06 |  |
+| [En Tercera Persona](https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n) | [More](https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi) | [En Tercera Persona](https://open.spotify.com/album/0MqVHSORj4pxurPL2VYuKT) | 3:31 | 2026-03-06 | 2026-04-18 |
 | [En Tu Boca El Humo Me Sabe Mejor](https://open.spotify.com/track/53wSngFr6eC0yazPNJQmtg) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [En Tu Boca El Humo Me Sabe Mejor](https://open.spotify.com/album/13v0zqnBRZqZT69JGUNgVl) | 3:18 | 2025-09-05 | 2025-10-23 |
 | [EN TU MIRADAaaaa](https://open.spotify.com/track/5Qnq1GhCBSsAkipZtjsVkF) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA FORMULA](https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA) | 2:38 | 2026-01-15 | 2026-03-07 |
 | [Enamorada](https://open.spotify.com/track/3myHjjsivHkPYFVIIBakhs) | [MAR](https://open.spotify.com/artist/4vBFex92UAoPQdSqrzdpNd), [Paparachi](https://open.spotify.com/artist/6WbH3g2pk6P7ySnKnWZaxr) | [Enamorada](https://open.spotify.com/album/4fOXqhaQQCAx4qtLSJkwC7) | 2:46 | 2024-07-03 | 2024-08-17 |
@@ -1435,6 +1435,7 @@
 | [WYA REMIX WHITE](https://open.spotify.com/track/1bvWJa118mABR5vJbHpESU) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [WYA REMIX WHITE](https://open.spotify.com/album/6R29zteRiORMadmQCkLLBZ) | 5:53 | 2024-05-13 | 2024-07-04 |
 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 | 2023-02-06 | 2023-03-08 |
 | [X Tu Casa](https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:43 | 2023-04-06 | 2023-06-24 |
+| [X UNAS LLANTAS](https://open.spotify.com/track/0uniUBcZwEwycJAMgFF8x0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [X UNAS LLANTAS](https://open.spotify.com/album/6yfOnX63qyUDHSQMEzHpxl) | 2:43 | 2026-04-17 |  |
 | [X'CLUSIVO](https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [X'CLUSIVO](https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy) | 2:55 | 2023-12-04 | 2024-02-27 |
 | [X'CLUSIVO \- REMIX](https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [X'CLUSIVO \(REMIX\)](https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh) | 3:28 | 2024-03-05 | 2024-05-14 |
 | [XQ ERES TAN MALA??](https://open.spotify.com/track/6TehiewtbfEA4K6r0O9md7) | [FRAN](https://open.spotify.com/artist/3kFlxPXZ31culc2QluDVLC), [Mike Castillo](https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn), [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL) | [XQ ERES TAN MALA??](https://open.spotify.com/album/7mIOS8qGj8d9wWU2FkG6ds) | 3:14 | 2024-06-03 | 2024-07-04 |

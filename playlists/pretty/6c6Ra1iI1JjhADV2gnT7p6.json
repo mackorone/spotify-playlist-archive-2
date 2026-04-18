@@ -1,76 +1,44 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 59959,
+  "num_followers": 59961,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAA2yKcQcnG26FXHViZ+X69yCr4MaAE4",
+  "snapshot_id": "AAA23Qofnw51f8KmDg7ub2v5GFER/530",
   "tracks": [
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
-        "name": "Black Cherry Liqueur",
-        "url": "https://open.spotify.com/album/2mpS1n2hOWhO49xwxyNNq7"
+        "name": "Another Country",
+        "url": "https://open.spotify.com/album/5nSXKd1xWIg4qXuNrLXVaK"
       },
       "artists": [
         {
-          "name": "Silver Gore",
-          "url": "https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2"
+          "name": "Cindy",
+          "url": "https://open.spotify.com/artist/5C8xxfvMhwwxeSz4LZm41N"
         }
       ],
-      "duration_ms": 185933,
-      "name": "Black Cherry Liqueur",
-      "url": "https://open.spotify.com/track/0FTqriqVRsDGT96kH6RfgC"
+      "duration_ms": 251280,
+      "name": "Another Country",
+      "url": "https://open.spotify.com/track/0hDtniczbh34Q82NFLN4kl"
     },
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
-        "name": "Symmetry",
-        "url": "https://open.spotify.com/album/2nxXBNTG8O8CglbPJGcBHJ"
+        "name": "Disc 2",
+        "url": "https://open.spotify.com/album/1iP1phZ27wZD2eM0WoeI4L"
       },
       "artists": [
         {
-          "name": "Pocket Sun",
-          "url": "https://open.spotify.com/artist/2AglFpK0fLt8IxuOPC3SbR"
+          "name": "blue diner.",
+          "url": "https://open.spotify.com/artist/7507iWsMThB2CBFkRqtI2E"
         }
       ],
-      "duration_ms": 281213,
-      "name": "Symmetry",
-      "url": "https://open.spotify.com/track/4Utg2V5A3eNluKfcqF1tQ9"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
-        "name": "Jimmy",
-        "url": "https://open.spotify.com/album/2H9eCmD0wKkWwkGsSEJ0y8"
-      },
-      "artists": [
-        {
-          "name": "Goofy Geese",
-          "url": "https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "Jimmy",
-      "url": "https://open.spotify.com/track/33DQ9BKSnA8Wp2cOwFNlio"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
-        "name": "Fool In Your Room",
-        "url": "https://open.spotify.com/album/4huIhAAjIyLgDZJ9Nueru4"
-      },
-      "artists": [
-        {
-          "name": "Slippers",
-          "url": "https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM"
-        }
-      ],
-      "duration_ms": 99155,
-      "name": "Fool In Your Room",
-      "url": "https://open.spotify.com/track/5Y9JBKqHVKKkdBE4WmHtdG"
+      "duration_ms": 198716,
+      "name": "Disc 2",
+      "url": "https://open.spotify.com/track/1nCEHmK9brcirnEJ120qjf"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -87,6 +55,22 @@
       "duration_ms": 182386,
       "name": "Tapped Out",
       "url": "https://open.spotify.com/track/19AdEBeJD0pk7gC7nltqHX"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
+        "name": "Fool In Your Room",
+        "url": "https://open.spotify.com/album/4huIhAAjIyLgDZJ9Nueru4"
+      },
+      "artists": [
+        {
+          "name": "Slippers",
+          "url": "https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM"
+        }
+      ],
+      "duration_ms": 99155,
+      "name": "Fool In Your Room",
+      "url": "https://open.spotify.com/track/5Y9JBKqHVKKkdBE4WmHtdG"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -123,6 +107,22 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
+        "name": "Jimmy",
+        "url": "https://open.spotify.com/album/2H9eCmD0wKkWwkGsSEJ0y8"
+      },
+      "artists": [
+        {
+          "name": "Goofy Geese",
+          "url": "https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Jimmy",
+      "url": "https://open.spotify.com/track/33DQ9BKSnA8Wp2cOwFNlio"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
         "name": "Generic Actress",
         "url": "https://open.spotify.com/album/5lLKZrOFktnY1sUZocLkYG"
       },
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
+        "name": "Inverted Paradise",
+        "url": "https://open.spotify.com/album/3amGhA7Fnb4wapOdtwxFWZ"
+      },
+      "artists": [
+        {
+          "name": "Jahrund",
+          "url": "https://open.spotify.com/artist/3hwB1EOyN7sZygMw5QXAUj"
+        }
+      ],
+      "duration_ms": 201250,
+      "name": "Twilight Veil",
+      "url": "https://open.spotify.com/track/2QDQKtucErBmYxe2PsNJ55"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/4yDmqHa3BB1KOa5p55VC0q"
       },
@@ -171,6 +187,22 @@
       "duration_ms": 338087,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/1AHcsVwM1hb47oNRKxhoei"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
+        "name": "Black Cherry Liqueur",
+        "url": "https://open.spotify.com/album/2mpS1n2hOWhO49xwxyNNq7"
+      },
+      "artists": [
+        {
+          "name": "Silver Gore",
+          "url": "https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Black Cherry Liqueur",
+      "url": "https://open.spotify.com/track/0FTqriqVRsDGT96kH6RfgC"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -203,22 +235,6 @@
       "duration_ms": 193362,
       "name": "Body",
       "url": "https://open.spotify.com/track/2KuVCSzs8lM7FXhuNhxvrz"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
-        "name": "Under the Covers",
-        "url": "https://open.spotify.com/album/6rIT9dQGaTqv59RGPCEpWQ"
-      },
-      "artists": [
-        {
-          "name": "Carla dal Forno",
-          "url": "https://open.spotify.com/artist/6FVxEgfQsGrJ0BogIOYCd6"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "Under the Covers",
-      "url": "https://open.spotify.com/track/7waKVeTZb1D5a5r6aqyDF3"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -303,22 +319,6 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/0qBKP13vmSH5zdS4xHueSY"
-      },
-      "artists": [
-        {
-          "name": "figaro",
-          "url": "https://open.spotify.com/artist/4tci60qUqaYkdic5ZYqnqE"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/3pmYf4ppijB9jmZmOyZpzm"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
         "name": "I Go Up, You Go Down",
         "url": "https://open.spotify.com/album/1Jq5A9w7HcW93zat92apaH"
       },
@@ -331,6 +331,22 @@
       "duration_ms": 216708,
       "name": "I Go Up, You Go Down",
       "url": "https://open.spotify.com/track/1QPPrBtXhTdrDyTBvujvBJ"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
+        "name": "Places X Faces",
+        "url": "https://open.spotify.com/album/1Q1uW6XjblEqwnLmSlfNTW"
+      },
+      "artists": [
+        {
+          "name": "Aspen Forest",
+          "url": "https://open.spotify.com/artist/1skhtKw4FGCJtQLFcvDFqx"
+        }
+      ],
+      "duration_ms": 143738,
+      "name": "Places X Faces",
+      "url": "https://open.spotify.com/track/4d562drbG7p6Z4KfvGUyCN"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -395,6 +411,22 @@
       "duration_ms": 142188,
       "name": "Humming Bees",
       "url": "https://open.spotify.com/track/5broChFTP9Kmk035Go4Xb3"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
+        "name": "Symmetry",
+        "url": "https://open.spotify.com/album/2nxXBNTG8O8CglbPJGcBHJ"
+      },
+      "artists": [
+        {
+          "name": "Pocket Sun",
+          "url": "https://open.spotify.com/artist/2AglFpK0fLt8IxuOPC3SbR"
+        }
+      ],
+      "duration_ms": 281213,
+      "name": "Symmetry",
+      "url": "https://open.spotify.com/track/4Utg2V5A3eNluKfcqF1tQ9"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -735,22 +767,6 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
-        "name": "rachel",
-        "url": "https://open.spotify.com/album/0L0vnSAWIts4zIAW9GhxMz"
-      },
-      "artists": [
-        {
-          "name": "isobel",
-          "url": "https://open.spotify.com/artist/2qWWux0rPt1TL9UsygIpCA"
-        }
-      ],
-      "duration_ms": 224362,
-      "name": "rachel",
-      "url": "https://open.spotify.com/track/0niSvHdoPGslSX91RukMhG"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
         "name": "brave2",
         "url": "https://open.spotify.com/album/6vgZs9r2Wpp3vaCAXNHZjB"
       },
@@ -815,6 +831,22 @@
       "duration_ms": 192818,
       "name": "Best in the World",
       "url": "https://open.spotify.com/track/7IYwJJu4JGwzMO6RTzJAnX"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
+        "name": "Under the Covers",
+        "url": "https://open.spotify.com/album/6rIT9dQGaTqv59RGPCEpWQ"
+      },
+      "artists": [
+        {
+          "name": "Carla dal Forno",
+          "url": "https://open.spotify.com/artist/6FVxEgfQsGrJ0BogIOYCd6"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Under the Covers",
+      "url": "https://open.spotify.com/track/7waKVeTZb1D5a5r6aqyDF3"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -1199,22 +1231,6 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
-        "name": "Inverted Paradise",
-        "url": "https://open.spotify.com/album/3amGhA7Fnb4wapOdtwxFWZ"
-      },
-      "artists": [
-        {
-          "name": "Jahrund",
-          "url": "https://open.spotify.com/artist/3hwB1EOyN7sZygMw5QXAUj"
-        }
-      ],
-      "duration_ms": 201250,
-      "name": "Twilight Veil",
-      "url": "https://open.spotify.com/track/2QDQKtucErBmYxe2PsNJ55"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
         "name": "Gris",
         "url": "https://open.spotify.com/album/0NzysOPLiwdagjbsIvyD0y"
       },
@@ -1343,6 +1359,22 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
+        "name": "rachel",
+        "url": "https://open.spotify.com/album/0L0vnSAWIts4zIAW9GhxMz"
+      },
+      "artists": [
+        {
+          "name": "isobel",
+          "url": "https://open.spotify.com/artist/2qWWux0rPt1TL9UsygIpCA"
+        }
+      ],
+      "duration_ms": 224362,
+      "name": "rachel",
+      "url": "https://open.spotify.com/track/0niSvHdoPGslSX91RukMhG"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
         "name": "Violence",
         "url": "https://open.spotify.com/album/4SQdw62v0IkLH9PhZeOsMt"
       },
@@ -1355,22 +1387,6 @@
       "duration_ms": 156153,
       "name": "Violence",
       "url": "https://open.spotify.com/track/0ZnspeieLkCa990emE7JhI"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
-        "name": "Another Country",
-        "url": "https://open.spotify.com/album/5nSXKd1xWIg4qXuNrLXVaK"
-      },
-      "artists": [
-        {
-          "name": "Cindy",
-          "url": "https://open.spotify.com/artist/5C8xxfvMhwwxeSz4LZm41N"
-        }
-      ],
-      "duration_ms": 251280,
-      "name": "Another Country",
-      "url": "https://open.spotify.com/track/0hDtniczbh34Q82NFLN4kl"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
-        "name": "Places X Faces",
-        "url": "https://open.spotify.com/album/1Q1uW6XjblEqwnLmSlfNTW"
-      },
-      "artists": [
-        {
-          "name": "Aspen Forest",
-          "url": "https://open.spotify.com/artist/1skhtKw4FGCJtQLFcvDFqx"
-        }
-      ],
-      "duration_ms": 143738,
-      "name": "Places X Faces",
-      "url": "https://open.spotify.com/track/4d562drbG7p6Z4KfvGUyCN"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
         "name": "handshake",
         "url": "https://open.spotify.com/album/0bcZZ5epN7CHMc3valLGvn"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 183857,
       "name": "Biology",
       "url": "https://open.spotify.com/track/4o7Mllw1ps1Fwjx9D4xrMV"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/0qBKP13vmSH5zdS4xHueSY"
+      },
+      "artists": [
+        {
+          "name": "figaro",
+          "url": "https://open.spotify.com/artist/4tci60qUqaYkdic5ZYqnqE"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/3pmYf4ppijB9jmZmOyZpzm"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -1887,22 +1903,6 @@
       "duration_ms": 154693,
       "name": "Craving",
       "url": "https://open.spotify.com/track/3gRDRTdOLVo3T0ArvkxhXz"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
-        "name": "Disc 2",
-        "url": "https://open.spotify.com/album/1iP1phZ27wZD2eM0WoeI4L"
-      },
-      "artists": [
-        {
-          "name": "blue diner.",
-          "url": "https://open.spotify.com/artist/7507iWsMThB2CBFkRqtI2E"
-        }
-      ],
-      "duration_ms": 198716,
-      "name": "Disc 2",
-      "url": "https://open.spotify.com/track/1nCEHmK9brcirnEJ120qjf"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -9643,6 +9643,22 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
+        "name": "Rage Love Strange Love / Someone Call Donna",
+        "url": "https://open.spotify.com/album/7njg4odISbcs4KfZqWtbIh"
+      },
+      "artists": [
+        {
+          "name": "Ugn\u0117 Uma",
+          "url": "https://open.spotify.com/artist/3Adc8xbviOh16N1pGMhJKa"
+        }
+      ],
+      "duration_ms": 150437,
+      "name": "Rage Love Strange Love",
+      "url": "https://open.spotify.com/track/6N1RmQWwoiBp66QIOzEKBT"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
         "name": "Ten Long Years",
         "url": "https://open.spotify.com/album/4nZKsY4KXQri6ZY42e4zYJ"
       },
@@ -9703,22 +9719,6 @@
       "duration_ms": 222068,
       "name": "Fajitas (Poliz Navidad)",
       "url": "https://open.spotify.com/track/35in8hCgTa8pvt2WzauKyD"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
-        "name": "Rage Love Strange Love / Someone Call Donna",
-        "url": "https://open.spotify.com/album/7njg4odISbcs4KfZqWtbIh"
-      },
-      "artists": [
-        {
-          "name": "Ugn\u0117 Uma",
-          "url": "https://open.spotify.com/artist/3Adc8xbviOh16N1pGMhJKa"
-        }
-      ],
-      "duration_ms": 150437,
-      "name": "Rage Love Strange Love",
-      "url": "https://open.spotify.com/track/6N1RmQWwoiBp66QIOzEKBT"
     },
     {
       "added_at": "2026-04-11 12:03:51",

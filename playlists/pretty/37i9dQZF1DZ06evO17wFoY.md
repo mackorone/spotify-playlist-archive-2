@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 
 > This is Lang Lang\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,674 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,681 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 36 | [Nocturne in E\-Flat Major, Op\. 55, No\. 2](https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang: The Chopin Album](https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF) | 6:06 |
 | 37 | [Pavane, Op\. 50 \(Version for Piano\)](https://open.spotify.com/track/349KIIngrzk0ObXRz3pqlG) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Saint\-Saëns](https://open.spotify.com/album/3923ndf9zKgvppYaawmuIO) | 6:12 |
 | 38 | [12 Variations on "Ah, vous dirai\-je maman", K\. 265: Var\. 7](https://open.spotify.com/track/0y646OrSYbBZ202ScoCbAL) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 0:33 |
-| 39 | [Mia & Sebastian's Theme \(From "La La Land"\) \[Arr\. Kerber for Solo Piano\]](https://open.spotify.com/track/639ClXUegVz2aAPb8Mf35Y) | [Justin Hurwitz](https://open.spotify.com/artist/4fF2rf04AM1Rrj6WtIOva9), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book 2](https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx) | 3:15 |
-| 40 | [8 Memories in Watercolour, Op\. 1: No\. 6, Floating Clouds \- Live](https://open.spotify.com/track/2oxkzU9hSyW9N3cdKWUeyd) | [Tan Dun](https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang \- Live at Carnegie Hall](https://open.spotify.com/album/2cdlYtPJ7rhnbDBH5uj12t) | 1:42 |
+| 39 | [8 Memories in Watercolour, Op\. 1: No\. 6, Floating Clouds \- Live](https://open.spotify.com/track/2oxkzU9hSyW9N3cdKWUeyd) | [Tan Dun](https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang \- Live at Carnegie Hall](https://open.spotify.com/album/2cdlYtPJ7rhnbDBH5uj12t) | 1:42 |
+| 40 | [Mia & Sebastian's Theme \(From "La La Land"\) \[Arr\. Kerber for Solo Piano\]](https://open.spotify.com/track/639ClXUegVz2aAPb8Mf35Y) | [Justin Hurwitz](https://open.spotify.com/artist/4fF2rf04AM1Rrj6WtIOva9), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book 2](https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx) | 3:15 |
 | 41 | [We Don’t Talk About Bruno \- From "Encanto"](https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [We Don’t Talk About Bruno \(From "Encanto"\)](https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB) | 4:04 |
 | 42 | [12 Variations on "Ah, vous dirai\-je maman", K\. 265: Var\. 3](https://open.spotify.com/track/01krwPhJ04YilFViTRPU1O) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 0:35 |
 | 43 | [Hunting Cantata, BWV 208: No\. 9\. Sheep May Safely Graze \(Transc\. Duck for 4 Hands\)](https://open.spotify.com/track/6XMIUEpp8McfEetWKMuuyQ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Gina Alice](https://open.spotify.com/artist/2h8Yy5xhlNbJsekoeiPhbb) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 4:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 49 | [Jasmine Flower \(Arr\. Schindler for Piano\)](https://open.spotify.com/track/5e1AEXbrepdeMVB8YuRtNQ) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Encore Edition\)](https://open.spotify.com/album/2lAoaPfFfBkOQPTcLBZ6pI) | 6:44 |
 | 50 | [The Merry Shepherd Boy](https://open.spotify.com/track/04WtM8HBVMGUY3r5LEX4Dr) | [Hu\-Wei Huang](https://open.spotify.com/artist/61g9t43Yf5am1yo8MioU3p), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 1:33 |
 
-Snapshot ID: `ad7VAAAAAAAj2CZhtqqmr+fAIBaAhL2Z`
+Snapshot ID: `aeAmgAAAAAAzyLUGkeC4XFN8oiUpsCwV`

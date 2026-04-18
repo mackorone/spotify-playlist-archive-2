@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 635507,
+  "num_followers": 635613,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad7VAAAAAAB/TbYvlkUYZdx8/5MF9Q7W",
+  "snapshot_id": "aeAmgAAAAABqCjQE7DKc+KbAN1Fx1+bR",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
-        "url": "https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 253240,
-      "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
-      "url": "https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIGBANG Vol.1",
         "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 242746,
       "name": "A Fool Of Tears",
       "url": "https://open.spotify.com/track/4CHpoZ8tK0Xagah6Lcey0C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
+        "url": "https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 253240,
+      "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
+      "url": "https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Special Edition 'Still Alive'",
+        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/7DUl32UdrwpCXgs7vVXJF2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2NE1 1st Mini Album",
         "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 188000,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Special Edition 'Still Alive'",
-        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/7DUl32UdrwpCXgs7vVXJF2"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Radar de \u00c9xitos: K-Pop",
         "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Special Edition 'Still Alive'",
         "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 180533,
       "name": "Bingle Bingle (\ube59\uae00\ube59\uae00)",
       "url": "https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/1R1wuzQxZhghrjJZvqReyW"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
       "duration_ms": 222989,
       "name": "Wings (\ub0a0\uac1c) [Daesung Solo]",
       "url": "https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 237253,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/1R1wuzQxZhghrjJZvqReyW"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema",
-  "num_followers": 244237,
+  "num_followers": 244292,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-04-16 23:00:54",
       "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 225621,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
+    },
+    {
+      "added_at": "2026-04-16 23:00:54",
+      "album": {
         "name": "Com Quem Ser\u00e1",
         "url": "https://open.spotify.com/album/2QQnJqt5HPHWrS1PiAhZVL"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 268314,
       "name": "Com Quem Ser\u00e1",
       "url": "https://open.spotify.com/track/0tzA9PpAJrUMv1bmkTRmI7"
-    },
-    {
-      "added_at": "2026-04-16 23:00:54",
-      "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 225621,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
     },
     {
       "added_at": "2026-04-16 23:00:54",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-04-16 23:00:54",
       "album": {
-        "name": "Vida Linda",
-        "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
-      },
-      "artists": [
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 175346,
-      "name": "Vida Linda",
-      "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
-    },
-    {
-      "added_at": "2026-04-16 23:00:54",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1cCpht9GFIIXxs8eZ5nZrg"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 227843,
       "name": "S\u00f3 Sodadi",
       "url": "https://open.spotify.com/track/0DVyY8f6620VYX5lH35l9Q"
+    },
+    {
+      "added_at": "2026-04-16 23:00:54",
+      "album": {
+        "name": "Vida Linda",
+        "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
+      },
+      "artists": [
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 175346,
+      "name": "Vida Linda",
+      "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
     },
     {
       "added_at": "2026-04-16 23:00:54",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-04-16 23:00:54",
       "album": {
+        "name": "Jungle Fever",
+        "url": "https://open.spotify.com/album/4ZofQ8oaS2vhphaEJKEWdh"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "duration_ms": 195350,
+      "name": "Jungle Fever",
+      "url": "https://open.spotify.com/track/4GLJD3Rgy9Dmzy2Ies61Ca"
+    },
+    {
+      "added_at": "2026-04-16 23:00:54",
+      "album": {
         "name": "Vem Relaxar",
         "url": "https://open.spotify.com/album/4KqwpNCIeLXUIPqwa5QBVd"
       },
@@ -1199,18 +1215,34 @@
     {
       "added_at": "2026-04-16 23:00:54",
       "album": {
-        "name": "Jungle Fever",
-        "url": "https://open.spotify.com/album/4ZofQ8oaS2vhphaEJKEWdh"
+        "name": "Simbiose",
+        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
       },
       "artists": [
         {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
         }
       ],
-      "duration_ms": 195350,
-      "name": "Jungle Fever",
-      "url": "https://open.spotify.com/track/4GLJD3Rgy9Dmzy2Ies61Ca"
+      "duration_ms": 218426,
+      "name": "Simbiose",
+      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
+    },
+    {
+      "added_at": "2026-04-16 23:00:54",
+      "album": {
+        "name": "Mar\u00e9",
+        "url": "https://open.spotify.com/album/1A1JlV7ALaDEOpppBNzqGo"
+      },
+      "artists": [
+        {
+          "name": "Mr. KIZOMBA",
+          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
+        }
+      ],
+      "duration_ms": 231061,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/6r8Wp6By36CQWgnpAmwvjM"
     },
     {
       "added_at": "2026-04-16 23:00:54",
@@ -1235,38 +1267,6 @@
     {
       "added_at": "2026-04-16 23:00:54",
       "album": {
-        "name": "Mar\u00e9",
-        "url": "https://open.spotify.com/album/1A1JlV7ALaDEOpppBNzqGo"
-      },
-      "artists": [
-        {
-          "name": "Mr. KIZOMBA",
-          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
-        }
-      ],
-      "duration_ms": 231061,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/6r8Wp6By36CQWgnpAmwvjM"
-    },
-    {
-      "added_at": "2026-04-16 23:00:54",
-      "album": {
-        "name": "Simbiose",
-        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Simbiose",
-      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
-    },
-    {
-      "added_at": "2026-04-16 23:00:54",
-      "album": {
         "name": "Hey Odja",
         "url": "https://open.spotify.com/album/7HKI7EfF4p7zD5sUyfi6SU"
       },
@@ -1279,6 +1279,26 @@
       "duration_ms": 167180,
       "name": "Hey Odja",
       "url": "https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd"
+    },
+    {
+      "added_at": "2026-04-16 23:00:54",
+      "album": {
+        "name": "Dorama",
+        "url": "https://open.spotify.com/album/3ODvvShyN18tbPvBtOUOJ2"
+      },
+      "artists": [
+        {
+          "name": "12FUROS",
+          "url": "https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp"
+        },
+        {
+          "name": "Cleyton David",
+          "url": "https://open.spotify.com/artist/6SjhlmHzqfTKSChQ1k8lzq"
+        }
+      ],
+      "duration_ms": 191489,
+      "name": "Dorama",
+      "url": "https://open.spotify.com/track/3w2cKQhYkSVk6a5p2vtSZY"
     },
     {
       "added_at": "2026-04-16 23:00:54",
@@ -1339,6 +1359,22 @@
     {
       "added_at": "2026-04-16 23:00:54",
       "album": {
+        "name": "Lebam",
+        "url": "https://open.spotify.com/album/4PT2BkjO1PRu0fOThf4FCC"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 208468,
+      "name": "Lebam",
+      "url": "https://open.spotify.com/track/7523lVFOPO3JfiKX6u9ni7"
+    },
+    {
+      "added_at": "2026-04-16 23:00:54",
+      "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ"
       },
@@ -1359,22 +1395,6 @@
     {
       "added_at": "2026-04-16 23:00:54",
       "album": {
-        "name": "Lebam",
-        "url": "https://open.spotify.com/album/4PT2BkjO1PRu0fOThf4FCC"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 208468,
-      "name": "Lebam",
-      "url": "https://open.spotify.com/track/7523lVFOPO3JfiKX6u9ni7"
-    },
-    {
-      "added_at": "2026-04-16 23:00:54",
-      "album": {
         "name": "AROMA INSANO",
         "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 150000,
       "name": "AROMA INSANO",
       "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
-    },
-    {
-      "added_at": "2026-04-16 23:00:54",
-      "album": {
-        "name": "Dorama",
-        "url": "https://open.spotify.com/album/3ODvvShyN18tbPvBtOUOJ2"
-      },
-      "artists": [
-        {
-          "name": "12FUROS",
-          "url": "https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp"
-        },
-        {
-          "name": "Cleyton David",
-          "url": "https://open.spotify.com/artist/6SjhlmHzqfTKSChQ1k8lzq"
-        }
-      ],
-      "duration_ms": 191489,
-      "name": "Dorama",
-      "url": "https://open.spotify.com/track/3w2cKQhYkSVk6a5p2vtSZY"
     },
     {
       "added_at": "2026-04-16 23:00:54",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2026-04-16 23:00:54",
       "album": {
+        "name": "Viver Tudo Hoje",
+        "url": "https://open.spotify.com/album/6boYtyCptIErvbTlBAL3DC"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "duration_ms": 191080,
+      "name": "Viver Tudo Hoje",
+      "url": "https://open.spotify.com/track/2iid8EMD4EwTXe9IdjTnHj"
+    },
+    {
+      "added_at": "2026-04-16 23:00:54",
+      "album": {
         "name": "Longe Daqui",
         "url": "https://open.spotify.com/album/2lV2eLC9oG1zx36I4CO5nS"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 164636,
       "name": "The Best",
       "url": "https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww"
-    },
-    {
-      "added_at": "2026-04-16 23:00:54",
-      "album": {
-        "name": "Viver Tudo Hoje",
-        "url": "https://open.spotify.com/album/6boYtyCptIErvbTlBAL3DC"
-      },
-      "artists": [
-        {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "Viver Tudo Hoje",
-      "url": "https://open.spotify.com/track/2iid8EMD4EwTXe9IdjTnHj"
     },
     {
       "added_at": "2026-04-16 23:00:54",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2026-04-16 23:00:54",
       "album": {
-        "name": "Namorado",
-        "url": "https://open.spotify.com/album/39pBAZBtmSzLborWcGy8Pc"
-      },
-      "artists": [
-        {
-          "name": "Atim",
-          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Namorado",
-      "url": "https://open.spotify.com/track/7zCeVehMXKAOiZ0YYl0wEG"
-    },
-    {
-      "added_at": "2026-04-16 23:00:54",
-      "album": {
         "name": "Mais Nada",
         "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 176770,
       "name": "Mais Nada",
       "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
+    },
+    {
+      "added_at": "2026-04-16 23:00:54",
+      "album": {
+        "name": "Namorado",
+        "url": "https://open.spotify.com/album/39pBAZBtmSzLborWcGy8Pc"
+      },
+      "artists": [
+        {
+          "name": "Atim",
+          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Namorado",
+      "url": "https://open.spotify.com/track/7zCeVehMXKAOiZ0YYl0wEG"
     },
     {
       "added_at": "2026-04-16 23:00:54",

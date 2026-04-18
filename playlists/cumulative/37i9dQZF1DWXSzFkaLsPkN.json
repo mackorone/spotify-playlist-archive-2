@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Hindi hai, Indie hai! Cover- Tanishka Bahl\n",
+  "description": "Hindi hai, Indie hai! Cover- Garvit-Priyansh\n",
   "name": "hIndies",
   "tracks": [
     {
@@ -3762,7 +3762,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 154616,
       "name": "Maan Jao",
       "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
@@ -3890,7 +3890,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 231250,
       "name": "Marammatein",
       "url": "https://open.spotify.com/track/5IvcYdbyPCoFocOu5hoZyN"
@@ -5102,7 +5102,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 148218,
       "name": "Ratiyaan",
       "url": "https://open.spotify.com/track/6AW4SkLk5mYWpsPDz8lGXz"
@@ -6908,6 +6908,24 @@
       "duration_ms": 162352,
       "name": "yaadein",
       "url": "https://open.spotify.com/track/0VQWAQY1QD9lGP2zDBSBid"
+    },
+    {
+      "album": {
+        "name": "Ye SUBAH",
+        "url": "https://open.spotify.com/album/3uXDLXxjHTcpj48rXarsHu"
+      },
+      "artists": [
+        {
+          "name": "Sameer Rahat",
+          "url": "https://open.spotify.com/artist/0GjCAhxXdNW2Cje8YIHxp0"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229977,
+      "name": "Ye SUBAH",
+      "url": "https://open.spotify.com/track/68Kq0B0ZdM6c00puZv1HwQ"
     },
     {
       "album": {

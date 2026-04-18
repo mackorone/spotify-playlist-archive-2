@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: YUNG SAINT PAUL
 
-477 songs - 20 hr 6 min
+478 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [DNA](https://open.spotify.com/track/4TAHfvAYHPaM4Sq0ms7A67) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [DNA](https://open.spotify.com/album/3a6YVNCcOW1b44aOrm09Oh) | 1:53 | 2026-03-19 |  |
 | [Do you lie](https://open.spotify.com/track/6xLxMr7gbDdz7VWSx0IBt7) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Do you lie](https://open.spotify.com/album/7rME8YpoxJ0bpSI8r8tLWI) | 2:35 | 2024-06-28 | 2025-03-11 |
 | [Do You Love Me](https://open.spotify.com/track/3K8o02PbcMEZcBx238e1Q1) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Do You Love Me](https://open.spotify.com/album/6sOgA2ZcFdkw4wxBEYlohd) | 2:27 | 2025-01-16 | 2025-06-28 |
-| [DON JULIO](https://open.spotify.com/track/6COPeJMS0eoG89hpIqeAKZ) | [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga) | [DON JULIO](https://open.spotify.com/album/4eJJm1XGRiFkVkcxI4nkgP) | 1:53 | 2026-04-09 |  |
+| [DON JULIO](https://open.spotify.com/track/6COPeJMS0eoG89hpIqeAKZ) | [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga) | [DON JULIO](https://open.spotify.com/album/4eJJm1XGRiFkVkcxI4nkgP) | 1:53 | 2026-04-09 | 2026-04-18 |
 | [DON'T JUDGE](https://open.spotify.com/track/7esMLn3RT1WawDY4Wom7QN) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [DON'T JUDGE](https://open.spotify.com/album/5PJDbdQeBpwnDo9azB3lub) | 1:48 | 2025-08-07 |  |
 | [Drama](https://open.spotify.com/track/2Eoa4NYwOkVOc2fgOfuvb6) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Drama](https://open.spotify.com/album/1cOvy0q3RBQyHV0BGPZhE5) | 2:50 | 2025-10-23 |  |
 | [DRECKIGE DOLLARS](https://open.spotify.com/track/6GIj6hLaBpqOoMQ3F1v17x) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [LAYLA WA LAYLA](https://open.spotify.com/album/7jB1urmBEU0thqfFiPzH0H) | 2:30 | 2025-11-20 | 2026-03-31 |
@@ -246,6 +246,7 @@
 | [Like That](https://open.spotify.com/track/2rEJhTfHaRsUWwoIvRWA2m) | [Afshin Momadi](https://open.spotify.com/artist/3MhC8h0ocHe2fbl66I1pho), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Like That](https://open.spotify.com/album/22RP1h38s3HzXr9T8c7nJ8) | 3:00 | 2025-10-02 | 2026-03-22 |
 | [LIKE THAT](https://open.spotify.com/track/4DisCfHDMsNQcNvIhz1eGT) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [KILL BILLS](https://open.spotify.com/album/7mZBSZP0SsGUwMtyRRZUQy) | 2:10 | 2026-02-09 | 2026-04-14 |
 | [Limousine](https://open.spotify.com/track/7rgueODA0VdgShneWKwPGp) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Limousine](https://open.spotify.com/album/4eHMYdfTl6Mkr3m0Yd2S12) | 2:50 | 2024-10-10 | 2025-11-04 |
+| [LOEWE](https://open.spotify.com/track/346KKbkVI1LNqhRYD1TKX1) | [Atay](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [GLOBALPLAYER](https://open.spotify.com/album/0xWcT4LMS16Dk4hiZJSbXV) | 2:31 | 2026-04-09 |  |
 | [Loft](https://open.spotify.com/track/14HEqZhk0BMLIU2QDSIghO) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Loft](https://open.spotify.com/album/0i87yB6MPpSHgVQCBg1r3i) | 2:12 | 2026-01-29 | 2026-03-20 |
 | [Loro Piana](https://open.spotify.com/track/6XR0CCEIctAL3v6sj7XnRr) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Finessim](https://open.spotify.com/artist/48MK5SlYzMfHwMaBbEoSLs) | [Loro Piana](https://open.spotify.com/album/6oA9EjtMwjat0Y2bCW75ZU) | 2:31 | 2025-02-24 | 2025-02-28 |
 | [LOVE & DRAMA](https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [LOVE & DRAMA](https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR) | 2:30 | 2025-06-19 | 2025-12-25 |

@@ -4,7 +4,7 @@
 
 > New music from Camille Yembe, The Strokes, Lady Gaga x Doechii, Gradur x Ninho and more...
 
-9,240 songs - 20 day 6 hr 29 min
+9,241 songs - 20 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2258,6 +2258,7 @@
 | [DRONKEN NUCHTER](https://open.spotify.com/track/4yp7bk55zmNQqGhu5bemYX) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2) | [DRONKEN NUCHTER](https://open.spotify.com/album/5z9JBTaVLzzGjFNIuwQcOw) | 3:12 | 2025-02-21 | 2025-02-28 |
 | [Droom](https://open.spotify.com/track/2x3z0qhhxZivQyM1usLnKb) | [Jasmine Pace](https://open.spotify.com/artist/2URbjDB65sEN3MPX3e5tCy) | [Droom](https://open.spotify.com/album/4RD1MY6rZiar2oaZl0k8N9) | 2:04 | 2024-06-27 | 2024-07-05 |
 | [Droom Jij Over Mij Vannacht](https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Droom Jij Over Mij Vannacht](https://open.spotify.com/album/7F3QzxZYm1dXmhjHctzsDy) | 3:10 | 2026-01-09 | 2026-01-16 |
+| [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-16 |  |
 | [Drop Dead Gorgeous](https://open.spotify.com/track/2x9Fy0DVFyuIHGodTETDnt) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Drop Dead Gorgeous](https://open.spotify.com/album/6GngxqHldEck7q9yLXD323) | 3:07 | 2025-06-26 | 2025-07-04 |
 | [Drop You Off](https://open.spotify.com/track/6Mb3wjY1ZENBUlsTPgAUTR) | [TMRV](https://open.spotify.com/artist/3qiWD6nAST3lX4h8UihJis) | [Drop You Off](https://open.spotify.com/album/22jok7xF2w0yZZ4G7u0MK5) | 2:27 | 2024-06-27 | 2024-07-05 |
 | [Dropship](https://open.spotify.com/track/2kQZRtNoB50YDrzOE6UtE3) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Dropship](https://open.spotify.com/album/0pRxKtug8I1s3N9JEhXhAb) | 2:22 | 2026-01-15 | 2026-01-23 |
@@ -2910,7 +2911,7 @@
 | [Gentil Garçon](https://open.spotify.com/track/7DM7DHed6lj67JC08Gg5xp) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Gentil Garçon](https://open.spotify.com/album/4ivStYmGyNsbAC8ysETIwN) | 3:24 | 2025-02-21 | 2025-02-28 |
 | [Gentil Garçon](https://open.spotify.com/track/779X2To8tshL23sIxF2hTn) | [Lucho](https://open.spotify.com/artist/6UrdOTMGMI7RRwRg9ChZPj) | [Gentil Garçon](https://open.spotify.com/album/1tCl4HABfmVO8B2KmuibXH) | 3:14 | 2025-06-19 | 2025-06-27 |
 | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h) | 2:48 | 2024-12-05 | 2024-12-13 |
-| [GEPETO](https://open.spotify.com/track/3Wa5JhMz7omPtv9jUPPjNH) | [KLM](https://open.spotify.com/artist/51IIEUubMmZPCLqgGCSvgn) | [GEPETO](https://open.spotify.com/album/7nlxJzhMMqsb2F7ppj9ssK) | 2:28 | 2026-04-16 |  |
+| [GEPPETTO](https://open.spotify.com/track/3Wa5JhMz7omPtv9jUPPjNH) | [KLM](https://open.spotify.com/artist/51IIEUubMmZPCLqgGCSvgn) | [GEPPETTO](https://open.spotify.com/album/7nlxJzhMMqsb2F7ppj9ssK) | 2:28 | 2026-04-16 |  |
 | [Geronimo](https://open.spotify.com/track/0IED4CdTIqrQLwnTVxbkru) | [Triggerfinger](https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU) | [Geronimo](https://open.spotify.com/album/1ief5cEoESctgn0SM1feHg) | 2:11 | 2026-04-16 |  |
 | [Gesmolten Banden](https://open.spotify.com/track/7xViYpmwmp5ANjnhcqr0MA) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Gesmolten Banden](https://open.spotify.com/album/03BdOB0cA58fusBW36xUVr) | 3:16 | 2024-10-17 | 2024-10-25 |
 | [GET A LIFE](https://open.spotify.com/track/6KIfZ7RLsk56k7cWw8n1VT) | [BERRY](https://open.spotify.com/artist/3RuAALNnsSot5b2MIT7sf6), [Louw](https://open.spotify.com/artist/3f0QdxIYp3y3QwtxXH0Cxs) | [GET A LIFE](https://open.spotify.com/album/3eh5dToRtbbnyxtCUm5xkZ) | 4:35 | 2025-01-09 | 2025-01-17 |
@@ -7677,6 +7678,7 @@
 | [Tafel Voor 2](https://open.spotify.com/track/68xWjy9I9MvZydX02I5OAH) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Tafel Voor 2](https://open.spotify.com/album/3KZ7sUm5SAEV7TaSuQ7PPA) | 3:15 | 2025-09-19 | 2025-09-26 |
 | [Tagada](https://open.spotify.com/track/6I89r41HpPP0iGv8oDjEgX) | [Kipili](https://open.spotify.com/artist/6xZr3qhSDTiUTuYt49khaJ) | [Tagada](https://open.spotify.com/album/0Nw9iYkJI1Vtmu9ut1Asz4) | 2:36 | 2024-07-19 | 2024-07-27 |
 | [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 | 2025-12-11 | 2025-12-19 |
+| [taille mannequin](https://open.spotify.com/track/50MHFINeWYGYiWugL7JVuY) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [63PROBLÈMES](https://open.spotify.com/album/1MamPjKmVMCx46H4zKgjS5) | 2:43 | 2026-04-16 |  |
 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 | 2024-08-29 | 2024-09-06 |
 | [Tais\-toi](https://open.spotify.com/track/3LwfbyO75PgkZ0xWE1vSZD) | [VONFELT](https://open.spotify.com/artist/6A93vsKzaeq6m03BwAkTAU) | [Tais\-toi](https://open.spotify.com/album/4N0BiJFSutaAq66ZbNDJva) | 2:32 | 2026-04-16 |  |
 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-05-09 | 2024-05-17 |
@@ -8255,7 +8257,6 @@
 | [TP sur TP](https://open.spotify.com/track/5pEftKLE1dyuOLTewNQZeX) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 3:06 | 2025-12-04 | 2025-12-12 |
 | [Traagskes Groeien](https://open.spotify.com/track/7x56DylaWz5SsQ1yPhO0wL) | [Het Zesde Metaal](https://open.spotify.com/artist/0BqOXpkslA5Kxud9UXi2yG) | [Traagskes Groeien](https://open.spotify.com/album/5zmGVGCKsfZtz2lbhd888A) | 3:58 | 2025-09-04 | 2025-09-12 |
 | [Traces](https://open.spotify.com/track/2ovgJSq4o0pLynO6y7kJUj) | [Cellini](https://open.spotify.com/artist/5wFiSr66v5LC5Lt8MF06n3), [AMOS](https://open.spotify.com/artist/4YznhYq21QSUGqRPLhhrRW) | [Traces](https://open.spotify.com/album/7cR6i3wtHh9xIuLO2qLTy9) | 3:28 | 2025-01-16 | 2025-01-24 |
-| [Track 9](https://open.spotify.com/track/50MHFINeWYGYiWugL7JVuY) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [63PROBLÈMES](https://open.spotify.com/album/1MamPjKmVMCx46H4zKgjS5) | 0:00 | 2026-04-16 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [Traffic Jam](https://open.spotify.com/track/24E5e3sqJ3vh9U3faTbawa) | [5NAPBACK](https://open.spotify.com/artist/0ERCrnTOTP6m7KbCLTliEj), [Holliz](https://open.spotify.com/artist/1GcM7yt6bCkRdj82FxVY45) | [Traffic Jam](https://open.spotify.com/album/09NpsaHGa405WL7ZObWDeA) | 3:02 | 2025-04-24 | 2025-05-02 |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-11 | 2024-07-19 |

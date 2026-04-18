@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 81063,
+  "num_followers": 81072,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad7VAAAAAAArXBnfFQrwOP2zVRES8XHG",
+  "snapshot_id": "aeAmgAAAAADvJCYe3d8hjdVFf15Rr1vm",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gospel Oak",
-        "url": "https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "He Moved Through the Fair",
-      "url": "https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith and Courage",
         "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 181186,
       "name": "No Man's Woman",
       "url": "https://open.spotify.com/track/0xsfUIVCZLR12cNsjvDqeB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gospel Oak",
+        "url": "https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "He Moved Through the Fair",
+      "url": "https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Am I Not Your Girl?",
-        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 150400,
-      "name": "Why Don't You Do Right",
-      "url": "https://open.spotify.com/track/2EMPJ6nGifr0TUGm2FFzCZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith and Courage",
         "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
       },
@@ -679,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+        "name": "Am I Not Your Girl?",
+        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
       },
       "artists": [
         {
@@ -688,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 332226,
-      "name": "John I Love You",
-      "url": "https://open.spotify.com/track/3eMc70GKuvKw1asbNv0paq"
+      "duration_ms": 150400,
+      "name": "Why Don't You Do Right",
+      "url": "https://open.spotify.com/track/2EMPJ6nGifr0TUGm2FFzCZ"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
       "duration_ms": 181280,
       "name": "Take Me to Church",
       "url": "https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 332226,
+      "name": "John I Love You",
+      "url": "https://open.spotify.com/track/3eMc70GKuvKw1asbNv0paq"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Scorn Not His Simplicity",
-      "url": "https://open.spotify.com/track/3t9k5C5AO49ca0IqBWj26y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
         "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 206880,
       "name": "8 Good Reasons",
       "url": "https://open.spotify.com/track/1rR5AIcFxtDFTfXIdHU7FN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 266640,
+      "name": "Scorn Not His Simplicity",
+      "url": "https://open.spotify.com/track/3t9k5C5AO49ca0IqBWj26y"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 367973,
-      "name": "'Til I Whisper U Something",
-      "url": "https://open.spotify.com/track/3fythc7lktmU8X0mHNC61K"
+      "duration_ms": 179266,
+      "name": "Daddy I'm Fine",
+      "url": "https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c"
     },
     {
       "added_at": null,
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 179266,
-      "name": "Daddy I'm Fine",
-      "url": "https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c"
+      "duration_ms": 367973,
+      "name": "'Til I Whisper U Something",
+      "url": "https://open.spotify.com/track/3fythc7lktmU8X0mHNC61K"
     }
   ],
   "unique_name": "This Is Sin\u00e9ad O'Connor",

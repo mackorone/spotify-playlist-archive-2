@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain]
 
 > Geniett van het zonnetje met deze lijst vol lente vibes! Met muziek van Olivia Dean,, Sam Fender , Niall Horan en meer...
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 128,101 likes - 93 songs - 5 hr 15 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 128,088 likes - 93 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

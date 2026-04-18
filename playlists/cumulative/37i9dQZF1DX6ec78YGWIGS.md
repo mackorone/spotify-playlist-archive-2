@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Juliana Gattas & Juana Rozas
 
-504 songs - 1 day 1 hr 0 min
+505 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Corre el Sudor](https://open.spotify.com/track/6eGBagVmhKpSE1LHlVmviB) | [Joelle Levy](https://open.spotify.com/artist/3PDji1lPMrS6awaEbXwa45) | [IKIGAI](https://open.spotify.com/album/0DBWop4JyhOTYP8QiedbDj) | 3:29 | 2024-04-19 | 2024-06-15 |
 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 | 2024-01-12 |  |
 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 | 2025-07-25 |  |
+| [crazy dance](https://open.spotify.com/track/6w9RN1SWsNEuCvG8HrA3SS) | [soffyy](https://open.spotify.com/artist/2mX8G9cpmx2u2EqorBZtDr) | [crazy dance](https://open.spotify.com/album/04wM2pMxP5MDXHmEXbQuLY) | 2:39 | 2026-04-17 |  |
 | [Crimen](https://open.spotify.com/track/7siEBBuqbnAsWx54YRD6sx) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [Crimen](https://open.spotify.com/album/60fSjEV31g6aydYD0QffR8) | 3:05 | 2026-02-06 |  |
 | [CRINGE](https://open.spotify.com/track/1QO0w1DZXOitOEg9PvOTHC) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [CRINGE](https://open.spotify.com/album/669qUaCZ3bB9CvONV51c9Q) | 3:27 | 2024-10-25 | 2024-11-16 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-08-25 | 2023-11-11 |

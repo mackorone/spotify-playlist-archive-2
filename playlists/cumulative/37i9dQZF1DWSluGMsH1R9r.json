@@ -6523,6 +6523,24 @@
     },
     {
       "album": {
+        "name": "Like a Dream",
+        "url": "https://open.spotify.com/album/4bvw9de6mvNCueOVNTCBW3"
+      },
+      "artists": [
+        {
+          "name": "Matthew L. Fisher",
+          "url": "https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151022,
+      "name": "Like a Dream",
+      "url": "https://open.spotify.com/track/6j9H5WUKc31Uwt6jgtGMhG"
+    },
+    {
+      "album": {
         "name": "Lilie",
         "url": "https://open.spotify.com/album/4Zc5Fqe2njYIyd4pghA7Is"
       },

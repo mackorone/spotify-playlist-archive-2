@@ -4,7 +4,7 @@
 
 > <a href="http://www.mappa.co.jp/">MAPPA</a>が紡いできたアニメーションの世界を音楽で辿るプレイリスト。心に残る名曲たちを集めました。<br/>A playlist that traces the animated worlds created by <a href="http://www.mappa.co.jp/">MAPPA</a> through music, featuring a collection of memorable songs that remain in the heart\. © 2025 MAPPA／チェンソーマンプロジェクト ©藤本タツキ／集英社
 
-261 songs - 16 hr 47 min
+263 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [RED](https://open.spotify.com/track/5pz5S3ZqMPnd8or4IGUVho) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [RED](https://open.spotify.com/album/6KSLhFX1SGxWhI9q2vD6Bg) | 4:13 | 2022-05-10 |  |
 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2023-01-17 | 2024-04-19 |
 | [Respect](https://open.spotify.com/track/2oTG8Q2sfX9YFo8rBniHAL) | [with\(cv.八島さらら、渕上舞\)](https://open.spotify.com/artist/0Br5envwtW1V44ZOhsAT25) | [Respect\(TVアニメ『アイドル事変』エンディングテーマ\)](https://open.spotify.com/album/1JeEBEPjp9IXR5CDtzZLWE) | 4:03 | 2022-05-10 |  |
+| [Return トゥ 頭](https://open.spotify.com/track/27GZy8naxF3JFIXo2bQzYb) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [アニメ「ドロヘドロ」Season2 オープニング&エンディングテーマ](https://open.spotify.com/album/3IfSy6VxBJ3ww0ksWiHsUU) | 3:43 | 2026-04-17 |  |
 | [ride the storm](https://open.spotify.com/track/5MtRpJenv27BM1q3GmzKd7) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 1:57 | 2025-09-18 |  |
 | [River](https://open.spotify.com/track/1kPoNSnxGFq5UZbGyNymsK) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [River](https://open.spotify.com/album/5sCPmMx3ctNJX7D68kY3A4) | 3:17 | 2025-09-18 |  |
 | [River](https://open.spotify.com/track/0BnZkjhy6D3e93pkhnn0KK) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [River](https://open.spotify.com/album/7Gy7omqC8rjuXKjVyZeTUU) | 3:18 | 2023-04-25 | 2025-09-19 |
@@ -175,6 +176,7 @@
 | [ジェーンは教会で眠った](https://open.spotify.com/track/5jvfHk3Uqxb2HVo4M4bAGp) | [レゼ（上田麗奈）](https://open.spotify.com/artist/2AaLPKr9ixiqGNlK07WoJ9) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/12QAC47UeSL5kHYu0g7wX3) | 1:23 | 2025-11-04 |  |
 | [スタンドバイミー](https://open.spotify.com/track/053ydqZPlzfOkFsRmY8SNL) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [スタンドバイミー](https://open.spotify.com/album/6vU96iKokwWo07rK08BoNm) | 4:37 | 2022-05-10 | 2025-09-19 |
 | [スタンドバイミー](https://open.spotify.com/track/3uc67Ss8Bs8d061kQTsgD2) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 4:38 | 2025-09-18 |  |
+| [ゼッタイMUST断面](https://open.spotify.com/track/1KAHCRJsVxE4Cd20bfsA2e) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [アニメ「ドロヘドロ」Season2 オープニング&エンディングテーマ](https://open.spotify.com/album/3IfSy6VxBJ3ww0ksWiHsUU) | 3:38 | 2026-04-17 |  |
 | [ソフィア](https://open.spotify.com/track/6K5ylsLGN10jFejzBAXO4M) | [奥井雅美](https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU) | [ソフィア](https://open.spotify.com/album/1nVzjlOmf3MAFtwpcfK9uV) | 5:31 | 2022-05-10 |  |
 | [タクト](https://open.spotify.com/track/7vFsMU7BORCrf7tZ4oTxlV) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [タクト](https://open.spotify.com/album/00njLWkhVD4MUlLkzoj4HX) | 3:57 | 2022-05-10 |  |
 | [ナナツイロ REALiZE](https://open.spotify.com/track/54IcYBsKHecx4MgZyqF8TB) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [ナナツイロ REALiZE](https://open.spotify.com/album/6Gae1e4UtFVseYUcDkGNeH) | 4:48 | 2022-05-10 | 2025-09-19 |

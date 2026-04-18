@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 75545,
       "name": "Hickory Dickory Dock",
       "url": "https://open.spotify.com/track/7BDAPOsAOTpD7lRYTGTcMu"
@@ -1738,6 +1738,24 @@
       "duration_ms": 75545,
       "name": "Hickory Dickory Dock - (Sheep)",
       "url": "https://open.spotify.com/track/24g8whAHKPcifxXAmFZSGU"
+    },
+    {
+      "album": {
+        "name": "Hickory Dickory Dock (The Mouse Ran Up The Clock)",
+        "url": "https://open.spotify.com/album/2RUDGkwspVoqqyxQnSXRtL"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104402,
+      "name": "Hickory Dickory Dock - The Mouse Ran Up The Clock",
+      "url": "https://open.spotify.com/track/0QPMxGZdm88jIjcCsHX7S4"
     },
     {
       "album": {

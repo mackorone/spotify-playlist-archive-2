@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 8715,
+  "num_followers": 8712,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "AAAGFXvo4FjUkaQKJr1C8Y1Hmsyhje1Q",
+  "snapshot_id": "AAAGGC+6Rx6ZmM7Bduah3j5jEINzdsby",
   "tracks": [
     {
       "added_at": "2025-02-09 18:37:35",
@@ -207,6 +207,22 @@
       "duration_ms": 148622,
       "name": "My Girl - Acoustic",
       "url": "https://open.spotify.com/track/529g1MsXGKd0vw7YtG4igP"
+    },
+    {
+      "added_at": "2026-04-17 18:54:48",
+      "album": {
+        "name": "Is This Love",
+        "url": "https://open.spotify.com/album/1vVTVWhbHYANSpm5c9im74"
+      },
+      "artists": [
+        {
+          "name": "Richard Watts",
+          "url": "https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI"
+        }
+      ],
+      "duration_ms": 171914,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/2sdG8ZtBKElSwKyy93r6q3"
     },
     {
       "added_at": "2025-02-09 18:37:35",
@@ -1241,22 +1257,6 @@
       "url": "https://open.spotify.com/track/3ZTCvMqkW3Hqxap4dqTTpR"
     },
     {
-      "added_at": "2025-05-31 06:02:29",
-      "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/1Bk8Z6dsSdL0KNBQCo4xtd"
-      },
-      "artists": [
-        {
-          "name": "Richard Watts",
-          "url": "https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI"
-        }
-      ],
-      "duration_ms": 189782,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/31Ctlmul6mkj9MYrLwKuMU"
-    },
-    {
       "added_at": "2025-02-09 18:37:35",
       "album": {
         "name": "Thinking of You (Acoustic)",
@@ -2111,22 +2111,6 @@
       "duration_ms": 209680,
       "name": "1973 - Acoustic",
       "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
-    },
-    {
-      "added_at": "2025-02-09 18:37:35",
-      "album": {
-        "name": "Dignity (Acoustic)",
-        "url": "https://open.spotify.com/album/79Dxyo0UTmGpOn14wgQWDM"
-      },
-      "artists": [
-        {
-          "name": "Richard Watts",
-          "url": "https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI"
-        }
-      ],
-      "duration_ms": 173502,
-      "name": "Dignity - Acoustic",
-      "url": "https://open.spotify.com/track/6WaOpI5POr5KaIFiOTIb1E"
     },
     {
       "added_at": "2025-02-09 18:37:35",

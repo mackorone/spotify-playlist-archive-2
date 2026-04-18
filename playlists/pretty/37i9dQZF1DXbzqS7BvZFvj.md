@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: DJ Khaled, Lil Baby, Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,899 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,904 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 79 | [FLIP PHONE ANTHEM](https://open.spotify.com/track/3vuHCqpCm8hOpxWxAahuck) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [FLIP PHONE SHORTY \- STRICTLY FOR DA STREETZ VOL\. 1](https://open.spotify.com/album/0zg1LBiJQ2X8MHdaVqjKUw) | 3:05 |
 | 80 | [THE ONE \(FEAT\. PHARRELL WILLIAMS\)](https://open.spotify.com/track/0FhJlX7tfC1FPkRxu5vaPa) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [THE ONE \(FEAT\. PHARRELL WILLIAMS\)](https://open.spotify.com/album/5tV2bocoFi3meMBfiK2JjU) | 3:06 |
 
-Snapshot ID: `AAAAAC0zoYXrIP1ipMn/yAqM5zXpW5Ar`
+Snapshot ID: `AAAAAN6VubYMo5xt+VEl7FL8L0fA2JSs`

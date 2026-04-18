@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 197430,
+  "num_followers": 197442,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad7VAAAAAAAbFIncu/uhTn7OoPZHJkDY",
+  "snapshot_id": "aeAmgAAAAACsT4HgKNqtXCRKMQXV+5nZ",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,34 @@
       "duration_ms": 182098,
       "name": "Bye and Bye - Remastered 2026 in Super Stereo",
       "url": "https://open.spotify.com/track/0MaUBdI0G7xuA6AWHGXGA7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Early in the Morning (Remastered 2026 in Super Stereo by Good Gold Records)",
+        "url": "https://open.spotify.com/album/2GMIQdJjHp5qGQ0ZqPb1OX"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet",
+          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Virginia Liston",
+          "url": "https://open.spotify.com/artist/1Fl6swWf1Dh2YkRENDIbzS"
+        },
+        {
+          "name": "Clarence Williams",
+          "url": "https://open.spotify.com/artist/5zjKpiCCiuKiT6uhSt7aFe"
+        }
+      ],
+      "duration_ms": 177663,
+      "name": "Early in the Morning - Remastered 2026 in Super Stereo by Good Gold Records",
+      "url": "https://open.spotify.com/track/5oddpAKoRL7SiFmaVW2WLN"
     },
     {
       "added_at": null,
@@ -368,9 +396,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 227493,
-      "name": "Can't We Be Friends?",
-      "url": "https://open.spotify.com/track/22MsyWQ5WFGv8GXP7qmzDP"
+      "duration_ms": 214226,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/1ZWb3KgGTyoSdM6Qm85OXH"
     },
     {
       "added_at": null,
@@ -444,9 +472,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 214226,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/1ZWb3KgGTyoSdM6Qm85OXH"
+      "duration_ms": 227493,
+      "name": "Can't We Be Friends?",
+      "url": "https://open.spotify.com/track/22MsyWQ5WFGv8GXP7qmzDP"
     },
     {
       "added_at": null,
@@ -943,22 +971,6 @@
       "duration_ms": 240040,
       "name": "Mood Indigo",
       "url": "https://open.spotify.com/track/1EzGtQRzHlP3xNvzNalgvZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "Cabaret - Single Version",
-      "url": "https://open.spotify.com/track/77LwwnpmNJ4mU1yEzK0pf8"
     }
   ],
   "unique_name": "This Is Louis Armstrong",

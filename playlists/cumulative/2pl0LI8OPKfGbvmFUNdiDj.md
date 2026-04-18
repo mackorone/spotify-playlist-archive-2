@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-422 songs - 23 hr 41 min
+425 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Losing All My Senses](https://open.spotify.com/track/3XZT1Xe9iAHwkU2hvchzv4) | [Gericco](https://open.spotify.com/artist/56qTnVEv3HPAWHgLjuh5Zw) | [Losing All My Senses](https://open.spotify.com/album/3OelNmOoDQPiZyat8Z5r91) | 3:22 | 2026-02-08 |  |
 | [Lost](https://open.spotify.com/track/5G2aNaByrXIR2SAr9ygbqx) | [Invaded](https://open.spotify.com/artist/1whGtC6fzcGMhkiF11AZ3s) | [Here Comes Trouble](https://open.spotify.com/album/6pNN8p0nL0MNi04tVwlt02) | 4:23 | 2025-11-08 | 2025-12-01 |
 | [Lost + Found](https://open.spotify.com/track/2OrVAOG4dUYzb2HAriK43q) | [Malsi](https://open.spotify.com/artist/5OoYbo66Y6ME5Wz2kfTLQe), [Skywalker Mike](https://open.spotify.com/artist/5t91fvC2sZ5WMhTneQeL6d) | [Lost + Found](https://open.spotify.com/album/0nKs9UfLIZwZ6I0caTK8hV) | 3:25 | 2025-11-30 | 2026-01-05 |
+| [Love \- Acoustic](https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Xellay Acoustic](https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX) | 3:31 | 2026-04-17 |  |
 | [Love in Philadelphia](https://open.spotify.com/track/4Nw4x3rAc0BVbvf1pp2f2L) | [Adrap](https://open.spotify.com/artist/4fJb2mig8YyyhwPC4JgIXI) | [Collage](https://open.spotify.com/album/78iXBQSLQd5SnSts47tzAI) | 1:26 | 2025-11-10 | 2025-12-01 |
 | [Love is](https://open.spotify.com/track/47fnHzZbyVzoun68XD6ZV0) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Love is](https://open.spotify.com/album/7xboQruZ4Wj5ypbkTR3ZQT) | 2:24 | 2025-11-11 | 2025-12-01 |
 | [Love Tonight](https://open.spotify.com/track/24LroYc70p1LPRPopx3aHE) | [NVRLOST](https://open.spotify.com/artist/0yYG6VreNZ9fejgZJ6E4mp) | [Love Tonight](https://open.spotify.com/album/6qJheHApTmfSSEZll1zYiC) | 3:25 | 2025-11-17 | 2026-01-05 |
@@ -258,6 +259,7 @@
 | [Mission](https://open.spotify.com/track/1UdxSFCeCAoKrJ98280uma) | [Splitter Conspiracy](https://open.spotify.com/artist/3T5vCxy2jbplejVTDdZOa7) | [Mission](https://open.spotify.com/album/3Y6juPYnLL22IzGOUgUGPh) | 3:03 | 2026-01-18 | 2026-02-21 |
 | [Month of Sundays](https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Month of Sundays](https://open.spotify.com/album/2aJDiRQCdqr0P7ZDjuPS55) | 3:57 | 2025-11-01 | 2025-12-01 |
 | [MORE](https://open.spotify.com/track/7b67qEURJqOSa37ZLTga6a) | [Poppa Wafer](https://open.spotify.com/artist/6pdp6ZiucSXbdIF3Uu7kRU) | [Righteous Revelation 4](https://open.spotify.com/album/3H9OZxrzKPQ0jpNAphEdRB) | 2:10 | 2025-11-24 | 2026-01-05 |
+| [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 | 2026-04-17 |  |
 | [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 | 2026-01-01 | 2026-01-25 |
 | [My Gs](https://open.spotify.com/track/50yx93SX2bty8HVLCeCqSS) | [AME LDN](https://open.spotify.com/artist/2vIktnk8ayfNgBq1dhU4ZD) | [My Gs](https://open.spotify.com/album/5zEXp03VqQXy0TCvwnCS6U) | 2:30 | 2025-11-10 | 2025-12-01 |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-28 | 2026-03-03 |
@@ -341,6 +343,7 @@
 | [Stereo Romance](https://open.spotify.com/track/1V9vDOFT9l98U0hYW0zq2B) | [Penny Deluxe](https://open.spotify.com/artist/4IqTVknJLCF3Z1gjDPKe2t) | [Stereo Romance](https://open.spotify.com/album/4aj1EEu1FouN8DkCQixHLH) | 4:00 | 2025-11-24 | 2026-01-05 |
 | [Strikes and Gutters](https://open.spotify.com/track/246n8eYDfouFsf2wlQtmak) | [The Vinyl Grace](https://open.spotify.com/artist/26m7m0souJ0eZNP9LOrSIr) | [Strikes and Gutters](https://open.spotify.com/album/1GKaKdKf6ZPMuHJMXZ933R) | 5:32 | 2025-11-08 | 2025-12-01 |
 | [Stuck On You](https://open.spotify.com/track/6lrSKUxM1wZaONPYU4qwWf) | [Edwin Watson](https://open.spotify.com/artist/68laXP2B5cpq7uJmP1jBS2) | [Stuck On You](https://open.spotify.com/album/03KUtQ2bJt9DYNbrTmyiDf) | 3:12 | 2025-11-08 | 2025-12-01 |
+| [Suerte](https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M) | [Los de Marte](https://open.spotify.com/artist/3IswqnIMsJKqBzGplTP91r) | [Suerte](https://open.spotify.com/album/0BX5xTASG4jk84rbv4Y1Pr) | 2:47 | 2026-04-17 |  |
 | [Sunburned In Scotland](https://open.spotify.com/track/2gVum3evW4JCKUUh7udCvd) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Sunburned In Scotland](https://open.spotify.com/album/54I0EcPsLP0o51GZpHYeTQ) | 2:53 | 2025-11-03 | 2025-12-01 |
 | [Superstar](https://open.spotify.com/track/7KeNKunMRtD0kLDr0NpjDg) | [Valarie Hill](https://open.spotify.com/artist/5rPY7Ifiv1oaetOtv3vjid) | [Superstar](https://open.spotify.com/album/2gDQ8TbmYKJSnERvC8BMx0) | 2:30 | 2025-11-01 | 2025-12-01 |
 | [Supporting Character](https://open.spotify.com/track/1vjwH3e6jYKecVfZhJ1c6V) | [TJ Juganas](https://open.spotify.com/artist/77DKnEff4JNbAbkDqb61re) | [Supporting Character](https://open.spotify.com/album/7mvQ18bOXnbwaeFz7bIzHg) | 3:49 | 2025-12-23 | 2026-01-15 |

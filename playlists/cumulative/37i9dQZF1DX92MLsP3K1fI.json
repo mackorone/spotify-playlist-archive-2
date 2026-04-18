@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "506",
+        "url": "https://open.spotify.com/album/5ASdpOXl603vvumoB51dMl"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135461,
+      "name": "506",
+      "url": "https://open.spotify.com/track/5RtMi0Dq42mU68Bz7NmqFx"
+    },
+    {
+      "album": {
         "name": "\u00bfpor qu\u00e9 corres? ya estamos ah\u00ed",
         "url": "https://open.spotify.com/album/73ab54wJUkMBlbJNJVDyiE"
       },
@@ -366,7 +384,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 174460,
       "name": "a la mitad",
       "url": "https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby"
@@ -781,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Angustia Existencial",
+        "url": "https://open.spotify.com/album/2V8AN2FpYqueiuvPHC6Buw"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Angustia Existencial",
+      "url": "https://open.spotify.com/track/6yFWnK67fl1pRxB9ne24lu"
+    },
+    {
+      "album": {
         "name": "A partir de aqu\u00ed",
         "url": "https://open.spotify.com/album/4iytMhdI6Djd9wBWoCqlf3"
       },
@@ -1122,7 +1158,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 194565,
       "name": "bachata m\u00eda",
       "url": "https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW"
@@ -2420,7 +2456,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 171081,
       "name": "comovuelo!",
       "url": "https://open.spotify.com/track/6RNBad0IoUttcCdz94yQPb"
@@ -5071,6 +5107,28 @@
     },
     {
       "album": {
+        "name": "Gui\u00f1o Gui\u00f1o",
+        "url": "https://open.spotify.com/album/0iRbsjP7p4EtdUyfYMxu5O"
+      },
+      "artists": [
+        {
+          "name": "Las Alucines",
+          "url": "https://open.spotify.com/artist/1bP3HDPA5fjo45A3AUwX8M"
+        },
+        {
+          "name": "Daniela Rodrice",
+          "url": "https://open.spotify.com/artist/56jP9Fhdpiyxk0TKlx9w34"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95398,
+      "name": "Gui\u00f1o Gui\u00f1o",
+      "url": "https://open.spotify.com/track/0vSnh9kyamcH5fOXIA4gTz"
+    },
+    {
+      "album": {
         "name": "HAPPY-SAD",
         "url": "https://open.spotify.com/album/4tuLATxI7pPpORhkUamSxE"
       },
@@ -5674,6 +5732,24 @@
       "duration_ms": 220361,
       "name": "KIZAO",
       "url": "https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB"
+    },
+    {
+      "album": {
+        "name": "KORA KORA",
+        "url": "https://open.spotify.com/album/2GeUPUMOXzVd9DrnoENWx2"
+      },
+      "artists": [
+        {
+          "name": "cKovi",
+          "url": "https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131367,
+      "name": "KORA KORA",
+      "url": "https://open.spotify.com/track/6ndpaM4u9dss1lpC7RX92X"
     },
     {
       "album": {
@@ -6338,7 +6414,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 164000,
       "name": "lovebombing?",
       "url": "https://open.spotify.com/track/6m9e1J4922x6mLh2ihTKEi"

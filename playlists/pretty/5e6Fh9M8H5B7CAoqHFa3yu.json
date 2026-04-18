@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJO6xxgGfj2rxPWA4yRTn+YQoU1W20",
+  "snapshot_id": "AAAJQO7oZftbqAiAGpxd3cQyAWm7fV76",
   "tracks": [
     {
       "added_at": "2026-04-13 10:40:02",
@@ -37314,6 +37314,10 @@
         {
           "name": "Prova MI",
           "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        },
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
         }
       ],
       "duration_ms": 133652,
@@ -37367,6 +37371,118 @@
       "duration_ms": 169090,
       "name": "Golden Summer Wave",
       "url": "https://open.spotify.com/track/70GJMcoOV4yA1uJ5AVqaAS"
+    },
+    {
+      "added_at": "2026-04-17 08:51:51",
+      "album": {
+        "name": "Rainbow Days",
+        "url": "https://open.spotify.com/album/4w4CrM6m5pVOnjErV8ock0"
+      },
+      "artists": [
+        {
+          "name": "Helen Keeling-Marston",
+          "url": "https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP"
+        }
+      ],
+      "duration_ms": 174778,
+      "name": "Rainbow Days",
+      "url": "https://open.spotify.com/track/6LXfw9mlFx4WsqjLAR9KgI"
+    },
+    {
+      "added_at": "2026-04-17 08:53:23",
+      "album": {
+        "name": "Sea Dreaming",
+        "url": "https://open.spotify.com/album/5elhRpQ4aCGu88uYStaM4j"
+      },
+      "artists": [
+        {
+          "name": "Hellykom",
+          "url": "https://open.spotify.com/artist/4TNnchYcTeKxyA5bbhdVsS"
+        }
+      ],
+      "duration_ms": 166129,
+      "name": "Sea Dreaming",
+      "url": "https://open.spotify.com/track/2IiKYrxcrMeDG2ulnTOAko"
+    },
+    {
+      "added_at": "2026-04-17 14:25:22",
+      "album": {
+        "name": "Double Pulse",
+        "url": "https://open.spotify.com/album/0PhwvUsBX486IZqMkZhePp"
+      },
+      "artists": [
+        {
+          "name": "Elastica Dub",
+          "url": "https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW"
+        },
+        {
+          "name": "Gabriel Blue",
+          "url": "https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ"
+        }
+      ],
+      "duration_ms": 259862,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/0cI1WIlj0gvI5n0Fge2DJk"
+    },
+    {
+      "added_at": "2026-04-17 14:25:22",
+      "album": {
+        "name": "Double Pulse",
+        "url": "https://open.spotify.com/album/0PhwvUsBX486IZqMkZhePp"
+      },
+      "artists": [
+        {
+          "name": "Elastica Dub",
+          "url": "https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW"
+        },
+        {
+          "name": "Stroboman",
+          "url": "https://open.spotify.com/artist/2hIwRQeT2pmwDmOge2AAh2"
+        },
+        {
+          "name": "Isha Bel",
+          "url": "https://open.spotify.com/artist/7ssdbwgJh9AyNrDWZLTw3k"
+        },
+        {
+          "name": "Mc Dada",
+          "url": "https://open.spotify.com/artist/7nAO5NxSOEAT2QhtMI4W3v"
+        }
+      ],
+      "duration_ms": 247741,
+      "name": "Live In The Moment",
+      "url": "https://open.spotify.com/track/2JVMgLR7tUwIpBa8DCOQpN"
+    },
+    {
+      "added_at": "2026-04-17 19:00:39",
+      "album": {
+        "name": "Album 1",
+        "url": "https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO"
+      },
+      "artists": [
+        {
+          "name": "Focuscircle",
+          "url": "https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U"
+        }
+      ],
+      "duration_ms": 104719,
+      "name": "Motivation Progress",
+      "url": "https://open.spotify.com/track/7MiGzH6INaZGKg0dVkHzMW"
+    },
+    {
+      "added_at": "2026-04-17 19:55:53",
+      "album": {
+        "name": "Xellay Acoustic",
+        "url": "https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX"
+      },
+      "artists": [
+        {
+          "name": "Xellay",
+          "url": "https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR"
+        }
+      ],
+      "duration_ms": 211687,
+      "name": "Love - Acoustic",
+      "url": "https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

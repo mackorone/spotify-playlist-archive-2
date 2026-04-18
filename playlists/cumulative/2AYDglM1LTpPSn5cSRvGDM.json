@@ -1145,6 +1145,28 @@
     },
     {
       "album": {
+        "name": "Elysium",
+        "url": "https://open.spotify.com/album/2FWPJEb6I1Qjcy85UCwM4e"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mia",
+          "url": "https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq"
+        },
+        {
+          "name": "MAMI",
+          "url": "https://open.spotify.com/artist/5ggst36NN0Gj7JRv5pMKql"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219031,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/3SwWCfF9zT1A34ar3iDaaI"
+    },
+    {
+      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/0ceplJM2SMcot1rjLyTn8v"
       },
@@ -2623,6 +2645,32 @@
     },
     {
       "album": {
+        "name": "Lose the Light",
+        "url": "https://open.spotify.com/album/5xSrogFUW1UqTTXOHjTyVZ"
+      },
+      "artists": [
+        {
+          "name": "Mazro",
+          "url": "https://open.spotify.com/artist/3MB0qmKdbLc7JCbcE2TWX7"
+        },
+        {
+          "name": "Florian Cassiede",
+          "url": "https://open.spotify.com/artist/7naMaORlCT3FPSo5EoSCHz"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219375,
+      "name": "Lose the Light",
+      "url": "https://open.spotify.com/track/007rAVZ44QRKnWVimmdSpG"
+    },
+    {
+      "album": {
         "name": "Lose Yourself",
         "url": "https://open.spotify.com/album/1ylCng8k8SHjJ4sXRvchYq"
       },
@@ -3302,6 +3350,24 @@
       "duration_ms": 188750,
       "name": "Noire",
       "url": "https://open.spotify.com/track/5PSZ7KoaTcOqDz7rIo6bLl"
+    },
+    {
+      "album": {
+        "name": "Noo Tacchi",
+        "url": "https://open.spotify.com/album/4wZUVcm9QRbrEyIqwWsWke"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212913,
+      "name": "Noo Tacchi",
+      "url": "https://open.spotify.com/track/2EgGVjSk0q8wt5537tsJky"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Kristian Llov
 
-6,829 songs - 23 day 8 hr 19 min
+6,829 songs - 23 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -742,6 +742,7 @@
 | [Blue Oceans](https://open.spotify.com/track/4AwfnjhjdznTa8jHRbw4ed) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Blue Oceans](https://open.spotify.com/album/6oEzs1PNVAaL6XOBWMinpF) | 3:52 | 2024-07-29 | 2024-08-16 |
 | [Blueprint](https://open.spotify.com/track/4X8YxBqkgCTPjL27gc6S9u) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C) | [Blueprint](https://open.spotify.com/album/5XLBz3Ug9AD7Orrpm0DArE) | 2:48 | 2025-03-06 | 2025-03-14 |
 | [Blueprint](https://open.spotify.com/track/0U9fNxywMqjJh19rXiXFgz) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K) | [Intuition EP](https://open.spotify.com/album/1GWmmcYy4C5uYoSFYNvavK) | 6:20 | 2025-03-13 | 2025-03-21 |
+| [Blurred Signal](https://open.spotify.com/track/3KhfmxD6U9ll0mFgArrQTe) | [Amour Propre](https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ) | [Rock Like This EP](https://open.spotify.com/album/6gSmK3aSu26VRpaaOlFqjt) | 3:20 | 2026-04-16 |  |
 | [Blush](https://open.spotify.com/track/1QYIM2G9VP3dW0D9HewGsN) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Blush](https://open.spotify.com/album/7pgJNN38kdnUlgUEbM8G96) | 5:44 | 2025-09-25 | 2025-10-17 |
 | [BMG](https://open.spotify.com/track/2gbMcn8udg6upjSHKTy3bu) | [Daniel Knoxville](https://open.spotify.com/artist/1kmOVioyKKjuCRveJPs5zb) | [BMG](https://open.spotify.com/album/7bYfX92zB5HCqQZyaJYKsY) | 3:48 | 2024-06-13 | 2024-06-21 |
 | [Boadicea](https://open.spotify.com/track/11fOGBS2bqTj9EYkJjlYvs) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Boadicea](https://open.spotify.com/album/4ulFJZge5LMnGfMNeD6uh2) | 3:17 | 2025-03-13 | 2025-03-21 |
@@ -1876,6 +1877,7 @@
 | [Every Night](https://open.spotify.com/track/4dP9nPtvtLMGmFBMsdNwPH) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Deomid](https://open.spotify.com/artist/63JoSzT83QhPoyMoNEExxb) | [Every Night](https://open.spotify.com/album/7sSJ0DtcnCalK7GNNshZG0) | 3:54 | 2025-08-28 | 2025-09-26 |
 | [Every Time Again](https://open.spotify.com/track/52anspbmWkDP7kp3k2W5Yb) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Echoes of Childhood](https://open.spotify.com/album/2K6wTFHMPrWoFF5L9DDAYS) | 2:12 | 2024-08-15 | 2024-08-30 |
 | [Every You](https://open.spotify.com/track/0gxMVptwBuSC3kragNfCoQ) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Every You](https://open.spotify.com/album/0EHyqAlArvA0g6kVEqMSeo) | 5:14 | 2025-10-16 | 2025-11-14 |
+| [Everybody](https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R) | 2:34 | 2026-04-16 |  |
 | [Everybody \(Get Your Groove On\) \- Short Edit](https://open.spotify.com/track/0WUxGM6OaBKESB15sIRdLk) | [GOME](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Everybody \(Get Your Groove On\)](https://open.spotify.com/album/2i0COP9OR4PEcSZbL9oHLO) | 3:30 | 2025-09-04 | 2025-09-26 |
 | [Everybody \- Elisa Bee Remix](https://open.spotify.com/track/4QKFejQqV1jQ5eg6p8JzEo) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb), [Elisa Bee](https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX) | [Everybody](https://open.spotify.com/album/0QMX1XM9qd4n4SAmhlFaHT) | 5:14 | 2025-02-27 | 2025-03-14 |
 | [Everybody Get Down](https://open.spotify.com/track/3lIAMpmJTNYTUJcRnAxYHu) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Everybody Get Down](https://open.spotify.com/album/6T3CAhqI00dX92EBPNRPXq) | 5:50 | 2024-06-13 | 2024-06-28 |
@@ -6142,8 +6144,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-15 |
 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 | 2023-05-25 | 2023-06-16 |
 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 | 2023-08-25 | 2023-09-15 |
-| [Track 1](https://open.spotify.com/track/3KhfmxD6U9ll0mFgArrQTe) | [Amour Propre](https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ) | [Rock Like This EP](https://open.spotify.com/album/6gSmK3aSu26VRpaaOlFqjt) | 0:00 | 2026-04-16 |  |
-| [Track 9](https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R) | 0:00 | 2026-04-16 |  |
 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 | 2024-08-29 | 2024-09-20 |
 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 | 2023-03-02 | 2023-03-25 |
 | [Traffik](https://open.spotify.com/track/4GqYKYWyOdr89O5loSz7wQ) | [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [Twiins](https://open.spotify.com/artist/1TcSU2JWmiIxrJbii3m3E7), [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT) | [Traffik](https://open.spotify.com/album/1aez6AJVJ4sV6mNjGd961k) | 5:41 | 2026-01-29 | 2026-02-20 |

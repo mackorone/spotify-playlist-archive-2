@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-1,030 songs - 2 day 1 hr 15 min
+1,032 songs - 2 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Changes](https://open.spotify.com/track/5wlC59ql7RSgBjZAL9lOYc) | [Vinícius Énnae](https://open.spotify.com/artist/3kj0g7ata90ABzu9sHr5XD) | [Changes](https://open.spotify.com/album/3CV53NBLvCuGuGUN75RupY) | 3:06 | 2023-03-23 | 2024-05-21 |
 | [Changing Winds](https://open.spotify.com/track/7sNIwVvNRT0REGuBLit27x) | [Rawiri Te Awa](https://open.spotify.com/artist/7N2I8FaKX2fyQSVIOEzFRP) | [Changing Winds](https://open.spotify.com/album/4Yy3FxXEXLKpcCzA7irgdb) | 2:46 | 2025-11-12 | 2026-03-12 |
 | [Chatoyante](https://open.spotify.com/track/5s3iXfS57ezUNi6M1McDDp) | [Rêveuse](https://open.spotify.com/artist/0DeHCKY9cIUwGMZuyIWCe1) | [Chatoyante](https://open.spotify.com/album/3GZVKjtELGJ2EXNZsAl4Y2) | 2:36 | 2024-02-08 | 2024-12-06 |
-| [Chronology](https://open.spotify.com/track/31ne58AShJD0B4osFf15eY) | [Sleep Envoy](https://open.spotify.com/artist/7hFdOASx9ClXjLhg4itqdc) | [Chronology](https://open.spotify.com/album/2GRYrVnMsBf6hqrK9ExqoY) | 2:38 | 2025-10-08 |  |
+| [Chronology](https://open.spotify.com/track/31ne58AShJD0B4osFf15eY) | [Sleep Envoy](https://open.spotify.com/artist/7hFdOASx9ClXjLhg4itqdc) | [Chronology](https://open.spotify.com/album/2GRYrVnMsBf6hqrK9ExqoY) | 2:38 | 2025-10-08 | 2026-04-18 |
 | [Ciclo Solar](https://open.spotify.com/track/5igYXEgB6IPo7LNtQ71ZMT) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Planetas](https://open.spotify.com/album/51pSIpoYAmWbiUArilRnSg) | 3:13 | 2023-03-23 | 2024-02-09 |
 | [Cielo Notturno](https://open.spotify.com/track/5rE6VrSoUWVbN8zeqgCG8u) | [Callisto Mazzi](https://open.spotify.com/artist/0m0GtPOIUqS9mroE1ErOBn) | [Cielo Notturno](https://open.spotify.com/album/6QSEzNGp3z498l0xYouILT) | 3:08 | 2023-03-23 | 2024-02-09 |
 | [Ciels de Saphir](https://open.spotify.com/track/1WS6k1CpsOfxX61GeWKOR0) | [Fabuluxe](https://open.spotify.com/artist/4MwFbGn1PGHhaKAkhtEVDP) | [Ciels de Saphir](https://open.spotify.com/album/0td05C3nbN8gNEOsZ3DwC5) | 2:24 | 2025-04-09 | 2025-06-29 |
@@ -737,7 +737,7 @@
 | [Recognition](https://open.spotify.com/track/6uw0ljrK4RlyEckezeUaMa) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Recognition](https://open.spotify.com/album/6IQA2AcX3BLAQ7k46YhxmZ) | 3:09 | 2025-11-12 | 2026-04-04 |
 | [Recombination](https://open.spotify.com/track/0vTkzpVA6dpjQo5s6l9WOg) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Recombination](https://open.spotify.com/album/0gOoHcaJF4R89QSkjlQVCA) | 2:59 | 2024-11-05 | 2025-03-27 |
 | [Reconstitute](https://open.spotify.com/track/3ArhNAMaWOksN4ymVoN0sw) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Reconstitute](https://open.spotify.com/album/5hM6c9HtEY0DzPvHHEobDG) | 2:47 | 2025-09-23 | 2025-12-19 |
-| [Reflections](https://open.spotify.com/track/0WMxqTBStEzYizr2V3Z35z) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Reflections](https://open.spotify.com/album/7CBdIfVzECewERr8nvYolp) | 3:17 | 2025-02-14 |  |
+| [Reflections](https://open.spotify.com/track/0WMxqTBStEzYizr2V3Z35z) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Reflections](https://open.spotify.com/album/7CBdIfVzECewERr8nvYolp) | 3:17 | 2025-02-14 | 2026-04-18 |
 | [Relatively](https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Relatively](https://open.spotify.com/album/4Icb2MhCCuyEQpOeSZKw6t) | 2:47 | 2024-07-09 | 2025-02-08 |
 | [Relaxed Mind](https://open.spotify.com/track/20A3nwNDQ7cEiqJdQqXHdi) | [Malviti](https://open.spotify.com/artist/7vJXWasyMwsr0wU5akcu2x) | [Relaxed Mind](https://open.spotify.com/album/4hstfomwyvw149vheXWQZ5) | 3:02 | 2024-01-17 | 2024-11-06 |
 | [Release U](https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y) | [Jamie Soner](https://open.spotify.com/artist/1bdlQnsdKWva2CelmDntCB) | [Release U](https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq) | 3:14 | 2023-03-23 | 2024-03-21 |
@@ -763,6 +763,7 @@
 | [Retrospect](https://open.spotify.com/track/4RpF62shn8RYyf3DBk3fD7) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Retrospect](https://open.spotify.com/album/1FzOrekTb5ucVOISuozDmT) | 3:04 | 2023-12-01 | 2024-07-10 |
 | [Return Home](https://open.spotify.com/track/2d0qDRQAsyxsEPr6671Y9X) | [Puddle of Head](https://open.spotify.com/artist/1PKiNVaiRPXCXRF3gqbMqi) | [Return Home](https://open.spotify.com/album/0cyoMdXb1G4J9pBfY0y0ML) | 3:03 | 2024-07-15 | 2025-07-05 |
 | [Revelation](https://open.spotify.com/track/7wQsmSxIPL8pN4hIKwmqQg) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Revelation](https://open.spotify.com/album/695Onhfl8t9WTtHUn9P8Kx) | 2:58 | 2025-12-17 | 2026-03-12 |
+| [Revia](https://open.spotify.com/track/5ApQ5Kxc3XYDEnwM8dIOjA) | [Ramses Ravi](https://open.spotify.com/artist/0y0JV9mFY0qSk7Ka9zQAbs) | [Revia](https://open.spotify.com/album/41gciR3zjpCqlY7Eiegmep) | 2:20 | 2026-04-03 |  |
 | [Revival](https://open.spotify.com/track/28sltBUJ0po8xXWfTrFPe2) | [Brenda Latro](https://open.spotify.com/artist/0mHX6nwLN0iQCEGTNUkpFC) | [Revival](https://open.spotify.com/album/2I4Gb4vBDlszTW1sHT7MDT) | 3:28 | 2023-03-23 | 2024-02-09 |
 | [Rippling](https://open.spotify.com/track/5NeVNbd1n8nNSNbNxUsAzL) | [August Parks](https://open.spotify.com/artist/3qMOfxCeQP5i24x2yOGnof) | [Simpler](https://open.spotify.com/album/04OQuL4urHrYZKc7716UVL) | 3:29 | 2023-03-23 | 2024-05-05 |
 | [Rituals](https://open.spotify.com/track/6amYDqp1Jctu3jbFGIFzaT) | [Aurora Chamber](https://open.spotify.com/artist/5RskfD8FI7hAdPYRLno1OX) | [Rituals](https://open.spotify.com/album/5ipVpC156LAZdVwgE6JApj) | 2:50 | 2025-12-17 |  |
@@ -980,6 +981,7 @@
 | [Undulating](https://open.spotify.com/track/77X5JEYLRwx9G3DCJ3PVsn) | [Joseff Shields](https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3) | [Undulating](https://open.spotify.com/album/3I5IxqeLnS2yNYZD4z8l00) | 3:07 | 2023-03-23 | 2024-05-21 |
 | [Une autre fois](https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Une autre fois](https://open.spotify.com/album/480hA9KU8gmNMMImvyaSZf) | 3:13 | 2023-03-23 | 2024-05-05 |
 | [Unforth](https://open.spotify.com/track/6ZgFYCze2T6ILDRpNXMgSg) | [Luno Velle](https://open.spotify.com/artist/4LjlpKaT0boJbzR6kKeQuD) | [Unforth](https://open.spotify.com/album/1oOM4l1GYiF7tNBMMU8X5w) | 2:20 | 2026-02-25 | 2026-03-12 |
+| [Unintended](https://open.spotify.com/track/0zvZxrUUita0cNxaaOmSjn) | [Etherielle](https://open.spotify.com/artist/7JtsidGU22mCGPEkShvwrK) | [Unintended](https://open.spotify.com/album/4QPlIhEf5JxQ1ZnnH9LQfo) | 2:24 | 2026-04-03 |  |
 | [Universal Harmony](https://open.spotify.com/track/6i2cmPsBjRAlmYag9iozVV) | [Diamonds](https://open.spotify.com/artist/08YqCNBmikiDU1oWmj4PGI) | [Universal Harmony](https://open.spotify.com/album/2iSXFy0w5E6z7fPYC92DZc) | 2:51 | 2025-03-19 | 2026-02-26 |
 | [Universal Truth](https://open.spotify.com/track/2zP7XSG2knSBpMJGf77WjF) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Significance](https://open.spotify.com/album/1WUUamSMdvlzn8MbPFX9Jg) | 3:15 | 2023-07-14 | 2024-02-09 |
 | [Unleash Life](https://open.spotify.com/track/67z9CJricdxWeTFSxnKtTh) | [Ocean Pulse](https://open.spotify.com/artist/6gQD4JqqcAJWvbWObCMCTX) | [Unleash Life](https://open.spotify.com/album/5WVpFpba9AbDLH6GOsc9Pv) | 2:49 | 2025-12-17 | 2026-03-12 |

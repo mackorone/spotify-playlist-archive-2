@@ -1,12 +1,12 @@
 {
   "description": "This is Laurie Spiegel. The essential tracks, all in one playlist.",
-  "num_followers": 491,
+  "num_followers": 492,
   "original_name": "This Is Laurie Spiegel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad7VAAAAAABSf5HHtWg20Yc+jQM76Sco",
+  "snapshot_id": "aeAmgAAAAADlyAZLVUDta3b7r1WMZI/4",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 586760,
-      "name": "Patchwork",
-      "url": "https://open.spotify.com/track/4RLVoOmGiYhxUe9WVPr8t2"
+      "duration_ms": 413720,
+      "name": "Old Wave",
+      "url": "https://open.spotify.com/track/0KBRR5awpziELPG5H7dOTK"
     },
     {
       "added_at": null,
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 96000,
-      "name": "Three Sonic Spaces I",
-      "url": "https://open.spotify.com/track/40YsslZstSIWncQEt8NNls"
+      "duration_ms": 175093,
+      "name": "From a Harmonic Algorithm",
+      "url": "https://open.spotify.com/track/7pICSb5Mx7hSa0PPS2TYpk"
     },
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 413720,
-      "name": "Old Wave",
-      "url": "https://open.spotify.com/track/0KBRR5awpziELPG5H7dOTK"
+      "duration_ms": 586760,
+      "name": "Patchwork",
+      "url": "https://open.spotify.com/track/4RLVoOmGiYhxUe9WVPr8t2"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 175093,
-      "name": "From a Harmonic Algorithm",
-      "url": "https://open.spotify.com/track/7pICSb5Mx7hSa0PPS2TYpk"
+      "duration_ms": 96000,
+      "name": "Three Sonic Spaces I",
+      "url": "https://open.spotify.com/track/40YsslZstSIWncQEt8NNls"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 202426,
-      "name": "Three Sonic Spaces II",
-      "url": "https://open.spotify.com/track/4RxXmmiphC17d9h0zCxIzR"
+      "duration_ms": 215040,
+      "name": "Two Archetypes: Hurricane's Eye \u2013 II",
+      "url": "https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 215040,
-      "name": "Two Archetypes: Hurricane's Eye \u2013 II",
-      "url": "https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m"
+      "duration_ms": 202426,
+      "name": "Three Sonic Spaces II",
+      "url": "https://open.spotify.com/track/4RxXmmiphC17d9h0zCxIzR"
     },
     {
       "added_at": null,

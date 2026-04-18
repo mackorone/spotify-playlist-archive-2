@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring Collect 200. Curated by human Spotify editors. \n",
-  "num_followers": 212038,
+  "num_followers": 212061,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEp0DpblsDXEIZUBR4tM7xD/1AeZ",
+  "snapshot_id": "AAAAABBrUrLBxg5BJAyNUliP7C6Oj0Bm",
   "tracks": [
     {
       "added_at": "2026-04-15 17:24:57",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN"
     },
     {
+      "added_at": "2026-04-17 04:02:50",
+      "album": {
+        "name": "Mic Killa",
+        "url": "https://open.spotify.com/album/0ZLffPqxvXaRFpDrQkK80o"
+      },
+      "artists": [
+        {
+          "name": "Headstorm",
+          "url": "https://open.spotify.com/artist/4fd2RsyH7o4ZHLhRwsMwow"
+        }
+      ],
+      "duration_ms": 228934,
+      "name": "Mic Killa",
+      "url": "https://open.spotify.com/track/61qPPslPbFPgCxyKHg0hVk"
+    },
+    {
       "added_at": "2026-04-15 17:24:57",
       "album": {
         "name": "Insane",
@@ -55,6 +71,22 @@
       "duration_ms": 223384,
       "name": "Insane",
       "url": "https://open.spotify.com/track/44UvUDywsREUPPGuJF0z73"
+    },
+    {
+      "added_at": "2026-04-17 04:02:50",
+      "album": {
+        "name": "Fix It",
+        "url": "https://open.spotify.com/album/7qXPopiabkvOGzyUKHowgq"
+      },
+      "artists": [
+        {
+          "name": "Nat Kara",
+          "url": "https://open.spotify.com/artist/45JSk7XvIJijTo2Kc8Nzfj"
+        }
+      ],
+      "duration_ms": 180117,
+      "name": "Fix It",
+      "url": "https://open.spotify.com/track/2P2hfZzVcEv3bUjC2E3AZX"
     },
     {
       "added_at": "2026-04-10 04:02:22",
@@ -121,6 +153,58 @@
       "url": "https://open.spotify.com/track/4NqzQ8jpz7YmET9fOAlOB1"
     },
     {
+      "added_at": "2026-04-18 00:48:32",
+      "album": {
+        "name": "ME RN",
+        "url": "https://open.spotify.com/album/0DKftQREptat3iP20SqiZx"
+      },
+      "artists": [
+        {
+          "name": "D\u00d6NTELLA",
+          "url": "https://open.spotify.com/artist/1bym5kferA62KjXFXGQTQd"
+        },
+        {
+          "name": "Lauren Rintoul",
+          "url": "https://open.spotify.com/artist/07vVMvjzXukWNMBSrHKy0J"
+        }
+      ],
+      "duration_ms": 180936,
+      "name": "ME RN",
+      "url": "https://open.spotify.com/track/5B0XGW3FOwqAPiXMWBOiYC"
+    },
+    {
+      "added_at": "2026-04-17 04:02:50",
+      "album": {
+        "name": "Taka Taka",
+        "url": "https://open.spotify.com/album/2FmArT4SzjcIx5PXfV1GQU"
+      },
+      "artists": [
+        {
+          "name": "Carlo Giannico",
+          "url": "https://open.spotify.com/artist/74Nbq1eideEYDmQdz8ZXSf"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Taka Taka",
+      "url": "https://open.spotify.com/track/72BJos9sh1LYO8zt57OH0a"
+    },
+    {
+      "added_at": "2026-03-18 17:43:09",
+      "album": {
+        "name": "GTFU",
+        "url": "https://open.spotify.com/album/5jLlh1dm37OduWtv69Ouam"
+      },
+      "artists": [
+        {
+          "name": "Wal",
+          "url": "https://open.spotify.com/artist/349ZnULvoYVFB1lIOedjkc"
+        }
+      ],
+      "duration_ms": 230551,
+      "name": "What Ya Got",
+      "url": "https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055"
+    },
+    {
       "added_at": "2026-04-15 17:24:57",
       "album": {
         "name": "Summer Card",
@@ -139,22 +223,6 @@
       "duration_ms": 366502,
       "name": "Summer Card",
       "url": "https://open.spotify.com/track/3Q0LhQkqusn71J7kkxcIZS"
-    },
-    {
-      "added_at": "2026-03-18 17:43:09",
-      "album": {
-        "name": "GTFU",
-        "url": "https://open.spotify.com/album/5jLlh1dm37OduWtv69Ouam"
-      },
-      "artists": [
-        {
-          "name": "Wal",
-          "url": "https://open.spotify.com/artist/349ZnULvoYVFB1lIOedjkc"
-        }
-      ],
-      "duration_ms": 230551,
-      "name": "What Ya Got",
-      "url": "https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055"
     },
     {
       "added_at": "2026-04-01 16:59:55",
@@ -593,26 +661,6 @@
       "url": "https://open.spotify.com/track/6fnbDKCey6fvF65hYhnJDc"
     },
     {
-      "added_at": "2026-03-25 16:00:36",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5DKIE6GWSddAFFZSflGUXH"
-      },
-      "artists": [
-        {
-          "name": "NO BILLS",
-          "url": "https://open.spotify.com/artist/0KvKQGcKAdyCa0tptYZu6Z"
-        },
-        {
-          "name": "SATICA",
-          "url": "https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We"
-        }
-      ],
-      "duration_ms": 131612,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2cx6Kuq7DN8Cf9VjoTin5s"
-    },
-    {
       "added_at": "2026-03-18 17:43:09",
       "album": {
         "name": "PUT YOUR USB IN MY CDJ",
@@ -627,22 +675,6 @@
       "duration_ms": 168701,
       "name": "PUT YOUR USB IN MY CDJ",
       "url": "https://open.spotify.com/track/3ABAbdoy3EJLKeGevwuJeK"
-    },
-    {
-      "added_at": "2026-03-11 17:10:27",
-      "album": {
-        "name": "Love Sensation",
-        "url": "https://open.spotify.com/album/0u0TBqucILOrRHcfKoZWIb"
-      },
-      "artists": [
-        {
-          "name": "Aydan XR",
-          "url": "https://open.spotify.com/artist/6eUspIbMLgyU5oVlYSI14r"
-        }
-      ],
-      "duration_ms": 267428,
-      "name": "Love Sensation",
-      "url": "https://open.spotify.com/track/5nQDYkGycL5JTlABM88NFP"
     },
     {
       "added_at": "2026-03-18 17:43:09",
@@ -695,42 +727,6 @@
       "duration_ms": 172965,
       "name": "I Did You Wrong",
       "url": "https://open.spotify.com/track/2onMysrdB7Hg2q9W7foPOP"
-    },
-    {
-      "added_at": "2026-03-13 04:00:43",
-      "album": {
-        "name": "jetlag",
-        "url": "https://open.spotify.com/album/1cuvmvDNFoLycXYssH0az8"
-      },
-      "artists": [
-        {
-          "name": "Memblem",
-          "url": "https://open.spotify.com/artist/4oXVlZhnXyku2WkQjziDVI"
-        },
-        {
-          "name": "Noche",
-          "url": "https://open.spotify.com/artist/6V0gLsvfwbIbpVZenWJN7Q"
-        }
-      ],
-      "duration_ms": 131555,
-      "name": "Disc Error",
-      "url": "https://open.spotify.com/track/3Y6WpaFCUrNg9fkOCro8Pp"
-    },
-    {
-      "added_at": "2026-03-11 17:10:27",
-      "album": {
-        "name": "Amor Fati",
-        "url": "https://open.spotify.com/album/1h18VsyNAkhc6FhjllNYkF"
-      },
-      "artists": [
-        {
-          "name": "RONI",
-          "url": "https://open.spotify.com/artist/3ACB6pQFKxf7vsmm5Tl39g"
-        }
-      ],
-      "duration_ms": 260500,
-      "name": "amor fati",
-      "url": "https://open.spotify.com/track/6Q7bsT9gFYXqm6GoEdUG6G"
     },
     {
       "added_at": "2026-03-13 04:00:43",

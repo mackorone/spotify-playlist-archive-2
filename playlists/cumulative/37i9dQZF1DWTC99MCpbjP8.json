@@ -185,6 +185,42 @@
     },
     {
       "album": {
+        "name": "A soft return",
+        "url": "https://open.spotify.com/album/3ypxF5yC1Tk3q3l4X76pWg"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Middleton",
+          "url": "https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204221,
+      "name": "A soft return",
+      "url": "https://open.spotify.com/track/6Age7Pl5qQB3YA1Q1xKQyw"
+    },
+    {
+      "album": {
+        "name": "A Way Forward",
+        "url": "https://open.spotify.com/album/1NR5CRihxGz7dsNoaaot1W"
+      },
+      "artists": [
+        {
+          "name": "Naskal",
+          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "A Way Forward",
+      "url": "https://open.spotify.com/track/7wMckEgxWuP0FhwUvpVNsf"
+    },
+    {
+      "album": {
         "name": "A World Without Pain",
         "url": "https://open.spotify.com/album/6RWb9qbPQsNEbqStnFM6lw"
       },
@@ -1503,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Broken Shores",
+        "url": "https://open.spotify.com/album/49U4k8jpRUidVGgr16PgM1"
+      },
+      "artists": [
+        {
+          "name": "Friedrich Hahn",
+          "url": "https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142875,
+      "name": "Broken Shores",
+      "url": "https://open.spotify.com/track/77oWSWsQCozPMFfDU63lKM"
+    },
+    {
+      "album": {
         "name": "Caliesa",
         "url": "https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k"
       },
@@ -2472,6 +2526,24 @@
       "duration_ms": 155665,
       "name": "Dream Until the First Rays of Dawn",
       "url": "https://open.spotify.com/track/1YrmdTAZdNa2uzxKttTXq6"
+    },
+    {
+      "album": {
+        "name": "Dreaming in Silver",
+        "url": "https://open.spotify.com/album/7aVKyH1BuxP6wy2VApjtC5"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Gillham",
+          "url": "https://open.spotify.com/artist/5DDB7qJGqbzCijr4mUSOOs"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125248,
+      "name": "Dreaming in Silver",
+      "url": "https://open.spotify.com/track/3lbwEu9hVkMlRRSEbfk8sK"
     },
     {
       "album": {
@@ -3920,6 +3992,24 @@
       "duration_ms": 148124,
       "name": "Gradually",
       "url": "https://open.spotify.com/track/0Mxsdq6eSdRsa2lmwhHvHR"
+    },
+    {
+      "album": {
+        "name": "Grey Water",
+        "url": "https://open.spotify.com/album/3gUoRf1886czsbsVT47LQd"
+      },
+      "artists": [
+        {
+          "name": "Axel Bennett",
+          "url": "https://open.spotify.com/artist/3cbNP4ir2UsDvVi8kbd1qz"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180741,
+      "name": "Grey Water",
+      "url": "https://open.spotify.com/track/2P741Yxi3YjddCbffCS5aD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-[Bike Mate](https://open.spotify.com/user/towmater1200) - 4,265 likes - 176 songs - 9 hr 54 min
+[Bike Mate](https://open.spotify.com/user/towmater1200) - 4,272 likes - 179 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,5 +184,8 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 | 174 | [A Little Bit Bad](https://open.spotify.com/track/3FcfrGCfPw5hBAXRXqkXv7) | [KittenSneeze](https://open.spotify.com/artist/2WKgR22LeNxOzIllOfH4ZW), [Tunnelberg](https://open.spotify.com/artist/0bW6E136CbdrMmbk6MlJiB), [The Musical Ghost](https://open.spotify.com/artist/5NCTflTCAp9FUqwYRz6N9n) | [A Little Bit Bad](https://open.spotify.com/album/7fdSRH1s1pNbyfu8141YIa) | 2:21 |
 | 175 | [4K CARPET](https://open.spotify.com/track/284qRqsftKxNPWrejNEewL) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [4K CARPET](https://open.spotify.com/album/6H57oq4pjohzx036mRDRsO) | 2:00 |
 | 176 | [Lover Without A Heart](https://open.spotify.com/track/6vJpHOvUI6txkR3nSNXICY) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [Lover Without A Heart](https://open.spotify.com/album/2gOY5y3FBUgRiJlf9YdiDV) | 2:24 |
+| 177 | [The One Who's Running the Show](https://open.spotify.com/track/1Qmmte3WKo1HgQDmDISvNc) | [Gooseworx](https://open.spotify.com/artist/4I31Oaf4lpU501IMCuEHTt) | [The One Who's Running the Show](https://open.spotify.com/album/3QUo9uBdC8zyHPsk02Yf7B) | 2:13 |
+| 178 | [Your New Home 2](https://open.spotify.com/track/5bdZ9pbV0msuGiWVhn345s) | [Switchers Records](https://open.spotify.com/artist/3C9THwdBNJVZ9uic0MPHYc), [Gooseworx](https://open.spotify.com/artist/4I31Oaf4lpU501IMCuEHTt), [Evan Alderete](https://open.spotify.com/artist/2TrXT9J7vh2gaEp6Nb0g0K) | [Your New Home 2](https://open.spotify.com/album/3mOu6Ym88BJ9xN4wVm7eWa) | 3:17 |
+| 179 | [Cut the Ties](https://open.spotify.com/track/3t2S6YcvQhVgFdiC76gKBt) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk), [Andrea Storm Kaden](https://open.spotify.com/artist/2suYQj2pv0J5xZdNNqzDaU) | [Cut the Ties](https://open.spotify.com/album/7JPZrrcdV2yKqf85xbgvTY) | 3:46 |
 
-Snapshot ID: `AAACAmpIt3zdol9h1f8jZ6OmsG7Q9XEx`
+Snapshot ID: `AAACBQQdytzD41c8B+7n9r1r5yXRRHC0`

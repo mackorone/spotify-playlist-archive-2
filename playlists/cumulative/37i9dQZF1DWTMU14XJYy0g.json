@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre \ud83d\udcf8 RYAN",
+  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre \ud83d\udcf8 Juanse",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -1328,6 +1328,24 @@
       "duration_ms": 258906,
       "name": "Colmena",
       "url": "https://open.spotify.com/track/3didqbZlbcOd3tEaLreWtp"
+    },
+    {
+      "album": {
+        "name": "Pappo x Juanse, Vol. 2",
+        "url": "https://open.spotify.com/album/69tHkZGH9JoBWfmUZx1Dum"
+      },
+      "artists": [
+        {
+          "name": "Juanse",
+          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184113,
+      "name": "Con Elvira Es Otra Cosa",
+      "url": "https://open.spotify.com/track/1Lh3kR5EdSZLTgXKdxKpSN"
     },
     {
       "album": {
@@ -5324,7 +5342,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 218557,
       "name": "Melod\u00eda del Adi\u00f3s",
       "url": "https://open.spotify.com/track/6tbNnSpsaRBjqszmWU6JEd"
@@ -6782,6 +6800,24 @@
       "duration_ms": 172209,
       "name": "REVELACIONES APARTE",
       "url": "https://open.spotify.com/track/5zVysKtBACHlyu7Ovt0Ezi"
+    },
+    {
+      "album": {
+        "name": "Pappo x Juanse, Vol. 2",
+        "url": "https://open.spotify.com/album/69tHkZGH9JoBWfmUZx1Dum"
+      },
+      "artists": [
+        {
+          "name": "Juanse",
+          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192310,
+      "name": "Rock and Roll y Fiebre",
+      "url": "https://open.spotify.com/track/2uNdfnBpTaAGLw93iiKBR3"
     },
     {
       "album": {

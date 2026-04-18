@@ -355,6 +355,28 @@
     },
     {
       "album": {
+        "name": "AKU GAS!",
+        "url": "https://open.spotify.com/album/2agnnZmpBgRQhV7iLae6fn"
+      },
+      "artists": [
+        {
+          "name": "toxicdev!",
+          "url": "https://open.spotify.com/artist/7bD17oHb4liDNH9eg7dUev"
+        },
+        {
+          "name": "PORIS",
+          "url": "https://open.spotify.com/artist/6oW4eaSyUiBItGKBghBSTe"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "AKU GAS!",
+      "url": "https://open.spotify.com/track/5hNbaA6PA5j5Ut13dXSKh5"
+    },
+    {
+      "album": {
         "name": "Aku Juga Manusia",
         "url": "https://open.spotify.com/album/2mYEZvkuYhHasChpxIVjc5"
       },
@@ -2204,7 +2226,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 176169,
       "name": "Cegil",
       "url": "https://open.spotify.com/track/1hfSoyfUsiIYQrB9LJrRN1"
@@ -3380,7 +3402,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 189000,
       "name": "Gelora Asmara",
       "url": "https://open.spotify.com/track/4zPZ7Uy5MLeIfeq4G46UIu"
@@ -3420,6 +3442,24 @@
       "duration_ms": 300583,
       "name": "Gemilang",
       "url": "https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT"
+    },
+    {
+      "album": {
+        "name": "Geram",
+        "url": "https://open.spotify.com/album/1436FpDhmJzFNUTeRQtGVQ"
+      },
+      "artists": [
+        {
+          "name": "Geisha",
+          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249995,
+      "name": "Geram",
+      "url": "https://open.spotify.com/track/4AihnQANO1NNQx3YagzToS"
     },
     {
       "album": {
@@ -3470,7 +3510,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 200214,
       "name": "HA HA",
       "url": "https://open.spotify.com/track/1e65IJ1b7AteoVLySoObKK"
@@ -4853,6 +4893,24 @@
     },
     {
       "album": {
+        "name": "KAU",
+        "url": "https://open.spotify.com/album/1NcvN8Nm4A9UgVmBNgR7EK"
+      },
+      "artists": [
+        {
+          "name": "Anji",
+          "url": "https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250894,
+      "name": "KAU",
+      "url": "https://open.spotify.com/track/0iysivgpqHj84221FsKvvG"
+    },
+    {
+      "album": {
         "name": "Kau",
         "url": "https://open.spotify.com/album/0SrMQeyrsJtjFRlcJ62hsi"
       },
@@ -4995,6 +5053,24 @@
     },
     {
       "album": {
+        "name": "Keliling",
+        "url": "https://open.spotify.com/album/3q9Q1LA1ZWOVeH4oITyTPx"
+      },
+      "artists": [
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179225,
+      "name": "Keliling",
+      "url": "https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR"
+    },
+    {
+      "album": {
         "name": "Keluarga (From\" Glenn Fredly The Movie\")",
         "url": "https://open.spotify.com/album/2dHxY8VTmKUjfIxGtxi0ns"
       },
@@ -5130,7 +5206,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 205609,
       "name": "Kini",
       "url": "https://open.spotify.com/track/751Bz5vVIURh0R5tafZ2L1"
@@ -5516,7 +5592,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 262338,
       "name": "Kuharap Duka Ini Selamanya",
       "url": "https://open.spotify.com/track/4VCmXihNaBZdnVNWOIk7NC"
@@ -5944,7 +6020,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 171968,
       "name": "Liga Baru",
       "url": "https://open.spotify.com/track/0XrtmwvIsJllIexIH9sQ4t"
@@ -6596,7 +6672,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 176554,
       "name": "Melati",
       "url": "https://open.spotify.com/track/4koI5WbXEXwrO2dhbfErvS"
@@ -6820,7 +6896,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 262213,
       "name": "Mencinta Tanpa Arah",
       "url": "https://open.spotify.com/track/2VloC2U2SgLmC1O3Ofjxc8"
@@ -6864,7 +6940,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 293874,
       "name": "Mencintaimu (Live From See You On Wednesday)",
       "url": "https://open.spotify.com/track/5ekAFKZ8XahmSpKi1n2A47"
@@ -7202,7 +7278,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 243692,
       "name": "Mungkin",
       "url": "https://open.spotify.com/track/4DRDPA5Ep6JFXqhn6ywpal"
@@ -7994,7 +8070,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 256826,
       "name": "Pernah Dicinta",
       "url": "https://open.spotify.com/track/3H1rqS1WKdTGbO27XETY8V"
@@ -8892,7 +8968,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 244534,
       "name": "Seandainya",
       "url": "https://open.spotify.com/track/6UDgmrLSS7f4f3PJDGFnMG"
@@ -9658,7 +9734,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 250890,
       "name": "Senin Sampai Jumat",
       "url": "https://open.spotify.com/track/1GQqxuKK7c0Sa4wtlTtgTV"

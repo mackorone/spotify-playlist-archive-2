@@ -1,13 +1,61 @@
 {
   "description": "The best of modern blues rock. Cover: The Sheepdogs",
-  "num_followers": 262088,
+  "num_followers": 262166,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPSl7JRlgLMjuwbop/F4iKn+liy7",
+  "snapshot_id": "AAAAACjVQtptRX61YzoSEVdyPDOt8CMy",
   "tracks": [
+    {
+      "added_at": "2026-04-17 04:01:02",
+      "album": {
+        "name": "Runnin' Hot",
+        "url": "https://open.spotify.com/album/3bxHFkjBd7RtlJYBOF6OCT"
+      },
+      "artists": [
+        {
+          "name": "Jared James Nichols",
+          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
+        }
+      ],
+      "duration_ms": 190103,
+      "name": "Runnin' Hot",
+      "url": "https://open.spotify.com/track/1YriAYtDy59A8nA0hlNsnk"
+    },
+    {
+      "added_at": "2026-04-17 04:01:02",
+      "album": {
+        "name": "Come Along As One (LP)",
+        "url": "https://open.spotify.com/album/0IpuT8N2S3FVcYhokRa0PQ"
+      },
+      "artists": [
+        {
+          "name": "Shane Guerrette",
+          "url": "https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq"
+        }
+      ],
+      "duration_ms": 183272,
+      "name": "Hollow Gold",
+      "url": "https://open.spotify.com/track/5PRUvwLrYzBKcTayCFowkj"
+    },
+    {
+      "added_at": "2026-04-17 04:01:02",
+      "album": {
+        "name": "Catch A Buzz, Not The Fuzz",
+        "url": "https://open.spotify.com/album/5BTSeFRpYaQx6EL0OeDz20"
+      },
+      "artists": [
+        {
+          "name": "Lombardy",
+          "url": "https://open.spotify.com/artist/0P0SonGsS5tXo0oLO62djE"
+        }
+      ],
+      "duration_ms": 169623,
+      "name": "1992 Hooters 500",
+      "url": "https://open.spotify.com/track/57vJ2FZCAZmMrWmOeRAWVg"
+    },
     {
       "added_at": "2026-04-10 04:00:41",
       "album": {
@@ -55,6 +103,22 @@
       "duration_ms": 267160,
       "name": "Foot Off",
       "url": "https://open.spotify.com/track/0KCL2Obn6HBMcsIvENCEsw"
+    },
+    {
+      "added_at": "2026-04-17 04:01:02",
+      "album": {
+        "name": "Need Your Love",
+        "url": "https://open.spotify.com/album/7GZLRmopHNfwjXCugqXLp5"
+      },
+      "artists": [
+        {
+          "name": "No Fit State",
+          "url": "https://open.spotify.com/artist/51dJqJNH1kWA81xA9UbXnX"
+        }
+      ],
+      "duration_ms": 190928,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/17RlXTh9eXY5Uxlx783wLO"
     },
     {
       "added_at": "2026-03-20 15:56:34",
@@ -151,22 +215,6 @@
       "duration_ms": 356066,
       "name": "7 Generations",
       "url": "https://open.spotify.com/track/3Ng6V9tduQzqGJx7ABoNRz"
-    },
-    {
-      "added_at": "2026-03-20 15:56:34",
-      "album": {
-        "name": "Pretend",
-        "url": "https://open.spotify.com/album/1hFRv2fI8eSWpBQbpOMrMm"
-      },
-      "artists": [
-        {
-          "name": "Jared James Nichols",
-          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
-        }
-      ],
-      "duration_ms": 165248,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/0MMBjSzV3ZqCWLEuJdVqvK"
     },
     {
       "added_at": "2026-03-20 15:56:34",
@@ -819,22 +867,6 @@
     {
       "added_at": "2026-03-20 15:56:34",
       "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/6hssadq1z58kah8yy7HHRS"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 246351,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/04GLIP00vRsOHC6m7P6Cps"
-    },
-    {
-      "added_at": "2026-03-20 15:56:34",
-      "album": {
         "name": "Blues Is Still Alive",
         "url": "https://open.spotify.com/album/3O6B52e8n83PbZAU8CkSWS"
       },
@@ -1379,22 +1411,6 @@
     {
       "added_at": "2026-03-20 15:56:34",
       "album": {
-        "name": "In Stride",
-        "url": "https://open.spotify.com/album/7b11AjtUEnyIJfSVqSmY16"
-      },
-      "artists": [
-        {
-          "name": "Myles Kennedy",
-          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "In Stride",
-      "url": "https://open.spotify.com/track/4maDoiqrbnZYA64w4Wzmha"
-    },
-    {
-      "added_at": "2026-03-20 15:56:34",
-      "album": {
         "name": "Down On The Bottom",
         "url": "https://open.spotify.com/album/0TQOj4sXi3e53CH2V4odAX"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 209691,
       "name": "The Call",
       "url": "https://open.spotify.com/track/7jC3g7Zt4hTsuOOMOBc75b"
-    },
-    {
-      "added_at": "2026-03-20 15:56:34",
-      "album": {
-        "name": "Bones Owens",
-        "url": "https://open.spotify.com/album/7hLiHJqM7TJJrHxN5o4FWB"
-      },
-      "artists": [
-        {
-          "name": "Bones Owens",
-          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
-        }
-      ],
-      "duration_ms": 197782,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon"
     },
     {
       "added_at": "2026-03-20 15:56:34",

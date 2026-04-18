@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+    },
+    {
+      "album": {
         "name": "Boy and the Swan",
         "url": "https://open.spotify.com/album/5aZ6bNwi9LwOujAYVBBjN6"
       },
@@ -832,6 +850,24 @@
       "duration_ms": 220095,
       "name": "Devil's Advocate",
       "url": "https://open.spotify.com/track/6hLwDKMnOEilYvgsfIFDjW"
+    },
+    {
+      "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229420,
+      "name": "Die Happy",
+      "url": "https://open.spotify.com/track/3EVLd2B0qKPCGItoVz9onn"
     },
     {
       "album": {
@@ -1683,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/62xd4emBJXINuYl0RzfvO8"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141236,
+      "name": "How many miles",
+      "url": "https://open.spotify.com/track/1ED6fIsQtKmFf83bMxDXKl"
+    },
+    {
+      "album": {
         "name": "Huisje Aan De Zee",
         "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
       },
@@ -1853,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "In My Own World",
+        "url": "https://open.spotify.com/album/6MNhnsUnmCByGT0bEr1Tun"
+      },
+      "artists": [
+        {
+          "name": "Sven Ross",
+          "url": "https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194628,
+      "name": "In My Own World",
+      "url": "https://open.spotify.com/track/4kfumdJuJLb73ZcNpBfjdB"
+    },
+    {
+      "album": {
         "name": "Death in the Business of Whaling",
         "url": "https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl"
       },
@@ -1994,7 +2066,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 240000,
       "name": "Laat Het Licht Aan",
       "url": "https://open.spotify.com/track/3m7590UqY1VXNtF6axoWj1"

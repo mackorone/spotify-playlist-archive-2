@@ -441,6 +441,32 @@
     },
     {
       "album": {
+        "name": "Adiye Azhage",
+        "url": "https://open.spotify.com/album/0o8MqWhsRqDRZZ41WvBuMx"
+      },
+      "artists": [
+        {
+          "name": "Sanal Saavithri",
+          "url": "https://open.spotify.com/artist/763OqXhYyV0M4izFFIYgGi"
+        },
+        {
+          "name": "Midhun K Madhu",
+          "url": "https://open.spotify.com/artist/37m00nY7byFMH6uFpj464J"
+        },
+        {
+          "name": "Mohamed Riyaz",
+          "url": "https://open.spotify.com/artist/2SuayfqOOtqzKoqhkSMS7p"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254276,
+      "name": "Adiye Azhage",
+      "url": "https://open.spotify.com/track/3c9btVWeQwlR9tfRZPZDRH"
+    },
+    {
+      "album": {
         "name": "Adiye Paduthadha",
         "url": "https://open.spotify.com/album/0ENQp0ak7FMjhgTWvstp0F"
       },
@@ -3496,7 +3522,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 225000,
       "name": "Hey Mudhal Siripey",
       "url": "https://open.spotify.com/track/1PnQX3EVZHLRaNJocpeUwY"
@@ -3650,7 +3676,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 175483,
       "name": "Honeydrop",
       "url": "https://open.spotify.com/track/4u3tCFnxGX9nDNe893tPSQ"
@@ -7604,7 +7630,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 336000,
       "name": "Manamey",
       "url": "https://open.spotify.com/track/5UtNMZNmAkFAhVsZrjecwp"
@@ -8522,7 +8548,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 272842,
       "name": "Mudhal Mudhalaai",
       "url": "https://open.spotify.com/track/1uZeg3wuGhlcFGmrRwB6zE"
@@ -10202,7 +10228,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 238518,
       "name": "ONDRAGA",
       "url": "https://open.spotify.com/track/73kkKXSdEcU1QJdeVIZ9WY"
@@ -12932,7 +12958,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 183636,
       "name": "Sorgame Stun Aagum",
       "url": "https://open.spotify.com/track/4eZVXQSqNFGwASklUaYPyy"
@@ -14158,6 +14184,24 @@
       "duration_ms": 265151,
       "name": "Thoovum Mazhai",
       "url": "https://open.spotify.com/track/7cyFE1Eg8QmktBjmLt8hAy"
+    },
+    {
+      "album": {
+        "name": "Thottale Pattasa (Slap Song)",
+        "url": "https://open.spotify.com/album/67g1gLnzF3TfFstCfHV0mS"
+      },
+      "artists": [
+        {
+          "name": "Francis Fernando",
+          "url": "https://open.spotify.com/artist/4Umw66ScWxd2aGrw9Atga6"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61419,
+      "name": "Thottale Pattasa (Slap Song)",
+      "url": "https://open.spotify.com/track/4x3vAKjPRm1LS76R2Qyx8V"
     },
     {
       "album": {

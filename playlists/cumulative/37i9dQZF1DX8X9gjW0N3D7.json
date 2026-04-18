@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Maude Audet",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: H\u00e9ron",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 147093,
       "name": "Ainsi soit-il",
       "url": "https://open.spotify.com/track/4GYUVIoCES5J2U0CUPNoQ6"
@@ -262,6 +262,24 @@
       "duration_ms": 170149,
       "name": "Amour Reptile",
       "url": "https://open.spotify.com/track/1U66WYXYcwVq1DtSewHAKa"
+    },
+    {
+      "album": {
+        "name": "Animal imberbe",
+        "url": "https://open.spotify.com/album/57yyvI0RDu5XuGVGITRjRf"
+      },
+      "artists": [
+        {
+          "name": "Miro Chino",
+          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184487,
+      "name": "Animal imberbe",
+      "url": "https://open.spotify.com/track/6F1rqilX9K5oZ85F6brq0Q"
     },
     {
       "album": {
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 233413,
       "name": "Freestyle Brooklyn",
       "url": "https://open.spotify.com/track/1pEMEX6sM4S95nf8NoQtip"
@@ -3452,7 +3470,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 192904,
       "name": "KISSBURN",
       "url": "https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU"
@@ -3953,6 +3971,24 @@
     },
     {
       "album": {
+        "name": "La vie \u00e0 2",
+        "url": "https://open.spotify.com/album/7uOx1DdAVOApdRMSKyibyo"
+      },
+      "artists": [
+        {
+          "name": "Maman",
+          "url": "https://open.spotify.com/artist/51fTk3DnIOKXjk5gwmEVRI"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218823,
+      "name": "La vie \u00e0 2",
+      "url": "https://open.spotify.com/track/33UTe7RVKclt1SMnDqZxq0"
+    },
+    {
+      "album": {
         "name": "Labyrinthite (acoustique)",
         "url": "https://open.spotify.com/album/4yIAY0gWwSvjbz3oAmOqev"
       },
@@ -4102,7 +4138,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 135275,
       "name": "Le bon choix",
       "url": "https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6"
@@ -4766,7 +4802,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 133950,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/7bUXdx8McOz7cROvYqSPnF"
@@ -4940,6 +4976,24 @@
       "duration_ms": 233885,
       "name": "Ma ville (avec Lisa Riendeau)",
       "url": "https://open.spotify.com/track/3TlfrwwcRwlq1bZDIQuHh8"
+    },
+    {
+      "album": {
+        "name": "Un jour",
+        "url": "https://open.spotify.com/album/2sKoeXU6WV3RhotJEuQo14"
+      },
+      "artists": [
+        {
+          "name": "Sophie Grenier",
+          "url": "https://open.spotify.com/artist/3JMrRREEeixveAxloDEuNS"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188619,
+      "name": "Ma voix",
+      "url": "https://open.spotify.com/track/61BMxXka5an0E7VOhvwq1u"
     },
     {
       "album": {
@@ -5410,7 +5464,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 200000,
       "name": "M\u00eal\u00e9",
       "url": "https://open.spotify.com/track/06O4pPBFojvSiI8xDIDnhU"
@@ -5464,7 +5518,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 252634,
       "name": "NE FERME PAS LES YEUX",
       "url": "https://open.spotify.com/track/7w3wrc3vxHMCYlWDd6eYlZ"
@@ -6547,6 +6601,24 @@
     },
     {
       "album": {
+        "name": "t.o.m. ou la trajectoire des pers\u00e9ides",
+        "url": "https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY"
+      },
+      "artists": [
+        {
+          "name": "Alphonse Bisaillon",
+          "url": "https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199146,
+      "name": "reel talk",
+      "url": "https://open.spotify.com/track/5EByJp6cwNCzueuovl04Am"
+    },
+    {
+      "album": {
         "name": "Reflets",
         "url": "https://open.spotify.com/album/7d1M8gX8nrbzju67TheCSs"
       },
@@ -6616,6 +6688,24 @@
       "duration_ms": 197996,
       "name": "Rivi\u00e8re",
       "url": "https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8"
+    },
+    {
+      "album": {
+        "name": "Verger",
+        "url": "https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ron",
+          "url": "https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213599,
+      "name": "Roi de verre",
+      "url": "https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy"
     },
     {
       "album": {
@@ -6731,6 +6821,28 @@
     },
     {
       "album": {
+        "name": "Rose lueur",
+        "url": "https://open.spotify.com/album/7eVxlt3PfOurJfSNHiFw0m"
+      },
+      "artists": [
+        {
+          "name": "Soleil Secret",
+          "url": "https://open.spotify.com/artist/4IQCnobNBeEGanSiX0iU1K"
+        },
+        {
+          "name": "Secret sun",
+          "url": "https://open.spotify.com/artist/3v7tbK2VbPQC4A3Isn2G1y"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241049,
+      "name": "Saison des feux",
+      "url": "https://open.spotify.com/track/2bNoTLPyDM5IPWjSz1tIAl"
+    },
+    {
+      "album": {
         "name": "La distance n'est pas vraiment l\u00e0",
         "url": "https://open.spotify.com/album/61rdaK73DERmnmRxf6PB3N"
       },
@@ -6818,6 +6930,24 @@
       "duration_ms": 198750,
       "name": "Se laisser aller",
       "url": "https://open.spotify.com/track/5Hs56ulIld86EdBtPHp7JM"
+    },
+    {
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/4Q45zxvhMkereJY6HXBm7Y"
+      },
+      "artists": [
+        {
+          "name": "Claudelle",
+          "url": "https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162702,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/1QWjjncrqVWFXE9t7yCf0o"
     },
     {
       "album": {
@@ -7110,7 +7240,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 198683,
       "name": "Still You Love Me",
       "url": "https://open.spotify.com/track/0matJgxZBlEDf4ACbMSBYx"
@@ -7352,6 +7482,24 @@
       "duration_ms": 216483,
       "name": "Tenir debout",
       "url": "https://open.spotify.com/track/6VQpsaB8qzXS40QK9NvD3z"
+    },
+    {
+      "album": {
+        "name": "Bisou Triste",
+        "url": "https://open.spotify.com/album/7cEeU1nitddaPDQ6JfMHGZ"
+      },
+      "artists": [
+        {
+          "name": "Meloire",
+          "url": "https://open.spotify.com/artist/4BTPhFbG3pPr2bUlh1mHAb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178573,
+      "name": "Tes v\u00eatements",
+      "url": "https://open.spotify.com/track/3YABwrAFE2UBwxXWIuClag"
     },
     {
       "album": {

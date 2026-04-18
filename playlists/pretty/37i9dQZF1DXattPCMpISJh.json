@@ -1,13 +1,77 @@
 {
-  "description": "A new take on a classic sound. Cover: Say She She",
-  "num_followers": 154773,
+  "description": "A new take on a classic sound. Cover: Dabeull",
+  "num_followers": 154881,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGlP8Ja9W5jViIzn95KMht42DKeq",
+  "snapshot_id": "AAAAABlQYGYp4d7DEyuoWLotlFtdHq4B",
   "tracks": [
+    {
+      "added_at": "2026-04-17 04:01:11",
+      "album": {
+        "name": "Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5R9YEihXqBgCJQyxr2Edpl"
+      },
+      "artists": [
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        }
+      ],
+      "duration_ms": 226058,
+      "name": "Shadow Of Your Smile",
+      "url": "https://open.spotify.com/track/35KDCFm9Oil4kEXjNR2sfq"
+    },
+    {
+      "added_at": "2026-04-17 04:01:11",
+      "album": {
+        "name": "Rhythm Unknown",
+        "url": "https://open.spotify.com/album/6t4d4ZN2JjuEzWgmg3b3yK"
+      },
+      "artists": [
+        {
+          "name": "Moss Kena",
+          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+        }
+      ],
+      "duration_ms": 180204,
+      "name": "Rhythm Unknown",
+      "url": "https://open.spotify.com/track/1WeM5XntFJnLceZ7RVAcgo"
+    },
+    {
+      "added_at": "2026-04-17 04:01:11",
+      "album": {
+        "name": "Easy Love",
+        "url": "https://open.spotify.com/album/1JfbKBCGJHhS5pH3LAzWIC"
+      },
+      "artists": [
+        {
+          "name": "BowAsWell",
+          "url": "https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe"
+        }
+      ],
+      "duration_ms": 146726,
+      "name": "Easy Love",
+      "url": "https://open.spotify.com/track/5Mm9eOexQgDBt3Kzyg6BPP"
+    },
+    {
+      "added_at": "2026-04-17 04:01:11",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/2GSzcW6NFA9XUpMqLqpZUy"
+      },
+      "artists": [
+        {
+          "name": "Baccus",
+          "url": "https://open.spotify.com/artist/1j748qGtsUgMFsBi3yl6PW"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/0Wgjmt7RIQYdRFh5bViTdA"
+    },
     {
       "added_at": "2026-04-03 04:00:20",
       "album": {
@@ -1713,62 +1777,6 @@
       "url": "https://open.spotify.com/track/3knkb8Uye1Ndmx6abiIJCC"
     },
     {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/2830antyeEz07AIkDQpWhP"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 241550,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/4LcpxbumkUC8OBNiwBf616"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/3i49deuNwYwtZGty7fVo7o"
-      },
-      "artists": [
-        {
-          "name": "Billy Otto",
-          "url": "https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH"
-        },
-        {
-          "name": "Kabrio",
-          "url": "https://open.spotify.com/artist/6W4S9LsbJGBxhJi3kELQXy"
-        }
-      ],
-      "duration_ms": 183363,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/1slmHtKIZR5WmOeBzFzy77"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Give Me Your Love",
-        "url": "https://open.spotify.com/album/5KNa1uT6mqIWsIeEinAySc"
-      },
-      "artists": [
-        {
-          "name": "Luke Delite",
-          "url": "https://open.spotify.com/artist/3cBXq2Zo29hMzveMGVPDzL"
-        },
-        {
-          "name": "Michelle Weeks",
-          "url": "https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru"
-        }
-      ],
-      "duration_ms": 197619,
-      "name": "Give Me Your Love",
-      "url": "https://open.spotify.com/track/6bVQzNKYsvxwFlsoChGfyf"
-    },
-    {
       "added_at": "2023-07-07 04:01:00",
       "album": {
         "name": "Disco Save My Life",
@@ -1799,26 +1807,6 @@
       "duration_ms": 178134,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7tZzYmYevSj9wVFS8rb6kT"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Feel This",
-        "url": "https://open.spotify.com/album/16mrraWea47jlXf8nPwNyu"
-      },
-      "artists": [
-        {
-          "name": "Martin Eigenberg",
-          "url": "https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2"
-        },
-        {
-          "name": "Ryan Shade",
-          "url": "https://open.spotify.com/artist/73lC9QGob3QCyXallwiSWl"
-        }
-      ],
-      "duration_ms": 206355,
-      "name": "Feel This",
-      "url": "https://open.spotify.com/track/6Dca0REtMaazrwoI5YS0ib"
     },
     {
       "added_at": "2023-04-28 04:01:00",

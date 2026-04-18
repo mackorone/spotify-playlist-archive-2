@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83e\udd32 featuring zensei \u30bc\u30f3\u30bb\u30fc",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\udf18 featuring G Jones + Eprom",
   "name": "creamy",
   "tracks": [
     {
@@ -1561,6 +1561,28 @@
     },
     {
       "album": {
+        "name": "BACK2LIFE",
+        "url": "https://open.spotify.com/album/3hnrBmgnBChDxegenX7hMc"
+      },
+      "artists": [
+        {
+          "name": "bauti",
+          "url": "https://open.spotify.com/artist/5WM06QK9Vtq1p9aRSczRdf"
+        },
+        {
+          "name": "Rico 56",
+          "url": "https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135111,
+      "name": "BACK2LIFE",
+      "url": "https://open.spotify.com/track/1nTtAystVLB5UGcv09FKMI"
+    },
+    {
+      "album": {
         "name": "Backfoot",
         "url": "https://open.spotify.com/album/6KiTXmpSEETdiBl0UCrCoX"
       },
@@ -1846,7 +1868,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 191836,
       "name": "Beef",
       "url": "https://open.spotify.com/track/1y5FxSOLw9KbmxSYxY0OH0"
@@ -2161,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Better Off Before",
+        "url": "https://open.spotify.com/album/0N6Wb352thnlCDXYBU6ltE"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Better Off Before",
+      "url": "https://open.spotify.com/track/395UwzdJRE8i8pEgXBtbTJ"
+    },
+    {
+      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/0A2Nd79U4DvaxDt2s1waH9"
       },
@@ -2216,7 +2256,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 252750,
       "name": "Big Mad Banger",
       "url": "https://open.spotify.com/track/0wqPTPnSXarmB36nnq3kJh"
@@ -2858,6 +2898,28 @@
       "duration_ms": 183453,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/7f4Gk0qPZ3kOYLE1Nngilx"
+    },
+    {
+      "album": {
+        "name": "Break of Dawn",
+        "url": "https://open.spotify.com/album/1CNauoaze1UJqMobWAr592"
+      },
+      "artists": [
+        {
+          "name": "G Jones",
+          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
+        },
+        {
+          "name": "Eprom",
+          "url": "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250990,
+      "name": "Break of Dawn",
+      "url": "https://open.spotify.com/track/5AfVFCqMKLgjAOrNsDZjsZ"
     },
     {
       "album": {
@@ -6716,7 +6778,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 160941,
       "name": "EMBERS",
       "url": "https://open.spotify.com/track/3sJC1SPWZMOyzGCug7ETbz"
@@ -7342,6 +7404,28 @@
       "duration_ms": 174926,
       "name": "Eyes Closed - Overmono Remix",
       "url": "https://open.spotify.com/track/0xlJ00P5pwPbzDYxsIGKZ4"
+    },
+    {
+      "album": {
+        "name": "Eyes Cut Deeper (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/2g487gVxjRBjBwhMVJ4Ldn"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Eyes Cut Deeper (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW"
     },
     {
       "album": {
@@ -8884,7 +8968,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 201739,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/6ZNa0Y4AzxgYv8HsYMEiCU"
@@ -9604,7 +9688,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 186461,
       "name": "Go Home With A Stranger",
       "url": "https://open.spotify.com/track/6bQGjCqJLedU9x6ZAmIKE8"
@@ -10466,7 +10550,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 168000,
       "name": "hey lil mama",
       "url": "https://open.spotify.com/track/5Rv4GkCbfSfCADhXO4fmQf"
@@ -10782,7 +10866,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 148645,
       "name": "hold tight",
       "url": "https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz"
@@ -11902,6 +11986,28 @@
       "duration_ms": 182400,
       "name": "I WANNA SHOW YOU",
       "url": "https://open.spotify.com/track/3Q14qNlMH88tq3ZCB4IlW1"
+    },
+    {
+      "album": {
+        "name": "EIGHT",
+        "url": "https://open.spotify.com/album/0RPquFmrpgt3KYLpQt1bYt"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        },
+        {
+          "name": "IsGwan",
+          "url": "https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263887,
+      "name": "I Want Ya",
+      "url": "https://open.spotify.com/track/46YPT8AJc1OTx8RxD0jJyQ"
     },
     {
       "album": {
@@ -15628,7 +15734,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 212000,
       "name": "Midas",
       "url": "https://open.spotify.com/track/7Eos0zG3rEEX1A8HCXQO0d"
@@ -16166,7 +16272,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 161777,
       "name": "My Turn (feat. sbk)",
       "url": "https://open.spotify.com/track/05sEHLouKqQvs0ShE4tWbD"
@@ -16516,7 +16622,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 178784,
       "name": "Nightmares (feat. Issey Cross)",
       "url": "https://open.spotify.com/track/79aGuVHoeEa6fGzs5EmzIF"
@@ -17022,6 +17128,24 @@
       "duration_ms": 187324,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/6zCTxZ7se4Dp1uqY0Gnaeg"
+    },
+    {
+      "album": {
+        "name": "Oh Yeah",
+        "url": "https://open.spotify.com/album/0LNFvvwOvUhwk1SBSZ0v9u"
+      },
+      "artists": [
+        {
+          "name": "Dennett",
+          "url": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/3LUFqsqH7iubyJ11TwzMhB"
     },
     {
       "album": {
@@ -18112,6 +18236,28 @@
       "duration_ms": 176250,
       "name": "PANDORA",
       "url": "https://open.spotify.com/track/4662PxPccOJRPWI3NCmIfe"
+    },
+    {
+      "album": {
+        "name": "Panta Rhei (feat. LORA)",
+        "url": "https://open.spotify.com/album/1i1H0WNFhwO3tzHSg8tt49"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "LORA",
+          "url": "https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147431,
+      "name": "Panta Rhei (feat. LORA)",
+      "url": "https://open.spotify.com/track/4kTfmtKo0VjWqga4sW0WwZ"
     },
     {
       "album": {
@@ -20270,6 +20416,28 @@
       "duration_ms": 129320,
       "name": "s.o.s",
       "url": "https://open.spotify.com/track/2gRcRlKTI8WSQhufYPlO1Z"
+    },
+    {
+      "album": {
+        "name": "SABOTAGE",
+        "url": "https://open.spotify.com/album/04vWP9MFvqscwy1R0B1t6M"
+      },
+      "artists": [
+        {
+          "name": "Killin' Void",
+          "url": "https://open.spotify.com/artist/6qi5arAoexSVz1HfaDlGrR"
+        },
+        {
+          "name": "sanna frankie",
+          "url": "https://open.spotify.com/artist/31BTzG2olQWOHbn1nh1E94"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179827,
+      "name": "SABOTAGE",
+      "url": "https://open.spotify.com/track/45ozl7DjaeJDWt6cd9rTL5"
     },
     {
       "album": {
@@ -26099,6 +26267,28 @@
     },
     {
       "album": {
+        "name": "ur world",
+        "url": "https://open.spotify.com/album/0PYMW2KuyFzeeSThG5wAny"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188702,
+      "name": "ur world",
+      "url": "https://open.spotify.com/track/6sebQAJWYYNyRwHLIeDvko"
+    },
+    {
+      "album": {
         "name": "Vandal EP",
         "url": "https://open.spotify.com/album/6gkJ1vjjgtkc3axIiuh5KX"
       },
@@ -27736,6 +27926,24 @@
       "duration_ms": 204137,
       "name": "Where Do We Go (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv"
+    },
+    {
+      "album": {
+        "name": "Where's My Mind",
+        "url": "https://open.spotify.com/album/4zaxvkGuzJ7VqrHZBLY1wj"
+      },
+      "artists": [
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136010,
+      "name": "Where's My Mind",
+      "url": "https://open.spotify.com/track/04EWrxHR0sAUyVZkWoHTH1"
     },
     {
       "album": {

@@ -19763,6 +19763,32 @@
     },
     {
       "album": {
+        "name": "Aymo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3dTwjMhmC9PGR19l4G4d5T"
+      },
+      "artists": [
+        {
+          "name": "Aymo",
+          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149326,
+      "name": "Alles ist geschrieben",
+      "url": "https://open.spotify.com/track/1OnUCZlFa0C21KmI7CGeuV"
+    },
+    {
+      "album": {
         "name": "Alles ist vergessen",
         "url": "https://open.spotify.com/album/5fZ5J1RpljU7RsyuzGae9r"
       },
@@ -106903,6 +106929,24 @@
     },
     {
       "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "album": {
         "name": "Drop Dead Gorgeous",
         "url": "https://open.spotify.com/album/6GngxqHldEck7q9yLXD323"
       },
@@ -144933,7 +144977,7 @@
     },
     {
       "album": {
-        "name": "GELD",
+        "name": "Geld",
         "url": "https://open.spotify.com/album/7yonE5FXF3MeeXL8IMP6zQ"
       },
       "artists": [
@@ -144946,7 +144990,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 105035,
-      "name": "GELD",
+      "name": "Geld",
       "url": "https://open.spotify.com/track/0hpiVWAZbVxE0R92i7kucF"
     },
     {
@@ -177302,6 +177346,28 @@
       "duration_ms": 302416,
       "name": "Hun",
       "url": "https://open.spotify.com/track/5HDgh8DpVZ46gfR4grhNdf"
+    },
+    {
+      "album": {
+        "name": "HunchO STEP! (feat. Quavo)",
+        "url": "https://open.spotify.com/album/1QZeMcXY4qchahi6eQFzuT"
+      },
+      "artists": [
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200547,
+      "name": "HunchO STEP! (feat. Quavo)",
+      "url": "https://open.spotify.com/track/5Q5q2dBnvn6CkpuB8RmLXr"
     },
     {
       "album": {
@@ -390070,24 +390136,6 @@
       "duration_ms": 200722,
       "name": "Traces",
       "url": "https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4"
-    },
-    {
-      "album": {
-        "name": "Aymo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3dTwjMhmC9PGR19l4G4d5T"
-      },
-      "artists": [
-        {
-          "name": "Aymo",
-          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
-        }
-      ],
-      "date_added": "2026-04-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/1OnUCZlFa0C21KmI7CGeuV"
     },
     {
       "album": {

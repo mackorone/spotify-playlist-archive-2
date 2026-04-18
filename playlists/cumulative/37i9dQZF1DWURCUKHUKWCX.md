@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-315 songs - 16 hr 36 min
+317 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Dusklight Movement](https://open.spotify.com/track/39H9T9bTB3A8Pf3LCJ2LOt) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Beethoven Blues](https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ) | 4:17 | 2024-11-19 |  |
 | [Duvet](https://open.spotify.com/track/1mJ7C0gZp95ZPqYrnYnliU) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Duvet](https://open.spotify.com/album/0nMFK7NgMeZD1xz1t384X3) | 3:24 | 2021-12-10 | 2025-03-27 |
 | [Duvet](https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 3:24 | 2022-07-22 | 2024-04-19 |
+| [Echoes](https://open.spotify.com/track/2gKvEtffWCR5YLYvpvBQFu) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Echoes](https://open.spotify.com/album/4ZrQQ6FCGWuv7oVyi94RI6) | 3:57 | 2026-04-17 |  |
 | [Echoes Of Yesterday](https://open.spotify.com/track/0WNsGSrdR5czAzmWr0Lgm3) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Echoes Of Yesterday](https://open.spotify.com/album/5ufu9GnNrEzzf9ZbwYe3e3) | 2:37 | 2025-12-01 |  |
 | [Eden](https://open.spotify.com/track/4224vfqQpznVh4X04AIrZp) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Eden](https://open.spotify.com/album/3B6ajgq03CrZCJAoQCX2tp) | 4:55 | 2026-04-02 |  |
 | [Embers](https://open.spotify.com/track/6RjTKFwiZfTrkBJXmCiNym) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Embers](https://open.spotify.com/album/7qrMjy81QY0mY6lj6jGcbn) | 2:37 | 2021-12-10 | 2025-03-27 |
@@ -287,6 +288,7 @@
 | [The Tides Inside](https://open.spotify.com/track/1FpCLPVuwO9BeBcwXjW2Hs) | [Eleri Margret Morgan](https://open.spotify.com/artist/4y6jrgzmPtF7kF1kHAPbjO), [Eleri Morgan](https://open.spotify.com/artist/4UKusgzLWDALaVFRYUdpj9) | [The Tides Inside](https://open.spotify.com/album/1YqlIkA8lO4qDuXMq5dBiD) | 4:39 | 2025-07-25 |  |
 | [The Wanderer](https://open.spotify.com/track/0I7fqOPENtm3St0h5x68rQ) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [The Wanderer](https://open.spotify.com/album/4T7oXo5g4DBoP34QIRpdzU) | 3:25 | 2026-04-02 |  |
 | [The Weight Of Fear](https://open.spotify.com/track/1QCAEjOCUPePqYLZTQ0UuQ) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [The Weight Of Fear](https://open.spotify.com/album/1znZjWMZo7qMlYadTcn8G0) | 3:13 | 2021-12-10 | 2023-03-15 |
+| [The White Blur Was a Fox \- Nowhere Sessions](https://open.spotify.com/track/2RnBhNFZXgDpRP7Oa0AZgl) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [The White Blur Was a Fox \(Nowhere Sessions\)](https://open.spotify.com/album/5WtN0AZd4vgoAucya1rom9) | 3:29 | 2026-04-17 |  |
 | [Thirty](https://open.spotify.com/track/3VkJtin5wvok5H43TN4xv5) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Thirty](https://open.spotify.com/album/4h5DGFxPNsrOW3wxs2miTY) | 2:34 | 2022-01-21 |  |
 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 | 2023-03-31 |  |
 | [Tides \- Soft Felt Piano](https://open.spotify.com/track/4daFxaQC8EQLHVcryi2sRA) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ), [Marco Velocci](https://open.spotify.com/artist/0fey1vDYFmbGGRWCo1iwWe) | [Tides \(Soft Felt Piano\)](https://open.spotify.com/album/2tE1PBjVgv6rg6I5qkIeRH) | 5:33 | 2025-12-22 |  |

@@ -4,7 +4,7 @@
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: IDHEM
 
-1,899 songs - 4 day 7 hr 14 min
+1,902 songs - 4 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [CALYPSO VIP](https://open.spotify.com/track/17Yc506DrPVDJwgW1Dogp7) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [CALYPSO VIP](https://open.spotify.com/album/2zVIdJj47fsbsAXe7yiMNf) | 2:44 | 2026-01-09 | 2026-03-14 |
 | [Camel8strike](https://open.spotify.com/track/23K5wTomiNskKrWqDOwchX) | [Asian Glow](https://open.spotify.com/artist/74om4qLxb9MIsubhtvxQQJ) | [11100011](https://open.spotify.com/album/2rWZtoDwT3QESDsZXnFleg) | 3:58 | 2025-01-17 | 2025-04-19 |
 | [Can I](https://open.spotify.com/track/0r56mYppTGefJHM9sKMBOX) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Can I](https://open.spotify.com/album/35JD05BJsVNF0aRd71Qlwo) | 2:31 | 2026-03-27 |  |
+| [can we just forget?](https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye) | [Baileyrp](https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz) | [can we just forget?](https://open.spotify.com/album/6olTVmgvSuZeUleCYAtayG) | 4:43 | 2026-04-17 |  |
 | [Can't Help Myself](https://open.spotify.com/track/6QlWVgJiRRC6IbaW6TSmwB) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Can't Help Myself](https://open.spotify.com/album/14zKEx62p2QYnFb8gyP7qJ) | 3:56 | 2022-04-29 | 2022-06-04 |
 | [CAN'T TELL ME NOTHING](https://open.spotify.com/track/5Ch6ZcfUCDzoJsMfhxmK46) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [CAN'T TELL ME NOTHING](https://open.spotify.com/album/4KzvzrVvk26wrGl1irb2Xi) | 2:59 | 2022-07-08 | 2022-09-10 |
 | [Canopy](https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Canopy](https://open.spotify.com/album/6a8gfcfPLFQJ87ZMM1FPPB) | 2:31 | 2024-03-29 | 2024-04-19 |
@@ -809,7 +810,7 @@
 | [Hummingbird](https://open.spotify.com/track/4I0KjYxuQtNov6MHuuL6zt) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy) | [Hummingbird](https://open.spotify.com/album/4s1FfyvuF0u8WntCqgTdn8) | 3:16 | 2022-03-25 | 2022-04-29 |
 | [hurt and alone](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [hurt and alone](https://open.spotify.com/album/51gXbmf0G0s4YY2eePxKuf) | 2:35 | 2026-02-20 |  |
 | [Hypernormalization](https://open.spotify.com/track/1dKoVCoteyPXu1OQA2h7LN) | [Rich Aucoin](https://open.spotify.com/artist/2XwFZjlnvpwnZSO8QbKErQ) | [Hypernormalization](https://open.spotify.com/album/2qnGhvs13gUZnASxlGmMiK) | 4:09 | 2022-05-13 | 2022-07-23 |
-| [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 | 2026-04-03 |  |
+| [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 | 2026-04-03 | 2026-04-18 |
 | [I ADORE YOU](https://open.spotify.com/track/6Th52qXFqN3Zr3b5QUGGNc) | [Mandaworld](https://open.spotify.com/artist/2N6Ed6g2uFyP2D03Bxo3x3) | [I ADORE YOU](https://open.spotify.com/album/1TTyAGVq0SbmAJOlXl1lLq) | 2:08 | 2023-01-27 | 2023-02-25 |
 | [I Am Hopeless Devotion](https://open.spotify.com/track/0uoafYqQFAiJhRMbTsCglE) | [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [X1\-Y2](https://open.spotify.com/artist/6AxbrEv8tfYDYlm82VXe0R) | [Dissolution of Self](https://open.spotify.com/album/1vRiayLTm0N41BdDQ0YmTI) | 2:58 | 2025-10-31 | 2026-02-21 |
 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 | 2023-11-10 | 2024-04-06 |
@@ -834,6 +835,7 @@
 | [I Need](https://open.spotify.com/track/2dXp3Fgo5FkV2xxm0bUih8) | [Dakota North](https://open.spotify.com/artist/3jSpqzexmaN7fAcJ0R7pNx) | [I Need](https://open.spotify.com/album/2MMtlIliEfuasvgnsAwmu7) | 3:08 | 2022-05-27 | 2022-07-02 |
 | [I Never Knew You Well](https://open.spotify.com/track/4pU9XfXGm1773grbmqu4gh) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [CALL ME TWICE PT\. 1](https://open.spotify.com/album/433SKA9JbP0aeE103H6mmA) | 4:29 | 2024-08-09 | 2024-11-23 |
 | [I Wanna Be Software](https://open.spotify.com/track/6Qnw1wRWCxdpKV7xlv0706) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Illangelo](https://open.spotify.com/artist/1aji1uMIIghmeNmhanEqyD) | [I Wanna Be Software](https://open.spotify.com/album/53t7HLPMqdHgtJCMmiQkvL) | 3:38 | 2023-07-28 | 2023-11-18 |
+| [I WANNA DANCE](https://open.spotify.com/track/7meRbdhGSL33VwsUK9P2mB) | [Tallandskiinny](https://open.spotify.com/artist/7oV3ZD4d2onldb3N8DKQjm) | [I WANNA DANCE](https://open.spotify.com/album/0ERprW5OlF990S05xy6TEs) | 2:31 | 2026-04-17 |  |
 | [I Want Things to Be Beautiful](https://open.spotify.com/track/6uZm4IvkJPbETKFOjRhr1c) | [Devi McCallion](https://open.spotify.com/artist/6i1PYODUPDYMtaK8QCGE9I) | [I Want Things to Be Beautiful](https://open.spotify.com/album/5hHbEzhTnXnWVFYhdacR66) | 1:46 | 2025-11-14 | 2026-02-21 |
 | [i wish i could rip off this old face](https://open.spotify.com/track/5t3MKtYPpzPz4LfsqeTgpq) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i wish i could rip off this old face](https://open.spotify.com/album/1zxq5E8fjnSO1jC16diuXY) | 2:15 | 2025-10-31 | 2026-01-17 |
 | [I Won't Bite](https://open.spotify.com/track/3NJe9t6oxZgzErlBrWDuKx) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [I Won't Bite](https://open.spotify.com/album/6qn9Deaiebh89YVpukAhcX) | 4:17 | 2022-03-04 | 2022-03-12 |
@@ -1486,6 +1488,7 @@
 | [Shoreline](https://open.spotify.com/track/3w8uytI0WS3b1aCSfPm8ST) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Shoreline](https://open.spotify.com/album/3TXH77DkOU6c9ppGIXO3fd) | 4:16 | 2025-06-27 | 2025-11-01 |
 | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B) | 3:07 | 2023-03-17 | 2023-05-06 |
 | [shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [slept on the floor still dreamt about you](https://open.spotify.com/album/40BEVH86n8EDOKZIy7Jg8S) | 1:33 | 2026-01-23 |  |
+| [SHUT YOUR DAMN 95.7892](https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY) | 3:05 | 2026-04-17 |  |
 | [SICK](https://open.spotify.com/track/3vcOUlqLMGJ64Y0h8npVxq) | [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [SICK](https://open.spotify.com/album/746TmWT3VFT0Y7wDbueXgG) | 3:46 | 2025-04-11 | 2025-08-02 |
 | [Sickle Walk](https://open.spotify.com/track/2UxZMkNEeWqBoqfiGTrNVy) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Sickle Walk](https://open.spotify.com/album/2DoclzbDNEDSaRyQj77PL7) | 1:26 | 2025-02-07 | 2025-03-08 |
 | [Sides Of Me I've Never Met](https://open.spotify.com/track/36OMqGe1gqqPxXcAEeB3LA) | [Grace of Arc](https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t) | [Sides Of Me I've Never Met](https://open.spotify.com/album/7Es51YBrLmuu1cWrY9g6bP) | 3:58 | 2025-10-31 | 2026-02-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Adictiva & Julio Preciado \ud83d\udcf8",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Nathan Galante \ud83d\udcf8",
   "name": "Banda 2026",
   "tracks": [
     {
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 264000,
       "name": "Ausencia Eterna",
       "url": "https://open.spotify.com/track/5vIQ3OpHYWtFfwzjoLovdZ"
@@ -1751,6 +1751,28 @@
     },
     {
       "album": {
+        "name": "Coleccionando Heridas",
+        "url": "https://open.spotify.com/album/3cRD1iHJDCV1InslSYOz3P"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        },
+        {
+          "name": "Diana Reyes",
+          "url": "https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201340,
+      "name": "Coleccionando Heridas",
+      "url": "https://open.spotify.com/track/1Moi1EHc7X9cceNOk1TDZS"
+    },
+    {
+      "album": {
         "name": "Como Duele Equivocarse",
         "url": "https://open.spotify.com/album/7uPgz1Q8wMcX95PwxUH3tU"
       },
@@ -2164,6 +2186,24 @@
       "duration_ms": 188933,
       "name": "Consejo de Compas",
       "url": "https://open.spotify.com/track/4xBRZ6a6zcmYcEmPepXGGT"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde La Oficina",
+        "url": "https://open.spotify.com/album/2WjjoqOuPMIbmZcJkqrrMc"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144370,
+      "name": "Copa de Vino",
+      "url": "https://open.spotify.com/track/0LflEWaUaypzR08kLtgrd0"
     },
     {
       "album": {
@@ -2736,7 +2776,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 215364,
       "name": "De Nuestro Amor No Queda Nada",
       "url": "https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj"
@@ -2942,7 +2982,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 201500,
       "name": "Disculpe Usted",
       "url": "https://open.spotify.com/track/0no1lxFdg7ma79KH0hy2tK"
@@ -4312,7 +4352,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 163607,
       "name": "El Tabaco Mascado",
       "url": "https://open.spotify.com/track/4y0vFpMhPsoqMegFw25hos"
@@ -6109,6 +6149,28 @@
     },
     {
       "album": {
+        "name": "La Vida Es As\u00ed",
+        "url": "https://open.spotify.com/album/6lqyfU9G5QpallxLMEEFl6"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230064,
+      "name": "La Vida Es As\u00ed",
+      "url": "https://open.spotify.com/track/45bJeOgpjE4fizusyt7XWg"
+    },
+    {
+      "album": {
         "name": "Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
       },
@@ -6520,7 +6582,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 174824,
       "name": "Lo Que Dure Esta Botella",
       "url": "https://open.spotify.com/track/0PJlAjQTp04PjEf3Rci3JH"
@@ -6578,7 +6640,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 179160,
       "name": "Lo Veras de Lejos",
       "url": "https://open.spotify.com/track/0V4mvvjtI2q72Z9gPKDzj3"
@@ -7080,7 +7142,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 182127,
       "name": "Me Qued\u00e9 Sin Ti",
       "url": "https://open.spotify.com/track/26TXWg2uSzyqVhXywgG10F"
@@ -8118,7 +8180,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 234614,
       "name": "No Bailes de Caballito",
       "url": "https://open.spotify.com/track/5hofPEfFQTgLdoWmixQfYz"
@@ -8473,6 +8535,24 @@
     },
     {
       "album": {
+        "name": "T\u00fa Ya Las Conoces, Vol. 1",
+        "url": "https://open.spotify.com/album/5hWvKoRgaDqIsg9giUp42D"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141688,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2"
+    },
+    {
+      "album": {
         "name": "N\u00famero Equivocado",
         "url": "https://open.spotify.com/album/2EJH8SGmyMJ1YsbMTX5csC"
       },
@@ -8669,6 +8749,24 @@
     },
     {
       "album": {
+        "name": "Pa' Adelante Voy",
+        "url": "https://open.spotify.com/album/78e7lUBppt7mwXzXcuYrV6"
+      },
+      "artists": [
+        {
+          "name": "Jr Salazar",
+          "url": "https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164684,
+      "name": "Pa' Adelante Voy",
+      "url": "https://open.spotify.com/track/3YHnfff6ZchUGF1icPkg0p"
+    },
+    {
+      "album": {
         "name": "Pa' la Sed",
         "url": "https://open.spotify.com/album/3r144MpSvmsfBRq5JI5xq6"
       },
@@ -8804,7 +8902,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 221217,
       "name": "Para Toda La Vida",
       "url": "https://open.spotify.com/track/4vdCYL6S8koDV3h3e9UlhY"
@@ -8946,6 +9044,24 @@
       "duration_ms": 150950,
       "name": "Paz En Este Amor - En Vivo",
       "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
+    },
+    {
+      "album": {
+        "name": "Pedo No Cuenta",
+        "url": "https://open.spotify.com/album/6WmW0TfNDMqS3jUUn61mKZ"
+      },
+      "artists": [
+        {
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Pedo No Cuenta",
+      "url": "https://open.spotify.com/track/1ICxx5XxqQdtCwed5WDA0D"
     },
     {
       "album": {
@@ -9512,6 +9628,28 @@
       "duration_ms": 190533,
       "name": "Prefiero Estar Muerto",
       "url": "https://open.spotify.com/track/1Nco4JRyvxxcehIcgDmQUe"
+    },
+    {
+      "album": {
+        "name": "Primero Ens\u00e9\u00f1ate A Querer",
+        "url": "https://open.spotify.com/album/5meDxtJWeTI00FtUmwmJDi"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165075,
+      "name": "Primero Ens\u00e9\u00f1ate A Querer",
+      "url": "https://open.spotify.com/track/7CPmZLF2rJUxxE85S011rf"
     },
     {
       "album": {
@@ -10501,6 +10639,24 @@
     },
     {
       "album": {
+        "name": "Me Las Dijo El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175872,
+      "name": "Se Cancela",
+      "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
+    },
+    {
+      "album": {
         "name": "Se Cans\u00f3 (En Vivo)",
         "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
       },
@@ -10650,6 +10806,24 @@
       "duration_ms": 179657,
       "name": "Se Me Muri\u00f3 El Amor",
       "url": "https://open.spotify.com/track/0deAHUwu0dSMbOHJbloNkR"
+    },
+    {
+      "album": {
+        "name": "Se Me Sali\u00f3 Una Lagrimita",
+        "url": "https://open.spotify.com/album/5ZBEtjaAG5UfuvaY6WJkDr"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165329,
+      "name": "Se Me Sali\u00f3 Una Lagrimita",
+      "url": "https://open.spotify.com/track/0M0xpwVWyjzcQNPnERkskG"
     },
     {
       "album": {
@@ -11670,7 +11844,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 253071,
       "name": "Te amo y te amar\u00e9",
       "url": "https://open.spotify.com/track/6jDO7AeD5w2YlRqrH0ONVy"
@@ -12446,7 +12620,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 243776,
       "name": "Tu Regalo Se Qued\u00f3 En El Arbolito",
       "url": "https://open.spotify.com/track/4T4SXrmgimvABFD409RDRa"
@@ -13350,6 +13524,28 @@
       "duration_ms": 133825,
       "name": "Ya Cruc\u00e9",
       "url": "https://open.spotify.com/track/1WRRU90e974JnRGf3iK2XK"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1quina del Tiempo",
+        "url": "https://open.spotify.com/album/0aLytLEELAi75gqvjsynmA"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186021,
+      "name": "Ya Es Muy Tarde",
+      "url": "https://open.spotify.com/track/6sGbcuvaz15btt3RupkRCO"
     },
     {
       "album": {

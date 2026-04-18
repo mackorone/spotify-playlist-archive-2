@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "ALL THORNS NO ROSES",
+        "url": "https://open.spotify.com/album/7whk2qSdvWEqv7zO4FX4HH"
+      },
+      "artists": [
+        {
+          "name": "FAEDA",
+          "url": "https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "ALL THORNS NO ROSES",
+      "url": "https://open.spotify.com/track/4zAsrsEnRA3JwsTPDibT58"
+    },
+    {
+      "album": {
         "name": "Choice Blooms",
         "url": "https://open.spotify.com/album/6plVIfUeOqZvVUjWSgova4"
       },
@@ -2202,6 +2220,24 @@
       "duration_ms": 276213,
       "name": "Longnor",
       "url": "https://open.spotify.com/track/3BZcOmxBYdhrqq68OlmaPW"
+    },
+    {
+      "album": {
+        "name": "Look Me In The Eye",
+        "url": "https://open.spotify.com/album/122QcOvBCwlu4MUQ7Pq1N0"
+      },
+      "artists": [
+        {
+          "name": "FAEDA",
+          "url": "https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213472,
+      "name": "Look Me In The Eye",
+      "url": "https://open.spotify.com/track/4V6D8bxGBhhqFhe6pTWbHg"
     },
     {
       "album": {

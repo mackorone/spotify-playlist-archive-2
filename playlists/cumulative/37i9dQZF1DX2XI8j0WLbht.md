@@ -2,9 +2,9 @@
 
 ### [Folk Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
+> una guitarra y mucho sentimiento para cantar\. Kevin Kaarl en portada.
 
-274 songs - 17 hr 35 min
+276 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [La Bruja](https://open.spotify.com/track/4qKhQkzaHv2JjuOwTjqeQV) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [La Bruja](https://open.spotify.com/album/7DkmzX4YfIgH13348gjXST) | 3:39 | 2022-03-04 | 2022-11-14 |
 | [La Canícula](https://open.spotify.com/track/5kQ2OzJ6OJZgkc3u7P65ey) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [La Canícula](https://open.spotify.com/album/5fw1tmc1GBEunY8wjXgGBA) | 3:07 | 2022-03-04 | 2025-05-31 |
 | [La Canícula](https://open.spotify.com/track/5ltGrLgjwhLk5o0yGP1WXL) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 3:07 | 2025-05-30 |  |
-| [La Ciudad](https://open.spotify.com/track/2WkdQRVKSpQR7m8ADRgen5) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [La Ciudad](https://open.spotify.com/album/6Kg0WYwrz6on4qEPJLGuWO) | 3:33 | 2025-06-24 |  |
+| [La Ciudad](https://open.spotify.com/track/2WkdQRVKSpQR7m8ADRgen5) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [La Ciudad](https://open.spotify.com/album/6Kg0WYwrz6on4qEPJLGuWO) | 3:33 | 2025-06-24 | 2026-04-18 |
 | [La Corriente](https://open.spotify.com/track/40Zju5o9KUlk51Vvwqa7mB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:31 | 2025-05-30 | 2025-11-29 |
 | [La Distancia](https://open.spotify.com/track/00PlbGbxatNx4FdF7WiSXS) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [La Distancia](https://open.spotify.com/album/5YSQOfpviTDmkNEbOytKJE) | 3:33 | 2025-01-10 |  |
 | [La llorona](https://open.spotify.com/track/4Mq73FvzLlMdy0VuOvVzjN) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 6:44 | 2022-03-04 | 2025-05-31 |
@@ -165,6 +165,7 @@
 | [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 | 2022-03-04 | 2023-03-19 |
 | [Mi Conga Es De Akokán](https://open.spotify.com/track/6FJ0VplefpgvlK4sqzDwlE) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS) | [Mi Conga Es De Akokán](https://open.spotify.com/album/7j6GwM7a2pz8J1kIfOTodZ) | 3:32 | 2022-03-04 | 2023-02-23 |
 | [Mi Pueblo](https://open.spotify.com/track/3c1YCQvr720s61gHPgtkv8) | [Guadalupe de Jesús Chan Poot](https://open.spotify.com/artist/2RRmC4JQr7v3ejOAwxTwp5) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:40 | 2023-02-03 | 2025-05-31 |
+| [mirar adentro](https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [mirar adentro](https://open.spotify.com/album/5crFVDguekt65vFoLlKgew) | 3:29 | 2026-04-17 |  |
 | [Mis Muertos](https://open.spotify.com/track/4f0MX5DNAc2qwP1pSI7YHT) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/6ZoGWwn54s7pE5Mv3H9PqD) | 2:21 | 2022-03-04 | 2025-05-31 |
 | [Mis Muertos](https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu) | 2:21 | 2023-06-09 | 2024-04-19 |
 | [Mis Muertos](https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em) | 2:21 | 2022-03-04 | 2023-07-07 |
@@ -198,7 +199,7 @@
 | [Piensa en Mí](https://open.spotify.com/track/1KfCdHD9zFCzcjYYhy6dwy) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Piensa en Mí](https://open.spotify.com/album/5R0XXQDPspK5UIQQeOJg6W) | 3:28 | 2022-03-04 | 2025-05-31 |
 | [Popango](https://open.spotify.com/track/79bZNuOM8V5W8n2DaTpUXf) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n) | 2:44 | 2024-09-06 | 2025-05-31 |
 | [Por Los Caminos Del Sur](https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS) | [Costa Mía Orquesta](https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL), [Vania Fortuna](https://open.spotify.com/artist/573vmSNtAqa0P3uvg4NqzF) | [Por Los Caminos Del Sur](https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689) | 2:38 | 2022-03-04 | 2025-05-31 |
-| [Precisa Tiempo](https://open.spotify.com/track/22tsm1x1JSXtth3JBSbbcs) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Precisa Tiempo](https://open.spotify.com/album/6WG6ZR9TbX048lDG9SHDVN) | 3:38 | 2025-12-05 |  |
+| [Precisa Tiempo](https://open.spotify.com/track/22tsm1x1JSXtth3JBSbbcs) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Precisa Tiempo](https://open.spotify.com/album/6WG6ZR9TbX048lDG9SHDVN) | 3:38 | 2025-12-05 | 2026-04-18 |
 | [Propuestas Imposibles](https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Propuestas Imposibles](https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb) | 3:43 | 2022-03-04 | 2025-05-31 |
 | [Pura Flor](https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Pura Flor](https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1) | 3:57 | 2022-03-04 | 2025-05-31 |
 | [Pérame Tantito](https://open.spotify.com/track/0jeYevrtN1UjsTQnLdc7L6) | [Karis Sea](https://open.spotify.com/artist/1hZdBi5DEE6yFOUOcfFjGq) | [Pérame Tantito](https://open.spotify.com/album/6A2JCnbH2Pem0VYZx6f9MT) | 2:01 | 2025-01-10 | 2025-12-20 |
@@ -249,6 +250,7 @@
 | [Ten Piedad](https://open.spotify.com/track/10fqqFfUrTBEU30hKOzPsf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Ten Piedad](https://open.spotify.com/album/3kQDJHv4VVNoQkTBzwlQPK) | 4:17 | 2025-11-07 |  |
 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 | 2025-05-30 |  |
 | [TIENES QUE ENTENDER](https://open.spotify.com/track/7KRHqiqqXru6uNC9Z63rFX) | [Andrés Zavala](https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2) | [TIENES QUE ENTENDER](https://open.spotify.com/album/4SIaxOd1X4CyPCEPQKtuUb) | 2:51 | 2025-11-14 | 2026-02-07 |
+| [Todo el tiempo /maqueta/](https://open.spotify.com/track/2t6WNYe7qCekYln7DIvVAI) | [Alejandrina](https://open.spotify.com/artist/2rKJlCjo9OYhuq7AWP1xaj) | [Todo el tiempo /maqueta/](https://open.spotify.com/album/7JxXbrZEQLr5MoTI041cGb) | 2:32 | 2026-04-17 |  |
 | [tquiero](https://open.spotify.com/track/1qrVVl2xV3gBkMzNtEOIRW) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [tquiero](https://open.spotify.com/album/7jHQGXyamGThrpeUlhlBzk) | 2:33 | 2026-02-20 |  |
 | [Triste Pero No Cobarde \(Versión Acústica\)](https://open.spotify.com/track/6Jv5QIyxHtBLvKB8U84Ae2) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Triste Pero No Cobarde \(Versión Acústica\)](https://open.spotify.com/album/3qqiuCVd7j8bLEICEmycNC) | 3:11 | 2022-03-04 | 2025-05-31 |
 | [Tristeza \- Spotify Singles](https://open.spotify.com/track/3snlRAr38hQef8sz0hJbmy) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:45 | 2022-04-20 | 2024-04-19 |

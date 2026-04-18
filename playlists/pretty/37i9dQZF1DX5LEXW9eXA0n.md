@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: 우디 \(Woody\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,299 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,458 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 5 | [이제야 사랑이 보이네](https://open.spotify.com/track/7ojKhprnV0Z7efNXEUv4Tl) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [이제야 사랑이 보이네](https://open.spotify.com/album/1EPWuiiAmdXc47A9YLpeSZ) | 4:04 |
 | 6 | [Still Here](https://open.spotify.com/track/40ozUffOxCv6Ge5ip6jSN0) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Our Cosmos](https://open.spotify.com/album/2yudf19Ddb0ynglfZtKpD0) | 3:47 |
 | 7 | [AE](https://open.spotify.com/track/1JPbaf6KZmhKVWBuJVGZUa) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [A & E](https://open.spotify.com/album/7droYw9f5Gby9pgjzGH8yh) | 4:55 |
-| 8 | [Always You](https://open.spotify.com/track/44YjvQqYO17jk0VeTY1LKe) | [Kim Won Joo](https://open.spotify.com/artist/047yOGiAm4YzgP6lgzxD0D) | [Always You \(Original Soundtrack from Recipe for Love\)](https://open.spotify.com/album/6X7eCHmm5pYJbbKn1ETnnP) | 3:44 |
+| 8 | [Always You](https://open.spotify.com/track/44YjvQqYO17jk0VeTY1LKe) | [Kim Won Joo](https://open.spotify.com/artist/047yOGiAm4YzgP6lgzxD0D) | [Always You \(Original Soundtrack from Recipe for Love, Pt\. 6\)](https://open.spotify.com/album/6X7eCHmm5pYJbbKn1ETnnP) | 3:44 |
 | 9 | [Honey](https://open.spotify.com/track/4NyDKIS5bZ1qOAWgvgtmXI) | [Kang Kyun Sung](https://open.spotify.com/artist/5WwAKeVt8r1C9LTt4vfOI9), [Kim Jang\-Hoon](https://open.spotify.com/artist/4QzN6n7tK3NNCZnloWCKzi) | [Honey](https://open.spotify.com/album/2ekNfIhbI7BCS60K9UjJer) | 4:01 |
 | 10 | [나의 바람은 \(My Wish\)](https://open.spotify.com/track/4nBrz3SZL65qMNf2oF4i5O) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [우리는 매일매일 OST Part.7 – 나의 바람은 \(Before We Knew OST Part.7 – My Wish\)](https://open.spotify.com/album/5mxc5C915JkW8yWmwRYeRg) | 3:59 |
 | 11 | [You Ruined Me](https://open.spotify.com/track/5G9yKd2KszcMMK6FaXnzq1) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [You Ruined Me](https://open.spotify.com/album/7twWecwz0kjiceI9rLbFzk) | 3:39 |

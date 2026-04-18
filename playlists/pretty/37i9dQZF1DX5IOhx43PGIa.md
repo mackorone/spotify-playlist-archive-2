@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: Laufey and friends 🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,862 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,870 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [Morning](https://open.spotify.com/track/3Loj7PPp5LnYMTkluYIMJJ) | [Baobei](https://open.spotify.com/artist/2Pj6Ot77F8iLP6H0QkXt1h) | [Morning](https://open.spotify.com/album/26kkbFV8Rt2gS0WB4KI3pa) | 2:29 |
 | 100 | [Headlock \- Spotify Singles](https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Headlock \- Spotify Singles](https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG) | 3:40 |
 
-Snapshot ID: `AAAAABZNFfoadIewZK2td/18ZGjlOAFD`
+Snapshot ID: `AAAAAP58bKNakIVvql5wTRA7udtiJuXr`

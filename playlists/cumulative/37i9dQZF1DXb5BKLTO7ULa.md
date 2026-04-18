@@ -4,7 +4,7 @@
 
 > Nieuw: Tyla & Zara Larsson, sombr, Kris Kross Amsterdam, FLEMMING en meer..
 
-15,365 songs - 33 day 11 hr 2 min
+15,366 songs - 33 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3778,6 +3778,7 @@
 | [Droom Sinds Klein](https://open.spotify.com/track/29w2gzyFS8FUuBrG3DeHxW) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Op De Zeeweg](https://open.spotify.com/album/5H1MieYnriQEUrLSvpdWMK) | 3:39 | 2024-05-09 | 2024-05-17 |
 | [Droomde ff](https://open.spotify.com/track/0iRH7y941fBQB5BU1TI8wL) | [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [Droomde ff](https://open.spotify.com/album/5x4X8vrSKcaPN9vCKdbhFN) | 4:03 | 2024-12-12 | 2024-12-20 |
 | [droook](https://open.spotify.com/track/60yHE7YrMcdDqpASoRsVCB) | [theo artz](https://open.spotify.com/artist/3eiT9L7vDW31nH9ufEL7Nb) | [droook](https://open.spotify.com/album/5Im5wTrQjU6AN9WkicfSQE) | 3:07 | 2026-04-02 | 2026-04-10 |
+| [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-16 |  |
 | [Drop Dead Gorgeous](https://open.spotify.com/track/2x9Fy0DVFyuIHGodTETDnt) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Drop Dead Gorgeous](https://open.spotify.com/album/6GngxqHldEck7q9yLXD323) | 3:07 | 2025-06-26 | 2025-07-04 |
 | [Dropship](https://open.spotify.com/track/2kQZRtNoB50YDrzOE6UtE3) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Dropship](https://open.spotify.com/album/0pRxKtug8I1s3N9JEhXhAb) | 2:22 | 2026-01-15 | 2026-01-23 |
 | [Drown](https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Drown](https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA) | 4:20 | 2024-02-22 | 2024-03-01 |
@@ -3887,7 +3888,7 @@
 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 | 2026-03-26 | 2026-04-03 |
 | [Echoes](https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Echoes](https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5) | 2:42 | 2025-07-03 | 2025-07-11 |
 | [Echoes](https://open.spotify.com/track/0YreOU4wHSFXnqkgt2WvUQ) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Echoes](https://open.spotify.com/album/6fBcLaQh4lzHMWewVJ01AC) | 2:54 | 2025-10-23 | 2025-10-31 |
-| [Echoes](https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Saksham](https://open.spotify.com/artist/6VVI4hKZWovOZO0ia3jaFi), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [Echoes](https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8) | 3:39 | 2026-04-16 |  |
+| [Echoes](https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [Echoes](https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8) | 3:39 | 2026-04-16 |  |
 | [Echoes](https://open.spotify.com/track/7hltDDKkXw4dp6zQosSGak) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [I AM](https://open.spotify.com/album/7x2wXwU5gQZ6pauIlkWIi3) | 2:50 | 2024-09-19 | 2024-09-27 |
 | [Echt Verliefd Zijn](https://open.spotify.com/track/13FOKNJGRyqZljne7ejBa2) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [Echt Verliefd Zijn](https://open.spotify.com/album/1TC2yKrKlrhmNV0BOguMfH) | 2:53 | 2023-05-19 | 2023-05-26 |
 | [Echte Liefde](https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Echte Liefde](https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD) | 2:35 | 2024-10-31 | 2024-11-08 |

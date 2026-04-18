@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-592 songs - 1 day 15 hr 24 min
+593 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,7 +496,7 @@
 | [Surely Goodness \(feat\. Phil Thompson\)](https://open.spotify.com/track/5p8eebjG6L3AS5JxGA6fSg) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Surely Goodness](https://open.spotify.com/album/7JPu2axcCxxcXhu3PDVnZY) | 4:48 | 2025-04-25 | 2025-06-13 |
 | [Synergy](https://open.spotify.com/track/012NuMFPY9BBlfYfUIzGs4) | [StraTeGee](https://open.spotify.com/artist/4utqTLxdOhcJAAq0DXL6PR), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Synergy](https://open.spotify.com/album/4xc8SyumGUd12gji9kpWuo) | 2:44 | 2026-02-06 | 2026-02-27 |
 | [Take It](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 3:30 | 2026-04-03 |  |
-| [TAMUNO](https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh) | [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [TAMUNO](https://open.spotify.com/album/3Hx2cSmvKNliegyB4Ok0O1) | 2:36 | 2026-02-27 |  |
+| [TAMUNO](https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh) | [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [TAMUNO](https://open.spotify.com/album/3Hx2cSmvKNliegyB4Ok0O1) | 2:36 | 2026-02-27 | 2026-04-18 |
 | [Tamuno](https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Tamuno](https://open.spotify.com/album/6lVo8S6mZASvu5k9L8wUTs) | 4:16 | 2025-10-10 | 2025-10-31 |
 | [Taste and See](https://open.spotify.com/track/0NEpOOQ22Hg9hoVcKv9cYX) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Taste and See](https://open.spotify.com/album/0LVhZzkYq5mQKW5WNTlxYV) | 3:05 | 2025-10-31 | 2026-02-06 |
 | [Telling Everyone](https://open.spotify.com/track/3KpOMEy33l2fOr8ybnUjnb) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Now That I'm Found](https://open.spotify.com/album/312T2mtANBk8C4iUEq1rfw) | 2:52 | 2025-10-24 | 2026-02-27 |
@@ -581,6 +581,7 @@
 | [You Love Me](https://open.spotify.com/track/1CbxScpjh51CYZrgBan8PV) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m) | [Light](https://open.spotify.com/album/5YhRtt52IwtF6rWIdvOnYs) | 3:26 | 2025-07-11 | 2025-10-03 |
 | [You Never Leave](https://open.spotify.com/track/04ohrXlXa64ePcux7TyNM0) | [Laolu Adewumi](https://open.spotify.com/artist/4bLvRbw3aelMQlVPBnxFG7), [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [You Never Leave](https://open.spotify.com/album/4OZv2AKjptecJZI9G7tVzH) | 2:43 | 2025-05-30 | 2025-09-26 |
 | [You No Fit Fall My Hand](https://open.spotify.com/track/2EMngwfxP9vCOUruuMna1X) | [U'chims](https://open.spotify.com/artist/5JQ2HDh019lW9BksoYyGhL), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [You No Fit Fall My Hand](https://open.spotify.com/album/5HKt8CO7EgDMSm6lhHnALu) | 2:32 | 2024-09-30 | 2025-02-28 |
+| [You Raise Me Up](https://open.spotify.com/track/2NDUaoJ9h3mTXrAucL0Vv3) | [Mpilo West](https://open.spotify.com/artist/5qSASw5aGWOfyHnZrVR8cf), [Deepkid RSA](https://open.spotify.com/artist/1nxzAYhUMCE6o3uRwAxzw3), [Momo RSA](https://open.spotify.com/artist/1xkXXWRbLxrqpevGE7eHI5) | [PHEZULU](https://open.spotify.com/album/1dO3Y6U400UZbTTatRpxiy) | 3:32 | 2026-04-10 |  |
 | [Your Face](https://open.spotify.com/track/2D30APayldrwbX1mKTPoT4) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA), [Light Fred](https://open.spotify.com/artist/4sUoajVY7od9hVhw0yBcOT) | [Your Face](https://open.spotify.com/album/7mWTUF7NUe0fgiPQBk27t6) | 2:38 | 2025-09-26 | 2025-12-05 |
 | [Your Goodness](https://open.spotify.com/track/72rGMAyLEBRjJfsZi1LNmQ) | [JEHU](https://open.spotify.com/artist/2Da7skpDbYblzAWcI1msVM) | [Tenderness](https://open.spotify.com/album/6tMWHlWMpnU0hFunEqGQQI) | 3:18 | 2024-12-27 | 2025-02-28 |
 | [Your Love](https://open.spotify.com/track/49q2fjQoohYGvGbIUylDAx) | [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW) | [Your Love](https://open.spotify.com/album/2qZPsRyEmKSBb6kudAAN43) | 2:41 | 2024-11-01 | 2025-03-21 |

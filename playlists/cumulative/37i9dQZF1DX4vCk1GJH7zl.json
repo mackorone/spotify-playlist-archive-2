@@ -927,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Caranguejo",
+        "url": "https://open.spotify.com/album/34w5qfn1rHBgu9ApBMhhs2"
+      },
+      "artists": [
+        {
+          "name": "Supercombo",
+          "url": "https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209906,
+      "name": "Como se Fosse Ontem",
+      "url": "https://open.spotify.com/track/3JlqEzw89nFdPgKdUiYgKW"
+    },
+    {
+      "album": {
         "name": "Conto os Dias",
         "url": "https://open.spotify.com/album/6KMOOty14Oqm0zfWsclTXB"
       },
@@ -1443,6 +1461,28 @@
     },
     {
       "album": {
+        "name": "Feito rio (fora do leito)",
+        "url": "https://open.spotify.com/album/6CDyMipiu6aplxU5AqrtCw"
+      },
+      "artists": [
+        {
+          "name": "O Teatro M\u00e1gico",
+          "url": "https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ"
+        },
+        {
+          "name": "Humberto Gessinger",
+          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280610,
+      "name": "Feito rio (fora do leito)",
+      "url": "https://open.spotify.com/track/2f3jJUaJG7Tli33vQluIhd"
+    },
+    {
+      "album": {
         "name": "Fica um Pouco Mais",
         "url": "https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE"
       },
@@ -1690,7 +1730,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 275066,
       "name": "Insensatez",
       "url": "https://open.spotify.com/track/0eWjcSCH69BGN3UwLjqHXT"
@@ -2530,7 +2570,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 282053,
       "name": "O",
       "url": "https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP"
@@ -3759,6 +3799,24 @@
     },
     {
       "album": {
+        "name": "Te Beijei",
+        "url": "https://open.spotify.com/album/5KWtMye0hULoCq2CZ5DBDP"
+      },
+      "artists": [
+        {
+          "name": "Yahoo",
+          "url": "https://open.spotify.com/artist/29bYY1WyOuJ3Z2jxYhT7kM"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254208,
+      "name": "Te Beijei",
+      "url": "https://open.spotify.com/track/33w69xKoZqw9SZBjH0t8Mj"
+    },
+    {
+      "album": {
         "name": "Te procurando (Saturno)",
         "url": "https://open.spotify.com/album/356KtUTSYSU5khCZlEXWWb"
       },
@@ -4056,7 +4114,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 257043,
       "name": "Um Sonhador",
       "url": "https://open.spotify.com/track/7fb8DZxvDLSmymtO2aizdL"

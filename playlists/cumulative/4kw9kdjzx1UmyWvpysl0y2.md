@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,212 songs - 2 day 19 hr 32 min
+1,214 songs - 2 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Genesis](https://open.spotify.com/track/3lInjgjlce124YrDUc3obI) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [Genesis](https://open.spotify.com/album/1K04Q2pVJiRftAdROfQ8R3) | 2:32 | 2025-04-21 | 2025-07-12 |
 | [GENESIS](https://open.spotify.com/track/4iGe6FbKTT6oToK5L5ZlOz) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9), [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3) | [GENESIS](https://open.spotify.com/album/1GsDZlQC18uiWoGvbKuUtB) | 3:58 | 2024-03-11 | 2024-06-01 |
 | [GET IN THE CAR](https://open.spotify.com/track/3vSYhCUWQ9K1OaUEjQBqfk) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [GET IN THE CAR](https://open.spotify.com/album/575QrauoGUh5a8620xO0bT) | 1:44 | 2023-09-07 | 2024-01-11 |
+| [Get Slippy](https://open.spotify.com/track/194ZRoXmA3C8RqnZCUvirF) | [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Get Slippy](https://open.spotify.com/album/3E5sDCaFFndVN6LSZgCWRD) | 2:46 | 2026-04-17 |  |
 | [Get Through](https://open.spotify.com/track/1aByvbcFFDPTCEA4mTVJhW) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Get Through](https://open.spotify.com/album/5iDeNESrto46Zim2KP4bfX) | 3:24 | 2023-01-23 | 2023-04-07 |
 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-04-14 | 2022-06-25 |
 | [Get Wompy](https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Get Wompy](https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6) | 2:33 | 2023-07-25 | 2023-12-14 |
@@ -655,6 +656,7 @@
 | [Make Believe](https://open.spotify.com/track/6runSRlHCq8b1QWuzQY3zj) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Make Believe](https://open.spotify.com/album/4jvgXjygIbhKSysm8EsZ9o) | 3:45 | 2025-05-21 | 2025-08-16 |
 | [Make You Mine](https://open.spotify.com/track/6PZDe8NpAjiUSkD3q6gCPs) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW), [Indi Starling](https://open.spotify.com/artist/7dUCSkUMN048CYGYKfjDZe) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 2:49 | 2022-10-26 | 2023-01-19 |
 | [Make You Mine](https://open.spotify.com/track/2bbjDrZw5OsRy3wtqmfO1N) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Make You Mine](https://open.spotify.com/album/3RFCEn1aEh75UvlNpM9CXX) | 2:33 | 2025-10-28 | 2026-02-04 |
+| [Make You Move](https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Make You Move](https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr) | 2:24 | 2026-04-17 |  |
 | [Malibu](https://open.spotify.com/track/1uI5SfxcOTpnxjU3DGlJGM) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [California Sessions](https://open.spotify.com/album/4JuvwXDh08DajGwNrvVoOH) | 3:44 | 2022-06-01 | 2022-08-12 |
 | [Malva](https://open.spotify.com/track/0ggSBp3T5MbFG1bggJ3GL3) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Malva](https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2) | 3:22 | 2022-11-09 | 2023-02-04 |
 | [MANIAC](https://open.spotify.com/track/0MAJOLCa2RX5Rs35AJ6Y64) | [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG) | [MANIAC](https://open.spotify.com/album/562Uyc2b9sbv6DAdzGcZhM) | 3:27 | 2025-09-02 | 2025-11-28 |

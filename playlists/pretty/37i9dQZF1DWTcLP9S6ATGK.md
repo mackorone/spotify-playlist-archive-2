@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Gloria Jessica, Ade Govinda
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,357 likes - 126 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,438 likes - 126 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

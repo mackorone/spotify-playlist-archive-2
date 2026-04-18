@@ -1,44 +1,28 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: James Savage",
-  "num_followers": 59027,
+  "description": "R&B of the moment by the artists of the future. Cover: Inayah",
+  "num_followers": 59032,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI5HS6Hj9aIg+I87VYd/uAx8eQqW",
+  "snapshot_id": "AAAAAN9QTmqzKbKMqcE/y9cw8x1VH4JQ",
   "tracks": [
     {
-      "added_at": "2026-04-10 05:59:36",
+      "added_at": "2026-04-17 07:13:10",
       "album": {
-        "name": "100 Years",
-        "url": "https://open.spotify.com/album/1cV9ozXqqcJFyhPAIBRGyw"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/4oNiVZ9G3qyfQYLYU48w10"
       },
       "artists": [
         {
-          "name": "James Savage",
-          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
         }
       ],
-      "duration_ms": 234398,
-      "name": "100 Years",
-      "url": "https://open.spotify.com/track/3uDh0n0ReOkofTm8zdg1EN"
-    },
-    {
-      "added_at": "2026-04-03 06:54:20",
-      "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/0KpO1I2Sukj5rr0q2Jmugs"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        }
-      ],
-      "duration_ms": 153654,
-      "name": "S.I.M.P.L.E",
-      "url": "https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb"
+      "duration_ms": 195063,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/1JTXX2PRBauOOKWiR1sOkU"
     },
     {
       "added_at": "2026-03-13 04:59:14",
@@ -59,6 +43,74 @@
     {
       "added_at": "2026-04-10 05:59:36",
       "album": {
+        "name": "100 Years",
+        "url": "https://open.spotify.com/album/1cV9ozXqqcJFyhPAIBRGyw"
+      },
+      "artists": [
+        {
+          "name": "James Savage",
+          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
+        }
+      ],
+      "duration_ms": 234398,
+      "name": "100 Years",
+      "url": "https://open.spotify.com/track/3uDh0n0ReOkofTm8zdg1EN"
+    },
+    {
+      "added_at": "2026-04-17 07:13:10",
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "SPLINTER",
+      "url": "https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj"
+    },
+    {
+      "added_at": "2026-04-03 06:54:20",
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/0KpO1I2Sukj5rr0q2Jmugs"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 153654,
+      "name": "S.I.M.P.L.E",
+      "url": "https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb"
+    },
+    {
+      "added_at": "2026-04-17 07:13:10",
+      "album": {
+        "name": "The Perfect One",
+        "url": "https://open.spotify.com/album/0FMOM9uORDUmqqRbGJqw0u"
+      },
+      "artists": [
+        {
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "The Perfect One",
+      "url": "https://open.spotify.com/track/50sdq6Bggs4uoQY97AiVah"
+    },
+    {
+      "added_at": "2026-04-10 05:59:36",
+      "album": {
         "name": "Mr. Lovebomb",
         "url": "https://open.spotify.com/album/6P5iNEDyHXsLhL781CJFyZ"
       },
@@ -71,22 +123,6 @@
       "duration_ms": 227317,
       "name": "side slider",
       "url": "https://open.spotify.com/track/2O3zj9sxh8NcurUYDGfduH"
-    },
-    {
-      "added_at": "2026-04-03 06:54:20",
-      "album": {
-        "name": "At Least She's Beautiful",
-        "url": "https://open.spotify.com/album/1vf84Ai74VCCS3PGiKiHVT"
-      },
-      "artists": [
-        {
-          "name": "rjtheweirdo",
-          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "At Least She's Beautiful",
-      "url": "https://open.spotify.com/track/4jvRnPkFE4752PQjZH2dlu"
     },
     {
       "added_at": "2026-04-10 05:59:36",
@@ -107,6 +143,22 @@
       "duration_ms": 146738,
       "name": "Oops",
       "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
+    },
+    {
+      "added_at": "2026-04-17 07:13:10",
+      "album": {
+        "name": "DON'T ASK!",
+        "url": "https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 182395,
+      "name": "DON'T ASK!",
+      "url": "https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA"
     },
     {
       "added_at": "2026-04-10 05:59:36",
@@ -161,6 +213,70 @@
       "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
     },
     {
+      "added_at": "2026-04-17 07:13:10",
+      "album": {
+        "name": "BLUEBOY",
+        "url": "https://open.spotify.com/album/2NVOpcr50Ltvk7eOnG9CGi"
+      },
+      "artists": [
+        {
+          "name": "Finn Askew",
+          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
+        }
+      ],
+      "duration_ms": 150069,
+      "name": "Save My Time",
+      "url": "https://open.spotify.com/track/21pwm56tB8PTqEPQbKVllE"
+    },
+    {
+      "added_at": "2026-04-17 07:13:10",
+      "album": {
+        "name": "Block Party",
+        "url": "https://open.spotify.com/album/2YUSE19lgw3BftKj9skiW3"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ly",
+          "url": "https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4"
+        }
+      ],
+      "duration_ms": 150539,
+      "name": "Block Party",
+      "url": "https://open.spotify.com/track/0fbuQaeopuxt45m8a3OBsQ"
+    },
+    {
+      "added_at": "2026-04-10 05:59:36",
+      "album": {
+        "name": "Endure",
+        "url": "https://open.spotify.com/album/6lpdTIbwNSEqFITKjNqb5S"
+      },
+      "artists": [
+        {
+          "name": "Chuka, The Destroyer",
+          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
+        }
+      ],
+      "duration_ms": 172571,
+      "name": "Endure",
+      "url": "https://open.spotify.com/track/5HoTh3edTpbvLIkTvJwcPA"
+    },
+    {
+      "added_at": "2026-04-17 07:13:10",
+      "album": {
+        "name": "RERUN",
+        "url": "https://open.spotify.com/album/6gKn5nH8qm3hXkLtEkcK8M"
+      },
+      "artists": [
+        {
+          "name": "JEDSOUL",
+          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
+        }
+      ],
+      "duration_ms": 143059,
+      "name": "RERUN",
+      "url": "https://open.spotify.com/track/6sU5Psf8N5Aq4517Sc9g24"
+    },
+    {
       "added_at": "2026-04-10 05:59:36",
       "album": {
         "name": "Talk You Through It",
@@ -191,22 +307,6 @@
       "duration_ms": 198720,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/2uT340YoNU82MQmG7fgKk0"
-    },
-    {
-      "added_at": "2026-04-10 05:59:36",
-      "album": {
-        "name": "Endure",
-        "url": "https://open.spotify.com/album/6lpdTIbwNSEqFITKjNqb5S"
-      },
-      "artists": [
-        {
-          "name": "Chuka, The Destroyer",
-          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
-        }
-      ],
-      "duration_ms": 172571,
-      "name": "Endure",
-      "url": "https://open.spotify.com/track/5HoTh3edTpbvLIkTvJwcPA"
     },
     {
       "added_at": "2026-04-03 06:54:20",
@@ -255,6 +355,38 @@
       "duration_ms": 200378,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/3E3COGPE9pEbBAa2YnQsRX"
+    },
+    {
+      "added_at": "2026-04-17 07:13:10",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/2gWZJlucbSEUyCS1FaXeuq"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/08fPZ0IIoPCDIodw3J2LMi"
+    },
+    {
+      "added_at": "2026-04-17 07:13:10",
+      "album": {
+        "name": "Getaway Driver",
+        "url": "https://open.spotify.com/album/5cXaO4eP64kTqYm4AQd7st"
+      },
+      "artists": [
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "Getaway Driver",
+      "url": "https://open.spotify.com/track/0n4RvRmDQ88NLjhesbbDSx"
     },
     {
       "added_at": "2026-04-03 06:54:20",
@@ -343,6 +475,26 @@
       "duration_ms": 152493,
       "name": "July",
       "url": "https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9"
+    },
+    {
+      "added_at": "2026-04-17 07:13:10",
+      "album": {
+        "name": "Lights Down Low",
+        "url": "https://open.spotify.com/album/62ll2WSXHtStg7E25bVsqN"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        },
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        }
+      ],
+      "duration_ms": 220222,
+      "name": "Lights Down Low",
+      "url": "https://open.spotify.com/track/2KvrTPdVKFP9UWz3aOHMv0"
     },
     {
       "added_at": "2026-04-03 06:54:20",
@@ -2449,22 +2601,6 @@
       "url": "https://open.spotify.com/track/2Knmf00ysVzsITSdghjxQx"
     },
     {
-      "added_at": "2025-11-21 06:25:10",
-      "album": {
-        "name": "UNRxLEASED",
-        "url": "https://open.spotify.com/album/1HYD7fG2hnxQjRmDLWxvc3"
-      },
-      "artists": [
-        {
-          "name": "PxRRY",
-          "url": "https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE"
-        }
-      ],
-      "duration_ms": 156528,
-      "name": "Still Not Over U",
-      "url": "https://open.spotify.com/track/2UcXfozNfyMP90Ula5yxGW"
-    },
-    {
       "added_at": "2025-11-14 09:43:17",
       "album": {
         "name": "Lil' Obsession (feat. Ambr\u00e9)",
@@ -2637,38 +2773,6 @@
       "url": "https://open.spotify.com/track/7x2ILyNOw4bofJSL7IKAyy"
     },
     {
-      "added_at": "2025-10-24 04:10:35",
-      "album": {
-        "name": "Your Love Alone",
-        "url": "https://open.spotify.com/album/7BFan5rcLDciZ1e2S49rSs"
-      },
-      "artists": [
-        {
-          "name": "NESTA",
-          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
-        }
-      ],
-      "duration_ms": 134333,
-      "name": "Your Love Alone",
-      "url": "https://open.spotify.com/track/340z5vIbttWKdm66u3XN4J"
-    },
-    {
-      "added_at": "2025-10-24 04:10:35",
-      "album": {
-        "name": "Test Of Time",
-        "url": "https://open.spotify.com/album/0AO8KaLHzofg0W7PnKw0UT"
-      },
-      "artists": [
-        {
-          "name": "OSA",
-          "url": "https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Test Of Time",
-      "url": "https://open.spotify.com/track/5qDJnpI14GE3LywpJ25UIn"
-    },
-    {
       "added_at": "2025-10-03 04:26:01",
       "album": {
         "name": "Therapy",
@@ -2683,22 +2787,6 @@
       "duration_ms": 123770,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6"
-    },
-    {
-      "added_at": "2025-09-26 19:25:25",
-      "album": {
-        "name": "SUMMER ENDS",
-        "url": "https://open.spotify.com/album/10062usD6EWFvYflzRdpK7"
-      },
-      "artists": [
-        {
-          "name": "Solomon Headen",
-          "url": "https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv"
-        }
-      ],
-      "duration_ms": 104140,
-      "name": "Choosin'",
-      "url": "https://open.spotify.com/track/1KRmD4611AGR0nJzuZq634"
     },
     {
       "added_at": "2025-09-05 04:00:30",

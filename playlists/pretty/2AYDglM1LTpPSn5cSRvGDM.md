@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2AYDglM1LTpPSn5cSRvGDM.md) - [plain]
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-[Enhanced Music](https://open.spotify.com/user/enhanced_music) - 106,218 likes - 102 songs - 5 hr 58 min
+[Enhanced Music](https://open.spotify.com/user/enhanced_music) - 106,238 likes - 105 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,5 +110,8 @@ pretty - [cumulative](/playlists/cumulative/2AYDglM1LTpPSn5cSRvGDM.md) - [plain]
 | 100 | [Lay Low \(Argy Remix\)](https://open.spotify.com/track/6mqalMj0KU2rpSzgrAvD32) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [Lay Low \(Argy Remix\)](https://open.spotify.com/album/2SRzYcUJDjiYfqPJrmeQt9) | 4:07 |
 | 101 | [Hero](https://open.spotify.com/track/5CQ4pHqibilSqbAxvMxOq3) | [Louis Bekk](https://open.spotify.com/artist/3vhqjjDY5CvxhFjuHGi5WC), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Hero](https://open.spotify.com/album/0Q4FZ1rx5FSM1bfyEN3BE8) | 3:53 |
 | 102 | [Still Love You](https://open.spotify.com/track/0aCv2gLQHvrhAYysKa4xHZ) | [RAEM](https://open.spotify.com/artist/1TG0ridFQXJjJp07FExMph) | [Still Love You](https://open.spotify.com/album/6HTPqFLHUUiREDNb5ZJxbP) | 3:09 |
+| 103 | [Lose the Light](https://open.spotify.com/track/007rAVZ44QRKnWVimmdSpG) | [Mazro](https://open.spotify.com/artist/3MB0qmKdbLc7JCbcE2TWX7), [Florian Cassiede](https://open.spotify.com/artist/7naMaORlCT3FPSo5EoSCHz), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Lose the Light](https://open.spotify.com/album/5xSrogFUW1UqTTXOHjTyVZ) | 3:39 |
+| 104 | [Elysium](https://open.spotify.com/track/3SwWCfF9zT1A34ar3iDaaI) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq), [MAMI](https://open.spotify.com/artist/5ggst36NN0Gj7JRv5pMKql) | [Elysium](https://open.spotify.com/album/2FWPJEb6I1Qjcy85UCwM4e) | 3:39 |
+| 105 | [Noo Tacchi](https://open.spotify.com/track/2EgGVjSk0q8wt5537tsJky) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Noo Tacchi](https://open.spotify.com/album/4wZUVcm9QRbrEyIqwWsWke) | 3:32 |
 
-Snapshot ID: `AABAeW0+vFVlp0me8VnAbHEsWAEhzVZD`
+Snapshot ID: `AABAfOhJP0bqdHpXIyDFdiTHOT6ZL6TE`

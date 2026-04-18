@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "una guitarra y mucho sentimiento para cantar. Macario Mart\u00ednez en portada.",
+  "description": "una guitarra y mucho sentimiento para cantar. Kevin Kaarl en portada.",
   "name": "Folk Mexicano",
   "tracks": [
     {
@@ -2290,7 +2290,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 213380,
       "name": "La Ciudad",
       "url": "https://open.spotify.com/track/2WkdQRVKSpQR7m8ADRgen5"
@@ -3019,6 +3019,24 @@
     },
     {
       "album": {
+        "name": "mirar adentro",
+        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209382,
+      "name": "mirar adentro",
+      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
+    },
+    {
+      "album": {
         "name": "La Enamorada",
         "url": "https://open.spotify.com/album/6ZoGWwn54s7pE5Mv3H9PqD"
       },
@@ -3664,7 +3682,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 218422,
       "name": "Precisa Tiempo",
       "url": "https://open.spotify.com/track/22tsm1x1JSXtth3JBSbbcs"
@@ -4620,6 +4638,24 @@
       "duration_ms": 171490,
       "name": "TIENES QUE ENTENDER",
       "url": "https://open.spotify.com/track/7KRHqiqqXru6uNC9Z63rFX"
+    },
+    {
+      "album": {
+        "name": "Todo el tiempo /maqueta/",
+        "url": "https://open.spotify.com/album/7JxXbrZEQLr5MoTI041cGb"
+      },
+      "artists": [
+        {
+          "name": "Alejandrina",
+          "url": "https://open.spotify.com/artist/2rKJlCjo9OYhuq7AWP1xaj"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152862,
+      "name": "Todo el tiempo /maqueta/",
+      "url": "https://open.spotify.com/track/2t6WNYe7qCekYln7DIvVAI"
     },
     {
       "album": {

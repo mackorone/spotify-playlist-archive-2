@@ -2383,6 +2383,28 @@
     },
     {
       "album": {
+        "name": "Mariposas en el mar",
+        "url": "https://open.spotify.com/album/08UAlVeH1aHSSBjDUlYFLZ"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Btesh",
+          "url": "https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p"
+        },
+        {
+          "name": "Los Asuntos Pendientes",
+          "url": "https://open.spotify.com/artist/1IwFwWTYrADJ1S25hJGVrZ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255656,
+      "name": "Mariposas en el mar",
+      "url": "https://open.spotify.com/track/67FRrvayMHGCw5TuvvJdXq"
+    },
+    {
+      "album": {
         "name": "Matilda",
         "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
       },
@@ -4114,7 +4136,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 187386,
       "name": "Visa",
       "url": "https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd"

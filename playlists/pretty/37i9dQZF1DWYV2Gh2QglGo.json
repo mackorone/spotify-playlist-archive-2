@@ -1,13 +1,77 @@
 {
-  "description": "The home of Canadian country music. Cover: Tenille Townes",
-  "num_followers": 83868,
+  "description": "The home of Canadian country music. Cover: Owen Riegling",
+  "num_followers": 83869,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC/Byl8uSDaQt1q4swVrbiFd4mQ8",
+  "snapshot_id": "AAAAAAPN7vssyngMPj20ao2D8zmP4+NJ",
   "tracks": [
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "In The Feeling",
+        "url": "https://open.spotify.com/album/5t9dUqzhZipR4hx7et4gx4"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 200623,
+      "name": "Rest Of My",
+      "url": "https://open.spotify.com/track/3nPggg2eXJSJWTnThsj85q"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "Deep Water",
+        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 153069,
+      "name": "Deep Water",
+      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "Two Years in Two Weeks",
+        "url": "https://open.spotify.com/album/1nfSrfS1NvsckoC6yfHxdd"
+      },
+      "artists": [
+        {
+          "name": "Taylor-Rae",
+          "url": "https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Two Years in Two Weeks",
+      "url": "https://open.spotify.com/track/0P7lYijRL5egHjELsuKtRk"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "Headlights & Memories / Any Easier",
+        "url": "https://open.spotify.com/album/70uAWM56N4JPsmby2zb09o"
+      },
+      "artists": [
+        {
+          "name": "Chevy Beaulieu",
+          "url": "https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC"
+        }
+      ],
+      "duration_ms": 216885,
+      "name": "Any Easier",
+      "url": "https://open.spotify.com/track/0RGPhUgF2xzoyg8jnCzVPO"
+    },
     {
       "added_at": "2026-04-10 04:04:24",
       "album": {
@@ -25,20 +89,36 @@
       "url": "https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj"
     },
     {
-      "added_at": "2026-04-10 04:04:24",
+      "added_at": "2026-04-17 04:05:01",
       "album": {
-        "name": "Anything But Me",
-        "url": "https://open.spotify.com/album/1jpaJooKiwVkEIV4egj1Tz"
+        "name": "Killer Instinct",
+        "url": "https://open.spotify.com/album/0ApCfCsGsqL8cGvp14gzNw"
       },
       "artists": [
         {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+          "name": "Rick Duff",
+          "url": "https://open.spotify.com/artist/4MNUaMf0Yl05yY6x342xBH"
         }
       ],
-      "duration_ms": 299453,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0A1gnuKVww2zEcZcu7seyu"
+      "duration_ms": 197625,
+      "name": "Killer Instinct",
+      "url": "https://open.spotify.com/track/1nSxYz9KGiqPUoBF4RIFcM"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "County Line 5 (4X4 Mix)",
+        "url": "https://open.spotify.com/album/2Z2Xnu7ovPYSYid4mEfM6e"
+      },
+      "artists": [
+        {
+          "name": "Bradley Hale",
+          "url": "https://open.spotify.com/artist/1TPjClIZ0S2xtgSNfqV6gF"
+        }
+      ],
+      "duration_ms": 218837,
+      "name": "County Line 5 - 4X4 Mix",
+      "url": "https://open.spotify.com/track/70SdZnWRqvQMAt2NgWSTKk"
     },
     {
       "added_at": "2026-04-10 04:04:24",
@@ -57,6 +137,38 @@
       "url": "https://open.spotify.com/track/7AC8IxFKVkAbW7R8wJisUg"
     },
     {
+      "added_at": "2026-04-03 04:04:15",
+      "album": {
+        "name": "Give 'Er Hell",
+        "url": "https://open.spotify.com/album/0p1xtZSyS5Ke7kezDsSFZj"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 201468,
+      "name": "Give 'Er Hell",
+      "url": "https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/5X5wRngyWiympuJNexkVQc"
+      },
+      "artists": [
+        {
+          "name": "Sheri Marie Ptolemy",
+          "url": "https://open.spotify.com/artist/1FSvvr0FJTrRRqinxwzBH7"
+        }
+      ],
+      "duration_ms": 200183,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/6soWZfR1hksoCG9iMU90Wy"
+    },
+    {
       "added_at": "2026-04-10 04:04:24",
       "album": {
         "name": "Last Time",
@@ -73,20 +185,100 @@
       "url": "https://open.spotify.com/track/7rzdvbHWu26l6B6qt85Sgz"
     },
     {
-      "added_at": "2026-04-03 04:04:15",
+      "added_at": "2026-04-17 04:05:01",
       "album": {
-        "name": "Give 'Er Hell",
-        "url": "https://open.spotify.com/album/0p1xtZSyS5Ke7kezDsSFZj"
+        "name": "Drinking Till I'm Dead",
+        "url": "https://open.spotify.com/album/39AVoolLd6dBXg2Z3PBmRo"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
         }
       ],
-      "duration_ms": 201468,
-      "name": "Give 'Er Hell",
-      "url": "https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3"
+      "duration_ms": 181497,
+      "name": "Drinking Till I'm Dead",
+      "url": "https://open.spotify.com/track/1K6yIq9JWtK05naKIDK7cX"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "I Should Be Your Man",
+        "url": "https://open.spotify.com/album/63gTv2PVmYMR1fQaxP9yDO"
+      },
+      "artists": [
+        {
+          "name": "Dave Sampson",
+          "url": "https://open.spotify.com/artist/6uGkbfEf30iy7nVOqZIWJp"
+        }
+      ],
+      "duration_ms": 210445,
+      "name": "I Should Be Your Man",
+      "url": "https://open.spotify.com/track/0xDdiaSUAtpn6QPAlYwNUE"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "Losing Side Of Love",
+        "url": "https://open.spotify.com/album/2eNuX8hCzeSbxT6hMO97BW"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/7buSpDfGpMZwpTs45IT9uo"
+        }
+      ],
+      "duration_ms": 209992,
+      "name": "Losing Side Of Love",
+      "url": "https://open.spotify.com/track/26pYgdKLIK3IbVOVbcq582"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "P.O.S.",
+        "url": "https://open.spotify.com/album/4mmeyfgVl2um0sm62Ixl9v"
+      },
+      "artists": [
+        {
+          "name": "Noah Brigden",
+          "url": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub"
+        }
+      ],
+      "duration_ms": 198278,
+      "name": "P.O.S.",
+      "url": "https://open.spotify.com/track/6AJaDD64IxpDR3qntU56Pd"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/2WERKp67qBnuJ1H8hMT0Y4"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "duration_ms": 201925,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/48KR896jmozh3qJImcytaJ"
+    },
+    {
+      "added_at": "2026-04-10 04:04:24",
+      "album": {
+        "name": "Anything But Me",
+        "url": "https://open.spotify.com/album/1jpaJooKiwVkEIV4egj1Tz"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 299453,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0A1gnuKVww2zEcZcu7seyu"
     },
     {
       "added_at": "2026-03-27 04:01:06",
@@ -167,22 +359,6 @@
       "duration_ms": 195471,
       "name": "The Other",
       "url": "https://open.spotify.com/track/7pHBLvFot6YzbDH4M0am8j"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/2WERKp67qBnuJ1H8hMT0Y4"
-      },
-      "artists": [
-        {
-          "name": "Tyler Joe Miller",
-          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
-        }
-      ],
-      "duration_ms": 201925,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/48KR896jmozh3qJImcytaJ"
     },
     {
       "added_at": "2026-04-10 04:04:24",
@@ -2105,22 +2281,6 @@
       "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
     },
     {
-      "added_at": "2025-11-14 12:09:53",
-      "album": {
-        "name": "Memories and Empties",
-        "url": "https://open.spotify.com/album/3QB0ZTQH0RScbnHefHB2wr"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Memories and Empties",
-      "url": "https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7"
-    },
-    {
       "added_at": "2025-11-28 05:01:04",
       "album": {
         "name": "Wish I Didn't",
@@ -2277,86 +2437,6 @@
       "url": "https://open.spotify.com/track/29CCh6aLhAgPRN4TWpRBXB"
     },
     {
-      "added_at": "2025-11-07 00:01:45",
-      "album": {
-        "name": "All Kinds of Country",
-        "url": "https://open.spotify.com/album/623aZh6biaVYdHg0UpaZtj"
-      },
-      "artists": [
-        {
-          "name": "Hunter Brothers",
-          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
-        }
-      ],
-      "duration_ms": 145100,
-      "name": "Keep on Truckin'",
-      "url": "https://open.spotify.com/track/2grFyPMwj6cFj9ONYhiWjh"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "While I Was Dreaming",
-        "url": "https://open.spotify.com/album/63ZxaRCaER0kldZm8dRgY7"
-      },
-      "artists": [
-        {
-          "name": "Anna Katarina",
-          "url": "https://open.spotify.com/artist/3wUofml5k6dhBcD5OKPLup"
-        }
-      ],
-      "duration_ms": 204985,
-      "name": "Background Noise",
-      "url": "https://open.spotify.com/track/7qq5kTdIWO25k1ZhRUKqwY"
-    },
-    {
-      "added_at": "2025-10-24 04:25:20",
-      "album": {
-        "name": "Ain't That The Truth",
-        "url": "https://open.spotify.com/album/7bKpHYPrZbpGJiolXnj6AW"
-      },
-      "artists": [
-        {
-          "name": "Dan Davidson",
-          "url": "https://open.spotify.com/artist/3Av6JdBs0MuhIPnCqPg6EI"
-        }
-      ],
-      "duration_ms": 178804,
-      "name": "Ain't That The Truth",
-      "url": "https://open.spotify.com/track/1gZM90tQYxq9zL1dauJfIK"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/5MfLJ1KUO0Q1vVvFpbxqYz"
-      },
-      "artists": [
-        {
-          "name": "The Washboard Union",
-          "url": "https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k"
-        }
-      ],
-      "duration_ms": 187582,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/5pMqKMKf7v6XZYG8yNTDTQ"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "Blue Collar Man",
-        "url": "https://open.spotify.com/album/78tXrrOuO5qbLfgjy5OrPg"
-      },
-      "artists": [
-        {
-          "name": "Emma Kade",
-          "url": "https://open.spotify.com/artist/1ZP71cqO4xor5i3gqhuRHx"
-        }
-      ],
-      "duration_ms": 188710,
-      "name": "Blue Collar Man",
-      "url": "https://open.spotify.com/track/3DDThoYBTEYebm6UyYqxBY"
-    },
-    {
       "added_at": "2025-10-24 04:25:20",
       "album": {
         "name": "Going For Broke",
@@ -2371,38 +2451,6 @@
       "duration_ms": 181010,
       "name": "Going For Broke",
       "url": "https://open.spotify.com/track/2EWVT4H6GxbAGQSYwpo4Na"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "South Side of Sober",
-        "url": "https://open.spotify.com/album/7bIHEOowAoqBJFY8DKmLwO"
-      },
-      "artists": [
-        {
-          "name": "Evan Burrison",
-          "url": "https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4"
-        }
-      ],
-      "duration_ms": 149715,
-      "name": "South Side of Sober",
-      "url": "https://open.spotify.com/track/1XctHNqa8Ev0jJmd5uSlKz"
-    },
-    {
-      "added_at": "2025-10-18 21:43:18",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3EUnJXa6Vv9jEIAm7H0nbC"
-      },
-      "artists": [
-        {
-          "name": "Sheri Marie Ptolemy",
-          "url": "https://open.spotify.com/artist/1FSvvr0FJTrRRqinxwzBH7"
-        }
-      ],
-      "duration_ms": 177491,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/2o3iV0wXd1uhSp2M0vBM0A"
     }
   ],
   "unique_name": "North Country",

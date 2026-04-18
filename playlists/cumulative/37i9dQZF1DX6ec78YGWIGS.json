@@ -1913,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "crazy dance",
+        "url": "https://open.spotify.com/album/04wM2pMxP5MDXHmEXbQuLY"
+      },
+      "artists": [
+        {
+          "name": "soffyy",
+          "url": "https://open.spotify.com/artist/2mX8G9cpmx2u2EqorBZtDr"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159940,
+      "name": "crazy dance",
+      "url": "https://open.spotify.com/track/6w9RN1SWsNEuCvG8HrA3SS"
+    },
+    {
+      "album": {
         "name": "Crimen",
         "url": "https://open.spotify.com/album/60fSjEV31g6aydYD0QffR8"
       },

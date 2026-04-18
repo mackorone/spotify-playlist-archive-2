@@ -1361,6 +1361,32 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/4ZrQQ6FCGWuv7oVyi94RI6"
+      },
+      "artists": [
+        {
+          "name": "SAGES",
+          "url": "https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237829,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2gKvEtffWCR5YLYvpvBQFu"
+    },
+    {
+      "album": {
         "name": "Echoes Of Yesterday",
         "url": "https://open.spotify.com/album/5ufu9GnNrEzzf9ZbwYe3e3"
       },
@@ -5256,6 +5282,24 @@
       "duration_ms": 193208,
       "name": "The Weight Of Fear",
       "url": "https://open.spotify.com/track/1QCAEjOCUPePqYLZTQ0UuQ"
+    },
+    {
+      "album": {
+        "name": "The White Blur Was a Fox (Nowhere Sessions)",
+        "url": "https://open.spotify.com/album/5WtN0AZd4vgoAucya1rom9"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209223,
+      "name": "The White Blur Was a Fox - Nowhere Sessions",
+      "url": "https://open.spotify.com/track/2RnBhNFZXgDpRP7Oa0AZgl"
     },
     {
       "album": {

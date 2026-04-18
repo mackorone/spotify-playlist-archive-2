@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-150 songs - 7 hr 2 min
+151 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Who You Got](https://open.spotify.com/track/7yoWkmxZfTPk00Y8zNl8wd) | [Natania Lalwani](https://open.spotify.com/artist/5Wqy1LMnrr4jeVl0F1ITvW) | [Who You Got](https://open.spotify.com/album/4VpLtpzNLnXzp9IaDWW3Yw) | 2:54 | 2025-12-19 |  |
 | [Wild & Free](https://open.spotify.com/track/05Sb9KO8eHqAHeUSSzLlfT) | [Alma Mater](https://open.spotify.com/artist/16YKNdADpeH4T6V9QLXR70) | [Wild & Free](https://open.spotify.com/album/48XSx8Zm25U8yXvg1xDOSx) | 2:24 | 2025-07-03 |  |
 | [Winning](https://open.spotify.com/track/0agf564lzLLdk3NBEAEVgB) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:13 | 2025-07-03 |  |
+| [World Go Round](https://open.spotify.com/track/2ReI2xfSzQ31zxNHcMDSPP) | [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 2:32 | 2026-04-17 |  |
 | [Yay Yay Yay](https://open.spotify.com/track/4XcHes4yJeduDIh6ndkHq6) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:59 | 2025-07-03 |  |
 | [You](https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [You](https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4) | 3:14 | 2025-07-03 |  |
 | [You Chose Me](https://open.spotify.com/track/1w5u2RQeXztDLvcOXIHtSR) | [Aston Merrygold ](https://open.spotify.com/artist/0PHiin6bQggP8WzI7LgTtr) | [You Chose Me](https://open.spotify.com/album/3ZLc3hlBjYrMWTq5ikGWqS) | 2:47 | 2025-07-03 |  |

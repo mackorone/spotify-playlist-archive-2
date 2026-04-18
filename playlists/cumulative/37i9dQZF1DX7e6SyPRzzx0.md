@@ -4,7 +4,7 @@
 
 > The home of rage rap\. Cover: Playboi Carti
 
-209 songs - 8 hr 54 min
+210 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [King tonka](https://open.spotify.com/track/1Anuaxs4UTPM1tufZJbqZz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [King tonka](https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L) | 2:05 | 2024-05-14 | 2025-08-02 |
 | [KING TUT](https://open.spotify.com/track/5o3hsfebCXZUBb5OzsFqyK) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [KING TUT](https://open.spotify.com/album/77nZkr98snqK9S5KN7gxiA) | 2:52 | 2024-02-02 | 2024-06-01 |
 | [KISS THA RING](https://open.spotify.com/track/3TxGpv2xqe3LO5HsmcJgfC) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [trompe l’oeil](https://open.spotify.com/album/4jP2kCdzLbEinmhFjDOZNK) | 2:24 | 2025-06-06 | 2025-07-05 |
-| [Kittens](https://open.spotify.com/track/6z8bgsZktppOfBkCEGzTMN) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Fully Loaded](https://open.spotify.com/album/0XoJlVEGM9R0t6py51jkae) | 2:16 | 2026-04-03 |  |
+| [Kittens](https://open.spotify.com/track/6z8bgsZktppOfBkCEGzTMN) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Fully Loaded](https://open.spotify.com/album/0XoJlVEGM9R0t6py51jkae) | 2:16 | 2026-04-03 | 2026-04-18 |
 | [Kome On](https://open.spotify.com/track/4wC7ol2740ZTBMUX8QCA3J) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Mafia Musik](https://open.spotify.com/album/3S9jhXK2F3LMMKFWFs5MEU) | 2:14 | 2023-12-01 | 2024-02-21 |
 | [LANCEY OR LANCEY](https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 3:07 | 2023-12-01 | 2024-08-21 |
 | [Lifestyle](https://open.spotify.com/track/20v5X5P8guUGTQQ1EAWys4) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle](https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK) | 2:17 | 2023-12-01 | 2024-03-16 |
@@ -214,6 +214,7 @@
 | [WISH I COULD TELL YOU](https://open.spotify.com/track/7mAIh2cjeAXId5k6j74mCj) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [GO+](https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw) | 2:56 | 2023-12-01 | 2024-06-01 |
 | [WITH THE MAFIA](https://open.spotify.com/track/15G9tLK5NV68VPCwcFHJ1f) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [WITH THE MAFIA](https://open.spotify.com/album/1ptHy3DR2LDt747iEh54eH) | 2:23 | 2025-10-17 |  |
 | [Wokeup](https://open.spotify.com/track/3jM9VzF2d1AMUyTD8sTmPu) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Wokeup](https://open.spotify.com/album/3hi8gSzAJT4KGaJrylnccp) | 1:55 | 2024-03-15 | 2024-08-21 |
+| [WOL](https://open.spotify.com/track/6MDT4Aw4OjPbRFdvgwt4Ud) | [waera](https://open.spotify.com/artist/0Pz9dDcv7SWwHzdqAjQr3l), [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [WOL](https://open.spotify.com/album/50aYgDRLWJ52JNR9RzUEHp) | 2:55 | 2026-04-17 |  |
 | [World Boss](https://open.spotify.com/track/0gC6ZI3cFxHP7Hor3nMO3b) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [World Boss](https://open.spotify.com/album/0rH4QhzdNFrGWKYCIFJZPa) | 3:04 | 2025-09-05 | 2025-10-18 |
 | [X & Sex](https://open.spotify.com/track/4EwwfFCckvI9uM0nEVVDa0) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Osama Season](https://open.spotify.com/album/1gbR6hQTGdJ8PH3BXgmcdg) | 0:57 | 2023-12-01 | 2024-03-16 |
 | [Yale](https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:46 | 2024-03-15 |  |

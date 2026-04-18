@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani di cui siamo ossessionati 🎧 Sarah Toscano in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,583 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,725 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 42 | [ROLLING STONES](https://open.spotify.com/track/0qequjSpKvUJLpIteBbkEM) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [ROLLING STONES](https://open.spotify.com/album/6HeKmyM7nR5dfZAiuVbglj) | 3:02 |
 | 43 | [MARIA](https://open.spotify.com/track/6D4mCJkPrRjhkKTUgUXrkD) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [SACRO](https://open.spotify.com/album/5fjacR3hNh14bYgoAyyEIS) | 2:16 |
 | 44 | [CANZONE D'AMORE](https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:00 |
-| 45 | [Track 2](https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [BITTE LEBEN](https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy) | 0:00 |
+| 45 | [5 di mattina](https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [BITTE LEBEN](https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy) | 3:01 |
 | 46 | [Prima o poi](https://open.spotify.com/track/675zgd9XBl6yBThILj9tQn) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Miss Italia](https://open.spotify.com/album/2UNSUlpESFHb4nVMzTZDbV) | 3:20 |
 | 47 | [Quelli come me](https://open.spotify.com/track/0rpUylGGF9tPRgilGzvgSK) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Quelli come me](https://open.spotify.com/album/6Stq5rzanrAivV37ueldaS) | 3:20 |
 | 48 | [Peggio del diavolo \(con Gianluca Grignani\)](https://open.spotify.com/track/0xAhJXHWSxwb6yMy9iOUnO) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Ma'](https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE) | 3:08 |

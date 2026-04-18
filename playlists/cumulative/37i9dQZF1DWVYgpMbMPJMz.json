@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Chris Tomlin",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: The Belonging Co",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -148,7 +148,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 756385,
       "name": "A Forgiving God (Moment)",
       "url": "https://open.spotify.com/track/3oVZcdixItfqAen0dIFJKP"
@@ -4127,6 +4127,28 @@
     },
     {
       "album": {
+        "name": "A Forgiving God (Moments)",
+        "url": "https://open.spotify.com/album/5GduWgpUJPyakneSn6c6ab"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Johnny Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563374,
+      "name": "Dwell (Moment)",
+      "url": "https://open.spotify.com/track/4G0ckbPS0LmfLHmdNZDPTC"
+    },
+    {
+      "album": {
         "name": "Dying To Be Different (Live)",
         "url": "https://open.spotify.com/album/3OyKUyNPeemPdyxAFhohgn"
       },
@@ -7447,6 +7469,28 @@
     },
     {
       "album": {
+        "name": "How Awesome",
+        "url": "https://open.spotify.com/album/160z96t098nZ0kjU9b2ZAU"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476166,
+      "name": "How Awesome",
+      "url": "https://open.spotify.com/track/5oF4UsxUmNg0MIveexiwOX"
+    },
+    {
+      "album": {
         "name": "How Good It Is",
         "url": "https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc"
       },
@@ -9623,7 +9667,7 @@
     },
     {
       "album": {
-        "name": "Jesus The Only (feat. Davide Mutendji)",
+        "name": "Jesus The Only",
         "url": "https://open.spotify.com/album/7Etjqgbb5o3rQqtJBgCPEo"
       },
       "artists": [
@@ -9640,7 +9684,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 408773,
-      "name": "Jesus The Only (feat. Davide Mutendji)",
+      "name": "Jesus The Only",
       "url": "https://open.spotify.com/track/1gVCOo3SKqbFlD57JMPm5P"
     },
     {
@@ -11276,6 +11320,24 @@
       "duration_ms": 398125,
       "name": "Midst",
       "url": "https://open.spotify.com/track/3iEVhb9l6mFqj2I2LUDGua"
+    },
+    {
+      "album": {
+        "name": "Mighty God (Live)",
+        "url": "https://open.spotify.com/album/4rHXkkzhGwENKYcA3VAjRG"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376119,
+      "name": "Mighty God - Live",
+      "url": "https://open.spotify.com/track/6sNHGIXmrBydSl6zstkzq9"
     },
     {
       "album": {
@@ -13440,7 +13502,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 563562,
       "name": "Our God Reigns (Over All The Earth) - Live",
       "url": "https://open.spotify.com/track/6AZ5rlcvoh3VHG7A6dgUuB"
@@ -14448,6 +14510,24 @@
       "duration_ms": 286750,
       "name": "REASONS",
       "url": "https://open.spotify.com/track/3brBg53ewJMBWamUJRm0TC"
+    },
+    {
+      "album": {
+        "name": "Redeemed",
+        "url": "https://open.spotify.com/album/2YKpKKfCf5x1kAsS4eh8fa"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219116,
+      "name": "Redeemed",
+      "url": "https://open.spotify.com/track/0b0itI0G0JoDRHjPBOn67i"
     },
     {
       "album": {
@@ -17016,7 +17096,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 517208,
       "name": "The Chorus",
       "url": "https://open.spotify.com/track/5TRdZyoMk78vARqgvXG6Y4"
@@ -18174,7 +18254,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 370839,
       "name": "There Is Peace - Live",
       "url": "https://open.spotify.com/track/1gArkzIvOIPRVWqXoUmpG8"

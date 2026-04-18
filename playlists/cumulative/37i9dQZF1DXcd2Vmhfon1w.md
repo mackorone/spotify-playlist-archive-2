@@ -2,7 +2,7 @@
 
 ### [Rap Español](https://open.spotify.com/playlist/37i9dQZF1DXcd2Vmhfon1w)
 
-> Lo mejor del hip hop español\. Feat\. Arce
+> Lo mejor del hip hop español\. Feat\. Reality
 
 768 songs - 1 day 15 hr 57 min
 

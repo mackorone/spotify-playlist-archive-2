@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-859 songs - 1 day 19 hr 58 min
+860 songs - 1 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Dagen Derpå](https://open.spotify.com/track/1ngvhTyQx8phZgiFCMAd97) | [Åh Buster](https://open.spotify.com/artist/7lwPdcXKZJGDOEXAQCnIHQ) | [Dagen Derpå](https://open.spotify.com/album/05YLb831nThqKElAjQvueg) | 2:50 | 2025-11-21 | 2025-11-28 |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 | 2026-02-06 |
 | [Daisy](https://open.spotify.com/track/6hGF2oWMqqYRLcdbGKqyet) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L) | [Daisy](https://open.spotify.com/album/4wDD429xJaFrrytQyYD9RL) | 3:24 | 2026-01-22 |  |
+| [Dance Alone](https://open.spotify.com/track/40GEzV3juSOOEiQOUfokIO) | [KOPS](https://open.spotify.com/artist/10GRqg0xzOzJI8yOgs5DbS) | [Dance Alone](https://open.spotify.com/album/5K4Zc9szq5RbBJITaMAmpL) | 2:36 | 2026-04-16 |  |
 | [Dancing Around The Truth](https://open.spotify.com/track/3WMPOfSgxjZY2jFZYCTQeP) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Dancing Around The Truth](https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe) | 3:50 | 2025-03-20 | 2025-04-11 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2025-01-17 |
 | [Dancing in the Smoke \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/4IMtvPPuBjtkWoMqlOwqYL) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dancing in the Smoke \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/1PVCrr31njtNL2Hj4x9GSK) | 3:42 | 2025-10-02 | 2025-10-17 |

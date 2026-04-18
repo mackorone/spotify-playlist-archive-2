@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Night , Blooming Jasmine .",
+        "url": "https://open.spotify.com/album/5bajUbQGZ7f98jo1gfX0hc"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178868,
+      "name": "Night , Blooming Jasmine .",
+      "url": "https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW"
+    },
+    {
+      "album": {
         "name": "Love Sick (Deluxe)",
         "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
       },

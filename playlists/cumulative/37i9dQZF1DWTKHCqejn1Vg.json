@@ -630,7 +630,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 207810,
       "name": "BODYTALK",
       "url": "https://open.spotify.com/track/5utokPONOETgPDBlP7Vhbf"
@@ -4259,6 +4259,28 @@
     },
     {
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/2Pl883JWYRgXmkMA9i5RRt"
+      },
+      "artists": [
+        {
+          "name": "WONHO",
+          "url": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"
+        },
+        {
+          "name": "YUNHWAY",
+          "url": "https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "On & On (Feat. YUNHWAY)",
+      "url": "https://open.spotify.com/track/1kymjka3WAyiqlRirEZv4F"
+    },
+    {
+      "album": {
         "name": "How",
         "url": "https://open.spotify.com/album/4coGyWNmRa8LQf3r1M2uAj"
       },
@@ -5578,7 +5600,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 207373,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/3ksvWZqgNZhvbQL7rdYrJP"
@@ -6340,6 +6362,24 @@
       "duration_ms": 179999,
       "name": "What if we met at another place ?",
       "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
+    },
+    {
+      "album": {
+        "name": "TAIL",
+        "url": "https://open.spotify.com/album/3fC3XUsvyE1bJIr8fXZClr"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205533,
+      "name": "What The Flower",
+      "url": "https://open.spotify.com/track/79mDIhPu3eKzZZWGDPgkWw"
     },
     {
       "album": {

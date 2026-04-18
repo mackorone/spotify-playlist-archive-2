@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 378112,
+  "num_followers": 378204,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        }
+      ],
+      "duration_ms": 230792,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
         "name": "Carta de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Oj7rg1N453qQUBEix1afa"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 308506,
       "name": "Carta de Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/0w9aIkvIjBIStv0AIQrf1O"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
-        "name": "Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        }
-      ],
-      "duration_ms": 230792,
-      "name": "Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
+        "name": "Milagres (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Milagres - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
         "name": "Florescer",
         "url": "https://open.spotify.com/album/1JlMVDkzH54t0v8kz148LG"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
-        "name": "Milagres (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
+        "name": "Confiar em Deus - Spotify Singles",
+        "url": "https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs"
       },
       "artists": [
         {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
         }
       ],
-      "duration_ms": 290000,
-      "name": "Milagres - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
+      "duration_ms": 223422,
+      "name": "Confiar em Deus - Spotify Singles",
+      "url": "https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -707,22 +723,6 @@
       "duration_ms": 244917,
       "name": "Eu Prefiro Adorar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6XDaefR7b2nX6seYVYcnQ2"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
-        "name": "Confiar em Deus - Spotify Singles",
-        "url": "https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 223422,
-      "name": "Confiar em Deus - Spotify Singles",
-      "url": "https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
-        "name": "T\u00e1 Tudo Bem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
-      },
-      "artists": [
-        {
-          "name": "Misaias Oliveira",
-          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 242963,
-      "name": "T\u00e1 Tudo Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
         "name": "Valeu a Pena",
         "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 237510,
       "name": "Valeu a Pena",
       "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
+        "name": "T\u00e1 Tudo Bem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
+      },
+      "artists": [
+        {
+          "name": "Misaias Oliveira",
+          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 242963,
+      "name": "T\u00e1 Tudo Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
+        "name": "SALVAON Ac\u00fastico, Vol. 1",
+        "url": "https://open.spotify.com/album/3Rkaplu8WwsOFWymFX0x15"
+      },
+      "artists": [
+        {
+          "name": "Salvaon",
+          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
+        }
+      ],
+      "duration_ms": 365487,
+      "name": "Pedro - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1ROCNmLzC8Nng7HAbh1X7H"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
         "name": "Medley Ac\u00fastico: Pra Sempre Vou Te Amar Jesus / Dna de Maria (Ao Vivo)",
         "url": "https://open.spotify.com/album/6bpS7bdLRXW7NIVNQOLJCW"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 260579,
       "name": "Sala De Estar - Ao Vivo",
       "url": "https://open.spotify.com/track/0yNgKCiVR2GHwgv2qIU6hq"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
-        "name": "SALVAON Ac\u00fastico, Vol. 1",
-        "url": "https://open.spotify.com/album/3Rkaplu8WwsOFWymFX0x15"
-      },
-      "artists": [
-        {
-          "name": "Salvaon",
-          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
-        }
-      ],
-      "duration_ms": 365487,
-      "name": "Pedro - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1ROCNmLzC8Nng7HAbh1X7H"
     },
     {
       "added_at": "2026-03-13 19:15:18",

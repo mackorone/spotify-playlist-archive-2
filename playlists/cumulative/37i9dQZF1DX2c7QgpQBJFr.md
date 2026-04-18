@@ -4,7 +4,7 @@
 
 > La nuova scena pop italiana 🇮🇹 cover: Baltimora
 
-1,273 songs - 2 day 12 hr 34 min
+1,273 songs - 2 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [2Sconosciuti](https://open.spotify.com/track/6BRSkQDqNWkAT3YjVtYp6n) | [LYSA](https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5) | [2Sconosciuti](https://open.spotify.com/album/7hl74k0WBGe4j0jYSQwn6J) | 3:33 | 2025-03-20 | 2025-05-30 |
 | [404 \(una canzone de I Cani\)](https://open.spotify.com/track/2H1aptUgSbdwO6GqjQNX8E) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [404 \(una canzone de I Cani\)](https://open.spotify.com/album/09q0QkrQv4UloCkBPCSb2D) | 2:58 | 2025-03-26 | 2025-06-13 |
 | [4am](https://open.spotify.com/track/3Y7Fra3fh0Op1iXczvt90v) | [ramé](https://open.spotify.com/artist/1h29htfGANrZucDHYItP7U), [Kabvki](https://open.spotify.com/artist/4nS14korvlcnH1zXKgSwmw) | [4am](https://open.spotify.com/album/1Y8IrwrpzR5y7UNayDWfFW) | 3:01 | 2025-05-01 | 2025-06-27 |
+| [5 di mattina](https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [BITTE LEBEN](https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy) | 3:01 | 2026-04-16 |  |
 | [7 AM](https://open.spotify.com/track/3csFngzlVP0z2lsE8pdp4E) | [FENICE](https://open.spotify.com/artist/4c7S5SAfW8xtGnn8qi4d8D) | [7 AM](https://open.spotify.com/album/7l2awPEfSHsjdWjG0UjF8k) | 2:40 | 2025-08-28 | 2025-10-10 |
 | [8 PM](https://open.spotify.com/track/6dcZGdXWWGyrfxq8MLqXIX) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [8 PM](https://open.spotify.com/album/4WENYnSEuWaTQD3ulS5U8V) | 3:14 | 2024-07-25 | 2024-12-13 |
 | [A casa starei meglio](https://open.spotify.com/track/6B6nWFACBC4FZQkbshA3IJ) | [Sairo](https://open.spotify.com/artist/38ghVFP8xwyGcMQET8kA7L) | [A casa starei meglio](https://open.spotify.com/album/3FbShNo2T3haDa9YyvnsjL) | 2:34 | 2026-03-05 | 2026-03-27 |
@@ -223,7 +224,7 @@
 | [CEMENTO](https://open.spotify.com/track/3vB23v6nNjrnXWUgF9BoML) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [CEMENTO](https://open.spotify.com/album/57yOle6fNUZN99nfVM5W1C) | 2:30 | 2025-01-30 | 2025-04-18 |
 | [Cenere e fumo](https://open.spotify.com/track/7dW2uYFGWiLhc3EFVDp0vF) | [Shari](https://open.spotify.com/artist/3X9nkz31tAOM25rdtzfi60) | [Amore & Blues](https://open.spotify.com/album/3FggKt3YeS9XAQJdHbnmTh) | 2:38 | 2024-11-28 | 2025-02-07 |
 | [CENTO RAGAZZE](https://open.spotify.com/track/2YzoQKJwvo0ZBeQc6Ro7LT) | [rob](https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7) | [CENTO RAGAZZE](https://open.spotify.com/album/4xrK0fSYLtKdgFAaRgp61W) | 2:42 | 2025-11-20 | 2026-02-06 |
-| [CENTOMILA](https://open.spotify.com/track/2K5LuNBoNkIO9A5yx8Owyl) | [Gabriel Tonelli](https://open.spotify.com/artist/1SHwQTs9UzjrQPwnLHx46U) | [CENTOMILA](https://open.spotify.com/album/5SzP7MjXslryCmHKvxqVtk) | 4:01 | 2026-04-16 |  |
+| [CENTOMILA](https://open.spotify.com/track/2K5LuNBoNkIO9A5yx8Owyl) | [GABRIEL TONELLI](https://open.spotify.com/artist/3gzEVxb4jUC0579HQ08Opx) | [CENTOMILA](https://open.spotify.com/album/5SzP7MjXslryCmHKvxqVtk) | 4:01 | 2026-04-16 |  |
 | [CHAIN](https://open.spotify.com/track/5wdUAWcYzJhN70SrfSKXcl) | [POPMINERALE](https://open.spotify.com/artist/4O5lO0bnj8YQ9wSsUPQejj) | [CHAIN](https://open.spotify.com/album/6FYW6QdWUNn2dS4cvqnPwp) | 2:58 | 2025-09-11 | 2025-10-24 |
 | [Chakra](https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Chakra](https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul) | 2:24 | 2025-06-19 | 2025-12-05 |
 | [Che combini a Milano?](https://open.spotify.com/track/5QCJJGArp9Ygoba4LRzCYb) | [Stunk](https://open.spotify.com/artist/6eHbpr6dxKAYDUvL0kCU0t) | [Che combini a Milano?](https://open.spotify.com/album/2TTZVCc5fIQTdqQJteoFs8) | 2:58 | 2026-04-02 |  |
@@ -1172,7 +1173,6 @@
 | [TOXIC \(feat\. Luca Re\)](https://open.spotify.com/track/7gWzVDXpnnKbolQ456cx1p) | [TOMMY](https://open.spotify.com/artist/0aplXOFIjw16oLxCRuAvaW), [heysimo](https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A), [Kabvki](https://open.spotify.com/artist/4nS14korvlcnH1zXKgSwmw), [Sam Beats Baby](https://open.spotify.com/artist/1fphGmGC35v82kdBFDbmNf), [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [TOXIC \(feat\. Luca Re\)](https://open.spotify.com/album/0RfDy5qsyMm5EA4aejBpT6) | 2:53 | 2025-12-11 | 2026-01-23 |
 | [tra le braccia](https://open.spotify.com/track/6uNfJzQST5zbyHxsnLiwEJ) | [Lil Markiese](https://open.spotify.com/artist/3raaszvUEmOauJOMrrhg4I) | [tra le braccia](https://open.spotify.com/album/1ivYjNXgEc752jnfSaggmQ) | 3:20 | 2025-02-20 | 2025-04-11 |
 | [Tra Milioni](https://open.spotify.com/track/7FAXcq2A8zGQmAYtsAyWPK) | [aliotho](https://open.spotify.com/artist/7a8p27F0287OPEDxj3bsDU) | [Tra Milioni](https://open.spotify.com/album/5ppLaYX2XYEDJVRNR3RojJ) | 3:28 | 2026-03-12 | 2026-04-03 |
-| [Track 2](https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [BITTE LEBEN](https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy) | 0:00 | 2026-04-16 |  |
 | [Tram 83](https://open.spotify.com/track/7CjcnGl6OypX57bxgnOAFr) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Tram 83](https://open.spotify.com/album/3qltLSjCXhJuO4OWVFEqcd) | 2:23 | 2024-10-03 | 2024-11-22 |
 | [Tranky Funky](https://open.spotify.com/track/71axDWBLrFzciRUC8yPyfL) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Tranky Funky](https://open.spotify.com/album/1gzR5uvJuGujMKnyTGV3cl) | 2:49 | 2026-03-19 |  |
 | [tranquillo](https://open.spotify.com/track/39H2HXOZKUXaEe8HWpnn91) | [Pietro Motta](https://open.spotify.com/artist/4lA1XzmKtms1zw2iSnurDR) | [tranquillo](https://open.spotify.com/album/7KuilzwYnBWVUjkBiIyL5g) | 3:08 | 2025-10-16 | 2025-11-14 |

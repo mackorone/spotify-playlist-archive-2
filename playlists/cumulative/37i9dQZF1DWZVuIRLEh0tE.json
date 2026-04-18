@@ -6704,7 +6704,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 161490,
       "name": "DESEO",
       "url": "https://open.spotify.com/track/74RfZ6ShDOQY6PJh7HL46Z"
@@ -24244,6 +24244,32 @@
       "duration_ms": 187743,
       "name": "Su Lady",
       "url": "https://open.spotify.com/track/6Ax0e9dAIdy5Tdp6fHOstj"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/0KsQrzX7cMKjoFNhWh1bR0"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Luis Brown",
+          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
+        },
+        {
+          "name": "Mapa Negro",
+          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133728,
+      "name": "Su Lazzy",
+      "url": "https://open.spotify.com/track/5w6ZSz4JzB17e3LBmDOLus"
     },
     {
       "album": {

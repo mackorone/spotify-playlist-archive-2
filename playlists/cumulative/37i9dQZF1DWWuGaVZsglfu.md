@@ -2,9 +2,9 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: BTS
+> The best tracks from the world of music\. Cover: Adira Suhaimi
 
-511 songs - 1 day 5 hr 12 min
+512 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-09-04 | 2024-09-26 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 | 2025-03-20 |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 | 2025-12-04 |
-| [Dalam Diam](https://open.spotify.com/track/2eGp0zNLHCMaCltJ7fKdZ8) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi), [Zamir Harith](https://open.spotify.com/artist/053dJUug3KoJGNH4q2B1Vu), [Mojack Hafiz](https://open.spotify.com/artist/6b7Sx8k12iNt7JGHURdR3E), [Bel Janni](https://open.spotify.com/artist/5l7c6Bfkb3sHeDOOojVqvB) | [Dalam Diam](https://open.spotify.com/album/6cJwxVhJ789g6G0YrLVSVk) | 3:43 | 2025-10-29 |  |
+| [Dalam Diam](https://open.spotify.com/track/2eGp0zNLHCMaCltJ7fKdZ8) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi), [Zamir Harith](https://open.spotify.com/artist/053dJUug3KoJGNH4q2B1Vu), [Mojack Hafiz](https://open.spotify.com/artist/6b7Sx8k12iNt7JGHURdR3E), [Bel Janni](https://open.spotify.com/artist/5l7c6Bfkb3sHeDOOojVqvB) | [Dalam Diam](https://open.spotify.com/album/6cJwxVhJ789g6G0YrLVSVk) | 3:43 | 2025-10-29 | 2026-04-18 |
 | [Dalam Sujudku \- From "Dia Bukan Syurga"](https://open.spotify.com/track/6k4VyVmpDIiT06sF8JBvqA) | [Amira Othman](https://open.spotify.com/artist/31aRV0LJpJ88B7WX6PNspi) | [Dalam Sujudku \(From "Dia Bukan Syurga"\)](https://open.spotify.com/album/7128KwUDIucESDAxdKsShj) | 4:28 | 2025-05-21 | 2025-08-21 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2024-11-13 |
 | [Dayang Bintang](https://open.spotify.com/track/0yFvGt4wf0wIduBlToFoHP) | [Mawat](https://open.spotify.com/artist/1KwL4OA4pzIJep3kjSu3IG) | [Dayang Bintang](https://open.spotify.com/album/19J5z3pqEfU6DBgrWgZ01I) | 4:27 | 2025-06-11 | 2025-07-03 |
@@ -122,6 +122,7 @@
 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 | 2026-04-01 |  |
 | [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 | 2024-12-25 | 2025-02-20 |
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-06 | 2024-12-27 |
+| [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-17 |  |
 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 | 2024-06-26 | 2025-02-07 |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2026-02-11 | 2026-04-16 |
 | [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:33 | 2026-04-01 |  |

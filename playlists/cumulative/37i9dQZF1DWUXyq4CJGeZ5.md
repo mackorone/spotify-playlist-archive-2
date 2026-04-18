@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-542 songs - 23 hr 33 min
+543 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Boulangerie](https://open.spotify.com/track/2r91I9ptlPt7l5AesfBngD) | [Sebastian Henson](https://open.spotify.com/artist/2R3cJyoHQFK2fiXvH6k1q1) | [Afterglow](https://open.spotify.com/album/0jSbpFdSEs1ZvWUIB38RsJ) | 2:47 | 2023-03-10 | 2024-03-26 |
 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 | 2023-03-10 | 2024-10-02 |
 | [Boundless](https://open.spotify.com/track/1nZVRKDnMNRgwO7bkOJvz4) | [Marcello Liverani](https://open.spotify.com/artist/4p6pMpsoAUTY1yk6kiMMSt) | [Boundless](https://open.spotify.com/album/5IqzIiht8aJeEDPy4qKrPJ) | 2:20 | 2023-03-10 | 2024-10-22 |
+| [Breakfast At Lago Maggiore](https://open.spotify.com/track/3Cnzted2MWyuC5uWMCH5N0) | [Purple Kees](https://open.spotify.com/artist/1DJk5phajqhPpEq84bJzjz) | [Breakfast At Lago Maggiore](https://open.spotify.com/album/53Je21oZftAZtKKHa0FRhY) | 2:49 | 2026-04-17 |  |
 | [Bridge to Nowhere](https://open.spotify.com/track/1A6rVJJddqf7ct6FnK6cHE) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Bridge to Nowhere](https://open.spotify.com/album/75eFUsF34geJ4j4CiPD5Jt) | 2:51 | 2023-03-10 | 2024-04-04 |
 | [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 | 2023-03-10 | 2024-03-26 |
 | [Brothers](https://open.spotify.com/track/4wAgG2Y5yUrMc1RdMQJR14) | [Liam Muntz](https://open.spotify.com/artist/3xxV3NmQixCSk6fUPlGSvP) | [Brothers](https://open.spotify.com/album/3Da9jMzHmxCC3ruuyli07H) | 2:28 | 2023-03-10 | 2024-03-26 |

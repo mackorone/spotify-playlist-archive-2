@@ -1,12 +1,12 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 860857,
+  "num_followers": 861254,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKuVR/sh7BK52EEC0hKDssaEC58n",
+  "snapshot_id": "AAAAAOK1gYte8FkXvAz/2ENVvL39WPaO",
   "tracks": [
     {
       "added_at": "2026-04-10 10:09:26",
@@ -119,22 +119,6 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
-        "name": "The Less I Know The Better",
-        "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 176114,
-      "name": "The Less I Know The Better",
-      "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
         "name": "Shinjuku",
         "url": "https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 167905,
       "name": "Shinjuku",
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
+        "name": "The Less I Know The Better",
+        "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 176114,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        }
+      ],
+      "duration_ms": 147656,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
         "name": "Back It Up",
         "url": "https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 156398,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        }
-      ],
-      "duration_ms": 147656,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -527,6 +527,30 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
+        "name": "You Don't Own Me (feat. RAHH)",
+        "url": "https://open.spotify.com/album/7hRW5l0Tm5GCEpFHRYwxfT"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "duration_ms": 170694,
+      "name": "You Don't Own Me (feat. RAHH)",
+      "url": "https://open.spotify.com/track/1TsDNh8OuRcGfNX4Dz8oVl"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
         "name": "Party Started (feat. French Caviar)",
         "url": "https://open.spotify.com/album/3ctVYeZDf3nHqFk3j8mtfe"
       },
@@ -555,30 +579,6 @@
       "duration_ms": 143801,
       "name": "Party Started (feat. French Caviar)",
       "url": "https://open.spotify.com/track/4KUvvPHDP6QEjs1T4ZIvA6"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
-        "name": "You Don't Own Me (feat. RAHH)",
-        "url": "https://open.spotify.com/album/7hRW5l0Tm5GCEpFHRYwxfT"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        },
-        {
-          "name": "RAHH",
-          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
-        }
-      ],
-      "duration_ms": 170694,
-      "name": "You Don't Own Me (feat. RAHH)",
-      "url": "https://open.spotify.com/track/1TsDNh8OuRcGfNX4Dz8oVl"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -655,6 +655,22 @@
       "duration_ms": 186818,
       "name": "TESLA",
       "url": "https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
+        "name": "Out of My Mind EP",
+        "url": "https://open.spotify.com/album/7ESPqDltGcBM5c01aH1prU"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 204737,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/2FFwFlkKjKBSCdVpPf38Gj"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -739,22 +755,6 @@
       "duration_ms": 205454,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
-        "name": "Out of My Mind EP",
-        "url": "https://open.spotify.com/album/7ESPqDltGcBM5c01aH1prU"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 204737,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/2FFwFlkKjKBSCdVpPf38Gj"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
-        "name": "That's a Vibe",
-        "url": "https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz"
-      },
-      "artists": [
-        {
-          "name": "Ossie",
-          "url": "https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G"
-        }
-      ],
-      "duration_ms": 272681,
-      "name": "Are U Still Smiling?",
-      "url": "https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
         "name": "My Temptations",
         "url": "https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
+        "name": "That's a Vibe",
+        "url": "https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz"
+      },
+      "artists": [
+        {
+          "name": "Ossie",
+          "url": "https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G"
+        }
+      ],
+      "duration_ms": 272681,
+      "name": "Are U Still Smiling?",
+      "url": "https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
         "name": "5AM At Bagleys",
         "url": "https://open.spotify.com/album/1BJAJAuOKPc5HoNfpzZrIK"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 250250,
       "name": "5AM At Bagleys",
       "url": "https://open.spotify.com/track/3nKFvxs17ez3awL6S0IS8k"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "duration_ms": 285786,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -1227,18 +1243,22 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2mJ08Ks0w1VpU5g5LjgM6W"
       },
       "artists": [
         {
-          "name": "Luuk Van Dijk",
-          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+          "name": "Amine Edge",
+          "url": "https://open.spotify.com/artist/5iCqqgYu0T23xUwnBFGpU1"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
         }
       ],
-      "duration_ms": 285786,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM"
+      "duration_ms": 219080,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/7qMxaJcpIGtxzEiovcnZ8A"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -1259,26 +1279,6 @@
       "duration_ms": 195795,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/2J9jWkE2NUeULlJ7OSIZ3G"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2mJ08Ks0w1VpU5g5LjgM6W"
-      },
-      "artists": [
-        {
-          "name": "Amine Edge",
-          "url": "https://open.spotify.com/artist/5iCqqgYu0T23xUwnBFGpU1"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/7qMxaJcpIGtxzEiovcnZ8A"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
-        "name": "AD02: Pans Of Death / Rounds",
-        "url": "https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL"
-      },
-      "artists": [
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 320597,
-      "name": "Pans Of Death",
-      "url": "https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
         "name": "Stars Above",
         "url": "https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 247384,
       "name": "Sungazing - Electronic Mix",
       "url": "https://open.spotify.com/track/0H72o8QdyYc57jNkvYwfAX"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
+        "name": "AD02: Pans Of Death / Rounds",
+        "url": "https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL"
+      },
+      "artists": [
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 320597,
+      "name": "Pans Of Death",
+      "url": "https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
-        "name": "Mamacita",
-        "url": "https://open.spotify.com/album/5nKSZIsIRjTCsQN3M6RE3P"
+        "name": "Girl On The Beat",
+        "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
       },
       "artists": [
         {
-          "name": "Yung Omz ",
-          "url": "https://open.spotify.com/artist/0XtHWrMRipVdHRV9QNyu04"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
-      "duration_ms": 128780,
-      "name": "Mamacita",
-      "url": "https://open.spotify.com/track/7BGh5Om46VaCFeqk11sKk2"
+      "duration_ms": 160029,
+      "name": "Girl On The Beat",
+      "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
-        "name": "Girl On The Beat",
-        "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/5nKSZIsIRjTCsQN3M6RE3P"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "Yung Omz ",
+          "url": "https://open.spotify.com/artist/0XtHWrMRipVdHRV9QNyu04"
         }
       ],
-      "duration_ms": 160029,
-      "name": "Girl On The Beat",
-      "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
+      "duration_ms": 128780,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/7BGh5Om46VaCFeqk11sKk2"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -1543,30 +1543,6 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1eCQwGuMOacFsOjMUIxR2M"
-      },
-      "artists": [
-        {
-          "name": "Milk & Sugar",
-          "url": "https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH"
-        },
-        {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
-        }
-      ],
-      "duration_ms": 202380,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/7D1t24C31rtSLZp5XpEKDF"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/4iPr6vfBSTzI3ksPdReHbQ"
       },
@@ -1591,26 +1567,6 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/2C74sO3IjfXbiEPKD6kjQo"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6cBs0IiuiBT0172vOcc7GE"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
       },
@@ -1627,6 +1583,50 @@
       "duration_ms": 179408,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1eCQwGuMOacFsOjMUIxR2M"
+      },
+      "artists": [
+        {
+          "name": "Milk & Sugar",
+          "url": "https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "duration_ms": 202380,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/7D1t24C31rtSLZp5XpEKDF"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/2C74sO3IjfXbiEPKD6kjQo"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6cBs0IiuiBT0172vOcc7GE"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
+        "name": "Ando High",
+        "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 165875,
+      "name": "Ando High",
+      "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
         "name": "My Wave",
         "url": "https://open.spotify.com/album/5atD8mhDIuJ2ntR1nU0TK7"
       },
@@ -1671,22 +1691,18 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
-        "name": "Ando High",
-        "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/0FposarJ84MZOTuYbmykCv"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 165875,
-      "name": "Ando High",
-      "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
+      "duration_ms": 208776,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/1ENR9Zzy5GlPjUsaZW48jF"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -1711,22 +1727,6 @@
       "duration_ms": 225250,
       "name": "Bad Habit - Cl\u00fcb De Combat Remix",
       "url": "https://open.spotify.com/track/1PNaFj8n0qWDGb1VyIVC6D"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
-        "name": "Rendezvous",
-        "url": "https://open.spotify.com/album/0FposarJ84MZOTuYbmykCv"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 208776,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/1ENR9Zzy5GlPjUsaZW48jF"
     },
     {
       "added_at": "2026-04-10 10:09:26",

@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "a million",
+        "url": "https://open.spotify.com/album/0XXVIcn7nvspjZYcqSJUl9"
+      },
+      "artists": [
+        {
+          "name": "harper",
+          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152786,
+      "name": "a million",
+      "url": "https://open.spotify.com/track/1JCon4olkEHqtle2sz5xwS"
+    },
+    {
+      "album": {
         "name": "A Minute or Two",
         "url": "https://open.spotify.com/album/1NDqGioWjOyUtMGVqxfA2q"
       },
@@ -748,6 +766,24 @@
       "duration_ms": 215913,
       "name": "About Leaving",
       "url": "https://open.spotify.com/track/6iraVxe9TrUxvpnymEAe7P"
+    },
+    {
+      "album": {
+        "name": "Acid Washed",
+        "url": "https://open.spotify.com/album/7ByICVrVB3zYNVoSfGbe7s"
+      },
+      "artists": [
+        {
+          "name": "Flowerboy",
+          "url": "https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127272,
+      "name": "Acid Washed",
+      "url": "https://open.spotify.com/track/0bla0kPTlY0r1M3tOY6BfS"
     },
     {
       "album": {
@@ -1484,7 +1520,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 161160,
       "name": "american idol",
       "url": "https://open.spotify.com/track/62TpAHZBiZCGcV4VG1lGLO"
@@ -2668,7 +2704,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 123908,
       "name": "better off",
       "url": "https://open.spotify.com/track/5vsoiAaSuXepEMtMNpR86V"
@@ -4306,7 +4342,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 186301,
       "name": "Can We Just Pretend?",
       "url": "https://open.spotify.com/track/3skQGWKcKfgAfXalmPLaON"
@@ -8484,7 +8520,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 228461,
       "name": "favors",
       "url": "https://open.spotify.com/track/7a0auf1LJkhoIlDmjVEXii"
@@ -11712,7 +11748,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 164870,
       "name": "hot but depressive",
       "url": "https://open.spotify.com/track/4kRAn2ZrWPzN0bQiLmtLUq"
@@ -12406,6 +12442,24 @@
       "duration_ms": 225454,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/3qR417vBrNd4Lf01eMVwWB"
+    },
+    {
+      "album": {
+        "name": "I don't know",
+        "url": "https://open.spotify.com/album/4Wppy4CGnymy3HDPDAUg1Z"
+      },
+      "artists": [
+        {
+          "name": "Emma Whale",
+          "url": "https://open.spotify.com/artist/6QXYJSKKFGJueoq8Xuzita"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "I don't know",
+      "url": "https://open.spotify.com/track/7aJY5UJMOwiNtTCBQWMEYZ"
     },
     {
       "album": {
@@ -14770,6 +14824,24 @@
       "duration_ms": 165150,
       "name": "king of loathing",
       "url": "https://open.spotify.com/track/0615nSzOQDbLH9FvlYm5NI"
+    },
+    {
+      "album": {
+        "name": "King Of The Lake",
+        "url": "https://open.spotify.com/album/0DtqZfvr5PUtr33Nr5VbQz"
+      },
+      "artists": [
+        {
+          "name": "Fireball Kid",
+          "url": "https://open.spotify.com/artist/1YnSsYsMWBmHHN05ALpcXM"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180845,
+      "name": "King Of The Lake",
+      "url": "https://open.spotify.com/track/1xHxwP0LPN1Z8TxWoF64sg"
     },
     {
       "album": {
@@ -18819,6 +18891,24 @@
     },
     {
       "album": {
+        "name": "one trick pony",
+        "url": "https://open.spotify.com/album/5jTcc8efQu81o3XvM29YvN"
+      },
+      "artists": [
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160862,
+      "name": "one trick pony",
+      "url": "https://open.spotify.com/track/2haBYqYbGzA8FpE84bawai"
+    },
+    {
+      "album": {
         "name": "OOZ",
         "url": "https://open.spotify.com/album/1NZjWMc4WucANW1OGEFUvo"
       },
@@ -22484,7 +22574,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 214765,
       "name": "Sink My Boat",
       "url": "https://open.spotify.com/track/1DuUyQZSOhbOxwNO00Ft6W"
@@ -23376,7 +23466,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 211928,
       "name": "Sought",
       "url": "https://open.spotify.com/track/36N1P6noHNFK42IOh6YqnH"
@@ -24065,6 +24155,24 @@
     },
     {
       "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/3btOASnrHiiMAsGX9MOFO6"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199933,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5ligHUBfOzXx0kv8QXRbQ0"
+    },
+    {
+      "album": {
         "name": "Strawberries & Cigarettes",
         "url": "https://open.spotify.com/album/5s6KuX3jQKyHxq3kRMq0J0"
       },
@@ -24250,6 +24358,24 @@
       "duration_ms": 159477,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
+    },
+    {
+      "album": {
+        "name": "stuck song",
+        "url": "https://open.spotify.com/album/48af6MS7FydlaNLXIrWG6V"
+      },
+      "artists": [
+        {
+          "name": "priyana",
+          "url": "https://open.spotify.com/artist/0dLw2a1tfVQCJ5cOQnpdlQ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169997,
+      "name": "stuck song",
+      "url": "https://open.spotify.com/track/1xaXwMtCtm0KmpRSpV2QUB"
     },
     {
       "album": {
@@ -28414,6 +28540,24 @@
       "duration_ms": 154453,
       "name": "Wheels at Night",
       "url": "https://open.spotify.com/track/4GRmluN7jCIhcqTXD3FzkL"
+    },
+    {
+      "album": {
+        "name": "Music for Elephants",
+        "url": "https://open.spotify.com/album/4Z0D3HiCZrTwbhZeuMACwT"
+      },
+      "artists": [
+        {
+          "name": "BRDGS",
+          "url": "https://open.spotify.com/artist/3yHcgChNW7jVTvgBfgrTeT"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164312,
+      "name": "When I Loved You",
+      "url": "https://open.spotify.com/track/2mQs2KBZVfJWmJHr4gqTNI"
     },
     {
       "album": {

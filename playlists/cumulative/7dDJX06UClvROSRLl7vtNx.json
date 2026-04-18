@@ -2870,7 +2870,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 142142,
       "name": "burn me down",
       "url": "https://open.spotify.com/track/5n6m0IMINOotiNaDGIwPdx"
@@ -4618,7 +4618,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 198125,
       "name": "Dance In The Dark",
       "url": "https://open.spotify.com/track/3LSPoubZ1lhdh9FsRu2vur"
@@ -16636,6 +16636,32 @@
       "duration_ms": 146440,
       "name": "Missing",
       "url": "https://open.spotify.com/track/1Hrf64ujV8POIEljEmh85L"
+    },
+    {
+      "album": {
+        "name": "Missing You (Le Jardin Secret Remix)",
+        "url": "https://open.spotify.com/album/2S9BrkDWlzyH81HV8BQcQt"
+      },
+      "artists": [
+        {
+          "name": "Samuel Miller",
+          "url": "https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8"
+        },
+        {
+          "name": "LO",
+          "url": "https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto"
+        },
+        {
+          "name": "Le Jardin Secret",
+          "url": "https://open.spotify.com/artist/0Hzo0ny2O7V0MK5HbttDi5"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "Missing You - Le Jardin Secret Remix",
+      "url": "https://open.spotify.com/track/6H7cbyo4hiOdn2fUxToGA6"
     },
     {
       "album": {

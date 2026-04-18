@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-448 songs - 20 hr 29 min
+449 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 | 2021-12-16 |  |
 | [Best på fest](https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG) | 2:40 | 2023-03-01 | 2025-07-19 |
 | [Bjudar på](https://open.spotify.com/track/0gfP3em97H6T2ZhsLSMp2S) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Bjudar på](https://open.spotify.com/album/28kSTlOsS6yDQLpkXrDhFw) | 2:43 | 2021-12-16 | 2025-06-07 |
+| [Bli med meg hemmat](https://open.spotify.com/track/5ub98nrj8BkZw83e221tOY) | [Vika Anonymous](https://open.spotify.com/artist/1C8kOL3kvdiXIApSYI4ubt) | [Bli med meg hemmat](https://open.spotify.com/album/0KIIp0JJxWQ732Uho3ZHH5) | 2:17 | 2026-04-16 |  |
 | [Bli Med Meg Hjem](https://open.spotify.com/track/57bTCtZZib1OkelyBl10a1) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Bli Med Meg Hjem](https://open.spotify.com/album/3B0F6c5gFEgcUElAnr03pR) | 2:10 | 2022-05-05 | 2022-07-29 |
 | [BLINKAR INTE NÄR JAG BYTER FIL](https://open.spotify.com/track/0aQ2hgNRUwoICgQ1tvBnYs) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [BLINKAR INTE NÄR JAG BYTER FIL](https://open.spotify.com/album/01ayc4U9jmmjlrmQYoRYfe) | 2:21 | 2023-02-16 | 2023-04-12 |
 | [Blinklys](https://open.spotify.com/track/0pyF0UOrp7Qwltt2bhm0pi) | [Hjulspinn](https://open.spotify.com/artist/5A1Dp2synjftKRsqAV8Jgr) | [Blinklys](https://open.spotify.com/album/5fvqGBJbQZRbwMtyyEms4I) | 1:50 | 2023-09-21 | 2024-02-09 |
@@ -138,7 +139,7 @@
 | [Fest i Trøndelag](https://open.spotify.com/track/7IAzz4Eof2KQzw2AA18aa8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Johnny Skinnvest](https://open.spotify.com/artist/6zetK6GB7Zs99bJELK3XQm) | [Fest i Trøndelag](https://open.spotify.com/album/4y4NUVNk5bzyydVabRpfXl) | 2:53 | 2025-05-22 | 2026-02-01 |
 | [Fineste i bygda](https://open.spotify.com/track/0ao1DL2cMdCuh4mB8r1y9z) | [Bare Andy](https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU) | [Fineste i bygda](https://open.spotify.com/album/7JFPf1f5pWX81h6EMxolbY) | 3:11 | 2025-10-23 | 2026-01-01 |
 | [Fjellrypa](https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [Sånn e livet \- Live 10 år](https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6) | 4:26 | 2022-03-24 | 2025-03-28 |
-| [Flammer og Bensin](https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Flammer og Bensin](https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK) | 3:32 | 2023-09-21 |  |
+| [Flammer og Bensin](https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Flammer og Bensin](https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK) | 3:32 | 2023-09-21 | 2026-04-18 |
 | [Flaska](https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Flaska](https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I) | 2:31 | 2021-12-16 |  |
 | [Flesk og Duppe](https://open.spotify.com/track/6fQFJFQ32fixoWCwQs234R) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Flesk og duppe](https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y) | 3:26 | 2025-03-13 |  |
 | [FRATERNITY](https://open.spotify.com/track/7wcbaD93iX2uIcP1X9oDKq) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [FRATERNITY](https://open.spotify.com/album/6MG2YTCUxJnihyrrFOoA5I) | 2:06 | 2022-08-04 | 2022-09-23 |

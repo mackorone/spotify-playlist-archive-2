@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,758 likes - 140 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,783 likes - 140 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 10 | [sunrise](https://open.spotify.com/track/1eo4dFZb0UAvPO7oPFPE72) | [mxgnetic.](https://open.spotify.com/artist/5u7mGLVX9UB0iKwkgMywJ9) | [sunrise](https://open.spotify.com/album/0t4yXNgstBAzYTiRL5oOsc) | 2:37 |
 | 11 | [window seat](https://open.spotify.com/track/4TrxWjFGGjmfqcLxdL8Wbb) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [window seat](https://open.spotify.com/album/0dlRzrxJAu3gzKfg5VgkE5) | 3:07 |
 | 12 | [Low](https://open.spotify.com/track/6GHgn25eOOYaEX8lzMXvcI) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Low](https://open.spotify.com/album/39ayVNMnZmFUBJF0mC69ke) | 2:29 |
-| 13 | [ValleyViews](https://open.spotify.com/track/7E2GF1dct7xy9GKgp4eQrj) | [Mellow Mirror](https://open.spotify.com/artist/7kVcHt4VUH5dGb0Gz8IY3G) | [ValleyViews](https://open.spotify.com/album/0j5r810d6h4DmFeaq0hJ0Q) | 1:58 |
-| 14 | [Half Moon](https://open.spotify.com/track/0iWxaTdBHSLRtDIUEh16Ee) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [Half Moon](https://open.spotify.com/album/2J9XleapibIQICho30gRz6) | 1:53 |
+| 13 | [Half Moon](https://open.spotify.com/track/0iWxaTdBHSLRtDIUEh16Ee) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [Half Moon](https://open.spotify.com/album/2J9XleapibIQICho30gRz6) | 1:53 |
+| 14 | [ValleyViews](https://open.spotify.com/track/7E2GF1dct7xy9GKgp4eQrj) | [Mellow Mirror](https://open.spotify.com/artist/7kVcHt4VUH5dGb0Gz8IY3G) | [ValleyViews](https://open.spotify.com/album/0j5r810d6h4DmFeaq0hJ0Q) | 1:58 |
 | 15 | [Calla Lily](https://open.spotify.com/track/4chbNzhe2t83w6e7leKSJd) | [afk](https://open.spotify.com/artist/29Xl84PNW154iIVrdVe2mN) | [Calla Lily](https://open.spotify.com/album/1R1MAt4aulqg1xTrCqDYuw) | 2:14 |
 | 16 | [raindance](https://open.spotify.com/track/720sJmHXRC3ZGzgE6BoO3X) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [raindance](https://open.spotify.com/album/0nMIcz9pkKQtd78NuHbzVz) | 2:16 |
 | 17 | [wind chimes](https://open.spotify.com/track/4ZerYi8XUvfDttgjHunuvf) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [wind chimes](https://open.spotify.com/album/2yVAYaHuL9Ta5WWiDFP1Ec) | 2:15 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 47 | [Playground Days](https://open.spotify.com/track/3Z4xamn5gkIDOxcbQWTZbI) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Playground](https://open.spotify.com/album/11CcFmSsiIODypVZC4rXRt) | 2:23 |
 | 48 | [Weightless](https://open.spotify.com/track/5jf4jUDfHruFyFj25TTWTD) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Weightless](https://open.spotify.com/album/6DcUs1tRcpZY9LpOEabQgY) | 2:14 |
 | 49 | [Loft Room](https://open.spotify.com/track/6uDcf4yMECdvrTVUc06Gfn) | [Rainbows & Clouds](https://open.spotify.com/artist/4MItiv8qg42Ph7bWuCsOTg) | [Loft Room](https://open.spotify.com/album/1MueD7LqO77Oh55GwLXbAE) | 2:37 |
-| 50 | [Escape](https://open.spotify.com/track/6vF4LLcHVYeWAKNV7JT7VV) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [Escape](https://open.spotify.com/album/2z9VbBhqV4YexR3UX6tAeJ) | 2:30 |
-| 51 | [Folded Rhythm](https://open.spotify.com/track/7vvBoOT2L8QrXB5LY1beo1) | [weightless minutes](https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN) | [Folded Rhythm](https://open.spotify.com/album/0s2MKyjmIwBY8OKH9T9AM9) | 1:50 |
+| 50 | [Folded Rhythm](https://open.spotify.com/track/7vvBoOT2L8QrXB5LY1beo1) | [weightless minutes](https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN) | [Folded Rhythm](https://open.spotify.com/album/0s2MKyjmIwBY8OKH9T9AM9) | 1:50 |
+| 51 | [Escape](https://open.spotify.com/track/6vF4LLcHVYeWAKNV7JT7VV) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [Escape](https://open.spotify.com/album/2z9VbBhqV4YexR3UX6tAeJ) | 2:30 |
 | 52 | [Blume](https://open.spotify.com/track/3grDCNoz10P59lIs1JLbvi) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Blume](https://open.spotify.com/album/1Xw7vn8RhXcRoCBIEMkB0B) | 2:34 |
 | 53 | [Meanwhile](https://open.spotify.com/track/1cfqOZQ4RDSf13bU3YiiHn) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [Meanwhile](https://open.spotify.com/album/1OF3SaghyQI3W5krG4b0Mf) | 2:22 |
 | 54 | [Street Window](https://open.spotify.com/track/5OnOCfUbfMAgilTGZUPabd) | [Cloudroom](https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z) | [Street Window](https://open.spotify.com/album/0zxr1wsSAjkmvie0QHATuo) | 2:06 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 61 | [City Slumber](https://open.spotify.com/track/2fJpL4FueJLloOBvP0NevD) | [Mellow Melt](https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ) | [City Slumber](https://open.spotify.com/album/3LFKhcJRHralwHO3i24jeL) | 2:20 |
 | 62 | [cycle of life](https://open.spotify.com/track/5N6kN49QpZic3dBIvqQxRH) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [cycle of life](https://open.spotify.com/album/5NBahqPEEsIpyzWPHuzn1r) | 2:04 |
 | 63 | [sleepy hat](https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sleepy hat](https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ) | 2:48 |
-| 64 | [Blue Skies](https://open.spotify.com/track/4fnD147UMtT4vv5bougNIJ) | [hiking trip](https://open.spotify.com/artist/2LYQSy5WzO4IpaDmvmGzts) | [Blue Skies](https://open.spotify.com/album/2yIMXGXNmsMFNrGHf1wZf2) | 2:34 |
-| 65 | [Hiber Nation](https://open.spotify.com/track/1E8dmRocWJY7TMk908wpH9) | [Stekt](https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD) | [Hiber Nation](https://open.spotify.com/album/4IkDYVJ79vXbyUTUcynndN) | 2:42 |
+| 64 | [Hiber Nation](https://open.spotify.com/track/1E8dmRocWJY7TMk908wpH9) | [Stekt](https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD) | [Hiber Nation](https://open.spotify.com/album/4IkDYVJ79vXbyUTUcynndN) | 2:42 |
+| 65 | [Blue Skies](https://open.spotify.com/track/4fnD147UMtT4vv5bougNIJ) | [hiking trip](https://open.spotify.com/artist/2LYQSy5WzO4IpaDmvmGzts) | [Blue Skies](https://open.spotify.com/album/2yIMXGXNmsMFNrGHf1wZf2) | 2:34 |
 | 66 | [Days Gone By](https://open.spotify.com/track/3UAOO82uM3ZExmkFCstUGW) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Days Gone By](https://open.spotify.com/album/2Tf0wMMM9Nnp8gim2otLdY) | 2:51 |
 | 67 | [Dotted Eyes](https://open.spotify.com/track/1d4CDQM8bhmoC8nJkaAavT) | [gamuri shun](https://open.spotify.com/artist/3t8zcW41Vd0F7ddGBwUZ4N) | [Dotted Eyes](https://open.spotify.com/album/6Z5JF5945fPZl8fTyDvKCZ) | 2:12 |
 | 68 | [my safe place](https://open.spotify.com/track/2ZJpn9zfmI50N1mzcyBSUJ) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [my safe place](https://open.spotify.com/album/0mkfPXG6Eac9kUOKP6SWPv) | 1:36 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 75 | [awakening](https://open.spotify.com/track/4lIBvM1LnA92nZ19U2vLPJ) | [hotpotatoes](https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [awakening](https://open.spotify.com/album/5ZMVxKLha84fPOsC8K1ovb) | 2:04 |
 | 76 | [Warm Mug](https://open.spotify.com/track/0wU1dFdc0yZkJUMxwZoWuv) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [Warm Mug](https://open.spotify.com/album/4KFuIhOeomePZyJW2wmyBX) | 3:14 |
 | 77 | [growing still](https://open.spotify.com/track/3RSxBajUUnUfHPZbriPzWT) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [growing still](https://open.spotify.com/album/02d2LqrUcKC1H2KxCE9Vjx) | 2:46 |
-| 78 | [Surf](https://open.spotify.com/track/3OxCF7LYaXs4gbvIrXNeAQ) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Surf](https://open.spotify.com/album/66EAjNXod8ux4htXfWsXDj) | 2:35 |
-| 79 | [Get Through](https://open.spotify.com/track/2UZuQRrgCuoY2yYpoUaWGb) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [Mike Nora](https://open.spotify.com/artist/5HCpJ18GNaqB4nCl6MyGBI) | [Get Through](https://open.spotify.com/album/4Tv2AoLCwQ9kRvLu48XbE8) | 1:58 |
+| 78 | [Get Through](https://open.spotify.com/track/2UZuQRrgCuoY2yYpoUaWGb) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [Mike Nora](https://open.spotify.com/artist/5HCpJ18GNaqB4nCl6MyGBI) | [Get Through](https://open.spotify.com/album/4Tv2AoLCwQ9kRvLu48XbE8) | 1:58 |
+| 79 | [Surf](https://open.spotify.com/track/3OxCF7LYaXs4gbvIrXNeAQ) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Surf](https://open.spotify.com/album/66EAjNXod8ux4htXfWsXDj) | 2:35 |
 | 80 | [Theoretical](https://open.spotify.com/track/0PZZO3Ja2oqiKS6DkSDn5r) | [Sleepy Panda](https://open.spotify.com/artist/0jh6qoHguqq77wVg1XE3JA) | [Theoretical](https://open.spotify.com/album/6MAY4jpcIayBvRUd7dhfIp) | 2:33 |
 | 81 | [Take Me Back](https://open.spotify.com/track/4uLHZisb2folVt5JJam396) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Take Me Back](https://open.spotify.com/album/45KoVoEqDqMBArWzy78lfO) | 2:01 |
 | 82 | [Him & Her](https://open.spotify.com/track/6kUwrt8mM8wf0Od8UvoxOa) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Him & Her](https://open.spotify.com/album/0OCVJHGPMUguZzz8jxSiPb) | 1:53 |
@@ -113,10 +113,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 103 | [Turning Into Something Else](https://open.spotify.com/track/6jEzUbuKsjTVbphohOyz82) | [Lazarus best for us](https://open.spotify.com/artist/7Jo5bYYstYsWilLkB9zFGH) | [Floating Motion](https://open.spotify.com/album/3Qy1MIESJijAvAAQbLs5EZ) | 2:30 |
 | 104 | [water lilies](https://open.spotify.com/track/5TFof48dUyUk0BqpxWO6uw) | [soro](https://open.spotify.com/artist/27MmzjJ78u6DBhVIW3ZNpV) | [water lilies](https://open.spotify.com/album/41XOp27eS7fKll2GmovmwO) | 2:17 |
 | 105 | [After Glow](https://open.spotify.com/track/0dxvB5tCP5fQp9WuZFzQI9) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [bouji bud](https://open.spotify.com/artist/4sKoAY8ajcXn6EI1ioDLXW) | [After Glow](https://open.spotify.com/album/23Q2Ne4BuHUkceLFKdk0Wn) | 2:40 |
-| 106 | [eclipse](https://open.spotify.com/track/54vkA47SBKkcsEYnFIXZRi) | [Mr Davies](https://open.spotify.com/artist/2gLbE2Cr7iD5hNTTTFgY2K) | [eclipse](https://open.spotify.com/album/2whe5rcSytK3yTy2XuLwJm) | 2:28 |
-| 107 | [Eagle](https://open.spotify.com/track/7y59bf74fnWo54y3cSLBvx) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Eagle](https://open.spotify.com/album/4azzrrmrAvjDiRIk3ZZCEj) | 3:10 |
-| 108 | [rainy nights](https://open.spotify.com/track/1BTqZfkczOQQflgBmVZfyy) | [qchill](https://open.spotify.com/artist/1tHzEsnYvhIY39B3HbDw0E), [DI3GO](https://open.spotify.com/artist/4EmjMfcqdH9T1EuCZ81znQ) | [rainy nights](https://open.spotify.com/album/7oH29yH2gEif1Yqo0xMM0U) | 2:12 |
-| 109 | [Stussy](https://open.spotify.com/track/0OjvOvXXEaWpWP3J8hfwKk) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Stussy](https://open.spotify.com/album/36q17oo5LpxFExpzshZ1Vx) | 2:46 |
+| 106 | [Eagle](https://open.spotify.com/track/7y59bf74fnWo54y3cSLBvx) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Eagle](https://open.spotify.com/album/4azzrrmrAvjDiRIk3ZZCEj) | 3:10 |
+| 107 | [eclipse](https://open.spotify.com/track/54vkA47SBKkcsEYnFIXZRi) | [Mr Davies](https://open.spotify.com/artist/2gLbE2Cr7iD5hNTTTFgY2K) | [eclipse](https://open.spotify.com/album/2whe5rcSytK3yTy2XuLwJm) | 2:28 |
+| 108 | [Stussy](https://open.spotify.com/track/0OjvOvXXEaWpWP3J8hfwKk) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Stussy](https://open.spotify.com/album/36q17oo5LpxFExpzshZ1Vx) | 2:46 |
+| 109 | [rainy nights](https://open.spotify.com/track/1BTqZfkczOQQflgBmVZfyy) | [qchill](https://open.spotify.com/artist/1tHzEsnYvhIY39B3HbDw0E), [DI3GO](https://open.spotify.com/artist/4EmjMfcqdH9T1EuCZ81znQ) | [rainy nights](https://open.spotify.com/album/7oH29yH2gEif1Yqo0xMM0U) | 2:12 |
 | 110 | [Urban Summer](https://open.spotify.com/track/1Km3xwYKto5U2xdsPv8HTc) | [Alkis Siokis](https://open.spotify.com/artist/4B7RMdxD9keX7PCQIpOs5O) | [Urban Summer](https://open.spotify.com/album/2WPP6XQR0P7DvlHbC3OcY2) | 2:42 |
 | 111 | [Context](https://open.spotify.com/track/53fRXKyA5gszPQS4kyEstO) | [Widefoot](https://open.spotify.com/artist/3AsTXF3O57Mh5814iDyMf0) | [Lush Lines](https://open.spotify.com/album/5ChzK0Nq9TfcC6vPHgiKGA) | 1:58 |
 | 112 | [ripple](https://open.spotify.com/track/5P74LLSSglF3gIt2tcFSVn) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [ripple](https://open.spotify.com/album/2aDD0xJyadV6hisCeSiAhP) | 2:16 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 121 | [play it](https://open.spotify.com/track/78WfketyVicKm5FjIUlnjU) | [B.O Mitz](https://open.spotify.com/artist/2N2Pm6RaNByrYBzEcguka9) | [play it](https://open.spotify.com/album/2J32iHvpetzGjSi2BiM1JE) | 2:32 |
 | 122 | [timelines](https://open.spotify.com/track/2LjJ2TIZe9mz4POiqUyxif) | [rec.X](https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt) | [timelines](https://open.spotify.com/album/4v2m6YNbwMtzWDPo4uav5N) | 2:04 |
 | 123 | [Presence](https://open.spotify.com/track/6kO1idyRqaj2J5B2syUq7w) | [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB), [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6) | [Presence](https://open.spotify.com/album/0tedFfKSiGAXaYhjK83Xya) | 2:17 |
-| 124 | [neon reflections](https://open.spotify.com/track/4qneH71UmcvFiAjkyTkCQg) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [neon reflections](https://open.spotify.com/album/4Bgj9xRKXC70Hyx8GinF97) | 1:58 |
-| 125 | [Forgotten](https://open.spotify.com/track/6kOTW7PCRfhd2I4hpq6BVT) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Forgotten](https://open.spotify.com/album/7wnhqe7r2D6sg82zGfZgpb) | 1:29 |
+| 124 | [Forgotten](https://open.spotify.com/track/6kOTW7PCRfhd2I4hpq6BVT) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Forgotten](https://open.spotify.com/album/7wnhqe7r2D6sg82zGfZgpb) | 1:29 |
+| 125 | [neon reflections](https://open.spotify.com/track/4qneH71UmcvFiAjkyTkCQg) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [neon reflections](https://open.spotify.com/album/4Bgj9xRKXC70Hyx8GinF97) | 1:58 |
 | 126 | [Cosmos](https://open.spotify.com/track/00TdtTQPE8qA8wprZHfHLo) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Elephant Soul](https://open.spotify.com/album/672sDweJIxHJ8hlvd7BwEz) | 2:06 |
 | 127 | [kingdom awoken](https://open.spotify.com/track/4ENo9YRLyNIDIA4B1K3VLI) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [kingdom awoken](https://open.spotify.com/album/43UwkKNqU3gkx8DH6C3Riw) | 2:54 |
 | 128 | [Staring Out The Window](https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Staring Out The Window](https://open.spotify.com/album/70a2YgEJwoX6QknnuayZtR) | 2:18 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 139 | [Snowflake](https://open.spotify.com/track/1mGaio343L5aaxmcsdoeq7) | [Railey](https://open.spotify.com/artist/1W3u3PSYtoA7OQ3lHpKK7G) | [Snowflake](https://open.spotify.com/album/6ioII01Al1mVoITxFoB2De) | 1:19 |
 | 140 | [down the street](https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/7nFDioqfi7uuPtmb4EtkgC) | 1:50 |
 
-Snapshot ID: `AAAAAIEGmi7o8UNcOSnX9K0TGnGvlKfA`
+Snapshot ID: `AAAAAD3jED0pbPqBV0muuy6eJIOlbrbh`

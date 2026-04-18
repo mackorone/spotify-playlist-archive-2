@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Not For Radio
 
-937 songs - 2 day 7 hr 49 min
+938 songs - 2 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [I Come With Mud](https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 4:51 | 2025-03-21 | 2025-06-06 |
 | [I Don't Mind](https://open.spotify.com/track/6wL3cuhOPz17kioLBs2Ger) | [Ninush](https://open.spotify.com/artist/1p5RlGU6wB8WuQc024cWB0) | [I Don't Mind](https://open.spotify.com/album/7oNPziidIN0W0BeX5YULBo) | 3:23 | 2025-11-28 | 2026-03-06 |
 | [i don't wanna die today](https://open.spotify.com/track/4oKUWM85yPB6Q4HNXxD1n4) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [i don't wanna die today](https://open.spotify.com/album/45Q5tj3SdmdDwXZUp5P5Ml) | 2:55 | 2025-10-31 | 2026-02-13 |
+| [I Don’t Know What I’m Doing on Earth, I Don’t Know What on Earth I’m Doing](https://open.spotify.com/track/1O4zixkyiwrCX6JvgcXzpY) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [I Don’t Know What I’m Doing on Earth, I Don’t Know What on Earth I’m Doing](https://open.spotify.com/album/1oR7phi6WIVtvFN67axdUX) | 3:45 | 2026-04-17 |  |
 | [I Don’t Wanna](https://open.spotify.com/track/4hHizy49Hzl7QfP3mGVJOY) | [Sydney Minsky Sargeant](https://open.spotify.com/artist/67XmpPOLIuRRGNUfXxyZ8J) | [I Don't Wanna](https://open.spotify.com/album/4yD8wtm8g2bo78ZVpBIBAp) | 3:19 | 2025-07-17 | 2025-08-15 |
 | [I Expect Better](https://open.spotify.com/track/5GR30tXyjrKUb5LcWya8zn) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [I Expect Better](https://open.spotify.com/album/2ZogXq5ZB7L97sPQWmIl5a) | 2:19 | 2026-04-16 |  |
 | [I Feel You](https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [I Feel You](https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB) | 2:36 | 2024-07-18 | 2024-09-21 |
@@ -548,7 +549,7 @@
 | [Moon Man](https://open.spotify.com/track/1lXigZDZQlnIA0xkXDhAjy) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Moon Man](https://open.spotify.com/album/56I2ouB7lxUnQysrxUCGjI) | 3:05 | 2025-09-01 | 2025-11-28 |
 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 | 2025-06-26 | 2025-07-25 |
 | [Mum](https://open.spotify.com/track/5fzXn94Xer4aVwo6n8Bxuq) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf), [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Saloon](https://open.spotify.com/album/71cOCiBbJOp0PbtnZw7BkC) | 4:03 | 2025-10-23 | 2026-01-30 |
-| [My Favourite Book Is One I’ve Read A Bunch](https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC) | [Dermot Henry](https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H) | [My Favourite Book Is One I’ve Read A Bunch](https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3) | 3:34 | 2026-04-16 |  |
+| [My Favourite Book Is One I’ve Read A Bunch](https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC) | [Dermot Henry](https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H) | [My Favourite Book Is One I’ve Read A Bunch / Little Rib](https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3) | 3:34 | 2026-04-16 |  |
 | [My Favourite Monster](https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [My Favourite Monster](https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu) | 3:58 | 2025-05-29 | 2025-09-03 |
 | [My Friend](https://open.spotify.com/track/0ESRB5ig0fO9YfRTHlooWC) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [My Friend](https://open.spotify.com/album/2dmWFCfxp4ZPXWO6548Mmv) | 2:33 | 2026-03-13 | 2026-04-10 |
 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 | 2024-06-27 | 2024-07-12 |

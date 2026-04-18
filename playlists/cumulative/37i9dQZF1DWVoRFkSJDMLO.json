@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "The latest in world music. From the continent, to the islands with Adekunle Gold.",
+  "description": "The latest in world music. From the continent, to the islands with Tyla & Zara Larsson.",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -9080,7 +9080,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 257921,
       "name": "Encore",
       "url": "https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY"
@@ -11112,7 +11112,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 132244,
       "name": "GANGSTA",
       "url": "https://open.spotify.com/track/0xbK2OxyqU9dx2UJYz4HpN"
@@ -11747,6 +11747,32 @@
     },
     {
       "album": {
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/4L5VT0M3x3erBVmtaFVqDF"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Massive B",
+          "url": "https://open.spotify.com/artist/36fJ2Mx3ktclhSlBbsUbFY"
+        },
+        {
+          "name": "Bobby Konders",
+          "url": "https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196418,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/69xsImgaWVgZ4fiCo1rkBf"
+    },
+    {
+      "album": {
         "name": "Good Jollof (with Lil Berete)",
         "url": "https://open.spotify.com/album/6uVtkpk8iAZfaLVGMUyQAS"
       },
@@ -12218,7 +12244,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 170400,
       "name": "Gunshot",
       "url": "https://open.spotify.com/track/4mD1XPHleoO8bG3rJk0Zjt"
@@ -13186,7 +13212,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 195453,
       "name": "Hit With Music",
       "url": "https://open.spotify.com/track/1BypV2vDJ5nudihKMdN5QS"
@@ -20641,6 +20667,28 @@
     },
     {
       "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117389,
+      "name": "No. 1 Fan",
+      "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
+    },
+    {
+      "album": {
         "name": "Nobody Move",
         "url": "https://open.spotify.com/album/1kG5dBKvNpcInFOFth4MO5"
       },
@@ -26389,6 +26437,28 @@
     },
     {
       "album": {
+        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213241,
+      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
+    },
+    {
+      "album": {
         "name": "Rolling Stone",
         "url": "https://open.spotify.com/album/2NCjWghja3xm14FIxa5mfv"
       },
@@ -26404,6 +26474,24 @@
       "duration_ms": 224073,
       "name": "She Don't Care Bout My Name",
       "url": "https://open.spotify.com/track/0nxGbmcQ4XFQtm6wOjlSd3"
+    },
+    {
+      "album": {
+        "name": "Pool Party 2.0",
+        "url": "https://open.spotify.com/album/44UWR1XbVmXmyQsyvt9s22"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208554,
+      "name": "She Jus Wah Wine",
+      "url": "https://open.spotify.com/track/1BhfNm0ZkwXPf9vnany5U8"
     },
     {
       "album": {

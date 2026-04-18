@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu
 
-3,407 songs - 6 day 14 hr 40 min
+3,408 songs - 6 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,6 +774,7 @@
 | [Dreamin](https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dreamin](https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd) | 2:27 | 2024-11-18 | 2026-01-16 |
 | [Dreh den auf](https://open.spotify.com/track/6AJxMwlPrmTOpSpYL2XJko) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:40 | 2025-06-12 | 2025-08-29 |
 | [Dreh dich](https://open.spotify.com/track/0BDBqFamXRIPzQpiyS6Ooa) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [DAY 21](https://open.spotify.com/artist/2a2flGskk8PMFs0vYikoPo), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Dreh dich](https://open.spotify.com/album/3vW7g6aDk27P1T0WiRnLXT) | 2:30 | 2024-06-27 | 2024-08-27 |
+| [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-16 |  |
 | [Drop It Down](https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Drop It Down](https://open.spotify.com/album/6B8cJuwQEZFN0jmxs7X5EF) | 2:12 | 2024-02-15 | 2024-03-15 |
 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-07-14 | 2022-07-22 |
 | [drunk, sex, love](https://open.spotify.com/track/5v9XLMlRsBOTqZjnhfEqnJ) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [drunk, sex, love](https://open.spotify.com/album/0s35PTfH9vLqjZtRt3CGIC) | 2:20 | 2024-05-30 | 2024-07-05 |
@@ -1104,7 +1105,7 @@
 | [GEISTERHAUS](https://open.spotify.com/track/60ptV8amItfuvUowMXPxbz) | [lityway](https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA), [yungfijay](https://open.spotify.com/artist/1BSxPCMKlpMH2NbPp3IAdm) | [GEISTERHAUS](https://open.spotify.com/album/1flKry5wnO7qDpHPvEkEcm) | 2:37 | 2024-02-08 | 2024-03-05 |
 | [geklaut](https://open.spotify.com/track/2bn6CPbM335ggmT67msIUy) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [geklaut](https://open.spotify.com/album/4n4rc4QpTeUDrgO38soAph) | 2:36 | 2025-11-27 | 2026-01-16 |
 | [Gekreuzte Finger](https://open.spotify.com/track/3qLNG3UvIe2G3DQ0XGMeEY) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Insomnia](https://open.spotify.com/album/0SZdIldsAOSd4VxNMQ90S6) | 2:50 | 2023-03-16 | 2023-07-07 |
-| [GELD](https://open.spotify.com/track/0hpiVWAZbVxE0R92i7kucF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [GELD](https://open.spotify.com/album/7yonE5FXF3MeeXL8IMP6zQ) | 1:45 | 2026-04-16 |  |
+| [Geld](https://open.spotify.com/track/0hpiVWAZbVxE0R92i7kucF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Geld](https://open.spotify.com/album/7yonE5FXF3MeeXL8IMP6zQ) | 1:45 | 2026-04-16 |  |
 | [Geld](https://open.spotify.com/track/3JdTladkqJtMRnY1pjYZKV) | [Tua](https://open.spotify.com/artist/1GXnXJCevXK2b7qDAwdU5u), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [Geld](https://open.spotify.com/album/5ZXoq4rxBzRlfiQou6nmGr) | 2:29 | 2024-03-14 | 2024-04-12 |
 | [Geld](https://open.spotify.com/track/0IW1q8WdeZCxlL9SH0xrAz) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Geld](https://open.spotify.com/album/1mAReuQiTur46WBDG4e5s0) | 3:02 | 2025-05-15 | 2025-06-20 |
 | [Geld spielt keine Rolex](https://open.spotify.com/track/5M9hgyDRcMzotYHEXvqhtC) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [ROLEXESH](https://open.spotify.com/album/3whvTAIClofWdLa8PviZjc) | 3:56 | 2022-12-22 | 2023-01-06 |

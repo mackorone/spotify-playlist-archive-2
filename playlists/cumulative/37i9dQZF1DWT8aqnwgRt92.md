@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,586 songs - 6 day 15 hr 41 min
+2,587 songs - 6 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1712,6 +1712,7 @@
 | [カオスが極まる](https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [カオスが極まる](https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI) | 3:50 | 2022-10-18 | 2023-01-13 |
 | [カタオモイ \- from CrosSing](https://open.spotify.com/track/0479VLYXQef7QpQsbOffH9) | [長谷川育美](https://open.spotify.com/artist/1Lx0quf8SwnTM2Ucr9fEA6) | [カタオモイ \- from CrosSing](https://open.spotify.com/album/3xOhRNZiKMRuZZjyBACawZ) | 3:25 | 2023-10-31 | 2023-11-02 |
 | [カナタボシ](https://open.spotify.com/track/26QB6xIyqbtwq7FxR8dTJc) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [カナタボシ](https://open.spotify.com/album/4I8kcRXQO2pIYWmoSYDLiW) | 4:48 | 2024-04-18 | 2024-05-15 |
+| [カミノシズク](https://open.spotify.com/track/1wHhROPKNGCaeHQfCOCFJ6) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [カミノシズク](https://open.spotify.com/album/2EZ4c3wcz5E1w7e6X1n8eo) | 4:28 | 2026-04-16 |  |
 | [カメリア](https://open.spotify.com/track/0MjKxaOvhWkdSGq6q54YOO) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [カメリア](https://open.spotify.com/album/1LRosPPyCwodwdO8oSwWt1) | 4:11 | 2026-01-15 | 2026-01-30 |
 | [カラフル×ジョイフル](https://open.spotify.com/track/1HzV8DmJy8E66O5bCJUjpQ) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [ふわふわpartyつられてhappy](https://open.spotify.com/album/4zYaoPWnZ4UbOj6XweJI2d) | 3:02 | 2024-02-06 | 2024-02-08 |
 | [カラフルエンドエピローグ](https://open.spotify.com/track/6dEHgSbxLvgv6M7AKJldy4) | [日南葵\(CV:金元寿子\)](https://open.spotify.com/artist/3dRNtAFVXz4R8ktXX6PBqb), [七海みなみ\(CV:長谷川育美\)](https://open.spotify.com/artist/6c5RcHQCNxrXwbvgRNwyL7), [菊池風香\(CV:茅野愛衣\)](https://open.spotify.com/artist/7vuFzlerWfjt2oMZuloThF), [夏林花火\(CV:前川涼子\)](https://open.spotify.com/artist/5bdOjTlKATbUfCPzvc6F59), [泉優鈴\(CV:稗田寧々\)](https://open.spotify.com/artist/5SnGgtuQOezuYGuyKm8oKd) | [カラフルエンドエピローグ](https://open.spotify.com/album/6RRhHpQlo5httXeASMdNW6) | 4:23 | 2023-01-17 | 2023-01-19 |

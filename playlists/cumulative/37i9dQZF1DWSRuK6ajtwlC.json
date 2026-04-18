@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7 Los Reales del Rio en portada \ud83d\udcf8",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7 Los Pescadores del R\u00edo Conchos en portada \ud83d\udcf8",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -2670,7 +2670,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 212440,
       "name": "Gracias Por Existir",
       "url": "https://open.spotify.com/track/3VrdZNlOBJKUQDdh7nzhRl"
@@ -2826,6 +2826,24 @@
       "duration_ms": 467838,
       "name": "Homenaje a Los Tigres del Norte",
       "url": "https://open.spotify.com/track/4iTf8F29Zhw80ZlG9CmURJ"
+    },
+    {
+      "album": {
+        "name": "Houston",
+        "url": "https://open.spotify.com/album/1tzl3DnU67EpLgi8bR57u2"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185120,
+      "name": "Houston",
+      "url": "https://open.spotify.com/track/4S57fDL71xvyp7Yafqmi1i"
     },
     {
       "album": {
@@ -3758,7 +3776,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 181152,
       "name": "LOS M&M'S",
       "url": "https://open.spotify.com/track/4wvOCRIHcDjgeBnbmwrUsX"
@@ -6286,7 +6304,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 232000,
       "name": "Te Quedaste",
       "url": "https://open.spotify.com/track/2WpA4hKQoBj3ayaS0zXTwW"
@@ -6709,6 +6727,28 @@
     },
     {
       "album": {
+        "name": "Ven, Te Invito",
+        "url": "https://open.spotify.com/album/2dmDp8t0GZ56UMG5hlbsM1"
+      },
+      "artists": [
+        {
+          "name": "El Conjunto F\u00e9nix",
+          "url": "https://open.spotify.com/artist/60uOV99FbQydjSts3NJ012"
+        },
+        {
+          "name": "emiliano leal",
+          "url": "https://open.spotify.com/artist/7a7jFqAQfK8rqgkTaglahi"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173933,
+      "name": "Ven, Te Invito",
+      "url": "https://open.spotify.com/track/56uPZjcQ3GzKP9ZnpO5n47"
+    },
+    {
+      "album": {
         "name": "Elemental",
         "url": "https://open.spotify.com/album/69nxk5h7x7fGoj3eOSsUOt"
       },
@@ -6974,6 +7014,24 @@
       "duration_ms": 194981,
       "name": "Y T\u00fa a Toda Madre",
       "url": "https://open.spotify.com/track/7bEfzjPeeY6sYFr2P4oOzz"
+    },
+    {
+      "album": {
+        "name": "Ya Acab\u00f3",
+        "url": "https://open.spotify.com/album/42qVoEgNeLCWJW2PUhwoOD"
+      },
+      "artists": [
+        {
+          "name": "La Promeza Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/6bWMO75sSZc7kx8pBBLMwb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192170,
+      "name": "Ya Acab\u00f3",
+      "url": "https://open.spotify.com/track/07O9tKJuQxx8w5Sqowc9dM"
     },
     {
       "album": {

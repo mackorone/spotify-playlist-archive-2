@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Paul Monserrate
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,580 likes - 99 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,589 likes - 99 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 39 | [running](https://open.spotify.com/track/1p5s4boHXQfVjUQE3RlbCZ) | [Medium Rare](https://open.spotify.com/artist/0PktfqXJ4GCo3dHJdTPlDA), [leafo](https://open.spotify.com/artist/6bNgGM07qTUVBDrKgfJROr) | [running](https://open.spotify.com/album/66mSE8IwQ37MKvPYVXcStB) | 2:28 |
 | 40 | [Basta Para Sa 'Yo](https://open.spotify.com/track/1IyvRakHQmtaHy5DiKqJ1W) | [Amytis](https://open.spotify.com/artist/3sX2q49l0fDgcHqgaBUVJc) | [Basta Para Sa 'Yo](https://open.spotify.com/album/5IRftuMyY0Dl8OO2VMlfYR) | 4:56 |
 | 41 | [Andito Lang Ako](https://open.spotify.com/track/6y45a49jj1sdLDTYGCfrB2) | [Greenman Six](https://open.spotify.com/artist/7MSUp5FnSFxKnpJkytTuIr) | [Greenman Six](https://open.spotify.com/album/3UwuhMXWYVnZCgaaCrwM66) | 3:59 |
-| 42 | [Seen Mode Pero Kinikilig](https://open.spotify.com/track/49pbI057JhUKe3eJheUObk) | [KITTRIX](https://open.spotify.com/artist/2FRZOh4SI42Oy3OmlRJOx1) | [Seen Mode Pero Kinikilig](https://open.spotify.com/album/2gKjrQfwHePKM1ngcEWc4T) | 2:51 |
+| 42 | [Seen Mode Pero Kinikilig](https://open.spotify.com/track/49pbI057JhUKe3eJheUObk) | [KITTRIX](https://open.spotify.com/artist/2FRZOh4SI42Oy3OmlRJOx1) | [Seen Mode Pero Kinikilig](https://open.spotify.com/album/2gKjrQfwHePKM1ngcEWc4T) | 3:21 |
 | 43 | [Fade Away](https://open.spotify.com/track/7zR01zKNA801TLlWcjpcpj) | [MELON$hakee](https://open.spotify.com/artist/2iPZ4l4x3oOJ8KyyYGMhOQ) | [Fade Away](https://open.spotify.com/album/2k7iAwJBc4IqqrHTmiZcs4) | 3:22 |
 | 44 | [SUKO](https://open.spotify.com/track/5Y9qJZOOfoEdb4iGdP7M4X) | [el gardo!](https://open.spotify.com/artist/7iTfF2ZMlj8kXQqbVgLQcd), [AJ Dee](https://open.spotify.com/artist/2HSKgBAtcogCd9E2dX9CTx) | [SUKO](https://open.spotify.com/album/4juUzIw7kfp6wMwRYmIvZY) | 4:09 |
 | 45 | [WETDREAMZ](https://open.spotify.com/track/37RZ7C2MaYYKRHbEGTBpWq) | [Trap Q](https://open.spotify.com/artist/1wVL9AFdcdszRUTAd8xAzY) | [WETDREAMZ](https://open.spotify.com/album/6GQcbFJd7907st4XvZYCa8) | 3:09 |

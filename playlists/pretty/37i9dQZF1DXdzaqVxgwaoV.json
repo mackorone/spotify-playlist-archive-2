@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica tropical, cumbia, guasca y de carrilera para recordar y disfrutar!",
-  "num_followers": 145307,
+  "num_followers": 145305,
   "original_name": "Viejoteca",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "La Sonora Matancera y sus voces de oro, Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "El negrito del Batey - Remastered",
-      "url": "https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Clasicas de la Cancion Popular, Vol. 5",
         "url": "https://open.spotify.com/album/3kv4gOvF572KH6yBm2B2zq"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 180733,
       "name": "Todo Es Amor",
       "url": "https://open.spotify.com/track/2c032My2b1gSCVUMSgkXjA"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "La Sonora Matancera y sus voces de oro, Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "El negrito del Batey - Remastered",
+      "url": "https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH"
     },
     {
       "added_at": "2026-02-23 16:04:48",

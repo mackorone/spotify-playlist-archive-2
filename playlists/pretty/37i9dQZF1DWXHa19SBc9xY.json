@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 126124,
+  "num_followers": 126162,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-02-13 15:12:17",
       "album": {
+        "name": "Estrelas",
+        "url": "https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Luiz",
+          "url": "https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2"
+        }
+      ],
+      "duration_ms": 213617,
+      "name": "Estrelas",
+      "url": "https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB"
+    },
+    {
+      "added_at": "2026-02-13 15:12:17",
+      "album": {
         "name": "SOY DEL MUNDO",
         "url": "https://open.spotify.com/album/1VTAl9vBwufjE3TUxrsusc"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 198085,
       "name": "SOY DEL MUNDO",
       "url": "https://open.spotify.com/track/2ZZ3O1ah5j6q4UdairuHcc"
-    },
-    {
-      "added_at": "2026-02-13 15:12:17",
-      "album": {
-        "name": "Estrelas",
-        "url": "https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Luiz",
-          "url": "https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2"
-        }
-      ],
-      "duration_ms": 213617,
-      "name": "Estrelas",
-      "url": "https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB"
     },
     {
       "added_at": "2026-02-13 15:12:17",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-02-13 15:12:17",
       "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
+        "name": "Caf\u00e9 Da MaLu",
+        "url": "https://open.spotify.com/album/67YGP2kKjYUIX5o7L4nty3"
       },
       "artists": [
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "MaLu",
+          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
         }
       ],
-      "duration_ms": 271293,
-      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
+      "duration_ms": 187826,
+      "name": "Farol Das Estrelas",
+      "url": "https://open.spotify.com/track/4PN2Yi1mnWn2S29mfW97uA"
     },
     {
       "added_at": "2026-02-13 15:12:17",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2026-02-13 15:12:17",
       "album": {
-        "name": "Caf\u00e9 Da MaLu",
-        "url": "https://open.spotify.com/album/67YGP2kKjYUIX5o7L4nty3"
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
       },
       "artists": [
         {
-          "name": "MaLu",
-          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 187826,
-      "name": "Farol Das Estrelas",
-      "url": "https://open.spotify.com/track/4PN2Yi1mnWn2S29mfW97uA"
+      "duration_ms": 271293,
+      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
     },
     {
       "added_at": "2026-02-13 15:12:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: David Carreira
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,601 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,644 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 9 | [Dona De Si](https://open.spotify.com/track/4YNKRfYZfnviDQ6ICmL1Ra) | [Os Alentons](https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2) | [Dona De Si](https://open.spotify.com/album/7dfgDaCjkhPs49Yaj3xmCZ) | 2:47 |
 | 10 | [Amor Antigo](https://open.spotify.com/track/0A7EhW7szUKXijk50SQ489) | [Os Alentons](https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2) | [Amor Antigo](https://open.spotify.com/album/3Wp15P2TDQhsgFAFxlRO9C) | 3:12 |
 | 11 | [A Minha Gente](https://open.spotify.com/track/5fN2X1bs5Ux9RsoRBgQdpY) | [Mimicat](https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6) | [A Minha Gente](https://open.spotify.com/album/6yBhBpKdAkvseC0FwlJsgh) | 3:18 |
-| 12 | [ALGO MAIS QUE FLOR FEIA](https://open.spotify.com/track/4HFBl4zxIUX37uDLxPuZrz) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [ALGO MAIS QUE FLOR FEIA](https://open.spotify.com/album/6XaP26MjMpBYBTvi2LF3h1) | 4:24 |
+| 12 | [ALGO MAIS QUE FLOR FEIA](https://open.spotify.com/track/4HFBl4zxIUX37uDLxPuZrz) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [ALGO MAIS QUE FLOR FEIA](https://open.spotify.com/album/6XaP26MjMpBYBTvi2LF3h1) | 4:24 |
 | 13 | [Na Próxima Vida](https://open.spotify.com/track/6w1HPBt5ZEBtbvKB9wb03s) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj), [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Na Próxima Vida](https://open.spotify.com/album/6PMHfeeZTWOpDmAJNEKGbE) | 2:49 |
 | 14 | [Saloia](https://open.spotify.com/track/6n0jihDYFApFTZIICTHxvO) | [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt) | [Saloia](https://open.spotify.com/album/7ru2TCUhoSoHXukQIWxAHL) | 3:31 |
 | 15 | [Tu e Eu \(com Bandidos do Cante\)](https://open.spotify.com/track/2qKvjnvUzkRnN6KMI24ror) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [D≡Z](https://open.spotify.com/album/0LMnsJ0zRyzy1uGRBj7bne) | 3:23 |

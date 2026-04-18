@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "a million",
+        "url": "https://open.spotify.com/album/0XXVIcn7nvspjZYcqSJUl9"
+      },
+      "artists": [
+        {
+          "name": "harper",
+          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152786,
+      "name": "a million",
+      "url": "https://open.spotify.com/track/1JCon4olkEHqtle2sz5xwS"
+    },
+    {
+      "album": {
         "name": "Adore U",
         "url": "https://open.spotify.com/album/6TuqYkU9a9UNy7YxwATWDg"
       },
@@ -4518,7 +4536,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 239333,
       "name": "Madwoman",
       "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
@@ -4630,6 +4648,28 @@
       "duration_ms": 153687,
       "name": "Memories",
       "url": "https://open.spotify.com/track/6SrYWzq2Fn0ReOmhE3lqh4"
+    },
+    {
+      "album": {
+        "name": "Mercy on the Skyline",
+        "url": "https://open.spotify.com/album/3UQcepdvrX3mnYHcCbQML2"
+      },
+      "artists": [
+        {
+          "name": "Noah Derksen",
+          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
+        },
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282341,
+      "name": "Mercy on the Skyline",
+      "url": "https://open.spotify.com/track/7MZlYIv52fVAEN9voOhCKV"
     },
     {
       "album": {
@@ -5124,7 +5164,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 192600,
       "name": "Oh, Ana",
       "url": "https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32"
@@ -5344,7 +5384,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 148995,
       "name": "ordinary love song",
       "url": "https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj"
@@ -6420,7 +6460,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 196536,
       "name": "sunstroke",
       "url": "https://open.spotify.com/track/1aq9yIytMTVt8gwv55xksP"
@@ -7012,7 +7052,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 167555,
       "name": "Til I'm Gone",
       "url": "https://open.spotify.com/track/2rLLk9R67ftbAhF1yRbSZi"

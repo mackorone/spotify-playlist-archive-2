@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹 cover: Baltimora
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,840 likes - 123 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,866 likes - 123 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 3 | [Lasciarti Andare](https://open.spotify.com/track/36napsLD6l9Mpq6YeIBG1H) | [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE), [Keynoise](https://open.spotify.com/artist/6gXD6pjT4eFa8sdYOISCXL) | [Lasciarti Andare](https://open.spotify.com/album/1CUfJufja9MaijzjsixlWR) | 2:01 |
 | 4 | [Amore Mio](https://open.spotify.com/track/7BeDxg0gxPargyAeyXiyfr) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Amore Mio](https://open.spotify.com/album/16paxUbOzbSJPs21qcIDp7) | 2:50 |
 | 5 | [MISERICORDIA \(feat\. Nitro\)](https://open.spotify.com/track/0Wn0S5adsWuSO4brF2DIiN) | [rob](https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [MISERICORDIA \(feat\. Nitro\)](https://open.spotify.com/album/2olWfnXMRukb4wh4ogM8sH) | 2:20 |
-| 6 | [Track 2](https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [BITTE LEBEN](https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy) | 0:00 |
+| 6 | [5 di mattina](https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [BITTE LEBEN](https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy) | 3:01 |
 | 7 | [180](https://open.spotify.com/track/6LsVEZKnK0SUtZ0ioPuiAW) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [180](https://open.spotify.com/album/56Bpv6a10lvaclcGQwehO9) | 2:31 |
 | 8 | [pago io](https://open.spotify.com/track/0sHEloFRP7KyYuwS17GNNC) | [Nathan Trent](https://open.spotify.com/artist/6U4uEoS3ISgppqupG6GJoZ) | [pago io](https://open.spotify.com/album/6SwJjZIi2CkOgqhev9TqO7) | 3:07 |
 | 9 | [Mwasi Chou](https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Mwasi Chou](https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ) | 2:35 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 20 | [SAPORE](https://open.spotify.com/track/1scWWCal3Xb3pHUoA8WzYH) | [Florence](https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6) | [SAPORE](https://open.spotify.com/album/6B1DIBVkXY3jWYK8wT9FS9) | 2:30 |
 | 21 | [Romanzo Criminale](https://open.spotify.com/track/0vSpcsHo6wFbJIKzDUS2j3) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Romanzo Criminale](https://open.spotify.com/album/1LuTAIP3Jxgvkypn6WKLHD) | 2:56 |
 | 22 | [✵𖦹 luce bambina 𖦹✵](https://open.spotify.com/track/0OsrsjyPrLcDWB6Ocv2m34) | [Najma](https://open.spotify.com/artist/0XqMXRWagj3oufGzaSBCqk) | [✵𖦹 luce bambina 𖦹✵](https://open.spotify.com/album/2MfoEt7C4YvydCkqxByfIG) | 3:10 |
-| 23 | [CENTOMILA](https://open.spotify.com/track/2K5LuNBoNkIO9A5yx8Owyl) | [Gabriel Tonelli](https://open.spotify.com/artist/1SHwQTs9UzjrQPwnLHx46U) | [CENTOMILA](https://open.spotify.com/album/5SzP7MjXslryCmHKvxqVtk) | 4:01 |
+| 23 | [CENTOMILA](https://open.spotify.com/track/2K5LuNBoNkIO9A5yx8Owyl) | [GABRIEL TONELLI](https://open.spotify.com/artist/3gzEVxb4jUC0579HQ08Opx) | [CENTOMILA](https://open.spotify.com/album/5SzP7MjXslryCmHKvxqVtk) | 4:01 |
 | 24 | [Dove Andare](https://open.spotify.com/track/2Poalx3D18sXaufZLom7AT) | [BALTIMORA](https://open.spotify.com/artist/0rRRvEq07vdUc9QgaK46Fl) | [Dove Andare](https://open.spotify.com/album/0yReDDNaEERMPT85xSTdke) | 2:51 |
 | 25 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 |
 | 26 | [Poesie Clandestine](https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Poesie Clandestine](https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm) | 3:03 |

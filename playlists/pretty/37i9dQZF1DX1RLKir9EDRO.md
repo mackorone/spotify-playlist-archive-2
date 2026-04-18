@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Venüs Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,039 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,043 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 49 | [Söyleme](https://open.spotify.com/track/4hgaW7EMsJ3dTnOEdmx2Wu) | [Doruk Özel](https://open.spotify.com/artist/5G43X0gSWXHb8nXQLZgole) | [Düşlerle Düşenler](https://open.spotify.com/album/17TMcuMdWK9Zq48KTAfDCk) | 2:37 |
 | 50 | [Silerim](https://open.spotify.com/track/6qeRbnF1RvIaINr3w8UkR9) | [Burçin](https://open.spotify.com/artist/6Bk7Joe8ewwUVbJUFfye2l) | [Silerim](https://open.spotify.com/album/1msT1NEMf2FQVuVbCqhT55) | 2:55 |
 
-Snapshot ID: `AAAAABER7CLDth+0B1kxy7dsnkdBWhja`
+Snapshot ID: `AAAAALAoCveUkLJ3Fsg1bHtZcP4GrG+X`

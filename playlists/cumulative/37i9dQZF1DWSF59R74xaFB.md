@@ -4,7 +4,7 @@
 
 > El amor no se escucha, se siente..\.  💖 nic & Leo Rizzi en portada.
 
-617 songs - 1 day 11 hr 59 min
+618 songs - 1 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [OTRAS MUJERES](https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OTRAS MUJERES](https://open.spotify.com/album/7kjsiTEu2hzDx0ioEPhWkF) | 3:00 | 2023-01-03 | 2023-01-29 |
 | [Oye](https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Oye](https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O) | 2:53 | 2021-10-21 | 2023-01-04 |
 | [Oye](https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:53 | 2021-10-21 | 2024-04-19 |
+| [p0rn0grafía](https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [p0rn0grafía](https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO) | 3:01 | 2026-04-17 |  |
 | [Pa Ti \(For You\)](https://open.spotify.com/track/5AL7osnKigcHhRpMlK20c8) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nm6u7mp61RmClng9Okg1t) | 3:50 | 2022-02-16 | 2022-04-18 |
 | [Palmeras en el jardín](https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Palmeras en el jardín](https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX) | 3:00 | 2024-10-25 | 2025-12-25 |
 | [Para El Tiempo](https://open.spotify.com/track/2ltvvftNngVjO6xhqVQd9M) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Para El Tiempo](https://open.spotify.com/album/4MLpfnee5aR9WCsOQbUyiL) | 3:17 | 2024-12-06 | 2024-12-14 |
@@ -559,7 +560,7 @@
 | [Todavía](https://open.spotify.com/track/6HOXOKhUxRvrGUM7aDeF0Q) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:59 | 2021-10-21 | 2022-07-13 |
 | [Todo Cambió](https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:13 | 2021-10-21 |  |
 | [Todo El Ruido Del Mundo](https://open.spotify.com/track/7D62XG1Ru12xybmPgXLCkY) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Todo El Ruido Del Mundo](https://open.spotify.com/album/75WjkSeTjtsQLzl0hBVIAy) | 3:13 | 2022-04-06 | 2022-05-19 |
-| [Todo Lo Que Está Mal](https://open.spotify.com/track/6nXyY9M6ZErHlaXh9HB5aU) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Todo Lo Que Está Mal](https://open.spotify.com/album/0T3lqtLeFuM6pJk6g8k4QI) | 2:34 | 2026-03-27 |  |
+| [Todo Lo Que Está Mal](https://open.spotify.com/track/6nXyY9M6ZErHlaXh9HB5aU) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Todo Lo Que Está Mal](https://open.spotify.com/album/0T3lqtLeFuM6pJk6g8k4QI) | 2:34 | 2026-03-27 | 2026-04-18 |
 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 | 2023-12-08 | 2024-02-10 |
 | [Tonto corazón](https://open.spotify.com/track/1BMwZkCA1xu4HNTFn7Poro) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk) | [Cielo](https://open.spotify.com/album/7hJOl1SSym2SZDqrbas3TP) | 4:16 | 2021-10-21 | 2022-04-18 |
 | [Trágico Mágico](https://open.spotify.com/track/5AYRp7aG0BJ3w7b01suBlT) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Trágico Mágico](https://open.spotify.com/album/6KNrS7axhizrYa31eeNNYt) | 3:38 | 2026-02-06 | 2026-02-28 |

@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Wellsaid
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Jade Sun
 
-1,653 songs - 3 day 21 hr 32 min
+1,654 songs - 3 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [all up in your mouth \(like a dentist\)](https://open.spotify.com/track/4RVEx2IcalKPzgcvtw5gTR) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [all up in your mouth \(like a dentist\)](https://open.spotify.com/album/6EaQJOAF2bfDqFSWm4mAT9) | 2:32 | 2025-10-29 |  |
 | [Alright](https://open.spotify.com/track/5bWrBCQfvSwL6bwsBYH4fm) | [Bruit](https://open.spotify.com/artist/4om4AJx0y9wMusLtRNsRPE) | [Alright](https://open.spotify.com/album/0AF9jPK5ATg27lFbQDMdvp) | 3:47 | 2023-02-16 | 2023-03-18 |
 | [alright](https://open.spotify.com/track/6s2TBrbs9bTC1faiyww2AN) | [raph](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND) | [alright](https://open.spotify.com/album/7evoZt4Hmido1pg2lCAVt4) | 2:12 | 2023-11-23 | 2024-02-02 |
+| [Alright!](https://open.spotify.com/track/0OmMUThuhDFGxVDbIf2ieL) | [Jade Sun](https://open.spotify.com/artist/3wOgiNce6emfZDZffDXaaD), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox) | [Alright!](https://open.spotify.com/album/0wuEZ45YeACbUdfyrvxjl3) | 2:23 | 2026-04-17 |  |
 | [Always](https://open.spotify.com/track/0fgpBpXnQ9NfJXMDEQhMJz) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [Always](https://open.spotify.com/album/3i2MzW3EvBowXVoVpQ2t1a) | 4:38 | 2025-05-01 | 2025-11-21 |
 | [Amidst the concrete](https://open.spotify.com/track/1kKO5dyVwCrvHUkrgTr8HG) | [Kiden](https://open.spotify.com/artist/3K6RzPx0eI1QD11un1Cm3U), [Loisey](https://open.spotify.com/artist/4mkRfl4lbz4A0O9jNlPnqN) | [Amidst the concrete](https://open.spotify.com/album/7sdeTiNHw3Zx3CeRF18fM9) | 2:57 | 2022-07-28 | 2022-09-09 |
 | [Among Us](https://open.spotify.com/track/3ocUbbOV84SoQ3SspSLvXn) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [Among Us](https://open.spotify.com/album/5jO1w6shmYBeaTLOmPZ39J) | 4:55 | 2024-06-20 | 2024-11-15 |

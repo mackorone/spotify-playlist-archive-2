@@ -269,6 +269,28 @@
     },
     {
       "album": {
+        "name": "BOUNCE OUT",
+        "url": "https://open.spotify.com/album/3WUm6IoL869ydp3m7VNW2D"
+      },
+      "artists": [
+        {
+          "name": "K, Le Maestro",
+          "url": "https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276226,
+      "name": "BOUNCE OUT",
+      "url": "https://open.spotify.com/track/1ur9eFiVzYvlT2w1Ufn9Bv"
+    },
+    {
+      "album": {
         "name": "Soul Jazz Records presents SPACE FUNK - Afro-Futurist Electro Funk in Space 1976-84",
         "url": "https://open.spotify.com/album/5ThrbrIXfa7CbL34g1FH0f"
       },
@@ -1752,6 +1774,24 @@
       "duration_ms": 295666,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/3oWXABQqIZ8ETgM7hxxxO5"
+    },
+    {
+      "album": {
+        "name": "Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5R9YEihXqBgCJQyxr2Edpl"
+      },
+      "artists": [
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226058,
+      "name": "Shadow Of Your Smile",
+      "url": "https://open.spotify.com/track/35KDCFm9Oil4kEXjNR2sfq"
     },
     {
       "album": {

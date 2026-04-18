@@ -4347,6 +4347,24 @@
     },
     {
       "album": {
+        "name": "Emefa's Revenge",
+        "url": "https://open.spotify.com/album/4wEEWn3n3LkmmqamkKpzlR"
+      },
+      "artists": [
+        {
+          "name": "M3NSA",
+          "url": "https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211636,
+      "name": "Emefa's Revenge",
+      "url": "https://open.spotify.com/track/1BixnXufFnYkbhpToboElg"
+    },
+    {
+      "album": {
         "name": "EMIKO",
         "url": "https://open.spotify.com/album/7t75CKqylx2aO3IjNW7Hl3"
       },
@@ -6486,6 +6504,24 @@
       "duration_ms": 197894,
       "name": "Hypertension",
       "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
+    },
+    {
+      "album": {
+        "name": "BEASTMODE VOL1",
+        "url": "https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "I DONT CARE",
+      "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
     },
     {
       "album": {
@@ -13430,7 +13466,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 166312,
       "name": "Sneaky",
       "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"
@@ -14994,24 +15030,6 @@
       "duration_ms": 166000,
       "name": "Toxic Relationship",
       "url": "https://open.spotify.com/track/4jcTly5eRO1DfGlQ4v9IJY"
-    },
-    {
-      "album": {
-        "name": "BEASTMODE VOL1",
-        "url": "https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        }
-      ],
-      "date_added": "2026-04-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
     },
     {
       "album": {

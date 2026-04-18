@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "As you lay yourself to sleep, or take some time to rest, may you have peace relaxing to these calming songs of faith.",
+  "description": "Let go and let God.",
   "name": "Be Still",
   "tracks": [
+    {
+      "album": {
+        "name": "'Tis So Sweet to Trust in Jesus",
+        "url": "https://open.spotify.com/album/7rl9IXPfsyEU1bzvD005mI"
+      },
+      "artists": [
+        {
+          "name": "Logan and Katie",
+          "url": "https://open.spotify.com/artist/29mBJluOiESLCXX9eFpkJs"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206470,
+      "name": "'Tis So Sweet to Trust in Jesus",
+      "url": "https://open.spotify.com/track/2LLF8eOLgBs4lgBxkEgH04"
+    },
     {
       "album": {
         "name": "Twenty Four",
@@ -444,7 +462,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 304347,
       "name": "Be Still and Know",
       "url": "https://open.spotify.com/track/4HYualIRbm2DhNTEvjMzKJ"
@@ -480,7 +498,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 199378,
       "name": "Be Still and Know His Name (Even the Wind and the Waves)",
       "url": "https://open.spotify.com/track/3VA7CpYINh4vDtaitU90az"
@@ -650,7 +668,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 299236,
       "name": "Between Garden and Glory",
       "url": "https://open.spotify.com/track/5SS74lv4c1dHRDv7J1Mj8g"
@@ -1093,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Day The Lord Has Made",
+        "url": "https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta"
+      },
+      "artists": [
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304800,
+      "name": "Day The Lord Has Made",
+      "url": "https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel"
+    },
+    {
+      "album": {
         "name": "Daydreamer",
         "url": "https://open.spotify.com/album/3xua7RUbU0UAB4UatyxDnX"
       },
@@ -1274,7 +1310,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 196221,
       "name": "Enough For Me",
       "url": "https://open.spotify.com/track/4mAjvXpzW7mVwakpDWgukZ"
@@ -1390,6 +1426,24 @@
       "duration_ms": 237684,
       "name": "Face to Face",
       "url": "https://open.spotify.com/track/09BRwLAwH6ebw0vuZPSv8q"
+    },
+    {
+      "album": {
+        "name": "Faithful (To The End)",
+        "url": "https://open.spotify.com/album/0C7WzdyLTAtRyJ7ZNS3Bqp"
+      },
+      "artists": [
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190133,
+      "name": "Faithful (To The End)",
+      "url": "https://open.spotify.com/track/6bp5xcAS8GhJA3ndU1L4xE"
     },
     {
       "album": {
@@ -1677,6 +1731,28 @@
     },
     {
       "album": {
+        "name": "Fountain",
+        "url": "https://open.spotify.com/album/2B6QsdIELQi96orvXXmWlU"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        },
+        {
+          "name": "Ernstly Etienne",
+          "url": "https://open.spotify.com/artist/2ilDS07rnwdAstfI0xLGKb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315237,
+      "name": "Fountain",
+      "url": "https://open.spotify.com/track/4huSBVtu0ZoZ0Wxl6usWUt"
+    },
+    {
+      "album": {
         "name": "Forever Communion",
         "url": "https://open.spotify.com/album/6lIDqfVKFvfH2DlutLroMc"
       },
@@ -1764,6 +1840,24 @@
       "duration_ms": 179817,
       "name": "God Has Done",
       "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
+    },
+    {
+      "album": {
+        "name": "God Is Love",
+        "url": "https://open.spotify.com/album/1qo1kILODkFrkg5oJTNGzL"
+      },
+      "artists": [
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308560,
+      "name": "God Is Love",
+      "url": "https://open.spotify.com/track/4q5xJZOlHLtlnrN8P3oAXJ"
     },
     {
       "album": {
@@ -2073,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "Soothing Instrumental Hymns",
+        "url": "https://open.spotify.com/album/76tb9nZvOKE0W2eoa1zpVT"
+      },
+      "artists": [
+        {
+          "name": "Instrumental Hymns and Worship",
+          "url": "https://open.spotify.com/artist/3B9hQX4TIHNCpHVHsp9XC8"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223496,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/59jQdslaLkSNLTI32Wq86V"
+    },
+    {
+      "album": {
         "name": "Grow",
         "url": "https://open.spotify.com/album/0ntzLoqaDLhrwAT900tf29"
       },
@@ -2190,7 +2302,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 315986,
       "name": "He Will Hold Me Fast",
       "url": "https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu"
@@ -2556,7 +2668,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 236693,
       "name": "Hymn Of The Saviour - Acoustic",
       "url": "https://open.spotify.com/track/0moPi4BLUGBU5zjkdc4Cxp"
@@ -2574,7 +2686,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 226063,
       "name": "I can always find You",
       "url": "https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg"
@@ -3096,7 +3208,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 180000,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/28wATUqL8fwV9pVxQfAaKo"
@@ -4553,6 +4665,28 @@
     },
     {
       "album": {
+        "name": "Reflections \u274d \u2769 \u2769\u2769 Mi\u25d7\u281d\u280a\u2823\u2813\u271d\ufe0e\u210b\ud835\udc32\ud835\udd78n\u16cb ~ Vol.III",
+        "url": "https://open.spotify.com/album/7nDFGD0k4IRnLUKSsc8auA"
+      },
+      "artists": [
+        {
+          "name": "AMXNRADIO",
+          "url": "https://open.spotify.com/artist/4nrY1Pyzx6OyDgRWt69W1X"
+        },
+        {
+          "name": "Joel Houston",
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322703,
+      "name": "on my own \u2768 \u2768 \u274d \u2769 \u2769\u2769 i can\u2019t do this",
+      "url": "https://open.spotify.com/track/3UQC9h54bUt7qdPVZwoFug"
+    },
+    {
+      "album": {
         "name": "Conquering Eden",
         "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
       },
@@ -4590,6 +4724,24 @@
       "duration_ms": 382058,
       "name": "Only Yeshua | Every Tongue | Take Over",
       "url": "https://open.spotify.com/track/2ypOAFsA9G8yO38nH4ep81"
+    },
+    {
+      "album": {
+        "name": "Orange Streetlights (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3nD2x0NB49c0XY5EXC3tWW"
+      },
+      "artists": [
+        {
+          "name": "Tyler Corbin",
+          "url": "https://open.spotify.com/artist/0Gk9udEVydWQ94pRvk7sKV"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Orange Streetlights - Acoustic Version",
+      "url": "https://open.spotify.com/track/7ARJORinm3hArKdebAj4AT"
     },
     {
       "album": {
@@ -6102,7 +6254,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 236832,
       "name": "Steady My Heart",
       "url": "https://open.spotify.com/track/5RUgtcjWx3cTxHuSqlKUCl"
@@ -6216,7 +6368,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 559206,
       "name": "Surrendered",
       "url": "https://open.spotify.com/track/1devxqwwmQp9gPKQ5HdwnL"
@@ -6308,6 +6460,24 @@
       "duration_ms": 280413,
       "name": "Take This",
       "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
+    },
+    {
+      "album": {
+        "name": "taking my time",
+        "url": "https://open.spotify.com/album/7pO51aCa2ipEwMlCSxyIAl"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244109,
+      "name": "taking my time",
+      "url": "https://open.spotify.com/track/72e5glwqOjwtCoqQqnHzlu"
     },
     {
       "album": {
@@ -6518,7 +6688,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 176852,
       "name": "The Lord's Prayer",
       "url": "https://open.spotify.com/track/41DzL9erDrCxZtavGqxj3I"
@@ -6540,6 +6710,24 @@
       "duration_ms": 145173,
       "name": "The Mire is Where Grace Abounds",
       "url": "https://open.spotify.com/track/28teLHHWDvP7PtUORZH6Nq"
+    },
+    {
+      "album": {
+        "name": "The Old Rugged Cross (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6PPQduXeIf3ShWuJJGOg58"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188251,
+      "name": "The Old Rugged Cross - Spotify Singles",
+      "url": "https://open.spotify.com/track/7zvRdGXBx4ypKHzXwnmk58"
     },
     {
       "album": {
@@ -7494,6 +7682,28 @@
       "duration_ms": 194753,
       "name": "Yahweh Elyon",
       "url": "https://open.spotify.com/track/6ac4RGv1zUsmklvuMlzH50"
+    },
+    {
+      "album": {
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/1017fCJGdhko9FO0P4QSF9"
+      },
+      "artists": [
+        {
+          "name": "Gungor",
+          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+        },
+        {
+          "name": "Laura C",
+          "url": "https://open.spotify.com/artist/2QXiJH1K9OEDvejWMc0EYr"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 543479,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/2G1w0Bn8KNQtJe4sM3QNSn"
     },
     {
       "album": {

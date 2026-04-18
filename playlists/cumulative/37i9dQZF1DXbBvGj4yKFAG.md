@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-260 songs - 13 hr 37 min
+263 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Boyhood](https://open.spotify.com/track/490lRD7SCOhDbPcmcgQF9s) | [Birth Day](https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt) | [Boyhood](https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr) | 2:38 | 2023-06-13 | 2023-07-01 |
 | [Burns Effect](https://open.spotify.com/track/1UOmRFTqjNBLfKklHEw7CC) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [Burns Effect](https://open.spotify.com/album/25jtHTJhG1J5TGoqLjwqax) | 3:26 | 2023-04-11 | 2023-06-03 |
 | [Bury Me](https://open.spotify.com/track/1RQ95XIUXRUNAZgMqSa3La) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8) | [Small](https://open.spotify.com/album/0d9OmH7pZgv2FhGpJqZyvp) | 2:27 | 2023-04-11 | 2023-06-03 |
+| [buttons](https://open.spotify.com/track/0LFNBiDtOFKhSWWPUi0avw) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [buttons](https://open.spotify.com/album/5ievaFZh2WoAvzxDdwzc9l) | 3:24 | 2026-04-17 |  |
 | [can i come over?](https://open.spotify.com/track/24Byz4LBZbKcnOLsAu4E5i) | [porch kiss](https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT) | [can i come over?](https://open.spotify.com/album/4wtMHzT5SBHLWjY24r3Qxu) | 2:22 | 2026-02-20 |  |
 | [canine teeth](https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [canine teeth](https://open.spotify.com/album/1psPqa4HOi4BLqMP9yi1X9) | 1:20 | 2023-06-30 |  |
 | [carole king](https://open.spotify.com/track/4VdYhyqZCi3BbeFiGdzTo1) | [PISSKISS](https://open.spotify.com/artist/0SeXCXXWOD0Fld3oHvdyyL) | [carole king](https://open.spotify.com/album/4QcMtvtV3lNSXEpirqXjHa) | 3:51 | 2023-05-12 | 2026-03-14 |
@@ -51,6 +52,7 @@
 | [Cosmic Healing](https://open.spotify.com/track/0TeQkFUDSFbtmHjvAEkCoV) | [Cayo Coco](https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3) | [Cosmic Healing](https://open.spotify.com/album/3ahj4pz2dCaetSPtagcxcf) | 3:08 | 2023-04-14 | 2026-03-14 |
 | [Cosmic Healing](https://open.spotify.com/track/6Ns2VSFlxtdYcVwPeCbRv7) | [Cayo Coco](https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3) | [Cosmic Healing](https://open.spotify.com/album/1zx3P8caa5G0F0bKIsN7Gd) | 3:08 | 2023-04-14 | 2024-04-19 |
 | [could be nice](https://open.spotify.com/track/5OI0l7dymvGw4ZkHwSRrda) | [Starberry](https://open.spotify.com/artist/6Y1lsJKYVwK9cnr6D4mYJM) | [could be nice](https://open.spotify.com/album/0siG6xvuwDEkcw7mrla5ua) | 2:50 | 2023-04-11 |  |
+| [cry](https://open.spotify.com/track/4rVGzvyRwfAuQoTzb5vDND) | [Epsilonn](https://open.spotify.com/artist/31v54x5PqtTtfa29sQzNXr) | [ambrosia](https://open.spotify.com/album/39ns8ZLNsG2wXOt22dyU4h) | 2:48 | 2026-04-17 |  |
 | [Crybaby](https://open.spotify.com/track/0zFkRHg8VLdN1nEwEvafZP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 4:01 | 2023-06-13 |  |
 | [CryWitMe.mp3](https://open.spotify.com/track/3lhbGhwy97nY2pSZkpwuZn) | [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6) | [CryWitMe.mp3](https://open.spotify.com/album/2V2cmfoMXI7XuFVAt3l7A6) | 1:30 | 2023-04-11 | 2023-07-15 |
 | [cupid](https://open.spotify.com/track/4RrEGof2unXEhwVYLaVxUi) | [bunii](https://open.spotify.com/artist/6mx3Y8XNLPaS2pjJbQFq3W) | [8:30 is too early](https://open.spotify.com/album/7l89dP0Z0Q3GykEbcLwCXW) | 1:13 | 2025-11-20 |  |
@@ -106,12 +108,13 @@
 | [i saw the light in you](https://open.spotify.com/track/6TlW6jA0vV2PgDVesXqdrd) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r) | [i saw the light in you](https://open.spotify.com/album/49guzay3mMBMJt9fZSks2p) | 2:41 | 2025-07-11 |  |
 | [i still think about you](https://open.spotify.com/track/1gn36xiTbvh5ZdLQblagfP) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r) | [i still think about you](https://open.spotify.com/album/4hZmFxYP6Av5sAHrSuEwF3) | 2:45 | 2024-01-29 |  |
 | [i tore out my heart](https://open.spotify.com/track/4ZqKMjhcHl3XrfRBMjd0hP) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r) | [Lucky](https://open.spotify.com/album/1ly4D2mzZoTsac7VfjpBxe) | 2:23 | 2025-01-28 |  |
+| [i walked all the way home](https://open.spotify.com/track/69DDbvhTpFwXRFaE2vdLYJ) | [Charlie Cello](https://open.spotify.com/artist/1dXr00ZTDAbZXIyfrD82SH) | [i walked all the way home](https://open.spotify.com/album/6V9Y5WuqQ154oaroAXrC4w) | 4:48 | 2026-04-17 |  |
 | [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:41 | 2023-04-11 | 2024-04-19 |
 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2023-02-09 |  |
 | [I'll Be Damned](https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [High School Football](https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn) | 3:38 | 2023-04-14 | 2023-07-15 |
 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 | 2023-06-30 |  |
 | [i'm going to fail my class](https://open.spotify.com/track/04i5DIpsM09MdeNa4mwz8Q) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/0Ybc1xl1Bw2Eip0meV4Ur7) | 1:03 | 2023-06-13 | 2024-04-19 |
-| [i'm going to fail my class](https://open.spotify.com/track/5omKvSB7yvJZxHthOzhqRP) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn) | 1:03 | 2023-06-13 |  |
+| [i'm going to fail my class](https://open.spotify.com/track/5omKvSB7yvJZxHthOzhqRP) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn) | 1:03 | 2023-06-13 | 2026-04-18 |
 | [I'm Tired](https://open.spotify.com/track/2XmAnZjJtlSDtxPKDx6ET4) | [My Final Sanctuary](https://open.spotify.com/artist/2uIUI2Atle9OTOvwb3UfYO) | [I'm Tired](https://open.spotify.com/album/7oB65bc5kSOn3blOn7Od3n) | 3:14 | 2024-08-16 |  |
 | [I'm Your Man](https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:29 | 2024-05-17 |  |
 | [Idea June](https://open.spotify.com/track/6Jfj1S7EgM22jkHOGigzrm) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Idea June](https://open.spotify.com/album/17pHBGN0qKzdwOqmHXCBCC) | 1:30 | 2024-04-16 |  |
@@ -189,7 +192,7 @@
 | [rest](https://open.spotify.com/track/4wyaumfJq6SNuV5wUJw2p4) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [rainbow music](https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J) | 2:26 | 2023-04-11 | 2026-03-14 |
 | [Revolution 0](https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:17 | 2023-03-31 | 2026-03-14 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-02-09 | 2023-04-12 |
-| [run it back](https://open.spotify.com/track/5Wcc3fBgp1vjBmbxhHEXCR) | [Dino Gala](https://open.spotify.com/artist/3ILm3k5SKzJCaaTJ4yEw0y) | [Run it Back / Fire Escape](https://open.spotify.com/album/5oan6nmdsscfxfmk7nmhr8) | 4:18 | 2023-02-09 |  |
+| [run it back](https://open.spotify.com/track/5Wcc3fBgp1vjBmbxhHEXCR) | [Dino Gala](https://open.spotify.com/artist/3ILm3k5SKzJCaaTJ4yEw0y) | [Run it Back / Fire Escape](https://open.spotify.com/album/5oan6nmdsscfxfmk7nmhr8) | 4:18 | 2023-02-09 | 2026-04-18 |
 | [save me](https://open.spotify.com/track/26AT9euQyfEWQa9vrFHHtD) | [how r u](https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv) | [save me](https://open.spotify.com/album/40FASGrF2C3zUSRBVU3rUz) | 2:00 | 2025-04-11 |  |
 | [Scaredy's World](https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [Scaredy's World](https://open.spotify.com/album/1IsvZYiU5FCpg4fDecerIX) | 2:31 | 2023-03-03 | 2023-07-22 |
 | [scrape my teeth](https://open.spotify.com/track/0VRXkVcObOF6LbaP1vGBe5) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [scrape my teeth](https://open.spotify.com/album/5g15UUA6l4Va6HmcCAeSwv) | 2:34 | 2023-08-18 |  |

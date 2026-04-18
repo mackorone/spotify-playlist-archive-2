@@ -4,7 +4,7 @@
 
 > SCAR in cover + tutto il meglio delle novità indie 🍇
 
-1,646 songs - 3 day 13 hr 41 min
+1,646 songs - 3 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [2C\-B](https://open.spotify.com/track/4CLW2pvNbjwe8IK9P5XLoa) | [Andreotti](https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ) | [2C\-B](https://open.spotify.com/album/1QsmR3UoaB7PFjGfYoMq6N) | 2:33 | 2025-09-04 | 2025-09-26 |
 | [3 angeli](https://open.spotify.com/track/0h7VuO6NlNyvvBvglMihkx) | [PELIGRO](https://open.spotify.com/artist/5frSoUKC7ordrJUgUzYU2I) | [3 angeli](https://open.spotify.com/album/48No63QXhlVc0KzI8OjswB) | 2:47 | 2025-11-06 | 2025-12-05 |
 | [4:03 P.M.](https://open.spotify.com/track/3I3Nx6KY2LqubB0rkeDJiW) | [Krano](https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw) | [4:03 P.M.](https://open.spotify.com/album/6OZlkAXbbWycw1eO7vr27i) | 3:07 | 2025-10-30 | 2025-11-21 |
+| [5 di mattina](https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [BITTE LEBEN](https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy) | 3:01 | 2026-04-16 |  |
 | [5 MINUTI](https://open.spotify.com/track/3PinaYSua0woq3KzvSdVOb) | [Giorgia Malerba](https://open.spotify.com/artist/7auyD4yQMaOCrzImi76RcG) | [5 MINUTI](https://open.spotify.com/album/0fU3tzoyTLdQKkpsRhg39i) | 3:09 | 2026-01-22 | 2026-02-13 |
 | [6.51 \(con Her Skin\)](https://open.spotify.com/track/30sxl3vrgTmYr1T8CPOY78) | [Broncø](https://open.spotify.com/artist/4axmvqJr2ytUnvbJxpKcst) | [6.51 \(con Her Skin\)](https://open.spotify.com/album/0AeESxCUs1FKDkQneIt5KF) | 3:50 | 2025-01-16 | 2025-03-08 |
 | [7 Minuti](https://open.spotify.com/track/1FochfaocUr0iY0OCc6H6h) | [Kuzu](https://open.spotify.com/artist/5uhwzozeBApn2zTs4FzDJW), [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0), [WISM](https://open.spotify.com/artist/3LXTbapp18J0PmQEPPeXmO) | [7 Minuti](https://open.spotify.com/album/1Lpj4R9Gfvr5XGJX3i0JKT) | 2:44 | 2025-12-04 | 2026-01-15 |
@@ -1492,7 +1493,6 @@
 | [TOXIC \(feat\. Luca Re\)](https://open.spotify.com/track/7gWzVDXpnnKbolQ456cx1p) | [TOMMY](https://open.spotify.com/artist/0aplXOFIjw16oLxCRuAvaW), [heysimo](https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A), [Kabvki](https://open.spotify.com/artist/4nS14korvlcnH1zXKgSwmw), [Sam Beats Baby](https://open.spotify.com/artist/1fphGmGC35v82kdBFDbmNf), [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [TOXIC \(feat\. Luca Re\)](https://open.spotify.com/album/0RfDy5qsyMm5EA4aejBpT6) | 2:53 | 2025-12-11 | 2026-01-23 |
 | [Tra il cielo e le strade](https://open.spotify.com/track/09K7Ac7StT4knd88GVzQoM) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Tra il cielo e le strade](https://open.spotify.com/album/1bDTbS6anSQaUC6SxCuEUX) | 3:43 | 2025-03-07 | 2025-05-09 |
 | [Tra le tue braccia \(feat\. Cosmo\)](https://open.spotify.com/track/4d6WWKu0HAs0psJP57AUrO) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Speriamo](https://open.spotify.com/album/08rZN9vymIRuu4RWqdGYT3) | 3:30 | 2025-11-06 | 2025-12-05 |
-| [Track 2](https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [BITTE LEBEN](https://open.spotify.com/album/52NFam5wDUyMnDgK4KsOLy) | 0:00 | 2026-04-16 |  |
 | [traffico](https://open.spotify.com/track/0AW1XiRq7CN6KZtwM51v9q) | [Nostalgia/Futuro](https://open.spotify.com/artist/2EZCeDSNYLij8SVtTsji3n) | [traffico](https://open.spotify.com/album/4DhmacndeoSITFKELZ5JG8) | 3:21 | 2026-01-15 | 2026-02-06 |
 | [Tralicci :\|: ELETTRICITÀ](https://open.spotify.com/track/0OK7GFhrMmMVzHppXk3DSv) | [Foramacchia](https://open.spotify.com/artist/6ST078zQG2Ddyc8K6YExIr), [Fiabba](https://open.spotify.com/artist/6eHnWGv1hiGzEEgdUvP2WT) | [Tralicci :\|: ELETTRICITÀ](https://open.spotify.com/album/0GxhWR52oyRYwp9SgBcjhk) | 2:44 | 2025-10-30 | 2025-11-14 |
 | [Tranky Funky](https://open.spotify.com/track/71axDWBLrFzciRUC8yPyfL) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Tranky Funky](https://open.spotify.com/album/1gzR5uvJuGujMKnyTGV3cl) | 2:49 | 2026-03-19 | 2026-04-17 |

@@ -746,7 +746,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 247210,
       "name": "Ae Ri Sakhi",
       "url": "https://open.spotify.com/track/4FXtwK3kedbdql3lrycezF"
@@ -3358,7 +3358,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 226103,
       "name": "Destiny - Mann Atkeya",
       "url": "https://open.spotify.com/track/6za0VNkFezXamgUjJi1nMx"
@@ -5404,7 +5404,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 157142,
       "name": "Headline",
       "url": "https://open.spotify.com/track/3nhUJVkM235p6UIkInGI21"
@@ -5824,6 +5824,28 @@
       "duration_ms": 322437,
       "name": "Humsafar (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/0OLTYqD8FpjkLsxJmdWmgi"
+    },
+    {
+      "album": {
+        "name": "Husn Ke Lakhon Rang (From \"Toaster\")",
+        "url": "https://open.spotify.com/album/74wptMFVQMwOrZCwBrchhf"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Arjun Iyer",
+          "url": "https://open.spotify.com/artist/5cJfXcI6GTlvjvebwaLEL0"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Husn Ke Lakhon Rang - From \"Toaster\"",
+      "url": "https://open.spotify.com/track/4m20rRVI0u4hvcK3noOOuI"
     },
     {
       "album": {
@@ -6341,7 +6363,7 @@
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 332087,
+      "duration_ms": 332116,
       "name": "Jaan Se Guzarte Hain",
       "url": "https://open.spotify.com/track/0bdA7CMrqT1qJVwwhw2Yn4"
     },
@@ -10509,6 +10531,40 @@
     },
     {
       "album": {
+        "name": "Bhooth Bangla (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5G7OlnxjO0P61CBfCo4zqU"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Prithvi Gandharv",
+          "url": "https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs"
+        },
+        {
+          "name": "Yatindra Mishra",
+          "url": "https://open.spotify.com/artist/64Vcj73wJvK32f4WdUiseV"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287339,
+      "name": "O Ri O Sanwariya - From \"Bhooth Bangla\"",
+      "url": "https://open.spotify.com/track/7MwfJYZK2zIwe47nYVRmvo"
+    },
+    {
+      "album": {
         "name": "O Saawre",
         "url": "https://open.spotify.com/album/3dVKH11TmT6dTYKacD3AwK"
       },
@@ -10704,7 +10760,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 174715,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0uSD4VGvyMwgijCNuZfIAi"
@@ -10846,7 +10902,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 197659,
       "name": "Parchhaiyan",
       "url": "https://open.spotify.com/track/2PvoucU5Pm9SeLN9neuJpX"
@@ -11846,6 +11902,32 @@
       "duration_ms": 217192,
       "name": "RAINA",
       "url": "https://open.spotify.com/track/3Hmfcqxxy8OCPhaLJT9QaQ"
+    },
+    {
+      "album": {
+        "name": "Raja Shivaji Anthem 'Chhatrapati' (Hindi) [From \"Raja Shivaji\"]",
+        "url": "https://open.spotify.com/album/62txCYdk9Zo7np94JSCWT1"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364813,
+      "name": "Raja Shivaji Anthem 'Chhatrapati' (Hindi) [From \"Raja Shivaji\"]",
+      "url": "https://open.spotify.com/track/4h8V5Mw1ELZ7fzsowKA33A"
     },
     {
       "album": {
@@ -13049,6 +13131,36 @@
     },
     {
       "album": {
+        "name": "Senti (From \"Daadi Ki Shaadi\")",
+        "url": "https://open.spotify.com/album/56uXwCvOBAKyNT3XlIedrF"
+      },
+      "artists": [
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        },
+        {
+          "name": "Mohsin Shaikh",
+          "url": "https://open.spotify.com/artist/1iIb9xv4HoY94O9IJWAFUj"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193636,
+      "name": "Senti (From \"Daadi Ki Shaadi\")",
+      "url": "https://open.spotify.com/track/0Vg7GtdSmTvn9pWP9MWrIa"
+    },
+    {
+      "album": {
         "name": "Dhurandhar",
         "url": "https://open.spotify.com/album/2aWjBAXX37Wxwfw9cbAXSb"
       },
@@ -13522,6 +13634,28 @@
       "duration_ms": 164208,
       "name": "Suljhe Na",
       "url": "https://open.spotify.com/track/1e9AJ9LyLB2oXjE7qMCq2g"
+    },
+    {
+      "album": {
+        "name": "Sun Re Piya",
+        "url": "https://open.spotify.com/album/2uh1rvhElikYUKAswxKd8P"
+      },
+      "artists": [
+        {
+          "name": "Raghav Kaushik",
+          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
+        },
+        {
+          "name": "Amrita Saluja",
+          "url": "https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145902,
+      "name": "Sun Re Piya",
+      "url": "https://open.spotify.com/track/4F1OgFikCujerIVXgUhY5A"
     },
     {
       "album": {
@@ -15651,6 +15785,36 @@
     },
     {
       "album": {
+        "name": "Vyah Karwado Ji (From \"Hai Jawani Toh Ishq Hona Hai\")",
+        "url": "https://open.spotify.com/album/3UAWfbkIL9Ln2zOHE78LIo"
+      },
+      "artists": [
+        {
+          "name": "Mika Singh",
+          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "White Noise Collectives",
+          "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201714,
+      "name": "Vyah Karwado Ji (From \"Hai Jawani Toh Ishq Hona Hai\")",
+      "url": "https://open.spotify.com/track/2Pe1rwZD3B69lhovqKqvP0"
+    },
+    {
+      "album": {
         "name": "Waade",
         "url": "https://open.spotify.com/album/7kNKb7KlyMr5L4PNNYjfw6"
       },
@@ -16414,7 +16578,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 171000,
       "name": "Zarii",
       "url": "https://open.spotify.com/track/2yHBq4DRKITMUypmWT136A"

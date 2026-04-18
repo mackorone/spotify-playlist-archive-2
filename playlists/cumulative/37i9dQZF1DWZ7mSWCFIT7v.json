@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 269316,
       "name": "Bialystok",
       "url": "https://open.spotify.com/track/6izg1zwpwWMcngjHlOSHan"
@@ -3033,6 +3033,28 @@
     },
     {
       "album": {
+        "name": "Ending (Djrum Endless Rework)",
+        "url": "https://open.spotify.com/album/6LMW2u4rbcVn7pQ6aHJTxZ"
+      },
+      "artists": [
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        },
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362610,
+      "name": "Ending - Djrum Endless Rework",
+      "url": "https://open.spotify.com/track/0v6ofUAryaTzhg9pGsm4C8"
+    },
+    {
+      "album": {
         "name": "UNREALITY",
         "url": "https://open.spotify.com/album/25nQudy58U15vDTVNiMw3t"
       },
@@ -4316,7 +4338,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 277508,
       "name": "Image of You",
       "url": "https://open.spotify.com/track/3Q2NYGJZI7UIl7cXmr2BRQ"
@@ -4360,6 +4382,24 @@
       "duration_ms": 230502,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/7hQO3fcbEBjl3gRW8XBch5"
+    },
+    {
+      "album": {
+        "name": "Dim Grow",
+        "url": "https://open.spotify.com/album/5MSi2OUFC74L9vE0gQYxIX"
+      },
+      "artists": [
+        {
+          "name": "abentis",
+          "url": "https://open.spotify.com/artist/5RL9kiDO5CPzSw1xdTkzt0"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547639,
+      "name": "In Memories",
+      "url": "https://open.spotify.com/track/1AoVpZst1zpOYjdB7ZaapY"
     },
     {
       "album": {
@@ -7342,7 +7382,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 288000,
       "name": "Replica",
       "url": "https://open.spotify.com/track/4JvZ9aZDSG1vQigKPHGpaG"
@@ -7979,6 +8019,42 @@
     },
     {
       "album": {
+        "name": "(re)weave",
+        "url": "https://open.spotify.com/album/1MwxVbXbImA7hqkJZ6LjmM"
+      },
+      "artists": [
+        {
+          "name": "Tristan Arp",
+          "url": "https://open.spotify.com/artist/5PvxHyYKtHsyyI5XjdqnD9"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374746,
+      "name": "Shapeshifting Dub",
+      "url": "https://open.spotify.com/track/0XjAh3zM7Wf9hk3ndg1RWq"
+    },
+    {
+      "album": {
+        "name": "Shelter Our Time",
+        "url": "https://open.spotify.com/album/3XOn7UmWFpha8qkPaniG9L"
+      },
+      "artists": [
+        {
+          "name": "GiGi FM",
+          "url": "https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343703,
+      "name": "Shelter Our Time",
+      "url": "https://open.spotify.com/track/3mZIv0zpl76Qtafq02BU2z"
+    },
+    {
+      "album": {
         "name": "SIGN",
         "url": "https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K"
       },
@@ -8066,10 +8142,28 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 210838,
       "name": "Silken Place",
       "url": "https://open.spotify.com/track/4HLMg8naWj2VbsxBzutuok"
+    },
+    {
+      "album": {
+        "name": "Tentacletek",
+        "url": "https://open.spotify.com/album/6Tzx3FfxinTEuNRlsjakdj"
+      },
+      "artists": [
+        {
+          "name": "Los Pulpitos",
+          "url": "https://open.spotify.com/artist/7ABaeJZHvaqUVZpvI0ohgO"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302100,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/0i6ZkbAKQvMzi1sgtVzIHq"
     },
     {
       "album": {
@@ -10636,7 +10730,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 171428,
       "name": "you are my shotgun",
       "url": "https://open.spotify.com/track/5wAJjq2ojuw0XYg7DDr8W4"

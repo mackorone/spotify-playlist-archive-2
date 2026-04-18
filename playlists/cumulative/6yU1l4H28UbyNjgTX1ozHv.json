@@ -972,7 +972,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 173502,
       "name": "Dignity - Acoustic",
       "url": "https://open.spotify.com/track/6WaOpI5POr5KaIFiOTIb1E"
@@ -2520,6 +2520,24 @@
       "duration_ms": 182708,
       "name": "Iris - Acoustic",
       "url": "https://open.spotify.com/track/2bvnbXhGaMnl8QBYqzbHdD"
+    },
+    {
+      "album": {
+        "name": "Is This Love",
+        "url": "https://open.spotify.com/album/1vVTVWhbHYANSpm5c9im74"
+      },
+      "artists": [
+        {
+          "name": "Richard Watts",
+          "url": "https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171914,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/2sdG8ZtBKElSwKyy93r6q3"
     },
     {
       "album": {
@@ -4916,7 +4934,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 189782,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/31Ctlmul6mkj9MYrLwKuMU"

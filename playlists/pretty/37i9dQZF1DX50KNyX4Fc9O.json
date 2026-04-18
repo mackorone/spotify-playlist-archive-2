@@ -1,6 +1,6 @@
 {
   "description": "Keep your finger on the pulse of pop. Cover: Charley",
-  "num_followers": 130403,
+  "num_followers": 130447,
   "original_name": "Pop n' Fresh",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAJJVH0CfmW5KZ4mMgtBbPf3KmVxr",
   "tracks": [
+    {
+      "added_at": "2026-04-16 23:59:01",
+      "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
     {
       "added_at": "2026-04-16 23:59:01",
       "album": {

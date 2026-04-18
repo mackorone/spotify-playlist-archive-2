@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1625170,
+  "num_followers": 1625445,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-04-07 14:54:05",
       "album": {
-        "name": "It's Ok (Slowed)",
-        "url": "https://open.spotify.com/album/1sjKHrK5J9tVQi512c0Vrj"
-      },
-      "artists": [
-        {
-          "name": "Edith Whiskers",
-          "url": "https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN"
-        }
-      ],
-      "duration_ms": 214371,
-      "name": "It's Ok - Slowed",
-      "url": "https://open.spotify.com/track/5RKUztud1fb5UhO4gljjl7"
-    },
-    {
-      "added_at": "2026-04-07 14:54:05",
-      "album": {
         "name": "Mary On A Cross (slowed + reverb)",
         "url": "https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 274783,
       "name": "Mary On A Cross - slowed + reverb",
       "url": "https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU"
+    },
+    {
+      "added_at": "2026-04-07 14:54:05",
+      "album": {
+        "name": "It's Ok (Slowed)",
+        "url": "https://open.spotify.com/album/1sjKHrK5J9tVQi512c0Vrj"
+      },
+      "artists": [
+        {
+          "name": "Edith Whiskers",
+          "url": "https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN"
+        }
+      ],
+      "duration_ms": 214371,
+      "name": "It's Ok - Slowed",
+      "url": "https://open.spotify.com/track/5RKUztud1fb5UhO4gljjl7"
     },
     {
       "added_at": "2026-04-07 14:54:05",

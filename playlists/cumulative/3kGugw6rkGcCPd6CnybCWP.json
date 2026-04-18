@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Capgras",
+        "url": "https://open.spotify.com/album/7fves1lJ4iWUrebac0Ygg1"
+      },
+      "artists": [
+        {
+          "name": "Alano",
+          "url": "https://open.spotify.com/artist/67pd5kQwnJqJELrkUSI1w2"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218121,
+      "name": "Capgras",
+      "url": "https://open.spotify.com/track/0GnM2MsysrU25aZEhSnnKV"
+    },
+    {
+      "album": {
         "name": "Seems Familiar But So Strange",
         "url": "https://open.spotify.com/album/7e5Tpz7tzdK53RMcorgoTS"
       },
@@ -1710,7 +1728,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 415758,
       "name": "Genie",
       "url": "https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m"
@@ -1956,6 +1974,24 @@
       "duration_ms": 189239,
       "name": "Hardly Know Her",
       "url": "https://open.spotify.com/track/2UaCdxvJaX7lmezW3YiGIf"
+    },
+    {
+      "album": {
+        "name": "Have Your Say",
+        "url": "https://open.spotify.com/album/3sJgNrX4tRIJlI4wJpVzNh"
+      },
+      "artists": [
+        {
+          "name": "Friends With Boats",
+          "url": "https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177300,
+      "name": "Have Your Say",
+      "url": "https://open.spotify.com/track/5G0y8rEfDcnsT6MyxquLmn"
     },
     {
       "album": {
@@ -2359,6 +2395,28 @@
     },
     {
       "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/0JerWmlIVL40BX3uDukQSF"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Zapata",
+          "url": "https://open.spotify.com/artist/3EVyrf1OgXe8woUNY6fbdO"
+        },
+        {
+          "name": "Daniela Garzon",
+          "url": "https://open.spotify.com/artist/57VooYaAoRCGzc6AuRcIqj"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272951,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/5K4JUd244XjzQLWfmiaTmS"
+    },
+    {
+      "album": {
         "name": "Ins\u00f4nia",
         "url": "https://open.spotify.com/album/2RZ7KjRITbF7dZkDFtSuxP"
       },
@@ -2450,6 +2508,24 @@
       "duration_ms": 194440,
       "name": "I\u2019m Hateful, I\u2019m Horrible, I Love You",
       "url": "https://open.spotify.com/track/0b1x4o4APSYGjWTmLe5eHI"
+    },
+    {
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/3D6Dnsu11iFwDWIUoB1GUJ"
+      },
+      "artists": [
+        {
+          "name": "Rafael Dies",
+          "url": "https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167916,
+      "name": "jealousy misery",
+      "url": "https://open.spotify.com/track/0x2N0M44PqRv2Dx4YtYJSy"
     },
     {
       "album": {
@@ -3030,6 +3106,24 @@
       "duration_ms": 237226,
       "name": "Month of Sundays",
       "url": "https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr"
+    },
+    {
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/5iAMFLHajNIwWxFJh0iA0E"
+      },
+      "artists": [
+        {
+          "name": "Alanna Sterling",
+          "url": "https://open.spotify.com/artist/6gfQSJ07CJAEvOwKz4sX2f"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222957,
+      "name": "More",
+      "url": "https://open.spotify.com/track/14aDPcz6whbi82MtqIGSAZ"
     },
     {
       "album": {
@@ -3862,6 +3956,24 @@
       "duration_ms": 162293,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/2w6Dv6rDHlQrUx6XTzznYA"
+    },
+    {
+      "album": {
+        "name": "starbound",
+        "url": "https://open.spotify.com/album/08OpQIuyaFZftKaf9r1FuK"
+      },
+      "artists": [
+        {
+          "name": "Elliot Tellman",
+          "url": "https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184051,
+      "name": "starbound",
+      "url": "https://open.spotify.com/track/2lrsKVxuYrmodpdmNhnsOd"
     },
     {
       "album": {
@@ -4857,6 +4969,24 @@
     },
     {
       "album": {
+        "name": "Black & White World",
+        "url": "https://open.spotify.com/album/5bdhtvziRwH9V4F8evKFwS"
+      },
+      "artists": [
+        {
+          "name": "Hugh James Hardman",
+          "url": "https://open.spotify.com/artist/0mealHl6nJ088L73CjJjO0"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237080,
+      "name": "Way Back When",
+      "url": "https://open.spotify.com/track/2vgyU6ZF9kBl2F1IjJL3pM"
+    },
+    {
+      "album": {
         "name": "We Make",
         "url": "https://open.spotify.com/album/6iYX7uJB6VFEahSSuaw9JO"
       },
@@ -5258,6 +5388,24 @@
       "duration_ms": 275357,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/7oIGfvvszUPBy3RbcybSsy"
+    },
+    {
+      "album": {
+        "name": "Yes I Can",
+        "url": "https://open.spotify.com/album/49OoChDqql0vAqyr5XAFlL"
+      },
+      "artists": [
+        {
+          "name": "Corinne Cook",
+          "url": "https://open.spotify.com/artist/0T6E8iD2LpBY1wBzxsIbCA"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210160,
+      "name": "Yes I Can",
+      "url": "https://open.spotify.com/track/0gqAbfeygrSgMrCiiyH1FK"
     },
     {
       "album": {

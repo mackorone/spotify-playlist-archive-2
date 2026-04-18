@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Not For Radio
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,348 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,355 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 18 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 |
 | 19 | [Even In The Quiet](https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Even In The Quiet](https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM) | 3:32 |
 | 20 | [Bad Dad](https://open.spotify.com/track/3skG2H54VtXFd59kn4TTqd) | [Blond in Car](https://open.spotify.com/artist/2MpTGEyRxAUkD16X9XpLyl), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Bad Dad](https://open.spotify.com/album/7nVV9F7KxEVJHo7kI8PTVX) | 2:45 |
-| 21 | [Track 5](https://open.spotify.com/track/3YUOtlbkKPayMmm941VhTF) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [The Muse](https://open.spotify.com/album/0EshqHHvLmWyxU8lSVAmWk) | 0:00 |
+| 21 | [Karmic](https://open.spotify.com/track/3YUOtlbkKPayMmm941VhTF) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [The Muse](https://open.spotify.com/album/0EshqHHvLmWyxU8lSVAmWk) | 3:27 |
 | 22 | [Back of a car](https://open.spotify.com/track/77gA40f86KuiqzFMnEh2Ww) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Koilwood](https://open.spotify.com/artist/4GKDR0aZmXTNpvDBcUy1m2) | [Back of a car](https://open.spotify.com/album/70I3QI750IKQK7UMgSMeve) | 2:31 |
 | 23 | [Beams](https://open.spotify.com/track/7AieCEz0Kpv2c8L63LXcWw) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Beams](https://open.spotify.com/album/6Gjsdtw3nw3GV5IrwFmT4G) | 3:39 |
 | 24 | [thaw](https://open.spotify.com/track/3vQvHwuINsERfh4vrYMzhn) | [Vera Ellen](https://open.spotify.com/artist/49x9krjMRVeW1rH4IQL43B) | [thaw](https://open.spotify.com/album/0JkqKOX4QvKH649IMNoIdN) | 4:09 |

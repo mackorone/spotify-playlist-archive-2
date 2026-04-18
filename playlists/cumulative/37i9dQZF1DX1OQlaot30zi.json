@@ -92915,6 +92915,24 @@
     },
     {
       "album": {
+        "name": "No vabb\u00e8 amo",
+        "url": "https://open.spotify.com/album/4ZGh5I613XypAiyvptHitk"
+      },
+      "artists": [
+        {
+          "name": "Mostro",
+          "url": "https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133216,
+      "name": "No vabb\u00e8 amo",
+      "url": "https://open.spotify.com/track/1EmTrWf38Z2gluHNS5nu9T"
+    },
+    {
+      "album": {
         "name": "CREDO",
         "url": "https://open.spotify.com/album/1QVpncxoSjMw3yFMl9qNbp"
       },
@@ -123563,6 +123581,24 @@
     },
     {
       "album": {
+        "name": "SEX TRAP REPEAT",
+        "url": "https://open.spotify.com/album/5nPq2Nmm3NU2BNCrWBcFep"
+      },
+      "artists": [
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145263,
+      "name": "SEX TRAP REPEAT",
+      "url": "https://open.spotify.com/track/7jhVsioCwQDGQSXFL35cEF"
+    },
+    {
+      "album": {
         "name": "SEXTING",
         "url": "https://open.spotify.com/album/2vWSVoc1V0ZXNy0qWt1Pl2"
       },
@@ -136474,12 +136510,12 @@
           "url": "https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB"
         },
         {
-          "name": "Macello",
-          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
-        },
-        {
           "name": "Pitta",
           "url": "https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT"
+        },
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
         }
       ],
       "date_added": "2026-04-02",

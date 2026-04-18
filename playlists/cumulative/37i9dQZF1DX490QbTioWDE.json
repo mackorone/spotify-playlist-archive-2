@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 225077,
       "name": "50% - En Vivo",
       "url": "https://open.spotify.com/track/5CjlFUbDhFW8U85kjRjf2E"
@@ -5168,7 +5168,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 166493,
       "name": "La \u00daltima Granada - En Vivo",
       "url": "https://open.spotify.com/track/6TnZSXypAbIozg8BlodtWe"
@@ -5537,6 +5537,28 @@
     },
     {
       "album": {
+        "name": "LOS HERRERA | DJ TAO Sessions #31",
+        "url": "https://open.spotify.com/album/7MtGtF1LfSpIbeQ0fy83uS"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172537,
+      "name": "LOS HERRERA | DJ TAO Sessions #31",
+      "url": "https://open.spotify.com/track/2FzQHz4ouT2mxZt0YOvftQ"
+    },
+    {
+      "album": {
         "name": "Pleno",
         "url": "https://open.spotify.com/album/0ZSwCQoWXkBeDIGphjawWr"
       },
@@ -5682,6 +5704,32 @@
       "duration_ms": 179957,
       "name": "Luna En Capricornio",
       "url": "https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF"
+    },
+    {
+      "album": {
+        "name": "Mala Junta",
+        "url": "https://open.spotify.com/album/0knIJImXVNvqAxZaclozrP"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174289,
+      "name": "Mala Junta",
+      "url": "https://open.spotify.com/track/2RSsPZhvRHDYE3EHdrG3gh"
     },
     {
       "album": {
@@ -7856,7 +7904,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 202342,
       "name": "Otro D\u00eda M\u00e1s",
       "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
@@ -7948,6 +7996,32 @@
       "duration_ms": 193160,
       "name": "Paloma loca",
       "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
+    },
+    {
+      "album": {
+        "name": "Para Repetir - Versi\u00f3n Cuarteto (En Vivo)",
+        "url": "https://open.spotify.com/album/4Cpk7cozrkgmCJ6EvbdxC8"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217262,
+      "name": "Para Repetir - Versi\u00f3n Cuarteto - En Vivo",
+      "url": "https://open.spotify.com/track/0zIPLZvJpHTYlH38u9lfSw"
     },
     {
       "album": {
@@ -8238,7 +8312,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 547541,
       "name": "Por lo Que Yo Te Quiero / Mi\u00e9nteles a Ellos - En Vivo",
       "url": "https://open.spotify.com/track/5CNL6wtodffbjXzTwKzYS2"
@@ -8578,6 +8652,32 @@
       "duration_ms": 202657,
       "name": "Punto y Aparte",
       "url": "https://open.spotify.com/track/0RXlSZPDaueIdGp90occcQ"
+    },
+    {
+      "album": {
+        "name": "Pu\u00f1aladas (En Vivo Plaza De La M\u00fasica)",
+        "url": "https://open.spotify.com/album/5MQDj5j9QZgERJidlHbU2i"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237173,
+      "name": "Pu\u00f1aladas - En Vivo Plaza De La M\u00fasica",
+      "url": "https://open.spotify.com/track/6w72aThuLi3mx8UoPNHOft"
     },
     {
       "album": {

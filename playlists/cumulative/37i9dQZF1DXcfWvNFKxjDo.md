@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: AVAION, BUNT.
 
-5,826 songs - 11 day 15 hr 42 min
+5,826 songs - 11 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1419,7 +1419,7 @@
 | [Echo of Yesterday](https://open.spotify.com/track/7kToFtI0NQG3w3RTASCES1) | [Jost](https://open.spotify.com/artist/4JLjGlT5l6gtKKvP8qRb2g) | [Echo of Yesterday](https://open.spotify.com/album/3XOSvOzQ0rlgYyjokO0ase) | 2:19 | 2026-01-08 | 2026-01-23 |
 | [Echoes](https://open.spotify.com/track/0dnWqvph4FYM5bK8h7ZdSd) | [ConKi](https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF) | [Echoes](https://open.spotify.com/album/20NzaVuyiQSb84WXfbtlRS) | 3:01 | 2026-01-15 | 2026-02-06 |
 | [Echoes](https://open.spotify.com/track/0VM4421vCWFJaLeLq1C33b) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Echoes](https://open.spotify.com/album/2t0tzhydw5GN4WiYmqNBts) | 3:14 | 2025-09-19 | 2025-09-26 |
-| [Echoes](https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Saksham](https://open.spotify.com/artist/6VVI4hKZWovOZO0ia3jaFi), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [Echoes](https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8) | 3:39 | 2026-04-16 |  |
+| [Echoes](https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [Echoes](https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8) | 3:39 | 2026-04-16 |  |
 | [Ecstasy](https://open.spotify.com/track/1QamciEC8PCXXZbV4hHiI1) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Ecstasy](https://open.spotify.com/album/2IKhm1hfAexFjpEVvZs6E7) | 2:34 | 2024-11-07 | 2024-11-22 |
 | [Ecstasy](https://open.spotify.com/track/7gT3poPl89krqi8qcBinyU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [MEDUZA](https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc) | 2:19 | 2023-10-12 | 2023-11-11 |
 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 | 2025-07-17 | 2025-08-01 |
@@ -1504,6 +1504,7 @@
 | [Evergreen](https://open.spotify.com/track/4uTugVEMcGnEyZxGSK3uIT) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Evergreen](https://open.spotify.com/album/0xTZhIMWa6ReV9Dy1aizQJ) | 2:52 | 2025-02-06 | 2025-02-21 |
 | [Everlight](https://open.spotify.com/track/4g1gtAETdNfsNT5GBxNW34) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Everlight](https://open.spotify.com/album/1n96zLen6gmcOjXLI6FGE6) | 2:47 | 2025-06-26 | 2025-08-09 |
 | [Every Day and Every Night](https://open.spotify.com/track/6a7pvrnzPpaY2ckXMXHrny) | [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj) | [Every Day and Every Night](https://open.spotify.com/album/4r66RGs7LVFAWbMfbD4MLi) | 2:40 | 2025-04-03 | 2025-04-11 |
+| [Everybody](https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R) | 2:34 | 2026-04-16 |  |
 | [Everybody \(On The Floor\)](https://open.spotify.com/track/51UDXQ5GezlNFKXOyZlmVy) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP), [French Sisters](https://open.spotify.com/artist/1I4EE5ur08rtlTb3v0gbtc) | [Everybody \(On The Floor\)](https://open.spotify.com/album/5aafjaTkrsQpf7Dj7yRC4Y) | 2:21 | 2024-05-23 | 2024-06-14 |
 | [Everybody Dance](https://open.spotify.com/track/4kGOXT5anTveW6Pf0XEj87) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk) | [Everybody Dance](https://open.spotify.com/album/3vAx7cYTFkNDAMLJv2HjkC) | 1:51 | 2026-01-08 | 2026-01-23 |
 | [Everybody Knows](https://open.spotify.com/track/41CZBcABG1VKlQ3b9VLhgi) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Everybody Knows](https://open.spotify.com/album/1CXEsKrvQkYYZImAwoVidy) | 4:48 | 2025-08-15 | 2025-08-22 |
@@ -5258,7 +5259,6 @@
 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-03-27 | 2025-04-04 |
 | [Toxic Love](https://open.spotify.com/track/6hhozx8Q4NzUCXv5iztTXu) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Eltee](https://open.spotify.com/artist/6CTdeQLRFhYstXpdUmzyKE) | [Toxic Love](https://open.spotify.com/album/4AIHLRA2un7XSxxZBUzOe0) | 2:19 | 2025-12-11 | 2025-12-19 |
 | [Toxic Symphony](https://open.spotify.com/track/5sf7RuZBQftrEfrK76uiGx) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [TUN](https://open.spotify.com/artist/6FjgaqFC2jqck5hiP5zdC0) | [Toxic Symphony](https://open.spotify.com/album/7x3IOJLZiwXBtjaNFDekVw) | 2:42 | 2026-03-05 | 2026-03-27 |
-| [Track 9](https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R) | 0:00 | 2026-04-16 |  |
 | [Traffic Lights](https://open.spotify.com/track/51hz6qJbXGs75AmI08WLBM) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Traffic Lights](https://open.spotify.com/album/2i62S40RzXinIWM0I1fFhB) | 2:08 | 2024-06-13 | 2024-06-28 |
 | [Tragic \(Never Let Go\)](https://open.spotify.com/track/1ry7rvoKbZIQfHq0q8dtV7) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Vanessa Mai](https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7) | [Tragic \(Never Let Go\)](https://open.spotify.com/album/7a99ZQ9MhaEA33gWDOnl9M) | 1:50 | 2024-04-11 | 2024-04-26 |
 | [Trails](https://open.spotify.com/track/37drBnXJEDVWIZqvHctE03) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [Trails](https://open.spotify.com/album/1EgHatheLbD86h4mfgO4ri) | 2:30 | 2024-05-09 | 2024-05-17 |

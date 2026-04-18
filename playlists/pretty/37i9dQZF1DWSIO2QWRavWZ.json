@@ -1,13 +1,29 @@
 {
-  "description": "New music from your favorite women.  Cover: Momo Boyd",
-  "num_followers": 231268,
+  "description": "New music from your favorite women.  Cover: Natanya",
+  "num_followers": 231308,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOTgHjZ0f6RbyjIhBqUG7lsi81nv",
+  "snapshot_id": "AAAAANBBjXTQw1osYwDheAw4JeGh/Ndg",
   "tracks": [
+    {
+      "added_at": "2026-04-17 06:37:17",
+      "album": {
+        "name": "DON'T ASK!",
+        "url": "https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 182395,
+      "name": "DON'T ASK!",
+      "url": "https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA"
+    },
     {
       "added_at": "2026-04-10 04:48:28",
       "album": {
@@ -29,20 +45,28 @@
       "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
     },
     {
-      "added_at": "2026-03-20 06:19:37",
+      "added_at": "2026-04-17 06:37:17",
       "album": {
-        "name": "LUVAGIRL",
-        "url": "https://open.spotify.com/album/0N1QxOvJmW0yCfvQb3QaAU"
+        "name": "Flight Risqu\u00e9 (with Freddie Gibbs & SALIMATA)",
+        "url": "https://open.spotify.com/album/0lmNPyOnmc93RkhNZaOxDJ"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "SALIMATA",
+          "url": "https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD"
         }
       ],
-      "duration_ms": 160574,
-      "name": "LUVAGIRL",
-      "url": "https://open.spotify.com/track/4gU4gAb6IMF6LrAfnQdIEG"
+      "duration_ms": 171251,
+      "name": "Flight Risqu\u00e9 (with Freddie Gibbs & SALIMATA)",
+      "url": "https://open.spotify.com/track/49Xxlgn6sP2hi0es0Xcxxn"
     },
     {
       "added_at": "2026-04-10 04:48:28",
@@ -65,56 +89,36 @@
       "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
     },
     {
-      "added_at": "2026-03-27 05:57:52",
+      "added_at": "2026-04-17 06:37:17",
       "album": {
-        "name": "Waiting Room (feat. Jordan Ward)",
-        "url": "https://open.spotify.com/album/2vZiDHDvCpRC5VoC3mxNkK"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/4oNiVZ9G3qyfQYLYU48w10"
       },
       "artists": [
         {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        },
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
         }
       ],
-      "duration_ms": 201854,
-      "name": "Waiting Room (feat. Jordan Ward)",
-      "url": "https://open.spotify.com/track/3gS6Nh0LNlKsMblEzVNt3l"
+      "duration_ms": 195063,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/1JTXX2PRBauOOKWiR1sOkU"
     },
     {
-      "added_at": "2026-04-03 06:17:19",
+      "added_at": "2026-03-20 06:19:37",
       "album": {
-        "name": "Rain On Me",
-        "url": "https://open.spotify.com/album/3hgnBTDyDAvWoQ6SNqUqgy"
+        "name": "LUVAGIRL",
+        "url": "https://open.spotify.com/album/0N1QxOvJmW0yCfvQb3QaAU"
       },
       "artists": [
         {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 180313,
-      "name": "Rain On Me",
-      "url": "https://open.spotify.com/track/3sx0w5R8ypSstoSBseVERN"
-    },
-    {
-      "added_at": "2026-04-10 04:48:28",
-      "album": {
-        "name": "idea 1",
-        "url": "https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "idea 1",
-      "url": "https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy"
+      "duration_ms": 160574,
+      "name": "LUVAGIRL",
+      "url": "https://open.spotify.com/track/4gU4gAb6IMF6LrAfnQdIEG"
     },
     {
       "added_at": "2026-02-13 05:40:53",
@@ -133,6 +137,54 @@
       "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
     },
     {
+      "added_at": "2026-04-10 04:48:28",
+      "album": {
+        "name": "idea 1",
+        "url": "https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "idea 1",
+      "url": "https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy"
+    },
+    {
+      "added_at": "2026-04-17 06:37:17",
+      "album": {
+        "name": "N.Y.F.F.",
+        "url": "https://open.spotify.com/album/6j8bGTE15Qqce0qRNJmRDp"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 145186,
+      "name": "N.Y.F.F.",
+      "url": "https://open.spotify.com/track/05MKzSVIFWyzD0tLw4jKaL"
+    },
+    {
+      "added_at": "2026-04-17 06:37:17",
+      "album": {
+        "name": "Getaway Driver",
+        "url": "https://open.spotify.com/album/5cXaO4eP64kTqYm4AQd7st"
+      },
+      "artists": [
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "Getaway Driver",
+      "url": "https://open.spotify.com/track/0n4RvRmDQ88NLjhesbbDSx"
+    },
+    {
       "added_at": "2026-04-03 06:17:19",
       "album": {
         "name": "DND",
@@ -147,6 +199,38 @@
       "duration_ms": 153654,
       "name": "S.I.M.P.L.E",
       "url": "https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb"
+    },
+    {
+      "added_at": "2026-04-17 06:37:17",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/2gWZJlucbSEUyCS1FaXeuq"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/08fPZ0IIoPCDIodw3J2LMi"
+    },
+    {
+      "added_at": "2026-04-03 06:17:19",
+      "album": {
+        "name": "Rain On Me",
+        "url": "https://open.spotify.com/album/3hgnBTDyDAvWoQ6SNqUqgy"
+      },
+      "artists": [
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        }
+      ],
+      "duration_ms": 180313,
+      "name": "Rain On Me",
+      "url": "https://open.spotify.com/track/3sx0w5R8ypSstoSBseVERN"
     },
     {
       "added_at": "2026-04-10 04:48:28",
@@ -197,36 +281,40 @@
       "url": "https://open.spotify.com/track/08xEJQb6PB0vxxEpdlhT0o"
     },
     {
-      "added_at": "2026-04-03 06:17:19",
+      "added_at": "2026-03-27 05:57:52",
       "album": {
-        "name": "Want Love",
-        "url": "https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf"
+        "name": "Waiting Room (feat. Jordan Ward)",
+        "url": "https://open.spotify.com/album/2vZiDHDvCpRC5VoC3mxNkK"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        },
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
         }
       ],
-      "duration_ms": 200791,
-      "name": "Want Love",
-      "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
+      "duration_ms": 201854,
+      "name": "Waiting Room (feat. Jordan Ward)",
+      "url": "https://open.spotify.com/track/3gS6Nh0LNlKsMblEzVNt3l"
     },
     {
-      "added_at": "2026-03-20 06:19:37",
+      "added_at": "2026-04-17 06:37:17",
       "album": {
-        "name": "Leak It",
-        "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
+        "name": "Block Party",
+        "url": "https://open.spotify.com/album/2YUSE19lgw3BftKj9skiW3"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Sofia Ly",
+          "url": "https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4"
         }
       ],
-      "duration_ms": 183406,
-      "name": "Leak It",
-      "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
+      "duration_ms": 150539,
+      "name": "Block Party",
+      "url": "https://open.spotify.com/track/0fbuQaeopuxt45m8a3OBsQ"
     },
     {
       "added_at": "2026-03-06 05:18:12",
@@ -249,6 +337,42 @@
       "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
     },
     {
+      "added_at": "2026-04-17 06:37:17",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/7iOcqyXzrV1ntKXNa1D8Fp"
+      },
+      "artists": [
+        {
+          "name": "Jazlyn Martin",
+          "url": "https://open.spotify.com/artist/6qnQ8pEWian26DWdjRMXr0"
+        }
+      ],
+      "duration_ms": 162719,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4y4tYbxyLRxFbaBZGnMrtN"
+    },
+    {
+      "added_at": "2026-04-17 06:37:17",
+      "album": {
+        "name": "Deposit",
+        "url": "https://open.spotify.com/album/1jrCYQykFIk8HTFPlTgRBa"
+      },
+      "artists": [
+        {
+          "name": "Storm Ford",
+          "url": "https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2"
+        },
+        {
+          "name": "Bar4Bar.TV",
+          "url": "https://open.spotify.com/artist/1q6Nm7NjJz9EhrL6Ru4Mrl"
+        }
+      ],
+      "duration_ms": 227835,
+      "name": "Trying (Live)",
+      "url": "https://open.spotify.com/track/2T1chp5SqqfIsQlQt7NzJp"
+    },
+    {
       "added_at": "2026-03-20 06:19:37",
       "album": {
         "name": "When The City Sleeps",
@@ -263,6 +387,106 @@
       "duration_ms": 178779,
       "name": "Westside",
       "url": "https://open.spotify.com/track/7bX4qyPM9Ye5LBPbnkw5Lu"
+    },
+    {
+      "added_at": "2026-04-17 06:37:17",
+      "album": {
+        "name": "Rent Free",
+        "url": "https://open.spotify.com/album/1kMBG2Mxs7VC6loY4vMqRH"
+      },
+      "artists": [
+        {
+          "name": "Alexia Jayy",
+          "url": "https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta"
+        },
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 195515,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/4nqmjJRPy28DAM7URfrR4K"
+    },
+    {
+      "added_at": "2026-04-03 06:17:19",
+      "album": {
+        "name": "Want Love",
+        "url": "https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 200791,
+      "name": "Want Love",
+      "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
+    },
+    {
+      "added_at": "2026-04-10 04:48:28",
+      "album": {
+        "name": "Let's Talk",
+        "url": "https://open.spotify.com/album/5eY6JQjfTDgYLuBeJZmByT"
+      },
+      "artists": [
+        {
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
+        }
+      ],
+      "duration_ms": 166825,
+      "name": "Let's Talk",
+      "url": "https://open.spotify.com/track/6z0JUGjnqG1Ge4BfL50Y6D"
+    },
+    {
+      "added_at": "2026-04-17 06:37:17",
+      "album": {
+        "name": "Sofa",
+        "url": "https://open.spotify.com/album/30cPHAsA4RyJ6gQSyEfPAi"
+      },
+      "artists": [
+        {
+          "name": "A.G. Sully",
+          "url": "https://open.spotify.com/artist/1DS9B5f4jcKRCqXI6fKDYY"
+        }
+      ],
+      "duration_ms": 210477,
+      "name": "Sofa",
+      "url": "https://open.spotify.com/track/0ruOjAJseV9w5G2ILuizYZ"
+    },
+    {
+      "added_at": "2026-04-17 06:37:17",
+      "album": {
+        "name": "Give U My Love",
+        "url": "https://open.spotify.com/album/3HsALYCjNk4tFIYAGt9xMB"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "duration_ms": 189338,
+      "name": "Give U My Love",
+      "url": "https://open.spotify.com/track/3fRVzFXYLyNyHg1EARRUZe"
+    },
+    {
+      "added_at": "2026-04-17 06:37:17",
+      "album": {
+        "name": "Fidelity",
+        "url": "https://open.spotify.com/album/4gT5itNBVYzC9jcgMvvOUa"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 206907,
+      "name": "Forty Days",
+      "url": "https://open.spotify.com/track/12fSlzhqUDqnrZnA50Y617"
     },
     {
       "added_at": "2026-04-03 06:17:19",
@@ -301,6 +525,22 @@
       "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
     },
     {
+      "added_at": "2026-03-20 06:19:37",
+      "album": {
+        "name": "Leak It",
+        "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 183406,
+      "name": "Leak It",
+      "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
+    },
+    {
       "added_at": "2026-04-03 06:17:19",
       "album": {
         "name": "Sinner",
@@ -331,22 +571,6 @@
       "duration_ms": 171147,
       "name": "True 2 Me",
       "url": "https://open.spotify.com/track/42eUx35cp7oi3fGM8WAzF1"
-    },
-    {
-      "added_at": "2026-04-10 04:48:28",
-      "album": {
-        "name": "Let's Talk",
-        "url": "https://open.spotify.com/album/5eY6JQjfTDgYLuBeJZmByT"
-      },
-      "artists": [
-        {
-          "name": "REMI",
-          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
-        }
-      ],
-      "duration_ms": 166825,
-      "name": "Let's Talk",
-      "url": "https://open.spotify.com/track/6z0JUGjnqG1Ge4BfL50Y6D"
     },
     {
       "added_at": "2026-04-03 06:17:19",
@@ -2105,26 +2329,6 @@
       "url": "https://open.spotify.com/track/58TQZqfL0jKekC40I6pVPu"
     },
     {
-      "added_at": "2025-11-14 09:13:01",
-      "album": {
-        "name": "FIYAH",
-        "url": "https://open.spotify.com/album/0lO1nUrmubWjPzoQLtA3FO"
-      },
-      "artists": [
-        {
-          "name": "Sofia Ly",
-          "url": "https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 156055,
-      "name": "FIYAH",
-      "url": "https://open.spotify.com/track/4d0FZdFVwNRD3CUnmx6IOU"
-    },
-    {
       "added_at": "2025-10-10 07:33:06",
       "album": {
         "name": "Between Us",
@@ -2225,22 +2429,6 @@
       "url": "https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h"
     },
     {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Miss Black America",
-        "url": "https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 175080,
-      "name": "Bettadaze",
-      "url": "https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP"
-    },
-    {
       "added_at": "2025-10-10 07:33:06",
       "album": {
         "name": "How I Feel",
@@ -2323,26 +2511,6 @@
       "duration_ms": 193116,
       "name": "tmwtd",
       "url": "https://open.spotify.com/track/7zIS9pKDkKQVUedycOP6kK"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "WWP",
-        "url": "https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 177011,
-      "name": "DYNAMITE",
-      "url": "https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX"
     },
     {
       "added_at": "2025-09-19 16:39:00",

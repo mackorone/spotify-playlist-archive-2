@@ -9343,6 +9343,32 @@
     },
     {
       "album": {
+        "name": "whenyoufindout.",
+        "url": "https://open.spotify.com/album/31RRYL5eUhYKqIzuIa0kyp"
+      },
+      "artists": [
+        {
+          "name": "dg.",
+          "url": "https://open.spotify.com/artist/3FVO5thIWXe2SHW6ZTWCm6"
+        },
+        {
+          "name": "Coben",
+          "url": "https://open.spotify.com/artist/0jdKD1yBCUmUAUmvh1X0oT"
+        },
+        {
+          "name": "SMOORIBA",
+          "url": "https://open.spotify.com/artist/1CMsNzudMd14qTGeFs2Uvk"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219629,
+      "name": "whenyoufindout.",
+      "url": "https://open.spotify.com/track/3rqhya8bcjUymz9e4FJMl0"
+    },
+    {
+      "album": {
         "name": "Cartoon & Friends",
         "url": "https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC"
       },

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,227 songs - 4 day 19 hr 40 min
+2,228 songs - 4 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Atlantic](https://open.spotify.com/track/5kIxyCOaIx7wxWnbVva9Nt) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/3FaYgjSf0JzLIcrRcldU6s) | 3:14 | 2024-08-22 | 2024-09-30 |
 | [Att vara själv och inte ensam alls](https://open.spotify.com/track/2kg9iuONImcFwLYanWJfvp) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Att vara själv och inte ensam alls](https://open.spotify.com/album/49dwPU6YrNSCtMEP1RyXQZ) | 3:42 | 2021-12-16 | 2022-03-10 |
 | [aura](https://open.spotify.com/track/7A63dexDM5NCXlICgq8RUc) | [Josef Slunge](https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd) | [ikväll, inatt, men aldrig imorgon](https://open.spotify.com/album/2iHZ5X0FRetrOOK6A97G9N) | 2:52 | 2023-02-23 | 2023-04-07 |
-| [Autonomi](https://open.spotify.com/track/0SByBQFFm5iFAwOcsgXc3p) | [Dunali](https://open.spotify.com/artist/6dyRenxXqh7MVyrtQ4SOJM) | [Autonomi](https://open.spotify.com/album/6FBSEyiDEC1YHH6npGeEiv) | 2:54 | 2026-02-12 |  |
+| [Autonomi](https://open.spotify.com/track/0SByBQFFm5iFAwOcsgXc3p) | [Dunali](https://open.spotify.com/artist/6dyRenxXqh7MVyrtQ4SOJM) | [Autonomi](https://open.spotify.com/album/6FBSEyiDEC1YHH6npGeEiv) | 2:54 | 2026-02-12 | 2026-04-18 |
 | [Autopilot](https://open.spotify.com/track/0JOY8MuzpGRFteDGsRVLkK) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Autopilot](https://open.spotify.com/album/42YP4aQ1sTjUZm54n5pRUI) | 2:51 | 2023-02-16 | 2023-07-23 |
 | [Avundsjuk på regnet](https://open.spotify.com/track/08jUQzPgECVJW9eQDHOiz7) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 2:42 | 2021-12-16 | 2022-09-16 |
 | [Awkward](https://open.spotify.com/track/0jIDBEwh9keW6w9IXnJLIf) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey mom, don’t worry I’m fine](https://open.spotify.com/album/4xfrjscotnULSQSFfjamgr) | 2:33 | 2024-01-11 | 2024-02-09 |
@@ -1201,6 +1201,7 @@
 | [luminary rainbows](https://open.spotify.com/track/3ekQzz3KHdp043leCnwRdX) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [luminary rainbows](https://open.spotify.com/album/4wEukq8iM8Bsj3db4gYxhr) | 4:52 | 2024-08-22 | 2024-10-11 |
 | [Lupins In Blue](https://open.spotify.com/track/1JDepuBvpnzV4BLIPvA2re) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Lupins In Blue](https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc) | 3:46 | 2023-10-05 | 2023-10-20 |
 | [Lurad](https://open.spotify.com/track/2BFbYXnJ6ap6yhwhX0xlYr) | [Laura Toth](https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22), [Albin Loán](https://open.spotify.com/artist/6n8c8YMCqNbs0veQjYdYga) | [Lurad](https://open.spotify.com/album/4KKf4zubsgMdQJYN2Yyoiu) | 2:05 | 2024-05-16 | 2024-06-14 |
+| [Lust](https://open.spotify.com/track/52Gd1OK0WZS13KZgPleUiD) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Lust // Tigeröga](https://open.spotify.com/album/2Q1C8ASSUHdI7si0nSFy1w) | 3:57 | 2026-04-16 |  |
 | [Lyckligt slut](https://open.spotify.com/track/3hWx0kVkf9NGvsSAVJTztH) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Lyckligt slut](https://open.spotify.com/album/5v523vH6jETswE88qO1I79) | 3:03 | 2022-02-26 | 2022-09-16 |
 | [LYNX](https://open.spotify.com/track/4frKt8mxwdrn1j5ZjmUYzI) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [LYNX I](https://open.spotify.com/album/2fC3UHh9KvXH9trmadGlCE) | 4:34 | 2026-01-08 | 2026-02-27 |
 | [Lägenhet](https://open.spotify.com/track/2D8g7zq3FJJABDoDOyjzgE) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Lägenhet](https://open.spotify.com/album/42DgTQe0SAFvMOsSAYCYTV) | 2:40 | 2025-09-04 | 2026-02-13 |

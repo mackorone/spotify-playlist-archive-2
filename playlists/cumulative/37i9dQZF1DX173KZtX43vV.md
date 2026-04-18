@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: K\-Trap, Headie One
 
-693 songs - 1 day 9 hr 47 min
+695 songs - 1 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [NEW TINGZ](https://open.spotify.com/track/4Pl2d8rQHO8hnFZR3RO244) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [THE IMPACT \(Deluxe\): PGLA Edition](https://open.spotify.com/album/3EUplPSI0pgkirQtANGobF) | 2:39 | 2026-03-27 | 2026-04-10 |
 | [New Trip \(feat\. Yeat & BNYX®\)](https://open.spotify.com/track/2lpLHJXgSGFU5GuIk8qzgs) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [New Trip \(feat\. Yeat & BNYX®\)](https://open.spotify.com/album/2HxI1pO2yc8XFnZfp7AvbL) | 3:27 | 2025-11-07 | 2025-11-21 |
 | [Ngolo](https://open.spotify.com/track/79yBRcZSYuQ2XpLAVfvQcM) | [elz laurent](https://open.spotify.com/artist/3J42J2YhuugaVgIy7p5UP7) | [Ngolo](https://open.spotify.com/album/1Xf6weCQgytpjqFZDUeEej) | 1:56 | 2026-04-02 | 2026-04-10 |
+| [Night , Blooming Jasmine .](https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Night , Blooming Jasmine .](https://open.spotify.com/album/5bajUbQGZ7f98jo1gfX0hc) | 2:58 | 2026-04-17 |  |
 | [Night Bus](https://open.spotify.com/track/4lzNhnPPUkyqavqQyqNnqz) | [Danny Sanchez](https://open.spotify.com/artist/73Urm8TgtoYR7Iavs8UTRL) | [Night Bus](https://open.spotify.com/album/6urop77k3bbfqbj6rSffxk) | 1:52 | 2025-11-28 | 2025-12-12 |
 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 | 2025-11-21 | 2025-12-05 |
 | [no friend, no lover](https://open.spotify.com/track/48tWTnNMgnlQuEP1gvwVIe) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [no friend, no lover](https://open.spotify.com/album/5YkSSqo5QIwTPouCJSAYMp) | 3:24 | 2026-03-06 | 2026-03-20 |
@@ -443,6 +444,7 @@
 | [NOTHING IS REAL](https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [NOTHING IS REAL](https://open.spotify.com/album/30V0p5iiu7YQXoz47Tek3v) | 3:06 | 2026-01-16 | 2026-01-30 |
 | [NOW OR NEVER II](https://open.spotify.com/track/3WIV7gukpFbj7YotPoUVb2) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [NOW OR NEVER II](https://open.spotify.com/album/4Qm3agfa6jg4nescfzLyy3) | 2:38 | 2026-02-06 | 2026-02-13 |
 | [Ntn but Pumpum](https://open.spotify.com/track/3vNsa92LjHqbLWVJtneuKm) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Just a Girl in a Money Man's World](https://open.spotify.com/album/2aV7R5ObcMh2s8xHtofqUE) | 2:34 | 2026-01-23 | 2026-01-30 |
+| [Numb](https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Numb](https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma) | 2:34 | 2026-04-17 |  |
 | [Numba 9 \(Call Me Heartless\)](https://open.spotify.com/track/4f4KQmRvRZUWFjweJw7gym) | [Adz](https://open.spotify.com/artist/3LKrYMU7uSlrqt6QbjOmw3), [bkayproducer](https://open.spotify.com/artist/4XuCohRQfXJKVtmlFu34wv) | [Numba 9 \(Call Me Heartless\)](https://open.spotify.com/album/63bmtao781baNo1BxphWEE) | 2:23 | 2025-11-07 | 2025-11-14 |
 | [October Fallacy](https://open.spotify.com/track/0BPwMgKjZGnjmYfNgYF2dS) | [Tony Bontana](https://open.spotify.com/artist/65KD0ITHfxE6ix28iRAZdl) | [My Name](https://open.spotify.com/album/1TtsTv9d0A8qU4FaygeF2l) | 2:16 | 2026-02-27 | 2026-03-13 |
 | [Officer, Pt\. 2](https://open.spotify.com/track/1wmJ47pSNRkxsyMyfemUPJ) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Officer, Pt\. 2](https://open.spotify.com/album/51rx6zehMft3Ud6HNw1MbR) | 3:04 | 2025-11-21 | 2025-12-12 |
@@ -507,7 +509,7 @@
 | [Reflections](https://open.spotify.com/track/6EiddSbc6b4quXfQvrVND1) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Reflections](https://open.spotify.com/album/6pM6v4BqKK85SuyZHwxHwM) | 3:34 | 2026-02-27 | 2026-03-13 |
 | [Regime](https://open.spotify.com/track/2FUmIQRaT4e5AwUtFvubcS) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Regime](https://open.spotify.com/album/5uJxJCsrlkMM2EN3t3Xx5i) | 2:48 | 2025-10-23 | 2025-10-31 |
 | [Remedy](https://open.spotify.com/track/1BC5ICKgJQiFbIWRqTsDV0) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Remedy](https://open.spotify.com/album/47wz4Jd9NtdNNStLsM7reV) | 3:13 | 2026-02-13 | 2026-02-20 |
-| [RERUN](https://open.spotify.com/track/6sU5Psf8N5Aq4517Sc9g24) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [RERUN](https://open.spotify.com/album/6gKn5nH8qm3hXkLtEkcK8M) | 2:24 | 2026-04-17 |  |
+| [RERUN](https://open.spotify.com/track/6sU5Psf8N5Aq4517Sc9g24) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [RERUN](https://open.spotify.com/album/6gKn5nH8qm3hXkLtEkcK8M) | 2:23 | 2026-04-17 |  |
 | [Respectfully Yours](https://open.spotify.com/track/5vInsjdXaM5ikAeRr1s1VK) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [Respectfully Yours](https://open.spotify.com/album/4WMBflGiNa3ntuXWq4PdHA) | 2:32 | 2025-11-21 | 2025-12-12 |
 | [Rest My Head](https://open.spotify.com/track/0G2Q5wbiyIQKJRTKLNcF0W) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Rest My Head](https://open.spotify.com/album/4certibWxN9ja22PNj4xIe) | 3:33 | 2026-03-20 | 2026-04-03 |
 | [risky](https://open.spotify.com/track/5yz9WYVGhteTugXMM1WmGG) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [risky](https://open.spotify.com/album/1ZQ8UxrinfnaemqED89I4X) | 2:35 | 2025-12-05 | 2025-12-19 |

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-963 songs - 2 day 10 hr 26 min
+965 songs - 2 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Birds Of A Feather](https://open.spotify.com/track/5Dvbo1f3XHHLh364PzZwim) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Saskamodie \(Deluxe Edition\)](https://open.spotify.com/album/1OwEGIDc0LNDtYwvS8hjXe) | 4:34 | 2025-07-09 | 2025-07-11 |
 | [Bizarre Love Triangle \- Remastered](https://open.spotify.com/track/3AJ7w7Un7IIMyRJ6PJ2pOJ) | [Even As We Speak](https://open.spotify.com/artist/76TkEBFTqaVNF4KWwaQudW) | [Blue Suburban Skies \(1987 Remastered\)](https://open.spotify.com/album/55mptKYNpfe7yjIdAlXK2H) | 2:02 | 2024-08-05 | 2024-08-29 |
 | [Blab La La](https://open.spotify.com/track/2Nj0ogi7PlkI5QcHoBuCpi) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Songbook](https://open.spotify.com/album/54LKAKGckAwMNo64tN5LO7) | 3:17 | 2026-03-12 |  |
+| [Black Eyed Susan](https://open.spotify.com/track/4F9lWUCeY9iqehF4Po5QCO) | [Paul Westerberg](https://open.spotify.com/artist/3N6WAAPHoIjo6na008793X) | [14 Songs](https://open.spotify.com/album/2UgKw2bpp1lqokUSXWD2uy) | 3:36 | 2026-04-17 |  |
 | [Black Milk](https://open.spotify.com/track/1Rezzt36ybaT2ZbDZpv83D) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 6:21 | 2026-04-09 |  |
 | [black wings](https://open.spotify.com/track/2VVIzZiJg5Rhnf4wd657lZ) | [Inc.](https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w) | [no world](https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr) | 4:05 | 2024-04-13 | 2024-05-16 |
 | [Blank Time](https://open.spotify.com/track/1aXDrYTE5igJKUygBgrPWN) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:57 | 2024-03-22 | 2024-05-16 |
@@ -576,6 +577,7 @@
 | [New Horizon](https://open.spotify.com/track/1m1C9bHjEKrY4FS63FZeDN) | [Section 25](https://open.spotify.com/artist/0WvBaBwebA8SOLSXUVh4ge) | [Always Now](https://open.spotify.com/album/2rt8lRE5VoWwI5GpfmMHqZ) | 6:01 | 2025-05-14 | 2025-07-04 |
 | [New Joy](https://open.spotify.com/track/7wriad6oBytAE04VvbKuno) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [EXCELSIOR](https://open.spotify.com/album/364BvIMiL3BsjqTJ9teX1E) | 3:16 | 2024-04-25 | 2024-05-16 |
 | [New Power](https://open.spotify.com/track/4jss2X2iCZjOU7zAUjc3zW) | [Cindy](https://open.spotify.com/artist/3vUqg3VWCLmEA1es1T4nGn) | [I'm Cindy](https://open.spotify.com/album/3obhwQ6jhn7Yy3ZGL6jwYt) | 3:16 | 2025-04-13 | 2026-01-15 |
+| [New York City Song](https://open.spotify.com/track/7DLirypUivO3MsTT4JLsIG) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Born to Be With You / Streetheart](https://open.spotify.com/album/0DOf8RoY5pxvrbDCEGlj7B) | 3:45 | 2026-04-17 |  |
 | [News from Verona](https://open.spotify.com/track/3x0QNpUibTxG8ImfedZkZ3) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Knee\-Deep In the North Sea](https://open.spotify.com/album/2A8c5znvmslp2I77dTBV1K) | 4:21 | 2025-06-12 | 2025-07-04 |
 | [Night\-Time Intermission](https://open.spotify.com/track/54bD0lIobLZhybCV06eCTw) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [5:55 \(Nouvelle Edition\)](https://open.spotify.com/album/6VbkZXFdiFyEbwY240h672) | 2:43 | 2025-10-29 | 2025-11-15 |
 | [Nina + Field of Cops](https://open.spotify.com/track/78ugJH8q6W3kiGLwM2K7Lg) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 5:52 | 2025-12-07 | 2026-01-15 |

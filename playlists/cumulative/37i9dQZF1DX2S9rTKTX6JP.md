@@ -4,7 +4,7 @@
 
 > killer rock & alternative covers\. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs
 
-388 songs - 1 day 1 hr 5 min
+389 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Heroes](https://open.spotify.com/track/3lmOamtAvijhSI7BbJz83C) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Kingdom \(Deluxe\)](https://open.spotify.com/album/2GQc28K68aHREbSgRPo7uo) | 4:08 | 2020-12-16 | 2025-01-18 |
 | [Heroes](https://open.spotify.com/track/3QQ8x0gMiRvRpcnE2auLoO) | [Hollywood Vampires](https://open.spotify.com/artist/3k4YA0uPsWc2PuOQlJNpdH) | [Heroes](https://open.spotify.com/album/1f3mUJxwqJB6QRgx2E7ZvP) | 4:08 | 2020-12-16 | 2022-07-29 |
 | [Heroes](https://open.spotify.com/track/5hdQmkxuRkkMfmT15cuISA) | [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N), [The Circle](https://open.spotify.com/artist/3AltEY6Hu4mXfegvDuDtqI) | [Heroes](https://open.spotify.com/album/3SoKTpu4wPnMItqjA8Ff6p) | 3:07 | 2020-12-16 | 2025-01-18 |
+| [Hey Ya! \(feat\. Mat Mitchell of Puscifer\)](https://open.spotify.com/track/3BXgm8kEDnAOdEXcA6Ibww) | [Return to Dust](https://open.spotify.com/artist/53Hm23U3dtaHeB5Oy6GbaS), [Mat Mitchell](https://open.spotify.com/artist/2l4SKWpVn9N9ijGv1Uwq0V) | [Hey Ya!](https://open.spotify.com/album/32d3kieE7LT6ouSfEyx5he) | 3:18 | 2026-04-17 |  |
 | [Hey Ya! \- Live Session from Spotify Studios NYC](https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Spotify Singles](https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh) | 3:04 | 2022-03-25 | 2025-01-18 |
 | [High and Dry](https://open.spotify.com/track/0bxvpzpvyWYCYYi6o7lHQB) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [High and Dry](https://open.spotify.com/album/1Wxkr35ghTKfDabmXQIn2K) | 4:26 | 2025-01-17 | 2025-03-29 |
 | [Higher Ground \- Remastered 2003](https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:22 | 2020-12-16 |  |
@@ -237,7 +238,7 @@
 | [Miss Independent \- Spotify Singles](https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Spotify Singles](https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL) | 3:32 | 2023-06-16 | 2024-06-15 |
 | [Miss Murder \- From The “American Psycho” Comic Series Soundtrack](https://open.spotify.com/track/2pXqBJbCbDQ6rmmfpdAKst) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Miss Murder \(From The “American Psycho” Comic Series Soundtrack\)](https://open.spotify.com/album/7gQot3rgf5B3A3lL4muhAp) | 3:00 | 2024-09-13 |  |
 | [Mississippi Queen](https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Mississippi Queen/Slow Hand](https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp) | 2:32 | 2020-12-16 | 2025-01-18 |
-| [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 | 2020-12-16 |  |
+| [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 | 2020-12-16 | 2026-04-18 |
 | [Nightmare](https://open.spotify.com/track/5916P1HiQM5R5SxTC2Y510) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Covers Collection, Vol\. 1](https://open.spotify.com/album/4RPlOjAwTVDGqt5kZIumGR) | 3:55 | 2022-03-25 | 2022-11-26 |
 | [No Ordinary Love \- 2005 Remaster](https://open.spotify.com/track/2lwkf3MVqTYmo5NoAoWFqN) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5) | 5:30 | 2022-03-25 | 2025-01-18 |
 | [No Rain](https://open.spotify.com/track/2pPUp719PiWcXFGxJCVzgD) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [No Rain](https://open.spotify.com/album/2gTHSUAhQJmBqlFT5FbcYX) | 3:37 | 2020-12-16 | 2022-07-18 |

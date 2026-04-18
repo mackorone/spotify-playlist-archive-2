@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-321 songs - 16 hr 25 min
+322 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/15ITqJqQ7f3EW9HmSQnzR4) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/0ldEDXECSxV2KJrwScStqq) | 2:59 | 2021-10-01 | 2023-12-14 |
 | [Dancing Queen \- Acoustic](https://open.spotify.com/track/4PGaZTakItG48FENLQhDyv) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Dancing Queen \(Acoustic\)](https://open.spotify.com/album/70EnDLWEFJv2HyqaFuxlCt) | 2:23 | 2024-10-04 | 2026-02-28 |
 | [Daydream Believer \- Acoustic](https://open.spotify.com/track/2tq6QHha0InhddKVEbfHiy) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Daydream Believer \(Acoustic\)](https://open.spotify.com/album/3qwvjINzC7FN11ZRxVwmsE) | 2:13 | 2023-03-17 | 2024-03-04 |
-| [Dignity \- Acoustic](https://open.spotify.com/track/6WaOpI5POr5KaIFiOTIb1E) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Dignity \(Acoustic\)](https://open.spotify.com/album/79Dxyo0UTmGpOn14wgQWDM) | 2:53 | 2021-05-28 |  |
+| [Dignity \- Acoustic](https://open.spotify.com/track/6WaOpI5POr5KaIFiOTIb1E) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Dignity \(Acoustic\)](https://open.spotify.com/album/79Dxyo0UTmGpOn14wgQWDM) | 2:53 | 2021-05-28 | 2026-04-18 |
 | [Don't Dream It's Over](https://open.spotify.com/track/4VFM638fhpRTmkyJ69fSWE) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Dave Moffatt](https://open.spotify.com/artist/7qwDy02WdmGebMlToaDyoY) | [Don't Dream It's Over](https://open.spotify.com/album/5rxtBTtwKhso4luWXRjj8t) | 3:27 | 2025-02-28 | 2025-04-26 |
 | [Don't Speak \- Acoustic](https://open.spotify.com/track/5x3YOV6iWvn4fe76r6uu61) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Don't Speak \(Acoustic\)](https://open.spotify.com/album/5j7PmYcdv8uHKESf2Byzdy) | 2:20 | 2019-10-13 | 2024-03-09 |
 | [Don't Stop \- Acoustic](https://open.spotify.com/track/4oVMAdooQBRZrhsK5tlPOm) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Don't Stop \(Acoustic\)](https://open.spotify.com/album/2GzqGJVYPGFlz13klXHfqY) | 2:37 | 2023-08-21 | 2023-12-14 |
@@ -143,6 +143,7 @@
 | [In Too Deep \- Acoustic](https://open.spotify.com/track/6dhDsUbIB96e1UX8d0UKHW) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Cloudsmiff](https://open.spotify.com/artist/0pXvuDolUqUJHNimEsgdM6) | [In Too Deep \(Acoustic\)](https://open.spotify.com/album/017Bceqexkn7Lrxd9ZEhM7) | 2:19 | 2024-07-26 |  |
 | [Iris \- Acoustic](https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Iris \(Acoustic\)](https://open.spotify.com/album/09zreN7tA6FV36rqUWmzpY) | 2:35 | 2020-11-04 | 2023-01-28 |
 | [Iris \- Acoustic](https://open.spotify.com/track/2bvnbXhGaMnl8QBYqzbHdD) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Iris \(Acoustic\)](https://open.spotify.com/album/3C6YfaOgmdH7A40A6JHuMU) | 3:02 | 2023-08-21 | 2023-12-16 |
+| [Is This Love](https://open.spotify.com/track/2sdG8ZtBKElSwKyy93r6q3) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Is This Love](https://open.spotify.com/album/1vVTVWhbHYANSpm5c9im74) | 2:51 | 2026-04-17 |  |
 | [Is This Love \- Acoustic](https://open.spotify.com/track/2tEQ3siZZLl82xeX5IOZaJ) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Is This Love \(Acoustic\)](https://open.spotify.com/album/4MrABMjlVpUJ1QllzRRrwv) | 3:57 | 2023-06-16 | 2023-08-06 |
 | [Is This Love \- Acoustic](https://open.spotify.com/track/4JGlFaRIOBZ9j2DQaDXmVw) | [Lizzie Haynes](https://open.spotify.com/artist/5ktwL8uLtQzLeGwJzqE0wE) | [Is This Love \(Acoustic\)](https://open.spotify.com/album/4q1wY0maG1DpmxLFsBU3Cs) | 2:51 | 2025-03-07 |  |
 | [Issues \- Acoustic](https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1) | 2:55 | 2019-10-13 |  |
@@ -272,7 +273,7 @@
 | [Time After Time \- Acoustic](https://open.spotify.com/track/6E5nFQmuLN1L8k5qSzCQzB) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30) | [Time After Time \(Acoustic\)](https://open.spotify.com/album/5uxvXq75wFr9uRKR1QVVKq) | 3:04 | 2025-01-10 | 2026-01-06 |
 | [Too Good At Goodbyes \- Acoustic](https://open.spotify.com/track/7ejps6ztLxyZD74tHrTdEj) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes \(Acoustic\)](https://open.spotify.com/album/6yjWw8pTnhYM4y4jfbGSFY) | 3:40 | 2019-10-13 |  |
 | [Total Eclipse of the Heart \- Acoustic](https://open.spotify.com/track/3IkEaYtOxzAbRNtfM1bfiZ) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI), [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Total Eclipse of the Heart \(Acoustic\)](https://open.spotify.com/album/2sS9ty7Uxew3M0AgpulZUw) | 2:40 | 2023-06-02 | 2023-12-14 |
-| [Treasure](https://open.spotify.com/track/31Ctlmul6mkj9MYrLwKuMU) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Treasure](https://open.spotify.com/album/1Bk8Z6dsSdL0KNBQCo4xtd) | 3:09 | 2025-05-31 |  |
+| [Treasure](https://open.spotify.com/track/31Ctlmul6mkj9MYrLwKuMU) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Treasure](https://open.spotify.com/album/1Bk8Z6dsSdL0KNBQCo4xtd) | 3:09 | 2025-05-31 | 2026-04-18 |
 | [Treasure \- Acoustic](https://open.spotify.com/track/3HzIzYnG0DsW7qSmndarxS) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [Treasure \(Acoustic\)](https://open.spotify.com/album/5C8eQcdqEPF3cpLDp9IRWj) | 2:44 | 2023-09-17 | 2025-02-10 |
 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 | 2019-10-13 |  |
 | [True Colours \- Acoustic](https://open.spotify.com/track/5Yx9ReP3EazFEfqrPAwIos) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05), [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [True Colours \(Acoustic\)](https://open.spotify.com/album/2OEt8n5TKNKKaPV947Zr2O) | 3:06 | 2023-04-10 | 2024-03-04 |

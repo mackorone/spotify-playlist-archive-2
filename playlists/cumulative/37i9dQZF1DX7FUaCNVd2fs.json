@@ -808,7 +808,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 132375,
       "name": "C\u00e1diz",
       "url": "https://open.spotify.com/track/2fQTBDA81IyaYgtr2Gz4Wl"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 133369,
       "name": "Goodmight",
       "url": "https://open.spotify.com/track/7rLMGoaWru8BOjoU73vXO1"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 157968,
       "name": "nocturnal summer",
       "url": "https://open.spotify.com/track/5fGKMCSBHAhRW9923UBO3c"
@@ -2833,6 +2833,24 @@
     },
     {
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/2mJFpccyjiPt903U8ZY39I"
+      },
+      "artists": [
+        {
+          "name": "Dunham Froebel",
+          "url": "https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/6FsVO8bWdKeuRxV2JEqo5n"
+    },
+    {
+      "album": {
         "name": "Flourishing",
         "url": "https://open.spotify.com/album/2iybo2YjIrMyHuYmhIcbd8"
       },
@@ -3240,7 +3258,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 137442,
       "name": "Song For The Newborn",
       "url": "https://open.spotify.com/track/1CTHH2Qa0jf2s0rsVLfyuG"

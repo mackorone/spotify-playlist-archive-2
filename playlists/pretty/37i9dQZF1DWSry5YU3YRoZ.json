@@ -403,6 +403,22 @@
     {
       "added_at": "2026-04-13 05:49:24",
       "album": {
+        "name": "Plant",
+        "url": "https://open.spotify.com/album/5KftzhKELNjc4oxGiGQvRf"
+      },
+      "artists": [
+        {
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "In My Dream",
+      "url": "https://open.spotify.com/track/59aPed7AGGtbC4ro8Bc6BW"
+    },
+    {
+      "added_at": "2026-04-13 05:49:24",
+      "album": {
         "name": "Hide and Seek (feat. kimminseong)",
         "url": "https://open.spotify.com/album/18soFYAFOWDmjUpL4R09bG"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 224267,
       "name": "Hide and Seek (feat. kimminseong)",
       "url": "https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP"
-    },
-    {
-      "added_at": "2026-04-13 05:49:24",
-      "album": {
-        "name": "Plant",
-        "url": "https://open.spotify.com/album/5KftzhKELNjc4oxGiGQvRf"
-      },
-      "artists": [
-        {
-          "name": "KIMSEJEONG",
-          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "In My Dream",
-      "url": "https://open.spotify.com/track/59aPed7AGGtbC4ro8Bc6BW"
     },
     {
       "added_at": "2026-04-13 05:49:24",

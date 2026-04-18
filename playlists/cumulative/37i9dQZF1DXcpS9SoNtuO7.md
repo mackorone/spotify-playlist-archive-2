@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-913 songs - 4 day 2 hr 48 min
+917 songs - 4 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Now On Air](https://open.spotify.com/track/0h6OBFc9TfS6yC3witap3K) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [Now On Air](https://open.spotify.com/album/2VijDt0AFtEeFvpv4Z6k6E) | 3:01 | 2024-08-28 | 2025-01-27 |
 | [nowhere](https://open.spotify.com/track/6fjpc5Rhhj9H0jgOMNVbzd) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『MADLAX』オープニングテーマ「瞳の欠片」](https://open.spotify.com/album/0imp9L18jxeZSdwxAG9Ke5) | 3:42 | 2023-05-16 | 2024-01-24 |
 | [Oh UnHappy Day](https://open.spotify.com/track/328LCQqgTF68bk22EEn0LN) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Oh UnHappy Day](https://open.spotify.com/album/6gK3gjnDCPerjSu7NfSvcb) | 3:35 | 2025-01-27 | 2025-05-03 |
+| [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 | 2026-04-17 |  |
 | [ONE LIFE](https://open.spotify.com/track/4v4R6b5a8lIu7WtS2qQpxv) | [the pillows](https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR) | [ONE LIFE](https://open.spotify.com/album/6n5XshtnMPuVaWMlgE9iCW) | 4:09 | 2025-05-02 | 2026-01-15 |
 | [ONE STAR](https://open.spotify.com/track/5Zf6yaKOa04PpACtkmRV1l) | [小宮果穂 \(CV.河野ひより\)](https://open.spotify.com/artist/2s435Lh8uV55s0UDIMYJp6), [黛 冬優子 \(CV.幸村恵理\)](https://open.spotify.com/artist/4LkBDLtM2IWNQuzIfm9wF0), [和泉愛依 \(CV.北原沙弥香\)](https://open.spotify.com/artist/5EL1PeXHLhtARmaFhNeCTT) | [THE IDOLM@STER SHINY COLORS シャイニーPRオファー Vol.2](https://open.spotify.com/album/6C9W1zDkMKQqRkRiCUnsDA) | 4:15 | 2025-01-27 | 2025-05-03 |
 | [only my railgun](https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl) | 4:17 | 2022-06-07 | 2023-01-12 |
@@ -526,6 +527,7 @@
 | [さくらんぼキッス\~爆発だも\~ん\~ \(2022mix\)](https://open.spotify.com/track/2eDXclH340GEDRaeMNSXNF) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9) | [すぅぃ\~とさいくろん\-☆いぇいっ☆\-](https://open.spotify.com/album/40UFF2n3AOPoYiogy1Nvi3) | 4:52 | 2022-07-05 | 2023-07-12 |
 | [さよなら人類](https://open.spotify.com/track/11KrQh66c5CUAtEsBxvidg) | [さくらこ&ムームー](https://open.spotify.com/artist/6c9ECxeQcqGFXQN5esjnoF) | [さよなら人類](https://open.spotify.com/album/0Er79arlNOjH45sG2H1l2y) | 5:24 | 2025-06-25 | 2026-02-03 |
 | [じゃんけんキング](https://open.spotify.com/track/0Wq9d8wGW3mnQf2TTfb6TT) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [ポップ・ステップ・ジャンプ！](https://open.spotify.com/album/2hE5ZoJgNozBoEV1WK8Rzi) | 3:41 | 2023-10-11 | 2024-01-24 |
+| [じょいふるしあんてっ!](https://open.spotify.com/track/6ZMQHoZDvoXJ6G65m2MAXO) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [PENTA+LOGUE](https://open.spotify.com/album/3JXFy918H0bJ3Akn3n8uEV) | 3:59 | 2026-04-17 |  |
 | [そばかす](https://open.spotify.com/track/0IL7LGrnYObWYyYaJ3GzWr) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [そばかす](https://open.spotify.com/album/5Vl05dEPdeLwUXc6OIcrrT) | 4:15 | 2022-12-07 | 2026-01-15 |
 | [そんな僕らの冒険譚！](https://open.spotify.com/track/3ddxBxkq3W3OwHaK2iGVDA) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [そんな僕らの冒険譚！](https://open.spotify.com/album/0vMJJSK5cjBcbkU21qhHCS) | 3:10 | 2025-01-27 | 2025-05-03 |
 | [ちいさな蕾](https://open.spotify.com/track/0Smvig0u9w4eh9XQas3TKf) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [ちいさな蕾](https://open.spotify.com/album/4cpyjFrwBAWq2koEiTqIPD) | 3:38 | 2024-08-28 | 2025-01-27 |
@@ -651,6 +653,7 @@
 | [ハニージェットコースター](https://open.spotify.com/track/5SucxRQYFHqB2YEPKN35iw) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [ハニージェットコースター](https://open.spotify.com/album/6PRPWkHY4EfDWMt5mK0jut) | 3:35 | 2022-06-22 | 2023-01-12 |
 | [ハネムーン](https://open.spotify.com/track/0cx2aU8bSllKMX1p6KQ9ky) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [ハネムーン](https://open.spotify.com/album/3Pc5r8zpa0oqfedvi6jmIJ) | 4:30 | 2023-01-27 | 2023-07-12 |
 | [ハピネス](https://open.spotify.com/track/14GrpPBazpGF5Y8Wfurv1U) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [ハピネス](https://open.spotify.com/album/5Bfc1BsJvJdMubPx0NZUfx) | 3:12 | 2022-06-07 | 2022-06-23 |
+| [ハリケーンミキサー](https://open.spotify.com/track/0HRiRWRKWq5HweyzMUR2p4) | [新谷良子](https://open.spotify.com/artist/4dOnIqVu7ZFI6Fn3aD3HMx) | [Wonderful World](https://open.spotify.com/album/5uGZvtxyyTIg99H7NOwRsM) | 3:47 | 2026-04-17 |  |
 | [ハレ晴レユカイ](https://open.spotify.com/track/4UvfjzLmFls3J4K7FMJqiI) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj), [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ), [後藤邑子](https://open.spotify.com/artist/125fR1G9GJOC9YD8ZQ7a0Q) | [ハレ晴レユカイ](https://open.spotify.com/album/29sBpzU1jrSMVGaXYR0rnc) | 3:37 | 2022-08-16 | 2023-01-28 |
 | [ハートはお手上げ](https://open.spotify.com/track/4cz4rzNSj4CCHiDQc2jeCI) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/5mH5JPr8LDLvwYmcNN6T5F) | 3:48 | 2022-09-27 | 2023-01-12 |
 | [バクチ・ダンサー](https://open.spotify.com/track/2cucUAYQFgVr1hvueBspxL) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [MODERN AGE](https://open.spotify.com/album/3tm1HVeOpJCXiSe5fcq7Ic) | 2:55 | 2025-06-25 | 2026-02-03 |
@@ -685,6 +688,7 @@
 | [ホホエミノオト](https://open.spotify.com/track/2uhdqZMXkpcyNRTFxwhxIe) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [ホホエミノオト](https://open.spotify.com/album/1vpm8ZmlrelreGQKIpL1i1) | 4:10 | 2024-05-21 | 2025-01-27 |
 | [マイハートリバイバル](https://open.spotify.com/track/2W5gFliehqCrXVsmVcswHK) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Re Bon Voyage](https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I) | 3:37 | 2024-01-28 | 2024-07-06 |
 | [マジンガーZ \(マジンガーZ\)](https://open.spotify.com/track/3pHRdgmp5uDRJG9kiWebkY) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [Golden Rules](https://open.spotify.com/album/2AljwS5uItEnGlltqBA7m7) | 1:52 | 2022-12-21 | 2023-01-12 |
+| [マズルフラッシュ！](https://open.spotify.com/track/4aOr8B9uP0Kd80sfImbyD9) | [青木陽菜](https://open.spotify.com/artist/5mUGS61tvbFlPgRW3ibdbx) | [Letters](https://open.spotify.com/album/1BVFx6weGwbnVnkxb58CqJ) | 3:55 | 2026-04-17 |  |
 | [マメシバ](https://open.spotify.com/track/6k4dbuGMvdA6OqS4ndLXII) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ルーシー](https://open.spotify.com/album/7ALU9InqPU79M2k9fD4Yyy) | 6:07 | 2023-09-20 | 2024-01-24 |
 | [ミスター・ダーリン](https://open.spotify.com/track/6FZJ2QrFr1yY1NtcGbQexA) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [ミスター・ダーリン / ギミギミコール \(Complete Edition\)](https://open.spotify.com/album/5AIDbavUjnXZPQk4VZ6AeL) | 4:07 | 2022-06-07 | 2022-06-23 |
 | [ミッドナイト・リフレクション](https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ミッドナイト・リフレクション](https://open.spotify.com/album/2ikaiGXxmfc3ENG4BjxMcq) | 3:41 | 2025-05-02 | 2026-01-15 |

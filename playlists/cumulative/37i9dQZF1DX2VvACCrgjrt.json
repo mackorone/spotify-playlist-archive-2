@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 188816,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/5F3FnQzZNX2ZeKYDoCHaMl"
@@ -5157,6 +5157,24 @@
     },
     {
       "album": {
+        "name": "Club Action",
+        "url": "https://open.spotify.com/album/3dt5iDHyjAS4wMxex3DNNl"
+      },
+      "artists": [
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120923,
+      "name": "Club Action",
+      "url": "https://open.spotify.com/track/66jixnjyNzoRqe6TabX41p"
+    },
+    {
+      "album": {
         "name": "Clutch",
         "url": "https://open.spotify.com/album/5IgswjG1HmPdCBejwiAb20"
       },
@@ -8048,6 +8066,24 @@
     {
       "album": {
         "name": "Everyday",
+        "url": "https://open.spotify.com/album/36poUrVEJVkcHABIVxlqv3"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/2GMHlcrfeNgqRxmuM85LTb"
+    },
+    {
+      "album": {
+        "name": "Everyday",
         "url": "https://open.spotify.com/album/5BUTHQghk5eg7sQax6FJs5"
       },
       "artists": [
@@ -9134,6 +9170,32 @@
       "duration_ms": 191739,
       "name": "FOREIGN",
       "url": "https://open.spotify.com/track/4Tkv9VdNUyHm86TNlnl7Xy"
+    },
+    {
+      "album": {
+        "name": "Fotopaparazzi (ft. Jon Z)",
+        "url": "https://open.spotify.com/album/0yJcjogROmyReERdHLtDuq"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140770,
+      "name": "Fotopaparazzi (ft. Jon Z)",
+      "url": "https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2"
     },
     {
       "album": {
@@ -10690,7 +10752,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 181850,
       "name": "Good Girls",
       "url": "https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7"
@@ -11760,7 +11822,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 184222,
       "name": "Holy",
       "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
@@ -12036,7 +12098,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 213107,
       "name": "Hyper",
       "url": "https://open.spotify.com/track/2uU2Yz2R2ygmhy29cUeYD9"
@@ -12534,7 +12596,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 194076,
       "name": "Ice Cold",
       "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
@@ -12720,6 +12782,24 @@
       "duration_ms": 187906,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/6uvPxsEsLodSsWTsBBrS0s"
+    },
+    {
+      "album": {
+        "name": "In My System",
+        "url": "https://open.spotify.com/album/0YnjAx0aZhETxrbYILoGLn"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180004,
+      "name": "In My System",
+      "url": "https://open.spotify.com/track/5XFEApc6uwSKYTbZTMwnbx"
     },
     {
       "album": {
@@ -14100,7 +14180,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 204695,
       "name": "Lick It",
       "url": "https://open.spotify.com/track/0JoaUkfqUIonNgxBq8wvwD"
@@ -15084,7 +15164,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 191139,
       "name": "Make Some Noise",
       "url": "https://open.spotify.com/track/4maoPRr7kjuafK4oZBoF6o"
@@ -16098,7 +16178,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 164954,
       "name": "My Body",
       "url": "https://open.spotify.com/track/6HFnh0hW2q0j7XpuXd02cr"
@@ -19351,6 +19431,24 @@
     },
     {
       "album": {
+        "name": "Puro",
+        "url": "https://open.spotify.com/album/22srco1Lk4IBlije5dSRBM"
+      },
+      "artists": [
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148615,
+      "name": "Puro",
+      "url": "https://open.spotify.com/track/3LKszwOmyeZyphhwlJ0tWm"
+    },
+    {
+      "album": {
         "name": "PURRITO",
         "url": "https://open.spotify.com/album/7BoIRZP3g0jRztON2uo7Cu"
       },
@@ -21417,6 +21515,24 @@
     },
     {
       "album": {
+        "name": "SHAKEUP",
+        "url": "https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "SHAKEUP",
+      "url": "https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7"
+    },
+    {
+      "album": {
         "name": "Shalala",
         "url": "https://open.spotify.com/album/7y6Znxh8mmSubMCbwqZBKv"
       },
@@ -23054,7 +23170,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 135692,
       "name": "T.A.S.T.E.",
       "url": "https://open.spotify.com/track/1mIphNjyFAp2SecLo9GsEG"
@@ -23142,6 +23258,24 @@
       "duration_ms": 155550,
       "name": "Taka Taka",
       "url": "https://open.spotify.com/track/0NVYKISyo8GbUJ6ArFyKCy"
+    },
+    {
+      "album": {
+        "name": "Taka Taka",
+        "url": "https://open.spotify.com/album/2FmArT4SzjcIx5PXfV1GQU"
+      },
+      "artists": [
+        {
+          "name": "Carlo Giannico",
+          "url": "https://open.spotify.com/artist/74Nbq1eideEYDmQdz8ZXSf"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Taka Taka",
+      "url": "https://open.spotify.com/track/72BJos9sh1LYO8zt57OH0a"
     },
     {
       "album": {
@@ -24202,6 +24336,28 @@
       "duration_ms": 212934,
       "name": "The Grave",
       "url": "https://open.spotify.com/track/7tPbw62QKVG3N0fPlxrvtJ"
+    },
+    {
+      "album": {
+        "name": "The Grind",
+        "url": "https://open.spotify.com/album/7hLJK7LkfAdOWsgw4P58bd"
+      },
+      "artists": [
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
+        },
+        {
+          "name": "Hood Rich",
+          "url": "https://open.spotify.com/artist/6VsCebtxRP7GhBxmOnb2oA"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "The Grind",
+      "url": "https://open.spotify.com/track/4enmdfVbfaArrN3m6hQSyx"
     },
     {
       "album": {
@@ -25374,6 +25530,28 @@
       "duration_ms": 148615,
       "name": "Twisted Riddim",
       "url": "https://open.spotify.com/track/0STlw9Eo1cKhXSeUi62xNk"
+    },
+    {
+      "album": {
+        "name": "U & ME",
+        "url": "https://open.spotify.com/album/433VQEYDhFGhhGxfhMhEyN"
+      },
+      "artists": [
+        {
+          "name": "BOMBAYS",
+          "url": "https://open.spotify.com/artist/7A4VOBpGKQHvPpbdNqQHmC"
+        },
+        {
+          "name": "Juush",
+          "url": "https://open.spotify.com/artist/4E3LoXmQVgt6uWJvAw9Olo"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214545,
+      "name": "U & ME",
+      "url": "https://open.spotify.com/track/5L6xTg47yECFHbri9otF85"
     },
     {
       "album": {

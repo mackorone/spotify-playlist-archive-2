@@ -1,13 +1,33 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 168025,
+  "num_followers": 168072,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPSY0DYkbGUNlDP6rv2ijIhOLfaL",
+  "snapshot_id": "AAAAAOuotS33aG8w0wy0e106TueSpyCa",
   "tracks": [
+    {
+      "added_at": "2026-04-17 04:00:49",
+      "album": {
+        "name": "If I Only Had A Brain",
+        "url": "https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "If I Only Had A Brain",
+      "url": "https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ"
+    },
     {
       "added_at": "2026-04-10 04:00:36",
       "album": {
@@ -247,26 +267,6 @@
       "duration_ms": 349228,
       "name": "In The Still Of The Night",
       "url": "https://open.spotify.com/track/2EsvJgqybdGiwFdViEvPgr"
-    },
-    {
-      "added_at": "2026-02-20 05:00:31",
-      "album": {
-        "name": "Mean To Me",
-        "url": "https://open.spotify.com/album/5tlr80pnA12qL8t47TNUbK"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "Mean To Me",
-      "url": "https://open.spotify.com/track/4Tp6SPIAAwGMuRZBzMZh1c"
     },
     {
       "added_at": "2026-02-13 05:00:20",

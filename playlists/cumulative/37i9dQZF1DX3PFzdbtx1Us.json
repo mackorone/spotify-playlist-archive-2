@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 122560,
       "name": "Au matin du magicien",
       "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 136625,
       "name": "Deadwood",
       "url": "https://open.spotify.com/track/4SsVMBWIuhUDNJY7rQovkj"
@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 178500,
       "name": "Kalopsia",
       "url": "https://open.spotify.com/track/3XebcloY8ola1VTGRm6aLP"
@@ -3520,7 +3520,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 128213,
       "name": "La Luz De La Primavera",
       "url": "https://open.spotify.com/track/2ommqT5NELWdMHjcKN5tTG"
@@ -3538,7 +3538,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 120431,
       "name": "lachlan",
       "url": "https://open.spotify.com/track/3244j0tITFKsVbSrc0fUya"
@@ -4341,6 +4341,24 @@
     },
     {
       "album": {
+        "name": "My Dancing Princess",
+        "url": "https://open.spotify.com/album/6yhvPyx8E1LR9eXUnnQNor"
+      },
+      "artists": [
+        {
+          "name": "Carl Leming",
+          "url": "https://open.spotify.com/artist/75cC6xWfjUUgbN3NkhdpGa"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136171,
+      "name": "My Dancing Princess",
+      "url": "https://open.spotify.com/track/6TK6kxzXtT52uZWr36J2JI"
+    },
+    {
+      "album": {
         "name": "My love",
         "url": "https://open.spotify.com/album/2Z9vPeJtT5Y9S0iNoytxMC"
       },
@@ -4622,7 +4640,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 127000,
       "name": "Nordanvind",
       "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
@@ -5630,7 +5648,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 214675,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/5N56pgOicPJjfMsYV5ppyK"
@@ -6898,7 +6916,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 121732,
       "name": "Toivoa",
       "url": "https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q"

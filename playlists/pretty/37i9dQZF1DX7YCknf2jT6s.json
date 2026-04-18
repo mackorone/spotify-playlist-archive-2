@@ -6,13 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPR3T+bzHfSz7J+Mauz39zHcblps",
+  "snapshot_id": "AAAAAGAdr2iYnusZuCFAF8ON6tteE4LM",
   "tracks": [
     {
-      "added_at": "2026-04-03 04:02:24",
+      "added_at": "2026-04-17 04:03:56",
       "album": {
-        "name": "Mi Gente",
-        "url": "https://open.spotify.com/album/7ajeoiQbCQyagI2TVc9kkR"
+        "name": "We Dream",
+        "url": "https://open.spotify.com/album/5GKB6CiMv3smXxbDTte4yV"
       },
       "artists": [
         {
@@ -20,17 +20,85 @@
           "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
         },
         {
-          "name": "Christian Scott aTunde Adjuah",
-          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
-        },
-        {
-          "name": "Chief Adjuah",
-          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+          "name": "Tarriona 'Tank' Ball",
+          "url": "https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN"
         }
       ],
-      "duration_ms": 365600,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/7ccEEiWbkZRgY0bSSmv7aC"
+      "duration_ms": 326946,
+      "name": "We Dream",
+      "url": "https://open.spotify.com/track/3Vm6ZcXBungAt8Dc18PqIg"
+    },
+    {
+      "added_at": "2026-04-17 04:03:56",
+      "album": {
+        "name": "Younge",
+        "url": "https://open.spotify.com/album/37nNm3RVTz6KulC5r0O6ey"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "duration_ms": 207984,
+      "name": "Different Directions",
+      "url": "https://open.spotify.com/track/4djRjoWKtRg33y7xJYKaWo"
+    },
+    {
+      "added_at": "2026-04-17 04:03:56",
+      "album": {
+        "name": "Call to the Void",
+        "url": "https://open.spotify.com/album/1QrNQOe4yO2ddTE3SxbNqV"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 270906,
+      "name": "Mount Analogue",
+      "url": "https://open.spotify.com/track/0l9x68utG0aj2xZsXMPILT"
+    },
+    {
+      "added_at": "2026-04-17 04:03:56",
+      "album": {
+        "name": "Into Africa",
+        "url": "https://open.spotify.com/album/75AhYvMymI5kHMXkJZvFqm"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Burniss Travis",
+          "url": "https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Rane Moore",
+          "url": "https://open.spotify.com/artist/2J8IfJdj7z7BwB1SwLlNBe"
+        },
+        {
+          "name": "Zekkereya El-Magharbel",
+          "url": "https://open.spotify.com/artist/7KimbJw1zGH4bOmvKt6BaF"
+        },
+        {
+          "name": "Sara Caswell",
+          "url": "https://open.spotify.com/artist/5vWTZJJWBwmB2b5Nl2FWxm"
+        }
+      ],
+      "duration_ms": 508680,
+      "name": "Into Africa",
+      "url": "https://open.spotify.com/track/1vVIUgOv7LbmYJ8UBJHWWY"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -203,22 +271,6 @@
       "duration_ms": 479434,
       "name": "Lady Day",
       "url": "https://open.spotify.com/track/3wN9L2rab86vxt91eW5cgB"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Respond to Sound",
-        "url": "https://open.spotify.com/album/5cce7khO3pymis7LZ4kuoR"
-      },
-      "artists": [
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        }
-      ],
-      "duration_ms": 191753,
-      "name": "Respond to Sound",
-      "url": "https://open.spotify.com/track/06RocQbgd52XlaWaX3haRK"
     },
     {
       "added_at": "2026-04-03 04:02:24",
@@ -515,46 +567,6 @@
       "duration_ms": 193770,
       "name": "Metric Rules",
       "url": "https://open.spotify.com/track/2IF9pQyd0K1BV7OC0Z2a0n"
-    },
-    {
-      "added_at": "2026-03-20 04:00:54",
-      "album": {
-        "name": "Sister Annie",
-        "url": "https://open.spotify.com/album/6NXYfUiqNJl5sOIYxovlox"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        },
-        {
-          "name": "Burniss Travis",
-          "url": "https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        },
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
-        },
-        {
-          "name": "Rane Moore",
-          "url": "https://open.spotify.com/artist/2J8IfJdj7z7BwB1SwLlNBe"
-        },
-        {
-          "name": "Zekkereya El-Magharbel",
-          "url": "https://open.spotify.com/artist/7KimbJw1zGH4bOmvKt6BaF"
-        },
-        {
-          "name": "Sara Caswell",
-          "url": "https://open.spotify.com/artist/5vWTZJJWBwmB2b5Nl2FWxm"
-        }
-      ],
-      "duration_ms": 350295,
-      "name": "Sister Annie",
-      "url": "https://open.spotify.com/track/3asAyVx1OdynBHNWGRiQis"
     },
     {
       "added_at": "2026-03-20 04:00:54",
@@ -971,22 +983,6 @@
       "duration_ms": 153142,
       "name": "Blueberry",
       "url": "https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc"
-    },
-    {
-      "added_at": "2026-01-23 05:00:34",
-      "album": {
-        "name": "Call to the Void",
-        "url": "https://open.spotify.com/album/1j9ZTeKQURsabBeEDHZ1fh"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 301810,
-      "name": "Call to the Void",
-      "url": "https://open.spotify.com/track/0ncPxlgGwoVH4CkPrpviIq"
     },
     {
       "added_at": "2026-02-13 05:34:15",

@@ -1,6 +1,6 @@
 {
   "description": "New music from Tyla & Zara Larsson, Felo Le Tee, Vanco & Deela, Olivia Rodrigo and more.",
-  "num_followers": 175127,
+  "num_followers": 175709,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
       "duration_ms": 213241,
       "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
+    },
+    {
+      "added_at": "2026-04-16 22:02:30",
+      "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
     },
     {
       "added_at": "2026-04-16 22:02:30",
@@ -467,6 +483,22 @@
       "duration_ms": 132413,
       "name": "FINE SHYT (feat. Tml Vibez)",
       "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
+    },
+    {
+      "added_at": "2026-04-16 22:02:30",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 154469,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
     },
     {
       "added_at": "2026-04-16 22:02:30",
@@ -1274,6 +1306,10 @@
         {
           "name": "beatsbyhand",
           "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        },
+        {
+          "name": "Matt Davies",
+          "url": "https://open.spotify.com/artist/7rV4Ll81hwDGB3629I53NV"
         }
       ],
       "duration_ms": 377125,
@@ -1503,6 +1539,22 @@
       "duration_ms": 344087,
       "name": "Bambi Roof",
       "url": "https://open.spotify.com/track/6HMk9sndxCnCTmhgCwHrJK"
+    },
+    {
+      "added_at": "2026-04-16 22:02:30",
+      "album": {
+        "name": "A Failed Artist",
+        "url": "https://open.spotify.com/album/79ELHzdwqYVYy7faFPXHxM"
+      },
+      "artists": [
+        {
+          "name": "Zwonaka",
+          "url": "https://open.spotify.com/artist/5oD2IgsstX9I592DVC5gQi"
+        }
+      ],
+      "duration_ms": 193639,
+      "name": "A Failed Artist",
+      "url": "https://open.spotify.com/track/3ToWtugfYUA1eLU8cQJmto"
     },
     {
       "added_at": "2026-04-16 22:02:30",

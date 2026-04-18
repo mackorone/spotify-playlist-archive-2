@@ -781,6 +781,28 @@
     },
     {
       "album": {
+        "name": "Cut the Ties",
+        "url": "https://open.spotify.com/album/7JPZrrcdV2yKqf85xbgvTY"
+      },
+      "artists": [
+        {
+          "name": "JT Music",
+          "url": "https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk"
+        },
+        {
+          "name": "Andrea Storm Kaden",
+          "url": "https://open.spotify.com/artist/2suYQj2pv0J5xZdNNqzDaU"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226992,
+      "name": "Cut the Ties",
+      "url": "https://open.spotify.com/track/3t2S6YcvQhVgFdiC76gKBt"
+    },
+    {
+      "album": {
         "name": "Wiped Out!",
         "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
       },
@@ -3301,6 +3323,24 @@
     },
     {
       "album": {
+        "name": "The One Who's Running the Show",
+        "url": "https://open.spotify.com/album/3QUo9uBdC8zyHPsk02Yf7B"
+      },
+      "artists": [
+        {
+          "name": "Gooseworx",
+          "url": "https://open.spotify.com/artist/4I31Oaf4lpU501IMCuEHTt"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133800,
+      "name": "The One Who's Running the Show",
+      "url": "https://open.spotify.com/track/1Qmmte3WKo1HgQDmDISvNc"
+    },
+    {
+      "album": {
         "name": "The Spectre",
         "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
       },
@@ -3704,6 +3744,32 @@
       "duration_ms": 197769,
       "name": "Worst In Me",
       "url": "https://open.spotify.com/track/6lYktNy0nhWLQjo6zvKizF"
+    },
+    {
+      "album": {
+        "name": "Your New Home 2",
+        "url": "https://open.spotify.com/album/3mOu6Ym88BJ9xN4wVm7eWa"
+      },
+      "artists": [
+        {
+          "name": "Switchers Records",
+          "url": "https://open.spotify.com/artist/3C9THwdBNJVZ9uic0MPHYc"
+        },
+        {
+          "name": "Gooseworx",
+          "url": "https://open.spotify.com/artist/4I31Oaf4lpU501IMCuEHTt"
+        },
+        {
+          "name": "Evan Alderete",
+          "url": "https://open.spotify.com/artist/2TrXT9J7vh2gaEp6Nb0g0K"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197352,
+      "name": "Your New Home 2",
+      "url": "https://open.spotify.com/track/5bdZ9pbV0msuGiWVhn345s"
     }
   ],
   "url": "https://open.spotify.com/playlist/7ejNI3ll8uMiseo6CM1Hky"

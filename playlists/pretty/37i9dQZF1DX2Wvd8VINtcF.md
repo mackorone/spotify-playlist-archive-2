@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Olga Myko✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,885 likes - 234 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,982 likes - 234 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 233 | [Persephone](https://open.spotify.com/track/4DAupbSn7g2hNCGSMm3pDN) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [Persephone](https://open.spotify.com/album/2V26TeL0Gxj0n3eh7cOQMD) | 3:25 |
 | 234 | [Feisty \- Erika de Casier EDIT](https://open.spotify.com/track/5di5j7CqrNxPCD2x8looz1) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Big city life EDITS](https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy) | 2:50 |
 
-Snapshot ID: `AAAAALHbUw9D3FGxhbNdcOW8eaxYeisa`
+Snapshot ID: `AAAAAA/jnDgJVr1V9f1UV5S7atroA8Dp`

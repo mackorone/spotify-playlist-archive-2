@@ -1,13 +1,81 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 7926,
+  "num_followers": 7929,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAPBQ7bkPoB3y1rHVa7MCfMtjlCxvjb",
+  "snapshot_id": "AAAPCp4AcMIh/vurzx4UweZ/n6IzrsBx",
   "tracks": [
+    {
+      "added_at": "2026-04-17 14:05:39",
+      "album": {
+        "name": "Learns to Chill",
+        "url": "https://open.spotify.com/album/0lGqRKT1vu6Ogh5PxBRpGS"
+      },
+      "artists": [
+        {
+          "name": "Samo DJ",
+          "url": "https://open.spotify.com/artist/05442HVVO9EfYoNa8F835e"
+        }
+      ],
+      "duration_ms": 265672,
+      "name": "Third Guitar",
+      "url": "https://open.spotify.com/track/4Dh4ZxbNoq0Id0Tx8KYtW5"
+    },
+    {
+      "added_at": "2026-04-17 14:06:32",
+      "album": {
+        "name": "\u00a1NO PASAR\u00c1N!",
+        "url": "https://open.spotify.com/album/0LO6huSYt7RLUeTuTfIsdT"
+      },
+      "artists": [
+        {
+          "name": "Extrawelt",
+          "url": "https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB"
+        }
+      ],
+      "duration_ms": 346657,
+      "name": "\u00a1No Pasar\u00e1n!",
+      "url": "https://open.spotify.com/track/4GSF9gV4y6fhwldNNyDttz"
+    },
+    {
+      "added_at": "2026-04-17 14:06:52",
+      "album": {
+        "name": "Joined Up Writing/The Sitting Room",
+        "url": "https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ"
+      },
+      "artists": [
+        {
+          "name": "Anne Clark",
+          "url": "https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL"
+        }
+      ],
+      "duration_ms": 324600,
+      "name": "Our Darkness",
+      "url": "https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5"
+    },
+    {
+      "added_at": "2026-04-17 14:07:43",
+      "album": {
+        "name": "One Day (Polygonia Remix)",
+        "url": "https://open.spotify.com/album/2OTDiJyHtlGAFfr03R1wHD"
+      },
+      "artists": [
+        {
+          "name": "Lenxi",
+          "url": "https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA"
+        },
+        {
+          "name": "Polygonia",
+          "url": "https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm"
+        }
+      ],
+      "duration_ms": 329128,
+      "name": "One Day - Polygonia Remix",
+      "url": "https://open.spotify.com/track/0IRh622wqPUllaAb74TEbO"
+    },
     {
       "added_at": "2026-03-20 09:25:14",
       "album": {

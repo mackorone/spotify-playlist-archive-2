@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con Lucky Brown.",
+  "description": "Perreando toda la noche con Maluma y Ryan Castro.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 138953,
       "name": "Amor de Bandolero",
       "url": "https://open.spotify.com/track/6LeEAoS4GNMV0jKE08q8iy"
@@ -2819,6 +2819,28 @@
     },
     {
       "album": {
+        "name": "BIPOLAR",
+        "url": "https://open.spotify.com/album/1xcLa3iW0AYkT1yyMDlTBA"
+      },
+      "artists": [
+        {
+          "name": "El Clooy",
+          "url": "https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC"
+        },
+        {
+          "name": "Kapo Wanted",
+          "url": "https://open.spotify.com/artist/4zGx6KpwUSVaYjiuyCciVK"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162068,
+      "name": "BIPOLAR",
+      "url": "https://open.spotify.com/track/50XWpz0ZinpGTnV47ac0PM"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -4012,7 +4034,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 165600,
       "name": "CHICA ATRACTIVA",
       "url": "https://open.spotify.com/track/0mw3zId9qOGkWlBogptIB1"
@@ -11425,6 +11447,24 @@
     },
     {
       "album": {
+        "name": "La Que Me Am\u00f3",
+        "url": "https://open.spotify.com/album/5VjIwXnsgctHzLx1ySye5L"
+      },
+      "artists": [
+        {
+          "name": "Jhay P",
+          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177708,
+      "name": "La Que Me Am\u00f3",
+      "url": "https://open.spotify.com/track/1stG89ygUgwIKAz4k3r0VL"
+    },
+    {
+      "album": {
         "name": "Los Sentimientos De un Robot",
         "url": "https://open.spotify.com/album/0hAboHqhKknkyCwULjp4tK"
       },
@@ -15698,7 +15738,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 179000,
       "name": "Nostalgia .0007 Anormal",
       "url": "https://open.spotify.com/track/7tnLGD1KlL7IuYwCSY7XAS"
@@ -16402,6 +16442,28 @@
       "duration_ms": 197026,
       "name": "Pa' Guayarte",
       "url": "https://open.spotify.com/track/77J8t2pFJYI8k4tZgJ3ybY"
+    },
+    {
+      "album": {
+        "name": "Pa' la seca",
+        "url": "https://open.spotify.com/album/11Wh4dbrBu8VSZ7wMDV8wQ"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184961,
+      "name": "Pa' la seca",
+      "url": "https://open.spotify.com/track/2339A6X4fGkSpjeF63gsll"
     },
     {
       "album": {

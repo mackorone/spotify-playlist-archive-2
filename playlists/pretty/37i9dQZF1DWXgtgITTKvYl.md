@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,128 likes - 75 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,194 likes - 75 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [Prophets of War \- Live in Tokyo, 2010](https://open.spotify.com/track/3o2PMFNv9XtvEU8ba3sNVL) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: Live In Tokyo, 2010](https://open.spotify.com/album/2rg2G2ES20fSBBrXquoEUI) | 7:07 |
 | 75 | [Everybody Dies](https://open.spotify.com/track/1tBxVkC0ovXVQh3G8MPreJ) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [Everybody Dies](https://open.spotify.com/album/5tHUhGonEjtlekmL1R6lvS) | 5:22 |
 
-Snapshot ID: `AAAAAGBCXj1r1GW4/wnE1pbFQAn2S1jC`
+Snapshot ID: `AAAAAJvWvXxfZf5fknYJ9OUf8wbuv9Hs`

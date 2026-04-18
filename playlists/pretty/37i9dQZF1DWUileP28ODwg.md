@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: We The Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,663 likes - 79 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,762 likes - 79 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 78 | [Hands Up](https://open.spotify.com/track/01zr8Gxq3ojECgvT8ciXJD) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [Hands Up](https://open.spotify.com/album/65YKtFEiN07pnXIfSxMdqZ) | 2:43 |
 | 79 | [Kingdom Come](https://open.spotify.com/track/6kFvpaobh1awtDOD6j5iWO) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Kingdom Come](https://open.spotify.com/album/0ddeu0qzjlC1DGitmzXIt6) | 3:54 |
 
-Snapshot ID: `AAAAAEZtw4CpDha7YcTx6gFhHc1kGtuE`
+Snapshot ID: `AAAAAP5Vxmw37g2q1KMyTglkDh384Ikx`

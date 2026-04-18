@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Amit Trivedi,  Paradox, Monali Thakur and more.",
+  "description": "Latest music from Arijit Singh, Payal Dev, Madhur Sharma and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -2703,6 +2703,32 @@
     },
     {
       "album": {
+        "name": "Awara",
+        "url": "https://open.spotify.com/album/09LXLVDvPtIprv4rymHNx1"
+      },
+      "artists": [
+        {
+          "name": "Vilen",
+          "url": "https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk"
+        },
+        {
+          "name": "Himani Kapoor",
+          "url": "https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur"
+        },
+        {
+          "name": "GARVV",
+          "url": "https://open.spotify.com/artist/1M27DESbtsGNZrvvTyJ0eo"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127821,
+      "name": "Awara",
+      "url": "https://open.spotify.com/track/5mX2aKNEOmBVMwLb6WknfL"
+    },
+    {
+      "album": {
         "name": "AZA",
         "url": "https://open.spotify.com/album/5ErDBmsvIr2COs3r227aWc"
       },
@@ -5254,7 +5280,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 219818,
       "name": "Bheegi Bheegi",
       "url": "https://open.spotify.com/track/3KYbbE5Yje5IcqJmNNbbkS"
@@ -5782,6 +5808,32 @@
       "duration_ms": 176888,
       "name": "Bulaye Naina",
       "url": "https://open.spotify.com/track/3l3IcXZuuiyDHWb5AgmrlV"
+    },
+    {
+      "album": {
+        "name": "Bulleya Ve | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/0EDLG7SDQLmjVerqen9baP"
+      },
+      "artists": [
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        },
+        {
+          "name": "Swarit Shukl",
+          "url": "https://open.spotify.com/artist/68lFVBZfoBPbKgOLdPaUSb"
+        },
+        {
+          "name": "ASHOK MASKEEN",
+          "url": "https://open.spotify.com/artist/1raw5H3Hs5PAYeOG7UYoMX"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324456,
+      "name": "Bulleya Ve | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/6kb9VzJblzeib3eZD38K98"
     },
     {
       "album": {
@@ -7010,6 +7062,28 @@
       "duration_ms": 150050,
       "name": "Chitta Suit",
       "url": "https://open.spotify.com/track/2nBcIVhZbRPBUnhV5JUNC4"
+    },
+    {
+      "album": {
+        "name": "Chitthi",
+        "url": "https://open.spotify.com/album/4HbkYmOJ4eroYKlgdXtIBN"
+      },
+      "artists": [
+        {
+          "name": "Arjuna Harjai",
+          "url": "https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN"
+        },
+        {
+          "name": "Surabhi Dashputra",
+          "url": "https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "Chitthi",
+      "url": "https://open.spotify.com/track/5VaMdYBY1TKv168OKvV789"
     },
     {
       "album": {
@@ -10129,6 +10203,28 @@
     },
     {
       "album": {
+        "name": "Dosti",
+        "url": "https://open.spotify.com/album/5QdFol6xjXoqijqV6gMJh4"
+      },
+      "artists": [
+        {
+          "name": "Shilpa Aggarwal",
+          "url": "https://open.spotify.com/artist/68Ei7hl4pXB8M4PxV7XYu9"
+        },
+        {
+          "name": "Yasser Desai",
+          "url": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232771,
+      "name": "Dosti",
+      "url": "https://open.spotify.com/track/67L5pbi8qYQg3KKxroat6g"
+    },
+    {
+      "album": {
         "name": "Ruslaan",
         "url": "https://open.spotify.com/album/422aZSkJ8KZZ5U3O86yNae"
       },
@@ -12644,7 +12740,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 222737,
       "name": "Har Lamha Tum Se",
       "url": "https://open.spotify.com/track/1noTFqTeJQZK59WGJdSzc0"
@@ -14056,6 +14152,32 @@
       "duration_ms": 195865,
       "name": "Ik Vaari",
       "url": "https://open.spotify.com/track/6Z1QUcx0B1VlxMOAd0wIC1"
+    },
+    {
+      "album": {
+        "name": "Ilzaam",
+        "url": "https://open.spotify.com/album/2LTC19IYB2RPPBhL77DcG5"
+      },
+      "artists": [
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Satyajeet Jena",
+          "url": "https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219393,
+      "name": "Ilzaam",
+      "url": "https://open.spotify.com/track/6oKyU8BlhwFnRuaCMjizGQ"
     },
     {
       "album": {
@@ -20850,6 +20972,32 @@
       "duration_ms": 190588,
       "name": "Lagey Rabb Warga",
       "url": "https://open.spotify.com/track/1JzfMiyxwzEk2JmZBNMZVD"
+    },
+    {
+      "album": {
+        "name": "Laiyaan",
+        "url": "https://open.spotify.com/album/7v1vuvYPo1OLs7GSWBTKWM"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Ruaa Kayy",
+          "url": "https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7"
+        },
+        {
+          "name": "RUTVXK",
+          "url": "https://open.spotify.com/artist/1GmpuAH0l3Z0AYj0vkGh2e"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213093,
+      "name": "Laiyaan",
+      "url": "https://open.spotify.com/track/2ecDjOlGElRwIIhfpeg7Z6"
     },
     {
       "album": {
@@ -28034,7 +28182,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 192706,
       "name": "Pyar Ki Si",
       "url": "https://open.spotify.com/track/4tdHWHHN8o9SXXrdx8P4kJ"
@@ -28064,7 +28212,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 162845,
       "name": "Pyar Se",
       "url": "https://open.spotify.com/track/6Pe0vVB8zA7ZMRDSWhNxaD"
@@ -36308,7 +36456,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 246043,
       "name": "Tu Jaane Hai Kahan",
       "url": "https://open.spotify.com/track/4zZlZgX3sleF4h8XTnxY14"
@@ -39214,7 +39362,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 197021,
       "name": "Yeh Safar (feat. Shaan)",
       "url": "https://open.spotify.com/track/3umlydgMec3pNRQrWpKDHF"

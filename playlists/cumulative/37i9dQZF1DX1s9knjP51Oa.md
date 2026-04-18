@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-890 songs - 1 day 14 hr 13 min
+894 songs - 1 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Come close](https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Come close](https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6) | 2:50 | 2023-11-28 | 2024-03-05 |
 | [Come Closer](https://open.spotify.com/track/4YhkT8T70gKq8jREW2MRfV) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [Come Closer](https://open.spotify.com/album/0WDnbyZgbX8euTOrgnv4ya) | 2:38 | 2025-01-17 |  |
 | [Coming Closer](https://open.spotify.com/track/14mdXvg5LTzl4gp0ALbGOe) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Evenings](https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge) | 1:53 | 2022-11-11 | 2023-08-22 |
+| [Composición](https://open.spotify.com/track/05PEqpmtdcuYV7QTqc7wyL) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Composición](https://open.spotify.com/album/2lAA9jf2h2TkxFYUT07JhZ) | 2:33 | 2026-04-17 |  |
 | [Con Cariño](https://open.spotify.com/track/5Wp5IP3REfgDJnxKeUOfb3) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Con Cariño](https://open.spotify.com/album/5J12GR7RKMZGO96J7JIZnp) | 2:26 | 2022-10-24 | 2024-10-15 |
 | [Connect](https://open.spotify.com/track/3KSPjzcAseKtixjfaP0g7p) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Connect](https://open.spotify.com/album/42O6IwBECezuwFzDBac8eR) | 1:47 | 2023-05-19 | 2023-08-22 |
 | [Connected](https://open.spotify.com/track/1y9latq5huZUKyxCiiauHX) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm), [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Connected](https://open.spotify.com/album/1WRqDyfVZbGtCjGOJDMTID) | 2:05 | 2023-02-13 |  |
@@ -460,6 +461,7 @@
 | [Little Prince](https://open.spotify.com/track/175xBbzJoYRG4UTg1rzHo6) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Little Prince](https://open.spotify.com/album/2C2ZSqbsCYG9Ie5TAo2VPS) | 2:14 | 2021-12-13 | 2022-05-27 |
 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 | 2023-05-09 |  |
 | [Lonely Lights](https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Lonely Lights](https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU) | 2:35 | 2025-08-19 |  |
+| [Looking Glass](https://open.spotify.com/track/6ZmragLaJVJfKDZtD5bbBe) | [Hayra](https://open.spotify.com/artist/6oMgepLVpTpiwfghDHRfZi) | [Looking Glass](https://open.spotify.com/album/3WrbHRd9uYg7DomEAdEkKP) | 2:45 | 2026-04-17 |  |
 | [Lost at Sea](https://open.spotify.com/track/0OQWq6Sgbn0L59KfhVYxBT) | [Alcon Blue](https://open.spotify.com/artist/4BathNj58pS2EbPPlASeYX) | [Lost at Sea](https://open.spotify.com/album/2q8kS6jiETavV5psaO4DAP) | 2:40 | 2023-01-09 | 2024-01-03 |
 | [Lost in a Dream](https://open.spotify.com/track/3n4WSQV9xopZy4wamL2tKL) | [Sophie Ronstadt](https://open.spotify.com/artist/3vXkoxi4Fo3dhKEy1Wxa8V) | [Lost in a Dream](https://open.spotify.com/album/5ZIgYon1ibEQwYlTyQyKTz) | 2:21 | 2021-12-13 | 2022-09-13 |
 | [Love of My Life](https://open.spotify.com/track/1k43yZUlrZlWLlLSE9HSFC) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Love of My Life](https://open.spotify.com/album/10mjFWOlFE2Vr0ZrgPNXYZ) | 2:19 | 2025-09-15 |  |
@@ -692,6 +694,7 @@
 | [Sleeping Giant](https://open.spotify.com/track/07mYJZtAOLNsmCTQ8lt1BN) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Sleeping Giant](https://open.spotify.com/album/6ehXRByrOmrh5mwEjzXhCP) | 2:42 | 2021-12-13 | 2022-10-25 |
 | [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 | 2021-12-13 | 2022-10-25 |
 | [Slowdive](https://open.spotify.com/track/2zqiro2tpHZkYVrtdMQAVn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Slowdive](https://open.spotify.com/album/3kZgD5YMFeOpGlF39LD9VM) | 2:50 | 2024-07-22 |  |
+| [Slowing Down](https://open.spotify.com/track/2vpPYDTFt5iCSt7XmXcln7) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Slowing Down](https://open.spotify.com/album/4OhIT3rG6K6l3bEHscjb6z) | 2:28 | 2026-04-17 |  |
 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 | 2022-03-17 | 2024-01-03 |
 | [Small Steps](https://open.spotify.com/track/1hdv5ClhtXr3ObgFCSjNVw) | [Valentia Serrano](https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ) | [Small Steps](https://open.spotify.com/album/1rRyxVqesdCGq4KQhDxytO) | 2:10 | 2024-10-21 |  |
 | [So No Regrets](https://open.spotify.com/track/4SnS6XcwucVNuXw44juFEY) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [So No Regrets](https://open.spotify.com/album/1MaXPoxg7JrhcLwHX76Shn) | 2:14 | 2021-12-13 | 2022-07-22 |
@@ -828,6 +831,7 @@
 | [Unsere Reise](https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC) | [Sabine Reiniger](https://open.spotify.com/artist/3Y3Uh170gXrWMDqx5w47RI) | [Unsere Reise](https://open.spotify.com/album/0zaxkAJPvoLq8OhHquRvxg) | 3:00 | 2021-12-13 | 2022-10-25 |
 | [Until We Meet Again](https://open.spotify.com/track/2QYem8rVrhWvKTXC3rYypY) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Until We Meet Again](https://open.spotify.com/album/0u2MEx3IaZYcNltnLoV6Wu) | 2:44 | 2022-09-23 | 2024-01-03 |
 | [Up North](https://open.spotify.com/track/3V683fg4xkvLX58ReRRISt) | [Salomon Isle](https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu) | [Catching The Light](https://open.spotify.com/album/6dTVYbMJ85y2x9f3Qm01JD) | 2:23 | 2022-11-21 | 2024-06-01 |
+| [Uplift](https://open.spotify.com/track/59kaSvcHlyRz0cOp65SYcj) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Uplift](https://open.spotify.com/album/6dCBckNdpmAbw1tg200Phx) | 2:22 | 2026-04-17 |  |
 | [Us](https://open.spotify.com/track/7tPR6ChfHJvkYPK0Zy5zkK) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Life Stories](https://open.spotify.com/album/0sAjpgFwwWx4EzSx0mq4g7) | 1:48 | 2023-01-09 | 2023-08-22 |
 | [Valse Delle Vigne](https://open.spotify.com/track/3JSPIgK4QMCTSEXZCMRuPj) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Valse Delle Vigne](https://open.spotify.com/album/3PaiRAL4CrC40EttDtar63) | 2:31 | 2024-02-27 |  |
 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 | 2022-07-21 | 2023-08-22 |

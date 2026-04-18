@@ -1,13 +1,329 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Josiah and the Bonnevilles",
-  "num_followers": 872784,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Kevin Morby",
+  "num_followers": 873123,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIPxjJBENiLSt08HPMoIxOmi4rHn",
+  "snapshot_id": "AAAAAEjLvaj3GNOyNeoltmDbxiRg6IL+",
   "tracks": [
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "Where\u2019s Your Love Now (Waxahatchee Version)",
+        "url": "https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 321140,
+      "name": "Where\u2019s Your Love Now - Waxahatchee Version",
+      "url": "https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "No Driver",
+        "url": "https://open.spotify.com/album/1mtcNZvxU9QfWH9RmUkOrH"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "No Driver",
+      "url": "https://open.spotify.com/track/2Md8LNHMvHDN8Ed4GwRCw3"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "Badlands",
+        "url": "https://open.spotify.com/album/0lMhnhcPMq08GzLqgu9Kw9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 234159,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/0uGdGEN2qDOFQ8mmkIuWyA"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "Tragic Magic",
+        "url": "https://open.spotify.com/album/7oLX84jA6AHnCyELknktHA"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 271087,
+      "name": "Maker",
+      "url": "https://open.spotify.com/track/2OX9uITulRbPtILYQ2totl"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/4cSBzZucKih37AdrzGvFkL"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 275519,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/5OFGjQaMRex7vfrHPruQZj"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "Fade Into You",
+        "url": "https://open.spotify.com/album/1hBXcVtSiaYkflIiqjQfAV"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 269875,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/37kGpZDrqQekpIQswHYHw6"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/4PnsPNH41o40lO1TjXZufB"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Silver Wave",
+      "url": "https://open.spotify.com/track/5dsWR4AuIjIVi5DWj7slaB"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "Pink Living Room",
+        "url": "https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 236739,
+      "name": "Pink Living Room",
+      "url": "https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "Always on Time",
+        "url": "https://open.spotify.com/album/0Ffw2yoTKxljzSwk7DI86b"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 294880,
+      "name": "Always on Time",
+      "url": "https://open.spotify.com/track/1JU9FC6MmeaN9hZEwEFfYp"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 193658,
+      "name": "Catch A Fire",
+      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/2uB5nyQCsFejw9e0cpzlVm"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/1Lk4rIjW0TcZ0KGTClWsPE"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "Eastern Time",
+        "url": "https://open.spotify.com/album/7219GK59ut1GptItHdsERG"
+      },
+      "artists": [
+        {
+          "name": "Zach Seabaugh",
+          "url": "https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2"
+        }
+      ],
+      "duration_ms": 198085,
+      "name": "Eastern Time",
+      "url": "https://open.spotify.com/track/6VlOKgkfQQDytXIj8uZUzi"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "Death Grip",
+        "url": "https://open.spotify.com/album/1llv8Op2jSF1108gJmw8lh"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        },
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        }
+      ],
+      "duration_ms": 177974,
+      "name": "Death Grip",
+      "url": "https://open.spotify.com/track/3qtqyrxRDuG0ORWZ1BoIUv"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "So The Sun Can Pour",
+        "url": "https://open.spotify.com/album/2FJNdtergBuQ1q2qOo5IBe"
+      },
+      "artists": [
+        {
+          "name": "Hayden Everett",
+          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
+        }
+      ],
+      "duration_ms": 255395,
+      "name": "Taylor",
+      "url": "https://open.spotify.com/track/49Ya4VAhgiUgABC0XnDhOE"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "Are We Famous",
+        "url": "https://open.spotify.com/album/2wenx7l4XGj2Dst6F1zm6H"
+      },
+      "artists": [
+        {
+          "name": "Matt Hartke",
+          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Are We Famous",
+      "url": "https://open.spotify.com/track/5j65rqnKB9XsI5e8ddCvwF"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/69yBujeTPGK2rC2qFcdS9X"
+      },
+      "artists": [
+        {
+          "name": "Sean Solomon",
+          "url": "https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3"
+        }
+      ],
+      "duration_ms": 200293,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/4tGVYB2GmhidTUN7hv6Rwt"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "Conclus\u00e3o",
+        "url": "https://open.spotify.com/album/558KhhJ6MhkqHlgiB4IoAc"
+      },
+      "artists": [
+        {
+          "name": "Lau Ro",
+          "url": "https://open.spotify.com/artist/541ER2icL7JZDTQ2SeiOGJ"
+        }
+      ],
+      "duration_ms": 222160,
+      "name": "Conclus\u00e3o",
+      "url": "https://open.spotify.com/track/4edMM3tBl3WFKA3z79SfJt"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "Storybook Song",
+        "url": "https://open.spotify.com/album/6s3R07uwJtzYAmH7P1dC1k"
+      },
+      "artists": [
+        {
+          "name": "gabrielle hope",
+          "url": "https://open.spotify.com/artist/5VSQfk6IkMUb8IVxo3mtPt"
+        }
+      ],
+      "duration_ms": 192844,
+      "name": "Storybook Song",
+      "url": "https://open.spotify.com/track/2HNu2cPLdVBxDLhGc8xR0j"
+    },
+    {
+      "added_at": "2026-04-17 04:02:54",
+      "album": {
+        "name": "My Favourite Book Is One I\u2019ve Read A Bunch / Little Rib",
+        "url": "https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3"
+      },
+      "artists": [
+        {
+          "name": "Dermot Henry",
+          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
+        }
+      ],
+      "duration_ms": 214549,
+      "name": "My Favourite Book Is One I\u2019ve Read A Bunch",
+      "url": "https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC"
+    },
     {
       "added_at": "2026-04-10 04:01:40",
       "album": {
@@ -2583,286 +2899,6 @@
       "duration_ms": 185753,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "Hurt You Now",
-        "url": "https://open.spotify.com/album/4SzbeKe9le905EBVr4zCzO"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        }
-      ],
-      "duration_ms": 177755,
-      "name": "Hurt You Now",
-      "url": "https://open.spotify.com/track/69rFRPzGqm52dzSaTF7x5S"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "We Almost Made It",
-        "url": "https://open.spotify.com/album/5ilLnbQwkdGtXmXtsujPbG"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 260995,
-      "name": "We Almost Made It",
-      "url": "https://open.spotify.com/track/0tRDMVjiYuq0CbPDHVNVKz"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "Best of Our Possible Lives",
-        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
-      },
-      "artists": [
-        {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
-        }
-      ],
-      "duration_ms": 188988,
-      "name": "Best of Our Possible Lives",
-      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/286x9gxQIdtVUBvJb6HYsH"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 258715,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/42rejkV5A3mQdNa9G9u1Kd"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "Hearken",
-        "url": "https://open.spotify.com/album/76esxIQUhXuZW0d7VdNy2g"
-      },
-      "artists": [
-        {
-          "name": "Yaelokre",
-          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
-        }
-      ],
-      "duration_ms": 371671,
-      "name": "Hearken",
-      "url": "https://open.spotify.com/track/4xEBLCaklcfiEk0d6BIeZe"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "In the Middle of It",
-        "url": "https://open.spotify.com/album/1SEeyd8Bnl8AwFCMTpZGIw"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 193888,
-      "name": "In the Middle of It",
-      "url": "https://open.spotify.com/track/7hZUlbdkawpMvh54ZMyFGF"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "What A Time To Be Alive",
-        "url": "https://open.spotify.com/album/1r9PfO7MRfT8iHb32ZFbYC"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 234672,
-      "name": "Staring At The Sun",
-      "url": "https://open.spotify.com/track/5ZrdwjbvmSuz79vQhnVRCO"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "105",
-        "url": "https://open.spotify.com/album/7j6jhAp9F1TnyskG9lMs2v"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 144145,
-      "name": "105",
-      "url": "https://open.spotify.com/track/2i5R1iPGTfmycvWURBj4Vo"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "Kindness Isn\u2019t Common Sense",
-        "url": "https://open.spotify.com/album/0i3JskQQzO3K8aO3ja2Eab"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 235448,
-      "name": "Kindness Isn't Common Sense",
-      "url": "https://open.spotify.com/track/0ZJXnr1jOYENd4lrW4MKNu"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "White Horses",
-        "url": "https://open.spotify.com/album/3Ike2bIm9FObOUEwXQim6O"
-      },
-      "artists": [
-        {
-          "name": "Anna Bates",
-          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
-        },
-        {
-          "name": "Maggie Antone",
-          "url": "https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp"
-        }
-      ],
-      "duration_ms": 151548,
-      "name": "White Horses",
-      "url": "https://open.spotify.com/track/5B0YKmpBDLkIz9gwtmGSBJ"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/02LoGnwNdQjewONsLrM0YN"
-      },
-      "artists": [
-        {
-          "name": "Elliot Greer",
-          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "Fragments",
-      "url": "https://open.spotify.com/track/5U6sbkexYOvmOkhIYaprrP"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "The Last Armchair",
-        "url": "https://open.spotify.com/album/03ntLL1LFzgIT2AX1fR9rQ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 238321,
-      "name": "The Last Armchair",
-      "url": "https://open.spotify.com/track/5KIfLBaXqyddfrQkM3NJAA"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "Imidiwan Takyadam",
-        "url": "https://open.spotify.com/album/1GRebforJ6lYt2aST9WKle"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        },
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 256481,
-      "name": "Imidiwan Takyadam - feat. Jos\u00e9 Gonz\u00e1lez",
-      "url": "https://open.spotify.com/track/2b4fBioLLqcnL4reo9XtRu"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "This Is What You Get",
-        "url": "https://open.spotify.com/album/0wzt0G2IThMTsFeOSLIpJQ"
-      },
-      "artists": [
-        {
-          "name": "Kate Stephenson",
-          "url": "https://open.spotify.com/artist/5RAwXhLQfEX5khIsfnvDne"
-        }
-      ],
-      "duration_ms": 160775,
-      "name": "Tracksuit",
-      "url": "https://open.spotify.com/track/2dwYgqWg56JlVCRSnD5dWU"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "Heartbreak City",
-        "url": "https://open.spotify.com/album/0gXgBPcXvhw7GfKBkkaRnM"
-      },
-      "artists": [
-        {
-          "name": "Morgan Nagler",
-          "url": "https://open.spotify.com/artist/6mT5D1CUrWTMXngtqazglr"
-        }
-      ],
-      "duration_ms": 128733,
-      "name": "Heartbreak City",
-      "url": "https://open.spotify.com/track/3xRUh1mHl0OVOliGFlOWhY"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "branch bent",
-        "url": "https://open.spotify.com/album/5aLS3yMH1YxQ3JJtVz1dsM"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        }
-      ],
-      "duration_ms": 116666,
-      "name": "branch bent",
-      "url": "https://open.spotify.com/track/3ICa8SGMQ0r9s9xj6RhbuO"
     }
   ],
   "unique_name": "Fresh Folk",

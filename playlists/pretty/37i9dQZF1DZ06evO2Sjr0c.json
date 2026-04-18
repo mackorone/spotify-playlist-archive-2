@@ -1,12 +1,12 @@
 {
   "description": "This is Grateful Dead. The essential tracks, all in one playlist.",
-  "num_followers": 179667,
+  "num_followers": 179686,
   "original_name": "This Is Grateful Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ad7VAAAAAADW2BxNqgtZtmWyLX937npx",
+  "snapshot_id": "aeAmgAAAAAADVpU6YiYjyvzncgcUl2bU",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Go to Heaven",
-        "url": "https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 216569,
-      "name": "Alabama Getaway - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5WVF1Ftv5oxspRac9km99R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Europe '72 (Live; 2001 Remaster)",
         "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
       },
@@ -743,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grateful Dead (Skull & Roses) [Live]",
-        "url": "https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN"
+        "name": "Go to Heaven",
+        "url": "https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT"
       },
       "artists": [
         {
@@ -752,9 +736,25 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 511306,
-      "name": "Wharf Rat - Live at Fillmore East, New York, NY, April 26, 1971",
-      "url": "https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf"
+      "duration_ms": 216569,
+      "name": "Alabama Getaway - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5WVF1Ftv5oxspRac9km99R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wake of the Flood (2013 Remaster)",
+        "url": "https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 344760,
+      "name": "Mississippi Half-Step Uptown Toodeloo - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6AobkjMl8MdQwFOOmgzEaC"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake of the Flood (2013 Remaster)",
-        "url": "https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0"
+        "name": "Grateful Dead (Skull & Roses) [Live]",
+        "url": "https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 344760,
-      "name": "Mississippi Half-Step Uptown Toodeloo - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6AobkjMl8MdQwFOOmgzEaC"
+      "duration_ms": 511306,
+      "name": "Wharf Rat - Live at Fillmore East, New York, NY, April 26, 1971",
+      "url": "https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf"
     },
     {
       "added_at": null,

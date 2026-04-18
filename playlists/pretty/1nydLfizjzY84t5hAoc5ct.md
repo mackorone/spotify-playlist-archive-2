@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,349 likes - 132 songs - 8 hr 26 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,349 likes - 134 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,5 +140,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 130 | [At Nathan's House](https://open.spotify.com/track/41etUdAj7MZz7x7s7VP3DS) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [At Nathan's House](https://open.spotify.com/album/2cOtM6OudVEX5xJe9ooAEO) | 3:49 |
 | 131 | [Stronger](https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje) | [The Cosmic Dead](https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE) | [Stronger](https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8) | 3:46 |
 | 132 | [Circles](https://open.spotify.com/track/25YMTn635xYt8sg4EhozIP) | [MillionYears](https://open.spotify.com/artist/02UDZqlOSBfhg6JTF5Tl86) | [Circles](https://open.spotify.com/album/0ZbEh3zRaW9Ho97VpcU6NQ) | 2:54 |
+| 133 | [ALL THORNS NO ROSES](https://open.spotify.com/track/4zAsrsEnRA3JwsTPDibT58) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [ALL THORNS NO ROSES](https://open.spotify.com/album/7whk2qSdvWEqv7zO4FX4HH) | 3:43 |
+| 134 | [Look Me In The Eye](https://open.spotify.com/track/4V6D8bxGBhhqFhe6pTWbHg) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [Look Me In The Eye](https://open.spotify.com/album/122QcOvBCwlu4MUQ7Pq1N0) | 3:33 |
 
-Snapshot ID: `AAB3TuN3Z7j2fLtBZ7B2uHHKB8/cJaLf`
+Snapshot ID: `AAB3UWrTeP/PIe3WIOAxs1qgOR9EOWDc`

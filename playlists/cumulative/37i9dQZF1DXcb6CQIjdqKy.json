@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Jenn Johnson",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Hulvey",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -3136,6 +3136,28 @@
       "duration_ms": 191833,
       "name": "Calling",
       "url": "https://open.spotify.com/track/2bSNePFmPxgSnLQp9o1YRq"
+    },
+    {
+      "album": {
+        "name": "M.I.7",
+        "url": "https://open.spotify.com/album/6TGoIu9hPSLt2fYgdThVKD"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        },
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220972,
+      "name": "CALLING",
+      "url": "https://open.spotify.com/track/5iw3fnzT7iLFLFKFOimjiU"
     },
     {
       "album": {
@@ -7406,7 +7428,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 183942,
       "name": "Good",
       "url": "https://open.spotify.com/track/6S5BFmq9ypnHBY0kNm1lQ2"
@@ -8068,6 +8090,24 @@
       "duration_ms": 192213,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/7ICNXE7zp182uWnUE0wZr7"
+    },
+    {
+      "album": {
+        "name": "Grateful Heart (Thank You Jesus)",
+        "url": "https://open.spotify.com/album/5b5IWEUgP8P5ms1EIOhDOM"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "Grateful Heart (Thank You Jesus)",
+      "url": "https://open.spotify.com/track/6anIiEM3wvqooQbWqUTyzp"
     },
     {
       "album": {
@@ -8858,7 +8898,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 466018,
       "name": "Heard About A River - Live",
       "url": "https://open.spotify.com/track/02Ev3EfBX3j2irtlhTSPC7"
@@ -9304,7 +9344,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 267293,
       "name": "Higher Throne",
       "url": "https://open.spotify.com/track/6ZOA7z5HY4F2sLdPMm0DKA"
@@ -11845,6 +11885,24 @@
     },
     {
       "album": {
+        "name": "COULD BE TONIGHT",
+        "url": "https://open.spotify.com/album/0Ujfh65wzIk5dRJQ4pIiLf"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200237,
+      "name": "INFLUENCER$",
+      "url": "https://open.spotify.com/track/7oTqtx0H1pivN32cEqMBNQ"
+    },
+    {
+      "album": {
         "name": "Full Bloom",
         "url": "https://open.spotify.com/album/6SUTVZzodxA2aRcAnMwfY9"
       },
@@ -11856,7 +11914,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 148644,
       "name": "Intentional",
       "url": "https://open.spotify.com/track/1xGC1OwWQ74z7wHth9BQ0Z"
@@ -12369,6 +12427,24 @@
     },
     {
       "album": {
+        "name": "Jesus Is King",
+        "url": "https://open.spotify.com/album/1DfH9inoAxUsN4Ne4LoiBz"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175537,
+      "name": "Jesus Is King",
+      "url": "https://open.spotify.com/track/7u3as4wIuxWFa9I76LP6dF"
+    },
+    {
+      "album": {
         "name": "JESUS IS LORD",
         "url": "https://open.spotify.com/album/1EFA5KDZNc6UE7MNIlwwne"
       },
@@ -12503,7 +12579,7 @@
     },
     {
       "album": {
-        "name": "Jesus The Only (feat. Davide Mutendji)",
+        "name": "Jesus The Only",
         "url": "https://open.spotify.com/album/7Etjqgbb5o3rQqtJBgCPEo"
       },
       "artists": [
@@ -12520,7 +12596,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 408773,
-      "name": "Jesus The Only (feat. Davide Mutendji)",
+      "name": "Jesus The Only",
       "url": "https://open.spotify.com/track/1gVCOo3SKqbFlD57JMPm5P"
     },
     {
@@ -14009,6 +14085,24 @@
     },
     {
       "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/08oXopCW2RCdYqNdHiTrit"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233961,
+      "name": "listening",
+      "url": "https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj"
+    },
+    {
+      "album": {
         "name": "Abby Robertson",
         "url": "https://open.spotify.com/album/79OFbCQZrCHHGxN31WjOrv"
       },
@@ -14466,7 +14560,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 297231,
       "name": "Loved By Love",
       "url": "https://open.spotify.com/track/2fGaAHVN3P45yLBLAjd3mi"
@@ -14934,10 +15028,32 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 266573,
       "name": "Meet Me In The Valley",
       "url": "https://open.spotify.com/track/4DEidL01X20LpYZI288hG2"
+    },
+    {
+      "album": {
+        "name": "Meet Me In The Valley (feat. Ben Fuller)",
+        "url": "https://open.spotify.com/album/2LSD0LDxZJmFpVwiSKdDee"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        },
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269200,
+      "name": "Meet Me In The Valley (feat. Ben Fuller)",
+      "url": "https://open.spotify.com/track/0xGqVzQIJ6VBwMTxchA5Ef"
     },
     {
       "album": {
@@ -19213,6 +19329,24 @@
     },
     {
       "album": {
+        "name": "Runs In The Blood",
+        "url": "https://open.spotify.com/album/2koZ327e01iwRUcOEzWd69"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184203,
+      "name": "Runs In The Blood",
+      "url": "https://open.spotify.com/track/0VRNfCYpbLDM2QJapqw9aC"
+    },
+    {
+      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
       },
@@ -20576,7 +20710,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 175394,
       "name": "Stand My Ground",
       "url": "https://open.spotify.com/track/47sscyz9PrvrpyTvmBcr28"
@@ -21378,7 +21512,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 319600,
       "name": "Surrounded",
       "url": "https://open.spotify.com/track/4Tr1hZdWczjvLFmRA7sxz6"
@@ -23282,7 +23416,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 167653,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/4zgT4ofik5gzGZGTUzhAfX"
@@ -24431,6 +24565,24 @@
     },
     {
       "album": {
+        "name": "Vices",
+        "url": "https://open.spotify.com/album/2AdhEfiegi4zBfD35z5o0w"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284814,
+      "name": "Vices",
+      "url": "https://open.spotify.com/track/65ou3JOhPK3lH0T5EXq7U2"
+    },
+    {
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/44Z1Qd5eYTHJd8HVd9BfUi"
       },
@@ -24616,7 +24768,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 182168,
       "name": "walk into the light",
       "url": "https://open.spotify.com/track/5M92wDH3MFb1MgVSLS2GOy"

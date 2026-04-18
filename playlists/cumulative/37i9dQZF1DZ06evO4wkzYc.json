@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/1sJUoP1CZBV6O5Ee19W6mE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265901,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/1pBoAagFm4bc2Thz3OspOg"
+    },
+    {
+      "album": {
         "name": "Hoy Ya Me Voy",
         "url": "https://open.spotify.com/album/4Zgr06GJIQG1Gk8g6WWnq2"
       },
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-18",
       "duration_ms": 240605,
       "name": "Seraf\u00edn",
       "url": "https://open.spotify.com/track/7DKx7f5mwJIcDb62NG0PfV"

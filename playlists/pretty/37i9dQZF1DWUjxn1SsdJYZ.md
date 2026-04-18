@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,813 likes - 99 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,825 likes - 99 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 98 | [23 ‘Til Infinity](https://open.spotify.com/track/6xhlaFJ69ylW7yYslj77hS) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI) | [23 ‘Til Infinity](https://open.spotify.com/album/5urtTzFbmTMiSToGej5RBx) | 2:33 |
 | 99 | [Promises](https://open.spotify.com/track/6HVvCFU4ibH3bvfcgrL7dx) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [Promises](https://open.spotify.com/album/65WlmRLstNjDhsvYvrvpl6) | 2:58 |
 
-Snapshot ID: `AAAAAPxKqxjZOuhAJ4JjYHNntD/hs101`
+Snapshot ID: `AAAAACPAiP7phmjhZSUhF6fEv0+V+Hcg`

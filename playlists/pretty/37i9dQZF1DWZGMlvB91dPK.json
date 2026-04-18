@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 3911,
+  "num_followers": 3914,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -715,38 +715,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Where We Dive",
-        "url": "https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F"
-      },
-      "artists": [
-        {
-          "name": "MEDICIS",
-          "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
-        }
-      ],
-      "duration_ms": 240150,
-      "name": "Timecrash",
-      "url": "https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "Down the Row",
-        "url": "https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy"
-      },
-      "artists": [
-        {
-          "name": "The Chainsaw Motel",
-          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
-        }
-      ],
-      "duration_ms": 209396,
-      "name": "Down the Row",
-      "url": "https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "dealing with ghosts",
         "url": "https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt"
       },
@@ -763,6 +731,22 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
+        "name": "Where We Dive",
+        "url": "https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F"
+      },
+      "artists": [
+        {
+          "name": "MEDICIS",
+          "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
+        }
+      ],
+      "duration_ms": 240150,
+      "name": "Timecrash",
+      "url": "https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
         "name": "ARDE MAMI",
         "url": "https://open.spotify.com/album/1Z137meWCyz4GsMlj1UDt4"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 176000,
       "name": "ARDE MAMI",
       "url": "https://open.spotify.com/track/1tPH5nXPitW7wLY2hyQAoK"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Down the Row",
+        "url": "https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy"
+      },
+      "artists": [
+        {
+          "name": "The Chainsaw Motel",
+          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
+        }
+      ],
+      "duration_ms": 209396,
+      "name": "Down the Row",
+      "url": "https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga"
     },
     {
       "added_at": "2025-11-20 17:00:08",

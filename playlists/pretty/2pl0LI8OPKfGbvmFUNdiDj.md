@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 736 likes - 80 songs - 4 hr 31 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 742 likes - 83 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,8 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 78 | [Things Won't Be The Same](https://open.spotify.com/track/6hZM4lUIc7x72NIaDn59l3) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [Things Won't Be The Same](https://open.spotify.com/album/3d0nPUL8AjoeHdqFaOAgj1) | 3:21 |
 | 79 | [Whistling](https://open.spotify.com/track/4p1fYOHCCx1CvPk6UbIbSZ) | [Borth](https://open.spotify.com/artist/41wNDlWrwYPOzTFIh1PvH6) | [Whistling](https://open.spotify.com/album/2QOkUXOeTgGNQQ9iXD2e0B) | 3:16 |
 | 80 | [D'Or et D'Essence](https://open.spotify.com/track/54j84CQorBTHez8kAudRee) | [Mehdy Akki](https://open.spotify.com/artist/6S38wI5QEZb1pM4YqJ2frS) | [D'Or et D'Essence](https://open.spotify.com/album/2JoCCUBiLDOana2AHlaDlx) | 2:55 |
+| 81 | [Love \- Acoustic](https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Xellay Acoustic](https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX) | 3:31 |
+| 82 | [Suerte](https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M) | [Los de Marte](https://open.spotify.com/artist/3IswqnIMsJKqBzGplTP91r) | [Suerte](https://open.spotify.com/album/0BX5xTASG4jk84rbv4Y1Pr) | 2:47 |
+| 83 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 |
 
-Snapshot ID: `AAADcurSWiYm1sDDAjlWP6QG/4ANdtFi`
+Snapshot ID: `AAADdRPic1kPDH/9yFZnB3jAax6mmP+k`

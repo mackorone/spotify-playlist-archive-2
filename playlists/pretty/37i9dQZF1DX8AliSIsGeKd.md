@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Kristian Llov
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,806 likes - 90 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,941 likes - 90 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 3 | [Sirens](https://open.spotify.com/track/7r1SZaJhXDTod2cXakbAJ5) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Sirens](https://open.spotify.com/album/4QGu7AvOfVauFWqzfywklJ) | 3:26 |
 | 4 | [Golden](https://open.spotify.com/track/73ob1BOoxobzYqlnwSVmJv) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Golden](https://open.spotify.com/album/5M2gAdU3TtwlDucUL7YFQf) | 2:45 |
 | 5 | [Silence](https://open.spotify.com/track/340fN3ZYdRrcc7ybSYNglo) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Silence](https://open.spotify.com/album/38MBdNMbf3lra9AWJkqmZG) | 6:05 |
-| 6 | [Track 9](https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R) | 0:00 |
+| 6 | [Everybody](https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R) | 2:34 |
 | 7 | [Lights Don't Lie](https://open.spotify.com/track/1sbolMTz9L4jT3sEnsl0FQ) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Mia Mendi](https://open.spotify.com/artist/7ccAq24esXIKcy6coCLiio), [Blake Light](https://open.spotify.com/artist/3Eg3uKwUyxwvM57CW2skbr) | [Lights Don't Lie](https://open.spotify.com/album/0HhLJaeDNT3SYpnurSdG1e) | 2:50 |
 | 8 | [Juri](https://open.spotify.com/track/62Tjv63LVohMHUeRBlRHny) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Juri](https://open.spotify.com/album/71uxnuSOmEX77aEKhbIi2b) | 6:01 |
 | 9 | [You & Me](https://open.spotify.com/track/0dAxMPe61FnuVxgxubS3Jk) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Aiiwa](https://open.spotify.com/artist/4CNahfHGLBSK2dWM1ZLwMU), [Lake Silver](https://open.spotify.com/artist/3jUIM87ijH82I8Wp91U6aE) | [You & Me](https://open.spotify.com/album/6Z6PHF1KRZIwk1AU5pzkkr) | 4:29 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 21 | [Army](https://open.spotify.com/track/75386mOXWOPoHCjNRc3rgj) | [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE) | [Army](https://open.spotify.com/album/2G3yUfX12UEtZ33VTwkRm4) | 2:32 |
 | 22 | [Free Your Mind](https://open.spotify.com/track/5gbroAvPzPjcY3lGgoVmn7) | [Deer Jade](https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv) | [Free Your Mind](https://open.spotify.com/album/3SGJkM2yWuoVBMFH9XHDOy) | 4:32 |
 | 23 | [whatever you do](https://open.spotify.com/track/7tYkpOOHN2YB5RhFkLPs6R) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [whatever you do](https://open.spotify.com/album/332Ale8JZU0KaSGjoL3aXY) | 3:30 |
-| 24 | [Track 1](https://open.spotify.com/track/3KhfmxD6U9ll0mFgArrQTe) | [Amour Propre](https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ) | [Rock Like This EP](https://open.spotify.com/album/6gSmK3aSu26VRpaaOlFqjt) | 0:00 |
+| 24 | [Blurred Signal](https://open.spotify.com/track/3KhfmxD6U9ll0mFgArrQTe) | [Amour Propre](https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ) | [Rock Like This EP](https://open.spotify.com/album/6gSmK3aSu26VRpaaOlFqjt) | 3:20 |
 | 25 | [Pink Roses](https://open.spotify.com/track/0IoRWtiJXaD6g8QVzYAVbZ) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Pink Roses](https://open.spotify.com/album/7uTedIrCPOgW6cDGLMOjKv) | 2:36 |
 | 26 | [Closer](https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Closer](https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9) | 3:16 |
 | 27 | [Everything U](https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Everything U](https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi) | 3:30 |
