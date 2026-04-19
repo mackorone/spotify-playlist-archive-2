@@ -816,7 +816,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 190186,
       "name": "Faldita",
       "url": "https://open.spotify.com/track/1R5nCcASgTubHzMx2Ic5UU"
@@ -1224,6 +1224,24 @@
       "duration_ms": 158626,
       "name": "La Grosera",
       "url": "https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER"
+    },
+    {
+      "album": {
+        "name": "Las Flores",
+        "url": "https://open.spotify.com/album/4rYkjbia1gDi2BUi4dIY01"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179980,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/4uRYuPIcuRedAHptdTaF3L"
     },
     {
       "album": {

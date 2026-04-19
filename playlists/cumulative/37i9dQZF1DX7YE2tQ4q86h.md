@@ -4,7 +4,7 @@
 
 > ADÉLA is having a main pop girl emergency 🆘
 
-1,666 songs - 3 day 11 hr 30 min
+1,667 songs - 3 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [Effort](https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Effort](https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl) | 2:31 | 2023-04-14 | 2023-08-19 |
 | [EGO](https://open.spotify.com/track/6KfyfEiMAQJrMhRrP2Epm4) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [EGO](https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8) | 3:36 | 2025-09-05 | 2026-01-15 |
 | [Electric Heaven](https://open.spotify.com/track/2I02ASw3z4X4GXOvnKn6sq) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:25 | 2024-05-31 | 2024-07-06 |
-| [Elevate](https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Contact](https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw) | 3:13 | 2025-11-21 |  |
+| [Elevate](https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Contact](https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw) | 3:13 | 2025-11-21 | 2026-04-19 |
 | [Elevation](https://open.spotify.com/track/6jgK2LT39KCezzBPUo45K2) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Elevation](https://open.spotify.com/album/6TEZ26b4VinBQTnkb2vuJ0) | 2:44 | 2023-07-28 | 2023-10-21 |
 | [encore](https://open.spotify.com/track/29DtfDAK5Q78nvlyPgYlWv) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [encore](https://open.spotify.com/album/3L3wCKCD42do9KaJDvIz5k) | 2:49 | 2024-05-17 | 2024-10-05 |
 | [End of the Night](https://open.spotify.com/track/1dG2FKcl3qHfsEzoVI3P4t) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [A Grave Marked Strange](https://open.spotify.com/album/2KhYvx1qMXBUSviiHZjtXt) | 2:22 | 2025-06-13 | 2025-09-13 |
@@ -482,7 +482,7 @@
 | [Filter](https://open.spotify.com/track/104KjF0t9EnlFOoxGLxiSQ) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:31 | 2025-03-07 | 2025-07-26 |
 | [FINAL BOSS](https://open.spotify.com/track/4u3Q32lyBy71GN14z952al) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [PRINCESS OF POWER](https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU) | 3:10 | 2025-06-06 | 2025-09-06 |
 | [Find Xanadu](https://open.spotify.com/track/0BI2JnruCf2fZt7Jp1vU3b) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Find Xanadu](https://open.spotify.com/album/10Bhnh3aMHZPWSfg4qC0LC) | 3:09 | 2025-05-02 | 2025-05-28 |
-| [Fire](https://open.spotify.com/track/4rDwRReunkleF9aisMmguC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Fire](https://open.spotify.com/album/5n0RsqJukHxaXLDlPFy0K8) | 3:17 | 2026-04-17 |  |
+| [Fire](https://open.spotify.com/track/4rDwRReunkleF9aisMmguC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Fire](https://open.spotify.com/album/5n0RsqJukHxaXLDlPFy0K8) | 3:16 | 2026-04-17 |  |
 | [Fire + Ice \(feat\. Jake Shears\)](https://open.spotify.com/track/54F4Vou1VXstyMzc2TcWGL) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Fire + Ice \(feat\. Jake Shears\)](https://open.spotify.com/album/6KuvTJQIhJSw4D0umoSnV1) | 3:06 | 2025-09-05 | 2025-10-05 |
 | [First Be a Woman \- New Version 2K22 Edit](https://open.spotify.com/track/11CeRIRp41m2HPaYqeckLo) | [Zetaphunk](https://open.spotify.com/artist/5Ib1N02pK2hNPOjNlJZ4Jx), [Joseph Sinatra](https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn), [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [First Be a Woman \(New Version 2K22\)](https://open.spotify.com/album/3c9OEZKe5jAHm2acC12qna) | 3:33 | 2022-10-28 | 2022-11-12 |
 | [First Original Thought](https://open.spotify.com/track/5muTft7oCwTsn2eeLyYFLy) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [First Original Thought](https://open.spotify.com/album/2rH7ACS9qrOtZ5sDXIx7OD) | 2:50 | 2025-09-26 | 2026-01-24 |
@@ -712,6 +712,7 @@
 | [I Don't Go Out](https://open.spotify.com/track/1MyaKBtXxY6fVXKpGnfpZh) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [I Don't Go Out](https://open.spotify.com/album/06IA3CmlGc7CO9MWkPG0Ib) | 2:38 | 2025-08-15 | 2026-01-24 |
 | [I Don’t Remember It](https://open.spotify.com/track/6VpgjsweUl11bHGFxQMHCE) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [I Don’t Remember It](https://open.spotify.com/album/6NeqdzjfYfGS4oZ0p6aLL1) | 4:28 | 2025-12-05 | 2026-01-24 |
 | [I Feel Love](https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:13 | 2023-04-28 | 2023-05-27 |
+| [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 5:03 | 2026-04-18 |  |
 | [I Forgive You \- \(Chromeo Remix\) \[radio edit\]](https://open.spotify.com/track/7Bdtb10c2V4oVqsz8Ebkk5) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [I Forgive You \[\(Chromeo Remix\) \[radio edit\]\]](https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7) | 3:21 | 2024-09-20 | 2025-03-22 |
 | [I got it bad](https://open.spotify.com/track/40gsPLTRUl4VDevJNoNeNE) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:52 | 2023-08-18 | 2023-09-23 |
 | [I GOT YOU \(Feat\. Lauv\)](https://open.spotify.com/track/3X8L4DUPjLUE1cr8omydPT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 3:04 | 2024-02-09 | 2024-03-02 |

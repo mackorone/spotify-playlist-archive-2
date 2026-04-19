@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 45 | [Falling Posture](https://open.spotify.com/track/7xoDYHccYoi09Y2qv7dvk3) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Falling Posture](https://open.spotify.com/album/3f71SUpFswCJCDRWGI5CJY) | 2:58 |
 | 46 | [It Comes Creeping](https://open.spotify.com/track/4JGkHDbL8ojXnhXufybIPk) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [It Comes Creeping](https://open.spotify.com/album/2Qiaj7HeHTzMW0HquUYqBm) | 3:58 |
 | 47 | [Heaven Sent](https://open.spotify.com/track/0ewbgBIlWOENsK3IlhRTDK) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Heaven Sent](https://open.spotify.com/album/3F1BhsVsH3KKzNiLMG5M1j) | 3:07 |
-| 48 | [Only Girl](https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Only Girl](https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb) | 3:35 |
+| 48 | [Only Girl \(Single Version\)](https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Only Girl \(Single Version\)](https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb) | 3:35 |
 | 49 | [Dr\. Doctor](https://open.spotify.com/track/4aHwXGVekQoKMPJXSYVoRH) | [congratulations](https://open.spotify.com/artist/3Zd0jI43rmogm8qVt2QAdq) | [Dr\. Doctor](https://open.spotify.com/album/4QNynwcqgk6SAKYhtUi7UJ) | 3:25 |
 | 50 | [Changeling](https://open.spotify.com/track/0CxblZYOpspbcyamka1LLR) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Changeling](https://open.spotify.com/album/55fj3lv8GYftOEs5eLBfEo) | 2:24 |
 

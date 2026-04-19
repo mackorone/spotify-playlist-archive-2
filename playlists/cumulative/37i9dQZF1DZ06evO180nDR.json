@@ -1877,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "SABIA",
+        "url": "https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156517,
+      "name": "MATCHA",
+      "url": "https://open.spotify.com/track/7KfaBqVsLdG6AtqHTtX36g"
+    },
+    {
+      "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 156858,
       "name": "Qu\u00e9 Pena Contigo",
       "url": "https://open.spotify.com/track/5LkX1CktvInZ3kRotKu37f"

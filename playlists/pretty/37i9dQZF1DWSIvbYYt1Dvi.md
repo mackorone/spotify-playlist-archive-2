@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > pretona, responsa, do corre \- pergunta da luanna pra sua namorada \(!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,144,731 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,144,651 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [TÚNEL REBOUÇAS](https://open.spotify.com/track/7k0aaFjBBSyqwWoTNhVryG) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [Você Precisa do Álibi](https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX) | 1:48 |
 | 50 | [Leandro Roque](https://open.spotify.com/track/6CloyUaUDsg2gOp51hT9ao) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Até A Última Rima](https://open.spotify.com/album/0q7BnzgfpF9TiaYAN01K3E) | 4:35 |
 
-Snapshot ID: `AAAAAFlN7loucEWuecJA2SoVw/YwJM0i`
+Snapshot ID: `AAAAAI2e0TPFQn0z3zZKbsPcs6n63SpD`

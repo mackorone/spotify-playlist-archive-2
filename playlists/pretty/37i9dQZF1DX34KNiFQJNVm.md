@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Anitta, Olivia Rodrigo, Mc Kevin o Chris, Grupo Menos É Mais, Demi Lovato, Diego & Victor Hugo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,281,189 likes - 93 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,281,122 likes - 93 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 58 | [Rap Não](https://open.spotify.com/track/5LxjQe4oR1rQ8HleCjiUxC) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [All4n](https://open.spotify.com/artist/4iwliJFcHIDmlHmdTSso3W) | [Imundo](https://open.spotify.com/album/1J5tvGAHp4FLvx8biG8Hop) | 2:14 |
 | 59 | [Na Rlk Do Bts](https://open.spotify.com/track/6zRmVaHzlADMprXMUc5rZU) | [MC Fr da Norte](https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [Veiga no Beat](https://open.spotify.com/artist/7Iojib0lifaGJnw2oip1pu), [Raul GR](https://open.spotify.com/artist/5myuJmuzkHTOKTrRdjOX6g) | [Na Rlk Do Bts](https://open.spotify.com/album/5RMKNv2qhwGM2sbm7PSsub) | 3:44 |
 | 60 | [Faz o BBB \(feat\. Mc Lele JP\)](https://open.spotify.com/track/73z4IJld5iyo0dXsolpmcu) | [Brenninho VJ](https://open.spotify.com/artist/2XKAwrTieZHEnU6mgALhgN), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [Mc Lele JP](https://open.spotify.com/artist/1gZ5b2Lr34s0K1563qWHtL) | [Faz o BBB \(feat\. Mc Lele JP\)](https://open.spotify.com/album/6aoHsR1QYiEA9edn5YsylK) | 3:38 |
-| 61 | [FAVELINHA](https://open.spotify.com/track/2OkmcaL3Cvc8f3kqiWXJhX) | [TH Conrado](https://open.spotify.com/artist/7n9zqMp16j04Xve02Dy4hb), [Fb de Saquarema](https://open.spotify.com/artist/4xBrBPZecc42MQQAy5BBtp), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK) | [FAVELINHA](https://open.spotify.com/album/1daDm33XFLrlxX6QHup9yF) | 2:48 |
+| 61 | [FAVELINHA](https://open.spotify.com/track/2OkmcaL3Cvc8f3kqiWXJhX) | [TH Conrado](https://open.spotify.com/artist/7n9zqMp16j04Xve02Dy4hb), [Fb de Saquarema](https://open.spotify.com/artist/4xBrBPZecc42MQQAy5BBtp), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Barulhentarecords](https://open.spotify.com/artist/5LZaugcJssr6X06GVTdpuc) | [FAVELINHA](https://open.spotify.com/album/1daDm33XFLrlxX6QHup9yF) | 2:48 |
 | 62 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 |
 | 63 | [Depois que você Foi embora](https://open.spotify.com/track/6OSpxFh9Xukczp78tGsL8c) | [Ryxn Pablo](https://open.spotify.com/artist/3jLOCfBDWUMvUdxpO4X2F5), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [Não Sei Falar Mais de Amor \(Meu Outro Lado\)](https://open.spotify.com/album/1kPbs8TPY4zW925cyUHpCk) | 4:01 |
 | 64 | [Fugaz](https://open.spotify.com/track/5aNxew8rnWK7pKAhUzfHs9) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Fugaz](https://open.spotify.com/album/5guRpzzHwt3mDSI9Iz3NTW) | 3:42 |
@@ -100,6 +100,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 90 | [Te Beijei](https://open.spotify.com/track/33w69xKoZqw9SZBjH0t8Mj) | [Yahoo](https://open.spotify.com/artist/29bYY1WyOuJ3Z2jxYhT7kM) | [Te Beijei](https://open.spotify.com/album/5KWtMye0hULoCq2CZ5DBDP) | 4:14 |
 | 91 | [MINHA FOME](https://open.spotify.com/track/5ZncoXYFDsodiGpxqqNQja) | [Rz Oficial](https://open.spotify.com/artist/233ruFAAEuyk91yJJTsflV), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3) | [MINHA FOME](https://open.spotify.com/album/0pt8i9OgqttYdZkmXsyx63) | 2:21 |
 | 92 | [Feito rio \(fora do leito\)](https://open.spotify.com/track/2f3jJUaJG7Tli33vQluIhd) | [O Teatro Mágico](https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ), [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Feito rio \(fora do leito\)](https://open.spotify.com/album/6CDyMipiu6aplxU5AqrtCw) | 4:40 |
-| 93 | [Pé na Terra](https://open.spotify.com/track/1W3WAyCanvXJLPNcNvou9c) | [Kae Guajajara Catalogo](https://open.spotify.com/artist/5e9hHeP1DxLeaTjqhCsAVI) | [Pé na Terra](https://open.spotify.com/album/1b2xIevYeOAf35HyMCen5U) | 2:56 |
+| 93 | [Pé na Terra](https://open.spotify.com/track/1W3WAyCanvXJLPNcNvou9c) | [Kaê Guajajara](https://open.spotify.com/artist/3PMGE59u9984fAh4jVYP6C) | [Pé na Terra](https://open.spotify.com/album/1b2xIevYeOAf35HyMCen5U) | 2:56 |
 
 Snapshot ID: `AAAAAFEe898/8/jOwQ3Xb4lqHuc6omNi`

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 67889,
+  "num_followers": 67898,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAAA0PBe9o7hY8twiiRi+WIUC",
+  "snapshot_id": "aeF4AAAAAAB7p+S3aBbSCLnDfAehTHzA",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abriendo Caminos",
-        "url": "https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Como Fui A Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Clasicas del Ayer, Vol. 1",
         "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 154533,
       "name": "El Golpe Traidor",
       "url": "https://open.spotify.com/track/3Dw29YgE0kNvEBDX1WGTpX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abriendo Caminos",
+        "url": "https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Como Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castillo de Ilusi\u00f3n",
-        "url": "https://open.spotify.com/album/0UbMbsyZgnztk6z08mugvU"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/0LCgPftb1BoxaAmKe8RwY8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Libertad",
         "url": "https://open.spotify.com/album/30dzWWHrTkkPscEAMQbybh"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 168096,
       "name": "Mi Libertad",
       "url": "https://open.spotify.com/track/1F2w6bwCoMuuRH46bi4u60"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castillo de Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/0UbMbsyZgnztk6z08mugvU"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/0LCgPftb1BoxaAmKe8RwY8"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
+        "name": "Siempre Imitado, Jamas Igualado",
+        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 218400,
-      "name": "La Loba del Mal",
-      "url": "https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV"
+      "duration_ms": 208973,
+      "name": "Mi Primer Amor (Meu Primeiro Amor)",
+      "url": "https://open.spotify.com/track/4MBykXKFPYkAmsZhe2kYDo"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Imitado, Jamas Igualado",
-        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 208973,
-      "name": "Mi Primer Amor (Meu Primeiro Amor)",
-      "url": "https://open.spotify.com/track/4MBykXKFPYkAmsZhe2kYDo"
+      "duration_ms": 218400,
+      "name": "La Loba del Mal",
+      "url": "https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 208440,
-      "name": "Al Ver Que Te Vas",
-      "url": "https://open.spotify.com/track/0DRAf1NW1dBCMJOq5r0RKV"
+      "duration_ms": 209333,
+      "name": "Tu y las Nubes",
+      "url": "https://open.spotify.com/track/2QlvSbUggsc1f6eyta9vnD"
     }
   ],
   "unique_name": "This Is Los Rieleros Del Norte",

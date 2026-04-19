@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Silva Bumpa, Honey Dijon, John Summit, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,468 likes - 125 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,490 likes - 125 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 44 | [Break It](https://open.spotify.com/track/3jiq4HBxQjEjOp1ZvOTGge) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Break It](https://open.spotify.com/album/42rRSmWPbd3NQIltYKwSYl) | 2:53 |
 | 45 | [Devotion \(Sweetest Emotion\)](https://open.spotify.com/track/6ffejqaHW8eatoka1sntka) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Devotion \(Sweetest Emotion\)](https://open.spotify.com/album/5lr9NRdfJmcITfu7NCObUC) | 2:37 |
 | 46 | [Be OK](https://open.spotify.com/track/4Qujdsyg6fVpuI6rMZsTQI) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Be OK](https://open.spotify.com/album/0iwhXyOUK1BDYmliOivVgp) | 3:00 |
-| 47 | [Nexus](https://open.spotify.com/track/7Db3ixbu5fo3uUZ2ZyQDKW) | [G\-REX](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb) | [Nexus](https://open.spotify.com/album/7FohOMeifnnZOsoDFOybRZ) | 2:31 |
+| 47 | [NEXUS](https://open.spotify.com/track/7Db3ixbu5fo3uUZ2ZyQDKW) | [G\-REX](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb) | [NEXUS](https://open.spotify.com/album/7FohOMeifnnZOsoDFOybRZ) | 2:31 |
 | 48 | [Fade To Black](https://open.spotify.com/track/00KOoRqO6Gs9JsEUS1T9RL) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Fade To Black](https://open.spotify.com/album/5CLEOFrBqLAfqlb4fN0TpT) | 2:57 |
 | 49 | [Burning From](https://open.spotify.com/track/130iK6dyCb0FnaltUElePv) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX), [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx) | [Burning From](https://open.spotify.com/album/2v5pQzH6dLCNHT5F8b9y2Q) | 4:03 |
 | 50 | [Error 4 On The Floor](https://open.spotify.com/track/7Apml1Un1bjL0tKverMqIZ) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Industrial Sunset Memories](https://open.spotify.com/album/6BBuO5vH6zTR8sP7HMmmeF) | 3:47 |

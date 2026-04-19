@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: 영파씨 \(YOUNG POSSE\)\)
 
-1,655 songs - 3 day 16 hr 40 min
+1,656 songs - 3 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Born Savage](https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.2](https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P) | 2:52 | 2026-04-14 |  |
 | [BORN TO LOVE YOU](https://open.spotify.com/track/3gOfgRZp9Cglmn2p0I68YP) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [BORN TO LOVE YOU](https://open.spotify.com/album/3qzLoa9H5KHNdhU7qcINmo) | 2:54 | 2022-03-21 | 2022-05-19 |
 | [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 | 2026-02-23 | 2026-04-09 |
-| [BOTTOMS UP](https://open.spotify.com/track/5ThWoCQuCn1tqDUDBGkleB) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SEVEN : CRIMSON HORIZON](https://open.spotify.com/album/6WNkHW85pgRwezQlFtcnik) | 3:18 | 2026-03-19 |  |
+| [BOTTOMS UP](https://open.spotify.com/track/5ThWoCQuCn1tqDUDBGkleB) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SEVEN : CRIMSON HORIZON](https://open.spotify.com/album/6WNkHW85pgRwezQlFtcnik) | 3:18 | 2026-03-19 | 2026-04-19 |
 | [BOY](https://open.spotify.com/track/6SqOpxXMMS8axhJoqz8Nel) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER ONE](https://open.spotify.com/album/7IGNNe8FGyEtOZdoUBjLPw) | 3:16 | 2020-10-13\* | 2021-02-15 |
 | [Boyfriend](https://open.spotify.com/track/5n1tIwuiCnsNWrJvBSpENm) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [cignature 2nd EP Album 'Dear Diary Moment'](https://open.spotify.com/album/0aTFAjXc6DQuBiJt3WePb9) | 3:18 | 2021-12-02 | 2022-01-17 |
 | [BRAIN](https://open.spotify.com/track/4lAToXJW9Lvc8etF42IcoF) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Chocolate Box](https://open.spotify.com/album/4ilhdkJzJudY6RBp0PifGw) | 3:28 | 2021-09-24 | 2021-10-30 |
@@ -1376,6 +1376,7 @@
 | [Sweet Juice](https://open.spotify.com/track/2th6UWbfVz3hsSDzQAKqy2) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Cabin Fever](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) | 3:12 | 2023-02-17 | 2023-04-21 |
 | [Sweet Sorrow of Mother](https://open.spotify.com/track/6s7KK3ktVQaLNjiIVxlmV2) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Sweet Sorrow of Mother](https://open.spotify.com/album/5JeeP4rSAS41KjuC7c6cvJ) | 1:06 | 2022-10-27 | 2023-01-18 |
 | [SWICY](https://open.spotify.com/track/3owGQ1rmtKXpvwHmF0S2CZ) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 2nd Mini Album 'SWICY'](https://open.spotify.com/album/3S4N457QDAQonUfQU2ACj9) | 3:03 | 2025-04-17 | 2025-07-02 |
+| [swipe\_feat\_lou\_garcia\_v1.mp3](https://open.spotify.com/track/4zsxh0FkRntWV1vA7ckhHQ) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [seriously unserious](https://open.spotify.com/album/5iK4Cr6djzpTWvuPCxCosm) | 2:04 | 2026-04-18 |  |
 | [Switch](https://open.spotify.com/track/2muZNT1f0eVDC6qbCto2Ma) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [3RD DESIRE \[Reve\]](https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY) | 3:23 | 2022-03-11 | 2022-06-09 |
 | [Switch It Up \(feat\. sokodomo\) \- Prod\. Cha Cha Malone](https://open.spotify.com/track/1m1ho1lkZHAGe7rv5K8Ift) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [Switch It Up \(feat\. sokodomo\) \[Prod\. Cha Cha Malone\]](https://open.spotify.com/album/5mFDH66iKlo3pBjMSRxddK) | 3:35 | 2021-05-15 | 2021-07-14 |
 | [Switch to me \(duet with JYP\)](https://open.spotify.com/track/1LjhBbl5MvGz2rYcz5Fhgm) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [Switch to me \(duet with JYP\)](https://open.spotify.com/album/3XnNc5DV6LdZODUjV3YJVp) | 3:17 | 2020-12-31 | 2021-03-01 |

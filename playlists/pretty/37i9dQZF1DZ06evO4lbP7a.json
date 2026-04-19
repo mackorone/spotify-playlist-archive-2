@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 50020,
+  "num_followers": 50023,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAABGz1gbIj5Fly/2RYeNHdrR",
+  "snapshot_id": "aeF4AAAAAACNbM2IEOp21DhuomI4gihB",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u98db\u3076\u6642 / \u98db\u307c\u3046\u3088",
+        "url": "https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 259588,
+      "name": "\u98db\u307c\u3046\u3088",
+      "url": "https://open.spotify.com/track/4Ael7H7pDC9VIHeA0CxU4U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "awake\uff06build",
         "url": "https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u98db\u3076\u6642 / \u98db\u307c\u3046\u3088",
-        "url": "https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 259588,
-      "name": "\u98db\u307c\u3046\u3088",
-      "url": "https://open.spotify.com/track/4Ael7H7pDC9VIHeA0CxU4U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
         "url": "https://open.spotify.com/album/7yTWJUaWIAU0ERYbbTZXwr"
       },
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "End roll",
-        "url": "https://open.spotify.com/album/3uyKE7Xaxo4LCK6qiNw64R"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "End roll",
-      "url": "https://open.spotify.com/track/0WKB31BWP8DLFCpSQxGQNb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u86f9",
         "url": "https://open.spotify.com/album/6qqUwVgl227Y6CM5LxLt1F"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 234471,
       "name": "\u86f9",
       "url": "https://open.spotify.com/track/3WE8A4ZHK7CDtXtcvpJxnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "End roll",
+        "url": "https://open.spotify.com/album/3uyKE7Xaxo4LCK6qiNw64R"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "End roll",
+      "url": "https://open.spotify.com/track/0WKB31BWP8DLFCpSQxGQNb"
     },
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u98db\u3076\u6642 / \u98db\u307c\u3046\u3088",
+        "url": "https://open.spotify.com/album/5DhI0TZsFo5H7xoi1QLdaW"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 253323,
+      "name": "\u98db\u3076\u6642",
+      "url": "https://open.spotify.com/track/3oD8xasVquybDGrftRT70E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BURN",
         "url": "https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 208733,
       "name": "us",
       "url": "https://open.spotify.com/track/3dOIgsfzZWsLcCTON0ebLt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u98db\u3076\u6642 / \u98db\u307c\u3046\u3088",
-        "url": "https://open.spotify.com/album/5DhI0TZsFo5H7xoi1QLdaW"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 253323,
-      "name": "\u98db\u3076\u6642",
-      "url": "https://open.spotify.com/track/3oD8xasVquybDGrftRT70E"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
-        "url": "https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "shadow dance",
-      "url": "https://open.spotify.com/track/1tyfDn2VPRvh336veB1ajh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u771f\u3063\u767d",
         "url": "https://open.spotify.com/album/1X3vFDKaJJjQxQ2i21dBh8"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 287166,
       "name": "\u771f\u3063\u767d",
       "url": "https://open.spotify.com/track/1m0RfmsLgUUf0AB1zyObXc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
+        "url": "https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "shadow dance",
+      "url": "https://open.spotify.com/track/1tyfDn2VPRvh336veB1ajh"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u3053\u3060\u307e",
-        "url": "https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "\u3053\u3060\u307e",
-      "url": "https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u4e00\u5bf8\u306e\u8d64",
         "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 231673,
       "name": "\u4e00\u5bf8\u306e\u8d64",
       "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u3053\u3060\u307e",
+        "url": "https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "\u3053\u3060\u307e",
+      "url": "https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv"
     },
     {
       "added_at": null,

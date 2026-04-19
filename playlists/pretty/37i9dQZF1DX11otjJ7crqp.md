@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Tyla & Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,462 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,926 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 45 | [Out Of Your Mind](https://open.spotify.com/track/6HZk1yiOCMJf5kG9nIllam) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Out Of Your Mind](https://open.spotify.com/album/3ki56auYqzO4FJh0s6MCR9) | 3:21 |
 | 46 | [Low Rise Jeans](https://open.spotify.com/track/7ajWF4MJHmswvijYEsFGZs) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Low Rise Jeans](https://open.spotify.com/album/6aS09iHBjpTatkojX4xdPY) | 3:26 |
 | 47 | [Math](https://open.spotify.com/track/5y40k1yP3pUMg69hVEQk0P) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Math](https://open.spotify.com/album/0uczKgTbXTaV7PUSZWMgqO) | 2:48 |
-| 48 | [Fire](https://open.spotify.com/track/4rDwRReunkleF9aisMmguC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Fire](https://open.spotify.com/album/5n0RsqJukHxaXLDlPFy0K8) | 3:17 |
+| 48 | [Fire](https://open.spotify.com/track/4rDwRReunkleF9aisMmguC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Fire](https://open.spotify.com/album/5n0RsqJukHxaXLDlPFy0K8) | 3:16 |
 | 49 | [what a waste!](https://open.spotify.com/track/3Ugh5aihqQGsvlyV4VKY6k) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [what a waste!](https://open.spotify.com/album/3jSjDPO4oNJkWwMR6LiBoj) | 2:53 |
 | 50 | [dumbest girl in the world](https://open.spotify.com/track/6Lsp0hAsrd1HDHbLxRnu5u) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [god forbid a girl spits out her feelings!](https://open.spotify.com/album/1Ae3HjPsQvfnnZKEvOxXwN) | 2:22 |
 | 51 | [Layup](https://open.spotify.com/track/3ijbZcX6UoGIToLwPruSyq) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [Mirror](https://open.spotify.com/album/0QU5rFD030uC1ABf0XrotW) | 2:46 |

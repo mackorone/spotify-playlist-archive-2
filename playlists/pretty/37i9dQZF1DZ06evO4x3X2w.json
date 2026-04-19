@@ -1,29 +1,13 @@
 {
   "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 722240,
+  "num_followers": 722276,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAACBjUEI9YfIAfwWAKlh7BMG",
+  "snapshot_id": "aeF4AAAAAAD0x0O87z0ledBMo61/12Gg",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aerosmith (Legendary Expanded Edition)",
-        "url": "https://open.spotify.com/album/6Tv1n4rCnAzrKX0VfqnQs9"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 216205,
-      "name": "Train Kept A Rollin' - Session Take",
-      "url": "https://open.spotify.com/track/1rkS3FNM5sEAecKsgbmPj3"
-    },
     {
       "added_at": null,
       "album": {
@@ -403,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rocks",
-        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
       },
       "artists": [
         {
@@ -412,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 206631,
-      "name": "Last Child",
-      "url": "https://open.spotify.com/track/3Kx6oHPQxtA5aJzcZeuE7r"
+      "duration_ms": 205923,
+      "name": "Falling In Love (Is Hard On The Knees)",
+      "url": "https://open.spotify.com/track/798M8UpxnEqKotUBuiDqhR"
     },
     {
       "added_at": null,
@@ -455,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 206631,
+      "name": "Last Child",
+      "url": "https://open.spotify.com/track/3Kx6oHPQxtA5aJzcZeuE7r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nine Lives",
         "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
       },
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 205923,
-      "name": "Falling In Love (Is Hard On The Knees)",
-      "url": "https://open.spotify.com/track/798M8UpxnEqKotUBuiDqhR"
+      "duration_ms": 300672,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/4lv7AOF6HTL0xsrp57tvOq"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nine Lives",
-        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+        "name": "Get Your Wings",
+        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 300672,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/4lv7AOF6HTL0xsrp57tvOq"
+      "duration_ms": 333662,
+      "name": "Train Kept a Rollin'",
+      "url": "https://open.spotify.com/track/6zb4VGZE20uKHc0mydFgR5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > La playlist del jazz italiano, passato e presente\. Cover: Carolina Bubbico
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,254 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,260 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 99 | [Canzone di Nausicaa](https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Gabriele Mirabassi](https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE) | [Racconti mediterranei](https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2) | 7:34 |
 | 100 | [Rotation Suggesting Permanence](https://open.spotify.com/track/3PdRX3VXcvB5QihiG9AGkn) | [Francesca Gaza](https://open.spotify.com/artist/6jLkAhKbd3toZ58ri9NQrV), [Lilac for People](https://open.spotify.com/artist/1kzPulOF322PjMpEXxRaDi), [Francesco Panconesi](https://open.spotify.com/artist/6uKv6Z2fiKeT5Y5t7mNyLH), [Federico D'Angelo](https://open.spotify.com/artist/6zKvi01bSjLn1CQdjdxMqN), [Lorenzo Pellegrini](https://open.spotify.com/artist/6c3utzV4qal0l7YBAritiT), [Mattia Galeotti](https://open.spotify.com/artist/2tKfm6EL0BNZk730TYTmef), [Jacopo Fagioli](https://open.spotify.com/artist/695Z6UdxewsuHti1yj1p02), [Alessandro Mazzieri](https://open.spotify.com/artist/2p4O37ipDx6ZgQ9oWNwTtX), [Luca Sguera](https://open.spotify.com/artist/3bipt9nPFehsZyLDvObGlr) | [Sfiorire](https://open.spotify.com/album/66nuFnF4fEJ1Vl5y34yltA) | 3:14 |
 
-Snapshot ID: `AAAAALrCFFZvFhyVXmmnmbYz2WVuIO4G`
+Snapshot ID: `AAAAAPUT5MXhuEJ650Mly1zAVN7sOPOh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: youbet
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,938 likes - 113 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,928 likes - 113 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 98 | [Palm Sunday](https://open.spotify.com/track/3UYAtSxvN9uPL3PAceDw0p) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP) | [Palm Sunday](https://open.spotify.com/album/5MOR5nou2wmjEI72YNFinH) | 2:44 |
 | 99 | [Tell Me Something Happy](https://open.spotify.com/track/5mXbIr8Q0GKaatmUvZWYL5) | [Dori Valentine](https://open.spotify.com/artist/3uS3Hqh4mAJgkucQlbDz0w) | [Tell Me Something Happy](https://open.spotify.com/album/0cZIVNbs0AL3CySebkIk0m) | 2:59 |
 | 100 | [hypotheticals](https://open.spotify.com/track/56LXvIYCFTWCAhIOTqpjHs) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [cowboy's gonna do it](https://open.spotify.com/album/2D0QmeeTE0C8Rtjzj6DmJp) | 3:36 |
-| 101 | [Only Girl](https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Only Girl](https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb) | 3:35 |
+| 101 | [Only Girl \(Single Version\)](https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Only Girl \(Single Version\)](https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb) | 3:35 |
 | 102 | [Layla](https://open.spotify.com/track/6VN3BKyXPSRmsNsWF7vwwB) | [Janelane](https://open.spotify.com/artist/35N63pLgKzB0ZknLTrFVSA) | [Layla](https://open.spotify.com/album/2I5YF2KVWXGzcmcajYe7DR) | 3:18 |
 | 103 | [Touch Base](https://open.spotify.com/track/48qeE7lY6PzSwBsLOn7mbO) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Trains Running Backwards](https://open.spotify.com/album/6bqdx647yJNvWTqhEskejD) | 3:42 |
 | 104 | [silver and gold](https://open.spotify.com/track/1IuNjcvA7heWSCoqJChPhn) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [silver and gold](https://open.spotify.com/album/2LRK334hpyu7XBdc9Ho5Y5) | 2:17 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 112 | [Sentry](https://open.spotify.com/track/5SFwml6SjVbEvDWm0gh2me) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 3:54 |
 | 113 | [Strawberry](https://open.spotify.com/track/7I1uAxTOm7pbSncfMMI1Nt) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Strawberry](https://open.spotify.com/album/4HwBZ2vn1kF7ba0PdZTsOW) | 2:51 |
 
-Snapshot ID: `AAAAAMqEI7HsIg+AqWXbSfrzn3F2INJC`
+Snapshot ID: `AAAAAPUuz6KSehgXdlXUjcVys7h0UOjq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Yeat, DJ Khaled and Don Toliver.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,757,767 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,757,365 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Feeling On My Body](https://open.spotify.com/track/5AIKM6zNiPi00rbWPnEq80) | [Taffy](https://open.spotify.com/artist/7hjNO6RQeqZIBZpZQdstUO), [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Feeling On My Body](https://open.spotify.com/album/50owKb2Oo4FXVBpsxBwxSq) | 2:37 |
 | 50 | [PGD \(feat\. Kyle Richh & ZEDDY WILL\)](https://open.spotify.com/track/2qxaBUnihi6tbLnAUE2pye) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [PGD \(feat\. Kyle Richh & ZEDDY WILL\)](https://open.spotify.com/album/55PVyRV3IhOpKAzLcPxFs3) | 3:37 |
 
-Snapshot ID: `AAAAAHqABnjU1BOJj/XM4ve6mxJCLAsA`
+Snapshot ID: `AAAAAPLggBZypWTfUGdUWZ6eISufF/4y`

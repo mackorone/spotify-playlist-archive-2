@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 140769,
       "name": "304",
       "url": "https://open.spotify.com/track/7fSDdazwuxvg30dLu9niYJ"
@@ -546,6 +546,24 @@
       "duration_ms": 186991,
       "name": "DAMN SHORTY - feat. Sexyy Red",
       "url": "https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm"
+    },
+    {
+      "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155317,
+      "name": "David Ruffin",
+      "url": "https://open.spotify.com/track/5qm8RDbGx8l6T87Y9K0Q7y"
     },
     {
       "album": {
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 178911,
       "name": "N.P.O. (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/6l2mk4tLcEVs6Bmm7LNVig"
@@ -1854,6 +1872,28 @@
       "duration_ms": 168333,
       "name": "Push Start",
       "url": "https://open.spotify.com/track/0iwW0dxjJk0sA08HNyDscr"
+    },
+    {
+      "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173806,
+      "name": "Rackies (feat. ATL Jacob)",
+      "url": "https://open.spotify.com/track/0UcuymskcvzMYexnJiVBmd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-191 songs - 11 hr 9 min
+193 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Don't](https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:04 | 2022-08-05 |  |
 | [Don't You Want A Man Like Me](https://open.spotify.com/track/0QN7xWTtLbYGMH9PUtBh47) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Don't You Want A Man Like Me](https://open.spotify.com/album/0n2T7hKzdd74enBQZCN8j6) | 2:54 | 2025-11-16 | 2026-02-11 |
 | [Don't You Want A Man Like Me](https://open.spotify.com/track/60eng0YpCDI9fwo1uY62ke) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 2:54 | 2026-02-11 |  |
-| [Done](https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 2:39 | 2024-08-26 |  |
+| [Done](https://open.spotify.com/track/2QAQ1m3LGHKkL0QvNNBXyF) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mileage \(Deluxe Edition\)](https://open.spotify.com/album/5h3wP087I8yUbEFnlyzR0D) | 2:39 | 2026-04-19 |  |
+| [Done](https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 2:39 | 2024-08-26 | 2026-04-19 |
 | [Easy Love Pt\. 1](https://open.spotify.com/track/5S8UxDwf7l053EkJvCK9jn) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Easy Love Pt\. 1](https://open.spotify.com/album/5Cnb7R1qKioeMdNH0gPSGH) | 4:07 | 2025-01-24 | 2025-01-27 |
 | [Easy Love Pt\. 1](https://open.spotify.com/track/7r4MXnjGgL3iI1o17QndRj) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:07 | 2025-01-31 |  |
 | [Easy Love Pt\. 2](https://open.spotify.com/track/3Q4sXBBu9V3V46dk5YDZ9q) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 3:27 | 2025-01-27 | 2025-02-23 |
@@ -84,7 +85,8 @@
 | [Georgia off My Mind](https://open.spotify.com/track/2FB5zzkM1KLBMPZ0il54lF) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Georgia Off My Mind](https://open.spotify.com/album/7oUCaDFalrYoXSNFASHgOl) | 3:54 | 2022-08-24 | 2022-11-18 |
 | [Georgia Off My Mind](https://open.spotify.com/track/2se33uCsb88PVwbp6ESNGb) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Georgia Off My Mind](https://open.spotify.com/album/03hV4QXMxzg5Hh7Q7HRulj) | 3:54 | 2022-09-05 | 2022-09-19 |
 | [Georgia Off My Mind](https://open.spotify.com/track/5SjyB8pyvZC2MMdLO0aKuw) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:54 | 2022-11-17 | 2025-01-31 |
-| [Get Up](https://open.spotify.com/track/7bXqvbsH7owO0tjlzHItqX) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Sweetwater \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SCZ9Z6zeSU3mB5AbP2kp) | 2:20 | 2023-06-17 |  |
+| [Get Up](https://open.spotify.com/track/0kbk9S7qqlizTHYCMsqfWc) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Sweetwater \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7FyOwU1zmlXnoWelI1xavo) | 2:20 | 2026-04-19 |  |
+| [Get Up](https://open.spotify.com/track/7bXqvbsH7owO0tjlzHItqX) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Sweetwater \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SCZ9Z6zeSU3mB5AbP2kp) | 2:20 | 2023-06-17 | 2026-04-19 |
 | [God Moves On The Water](https://open.spotify.com/track/56w5xZcUip6M2Racahglwl) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 2:44 | 2024-09-01 |  |
 | [God Moves On The Water](https://open.spotify.com/track/6WO209fUKXVhYhUwlJxp9w) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 2:44 | 2025-04-20 | 2025-07-16 |
 | [God Moves On The Water](https://open.spotify.com/track/7nn5dN7SAEsHkxITB9Kki6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:44 | 2022-08-05 | 2023-03-21 |

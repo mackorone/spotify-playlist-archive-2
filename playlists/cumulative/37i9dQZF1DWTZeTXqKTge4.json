@@ -20843,6 +20843,24 @@
     },
     {
       "album": {
+        "name": "Sunshowers EP",
+        "url": "https://open.spotify.com/album/4fHUfXT4Yj0pg9GmHJRniM"
+      },
+      "artists": [
+        {
+          "name": "Mighty Sampson",
+          "url": "https://open.spotify.com/artist/3c6nIHDmmcDQRvbMBiIiRn"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265785,
+      "name": "The Equation",
+      "url": "https://open.spotify.com/track/5k3R7EVELQypomg1Pl0bVr"
+    },
+    {
+      "album": {
         "name": "TPL",
         "url": "https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ"
       },

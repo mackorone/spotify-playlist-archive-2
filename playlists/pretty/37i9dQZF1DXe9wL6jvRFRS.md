@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9wL6jvRFRS.md) - [plain]
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. My New Band Believe on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,200 likes - 84 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,213 likes - 84 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9wL6jvRFRS.md) - [plain]
 | 3 | [Virgin Soil](https://open.spotify.com/track/71JKBAuXDBu6A9IkkNO3SB) | [1000 Rabbits](https://open.spotify.com/artist/6KouMFgMa5zEeyXaeg6fvA) | [Virgin Soil](https://open.spotify.com/album/5I7mZdoalfmV0j3xeKvtix) | 3:30 |
 | 4 | [Tears Are](https://open.spotify.com/track/7stcnuYJENeGeElIewTiSM) | [The Orielles](https://open.spotify.com/artist/5JWEBEt8VxHHxYKFmpzjwD) | [Tears Are](https://open.spotify.com/album/55qNiuxAaaC6YHvFQMmz6M) | 5:32 |
 | 5 | [Snug Barber](https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [Snug Barber](https://open.spotify.com/album/1yBqLhjTJF67wXAmfuGzCw) | 1:58 |
-| 6 | [Only Girl](https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Only Girl](https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb) | 3:35 |
+| 6 | [Only Girl \(Single Version\)](https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Only Girl \(Single Version\)](https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb) | 3:35 |
 | 7 | [Wound Nurse \- 2026 remastered](https://open.spotify.com/track/0OULYgsVb0PUzmgDJjv9Nu) | [MPTL Microplastics](https://open.spotify.com/artist/2BH6uV89RUqArZA5l8hfQd) | [Sod In Heaven](https://open.spotify.com/album/04Ixr0DaUUWMkoib1b4LfQ) | 6:05 |
 | 8 | [Spells](https://open.spotify.com/track/3FDzQQbIDNP9QSgXLpfcgI) | [Spanish Horses](https://open.spotify.com/artist/3YrLAGmnU9JltcICs5wBy1) | [Spells](https://open.spotify.com/album/5EEHJGJ8ESrMmBvE90DbJO) | 2:55 |
 | 9 | [Deer In The Headlights](https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Deer In The Headlights](https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2) | 4:30 |

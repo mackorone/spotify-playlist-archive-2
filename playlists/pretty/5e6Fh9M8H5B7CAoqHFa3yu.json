@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 305,
+  "num_followers": 307,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJQO7oZftbqAiAGpxd3cQyAWm7fV76",
+  "snapshot_id": "AAAJSIHQdxmIGqgi6ZtGhm8UzpL9r3NI",
   "tracks": [
     {
       "added_at": "2026-04-13 10:40:02",
@@ -4731,6 +4731,22 @@
       "duration_ms": 237600,
       "name": "Serpentskirt",
       "url": "https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY"
+    },
+    {
+      "added_at": "2026-04-18 14:12:33",
+      "album": {
+        "name": "REALIDAD ALTERADA",
+        "url": "https://open.spotify.com/album/2XARuDCvhVEYUishRbjWwT"
+      },
+      "artists": [
+        {
+          "name": "El Punto Cardinal",
+          "url": "https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "REALIDAD ALTERADA",
+      "url": "https://open.spotify.com/track/6gwICCzkCRuJVwwx8MUgII"
     },
     {
       "added_at": "2025-07-02 00:15:42",
@@ -37483,6 +37499,86 @@
       "duration_ms": 211687,
       "name": "Love - Acoustic",
       "url": "https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx"
+    },
+    {
+      "added_at": "2026-04-18 10:11:13",
+      "album": {
+        "name": "PROMESA (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/7qWmol4XR5ERVfiGFxDv7o"
+      },
+      "artists": [
+        {
+          "name": "El Punto Cardinal",
+          "url": "https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE"
+        }
+      ],
+      "duration_ms": 341384,
+      "name": "PROMESA (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/4wz4CX5xWPHLFH52ImIBaK"
+    },
+    {
+      "added_at": "2026-04-18 10:46:50",
+      "album": {
+        "name": "Lost Above the Sky",
+        "url": "https://open.spotify.com/album/2bU5O9UKRiSVRX70gfVdXy"
+      },
+      "artists": [
+        {
+          "name": "Abis",
+          "url": "https://open.spotify.com/artist/6pFKneaoODjrgYVkBbfynT"
+        }
+      ],
+      "duration_ms": 127352,
+      "name": "Lost Above the Sky",
+      "url": "https://open.spotify.com/track/5LNoYGQwezVMm3KeZq0LqF"
+    },
+    {
+      "added_at": "2026-04-18 14:12:35",
+      "album": {
+        "name": "REALIDAD ALTERADA (acustico)",
+        "url": "https://open.spotify.com/album/6oNlg6rWaCMo8Z4zAuO2xU"
+      },
+      "artists": [
+        {
+          "name": "El Punto Cardinal",
+          "url": "https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE"
+        }
+      ],
+      "duration_ms": 182229,
+      "name": "REALIDAD ALTERADA (acustico)",
+      "url": "https://open.spotify.com/track/0rj4mIjVdaLvXk2tb1UsJQ"
+    },
+    {
+      "added_at": "2026-04-18 14:12:36",
+      "album": {
+        "name": "PROMESA",
+        "url": "https://open.spotify.com/album/4r9Fl6f7LcOuaEdA55oLeW"
+      },
+      "artists": [
+        {
+          "name": "El Punto Cardinal",
+          "url": "https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "PROMESA",
+      "url": "https://open.spotify.com/track/3mUhVxbdYHsEsHb7Zms0ha"
+    },
+    {
+      "added_at": "2026-04-18 14:12:36",
+      "album": {
+        "name": "DON JOS\u00c9",
+        "url": "https://open.spotify.com/album/58uAz87OfcgRwB0o5evMPY"
+      },
+      "artists": [
+        {
+          "name": "El Punto Cardinal",
+          "url": "https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE"
+        }
+      ],
+      "duration_ms": 264777,
+      "name": "DON JOS\u00c9",
+      "url": "https://open.spotify.com/track/6PnyBXXOnhM0cumDIy4He3"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAABtFeJvR4z8xewH40bjF+M6",
+  "snapshot_id": "aeF4AAAAAADf963C04ZAdKy+5YuU6wKK",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shiesty Season - Spring Deluxe",
+        "url": "https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "No More Heroes",
+          "url": "https://open.spotify.com/artist/6TsHQClbheVZTyc97g5Nc4"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Switch it Up (feat. G Herbo, No More Heroes)",
+      "url": "https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My City (FAST X Soundtrack)",
         "url": "https://open.spotify.com/album/1aLqbEIzAVcrTLgx92YW1h"
       },
@@ -155,30 +179,6 @@
       "duration_ms": 149263,
       "name": "My City",
       "url": "https://open.spotify.com/track/6uWykkthdJzx6GMLcFI2iB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shiesty Season - Spring Deluxe",
-        "url": "https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "No More Heroes",
-          "url": "https://open.spotify.com/artist/6TsHQClbheVZTyc97g5Nc4"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Switch it Up (feat. G Herbo, No More Heroes)",
-      "url": "https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3"
     },
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stepping In Blood",
-        "url": "https://open.spotify.com/album/6NMO2xSNS195esMlTJu3Mk"
-      },
-      "artists": [
-        {
-          "name": "Bloodhound Lil Jeff",
-          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 170184,
-      "name": "Ahhh",
-      "url": "https://open.spotify.com/track/1LMsoLko6U1QHS2zHi5B5T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 196433,
       "name": "Party in Heaven",
       "url": "https://open.spotify.com/track/0nSwqwNqNUlNgpPJ4GDAMm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stepping In Blood",
+        "url": "https://open.spotify.com/album/6NMO2xSNS195esMlTJu3Mk"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Lil Jeff",
+          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 170184,
+      "name": "Ahhh",
+      "url": "https://open.spotify.com/track/1LMsoLko6U1QHS2zHi5B5T"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Herb",
-        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 100476,
-      "name": "Blitz",
-      "url": "https://open.spotify.com/track/56Er42sQAQXExUp5TuDnte"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandson",
         "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 163013,
       "name": "Real Oppy (feat. G Herbo)",
       "url": "https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 100476,
+      "name": "Blitz",
+      "url": "https://open.spotify.com/track/56Er42sQAQXExUp5TuDnte"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome to Fazoland (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 256052,
+      "name": "Same Me",
+      "url": "https://open.spotify.com/track/1vSbIcIQHsquII7EkSwCa4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SCOOMSDAY",
         "url": "https://open.spotify.com/album/5tq50dEe3rTnyMlMp0Ob6C"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 148800,
       "name": "GWSM",
       "url": "https://open.spotify.com/track/4paoz218yUcjPcwhJt6mKA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome to Fazoland (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 256052,
-      "name": "Same Me",
-      "url": "https://open.spotify.com/track/1vSbIcIQHsquII7EkSwCa4"
     },
     {
       "added_at": null,
@@ -787,22 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Most Hated 2",
-        "url": "https://open.spotify.com/album/6xQrmsJcsLLZnPfYErWuKW"
+        "name": "Chicken Talkin Bastard",
+        "url": "https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R"
       },
       "artists": [
         {
-          "name": "Fredo Bang",
-          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 154581,
-      "name": "Back 2 Back",
-      "url": "https://open.spotify.com/track/1tsDf9YBzRuAon9RgzfyOd"
+      "duration_ms": 215000,
+      "name": "Ain't Easy",
+      "url": "https://open.spotify.com/track/3dTs6hT4HPJvcZcE6pU2Um"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
       "duration_ms": 173405,
       "name": "Win Again",
       "url": "https://open.spotify.com/track/5hDPrhSDyIAJoCRKJG8uxB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Most Hated 2",
+        "url": "https://open.spotify.com/album/6xQrmsJcsLLZnPfYErWuKW"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 154581,
+      "name": "Back 2 Back",
+      "url": "https://open.spotify.com/track/1tsDf9YBzRuAon9RgzfyOd"
     },
     {
       "added_at": null,
@@ -859,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chicken Talkin Bastard",
-        "url": "https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Ain't Easy",
-      "url": "https://open.spotify.com/track/3dTs6hT4HPJvcZcE6pU2Um"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
       },
@@ -910,15 +910,11 @@
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 200490,
-      "name": "Never Scared (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
+      "duration_ms": 148239,
+      "name": "Wilt Chamberlin",
+      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
     },
     {
       "added_at": null,
@@ -986,11 +982,15 @@
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 148239,
-      "name": "Wilt Chamberlin",
-      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
+      "duration_ms": 200490,
+      "name": "Never Scared (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
     },
     {
       "added_at": null,

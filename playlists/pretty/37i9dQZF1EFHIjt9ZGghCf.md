@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 834 likes - 137 songs - 15 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 835 likes - 137 songs - 15 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 60 | [Potter and Friend \(feat\. Jesse Cline\)](https://open.spotify.com/track/3yOe7dRZgiHh4MQ1Rue98L) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Jesse Cline](https://open.spotify.com/artist/34dwOJpG3qpSQ9RfSsA6yF) | [Potter and Friend \(feat\. Jesse Cline\)](https://open.spotify.com/album/0rZIRoeYANHTmhPiATIWGc) | 4:14 |
 | 61 | [Grateful](https://open.spotify.com/track/2SSWjbTBtXnXJO39Ii0Tmm) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Grateful](https://open.spotify.com/album/2zznlGM6OjviHAvriRoSob) | 3:35 |
 | 62 | [Darlin' \(Bonus Track\)](https://open.spotify.com/track/64SfsSiiusJg9UIDfunXkA) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 2:50 |
-| 63 | [Ways for Me \(feat\. Dante Bowe\)](https://open.spotify.com/track/0KIneuN79ousoG5hnjtcvl) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Tribl Nights Atlanta](https://open.spotify.com/album/1FCLtg80IaZgG5WDJirlqt) | 12:15 |
-| 64 | [It's Okay](https://open.spotify.com/track/6vjCST4h9U7gIThVSZtCYD) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Feelings](https://open.spotify.com/album/6e9VWN39GEDn8hcIO7gJj4) | 4:38 |
+| 63 | [It's Okay](https://open.spotify.com/track/6vjCST4h9U7gIThVSZtCYD) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Feelings](https://open.spotify.com/album/6e9VWN39GEDn8hcIO7gJj4) | 4:38 |
+| 64 | [Ways for Me \(feat\. Dante Bowe\)](https://open.spotify.com/track/0KIneuN79ousoG5hnjtcvl) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Tribl Nights Atlanta](https://open.spotify.com/album/1FCLtg80IaZgG5WDJirlqt) | 12:15 |
 | 65 | [Come & Move \(feat\. Ryan Ofei, Mariah Adigun & Joe L Barnes\)](https://open.spotify.com/track/2tXOmh5YlVeOXOrGTxdXaR) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Mariah Adigun](https://open.spotify.com/artist/5ZnWuXYXeApR3oaGzCOJSt) | [Tribl I](https://open.spotify.com/album/2uqcxn7xhGvMIx7Kimhmr7) | 9:20 |
 | 66 | [Nothing Left to Prove \(feat\. Israel Houghton & Mav City Gospel Choir\)](https://open.spotify.com/track/3BoGNV3vmAn6wzdsinNeSn) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Breathe \- EP](https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA) | 10:39 |
 | 67 | [Let It Fall \- Live](https://open.spotify.com/track/0Ek4F4tQB91pf5ybGQkBn0) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Intercession \(Live\)](https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62) | 5:48 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 136 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 137 | [Champion / Gratitude \- Live](https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU) | [Worship House](https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4), [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ) | 10:46 |
 
-Snapshot ID: `AcPIQAAAAADN+wH+EM3QiFdVw0eGfYt2`
+Snapshot ID: `AcPOHAAAAADM0mbMzdc4GdMY4R0wW335`

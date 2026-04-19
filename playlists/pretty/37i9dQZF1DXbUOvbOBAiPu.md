@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Camille Yembe, The Strokes, Lady Gaga x Doechii, Gradur x Ninho and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,091 likes - 121 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,093 likes - 121 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 10 | [SHADES OF BLUE](https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [CTRL ESCAPE](https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e) | 3:23 |
 | 11 | [A Story Called Love](https://open.spotify.com/track/6Utu7i2xaMncEMa1hvKdmt) | [The Subs](https://open.spotify.com/artist/06h5xeeCDip3usS3go9zjI) | [A Story Called Love](https://open.spotify.com/album/0xCce3fRtx900H62sVntnw) | 3:27 |
 | 12 | [Heresy \- Nine Inch Noize Version](https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nine Inch Noize](https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp) | 3:57 |
-| 13 | [Spiegel](https://open.spotify.com/track/2aAXuvsN9QUv5VlVcbWkDz) | [Demi Lou](https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ) | [Archive 01: CAPS](https://open.spotify.com/album/3cxKzPkgzyt2waffzY146g) | 2:47 |
+| 13 | [SPIEGEL](https://open.spotify.com/track/2aAXuvsN9QUv5VlVcbWkDz) | [Demi Lou](https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ) | [Archive 01: CAPS](https://open.spotify.com/album/3cxKzPkgzyt2waffzY146g) | 2:47 |
 | 14 | [First Light](https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [First Light](https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4) | 3:24 |
 | 15 | [Seule](https://open.spotify.com/track/1J5H2xHZRSqoheMgsDpQfA) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Seule](https://open.spotify.com/album/5VPSWiJsTpDpQyMCXqaZua) | 3:28 |
 | 16 | [Ne me quitte pas](https://open.spotify.com/track/6AaMzDiXXtC1ea2StLkvHG) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Ne me quitte pas](https://open.spotify.com/album/4hsCVZTavWC8i0BMHVr7z2) | 2:07 |

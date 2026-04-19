@@ -2542,7 +2542,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Alusp\u00fckse",
       "url": "https://open.spotify.com/track/2xtLPeeUmIzM1hFw2qeH4U"
@@ -3470,7 +3470,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 187178,
       "name": "armastan, ei armasta",
       "url": "https://open.spotify.com/track/7gy6n6xauco1dttxquR39d"
@@ -4320,7 +4320,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -12776,6 +12776,24 @@
       "duration_ms": 180545,
       "name": "Droom Groot",
       "url": "https://open.spotify.com/track/4XiYnHAolrUxuRCaGLFG0R"
+    },
+    {
+      "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
     },
     {
       "album": {
@@ -36318,7 +36336,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 170948,
       "name": "N\u00e4lg",
       "url": "https://open.spotify.com/track/2pCih9J1SLfoYF8KyWKqdE"
@@ -38330,7 +38348,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 188090,
       "name": "Palavaks",
       "url": "https://open.spotify.com/track/5sEzQnpzigAaZRxfSLbZcy"
@@ -38510,7 +38528,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 171810,
       "name": "Paraadna",
       "url": "https://open.spotify.com/track/5VEZQNZWsZaKb1Y2jB8SWJ"
@@ -49540,7 +49558,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 223057,
       "name": "Tamburiin",
       "url": "https://open.spotify.com/track/3TKhfQOOHtA7QNtoju4cXn"
@@ -53498,7 +53516,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 175263,
       "name": "ulakas kaunitar",
       "url": "https://open.spotify.com/track/0jcJEcK0eX5acLVU1VYmbd"
@@ -56740,7 +56758,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoPCylYnvtU.md) - [plain]
 
 > Lluvia sin más
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,345 likes - 275 songs - 12 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,343 likes - 275 songs - 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

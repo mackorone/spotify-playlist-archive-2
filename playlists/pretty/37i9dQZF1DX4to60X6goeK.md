@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Voltage
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,403 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,410 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Cost Of Living](https://open.spotify.com/track/7frbuW4N5CoVYGkSnu4UIa) | [Jamezy](https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Dragon Style](https://open.spotify.com/album/0NJrj8gD8zMYzIIuu2mbFY) | 2:56 |
 | 55 | [OMG](https://open.spotify.com/track/4roXdtgxy29XQ8hSOaT8F7) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Latte](https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [OMG](https://open.spotify.com/album/12FRM8NELjqrOSdfuXxrfC) | 3:24 |
 
-Snapshot ID: `AAAAANHlooEAqvF7t0Jgd5OmKfqFjiWq`
+Snapshot ID: `AAAAAACPXlC3ugXUkdyJbv8+Z8tAsWcT`

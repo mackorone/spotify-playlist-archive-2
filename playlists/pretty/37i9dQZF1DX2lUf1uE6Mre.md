@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: YUNG SAINT PAUL
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,387 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,361 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 99 | [SO FRESH SO CLEAN](https://open.spotify.com/track/3l4Z4P6YWerBZ4uBammxdW) | [Mali](https://open.spotify.com/artist/1EpUTpT8KmlB2uDzLNK9d5), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [G\-CODE](https://open.spotify.com/album/4fvreqshfSDXNw4EYmSBhw) | 2:30 |
 | 100 | [Zirkusmanege](https://open.spotify.com/track/3VQCRDEeYv9u2z1sFazgGs) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE), [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6) | [Zirkusmanege](https://open.spotify.com/album/2zWMviTw8pfTMsOmzMDFmI) | 2:46 |
 
-Snapshot ID: `AAAAAIbL2duwdQkL1QhkOwKKErzmUVeV`
+Snapshot ID: `AAAAAEEnD10PYV8rEVG9LKzPTs3Plie+`

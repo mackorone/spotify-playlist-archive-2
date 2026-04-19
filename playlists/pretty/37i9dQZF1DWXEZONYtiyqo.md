@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Delia
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,733 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,741 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 8 | [Cetera](https://open.spotify.com/track/5MVwdhr04bLrZuBz9TCN1N) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Jurnal](https://open.spotify.com/album/3unPXEIMbJjpMx6Eb9rxJb) | 2:41 |
 | 9 | [Izabela](https://open.spotify.com/track/6TJF9CvKYwbgOC2GcHbLUp) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Izabela](https://open.spotify.com/album/7gGvvDd2j9GHeBn99YHLuR) | 2:26 |
 | 10 | [Anii În Care Nu Dormim](https://open.spotify.com/track/7KabacMSDqjfZWiFtM4IhM) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Anii În Care Nu Dormim](https://open.spotify.com/album/42G7m3RHPBDDLGuDIkM7jh) | 3:27 |
-| 11 | [Fire](https://open.spotify.com/track/4rDwRReunkleF9aisMmguC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Fire](https://open.spotify.com/album/5n0RsqJukHxaXLDlPFy0K8) | 3:17 |
+| 11 | [Fire](https://open.spotify.com/track/4rDwRReunkleF9aisMmguC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Fire](https://open.spotify.com/album/5n0RsqJukHxaXLDlPFy0K8) | 3:16 |
 | 12 | [Rai pe Pământ](https://open.spotify.com/track/5Qhn3eTnypeKtXehB8bY0I) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Rai pe Pământ](https://open.spotify.com/album/0Lu94fr5u1EVUMkHFfgmB4) | 3:35 |
 | 13 | [N\-am mai iubit așa pe nimeni](https://open.spotify.com/track/5ZZza4KAsPn8EHRKTjCVCV) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [N\-am mai iubit așa pe nimeni](https://open.spotify.com/album/43TUzapHjUbWsRkqmIs8qc) | 2:37 |
 | 14 | [Hey NaNaNa](https://open.spotify.com/track/5nRWAsfbpOX2xjgLYYBwQs) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Hey NaNaNa](https://open.spotify.com/album/1mQRXUIOUx0LnApyBoAc3e) | 2:19 |

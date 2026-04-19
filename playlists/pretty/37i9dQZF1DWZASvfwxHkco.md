@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZASvfwxHkco.md) - [plain]
 
 > 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: AFROJACK, Sia, David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,916 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,915 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZASvfwxHkco.md) - [plain]
 | 79 | [FADE](https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [FADE](https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU) | 2:58 |
 | 80 | [Bring Me To Life](https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FORS](https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX) | [Bring Me To Life](https://open.spotify.com/album/0hLl6XW9qAjuuPijk9SKTe) | 4:18 |
 
-Snapshot ID: `AAAAABE3fYQVFF7St+DuLxt9WzG9/u7X`
+Snapshot ID: `AAAAABdHrO6P24Da5h8r8XUAz6bYRuw6`

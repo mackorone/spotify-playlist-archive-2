@@ -103,6 +103,32 @@
     },
     {
       "album": {
+        "name": "Sex Over Love",
+        "url": "https://open.spotify.com/album/34tZdQwqkLwmCE6a4armXv"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Bling (feat. Amaarae & Buju)",
+      "url": "https://open.spotify.com/track/7MQ2FWFVuim1L1O3wXjkdZ"
+    },
+    {
+      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },

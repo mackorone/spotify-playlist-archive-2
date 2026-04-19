@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: 7ari, Ramoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,118 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,230 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 10 | [Uber Driver](https://open.spotify.com/track/5Sz23m2mG79tygWLURPjTC) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [MOVETA](https://open.spotify.com/album/7oPdq0spIZzvMv8EoTC7A1) | 3:54 |
 | 11 | [DEPART](https://open.spotify.com/track/2Jzn2clALwnSCrHdXPBXfB) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [DEPART](https://open.spotify.com/album/2wVXCvBj607fhsujknCH3y) | 2:41 |
 | 12 | [Soprano](https://open.spotify.com/track/4NwKhoHwz5KOWtcRy46n8v) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [Tornado](https://open.spotify.com/album/6uUrTYbVajuE7m4bCVrD3D) | 3:21 |
-| 13 | [MA VIDA](https://open.spotify.com/track/30clDmIaXuBpW242YnPIWr) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [MA VIDA](https://open.spotify.com/album/23Vxk3PsuTx4JgYutJPCR9) | 3:21 |
+| 13 | [MA VIDA](https://open.spotify.com/track/30clDmIaXuBpW242YnPIWr) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v), [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT) | [MA VIDA](https://open.spotify.com/album/23Vxk3PsuTx4JgYutJPCR9) | 3:21 |
 | 14 | [Dorororo](https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [Dorororo](https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br) | 2:44 |
 | 15 | [MOOD](https://open.spotify.com/track/3LR2AShmeh0dhIdjDIw0R6) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:59 |
 | 16 | [Action](https://open.spotify.com/track/4TY8DyDlVgN0Bl2AZO5afl) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Action](https://open.spotify.com/album/6YfQZWv94Zrt4EO7FkpsPM) | 3:48 |

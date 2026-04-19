@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 119946,
+  "num_followers": 119983,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAAA9lYQhGG0yz/iNZuii+OEf",
+  "snapshot_id": "aeF4AAAAAAAEE3jOyoGijvVX2ZgjXkfq",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una P\u00e1gina M\u00e1s",
-        "url": "https://open.spotify.com/album/0nRrvlwgmNribpWPPb1Rdb"
+        "name": "Necesito Due\u00f1a",
+        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
       },
       "artists": [
-        {
-          "name": "Chuy Vega",
-          "url": "https://open.spotify.com/artist/3hjrGFp8ocEsDoHgkzAd4A"
-        },
         {
           "name": "Sergio Vega \"El Shaka\"",
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 127496,
-      "name": "Estrella Ca\u00edda",
-      "url": "https://open.spotify.com/track/0bztHEZfIFe23wKxAbHTuT"
+      "duration_ms": 205333,
+      "name": "Mu\u00f1equita - Balada Version",
+      "url": "https://open.spotify.com/track/2CHAuszySE0bVoNGhA3xD6"
     },
     {
       "added_at": null,
@@ -671,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Necesito Due\u00f1a",
-        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+        "name": "Una P\u00e1gina M\u00e1s",
+        "url": "https://open.spotify.com/album/0nRrvlwgmNribpWPPb1Rdb"
       },
       "artists": [
+        {
+          "name": "Chuy Vega",
+          "url": "https://open.spotify.com/artist/3hjrGFp8ocEsDoHgkzAd4A"
+        },
         {
           "name": "Sergio Vega \"El Shaka\"",
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 205333,
-      "name": "Mu\u00f1equita - Balada Version",
-      "url": "https://open.spotify.com/track/2CHAuszySE0bVoNGhA3xD6"
+      "duration_ms": 127496,
+      "name": "Estrella Ca\u00edda",
+      "url": "https://open.spotify.com/track/0bztHEZfIFe23wKxAbHTuT"
     },
     {
       "added_at": null,

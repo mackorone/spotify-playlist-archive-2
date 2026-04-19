@@ -4,7 +4,7 @@
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-161 songs - 10 hr 36 min
+162 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Jerusalema](https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Jerusalema](https://open.spotify.com/album/1MdpGLfmkG6VQwopb8K0au) | 5:29 | 2024-12-11 |  |
 | [Jike'lemaweni](https://open.spotify.com/track/2ORBalkbIaHkQyAPIyd4Qq) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Zenzile: The Reimagination of Miriam Makeba](https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297) | 4:28 | 2022-03-13 | 2023-06-28 |
 | [Joy](https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Joy](https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V) | 2:50 | 2024-09-01 |  |
+| [Just for you](https://open.spotify.com/track/30dyMuzadznnMtkIoBww70) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [XX](https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf) | 3:52 | 2026-04-19 |  |
 | [Keep On Moving \(feat\. Angélique Kidjo\)](https://open.spotify.com/track/4WonhRvXvi06b5FYAQq6zO) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Cavy In The City](https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa) | 4:17 | 2025-11-02 |  |
 | [Keep Rising \- The Woman King](https://open.spotify.com/track/7iWpBQjJWsJJfm3g8GFi7I) | [Jessy Wilson](https://open.spotify.com/artist/16mVBCP9OKYqPuGlzS61uP), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Keep Rising \(The Woman King\)](https://open.spotify.com/album/1ekbLXEL0o8JQT9yX8piWJ) | 3:14 | 2022-09-20 |  |
 | [La Vida Es Un Carnaval \- Bomba Estereo Remix](https://open.spotify.com/track/1gp1yn0h8hQWgrJq4Kgiu5) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [La Vida Es Un Carnaval \(Bomba Estereo Remix\)](https://open.spotify.com/album/49yvEMly7OnIUsE0L41qIf) | 3:21 | 2021-12-28 | 2022-06-09 |
@@ -131,7 +132,7 @@
 | [Safiatou \(feat\. Santana & Angélique Kidjo\)](https://open.spotify.com/track/35ban4QFfitxOYRO7yVMFl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Possibilities](https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH) | 5:25 | 2023-09-15 |  |
 | [Sahara](https://open.spotify.com/track/2iqOFvioxmoazHhA86N7gS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Celia](https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD) | 4:37 | 2021-12-28 | 2022-10-13 |
 | [Salala](https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 3:24 | 2021-12-28 |  |
-| [Samba Pa Ti](https://open.spotify.com/track/0mxw8CSbJW5jBQonH7Y4Cv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [OYO \(Deluxe Edition\)](https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3) | 3:37 | 2022-03-15 |  |
+| [Samba Pa Ti](https://open.spotify.com/track/0mxw8CSbJW5jBQonH7Y4Cv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [OYO \(Deluxe Edition\)](https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3) | 3:37 | 2022-03-15 | 2026-04-19 |
 | [Sedjedo](https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 3:56 | 2021-12-28 |  |
 | [Seen and Not Seen](https://open.spotify.com/track/0Em0MuPM6LdELHk9FXgg93) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 3:04 | 2021-12-29 | 2022-10-13 |
 | [Senie](https://open.spotify.com/track/4q8o0Ri8QDQ1dQ7QL7VYul) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Logozo](https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw) | 1:53 | 2022-07-29 | 2024-10-03 |

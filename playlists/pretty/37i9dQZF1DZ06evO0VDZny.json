@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 508562,
+  "num_followers": 508682,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAAD5JZzsTzv8RwMtWfIUcig4",
+  "snapshot_id": "aeF4AAAAAAAkwduRhMtLR8ikr4zGuLh2",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sempiternal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 193637,
+      "name": "Antivist",
+      "url": "https://open.spotify.com/track/1fUacP7XP697l6ry01oO4d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sempiternal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 193637,
-      "name": "Antivist",
-      "url": "https://open.spotify.com/track/1fUacP7XP697l6ry01oO4d"
     },
     {
       "added_at": null,
@@ -559,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Habits (feat. Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
       },
       "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 250763,
-      "name": "Bad Habits (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
+      "duration_ms": 261733,
+      "name": "Pray for Plagues",
+      "url": "https://open.spotify.com/track/4hTn5kvaI6mTDckWU7gm91"
     },
     {
       "added_at": null,
@@ -595,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Habits (feat. Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 250763,
+      "name": "Bad Habits (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo-files",
         "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 265328,
       "name": "sL33pwalking.idl",
       "url": "https://open.spotify.com/track/3UfassQ27R4HgpBRwJIQkr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Count Your Blessings",
-        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Pray for Plagues",
-      "url": "https://open.spotify.com/track/4hTn5kvaI6mTDckWU7gm91"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret",
+        "url": "https://open.spotify.com/album/6JTBo69T5tEByZEEb4KZYl"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 274133,
+      "name": "It Never Ends",
+      "url": "https://open.spotify.com/track/1ubPOjDpZ5GtGOW8dR4NOh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo-files",
         "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
       },
@@ -676,25 +692,9 @@
           "url": "https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO"
         }
       ],
-      "duration_ms": 208224,
-      "name": "seenitallbefore_xx.arch",
-      "url": "https://open.spotify.com/track/7nlMB8nDWH3pOFTxxwgfBm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret",
-        "url": "https://open.spotify.com/album/6JTBo69T5tEByZEEb4KZYl"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 274133,
-      "name": "It Never Ends",
-      "url": "https://open.spotify.com/track/1ubPOjDpZ5GtGOW8dR4NOh"
+      "duration_ms": 188288,
+      "name": "in_the_dark.ech",
+      "url": "https://open.spotify.com/track/78mP1BhsKkinyPyFK0whIF"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo-files",
-        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
-        }
-      ],
-      "duration_ms": 206815,
-      "name": "1DayTheOnlyButterfliesLeftWillBInurChestAsuMarchTowards UrDeath.finx",
-      "url": "https://open.spotify.com/track/7KcdOYD9TFhDCuB60Tif7g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Life",
         "url": "https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 226867,
       "name": "Bad Life",
       "url": "https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo-files",
+        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "duration_ms": 194987,
+      "name": "parasite.ev3",
+      "url": "https://open.spotify.com/track/7GPLneLBvgAURR2AblkAJy"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo-files",
-        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "lophiile",
-          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
-        }
-      ],
-      "duration_ms": 260402,
-      "name": "avalanche_.drft",
-      "url": "https://open.spotify.com/track/3MxKZsr5goZHkfSSBS3e5g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L.I.V.E. In S\u00e3o Paulo (Live Immersive Virtual Experiment)",
         "url": "https://open.spotify.com/album/0tlzXZQXAeBUCXv3eHHjXU"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 75838,
       "name": "(Interlude) Project Angel Dust - L.I.V.E. In S\u00e3o Paulo (Live Immersive Virtual Experiment)",
       "url": "https://open.spotify.com/track/6vc8BQdoWY0IFD773n9gqA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo-files",
+        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        }
+      ],
+      "duration_ms": 218993,
+      "name": "DOOMED.errX",
+      "url": "https://open.spotify.com/track/6veSof7cuSd7lh43upiltK"
     },
     {
       "added_at": null,
@@ -872,13 +872,17 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Dimension 32",
-          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
         }
       ],
-      "duration_ms": 209611,
-      "name": "followU.bnd",
-      "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
+      "duration_ms": 162946,
+      "name": "canyoufeelmy<3.tmpx",
+      "url": "https://open.spotify.com/track/4oulNVAcHE3WWxyy8kYvcz"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

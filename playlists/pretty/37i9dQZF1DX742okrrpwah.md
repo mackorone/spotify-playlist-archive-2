@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Céline Dion, Pierre de Maere et Tyla x Zara Larsson au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,728 likes - 95 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,710 likes - 95 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

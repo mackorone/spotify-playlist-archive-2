@@ -627,6 +627,28 @@
     },
     {
       "album": {
+        "name": "Mu\u00dfe (Remix)",
+        "url": "https://open.spotify.com/album/7CzRevk2VYJXyI58QcNC4S"
+      },
+      "artists": [
+        {
+          "name": "Volker Milch",
+          "url": "https://open.spotify.com/artist/1nBKgPmq8A7AokX7tQgZlz"
+        },
+        {
+          "name": "Der Energieberater",
+          "url": "https://open.spotify.com/artist/2xPBfLmtRcJNviZSzzhbTX"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218481,
+      "name": "Mu\u00dfe - Remix",
+      "url": "https://open.spotify.com/track/0Z9MrRQbNrUo6bMrnFRHfj"
+    },
+    {
+      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D"
       },

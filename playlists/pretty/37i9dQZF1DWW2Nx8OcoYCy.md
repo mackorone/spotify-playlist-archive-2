@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">Discover the lineup.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,150 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,162 likes - 80 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 79 | [Transe](https://open.spotify.com/track/6GEMSYq7bDh3nQDcXKwbot) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7) | 3:10 |
 | 80 | [In the Final](https://open.spotify.com/track/2ZCDERFB0miEEQkPJnfdIr) | [Allexa Nava](https://open.spotify.com/artist/0rZ7WVov40lMe09hc7BXW0) | [No Language](https://open.spotify.com/album/0AYom2n0GfFKXGVKlioXaw) | 3:45 |
 
-Snapshot ID: `AAAAAKQsjE1ExzbJ4Kb62b2uyovGeTva`
+Snapshot ID: `AAAAAMXSQmiO7GT1fVpTtx+8Uzn+1Mdr`

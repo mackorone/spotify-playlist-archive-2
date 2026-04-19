@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n9ZnoiY98G.md) - [plain]
 
 > A true\-ish story based on a lie\. Listen to the music behind Apple Cider Vinegar, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,757 likes - 29 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,760 likes - 29 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n9ZnoiY98G.md) - [plain]
 | 8 | [I Really Like You](https://open.spotify.com/track/2hHLbkatPwOOmrNxTiD41L) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe Expanded Edition\)](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 3:24 |
 | 9 | [Monte Carlo](https://open.spotify.com/track/3CXCtE8qJIFtUJJZRKCcXC) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Monte Carlo](https://open.spotify.com/album/5jZs0pEMbz0ZDdEqd0GmrI) | 2:23 |
 | 10 | [Clap Your Hands](https://open.spotify.com/track/1vv2owN12FAwGDwHcsnphg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 3:58 |
-| 11 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/5JIdaV4V6IaLMQG6uzAhJY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
+| 11 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
 | 12 | [Get Lucky \(feat\. Pharrell Williams and Nile Rodgers\)](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 6:09 |
 | 13 | [Can't Get Enough of Myself \(feat\. BC Unidos\)](https://open.spotify.com/track/5RuKwWwNwA2URfO4btAKwZ) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p), [BC Unidos](https://open.spotify.com/artist/2gn19OAsopaOKSrDw9ma08) | [99 Cents](https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk) | 3:57 |
 | 14 | [Brave](https://open.spotify.com/track/6Uy6K3KdmUdAfelUp0SeXn) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [The Blessed Unrest](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) | 3:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,172 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,436 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 99 | [Si mañana me muero](https://open.spotify.com/track/5bolIEjV7hih1tTB2FlrOT) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Si mañana me muero](https://open.spotify.com/album/016VgxR6h6JOhTXTsWJsr1) | 3:18 |
 | 100 | [Te Doy La Libertad](https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Spanish Chica](https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN) | 4:04 |
 
-Snapshot ID: `AAAAAJ6jqhOkL7hrwgDkpOoyWv0LyQcn`
+Snapshot ID: `AAAAAO3URCa4MJZiOED4B+De5dFP50Zl`

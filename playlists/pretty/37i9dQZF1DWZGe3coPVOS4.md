@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGe3coPVOS4.md) - [plain]
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,547 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,557 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGe3coPVOS4.md) - [plain]
 | 49 | [Popular](https://open.spotify.com/track/7B91IGnbY5PilOODVln00Z) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:27 |
 | 50 | [Happy](https://open.spotify.com/track/68u35YatxAQS8axAC0e3Z4) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:28 |
 
-Snapshot ID: `AAAAAPTNYNCM0zHhMqsn4Xx8tIpPK5cP`
+Snapshot ID: `AAAAAClJSH2JKSbF/qiSX//OdPiOeLy8`

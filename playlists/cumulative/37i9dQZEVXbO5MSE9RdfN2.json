@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 162933,
       "name": "500 Miles",
       "url": "https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb"
@@ -14482,6 +14482,24 @@
       "duration_ms": 154955,
       "name": "Everybody Wants To Rule the World",
       "url": "https://open.spotify.com/track/70CYroXLBCsndZ1LySt6dr"
+    },
+    {
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248902,
+      "name": "EVERYTHING HALLELUJAH",
+      "url": "https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ"
     },
     {
       "album": {
@@ -38112,7 +38130,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 128682,
       "name": "Queen St",
       "url": "https://open.spotify.com/track/7b2KsfXCB3pwY9fBJWKYqY"
@@ -39134,7 +39152,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 199600,
       "name": "RICHMAN",
       "url": "https://open.spotify.com/track/3JfbMm4LfBmm96mkKhyG6I"
@@ -43324,6 +43342,24 @@
       "duration_ms": 196227,
       "name": "Staring Into The Sun",
       "url": "https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE"
+    },
+    {
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/4aX3lbEX1whN9CsdFjz8D5"
+      },
+      "artists": [
+        {
+          "name": "The Chordline",
+          "url": "https://open.spotify.com/artist/5geqBUxi8vvBZ761nAttsU"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242532,
+      "name": "Start with Yourself",
+      "url": "https://open.spotify.com/track/4hXuD3lUDg1Lh4hREhnh4O"
     },
     {
       "album": {
@@ -54100,7 +54136,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 167800,
       "name": "Younger You - From the \"Hannah Montana 20th Anniversary Special\"",
       "url": "https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z"

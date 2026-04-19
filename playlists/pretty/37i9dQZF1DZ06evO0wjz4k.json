@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 34897,
+  "num_followers": 34905,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAABOvNvuN/rbjhUbzxIgq6aE",
+  "snapshot_id": "aeF4AAAAAAAKSRnHnDhtJBfyCtpwOb4h",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hollywood Gold",
+        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 205173,
+      "name": "Love You Like That",
+      "url": "https://open.spotify.com/track/5mLumHEUcQcE0w2TXGyJnf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Defense of Drinking",
         "url": "https://open.spotify.com/album/2CU1ydBFrQ1JFbt0GG1txx"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 221578,
       "name": "Beer Garden Baby",
       "url": "https://open.spotify.com/track/7iUN9ytQekHf0EazrYHoGk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hollywood Gold",
-        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 205173,
-      "name": "Love You Like That",
-      "url": "https://open.spotify.com/track/5mLumHEUcQcE0w2TXGyJnf"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 246466,
-      "name": "Galveston Bay",
-      "url": "https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI"
+      "duration_ms": 226453,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 226453,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX"
+      "duration_ms": 246466,
+      "name": "Galveston Bay",
+      "url": "https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI"
     },
     {
       "added_at": null,

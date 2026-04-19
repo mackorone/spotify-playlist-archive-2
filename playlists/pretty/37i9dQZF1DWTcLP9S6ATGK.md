@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Gloria Jessica, Ade Govinda
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,438 likes - 126 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,447 likes - 126 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 115 | [Tegar](https://open.spotify.com/track/2Og0MMoa1xYEBDpUIlzLgy) | [Tissa Biani](https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM), [Sita Nursanti](https://open.spotify.com/artist/0pafVQFBPn1LXwdpTMSqJM) | [Tegar](https://open.spotify.com/album/14h1mJ5zYP7AuzXxRAs16A) | 3:18 |
 | 116 | [Damai Sentosa](https://open.spotify.com/track/6wqOODcs0NqP3x87Xoh3vJ) | [Febinda Tito](https://open.spotify.com/artist/538SnQc3YoJ96cIs2mpTaZ) | [Terbentur, Terbentur, Terbentur](https://open.spotify.com/album/6TpfkJa9cmRgKU13EeRECq) | 3:22 |
 | 117 | [Ya Thoybah](https://open.spotify.com/track/7mznHekH6fqlvUt0mEjHbW) | [Anisa Rahman](https://open.spotify.com/artist/2xsucw8Ag30Ny2dWgofp1d) | [Ya Thoybah](https://open.spotify.com/album/0ea9uHs6s89999XA863wB1) | 3:16 |
-| 118 | [Anehnya](https://open.spotify.com/track/2nZClo9clzUgpQzsAel1si) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Anehnya](https://open.spotify.com/album/6BdacKiLHankUB5KLV381U) | 3:30 |
+| 118 | [Anehnya](https://open.spotify.com/track/2nZClo9clzUgpQzsAel1si) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Anehnya \- Single](https://open.spotify.com/album/6BdacKiLHankUB5KLV381U) | 3:30 |
 | 119 | [Denganmu Saja](https://open.spotify.com/track/4omzwua07r446XUkL5wWZd) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a), [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB) | [Denganmu Saja](https://open.spotify.com/album/75j86bk7gv09xfjMk0vbxS) | 3:32 |
 | 120 | [Sebatas Mimpi](https://open.spotify.com/track/66bAuBggOmZ4YDgqlWk8Fo) | [Angie Carvalho](https://open.spotify.com/artist/6nUQOIpgG7Sf0DqSJODNmK), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Sebatas Mimpi](https://open.spotify.com/album/7i0hFkyqprLGxZu5uVGEnY) | 3:38 |
 | 121 | [404: HOME NOT FOUND](https://open.spotify.com/track/4hcfM7tc2BdXSmBHEYgf8q) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [404: HOME NOT FOUND](https://open.spotify.com/album/2hy7jf0iW1BKpNJDLTic0r) | 3:36 |

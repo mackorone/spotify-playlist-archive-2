@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,431 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,484 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 49 | [Sada Nannu](https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v) | [Charulatha Mani](https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm) | [Mahanati](https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1) | 3:17 |
 | 50 | [Preminche Premava](https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Naresh Ayar](https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl) | [Nuvvu Nenu Prema](https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP) | 5:54 |
 
-Snapshot ID: `AAAAAOQqbzdG/NzZykt3d6n6gaXglyUS`
+Snapshot ID: `AAAAAC1KGddQMgCRXoqrTsIphHXwyiQS`

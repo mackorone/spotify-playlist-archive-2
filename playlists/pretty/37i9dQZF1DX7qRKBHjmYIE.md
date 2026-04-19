@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con maye.
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,847 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,789 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 99 | [AUSENCIA](https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 1:50 |
 | 100 | [a veces casi siempre](https://open.spotify.com/track/3IV0SbTSu2JhBIeGfesPeJ) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [BLANCOMEZCLILLA](https://open.spotify.com/album/51KnHsifhTBkSyhuRXexBQ) | 3:07 |
 
-Snapshot ID: `AAAAAHFTNaMjnwcGlNmnn9hoxfkIShLR`
+Snapshot ID: `AAAAAHsuFoX/SI1shF0Ma9b8e5Qcg6Pa`

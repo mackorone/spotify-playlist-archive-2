@@ -4789,6 +4789,24 @@
     },
     {
       "album": {
+        "name": "1983",
+        "url": "https://open.spotify.com/album/2WdDBUfqvkdZ7hsudUNs5m"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53267,
+      "name": "Babble",
+      "url": "https://open.spotify.com/track/4fZsxjAzoSXO0RNLlasIax"
+    },
+    {
+      "album": {
         "name": "Baby again..",
         "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
       },
@@ -14606,7 +14624,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 272423,
       "name": "Deep Harbour - Anz Defensive Mix",
       "url": "https://open.spotify.com/track/6eQUx4zfABBernRRPoUT8Y"
@@ -14632,7 +14650,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 234585,
       "name": "Deep Harbour - Anz Safe Place Mix",
       "url": "https://open.spotify.com/track/6nfdm0c9REAUs4Mch9bXTo"
@@ -14884,6 +14902,24 @@
       "duration_ms": 482744,
       "name": "Denardirn",
       "url": "https://open.spotify.com/track/4popyNacmTRK5gjVDb5mml"
+    },
+    {
+      "album": {
+        "name": "Recycle Bin, Vol. 5",
+        "url": "https://open.spotify.com/album/4szoQ2487NjuiZsZkWN6qO"
+      },
+      "artists": [
+        {
+          "name": "Black Alley",
+          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111455,
+      "name": "Denial is a River (Live)",
+      "url": "https://open.spotify.com/track/7KQHylNUBeFEhvPEeQbNcO"
     },
     {
       "album": {
@@ -61478,7 +61514,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 128293,
       "name": "S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/0rq02HJcHdHnya1SjRqAec"
@@ -71004,7 +71040,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 222911,
       "name": "What Did I Miss? (Live)",
       "url": "https://open.spotify.com/track/0I9vosT6qH8lnkzF5jDLau"

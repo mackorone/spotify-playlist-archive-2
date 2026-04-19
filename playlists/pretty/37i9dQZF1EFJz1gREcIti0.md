@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 787 likes - 146 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 788 likes - 146 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 105 | [Coconut Oil](https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:01 |
 | 106 | [pink starburst](https://open.spotify.com/track/4njZsHyu8iHpZmT8sV4Mjn) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu) | 2:55 |
 | 107 | [Break Her Heart for Me](https://open.spotify.com/track/1dZAvU7hI7c3fNU1GllHGX) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 3:22 |
-| 108 | [Lost](https://open.spotify.com/track/1f2moQ7gDFBBEat9s7rKZj) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Conditions Of A Punk](https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM) | 2:22 |
-| 109 | [Smile For Me](https://open.spotify.com/track/0pilWBOgq1cocMXa7GKxJ5) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:21 |
+| 108 | [Smile For Me](https://open.spotify.com/track/0pilWBOgq1cocMXa7GKxJ5) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:21 |
+| 109 | [Lost](https://open.spotify.com/track/1f2moQ7gDFBBEat9s7rKZj) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Conditions Of A Punk](https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM) | 2:22 |
 | 110 | [I BEEN UP!](https://open.spotify.com/track/6gEYbNc4yn0oulp0DvUCo5) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [No Rewrites](https://open.spotify.com/album/72k7t7OuBY73bNVJGw8owe) | 2:03 |
 | 111 | [foolish](https://open.spotify.com/track/1onG2NrPIVGnpUxORqcXqi) | [Elah Hale](https://open.spotify.com/artist/0EDEUACmghvLBhxLnMpyeU) | [foolish](https://open.spotify.com/album/536MhsgMyVylgUPfosDAUj) | 2:40 |
 | 112 | [Not Love](https://open.spotify.com/track/6CywXGywidocLOnyjXSU1c) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [Pink Is Better](https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf) | 3:11 |
@@ -148,11 +148,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 138 | [Swim](https://open.spotify.com/track/4eSGI45RAwuRGtKxg0IYSz) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:22 |
 | 139 | [Masterpiece](https://open.spotify.com/track/53P7tuwBSzScUiUW9TZqh1) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Masterpiece](https://open.spotify.com/album/25LjRMXzJmUlip21z0he9D) | 4:04 |
 | 140 | [Fear of Missing Out](https://open.spotify.com/track/12nV0dBwvdQ1h6IV3GRnc1) | [T:ME](https://open.spotify.com/artist/0JTYV7vcKAjuhUdQlAWJ5F) | [Fear of Missing Out](https://open.spotify.com/album/5QTHJtgF26BPakoxDzmC2D) | 3:06 |
-| 141 | [I'll Be There \(feat\. Carter Mansuy\)](https://open.spotify.com/track/4iltNAyRQxT3EN4gmmnjxy) | [Love Mansuy](https://open.spotify.com/artist/2Z6VTMBnnuSQHmRyus3zbx), [Carter Mansuy](https://open.spotify.com/artist/3P7GeWJAhrXnL5fiHhEPUm) | [I'll Be There \(feat\. Carter Mansuy\)](https://open.spotify.com/album/3m1zw94rrjEmgrwNqs3L9j) | 2:45 |
-| 142 | [Rain On Me](https://open.spotify.com/track/3sx0w5R8ypSstoSBseVERN) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Rain On Me](https://open.spotify.com/album/3hgnBTDyDAvWoQ6SNqUqgy) | 3:00 |
+| 141 | [Rain On Me](https://open.spotify.com/track/3sx0w5R8ypSstoSBseVERN) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Rain On Me](https://open.spotify.com/album/3hgnBTDyDAvWoQ6SNqUqgy) | 3:00 |
+| 142 | [I'll Be There \(feat\. Carter Mansuy\)](https://open.spotify.com/track/4iltNAyRQxT3EN4gmmnjxy) | [Love Mansuy](https://open.spotify.com/artist/2Z6VTMBnnuSQHmRyus3zbx), [Carter Mansuy](https://open.spotify.com/artist/3P7GeWJAhrXnL5fiHhEPUm) | [I'll Be There \(feat\. Carter Mansuy\)](https://open.spotify.com/album/3m1zw94rrjEmgrwNqs3L9j) | 2:45 |
 | 143 | [6deep](https://open.spotify.com/track/3Gr0valhCPMKJqPfza8mZ6) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO), [Toyotomi](https://open.spotify.com/artist/6HCXRVOCucwBF8zV66T2cr), [MAX BLACK](https://open.spotify.com/artist/15qK4Jx9tO39zd6vCU75rL) | [6deep](https://open.spotify.com/album/4iSUwKDw5MKlHKWsJm0KBw) | 3:52 |
 | 144 | [Gentlewoman](https://open.spotify.com/track/30Npm4RFzP3zVRs2LKIyk5) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:35 |
 | 145 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 | 146 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `AcPIaAAAAADxxSuohLASk2MDvZLgyiJy`
+Snapshot ID: `AcPOCAAAAAA9aCzEqr48dWDcvWbcphpq`

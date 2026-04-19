@@ -4,7 +4,7 @@
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-67 songs - 3 hr 56 min
+68 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Mad Vincent](https://open.spotify.com/track/2lQAZToTU0DX7y8q3qsvda) | [sfsf](https://open.spotify.com/artist/1kex47NeBhUVsvVSE1NgD1) | [Mad Vincent](https://open.spotify.com/album/1gCydp8rzj7jmBgreR4bSd) | 3:30 | 2025-01-18 |  |
 | [Microdose](https://open.spotify.com/track/4cMNiWTSKKIDFKxf7gsxc3) | [Maeve Alexander](https://open.spotify.com/artist/058j7fEsI3qpmd02kFhQmB) | [Microdose](https://open.spotify.com/album/7pCwKsrICid4U1RQelsnhw) | 3:00 | 2025-07-01 |  |
 | [Move On](https://open.spotify.com/track/70VMIoFfeiIhzw7MXWwo8v) | [the errantry](https://open.spotify.com/artist/5hvf1J6qyJy6BXOWMIL2dI) | [Move On](https://open.spotify.com/album/4XpBLqUijgRKVGlqFlvt1o) | 2:38 | 2024-10-25 |  |
+| [Muße \- Remix](https://open.spotify.com/track/0Z9MrRQbNrUo6bMrnFRHfj) | [Volker Milch](https://open.spotify.com/artist/1nBKgPmq8A7AokX7tQgZlz), [Der Energieberater](https://open.spotify.com/artist/2xPBfLmtRcJNviZSzzhbTX) | [Muße \(Remix\)](https://open.spotify.com/album/7CzRevk2VYJXyI58QcNC4S) | 3:38 | 2026-04-18 |  |
 | [Neverender](https://open.spotify.com/track/6bZj3ELXB1JHBkPzKNYUDV) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 3:23 | 2025-07-14 |  |
 | [On The Run](https://open.spotify.com/track/4BaMkCKAvG7BuOMzXWyF33) | [QRU](https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc) | [On The Run](https://open.spotify.com/album/5IpBP7qaeYBurElNGIsJRw) | 4:00 | 2025-10-13 |  |
 | [Once a Dream](https://open.spotify.com/track/36cQcU8YSyuP9rjZhhyUKF) | [Fausteir](https://open.spotify.com/artist/5mFKi80rZOGESie0DBGBsV) | [Once a Dream](https://open.spotify.com/album/0bKpBK2zpsUtFA02W8I8rx) | 3:34 | 2025-07-22 |  |

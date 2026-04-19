@@ -4,7 +4,7 @@
 
 > This is Lewis Capaldi\. The essential tracks, all in one playlist.
 
-36 songs - 2 hr 6 min
+37 songs - 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Someone You Loved \- Future Humans Remix](https://open.spotify.com/track/1e8PAfcKUYoKkxPhrHqw4x) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Future Humans](https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl) | [Someone You Loved \(Future Humans Remix\)](https://open.spotify.com/album/7m7vv9wlQ4i0LFuJiE2zsQ) | 3:09 | 2025-10-28 |  |
 | [Something Borrowed \- Demo](https://open.spotify.com/track/6UQGNRfns3nW2Nryl4aEGh) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:15 | 2025-10-28 |  |
 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 | 2025-10-28 |  |
+| [Stay Love](https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6) | 3:26 | 2026-04-19 |  |
 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2025-10-28 |  |
 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-10-28 |  |
 | [The Ancient Art Of Always Fucking Up](https://open.spotify.com/track/2QhTqfQwt4K5SKU50P1EEd) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 4:03 | 2025-10-28 |  |

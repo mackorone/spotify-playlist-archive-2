@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31835,
+  "num_followers": 31839,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAAAiV6biG/xqoNma7U0ZdAQ4",
+  "snapshot_id": "aeF4AAAAAADR6eUvJ0FnFJjhNDe3YGkp",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 192301,
+      "name": "The Pilgrim, Chapter 33",
+      "url": "https://open.spotify.com/track/6NayIkUhQX2HEixCmvbKvY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 192301,
-      "name": "The Pilgrim, Chapter 33",
-      "url": "https://open.spotify.com/track/6NayIkUhQX2HEixCmvbKvY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kristofferson",
         "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
       },
@@ -655,26 +655,6 @@
       "duration_ms": 207306,
       "name": "For the Good Times",
       "url": "https://open.spotify.com/track/7tKThAWCTqEaksY09wViaq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Country State Of Mind",
-        "url": "https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 180472,
-      "name": "Why Me",
-      "url": "https://open.spotify.com/track/25OnNQJNBJgGDxmi4AUN6F"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
       "duration_ms": 296586,
       "name": "Me and Bobby McGee - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/0Hb9GMc1lWt8FTnBCzELtr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Country State Of Mind",
+        "url": "https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 180472,
+      "name": "Why Me",
+      "url": "https://open.spotify.com/track/25OnNQJNBJgGDxmi4AUN6F"
     },
     {
       "added_at": null,
@@ -1152,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 170920,
-      "name": "Good Morning John",
-      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
+      "duration_ms": 212306,
+      "name": "From Here to Forever",
+      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
     },
     {
       "added_at": null,
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 212306,
-      "name": "From Here to Forever",
-      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
+      "duration_ms": 170920,
+      "name": "Good Morning John",
+      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
     },
     {
       "added_at": null,

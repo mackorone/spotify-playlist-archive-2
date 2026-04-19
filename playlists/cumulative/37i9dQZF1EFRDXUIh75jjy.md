@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-309 songs - 15 hr 48 min
+313 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Girl Who Didn't Care](https://open.spotify.com/track/4XCDqYCoYUOc468PUKHgiQ) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Girl Who Didn't Care](https://open.spotify.com/album/40Y4YFAKYGg0vP0gvG7M90) | 3:12 | 2024-06-07 |  |
 | [God Made Fridays](https://open.spotify.com/track/4rIBtj2jHi8nIVfV7KeWy4) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Phases](https://open.spotify.com/album/2ZjmoWEahVtrvcHECaxqTk) | 2:43 | 2024-06-07 | 2025-12-18 |
 | [God Made Fridays](https://open.spotify.com/track/5qlILdqA60aJsnSCtxF9Gm) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Phases](https://open.spotify.com/album/7tuOtKUIOHmIznr1Z9HCc9) | 2:43 | 2025-12-17 |  |
+| [Gone Girl](https://open.spotify.com/track/09xROoc3bBmc4nmZMMUGDk) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Ask Me How I’ve Been](https://open.spotify.com/album/6FrJR357uhTSuFNJVaYo7b) | 3:02 | 2026-04-18 |  |
 | [Good Night](https://open.spotify.com/track/79Au7O5EjJQbMmFyXtWLed) | [Jason Owen](https://open.spotify.com/artist/6HtcB71Ns292SDfrwLEo05) | [Proud](https://open.spotify.com/album/0pkQ9xL97I8Pk4InXiDDNv) | 3:10 | 2024-06-07 |  |
 | [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 | 2024-06-07 |  |
 | [Good Times \(Bonus Track\)](https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:31 | 2024-11-16 |  |
@@ -178,6 +179,7 @@
 | [Knock](https://open.spotify.com/track/2joLxoigsMO8cfWpjgbn0M) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Choosing You](https://open.spotify.com/album/3ic1j88D0kLfyBKotz1RFP) | 3:19 | 2024-06-07 |  |
 | [Kool](https://open.spotify.com/track/5j8B7LSCepVPnwUrNB4pXt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:11 | 2024-06-07 |  |
 | [L.O.V.E.](https://open.spotify.com/track/5v6Zl83YKRsNBu8DevZ8ow) | [MAYCE](https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ) | [Cry For Help](https://open.spotify.com/album/3kigMOOCboaYxSI3HedLdS) | 3:00 | 2024-06-07 |  |
+| [Leak It](https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leak It](https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K) | 3:03 | 2026-04-18 |  |
 | [Leave Me Alone](https://open.spotify.com/track/1T38okUZknebljidMNSvfJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Leave Me Alone](https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq) | 2:21 | 2025-06-14 | 2025-08-04 |
 | [Leave Me Alone](https://open.spotify.com/track/44t9rTRjK82lBbZwuePQOE) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:21 | 2025-08-03 |  |
 | [Let Me Down Easy](https://open.spotify.com/track/07uMDONIdcNsmC6a5B9dhy) | [Jane XØ](https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Let Me Down Easy](https://open.spotify.com/album/2cggd5i8TUskOfS2TdhgVS) | 3:12 | 2024-06-07 | 2025-04-29 |
@@ -197,6 +199,7 @@
 | [Monster](https://open.spotify.com/track/1uQiAP6sqz81780Rp1JOO8) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [Monster](https://open.spotify.com/album/5P5o7y3ogkS7dBlIZY8YjV) | 3:33 | 2024-06-07 |  |
 | [Moonlight](https://open.spotify.com/track/3lxKBWmAKxlau82Ykol95e) | [Chris](https://open.spotify.com/artist/2T5NoyI48mYuuLzXjW1Cwh) | [Questions and Confessions](https://open.spotify.com/album/7aE0uq3zDl6N68UDHLEv8H) | 3:15 | 2024-07-26 |  |
 | [Moonlight](https://open.spotify.com/track/5V3FvBPNGARSDtjy43lpO7) | [Chris Bloom](https://open.spotify.com/artist/7CHhuFCa2PZXtPhXUY4wVy) | [Questions and Confessions](https://open.spotify.com/album/00kXw1Htv99Qslf3o2vWIt) | 3:15 | 2024-06-07 | 2024-07-27 |
+| [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 | 2026-04-18 |  |
 | [Never Be Lonely \- The Voice Performance](https://open.spotify.com/track/1yFdJalk3I2F3gIEd22iKh) | [Aliyah Moulden](https://open.spotify.com/artist/1aEkjoj4B25OAcJOxp3Jk7) | [The Complete Season 12 Collection \(The Voice Performance\)](https://open.spotify.com/album/27nUKJK5iECqPzyaBHasRU) | 2:43 | 2024-06-07 |  |
 | [Nevermind](https://open.spotify.com/track/2pGb1wcW7PfIJulOQ3G9Cw) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Nevermind](https://open.spotify.com/album/2w0LOmjGXqQ44zGDcW1lAa) | 2:21 | 2024-06-07 |  |
 | [New Girlfriend](https://open.spotify.com/track/0ceGllCN4PZ6ttayn80HUE) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [New Girlfriend](https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7) | 2:50 | 2024-06-07 |  |
@@ -307,6 +310,7 @@
 | [Waste](https://open.spotify.com/track/7ElKhgH3NHU368wbdqVley) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 3:31 | 2024-11-16 |  |
 | [Watercolor Flowers](https://open.spotify.com/track/6l9MmERiCcHyTIU3fZI9Gt) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 4: The End](https://open.spotify.com/album/1I3cIvKGqoFQKnlLFhT9Lx) | 2:48 | 2024-06-07 |  |
 | [What If It Doesn't End Well](https://open.spotify.com/track/7iAONiacXnWa66oZD0aVHh) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:41 | 2024-06-07 |  |
+| [What Took You So Long](https://open.spotify.com/track/25pkSzUe55sUuzelBa70jD) | [Jacob Hackworth](https://open.spotify.com/artist/4uXRM5wXBQkzYXPannKV66) | [What Took You So Long](https://open.spotify.com/album/44OwZLCNWVGImANHMiTt6C) | 3:07 | 2026-04-18 |  |
 | [When's It Gonna Happen](https://open.spotify.com/track/2wgfQ5XYZG1IRUf7pyrVSL) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 | 2024-06-07 |  |
 | [Whistle](https://open.spotify.com/track/5xeMp4R5G3oj959064Hfai) | [Forever in Your Mind](https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE) | [FIYM](https://open.spotify.com/album/1FCFRUbloFByK8ycXyXvYc) | 2:56 | 2024-06-07 |  |
 | [Why We Try \(feat\. Chelsea Lankes\)](https://open.spotify.com/track/53rXIdH0u7VGg0Pr1H4EGf) | [Matthew Mayfield](https://open.spotify.com/artist/0wqCmiRvTgsobz3AZoadXq), [Chelsea Lankes](https://open.spotify.com/artist/5JZ7uSAWAzTHHVBICdtAc6) | [Wild Eyes](https://open.spotify.com/album/7tdZFWNwAygaTKb5RmPZEA) | 3:52 | 2024-06-07 |  |

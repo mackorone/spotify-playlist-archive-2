@@ -4,7 +4,7 @@
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Monsi, Monzo!
 
-1,149 songs - 2 day 9 hr 4 min
+1,150 songs - 2 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1027,6 +1027,7 @@
 | [TEQUILA](https://open.spotify.com/track/5z5TCdZd6PDUuC54TOFlRH) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [NOCHE](https://open.spotify.com/album/4elNnriocyEa75OIRSLZKK) | 3:12 | 2024-11-08 | 2025-09-27 |
 | [Thank God](https://open.spotify.com/track/1G5HR5KwSAOdACXPGZOoCo) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Hood Olympics](https://open.spotify.com/album/0iqGtWPjeNmqJgSSMb6EG5) | 2:15 | 2023-08-11 | 2024-05-11 |
 | [Thank You](https://open.spotify.com/track/3uznH3H5AMYT9HzziGXcUy) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Thank You](https://open.spotify.com/album/2nlFmpKBjFIlRbaJh5SLX8) | 3:31 | 2023-12-22 | 2024-02-03 |
+| [The Equation](https://open.spotify.com/track/5k3R7EVELQypomg1Pl0bVr) | [Mighty Sampson](https://open.spotify.com/artist/3c6nIHDmmcDQRvbMBiIiRn) | [Sunshowers EP](https://open.spotify.com/album/4fHUfXT4Yj0pg9GmHJRniM) | 4:25 | 2026-04-18 |  |
 | [The Top](https://open.spotify.com/track/0CGDrIdIsKucUtnkUFSK7b) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [TPL](https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ) | 3:02 | 2023-09-22 | 2024-06-08 |
 | [THICK & SMALL](https://open.spotify.com/track/5vVGfBuSNiklMYlEdpSoH6) | [TRAPMAT SAVIOR](https://open.spotify.com/artist/5vaj4nUcjIF9Op1rFtebxV), [Jahs](https://open.spotify.com/artist/7AG40r3r0lm51MkOVEKbem) | [THICK & SMALL](https://open.spotify.com/album/4bYcWyPuRfhUYVDMzchoVk) | 2:37 | 2026-01-16 | 2026-02-28 |
 | [Thème](https://open.spotify.com/track/1fhyZmvBwVrHZjRMlc6Rh1) | [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Thème](https://open.spotify.com/album/5xcBdCm3sYvoBRBf6Q6WPQ) | 2:18 | 2023-04-14 | 2023-06-17 |

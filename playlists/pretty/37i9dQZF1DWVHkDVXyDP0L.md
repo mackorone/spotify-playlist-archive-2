@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Lucky
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,615 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,613 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Flashes](https://open.spotify.com/track/032AWtm9OYAMUCF13JLIJo) | [Fazed on a Pony](https://open.spotify.com/artist/6a9mnvRpDYNXCq0loqP3Md) | [swan](https://open.spotify.com/album/3GwObey3oMC9OPHoBeHWCA) | 2:00 |
 | 100 | [Smoking](https://open.spotify.com/track/7gjFBjHdCeaWcguXSvYSsW) | [Full Flower Moon Band](https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4), [Drunk Mums](https://open.spotify.com/artist/1vd7OHxzKOJeFKjN1M7VTb) | [Megaflower \(Deluxe\)](https://open.spotify.com/album/4jom42cmqbh61M5KPtH1KO) | 2:31 |
 
-Snapshot ID: `AAAAAOMhU6UsJ7TmbSZvkK8x/noybLRh`
+Snapshot ID: `AAAAAJtmJnkP47ihzpuX5cslBGjYx2F8`

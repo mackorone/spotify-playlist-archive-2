@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,302 songs - 9 day 13 hr 0 min
+4,303 songs - 9 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3240,6 +3240,7 @@
 | [Shattered Thrones \(another\)](https://open.spotify.com/track/3VOF7TxudGm9hOjAspinJX) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Epic rock music](https://open.spotify.com/album/79c248en6LDJwweGZK1sn5) | 4:04 | 2025-09-14 |  |
 | [Shattered Voices](https://open.spotify.com/track/50CB6P88gHWOpVc9NPOivZ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Screaming punkrock, melodic hardcore](https://open.spotify.com/album/4RtD0WVAxpM9l5UcPwITHT) | 2:30 | 2025-09-17 |  |
 | [Shattered Voices \(another\)](https://open.spotify.com/track/4pYHHyFUavknNEkv9oNvZz) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Screaming punkrock, melodic hardcore](https://open.spotify.com/album/4RtD0WVAxpM9l5UcPwITHT) | 2:55 | 2025-09-17 |  |
+| [She \- Radio Mix](https://open.spotify.com/track/7ssoU0Q2YLQpYfVSFodiU3) | [VB](https://open.spotify.com/artist/6bWH9AGbutBmdCkMbwJDjq) | [She](https://open.spotify.com/album/3K0S7jq6J4YZeOuB9at0J0) | 2:48 | 2026-04-18 |  |
 | [she say OMG](https://open.spotify.com/track/63MamNMm9iLqOkeY1OvYBg) | [800pts](https://open.spotify.com/artist/36b2HS4EqRatnoeOwu1IeN) | [she say OMG](https://open.spotify.com/album/7pGs7hy3bHVXHFkkE2KaJj) | 1:46 | 2025-05-16 |  |
 | [She's mine \(An Absinthe metal dream\)](https://open.spotify.com/track/2msLYQewP2aE1b3c9vCfY3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 2:55 | 2025-09-17 |  |
 | [She's My Poison](https://open.spotify.com/track/6hOC8kbaSGJr214qQoykzA) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Jump In the Rhythm](https://open.spotify.com/album/6PQSHCltPWwpihDjcm2FkX) | 2:21 | 2026-01-31 |  |

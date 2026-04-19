@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Schumann. The essential tracks, all in one playlist.",
-  "num_followers": 1573,
+  "num_followers": 1571,
   "original_name": "This Is Clara Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAABj5AHLCxgakoZsi0VjGzds",
+  "snapshot_id": "aeF4AAAAAAAgX/6mPcp5CuftmDZrjpiJ",
   "tracks": [
     {
       "added_at": null,
@@ -79,30 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3 Romances for Violin and Piano, Op. 22",
-        "url": "https://open.spotify.com/album/1kIdvHiR03ZfQM1Uob2GEl"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Koji Morishita",
-          "url": "https://open.spotify.com/artist/5P3tjwUdsPdyBsBBtM9M8P"
-        },
-        {
-          "name": "German Kitkin",
-          "url": "https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy"
-        }
-      ],
-      "duration_ms": 178947,
-      "name": "3 Romances for Violin and Piano, Op. 22: I. Andante molto",
-      "url": "https://open.spotify.com/track/3k4IVPEnMUBaBvHKqvdHLu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Regency",
         "url": "https://open.spotify.com/album/1g4Lw05FtjonIIylTggh8l"
       },
@@ -123,6 +99,30 @@
       "duration_ms": 102000,
       "name": "Romanze: from Piano Concerto in A Minor Op.7",
       "url": "https://open.spotify.com/track/6rQdxlTHnxZAfxnIZwrVBb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3 Romances for Violin and Piano, Op. 22",
+        "url": "https://open.spotify.com/album/1kIdvHiR03ZfQM1Uob2GEl"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Koji Morishita",
+          "url": "https://open.spotify.com/artist/5P3tjwUdsPdyBsBBtM9M8P"
+        },
+        {
+          "name": "German Kitkin",
+          "url": "https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy"
+        }
+      ],
+      "duration_ms": 171115,
+      "name": "3 Romances for Violin and Piano, Op. 22: II. Allegretto: Mit zartem Vortrage",
+      "url": "https://open.spotify.com/track/0kkZGLnMzp4Jm86weWiOqy"
     },
     {
       "added_at": null,
@@ -171,6 +171,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clara Schumann: Piano Sonata in G Minor",
+        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Sharon Su",
+          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
+        }
+      ],
+      "duration_ms": 311782,
+      "name": "Piano Sonata in G Minor: IV. Rondo",
+      "url": "https://open.spotify.com/track/2MshRat6MLpcgBDJ1JuYN3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3 Romances for Violin and Piano, Op. 22",
         "url": "https://open.spotify.com/album/1kIdvHiR03ZfQM1Uob2GEl"
       },
@@ -188,29 +208,9 @@
           "url": "https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy"
         }
       ],
-      "duration_ms": 171115,
-      "name": "3 Romances for Violin and Piano, Op. 22: II. Allegretto: Mit zartem Vortrage",
-      "url": "https://open.spotify.com/track/0kkZGLnMzp4Jm86weWiOqy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clara Schumann: Piano Sonata in G Minor",
-        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Sharon Su",
-          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
-        }
-      ],
-      "duration_ms": 311782,
-      "name": "Piano Sonata in G Minor: IV. Rondo",
-      "url": "https://open.spotify.com/track/2MshRat6MLpcgBDJ1JuYN3"
+      "duration_ms": 178947,
+      "name": "3 Romances for Violin and Piano, Op. 22: I. Andante molto",
+      "url": "https://open.spotify.com/track/3k4IVPEnMUBaBvHKqvdHLu"
     },
     {
       "added_at": null,
@@ -263,6 +263,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
+        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
+      },
+      "artists": [
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        },
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Trois romances op.11 Andante",
+      "url": "https://open.spotify.com/track/62E33pIJZODmg14tP7sZ4G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3 Romances for Violin and Piano, Op. 22",
         "url": "https://open.spotify.com/album/1kIdvHiR03ZfQM1Uob2GEl"
       },
@@ -307,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
-        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
-      },
-      "artists": [
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
-        },
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Trois romances op.11 Andante",
-      "url": "https://open.spotify.com/track/62E33pIJZODmg14tP7sZ4G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Echoes of Women - International Women's Day 2024",
         "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
       },
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
-        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Dartington Piano Trio",
-          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
-        }
-      ],
-      "duration_ms": 307733,
-      "name": "Piano Trio in G Minor, Op. 17: II. Scherzo. Tempo di Menuetto",
-      "url": "https://open.spotify.com/track/5h3hOSzD1wn5Kasf9QiLEQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
         "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 543306,
       "name": "Trois romances op.11 Andante-Allegro passionate",
       "url": "https://open.spotify.com/track/6D6lIDPzXAz1kL5PwlakiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
+        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Dartington Piano Trio",
+          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
+        }
+      ],
+      "duration_ms": 307733,
+      "name": "Piano Trio in G Minor, Op. 17: II. Scherzo. Tempo di Menuetto",
+      "url": "https://open.spotify.com/track/5h3hOSzD1wn5Kasf9QiLEQ"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smooth Piano",
+        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 235728,
+      "name": "Drei Romanzen, Opus 21 Nr 3 Agitato - Piano",
+      "url": "https://open.spotify.com/track/1ql1TfPAGIzdCUG7IqKBoK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
         "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 628133,
       "name": "Piano Trio in G Minor, Op. 17: I. Allegro moderato",
       "url": "https://open.spotify.com/track/1iDvTbEI7goxi0frO50MyM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smooth Piano",
-        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 174149,
-      "name": "Drei Romanzen, Nr. 2, Allegretto - Piano & Violin",
-      "url": "https://open.spotify.com/track/6mINKdNanPXqOjYbg4CJTI"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smooth Piano",
+        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 174149,
+      "name": "Drei Romanzen, Nr. 2, Allegretto - Piano & Violin",
+      "url": "https://open.spotify.com/track/6mINKdNanPXqOjYbg4CJTI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eternal Clara",
         "url": "https://open.spotify.com/album/19k1RNXANFfY9ZaZmNK0HN"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 190960,
       "name": "Romance, Op. 22: No. 1, Andante Molto",
       "url": "https://open.spotify.com/track/4Tz0FtkyqRLCwmSrrPgYQi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smooth Piano",
-        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 235728,
-      "name": "Drei Romanzen, Opus 21 Nr 3 Agitato - Piano",
-      "url": "https://open.spotify.com/track/1ql1TfPAGIzdCUG7IqKBoK"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         }
       ],
-      "duration_ms": 305760,
-      "name": "Drei Romanzen, Opus 21 Nr 1 Andante - Piano",
-      "url": "https://open.spotify.com/track/2Ounp78HmYsjvB1hruGTz1"
+      "duration_ms": 244088,
+      "name": "Drei Romanzen, Nr. 3 Leidenschaftlich schnell - Piano & Violin",
+      "url": "https://open.spotify.com/track/3U010epOsIDfHOW9mx8p8Y"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         }
       ],
-      "duration_ms": 244088,
-      "name": "Drei Romanzen, Nr. 3 Leidenschaftlich schnell - Piano & Violin",
-      "url": "https://open.spotify.com/track/3U010epOsIDfHOW9mx8p8Y"
+      "duration_ms": 305760,
+      "name": "Drei Romanzen, Opus 21 Nr 1 Andante - Piano",
+      "url": "https://open.spotify.com/track/2Ounp78HmYsjvB1hruGTz1"
     },
     {
       "added_at": null,

@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 234065,
       "name": "412",
       "url": "https://open.spotify.com/track/4HAUQ35gRU5GS1VuhqlqLw"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 246231,
       "name": "Albert Suffers",
       "url": "https://open.spotify.com/track/6mRqJM62E7KH4zXOWvFmAt"
@@ -160,10 +160,28 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 181771,
       "name": "Amanita",
       "url": "https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei"
+    },
+    {
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181771,
+      "name": "Amanita",
+      "url": "https://open.spotify.com/track/22MOx6iBZP7vE2jXx8l8tF"
     },
     {
       "album": {
@@ -304,10 +322,28 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 244767,
       "name": "Houses of American Style",
       "url": "https://open.spotify.com/track/5lSTpSh4DrzGCW4gmpMOao"
+    },
+    {
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244767,
+      "name": "Houses of American Style",
+      "url": "https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P"
     },
     {
       "album": {
@@ -394,7 +430,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 243612,
       "name": "It Only Bothers You",
       "url": "https://open.spotify.com/track/69MwqSM07rdnCA89MNxzdL"
@@ -466,7 +502,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 241920,
       "name": "Mike + Susan",
       "url": "https://open.spotify.com/track/4wpfVf67akZfMUhwybFNml"
@@ -664,7 +700,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 276424,
       "name": "Sequoia",
       "url": "https://open.spotify.com/track/52sgHE6V4gTMYE97K6m2tm"
@@ -988,7 +1024,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 252169,
       "name": "Violet",
       "url": "https://open.spotify.com/track/6j9WxIbqbib7SjGKePRPkQ"

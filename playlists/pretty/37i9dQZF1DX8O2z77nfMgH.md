@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Big Soto, Danny Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,822 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,726 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 22 | [Mi Deber](https://open.spotify.com/track/5w5VxYwS2G9uffuQjY29XN) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Mi Deber](https://open.spotify.com/album/2ILdDtamjfh4OMDhlRbjwk) | 2:50 |
 | 23 | [Usa](https://open.spotify.com/track/19dqqNHDdxdPnZxV9wLTFM) | [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [DEDEDEE \(Vol\. 1\)](https://open.spotify.com/album/0CIVGTlRTyXLa7xmYoEHZj) | 2:52 |
 | 24 | [666](https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [666](https://open.spotify.com/album/4P89Sy36vHWynHr8PPc4LL) | 2:20 |
-| 25 | [FAVELINHA](https://open.spotify.com/track/2OkmcaL3Cvc8f3kqiWXJhX) | [TH Conrado](https://open.spotify.com/artist/7n9zqMp16j04Xve02Dy4hb), [Fb de Saquarema](https://open.spotify.com/artist/4xBrBPZecc42MQQAy5BBtp), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK) | [FAVELINHA](https://open.spotify.com/album/1daDm33XFLrlxX6QHup9yF) | 2:48 |
+| 25 | [FAVELINHA](https://open.spotify.com/track/2OkmcaL3Cvc8f3kqiWXJhX) | [TH Conrado](https://open.spotify.com/artist/7n9zqMp16j04Xve02Dy4hb), [Fb de Saquarema](https://open.spotify.com/artist/4xBrBPZecc42MQQAy5BBtp), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Barulhentarecords](https://open.spotify.com/artist/5LZaugcJssr6X06GVTdpuc) | [FAVELINHA](https://open.spotify.com/album/1daDm33XFLrlxX6QHup9yF) | 2:48 |
 | 26 | [Guele](https://open.spotify.com/track/4fbtdVb5F7BgN1n4avUMqx) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh) | [Guele](https://open.spotify.com/album/3hkWFsGhzkj7qOtVRxcdL6) | 2:41 |
 | 27 | [Por Ella](https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Por Ella \(FIFA World Cup 2026™\)](https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj) | 3:01 |
 | 28 | [Yales](https://open.spotify.com/track/0chtBoIb4E5iUNr1c8PNW5) | [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Yales](https://open.spotify.com/album/24IIsYIPJeUniqGKzSQKOw) | 2:24 |

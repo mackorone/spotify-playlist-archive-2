@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-193 songs - 10 hr 14 min
+194 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [State of Love](https://open.spotify.com/track/45DsD814Bmk110GzaglxXP) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/63FOxu3a3g8tOIFaaGOUZ4) | [State of Love](https://open.spotify.com/album/3OaqTfrMtHmCRHwF6qenQR) | 3:23 | 2022-10-19 |  |
 | [State of Love](https://open.spotify.com/track/65FYT2bXZO3ORrQHPjzORZ) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/6NW8p8IBDzSJzQdcoiH5T6) | [State of Love](https://open.spotify.com/album/6U0tCHP4Mfe9a3HTXz3IPA) | 3:23 | 2022-05-25 | 2022-10-20 |
 | [Stay \- Piano ver.](https://open.spotify.com/track/1yT4l2NRZubuYRYT1lVD9a) | [Mizki](https://open.spotify.com/artist/5zJpeKLSuVa7kulMcgRGcE) | [Stay \(Piano ver.\)](https://open.spotify.com/album/4u9KIaeMZgkgi9LZSqVaVD) | 3:20 | 2022-05-25 |  |
+| [Stay With Me](https://open.spotify.com/track/6PlJmtSZG9AE1asoYt2BXu) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Stay With Me](https://open.spotify.com/album/0bsw6pMyquYTDMVO4BjV4e) | 3:21 | 2026-04-18 |  |
 | [Stop Making It Worse](https://open.spotify.com/track/5XJiYEHHCfbghn4Ddbgij3) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:51 | 2024-09-29 |  |
 | [Sweet Dreams](https://open.spotify.com/track/37GXIxCvM0Tq6rwsDHdYO6) | [Naxxos](https://open.spotify.com/artist/2iG0HNCECG2DxXxSUcMhEX) | [Sweet Dreams](https://open.spotify.com/album/0hyddra5kXgkos48Tg3u50) | 3:19 | 2022-05-25 |  |
 | [Swimming In The Sky](https://open.spotify.com/track/3xZyOAfKRK2LTPgrZY8U76) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [Swimming In The Sky](https://open.spotify.com/album/6t6EpphDwNwRTLpDMT22t5) | 3:48 | 2025-12-20 |  |

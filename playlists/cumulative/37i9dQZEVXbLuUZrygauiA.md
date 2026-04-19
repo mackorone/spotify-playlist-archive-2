@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-3,798 songs - 8 day 15 hr 13 min
+3,800 songs - 8 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,14 +299,16 @@
 | [Ay Mamita](https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW) | [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr) | [Ay Mamita](https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q) | 2:44 | 2025-06-10 | 2025-07-09 |
 | [AY MAMÁ](https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:43 | 2024-09-10 | 2024-11-14 |
 | [Ayayay](https://open.spotify.com/track/2bcpAh7D4BHjXo9ZGPLIdU) | [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB) | [Dueño del Jardín](https://open.spotify.com/album/0tz8tpENFK4GbkeHgx1hj6) | 2:49 | 2025-07-02 | 2025-10-08 |
+| [Ayer Hable Con Dios](https://open.spotify.com/track/4k0HONHVX9U15ZKkPHmfYv) | [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [Ayer Hable Con Dios](https://open.spotify.com/album/5M1e5Ya2CtNhIkPaj2q0Ev) | 2:23 | 2026-04-18 |  |
 | [Ayer Hable Con Dios](https://open.spotify.com/track/6gOvLsPRoL5ichiApvwDoU) | [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [Ayer Hable Con Dios](https://open.spotify.com/album/4LCH0Wp0XgSGYJ05cpm52Z) | 2:23 | 2026-03-22 | 2026-03-26 |
-| [Ayer Hable Con Dios](https://open.spotify.com/track/7yWF9ZtqzTKsxKUPVg4efu) | [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [Ayer Hable Con Dios](https://open.spotify.com/album/391uepLMNmRPRUcsVlhj3j) | 2:23 | 2026-03-25 |  |
+| [Ayer Hable Con Dios](https://open.spotify.com/track/7yWF9ZtqzTKsxKUPVg4efu) | [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [Ayer Hable Con Dios](https://open.spotify.com/album/391uepLMNmRPRUcsVlhj3j) | 2:23 | 2026-03-25 | 2026-04-19 |
 | [Ayer Hable Con Dios](https://open.spotify.com/track/59JHSgCS2nbh0GqusOLQjS) | [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [Ayer Hable Con Dios](https://open.spotify.com/album/3kzwAO9Ra7CGc0Hn7Eu7TV) | 2:23 | 2026-04-01 | 2026-04-03 |
 | [Ayer Te Pedí](https://open.spotify.com/track/7lCJmp9bCRdQCUiaHOZLrl) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Mi Regreso](https://open.spotify.com/album/4bq7eLWq5fazAwtsVnrQDM) | 3:34 | 2025-05-13 | 2025-05-28 |
 | [Ayer Te Soñé](https://open.spotify.com/track/1QsRXToHGvathPoMPWnwaN) | [Son Rancheras de Amor](https://open.spotify.com/artist/4af1Rl1eSf3fEw025ixeQz) | [Son Rancheras de Amor](https://open.spotify.com/album/7387KHv3sJeItcJmrhZako) | 3:37 | 2026-01-15 | 2026-01-24 |
 | [AyMami](https://open.spotify.com/track/2G9IqD0eydBfEaQlNTjij8) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:44 | 2025-08-02 | 2025-08-09 |
 | [AyMami](https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [AyMami](https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7) | 2:44 | 2025-07-22 | 2025-08-03 |
-| [Ayúdame](https://open.spotify.com/track/5CnyWDjFwt7g0yPD2zdA4W) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Ayúdame](https://open.spotify.com/album/5mIgSt8XCughk9cUA5uxzu) | 2:41 | 2026-04-14 |  |
+| [Ayúdame](https://open.spotify.com/track/45f6FcdWcuBGB4GvFuwr9f) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Expansión](https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf) | 2:41 | 2026-04-18 |  |
+| [Ayúdame](https://open.spotify.com/track/5CnyWDjFwt7g0yPD2zdA4W) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Ayúdame](https://open.spotify.com/album/5mIgSt8XCughk9cUA5uxzu) | 2:41 | 2026-04-14 | 2026-04-19 |
 | [Azote](https://open.spotify.com/track/7IJZyhrttBYZAIwQxmPxuj) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv) | [Azote](https://open.spotify.com/album/2IvC3pPmUw7QDAamPXP0i8) | 1:57 | 2023-03-28 | 2023-04-12 |
 | [Azul](https://open.spotify.com/track/1HyXubEINd4f4aG50H3LcN) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Si Mañana Ya No Estoy](https://open.spotify.com/album/0nwpHxPpUjG7nDBz39VX8B) | 3:53 | 2025-10-25 | 2025-11-12 |
 | [Azul](https://open.spotify.com/track/43uVCdofMSLIGOaWWakkO0) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Azul](https://open.spotify.com/album/1UhzWnFPrhn178PkkD5Cbf) | 3:53 | 2025-10-14 | 2025-10-26 |

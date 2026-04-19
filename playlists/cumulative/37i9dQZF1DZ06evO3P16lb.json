@@ -1109,6 +1109,28 @@
     },
     {
       "album": {
+        "name": "Si nos dejan o no",
+        "url": "https://open.spotify.com/album/1CnXevTLoSgi6sPR9tr2oq"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Si nos dejan o no",
+      "url": "https://open.spotify.com/track/6cZAqjQhLDjxEpRNmJuDJC"
+    },
+    {
+      "album": {
         "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
       },
@@ -1282,7 +1304,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 259625,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2E5FC6gMayGYlilOQ53ZSi"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: thrown
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,791 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,837 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 24 | [SCORCHED EARTH](https://open.spotify.com/track/357ZCAHEiifKAf01ARGO5z) | [Pro\-Pain](https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8) | [SCORCHED EARTH](https://open.spotify.com/album/2xDOz3PVrsAMvluZKZKy8x) | 2:42 |
 | 25 | [Bad Habits](https://open.spotify.com/track/2GMP1F4gJq5qFv051DvbBe) | [Afterlife](https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX) | [Bad Habits](https://open.spotify.com/album/1jZBLSo7cSXJXRjnF7qqpw) | 3:16 |
 | 26 | [Blind](https://open.spotify.com/track/0JObTNfSbzxAy2ENhsmuBl) | [Crematory](https://open.spotify.com/artist/4q2uhIfBHCNlwXYvQdnzvS) | [Blind](https://open.spotify.com/album/2j2oWRZOv5b6O3kE7tjO9c) | 3:38 |
-| 27 | [New Jesus](https://open.spotify.com/track/5jZgMZRnn1yVXkJuH1Gcy5) | [truck violence](https://open.spotify.com/artist/37hhPwqpgSJ3sVixiThL0l) | [New Jesus](https://open.spotify.com/album/3AhRHRo8zqdJi89JI8Gk9s) | 3:07 |
+| 27 | [New Jesus](https://open.spotify.com/track/5jZgMZRnn1yVXkJuH1Gcy5) | [Truck Violence](https://open.spotify.com/artist/37hhPwqpgSJ3sVixiThL0l) | [New Jesus](https://open.spotify.com/album/3AhRHRo8zqdJi89JI8Gk9s) | 3:07 |
 | 28 | [Nu Malaise](https://open.spotify.com/track/0GMfd6d1IRamANqfNa196u) | [Blight Town](https://open.spotify.com/artist/3ithyOukGfKGBz6zc3UAV0) | [Nu Malaise](https://open.spotify.com/album/2E6GSzjkcCYCPhvgco0O5N) | 2:47 |
 | 29 | [Acid Tears](https://open.spotify.com/track/7u5UVrTciEuESZRvjlFl6z) | [Ice Sealed Eyes](https://open.spotify.com/artist/0eVDo1w1SoyNP0xswwFYi7) | [Acid Tears](https://open.spotify.com/album/376PPn9HEkqGYm3wCQg9zD) | 4:23 |
 | 30 | [Of Radiance and Levitation](https://open.spotify.com/track/2UfXFjUXQ1aPRLpCAjOKcM) | [Fires in the Distance](https://open.spotify.com/artist/18uSn0X1chr8YsK4N09OQw) | [Of Radiance and Levitation](https://open.spotify.com/album/3uZaXiuYzDjKSBexmxJElH) | 9:27 |

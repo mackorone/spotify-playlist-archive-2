@@ -4,7 +4,7 @@
 
 > This is Kehlani\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 13 min
+57 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Folded \- A COLORS SHOW](https://open.spotify.com/track/0dZG4yK5yPxGBbViV97mky) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Folded \- A COLORS SHOW](https://open.spotify.com/album/7a3yNq3BIyDEYPguafVKDf) | 4:21 | 2025-12-25 |  |
 | [Gangsta](https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Suicide Squad: The Album](https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8) | 2:57 | 2025-12-18 |  |
 | [Get Me \(feat\. Kehlani\)](https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:05 | 2025-12-18 |  |
-| [go](https://open.spotify.com/track/1Zsf0U4SPsf4aaWxcfftYx) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [go](https://open.spotify.com/album/0ygpm3Vqgsg1lRIl7JMvVm) | 2:22 | 2025-12-18 |  |
+| [go](https://open.spotify.com/track/1Zsf0U4SPsf4aaWxcfftYx) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [go](https://open.spotify.com/album/0ygpm3Vqgsg1lRIl7JMvVm) | 2:22 | 2025-12-18 | 2026-04-19 |
+| [go](https://open.spotify.com/track/5WFfJAPeILmZdjjDF4zw6k) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SLIDER II](https://open.spotify.com/album/7EuLS6i7d3LU7eFxnbz2or) | 2:22 | 2026-04-19 |  |
 | [Good Life \(with G\-Eazy & Kehlani\)](https://open.spotify.com/track/0Oa9mHOnH14GZ4toWwkf4c) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Good Life \(with G\-Eazy & Kehlani\)](https://open.spotify.com/album/3KDuNEtT7I41hNbzMUakyq) | 3:45 | 2025-12-18 |  |
 | [Good Thing \(with Kehlani\)](https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Good Thing \(with Kehlani\)](https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4) | 3:30 | 2025-12-18 |  |
 | [Hate the Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 | 2025-12-18 |  |

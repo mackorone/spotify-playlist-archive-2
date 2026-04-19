@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 777985,
+  "num_followers": 777984,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAABfqWmv9xeu7kcFRzd7pEv9",
+  "snapshot_id": "aeF4AAAAAAAwxsNdPadO0NyTG4B973vu",
   "tracks": [
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 186600,
-      "name": "Roaring 20s",
-      "url": "https://open.spotify.com/track/0wdV94AXGRphrbkDWLNzVC"
+      "duration_ms": 189132,
+      "name": "Into the Unknown - Panic! At The Disco Version",
+      "url": "https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 189132,
-      "name": "Into the Unknown - Panic! At The Disco Version",
-      "url": "https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm"
+      "duration_ms": 186600,
+      "name": "Roaring 20s",
+      "url": "https://open.spotify.com/track/0wdV94AXGRphrbkDWLNzVC"
     },
     {
       "added_at": null,

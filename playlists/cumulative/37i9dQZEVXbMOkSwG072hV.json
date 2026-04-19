@@ -8094,7 +8094,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 70212,
       "name": "BAD ENDING FUNK",
       "url": "https://open.spotify.com/track/6eC8U3G5GCK7R5LFF1MOr6"
@@ -43988,7 +43988,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 148885,
       "name": "Lord da Madruga / Saudade de Tu bate Forte",
       "url": "https://open.spotify.com/track/0QtK5dh9AYYIzUZ3rp0HI3"
@@ -44536,7 +44536,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 404213,
       "name": "Lover, You Should've Come Over",
       "url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
@@ -83587,6 +83587,24 @@
     },
     {
       "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "That Should Be Me",
+      "url": "https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S"
+    },
+    {
+      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
       },
@@ -84620,6 +84638,24 @@
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
+    },
+    {
+      "album": {
+        "name": "Love in the Wind",
+        "url": "https://open.spotify.com/album/5wDxHx4iZf2hXHMfANu6DG"
+      },
+      "artists": [
+        {
+          "name": "The Sha La Das",
+          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238280,
+      "name": "Those Years Are Over",
+      "url": "https://open.spotify.com/track/4DPx5423HjiwbHZ7WEBN2t"
     },
     {
       "album": {
@@ -88368,6 +88404,24 @@
       "duration_ms": 263702,
       "name": "Uma Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/0cK1rd4UAIzTnPtuWFqumn"
+    },
+    {
+      "album": {
+        "name": "Uma Vez Cristo Nada mais",
+        "url": "https://open.spotify.com/album/038pHOUq7XNBZ8okg4ONeV"
+      },
+      "artists": [
+        {
+          "name": "Almar Ricch",
+          "url": "https://open.spotify.com/artist/0UShzc8BEdXTABjQrPyFtO"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 643401,
+      "name": "Uma Vez Cristo Nada mais",
+      "url": "https://open.spotify.com/track/2X1kO0N6Mind5G1EkXv24b"
     },
     {
       "album": {

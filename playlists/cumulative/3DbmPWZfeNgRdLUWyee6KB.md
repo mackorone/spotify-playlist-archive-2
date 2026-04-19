@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-938 songs - 2 day 6 hr 52 min
+939 songs - 2 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [BAD FOR ME](https://open.spotify.com/track/14ZPZqNEJzwwjBIBGIwc5e) | [Looperian](https://open.spotify.com/artist/6Z5SR6G9SpWPpp42YqNkkl) | [BAD FOR ME](https://open.spotify.com/album/7sI2OYtjcq8r8XQyYM3Qr0) | 1:31 | 2026-01-20 | 2026-02-20 |
 | [Baiãozinho Leve](https://open.spotify.com/track/6C93ISbYKLBVWmv6SuPJSH) | [Prila Simões](https://open.spotify.com/artist/0W6y6PU7ad4BP9o7Y9491O), [Paulla Zeferino](https://open.spotify.com/artist/0W9jtJO445Xtbj7kAb51cX) | [Baiãozinho Leve](https://open.spotify.com/album/3AT4b3lGPK8MqVGeacBylO) | 4:01 | 2025-12-23 | 2026-01-24 |
 | [Balarm \(Remastered\)](https://open.spotify.com/track/3lI011rGF3F4cM9UvwizST) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs) | [Sicilia Araba: Arabic Poets of Sicily 827\-1091 \(Remastered\)](https://open.spotify.com/album/5d75AmGNOpM2U2hBrPuFeA) | 2:20 | 2023-04-20 | 2025-11-29 |
+| [Balorda nostalgia](https://open.spotify.com/track/2K5ijyYylUoDEYMYxz5E95) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Balorda nostalgia](https://open.spotify.com/album/4disZdaEkZIGag3qTJfiWV) | 3:15 | 2026-04-18 |  |
 | [Barangkali](https://open.spotify.com/track/5kk7rBkht5QSPikwifT5ho) | [MASWO](https://open.spotify.com/artist/5XgbBkGDKDADOxmOzjme0f), [Popy Nafisa](https://open.spotify.com/artist/15sBq9UMwR54RbAyvaZ64D) | [Barangkali](https://open.spotify.com/album/0vU6fCXy7OZHfM3cdfWQXt) | 4:58 | 2026-01-07 | 2026-02-03 |
 | [BARK](https://open.spotify.com/track/5Nlz8HtWk4bULZ58wXfN90) | [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb), [OBI ALI](https://open.spotify.com/artist/1IfibYZptPrskRP9aFelO0) | [BARK](https://open.spotify.com/album/25rraJ2LBBLpjvYso8sus1) | 1:44 | 2026-02-15 | 2026-03-25 |
 | [Be My Forever](https://open.spotify.com/track/4GtWJi7p6xcrntPaCJRalL) | [Adrian Wang](https://open.spotify.com/artist/3ppXRwJyEfcCNHLVplAIty) | [Be My Forever](https://open.spotify.com/album/6q5THIYhKayml89ZMtWEJF) | 3:42 | 2026-01-13 | 2026-02-20 |

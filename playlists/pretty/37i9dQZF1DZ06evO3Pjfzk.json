@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 110550,
+  "num_followers": 110617,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAADWK1HObwXGnXvCLpYVWYZf",
+  "snapshot_id": "aeF4AAAAAABzvjCewiiauET/tvtZIyp7",
   "tracks": [
     {
       "added_at": null,
@@ -627,26 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Woman (Lainey Wilson Version)",
-        "url": "https://open.spotify.com/album/4AXJv2lxOUj6eOyMRxJ2gA"
+        "name": "Unlocked",
+        "url": "https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
         },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 212175,
-      "name": "Wild Woman - Lainey Wilson Version",
-      "url": "https://open.spotify.com/track/1Dl7benysRqzPFFynBmYCt"
+      "duration_ms": 179811,
+      "name": "Thicc As Thieves (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/75UueUZoKTAcpXlc3EOlYF"
     },
     {
       "added_at": null,
@@ -667,22 +663,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unlocked",
-        "url": "https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC"
+        "name": "Wild Woman (Lainey Wilson Version)",
+        "url": "https://open.spotify.com/album/4AXJv2lxOUj6eOyMRxJ2gA"
       },
       "artists": [
         {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 179811,
-      "name": "Thicc As Thieves (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/75UueUZoKTAcpXlc3EOlYF"
+      "duration_ms": 212175,
+      "name": "Wild Woman - Lainey Wilson Version",
+      "url": "https://open.spotify.com/track/1Dl7benysRqzPFFynBmYCt"
     },
     {
       "added_at": null,

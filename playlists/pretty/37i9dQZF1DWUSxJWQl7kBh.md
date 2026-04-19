@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > Yo voy pa arriba, el golpe avisa, es lo qué es y yo cumplí con avisar🙏🏽 ✨ Los 2 de la S y Los Chavalitos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,363 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,596 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 79 | [MAYBE](https://open.spotify.com/track/7DmKAXii1NFObsmBWSNO0M) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [GAD](https://open.spotify.com/album/3BhIIm6DEgqUXGc5np42a0) | 3:09 |
 | 80 | [El Mismo](https://open.spotify.com/track/1K3idamkSc1wHPTRsX3tVt) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [El Mismo](https://open.spotify.com/album/1uTIkX6XGkkb0fAK9Bj8DU) | 2:27 |
 
-Snapshot ID: `AAAAAPW235O3hTaXiw2OfQGyXwECVaQY`
+Snapshot ID: `AAAAAIRYzfnagtpAhQHOkUGy9nKFW4wc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7q0jvGbuDLsmGvaRCU7F00">Maegan Cottone</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264 likes - 120 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 120 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 | 52 | [Parachute](https://open.spotify.com/track/2XZn85D188f2bGdV3zmmrF) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Parachute](https://open.spotify.com/album/3t4ZHswZdOfXd6TcZ51uHl) | 3:42 |
 | 53 | [Caroline](https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z) | [Symmetrik](https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm) | [Caroline](https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp) | 3:36 |
 | 54 | [Hey Lonely](https://open.spotify.com/track/0zY2uiQbbovuqLoaz3bnm6) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:28 |
-| 55 | [Wildfire](https://open.spotify.com/track/77uHWvtER9QbyBpWPDmZ3b) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [Wildfire](https://open.spotify.com/album/1vcZTJZVgo4maGfGoG8ZMq) | 2:29 |
-| 56 | [Use Me](https://open.spotify.com/track/3I6q7b1keDmi75xjPT2RIs) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/7IjN10VEnyA5wnPOcLx12H) | 3:18 |
+| 55 | [Use Me](https://open.spotify.com/track/3I6q7b1keDmi75xjPT2RIs) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/7IjN10VEnyA5wnPOcLx12H) | 3:18 |
+| 56 | [Wildfire](https://open.spotify.com/track/77uHWvtER9QbyBpWPDmZ3b) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [Wildfire](https://open.spotify.com/album/1vcZTJZVgo4maGfGoG8ZMq) | 2:29 |
 | 57 | [Love Train](https://open.spotify.com/track/6TTDhRdbaRpTyqi6UiESAv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:55 |
 | 58 | [Drums & Drops](https://open.spotify.com/track/0EszhrzsCao969Mv8upWmN) | [YALL](https://open.spotify.com/artist/0ZRBa9pTfhhCsJW95F1ugg), [Royale Avenue](https://open.spotify.com/artist/1sSjBN7wUrQBTgcjSNEnI5), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Drums & Drops](https://open.spotify.com/album/6cYhCz0attbXlGD9EqLB1e) | 2:57 |
 | 59 | [Sniper \(Remix\) \(feat\. BKO, Jairzinho & Sevn Alias\)](https://open.spotify.com/track/07AhIz1LUHR1U4aTbOYSJQ) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [Sniper \(Remix\) \(feat\. BKO, Jairzinho & Sevn Alias\)](https://open.spotify.com/album/2aTzmifl59fUFqBW24bzDw) | 3:19 |
 | 60 | [Young Forever \- Radio Edit](https://open.spotify.com/track/2CW1akegXfl5zPtSI6lEDr) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Young Forever](https://open.spotify.com/album/0pdcUSc8IfilHXsY3U8EZz) | 3:42 |
 | 61 | [You Got Something](https://open.spotify.com/track/4K1atQYqkLTKgDIizEqSr1) | [Rochelle](https://open.spotify.com/artist/55RKbZHb1yAXuvEHTIyaxJ) | [\#Clubvibes](https://open.spotify.com/album/3Io7HqKhxzrSIIdXA9bGhX) | 3:03 |
 | 62 | [Write Our Names](https://open.spotify.com/track/04L0p8GVp0O2OL8MXMjlsB) | [Moxie Raia](https://open.spotify.com/artist/1dSRKlg9rzvs63rhT8Sbpp), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [931 Reloaded](https://open.spotify.com/album/6uwfQz4ZsOX5VZ2cj8KmfX) | 4:05 |
-| 63 | [PARA OLVIDARME DE TI](https://open.spotify.com/track/35KAbrp0kn0kqjTVL7qHjE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:40 |
-| 64 | [boy you turn me](https://open.spotify.com/track/5xM6Saib7CixujU8BFW2eN) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [boy you turn me](https://open.spotify.com/album/0yYcF3WuWkHIYpsyWUpRfA) | 3:12 |
+| 63 | [boy you turn me](https://open.spotify.com/track/5xM6Saib7CixujU8BFW2eN) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [boy you turn me](https://open.spotify.com/album/0yYcF3WuWkHIYpsyWUpRfA) | 3:12 |
+| 64 | [PARA OLVIDARME DE TI](https://open.spotify.com/track/35KAbrp0kn0kqjTVL7qHjE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:40 |
 | 65 | [Take the Money and Run](https://open.spotify.com/track/19tMN8umiBe8059CFFuAJO) | [OG3NE](https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo) | [We Got This \(Special Edition\)](https://open.spotify.com/album/449UVVqfNmuvAJ5DmzqaeD) | 2:44 |
 | 66 | [Absofuckinglutely](https://open.spotify.com/track/1p3vZodO5QqYSWUrjqgsXe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/40D8mOfQknlA99Q7QpLJEC) | 3:23 |
 | 67 | [Can't Get Enough](https://open.spotify.com/track/2jvE5LxxAC1XX6pjSgUHf7) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Hope](https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj) | 3:12 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 | 119 | [The Greatest \- Vocal Mix](https://open.spotify.com/track/1lEeOgUqCTAYK9rBA3gPBc) | [Mell Tierra](https://open.spotify.com/artist/0mRnzQ57yTuNxmAQWqKzYO), [Maegan Cottone](https://open.spotify.com/artist/3d8BRJdkVQMFmdRu2eR3yg) | [The Greatest](https://open.spotify.com/album/6ssf0Pv7erh4z26k7Iu2Tl) | 5:37 |
 | 120 | [Girls \- Radio Edit](https://open.spotify.com/track/4R87R0NWr7o6kE7lYqRi6p) | [Yves Larock & Tony Sylla](https://open.spotify.com/artist/1hbYJOKyrqE7h6nxPlBpZu), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Girls \(Radio Edit\)](https://open.spotify.com/album/6Fc4SUyyITx6ZWy9v9p2Qc) | 3:25 |
 
-Snapshot ID: `AcPIXgAAAADfcAU8Icd79W0Kl//2mOD5`
+Snapshot ID: `AcPN9AAAAAAw5Yd5E/nYEX7QyUDeBOK0`

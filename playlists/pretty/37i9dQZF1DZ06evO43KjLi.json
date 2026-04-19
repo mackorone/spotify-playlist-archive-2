@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 22919,
+  "num_followers": 22921,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAACse47tRNy3UDL1qqZpCkfv",
+  "snapshot_id": "aeF4AAAAAAAlBRsd8kQGtKUPdIOTpslW",
   "tracks": [
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 185834,
-      "name": "Todos los Dias - En Vivo",
-      "url": "https://open.spotify.com/track/18REsWSePDsWv0X04omJqu"
+      "duration_ms": 141781,
+      "name": "Otra Noche Mas - En Vivo",
+      "url": "https://open.spotify.com/track/39QQtDOT5fy2sEudXonn7J"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 141781,
-      "name": "Otra Noche Mas - En Vivo",
-      "url": "https://open.spotify.com/track/39QQtDOT5fy2sEudXonn7J"
+      "duration_ms": 185834,
+      "name": "Todos los Dias - En Vivo",
+      "url": "https://open.spotify.com/track/18REsWSePDsWv0X04omJqu"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 169929,
-      "name": "Damas y Placeres",
-      "url": "https://open.spotify.com/track/08o5hHml4niGUHhsmimaHp"
+      "duration_ms": 155280,
+      "name": "Madre",
+      "url": "https://open.spotify.com/track/7gl6Espy38g068wpy32adp"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 155280,
-      "name": "Madre",
-      "url": "https://open.spotify.com/track/7gl6Espy38g068wpy32adp"
+      "duration_ms": 169929,
+      "name": "Damas y Placeres",
+      "url": "https://open.spotify.com/track/08o5hHml4niGUHhsmimaHp"
     },
     {
       "added_at": null,

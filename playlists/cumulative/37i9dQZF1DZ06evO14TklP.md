@@ -4,7 +4,7 @@
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-103 songs - 4 hr 46 min
+104 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Terapia](https://open.spotify.com/track/4Zf8s6LPf3H83hCjkAHgzY) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Terapia](https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7) | 1:58 | 2025-11-27 |  |
 | [Tons \#3 \- Velocidade \(BR 101\) \[feat\. CRIVO\]](https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Xaga](https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6), [Ebony](https://open.spotify.com/artist/7rkZLFBmhSS9Uw47FTGxMf), [CRIVO](https://open.spotify.com/artist/0N2KGZptIZRKtEakTbNoxe) | [Tons \#3 \- Velocidade \(BR 101\) \[feat\. CRIVO\]](https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5) | 3:01 | 2023-12-30 | 2026-02-18 |
 | [Triplex](https://open.spotify.com/track/3mbw5wfUXaNr4yCOnUxqlA) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:15 | 2025-05-17 |  |
+| [Vai Dar Caô](https://open.spotify.com/track/7BodzPDMnkSi75ngUgjN9x) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 2:24 | 2026-04-19 |  |
 | [Vale Do Silício](https://open.spotify.com/track/0RIbrYxa06ta7MAlYCIGrI) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 3:37 | 2025-05-15 |  |
-| [Xoxo](https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j) | [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Xoxo](https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv) | 2:10 | 2023-12-30 |  |
+| [Xoxo](https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j) | [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Xoxo](https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv) | 2:10 | 2023-12-30 | 2026-04-19 |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 132358,
+  "num_followers": 132385,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAAAYFPj2VPDEM6L6Wy0WMJo4",
+  "snapshot_id": "aeF4AAAAAAA8hdA9QghiuJfcf/aRM1C2",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mantis",
-        "url": "https://open.spotify.com/album/6YtFYvsLVJpOSLDJdQ5bdK"
+        "name": "Disc\u00falpeme Se\u00f1or",
+        "url": "https://open.spotify.com/album/3rXPB8pYN0z9kw6nz5k8Z2"
       },
       "artists": [
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 254740,
-      "name": "Mantis",
-      "url": "https://open.spotify.com/track/6ImCkOkytyhBDWDU3a26iL"
+      "duration_ms": 173693,
+      "name": "Disc\u00falpeme Se\u00f1or",
+      "url": "https://open.spotify.com/track/6c1ZfnHFuzU5Wh8PS48IWI"
     },
     {
       "added_at": null,
@@ -123,6 +119,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mantis",
+        "url": "https://open.spotify.com/album/6YtFYvsLVJpOSLDJdQ5bdK"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 254740,
+      "name": "Mantis",
+      "url": "https://open.spotify.com/track/6ImCkOkytyhBDWDU3a26iL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },
@@ -163,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limonar",
-        "url": "https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 195892,
-      "name": "Limonar",
-      "url": "https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baila",
         "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
       },
@@ -191,6 +191,22 @@
       "duration_ms": 184760,
       "name": "M\u00e1s Fuerte",
       "url": "https://open.spotify.com/track/6PLihys6LLwbCI9GRByWZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limonar",
+        "url": "https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 195892,
+      "name": "Limonar",
+      "url": "https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG"
     },
     {
       "added_at": null,
@@ -499,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YELIANA-Cap.3-ZHA",
-        "url": "https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 140906,
-      "name": "YELIANA - Cap. 3 - ZHA",
-      "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Tu Amor No Vuelve",
         "url": "https://open.spotify.com/album/4yPrBID40hUMocphha5lr7"
       },
@@ -535,6 +531,26 @@
       "duration_ms": 201040,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YELIANA-Cap.3-ZHA",
+        "url": "https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 140906,
+      "name": "YELIANA - Cap. 3 - ZHA",
+      "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"
     },
     {
       "added_at": null,
@@ -963,26 +979,6 @@
       "duration_ms": 184009,
       "name": "Lo Malo - Remix",
       "url": "https://open.spotify.com/track/7vHzOI0lrq6dXsHuQWpBpT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Love You (432 Hz) (with Greeicy)",
-        "url": "https://open.spotify.com/album/3HI2xAgLyGEw4w66lmwUQk"
-      },
-      "artists": [
-        {
-          "name": "Maejor",
-          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "I Love You (432 Hz) (with Greeicy)",
-      "url": "https://open.spotify.com/track/1ICUVPtaZlWQ45aQCtmW2y"
     }
   ],
   "unique_name": "This Is Greeicy",

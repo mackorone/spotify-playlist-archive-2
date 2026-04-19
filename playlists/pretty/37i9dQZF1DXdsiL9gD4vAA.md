@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,098 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,132 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 74 | [Khushboo](https://open.spotify.com/track/2yTSnWOv0fLaXjH0BLtdQz) | [Amrita Cheterjee](https://open.spotify.com/artist/1h7mW0hmhzANusaBDgqWWf) | [Khushboo](https://open.spotify.com/album/0XkXzOghdGb03O5F8KQz3j) | 4:38 |
 | 75 | [Tose Lage Nain](https://open.spotify.com/track/2rLx3Y0yEjEGfO9ydhl7cw) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Tose Lage Nain](https://open.spotify.com/album/4zokBbgS5ZFgVjs3WFO6Pj) | 5:54 |
 
-Snapshot ID: `AAAAANpXvaTKCXU6tOZbaz+hmjwqAM7w`
+Snapshot ID: `AAAAANna9tZKuEEdwK9rkOkAfrQGfF9h`

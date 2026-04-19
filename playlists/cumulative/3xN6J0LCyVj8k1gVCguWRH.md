@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,954 songs - 13 day 20 hr 38 min
+5,955 songs - 13 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5034,6 +5034,7 @@
 | [Teleport](https://open.spotify.com/track/0Sl0DTpE41cXFwblnBt1UN) | [BAELY](https://open.spotify.com/artist/62ZRjfeyo7sLeth6Twkq6h) | [Teleport](https://open.spotify.com/album/7H4nESb8FK8bqb7g1e5x0I) | 3:45 | 2022-09-06 | 2022-09-23 |
 | [TELEPÁTICO](https://open.spotify.com/track/5WMcQ3qAxHnm734Tesu2Ep) | [Double C](https://open.spotify.com/artist/2nhkoVkDA2nMO5lHp4BG5u) | [TELEPÁTICO](https://open.spotify.com/album/3gKcAQz2gN27aJvrcoXMnr) | 2:44 | 2026-04-09 |  |
 | [Tell Him](https://open.spotify.com/track/3IDvztQHQYJN8M3W8OJ7ov) | [LOV](https://open.spotify.com/artist/36HaK4wNnlYPVsZzGtvbw1) | [Tell Him](https://open.spotify.com/album/57299pcoAOaZU5EgUaZylN) | 3:23 | 2026-03-27 |  |
+| [tell me](https://open.spotify.com/track/7FlVXlEm6LlrS7zrqTtqop) | [Dsyfr](https://open.spotify.com/artist/7ygTQb4cKrL9q64vHvGMMW) | [circa](https://open.spotify.com/album/6pZMmDmc2wRNFeBVBWHrTi) | 3:04 | 2026-04-18 |  |
 | [Tell Me](https://open.spotify.com/track/4RPawykzCoBTIErppIOR25) | [Exta](https://open.spotify.com/artist/4tBdj6QpmWL84PRMmsPyLr) | [Tell Me](https://open.spotify.com/album/1zlss8nywCRYqYzlG6aFsf) | 2:50 | 2025-05-19 | 2025-06-01 |
 | [Tell Me Everything](https://open.spotify.com/track/08yk0Ru7MajIvDNctERJGh) | [Jen Island](https://open.spotify.com/artist/08WAACfymiH4j2TBhLZtOV) | [Tell Me Everything](https://open.spotify.com/album/6RXftW0t8XuNWpuYP0buYV) | 3:14 | 2023-07-11 | 2023-07-21 |
 | [TELL ME THE TRUTH](https://open.spotify.com/track/5fyTcx9WHr0QgpghnrQ1nQ) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [WIP](https://open.spotify.com/album/0hKz3eJCUgQKXDf8AOBGSv) | 3:01 | 2024-10-18 | 2024-10-30 |

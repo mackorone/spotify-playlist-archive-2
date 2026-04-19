@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAACRLOArjtcH/CGyRMeaTzCj",
+  "snapshot_id": "aeF4AAAAAABHVdYisQgGWCk05vwP/xaO",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spectre",
-        "url": "https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT"
+        "name": "Plot Zero",
+        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 447493,
-      "name": "Blood Thirst",
-      "url": "https://open.spotify.com/track/6j5m9nfZE0s6Xr2rYZF1vW"
+      "duration_ms": 369173,
+      "name": "Organized Confusion",
+      "url": "https://open.spotify.com/track/7bHng3qQsksxacq4WPql2j"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plot Zero",
-        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
+        "name": "Spectre",
+        "url": "https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 369173,
-      "name": "Organized Confusion",
-      "url": "https://open.spotify.com/track/7bHng3qQsksxacq4WPql2j"
+      "duration_ms": 447493,
+      "name": "Blood Thirst",
+      "url": "https://open.spotify.com/track/6j5m9nfZE0s6Xr2rYZF1vW"
     },
     {
       "added_at": null,

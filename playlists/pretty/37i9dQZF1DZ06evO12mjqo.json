@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 477666,
+  "num_followers": 477697,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAACfdFw01wsEsTWdkfUGZqDH",
+  "snapshot_id": "aeF4AAAAAABWT1l1Sv6Bp2jiF0m+2Tej",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infestissumam",
-        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 353320,
-      "name": "Monstrance Clock",
-      "url": "https://open.spotify.com/track/70dOLeFZQqrmIHdcJcazoT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meliora",
         "url": "https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 253173,
       "name": "He Is",
       "url": "https://open.spotify.com/track/6NFKy0jg3S6x380iuF47jX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infestissumam",
+        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 353320,
+      "name": "Monstrance Clock",
+      "url": "https://open.spotify.com/track/70dOLeFZQqrmIHdcJcazoT"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phantomime",
-        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Hanging Around",
-      "url": "https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meliora",
         "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 324373,
       "name": "Majesty",
       "url": "https://open.spotify.com/track/30ZhfyAmOmF6GN2i5fpVen"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phantomime",
+        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Hanging Around",
+      "url": "https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb"
     },
     {
       "added_at": null,

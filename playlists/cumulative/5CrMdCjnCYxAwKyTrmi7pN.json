@@ -6091,6 +6091,32 @@
     },
     {
       "album": {
+        "name": "Samen Is Leuker Dan Alleen",
+        "url": "https://open.spotify.com/album/48Y7pJ00km4Md3neQJM9Tf"
+      },
+      "artists": [
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        },
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163653,
+      "name": "Weer Een Dagje Ouder",
+      "url": "https://open.spotify.com/track/7zAYKczeN7LibBSPX48qrW"
+    },
+    {
+      "album": {
         "name": "What a Woman",
         "url": "https://open.spotify.com/album/3zJWDcRieFRKO76KegbEfu"
       },

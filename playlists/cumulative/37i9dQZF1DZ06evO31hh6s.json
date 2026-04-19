@@ -306,7 +306,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 212805,
       "name": "Apparently",
       "url": "https://open.spotify.com/track/386DhHFXyxwwWG0AUZoiGS"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 182131,
       "name": "Fire In My Soul",
       "url": "https://open.spotify.com/track/6g8tMYVLdRG08vbDpNfxeP"
@@ -3176,7 +3176,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 64128,
       "name": "Rap God",
       "url": "https://open.spotify.com/track/6bDCSfBOCbHgJq3Tv7RQjW"
@@ -3794,7 +3794,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 182130,
       "name": "THE FACE",
       "url": "https://open.spotify.com/track/6GVgOJeqTemuXcHvvOHxI3"
@@ -3816,7 +3816,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 198400,
       "name": "The Fight",
       "url": "https://open.spotify.com/track/3E1EgF2oFqpTJT6T2ybRGt"
@@ -4294,6 +4294,32 @@
       "duration_ms": 243706,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/2AyX7tJhWY71uTMkqFOpiv"
+    },
+    {
+      "album": {
+        "name": "The Hope Dealer, Pt. 2",
+        "url": "https://open.spotify.com/album/4yIvkZBtUA2nwQKu1sSbFP"
+      },
+      "artists": [
+        {
+          "name": "E.D.I. Mean",
+          "url": "https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Czar 4500",
+          "url": "https://open.spotify.com/artist/2tPLOxqZiTd3Q62QD1cNgE"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243630,
+      "name": "Welcome 2My World (feat. Young Noble & Czar 4500)",
+      "url": "https://open.spotify.com/track/49ZCHJriUxWWDwNkRrZQ8g"
     },
     {
       "album": {

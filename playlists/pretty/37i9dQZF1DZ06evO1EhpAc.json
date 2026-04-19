@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9642,
+  "num_followers": 9643,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAADse1e7PRCLHUDunOUK4PtH",
+  "snapshot_id": "aeF4AAAAAAAaF/g0VIj1HDchiJlci9Ew",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Your Fantasy (Remix)",
-        "url": "https://open.spotify.com/album/50Y11BDvO8tZf453abGL8Q"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 202605,
-      "name": "In Your Fantasy (Yaeji Ver.)",
-      "url": "https://open.spotify.com/track/4NZV1sYGV59U4wy5YdHYsE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mine or Yours (Yaeji Remix)",
         "url": "https://open.spotify.com/album/0lMxf0CKJDFeN1U6cTnawv"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 255582,
       "name": "Mine or Yours (Yaeji Remix)",
       "url": "https://open.spotify.com/track/3FV0YFGD7tTqhMbwm3oTgM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Your Fantasy (Remix)",
+        "url": "https://open.spotify.com/album/50Y11BDvO8tZf453abGL8Q"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 202605,
+      "name": "In Your Fantasy (Yaeji Ver.)",
+      "url": "https://open.spotify.com/track/4NZV1sYGV59U4wy5YdHYsE"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 155116,
-      "name": "Feelings Change",
-      "url": "https://open.spotify.com/track/5rk9fiBXv9FyEi3LcThutB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What a Joy",
         "url": "https://open.spotify.com/album/66awLlAFni3514drN79wdh"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 208173,
       "name": "Swim Me",
       "url": "https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 155116,
+      "name": "Feelings Change",
+      "url": "https://open.spotify.com/track/5rk9fiBXv9FyEi3LcThutB"
     },
     {
       "added_at": null,

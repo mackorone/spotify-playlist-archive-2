@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-174 songs - 8 hr 38 min
+175 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [99 ½ Won't Do \(Gospel Train\) \- 2025 Digitally Remastered](https://open.spotify.com/track/6CV6KDG0uVgcYxN5lheerS) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Four Classic Albums \(Gospel Train / The Gospel Truth \(1959\) / Sister Rosetta Tharpe / The Gospel Truth \- All New! Her Greatest Gospel Hits \(1962\)\)](https://open.spotify.com/album/0DoAIX7HSofgOw1puyDZBY) | 1:59 | 2025-06-08 | 2026-01-17 |
 | [All Alone](https://open.spotify.com/track/0rsTuDQFai2jbs5D2yAxo6) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train](https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px) | 2:37 | 2024-01-11 |  |
 | [All Alone](https://open.spotify.com/track/2FAyOevYFLDtGudjSiWUlw) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:40 | 2022-05-25 | 2024-01-12 |
-| [All Over This World](https://open.spotify.com/track/41en8GGsFVRqSrqSGNJPqJ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Just a Closer Walk With Thee](https://open.spotify.com/album/2CuZe0vzmqXgu5hqbDWFgu) | 2:38 | 2025-05-29 |  |
+| [All Over This World](https://open.spotify.com/track/41en8GGsFVRqSrqSGNJPqJ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Just a Closer Walk With Thee](https://open.spotify.com/album/2CuZe0vzmqXgu5hqbDWFgu) | 2:38 | 2025-05-29 | 2026-04-19 |
 | [All Over This World](https://open.spotify.com/track/5dfQvhkoG0ulO4gKAzHLyA) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Trouble in Mind](https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG) | 2:45 | 2022-05-25 | 2024-04-06 |
 | [All over This World](https://open.spotify.com/track/0NgdzrGJt8YA0KfD9F3eh3) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Presenting Sister Rosetta Tharpe](https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm) | 2:45 | 2024-04-21 | 2024-04-22 |
 | [Amazing Grace](https://open.spotify.com/track/7Jpy6hJWPhnav0qk0fGv8Y) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Vacation in the Sky](https://open.spotify.com/album/7HorAWUeYVKqIImFJ8zGRO) | 3:23 | 2022-05-25 | 2023-01-07 |
@@ -118,6 +118,7 @@
 | [Rock Daniel \(VD129\)](https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Rosetta Tharpe Vol\. 2 1942\-1944](https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f) | 2:40 | 2022-05-26 | 2026-03-30 |
 | [Rock Me](https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Lucky Millinder & His Orchestra](https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:40 | 2022-05-26 |  |
 | [Rock of Ages](https://open.spotify.com/track/2B5WhsYvmpk2ioGZA5I1L6) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Never Alone](https://open.spotify.com/album/4PwLdioxIXipvEaYqIy5kD) | 3:11 | 2022-05-25 | 2024-01-18 |
+| [Rock! Daniel](https://open.spotify.com/track/07SROfDH2lUPmTntpJzsIc) | [Lucky Millinder](https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23), [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Uptown Rumble](https://open.spotify.com/album/1d6xGAJSks11AGmvUI3CAr) | 3:00 | 2026-04-19 |  |
 | [Savior Don't Pass Me By](https://open.spotify.com/track/5b1rhm53dU2JXv18Dle40F) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Best Of Sister Rosetta Tharpe](https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x) | 4:05 | 2025-07-02 |  |
 | [Savior Don't Pass Me By](https://open.spotify.com/track/1d3J6GuvuIH14U5L8efaaN) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 4:08 | 2022-05-25 | 2025-10-14 |
 | [Saviour Don't Pass Me By](https://open.spotify.com/track/7I9xtC86aRfW7jRpJIIt6F) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [GODMOTHER OF ROCK N'ROLL](https://open.spotify.com/album/4v91jzTMDvs6pzBgLRlpRU) | 2:46 | 2025-03-05 | 2025-10-26 |

@@ -4,7 +4,7 @@
 
 > This is Kinderen voor Kinderen\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 10 min
+67 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Gruwelijk Eng](https://open.spotify.com/track/4Ip84YLNwIYVWU3u1tVqpt) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [38 \- Gruwelijk eng](https://open.spotify.com/album/2PxkC5dg2AQGYSrC6shWXO) | 3:00 | 2025-08-19 |  |
 | [Haai Alarm!](https://open.spotify.com/track/5BR0NuF8t22IXEb62zfw6g) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [38 \- Gruwelijk eng](https://open.spotify.com/album/2PxkC5dg2AQGYSrC6shWXO) | 3:03 | 2025-08-19 |  |
 | [Hallo Wereld](https://open.spotify.com/track/4nps5DJ3jFBnmmHHsh6tuo) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Hallo wereld](https://open.spotify.com/album/7fhvfh8IuUYXK3SpmNZBZX) | 2:38 | 2025-08-19 |  |
-| [Hand in hand](https://open.spotify.com/track/2bJJS2AusQLIeoSSAcIUyd) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Hand in hand](https://open.spotify.com/album/5pyavwHS0xk7LYdblI5RKr) | 3:03 | 2025-08-19 |  |
+| [Hand in hand](https://open.spotify.com/track/2bJJS2AusQLIeoSSAcIUyd) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Hand in hand](https://open.spotify.com/album/5pyavwHS0xk7LYdblI5RKr) | 3:03 | 2025-08-19 | 2026-04-19 |
+| [Hand in hand](https://open.spotify.com/track/7plkIS3Kj5nn5lmH3YF90f) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [41 \- En toen?](https://open.spotify.com/album/70eAbvTqUjOBCQqEN6rlUJ) | 3:03 | 2026-04-19 |  |
 | [Hardop dromen](https://open.spotify.com/track/2iBGVympAN7k2eOfX5yXQd) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 2:54 | 2025-08-19 |  |
 | [Heimwee](https://open.spotify.com/track/5SyL7KtC1nzkFQ8Xd800Ja) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:45 | 2025-10-14 | 2025-11-09 |
 | [Help de walvis](https://open.spotify.com/track/72LGcDHqjYxoYhVF41jyYV) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Help de walvis](https://open.spotify.com/album/4ACxkMGFKFJLeWaJRuzi3l) | 2:44 | 2025-08-19 |  |

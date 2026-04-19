@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: Still That Combo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,171 likes - 79 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,239 likes - 79 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 78 | [Inkundla](https://open.spotify.com/track/2X3hgN0znsf5XE5qRstS4f) | [Emzotiq](https://open.spotify.com/artist/4UZdteqn7tPdnYw4YshcSt), [TheGqomBoss](https://open.spotify.com/artist/292Cl4hITfjeJUtUDVokdh) | [The Sanctum](https://open.spotify.com/album/1tZ23pVBKLj3k1mEjp8oIQ) | 5:32 |
 | 79 | [Umgido](https://open.spotify.com/track/4QXQDH5NxmXOIVlSXS3I4b) | [Pro\-Tee](https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc) | [Umgido](https://open.spotify.com/album/58TazIihHF2fB9kiDcXjGu) | 4:06 |
 
-Snapshot ID: `AAAAANOves1BdEQiVt++D+AlJLB3540T`
+Snapshot ID: `AAAAAHk73yORQR/xqgCaMZlfiY5f2eVW`

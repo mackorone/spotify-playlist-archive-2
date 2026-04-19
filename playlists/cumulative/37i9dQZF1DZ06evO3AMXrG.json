@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/256bVkeTRjNNDaZL1hOtUV"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250347,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/46kTKtI83CZZfGadbVe9Cu"
+    },
+    {
+      "album": {
         "name": "Diario",
         "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
       },
@@ -722,7 +740,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 133933,
       "name": "La Otra Galaxia",
       "url": "https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV"

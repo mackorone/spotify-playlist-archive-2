@@ -1,12 +1,12 @@
 {
   "description": "the best &amp; new indie rock. all the belowed tracks &amp; artists",
-  "num_followers": 1986,
+  "num_followers": 1984,
   "original_name": "ALTERNATIVE ROCK - THE MIX",
   "owner": {
     "name": "Salon Blanc",
     "url": "https://open.spotify.com/user/1125193345"
   },
-  "snapshot_id": "AAAJkrprhWBUdLTGmrRv11dneKujOrEh",
+  "snapshot_id": "AAAJk8sAxShe3EuTvoZWI9KyW5NpYGCe",
   "tracks": [
     {
       "added_at": "2025-12-05 06:07:41",
@@ -39,6 +39,26 @@
       "duration_ms": 201330,
       "name": "Supermexican",
       "url": "https://open.spotify.com/track/6eTTdPN2G1BwLzZV68iAdc"
+    },
+    {
+      "added_at": "2026-04-18 06:02:45",
+      "album": {
+        "name": "Mu\u00dfe (Remix)",
+        "url": "https://open.spotify.com/album/7CzRevk2VYJXyI58QcNC4S"
+      },
+      "artists": [
+        {
+          "name": "Volker Milch",
+          "url": "https://open.spotify.com/artist/1nBKgPmq8A7AokX7tQgZlz"
+        },
+        {
+          "name": "Der Energieberater",
+          "url": "https://open.spotify.com/artist/2xPBfLmtRcJNviZSzzhbTX"
+        }
+      ],
+      "duration_ms": 218481,
+      "name": "Mu\u00dfe - Remix",
+      "url": "https://open.spotify.com/track/0Z9MrRQbNrUo6bMrnFRHfj"
     },
     {
       "added_at": "2025-12-05 06:10:20",

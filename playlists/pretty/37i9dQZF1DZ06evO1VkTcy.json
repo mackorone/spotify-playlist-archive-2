@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22387,
+  "num_followers": 22389,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAABZyttYrdlohlsv8p2MhYCc",
+  "snapshot_id": "aeF4AAAAAABFBy8w7mSYWCYqdzvWnE1T",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Podium",
+        "url": "https://open.spotify.com/album/3ZjfPRA96ShioErlUG5DtX"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Sorrisos",
+      "url": "https://open.spotify.com/track/6kE4CqTOaietSMrn1FIbVw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia de Boteco",
         "url": "https://open.spotify.com/album/5JyVfUGi4mSUZZ9DHdnbJc"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 312207,
       "name": "Poesia de Boteco",
       "url": "https://open.spotify.com/track/4uExiXNq9cL45Y1cLmNtAO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Podium",
-        "url": "https://open.spotify.com/album/3ZjfPRA96ShioErlUG5DtX"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Sorrisos",
-      "url": "https://open.spotify.com/track/6kE4CqTOaietSMrn1FIbVw"
     },
     {
       "added_at": null,
@@ -1239,38 +1239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Posturadin",
-        "url": "https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo"
-      },
-      "artists": [
-        {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Tibery",
-          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
-        },
-        {
-          "name": "Artioli",
-          "url": "https://open.spotify.com/artist/5F0vXJ4To4MUhFRSz5rIs6"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 226521,
-      "name": "Posturadin",
-      "url": "https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Vai Mudar",
         "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
@@ -1311,6 +1279,38 @@
       "duration_ms": 156000,
       "name": "Fake",
       "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Posturadin",
+        "url": "https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo"
+      },
+      "artists": [
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Tibery",
+          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
+        },
+        {
+          "name": "Artioli",
+          "url": "https://open.spotify.com/artist/5F0vXJ4To4MUhFRSz5rIs6"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 226521,
+      "name": "Posturadin",
+      "url": "https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI"
     },
     {
       "added_at": null,
@@ -1363,6 +1363,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/6GdVpik1L7o0yYJNd1Yio2"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+        }
+      ],
+      "duration_ms": 190003,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/37Ch6tuxzDCV7ginZEYd1c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas No Topo 2",
         "url": "https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu"
       },
@@ -1403,30 +1427,6 @@
       "duration_ms": 556662,
       "name": "Poetisas No Topo 2",
       "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bonjour",
-        "url": "https://open.spotify.com/album/6GdVpik1L7o0yYJNd1Yio2"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
-        }
-      ],
-      "duration_ms": 190003,
-      "name": "Bonjour",
-      "url": "https://open.spotify.com/track/37Ch6tuxzDCV7ginZEYd1c"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > killer rock & alternative covers\. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs
 
-389 songs - 1 day 1 hr 8 min
+390 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [House of the rising sun](https://open.spotify.com/track/4rfYDrmdzFb9Saf4lCxQTP) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [The end of the world](https://open.spotify.com/album/1QsqQMps2AenCaWyddg3TX) | 4:50 | 2020-12-16 | 2022-07-27 |
 | [How To Save A Life](https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [How To Save A Life](https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW) | 3:38 | 2024-02-02 |  |
 | [Hunger Strike \(feat\. Lajon Witherspoon\)](https://open.spotify.com/track/2QwqH7IMloNiB3F4L4fj5D) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot), [Lajon Witherspoon](https://open.spotify.com/artist/0vWxIYduLUVIrf0jCB8bOb) | [Hunger Strike \(feat\. Lajon Witherspoon\)](https://open.spotify.com/album/35lNonLplYB6UFw8nLheRk) | 4:03 | 2021-06-01 | 2022-07-29 |
-| [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 | 2020-12-16 |  |
+| [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 | 2020-12-16 | 2026-04-19 |
 | [Hurt](https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Unearthed](https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e) | 3:36 | 2020-12-16 |  |
 | [I Am The Walrus \- Live](https://open.spotify.com/track/7Mq2PA75YUS6T2ErxgytKT) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/4vVeWyiMSe9EDifvSr6wjQ) | 6:24 | 2020-12-16 | 2022-07-29 |
 | [I Am The Walrus – Live Glasgow Cathouse June '94 \- Remastered](https://open.spotify.com/track/71vIYl6DeQH8cXggFt38wN) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan \(Remastered Edition\)](https://open.spotify.com/album/3TOqth4BResSHzsrnREbbh) | 6:25 | 2023-11-17 | 2024-04-19 |
@@ -185,6 +185,7 @@
 | [Immigrant Song](https://open.spotify.com/track/40zf3WgjcwVxPdWzSaE9OS) | [Small Town Titans](https://open.spotify.com/artist/3aVd0CcXBa0rOlxMpUS6on) | [Immigrant Song](https://open.spotify.com/album/6P3VswZv5OBxMPfc6Ov5WY) | 2:28 | 2020-12-16 | 2022-07-29 |
 | [Immigrant Song](https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh), [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Trent Reznor](https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma), [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM) | [The Girl With the Dragon Tattoo](https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7) | 2:47 | 2020-12-16 |  |
 | [Iris](https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW), [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Iris](https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7) | 3:44 | 2020-12-16 |  |
+| [Ironic \('Mile End Kicks' \- Music Inspired by the Motion Picture\)](https://open.spotify.com/track/4rDuaj3XJe0SXSWFwQbWM6) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Sumerian Pictures](https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW) | [Ironic \('Mile End Kicks' \- Music Inspired by the Motion Picture\)](https://open.spotify.com/album/2PLE7dgeeUvzBPm4dUQNiP) | 3:47 | 2026-04-18 |  |
 | [Isolation](https://open.spotify.com/track/2yoZimUShwEoCsXEfmRGNV) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl), [Johnny Depp](https://open.spotify.com/artist/3OsHwkxpSIEqqmYoQxZTT5) | [Isolation](https://open.spotify.com/album/22wsBdTOtViVeS3jJ67uHE) | 5:14 | 2020-12-16 | 2023-02-21 |
 | [It's A Sin](https://open.spotify.com/track/5e97Z51SUopBbANmwBBkSq) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [It's A Sin](https://open.spotify.com/album/69jnd8KXGiAkG8FDkox8nE) | 4:40 | 2026-01-16 |  |
 | [It's No Good](https://open.spotify.com/track/0GNdzYqpy7sHQcdCuHjJZX) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Down, Wicked & No Good](https://open.spotify.com/album/0JsXyjXeZp0uELbFKVgvor) | 4:55 | 2020-12-16 | 2022-07-29 |

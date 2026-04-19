@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > heartbreak feels good in a place like sad hour, with Mulaa Joans
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,394,575 likes - 150 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,394,612 likes - 150 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 149 | [The Summer I Turned Pretty](https://open.spotify.com/track/105SJWvzj7LVZt0AuQD2tf) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [The Summer I Turned Pretty](https://open.spotify.com/album/6tL6m2hNIeWTf4JD3PyTnC) | 3:13 |
 | 150 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 |
 
-Snapshot ID: `AAAAAJyAYC62xne4lEMZOpEbWD3lJ4zT`
+Snapshot ID: `AAAAAKWJE2x0qMA7SEeWO7fvgHkM75qa`

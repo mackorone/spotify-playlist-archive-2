@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1uYXu9L0vzo1lcJk7SjgCT">Brittany "Chi" Coney</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-117 songs - 6 hr 38 min
+118 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Boots On The Ground Remix](https://open.spotify.com/track/0TN29ikYiEcQrX2gtrRGnI) | [803Fresh](https://open.spotify.com/artist/32ftls4i17bxMoq6eEt6kp), [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Boots On The Ground Remix](https://open.spotify.com/album/2ElCL4nxiyPqqo4ODv1z1q) | 3:27 | 2026-01-17 |  |
 | [Break Up](https://open.spotify.com/track/6kwBcC7U9RwISZWEnkaP7R) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 3:34 | 2025-08-02 |  |
 | [Call Me Queen](https://open.spotify.com/track/36t0yXv8WYdtuksM3IPBom) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Call Me Queen \(Frank Pole Remix\)](https://open.spotify.com/album/0xhky4wKaoKH4mrTbIVmux) | 2:47 | 2025-08-02 |  |
-| [Can't Relate](https://open.spotify.com/track/16fDi1h68eNxp9al1m5B39) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Can't Relate](https://open.spotify.com/album/6OgNHBteVXB95zUAXPPTK8) | 2:41 | 2025-08-25 |  |
+| [Can't Relate](https://open.spotify.com/track/16fDi1h68eNxp9al1m5B39) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Can't Relate](https://open.spotify.com/album/6OgNHBteVXB95zUAXPPTK8) | 2:41 | 2025-08-25 | 2026-04-19 |
+| [Can't Relate](https://open.spotify.com/track/2nSdR0dx4aVC1tQKSHbZFH) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Can't Relate](https://open.spotify.com/album/3n1BIU9Pd7chTwLODhyA4k) | 2:41 | 2026-04-18 |  |
 | [Champion \(feat\. Tia Ray\) \- The Official 2019 FIBA Basketball World Cup™ Song](https://open.spotify.com/track/2HQ1u66IjSnMRLuCnpNEhQ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [Champion \(feat\. Tia Ray\) \[The Official 2019 FIBA Basketball World Cup™ Song\]](https://open.spotify.com/album/0tJXzmUqNkN6eUSRBXfp7z) | 2:54 | 2025-08-02 |  |
 | [Chemistry](https://open.spotify.com/track/2wIxANHzWpJuGp7JbCW1Kk) | [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK) | [The High Note \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XdtJ70FW02NVQzCCDYeoB) | 3:01 | 2025-08-02 |  |
 | [Closer To Me](https://open.spotify.com/track/0DdcFe5GpJ5CQpNJ5xskBi) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 4:06 | 2025-08-02 |  |

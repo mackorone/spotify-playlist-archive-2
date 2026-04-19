@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Carter Faith & Kygo
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,696 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,950 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [That's When You Know](https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [That's When You Know](https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ) | 3:13 |
 | 2 | [SHADES OF BLUE](https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [CTRL ESCAPE](https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e) | 3:23 |
 | 3 | [Where We Go](https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Go](https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE) | 3:16 |
-| 4 | [Fire](https://open.spotify.com/track/4rDwRReunkleF9aisMmguC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Fire](https://open.spotify.com/album/5n0RsqJukHxaXLDlPFy0K8) | 3:17 |
+| 4 | [Fire](https://open.spotify.com/track/4rDwRReunkleF9aisMmguC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Fire](https://open.spotify.com/album/5n0RsqJukHxaXLDlPFy0K8) | 3:16 |
 | 5 | [Devotion \(Sweetest Emotion\)](https://open.spotify.com/track/6ffejqaHW8eatoka1sntka) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Devotion \(Sweetest Emotion\)](https://open.spotify.com/album/5lr9NRdfJmcITfu7NCObUC) | 2:37 |
 | 6 | [Yesterday](https://open.spotify.com/track/51U5l8NFscDrt343MeiIoN) | [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF), [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Yesterday](https://open.spotify.com/album/0ZURnSfVTSgD0ziVwewsVY) | 2:29 |
 | 7 | [For The Ride](https://open.spotify.com/track/08TEZ09Lx6OQ9CdNPyrqDe) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [For The Ride](https://open.spotify.com/album/0o33foBN5CeemctS6EWhMV) | 2:43 |

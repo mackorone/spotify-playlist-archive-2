@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 ### [Hit Rap Italiane](https://open.spotify.com/playlist/37i9dQZF1DWSxF6XNtQ9Rg)
 
-> Solo hit rap da ascoltare in loop\. Cover: Lazza
+> Solo hit rap da ascoltare in loop\. Cover: Salmo
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,427 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,471 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

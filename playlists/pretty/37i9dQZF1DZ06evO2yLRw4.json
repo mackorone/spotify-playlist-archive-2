@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37707,
+  "num_followers": 37704,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAABp5LMJA4iF1HtrLlE7d1rS",
+  "snapshot_id": "aeF4AAAAAADBFnLvoACaXt6bnb+fOaE/",
   "tracks": [
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Candy Pop",
+        "url": "https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 162748,
+      "name": "Candy Pop",
+      "url": "https://open.spotify.com/track/4fSc3OE9ouDmVdcZiNNbzD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Groove Continental: Side A",
         "url": "https://open.spotify.com/album/4f4Mgrjdn7P6SoSLV6SWHI"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 174320,
       "name": "Disco Body Parts (feat. AWOLNATION)",
       "url": "https://open.spotify.com/track/4W0PnZs6I5KLx3lbPUwnI2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Candy Pop",
-        "url": "https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 162748,
-      "name": "Candy Pop",
-      "url": "https://open.spotify.com/track/4fSc3OE9ouDmVdcZiNNbzD"
     },
     {
       "added_at": null,

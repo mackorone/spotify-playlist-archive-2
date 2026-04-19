@@ -4,7 +4,7 @@
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 47 min
+69 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Make Me Rainbows](https://open.spotify.com/track/5Mh5M6Q72P7mLjFIu5hnm1) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Make Me Rainbows](https://open.spotify.com/album/76J4OCj6na4NliLGRK1X2E) | 3:21 | 2025-11-01 | 2025-11-29 |
 | [Moon Love](https://open.spotify.com/track/3Tl1ZkXpawreFbQLeLSPXT) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [The Trumpet Artistry Of Chet Baker](https://open.spotify.com/album/7HFvgWxtZA8orDNNTO6WHM) | 3:15 | 2025-07-20 |  |
 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 | 2025-07-20 |  |
+| [Night Bird \- Live](https://open.spotify.com/track/2iBDr33n1AlIlsP6IsixiP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Nicola Stilo](https://open.spotify.com/artist/5PYMmlAXVzahUVl2a0Ah7T), [Michel Graillier](https://open.spotify.com/artist/77jN62YC5c95ogzKlDdcqm), [Rocky Knauer](https://open.spotify.com/artist/0hLWbGlyGnWgTL8SsXvXkj) | [Night Bird \(Live\)](https://open.spotify.com/album/0XIixPRJecpUcD4QeLmYij) | 10:57 | 2026-04-19 |  |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 7:53 | 2025-07-20 |  |
 | [Quiet Nights](https://open.spotify.com/track/50pCfgfoF77Wm3ruIsiCp5) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Hubert Laws](https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv) | [Swimming by Moonlight \(New Music from the Documentary "Let's Get Lost"\)](https://open.spotify.com/album/6tAyJVt1Xrm2xDKsU8wB5B) | 6:17 | 2025-11-09 | 2025-12-07 |
 | [Relaxin'](https://open.spotify.com/track/1qCtySsflBDTCu2aWMKtu3) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Relaxin'](https://open.spotify.com/album/2PILER8j7OhOrZDqATD5Pi) | 4:14 | 2025-09-28 | 2025-11-12 |
@@ -63,6 +64,7 @@
 | [The Touch Of Your Lips](https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 2:42 | 2025-07-20 |  |
 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 4:41 | 2025-07-20 | 2025-12-02 |
 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/3pXjJpOV4gPLcxTUEItg1B) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Quartet Vol\. 2 \(Chet Baker in Paris Vol\. 2\)](https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu) | 4:44 | 2025-12-02 |  |
+| [Thinkin' Blues \- Trumpet](https://open.spotify.com/track/2kuWB251MOhSZPKOxPcMo3) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Thinkin' Blues \(Trumpet\)](https://open.spotify.com/album/2NxP4qqXqe5Xj1ONwWUk7S) | 3:39 | 2026-04-19 |  |
 | [Time After Time \- Vocal Version](https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:46 | 2025-07-20 |  |
 | [Time On My Hands \- Mono](https://open.spotify.com/track/7gCRsieaL44rHWyZz7Q5Nj) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 4:34 | 2025-07-20 |  |
 | [Trav'lin Light](https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 3:44 | 2025-07-20 |  |

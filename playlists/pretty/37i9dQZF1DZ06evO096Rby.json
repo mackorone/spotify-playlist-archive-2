@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 57030,
+  "num_followers": 57099,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAABAoa8Wme1Bv4OCHOAh0B7V",
+  "snapshot_id": "aeF4AAAAAACGvo3yAhOjpVtkIlhMyNpP",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El De Las Mieles",
+        "url": "https://open.spotify.com/album/6RiQR16JyRg0cCSLhDklP0"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 205141,
+      "name": "El De Las Mieles",
+      "url": "https://open.spotify.com/track/23YQI4C7gVxBxlbtn62Lvv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ciudad Peligrosa",
         "url": "https://open.spotify.com/album/1F5GpSmnkJrhzBYSjCCbPW"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 226000,
       "name": "Ciudad Peligrosa",
       "url": "https://open.spotify.com/track/6sI3A0IW1QN6gyrMtEaoQu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El De Las Mieles",
-        "url": "https://open.spotify.com/album/6RiQR16JyRg0cCSLhDklP0"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 205141,
-      "name": "El De Las Mieles",
-      "url": "https://open.spotify.com/track/23YQI4C7gVxBxlbtn62Lvv"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 153431,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Es Por Ti",
         "url": "https://open.spotify.com/album/4oGlytrjITiA75RXzWJt3f"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 155365,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/1wAa4SwcmuffVDXwL6PpPY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 153431,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP"
     },
     {
       "added_at": null,
@@ -691,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un D\u00eda Como Hoy",
-        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
       },
       "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 171175,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
+      "duration_ms": 202509,
+      "name": "Alto y Piel Morena",
+      "url": "https://open.spotify.com/track/0utj0xCPvTGptQ60MrqNeh"
     },
     {
       "added_at": null,
@@ -727,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 202509,
-      "name": "Alto y Piel Morena",
-      "url": "https://open.spotify.com/track/0utj0xCPvTGptQ60MrqNeh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Kitty",
         "url": "https://open.spotify.com/album/4IgUHDhSpdER99gXoDoZAq"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 158409,
       "name": "Hello Kitty",
       "url": "https://open.spotify.com/track/6KNBxr08Ef4ajVzd7GOfzX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un D\u00eda Como Hoy",
+        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 171175,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Fruta Prohibida - En Vivo",
+      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dicen y Dicen",
         "url": "https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 173135,
       "name": "Dicen y Dicen",
       "url": "https://open.spotify.com/track/6mzQvzXGWVoNjWhdhup27l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Fruta Prohibida - En Vivo",
-      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
     },
     {
       "added_at": null,
@@ -915,18 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Banderas",
-        "url": "https://open.spotify.com/album/5S1KTpUqsbol9Jv4BWh1dF"
+        "name": "Calmados y No Dejados",
+        "url": "https://open.spotify.com/album/3Yo3eHcPwmb9727m6Fd12d"
       },
       "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 158405,
-      "name": "Dos Banderas",
-      "url": "https://open.spotify.com/track/7rQsXHsDTqqHtXS8qj8AQd"
+      "duration_ms": 193473,
+      "name": "La Hija Del Se\u00f1or",
+      "url": "https://open.spotify.com/track/2DMb5Q3RcI8fR12AKbtMPH"
     }
   ],
   "unique_name": "This Is Edgardo Nu\u00f1ez",

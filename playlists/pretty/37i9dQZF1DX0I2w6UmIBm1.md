@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Doyina
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,808 likes - 68 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,871 likes - 68 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 67 | [Den of Thieves](https://open.spotify.com/track/60wo8E1JY2t33TVmm4xf7Q) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Dylan Stiles](https://open.spotify.com/artist/4qpXsbG051Mn4vXWHBcXij) | [Den of Thieves](https://open.spotify.com/album/5blEPQ4nWKz7h9rG53d3Sg) | 3:05 |
 | 68 | [Set Me Free](https://open.spotify.com/track/5uYR8Fm4aTxx3zmTy7XJnf) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Set Me Free](https://open.spotify.com/album/74yVQv7tnnKINqKgYtwRdP) | 3:31 |
 
-Snapshot ID: `AAAAAOJs3F2QOFv9e+YCzbmc9khlBlgW`
+Snapshot ID: `AAAAAGgFUlcWs3HsmWtJEDPuQdYN+4kn`

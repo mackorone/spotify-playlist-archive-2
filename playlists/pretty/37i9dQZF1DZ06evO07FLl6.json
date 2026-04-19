@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 247274,
+  "num_followers": 247298,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAAB5f5SzfIOLuin40f/9EGi4",
+  "snapshot_id": "aeF4AAAAAAB5ks8M77GhrmikqMHoGEA/",
   "tracks": [
     {
       "added_at": null,
@@ -347,18 +347,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
         }
       ],
-      "duration_ms": 230690,
-      "name": "Chez le photographe du motel - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq"
+      "duration_ms": 420693,
+      "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
     },
     {
       "added_at": null,
@@ -391,34 +407,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Round About Midnight",
-        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
         }
       ],
-      "duration_ms": 420693,
-      "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
+      "duration_ms": 230690,
+      "name": "Chez le photographe du motel - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq"
     },
     {
       "added_at": null,
@@ -899,38 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miles Davis And Horns",
-        "url": "https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Blue Room - Take 2",
-      "url": "https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Only One and Fantastic... Miles Davis (Remastered)",
-        "url": "https://open.spotify.com/album/2YbApvKnTuUh6izzrgG0h6"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 357947,
-      "name": "My Funny Valentine - Remastered",
-      "url": "https://open.spotify.com/track/6zbHM6vwsLgUe9t2luekJj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miles Ahead (Expanded Edition)",
         "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
       },
@@ -947,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Miles Davis And Horns",
+        "url": "https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Blue Room - Take 2",
+      "url": "https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 253933,
       "name": "I Loves You, Porgy (From \"Porgy & Bess\")",
       "url": "https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Only One and Fantastic... Miles Davis (Remastered)",
+        "url": "https://open.spotify.com/album/2YbApvKnTuUh6izzrgG0h6"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 357947,
+      "name": "My Funny Valentine - Remastered",
+      "url": "https://open.spotify.com/track/6zbHM6vwsLgUe9t2luekJj"
     },
     {
       "added_at": null,

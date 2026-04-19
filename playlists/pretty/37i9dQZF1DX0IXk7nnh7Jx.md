@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>PARTY WAVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,125 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,148 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 74 | [Lift Me Up](https://open.spotify.com/track/1JlDttyo8qFG5HYhyx0f7z) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Lift Me Up](https://open.spotify.com/album/4cXrlI3APs9uVQJQbW8jIm) | 2:39 |
 | 75 | [Come Away With Me](https://open.spotify.com/track/3EsvvYsnh71pHvMa8inqI4) | [Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [Come Away With Me](https://open.spotify.com/album/0zhjF3Y2qZfKlxPJaDH1Vy) | 2:39 |
 
-Snapshot ID: `AAAAAFXStBcKk9mydfTg5J90idLwH1s4`
+Snapshot ID: `AAAAAA9B31DsBzFv5bxu2fEStliRpVQo`

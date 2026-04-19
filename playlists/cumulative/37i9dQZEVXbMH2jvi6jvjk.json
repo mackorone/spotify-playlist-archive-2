@@ -6978,7 +6978,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 358008,
       "name": "Bengicela (feat. JAZZWRLD)",
       "url": "https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx"
@@ -7180,7 +7180,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 361178,
       "name": "Bha Bha (feat. Colkaze & Ashley Shane)",
       "url": "https://open.spotify.com/track/7KtTerLyAmNlIcnXteqF9N"
@@ -8038,7 +8038,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 206315,
       "name": "Blueberry Skies",
       "url": "https://open.spotify.com/track/3NCz117frOEZV6dSgVpop6"
@@ -14342,6 +14342,24 @@
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+    },
+    {
+      "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
     },
     {
       "album": {
@@ -24762,7 +24780,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 394285,
       "name": "Iphupho (feat. Thatohatsi)",
       "url": "https://open.spotify.com/track/6t7jwNNBTceuXuVeT71naT"
@@ -28886,7 +28904,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 270033,
       "name": "Kwenzenjani",
       "url": "https://open.spotify.com/track/4JgixSH88ICmURE3PddCTi"
@@ -32774,7 +32792,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -33040,7 +33058,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 441830,
       "name": "Mark Zuckerberg (feat. Slyzza Rsa)",
       "url": "https://open.spotify.com/track/1lrAlFWcmIyDEo3a0VvPYo"
@@ -36130,7 +36148,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 471532,
       "name": "Mzala (feat. Tango Supreme)",
       "url": "https://open.spotify.com/track/5DED4GtVG1JoOjHsSlHnqR"
@@ -36312,7 +36330,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 256313,
       "name": "Nam Angeke",
       "url": "https://open.spotify.com/track/4RLmqf3MOWLJZRwuip6Xgc"
@@ -40342,7 +40360,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 282671,
       "name": "OVERLOAD",
       "url": "https://open.spotify.com/track/2tcfi6QMmWtxkAWqLSFe5v"
@@ -45811,6 +45829,28 @@
     },
     {
       "album": {
+        "name": "Say You Love Me",
+        "url": "https://open.spotify.com/album/5QoX0wFkwY94TWPeQDuwzh"
+      },
+      "artists": [
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        },
+        {
+          "name": "Brandon Dhludhlu",
+          "url": "https://open.spotify.com/artist/6PFKzJX6qfJFth8Uf6ZUEV"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393972,
+      "name": "Say You Love Me",
+      "url": "https://open.spotify.com/track/5geOxYJNXnsdREnG0Jwif5"
+    },
+    {
+      "album": {
         "name": "Number 10",
         "url": "https://open.spotify.com/album/7grvU2KtNU99HxAZOMpanN"
       },
@@ -46866,6 +46906,28 @@
       "duration_ms": 291096,
       "name": "Shayla",
       "url": "https://open.spotify.com/track/4W3MwKBMXduOwKSF75vZTV"
+    },
+    {
+      "album": {
+        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213241,
+      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
     },
     {
       "album": {
@@ -54024,7 +54086,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 304591,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2xMaiteJGI39Z06Ex3SWT6"
@@ -57348,7 +57410,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 267493,
       "name": "Usungikhombisile",
       "url": "https://open.spotify.com/track/40Pz55sGOiG7enWMDnq36u"
@@ -60794,7 +60856,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

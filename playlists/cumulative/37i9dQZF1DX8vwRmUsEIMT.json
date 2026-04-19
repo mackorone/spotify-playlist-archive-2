@@ -30663,6 +30663,24 @@
     },
     {
       "album": {
+        "name": "I Feel So Free",
+        "url": "https://open.spotify.com/album/4gs3OgP36BMnb1jJBLQGgA"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299200,
+      "name": "I Feel So Free",
+      "url": "https://open.spotify.com/track/1H702ch0g74kcrR8pH5ReO"
+    },
+    {
+      "album": {
         "name": "I Forgive You",
         "url": "https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E"
       },

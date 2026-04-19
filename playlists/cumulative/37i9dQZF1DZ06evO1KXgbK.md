@@ -4,7 +4,7 @@
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 19 min
+96 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Applejack](https://open.spotify.com/track/44H8pO6AOXOcsp3mikoTgq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [New Harvest...First Gathering](https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H) | 3:25 | 2024-03-24 | 2024-08-31 |
 | [Baby I'm Burnin'](https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Heartbreaker](https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh) | 2:37 | 2024-03-09 |  |
 | [Bets On Us](https://open.spotify.com/track/0QniqyO4C5JdxALPM4rulH) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [One Night in Nashville](https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep) | 3:00 | 2024-03-09 | 2025-02-10 |
-| [Blue Smoke](https://open.spotify.com/track/4ktJUA1L4JUwyctMoBQo59) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Blue Smoke](https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm) | 3:33 | 2025-03-01 |  |
+| [Blue Smoke](https://open.spotify.com/track/4ktJUA1L4JUwyctMoBQo59) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Blue Smoke](https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm) | 3:33 | 2025-03-01 | 2026-04-19 |
 | [Butterfly](https://open.spotify.com/track/3XoCQ7X59RxqXg3F93DV6T) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Butterfly / Give It Away](https://open.spotify.com/album/0w3e2qg8hT0CXRxI8aFT4V) | 4:04 | 2025-09-09 | 2025-11-11 |
 | [Butterfly \(feat\. Dolly Parton\)](https://open.spotify.com/track/12O9XNeFb0Eu67faSZK3bj) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Butterfly \(feat\. Dolly Parton\)](https://open.spotify.com/album/76gBsiqpVZFxfpXkfrm1LQ) | 4:04 | 2025-11-11 | 2025-12-14 |
 | [Butterfly \(feat\. Dolly Parton\)](https://open.spotify.com/track/5sWv0jRTr6WFYMChN688xN) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Love & Fear](https://open.spotify.com/album/0icvCWLHqk2mlcpl9WWSxp) | 4:04 | 2025-12-14 | 2026-04-05 |
@@ -80,6 +80,7 @@
 | [Silver Threads and Golden Needles](https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:23 | 2024-03-09 |  |
 | [Smoky Mountain DNA](https://open.spotify.com/track/7bSeYYLEHb7zu2YQSRKqz5) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Dolly Parton & Family](https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR) | [Smoky Mountain DNA](https://open.spotify.com/album/2pYVKXNEnJBaBqZjfqFU6Z) | 1:59 | 2024-08-31 | 2024-09-24 |
 | [Somebody's Child](https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Somebody's Child](https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV) | 3:24 | 2024-05-13 | 2025-02-16 |
+| [Son of Jolene](https://open.spotify.com/track/0Yr2UODsf2rs7RHCuJqisL) | [Belles](https://open.spotify.com/artist/09v2CdpT8TVxY6nn6zLnGd), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Son of Jolene](https://open.spotify.com/album/3VSABVCF9Ltk7mzeghLqUD) | 3:09 | 2026-04-19 |  |
 | [Southern Accents](https://open.spotify.com/track/2kTr8C8xtKJd4UCF9MhxM7) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Southern Accents](https://open.spotify.com/album/21tc4DJs0FYI8Y0mF0x4Ob) | 4:27 | 2024-04-07 | 2024-07-09 |
 | [Take Me Home Country Roads](https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Destinations and Fun Places](https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl) | 4:16 | 2024-08-12 | 2024-11-20 |
 | [Tell Me That You Love Me](https://open.spotify.com/track/19Z6qdxGAmRjesTtHL3uFD) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Life Is Like A Song \(Deluxe Edition\)](https://open.spotify.com/album/7AsEZkD4zsAJYkTDZrJgZu) | 3:13 | 2024-03-09 | 2024-08-23 |

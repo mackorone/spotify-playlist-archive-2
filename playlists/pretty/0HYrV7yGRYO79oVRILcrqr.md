@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,781 likes - 151 songs - 9 hr 47 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,781 likes - 152 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,5 +159,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 149 | [Bayou Icarus](https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:28 |
 | 150 | [Abandono](https://open.spotify.com/track/6R993gafBxnGWUwymORDml) | [Condoizelles](https://open.spotify.com/artist/5zltVdFyM13oCtomjbvwme) | [Considerações sobre a paisagem](https://open.spotify.com/album/4vQzOdbdQ9ttVKoFdOCJK4) | 5:18 |
 | 151 | [Pra quê](https://open.spotify.com/track/4pP1UsBuRGrQexQ3T1hmD0) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heriós](https://open.spotify.com/album/5kVLd6P222EsnzQMNz54bP) | 3:37 |
+| 152 | [Whisky na Mesa](https://open.spotify.com/track/4OTt9dzu7ZoXA0dQdE62CM) | [Nathan Duarte](https://open.spotify.com/artist/7F0B4cSHBlNqwdmxGDKHim) | [Whisky na Mesa](https://open.spotify.com/album/5xBXS5LXB0k0bD8lgy064b) | 2:12 |
 
-Snapshot ID: `AAALF2e29Cdbom9GQ6mgrUA7cfUpB35a`
+Snapshot ID: `AAALGLhWvNDatIHO91rA4ZlqXbDpAW7z`

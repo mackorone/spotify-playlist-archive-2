@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAACzVvcSgvdXzLbO7rjsfdA2",
+  "snapshot_id": "aeF4AAAAAAArzYRz5mOZuPMRNc5cxYke",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Not Moved",
+        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 273283,
+      "name": "Not Moved",
+      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 200969,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not Moved",
-        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 273283,
-      "name": "Not Moved",
-      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Yoruba Worship Medley",
-        "url": "https://open.spotify.com/album/4UvAfaTdKi7UyMEJS4bAgN"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 620000,
-      "name": "Deep Yoruba Worship Medley",
-      "url": "https://open.spotify.com/track/5BDOhkYpiCFySsKi2FYB1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROOTED",
         "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 247719,
       "name": "Yahweh Will Manifest Himself",
       "url": "https://open.spotify.com/track/6bM1l2umRdewjcskt8HnE8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Yoruba Worship Medley",
+        "url": "https://open.spotify.com/album/4UvAfaTdKi7UyMEJS4bAgN"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 620000,
+      "name": "Deep Yoruba Worship Medley",
+      "url": "https://open.spotify.com/track/5BDOhkYpiCFySsKi2FYB1Q"
     },
     {
       "added_at": null,
@@ -259,30 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Matter",
-        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
-        }
-      ],
-      "duration_ms": 173290,
-      "name": "My Matter",
-      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROOTED",
         "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },
@@ -315,6 +291,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Matter",
+        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 173290,
+      "name": "My Matter",
+      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ALONE WITH GOD (Spontaneous Worship)",
         "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
       },
@@ -327,6 +327,22 @@
       "duration_ms": 2526933,
       "name": "ALONE WITH GOD (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ROOTED",
+        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 302438,
+      "name": "Your Presence Is Heaven",
+      "url": "https://open.spotify.com/track/4akZHox7kIpU29YeJG2L76"
     },
     {
       "added_at": null,
@@ -347,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROOTED",
-        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
       },
       "artists": [
         {
@@ -356,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 302438,
-      "name": "Your Presence Is Heaven",
-      "url": "https://open.spotify.com/track/4akZHox7kIpU29YeJG2L76"
+      "duration_ms": 195124,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
     },
     {
       "added_at": null,
@@ -383,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calm",
-        "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
+        "name": "ROOTED",
+        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },
       "artists": [
         {
@@ -392,9 +408,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 195124,
-      "name": "Calm",
-      "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
+      "duration_ms": 287316,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
     },
     {
       "added_at": null,
@@ -411,22 +427,6 @@
       "duration_ms": 198400,
       "name": "Fall in Love",
       "url": "https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ROOTED",
-        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 287316,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ROOTED",
+        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 304130,
+      "name": "I Will Worship",
+      "url": "https://open.spotify.com/track/1TUQfTS06a0sJXu89nUmqY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "According To Brother Nwachukwu",
         "url": "https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 193207,
       "name": "Onyeoma",
       "url": "https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ROOTED",
-        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 304130,
-      "name": "I Will Worship",
-      "url": "https://open.spotify.com/track/1TUQfTS06a0sJXu89nUmqY"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 2509230,
+      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Great is Your Faithfulness",
         "url": "https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 1147000,
       "name": "Great is Your Faithfulness",
       "url": "https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 2509230,
-      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Find",
-        "url": "https://open.spotify.com/album/7F8fxwQCce2toBYI1NBPxK"
+        "name": "Help Me To Remember",
+        "url": "https://open.spotify.com/album/0CW4S74Fg0iIOCOfnO503P"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 240375,
-      "name": "Never Find",
-      "url": "https://open.spotify.com/track/5tTMstPDIaJhiJfkT6hICS"
+      "duration_ms": 209360,
+      "name": "Help Me To Remember",
+      "url": "https://open.spotify.com/track/5cq2NNiAb2WfVaCOjkATmG"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
       "duration_ms": 169687,
       "name": "Halle",
       "url": "https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Help Me To Remember",
-        "url": "https://open.spotify.com/album/0CW4S74Fg0iIOCOfnO503P"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Help Me To Remember",
-      "url": "https://open.spotify.com/track/5cq2NNiAb2WfVaCOjkATmG"
     },
     {
       "added_at": null,

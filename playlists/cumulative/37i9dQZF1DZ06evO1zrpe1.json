@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Cita Conmigo",
+        "url": "https://open.spotify.com/album/2M4gAYg1NVtmuQ4m0I22tV"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Cita Conmigo",
+      "url": "https://open.spotify.com/track/0UjIWUuqNWmWZPeysFtfsg"
+    },
+    {
+      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },

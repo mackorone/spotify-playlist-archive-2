@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Netherlands.
 
-1,083 songs - 2 day 8 hr 19 min
+1,084 songs - 2 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [ALL THE LOVE \(feat\. Andre Troutman\)](https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Andre Troutman](https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 3:49 | 2026-04-14 |  |
 | [All the Things She Said](https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All the Things She Said](https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ) | 2:50 | 2026-01-18 | 2026-01-29 |
 | [All The Things She Said](https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All The Things She Said](https://open.spotify.com/album/15aHBKSJyVpTepgUOLCoVZ) | 2:50 | 2026-01-15 | 2026-02-04 |
-| [Alleen Is Maar Alleen](https://open.spotify.com/track/5RxbzL80C1EbRU7lH1Q7oK) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Geef Me FF](https://open.spotify.com/album/3DzWHsuXnAQCN8llSLp8P0) | 2:22 | 2026-04-14 |  |
+| [Alleen Is Maar Alleen](https://open.spotify.com/track/5RxbzL80C1EbRU7lH1Q7oK) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Geef Me FF](https://open.spotify.com/album/3DzWHsuXnAQCN8llSLp8P0) | 2:22 | 2026-04-14 | 2026-04-19 |
 | [Allerlaatste Kus](https://open.spotify.com/track/4PgmFTZGjBlwnS59PvmQvl) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Eranio](https://open.spotify.com/artist/5VZST1JSwD9JThdYzEO7WV) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:08 | 2025-08-29 | 2025-09-03 |
 | [Allerlaatste Liefdesliedje](https://open.spotify.com/track/4qo6pcDIyyK61kTCRhZcBq) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Typhoon\)](https://open.spotify.com/album/0A3YNxnWuerVQNyTnPJxKu) | 2:58 | 2025-09-30 | 2025-10-06 |
 | [Alles Goud](https://open.spotify.com/track/49iEJuWSHsK0O4HENW8qJR) | [Iwan Esajas](https://open.spotify.com/artist/0rexY8WTinI4l79RM2zjWI), [Jeroen Russchen](https://open.spotify.com/artist/4PlFxEuFahcttvLUHAplvP) | [Alles Goud](https://open.spotify.com/album/3rtA6PkTnJpvqjowYjmSd4) | 2:22 | 2025-11-07 | 2025-11-12 |
@@ -318,6 +318,7 @@
 | [Forever a Lover Girl](https://open.spotify.com/track/31V0Hcu2pM5DnjF3RuMAJN) | [Olivia B Moore](https://open.spotify.com/artist/1YY7Y1erZcoybkGPxPPBTa) | [For Lover Girls](https://open.spotify.com/album/5E6O52HgaE5Y9UhbHblzVq) | 3:09 | 2026-01-15 | 2026-01-28 |
 | [Foxie Foxtrot \- 5.0](https://open.spotify.com/track/7ABqaLJmynvvrbC3LdFR84) | [Kees Haak](https://open.spotify.com/artist/7eY3XOWhqUE9xh9J678VvY), [Willem Hanstein](https://open.spotify.com/artist/22e1gZ0iK4ZN82yuIAMKiA) | [Foxie Foxtrot \(5.0\)](https://open.spotify.com/album/1LZP0Ebad5FOrsC88NzFgM) | 2:52 | 2025-09-05 | 2025-09-10 |
 | [fractured light](https://open.spotify.com/track/4I7DlZoH5WWLAnKrBQ2RkZ) | [kalm](https://open.spotify.com/artist/0caSrZsazREwoaF8jFj1XM) | [fractured light](https://open.spotify.com/album/7dnpWcsODdtnHWpgB3wAez) | 2:52 | 2025-10-14 | 2025-10-27 |
+| [Freakin’ Out](https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Freakin’ Out](https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf) | 3:37 | 2026-04-18 |  |
 | [Free](https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S) | [Rumi](https://open.spotify.com/artist/2DSE0PhxKUmTPLfZm13sup), [Jinu](https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:07 | 2025-07-19 | 2025-09-11 |
 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 | 2026-04-14 |  |
 | [Freeze](https://open.spotify.com/track/2sm1BbFffVV3OtVorIvDXj) | [Meadow](https://open.spotify.com/artist/4QfmOKKELtLGMqLh3jpmN8), [Junior Songfestival](https://open.spotify.com/artist/3gmrmjvDMHwDrfsVvp3zrP) | [Freeze](https://open.spotify.com/album/2s2nXj6HRFPBZIISfgtMMV) | 2:32 | 2025-09-22 | 2025-10-08 |

@@ -484,10 +484,28 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 183135,
       "name": "Hand in hand",
       "url": "https://open.spotify.com/track/2bJJS2AusQLIeoSSAcIUyd"
+    },
+    {
+      "album": {
+        "name": "41 - En toen?",
+        "url": "https://open.spotify.com/album/70eAbvTqUjOBCQqEN6rlUJ"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183146,
+      "name": "Hand in hand",
+      "url": "https://open.spotify.com/track/7plkIS3Kj5nn5lmH3YF90f"
     },
     {
       "album": {

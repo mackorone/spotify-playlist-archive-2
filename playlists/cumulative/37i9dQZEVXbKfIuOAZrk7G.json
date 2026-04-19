@@ -57484,7 +57484,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 96800,
       "name": "Motion Party",
       "url": "https://open.spotify.com/track/53nEDUTKZNkZ1bwXrH9gBR"
@@ -59420,7 +59420,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 307389,
       "name": "Ne me quitte pas des yeux",
       "url": "https://open.spotify.com/track/2Ig2HQJp2wdbpQKPcOhL63"
@@ -78028,7 +78028,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 197080,
       "name": "Somewhere Between Hot & Crazy",
       "url": "https://open.spotify.com/track/4kjykpMe4WGzyWJt6vQ6Xv"
@@ -97400,6 +97400,28 @@
       "duration_ms": 240586,
       "name": "Ya Adheeman",
       "url": "https://open.spotify.com/track/5MNrC9YlvHVkHiiCfZnNSt"
+    },
+    {
+      "album": {
+        "name": "Yalla FG",
+        "url": "https://open.spotify.com/album/5VNDh9nZdMEoNaC1uIk9Xg"
+      },
+      "artists": [
+        {
+          "name": "MetaBoy",
+          "url": "https://open.spotify.com/artist/0vyHUIFawbTNM2a7W7JqZe"
+        },
+        {
+          "name": "Samsara",
+          "url": "https://open.spotify.com/artist/7qdBsTiUmIgcHmDiI0EjOn"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166025,
+      "name": "Yalla FG",
+      "url": "https://open.spotify.com/track/7cW3kzMwgWKRF9AuYp57w2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > ROSALÍA in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,210 likes - 139 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,208 likes - 139 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 36 | [SHADES OF BLUE](https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [CTRL ESCAPE](https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e) | 3:23 |
 | 37 | [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:55 |
 | 38 | [If It's Not Love](https://open.spotify.com/track/2pU2UlABXcI31Su0n28Upi) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [If It’s Not Love](https://open.spotify.com/album/21PflNtjjo6CNDiFCPpcpg) | 4:21 |
-| 39 | [Fire](https://open.spotify.com/track/4rDwRReunkleF9aisMmguC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Fire](https://open.spotify.com/album/5n0RsqJukHxaXLDlPFy0K8) | 3:17 |
+| 39 | [Fire](https://open.spotify.com/track/4rDwRReunkleF9aisMmguC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Fire](https://open.spotify.com/album/5n0RsqJukHxaXLDlPFy0K8) | 3:16 |
 | 40 | [AL MIO PAESE](https://open.spotify.com/track/0C2IeaV0r1F8IYWe4JjM2u) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G), [DELIA](https://open.spotify.com/artist/0BjRnUqiITQwjqGtTeoxUS) | [AL MIO PAESE](https://open.spotify.com/album/2puopS5aH6YlpFJYqx6jGK) | 3:17 |
 | 41 | [Genitore 3](https://open.spotify.com/track/6xZn3AmvO8JJvswcnFpev3) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3) | [Genitore 3](https://open.spotify.com/album/3ONlQmr9vgRk3QSBN5TO8g) | 3:02 |
 | 42 | [Tutto Tempesta](https://open.spotify.com/track/0qB1D1xjTid1xyfmpvG2RA) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [UN POSTO DOVE ANDARE](https://open.spotify.com/album/6hWE6qtN7dH991wZMXEIHM) | 3:12 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 53 | [Yesterday](https://open.spotify.com/track/51U5l8NFscDrt343MeiIoN) | [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF), [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Yesterday](https://open.spotify.com/album/0ZURnSfVTSgD0ziVwewsVY) | 2:29 |
 | 54 | [Talking To Jesus](https://open.spotify.com/track/52cTqjEjB5PEftPWqKxmgD) | [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2) | [Middle Child](https://open.spotify.com/album/40UETJYLuyi0ys3kWhFuXM) | 3:32 |
 | 55 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 |
-| 56 | [Il coraggio che non ho](https://open.spotify.com/track/5EoP24CMAa8MHh9j82tObR) | [icaro](https://open.spotify.com/artist/7KSeB7JWqSs50h47yIPzfC) | [Il coraggio che non ho](https://open.spotify.com/album/4BusQpXJt6r9O1qLCuoukR) | 3:15 |
+| 56 | [il coraggio che non ho](https://open.spotify.com/track/5EoP24CMAa8MHh9j82tObR) | [icaro](https://open.spotify.com/artist/7KSeB7JWqSs50h47yIPzfC) | [il coraggio che non ho](https://open.spotify.com/album/4BusQpXJt6r9O1qLCuoukR) | 3:15 |
 | 57 | [A galla](https://open.spotify.com/track/3m9B5buG8DZNV0pJ5WrzWe) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [A galla](https://open.spotify.com/album/0MQ9q57Sf3ZVSlvTEMOvQZ) | 3:10 |
 | 58 | [\- cose da dirti](https://open.spotify.com/track/4GXzUJsAXPEAuyBmNrQvdv) | [Flamen](https://open.spotify.com/artist/0v8ujlLqWIfCTv9aK3nGMe) | [+ x \-](https://open.spotify.com/album/6lNydXoPFrRYEA073ef7UM) | 2:12 |
 | 59 | [CREEPY](https://open.spotify.com/track/0ibZvSgfCIZMb4YXKbcjTm) | [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej), [Anelie](https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF), [Erba](https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW) | [CREEPY](https://open.spotify.com/album/4r6jBryVcdTAY7xPo7xmBq) | 2:27 |

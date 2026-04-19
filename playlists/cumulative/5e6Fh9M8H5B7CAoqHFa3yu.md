@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,131 songs - 5 day 6 hr 8 min
+2,137 songs - 5 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Do Outro Lado da Rua](https://open.spotify.com/track/0ltwRdcobZeo4kEkgFQOYk) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Do Outro Lado da Rua](https://open.spotify.com/album/3BcEjngH9PV2W3L3mNDDYK) | 2:45 | 2025-05-25 |  |
 | [Doble lazo](https://open.spotify.com/track/4Z288tB6RJzge7RbPChNZ5) | [LOS PÁJAROSS](https://open.spotify.com/artist/1RcuUbplaqk6mZOdgy9fNN) | [Indescriptible](https://open.spotify.com/album/5e8sDWPesVW6H2ChI6RQaN) | 4:19 | 2025-07-14 |  |
 | [Dolomiti Soul](https://open.spotify.com/track/5Cv5soORtinC12J1ruavkG) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Dolomiti Soul](https://open.spotify.com/album/543B54L2yjcDlvxZQZCJfR) | 3:52 | 2026-01-23 |  |
+| [DON JOSÉ](https://open.spotify.com/track/6PnyBXXOnhM0cumDIy4He3) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [DON JOSÉ](https://open.spotify.com/album/58uAz87OfcgRwB0o5evMPY) | 4:24 | 2026-04-18 |  |
 | [Don't Give Up](https://open.spotify.com/track/7FjhQCzRb6Gosec1DzVgCV) | [Bagjuice](https://open.spotify.com/artist/4oWnABl83YPO88wXnPflld) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 4:18 | 2024-03-23 |  |
 | [Don't Look Back in Anger](https://open.spotify.com/track/2FBkcodY7UuGAhXibIyAGC) | [Shadows Become Substance](https://open.spotify.com/artist/7D2Dx35nAzENA8TqOTeVUm) | [The Land Of Ambiguity](https://open.spotify.com/album/0Ci7sRw04ZlOaRvYjnLGsC) | 4:32 | 2025-12-20 |  |
 | [Don't Wanna Leave](https://open.spotify.com/track/0DgRl8r8V2I64OJHswUHTg) | [Matt B](https://open.spotify.com/artist/5UIhurWmSlzXbfilRY4DPd) | [Don't Wanna Leave](https://open.spotify.com/album/14mV820Kf9b5W1UVaE8iHY) | 3:26 | 2025-10-07 |  |
@@ -1091,6 +1092,7 @@
 | [Los sueños](https://open.spotify.com/track/5jxupTeXqVCshsgtOWh0xr) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:10 | 2026-03-15 |  |
 | [LOSING MY MIND \(Beyond the whole world\)](https://open.spotify.com/track/6bx8Yqi1zFoRWVh4Kn2cRD) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:03 | 2025-12-01 |  |
 | [Losing My Religion](https://open.spotify.com/track/4d9RTWdrFLVAGhdzvqxkwn) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time](https://open.spotify.com/album/22c9GGhLosljU2p3xPmOfe) | 4:28 | 2024-03-04 |  |
+| [Lost Above the Sky](https://open.spotify.com/track/5LNoYGQwezVMm3KeZq0LqF) | [Abis](https://open.spotify.com/artist/6pFKneaoODjrgYVkBbfynT) | [Lost Above the Sky](https://open.spotify.com/album/2bU5O9UKRiSVRX70gfVdXy) | 2:07 | 2026-04-18 |  |
 | [Lost in the Moment](https://open.spotify.com/track/7mighmg7INjycegWYCaStV) | [Release the Captive](https://open.spotify.com/artist/1v6EAnmC8SD44ntg7OT7uj), [Jamal Dynell](https://open.spotify.com/artist/15LwLSKUo3vSbjiMrDmOet) | [Lost in the Moment](https://open.spotify.com/album/5vNoBgTNwljpl4pFqNYMA3) | 5:00 | 2024-04-10 |  |
 | [Lost Satellite](https://open.spotify.com/track/3TP8SMiAKEaLswBoolEAmi) | [Stefanosis](https://open.spotify.com/artist/6K6rIqu7mAiORjW758KyRI), [Samson Benji](https://open.spotify.com/artist/4yh2z9mo5F6S5cQC363v2G) | [Brass Echo Chamber](https://open.spotify.com/album/5BxaCoVsHJg3Vj2xXFAKsl) | 3:36 | 2024-05-01 |  |
 | [Love & Respect](https://open.spotify.com/track/0Zk088xAy5u56sLo0jCoqL) | [Marlo G](https://open.spotify.com/artist/5xBknrb2vOF6IKEpvXY6ge) | [Love & Respect](https://open.spotify.com/album/0zXoA8yGF3ilY7wWjLEqTj) | 2:44 | 2025-10-07 |  |
@@ -1448,6 +1450,8 @@
 | [princesa linda](https://open.spotify.com/track/33dkGzUeemaEftYZMhhipn) | [MC NEMINHO](https://open.spotify.com/artist/5kwiiAZRW2ngQmkrglNTYR) | [BRILHO DE OURO](https://open.spotify.com/album/0dolXPcE9GU6vtZnV6TdBC) | 3:01 | 2026-01-25 |  |
 | [Progress no Stress](https://open.spotify.com/track/29vMfjvk0ZwgI2FNV99gPm) | [E.R.S.](https://open.spotify.com/artist/78q8u6KVkHcu9jK1RYWG82) | [Dubconscious](https://open.spotify.com/album/6KWDSRmHzwkQfCBAVZiR0b) | 6:28 | 2025-10-04 |  |
 | [PROMESA](https://open.spotify.com/track/1O2BIausmhxIvh02DGVB2F) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [GOLDENSHADE](https://open.spotify.com/album/6BRnUAnUIw3LFyX2Tvbdt5) | 4:45 | 2025-11-13 |  |
+| [PROMESA](https://open.spotify.com/track/3mUhVxbdYHsEsHb7Zms0ha) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [PROMESA](https://open.spotify.com/album/4r9Fl6f7LcOuaEdA55oLeW) | 4:45 | 2026-04-18 |  |
+| [PROMESA \(Slowed + Reverb\)](https://open.spotify.com/track/4wz4CX5xWPHLFH52ImIBaK) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [PROMESA \(Slowed + Reverb\)](https://open.spotify.com/album/7qWmol4XR5ERVfiGFxDv7o) | 5:41 | 2026-04-18 |  |
 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 | 2025-12-06 |  |
 | [Proud Mary](https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 5:27 | 2024-03-04 |  |
 | [Psalm 103](https://open.spotify.com/track/7ukxzQRe1Mc3aPH6HBaRgv) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Norma](https://open.spotify.com/artist/0m9V6VkZS0jjZXHJRjsqVC), [Kasia](https://open.spotify.com/artist/29qQXkeJ7QhNmubpz5DTJp) | [In Love with Righteousness \(2005\-2014 Best Dubs Compilation\)](https://open.spotify.com/album/0yCEH2qbynKuAzXt7x3Yzp) | 5:16 | 2024-05-01 |  |
@@ -1496,6 +1500,8 @@
 | [Real Estate \(Instrumental\)](https://open.spotify.com/track/2r0ergdzNi58NXs2ykQreH) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Hand on the Pump \- EP](https://open.spotify.com/album/6SMmtoHpEqXbduWcpskd5U) | 3:52 | 2026-02-07 |  |
 | [Real Mixer ACE](https://open.spotify.com/track/5E2SQKysxlWXfjZRisYzD5) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 3:44 | 2025-09-08 |  |
 | [REALIDAD ALTERADA](https://open.spotify.com/track/307wyKAPU6MnwTk8Ax7gUZ) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [GOLDENSHADE](https://open.spotify.com/album/6BRnUAnUIw3LFyX2Tvbdt5) | 2:29 | 2025-11-13 |  |
+| [REALIDAD ALTERADA](https://open.spotify.com/track/6gwICCzkCRuJVwwx8MUgII) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [REALIDAD ALTERADA](https://open.spotify.com/album/2XARuDCvhVEYUishRbjWwT) | 2:29 | 2026-04-18 |  |
+| [REALIDAD ALTERADA \(acustico\)](https://open.spotify.com/track/0rj4mIjVdaLvXk2tb1UsJQ) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [REALIDAD ALTERADA \(acustico\)](https://open.spotify.com/album/6oNlg6rWaCMo8Z4zAuO2xU) | 3:02 | 2026-04-18 |  |
 | [Reality](https://open.spotify.com/track/6uU7dvOorpAdzDS8BTcgQg) | [Ania](https://open.spotify.com/artist/0k8Wb3d9ypoJidDfDyuwOq) | [Reality](https://open.spotify.com/album/6wJ6dhY2PruWu7LcaeeIYj) | 3:22 | 2025-11-14 |  |
 | [Rebelsteppa \- Melodica Cut](https://open.spotify.com/track/23r7AgKxHSilNM2TX1tGD8) | [Negritage](https://open.spotify.com/artist/3JcS5pm4XJZnSXwejIiqSn) | [Guetto Roots Of Dub](https://open.spotify.com/album/03lGqOUTOHHID1tGCWRiVO) | 3:07 | 2024-05-01 |  |
 | [RECUERDOS](https://open.spotify.com/track/5SHLlfVYiPSjq2RIlUPHJk) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [GOLDENSHADE](https://open.spotify.com/album/6BRnUAnUIw3LFyX2Tvbdt5) | 2:39 | 2025-11-13 |  |

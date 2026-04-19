@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-430 songs - 1 day 2 hr 52 min
+431 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [When i see you again](https://open.spotify.com/track/2P9poLLH4lyqJX6Ym8W2ce) | [drew mado](https://open.spotify.com/artist/2wSPHPho5VMaJehm6VIywZ) | [Journey without destination](https://open.spotify.com/album/6sTSgNYjdWf7tSe2LMPlrk) | 3:29 | 2026-03-01 |  |
 | [Where Is My Home](https://open.spotify.com/track/7BOq5JrhLVdKlBoqzLJRij) | [Shao Hao](https://open.spotify.com/artist/2XTN7HUsm5XQJg6i3DGQHn) | [Where Is My Home](https://open.spotify.com/album/53o3hU2tzVnuhEzxi0smMY) | 2:54 | 2026-01-11 | 2026-03-18 |
 | [Whiskey Remedy](https://open.spotify.com/track/3BMOQfSYaoW1kgIMBFsUCF) | [Rough Gentlemen](https://open.spotify.com/artist/331U9UePKu1XpfKgNBkIa1) | [Whiskey Remedy](https://open.spotify.com/album/5ShE4NiWzqc5ss7NpT8xMe) | 4:31 | 2026-03-25 |  |
+| [Whisky na Mesa](https://open.spotify.com/track/4OTt9dzu7ZoXA0dQdE62CM) | [Nathan Duarte](https://open.spotify.com/artist/7F0B4cSHBlNqwdmxGDKHim) | [Whisky na Mesa](https://open.spotify.com/album/5xBXS5LXB0k0bD8lgy064b) | 2:12 | 2026-04-18 |  |
 | [Whispers In The Dark'](https://open.spotify.com/track/0SvJPW7oWVCviUYaoAB1NP) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Whispers In The Dark'](https://open.spotify.com/album/77Yz4HqNoeydxq5d4aYfJp) | 3:54 | 2025-12-08 |  |
 | [White Tiger Chronicles 2024](https://open.spotify.com/track/504hlNAOuRyHUNvCwS3npu) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [White Tiger Chronicles 2024](https://open.spotify.com/album/5RSm9WADXmIjIztIGvzNEg) | 4:42 | 2026-02-05 | 2026-03-18 |
 | [Widespread Coma](https://open.spotify.com/track/2NDtE7qiWJirYfhZ3gydOC) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Widespread Coma](https://open.spotify.com/album/4m3ONm2GFVHif9n78nNh5d) | 3:40 | 2026-03-07 |  |

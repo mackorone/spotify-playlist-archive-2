@@ -1,12 +1,12 @@
 {
   "description": "This is Ariel Camacho y Los Plebes Del Rancho. The essential tracks, all in one playlist.",
-  "num_followers": 451564,
+  "num_followers": 451588,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAABveMAHLx15bJf3mndn9UR1",
+  "snapshot_id": "aeF4AAAAAADw2tP8ucT+qBeX+ztLyU8W",
   "tracks": [
     {
       "added_at": null,
@@ -615,6 +615,22 @@
       "duration_ms": 231523,
       "name": "El Empanada",
       "url": "https://open.spotify.com/track/1QYw5mvSXRDagazPC2eaRP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Lo Super\u00e9",
+        "url": "https://open.spotify.com/album/2otEsiSS1j7PtUwTVamjxH"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 184966,
+      "name": "Ya Lo Super\u00e9",
+      "url": "https://open.spotify.com/track/5gt7vRRuXIG6cYPWmoHBtp"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Winyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,107 likes - 140 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,110 likes - 140 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 139 | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/track/1ij91ZruNl7xGgWE0ZRcBb) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/album/5gznrt3F3a9huMKqdzxPPN) | 3:57 |
 | 140 | [little birds](https://open.spotify.com/track/48f6WJoZEU1TgKsapzSy9m) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [chrysalis](https://open.spotify.com/album/7zye78YuqWDxWb3ZLSsXNh) | 4:00 |
 
-Snapshot ID: `AAAAAE/nIBXT7yPl8c5lAyalb+AOuRKM`
+Snapshot ID: `AAAAAAcYLxO3Bf3yM+BBmUFMfo/ovcvR`

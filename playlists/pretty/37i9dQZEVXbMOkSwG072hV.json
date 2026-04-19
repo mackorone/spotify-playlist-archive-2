@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 352949,
+  "num_followers": 352942,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MXWbGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MXbzoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "O peso do Silencio",
-        "url": "https://open.spotify.com/album/2K6QyCZoYKxKpuN3FpZaY7"
-      },
-      "artists": [
-        {
-          "name": "Sertanejo Play",
-          "url": "https://open.spotify.com/artist/1wb384gThJiHolfyfxjCOS"
-        }
-      ],
-      "duration_ms": 189720,
-      "name": "Eu t\u00f4 tentando o meu melhor",
-      "url": "https://open.spotify.com/track/4mW88OMpiyuPesGLUqHmSV"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "Filho da F\u00e9",
         "url": "https://open.spotify.com/album/2MGxf9lsiANjI9heMmir4h"
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/36VthlqTx549xJS3BWn3rc"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "O peso do Silencio",
+        "url": "https://open.spotify.com/album/2K6QyCZoYKxKpuN3FpZaY7"
+      },
+      "artists": [
+        {
+          "name": "Sertanejo Play",
+          "url": "https://open.spotify.com/artist/1wb384gThJiHolfyfxjCOS"
+        }
+      ],
+      "duration_ms": 189720,
+      "name": "Eu t\u00f4 tentando o meu melhor",
+      "url": "https://open.spotify.com/track/4mW88OMpiyuPesGLUqHmSV"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "CONEX\u00c3O",
         "url": "https://open.spotify.com/album/05VaK2NqUsfSKjmsppvemA"
@@ -57,39 +57,7 @@
       "url": "https://open.spotify.com/track/3Qwh7wT2c3o6nrFpj3c74k"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "Jane!",
-        "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
-      },
-      "artists": [
-        {
-          "name": "The Long Faces",
-          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Jane!",
-      "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "Sina de Of\u00e9lia",
         "url": "https://open.spotify.com/album/1pt3iz8edLcNuk61eozHeG"
@@ -105,7 +73,39 @@
       "url": "https://open.spotify.com/track/2NB3fpuHCFsJ1vuaZkRhp5"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "Jane!",
+        "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "Estilo R'S",
         "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "White Trails (Expanded)",
         "url": "https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU"
@@ -137,59 +137,7 @@
       "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "Leak It",
-        "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 183406,
-      "name": "Leak It",
-      "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "Yuzak \u00e9 Muito Sagaz",
-        "url": "https://open.spotify.com/album/5w6mf7xrc8zwhKqoGIX1Qh"
-      },
-      "artists": [
-        {
-          "name": "MC Luana SP",
-          "url": "https://open.spotify.com/artist/3yiG6mZEIkR6tCVm27zR8M"
-        },
-        {
-          "name": "DJ YUZAK",
-          "url": "https://open.spotify.com/artist/651jNHJzsX4ckQvURNNAIS"
-        }
-      ],
-      "duration_ms": 120264,
-      "name": "Yuzak \u00e9 Muito Sagaz",
-      "url": "https://open.spotify.com/track/516CPbRzYIg0dAHq3a3EnM"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "Estilo R'S",
-        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
-      },
-      "artists": [
-        {
-          "name": "El De Las R's",
-          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
-        }
-      ],
-      "duration_ms": 153923,
-      "name": "La Cheyenne",
-      "url": "https://open.spotify.com/track/290ilxF4OsghfGWMV9OZNd"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "Pra N\u00e3o Esquecer De Mim",
         "url": "https://open.spotify.com/album/0Kb7GeuzMK4sS45zb3O06h"
@@ -217,7 +165,83 @@
       "url": "https://open.spotify.com/track/7dLw4FM0rYgwJEzkbwRVr1"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "Leak It",
+        "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 183406,
+      "name": "Leak It",
+      "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "Yuzak \u00e9 Muito Sagaz",
+        "url": "https://open.spotify.com/album/5w6mf7xrc8zwhKqoGIX1Qh"
+      },
+      "artists": [
+        {
+          "name": "MC Luana SP",
+          "url": "https://open.spotify.com/artist/3yiG6mZEIkR6tCVm27zR8M"
+        },
+        {
+          "name": "DJ YUZAK",
+          "url": "https://open.spotify.com/artist/651jNHJzsX4ckQvURNNAIS"
+        }
+      ],
+      "duration_ms": 120264,
+      "name": "Yuzak \u00e9 Muito Sagaz",
+      "url": "https://open.spotify.com/track/516CPbRzYIg0dAHq3a3EnM"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "Estilo R'S",
+        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "duration_ms": 153923,
+      "name": "La Cheyenne",
+      "url": "https://open.spotify.com/track/290ilxF4OsghfGWMV9OZNd"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "VITA'S HOUSE",
+        "url": "https://open.spotify.com/album/5D6uIJOGZdsBvlbejGbdFr"
+      },
+      "artists": [
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
+        },
+        {
+          "name": "Mc Britney",
+          "url": "https://open.spotify.com/artist/3MezXdDyJeOGIVUcfnVXXX"
+        },
+        {
+          "name": "Brunoso",
+          "url": "https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz"
+        }
+      ],
+      "duration_ms": 237883,
+      "name": "VITA'S HOUSE",
+      "url": "https://open.spotify.com/track/4zwclBew35GU9UQjgH3r3R"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "TOMA NO CU (Maria Gasolina)",
         "url": "https://open.spotify.com/album/4BbzXZrZxvRxcyB0MZzGiB"
@@ -233,7 +257,7 @@
       "url": "https://open.spotify.com/track/6xi41eSOTp4o5N84iIyUs8"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "LOVE CATCHER",
         "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
@@ -249,7 +273,27 @@
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
         "url": "https://open.spotify.com/album/1nJFHpaSmVAKbLMrzWOdwz"
@@ -277,51 +321,7 @@
       "url": "https://open.spotify.com/track/22bl3LPkCHQSBhCAdw8Jwk"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "VITA'S HOUSE",
-        "url": "https://open.spotify.com/album/5D6uIJOGZdsBvlbejGbdFr"
-      },
-      "artists": [
-        {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
-        },
-        {
-          "name": "Mc Britney",
-          "url": "https://open.spotify.com/artist/3MezXdDyJeOGIVUcfnVXXX"
-        },
-        {
-          "name": "Brunoso",
-          "url": "https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz"
-        }
-      ],
-      "duration_ms": 237883,
-      "name": "VITA'S HOUSE",
-      "url": "https://open.spotify.com/track/4zwclBew35GU9UQjgH3r3R"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "Beatriz",
         "url": "https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup"
@@ -345,43 +345,7 @@
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "Lord da Madruga / Saudade de Tu bate Forte",
-        "url": "https://open.spotify.com/album/7MiPaBNG27Fzh6b3CbgmJ6"
-      },
-      "artists": [
-        {
-          "name": "Rap Station",
-          "url": "https://open.spotify.com/artist/2saiNFi5fbPHPP9CyEZ1xZ"
-        },
-        {
-          "name": "Meno Ka",
-          "url": "https://open.spotify.com/artist/7FbyOLiJCmpOm6yKICLSqF"
-        }
-      ],
-      "duration_ms": 148885,
-      "name": "Lord da Madruga / Saudade de Tu bate Forte",
-      "url": "https://open.spotify.com/track/0QtK5dh9AYYIzUZ3rp0HI3"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 182046,
-      "name": "Hooligan",
-      "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -397,27 +361,7 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "Dracula (Remix)",
-        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
-      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "Pe\u00e3o Todo Tatuado",
         "url": "https://open.spotify.com/album/1K4G4HwbkRTxwhlEOy9HWL"
@@ -437,7 +381,7 @@
       "url": "https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -448,44 +392,48 @@
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+      "duration_ms": 182046,
+      "name": "Hooligan",
+      "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "duration_ms": 169929,
-      "name": "2.0",
-      "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 164241,
-      "name": "they don\u2019t know \u2019bout us",
-      "url": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9"
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "Era Eu",
         "url": "https://open.spotify.com/album/4kEr2pVk60WoWkFHZkaUpa"
@@ -509,7 +457,23 @@
       "url": "https://open.spotify.com/track/4iCendVjxVcWMafE1ukVDf"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 164241,
+      "name": "they don\u2019t know \u2019bout us",
+      "url": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "Reliquia do 2T",
         "url": "https://open.spotify.com/album/6ecRUuOdAsn1ROohWK7D2Z"
@@ -545,23 +509,39 @@
       "url": "https://open.spotify.com/track/6n9JMoXkXu4lDOu1k6MRpy"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Earrings",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 169929,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "WOR$T GIRL IN AMERICA",
         "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
@@ -577,31 +557,7 @@
       "url": "https://open.spotify.com/track/0rLtUuQgwIlw6vv2eqHKdt"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "BULLY",
-        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        },
-        {
-          "name": "Andre Troutman",
-          "url": "https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R"
-        }
-      ],
-      "duration_ms": 229152,
-      "name": "ALL THE LOVE (feat. Andre Troutman)",
-      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "Sou Grato Por Seu Amor",
         "url": "https://open.spotify.com/album/0LA7WSnJyjxq1AYFf8vgsw"
@@ -625,7 +581,7 @@
       "url": "https://open.spotify.com/track/0uV1U1d1qOCcmRjJbNgHJT"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "Tem Dias Que o Mundo Pesa",
         "url": "https://open.spotify.com/album/2HJla3GVnPUlHXXkOICo4W"
@@ -641,27 +597,7 @@
       "url": "https://open.spotify.com/track/1ZW94rgBwpPc1WNSSQt55v"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "ZERO BALA",
-        "url": "https://open.spotify.com/album/7MujiaQZnoo6AQ3CNZEJja"
-      },
-      "artists": [
-        {
-          "name": "Matchola",
-          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
-        },
-        {
-          "name": "2ZDinizz",
-          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "PENSANDO EM MIM",
-      "url": "https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "worry (ultra slowed)",
         "url": "https://open.spotify.com/album/0xd4fBjTXCHxOrRCs9r6UU"
@@ -681,23 +617,27 @@
       "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+        "name": "ZERO BALA",
+        "url": "https://open.spotify.com/album/7MujiaQZnoo6AQ3CNZEJja"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        },
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
         }
       ],
-      "duration_ms": 227660,
-      "name": "Into the Sun",
-      "url": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr"
+      "duration_ms": 219000,
+      "name": "PENSANDO EM MIM",
+      "url": "https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "MEGA DO COQUEIRO",
         "url": "https://open.spotify.com/album/2YP83W3FJJBNSxO4nGyaUo"
@@ -717,23 +657,47 @@
       "url": "https://open.spotify.com/track/2jxa0nJSol9eSTil3SB13o"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Andre Troutman",
+          "url": "https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R"
         }
       ],
-      "duration_ms": 189725,
-      "name": "Body to Body",
-      "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
+      "duration_ms": 229152,
+      "name": "ALL THE LOVE (feat. Andre Troutman)",
+      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Favorite Girl",
+      "url": "https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "No Dogs Allowed",
         "url": "https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz"
@@ -749,7 +713,7 @@
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -760,28 +724,28 @@
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 189746,
-      "name": "Like Animals",
-      "url": "https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP"
+      "duration_ms": 227660,
+      "name": "Into the Sun",
+      "url": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
-        "name": "RUDE!",
-        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+        "name": "Uma Vez Cristo Nada mais",
+        "url": "https://open.spotify.com/album/038pHOUq7XNBZ8okg4ONeV"
       },
       "artists": [
         {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+          "name": "Almar Ricch",
+          "url": "https://open.spotify.com/artist/0UShzc8BEdXTABjQrPyFtO"
         }
       ],
-      "duration_ms": 200000,
-      "name": "RUDE!",
-      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
+      "duration_ms": 643401,
+      "name": "Uma Vez Cristo Nada mais",
+      "url": "https://open.spotify.com/track/2X1kO0N6Mind5G1EkXv24b"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "Mel\u00f4 De Poucas Ideias (Reggae Funk)",
         "url": "https://open.spotify.com/album/1VDUiXp4HDp4pFBu9J1An2"
@@ -809,39 +773,55 @@
       "url": "https://open.spotify.com/track/4f6FcFtp2R5laib20lY51l"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
-        "name": "HADES",
-        "url": "https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l"
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
       },
       "artists": [
         {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 256224,
-      "name": "THE VATICAN",
-      "url": "https://open.spotify.com/track/3F1VeIPbwx1Bsb0GNJ7S6z"
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
         }
       ],
-      "duration_ms": 256799,
-      "name": "Favorite Girl",
-      "url": "https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI"
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 189746,
+      "name": "Like Animals",
+      "url": "https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
         "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
@@ -869,7 +849,91 @@
       "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
     },
     {
-      "added_at": "2026-04-17 15:09:04",
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "In The Palm Of Your Hand",
+        "url": "https://open.spotify.com/album/7pfb8J6I3C3jfJvagjLaYk"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Made In Japan",
+      "url": "https://open.spotify.com/track/5vHs45P0mSuzl9rDRcliLK"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "HADES",
+        "url": "https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 256224,
+      "name": "THE VATICAN",
+      "url": "https://open.spotify.com/track/3F1VeIPbwx1Bsb0GNJ7S6z"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "\u00c9 Disso Que Eu Me Alimento",
+        "url": "https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "winx",
+          "url": "https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Pq Vc N\u00e3o Me Liga?",
+      "url": "https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "Love in the Wind",
+        "url": "https://open.spotify.com/album/5wDxHx4iZf2hXHMfANu6DG"
+      },
+      "artists": [
+        {
+          "name": "The Sha La Das",
+          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
+        }
+      ],
+      "duration_ms": 238280,
+      "name": "Those Years Are Over",
+      "url": "https://open.spotify.com/track/4DPx5423HjiwbHZ7WEBN2t"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
+      "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 232720,
+      "name": "That Should Be Me",
+      "url": "https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S"
+    },
+    {
+      "added_at": "2026-04-18 14:30:16",
       "album": {
         "name": "Xota, Agua, Xau, Bom Dia",
         "url": "https://open.spotify.com/album/32M3NcOKOniOVoZ8c895Jt"
@@ -895,78 +959,6 @@
       "duration_ms": 142399,
       "name": "Xota, Agua, Xau, Bom Dia",
       "url": "https://open.spotify.com/track/49I2hNnUxBRQulhfbhv0cE"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "In The Palm Of Your Hand",
-        "url": "https://open.spotify.com/album/7pfb8J6I3C3jfJvagjLaYk"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Made In Japan",
-      "url": "https://open.spotify.com/track/5vHs45P0mSuzl9rDRcliLK"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "\u00c9 Disso Que Eu Me Alimento",
-        "url": "https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg"
-      },
-      "artists": [
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "winx",
-          "url": "https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "Pq Vc N\u00e3o Me Liga?",
-      "url": "https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
-      },
-      "artists": [
-        {
-          "name": "Jeff Buckley",
-          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
-        }
-      ],
-      "duration_ms": 404213,
-      "name": "Lover, You Should've Come Over",
-      "url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
-    },
-    {
-      "added_at": "2026-04-17 15:09:04",
-      "album": {
-        "name": "BAD ENDING FUNK",
-        "url": "https://open.spotify.com/album/6DXAME0qmi8HAWK3HERzIB"
-      },
-      "artists": [
-        {
-          "name": "Shimuda",
-          "url": "https://open.spotify.com/artist/1MsdlVAjUybrhVKrn0bo55"
-        },
-        {
-          "name": "SlowlyDying",
-          "url": "https://open.spotify.com/artist/56bcrcgSJpGW0sg7mRZFHM"
-        }
-      ],
-      "duration_ms": 70212,
-      "name": "BAD ENDING FUNK",
-      "url": "https://open.spotify.com/track/6eC8U3G5GCK7R5LFF1MOr6"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

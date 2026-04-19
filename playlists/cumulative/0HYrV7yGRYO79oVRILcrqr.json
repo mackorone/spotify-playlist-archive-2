@@ -7535,6 +7535,24 @@
     },
     {
       "album": {
+        "name": "Whisky na Mesa",
+        "url": "https://open.spotify.com/album/5xBXS5LXB0k0bD8lgy064b"
+      },
+      "artists": [
+        {
+          "name": "Nathan Duarte",
+          "url": "https://open.spotify.com/artist/7F0B4cSHBlNqwdmxGDKHim"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132920,
+      "name": "Whisky na Mesa",
+      "url": "https://open.spotify.com/track/4OTt9dzu7ZoXA0dQdE62CM"
+    },
+    {
+      "album": {
         "name": "Whispers In The Dark'",
         "url": "https://open.spotify.com/album/77Yz4HqNoeydxq5d4aYfJp"
       },

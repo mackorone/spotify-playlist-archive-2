@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Street",
+        "url": "https://open.spotify.com/album/4sIoa5yZuLQJufrMtCCLZe"
+      },
+      "artists": [
+        {
+          "name": "Forget Me Not",
+          "url": "https://open.spotify.com/artist/6LO7ktGmsVjiuIyJ7PinHk"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "A Street",
+      "url": "https://open.spotify.com/track/3z9yp7Rf4hHccBKJ15QXuF"
+    },
+    {
+      "album": {
         "name": "A Westerner Walks Into a Bar",
         "url": "https://open.spotify.com/album/7tXNOVaRneDR2voDiiO8B7"
       },
@@ -348,6 +366,24 @@
       "duration_ms": 205658,
       "name": "Bandages and Promises",
       "url": "https://open.spotify.com/track/0zQDOqHLjwK2Hueyih0jkJ"
+    },
+    {
+      "album": {
+        "name": "Be the Star That You Are",
+        "url": "https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189589,
+      "name": "Be the Star That You Are",
+      "url": "https://open.spotify.com/track/48hhpEl3Q2f4sL4kMsHC8R"
     },
     {
       "album": {
@@ -1309,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/3BuDRZZfYcLaH8jNOKSRsG"
+      },
+      "artists": [
+        {
+          "name": "Carelessly",
+          "url": "https://open.spotify.com/artist/3laL9LL6X7GkWJDrmUxI7Z"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207374,
+      "name": "Dream Like You",
+      "url": "https://open.spotify.com/track/2JuPjDUNTsDCm5PlYIEShh"
+    },
+    {
+      "album": {
         "name": "DREAMER",
         "url": "https://open.spotify.com/album/27aHMfzeKvauniQ4iB2MvY"
       },
@@ -2161,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "Hurts (Dancing With Ghosts)",
+        "url": "https://open.spotify.com/album/1LttVa39jjMMHbKWXsKujT"
+      },
+      "artists": [
+        {
+          "name": "The New Old",
+          "url": "https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "Hurts (Dancing With Ghosts)",
+      "url": "https://open.spotify.com/track/1QFmP5yTicfkV52OjzJRqD"
+    },
+    {
+      "album": {
         "name": "i chose (you)",
         "url": "https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc"
       },
@@ -2338,6 +2410,28 @@
       "duration_ms": 168500,
       "name": "Ich werd nicht weniger",
       "url": "https://open.spotify.com/track/0fcuM80u8rmO19kZzWMbyU"
+    },
+    {
+      "album": {
+        "name": "MMXXII",
+        "url": "https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN"
+      },
+      "artists": [
+        {
+          "name": "Roses!Hands!",
+          "url": "https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o"
+        },
+        {
+          "name": "Morgan S Oteric",
+          "url": "https://open.spotify.com/artist/0LvGEKR2OwTW2k6LDbxO7X"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213080,
+      "name": "Ides Of March",
+      "url": "https://open.spotify.com/track/4Rq5Ytad92LP8xHIf0WhKf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,527 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,573 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 17 | [Amor Livre \- Ao Vivo](https://open.spotify.com/track/3PGg3V56krasXrPKNvVLQU) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 2:16 |
 | 18 | [Isso Que É Vida](https://open.spotify.com/track/0f1wz7Dm3slZdTwenTjcAn) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 4:56 |
 | 19 | [Selvagem](https://open.spotify.com/track/4ipba3CCl8CNy2yvZg6hU7) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Prod.MTS](https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN), [Woozy](https://open.spotify.com/artist/0xmZfohNff4z8f3xmDRX4K) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 2:15 |
-| 20 | [ELENCO FABULOSO](https://open.spotify.com/track/3v8CavKjRVaVCyFyiNz6T3) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [PALÁCIO DE LONA](https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3) | 3:09 |
-| 21 | [Good Vibe](https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 3:01 |
+| 20 | [Good Vibe](https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 3:01 |
+| 21 | [ELENCO FABULOSO](https://open.spotify.com/track/3v8CavKjRVaVCyFyiNz6T3) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [PALÁCIO DE LONA](https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3) | 3:09 |
 | 22 | [Além do Dinheiro](https://open.spotify.com/track/7qLM93TElkbHLnLBNviq3y) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:07 |
 | 23 | [Só Pra Você Lembrar](https://open.spotify.com/track/1yNXGRORl6egstWgugOTs8) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 3:54 |
 | 24 | [Reús](https://open.spotify.com/track/1WI2U2pn68FMbbMjZ0iZt8) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 49 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/5GflWMue0Hausplsa02rLr) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8) | 4:02 |
 | 50 | [Quero Paz](https://open.spotify.com/track/2jtg6PA6LmQQa7fS0a7MbF) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:29 |
 
-Snapshot ID: `aeAmgAAAAAB0liCCT67JlQBpHU3l8LvG`
+Snapshot ID: `aeF4AAAAAABEkAlwhrzrBFpiPY1SJ0aC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe3uGcHMBcq.md) - [plain]
 
 > Celebrate Hannah Montana turning 20 by reliving your favorite Disney Channel hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,143 likes - 175 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,155 likes - 175 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

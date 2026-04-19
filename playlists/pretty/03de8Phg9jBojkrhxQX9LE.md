@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,010 likes - 142 songs - 7 hr 42 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,021 likes - 142 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 25 | [Shadow Of Your Smile](https://open.spotify.com/track/35KDCFm9Oil4kEXjNR2sfq) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb) | [Shadow Of Your Smile](https://open.spotify.com/album/5R9YEihXqBgCJQyxr2Edpl) | 3:46 |
 | 26 | [SHAKEUP](https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7) | [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [SHAKEUP](https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5) | 3:33 |
 | 27 | [ONMYFEET](https://open.spotify.com/track/0mblCFqnjRMwcTABERlOJK) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W), [Koya](https://open.spotify.com/artist/6qzW2S5bxtODohd2FtnEs5) | [ONMYFEET](https://open.spotify.com/album/5pBraE4nFiFez3sYr26y04) | 2:51 |
-| 28 | [Nexus](https://open.spotify.com/track/7Db3ixbu5fo3uUZ2ZyQDKW) | [G\-REX](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb) | [Nexus](https://open.spotify.com/album/7FohOMeifnnZOsoDFOybRZ) | 2:31 |
+| 28 | [NEXUS](https://open.spotify.com/track/7Db3ixbu5fo3uUZ2ZyQDKW) | [G\-REX](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb) | [NEXUS](https://open.spotify.com/album/7FohOMeifnnZOsoDFOybRZ) | 2:31 |
 | 29 | [The Answer \- canary yellow & SHAKING Remix](https://open.spotify.com/track/0lN9mNY9Job5R4YYAETmuQ) | [RamonPang](https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D), [canary yellow](https://open.spotify.com/artist/6dGWL8hxc3I833xMD6ycBv), [SHAKING](https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6) | [The Answer \(canary yellow & SHAKING Remix\)](https://open.spotify.com/album/71aPzO3RcWlppcaC97o6NO) | 5:05 |
 | 30 | [Break It](https://open.spotify.com/track/3jiq4HBxQjEjOp1ZvOTGge) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Break It](https://open.spotify.com/album/42rRSmWPbd3NQIltYKwSYl) | 2:53 |
 | 31 | [Aeroplane Mode \- Original Mix](https://open.spotify.com/track/709bplIm1PlcSDGIpL4mJ1) | [RSquared](https://open.spotify.com/artist/3uuAdAghYzgytUdLDQUHZ2) | [Aeroplane Mode](https://open.spotify.com/album/5OyTJFzUKuPSgcYcKn2uJl) | 3:04 |

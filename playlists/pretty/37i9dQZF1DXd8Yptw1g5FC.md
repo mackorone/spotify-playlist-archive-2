@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Mabel Matiz ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,168 likes - 114 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,236 likes - 114 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

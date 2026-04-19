@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 261590,
+  "num_followers": 261599,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAADDezuNJC9yLF1E0U6dCSSQ",
+  "snapshot_id": "aeF4AAAAAADLMTwRTCpjwtqzJL2Rym1h",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goin' 50",
-        "url": "https://open.spotify.com/album/5NLRTVJbkSYzcsBphObMMg"
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 284253,
-      "name": "Viva Las Vegas (2019 Remaster)",
-      "url": "https://open.spotify.com/track/3NyFc37QvMQrncwUGm1Pif"
+      "duration_ms": 213600,
+      "name": "Francine",
+      "url": "https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rio Grande Mud",
-        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
+        "name": "Goin' 50",
+        "url": "https://open.spotify.com/album/5NLRTVJbkSYzcsBphObMMg"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 213600,
-      "name": "Francine",
-      "url": "https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI"
+      "duration_ms": 284253,
+      "name": "Viva Las Vegas (2019 Remaster)",
+      "url": "https://open.spotify.com/track/3NyFc37QvMQrncwUGm1Pif"
     },
     {
       "added_at": null,

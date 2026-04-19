@@ -1,12 +1,12 @@
 {
   "description": "This is Karl Jenkins. The essential tracks, all in one playlist.",
-  "num_followers": 10989,
+  "num_followers": 10995,
   "original_name": "This Is Karl Jenkins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAAB4ZD8UiJnSMP6neODyF8uz",
+  "snapshot_id": "aeF4AAAAAAB9EKWZaLZPVhjx5qixat0z",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
         }
       ],
-      "duration_ms": 193933,
-      "name": "The Armed Man - A Mass For Peace: XII. Benedictus",
-      "url": "https://open.spotify.com/track/3mBgho28CcyXHnVqF2sssR"
+      "duration_ms": 124146,
+      "name": "Cantilena",
+      "url": "https://open.spotify.com/track/6SKmIEib0xsYCdVSHb5JeP"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
         }
       ],
-      "duration_ms": 124146,
-      "name": "Cantilena",
-      "url": "https://open.spotify.com/track/6SKmIEib0xsYCdVSHb5JeP"
+      "duration_ms": 193933,
+      "name": "The Armed Man - A Mass For Peace: XII. Benedictus",
+      "url": "https://open.spotify.com/track/3mBgho28CcyXHnVqF2sssR"
     },
     {
       "added_at": null,
@@ -663,6 +663,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adiemus V - Vocalise",
+        "url": "https://open.spotify.com/album/6ZAbyTNBjgIepIVJEOMKTk"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Adiemus",
+          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
+        },
+        {
+          "name": "The Adiemus Singers",
+          "url": "https://open.spotify.com/artist/5BWozfmqnlpKSTn4nEXhB1"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "duration_ms": 145880,
+      "name": "Dona Nobis Pacem (Part I)",
+      "url": "https://open.spotify.com/track/3zk6AyZvfyxUZPm9pK9FRy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stabat Mater",
         "url": "https://open.spotify.com/album/2NZKPcm0h3mrRv2MPBArEO"
       },
@@ -707,34 +735,6 @@
       "duration_ms": 274066,
       "name": "Stabat mater: X. Ave Verum",
       "url": "https://open.spotify.com/track/4URn2IuVL18bXEmGidqgJj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adiemus V - Vocalise",
-        "url": "https://open.spotify.com/album/6ZAbyTNBjgIepIVJEOMKTk"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Adiemus",
-          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
-        },
-        {
-          "name": "The Adiemus Singers",
-          "url": "https://open.spotify.com/artist/5BWozfmqnlpKSTn4nEXhB1"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        }
-      ],
-      "duration_ms": 145880,
-      "name": "Dona Nobis Pacem (Part I)",
-      "url": "https://open.spotify.com/track/3zk6AyZvfyxUZPm9pK9FRy"
     },
     {
       "added_at": null,
@@ -1439,8 +1439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/6wq82GuuBqD4gIN073fa7O"
+        "name": "Adiemus IV - The Eternal Knot",
+        "url": "https://open.spotify.com/album/1VsVrkxUBJuLlqTiiApYLx"
       },
       "artists": [
         {
@@ -1448,41 +1448,41 @@
           "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
         },
         {
-          "name": "Serendipity",
-          "url": "https://open.spotify.com/artist/17XfY2Nn3lAxAdsi48ykI9"
+          "name": "Adiemus",
+          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
         },
         {
-          "name": "Cor Caerdydd & Cytgan",
-          "url": "https://open.spotify.com/artist/0Z8ThIGmQT3GgtF3c1o595"
+          "name": "Davy Spillane",
+          "url": "https://open.spotify.com/artist/4BEaTskgF4brSLE7FPvfDx"
         },
         {
-          "name": "West Kazakhstan Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/7hw6Pa90Qd9OaTezjNhjFg"
+          "name": "Pamela Thorby",
+          "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
         },
         {
-          "name": "Marat Bisengaliev",
-          "url": "https://open.spotify.com/artist/3LKUrXguhu35kfh1lMVTIL"
+          "name": "Martin Taylor",
+          "url": "https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62"
         },
         {
-          "name": "Catrin Finch",
-          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
+          "name": "Jody Jenkins",
+          "url": "https://open.spotify.com/artist/5wvFd7EQe05xbDXUfZqRTu"
         },
         {
-          "name": "Tim Thorne",
-          "url": "https://open.spotify.com/artist/6RQi8sZbwBZbFtZ4TgRsw3"
+          "name": "Adiemus Orchestra",
+          "url": "https://open.spotify.com/artist/6BTVcb228WGbBFjPOihsiM"
         },
         {
-          "name": "Gary Kettel",
-          "url": "https://open.spotify.com/artist/6nIQZ7kMnyXmoJwfaiknCw"
+          "name": "Miriam Stockley",
+          "url": "https://open.spotify.com/artist/3yBHmpIPyOHa80cQxSedau"
         },
         {
-          "name": "Timothy Rhys-Evans",
-          "url": "https://open.spotify.com/artist/2u0pG2s2RyVzP9PgrGPLi4"
+          "name": "Mary Carewe",
+          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
         }
       ],
-      "duration_ms": 406626,
-      "name": "Requiem: I. Introit",
-      "url": "https://open.spotify.com/track/2utNUzix67TZaFPLZorPco"
+      "duration_ms": 324213,
+      "name": "The Wooing Of \u00c9ta\u00edn",
+      "url": "https://open.spotify.com/track/4ixkcDJ1RScB0XemRG8QS2"
     },
     {
       "added_at": null,
@@ -1535,8 +1535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adiemus IV - The Eternal Knot",
-        "url": "https://open.spotify.com/album/1VsVrkxUBJuLlqTiiApYLx"
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/6wq82GuuBqD4gIN073fa7O"
       },
       "artists": [
         {
@@ -1544,41 +1544,41 @@
           "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
         },
         {
-          "name": "Adiemus",
-          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
+          "name": "Serendipity",
+          "url": "https://open.spotify.com/artist/17XfY2Nn3lAxAdsi48ykI9"
         },
         {
-          "name": "Davy Spillane",
-          "url": "https://open.spotify.com/artist/4BEaTskgF4brSLE7FPvfDx"
+          "name": "Cor Caerdydd & Cytgan",
+          "url": "https://open.spotify.com/artist/0Z8ThIGmQT3GgtF3c1o595"
         },
         {
-          "name": "Pamela Thorby",
-          "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
+          "name": "West Kazakhstan Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/7hw6Pa90Qd9OaTezjNhjFg"
         },
         {
-          "name": "Martin Taylor",
-          "url": "https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62"
+          "name": "Marat Bisengaliev",
+          "url": "https://open.spotify.com/artist/3LKUrXguhu35kfh1lMVTIL"
         },
         {
-          "name": "Jody Jenkins",
-          "url": "https://open.spotify.com/artist/5wvFd7EQe05xbDXUfZqRTu"
+          "name": "Catrin Finch",
+          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
         },
         {
-          "name": "Adiemus Orchestra",
-          "url": "https://open.spotify.com/artist/6BTVcb228WGbBFjPOihsiM"
+          "name": "Tim Thorne",
+          "url": "https://open.spotify.com/artist/6RQi8sZbwBZbFtZ4TgRsw3"
         },
         {
-          "name": "Miriam Stockley",
-          "url": "https://open.spotify.com/artist/3yBHmpIPyOHa80cQxSedau"
+          "name": "Gary Kettel",
+          "url": "https://open.spotify.com/artist/6nIQZ7kMnyXmoJwfaiknCw"
         },
         {
-          "name": "Mary Carewe",
-          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
+          "name": "Timothy Rhys-Evans",
+          "url": "https://open.spotify.com/artist/2u0pG2s2RyVzP9PgrGPLi4"
         }
       ],
-      "duration_ms": 324213,
-      "name": "The Wooing Of \u00c9ta\u00edn",
-      "url": "https://open.spotify.com/track/4ixkcDJ1RScB0XemRG8QS2"
+      "duration_ms": 406626,
+      "name": "Requiem: I. Introit",
+      "url": "https://open.spotify.com/track/2utNUzix67TZaFPLZorPco"
     },
     {
       "added_at": null,
@@ -1631,8 +1631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/6wq82GuuBqD4gIN073fa7O"
+        "name": "Adiemus II: Cantata Mundi",
+        "url": "https://open.spotify.com/album/59CePotGR37Bhf0a2xVDOp"
       },
       "artists": [
         {
@@ -1640,57 +1640,33 @@
           "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
         },
         {
-          "name": "Nicole Tibbels",
-          "url": "https://open.spotify.com/artist/1dTs8VFLLd9M4H6aBxizdE"
+          "name": "Adiemus",
+          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
         },
         {
-          "name": "Serendipity",
-          "url": "https://open.spotify.com/artist/17XfY2Nn3lAxAdsi48ykI9"
+          "name": "Mary Carewe",
+          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
         },
         {
-          "name": "Cor Caerdydd & Cytgan",
-          "url": "https://open.spotify.com/artist/0Z8ThIGmQT3GgtF3c1o595"
+          "name": "Pamela Thorby",
+          "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
         },
         {
-          "name": "West Kazakhstan Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/7hw6Pa90Qd9OaTezjNhjFg"
+          "name": "Miriam Stockley",
+          "url": "https://open.spotify.com/artist/3yBHmpIPyOHa80cQxSedau"
         },
         {
-          "name": "Marat Bisengaliev",
-          "url": "https://open.spotify.com/artist/3LKUrXguhu35kfh1lMVTIL"
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
         },
         {
-          "name": "Clive Bell",
-          "url": "https://open.spotify.com/artist/4PpQjCDxZ1NkoZBC2DYCnX"
-        },
-        {
-          "name": "Catrin Finch",
-          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
-        },
-        {
-          "name": "Tim Thorne",
-          "url": "https://open.spotify.com/artist/6RQi8sZbwBZbFtZ4TgRsw3"
-        },
-        {
-          "name": "Gavin Horsley",
-          "url": "https://open.spotify.com/artist/4rxwDKSH8U6IupXBwqqj3W"
-        },
-        {
-          "name": "Gary Kettel",
-          "url": "https://open.spotify.com/artist/6nIQZ7kMnyXmoJwfaiknCw"
-        },
-        {
-          "name": "Rupert Christie",
-          "url": "https://open.spotify.com/artist/3OhfPEMqoSXsxIqN04NJcd"
-        },
-        {
-          "name": "Timothy Rhys-Evans",
-          "url": "https://open.spotify.com/artist/2u0pG2s2RyVzP9PgrGPLi4"
+          "name": "Jody K. Jenkins",
+          "url": "https://open.spotify.com/artist/4FjeS3mNCRfJqN4jRTr4Er"
         }
       ],
-      "duration_ms": 287893,
-      "name": "Requiem: VII. Lacrimosa",
-      "url": "https://open.spotify.com/track/3Bw44lWmGB2HNk4UF85vxk"
+      "duration_ms": 542946,
+      "name": "Cantus: Song of Tears",
+      "url": "https://open.spotify.com/track/356Ba3qgYbEGfRA1zfq2i2"
     }
   ],
   "unique_name": "This Is Karl Jenkins",

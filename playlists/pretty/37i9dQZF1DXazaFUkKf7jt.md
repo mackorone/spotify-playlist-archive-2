@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 
 > Essential tracks from masterpiece RPG series, “SaGa”\. ゲーム史の変遷と共に歩み続け30年。数々の感動を生み続けるRPG「SaGa」シリーズの名曲たちをプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,233 likes - 61 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,234 likes - 61 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 | 4 | [魔界塔士](https://open.spotify.com/track/23TWCUzxmYanxQ7Ag9eKbX) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [魔界塔士Ｓａ・Ｇａ　Ｏｒｉｇｉｎａｌ　Ｓｏｕｎｄｔｒａｃｋ](https://open.spotify.com/album/4SPjww5H6OQmr9CctkIyIW) | 1:18 |
 | 5 | [怒闘](https://open.spotify.com/track/73rLAxe7HOhwF5KxkMKdwm) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [サガ バトル楽曲集](https://open.spotify.com/album/1SqnXjk6kVPtv83Bg3pYaa) | 2:00 |
 | 6 | [メヌエット](https://open.spotify.com/track/6CPnqlzUnSzLEGrCp5SMsg) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [ROSE PERIOD \(the BEST 2005\-2015\)](https://open.spotify.com/album/4rAO12qsCseL5zTcQ4e2mX) | 4:57 |
-| 7 | [オープニングタイトル](https://open.spotify.com/track/7DycXHzdoECAyLu7cEmwLv) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [ロマンシング･サガ \-ミンストレルソング\-\(配信用\)](https://open.spotify.com/album/3TerrfWnTYYZjHjVIpeneg) | 2:17 |
-| 8 | [涙を拭いて](https://open.spotify.com/track/1TMK9o4qUIH8UxVIZ1Yuh5) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [ロマンシング･サガ \-ミンストレルソング\-\(配信用\)](https://open.spotify.com/album/3TerrfWnTYYZjHjVIpeneg) | 2:29 |
+| 7 | [オープニングタイトル](https://open.spotify.com/track/7DycXHzdoECAyLu7cEmwLv) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Romancing SaGa \-Minstrel Song\- Original Soundtrack](https://open.spotify.com/album/3TerrfWnTYYZjHjVIpeneg) | 2:17 |
+| 8 | [涙を拭いて](https://open.spotify.com/track/1TMK9o4qUIH8UxVIZ1Yuh5) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Romancing SaGa \-Minstrel Song\- Original Soundtrack](https://open.spotify.com/album/3TerrfWnTYYZjHjVIpeneg) | 2:29 |
 | 9 | [Re:Birth II \-連\- 熱情の律動](https://open.spotify.com/track/6TKfzDuQiXhJ5oXnzRUcMk) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-連\- / サガ バトルアレンジ](https://open.spotify.com/album/1YonD3ESd4UNqCx31AtCxr) | 4:47 |
-| 10 | [絶対自由 \-Gray\-](https://open.spotify.com/track/1qT2t6YFDhS5eJWWe2N1sP) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [ロマンシング･サガ \-ミンストレルソング\-\(配信用\)](https://open.spotify.com/album/3TerrfWnTYYZjHjVIpeneg) | 2:59 |
+| 10 | [絶対自由 \-Gray\-](https://open.spotify.com/track/1qT2t6YFDhS5eJWWe2N1sP) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Romancing SaGa \-Minstrel Song\- Original Soundtrack](https://open.spotify.com/album/3TerrfWnTYYZjHjVIpeneg) | 2:59 |
 | 11 | [決戦!サルーイン \-Final Battle with Saruin\-](https://open.spotify.com/track/24fLLv60gmEA26qiarvbbN) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ バトル楽曲集](https://open.spotify.com/album/1SqnXjk6kVPtv83Bg3pYaa) | 6:08 |
 | 12 | [Re:Birth Ⅱ \-閃\- 必殺の一撃～死闘の果てに メドレー](https://open.spotify.com/track/688XPw0omGnAlvG9ZL1a8r) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-閃\- サガ バトルアレンジ](https://open.spotify.com/album/4cYtdRiUVTvrmEJSAAgLjb) | 4:58 |
 | 13 | [Re:Birth II \-連\- 燃える血潮～Save the world メドレー](https://open.spotify.com/track/4A5jFjRUU105tAtJ98u3N7) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-連\- / サガ バトルアレンジ](https://open.spotify.com/album/1YonD3ESd4UNqCx31AtCxr) | 5:09 |

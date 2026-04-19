@@ -4,7 +4,7 @@
 
 > Today’s pop, plugged into the culture\. Cover: Olivia Rodrigo
 
-2,958 songs - 6 day 6 hr 1 min
+2,959 songs - 6 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1233,6 +1233,7 @@
 | [I Don’t Remember It](https://open.spotify.com/track/6VpgjsweUl11bHGFxQMHCE) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [I Don’t Remember It](https://open.spotify.com/album/6NeqdzjfYfGS4oZ0p6aLL1) | 4:28 | 2025-12-05 | 2025-12-13 |
 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [I Don’t Think That I Like Her](https://open.spotify.com/album/5f7yRF519Ruz1yE9x97jID) | 3:08 | 2022-09-16 | 2022-10-01 |
 | [I Feel Love](https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:13 | 2023-04-28 | 2023-06-03 |
+| [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 5:03 | 2026-04-18 |  |
 | [I FOLLOW YOU](https://open.spotify.com/track/5VeGKt5icWhIMuEZSHdQJa) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [I FOLLOW YOU](https://open.spotify.com/album/71ErM8K0tbYK3Ryr3R4jWC) | 3:39 | 2025-06-06 | 2025-06-28 |
 | [I Forget \(I’m So Young\)](https://open.spotify.com/track/64Arxcm1BKaKaXhq8aWoCy) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [I Forget \(I’m So Young\)](https://open.spotify.com/album/3gsfSprEh8MiW0ir872S1Z) | 4:19 | 2024-09-20 | 2024-09-28 |
 | [I Give Everything](https://open.spotify.com/track/7dX7gCMEviiaH9YDb9RnCJ) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [I Give Everything](https://open.spotify.com/album/2ljtGIdS43Dx9caG9glR2z) | 2:52 | 2022-01-07 | 2022-03-12 |

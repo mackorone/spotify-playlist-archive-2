@@ -1125,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Ya Lo Super\u00e9",
+        "url": "https://open.spotify.com/album/2otEsiSS1j7PtUwTVamjxH"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184966,
+      "name": "Ya Lo Super\u00e9",
+      "url": "https://open.spotify.com/track/5gt7vRRuXIG6cYPWmoHBtp"
+    },
+    {
+      "album": {
         "name": "Hablemos",
         "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
       },

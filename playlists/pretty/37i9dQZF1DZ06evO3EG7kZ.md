@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 
 > This is Bluey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,435 likes - 30 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,454 likes - 30 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Seesaw](https://open.spotify.com/track/4PqKOgIkMnvAJmlGZJWwdB) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 2:09 |
-| 2 | [I Know a Place \(The Creek Song\)](https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Helena Czajka](https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO), [Jazz D'Arcy](https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 3:16 |
+| 2 | [Bluey Theme Tune \(Instrument Parade\)](https://open.spotify.com/track/3ABoIhUlvJZp2ZDlfeThP7) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 2:12 |
 | 3 | [Dance Mode](https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Dance Mode!](https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z) | 1:58 |
 | 4 | [Burger Dog](https://open.spotify.com/track/0y40DWseDN3tM4Nv6CrzsY) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Daniel O’Brien](https://open.spotify.com/artist/0uSEEB8TwdhevZ2hv80BoL) | [Burger Dog / Bluey Theme Tune \(Burger Dog Version\)](https://open.spotify.com/album/5xAcUALTmNGKjSUbopmkdi) | 2:48 |
 | 5 | [La canción de Bluey \(Español \- Latinoamérica\)](https://open.spotify.com/track/18oXrfb62Kn2GtU2Kqi4qM) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [La canción de Bluey \(Español \- Latinoamérica\)](https://open.spotify.com/album/6WTHRiGPgH0ZsIROsUkkB5) | 1:04 |
-| 6 | [Bluey Theme Tune \(Instrument Parade\)](https://open.spotify.com/track/3ABoIhUlvJZp2ZDlfeThP7) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 2:12 |
+| 6 | [I Know a Place \(The Creek Song\)](https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Helena Czajka](https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO), [Jazz D'Arcy](https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 3:16 |
 | 7 | [Rain \(Instrumental\)](https://open.spotify.com/track/1eaZSJ0jVWmj9HKjAtl2Sf) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV), [Jazz D'Arcy](https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij) | [Dance Mode!](https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z) | 3:37 |
 | 8 | [Curry Quest](https://open.spotify.com/track/0Mv6OYvk9l6xzeDXRA428u) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 3:03 |
 | 9 | [Sleepytime](https://open.spotify.com/track/7MyLpkB4QVgIw4mBL0WurR) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Sleepytime](https://open.spotify.com/album/594hazIUZ5Y3um2QVc6GJu) | 5:01 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 | 29 | [Bin Night](https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 3:13 |
 | 30 | [Rug Island, Pt\. 2](https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 1:16 |
 
-Snapshot ID: `aeAmgAAAAADPKF/M6nd4FlRMQUUVeLEE`
+Snapshot ID: `aeF4AAAAAACptHLG8EQnE15DeTR1o/KH`

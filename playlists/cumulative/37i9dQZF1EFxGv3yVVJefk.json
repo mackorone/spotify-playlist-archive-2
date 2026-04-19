@@ -1098,6 +1098,24 @@
     {
       "album": {
         "name": "Love, Luther",
+        "url": "https://open.spotify.com/album/5Z6NPbeKPsA7YzUNfZm6aU"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147066,
+      "name": "If You Can't Dance",
+      "url": "https://open.spotify.com/track/1uDDChkiU6m1iCJ3C334J5"
+    },
+    {
+      "album": {
+        "name": "Love, Luther",
         "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
       },
       "artists": [
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 147066,
       "name": "If You Can't Dance",
       "url": "https://open.spotify.com/track/4VMVGxnZFOZrEHAE6UrIkG"

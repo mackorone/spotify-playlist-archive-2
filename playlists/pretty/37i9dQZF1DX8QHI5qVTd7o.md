@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 16 | [Riverside 2099](https://open.spotify.com/track/4gCeoAADi0gWPVbwLhhuqq) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g) | [Riverside 2099](https://open.spotify.com/album/4JoKJiPMDmMuF8SHj4j47N) | 3:54 |
 | 17 | [Ode To Oi](https://open.spotify.com/track/7aIiDOQyCBA8yi1dozGojm) | [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Ode To Oi](https://open.spotify.com/album/79kc4mpzpEX4MdeLYFwd1Y) | 4:31 |
 | 18 | [Payback](https://open.spotify.com/track/5yR26TumS74yhIOGhn8Hs8) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Payback](https://open.spotify.com/album/2BoVLp1bG7rLETC2roj2kX) | 5:49 |
-| 19 | [Burnin](https://open.spotify.com/track/5lByoyTJti3jYo22bLQKOH) | [Calvin Harris](https://open.spotify.com/artist/5JIdaV4V6IaLMQG6uzAhJY), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:54 |
+| 19 | [Burnin](https://open.spotify.com/track/5lByoyTJti3jYo22bLQKOH) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:54 |
 | 20 | [Electric Elephants](https://open.spotify.com/track/4O2gRMLAIQYHXe25wjeTFj) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Electric Elephants](https://open.spotify.com/album/1Vlj2MZ0h4LA0IYjPvX6eI) | 2:53 |
 | 21 | [Koala](https://open.spotify.com/track/3Af7K6rJ85E9eS0yy8eRNA) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Last All Night \(Koala\) \[feat\. KStewart\] \[Remixes\]](https://open.spotify.com/album/02HK6sMyGpa7EdjE2KEUMx) | 4:24 |
 | 22 | [The Power of Now](https://open.spotify.com/track/6DS51XJ8iV21mAcjPxASWZ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Neon Future Odyssey](https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK) | 3:21 |

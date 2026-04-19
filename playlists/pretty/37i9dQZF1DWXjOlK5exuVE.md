@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 
 > Historias que hacen historia\. Diferente Nivel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,237 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,294 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 | 124 | [La Lightning](https://open.spotify.com/track/2uBDfa8jozL6rsGbmiQZMS) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Sigo en la Jugada](https://open.spotify.com/album/2qeFGGJACdD20FZ5mtMw4B) | 3:12 |
 | 125 | [La Faramalla](https://open.spotify.com/track/4yPmcwwLXoibbNu6CmrJQg) | [Nivel C](https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM) | [Falsas Amistades](https://open.spotify.com/album/1EsiciTPporCUNq9lMVPHG) | 3:20 |
 
-Snapshot ID: `AAAAAA5QiRPbh4WkaflXM1b21cqb1o77`
+Snapshot ID: `AAAAAAalKmX3t6KYJCJnAMGSA1LB+T9t`

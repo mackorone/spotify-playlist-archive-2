@@ -4,7 +4,7 @@
 
 > This is Marca MP\. The essential tracks, all in one playlist.
 
-140 songs - 7 hr 25 min
+141 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,13 +86,14 @@
 | [Mi Universo Entero](https://open.spotify.com/track/6OPFaShW3TEnLcYWSZxt67) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [LEALTAD](https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm) | 3:37 | 2024-02-04 | 2024-09-08 |
 | [Miedo](https://open.spotify.com/track/77CHXmQPAjOWXuaUod5pKH) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Miedo](https://open.spotify.com/album/3gUSgjv0rTLWa8N8CAYsF5) | 3:09 | 2024-11-05 | 2025-06-29 |
 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 | 2022-06-01 |  |
-| [Mira Jodidon](https://open.spotify.com/track/7b5Qcwa49HRUW3AvX3v781) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mira Jodidon](https://open.spotify.com/album/76UGi97cC4O9r4Sd86CNZ9) | 2:52 | 2023-06-11 |  |
+| [Mira Jodidon](https://open.spotify.com/track/7b5Qcwa49HRUW3AvX3v781) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mira Jodidon](https://open.spotify.com/album/76UGi97cC4O9r4Sd86CNZ9) | 2:52 | 2023-06-11 | 2026-04-19 |
 | [Mujer De Piedra \- en Vivo](https://open.spotify.com/track/62wAZvEX6hMflSGYfC46xV) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 3:18 | 2022-06-01 | 2022-10-02 |
 | [Más Que Una Diosa \- En Vivo](https://open.spotify.com/track/5UippeEXvcqdB7uMqlndTi) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 3:50 | 2024-06-09 | 2024-06-10 |
 | [Nina De Mis Suenos](https://open.spotify.com/track/59cKhO1nVynbetDKrk7vHR) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 3:13 | 2023-07-13 | 2023-10-11 |
 | [No Me Quejo](https://open.spotify.com/track/2ZBIU7ObY7HGdB5ShPrA98) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [No Me Quejo](https://open.spotify.com/album/1XHBge67A0zqNcND56t6eq) | 4:31 | 2022-06-01 | 2022-06-26 |
 | [No Me Quejo \- En Vivo](https://open.spotify.com/track/3VKGf3HLYL5lqIBmB62aH9) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 4:21 | 2024-06-24 | 2024-07-19 |
 | [No Me Voy a Rajar \- En vivo](https://open.spotify.com/track/6yiRCPwBdcXkLYgHjwRvdq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 2:58 | 2022-06-01 |  |
+| [No Pierdo El Tiempo](https://open.spotify.com/track/78aJh0dduVvZZCm2yalxl5) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [No Pierdo El Tiempo](https://open.spotify.com/album/1Hba8CThcY0Pei12aU9D4v) | 1:58 | 2026-04-19 |  |
 | [No Sé](https://open.spotify.com/track/0pfyzF565wWaWtejcahB1c) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Historias Mal Contadas](https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj) | 2:47 | 2025-11-06 | 2026-01-15 |
 | [PA CONTAR](https://open.spotify.com/track/1sISe1Ec8t61ZjtRC9vC8F) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [PARY](https://open.spotify.com/album/2A2nUmF7VufHsPY6uEiCLh) | 2:36 | 2024-09-08 | 2025-02-21 |
 | [Pa' Andar Relax](https://open.spotify.com/track/4GEx3rzkF42MVcFPLGxGir) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 3:22 | 2022-06-01 | 2023-08-05 |

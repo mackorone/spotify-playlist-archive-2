@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211207,
+  "num_followers": 211201,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAADTYUaDR2DR02e6OTbA858r",
+  "snapshot_id": "aeF4AAAAAAC+obBLWLYMKoqtueuxZn+v",
   "tracks": [
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Big Day",
-        "url": "https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 236685,
-      "name": "Do You Remember",
-      "url": "https://open.spotify.com/track/1PAD54xGsSjUQhbjP12Fg8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "iiiDrops",
         "url": "https://open.spotify.com/album/6McWou8VeXcVNGQVOiqhZd"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 212950,
       "name": "Girls @ (feat. Chance the Rapper)",
       "url": "https://open.spotify.com/track/5p7sELomeqtq9ypH3VeVH1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Big Day",
+        "url": "https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 236685,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/1PAD54xGsSjUQhbjP12Fg8"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3333",
-        "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 153648,
-      "name": "3333",
-      "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Love Letter To You 4 (Deluxe)",
         "url": "https://open.spotify.com/album/6Qb3toNhi0XwcZG43ksJX9"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 229244,
       "name": "I Love You (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/6qEbKsvhAQjV3GfSGn1A8K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3333",
+        "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 153648,
+      "name": "3333",
+      "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,365 songs - 9 day 16 hr 13 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,366 songs - 9 day 16 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4373,5 +4373,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4363 | [Whisper](https://open.spotify.com/track/7r1leXqYXV7VfSRqGBfi5U) | [Shanie T](https://open.spotify.com/artist/2u9AyGn9OFUydnCaJaaTLR) | [Whisper](https://open.spotify.com/album/7fkBnWbR6UjyEJ6yfsn4KW) | 4:49 |
 | 4364 | [Dead End Road](https://open.spotify.com/track/43hAOE3V7rJ6U45EH1mCKC) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [The Sound of Static](https://open.spotify.com/album/1AhJR1phukAEoqH4PwDwKR) | 2:26 |
 | 4365 | [Espectador](https://open.spotify.com/track/1aTD8dSp3ZVaCWnQbr2rM1) | [oitavosounds](https://open.spotify.com/artist/6KuxuULcCuhHl7wn5LYbM8) | [Espectador](https://open.spotify.com/album/0zigtsUnrrMDHrk5a7OpMx) | 3:33 |
+| 4366 | [She \- Radio Mix](https://open.spotify.com/track/7ssoU0Q2YLQpYfVSFodiU3) | [VB](https://open.spotify.com/artist/6bWH9AGbutBmdCkMbwJDjq) | [She](https://open.spotify.com/album/3K0S7jq6J4YZeOuB9at0J0) | 2:48 |
 
-Snapshot ID: `AAAIYzKlQ1J62ILffMtase9jCmTuib4V`
+Snapshot ID: `AAAIZK5vf2zJVJ7ZvN18X2ljg7ggmOy+`

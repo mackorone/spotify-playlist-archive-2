@@ -52,10 +52,32 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 278866,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
+    },
+    {
+      "album": {
+        "name": "Baltimore (Live) (Supershy Remix)",
+        "url": "https://open.spotify.com/album/3WjHY4QxVYjk4PDMNfXOCQ"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266570,
+      "name": "Baltimore - (Live) (Supershy Remix)",
+      "url": "https://open.spotify.com/track/77rUrI2nbSD2oNMHywrTnb"
     },
     {
       "album": {

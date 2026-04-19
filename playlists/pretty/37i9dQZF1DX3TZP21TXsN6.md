@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Lostt, Giegs, Bastosz, Sam J’taime, Yenko Forever en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,118 likes - 68 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,108 likes - 68 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 22 | [Akra](https://open.spotify.com/track/2cLyTplobCeuuLRmgFLz2g) | [A3](https://open.spotify.com/artist/2vqe7PjQMa8qluZUGfWUML) | [Akra](https://open.spotify.com/album/0ysCYpGqXFgs51zBWn8cCb) | 2:37 |
 | 23 | [Cake](https://open.spotify.com/track/4w65ppskvJk8GDQeykKJyY) | [Serra.C](https://open.spotify.com/artist/35kQzCbR6dRZjEDHambWvJ), [Marrie Mar](https://open.spotify.com/artist/2Y143LRuHJkNwCj5JkvCiI) | [Cake](https://open.spotify.com/album/3Yv8JhDr7eE8aYmYqtKHr5) | 3:15 |
 | 24 | [Lyca To Lyca](https://open.spotify.com/track/1yCna97xE3ifKHgBL2XW2O) | [PN](https://open.spotify.com/artist/2R3ccmRzKs416pa2YAUYc1), [Dayvoo](https://open.spotify.com/artist/3Y7dSW6r0DdlIMpj8EnjAl) | [Lyca To Lyca](https://open.spotify.com/album/1d7tPw8oqwOKMjLt1G81wk) | 2:14 |
-| 25 | [Verliezen om te Winnen](https://open.spotify.com/track/4sakVtbZaqpPue29CBQoJJ) | [GHOST](https://open.spotify.com/artist/2aA1Hi70LYeBVC8HQbsMC7) | [Verliezen om te Winnen](https://open.spotify.com/album/5FAKcWvHyLZmMnG9qSJ8Tx) | 4:00 |
+| 25 | [Verliezen om te Winnen](https://open.spotify.com/track/4sakVtbZaqpPue29CBQoJJ) | [GHOST](https://open.spotify.com/artist/2aA1Hi70LYeBVC8HQbsMC7), [Mart](https://open.spotify.com/artist/4kATRtTxn3JSJMjZuIV3AV) | [Verliezen om te Winnen](https://open.spotify.com/album/5FAKcWvHyLZmMnG9qSJ8Tx) | 4:00 |
 | 26 | [DODODO](https://open.spotify.com/track/3HmN9ZuyIVhKaOAFmm80DD) | [YG24](https://open.spotify.com/artist/3A16zm3oPSNnetOrwp0TU6), [Miero YIC](https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ) | [DODODO](https://open.spotify.com/album/5S9MdnXk4pWD8A73GtONXG) | 2:33 |
 | 27 | [Stap voor stap](https://open.spotify.com/track/5m9XaGwEfUcQoQTJ1rMY1z) | [Rocks](https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q) | [Stap voor stap](https://open.spotify.com/album/78Vxyyy9FOIzpcX9lxL9S2) | 3:19 |
 | 28 | [Moete Doen](https://open.spotify.com/track/2KlhWRehUl8XHuhdLN6PhA) | [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5), [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE) | [Moete Doen](https://open.spotify.com/album/2XnaxjLfhQFJSRFvDDd43u) | 2:38 |

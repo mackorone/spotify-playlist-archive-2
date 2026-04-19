@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-301 songs - 17 hr 27 min
+306 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A different face](https://open.spotify.com/track/2Rg295NxrG2fN2HQcvAfib) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 4:12 | 2026-02-28 | 2026-04-16 |
 | [A Little More](https://open.spotify.com/track/39mJ62IPCsaG7X7GvH707H) | [Ella Kenz](https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e) | [A Little More](https://open.spotify.com/album/3aVIlpVQ7ZCyRqcI5JrCq5) | 3:16 | 2026-02-19 | 2026-04-16 |
 | [a place](https://open.spotify.com/track/0B10EkMCSLvpyLffiuRPMt) | [Tex M](https://open.spotify.com/artist/2UdABJUkfJ2hQEERZhhkUq) | [Not All Eyes Are Green](https://open.spotify.com/album/5uIS1c0hRQZY3H8eIHNCrJ) | 1:47 | 2026-02-25 | 2026-04-16 |
+| [A Street](https://open.spotify.com/track/3z9yp7Rf4hHccBKJ15QXuF) | [Forget Me Not](https://open.spotify.com/artist/6LO7ktGmsVjiuIyJ7PinHk) | [A Street](https://open.spotify.com/album/4sIoa5yZuLQJufrMtCCLZe) | 2:45 | 2026-04-18 |  |
 | [A Westerner Walks Into a Bar](https://open.spotify.com/track/4IlGkkdxTr3K5lLTaCp24c) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [A Westerner Walks Into a Bar](https://open.spotify.com/album/7tXNOVaRneDR2voDiiO8B7) | 3:31 | 2025-11-19 | 2026-01-17 |
 | [Alternative Ulster](https://open.spotify.com/track/5SVn3rhLXevK8FsM73yN0b) | [The Manky Melters](https://open.spotify.com/artist/7eeVrnLC5YwCslvhxGTVuF) | [Alternative Ulster](https://open.spotify.com/album/4wZLd7iVyTOsJtoe491Spj) | 3:38 | 2026-04-12 |  |
 | [Altrove](https://open.spotify.com/track/1Eu21yhj8lLYfAUkfIG60A) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/0CJWJRcXmh5ZaKmccgdgHc) | 3:24 | 2026-03-04 | 2026-04-16 |
@@ -27,6 +28,7 @@
 | [Badly Scripted Film](https://open.spotify.com/track/4Si8TfDhpe7nYnDbG0WMP2) | [Grae Taylor](https://open.spotify.com/artist/5CNQyudyZMr34ru2t7MlFf) | [Badly Scripted Film](https://open.spotify.com/album/4dZqhfjWiAI1Q19Q19ZZx7) | 3:23 | 2026-03-04 | 2026-04-16 |
 | [Balance Beam](https://open.spotify.com/track/2is6Cz1SwoK5fGHUWhP8w3) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Balance Beam](https://open.spotify.com/album/0sZdU9ijHsmLCCAvruEESL) | 2:55 | 2026-03-09 | 2026-04-16 |
 | [Bandages and Promises](https://open.spotify.com/track/0zQDOqHLjwK2Hueyih0jkJ) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [Bandages and Promises](https://open.spotify.com/album/1N9bcji8icEHSbhyVEfPG8) | 3:25 | 2026-02-08 | 2026-03-29 |
+| [Be the Star That You Are](https://open.spotify.com/track/48hhpEl3Q2f4sL4kMsHC8R) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Be the Star That You Are](https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0) | 3:09 | 2026-04-18 |  |
 | [Beautiful Fear](https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Beautiful Fear](https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD) | 3:52 | 2026-01-28 | 2026-03-10 |
 | [Bir Kent Rüyası](https://open.spotify.com/track/5Ww3NzsitV8ZlrGRF8FwRL) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Bir Kent Rüyası](https://open.spotify.com/album/5AoC8tcQtcs5mKXQAih72z) | 3:05 | 2026-02-10 | 2026-03-29 |
 | [Blanket Dreams](https://open.spotify.com/track/2tBYXZBymRJRGMMH9t1oF2) | [Baggs](https://open.spotify.com/artist/44k6sRhRRAW6Uy85KCr9Ti) | [Blanket Dreams](https://open.spotify.com/album/4M47wTUTOrVeFg50G5cXbl) | 3:34 | 2026-04-14 |  |
@@ -80,6 +82,7 @@
 | [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 | 2026-04-08 |  |
 | [Dread I](https://open.spotify.com/track/3UuW770UnKreeAefbKpsnj) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [Dread I](https://open.spotify.com/album/5tB4LFPdB8FhHKhiqTlBIR) | 3:51 | 2026-03-26 |  |
 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 | 2026-01-20 | 2026-02-20 |
+| [Dream Like You](https://open.spotify.com/track/2JuPjDUNTsDCm5PlYIEShh) | [Carelessly](https://open.spotify.com/artist/3laL9LL6X7GkWJDrmUxI7Z) | [Winter](https://open.spotify.com/album/3BuDRZZfYcLaH8jNOKSRsG) | 3:27 | 2026-04-18 |  |
 | [DREAMER](https://open.spotify.com/track/49lM9TyblTaosHpdPkc05O) | [Hikado](https://open.spotify.com/artist/6lDxbnDDJ8j8lS38VP6swA) | [DREAMER](https://open.spotify.com/album/27aHMfzeKvauniQ4iB2MvY) | 3:35 | 2026-02-08 |  |
 | [Dreaming of Injured Popstars '25](https://open.spotify.com/track/2JquSuR6JlfaCulVG9HGkV) | [Intoxicated Pigeon](https://open.spotify.com/artist/6fbh8Dv01mwKXuD9AkPTgx), [Lewis Mckale](https://open.spotify.com/artist/6yTP6bdkiI5MubxbfPiF7e), [Oxygen Thief](https://open.spotify.com/artist/0lSgqe7J1XKN7hZhaPHBs5) | [Dreaming of Injured Popstars '25](https://open.spotify.com/album/6LbYdmnpJrZ0JoktjZgcD7) | 4:53 | 2025-11-09 | 2026-01-17 |
 | [Dreaming of you](https://open.spotify.com/track/470owFy9zXfoCVqXlWgOX4) | [Huggis Hill](https://open.spotify.com/artist/4w4L2XzPmIkhX5eP35IP7c) | [Dreaming of you](https://open.spotify.com/album/3TBYX9eWTrcy6ehh9U4E6N) | 3:13 | 2026-02-10 | 2026-03-29 |
@@ -126,6 +129,7 @@
 | [Hold On Til You Let Go \(Tourist Version\)](https://open.spotify.com/track/7nkBhPsOjWRjvTGZI1DPyz) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Hold On Til You Let Go](https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf) | 3:03 | 2025-12-23 | 2026-03-20 |
 | [holdingontosafety](https://open.spotify.com/track/4OJBealebm7hhRuyj2xGyt) | [vixxen](https://open.spotify.com/artist/3qkdIvVd0yfwaW8VxHHxdE) | [holdingontosafety](https://open.spotify.com/album/122NulHFFZ34lnasM1rBnR) | 2:42 | 2025-10-28 | 2025-12-12 |
 | [Hoping to Find](https://open.spotify.com/track/6RbmNoCjfOWlyyWe7nOVUX) | [Empty Melon](https://open.spotify.com/artist/1u5HkdqkmbCZD4R5FJK6Rq), [Samson Wrote](https://open.spotify.com/artist/4I9Z8sIw2vkXNvEptJ6klg) | [Hoping to Find](https://open.spotify.com/album/5jPUl5s7s3VQvnPaZfK3Wu) | 3:13 | 2026-03-21 |  |
+| [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/track/1QFmP5yTicfkV52OjzJRqD) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/album/1LttVa39jjMMHbKWXsKujT) | 3:59 | 2026-04-18 |  |
 | [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 | 2026-02-08 | 2026-03-29 |
 | [I Gave It All For You](https://open.spotify.com/track/0I2olXnVSONShdDVSZmofa) | [Will Sims](https://open.spotify.com/artist/4VqIqqCAubwTlYYIQ2baD5) | [I Gave It All For You](https://open.spotify.com/album/5eiIXuyFyUmzcFQwbjhOFC) | 3:49 | 2026-03-10 | 2026-04-16 |
 | [I Heard You](https://open.spotify.com/track/7mXEeXZHgJADXpA6sibuEA) | [Moonsette](https://open.spotify.com/artist/1KtNJP9zW7ZZIByvCCPwnF) | [Invisible Chameleon](https://open.spotify.com/album/6qJ2aQIuviVelqtS7pgPpx) | 5:15 | 2026-02-09 | 2026-03-29 |
@@ -136,6 +140,7 @@
 | [I.if only i could get next to you](https://open.spotify.com/track/3pJmDvcs4mQycH2R5RGhnZ) | [Rafael Vaza](https://open.spotify.com/artist/10fjJKlE2xKlUlmjSiVyFj) | [the electrojazz of rafael vaza or the unexpectable heartbreak clichê](https://open.spotify.com/album/2QHhijjY9eGI0rEd7K2U6r) | 1:41 | 2026-04-02 |  |
 | [Icarus Waltz](https://open.spotify.com/track/37qu1BN6eNFBhLQzw5yL6H) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Icarus Waltz](https://open.spotify.com/album/1wezJ1s8GGRj9dgPHOWJD4) | 2:48 | 2025-10-23 | 2026-03-10 |
 | [Ich werd nicht weniger](https://open.spotify.com/track/0fcuM80u8rmO19kZzWMbyU) | [Brave Bones](https://open.spotify.com/artist/2GnTqVSfxKobyNlwTMKsMg) | [Ich werd nicht weniger](https://open.spotify.com/album/6ofFw6HJRpOVMzmUl3Svjd) | 2:48 | 2026-04-02 |  |
+| [Ides Of March](https://open.spotify.com/track/4Rq5Ytad92LP8xHIf0WhKf) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [Morgan S Oteric](https://open.spotify.com/artist/0LvGEKR2OwTW2k6LDbxO7X) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:33 | 2026-04-18 |  |
 | [Idle Stranger](https://open.spotify.com/track/11S6dH5Sklh1cE0UrmvlKl) | [Miccoli](https://open.spotify.com/artist/5k6ayjMCjG9Dyjkrnjwijv) | [Idle Stranger](https://open.spotify.com/album/1TbYvKKwBIqu9zesWejWRk) | 3:46 | 2025-10-24 | 2025-12-12 |
 | [If I Go Missin’](https://open.spotify.com/track/3koc8F4pJ8i4iuCl4NerLk) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [If I Go Missin’](https://open.spotify.com/album/2g0zHOLzQcbsxYw8TlE7XJ) | 3:40 | 2026-04-06 |  |
 | [in my bones](https://open.spotify.com/track/6vSNVLse9DXY8U2GUP0UgB) | [purr grief](https://open.spotify.com/artist/23WsCrFd5z85zpuxX6SCQI) | [superficial bliss](https://open.spotify.com/album/0L2BOFYomdaG0xhNoaoQJ4) | 4:49 | 2026-02-02 | 2026-03-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,141 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,184 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 149 | [Sweet Kentucky Ham](https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Listen Here](https://open.spotify.com/album/6HxEtUKHed375P0sYGEHBD) | 5:41 |
 | 150 | [I Didn't Know About You](https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn) | [Jocelyn Barth](https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX) | [Tell Him I Said Hello](https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J) | 4:26 |
 
-Snapshot ID: `AAAAAB9Juu0kIn44JF8jonHZY4fHO1G9`
+Snapshot ID: `AAAAAGl2zLsQe5qJdj3WiLlT9tYJCARF`

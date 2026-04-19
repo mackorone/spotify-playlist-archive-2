@@ -714,7 +714,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 236843,
       "name": "Bad Vibes",
       "url": "https://open.spotify.com/track/3s6DOP7T21I2hhwab5RZOb"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 305441,
       "name": "Below the Western Steppe",
       "url": "https://open.spotify.com/track/0O9ON4NlRXOrC3LwqeXEuO"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 224163,
       "name": "Bleed (Everything You Bury)",
       "url": "https://open.spotify.com/track/2cccKUd5qsD6l4bM9bxHZV"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 156980,
       "name": "Calling the Rain",
       "url": "https://open.spotify.com/track/2zixwyPGq4YuqVUuPbWEa8"
@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 257091,
       "name": "Contain",
       "url": "https://open.spotify.com/track/4HLd3nCtsvfoETEr2FtWr9"
@@ -2098,7 +2098,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 178620,
       "name": "Crawling",
       "url": "https://open.spotify.com/track/0ATbpAMWPEoIroFXMA2tDA"
@@ -2414,6 +2414,24 @@
       "duration_ms": 216000,
       "name": "Dark Lovers",
       "url": "https://open.spotify.com/track/5rkn70pnzuzxsh764uayEx"
+    },
+    {
+      "album": {
+        "name": "Cold Cause",
+        "url": "https://open.spotify.com/album/0t2QVLoQzEXmjRdXugmFi5"
+      },
+      "artists": [
+        {
+          "name": "Cold Cause",
+          "url": "https://open.spotify.com/artist/3VkVlQYQnXDvgGRktDZhZN"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321300,
+      "name": "Dark Madonna",
+      "url": "https://open.spotify.com/track/1dK4d8uwac3qswYbUKpzxz"
     },
     {
       "album": {
@@ -3164,7 +3182,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 250139,
       "name": "Eye For An Eye",
       "url": "https://open.spotify.com/track/6EyzhcKyRGTCUTVFaOg1Oe"
@@ -3312,7 +3330,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -3366,7 +3384,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 132250,
       "name": "Fear Of extinction",
       "url": "https://open.spotify.com/track/2HF3Ro2XlnqP1S5iFzxSQd"
@@ -4286,7 +4304,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 169102,
       "name": "Heaven's Gate - Male Tears Remix",
       "url": "https://open.spotify.com/track/6SGuhXSDqfm6Dwv2KxrO9S"
@@ -4358,7 +4376,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 176397,
       "name": "Here I Come & Go - Again Remix",
       "url": "https://open.spotify.com/track/42QDXQumDPrDdZfO6XjIst"
@@ -4380,6 +4398,24 @@
       "duration_ms": 240953,
       "name": "Heroes + Legends",
       "url": "https://open.spotify.com/track/4G0ocrIIcqnYYpnCoeIsEZ"
+    },
+    {
+      "album": {
+        "name": "Chasing Desire",
+        "url": "https://open.spotify.com/album/6lfx5CwRgWeV0wmULh2Dam"
+      },
+      "artists": [
+        {
+          "name": "Esya",
+          "url": "https://open.spotify.com/artist/0uSZKksJSS8sAUZKHX2YQ5"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214418,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/0eOKiRhonvHAeMXepxwatB"
     },
     {
       "album": {
@@ -4956,7 +4992,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "Innocent Smile",
       "url": "https://open.spotify.com/track/3Zyxr5jVP7wYUMumD5S4uy"
@@ -5472,7 +5508,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 280465,
       "name": "La nuit",
       "url": "https://open.spotify.com/track/1zxgApHJwCNwnCI0e2oiqK"
@@ -5844,7 +5880,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 236615,
       "name": "Long Distance to Go",
       "url": "https://open.spotify.com/track/5CpzD2bjv4G7R7xZsg7jCL"
@@ -6757,6 +6793,24 @@
     },
     {
       "album": {
+        "name": "No Lock, No Prayer",
+        "url": "https://open.spotify.com/album/7AiLvbYmoHveZmeRaTsTvX"
+      },
+      "artists": [
+        {
+          "name": "Snarls",
+          "url": "https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141016,
+      "name": "No Lock, No Prayer",
+      "url": "https://open.spotify.com/track/5jbUTMJKGtUGdLqrlMdYpK"
+    },
+    {
+      "album": {
         "name": "No Music No Hope",
         "url": "https://open.spotify.com/album/3qPwdu2NmukznO4wpcE3wR"
       },
@@ -6988,7 +7042,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "Old Photo (Here We Are)",
       "url": "https://open.spotify.com/track/6yEsX8zRnPaJJtleNERha9"
@@ -7078,7 +7132,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 187984,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/0HUuA0SKzCoHvvc8YabRyi"
@@ -7776,7 +7830,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 178205,
       "name": "Reishi (Dark Forest Mix)",
       "url": "https://open.spotify.com/track/1DmqcIAhNDjZWAkQiSnQkp"
@@ -7866,7 +7920,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 186549,
       "name": "Robey Ven",
       "url": "https://open.spotify.com/track/242Lof3nt3f8rFgauer135"
@@ -8144,7 +8198,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -8162,7 +8216,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 207719,
       "name": "Save Me From Myself",
       "url": "https://open.spotify.com/track/6b33R3VZm5QjqiKZ91z0cy"
@@ -8718,7 +8772,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 248000,
       "name": "Slipping away",
       "url": "https://open.spotify.com/track/67iGteenwJZQbZJ4yTBb2m"
@@ -9026,7 +9080,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/0xClyT50QEG0EwFYsg2xds"
@@ -9340,7 +9394,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 225640,
       "name": "Sugar Baby",
       "url": "https://open.spotify.com/track/6ZtLXd2xnNKVmU3I9OCKJ3"
@@ -10042,7 +10096,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 173338,
       "name": "The Secret of the Future",
       "url": "https://open.spotify.com/track/7uuwXkk4WloEcCsB4DsUFZ"
@@ -11898,7 +11952,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 232040,
       "name": "Your Blood Is Like Mine",
       "url": "https://open.spotify.com/track/68DA4SFMI6X3c9KWuAt9sR"

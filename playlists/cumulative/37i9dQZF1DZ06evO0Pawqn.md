@@ -4,7 +4,7 @@
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 17 min
+102 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Extrana Manera](https://open.spotify.com/track/5vhHAeK0rdm95eoJOf5ZPr) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Para Mi Reina](https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM) | 3:19 | 2022-06-01 |  |
 | [Extravio](https://open.spotify.com/track/4WpmldTXZXmy2n2SQi3HQE) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 2:57 | 2022-06-01 |  |
 | [Hasta La Miel Amarga](https://open.spotify.com/track/0zcRfgwJ7dIo5guaUvwWkk) | [Implakable](https://open.spotify.com/artist/0UJHlgBowbuWuVbXNJHV9H), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [No Me Dejes Ir](https://open.spotify.com/album/175Awxw7acwFNSc8yeM8ja) | 3:28 | 2024-11-15 | 2026-02-19 |
+| [Hasta La Miel Amarga](https://open.spotify.com/track/4NFMdFJa9j2hWlzrnQqtGF) | [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hasta La Miel Amarga](https://open.spotify.com/album/5q7zBcS4853Hlg6hbyMiBu) | 3:29 | 2026-04-19 |  |
 | [Hasta la Miel Amarga](https://open.spotify.com/track/1Q1yISpMwHLn4SMo6VJVaa) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ) | 3:36 | 2022-06-01 |  |
 | [Hasta La Miel Amarga & Extraña Manera](https://open.spotify.com/track/6a6LOgQFM0O4exGSr5uDHX) | [Bruno De Jesus](https://open.spotify.com/artist/2bevLvZC0Ojh6iqoPFWkl5), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hasta La Miel Amarga & Extraña Manera](https://open.spotify.com/album/4GSnBxcBfniX4WICyPGl9i) | 5:35 | 2022-06-01 | 2022-06-10 |
 | [Hasta La Miel Amarga \(En vivo\)](https://open.spotify.com/track/09svmcMAbgXvCsP1kMsLjj) | [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hasta La Miel Amarga \(En vivo\)](https://open.spotify.com/album/4CiA8UW1cPEuZAg32uBjAp) | 3:29 | 2024-01-07 | 2024-06-10 |
@@ -82,7 +83,7 @@
 | [Nosotros Tambien Podemos](https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Para Mi Reina](https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM) | 3:30 | 2022-06-01 |  |
 | [Nuestro Amor Es Grande](https://open.spotify.com/track/4vLBtIwx14pBMasSo7DTNc) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De la Tierra al Cielo VII](https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh) | 3:07 | 2022-06-01 |  |
 | [Pa Que Son Pasiones](https://open.spotify.com/track/0PmXgjgZy8Frdn8jR7X3bA) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Coleccion de Oro 15 Exitos](https://open.spotify.com/album/3jXVXkRUuiAcw4KuRi36ca) | 3:23 | 2026-03-12 |  |
-| [Para la Reina](https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Para Mi Reina](https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM) | 3:20 | 2022-06-01 |  |
+| [Para la Reina](https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Para Mi Reina](https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM) | 3:20 | 2022-06-01 | 2026-04-19 |
 | [Para Morir Iguales](https://open.spotify.com/track/4toc0zrnlmaPUTeo9YKD5w) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:14 | 2022-06-01 |  |
 | [Pedro Aviles](https://open.spotify.com/track/4EhH2po4Y3ljEBIGZit5Qv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:31 | 2022-06-15 | 2022-07-21 |
 | [Por Una Mujer Bonita](https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Exitos De Oro](https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ) | 3:12 | 2022-06-01 |  |

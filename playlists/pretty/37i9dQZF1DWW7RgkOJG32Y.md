@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Trending for a reason \- the home of country's future monster hits\. Cover: Ty Myers
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,168 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,280 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 49 | [Your Place At My Place](https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Thinking Too Much](https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1) | 3:36 |
 | 50 | [I Own This Bar](https://open.spotify.com/track/7McpXsVRxUPpusgneIUFJE) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [I Own This Bar](https://open.spotify.com/album/2zfkAS4GOOM29LplPyedEz) | 3:12 |
 
-Snapshot ID: `AAAAANUBKvWHETMgPFl33aHxk8CdxAaE`
+Snapshot ID: `AAAAADGdNfrjeZEPThK+CWx7HyE2XfGt`

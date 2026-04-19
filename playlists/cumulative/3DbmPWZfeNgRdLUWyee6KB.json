@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Balorda nostalgia",
+        "url": "https://open.spotify.com/album/4disZdaEkZIGag3qTJfiWV"
+      },
+      "artists": [
+        {
+          "name": "Michele Blasco",
+          "url": "https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195098,
+      "name": "Balorda nostalgia",
+      "url": "https://open.spotify.com/track/2K5ijyYylUoDEYMYxz5E95"
+    },
+    {
+      "album": {
         "name": "Barangkali",
         "url": "https://open.spotify.com/album/0vU6fCXy7OZHfM3cdfWQXt"
       },

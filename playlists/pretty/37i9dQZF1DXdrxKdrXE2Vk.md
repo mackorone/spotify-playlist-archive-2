@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Amanda Cook
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,612 likes - 75 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,650 likes - 75 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 74 | [Cathedral \- Live](https://open.spotify.com/track/7giKwleQHQ0rDMZnypzWej) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r), [Cageless Birds](https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR) | [Cathedral \(Live\)](https://open.spotify.com/album/7fROF1qFAmHeUvzAhVfkJj) | 5:56 |
 | 75 | [The Commission \- Live](https://open.spotify.com/track/3ss1iIaEN29yujcQf48ujO) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [The Commission \(Live\)](https://open.spotify.com/album/2KUoF56KCelukYtMprpuex) | 6:59 |
 
-Snapshot ID: `AAAAAHr6SyhOa5zg6JZqkxSHApokbJyW`
+Snapshot ID: `AAAAANpW5uRAR0mH5UIB9E/UxY/xGHQo`

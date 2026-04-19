@@ -4,13 +4,14 @@
 
 > This is Nina Simone\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 44 min
+67 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't Got No \- I Got Life \(From the musical production "Hair"\)](https://open.spotify.com/track/5VgcM58bybW45T2WgTdbeY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | ['Nuff Said \(Expanded Edition\)](https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg) | 2:07 | 2025-07-20 |  |
 | [Backlash Blues](https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:28 | 2025-07-20 |  |
-| [Baltimore](https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Baltimore](https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS) | 4:38 | 2025-07-20 |  |
+| [Baltimore](https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Baltimore](https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS) | 4:38 | 2025-07-20 | 2026-04-19 |
+| [Baltimore \- \(Live\) \(Supershy Remix\)](https://open.spotify.com/track/77rUrI2nbSD2oNMHywrTnb) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Baltimore \(Live\) \(Supershy Remix\)](https://open.spotify.com/album/3WjHY4QxVYjk4PDMNfXOCQ) | 4:26 | 2026-04-19 |  |
 | [Be My Husband](https://open.spotify.com/track/4ZFwqrpTFL9dRMDSyIH262) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 3:20 | 2025-07-20 |  |
 | [Black Is The Color Of My True Love's Hair \- Jaffa Remix](https://open.spotify.com/track/5ituU6SebgZBAkS0YnbVre) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Jaffa](https://open.spotify.com/artist/2KmAZfz1aJ4On70lLseFHt) | [Verve Remixed 2](https://open.spotify.com/album/0jZihpxJOMBTJ51wRN0Uje) | 4:57 | 2025-07-20 |  |
 | [Blues for Mama](https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 3:55 | 2025-07-20 |  |

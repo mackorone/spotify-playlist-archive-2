@@ -4,7 +4,7 @@
 
 > This is sombr\. The essential tracks, all in one playlist.
 
-33 songs - 1 hr 57 min
+34 songs - 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [never find u](https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [never find u](https://open.spotify.com/album/5pgZ9HbqybhEsQ2SuOGZfG) | 2:46 | 2025-12-30 |  |
 | [nothing left to say](https://open.spotify.com/track/5wHxolLhv57y3eGKtndvwE) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [nothing left to say](https://open.spotify.com/album/5Tm8qe8ULxBORiRswEbuNU) | 3:40 | 2025-12-30 |  |
 | [perfume](https://open.spotify.com/track/4l0CzhzfGxQBPTbknrq427) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [perfume](https://open.spotify.com/album/7FUdBkpRnlJxHYxlkzka5i) | 3:11 | 2025-12-30 |  |
+| [Potential](https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Potential](https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5) | 4:02 | 2026-04-19 |  |
 | [savior](https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [savior](https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp) | 3:00 | 2025-12-30 |  |
 | [silhouette](https://open.spotify.com/track/5jCv6lP0L05g8GcRTYLCIE) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [silhouette](https://open.spotify.com/album/3oIahIvFl1nQjfzoJrdP7Y) | 4:16 | 2025-12-30 |  |
 | [through it all](https://open.spotify.com/track/6JHe836Jxc4Uilqe7fR5zJ) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [through it all](https://open.spotify.com/album/721nbCDpYtdceidRoJAOki) | 3:30 | 2025-12-30 |  |

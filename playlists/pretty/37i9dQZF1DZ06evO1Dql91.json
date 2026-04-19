@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 2479,
+  "num_followers": 2477,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAABssja0QAcUqC+mfw26kFeE",
+  "snapshot_id": "aeF4AAAAAADl2N7Vn12L0WaDTsLHfSry",
   "tracks": [
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 309837,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/49mqv6YBQ0clzBmD8r2frU"
+      "duration_ms": 256367,
+      "name": "Pink Sky",
+      "url": "https://open.spotify.com/track/1Wv8Mo6yzMr5RLdJYA3Els"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 256367,
-      "name": "Pink Sky",
-      "url": "https://open.spotify.com/track/1Wv8Mo6yzMr5RLdJYA3Els"
+      "duration_ms": 309837,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/49mqv6YBQ0clzBmD8r2frU"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 234356,
-      "name": "Raindrops Keep Falling On My Head",
-      "url": "https://open.spotify.com/track/4PFh0a7r03jCNHtj69mvA3"
+      "duration_ms": 269909,
+      "name": "Love Is Watching",
+      "url": "https://open.spotify.com/track/65xhNReVnrQevKNnC3xgbm"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 269909,
-      "name": "Love Is Watching",
-      "url": "https://open.spotify.com/track/65xhNReVnrQevKNnC3xgbm"
+      "duration_ms": 234356,
+      "name": "Raindrops Keep Falling On My Head",
+      "url": "https://open.spotify.com/track/4PFh0a7r03jCNHtj69mvA3"
     },
     {
       "added_at": null,

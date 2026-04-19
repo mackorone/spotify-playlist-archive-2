@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,037 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,032 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 99 | [AIGHT \(feat\. Shelley FKA DRAM\)](https://open.spotify.com/track/671qYsHx1DL1pNn3qxYg60) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [AIGHT \(feat\. Shelley FKA DRAM\)](https://open.spotify.com/album/5DYcaafg3wKwL7jAvRRPzC) | 2:44 |
 | 100 | [My Favorite Song](https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Taylor Allderdice](https://open.spotify.com/album/5cpYhM2NdVjJXMy9uZhD2J) | 3:52 |
 
-Snapshot ID: `AAAAAFtgooWU8fYU6ipCwaB8M2a8GytB`
+Snapshot ID: `AAAAAN5XThuuji59JcqYg0wKCayl7We5`

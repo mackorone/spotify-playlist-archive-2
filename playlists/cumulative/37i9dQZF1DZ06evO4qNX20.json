@@ -909,6 +909,28 @@
     },
     {
       "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179211,
+      "name": "Los Chismes",
+      "url": "https://open.spotify.com/track/7e19QPeRUqvRrdoBjEHkU3"
+    },
+    {
+      "album": {
         "name": "Recordando A Chalino",
         "url": "https://open.spotify.com/album/0p091X45za7loFjKaHPLaj"
       },
@@ -924,10 +946,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 179211,
       "name": "Los Chismes",
       "url": "https://open.spotify.com/track/7vafql00S0tEJ8tPpRZFFz"
+    },
+    {
+      "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Lucero Negro",
+      "url": "https://open.spotify.com/track/4jFiwrmMjzyawUvrjzLQU9"
     },
     {
       "album": {
@@ -990,7 +1030,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 225686,
       "name": "Mart\u00edn F\u00e9lix",
       "url": "https://open.spotify.com/track/3XNqQX6K1HiQDR5f6RgOyx"

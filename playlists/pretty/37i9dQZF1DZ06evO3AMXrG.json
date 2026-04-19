@@ -1,13 +1,29 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 249009,
+  "num_followers": 249035,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAABZoSWtmVrqCVZ0nxyXpUB4",
+  "snapshot_id": "aeF4AAAAAAAzyEwtII0oWszBmqx7GHVd",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/256bVkeTRjNNDaZL1hOtUV"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 250347,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/46kTKtI83CZZfGadbVe9Cu"
+    },
     {
       "added_at": null,
       "album": {
@@ -835,22 +851,6 @@
       "duration_ms": 307720,
       "name": "La Musica",
       "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ideas Nuevas",
-        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "La Otra Galaxia",
-      "url": "https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV"
     }
   ],
   "unique_name": "This Is Cultura Prof\u00e9tica",

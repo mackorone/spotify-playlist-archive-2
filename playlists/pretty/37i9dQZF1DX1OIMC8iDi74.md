@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 👑 with Dillon Francis
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,069 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,051 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Make You Move](https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Make You Move](https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr) | 2:24 |
 | 2 | [Zouki](https://open.spotify.com/track/4fi51l6vEHfAbq0vieFpMF) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Zouki](https://open.spotify.com/album/3riFmoDuxNNUwMa4pZtIdS) | 2:38 |
 | 3 | [Bass Down Low \(feat\. DEV\) \[Trap Version\]](https://open.spotify.com/track/6ww3QtV3wV0qBfgYCfFu3C) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Bass Down Low \(feat\. DEV\) \[Trap Version\]](https://open.spotify.com/album/3bi9DlUjl64Rcd6gMddtek) | 2:46 |
-| 4 | [Nexus](https://open.spotify.com/track/7Db3ixbu5fo3uUZ2ZyQDKW) | [G\-REX](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb) | [Nexus](https://open.spotify.com/album/7FohOMeifnnZOsoDFOybRZ) | 2:31 |
+| 4 | [NEXUS](https://open.spotify.com/track/7Db3ixbu5fo3uUZ2ZyQDKW) | [G\-REX](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb) | [NEXUS](https://open.spotify.com/album/7FohOMeifnnZOsoDFOybRZ) | 2:31 |
 | 5 | [Born Again](https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Born Again](https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7) | 2:38 |
 | 6 | [move! \(that body\)](https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [CHARIOT](https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA) | 2:24 |
 | 7 | [Hollow](https://open.spotify.com/track/2x7yuFzNDoD2BABAlZEk2L) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hollow](https://open.spotify.com/album/6cuJMnp9mc3QMtvtveBwvz) | 3:34 |

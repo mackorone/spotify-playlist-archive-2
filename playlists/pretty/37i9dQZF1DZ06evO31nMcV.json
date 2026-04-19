@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 25417,
+  "num_followers": 25473,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAABsf9pWqJZMlHzCp5rMaYPs",
+  "snapshot_id": "aeF4AAAAAABlJG9uy1+IgWmumy8qURQY",
   "tracks": [
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stolen Lullabies",
-        "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
-      },
-      "artists": [
-        {
-          "name": "The Gagliano Strings",
-          "url": "https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO"
-        },
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "The Journey",
-      "url": "https://open.spotify.com/track/0GErrpZaCNudZ4tzImWndx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
@@ -683,18 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+        "name": "Stolen Lullabies",
+        "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
       },
       "artists": [
+        {
+          "name": "The Gagliano Strings",
+          "url": "https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO"
+        },
         {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 238510,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK"
+      "duration_ms": 134040,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/0GErrpZaCNudZ4tzImWndx"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 233530,
       "name": "Heartbeats - Solo Piano Version",
       "url": "https://open.spotify.com/track/2MLNOCTrPGCgnfiBCosdB2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 238510,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK"
     },
     {
       "added_at": null,

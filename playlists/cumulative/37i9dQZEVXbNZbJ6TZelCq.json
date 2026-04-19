@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 132892,
       "name": "Aladam",
       "url": "https://open.spotify.com/track/0M1WfCxDACdVUqPYk4nCNf"
@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 147038,
       "name": "Ale ale",
       "url": "https://open.spotify.com/track/5pClmo7Su4lXAzDOE5MSPA"
@@ -7258,7 +7258,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 155250,
       "name": "B\u0103ie\u021bi de Ora\u0219 - From \"B\u0103ie\u021bi De Ora\u0219 | Golden Boyz\" The Movie",
       "url": "https://open.spotify.com/track/33XJD6EhI9Od8gFhLsbdGi"
@@ -12262,7 +12262,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 203182,
       "name": "Din Corason",
       "url": "https://open.spotify.com/track/0y2dfDgJaRckH48vI1YIVH"
@@ -13375,6 +13375,24 @@
     },
     {
       "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "album": {
         "name": "DAYS BEFORE RODEO",
         "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
       },
@@ -13816,7 +13834,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 102000,
       "name": "E TA LA VIA",
       "url": "https://open.spotify.com/track/1QjEQL1vUyI4FSOpjyYy5S"
@@ -18822,7 +18840,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 124800,
       "name": "Hai la mine in BMWU",
       "url": "https://open.spotify.com/track/6Ga4vojgiRyVjkiPqQvo19"
@@ -24428,7 +24446,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 205946,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
@@ -29656,7 +29674,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 179477,
       "name": "NEW YORK",
       "url": "https://open.spotify.com/track/1izIwskWBBffJJK9NqV6JD"
@@ -30438,7 +30456,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 131368,
       "name": "Nu m\u0103 las\u0103 \u00een pace",
       "url": "https://open.spotify.com/track/4nswoiGHjYF3ufTPpr5SC9"
@@ -35208,7 +35226,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 139236,
       "name": "Putaria",
       "url": "https://open.spotify.com/track/5qLHgcv6NujmTJkNpSdec7"
@@ -42664,7 +42682,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 176386,
       "name": "Talentul ala fin",
       "url": "https://open.spotify.com/track/2ftaktO6DSSPwXkoZkf4dI"
@@ -43022,7 +43040,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 163764,
       "name": "Te plac, te pup",
       "url": "https://open.spotify.com/track/57UeZZXteJZVp22stEyS4a"
@@ -47826,7 +47844,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 160731,
       "name": "Walla Eh",
       "url": "https://open.spotify.com/track/30Qx8p1Fr1qIZCY7Rp83sG"

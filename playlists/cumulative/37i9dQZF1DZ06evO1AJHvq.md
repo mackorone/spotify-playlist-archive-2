@@ -4,7 +4,7 @@
 
 > This is Ariel Camacho y Los Plebes Del Rancho\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 31 min
+60 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Un Par De Ojitos Negros \- En Vivo](https://open.spotify.com/track/3SRlnI2CtjzfsT0m8yVfdq) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \- En Vivo](https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F) | 2:53 | 2022-06-01 | 2024-09-28 |
 | [Un Par De Ojitos Negros \- En Vivo](https://open.spotify.com/track/6jHxzwwcqRgSrrTTxGYmn3) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU) | 2:53 | 2024-09-28 |  |
 | [Vida Truncada](https://open.spotify.com/track/3hP3Xr2UqRjA6EgV1adayu) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [Ariel Camacho Para Siempre](https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde) | 3:58 | 2022-06-01 | 2025-03-14 |
+| [Ya Lo Superé](https://open.spotify.com/track/5gt7vRRuXIG6cYPWmoHBtp) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Ya Lo Superé](https://open.spotify.com/album/2otEsiSS1j7PtUwTVamjxH) | 3:04 | 2026-04-19 |  |
 | [Yo Quisiera Entrar](https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:42 | 2022-06-01 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

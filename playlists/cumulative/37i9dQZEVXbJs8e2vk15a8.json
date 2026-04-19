@@ -6918,6 +6918,24 @@
     {
       "album": {
         "name": "Ayer Hable Con Dios",
+        "url": "https://open.spotify.com/album/5M1e5Ya2CtNhIkPaj2q0Ev"
+      },
+      "artists": [
+        {
+          "name": "Corridos del Rey",
+          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143279,
+      "name": "Ayer Hable Con Dios",
+      "url": "https://open.spotify.com/track/4k0HONHVX9U15ZKkPHmfYv"
+    },
+    {
+      "album": {
+        "name": "Ayer Hable Con Dios",
         "url": "https://open.spotify.com/album/4LCH0Wp0XgSGYJ05cpm52Z"
       },
       "artists": [
@@ -6946,7 +6964,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 143280,
       "name": "Ayer Hable Con Dios",
       "url": "https://open.spotify.com/track/7yWF9ZtqzTKsxKUPVg4efu"
@@ -12466,7 +12484,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 184680,
       "name": "Cantar y amar",
       "url": "https://open.spotify.com/track/7ESvGErvVQschGM5UtXHAY"
@@ -32316,7 +32334,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 206000,
       "name": "Himno del Mediocre",
       "url": "https://open.spotify.com/track/684Ss8rlDsMkzduSKIIPYz"
@@ -34614,7 +34632,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
@@ -35976,6 +35994,24 @@
       "duration_ms": 197697,
       "name": "Just H-eaven",
       "url": "https://open.spotify.com/track/2xO8pPZT6R6XAsRAxaqB8q"
+    },
+    {
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210070,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
       "album": {
@@ -40334,6 +40370,24 @@
       "duration_ms": 116869,
       "name": "Lobster",
       "url": "https://open.spotify.com/track/02RJmcMqkQqbU1WamaJNid"
+    },
+    {
+      "album": {
+        "name": "Los Rancheros del Lago Villarrica",
+        "url": "https://open.spotify.com/album/01z8TAh5319WNSCESj7ItI"
+      },
+      "artists": [
+        {
+          "name": "Jhojan & Josepth",
+          "url": "https://open.spotify.com/artist/2bGsf8ffPfppb66aEbPmCi"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232880,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/3RKPtdP18lVPwvZodSwJuO"
     },
     {
       "album": {
@@ -51888,7 +51942,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"

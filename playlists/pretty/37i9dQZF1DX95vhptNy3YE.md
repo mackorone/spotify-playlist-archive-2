@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Diggo, Léo Santana e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,878 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,850 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Esconde Sua Namorada](https://open.spotify.com/track/56ActsrgGySMIkRtpDTtQs) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk) | [Esconde Sua Namorada](https://open.spotify.com/album/0YtHnpF7CLZldk0SX0pkeh) | 2:30 |
 | 50 | [Nosso Lance \- Ao Vivo](https://open.spotify.com/track/2vMItEdBMWzJXP8KLoPMvg) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm), [Fabinho](https://open.spotify.com/artist/7p47atayUept3xqqBbVXlN), [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp), [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq) | [Os Caras da Rua, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5C8z8VzNC4fUpoyIPFyuLu) | 1:32 |
 
-Snapshot ID: `AAAAAPCpFOVKN2V6DAjm5dMoR1UJ3zN8`
+Snapshot ID: `AAAAABQ/6H6PKxKdAFXsEEB340yuOKeW`

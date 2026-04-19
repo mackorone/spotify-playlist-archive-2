@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Tyla & Zara Larsson
 
-3,682 songs - 8 day 7 hr 59 min
+3,683 songs - 8 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1561,6 +1561,7 @@
 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [I Don’t Think That I Like Her](https://open.spotify.com/album/5f7yRF519Ruz1yE9x97jID) | 3:08 | 2022-09-15 | 2022-09-30 |
 | [I Don’t Work Here Anymore](https://open.spotify.com/track/0VmGgo6i8HOmrp5y8qqBxQ) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Motel Du Cap](https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD) | 3:41 | 2025-08-07 | 2025-09-19 |
 | [I Feel Love](https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:13 | 2023-04-27 | 2023-06-09 |
+| [I Feel So Free](https://open.spotify.com/track/1H702ch0g74kcrR8pH5ReO) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/4gs3OgP36BMnb1jJBLQGgA) | 4:59 | 2026-04-18 |  |
 | [I Forgive You](https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I Forgive You](https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E) | 4:19 | 2024-04-11 | 2024-05-07 |
 | [I Found You](https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [I Found You](https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW) | 2:56 | 2023-05-11 | 2023-06-30 |
 | [I Got My Smile Back](https://open.spotify.com/track/1A8NxKmueblf1ke06vv8ZR) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 4:11 | 2022-11-29 | 2023-01-13 |

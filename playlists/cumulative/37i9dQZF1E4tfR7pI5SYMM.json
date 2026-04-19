@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, Dystopian X Vision, Exhaust and more",
+  "description": "With AlligatorX, photophor, Dystopian X Vision and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 235739,
       "name": "Black and Blue",
       "url": "https://open.spotify.com/track/3I3FrHVuIPOjh80qMOLdDx"
@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "City Of Fear",
+        "url": "https://open.spotify.com/album/5f1UcGwwvye8Iqggvkqjwz"
+      },
+      "artists": [
+        {
+          "name": "Baarhus",
+          "url": "https://open.spotify.com/artist/4JonlIYzByOdgh0AeFz7aK"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277186,
+      "name": "City Of Fear",
+      "url": "https://open.spotify.com/track/0lqBV9sEAWDSlPcT4yAjNF"
+    },
+    {
+      "album": {
         "name": "Nothing To Lose...But It All!!",
         "url": "https://open.spotify.com/album/6rXcjysrX0gA8kAUsDQmp7"
       },
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 218090,
       "name": "Death Is On the Way",
       "url": "https://open.spotify.com/track/0rqvCzTbRnQTQLFpbg7Xbh"
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 185442,
       "name": "Der Jugend Beraubt",
       "url": "https://open.spotify.com/track/5wn8CR7S0aHUmMqonqIoXt"
@@ -1949,6 +1967,28 @@
     },
     {
       "album": {
+        "name": "We lived our lives in black",
+        "url": "https://open.spotify.com/album/6g03l491MFuXx13v2LDHki"
+      },
+      "artists": [
+        {
+          "name": "Chemical Waves",
+          "url": "https://open.spotify.com/artist/7hZILkobCHOztyqE5PEoY6"
+        },
+        {
+          "name": "Projector Fires",
+          "url": "https://open.spotify.com/artist/6LmnAGJOYU1Zny1EeoUDVd"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287038,
+      "name": "Does the body stay",
+      "url": "https://open.spotify.com/track/7aJvODFlZgQbaOOphMUMFe"
+    },
+    {
+      "album": {
         "name": "Melodies That Made Me",
         "url": "https://open.spotify.com/album/2L7h4FkhHza1cXMr2OIJa7"
       },
@@ -2014,7 +2054,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -2176,7 +2216,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 198458,
       "name": "Drunk Blue Eyes",
       "url": "https://open.spotify.com/track/2U3Cui7VgS5Qt2FudpVN7z"
@@ -2648,7 +2688,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 220179,
       "name": "Everywhere is Nowhere",
       "url": "https://open.spotify.com/track/1gHMrlnQM4yN0tZ85g6GGs"
@@ -3048,7 +3088,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 204380,
       "name": "Flesh",
       "url": "https://open.spotify.com/track/2tqjrrd3RRaLfD7OmZWAK4"
@@ -3344,7 +3384,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 208661,
       "name": "Greetings From The Half Life",
       "url": "https://open.spotify.com/track/5r89EqCofA1SbES6otsK4Z"
@@ -4090,7 +4130,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 248165,
       "name": "Intention",
       "url": "https://open.spotify.com/track/3q1xGTBDoR35bV7kfHRi9e"
@@ -4220,7 +4260,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 178000,
       "name": "Journey to Antarctica (Part II)",
       "url": "https://open.spotify.com/track/1vTR72nUL6LA3qw2wJfHmx"
@@ -4314,7 +4354,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -4646,7 +4686,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 340000,
       "name": "Life Whisper & New Life - Reprise",
       "url": "https://open.spotify.com/track/6FhnVWokFfKBvsW33H5HCA"
@@ -4960,7 +5000,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 260622,
       "name": "Man In The Box",
       "url": "https://open.spotify.com/track/1NgkJEwzFtPCkPcGu4f11k"
@@ -5772,7 +5812,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -6144,7 +6184,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 318026,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/5sXaPKfsLeA99AuetE8xHU"
@@ -6234,7 +6274,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 201392,
       "name": "On Desire",
       "url": "https://open.spotify.com/track/2uPvMv4puldfTfOPN4HG6s"
@@ -6580,7 +6620,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -7328,7 +7368,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 234260,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/1QOude6pzrZetbqUphPKXC"
@@ -7422,7 +7462,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -7548,7 +7588,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 390967,
       "name": "Skyward Bound",
       "url": "https://open.spotify.com/track/5fcBPscU64w3Q0wb6nTfZJ"
@@ -8410,7 +8450,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 269520,
       "name": "The Break Up Song",
       "url": "https://open.spotify.com/track/79KYP1BhYzgTeWPP4fmQ22"
@@ -8482,7 +8522,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -8500,7 +8540,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 218408,
       "name": "The EyePhone Is My New Religion",
       "url": "https://open.spotify.com/track/3dqgKYCTzGdwPiOlSYrEpz"
@@ -8644,7 +8684,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 203875,
       "name": "The Ides Of March",
       "url": "https://open.spotify.com/track/7opbt4XHN7lcTjGsqWv8ws"
@@ -9194,7 +9234,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
@@ -9412,6 +9452,28 @@
       "duration_ms": 362961,
       "name": "Tragic Form - Acoustic",
       "url": "https://open.spotify.com/track/6KeACDdiKaaowWHGhP0qLH"
+    },
+    {
+      "album": {
+        "name": "Sick and Tired of All This War",
+        "url": "https://open.spotify.com/album/6ZcNlXsCHDGXm3wHNrGq6D"
+      },
+      "artists": [
+        {
+          "name": "Tobias Forsner",
+          "url": "https://open.spotify.com/artist/1D1Mx3S7dRQfM6zPwcaOAs"
+        },
+        {
+          "name": "Gabriel Husek",
+          "url": "https://open.spotify.com/artist/7qIRcFmSTZOiHaUhlW5RV6"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236336,
+      "name": "Train / Detonation Boulevard",
+      "url": "https://open.spotify.com/track/0pf6vegv2DtcwFHPGMDnJm"
     },
     {
       "album": {
@@ -9928,6 +9990,24 @@
       "duration_ms": 130146,
       "name": "Vyftigers Tune",
       "url": "https://open.spotify.com/track/6dk9R3ra6KqchohUszVqXL"
+    },
+    {
+      "album": {
+        "name": "From the Attic",
+        "url": "https://open.spotify.com/album/4ACY9Xt2bEMrjkQal9Z7HE"
+      },
+      "artists": [
+        {
+          "name": "SCHANZ",
+          "url": "https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288589,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/7izAW4fnV2JblrOnLzviWi"
     },
     {
       "album": {
@@ -10530,7 +10610,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 208660,
       "name": "Zerrissen",
       "url": "https://open.spotify.com/track/6ZUbmwyM3p0YGQLZcq59Yw"
@@ -10570,7 +10650,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 301336,
       "name": "Zulu Alpha",
       "url": "https://open.spotify.com/track/2Un1wf1MC4CEAramid6OoC"

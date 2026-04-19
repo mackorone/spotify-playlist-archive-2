@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-697 songs - 1 day 19 hr 48 min
+700 songs - 1 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Acide](https://open.spotify.com/track/5OEKWNC6VYU1Hpc48YdgBj) | [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [Acide](https://open.spotify.com/album/0UjOOxQqX2guMInZQUUIsh) | 2:39 | 2023-08-20 | 2023-09-26 |
 | [Aerial View](https://open.spotify.com/track/1KhY15cipWHBZt2KgSIvto) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Cinematic Bass: Epic Dubstep & Trap \(Vol\. 1\)](https://open.spotify.com/album/1WNBIHcvpB6sWakBROrIPV) | 3:04 | 2026-04-04 |  |
 | [aevor \- Radio Mix](https://open.spotify.com/track/6kZsKXbVNJk8YgUkYXvI7S) | [680Tone](https://open.spotify.com/artist/6dyENcarC8GAyfoI9GFw6l) | [aevor](https://open.spotify.com/album/6n2wd5hDqSugXMXUwffR2H) | 4:37 | 2026-04-12 |  |
+| [Africa](https://open.spotify.com/track/4GjBziNeqFrsUmYNtZ1esg) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [Hacia delante](https://open.spotify.com/album/73vmyx63AXRJdcqvaiJ5l3) | 3:25 | 2026-04-18 |  |
 | [After the Dust Settles](https://open.spotify.com/track/7IbNQFyIa84ruIy43ZH4t5) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 4:57 | 2026-03-30 |  |
 | [After the Echo](https://open.spotify.com/track/2H3g7RJOeQbha9i71Dri0d) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Parallel Skies: Future Garage & Cinematic Bass \(Vol\. 1\)](https://open.spotify.com/album/1zHuy0yhMHocAREenyzNIB) | 3:57 | 2026-03-22 |  |
 | [Afterlife \- Original Mix](https://open.spotify.com/track/7pc3t5Yr2VLcsdRGFLvqES) | [Bartolomeo Di Chiara](https://open.spotify.com/artist/79HWXwdfrEFu327dotcqph) | [Afterlife \(Original Mix\)](https://open.spotify.com/album/0jwgN7ICfDjn2KD2MCndMK) | 4:03 | 2026-04-05 |  |
@@ -280,6 +281,7 @@
 | [Here We Go](https://open.spotify.com/track/080bUKejMMUN957hN65IQj) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Here We Go](https://open.spotify.com/album/3S4RwSZnPfKrjz28VqUsoS) | 3:24 | 2024-04-14 | 2024-05-20 |
 | [Hey Dj](https://open.spotify.com/track/4vYxbrQSa8i5iZbSeewOmH) | [Freenzy Music](https://open.spotify.com/artist/70BgO4a6LVEzYiAgxubE3q), [INDECK.](https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY) | [Carnival 2023](https://open.spotify.com/album/3j1ggzb2j0axnzP9oUXB2h) | 5:27 | 2023-02-12 | 2023-03-06 |
 | [Hey Doctor \(Au Al Metge\)](https://open.spotify.com/track/3zRufxMw9sdcq3Bpevm9Eh) | [Javier Castillo](https://open.spotify.com/artist/5cLWmZxDeP7ZNAas6AWcr7) | [Hey Doctor \(Au Al Metge\)](https://open.spotify.com/album/68ybwxlIHVnRsCcB7EhWg7) | 4:25 | 2026-03-25 |  |
+| [Hidden](https://open.spotify.com/track/5rMntmXnzC10SabJJ76bMb) | [SPXCEPVNK](https://open.spotify.com/artist/2AMOCfEU0hWfO6qtzxcy8Z) | [Hidden](https://open.spotify.com/album/12CcDGT23aEANHsvBanwmR) | 2:07 | 2026-04-18 |  |
 | [High](https://open.spotify.com/track/3JvDVTzvFtboA4gxCDmURc) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [High](https://open.spotify.com/album/4Uu6sM4mJHwy1pua81o6hT) | 3:05 | 2023-11-26 | 2024-02-05 |
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-09-17 | 2023-12-14 |
 | [Hold Me Closer](https://open.spotify.com/track/4wSBgV0keQ7xyR4haqwcz0) | [Amplified Droid](https://open.spotify.com/artist/6CYQ04X8ltudhGEA9XEasZ) | [Hold Me Closer](https://open.spotify.com/album/56hyhypmdISO8lEzc5LF1w) | 3:44 | 2026-03-22 |  |
@@ -538,6 +540,7 @@
 | [Sims](https://open.spotify.com/track/0DI3gCOZlviCHHRDrd6umk) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Sims](https://open.spotify.com/album/6hu1vcrEGoSbAQiuGcg0xa) | 3:22 | 2023-06-18 | 2023-07-17 |
 | [Sins and Saints](https://open.spotify.com/track/4XTN88G142KDCLnRTamGcu) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Sins and Saints](https://open.spotify.com/album/4LcwAEgO6DDhwZeQn8Gqsx) | 3:37 | 2023-08-27 | 2023-09-26 |
 | [Six Figures](https://open.spotify.com/track/4I3G3oB4cfOiKN8q4fzXxQ) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Almondmilkhunni](https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC) | [¥€$](https://open.spotify.com/album/2o3gqsfh5Zzl8LA8qKLH6j) | 4:15 | 2023-03-05 | 2023-03-20 |
+| [Sky Limit](https://open.spotify.com/track/3Mk7N8jCN5PSUz8Rw7bJEj) | [Bruno Costa](https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2) | [Acid Hunter](https://open.spotify.com/album/01O4BDnDz5SVufngeUP9Av) | 5:02 | 2026-04-18 |  |
 | [Slay](https://open.spotify.com/track/2uQ8zOCi5F4EC9jZa419eM) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [Slay EP](https://open.spotify.com/album/2ppzZqalX6C5DDU8tVOV2a) | 5:53 | 2023-03-31 | 2023-04-17 |
 | [Slim Shady](https://open.spotify.com/track/5rT0zHpRKCIDwmGTQ6Lbma) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Slim Shady](https://open.spotify.com/album/3fx7lDvu1kJ3ZoOCGauqhL) | 3:11 | 2023-08-13 | 2023-09-26 |
 | [Slow Collapse of Night](https://open.spotify.com/track/5hDmENe28dq6qVvLo4dm7i) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Parallel Skies: Future Garage & Cinematic Bass \(Vol\. 1\)](https://open.spotify.com/album/1zHuy0yhMHocAREenyzNIB) | 4:03 | 2026-03-22 |  |

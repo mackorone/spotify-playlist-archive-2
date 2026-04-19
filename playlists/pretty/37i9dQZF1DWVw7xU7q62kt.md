@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 
 > Beats with a flavour of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,462 likes - 200 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,520 likes - 200 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 | 199 | [Laundry Day](https://open.spotify.com/track/4wAJQuVWT1UvONPbEdgxKS) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Laundry Day](https://open.spotify.com/album/5BGo8yPMNIydulRJFaRowt) | 2:00 |
 | 200 | [Your Idea](https://open.spotify.com/track/3FaJK1hujVIwy2kFgAgXhr) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Your Idea](https://open.spotify.com/album/2shCMi5X9XzDj8EfPjiHEG) | 2:24 |
 
-Snapshot ID: `AAAAAPAr7r1z1fNDK8mlnQWzp7M7sF+B`
+Snapshot ID: `AAAAANBccpeblMGfp2wH8gELMZKhPNmR`

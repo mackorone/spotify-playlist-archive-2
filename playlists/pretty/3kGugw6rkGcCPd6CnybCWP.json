@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAOaNdrdDSGBONmHHby4E08LNM6R3WO",
+  "snapshot_id": "AAAObecuOvx9haYyFZiv+OBL0ahnCe+B",
   "tracks": [
     {
       "added_at": "2026-04-15 23:19:40",
@@ -1191,6 +1191,90 @@
       "duration_ms": 222957,
       "name": "More",
       "url": "https://open.spotify.com/track/14aDPcz6whbi82MtqIGSAZ"
+    },
+    {
+      "added_at": "2026-04-18 09:35:22",
+      "album": {
+        "name": "Hurts (Dancing With Ghosts)",
+        "url": "https://open.spotify.com/album/1LttVa39jjMMHbKWXsKujT"
+      },
+      "artists": [
+        {
+          "name": "The New Old",
+          "url": "https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "Hurts (Dancing With Ghosts)",
+      "url": "https://open.spotify.com/track/1QFmP5yTicfkV52OjzJRqD"
+    },
+    {
+      "added_at": "2026-04-18 10:27:33",
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/3BuDRZZfYcLaH8jNOKSRsG"
+      },
+      "artists": [
+        {
+          "name": "Carelessly",
+          "url": "https://open.spotify.com/artist/3laL9LL6X7GkWJDrmUxI7Z"
+        }
+      ],
+      "duration_ms": 207374,
+      "name": "Dream Like You",
+      "url": "https://open.spotify.com/track/2JuPjDUNTsDCm5PlYIEShh"
+    },
+    {
+      "added_at": "2026-04-18 10:30:30",
+      "album": {
+        "name": "MMXXII",
+        "url": "https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN"
+      },
+      "artists": [
+        {
+          "name": "Roses!Hands!",
+          "url": "https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o"
+        },
+        {
+          "name": "Morgan S Oteric",
+          "url": "https://open.spotify.com/artist/0LvGEKR2OwTW2k6LDbxO7X"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "Ides Of March",
+      "url": "https://open.spotify.com/track/4Rq5Ytad92LP8xHIf0WhKf"
+    },
+    {
+      "added_at": "2026-04-18 10:30:39",
+      "album": {
+        "name": "Be the Star That You Are",
+        "url": "https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "duration_ms": 189589,
+      "name": "Be the Star That You Are",
+      "url": "https://open.spotify.com/track/48hhpEl3Q2f4sL4kMsHC8R"
+    },
+    {
+      "added_at": "2026-04-18 10:30:49",
+      "album": {
+        "name": "A Street",
+        "url": "https://open.spotify.com/album/4sIoa5yZuLQJufrMtCCLZe"
+      },
+      "artists": [
+        {
+          "name": "Forget Me Not",
+          "url": "https://open.spotify.com/artist/6LO7ktGmsVjiuIyJ7PinHk"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "A Street",
+      "url": "https://open.spotify.com/track/3z9yp7Rf4hHccBKJ15QXuF"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

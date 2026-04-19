@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,294 likes - 37 songs - 2 hr 37 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,296 likes - 41 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,5 +45,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 35 | [Wabash Cannonball](https://open.spotify.com/track/5RKPe1oN9lGayUCKn00fYi) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [The Essential Roy Acuff](https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM) | 2:36 |
 | 36 | [Black Eyed Susan](https://open.spotify.com/track/4F9lWUCeY9iqehF4Po5QCO) | [Paul Westerberg](https://open.spotify.com/artist/3N6WAAPHoIjo6na008793X) | [14 Songs](https://open.spotify.com/album/2UgKw2bpp1lqokUSXWD2uy) | 3:36 |
 | 37 | [New York City Song](https://open.spotify.com/track/7DLirypUivO3MsTT4JLsIG) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Born to Be With You / Streetheart](https://open.spotify.com/album/0DOf8RoY5pxvrbDCEGlj7B) | 3:45 |
+| 38 | [Shake, Rattle And Roll](https://open.spotify.com/track/1JbHO0Kx2VsukFk0tEZVJt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry](https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW) | 2:17 |
+| 39 | [I'm Going Home](https://open.spotify.com/track/1g2AbdCDCKyRZkafuRgOom) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Alice's Restaurant](https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm) | 3:18 |
+| 40 | [Don't Look Back \- feat\. Van Morrison](https://open.spotify.com/track/7CTBrlgx4l9JXfJellaBOE) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Don't Look Back](https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7) | 6:44 |
+| 41 | [1842](https://open.spotify.com/track/3QBeMDPyMqnqkTcIzajuJN) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [But This Chicken Proved Falsehearted](https://open.spotify.com/album/3vNTpXPg2fxhMv5pEGi9DH) | 4:59 |
 
-Snapshot ID: `AAAOJUtLwXA2s2W9EWdS1954fhirMAso`
+Snapshot ID: `AAAOKaScpt5FKaXJIZaS3+NqFWRNsJtX`

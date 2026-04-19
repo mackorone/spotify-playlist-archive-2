@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-169 songs - 9 hr 27 min
+170 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [For the One I Love](https://open.spotify.com/track/7ppWqAMqilpFlu85s2x11H) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:21 | 2024-03-01 |  |
 | [Four Letters](https://open.spotify.com/track/1SujOS52KWiUrFbhGSSv0T) | [Lawson](https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU) | [Hell Yeah](https://open.spotify.com/album/4uX8OvNcCFkOr1WRVgLKO6) | 3:18 | 2024-03-01 |  |
 | [Freedom](https://open.spotify.com/track/1Y7PcAoFbvlTWGX75kzyf5) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 5:46 | 2024-03-01 |  |
-| [Freedom \(feat\. Jussie Smollett\)](https://open.spotify.com/track/29C4JH1nAexGkEeGq7loVw) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Freedom \(feat\. Jussie Smollett\)](https://open.spotify.com/album/769DoxR17WdWZtfpXODY6c) | 3:05 | 2025-10-14 |  |
+| [Freedom \(feat\. Jussie Smollett\)](https://open.spotify.com/track/29C4JH1nAexGkEeGq7loVw) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Freedom \(feat\. Jussie Smollett\)](https://open.spotify.com/album/769DoxR17WdWZtfpXODY6c) | 3:05 | 2025-10-14 | 2026-04-19 |
 | [Freedom \(feat\. Jussie Smollett\)](https://open.spotify.com/track/3K21eqPSN8Fb4SxEnKfEOo) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 3:05 | 2024-03-01 | 2025-10-15 |
 | [G Train](https://open.spotify.com/track/0vYIpioP94c4gwxOyopklE) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Searching](https://open.spotify.com/album/7pjWbCevZabqDKwm26ggKd) | 3:35 | 2024-03-01 |  |
 | [Gatekeeper](https://open.spotify.com/track/02T6r1FheCaKwnJUwNJ04I) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Gatekeeper](https://open.spotify.com/album/7qEf07O8bfCTYzxrUmhkgq) | 2:30 | 2024-03-01 |  |
@@ -121,6 +121,7 @@
 | [Remember This](https://open.spotify.com/track/1zZZlIA8xcYwbEakQFwH96) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Remember This](https://open.spotify.com/album/3PeXFl2X5nsH70O8jacaD4) | 3:46 | 2024-03-01 | 2025-10-11 |
 | [Remember This](https://open.spotify.com/track/4GaXpQAh6e0ItV1jFHOzPK) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Remember This](https://open.spotify.com/album/0JeBuIbqH1NaM0cvICe9J3) | 3:46 | 2025-10-10 |  |
 | [Rivers](https://open.spotify.com/track/4EW2QK7Fw8AtE0tZ3c3XS7) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 2:57 | 2024-03-01 |  |
+| [Ruin Your Night](https://open.spotify.com/track/6yq8YMCw3dHMgZO46OcmIv) | [Megan McKenna](https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu) | [Ruin Your Night](https://open.spotify.com/album/4yvQ82S9afUKOy3sVxmtHq) | 3:31 | 2026-04-18 |  |
 | [Runaway Train \(feat\. RuthAnne\)](https://open.spotify.com/track/6wE4dMcWmaEvDcQGGjYHZc) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Runaway Train \(feat\. RuthAnne\)](https://open.spotify.com/album/4coGBdg0K0f6SSttAa4OXI) | 2:16 | 2025-06-14 |  |
 | [Runnin'](https://open.spotify.com/track/1ea2dRo2tSRhxMagoX7EWj) | [Nadine Coyle](https://open.spotify.com/artist/3fWTpVNnrGmdo0jMbsRsRf) | [Insatiable](https://open.spotify.com/album/0T3zANiTRRlO1J5rmGp3na) | 4:05 | 2024-03-01 |  |
 | [Safe Place](https://open.spotify.com/track/2pzdG9wrLHiLtOZxGnpThj) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Safe Place](https://open.spotify.com/album/3sEoI3sYBqimCSIhbyr1YW) | 2:36 | 2024-03-01 | 2025-10-11 |

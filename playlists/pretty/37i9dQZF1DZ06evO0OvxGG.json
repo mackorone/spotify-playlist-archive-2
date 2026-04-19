@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 9188,
+  "num_followers": 9193,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAACXf7kqG2mWkU47oYbWi9eP",
+  "snapshot_id": "aeF4AAAAAAB61ts3IvIod73KC83g8RGf",
   "tracks": [
     {
       "added_at": null,
@@ -1039,26 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
-      },
-      "artists": [
-        {
-          "name": "DJ Leonardo Rafael",
-          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 136624,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pra Voc\u00ea Ficar a Vontade",
         "url": "https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 207272,
       "name": "Pra Voc\u00ea Ficar a Vontade",
       "url": "https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
+      },
+      "artists": [
+        {
+          "name": "DJ Leonardo Rafael",
+          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 136624,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
     },
     {
       "added_at": null,

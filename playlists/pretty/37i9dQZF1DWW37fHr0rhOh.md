@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Mark Bishop
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,928 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,930 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 49 | [Everybody Needs Jesus](https://open.spotify.com/track/4pMbcHvslEFVQmLEu4dTrs) | [Vestal Goodman](https://open.spotify.com/artist/6CHoGb3HjH5ZHA3K6l6C6D), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Vestal & Friends II](https://open.spotify.com/album/2zywWUBpkskUPs2cCSoj1J) | 3:15 |
 | 50 | [God, Do it Again](https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o) | [The Taylors](https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX) | [Love Is the Voice](https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR) | 2:45 |
 
-Snapshot ID: `AAAAAL6RiYLKsCT4Kh/rXkzb3w/ciZLS`
+Snapshot ID: `AAAAAKxUknUDEIwZYDOYwkjalXm3D0Yl`

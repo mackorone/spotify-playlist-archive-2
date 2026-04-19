@@ -3385,6 +3385,24 @@
     },
     {
       "album": {
+        "name": "LOVERCORE",
+        "url": "https://open.spotify.com/album/75FM00r9Lgdi0YHv7vvzzB"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137923,
+      "name": "southbound",
+      "url": "https://open.spotify.com/track/5Dpryv5D5xUTMrqd82JwGD"
+    },
+    {
+      "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
       },

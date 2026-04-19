@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104192,
+  "num_followers": 104197,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAADZkRUrvBbnrDHuvVRGqHPX",
+  "snapshot_id": "aeF4AAAAAABR7BKQQoVr2YaZoA7UQZoM",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "Officially Yours",
+      "url": "https://open.spotify.com/track/4sofx1s0nDS4LG1Tx3uxpG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nothing Like This",
         "url": "https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 183645,
       "name": "Nothing Like This",
       "url": "https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trust Me",
-        "url": "https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "Officially Yours",
-      "url": "https://open.spotify.com/track/4sofx1s0nDS4LG1Tx3uxpG"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Following My Intuition (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Ain't Giving Up",
-      "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Woman Trouble",
         "url": "https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 241293,
       "name": "Woman Trouble (Radio Edit)",
       "url": "https://open.spotify.com/track/1UlLKAabZd9egWzloUE4Yk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Following My Intuition (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Ain't Giving Up",
+      "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Signed Sealed Delivered",
-        "url": "https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 214840,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/7hT0NQAxwSytYLjagmIzpL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "22 (Deluxe)",
         "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 204800,
       "name": "My Heart's Been Waiting for You - feat. Duvall",
       "url": "https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Signed Sealed Delivered",
+        "url": "https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 214840,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/7hT0NQAxwSytYLjagmIzpL"
     },
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Signed Sealed Delivered",
-        "url": "https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "22 (Deluxe)",
         "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 219106,
       "name": "Obvious - feat. Muni Long",
       "url": "https://open.spotify.com/track/5hIYTHpbKZp5Rq1amDLL9i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Signed Sealed Delivered",
+        "url": "https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE"
     },
     {
       "added_at": null,

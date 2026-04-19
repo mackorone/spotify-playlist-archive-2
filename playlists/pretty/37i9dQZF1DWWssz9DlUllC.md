@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWssz9DlUllC.md) - [plain]
 
 > Where afrobeats meets amapiano.<br/>Cover:  NO11
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,941 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,989 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Rizwan Abbas, Maheen Sattar
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,858 likes - 94 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,879 likes - 94 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

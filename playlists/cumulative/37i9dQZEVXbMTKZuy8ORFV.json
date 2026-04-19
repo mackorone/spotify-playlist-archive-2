@@ -3436,6 +3436,24 @@
     {
       "album": {
         "name": "Ayer Hable Con Dios",
+        "url": "https://open.spotify.com/album/5M1e5Ya2CtNhIkPaj2q0Ev"
+      },
+      "artists": [
+        {
+          "name": "Corridos del Rey",
+          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143279,
+      "name": "Ayer Hable Con Dios",
+      "url": "https://open.spotify.com/track/4k0HONHVX9U15ZKkPHmfYv"
+    },
+    {
+      "album": {
+        "name": "Ayer Hable Con Dios",
         "url": "https://open.spotify.com/album/4LCH0Wp0XgSGYJ05cpm52Z"
       },
       "artists": [
@@ -3464,7 +3482,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 143280,
       "name": "Ayer Hable Con Dios",
       "url": "https://open.spotify.com/track/7yWF9ZtqzTKsxKUPVg4efu"
@@ -12896,7 +12914,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -15774,7 +15792,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 391268,
       "name": "Fabienk",
       "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA"
@@ -20030,7 +20048,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -36280,7 +36298,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 169266,
       "name": "Que vuelta vox",
       "url": "https://open.spotify.com/track/50QNXm5mb1sUNhI4iTSzl9"
@@ -39952,7 +39970,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 160000,
       "name": "Skokka",
       "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
@@ -42878,7 +42896,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 185608,
       "name": "Te Entiendo",
       "url": "https://open.spotify.com/track/03E9tKV8v3R1YQIz3MWlMU"
@@ -43419,6 +43437,24 @@
     },
     {
       "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "That Should Be Me",
+      "url": "https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S"
+    },
+    {
+      "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
@@ -43896,7 +43932,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 191578,
       "name": "Tienes - Remix (Prod. by Dj Honda)",
       "url": "https://open.spotify.com/track/7MbqAiyl4FtyGwSLjT3g70"
@@ -44270,7 +44306,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 193763,
       "name": "Todo lo perd\u00ed por t\u00ed",
       "url": "https://open.spotify.com/track/4E3Qk4lLjIQ9NzwBINqoAG"
@@ -46244,7 +46280,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 165738,
       "name": "UNA BABY EN SANTIAGO",
       "url": "https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE"

@@ -962,10 +962,32 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 160006,
       "name": "La Bandera",
       "url": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
+    },
+    {
+      "album": {
+        "name": "La Bandera (Remix)",
+        "url": "https://open.spotify.com/album/5oGcK4Yz4zpnFkAUKXbjfE"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160664,
+      "name": "La Bandera (Remix)",
+      "url": "https://open.spotify.com/track/17eoa5LPrYT2Y7tAi4Y8yL"
     },
     {
       "album": {
@@ -1864,10 +1886,28 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 168753,
       "name": "Yee",
       "url": "https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq"
+    },
+    {
+      "album": {
+        "name": "Yee",
+        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Yee - Extended Mix",
+      "url": "https://open.spotify.com/track/1lofV3iAo223CsbUz5uKGq"
     },
     {
       "album": {

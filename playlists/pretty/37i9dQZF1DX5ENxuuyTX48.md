@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > After all, we are all siblings 🇮🇩 🇲🇾🇸🇬  Cover: Idgitaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,073 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,076 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

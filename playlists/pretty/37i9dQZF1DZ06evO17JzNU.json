@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 31374,
+  "num_followers": 31405,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAAAkIJAFJV9zb7kOoEUhnV9n",
+  "snapshot_id": "aeF4AAAAAAAik0YiPKuhKlzkTExVWdC0",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Nada Te Cambio",
-        "url": "https://open.spotify.com/album/7hWuy8jFQVmigUrWWH9z9X"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 205482,
-      "name": "Por Nada Te Cambio",
-      "url": "https://open.spotify.com/track/4chVeYSaaPLrvjkgHoK6sT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FERRARI",
         "url": "https://open.spotify.com/album/2gwCniqY1EvKAjcZYwhAto"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 134181,
       "name": "FERRARI",
       "url": "https://open.spotify.com/track/6LPA5jARmoB8MYsZoHFjIW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Nada Te Cambio",
+        "url": "https://open.spotify.com/album/7hWuy8jFQVmigUrWWH9z9X"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 205482,
+      "name": "Por Nada Te Cambio",
+      "url": "https://open.spotify.com/track/4chVeYSaaPLrvjkgHoK6sT"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Chakalosos",
-        "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 185808,
-      "name": "Black Jack",
-      "url": "https://open.spotify.com/track/2hkAZ2LM0zqrnWRvb1YP8S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORRIDOS CHAKALOSOS II (En Vivo)",
         "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 200125,
       "name": "Pase De Pescado (En Vivo)",
       "url": "https://open.spotify.com/track/6clvlKxsgxbMsDcBK3lvQv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Chakalosos",
+        "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 185808,
+      "name": "Black Jack",
+      "url": "https://open.spotify.com/track/2hkAZ2LM0zqrnWRvb1YP8S"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amo",
-        "url": "https://open.spotify.com/album/4ePqxgdhLET9p96yDVvLr1"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "Amo",
-      "url": "https://open.spotify.com/track/0QieT45vFvqEkzrcbIz01s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EXCENTRICON",
         "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 135223,
       "name": "JOHNNIE WALKER",
       "url": "https://open.spotify.com/track/3GUjBw5ded9CUXI664L3tl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amo",
+        "url": "https://open.spotify.com/album/4ePqxgdhLET9p96yDVvLr1"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "Amo",
+      "url": "https://open.spotify.com/track/0QieT45vFvqEkzrcbIz01s"
     },
     {
       "added_at": null,
@@ -415,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay Que Prender",
-        "url": "https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH"
+        "name": "Suerte No Fue",
+        "url": "https://open.spotify.com/album/4EjJmdzXfSG6h788Tb1PFi"
       },
       "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 137250,
-      "name": "Jhonnie Walker",
-      "url": "https://open.spotify.com/track/30bz0ig7eM3zzppKa93BPT"
+      "duration_ms": 191000,
+      "name": "Suerte No Fue",
+      "url": "https://open.spotify.com/track/4tFuWIXeyNN9mkg0uC3d7s"
     },
     {
       "added_at": null,
@@ -447,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suerte No Fue",
-        "url": "https://open.spotify.com/album/4EjJmdzXfSG6h788Tb1PFi"
+        "name": "Hay Que Prender",
+        "url": "https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH"
       },
       "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Suerte No Fue",
-      "url": "https://open.spotify.com/track/4tFuWIXeyNN9mkg0uC3d7s"
+      "duration_ms": 137250,
+      "name": "Jhonnie Walker",
+      "url": "https://open.spotify.com/track/30bz0ig7eM3zzppKa93BPT"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Chakalosos",
-        "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 188778,
-      "name": "La Vida Recia",
-      "url": "https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 152981,
       "name": "Contigo Hasta La Muerte",
       "url": "https://open.spotify.com/track/76E5MUWqzxtO3YLuTAonlM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Chakalosos",
+        "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 188778,
+      "name": "La Vida Recia",
+      "url": "https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son 4 Rifando",
-        "url": "https://open.spotify.com/album/0lfEm5fZhzsktOWiFwfuZh"
+        "name": "Corridos y Sentimientos",
+        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 139050,
-      "name": "Son 4 Rifando",
-      "url": "https://open.spotify.com/track/6k16Wgr53yjWjOvigK2eP2"
+      "duration_ms": 144057,
+      "name": "Vida Mafioso",
+      "url": "https://open.spotify.com/track/60qjW0ecl3vFlklpH6PLPG"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos y Sentimientos",
-        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
+        "name": "Son 4 Rifando",
+        "url": "https://open.spotify.com/album/0lfEm5fZhzsktOWiFwfuZh"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 144057,
-      "name": "Vida Mafioso",
-      "url": "https://open.spotify.com/track/60qjW0ecl3vFlklpH6PLPG"
+      "duration_ms": 139050,
+      "name": "Son 4 Rifando",
+      "url": "https://open.spotify.com/track/6k16Wgr53yjWjOvigK2eP2"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117635,
+  "num_followers": 117637,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAAC1MWFmJGpqGL/s/TEDmPli",
+  "snapshot_id": "aeF4AAAAAAB3kRkgP5WgagOFGNTS2y6q",
   "tracks": [
     {
       "added_at": null,
@@ -415,38 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberdade (Deluxe)",
-        "url": "https://open.spotify.com/album/7zw5XT3YDZs9pIPqtyA1NN"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Maurin",
-          "url": "https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        },
-        {
-          "name": "Elow",
-          "url": "https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "Diretamente do Rj",
-      "url": "https://open.spotify.com/track/1C3iWqyzLYmMs1p5FdXOBp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XEQUE MATE",
         "url": "https://open.spotify.com/album/0NQNB45NzbgxvGddfjFZud"
       },
@@ -483,6 +451,38 @@
       "duration_ms": 315153,
       "name": "Lobo da Madrugada",
       "url": "https://open.spotify.com/track/6lD1ApgmkQW6Ji1CnlYtZn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liberdade (Deluxe)",
+        "url": "https://open.spotify.com/album/7zw5XT3YDZs9pIPqtyA1NN"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Maurin",
+          "url": "https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "Elow",
+          "url": "https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "Diretamente do Rj",
+      "url": "https://open.spotify.com/track/1C3iWqyzLYmMs1p5FdXOBp"
     },
     {
       "added_at": null,
@@ -791,38 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desabafo",
-        "url": "https://open.spotify.com/album/5glFkBO45WBRpvp4dMWPrm"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Tkd",
-          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
-        },
-        {
-          "name": "Neytxn",
-          "url": "https://open.spotify.com/artist/7L1wqmAtk7pQwj2xtPWIbq"
-        }
-      ],
-      "duration_ms": 150508,
-      "name": "Desabafo",
-      "url": "https://open.spotify.com/track/37LWZe5mdHIKuXBh8GuwlH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XEQUE MATE",
         "url": "https://open.spotify.com/album/0NQNB45NzbgxvGddfjFZud"
       },
@@ -863,6 +831,38 @@
       "duration_ms": 364317,
       "name": "Essa Mina Encanta",
       "url": "https://open.spotify.com/track/5XIOlcTi2q5Dg8itWHuGnS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desabafo",
+        "url": "https://open.spotify.com/album/5glFkBO45WBRpvp4dMWPrm"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Tkd",
+          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
+        },
+        {
+          "name": "Neytxn",
+          "url": "https://open.spotify.com/artist/7L1wqmAtk7pQwj2xtPWIbq"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "Desabafo",
+      "url": "https://open.spotify.com/track/37LWZe5mdHIKuXBh8GuwlH"
     },
     {
       "added_at": null,
@@ -923,6 +923,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Filha do Deputado",
+        "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 371852,
+      "name": "Filha do Deputado",
+      "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mixtape Chir\u00f3",
         "url": "https://open.spotify.com/album/2hqitsZt4GZdgn7lFxw08S"
       },
@@ -959,34 +991,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Filha do Deputado",
-        "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
+        "name": "XEQUE MATE",
+        "url": "https://open.spotify.com/album/0NQNB45NzbgxvGddfjFZud"
       },
       "artists": [
         {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
         },
         {
           "name": "MC Ryan SP",
           "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+          "name": "Boladin 211",
+          "url": "https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW"
         },
         {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
         },
         {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
         }
       ],
-      "duration_ms": 371852,
-      "name": "Filha do Deputado",
-      "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
+      "duration_ms": 546461,
+      "name": "Na Inten\u00e7\u00e3o (2026)",
+      "url": "https://open.spotify.com/track/44dNjdmRLoXQvTDf77NB3d"
     },
     {
       "added_at": null,
@@ -1232,37 +1276,21 @@
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
         },
         {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+          "name": "Pedro Aurora",
+          "url": "https://open.spotify.com/artist/7HC52vDbtFRmiR7ObOY3M5"
         },
         {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Boladin 211",
-          "url": "https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "DJ DAVI DOGDOG",
-          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+          "name": "Alwin",
+          "url": "https://open.spotify.com/artist/6zWeoLKSuzaLGE6unovwHB"
         }
       ],
-      "duration_ms": 546461,
-      "name": "Na Inten\u00e7\u00e3o (2026)",
-      "url": "https://open.spotify.com/track/44dNjdmRLoXQvTDf77NB3d"
+      "duration_ms": 147360,
+      "name": "Liga pra M\u00e3e",
+      "url": "https://open.spotify.com/track/3liYCfELN1elFsRXOs0IA8"
     },
     {
       "added_at": null,
@@ -1384,21 +1412,61 @@
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Pedro Aurora",
-          "url": "https://open.spotify.com/artist/7HC52vDbtFRmiR7ObOY3M5"
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
         },
         {
-          "name": "Alwin",
-          "url": "https://open.spotify.com/artist/6zWeoLKSuzaLGE6unovwHB"
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "DJ GORDINHO DA VF",
+          "url": "https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
         }
       ],
-      "duration_ms": 147360,
-      "name": "Liga pra M\u00e3e",
-      "url": "https://open.spotify.com/track/3liYCfELN1elFsRXOs0IA8"
+      "duration_ms": 324919,
+      "name": "\u00daltima Forma",
+      "url": "https://open.spotify.com/track/0Pp2EtilQI5Ezbz6qEtunF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ordem do Mano",
+        "url": "https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "duration_ms": 195553,
+      "name": "Ordem do Mano",
+      "url": "https://open.spotify.com/track/5dq5AD4ijms2xZTP6a71ho"
     },
     {
       "added_at": null,
@@ -1435,34 +1503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ordem do Mano",
-        "url": "https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "LB \u00danico",
-          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
-        }
-      ],
-      "duration_ms": 195553,
-      "name": "Ordem do Mano",
-      "url": "https://open.spotify.com/track/5dq5AD4ijms2xZTP6a71ho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00e1 Fluindo",
         "url": "https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk"
       },
@@ -1475,26 +1515,6 @@
       "duration_ms": 159157,
       "name": "T\u00e1 Fluindo",
       "url": "https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XEQUE MATE",
-        "url": "https://open.spotify.com/album/0NQNB45NzbgxvGddfjFZud"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 144360,
-      "name": "Vuco Vuco",
-      "url": "https://open.spotify.com/track/7vKoBamwQb6VLQeDAbWeaz"
     },
     {
       "added_at": null,

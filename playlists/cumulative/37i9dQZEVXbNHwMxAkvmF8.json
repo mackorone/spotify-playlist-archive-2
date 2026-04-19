@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 211670,
       "name": "ANGYALOK",
       "url": "https://open.spotify.com/track/24EifBPkwBMG3ohCeA7AUh"
@@ -5008,7 +5008,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 188235,
       "name": "BUDAI GETT\u00d3",
       "url": "https://open.spotify.com/track/5fMwBmQDvzR4NlDPbNklZf"
@@ -7537,6 +7537,28 @@
     },
     {
       "album": {
+        "name": "VINNER DELUXE",
+        "url": "https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148320,
+      "name": "DEKI",
+      "url": "https://open.spotify.com/track/5l1IJckISbGhTB0wAyg8oI"
+    },
+    {
+      "album": {
         "name": "Aziverzum",
         "url": "https://open.spotify.com/album/4xXvoQdTClfi7CYpWANDRm"
       },
@@ -8699,6 +8721,24 @@
     },
     {
       "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "album": {
         "name": "Skatulya II.",
         "url": "https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb"
       },
@@ -9809,6 +9849,28 @@
     },
     {
       "album": {
+        "name": "VINNER DELUXE",
+        "url": "https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145950,
+      "name": "EX N GO",
+      "url": "https://open.spotify.com/track/6nvDIhdi3Dcet4sIZR5qDk"
+    },
+    {
+      "album": {
         "name": "exes",
         "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
       },
@@ -10466,7 +10528,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 187951,
       "name": "Fels\u00fct\u00f6tt a napsug\u00e1ra",
       "url": "https://open.spotify.com/track/5o2pkld9SvipWLP46lBbeJ"
@@ -15841,6 +15903,28 @@
     },
     {
       "album": {
+        "name": "VINNER DELUXE",
+        "url": "https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "Marics Peti",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134885,
+      "name": "J\u00d3ZANOK",
+      "url": "https://open.spotify.com/track/0x6mKqNfslxlNxlkIroTK8"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -20456,7 +20540,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 163375,
       "name": "MOKKA",
       "url": "https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT"
@@ -23118,7 +23202,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 188642,
       "name": "PANASONIC",
       "url": "https://open.spotify.com/track/7gdHcrgGNeQSXD3cwOvMRR"
@@ -25614,7 +25698,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 189354,
       "name": "Rampapapam",
       "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
@@ -27432,7 +27516,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -29598,7 +29682,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 215000,
       "name": "SZEPTEMBER V\u00c9G\u00c9N - STRESSZ",
       "url": "https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF"
@@ -34570,7 +34654,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 138097,
       "name": "WAKE N BAKE",
       "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"
@@ -34728,7 +34812,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 157586,
       "name": "WAY TOO HIGH",
       "url": "https://open.spotify.com/track/17WIFL0Bicx4Eo3133nu4S"

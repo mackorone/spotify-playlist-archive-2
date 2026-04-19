@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > 📸 Callejero Fino
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,276 likes - 74 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,394 likes - 74 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

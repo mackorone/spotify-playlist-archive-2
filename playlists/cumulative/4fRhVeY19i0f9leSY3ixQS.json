@@ -6651,7 +6651,7 @@
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 199429,
+      "duration_ms": 199416,
       "name": "Eternal (remaster)",
       "url": "https://open.spotify.com/track/5dyhnr7rcAhlHOIkCvoECn"
     },
@@ -9032,7 +9032,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 247672,
       "name": "Headstone",
       "url": "https://open.spotify.com/track/5MuZm2T1uM6VByysfaiCYf"
@@ -10254,7 +10254,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 142222,
       "name": "If U Can Hear Me",
       "url": "https://open.spotify.com/track/2Ygz83q3p9nQkfe6yRjvqi"
@@ -12720,7 +12720,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 193720,
       "name": "Maserati Grin",
       "url": "https://open.spotify.com/track/5AdFirOSW40fh1LmwbDIw4"
@@ -14177,6 +14177,28 @@
     },
     {
       "album": {
+        "name": "NO Saints )",
+        "url": "https://open.spotify.com/album/1b2dL9lAfIkvJe6oCl4wWN"
+      },
+      "artists": [
+        {
+          "name": "Kamikaze Zombie",
+          "url": "https://open.spotify.com/artist/6j2LTfxs9TUzjlE30Qv4VG"
+        },
+        {
+          "name": "Kyle Thomas (Exhorder)",
+          "url": "https://open.spotify.com/artist/0zODKS5RZUILRg772m8c4o"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144277,
+      "name": "NO Saints )",
+      "url": "https://open.spotify.com/track/1hnaB8g1BImSqvtFxmZp2V"
+    },
+    {
+      "album": {
         "name": "No Time Left",
         "url": "https://open.spotify.com/album/7shvCcJZlrW340WYf8cGQN"
       },
@@ -15248,7 +15270,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 220000,
       "name": "Pass The Pulse",
       "url": "https://open.spotify.com/track/7K53XDED8AsHEzFp01LxQD"
@@ -17822,7 +17844,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 231268,
       "name": "Shattered Paths",
       "url": "https://open.spotify.com/track/44p2gUcsmnvrmWz23PagXu"
@@ -18288,7 +18310,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 208160,
       "name": "Sins",
       "url": "https://open.spotify.com/track/0e7qshg39yZQKsA7pCfuHx"
@@ -18324,7 +18346,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 210000,
       "name": "Sk8er Boi",
       "url": "https://open.spotify.com/track/0nl2HbKhvPc7uot3ikqGnX"
@@ -19896,6 +19918,24 @@
       "duration_ms": 197625,
       "name": "Symptoms of You",
       "url": "https://open.spotify.com/track/2JpOjYurMmAaEZGpM8SFnO"
+    },
+    {
+      "album": {
+        "name": "SYNCHRONISE",
+        "url": "https://open.spotify.com/album/1mdNBVINpDl4aqraHZTAnV"
+      },
+      "artists": [
+        {
+          "name": "AITKEN",
+          "url": "https://open.spotify.com/artist/1MLTzskLFbXeHDoL98LZZz"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225155,
+      "name": "SYNCHRONISE",
+      "url": "https://open.spotify.com/track/4WahUNo8MbgaRb2J9XlB1d"
     },
     {
       "album": {
@@ -22059,6 +22099,24 @@
     },
     {
       "album": {
+        "name": "Undone",
+        "url": "https://open.spotify.com/album/0c0hugkQWeSQCkmeD4zGzl"
+      },
+      "artists": [
+        {
+          "name": "Brumale",
+          "url": "https://open.spotify.com/artist/14wyoxZJxl0y0ayWvJtZY7"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222437,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/6aQertTfs9Yp9avMVNVyvS"
+    },
+    {
+      "album": {
         "name": "Serendipitous Ruse (Deluxe)",
         "url": "https://open.spotify.com/album/4RHX1QDINQsvXt2NAoqaOS"
       },
@@ -22568,6 +22626,24 @@
       "duration_ms": 243428,
       "name": "Wake Up Call (feat. F R E D U A of Bad Rabbits)",
       "url": "https://open.spotify.com/track/1gx2AOizi4LUrSgFySLEM7"
+    },
+    {
+      "album": {
+        "name": "Walk Alone",
+        "url": "https://open.spotify.com/album/5cuCbtHxbawgrCr32BCXxQ"
+      },
+      "artists": [
+        {
+          "name": "Spinors",
+          "url": "https://open.spotify.com/artist/0asKMw6TsfGdeellBaHSuf"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247816,
+      "name": "Walk Alone",
+      "url": "https://open.spotify.com/track/5LkI0G08PkQXYp3KIIcx4N"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 635613,
+  "num_followers": 635731,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAABqCjQE7DKc+KbAN1Fx1+bR",
+  "snapshot_id": "aeF4AAAAAAAGsp+WH9byEhQUxwrMbwUr",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 212280,
-      "name": "This Love (G-Dragon Solo)",
-      "url": "https://open.spotify.com/track/2BLYXxyrBvCCrzvtVFtPWc"
+      "duration_ms": 179586,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 179586,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9"
+      "duration_ms": 212280,
+      "name": "This Love (G-Dragon Solo)",
+      "url": "https://open.spotify.com/track/2BLYXxyrBvCCrzvtVFtPWc"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
         "url": "https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 224053,
       "name": "Untitled, 2014 - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
       "url": "https://open.spotify.com/track/2C0LOJPcnVcSKCX3N0DqEn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
     },
     {
       "added_at": null,

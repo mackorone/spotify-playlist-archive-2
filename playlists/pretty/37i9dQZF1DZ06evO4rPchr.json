@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAABP7A548zae4EXeQCAR9f8G",
+  "snapshot_id": "aeF4AAAAAACMqs7oBgbPYaV7PSOikMG2",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zid",
+        "url": "https://open.spotify.com/album/3thSuW2b2Udc4407eqqbcg"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 424766,
+      "name": "Zid",
+      "url": "https://open.spotify.com/track/4Dg2phZYxFdgh2pmPovfGB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "vari/ations - Ode to Oram",
         "url": "https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 245106,
       "name": "Electronic Music Is Loud",
       "url": "https://open.spotify.com/track/0LmO1ICHFGsgYvXv3iGjU6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zid",
-        "url": "https://open.spotify.com/album/3thSuW2b2Udc4407eqqbcg"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 424766,
-      "name": "Zid",
-      "url": "https://open.spotify.com/track/4Dg2phZYxFdgh2pmPovfGB"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 581964,
-      "name": "Cultivating Self Love",
-      "url": "https://open.spotify.com/track/58JWS7ldLdrmCN0theav1k"
+      "duration_ms": 594500,
+      "name": "The Sun Swirls Within You",
+      "url": "https://open.spotify.com/track/6F51yoqVfFpHfLKBlsYd6b"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 294654,
-      "name": "A Portal To Silver Linings",
-      "url": "https://open.spotify.com/track/1847QMgarVgg8Md0LfK8EJ"
+      "duration_ms": 266429,
+      "name": "I Surrender",
+      "url": "https://open.spotify.com/track/0QELACvO7OB3XW4FrfrQM5"
     },
     {
       "added_at": null,
@@ -275,18 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bravespace (Presented by the Smithsonian Asian Pacific American Center)",
-        "url": "https://open.spotify.com/album/70eaiN3oZg5g34RMOAO2HY"
+        "name": "Just a Feeling",
+        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
       },
       "artists": [
         {
           "name": "Arushi Jain",
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        },
+        {
+          "name": "OSE",
+          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
         }
       ],
-      "duration_ms": 306548,
-      "name": "A Salve That Travels Time",
-      "url": "https://open.spotify.com/track/4DW5SyJfmovob9O7UDxFHN"
+      "duration_ms": 359493,
+      "name": "Farida",
+      "url": "https://open.spotify.com/track/75sS8w13lxeUTKx6k0HR0K"
     },
     {
       "added_at": null,
@@ -300,9 +304,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 594500,
-      "name": "The Sun Swirls Within You",
-      "url": "https://open.spotify.com/track/6F51yoqVfFpHfLKBlsYd6b"
+      "duration_ms": 581964,
+      "name": "Cultivating Self Love",
+      "url": "https://open.spotify.com/track/58JWS7ldLdrmCN0theav1k"
     },
     {
       "added_at": null,
@@ -384,15 +388,15 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 266429,
-      "name": "I Surrender",
-      "url": "https://open.spotify.com/track/0QELACvO7OB3XW4FrfrQM5"
+      "duration_ms": 294654,
+      "name": "A Portal To Silver Linings",
+      "url": "https://open.spotify.com/track/1847QMgarVgg8Md0LfK8EJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "We Shall Overcome / Hum Honge Kaamyaab",
-        "url": "https://open.spotify.com/album/7jg2abOJUGNjGyWaSo4m5z"
+        "name": "Bravespace (Presented by the Smithsonian Asian Pacific American Center)",
+        "url": "https://open.spotify.com/album/70eaiN3oZg5g34RMOAO2HY"
       },
       "artists": [
         {
@@ -400,29 +404,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 332464,
-      "name": "Hum Honge Kaamyab / We Shall Overcome",
-      "url": "https://open.spotify.com/track/6NCbGeuETdHYmhLX2fLnjT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just a Feeling",
-        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        },
-        {
-          "name": "OSE",
-          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
-        }
-      ],
-      "duration_ms": 359493,
-      "name": "Farida",
-      "url": "https://open.spotify.com/track/75sS8w13lxeUTKx6k0HR0K"
+      "duration_ms": 306548,
+      "name": "A Salve That Travels Time",
+      "url": "https://open.spotify.com/track/4DW5SyJfmovob9O7UDxFHN"
     },
     {
       "added_at": null,
@@ -443,6 +427,22 @@
       "duration_ms": 698479,
       "name": "I Feel Incomplete Without Sound",
       "url": "https://open.spotify.com/track/6NfGbV2WnS5yv2y5Um4u6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Shall Overcome / Hum Honge Kaamyaab",
+        "url": "https://open.spotify.com/album/7jg2abOJUGNjGyWaSo4m5z"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 332464,
+      "name": "Hum Honge Kaamyab / We Shall Overcome",
+      "url": "https://open.spotify.com/track/6NCbGeuETdHYmhLX2fLnjT"
     },
     {
       "added_at": null,

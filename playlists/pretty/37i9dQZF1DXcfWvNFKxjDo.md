@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: AVAION, BUNT.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,801 likes - 91 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,821 likes - 91 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 33 | [Love Me Like You Do](https://open.spotify.com/track/1TUpzH5oGm9duZErsew2tL) | [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Love Me Like You Do](https://open.spotify.com/album/0npg4eqtmVFAvHnLB3xaZy) | 2:13 |
 | 34 | [Brauch Dich](https://open.spotify.com/track/12zuI5yNKpJYXSWdV0y1ca) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO) | [Brauch Dich](https://open.spotify.com/album/6mBYIMuSjeaGM5LBVa3ywH) | 2:22 |
 | 35 | [stay](https://open.spotify.com/track/1QLJZ0k0nRDlbKoTGtyKJQ) | [all things break](https://open.spotify.com/artist/7krmtqHJ8N1fg1JkjlrP0P) | [stay](https://open.spotify.com/album/48uDIpaAQjpm7jVh96pJad) | 3:11 |
-| 36 | [Mercy](https://open.spotify.com/track/2sF8IfnLaK0sBi2h1SNA5K) | [Cleopard2000](https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl), [SUE](https://open.spotify.com/artist/0Rzj2cKzQvOqiatNxcsRwc) | [Mercy](https://open.spotify.com/album/1oJGWfvIbIGdDq8iyaYnZk) | 2:38 |
+| 36 | [Mercy](https://open.spotify.com/track/2sF8IfnLaK0sBi2h1SNA5K) | [Cleopard2000](https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl), [SUE](https://open.spotify.com/artist/4cNPkJjrFzSIGN7oTvJH6Q) | [Mercy](https://open.spotify.com/album/1oJGWfvIbIGdDq8iyaYnZk) | 2:38 |
 | 37 | [Make You Move](https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Make You Move](https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr) | 2:24 |
 | 38 | [Chicago Baby](https://open.spotify.com/track/2AkcyJ8tQtyrGfkWa6GKed) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI) | [Chicago Baby](https://open.spotify.com/album/56qBECtIQmJtnafmpF70IS) | 3:36 |
 | 39 | [Devotion \(Sweetest Emotion\)](https://open.spotify.com/track/6ffejqaHW8eatoka1sntka) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Devotion \(Sweetest Emotion\)](https://open.spotify.com/album/5lr9NRdfJmcITfu7NCObUC) | 2:37 |

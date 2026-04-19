@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 全セットリストを公開！2026年4月3日\(金\)\~4月5日\(日\)に幕張メッセで開催されたヒップホップフェスティバル『POP YOURS』の公式プレイリスト。プレイリストでセットリストを再現。
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,002 likes - 370 songs - 19 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,015 likes - 370 songs - 19 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -379,4 +379,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 369 | [Wind Rise](https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Speed Tape](https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD) | 3:05 |
 | 370 | [K2](https://open.spotify.com/track/6DLluOMr9V8xZCM3w3hagV) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [N.I.T.O.](https://open.spotify.com/album/3FfM39wTQC0EZ4zyNE8Yl1) | 3:00 |
 
-Snapshot ID: `AAAAAK8UpO9XVY5rjASnPc6U7fv0N5Wf`
+Snapshot ID: `AAAAAOvcB6oRzuAdAIpNEFiklZJq0aEA`

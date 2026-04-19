@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Sanfara, Blingos
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,826 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,830 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 59 | [Machefounich \| ماشافونيش](https://open.spotify.com/track/2lXA71K1NU6XMFaMUNOSFm) | [Yousfi](https://open.spotify.com/artist/3Sbb6TiJ8LLT877N4BlAJj) | [Machefounich \| ماشافونيش](https://open.spotify.com/album/2SkGb7EeKzUq2PUQYZzQZK) | 2:59 |
 | 60 | [CHARIKET DAJEJ](https://open.spotify.com/track/35f6wic5uLR4WRp5If8M6W) | [Fossa](https://open.spotify.com/artist/7yqZYVFUskYyKDyilalfFX) | [CHARIKET DAJEJ](https://open.spotify.com/album/70TUm5iv6DcULHTn0zxo7r) | 3:31 |
 
-Snapshot ID: `AAAAAMUMpWUqKhK3ThcmDTO2MAcoM8+d`
+Snapshot ID: `AAAAALjAxjML53/hRkLiEH71Kz5N5FEC`

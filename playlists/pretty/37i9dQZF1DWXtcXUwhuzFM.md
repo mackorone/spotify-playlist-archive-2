@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Lauri Haav, Sara Bee, Minttu, Costi..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,460 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,473 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 24 | [BROKE BITCH FREE$TYLE](https://open.spotify.com/track/32HAF87vgPSUQ6l6pRO7Er) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BROKE BITCH FREE$TYLE](https://open.spotify.com/album/5dqawOCoShBIAN8R9Dl0GE) | 2:13 |
 | 25 | [Sä Kannoit Mua](https://open.spotify.com/track/7LF0RYLBxYCWrkHqhDTDVl) | [Immanuel](https://open.spotify.com/artist/57KAL3JM9mmp29xb8dUvpr), [Kristiina Brask](https://open.spotify.com/artist/5L0xsQmR0XRypu4bkbyoz9) | [Sä Kannoit Mua](https://open.spotify.com/album/5p3AJrgUcHGQ4RfD3AAV6K) | 4:12 |
 | 26 | [Ympäri maailmaa](https://open.spotify.com/track/78k4zRWQ3gfREahzHXZCor) | [AB](https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm) | [Ympäri maailmaa](https://open.spotify.com/album/3PPoGONHbrijon7eHSJkFR) | 2:38 |
-| 27 | [JOS MÄ EN OLIS MÄ](https://open.spotify.com/track/6W4ymdQE8uDEwsGfVHwTQM) | [AMOS](https://open.spotify.com/artist/6JsqBVZCacwbrmNCT0Dvh0), [TANDO](https://open.spotify.com/artist/3CKpp8fnJhTN5oVpICkITd) | [JOS MÄ EN OLIS MÄ](https://open.spotify.com/album/6pupSCBlhbr3dyCHpFfJUb) | 3:31 |
+| 27 | [JOS MÄ EN OLIS MÄ](https://open.spotify.com/track/6W4ymdQE8uDEwsGfVHwTQM) | [AMOS](https://open.spotify.com/artist/6JsqBVZCacwbrmNCT0Dvh0), [TANDO](https://open.spotify.com/artist/4WNNJp7mhMDkCFCdOkYvIj) | [JOS MÄ EN OLIS MÄ](https://open.spotify.com/album/6pupSCBlhbr3dyCHpFfJUb) | 3:31 |
 | 28 | [Jos tahdot mennä](https://open.spotify.com/track/39yOxDPXBRwfsV4skfnCTN) | [MiikaTheMachine](https://open.spotify.com/artist/5FAhf7LqHXQFotRrN7eLZf) | [Jos tahdot mennä](https://open.spotify.com/album/7bzVFDLeINQ5VuiLv7PM4b) | 2:28 |
 | 29 | [Mauton](https://open.spotify.com/track/2Y2hEAwu8edH5CXSyVVd3Q) | [Adrenalina](https://open.spotify.com/artist/5GjxBSFVuxalIetf7RYQkX), [Vgr](https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9) | [Mauton](https://open.spotify.com/album/1ZyQLMMFm1rtQA1md3Z14d) | 2:34 |
 | 30 | [\#vähänjosviinii](https://open.spotify.com/track/5CsQwu8efWBdxMSZtuHAvA) | [Johannes Piste](https://open.spotify.com/artist/5vnoM28GMu9y3SahV0G966), [Mira Kontio](https://open.spotify.com/artist/7aAQt0uRHIXgJR229MAuRr) | [\#vähänjosviinii](https://open.spotify.com/album/1OxOEVb5ypNPN1EJooM9sb) | 3:08 |

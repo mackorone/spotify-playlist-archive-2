@@ -4,7 +4,7 @@
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-96 songs - 6 hr 3 min
+97 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,10 +50,11 @@
 | [I Want You \- Interlude](https://open.spotify.com/track/6Hur7QmuHJsPG59BNRw1pn) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 1:08 | 2025-06-08 | 2025-06-26 |
 | [I'm Here](https://open.spotify.com/track/1w2k1OOCSy3ez40D3TQs7L) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 4:31 | 2024-12-14 |  |
 | [I've Already Won](https://open.spotify.com/track/6CiLixdgvog7l1tY18vEaz) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 3:07 | 2024-12-14 | 2025-11-09 |
+| [If I Only Had A Brain](https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [If I Only Had A Brain](https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI) | 3:10 | 2026-04-19 |  |
 | [Inside \(feat\. Cynthia Erivo\)](https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Bobby Tarantino III](https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h) | 2:20 | 2024-12-14 |  |
 | [Intro \(feat\. Cynthia Erivo\)](https://open.spotify.com/track/63eoy4e3b9uSh8g79fhnWc) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:40 | 2024-12-14 |  |
 | [I’m Not That Girl](https://open.spotify.com/track/2tWioTW2rs0CXf1dTXlRrX) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 3:57 | 2024-12-14 |  |
-| [Jump](https://open.spotify.com/track/2Y8G0g8ob0QfL8mubxi6bA) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [STEP \(Music From and Inspired by the Motion Picture\)](https://open.spotify.com/album/0Mq5k6flqV4doXtSQvNpuG) | 5:59 | 2024-12-14 |  |
+| [Jump](https://open.spotify.com/track/2Y8G0g8ob0QfL8mubxi6bA) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [STEP \(Music From and Inspired by the Motion Picture\)](https://open.spotify.com/album/0Mq5k6flqV4doXtSQvNpuG) | 5:59 | 2024-12-14 | 2026-04-19 |
 | [Miss Celie's Pants](https://open.spotify.com/track/79ybmPyIMIH5WQ2npAiurG) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5), [Danielle Brooks](https://open.spotify.com/artist/3o7rfKaMhmxynZyNb9uziE) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 2:41 | 2025-01-08 | 2025-11-07 |
 | [More Than Twice](https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:33 | 2025-06-23 |  |
 | [My Funny Valentine](https://open.spotify.com/track/6JyFgebcvdpni9fYO4X7wN) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Billy Porter Presents: The Soul of Richard Rodgers](https://open.spotify.com/album/6kb6n9vKLCgHFUxAploR9a) | 4:32 | 2024-12-14 | 2025-11-09 |

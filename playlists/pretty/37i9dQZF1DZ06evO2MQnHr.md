@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MQnHr.md) - [plain]
 
 > This is Madeline Merlo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481 likes - 36 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 482 likes - 36 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MQnHr.md) - [plain]
 | 14 | [Neon Love](https://open.spotify.com/track/0sKeaaAQYBTTkO8drpnEN1) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Neon Love](https://open.spotify.com/album/18e5sUiTLTXM7Kk05LU75j) | 3:09 |
 | 15 | [Motel Flamingo](https://open.spotify.com/track/3o4n673cQvRJ0mON7vg5pF) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Motel Flamingo](https://open.spotify.com/album/3qxC1n7VT78zERw6tUByxR) | 3:32 |
 | 16 | [Take A Broken Heart](https://open.spotify.com/track/2xAD7x9ZZ0JRzTg9X63Yxt) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Take A Broken Heart](https://open.spotify.com/album/2Gdv4H1aIjyLMklwti30lM) | 2:49 |
-| 17 | [Makeup](https://open.spotify.com/track/6YJEl1f1oU2232iziGXhQr) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Makeup](https://open.spotify.com/album/0gMQ8smzxR8h75ByKOhyYR) | 3:07 |
-| 18 | [Unraveling](https://open.spotify.com/track/6DwP8U1JYIEQPVo8QU9JO7) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Unraveling](https://open.spotify.com/album/1DigFIrYSADGMkHyWAb11D) | 3:32 |
+| 17 | [Unraveling](https://open.spotify.com/track/6DwP8U1JYIEQPVo8QU9JO7) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Unraveling](https://open.spotify.com/album/1DigFIrYSADGMkHyWAb11D) | 3:32 |
+| 18 | [Makeup](https://open.spotify.com/track/6YJEl1f1oU2232iziGXhQr) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Makeup](https://open.spotify.com/album/0gMQ8smzxR8h75ByKOhyYR) | 3:07 |
 | 19 | [Honey Jack](https://open.spotify.com/track/6xh9ldjY4JllfaguxDQqz5) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Free Soul](https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44) | 3:08 |
 | 20 | [To Have You Stay](https://open.spotify.com/track/5SrbIv4Xn7SH9fRngBz8kP) | [Jana Kramer](https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf), [Munro Chambers](https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d), [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Country Crush \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd) | 3:42 |
-| 21 | [You'll Think Of Me](https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [You'll Think Of Me](https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89) | 4:07 |
-| 22 | [One House Down \(from the girl next door\)](https://open.spotify.com/track/4wk1APZHRP9kmb1KQqQKHO) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [ONE HOUSE DOWN \(from the girl next door\)](https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU) | 2:50 |
+| 21 | [One House Down \(from the girl next door\)](https://open.spotify.com/track/4wk1APZHRP9kmb1KQqQKHO) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [ONE HOUSE DOWN \(from the girl next door\)](https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU) | 2:50 |
+| 22 | [You'll Think Of Me](https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [You'll Think Of Me](https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89) | 4:07 |
 | 23 | [Crush](https://open.spotify.com/track/1tZ1TWoBfBIOnWU3ieSRzk) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Free Soul](https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44) | 3:27 |
 | 24 | [I Need A Drink](https://open.spotify.com/track/5IEovkT4oqFuDIkxIuhAvb) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ) | 3:10 |
 | 25 | [One and Only You \(Reprise\)](https://open.spotify.com/track/6O81ZUkZG4tnOJQE56nAij) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu), [Munro Chambers](https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d), [Jana Kramer](https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf) | [Country Crush \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd) | 3:32 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MQnHr.md) - [plain]
 | 35 | [Have You Ever Had so Much Fun](https://open.spotify.com/track/6RLXgDhOcbWP3mhqidBFXD) | [Munro Chambers](https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d), [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Country Crush \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd) | 3:43 |
 | 36 | [Don't](https://open.spotify.com/track/5ziCJSpPo7Gjo0yXoGsu4v) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Country Crush \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd) | 4:20 |
 
-Snapshot ID: `aeAmgAAAAADmpZUml9vyDB2A/P9F8ODG`
+Snapshot ID: `aeF4AAAAAAAlv3fJ/v6Xi25UBbyv1ORV`

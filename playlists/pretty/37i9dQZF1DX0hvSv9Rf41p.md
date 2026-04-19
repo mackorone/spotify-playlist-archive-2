@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 featuring Subtronics
 
-[Spotify](https://open.spotify.com/user/spotify) - 992,690 likes - 90 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 992,844 likes - 90 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 32 | [Stranglehold](https://open.spotify.com/track/4lJVKxAShrUBxHFz6YSqsd) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv), [Gabriel Eli](https://open.spotify.com/artist/6Ro6AlBLndB1ttsLAOZP6h) | [Stranglehold](https://open.spotify.com/album/6J7InYgRpBPmIJWcMVFeFS) | 2:43 |
 | 33 | [STFU](https://open.spotify.com/track/4fkKvnl1ndRKRzJBwWnCdT) | [Malaa \(Alter Ego\)](https://open.spotify.com/artist/23OllNLLdftM8a6HhEhAi9), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [STFU](https://open.spotify.com/album/3FIpsiZhamKYiUQ3hquB7G) | 2:42 |
 | 34 | [Homework \(feat\. Lancey Foux\)](https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Homework \(feat\. Lancey Foux\)](https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi) | 2:34 |
-| 35 | [Nexus](https://open.spotify.com/track/7Db3ixbu5fo3uUZ2ZyQDKW) | [G\-REX](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb) | [Nexus](https://open.spotify.com/album/7FohOMeifnnZOsoDFOybRZ) | 2:31 |
+| 35 | [NEXUS](https://open.spotify.com/track/7Db3ixbu5fo3uUZ2ZyQDKW) | [G\-REX](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb) | [NEXUS](https://open.spotify.com/album/7FohOMeifnnZOsoDFOybRZ) | 2:31 |
 | 36 | [Shine](https://open.spotify.com/track/2WOX91Z1AZlkFgF3qBV1TU) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Levex](https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef) | [Inferno](https://open.spotify.com/album/6dCpnvdq8U4plaAKwFJ52M) | 2:31 |
 | 37 | [SOUNDBOY KILLA](https://open.spotify.com/track/1ZMThGlkCbuqem8pQnoWND) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W) | [SOUNDBOY KILLA](https://open.spotify.com/album/39w0iisr7ZAkpm8gLT188R) | 3:32 |
 | 38 | [A.F.B.1.](https://open.spotify.com/track/0IMWZ7rMu864N1ouQsBpkQ) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [A.F.B.1.](https://open.spotify.com/album/2ki6eX40TKfZgzo7CSwFJ7) | 3:03 |

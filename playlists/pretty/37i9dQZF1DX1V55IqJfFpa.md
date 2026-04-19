@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V55IqJfFpa.md) - [plain]
 
 > aquí pura vibra chida ✨ Blessd en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,070 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,088 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V55IqJfFpa.md) - [plain]
 | 99 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
 | 100 | [Todo a Su Tiempo](https://open.spotify.com/track/6sBjyBwRAQEONPaJunUZVm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [Todo a Su Tiempo](https://open.spotify.com/album/7fa8NmCDRgIP5BRkdYWG5i) | 3:00 |
 
-Snapshot ID: `AAAAAMXhTcDpPFRXp3jxQQTAawfxUvro`
+Snapshot ID: `AAAAAAt/3cuy8Qf9BchDSsI0LUl0+aBo`

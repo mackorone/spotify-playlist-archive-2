@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31861,
+  "num_followers": 31859,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAAAUFTVI3Cm+5KFbZW4JhcTh",
+  "snapshot_id": "aeF4AAAAAADGi8sDEUstq8V8QA40MM+f",
   "tracks": [
     {
       "added_at": null,
@@ -67,18 +67,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Si Te Quieres Quedar",
-        "url": "https://open.spotify.com/album/5cKAoN0HixEqmJvIM9WyHC"
+        "name": "En Medio De Este Ruido (Deluxe)",
+        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
       },
       "artists": [
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 214268,
-      "name": "Por Si Te Quieres Quedar",
-      "url": "https://open.spotify.com/track/1IOFN550MP5nd2qRfoDaTG"
+      "duration_ms": 211480,
+      "name": "Sonre\u00edr",
+      "url": "https://open.spotify.com/track/3EYbyZ31BsZ96HEraj3za7"
     },
     {
       "added_at": null,
@@ -99,22 +103,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Medio De Este Ruido (Deluxe)",
-        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
+        "name": "Por Si Te Quieres Quedar",
+        "url": "https://open.spotify.com/album/5cKAoN0HixEqmJvIM9WyHC"
       },
       "artists": [
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 211480,
-      "name": "Sonre\u00edr",
-      "url": "https://open.spotify.com/track/3EYbyZ31BsZ96HEraj3za7"
+      "duration_ms": 214268,
+      "name": "Por Si Te Quieres Quedar",
+      "url": "https://open.spotify.com/track/1IOFN550MP5nd2qRfoDaTG"
     },
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Su Amor (with KURT)",
-        "url": "https://open.spotify.com/album/0hj1gYgviTYvdi2nRxyMzP"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 221336,
-      "name": "Por Su Amor (with KURT)",
-      "url": "https://open.spotify.com/track/4YdQIvvHkj5jzcFUURKHe3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caminando en Fuego",
         "url": "https://open.spotify.com/album/7x9q5ua9T2N8JAcuDVoIoS"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 245600,
       "name": "Se\u00f1al",
       "url": "https://open.spotify.com/track/2EZeX3b1nCIVyOd215dIhc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Su Amor (with KURT)",
+        "url": "https://open.spotify.com/album/0hj1gYgviTYvdi2nRxyMzP"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 221336,
+      "name": "Por Su Amor (with KURT)",
+      "url": "https://open.spotify.com/track/4YdQIvvHkj5jzcFUURKHe3"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 157426,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "B\u00f3rrame",
         "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
       },
@@ -759,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML"
       },
       "artists": [
         {
@@ -768,9 +784,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 157426,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
+      "duration_ms": 187693,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 173720,
       "name": "S\u00f3lo Muere Si Se Olvida",
       "url": "https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H"
     },
     {
       "added_at": null,

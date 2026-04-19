@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 30047,
+  "num_followers": 30056,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAAA/F6acoRt1VPyFuOTDnJXl",
+  "snapshot_id": "aeF4AAAAAAB7LIFYyaktrAbir9NrFN+k",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "duration_ms": 173806,
+      "name": "Rackies (feat. ATL Jacob)",
+      "url": "https://open.spotify.com/track/0UcuymskcvzMYexnJiVBmd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "U Kno What To Do (UKWTD)",
         "url": "https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7"
       },
@@ -647,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOTH WAYS",
-        "url": "https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN"
-      },
-      "artists": [
-        {
-          "name": "PLUTO",
-          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
-      "url": "https://open.spotify.com/track/7hh2C7xVRXOCiljojwYITf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bow Bow Bow (F My Baby Daddy Freestyle)",
         "url": "https://open.spotify.com/album/68hjCuAod6dhaeLvNnYS7l"
       },
@@ -683,6 +683,26 @@
       "duration_ms": 81802,
       "name": "Bow Bow Bow - F My Baby Daddy Freestyle",
       "url": "https://open.spotify.com/track/6jxSWts4DsWiC8w48A1Yri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BOTH WAYS",
+        "url": "https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
+      "url": "https://open.spotify.com/track/7hh2C7xVRXOCiljojwYITf"
     },
     {
       "added_at": null,
@@ -771,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MMM HMM (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI"
-      },
-      "artists": [
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 158137,
-      "name": "MMM HMM (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SLUT ME OUT (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
       },
@@ -807,6 +807,26 @@
       "duration_ms": 203858,
       "name": "SLUT ME OUT (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MMM HMM (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 158137,
+      "name": "MMM HMM (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
     },
     {
       "added_at": null,
@@ -943,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 155317,
+      "name": "David Ruffin",
+      "url": "https://open.spotify.com/track/5qm8RDbGx8l6T87Y9K0Q7y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Daddy (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp"
       },
@@ -975,46 +1011,6 @@
       "duration_ms": 147450,
       "name": "Hoochie Coochie",
       "url": "https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "304",
-        "url": "https://open.spotify.com/album/7jzfSVErVWElb4oq7UcnEH"
-      },
-      "artists": [
-        {
-          "name": "E.K.E.",
-          "url": "https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 140769,
-      "name": "304",
-      "url": "https://open.spotify.com/track/7fSDdazwuxvg30dLu9niYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4eva Us Neva Them",
-        "url": "https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 178911,
-      "name": "N.P.O. (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/6l2mk4tLcEVs6Bmm7LNVig"
     }
   ],
   "unique_name": "This Is Sexyy Red",

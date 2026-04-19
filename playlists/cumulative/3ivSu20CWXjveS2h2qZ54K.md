@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-7,697 songs - 17 day 18 hr 41 min
+7,698 songs - 17 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3134,6 +3134,7 @@
 | [I Don’t Work Here Anymore](https://open.spotify.com/track/0VmGgo6i8HOmrp5y8qqBxQ) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Motel Du Cap](https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD) | 3:41 | 2025-08-07 | 2025-08-16 |
 | [I DRINK THE LIGHT](https://open.spotify.com/track/4ytjR8q5geAVO7EQM9Gjzd) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [I DRINK THE LIGHT](https://open.spotify.com/album/0Ysa2JxQZVJQxLb6qVO6NO) | 7:56 | 2026-04-17 |  |
 | [I Feel Good](https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [I Feel Good](https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68) | 3:49 | 2026-01-23 | 2026-01-31 |
+| [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 5:03 | 2026-04-18 |  |
 | [i got the boy](https://open.spotify.com/track/2iHcFtwALFWm6Xth2KtELi) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [something in the air](https://open.spotify.com/album/5vkRRg6KTodHQYFdqx7Nud) | 3:41 | 2024-05-31 | 2024-06-12 |
 | [I Gotta Feeling](https://open.spotify.com/track/7FEd0h7dBP1wFK8i8JTyhS) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Top Hits, Ballads, etc...](https://open.spotify.com/album/7qDMO5AzXFbnBt8DhaX4A5) | 3:17 | 2025-05-09 | 2025-05-17 |
 | [I Guess Time Just Makes Fools of Us All](https://open.spotify.com/track/3i8TRXOR9zN91ZSBtcsxlj) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Guess Time Just Makes Fools of Us All](https://open.spotify.com/album/5B3dSXLSRdzaY4yESmkP9b) | 8:35 | 2024-08-01 | 2024-08-10 |

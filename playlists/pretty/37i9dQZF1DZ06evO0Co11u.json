@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 197442,
+  "num_followers": 197451,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAACsT4HgKNqtXCRKMQXV+5nZ",
+  "snapshot_id": "aeF4AAAAAAC7WhqH6aU2Cde9THuhE6cq",
   "tracks": [
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo In Style (Expanded Edition)",
-        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Gordon Jenkins Orchestra And Choir",
-          "url": "https://open.spotify.com/artist/4DFtmixDoblcLyzmQK0Y2I"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "That Lucky Old Sun (Just Rolls Around Heaven All Day) - Single Version",
-      "url": "https://open.spotify.com/track/2qioTZNYxZawZMTuL5TEXv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ambassador Satch",
         "url": "https://open.spotify.com/album/58kHPlQWaYIBgLnYmBObvG"
       },
@@ -863,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of Louis Armstrong",
-        "url": "https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC"
+        "name": "Satchmo In Style (Expanded Edition)",
+        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
       },
       "artists": [
         {
@@ -872,13 +852,13 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         },
         {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+          "name": "Gordon Jenkins Orchestra And Choir",
+          "url": "https://open.spotify.com/artist/4DFtmixDoblcLyzmQK0Y2I"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/6ekrqvy9b9HROq5xX7lwWw"
+      "duration_ms": 182506,
+      "name": "That Lucky Old Sun (Just Rolls Around Heaven All Day) - Single Version",
+      "url": "https://open.spotify.com/track/2qioTZNYxZawZMTuL5TEXv"
     },
     {
       "added_at": null,
@@ -903,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo In Style (Expanded Edition)",
-        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
+        "name": "The Very Best Of Louis Armstrong",
+        "url": "https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC"
       },
       "artists": [
         {
@@ -912,13 +892,13 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         },
         {
-          "name": "Gordon Jenkins And Orchestra",
-          "url": "https://open.spotify.com/artist/0te6SxImmbdkGXxSQw9lmK"
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 194160,
-      "name": "When It's Sleepy Time Down South",
-      "url": "https://open.spotify.com/track/07NPpmKrMZEIpOp5ELr7g3"
+      "duration_ms": 190640,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6ekrqvy9b9HROq5xX7lwWw"
     },
     {
       "added_at": null,
@@ -935,6 +915,26 @@
       "duration_ms": 186573,
       "name": "Kiss Of Fire",
       "url": "https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satchmo In Style (Expanded Edition)",
+        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Gordon Jenkins And Orchestra",
+          "url": "https://open.spotify.com/artist/0te6SxImmbdkGXxSQw9lmK"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "When It's Sleepy Time Down South",
+      "url": "https://open.spotify.com/track/07NPpmKrMZEIpOp5ELr7g3"
     },
     {
       "added_at": null,

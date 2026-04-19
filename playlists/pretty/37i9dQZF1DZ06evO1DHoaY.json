@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2074297,
+  "num_followers": 2074369,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAADLNbfDewQeEHCXgaihaO+o",
+  "snapshot_id": "aeF4AAAAAAAqVjTRLi7r2R4uwSsauUWx",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 197573,
-      "name": "Get Up, Stand Up",
-      "url": "https://open.spotify.com/track/0q5giEtY4wsFTwjWqswLwx"
+      "duration_ms": 330760,
+      "name": "Stir It Up",
+      "url": "https://open.spotify.com/track/4FNm4ZJaUVLDCMXcqwS6zY"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 330760,
-      "name": "Stir It Up",
-      "url": "https://open.spotify.com/track/4FNm4ZJaUVLDCMXcqwS6zY"
+      "duration_ms": 197573,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/0q5giEtY4wsFTwjWqswLwx"
     },
     {
       "added_at": null,

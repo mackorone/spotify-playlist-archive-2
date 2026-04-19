@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 255381,
+  "num_followers": 255391,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAAAZbUI7zGTu3oV+k2gnfm7D",
+  "snapshot_id": "aeF4AAAAAACMkmmALwhWSKXefGkYPoc8",
   "tracks": [
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Short n' Sweet (Deluxe)",
-        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 184136,
-      "name": "Please Please Please (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/6nrSo5ZWhsai0oeX257rRF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio II (2016 Remaster)",
         "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
       },
@@ -375,6 +355,46 @@
       "duration_ms": 211586,
       "name": "After the Gold Rush - 2015 Remaster",
       "url": "https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 184136,
+      "name": "Please Please Please (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/6nrSo5ZWhsai0oeX257rRF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Porter Wagoner & Dolly Parton",
+        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
     },
     {
       "added_at": null,
@@ -407,26 +427,6 @@
       "duration_ms": 227692,
       "name": "Light of a Clear Blue Morning",
       "url": "https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Porter Wagoner & Dolly Parton",
-        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "The Last Thing On My Mind",
-      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
     },
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever More (Love Songs, Hits & Duets)",
-        "url": "https://open.spotify.com/album/6ZYynOoi9YEBlSCUPE5Dlg"
-      },
-      "artists": [
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "The Day I Fall In Love - Featuring Dolly Parton",
-      "url": "https://open.spotify.com/track/0bi3Yuwv936oMxD2VIK2Ci"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/6o6STE55cbhH4BuM2EJRL9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever More (Love Songs, Hits & Duets)",
+        "url": "https://open.spotify.com/album/6ZYynOoi9YEBlSCUPE5Dlg"
+      },
+      "artists": [
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "The Day I Fall In Love - Featuring Dolly Parton",
+      "url": "https://open.spotify.com/track/0bi3Yuwv936oMxD2VIK2Ci"
     },
     {
       "added_at": null,
@@ -743,6 +743,26 @@
       "duration_ms": 180906,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Son of Jolene",
+        "url": "https://open.spotify.com/album/3VSABVCF9Ltk7mzeghLqUD"
+      },
+      "artists": [
+        {
+          "name": "Belles",
+          "url": "https://open.spotify.com/artist/09v2CdpT8TVxY6nn6zLnGd"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 189772,
+      "name": "Son of Jolene",
+      "url": "https://open.spotify.com/track/0Yr2UODsf2rs7RHCuJqisL"
     },
     {
       "added_at": null,
@@ -979,22 +999,6 @@
       "duration_ms": 176626,
       "name": "My Dear Companion - 2015 Remaster",
       "url": "https://open.spotify.com/track/4tSwFKkSd6MAN0VZcR0vyR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Smoke",
-        "url": "https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Blue Smoke",
-      "url": "https://open.spotify.com/track/4ktJUA1L4JUwyctMoBQo59"
     }
   ],
   "unique_name": "This Is Dolly Parton",

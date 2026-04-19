@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Tyla & Zara Larsson, Felo Le Tee, Vanco & Deela, Olivia Rodrigo and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,709 likes - 79 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,760 likes - 79 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

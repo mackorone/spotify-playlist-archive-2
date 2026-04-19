@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Saosin
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,163 likes - 101 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,161 likes - 101 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 13 | [肪 ｜Bo](https://open.spotify.com/track/71J6B49V8UJAhbAB3FZpgB) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [肪 ｜Bo](https://open.spotify.com/album/2en4aIjPUvlolSAAXWStDy) | 3:16 |
 | 14 | [Skywriter's Sigh](https://open.spotify.com/track/1IpJdM5NiZ60xKwJRsxvjD) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Skywriter's Sigh](https://open.spotify.com/album/2i3BdHH9rXDWaHaqoxvV3c) | 3:42 |
 | 15 | [Is That A Prayer?](https://open.spotify.com/track/4hWulk2MmnTTgLzYC8IMmW) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Is That A Prayer?](https://open.spotify.com/album/3YHNqnbCp8lPooUyGg7LGp) | 2:02 |
-| 16 | [New Jesus](https://open.spotify.com/track/5jZgMZRnn1yVXkJuH1Gcy5) | [truck violence](https://open.spotify.com/artist/37hhPwqpgSJ3sVixiThL0l) | [New Jesus](https://open.spotify.com/album/3AhRHRo8zqdJi89JI8Gk9s) | 3:07 |
+| 16 | [New Jesus](https://open.spotify.com/track/5jZgMZRnn1yVXkJuH1Gcy5) | [Truck Violence](https://open.spotify.com/artist/37hhPwqpgSJ3sVixiThL0l) | [New Jesus](https://open.spotify.com/album/3AhRHRo8zqdJi89JI8Gk9s) | 3:07 |
 | 17 | [February Flowers](https://open.spotify.com/track/6Olhi061AQDZqAwGbqhXRW) | [Seahaven](https://open.spotify.com/artist/0jLpeMAu3aYRlvbjZd65np) | [February Flowers](https://open.spotify.com/album/5dRTEfKC5oY1jkNUmo661e) | 4:10 |
 | 18 | [Recurring](https://open.spotify.com/track/7doGZN3tOIhC2XshDTWvIQ) | [Crash Of Rhinos](https://open.spotify.com/artist/183vQCgpuNJHxdDCYIpkA4) | [Recurring](https://open.spotify.com/album/6SBlFmVh271ggiKLbJ2GcO) | 4:37 |
 | 19 | [I Don't Wanna Go!](https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Don't Wanna Go!](https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585) | 2:39 |

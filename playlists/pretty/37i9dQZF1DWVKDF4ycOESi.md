@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Madame, ROSALÍA, sombr, Achille Lauro, Lana Del Rey, Olivia Rodrigo e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,671 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,676 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 36 | [\- cose da dirti](https://open.spotify.com/track/4GXzUJsAXPEAuyBmNrQvdv) | [Flamen](https://open.spotify.com/artist/0v8ujlLqWIfCTv9aK3nGMe) | [+ x \-](https://open.spotify.com/album/6lNydXoPFrRYEA073ef7UM) | 2:12 |
 | 37 | [Mwasi Chou](https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Mwasi Chou](https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ) | 2:35 |
 | 38 | [CHUCK THE MONEY](https://open.spotify.com/track/4dyG3W77oSZCxaU7SZC8Mj) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [CHUCK THE MONEY](https://open.spotify.com/album/3CSeM9Ufgof02QTlzL5TEm) | 2:44 |
-| 39 | [Fire](https://open.spotify.com/track/4rDwRReunkleF9aisMmguC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Fire](https://open.spotify.com/album/5n0RsqJukHxaXLDlPFy0K8) | 3:17 |
+| 39 | [Fire](https://open.spotify.com/track/4rDwRReunkleF9aisMmguC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Fire](https://open.spotify.com/album/5n0RsqJukHxaXLDlPFy0K8) | 3:16 |
 | 40 | [If It's Not Love](https://open.spotify.com/track/2pU2UlABXcI31Su0n28Upi) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [If It’s Not Love](https://open.spotify.com/album/21PflNtjjo6CNDiFCPpcpg) | 4:21 |
 | 41 | [Crescere](https://open.spotify.com/track/5p8gWl58IBovZ1xO3oABZD) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [OGNI PICCOLA PARTE](https://open.spotify.com/album/20fpI9bYnqik617zWEjZ3X) | 2:53 |
 | 42 | [MI UCCIDE](https://open.spotify.com/track/7g4Zaq7bR7ud0rJRRKbMaY) | [GIOVAPIÙGIOVA](https://open.spotify.com/artist/2bJ8pwwyjQJfeVcLRQDnlx) | [MI UCCIDE](https://open.spotify.com/album/3nbizBffNRhOlKobXSBpsh) | 2:00 |

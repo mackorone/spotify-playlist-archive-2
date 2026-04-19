@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹 cover: Baltimora
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,866 likes - 123 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,872 likes - 123 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 9 | [Mwasi Chou](https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Mwasi Chou](https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ) | 2:35 |
 | 10 | [pattina](https://open.spotify.com/track/3pfJmGQbc8pq9qiXGtieln) | [VEROSIMILE](https://open.spotify.com/artist/6K9KfaUxJIKk6qZh9a1fVG) | [pattina](https://open.spotify.com/album/60LA9BQa16yvsEWKEoP3tk) | 2:32 |
 | 11 | [MI UCCIDE](https://open.spotify.com/track/7g4Zaq7bR7ud0rJRRKbMaY) | [GIOVAPIÙGIOVA](https://open.spotify.com/artist/2bJ8pwwyjQJfeVcLRQDnlx) | [MI UCCIDE](https://open.spotify.com/album/3nbizBffNRhOlKobXSBpsh) | 2:00 |
-| 12 | [Il coraggio che non ho](https://open.spotify.com/track/5EoP24CMAa8MHh9j82tObR) | [icaro](https://open.spotify.com/artist/7KSeB7JWqSs50h47yIPzfC) | [Il coraggio che non ho](https://open.spotify.com/album/4BusQpXJt6r9O1qLCuoukR) | 3:15 |
+| 12 | [il coraggio che non ho](https://open.spotify.com/track/5EoP24CMAa8MHh9j82tObR) | [icaro](https://open.spotify.com/artist/7KSeB7JWqSs50h47yIPzfC) | [il coraggio che non ho](https://open.spotify.com/album/4BusQpXJt6r9O1qLCuoukR) | 3:15 |
 | 13 | [A galla](https://open.spotify.com/track/3m9B5buG8DZNV0pJ5WrzWe) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [A galla](https://open.spotify.com/album/0MQ9q57Sf3ZVSlvTEMOvQZ) | 3:10 |
 | 14 | [\- cose da dirti](https://open.spotify.com/track/4GXzUJsAXPEAuyBmNrQvdv) | [Flamen](https://open.spotify.com/artist/0v8ujlLqWIfCTv9aK3nGMe) | [+ x \-](https://open.spotify.com/album/6lNydXoPFrRYEA073ef7UM) | 2:12 |
 | 15 | [2 x](https://open.spotify.com/track/4vyfjtLsUz9fHlaibOEVJd) | [Flamen](https://open.spotify.com/artist/0v8ujlLqWIfCTv9aK3nGMe) | [+ x \-](https://open.spotify.com/album/6lNydXoPFrRYEA073ef7UM) | 2:16 |

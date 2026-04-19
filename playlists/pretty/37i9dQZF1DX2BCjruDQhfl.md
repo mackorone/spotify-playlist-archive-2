@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving vibes\. Cover: Dior & Kaya Imani
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,659 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,654 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 3 | [My Boo \(feat\. Kaya Imani\)](https://open.spotify.com/track/0h3Apt2jHZ2e29emFrqQ18) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [My Boo \(feat\. Kaya Imani\)](https://open.spotify.com/album/7AmTGKsC6PLwiCSbbTDcyx) | 2:43 |
 | 4 | [On My Mind](https://open.spotify.com/track/1wf6avCJvxMmxoSS9TdMQ0) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [On My Mind](https://open.spotify.com/album/4LrHUpnY1xu6qqvS06lzAm) | 2:00 |
 | 5 | [Obvious](https://open.spotify.com/track/7xSS8JxxHbQRjH5TNBw36H) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Obvious](https://open.spotify.com/album/7xW3wSUjBg7PaeQOVpgvVv) | 3:06 |
-| 6 | [Kan Je Me Volgen](https://open.spotify.com/track/7qBTQh5awRGYJboVHluNkP) | [Demi Lou](https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ) | [Archive 01: CAPS](https://open.spotify.com/album/3cxKzPkgzyt2waffzY146g) | 2:31 |
+| 6 | [KAN JE ME VOLGEN](https://open.spotify.com/track/7qBTQh5awRGYJboVHluNkP) | [Demi Lou](https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ) | [Archive 01: CAPS](https://open.spotify.com/album/3cxKzPkgzyt2waffzY146g) | 2:31 |
 | 7 | [Peor](https://open.spotify.com/track/1eI4OwFTcejck7QhfEJqr5) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Peor](https://open.spotify.com/album/2TYAcaL7L1qjziRPFOd8GB) | 4:45 |
 | 8 | [FOCUS](https://open.spotify.com/track/2hOSYZ9hfeTA4aonT095Vu) | [Kevcody](https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey) | [FOCUS](https://open.spotify.com/album/3fvYg8i5lO0buTg72J2rwb) | 2:49 |
 | 9 | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW) | 3:34 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 17 | [Solar](https://open.spotify.com/track/3g7MPrFgtKspgboTWgB6rM) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Solar](https://open.spotify.com/album/0LOkMEsbdcrGRlisTDMFBl) | 2:21 |
 | 18 | [Als Jij Het Weet](https://open.spotify.com/track/4X0txCyuKYVnJALD2AmFTD) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Just A Girl](https://open.spotify.com/album/17Cy5j0Oajyx6HwVGh3zh5) | 2:34 |
 | 19 | [Niet Nodig](https://open.spotify.com/track/2jSjvE1cFcQcepowmwF7Kd) | [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Mael](https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7), [NTT](https://open.spotify.com/artist/2aiK06FSZV8lWst1q1LKYQ), [Sinco](https://open.spotify.com/artist/1GEKTsDoAdwpTW21yMTDDD) | [Niet Nodig](https://open.spotify.com/album/3ViO0dR9BlRrNYelkaTMQW) | 1:56 |
-| 20 | [Forever](https://open.spotify.com/track/0FHAPc6SsECSa7BULz2sr0) | [Demi Lou](https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ) | [Forever](https://open.spotify.com/album/3SZCcLP9kfPXhip4CUExkC) | 3:07 |
+| 20 | [FOREVER](https://open.spotify.com/track/0FHAPc6SsECSa7BULz2sr0) | [Demi Lou](https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ) | [FOREVER](https://open.spotify.com/album/3SZCcLP9kfPXhip4CUExkC) | 3:07 |
 | 21 | [Falling 4 Ya](https://open.spotify.com/track/2yx4kObpXCCedhsLuOwTel) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Gemengde Gevoelens](https://open.spotify.com/album/3CSe0pMc9mifZMIGnfnfzK) | 3:24 |
 | 22 | [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 |
 | 23 | [Vertrouw Niemand](https://open.spotify.com/track/6OWhm03iyWFTX6UM8FGzcY) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Vertrouw Niemand](https://open.spotify.com/album/6Kkxkrjci5izGVL4q5ekag) | 2:45 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 50 | [Secondhand \(feat\. Rema\)](https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:46 |
 | 51 | [Party & Bullshit](https://open.spotify.com/track/5MQi0TlGBa0DZ8OsoDXV8c) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Party & Bullshit](https://open.spotify.com/album/0AxiKisKj3FucPCpPHvtM3) | 1:54 |
 | 52 | [Lay it On Me](https://open.spotify.com/track/66AJdZhZxuUZgESo6Y8ScD) | [EAN](https://open.spotify.com/artist/2R6fMantwd4zJz4s07Wpnm) | [Lay it On Me](https://open.spotify.com/album/05gdSY2aStDPKXt2565sc6) | 3:33 |
-| 53 | [Victim](https://open.spotify.com/track/1NZ0lkkvagc3Roy2QCr6Cz) | [Demi Lou](https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ), [Jerr](https://open.spotify.com/artist/6nhDEFKffCxLLWy9OolhmH) | [Victim](https://open.spotify.com/album/1MtrbQKZTO1shXxX4zEQBL) | 2:45 |
+| 53 | [VICTIM](https://open.spotify.com/track/1NZ0lkkvagc3Roy2QCr6Cz) | [Demi Lou](https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ), [Jerr](https://open.spotify.com/artist/6nhDEFKffCxLLWy9OolhmH) | [VICTIM](https://open.spotify.com/album/1MtrbQKZTO1shXxX4zEQBL) | 2:45 |
 | 54 | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo) | 2:28 |
 | 55 | [Where It Hurts](https://open.spotify.com/track/2Sqj1K35PogUxvsVALBMRo) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Where It Hurts](https://open.spotify.com/album/49DPnEkK6r9FqqkOPp1Eib) | 2:44 |
 | 56 | [No stress zone](https://open.spotify.com/track/1Atd9ieir1NXGz9rTBiG5c) | [Nyarko](https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM) | [No stress zone](https://open.spotify.com/album/0kh2WQprmeAATldxsuum22) | 2:40 |

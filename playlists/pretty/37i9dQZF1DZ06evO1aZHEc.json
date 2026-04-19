@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAAAZQPjbLvlknFDYkJKY/O+H",
+  "snapshot_id": "aeF4AAAAAADz6xMuc76qFFvO77Y4KFgn",
   "tracks": [
     {
       "added_at": null,
@@ -214,15 +214,11 @@
         {
           "name": "claire rousay",
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        },
-        {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
         }
       ],
-      "duration_ms": 290181,
-      "name": "please 5 more minutes (feat. Lala Lala)",
-      "url": "https://open.spotify.com/track/268XYupMBlKQBHb3m4BIRS"
+      "duration_ms": 112000,
+      "name": "asking for it",
+      "url": "https://open.spotify.com/track/7cl12xR4Jhr96p03uyRywd"
     },
     {
       "added_at": null,
@@ -292,9 +288,9 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 112000,
-      "name": "asking for it",
-      "url": "https://open.spotify.com/track/7cl12xR4Jhr96p03uyRywd"
+      "duration_ms": 283509,
+      "name": "head",
+      "url": "https://open.spotify.com/track/1DyaeKJkMmcbZvD4jvb603"
     },
     {
       "added_at": null,
@@ -331,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deceiver",
-        "url": "https://open.spotify.com/album/1PZEGP9yY4nlf9Pv6mTCpN"
+        "name": "The Bloody Lady",
+        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
       },
       "artists": [
         {
           "name": "claire rousay",
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        },
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 224643,
-      "name": "Deceiver",
-      "url": "https://open.spotify.com/track/7uYYnLks8scZzC1vA1qEjj"
+      "duration_ms": 248000,
+      "name": "iii",
+      "url": "https://open.spotify.com/track/54kTuKEHRFdoGmGNpZ9h2K"
     },
     {
       "added_at": null,
@@ -374,11 +366,15 @@
         {
           "name": "claire rousay",
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
         }
       ],
-      "duration_ms": 283509,
-      "name": "head",
-      "url": "https://open.spotify.com/track/1DyaeKJkMmcbZvD4jvb603"
+      "duration_ms": 290181,
+      "name": "please 5 more minutes (feat. Lala Lala)",
+      "url": "https://open.spotify.com/track/268XYupMBlKQBHb3m4BIRS"
     },
     {
       "added_at": null,
@@ -419,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bloody Lady",
-        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/1PZEGP9yY4nlf9Pv6mTCpN"
       },
       "artists": [
         {
           "name": "claire rousay",
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 248000,
-      "name": "iii",
-      "url": "https://open.spotify.com/track/54kTuKEHRFdoGmGNpZ9h2K"
+      "duration_ms": 224643,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/7uYYnLks8scZzC1vA1qEjj"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bloody Lady",
+        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 54000,
+      "name": "iv",
+      "url": "https://open.spotify.com/track/6QPvrBOSfoKtPV9q2tNsbu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TRANSA",
         "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
@@ -695,26 +711,6 @@
       "duration_ms": 142250,
       "name": "How Sweet I Roamed",
       "url": "https://open.spotify.com/track/7cE6w5XdwU1wqIYbNsstRR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In the Deep Drift You Will Find the Most Serene of Lullabies",
-        "url": "https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        },
-        {
-          "name": "m. harper scott",
-          "url": "https://open.spotify.com/artist/4g2d7yKNHLNjg7RTlAG6za"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "homard rouge",
-      "url": "https://open.spotify.com/track/72oHBJtvAo4i4h3Vt60Dhp"
     },
     {
       "added_at": null,
@@ -739,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In the Deep Drift You Will Find the Most Serene of Lullabies",
+        "url": "https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "m. harper scott",
+          "url": "https://open.spotify.com/artist/4g2d7yKNHLNjg7RTlAG6za"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "homard rouge",
+      "url": "https://open.spotify.com/track/72oHBJtvAo4i4h3Vt60Dhp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bloody Lady",
         "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
       },
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 54000,
-      "name": "iv",
-      "url": "https://open.spotify.com/track/6QPvrBOSfoKtPV9q2tNsbu"
+      "duration_ms": 264000,
+      "name": "ii",
+      "url": "https://open.spotify.com/track/1bJAfv2WSHPIRur04PKy5a"
     },
     {
       "added_at": null,
@@ -767,26 +783,6 @@
       "duration_ms": 96100,
       "name": "preston ave",
       "url": "https://open.spotify.com/track/1LNslfIGvQhnJsgkEhkWx7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Various Small Whistles and a Song",
-        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 60000,
-      "name": "Home, Los Angeles",
-      "url": "https://open.spotify.com/track/4yxvOxcU0B5bGxO9yYKPfz"
     },
     {
       "added_at": null,
@@ -811,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bloody Lady",
-        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "ii",
-      "url": "https://open.spotify.com/track/1bJAfv2WSHPIRur04PKy5a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "a crying poem",
         "url": "https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ"
       },
@@ -847,42 +827,6 @@
       "duration_ms": 118286,
       "name": "Sad Gondola",
       "url": "https://open.spotify.com/track/7iqfr6tzyzTl1KKrrAk5MQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "a softer focus",
-        "url": "https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 528051,
-      "name": "peak chroma",
-      "url": "https://open.spotify.com/track/3gilVyIpVQJ8FnF0kPBN7B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eyeline",
-        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
-      },
-      "artists": [
-        {
-          "name": "LEYA",
-          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 56567,
-      "name": "Dankworld Interlude",
-      "url": "https://open.spotify.com/track/2p4Si60Lb8BAGIjLbYuRty"
     },
     {
       "added_at": null,
@@ -912,9 +856,9 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 289737,
-      "name": "stoned gesture",
-      "url": "https://open.spotify.com/track/596Te3MjCbYJ3keibf780e"
+      "duration_ms": 528051,
+      "name": "peak chroma",
+      "url": "https://open.spotify.com/track/3gilVyIpVQJ8FnF0kPBN7B"
     },
     {
       "added_at": null,
@@ -944,9 +888,25 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 515517,
-      "name": "diluted dreams",
-      "url": "https://open.spotify.com/track/2SCGNFoRjm5YqWgOhUVh9W"
+      "duration_ms": 289737,
+      "name": "stoned gesture",
+      "url": "https://open.spotify.com/track/596Te3MjCbYJ3keibf780e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bloody Lady",
+        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 504000,
+      "name": "v",
+      "url": "https://open.spotify.com/track/5BZyjIbDp5u7PeT2TlmTfk"
     }
   ],
   "unique_name": "This Is claire rousay",

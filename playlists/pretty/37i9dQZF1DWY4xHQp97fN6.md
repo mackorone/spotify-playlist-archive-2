@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt Cover: Baby Keem
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,567,988 likes - 98 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,567,803 likes - 98 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

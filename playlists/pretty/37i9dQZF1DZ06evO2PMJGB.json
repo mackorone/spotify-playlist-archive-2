@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 265081,
+  "num_followers": 265065,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAACErA9guEBmkHF9KLOAiRUy",
+  "snapshot_id": "aeF4AAAAAADv9cRO/yNQS9Ad5zBcJf4H",
   "tracks": [
     {
       "added_at": null,
@@ -516,13 +516,13 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 225391,
-      "name": "French Kiss",
-      "url": "https://open.spotify.com/track/2FWhFYo3nD4q1GKUrUlzGq"
+      "duration_ms": 156970,
+      "name": "Tu Gata",
+      "url": "https://open.spotify.com/track/7j4kf9YhvElmjz3if93V49"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
       "duration_ms": 129782,
       "name": "BRABA",
       "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fruto Do Tempo",
-        "url": "https://open.spotify.com/album/3fHaNVV7o76HmvDVehDxID"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 244809,
-      "name": "Fruto do Tempo",
-      "url": "https://open.spotify.com/track/4bK5J8VeSYMKmwSvyyHCNO"
     },
     {
       "added_at": null,

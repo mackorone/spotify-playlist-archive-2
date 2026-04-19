@@ -3526,7 +3526,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 198237,
       "name": "BOTTOMS UP",
       "url": "https://open.spotify.com/track/5ThWoCQuCn1tqDUDBGkleB"
@@ -25874,6 +25874,28 @@
       "duration_ms": 183213,
       "name": "SWICY",
       "url": "https://open.spotify.com/track/3owGQ1rmtKXpvwHmF0S2CZ"
+    },
+    {
+      "album": {
+        "name": "seriously unserious",
+        "url": "https://open.spotify.com/album/5iK4Cr6djzpTWvuPCxCosm"
+      },
+      "artists": [
+        {
+          "name": "HEYOON",
+          "url": "https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1"
+        },
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124736,
+      "name": "swipe_feat_lou_garcia_v1.mp3",
+      "url": "https://open.spotify.com/track/4zsxh0FkRntWV1vA7ckhHQ"
     },
     {
       "album": {

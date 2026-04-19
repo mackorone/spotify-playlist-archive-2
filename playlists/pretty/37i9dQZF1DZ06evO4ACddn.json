@@ -1,12 +1,12 @@
 {
   "description": "This is Lonely The Brave. The essential tracks, all in one playlist.",
-  "num_followers": 1211,
+  "num_followers": 1212,
   "original_name": "This Is Lonely The Brave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAADcW/QcRLI1GpD4M7Ij2FfH",
+  "snapshot_id": "aeF4AAAAAAAfG+s24s5KhsMNSFdRKcwv",
   "tracks": [
     {
       "added_at": null,
@@ -244,15 +244,15 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 219853,
-      "name": "Distant Light",
-      "url": "https://open.spotify.com/track/4gpvE7nVnjSVFEy2aiFQzb"
+      "duration_ms": 252733,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter",
-        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+        "name": "Things Will Matter (Redux)",
+        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 214013,
-      "name": "Dust & Bones",
-      "url": "https://open.spotify.com/track/11VMKvo0PUGzNwngQ5Ebvn"
+      "duration_ms": 233000,
+      "name": "Radar - Redux",
+      "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
     },
     {
       "added_at": null,
@@ -308,15 +308,15 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 252733,
-      "name": "Something I Said",
-      "url": "https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq"
+      "duration_ms": 219853,
+      "name": "Distant Light",
+      "url": "https://open.spotify.com/track/4gpvE7nVnjSVFEy2aiFQzb"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter (Redux)",
-        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Radar - Redux",
-      "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
+      "duration_ms": 214013,
+      "name": "Dust & Bones",
+      "url": "https://open.spotify.com/track/11VMKvo0PUGzNwngQ5Ebvn"
     },
     {
       "added_at": null,

@@ -3432,7 +3432,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 382000,
       "name": "90210",
       "url": "https://open.spotify.com/track/3u9MvFgby1Q3wzJGeNYV44"
@@ -4482,7 +4482,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 166320,
       "name": "A Sky Full Of Stars",
       "url": "https://open.spotify.com/track/2uAE3kSlanqv3U1KfdAhra"
@@ -23781,6 +23781,24 @@
     },
     {
       "album": {
+        "name": "Page Two",
+        "url": "https://open.spotify.com/album/78YI3q126L1plYhXxn7rUL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208853,
+      "name": "CHEER UP",
+      "url": "https://open.spotify.com/track/4CeE0LU1SkHshwHeMfPwqk"
+    },
+    {
+      "album": {
         "name": "PAGE TWO",
         "url": "https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV"
       },
@@ -36446,7 +36464,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 347842,
       "name": "Earfquake",
       "url": "https://open.spotify.com/track/14XnWy5pmR1hEjc37AZfad"
@@ -89846,7 +89864,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 353835,
       "name": "Nikes",
       "url": "https://open.spotify.com/track/1MEOLBRp5lZ8PNa3qs4xEA"
@@ -95411,7 +95429,7 @@
       "artists": [
         {
           "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/5JIdaV4V6IaLMQG6uzAhJY"
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
           "name": "Ellie Goulding",
@@ -110658,7 +110676,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 373014,
       "name": "Seigfried",
       "url": "https://open.spotify.com/track/2MccEWWQ00oLtGjeOQKibQ"
@@ -110712,7 +110730,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 220000,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/5UmjHuYRItemped2xd3Qx4"
@@ -158154,6 +158172,24 @@
       "duration_ms": 263600,
       "name": "\u5929\u4f53\u89b3\u6e2c",
       "url": "https://open.spotify.com/track/3hRRYgBeunE3PTmnzATTS0"
+    },
+    {
+      "album": {
+        "name": "ENTERTAINMENT",
+        "url": "https://open.spotify.com/album/7J9IuxWGge23Amv8msKGtF"
+      },
+      "artists": [
+        {
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270893,
+      "name": "\u5929\u4f7f\u3068\u60aa\u9b54",
+      "url": "https://open.spotify.com/track/22y3zsYYYx4VisZMOwTFQA"
     },
     {
       "album": {

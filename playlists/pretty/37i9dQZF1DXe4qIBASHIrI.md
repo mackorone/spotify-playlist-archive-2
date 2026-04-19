@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 ### [Indie Mexicano: Clásicos](https://open.spotify.com/playlist/37i9dQZF1DXe4qIBASHIrI)
 
-> Los temas esenciales de la escena independiente nacional\. Furland en portada.
+> Los temas esenciales de la escena independiente nacional\. Austin TV en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,482 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,525 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

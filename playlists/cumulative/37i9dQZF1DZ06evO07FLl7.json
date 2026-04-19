@@ -461,6 +461,28 @@
     },
     {
       "album": {
+        "name": "Imundo",
+        "url": "https://open.spotify.com/album/1J5tvGAHp4FLvx8biG8Hop"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165436,
+      "name": "Black Loro",
+      "url": "https://open.spotify.com/track/4varAkeoHYFdmFXxiz1VTs"
+    },
+    {
+      "album": {
         "name": "Remonta",
         "url": "https://open.spotify.com/album/4N6Ps2F2pA3yHKRTwLpwJn"
       },
@@ -638,7 +660,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 189240,
       "name": "Calma Preta",
       "url": "https://open.spotify.com/track/32D34IsYWHiw2bAtqRTaos"
@@ -3550,6 +3572,24 @@
     {
       "album": {
         "name": "Bem Longe do Fim",
+        "url": "https://open.spotify.com/album/2oAIZ24pZgBQt08z0jtl2h"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Vida de Atriz",
+      "url": "https://open.spotify.com/track/0SJOmHa8lhpMcxg0yXWx1a"
+    },
+    {
+      "album": {
+        "name": "Bem Longe do Fim",
         "url": "https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH"
       },
       "artists": [
@@ -3578,7 +3618,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-19",
       "duration_ms": 168000,
       "name": "Vida de Atriz",
       "url": "https://open.spotify.com/track/732QVXOOu5EZjyWstNa6VS"

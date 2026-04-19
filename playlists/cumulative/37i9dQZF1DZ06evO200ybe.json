@@ -779,6 +779,36 @@
     },
     {
       "album": {
+        "name": "Night Bird (Live)",
+        "url": "https://open.spotify.com/album/0XIixPRJecpUcD4QeLmYij"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Nicola Stilo",
+          "url": "https://open.spotify.com/artist/5PYMmlAXVzahUVl2a0Ah7T"
+        },
+        {
+          "name": "Michel Graillier",
+          "url": "https://open.spotify.com/artist/77jN62YC5c95ogzKlDdcqm"
+        },
+        {
+          "name": "Rocky Knauer",
+          "url": "https://open.spotify.com/artist/0hLWbGlyGnWgTL8SsXvXkj"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 657052,
+      "name": "Night Bird - Live",
+      "url": "https://open.spotify.com/track/2iBDr33n1AlIlsP6IsixiP"
+    },
+    {
+      "album": {
         "name": "The Art Of The Ballad",
         "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
       },
@@ -1036,6 +1066,28 @@
       "duration_ms": 284546,
       "name": "These Foolish Things (Remind Me Of You)",
       "url": "https://open.spotify.com/track/3pXjJpOV4gPLcxTUEItg1B"
+    },
+    {
+      "album": {
+        "name": "Thinkin' Blues (Trumpet)",
+        "url": "https://open.spotify.com/album/2NxP4qqXqe5Xj1ONwWUk7S"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Thinkin' Blues - Trumpet",
+      "url": "https://open.spotify.com/track/2kuWB251MOhSZPKOxPcMo3"
     },
     {
       "album": {

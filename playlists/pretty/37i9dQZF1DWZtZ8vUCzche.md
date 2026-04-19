@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 
 > Put your speakers to the test with this eclectic collection of legendary tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,552,904 likes - 200 songs - 15 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,553,309 likes - 200 songs - 15 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

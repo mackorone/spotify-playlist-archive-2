@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 93337,
+  "num_followers": 93345,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAADqjpOF+c+9+Dqyrdi/doHC",
+  "snapshot_id": "aeF4AAAAAACazdfQaHSc/q9j9w1dRRXy",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minnesota Nazis",
-        "url": "https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 219616,
-      "name": "Minnesota Nazis",
-      "url": "https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Self Entitled",
         "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 122746,
       "name": "Cell Out",
       "url": "https://open.spotify.com/track/2tM0bbnz85cOOI66j83Dhb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minnesota Nazis",
+        "url": "https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 219616,
+      "name": "Minnesota Nazis",
+      "url": "https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X"
     },
     {
       "added_at": null,
@@ -607,6 +607,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ribbed",
+        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 146933,
+      "name": "The Moron Brothers",
+      "url": "https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 145360,
+      "name": "60%",
+      "url": "https://open.spotify.com/track/4niJIxd3BEuMXMEHRtorO9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NINE LIVES",
         "url": "https://open.spotify.com/album/4UEpTKPsOwn4OVroUZa7Sq"
       },
@@ -631,38 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 145360,
-      "name": "60%",
-      "url": "https://open.spotify.com/track/4niJIxd3BEuMXMEHRtorO9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ribbed",
-        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 146933,
-      "name": "The Moron Brothers",
-      "url": "https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
-        "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 164226,
-      "name": "We Threw Gasoline.......",
-      "url": "https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "First Ditch Effort",
         "url": "https://open.spotify.com/album/6MsmOTvTocDVQqc68Gj7Pj"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 236026,
       "name": "Oxy Moronic",
       "url": "https://open.spotify.com/track/0d6SLBSgTzYfRalWF0QLqx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 164226,
+      "name": "We Threw Gasoline.......",
+      "url": "https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe"
     },
     {
       "added_at": null,

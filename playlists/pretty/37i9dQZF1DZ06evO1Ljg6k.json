@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 73935,
+  "num_followers": 73978,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeAmgAAAAAB7dLFexffbll9XQKPdvJG1",
+  "snapshot_id": "aeF4AAAAAAB+k/F8Z0aeWFcYe6sbqFLB",
   "tracks": [
     {
       "added_at": null,
@@ -303,18 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+        "name": "Tical 2000: Judgement Day",
+        "url": "https://open.spotify.com/album/5EGi6pUMlx1UfSCrfYUisa"
       },
       "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 358558,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj"
+      "duration_ms": 233933,
+      "name": "Break Ups 2 Make Ups",
+      "url": "https://open.spotify.com/track/5jlVndwOZVzbAfGVHtetDX"
     },
     {
       "added_at": null,
@@ -335,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tical 2000: Judgement Day",
-        "url": "https://open.spotify.com/album/5EGi6pUMlx1UfSCrfYUisa"
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
       "artists": [
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 233933,
-      "name": "Break Ups 2 Make Ups",
-      "url": "https://open.spotify.com/track/5jlVndwOZVzbAfGVHtetDX"
+      "duration_ms": 358558,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj"
     },
     {
       "added_at": null,

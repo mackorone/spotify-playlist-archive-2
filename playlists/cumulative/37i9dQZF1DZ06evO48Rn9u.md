@@ -4,7 +4,7 @@
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 17 min
+94 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Love’s Gonna Live Here](https://open.spotify.com/track/22PvVttdf9S1kPqscIjtHP) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Cayamo Sessions At Sea](https://open.spotify.com/album/0yqCt53npFro8Zj47FXO0o) | 2:14 | 2024-05-04 | 2025-02-24 |
 | [Love’s Gonna Live Here](https://open.spotify.com/track/7MrayLjl4mMWsSNBoQZTNw) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Cayamo Sessions At Sea](https://open.spotify.com/album/4JbbKkl47kk0jNHWFWUjtF) | 2:14 | 2024-03-09 | 2024-04-30 |
 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 | 2024-03-09 |  |
+| [Middle of Nowhere](https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb) | 2:36 | 2026-04-19 |  |
 | [Mother](https://open.spotify.com/track/4FjkZp6GD6baaxqUYTqIJo) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 1:18 | 2024-05-20 | 2024-05-28 |
 | [Moving Out](https://open.spotify.com/track/1LwT9Pou0rRCXPpXVWy5iA) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:09 | 2024-03-16 | 2024-03-30 |
 | [My House](https://open.spotify.com/track/5GMaBMKjisLhVfjRoH5BaW) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 2:40 | 2024-04-10 | 2024-07-24 |
@@ -90,7 +91,7 @@
 | [Somebody To Love](https://open.spotify.com/track/3EFbnBUr70peMlk8g5XzT3) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:13 | 2024-03-09 | 2024-08-06 |
 | [Sounds from the Heart of the Woods](https://open.spotify.com/track/4pMh4kNH7W3oTCBT5QdaD9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Sounds from the Heart of the Woods](https://open.spotify.com/album/6yzkiWF8Xl3gLjJ8wNpk0o) | 21:07 | 2025-04-24 | 2025-05-21 |
 | [Space Cowboy](https://open.spotify.com/track/5bum4HbCDFoB9wpsc0sQky) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:36 | 2024-05-12 | 2024-07-24 |
-| [Step Off](https://open.spotify.com/track/5XolYC560U2AD6YJUemw2G) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:02 | 2024-03-09 |  |
+| [Step Off](https://open.spotify.com/track/5XolYC560U2AD6YJUemw2G) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:02 | 2024-03-09 | 2026-04-19 |
 | [Superbloom \(feat\. Leon Bridges\)](https://open.spotify.com/track/7FSHsMrNTP7umpgVHuR7IS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:02 | 2024-08-06 |  |
 | [Sway](https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 | 2024-03-16 |  |
 | [The Architect](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-03-16 |  |
