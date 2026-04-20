@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,695 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,703 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [News & Sames](https://open.spotify.com/track/2ivkHxcmwVvbgVRMIXRzvs) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA II](https://open.spotify.com/album/2K4Pd51tojKUFwBOArfLRx) | 3:51 |
-| 2 | [allang mallang](https://open.spotify.com/track/5i2NJDXiUvCdH8yDX9FQ6b) | [ZIN CHOI](https://open.spotify.com/artist/3YoRa6VhgjdFdg8vv5OA4b) | [allang mallang](https://open.spotify.com/album/31fB7mjP83b3Mf96sfmaZh) | 2:00 |
-| 3 | [Scared of Love](https://open.spotify.com/track/1fCdHI0EBnGabru914ap2f) | [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Pink, then grey](https://open.spotify.com/album/7m7Z7Qi4enLFgn1s8vgYgh) | 2:37 |
-| 4 | [who is this woman?](https://open.spotify.com/track/6tirHqOUs1n3C9gCIhS28f) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [who is this woman?](https://open.spotify.com/album/5IhSTNLKlu1hgPKSBSyg4B) | 3:10 |
-| 5 | [HMPH!](https://open.spotify.com/track/2CbgyivbjNuNrBuEDMps23) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [HMPH!](https://open.spotify.com/album/0p6ikTEKKhKqtOa6MdqNvn) | 3:00 |
-| 6 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 |
-| 7 | [Do You Need My Love?](https://open.spotify.com/track/1qwCzGkeb2m67yrtWXXtbY) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Do You Need My Love?](https://open.spotify.com/album/4ZzfIglSSp9HBuNDWafoFM) | 2:44 |
+| 1 | [With You](https://open.spotify.com/track/6ZvQduuUeawAnal4yXvUYA) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [LOVE](https://open.spotify.com/album/652TLKJWluUQlikBi55rKb) | 3:17 |
+| 2 | [midsummer](https://open.spotify.com/track/0nNUG87yUlCJqGhpv5ney8) | [bluebluebird](https://open.spotify.com/artist/6usYZzaQqQUgDzgSCRa0xf) | [midsummer](https://open.spotify.com/album/4RzTyZL9B3fVK1X8M717de) | 2:28 |
+| 3 | [With You](https://open.spotify.com/track/63KtXm5kjHE6Y1c5TeSvT1) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [With You](https://open.spotify.com/album/0BZvg9IGUoW11JIbOycQeM) | 2:36 |
+| 4 | [News & Sames](https://open.spotify.com/track/2ivkHxcmwVvbgVRMIXRzvs) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA II](https://open.spotify.com/album/2K4Pd51tojKUFwBOArfLRx) | 3:51 |
+| 5 | [allang mallang](https://open.spotify.com/track/5i2NJDXiUvCdH8yDX9FQ6b) | [ZIN CHOI](https://open.spotify.com/artist/3YoRa6VhgjdFdg8vv5OA4b) | [allang mallang](https://open.spotify.com/album/31fB7mjP83b3Mf96sfmaZh) | 2:00 |
+| 6 | [HMPH!](https://open.spotify.com/track/2CbgyivbjNuNrBuEDMps23) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [HMPH!](https://open.spotify.com/album/0p6ikTEKKhKqtOa6MdqNvn) | 3:00 |
+| 7 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 |
 | 8 | [Galaxy](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
 | 9 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
 | 10 | [Maybe We Could Be a Thing](https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Maybe We Could Be a Thing](https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI) | 2:56 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 47 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3) | 3:53 |
 | 48 | [I\`m In Love](https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I\`m In Love](https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN) | 3:17 |
 | 49 | [It's Raining](https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [It's Raining](https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE) | 3:34 |
-| 50 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
+| 50 | [who is this woman?](https://open.spotify.com/track/6tirHqOUs1n3C9gCIhS28f) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [who is this woman?](https://open.spotify.com/album/5IhSTNLKlu1hgPKSBSyg4B) | 3:10 |
 
-Snapshot ID: `AAAAAO44XDoT5oDau2m3LTL5E+vlCa/W`
+Snapshot ID: `AAAAAMnhoZzQ/eLsTJ2iHTW1xLubd+qB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Cody Johnson, Kacey Musgraves, Cameron Whitcomb and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,480 likes - 59 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,706 likes - 59 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

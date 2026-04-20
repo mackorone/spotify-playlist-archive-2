@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 ### [Gospel Christmas](https://open.spotify.com/playlist/37i9dQZF1DWSnpLW9iux5M)
 
-> Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Yolanda Adams
+> Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Jonathan McReynolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,803 likes - 150 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,796 likes - 150 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 105 | [Go Tell It](https://open.spotify.com/track/6ctaxJwvmHge2hYFIXNg3L) | [Earnest Pugh](https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt) | [Go Tell It](https://open.spotify.com/album/3FXpr2csTJXhaICxq2qWN4) | 4:20 |
 | 106 | [Home With You \(feat\. Chanté Moore\)](https://open.spotify.com/track/6vXINx2IM1WpPYMm3xb816) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA), [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Home With You \(feat\. Chanté Moore\)](https://open.spotify.com/album/4SP3l1UjxAcb1Tj7NmqCdu) | 4:05 |
 | 107 | [I'll Be Home For Christmas](https://open.spotify.com/track/3oKfngho6ZWUTlWN3p5nIR) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [A Motown Gospel Christmas](https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr) | 4:40 |
-| 108 | [Holy \(The Crispell Legacy\) \(feat\. Melvin Crispell III\)](https://open.spotify.com/track/3ucYWAeWRbwmR5sUzyGjnA) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Maranda Presents A Holy Christmas](https://open.spotify.com/album/0c1zGZMDhb2UNZlmQ8cfKN) | 6:49 |
+| 108 | [Holy \(The Crispell Legacy\) \(feat\. Melvin Crispell, III\)](https://open.spotify.com/track/3ucYWAeWRbwmR5sUzyGjnA) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Maranda Presents A Holy Christmas](https://open.spotify.com/album/0c1zGZMDhb2UNZlmQ8cfKN) | 6:49 |
 | 109 | [Joy to the World \(Radio Edit\)](https://open.spotify.com/track/28zVzwOtEnpp7OtD9KPpy4) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Joy to the World \(Radio Edit\)](https://open.spotify.com/album/6TzzQ8mccRfn5JD4v5IXMe) | 3:21 |
 | 110 | [Greatest Gift of All](https://open.spotify.com/track/5kq1V8vIkCzKz2kMFQifqO) | [Bryan Andrew Wilson](https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i), [Roderick Giles & Grace](https://open.spotify.com/artist/5jMr6s2EqsG4U4HQROzA8e), [Yoed Nir](https://open.spotify.com/artist/3MnWOaVKXb09BOjjcBpvhk) | [Jingle Jams](https://open.spotify.com/album/2S845q8dlf1H5oq6utD3qQ) | 3:16 |
 | 111 | [Noel](https://open.spotify.com/track/1vcmDhNzB2BnmciwE6H6f7) | [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Christmas Best](https://open.spotify.com/album/058tFyVjMZg2AvSfuRpaDR) | 2:40 |

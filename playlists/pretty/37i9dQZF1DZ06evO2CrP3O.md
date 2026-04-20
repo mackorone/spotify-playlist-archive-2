@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,494 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,511 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 21 | [11:59](https://open.spotify.com/track/0yAi8iKRgy90VuNNZd3zhz) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:20 |
 | 22 | [Rip Her To Shreds \- Remastered 2001](https://open.spotify.com/track/23yUwzz4CQ8yzQ65ATN6Ds) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB), [Craig Leon](https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 3:22 |
 | 23 | [Shayla](https://open.spotify.com/track/1OGQGQgmbUnRStarwKxvrr) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:58 |
-| 24 | [Good Boys \- Blow\-Up Mix / Remastered](https://open.spotify.com/track/3J08K6VhJNRVwolZ1ETm2a) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 6:05 |
+| 24 | [Island Of Lost Souls](https://open.spotify.com/track/7ws0FaHPNTK2Z6ujUPSviN) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 3:50 |
 | 25 | [Bermuda Triangle Blues \- Remastered](https://open.spotify.com/track/4xF8RWpIgK8Axjeo28iXnu) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:48 |
 | 26 | [In The Flesh \- Remastered 2001](https://open.spotify.com/track/4D7ZvtLOG19HmtqKC8l0BI) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 2:33 |
 | 27 | [Accidents Never Happen](https://open.spotify.com/track/0HwEzRnnfi4cHqnSu9Q6K6) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 4:13 |
-| 28 | [Island Of Lost Souls](https://open.spotify.com/track/7ws0FaHPNTK2Z6ujUPSviN) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 3:50 |
+| 28 | [Good Boys \- Blow\-Up Mix / Remastered](https://open.spotify.com/track/3J08K6VhJNRVwolZ1ETm2a) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 6:05 |
 | 29 | [Detroit 442 \- Remastered](https://open.spotify.com/track/169bqVVPKnu2TInM4qNCjG) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:28 |
 | 30 | [In The Sun \- Remastered 2001](https://open.spotify.com/track/6RnnbW4qp7lCTDITqbkbK0) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 2:39 |
 | 31 | [The Hardest Part](https://open.spotify.com/track/03SV49CTiBv7llc0s0FqhV) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 49 | [Walk Like Me \- Remastered 2001](https://open.spotify.com/track/3D4vCxJemidHRGSj85GnqN) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 3:44 |
 | 50 | [For Your Eyes Only \- Remastered](https://open.spotify.com/track/17k0de5yK5aJ06xx7Xqj2C) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [The Hunter](https://open.spotify.com/album/4fMaYgVNVzIUQOn19ctNad) | 3:07 |
 
-Snapshot ID: `aeF4AAAAAAA4+SBNhEsOJm56MAQzaKr5`
+Snapshot ID: `aeLJgAAAAAB7OezTplQeOuR0QNKOUuNH`

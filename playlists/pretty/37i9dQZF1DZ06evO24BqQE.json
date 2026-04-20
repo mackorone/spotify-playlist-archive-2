@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 47497,
+  "num_followers": 47527,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAABB/Jo1qRGPAK7c/VZZaN/O",
+  "snapshot_id": "aeLJgAAAAADuozsUyxHAHukQC6LvKOV1",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lenu (Remix)",
-        "url": "https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/3JtqyAW9kr3vMKWyHlo6wD"
       },
       "artists": [
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 213266,
-      "name": "Lenu - Remix",
-      "url": "https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1"
+      "duration_ms": 224000,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/1z567QCaLLuRE7ZxQS5oYS"
     },
     {
       "added_at": null,
@@ -519,22 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/3JtqyAW9kr3vMKWyHlo6wD"
+        "name": "Lenu (Remix)",
+        "url": "https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/1z567QCaLLuRE7ZxQS5oYS"
+      "duration_ms": 213266,
+      "name": "Lenu - Remix",
+      "url": "https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1"
     },
     {
       "added_at": null,

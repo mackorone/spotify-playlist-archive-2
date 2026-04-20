@@ -1069,6 +1069,28 @@
     },
     {
       "album": {
+        "name": "Moon Rider",
+        "url": "https://open.spotify.com/album/1Yclkt2FxxMC7LeQuaBQVI"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "WRABEL",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Moon Rider",
+      "url": "https://open.spotify.com/track/1GdYl5r2r74X7BLujLgYce"
+    },
+    {
+      "album": {
         "name": "Moon Rider (feat. Wrabel)",
         "url": "https://open.spotify.com/album/4Ghd5HEQg3vxneCjqRBu8N"
       },
@@ -1106,7 +1128,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 218000,
       "name": "Moon Rider (feat. Wrabel)",
       "url": "https://open.spotify.com/track/3U1lhPo6Gpd7URhJyZJtAr"
@@ -1496,10 +1518,28 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 222400,
       "name": "The World Is Ours",
       "url": "https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR"
+    },
+    {
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "The World Is Ours",
+      "url": "https://open.spotify.com/track/7uI1GB0253D1Wi5Ratcnt2"
     },
     {
       "album": {

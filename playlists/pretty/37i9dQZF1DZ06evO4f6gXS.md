@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,592 likes - 43 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,590 likes - 43 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 42 | [What a Fool](https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 5:44 |
 | 43 | [Merry Go Round](https://open.spotify.com/track/74rQiIDK5mNhowNZ4UXiWT) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:25 |
 
-Snapshot ID: `aeF4AAAAAACEBqObL298YX/yKyZexLKG`
+Snapshot ID: `aeLJgAAAAACYsQGkPka1lY75eXKAEyQJ`

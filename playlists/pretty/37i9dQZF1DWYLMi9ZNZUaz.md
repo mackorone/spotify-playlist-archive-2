@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,912 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,961 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Đừng Để Tiền Rơi \(Special Version\)](https://open.spotify.com/track/6vRpcm8c6b8My9BCs14rHf) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Anh Phan](https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ) | [Đừng Để Tiền Rơi \(Special Version\)](https://open.spotify.com/album/49tSv7hKDXNgNB9fgR5WIR) | 3:45 |
 | 50 | [NO CHASE](https://open.spotify.com/track/1trcQKrQRIB5GlhhoHmiWN) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [NO CHASE](https://open.spotify.com/album/0aNqRNUNwwkykPMwilPczl) | 2:55 |
 
-Snapshot ID: `AAAAAL57pq2iZcLPIbACmnorvcibJtBM`
+Snapshot ID: `AAAAAJ78iNdsyqljI9U5APCaBQEgnKFO`

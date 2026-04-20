@@ -132,7 +132,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 110360,
       "name": "Arp",
       "url": "https://open.spotify.com/track/0lE0PBMsq6PpUItdQJIrBC"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 95310,
       "name": "Dance Rehearsal",
       "url": "https://open.spotify.com/track/4It0SkcS72eaqtPDaHbKXI"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 243394,
       "name": "Red Eel Dream",
       "url": "https://open.spotify.com/track/0vxBRncqPeIdYfJz0HbRNM"
@@ -1337,6 +1337,28 @@
     },
     {
       "album": {
+        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
+        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Take the Hot Route",
+      "url": "https://open.spotify.com/track/3OJHXjQbsBXQxHuuBqUDWd"
+    },
+    {
+      "album": {
         "name": "No. 3",
         "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
       },
@@ -1408,7 +1430,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 202279,
       "name": "Tongue Shaped Rock",
       "url": "https://open.spotify.com/track/4Sb6iUxcBR9rvcCRmozowE"
@@ -1462,7 +1484,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 118280,
       "name": "Vostok",
       "url": "https://open.spotify.com/track/3iaMERxETB328X4iiCYMJj"

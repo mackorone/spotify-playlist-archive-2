@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Tyla, Zara Larsson, Sido, Lewis Capaldi & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,608 likes - 99 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,548 likes - 99 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

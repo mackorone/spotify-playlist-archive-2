@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 197451,
+  "num_followers": 197474,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAC7WhqH6aU2Cde9THuhE6cq",
+  "snapshot_id": "aeLJgAAAAAD3FxeGNUxW++yNMW6eb7Vn",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Highlights From His Decca Years",
+        "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 244373,
+      "name": "When You're Smiling (The Whole World Smiles With You) - Without Intro",
+      "url": "https://open.spotify.com/track/0aAdPAlrBJqqqkkhttZIKU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Great Reunion",
         "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 303173,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/02Z7LG6DNTuVTJiGdvTwDu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highlights From His Decca Years",
-        "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 244373,
-      "name": "When You're Smiling (The Whole World Smiles With You) - Without Intro",
-      "url": "https://open.spotify.com/track/0aAdPAlrBJqqqkkhttZIKU"
     },
     {
       "added_at": null,

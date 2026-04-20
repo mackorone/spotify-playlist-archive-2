@@ -1,12 +1,12 @@
 {
   "description": "This is Shakira. The essential tracks, all in one playlist.",
-  "num_followers": 1784391,
+  "num_followers": 1784543,
   "original_name": "This Is Shakira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAACu9i9rQYF4JE7zTOQqflfo",
+  "snapshot_id": "aeLJgAAAAAAnowYsRyMWxvSPiskJkUe6",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fijaci\u00f3n Oral Volumen 1 (Expanded Edition)",
         "url": "https://open.spotify.com/album/0nM8pby34jgWunNBmoWXxl"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 216225,
       "name": "La Tortura (feat. Alejandro Sanz)",
       "url": "https://open.spotify.com/track/53AafWSzYsiJKnAtJTUB5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fijaci\u00f3n Oral Volumen 1 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0nM8pby34jgWunNBmoWXxl"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 220314,
-      "name": "Las de la Intuici\u00f3n",
-      "url": "https://open.spotify.com/track/7DnMd3BxVOedyOyR7K3F8L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zootopia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 196853,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fijaci\u00f3n Oral Volumen 1 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0nM8pby34jgWunNBmoWXxl"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 220314,
+      "name": "Las de la Intuici\u00f3n",
+      "url": "https://open.spotify.com/track/7DnMd3BxVOedyOyR7K3F8L"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Donde Estas Corazon",
-      "url": "https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 235733,
       "name": "Ojos As\u00ed",
       "url": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Donde Estas Corazon",
+      "url": "https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "Moscas en la Casa",
+      "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fijaci\u00f3n Oral Volumen 1 (Expanded Edition)",
         "url": "https://open.spotify.com/album/0nM8pby34jgWunNBmoWXxl"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 284721,
       "name": "No (feat. Gustavo Cerati)",
       "url": "https://open.spotify.com/track/7CZkVQ8LsfDsu8STKAQfWY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 211906,
-      "name": "Moscas en la Casa",
-      "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
     },
     {
       "added_at": null,

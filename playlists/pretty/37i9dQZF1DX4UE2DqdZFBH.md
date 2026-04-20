@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 
 > Unwind to the real beauty of Instrumentals!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,307 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,316 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

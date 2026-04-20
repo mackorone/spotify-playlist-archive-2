@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Olivia Rodrigo, Tyla, Zara Larsson, Marsha Milan,  Andi Bernadee, DIOR 大穎, Firdhaus, Alpha, Mohsein Kush, mimpi\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,144 likes - 137 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,148 likes - 137 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,15 +2,16 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: ifeye\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: Apink\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-542 songs - 1 day 5 hr 27 min
+543 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 | 2023-06-12 | 2025-04-16 |
 | [1 TO 10](https://open.spotify.com/track/4yNs8ThVCpllJ2OcCNssQF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICEcoaster: LANE1](https://open.spotify.com/album/1O0JME3VbK4siDIfh6K3Oe) | 2:55 | 2022-03-21 | 2022-07-26 |
 | [1000%](https://open.spotify.com/track/6mjHsAUoJvB25sd2uvYTdA) | [SummerWish](https://open.spotify.com/artist/2xPib32Evv9bGD0CBrpkqM) | [PRODUCE 48 \- 30 Girls 6 Concepts](https://open.spotify.com/album/1WzVAxZWm3JDNbI0jzk0dF) | 3:36 | 2022-01-17 | 2022-07-28 |
+| [15th Season](https://open.spotify.com/track/2aKoH0vLoRJK8NFt7NWiXC) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [15th Season](https://open.spotify.com/album/7yKGGrHaKCKAyGQDS8obhI) | 3:49 | 2026-04-20 |  |
 | [22CENTURY GIRL](https://open.spotify.com/track/4Sg6hnJ0MXIzU4wl47KKs7) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Day](https://open.spotify.com/album/09r6g4aYjC6WqIxmTNHaZx) | 3:35 | 2021-11-29 | 2022-07-09 |
 | [24 O' clock](https://open.spotify.com/track/1iMYzE3vDp72fOaqb8hk22) | [Kizzy](https://open.spotify.com/artist/6DfeIQnmFqtT8Y1lgtQ8QX) | [Dreamlike](https://open.spotify.com/album/7E61PhUDL3MbwVTz36oFSA) | 3:53 | 2022-03-29 | 2022-07-09 |
 | [5 More Minutes](https://open.spotify.com/track/3epPI6Bx5IeRtPMNFG5976) | [DIA](https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8) | [NEWTRO](https://open.spotify.com/album/3CBgvajr0lz1fOIGIydiZ3) | 3:28 | 2021-11-29 | 2022-07-24 |
@@ -404,7 +405,7 @@
 | [Shot thru the heart](https://open.spotify.com/track/7ut6KQCuZ2ANbnMsSe7eos) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo) | 3:25 | 2022-03-29 | 2022-04-13 |
 | [SHOWMEYOURLOVE](https://open.spotify.com/track/5729t1p6g6KCWsp4gWYqvZ) | [Baek Ji](https://open.spotify.com/artist/0xQYsRfBcBJiStVACt3JDV) | [SHOWMEYOURLOVE](https://open.spotify.com/album/6nh26RBW7JikYtfynic5zp) | 3:14 | 2023-12-21 | 2024-01-21 |
 | [SHUT DOWN](https://open.spotify.com/track/55nWobiFbQcUSXSP0ZjkfN) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [CLASS IS OVER](https://open.spotify.com/album/0mToIKyUNLglEM7VXqdCt8) | 3:26 | 2022-05-06 | 2022-11-17 |
-| [Shut Up](https://open.spotify.com/track/6R6zXjhbvw7VtCDdKbuCTQ) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Shut Up](https://open.spotify.com/album/0htkcyoyK6SXnI1uaREk8A) | 2:16 | 2026-02-26 |  |
+| [Shut Up](https://open.spotify.com/track/6R6zXjhbvw7VtCDdKbuCTQ) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Shut Up](https://open.spotify.com/album/0htkcyoyK6SXnI1uaREk8A) | 2:16 | 2026-02-26 | 2026-04-20 |
 | [SIGNAL](https://open.spotify.com/track/5GIHnMRDeDDIDsy8AcrF4Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [SIGNAL](https://open.spotify.com/album/4VfP4RWW7MPg5hOCvIgUYE) | 3:16 | 2022-01-04 | 2022-07-24 |
 | [Silly](https://open.spotify.com/track/2a2u3rXdvwjkZUV4K3jepq) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.4 Cait Sith](https://open.spotify.com/album/5CkOZ5vgacWk5rMr620rsW) | 4:00 | 2022-03-29 | 2022-04-12 |
 | [Single Heart](https://open.spotify.com/track/3WwP3uqSBOUdL35ICAW2Zs) | [Bella](https://open.spotify.com/artist/35zGq5770Sla7X3qweK9yo), [Hyeseong](https://open.spotify.com/artist/3EVONoZnP970K2Y3k0HzLj) | [RICHMAN OST Part.4](https://open.spotify.com/album/6rAd1PzPDbfEg70cNQ7gLG) | 3:16 | 2022-03-29 | 2022-04-21 |

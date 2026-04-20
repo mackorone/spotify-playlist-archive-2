@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAALouOTeJjJxL83ZlyJMfMZNQ5jGVR3",
+  "snapshot_id": "AAALo4mjB3L0WTzJyy/umgQGSl1uWS8I",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -149915,6 +149915,30 @@
       "duration_ms": 208853,
       "name": "CHEER UP",
       "url": "https://open.spotify.com/track/4CeE0LU1SkHshwHeMfPwqk"
+    },
+    {
+      "added_at": "2026-04-19 23:21:42",
+      "album": {
+        "name": "it's Franky baby!",
+        "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+        }
+      ],
+      "duration_ms": 124405,
+      "name": "Fallin' Apart (feat. Denzel Curry & Pell)",
+      "url": "https://open.spotify.com/track/7p6WWWxQZPjs3DVMFxWP8H"
     }
   ],
   "unique_name": "Purge",

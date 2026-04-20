@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 1595,
+  "num_followers": 1596,
   "original_name": "Rock Square",
   "owner": {
     "name": "Nitro Square",
     "url": "https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a"
   },
-  "snapshot_id": "AAAD3OfGWD22EkKrai1jVRmVLxOC0lrd",
+  "snapshot_id": "AAAD5cqYXe+sHtOkFcqxC/GLwSGD0jpY",
   "tracks": [
     {
       "added_at": "2024-11-02 09:43:21",
@@ -15771,6 +15771,150 @@
       "duration_ms": 166837,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/1y3Du7IQc6t5y4t8FyOOXc"
+    },
+    {
+      "added_at": "2026-04-19 15:26:18",
+      "album": {
+        "name": "Money Spine",
+        "url": "https://open.spotify.com/album/6gseo6TclKYiE17rucZz3V"
+      },
+      "artists": [
+        {
+          "name": "Hellblazers",
+          "url": "https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz"
+        }
+      ],
+      "duration_ms": 163098,
+      "name": "Money Spine",
+      "url": "https://open.spotify.com/track/2rcX6r2usMqP8Oa4L3YJA4"
+    },
+    {
+      "added_at": "2026-04-19 15:26:20",
+      "album": {
+        "name": "Zero Hour: Genesis",
+        "url": "https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r"
+      },
+      "artists": [
+        {
+          "name": "Shayan Regan",
+          "url": "https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k"
+        }
+      ],
+      "duration_ms": 299596,
+      "name": "A World Of Little Worlds",
+      "url": "https://open.spotify.com/track/5sz9ipRxEIWqE27sufQwRs"
+    },
+    {
+      "added_at": "2026-04-19 15:26:20",
+      "album": {
+        "name": "Control Room Lullaby",
+        "url": "https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46"
+      },
+      "artists": [
+        {
+          "name": "Evil Level Live",
+          "url": "https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe"
+        }
+      ],
+      "duration_ms": 178055,
+      "name": "After the Static",
+      "url": "https://open.spotify.com/track/2HwzdpXICdNC72g4nn4ro6"
+    },
+    {
+      "added_at": "2026-04-19 15:26:20",
+      "album": {
+        "name": "We Wanna Make Love to You (But\u2026)",
+        "url": "https://open.spotify.com/album/24yQZl3mH73nxFJUomieBE"
+      },
+      "artists": [
+        {
+          "name": "S/ash66",
+          "url": "https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68"
+        }
+      ],
+      "duration_ms": 133920,
+      "name": "We Wanna Make Love to You (But\u2026)",
+      "url": "https://open.spotify.com/track/24IjNetsSPkO151kkBybjV"
+    },
+    {
+      "added_at": "2026-04-19 15:26:21",
+      "album": {
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/4Cq7ROdCiucj4EB7Nc3Egb"
+      },
+      "artists": [
+        {
+          "name": "S.H.O.U.T",
+          "url": "https://open.spotify.com/artist/5Gn7doGZ1cPCZuIuzVU6RD"
+        }
+      ],
+      "duration_ms": 232515,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/7AxVcolQlPh6CAzlDHj3uq"
+    },
+    {
+      "added_at": "2026-04-19 15:27:33",
+      "album": {
+        "name": "over you",
+        "url": "https://open.spotify.com/album/71UV6jFNDCAiDsJpK0qhNE"
+      },
+      "artists": [
+        {
+          "name": "Darro",
+          "url": "https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG"
+        }
+      ],
+      "duration_ms": 177552,
+      "name": "over you",
+      "url": "https://open.spotify.com/track/4v8of4HI3TgV8ssm2DzUic"
+    },
+    {
+      "added_at": "2026-04-19 15:27:34",
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/1UVSdVOF5KmQS1qO1GQEtE"
+      },
+      "artists": [
+        {
+          "name": "Fiebre de las Monta\u00f1as Rocosas",
+          "url": "https://open.spotify.com/artist/0wluskMzTXGEgOCmezbaNM"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/54W2cEcp8UaHgTD1927H2y"
+    },
+    {
+      "added_at": "2026-04-19 15:27:34",
+      "album": {
+        "name": "Guardians of the Phallicy",
+        "url": "https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU"
+      },
+      "artists": [
+        {
+          "name": "AG Session",
+          "url": "https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy"
+        }
+      ],
+      "duration_ms": 152708,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/5fTYOxtkQXksKM7Pbj6SQy"
+    },
+    {
+      "added_at": "2026-04-19 15:27:34",
+      "album": {
+        "name": "Lucid State",
+        "url": "https://open.spotify.com/album/1Lx3tSvojHJx3JPfPk8fHo"
+      },
+      "artists": [
+        {
+          "name": "Fortune Teller",
+          "url": "https://open.spotify.com/artist/6xllSn5EskHUgWGzc7cAsm"
+        }
+      ],
+      "duration_ms": 197784,
+      "name": "Lucid State",
+      "url": "https://open.spotify.com/track/4MtTyKwT4elaUjhKBJytmK"
     }
   ],
   "unique_name": "Rock Square",

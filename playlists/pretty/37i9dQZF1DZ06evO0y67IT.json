@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 9552,
+  "num_followers": 9558,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAADH7XHCZLrSP/OF9NPrKpZ8",
+  "snapshot_id": "aeLJgAAAAACn7G5IHZyGCp672CY3Gi2G",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragile Future",
-        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 226826,
-      "name": "The Business Of Paper Stars",
-      "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
+      "duration_ms": 216520,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/0sFUZ7Hklg97I0l7MTGbD0"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+        "name": "Fragile Future",
+        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 216520,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/0sFUZ7Hklg97I0l7MTGbD0"
+      "duration_ms": 226826,
+      "name": "The Business Of Paper Stars",
+      "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
     },
     {
       "added_at": null,

@@ -4,14 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-441 songs - 1 day 2 hr 0 min
+442 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(No One's Gonna\) Break Me Down](https://open.spotify.com/track/67xenxD9QjNqTN85yt6eU1) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [What The World Needs Now Is Love](https://open.spotify.com/album/3Jx9WXotFej9KE0AlOLPUN) | 3:16 | 2024-02-27 |  |
 | [1x1](https://open.spotify.com/track/3E25cZhRlHVWrmfstuc9H9) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [1x1](https://open.spotify.com/album/4bK3rdCDBq8D7VXtdtg3cR) | 3:12 | 2024-02-27 | 2024-07-12 |
 | [1x1](https://open.spotify.com/track/3WzkONrbRHl4h8lyQiEOj2) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [1x1](https://open.spotify.com/album/4tFhgNCbU19lXjYkIMFw8T) | 3:12 | 2024-07-11 |  |
-| [23 Degrees And South](https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 4:00 | 2024-02-27 |  |
+| [23 Degrees And South](https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 4:00 | 2024-02-27 | 2026-04-20 |
 | [538 Stars](https://open.spotify.com/track/0f87YpSjkrL5TkumwPW0kN) | [Tara Oram](https://open.spotify.com/artist/0XOiK5F7wta3jBwX7pNqd9) | [Chasing The Sun](https://open.spotify.com/album/5mnwATZQWZMX3ORKbm4gdH) | 3:41 | 2024-02-27 |  |
 | [A Beautiful Noise](https://open.spotify.com/track/4Z8DyhYIN47p8LgrPVOYeL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:19 | 2024-02-27 |  |
 | [A\-YO](https://open.spotify.com/track/6Az2Ll2CPnWYQ2BgiHf4Di) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:27 | 2024-02-27 |  |
@@ -90,6 +90,7 @@
 | [Dirty Laundry](https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:25 | 2024-02-27 |  |
 | [Do It Like This \(Bonus Track\)](https://open.spotify.com/track/33LpnkcKKvgIAxEgYEYbbS) | [Johnny T](https://open.spotify.com/artist/7m0hBssYWrmf3CFVwY1xjg) | [That's What's Up](https://open.spotify.com/album/2Xk6cTdL78FvtXoXt5wQQs) | 3:11 | 2024-02-27 |  |
 | [Do You Think About Me](https://open.spotify.com/track/3M7GJHfTmF6T99TcVL4HTo) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 3:36 | 2025-01-09 | 2025-04-12 |
+| [Don't Ask Me](https://open.spotify.com/track/0a46w1TylFFpaFVVfoYaO9) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Don't Ask Me](https://open.spotify.com/album/5ASOGXccuPZ6uxIBrjatme) | 3:14 | 2026-04-19 |  |
 | [Don't Die Young, Don't Get Old](https://open.spotify.com/track/1bs6AEglHC8hQqBbsylTDy) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 3:13 | 2024-02-27 |  |
 | [Don't Even Go There](https://open.spotify.com/track/03rfZYPDfZsHtClobeKpLc) | [Kaylens Rain](https://open.spotify.com/artist/2fYyRW0iCIGiN1ju0KcWyO) | [Found](https://open.spotify.com/album/00E7KsqlLiwM6PLCUUwzMq) | 3:27 | 2025-04-30 |  |
 | [Don't Text Me When You're Drunk](https://open.spotify.com/track/3xSoK8ldUubd66INPOszNi) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ), [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII) | [Don't Text Me When You're Drunk](https://open.spotify.com/album/5AMveWacvgD5dNeZlXlr4c) | 3:14 | 2024-02-27 |  |

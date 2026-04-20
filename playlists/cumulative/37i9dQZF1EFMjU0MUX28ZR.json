@@ -969,6 +969,24 @@
     },
     {
       "album": {
+        "name": "Holly!",
+        "url": "https://open.spotify.com/album/4pMhDFwae5Udlg8MTn4BGg"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190533,
+      "name": "Holly!",
+      "url": "https://open.spotify.com/track/6rlCtwow78KOeQFkSQhQwy"
+    },
+    {
+      "album": {
         "name": "don't hold me accountable",
         "url": "https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB"
       },

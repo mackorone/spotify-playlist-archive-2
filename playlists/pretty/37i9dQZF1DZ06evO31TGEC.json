@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 54695,
+  "num_followers": 54699,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAD93GuxnBLZHPMoniGrDVqF",
+  "snapshot_id": "aeLJgAAAAAAABy7l0yWyQiI/1nhENHta",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "Bendito Amor",
-      "url": "https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30 Aniversario Duetos",
         "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "Bendito Amor",
+      "url": "https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Besos Tatuados",
         "url": "https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SALVAJE (Version Banda)",
         "url": "https://open.spotify.com/album/3AopnzNECmuubbTV1cNMEa"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 178553,
       "name": "SALVAJE - Version Banda",
       "url": "https://open.spotify.com/track/0xbu0O1zk8PQtwGcn8uaUn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
     },
     {
       "added_at": null,

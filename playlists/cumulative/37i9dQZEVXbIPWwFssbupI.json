@@ -6768,7 +6768,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 201103,
       "name": "BLOQU\u00c9",
       "url": "https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD"
@@ -9930,7 +9930,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 148636,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/3TKi9R2cUg56cLTym2SmjS"
@@ -10876,7 +10876,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 130800,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/65lCFhOz5RyYH52JryAf10"
@@ -11368,7 +11368,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 185466,
       "name": "Comme Caroline (feat. MC Solaar)",
       "url": "https://open.spotify.com/track/6qovKcVHf5VFDpLBnbBqCW"
@@ -12410,7 +12410,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 178306,
       "name": "CRYPTO",
       "url": "https://open.spotify.com/track/7rOi4g7hpf1w3wvXPqttm0"
@@ -13340,7 +13340,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 206002,
       "name": "Dansons",
       "url": "https://open.spotify.com/track/7qRK8GXzeSjfOOjDASmXs8"
@@ -15142,7 +15142,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
@@ -15160,7 +15160,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -31926,7 +31926,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 143750,
       "name": "Met Gala",
       "url": "https://open.spotify.com/track/2pYhj6vIyKGLK9YiqQ8z1n"
@@ -38980,7 +38980,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 230000,
       "name": "Poney",
       "url": "https://open.spotify.com/track/66ku4Gq4k5xUqdVL4Oam2r"
@@ -47720,7 +47720,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -53070,6 +53070,28 @@
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/7zTD7ELYa6WCbaza3VhViM"
+    },
+    {
+      "album": {
+        "name": "MEGA BBL",
+        "url": "https://open.spotify.com/album/7DLHAP2iOziLeyJbgjLXUf"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162041,
+      "name": "ZOU BISOU",
+      "url": "https://open.spotify.com/track/02HNrRhvKij7Wx6UwHvvRE"
     },
     {
       "album": {

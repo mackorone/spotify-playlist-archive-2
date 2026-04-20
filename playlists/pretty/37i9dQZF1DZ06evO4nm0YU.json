@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 188057,
+  "num_followers": 188088,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAABRk9b3gAcLUUxRwztGoymB",
+  "snapshot_id": "aeLJgAAAAACxRq5Gy2An+M0i6s710sXq",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+        "name": "La Voz (Remastered 2023)",
+        "url": "https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW"
       },
       "artists": [
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 345600,
-      "name": "Juanito Alima\u00f1a",
-      "url": "https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu"
+      "duration_ms": 263202,
+      "name": "El Todopoderoso - Remastered 2023",
+      "url": "https://open.spotify.com/track/7vNpiUDccd3Cxz3R4bJRcc"
     },
     {
       "added_at": null,
@@ -387,18 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz (Remastered 2023)",
-        "url": "https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
       },
       "artists": [
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 263202,
-      "name": "El Todopoderoso - Remastered 2023",
-      "url": "https://open.spotify.com/track/7vNpiUDccd3Cxz3R4bJRcc"
+      "duration_ms": 345600,
+      "name": "Juanito Alima\u00f1a",
+      "url": "https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Strikes Back",
+        "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/6hqqBWimVhXmWcA8OMzTKX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 295480,
       "name": "Te Conozco",
       "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strikes Back",
-        "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/6hqqBWimVhXmWcA8OMzTKX"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 337680,
-      "name": "No Me Llores M\u00e1s",
-      "url": "https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Good, The Bad, And The Ugly",
         "url": "https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 308520,
       "name": "G\u00fcaracha",
       "url": "https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 337680,
+      "name": "No Me Llores M\u00e1s",
+      "url": "https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I"
     },
     {
       "added_at": null,

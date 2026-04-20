@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 47646,
+  "num_followers": 47691,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAAbUZr1y7gDSioWvRyWeg2h",
+  "snapshot_id": "aeLJgAAAAADV1Vqzb0rBBsv+9aquDtz7",
   "tracks": [
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 157723,
-      "name": "AMA",
-      "url": "https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN"
+      "duration_ms": 159994,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/0yLPupVmWzIthRHesuR5Wt"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
       "duration_ms": 159310,
       "name": "247",
       "url": "https://open.spotify.com/track/4IBFL0LGePPUtRt6trsAvE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 159994,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/0yLPupVmWzIthRHesuR5Wt"
     },
     {
       "added_at": null,
@@ -379,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/1dpSGMq9TjMxwv6aDFC5Sg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hat-Trick",
         "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
@@ -411,38 +379,6 @@
       "duration_ms": 156134,
       "name": "Emo (Remix)",
       "url": "https://open.spotify.com/track/1fBzU9kseA8Tmq8rV2R1eC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NSNV",
-        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 212297,
-      "name": "God Sent",
-      "url": "https://open.spotify.com/track/6CFlBksvFGvYk8yXP2JrGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 142441,
-      "name": "UNIVERSE",
-      "url": "https://open.spotify.com/track/3wEguEqsbkMbrjzaPaKrJv"
     },
     {
       "added_at": null,
@@ -475,6 +411,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/1dpSGMq9TjMxwv6aDFC5Sg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 142441,
+      "name": "UNIVERSE",
+      "url": "https://open.spotify.com/track/3wEguEqsbkMbrjzaPaKrJv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NSNV",
+        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 212297,
+      "name": "God Sent",
+      "url": "https://open.spotify.com/track/6CFlBksvFGvYk8yXP2JrGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rafat",
         "url": "https://open.spotify.com/album/6nq4Mk4fA0JIlh8Kh1ZG8X"
       },
@@ -495,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSNV",
-        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+        "name": "Vibe Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj"
       },
       "artists": [
         {
@@ -504,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 106971,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/0sXxM6CMjoVAenu5OHYLkq"
+      "duration_ms": 160982,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/14uK4220kmfZKrKSeFTTlF"
     },
     {
       "added_at": null,
@@ -535,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vibe Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj"
+        "name": "NSNV",
+        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
       },
       "artists": [
         {
@@ -544,9 +528,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 160982,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/14uK4220kmfZKrKSeFTTlF"
+      "duration_ms": 106971,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0sXxM6CMjoVAenu5OHYLkq"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Billion Dollar Baby",
+        "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 160052,
+      "name": "Bank Of America",
+      "url": "https://open.spotify.com/track/4Hr6oDlsOeZCyhQiOkDFGC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sanity",
         "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 140240,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Billion Dollar Baby",
-        "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 160052,
-      "name": "Bank Of America",
-      "url": "https://open.spotify.com/track/4Hr6oDlsOeZCyhQiOkDFGC"
     },
     {
       "added_at": null,
@@ -887,6 +871,26 @@
       "duration_ms": 144927,
       "name": "Billion Dollar",
       "url": "https://open.spotify.com/track/4Wuqy79kCWtbvTSp0xiLYp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/3txOxWfFWDxo5e8mxqIdgL"
     },
     {
       "added_at": null,

@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Bob Dylan",
+        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161622,
+      "name": "In My Time of Dyin'",
+      "url": "https://open.spotify.com/track/0udZHhCi7p1YzMlvI4fXoK"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
       },
@@ -1566,7 +1584,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 110335,
       "name": "Oxford Town",
       "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"

@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2798163,
+  "num_followers": 2798227,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAADf2Lfzdy7/hJLZzap+IwYV",
+  "snapshot_id": "aeLJgAAAAABtgMMObq3SOfDgA+4cvYiV",
   "tracks": [
     {
       "added_at": null,
@@ -586,11 +586,15 @@
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 207176,
-      "name": "What Don't Belong To Me",
-      "url": "https://open.spotify.com/track/0lJNSfWnwJMIh94Dv9jQUt"
+      "duration_ms": 192459,
+      "name": "Nosedive (Feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE"
     },
     {
       "added_at": null,
@@ -654,15 +658,11 @@
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 192459,
-      "name": "Nosedive (Feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE"
+      "duration_ms": 207176,
+      "name": "What Don't Belong To Me",
+      "url": "https://open.spotify.com/track/0lJNSfWnwJMIh94Dv9jQUt"
     },
     {
       "added_at": null,
@@ -719,6 +719,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Clever",
+          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Forever (feat. Post Malone & Clever)",
+      "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jackie Chan",
         "url": "https://open.spotify.com/album/0vRcQquqBlFvnezWldWfmt"
       },
@@ -743,30 +767,6 @@
       "duration_ms": 215759,
       "name": "Jackie Chan",
       "url": "https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Clever",
-          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Forever (feat. Post Malone & Clever)",
-      "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
     },
     {
       "added_at": null,

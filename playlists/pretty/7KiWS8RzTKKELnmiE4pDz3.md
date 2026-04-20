@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 198 songs - 12 hr 15 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 201 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,5 +206,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 196 | [Get Right \(feat\. Project Pat\)](https://open.spotify.com/track/5GOX4KkLskHaG9UfEuNPfX) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Live And In Color](https://open.spotify.com/album/4F6xX5UGoiGGpLpItFYHzp) | 2:32 |
 | 197 | [We Live](https://open.spotify.com/track/3hcMXaYUqCOUuFgJOoBBl2) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Live And In Color](https://open.spotify.com/album/4F6xX5UGoiGGpLpItFYHzp) | 1:25 |
 | 198 | [Acting](https://open.spotify.com/track/2IwL0fwckPbO9sau1EHslH) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 7:05 |
+| 199 | [Vaxuum Sealed \(feat\. BabyTron\)](https://open.spotify.com/track/4vQ3Ve7jnU7EDKJtZJqm39) | [Drego & Beno](https://open.spotify.com/artist/7af6WhCUemo7a4L2fk5N2X), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Sorry We Was Trapping](https://open.spotify.com/album/3JQerOwjyEEIYBKQoHmH1s) | 2:25 |
+| 200 | [Brad Jordan \(feat\. Michael Da Vinci\)](https://open.spotify.com/track/0wfrsR4P16Zj4BeI5hyPO5) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Michael Da Vinci](https://open.spotify.com/artist/2POqOOLcEH30IODCaW1Ytw) | [Cilvia Demo](https://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42) | 4:08 |
+| 201 | [Graffiti](https://open.spotify.com/track/6oLANSb6vq2T5tIg92FxCW) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy](https://open.spotify.com/album/278c24ae4JsSRpOEzlaghQ) | 3:26 |
 
-Snapshot ID: `AAAgHnSjZNueHaXlrslA7BmPPUxsecjB`
+Snapshot ID: `AAAgIWF8wvjsKhLli/d1yTAm97OHzZOT`

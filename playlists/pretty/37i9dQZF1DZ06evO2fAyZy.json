@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 101391,
+  "num_followers": 101393,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAArzYrHTV3rcXjPioQGh+ul",
+  "snapshot_id": "aeLJgAAAAACNn2SLkgW81g5mfG4E9DYf",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 200026,
-      "name": "Love Me Like You Mean It",
-      "url": "https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm"
+      "duration_ms": 194413,
+      "name": "Yeah Boy",
+      "url": "https://open.spotify.com/track/2WaOQWSv0D1tZNxyLvnGAI"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 194413,
-      "name": "Yeah Boy",
-      "url": "https://open.spotify.com/track/2WaOQWSv0D1tZNxyLvnGAI"
+      "duration_ms": 200026,
+      "name": "Love Me Like You Mean It",
+      "url": "https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS Commentary Album",
-        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "WAIT!",
-      "url": "https://open.spotify.com/track/3kIgoto0T2mhZXOcRNNo7F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "They Don't Know",
         "url": "https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 204106,
       "name": "First Time Again",
       "url": "https://open.spotify.com/track/7dRnLA0SZFVn62weznwJnk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PATTERNS Commentary Album",
+        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "WAIT!",
+      "url": "https://open.spotify.com/track/3kIgoto0T2mhZXOcRNNo7F"
     },
     {
       "added_at": null,

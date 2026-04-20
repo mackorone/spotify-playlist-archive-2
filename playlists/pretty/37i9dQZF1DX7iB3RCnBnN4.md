@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Celebrating all the songs with more than a billion streams on Spotify\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,728 likes - 1,254 songs - 3 day 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,237 likes - 1,254 songs - 3 day 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

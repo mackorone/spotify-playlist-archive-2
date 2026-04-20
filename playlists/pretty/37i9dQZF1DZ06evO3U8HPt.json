@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Langley. The essential tracks, all in one playlist.",
-  "num_followers": 63262,
+  "num_followers": 63715,
   "original_name": "This Is Ella Langley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAACTz1wAE6oq8i0krLNY62l3",
+  "snapshot_id": "aeLJgAAAAABmHdWuyTigJpp0oIhhpxxK",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/5aWJ4c7FZJ8r0G7lRzLTn4"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 240946,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/7FudQLDIYCX6F7ruexVn2X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Excuse The Mess",
         "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 205066,
       "name": "Excuse The Mess",
       "url": "https://open.spotify.com/track/5KP3uYT70kYwQYLXUwLlua"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/5aWJ4c7FZJ8r0G7lRzLTn4"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 240946,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/7FudQLDIYCX6F7ruexVn2X"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "still hungover",
-        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 195386,
-      "name": "20-20",
-      "url": "https://open.spotify.com/track/0HhzALLRmKKP8iP2C9qzAP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Excuse The Mess",
         "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
       },
@@ -267,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "still hungover",
+        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 195386,
+      "name": "20-20",
+      "url": "https://open.spotify.com/track/0HhzALLRmKKP8iP2C9qzAP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "hungover",
         "url": "https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N"
       },
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 216440,
-      "name": "nicotine",
-      "url": "https://open.spotify.com/track/47CCJxLcvIB8KS7lZxXDDN"
+      "duration_ms": 173493,
+      "name": "love you tonight",
+      "url": "https://open.spotify.com/track/2nMJZxXtV5oTPbtIXMpzhX"
     },
     {
       "added_at": null,
@@ -295,6 +295,22 @@
       "duration_ms": 266760,
       "name": "Wish I Didn't Know Now",
       "url": "https://open.spotify.com/track/1EOJEjcoc4UhOmb9sFOQgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "We Know Us",
+      "url": "https://open.spotify.com/track/7ks1bfjmiJZjug0jjyQDYt"
     },
     {
       "added_at": null,
@@ -319,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "We Know Us",
-      "url": "https://open.spotify.com/track/7ks1bfjmiJZjug0jjyQDYt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "hungover",
         "url": "https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N"
       },
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 173493,
-      "name": "love you tonight",
-      "url": "https://open.spotify.com/track/2nMJZxXtV5oTPbtIXMpzhX"
+      "duration_ms": 216440,
+      "name": "nicotine",
+      "url": "https://open.spotify.com/track/47CCJxLcvIB8KS7lZxXDDN"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn You",
-        "url": "https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 183413,
-      "name": "Damn You",
-      "url": "https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 200800,
       "name": "You & Me Time",
       "url": "https://open.spotify.com/track/0zwYtowNHP3r9DUHjo6AZl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damn You",
+        "url": "https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "Damn You",
+      "url": "https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Wants This Season 2: The Soundtrack",
-        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 190263,
-      "name": "This Version Of Us",
-      "url": "https://open.spotify.com/track/3ZhgC1o5jAR5pRZvEQ1RJ1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 212946,
       "name": "Butterfly Season (feat. Miranda Lambert)",
       "url": "https://open.spotify.com/track/37kzuSrUdgkC3X22F0bLbw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nobody Wants This Season 2: The Soundtrack",
+        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 190263,
+      "name": "This Version Of Us",
+      "url": "https://open.spotify.com/track/3ZhgC1o5jAR5pRZvEQ1RJ1"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "Somethin' Simple",
+      "url": "https://open.spotify.com/track/20JeURYv42W2DxiRraVdjJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crossing Lines",
         "url": "https://open.spotify.com/album/0iXQJDkspV7JKEcpm6G1uu"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 232764,
       "name": "Beautiful Lies (feat. Ella Langley)",
       "url": "https://open.spotify.com/track/4CJQwcIon6uKc3gfIivuhS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 207586,
-      "name": "Somethin' Simple",
-      "url": "https://open.spotify.com/track/20JeURYv42W2DxiRraVdjJ"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Excuse The Mess",
-        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "Make Me Wanna Smoke",
-      "url": "https://open.spotify.com/track/3eh2jtDdUk59q7BKI0l4YP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 210040,
       "name": "Hey Ma I Made It",
       "url": "https://open.spotify.com/track/0mmneggTzBRWdiiXyTbpDF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Excuse The Mess",
+        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "Make Me Wanna Smoke",
+      "url": "https://open.spotify.com/track/3eh2jtDdUk59q7BKI0l4YP"
     },
     {
       "added_at": null,

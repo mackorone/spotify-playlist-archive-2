@@ -6680,6 +6680,24 @@
     {
       "album": {
         "name": "Ayer Hable Con Dios",
+        "url": "https://open.spotify.com/album/5M1e5Ya2CtNhIkPaj2q0Ev"
+      },
+      "artists": [
+        {
+          "name": "Corridos del Rey",
+          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143279,
+      "name": "Ayer Hable Con Dios",
+      "url": "https://open.spotify.com/track/4k0HONHVX9U15ZKkPHmfYv"
+    },
+    {
+      "album": {
+        "name": "Ayer Hable Con Dios",
         "url": "https://open.spotify.com/album/4LCH0Wp0XgSGYJ05cpm52Z"
       },
       "artists": [
@@ -6708,7 +6726,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 143280,
       "name": "Ayer Hable Con Dios",
       "url": "https://open.spotify.com/track/7yWF9ZtqzTKsxKUPVg4efu"
@@ -43242,7 +43260,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 179149,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/3i5yV30C8kFn84q5qIh2sY"
@@ -47426,7 +47444,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 254740,
       "name": "Mantis",
       "url": "https://open.spotify.com/track/6ImCkOkytyhBDWDU3a26iL"
@@ -49784,7 +49802,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 165081,
       "name": "Mi gran amor",
       "url": "https://open.spotify.com/track/0h9OowuDE24mx1dZPCFo7c"
@@ -52638,7 +52656,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 202636,
       "name": "Mujer Virtuosa (bibl.IA Session 1)",
       "url": "https://open.spotify.com/track/1UrzqVmXBgBdUtcyFi8pHk"
@@ -67564,7 +67582,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -67582,7 +67600,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -80761,6 +80779,28 @@
     },
     {
       "album": {
+        "name": "Trippy Yeah",
+        "url": "https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238400,
+      "name": "Trippy Yeah",
+      "url": "https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb"
+    },
+    {
+      "album": {
         "name": "Vikorg",
         "url": "https://open.spotify.com/album/2s1lH466ICjtzwgCDljKQK"
       },
@@ -82028,7 +82068,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 150090,
       "name": "T\u00f3picos y tiempo",
       "url": "https://open.spotify.com/track/3qn6fKtPiYwuot1GxMYHQF"

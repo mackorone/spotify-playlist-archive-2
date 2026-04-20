@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 63080,
+  "num_followers": 63096,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAACUkSLpa4c2uF+fltfqHLI2",
+  "snapshot_id": "aeLJgAAAAADRQY9xw5luT48LezTAPQNX",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pantone",
-        "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
+        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
+        "url": "https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW"
       },
       "artists": [
         {
-          "name": "No Rules Clan",
-          "url": "https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv"
-        },
-        {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "El Arkeologo",
-          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
         }
       ],
-      "duration_ms": 265488,
-      "name": "Quien Va",
-      "url": "https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay"
+      "duration_ms": 218040,
+      "name": "Fruko y Sus Presos (2.018)",
+      "url": "https://open.spotify.com/track/3wLZplvZc5OOSpKRxr9Uky"
     },
     {
       "added_at": null,
@@ -339,18 +331,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
-        "url": "https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW"
+        "name": "Pantone",
+        "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
       },
       "artists": [
         {
+          "name": "No Rules Clan",
+          "url": "https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv"
+        },
+        {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
         }
       ],
-      "duration_ms": 218040,
-      "name": "Fruko y Sus Presos (2.018)",
-      "url": "https://open.spotify.com/track/3wLZplvZc5OOSpKRxr9Uky"
+      "duration_ms": 265488,
+      "name": "Quien Va",
+      "url": "https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay"
     },
     {
       "added_at": null,

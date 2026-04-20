@@ -4,7 +4,7 @@
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: JOEY PHUWASIT
 
-234 songs - 15 hr 7 min
+235 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [ขอโทษที่ติดต่อไป](https://open.spotify.com/track/1EPvxPb6ToC6LHzmHik4ZJ) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [Nap The Nap](https://open.spotify.com/artist/12uTsbd2SoA8dRXfbI9rfd) | [ขอโทษที่ติดต่อไป \- Single](https://open.spotify.com/album/2yPNK8VRicVSkfUBy4KDJ1) | 4:18 | 2025-01-23 | 2025-02-28 |
 | [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/track/0cvETHNq3ZkPHdYCqRXhzk) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/album/7allI9XRc8YqcO1TO3Gsyi) | 2:46 | 2024-10-24 | 2025-01-31 |
 | [ขอให้เธอใจดี](https://open.spotify.com/track/3y5HhSSAyYGtOkP6mhKs6z) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ขอให้เธอใจดี](https://open.spotify.com/album/0M0ul20pgcYfWCooWsh9Sb) | 4:55 | 2024-01-26 | 2024-07-27 |
-| [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/track/4GMsgN54SdPxMamKu9qQam) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/album/5Y9UBuDr9YrjFoRvfuO6fb) | 3:56 | 2026-03-05 |  |
+| [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/track/4GMsgN54SdPxMamKu9qQam) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/album/5Y9UBuDr9YrjFoRvfuO6fb) | 3:56 | 2026-03-05 | 2026-04-20 |
 | [ขาด \(Without me\)](https://open.spotify.com/track/0gfaovbqUD9axcb1O2eNha) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl) | [ขาด \(Without me\)](https://open.spotify.com/album/4iIfTRJHHBOj0oUkRA62Rs) | 3:38 | 2024-01-31 | 2024-02-16 |
 | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/track/6VlPCdEkEMkD7OcbCg8qC6) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/album/3XviYeEx5FuG7m6LodIFgU) | 3:41 | 2024-05-30 | 2024-07-19 |
 | [ข้อความรูปยิ้ม :\)](https://open.spotify.com/track/3ZajpwGfKsToCEAuLTtoxF) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [ข้อความรูปยิ้ม :\)](https://open.spotify.com/album/3LenjO4Dj5si5mCrFVWaen) | 3:47 | 2024-09-07 | 2025-03-21 |
@@ -192,6 +192,7 @@
 | [หากจะเพียงขอ\(Sincare\)](https://open.spotify.com/track/3v5g7khNHS9726iyuI1iUs) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หากจะเพียงขอ\(Sincare\)](https://open.spotify.com/album/4UmeizyaQt3UMctskcADjF) | 5:17 | 2024-01-26 | 2024-03-28 |
 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 | 2025-06-19 |  |
 | [อยากอินเพลงรัก](https://open.spotify.com/track/0ZK7WAqADNAc2zY7WVRDTl) | [Season Five](https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H), [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [อยากอินเพลงรัก](https://open.spotify.com/album/6G3FvZ2OHWHyoG40SQhIbJ) | 3:22 | 2026-01-15 |  |
+| [อยู่ด้วยกันนะ \(Every Single Day\)](https://open.spotify.com/track/2odtCLRbw7U2SuLrTfADtO) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [อยู่ด้วยกันนะ \(Every Single Day\)](https://open.spotify.com/album/3HDs76j5WZCrJpZHX88d0e) | 3:55 | 2026-04-19 |  |
 | [อยู่ได้แล้ว](https://open.spotify.com/track/2AdBbeVaEdW731a3FXJAJC) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [อยู่ได้แล้ว](https://open.spotify.com/album/3NkCwiKDPhfwZaKSEZUUiE) | 4:13 | 2024-08-08 | 2026-03-20 |
 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 | 2024-01-26 | 2024-06-07 |
 | [อิจฉา](https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [อิจฉา \- Single](https://open.spotify.com/album/01dsnQ9UyqGzZ4FtoZvXtQ) | 3:35 | 2024-01-26 | 2024-08-23 |

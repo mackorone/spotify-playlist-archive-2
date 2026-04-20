@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,323 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,343 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 49 | [Seekho Na](https://open.spotify.com/track/1Ar5Yq6mg57nt6w5vgiUgu) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Classic Love](https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs) | 5:55 |
 | 50 | [Mystical Yearning](https://open.spotify.com/track/20rlTK4OGzb4mAYWfmjTCW) | [Dhruvv Bhattacharya](https://open.spotify.com/artist/2GLlCKPLjGGvpuSoo8wIvW) | [Mystical Yearning](https://open.spotify.com/album/46hcksddcEHBzH3SoQLWib) | 4:38 |
 
-Snapshot ID: `AAAAAJf9puIccUt68uUw0RLz8tc67Zx4`
+Snapshot ID: `AAAAADu1NoYG7rMdnWIKnXqXWcPF+ZTy`

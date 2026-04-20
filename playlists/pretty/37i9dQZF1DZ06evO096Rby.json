@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 57099,
+  "num_followers": 57142,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAACGvo3yAhOjpVtkIlhMyNpP",
+  "snapshot_id": "aeLJgAAAAABh7BqtwPm82h9qq4kVpqrF",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.3 (En Vivo)",
-        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 142357,
-      "name": "En Los Puritos Huesos - En Vivo",
-      "url": "https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 153709,
       "name": "NO VOLVERE - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/5VeaJKovkYUfGvjCOdjL9M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.3 (En Vivo)",
+        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 142357,
+      "name": "En Los Puritos Huesos - En Vivo",
+      "url": "https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Houston (En Vivo)",
-        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 265791,
-      "name": "Mi Pasado y Mi Presente - En Vivo",
-      "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Ando Solo",
         "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 245738,
       "name": "Los 5 Pesos",
       "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Houston (En Vivo)",
+        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 265791,
+      "name": "Mi Pasado y Mi Presente - En Vivo",
+      "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un D\u00eda Como Hoy",
-        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 171175,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Envidia Se Dio Cuenta (En Vivo)",
         "url": "https://open.spotify.com/album/63XdgF882pL2ryGEM8jPSR"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 206271,
       "name": "La Envidia Se Dio Cuenta - En Vivo",
       "url": "https://open.spotify.com/track/46WJUGGILoo7R7GwheR1wh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un D\u00eda Como Hoy",
+        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 171175,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
     },
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pongase Bien Chula",
+        "url": "https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Pongase Bien Chula",
+      "url": "https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dicen y Dicen",
         "url": "https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 173135,
       "name": "Dicen y Dicen",
       "url": "https://open.spotify.com/track/6mzQvzXGWVoNjWhdhup27l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pongase Bien Chula",
-        "url": "https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Pongase Bien Chula",
-      "url": "https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4"
     },
     {
       "added_at": null,

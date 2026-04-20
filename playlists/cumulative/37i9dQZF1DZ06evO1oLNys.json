@@ -184,7 +184,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 60000,
       "name": "Amtrak, Hudson Valley",
       "url": "https://open.spotify.com/track/0exqCWPLUuUrPM8zVpcJNM"
@@ -220,7 +220,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 260387,
       "name": "As Sweet As",
       "url": "https://open.spotify.com/track/6NZF11LlZ3BlTakjNkrpFi"
@@ -242,7 +242,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 60000,
       "name": "Basketball Court",
       "url": "https://open.spotify.com/track/2Wrr8X4LvPFvucyaDxqs2q"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 275068,
       "name": "became daily today",
       "url": "https://open.spotify.com/track/6lMpeGCEAbyaODknLJc9uf"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 268509,
       "name": "in a specific room",
       "url": "https://open.spotify.com/track/0FkRqHKhrfvpj7miTVQVRs"
@@ -778,10 +778,36 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 171586,
       "name": "laundry | blood",
       "url": "https://open.spotify.com/track/3d32FccPrxLnAiDqcoxQ6v"
+    },
+    {
+      "album": {
+        "name": "BODY SOUND",
+        "url": "https://open.spotify.com/album/4ZlCJO5fnIvgoPADpeB7tP"
+      },
+      "artists": [
+        {
+          "name": "Whitney Johnson",
+          "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
+        },
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171586,
+      "name": "laundry | blood",
+      "url": "https://open.spotify.com/track/3eOtkEZrOuM93GUYlX5Tkr"
     },
     {
       "album": {
@@ -898,7 +924,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 60000,
       "name": "Penny Whistle Seller, Guangzhou",
       "url": "https://open.spotify.com/track/1eqmkXVJNeb14gp3pcW9GG"
@@ -982,7 +1008,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 172779,
       "name": "Scrimble-Scramble",
       "url": "https://open.spotify.com/track/1fac4qYqKoPCVWFW1lAsAa"
@@ -1308,7 +1334,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 60000,
       "name": "Train, Antwerp to Amsterdam",
       "url": "https://open.spotify.com/track/0aaYQVSzfUKPtK4ZUs7Nkv"

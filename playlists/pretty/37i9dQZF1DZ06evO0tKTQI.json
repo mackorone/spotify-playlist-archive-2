@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAByreEIRZslLW0PAATCMajm",
+  "snapshot_id": "aeLJgAAAAAAagaZGQr5bwhe72YYwQCMQ",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantasy Gateway",
-        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
+        "name": "HOSHI",
+        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
         }
       ],
-      "duration_ms": 174117,
-      "name": "Fin Del Mundo (with Bratty)",
-      "url": "https://open.spotify.com/track/4bWKxHYB7QGYobbiQawHXQ"
+      "duration_ms": 187257,
+      "name": "detr\u00e1s de ti",
+      "url": "https://open.spotify.com/track/3YAHXhmXnLmiszWj1DU6Hq"
     },
     {
       "added_at": null,
@@ -199,6 +199,26 @@
       "duration_ms": 225216,
       "name": "Linger - Spanish Mix (2026)",
       "url": "https://open.spotify.com/track/34HvVFUB2RDNhsf71SiF5X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fantasy Gateway",
+        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Fin Del Mundo (with Bratty)",
+      "url": "https://open.spotify.com/track/4bWKxHYB7QGYobbiQawHXQ"
     },
     {
       "added_at": null,
@@ -243,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOSHI",
-        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 187257,
-      "name": "detr\u00e1s de ti",
-      "url": "https://open.spotify.com/track/3YAHXhmXnLmiszWj1DU6Hq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Delusi\u00f3n",
         "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
@@ -275,6 +275,26 @@
       "duration_ms": 193120,
       "name": "Quiero Estar",
       "url": "https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOSHI",
+        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 227738,
+      "name": "no queda nada ft. Julieta Venegas",
+      "url": "https://open.spotify.com/track/0A6PRSdC2aCbjSClWyp88x"
     },
     {
       "added_at": null,
@@ -354,15 +374,11 @@
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 227738,
-      "name": "no queda nada ft. Julieta Venegas",
-      "url": "https://open.spotify.com/track/0A6PRSdC2aCbjSClWyp88x"
+      "duration_ms": 204762,
+      "name": "m\u00eda",
+      "url": "https://open.spotify.com/track/3fKqUZ7vrRDCckDrFRvfcL"
     },
     {
       "added_at": null,
@@ -428,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 204762,
-      "name": "m\u00eda",
-      "url": "https://open.spotify.com/track/3fKqUZ7vrRDCckDrFRvfcL"
+      "duration_ms": 190340,
+      "name": "siempre quiero +",
+      "url": "https://open.spotify.com/track/3HXx0XvN2aSzAXdjZOsqkA"
     },
     {
       "added_at": null,
@@ -543,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "siempre quiero +",
-        "url": "https://open.spotify.com/album/0PktceOqLoT7kreoTfi38Z"
+        "name": "Tu Canci\u00f3n",
+        "url": "https://open.spotify.com/album/54oqibHFqg8CZFpDXnrbQZ"
       },
       "artists": [
         {
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 190340,
-      "name": "siempre quiero +",
-      "url": "https://open.spotify.com/track/6uYAESroN4MLNbrUpddVgU"
+      "duration_ms": 225493,
+      "name": "Tu Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2x4lTomM9xQjBzz5WP3CU6"
     },
     {
       "added_at": null,
@@ -591,8 +607,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Canci\u00f3n",
-        "url": "https://open.spotify.com/album/54oqibHFqg8CZFpDXnrbQZ"
+        "name": "lo q yo por ti",
+        "url": "https://open.spotify.com/album/6zEyyStAYReX0eg8BFbGYj"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 173421,
+      "name": "lo q yo por ti",
+      "url": "https://open.spotify.com/track/2o3uQ63gwh63tBn9ox2bV3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
       "artists": [
         {
@@ -600,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 225493,
-      "name": "Tu Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2x4lTomM9xQjBzz5WP3CU6"
+      "duration_ms": 302840,
+      "name": "contigo",
+      "url": "https://open.spotify.com/track/5K4D9G7S8d4VxJEHN3TFCA"
     },
     {
       "added_at": null,
@@ -627,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "contigo",
-      "url": "https://open.spotify.com/track/5K4D9G7S8d4VxJEHN3TFCA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TRES",
         "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
       },
@@ -663,42 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "lo q yo por ti",
-        "url": "https://open.spotify.com/album/6zEyyStAYReX0eg8BFbGYj"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 173421,
-      "name": "lo q yo por ti",
-      "url": "https://open.spotify.com/track/2o3uQ63gwh63tBn9ox2bV3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HOSHI",
-        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
       "artists": [
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Red Fingers",
-          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
         }
       ],
-      "duration_ms": 205517,
-      "name": "qui\u00e9n te va a querer como yo?",
-      "url": "https://open.spotify.com/track/0yCDJcPgCOZutvKb95QryP"
+      "duration_ms": 138866,
+      "name": "Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/2VGAj6WgbcQhxzb0PVMW0f"
     },
     {
       "added_at": null,
@@ -715,6 +711,26 @@
       "duration_ms": 194640,
       "name": "tdbn",
       "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chocolate y Nata",
+        "url": "https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Chocolate y Nata",
+      "url": "https://open.spotify.com/track/45nk1Xq2y9yobawOJ7rvE3"
     },
     {
       "added_at": null,
@@ -744,29 +760,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 138866,
-      "name": "Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/2VGAj6WgbcQhxzb0PVMW0f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chocolate y Nata",
-        "url": "https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Chocolate y Nata",
-      "url": "https://open.spotify.com/track/45nk1Xq2y9yobawOJ7rvE3"
+      "duration_ms": 213306,
+      "name": "Delusi\u00f3n",
+      "url": "https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP"
     },
     {
       "added_at": null,
@@ -799,22 +795,6 @@
       "duration_ms": 238533,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Delusi\u00f3n",
-      "url": "https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP"
     },
     {
       "added_at": null,
@@ -907,6 +887,22 @@
       "duration_ms": 178686,
       "name": "Voy en Auto",
       "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "tdbn (Deluxe)",
+        "url": "https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "u.c.m.c.d.n.",
+      "url": "https://open.spotify.com/track/0c6yROB8ARIwEGJXU8w0Dn"
     }
   ],
   "unique_name": "This Is Bratty",

@@ -3663,6 +3663,28 @@
     },
     {
       "album": {
+        "name": "Cilvia Demo",
+        "url": "https://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Michael Da Vinci",
+          "url": "https://open.spotify.com/artist/2POqOOLcEH30IODCaW1Ytw"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248488,
+      "name": "Brad Jordan (feat. Michael Da Vinci)",
+      "url": "https://open.spotify.com/track/0wfrsR4P16Zj4BeI5hyPO5"
+    },
+    {
+      "album": {
         "name": "Dont Get Took Off 3",
         "url": "https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq"
       },
@@ -9966,6 +9988,24 @@
       "duration_ms": 89730,
       "name": "Grab Da Door!",
       "url": "https://open.spotify.com/track/3CVy14A3kKJpS0VnrygIQr"
+    },
+    {
+      "album": {
+        "name": "AI YoungBoy",
+        "url": "https://open.spotify.com/album/278c24ae4JsSRpOEzlaghQ"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206398,
+      "name": "Graffiti",
+      "url": "https://open.spotify.com/track/6oLANSb6vq2T5tIg92FxCW"
     },
     {
       "album": {
@@ -26402,7 +26442,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 145893,
       "name": "Vaxuum Sealed (feat. BabyTron)",
       "url": "https://open.spotify.com/track/4vQ3Ve7jnU7EDKJtZJqm39"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDcbB9HNTnxj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5T3bEdkDNnvnAjPdA5dH6M">ROSALÍA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,464 likes - 102 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,465 likes - 102 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDcbB9HNTnxj.md) - [plain]
 | 65 | [La Rumba Del Perdón](https://open.spotify.com/track/7o76sIawH9bRWsltcWfQfd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:11 |
 | 66 | [CUUUUuuuuuute](https://open.spotify.com/track/3BQPPsoxlhuSIEPlNRHHZt) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:30 |
 | 67 | [DE AQUÍ NO SALES \- Cap.4: Disputa](https://open.spotify.com/track/0CaiddWO1F3v4nTQGgfk9A) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:24 |
-| 68 | [CAPRICHOSO](https://open.spotify.com/track/3Fm7EFSuLlW8KqWTPIYLZH) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [TRAP CAKE VOL\. 2](https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI) | 2:47 |
-| 69 | [Mundo Nuevo](https://open.spotify.com/track/1LFM6gtGwcTe8CXX6y1IK2) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:20 |
+| 68 | [Mundo Nuevo](https://open.spotify.com/track/1LFM6gtGwcTe8CXX6y1IK2) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:20 |
+| 69 | [CAPRICHOSO](https://open.spotify.com/track/3Fm7EFSuLlW8KqWTPIYLZH) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [TRAP CAKE VOL\. 2](https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI) | 2:47 |
 | 70 | [SAKURA](https://open.spotify.com/track/15pRGUlhmCxtewBs42ui1N) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:21 |
 | 71 | [Memória](https://open.spotify.com/track/4ukpy7Q6QmrB7ttNMSAcG2) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:45 |
 | 72 | [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 |
@@ -105,10 +105,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDcbB9HNTnxj.md) - [plain]
 | 95 | [Llama](https://open.spotify.com/track/5M2YAHMu0XFqHhke38H7RY) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mil Razones](https://open.spotify.com/album/0IV1SE6tUNzoLDdBSSVBdT) | 3:50 |
 | 96 | [Nothing’s Special](https://open.spotify.com/track/42XBr4TCOHEz2SP4vUsBGp) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Magic Oneohtrix Point Never \(Blu\-ray Edition\)](https://open.spotify.com/album/7D6nstAHvEYc7RuA9ufMxy) | 3:32 |
 | 97 | [I Had A Heart](https://open.spotify.com/track/2uJZ32A1LXktrJvREA21uf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:48 |
-| 98 | [Seguiriya Madre](https://open.spotify.com/track/62idAqgmMxIIchpckGjMDU) | [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Flamenco\. Mausoleo de Celebración, Amor y Muerte](https://open.spotify.com/album/7EK2WnHyZAH02Rfu6MEOIg) | 4:10 |
-| 99 | [Focu 'Ranni](https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX \(Complete Works\)](https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU) | 2:50 |
+| 98 | [Focu 'Ranni](https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX \(Complete Works\)](https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU) | 2:50 |
+| 99 | [Seguiriya Madre](https://open.spotify.com/track/62idAqgmMxIIchpckGjMDU) | [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Flamenco\. Mausoleo de Celebración, Amor y Muerte](https://open.spotify.com/album/7EK2WnHyZAH02Rfu6MEOIg) | 4:10 |
 | 100 | [Novia Robot](https://open.spotify.com/track/501aZny32oS5iewdx3e4Eu) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX \(Complete Works\)](https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU) | 3:12 |
 | 101 | [Jeanne](https://open.spotify.com/track/7CTwREqLgmaxQngztZrJNd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX \(Complete Works\)](https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU) | 3:51 |
 | 102 | [Mil Razones](https://open.spotify.com/track/21gOeRf8D8rLN4xbkwNgTY) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mil Razones](https://open.spotify.com/album/0IV1SE6tUNzoLDdBSSVBdT) | 2:46 |
 
-Snapshot ID: `AcPOCAAAAABc117VRLrUDoGYjTqRzy+N`
+Snapshot ID: `AcPTqAAAAACS0K79dm8DoxQV/F9DVnBu`

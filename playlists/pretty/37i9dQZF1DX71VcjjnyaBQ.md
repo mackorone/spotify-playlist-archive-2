@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,109 likes - 75 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,161 likes - 75 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 74 | [A.M\. Hours](https://open.spotify.com/track/4pQaJHrYyFIWNxpNyU9BXW) | [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [A.M\. Hours](https://open.spotify.com/album/2HzQX5wSRWkQUpvjHeJiJ9) | 4:18 |
 | 75 | [Winter](https://open.spotify.com/track/0TY99mhZgjAT1Nv3b2fnZr) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Winter](https://open.spotify.com/album/6y81cvtV64YclRmmivCI8U) | 5:29 |
 
-Snapshot ID: `AAAAAH/QFHorvgUKY5k+nA2JUCWEEN5B`
+Snapshot ID: `AAAAACQMEJzv+SeKWDKZPoDc8PO3wWLj`

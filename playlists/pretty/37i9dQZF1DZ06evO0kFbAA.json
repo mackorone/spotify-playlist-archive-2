@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 54359,
+  "num_followers": 54360,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAABLMENW0PJMX5Q5pmq6+9nb",
+  "snapshot_id": "aeLJgAAAAADcT8tWQAjSj9yt7x0h1mAR",
   "tracks": [
     {
       "added_at": null,
@@ -59,26 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
-        }
-      ],
-      "duration_ms": 149080,
-      "name": "O Pato",
-      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/0ZUAmrO9WtF8yQLZdC9raG"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 218078,
       "name": "S\u00f3 Dan\u00e7o Samba",
       "url": "https://open.spotify.com/track/6UMYd4y3VzCF5WR6STCzwc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "duration_ms": 149080,
+      "name": "O Pato",
+      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
     },
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
-        }
-      ],
-      "duration_ms": 369280,
-      "name": "Samba De Uma Nota So",
-      "url": "https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/0ZUAmrO9WtF8yQLZdC9raG"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 219286,
       "name": "Saudade Vem Correndo",
       "url": "https://open.spotify.com/track/5AdLmvd90okvVu2CtjCxSj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "duration_ms": 369280,
+      "name": "Samba De Uma Nota So",
+      "url": "https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 145693,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/2PoTPPNyExmShy24Mkm9Ii"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recorded Fall '61",
         "url": "https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 286893,
       "name": "Who Could Care?",
       "url": "https://open.spotify.com/track/1kBKndNFG5Um2DK87FYk1m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 145693,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/2PoTPPNyExmShy24Mkm9Ii"
     },
     {
       "added_at": null,

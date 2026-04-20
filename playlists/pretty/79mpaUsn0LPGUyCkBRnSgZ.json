@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAI7fzeBwOn7iZTtLgYwNGdfgb9TXAc",
+  "snapshot_id": "AAAI9Ol/0IniWugvm0phRbAv63wc2OlL",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -11851,6 +11851,38 @@
       "duration_ms": 239392,
       "name": "Light My Dart Up",
       "url": "https://open.spotify.com/track/367GA7wOCuScxnLH5SlAup"
+    },
+    {
+      "added_at": "2026-04-19 19:25:29",
+      "album": {
+        "name": "URGH",
+        "url": "https://open.spotify.com/album/2W2pytiTdjR0VArgmbQD3M"
+      },
+      "artists": [
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "duration_ms": 142287,
+      "name": "Sevastopol",
+      "url": "https://open.spotify.com/track/52wrDCbeWsiPwv8n5qatD1"
+    },
+    {
+      "added_at": "2026-04-19 22:27:14",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3vnvvODpAWJFZiQWjzeLyU"
+      },
+      "artists": [
+        {
+          "name": "Free Range",
+          "url": "https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Tilt",
+      "url": "https://open.spotify.com/track/0ZV0aqU5aMLDDyAqfPf3dU"
     }
   ],
   "unique_name": "Zacklog",

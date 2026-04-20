@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Tenille Townes
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,181 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,165 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 99 | [Progress of Man \(Bitcoin & Cattle\)](https://open.spotify.com/track/5kyFUvN9MgbqyybaqkLC16) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Progress of Man \(Bitcoin & Cattle\)](https://open.spotify.com/album/22tFCbaKQln02zqGJSD4ui) | 4:05 |
 | 100 | [Mint Tea](https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Passage Du Desir](https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t) | 3:37 |
 
-Snapshot ID: `AAAAAFRfyLNQcDVIil1OPMQbxcfWAtXZ`
+Snapshot ID: `AAAAALvHVTrEJq6m2lA3dxFHCf3sAquw`

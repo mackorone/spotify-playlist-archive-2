@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,164,970 likes - 200 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,165,015 likes - 200 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 199 | [better days](https://open.spotify.com/track/09Yg70R74xfcWdLNqobXP4) | [skyshapes](https://open.spotify.com/artist/6MMiMw3WzWnkSwK9KcvcD2) | [better days](https://open.spotify.com/album/0oJY66xAiN6NgSOZrB6zjp) | 1:58 |
 | 200 | [dreamwalk](https://open.spotify.com/track/4x2mb4NOW5YppXVH4kRik7) | [loutwo](https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf) | [dreamwalk](https://open.spotify.com/album/5H16q3QplTPf764zMWYKYR) | 2:17 |
 
-Snapshot ID: `AAAAAI4BiE0XAsXjS1qcYThWlm67GdxU`
+Snapshot ID: `AAAAAHvIbmddu0Jl+O9rERIo4imZ4w7z`

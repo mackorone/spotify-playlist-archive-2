@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVhgADFy3im.md) - [plain]
 
 > Every track you're listening/should be listening to ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,276,811 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277,792 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

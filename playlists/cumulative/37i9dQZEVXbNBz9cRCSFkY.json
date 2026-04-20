@@ -4756,7 +4756,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 227619,
       "name": "Dominga",
       "url": "https://open.spotify.com/track/4Nyyfm1HlgI2QsaKfuu6Ol"
@@ -5908,7 +5908,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 256799,
       "name": "Favorite Girl",
       "url": "https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI"
@@ -5926,7 +5926,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 256799,
       "name": "Favorite Girl",
       "url": "https://open.spotify.com/track/5DMY2szRG9GgfjKkRHtKxg"
@@ -10102,7 +10102,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 253080,
       "name": "Kiss It Better",
       "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
@@ -14100,7 +14100,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 229106,
       "name": "One Less Lonely Girl",
       "url": "https://open.spotify.com/track/69ghzc538EQSVon2Gm3wrr"
@@ -14118,7 +14118,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 229106,
       "name": "One Less Lonely Girl",
       "url": "https://open.spotify.com/track/6sj3SlT8e4JCcnK60ua1XX"
@@ -14199,6 +14199,24 @@
     },
     {
       "album": {
+        "name": "My World (Canada Version - All BP's)",
+        "url": "https://open.spotify.com/album/0sTWDNDdByvpadJqLYTR2U"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215866,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/38dxwjNTN6sw1ZV3EivUUu"
+    },
+    {
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
       },
@@ -14210,7 +14228,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 215866,
       "name": "One Time",
       "url": "https://open.spotify.com/track/6eDApnV9Jdb1nYahOlbbUh"

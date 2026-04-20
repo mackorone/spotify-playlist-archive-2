@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,317 songs - 3 day 8 hr 55 min
+1,318 songs - 3 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -863,6 +863,7 @@
 | [Potion Approaching](https://open.spotify.com/track/3RHHXwyRtskFx87sX80xEy) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:32 | 2022-08-09 |  |
 | [POWER](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:52 | 2022-03-22 |  |
 | [Power Trip \(feat\. Miguel\)](https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:01 | 2023-04-03 |  |
+| [Powerlines](https://open.spotify.com/track/7nmtH3cyqEmKz8F09V60yO) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 4:18 | 2026-04-19 |  |
 | [PRETTY PRIVILEGE](https://open.spotify.com/track/63zyUDHNbc1LumMS9X27Me) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 3:14 | 2024-02-16 |  |
 | [Pretty Visitors](https://open.spotify.com/track/45n7uujqwmMyBMjBu9SwRu) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:40 | 2020-12-04 |  |
 | [Private Presley](https://open.spotify.com/track/40d4m1eI0erCRKLXz55RtT) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 5:39 | 2025-04-01 |  |

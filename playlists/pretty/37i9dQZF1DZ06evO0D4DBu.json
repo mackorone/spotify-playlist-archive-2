@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211201,
+  "num_followers": 211198,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAC+obBLWLYMKoqtueuxZn+v",
+  "snapshot_id": "aeLJgAAAAAB03SGSxec9HQGRxKJL/61g",
   "tracks": [
     {
       "added_at": null,
@@ -1071,22 +1071,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Boys 2",
-        "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
+        "name": "10 Day",
+        "url": "https://open.spotify.com/album/71BfvzpZmuVgW6zdQ93bin"
       },
       "artists": [
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Joey Purp",
-          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
         }
       ],
-      "duration_ms": 133670,
-      "name": "Bad Boys 2",
-      "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
+      "duration_ms": 128571,
+      "name": "14,400 Minutes",
+      "url": "https://open.spotify.com/track/2C4qO9u7TFMm4gt5MReyAD"
     }
   ],
   "unique_name": "This Is Chance the Rapper",

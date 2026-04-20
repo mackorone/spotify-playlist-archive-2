@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > rolitas perras pa' agarrar cura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,373 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,426 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 59 | [Encadenada a Mi](https://open.spotify.com/track/5ixMsTxqRLxMQm9E7d4Glf) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [Pa' La Pista y Pa'l Pisto, Vol\. 2](https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI) | 3:50 |
 | 60 | [Me Quiero Casar Contigo](https://open.spotify.com/track/0o6Bfv0kHnlRyYgctVARgt) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Te Amo](https://open.spotify.com/album/2XYsBt4CyPX6BNx1uSAXOD) | 2:32 |
 
-Snapshot ID: `AAAAAPPqug6qC2is8EHcuAZjxCyJ0DtL`
+Snapshot ID: `AAAAAK1SzMAsKNojgXMIl28WqnXKSCq4`

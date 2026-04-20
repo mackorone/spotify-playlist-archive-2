@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-1,010 songs - 2 day 16 hr 5 min
+1,011 songs - 2 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,8 @@
 | [Go Ape](https://open.spotify.com/track/0fudfsZijcNuGXkGdbFART) | [Cousin Fik](https://open.spotify.com/artist/10R4IEMALwGnHJVPEoumW5), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Sickest N\*gga Healthy \(Deluxe Edition\)](https://open.spotify.com/album/4FHtSVGkNyMoZM57YpqhVE) | 3:03 | 2024-06-20 | 2026-02-08 |
 | [Go Head](https://open.spotify.com/track/4KQQhMU6gQaBGjLWNg0l3e) | [Awreeoh](https://open.spotify.com/artist/39Bg21BFWDcT8vHpTIGUl0) | [Dope: Music From The Motion Picture](https://open.spotify.com/album/10hGeHsDksNsVI5pj7pnnO) | 2:59 | 2024-09-12 |  |
 | [Go Head](https://open.spotify.com/track/3WDS4uYoR0rOsdtxFCWl1P) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Mac Bre\-Z](https://open.spotify.com/artist/2zcqkPjjD4HQOTf9Opz0k7) | [Trap House \(Explicit\)](https://open.spotify.com/album/409XrSXXeeZ3eMLCARmWx8) | 5:04 | 2024-01-29 | 2025-06-28 |
-| [Go Up](https://open.spotify.com/track/76e4nwnkyaFp4y0T2g01dg) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Ibifornia \(Deluxe\)](https://open.spotify.com/album/3pz8g0tnXoFdFldlItvxxD) | 5:32 | 2024-01-30 |  |
+| [Go Up](https://open.spotify.com/track/76e4nwnkyaFp4y0T2g01dg) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Ibifornia \(Deluxe\)](https://open.spotify.com/album/3pz8g0tnXoFdFldlItvxxD) | 5:32 | 2024-01-30 | 2026-04-20 |
+| [Go Up \- Butch Remix](https://open.spotify.com/track/2SkmHcU5pmRjAjBZrrJr9f) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Go Up](https://open.spotify.com/album/5jzl69ER7BIDr8JopNs7Z2) | 7:11 | 2026-04-19 |  |
 | [Go! \- Workout Remix 130 BPM](https://open.spotify.com/track/2oyVIXhO0HgRxXLgw1SDgs) | [Power Music Workout](https://open.spotify.com/artist/3GghVvugpv9nXQ2YFzZNzN) | [Hardcore Workout Vol\. 4 \- 25 High Intensity Hits](https://open.spotify.com/album/6zMtUg83fgCgqJ5W4yhV5Q) | 3:57 | 2024-06-20 | 2024-06-22 |
 | [Goals](https://open.spotify.com/track/5Oz3TWYhneHj2fo5ttwPu1) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Solo](https://open.spotify.com/album/5uDlGlnMIye9dIW7u9yU1S) | 3:32 | 2024-01-29 |  |
 | [God Bless The Child](https://open.spotify.com/track/2xtC6kb6H26qVX4ZdncS7f) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:10 | 2024-01-29 | 2025-06-28 |

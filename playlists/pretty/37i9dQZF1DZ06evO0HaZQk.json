@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 524839,
+  "num_followers": 524859,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAB8UxmZUpi4qO2NNd3XtUwc",
+  "snapshot_id": "aeLJgAAAAADG2cfG9c7V80Y7VdcF2JfZ",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Amor, Amor de Mis Amores (with Devendra Banhart)",
-      "url": "https://open.spotify.com/track/3dB42OEuVNiktvt3V5JRVI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
         "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 214546,
       "name": "Soledad y el Mar (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/1Xtz05nIgJiEYdncfd1w8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Amor, Amor de Mis Amores (with Devendra Banhart)",
+      "url": "https://open.spotify.com/track/3dB42OEuVNiktvt3V5JRVI"
     },
     {
       "added_at": null,

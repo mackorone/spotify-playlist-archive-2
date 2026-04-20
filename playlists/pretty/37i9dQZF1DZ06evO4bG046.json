@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAACXHRv3U1fjsnuY+y5tUzqr",
+  "snapshot_id": "aeLJgAAAAAD7zww23Rxo8dIAVcLxW/Xj",
   "tracks": [
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ventana (Remasterizado 2020)",
-        "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 283189,
-      "name": "La Quebr\u00e1 del Aj\u00ed - 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/4DcL14AtBwYVpCKq5Lvz2a"
+      "duration_ms": 302560,
+      "name": "Cholito Pantal\u00f3n Blanco",
+      "url": "https://open.spotify.com/track/20SP3B4f0aXF4MVVsFAtty"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilog\u00eda el Rencuentro",
-        "url": "https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH"
+        "name": "La Ventana (Remasterizado 2020)",
+        "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 302560,
-      "name": "Cholito Pantal\u00f3n Blanco",
-      "url": "https://open.spotify.com/track/20SP3B4f0aXF4MVVsFAtty"
+      "duration_ms": 283189,
+      "name": "La Quebr\u00e1 del Aj\u00ed - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/4DcL14AtBwYVpCKq5Lvz2a"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hijos de la Tierra",
-        "url": "https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 388800,
-      "name": "Tan Lejos del Sol",
-      "url": "https://open.spotify.com/track/1PmsOon14qW3aO8HhZ9D5B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 223266,
       "name": "Sue\u00f1o Del Inca",
       "url": "https://open.spotify.com/track/3y0BB4Af1j5F4AcE5BNCN0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 388800,
+      "name": "Tan Lejos del Sol",
+      "url": "https://open.spotify.com/track/1PmsOon14qW3aO8HhZ9D5B"
     },
     {
       "added_at": null,

@@ -5062,7 +5062,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 229152,
       "name": "ALL THE LOVE (feat. Andre Troutman)",
       "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
@@ -5532,7 +5532,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 184073,
       "name": "ALWAYS LET YOU DOWN (feat. A Day To Remember)",
       "url": "https://open.spotify.com/track/4JbOFz9ZiLevkIyuHJFp0D"
@@ -9214,7 +9214,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 108121,
       "name": "Bazooka",
       "url": "https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa"
@@ -9758,6 +9758,28 @@
       "duration_ms": 235535,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6WjwYL2tzzci2pvpv50rS4"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
       "album": {
@@ -27261,6 +27283,24 @@
     },
     {
       "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248902,
+      "name": "EVERYTHING HALLELUJAH",
+      "url": "https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ"
+    },
+    {
+      "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
@@ -38108,6 +38148,32 @@
       "duration_ms": 154376,
       "name": "HOES DEPRESSED",
       "url": "https://open.spotify.com/track/4bZ5lR4Thyh2bwdFKrfYMD"
+    },
+    {
+      "album": {
+        "name": "holanda",
+        "url": "https://open.spotify.com/album/1l3EH2CGRWrHziaFV4uGTP"
+      },
+      "artists": [
+        {
+          "name": "EL DE LA TINTA",
+          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        },
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224454,
+      "name": "holanda",
+      "url": "https://open.spotify.com/track/08ryHOM7OrGGcdrqFqNXxe"
     },
     {
       "album": {

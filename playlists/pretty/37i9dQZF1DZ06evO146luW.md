@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 
 > This is Koe Wetzel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,881 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,900 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 49 | [Never Leave](https://open.spotify.com/track/60BIPuGD04bcqHPV1qSja0) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 3:59 |
 | 50 | [Gunshy \- Rerecorded](https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Six String Sorrow Sessions](https://open.spotify.com/album/3W2n5UdnvUgvWumZhnZ2OP) | 4:48 |
 
-Snapshot ID: `aeF4AAAAAAAhIhmFS/TBHUCW+R5MSI/5`
+Snapshot ID: `aeLJgAAAAAC9uYqgvk+E01aLPOc59FhK`

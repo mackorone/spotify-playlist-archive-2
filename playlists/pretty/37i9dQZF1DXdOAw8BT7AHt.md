@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Turnstile
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,870 likes - 166 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,880 likes - 166 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

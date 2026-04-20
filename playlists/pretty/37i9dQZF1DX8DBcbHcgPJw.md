@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Agapornis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131,385 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,131,232 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 99 | [Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Engañes Mas](https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Engañes Mas](https://open.spotify.com/album/5H2hv6jPGgW87AYmAmIFoR) | 5:26 |
 | 100 | [Noche de Party](https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Noche de Party](https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD) | 2:32 |
 
-Snapshot ID: `AAAAANM9S8lc27sA4ZEMeoR12f+/6k/L`
+Snapshot ID: `AAAAALL7kkPAZ9+K3hMkkRkHok08iL5o`

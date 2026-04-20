@@ -206,7 +206,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 154037,
       "name": "10 SEGUNDOS",
       "url": "https://open.spotify.com/track/48SYVECjCIwWWsqogDHWVF"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 162580,
       "name": "Ama Um Maloqueiro",
       "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
@@ -3844,7 +3844,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 204080,
       "name": "At\u00e9 Voc\u00ea Voltar - Ao Vivo",
       "url": "https://open.spotify.com/track/4ksSf8cL3VlUvQSkFcRHy3"
@@ -4064,7 +4064,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -5010,7 +5010,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -5364,7 +5364,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 135688,
       "name": "Bemba",
       "url": "https://open.spotify.com/track/3CRbffdoBzqDqp8h1G5qti"
@@ -6534,7 +6534,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 199379,
       "name": "Calcinha de Renda - Ao Vivo",
       "url": "https://open.spotify.com/track/2a9WkloaIu64sryr4JTdTi"
@@ -6666,7 +6666,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 183000,
       "name": "Caminhador",
       "url": "https://open.spotify.com/track/5ZYiTxJvGRcplXrDhtRMKm"
@@ -8506,7 +8506,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 195794,
       "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
       "url": "https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g"
@@ -8528,6 +8528,28 @@
       "duration_ms": 187080,
       "name": "Coringa",
       "url": "https://open.spotify.com/track/5j3p2WnU8ha4K4ybaTZ4Hx"
+    },
+    {
+      "album": {
+        "name": "Corpo Nu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4vN9lisiflP3K9caJwFvlc"
+      },
+      "artists": [
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198144,
+      "name": "Corpo Nu - Ao Vivo",
+      "url": "https://open.spotify.com/track/2rryVhIBu2bvOz96BjViVV"
     },
     {
       "album": {
@@ -10012,7 +10034,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 195000,
       "name": "Deus Existe",
       "url": "https://open.spotify.com/track/7mxojgcpmGboRM1TH1uzmQ"
@@ -10887,6 +10909,24 @@
     },
     {
       "album": {
+        "name": "Velhos H\u00e1bitos, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Zvp9WWJTWzonuuAM9vA3L"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191154,
+      "name": "Dois Gumes (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6Exec6nPRIwvAEu3N8pVnT"
+    },
+    {
+      "album": {
         "name": "Dois Gumes (Ao Vivo)",
         "url": "https://open.spotify.com/album/4o1PjHRaJZI1FqRRsb8Oz4"
       },
@@ -11200,7 +11240,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
@@ -15097,6 +15137,24 @@
     },
     {
       "album": {
+        "name": "Foi por Conveni\u00eancia",
+        "url": "https://open.spotify.com/album/1xkOIj7siMBQZKzdFNwt0U"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205586,
+      "name": "Foi por Conveni\u00eancia",
+      "url": "https://open.spotify.com/track/6niGCULksHzD0NHyX3zCuB"
+    },
+    {
+      "album": {
         "name": "Churrasco das Coleguinhas",
         "url": "https://open.spotify.com/album/7gS7wxmnbG0jm5qoFzOXt2"
       },
@@ -16800,7 +16858,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -17474,6 +17532,56 @@
       "duration_ms": 159562,
       "name": "Influencie",
       "url": "https://open.spotify.com/track/1jiFg1lHo4DezwMpR9ktwC"
+    },
+    {
+      "album": {
+        "name": "Resenha do Cabral (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5VV3PEsxdSkbhojw5hQnkL"
+      },
+      "artists": [
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        },
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Bruno & Denner",
+          "url": "https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        },
+        {
+          "name": "Rafael Quadros",
+          "url": "https://open.spotify.com/artist/77q2E7KVunjbcwLiceWv1b"
+        },
+        {
+          "name": "CDB",
+          "url": "https://open.spotify.com/artist/2VuyOWJPCDTzjQWqCQogJP"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203177,
+      "name": "Inseguran\u00e7a / Fim de Noite - Ao Vivo",
+      "url": "https://open.spotify.com/track/0UbftifCuaos8xnNT1K8Us"
     },
     {
       "album": {
@@ -20158,7 +20266,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 186368,
       "name": "Mandinga",
       "url": "https://open.spotify.com/track/0U8Wcq8R6kzY5PNlon3nbJ"
@@ -31280,7 +31388,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 153103,
       "name": "Saudade De Quem Eu Sou (Ao Vivo)",
       "url": "https://open.spotify.com/track/3xgrWGYrqZVL7aAvZTm2MA"
@@ -31920,6 +32028,24 @@
       "duration_ms": 164596,
       "name": "Sei Tocar Viol\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/5hFh5hsMEmfRYZvh4FRE8Z"
+    },
+    {
+      "album": {
+        "name": "Manifesto Musical 2, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Mq8pVxLgoSIUGVp6dgYF8"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192034,
+      "name": "Seja Ex (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5jP9oqulg2Dz6yLwLYj5KO"
     },
     {
       "album": {
@@ -32582,7 +32708,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 129692,
       "name": "SEQU\u00caNCIA FEITICEIRA",
       "url": "https://open.spotify.com/track/1JUmsSEfVwhdJCVBG83XGU"
@@ -35356,7 +35482,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 179674,
       "name": "Ternura",
       "url": "https://open.spotify.com/track/5FOy6KydSZWIJwdtLUj0FS"
@@ -39546,7 +39672,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 175242,
       "name": "V\u00e1rias Quejas",
       "url": "https://open.spotify.com/track/01FtUiVEcS8JDru6llRRUy"

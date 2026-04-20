@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Jonathan McReynolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,885 likes - 74 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,935 likes - 74 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

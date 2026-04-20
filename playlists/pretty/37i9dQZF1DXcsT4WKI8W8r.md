@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 
 > A playlist to get you through your whole workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,552 likes - 145 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,608 likes - 145 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

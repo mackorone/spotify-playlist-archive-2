@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-700 songs - 1 day 19 hr 59 min
+701 songs - 1 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Badman Sound](https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Badman Sound](https://open.spotify.com/album/7lkg1Kbn6G00QskjBlEVsR) | 2:56 | 2023-01-22 | 2023-02-20 |
 | [Baila](https://open.spotify.com/track/4axzFhDS0RnJPTUwFhm7m3) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Conga](https://open.spotify.com/album/4nowK3zy4mq38HDXun5d5T) | 2:51 | 2023-05-28 | 2023-07-03 |
 | [barcelona vibra](https://open.spotify.com/track/3cj7Zz3QA0Qlf11MQMR8Vc) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [latin house](https://open.spotify.com/album/0geGNzCW92yXGPo02EakYb) | 3:53 | 2026-01-08 | 2026-02-23 |
+| [Basement Flow](https://open.spotify.com/track/0bQOL0RUxp5odSxvl4RVLt) | [Harper Lee](https://open.spotify.com/artist/1lxJS48FLIAy0Vrft0DZ83) | [Basement Flow](https://open.spotify.com/album/45AnCVRrnATPXrtxIHJEDm) | 4:50 | 2026-04-19 |  |
 | [Bass Go Boom](https://open.spotify.com/track/6iRBFQQpLU9BSRnUBBmPQh) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Bass Go Boom](https://open.spotify.com/album/4t1FInCRUjdO1iPSwUrBMG) | 2:58 | 2023-03-26 | 2023-04-17 |
 | [Bass Xpress](https://open.spotify.com/track/4hJq68WXFjJ9NmAL4Np1k6) | [Marco Moncada](https://open.spotify.com/artist/4CEdbPWnMu8xKhZIhCxOai) | [Reissues 017](https://open.spotify.com/album/3bc8xU0hGc9zdzQvYJjJdD) | 4:55 | 2025-12-09 | 2026-01-03 |
 | [Bassline Phenomena](https://open.spotify.com/track/4Bt3hOOoxEzjOM3crYro4O) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Bassline Phenomena](https://open.spotify.com/album/64fSyVklb0r3Xn0EuezI8A) | 4:03 | 2023-01-22 | 2023-02-13 |

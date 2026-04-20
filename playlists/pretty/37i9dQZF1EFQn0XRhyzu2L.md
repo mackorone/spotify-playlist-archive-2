@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,495 likes - 402 songs - 22 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,494 likes - 402 songs - 22 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,8 +217,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 207 | [Sleep When We're Dead](https://open.spotify.com/track/35fc0NCsFFXUkRkMJQZ0b2) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Sleep When We're Dead](https://open.spotify.com/album/6KupgnVlFhSUX0sjBvwbFy) | 3:40 |
 | 208 | [Replay](https://open.spotify.com/track/2dbsxcMaGE765l8mYAV3xr) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:40 |
 | 209 | [Take It Out On Me](https://open.spotify.com/track/7lISY14A9I1w3m7to2kWv1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:27 |
-| 210 | [Walk My Way \- The Voice Performance](https://open.spotify.com/track/3PepA0VP8gOn10KJyXL7A9) | [Brynn](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [The Complete Season 14 Collection \(The Voice Performance\)](https://open.spotify.com/album/2GzNWOKPQPQgWd3AibCZsk) | 3:39 |
-| 211 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
+| 210 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
+| 211 | [Walk My Way \- The Voice Performance](https://open.spotify.com/track/3PepA0VP8gOn10KJyXL7A9) | [Brynn](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [The Complete Season 14 Collection \(The Voice Performance\)](https://open.spotify.com/album/2GzNWOKPQPQgWd3AibCZsk) | 3:39 |
 | 212 | [Psycho and Beautiful](https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LOVE XX](https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5) | 2:50 |
 | 213 | [Touch Myself](https://open.spotify.com/track/5pLF4Gf07VZTg8QqX3wDHi) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings](https://open.spotify.com/album/5eQYimKiQfEGaUGtnOlRUZ) | 3:09 |
 | 214 | [I Still Do](https://open.spotify.com/track/1LZZo0JZZ65g5VN3FR0qw4) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [lil kiiwi](https://open.spotify.com/album/0AUG7Sa8IIiCHTW6GONdf2) | 3:09 |
@@ -254,8 +254,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 244 | [Hate Me Harder](https://open.spotify.com/track/1nv0TQDFYyW40u2odQNt5H) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Eat The Acid](https://open.spotify.com/album/5hOFWwfkeWetTEnMTbX4q9) | 2:48 |
 | 245 | [Mistakes](https://open.spotify.com/track/29RwPWPr5aQ6FHTFkPFnK3) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Savages](https://open.spotify.com/album/7dyGIJhUnVvkSbRCPDv3aG) | 4:05 |
 | 246 | [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 |
-| 247 | [Shadowboxing](https://open.spotify.com/track/5IAVnGgH7YaX2E9gO68Qxv) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 2:52 |
-| 248 | [BUBBLING](https://open.spotify.com/track/6s5eOLOj3Zlb9x6eOfN1lM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [BUBBLING](https://open.spotify.com/album/5Olp3mWtW2kYfGxGKNXzID) | 2:45 |
+| 247 | [BUBBLING](https://open.spotify.com/track/6s5eOLOj3Zlb9x6eOfN1lM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [BUBBLING](https://open.spotify.com/album/5Olp3mWtW2kYfGxGKNXzID) | 2:45 |
+| 248 | [Shadowboxing](https://open.spotify.com/track/5IAVnGgH7YaX2E9gO68Qxv) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 2:52 |
 | 249 | [That's When I'll Care](https://open.spotify.com/track/5xccy9zo3LoXPznM8qHzAb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 3:04 |
 | 250 | [My Phone is Trying to Kill Me](https://open.spotify.com/track/5IrdhirZMkSEkQkLCuuGOO) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Under My Influence](https://open.spotify.com/album/0KPgrwFMQKpRaBcmeLg1Rw) | 2:55 |
 | 251 | [Creature of Habit](https://open.spotify.com/track/024JIwBZHRi8uyqEo0wm8K) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Creature of Habit](https://open.spotify.com/album/7wTChRPJlTjfMbm6rna8hw) | 2:57 |
@@ -313,8 +313,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 303 | [Geburtstagskuchen](https://open.spotify.com/track/6YGlgnwTCbOM3vlX3TWH1C) | [Die Schlümpfe](https://open.spotify.com/artist/0ONNMDruuhqjpTB9uRhbYs) | [Das verschlumpfte Album](https://open.spotify.com/album/1raHQ5JyFWy5001ghvqCHp) | 3:37 |
 | 304 | [WITHOUT YOU](https://open.spotify.com/track/7aLUbVBpLgsj4QW4fchL47) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [PRINCESS CATGIRL](https://open.spotify.com/album/5DFEo8Nh5N6BYScoCDKvkh) | 3:24 |
 | 305 | [This Is It](https://open.spotify.com/track/4xyuY3khMLsez7NBPChWIW) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:15 |
-| 306 | [Talking To Aliens](https://open.spotify.com/track/3xT8kzysow9kjyoFzh1nVN) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:25 |
-| 307 | [What Do I Know? \(Just A Girl\) \[feat\. Shenseea\]](https://open.spotify.com/track/5gliitoCPCUpUxQXII2NvA) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [What Do I Know? \(Just A Girl\) \[feat\. Shenseea\]](https://open.spotify.com/album/17fU8owfXWqY0mlURQoLgE) | 2:29 |
+| 306 | [What Do I Know? \(Just A Girl\) \[feat\. Shenseea\]](https://open.spotify.com/track/5gliitoCPCUpUxQXII2NvA) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [What Do I Know? \(Just A Girl\) \[feat\. Shenseea\]](https://open.spotify.com/album/17fU8owfXWqY0mlURQoLgE) | 2:29 |
+| 307 | [Talking To Aliens](https://open.spotify.com/track/3xT8kzysow9kjyoFzh1nVN) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:25 |
 | 308 | [Tell Her](https://open.spotify.com/track/5FPq36CbubnbA3QY45D1R4) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [More Love \- Songs from Little Voice Season One](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) | 4:58 |
 | 309 | [LOVE IS HARD](https://open.spotify.com/track/2Nyaks5SHuBDr6ykEEXx6t) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 2:52 |
 | 310 | [La La](https://open.spotify.com/track/3royks4oRDa4zIVF4jlt1p) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [La La](https://open.spotify.com/album/6QaCWxE9WpYUczRdnHIPIP) | 3:01 |
@@ -411,4 +411,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 401 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 402 | [Killing Me \- MissisBliss, Jordan \(ES\) Remix](https://open.spotify.com/track/4fZ8XO8vMzcljxOQLa3eXl) | [Jordan \(ES\)](https://open.spotify.com/artist/1gl8rc6F9a4BXOHa3ypGHk), [Oscar Vera](https://open.spotify.com/artist/0saYjOjp2B19PdPJU5VBXs), [MissisBliss](https://open.spotify.com/artist/72NF2nTtoePYZEAQwXp3b6) | [I Belive EP](https://open.spotify.com/album/4tHjtUEDMsWnT5Ob7KWmyk) | 5:32 |
 
-Snapshot ID: `AcPOHAAAAADU1PPT1cSnmZwGFt5gLnXx`
+Snapshot ID: `AcPTvAAAAADONE/cgWoprSKcBMZzWhYQ`

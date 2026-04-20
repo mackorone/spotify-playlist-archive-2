@@ -1,4 +1,4 @@
-## Playlists \(9172\)
+## Playlists \(9173\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -1098,6 +1098,7 @@
 - [Boy Bands 4 Ever](/playlists/pretty/37i9dQZF1DX5wKayT9q3El.md)
 - [Boy Swallows Universe Official Playlist](/playlists/pretty/37i9dQZF1DWVGJW1teeCDY.md)
 - [Boy in the Moon](/playlists/pretty/37i9dQZF1DX4eP5ZmHlyY0.md)
+- [Boys Noize's track IDs](/playlists/pretty/37i9dQZF1DXdwrjTQRJ4LX.md)
 - [Boîte à jouets](/playlists/pretty/37i9dQZF1DXc36pAHvuRbP.md)
 - [Boîte à musique](/playlists/pretty/37i9dQZF1DXdzIjKuuXUe6.md)
 - [Brain Food](/playlists/pretty/37i9dQZF1DWXLeA8Omikj7.md)

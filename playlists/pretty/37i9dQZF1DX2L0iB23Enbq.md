@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2L0iB23Enbq.md) - [plain]
 
 > Viral, trending and taking off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,218,731 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,218,657 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2L0iB23Enbq.md) - [plain]
 | 50 | [My Bubble Gum](https://open.spotify.com/track/37IZHbmUmuhZITM4SW6PtV) | [Rasheeda](https://open.spotify.com/artist/3x6gZfwmkDn92EKOwnYq4H) | [Dat Type Of Gurl](https://open.spotify.com/album/2n2sXuFZW2FrhI8JYhicI7) | 3:28 |
 | 51 | [Hold My Hand](https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Hold My Hand](https://open.spotify.com/album/6uZYkBePCdUP1LltEt9Qin) | 3:47 |
 
-Snapshot ID: `AAAAAApZVcbFvU7SFBY2zGZ4m1YrCniN`
+Snapshot ID: `AAAAAOyEzYE9rAZBy/+KH/lzi/qBoQQZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,144 likes - 224 songs - 13 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,145 likes - 224 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 108 | [2step \(feat\. Chefin\)](https://open.spotify.com/track/2t0iRmBWsSwPIv7OY8ypiZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:44 |
 | 109 | [Hate The Game](https://open.spotify.com/track/7xfueRdAGnr8pKEIhkGcc8) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:44 |
 | 110 | [In The Dark \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2QEHe3FQLbbXDz14YKzqU8) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [In The Dark \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/58EwvlQo4harE9P2i3bafT) | 3:05 |
-| 111 | [The Lay Down with H.E.R\. & WATT](https://open.spotify.com/track/0KLz5YzEQXXxEUBwtgxxM8) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 4:49 |
-| 112 | [2step \(feat\. Quevedo\)](https://open.spotify.com/track/0YbUKWAVjJvfOvRpnvNEOz) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:33 |
+| 111 | [2step \(feat\. Quevedo\)](https://open.spotify.com/track/0YbUKWAVjJvfOvRpnvNEOz) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:33 |
+| 112 | [The Lay Down with H.E.R\. & WATT](https://open.spotify.com/track/0KLz5YzEQXXxEUBwtgxxM8) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 4:49 |
 | 113 | [One of Those Days \(feat\. Eric Clapton\)](https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:40 |
 | 114 | [BLIND](https://open.spotify.com/track/5zr5aYz9hJJJ25wotnbVzH) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [BLIND](https://open.spotify.com/album/4SJLNHToJtakGJw8CwPWfU) | 2:33 |
 | 115 | [Comfortable \(feat\. Kranium\)](https://open.spotify.com/track/1t1xXsK199Yte7oJbE7Uoe) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 3:24 |
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 223 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 | 224 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 |
 
-Snapshot ID: `AcPOCAAAAAD23eQSSBUaCO6iSFSTrUae`
+Snapshot ID: `AcPTqAAAAADAwWuYLMxGieE6YcxmowGK`

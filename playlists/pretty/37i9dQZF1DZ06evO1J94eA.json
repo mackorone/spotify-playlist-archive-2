@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 42158,
+  "num_followers": 42173,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAAXchHIoQUC6R9CxfLqVys5",
+  "snapshot_id": "aeLJgAAAAACGuKMjG+UdoscW/LNecS+L",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 556133,
-      "name": "Dolphin Dance - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1Ku5vu9Crncz8ixeT4Ijxc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Head Hunters",
         "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 944616,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 556133,
+      "name": "Dolphin Dance - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1Ku5vu9Crncz8ixeT4Ijxc"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Volume: Herbie Hancock",
-        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 456480,
-      "name": "A Case Of You - Short Version",
-      "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blow-Up (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
       },
@@ -399,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speak Like A Child (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
+        "name": "Jazz Volume: Herbie Hancock",
+        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
       },
       "artists": [
         {
@@ -408,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 470853,
-      "name": "Speak Like A Child",
-      "url": "https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a"
+      "duration_ms": 456480,
+      "name": "A Case Of You - Short Version",
+      "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
     },
     {
       "added_at": null,
@@ -427,6 +411,22 @@
       "duration_ms": 621121,
       "name": "Sly",
       "url": "https://open.spotify.com/track/4WyVRn3L2uXnSUkY762gqN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speak Like A Child (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 470853,
+      "name": "Speak Like A Child",
+      "url": "https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
       "duration_ms": 448866,
       "name": "Don't give up",
       "url": "https://open.spotify.com/track/6tNodrmrsA206cZ0MTJNFN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Man-Child",
-        "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 312001,
-      "name": "Sun Touch",
-      "url": "https://open.spotify.com/track/70aN8RYMtTeG85MQADhMhx"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Man-Child",
+        "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 312001,
+      "name": "Sun Touch",
+      "url": "https://open.spotify.com/track/70aN8RYMtTeG85MQADhMhx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Takin' Off (Expanded Edition)",
         "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Point Of View (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 395466,
-      "name": "And What If I Don't Know",
-      "url": "https://open.spotify.com/track/27f0Yf20I6CITv7q1BwEr3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 527266,
       "name": "Little One - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1D8x6XmpSuobQopGIXRo8u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Point Of View (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 395466,
+      "name": "And What If I Don't Know",
+      "url": "https://open.spotify.com/track/27f0Yf20I6CITv7q1BwEr3"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Hands",
-        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 385048,
-      "name": "Spiraling Prism",
-      "url": "https://open.spotify.com/track/1FeJFOwVnDVgXA5VCORBtY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Possibilities",
         "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 414466,
       "name": "Sister Moon (feat. Sting)",
       "url": "https://open.spotify.com/track/0GiqmR1TtxOTZgf3AIYEp7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Hands",
+        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 385048,
+      "name": "Spiraling Prism",
+      "url": "https://open.spotify.com/track/1FeJFOwVnDVgXA5VCORBtY"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Hands",
-        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 323427,
-      "name": "4 A.M.",
-      "url": "https://open.spotify.com/track/6HFhLv0wa8129Y7AXgnQC7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Man-Child",
         "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr. Hands",
+        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 323427,
+      "name": "4 A.M.",
+      "url": "https://open.spotify.com/track/6HFhLv0wa8129Y7AXgnQC7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC"
       },
@@ -747,6 +747,30 @@
       "duration_ms": 538743,
       "name": "I Thought It Was You",
       "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Possibilities",
+        "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        },
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 293800,
+      "name": "Don't Explain (feat. Damien Rice & Lisa Hannigan)",
+      "url": "https://open.spotify.com/track/27lQw3vZM8nWPweH7nxnox"
     },
     {
       "added_at": null,
@@ -783,26 +807,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Possibilities",
-        "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
+        "name": "Schizophrenia",
+        "url": "https://open.spotify.com/album/4Ngkptf4tipkoTOIjoF2kW"
       },
       "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        },
+        {
+          "name": "Curtis Fuller",
+          "url": "https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK"
+        },
+        {
+          "name": "James Spaulding",
+          "url": "https://open.spotify.com/artist/6F5uZAPmezDckVTqNpmpn2"
+        },
         {
           "name": "Herbie Hancock",
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         },
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
         },
         {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+          "name": "Joe Chambers",
+          "url": "https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4"
         }
       ],
-      "duration_ms": 293800,
-      "name": "Don't Explain (feat. Damien Rice & Lisa Hannigan)",
-      "url": "https://open.spotify.com/track/27lQw3vZM8nWPweH7nxnox"
+      "duration_ms": 300800,
+      "name": "Miyako",
+      "url": "https://open.spotify.com/track/2m8F1DopzoORa4jbV4c3C4"
     },
     {
       "added_at": null,
@@ -839,42 +875,6 @@
       "duration_ms": 677893,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/2YQBDxMbQbOsdXixdL4ZyE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Schizophrenia",
-        "url": "https://open.spotify.com/album/4Ngkptf4tipkoTOIjoF2kW"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        },
-        {
-          "name": "Curtis Fuller",
-          "url": "https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK"
-        },
-        {
-          "name": "James Spaulding",
-          "url": "https://open.spotify.com/artist/6F5uZAPmezDckVTqNpmpn2"
-        },
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Joe Chambers",
-          "url": "https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4"
-        }
-      ],
-      "duration_ms": 300800,
-      "name": "Miyako",
-      "url": "https://open.spotify.com/track/2m8F1DopzoORa4jbV4c3C4"
     }
   ],
   "unique_name": "This Is Herbie Hancock",

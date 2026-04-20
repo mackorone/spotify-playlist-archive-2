@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,643 likes - 41 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,644 likes - 41 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 11 | [Guap](https://open.spotify.com/track/5ZieiUIwDcPyUy8CIq0bGf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 5:40 |
 | 12 | [wo ai ni](https://open.spotify.com/track/1eBpg5UATfNMvmDMTDcsPR) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/5uqvTMO6KZ2mvLVwAWM6dA) | 3:31 |
 | 13 | [Mine or Yours \(Yaeji Remix\)](https://open.spotify.com/track/3FV0YFGD7tTqhMbwm3oTgM) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mine or Yours \(Yaeji Remix\)](https://open.spotify.com/album/0lMxf0CKJDFeN1U6cTnawv) | 4:15 |
-| 14 | [In Your Fantasy \(Yaeji Ver.\)](https://open.spotify.com/track/4NZV1sYGV59U4wy5YdHYsE) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [In Your Fantasy \(Remix\)](https://open.spotify.com/album/50Y11BDvO8tZf453abGL8Q) | 3:22 |
+| 14 | [easy breezy](https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [easy breezy](https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S) | 3:19 |
 | 15 | [Feel It Out](https://open.spotify.com/track/2BAtucJA8PovKDVwPAeHxz) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:16 |
-| 16 | [easy breezy](https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [easy breezy](https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S) | 3:19 |
+| 16 | [In Your Fantasy \(Yaeji Ver.\)](https://open.spotify.com/track/4NZV1sYGV59U4wy5YdHYsE) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [In Your Fantasy \(Remix\)](https://open.spotify.com/album/50Y11BDvO8tZf453abGL8Q) | 3:22 |
 | 17 | [29](https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 3:48 |
 | 18 | [break it even](https://open.spotify.com/track/5YE6GBGuatWPZ0rVm2pmz7) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/5uqvTMO6KZ2mvLVwAWM6dA) | 3:02 |
 | 19 | [Submerge FM](https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 3:25 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 37 | [Noonside](https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:25 |
 | 38 | [Therapy](https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Therapy](https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU) | 3:16 |
 | 39 | [PAC\-TIVE](https://open.spotify.com/track/7zJHgKgb9Lk9Qq2KNqSQ4Q) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [DiAN](https://open.spotify.com/artist/0w3fC1dS2TUZPS2xEKl3VJ) | [PAC\-TIVE](https://open.spotify.com/album/5dpJX0GUJSNwLqrp3XIobW) | 2:02 |
-| 40 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 |
+| 40 | [WHEN I GROW UP](https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:42 |
 | 41 | [Full of It](https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:29 |
 
-Snapshot ID: `aeF4AAAAAAAaF/g0VIj1HDchiJlci9Ew`
+Snapshot ID: `aeLJgAAAAABD7JGfEcS8HUczy9yPeS0z`

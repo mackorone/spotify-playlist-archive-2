@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-207 songs - 11 hr 5 min
+208 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/track/6ISN7qvnXR0EdxE0l7vTRK) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 4:41 | 2023-12-31 |  |
 | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/track/4YDGIk0vg21LMfTq9hNlbW) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/album/2B5dLSSoqKT25tGRBQAmOb) | 4:43 | 2023-12-30 | 2024-01-31 |
 | [tangerine](https://open.spotify.com/track/29UH4IWs5HAe8pqhdFj8H3) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 2:59 | 2023-12-30 |  |
-| [The Nightlife](https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [The Nightlife](https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl) | 2:49 | 2025-11-13 |  |
+| [The Nightlife](https://open.spotify.com/track/3WPpAge1ccvc98BcSFLDPL) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 2:49 | 2026-04-19 |  |
+| [The Nightlife](https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [The Nightlife](https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl) | 2:49 | 2025-11-13 | 2026-04-20 |
 | [Things We Do](https://open.spotify.com/track/2sRG4WyPyGNLC20djAMXAL) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 2:59 | 2026-02-16 |  |
 | [Throw It Away](https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:31 | 2023-12-30 |  |
 | [Tic Toc](https://open.spotify.com/track/2q0pAb1RdsYDO355DBR1xG) | [Christian Lalama](https://open.spotify.com/artist/5Za0xh2u1ahAoSb1NWa2wm) | [Tic Toc](https://open.spotify.com/album/7MzeqFSZOsMvKPTkLXb8eL) | 2:06 | 2023-12-30 |  |

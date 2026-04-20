@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,860 likes - 14 songs - 45 min 39 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,862 likes - 14 songs - 45 min 39 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

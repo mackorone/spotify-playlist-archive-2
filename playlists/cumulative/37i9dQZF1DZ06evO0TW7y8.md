@@ -4,7 +4,7 @@
 
 > This is Jorja Smith\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 34 min
+65 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,10 +39,11 @@
 | [Home](https://open.spotify.com/track/0F2sfIqC4Csaiow6WBbAbC) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 2:46 | 2025-08-02 |  |
 | [I Am](https://open.spotify.com/track/0DJBgBiYeSn6n1AXAkFVE8) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:28 | 2025-08-02 |  |
 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/11bJ1ws3dathgY9uzADUhL) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:49 | 2025-08-02 |  |
+| [July](https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Forever Ends Someday](https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y) | 2:32 | 2026-04-20 |  |
 | [Killing Me](https://open.spotify.com/track/35KBVb0GWD9u0IGMRSNMEL) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Killing Me](https://open.spotify.com/album/7FTJjjKgVJhOHiGJ66tpbk) | 3:25 | 2025-08-02 |  |
 | [Lately](https://open.spotify.com/track/2DEUiGcDxB4QpImgydZmTi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:07 | 2025-08-02 |  |
 | [Lately Remix \(feat\. Craig David\)](https://open.spotify.com/track/5WpBfclrPYNsoqAVeJE5vC) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa) | 2:06 | 2025-08-02 | 2025-11-05 |
-| [Let Me Down](https://open.spotify.com/track/7qYwkz7t9JeEl2qFXfI47S) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Let Me Down](https://open.spotify.com/album/41rLKAOZZIcG5SFBaDBBxP) | 3:08 | 2025-08-02 |  |
+| [Let Me Down](https://open.spotify.com/track/7qYwkz7t9JeEl2qFXfI47S) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Let Me Down](https://open.spotify.com/album/41rLKAOZZIcG5SFBaDBBxP) | 3:08 | 2025-08-02 | 2026-04-20 |
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2025-08-02 |  |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/2AlCe2DDxELeESF5IP3t9K) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa) | 2:11 | 2026-04-01 |  |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2025-08-02 | 2026-04-01 |

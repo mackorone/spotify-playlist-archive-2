@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/0iT3ab1uNQOHBXrI8Xcfol"
+      },
+      "artists": [
+        {
+          "name": "ARRATOU",
+          "url": "https://open.spotify.com/artist/3CDCOMgKyt7QNDHAayALUB"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/75XpSAxNpcoQdbkwq8BGHd"
+    },
+    {
+      "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
       },
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -2632,6 +2650,28 @@
       "duration_ms": 184320,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/0ipVeLBnrx1oYyVLLR80mm"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
       "album": {
@@ -3066,7 +3106,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
@@ -6096,7 +6136,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
@@ -6618,7 +6658,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -26660,7 +26700,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 150583,
       "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
       "url": "https://open.spotify.com/track/4w4qGjcvOgsYRyO4x9Ci0U"
@@ -27530,7 +27570,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "\u0413\u0440\u0443\u0448\u043a\u0430",
       "url": "https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr"
@@ -28390,7 +28430,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 172320,
       "name": "\u0414\u043e\u0434\u0430\u0439 \u0433\u0443\u0447\u043d\u043e\u0441\u0442\u0456 (12 points)",
       "url": "https://open.spotify.com/track/2kxpwWkYSWBtXAhG5g9FzL"
@@ -29956,7 +29996,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 157371,
       "name": "\u0417\u0443\u043f\u0438\u043d\u0438 \u0457\u0457",
       "url": "https://open.spotify.com/track/74B82JctlL09EYkeTEqhtG"
@@ -30410,7 +30450,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 245684,
       "name": "\u041a\u0430\u043b\u0456\u043f\u0441\u043e",
       "url": "https://open.spotify.com/track/0O0YVCJStwTV5pwoWvZwdq"
@@ -30862,7 +30902,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 204756,
       "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
       "url": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
@@ -33276,7 +33316,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 174500,
       "name": "\u041d\u0435 \u043b\u044f\u043a\u0430\u0439",
       "url": "https://open.spotify.com/track/1ZbtwhtxORZcaSh5VKjeXJ"
@@ -33504,7 +33544,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 160972,
       "name": "\u041d\u0435 \u0445\u043e\u0434\u0438",
       "url": "https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs"
@@ -39444,7 +39484,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 90000,
       "name": "\u0442\u044b \u0447\u0435 \u043e\u0431\u0438\u0434\u0435\u043b\u0430\u0441\u044c",
       "url": "https://open.spotify.com/track/36DnMjOyWBOZLgWYm2KWFz"
@@ -40898,7 +40938,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 133475,
       "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV"

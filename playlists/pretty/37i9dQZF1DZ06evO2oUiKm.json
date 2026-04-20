@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAB0QY09dZucpXezSsEV3fnG",
+  "snapshot_id": "aeLJgAAAAAAZ3jfqxCcj9/6l2TqwJdtQ",
   "tracks": [
     {
       "added_at": null,
@@ -839,6 +839,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "If I Only Had A Brain",
+        "url": "https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "If I Only Had A Brain",
+      "url": "https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "She is Risen: Volume One",
+        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 259900,
+      "name": "I Don't Know How to Love Him",
+      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forbidden",
         "url": "https://open.spotify.com/album/6Rl2UqYTAppPRzaWddbeDR"
       },
@@ -863,38 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "She is Risen: Volume One",
-        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 259900,
-      "name": "I Don't Know How to Love Him",
-      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 220972,
-      "name": "A Window",
-      "url": "https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Blooming",
         "url": "https://open.spotify.com/album/6kllfmayC7Mg9S3SkV67Fj"
       },
@@ -915,22 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Only Had A Brain",
-        "url": "https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI"
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
       "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 190026,
-      "name": "If I Only Had A Brain",
-      "url": "https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ"
+      "duration_ms": 220972,
+      "name": "A Window",
+      "url": "https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07"
     },
     {
       "added_at": null,

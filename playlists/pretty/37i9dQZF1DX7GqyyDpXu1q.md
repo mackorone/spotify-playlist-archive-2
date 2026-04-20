@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: The Black Crowes
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,455 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,464 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 74 | [On To The Next](https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 2:58 |
 | 75 | [Alabama](https://open.spotify.com/track/13iwFAkP5vMi6oEwV3uUsP) | [Bishop Gunn](https://open.spotify.com/artist/78FpcvFFNC1ZTrUvWb0tlm) | [Natchez](https://open.spotify.com/album/7cuM4fOrG1nbdsGggB4Zq4) | 3:34 |
 
-Snapshot ID: `AAAAADEtL8sN558uZaGyObIUZFwWmLDs`
+Snapshot ID: `AAAAAGZ0X/H0ZENuxS/hat8wPY4at9TL`

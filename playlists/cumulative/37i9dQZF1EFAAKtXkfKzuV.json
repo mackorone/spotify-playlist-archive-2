@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Hardwired",
+        "url": "https://open.spotify.com/album/3E2NA2Gv5Ycu6iwj3I5JYH"
+      },
+      "artists": [
+        {
+          "name": "Jim Gardner",
+          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163453,
+      "name": "Hardwired",
+      "url": "https://open.spotify.com/track/7q2XPiBRzdyqfkpvvgF0hy"
+    },
+    {
+      "album": {
         "name": "Heart Never Broke",
         "url": "https://open.spotify.com/album/5wpqFQLm7lBr8HNVWq7m6q"
       },

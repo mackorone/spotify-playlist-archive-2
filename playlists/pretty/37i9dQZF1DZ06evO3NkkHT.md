@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,005 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,067 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 33 | [New Day](https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [New Day](https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih) | 2:44 |
 | 34 | [Good To Me](https://open.spotify.com/track/0mptmsUHHZgrxdhcbUwD1O) | [Mykfresh](https://open.spotify.com/artist/67cmVMoqQDWreDXtsIaJdR), [2RawQua](https://open.spotify.com/artist/3DGljPQGDgIsRtIiqetMAo), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Good To Me](https://open.spotify.com/album/1M3XfdyaT9cU4kji29TuO3) | 3:28 |
 | 35 | [DOPEMAN](https://open.spotify.com/track/6lTxBTBNE8NCLfSs5LflhJ) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [MurdaGang PB](https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [6WA](https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0) | 2:01 |
-| 36 | [TexUS \- Intro](https://open.spotify.com/track/3YH1yjX1BfDp68VeiW4jfW) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [D Flowers](https://open.spotify.com/artist/7rnjmw51Muflmf5IFVY8eF), [OTB Fastlane](https://open.spotify.com/artist/130sangK9RkAwRToKn9GHj) | [Be Someone: Texas Population](https://open.spotify.com/album/14XtPxh7Dy1qbLgIw8tYNi) | 2:45 |
-| 37 | [I Hope You're Happy \(feat\. Darius Rucker\)](https://open.spotify.com/track/3FPOy3zOKPMf8pRWg2ukXt) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 3:05 |
+| 36 | [I Hope You're Happy \(feat\. Darius Rucker\)](https://open.spotify.com/track/3FPOy3zOKPMf8pRWg2ukXt) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 3:05 |
+| 37 | [TexUS \- Intro](https://open.spotify.com/track/3YH1yjX1BfDp68VeiW4jfW) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [D Flowers](https://open.spotify.com/artist/7rnjmw51Muflmf5IFVY8eF), [OTB Fastlane](https://open.spotify.com/artist/130sangK9RkAwRToKn9GHj) | [Be Someone: Texas Population](https://open.spotify.com/album/14XtPxh7Dy1qbLgIw8tYNi) | 2:45 |
 | 38 | [Who Run It](https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Who Run It](https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI) | 2:43 |
 | 39 | [LONG LIVE FRESH](https://open.spotify.com/track/4E2kL6H0tH2xZJUplNZIiS) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [6WA](https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0) | 2:10 |
 | 40 | [No Love \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4bA0warBsmbGTkVRFDTviU) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [No Love](https://open.spotify.com/album/0jNWu1J9xoi5MYDaCCBapr) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | [Gas Station Love \- remix](https://open.spotify.com/track/43uvpEvaYB3jxp6TqIwzON) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Gas Station Love \(remix\)](https://open.spotify.com/album/7raN9uFr6FwxhFB1R6R0D3) | 4:05 |
 | 50 | [Feeling Like Dennis](https://open.spotify.com/track/4uf7osy1qeGgYkft0Bbtoa) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Feeling Like Dennis](https://open.spotify.com/album/2bgIZirxXFHBmji9MeX8Lt) | 2:41 |
 
-Snapshot ID: `aeF4AAAAAADWp1ixG2DNC2RoxWP27UMe`
+Snapshot ID: `aeLJgAAAAAAdfteQr5qznmYX1TAxbYYs`

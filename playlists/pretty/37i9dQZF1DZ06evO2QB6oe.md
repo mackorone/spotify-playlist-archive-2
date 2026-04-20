@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,583 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,588 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 22 | [Sin Haber Dormido](https://open.spotify.com/track/4NfO9rUJEMgZ1C9Vw059vc) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Hasta El Alma](https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox) | 3:07 |
 | 23 | [Aprender a Vivir](https://open.spotify.com/track/3qKiIjv5OSH6OfgcMcgbzi) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:26 |
 | 24 | [A Tu Manera \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [A Tu Manera \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe) | 3:10 |
-| 25 | [Si Tú Me Lo Pides \(feat\. Kany García\)](https://open.spotify.com/track/3es7XP3HS7TqZqC9Z6cdmd) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Pedro Capó](https://open.spotify.com/album/09WFxztbheRZxTiUZezCiz) | 4:12 |
-| 26 | [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 |
+| 25 | [La Sábana y los Pies](https://open.spotify.com/track/2dO6OrbCT0eBuiExwfo6KZ) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:06 |
+| 26 | [Si Tú Me Lo Pides \(feat\. Kany García\)](https://open.spotify.com/track/3es7XP3HS7TqZqC9Z6cdmd) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Pedro Capó](https://open.spotify.com/album/09WFxztbheRZxTiUZezCiz) | 4:12 |
 | 27 | [Divina](https://open.spotify.com/track/3Okh7qw2zSwrS9AST3SSUx) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:27 |
-| 28 | [La Sábana y los Pies](https://open.spotify.com/track/2dO6OrbCT0eBuiExwfo6KZ) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:06 |
+| 28 | [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 |
 | 29 | [Sabe Bien](https://open.spotify.com/track/36LDPQfypNqhflhok841qb) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sabe Bien](https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq) | 2:40 |
 | 30 | [Estoy Enamorado](https://open.spotify.com/track/1twgctCV8hHwexACjTzBRn) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [En Letra de Otro](https://open.spotify.com/album/2FSiTQRfhKBOb0my3NK60n) | 3:56 |
 | 31 | [Qué Fuimos \(feat\. Matisse\)](https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 3:29 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 35 | [Para Ayudarte a Reir](https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 3:21 |
 | 36 | [Volver a Casa](https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 2:53 |
 | 37 | [Contigo](https://open.spotify.com/track/7qZmhrhOXy2vRnaFezgmD2) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:32 |
-| 38 | [Adiós](https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Adiós](https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu) | 3:18 |
+| 38 | [La Fiesta](https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Fiesta](https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0) | 2:50 |
 | 39 | [Vivo](https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 4:14 |
-| 40 | [La Neta](https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:25 |
-| 41 | [La Fiesta](https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Fiesta](https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0) | 2:50 |
+| 40 | [Adiós](https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Adiós](https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu) | 3:18 |
+| 41 | [La Neta](https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:25 |
 | 42 | [Besos Escondíos \(feat\. Pedro Capó\)](https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Palmeras](https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL) | 2:42 |
 | 43 | [Jardín](https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mis No Lugares](https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k) | 2:58 |
 | 44 | [Libre](https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 49 | [¿De qué vamos a hablar?](https://open.spotify.com/track/3Ra7HSy3xOJo3gkdXFZ3NB) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [¿De qué vamos a hablar?](https://open.spotify.com/album/1dexhNnGvId5xMSu1hlTqh) | 3:05 |
 | 50 | [Piel Canela \(Casa Sole\)](https://open.spotify.com/track/44WRi9pjOVWlAv3tmYKOln) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Piel Canela \(Casa Sole\)](https://open.spotify.com/album/5HuL8cVtREOCRVr60LcUtU) | 3:12 |
 
-Snapshot ID: `aeF4AAAAAACtbOnUohoLh9nfwHd3dXdL`
+Snapshot ID: `aeLJgAAAAAAfTOk8vyK8mH02M67UxNgk`

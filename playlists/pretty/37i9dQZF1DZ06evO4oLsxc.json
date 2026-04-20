@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 1373,
+  "num_followers": 1375,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAADu2+y6RpScY+pwlWH6kKOK",
+  "snapshot_id": "aeLJgAAAAADXoDMcu0B/ezy/Y/ccjNh/",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EQUINOX",
-        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "'99",
-      "url": "https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soundboy",
         "url": "https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 186173,
       "name": "WestBorn",
       "url": "https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EQUINOX",
+        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 188466,
+      "name": "'99",
+      "url": "https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7"
     },
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EQUINOX",
-        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
-        }
-      ],
-      "duration_ms": 188186,
-      "name": "Mount Shasta",
-      "url": "https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "London Class",
         "url": "https://open.spotify.com/album/6Vvxsmhtg0FKtUEsrkfleL"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 175227,
       "name": "Standout",
       "url": "https://open.spotify.com/track/7z8mamHXaezlYVODfFOypw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EQUINOX",
+        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
+        }
+      ],
+      "duration_ms": 188186,
+      "name": "Mount Shasta",
+      "url": "https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Avenue B",
+        "url": "https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "Avenue B",
+      "url": "https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIZUKI // PERFECT DIVIDE",
         "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 212520,
       "name": "Perfect Divide",
       "url": "https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avenue B",
-        "url": "https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 242933,
-      "name": "Avenue B",
-      "url": "https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIZUKI // PERFECT DIVIDE",
-        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Hizuki",
-      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 254333,
       "name": "The Last Poets",
       "url": "https://open.spotify.com/track/2VHMxsaWF7okBa3fKuRqP8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIZUKI // PERFECT DIVIDE",
+        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Hizuki",
+      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
     },
     {
       "added_at": null,

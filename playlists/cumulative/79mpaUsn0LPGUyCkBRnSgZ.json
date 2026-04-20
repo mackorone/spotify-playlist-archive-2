@@ -15239,6 +15239,24 @@
     },
     {
       "album": {
+        "name": "URGH",
+        "url": "https://open.spotify.com/album/2W2pytiTdjR0VArgmbQD3M"
+      },
+      "artists": [
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142287,
+      "name": "Sevastopol",
+      "url": "https://open.spotify.com/track/52wrDCbeWsiPwv8n5qatD1"
+    },
+    {
+      "album": {
         "name": "Seven Psalms",
         "url": "https://open.spotify.com/album/2W88kNmADcEEvcaJPVGZHF"
       },
@@ -18520,6 +18538,24 @@
       "duration_ms": 138750,
       "name": "Thumblove",
       "url": "https://open.spotify.com/track/0iMrXC33Z7YO6kF61P2orq"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3vnvvODpAWJFZiQWjzeLyU"
+      },
+      "artists": [
+        {
+          "name": "Free Range",
+          "url": "https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Tilt",
+      "url": "https://open.spotify.com/track/0ZV0aqU5aMLDDyAqfPf3dU"
     },
     {
       "album": {

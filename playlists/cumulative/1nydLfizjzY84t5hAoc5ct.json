@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/7u3HEmstnUkwEyA4PRWDo7"
+      },
+      "artists": [
+        {
+          "name": "brittle",
+          "url": "https://open.spotify.com/artist/6nTGjlKzh92A8qlAwQ0clg"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290553,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/7CneMoem8r2X4OD1LWQtOs"
+    },
+    {
+      "album": {
         "name": "The Change - EP",
         "url": "https://open.spotify.com/album/5xosQhKjMOteD54hwmMpqk"
       },
@@ -566,6 +584,24 @@
       "duration_ms": 305065,
       "name": "BY MY SIDE",
       "url": "https://open.spotify.com/track/5qP1Nk4oybYfeFgueTB7Wy"
+    },
+    {
+      "album": {
+        "name": "Card Machine",
+        "url": "https://open.spotify.com/album/5IBfnO8zjiWf5DuHX0nz1B"
+      },
+      "artists": [
+        {
+          "name": "brittle",
+          "url": "https://open.spotify.com/artist/6nTGjlKzh92A8qlAwQ0clg"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210806,
+      "name": "Card Machine",
+      "url": "https://open.spotify.com/track/7gDx79GnOdRm4suAjEsqrU"
     },
     {
       "album": {
@@ -1239,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Fabric",
+        "url": "https://open.spotify.com/album/0qjEYQTjzkDcJndFhXs17t"
+      },
+      "artists": [
+        {
+          "name": "Marie Franc",
+          "url": "https://open.spotify.com/artist/7B5muqDPjK6TvSood5ZgVf"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210015,
+      "name": "Fabric",
+      "url": "https://open.spotify.com/track/6s4gLAxyCfKpkOufiXgVfJ"
+    },
+    {
+      "album": {
         "name": "Fear (Demo)",
         "url": "https://open.spotify.com/album/3Lq5YwfzGpgUfNhflySB4o"
       },
@@ -1467,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "FUBAR",
+        "url": "https://open.spotify.com/album/2JvQOGVOVHforMQLheQ9CX"
+      },
+      "artists": [
+        {
+          "name": "Wohn",
+          "url": "https://open.spotify.com/artist/3an2jgwqUfK8gN7slm98Fb"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "FUBAR",
+      "url": "https://open.spotify.com/track/7fQYGMFmYytvX1K9HxxpyT"
+    },
+    {
+      "album": {
         "name": "Econoline",
         "url": "https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf"
       },
@@ -1578,7 +1650,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 151296,
       "name": "Graft",
       "url": "https://open.spotify.com/track/3MGrA1j5PS4H8S12ZaEDDT"
@@ -2692,7 +2764,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 319146,
       "name": "Portals",
       "url": "https://open.spotify.com/track/4AV3czCZP4cT0ybTfn5fVG"
@@ -2858,7 +2930,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 259853,
       "name": "Saint Andrew",
       "url": "https://open.spotify.com/track/6w5RAL3ftQ9OfKFunXLRR2"

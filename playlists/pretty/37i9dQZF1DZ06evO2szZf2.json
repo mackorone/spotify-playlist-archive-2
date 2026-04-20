@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35281,
+  "num_followers": 35280,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAADUDdP7RJaRViqDz1KBS9rD",
+  "snapshot_id": "aeLJgAAAAACe5eziqPcLYSWvsxBfdUSW",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Medley Rel\u00edquia",
+        "url": "https://open.spotify.com/album/0mI5xvTAAYiq8JpXLew8pr"
+      },
+      "artists": [
+        {
+          "name": "TOMAS",
+          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
+        },
+        {
+          "name": "DJ ADUTTZ",
+          "url": "https://open.spotify.com/artist/3KsFAFpgbYhZGXSDEQ3HzB"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 250368,
+      "name": "Medley Rel\u00edquia",
+      "url": "https://open.spotify.com/track/6dy7GGUPNkJvEPXpiimodT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "180",
         "url": "https://open.spotify.com/album/48vC9rPy4uCnQRwAeqFJdo"
       },
@@ -459,30 +483,6 @@
       "duration_ms": 358950,
       "name": "180",
       "url": "https://open.spotify.com/track/3hWLK4ew0rGtaFdjwcq1u4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Medley Rel\u00edquia",
-        "url": "https://open.spotify.com/album/0mI5xvTAAYiq8JpXLew8pr"
-      },
-      "artists": [
-        {
-          "name": "TOMAS",
-          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
-        },
-        {
-          "name": "DJ ADUTTZ",
-          "url": "https://open.spotify.com/artist/3KsFAFpgbYhZGXSDEQ3HzB"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 250368,
-      "name": "Medley Rel\u00edquia",
-      "url": "https://open.spotify.com/track/6dy7GGUPNkJvEPXpiimodT"
     },
     {
       "added_at": null,
@@ -755,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se o Port\u00e3o Tiver Trancado",
         "url": "https://open.spotify.com/album/1us003huY5cKbFdB7zaLcB"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 103105,
       "name": "Se o Port\u00e3o Tiver Trancado",
       "url": "https://open.spotify.com/track/56aS1NYbxpr6F6eeOs7mWA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
     },
     {
       "added_at": null,
@@ -1063,58 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GR6 Convoca #01 (Relacionamentos)",
-        "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "MC Marks",
-          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "MC Rodolfinho",
-          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
-        },
-        {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
-        },
-        {
-          "name": "DJ 900",
-          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
-        }
-      ],
-      "duration_ms": 472615,
-      "name": "GR6 Convoca #01 (Relacionamentos)",
-      "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexo Sem Estresse",
         "url": "https://open.spotify.com/album/7i2ULSZwxMk2cKNCwYeRlo"
       },
@@ -1175,6 +1123,58 @@
       "duration_ms": 241777,
       "name": "Mochila nas Costas / Empurra Empurra",
       "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GR6 Convoca #01 (Relacionamentos)",
+        "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "MC Rodolfinho",
+          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "DJ 900",
+          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
+        }
+      ],
+      "duration_ms": 472615,
+      "name": "GR6 Convoca #01 (Relacionamentos)",
+      "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
     },
     {
       "added_at": null,
@@ -1283,26 +1283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Agrado Todos",
-        "url": "https://open.spotify.com/album/6YYqLDClhznmF4Xri1Di0a"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJBHBHDJ",
-          "url": "https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "N\u00e3o Agrado Todos",
-      "url": "https://open.spotify.com/track/0WbHf6LwbAh5k69ppYSwh9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arrocha da Treta",
         "url": "https://open.spotify.com/album/2dddrN2lOTk8UJR42WhUdQ"
       },
@@ -1331,30 +1311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+        "name": "N\u00e3o Agrado Todos",
+        "url": "https://open.spotify.com/album/6YYqLDClhznmF4Xri1Di0a"
       },
       "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+          "name": "DJBHBHDJ",
+          "url": "https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0"
         }
       ],
-      "duration_ms": 213994,
-      "name": "Mundo da Fama",
-      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
+      "duration_ms": 125538,
+      "name": "N\u00e3o Agrado Todos",
+      "url": "https://open.spotify.com/track/0WbHf6LwbAh5k69ppYSwh9"
     },
     {
       "added_at": null,
@@ -1403,6 +1375,34 @@
       "duration_ms": 155145,
       "name": "De 38 Carregado",
       "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 213994,
+      "name": "Mundo da Fama",
+      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
     },
     {
       "added_at": null,

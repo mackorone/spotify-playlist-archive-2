@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 164572,
       "name": "Do You Need My Love?",
       "url": "https://open.spotify.com/track/1qwCzGkeb2m67yrtWXXtbY"
@@ -3898,7 +3898,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 188666,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
@@ -4678,6 +4678,24 @@
       "duration_ms": 176241,
       "name": "Maybe We Could Be a Thing",
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
+    },
+    {
+      "album": {
+        "name": "midsummer",
+        "url": "https://open.spotify.com/album/4RzTyZL9B3fVK1X8M717de"
+      },
+      "artists": [
+        {
+          "name": "bluebluebird",
+          "url": "https://open.spotify.com/artist/6usYZzaQqQUgDzgSCRa0xf"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "midsummer",
+      "url": "https://open.spotify.com/track/0nNUG87yUlCJqGhpv5ney8"
     },
     {
       "album": {
@@ -6134,7 +6152,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 157209,
       "name": "Scared of Love",
       "url": "https://open.spotify.com/track/1fCdHI0EBnGabru914ap2f"
@@ -8258,6 +8276,46 @@
       "duration_ms": 197499,
       "name": "With You",
       "url": "https://open.spotify.com/track/0YhuPLchEMFhIf6W3k0QdR"
+    },
+    {
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/652TLKJWluUQlikBi55rKb"
+      },
+      "artists": [
+        {
+          "name": "add9",
+          "url": "https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197499,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6ZvQduuUeawAnal4yXvUYA"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0BZvg9IGUoW11JIbOycQeM"
+      },
+      "artists": [
+        {
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        },
+        {
+          "name": "sido",
+          "url": "https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/63KtXm5kjHE6Y1c5TeSvT1"
     },
     {
       "album": {

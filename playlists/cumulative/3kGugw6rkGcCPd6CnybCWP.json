@@ -3221,6 +3221,24 @@
     },
     {
       "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/2leZFJNcO96VaVYzMDYuMI"
+      },
+      "artists": [
+        {
+          "name": "Patch Habits",
+          "url": "https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195155,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/2z82PofLpBaIKJwbIYo5Cl"
+    },
+    {
+      "album": {
         "name": "Mr. Collision / Awhile Longer",
         "url": "https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw"
       },

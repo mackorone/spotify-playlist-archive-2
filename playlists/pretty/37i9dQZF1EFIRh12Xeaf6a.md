@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,274 likes - 276 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,278 likes - 276 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 128 | [Spaceship Races](https://open.spotify.com/track/2saV5owNXlCjz26RZ7R6pk) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:06 |
 | 129 | [Growing Away from Me](https://open.spotify.com/track/0k2ds7pE5cq6vlDwOzFxbZ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 3:02 |
 | 130 | [Fantasy Beginning](https://open.spotify.com/track/3yuC4fwlRLXTvFYIbhHmcV) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ) | 1:02 |
-| 131 | [Weekdays](https://open.spotify.com/track/188S3CUlO4CMprDBzzXVPx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ) | 2:44 |
-| 132 | [Show Me Girl \- 2002 Remaster](https://open.spotify.com/track/7vrzwteWWJqHsOfWD1zT9n) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [The Very Best Of Herman's Hermits \(Deluxe Edition\)](https://open.spotify.com/album/3UoVto0KQes5W2hbJl2Aw7) | 2:35 |
+| 131 | [Show Me Girl \- Mono](https://open.spotify.com/track/1saGlI7w6vxjGMAzluhYQC) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Show Me Girl \(Mono\)](https://open.spotify.com/album/4UDrIQtV2baXu67inAB03J) | 2:38 |
+| 132 | [Weekdays](https://open.spotify.com/track/188S3CUlO4CMprDBzzXVPx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ) | 2:44 |
 | 133 | [There Is A Tavern In The Town](https://open.spotify.com/track/4DJLYAE0mMknhKTwRdmt1v) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Those Lazy Hazy Crazy Days Of Summer](https://open.spotify.com/album/5jA1HyOHqWy718lEXH2koC) | 1:36 |
 | 134 | [I Don't Think You Know Me \- Second Recorded Version; 2006 Remaster](https://open.spotify.com/track/7yUemsSDDVpsm1ismCVPTl) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:20 |
 | 135 | [Blues For A Young Girl Gone](https://open.spotify.com/track/3Y0pyyBki4gOjIqO4u3eTU) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 2:30 |
@@ -196,8 +196,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 186 | [A Road to Nowhere](https://open.spotify.com/track/1tfyZdl5w2gxywZKR4wWT0) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:14 |
 | 187 | [Daughter Of Light](https://open.spotify.com/track/5tpL0OquIwmUJzLPdazwzx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:12 |
 | 188 | [Time Gone By](https://open.spotify.com/track/5tDFZPFaTGbTZW0mW596k7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:15 |
-| 189 | [Wasn't It You](https://open.spotify.com/track/10Kc9dCFGsDpJtD6AXh2GM) | [The Action](https://open.spotify.com/artist/2lsMbm0cnSilhA7gZq5d36) | [Keep On Holding On](https://open.spotify.com/album/4YseHyxnLXpZ0W2MKB8yM0) | 2:52 |
-| 190 | [I Need You](https://open.spotify.com/track/1I8CgNZDmGPX0kcBPkcOOl) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [The Sun Ain't Gonna Shine Anymore](https://open.spotify.com/album/6FdtrfulrgcChnVtVyw4an) | 3:13 |
+| 189 | [I Need You](https://open.spotify.com/track/1I8CgNZDmGPX0kcBPkcOOl) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [The Sun Ain't Gonna Shine Anymore](https://open.spotify.com/album/6FdtrfulrgcChnVtVyw4an) | 3:13 |
+| 190 | [Wasn't It You](https://open.spotify.com/track/10Kc9dCFGsDpJtD6AXh2GM) | [The Action](https://open.spotify.com/artist/2lsMbm0cnSilhA7gZq5d36) | [Keep On Holding On](https://open.spotify.com/album/4YseHyxnLXpZ0W2MKB8yM0) | 2:52 |
 | 191 | [Disco Tech](https://open.spotify.com/track/2DZNCsROS75UeAfUIJBQ03) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:09 |
 | 192 | [You're Just What I Was Looking For Today](https://open.spotify.com/track/7Cv0mask9BAzdrdpyRsT1l) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Spare Parts](https://open.spotify.com/album/3kKjyQSagLmDnPn93mWBsC) | 3:50 |
 | 193 | [The Jag](https://open.spotify.com/track/3H1zLMU0FQ6G7rcyxmvSLN) | [The Micronauts](https://open.spotify.com/artist/119opyy80eY0fCemuyxg7v) | [The Jag](https://open.spotify.com/album/1db1N6pQ1qsUW74RjOQVfU) | 11:00 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcPOCAAAAADE7w7gkSMpQCg9aPEEePks`
+Snapshot ID: `AcPTqAAAAABQB0hGaWnboV91N9grdF2a`

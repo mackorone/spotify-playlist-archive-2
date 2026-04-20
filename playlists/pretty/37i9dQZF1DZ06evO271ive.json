@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 30056,
+  "num_followers": 30069,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAB7LIFYyaktrAbir9NrFN+k",
+  "snapshot_id": "aeLJgAAAAADLK7tsx3kgUKOno6HUXlFf",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fat Juicy & Wet",
+        "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 141057,
+      "name": "Fat Juicy & Wet",
+      "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OMG! (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/1Tvjx0HSnZx85wmtnDXVsP"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 152989,
       "name": "OMG! (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2TuVErkUG3BdQR0dsbtakg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fat Juicy & Wet",
-        "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 141057,
-      "name": "Fat Juicy & Wet",
-      "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
     },
     {
       "added_at": null,
@@ -519,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "duration_ms": 173806,
+      "name": "Rackies (feat. ATL Jacob)",
+      "url": "https://open.spotify.com/track/0UcuymskcvzMYexnJiVBmd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FTCU (SLEEZEMIX)",
         "url": "https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2"
       },
@@ -547,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 139632,
-      "name": "Fake Jammin",
-      "url": "https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hood Hottest Princess (Deluxe)",
         "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
@@ -583,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Favorite Trappa Favorite Rappa",
-        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
       "artists": [
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "ATL Jacob",
-          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
         }
       ],
-      "duration_ms": 173806,
-      "name": "Rackies (feat. ATL Jacob)",
-      "url": "https://open.spotify.com/track/0UcuymskcvzMYexnJiVBmd"
+      "duration_ms": 139632,
+      "name": "Fake Jammin",
+      "url": "https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 155317,
+      "name": "David Ruffin",
+      "url": "https://open.spotify.com/track/5qm8RDbGx8l6T87Y9K0Q7y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yonce Freestyle (feat. Sexyy Red & B.G.)",
         "url": "https://open.spotify.com/album/0BbrF9bl7IIQGJNQfw7kbm"
       },
@@ -895,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "It Bitches",
+      "url": "https://open.spotify.com/track/1QmTZzRri0uhYtXhUiAz06"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hood Hottest Princess",
         "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
       },
@@ -947,6 +979,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 143423,
+      "name": "Richer Than Alla My Opps",
+      "url": "https://open.spotify.com/track/4c5X8bGPA5jbgcNmghr2Ee"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -959,58 +1007,6 @@
       "duration_ms": 147048,
       "name": "It's My Birthday",
       "url": "https://open.spotify.com/track/5ZjSQmUdjvFhSVhLWpVPWQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Favorite Trappa Favorite Rappa",
-        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 155317,
-      "name": "David Ruffin",
-      "url": "https://open.spotify.com/track/5qm8RDbGx8l6T87Y9K0Q7y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daddy (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 193041,
-      "name": "Daddy (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoochie Coochie",
-        "url": "https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 147450,
-      "name": "Hoochie Coochie",
-      "url": "https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T"
     }
   ],
   "unique_name": "This Is Sexyy Red",

@@ -1651,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/2dvUZGreos1DGkLnq1y2Dn"
+      },
+      "artists": [
+        {
+          "name": "KYUL",
+          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139310,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/6lveODyI410pzcdlS9HMRw"
+    },
+    {
+      "album": {
         "name": "Back to zero",
         "url": "https://open.spotify.com/album/3QQ2iixWjRfdk25MMks8zO"
       },
@@ -5090,7 +5108,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 140000,
       "name": "Dum Dum",
       "url": "https://open.spotify.com/track/7LejDiEo66ywqax0uwYAQp"
@@ -7878,6 +7896,24 @@
       "duration_ms": 381874,
       "name": "Grassland",
       "url": "https://open.spotify.com/track/5zypY0T6WMsBHcCVWwuCVi"
+    },
+    {
+      "album": {
+        "name": "Green Mango",
+        "url": "https://open.spotify.com/album/52TzRhG6P7aq24ZHCsKgrf"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Green Mango",
+      "url": "https://open.spotify.com/track/7HI3dV26p9W8S19RwwCIzc"
     },
     {
       "album": {
@@ -12744,6 +12780,24 @@
       "duration_ms": 205000,
       "name": "May the TENDERNESS be with you! (feat. KARINA of aespa)",
       "url": "https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT"
+    },
+    {
+      "album": {
+        "name": "Maybe Okay",
+        "url": "https://open.spotify.com/album/62eRlfMDaG6jb0vdeSVSgw"
+      },
+      "artists": [
+        {
+          "name": "Jang HeeWon",
+          "url": "https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Maybe Okay",
+      "url": "https://open.spotify.com/track/3yaog9HA9UgGjDYrg5MtEP"
     },
     {
       "album": {
@@ -19440,7 +19494,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 208055,
       "name": "Summer in space",
       "url": "https://open.spotify.com/track/0eDsev28hCgdfpngRPPHRD"
@@ -24088,7 +24142,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 196250,
       "name": "\ub0a8",
       "url": "https://open.spotify.com/track/3IrLU6Qp6RdXL7TK7puZxd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz for focus or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,206 likes - 200 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,316 likes - 200 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 199 | [Missed The Last Dance With You](https://open.spotify.com/track/7mbGcxb8cInNijyo4nO6eu) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [Missed The Last Dance With You](https://open.spotify.com/album/6eDr3Uh3GuGGLURUqrV1k3) | 5:04 |
 | 200 | [Cool Breeze](https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Cool Breeze](https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa) | 4:13 |
 
-Snapshot ID: `AAAAAItXA+giTWG+NQfZNXl0R2c8WpDB`
+Snapshot ID: `AAAAAPYW3rTYQK2fJeCKs6z0+MuovKyi`

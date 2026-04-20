@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Tessellated
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103,596 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103,529 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 69 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
 | 70 | [Refund](https://open.spotify.com/track/6s872MNfACS2J05Q1MEIuq) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Refund](https://open.spotify.com/album/1ypi1cqSZXVQvC0emvumqp) | 3:24 |
 
-Snapshot ID: `AAAAAPZqgYwTqiUA38qAUi5r3LncFF1s`
+Snapshot ID: `AAAAAHr2N5v0QanUwudeaRw7mitv0WQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,838 likes - 150 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,081 likes - 150 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 149 | [I'm Gonna Sit Right Down And Write Myself A Letter](https://open.spotify.com/track/5gZeO99hPC7esm5oOqIllA) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Kisses On The Bottom](https://open.spotify.com/album/0qEe6hPN9ybmHeLC5Y228X) | 2:35 |
 | 150 | [Try Your Wings](https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5) | 2:54 |
 
-Snapshot ID: `AAAAAJCwb3pm4CUICVRkX76+7Xpr4zl+`
+Snapshot ID: `AAAAACnrq577LINHzyFIJTsGmnQTmgsD`

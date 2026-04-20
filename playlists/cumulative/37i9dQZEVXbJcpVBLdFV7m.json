@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "Peter, Paul and Mary",
+        "url": "https://open.spotify.com/album/1cRbbPxFMpHFeYIkLqqzBo"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162933,
+      "name": "500 Miles",
+      "url": "https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb"
+    },
+    {
+      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
       },
@@ -9864,7 +9882,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 199354,
       "name": "Disco-Tech",
       "url": "https://open.spotify.com/track/2pbc9HOxka0qUSE2oIW5Tc"
@@ -18598,7 +18616,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
@@ -20794,7 +20812,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 200512,
       "name": "K\u00fc\u00e7\u00fck Bir Yol - Red Bull Track Takeover",
       "url": "https://open.spotify.com/track/4TvgcJPNmAThMDplXHic7i"
@@ -32376,7 +32394,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -32394,7 +32412,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -36742,7 +36760,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -37339,6 +37357,28 @@
     },
     {
       "album": {
+        "name": "Te Molla",
+        "url": "https://open.spotify.com/album/2c4c5vQa6oroNP9sCv46GV"
+      },
+      "artists": [
+        {
+          "name": "Arnon",
+          "url": "https://open.spotify.com/artist/5NvOktRLQaWY8N3R1VI18u"
+        },
+        {
+          "name": "letskillua",
+          "url": "https://open.spotify.com/artist/0XYcolmuv0aRet8pgynZmZ"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Te Molla",
+      "url": "https://open.spotify.com/track/2XsRUtos1QZOORVt4R8xT4"
+    },
+    {
+      "album": {
         "name": "Album \"TEA\"",
         "url": "https://open.spotify.com/album/0tLx5PHN6IyMWAKavAfaRH"
       },
@@ -37736,6 +37776,24 @@
       "duration_ms": 226400,
       "name": "That Go! (feat. T-Shyne)",
       "url": "https://open.spotify.com/track/6rUmUJ2drFemHTH73bFAKQ"
+    },
+    {
+      "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "That Should Be Me",
+      "url": "https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S"
     },
     {
       "album": {
@@ -39082,6 +39140,32 @@
       "duration_ms": 175956,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
+    },
+    {
+      "album": {
+        "name": "Titanium x Please Me",
+        "url": "https://open.spotify.com/album/2ADRtLdjqTGg7VivtbG7PS"
+      },
+      "artists": [
+        {
+          "name": "TRUE CHAD",
+          "url": "https://open.spotify.com/artist/4Vg2yjssInPiSSOdPgWIkQ"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        },
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192004,
+      "name": "Titanium x Please Me",
+      "url": "https://open.spotify.com/track/1nDzv7AfhaD6bilJdhlXAc"
     },
     {
       "album": {
@@ -42103,6 +42187,24 @@
     },
     {
       "album": {
+        "name": "Welcome To Miami",
+        "url": "https://open.spotify.com/album/7rWigYurpfYaDV8gee88wf"
+      },
+      "artists": [
+        {
+          "name": "Bass Mode",
+          "url": "https://open.spotify.com/artist/3xlHQqCy1K3Rl1bRiQ0WBS"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169692,
+      "name": "Welcome To Miami",
+      "url": "https://open.spotify.com/track/1sDujG051zXKNA9Na89qzD"
+    },
+    {
+      "album": {
         "name": "The Last Wun",
         "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
       },
@@ -44974,7 +45076,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 127346,
       "name": "\u015faka m\u0131s\u0131n knk",
       "url": "https://open.spotify.com/track/4m4NH7AHnhlwvlBKD1r2VB"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Marizu & Will Gittens
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,140 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,160 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 74 | [TAMUNO](https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh) | [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [TAMUNO](https://open.spotify.com/album/3Hx2cSmvKNliegyB4Ok0O1) | 2:36 |
 | 75 | [All Around](https://open.spotify.com/track/3OrBVGYz6opSiyzn4xruDa) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [All Around](https://open.spotify.com/album/5H0eZ8emSE3bW2QSkhuFZp) | 2:44 |
 
-Snapshot ID: `AAAAABvrfGAqIknUv/YjhpczaNVjpQ5G`
+Snapshot ID: `AAAAAP09BTym2fs6MK1PbpkbfpwNH2px`

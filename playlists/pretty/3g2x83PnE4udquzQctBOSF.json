@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2736,
+  "num_followers": 2737,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASNe+vIVV19d8Lj8k3MePiGVhWq1iU",
+  "snapshot_id": "AAASNqAWBR3lQhdikNnqvHeTbCeh7gDU",
   "tracks": [
+    {
+      "added_at": "2026-04-19 14:51:21",
+      "album": {
+        "name": "Basement Flow",
+        "url": "https://open.spotify.com/album/45AnCVRrnATPXrtxIHJEDm"
+      },
+      "artists": [
+        {
+          "name": "Harper Lee",
+          "url": "https://open.spotify.com/artist/1lxJS48FLIAy0Vrft0DZ83"
+        }
+      ],
+      "duration_ms": 290760,
+      "name": "Basement Flow",
+      "url": "https://open.spotify.com/track/0bQOL0RUxp5odSxvl4RVLt"
+    },
     {
       "added_at": "2026-04-18 16:33:23",
       "album": {

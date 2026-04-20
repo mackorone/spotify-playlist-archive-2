@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 
 > This is Arsenal Efectivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,577 likes - 31 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,579 likes - 31 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 | 23 | [Ya Coronó La Vuelta](https://open.spotify.com/track/30ts9jAs2faKSvxAOb5FWg) | [Josue](https://open.spotify.com/artist/68czGBDG2AruZ6RMOwAXmc), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Ya Coronó La Vuelta](https://open.spotify.com/album/7uqKY4vZdt0N6K0bUP9Qbg) | 2:31 |
 | 24 | [L.A\. Dank](https://open.spotify.com/track/7ygyBnWDSAPAyrr6s66tCr) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 3:32 |
 | 25 | [Cartel De Reyes](https://open.spotify.com/track/42wVd6LrCb0TlMhsqrrVXK) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3](https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS) | 2:10 |
-| 26 | [Eternamente](https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Eternamente](https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1) | 3:58 |
-| 27 | [Sacando El Polvo](https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Sacando El Polvo](https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP) | 4:01 |
-| 28 | [DDM Anthem](https://open.spotify.com/track/22ZE5l6Z9Z8I8eGk4Ty4OW) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Brianshredz](https://open.spotify.com/artist/2O1MkAEoviGw1rKuJGy62o), [Kevin Cortez](https://open.spotify.com/artist/5fvBv8QAPzf5Px6eE7Wdr9) | [DDM Anthem](https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c) | 4:18 |
-| 29 | [Peligro](https://open.spotify.com/track/4e57NeDTbHbdan24Vf6WU5) | [Trouble Kidd](https://open.spotify.com/artist/2BUm9jjApR6h94btZHECuw), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Peligro](https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh) | 2:08 |
-| 30 | [Platicame De Ti \- En Vivo](https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr) | [Sol De Mi Tierra\- mariacheño](https://open.spotify.com/artist/51adjnMrqIJnsXRtyQkLFc), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Platicame De Ti \(En Vivo\)](https://open.spotify.com/album/0HFW2U2GnGAosNeBZAT7is) | 2:54 |
-| 31 | [Crimen Organizado](https://open.spotify.com/track/7rQc9Enutk9xbjP7WRUgUi) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Compa Nava](https://open.spotify.com/artist/4XJ36g1SNkMd94pZKdizLF) | [Crimen Organizado](https://open.spotify.com/album/5FiPNWW7CAEXZUFhPniZm1) | 3:06 |
+| 26 | [Sacando El Polvo](https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Sacando El Polvo](https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP) | 4:01 |
+| 27 | [Eternamente](https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Eternamente](https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1) | 3:58 |
+| 28 | [Crimen Organizado](https://open.spotify.com/track/7rQc9Enutk9xbjP7WRUgUi) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Compa Nava](https://open.spotify.com/artist/4XJ36g1SNkMd94pZKdizLF) | [Crimen Organizado](https://open.spotify.com/album/5FiPNWW7CAEXZUFhPniZm1) | 3:06 |
+| 29 | [DDM Anthem](https://open.spotify.com/track/22ZE5l6Z9Z8I8eGk4Ty4OW) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Brianshredz](https://open.spotify.com/artist/2O1MkAEoviGw1rKuJGy62o), [Kevin Cortez](https://open.spotify.com/artist/5fvBv8QAPzf5Px6eE7Wdr9) | [DDM Anthem](https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c) | 4:18 |
+| 30 | [Peligro](https://open.spotify.com/track/4e57NeDTbHbdan24Vf6WU5) | [Trouble Kidd](https://open.spotify.com/artist/2BUm9jjApR6h94btZHECuw), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Peligro](https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh) | 2:08 |
+| 31 | [Platicame De Ti \- En Vivo](https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr) | [Sol De Mi Tierra\- mariacheño](https://open.spotify.com/artist/51adjnMrqIJnsXRtyQkLFc), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Platicame De Ti \(En Vivo\)](https://open.spotify.com/album/0HFW2U2GnGAosNeBZAT7is) | 2:54 |
 
-Snapshot ID: `aeF4AAAAAAAs2qgn4AYnNcqiRwbXgOOe`
+Snapshot ID: `aeLJgAAAAACX1muHVqQvRnHeEv4MhnPw`

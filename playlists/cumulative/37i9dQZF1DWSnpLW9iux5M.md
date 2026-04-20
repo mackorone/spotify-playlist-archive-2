@@ -2,7 +2,7 @@
 
 ### [Gospel Christmas](https://open.spotify.com/playlist/37i9dQZF1DWSnpLW9iux5M)
 
-> Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Yolanda Adams
+> Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Jonathan McReynolds
 
 207 songs - 13 hr 24 min
 
@@ -78,7 +78,7 @@
 | [Hero is Born](https://open.spotify.com/track/3VAE2YiVcelxBYPhDvYFzN) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Sunny Days](https://open.spotify.com/album/5FTFl9FxKsvNGzvPGHWbtC) | 4:02 | 2025-11-16 |  |
 | [His Name Is Jesus](https://open.spotify.com/track/2kqPEt1i8GxrBdTC0xpbFL) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Fred Hammond Christmas..\. Just Remember](https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9) | 4:32 | 2021-12-24 |  |
 | [Holiday Love \- Radio Edit](https://open.spotify.com/track/4zo7m7O0dB9oGaqp3Oixqh) | [Ted Winn](https://open.spotify.com/artist/0c86qGuVZWOdEl7Wdr6g4f) | [Holiday Love \(Radio Edit\)](https://open.spotify.com/album/74W9K9aGmaTKAlwhwYqE0C) | 2:50 | 2023-12-15 |  |
-| [Holy \(The Crispell Legacy\) \(feat\. Melvin Crispell III\)](https://open.spotify.com/track/3ucYWAeWRbwmR5sUzyGjnA) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Maranda Presents A Holy Christmas](https://open.spotify.com/album/0c1zGZMDhb2UNZlmQ8cfKN) | 6:49 | 2021-12-24 |  |
+| [Holy \(The Crispell Legacy\) \(feat\. Melvin Crispell, III\)](https://open.spotify.com/track/3ucYWAeWRbwmR5sUzyGjnA) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Maranda Presents A Holy Christmas](https://open.spotify.com/album/0c1zGZMDhb2UNZlmQ8cfKN) | 6:49 | 2021-12-24 |  |
 | [Holy, Holy, Holy](https://open.spotify.com/track/39JZLgNvHP6jypN5PiW66J) | [Kurt Carr Singers](https://open.spotify.com/artist/47GFnTaDeJDSKuxzYyNYrs) | [COME LET US WORSHIP](https://open.spotify.com/album/0WXjh791JiMVmWUWJ64YhU) | 4:58 | 2023-12-15 | 2024-04-19 |
 | [Holy, Holy, Holy](https://open.spotify.com/track/3GiK89ZgpCTYgefDuHLP0Y) | [Kurt Carr Singers](https://open.spotify.com/artist/47GFnTaDeJDSKuxzYyNYrs) | [Gospel Heritage Christmas Vol\. 2](https://open.spotify.com/album/401xeKiJnhyWCWDLdca40p) | 4:58 | 2021-12-24 | 2024-11-18 |
 | [Home for Christmas \(feat\. Joe\) \(feat\. Joe\)](https://open.spotify.com/track/4gGEaTqjTlEK0uf3guEhDI) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Christmas Card](https://open.spotify.com/album/3nDsomMe31JVCIlnaQizwU) | 4:00 | 2021-12-24 |  |

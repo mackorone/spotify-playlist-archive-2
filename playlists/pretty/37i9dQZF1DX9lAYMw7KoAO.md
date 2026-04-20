@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=vtIr81d5Rqyej46rqc6M0A>Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,638 likes - 50 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,788 likes - 50 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

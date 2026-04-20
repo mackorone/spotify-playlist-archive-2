@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 141102,
+  "num_followers": 141120,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAABn0s/tOAiqeLGE1VKVsyjm",
+  "snapshot_id": "aeLJgAAAAACVxeaCDxfc0PNhNiT+m2zx",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "Holy Is The Lord - Arriving Album Version",
+      "url": "https://open.spotify.com/track/31Kb7jyAscJJma1gTXRUFQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Holy Forever (Instrumental)",
         "url": "https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 480193,
       "name": "Holy Forever - Instrumental",
       "url": "https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "Holy Is The Lord - Arriving Album Version",
-      "url": "https://open.spotify.com/track/31Kb7jyAscJJma1gTXRUFQ"
     },
     {
       "added_at": null,

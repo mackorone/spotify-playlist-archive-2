@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 
 > Al cien en la privada con Rey Quinto & the hottest corridos in the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,782 likes - 99 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,790 likes - 99 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:5lcDGoJUr5WY5bCFAfYbCU">KIRBY</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,132,926 likes - 150 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132,884 likes - 150 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Anitta, Olivia Rodrigo, Mc Kevin o Chris, Grupo Menos É Mais, Demi Lovato, Diego & Victor Hugo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,281,122 likes - 93 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,280,954 likes - 93 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

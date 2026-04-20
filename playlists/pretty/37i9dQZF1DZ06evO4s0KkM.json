@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAADTKLNpjDZFjA4TaLIvlN7D",
+  "snapshot_id": "aeLJgAAAAAAz96LJbMmmZt0jhs/UpJsI",
   "tracks": [
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Meanest of Times (Limited Edition)",
-        "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 196693,
-      "name": "God Willing",
-      "url": "https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p"
+      "duration_ms": 140693,
+      "name": "Peg O' My Heart",
+      "url": "https://open.spotify.com/track/46zP5b35ipdZE4dj619sAY"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+        "name": "The Meanest of Times (Limited Edition)",
+        "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 140693,
-      "name": "Peg O' My Heart",
-      "url": "https://open.spotify.com/track/46zP5b35ipdZE4dj619sAY"
+      "duration_ms": 196693,
+      "name": "God Willing",
+      "url": "https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p"
     },
     {
       "added_at": null,

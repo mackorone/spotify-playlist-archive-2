@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,665 likes - 277 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,666 likes - 277 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 98 | [Hasta La Vista](https://open.spotify.com/track/2LZTj14T3XQaODkrtJhDHk) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter V \(Deluxe\)](https://open.spotify.com/album/4ljsev5vUnwB2BUFAMvwwy) | 2:51 |
 | 99 | [Wat Be Wrong??](https://open.spotify.com/track/2dTTzrWtpAN98pTYYRbMJB) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:11 |
 | 100 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 |
-| 101 | [Life Is Great](https://open.spotify.com/track/1394EvWgfpb0cHpQWTX4zY) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma](https://open.spotify.com/album/6BsJaQiuPWfXwytfZXQBLm) | 2:25 |
-| 102 | [Voices](https://open.spotify.com/track/4Ley4LFmFVW2wmk8711W3Q) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [UNDERRATED](https://open.spotify.com/album/3jL7EW4fj5JoT8yqImgUBC) | 3:45 |
+| 101 | [Voices](https://open.spotify.com/track/4Ley4LFmFVW2wmk8711W3Q) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [UNDERRATED](https://open.spotify.com/album/3jL7EW4fj5JoT8yqImgUBC) | 3:45 |
+| 102 | [Life Is Great](https://open.spotify.com/track/1394EvWgfpb0cHpQWTX4zY) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma](https://open.spotify.com/album/6BsJaQiuPWfXwytfZXQBLm) | 2:25 |
 | 103 | [Ion Get You](https://open.spotify.com/track/0iHqaHGCRwxtaJTOOPjSHy) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [2 Heartless](https://open.spotify.com/album/1XQnW746HBsLJAgZUW9Kyu) | 2:37 |
 | 104 | [Andale](https://open.spotify.com/track/1X1xjiyToNBcCwA3Ehjran) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/4AlDW3X24TV6bpBh4T4bhk) | 2:48 |
 | 105 | [Mercedes](https://open.spotify.com/track/5LPI0nfzndJ6mjGkCTDPNv) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [I Am Me](https://open.spotify.com/album/4pAz6zuQCyAXFGpVE1yhi6) | 2:01 |
@@ -286,4 +286,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 276 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 | 277 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 3:19 |
 
-Snapshot ID: `AcPOHAAAAABvcTP7+A29tnUJL6YrN2UU`
+Snapshot ID: `AcPTgAAAAAAsPePd9U5O5xSDWq5bs4tw`

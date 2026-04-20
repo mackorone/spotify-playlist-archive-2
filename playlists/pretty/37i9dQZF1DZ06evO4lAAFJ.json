@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 686544,
+  "num_followers": 686704,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAB2ElIuayitnu20/cTXqKoz",
+  "snapshot_id": "aeLJgAAAAADJy1yvFtVRxeiy/Vpnw0UY",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LUX (Complete Works)",
+        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 192346,
+      "name": "Novia Robot",
+      "url": "https://open.spotify.com/track/501aZny32oS5iewdx3e4Eu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUX (Complete Works)",
-        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 192346,
-      "name": "Novia Robot",
-      "url": "https://open.spotify.com/track/501aZny32oS5iewdx3e4Eu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Assume Form",
         "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 109109,
-      "name": "BIZCOCHITO",
-      "url": "https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew"
       },
@@ -567,6 +551,38 @@
       "duration_ms": 203464,
       "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 109109,
+      "name": "BIZCOCHITO",
+      "url": "https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LUX (Complete Works)",
+        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "Jeanne",
+      "url": "https://open.spotify.com/track/7CTwREqLgmaxQngztZrJNd"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUX (Complete Works)",
-        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "Jeanne",
-      "url": "https://open.spotify.com/track/7CTwREqLgmaxQngztZrJNd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Omega (feat. Ralphie Choo)",
         "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
       },
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blinding Lights (Remix)",
-        "url": "https://open.spotify.com/album/7B70Z32Ha84aMT6TOnW410"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 216123,
-      "name": "Blinding Lights (with ROSAL\u00cdA) - Remix",
-      "url": "https://open.spotify.com/track/7MXgrcOQAJ5VwSNUL0lDd3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oral",
         "url": "https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blinding Lights (Remix)",
+        "url": "https://open.spotify.com/album/7B70Z32Ha84aMT6TOnW410"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 216123,
+      "name": "Blinding Lights (with ROSAL\u00cdA) - Remix",
+      "url": "https://open.spotify.com/track/7MXgrcOQAJ5VwSNUL0lDd3"
     }
   ],
   "unique_name": "This Is ROSAL\u00cdA",

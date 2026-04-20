@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Vumaala
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,242 likes - 55 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,409 likes - 55 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 54 | [Wamuhle](https://open.spotify.com/track/6qxOK7IctHVnuTlXQH8lPz) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh) | [Catch Me If You Can](https://open.spotify.com/album/2EaHd8tGSi3L4uwiM3jke1) | 5:25 |
 | 55 | [Umlolozi](https://open.spotify.com/track/713quELIbXIQxA77U2HQnI) | [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Umlolozi EP](https://open.spotify.com/album/254BHBOxSlJSDlMsuaR84s) | 6:33 |
 
-Snapshot ID: `AAAAAG6OK4cHj5LYpqjYLRK0P689dlOB`
+Snapshot ID: `AAAAAMoHvqGrhG9ef7U6Z1a4lhlhj17s`

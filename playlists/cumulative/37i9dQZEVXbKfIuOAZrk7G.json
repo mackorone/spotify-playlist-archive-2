@@ -2105,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Peter, Paul and Mary",
+        "url": "https://open.spotify.com/album/1cRbbPxFMpHFeYIkLqqzBo"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162933,
+      "name": "500 Miles",
+      "url": "https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb"
+    },
+    {
+      "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
       },
@@ -8668,6 +8686,24 @@
       "duration_ms": 186533,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/61YzdCCBPM5Pc7lIiD5i8C"
+    },
+    {
+      "album": {
+        "name": "Bang Bang Bang",
+        "url": "https://open.spotify.com/album/2zFrkINzgIXLOXMAiQQVP7"
+      },
+      "artists": [
+        {
+          "name": "BBpanzu",
+          "url": "https://open.spotify.com/artist/4h8eXe8mMUAVe2NthUKnek"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180451,
+      "name": "Bang Bang Bang",
+      "url": "https://open.spotify.com/track/6T80kNfM3iJMRO6uzeOzRG"
     },
     {
       "album": {
@@ -27478,7 +27514,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 256799,
       "name": "Favorite Girl",
       "url": "https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI"
@@ -27496,7 +27532,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 256799,
       "name": "Favorite Girl",
       "url": "https://open.spotify.com/track/5DMY2szRG9GgfjKkRHtKxg"
@@ -44368,7 +44404,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 180004,
       "name": "Jaiye Sajana",
       "url": "https://open.spotify.com/track/6xwKNAUHeo2DbWNAPi8aEy"
@@ -57484,7 +57520,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 96800,
       "name": "Motion Party",
       "url": "https://open.spotify.com/track/53nEDUTKZNkZ1bwXrH9gBR"
@@ -79898,7 +79934,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 143898,
       "name": "Still in Love",
       "url": "https://open.spotify.com/track/7xMxDC51EwpHoOTrAfwhCR"
@@ -83794,6 +83830,24 @@
       "duration_ms": 174052,
       "name": "That Part",
       "url": "https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB"
+    },
+    {
+      "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "That Should Be Me",
+      "url": "https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S"
     },
     {
       "album": {

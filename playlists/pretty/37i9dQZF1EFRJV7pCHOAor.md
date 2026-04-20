@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 718 likes - 204 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 719 likes - 204 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 61 | [VOID](https://open.spotify.com/track/3e6ebtUCZ0tZL1J7wvM8Xi) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 4:08 |
 | 62 | [I THINK YOU'RE SPECIAL](https://open.spotify.com/track/0mQLFm42be28X8yKBTiHP3) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:45 |
 | 63 | [Mad](https://open.spotify.com/track/4NONTWamwnOVRi0qk6B8hf) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:54 |
-| 64 | [Cinderella Story](https://open.spotify.com/track/18AIesWCXvIbXu8RqQw1E1) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:05 |
-| 65 | [TOO LONG](https://open.spotify.com/track/422PeUrBywndaCCxL6bDBj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:04 |
+| 64 | [TOO LONG](https://open.spotify.com/track/422PeUrBywndaCCxL6bDBj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:04 |
+| 65 | [Cinderella Story](https://open.spotify.com/track/18AIesWCXvIbXu8RqQw1E1) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:05 |
 | 66 | [LIFE AFTER SALEM](https://open.spotify.com/track/6D3t4w54PgLNGQ48R7th7R) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:30 |
 | 67 | [405](https://open.spotify.com/track/7gCautqfD7CCdrN33GrRd8) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:32 |
 | 68 | [GLORY VOICE MEMO](https://open.spotify.com/track/7H6hs7WkNG48fS3agm63MR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 1:24 |
@@ -114,9 +114,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 104 | [False Starts](https://open.spotify.com/track/7LbT1qYiCmO5sKTtSejUp5) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:28 |
 | 105 | [Breath Away](https://open.spotify.com/track/6wpEKnAD0c7y4H2iAUrj4K) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:51 |
 | 106 | [Futuros amantes](https://open.spotify.com/track/6d8DQJkIoU4udczSYFm8a3) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:44 |
-| 107 | [Zanies and Fools](https://open.spotify.com/track/5G3KW2F4wG36rSD92z8lNf) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Big Day](https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6) | 5:23 |
-| 108 | [OH MAN](https://open.spotify.com/track/6PlDfaiu0l777DqPolHkDQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:12 |
-| 109 | [EVERYTHING HALLELUJAH](https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 4:08 |
+| 107 | [EVERYTHING HALLELUJAH](https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 4:08 |
+| 108 | [Zanies and Fools](https://open.spotify.com/track/5G3KW2F4wG36rSD92z8lNf) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Big Day](https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6) | 5:23 |
+| 109 | [OH MAN](https://open.spotify.com/track/6PlDfaiu0l777DqPolHkDQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:12 |
 | 110 | [No Good Reason](https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 1:48 |
 | 111 | [Crush](https://open.spotify.com/track/19ddrF8BsiVVYszpeWjb6y) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 3:46 |
 | 112 | [Morning Sex](https://open.spotify.com/track/4Vfs046cJ4foUV2mqB6vHU) | [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [iiiDrops](https://open.spotify.com/album/6McWou8VeXcVNGQVOiqhZd) | 3:31 |
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 141 | [Do Not Disturb](https://open.spotify.com/track/31yeukBk5aAtzOoayBHsvg) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [The Everlasting Wave](https://open.spotify.com/album/6AcXp7TeRyCNbyeNJSEMIL) | 3:56 |
 | 142 | [Wanna Come Thru](https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Wanna Come Thru](https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF) | 2:11 |
 | 143 | [Mr\. Neighbor](https://open.spotify.com/track/5k9f5oNVRSBdDoGa5W9toI) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:46 |
-| 144 | [Bet Up](https://open.spotify.com/track/46kj7wlaxNfNz4MpvD8l67) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Superstar Creature](https://open.spotify.com/album/6FaFi9FuUH3VoXDZzQl02N) | 2:07 |
-| 145 | [STORY OF GOD](https://open.spotify.com/track/1Fn2pTZSBYlmQEjphUZSRi) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 7:46 |
+| 144 | [STORY OF GOD](https://open.spotify.com/track/1Fn2pTZSBYlmQEjphUZSRi) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 7:46 |
+| 145 | [Bet Up](https://open.spotify.com/track/46kj7wlaxNfNz4MpvD8l67) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Superstar Creature](https://open.spotify.com/album/6FaFi9FuUH3VoXDZzQl02N) | 2:07 |
 | 146 | [All 4 You](https://open.spotify.com/track/19o5bkRX6QluR3JS2IlzWM) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Yuna](https://open.spotify.com/artist/0j0269uHEw3YV7Wa2nOz9z) | [Smyle \(Extended\)](https://open.spotify.com/album/6x7skQUXY1HKm5VpzcPEDV) | 4:35 |
 | 147 | [Poses](https://open.spotify.com/track/3vbwaRt6B0Xtcw12TkJjlk) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:33 |
 | 148 | [Pretty Boy](https://open.spotify.com/track/1E95q68SQxX1dDzYGjHJ1s) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 3:09 |
@@ -199,8 +199,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 189 | [Compromise](https://open.spotify.com/track/6mRGj9VfMKhZ5dz2COmIyy) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Stock Child Wonder](https://open.spotify.com/album/5aj5iLqyaw0TiahHhpZoCh) | 3:16 |
 | 190 | [Hillside \(feat\. Savannah Ré\)](https://open.spotify.com/track/5uPoubTLkvcCMy7VfqZZPi) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2), [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Hillside \(feat\. Savannah Ré\)](https://open.spotify.com/album/08yGUFP2pDEh8gqeUqPY4W) | 2:39 |
 | 191 | [Sunflower](https://open.spotify.com/track/7DiWZv7tJAap0oWz8yMQpT) | [ONY9RMX](https://open.spotify.com/artist/087ZBrJyDhTGPwPsOFXXqj) | [Ultimate Bass Boosted: Slap House Remixes, Vol\. 2](https://open.spotify.com/album/77IPG1tOh4LYFhXqVxmukP) | 2:40 |
-| 192 | [Break You Off](https://open.spotify.com/track/5nvA0Ik12GYl9MABxACVAh) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [.WAV Theory](https://open.spotify.com/album/0529AOnY3HoL4NvAf2kthD) | 3:23 |
-| 193 | [Japon](https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Japon](https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv) | 2:50 |
+| 192 | [Japon](https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Japon](https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv) | 2:50 |
+| 193 | [Break You Off](https://open.spotify.com/track/5nvA0Ik12GYl9MABxACVAh) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [.WAV Theory](https://open.spotify.com/album/0529AOnY3HoL4NvAf2kthD) | 3:23 |
 | 194 | [Change Up](https://open.spotify.com/track/61jLXGxuebyVnYYtCeGiOz) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Stock Child Wonder](https://open.spotify.com/album/5aj5iLqyaw0TiahHhpZoCh) | 2:50 |
 | 195 | [When the Sun Explodes](https://open.spotify.com/track/45oLAhCJCsFobTwwii4tE7) | [Very Nice Person](https://open.spotify.com/artist/3yzsPSJ1D0m1ugX9U2yL0P) | [For the Birds: The Birdsong Project, Vol\. II](https://open.spotify.com/album/7veKa3oMfQmPObHDsb2IPJ) | 2:30 |
 | 196 | [The Mountain \- intro](https://open.spotify.com/track/29vqEyGLMingG3hPFMXEuC) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Mount Crystal](https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h) | 2:36 |
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 203 | [In the Dark \(Originally Performed by Swae Lee & Jhené Aiko\) \[Instrumental Version\]](https://open.spotify.com/track/3mBIGDPh57hQiy0tkFPe6G) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 46](https://open.spotify.com/album/7gSaZP3yShQTGSN8vXXZNv) | 3:05 |
 | 204 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `AcPN9AAAAADBvjcLLqgt+BnI2yROTqeP`
+Snapshot ID: `AcPTlAAAAACmiq8QFyTe1Yg6tGNrezgm`

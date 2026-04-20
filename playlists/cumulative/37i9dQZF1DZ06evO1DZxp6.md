@@ -4,7 +4,7 @@
 
 > This is Julieta Venegas\. The essential tracks, all in one playlist.
 
-85 songs - 4 hr 51 min
+86 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Dos Soledades](https://open.spotify.com/track/5P9dzJUu1kWSXVQmwkGPdA) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/2nK2blM70FFCF1PMY22S1Q) | 3:10 | 2023-12-18 | 2024-03-25 |
 | [El Dolor del Micro \(feat\. Julieta Venegas\)](https://open.spotify.com/track/2hHpxsF9kvHNugYXt9cH8x) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Vol\. II](https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x) | 4:35 | 2023-12-18 |  |
 | [El Ladrón \(with Julieta Venegas\)](https://open.spotify.com/track/7oRifTMLmeNCnTGtDH7KLV) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Sonora Santanera en Su 60 Aniversario](https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U) | 3:02 | 2023-12-18 |  |
-| [El Paraíso](https://open.spotify.com/track/1kO1G5dPrh8yPae30U4ZR1) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Qomunidad](https://open.spotify.com/album/5GcnPjQOOr4qjNZc6Z4Rb8) | 3:51 | 2026-01-15 |  |
+| [El Paraíso](https://open.spotify.com/track/1kO1G5dPrh8yPae30U4ZR1) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Qomunidad](https://open.spotify.com/album/5GcnPjQOOr4qjNZc6Z4Rb8) | 3:51 | 2026-01-15 | 2026-04-20 |
 | [El Paraíso](https://open.spotify.com/track/6ep0QDcZlwNAxT5iLv40Ew) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Qomunidad](https://open.spotify.com/album/46UM2myH9VM6Y2NKeWtBBG) | 3:51 | 2024-10-09 | 2025-11-28 |
 | [El Presente \(Unplugged\) \(En Vivo\)](https://open.spotify.com/track/713yeila63kevWr0gqwTxO) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 3:40 | 2023-12-18 |  |
 | [El Triste](https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Un Tributo](https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ) | 4:17 | 2023-12-18 |  |
@@ -62,6 +62,7 @@
 | [Mírame Bien](https://open.spotify.com/track/3wNtT8VM9QLIk4NklKDCbQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:36 | 2024-07-19 |  |
 | [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/7GO6pBFbieZ30NjGIp2LP5) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds) | 3:45 | 2023-12-18 |  |
 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:54 | 2023-12-18 |  |
+| [no queda nada ft\. Julieta Venegas](https://open.spotify.com/track/0A6PRSdC2aCbjSClWyp88x) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [HOSHI](https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT) | 3:47 | 2026-04-20 |  |
 | [Oleada](https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 | 2023-12-18 |  |
 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mar Dulce](https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa) | 3:38 | 2023-12-18 |  |
 | [Perfecta \- Versión con Julieta Venegas](https://open.spotify.com/track/4Ol6lxivp7pR7voovl8vKI) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El Disco de Tu Corazón](https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe) | 3:45 | 2023-12-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,389 likes - 188 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,390 likes - 188 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,11 +163,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 153 | [Run Into You](https://open.spotify.com/track/0LM43mK6NmlaO5MIKy5oBr) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Run Into You](https://open.spotify.com/album/2JWPHdT4xQktzBfOuW6t0R) | 2:55 |
 | 154 | [The Parking Lot](https://open.spotify.com/track/2VqSRyFEZkQpdcLK3bTuto) | [Score from the Motion Picture](https://open.spotify.com/artist/5aO9zrQvLB71hp1wtrIW2n) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 4:45 |
 | 155 | [No Bad Vibes](https://open.spotify.com/track/0TbvVq6TBqyDcnUQy8eJk5) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Communication](https://open.spotify.com/album/3ED7XEg0vYJlynJMpbUTSi) | 3:31 |
-| 156 | [I Could Never](https://open.spotify.com/track/0ynkaEihHTfzLS9qRL9Eiw) | [Keljet](https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g), [Bridesmen](https://open.spotify.com/artist/6R3k2rJBwhOkDpd7zhh3uM) | [I Could Never](https://open.spotify.com/album/0CutQ6jJHpuTcxhVL89i8X) | 3:27 |
-| 157 | [Spring Break](https://open.spotify.com/track/29h7ks5IrRhTqU526S4h5O) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Worth Your Wild EP](https://open.spotify.com/album/44rmDQS0jLvhACOXnfF8RK) | 3:16 |
-| 158 | [Good Time People](https://open.spotify.com/track/5wpQAyoihCL3cOVaza1rIp) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Good Time People](https://open.spotify.com/album/7f46jaoVkkKNBNeyyGn2e4) | 3:47 |
-| 159 | [Fake Smile](https://open.spotify.com/track/5zwzBgzOdQ3HaTHpBFzFo2) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/7cHOGdyjoxS0Ou57ax4Fws) | 2:29 |
-| 160 | [AGAIN](https://open.spotify.com/track/7dfleX1KObfJQdDc4RUABd) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [LUCID DREAMS](https://open.spotify.com/album/5jIZEQP2E5YkW1Fp5vRNYj) | 2:29 |
+| 156 | [Spring Break](https://open.spotify.com/track/29h7ks5IrRhTqU526S4h5O) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Worth Your Wild EP](https://open.spotify.com/album/44rmDQS0jLvhACOXnfF8RK) | 3:16 |
+| 157 | [I Could Never](https://open.spotify.com/track/0ynkaEihHTfzLS9qRL9Eiw) | [Keljet](https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g), [Bridesmen](https://open.spotify.com/artist/6R3k2rJBwhOkDpd7zhh3uM) | [I Could Never](https://open.spotify.com/album/0CutQ6jJHpuTcxhVL89i8X) | 3:27 |
+| 158 | [AGAIN](https://open.spotify.com/track/7dfleX1KObfJQdDc4RUABd) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [LUCID DREAMS](https://open.spotify.com/album/5jIZEQP2E5YkW1Fp5vRNYj) | 2:29 |
+| 159 | [Good Time People](https://open.spotify.com/track/5wpQAyoihCL3cOVaza1rIp) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Good Time People](https://open.spotify.com/album/7f46jaoVkkKNBNeyyGn2e4) | 3:47 |
+| 160 | [Fake Smile](https://open.spotify.com/track/5zwzBgzOdQ3HaTHpBFzFo2) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/7cHOGdyjoxS0Ou57ax4Fws) | 2:29 |
 | 161 | [1991](https://open.spotify.com/track/1RAoTgX7utbegR8hZWGthA) | [Kat Graham](https://open.spotify.com/artist/4rPZIJpeNz7GBm2t8YhR7j) | [Roxbury Drive](https://open.spotify.com/album/1e0lSv5aE8x3wAuaFFvv6r) | 3:15 |
 | 162 | [All My Issues](https://open.spotify.com/track/0QEQmLonfSYWYmU6w2l8TD) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Excuse Me \(Deluxe\)](https://open.spotify.com/album/3CEWoLRhNHEtBcw1wmgWd8) | 3:16 |
 | 163 | [Chainmail](https://open.spotify.com/track/0JhS4sHLmNN0St0YgXLwjd) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Ur an Angel I’m Just Particles](https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93) | 2:46 |
@@ -181,8 +181,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 171 | [The Way It Felt To Love You](https://open.spotify.com/track/3fiMdp5V5W07qJQs29nZZU) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [To Fall Asleep](https://open.spotify.com/album/4zst0WAtcY1VwixfMox4jB) | 3:18 |
 | 172 | [Horizontal](https://open.spotify.com/track/6Sb9PMrcPxtImC7tli7ubJ) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:59 |
 | 173 | [Dinner](https://open.spotify.com/track/29BqG5QWNQ812jFontF5yJ) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Love, Victor: Season 3 \(Original Soundtrack\)](https://open.spotify.com/album/19xxnBkkYArMHavIT1c2Hr) | 2:53 |
-| 174 | [18](https://open.spotify.com/track/2HRtEshcLcLw0ghe2qxE2I) | [Nyssa Collins](https://open.spotify.com/artist/4aDJtzjSDS5Rl817geLEea) | [18](https://open.spotify.com/album/03iZOdrV6yQo3oaQDzsmFd) | 3:25 |
-| 175 | [chateau](https://open.spotify.com/track/58aMAhdMkN5OO4y9oRjd8E) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [star scum city](https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ) | 3:41 |
+| 174 | [chateau](https://open.spotify.com/track/58aMAhdMkN5OO4y9oRjd8E) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [star scum city](https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ) | 3:41 |
+| 175 | [18](https://open.spotify.com/track/2HRtEshcLcLw0ghe2qxE2I) | [Nyssa Collins](https://open.spotify.com/artist/4aDJtzjSDS5Rl817geLEea) | [18](https://open.spotify.com/album/03iZOdrV6yQo3oaQDzsmFd) | 3:25 |
 | 176 | [Get To Know You](https://open.spotify.com/track/7a9zJFrD6coK0js8mUstZI) | [Timomatic](https://open.spotify.com/artist/3jEg5HvT2cuJQDjwjZxTb0) | [Timomatic](https://open.spotify.com/album/2tbVb2SlU8ovbP2sx7CsSF) | 3:40 |
 | 177 | [Gagging For You](https://open.spotify.com/track/036coFgVsED857VDnMMuRW) | [Queens of the Universe](https://open.spotify.com/artist/3QSHpTssLhVDrExX1O22Js) | [Gagging For You](https://open.spotify.com/album/24WxSNj5eqgQDrKZ9WH8sI) | 2:05 |
 | 178 | [Going Down Tonight](https://open.spotify.com/track/7b1X67lWMeRBc4YlODBtgW) | [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [Going Down Tonight](https://open.spotify.com/album/4N5Hh3zfIpllkeZspmqh7s) | 2:28 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 187 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 188 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AcPN9AAAAABXisJ2/z3eKXvYp3AC/Q81`
+Snapshot ID: `AcPTlAAAAAC9KNSR6UgGfpn8dApaJsqX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 
 > This is Infinity Song\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,477 likes - 43 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,478 likes - 43 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 | 42 | [Dream Fighter](https://open.spotify.com/track/4cXDq7tCJoQppKfyOrx5T4) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 6:06 |
 | 43 | [Walking in Your Eternal Love](https://open.spotify.com/track/6SIfERtNKaRiinslahFDce) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 3:18 |
 
-Snapshot ID: `aeF4AAAAAADl2N7Vn12L0WaDTsLHfSry`
+Snapshot ID: `aeLJgAAAAABRWboq8IKMKkhIxdOFFUZG`

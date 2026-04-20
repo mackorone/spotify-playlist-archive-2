@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 295488,
+  "num_followers": 295524,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAABcUmi+yxzZyn+7TwYHcTWf",
+  "snapshot_id": "aeLJgAAAAACEJxpSwwvI/rukfzPvZsSX",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mama Said (Deluxe)",
         "url": "https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh"
       },
@@ -591,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
       },
       "artists": [
         {
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 230266,
-      "name": "Mr. Cab Driver",
-      "url": "https://open.spotify.com/track/1SPrdIUNZRehQbiravoPcB"
+      "duration_ms": 156866,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 268786,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/51fEz8VT1OlCYjU8ItAgQg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "Mr. Cab Driver",
+      "url": "https://open.spotify.com/track/1SPrdIUNZRehQbiravoPcB"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strut",
-        "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 382722,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/7ucAUu2oTX2P0xvcIwVSUg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 238226,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 382722,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/7ucAUu2oTX2P0xvcIwVSUg"
     },
     {
       "added_at": null,

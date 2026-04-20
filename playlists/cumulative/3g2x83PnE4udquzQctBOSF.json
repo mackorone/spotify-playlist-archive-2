@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Basement Flow",
+        "url": "https://open.spotify.com/album/45AnCVRrnATPXrtxIHJEDm"
+      },
+      "artists": [
+        {
+          "name": "Harper Lee",
+          "url": "https://open.spotify.com/artist/1lxJS48FLIAy0Vrft0DZ83"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290760,
+      "name": "Basement Flow",
+      "url": "https://open.spotify.com/track/0bQOL0RUxp5odSxvl4RVLt"
+    },
+    {
+      "album": {
         "name": "Bass Go Boom",
         "url": "https://open.spotify.com/album/4t1FInCRUjdO1iPSwUrBMG"
       },

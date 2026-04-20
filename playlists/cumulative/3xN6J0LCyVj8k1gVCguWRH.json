@@ -3325,6 +3325,24 @@
     },
     {
       "album": {
+        "name": "Ain't Enough",
+        "url": "https://open.spotify.com/album/32l8dyXExXYVf2P6l5aeej"
+      },
+      "artists": [
+        {
+          "name": "BLUU",
+          "url": "https://open.spotify.com/artist/4ZSg5WvhALYrqFpoyebpPc"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Ain't Enough",
+      "url": "https://open.spotify.com/track/5ofK3wDpquraUzzoxD6imV"
+    },
+    {
+      "album": {
         "name": "Ain't Like Me",
         "url": "https://open.spotify.com/album/2Hy47JrUhjOmezBIrpAXMF"
       },
@@ -6186,7 +6204,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 157831,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/1lREj8fkmpEwgpRR6JChfz"
@@ -12589,6 +12607,28 @@
     },
     {
       "album": {
+        "name": "Boots on Fire",
+        "url": "https://open.spotify.com/album/398AxjKIzGxvGLpOeI3RIF"
+      },
+      "artists": [
+        {
+          "name": "Rob-Sky and the Anthem",
+          "url": "https://open.spotify.com/artist/16mveV0fNJ1ejczvyW6dFR"
+        },
+        {
+          "name": "Skylar Wallace",
+          "url": "https://open.spotify.com/artist/4Hbwf2mCL7TPX2KcPdADt9"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191931,
+      "name": "Boots on Fire",
+      "url": "https://open.spotify.com/track/0npzYK1nkQAGJdRTSIrli6"
+    },
+    {
+      "album": {
         "name": "Bord de piscine",
         "url": "https://open.spotify.com/album/50tgQD85gZYNfnLlhuJuJu"
       },
@@ -16018,7 +16058,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 184000,
       "name": "CAPITULO 3",
       "url": "https://open.spotify.com/track/4d4Yn8sxrdWss0lrQN6aEN"
@@ -60949,6 +60989,24 @@
     },
     {
       "album": {
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/2RPs29zPc8WlwsKXGUO0pz"
+      },
+      "artists": [
+        {
+          "name": "wigi!",
+          "url": "https://open.spotify.com/artist/56wyLJzjhBfN9IwX7fBKAU"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157738,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/7mzV281D5QKOZ3zdOXickK"
+    },
+    {
+      "album": {
         "name": "Get Real",
         "url": "https://open.spotify.com/album/3Ty4Kx8fc1rcRRKytMVtEK"
       },
@@ -65596,7 +65654,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 204923,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/0Z9516qj9X7m5FK6vU8kdn"
@@ -67638,6 +67696,24 @@
       "duration_ms": 215172,
       "name": "Night Fire",
       "url": "https://open.spotify.com/track/1lKaKOHHWlbK4LKn8K8FkU"
+    },
+    {
+      "album": {
+        "name": "Rich Man",
+        "url": "https://open.spotify.com/album/65yYdjrgeoeSpaQxSy0eiX"
+      },
+      "artists": [
+        {
+          "name": "Loveless & Company",
+          "url": "https://open.spotify.com/artist/3NWdJllttu9ruc2PaTLFWV"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191316,
+      "name": "Night In The Country",
+      "url": "https://open.spotify.com/track/24NiZ5a30cLJnZuiK6XrwL"
     },
     {
       "album": {
@@ -87012,7 +87088,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 194037,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0ucqMKlJm3DNlAEqnidB8D"
@@ -106928,7 +107004,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 314418,
       "name": "We've Got It Goin' On",
       "url": "https://open.spotify.com/track/3zdMjtvZY5Rgnb8AWwoXek"
@@ -108766,7 +108842,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 164989,
       "name": "Whine for Me Baby",
       "url": "https://open.spotify.com/track/7FPDQLUrbCqWGguc09SQHZ"
@@ -109552,7 +109628,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 248158,
       "name": "Wild Wonder",
       "url": "https://open.spotify.com/track/0z3iDmWwLHrACk64hwADtZ"

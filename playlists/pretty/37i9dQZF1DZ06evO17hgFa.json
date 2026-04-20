@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 148974,
+  "num_followers": 148991,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAABhLGMWmX3tldzSERUTlQLN",
+  "snapshot_id": "aeLJgAAAAAAUSzo9IhU2EdYgph/mnRGW",
   "tracks": [
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 183066,
-      "name": "I Must Have That Man!",
-      "url": "https://open.spotify.com/track/00V6rYQ0nyE5KOLDMAlloC"
+      "duration_ms": 132160,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
     },
     {
       "added_at": null,
@@ -531,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+        "name": "The Blues Are Brewin'",
+        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
       },
       "artists": [
         {
           "name": "Billie Holiday",
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "John Simmons & His Orchestra",
+          "url": "https://open.spotify.com/artist/0VQ5tyh73r82WVl9Pv9GGa"
         }
       ],
-      "duration_ms": 173920,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
+      "duration_ms": 193800,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4XmnvVsJcKk2fy3jX5Hl6e"
     },
     {
       "added_at": null,
@@ -556,9 +560,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
+      "duration_ms": 183066,
+      "name": "I Must Have That Man!",
+      "url": "https://open.spotify.com/track/00V6rYQ0nyE5KOLDMAlloC"
     },
     {
       "added_at": null,
@@ -579,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Are Brewin'",
-        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
       "artists": [
         {
           "name": "Billie Holiday",
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "John Simmons & His Orchestra",
-          "url": "https://open.spotify.com/artist/0VQ5tyh73r82WVl9Pv9GGa"
         }
       ],
-      "duration_ms": 193800,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/4XmnvVsJcKk2fy3jX5Hl6e"
+      "duration_ms": 173920,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Musical Romance",
-        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
+        "name": "The Blues Are Brewin'",
+        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
       },
       "artists": [
         {
@@ -744,13 +744,13 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         },
         {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+          "name": "Billy Kyle and His Trio",
+          "url": "https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q"
         }
       ],
-      "duration_ms": 179640,
-      "name": "Foolin' Myself (with Teddy Wilson & His Orchestra)",
-      "url": "https://open.spotify.com/track/3nIpFMbuhstntUZT4FpuPG"
+      "duration_ms": 193053,
+      "name": "Baby, I Don't Cry Over You",
+      "url": "https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Are Brewin'",
-        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
+        "name": "A Musical Romance",
+        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
       "artists": [
         {
@@ -780,13 +780,13 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         },
         {
-          "name": "Billy Kyle and His Trio",
-          "url": "https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q"
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
         }
       ],
-      "duration_ms": 193053,
-      "name": "Baby, I Don't Cry Over You",
-      "url": "https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS"
+      "duration_ms": 179640,
+      "name": "Foolin' Myself (with Teddy Wilson & His Orchestra)",
+      "url": "https://open.spotify.com/track/3nIpFMbuhstntUZT4FpuPG"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,267 likes - 110 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,277 likes - 110 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 109 | [Quién Lo Diría?](https://open.spotify.com/track/1ck0WwtC0CEBf4FG4wok2H) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Quién Lo Diría?](https://open.spotify.com/album/5hDocz1GdZqJweE11SUXLD) | 3:38 |
 | 110 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 |
 
-Snapshot ID: `AAAAAKVRnlpXYQhmUw5Hxv42uCM3OF8S`
+Snapshot ID: `AAAAAHCyawz3ooljbM+WAN4F9ljim2+N`

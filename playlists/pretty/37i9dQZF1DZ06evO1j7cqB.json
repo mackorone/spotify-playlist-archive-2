@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11463,
+  "num_followers": 11464,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAAGWDQGlIboWqFtg9hyh8DX",
+  "snapshot_id": "aeLJgAAAAABu1HZ/RU/SUIYA2UNnzRDr",
   "tracks": [
     {
       "added_at": null,
@@ -710,11 +710,15 @@
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
         }
       ],
-      "duration_ms": 160069,
-      "name": "Forgiveness Takes an Age",
-      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
+      "duration_ms": 190186,
+      "name": "Old Tom Bombadil (feat. Rufus Wainwright)",
+      "url": "https://open.spotify.com/track/18jteTWXqIdaHOkfLjHWWT"
     },
     {
       "added_at": null,
@@ -778,15 +782,11 @@
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
         }
       ],
-      "duration_ms": 190186,
-      "name": "Old Tom Bombadil (feat. Rufus Wainwright)",
-      "url": "https://open.spotify.com/track/18jteTWXqIdaHOkfLjHWWT"
+      "duration_ms": 160069,
+      "name": "Forgiveness Takes an Age",
+      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
     },
     {
       "added_at": null,
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 270440,
-      "name": "White Roses of Scotland",
-      "url": "https://open.spotify.com/track/7e2Js9jadB6eTuNesmeIxh"
+      "duration_ms": 228600,
+      "name": "Murtagh's Oath",
+      "url": "https://open.spotify.com/track/5twcdm2xzUzGAW7VyUycaV"
     }
   ],
   "unique_name": "This Is Bear McCreary",

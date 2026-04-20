@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,663,815 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,663,844 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 99 | [Trust](https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Nothing Serious](https://open.spotify.com/album/5sjpnIdONG9n6c6ipjpAFo) | 5:25 |
 | 100 | [It's In The Middle Of The Night](https://open.spotify.com/track/7yRKzNvEQz9cngBQhjJp7L) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Jazz at Night](https://open.spotify.com/album/7cjqOoWOgTfdrmTeUjvh4u) | 3:39 |
 
-Snapshot ID: `AAAAAIACEPWW3LQszbVZpw+w3gDApj7B`
+Snapshot ID: `AAAAAHrjx8LQOMIJ/GyU+RpgeuO9qP1/`

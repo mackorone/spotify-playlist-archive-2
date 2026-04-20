@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 59962,
+  "num_followers": 59970,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAA3w307yyK2k6WYk8pLYbF3tGumwftk",
+  "snapshot_id": "AAA3y+x1+iSwClwAGWqLahLbYEv2Ge94",
   "tracks": [
     {
       "added_at": "2026-04-18 08:49:40",
@@ -139,6 +139,22 @@
       "duration_ms": 190263,
       "name": "Race",
       "url": "https://open.spotify.com/track/4KfJAoyuQsyhtw6SC1LtRk"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
+        "name": "Let The Rain Fall Down On Me",
+        "url": "https://open.spotify.com/album/5mXDtpNeSGO81ZsG1FzGgl"
+      },
+      "artists": [
+        {
+          "name": "Mono Mochi",
+          "url": "https://open.spotify.com/artist/590oTtci51zp4b3VAFRJtF"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Let The Rain Fall Down On Me",
+      "url": "https://open.spotify.com/track/6p2jfRjypZtXbsDBe0QRId"
     },
     {
       "added_at": "2026-04-18 08:49:40",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2026-04-18 08:49:40",
       "album": {
-        "name": "Let The Rain Fall Down On Me",
-        "url": "https://open.spotify.com/album/5mXDtpNeSGO81ZsG1FzGgl"
-      },
-      "artists": [
-        {
-          "name": "Mono Mochi",
-          "url": "https://open.spotify.com/artist/590oTtci51zp4b3VAFRJtF"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Let The Rain Fall Down On Me",
-      "url": "https://open.spotify.com/track/6p2jfRjypZtXbsDBe0QRId"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
         "name": "icecream",
         "url": "https://open.spotify.com/album/5Po4vHcEvcKP17j23ReHAa"
       },
@@ -1547,38 +1547,6 @@
     {
       "added_at": "2026-04-18 08:49:40",
       "album": {
-        "name": "THESE WAVES",
-        "url": "https://open.spotify.com/album/49O8Uay9aHQ7dp1FFEye8b"
-      },
-      "artists": [
-        {
-          "name": "e4444e",
-          "url": "https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC"
-        }
-      ],
-      "duration_ms": 135448,
-      "name": "bluewalking",
-      "url": "https://open.spotify.com/track/1p1pMEntoFTCFB2Qp8GaRk"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
-        "name": "Corner Tactics",
-        "url": "https://open.spotify.com/album/0wSePe6lKac1flJG4YSZdx"
-      },
-      "artists": [
-        {
-          "name": "Billiam",
-          "url": "https://open.spotify.com/artist/0JhlLn0n971eKUlSavlYMh"
-        }
-      ],
-      "duration_ms": 68346,
-      "name": "Low Testosterone",
-      "url": "https://open.spotify.com/track/14pSclx17YuVGjobl1LBbT"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/3ko7fb469oMc3NpppiHFZA"
       },
@@ -1711,6 +1679,38 @@
       "duration_ms": 222000,
       "name": "DVD Region 3",
       "url": "https://open.spotify.com/track/3AL9KY7o1LNpQxXM3viMMr"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
+        "name": "THESE WAVES",
+        "url": "https://open.spotify.com/album/49O8Uay9aHQ7dp1FFEye8b"
+      },
+      "artists": [
+        {
+          "name": "e4444e",
+          "url": "https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC"
+        }
+      ],
+      "duration_ms": 135448,
+      "name": "bluewalking",
+      "url": "https://open.spotify.com/track/1p1pMEntoFTCFB2Qp8GaRk"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
+        "name": "Corner Tactics",
+        "url": "https://open.spotify.com/album/0wSePe6lKac1flJG4YSZdx"
+      },
+      "artists": [
+        {
+          "name": "Billiam",
+          "url": "https://open.spotify.com/artist/0JhlLn0n971eKUlSavlYMh"
+        }
+      ],
+      "duration_ms": 68346,
+      "name": "Low Testosterone",
+      "url": "https://open.spotify.com/track/14pSclx17YuVGjobl1LBbT"
     },
     {
       "added_at": "2026-04-18 08:49:40",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2026-04-18 08:49:40",
       "album": {
-        "name": "Summer Girls",
-        "url": "https://open.spotify.com/album/31G6QxZuAYCzRmqDesCYVI"
-      },
-      "artists": [
-        {
-          "name": "Bad Stuff",
-          "url": "https://open.spotify.com/artist/33ggHjWXdcF5xLLEvUMsNh"
-        }
-      ],
-      "duration_ms": 290156,
-      "name": "Summer Girls",
-      "url": "https://open.spotify.com/track/6hhUi6GNquA6PO1njClFpo"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
         "name": "Take it baby",
         "url": "https://open.spotify.com/album/1N4ZbWT3qJ62hnVFvukwlP"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 285608,
       "name": "\u03a4\u03ce\u03c1\u03b1 \u0394\u03b5 \u039c\u03b5 \u039d\u03bf\u03b9\u03ac\u03b6\u03b5\u03b9",
       "url": "https://open.spotify.com/track/0UYbbpSwzYjOI3QA1CqpBq"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
+        "name": "Summer Girls",
+        "url": "https://open.spotify.com/album/31G6QxZuAYCzRmqDesCYVI"
+      },
+      "artists": [
+        {
+          "name": "Bad Stuff",
+          "url": "https://open.spotify.com/artist/33ggHjWXdcF5xLLEvUMsNh"
+        }
+      ],
+      "duration_ms": 290156,
+      "name": "Summer Girls",
+      "url": "https://open.spotify.com/track/6hhUi6GNquA6PO1njClFpo"
     },
     {
       "added_at": "2026-04-18 08:49:40",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2026-04-18 08:49:40",
       "album": {
+        "name": "Pet Song",
+        "url": "https://open.spotify.com/album/0bEP1pVgfhxVN45avEII1g"
+      },
+      "artists": [
+        {
+          "name": "Shortout Kid",
+          "url": "https://open.spotify.com/artist/2JNX3COcqJpBKKf6YDlo9n"
+        }
+      ],
+      "duration_ms": 224297,
+      "name": "Pet Song",
+      "url": "https://open.spotify.com/track/4F0t5cHwrvsbj6WC2LgZi6"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
         "name": "IN YOUR HEAD",
         "url": "https://open.spotify.com/album/1H6H5DAERqGUi39TBgYIMZ"
       },
@@ -2327,54 +2343,6 @@
       "duration_ms": 196493,
       "name": "Sex Body",
       "url": "https://open.spotify.com/track/1cZFnkSslbAkQslZbeyQ2d"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
-        "name": "Coq Au Vin",
-        "url": "https://open.spotify.com/album/2pcI9A6Z9kMclj5dCqmymY"
-      },
-      "artists": [
-        {
-          "name": "Junior Pro",
-          "url": "https://open.spotify.com/artist/2pl5emintULdgL1EfNIhA9"
-        }
-      ],
-      "duration_ms": 190181,
-      "name": "Coq Au Vin",
-      "url": "https://open.spotify.com/track/5KQ3e35oFCMEF6uo9OC87r"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
-        "name": "Bem Querer",
-        "url": "https://open.spotify.com/album/7K0snFwXckNidBggEm6HZa"
-      },
-      "artists": [
-        {
-          "name": "Curi\u00f3 Curi\u00f3",
-          "url": "https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a"
-        }
-      ],
-      "duration_ms": 221672,
-      "name": "Bem Querer",
-      "url": "https://open.spotify.com/track/1Fuxx2SM49Br613ri3I0h6"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
-        "name": "Conclus\u00e3o",
-        "url": "https://open.spotify.com/album/558KhhJ6MhkqHlgiB4IoAc"
-      },
-      "artists": [
-        {
-          "name": "Lau Ro",
-          "url": "https://open.spotify.com/artist/541ER2icL7JZDTQ2SeiOGJ"
-        }
-      ],
-      "duration_ms": 222160,
-      "name": "Conclus\u00e3o",
-      "url": "https://open.spotify.com/track/4edMM3tBl3WFKA3z79SfJt"
     },
     {
       "added_at": "2026-04-18 08:49:40",
@@ -2455,6 +2423,54 @@
       "duration_ms": 169945,
       "name": "Spazzatura (Italo Disco)",
       "url": "https://open.spotify.com/track/3T7dcfT2PMwybgLexpQg6V"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
+        "name": "Coq Au Vin",
+        "url": "https://open.spotify.com/album/2pcI9A6Z9kMclj5dCqmymY"
+      },
+      "artists": [
+        {
+          "name": "Junior Pro",
+          "url": "https://open.spotify.com/artist/2pl5emintULdgL1EfNIhA9"
+        }
+      ],
+      "duration_ms": 190181,
+      "name": "Coq Au Vin",
+      "url": "https://open.spotify.com/track/5KQ3e35oFCMEF6uo9OC87r"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
+        "name": "Bem Querer",
+        "url": "https://open.spotify.com/album/7K0snFwXckNidBggEm6HZa"
+      },
+      "artists": [
+        {
+          "name": "Curi\u00f3 Curi\u00f3",
+          "url": "https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a"
+        }
+      ],
+      "duration_ms": 221672,
+      "name": "Bem Querer",
+      "url": "https://open.spotify.com/track/1Fuxx2SM49Br613ri3I0h6"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
+        "name": "Conclus\u00e3o",
+        "url": "https://open.spotify.com/album/558KhhJ6MhkqHlgiB4IoAc"
+      },
+      "artists": [
+        {
+          "name": "Lau Ro",
+          "url": "https://open.spotify.com/artist/541ER2icL7JZDTQ2SeiOGJ"
+        }
+      ],
+      "duration_ms": 222160,
+      "name": "Conclus\u00e3o",
+      "url": "https://open.spotify.com/track/4edMM3tBl3WFKA3z79SfJt"
     },
     {
       "added_at": "2026-04-18 08:49:40",
@@ -3015,22 +3031,6 @@
       "duration_ms": 208709,
       "name": "J'ai envie d'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/09vjz9TmQH5TltdCXt6Hug"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
-        "name": "Pet Song",
-        "url": "https://open.spotify.com/album/0bEP1pVgfhxVN45avEII1g"
-      },
-      "artists": [
-        {
-          "name": "Shortout Kid",
-          "url": "https://open.spotify.com/artist/2JNX3COcqJpBKKf6YDlo9n"
-        }
-      ],
-      "duration_ms": 224297,
-      "name": "Pet Song",
-      "url": "https://open.spotify.com/track/4F0t5cHwrvsbj6WC2LgZi6"
     },
     {
       "added_at": "2026-04-18 08:49:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Jovem Dionísio
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,975 likes - 66 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,837 likes - 66 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

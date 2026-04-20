@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 55034,
+  "num_followers": 55043,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAABuiufe8N1h1tpFs8ysBVWX",
+  "snapshot_id": "aeLJgAAAAABi+tvjzaeDYoD234HPNv8J",
   "tracks": [
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "House of the Rising Sun",
-        "url": "https://open.spotify.com/album/2JnelnjkFZKzZQUwZFkcD1"
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 188281,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/3a8mo25v74BMUOJ1IDUEBL"
+      "duration_ms": 180482,
+      "name": "Let Light Be Light",
+      "url": "https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+        "name": "House of the Rising Sun",
+        "url": "https://open.spotify.com/album/2JnelnjkFZKzZQUwZFkcD1"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 180482,
-      "name": "Let Light Be Light",
-      "url": "https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB"
+      "duration_ms": 188281,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/3a8mo25v74BMUOJ1IDUEBL"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 34905,
+  "num_followers": 34910,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAAKSRnHnDhtJBfyCtpwOb4h",
+  "snapshot_id": "aeLJgAAAAAAMN/1S+HJE39ZnO/Imdxlp",
   "tracks": [
     {
       "added_at": null,
@@ -111,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parker McCollum (The Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
+        "name": "Parker McCollum",
+        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 208733,
-      "name": "Montgomery County",
-      "url": "https://open.spotify.com/track/5oMa8BhzPaTqdPJ0E9rCRm"
+      "duration_ms": 197080,
+      "name": "Killin\u2019 Me",
+      "url": "https://open.spotify.com/track/2IRSpYsVphI0rZz93eqjrL"
     },
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parker McCollum",
-        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
+        "name": "Parker McCollum (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 197080,
-      "name": "Killin\u2019 Me",
-      "url": "https://open.spotify.com/track/2IRSpYsVphI0rZz93eqjrL"
+      "duration_ms": 208733,
+      "name": "Montgomery County",
+      "url": "https://open.spotify.com/track/5oMa8BhzPaTqdPJ0E9rCRm"
     },
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Limestone Kid",
-        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Meet You in the Middle",
-      "url": "https://open.spotify.com/track/392YwrshH8yjvHKvNyChD5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parker McCollum",
         "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 208946,
       "name": "Solid Country Gold",
       "url": "https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Limestone Kid",
+        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Meet You in the Middle",
+      "url": "https://open.spotify.com/track/392YwrshH8yjvHKvNyChD5"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like A Cowboy",
-        "url": "https://open.spotify.com/album/6orV3KooroY8VkXv7YyZrU"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 226437,
-      "name": "Like A Cowboy",
-      "url": "https://open.spotify.com/track/13bXmY0acm51KkgEdhCm1n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parker McCollum",
         "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 167386,
       "name": "Big Sky",
       "url": "https://open.spotify.com/track/5mubTVM26njGEWxNd5J2Sp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like A Cowboy",
+        "url": "https://open.spotify.com/album/6orV3KooroY8VkXv7YyZrU"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 226437,
+      "name": "Like A Cowboy",
+      "url": "https://open.spotify.com/track/13bXmY0acm51KkgEdhCm1n"
     },
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Parker McCollum",
+        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 311666,
+      "name": "My Blue",
+      "url": "https://open.spotify.com/track/18i60D5UgcVUjTPzZdQmPM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
         "url": "https://open.spotify.com/album/4cZTfhwa23rh3wtYhfGX78"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 200773,
       "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
       "url": "https://open.spotify.com/track/6jyLcUzl4HwCdtsTe0RiGl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parker McCollum",
-        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 311666,
-      "name": "My Blue",
-      "url": "https://open.spotify.com/track/18i60D5UgcVUjTPzZdQmPM"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Probably Wrong",
-        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 201573,
-      "name": "Misunderstood",
-      "url": "https://open.spotify.com/track/4Ojm1pLLjRWdYqIv8boIFw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parker McCollum",
         "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 285680,
       "name": "Hope That I\u2019m Enough",
       "url": "https://open.spotify.com/track/0UiRMlvrPJKKM4FCsoFDAf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Probably Wrong",
+        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 201573,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/4Ojm1pLLjRWdYqIv8boIFw"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 226453,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX"
+      "duration_ms": 246466,
+      "name": "Galveston Bay",
+      "url": "https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 246466,
-      "name": "Galveston Bay",
-      "url": "https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI"
+      "duration_ms": 226453,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX"
     },
     {
       "added_at": null,

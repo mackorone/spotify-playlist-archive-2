@@ -1879,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "15th Season",
+        "url": "https://open.spotify.com/album/7yKGGrHaKCKAyGQDS8obhI"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "15th Season",
+      "url": "https://open.spotify.com/track/2aKoH0vLoRJK8NFt7NWiXC"
+    },
+    {
+      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/52WFtZNiJmDRxWHzEYYYnP"
       },
@@ -9464,7 +9482,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 295007,
       "name": "AE",
       "url": "https://open.spotify.com/track/1JPbaf6KZmhKVWBuJVGZUa"
@@ -23549,6 +23567,24 @@
     },
     {
       "album": {
+        "name": "We Are All Trying Here (Original Soundtrack) Part.1",
+        "url": "https://open.spotify.com/album/1vuyFbNIp8V2MprNjev7Dz"
+      },
+      "artists": [
+        {
+          "name": "Kim Min Seok (MeloMance)",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Be with U",
+      "url": "https://open.spotify.com/track/0BSMFWQxVWlFG4dtw7QVpx"
+    },
+    {
+      "album": {
         "name": "Be with you (GyeongseoYeji x Jeon Gunho)",
         "url": "https://open.spotify.com/album/1dCVR90sqAASghJP2ElQhs"
       },
@@ -25962,6 +25998,24 @@
       "duration_ms": 173520,
       "name": "behind the moon",
       "url": "https://open.spotify.com/track/3sDjhKSbqSsefnjI2jTEem"
+    },
+    {
+      "album": {
+        "name": "Perfect Crown OST Part.4",
+        "url": "https://open.spotify.com/album/2i5ST1LBpOw8zpw5Q4Ndok"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Behind The Shine",
+      "url": "https://open.spotify.com/track/2MoKB0yw4yerLvvfMQgeAe"
     },
     {
       "album": {
@@ -72159,6 +72213,24 @@
     },
     {
       "album": {
+        "name": "Everyone Knows But.. You",
+        "url": "https://open.spotify.com/album/0ZcgkhQLSViVvTNCLx516W"
+      },
+      "artists": [
+        {
+          "name": "Kim Siwon",
+          "url": "https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134745,
+      "name": "Everyone Knows But.. You",
+      "url": "https://open.spotify.com/track/6Ja3JoWj0UZdwZc5Oy8A2J"
+    },
+    {
+      "album": {
         "name": "Beautiful Now (Original Television Soundtrack) Pt. 12",
         "url": "https://open.spotify.com/album/1b70IFIjohDPJteZfWqT08"
       },
@@ -91456,7 +91528,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 218000,
       "name": "Good Day (Feat. Jay Park, 1iL)",
       "url": "https://open.spotify.com/track/4lveRzAWbl6pNLITlfiW9A"
@@ -94314,6 +94386,24 @@
       "duration_ms": 203423,
       "name": "Green Love",
       "url": "https://open.spotify.com/track/3YLdgtcSs6g8U83L6dY09X"
+    },
+    {
+      "album": {
+        "name": "Green Mango",
+        "url": "https://open.spotify.com/album/52TzRhG6P7aq24ZHCsKgrf"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Green Mango",
+      "url": "https://open.spotify.com/track/7HI3dV26p9W8S19RwwCIzc"
     },
     {
       "album": {
@@ -131344,7 +131434,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 176000,
       "name": "KILLA (Face the other me)",
       "url": "https://open.spotify.com/track/38LzWFA6AtLVoln4d4SI2S"
@@ -138988,7 +139078,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 216562,
       "name": "Like a Bird, Like a Fish",
       "url": "https://open.spotify.com/track/4xpfEYzoPiUC5nO5swt9bk"
@@ -142184,7 +142274,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 209910,
       "name": "Logout",
       "url": "https://open.spotify.com/track/702jjsTw6kPl8wox04T9Me"
@@ -146083,6 +146173,24 @@
     },
     {
       "album": {
+        "name": "LOVE FOUND ME",
+        "url": "https://open.spotify.com/album/3GIt6ZZCE9Wqt7UyhJtoTG"
+      },
+      "artists": [
+        {
+          "name": "Ashatree",
+          "url": "https://open.spotify.com/artist/1iFLqsWnASjUPBOD0sr8Up"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263340,
+      "name": "LOVE FOUND ME",
+      "url": "https://open.spotify.com/track/27qfIySSaLAhMCwZ5yqpOL"
+    },
+    {
+      "album": {
         "name": "love four cuts",
         "url": "https://open.spotify.com/album/4aCo2Oxxql2zalKV1ggnrF"
       },
@@ -149974,6 +150082,24 @@
       "duration_ms": 211220,
       "name": "love&broken",
       "url": "https://open.spotify.com/track/1PbAYHhbyhqPXzZvEs3bZZ"
+    },
+    {
+      "album": {
+        "name": "Love's Greeting 2026",
+        "url": "https://open.spotify.com/album/71nXTqTBD8pQlsKqD1g3UQ"
+      },
+      "artists": [
+        {
+          "name": "Nam Gyu ri",
+          "url": "https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Love's Greeting 2026",
+      "url": "https://open.spotify.com/track/6KKhhZJUvGedqS91kP7Tcj"
     },
     {
       "album": {
@@ -155380,6 +155506,24 @@
       "duration_ms": 200893,
       "name": "Maybe Love (Feat. Moon Byul of MAMAMOO)",
       "url": "https://open.spotify.com/track/2e9FxFUXA7aMG83FbtKGOv"
+    },
+    {
+      "album": {
+        "name": "Maybe Okay",
+        "url": "https://open.spotify.com/album/62eRlfMDaG6jb0vdeSVSgw"
+      },
+      "artists": [
+        {
+          "name": "Jang HeeWon",
+          "url": "https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Maybe Okay",
+      "url": "https://open.spotify.com/track/3yaog9HA9UgGjDYrg5MtEP"
     },
     {
       "album": {
@@ -161212,6 +161356,24 @@
       "duration_ms": 170653,
       "name": "Mono (Feat. skaiwater)",
       "url": "https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g"
+    },
+    {
+      "album": {
+        "name": "mono thinking.",
+        "url": "https://open.spotify.com/album/1JyBM7Y6TaqJfQUICNkOjs"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182891,
+      "name": "mono thinking.",
+      "url": "https://open.spotify.com/track/6zYk8rs3sEanHGBE1Q3lTZ"
     },
     {
       "album": {
@@ -174799,6 +174961,24 @@
     },
     {
       "album": {
+        "name": "Nothing Between Us",
+        "url": "https://open.spotify.com/album/4HUe5YyRU0HUGV4ZY2w2Ib"
+      },
+      "artists": [
+        {
+          "name": "Monday Kiz",
+          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207186,
+      "name": "Nothing Between Us",
+      "url": "https://open.spotify.com/track/4ChffXjuDTe82Gau2xzgiN"
+    },
+    {
+      "album": {
         "name": "Letters with notes",
         "url": "https://open.spotify.com/album/5eOVVp7IQsGYgYQsVKn74P"
       },
@@ -176544,7 +176724,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 164263,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/43IC6Wrjbq84VWE0pHjmu9"
@@ -226864,7 +227044,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 188136,
       "name": "stepdaad",
       "url": "https://open.spotify.com/track/1wpGZ1llJegTKBY33KN0h9"
@@ -240824,7 +241004,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 133980,
       "name": "The Difference Between Galbi Jjim and Jjim Galbi",
       "url": "https://open.spotify.com/track/5NGnbdkvXUvDo2dHC5QlSs"
@@ -244494,7 +244674,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 167000,
       "name": "The Show",
       "url": "https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR"
@@ -265174,7 +265354,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 183645,
       "name": "we don't go to bed tonight",
       "url": "https://open.spotify.com/track/4YYLKkdYHTiqHLuwLE2Bnl"
@@ -268624,7 +268804,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 130000,
       "name": "What's a girl to do",
       "url": "https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW"
@@ -276186,6 +276366,28 @@
       "duration_ms": 189000,
       "name": "With You",
       "url": "https://open.spotify.com/track/1x6WUoLbisdDYtJje4bFBN"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0BZvg9IGUoW11JIbOycQeM"
+      },
+      "artists": [
+        {
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        },
+        {
+          "name": "sido",
+          "url": "https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/63KtXm5kjHE6Y1c5TeSvT1"
     },
     {
       "album": {

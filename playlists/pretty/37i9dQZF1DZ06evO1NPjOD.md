@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,805 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,807 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 45 | [Three Point Stance \(feat\. City Girls & Megan Thee Stallion\)](https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Three Point Stance \(feat\. City Girls & Megan Thee Stallion\)](https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly) | 3:22 |
 | 46 | [Panties An Bra](https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 1:54 |
 | 47 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 |
-| 48 | [4 Da Moment \(feat\. City Girls\)](https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:22 |
-| 49 | [4 1 Nite](https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA) | [Mike Smiff](https://open.spotify.com/artist/7cothdI1W9TGQXdnzyqXmH), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [4 1 Nite](https://open.spotify.com/album/0ZmKE5dS6QIyXHuNkxVgUV) | 3:25 |
+| 48 | [4 1 Nite](https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA) | [Mike Smiff](https://open.spotify.com/artist/7cothdI1W9TGQXdnzyqXmH), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [4 1 Nite](https://open.spotify.com/album/0ZmKE5dS6QIyXHuNkxVgUV) | 3:25 |
+| 49 | [4 Da Moment \(feat\. City Girls\)](https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:22 |
 | 50 | [Show Me The Money](https://open.spotify.com/track/05kkf4cxpKQUrbwCmr1Zr4) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:06 |
 
-Snapshot ID: `aeF4AAAAAABmRCvDBzZukar8YRTFzszf`
+Snapshot ID: `aeLJgAAAAAD+z0Qc0apjskbrYTlKdAPD`

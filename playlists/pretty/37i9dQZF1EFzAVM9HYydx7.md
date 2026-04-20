@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,064 likes - 311 songs - 18 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,065 likes - 311 songs - 18 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 94 | [C7osure \(You Like\)](https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:28 |
 | 95 | [Omertà](https://open.spotify.com/track/3kCwyvhvVTyehIzYN2I0nF) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [The Best In The World Pack](https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4) | 3:39 |
 | 96 | [1000 Nights \(feat\. Meek Mill & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/4vIKzWqtn44umal5jXq4wE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:32 |
-| 97 | [No Limit REMIX \(feat\. A$AP Rocky, French Montana, Juicy J & Belly\)](https://open.spotify.com/track/4yfdnCOjuDwf2Ivpo8vg8H) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [No Limit REMIX \(feat\. A$AP Rocky, French Montana, Juicy J & Belly\)](https://open.spotify.com/album/4KHRZeMnXaZhFA7vnQ6Jjn) | 4:38 |
-| 98 | [Only U](https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 2:55 |
+| 97 | [Only U](https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 2:55 |
+| 98 | [No Limit REMIX \(feat\. A$AP Rocky, French Montana, Juicy J & Belly\)](https://open.spotify.com/track/4yfdnCOjuDwf2Ivpo8vg8H) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [No Limit REMIX \(feat\. A$AP Rocky, French Montana, Juicy J & Belly\)](https://open.spotify.com/album/4KHRZeMnXaZhFA7vnQ6Jjn) | 4:38 |
 | 99 | [King Of My City](https://open.spotify.com/track/3o0nkjyy6eZL5lZcEpvJec) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:28 |
 | 100 | [Seduction](https://open.spotify.com/track/2V7NoXGv2VDnLeTM7w8SFd) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:35 |
 | 101 | [B.B\. King Freestyle \(with Drake\)](https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [B.B\. King Freestyle](https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271) | 3:42 |
@@ -320,4 +320,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 310 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 311 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcPOHAAAAABPPS5r9EtCn6wQuTrKzdDK`
+Snapshot ID: `AcPTvAAAAACYcSmubfQHv7NIM/T0orCJ`

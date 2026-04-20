@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 65884,
+  "num_followers": 65888,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAAi37NofznY1yVKnii1E+7N",
+  "snapshot_id": "aeLJgAAAAAC+MRlTS1AdY6wucaek9GWt",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
       "duration_ms": 263000,
       "name": "Cuento - Versi\u00f3n de Ximena",
       "url": "https://open.spotify.com/track/6KH5I74Q8OccGi5KLaxfDD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nunca Tuve Tanto",
-        "url": "https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 169409,
-      "name": "Nunca Tuve Tanto",
-      "url": "https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1"
     },
     {
       "added_at": null,
@@ -199,6 +179,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nunca Tuve Tanto",
+        "url": "https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 169409,
+      "name": "Nunca Tuve Tanto",
+      "url": "https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Leaveyourlove (with Ximena Sari\u00f1ana, Rawayana)",
         "url": "https://open.spotify.com/album/5c2muZTm3fV2s1Jp5YVsVF"
       },
@@ -279,22 +279,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bombas",
-        "url": "https://open.spotify.com/album/1TL0RBLKmWLnmFJpgYVbnM"
+        "name": "Mediocre [Edici\u00f3n Especial]",
+        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
       },
       "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 245857,
-      "name": "Bombas",
-      "url": "https://open.spotify.com/track/3ilXa3veR2A3prB3pWgyqA"
+      "duration_ms": 237386,
+      "name": "Vidas Paralelas",
+      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
     },
     {
       "added_at": null,
@@ -315,18 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mediocre [Edici\u00f3n Especial]",
-        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
+        "name": "Bombas",
+        "url": "https://open.spotify.com/album/1TL0RBLKmWLnmFJpgYVbnM"
       },
       "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 237386,
-      "name": "Vidas Paralelas",
-      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
+      "duration_ms": 245857,
+      "name": "Bombas",
+      "url": "https://open.spotify.com/track/3ilXa3veR2A3prB3pWgyqA"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amarte Duele (Versiones de Ximena)",
+        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 224121,
+      "name": "Las Huellas - Versi\u00f3n de Ximena",
+      "url": "https://open.spotify.com/track/6Y6oC4hmqAHB7KDkOlSDT1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corazonada",
         "url": "https://open.spotify.com/album/6M2WxySETQXSq6K5QRXqyx"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 237346,
       "name": "Corazonada",
       "url": "https://open.spotify.com/track/50djfaTziNAD9lzW394lyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amarte Duele (Versiones de Ximena)",
-        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 224121,
-      "name": "Las Huellas - Versi\u00f3n de Ximena",
-      "url": "https://open.spotify.com/track/6Y6oC4hmqAHB7KDkOlSDT1"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amarte Duele (Versiones de Ximena)",
+        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 193407,
+      "name": "Ma\u00f1ana No Es Hoy - Versi\u00f3n de Ximena",
+      "url": "https://open.spotify.com/track/5LPYvfHyqgFB5ZPNayhtUB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Fue (Con Ximena Sari\u00f1ana y Elsa y Elmar)",
         "url": "https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 247733,
       "name": "Se Fue - Con Ximena Sari\u00f1ana y Elsa y Elmar",
       "url": "https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amarte Duele (Versiones de Ximena)",
-        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 193407,
-      "name": "Ma\u00f1ana No Es Hoy - Versi\u00f3n de Ximena",
-      "url": "https://open.spotify.com/track/5LPYvfHyqgFB5ZPNayhtUB"
     },
     {
       "added_at": null,
@@ -991,6 +991,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Es Igual",
+        "url": "https://open.spotify.com/album/1gQ9pDMmLrEC6GHEKNzBBZ"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 225594,
+      "name": "No Es Igual",
+      "url": "https://open.spotify.com/track/4ud4Zl2oRVgKspR7te8NFx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malcriado",
         "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 195075,
       "name": "Fetiche",
       "url": "https://open.spotify.com/track/0x1QQhfXdWPv8GizKQuEgm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Es Igual",
-        "url": "https://open.spotify.com/album/1gQ9pDMmLrEC6GHEKNzBBZ"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 225594,
-      "name": "No Es Igual",
-      "url": "https://open.spotify.com/track/4ud4Zl2oRVgKspR7te8NFx"
     },
     {
       "added_at": null,

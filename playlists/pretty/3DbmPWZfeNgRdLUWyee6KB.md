@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,292 likes - 148 songs - 8 hr 29 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,293 likes - 152 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 25 | [Ma Cos'è](https://open.spotify.com/track/1RceYnI7VePLr2haxuuRYw) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Ma Cos'è](https://open.spotify.com/album/17ghqeoryUABi6pcl7lS1Z) | 4:15 |
 | 26 | [Mia Famiglia](https://open.spotify.com/track/0qW4zEOpPIKQffT2J9Vt4M) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr), [Massimiliano De Lucia](https://open.spotify.com/artist/0sXIcrA8yfLCqZQYC2MtIc) | [Mia Famiglia](https://open.spotify.com/album/06gfq63dLIwYSqh0ou4nN1) | 4:17 |
 | 27 | [Fuori Fase](https://open.spotify.com/track/4BvTTUR5I6Lu32H4SEp5XF) | [SanaNasciari](https://open.spotify.com/artist/3DtXo63P1fcyUzRRYsnI3T) | [Fuori Fase](https://open.spotify.com/album/7EUDXRvf6IO08kdUOvmexW) | 3:19 |
-| 28 | [Tears](https://open.spotify.com/track/71KWkDcT5lwG1dG2mCf5vu) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Tears](https://open.spotify.com/album/1aF7rNMvxmQxTxRkGy6pUi) | 3:29 |
-| 29 | [The Process \- Sped Up & Reverbed](https://open.spotify.com/track/4Q9yFmSyERkNtBVdq1zKlQ) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [The Process \(Sped Up & Reverbed\)](https://open.spotify.com/album/0FGNG8bBLKafYGIZYvOLcX) | 3:12 |
+| 28 | [Tears](https://open.spotify.com/track/71KWkDcT5lwG1dG2mCf5vu) | [T\-WINNN](https://open.spotify.com/artist/5DgJEIByQ2L0y5Nmzw4zq0) | [Tears](https://open.spotify.com/album/1aF7rNMvxmQxTxRkGy6pUi) | 3:29 |
+| 29 | [The Process \- Sped Up & Reverbed](https://open.spotify.com/track/4Q9yFmSyERkNtBVdq1zKlQ) | [T\-WINNN](https://open.spotify.com/artist/5DgJEIByQ2L0y5Nmzw4zq0), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [The Process \(Sped Up & Reverbed\)](https://open.spotify.com/album/0FGNG8bBLKafYGIZYvOLcX) | 3:12 |
 | 30 | [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 |
 | 31 | [demonic stranger](https://open.spotify.com/track/30T4D9QFdqhJkIDvYQnrK4) | [Exorcisor](https://open.spotify.com/artist/0WFguk3ZC20eLKXcM70rOT) | [Ready to fight evil](https://open.spotify.com/album/7ql4H2uSoJTggEuX6a6ToD) | 4:37 |
 | 32 | [Le monde est fou](https://open.spotify.com/track/0fSeYXVW6L20zmswLwWKhM) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Le monde est fou](https://open.spotify.com/album/6mVCQDEYg5Jc75s3q6p42h) | 4:04 |
@@ -156,5 +156,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 146 | [Grace Under Fire](https://open.spotify.com/track/6qDrIGQ2SEcdHx0H8DCrf9) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:10 |
 | 147 | [Beautiful Baby](https://open.spotify.com/track/7pni0f9P5XEJ6YVf7yg3uY) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Hodges, James & Smith](https://open.spotify.com/artist/6g6hZbf2pP8nHZAhPpsvA3) | [EZ Listens Songs Library](https://open.spotify.com/album/0LkQNSpF0OeXwxEdCXrwVw) | 3:57 |
 | 148 | [Balorda nostalgia](https://open.spotify.com/track/2K5ijyYylUoDEYMYxz5E95) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Balorda nostalgia](https://open.spotify.com/album/4disZdaEkZIGag3qTJfiWV) | 3:15 |
+| 149 | [Ultraviolet GT](https://open.spotify.com/track/3Gx9KqZzJWYKsZorL9VTNW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 3:28 |
+| 150 | [Dandelion](https://open.spotify.com/track/46gVwH2UBde8k2n8q4X4iQ) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Dark Skies](https://open.spotify.com/album/6msdDrMHEmyWefzameIaQC) | 3:10 |
+| 151 | [Kawaii](https://open.spotify.com/track/59tXTeEQ7G7koxQg5MyB1d) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Of Foxes And Tofu](https://open.spotify.com/album/4dpkrcOzw7t95AqZDgMRJV) | 4:55 |
+| 152 | [Ti Abbraccio](https://open.spotify.com/track/4ro107oVcj3Lee2sRpONUG) | [Giofly](https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp) | [Ti Abbraccio](https://open.spotify.com/album/0ce9BeLdWPndy8MlXIBoWP) | 3:48 |
 
-Snapshot ID: `AAATEZO9G3FZ6jdvN906s5OfaKHB55Hy`
+Snapshot ID: `AAATFaU4Skc5MzLGx3l+a5luH9nFMfZE`

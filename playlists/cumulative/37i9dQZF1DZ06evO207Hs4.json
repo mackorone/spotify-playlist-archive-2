@@ -269,6 +269,64 @@
     },
     {
       "album": {
+        "name": "Gussie Clarke's Reggae Dancehall Collaborations",
+        "url": "https://open.spotify.com/album/2WHG8ZYRJKldOIqjMigzpL"
+      },
+      "artists": [
+        {
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+        },
+        {
+          "name": "Beres Hammond",
+          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+        },
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        },
+        {
+          "name": "iNi Kamoze",
+          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
+        },
+        {
+          "name": "Deborahe Glasgow",
+          "url": "https://open.spotify.com/artist/0PfphN9qB6zSGGP38VjDm7"
+        },
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        },
+        {
+          "name": "Dennis Brown",
+          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+        },
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        },
+        {
+          "name": "Richie Stephens",
+          "url": "https://open.spotify.com/artist/6vHXmFLRCxvJPquxCpCl7c"
+        },
+        {
+          "name": "Cynthia Schloss",
+          "url": "https://open.spotify.com/artist/0q3sBFRGxiXPmhrePKRgIY"
+        },
+        {
+          "name": "Mighty Diamonds",
+          "url": "https://open.spotify.com/artist/2MvXKrHantfY5wyPiCOo2k"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1906011,
+      "name": "Gussie Clarke's Collaborations - Continuous Mix",
+      "url": "https://open.spotify.com/track/3Yqged7YNKCJkCVLXQlFwB"
+    },
+    {
+      "album": {
         "name": "Rhythm Of The Pride Lands",
         "url": "https://open.spotify.com/album/38WcqhsXCL0TE86lTK2FHj"
       },
@@ -1074,7 +1132,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 309533,
       "name": "Treat The Youth Right",
       "url": "https://open.spotify.com/track/6EaSFMRbFQ6a88yTk625iS"

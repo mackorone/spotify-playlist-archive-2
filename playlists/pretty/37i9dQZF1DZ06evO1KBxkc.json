@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 204068,
+  "num_followers": 204074,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAD6nr0YK8KCDvWapF/G7BXs",
+  "snapshot_id": "aeLJgAAAAADab3p8Lcc2EOyZCHKkVL9q",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Day69: Graduation Day",
-        "url": "https://open.spotify.com/album/5RPGNLQhSag601FMPT2VW6"
+        "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
+        "url": "https://open.spotify.com/album/7LMJKPGcBZjZf6AEnTBS2t"
       },
       "artists": [
         {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        },
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/4sUASeYbHY6bwgMMTPJwdz"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 151914,
-      "name": "KEKE",
-      "url": "https://open.spotify.com/track/7ELPiYjcp2DjvbrKdqcAx1"
+      "duration_ms": 296011,
+      "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
+      "url": "https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H"
     },
     {
       "added_at": null,
@@ -395,30 +399,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
-        "url": "https://open.spotify.com/album/7LMJKPGcBZjZf6AEnTBS2t"
+        "name": "Day69: Graduation Day",
+        "url": "https://open.spotify.com/album/5RPGNLQhSag601FMPT2VW6"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/4sUASeYbHY6bwgMMTPJwdz"
         },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 296011,
-      "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
-      "url": "https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H"
+      "duration_ms": 151914,
+      "name": "KEKE",
+      "url": "https://open.spotify.com/track/7ELPiYjcp2DjvbrKdqcAx1"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Drink",
-        "url": "https://open.spotify.com/album/4RAAZcbae57tp6h2joUZuu"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Last Drink",
-      "url": "https://open.spotify.com/track/6HNxPQ3Atlfq5yQa5LGMIj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scriptures",
         "url": "https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 332195,
       "name": "Young Grizzley World (feat. A Boogie Wit Da Hoodie & YNW Melly)",
       "url": "https://open.spotify.com/track/2HsSzwrvvgiYSCdsYLiJWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Drink",
+        "url": "https://open.spotify.com/album/4RAAZcbae57tp6h2joUZuu"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "Last Drink",
+      "url": "https://open.spotify.com/track/6HNxPQ3Atlfq5yQa5LGMIj"
     },
     {
       "added_at": null,

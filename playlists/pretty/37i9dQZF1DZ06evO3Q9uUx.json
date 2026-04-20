@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 16032,
+  "num_followers": 16037,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAD7v/5yX0W36eS50aYPRfrF",
+  "snapshot_id": "aeLJgAAAAAAGK62AiSi0MeMOVjz78oRM",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BIRTHDAY BEHAVIOR",
+        "url": "https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "BIRTHDAY BEHAVIOR",
+      "url": "https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Italiano",
         "url": "https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 174216,
       "name": "X6 (feat. BIA)",
       "url": "https://open.spotify.com/track/723BtHZOTCxN2xOselHQpG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIRTHDAY BEHAVIOR",
-        "url": "https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "BIRTHDAY BEHAVIOR",
-      "url": "https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu"
     },
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 131224,
+      "name": "BESITO (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/4EgafMzPEdYTKsNuCiCfFg"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 208885,
       "name": "Perfect (with Sia)",
       "url": "https://open.spotify.com/track/7gh6635LXixA4Cw9baMWKp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FOR CERTAIN (Deluxe)",
-        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 131224,
-      "name": "BESITO (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "BIA BIA (feat. Lil Jon)",
-      "url": "https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "blame the chat",
         "url": "https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 231325,
       "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
       "url": "https://open.spotify.com/track/4G2a4inKSsFc0pjyPP4dKZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "BIA BIA (feat. Lil Jon)",
+      "url": "https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR"
     },
     {
       "added_at": null,

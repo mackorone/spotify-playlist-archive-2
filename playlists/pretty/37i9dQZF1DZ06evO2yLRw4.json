@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37704,
+  "num_followers": 37707,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAADBFnLvoACaXt6bnb+fOaE/",
+  "snapshot_id": "aeLJgAAAAADRWo2k4hU9Em9HvfviTpZX",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angel Miners & The Lightning Riders",
+        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 223320,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 169171,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/58hzFlHm1gKIJzRMSt0vWV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angel Miners & The Lightning Riders",
-        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 223320,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u"
     },
     {
       "added_at": null,

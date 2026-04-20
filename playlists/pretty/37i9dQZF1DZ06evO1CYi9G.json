@@ -1,12 +1,12 @@
 {
   "description": "This is Mudvayne. The essential tracks, all in one playlist.",
-  "num_followers": 64064,
+  "num_followers": 64076,
   "original_name": "This Is Mudvayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAAHFiYsEP3exLRfXYi5jMbF",
+  "snapshot_id": "aeLJgAAAAABGYFDjy3qdDwg5g+8Jo+eZ",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
+        "name": "The New Game",
+        "url": "https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 208466,
-      "name": "Pushing Through",
-      "url": "https://open.spotify.com/track/4hvq2Q3Ykt1pEsk13E25Se"
+      "duration_ms": 225440,
+      "name": "Have It Your Way",
+      "url": "https://open.spotify.com/track/1Vsjo3i3pnWhN9DU3TlEDp"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The New Game",
-        "url": "https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK"
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 225440,
-      "name": "Have It Your Way",
-      "url": "https://open.spotify.com/track/1Vsjo3i3pnWhN9DU3TlEDp"
+      "duration_ms": 208466,
+      "name": "Pushing Through",
+      "url": "https://open.spotify.com/track/4hvq2Q3Ykt1pEsk13E25Se"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
+        "name": "The New Game",
+        "url": "https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 351026,
-      "name": "IMN",
-      "url": "https://open.spotify.com/track/5g924DBWMk3Crw134IO0Sj"
+      "duration_ms": 210546,
+      "name": "Fish Out Of Water",
+      "url": "https://open.spotify.com/track/05l9Tn84hsMBO95rBnyMj7"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The New Game",
-        "url": "https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK"
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 210546,
-      "name": "Fish Out Of Water",
-      "url": "https://open.spotify.com/track/05l9Tn84hsMBO95rBnyMj7"
+      "duration_ms": 351026,
+      "name": "IMN",
+      "url": "https://open.spotify.com/track/5g924DBWMk3Crw134IO0Sj"
     },
     {
       "added_at": null,

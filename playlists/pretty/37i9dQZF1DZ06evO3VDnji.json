@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 75489,
+  "num_followers": 75495,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAAOfvKszpRo89kZgIVjD4Mv",
+  "snapshot_id": "aeLJgAAAAADA5MoO5RS+0JKDXU2FZ0YC",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Ense\u00f1ame",
-      "url": "https://open.spotify.com/track/3I6nXjL30GFmraDrSHqd8g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KATY PERRY (feat. Sheeno)",
         "url": "https://open.spotify.com/album/3YSe6mMaoDQivChU76JHlh"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 155909,
       "name": "KATY PERRY (feat. Sheeno)",
       "url": "https://open.spotify.com/track/0Xe7TQSVYiVaEDp5wowgsa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Ense\u00f1ame",
+      "url": "https://open.spotify.com/track/3I6nXjL30GFmraDrSHqd8g"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEYENDA DELUXE",
+        "url": "https://open.spotify.com/album/7ywMhF2YkS01uWLrdNBvoU"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 259265,
+      "name": "\u00bfQU\u00c9 SUCEDI\u00d3?",
+      "url": "https://open.spotify.com/track/0RO1LmzydqUm7bNLJFiBQo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -707,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEYENDA DELUXE",
-        "url": "https://open.spotify.com/album/7ywMhF2YkS01uWLrdNBvoU"
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
       },
       "artists": [
         {
@@ -716,25 +732,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 259265,
-      "name": "\u00bfQU\u00c9 SUCEDI\u00d3?",
-      "url": "https://open.spotify.com/track/0RO1LmzydqUm7bNLJFiBQo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEYENDA",
-        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 154516,
-      "name": "no_pasa_nada_demo.wav",
-      "url": "https://open.spotify.com/track/1Ww2IlYffQX3Ci9JJYGNfA"
+      "duration_ms": 310500,
+      "name": "Viaje de Amor",
+      "url": "https://open.spotify.com/track/5EVQSWPcTZxOf8OlKKYrqM"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+        "name": "LEYENDA",
+        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 310500,
-      "name": "Viaje de Amor",
-      "url": "https://open.spotify.com/track/5EVQSWPcTZxOf8OlKKYrqM"
+      "duration_ms": 154516,
+      "name": "no_pasa_nada_demo.wav",
+      "url": "https://open.spotify.com/track/1Ww2IlYffQX3Ci9JJYGNfA"
     },
     {
       "added_at": null,
@@ -807,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Distinto",
-        "url": "https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7"
+        "name": "EL HOMBRE PERFECTO",
+        "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
       },
       "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 165110,
-      "name": "Distinto",
-      "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
+      "duration_ms": 216960,
+      "name": "EL HOMBRE PERFECTO",
+      "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
     },
     {
       "added_at": null,
@@ -843,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL HOMBRE PERFECTO",
-        "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "EL HOMBRE PERFECTO",
-      "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PORTATE BIEN",
         "url": "https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 205565,
       "name": "BALENCIAGA",
       "url": "https://open.spotify.com/track/7neUFP4lHE6KBnc1saodk7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Distinto",
+        "url": "https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 165110,
+      "name": "Distinto",
+      "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
     },
     {
       "added_at": null,

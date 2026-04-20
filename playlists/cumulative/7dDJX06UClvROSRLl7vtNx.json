@@ -4971,6 +4971,32 @@
     },
     {
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/2Aa2te0iNnqtwOW9s9VdA3"
+      },
+      "artists": [
+        {
+          "name": "Panuma",
+          "url": "https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH"
+        },
+        {
+          "name": "Tom Ferry",
+          "url": "https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179512,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/5cXeme5DUuEBD1n0lvAmlk"
+    },
+    {
+      "album": {
         "name": "Day I Die",
         "url": "https://open.spotify.com/album/0GWSiFD1UdmArIWhT8S5FR"
       },
@@ -6112,7 +6138,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 158000,
       "name": "Echoes of You",
       "url": "https://open.spotify.com/track/3wCiOryqYjkMDECKCcEo0Y"
@@ -7058,7 +7084,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 142000,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/0eSGt98YmHlgOm6LJuLZCi"
@@ -8260,7 +8286,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 186122,
       "name": "Fortnight",
       "url": "https://open.spotify.com/track/1NdWKcFxA9uA3me4qbbClh"
@@ -11674,7 +11700,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 134000,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/4D4AkymIGGVmd6EC4D6vcQ"
@@ -24269,6 +24295,24 @@
     },
     {
       "album": {
+        "name": "Sunshine Reggae",
+        "url": "https://open.spotify.com/album/17hMGyBxw6YbJhye2YFve3"
+      },
+      "artists": [
+        {
+          "name": "The kid in blue",
+          "url": "https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Sunshine Reggae",
+      "url": "https://open.spotify.com/track/7icCATbt1XrOTKtwcgGYbY"
+    },
+    {
+      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/0Qew6K1WYpTg5v7Mysfzrd"
       },
@@ -28438,7 +28482,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 147223,
       "name": "You & I",
       "url": "https://open.spotify.com/track/48bY6SDYzxa7mSv78qfnH2"

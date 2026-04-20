@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > 🚀 when ur love language is bpm 🚀  Cover: Marlon Hoffstadt
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,585 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,724 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 99 | [Toter Schmetterling](https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2) | 3:53 |
 | 100 | [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 |
 
-Snapshot ID: `AAAAAJTTF6m6clutApKVs9+xjwyFInTY`
+Snapshot ID: `AAAAAL1+1guI26qbxgji5mTUJZPKlWM6`

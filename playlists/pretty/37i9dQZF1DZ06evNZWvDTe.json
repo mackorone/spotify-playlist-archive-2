@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 14363,
+  "num_followers": 14366,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAAv7gHFJMv9/DWzRgdFMqmn",
+  "snapshot_id": "aeLJgAAAAABmJf9AN+A5xPZjNdm9noI5",
   "tracks": [
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Rollies and Cigars",
+      "url": "https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tonga",
         "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
       },
@@ -791,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
       },
       "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 207761,
-      "name": "Rollies and Cigars",
-      "url": "https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE"
+      "duration_ms": 216546,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
     },
     {
       "added_at": null,
@@ -823,26 +843,6 @@
       "duration_ms": 191719,
       "name": "Anadwo",
       "url": "https://open.spotify.com/track/727FNLOrz4Wj4KhTRMRlEv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anointing",
-        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Anointing",
-      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/3AeYPcgBAAno6njUHKRixA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chingam",
         "url": "https://open.spotify.com/album/3ILtnX1gX3oz7IOf8io5pE"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 214000,
       "name": "Chingam",
       "url": "https://open.spotify.com/track/5brsoRdZMz2rci57w60oh2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/3AeYPcgBAAno6njUHKRixA"
     },
     {
       "added_at": null,

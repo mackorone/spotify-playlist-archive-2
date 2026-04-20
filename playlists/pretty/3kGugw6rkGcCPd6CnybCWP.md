@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 77 songs - 4 hr 25 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 78 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 75 | [Ides Of March](https://open.spotify.com/track/4Rq5Ytad92LP8xHIf0WhKf) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [Morgan S Oteric](https://open.spotify.com/artist/0LvGEKR2OwTW2k6LDbxO7X) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:33 |
 | 76 | [Be the Star That You Are](https://open.spotify.com/track/48hhpEl3Q2f4sL4kMsHC8R) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Be the Star That You Are](https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0) | 3:09 |
 | 77 | [A Street](https://open.spotify.com/track/3z9yp7Rf4hHccBKJ15QXuF) | [Forget Me Not](https://open.spotify.com/artist/6LO7ktGmsVjiuIyJ7PinHk) | [A Street](https://open.spotify.com/album/4sIoa5yZuLQJufrMtCCLZe) | 2:45 |
+| 78 | [Move On](https://open.spotify.com/track/2z82PofLpBaIKJwbIYo5Cl) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Move On](https://open.spotify.com/album/2leZFJNcO96VaVYzMDYuMI) | 3:15 |
 
-Snapshot ID: `AAAObecuOvx9haYyFZiv+OBL0ahnCe+B`
+Snapshot ID: `AAAObuV5fzfxjbm5CydAt4rl/o7O0gdu`

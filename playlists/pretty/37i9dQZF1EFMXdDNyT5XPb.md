@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359 likes - 112 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 360 likes - 112 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 57 | [Me and the Moon](https://open.spotify.com/track/1kC5ztNhsVxh3uKBSKAout) | [Shane Filan](https://open.spotify.com/artist/3Q2ya2vGeOhQ9CaF9wWNP6) | [Right Here](https://open.spotify.com/album/2X5hXnYddswmHZUDOsHq0D) | 3:35 |
 | 58 | [Designer](https://open.spotify.com/track/2cdIoTQN2tiFoKPh1b8bH7) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Designer](https://open.spotify.com/album/2iy0EWYF5LfydMsc6E3Hrr) | 2:01 |
 | 59 | [London Bound](https://open.spotify.com/track/4w9UERRjbLgLZJmlezArOF) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [We Are](https://open.spotify.com/album/56t8diCSoYT53frC59aHYJ) | 2:53 |
-| 60 | [Landslide](https://open.spotify.com/track/5GOwSGaZbQcg9uwl4j9GyH) | [Andy Brown](https://open.spotify.com/artist/7jDFhYWDrh0qzdG0op40UL), [Crissie Rhodes](https://open.spotify.com/artist/1ihjZOWoOqFjbSVIgxEaCp) | [Cedarmont](https://open.spotify.com/album/36X88HKH0GEhGFXmrRld2E) | 3:19 |
-| 61 | [Stay](https://open.spotify.com/track/3EpQUpVAaQWZX9oLCoJEfo) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Stay](https://open.spotify.com/album/6E2VmkOih43z49pVr5WNQK) | 3:04 |
+| 60 | [Stay](https://open.spotify.com/track/3EpQUpVAaQWZX9oLCoJEfo) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Stay](https://open.spotify.com/album/6E2VmkOih43z49pVr5WNQK) | 3:04 |
+| 61 | [Landslide](https://open.spotify.com/track/5GOwSGaZbQcg9uwl4j9GyH) | [Andy Brown](https://open.spotify.com/artist/7jDFhYWDrh0qzdG0op40UL), [Crissie Rhodes](https://open.spotify.com/artist/1ihjZOWoOqFjbSVIgxEaCp) | [Cedarmont](https://open.spotify.com/album/36X88HKH0GEhGFXmrRld2E) | 3:19 |
 | 62 | [This Must Be Christmas \- Single Mix](https://open.spotify.com/track/2hXjYeuMrcZZ2Z9C3MER4c) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [This Must Be Christmas](https://open.spotify.com/album/2pu1UdU80EqKShbMTQgrHb) | 3:33 |
 | 63 | [Fixing Me Breaking You](https://open.spotify.com/track/13ynOu7fZjOGBXBXPVmNjH) | [River Atley](https://open.spotify.com/artist/7jdKX74FchWPfiPJNEwF8A) | [Fixing Me Breaking You](https://open.spotify.com/album/3zzbP5UjjZizBRDc0zXnVm) | 3:32 |
 | 64 | [Kid At Christmas](https://open.spotify.com/track/6gLlky9cJnppnVKGhvIs90) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Kid At Christmas](https://open.spotify.com/album/4u4yPCB9hXXFYs3A0yKJki) | 3:33 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 90 | [One More Time](https://open.spotify.com/track/03cXcevjjmVaR4IU13XMRZ) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 2:32 |
 | 91 | [Never Wanna Fall in Love](https://open.spotify.com/track/1CniRSNjJmLuD2vnf1G96U) | [Catherine McGrath](https://open.spotify.com/artist/0db28KdTi7VNaTipfAnlWQ) | [Starting From Now](https://open.spotify.com/album/7xtbwxSS5gmY4kAILOYgSw) | 3:14 |
 | 92 | [Set You Free](https://open.spotify.com/track/1kwRo02wdqiv1qEIlHMZcF) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Set You Free](https://open.spotify.com/album/5HFGUJW2d6XtDF2AFziY51) | 2:50 |
-| 93 | [You've Let Yourself Down](https://open.spotify.com/track/3ilLCZ64M9t4828QK5EpDE) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 2:58 |
-| 94 | [Only Love](https://open.spotify.com/track/6yGS34pX74150JW2AT0lSu) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:30 |
+| 93 | [Only Love](https://open.spotify.com/track/6yGS34pX74150JW2AT0lSu) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:30 |
+| 94 | [You've Let Yourself Down](https://open.spotify.com/track/3ilLCZ64M9t4828QK5EpDE) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 2:58 |
 | 95 | [Together](https://open.spotify.com/track/03akDaEjjNtl4o4Rb702IW) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 3:03 |
 | 96 | [Top Of Your Lungs](https://open.spotify.com/track/2mXL4ltEI05p2866aBSfbA) | [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk) | [Honey I'm Home](https://open.spotify.com/album/70cuqfQu9OeAkTqspVDCoO) | 3:56 |
 | 97 | [Oxygen](https://open.spotify.com/track/1TyOikNjNxgLY1xRa5an3Z) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Oxygen](https://open.spotify.com/album/7irVDSjaTPjKzCIKnqBe2n) | 2:57 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 111 | [Breaking My Back](https://open.spotify.com/track/2BMzyOMgpmVRF9vqzYXGvA) | [Sons of William](https://open.spotify.com/artist/7JLB199dcJqEozdoTndjQo) | [Sons Of William](https://open.spotify.com/album/5tN9cixqUntcylVZ2T4f6K) | 2:25 |
 | 112 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcPOCAAAAACJH797NPjifxzZcx6ZC4k8`
+Snapshot ID: `AcPTqAAAAAAvXFBVjlzOORmjBj3B8rUB`

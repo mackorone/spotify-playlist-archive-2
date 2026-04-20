@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,236,393 likes - 200 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,236,441 likes - 200 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 199 | [Highlights](https://open.spotify.com/track/6o5FielglUNmI9gRZ2eMuZ) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Highlights](https://open.spotify.com/album/6NSyRxZGyQ1iJlwijvo4pQ) | 2:00 |
 | 200 | [Outlines](https://open.spotify.com/track/4kPeJwqxGDX7DJYFuOCQAF) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sketches](https://open.spotify.com/album/0EPvscUymb7sapGPnzcA0T) | 2:08 |
 
-Snapshot ID: `AAAAAPw/Ghf0qmKcutsA3Hcj7sJa3mJ1`
+Snapshot ID: `AAAAALca8Mzgo0h/GBdvW2zrxzcm4Dgo`

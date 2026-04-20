@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,102 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,120 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 37 | [Lay Me Down](https://open.spotify.com/track/3SpEJEJtn8EE0EzGY6xDdD) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Burning Lights](https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW) | 4:45 |
 | 38 | [Be A Light](https://open.spotify.com/track/5o6dFqafETxZNqUFt9ZqAC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be A Light](https://open.spotify.com/album/6NUcdndmwC54yLd0KosGI2) | 2:53 |
 | 39 | [Jesus](https://open.spotify.com/track/7CNINxlyvWE15Dees3X5zC) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 4:05 |
-| 40 | [Holy Forever \- Instrumental](https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever \(Instrumental\)](https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO) | 8:00 |
-| 41 | [Holy Is The Lord \- Arriving Album Version](https://open.spotify.com/track/31Kb7jyAscJJma1gTXRUFQ) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:12 |
+| 40 | [Holy Is The Lord \- Arriving Album Version](https://open.spotify.com/track/31Kb7jyAscJJma1gTXRUFQ) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:12 |
+| 41 | [Holy Forever \- Instrumental](https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever \(Instrumental\)](https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO) | 8:00 |
 | 42 | [Give Us Clean Hands \- Pour Over Me Album Version](https://open.spotify.com/track/2jjyMzq3pvknVSBeSzjck6) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Pour Over Me \- Worship Together Live 2001](https://open.spotify.com/album/154cvVNb9uaBEqztlz6rmv) | 5:38 |
 | 43 | [God Of This City](https://open.spotify.com/track/4Eda1y3heYypvl4KRcJcKs) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Hello Love](https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk) | 4:57 |
 | 44 | [God's Great Dance Floor](https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Burning Lights](https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 49 | [Amazing Grace \(My Chains Are Gone\) \- Live](https://open.spotify.com/track/1B446v2zWyL6AEq2BnKL2J) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: A Generation United For His Renown](https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T) | 8:34 |
 | 50 | [Jesus Loves Me](https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 3:31 |
 
-Snapshot ID: `aeF4AAAAAABn0s/tOAiqeLGE1VKVsyjm`
+Snapshot ID: `aeLJgAAAAACVxeaCDxfc0PNhNiT+m2zx`

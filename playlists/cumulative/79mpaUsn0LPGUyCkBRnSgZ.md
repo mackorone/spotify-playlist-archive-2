@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,115 songs - 3 day 0 hr 24 min
+1,117 songs - 3 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -825,6 +825,7 @@
 | [Secret Knock](https://open.spotify.com/track/0rnhjjdY8szBKmi6HAVDvC) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [Black Hole Superette](https://open.spotify.com/album/63y5mkLctupacSr20e0O6j) | 3:32 | 2025-08-14 |  |
 | [Senja](https://open.spotify.com/track/5XivEexP5g4mYhkeZ2JMT1) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [WHERE IS MY HEAD?](https://open.spotify.com/album/4KdSMovHLQrLV7lGM7Z0af) | 2:34 | 2025-09-16 |  |
 | [Sequence](https://open.spotify.com/track/1sxLbBQVXUvFRkEMiHjQ99) | [Stealing Sheep](https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22) | [Not Real](https://open.spotify.com/album/4J2or5UZfwCFPtPOobZwZQ) | 3:13 | 2024-01-04 | 2024-03-12 |
+| [Sevastopol](https://open.spotify.com/track/52wrDCbeWsiPwv8n5qatD1) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [URGH](https://open.spotify.com/album/2W2pytiTdjR0VArgmbQD3M) | 2:22 | 2026-04-19 |  |
 | [Seven Psalms: The Lord / Love Is Like a Braid / My Professional Opinion / Your Forgiveness / Trail of Volcanoes / The Sacred Harp / Wait](https://open.spotify.com/track/3Y7ZWE3zat6O9YhMm44qCf) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Seven Psalms](https://open.spotify.com/album/2W88kNmADcEEvcaJPVGZHF) | 33:02 | 2023-05-21 | 2025-07-25 |
 | [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 | 2024-02-23 |  |
 | [Shame On You](https://open.spotify.com/track/1FluLlYLGRBXRgLcv1Utlq) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Shaming Of The Sun](https://open.spotify.com/album/3oD7PqxjEBSzc7qE2xJteU) | 4:00 | 2023-10-01 |  |
@@ -999,6 +1000,7 @@
 | [This Love Isn't Crazy](https://open.spotify.com/track/03o4HPzUwftpgAPNQSuaBS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated Side B](https://open.spotify.com/album/7oHKKCXCFIv3J1Yh5F08pu) | 3:53 | 2023-08-01 | 2023-12-14 |
 | [thousand eyes](https://open.spotify.com/track/1xsb4ZIwzSi5dacBz9oMdA) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 5:00 | 2022-01-19 |  |
 | [Thumblove](https://open.spotify.com/track/0iMrXC33Z7YO6kF61P2orq) | [Tiernan & Joscelin](https://open.spotify.com/artist/0ZxaF7oURARiDTzA2uv92K) | ["I Can't Set Your Heart on Fire": Valentine's Day](https://open.spotify.com/album/4NOzisjTQfdakIbefTCyJZ) | 2:18 | 2025-11-05 |  |
+| [Tilt](https://open.spotify.com/track/0ZV0aqU5aMLDDyAqfPf3dU) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Lost & Found](https://open.spotify.com/album/3vnvvODpAWJFZiQWjzeLyU) | 2:39 | 2026-04-19 |  |
 | [Tim's Intro](https://open.spotify.com/track/7qzQfE2se3Ai5reZcxs920) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:04 | 2023-12-31 |  |
 | [time \(a dream deferred\)](https://open.spotify.com/track/7pQmOaawg2DMtlnIWc9SNY) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [sankofa](https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3) | 1:58 | 2025-12-13 | 2026-01-02 |
 | [Time Ain't Accidental](https://open.spotify.com/track/1qK4COAu95yDuWWnWEN0IZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:27 | 2024-03-11 |  |

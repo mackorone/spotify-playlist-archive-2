@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 
 > thawing from the winter and feeling a little bit of sun \- it's time for some summer dance hits 😎☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,880,079 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,881,193 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

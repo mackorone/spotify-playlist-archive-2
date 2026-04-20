@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,809 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,767 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 99 | [Beat Box 3 \(feat\. DaBaby\)](https://open.spotify.com/track/6toQdWWc4noiOk3Eo5mVDS) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Beat Box 3 \(feat\. DaBaby\)](https://open.spotify.com/album/6QqwWNpKYbROin3Gq5pIrV) | 3:20 |
 | 100 | [American Dream \(feat\. J\. Cole, Kendrick Lamar\)](https://open.spotify.com/track/2j8MsmmNqmc6UBEA54KOlY) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Pressure](https://open.spotify.com/album/4IJsz38bUJjUXkFBhU8icl) | 4:09 |
 
-Snapshot ID: `AAAAAK7i8LVK3XtFqVklhQ7BzP+QCvqG`
+Snapshot ID: `AAAAAPKjHrLWgXPJE+N5csKpg/A8fwA7`

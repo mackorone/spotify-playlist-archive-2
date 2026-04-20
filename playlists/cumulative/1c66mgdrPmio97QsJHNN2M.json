@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 137020,
       "name": "17",
       "url": "https://open.spotify.com/track/7muK8LQ6h6YfQ6eOGHD4Jc"
@@ -554,6 +554,28 @@
       "duration_ms": 199283,
       "name": "A-List",
       "url": "https://open.spotify.com/track/2hfnZVKGoVOAEUphIvQeWX"
+    },
+    {
+      "album": {
+        "name": "Above You",
+        "url": "https://open.spotify.com/album/1SYMomtMquTApRLUViqOVo"
+      },
+      "artists": [
+        {
+          "name": "Tennis Goth",
+          "url": "https://open.spotify.com/artist/0ijRFpvZGGhqBwznExjALF"
+        },
+        {
+          "name": "Brasco",
+          "url": "https://open.spotify.com/artist/0fhsezU1oGycfZ8hZnqf06"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142941,
+      "name": "Above You",
+      "url": "https://open.spotify.com/track/2YpfM7LuOiZep6y6cxiSRP"
     },
     {
       "album": {
@@ -1536,7 +1558,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 170270,
       "name": "Any Other Day",
       "url": "https://open.spotify.com/track/7GdSJfMHEyBufaXO5FyImx"
@@ -2598,7 +2620,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 240349,
       "name": "Baryone",
       "url": "https://open.spotify.com/track/0alxcYdVfPtZwa9tgEPpWh"
@@ -4730,7 +4752,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 163764,
       "name": "Cherry Cola",
       "url": "https://open.spotify.com/track/0vMMmar6w5Zf8C7Ezkfgr6"
@@ -6326,7 +6348,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 141040,
       "name": "delirium",
       "url": "https://open.spotify.com/track/4xVEqeiIZw7H11cPI8cByS"
@@ -15101,6 +15123,24 @@
     },
     {
       "album": {
+        "name": "Shouldn't have let u know",
+        "url": "https://open.spotify.com/album/56dZFhJJThAiSLJBG4pjRD"
+      },
+      "artists": [
+        {
+          "name": "Armani Izaiah",
+          "url": "https://open.spotify.com/artist/314HEd3bdzsn0K5GNb4wbg"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Let u know my secrets",
+      "url": "https://open.spotify.com/track/1N9HDjUiu5PKi20kU0PxyP"
+    },
+    {
+      "album": {
         "name": "Letter (for the Quiet)",
         "url": "https://open.spotify.com/album/0fs9NuS5lFG12SLgi4IAuS"
       },
@@ -18589,6 +18629,24 @@
     },
     {
       "album": {
+        "name": "never there",
+        "url": "https://open.spotify.com/album/2r4dfe3b2WAjfcutTjhCWA"
+      },
+      "artists": [
+        {
+          "name": "AngelicaJade.",
+          "url": "https://open.spotify.com/artist/6whv41uqIr1VpJaJQTWdcr"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "never there",
+      "url": "https://open.spotify.com/track/6slWCTwfS9AMk0Mgg7lDay"
+    },
+    {
+      "album": {
         "name": "New Car",
         "url": "https://open.spotify.com/album/2VtdVtsUeAkBpNaC2C74yp"
       },
@@ -18918,6 +18976,28 @@
       "duration_ms": 200411,
       "name": "No Point Looking Back",
       "url": "https://open.spotify.com/track/0d6T14riB2T7sLDkvNdK3V"
+    },
+    {
+      "album": {
+        "name": "The Daylight is Gone",
+        "url": "https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ"
+      },
+      "artists": [
+        {
+          "name": "Isin",
+          "url": "https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z"
+        },
+        {
+          "name": "Vallartis",
+          "url": "https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183614,
+      "name": "No Proof",
+      "url": "https://open.spotify.com/track/0Jb6JopsRsmUeaDgiWEgGx"
     },
     {
       "album": {
@@ -22320,7 +22400,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 180778,
       "name": "Reset Your Timer",
       "url": "https://open.spotify.com/track/71KLcewl8GMQ4ujK4edqAR"
@@ -24798,7 +24878,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 174959,
       "name": "Sovereign Soul",
       "url": "https://open.spotify.com/track/63vnsgYEL3SLOszVRwMB5i"
@@ -24910,6 +24990,24 @@
       "duration_ms": 272839,
       "name": "Spectator Sport",
       "url": "https://open.spotify.com/track/0JK3UsC0sjyXpiGNENm5NP"
+    },
+    {
+      "album": {
+        "name": "Speed Of A Summer Night",
+        "url": "https://open.spotify.com/album/0DAKVbUAkgLDzJGfTEm01P"
+      },
+      "artists": [
+        {
+          "name": "Static Echoes",
+          "url": "https://open.spotify.com/artist/4qx5CnX8jGV49bqPKbatO7"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229599,
+      "name": "Speed Of A Summer Night",
+      "url": "https://open.spotify.com/track/1wCTXpkDk9ns03WbOmCuyY"
     },
     {
       "album": {
@@ -29340,7 +29438,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 208301,
       "name": "Walk Alone",
       "url": "https://open.spotify.com/track/4rLezRjfenAa8H53fCs3px"
@@ -29960,6 +30058,24 @@
       "duration_ms": 182090,
       "name": "When the rain pours down pop version",
       "url": "https://open.spotify.com/track/3Iy5oW0nnD5eljI43hP7XW"
+    },
+    {
+      "album": {
+        "name": "When You Come Around",
+        "url": "https://open.spotify.com/album/4yl68BtD6hBe6Hyp011hHk"
+      },
+      "artists": [
+        {
+          "name": "M\u00dcNE",
+          "url": "https://open.spotify.com/artist/0d7ucg4dn8r65y7UccChlb"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129896,
+      "name": "When You Come Around",
+      "url": "https://open.spotify.com/track/69DbJuuhzL86mI8a8MnSOS"
     },
     {
       "album": {

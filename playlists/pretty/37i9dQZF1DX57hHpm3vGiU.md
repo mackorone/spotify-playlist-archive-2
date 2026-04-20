@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 
 > Respira y medita con los sonidos de este ancestral instrumento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,054 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,076 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 | 63 | [Trancending Bowls](https://open.spotify.com/track/7xw6Krd1yCiY9vFiQN5QTv) | [Munnafurl](https://open.spotify.com/artist/0Sm6aVKkEf6RBbTJVnUc2M) | [Trancending Bowls](https://open.spotify.com/album/4E83vsCv1Td8d0IIzUUl2s) | 2:18 |
 | 64 | [528 Hz Aural Cleanse](https://open.spotify.com/track/3wR0M6V0VWL4gUJyg6d05f) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [528 Hz Aural Cleanse](https://open.spotify.com/album/1JBWLYHgt7rhqRZgKHuXOq) | 2:41 |
 | 65 | [Fire Within](https://open.spotify.com/track/0AOOvQJMngKs6ujU0okQRq) | [Bowls Of Serenity](https://open.spotify.com/artist/5cO4FF3bJZ0euYXHbBWHsz) | [Fire Within](https://open.spotify.com/album/3DM0lkZlZ3QR5fa3sNvdTn) | 3:27 |
-| 66 | [Tibetan Bowls • Sacral Chakra \(Svadhisthana\)](https://open.spotify.com/track/0P7rqqIpKrOE9sN4dwaS4R) | [Sat\-Chit](https://open.spotify.com/artist/4Cru1k3r3v36wCWfcJMK2y) | [Tibetan Bowls & 7 Chakras](https://open.spotify.com/album/14MGu5NEgftTRb4ZOvBdVr) | 3:00 |
+| 66 | [II\. Sacred Waters](https://open.spotify.com/track/0P7rqqIpKrOE9sN4dwaS4R) | [Sat\-Chit](https://open.spotify.com/artist/4Cru1k3r3v36wCWfcJMK2y) | [The Seven Alignments](https://open.spotify.com/album/14MGu5NEgftTRb4ZOvBdVr) | 3:00 |
 | 67 | [Auric Drift](https://open.spotify.com/track/06TDCIdj8a2776GkGGow4Y) | [Adrian Moor](https://open.spotify.com/artist/5J6jx2CjmC4r4QeNCeWYbB) | [Auric Drift](https://open.spotify.com/album/2DGKDfafiVgHVeIVt2GEwB) | 2:05 |
 | 68 | [1/2 Singing Bowl \(Ascension\) \- Excerpt](https://open.spotify.com/track/4C4Cni4yKvGFthrJ3VRjfM) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Meditations](https://open.spotify.com/album/79EfVLabvmR4nUhpr2rF8s) | 4:30 |
 | 69 | [Tibetan Bowl Meditation Sound](https://open.spotify.com/track/7v9WywoJRB4VZKGuZovBqn) | [Wangmo Lhamo](https://open.spotify.com/artist/3dodLXsbBGHho6yKUubQBp) | [Tibetan Singing Bowls](https://open.spotify.com/album/63NsvCYH94Is8KjKqhGvK8) | 5:07 |

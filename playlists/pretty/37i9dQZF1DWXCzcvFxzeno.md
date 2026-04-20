@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,285 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,555 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 99 | [DRONE \- LESSSS EDIT](https://open.spotify.com/track/0Ns77ZocJgmY9dSHGesXij) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [Train Fantôme](https://open.spotify.com/artist/2mjW4mSSSH70mD4tH0Ijsg) | [DRONE \(LESSSS EDIT\)](https://open.spotify.com/album/4v5GFSdaDlbNItNJgO3qrE) | 2:52 |
 | 100 | [Get Naughty](https://open.spotify.com/track/2jLJXddJOrdDh8XiL0K9nt) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Get Naughty](https://open.spotify.com/album/4xknrXxDZWckpqXI2v4Fgo) | 1:57 |
 
-Snapshot ID: `AAAAAJeg042JQvQhvfDcQuUuUL7VtbsJ`
+Snapshot ID: `AAAAAAvz5YJMYRtSg1eFfbP1aFWV9prr`

@@ -2834,7 +2834,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 224351,
       "name": "Al Final del D\u00eda",
       "url": "https://open.spotify.com/track/5H8LciSEYfQELyQlNCVZZi"
@@ -9158,7 +9158,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
@@ -20704,7 +20704,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 198466,
       "name": "D\u00edas Tristes",
       "url": "https://open.spotify.com/track/0BSG1hM4RR2ZtY50Fvkcdx"
@@ -37032,7 +37032,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 179149,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/3i5yV30C8kFn84q5qIh2sY"
@@ -42218,7 +42218,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 139400,
       "name": "MHM",
       "url": "https://open.spotify.com/track/4gHWdRP5ocZkEhq1iDStoI"
@@ -47102,6 +47102,24 @@
       "duration_ms": 162168,
       "name": "No Es Mi Culpa",
       "url": "https://open.spotify.com/track/4g9L86wVbaKftGs6UYAMHy"
+    },
+    {
+      "album": {
+        "name": "No es mi Culpa (Cumbia) [Naxos Sound]",
+        "url": "https://open.spotify.com/album/2UgyVb4OoORUMuGMrEyE4y"
+      },
+      "artists": [
+        {
+          "name": "Naxos Sound",
+          "url": "https://open.spotify.com/artist/3zQqJuUkKZSSRHOcSXOmhl"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "No es mi Culpa (Cumbia) [Naxos Sound]",
+      "url": "https://open.spotify.com/track/1NYHWdIpzVvwgEDKi05F9I"
     },
     {
       "album": {
@@ -65874,7 +65892,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 185608,
       "name": "Te Entiendo",
       "url": "https://open.spotify.com/track/03E9tKV8v3R1YQIz3MWlMU"
@@ -66824,7 +66842,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 211022,
       "name": "Termonuclear",
       "url": "https://open.spotify.com/track/7AvyWxJDbrAjR3G50RBW3b"

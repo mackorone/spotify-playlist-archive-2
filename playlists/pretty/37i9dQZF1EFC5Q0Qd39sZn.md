@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,535 likes - 580 songs - 1 day 16 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,539 likes - 580 songs - 1 day 16 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,8 +204,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 194 | [Take It to Heart](https://open.spotify.com/track/2mdNWsx6evoVi9IhD6P9uL) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Take It to Heart](https://open.spotify.com/album/26DyP2oh3gRsq5eNR1gjtV) | 5:57 |
 | 195 | [No Quiero Estar Solo \- I Don't Want To Live Without Your Love](https://open.spotify.com/track/045UJJgTyiur8Nb43cgHdB) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [Tesoros De Colección](https://open.spotify.com/album/4FXrmGk8amalcdXTBy33Il) | 3:50 |
 | 196 | [Refugio De Amor \(You Are My Home\) \- Salsa](https://open.spotify.com/track/1RqKtxUtUC7niG3ob60jkV) | [Vanessa L\. Williams](https://open.spotify.com/artist/2LaI36n7EVNlR6SSqv9cKg), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne Fan's Pack \- Tiempo De Vals/Volver A Nacer/Atado A Tu Amor](https://open.spotify.com/album/4Uq8uQ70aZEXmyn4a3EnDZ) | 5:28 |
-| 197 | [What We Leave Behind](https://open.spotify.com/track/1hSC6vWh3Rzkn9JSWicerC) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Miss You Already \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OJEishIRloK73nEQ5y8Eh) | 3:12 |
-| 198 | [I Would Find a Way](https://open.spotify.com/track/6fYrcILR5hdVlAAdcg4G4N) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 5:05 |
+| 197 | [I Would Find a Way](https://open.spotify.com/track/6fYrcILR5hdVlAAdcg4G4N) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 5:05 |
+| 198 | [What We Leave Behind](https://open.spotify.com/track/1hSC6vWh3Rzkn9JSWicerC) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Miss You Already \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OJEishIRloK73nEQ5y8Eh) | 3:12 |
 | 199 | [I Bow Out](https://open.spotify.com/track/2VgaALs0kKa9EG76A7T7uB) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:29 |
 | 200 | [You Pulled Me Through](https://open.spotify.com/track/20wlQCBAmNzKw7hRJ7eQR1) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/2keYz2u0j1QdnZw2z88kXp) | 3:39 |
 | 201 | [Does Anybody Really Fall in Love Anymore](https://open.spotify.com/track/0kKIjuEgtE5J930ugt5iJd) | [Kane Roberts](https://open.spotify.com/artist/12FdDK5z7grZIamaG6xTUK) | [Saints and Sinners](https://open.spotify.com/album/5bP6uh6TmVYOI6kVmDc7cz) | 4:25 |
@@ -388,8 +388,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 378 | [You're Right, I Was Wrong](https://open.spotify.com/track/3XyvYg1ffmvYJT0YZ334Rj) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [I Couldn´t Have Said It Better Myself](https://open.spotify.com/album/4aIx98BVdGYLJGGftvmGVS) | 3:44 |
 | 379 | [Other People's Lives](https://open.spotify.com/track/5y9HLY26I0nytnGUKC913B) | [Don Johnson](https://open.spotify.com/artist/29gt8yNK2jFp21ZWXISskB) | [Let It Roll](https://open.spotify.com/album/3ugyPjTyWpPkiIOzCGNj9B) | 5:27 |
 | 380 | [Rain Song](https://open.spotify.com/track/3vvANCgxwW8W4AcBltmIWL) | [Air Traffic Controller](https://open.spotify.com/artist/2Oboq4Pq88TcC9eUn2HSW9) | [The One](https://open.spotify.com/album/6otLnUU2t5iyRLD08kbpCJ) | 5:41 |
-| 381 | [Your Heart Is Safe With Me](https://open.spotify.com/track/223UQ3ktTf6AvbhIdGips6) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 3:50 |
-| 382 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 |
+| 381 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 |
+| 382 | [Your Heart Is Safe With Me](https://open.spotify.com/track/223UQ3ktTf6AvbhIdGips6) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 3:50 |
 | 383 | [¿Quien Eres Tu?](https://open.spotify.com/track/4J7w6Bb668rRhok7ibv9Y1) | [Fabiola Rodas](https://open.spotify.com/artist/4IB1Wnh0oN0YpQ66lD2Ji5) | [Mi Gran Desafío](https://open.spotify.com/album/4Fnw5DMfyNj2ySU1UujnHb) | 4:41 |
 | 384 | [If This Time Is The Last Time](https://open.spotify.com/track/2ji3qfdV8NceFnmLiQAsbs) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [From Q, With Love](https://open.spotify.com/album/6mJAFD0VbLBJ5wyHs9HG3r) | 4:42 |
 | 385 | [I Tried](https://open.spotify.com/track/4ik9oDeRdXGKheZ6LXLFWX) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Legacy \(Volume One\)](https://open.spotify.com/album/4Cpi2rXw1GfsC8L4je7lO6) | 4:04 |
@@ -476,8 +476,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 466 | [Only Love](https://open.spotify.com/track/29kLaik7s8woznFMjGv2qW) | [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL) | [When You're A Boy](https://open.spotify.com/album/5jggxDQtP1eGNgqOAThQSY) | 4:24 |
 | 467 | [My Heart Stops \- Rare 1991 Single](https://open.spotify.com/track/3HZp3IlkLnFE4GmozyAwJW) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [And Now, Eric Carmen: The Arista Archive](https://open.spotify.com/album/5fUs01SES1Y4loD2Kg1TGr) | 3:25 |
 | 468 | [Live On Love \- Extended Mix](https://open.spotify.com/track/0BEP3J7Dsxb2nlpeAYYXyL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Feel Again](https://open.spotify.com/album/6Z57L1nJyOsBAX2JpP9xMb) | 3:49 |
-| 469 | [Come to me](https://open.spotify.com/track/4OAcAKsJdDUOKpTwrWuJfW) | [David Soul](https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT) | [Leave a Light On](https://open.spotify.com/album/0X64CLJ2eu6WIDHIPB5xyy) | 4:35 |
-| 470 | [Tell It To The Moon](https://open.spotify.com/track/6VBDF1Q6du1T7p8LhyiblP) | [Martha Davis](https://open.spotify.com/artist/2ioCVuqjcRCoQPhEYY0kmg) | [Policy](https://open.spotify.com/album/3LYSK5WS0E3QigUu1mu0fs) | 4:11 |
+| 469 | [Tell It To The Moon](https://open.spotify.com/track/6VBDF1Q6du1T7p8LhyiblP) | [Martha Davis](https://open.spotify.com/artist/2ioCVuqjcRCoQPhEYY0kmg) | [Policy](https://open.spotify.com/album/3LYSK5WS0E3QigUu1mu0fs) | 4:11 |
+| 470 | [Come to me](https://open.spotify.com/track/4OAcAKsJdDUOKpTwrWuJfW) | [David Soul](https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT) | [Leave a Light On](https://open.spotify.com/album/0X64CLJ2eu6WIDHIPB5xyy) | 4:35 |
 | 471 | [When A Woman Loves](https://open.spotify.com/track/46AvHcDi2KMqHseC0EHqNg) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 4:47 |
 | 472 | [I Fall Apart](https://open.spotify.com/track/6R64DEh82kywtSrV5SUOon) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t) | [I'm On Your Side](https://open.spotify.com/album/2fOvOtI7GLwRP5B9PM4N5L) | 4:02 |
 | 473 | [Permanent \- Acoustic](https://open.spotify.com/track/5RrS6yl9Hrs1woLXPyGnCY) | [Sabrina](https://open.spotify.com/artist/5xJfSowQoxaxY4DCVLTfr5) | [Sab](https://open.spotify.com/album/6ms0diwAEhvgSdVBEE53O4) | 4:04 |
@@ -589,4 +589,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 579 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 580 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcPOCAAAAACOUKICwn9xzYSeRXu/6KG9`
+Snapshot ID: `AcPTqAAAAAAV3hQ2n/jMBOMz0co3UP87`

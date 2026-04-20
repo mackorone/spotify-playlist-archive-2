@@ -4,7 +4,7 @@
 
 > 
 
-953 songs - 2 day 12 hr 6 min
+962 songs - 2 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,9 +23,11 @@
 | [A bird of passage](https://open.spotify.com/track/7jKTfChau2O81uF7ao7iVf) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Impartments](https://open.spotify.com/album/4WVCTDY3bZDiTnK5246kRT) | 7:06 | 2025-04-29 |  |
 | [A Memory To Discard](https://open.spotify.com/track/1iEmE9AcekIhVpkYH5ey8h) | [Fat Drive Factory](https://open.spotify.com/artist/6JL7xnHim56hmMNyUDelFE) | [Buzzing Gently](https://open.spotify.com/album/5XNrh4o48GVluuIJOzRs7m) | 3:08 | 2025-06-12 |  |
 | [A Million Voices](https://open.spotify.com/track/26oIvwYJVkb2zAt1h7WIcy) | [Nekoticat](https://open.spotify.com/artist/3gpf34quiyNgkZgUrIrzJV) | [A Million Voices](https://open.spotify.com/album/1F8UPluQ7WFQa0zIAghAeX) | 3:21 | 2025-02-07 |  |
+| [A World Of Little Worlds](https://open.spotify.com/track/5sz9ipRxEIWqE27sufQwRs) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 4:59 | 2026-04-19 |  |
 | [A.I\. \- Alcohol Infection](https://open.spotify.com/track/6SeWrunp1kzM1urv8pHOBp) | [STESY](https://open.spotify.com/artist/10InLsi9iNzEaKN0L1e4eG) | [A.I\. \(Alcohol Infection\)](https://open.spotify.com/album/3FZVf1FphfBIIQP8zY72fo) | 3:33 | 2025-04-29 |  |
 | [A.S.A.Y.A.M](https://open.spotify.com/track/1cdhkhaR6xKTb9zSFS4m9x) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [A.S.A.Y.A.M](https://open.spotify.com/album/0cX90AHWTfibawdYu1JBtt) | 2:28 | 2025-07-02 |  |
 | [About a Girl](https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [About a Girl](https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB) | 2:45 | 2026-01-06 |  |
+| [After the Static](https://open.spotify.com/track/2HwzdpXICdNC72g4nn4ro6) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Control Room Lullaby](https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46) | 2:58 | 2026-04-19 |  |
 | [Aftermath](https://open.spotify.com/track/5KmJOcc1cHseGSo1Yw1ndV) | [ARUNE](https://open.spotify.com/artist/4hKVBzFJd7I482YxVSsLXr) | [Aftermath](https://open.spotify.com/album/1WgDvY7kZTHqbQmvZOUMHi) | 4:41 | 2025-04-29 |  |
 | [Afterwards](https://open.spotify.com/track/0CVTMPtqWzq1wHOGcDuyJH) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Afterwards](https://open.spotify.com/album/0dH7n4da5OKmmFm2FOyLvE) | 3:14 | 2025-07-27 |  |
 | [Aime\-moi](https://open.spotify.com/track/56GBAubspt7t3ZVUnMqGKF) | [Bertier](https://open.spotify.com/artist/6b4wj5meS7Z78cPKyBv8kF) | [Machine ronde](https://open.spotify.com/album/6H1yqP9CrcjXnLYHR8kNW4) | 3:31 | 2024-11-30 |  |
@@ -43,6 +45,7 @@
 | [All to Myself](https://open.spotify.com/track/3ab98g9DEtGkuLe4LPrblG) | [Patient](https://open.spotify.com/artist/0g8OBOtUriN73QZa47tjLY), [Matthew Zagorski](https://open.spotify.com/artist/7esUDRDjTCYJNRvxU1q8n4) | [Fever Dreams: Stage One](https://open.spotify.com/album/7fZdkoWoeLvbOnkBUnImGF) | 3:30 | 2024-12-12 |  |
 | [Alpha Orionis](https://open.spotify.com/track/5H5PkEi8lsJofyPFUOs10E) | [Brian Levitch Orchestra](https://open.spotify.com/artist/3Z1zOpwddL8xt3Ccpnq6gw) | [Astronomy](https://open.spotify.com/album/0lNC1TqmqQO35R4lfGLPCH) | 4:36 | 2025-05-15 |  |
 | [Already Lost](https://open.spotify.com/track/6MFWwyRhJmqbpsO1VtuuKV) | [Jack Hyphen](https://open.spotify.com/artist/5PhIhy7qymyD1DZyTDaUUq) | [Already Lost](https://open.spotify.com/album/4v1mbmGAgbiwfcEQiOZjB8) | 3:03 | 2025-07-02 |  |
+| [Altar](https://open.spotify.com/track/54W2cEcp8UaHgTD1927H2y) | [Fiebre de las Montañas Rocosas](https://open.spotify.com/artist/0wluskMzTXGEgOCmezbaNM) | [Altar](https://open.spotify.com/album/1UVSdVOF5KmQS1qO1GQEtE) | 3:42 | 2026-04-19 |  |
 | [Altercations](https://open.spotify.com/track/2aM4hkQFepJgw2ficSl0wR) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Altercations](https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA) | 5:10 | 2025-12-12 |  |
 | [Altum](https://open.spotify.com/track/4UaZhYRefyUG4wwY5UmAhx) | [Marccon](https://open.spotify.com/artist/3Wjbb98nW9w8jQRsFqgqtE) | [Nihil](https://open.spotify.com/album/2QGlKLGVZXZe54Hp4Y82m3) | 6:41 | 2025-10-16 |  |
 | [Amara](https://open.spotify.com/track/7JGWW6ja1OceuBXIYIE6IH) | [B.J Starink](https://open.spotify.com/artist/6tBJu6bwF9iKth36fU4QqB) | [Amara](https://open.spotify.com/album/6aSJ504UDWQm5K8Qz4uvRN) | 2:31 | 2026-03-14 |  |
@@ -440,6 +443,7 @@
 | [Love Playing with Fire](https://open.spotify.com/track/4SQVdmIE9F29Gg7G0JJXGf) | [Gla Lys](https://open.spotify.com/artist/4WiQ9z5ykjy7BQqfuiq0V7) | [Love Playing with Fire](https://open.spotify.com/album/10aMWFrldxhuv6khM13KQu) | 2:29 | 2024-12-12 |  |
 | [loverboy](https://open.spotify.com/track/1G4FozsbZDsYacSHn6lugp) | [Baylee Price](https://open.spotify.com/artist/2o0cXnmAk44UXsqTi4a9o7) | [loverboy](https://open.spotify.com/album/57l9u9L9mvATYjKy9fAsvC) | 2:54 | 2025-02-05 |  |
 | [Luce](https://open.spotify.com/track/4q27PAlW0y6gG1CILCpm3V) | [forse Elle](https://open.spotify.com/artist/0ZMKD6IwamHjC6TbR57NeC) | [Luce](https://open.spotify.com/album/04y1jvoG2yJLOQf4vfLuLZ) | 3:18 | 2025-05-15 |  |
+| [Lucid State](https://open.spotify.com/track/4MtTyKwT4elaUjhKBJytmK) | [Fortune Teller](https://open.spotify.com/artist/6xllSn5EskHUgWGzc7cAsm) | [Lucid State](https://open.spotify.com/album/1Lx3tSvojHJx3JPfPk8fHo) | 3:17 | 2026-04-19 |  |
 | [Lucky Eight](https://open.spotify.com/track/3N12sKNtWiyV2nIr2Bsr1T) | [Stately](https://open.spotify.com/artist/2nA4vAbRyNYZQKjguhExqf) | [Smoke Signals By The Cemetery](https://open.spotify.com/album/4HqqYpxplcLQTmMwAzYIff) | 4:00 | 2025-12-17 |  |
 | [Lycoris](https://open.spotify.com/track/5dYsPPD78kL7VoKeR08JkG) | [Reflection of Flesh](https://open.spotify.com/artist/0Rs07zaVCdgBdjxQQEBAOh) | [We Are Legion](https://open.spotify.com/album/4q5fMSTCIsS14rCSf8FXZC) | 5:00 | 2025-07-02 |  |
 | [Lärm](https://open.spotify.com/track/12WXkJI0UCNWg9Q38Dd5Tt) | [Punch Drunk Poets](https://open.spotify.com/artist/5AIiuf6qpRRCKnfnaLSS78) | [Lärm](https://open.spotify.com/album/0Lio5BdqW4YK5iccClzZpx) | 3:29 | 2026-02-19 |  |
@@ -475,6 +479,7 @@
 | [Misspent](https://open.spotify.com/track/459UNxLcKpCKTseACJfQrv) | [motionyear.](https://open.spotify.com/artist/1RObsV7QVHowlbE321jzrq) | [Misspent](https://open.spotify.com/album/2UU3ByAfLht4dvtrcnhhZP) | 3:00 | 2025-03-18 |  |
 | [Momento Mori](https://open.spotify.com/track/49ePDKF5tMrJ2GPOUj9829) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [Momento Mori](https://open.spotify.com/album/5JrpmkvL7Zjj9j0ajCv86C) | 3:47 | 2025-02-17 |  |
 | [Money](https://open.spotify.com/track/4A0rB6POrTKBUeWugJUc8J) | [After Years of Nothing](https://open.spotify.com/artist/6Gcn1amvnsZ4kvBnE1Lhak) | [Money](https://open.spotify.com/album/500ZQNFMeBD1WxN2FzR4Ej) | 3:10 | 2024-12-12 |  |
+| [Money Spine](https://open.spotify.com/track/2rcX6r2usMqP8Oa4L3YJA4) | [Hellblazers](https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz) | [Money Spine](https://open.spotify.com/album/6gseo6TclKYiE17rucZz3V) | 2:43 | 2026-04-19 |  |
 | [Monkey on My Back](https://open.spotify.com/track/5fqESrxJFL9E6hAGjEHDqu) | [Wilson Getchell](https://open.spotify.com/artist/5vVgsLGU7Y7zwfVrZo2yN3) | [Monkey on My Back](https://open.spotify.com/album/3pDgImcg4NMQe8DwWdLMOE) | 2:14 | 2025-10-23 |  |
 | [Montague](https://open.spotify.com/track/2RkLcTEFOMLxseVkpvNbNi) | [New Juliet](https://open.spotify.com/artist/7FMVmMH2AbtqrllpIhgi2K) | [Montague](https://open.spotify.com/album/2MwRWgs9OwTHvay6WFbP8V) | 3:46 | 2026-02-19 |  |
 | [mood](https://open.spotify.com/track/4squbSzIIaQEhiIw8fwhZM) | [sweet spot](https://open.spotify.com/artist/5g6lh5OdzecBe9pZMADJ94) | [catalyst](https://open.spotify.com/album/0aYadRD3G74uO6MM5A6g81) | 3:05 | 2025-07-17 |  |
@@ -568,6 +573,7 @@
 | [Outlaws & Armadillos](https://open.spotify.com/track/0a8HVdQqKUX2y6aKfreBYA) | [Travis Feutz](https://open.spotify.com/artist/0sMN3svE5NCXadJWUGMVqM) | [Outlaws & Armadillos](https://open.spotify.com/album/2jxIalv4ksueOXxzK2idxJ) | 3:30 | 2025-04-24 |  |
 | [Outrage](https://open.spotify.com/track/7maz0RHpG0BFmgo4Gz7rnv) | [Otis Shanty](https://open.spotify.com/artist/4boX3IB2STKtAEQfzhMOfn) | [Up On The Hill](https://open.spotify.com/album/0vwLPORrnNU3iMpk0VCsEe) | 3:39 | 2025-06-17 |  |
 | [Over It](https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Over It](https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI) | 3:11 | 2024-12-12 |  |
+| [over you](https://open.spotify.com/track/4v8of4HI3TgV8ssm2DzUic) | [Darro](https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG) | [over you](https://open.spotify.com/album/71UV6jFNDCAiDsJpK0qhNE) | 2:57 | 2026-04-19 |  |
 | [Pajarito no me cante](https://open.spotify.com/track/1YBnBYWbEmFok1Qw5YQcY5) | [n](https://open.spotify.com/artist/5j7VieEoHnheZ7BkpoJy0n) | [n, Vol\. 1: Ingresando al criptofolclor](https://open.spotify.com/album/7HFtnYcdSxRGlEFbGA21A6) | 2:07 | 2025-02-05 |  |
 | [Paper to Pen \(Aanthems Cover\)](https://open.spotify.com/track/5fKiXPFIBU39SV8Vht8zzQ) | [Dead End Drive\-In](https://open.spotify.com/artist/5ywrInSkiDhOqKX8cXeWiM) | [Punkouver, Vol\. 4](https://open.spotify.com/album/47eJSmGQkhIHzmZP3ZyaaG) | 4:29 | 2025-04-29 |  |
 | [PARALLEL HEART](https://open.spotify.com/track/3fjCPRgh7GgJ52Swmrd8wo) | [ABLAZE SCORPION](https://open.spotify.com/artist/4G0ONySSlfqNpbl2vu12Q9) | [PARALLEL HEART](https://open.spotify.com/album/3ElI9eLdqDHy4IJlK0tybC) | 3:23 | 2025-08-21 |  |
@@ -609,6 +615,7 @@
 | [Precipício](https://open.spotify.com/track/3mrfb0zuy7W5ujgHQPwPS3) | [Tempus Saturno](https://open.spotify.com/artist/5eczE1VQJTH2pkcsVYGLZn) | [Lado A Lado B](https://open.spotify.com/album/1z36iI7lmjN4m4sxPYemxC) | 5:02 | 2025-08-21 |  |
 | [Presente Imperfecto](https://open.spotify.com/track/0OHvFYxP5jCifoq7iDoixb) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Presente Imperfecto](https://open.spotify.com/album/2UCecjJfkHXvzZDbt4vfbk) | 2:59 | 2025-12-03 |  |
 | [Pretty When I'm Wicked](https://open.spotify.com/track/02hZHCp57yAqyrb3mSRDs7) | [Rose Dunn Music](https://open.spotify.com/artist/0VWOHUs4vZqLNyLe8I4Oa9) | [Pretty When I'm Wicked](https://open.spotify.com/album/6AyTFtNA5vpnDuOQPVZaFI) | 6:00 | 2025-12-30 |  |
+| [Pride](https://open.spotify.com/track/5fTYOxtkQXksKM7Pbj6SQy) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 2:32 | 2026-04-19 |  |
 | [Prisoner of Reality](https://open.spotify.com/track/4KYzzHKIxGDn0qurycCXvu) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Prisoner of Reality](https://open.spotify.com/album/0QWEQ6dH1kstpvCG8TFFYG) | 4:17 | 2024-12-20 |  |
 | [Proletariat](https://open.spotify.com/track/19TMaqKmYv6ObFwtgTy6wD) | [OSSIFER](https://open.spotify.com/artist/7hpGCrRqtmaoDuQ98GKWdx) | [Proletariat](https://open.spotify.com/album/4ZH9TWkAMpl7pRmG74fDKX) | 5:25 | 2025-02-05 |  |
 | [Proof of Love](https://open.spotify.com/track/67Ig6PY66hqzrKe8rSvHiD) | [Aella Moon](https://open.spotify.com/artist/3NTYDGHWKfrCl4fpJnkApo) | [Proof of Love](https://open.spotify.com/album/1B5rexLLZZ0ZAx4Om6hyxv) | 4:19 | 2026-01-14 |  |
@@ -726,6 +733,7 @@
 | [Spiral](https://open.spotify.com/track/2GmR8f2PjE9gcUkRws7rYJ) | [Worn Out Welcome](https://open.spotify.com/artist/0ibx8tICHFMIC94A8NrrqM) | [Spiral](https://open.spotify.com/album/2q2Ht27aBPC0AbXIEO4gmA) | 3:46 | 2026-01-06 |  |
 | [Spoiled Rotten \(HD\)](https://open.spotify.com/track/5QjNMb2PjmCDLZeBYno1hQ) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Spoiled Rotten \(HD\)](https://open.spotify.com/album/6l3BPCW6PDE8y5wzZTmmUf) | 4:11 | 2026-01-29 |  |
 | [Spoke For What I Knew](https://open.spotify.com/track/6dmKJ04Z4Fordv0ZclXe2L) | [Ben Aubergine](https://open.spotify.com/artist/3HoBbX5K0WawMbfNfXjqPz) | [Spoke For What I Knew](https://open.spotify.com/album/2OoIaaauNBjWt5ulMq1YHW) | 3:37 | 2025-09-19 |  |
+| [Spooky](https://open.spotify.com/track/7AxVcolQlPh6CAzlDHj3uq) | [S.H.O.U.T](https://open.spotify.com/artist/5Gn7doGZ1cPCZuIuzVU6RD) | [Spooky](https://open.spotify.com/album/4Cq7ROdCiucj4EB7Nc3Egb) | 3:52 | 2026-04-19 |  |
 | [Spur of the Moment](https://open.spotify.com/track/03mD3frBW8OoknLYhtnf1L) | [Halcyon Hope](https://open.spotify.com/artist/4NSRFakKY1ZFd1cYMzlTzn) | [Spur of the Moment](https://open.spotify.com/album/3mSlFoSXt2TBmQw3J91e9X) | 3:04 | 2025-03-18 |  |
 | [Squabbles](https://open.spotify.com/track/1CvBST7guxLi0Y5jmxzfQs) | [JD](https://open.spotify.com/artist/5Lg7RoJ44wClpSQRlekSOB) | [Squabbles](https://open.spotify.com/album/1sq4QouZGEz9u1q0AZDT5s) | 4:58 | 2025-03-18 |  |
 | [St'Infami](https://open.spotify.com/track/70uAJbAMGGBes17gaZHWaD) | [Te In Eterno](https://open.spotify.com/artist/3yrnbpfwbD8yGy939iYwYe) | [Cuore Di Ghiaccio](https://open.spotify.com/album/4TP6SzVwVPc76LFNT0Zi0e) | 1:42 | 2025-04-29 |  |
@@ -892,6 +900,7 @@
 | [We Fall](https://open.spotify.com/track/4XgrdIKbct69oRz8s6481E) | [Clouds Indoor](https://open.spotify.com/artist/5p1Y1a5nA5iYrGhgTG8egU) | [We Fall](https://open.spotify.com/album/6tuaLigFEgffymb6FWuwYC) | 4:58 | 2025-08-03 |  |
 | [We Knew Before It Fell](https://open.spotify.com/track/4HRc66xxczcxqh0fX8MSuX) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Control Room Lullaby](https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46) | 2:35 | 2026-03-27 |  |
 | [We Should Form a Band](https://open.spotify.com/track/3r9hh8plFZKWymWRPswVXX) | [You Filthy Dog](https://open.spotify.com/artist/5pf3ELlJohVJgYNsNtcjf6) | [We Should Form a Band](https://open.spotify.com/album/5pe09p9PxEqzu7rDHgmflA) | 2:09 | 2025-06-18 |  |
+| [We Wanna Make Love to You \(But…\)](https://open.spotify.com/track/24IjNetsSPkO151kkBybjV) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [We Wanna Make Love to You \(But…\)](https://open.spotify.com/album/24yQZl3mH73nxFJUomieBE) | 2:13 | 2026-04-19 |  |
 | [We're Not Going Back !](https://open.spotify.com/track/2ZfUwtNAa1m2pFfbw12P1f) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [We're Not Going Back !](https://open.spotify.com/album/24RpqAI2h0N71yyWZAHjUR) | 3:09 | 2025-11-04 |  |
 | [Weak and Tired](https://open.spotify.com/track/0hSQV5d5boeEhXtQ1tzQX7) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Messed Up](https://open.spotify.com/album/47irEOvWe6aeYqCORfxZWE) | 3:07 | 2026-03-14 |  |
 | [Welcome to the Universe](https://open.spotify.com/track/0Ds3hc8Bo1uanISxu2Fgu9) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [La planète des ânes](https://open.spotify.com/album/0S9Ttf5LhN0XCCJ04dXNUy) | 3:22 | 2025-01-15 |  |

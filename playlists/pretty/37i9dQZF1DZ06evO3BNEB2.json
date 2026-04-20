@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40290,
+  "num_followers": 40289,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAABK6VY11eND/xpvE91Jiru5",
+  "snapshot_id": "aeLJgAAAAACh4uj8p04dCo6RnDeqchd3",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sex, Love & Pain II",
-        "url": "https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 245986,
-      "name": "You Don't Know (feat. Wale)",
-      "url": "https://open.spotify.com/track/3mSkzP4ud5KG26OIVIAL3s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
         "url": "https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 247293,
       "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
       "url": "https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sex, Love & Pain II",
+        "url": "https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 245986,
+      "name": "You Don't Know (feat. Wale)",
+      "url": "https://open.spotify.com/track/3mSkzP4ud5KG26OIVIAL3s"
     },
     {
       "added_at": null,
@@ -1015,30 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Never Visit Me (feat. Wale & Enny)",
-        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "You Never Visit Me (feat. Wale & Enny)",
-      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pray for Paris",
         "url": "https://open.spotify.com/album/6nfJMRoIjyRwk3ZTHNm0PY"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 288004,
       "name": "French Toast (feat. Wale & Joyce Wrice)",
       "url": "https://open.spotify.com/track/0RoV9OBxlqxkzFEv6LAm84"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Never Visit Me (feat. Wale & Enny)",
+        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "You Never Visit Me (feat. Wale & Enny)",
+      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
     }
   ],
   "unique_name": "This Is Wale",

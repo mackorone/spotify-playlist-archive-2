@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 710 songs - 1 day 22 hr 15 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 712 songs - 1 day 22 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -718,5 +718,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 708 | [Air on a G String](https://open.spotify.com/track/5MV7OsDQMZGHDrdWnHim7O) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk](https://open.spotify.com/album/4Ru8u9idKX3t67U7xCf5QA) | 3:01 |
 | 709 | [Manifesto](https://open.spotify.com/track/5i2859ZJXGPOzDwdZSOMiH) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Manifesto](https://open.spotify.com/album/1LDD2nUQ17tm1WMchsevtp) | 5:29 |
 | 710 | [Light My Dart Up](https://open.spotify.com/track/367GA7wOCuScxnLH5SlAup) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Rainbow Valley](https://open.spotify.com/album/5k2ppB8SwrTTFyHUoqRzBW) | 3:59 |
+| 711 | [Sevastopol](https://open.spotify.com/track/52wrDCbeWsiPwv8n5qatD1) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [URGH](https://open.spotify.com/album/2W2pytiTdjR0VArgmbQD3M) | 2:22 |
+| 712 | [Tilt](https://open.spotify.com/track/0ZV0aqU5aMLDDyAqfPf3dU) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Lost & Found](https://open.spotify.com/album/3vnvvODpAWJFZiQWjzeLyU) | 2:39 |
 
-Snapshot ID: `AAAI7fzeBwOn7iZTtLgYwNGdfgb9TXAc`
+Snapshot ID: `AAAI9Ol/0IniWugvm0phRbAv63wc2OlL`

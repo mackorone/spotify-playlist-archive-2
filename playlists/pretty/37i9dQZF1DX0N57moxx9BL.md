@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Switchfoot
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,440 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,510 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 69 | [PARALLEL \- Live](https://open.spotify.com/track/0zENtJckaa2Nn4XKoKwPZK) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [PARALLEL \(Live\)](https://open.spotify.com/album/4WzVV8wFMiPCPJwLeQ7AK8) | 5:38 |
 | 70 | [Promise](https://open.spotify.com/track/6Q5YYS4lXSO77pnepu4Tte) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Promise](https://open.spotify.com/album/4OK9yH5JyZttlWxvzgRg0G) | 3:50 |
 
-Snapshot ID: `AAAAABPmDoXuT7tgKwDZvfJhoc8zJmTB`
+Snapshot ID: `AAAAANYHKJNJdtVzibDZgAVvmICxxYzH`

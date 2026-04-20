@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,201 likes - 93 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,204 likes - 93 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 75 | [Tough](https://open.spotify.com/track/3w0pWq2jhYjdUPQdvk2H5c) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Tyler Hubbard](https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu) | 3:06 |
 | 76 | [One Cry \(feat\. Rosa Linn\)](https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Rx](https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx) | 3:06 |
 | 77 | [Amore \(feat\. Rick Ross\)](https://open.spotify.com/track/77AyJAWtrpoyi9ZDW4dn46) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:54 |
-| 78 | [On The Go \(feat\. Pink Sweat$ & Lunay\)](https://open.spotify.com/track/63VYzrJIEVMcKEXRy3MiuH) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:59 |
-| 79 | [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 |
+| 78 | [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 |
+| 79 | [On The Go \(feat\. Pink Sweat$ & Lunay\)](https://open.spotify.com/track/63VYzrJIEVMcKEXRy3MiuH) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:59 |
 | 80 | [Death Row](https://open.spotify.com/track/07K1WRKXskn1izYOFPnl0A) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 3:00 |
 | 81 | [When It Rains](https://open.spotify.com/track/3wRX11O73Ewv2wigpS8FEm) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/0FWLTTcCKsd3b1PiW9GTEN) | 2:22 |
 | 82 | [Empty](https://open.spotify.com/track/1LxLkxWL22Z9aJhkqrkUlz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:28 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 92 | [Party, Fun, Love & Radio \(feat\. J\. Trill\)](https://open.spotify.com/track/02bcP3PjAT5y0o2eCxAJbv) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [J Trill](https://open.spotify.com/artist/6KA6yMLQymzZyrPReCy1A5) | [Party, Fun, Love & Radio](https://open.spotify.com/album/0F6q9ypqrKlsiaRviyoZwG) | 3:25 |
 | 93 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 
-Snapshot ID: `AcPOHAAAAAA0KuMiHf5KYlL5k/vQ9pJc`
+Snapshot ID: `AcPTgAAAAABNrGe0FeXkbm6TgHNyxo/n`

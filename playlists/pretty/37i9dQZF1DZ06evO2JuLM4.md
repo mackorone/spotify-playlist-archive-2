@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 44 | [City Lights \- Previously Unreleased](https://open.spotify.com/track/40yDK5dtwoxe7HM60Mwreh) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [City Lights \(Previously Unreleased\)](https://open.spotify.com/album/6BwGSxv8V0quMFwljl6jcF) | 4:50 |
 | 45 | [We Are Going to Be Friends \- Live](https://open.spotify.com/track/0txDgoD88eGv8zFrhYLJF2) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Under Great White Northern Lights \(Live\)](https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W) | 2:24 |
 
-Snapshot ID: `aeF4AAAAAADYVNRcD3cvbKc042g2L2Ab`
+Snapshot ID: `aeLJgAAAAAD5b17gSbI1X/PK6kgBTZKI`

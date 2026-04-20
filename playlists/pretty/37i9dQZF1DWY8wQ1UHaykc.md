@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Fatin
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,936 likes - 184 songs - 12 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,974 likes - 184 songs - 12 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

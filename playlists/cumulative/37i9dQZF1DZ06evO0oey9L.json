@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Derecha La Flecha",
+        "url": "https://open.spotify.com/album/1xiSb0JPOxGd1JnOejlAVY"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178327,
+      "name": "Derecha La Flecha",
+      "url": "https://open.spotify.com/track/6Qei0rSgoDr6jjsvbZ0sCp"
+    },
+    {
+      "album": {
         "name": "Lo Prometido Es Deuda (Vol.4)",
         "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
       },
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 161693,
       "name": "Loco Malandro",
       "url": "https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA"

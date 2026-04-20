@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73830,
+  "num_followers": 73831,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAACLwHe5szuV75gmQ694CQe4",
+  "snapshot_id": "aeLJgAAAAADl1ji6JPsyq+oBn3AInq9o",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 289041,
-      "name": "Puro Nardo",
-      "url": "https://open.spotify.com/track/7LHGwdC5OJpb4v8nO0ie73"
+      "duration_ms": 420234,
+      "name": "Apenas um Toque",
+      "url": "https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 420234,
-      "name": "Apenas um Toque",
-      "url": "https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY"
+      "duration_ms": 289041,
+      "name": "Puro Nardo",
+      "url": "https://open.spotify.com/track/7LHGwdC5OJpb4v8nO0ie73"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paix\u00e3o de Cristo - O Musical",
-        "url": "https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 193004,
-      "name": "Vinho e P\u00e3o",
-      "url": "https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
         "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 366461,
       "name": "Yeshua (Ao Vivo)",
       "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paix\u00e3o de Cristo - O Musical",
+        "url": "https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 193004,
+      "name": "Vinho e P\u00e3o",
+      "url": "https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 305342,
+      "name": "Adorai, Adonai",
+      "url": "https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pra Me Alegrar",
         "url": "https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 241906,
       "name": "O Deserto Vale Ouro (feat. Fernanda Brum)",
       "url": "https://open.spotify.com/track/4NaIYChm0oaF9yVotZpEiU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 305342,
-      "name": "Adorai, Adonai",
-      "url": "https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 266332,
-      "name": "Marcas",
-      "url": "https://open.spotify.com/track/5q2t4YnLSh9KkNvEGxL2Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cura-me",
         "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 273670,
       "name": "Como Se Cura a Ferida",
       "url": "https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 266332,
+      "name": "Marcas",
+      "url": "https://open.spotify.com/track/5q2t4YnLSh9KkNvEGxL2Dm"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fara\u00f3 ou Deus?",
-        "url": "https://open.spotify.com/album/5B1HnQZlDWNvY7OQE1F2uz"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 295530,
-      "name": "Fara\u00f3 ou Deus?",
-      "url": "https://open.spotify.com/track/2k6ytNPcfFJfIhEVY3F33T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meu Bem Maior",
         "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 218128,
       "name": "Tua Gl\u00f3ria",
       "url": "https://open.spotify.com/track/6hpoiNQJcl8rVg3xaxBZzI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fara\u00f3 ou Deus?",
+        "url": "https://open.spotify.com/album/5B1HnQZlDWNvY7OQE1F2uz"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 295530,
+      "name": "Fara\u00f3 ou Deus?",
+      "url": "https://open.spotify.com/track/2k6ytNPcfFJfIhEVY3F33T"
     },
     {
       "added_at": null,
@@ -879,18 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fernanda Brum Ao Vivo em Israel",
-        "url": "https://open.spotify.com/album/4r7gzWWm6HHeBhwXeeQ9EO"
+        "name": "Entre",
+        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
       },
       "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
         {
           "name": "Fernanda Brum",
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 280171,
-      "name": "Via Dolorosa",
-      "url": "https://open.spotify.com/track/7FgZmixef7Zws3uiAD21sw"
+      "duration_ms": 304813,
+      "name": "Te Amo Tanto (feat. Fernanda Brum)",
+      "url": "https://open.spotify.com/track/1dZmUPNuSob99F8hLnwCfb"
     },
     {
       "added_at": null,
@@ -967,22 +971,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre",
-        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
+        "name": "Fernanda Brum Ao Vivo em Israel",
+        "url": "https://open.spotify.com/album/4r7gzWWm6HHeBhwXeeQ9EO"
       },
       "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
         {
           "name": "Fernanda Brum",
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 304813,
-      "name": "Te Amo Tanto (feat. Fernanda Brum)",
-      "url": "https://open.spotify.com/track/1dZmUPNuSob99F8hLnwCfb"
+      "duration_ms": 280171,
+      "name": "Via Dolorosa",
+      "url": "https://open.spotify.com/track/7FgZmixef7Zws3uiAD21sw"
     },
     {
       "added_at": null,

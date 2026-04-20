@@ -4,7 +4,7 @@
 
 > Vaundyの楽曲を1つのプレイリストで。All the essentials from Vaundy.
 
-91 songs - 7 hr 45 min
+92 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 | 2023-11-14 |  |
 | [そんなbitterな話](https://open.spotify.com/track/4DmmljTCS4ViQRSLCiMnOt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:36 | 2023-11-14 |  |
 | [まぶた](https://open.spotify.com/track/2TUKLEXyjtKOmTjJupAexh) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:16 | 2023-11-14 |  |
+| [イデアが溢れて眠れない](https://open.spotify.com/track/4nsrIXDihSYr8eb56j015A) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [イデアが溢れて眠れない](https://open.spotify.com/album/1dBWNF06b7lnCF1M2SLTTZ) | 4:22 | 2026-04-19 |  |
 | [カーニバル](https://open.spotify.com/track/5XGhwqu1TB391if1pD4lje) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:23 | 2023-11-14 |  |
 | [ココロありがとう](https://open.spotify.com/track/0BJoEqn7PsV1M36n1qXZ1l) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/3r4dZNt9oSqtYHs5SJOxbm) | 4:48 | 2024-02-27 |  |
 | [シンギュラリティ](https://open.spotify.com/track/0XamVfkI6uAAjvpbVnerBx) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [シンギュラリティ](https://open.spotify.com/album/43LrARnpinuGWHiRvEwAxZ) | 4:08 | 2026-02-10 |  |

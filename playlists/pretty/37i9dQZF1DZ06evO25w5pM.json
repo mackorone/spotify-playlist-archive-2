@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19611,
+  "num_followers": 19612,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAADVk1qkXixWDZhvYCl3Viqt",
+  "snapshot_id": "aeLJgAAAAABaN5PepGHs8oxhj5+M/g+l",
   "tracks": [
     {
       "added_at": null,
@@ -259,18 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx"
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
       "artists": [
         {
           "name": "Deuter",
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
         }
       ],
-      "duration_ms": 1125226,
-      "name": "Endless Horizon",
-      "url": "https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3"
+      "duration_ms": 464360,
+      "name": "Gaia Dreaming Herself Awake",
+      "url": "https://open.spotify.com/track/7lQ6P6agn49OUCedmJSw5q"
     },
     {
       "added_at": null,
@@ -291,22 +295,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garden of the Gods",
-        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+        "name": "Space",
+        "url": "https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx"
       },
       "artists": [
         {
           "name": "Deuter",
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        },
-        {
-          "name": "Annette Cantor",
-          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
         }
       ],
-      "duration_ms": 464360,
-      "name": "Gaia Dreaming Herself Awake",
-      "url": "https://open.spotify.com/track/7lQ6P6agn49OUCedmJSw5q"
+      "duration_ms": 1125226,
+      "name": "Endless Horizon",
+      "url": "https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3"
     },
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mystery of Light",
-        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
+        "name": "Reiki Healing",
+        "url": "https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 305226,
-      "name": "Celestial Meadows",
-      "url": "https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx"
+      "duration_ms": 342346,
+      "name": "Song of a Dream",
+      "url": "https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Healing",
-        "url": "https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 342346,
-      "name": "Song of a Dream",
-      "url": "https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reiki Hands of Light",
         "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
       },
@@ -471,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empty Sky",
-        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
+        "name": "Mystery of Light",
+        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
       },
       "artists": [
         {
@@ -480,9 +464,25 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 386840,
-      "name": "Surfing the Clouds",
-      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
+      "duration_ms": 305226,
+      "name": "Celestial Meadows",
+      "url": "https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 587746,
+      "name": "Matamua",
+      "url": "https://open.spotify.com/track/472kQ99QrEpFLaLBUglVF3"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 587746,
-      "name": "Matamua",
-      "url": "https://open.spotify.com/track/472kQ99QrEpFLaLBUglVF3"
+      "duration_ms": 386840,
+      "name": "Surfing the Clouds",
+      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Hands of Light",
-        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 610733,
-      "name": "Loving Touch",
-      "url": "https://open.spotify.com/track/0hdMmviZDiyTsuctkBtLpC"
+      "duration_ms": 566813,
+      "name": "Schein und Widerschein",
+      "url": "https://open.spotify.com/track/23j21SUvekEAMAmQKLRUY2"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 566813,
-      "name": "Schein und Widerschein",
-      "url": "https://open.spotify.com/track/23j21SUvekEAMAmQKLRUY2"
+      "duration_ms": 610733,
+      "name": "Loving Touch",
+      "url": "https://open.spotify.com/track/0hdMmviZDiyTsuctkBtLpC"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiritual Healing",
-        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 493139,
-      "name": "Wind in Bamboo",
-      "url": "https://open.spotify.com/track/35GhFYRrUA5yepizpGgFxF"
+      "duration_ms": 458373,
+      "name": "Tonglen",
+      "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+        "name": "Spiritual Healing",
+        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 458373,
-      "name": "Tonglen",
-      "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
+      "duration_ms": 493139,
+      "name": "Wind in Bamboo",
+      "url": "https://open.spotify.com/track/35GhFYRrUA5yepizpGgFxF"
     },
     {
       "added_at": null,

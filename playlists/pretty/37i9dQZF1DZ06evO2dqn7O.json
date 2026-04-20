@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 57557,
+  "num_followers": 57559,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAABM6vlB8iKTlgwpuMIzj6T4",
+  "snapshot_id": "aeLJgAAAAAChBgvosfV2lSVzrRYaQAyk",
   "tracks": [
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Love Songs Drug Songs",
+      "url": "https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 242213,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Songs Drug Songs",
-        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Love Songs Drug Songs",
-      "url": "https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Unconsolable",
+      "url": "https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Astronomical",
         "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 153957,
       "name": "Razor's Edge (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Songs Drug Songs",
-        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Unconsolable",
-      "url": "https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie nos lo va a cambiar..\. Lucky Brown y El Bogueto en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,047 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,048 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 99 | [Si mañana me muero](https://open.spotify.com/track/5bolIEjV7hih1tTB2FlrOT) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Si mañana me muero](https://open.spotify.com/album/016VgxR6h6JOhTXTsWJsr1) | 3:18 |
 | 100 | [Rosita Fresita](https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF) | [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq), [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Rosita Fresita](https://open.spotify.com/album/0G40KBVT8jMVFKIfVfe6Hn) | 2:05 |
 
-Snapshot ID: `AAAAAMHMp7RcvRsDcw9ZyfSgFnJhHJxE`
+Snapshot ID: `AAAAANSzG6kGiC5kRIa5gRRT1vNG0EQP`

@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 1016450,
+  "num_followers": 1016574,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAAHMgG4MvJIy2tXT2orvTlJ",
+  "snapshot_id": "aeLJgAAAAABHdmHv3QHPKYBr2HWWFDpB",
   "tracks": [
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Celebrando El 13",
-        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
+        "name": "Pegadito Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 173786,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/4hTgRXA7Zp7wxPcKmMLNzc"
+      "duration_ms": 176320,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pegadito Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
+        "name": "13 Celebrando El 13",
+        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 176320,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
+      "duration_ms": 173786,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/4hTgRXA7Zp7wxPcKmMLNzc"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Celebrando El 13",
-        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "La Derrota",
-      "url": "https://open.spotify.com/track/44P2cTsJ3QF8HQsgdlMJge"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Nuevas Baladas",
         "url": "https://open.spotify.com/album/2h3DQl3byNnb8XWKG47QIJ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 188917,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/0TsaZiBZQrnRv7evhnSNd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "13 Celebrando El 13",
+        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "La Derrota",
+      "url": "https://open.spotify.com/track/44P2cTsJ3QF8HQsgdlMJge"
     },
     {
       "added_at": null,

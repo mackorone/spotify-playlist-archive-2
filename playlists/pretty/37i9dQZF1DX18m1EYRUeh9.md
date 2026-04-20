@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,388 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,423 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jamie](https://open.spotify.com/track/1CixWJUzpYMzFWkViPYcri) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Glory \(Extended\)](https://open.spotify.com/album/5ybA8BfD2SVzJQ0rwWIcCz) | 5:02 |
-| 2 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
-| 3 | [Roses](https://open.spotify.com/track/3YFZBxVvgU7hMpxgEHXfdU) | [loopgarden](https://open.spotify.com/artist/4M9C2IXUroEUTQRiMKWM46), [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [LOOPS](https://open.spotify.com/album/04ADP4KpzsWSBLNDN7uKzj) | 2:54 |
-| 4 | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/album/3XztKVcdPZv8EZbgvYrxrF) | 5:41 |
-| 5 | [Get It Over](https://open.spotify.com/track/5sJUrTiOlAdoKO8V81spAv) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Get It Over](https://open.spotify.com/album/5o7I5gyXLPgw0uPP1zpvy8) | 3:16 |
-| 6 | [I Love You, But](https://open.spotify.com/track/4JXugjlzGFW1TALHNfTqOp) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round \(Deluxe\)](https://open.spotify.com/album/0dnzHJaJXNEEgpBvpe4J0A) | 3:31 |
-| 7 | [Midnight Appointment](https://open.spotify.com/track/7IP9WMN7uRzkP9118Er9QX) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Il Basso](https://open.spotify.com/album/20hBBhewVZ1DsH5TOTDJGi) | 6:00 |
-| 8 | [Once Upon a Time Today](https://open.spotify.com/track/568H8vEUSAjMqHFoYtyW4H) | [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Once Upon a Time Today](https://open.spotify.com/album/1RQJCkuHLuBDUJ8eZdqXjA) | 4:36 |
-| 9 | [Heavy](https://open.spotify.com/track/4YGLCXZTvDZjIPtjvC2u5s) | [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF) | [Heavy](https://open.spotify.com/album/46QLzxv2nTdR9MwcOaEJ9z) | 4:00 |
-| 10 | [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 |
+| 1 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
+| 2 | [Roses](https://open.spotify.com/track/3YFZBxVvgU7hMpxgEHXfdU) | [loopgarden](https://open.spotify.com/artist/4M9C2IXUroEUTQRiMKWM46), [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [LOOPS](https://open.spotify.com/album/04ADP4KpzsWSBLNDN7uKzj) | 2:54 |
+| 3 | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/album/3XztKVcdPZv8EZbgvYrxrF) | 5:41 |
+| 4 | [Get It Over](https://open.spotify.com/track/5sJUrTiOlAdoKO8V81spAv) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Get It Over](https://open.spotify.com/album/5o7I5gyXLPgw0uPP1zpvy8) | 3:16 |
+| 5 | [I Love You, But](https://open.spotify.com/track/4JXugjlzGFW1TALHNfTqOp) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round \(Deluxe\)](https://open.spotify.com/album/0dnzHJaJXNEEgpBvpe4J0A) | 3:31 |
+| 6 | [Midnight Appointment](https://open.spotify.com/track/7IP9WMN7uRzkP9118Er9QX) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Il Basso](https://open.spotify.com/album/20hBBhewVZ1DsH5TOTDJGi) | 6:00 |
+| 7 | [Once Upon a Time Today](https://open.spotify.com/track/568H8vEUSAjMqHFoYtyW4H) | [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Once Upon a Time Today](https://open.spotify.com/album/1RQJCkuHLuBDUJ8eZdqXjA) | 4:36 |
+| 8 | [Heavy](https://open.spotify.com/track/4YGLCXZTvDZjIPtjvC2u5s) | [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF) | [Heavy](https://open.spotify.com/album/46QLzxv2nTdR9MwcOaEJ9z) | 4:00 |
+| 9 | [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 |
+| 10 | [Jamie](https://open.spotify.com/track/1CixWJUzpYMzFWkViPYcri) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Glory \(Extended\)](https://open.spotify.com/album/5ybA8BfD2SVzJQ0rwWIcCz) | 5:02 |
 | 11 | [The Fool on the Hill](https://open.spotify.com/track/3T9p47fkoYc8QdJF9JlT9X) | [Gregory Uhlmann](https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S), [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Uhlmann Johnson Wilkes](https://open.spotify.com/album/5BoARvlCqrzxSk3pURO57c) | 7:37 |
 | 12 | [Planeta Piel Sensual](https://open.spotify.com/track/5L9BN8RkwB9Ch4JYgM4noP) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Planeta Piel Sensual](https://open.spotify.com/album/1Pq0zt2TRNdOndB744r3FN) | 2:18 |
 | 13 | [You Got It](https://open.spotify.com/track/3HDzfqVlr9Fe3ZvPFOUnwP) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [FREE UP](https://open.spotify.com/album/6LjosUEO0uYlyNKpUtL3Tm) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 99 | [Talk About It](https://open.spotify.com/track/6hjATuYdJpRSoPaJgjBIIp) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Talk About It](https://open.spotify.com/album/1HUGGTSeBZXBr2GsbD3qqF) | 2:19 |
 | 100 | [Are You Gonna Find It](https://open.spotify.com/track/40JMY9lsbHd3UXIsrALDDQ) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Are You Gonna Find It](https://open.spotify.com/album/6zwboIYLz6IaKYCrfom8lR) | 4:46 |
 
-Snapshot ID: `AAAAAA00e329YOIFcpyVB3A6ONYUsDsw`
+Snapshot ID: `AAAAAEL5GIe9B2CUCNZ/B7OYm93OKVyp`

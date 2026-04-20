@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 12385,
+  "num_followers": 12388,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAADkx2JcVchGao1uKWZiTdCp",
+  "snapshot_id": "aeLJgAAAAACqtxVpZH7hY4hfxm3BLIz/",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prayer Request",
-        "url": "https://open.spotify.com/album/4kSVYeLN9Z7918DM3JrDQp"
-      },
-      "artists": [
-        {
-          "name": "Victor AD",
-          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 193097,
-      "name": "Prayer Request",
-      "url": "https://open.spotify.com/track/0MBtpJl9D3E08t2YnTR9J4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Woman, My Everything (feat. Wandecoal) - Single",
         "url": "https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 233717,
       "name": "My Woman, My Everything (feat. Wandecoal)",
       "url": "https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prayer Request",
+        "url": "https://open.spotify.com/album/4kSVYeLN9Z7918DM3JrDQp"
+      },
+      "artists": [
+        {
+          "name": "Victor AD",
+          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 193097,
+      "name": "Prayer Request",
+      "url": "https://open.spotify.com/track/0MBtpJl9D3E08t2YnTR9J4"
     },
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 203464,
-      "name": "Kolo Kolo",
-      "url": "https://open.spotify.com/track/4105eJHPqLaEDmdCo6qUUq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Girlie 'O' (Remix)",
         "url": "https://open.spotify.com/album/7IY6ObgWKvAbyqUAQ2wqf4"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 235514,
       "name": "Girlie 'O' - Remix",
       "url": "https://open.spotify.com/track/7eE7wjlxscWbY9K1vwIC6m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 203464,
+      "name": "Kolo Kolo",
+      "url": "https://open.spotify.com/track/4105eJHPqLaEDmdCo6qUUq"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing My Name",
-        "url": "https://open.spotify.com/album/2AuB1GPHlXcdzKrKrOwnAR"
-      },
-      "artists": [
-        {
-          "name": "MzVee",
-          "url": "https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 214769,
-      "name": "Sing My Name",
-      "url": "https://open.spotify.com/track/6zG9dqraRgFTDHxtYhLbQh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alagbe",
         "url": "https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn"
       },
@@ -699,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sing My Name",
+        "url": "https://open.spotify.com/album/2AuB1GPHlXcdzKrKrOwnAR"
+      },
+      "artists": [
+        {
+          "name": "MzVee",
+          "url": "https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 214769,
+      "name": "Sing My Name",
+      "url": "https://open.spotify.com/track/6zG9dqraRgFTDHxtYhLbQh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Jonze",
         "url": "https://open.spotify.com/album/6xKQhBvfudkxhTYwXCQAob"
       },
@@ -711,6 +711,26 @@
       "duration_ms": 157391,
       "name": "No Jonze",
       "url": "https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 209502,
+      "name": "Something Nice",
+      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
     },
     {
       "added_at": null,
@@ -735,26 +755,6 @@
       "duration_ms": 217710,
       "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
       "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
-      },
-      "artists": [
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 209502,
-      "name": "Something Nice",
-      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
     },
     {
       "added_at": null,
@@ -839,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Bera",
+          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
+        }
+      ],
+      "duration_ms": 224597,
+      "name": "Wilmer (feat. Bera)",
+      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seyi or Shay",
         "url": "https://open.spotify.com/album/0TRPmOkkAXYNxfIsvBLkIm"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 228884,
       "name": "Murda",
       "url": "https://open.spotify.com/track/3z2SygkbAZOTrj5FK1MdbP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wilmer",
-        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Bera",
-          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
-        }
-      ],
-      "duration_ms": 224597,
-      "name": "Wilmer (feat. Bera)",
-      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
     },
     {
       "added_at": null,
@@ -991,18 +991,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happy Day",
-        "url": "https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD"
+        "name": "Africa Unite",
+        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
       },
       "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 260146,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr"
+      "duration_ms": 153057,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
     },
     {
       "added_at": null,
@@ -1023,6 +1027,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 260146,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Over Everything",
         "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 208355,
       "name": "Hal\u00e9 Hal\u00e9",
       "url": "https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Africa Unite",
-        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 153057,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
     },
     {
       "added_at": null,

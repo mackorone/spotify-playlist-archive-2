@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAADz6xMuc76qFFvO77Y4KFgn",
+  "snapshot_id": "aeLJgAAAAABR11/ULH0N7Nxx9QN6Zx5x",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "quilted lament",
-        "url": "https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa"
+        "name": "Even The Horizon Knows Its Bounds",
+        "url": "https://open.spotify.com/album/5mc14YNWdxS83sReqvQt40"
       },
       "artists": [
         {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
         },
         {
-          "name": "Gretchen Korsmo",
-          "url": "https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C"
+          "name": "Jim O'Rourke",
+          "url": "https://open.spotify.com/artist/46urSPEzIrRVqKqciwOq2f"
+        },
+        {
+          "name": "Stephen Vitiello",
+          "url": "https://open.spotify.com/artist/6UmTNwMWHnVgSA49K7aY8Y"
+        },
+        {
+          "name": "Chris Abrahams",
+          "url": "https://open.spotify.com/artist/0MM1T4gXG5NjxaIhrPdaBK"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 305548,
-      "name": "thick walls, thin walls",
-      "url": "https://open.spotify.com/track/2lvQsBn3qlIf7285V9P7YX"
+      "duration_ms": 414113,
+      "name": "Even The Horizon Knows Its Bounds VII",
+      "url": "https://open.spotify.com/track/4XcaMtaGxeicOxCcoZSYSB"
     },
     {
       "added_at": null,
@@ -295,38 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Even The Horizon Knows Its Bounds",
-        "url": "https://open.spotify.com/album/5mc14YNWdxS83sReqvQt40"
-      },
-      "artists": [
-        {
-          "name": "Lawrence English",
-          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
-        },
-        {
-          "name": "Jim O'Rourke",
-          "url": "https://open.spotify.com/artist/46urSPEzIrRVqKqciwOq2f"
-        },
-        {
-          "name": "Stephen Vitiello",
-          "url": "https://open.spotify.com/artist/6UmTNwMWHnVgSA49K7aY8Y"
-        },
-        {
-          "name": "Chris Abrahams",
-          "url": "https://open.spotify.com/artist/0MM1T4gXG5NjxaIhrPdaBK"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 414113,
-      "name": "Even The Horizon Knows Its Bounds VII",
-      "url": "https://open.spotify.com/track/4XcaMtaGxeicOxCcoZSYSB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bloody Lady",
         "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
       },
@@ -339,6 +319,42 @@
       "duration_ms": 248000,
       "name": "iii",
       "url": "https://open.spotify.com/track/54kTuKEHRFdoGmGNpZ9h2K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Even The Horizon Knows Its Bounds",
+        "url": "https://open.spotify.com/album/5mc14YNWdxS83sReqvQt40"
+      },
+      "artists": [
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Vanessa Tomlinson",
+          "url": "https://open.spotify.com/artist/02Ufow62depZ5WCgLujR9B"
+        },
+        {
+          "name": "amby downs",
+          "url": "https://open.spotify.com/artist/22bWnkaY4lqBH9dKVxtFo4"
+        },
+        {
+          "name": "Dean Hurley",
+          "url": "https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D"
+        },
+        {
+          "name": "Madeleine Cocolas",
+          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
+        }
+      ],
+      "duration_ms": 521681,
+      "name": "Even The Horizon Knows Its Bounds V",
+      "url": "https://open.spotify.com/track/6BKq93fqzBDl0HrLRysn9Y"
     },
     {
       "added_at": null,
@@ -379,38 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Even The Horizon Knows Its Bounds",
-        "url": "https://open.spotify.com/album/5mc14YNWdxS83sReqvQt40"
+        "name": "quilted lament",
+        "url": "https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa"
       },
       "artists": [
-        {
-          "name": "Lawrence English",
-          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
-        },
         {
           "name": "claire rousay",
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         },
         {
-          "name": "Vanessa Tomlinson",
-          "url": "https://open.spotify.com/artist/02Ufow62depZ5WCgLujR9B"
-        },
-        {
-          "name": "amby downs",
-          "url": "https://open.spotify.com/artist/22bWnkaY4lqBH9dKVxtFo4"
-        },
-        {
-          "name": "Dean Hurley",
-          "url": "https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D"
-        },
-        {
-          "name": "Madeleine Cocolas",
-          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
+          "name": "Gretchen Korsmo",
+          "url": "https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C"
         }
       ],
-      "duration_ms": 521681,
-      "name": "Even The Horizon Knows Its Bounds V",
-      "url": "https://open.spotify.com/track/6BKq93fqzBDl0HrLRysn9Y"
+      "duration_ms": 305548,
+      "name": "thick walls, thin walls",
+      "url": "https://open.spotify.com/track/2lvQsBn3qlIf7285V9P7YX"
     },
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ser\u00e1 Que Ahora Podremos Entendernos",
-        "url": "https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 360725,
-      "name": "Hacia el Vac\u00edo",
-      "url": "https://open.spotify.com/track/6bko8o63cURyCv6IE27Ela"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harmony",
         "url": "https://open.spotify.com/album/0MbPCtAJZVJmqGne38mQdF"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 173000,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/37oNvv3Qqse1Hpj0MeSiDG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ser\u00e1 Que Ahora Podremos Entendernos",
+        "url": "https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 360725,
+      "name": "Hacia el Vac\u00edo",
+      "url": "https://open.spotify.com/track/6bko8o63cURyCv6IE27Ela"
     },
     {
       "added_at": null,
@@ -695,22 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRANSA",
-        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
+        "name": "In the Deep Drift You Will Find the Most Serene of Lullabies",
+        "url": "https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9"
       },
       "artists": [
         {
-          "name": "Jeff Tweedy",
-          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
-        },
-        {
           "name": "claire rousay",
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "m. harper scott",
+          "url": "https://open.spotify.com/artist/4g2d7yKNHLNjg7RTlAG6za"
         }
       ],
-      "duration_ms": 142250,
-      "name": "How Sweet I Roamed",
-      "url": "https://open.spotify.com/track/7cE6w5XdwU1wqIYbNsstRR"
+      "duration_ms": 197894,
+      "name": "homard rouge",
+      "url": "https://open.spotify.com/track/72oHBJtvAo4i4h3Vt60Dhp"
     },
     {
       "added_at": null,
@@ -735,22 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Deep Drift You Will Find the Most Serene of Lullabies",
-        "url": "https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9"
+        "name": "TRANSA",
+        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
       "artists": [
         {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+          "name": "Jeff Tweedy",
+          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
         },
         {
-          "name": "m. harper scott",
-          "url": "https://open.spotify.com/artist/4g2d7yKNHLNjg7RTlAG6za"
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 197894,
-      "name": "homard rouge",
-      "url": "https://open.spotify.com/track/72oHBJtvAo4i4h3Vt60Dhp"
+      "duration_ms": 142250,
+      "name": "How Sweet I Roamed",
+      "url": "https://open.spotify.com/track/7cE6w5XdwU1wqIYbNsstRR"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eyeline",
+        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
+      },
+      "artists": [
+        {
+          "name": "LEYA",
+          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 56567,
+      "name": "Dankworld Interlude",
+      "url": "https://open.spotify.com/track/2p4Si60Lb8BAGIjLbYuRty"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "a softer focus",
         "url": "https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv"
       },
@@ -879,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "a softer focus",
-        "url": "https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 289737,
-      "name": "stoned gesture",
-      "url": "https://open.spotify.com/track/596Te3MjCbYJ3keibf780e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bloody Lady",
         "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
       },
@@ -904,9 +908,9 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 504000,
-      "name": "v",
-      "url": "https://open.spotify.com/track/5BZyjIbDp5u7PeT2TlmTfk"
+      "duration_ms": 142000,
+      "name": "vii",
+      "url": "https://open.spotify.com/track/7xhdQtOMre3IOkKpPJF7Ga"
     }
   ],
   "unique_name": "This Is claire rousay",

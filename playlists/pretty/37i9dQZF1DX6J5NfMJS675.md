@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,663,981 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,664,134 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 99 | [Komm \(feat\. Juju\)](https://open.spotify.com/track/2geohaM3pSDEObhv55R00r) | [AZZLE 447](https://open.spotify.com/artist/6zheQMfixBDKGJrCmapLPB), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Komm \(feat\. Juju\)](https://open.spotify.com/album/0BTTZboXy2J8gtH8pC50BG) | 3:33 |
 | 100 | [Acid Blood](https://open.spotify.com/track/1ivhs5EQc8eAw5rcB9SEQz) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [FLKN](https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww) | [Acid Blood](https://open.spotify.com/album/6bmsMcbQLEfYykzpRd3qEf) | 3:31 |
 
-Snapshot ID: `AAAAAGBlWphN87kRPGZTKQed5W/IZocj`
+Snapshot ID: `AAAAANfxVzVWILDDgvVYm5Q06UeEubtc`

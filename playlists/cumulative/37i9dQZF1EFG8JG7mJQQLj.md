@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-624 songs - 1 day 11 hr 5 min
+625 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,8 @@
 | [Give Me The Future](https://open.spotify.com/track/6tWvXbSEayORpa1dkJIC98) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs) | 3:39 | 2025-01-09 | 2025-04-12 |
 | [Glassheart](https://open.spotify.com/track/0KMFnL2nr4WBdN5WXFjTji) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 3:56 | 2024-01-29 |  |
 | [Gloria](https://open.spotify.com/track/5F1UHhFaAPlEJvLOVZ75F9) | [Monty](https://open.spotify.com/artist/3fAIB8ufLO83gjm8BK4UcV) | [1000 år senare](https://open.spotify.com/album/6eyyT41mPbrvpsyRBsEK03) | 3:51 | 2024-01-29 |  |
-| [Go Up](https://open.spotify.com/track/76e4nwnkyaFp4y0T2g01dg) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Ibifornia \(Deluxe\)](https://open.spotify.com/album/3pz8g0tnXoFdFldlItvxxD) | 5:32 | 2024-01-29 |  |
+| [Go Up](https://open.spotify.com/track/76e4nwnkyaFp4y0T2g01dg) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Ibifornia \(Deluxe\)](https://open.spotify.com/album/3pz8g0tnXoFdFldlItvxxD) | 5:32 | 2024-01-29 | 2026-04-20 |
+| [Go Up \- Butch Remix](https://open.spotify.com/track/2SkmHcU5pmRjAjBZrrJr9f) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Go Up](https://open.spotify.com/album/5jzl69ER7BIDr8JopNs7Z2) | 7:11 | 2026-04-19 |  |
 | [Gonna Be Alright](https://open.spotify.com/track/3FT93wB21kLbUapwnxbKsF) | [Shayne Ward](https://open.spotify.com/artist/6H4lieipng8aGu3Hbd1UeJ) | [Breathless \(Expanded Edition\)](https://open.spotify.com/album/6PrJNLgXlHedN48xbaKqEG) | 4:23 | 2024-01-29 |  |
 | [Good In Goodbye](https://open.spotify.com/track/1rDBEE2J1D9oJhtdK29jk6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:19 | 2024-01-29 |  |
 | [Good Life](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:13 | 2024-01-29 |  |

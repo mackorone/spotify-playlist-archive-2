@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-392 songs - 19 hr 44 min
+393 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,8 +275,9 @@
 | [Seeing Red](https://open.spotify.com/track/48vnZSAeZ2lgvFz6TDCGW2) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 | 2023-12-30 |  |
 | [Sh\-Boom](https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Life Could Be a Dream: The Sh\-Boom Sound of The Chords](https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE) | 2:24 | 2026-03-04 |  |
 | [Sharing You](https://open.spotify.com/track/4ypZEpTX71A1i5HY8ofw2K) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [A Bobby Vee Recording Session](https://open.spotify.com/album/5HVg69JrZiQStID8kndZ7K) | 2:02 | 2023-12-30 | 2025-11-23 |
-| [Show Me Girl \- 2002 Remaster](https://open.spotify.com/track/7vrzwteWWJqHsOfWD1zT9n) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [The Very Best Of Herman's Hermits \(Deluxe Edition\)](https://open.spotify.com/album/3UoVto0KQes5W2hbJl2Aw7) | 2:35 | 2026-03-26 |  |
+| [Show Me Girl \- 2002 Remaster](https://open.spotify.com/track/7vrzwteWWJqHsOfWD1zT9n) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [The Very Best Of Herman's Hermits \(Deluxe Edition\)](https://open.spotify.com/album/3UoVto0KQes5W2hbJl2Aw7) | 2:35 | 2026-03-26 | 2026-04-20 |
 | [Show Me Girl \- 2008 Remaster](https://open.spotify.com/track/59Q9ivKKAZwbAETukwviEA) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Into Something Good \(The Mickie Most Years 1964\-1972\)](https://open.spotify.com/album/0o3pjzJ5XZGm0BZieBsTcV) | 2:37 | 2023-12-30 | 2026-03-27 |
+| [Show Me Girl \- Mono](https://open.spotify.com/track/1saGlI7w6vxjGMAzluhYQC) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Show Me Girl \(Mono\)](https://open.spotify.com/album/4UDrIQtV2baXu67inAB03J) | 2:38 | 2026-04-19 |  |
 | [Simple Things](https://open.spotify.com/track/7lIQgzo0Z0dFoPla143iCC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:41 | 2023-12-30 |  |
 | [Smackwater Jack](https://open.spotify.com/track/0PrW6YZOBGeukTkvJsSIV3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:41 | 2023-12-30 |  |
 | [Snow Queen](https://open.spotify.com/track/4ixqlGDNCyg5HvWDtC0lBQ) | [Aliotta Haynes Jeremiah](https://open.spotify.com/artist/4VmWYQQ5M9N9AiAx14v2yg) | [Lake Shore Drive](https://open.spotify.com/album/24NY6n4z0tDzpt8QCiWEGV) | 4:32 | 2023-12-30 |  |

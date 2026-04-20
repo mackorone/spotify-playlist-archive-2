@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,250,958 likes - 200 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,251,433 likes - 200 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 199 | [Where I Live](https://open.spotify.com/track/76uHBO15FZLTUjiwAJ1Wg4) | [Tom Francis](https://open.spotify.com/artist/6uaneVpX351id57reqAEff) | [Where I Live](https://open.spotify.com/album/4ZydYtbj0uhKgzLe2kP5fn) | 3:37 |
 | 200 | [You never know](https://open.spotify.com/track/5nxkr6aD38lxuSvbJFDg0l) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [You never know](https://open.spotify.com/album/5DlxoSbo7dD56vGvcqEAZZ) | 2:50 |
 
-Snapshot ID: `AAAAALcep6pstJ6eUibGjAa8alo3wpT+`
+Snapshot ID: `AAAAAFcAkGkIsGEs6rCek8yeC8/ATyQY`

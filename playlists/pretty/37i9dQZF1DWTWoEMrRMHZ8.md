@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Tuyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,991 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,994 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 99 | [Voa \- Feat\. Ivan Lins](https://open.spotify.com/track/65o5NMspKyMwnXVEMRB3iO) | [Gustavo Spínola](https://open.spotify.com/artist/1FB9SuCKEILso41rs4eG6S) | [Do Acaso Ao Cais \(Vol.1\)](https://open.spotify.com/album/1FpNlCWjuvn9PAwmhzU2jH) | 3:39 |
 | 100 | [Maravilhosamente Bem](https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [MARAVILHOSAMENTE BEM](https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY) | 3:46 |
 
-Snapshot ID: `AAAAAMsN3Be1QT8+duKQUSb9uG8CcGb/`
+Snapshot ID: `AAAAAMuNJWlbugghcFHecs3b5mIx9x2H`

@@ -2957,6 +2957,28 @@
     },
     {
       "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
+    },
+    {
+      "album": {
         "name": "Pole Dance",
         "url": "https://open.spotify.com/album/2PYqZxuc86lS0DtCCh1sB7"
       },
@@ -3336,7 +3358,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
@@ -4764,7 +4786,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 172000,
       "name": "Born Savage",
       "url": "https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07"
@@ -6226,7 +6248,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 260517,
       "name": "Cherry Blossom Ending",
       "url": "https://open.spotify.com/track/4eFTh1opLS5wANDmZK9ghC"
@@ -9742,7 +9764,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 244986,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
@@ -22796,7 +22818,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 269081,
       "name": "Money Checks (Prod. by Hukky Shibaseki)",
       "url": "https://open.spotify.com/track/5bB7348yF6DXMmK1WQlBui"
@@ -25668,7 +25690,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 167589,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0"
@@ -27500,7 +27522,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 243000,
       "name": "PUBLIC ENEMIES (Feat. OSUN, Iyaan, Jeffrey White, Raf Sandou)",
       "url": "https://open.spotify.com/track/6TUuxnabfrlNbFi0FJSz5G"
@@ -28936,6 +28958,24 @@
     {
       "album": {
         "name": "RUDE!",
+        "url": "https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
+    },
+    {
+      "album": {
+        "name": "RUDE!",
         "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
       },
       "artists": [
@@ -28946,7 +28986,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -31692,7 +31732,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Spring Is Gone by chance",
       "url": "https://open.spotify.com/track/5rZN0PP6xZsf5SWxkpMm7k"
@@ -38048,7 +38088,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 159000,
       "name": "Who is she",
       "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"

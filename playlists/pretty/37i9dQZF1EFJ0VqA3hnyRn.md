@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613 likes - 282 songs - 16 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 614 likes - 282 songs - 16 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 131 | [Singing in the Rain](https://open.spotify.com/track/7zOs2hkIhTL8Bipkj9LZd0) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Singing in the Rain](https://open.spotify.com/album/2aNzx5jwcCoZdZoQEFveRt) | 3:29 |
 | 132 | [Green Light Go](https://open.spotify.com/track/5ejaRY8r27tuC6trrwAZJQ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Green Light Go](https://open.spotify.com/album/3orQldTQmLgJdqVaKZAln4) | 3:37 |
 | 133 | [Personal Hell](https://open.spotify.com/track/42YK2C6gVonEJHpa7dGByb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:40 |
-| 134 | [Better Thangs](https://open.spotify.com/track/34uOYKTIOAfxZh1hibRx1c) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Better Thangs](https://open.spotify.com/album/5p0qpCnLfkjg4XbiL8nLSm) | 3:34 |
-| 135 | [DRIP](https://open.spotify.com/track/0tm9DIEzTP7VAUEpblQYxb) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/3fkWEBS1wlYc6mXv76PiUC) | 2:22 |
+| 134 | [DRIP](https://open.spotify.com/track/0tm9DIEzTP7VAUEpblQYxb) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/3fkWEBS1wlYc6mXv76PiUC) | 2:22 |
+| 135 | [Better Thangs](https://open.spotify.com/track/34uOYKTIOAfxZh1hibRx1c) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Better Thangs](https://open.spotify.com/album/5p0qpCnLfkjg4XbiL8nLSm) | 3:34 |
 | 136 | [Rich \(feat\. August Alsina\)](https://open.spotify.com/track/2ISkefAz7mMFraeKHIYodY) | [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ), [Augusta Alsina](https://open.spotify.com/artist/3yf9M0BHlsSM7uhowQrdT3) | [Rich \(feat\. August Alsina\)](https://open.spotify.com/album/0ZHbSx4zEjHL0wGMLsUEQh) | 4:07 |
 | 137 | [Reminds Me](https://open.spotify.com/track/5HBlf1Ee25TDArDH3jzVrW) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Reminds Me](https://open.spotify.com/album/1yN7614Id4IrpsaN70reKP) | 2:37 |
 | 138 | [GIMME GIMME \(feat\. 21 Savage\)](https://open.spotify.com/track/0zVQ4UTh3mODCjRvgM084F) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 181 | [Everybody \(feat\. Azealia Banks\)](https://open.spotify.com/track/3W4pDpDgsKda2znHK8qDA4) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Living Life Golden](https://open.spotify.com/album/5w5V7Vi6RuRV40G4cM9pMP) | 4:06 |
 | 182 | [Set](https://open.spotify.com/track/0RdtNKSNJ3mkg7W988BjGN) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 2:56 |
 | 183 | [Juice](https://open.spotify.com/track/0oj4EkvnuEj8xclOAeANeI) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Campaign](https://open.spotify.com/album/7bSsdgWDh5VRI3ZVOXQEj4) | 3:35 |
-| 184 | [Kiss & Tell](https://open.spotify.com/track/1sNovU2kt1WBrLhuAFhReK) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:43 |
-| 185 | [On The Side](https://open.spotify.com/track/0vlKJXqCvW05Hb2efMix80) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:03 |
+| 184 | [On The Side](https://open.spotify.com/track/0vlKJXqCvW05Hb2efMix80) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:03 |
+| 185 | [Kiss & Tell](https://open.spotify.com/track/1sNovU2kt1WBrLhuAFhReK) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:43 |
 | 186 | [Wicked](https://open.spotify.com/track/5myV3Ddm7CXKrP4QOOguQl) | [Veronica Vega](https://open.spotify.com/artist/5zB4FgmxvPsn1G4TeKO62C), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Wicked \(feat\. Pitbull\) \- Single](https://open.spotify.com/album/2IsKRE4RIZLmegkUz9iUQH) | 4:08 |
 | 187 | [Your Sister](https://open.spotify.com/track/4VYEAooWTvX0wNhOn2M0TF) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:30 |
 | 188 | [\#1](https://open.spotify.com/track/4TTHdo78RGbLo8HeTDtMQ8) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Version\)](https://open.spotify.com/album/6BnbjiGCAzSMMiqACIIkHO) | 4:31 |
@@ -291,4 +291,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 281 | [Get Spooky](https://open.spotify.com/track/0n6S7kvJmwFBzjjh5qqaD0) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 1:29 |
 | 282 | [Ghosts](https://open.spotify.com/track/5FB0kBWrG11JP9IbaK502G) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 2:25 |
 
-Snapshot ID: `AcPOCAAAAAD39RZXbCF21IHL6rmQS+1G`
+Snapshot ID: `AcPTqAAAAACz8Fg7lRm3QKt7/58bA8CH`

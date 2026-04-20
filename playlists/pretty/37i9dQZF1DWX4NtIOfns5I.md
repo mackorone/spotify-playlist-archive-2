@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > dermot henry on the cover <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,498 likes - 116 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,489 likes - 116 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

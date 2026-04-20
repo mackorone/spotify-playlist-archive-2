@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-84 songs - 3 hr 56 min
+85 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Gone for Good](https://open.spotify.com/track/7ay7NUJBH3Sh5fyaJd8V0R) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Gone for Good](https://open.spotify.com/album/7GxwZXchbvbGixgHnrNiXr) | 2:33 | 2023-08-25 |  |
 | [Guilty](https://open.spotify.com/track/1acexIzypi1joCwS2hbkiY) | [Asher Angel](https://open.spotify.com/artist/48wfV4LAYtBe3r5SdjvjHX) | [Guilty](https://open.spotify.com/album/4a8rIXcOFlaNyvXKoO9GOQ) | 2:17 | 2023-12-13 |  |
 | [Guilty](https://open.spotify.com/track/3SGM2GWhK4hJSFon35F5l0) | [Asher Angel](https://open.spotify.com/artist/48wfV4LAYtBe3r5SdjvjHX) | [Guilty](https://open.spotify.com/album/1IgcvMS2cjy33nggjKuqVq) | 2:17 | 2023-06-29 | 2023-12-14 |
+| [Hardwired](https://open.spotify.com/track/7q2XPiBRzdyqfkpvvgF0hy) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Hardwired](https://open.spotify.com/album/3E2NA2Gv5Ycu6iwj3I5JYH) | 2:43 | 2026-04-19 |  |
 | [Heart Never Broke](https://open.spotify.com/track/4LfuwwWPuYzZ2vxnHK2cog) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [BCS](https://open.spotify.com/artist/4tGQ53InAQSRcbpDrYZPtz) | [Heart Never Broke](https://open.spotify.com/album/5wpqFQLm7lBr8HNVWq7m6q) | 2:38 | 2023-06-29 |  |
 | [Help Me Remember \(feat\. Dyson\)](https://open.spotify.com/track/0eAHSsGHWWXcNl9cOad785) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [Letters To Remember](https://open.spotify.com/album/5ewnC9DmcClqT2cqKvvNCe) | 2:47 | 2023-06-29 |  |
 | [I Tried](https://open.spotify.com/track/3QSogFXUWdiZ2akyXQQpWI) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Watching You \- EP](https://open.spotify.com/album/3ZMFWfliUQROBkFP5oPBWa) | 3:07 | 2023-06-29 |  |

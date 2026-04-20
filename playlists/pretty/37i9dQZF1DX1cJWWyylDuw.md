@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A mix of the best modern Deathcore tracks\. Cover: FIt For An Autopsy
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,700 likes - 150 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,782 likes - 150 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 
 > Hit the dance floor with your favorite bops!
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,300 likes - 145 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,361 likes - 145 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 | 126 | [Best Friend \(feat\. NERVO, The Knocks & ALISA UENO\)](https://open.spotify.com/track/6twQJ2KMwNzODCY0HzXP2E) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [ALISA UENO](https://open.spotify.com/artist/0WuYfDB2hAYzybfAd75fvb) | [Treehouse](https://open.spotify.com/album/6JMqFQYi82ybVJalF7tb3W) | 3:04 |
 | 127 | [Hypnotized](https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:15 |
 | 128 | [Don't You Worry Child \- Radio Edit](https://open.spotify.com/track/1MlAkYV0nbRKWhhfvTt3zc) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Until Now](https://open.spotify.com/album/2OW1FFaG8vgbRl0WilKz1B) | 3:33 |
-| 129 | [Sweet Nothing \(feat\. Florence Welch\)](https://open.spotify.com/track/0lsqtZVyovtBSQtWdD44LH) | [Calvin Harris](https://open.spotify.com/artist/5JIdaV4V6IaLMQG6uzAhJY), [Florence Welch](https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg) | [18 Months](https://open.spotify.com/album/4TjPTVBmdyaowp08j2toa0) | 3:32 |
+| 129 | [Sweet Nothing \(feat\. Florence Welch\)](https://open.spotify.com/track/0lsqtZVyovtBSQtWdD44LH) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Florence Welch](https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg) | [18 Months](https://open.spotify.com/album/4TjPTVBmdyaowp08j2toa0) | 3:32 |
 | 130 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
 | 131 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 |
 | 132 | [Wake Me Up](https://open.spotify.com/track/4h8VwCb1MTGoLKueQ1WgbD) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/1s9tU91VJt4sU5owi29GD3) | 4:07 |

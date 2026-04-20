@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 986254,
+  "num_followers": 986375,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAB5fn7WPgrzYQ7rfKJrNVys",
+  "snapshot_id": "aeLJgAAAAACwPeDVKezkfhfjUk3X80BK",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live From Space",
+        "url": "https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/01juI6Hbx2KNaQCRY14kzz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That's Life (feat. Mac Miller & Sia)",
         "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 202390,
       "name": "That's Life (feat. Mac Miller & Sia)",
       "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live From Space",
-        "url": "https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/01juI6Hbx2KNaQCRY14kzz"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circles (Deluxe)",
-        "url": "https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp"
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 287871,
-      "name": "Right",
-      "url": "https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY"
+      "duration_ms": 263941,
+      "name": "Funny Papers",
+      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+        "name": "Circles (Deluxe)",
+        "url": "https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 263941,
-      "name": "Funny Papers",
-      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
+      "duration_ms": 287871,
+      "name": "Right",
+      "url": "https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY"
     },
     {
       "added_at": null,

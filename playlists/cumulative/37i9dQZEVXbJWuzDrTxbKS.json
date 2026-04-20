@@ -13506,7 +13506,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -17542,7 +17542,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
@@ -21994,7 +21994,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
@@ -25296,7 +25296,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 237106,
       "name": "lai tev apn\u012bk skumt",
       "url": "https://open.spotify.com/track/6hWnXrx3Po79UxZ0WN7lNT"
@@ -31434,7 +31434,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
@@ -31452,7 +31452,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
@@ -33006,7 +33006,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -37023,6 +37023,32 @@
     },
     {
       "album": {
+        "name": "Skaisti Dz\u012bvot Neaizliegsi",
+        "url": "https://open.spotify.com/album/3E6PQG5XclqhGArkgsmLEj"
+      },
+      "artists": [
+        {
+          "name": "galaktik",
+          "url": "https://open.spotify.com/artist/527x2vHAIlEOtrENRecNFl"
+        },
+        {
+          "name": "galeniex",
+          "url": "https://open.spotify.com/artist/33xJ0c5Hkpudfm06PTu6kK"
+        },
+        {
+          "name": "Marko",
+          "url": "https://open.spotify.com/artist/3ZgKjRocEczVCcOiWKDkOZ"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171891,
+      "name": "Piln\u012bgs nepr\u0101ts",
+      "url": "https://open.spotify.com/track/5LpwNfLH2ZAaEe8XSaQEIm"
+    },
+    {
+      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -38015,6 +38041,32 @@
     },
     {
       "album": {
+        "name": "Skaisti Dz\u012bvot Neaizliegsi",
+        "url": "https://open.spotify.com/album/3E6PQG5XclqhGArkgsmLEj"
+      },
+      "artists": [
+        {
+          "name": "galaktik",
+          "url": "https://open.spotify.com/artist/527x2vHAIlEOtrENRecNFl"
+        },
+        {
+          "name": "Wiesulis",
+          "url": "https://open.spotify.com/artist/7u9HzYQPhBC92mdvpzGqu8"
+        },
+        {
+          "name": "xantikvariats",
+          "url": "https://open.spotify.com/artist/4iaUSHcix1QxgM16mMJvcz"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164615,
+      "name": "Prieka asaras",
+      "url": "https://open.spotify.com/track/7eiNO3Ru8vyreEzNWGhOKQ"
+    },
+    {
+      "album": {
         "name": "Priek\u0161nieku Nav (feat. Mazais Za\u013cais & P\u0113teris Upelnieks)",
         "url": "https://open.spotify.com/album/22XlWYQazoA33keoFl6bHd"
       },
@@ -38576,7 +38628,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 206032,
       "name": "P\u0101ri Oke\u0101nam (feat. J\u0101nis Kr\u016bmi\u0146\u0161)",
       "url": "https://open.spotify.com/track/57sTCFCVOHwG2hsXWUYv6l"
@@ -46558,7 +46610,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -48822,7 +48874,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/3iEUDvanZwQhLCIqUmCR7N"
@@ -50912,7 +50964,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 315280,
       "name": "Tu Saki",
       "url": "https://open.spotify.com/track/3tzNVqoedgEnkeuYzwJ2Xa"
@@ -58932,7 +58984,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 246818,
       "name": "\u0420\u043e\u0437\u043e\u0432\u043e\u0435 \u0432\u0438\u043d\u043e",
       "url": "https://open.spotify.com/track/2gcFOhxQOqAx1OABnxvUZ4"

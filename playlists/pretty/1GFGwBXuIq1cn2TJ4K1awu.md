@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 31 likes - 11 songs - 42 min 42 sec
+[royva06](https://open.spotify.com/user/royva06) - 31 likes - 11 songs - 47 min 25 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Washed](https://open.spotify.com/track/0bgijbvBSiTi4slIRi1OwC) | [The Jack Wharff Band](https://open.spotify.com/artist/7Hw6prEoT6M58ChR8A1Rlz) | [Washed](https://open.spotify.com/album/1TukpTVBvtfpuGn59YEDGa) | 3:27 |
-| 2 | [The Good Ones](https://open.spotify.com/track/1bPqUmahpsq322oJWYpnnu) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:38 |
-| 3 | [All That While](https://open.spotify.com/track/5BS3HrgmS3DZC2oTzDRr4K) | [Cactus Lee](https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4) | [Texas Yard Sale](https://open.spotify.com/album/2hl9Rjriax33GWB0Dl4tyo) | 3:56 |
-| 4 | [Raise Up](https://open.spotify.com/track/02GwPAncasVL82yC7y2hmN) | [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Diary of a Sinner: 1st Entry](https://open.spotify.com/album/5HRSHdifYk7QXStjKB0SJZ) | 4:46 |
-| 5 | [Dreamer](https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Down To Earth](https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM) | 4:44 |
-| 6 | [The Mask](https://open.spotify.com/track/7JB1RkYu0EIgQHEgH8Klax) | [DANGERDOOM](https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [THE MOUSE & THE MASK](https://open.spotify.com/album/6vAKENvwUSLMUAWYruV9sw) | 3:12 |
-| 7 | [Haven't Met You Yet](https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) | 4:04 |
-| 8 | [Protect My Energy](https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:08 |
-| 9 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 |
-| 10 | [Tear You Apart](https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR) | 4:44 |
-| 11 | [Bang Bang](https://open.spotify.com/track/1VJ82z9vp7hvBzthdGWtNa) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Start Walkin' 1965\-1976](https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk) | 2:41 |
+| 1 | [Letter to Madeline](https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Between the Country](https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf) | 4:29 |
+| 2 | [Midnight Cowboy](https://open.spotify.com/track/2cHaP5BkiRWzxmaCE7dQCf) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 2:57 |
+| 3 | [Hey Me, Hey Mama](https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Hey Me, Hey Mama](https://open.spotify.com/album/1Iiqi0wAb9VWdAQbY0hywC) | 3:30 |
+| 4 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 |
+| 5 | [Grounds](https://open.spotify.com/track/620IDPWRadDTa6F37LhOb1) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Ultra Mono](https://open.spotify.com/album/0ojQHzflxMs6SfvBBkRKt6) | 3:08 |
+| 6 | [Does He Love You?](https://open.spotify.com/track/56J7o1BuXpJH2UXqElmsEF) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [More Adventurous \(U.S\. Release\)](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) | 5:13 |
+| 7 | [Puppy Love \- Remastered](https://open.spotify.com/track/1mdfrHeZzxjz0FJ4BKRuxS) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Paul Anka Sings His Big 15 \(Remastered\)](https://open.spotify.com/album/4avsZn38cgMEmxmGdpb4lp) | 2:41 |
+| 8 | [What Difference Does It Make? \- 2011 Remaster](https://open.spotify.com/track/3rzYUfyzdZW96cHXnGn1xI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:49 |
+| 9 | [Thang Jai Thang Jao](https://open.spotify.com/track/0cNH9BdZZ3zCWnnJYGij35) | [Khun Narin](https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1) | [II](https://open.spotify.com/album/30bnUuR6xbyJSqzhrjYreM) | 7:45 |
+| 10 | [I Got Joy](https://open.spotify.com/track/0UYwlmWT4eBayLdBrtftLR) | [Brontez Purnell](https://open.spotify.com/artist/5rTfSsNbSVZhGMw3xoq7Yf), [Briana Fletcher](https://open.spotify.com/artist/0YjgARzly9pRsvcDubc1I6), [The New Zion Missionary Baptist Church Choir of Belle Mina, Alabama](https://open.spotify.com/artist/6SqReA92w2Wtzq21ItkUUn) | [No Jack Swing](https://open.spotify.com/album/7GehdwkbfiSXMzGmzWSUpt) | 3:55 |
+| 11 | [All Night Long](https://open.spotify.com/track/0XdJDBL3TmRv7ODKqFPhS1) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [God Knows I Tried](https://open.spotify.com/album/6hP0ChTVZGQHn5wB5n6J7K) | 6:24 |
 
-Snapshot ID: `AAAKRpZvLsY+/XWps8gkpegHkYomhL1H`
+Snapshot ID: `AAAKXOZvvHu+z8ap9Fv22NpOUh1XTaCH`

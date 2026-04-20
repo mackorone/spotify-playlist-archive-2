@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 
 ### [Salsa Classics](https://open.spotify.com/playlist/37i9dQZF1DX7SeoIaFyTmA)
 
-> Timeless Salsa from your favorite legends.
+> Timeless Salsa from your favorite legends\. Cover: Rubén Blades
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,516,695 likes - 100 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,516,936 likes - 100 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: As Cristinas
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,108 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,114 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 69 | [Telha Véia \(Acusticasso\#8\) \- Ao Vivo](https://open.spotify.com/track/3XLyzBUjOzTNU2rAk1qi7d) | [William Santos](https://open.spotify.com/artist/6P8kyx8CHky00iuxUaI7Zb), [João Villa e Rafael](https://open.spotify.com/artist/0l14qMX6fxj4nURl6BglTU) | [Telha Véia \(Acusticasso\#8\) \[Ao Vivo\]](https://open.spotify.com/album/2Hn7Z1rKM3YpLIPkDH40gI) | 2:33 |
 | 70 | [Ninguém Me Avisou \- Ao Vivo](https://open.spotify.com/track/3VyiCZwS8E1ByvpAnfhgie) | [Júlia Mariano](https://open.spotify.com/artist/1JHXmHgKOpMTwr2B7QACoy) | [No 12 & Sem Freio, Vol\. 5 \(Ao Vivo\)](https://open.spotify.com/album/27zC5QuiunZPHEbh0J6x0I) | 2:56 |
 
-Snapshot ID: `AAAAAE4SpDpwA8yMHRa++wTgHGQDCard`
+Snapshot ID: `AAAAAAUyYrL8JB0Y8kRvQbD0LmDs66Mj`

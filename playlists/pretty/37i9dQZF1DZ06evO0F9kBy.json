@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27614,
+  "num_followers": 27618,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAACfpO+5BBSQTjUYu/dyrxTd",
+  "snapshot_id": "aeLJgAAAAACzZZlFDIbjTZIEI7y1mrGm",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cling To The Cross",
-        "url": "https://open.spotify.com/album/74iDwShIeRexXTCcU1QCtY"
-      },
-      "artists": [
-        {
-          "name": "Seph Schlueter",
-          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 248531,
-      "name": "Cling To The Cross",
-      "url": "https://open.spotify.com/track/0lHFEiEZRINPS3y8xXHkkn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Foundations (Live)",
         "url": "https://open.spotify.com/album/45GjAZmIuUOsAkfSPEPNW6"
       },
@@ -279,6 +259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cling To The Cross",
+        "url": "https://open.spotify.com/album/74iDwShIeRexXTCcU1QCtY"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 248531,
+      "name": "Cling To The Cross",
+      "url": "https://open.spotify.com/track/0lHFEiEZRINPS3y8xXHkkn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Echoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wait / Praise The Giver",
-        "url": "https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 248639,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/5r8bijZKA7EhbNhxmEjgFy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 207400,
       "name": "Hold Us Together",
       "url": "https://open.spotify.com/track/7IPldKTGN7pssmDl66DrMG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wait / Praise The Giver",
+        "url": "https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 248639,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/5r8bijZKA7EhbNhxmEjgFy"
     },
     {
       "added_at": null,
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 251680,
-      "name": "Just as I Am",
-      "url": "https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The St. Nemele Collab Sessions",
         "url": "https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 238720,
       "name": "It's You - Tide Electric Remix",
       "url": "https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 251680,
+      "name": "Just as I Am",
+      "url": "https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET"
     },
     {
       "added_at": null,
@@ -975,18 +975,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+        "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
+        "url": "https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ"
       },
       "artists": [
         {
+          "name": "Rich Mullins",
+          "url": "https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps"
+        },
+        {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 232826,
-      "name": "The Cross Forever Speaks",
-      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
+      "duration_ms": 157615,
+      "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
+      "url": "https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ"
     }
   ],
   "unique_name": "This Is Matt Maher",

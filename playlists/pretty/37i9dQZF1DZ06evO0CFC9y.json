@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 38520,
+  "num_followers": 38533,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAAl/iFVM/YuEqVXtj8h+Lq+",
+  "snapshot_id": "aeLJgAAAAAD388aVJhaK2rxrNt63l2/o",
   "tracks": [
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 241560,
-      "name": "A Deep Slow Panic",
-      "url": "https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE"
+      "duration_ms": 277840,
+      "name": "I Hope You Suffer",
+      "url": "https://open.spotify.com/track/1bl434nynICAlETvh9kf4e"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+        "name": "Shut Your Mouth And Open Your Eyes",
+        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 140579,
-      "name": "Begging For Trouble",
-      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
+      "duration_ms": 169293,
+      "name": "Third Season",
+      "url": "https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF"
     },
     {
       "added_at": null,
@@ -756,15 +756,15 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 277840,
-      "name": "I Hope You Suffer",
-      "url": "https://open.spotify.com/track/1bl434nynICAlETvh9kf4e"
+      "duration_ms": 241560,
+      "name": "A Deep Slow Panic",
+      "url": "https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Shut Your Mouth And Open Your Eyes",
-        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 169293,
-      "name": "Third Season",
-      "url": "https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF"
+      "duration_ms": 140579,
+      "name": "Begging For Trouble",
+      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
     },
     {
       "added_at": null,

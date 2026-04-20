@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,595 likes - 953 songs - 2 day 12 hr 6 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,596 likes - 962 songs - 2 day 12 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -961,5 +961,14 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 951 | [Desert Mist](https://open.spotify.com/track/6TiMQGxnlMq95WPNnPKegu) | [Akiña](https://open.spotify.com/artist/7GaNoYnWPOchcYQKtIfEWv) | [Desert Mist](https://open.spotify.com/album/2QtDqdYaY9QZq3S7jQgCsm) | 5:24 |
 | 952 | [All My Friends](https://open.spotify.com/track/3mxttUWXn5UdiFuonE6S4y) | [SYFF](https://open.spotify.com/artist/3l6fFx7DdPQuaLYGM5CWoG) | [Boys in Touch With Their Emotions](https://open.spotify.com/album/1FJ0nROKe1X3JFoWcEyYYd) | 3:17 |
 | 953 | [Falling Down](https://open.spotify.com/track/1y3Du7IQc6t5y4t8FyOOXc) | [LOW/LATE](https://open.spotify.com/artist/7gWmJ9eJ1xHygxVUv8JpfD) | [cheaper than therapy](https://open.spotify.com/album/4StrvmhKAI4l8fB6ldCuI4) | 2:46 |
+| 954 | [Money Spine](https://open.spotify.com/track/2rcX6r2usMqP8Oa4L3YJA4) | [Hellblazers](https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz) | [Money Spine](https://open.spotify.com/album/6gseo6TclKYiE17rucZz3V) | 2:43 |
+| 955 | [A World Of Little Worlds](https://open.spotify.com/track/5sz9ipRxEIWqE27sufQwRs) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 4:59 |
+| 956 | [After the Static](https://open.spotify.com/track/2HwzdpXICdNC72g4nn4ro6) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Control Room Lullaby](https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46) | 2:58 |
+| 957 | [We Wanna Make Love to You \(But…\)](https://open.spotify.com/track/24IjNetsSPkO151kkBybjV) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [We Wanna Make Love to You \(But…\)](https://open.spotify.com/album/24yQZl3mH73nxFJUomieBE) | 2:13 |
+| 958 | [Spooky](https://open.spotify.com/track/7AxVcolQlPh6CAzlDHj3uq) | [S.H.O.U.T](https://open.spotify.com/artist/5Gn7doGZ1cPCZuIuzVU6RD) | [Spooky](https://open.spotify.com/album/4Cq7ROdCiucj4EB7Nc3Egb) | 3:52 |
+| 959 | [over you](https://open.spotify.com/track/4v8of4HI3TgV8ssm2DzUic) | [Darro](https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG) | [over you](https://open.spotify.com/album/71UV6jFNDCAiDsJpK0qhNE) | 2:57 |
+| 960 | [Altar](https://open.spotify.com/track/54W2cEcp8UaHgTD1927H2y) | [Fiebre de las Montañas Rocosas](https://open.spotify.com/artist/0wluskMzTXGEgOCmezbaNM) | [Altar](https://open.spotify.com/album/1UVSdVOF5KmQS1qO1GQEtE) | 3:42 |
+| 961 | [Pride](https://open.spotify.com/track/5fTYOxtkQXksKM7Pbj6SQy) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 2:32 |
+| 962 | [Lucid State](https://open.spotify.com/track/4MtTyKwT4elaUjhKBJytmK) | [Fortune Teller](https://open.spotify.com/artist/6xllSn5EskHUgWGzc7cAsm) | [Lucid State](https://open.spotify.com/album/1Lx3tSvojHJx3JPfPk8fHo) | 3:17 |
 
-Snapshot ID: `AAAD3OfGWD22EkKrai1jVRmVLxOC0lrd`
+Snapshot ID: `AAAD5cqYXe+sHtOkFcqxC/GLwSGD0jpY`

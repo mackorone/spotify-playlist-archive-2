@@ -1715,6 +1715,28 @@
     },
     {
       "album": {
+        "name": "TODO MUNDO SABE",
+        "url": "https://open.spotify.com/album/1gvwcjVtaCb7r0HHRh6xcA"
+      },
+      "artists": [
+        {
+          "name": "Sayle",
+          "url": "https://open.spotify.com/artist/415XkxlrNLB1aqKaakdN1C"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140798,
+      "name": "TODO MUNDO SABE",
+      "url": "https://open.spotify.com/track/1Xs3BC1GoDf1H1IKMdiPXD"
+    },
+    {
+      "album": {
         "name": "Trem Bala",
         "url": "https://open.spotify.com/album/6iQRSZRu1oVorwQKiOiFIZ"
       },

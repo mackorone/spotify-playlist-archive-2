@@ -2237,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Bloodmoon",
+        "url": "https://open.spotify.com/album/2lWN5Kl6SIByBY30y2pPBh"
+      },
+      "artists": [
+        {
+          "name": "Kutie",
+          "url": "https://open.spotify.com/artist/7AZopkJLZcldWAl09GeKUR"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135057,
+      "name": "Bloodmoon",
+      "url": "https://open.spotify.com/track/0HKEgHv6XSh7iEuPFysbxM"
+    },
+    {
+      "album": {
         "name": "Bloodspiller",
         "url": "https://open.spotify.com/album/4vqEBR15r5cdU1WJfPrpOD"
       },
@@ -6232,6 +6250,24 @@
       "duration_ms": 196905,
       "name": "Echoes Of Nowhere",
       "url": "https://open.spotify.com/track/3SzGqxO8yV08UiST2L49ZY"
+    },
+    {
+      "album": {
+        "name": "Echoes Of You",
+        "url": "https://open.spotify.com/album/4d6HH23KiNUAKrNHfNujyY"
+      },
+      "artists": [
+        {
+          "name": "Static Echoes",
+          "url": "https://open.spotify.com/artist/4qx5CnX8jGV49bqPKbatO7"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219359,
+      "name": "Echoes Of You",
+      "url": "https://open.spotify.com/track/6DRXwiD7YcA7lQnnAd8rc6"
     },
     {
       "album": {
@@ -13359,6 +13395,24 @@
     },
     {
       "album": {
+        "name": "Moonshot",
+        "url": "https://open.spotify.com/album/4ktOt1jJl7UF4R4QcO6CM9"
+      },
+      "artists": [
+        {
+          "name": "Sudden Waves",
+          "url": "https://open.spotify.com/artist/3fA5EcbKHHdkbXE9VEHAsY"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175524,
+      "name": "Moonshot",
+      "url": "https://open.spotify.com/track/2NEZmAlotN9gbZY8xsnwkY"
+    },
+    {
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/30fW506dQKyFNpklxKKPDY"
       },
@@ -16828,7 +16882,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 167441,
       "name": "Reverse",
       "url": "https://open.spotify.com/track/6Su3jNXEUCLmy3hAVJyZmd"
@@ -17466,7 +17520,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 193473,
       "name": "Sedative",
       "url": "https://open.spotify.com/track/1CXQdY5PViOyD3In9YlWmz"
@@ -17938,6 +17992,24 @@
       "duration_ms": 341289,
       "name": "shelter",
       "url": "https://open.spotify.com/track/6dXYDYLlVYDspOFQwmLh7J"
+    },
+    {
+      "album": {
+        "name": "Shifted",
+        "url": "https://open.spotify.com/album/3bsBnN1Zc0Ki8NpAKgI5Or"
+      },
+      "artists": [
+        {
+          "name": "Just Arrogant Animals",
+          "url": "https://open.spotify.com/artist/5nNS162iNQSZVgyNdV0Egf"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225792,
+      "name": "Shifted",
+      "url": "https://open.spotify.com/track/0bP7lkXSA4qDxXoiIoHAMf"
     },
     {
       "album": {
@@ -20369,6 +20441,24 @@
     },
     {
       "album": {
+        "name": "The Bit That Breaks",
+        "url": "https://open.spotify.com/album/1pXflvG4fvq2tujAnruwqs"
+      },
+      "artists": [
+        {
+          "name": "Grant Morriss",
+          "url": "https://open.spotify.com/artist/0jOU5Z8DKWBgvrc47bTJU6"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186395,
+      "name": "The Bit That Breaks",
+      "url": "https://open.spotify.com/track/0oAh9dBD52ChvB0KjO5YgP"
+    },
+    {
+      "album": {
         "name": "The Blurred Lens",
         "url": "https://open.spotify.com/album/7cFqw0xPDSg1mBjOlN4NCC"
       },
@@ -21876,6 +21966,24 @@
       "duration_ms": 154619,
       "name": "Transmutated",
       "url": "https://open.spotify.com/track/69AwPaxlvPuvunzKa6sSMR"
+    },
+    {
+      "album": {
+        "name": "Triple Threat",
+        "url": "https://open.spotify.com/album/1URQ2U4DFRvgGtb6Spxrkb"
+      },
+      "artists": [
+        {
+          "name": "Complacent",
+          "url": "https://open.spotify.com/artist/4YlM6URDFdVRkbmJloTV4n"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194829,
+      "name": "Triple Threat",
+      "url": "https://open.spotify.com/track/2cq9sZ1yE4RXVeD6Knd4t3"
     },
     {
       "album": {

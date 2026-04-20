@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Terra
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,111 likes - 293 songs - 16 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,113 likes - 293 songs - 16 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

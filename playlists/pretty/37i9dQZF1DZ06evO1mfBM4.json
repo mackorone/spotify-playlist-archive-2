@@ -1,12 +1,12 @@
 {
   "description": "This is Luis Miguel. The essential tracks, all in one playlist.",
-  "num_followers": 2558150,
+  "num_followers": 2558351,
   "original_name": "This Is Luis Miguel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAD4frP7W56x4Juq47Gw/+7X",
+  "snapshot_id": "aeLJgAAAAAAThiO3mw/mN6Qymq+eEjqG",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 212440,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/4yEJ1SNpgfK5GPx3Y0YhIU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 207360,
       "name": "Ayer",
       "url": "https://open.spotify.com/track/3PoR4LhD7Y74bPpk8lZ6f7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 212440,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/4yEJ1SNpgfK5GPx3Y0YhIU"
     },
     {
       "added_at": null,

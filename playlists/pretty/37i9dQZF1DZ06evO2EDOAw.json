@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 5310,
+  "num_followers": 5313,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAADe9OcHL+ppqNJ525iepWag",
+  "snapshot_id": "aeLJgAAAAADQ9ptgDSEUXnnoag7Y7CJ+",
   "tracks": [
     {
       "added_at": null,
@@ -535,34 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harmonious: Globally Inspired Music from the EPCOT Nighttime Spectacular (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6EL24CvOJteuYgnNG7xuJs"
-      },
-      "artists": [
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Bryson Camper",
-          "url": "https://open.spotify.com/artist/69Nqu9XspNUUIXeuBrACax"
-        },
-        {
-          "name": "Harmonious Gospel Choir",
-          "url": "https://open.spotify.com/artist/2pwORAeU0vGk6fRao2Ttyv"
-        }
-      ],
-      "duration_ms": 162295,
-      "name": "U.S.A.",
-      "url": "https://open.spotify.com/track/1q0agJXvSQOkiU1t7CcBiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My City - Single",
         "url": "https://open.spotify.com/album/2nLXrmWwWYef7UOgkuUMd6"
       },
@@ -611,6 +583,34 @@
       "duration_ms": 218207,
       "name": "My City",
       "url": "https://open.spotify.com/track/4BZ0BhOjn8C6NaXnGwV1gn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harmonious: Globally Inspired Music from the EPCOT Nighttime Spectacular (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6EL24CvOJteuYgnNG7xuJs"
+      },
+      "artists": [
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Bryson Camper",
+          "url": "https://open.spotify.com/artist/69Nqu9XspNUUIXeuBrACax"
+        },
+        {
+          "name": "Harmonious Gospel Choir",
+          "url": "https://open.spotify.com/artist/2pwORAeU0vGk6fRao2Ttyv"
+        }
+      ],
+      "duration_ms": 162295,
+      "name": "U.S.A.",
+      "url": "https://open.spotify.com/track/1q0agJXvSQOkiU1t7CcBiJ"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 217911,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "V4...The Other Side",
         "url": "https://open.spotify.com/album/2vdDEuqRB1P8oCAACbtoYJ"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 184106,
       "name": "Flaws",
       "url": "https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 217911,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
     },
     {
       "added_at": null,
@@ -831,34 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to Faith City",
-        "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman Jr.",
-          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
-        },
-        {
-          "name": "Faith City Music",
-          "url": "https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 252760,
-      "name": "Nobody but God (feat. Kierra Sheard & 1K Phew)",
-      "url": "https://open.spotify.com/track/1eCnFnrOGHZvg9L6YSIdIY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Judge Me (feat. Missy Elliott)",
         "url": "https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw"
       },
@@ -899,6 +871,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome to Faith City",
+        "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        },
+        {
+          "name": "Faith City Music",
+          "url": "https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "Nobody but God (feat. Kierra Sheard & 1K Phew)",
+      "url": "https://open.spotify.com/track/1eCnFnrOGHZvg9L6YSIdIY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "G.U.T.S. (God's Up To Something)",
         "url": "https://open.spotify.com/album/3axdrnIrP55NKd3MXIaI7R"
       },
@@ -915,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
       },
       "artists": [
         {
@@ -924,13 +924,13 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         },
         {
-          "name": "Anthony Brown",
-          "url": "https://open.spotify.com/artist/1HSMaq47ru6j0R2IFAgHDb"
+          "name": "BRL",
+          "url": "https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ"
         }
       ],
-      "duration_ms": 425334,
-      "name": "All Yours (feat. Anthony Brown)",
-      "url": "https://open.spotify.com/track/1vr4tE9ZjVYMpwiwp7n4vE"
+      "duration_ms": 376973,
+      "name": "You Are - Live",
+      "url": "https://open.spotify.com/track/7n1587JTlRfg9ePIdf0mUW"
     },
     {
       "added_at": null,
@@ -963,8 +963,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
       "artists": [
         {
@@ -972,13 +972,13 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         },
         {
-          "name": "BRL",
-          "url": "https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ"
+          "name": "Anthony Brown",
+          "url": "https://open.spotify.com/artist/1HSMaq47ru6j0R2IFAgHDb"
         }
       ],
-      "duration_ms": 376973,
-      "name": "You Are - Live",
-      "url": "https://open.spotify.com/track/7n1587JTlRfg9ePIdf0mUW"
+      "duration_ms": 425334,
+      "name": "All Yours (feat. Anthony Brown)",
+      "url": "https://open.spotify.com/track/1vr4tE9ZjVYMpwiwp7n4vE"
     },
     {
       "added_at": null,
@@ -999,22 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 205178,
-      "name": "Mo' Better",
-      "url": "https://open.spotify.com/track/5OblpdryT79xB9YHHu9vnL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glory Song",
         "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
       },
@@ -1031,22 +1015,6 @@
       "duration_ms": 307960,
       "name": "All Glory",
       "url": "https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 265089,
-      "name": "Always Win (Live)",
-      "url": "https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2"
     },
     {
       "added_at": null,
@@ -1074,35 +1042,11 @@
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
         }
       ],
-      "duration_ms": 335816,
-      "name": "Making A Way (feat. Adia)",
-      "url": "https://open.spotify.com/track/4Hif2nRMeMpVIp3p1rMvg8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 189392,
-      "name": "Better Than I Found It (feat. Kierra Sheard)",
-      "url": "https://open.spotify.com/track/0q7Y6vWAbhqL0SUFfv8aET"
+      "duration_ms": 205178,
+      "name": "Mo' Better",
+      "url": "https://open.spotify.com/track/5OblpdryT79xB9YHHu9vnL"
     },
     {
       "added_at": null,
@@ -1123,8 +1067,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/3WnxnPtIRicG42jGMyyEz4"
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
       },
       "artists": [
         {
@@ -1132,9 +1076,65 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 224013,
-      "name": "No Graceland",
-      "url": "https://open.spotify.com/track/66pblxm5LP4zAjHf1Kk8WQ"
+      "duration_ms": 289240,
+      "name": "Hear This",
+      "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SORRY, I CHANGED (AGAIN)",
+        "url": "https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 196988,
+      "name": "Paid It All",
+      "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 335816,
+      "name": "Making A Way (feat. Adia)",
+      "url": "https://open.spotify.com/track/4Hif2nRMeMpVIp3p1rMvg8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 265089,
+      "name": "Always Win (Live)",
+      "url": "https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2"
     }
   ],
   "unique_name": "This Is Kierra Sheard",

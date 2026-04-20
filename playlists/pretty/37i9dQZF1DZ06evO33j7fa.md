@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,213 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,234 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 34 | [Milk And Honey](https://open.spotify.com/track/7bsSdjF8UgqleAaBTTiYql) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:59 |
 | 35 | [Road](https://open.spotify.com/track/6LdShMhRMBP1deIQlHGH1U) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY), [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Endless Coloured Ways: The Songs of Nick Drake](https://open.spotify.com/album/6RoEhsWUSLVTh9wILDBfGJ) | 2:36 |
 | 36 | [Mayfair \- 1st Sound Techniques Session, March / 1968](https://open.spotify.com/track/5t4Qxd68SqjLVwZKnAPoov) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 2:17 |
-| 37 | [Been Smoking Too Long](https://open.spotify.com/track/7wZcJFjBz2QE0LdKeYwt0R) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:13 |
+| 37 | [Sketch 1](https://open.spotify.com/track/6Tb3ZoNRQIAJGG1yXUb8Un) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 1:00 |
 | 38 | [Blossom \- Cambridge, Lent Term / 1968](https://open.spotify.com/track/3TGcCbS1qXWzdKPt0yUeOM) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 4:25 |
-| 39 | [Sketch 1](https://open.spotify.com/track/6Tb3ZoNRQIAJGG1yXUb8Un) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 1:00 |
+| 39 | [Been Smoking Too Long](https://open.spotify.com/track/7wZcJFjBz2QE0LdKeYwt0R) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:13 |
 | 40 | [Come Into The Garden \(Introduction\)](https://open.spotify.com/track/2noW5u0VhiWJmKyld02FXK) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 0:31 |
 
-Snapshot ID: `aeF4AAAAAABFhg9No6tDuUvIVKtHmj1V`
+Snapshot ID: `aeLJgAAAAABDJuWiKxCWEAh2DovC9tET`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,634 likes - 120 songs - 12 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,779 likes - 120 songs - 12 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 119 | [A Mensagem da Cruz](https://open.spotify.com/track/4A4rMeu0VxmJjUO6p8RXls) | [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [A Mensagem da Cruz](https://open.spotify.com/album/0o1C6W2eWrh62L57ISLBcM) | 5:24 |
 | 120 | [Não Faltou Presença \- Ao Vivo](https://open.spotify.com/track/1w4Olr85hvOttQ2k4V2bnN) | [Vitor Santana](https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ), [Anna Clara Rocha](https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI) | [Não Faltou Presença \(Ao Vivo\)](https://open.spotify.com/album/4tOKVXY6gTSFWjmMagz2Xq) | 9:18 |
 
-Snapshot ID: `AAAAAM8rsi49XmY3XSoveyTZz+vIAYKe`
+Snapshot ID: `AAAAAM2+bTRe8aZSys88NzfsZ1aPdTCE`

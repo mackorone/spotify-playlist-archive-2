@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 740 likes - 83 songs - 4 hr 42 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 745 likes - 85 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,5 +91,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 81 | [Love \- Acoustic](https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Xellay Acoustic](https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX) | 3:31 |
 | 82 | [Suerte](https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M) | [Los de Marte](https://open.spotify.com/artist/3IswqnIMsJKqBzGplTP91r) | [Suerte](https://open.spotify.com/album/0BX5xTASG4jk84rbv4Y1Pr) | 2:47 |
 | 83 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 |
+| 84 | [Summertime](https://open.spotify.com/track/5tBQWcTJilTJC0PHmTmVlY) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Summertime](https://open.spotify.com/album/7BvYjg5CS0YE8SBM8v32m3) | 2:19 |
+| 85 | [1969](https://open.spotify.com/track/7mzfM2tTKNEgHIWdvXqJyQ) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Best Of](https://open.spotify.com/album/16zoHx9wW6EVMvPDo1sha5) | 3:30 |
 
-Snapshot ID: `AAADdRPic1kPDH/9yFZnB3jAax6mmP+k`
+Snapshot ID: `AAADd3AFheQ0p3p750mtN4nmB3UOoRDq`

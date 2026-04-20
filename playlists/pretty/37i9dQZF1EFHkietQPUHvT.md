@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292 likes - 87 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 293 likes - 88 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 82 | [Slow Motion](https://open.spotify.com/track/0BFlm17OcFErnis6lOAqGu) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Slow Motion](https://open.spotify.com/album/3C1eTUna7iyd8fYVonF2pR) | 3:01 |
 | 83 | [Coffee](https://open.spotify.com/track/13d5kDTQqKGkx5n4uGWumz) | [Ryan O'Shaughnessy](https://open.spotify.com/artist/5xxkw4ElO0WX3v4i1W5kAQ) | [Coffee](https://open.spotify.com/album/4M1SzV5b67tziejWV7JM5t) | 2:55 |
 | 84 | [Out Of Breath](https://open.spotify.com/track/16hiFD7T158Mi0Zqnr9d7C) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Out Of Breath](https://open.spotify.com/album/6I6mMDNoDoWePzEhnbzDSs) | 3:12 |
-| 85 | [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 |
-| 86 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
-| 87 | [Afternoon Song](https://open.spotify.com/track/5l8NOrAi6aywtuZZFiec3r) | [HAMISH](https://open.spotify.com/artist/0vZ9bgfKD1AXIsJCIzqKsq) | [Afternoon Song](https://open.spotify.com/album/7v6lU4UWokW2qDnlZI6iTm) | 3:16 |
+| 85 | [John's Song](https://open.spotify.com/track/0LtyfzUIi656oVoKbc3tqF) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [John's Song](https://open.spotify.com/album/3NU7iqOGclbHvW86UGdI1i) | 4:40 |
+| 86 | [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 |
+| 87 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
+| 88 | [Afternoon Song](https://open.spotify.com/track/5l8NOrAi6aywtuZZFiec3r) | [HAMISH](https://open.spotify.com/artist/0vZ9bgfKD1AXIsJCIzqKsq) | [Afternoon Song](https://open.spotify.com/album/7v6lU4UWokW2qDnlZI6iTm) | 3:16 |
 
-Snapshot ID: `AcPOHAAAAACIFL5Y9PsH38S3pcmdnfJD`
+Snapshot ID: `AcPTgAAAAAASCu/Y28IHrUWHq63ARkUC`

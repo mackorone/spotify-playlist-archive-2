@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, JUST LIZZY, Siren Section and more",
+  "description": "With Evil Level Live, JUST LIZZY, Darkswoon and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -526,7 +526,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 257640,
       "name": "Antivenom",
       "url": "https://open.spotify.com/track/6owOPBbWiOC4oWFDX8ZoAe"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 236843,
       "name": "Bad Vibes",
       "url": "https://open.spotify.com/track/3s6DOP7T21I2hhwab5RZOb"
@@ -1366,6 +1366,28 @@
     {
       "album": {
         "name": "Call Me Anytime",
+        "url": "https://open.spotify.com/album/6EzV2kykAS6gE0NmjVnvOI"
+      },
+      "artists": [
+        {
+          "name": "Black Marine",
+          "url": "https://open.spotify.com/artist/4ldRd8z0FkjQw4RTbQI8VN"
+        },
+        {
+          "name": "MX the American",
+          "url": "https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229642,
+      "name": "Call Me Anytime",
+      "url": "https://open.spotify.com/track/3uiSA8vTqDVauWAtQlxCW4"
+    },
+    {
+      "album": {
+        "name": "Call Me Anytime",
         "url": "https://open.spotify.com/album/6DXEtkaKXfw1yfLJ6ULLxQ"
       },
       "artists": [
@@ -1416,7 +1438,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 156980,
       "name": "Calling the Rain",
       "url": "https://open.spotify.com/track/2zixwyPGq4YuqVUuPbWEa8"
@@ -1438,7 +1460,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 310000,
       "name": "Can You See",
       "url": "https://open.spotify.com/track/0821u62C5YiW4Z2beHjvGf"
@@ -1528,7 +1550,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 211981,
       "name": "Castle of love II",
       "url": "https://open.spotify.com/track/5S7AVhwllnAQ3ZOgf7SnLn"
@@ -2326,7 +2348,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 171284,
       "name": "Dance in the Dungeon",
       "url": "https://open.spotify.com/track/1djlouVTNO65GRUQ6kV44G"
@@ -2428,7 +2450,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 321300,
       "name": "Dark Madonna",
       "url": "https://open.spotify.com/track/1dK4d8uwac3qswYbUKpzxz"
@@ -3182,7 +3204,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 250139,
       "name": "Eye For An Eye",
       "url": "https://open.spotify.com/track/6EyzhcKyRGTCUTVFaOg1Oe"
@@ -4304,7 +4326,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 169102,
       "name": "Heaven's Gate - Male Tears Remix",
       "url": "https://open.spotify.com/track/6SGuhXSDqfm6Dwv2KxrO9S"
@@ -4992,7 +5014,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 205000,
       "name": "Innocent Smile",
       "url": "https://open.spotify.com/track/3Zyxr5jVP7wYUMumD5S4uy"
@@ -5378,7 +5400,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 216774,
       "name": "Keep The Light On",
       "url": "https://open.spotify.com/track/4PAMXOS9J5INQckpSZ8w4u"
@@ -5826,7 +5848,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 183930,
       "name": "Limp",
       "url": "https://open.spotify.com/track/2Wn5Axqj2lkBUwZmiaZjzn"
@@ -6186,7 +6208,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 318634,
       "name": "Me vs You",
       "url": "https://open.spotify.com/track/7syrqaq98tcJGwSgCEOs60"
@@ -7042,7 +7064,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 223000,
       "name": "Old Photo (Here We Are)",
       "url": "https://open.spotify.com/track/6yEsX8zRnPaJJtleNERha9"
@@ -7830,7 +7852,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 178205,
       "name": "Reishi (Dark Forest Mix)",
       "url": "https://open.spotify.com/track/1DmqcIAhNDjZWAkQiSnQkp"
@@ -7920,7 +7942,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 186549,
       "name": "Robey Ven",
       "url": "https://open.spotify.com/track/242Lof3nt3f8rFgauer135"
@@ -7938,7 +7960,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 241893,
       "name": "Roseblood",
       "url": "https://open.spotify.com/track/0SvqrLZMvV3uSJ4gavipef"
@@ -7974,7 +7996,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 223391,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/5lPzu2hl40P0jJFIyJfCIf"
@@ -8198,7 +8220,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -8216,7 +8238,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 207719,
       "name": "Save Me From Myself",
       "url": "https://open.spotify.com/track/6b33R3VZm5QjqiKZ91z0cy"
@@ -9289,6 +9311,24 @@
     },
     {
       "album": {
+        "name": "Street",
+        "url": "https://open.spotify.com/album/5eecqry1Y6C0accFlEXKr3"
+      },
+      "artists": [
+        {
+          "name": "Blithe Perez",
+          "url": "https://open.spotify.com/artist/6WbMvuv7kJnV09bIxrDiPE"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208793,
+      "name": "Street",
+      "url": "https://open.spotify.com/track/5oNPKMYx14cj8XqQPe6ahN"
+    },
+    {
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/5cjxDenutIFsdXTJ10m61f"
       },
@@ -9720,7 +9760,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 390080,
       "name": "The Barbarian Dominion",
       "url": "https://open.spotify.com/track/0JqJFhQjgJ6xSr04KaZd7n"
@@ -10096,7 +10136,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 173338,
       "name": "The Secret of the Future",
       "url": "https://open.spotify.com/track/7uuwXkk4WloEcCsB4DsUFZ"
@@ -11284,7 +11324,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 240000,
       "name": "Watch You Beg",
       "url": "https://open.spotify.com/track/5ee27I7cWQALUMjs06nnkt"
@@ -11952,7 +11992,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 232040,
       "name": "Your Blood Is Like Mine",
       "url": "https://open.spotify.com/track/68DA4SFMI6X3c9KWuAt9sR"

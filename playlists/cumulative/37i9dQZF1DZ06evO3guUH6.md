@@ -4,12 +4,13 @@
 
 > This is Alfredo Olivas\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 0 min
+87 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Vivo"](https://open.spotify.com/track/46Ddt3qamOYmedJ0t1TgUd) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:32 | 2025-03-02 |  |
 | [A Estas Horas](https://open.spotify.com/track/7hiFcSUWRVotWd2pxhRIDJ) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [A Estas Horas](https://open.spotify.com/album/0n49nTkrVzzZY6hv6cfJCv) | 4:15 | 2023-08-08 | 2025-02-18 |
+| [Amor Del Bueno \(con Alfredo Olivas\)](https://open.spotify.com/track/5ckl6DcMSiDJV80U1uPhVP) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [A Caballo](https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH) | 4:22 | 2026-04-20 |  |
 | [Antecedentes De Culpa](https://open.spotify.com/track/3JvDAV3iV1KH0EmnfdU8kf) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:15 | 2023-08-08 |  |
 | [Asignatura Pendiente](https://open.spotify.com/track/3ert62mMe5oHSnYCjOV8S0) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 4:05 | 2025-05-10 | 2026-02-01 |
 | [Asignatura Pendiente](https://open.spotify.com/track/1uvfOengybr6fzRxecMsuJ) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Asignatura Pendiente](https://open.spotify.com/album/3kMQSQJN1D9ABXcSsgJ2vK) | 4:05 | 2024-02-10 | 2025-04-26 |
@@ -61,7 +62,7 @@
 | [Ni Con Labios Prestados](https://open.spotify.com/track/5MPajQIS9V2AFuSVGXVdoR) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 4:04 | 2025-09-19 |  |
 | [No](https://open.spotify.com/track/2QrU43HoJRNBrbo2XLI9DS) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:07 | 2023-08-08 |  |
 | [No Me Olvides](https://open.spotify.com/track/2LjQsWmfe64mZg79IExTw9) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:31 | 2024-05-11 | 2024-07-17 |
-| [Noche De Enciclopedia](https://open.spotify.com/track/0lFfKSBQhjcbcDPFpicotx) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:08 | 2025-05-07 |  |
+| [Noche De Enciclopedia](https://open.spotify.com/track/0lFfKSBQhjcbcDPFpicotx) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:08 | 2025-05-07 | 2026-04-20 |
 | [Noche De Enciclopedia](https://open.spotify.com/track/2AGKrFeiZ1kWTFP9kkPTCJ) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Noche De Enciclopedia](https://open.spotify.com/album/35hpcQ7BuCw7ObvPtZ4vIg) | 3:08 | 2025-01-12 | 2025-05-07 |
 | [Otro Perdedor](https://open.spotify.com/track/0cinWAQ7frmYmKWQq2wdKO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Otro Perdedor](https://open.spotify.com/album/4T7oRpEinTw1MsnO80gToD) | 4:10 | 2023-08-08 | 2024-07-18 |
 | [Otro Perdedor](https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 4:10 | 2024-08-03 |  |

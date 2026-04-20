@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Woo\(우원재\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,749 likes - 103 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,682 likes - 103 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

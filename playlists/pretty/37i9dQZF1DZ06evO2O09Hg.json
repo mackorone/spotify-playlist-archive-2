@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1659046,
+  "num_followers": 1659019,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAC21/vT1FataSNCs0ARMYxo",
+  "snapshot_id": "aeLJgAAAAABOudSC2OapznDZJHY8DhF3",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Don\u2019t Get Along (with Marshmello)",
-        "url": "https://open.spotify.com/album/7Jpx8HeGHBjfhvDpsy1CJQ"
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
       "artists": [
         {
@@ -328,13 +328,13 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         },
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Seezyn",
+          "url": "https://open.spotify.com/artist/1jIVEaq8GmqMYb8nFNAZgb"
         }
       ],
-      "duration_ms": 149394,
-      "name": "We Don\u2019t Get Along (with Marshmello)",
-      "url": "https://open.spotify.com/track/2XhatQ5NqfdqZMLCegWnbD"
+      "duration_ms": 205800,
+      "name": "Hide (feat. Seezyn)",
+      "url": "https://open.spotify.com/track/6rz0dTA0PdhXImFV5EjM0w"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+        "name": "We Don\u2019t Get Along (with Marshmello)",
+        "url": "https://open.spotify.com/album/7Jpx8HeGHBjfhvDpsy1CJQ"
       },
       "artists": [
         {
@@ -404,13 +404,13 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         },
         {
-          "name": "Seezyn",
-          "url": "https://open.spotify.com/artist/1jIVEaq8GmqMYb8nFNAZgb"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         }
       ],
-      "duration_ms": 205800,
-      "name": "Hide (feat. Seezyn)",
-      "url": "https://open.spotify.com/track/6rz0dTA0PdhXImFV5EjM0w"
+      "duration_ms": 149394,
+      "name": "We Don\u2019t Get Along (with Marshmello)",
+      "url": "https://open.spotify.com/track/2XhatQ5NqfdqZMLCegWnbD"
     },
     {
       "added_at": null,

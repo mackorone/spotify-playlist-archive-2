@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 7908,
+  "num_followers": 7920,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAABJ8dCtXBm7sLnVpWknsFFF",
+  "snapshot_id": "aeLJgAAAAACfu/Tqkb+xLcvOfC0O2q1X",
   "tracks": [
     {
       "added_at": null,
@@ -279,30 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cash App",
-        "url": "https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Lincoln",
-          "url": "https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "Cash App",
-      "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance for Jesus",
         "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
       },
@@ -323,6 +299,30 @@
       "duration_ms": 200948,
       "name": "Dance for Jesus",
       "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cash App",
+        "url": "https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Lincoln",
+          "url": "https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu"
+        }
+      ],
+      "duration_ms": 236068,
+      "name": "Cash App",
+      "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
     },
     {
       "added_at": null,
@@ -943,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bere Mi (Reimagined)",
         "url": "https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 177963,
       "name": "Bere Mi (Reimagined)",
       "url": "https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm"
     },
     {
       "added_at": null,
@@ -1027,6 +1027,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Alubarika",
+      "url": "https://open.spotify.com/track/6G242ZcM4Ic3WauviZ7w9S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Able God",
         "url": "https://open.spotify.com/album/7xr5X8oRWh4vbFJZ0zMtn8"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 266969,
       "name": "Able God",
       "url": "https://open.spotify.com/track/2T0n6U3Ef2XeZc4kdoe5Eg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Alubarika",
-      "url": "https://open.spotify.com/track/6G242ZcM4Ic3WauviZ7w9S"
     }
   ],
   "unique_name": "This Is Zlatan",

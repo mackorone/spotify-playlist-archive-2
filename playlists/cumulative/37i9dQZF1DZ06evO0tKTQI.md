@@ -4,7 +4,7 @@
 
 > This is Bratty\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 5 min
+76 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Patinar Sobre Hielo](https://open.spotify.com/track/2lq8hCV4li1m4tzu9vZDtN) | [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Limones de Oro](https://open.spotify.com/album/2kA0nYzjymPxh3qEkNcuwN) | 2:55 | 2023-11-10 | 2025-12-05 |
 | [Que Yo A Tí](https://open.spotify.com/track/7gd0O7jx54YvV7dbQKxwVu) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:28 | 2023-11-10 |  |
 | [Quiero Estar](https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:13 | 2023-11-10 |  |
-| [quién te va a querer como yo?](https://open.spotify.com/track/0yCDJcPgCOZutvKb95QryP) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Red Fingers](https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo) | [HOSHI](https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT) | 3:25 | 2026-04-19 |  |
+| [quién te va a querer como yo?](https://open.spotify.com/track/0yCDJcPgCOZutvKb95QryP) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Red Fingers](https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo) | [HOSHI](https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT) | 3:25 | 2026-04-19 | 2026-04-20 |
 | [Quédate](https://open.spotify.com/track/7tm1BebE71tHtJmbJKvvxq) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:45 | 2024-02-08 |  |
 | [Quédate \- Acústico / Bonus Track](https://open.spotify.com/track/1E7KyJ8EYd92qZ4EQPWrWJ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:23 | 2023-11-10 | 2024-02-09 |
 | [Radio](https://open.spotify.com/track/3noKEDrCpmudJkH6IvLOxb) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:07 | 2023-12-14 | 2026-04-09 |
@@ -65,7 +65,8 @@
 | [Salvador \- Acústico](https://open.spotify.com/track/4aGrxClh4bu8BxJjiEy6X7) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Segunda Piel Revisitado \(Acústico\)](https://open.spotify.com/album/2jctUnh6VWFecQQhE6ZYVB) | 4:14 | 2024-05-07 | 2025-04-03 |
 | [seguiremos siendo](https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [seguiremos siendo](https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI) | 3:14 | 2023-11-10 |  |
 | [Shh](https://open.spotify.com/track/2FoUIyGK8ddv0LQQWrd5Ie) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:10 | 2023-11-10 |  |
-| [siempre quiero +](https://open.spotify.com/track/6uYAESroN4MLNbrUpddVgU) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [siempre quiero +](https://open.spotify.com/album/0PktceOqLoT7kreoTfi38Z) | 3:10 | 2026-02-11 |  |
+| [siempre quiero +](https://open.spotify.com/track/3HXx0XvN2aSzAXdjZOsqkA) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [HOSHI](https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT) | 3:10 | 2026-04-20 |  |
+| [siempre quiero +](https://open.spotify.com/track/6uYAESroN4MLNbrUpddVgU) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [siempre quiero +](https://open.spotify.com/album/0PktceOqLoT7kreoTfi38Z) | 3:10 | 2026-02-11 | 2026-04-20 |
 | [Sobredósis De Tempra](https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Sobredósis De Tempra](https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN) | 2:58 | 2023-11-10 | 2026-04-19 |
 | [tarde](https://open.spotify.com/track/2snboRLa5IkMkMAohyxEYN) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:31 | 2023-11-10 | 2025-03-05 |
 | [tdbn](https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:14 | 2023-11-10 |  |
@@ -75,7 +76,7 @@
 | [Tu Canción](https://open.spotify.com/track/2x4lTomM9xQjBzz5WP3CU6) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Tu Canción](https://open.spotify.com/album/54oqibHFqg8CZFpDXnrbQZ) | 3:45 | 2023-11-10 |  |
 | [tu nombre](https://open.spotify.com/track/6l86tnT24ec7bp1PuddTMS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tu nombre](https://open.spotify.com/album/1pw9hHStOaBhgtzmmJd4aw) | 3:31 | 2025-12-07 |  |
 | [tuviste](https://open.spotify.com/track/5vfEvCdf2sjlf8ZWtZdfp7) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:50 | 2023-11-10 |  |
-| [u.c.m.c.d.n.](https://open.spotify.com/track/0c6yROB8ARIwEGJXU8w0Dn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 2:37 | 2023-11-10 | 2026-04-19 |
+| [u.c.m.c.d.n.](https://open.spotify.com/track/0c6yROB8ARIwEGJXU8w0Dn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 2:37 | 2023-11-10 |  |
 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 | 2023-11-10 |  |
 | [Ya No Es Lo Mismo](https://open.spotify.com/track/5OvmUAjeo81TsJ3m7Y45JG) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:49 | 2023-12-17 |  |
 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 | 2023-11-10 | 2023-12-18 |

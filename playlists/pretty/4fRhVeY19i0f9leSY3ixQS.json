@@ -6,7 +6,7 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAOFW4Hfk1SBcEvSHuLNm35qKFIPdDw",
+  "snapshot_id": "AAAOHfUZuAqRxU//ilqwA0wrlKeo4B92",
   "tracks": [
     {
       "added_at": "2026-02-26 08:38:44",
@@ -143,6 +143,54 @@
       "duration_ms": 185777,
       "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
       "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-04-19 10:10:41",
+      "album": {
+        "name": "Moonshot",
+        "url": "https://open.spotify.com/album/4ktOt1jJl7UF4R4QcO6CM9"
+      },
+      "artists": [
+        {
+          "name": "Sudden Waves",
+          "url": "https://open.spotify.com/artist/3fA5EcbKHHdkbXE9VEHAsY"
+        }
+      ],
+      "duration_ms": 175524,
+      "name": "Moonshot",
+      "url": "https://open.spotify.com/track/2NEZmAlotN9gbZY8xsnwkY"
+    },
+    {
+      "added_at": "2026-04-19 10:09:16",
+      "album": {
+        "name": "Bloodmoon",
+        "url": "https://open.spotify.com/album/2lWN5Kl6SIByBY30y2pPBh"
+      },
+      "artists": [
+        {
+          "name": "Kutie",
+          "url": "https://open.spotify.com/artist/7AZopkJLZcldWAl09GeKUR"
+        }
+      ],
+      "duration_ms": 135057,
+      "name": "Bloodmoon",
+      "url": "https://open.spotify.com/track/0HKEgHv6XSh7iEuPFysbxM"
+    },
+    {
+      "added_at": "2026-04-19 04:20:40",
+      "album": {
+        "name": "The Bit That Breaks",
+        "url": "https://open.spotify.com/album/1pXflvG4fvq2tujAnruwqs"
+      },
+      "artists": [
+        {
+          "name": "Grant Morriss",
+          "url": "https://open.spotify.com/artist/0jOU5Z8DKWBgvrc47bTJU6"
+        }
+      ],
+      "duration_ms": 186395,
+      "name": "The Bit That Breaks",
+      "url": "https://open.spotify.com/track/0oAh9dBD52ChvB0KjO5YgP"
     },
     {
       "added_at": "2026-04-18 10:36:09",
@@ -1607,42 +1655,6 @@
       "duration_ms": 194000,
       "name": "Bothered",
       "url": "https://open.spotify.com/track/3rEewPUiKzWuD0VHJpBJ5Y"
-    },
-    {
-      "added_at": "2026-03-19 23:04:20",
-      "album": {
-        "name": "Reverse",
-        "url": "https://open.spotify.com/album/0osGwMc2y9GS7noTPVRLiB"
-      },
-      "artists": [
-        {
-          "name": "Flo.Von",
-          "url": "https://open.spotify.com/artist/6QSpwoXNHKuyxV43biHlYV"
-        },
-        {
-          "name": "Tim Klein",
-          "url": "https://open.spotify.com/artist/3XGnDIrgR2jEqdXDRMWqEH"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "Reverse",
-      "url": "https://open.spotify.com/track/6Su3jNXEUCLmy3hAVJyZmd"
-    },
-    {
-      "added_at": "2026-03-19 14:04:08",
-      "album": {
-        "name": "Sedative",
-        "url": "https://open.spotify.com/album/1tJuF6JzxMYeXJN9y7gIjc"
-      },
-      "artists": [
-        {
-          "name": "Cranked",
-          "url": "https://open.spotify.com/artist/7Lf6ADGQEPghnrtwHpMAKw"
-        }
-      ],
-      "duration_ms": 193473,
-      "name": "Sedative",
-      "url": "https://open.spotify.com/track/1CXQdY5PViOyD3In9YlWmz"
     },
     {
       "added_at": "2025-08-03 07:15:47",
@@ -4089,6 +4101,38 @@
       "url": "https://open.spotify.com/track/5zahUH63hbgnWDA4FmqOQ2"
     },
     {
+      "added_at": "2026-04-19 04:27:21",
+      "album": {
+        "name": "Shifted",
+        "url": "https://open.spotify.com/album/3bsBnN1Zc0Ki8NpAKgI5Or"
+      },
+      "artists": [
+        {
+          "name": "Just Arrogant Animals",
+          "url": "https://open.spotify.com/artist/5nNS162iNQSZVgyNdV0Egf"
+        }
+      ],
+      "duration_ms": 225792,
+      "name": "Shifted",
+      "url": "https://open.spotify.com/track/0bP7lkXSA4qDxXoiIoHAMf"
+    },
+    {
+      "added_at": "2026-04-19 04:27:10",
+      "album": {
+        "name": "Echoes Of You",
+        "url": "https://open.spotify.com/album/4d6HH23KiNUAKrNHfNujyY"
+      },
+      "artists": [
+        {
+          "name": "Static Echoes",
+          "url": "https://open.spotify.com/artist/4qx5CnX8jGV49bqPKbatO7"
+        }
+      ],
+      "duration_ms": 219359,
+      "name": "Echoes Of You",
+      "url": "https://open.spotify.com/track/6DRXwiD7YcA7lQnnAd8rc6"
+    },
+    {
       "added_at": "2026-04-17 20:42:52",
       "album": {
         "name": "Line Them Up",
@@ -4119,6 +4163,22 @@
       "duration_ms": 225155,
       "name": "SYNCHRONISE",
       "url": "https://open.spotify.com/track/4WahUNo8MbgaRb2J9XlB1d"
+    },
+    {
+      "added_at": "2026-04-19 04:26:42",
+      "album": {
+        "name": "Triple Threat",
+        "url": "https://open.spotify.com/album/1URQ2U4DFRvgGtb6Spxrkb"
+      },
+      "artists": [
+        {
+          "name": "Complacent",
+          "url": "https://open.spotify.com/artist/4YlM6URDFdVRkbmJloTV4n"
+        }
+      ],
+      "duration_ms": 194829,
+      "name": "Triple Threat",
+      "url": "https://open.spotify.com/track/2cq9sZ1yE4RXVeD6Knd4t3"
     }
   ],
   "unique_name": "Shuffle Roulette",

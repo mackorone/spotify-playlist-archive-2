@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Camille Yembe, The Strokes, Lady Gaga x Doechii, Gradur x Ninho and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,093 likes - 121 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,086 likes - 121 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

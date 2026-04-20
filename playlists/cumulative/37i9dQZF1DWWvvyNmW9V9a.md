@@ -2,7 +2,7 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> ˗ˋˏ ♡ ˎˊ˗ mom + dad  ˗ˋˏ ♡ ˎˊ˗
+> all the girls are girling
 
 2,599 songs - 5 day 15 hr 19 min
 

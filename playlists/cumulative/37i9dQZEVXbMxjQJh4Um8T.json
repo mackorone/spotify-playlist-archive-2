@@ -350,7 +350,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 163631,
       "name": "2.0 #1",
       "url": "https://open.spotify.com/track/2ioZaT8EIa3dNE8tgiEdgg"
@@ -3318,7 +3318,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 154954,
       "name": "Berghain - Remix",
       "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
@@ -5617,6 +5617,28 @@
     },
     {
       "album": {
+        "name": "Journals",
+        "url": "https://open.spotify.com/album/0PZY8Rxtm8ujGlGIQISqRL"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248146,
+      "name": "Confident - Single Version",
+      "url": "https://open.spotify.com/track/6czM6UMQD9qE5GAUp68oud"
+    },
+    {
+      "album": {
         "name": "AMERI",
         "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
       },
@@ -6294,7 +6316,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/5sX4UiPdOdndSEWA6asUgh"
@@ -7430,7 +7452,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -13399,6 +13421,28 @@
     },
     {
       "album": {
+        "name": "Infinity 2008",
+        "url": "https://open.spotify.com/album/1Du4gIPvejjJ9zwriOeZPx"
+      },
+      "artists": [
+        {
+          "name": "Guru Josh Project",
+          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
+        },
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193720,
+      "name": "Infinity 2008 - Klaas Vocal Edit",
+      "url": "https://open.spotify.com/track/4pmfb7PCuXqqRsibtNJiVB"
+    },
+    {
+      "album": {
         "name": "\u00bfD\u00f3nde Es El After?",
         "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
       },
@@ -14604,7 +14648,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 239760,
       "name": "La Gent Que Estimo",
       "url": "https://open.spotify.com/track/6ICP7POZL5wikU6rviCLF3"
@@ -15330,7 +15374,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
@@ -21830,7 +21874,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 115200,
       "name": "POR TI",
       "url": "https://open.spotify.com/track/3Ip1sc72P5uz8BUB9kb4QQ"
@@ -24954,7 +24998,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 242351,
       "name": "Si Me Necesitas, Ll\u00e1mame",
       "url": "https://open.spotify.com/track/4DEdfr4plBy97DH4YPg4At"
@@ -25146,7 +25190,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 516666,
       "name": "Si te vas...",
       "url": "https://open.spotify.com/track/2x59pa3xDf8hHZ4N3f5fGQ"
@@ -28530,7 +28574,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 267300,
       "name": "Todos los Besos",
       "url": "https://open.spotify.com/track/2vSJKKmOEJQA5tr082p5XX"
@@ -30622,7 +30666,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 225840,
       "name": "Volcans",
       "url": "https://open.spotify.com/track/6kp5vm0qtmsG6YTLaWcsoo"
@@ -31280,6 +31324,36 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+    },
+    {
+      "album": {
+        "name": "Skrillex and Diplo present Jack \u00dc",
+        "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
+      },
+      "artists": [
+        {
+          "name": "Jack \u00dc",
+          "url": "https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "Where Are \u00dc Now (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f"
     },
     {
       "album": {
@@ -32006,7 +32080,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"
@@ -32200,7 +32274,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 118666,
       "name": "Yo te conozco :):",
       "url": "https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA"

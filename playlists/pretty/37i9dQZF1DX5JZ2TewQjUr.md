@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Jade Sun
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,202 likes - 122 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,208 likes - 122 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

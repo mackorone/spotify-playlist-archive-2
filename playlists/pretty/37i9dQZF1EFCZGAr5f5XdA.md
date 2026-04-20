@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,792 likes - 221 songs - 12 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,798 likes - 221 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,8 +182,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 172 | [oceans](https://open.spotify.com/track/14HmdbVhtDR1R32qgNZx1N) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:38 |
 | 173 | [Something In The Water](https://open.spotify.com/track/1JaKAilRW2dzswt0du8uZe) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 2:51 |
 | 174 | [Love These Days](https://open.spotify.com/track/2cXu6oGXOieNkFViXTHBEi) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:00 |
-| 175 | [RICH AND BROKE](https://open.spotify.com/track/4IhQDdS75FROk5hse6zaap) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:02 |
-| 176 | [Two Car Garage](https://open.spotify.com/track/57ZFmLushr2mLmY1NMoZwI) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Two Car Garage](https://open.spotify.com/album/35SWvZWmYD6O60FVna7sgP) | 3:02 |
+| 175 | [Two Car Garage](https://open.spotify.com/track/57ZFmLushr2mLmY1NMoZwI) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Two Car Garage](https://open.spotify.com/album/35SWvZWmYD6O60FVna7sgP) | 3:02 |
+| 176 | [RICH AND BROKE](https://open.spotify.com/track/4IhQDdS75FROk5hse6zaap) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:02 |
 | 177 | [OBLIVIOUS](https://open.spotify.com/track/65hG7wpGsBD591lcfzEmHC) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:46 |
 | 178 | [WASH2](https://open.spotify.com/track/2FcPfHa1dngTMjhlHD9zg4) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:41 |
 | 179 | [A Dedicated Instrumental](https://open.spotify.com/track/7FuyL5VZ172qCdq6opFpq4) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 1:32 |
@@ -212,8 +212,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 202 | [Over The Moon](https://open.spotify.com/track/4hO2oP5JnkSHHBdLEPRWcV) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1ZffRASy91eeruaNOasuJ4) | 2:41 |
 | 203 | [Funeral](https://open.spotify.com/track/520gzuJQhkYX57KiLB73ne) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 2:34 |
 | 204 | [Trippy](https://open.spotify.com/track/7J4FAKrqQ6N52pAd6t6ec4) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J) | [Free Skizzy Mars](https://open.spotify.com/album/06uilmMkjOIuifxVYJyqwD) | 2:41 |
-| 205 | [Hey Rudy \(with The Roots\)](https://open.spotify.com/track/0rsfw5XRfjlwLBAetmJjBr) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Holiday Seasoning](https://open.spotify.com/album/0bQD8TSiMKDz4F2osO4zPy) | 2:40 |
-| 206 | [Brought The Family](https://open.spotify.com/track/4VupP9RJdJYb3G1pf0UyS7) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 3:00 |
+| 205 | [Brought The Family](https://open.spotify.com/track/4VupP9RJdJYb3G1pf0UyS7) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 3:00 |
+| 206 | [Hey Rudy \(with The Roots\)](https://open.spotify.com/track/0rsfw5XRfjlwLBAetmJjBr) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Holiday Seasoning](https://open.spotify.com/album/0bQD8TSiMKDz4F2osO4zPy) | 2:40 |
 | 207 | [Love A Good](https://open.spotify.com/track/7Kug4Y5pkvOXIsJRONpwTg) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Love A Good](https://open.spotify.com/album/6dr5B4L0fdzKdvTDGjg9ip) | 3:34 |
 | 208 | [Conflict Resolution](https://open.spotify.com/track/5dN8ikaS2aRLlm0iJZOYkk) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Lee Lawrence](https://open.spotify.com/artist/4McBXklVLtwztAzFyRnKnS) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 3:28 |
 | 209 | [Hell or High Water](https://open.spotify.com/track/7etMW2JGF8q1VIgerv75kR) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Amore Puro](https://open.spotify.com/album/4k9wqPruX6HaTZ7FEsI0qe) | 3:39 |
@@ -230,4 +230,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 220 | [Break These Walls](https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL) | 3:51 |
 | 221 | [Bad for Me](https://open.spotify.com/track/1vkQ1EwVJrCi90UFfpzMuv) | [JustinLee](https://open.spotify.com/artist/4Tf3jFnlqCpYMeeFkvF1Mz) | [Tennessee Backroad](https://open.spotify.com/album/7F0po7F6sk6HrJnv0zerrs) | 0:56 |
 
-Snapshot ID: `AcPOCAAAAAAJDuxnetVCORT0Q+CjRClh`
+Snapshot ID: `AcPTqAAAAADZIvREvEtVgJzrjd7Fss+w`

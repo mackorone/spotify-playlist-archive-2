@@ -16299,6 +16299,24 @@
     },
     {
       "album": {
+        "name": "Currents B-Sides & Remixes",
+        "url": "https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258706,
+      "name": "Powerlines",
+      "url": "https://open.spotify.com/track/7nmtH3cyqEmKz8F09V60yO"
+    },
+    {
+      "album": {
         "name": "SCRAPYARD",
         "url": "https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6"
       },

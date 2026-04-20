@@ -144,7 +144,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 157038,
       "name": "+49",
       "url": "https://open.spotify.com/track/5g56IuOf4ufMFNgtHuGgt6"
@@ -13726,7 +13726,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 248133,
       "name": "Confident",
       "url": "https://open.spotify.com/track/3JsydWaf2Ev4ehaLUjj3SY"
@@ -13748,7 +13748,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 248146,
       "name": "Confident - Single Version",
       "url": "https://open.spotify.com/track/6czM6UMQD9qE5GAUp68oud"
@@ -18372,7 +18372,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 201946,
       "name": "Eenie Meenie",
       "url": "https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2"
@@ -18394,7 +18394,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 201973,
       "name": "Eenie Meenie - Radio Version",
       "url": "https://open.spotify.com/track/4Yaw2PmyOETOnEM3TCf98I"
@@ -23396,7 +23396,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 105035,
       "name": "Geld",
       "url": "https://open.spotify.com/track/0hpiVWAZbVxE0R92i7kucF"
@@ -24342,7 +24342,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 164985,
       "name": "Gl\u00fcck",
       "url": "https://open.spotify.com/track/7j1OD1NADcP0m05LpZvBrl"
@@ -45511,6 +45511,24 @@
     },
     {
       "album": {
+        "name": "Party Scatter",
+        "url": "https://open.spotify.com/album/3BJKLxyGXBGmQL4v1CbpUo"
+      },
+      "artists": [
+        {
+          "name": "Nelson Amazing",
+          "url": "https://open.spotify.com/artist/7klxV4h2x4tXrnOQD3g9yN"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178442,
+      "name": "Party Scatter",
+      "url": "https://open.spotify.com/track/31aALRY60jYgknCKJhBJjo"
+    },
+    {
+      "album": {
         "name": "Partysau",
         "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
       },
@@ -49250,7 +49268,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -50452,7 +50470,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 243600,
       "name": "S&M",
       "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
@@ -52334,7 +52352,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 213241,
       "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
@@ -58396,7 +58414,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -59762,6 +59780,24 @@
       "duration_ms": 223173,
       "name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
       "url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt"
+    },
+    {
+      "album": {
+        "name": "Topovska",
+        "url": "https://open.spotify.com/album/6ASzpVlBkhte1CMYjuUZmB"
+      },
+      "artists": [
+        {
+          "name": "Buba Corelli",
+          "url": "https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Topovska",
+      "url": "https://open.spotify.com/track/3yUntIlIWjAayOzZrWHC82"
     },
     {
       "album": {
@@ -61548,7 +61584,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -63642,7 +63678,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
@@ -65034,7 +65070,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 205680,
       "name": "What Do You Mean?",
       "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"

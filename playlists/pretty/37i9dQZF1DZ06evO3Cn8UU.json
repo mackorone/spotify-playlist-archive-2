@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 38987,
+  "num_followers": 38992,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAABDqv5VB26DJ5dyqe/7lm7P",
+  "snapshot_id": "aeLJgAAAAAAaGoeKcD+6BbUmGhlhDOzy",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 376066,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/2Qv5EUATFNebcFGq3rN8O6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 213853,
       "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
       "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 376066,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/2Qv5EUATFNebcFGq3rN8O6"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/2NLgJVAko27NbJo5wINukh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 326800,
       "name": "2 A.M.",
       "url": "https://open.spotify.com/track/4FX6NiquFvfYqSNzEUgPds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/2NLgJVAko27NbJo5wINukh"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 264573,
-      "name": "The More I Get, the More I Want",
-      "url": "https://open.spotify.com/track/6nkhaYvdho2vRH5JTrJX7f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Little More Magic",
         "url": "https://open.spotify.com/album/7GE2doRJah7c0sUIfwRsjm"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 391733,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/4B2tdqnVaGEJd60FfLIbeB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 264573,
+      "name": "The More I Get, the More I Want",
+      "url": "https://open.spotify.com/track/6nkhaYvdho2vRH5JTrJX7f"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 289813,
-      "name": "You're My Choice Tonight (Choose Me)",
-      "url": "https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Little More Magic",
         "url": "https://open.spotify.com/album/7GE2doRJah7c0sUIfwRsjm"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 320666,
       "name": "I'm Always Thinking About You",
       "url": "https://open.spotify.com/track/62vbkUH43O7M9fPMtyVbbq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 289813,
+      "name": "You're My Choice Tonight (Choose Me)",
+      "url": "https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "All I Need Is You",
-      "url": "https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 210186,
       "name": "Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "All I Need Is You",
+      "url": "https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S"
     },
     {
       "added_at": null,

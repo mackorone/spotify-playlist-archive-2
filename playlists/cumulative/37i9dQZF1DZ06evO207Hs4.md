@@ -4,7 +4,7 @@
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 11 min
+64 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Fundamental Reggay](https://open.spotify.com/track/5fCrJkzFFSvsl0kLxxDNvA) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Unlimited](https://open.spotify.com/album/5fDti9HnqG3uWl3deeujN7) | 3:01 | 2025-11-25 | 2025-11-28 |
 | [Going Back West](https://open.spotify.com/track/4E59YuDnTWUNTR914Zh1qA) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Best Of Jimmy Cliff](https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh) | 4:47 | 2025-11-25 | 2026-02-17 |
 | [Going Back West](https://open.spotify.com/track/5paYwzyK9zv73ss0jxHW5P) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 4:47 | 2026-04-15 |  |
+| [Gussie Clarke's Collaborations \- Continuous Mix](https://open.spotify.com/track/3Yqged7YNKCJkCVLXQlFwB) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [iNi Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs), [Deborahe Glasgow](https://open.spotify.com/artist/0PfphN9qB6zSGGP38VjDm7), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F), [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq), [Richie Stephens](https://open.spotify.com/artist/6vHXmFLRCxvJPquxCpCl7c), [Cynthia Schloss](https://open.spotify.com/artist/0q3sBFRGxiXPmhrePKRgIY), [Mighty Diamonds](https://open.spotify.com/artist/2MvXKrHantfY5wyPiCOo2k) | [Gussie Clarke's Reggae Dancehall Collaborations](https://open.spotify.com/album/2WHG8ZYRJKldOIqjMigzpL) | 31:46 | 2026-04-20 |  |
 | [Hakuna Matata](https://open.spotify.com/track/1VdQkGrUNJTqMkWlROP8mS) | [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rhythm Of The Pride Lands](https://open.spotify.com/album/38WcqhsXCL0TE86lTK2FHj) | 4:24 | 2025-11-25 |  |
 | [Hard Road To Travel](https://open.spotify.com/track/5ObfITffAO9V5Gl1TEpz8H) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:37 | 2025-11-25 |  |
 | [Hello Sunshine](https://open.spotify.com/track/0odALYQ2EfLc5A1oVh8OVA) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:48 | 2025-11-25 |  |
@@ -61,7 +62,7 @@
 | [Struggling Man](https://open.spotify.com/track/6otlMUgOxNinfwVkdvASU1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Best Of Jimmy Cliff](https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh) | 3:30 | 2025-11-25 | 2026-01-04 |
 | [Sunshine in the Music](https://open.spotify.com/track/2WTdOVaNWbcOViMg4NBML9) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Power And The Glory](https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs) | 4:50 | 2025-11-25 |  |
 | [The Harder They Come](https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 3:39 | 2025-11-25 |  |
-| [Treat The Youth Right](https://open.spotify.com/track/6EaSFMRbFQ6a88yTk625iS) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae On The River 10th Anniversary](https://open.spotify.com/album/47n7r9GZD3DiHKVukdyPDB) | 5:09 | 2026-02-11 |  |
+| [Treat The Youth Right](https://open.spotify.com/track/6EaSFMRbFQ6a88yTk625iS) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae On The River 10th Anniversary](https://open.spotify.com/album/47n7r9GZD3DiHKVukdyPDB) | 5:09 | 2026-02-11 | 2026-04-20 |
 | [Treat the Youths Right](https://open.spotify.com/track/0wdGFydtOYUrQhcYChzImr) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 3:40 | 2025-11-25 |  |
 | [Under the Sun, Moon and Stars](https://open.spotify.com/track/2p7sRZxRCSEmd97wyDr57m) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Unlimited](https://open.spotify.com/album/5fDti9HnqG3uWl3deeujN7) | 4:06 | 2025-11-25 | 2025-11-28 |
 | [Under the Sun, Moon and Stars](https://open.spotify.com/track/3gKNtPzCO5XCuKnrlvxU7B) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Unlimited](https://open.spotify.com/album/6c4nsvQdAUNOWLDGCBNyzR) | 4:06 | 2025-11-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,056 likes - 160 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055 likes - 160 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 55 | [una bella canzone](https://open.spotify.com/track/5OuXhUBx0w4ruJymbEFgYJ) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [poké melodrama](https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz) | 2:39 |
 | 56 | [Fossi come te](https://open.spotify.com/track/1FsO5N8jJ12vSq2LLhmTlv) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/208QVntLWsx44R2Eb0Hm81) | 3:03 |
 | 57 | [okok](https://open.spotify.com/track/1bcDVX5XacuPzujRos1C3T) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi) | 3:30 |
-| 58 | [Solo un'idea](https://open.spotify.com/track/2IvX7FWI3rbMO0WL6o63Lx) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:37 |
-| 59 | [Nulla di stupefacente](https://open.spotify.com/track/6StTn7TmydEEw4co0QFei5) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [CALCINACCI](https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93) | 3:40 |
+| 58 | [Nulla di stupefacente](https://open.spotify.com/track/6StTn7TmydEEw4co0QFei5) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [CALCINACCI](https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93) | 3:40 |
+| 59 | [Solo un'idea](https://open.spotify.com/track/2IvX7FWI3rbMO0WL6o63Lx) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:37 |
 | 60 | [ok :/](https://open.spotify.com/track/04ui4a5OFflkrFJ5qXExdY) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :/](https://open.spotify.com/album/7JMRoCMELpRyMhzj8XAkmt) | 2:52 |
 | 61 | [THE WORLD IS YOURS](https://open.spotify.com/track/4UaGQWKASSvNQZ2D1wRzel) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:06 |
 | 62 | [LA NOTTE](https://open.spotify.com/track/3dK7LjirF5LVopSoO45dgN) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 3:05 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 68 | [PASTIGLIA v7](https://open.spotify.com/track/4Vp13e77ads0KmyLkV9XLj) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:38 |
 | 69 | [CRISI v8](https://open.spotify.com/track/3ZITsuxamXIoDlyy4Fi2Wt) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 3:13 |
 | 70 | [mi ami davvero?](https://open.spotify.com/track/1ZTQyGeAC8oJHMGxLyLqHu) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [BRIANZOLA ISSUES](https://open.spotify.com/album/27j6pnsbafDZIn3WnK6gKV) | 3:25 |
-| 71 | [Eravamo ragazzini](https://open.spotify.com/track/50psUCaLbN5VxB4XU7ZaTC) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [CRUSH](https://open.spotify.com/album/6prdGyJZaUBHgCvVJ4mJH5) | 3:14 |
-| 72 | [parquet](https://open.spotify.com/track/5SCqOU0YAOMn3MiopPrddY) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [IO NESSUNO](https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3) | 3:31 |
+| 71 | [parquet](https://open.spotify.com/track/5SCqOU0YAOMn3MiopPrddY) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [IO NESSUNO](https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3) | 3:31 |
+| 72 | [Eravamo ragazzini](https://open.spotify.com/track/50psUCaLbN5VxB4XU7ZaTC) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [CRUSH](https://open.spotify.com/album/6prdGyJZaUBHgCvVJ4mJH5) | 3:14 |
 | 73 | [Cose che si dicono](https://open.spotify.com/track/0NITryefiKERw6elK9pvnU) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 3:22 |
 | 74 | [Flash](https://open.spotify.com/track/2OajuteWecH4XFQyFLq1wQ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:43 |
 | 75 | [Danza](https://open.spotify.com/track/52KXGLUNnKoFFbV13lezFZ) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/12mBclPfH5Ey85eS5oKm2B) | 2:44 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 159 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 | 160 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 
-Snapshot ID: `AcPOCAAAAADmaiDmaqapbmDmumaiae/L`
+Snapshot ID: `AcPTqAAAAADRMGg+FLFLL0HnUp7ERfRc`

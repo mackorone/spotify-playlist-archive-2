@@ -1,12 +1,12 @@
 {
   "description": "This is Young Scooter. The essential tracks, all in one playlist.",
-  "num_followers": 4567,
+  "num_followers": 4568,
   "original_name": "This Is Young Scooter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAADskHi59/RSyFkUBqceE2IS",
+  "snapshot_id": "aeLJgAAAAADAwwLFZ+cvXXjw8SBgbV3b",
   "tracks": [
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 242891,
-      "name": "Real Talk (feat. Future)",
-      "url": "https://open.spotify.com/track/4aA3OzTBHR9cUKM8zILpqA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Recipe",
         "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 208287,
       "name": "No Features - feat. Kodak Black",
       "url": "https://open.spotify.com/track/0jxJiq2bVLGlqLoqhdGZqz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 242891,
+      "name": "Real Talk (feat. Future)",
+      "url": "https://open.spotify.com/track/4aA3OzTBHR9cUKM8zILpqA"
     },
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 233725,
-      "name": "Do It Big (feat. Future)",
-      "url": "https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trap God 2",
         "url": "https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 207160,
       "name": "Bullet Wound (feat. Lil Wayne & Young Scooter)",
       "url": "https://open.spotify.com/track/6t9dhGRdZ79uPGpqjyuB2q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 233725,
+      "name": "Do It Big (feat. Future)",
+      "url": "https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
+        "name": "I Pledge Allegiance to the Trap, Vol. 5",
+        "url": "https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d"
       },
       "artists": [
         {
@@ -612,13 +612,13 @@
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         },
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 176901,
-      "name": "Come Eat Wit Us",
-      "url": "https://open.spotify.com/track/7loTO2VOr9KxJRL7cJPkw4"
+      "duration_ms": 185077,
+      "name": "Imma Ball Forever",
+      "url": "https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Pledge Allegiance to the Trap, Vol. 5",
-        "url": "https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d"
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
       },
       "artists": [
         {
@@ -656,13 +656,13 @@
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 185077,
-      "name": "Imma Ball Forever",
-      "url": "https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg"
+      "duration_ms": 176901,
+      "name": "Come Eat Wit Us",
+      "url": "https://open.spotify.com/track/7loTO2VOr9KxJRL7cJPkw4"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fast Lane Juugin",
+        "url": "https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 266489,
+      "name": "Made It",
+      "url": "https://open.spotify.com/track/3dE6SF7whFk5FzbhNgqaeV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zaystreet",
         "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 204605,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/75Wu6zaSb1QUolSm70RSwo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fast Lane Juugin",
-        "url": "https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 266489,
-      "name": "Made It",
-      "url": "https://open.spotify.com/track/3dE6SF7whFk5FzbhNgqaeV"
     },
     {
       "added_at": null,
@@ -787,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 238728,
+      "name": "How Can I Not (feat. Young Scooter)",
+      "url": "https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Streetz Krazy",
         "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
       },
@@ -827,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 238728,
-      "name": "How Can I Not (feat. Young Scooter)",
-      "url": "https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zaystreet",
         "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 209099,
       "name": "Black Migo",
       "url": "https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "80's Baby",
+        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 187063,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm"
     },
     {
       "added_at": null,
@@ -911,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "80's Baby",
-        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 187063,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Recipe",
         "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 190824,
-      "name": "Drug Deals",
-      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Young Jefe",
         "url": "https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 213773,
       "name": "Medellin (feat. Young Scooter)",
       "url": "https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 190824,
+      "name": "Drug Deals",
+      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
     },
     {
       "added_at": null,

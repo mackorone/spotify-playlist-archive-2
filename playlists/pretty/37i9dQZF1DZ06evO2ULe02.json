@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAABlE1Bzf6oOL8SwzoceSLSx",
+  "snapshot_id": "aeLJgAAAAACn0EskuebPn/xd3efEYzY1",
   "tracks": [
     {
       "added_at": null,
@@ -360,25 +360,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 177200,
-      "name": "are we in love yet?",
-      "url": "https://open.spotify.com/track/1len89NNhcvNKZg4gwuO4S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Worst Girls Of All Time",
-        "url": "https://open.spotify.com/album/3XAiXgEEpeHacZxAgbL6Hm"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 173482,
-      "name": "Worst Girls of All Time",
-      "url": "https://open.spotify.com/track/5DhTYNLmJUP04UgLtEVr6P"
+      "duration_ms": 153733,
+      "name": "something in the way you say my name",
+      "url": "https://open.spotify.com/track/3CVdmZHfnkDnyily3IrWfg"
     },
     {
       "added_at": null,
@@ -395,6 +379,22 @@
       "duration_ms": 145760,
       "name": "dance around it",
       "url": "https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worst Girls Of All Time",
+        "url": "https://open.spotify.com/album/3XAiXgEEpeHacZxAgbL6Hm"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 173482,
+      "name": "Worst Girls of All Time",
+      "url": "https://open.spotify.com/track/5DhTYNLmJUP04UgLtEVr6P"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 153733,
-      "name": "something in the way you say my name",
-      "url": "https://open.spotify.com/track/3CVdmZHfnkDnyily3IrWfg"
+      "duration_ms": 177200,
+      "name": "are we in love yet?",
+      "url": "https://open.spotify.com/track/1len89NNhcvNKZg4gwuO4S"
     },
     {
       "added_at": null,

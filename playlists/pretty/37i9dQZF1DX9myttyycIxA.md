@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: youbet
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,928 likes - 113 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,916 likes - 113 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 112 | [Sentry](https://open.spotify.com/track/5SFwml6SjVbEvDWm0gh2me) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 3:54 |
 | 113 | [Strawberry](https://open.spotify.com/track/7I1uAxTOm7pbSncfMMI1Nt) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Strawberry](https://open.spotify.com/album/4HwBZ2vn1kF7ba0PdZTsOW) | 2:51 |
 
-Snapshot ID: `AAAAAPUuz6KSehgXdlXUjcVys7h0UOjq`
+Snapshot ID: `AAAAAMqEI7HsIg+AqWXbSfrzn3F2INJC`

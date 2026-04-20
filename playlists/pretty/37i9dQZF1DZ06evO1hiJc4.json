@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 154583,
+  "num_followers": 154674,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAACNKBGV8yxSrts6IYeGHbgM",
+  "snapshot_id": "aeLJgAAAAAAJ77gAOUp0XlWrLxvejnOM",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 171049,
+      "name": "WTF Are We Talking For (From \"Euphoria: Season 1\" Soundtrack)",
+      "url": "https://open.spotify.com/track/096eU6V7NOWbfgIz7r153d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 195746,
       "name": "Heaven Can Wait (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 171049,
-      "name": "WTF Are We Talking For (From \"Euphoria: Season 1\" Soundtrack)",
-      "url": "https://open.spotify.com/track/096eU6V7NOWbfgIz7r153d"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wonder Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 240960,
-      "name": "To Be Human (feat. Labrinth)",
-      "url": "https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Disc-Overy",
         "url": "https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 295413,
       "name": "Frisky (feat. Labrinth)",
       "url": "https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wonder Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "To Be Human (feat. Labrinth)",
+      "url": "https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e"
     },
     {
       "added_at": null,

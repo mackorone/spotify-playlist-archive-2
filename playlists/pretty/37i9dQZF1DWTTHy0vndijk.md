@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: ifeye\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: Apink\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,722 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,741 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hazy \(Daisy\)](https://open.spotify.com/track/2PBOyq9hBSuR6K5rQ8UTdP) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [As if](https://open.spotify.com/album/74GrqeIqzA6dyVDPQ4nBBy) | 2:50 |
-| 2 | [Runaway](https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Runaway](https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ) | 3:02 |
-| 3 | [Bubee \(Korean Ver.\)](https://open.spotify.com/track/3FgR1MXFjpkL5HTDRrrFUE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee \(Korean Ver.\)](https://open.spotify.com/album/0fAglFrU95801fwwFiZBri) | 3:02 |
-| 4 | [Ice Cream](https://open.spotify.com/track/6aIHCKcJFU19cUc02RI7zL) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/18GSUtlVqx9QRVKBCXtSYd) | 2:51 |
-| 5 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
+| 1 | [15th Season](https://open.spotify.com/track/2aKoH0vLoRJK8NFt7NWiXC) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [15th Season](https://open.spotify.com/album/7yKGGrHaKCKAyGQDS8obhI) | 3:49 |
+| 2 | [Hazy \(Daisy\)](https://open.spotify.com/track/2PBOyq9hBSuR6K5rQ8UTdP) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [As if](https://open.spotify.com/album/74GrqeIqzA6dyVDPQ4nBBy) | 2:50 |
+| 3 | [Runaway](https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Runaway](https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ) | 3:02 |
+| 4 | [Bubee \(Korean Ver.\)](https://open.spotify.com/track/3FgR1MXFjpkL5HTDRrrFUE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee \(Korean Ver.\)](https://open.spotify.com/album/0fAglFrU95801fwwFiZBri) | 3:02 |
+| 5 | [Ice Cream](https://open.spotify.com/track/6aIHCKcJFU19cUc02RI7zL) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/18GSUtlVqx9QRVKBCXtSYd) | 2:51 |
 | 6 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 |
 | 7 | [Biggest Fan](https://open.spotify.com/track/63razyPQswXocUXL3cGJgo) | [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [Biggest Fan \- The 1st Album](https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9) | 2:48 |
 | 8 | [Bittersweet](https://open.spotify.com/track/1fDbHRMmrjT0Jhkj5gOb2l) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [AFTER CRY](https://open.spotify.com/album/24QS9JAsso6CwnGe8TK9Rk) | 3:20 |
 | 9 | [To\. My First Love](https://open.spotify.com/track/10nSl4tuKAfdHiSPppxrNY) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [LOVECHAPTER](https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ) | 3:30 |
-| 10 | [Shut Up](https://open.spotify.com/track/6R6zXjhbvw7VtCDdKbuCTQ) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Shut Up](https://open.spotify.com/album/0htkcyoyK6SXnI1uaREk8A) | 2:16 |
+| 10 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
 | 11 | [MUSEUM](https://open.spotify.com/track/52otRjqSDSPOpLYmiLU7cj) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC) | 3:14 |
 | 12 | [Cherry Blossom](https://open.spotify.com/track/5jbWLkxaG4aXqVCBJxYp6q) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [Things We Dream: Vol.1](https://open.spotify.com/album/3Vd8dh7UmmMnu48AM5f7YP) | 3:16 |
 | 13 | [NOT CUTE ANYMORE](https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 49 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
 | 50 | [Love Me More](https://open.spotify.com/track/4Byc2Hr86k9zFxaTfDlZvm) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [RE : LOVE](https://open.spotify.com/album/0ILAggqgXT6X1DCOhVuPNJ) | 3:14 |
 
-Snapshot ID: `AAAAADnj0hdEThWyRCTi4z/CuMUWqnmh`
+Snapshot ID: `AAAAAOnhNo7wydn9nQRsNqyii+EdmHJV`

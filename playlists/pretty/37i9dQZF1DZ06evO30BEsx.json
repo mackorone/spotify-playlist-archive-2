@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAACzTBW6oFihK4yvryjYPqoz",
+  "snapshot_id": "aeLJgAAAAAB5sElcNqjLqYnGcY80Sr1U",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belli: T\u00e0m\u00e2r M\u0115t\u016bshel\u0101\u1e25",
+        "url": "https://open.spotify.com/album/0f2oCCwQkp4SLKghExzPF2"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "T\u00e0m\u00e2r M\u0115t\u016bshel\u0101\u1e25",
+      "url": "https://open.spotify.com/track/7dv6WvK413GDS9322npcfM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destination Paris - Ravel: Pavane pour un infante d\u00e9funte",
         "url": "https://open.spotify.com/album/5sGn4kv7LLefnFEbaMJ1e4"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 252360,
       "name": "Pavane pour une infante d\u00e9funte, M. 19",
       "url": "https://open.spotify.com/track/3nMesKO4nOyRrP1pUKQulO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belli: T\u00e0m\u00e2r M\u0115t\u016bshel\u0101\u1e25",
-        "url": "https://open.spotify.com/album/0f2oCCwQkp4SLKghExzPF2"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "T\u00e0m\u00e2r M\u0115t\u016bshel\u0101\u1e25",
-      "url": "https://open.spotify.com/track/7dv6WvK413GDS9322npcfM"
     },
     {
       "added_at": null,
@@ -751,30 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live from the Lugano Festival 2003",
-        "url": "https://open.spotify.com/album/6439UWOWsiCTsfoTNOaPGG"
-      },
-      "artists": [
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        }
-      ],
-      "duration_ms": 371760,
-      "name": "Haydn: Keyboard Trio in G Major, Hob. XV:25 \"Gypsy\": II. Poco adagio (Live)",
-      "url": "https://open.spotify.com/track/1eQIkwOZpG8FAHBZ4pkTp8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tchaikovsky: Souvenir de Florence, Op. 70, TH 118 (Live from Verbier Festival / 2013)",
         "url": "https://open.spotify.com/album/2L8EKujXjg3Ed9SX9IKvSl"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 370013,
       "name": "Souvenir de Florence, Op. 70, TH 118: III. Allegro moderato - Live from Verbier Festival / 2013",
       "url": "https://open.spotify.com/track/6flZV70cwZLQE1XsPBz1NF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live from the Lugano Festival 2003",
+        "url": "https://open.spotify.com/album/6439UWOWsiCTsfoTNOaPGG"
+      },
+      "artists": [
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "duration_ms": 371760,
+      "name": "Haydn: Keyboard Trio in G Major, Hob. XV:25 \"Gypsy\": II. Poco adagio (Live)",
+      "url": "https://open.spotify.com/track/1eQIkwOZpG8FAHBZ4pkTp8"
     },
     {
       "added_at": null,
@@ -867,6 +867,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 275933,
+      "name": "Sequence for Ga\u00efa",
+      "url": "https://open.spotify.com/track/19vKyZ0AdFPdNQuHZhGmoE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beethoven: Piano Trios No. 5, \"Ghost\" & No. 7, \"Archduke\"",
         "url": "https://open.spotify.com/album/6Zkzy8c0Zax3LkGLKOBhnq"
       },
@@ -891,30 +915,6 @@
       "duration_ms": 687426,
       "name": "Beethoven: Piano Trio No. 7 in B-Flat Major, Op. 97 \"Archduke\": II. Scherzo. Allegro",
       "url": "https://open.spotify.com/track/2tTGcRH0xsIOulHZxBlf3J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 275933,
-      "name": "Sequence for Ga\u00efa",
-      "url": "https://open.spotify.com/track/19vKyZ0AdFPdNQuHZhGmoE"
     },
     {
       "added_at": null,
@@ -1063,6 +1063,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Schubert: String Quintet, Op. 163 & Lieder",
+        "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Quatuor \u00c9b\u00e8ne",
+          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 913335,
+      "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
+      "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shostakovich: Cello Concertos Nos. 1 & 2",
         "url": "https://open.spotify.com/album/1Jv7SlayRJhHSO8IYDDh5D"
       },
@@ -1087,30 +1111,6 @@
       "duration_ms": 387440,
       "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
       "url": "https://open.spotify.com/track/0EFVPhrcAJxu4r65BjkveH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Schubert: String Quintet, Op. 163 & Lieder",
-        "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Quatuor \u00c9b\u00e8ne",
-          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 913335,
-      "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
-      "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"
     },
     {
       "added_at": null,
@@ -1239,30 +1239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Focus with Bach",
-        "url": "https://open.spotify.com/album/05LISIyECZIHTpuS2oyINW"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        }
-      ],
-      "duration_ms": 91093,
-      "name": "Prelude and Fugue in D Major, BWV 850: I. Prelude",
-      "url": "https://open.spotify.com/track/7cFXFkxxeIDCu52cP2QBUB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sensations - La vie en rose",
         "url": "https://open.spotify.com/album/3pe7hdB8lRhFolNvaV0Ubi"
       },
@@ -1295,30 +1271,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winter Adagios",
-        "url": "https://open.spotify.com/album/3Phjf597zfyPvLrIvEsaeF"
+        "name": "Focus with Bach",
+        "url": "https://open.spotify.com/album/05LISIyECZIHTpuS2oyINW"
       },
       "artists": [
         {
-          "name": "Anton Arensky",
-          "url": "https://open.spotify.com/artist/2DLKrW0pn180nOIjUWlTjm"
-        },
-        {
-          "name": "Polina Leschenko",
-          "url": "https://open.spotify.com/artist/3J5YYW5Vaewcf0finw5Q0p"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
         }
       ],
-      "duration_ms": 358466,
-      "name": "Arensky: Piano Trio No. 1 in D Minor, Op. 32: III. Elegia. Adagio",
-      "url": "https://open.spotify.com/track/68C1CY56K7WDzEcs1YGxsF"
+      "duration_ms": 91093,
+      "name": "Prelude and Fugue in D Major, BWV 850: I. Prelude",
+      "url": "https://open.spotify.com/track/7cFXFkxxeIDCu52cP2QBUB"
     },
     {
       "added_at": null,
@@ -1367,6 +1339,34 @@
       "duration_ms": 76133,
       "name": "Saint-Sa\u00ebns: Le carnaval des animaux, R 125: XII. Fossiles",
       "url": "https://open.spotify.com/track/6twvqDY7lfbPn3FUD1VlDX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winter Adagios",
+        "url": "https://open.spotify.com/album/3Phjf597zfyPvLrIvEsaeF"
+      },
+      "artists": [
+        {
+          "name": "Anton Arensky",
+          "url": "https://open.spotify.com/artist/2DLKrW0pn180nOIjUWlTjm"
+        },
+        {
+          "name": "Polina Leschenko",
+          "url": "https://open.spotify.com/artist/3J5YYW5Vaewcf0finw5Q0p"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 358466,
+      "name": "Arensky: Piano Trio No. 1 in D Minor, Op. 32: III. Elegia. Adagio",
+      "url": "https://open.spotify.com/track/68C1CY56K7WDzEcs1YGxsF"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

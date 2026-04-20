@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Olivia Rodrigo, Vanessa Zee, Rony Parulian, Bernadya, no na dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,166 likes - 107 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,191 likes - 107 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

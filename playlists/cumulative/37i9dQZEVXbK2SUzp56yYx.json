@@ -2570,7 +2570,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 113834,
       "name": "bedrott",
       "url": "https://open.spotify.com/track/3rhZUqbKiA1ILhjc1LptC5"
@@ -18018,7 +18018,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -18036,7 +18036,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -24898,7 +24898,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -25298,6 +25298,28 @@
     {
       "album": {
         "name": "the kill 2",
+        "url": "https://open.spotify.com/album/2bXAxRwdbZlT0mdIQlKQbn"
+      },
+      "artists": [
+        {
+          "name": "Lex Amarni",
+          "url": "https://open.spotify.com/artist/1GJLP5vEHWn08VOlzfR8ID"
+        },
+        {
+          "name": "2muchmotion",
+          "url": "https://open.spotify.com/artist/1DW3WjdUKh9hvg2bh89IVw"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121294,
+      "name": "the kill 2",
+      "url": "https://open.spotify.com/track/7MZyREIMPkgc7v5vzCGw87"
+    },
+    {
+      "album": {
+        "name": "the kill 2",
         "url": "https://open.spotify.com/album/7JlIZDHuFle3OVOiUaJF1U"
       },
       "artists": [
@@ -25688,7 +25710,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 164241,
       "name": "they don\u2019t know \u2019bout us",
       "url": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9"
@@ -29032,7 +29054,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 255591,
       "name": "worry - ultra slowed",
       "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N"
@@ -30330,6 +30352,24 @@
       "duration_ms": 102500,
       "name": "\u0411.\u0416.\u0421.\u0411.",
       "url": "https://open.spotify.com/track/4IlCwgv5mSpsSTV3DNXiIr"
+    },
+    {
+      "album": {
+        "name": "\u0411i\u043b\u044f \u0430\u0442\u0431",
+        "url": "https://open.spotify.com/album/5mHw2CVVlGiBSXOEgcW6BF"
+      },
+      "artists": [
+        {
+          "name": "Holy Baam",
+          "url": "https://open.spotify.com/artist/6DYpPpURHDZDPMRKLFczKR"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61615,
+      "name": "\u0411i\u043b\u044f \u0430\u0442\u0431",
+      "url": "https://open.spotify.com/track/5u1ZbOzZTJItyYj9BbIKBl"
     },
     {
       "album": {
@@ -33592,7 +33632,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 106450,
       "name": "\u0433\u0440\u0443\u0441\u0442\u0438\u043d\u043a\u0430",
       "url": "https://open.spotify.com/track/5DKNH9PdNi8ideCxyDY5M6"
@@ -34250,7 +34290,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 186282,
       "name": "\u0414\u043e\u043b\u044c\u0447\u0435 \u0413\u0430\u0431\u0431\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/1ZZqucWdlA5rR3DhrU6JCB"
@@ -34936,7 +34976,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 248006,
       "name": "\u0417\u0430\u0435\u0431\u0430\u043b\u043e",
       "url": "https://open.spotify.com/track/2OVhcW2jByo8FKRjoGUQQY"
@@ -37730,7 +37770,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 189473,
       "name": "\u041c\u0430\u044f\u043a\u0438 2.0",
       "url": "https://open.spotify.com/track/2GJI3OQ7b51CnF3AXUz0LD"
@@ -42516,7 +42556,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 265714,
       "name": "\u041f\u0440\u0430\u0441\u043a\u043e\u0432\u044c\u044f (Uma2rman \"\u0417\u0432\u0451\u0437\u0434\u044b \u0441\u0447\u0438\u0442\u0430\u044e\u0442 \u043d\u0430\u0441\")",
       "url": "https://open.spotify.com/track/7bWCOfRj7riGdF4QLJ0sTK"
@@ -46242,7 +46282,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "\u0422\u043e\u043d\u0443",
       "url": "https://open.spotify.com/track/3dxOjnX03UHPUYW7bBikVu"
@@ -47658,7 +47698,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 98048,
       "name": "\u0425\u043e\u0447\u0443 \u0431\u044b\u0442\u044c \u043a\u0430\u043a \u0413\u0430\u0437\u0430\u043d",
       "url": "https://open.spotify.com/track/2ZitqM9FXFrpo5JU486llG"
@@ -48418,7 +48458,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 138387,
       "name": "\u0427\u044c\u044f \u0442\u043e \u0434\u043e\u0447\u044c",
       "url": "https://open.spotify.com/track/4RFLwqMBZlO4W1ymEXlzrv"

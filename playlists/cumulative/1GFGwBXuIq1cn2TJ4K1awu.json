@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "God Knows I Tried",
+        "url": "https://open.spotify.com/album/6hP0ChTVZGQHn5wB5n6J7K"
+      },
+      "artists": [
+        {
+          "name": "Junior Kimbrough",
+          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384840,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/0XdJDBL3TmRv7ODKqFPhS1"
+    },
+    {
+      "album": {
         "name": "Texas Yard Sale",
         "url": "https://open.spotify.com/album/2hl9Rjriax33GWB0Dl4tyo"
       },
@@ -524,7 +542,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 236810,
       "name": "All That While",
       "url": "https://open.spotify.com/track/5BS3HrgmS3DZC2oTzDRr4K"
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 161386,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/1VJ82z9vp7hvBzthdGWtNa"
@@ -2809,6 +2827,24 @@
     },
     {
       "album": {
+        "name": "More Adventurous (U.S. Release)",
+        "url": "https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313400,
+      "name": "Does He Love You?",
+      "url": "https://open.spotify.com/track/56J7o1BuXpJH2UXqElmsEF"
+    },
+    {
+      "album": {
         "name": "Trail Of Flowers",
         "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
       },
@@ -2958,7 +2994,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 284902,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
@@ -3164,6 +3200,24 @@
       "duration_ms": 348900,
       "name": "Elements",
       "url": "https://open.spotify.com/track/6z9YatCVvwtXltGLIzpDAS"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208291,
+      "name": "Elizabeth Taylor",
+      "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
     },
     {
       "album": {
@@ -4081,6 +4135,24 @@
     },
     {
       "album": {
+        "name": "Ultra Mono",
+        "url": "https://open.spotify.com/album/0ojQHzflxMs6SfvBBkRKt6"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188715,
+      "name": "Grounds",
+      "url": "https://open.spotify.com/track/620IDPWRadDTa6F37LhOb1"
+    },
+    {
+      "album": {
         "name": "Only Built 4 Cuban Linx...",
         "url": "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
       },
@@ -4248,7 +4320,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 244586,
       "name": "Haven't Met You Yet",
       "url": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
@@ -4414,6 +4486,24 @@
       "duration_ms": 144000,
       "name": "Hey Lover",
       "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
+    },
+    {
+      "album": {
+        "name": "Hey Me, Hey Mama",
+        "url": "https://open.spotify.com/album/1Iiqi0wAb9VWdAQbY0hywC"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210604,
+      "name": "Hey Me, Hey Mama",
+      "url": "https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv"
     },
     {
       "album": {
@@ -4674,6 +4764,32 @@
       "duration_ms": 178933,
       "name": "I Got Heaven",
       "url": "https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG"
+    },
+    {
+      "album": {
+        "name": "No Jack Swing",
+        "url": "https://open.spotify.com/album/7GehdwkbfiSXMzGmzWSUpt"
+      },
+      "artists": [
+        {
+          "name": "Brontez Purnell",
+          "url": "https://open.spotify.com/artist/5rTfSsNbSVZhGMw3xoq7Yf"
+        },
+        {
+          "name": "Briana Fletcher",
+          "url": "https://open.spotify.com/artist/0YjgARzly9pRsvcDubc1I6"
+        },
+        {
+          "name": "The New Zion Missionary Baptist Church Choir of Belle Mina, Alabama",
+          "url": "https://open.spotify.com/artist/6SqReA92w2Wtzq21ItkUUn"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235447,
+      "name": "I Got Joy",
+      "url": "https://open.spotify.com/track/0UYwlmWT4eBayLdBrtftLR"
     },
     {
       "album": {
@@ -5773,6 +5889,24 @@
     },
     {
       "album": {
+        "name": "Between the Country",
+        "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269083,
+      "name": "Letter to Madeline",
+      "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
+    },
+    {
+      "album": {
         "name": "Super Tecmo Bo",
         "url": "https://open.spotify.com/album/5leBUcbk6qAb5cDHYuVwBO"
       },
@@ -6504,6 +6638,24 @@
       "duration_ms": 271973,
       "name": "Microphone Master",
       "url": "https://open.spotify.com/track/4HBjg3KAkjoHZFWQL6STl5"
+    },
+    {
+      "album": {
+        "name": "$10 Cowboy",
+        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177453,
+      "name": "Midnight Cowboy",
+      "url": "https://open.spotify.com/track/2cHaP5BkiRWzxmaCE7dQCf"
     },
     {
       "album": {
@@ -8158,7 +8310,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 188800,
       "name": "Protect My Energy",
       "url": "https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1"
@@ -8198,6 +8350,24 @@
       "duration_ms": 192500,
       "name": "Punk's Dead",
       "url": "https://open.spotify.com/track/0aiJF3M2Tj5iHfQSmvR943"
+    },
+    {
+      "album": {
+        "name": "Paul Anka Sings His Big 15 (Remastered)",
+        "url": "https://open.spotify.com/album/4avsZn38cgMEmxmGdpb4lp"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "Puppy Love - Remastered",
+      "url": "https://open.spotify.com/track/1mdfrHeZzxjz0FJ4BKRuxS"
     },
     {
       "album": {
@@ -8274,7 +8444,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 286426,
       "name": "Raise Up",
       "url": "https://open.spotify.com/track/02GwPAncasVL82yC7y2hmN"
@@ -9976,7 +10146,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 284613,
       "name": "Tear You Apart",
       "url": "https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9"
@@ -10034,6 +10204,24 @@
       "duration_ms": 162783,
       "name": "Tennessee Songbird",
       "url": "https://open.spotify.com/track/1VTLJQs7PPXPSCtOr16xOs"
+    },
+    {
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/30bnUuR6xbyJSqzhrjYreM"
+      },
+      "artists": [
+        {
+          "name": "Khun Narin",
+          "url": "https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465866,
+      "name": "Thang Jai Thang Jao",
+      "url": "https://open.spotify.com/track/0cNH9BdZZ3zCWnnJYGij35"
     },
     {
       "album": {
@@ -10326,7 +10514,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 278904,
       "name": "The Good Ones",
       "url": "https://open.spotify.com/track/1bPqUmahpsq322oJWYpnnu"
@@ -10438,7 +10626,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 192226,
       "name": "The Mask",
       "url": "https://open.spotify.com/track/7JB1RkYu0EIgQHEgH8Klax"
@@ -10492,7 +10680,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 196973,
       "name": "The Mother",
       "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
@@ -11328,7 +11516,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-20",
       "duration_ms": 207019,
       "name": "Washed",
       "url": "https://open.spotify.com/track/0bgijbvBSiTi4slIRi1OwC"
@@ -11462,6 +11650,24 @@
       "duration_ms": 206520,
       "name": "What a Nigga Know?",
       "url": "https://open.spotify.com/track/6ZClQUx5QAuTuR2v2wx37F"
+    },
+    {
+      "album": {
+        "name": "The Smiths",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2026-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229866,
+      "name": "What Difference Does It Make? - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3rzYUfyzdZW96cHXnGn1xI"
     },
     {
       "album": {

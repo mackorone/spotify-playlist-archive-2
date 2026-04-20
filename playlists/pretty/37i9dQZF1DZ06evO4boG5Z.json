@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 30077,
+  "num_followers": 30079,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeF4AAAAAAAPyngx8KtzaYIRBxrdpKrI",
+  "snapshot_id": "aeLJgAAAAAAbnm+vGgY+uNoe/5uPjNcx",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Monkeys",
         "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 158280,
       "name": "Puzzle",
       "url": "https://open.spotify.com/track/7t6NcTfT2dWcI86fdvRwUl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
     },
     {
       "added_at": null,

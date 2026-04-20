@@ -4,7 +4,7 @@
 
 > 
 
-1,429 songs - 3 day 3 hr 47 min
+1,431 songs - 3 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Bought The Earth](https://open.spotify.com/track/43MyijzQ0ngRPjYHeUV7AM) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/0cLGXgec8fFV7YPFQ96SUG) | 2:58 | 2024-02-16 | 2024-02-22 |
 | [Bought The Earth](https://open.spotify.com/track/5Bno6wFa22tRbFUwh4iZdk) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:58 | 2024-02-21 | 2024-04-24 |
 | [BOYFRIEND, GIRLFRIEND \(2020 Demo\) \(feat\. YG\)](https://open.spotify.com/track/2sFEmuVVAa2klHwhFaT0rR) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:24 | 2023-04-05 | 2023-12-14 |
+| [Brad Jordan \(feat\. Michael Da Vinci\)](https://open.spotify.com/track/0wfrsR4P16Zj4BeI5hyPO5) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Michael Da Vinci](https://open.spotify.com/artist/2POqOOLcEH30IODCaW1Ytw) | [Cilvia Demo](https://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42) | 4:08 | 2026-04-19 |  |
 | [BrainWashed](https://open.spotify.com/track/7Hoy6B9GwVCzaIzxOvkbu6) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:20 | 2023-01-03 | 2023-12-14 |
 | [Breakadawn](https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Buhloone Mindstate](https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd) | 4:15 | 2025-09-24 | 2026-03-08 |
 | [Breakfast](https://open.spotify.com/track/4om3OBmhbN30hOwCDXaJwi) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pilot Talk: Trilogy](https://open.spotify.com/album/5ydx8HEoTmJrxZuPKcTU4V) | 2:49 | 2025-07-25 | 2026-03-08 |
@@ -508,6 +509,7 @@
 | [Gotta Find It](https://open.spotify.com/track/6iYiQdYGDFtncKdmF7V9u3) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Now \(Expanded Edition\)](https://open.spotify.com/album/2XpO3g1oIEXCjXV9HKbYwS) | 4:28 | 2025-06-03 | 2026-03-08 |
 | [Goyard](https://open.spotify.com/track/5nBBdfEP8RYglPxTClmvW7) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Im Still Serious](https://open.spotify.com/album/6vAdaRFZy95JxZqmt9q0wk) | 2:18 | 2022-12-25 | 2023-12-14 |
 | [Grab Da Door!](https://open.spotify.com/track/3CVy14A3kKJpS0VnrygIQr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:29 | 2023-12-27 | 2024-03-05 |
+| [Graffiti](https://open.spotify.com/track/6oLANSb6vq2T5tIg92FxCW) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy](https://open.spotify.com/album/278c24ae4JsSRpOEzlaghQ) | 3:26 | 2026-04-20 |  |
 | [Great](https://open.spotify.com/track/1LPiF0OU0DcQpkXmFgrfG5) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [D Savage 3900](https://open.spotify.com/artist/3oGynnWhEGK08xqXbhyYmZ) | [Ultraviolet.](https://open.spotify.com/album/2BTEr1ARUMwQG4Bdu6wmW2) | 1:31 | 2022-07-22 | 2023-04-12 |
 | [Green Earrings](https://open.spotify.com/track/34C3UVHdq8Uay5EzUHvJqH) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [The Royal Scam](https://open.spotify.com/album/1Sur33x6g7tvdd9GQnHhhu) | 4:05 | 2025-05-31 | 2026-03-08 |
 | [Groovy](https://open.spotify.com/track/5hfWeNk22cqpcwXMUnrlgz) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [City On My Back](https://open.spotify.com/album/4dmycXSxh1F9LGAVgB1plB) | 2:21 | 2025-05-14 | 2026-03-08 |
@@ -1343,7 +1345,7 @@
 | [V\-Friends](https://open.spotify.com/track/7FUx1SDHG4Im52aKu3iCXC) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle](https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK) | 1:45 | 2023-12-27 | 2024-03-05 |
 | [Vampire Hour](https://open.spotify.com/track/1U29Vg8V5ivbxirZaG7XAR) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:34 | 2023-12-06 | 2024-03-05 |
 | [Vaudeville Villain](https://open.spotify.com/track/6rkV9hz91Rr5iHnMRPZdEQ) | [Viktor Vaughn](https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Vaudeville Villain](https://open.spotify.com/album/7HPjcPD2cr8E5oHvVAmBp7) | 2:31 | 2026-02-26 |  |
-| [Vaxuum Sealed \(feat\. BabyTron\)](https://open.spotify.com/track/4vQ3Ve7jnU7EDKJtZJqm39) | [Drego & Beno](https://open.spotify.com/artist/7af6WhCUemo7a4L2fk5N2X), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Sorry We Was Trapping](https://open.spotify.com/album/3JQerOwjyEEIYBKQoHmH1s) | 2:25 | 2023-01-07 | 2023-12-14 |
+| [Vaxuum Sealed \(feat\. BabyTron\)](https://open.spotify.com/track/4vQ3Ve7jnU7EDKJtZJqm39) | [Drego & Beno](https://open.spotify.com/artist/7af6WhCUemo7a4L2fk5N2X), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Sorry We Was Trapping](https://open.spotify.com/album/3JQerOwjyEEIYBKQoHmH1s) | 2:25 | 2023-01-07 |  |
 | [Ventilation](https://open.spotify.com/track/0a5ktgbJOj3xsYowGkUc9L) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Covert Coup](https://open.spotify.com/album/7zAHNpdTeq8jNCmZaGK3jf) | 2:18 | 2026-03-05 |  |
 | [VersionF!VE](https://open.spotify.com/track/4t0Knd6BQpif16OVZXmlcV) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [i5u5we5](https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d) | 2:02 | 2024-09-18 | 2024-11-06 |
 | [VETERAN \(feat\. Ken Carson\)](https://open.spotify.com/track/7pdt56nlqNtHs5H8DRBZiO) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 2:56 | 2022-09-05 | 2023-04-12 |

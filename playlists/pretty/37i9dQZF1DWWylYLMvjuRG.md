@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 
 > The biggest party hits of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,125,395 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,126,040 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

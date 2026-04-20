@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-306 songs - 17 hr 44 min
+307 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Monster](https://open.spotify.com/track/5qaDhl2WI8PZ4E8uRavh4o) | [Sam Edwards](https://open.spotify.com/artist/3SWbBPEKFKWXhms9t1S6VZ) | [Monster](https://open.spotify.com/album/0vW0OgHfbaXl2tJTSE7S65) | 2:51 | 2025-10-24 | 2025-12-12 |
 | [Month of Sundays](https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Month of Sundays](https://open.spotify.com/album/2aJDiRQCdqr0P7ZDjuPS55) | 3:57 | 2025-10-29 | 2025-12-12 |
 | [More](https://open.spotify.com/track/14aDPcz6whbi82MtqIGSAZ) | [Alanna Sterling](https://open.spotify.com/artist/6gfQSJ07CJAEvOwKz4sX2f) | [More](https://open.spotify.com/album/5iAMFLHajNIwWxFJh0iA0E) | 3:42 | 2026-04-17 |  |
+| [Move On](https://open.spotify.com/track/2z82PofLpBaIKJwbIYo5Cl) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Move On](https://open.spotify.com/album/2leZFJNcO96VaVYzMDYuMI) | 3:15 | 2026-04-19 |  |
 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 | 2026-01-20 | 2026-03-10 |
 | [Mulholland Drive](https://open.spotify.com/track/5TvDjzLUJNizl2KIHQ3aqv) | [Mitch Meyer](https://open.spotify.com/artist/7yOCg6zTd1wMxKCBdD99uk) | [Mulholland Drive](https://open.spotify.com/album/0JYhnrBfLAwi34NVupv5eW) | 3:00 | 2026-02-09 | 2026-03-29 |
 | [Murder Parade](https://open.spotify.com/track/0SDqFtJAV9lWKZqPXHyft0) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Murder Parade](https://open.spotify.com/album/7cm9XsZG13NeEUGDP0OOOw) | 2:19 | 2025-10-30 | 2026-03-10 |

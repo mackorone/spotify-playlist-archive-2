@@ -4,13 +4,14 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-425 songs - 23 hr 52 min
+427 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#swaggedout](https://open.spotify.com/track/4ZEZhAKusdv0GxV1Fz8pMD) | [zune](https://open.spotify.com/artist/2wgR2adhW6drxUphtvmX1y), [ElWhy](https://open.spotify.com/artist/4ipQYeYS9VZUP9jvgxfxyP) | [\#swaggedout](https://open.spotify.com/album/08OK1qBqhC0ZZk3msSlGZL) | 2:04 | 2025-12-04 | 2026-01-05 |
 | [\(Can I?\) Love myself](https://open.spotify.com/track/6bvXoNZVVMQTsWUTelbS8J) | [Xada](https://open.spotify.com/artist/5diCtzsJj7orehU5EMytKj) | [\(Can I?\) Love myself](https://open.spotify.com/album/2XRRVlWacz4t6AS5SBKn5g) | 3:41 | 2025-11-01 | 2025-12-01 |
 | [1.5](https://open.spotify.com/track/70K8CBH1RBfFLAGNt1xZB5) | [Court Lee](https://open.spotify.com/artist/4EUdpZKUAlErxveFMeqZVD) | [1.5](https://open.spotify.com/album/26yjewkMIBbSlh59MojuSJ) | 2:56 | 2025-12-24 | 2026-01-15 |
+| [1969](https://open.spotify.com/track/7mzfM2tTKNEgHIWdvXqJyQ) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Best Of](https://open.spotify.com/album/16zoHx9wW6EVMvPDo1sha5) | 3:30 | 2026-04-19 |  |
 | [2 0 4 5](https://open.spotify.com/track/3mS5wAqw8WxYGw4Hdc0hag) | [Wyatt Leach](https://open.spotify.com/artist/6Rl58oDVByLhttQgFkTTW1) | [2 0 4 5](https://open.spotify.com/album/1NXZMjp4olFbvITfoegqea) | 2:21 | 2025-11-30 | 2026-01-05 |
 | [40](https://open.spotify.com/track/0efLMYEhoCsvPEjMTug7cY) | [The Katawicks](https://open.spotify.com/artist/3hqty8aRn2EImLsrckK6mk) | [For The Seasons](https://open.spotify.com/album/7dDWirfVw0eWCOovuiREaa) | 3:10 | 2026-04-03 |  |
 | [A Better Man](https://open.spotify.com/track/1qJ46HmbyOpBtb3vpRb4an) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [A Better Man](https://open.spotify.com/album/3fYEKBdWP2srmsbqsJzSlf) | 4:02 | 2025-12-26 | 2026-01-15 |
@@ -344,6 +345,7 @@
 | [Strikes and Gutters](https://open.spotify.com/track/246n8eYDfouFsf2wlQtmak) | [The Vinyl Grace](https://open.spotify.com/artist/26m7m0souJ0eZNP9LOrSIr) | [Strikes and Gutters](https://open.spotify.com/album/1GKaKdKf6ZPMuHJMXZ933R) | 5:32 | 2025-11-08 | 2025-12-01 |
 | [Stuck On You](https://open.spotify.com/track/6lrSKUxM1wZaONPYU4qwWf) | [Edwin Watson](https://open.spotify.com/artist/68laXP2B5cpq7uJmP1jBS2) | [Stuck On You](https://open.spotify.com/album/03KUtQ2bJt9DYNbrTmyiDf) | 3:12 | 2025-11-08 | 2025-12-01 |
 | [Suerte](https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M) | [Los de Marte](https://open.spotify.com/artist/3IswqnIMsJKqBzGplTP91r) | [Suerte](https://open.spotify.com/album/0BX5xTASG4jk84rbv4Y1Pr) | 2:47 | 2026-04-17 |  |
+| [Summertime](https://open.spotify.com/track/5tBQWcTJilTJC0PHmTmVlY) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Summertime](https://open.spotify.com/album/7BvYjg5CS0YE8SBM8v32m3) | 2:19 | 2026-04-19 |  |
 | [Sunburned In Scotland](https://open.spotify.com/track/2gVum3evW4JCKUUh7udCvd) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Sunburned In Scotland](https://open.spotify.com/album/54I0EcPsLP0o51GZpHYeTQ) | 2:53 | 2025-11-03 | 2025-12-01 |
 | [Superstar](https://open.spotify.com/track/7KeNKunMRtD0kLDr0NpjDg) | [Valarie Hill](https://open.spotify.com/artist/5rPY7Ifiv1oaetOtv3vjid) | [Superstar](https://open.spotify.com/album/2gDQ8TbmYKJSnERvC8BMx0) | 2:30 | 2025-11-01 | 2025-12-01 |
 | [Supporting Character](https://open.spotify.com/track/1vjwH3e6jYKecVfZhJ1c6V) | [TJ Juganas](https://open.spotify.com/artist/77DKnEff4JNbAbkDqb61re) | [Supporting Character](https://open.spotify.com/album/7mvQ18bOXnbwaeFz7bIzHg) | 3:49 | 2025-12-23 | 2026-01-15 |

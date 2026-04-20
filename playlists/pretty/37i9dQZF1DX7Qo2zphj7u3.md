@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 
 > Las románticas de hoy con las de siempre\. Cover: Kany García & Juan Luis Guerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,970,570 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,970,454 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 | 99 | [He Renunciado a Ti \- Remasterizado](https://open.spotify.com/track/59Q0mA0Bq3bqfV5ySjfTbn) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:54 |
 | 100 | [Tan Sólo Tú \(feat\. Alejandra Guzmán\) \- Franco De Vita en Primera Fila](https://open.spotify.com/track/6dhnmkbc9Z7pGsUyUgZKGX) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:57 |
 
-Snapshot ID: `AAAAAEhPX0nQPDbcb+I678Tx6Cvx0jSy`
+Snapshot ID: `AAAAAPWJfnYRBGj8yfeQNRjcXJ6p3ZlP`

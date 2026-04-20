@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/46nW9gotDIl5QFJjs5bRtA">NEA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-107 songs - 5 hr 37 min
+108 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Death of Me](https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:13 | 2026-03-07 |  |
 | [Dedicated](https://open.spotify.com/track/49qTk1mtH5egKmtxQwwdkG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Dedicated](https://open.spotify.com/album/5iyZF0ue1oW5JnMJfdSiUe) | 3:02 | 2026-03-07 |  |
 | [DIABLO](https://open.spotify.com/track/3UZq0tLE3gNlnYQbpa7Veo) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [DIABLO](https://open.spotify.com/album/6tNmyp4ay7hhthomKB65gW) | 2:45 | 2026-03-07 |  |
-| [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 | 2026-03-27 |  |
+| [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 | 2026-03-27 | 2026-04-20 |
+| [Die For Me](https://open.spotify.com/track/5CgIqG6FNKnpzLt8XR7nTD) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [KONNAKOL](https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG) | 3:00 | 2026-04-19 |  |
 | [Domino](https://open.spotify.com/track/6SmfBvW4JgsoZPhagI0N3L) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Awaken The World \- The 1st Album](https://open.spotify.com/album/0XldHBFjCgxRMTXmjUj6cx) | 3:16 | 2026-03-07 |  |
 | [Don't Deserve This](https://open.spotify.com/track/1rh2CkzgCba4p8o7BldVuk) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Don't Deserve This](https://open.spotify.com/album/6la5gP1N1B6gIipTa7AwIG) | 2:49 | 2026-03-07 |  |
 | [Don't Worry Bout Me](https://open.spotify.com/track/507tQXutCPYNFkpOq8tmKF) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Don't Worry Bout Me](https://open.spotify.com/album/45NYaXdS8H4pSXRDLnp7p5) | 3:28 | 2026-03-07 |  |

@@ -4,7 +4,7 @@
 
 > Cover: 7ari, Ramoon
 
-504 songs - 1 day 2 hr 19 min
+505 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [GEL](https://open.spotify.com/track/58dy49Z54lreezffBIugSd) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [GEL](https://open.spotify.com/album/4clLEBezykev9vyaAlqrbB) | 2:51 | 2022-11-15 | 2022-11-24 |
 | [Gelato](https://open.spotify.com/track/2mb3iYJxuKBkRNSit6taT5) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Gelato](https://open.spotify.com/album/4GLsm6Gs0DcqMYDrleYbOo) | 2:58 | 2024-12-19 | 2025-06-28 |
 | [Genkidama](https://open.spotify.com/track/0rf6OSXX9BXO3NhOh3usht) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Genkidama](https://open.spotify.com/album/3Yv0GD4GkCgvsiuhQOgFde) | 2:31 | 2025-11-28 | 2026-03-28 |
+| [Ghalta](https://open.spotify.com/track/6vBzvcFgcTLY8ON2pg1qFK) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [PAVAROTTI X GHALTA](https://open.spotify.com/album/7HOZlpw9TvgwwTcLQhN8F4) | 2:42 | 2026-04-19 |  |
 | [GHALTAN](https://open.spotify.com/track/7lBNVJiEh3YTyGNsgFR5dy) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [GHALTAN](https://open.spotify.com/album/5QnlDrWrr0MWV9N2qnpyT4) | 2:44 | 2024-05-25 | 2024-09-14 |
 | [Gharam](https://open.spotify.com/track/5rgsmHsWUhmTWTb1i5dNJH) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Gharam](https://open.spotify.com/album/65buUKao3hIRYbi3Wi3W2g) | 3:02 | 2025-02-17 | 2026-03-26 |
 | [Ghetto Symphony](https://open.spotify.com/track/0Qk2pgJxmfiAwH1jtjTTBc) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [RECTOVERSO](https://open.spotify.com/album/1PXz6YGt7KNq52crGuY9v9) | 4:11 | 2024-06-20 | 2024-08-06 |
@@ -476,7 +477,7 @@
 | [Wa3ra](https://open.spotify.com/track/4ZhL9IgqKHsVa7goaJ6MVD) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Wa3ra](https://open.spotify.com/album/1K2UJSMp9GcnyESsOk9Zmg) | 2:16 | 2024-04-26 | 2025-01-15 |
 | [Wa3ra](https://open.spotify.com/track/5zvvrTE1QoTxsoeTupvQrW) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Prince](https://open.spotify.com/album/3l2WhIJt45Lw46JOLDfms9) | 2:16 | 2025-02-12 | 2025-06-19 |
 | [Wad Al Makhazin](https://open.spotify.com/track/5FyrOaDON6T8au7Xv8M5lr) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 2:51 | 2025-07-06 | 2026-02-09 |
-| [WALLAHI](https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:32 | 2025-06-13 |  |
+| [WALLAHI](https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:32 | 2025-06-13 | 2026-04-20 |
 | [Wassup Fam](https://open.spotify.com/track/0JSvcJVpHFAUCgArLgsjS4) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 2:57 | 2023-05-25 | 2023-08-13 |
 | [Wassup Fam](https://open.spotify.com/track/0aOGcylPs9MtS21nfhTDJj) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Wassup Fam](https://open.spotify.com/album/4gSUb0XWeu3v0zd2NJSzjO) | 2:57 | 2023-06-22 | 2023-06-29 |
 | [Wayli](https://open.spotify.com/track/0cPYsatszcbMWoFWo5LHiZ) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/4AlWJRJ8Up3nw0N1ChRvwD) | 4:19 | 2024-10-09 | 2024-11-03 |

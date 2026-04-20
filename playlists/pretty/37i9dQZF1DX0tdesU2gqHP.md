@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tdesU2gqHP.md) - [plain]
 
 > The best videos from the world of pop! <br/>Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,829 likes - 65 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,855 likes - 65 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

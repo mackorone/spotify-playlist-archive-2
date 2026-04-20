@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,521 likes - 117 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,569 likes - 117 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 54 | [June's Theme](https://open.spotify.com/track/1YWciNl9oINxKCtMue0h0b) | [Ben Harlan](https://open.spotify.com/artist/0BRIlyj3o0fI17juH0fcUt) | [Goodbye June \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/7rHo57cTI9eMxUhZyvl863) | 2:33 |
 | 55 | [Laurie and Jo on the Hill \- from "Little Women" Soundtrack](https://open.spotify.com/track/4xui9WfNYFy7DKZfFBzSQA) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Little Women \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE) | 1:01 |
 | 56 | [Coming Home](https://open.spotify.com/track/45jrXtFx8ERLW66AF4r53F) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [The Elder Scrolls Blades: Original Game Soundtrack](https://open.spotify.com/album/6zBhT9ZcGURdtZjA0q1JlG) | 3:14 |
-| 57 | [A New Home \(From "Lion" Soundtrack\)](https://open.spotify.com/track/3lgvtS5J3tIJqSzLokgKlv) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [Dustin O'Halloran & Volker Bertelmann](https://open.spotify.com/artist/6BHwRzCgENU0kmJt6yGy4x) | [Lion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UtJtWa2IqLnRYHRPIhaNC) | 1:54 |
+| 57 | [A New Home \(From "Lion" Soundtrack\)](https://open.spotify.com/track/3lgvtS5J3tIJqSzLokgKlv) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Lion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UtJtWa2IqLnRYHRPIhaNC) | 1:54 |
 | 58 | [Day One \(From "Interstellar"\)](https://open.spotify.com/track/7d9rT201eeDnefvKXbEtf8) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Day One \(From "Interstellar"\)](https://open.spotify.com/album/2m2BNKbcH1b11o0v6mZN9K) | 3:14 |
 | 59 | [A Brief History of Time](https://open.spotify.com/track/3dMdXcq28UwvRzaCnWf5OO) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2R2FZbfCSFBb1piR159xN0) | 2:02 |
 | 60 | [A Shine Upon Inkwater Marsh](https://open.spotify.com/track/6yvy7IGCod8A2aeyKvMysF) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B) | [Ori and the Will of the Wisps \(Original Soundtrack Recording\)](https://open.spotify.com/album/0BRICN5TGMT1WqFcZkYOaF) | 3:06 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 116 | [Bella's Lullaby \(From "Twilight"\)](https://open.spotify.com/track/5djt2IiLLsQMeBiLWJQlGB) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV), [See Siang Wong](https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271) | [Bella's Lullaby \(From "Twilight"\)](https://open.spotify.com/album/4ud7m0XCRNhXjnRGfli0LE) | 2:13 |
 | 117 | [Song of Healing](https://open.spotify.com/track/1BjgY1mNtSRniRqrYbP8i1) | [Laurence Manning](https://open.spotify.com/artist/4pS3AwZi3Nd0klW5yEE1Le), [Daphnée Sincennes Richard](https://open.spotify.com/artist/4NCw6JwOxucMAXdCQJATQ0), [Lou Dunand\-Vincent](https://open.spotify.com/artist/3vwfNOzpHeV0s5R4owSQ3E) | [Trio of the Goddesses](https://open.spotify.com/album/6rls52uHTGGcbYRIXcUnfv) | 4:32 |
 
-Snapshot ID: `AAAAAF/se8EwHtHPkMKBu7u4teKGrmJK`
+Snapshot ID: `AAAAAP+69I7aU7zeCBFgjEbJBeGw7o4v`

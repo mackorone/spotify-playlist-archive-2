@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Léo Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,738 likes - 85 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,724 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

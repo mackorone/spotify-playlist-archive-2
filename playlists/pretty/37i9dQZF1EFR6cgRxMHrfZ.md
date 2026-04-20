@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186 likes - 169 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 194 likes - 169 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 50 | [In the Water](https://open.spotify.com/track/00ohHxK2jKrwOXl30hN3FV) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 2:20 |
 | 51 | [Longer](https://open.spotify.com/track/79dMs69Pyb227DQDNiiP5G) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:55 |
 | 52 | [Something Wrong](https://open.spotify.com/track/0Ja3yxAzAOpWKKj4zoFL2A) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Something Wrong](https://open.spotify.com/album/18t52qwg1kaNw2YGBOixnG) | 3:54 |
-| 53 | [Back When We Were Kids](https://open.spotify.com/track/4p2RANKodMmW1lbMTpCtly) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Back When We Were Kids](https://open.spotify.com/album/3su1PlCPOPjboYM5vE1rdx) | 3:01 |
-| 54 | [Turn It Up](https://open.spotify.com/track/47QJQFnG3lTcrWlYYU3XQV) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 3:57 |
-| 55 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
+| 53 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
+| 54 | [Back When We Were Kids](https://open.spotify.com/track/4p2RANKodMmW1lbMTpCtly) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Back When We Were Kids](https://open.spotify.com/album/3su1PlCPOPjboYM5vE1rdx) | 3:01 |
+| 55 | [Turn It Up](https://open.spotify.com/track/47QJQFnG3lTcrWlYYU3XQV) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 3:57 |
 | 56 | [Nobody Has to Know](https://open.spotify.com/track/015oVWITPHkpoDfiisMrb0) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Nobody Has to Know](https://open.spotify.com/album/0qsusdOTBlyyP9tvPFEG32) | 3:37 |
 | 57 | [Long Way Home](https://open.spotify.com/track/6YG4gGjVGf2IzNmxZUOLsV) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Way Home](https://open.spotify.com/album/3MmEb9UgXMbg02WG29sE3a) | 3:05 |
 | 58 | [Problem](https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Deluxe\)](https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv) | 2:34 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 83 | [Crossroads](https://open.spotify.com/track/71ocfE3ICFhTDUXz9hmHIU) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [To Dream](https://open.spotify.com/album/4hXGxuxXLcpbVTQUqOSZCJ) | 3:45 |
 | 84 | [AFU](https://open.spotify.com/track/1ofgiVRjJTfLDOXBh3HvVU) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [The Identity Crisis: Side A](https://open.spotify.com/album/0frneG4jiVupF47MCKJR4I) | 3:07 |
 | 85 | [Burn It Down](https://open.spotify.com/track/5m3MtTi4XzSfqdjj86KgUF) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:25 |
-| 86 | [Jump And Shake](https://open.spotify.com/track/6Ka0NSviEKTMc60zFR39eO) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:09 |
-| 87 | [Holiday](https://open.spotify.com/track/75A2Cy7UhkRFUDbWMuDd4b) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 3:00 |
+| 86 | [Holiday](https://open.spotify.com/track/75A2Cy7UhkRFUDbWMuDd4b) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 3:00 |
+| 87 | [Jump And Shake](https://open.spotify.com/track/6Ka0NSviEKTMc60zFR39eO) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:09 |
 | 88 | [Lose Me](https://open.spotify.com/track/2oiK2e9MKtpEPeOHaa2OUD) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:46 |
 | 89 | [Supposed to Be a Love Song](https://open.spotify.com/track/2dFMguJ8EVUNpljS6XTVZF) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [A Heart Is a Terrible Thing to Break](https://open.spotify.com/album/6mBNXZGN2V1JmcUhjlxU3q) | 3:10 |
 | 90 | [NSFW](https://open.spotify.com/track/2R1KN7ppqgLaon8zZX04Kv) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [Angel Haze](https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl) | [NSFW](https://open.spotify.com/album/2ydYkG9c2X6ldQh7kEawqT) | 2:57 |
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 152 | [Silver Lining](https://open.spotify.com/track/1rokgLrCwVL5GqjdKHVCs3) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/25wOAGrwmxfXdI7lRVHCB4) | 1:27 |
 | 153 | [Christmas Isn't Christmas Without You](https://open.spotify.com/track/0uayTjcJemZSpl83vpLbYt) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [a heartfelt holiday part 2](https://open.spotify.com/album/7jxFPptXltgsOe2faw82JA) | 3:20 |
 | 154 | [Sun Goes Down](https://open.spotify.com/track/1owtUJFiAoNQ7FpJj5x2Ni) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Sun Goes Down](https://open.spotify.com/album/2AL2B57umU9ZrQqRJDl6XF) | 2:03 |
-| 155 | [Goodbye, Me](https://open.spotify.com/track/2UmMqjf7JNC7cezNPos4sg) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 2:37 |
-| 156 | [Time Zones](https://open.spotify.com/track/5kWEk88wMR9mmTyspnBOp4) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Jordi](https://open.spotify.com/album/0A3Wbzsq8IHa6K5BTfcoMr) | 2:54 |
+| 155 | [Time Zones](https://open.spotify.com/track/5kWEk88wMR9mmTyspnBOp4) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Jordi](https://open.spotify.com/album/0A3Wbzsq8IHa6K5BTfcoMr) | 2:54 |
+| 156 | [Goodbye, Me](https://open.spotify.com/track/2UmMqjf7JNC7cezNPos4sg) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 2:37 |
 | 157 | [pretty when you cry](https://open.spotify.com/track/6sV7rEw7DtxA96eqQLBNcM) | [Jackson Marshall](https://open.spotify.com/artist/4sabxefSr7gXnTA6Lv3ILl) | [STRIKE](https://open.spotify.com/album/1mbi9Un5fSy6dGF8ZUsy4F) | 2:11 |
 | 158 | [Trip Around The Sun](https://open.spotify.com/track/1F2R8QEBvyBnSGCStDsjPf) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr) | [Nosebleeds \- Other Sides](https://open.spotify.com/album/3Z9R3Bhxv9lHP60wHynQL4) | 3:23 |
 | 159 | [Balance](https://open.spotify.com/track/6AEy7RdUf03UvZ7UJPQD4R) | [Cassette Tapes](https://open.spotify.com/artist/720HJ3Ql6chO1V56okaUSV) | [Balance](https://open.spotify.com/album/5DxzZQD5mPHbZk7mcO05M5) | 2:43 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 168 | [Drink Us Back Together](https://open.spotify.com/track/5dANkvVBO2q1vqty0jNp4i) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 3:12 |
 | 169 | [Give You Love](https://open.spotify.com/track/2UO5W95ydfVo5AmCQNzVxJ) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Give You Love](https://open.spotify.com/album/4AhCVQ2AZkSQD7N3Mp3ksC) | 3:04 |
 
-Snapshot ID: `AcPOCAAAAAC86LF+dzkvXek9r59EuZmq`
+Snapshot ID: `AcPTqAAAAACjNQ/ifT7Saon3REKjTOlU`

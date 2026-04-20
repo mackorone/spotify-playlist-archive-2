@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: TOMORROW X TOGETHER
 
-964 songs - 2 day 4 hr 33 min
+966 songs - 2 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 | 2025-04-03 | 2025-07-09 |
 | [All of You](https://open.spotify.com/track/2NNLoaWUSCekOx0X9oiLnW) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Stardust Forever](https://open.spotify.com/album/5wRZA4UGl6Rxm2lDSnrsdh) | 2:58 | 2025-07-24 | 2025-07-29 |
 | [All of You](https://open.spotify.com/track/5aZUKmHWosIdaehziLYEq4) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [All of You](https://open.spotify.com/album/2BOIZjVSfiQDntgqzE94PI) | 2:38 | 2026-02-09 | 2026-02-18 |
-| [All of You](https://open.spotify.com/track/6aT2SFyv2KQ4DKMguYOLVb) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [All of You](https://open.spotify.com/album/2lIYNTQtiK8t6v9byPP529) | 2:38 | 2026-02-17 |  |
+| [All of You](https://open.spotify.com/track/6aT2SFyv2KQ4DKMguYOLVb) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [All of You](https://open.spotify.com/album/2lIYNTQtiK8t6v9byPP529) | 2:38 | 2026-02-17 | 2026-04-20 |
 | [All These Ladies](https://open.spotify.com/track/1N08zpJWDX4iaAeSrZtXua) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Headlines](https://open.spotify.com/album/4E0DnIB6iLAZ9ufGA24yz7) | 3:47 | 2025-11-05 | 2025-11-11 |
 | [All These Ladies](https://open.spotify.com/track/4IziPWd0KztwFIRzPw1Ahy) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [All These Ladies](https://open.spotify.com/album/0ZJrY2IPQAJdqPDaTPsEpQ) | 3:47 | 2025-06-19 | 2025-08-23 |
 | [Alpha](https://open.spotify.com/track/4NP5Q238mC9FJly7eREWB8) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [+Alpha（Special Edition）](https://open.spotify.com/album/01ZMA8tItQb2Xs99Foagdx) | 3:40 | 2024-08-13 | 2024-12-23 |
@@ -387,7 +387,7 @@
 | [In Your Fantasy \- Korean Ver.](https://open.spotify.com/track/1ng2YXmSmbj0evM5QRBqHK) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 \(In Your Fantasy Edition\)](https://open.spotify.com/album/49niymyM1a8TlYSbt9tPfo) | 3:12 | 2025-07-18 | 2025-09-17 |
 | [INFERNO](https://open.spotify.com/track/212BPxhwlB49xBb19xrEoh) | [RIKU](https://open.spotify.com/artist/5nnTRY8f0Gi8rIC9bgrnZG), [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [INFERNO](https://open.spotify.com/album/4NqvSNYyzoeddxkQgSdTvX) | 3:41 | 2024-01-31 | 2024-02-07 |
 | [Interlunar](https://open.spotify.com/track/1VPIkehzQNPo6syFKXLL1F) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Interlunar](https://open.spotify.com/album/37h2a00dYA02FN9eyAAN8O) | 2:41 | 2025-06-17 | 2025-08-11 |
-| [INVADER](https://open.spotify.com/track/50QBT1gxmuriNWuIEQLBW5) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [INVADER \(Special Edition\)](https://open.spotify.com/album/3YC46HRG6lymxTtlkqKzrz) | 2:51 | 2026-04-14 |  |
+| [INVADER](https://open.spotify.com/track/50QBT1gxmuriNWuIEQLBW5) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [INVADER \(Special Edition\)](https://open.spotify.com/album/3YC46HRG6lymxTtlkqKzrz) | 2:51 | 2026-04-14 | 2026-04-20 |
 | [INZM](https://open.spotify.com/track/55paYSUx1VJB5kUHljI8ov) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [INZM](https://open.spotify.com/album/0PXVVti0BzJC5atBVVFMNh) | 3:30 | 2024-08-22 | 2024-09-25 |
 | [It's OK](https://open.spotify.com/track/7hdokEsjFDV69eUNNqsIGj) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [It's OK](https://open.spotify.com/album/0RBiKagh6JgwDgnPAYeywB) | 3:34 | 2025-03-09 | 2025-03-26 |
 | [Itty Bitty](https://open.spotify.com/track/5WRIf37zfCTvyiEgghTrLo) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [n.SSign Special Album 'Itty Bitty'](https://open.spotify.com/album/0PQnD1pNMiuDYuxuNL9tht) | 2:41 | 2025-06-13 | 2025-10-01 |
@@ -408,6 +408,7 @@
 | [Keep on Moving](https://open.spotify.com/track/4nS2rDbFUcvcrNoTEQFJJM) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe \(Japanese Ver.\) / Keep on Moving \-Special Edition\-](https://open.spotify.com/album/5tyosIYVnbP67FGL9o8Xx6) | 3:06 | 2024-08-22 | 2024-09-25 |
 | [Keep on Moving \(Korean Version\)](https://open.spotify.com/track/1yxwMcQCslhKvGHA4OnNaj) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Keep on Moving \(Korean Version\)](https://open.spotify.com/album/4q1Pmz0UWvz6LoiNF6q63r) | 3:06 | 2024-09-24 | 2024-10-16 |
 | [KEYVITUP](https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e) | [KEYVITUP](https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv) | [1ST EP ALBUM \[KEYVITUP\]](https://open.spotify.com/album/4LP65OY24zeyZRNd4GxhCH) | 2:38 | 2026-04-09 |  |
+| [KILL SHOT](https://open.spotify.com/track/0E2uBfka0bJQjzco0OGjgT) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [KILL SHOT](https://open.spotify.com/album/1ZNVbLc6DaYeY5F3QJVUGx) | 3:12 | 2026-04-20 |  |
 | [Killa](https://open.spotify.com/track/4KwBjOcDve0jQrvD9eQljz) | [ENJIN](https://open.spotify.com/artist/1xO6BVi6M8m2Q2O1EE7oEC) | [Inception](https://open.spotify.com/album/5qb6vswL32wO47scCrZ7EL) | 3:24 | 2024-06-12 | 2024-07-10 |
 | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 | 2025-06-13 | 2025-11-19 |
 | [King Kila Game](https://open.spotify.com/track/2fuUnp8GTH9IBhm5xgtnlO) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [King Kila Game](https://open.spotify.com/album/3j1oA9TCyN5KSSvK1KLQBy) | 2:45 | 2025-04-07 | 2025-04-15 |
@@ -630,6 +631,7 @@
 | [Rock Out](https://open.spotify.com/track/29vF4jweyTmEUfrGkAML3E) | [ZIPANG OPERA](https://open.spotify.com/artist/4MDWbWU2bmU59KAcRTC72d) | [Rock Out](https://open.spotify.com/album/0HvY3diaylDJJeaNgNeS9h) | 3:32 | 2024-04-09 | 2024-04-17 |
 | [Rock Out](https://open.spotify.com/track/5rZ9iaQdXdUekoOm3CLZ6G) | [ZIPANG OPERA](https://open.spotify.com/artist/4MDWbWU2bmU59KAcRTC72d) | [Rock Out](https://open.spotify.com/album/5l6YBLJ4myl83evAzFHUDR) | 3:32 | 2024-03-26 | 2024-04-10 |
 | [Rock Right Now](https://open.spotify.com/track/4hNwQROKmc6lmjUQAjufFY) | [Maison B](https://open.spotify.com/artist/1Qy0G8x4jcOS1XjupM5jse) | [Build Up](https://open.spotify.com/album/0bRqVMEsARl7nM252J7Rha) | 2:57 | 2024-06-25 | 2024-07-10 |
+| [Rock Solid \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7g57jPAhy12yvPoIS6BenO) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Rock Solid \(feat\. Anderson .Paak\)](https://open.spotify.com/album/5vyseN9ZJ5UgstGAuScyiz) | 2:38 | 2026-04-20 |  |
 | [Rock this Party](https://open.spotify.com/track/3ca5Q1gTQI3Alaiutw2DDo) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [Rock this Party](https://open.spotify.com/album/7ImXa5wWsZP3WuFBqcYxGf) | 3:45 | 2025-03-06 | 2025-06-29 |
 | [Rocketeer](https://open.spotify.com/track/5ONAE8kbnpU9roroXScbcm) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [A \(Special Edition\)](https://open.spotify.com/album/51NB4PIC5vgboVu6RaLoa2) | 3:07 | 2023-11-23 | 2024-02-01 |
 | [Romance Number 110](https://open.spotify.com/track/1lPE1UFRuNk2NGCz575o3Q) | [Lead](https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE) | [XTLIKE](https://open.spotify.com/album/1dOvMsQgN6LOjmsuaaeVR5) | 3:10 | 2024-09-03 | 2024-09-18 |

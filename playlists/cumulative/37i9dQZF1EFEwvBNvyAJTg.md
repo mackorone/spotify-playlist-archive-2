@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-265 songs - 14 hr 28 min
+266 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [HOT STEPPA](https://open.spotify.com/track/3XmtcI1fONYFrGHGVpGxPa) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [HOT STEPPA](https://open.spotify.com/album/3PexIX2Jh9Dpd9ol6dBqoV) | 2:49 | 2024-06-13 |  |
 | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE) | 3:27 | 2024-06-13 |  |
 | [Hurts Like Hell \- Acoustic Live](https://open.spotify.com/track/0dSKYXx9OUrE6u53o1ChVT) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Hurts Like Hell \(Acoustic Live\)](https://open.spotify.com/album/0wHkLqf4paK3PIta30Pwry) | 2:57 | 2025-01-09 | 2025-04-12 |
-| [I Could Get Used To This](https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [I Could Get Used To This](https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd) | 3:41 | 2026-01-29 |  |
+| [I Could Get Used To This](https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [I Could Get Used To This](https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd) | 3:41 | 2026-01-29 | 2026-04-20 |
+| [I Could Get Used To This](https://open.spotify.com/track/5Tp8BO1Ocodur1mclvhQu9) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 3:41 | 2026-04-19 |  |
 | [I Gotta I Gotta](https://open.spotify.com/track/2pKLhfqiY6yD1tZWlbE3tQ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I Gotta I Gotta](https://open.spotify.com/album/5tfq2xwJtGRKA7rIJgMyix) | 2:17 | 2024-06-13 |  |
 | [I himmelen](https://open.spotify.com/track/2r7OdJQjeDmbP8ZHIPzSax) | [Karin Rehnqvist](https://open.spotify.com/artist/22V1sU3X8UJAc9bdMVMNUc), [Rebecka Ohm](https://open.spotify.com/artist/0d9gGTaaNCVoP6lC7qf7Ef), [Annie von Heijne](https://open.spotify.com/artist/19yuUnLS3gWlJQsFgULOHu), [Allmänna Sången](https://open.spotify.com/artist/6qS7wBpG5JjMvkai9fsIdy), [Anders Widmark](https://open.spotify.com/artist/4ZgY2pumPsq9z3kNxGTDef), [Cecilia Rydinger Alin](https://open.spotify.com/artist/5gbHOFxAxYXBnHbJKgShOt) | [Resonanser: Swedish Choral Music – New Perspectives](https://open.spotify.com/album/6xFDJQJlUq5KH7YF7iO49m) | 5:56 | 2024-06-13 | 2025-06-28 |
 | [I think about it all the time](https://open.spotify.com/track/3OaFGqHUyxGVkOcSILw8Kx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:15 | 2024-06-13 |  |
