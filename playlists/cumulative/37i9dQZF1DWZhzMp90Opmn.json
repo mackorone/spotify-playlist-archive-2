@@ -3105,6 +3105,24 @@
     },
     {
       "album": {
+        "name": "Inside the Pink Noise",
+        "url": "https://open.spotify.com/album/2G2n4MpTgYy4tPfdgmZg84"
+      },
+      "artists": [
+        {
+          "name": "Ethereal Roots",
+          "url": "https://open.spotify.com/artist/2NlQLtRMP7LbLqhbbxVEsu"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155491,
+      "name": "Inside the Pink Noise",
+      "url": "https://open.spotify.com/track/6qtvvdncM6rFjpGXnSSIig"
+    },
+    {
+      "album": {
         "name": "Dreamy Sleep",
         "url": "https://open.spotify.com/album/4xzulEzQXjzINJWJroVxET"
       },
@@ -4920,6 +4938,24 @@
       "duration_ms": 185000,
       "name": "Pink Haze",
       "url": "https://open.spotify.com/track/2NFFHYQRoBNup6Q1doQFAp"
+    },
+    {
+      "album": {
+        "name": "Pink Haze Field",
+        "url": "https://open.spotify.com/album/3oM6bkUjZlriko6QiB9jtD"
+      },
+      "artists": [
+        {
+          "name": "Emberwaves",
+          "url": "https://open.spotify.com/artist/56QSJQc6Jik15NGJDHk4UH"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168078,
+      "name": "Pink Haze Field",
+      "url": "https://open.spotify.com/track/3G5FxwFhC6cMsEy8GsmWac"
     },
     {
       "album": {
@@ -6860,7 +6896,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 173714,
       "name": "Pink Noise Glow",
       "url": "https://open.spotify.com/track/58nOMJCuSLeQtWAVTTNoSR"
@@ -7800,7 +7836,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 202000,
       "name": "Pink Noise Smooth",
       "url": "https://open.spotify.com/track/1td4s5kj0EUQ18tJfwJiQx"
@@ -8430,7 +8466,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Pink Rest State",
       "url": "https://open.spotify.com/track/5rahjnV9yrqqVbfmJ30KEQ"
@@ -8563,6 +8599,24 @@
     },
     {
       "album": {
+        "name": "Pink Sleep Field",
+        "url": "https://open.spotify.com/album/5tPNX5KUr1rgqf5jItVrSY"
+      },
+      "artists": [
+        {
+          "name": "Nebulous Lull",
+          "url": "https://open.spotify.com/artist/55PxXPnziY16HPoKLQkBe6"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Pink Sleep Field",
+      "url": "https://open.spotify.com/track/5kglaoaMEwMRJfcB3JJY9H"
+    },
+    {
+      "album": {
         "name": "Pink Noise Zen Garden",
         "url": "https://open.spotify.com/album/2Y619XhurpCllYX9f5YzOy"
       },
@@ -8574,7 +8628,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 172436,
       "name": "Pink Sleepscape",
       "url": "https://open.spotify.com/track/30vuCLcq1elsmwxLeb2OG8"
@@ -9312,7 +9366,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 203250,
       "name": "Remember Pink Noise",
       "url": "https://open.spotify.com/track/3N5sgm7NQA0R2eMUtt2HW1"
@@ -10068,7 +10122,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 185285,
       "name": "Sleepy Noise",
       "url": "https://open.spotify.com/track/4iRSBho9iyjtKXBCdkplT6"
@@ -11220,7 +11274,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 207500,
       "name": "Wherever Pink Noise",
       "url": "https://open.spotify.com/track/2JlhCTwDDUdUr5iDknnpF7"

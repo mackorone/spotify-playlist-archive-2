@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Tyla, Zara Larsson, Sido, Lewis Capaldi & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,548 likes - 99 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,517 likes - 99 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 68 | [Golden](https://open.spotify.com/track/73ob1BOoxobzYqlnwSVmJv) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Golden](https://open.spotify.com/album/5M2gAdU3TtwlDucUL7YFQf) | 2:45 |
 | 69 | [N.Y.F.F.](https://open.spotify.com/track/05MKzSVIFWyzD0tLw4jKaL) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [N.Y.F.F.](https://open.spotify.com/album/6j8bGTE15Qqce0qRNJmRDp) | 2:25 |
 | 70 | [Cut Ties](https://open.spotify.com/track/5rnEyo1fCPUXinEma5Bfid) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [Mother Mary: Greatest Hits](https://open.spotify.com/album/4Fwk57YUcfsa6EvZJSLwVq) | 4:09 |
-| 71 | [Fotopaparazzi \(ft\. Jon Z\)](https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Fotopaparazzi \(ft\. Jon Z\)](https://open.spotify.com/album/0yJcjogROmyReERdHLtDuq) | 2:20 |
+| 71 | [Fotopaparazzi](https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Fotopaparazzi](https://open.spotify.com/album/0yJcjogROmyReERdHLtDuq) | 2:20 |
 | 72 | [I Don't Wanna Go!](https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Don't Wanna Go!](https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585) | 2:39 |
 | 73 | [Rhythm Unknown](https://open.spotify.com/track/1WeM5XntFJnLceZ7RVAcgo) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [Rhythm Unknown](https://open.spotify.com/album/6t4d4ZN2JjuEzWgmg3b3yK) | 3:00 |
 | 74 | [EVERYTIME YOU TOUCH ME \(LOVE SO HIGH\)](https://open.spotify.com/track/55IYCNhm9GCHztUASOzqzx) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [KING BOOO!](https://open.spotify.com/artist/4Qazcx4lvMEqKhOspj4Mb9) | [EVERYTIME YOU TOUCH ME \(LOVE SO HIGH\)](https://open.spotify.com/album/3jXxz7NswFElE4ToknP8AE) | 3:36 |

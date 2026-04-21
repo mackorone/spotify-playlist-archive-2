@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Filiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,892 likes - 90 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,894 likes - 90 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 30 | [Lower Back Tattoo](https://open.spotify.com/track/3jj4GvNpJqOeW3O8wFfWg9) | [Naked Cameo](https://open.spotify.com/artist/6tzSR1jkVo43Y3r4EFA6df) | [Lower Back Tattoo](https://open.spotify.com/album/1bZYdnLdroCRloa9vg7GIL) | 3:09 |
 | 31 | [Cross My Heart](https://open.spotify.com/track/2uEWM5lSQsl0ubzbxFd6U7) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Maybe Not Tonight](https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC) | 2:40 |
 | 32 | [Sweet Hallelujah](https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sweet Hallelujah](https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0) | 3:02 |
-| 33 | [ONE HEART](https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Somebody Who Loves](https://open.spotify.com/album/66KDMCKygtWX9Rk7M7p91N) | 2:50 |
+| 33 | [ONE HEART](https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [SOMEBODY WHO LOVES](https://open.spotify.com/album/66KDMCKygtWX9Rk7M7p91N) | 2:50 |
 | 34 | [Already There](https://open.spotify.com/track/0cU0j0Qh3op4FxO7Ai310h) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Already There](https://open.spotify.com/album/7sM8cK4wMWZBvZaPPfNw1b) | 3:50 |
 | 35 | [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 |
 | 36 | [Focus Disease](https://open.spotify.com/track/30lcg7EBdJ8Gnu1KPdwIyG) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v) | [Focus Disease](https://open.spotify.com/album/3seuApr7dEsbVStb9JPy1L) | 3:00 |

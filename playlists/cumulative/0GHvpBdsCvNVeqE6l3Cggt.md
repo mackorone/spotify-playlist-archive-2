@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-120 songs - 7 hr 0 min
+121 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Roses](https://open.spotify.com/track/247MRY3Cbust5YB0Py5gxz) | [Lian](https://open.spotify.com/artist/2sOcUxLnqrruZJRN6m0GzE) | [Roses](https://open.spotify.com/album/0NjovRnD5unUBDJ7U8QH3G) | 4:10 | 2025-10-22 | 2025-12-03 |
 | [Sandcastle](https://open.spotify.com/track/0N2d2I8iFfz6ExzJeVQ5gU) | [Draig](https://open.spotify.com/artist/3bPNs4WxtWGGaWGY9HSFLR) | [Barefoot](https://open.spotify.com/album/2z2LWb5kJqtUASMgmnAbAv) | 3:02 | 2025-10-13 |  |
 | [Save Yourself](https://open.spotify.com/track/0zmBrqMD9u1wZUqJLNynUi) | [Maxine](https://open.spotify.com/artist/3m7b61n7lAtR554KpBx5y9) | [Save Yourself](https://open.spotify.com/album/7CUbS7kwBPOQPDBvWS5yET) | 2:49 | 2025-12-02 | 2025-12-28 |
+| [Second Chance](https://open.spotify.com/track/49D2hBnLk5rqQzPUEsS0zS) | [Ryandexbull](https://open.spotify.com/artist/6xcOyB1OapzUvFSR8d6R4M) | [Second Chance](https://open.spotify.com/album/74CnigfnvWZeyglwZYzMcO) | 3:03 | 2026-04-20 |  |
 | [Sei qualcosa di più](https://open.spotify.com/track/0AMRBYq1MSMhHfPrbfzizr) | [DREANN](https://open.spotify.com/artist/0F1JM34Bsg9sH9sPyh7hFX) | [Rumori di Felicità](https://open.spotify.com/album/6IylMld0SUGYQpBtCwna1f) | 3:23 | 2026-01-28 | 2026-02-22 |
 | [slowdance](https://open.spotify.com/track/6Kx3zHc8aidGu6sSIpSjkc) | [momomal](https://open.spotify.com/artist/2ENQKzsamWjgYR5wpHhsw2) | [slowdance](https://open.spotify.com/album/2L88eTbTfaszlqOwMnWwB3) | 2:41 | 2026-03-17 | 2026-04-08 |
 | [So I Go](https://open.spotify.com/track/3TeB8lRNddWlypSvwXf1R6) | [Coya](https://open.spotify.com/artist/4Sk7nS0b73o1fMxiTYxd7x), [T Henry](https://open.spotify.com/artist/6V42pwtgf8J5RNdgHuh4sU) | [So I Go](https://open.spotify.com/album/6HJ9CPcUoUxB73jp4pBsFy) | 3:08 | 2026-04-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,187 likes - 48 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,250 likes - 48 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 8 | [Só Quero Ver](https://open.spotify.com/track/5xIphy7s6rZF0vYFz3fGF5) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/1OQpOh2CpuG85LuJzomUC3) | 2:49 |
 | 9 | [Só me ligar](https://open.spotify.com/track/0nbX4Crcc4QbtIqspHizL1) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/1vNlE8yT5AAswQPy8jCHlV) | 3:13 |
 | 10 | [TÁ TARDE](https://open.spotify.com/track/0dyJ7rDk995cRo1ktfVmkP) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW) | [F\*\*K SONGS](https://open.spotify.com/album/2ysqT6MYBNQrrJI6fKeJPi) | 3:20 |
-| 11 | [Morro Sem Você](https://open.spotify.com/track/3ko6nPV1TnJIDj4PB1WXzS) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 3:13 |
+| 11 | [Universo](https://open.spotify.com/track/0PXXt94a68f2EAMwgn0Vr5) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Nansy Silvvz](https://open.spotify.com/artist/5EmJTNqpOyZQ5yoaJL9TdT) | [O Líder em Movimento](https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq) | 4:16 |
 | 12 | [Real](https://open.spotify.com/track/43StvP555grf8hmYKn9dv6) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/1OQpOh2CpuG85LuJzomUC3) | 3:26 |
-| 13 | [Universo](https://open.spotify.com/track/0PXXt94a68f2EAMwgn0Vr5) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Nansy Silvvz](https://open.spotify.com/artist/5EmJTNqpOyZQ5yoaJL9TdT) | [O Líder em Movimento](https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq) | 4:16 |
+| 13 | [Morro Sem Você](https://open.spotify.com/track/3ko6nPV1TnJIDj4PB1WXzS) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 3:13 |
 | 14 | [Amores, Vícios e Obsessões](https://open.spotify.com/track/4peu9YxoCAmkS52XNZV1mT) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 3:14 |
 | 15 | [Continuação de um sonho](https://open.spotify.com/track/4fpq2JgpKm125EvXsoV8sX) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/1vNlE8yT5AAswQPy8jCHlV) | 3:25 |
 | 16 | [Amém, Amém](https://open.spotify.com/track/2bR5Ln0N7VsDDwUN4M5cz2) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/1OQpOh2CpuG85LuJzomUC3) | 2:33 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 47 | [ANJO DA MADRUGADA](https://open.spotify.com/track/2c0x0hg7DlzlPk6XLXhNgH) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 2:29 |
 | 48 | [Deus do Furdunço](https://open.spotify.com/track/3sUhwX7vQhzuKDkFC6lAEr) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nave](https://open.spotify.com/artist/3lsEmETqVt85iRYSYslRMb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32) | 2:28 |
 
-Snapshot ID: `aeLJgAAAAADYIUFFrsJOY3JbYHVYXKG9`
+Snapshot ID: `aeQbAAAAAADCfndtTqjslUVJTdAzpRcx`

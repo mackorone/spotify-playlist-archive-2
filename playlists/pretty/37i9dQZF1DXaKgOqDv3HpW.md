@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,434 likes - 160 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,388 likes - 160 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 159 | [Windswept](https://open.spotify.com/track/4AvVqadN0wRpZu0Hmb3OF8) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [Windswept](https://open.spotify.com/album/7e1ipH7W3CQHiF2xIIwQAj) | 2:37 |
 | 160 | [Euphorbia](https://open.spotify.com/track/0PMeXNfujLqdkJf0faJKxK) | [Spatial Dreams](https://open.spotify.com/artist/282ZRlxKvwVEVwifRfdTbu) | [Euphorbia](https://open.spotify.com/album/7EeOiU8Qqo3S2W50EmlecQ) | 2:34 |
 
-Snapshot ID: `AAAAAIB5+RlsTrirUqUXuz3nmfJmOPwq`
+Snapshot ID: `AAAAAFduBrI8zm6CjeOxj/Ld7P5+E1CT`

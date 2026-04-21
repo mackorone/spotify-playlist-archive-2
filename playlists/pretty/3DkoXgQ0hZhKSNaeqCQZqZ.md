@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, furry music for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,071 likes - 367 songs - 18 hr 39 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,076 likes - 367 songs - 18 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 4 | [so easy](https://open.spotify.com/track/61uQSk7Sgr2J5vnO3U83Gj) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [so easy](https://open.spotify.com/album/0Qn3SgnRl4lTD3HjnTSP0a) | 2:03 |
 | 5 | [LIMITLESS](https://open.spotify.com/track/7iDr0MSWRPd5CCvoLkpZdn) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [LIMITLESS](https://open.spotify.com/album/7dcAsHSzowpNp2oicBzeD6) | 3:03 |
 | 6 | [CREDIT CARD](https://open.spotify.com/track/5P1LnQvlvZmhWvdieCyMoO) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [PASSENGERPRINCESS](https://open.spotify.com/album/6Sm7ZO5A4G1gVWqUJXeut9) | 3:20 |
-| 7 | [SNARL AT YOUR FRIENDS!!!](https://open.spotify.com/track/1XnagEe3r0kvWlTVjYHJjN) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [SNARL AT YOUR FRIENDS!!!](https://open.spotify.com/album/58fwYy1AyXZ3FFaeVAyVtH) | 3:25 |
+| 7 | [SNARL AT YOUR FRIENDS!!!](https://open.spotify.com/track/4MtrLEGZjii0FEGb4R302B) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [Gonarch's Lair](https://open.spotify.com/album/7ggH0DYZKT1p5l9U2j1z3y) | 3:25 |
 | 8 | [April's Fool](https://open.spotify.com/track/16MZjQqrS1Dvni4IxKrJh4) | [Far Below Perfect](https://open.spotify.com/artist/2AFyXKmMqK5wo0657AvyJw) | [Don't Waste Good Names on an EP](https://open.spotify.com/album/2ShEAf3Yx2jb6fSzjp5S6D) | 3:22 |
 | 9 | [EAT SHIT AND DIE](https://open.spotify.com/track/3HdBABZV9a6A5B2xgpEVKj) | [Kookie](https://open.spotify.com/artist/4lXLshdg09Wxh0oPdSNNwW) | [seriuos eepy](https://open.spotify.com/album/0KYLMTi4r39uNgMMC8NiaP) | 2:51 |
 | 10 | [Too Late](https://open.spotify.com/track/3aZiG45CNmjjKrBisc8hEg) | [WORLDWIDEWOLF](https://open.spotify.com/artist/0PT2yAXwZHB4q6eMBGM4kV) | [When I'm With You / Too Late](https://open.spotify.com/album/6nBMymUlBdMQXGO36H6RcW) | 4:50 |
@@ -376,4 +376,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 366 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 |
 | 367 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 |
 
-Snapshot ID: `AAAFO1bc9jLNJM6LR3IvyNulJYcok2Ea`
+Snapshot ID: `AAAFPtXmr6kONFpXyVUdG/ZXcJ5Kyx36`

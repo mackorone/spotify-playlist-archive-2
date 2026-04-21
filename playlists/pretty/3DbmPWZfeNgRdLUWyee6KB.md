@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,293 likes - 152 songs - 8 hr 44 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,292 likes - 163 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,5 +160,16 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 150 | [Dandelion](https://open.spotify.com/track/46gVwH2UBde8k2n8q4X4iQ) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Dark Skies](https://open.spotify.com/album/6msdDrMHEmyWefzameIaQC) | 3:10 |
 | 151 | [Kawaii](https://open.spotify.com/track/59tXTeEQ7G7koxQg5MyB1d) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Of Foxes And Tofu](https://open.spotify.com/album/4dpkrcOzw7t95AqZDgMRJV) | 4:55 |
 | 152 | [Ti Abbraccio](https://open.spotify.com/track/4ro107oVcj3Lee2sRpONUG) | [Giofly](https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp) | [Ti Abbraccio](https://open.spotify.com/album/0ce9BeLdWPndy8MlXIBoWP) | 3:48 |
+| 153 | [No More Chains to Hold Us \(From "Unliked"\)](https://open.spotify.com/track/52rXrALwA36lCsqEyjjwAc) | [Gonzalo Perales Roy](https://open.spotify.com/artist/6AnX8950eF5AnppQ3lRCBc), [Gonçal Perales](https://open.spotify.com/artist/66mfK9wH1pGIyiHG29aLtv), [Alex Flores](https://open.spotify.com/artist/6x1uNga2exZAAlQxMVHNUK) | [Short Films, Vol\. 3](https://open.spotify.com/album/08YDzbe8bNIgXORZt73VUB) | 2:29 |
+| 154 | [my medication](https://open.spotify.com/track/2UkTzHwSSLcFof1muj3XHz) | [Blooming Cellar](https://open.spotify.com/artist/3vP2BcyNwoVMEsi1bBy5A6) | [my medication](https://open.spotify.com/album/3ywRW5ajgw9LG7hGDVo0eL) | 3:08 |
+| 155 | [I Want It, I Need It](https://open.spotify.com/track/4bxyJNeHP6Vs7lMpCH7S8L) | [ARIE](https://open.spotify.com/artist/6dA76J841h4udyGQEoxnng) | [I Want It, I Need It](https://open.spotify.com/album/0nNZkPn5WAnal2swOTDrSw) | 2:56 |
+| 156 | [English Girls](https://open.spotify.com/track/17E04fJqvTKuzuHCtihkPS) | [Liquid Days](https://open.spotify.com/artist/6BHO09GORbj09337HZTxeJ) | [English Girls](https://open.spotify.com/album/4oiHnbiWOZ7zI1XZjubcoY) | 4:00 |
+| 157 | [Schwarzer Engel](https://open.spotify.com/track/3NfW08uCTFOhvgrdGGPQkJ) | [Seelentrost](https://open.spotify.com/artist/4KafT120JV2hhs3TlovDWD) | [Schwarzer Engel](https://open.spotify.com/album/6pB2eeRbU2Qc5ounDES7yj) | 2:55 |
+| 158 | [Found You](https://open.spotify.com/track/544K2IFaPh6sDYCI954Dyr) | [Giesel](https://open.spotify.com/artist/5NepTnAdzgR8EdjwN4Em3Y) | [Found You](https://open.spotify.com/album/2075Pot2GqMuQnoBC42ZkI) | 2:24 |
+| 159 | [MAAHIYA](https://open.spotify.com/track/2bDhNnxEDOAbZuCYZr0DBD) | [Giesel](https://open.spotify.com/artist/5NepTnAdzgR8EdjwN4Em3Y) | [MAAHIYA](https://open.spotify.com/album/1TgaFnep4G94S2xlfmlsfX) | 3:26 |
+| 160 | [Where the wild things trust me](https://open.spotify.com/track/0njBCKUqVve7clCpwpjvug) | [Opus Hewson](https://open.spotify.com/artist/0G6R9TtCJ4ROqLdkr9uc3q) | [Between Light and Noise](https://open.spotify.com/album/5TzXzs6fdtV2lRjh2dwy8Q) | 4:31 |
+| 161 | [Everybody Wins In The End](https://open.spotify.com/track/3KZdftmepUXGPv7vvyU0u7) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Everybody Wins In The End](https://open.spotify.com/album/687TYmukX5kBuJBJPub0Yn) | 2:56 |
+| 162 | [Joutau \(See You In Dreams\)](https://open.spotify.com/track/4lBbE9mYrgp5Cr6iSpsW6s) | [Swords & Sandals](https://open.spotify.com/artist/2rduF8rgZi6jgfjnfqFIFl) | [Joutau \(See You in Dreams\) \- EP](https://open.spotify.com/album/04OrfPkzRZSSX1UP1fVwSB) | 3:58 |
+| 163 | [Diamond and the Missing Son](https://open.spotify.com/track/293qXS4YFA9eFcb8Plx4u9) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:16 |
 
-Snapshot ID: `AAATFaU4Skc5MzLGx3l+a5luH9nFMfZE`
+Snapshot ID: `AAATIK5LmjLchIv8r6LfVts60KEjATIj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Lola Indigo x Lia Kali x Queralt Lahoz x SALMA, ROSALÍA, Olivia Rodrigo y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,402 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,415 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

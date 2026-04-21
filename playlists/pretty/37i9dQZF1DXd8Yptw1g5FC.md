@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Mabel Matiz ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,270 likes - 114 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,285 likes - 114 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 68 | [Yüzünde Hasret](https://open.spotify.com/track/6Fnzbzr8lSEiYUrUPLYUqT) | [Saudade](https://open.spotify.com/artist/177vaEMrfDJnDOsHBD63eH) | [Yüzünde Hasret](https://open.spotify.com/album/5yon7oBegTm9tYS527Q7sO) | 2:18 |
 | 69 | [Keklik](https://open.spotify.com/track/2aRObg9LXtujkpZU5WAG1r) | [Nasip Kısmet](https://open.spotify.com/artist/5Z1WOcThKzhiCcQqfYzvZS) | [Keklik](https://open.spotify.com/album/5YFro2ZKjKr1eohPaEXCu0) | 7:47 |
 | 70 | [Hislerden Bir İstisna](https://open.spotify.com/track/5DwVK3xNl5XTJIcrgoLVuH) | [Başka Yer](https://open.spotify.com/artist/0FMbY1tHgk1HNLspxAlWLM) | [Hislerden Bir İstisna](https://open.spotify.com/album/6S9Cqtv8WSuWRsitGK4vxu) | 4:03 |
-| 71 | [Bass Shway](https://open.spotify.com/track/0KuE1CM8xvqNvDyTTJkm3F) | [Selin Sümbültepe](https://open.spotify.com/artist/0KmKUL5Vh4hWu4y94z4L2l), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks), [Yazan Al Rousan](https://open.spotify.com/artist/5N7DSgub4D3JIbCJe3AUhk) | [Khayal](https://open.spotify.com/album/3PkT4ODT0fn7PycyrIppRK) | 3:40 |
+| 71 | [Bass Shway](https://open.spotify.com/track/0KuE1CM8xvqNvDyTTJkm3F) | [Selin Sümbültepe](https://open.spotify.com/artist/0KmKUL5Vh4hWu4y94z4L2l), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks), [Yazan Rousan](https://open.spotify.com/artist/3e6ookZkJCTBdGD1eol2qW) | [Khayal](https://open.spotify.com/album/3PkT4ODT0fn7PycyrIppRK) | 3:40 |
 | 72 | [Deli Dans](https://open.spotify.com/track/2DdkN6PwvgK6UGDUCsM3K5) | [Dalgakıran](https://open.spotify.com/artist/7vBbFZP3e28NENy44RxRlq) | [Deli Dans](https://open.spotify.com/album/1PH6fAa4SxMl47qUV8zrnT) | 4:32 |
 | 73 | [Kin](https://open.spotify.com/track/0fvbX1nLaPhWp0UbCiNfZd) | [Defa](https://open.spotify.com/artist/3kRcmNakORbez29Ms2x40w) | [Kin](https://open.spotify.com/album/217A8dACFpcIvIJczDmFMK) | 2:14 |
 | 74 | [yordun](https://open.spotify.com/track/5cb80ur9klkmMnM1yUQ8cg) | [Yung Şimşek](https://open.spotify.com/artist/4ReTB5nAVuJFlTRkA0aakm) | [yordun](https://open.spotify.com/album/1aR4EidvaukyXDjNu1DoRK) | 2:05 |

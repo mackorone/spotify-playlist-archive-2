@@ -4,7 +4,7 @@
 
 > The latest in hip\-hop, updated weekly\. Cover: NorthSideBenji
 
-4,808 songs - 9 day 13 hr 22 min
+4,808 songs - 9 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4391,7 +4391,7 @@
 | [TRYNA MAKE SURE](https://open.spotify.com/track/64SQ4g8uLSe7YPWm726yjG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [TRYNA MAKE SURE](https://open.spotify.com/album/6DkSEULcpf8LkbUUCVskIW) | 2:46 | 2024-05-03 | 2024-06-15 |
 | [TRYNA WIN](https://open.spotify.com/track/2PLjm5Hz0ufEF3s8uo3ntq) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez) | [TRYNA WIN](https://open.spotify.com/album/6L87qbYLWVPbRu1Cg2ETQk) | 2:33 | 2026-04-17 |  |
 | [Trynna Link](https://open.spotify.com/track/7jEhMTxpIH7Duw6AQsDztS) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Trynna Link](https://open.spotify.com/album/58n7meJEMSNZ35LxhgKPZK) | 2:57 | 2023-07-07 | 2023-07-15 |
-| [TSOD](https://open.spotify.com/track/2cpufCD1b80iCZZFPvj8I2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP), [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [TSOD](https://open.spotify.com/album/5jSp0SGH5VYRg2yKVY6bjq) | 3:25 | 2026-04-17 |  |
+| [TSOD](https://open.spotify.com/track/2cpufCD1b80iCZZFPvj8I2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP), [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [TSOD](https://open.spotify.com/album/5jSp0SGH5VYRg2yKVY6bjq) | 4:26 | 2026-04-17 |  |
 | [TSWIW](https://open.spotify.com/track/6cxkeeqbcxTb4SpVIUMGp4) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [TSWIW](https://open.spotify.com/album/1LP2WeUatdBkzbvadZBdxB) | 3:03 | 2023-07-07 | 2023-07-15 |
 | [TTSO.](https://open.spotify.com/track/3lQ445vGDKzQqBkTkHdRvr) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [TTSO.](https://open.spotify.com/album/7pkoyUUelUQjFGwx6tt3Pa) | 3:00 | 2024-11-15 | 2024-11-30 |
 | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/track/0Q5rXLOF7NxSfiNE9xEtuc) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/album/76RFXXmVwMd7VpAwb2dpIR) | 2:52 | 2023-10-13 | 2023-10-21 |

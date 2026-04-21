@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Saosin
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,157 likes - 101 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,154 likes - 101 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 15 | [Is That A Prayer?](https://open.spotify.com/track/4hWulk2MmnTTgLzYC8IMmW) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Is That A Prayer?](https://open.spotify.com/album/3YHNqnbCp8lPooUyGg7LGp) | 2:02 |
 | 16 | [New Jesus](https://open.spotify.com/track/5jZgMZRnn1yVXkJuH1Gcy5) | [Truck Violence](https://open.spotify.com/artist/37hhPwqpgSJ3sVixiThL0l) | [New Jesus](https://open.spotify.com/album/3AhRHRo8zqdJi89JI8Gk9s) | 3:07 |
 | 17 | [February Flowers](https://open.spotify.com/track/6Olhi061AQDZqAwGbqhXRW) | [Seahaven](https://open.spotify.com/artist/0jLpeMAu3aYRlvbjZd65np) | [February Flowers](https://open.spotify.com/album/5dRTEfKC5oY1jkNUmo661e) | 4:10 |
-| 18 | [Recurring](https://open.spotify.com/track/7doGZN3tOIhC2XshDTWvIQ) | [Crash Of Rhinos](https://open.spotify.com/artist/183vQCgpuNJHxdDCYIpkA4) | [Recurring](https://open.spotify.com/album/6SBlFmVh271ggiKLbJ2GcO) | 4:37 |
-| 19 | [I Don't Wanna Go!](https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Don't Wanna Go!](https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585) | 2:39 |
-| 20 | [Oyster Perpetual](https://open.spotify.com/track/0d77sZmUwJ2W6rWNzBVY0g) | [Planta Industrial](https://open.spotify.com/artist/2vfT28l8lKF4o9HuVkJ3Pw), [aka the darknight](https://open.spotify.com/artist/3yb2AwODgJ3ug0l3jKcD5j), [Saso](https://open.spotify.com/artist/7z3W8OunO3RH0quodR8Zsu) | [Oyster Perpetual](https://open.spotify.com/album/5hs9hCM06hTP8rua9XtY2K) | 2:14 |
-| 21 | [non mi fido più](https://open.spotify.com/track/155zDi0W4vIu4ZB0eRMFvC) | [Fear Of Apathy](https://open.spotify.com/artist/69xmomZwZqYGTSYPoWiUML) | [troppo giovani per esser soli, troppo stanchi per rincorrerci \(Deluxe Edition\)](https://open.spotify.com/album/0rZFgO9dq9th601YxHJN4M) | 2:54 |
-| 22 | [Deja vu \(feat\. Yours Truly\)](https://open.spotify.com/track/0EEfIXFD23IVlqq8FuKq1I) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo), [Mikaila Delgado](https://open.spotify.com/artist/6KT0sJVVBD6P3k12CyiNWe) | [Deja vu \(feat\. Yours Truly\)](https://open.spotify.com/album/1WczfU7ipvFrg5RUsvmP9B) | 2:40 |
+| 18 | [AMERICAN NIGHTMARE](https://open.spotify.com/track/53i9GNkUlsdTCVTs0O5h7U) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF) | [AMERICAN NIGHTMARE](https://open.spotify.com/album/3sY7w1wEVikP6OUWzCI6D7) | 2:08 |
+| 19 | [Recurring](https://open.spotify.com/track/7doGZN3tOIhC2XshDTWvIQ) | [Crash Of Rhinos](https://open.spotify.com/artist/183vQCgpuNJHxdDCYIpkA4) | [Recurring](https://open.spotify.com/album/6SBlFmVh271ggiKLbJ2GcO) | 4:37 |
+| 20 | [I Don't Wanna Go!](https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Don't Wanna Go!](https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585) | 2:39 |
+| 21 | [Oyster Perpetual](https://open.spotify.com/track/0d77sZmUwJ2W6rWNzBVY0g) | [Planta Industrial](https://open.spotify.com/artist/2vfT28l8lKF4o9HuVkJ3Pw), [aka the darknight](https://open.spotify.com/artist/3yb2AwODgJ3ug0l3jKcD5j), [Saso](https://open.spotify.com/artist/7z3W8OunO3RH0quodR8Zsu) | [Oyster Perpetual](https://open.spotify.com/album/5hs9hCM06hTP8rua9XtY2K) | 2:14 |
+| 22 | [non mi fido più](https://open.spotify.com/track/155zDi0W4vIu4ZB0eRMFvC) | [Fear Of Apathy](https://open.spotify.com/artist/69xmomZwZqYGTSYPoWiUML) | [troppo giovani per esser soli, troppo stanchi per rincorrerci \(Deluxe Edition\)](https://open.spotify.com/album/0rZFgO9dq9th601YxHJN4M) | 2:54 |
 | 23 | [New Pet](https://open.spotify.com/track/2BcR8vY2MMNMALVQQQN7L7) | [media puzzle](https://open.spotify.com/artist/1JFW3ACD123onrCbzNag5Z) | [New Racehorse](https://open.spotify.com/album/6WdPhUtZnHojStkgiBJGxW) | 1:55 |
 | 24 | [Irish Exit](https://open.spotify.com/track/1LhkL6kizDRXztNLY7m8xM) | [Potionseller](https://open.spotify.com/artist/3UL7CUnASj1xKh8Hwx538n) | [Irish Exit](https://open.spotify.com/album/5Acj4aqbwJ81qekFVHFGuv) | 3:36 |
 | 25 | [I HATE MILANO](https://open.spotify.com/track/1wxZV1KbqWuMnBYUnezCNN) | [Motel Cecil](https://open.spotify.com/artist/5AaaaiuLFShXMWKTw0KpSL) | [I HATE MILANO](https://open.spotify.com/album/7zcD5QilDCfUETudGPVJS6) | 1:31 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 100 | [Rolling By](https://open.spotify.com/track/6rLuJ0UjBbi4xYwvUtYP0B) | [Antenna](https://open.spotify.com/artist/602NI1Pvl6SbFdDJXXqL4f) | [Rolling By](https://open.spotify.com/album/6iv1lLZhgmiVlvgea0i53c) | 3:02 |
 | 101 | [Longer](https://open.spotify.com/track/7HWzreiEoo0i4kx8wQK9iC) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Crystalpunk](https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac) | 4:58 |
 
-Snapshot ID: `AAAAAEwJHwpL4rXiLP5qbCfWgTkRKDbw`
+Snapshot ID: `AAAAAHYJ7OKS0uor0CU/gJWbehJROaar`

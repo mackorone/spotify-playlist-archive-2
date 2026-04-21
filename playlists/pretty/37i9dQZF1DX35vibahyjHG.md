@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Celebrating 5 Years of EQUAL in Africa\. <br/>Cover: <a href="https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4?si=dAgHMk4cSX\-4\-npaqAhRRg">DEELA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,350 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,367 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

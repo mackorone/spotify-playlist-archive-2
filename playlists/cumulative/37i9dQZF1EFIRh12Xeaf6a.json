@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Really Rosie",
+        "url": "https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114261,
+      "name": "Alligators All Around",
+      "url": "https://open.spotify.com/track/2kleNFFwILH7H7Xys2Ip9c"
+    },
+    {
+      "album": {
         "name": "Thoroughbred",
         "url": "https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K"
       },
@@ -644,7 +662,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 139200,
       "name": "Breaking Up Is Hard to Do",
       "url": "https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX"
@@ -842,7 +860,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 229160,
       "name": "Chicken Shake",
       "url": "https://open.spotify.com/track/6N0o3pElcfEqTgIdQzLU19"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 128453,
       "name": "Cindy's Birthday",
       "url": "https://open.spotify.com/track/3Id8znxIUtTYNhZsak8Unb"
@@ -918,6 +936,24 @@
       "duration_ms": 190933,
       "name": "Computer Eyes",
       "url": "https://open.spotify.com/track/0EEssyfGdM2PFsE1a82p5R"
+    },
+    {
+      "album": {
+        "name": "Midnight Whispers",
+        "url": "https://open.spotify.com/album/0S8ykz524xoDdU92j8r5QR"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119226,
+      "name": "Crying in the Rain",
+      "url": "https://open.spotify.com/track/002we2OYkFf2fvF5SSTG10"
     },
     {
       "album": {
@@ -990,7 +1026,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 351946,
       "name": "Devil In A New Dress",
       "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
@@ -1033,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "The Animals: The Mickie Most Years And More",
+        "url": "https://open.spotify.com/album/2deJO9RGJYw2HVO4k1HPz9"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196640,
+      "name": "Don't Bring Me Down",
+      "url": "https://open.spotify.com/track/29NWGi7yfwFk11PBEMoNyE"
+    },
+    {
+      "album": {
         "name": "Animalisms",
         "url": "https://open.spotify.com/album/5owTdQnJSxKgLgnz8ZgFmc"
       },
@@ -1062,7 +1116,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 130345,
       "name": "Don't Bring Me Down - Remastered",
       "url": "https://open.spotify.com/track/0IVtfmGFFY9DzXMQcBSJSs"
@@ -1809,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "Halfway to Paradise Again",
+        "url": "https://open.spotify.com/album/4ugPDX2qiVWGphouk2oxRs"
+      },
+      "artists": [
+        {
+          "name": "Billy Fury",
+          "url": "https://open.spotify.com/artist/7rtLZcKWGV4eaZsBwSKimf"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151533,
+      "name": "Halfway to Paradise",
+      "url": "https://open.spotify.com/track/3dxi3FNwJITkZTgiStD3Xr"
+    },
+    {
+      "album": {
         "name": "Another Night With Big Dee Irwin: The Complete Dimension Recordings And More",
         "url": "https://open.spotify.com/album/6P1NRF6amZAXo77GG1tniN"
       },
@@ -2007,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "What The World Needs Now Is\u2026 The Definitive Collection",
+        "url": "https://open.spotify.com/album/6CqsSHxIQK08dnYKHmuMHO"
+      },
+      "artists": [
+        {
+          "name": "Jackie DeShannon",
+          "url": "https://open.spotify.com/artist/0iVed2Qu7dmL0pIYCj1Xw8"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140040,
+      "name": "Heaven Is Being With You",
+      "url": "https://open.spotify.com/track/1xFdKtl6NYdBB2IOtGeSbk"
+    },
+    {
+      "album": {
         "name": "Andy Williams - The Ultimate Hits Collection",
         "url": "https://open.spotify.com/album/5qeqn1KSQ8oEKsaEv99w3Z"
       },
@@ -2036,7 +2126,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 133933,
       "name": "Her Royal Majesty",
       "url": "https://open.spotify.com/track/1lnCcWCcHCN1uKx6toQuaA"
@@ -3024,7 +3114,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 146333,
       "name": "Jambalaya (On The Bayou)",
       "url": "https://open.spotify.com/track/6YS9gh6dxp4rYKWk5jjBDC"
@@ -3042,7 +3132,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 205906,
       "name": "Josie",
       "url": "https://open.spotify.com/track/1o1d0VwFhCaYN0LcukppPt"
@@ -3510,7 +3600,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 137360,
       "name": "Let's Twist Again",
       "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
@@ -3658,7 +3748,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 226360,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/7ls9IFeCDuAdOcBKosMxyK"
@@ -3748,7 +3838,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 194986,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/5dae01pKNjRQtgOeAkFzPY"
@@ -4018,7 +4108,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 139186,
       "name": "No One Ever Tells You",
       "url": "https://open.spotify.com/track/1Z4lNPJfSpbqN3V5j7YQEa"
@@ -4498,7 +4588,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 268026,
       "name": "Rage Of Angels",
       "url": "https://open.spotify.com/track/62D4ilwxJNhjiixorqH567"
@@ -4700,7 +4790,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 172786,
       "name": "Runaround Sue",
       "url": "https://open.spotify.com/track/7CuCzFcemPckW014Zsi8Sm"
@@ -4830,7 +4920,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 200800,
       "name": "See Them A Come",
       "url": "https://open.spotify.com/track/1UDd9KiROrar9stu4qSXqo"
@@ -4866,7 +4956,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 144493,
       "name": "Sh-Boom",
       "url": "https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA"
@@ -4884,7 +4974,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 122706,
       "name": "Sharing You",
       "url": "https://open.spotify.com/track/4ypZEpTX71A1i5HY8ofw2K"
@@ -5399,6 +5489,24 @@
     },
     {
       "album": {
+        "name": "Sweet Girl Group Harmony",
+        "url": "https://open.spotify.com/album/0QavcOAN5eIcjTH8kuJIUL"
+      },
+      "artists": [
+        {
+          "name": "The Cookies",
+          "url": "https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155813,
+      "name": "Stranger In My Arms",
+      "url": "https://open.spotify.com/track/4BVkatiFtuQHIVd9jZxsj0"
+    },
+    {
+      "album": {
         "name": "Master Stress Mix - 40 Melodies to Melt Away All Stress & Indulge Your Mind, Body and Spirit",
         "url": "https://open.spotify.com/album/3aZ15VKbZIjPOUou1JtfJo"
       },
@@ -5551,6 +5659,24 @@
     },
     {
       "album": {
+        "name": "Take Good Care Of My Baby",
+        "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149800,
+      "name": "Take Good Care Of My Baby",
+      "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
+    },
+    {
+      "album": {
         "name": "Ma",
         "url": "https://open.spotify.com/album/1FjqYdqCz7Sg5kNC3mYjWY"
       },
@@ -5562,7 +5688,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 216413,
       "name": "Taking a Page",
       "url": "https://open.spotify.com/track/16lxg7eNSRbJRt5ePVr7G7"
@@ -5808,7 +5934,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 161161,
       "name": "The Lion Sleeps Tonight",
       "url": "https://open.spotify.com/track/4x6QL8zCkeKRlRx05NBPQh"
@@ -6208,7 +6334,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 157173,
       "name": "Up on the Roof",
       "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
@@ -6705,6 +6831,24 @@
     },
     {
       "album": {
+        "name": "Save the Last Dance for Me",
+        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156400,
+      "name": "When My Little Girl Is Smiling - Single Version",
+      "url": "https://open.spotify.com/track/5acRm7GjPIhHsh9Ds3q783"
+    },
+    {
+      "album": {
         "name": "Llllloco-Motion",
         "url": "https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj"
       },
@@ -6900,6 +7044,24 @@
       "duration_ms": 155906,
       "name": "WILL POWER",
       "url": "https://open.spotify.com/track/7mNpxgGJxcdoggf4VK6sy4"
+    },
+    {
+      "album": {
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160864,
+      "name": "Will You Love Me Tomorrow",
+      "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
     },
     {
       "album": {
@@ -7188,6 +7350,24 @@
       "duration_ms": 218413,
       "name": "Yours Truly",
       "url": "https://open.spotify.com/track/2TFS8koduXCAmOwqdjjJ4A"
+    },
+    {
+      "album": {
+        "name": "\u30a4\u30f3\u30fb\u30bf\u30a6\u30f3",
+        "url": "https://open.spotify.com/album/7kN6xIFWxiHwu1b2xlwpqB"
+      },
+      "artists": [
+        {
+          "name": "The Rockin' Berries",
+          "url": "https://open.spotify.com/artist/6G18NLfr5luyGYgMKIupm3"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144426,
+      "name": "YOU\u2019RE MY GIRL",
+      "url": "https://open.spotify.com/track/6nVQiM8TBD5TM1C2ngE8dW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFIRh12Xeaf6a"

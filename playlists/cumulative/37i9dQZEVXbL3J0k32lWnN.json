@@ -5124,7 +5124,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 182608,
       "name": "Blodigt (feat. Annika)",
       "url": "https://open.spotify.com/track/5fFVI2cNXckUEkttuVOumi"
@@ -5802,7 +5802,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 177385,
       "name": "Brugt mine dage",
       "url": "https://open.spotify.com/track/5hwr5cacuEkk1buZR99L0E"
@@ -10210,6 +10210,24 @@
       "duration_ms": 49091,
       "name": "Din Energi (Prelude)",
       "url": "https://open.spotify.com/track/0DQFWs0JSvzDYVZc8ijqjO"
+    },
+    {
+      "album": {
+        "name": "Din For Evigt",
+        "url": "https://open.spotify.com/album/7HkxMvhk74mIWa9LUe6Mnf"
+      },
+      "artists": [
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214720,
+      "name": "Din For Evigt",
+      "url": "https://open.spotify.com/track/3oYO7MoMAjIKeG15RkKAYn"
     },
     {
       "album": {
@@ -19400,7 +19418,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"

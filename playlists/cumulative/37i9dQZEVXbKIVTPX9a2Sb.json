@@ -628,7 +628,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 142417,
       "name": "22",
       "url": "https://open.spotify.com/track/0R3eeOQZuJG9661NAlMIrT"
@@ -4494,7 +4494,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 173917,
       "name": "Bbejbb",
       "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
@@ -11816,7 +11816,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
@@ -12880,7 +12880,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 123946,
       "name": "D\u017eanes",
       "url": "https://open.spotify.com/track/5agUzhiIJPAuj76t38TMy4"
@@ -16344,7 +16344,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
@@ -29928,7 +29928,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 249933,
       "name": "M\u00e1m \u0165a r\u00e1d",
       "url": "https://open.spotify.com/track/3aCpawvHOSIfMQEOYUXy56"
@@ -35138,7 +35138,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 280033,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
@@ -35934,7 +35934,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 174117,
       "name": "Pist\u00e1cie (feat. Sofian Medjmedj)",
       "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
@@ -39992,7 +39992,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 129046,
       "name": "s kym to hovoris?",
       "url": "https://open.spotify.com/track/3ctgJdc97vwiJPnBJOUagk"
@@ -42308,6 +42308,28 @@
       "duration_ms": 147121,
       "name": "SME S5",
       "url": "https://open.spotify.com/track/2B7YzUqG3Z4ZSpwg4QnIY5"
+    },
+    {
+      "album": {
+        "name": "SMETIAK",
+        "url": "https://open.spotify.com/album/5N1TxdtYTDQQIMslkXcWbd"
+      },
+      "artists": [
+        {
+          "name": "Dawe White",
+          "url": "https://open.spotify.com/artist/3JhPLPp3W9qf7Drp10nx6u"
+        },
+        {
+          "name": "Papii Machado",
+          "url": "https://open.spotify.com/artist/7BaTDVjVyNlvrG3iyqV8OX"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147226,
+      "name": "SMETIAK",
+      "url": "https://open.spotify.com/track/17hOZuBrJFNfxO0ii99GUY"
     },
     {
       "album": {

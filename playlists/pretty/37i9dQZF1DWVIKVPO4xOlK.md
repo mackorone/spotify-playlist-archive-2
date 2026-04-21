@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Linea Personal
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,418 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,443 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 37 | [ya yo sé](https://open.spotify.com/track/2gTeBjlkr4wn92JGLLNeAc) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [desconectado](https://open.spotify.com/album/6B0nRYl9whuLJH9BByQ7B2) | 3:00 |
 | 38 | [Evolucionando](https://open.spotify.com/track/1XW5OWtjaJ3NqZtbADTop0) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Evolucionando](https://open.spotify.com/album/2rntMI420qF9TIyX7is9aQ) | 2:47 |
 | 39 | [El Doble F](https://open.spotify.com/track/686i19rfToKBSd2JL0NmaV) | [Los Ases De California](https://open.spotify.com/artist/4A02qQ0vbPQj9oCB2FE1I2) | [El Doble F](https://open.spotify.com/album/28RRFKR7n67tBwRpdR65UQ) | 3:17 |
-| 40 | [Los Cuadros \(En Vivo\)](https://open.spotify.com/track/7C2tv3mhtVvHrB3w1bSRN1) | [Grupo Cuadra](https://open.spotify.com/artist/65R3oFgaTYkTgkseRlh1Xr) | [En Vivo Desde La Cuadra, Vol.1](https://open.spotify.com/album/44d0ReWJ2z8pTtk6b22uoB) | 3:06 |
+| 40 | [Los Cuadros \(En Vivo\)](https://open.spotify.com/track/7C2tv3mhtVvHrB3w1bSRN1) | [Grupo Cuadra](https://open.spotify.com/artist/65R3oFgaTYkTgkseRlh1Xr), [Compadannymusic](https://open.spotify.com/artist/28WJRiJryQcboA0YemNlkY) | [En Vivo Desde La Cuadra, Vol.1](https://open.spotify.com/album/44d0ReWJ2z8pTtk6b22uoB) | 3:06 |
 
 Snapshot ID: `AAAAANVCqZWoF+qaHGlCIChuSiTz4dS0`

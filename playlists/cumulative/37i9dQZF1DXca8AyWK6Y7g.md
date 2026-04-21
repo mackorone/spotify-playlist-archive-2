@@ -4,7 +4,7 @@
 
 > on repeat for a reason\. cover: Emei
 
-2,751 songs - 5 day 18 hr 26 min
+2,752 songs - 5 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2321,7 +2321,7 @@
 | [sunshine](https://open.spotify.com/track/3AnlmPe3kCwc0gaDkUBX2Z) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [sunshine](https://open.spotify.com/album/1GzDM6E01A4PqodtwxQXfR) | 2:21 | 2021-02-23 | 2021-11-20 |
 | [Sunshine](https://open.spotify.com/track/2uFSWRjGngObrrfMZcBVBv) | [Shawn Mathews](https://open.spotify.com/artist/3MkpsN5uQhUMT9EMV1LgYL) | [Sunshine](https://open.spotify.com/album/1PYCwyi5YM95iL8IlVHDOm) | 2:52 | 2021-03-06 | 2022-03-26 |
 | [Super](https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:43 | 2025-05-02 | 2025-08-09 |
-| [Super Elastic](https://open.spotify.com/track/4EXreHEQvGiM6BlXbATMZm) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Super Elastic](https://open.spotify.com/album/2RwVWxOYQYL8cwVfFVfEJd) | 2:18 | 2026-01-16 |  |
+| [Super Elastic](https://open.spotify.com/track/4EXreHEQvGiM6BlXbATMZm) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Super Elastic](https://open.spotify.com/album/2RwVWxOYQYL8cwVfFVfEJd) | 2:18 | 2026-01-16 | 2026-04-21 |
 | [SUPER F★CKING MEGA ST★R](https://open.spotify.com/track/0nwsozTQ2xfKtHd03ADze5) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [SUPER F★CKING MEGA ST★R](https://open.spotify.com/album/1WQhYYSKRwg23ojle7NmBW) | 2:49 | 2025-10-03 | 2026-01-15 |
 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:03 | 2023-09-22 | 2023-12-09 |
 | [Super Love Me](https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Super Love Me](https://open.spotify.com/album/6C2W7lY57Nhm01DDjXMJxa) | 4:26 | 2025-05-23 | 2026-01-17 |
@@ -2589,6 +2589,7 @@
 | [vivienne](https://open.spotify.com/track/3oJ60hM1u2rJLMz7s6fUwS) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [growing pains](https://open.spotify.com/album/4ydL1OENIYGUlgTWDpUcs5) | 3:12 | 2021-12-24 | 2022-01-29 |
 | [Vodka Cranberry](https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Vodka Cranberry](https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt) | 4:05 | 2025-09-12 | 2026-04-04 |
 | [Voicemail](https://open.spotify.com/track/7nfpKpGa2rarRaeCTf6aEB) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Voicemail](https://open.spotify.com/album/0RHshQRGWqB01NSbxX2j3R) | 2:59 | 2023-10-20 | 2024-01-10 |
+| [w\-w\-w\-w\-w](https://open.spotify.com/track/7ENAU5RHg2yeQ0FOSvlF3C) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the apple tree under the sea](https://open.spotify.com/album/3td33YbrUND8jvdarSmgmR) | 4:26 | 2026-04-20 |  |
 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2022-07-08 | 2025-01-25 |
 | [W.O.W.Y.](https://open.spotify.com/track/0cPe1dk3g5AiNXmZ122sSF) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [W.O.W.Y.](https://open.spotify.com/album/2fc71wTzm1Ddun26yslWG1) | 3:17 | 2024-08-02 | 2024-11-16 |
 | [W4NNA DO](https://open.spotify.com/track/11sA5C9rqjatq2eXzL8y33) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [W4NNA DO](https://open.spotify.com/album/0eOYz7FB11TFzjlbdJRL4h) | 2:19 | 2023-06-30 | 2023-08-12 |

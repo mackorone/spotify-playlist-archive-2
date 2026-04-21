@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeLJgAAAAABZ8HZXJRoG3l16JzJ9/1cW",
+  "snapshot_id": "aeQbAAAAAAA4BgA5blhaUtBP2vYM6NDW",
   "tracks": [
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 175653,
-      "name": "Contagious",
-      "url": "https://open.spotify.com/track/4Q2XCNVJpBAKq5JYip3wye"
+      "duration_ms": 167026,
+      "name": "Sink or Swim",
+      "url": "https://open.spotify.com/track/3e2vffxfcTZxQe4b6O9u42"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 167026,
-      "name": "Sink or Swim",
-      "url": "https://open.spotify.com/track/3e2vffxfcTZxQe4b6O9u42"
+      "duration_ms": 175653,
+      "name": "Contagious",
+      "url": "https://open.spotify.com/track/4Q2XCNVJpBAKq5JYip3wye"
     }
   ],
   "unique_name": "This Is Victor Ray",

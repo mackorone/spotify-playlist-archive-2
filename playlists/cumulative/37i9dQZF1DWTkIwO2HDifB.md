@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: DJ Gu, MC Vine7, MC Tuto, MC Joãozinho VT, Mc Dkziin, MC Fr da Norte
+> Os funks mais 🔑 do Brasil / Foto: Mc Lele JP, Mc Poze do Rodo, MC Leozinho ZS
 
 434 songs - 1 day 1 hr 42 min
 

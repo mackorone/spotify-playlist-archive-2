@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeLJgAAAAACEgWLstJFHNxfcg46Dx8Ms",
+  "snapshot_id": "aeQbAAAAAAAFRwS++JCCm1K6PWQ1LU3z",
   "tracks": [
     {
       "added_at": null,
@@ -108,21 +108,21 @@
       },
       "artists": [
         {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
+        },
+        {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         },
         {
-          "name": "Chink Santana",
-          "url": "https://open.spotify.com/artist/2bm08yVyWSeEOygeQw8USU"
-        },
-        {
-          "name": "Caddillac Tah",
-          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
+          "name": "Ronny Bumps",
+          "url": "https://open.spotify.com/artist/7ixk3IjGehM3J3LBrmtstu"
         }
       ],
-      "duration_ms": 278200,
-      "name": "Intro (Various Artists/Irv Gotti Presents... The Inc.)",
-      "url": "https://open.spotify.com/track/2nQvUJgNFgvdYGwGtLUUKh"
+      "duration_ms": 233773,
+      "name": "Here We Come",
+      "url": "https://open.spotify.com/track/0TeEO7pnnKr9OnHyfCE3Hg"
     },
     {
       "added_at": null,
@@ -196,21 +196,21 @@
       },
       "artists": [
         {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
-        },
-        {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         },
         {
-          "name": "Ronny Bumps",
-          "url": "https://open.spotify.com/artist/7ixk3IjGehM3J3LBrmtstu"
+          "name": "Chink Santana",
+          "url": "https://open.spotify.com/artist/2bm08yVyWSeEOygeQw8USU"
+        },
+        {
+          "name": "Caddillac Tah",
+          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
         }
       ],
-      "duration_ms": 233773,
-      "name": "Here We Come",
-      "url": "https://open.spotify.com/track/0TeEO7pnnKr9OnHyfCE3Hg"
+      "duration_ms": 278200,
+      "name": "Intro (Various Artists/Irv Gotti Presents... The Inc.)",
+      "url": "https://open.spotify.com/track/2nQvUJgNFgvdYGwGtLUUKh"
     },
     {
       "added_at": null,

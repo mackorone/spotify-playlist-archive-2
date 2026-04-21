@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 11494,
+  "num_followers": 11503,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
-    },
-    {
-      "added_at": "2026-04-14 02:32:27",
-      "album": {
         "name": "ERROR",
         "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 198558,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+    },
+    {
+      "added_at": "2026-04-14 02:32:27",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
-    },
-    {
-      "added_at": "2026-04-14 02:32:27",
-      "album": {
         "name": "RIDE",
         "url": "https://open.spotify.com/album/3t4nLWaE60YINX7QLTIbAS"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 244133,
       "name": "RIDE (feat. THAMA)",
       "url": "https://open.spotify.com/track/6jpFPa2m8PjHurC7508wYB"
+    },
+    {
+      "added_at": "2026-04-14 02:32:27",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Flu",
-      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
-    },
-    {
-      "added_at": "2026-04-14 02:32:27",
-      "album": {
         "name": "Q",
         "url": "https://open.spotify.com/album/3L1LYjwpQmEBnnVqq8CcvT"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 205693,
       "name": "How Do You Think",
       "url": "https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg"
+    },
+    {
+      "added_at": "2026-04-14 02:32:27",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Flu",
+      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
-        "name": "COLORING",
-        "url": "https://open.spotify.com/album/3Ouw5zc6rnkhYWfK8q8iXo"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "COLORING",
-      "url": "https://open.spotify.com/track/5HxhCvXhUkMWobnWvkJRSd"
-    },
-    {
-      "added_at": "2026-04-14 02:32:27",
-      "album": {
         "name": "Seoul",
         "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
-        "name": "A flower bookmark, Pt. 2",
-        "url": "https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI"
+        "name": "COLORING",
+        "url": "https://open.spotify.com/album/3Ouw5zc6rnkhYWfK8q8iXo"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
         }
       ],
-      "duration_ms": 224791,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B"
+      "duration_ms": 168000,
+      "name": "COLORING",
+      "url": "https://open.spotify.com/track/5HxhCvXhUkMWobnWvkJRSd"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -559,6 +543,22 @@
       "duration_ms": 261120,
       "name": "Je T'aime",
       "url": "https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w"
+    },
+    {
+      "added_at": "2026-04-14 02:32:27",
+      "album": {
+        "name": "A flower bookmark, Pt. 2",
+        "url": "https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 224791,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Feel Like Falling In Love",
+      "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
+    },
+    {
+      "added_at": "2026-04-14 02:32:27",
+      "album": {
         "name": "Airman Morning Diaries",
         "url": "https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 201077,
       "name": "Blue Island (feat. 1Ho & Chan)",
       "url": "https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL"
-    },
-    {
-      "added_at": "2026-04-14 02:32:27",
-      "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Feel Like Falling In Love",
-      "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
-        "name": "The Practical Guide to Love (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/1ShTAf3wQ5LKC3eKMmgec7"
-      },
-      "artists": [
-        {
-          "name": "MRCH",
-          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "I Feel Special",
-      "url": "https://open.spotify.com/track/2plWIXE3OlN3auMLlOaQNQ"
-    },
-    {
-      "added_at": "2026-04-14 02:32:27",
-      "album": {
         "name": "From JOY, with Love - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 196000,
       "name": "La Vie En Bleu",
       "url": "https://open.spotify.com/track/6IMhhjsF1OCCNkPXE72E4y"
+    },
+    {
+      "added_at": "2026-04-14 02:32:27",
+      "album": {
+        "name": "The Practical Guide to Love (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/1ShTAf3wQ5LKC3eKMmgec7"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "I Feel Special",
+      "url": "https://open.spotify.com/track/2plWIXE3OlN3auMLlOaQNQ"
     },
     {
       "added_at": "2026-04-14 02:32:27",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-04-14 02:32:27",
       "album": {
-        "name": "Your World",
-        "url": "https://open.spotify.com/album/79obqCDg7voupaTKDsNrF3"
-      },
-      "artists": [
-        {
-          "name": "lalasweet",
-          "url": "https://open.spotify.com/artist/5i8AqrrtbwtPqzkavePQy1"
-        }
-      ],
-      "duration_ms": 226705,
-      "name": "The Prologue - Spring ver.",
-      "url": "https://open.spotify.com/track/6yuFTKQNi4aUheae4f90sb"
-    },
-    {
-      "added_at": "2026-04-14 02:32:27",
-      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 199133,
       "name": "HANGANG (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+    },
+    {
+      "added_at": "2026-04-14 02:32:27",
+      "album": {
+        "name": "Your World",
+        "url": "https://open.spotify.com/album/79obqCDg7voupaTKDsNrF3"
+      },
+      "artists": [
+        {
+          "name": "lalasweet",
+          "url": "https://open.spotify.com/artist/5i8AqrrtbwtPqzkavePQy1"
+        }
+      ],
+      "duration_ms": 226705,
+      "name": "The Prologue - Spring ver.",
+      "url": "https://open.spotify.com/track/6yuFTKQNi4aUheae4f90sb"
     },
     {
       "added_at": "2026-04-14 02:32:27",

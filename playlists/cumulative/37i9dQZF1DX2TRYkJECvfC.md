@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-683 songs - 2 day 7 hr 56 min
+684 songs - 2 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Hide and Seek](https://open.spotify.com/track/6kvinwAz4dSKmLYMt5dP6O) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [10.000 Hours](https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr) | 5:09 | 2022-05-03 | 2024-04-19 |
 | [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 | 2024-07-12 |  |
 | [Hiding \- HÜMAN Remix](https://open.spotify.com/track/2tSXZeA9MZ4QaQcxZQwdyX) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [HÜMAN](https://open.spotify.com/artist/5OSFyC4u32V4PI7YoyuMCc) | [Hiding \(HÜMAN Remix\)](https://open.spotify.com/album/1xebNg9O1JfE5Yt2lpvVCA) | 3:27 | 2023-08-18 | 2025-01-11 |
+| [High Speed Ring](https://open.spotify.com/track/49j6FhpppvIcbsBvqLRkKh) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [High Speed Ring](https://open.spotify.com/album/2g3S1HaEsnYX3QticAKsFc) | 4:38 | 2026-04-17 |  |
 | [Higher Now](https://open.spotify.com/track/2fM7sFomSOv5qHhn2p4aQ9) | [Klaverson](https://open.spotify.com/artist/3HutVQvkOWjDk8fYsWATEr) | [Higher Now](https://open.spotify.com/album/6GUMKmJXypGQ8Ta6OuFTp1) | 3:17 | 2025-04-11 |  |
 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 | 2023-07-14 | 2024-06-22 |
 | [Hiraeth \(feat\. Kim Van Loo\)](https://open.spotify.com/track/4Pd7JgZI8zvewbeZLsIDxe) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Kim Van Loo](https://open.spotify.com/artist/7hNkG8n1xZ8BEpGu51udR1) | [Hiraeth](https://open.spotify.com/album/3vWp7L3aIczzUC5Obyxb18) | 4:59 | 2022-10-28 |  |
@@ -294,7 +295,7 @@
 | [Keep On Reachin \- Main Mix](https://open.spotify.com/track/56Dv87Nbnwx9TLMxUkYbLG) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Keep on Reachin](https://open.spotify.com/album/2ZaDoH0PAeavRtIvmPKwq3) | 5:24 | 2021-12-08 | 2023-08-18 |
 | [Keramas](https://open.spotify.com/track/6QYthxincEvqQzGkfAOAiK) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Keramas / Harpanet](https://open.spotify.com/album/3d6TLlQimQZIXeQyhMFQq4) | 3:44 | 2021-12-08 | 2023-07-07 |
 | [Kintsugi](https://open.spotify.com/track/43cbFFWsvH9ojZ0QaufdlH) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI) | [Kintsugi](https://open.spotify.com/album/3XVyRiBQtZTxjrjtVL0Igx) | 8:40 | 2025-04-11 |  |
-| [Koyika](https://open.spotify.com/track/0DawyHLNAGS63ZjNxgGXJY) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Sai Hle](https://open.spotify.com/artist/5jwK2NSW46p796Xun0s4Tf) | [Koyika / The Rise](https://open.spotify.com/album/0tziyPVebqM613eIjXkzov) | 6:09 | 2025-10-24 |  |
+| [Koyika](https://open.spotify.com/track/0DawyHLNAGS63ZjNxgGXJY) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Sai Hle](https://open.spotify.com/artist/5jwK2NSW46p796Xun0s4Tf) | [Koyika / The Rise](https://open.spotify.com/album/0tziyPVebqM613eIjXkzov) | 6:09 | 2025-10-24 | 2026-04-21 |
 | [Kunzite](https://open.spotify.com/track/4zEbnQ59YXDeCC8Cc81pjc) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [8 Hours, Still No Rain EP](https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0) | 4:27 | 2021-12-08 | 2024-07-13 |
 | [L'owè L'owè](https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx) | [DJ Qness](https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc) | [L'owe L'owe](https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG) | 7:29 | 2021-12-08 | 2024-07-13 |
 | [La Maison \- Original](https://open.spotify.com/track/3d80ghHkDghJI78Ca6i0fN) | [Gab Rhome](https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI) | [La Maison](https://open.spotify.com/album/5JDwNbFFhU2py7OUJhyKQu) | 6:30 | 2022-05-03 | 2022-08-22 |

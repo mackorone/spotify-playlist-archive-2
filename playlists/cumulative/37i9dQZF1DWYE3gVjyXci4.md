@@ -2,7 +2,7 @@
 
 ### [girlhood ](https://open.spotify.com/playlist/37i9dQZF1DWYE3gVjyXci4)
 
-> pink bows, spilled secrets, deep feels, and main character dreams
+> there's gonna be one less lonely girl
 
 81 songs - 4 hr 53 min
 

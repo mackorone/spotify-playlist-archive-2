@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Vanessa Zee, Rony Parulian
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,924 likes - 99 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,947 likes - 99 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 25 | [More Time](https://open.spotify.com/track/1eFYjbLIN7ifJFiyn6uGfg) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [More Time](https://open.spotify.com/album/6oLAT3dtRuQAjauvm72BHp) | 3:25 |
 | 26 | [Ingin Kumiliki](https://open.spotify.com/track/6sOwmyHQWPZeD6RMmGAhRu) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN), [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Ingin Kumiliki](https://open.spotify.com/album/33ecjCZaCJ4r7qf372LIbA) | 5:14 |
 | 27 | [Anggap Aku Ada](https://open.spotify.com/track/4zbLLlSlpQTixjfaSIWFd8) | [Canti](https://open.spotify.com/artist/58T2knDTjuxgJkxHH0mllQ) | [Anggap Aku Ada](https://open.spotify.com/album/0MZfRSiHi1Uq2x2hziT0Bg) | 3:47 |
-| 28 | [kota ini tak sama tanpamu \- Orchestra Version](https://open.spotify.com/track/1KuosMMOJ6Ow6snWbMdgl5) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [BSS & KITST \(Orchestra Version\)](https://open.spotify.com/album/7E9H5BTdl6B6OEmWeblwpc) | 4:37 |
+| 28 | [kota ini tak sama tanpamu \- Orchestra Version](https://open.spotify.com/track/1KuosMMOJ6Ow6snWbMdgl5) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [BSS & KITST \(Orchestra Version\)](https://open.spotify.com/album/7E9H5BTdl6B6OEmWeblwpc) | 4:37 |
 | 29 | [SUPER EKSIS](https://open.spotify.com/track/0bJYrzP1g2tIheeK5u87KG) | [Naufal Syachreza](https://open.spotify.com/artist/3x1vHC0kthfGxbY5w8AiRE) | [SUPER EKSIS](https://open.spotify.com/album/3qvLTnSkUrKbPNHVgiu4BG) | 2:37 |
 | 30 | [Okay?](https://open.spotify.com/track/23QCK4OTrPQbE7xHz8wbWn) | [Willy Winarko](https://open.spotify.com/artist/1ZF0HA5IH5YwG99h7RgYfI) | [Okay?](https://open.spotify.com/album/4RtutESt50Y65R7omrOO4c) | 4:25 |
 | 31 | [Menggebu\-Gebu](https://open.spotify.com/track/5sjjkP8hM6uH80jmbAFRGw) | [Timun Jelita](https://open.spotify.com/artist/06KrsM9Nic0tGaJRBrJbtn) | [Menggebu\-Gebu](https://open.spotify.com/album/1G8pIp2ddWNdoM8ApJJOMs) | 3:06 |

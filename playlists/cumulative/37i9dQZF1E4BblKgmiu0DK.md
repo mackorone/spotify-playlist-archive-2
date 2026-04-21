@@ -2,7 +2,7 @@
 
 ### [Renee Cassar Radio](https://open.spotify.com/playlist/37i9dQZF1E4BblKgmiu0DK)
 
-> With Die Mannequin, blazingfairis, The Donnas and more
+> With Die Mannequin, Cherri Bomb, The Donnas and more
 
 415 songs - 22 hr 7 min
 

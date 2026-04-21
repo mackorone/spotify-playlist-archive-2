@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Olivia Rodrigo, Tyla, Zara Larsson, Marsha Milan,  Andi Bernadee, DIOR 大穎, Firdhaus, Alpha, Mohsein Kush, mimpi\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,148 likes - 137 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,147 likes - 137 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 104 | [Thank You Beast \- 臺北富邦勇士林志傑引退主題曲](https://open.spotify.com/track/7v9j70TmpEEo40i4Fm4QkY) | [小男孩樂團](https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5) | [Thank You Beast \(臺北富邦勇士林志傑引退主題曲\)](https://open.spotify.com/album/1cERhoahWYtjxXhj0epOH2) | 3:53 |
 | 105 | [烏蘇拉貝殼還來哦。](https://open.spotify.com/track/7fPDAxgak1j0ijrOPvsrDB) | [RIKI](https://open.spotify.com/artist/03sz3uNFikpSX6YtwtXz1z) | [烏蘇拉貝殼還來哦。](https://open.spotify.com/album/6ZvPxMV86TwJNSfXce1FHp) | 3:26 |
 | 106 | [梨子 \(陪我遠征\)](https://open.spotify.com/track/2ZVEFm4ERqrkpnUMR8DqGs) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [梨子 \(陪我遠征\)](https://open.spotify.com/album/6yrWirbwT0jOYEGfB38UQr) | 4:15 |
-| 107 | [超越一萬英里](https://open.spotify.com/track/7utGOGNgnEAsdXboyKt0E0) | [李哲言](https://open.spotify.com/artist/1rooHl1l35Hn4PoipbtuSJ) | [超越一萬英里](https://open.spotify.com/album/1zLSxfyTn8cgmBkMytZr9v) | 3:26 |
+| 107 | [超越一萬英里](https://open.spotify.com/track/7utGOGNgnEAsdXboyKt0E0) | [李哲言 Jim Lee](https://open.spotify.com/artist/6vQtD1ijQwiMylKqw5BIi0) | [超越一萬英里](https://open.spotify.com/album/1zLSxfyTn8cgmBkMytZr9v) | 3:26 |
 | 108 | [VISION](https://open.spotify.com/track/7v8nOWlTd7E40J9ydKTMYJ) | [方品融](https://open.spotify.com/artist/4Z5hQV5kCmLtsWuhHvIVJ9) | [VISION](https://open.spotify.com/album/20vOQe0Bi0sBGsHr5jBYEZ) | 3:08 |
 | 109 | [Cocky \(Feat\. BIBI\)](https://open.spotify.com/track/0f6Es3lVLNI4niwc8QsHRF) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [mp3](https://open.spotify.com/album/4YOpO4iotuFawWYcUHvlYF) | 2:31 |
 | 110 | [No Comment](https://open.spotify.com/track/42MbqJJCyV2WbV0dSQcFU8) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [No Comment](https://open.spotify.com/album/5WHANzduQn4UiRZE8I52Vn) | 2:02 |

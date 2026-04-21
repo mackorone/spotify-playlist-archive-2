@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: Nakhane
+> Songs from LGBTQIA+ artists\. Cover: Slayyyter
 
-1,780 songs - 4 day 0 hr 30 min
+1,781 songs - 4 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1422,7 +1422,7 @@
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-06-10 | 2023-01-25 |
 | [SO HARD TO TELL](https://open.spotify.com/track/0895oFCAOSNQeUkRVR73bU) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:05 | 2023-03-07 | 2023-04-01 |
 | [SO HARD TO TELL](https://open.spotify.com/track/6t9Z0pVZOeGnjsp5JDYGQY) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [SO HARD TO TELL](https://open.spotify.com/album/1xXzkgC4BLs5RELfhh0pqC) | 3:05 | 2023-03-07 | 2023-03-26 |
-| [So What](https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [So What](https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC) | 4:31 | 2026-03-17 |  |
+| [So What](https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [So What](https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC) | 4:31 | 2026-03-17 | 2026-04-21 |
 | [Soft Rockstar](https://open.spotify.com/track/60DgZLH53ikzQHRveL4YUf) | [Harrison McClary](https://open.spotify.com/artist/2l8YMGXFLdgBJzXivf4xkT) | [Soft Rockstar](https://open.spotify.com/album/7bMD3FFiRR5tiWyZwPx0T6) | 3:01 | 2023-03-07 | 2023-04-01 |
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-02-07 | 2022-08-01 |
 | [Soho House Valet](https://open.spotify.com/track/46fAoFbdamHOXfj56G73GP) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Soho House Valet](https://open.spotify.com/album/4neyiUJ2i3oNELG9kBcBCa) | 4:02 | 2025-09-23 | 2025-10-01 |
@@ -1646,6 +1646,7 @@
 | [Waiting On You \- Recorded Live](https://open.spotify.com/track/4YRPoV5sVEWaIwbyOBrQMx) | [Lance Priester](https://open.spotify.com/artist/2c57pFinaNzjVJOUUqai3v) | [Waiting On You \(Recorded Live\)](https://open.spotify.com/album/48gFbqIM1Q8LQMAAfNC4hK) | 5:04 | 2023-08-08 | 2023-09-13 |
 | [WALK WALK](https://open.spotify.com/track/4AlJtmiBLtD2g6VGKhx6xF) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [WALK WALK](https://open.spotify.com/album/0zL56tDbTcYXWzXRoJDEEH) | 3:02 | 2024-07-09 | 2024-10-09 |
 | [Walk With Me \- Edit](https://open.spotify.com/track/25NtKz5cq30ec81fhDM9rU) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Walk With Me](https://open.spotify.com/album/6Gs1D2VbneEd0pwwKA7ivI) | 2:32 | 2024-12-04 | 2025-02-12 |
+| [Wannabeher](https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Wannabeher](https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9) | 2:34 | 2026-04-21 |  |
 | [Want Not A Need \(feat\. Baby Tate\)](https://open.spotify.com/track/5nq6Soe2LU65H9D4Tnw8WN) | [Kidd Kenn](https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Want Not A Need](https://open.spotify.com/album/4XRiMQkIa8STeNF84ReYpm) | 2:07 | 2022-07-31 | 2022-08-20 |
 | [War Games](https://open.spotify.com/track/2l2XifQktrsMK4pDoh8W5e) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [War Games](https://open.spotify.com/album/4oKjK6XhlZS7zOodd2Am2X) | 3:16 | 2025-09-09 | 2025-12-04 |
 | [Waste Of Space](https://open.spotify.com/track/0BDqmjPsTGs5Lwazq3Evay) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Waste Of Space](https://open.spotify.com/album/3J1NykEkJU34GlEPPPWLuZ) | 3:11 | 2022-07-15 | 2022-10-23 |

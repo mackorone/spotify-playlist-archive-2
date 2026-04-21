@@ -4,7 +4,7 @@
 
 > soft ambient + bird song for spring study sessions 🦜🌿 🌷
 
-62 songs - 2 hr 51 min
+68 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,9 @@
 | [Appalachia](https://open.spotify.com/track/2SINvQlELjLEpCxVZHjvrU) | [Divine Vibration](https://open.spotify.com/artist/0A4kwgSztRzeUGBrY8jR9c) | [Appalachia](https://open.spotify.com/album/261Bceoliberg12FO8LrNb) | 2:18 | 2026-04-03 |  |
 | [At Peace](https://open.spotify.com/track/1fwZhkpRv1Y268qIPIc8jb) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [At Peace](https://open.spotify.com/album/54NNXne0fPslTqwzdT6kec) | 2:23 | 2026-04-03 |  |
 | [Auralen](https://open.spotify.com/track/2gOA6HcLxjLjcwNmjDinkV) | [floating echoes](https://open.spotify.com/artist/1ai55OO2IZmkx2Eeze4bbe) | [Auralen](https://open.spotify.com/album/54ewdSbyx4aVHbDCrIt2Vz) | 3:30 | 2026-04-03 |  |
-| [Autonara](https://open.spotify.com/track/36oHfqmYAmD5hdvgXx4toZ) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Autonara](https://open.spotify.com/album/0QIEJuKkMKaikayK0gUarO) | 2:44 | 2026-04-03 |  |
+| [Autonara](https://open.spotify.com/track/36oHfqmYAmD5hdvgXx4toZ) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Autonara](https://open.spotify.com/album/0QIEJuKkMKaikayK0gUarO) | 2:44 | 2026-04-03 | 2026-04-21 |
+| [Autumn's Smile](https://open.spotify.com/track/7mC385guPq4FyofTi02pSk) | [Moon Projection](https://open.spotify.com/artist/4YtkgZhcqrY0yFTG9Fc6dH) | [Autumn's Smile](https://open.spotify.com/album/3qSAEqc7CUpv0kjZNMOwMv) | 3:06 | 2026-04-20 |  |
+| [Between Sound and Air](https://open.spotify.com/track/446YBnz1ukcDXTJ5sAIauj) | [Eternal Meadows](https://open.spotify.com/artist/0ADZFr36OypozKmbt7y0Bm), [Tish'](https://open.spotify.com/artist/2Snl7bD9P5FLeAMajWU3xx) | [Between Sound and Air](https://open.spotify.com/album/5nvXV765TUtmCP3qNqbn5O) | 2:34 | 2026-04-20 |  |
 | [Birds In The Cul\-De\-Sac](https://open.spotify.com/track/6Vv7pOvG9e8zFWOwIKJTqA) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds In The Cul\-De\-Sac](https://open.spotify.com/album/7sUigBnrLRsr8JD3oCVNfq) | 1:05 | 2026-04-03 |  |
 | [Birds Singing In The Park](https://open.spotify.com/track/6PvZUOTuc5K7hHawZv8FD9) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds Singing In The Park](https://open.spotify.com/album/2wdnVPooTFEX6h6N1OFoVV) | 1:02 | 2026-04-03 |  |
 | [Brush](https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 1:20 | 2026-04-03 |  |
@@ -28,6 +30,7 @@
 | [Far Away](https://open.spotify.com/track/3vnJ6sp5LZC3FrvWovd1Bn) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Far Away](https://open.spotify.com/album/1i1qbq7Toqfq84FClzRrUK) | 2:49 | 2026-04-03 |  |
 | [Forest Embrace](https://open.spotify.com/track/5vgeEKVZgiAKYJNxrv83yX) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Forest Embrace](https://open.spotify.com/album/37BwObBKhkgzkPWze8Gcr3) | 2:32 | 2026-04-03 |  |
 | [Forest Harmonies](https://open.spotify.com/track/5EGbkycj0Lblt69clO8vTM) | [Reitius Rex](https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd) | [Forest Harmonies](https://open.spotify.com/album/6obYCVTwZFsqvyxtNUqSy0) | 3:10 | 2026-04-03 |  |
+| [Forest Morning](https://open.spotify.com/track/15fQ0VWN2bXSJFUWgSyeUz) | [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Shared Pulse \(feat\. NATURE\)](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:25 | 2026-04-20 |  |
 | [Golden Feathers](https://open.spotify.com/track/2oSak1wBwlBR7AGDc0wO3T) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Golden Feathers](https://open.spotify.com/album/0rmGK1QUqNxXAPgVZermWj) | 2:47 | 2026-04-03 |  |
 | [Gravity](https://open.spotify.com/track/6SrGcbpvB216sv4XrtL2Pq) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Gravity](https://open.spotify.com/album/0RfMrZOANCZ6PHqPhXEomx) | 2:14 | 2026-04-03 |  |
 | [Groundedness](https://open.spotify.com/track/5bgc9zFfs6s83HiPxgNWGe) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Groundedness](https://open.spotify.com/album/6ceHarmzmqekuosF433eCu) | 3:14 | 2026-04-03 |  |
@@ -43,6 +46,7 @@
 | [Nectar Grass](https://open.spotify.com/track/5DPw5xtrfAh6QSzsAcjjjp) | [Omni Gardens](https://open.spotify.com/artist/1LCXHSFYrRpIN27BkeU4Pc) | [Amethyst: New Sounds from Moon Glyph Records](https://open.spotify.com/album/7klISdUs38HWDv8iKsan7g) | 1:57 | 2026-04-03 |  |
 | [Nemuru](https://open.spotify.com/track/7ijrcNdiapZN38vYSvavTz) | [Aydols](https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv) | [Nemuru](https://open.spotify.com/album/5FdIDykBzbqefQiBt0RByS) | 2:48 | 2026-04-03 |  |
 | [Nine Forests](https://open.spotify.com/track/7wcHkclQEQ4Sf9p9vWPHoy) | [Reitius Rex](https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd) | [Nine Forests](https://open.spotify.com/album/66q8ze9crmqKWcMg8no9Yu) | 2:50 | 2026-04-03 |  |
+| [Of Younger Days](https://open.spotify.com/track/53iiQlHiSIFooiJthGCaQ7) | [Sky's Memoirs](https://open.spotify.com/artist/7qMHZInw2IFsTan4o7lZKh) | [Of Younger Days](https://open.spotify.com/album/0cw8E6kq8cc7cEnh1dWXDh) | 3:17 | 2026-04-20 |  |
 | [Paladin Diversum](https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin Diversum](https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur) | 3:16 | 2026-04-03 |  |
 | [Part 9, Cheerful Robin](https://open.spotify.com/track/1c5rzsI4X8qSQfBC4HJz2o) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Nature Trail](https://open.spotify.com/album/6cov633iOmeh06UDKmjC0j) | 1:48 | 2026-04-03 |  |
 | [Pines in the Morning Haze](https://open.spotify.com/track/1DyC1vurKh8kk0TatwwWI7) | [Ruttik Dhakate](https://open.spotify.com/artist/4vPlN4GEfqIPoiwwsCxZl3) | [Pines in the Morning Haze](https://open.spotify.com/album/6LyH5nHcrzjZsnTIuaii6F) | 2:51 | 2026-04-03 |  |
@@ -50,6 +54,7 @@
 | [Remains](https://open.spotify.com/track/28RxgtMOVactas2AQJHzWv) | [Kharma Initiative](https://open.spotify.com/artist/7BKXObCKvCeZw5tWOFYWe7) | [Remains](https://open.spotify.com/album/0YBXHee7J6d8CjHX2LtnvV) | 2:23 | 2026-04-03 |  |
 | [Restart](https://open.spotify.com/track/7bUtYZp5Nx93HaPPyzk64o) | [Marc Westfield](https://open.spotify.com/artist/5GbWQkreLZ1Q0anHtK93UJ) | [Restart](https://open.spotify.com/album/4owhXLeFbrS6TxGAIWF3uJ) | 2:37 | 2026-04-03 |  |
 | [Searching](https://open.spotify.com/track/3XXlcpXxipgbGjHgL0lVIc) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Searching](https://open.spotify.com/album/4hRsLzpykyNTN2HhzpjSqZ) | 2:32 | 2026-04-03 |  |
+| [Second Bloom](https://open.spotify.com/track/0ixuiRpBn1pTiMeUVTkv5V) | [Brian Stiroh](https://open.spotify.com/artist/5aUFo1R5haVq3g8Sq7msfS) | [Second Bloom](https://open.spotify.com/album/1Gezg5ewcx0RjhifpKk35t) | 2:17 | 2026-04-20 |  |
 | [Sequoia](https://open.spotify.com/track/7v42x72ly33YQ8SqOPdU3j) | [Andrea Accorsi](https://open.spotify.com/artist/3qJhX4vt6z2W7C2SsDHiAK) | [Lost Forest](https://open.spotify.com/album/03ojvd5w41b0GS99JP59ki) | 2:51 | 2026-04-03 |  |
 | [Soft and Secluded](https://open.spotify.com/track/3pm88ndOSvKfDbC28FGb7E) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Soft and Secluded](https://open.spotify.com/album/4EqmSSOmcAXzvtT18N3mUZ) | 3:00 | 2026-04-03 |  |
 | [Soft Lights](https://open.spotify.com/track/5wCsBYlomdTdpCMYoguRCg) | [Astral Ocean](https://open.spotify.com/artist/3bV8AeagkRMuP7GwSrK4J6) | [Soft Lights](https://open.spotify.com/album/2Xj4CDF8lq5dYHZEPCsrUd) | 3:02 | 2026-04-03 |  |
@@ -65,6 +70,7 @@
 | [Uccellissimo](https://open.spotify.com/track/3Oo585vzEl49GUm1WVxjtw) | [Diana Lovett](https://open.spotify.com/artist/02VXgufGr8gwuryPtqvn1w) | [Uccellissimo](https://open.spotify.com/album/47TkhnmkLO1M1QBjNM5FX2) | 2:47 | 2026-04-03 |  |
 | [Veil of Sylva](https://open.spotify.com/track/0deuii5DgfxodJswCQicZb) | [Far North](https://open.spotify.com/artist/5PsHx1QHRwGpw7tIvFVI9P) | [Veil of Sylva](https://open.spotify.com/album/2pvacHIi2kDaYoIxREZo79) | 2:22 | 2026-04-03 |  |
 | [Verdant Breath](https://open.spotify.com/track/1ELwtIRAPr3gLgprbWjsmm) | [Miaquirele](https://open.spotify.com/artist/3pmTNYkFYBysqyG5MzRujA) | [Verdant Breath](https://open.spotify.com/album/0AGD1E4F8e2GOAnZ48kFx9) | 2:37 | 2026-04-03 |  |
+| [Weightless](https://open.spotify.com/track/6vs3zn3RZXdnehXKsXhDmJ) | [Graphity](https://open.spotify.com/artist/4BFOUasxzvjSS6N2zvp4Zd), [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Shared Pulse \(feat\. NATURE\)](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:48 | 2026-04-20 |  |
 | [Whispers in the Pine Forest](https://open.spotify.com/track/6p6gKm0X8RdwcKx9l8Zrhp) | [Veldt Echoes](https://open.spotify.com/artist/1pKgi9vX4GjRUTo6tSt0Fd) | [Whispers in the Pine Forest](https://open.spotify.com/album/34l4g7qFPCUw2nwvMXw8Oa) | 2:31 | 2026-04-03 |  |
 | [Willow](https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Willow](https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC) | 2:38 | 2026-04-03 |  |
 | [Woodpecker](https://open.spotify.com/track/65PeqOI1OtIQXNyemz90nE) | [Andrea Accorsi](https://open.spotify.com/artist/3qJhX4vt6z2W7C2SsDHiAK) | [Quiet Foliage](https://open.spotify.com/album/1UtZGHL1DrU1G7UiCd0jvq) | 2:47 | 2026-04-03 |  |

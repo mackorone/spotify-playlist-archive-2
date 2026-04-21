@@ -17140,7 +17140,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 102549,
       "name": "Friendzone:(",
       "url": "https://open.spotify.com/track/6A0MYQs8BhzqkGNL687WpS"
@@ -28008,7 +28008,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 315151,
       "name": "Mix Amor Sincero",
       "url": "https://open.spotify.com/track/0CVPO9XzMCCyfdXZqF4rqB"
@@ -39970,7 +39970,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 160000,
       "name": "Skokka",
       "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
@@ -47246,6 +47246,24 @@
       "duration_ms": 153868,
       "name": "Vestido Rojo",
       "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"
+    },
+    {
+      "album": {
+        "name": "Vete Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2hBcwvWPusK2oyJTHNgi6N"
+      },
+      "artists": [
+        {
+          "name": "El New Cartel Cumbiero",
+          "url": "https://open.spotify.com/artist/1JuPQhsmzYjQTxvg6UmjsZ"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204551,
+      "name": "Vete Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4tnox7LE7pBFTRp0L7MsE0"
     },
     {
       "album": {

@@ -29045,6 +29045,32 @@
     },
     {
       "album": {
+        "name": "King of Red Lions (lofi)",
+        "url": "https://open.spotify.com/album/1w8Gmw60baKUMUBtD9F9dG"
+      },
+      "artists": [
+        {
+          "name": "Angry Apple",
+          "url": "https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+        },
+        {
+          "name": "The Deku Trio",
+          "url": "https://open.spotify.com/artist/5et56haDj7EgBmGrXG8uex"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149677,
+      "name": "Dorsal",
+      "url": "https://open.spotify.com/track/3MpqmxDNHXRl4CXYmuFLLa"
+    },
+    {
+      "album": {
         "name": "Double Back",
         "url": "https://open.spotify.com/album/4XyQutX9q6VfWzraTq8xX2"
       },
@@ -44000,7 +44026,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 98909,
       "name": "Great Reef",
       "url": "https://open.spotify.com/track/24kfLW2L1Log1KXrxHdFWw"
@@ -54376,6 +54402,32 @@
       "duration_ms": 121481,
       "name": "kindness",
       "url": "https://open.spotify.com/track/2KinyKmIzjP8uhHpAMMngz"
+    },
+    {
+      "album": {
+        "name": "King of Red Lions (lofi)",
+        "url": "https://open.spotify.com/album/1w8Gmw60baKUMUBtD9F9dG"
+      },
+      "artists": [
+        {
+          "name": "Angry Apple",
+          "url": "https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+        },
+        {
+          "name": "The Deku Trio",
+          "url": "https://open.spotify.com/artist/5et56haDj7EgBmGrXG8uex"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119557,
+      "name": "King of Red Lions (lofi)",
+      "url": "https://open.spotify.com/track/1Q9jyEyeyGKTRua3GtW0DH"
     },
     {
       "album": {
@@ -79214,7 +79266,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 119480,
       "name": "Pastel Mountains",
       "url": "https://open.spotify.com/track/4jFhp9Wldtpf45kEaovOBE"

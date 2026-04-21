@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Yeri Mua y Alem\u00e1n en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Rich Vagos y Alzada en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -828,7 +828,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 208617,
       "name": "AirForce",
       "url": "https://open.spotify.com/track/7pUYW8lypYiA4XoC0Ty2Ih"
@@ -1014,6 +1014,60 @@
       "duration_ms": 237142,
       "name": "Alv T\u00fa",
       "url": "https://open.spotify.com/track/2OiJM0rjhBQbCWDrsy1dmM"
+    },
+    {
+      "album": {
+        "name": "Alzypher Alzada x Rich Vagos",
+        "url": "https://open.spotify.com/album/31SzZE3MAZdYuGwv9gBkLt"
+      },
+      "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396705,
+      "name": "Alzypher Alzada x Rich Vagos",
+      "url": "https://open.spotify.com/track/71EefoxxHKdjSQ33bOoLSN"
     },
     {
       "album": {
@@ -2741,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "BRASILE\u00d1O",
+        "url": "https://open.spotify.com/album/2ly1Lg2n2ElWnJ2qZyD9V3"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "BRASILE\u00d1O",
+      "url": "https://open.spotify.com/track/3XjcZ7YSNTkhDUNwJ64ax8"
+    },
+    {
+      "album": {
         "name": "Brillo de Filero",
         "url": "https://open.spotify.com/album/68vSgx2BvXQB1umM9GY7DC"
       },
@@ -2881,6 +2953,32 @@
     },
     {
       "album": {
+        "name": "Visceral",
+        "url": "https://open.spotify.com/album/1qRV60OQoHqrvVhnFkOXYq"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        },
+        {
+          "name": "Drama Theme",
+          "url": "https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207093,
+      "name": "Buitres y Hienas",
+      "url": "https://open.spotify.com/track/7q0ELF5dNtkifF53RTrJo5"
+    },
+    {
+      "album": {
         "name": "Aleph",
         "url": "https://open.spotify.com/album/1Wb0qgJUU5p96C5hBuA95G"
       },
@@ -2966,7 +3064,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 219154,
       "name": "C-KGAN",
       "url": "https://open.spotify.com/track/2idA2HiWT3llkzDN3eL7eG"
@@ -6091,6 +6189,24 @@
     },
     {
       "album": {
+        "name": "El Padrino",
+        "url": "https://open.spotify.com/album/2plpW1EV8fF0vMnnpeTOw9"
+      },
+      "artists": [
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248750,
+      "name": "El Padrino",
+      "url": "https://open.spotify.com/track/4IBtLBNU4GRYpvDq4FrSWc"
+    },
+    {
+      "album": {
         "name": "El Paso",
         "url": "https://open.spotify.com/album/5DgmRYNaI2aZk9s6ScwypE"
       },
@@ -6358,7 +6474,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 208941,
       "name": "Elemento Confidencial",
       "url": "https://open.spotify.com/track/3TCYdAQIyrPpqbP3om9N0G"
@@ -11879,6 +11995,24 @@
     },
     {
       "album": {
+        "name": "Mil Caras",
+        "url": "https://open.spotify.com/album/3afEtTNGgJ9KySBc228VbA"
+      },
+      "artists": [
+        {
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196640,
+      "name": "Mil Caras",
+      "url": "https://open.spotify.com/track/0mK3maRXWZqhKGuV3ISIZK"
+    },
+    {
+      "album": {
         "name": "Mirando al Cielo",
         "url": "https://open.spotify.com/album/4U6lt3vknnf5euF1I0WKwh"
       },
@@ -14732,7 +14866,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 232563,
       "name": "Primera Advertencia",
       "url": "https://open.spotify.com/track/3TBydtJq4rmiHgceU2p8Bk"
@@ -14984,7 +15118,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 199200,
       "name": "Que La Vida Duela",
       "url": "https://open.spotify.com/track/40tJZWIwSqo7tuHfpBeXdq"
@@ -19246,7 +19380,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 149866,
       "name": "Wacha Trucha",
       "url": "https://open.spotify.com/track/5eRIQwGFRD7NfdIanG6GNB"
@@ -19688,6 +19822,24 @@
       "duration_ms": 148466,
       "name": "Zona de Confort - C'est la mort",
       "url": "https://open.spotify.com/track/500dEk4B8u8zcftKqUQIVu"
+    },
+    {
+      "album": {
+        "name": "ZXM-YR Mami",
+        "url": "https://open.spotify.com/album/1lQGIOE4Buny19S91SjKKy"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "ZXM-YR Mami",
+      "url": "https://open.spotify.com/track/7GoNA4Sbq9RDycYtiKe5dF"
     },
     {
       "album": {

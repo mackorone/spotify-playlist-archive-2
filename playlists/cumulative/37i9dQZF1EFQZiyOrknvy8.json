@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "BRUTAL PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244809,
+      "name": "Fruto do Tempo",
+      "url": "https://open.spotify.com/track/1cFg4Gt6DLHOKm8Iya0kBQ"
+    },
+    {
+      "album": {
         "name": "F\u00fcr den Himmel durch die H\u00f6lle (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa"
       },

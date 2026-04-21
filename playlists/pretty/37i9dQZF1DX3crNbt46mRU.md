@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Tyla, Zara Larsson, Sido, GIMS & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,775 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,776 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 92 | [Golden](https://open.spotify.com/track/73ob1BOoxobzYqlnwSVmJv) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Golden](https://open.spotify.com/album/5M2gAdU3TtwlDucUL7YFQf) | 2:45 |
 | 93 | [Versailles](https://open.spotify.com/track/1RLRhYJBhzwhV3YmHWaeXn) | [Sivilian](https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI) | [Versailles](https://open.spotify.com/album/4K6V5ncucugpMxxM9zqYBI) | 2:35 |
 | 94 | [N.Y.F.F.](https://open.spotify.com/track/05MKzSVIFWyzD0tLw4jKaL) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [N.Y.F.F.](https://open.spotify.com/album/6j8bGTE15Qqce0qRNJmRDp) | 2:25 |
-| 95 | [Fotopaparazzi \(ft\. Jon Z\)](https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Fotopaparazzi \(ft\. Jon Z\)](https://open.spotify.com/album/0yJcjogROmyReERdHLtDuq) | 2:20 |
+| 95 | [Fotopaparazzi](https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Fotopaparazzi](https://open.spotify.com/album/0yJcjogROmyReERdHLtDuq) | 2:20 |
 | 96 | [Rhythm Unknown](https://open.spotify.com/track/1WeM5XntFJnLceZ7RVAcgo) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [Rhythm Unknown](https://open.spotify.com/album/6t4d4ZN2JjuEzWgmg3b3yK) | 3:00 |
 | 97 | [EVERYTIME YOU TOUCH ME \(LOVE SO HIGH\)](https://open.spotify.com/track/55IYCNhm9GCHztUASOzqzx) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [KING BOOO!](https://open.spotify.com/artist/4Qazcx4lvMEqKhOspj4Mb9) | [EVERYTIME YOU TOUCH ME \(LOVE SO HIGH\)](https://open.spotify.com/album/3jXxz7NswFElE4ToknP8AE) | 3:36 |
 | 98 | [Übelst Verliebt](https://open.spotify.com/track/6sTtxqKe4aTGP2Ur8WosDx) | [GLIMMERR](https://open.spotify.com/artist/14XQ2jMvDaRdt8wicnAdIA) | [Übelst Verliebt](https://open.spotify.com/album/2n6EgCBxdt4b606Z426Ezd) | 3:21 |

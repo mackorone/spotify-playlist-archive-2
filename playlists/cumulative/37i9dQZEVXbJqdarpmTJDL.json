@@ -2434,7 +2434,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "AKATE",
       "url": "https://open.spotify.com/track/5wu3OoKbAM890BG0UwMySs"
@@ -37061,6 +37061,28 @@
     },
     {
       "album": {
+        "name": "Kingpin 2",
+        "url": "https://open.spotify.com/album/0WMnNM1kfwzu2fU5FTYc3O"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "Nobody Safe",
+      "url": "https://open.spotify.com/track/4TyZSQB6hguPzaME5ooF6y"
+    },
+    {
+      "album": {
         "name": "Non Stop",
         "url": "https://open.spotify.com/album/4aDepfJMMyKofO3FWio31h"
       },
@@ -40162,7 +40184,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "PARADISO",
       "url": "https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN"
@@ -44490,7 +44512,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 143677,
       "name": "Rebetiko",
       "url": "https://open.spotify.com/track/4oHhqNrZtxCPqlTnCsAE92"
@@ -48384,7 +48406,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 168428,
       "name": "SOSA",
       "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
@@ -57702,7 +57724,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 185379,
       "name": "YAMAHA",
       "url": "https://open.spotify.com/track/5UGJAKKS9r5GJkOEofFLaA"

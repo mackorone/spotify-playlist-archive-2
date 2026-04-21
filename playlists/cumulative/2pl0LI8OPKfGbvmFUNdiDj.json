@@ -3831,6 +3831,28 @@
     },
     {
       "album": {
+        "name": "Latente",
+        "url": "https://open.spotify.com/album/4kbpB8ADo8Zb0HTaAKwDyy"
+      },
+      "artists": [
+        {
+          "name": "No Hana",
+          "url": "https://open.spotify.com/artist/2O6qXZs283cofBBPPxbMAT"
+        },
+        {
+          "name": "Diana Tagle",
+          "url": "https://open.spotify.com/artist/2S6LlZoAlTysVqqOluxHWW"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "Latente",
+      "url": "https://open.spotify.com/track/3ujkaYSzU2tRuRCnyB5w8e"
+    },
+    {
+      "album": {
         "name": "Latina BB",
         "url": "https://open.spotify.com/album/19kXzogdcK0IQAKGUI3Je3"
       },

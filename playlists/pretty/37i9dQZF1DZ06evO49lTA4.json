@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 925761,
+  "num_followers": 925866,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeLJgAAAAADyMmvr9w5jiO4ccBgPUjFS",
+  "snapshot_id": "aeQbAAAAAAAi6D0X8thnj4xydCGcF6nH",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 183677,
-      "name": "Daytona 499",
-      "url": "https://open.spotify.com/track/5WqHkU4Y6BfDeI4WXnBQqk"
+      "duration_ms": 221756,
+      "name": "Tell 'Em About Tonight",
+      "url": "https://open.spotify.com/track/6OxutlGyuRP0sWs9BbcIES"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 221756,
-      "name": "Tell 'Em About Tonight",
-      "url": "https://open.spotify.com/track/6OxutlGyuRP0sWs9BbcIES"
+      "duration_ms": 183677,
+      "name": "Daytona 499",
+      "url": "https://open.spotify.com/track/5WqHkU4Y6BfDeI4WXnBQqk"
     },
     {
       "added_at": null,

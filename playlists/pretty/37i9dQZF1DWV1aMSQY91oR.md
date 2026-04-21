@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: NorthSideBenji
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,709 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,719 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 16 | [TEACH YOU HOW TO LUH ME](https://open.spotify.com/track/6AwyXLzD18HptZPpbhrssp) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [TEACH YOU HOW TO LUH ME](https://open.spotify.com/album/7DQF3OuLxkjvqDvzS1tBM5) | 4:00 |
 | 17 | [Chicken Talkin Bastard](https://open.spotify.com/track/5SK7SRwN7AGI6qf1bc9qP4) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Chicken Talkin Bastard](https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R) | 2:49 |
 | 18 | [DETOUR](https://open.spotify.com/track/7HAJH2ko9BQy6tWhua95kj) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [DEUCES](https://open.spotify.com/album/2emwb8Cm7xUs3f7EILMQGO) | 2:04 |
-| 19 | [TSOD](https://open.spotify.com/track/2cpufCD1b80iCZZFPvj8I2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP), [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [TSOD](https://open.spotify.com/album/5jSp0SGH5VYRg2yKVY6bjq) | 3:25 |
+| 19 | [TSOD](https://open.spotify.com/track/2cpufCD1b80iCZZFPvj8I2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP), [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [TSOD](https://open.spotify.com/album/5jSp0SGH5VYRg2yKVY6bjq) | 4:26 |
 | 20 | [THE GOSPEL](https://open.spotify.com/track/4RF4iHAWjpMgZlYKTUKG3L) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [SAME DIFFERENCE](https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS) | 3:12 |
 | 21 | [But I’m Playing](https://open.spotify.com/track/4sAAdoq8mNbGJ8vx7PFmXq) | [Derin Falana](https://open.spotify.com/artist/5yjfk1YZOcpDKqLEgvE9WG) | [But I’m Playing](https://open.spotify.com/album/32ciGCNJ4u5Pl72FsxKX9v) | 2:43 |
 | 22 | [Spin](https://open.spotify.com/track/3Y915GAqFaP9hO4VDip2ud) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Spin](https://open.spotify.com/album/5Nj4Y2qCEQyiGEX6nm24Mx) | 4:15 |

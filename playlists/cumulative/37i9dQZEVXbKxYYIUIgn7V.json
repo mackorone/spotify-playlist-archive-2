@@ -1169,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "67 (Six Seven)",
+        "url": "https://open.spotify.com/album/6aswOmAGHTLueEXsSjITkw"
+      },
+      "artists": [
+        {
+          "name": "Gazan",
+          "url": "https://open.spotify.com/artist/4Qdtzv8titXp66B9nwAstz"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83250,
+      "name": "67 (Six Seven)",
+      "url": "https://open.spotify.com/track/7wdSCi9346RbeHjFsB6TFX"
+    },
+    {
+      "album": {
         "name": "67 Merry Rizzmas",
         "url": "https://open.spotify.com/album/3M9tJ9aUDvuhRPPdcGlFPd"
       },
@@ -1924,6 +1942,24 @@
       "duration_ms": 159428,
       "name": "Achilles",
       "url": "https://open.spotify.com/track/1Yj9IP75nNp6JntNYOxrzH"
+    },
+    {
+      "album": {
+        "name": "Achy Breaky (Special Version)",
+        "url": "https://open.spotify.com/album/5cI33PJQOxAF4Em2K2jvkh"
+      },
+      "artists": [
+        {
+          "name": "Meerkat Vibes",
+          "url": "https://open.spotify.com/artist/2SdIsilvSuyjZZ1b1xw6VT"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194861,
+      "name": "Achy Breaky - Special Version",
+      "url": "https://open.spotify.com/track/291GLgvhwFh1Wj5qIiteSJ"
     },
     {
       "album": {
@@ -31746,7 +31782,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 136697,
       "name": "Like a Cigarette",
       "url": "https://open.spotify.com/track/6XtxqqoCEogLvL4WL8eKnc"
@@ -34580,7 +34616,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 369863,
       "name": "Mata Zyklek",
       "url": "https://open.spotify.com/track/0gOaJ646z6OJv4lLDpjfDt"
@@ -43100,7 +43136,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 157377,
       "name": "Que pasa",
       "url": "https://open.spotify.com/track/3Nv2l3iA61TAHWkp6Cff0L"
@@ -61356,7 +61392,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 264074,
       "name": "\u010cista ljubav",
       "url": "https://open.spotify.com/track/2SwOSFOZV8lJoOgDgeLgUr"

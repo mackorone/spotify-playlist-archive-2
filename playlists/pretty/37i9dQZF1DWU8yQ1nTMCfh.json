@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
-  "num_followers": 294338,
+  "num_followers": 294306,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2026-04-17 04:04:10",
       "album": {
+        "name": "Pel\u00edculas De Acci\u00f3n",
+        "url": "https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Pel\u00edculas De Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh"
+    },
+    {
+      "added_at": "2026-04-17 04:04:10",
+      "album": {
         "name": "El Reloj Me Miente",
         "url": "https://open.spotify.com/album/5OLRpRcnGYLR1u0HFy0DTk"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 223274,
       "name": "El Reloj Me Miente",
       "url": "https://open.spotify.com/track/0OiQup7RDj8XgOe4yHIDpP"
-    },
-    {
-      "added_at": "2026-04-17 04:04:10",
-      "album": {
-        "name": "Pel\u00edculas De Acci\u00f3n",
-        "url": "https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Pel\u00edculas De Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh"
     },
     {
       "added_at": "2026-04-17 04:04:10",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-04-17 04:04:10",
       "album": {
+        "name": "\u00bfD\u00f3nde est\u00e1 la ONU cuando m\u00e1s la necesitas?",
+        "url": "https://open.spotify.com/album/0MIm8YYJllama2KsU9urpg"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        }
+      ],
+      "duration_ms": 197383,
+      "name": "\u00bfD\u00f3nde est\u00e1 la ONU cuando m\u00e1s la necesitas?",
+      "url": "https://open.spotify.com/track/1MD5h9LOBrvEw64rkbv7sa"
+    },
+    {
+      "added_at": "2026-04-17 04:04:10",
+      "album": {
         "name": "S\u00e9 Que Puedo Hacerlo",
         "url": "https://open.spotify.com/album/3k9lkziELrjBbgpDAGlOqH"
       },
@@ -395,6 +411,26 @@
       "duration_ms": 162454,
       "name": "Perro Callejero",
       "url": "https://open.spotify.com/track/04S0UAl019CON66pBU2C2G"
+    },
+    {
+      "added_at": "2026-04-17 04:04:10",
+      "album": {
+        "name": "M\u00e1quina del Tiempo",
+        "url": "https://open.spotify.com/album/2MyOEXK1SPgLVqkmrMGlnD"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 247412,
+      "name": "M\u00e1quina del Tiempo",
+      "url": "https://open.spotify.com/track/4j4nMKhrAES1zlBrX6CQ8Q"
     },
     {
       "added_at": "2026-04-17 04:04:10",
@@ -555,6 +591,26 @@
     {
       "added_at": "2026-04-17 04:04:10",
       "album": {
+        "name": "primera clase",
+        "url": "https://open.spotify.com/album/6SiEcSRLpI7eWaYCzRnZx1"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        },
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "primera clase",
+      "url": "https://open.spotify.com/track/4cg2lesjwza3wlwxF7r8eI"
+    },
+    {
+      "added_at": "2026-04-17 04:04:10",
+      "album": {
         "name": "Joderse La Vida",
         "url": "https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7"
       },
@@ -567,6 +623,22 @@
       "duration_ms": 165838,
       "name": "Joderse La Vida",
       "url": "https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm"
+    },
+    {
+      "added_at": "2026-04-17 04:04:10",
+      "album": {
+        "name": "0%",
+        "url": "https://open.spotify.com/album/7mZ4SWBx5IMJLXqQ2Fdx6W"
+      },
+      "artists": [
+        {
+          "name": "Winona Riders",
+          "url": "https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp"
+        }
+      ],
+      "duration_ms": 130114,
+      "name": "El Rock and Roll est\u00e1 matando mi Rock and Roll",
+      "url": "https://open.spotify.com/track/64ZOcVsJlDloqNgApIQrzt"
     },
     {
       "added_at": "2026-04-17 04:04:10",
@@ -623,22 +695,6 @@
       "duration_ms": 203333,
       "name": "En El Aire",
       "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
-    },
-    {
-      "added_at": "2026-04-17 04:04:10",
-      "album": {
-        "name": "0%",
-        "url": "https://open.spotify.com/album/7mZ4SWBx5IMJLXqQ2Fdx6W"
-      },
-      "artists": [
-        {
-          "name": "Winona Riders",
-          "url": "https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp"
-        }
-      ],
-      "duration_ms": 130114,
-      "name": "El Rock and Roll est\u00e1 matando mi Rock and Roll",
-      "url": "https://open.spotify.com/track/64ZOcVsJlDloqNgApIQrzt"
     },
     {
       "added_at": "2026-04-17 04:04:10",
@@ -707,22 +763,6 @@
     {
       "added_at": "2026-04-17 04:04:10",
       "album": {
-        "name": "Por Si Ma\u00f1ana No Estoy",
-        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 154509,
-      "name": "Por Si Ma\u00f1ana No Estoy",
-      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
-    },
-    {
-      "added_at": "2026-04-17 04:04:10",
-      "album": {
         "name": "Brujer\u00eda",
         "url": "https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0"
       },
@@ -739,6 +779,22 @@
       "duration_ms": 173747,
       "name": "Brujer\u00eda",
       "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
+    },
+    {
+      "added_at": "2026-04-17 04:04:10",
+      "album": {
+        "name": "Por Si Ma\u00f1ana No Estoy",
+        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 154509,
+      "name": "Por Si Ma\u00f1ana No Estoy",
+      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
     },
     {
       "added_at": "2026-04-17 04:04:10",
@@ -835,70 +891,18 @@
     {
       "added_at": "2026-04-17 04:04:10",
       "album": {
-        "name": "Vida Cotidiana",
-        "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
+        "name": "Qu\u00e9 Rocker",
+        "url": "https://open.spotify.com/album/3cnwciLwmd7auNlyFCrRVq"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
         }
       ],
-      "duration_ms": 215800,
-      "name": "Mayo",
-      "url": "https://open.spotify.com/track/04I96rrYFcOt1WprFHxFZg"
-    },
-    {
-      "added_at": "2026-04-17 04:04:10",
-      "album": {
-        "name": "Qu\u00e9date un Momento",
-        "url": "https://open.spotify.com/album/5kbmefnSNwoRa6H8fGe4C1"
-      },
-      "artists": [
-        {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        }
-      ],
-      "duration_ms": 183441,
-      "name": "Qu\u00e9date un Momento",
-      "url": "https://open.spotify.com/track/4wP3CULcMp6YIWJnEw4SVA"
-    },
-    {
-      "added_at": "2026-04-17 04:04:10",
-      "album": {
-        "name": "Despertar",
-        "url": "https://open.spotify.com/album/6HeMGetB5gKBMVuYsmOn3g"
-      },
-      "artists": [
-        {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
-        },
-        {
-          "name": "Maria Arnal",
-          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
-        }
-      ],
-      "duration_ms": 234115,
-      "name": "Despertar",
-      "url": "https://open.spotify.com/track/52j7qytl2Cp3gM811huoLr"
-    },
-    {
-      "added_at": "2026-04-17 04:04:10",
-      "album": {
-        "name": "Imit\u00e1ndote",
-        "url": "https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 174123,
-      "name": "Imit\u00e1ndote",
-      "url": "https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn"
+      "duration_ms": 180874,
+      "name": "Qu\u00e9 Rocker",
+      "url": "https://open.spotify.com/track/4DJZiHbEvr3qoGJcDHLxLZ"
     }
   ],
   "unique_name": "Rock Total",

@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: The Plot In You
 
-1,570 songs - 3 day 23 hr 26 min
+1,572 songs - 3 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,7 +518,7 @@
 | [fading faster](https://open.spotify.com/track/5FUPL6Nis7lHEMWsgar3gV) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [liminal](https://open.spotify.com/album/0KgQQBn420fOjGTUuOkO7p) | 2:56 | 2025-11-21 | 2025-12-13 |
 | [Fail Me](https://open.spotify.com/track/3upMhQ1k7fqbptA2eKqE1V) | [Thousand Thoughts](https://open.spotify.com/artist/27BickAUDQz5wziY0VOA2S), [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Fail Me](https://open.spotify.com/album/6DQlvYwVg564TonxkvAEzl) | 2:59 | 2021-12-17 | 2022-01-22 |
 | [Failstate](https://open.spotify.com/track/3azEr1hhru3U90cc8Y2aH8) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Failstate](https://open.spotify.com/album/6FrjXIoevSDuqDYvuxvGkT) | 3:02 | 2024-08-12 | 2024-12-19 |
-| [Failure](https://open.spotify.com/track/37yw6KxtQvrEFoGgaPKDk1) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Failure](https://open.spotify.com/album/3B0vlKulcSXR2awd0t7JUU) | 4:01 | 2025-10-24 |  |
+| [Failure](https://open.spotify.com/track/37yw6KxtQvrEFoGgaPKDk1) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Failure](https://open.spotify.com/album/3B0vlKulcSXR2awd0t7JUU) | 4:01 | 2025-10-24 | 2026-04-21 |
 | [Fake](https://open.spotify.com/track/3mRzGcJEALdNzIAtB6zNGC) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Fake](https://open.spotify.com/album/1ZpQ90fibmw05I0xYADvAL) | 3:35 | 2022-07-13 | 2022-07-23 |
 | [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 | 2023-07-28 | 2024-06-11 |
 | [Fallen](https://open.spotify.com/track/3V2JopzYSHs1Wfiz2FqByE) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [Fallen](https://open.spotify.com/album/5s13Ap3ObeHAAPyUk4ihRV) | 3:11 | 2025-08-22 | 2025-09-20 |
@@ -789,6 +789,7 @@
 | [Lamb to the Slaughter](https://open.spotify.com/track/2PmKN9dJVJEwDuO9LI7AOs) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Lamb to the Slaughter](https://open.spotify.com/album/7G7lc2qjk47fMXGAYiec2n) | 3:50 | 2022-07-13 | 2022-07-22 |
 | [Lately](https://open.spotify.com/track/0AC1yTsq1EwkiGTr7x1c1W) | [SETYØURSAILS](https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk) | [Lately](https://open.spotify.com/album/2Z7ndhDfv24Ia5kszmZjSa) | 2:57 | 2024-03-08 | 2024-06-05 |
 | [LEECH](https://open.spotify.com/track/2uiCofKLDv60IdwsKc7yxo) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [LEECH](https://open.spotify.com/album/2cNUcSOqhUZoOoGluEENZV) | 3:53 | 2025-01-17 | 2025-05-11 |
+| [Leech](https://open.spotify.com/track/7t8LIf1JmKKigK3dnrEesY) | [What Lies Below](https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj) | [Leech](https://open.spotify.com/album/4nwevfBEXZ49kbcAbivuo4) | 2:10 | 2026-04-17 |  |
 | [Leeches](https://open.spotify.com/track/2ZZt9Z2xrzfn6fQmTVTsyZ) | [Stain The Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [Honey Rot](https://open.spotify.com/album/0yT3QoSFz7sUq1PqK3QRTS) | 2:09 | 2025-12-12 | 2026-03-11 |
 | [Left Behind](https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Left Behind](https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM) | 3:26 | 2023-02-10 | 2023-09-16 |
 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 | 2021-12-17 | 2022-04-02 |
@@ -1445,6 +1446,7 @@
 | [Uncontrolled](https://open.spotify.com/track/4Cpsa0GfBpGJiwD6kPbhj5) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Uncontrolled](https://open.spotify.com/album/4rL4tRslXGvAqylCnz4srE) | 3:43 | 2024-09-20 | 2025-04-27 |
 | [under your skin](https://open.spotify.com/track/2rBbRERHIt7Mn7mpz4HC4h) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [under your skin](https://open.spotify.com/album/0tqVAQUdpTqHiMZzSAC5O1) | 3:35 | 2025-12-12 |  |
 | [Underrated](https://open.spotify.com/track/0GOyA0rySAzlatVK569o6V) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Underrated](https://open.spotify.com/album/1aL2qEsGMIWlw1fcwzPkFe) | 3:04 | 2024-05-10 | 2024-12-19 |
+| [Undone](https://open.spotify.com/track/6FlHcq0ud7sbWS4cIPajY1) | [Out Of Vision](https://open.spotify.com/artist/1SmSfOk3hocpRXSS4Azn58) | [Undone](https://open.spotify.com/album/4mEtOSZsk3vPO0o4ljql4v) | 2:48 | 2026-04-17 |  |
 | [Unforgivable](https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Unforgivable](https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad) | 3:44 | 2024-05-10 | 2024-07-13 |
 | [UNGØD](https://open.spotify.com/track/42a6jv8vPZSdldRDalkGfT) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [UNGØD](https://open.spotify.com/album/350e8e4wldgOMcThEOffvj) | 3:47 | 2024-03-08 | 2024-06-05 |
 | [Unholy](https://open.spotify.com/track/1QposYqMrnrYKWRUqQT1WW) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Unholy](https://open.spotify.com/album/2Bezp0tXu6vUeMwtMJ1G9w) | 2:35 | 2022-11-04 | 2023-01-21 |
@@ -1557,7 +1559,7 @@
 | [WORLDS PULSE](https://open.spotify.com/track/49cNZg9qPHfrMK1ntkPtqU) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy), [Eddie Berg](https://open.spotify.com/artist/2CUS6l4LZguuEIsjzbKtdG) | [WORLDS PULSE](https://open.spotify.com/album/48wJ0fKTfKUw60artW0tPe) | 4:56 | 2025-09-26 | 2026-02-15 |
 | [Worldwide Suicide](https://open.spotify.com/track/52uE648ai2EDq179lsi6VU) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N) | [Worldwide Suicide](https://open.spotify.com/album/6wPMu56NLuxlUU4LQpoQA4) | 1:57 | 2022-07-13 | 2022-07-23 |
 | [WORTH NOTHING](https://open.spotify.com/track/2B9b1cT9Ue9FcDGvlH8FsR) | [20TOKENS](https://open.spotify.com/artist/283uQnP38E3Ua5ExYuOH0Q), [Lost in Hollywood](https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP) | [WORTH NOTHING](https://open.spotify.com/album/59v01r4gfpZxf2F26Zfq90) | 3:01 | 2025-08-22 | 2025-08-30 |
-| [Wounds](https://open.spotify.com/track/0QaUBQhT0qtoaXve6VDp8R) | [Sun Eater](https://open.spotify.com/artist/4gTpdTrY1wigOF2NvK409M) | [Wounds](https://open.spotify.com/album/6rx4neBhpTqLpAVNLRwzSs) | 3:47 | 2026-01-30 |  |
+| [Wounds](https://open.spotify.com/track/0QaUBQhT0qtoaXve6VDp8R) | [Sun Eater](https://open.spotify.com/artist/4gTpdTrY1wigOF2NvK409M) | [Wounds](https://open.spotify.com/album/6rx4neBhpTqLpAVNLRwzSs) | 3:47 | 2026-01-30 | 2026-04-21 |
 | [Wrath](https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Wrath](https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb) | 4:33 | 2025-08-22 |  |
 | [WRATHBERRY](https://open.spotify.com/track/1rqfdOUNOW5YQSRGNzC3nQ) | [Berried Alive](https://open.spotify.com/artist/0gZTdTYGI2ABqOENQ31u5e) | [WRATHBERRY](https://open.spotify.com/album/0FgKAO5LHRdGMZu99cWqpn) | 2:54 | 2025-05-09 | 2025-06-16 |
 | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3) | 2:53 | 2024-03-08 | 2024-11-12 |

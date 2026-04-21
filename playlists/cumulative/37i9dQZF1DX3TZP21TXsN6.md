@@ -4,7 +4,7 @@
 
 > Nieuw: Lostt, Giegs, Bastosz, Sam J’taime, Yenko Forever en meer..
 
-532 songs - 23 hr 6 min
+533 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [LATEN ME KOUD](https://open.spotify.com/track/1A8uEMR3qNUsxIbG5bzhi5) | [Brokezart](https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou) | [LATEN ME KOUD](https://open.spotify.com/album/57CRAm3v7LNB6cSoaac433) | 2:35 | 2026-04-02 | 2026-04-17 |
 | [Lau](https://open.spotify.com/track/0gvmWQf6n7IRPlv4Ydu4NA) | [Rocks](https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q) | [Lau](https://open.spotify.com/album/4SflyqRW6yeiZBeHnq87Gu) | 2:58 | 2026-01-29 | 2026-03-13 |
 | [LAUTER KNALL](https://open.spotify.com/track/0g6yGl109hgQWHTgVJm1Sc) | [Silva](https://open.spotify.com/artist/7ja62ZARrm20k4Sowt0ab8), [Zarfani](https://open.spotify.com/artist/3jU0uVi2Njx9HZ59lSk3H1), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [LAUTER KNALL](https://open.spotify.com/album/2QjnIerIhfEMBO3DwVPic2) | 2:08 | 2025-07-17 | 2025-08-15 |
+| [Lauwmi](https://open.spotify.com/track/6jxIUixyHIuK7uAhVWSxOJ) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl), [Freezz](https://open.spotify.com/artist/2VcXNLYjdaTD2yFOIn1JIO), [BFLClyde](https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD) | [Lauwmi](https://open.spotify.com/album/7dqEKmFRYKagbGzcK1LHm2) | 2:27 | 2026-04-20 |  |
 | [Lean](https://open.spotify.com/track/7qZcrK6ZE9bJAzpbCCThMo) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Lean](https://open.spotify.com/album/2WUeSE3wgkgrBqjhmMzcV0) | 1:49 | 2025-12-11 | 2026-01-15 |
 | [Lekke Boot](https://open.spotify.com/track/4pWJ39S6Y3q36EQ76ozDj5) | [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [Terugval](https://open.spotify.com/album/2WLZIWEaY7w1bFWHG7njug) | 2:30 | 2026-01-29 | 2026-02-13 |
 | [LENG ONES](https://open.spotify.com/track/6nwaziI4azySYanq0yzDJO) | [Dv](https://open.spotify.com/artist/4MgUht9kRLFmS5uNiycgeC) | [LENG ONES](https://open.spotify.com/album/4b6yDAHMojB832KuTnxSoV) | 1:45 | 2025-07-17 | 2025-08-29 |

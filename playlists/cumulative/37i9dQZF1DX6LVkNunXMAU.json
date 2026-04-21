@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "indie folk latino de estaci\u00f3n. Foto: LAIA",
-  "name": "folk & verano",
+  "description": "indie folk latino de estaci\u00f3n. Foto: Ine G\u00fcemes",
+  "name": "folk & oto\u00f1o",
   "tracks": [
     {
       "album": {
@@ -824,7 +824,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 251242,
       "name": "Besos en mi Memoria",
       "url": "https://open.spotify.com/track/7F3DfD7W4HC5iPDIOxc7wR"
@@ -1182,6 +1182,24 @@
       "duration_ms": 168306,
       "name": "Casualidad",
       "url": "https://open.spotify.com/track/3qs4Pq7AwvrYhddiLUmUtJ"
+    },
+    {
+      "album": {
+        "name": "Guardar",
+        "url": "https://open.spotify.com/album/51bFySJK14qeoQc6NBECBj"
+      },
+      "artists": [
+        {
+          "name": "Ine G\u00fcemes",
+          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179121,
+      "name": "Chimenea",
+      "url": "https://open.spotify.com/track/7HiJ4XNyZyE6fyRnXzDXLP"
     },
     {
       "album": {
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 178983,
       "name": "El Campo - ac\u00fastico",
       "url": "https://open.spotify.com/track/1KzpT0TFVNiZFx2NlzOcdP"
@@ -4716,6 +4734,24 @@
       "duration_ms": 164999,
       "name": "Pedazos",
       "url": "https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK"
+    },
+    {
+      "album": {
+        "name": "Pedazos - Ac\u00fastico (Remastered 2026)",
+        "url": "https://open.spotify.com/album/1u8a8iv5cdfeBUs8PCoJ9C"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "Pedazos - Ac\u00fastico - Remastered 2026",
+      "url": "https://open.spotify.com/track/4a3XV5dNEQzhZYRniHku4l"
     },
     {
       "album": {

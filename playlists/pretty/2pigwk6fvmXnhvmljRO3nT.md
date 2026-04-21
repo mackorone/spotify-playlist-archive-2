@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,439 songs - 21 day 12 hr 13 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,440 songs - 21 day 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8447,5 +8447,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8437 | [天使と悪魔](https://open.spotify.com/track/22y3zsYYYx4VisZMOwTFQA) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [ENTERTAINMENT](https://open.spotify.com/album/7J9IuxWGge23Amv8msKGtF) | 4:30 |
 | 8438 | [CHEER UP](https://open.spotify.com/track/4CeE0LU1SkHshwHeMfPwqk) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Page Two](https://open.spotify.com/album/78YI3q126L1plYhXxn7rUL) | 3:28 |
 | 8439 | [Fallin' Apart \(feat\. Denzel Curry & Pell\)](https://open.spotify.com/track/7p6WWWxQZPjs3DVMFxWP8H) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 2:04 |
+| 8440 | [Guilty Night, Guilty Kiss!](https://open.spotify.com/track/5cSWxmG7Vm375vy6ElPKRD) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [Shooting Star Warrior](https://open.spotify.com/album/0BdUdxtNYUZQ4wHSR1aOV8) | 4:06 |
 
-Snapshot ID: `AAALo4mjB3L0WTzJyy/umgQGSl1uWS8I`
+Snapshot ID: `AAALpHey5Kz/lB1hHCZCS3nKFmYtaNkW`

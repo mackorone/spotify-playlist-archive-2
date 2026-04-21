@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-701 songs - 1 day 20 hr 4 min
+703 songs - 1 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [El Baile de Carlito](https://open.spotify.com/track/6E8VN9DP3RzSv5R8m0K0UM) | [Carlito](https://open.spotify.com/artist/3nZReQzzyTIXP692DUqhxD) | [El Baile de Carlito](https://open.spotify.com/album/7qWXaz2mgOMsomrpwAzcgT) | 2:03 | 2026-03-10 |  |
 | [El Mundo \- The Cube Guys Radio Edit](https://open.spotify.com/track/2E95UxSc3sbPymFdUKF2AB) | [Chicca Leaf](https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ), [Mess](https://open.spotify.com/artist/6ZgLX6dxeYh2VCXlZBHp17), [Kenzo \(ITA\)](https://open.spotify.com/artist/3OCNLDaUydg5VsX811Zod3), [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg) | [El Mundo \(The Cube Guys Mix\)](https://open.spotify.com/album/211GpUDZSpVWGOd47XSaRY) | 2:01 | 2026-02-25 |  |
 | [El Perdón](https://open.spotify.com/track/6gPLVEwgM1b7ro9uZ0OD5r) | [Aitor Astiz](https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz) | [Por Eso Que Me Amas EP](https://open.spotify.com/album/63Nu1PeMnLSvmWGQrcPVlU) | 3:26 | 2023-04-23 | 2023-05-23 |
+| [Electric Fever](https://open.spotify.com/track/2z4FQna7fzi6LP5D6W4ADA) | [DreaMuusic](https://open.spotify.com/artist/5EmZzq6T5WQBgPw08QsUmi) | [Electric Fever](https://open.spotify.com/album/0kkvem8uWibBA8x0ndV6Fh) | 3:59 | 2026-04-20 |  |
 | [En Medio de la Luz](https://open.spotify.com/track/5nttFw9iY9q2b7JridWpRr) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [Symphonic house](https://open.spotify.com/album/3jr52nMEY2rcECDUMHPPjQ) | 3:53 | 2026-04-03 |  |
 | [Endless Bliss](https://open.spotify.com/track/3MFp3iT64O44kvRuDXlVnN) | [Viaggi Sonori](https://open.spotify.com/artist/2Rmp2ArNd8rvmEJ3QBNe3Q), [Mark Sunrise](https://open.spotify.com/artist/0OpqRkBzUOzMFT0ilUvOqw), [Jolie](https://open.spotify.com/artist/4h6P5BOsf2pPJQwhderv6Z) | [Endless Bliss](https://open.spotify.com/album/2Vde3eMCZfYoM6BjP7WwNz) | 3:38 | 2026-02-24 |  |
 | [Energy](https://open.spotify.com/track/68fHIJayqhaS5aQCNKKkA2) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Energy](https://open.spotify.com/album/1jEg0Zcl5ydrt9EVXBP1w6) | 3:13 | 2023-03-31 | 2023-04-24 |
@@ -647,6 +648,7 @@
 | [Tuci Taci](https://open.spotify.com/track/08MT55tciHqmnVY8upiHFJ) | [TR3 Sound](https://open.spotify.com/artist/5pvDXe2gZvEZgxv2l2fHtf) | [Tuci Taci](https://open.spotify.com/album/7w7DYreWyk8sJ3iQiSMEid) | 3:59 | 2026-01-21 | 2026-02-23 |
 | [Turn Up Da Bassline](https://open.spotify.com/track/4Dodmdr8t9FVk183pBQ0gc) | [dillon nathaniel.](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Turn Up Da Bassline](https://open.spotify.com/album/5hgWXkwEEm8mJgU50BVZe8) | 3:11 | 2024-10-13 |  |
 | [Twentyk](https://open.spotify.com/track/3FNOkOASmP5RW1kws04Msv) | [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM) | [Break The Roof EP](https://open.spotify.com/album/5gxHkVyxMaMXsoZKcYfntZ) | 3:35 | 2023-12-10 | 2024-02-19 |
+| [TWO TRIBES](https://open.spotify.com/track/4Tw25zcm0DmN8rZg38Dfva) | [Valdor Senna](https://open.spotify.com/artist/0k0aYsHeehlO0BPS5m76jH) | [TWO TRIBES](https://open.spotify.com/album/7LHuPskT8y6qCjffTishMn) | 4:09 | 2026-04-20 |  |
 | [Un vacío en el ser me dejaste](https://open.spotify.com/track/2v3K6Y1Z9SMhsapgvae9IU) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [House latino por un mundo mejor](https://open.spotify.com/album/5gsQQyh19aGYDGvNzfdY2K) | 3:48 | 2026-01-19 | 2026-02-23 |
 | [Under Your Spell](https://open.spotify.com/track/2CuDfzx7WixsjNHcH04Kae) | [PAWPAWTHEDAWG](https://open.spotify.com/artist/7AbDcmHZnaA3O5cIsQuyd1), [C.C](https://open.spotify.com/artist/21aRFxJp0YdjZOOsgeYmVB), [JAIMIE P](https://open.spotify.com/artist/7fqCJh3jRzdVI2tOCLrclq), [Slowed Remix DJ](https://open.spotify.com/artist/3enC2RjmMGO8UrWChmsx6R) | [Under Your Spell](https://open.spotify.com/album/3WtqEQEZqvhfVcowNem2SE) | 3:39 | 2026-04-18 |  |
 | [Unplug](https://open.spotify.com/track/1lMfEjN2aKjpGtapViabUo) | [White Off](https://open.spotify.com/artist/3YYih7Xf8yIMm6nm6r1j7N) | [Unplug EP](https://open.spotify.com/album/0hPx4gWeqLaZv3FouezDUK) | 3:27 | 2024-10-13 |  |

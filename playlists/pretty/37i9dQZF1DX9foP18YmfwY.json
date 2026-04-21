@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 376727,
+  "num_followers": 376770,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,26 @@
     {
       "added_at": "2026-03-27 19:13:13",
       "album": {
+        "name": "Atr\u00e1s do Temporal",
+        "url": "https://open.spotify.com/album/7DxudzZT8MjDJyjT6iEt4e"
+      },
+      "artists": [
+        {
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        },
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        }
+      ],
+      "duration_ms": 275242,
+      "name": "Atr\u00e1s do Temporal",
+      "url": "https://open.spotify.com/track/72RRX9piGwAcHYrIQ6eqnN"
+    },
+    {
+      "added_at": "2026-03-27 19:13:13",
+      "album": {
         "name": "Um certo Galileu",
         "url": "https://open.spotify.com/album/0fKFV07rawmBk1fwuwNgSK"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 352501,
       "name": "Um certo Galileu - Vers\u00e3o Comemorativa 50 Anos",
       "url": "https://open.spotify.com/track/6fyy49Rdt8p6sWgDhmmWIc"
-    },
-    {
-      "added_at": "2026-03-27 19:13:13",
-      "album": {
-        "name": "Atr\u00e1s do Temporal",
-        "url": "https://open.spotify.com/album/7DxudzZT8MjDJyjT6iEt4e"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        },
-        {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
-        }
-      ],
-      "duration_ms": 275242,
-      "name": "Atr\u00e1s do Temporal",
-      "url": "https://open.spotify.com/track/72RRX9piGwAcHYrIQ6eqnN"
     },
     {
       "added_at": "2026-03-27 19:13:13",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-03-27 19:13:13",
       "album": {
-        "name": "Se Eu Tenho o Hoje",
-        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 327961,
-      "name": "Se Eu Tenho o Hoje",
-      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
-    },
-    {
-      "added_at": "2026-03-27 19:13:13",
-      "album": {
         "name": "Inflama-Me",
         "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
       },
@@ -823,6 +807,42 @@
       "duration_ms": 401500,
       "name": "Inflama-Me",
       "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
+    },
+    {
+      "added_at": "2026-03-27 19:13:13",
+      "album": {
+        "name": "Se Eu Tenho o Hoje",
+        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
+      },
+      "artists": [
+        {
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+        }
+      ],
+      "duration_ms": 327961,
+      "name": "Se Eu Tenho o Hoje",
+      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
+    },
+    {
+      "added_at": "2026-03-27 19:13:13",
+      "album": {
+        "name": "Gba Stage, Vol. 35",
+        "url": "https://open.spotify.com/album/5d9jZi1hvJzbkmHQKmJ80q"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Um Peregrino",
+          "url": "https://open.spotify.com/artist/46ZuGsckiA4Pwvm3QUyUiR"
+        }
+      ],
+      "duration_ms": 319171,
+      "name": "A Barca",
+      "url": "https://open.spotify.com/track/0oFWDcolbMMBh9yPZU2F5j"
     },
     {
       "added_at": "2026-03-27 19:13:13",
@@ -851,28 +871,8 @@
     {
       "added_at": "2026-03-27 19:13:13",
       "album": {
-        "name": "Gba Stage, Vol. 35",
-        "url": "https://open.spotify.com/album/5d9jZi1hvJzbkmHQKmJ80q"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Um Peregrino",
-          "url": "https://open.spotify.com/artist/46ZuGsckiA4Pwvm3QUyUiR"
-        }
-      ],
-      "duration_ms": 319171,
-      "name": "A Barca",
-      "url": "https://open.spotify.com/track/0oFWDcolbMMBh9yPZU2F5j"
-    },
-    {
-      "added_at": "2026-03-27 19:13:13",
-      "album": {
-        "name": "Quero Nascer de Novo",
-        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
+        "name": "Acalma o Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
       },
       "artists": [
         {
@@ -880,13 +880,13 @@
           "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
         },
         {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+          "name": "Adriana Arydes",
+          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
         }
       ],
-      "duration_ms": 370000,
-      "name": "Quero Nascer de Novo",
-      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
+      "duration_ms": 262000,
+      "name": "Acalma o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
     },
     {
       "added_at": "2026-03-27 19:13:13",
@@ -943,6 +943,42 @@
     {
       "added_at": "2026-03-27 19:13:13",
       "album": {
+        "name": "Minha Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/4LUJEygAvb9A6UBHdKiz9c"
+      },
+      "artists": [
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "duration_ms": 236442,
+      "name": "S\u00f3 por Ti Jesus",
+      "url": "https://open.spotify.com/track/3wge0Fm4OtGlXtUJzw1ObA"
+    },
+    {
+      "added_at": "2026-03-27 19:13:13",
+      "album": {
+        "name": "Quero Nascer de Novo",
+        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Quero Nascer de Novo",
+      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
+    },
+    {
+      "added_at": "2026-03-27 19:13:13",
+      "album": {
         "name": "Msh ao Teu Lado 2026",
         "url": "https://open.spotify.com/album/1TTKprWxOR3LeOC30P8y6M"
       },
@@ -959,42 +995,6 @@
       "duration_ms": 298155,
       "name": "Cora\u00e7\u00e3o Ferido",
       "url": "https://open.spotify.com/track/4dRpyB80k0HVhW5NVuTDmP"
-    },
-    {
-      "added_at": "2026-03-27 19:13:13",
-      "album": {
-        "name": "Acalma o Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Acalma o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
-    },
-    {
-      "added_at": "2026-03-27 19:13:13",
-      "album": {
-        "name": "Minha Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/4LUJEygAvb9A6UBHdKiz9c"
-      },
-      "artists": [
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 236442,
-      "name": "S\u00f3 por Ti Jesus",
-      "url": "https://open.spotify.com/track/3wge0Fm4OtGlXtUJzw1ObA"
     },
     {
       "added_at": "2026-03-27 19:13:13",

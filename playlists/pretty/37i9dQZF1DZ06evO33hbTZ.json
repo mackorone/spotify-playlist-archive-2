@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 5967,
+  "num_followers": 5966,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeLJgAAAAAC+sd+NAQ5r38ktu/r7GEJF",
+  "snapshot_id": "aeQbAAAAAADzQcWyrE2/wJbCDZBPNBnX",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You make all things Beautiful (Piano Session)",
+        "url": "https://open.spotify.com/album/6PkBjfA81nOpI1LDAo5VFk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 87405,
+      "name": "You make all things Beautiful (Piano Session)",
+      "url": "https://open.spotify.com/track/4j1hTnAQnnvNTtoqcZw0n5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Matter",
         "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 173290,
       "name": "My Matter",
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You make all things Beautiful (Piano Session)",
-        "url": "https://open.spotify.com/album/6PkBjfA81nOpI1LDAo5VFk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 87405,
-      "name": "You make all things Beautiful (Piano Session)",
-      "url": "https://open.spotify.com/track/4j1hTnAQnnvNTtoqcZw0n5"
     },
     {
       "added_at": null,

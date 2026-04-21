@@ -2,9 +2,9 @@
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
-> Celebrating women at the center of innovation in electronic music\. Featuring Carlita.
+> Celebrating women at the center of innovation in electronic music\. Featuring Ninajirachi.
 
-808 songs - 2 day 2 hr 12 min
+809 songs - 2 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [I AM A GOD](https://open.spotify.com/track/25v3NCfgs0QGwcZ4cekGhg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [I AM A GOD](https://open.spotify.com/album/6IQ6Bt4HuUqE8MXZS9hwMk) | 2:08 | 2024-08-23 | 2025-02-15 |
 | [I Am Free](https://open.spotify.com/track/08vpHPtXSGh3gerjxKKMz4) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [I Am Free](https://open.spotify.com/album/4OVnJ158DZVugZc1ePgtG3) | 3:42 | 2024-03-15 | 2025-01-11 |
 | [I Can't Take No More](https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [I Can't Take No More](https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV) | 2:37 | 2024-03-01 | 2024-07-06 |
-| [I Could Get Used To This](https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [I Could Get Used To This](https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd) | 3:41 | 2026-01-23 |  |
+| [I Could Get Used To This](https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [I Could Get Used To This](https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd) | 3:41 | 2026-01-23 | 2026-04-21 |
 | [i couldn't hold back](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 | 2025-06-28 | 2025-09-13 |
 | [I Didn't Feel Like Singing](https://open.spotify.com/track/6buL8Y9okXMqTj8HfT3KSo) | [Analu \(BR\)](https://open.spotify.com/artist/7eL1mVS0252oWwJTXb74EI) | [Lady of the House: Brazil Winners EP](https://open.spotify.com/album/6EbiSQfXOD1TBv5fuDbizD) | 3:29 | 2025-12-17 | 2026-02-07 |
 | [I Don't Know Why I'm Sad About It](https://open.spotify.com/track/6XDFHhnPcsR6XtGuraEL4o) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Tell Me Everything's Gonna Be Alright](https://open.spotify.com/album/5as4f2ygq71TkG9hPzIFRs) | 2:09 | 2025-05-30 | 2025-08-24 |
@@ -405,6 +405,7 @@
 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/5XOTppH2h3pd8KKvQ2pGdc) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Stand \(feat\. Cor.Ece\)](https://open.spotify.com/album/1GgpM2DW7JDXqnyllrXGsf) | 3:02 | 2024-03-01 | 2024-03-30 |
 | [It's Strange](https://open.spotify.com/track/0V3ssu48VOqr1WwkPOD4Yt) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [It’s Strange](https://open.spotify.com/album/4PdIH020EAwcbah7q92WsG) | 3:32 | 2024-05-24 | 2024-08-17 |
 | [It's You](https://open.spotify.com/track/2xFpNQXMZlsGTpppxGU52H) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [It's You](https://open.spotify.com/album/3G4hZn9RwajgAmUapiIwRI) | 3:02 | 2026-03-06 | 2026-04-02 |
+| [It's You \- underscores' "It’s U" Remix](https://open.spotify.com/track/3YQoG8Ey0eYsLS9yAmeHK1) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [It's You \(underscores' "It’s U" Remix\)](https://open.spotify.com/album/68KwMNXlguxjAnGkNaEMaX) | 3:31 | 2026-04-20 |  |
 | [I’ll Stand By You](https://open.spotify.com/track/0zwjijKrWJMpB8VNa0LTd0) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Femme House Vol\. 3](https://open.spotify.com/album/5xWDjgBAUzVZ4bYfYp5Lwu) | 3:33 | 2026-03-06 |  |
 | [Jeanette](https://open.spotify.com/track/5V28G1ktbqATUy4ioDzJZM) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/3DzlkHEQtb0ABoxze4Zxi7) | 6:14 | 2021-03-01 | 2022-07-29 |
 | [Jeanette](https://open.spotify.com/track/66KnxPOG7pEbzqyKhLaIE0) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 6:14 | 2022-03-08 | 2024-03-02 |

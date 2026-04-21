@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6LVkNunXMAU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6LVkNunXMAU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6LVkNunXMAU)
 
-### [folk & verano](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
+### [folk & otoño](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
 
-> indie folk latino de estación\. Foto: LAIA
+> indie folk latino de estación\. Foto: Ine Güemes
 
-350 songs - 19 hr 13 min
+352 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 | 2022-08-26 |  |
 | [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 | 2023-11-24 | 2024-09-27 |
 | [Besos Azules](https://open.spotify.com/track/5Npt3P0YTApm3Ck1fO7s0r) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Besos Azules](https://open.spotify.com/album/7gk6rGyOAmw5QcxwVYvsbj) | 3:55 | 2023-06-23 | 2023-10-27 |
-| [Besos en mi Memoria](https://open.spotify.com/track/7F3DfD7W4HC5iPDIOxc7wR) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8) | [Besos en mi Memoria](https://open.spotify.com/album/2Hlke9EmukeY44h0YEe41F) | 4:11 | 2025-10-27 |  |
+| [Besos en mi Memoria](https://open.spotify.com/track/7F3DfD7W4HC5iPDIOxc7wR) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8) | [Besos en mi Memoria](https://open.spotify.com/album/2Hlke9EmukeY44h0YEe41F) | 4:11 | 2025-10-27 | 2026-04-21 |
 | [Bolero](https://open.spotify.com/track/3yz96oTI0rHUaXruFziWBS) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lesbiandrama](https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR) | 4:03 | 2023-04-07 |  |
 | [Brillando](https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Brillando](https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6) | 4:31 | 2022-05-20 | 2024-09-27 |
 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 | 2022-05-20 | 2022-07-16 |
@@ -68,6 +68,7 @@
 | [Cartas a Walter Xenón](https://open.spotify.com/track/0c4Irfn4lxeyOdjZNY3wDv) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Amiga](https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59) | 2:25 | 2022-05-20 | 2024-10-18 |
 | [Casa \- Reversión](https://open.spotify.com/track/74GJTdXb7EoftKV913OHfE) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/2zZmuHTWDf1TRgiTt4DigW) | 4:08 | 2025-08-01 |  |
 | [Casualidad](https://open.spotify.com/track/3qs4Pq7AwvrYhddiLUmUtJ) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Casualidad](https://open.spotify.com/album/5NmrgtARnyTFbmgTxoGhki) | 2:48 | 2023-07-07 | 2023-08-30 |
+| [Chimenea](https://open.spotify.com/track/7HiJ4XNyZyE6fyRnXzDXLP) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Guardar](https://open.spotify.com/album/51bFySJK14qeoQc6NBECBj) | 2:59 | 2026-04-20 |  |
 | [Coastin' \(with Alemán\)](https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Coastin' \(with Alemán\)](https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH) | 4:04 | 2023-08-25 | 2024-09-27 |
 | [COCA](https://open.spotify.com/track/5cdXGNFL9Ctv5JckoRRF7O) | [Bautista](https://open.spotify.com/artist/7uioiA7kBF425UCAdkgPXB) | [COCA](https://open.spotify.com/album/1PdDyS4RrZi6otW4YWPwTp) | 2:21 | 2022-05-20 | 2022-11-12 |
 | [COLAPSO](https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr) | [Lola Membrillo](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [COLAPSO](https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo) | 3:29 | 2022-05-20 | 2023-04-15 |
@@ -114,7 +115,7 @@
 | [Día tras día](https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd) | [El Tio Valen](https://open.spotify.com/artist/6wmJ0G1rcbo6NkDqFy7is8) | [Día tras día](https://open.spotify.com/album/7gjf7o3gThjzGzpQmwNeMF) | 2:57 | 2024-09-26 |  |
 | [Días En Casa](https://open.spotify.com/track/2psoGV7y4CIpqdqjTCL6jK) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Días En Casa](https://open.spotify.com/album/6v6HHXpXjmwo2gA1S1gPuk) | 3:05 | 2023-05-12 | 2024-09-27 |
 | [El Alma](https://open.spotify.com/track/6rr5SobYOQHv1fvGf6CJNS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [El Alma](https://open.spotify.com/album/1xuqb5fCz6MQydTGNsEyCU) | 2:55 | 2022-05-20 | 2023-04-15 |
-| [El Campo \- acústico](https://open.spotify.com/track/1KzpT0TFVNiZFx2NlzOcdP) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [ODIO el ODIO \(Acústico\)](https://open.spotify.com/album/4yui6NMZ1sFX7s0uSHWyvX) | 2:58 | 2025-07-18 |  |
+| [El Campo \- acústico](https://open.spotify.com/track/1KzpT0TFVNiZFx2NlzOcdP) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [ODIO el ODIO \(Acústico\)](https://open.spotify.com/album/4yui6NMZ1sFX7s0uSHWyvX) | 2:58 | 2025-07-18 | 2026-04-21 |
 | [El Film](https://open.spotify.com/track/4Ikzz30en6rryWBSbmEhEp) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [El Film](https://open.spotify.com/album/19vRdobmb1a70CE4YuFPbT) | 3:01 | 2023-07-14 | 2023-10-07 |
 | [el film \- Versión Acústica](https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [Acústico](https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5) | 2:49 | 2024-03-21 |  |
 | [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 | 2023-10-26 |  |
@@ -249,6 +250,7 @@
 | [Particular](https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi) | [LE TORO](https://open.spotify.com/artist/399hFqtRXcXAUU8F4x2BkN), [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Particular](https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj) | 2:45 | 2023-04-07 |  |
 | [Pasajeros](https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Pasajeros](https://open.spotify.com/album/71slCIIGbJjaIpH8VHUAww) | 2:45 | 2022-05-20 | 2023-07-15 |
 | [Pedazos](https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos](https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI) | 2:44 | 2022-05-20 | 2023-04-15 |
+| [Pedazos \- Acústico \- Remastered 2026](https://open.spotify.com/track/4a3XV5dNEQzhZYRniHku4l) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos \- Acústico \(Remastered 2026\)](https://open.spotify.com/album/1u8a8iv5cdfeBUs8PCoJ9C) | 2:37 | 2026-04-20 |  |
 | [Peliculón](https://open.spotify.com/track/2MbHcrOARNtKVb5upQb4Kg) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Peliculón](https://open.spotify.com/album/4H9uGHowS5U1eP8lV1u7CB) | 3:18 | 2023-07-21 | 2023-09-07 |
 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-06-09 |  |
 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 | 2024-02-01 |  |

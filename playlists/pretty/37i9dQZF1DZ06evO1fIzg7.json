@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20765,
+  "num_followers": 20769,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeLJgAAAAACZKqd40keoPJ4rBKMv/fW3",
+  "snapshot_id": "aeQbAAAAAADvJeSVToRQ8jVtQhEs9tid",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot From The Hip",
-        "url": "https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 223880,
-      "name": "Mixed Up World",
-      "url": "https://open.spotify.com/track/2MnVheZCrPYpS42HaCEY2t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Disco Crash",
         "url": "https://open.spotify.com/album/3LHVWngujWfU3TVo6b7Ttv"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 191118,
       "name": "Fuck With You",
       "url": "https://open.spotify.com/track/7kkhw4WZCSQO2RiC5HpmDG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoot From The Hip",
+        "url": "https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 223880,
+      "name": "Mixed Up World",
+      "url": "https://open.spotify.com/track/2MnVheZCrPYpS42HaCEY2t"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot From The Hip",
-        "url": "https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "I Won't Change You",
-      "url": "https://open.spotify.com/track/08T5Bx6CoJS45Q5qDXmM9M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trip The Light Fantastic",
         "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 198066,
       "name": "Catch You",
       "url": "https://open.spotify.com/track/1LjXn0nG37aBWPPnDOq1nQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoot From The Hip",
+        "url": "https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "I Won't Change You",
+      "url": "https://open.spotify.com/track/08T5Bx6CoJS45Q5qDXmM9M"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taste",
-        "url": "https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA"
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 170393,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ"
+      "duration_ms": 203826,
+      "name": "If I Can't Dance",
+      "url": "https://open.spotify.com/track/1FBPdXaWvaAOsoZxAkzDEz"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 203826,
-      "name": "If I Can't Dance",
-      "url": "https://open.spotify.com/track/1FBPdXaWvaAOsoZxAkzDEz"
+      "duration_ms": 170393,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ"
     },
     {
       "added_at": null,

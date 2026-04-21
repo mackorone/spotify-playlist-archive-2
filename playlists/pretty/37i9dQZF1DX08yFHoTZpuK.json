@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 26247,
+  "num_followers": 26290,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -339,18 +339,18 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
-        "name": "Keep us in the loop",
-        "url": "https://open.spotify.com/album/4iphPY2yjE09hS7vDryfmU"
+        "name": "WANDALAND",
+        "url": "https://open.spotify.com/album/7yqwdkrebsVsReTU6dAc5j"
       },
       "artists": [
         {
-          "name": "AmPm",
-          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+          "name": "Shinichi Osawa",
+          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
         }
       ],
-      "duration_ms": 195454,
-      "name": "Keep us in the loop",
-      "url": "https://open.spotify.com/track/6O5GLEknWy44xP432YP2Ex"
+      "duration_ms": 159600,
+      "name": "WANDALAND",
+      "url": "https://open.spotify.com/track/21RATvsNy4HSe1pJogs0Xx"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
-        "name": "WANDALAND",
-        "url": "https://open.spotify.com/album/7yqwdkrebsVsReTU6dAc5j"
-      },
-      "artists": [
-        {
-          "name": "Shinichi Osawa",
-          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "WANDALAND",
-      "url": "https://open.spotify.com/track/21RATvsNy4HSe1pJogs0Xx"
-    },
-    {
-      "added_at": "2026-04-08 03:59:06",
-      "album": {
         "name": "Sounds Good",
         "url": "https://open.spotify.com/album/5FLunA52rATXNpp7eVk9fo"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 212000,
       "name": "Sounds Good",
       "url": "https://open.spotify.com/track/4S8RV91Hrlwl835t0372QU"
+    },
+    {
+      "added_at": "2026-04-08 03:59:06",
+      "album": {
+        "name": "Keep us in the loop",
+        "url": "https://open.spotify.com/album/4iphPY2yjE09hS7vDryfmU"
+      },
+      "artists": [
+        {
+          "name": "AmPm",
+          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+        }
+      ],
+      "duration_ms": 195454,
+      "name": "Keep us in the loop",
+      "url": "https://open.spotify.com/track/6O5GLEknWy44xP432YP2Ex"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
+        "name": "Miyanosawa",
+        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 208972,
+      "name": "Miyanosawa",
+      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
+    },
+    {
+      "added_at": "2026-04-08 03:59:06",
+      "album": {
         "name": "who do u love?",
         "url": "https://open.spotify.com/album/6Ixz4Oy2ZEmFQgdhQOUOgM"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 197863,
       "name": "who do u love?",
       "url": "https://open.spotify.com/track/6xyl77bg5JgjxgJvsIpkml"
-    },
-    {
-      "added_at": "2026-04-08 03:59:06",
-      "album": {
-        "name": "Miyanosawa",
-        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "Miyanosawa",
-      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -735,6 +735,34 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
+        "name": "Life, Dream, Love",
+        "url": "https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P"
+      },
+      "artists": [
+        {
+          "name": "Daishi Dance",
+          "url": "https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ"
+        },
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "Oh Jieun",
+          "url": "https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU"
+        },
+        {
+          "name": "Himekami",
+          "url": "https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV"
+        }
+      ],
+      "duration_ms": 232558,
+      "name": "Life, Dream, Love",
+      "url": "https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r"
+    },
+    {
+      "added_at": "2026-04-08 03:59:06",
+      "album": {
         "name": "You Ain't My Friend",
         "url": "https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl"
       },
@@ -771,34 +799,6 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
-        "name": "Life, Dream, Love",
-        "url": "https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P"
-      },
-      "artists": [
-        {
-          "name": "Daishi Dance",
-          "url": "https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ"
-        },
-        {
-          "name": "DE DE MOUSE",
-          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
-        },
-        {
-          "name": "Oh Jieun",
-          "url": "https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU"
-        },
-        {
-          "name": "Himekami",
-          "url": "https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV"
-        }
-      ],
-      "duration_ms": 232558,
-      "name": "Life, Dream, Love",
-      "url": "https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r"
-    },
-    {
-      "added_at": "2026-04-08 03:59:06",
-      "album": {
         "name": "Mizukami",
         "url": "https://open.spotify.com/album/521QOxLFhoz3ocRjZWVoNV"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 332950,
       "name": "Mizukami",
       "url": "https://open.spotify.com/track/1SNUUPgkHHOAnMsyCUbPCu"
-    },
-    {
-      "added_at": "2026-04-08 03:59:06",
-      "album": {
-        "name": "Love Flutter",
-        "url": "https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z"
-      },
-      "artists": [
-        {
-          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
-          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
-        }
-      ],
-      "duration_ms": 243626,
-      "name": "Fabric",
-      "url": "https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -851,6 +835,22 @@
       "duration_ms": 162711,
       "name": "Attracted to you",
       "url": "https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea"
+    },
+    {
+      "added_at": "2026-04-08 03:59:06",
+      "album": {
+        "name": "Love Flutter",
+        "url": "https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+        }
+      ],
+      "duration_ms": 243626,
+      "name": "Fabric",
+      "url": "https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -887,22 +887,18 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX"
+        "name": "KURU KURU HARAJUKU",
+        "url": "https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP"
       },
       "artists": [
         {
-          "name": "\u52e2\u559c\u904a",
-          "url": "https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE"
-        },
-        {
-          "name": "Yohji Igarashi",
-          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
+          "name": "Kyary Pamyu Pamyu",
+          "url": "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP"
         }
       ],
-      "duration_ms": 163255,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
+      "duration_ms": 257820,
+      "name": "KURU KURU HARAJUKU",
+      "url": "https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD"
     }
   ],
   "unique_name": "Tokyo Club Beat",

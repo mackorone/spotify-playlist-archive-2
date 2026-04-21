@@ -1,13 +1,45 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2737,
+  "num_followers": 2738,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASNqAWBR3lQhdikNnqvHeTbCeh7gDU",
+  "snapshot_id": "AAASOH3qovunmY3wiGHM1yrE1/aW8R+X",
   "tracks": [
+    {
+      "added_at": "2026-04-20 18:53:15",
+      "album": {
+        "name": "TWO TRIBES",
+        "url": "https://open.spotify.com/album/7LHuPskT8y6qCjffTishMn"
+      },
+      "artists": [
+        {
+          "name": "Valdor Senna",
+          "url": "https://open.spotify.com/artist/0k0aYsHeehlO0BPS5m76jH"
+        }
+      ],
+      "duration_ms": 249720,
+      "name": "TWO TRIBES",
+      "url": "https://open.spotify.com/track/4Tw25zcm0DmN8rZg38Dfva"
+    },
+    {
+      "added_at": "2026-04-20 14:36:06",
+      "album": {
+        "name": "Electric Fever",
+        "url": "https://open.spotify.com/album/0kkvem8uWibBA8x0ndV6Fh"
+      },
+      "artists": [
+        {
+          "name": "DreaMuusic",
+          "url": "https://open.spotify.com/artist/5EmZzq6T5WQBgPw08QsUmi"
+        }
+      ],
+      "duration_ms": 239840,
+      "name": "Electric Fever",
+      "url": "https://open.spotify.com/track/2z4FQna7fzi6LP5D6W4ADA"
+    },
     {
       "added_at": "2026-04-19 14:51:21",
       "album": {

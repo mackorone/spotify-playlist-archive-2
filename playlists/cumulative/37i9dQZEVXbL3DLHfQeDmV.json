@@ -706,7 +706,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 147500,
       "name": "An Eater",
       "url": "https://open.spotify.com/track/33YkiqLWsxzZdi8Z1AKyIk"
@@ -6932,7 +6932,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 183406,
       "name": "Leak It",
       "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
@@ -9142,7 +9142,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 169609,
       "name": "PALO $ANTO (with Stormzy)",
       "url": "https://open.spotify.com/track/0cvOfzykDoUaBKhWFSuB31"
@@ -10914,6 +10914,24 @@
     {
       "album": {
         "name": "Hello",
+        "url": "https://open.spotify.com/album/0EdpqcLwKI6vQCSFpKrg7l"
+      },
+      "artists": [
+        {
+          "name": "Osaze & Marcus",
+          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170736,
+      "name": "Splendid",
+      "url": "https://open.spotify.com/track/2oggqgc89izVi5ntEY3cdN"
+    },
+    {
+      "album": {
+        "name": "Hello",
         "url": "https://open.spotify.com/album/6PqyrMOFLLmgQWIgtpj0cd"
       },
       "artists": [
@@ -10924,7 +10942,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 170736,
       "name": "Splendid",
       "url": "https://open.spotify.com/track/3THqs7Qg5P7YHU3TBYsYGH"
@@ -10964,6 +10982,24 @@
       "duration_ms": 247280,
       "name": "Stand By Me - Live at The Print Shop",
       "url": "https://open.spotify.com/track/72RX8sK4OKFnUX2MBDOdBD"
+    },
+    {
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/4aX3lbEX1whN9CsdFjz8D5"
+      },
+      "artists": [
+        {
+          "name": "The Chordline",
+          "url": "https://open.spotify.com/artist/5geqBUxi8vvBZ761nAttsU"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242532,
+      "name": "Start with Yourself",
+      "url": "https://open.spotify.com/track/4hXuD3lUDg1Lh4hREhnh4O"
     },
     {
       "album": {

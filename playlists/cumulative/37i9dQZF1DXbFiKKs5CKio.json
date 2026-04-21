@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Ainda \u00e9 pouco",
+        "url": "https://open.spotify.com/album/1m2nWpGkENRy7whHk6REol"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174377,
+      "name": "Ainda \u00e9 pouco",
+      "url": "https://open.spotify.com/track/6AGC7ecYM61Mbpw3g9akOB"
+    },
+    {
+      "album": {
         "name": "Self Portrait",
         "url": "https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep"
       },
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 176285,
       "name": "E EU?",
       "url": "https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi"

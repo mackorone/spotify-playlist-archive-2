@@ -128,10 +128,50 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 164210,
       "name": "Autonara",
       "url": "https://open.spotify.com/track/36oHfqmYAmD5hdvgXx4toZ"
+    },
+    {
+      "album": {
+        "name": "Autumn's Smile",
+        "url": "https://open.spotify.com/album/3qSAEqc7CUpv0kjZNMOwMv"
+      },
+      "artists": [
+        {
+          "name": "Moon Projection",
+          "url": "https://open.spotify.com/artist/4YtkgZhcqrY0yFTG9Fc6dH"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186437,
+      "name": "Autumn's Smile",
+      "url": "https://open.spotify.com/track/7mC385guPq4FyofTi02pSk"
+    },
+    {
+      "album": {
+        "name": "Between Sound and Air",
+        "url": "https://open.spotify.com/album/5nvXV765TUtmCP3qNqbn5O"
+      },
+      "artists": [
+        {
+          "name": "Eternal Meadows",
+          "url": "https://open.spotify.com/artist/0ADZFr36OypozKmbt7y0Bm"
+        },
+        {
+          "name": "Tish'",
+          "url": "https://open.spotify.com/artist/2Snl7bD9P5FLeAMajWU3xx"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Between Sound and Air",
+      "url": "https://open.spotify.com/track/446YBnz1ukcDXTJ5sAIauj"
     },
     {
       "album": {
@@ -374,6 +414,28 @@
       "duration_ms": 190336,
       "name": "Forest Harmonies",
       "url": "https://open.spotify.com/track/5EGbkycj0Lblt69clO8vTM"
+    },
+    {
+      "album": {
+        "name": "A Shared Pulse (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F"
+      },
+      "artists": [
+        {
+          "name": "Halo Healing",
+          "url": "https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145624,
+      "name": "Forest Morning",
+      "url": "https://open.spotify.com/track/15fQ0VWN2bXSJFUWgSyeUz"
     },
     {
       "album": {
@@ -651,6 +713,24 @@
     },
     {
       "album": {
+        "name": "Of Younger Days",
+        "url": "https://open.spotify.com/album/0cw8E6kq8cc7cEnh1dWXDh"
+      },
+      "artists": [
+        {
+          "name": "Sky's Memoirs",
+          "url": "https://open.spotify.com/artist/7qMHZInw2IFsTan4o7lZKh"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197656,
+      "name": "Of Younger Days",
+      "url": "https://open.spotify.com/track/53iiQlHiSIFooiJthGCaQ7"
+    },
+    {
+      "album": {
         "name": "Paladin Diversum",
         "url": "https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur"
       },
@@ -774,6 +854,24 @@
       "duration_ms": 152542,
       "name": "Searching",
       "url": "https://open.spotify.com/track/3XXlcpXxipgbGjHgL0lVIc"
+    },
+    {
+      "album": {
+        "name": "Second Bloom",
+        "url": "https://open.spotify.com/album/1Gezg5ewcx0RjhifpKk35t"
+      },
+      "artists": [
+        {
+          "name": "Brian Stiroh",
+          "url": "https://open.spotify.com/artist/5aUFo1R5haVq3g8Sq7msfS"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137771,
+      "name": "Second Bloom",
+      "url": "https://open.spotify.com/track/0ixuiRpBn1pTiMeUVTkv5V"
     },
     {
       "album": {
@@ -1048,6 +1146,32 @@
       "duration_ms": 157812,
       "name": "Verdant Breath",
       "url": "https://open.spotify.com/track/1ELwtIRAPr3gLgprbWjsmm"
+    },
+    {
+      "album": {
+        "name": "A Shared Pulse (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F"
+      },
+      "artists": [
+        {
+          "name": "Graphity",
+          "url": "https://open.spotify.com/artist/4BFOUasxzvjSS6N2zvp4Zd"
+        },
+        {
+          "name": "Halo Healing",
+          "url": "https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/6vs3zn3RZXdnehXKsXhDmJ"
     },
     {
       "album": {

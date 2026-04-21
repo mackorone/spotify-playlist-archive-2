@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 262014,
       "name": "Demonio Paraguayo - En Vivo",
       "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
@@ -3327,6 +3327,24 @@
     },
     {
       "album": {
+        "name": "La vida boba (25 a\u00f1os - Hijos del Culo)",
+        "url": "https://open.spotify.com/album/2VkGfQuC3TbUnNZkq6Kc59"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308774,
+      "name": "La vida boba (25 a\u00f1os - Hijos del Culo)",
+      "url": "https://open.spotify.com/track/1kMmOQOdUSuYApfnV3d4NL"
+    },
+    {
+      "album": {
         "name": "La \u00danica Voz (En Vivo)",
         "url": "https://open.spotify.com/album/0cXt0t5PRtJf4JeaNlpVZz"
       },
@@ -4136,7 +4154,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 251296,
       "name": "M\u00fasica Del Alma - En Vivo",
       "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
@@ -5128,6 +5146,24 @@
       "duration_ms": 263373,
       "name": "Pronta Entrega - En Vivo",
       "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
+    },
+    {
+      "album": {
+        "name": "Pronta Entrega (Vivo en el Quilmes Rock)",
+        "url": "https://open.spotify.com/album/3qEreykRnQ39SvL77jkn9L"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254113,
+      "name": "Pronta Entrega - Vivo en el Quilmes Rock",
+      "url": "https://open.spotify.com/track/5G9AE4KUMJ5KHsitSL9wFe"
     },
     {
       "album": {

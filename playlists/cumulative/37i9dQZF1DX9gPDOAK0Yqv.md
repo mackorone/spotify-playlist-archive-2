@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-887 songs - 2 day 17 hr 27 min
+888 songs - 2 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [I See Your Face](https://open.spotify.com/track/6t2hnLG0RtU6A3TYEVRcHI) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [I See Your Face](https://open.spotify.com/album/6tWoVn8ziwcEvqgfaTm9ey) | 4:08 | 2025-05-01 | 2025-07-05 |
 | [I Talk To Water \(With Perry Farrell\) \- CamelPhat Remix](https://open.spotify.com/track/0VMY3ugy98OkCzk8U3q2C7) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Perry Farrell](https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE) | [I Talk To Water \(With Perry Farrell\) \(CamelPhat Remix\)](https://open.spotify.com/album/6tIe9eiRP3pUXY2f2DMMpe) | 3:00 | 2024-01-26 | 2024-10-25 |
 | [I Will Find You](https://open.spotify.com/track/74XpVeIclja8aFEtCQq1Y5) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [I Will Find You](https://open.spotify.com/album/1XxDcTMBN3ag8yHjusNpIv) | 3:29 | 2024-06-13 |  |
+| [I'll Be Waiting For You](https://open.spotify.com/track/2Tft4nCrXPx7NAJAPAMz1P) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [I'll Be Waiting For You](https://open.spotify.com/album/1tUZEYIztzaTfA8W9Qc8CY) | 3:05 | 2026-04-02 |  |
 | [I'm So Weak \- Dark Mix](https://open.spotify.com/track/3Q7eE5wxQnxBC697LoqUcj) | [Volaris](https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [I'm So Weak \(Dark Mix\)](https://open.spotify.com/album/1CLQiCWjOZDBCmw2v7PXrN) | 2:59 | 2023-05-23 | 2023-06-01 |
 | [Ice Veins](https://open.spotify.com/track/6lUSbs4xFvXmcJbWgYdA3r) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Ice Veins](https://open.spotify.com/album/4dhw8B9SrysbtUWc1IHfoc) | 3:31 | 2026-02-19 |  |
 | [IF ONLY](https://open.spotify.com/track/31941mN6Y6O57katHTXGKi) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex), [Yellowitz](https://open.spotify.com/artist/3VnY2LVBNIFS6Xx8YUd2JQ) | [IF ONLY](https://open.spotify.com/album/7EcaTTxzqvOlxMKPIzzBsD) | 3:33 | 2025-08-29 | 2025-10-07 |
@@ -644,7 +645,7 @@
 | [Revival](https://open.spotify.com/track/2GR1NiNV20Io0Wkqr5tub3) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn), [Hard Reset](https://open.spotify.com/artist/6liKh5rs35Y5VML94ZCswV) | [Revival](https://open.spotify.com/album/0Ktu6EbRo5a0oJPUajXHfC) | 4:03 | 2024-09-05 | 2024-11-22 |
 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 | 2022-12-28 | 2023-01-06 |
 | [Rider](https://open.spotify.com/track/4r0HVrlaSAFx4usOEXEf2G) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Rider](https://open.spotify.com/album/49R5umJQYx9Gk02aamMFsv) | 3:49 | 2024-04-04 | 2024-06-07 |
-| [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 | 2023-09-01 |  |
+| [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 | 2023-09-01 | 2026-04-21 |
 | [Ringo \- Miss Monique Remix](https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Ringo \(Miss Monique Remix\)](https://open.spotify.com/album/0DweN2CtrxoKqvz0w2hcPC) | 3:42 | 2023-12-15 | 2024-11-01 |
 | [Rise](https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Rise](https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4) | 3:23 | 2023-11-24 | 2024-05-29 |
 | [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 | 2023-03-03 | 2024-07-22 |

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Dominik Hartz
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,310 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,291 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Turbofresh](https://open.spotify.com/track/4MvB5zSLSxNPzmgTXWPH9J) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [Frank Lotion](https://open.spotify.com/artist/0NRUSXrcqFAFhyV438TdgG) | [Turbofresh](https://open.spotify.com/album/7vxViJNNHmazf6mDNuMYjI) | 2:13 |
-| 2 | [Shotgun \(mit Provinz\)](https://open.spotify.com/track/1qTMaaS5FdqiulCExFkvGy) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Shotgun \(mit Provinz\)](https://open.spotify.com/album/6dD3fdp0aPMAW0ecT7B8xL) | 2:50 |
-| 3 | [stargirls](https://open.spotify.com/track/3BF32A5iFMrWRCeubDcJwE) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG), [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [stargirls](https://open.spotify.com/album/18snFwyIEmmrOapOaJz0tr) | 2:41 |
-| 4 | [Du liebst mich schon längst](https://open.spotify.com/track/7HNOhwFIBEa9JKaMt4CpZ0) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6), [Yungmon](https://open.spotify.com/artist/7cHNAVsi27a0s2WKxETEqB) | [Du liebst mich schon längst](https://open.spotify.com/album/6oOfnFAnJK9EfQdk8iuSlD) | 2:42 |
-| 5 | [Atme ein: Raste aus](https://open.spotify.com/track/0iSnZR25PJZ4A2JXy1tuoN) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Atme ein: Raste aus](https://open.spotify.com/album/3v9SCAZuTrH32bG26gl1nA) | 2:54 |
-| 6 | [mach nich so](https://open.spotify.com/track/74sWsXinuC5RQAFWjhWFvU) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [mach nich so](https://open.spotify.com/album/6pGlbmvJt41qg4OnEQZiXU) | 2:01 |
-| 7 | [so lonely](https://open.spotify.com/track/5yPX2sxEKFyslaZx872OCi) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3), [smello](https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H) | [so lonely](https://open.spotify.com/album/5CTVZuW5raoKVOI8QCfH8X) | 1:48 |
+| 1 | [Shotgun \(mit Provinz\)](https://open.spotify.com/track/1qTMaaS5FdqiulCExFkvGy) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Shotgun \(mit Provinz\)](https://open.spotify.com/album/6dD3fdp0aPMAW0ecT7B8xL) | 2:50 |
+| 2 | [so lonely](https://open.spotify.com/track/5yPX2sxEKFyslaZx872OCi) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3), [smello](https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H) | [so lonely](https://open.spotify.com/album/5CTVZuW5raoKVOI8QCfH8X) | 1:48 |
+| 3 | [Turbofresh](https://open.spotify.com/track/4MvB5zSLSxNPzmgTXWPH9J) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [Frank Lotion](https://open.spotify.com/artist/0NRUSXrcqFAFhyV438TdgG) | [Turbofresh](https://open.spotify.com/album/7vxViJNNHmazf6mDNuMYjI) | 2:13 |
+| 4 | [stargirls](https://open.spotify.com/track/3BF32A5iFMrWRCeubDcJwE) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG), [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [stargirls](https://open.spotify.com/album/18snFwyIEmmrOapOaJz0tr) | 2:41 |
+| 5 | [Du liebst mich schon längst](https://open.spotify.com/track/7HNOhwFIBEa9JKaMt4CpZ0) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6), [Yungmon](https://open.spotify.com/artist/7cHNAVsi27a0s2WKxETEqB) | [Du liebst mich schon längst](https://open.spotify.com/album/6oOfnFAnJK9EfQdk8iuSlD) | 2:42 |
+| 6 | [Atme ein: Raste aus](https://open.spotify.com/track/0iSnZR25PJZ4A2JXy1tuoN) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Atme ein: Raste aus](https://open.spotify.com/album/3v9SCAZuTrH32bG26gl1nA) | 2:54 |
+| 7 | [mach nich so](https://open.spotify.com/track/74sWsXinuC5RQAFWjhWFvU) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [mach nich so](https://open.spotify.com/album/6pGlbmvJt41qg4OnEQZiXU) | 2:01 |
 | 8 | [Letztes Lied](https://open.spotify.com/track/32CTnLyfwOpDQWwB7IOYXj) | [Rex](https://open.spotify.com/artist/4oZpEOsCD2du75K8BadPSY), [Sira Faal](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Letztes Lied](https://open.spotify.com/album/498HXnLGLmrJZi0tSbY6R1) | 3:08 |
 | 9 | [GEIL](https://open.spotify.com/track/1nXPLmT3IeLvvMP96aLfJT) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [GEIL](https://open.spotify.com/album/48uGv2kWy9qhW3XAK22YFX) | 2:13 |
 | 10 | [rahmen](https://open.spotify.com/track/0kdFIOJuOumAxSgNXdZd1E) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [rahmen](https://open.spotify.com/album/5jIKfSzI1IGX2MiCBigJdp) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [ICH WAR HIER](https://open.spotify.com/track/0Hiydp2FPlfsltfPgx3h14) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [ICH WAR HIER](https://open.spotify.com/album/1xiNvX2AZz3WOwoWcZlT4g) | 2:51 |
 | 75 | [Loser](https://open.spotify.com/track/41bvcMH85cMo0ZCNZvdRru) | [Baumgart](https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO) | [Loser](https://open.spotify.com/album/06yZFyF5SgADNPhMsoyjC4) | 2:42 |
 
-Snapshot ID: `AAAAAGdV79/cQk3/ybJLGzWBqvTLYikF`
+Snapshot ID: `AAAAAAxSveawEXi/MXd8+hvFtdEc5fm4`

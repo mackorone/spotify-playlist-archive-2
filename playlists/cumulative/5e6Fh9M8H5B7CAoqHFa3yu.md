@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,137 songs - 5 day 6 hr 31 min
+2,138 songs - 5 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [De sol a sol](https://open.spotify.com/track/6zthGcyvorLaeLgfIhxVvM) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:47 | 2026-03-15 |  |
 | [Dead Flowers](https://open.spotify.com/track/3bvqJskS8cw4V2vPY3eC1R) | [Laugal](https://open.spotify.com/artist/2ftFy0PVhjxJkPCi4ivNRe) | [Dead Flowers](https://open.spotify.com/album/4ulTQWYHE3BiIbHTxJ4eUI) | 4:44 | 2025-05-13 |  |
 | [Dead Politiks](https://open.spotify.com/track/2AlnlW7Q1pE1YBziDwLHD5) | [Red Star Martyrs](https://open.spotify.com/artist/7mkHyAZeueFBhPFEe0EJoO), [Haji Mike](https://open.spotify.com/artist/5EV3QkIvzAnEbCmzBUxE1d) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 5:24 | 2024-03-23 |  |
+| [dear future self](https://open.spotify.com/track/52RtpM46le3D6bVbsaUUnN) | [anoushka hem](https://open.spotify.com/artist/5tjq7Oyj6Zu5PhVACjwC8t) | [LETTING GO](https://open.spotify.com/album/5qgzx90xVvgZcTqlnYLgAP) | 3:52 | 2026-04-20 |  |
 | [Dear Summer](https://open.spotify.com/track/4GK6QSZ7hxOw13sNjEuc04) | [Urban Grizzly](https://open.spotify.com/artist/7KHXAGYNMTcZkyvMrQwCOj) | [Dear Summer](https://open.spotify.com/album/5dWifVlsFXOqeB0E5438BY) | 4:12 | 2025-12-01 |  |
 | [DEATH](https://open.spotify.com/track/0pwnoUhy57HdGjj1zNzzNV) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG) | 5:06 | 2025-05-22 |  |
 | [Death Roll](https://open.spotify.com/track/1ViiOKBUbJY69lSrRTbDXi) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 3:01 | 2024-03-04 |  |

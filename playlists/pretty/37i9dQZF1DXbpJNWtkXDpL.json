@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 92246,
+  "num_followers": 92251,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
-        "name": "C\u00ednico",
-        "url": "https://open.spotify.com/album/2gnoJQ1HVX8hzNDsyi22gd"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "C\u00ednico",
-      "url": "https://open.spotify.com/track/5B7qTLdthcjJ7ZbIYjCDcv"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
         "name": "BRAZIL",
         "url": "https://open.spotify.com/album/7LNObuBTPKtOcm7ZF7GRRq"
       },
@@ -219,18 +203,18 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
-        "name": "HIPERSENTIMENTAL",
-        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
+        "name": "C\u00ednico",
+        "url": "https://open.spotify.com/album/2gnoJQ1HVX8hzNDsyi22gd"
       },
       "artists": [
         {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
         }
       ],
-      "duration_ms": 165360,
-      "name": "HIPERSENTIMENTAL",
-      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
+      "duration_ms": 184000,
+      "name": "C\u00ednico",
+      "url": "https://open.spotify.com/track/5B7qTLdthcjJ7ZbIYjCDcv"
     },
     {
       "added_at": "2026-04-17 20:38:14",
@@ -255,6 +239,54 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
+        "name": "HIPERSENTIMENTAL",
+        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "HIPERSENTIMENTAL",
+      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
+        "name": "HOSHI",
+        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "la estrella que quer\u00eda brillar",
+      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
+        "name": "se subio alatorre",
+        "url": "https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt"
+      },
+      "artists": [
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        }
+      ],
+      "duration_ms": 133827,
+      "name": "se subio alatorre",
+      "url": "https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
         "name": "250cc",
         "url": "https://open.spotify.com/album/6nUtF0ygYhS5iJh8JvnfuB"
       },
@@ -275,22 +307,6 @@
       "duration_ms": 145161,
       "name": "250cc",
       "url": "https://open.spotify.com/track/0Ywh0NH8bmPTQFvQZ9G5yU"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
-        "name": "se subio alatorre",
-        "url": "https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt"
-      },
-      "artists": [
-        {
-          "name": "Jose Alatorre",
-          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
-        }
-      ],
-      "duration_ms": 133827,
-      "name": "se subio alatorre",
-      "url": "https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm"
     },
     {
       "added_at": "2026-04-17 20:38:14",
@@ -359,6 +375,22 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
+        "name": "mirar adentro",
+        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 209382,
+      "name": "mirar adentro",
+      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
         "name": "ETHEREA",
         "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
       },
@@ -391,6 +423,26 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
+        "name": "CAMINO",
+        "url": "https://open.spotify.com/album/0vUAfMyeqlXI2vHy22oKSw"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        },
+        {
+          "name": "Xiuhtezcatl",
+          "url": "https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE"
+        }
+      ],
+      "duration_ms": 184832,
+      "name": "CAMINO",
+      "url": "https://open.spotify.com/track/7HrQQQeBpXAaZkvdeX24yU"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
         "name": "AYER (Plugg conciencia)",
         "url": "https://open.spotify.com/album/0WwrrFr6K8BBUgyjjuA2FR"
       },
@@ -415,6 +467,26 @@
       "duration_ms": 193674,
       "name": "AYER - Plugg conciencia",
       "url": "https://open.spotify.com/track/2cmGC5QRB7mNufvsGwwaZM"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
+        "name": "ME VEIA BIEN",
+        "url": "https://open.spotify.com/album/0L5kvaZLgtWyZmpRbQ8rY4"
+      },
+      "artists": [
+        {
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+        },
+        {
+          "name": "Novato El Flow",
+          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
+        }
+      ],
+      "duration_ms": 148051,
+      "name": "ME VEIA BIEN",
+      "url": "https://open.spotify.com/track/7wGR4HVmHjH6ezMxp7h4SS"
     },
     {
       "added_at": "2026-04-17 20:38:14",
@@ -459,6 +531,42 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
+        "name": "Llegan Y Se Van",
+        "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
+      },
+      "artists": [
+        {
+          "name": "Low Clika",
+          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
+        },
+        {
+          "name": "Santiago Martell",
+          "url": "https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl"
+        }
+      ],
+      "duration_ms": 149652,
+      "name": "Llegan Y Se Van",
+      "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
+        "name": "Ping\u00fcinos",
+        "url": "https://open.spotify.com/album/3V79Llwk7Lb9EUbsYd3wiG"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "duration_ms": 196629,
+      "name": "Ping\u00fcinos",
+      "url": "https://open.spotify.com/track/6vmzWzScqJ70yumSCoNa3y"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
         "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
         "url": "https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv"
       },
@@ -475,6 +583,22 @@
       "duration_ms": 192000,
       "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
       "url": "https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
+        "name": "La Culpable",
+        "url": "https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        }
+      ],
+      "duration_ms": 237005,
+      "name": "La Culpable",
+      "url": "https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU"
     },
     {
       "added_at": "2026-04-17 20:38:14",
@@ -503,18 +627,18 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
-        "name": "La Culpable",
-        "url": "https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R"
+        "name": "Trampa",
+        "url": "https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T"
       },
       "artists": [
         {
-          "name": "eydrey",
-          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+          "name": "Fabio Capri",
+          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
         }
       ],
-      "duration_ms": 237005,
-      "name": "La Culpable",
-      "url": "https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU"
+      "duration_ms": 152928,
+      "name": "Trampa",
+      "url": "https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF"
     },
     {
       "added_at": "2026-04-17 20:38:14",
@@ -559,18 +683,22 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
-        "name": "Trampa",
-        "url": "https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T"
+        "name": "PEKORITAS VOL.1",
+        "url": "https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A"
       },
       "artists": [
         {
-          "name": "Fabio Capri",
-          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
+          "name": "DENNA LA PORRI",
+          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
+        },
+        {
+          "name": "Moodjaas",
+          "url": "https://open.spotify.com/artist/2LdZfa7wgy3DhUcyBgg1Y3"
         }
       ],
-      "duration_ms": 152928,
-      "name": "Trampa",
-      "url": "https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF"
+      "duration_ms": 147453,
+      "name": "SOLA",
+      "url": "https://open.spotify.com/track/7Em8Ee0KGibwIr5smqk1TJ"
     },
     {
       "added_at": "2026-04-17 20:38:14",
@@ -611,22 +739,34 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
-        "name": "CAMINO",
-        "url": "https://open.spotify.com/album/0vUAfMyeqlXI2vHy22oKSw"
+        "name": "Cuenta mis pasos",
+        "url": "https://open.spotify.com/album/6OKxHgWUqC6BBwb8w8LHVg"
       },
       "artists": [
         {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        },
-        {
-          "name": "Xiuhtezcatl",
-          "url": "https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE"
+          "name": "The Space Ocean",
+          "url": "https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb"
         }
       ],
-      "duration_ms": 184832,
-      "name": "CAMINO",
-      "url": "https://open.spotify.com/track/7HrQQQeBpXAaZkvdeX24yU"
+      "duration_ms": 217473,
+      "name": "Cuenta mis pasos",
+      "url": "https://open.spotify.com/track/7HrVWuwDDCbOk5tTryM3tE"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
+        "name": "KORA KORA",
+        "url": "https://open.spotify.com/album/2GeUPUMOXzVd9DrnoENWx2"
+      },
+      "artists": [
+        {
+          "name": "cKovi",
+          "url": "https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO"
+        }
+      ],
+      "duration_ms": 131367,
+      "name": "KORA KORA",
+      "url": "https://open.spotify.com/track/6ndpaM4u9dss1lpC7RX92X"
     },
     {
       "added_at": "2026-04-17 20:38:14",
@@ -675,6 +815,22 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
+        "name": "S\u00daPLICA",
+        "url": "https://open.spotify.com/album/6nRCtnVuAHAPiRhzqdYml2"
+      },
+      "artists": [
+        {
+          "name": "El Toed",
+          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
+        }
+      ],
+      "duration_ms": 207969,
+      "name": "S\u00daPLICA",
+      "url": "https://open.spotify.com/track/5kGoUV4bKVtMIDlmWMpWp4"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
         "name": "HISTORIAS DEL CERRO",
         "url": "https://open.spotify.com/album/1yRX0S6IXARwJ0e9cw6auj"
       },
@@ -695,58 +851,6 @@
       "duration_ms": 158698,
       "name": "habitaci\u00f3n backwo0d",
       "url": "https://open.spotify.com/track/3Wa7Qee0YpucLgD6ehUClD"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
-        "name": "S\u00daPLICA",
-        "url": "https://open.spotify.com/album/6nRCtnVuAHAPiRhzqdYml2"
-      },
-      "artists": [
-        {
-          "name": "El Toed",
-          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
-        }
-      ],
-      "duration_ms": 207969,
-      "name": "S\u00daPLICA",
-      "url": "https://open.spotify.com/track/5kGoUV4bKVtMIDlmWMpWp4"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
-        "name": "PEKORITAS VOL.1",
-        "url": "https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A"
-      },
-      "artists": [
-        {
-          "name": "DENNA LA PORRI",
-          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
-        },
-        {
-          "name": "Moodjaas",
-          "url": "https://open.spotify.com/artist/2LdZfa7wgy3DhUcyBgg1Y3"
-        }
-      ],
-      "duration_ms": 147453,
-      "name": "SOLA",
-      "url": "https://open.spotify.com/track/7Em8Ee0KGibwIr5smqk1TJ"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
-        "name": "Ping\u00fcinos",
-        "url": "https://open.spotify.com/album/3V79Llwk7Lb9EUbsYd3wiG"
-      },
-      "artists": [
-        {
-          "name": "Agris",
-          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
-        }
-      ],
-      "duration_ms": 196629,
-      "name": "Ping\u00fcinos",
-      "url": "https://open.spotify.com/track/6vmzWzScqJ70yumSCoNa3y"
     },
     {
       "added_at": "2026-04-17 20:38:14",
@@ -855,22 +959,6 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
-        "name": "Cuenta mis pasos",
-        "url": "https://open.spotify.com/album/6OKxHgWUqC6BBwb8w8LHVg"
-      },
-      "artists": [
-        {
-          "name": "The Space Ocean",
-          "url": "https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb"
-        }
-      ],
-      "duration_ms": 217473,
-      "name": "Cuenta mis pasos",
-      "url": "https://open.spotify.com/track/7HrVWuwDDCbOk5tTryM3tE"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
         "name": "T.V ADDICT (nitro)",
         "url": "https://open.spotify.com/album/727LHY7Z8C6n1S9qbbxbnJ"
       },
@@ -887,94 +975,6 @@
       "duration_ms": 210258,
       "name": "buttermilk 2",
       "url": "https://open.spotify.com/track/2yT6DwSVxB3WgyIUmDrnDZ"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
-        "name": "ME VEIA BIEN",
-        "url": "https://open.spotify.com/album/0L5kvaZLgtWyZmpRbQ8rY4"
-      },
-      "artists": [
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
-        },
-        {
-          "name": "Novato El Flow",
-          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
-        }
-      ],
-      "duration_ms": 148051,
-      "name": "ME VEIA BIEN",
-      "url": "https://open.spotify.com/track/7wGR4HVmHjH6ezMxp7h4SS"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
-        "name": "KORA KORA",
-        "url": "https://open.spotify.com/album/2GeUPUMOXzVd9DrnoENWx2"
-      },
-      "artists": [
-        {
-          "name": "cKovi",
-          "url": "https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO"
-        }
-      ],
-      "duration_ms": 131367,
-      "name": "KORA KORA",
-      "url": "https://open.spotify.com/track/6ndpaM4u9dss1lpC7RX92X"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
-        "name": "Llegan Y Se Van",
-        "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
-      },
-      "artists": [
-        {
-          "name": "Low Clika",
-          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
-        },
-        {
-          "name": "Santiago Martell",
-          "url": "https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl"
-        }
-      ],
-      "duration_ms": 149652,
-      "name": "Llegan Y Se Van",
-      "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
-        "name": "HOSHI",
-        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "la estrella que quer\u00eda brillar",
-      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
-        "name": "mirar adentro",
-        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 209382,
-      "name": "mirar adentro",
-      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

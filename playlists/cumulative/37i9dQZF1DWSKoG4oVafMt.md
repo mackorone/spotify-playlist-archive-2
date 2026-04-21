@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,168 songs - 2 day 15 hr 0 min
+1,169 songs - 2 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,7 @@
 | [Gustakhi](https://open.spotify.com/track/2khgycGenz8WXa8DgH0fGH) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv), [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y) | [Gustakhi](https://open.spotify.com/album/2hf7wUuaRVXOCbMTV8lotP) | 2:16 | 2025-06-04 | 2025-07-05 |
 | [Gustakhiyan](https://open.spotify.com/track/3X3BiiDYiPVIn5gEpO9HiF) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Gustakhiyan](https://open.spotify.com/album/4KCsudLqml0Z2T0OWGzLuC) | 2:32 | 2022-01-19 | 2022-04-06 |
 | [Haadsa](https://open.spotify.com/track/0JokwEj0EIFXuCpDrLmB2A) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Haadsa](https://open.spotify.com/album/5amFOjDhjHu3RknedulVt7) | 4:54 | 2022-02-07 | 2022-02-12 |
-| [Haak Maar Saddi Jatt Ne](https://open.spotify.com/track/57wgmIiyooq7XIHsAlEZQN) | [Arshaan Basaati](https://open.spotify.com/artist/4OmifCCVdHwdXh41OsQD9B), [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap), [Zora Ahluwalia](https://open.spotify.com/artist/3pqcaPl0sinm0yurXWf7E2) | [Haak Maar Saddi Jatt Ne](https://open.spotify.com/album/4FIng5FbD4rPrCt5tvzosl) | 2:59 | 2025-03-12 |  |
+| [Haak Maar Saddi Jatt Ne](https://open.spotify.com/track/57wgmIiyooq7XIHsAlEZQN) | [Arshaan Basaati](https://open.spotify.com/artist/4OmifCCVdHwdXh41OsQD9B), [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap), [Zora Ahluwalia](https://open.spotify.com/artist/3pqcaPl0sinm0yurXWf7E2) | [Haak Maar Saddi Jatt Ne](https://open.spotify.com/album/4FIng5FbD4rPrCt5tvzosl) | 2:59 | 2025-03-12 | 2026-04-21 |
 | [Haal Naar Da](https://open.spotify.com/track/3PaHa8GeaViou9hQfigbuN) | [Nikk](https://open.spotify.com/artist/6z9kS2dZQbqNV69wfrCZAR), [Rox A](https://open.spotify.com/artist/1tG4YxtmYSP5G7w2YA8jRJ) | [Haal Naar Da](https://open.spotify.com/album/7d4obTsFgPzSzZzH98DvoI) | 2:53 | 2022-04-07 | 2022-04-29 |
 | [Haase Thode](https://open.spotify.com/track/76MrBHxJVet38xAtxqc0xg) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Spidy's Music](https://open.spotify.com/artist/4JJpNjGZGXcezGJkS0ASqP), [Vinder Nathu Majra](https://open.spotify.com/artist/1B4NLf9v1eIpwm8vZCEOKN) | [Haase Thode](https://open.spotify.com/album/7o3jdiuwEuHvFAy4IkavQa) | 3:16 | 2024-11-11 | 2024-12-06 |
 | [Haaye Ni](https://open.spotify.com/track/5V3MzZjIQ5MP2g8AMCBbRi) | [Sartaj Virk](https://open.spotify.com/artist/4jX7GGtVdF9qkueNxBJB9w) | [Haaye Ni](https://open.spotify.com/album/01nqQiPsbGrNwLD10dZ6sa) | 3:08 | 2022-09-08 | 2023-02-04 |
@@ -648,6 +648,7 @@
 | [Mehendi Sade Naam Di](https://open.spotify.com/track/2rSGiziqGJEOJS70i3Gn3b) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj) | [Mehendi Sade Naam Di](https://open.spotify.com/album/0TOTLrXBIjTMghHK3mHqpd) | 4:22 | 2022-07-22 | 2022-08-18 |
 | [Mehnge Mamle](https://open.spotify.com/track/7khbEiCW3oEB7o6iy0EzTW) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Mehnge Mamle](https://open.spotify.com/album/4x4wA9h11FiGy1QRgN2Jvz) | 2:07 | 2022-03-18 | 2022-05-20 |
 | [Mehrma](https://open.spotify.com/track/56L6jhPtECVZTn0GmPolKm) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B) | [Mehrma](https://open.spotify.com/album/5AfAcHsIHhHJOYZPvvyFHS) | 3:36 | 2022-10-25 | 2023-02-04 |
+| [Mera A Ve Tu](https://open.spotify.com/track/2r5rn2xtmVr3sT7rqR8c3u) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Mera A Ve Tu](https://open.spotify.com/album/4jlWOaQX0drg980suFKSf0) | 2:53 | 2026-04-20 |  |
 | [Mera Dil Janda](https://open.spotify.com/track/6UTs2hj4rvSDSKE49mmdna) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Mera Dil Janda](https://open.spotify.com/album/6jSTQ8JLGCpBD6UXX3XCq1) | 3:32 | 2024-08-29 | 2024-09-21 |
 | [Mera Na Reha](https://open.spotify.com/track/7zEhtXX2b6ORyM5Nw9ozRk) | [Babbal Rai](https://open.spotify.com/artist/5LFXPuKD97Sp9qdkxYBfDn), [Sunny Vik](https://open.spotify.com/artist/0w7vYjdZtzd1zSmPfY0mKe) | [Mera Na Reha](https://open.spotify.com/album/4OmKOU7EAaCFKDq96kZlA6) | 3:30 | 2022-07-03 | 2023-02-02 |
 | [Mera Rang](https://open.spotify.com/track/2pxYMNkCvTS4KH0VAUjiT3) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Mera Rang](https://open.spotify.com/album/4dLhk2oHm4uS83FuxL8Tlp) | 3:26 | 2022-04-11 | 2022-05-11 |

@@ -4,7 +4,7 @@
 
 > Listen to all her biggest hits, in one place.
 
-145 songs - 9 hr 3 min
+146 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Joanne \(Where Do You Think You're Goin'?\) \- Piano Version](https://open.spotify.com/track/1j8jHKgAQ7QD52Wd5uuLNZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Where Do You Think You're Goin'?\) \[Piano Version\]](https://open.spotify.com/album/5jqcNriHl28rS3LlmoP1fg) | 4:39 | 2022-05-09 | 2023-08-15 |
 | [Joanne \(Where Do You Think You're Goin'?\) \- Piano Version](https://open.spotify.com/track/2jhD828DCOaOrmrwC4ZX9a) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chill Out Good Vibes](https://open.spotify.com/album/3PBMkwiN2L1bLPkrDj4DvL) | 4:39 | 2022-05-09 | 2022-11-13 |
 | [Joanne \(Where Do You Think You're Goin'?\) \- Piano Version](https://open.spotify.com/track/6iMyJ10a1u8Bc9F5qLtrEm) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Where Do You Think You're Goin'?\) \[Piano Version\]](https://open.spotify.com/album/3de9BQqCRA57tDlDLt8s3L) | 4:39 | 2020-10-16\* | 2022-07-29 |
-| [John Wayne](https://open.spotify.com/track/1vwTGFOq34pA2d0VUikL3W) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T) | 2:54 | 2020-10-16\* |  |
+| [John Wayne](https://open.spotify.com/track/1vwTGFOq34pA2d0VUikL3W) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T) | 2:54 | 2020-10-16\* | 2026-04-21 |
 | [Judas](https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) | 4:09 | 2022-05-09 | 2024-04-19 |
 | [Judas](https://open.spotify.com/track/4yQmDtjax2Ye9wY8EPAO1x) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Standard Version\)](https://open.spotify.com/album/30D9CrjDAZRrN7esS8CCgO) | 4:09 | 2020-10-16\* |  |
 | [Judas](https://open.spotify.com/track/7rr5DQM980mOF1UtIC4q6v) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:09 | 2022-05-09 | 2022-11-13 |
@@ -108,6 +108,7 @@
 | [Poker Face](https://open.spotify.com/track/2q55kslMGD7M0TVW85pcca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [2000年代に流行った洋楽!](https://open.spotify.com/album/3iUSCE0uE5euGQZZV3wCNu) | 3:58 | 2022-05-09 | 2022-11-13 |
 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 | 2020-10-16\* |  |
 | [Replay](https://open.spotify.com/track/7sKbyYeJnITO1Eh9xd0lKd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:06 | 2020-10-16\* | 2025-03-08 |
+| [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 | 2026-04-20 |  |
 | [ScheiBe](https://open.spotify.com/track/1RFXENx9ILC6PECmNhEstC) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 3:45 | 2024-04-06 |  |
 | [Shadow Of A Man](https://open.spotify.com/track/6OC87jHRiovNPEUrgaqFSu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:19 | 2025-03-07 |  |
 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 | 2020-10-16\* |  |

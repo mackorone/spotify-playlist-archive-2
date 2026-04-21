@@ -394,7 +394,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 278474,
       "name": "Assumptions - slowed down version",
       "url": "https://open.spotify.com/track/4QhTDQlt5M2sp2DNWnVift"
@@ -2440,7 +2440,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 221253,
       "name": "Mother's Love",
       "url": "https://open.spotify.com/track/25iPLrlogdTHS9ZYnUEtxw"
@@ -3565,6 +3565,28 @@
     },
     {
       "album": {
+        "name": "minecraft - volume alpha (nostalgic)",
+        "url": "https://open.spotify.com/album/2B4b9fAl8qAziLWWYRUYOI"
+      },
+      "artists": [
+        {
+          "name": "exhibit",
+          "url": "https://open.spotify.com/artist/61HWukfebVT1IPbIUo5t5Q"
+        },
+        {
+          "name": "analoq.",
+          "url": "https://open.spotify.com/artist/70hprxD328RNM6nxs6sAf3"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144859,
+      "name": "subwoofer lullaby (ambient)",
+      "url": "https://open.spotify.com/track/2d3IIJwd9JI3QK3eLY8Mu8"
+    },
+    {
+      "album": {
         "name": "Succession: Season 1 (HBO Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj"
       },
@@ -3580,6 +3602,24 @@
       "duration_ms": 102013,
       "name": "Succession (Main Title Theme)",
       "url": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"
+    },
+    {
+      "album": {
+        "name": "Nature P.1",
+        "url": "https://open.spotify.com/album/5gwsCsmAciPBVy021Da18G"
+      },
+      "artists": [
+        {
+          "name": "The Red Brothers",
+          "url": "https://open.spotify.com/artist/0cFyKKkV7vUXtY2uDGa4J6"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106055,
+      "name": "Sun and Thunder (Interlude 1.1)",
+      "url": "https://open.spotify.com/track/2HpXqQp27j6zvFR3dMzF6m"
     },
     {
       "album": {

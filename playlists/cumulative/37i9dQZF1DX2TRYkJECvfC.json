@@ -4497,6 +4497,24 @@
     },
     {
       "album": {
+        "name": "High Speed Ring",
+        "url": "https://open.spotify.com/album/2g3S1HaEsnYX3QticAKsFc"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278405,
+      "name": "High Speed Ring",
+      "url": "https://open.spotify.com/track/49j6FhpppvIcbsBvqLRkKh"
+    },
+    {
+      "album": {
         "name": "Higher Now",
         "url": "https://open.spotify.com/album/6GUMKmJXypGQ8Ta6OuFTp1"
       },
@@ -5724,7 +5742,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 369422,
       "name": "Koyika",
       "url": "https://open.spotify.com/track/0DawyHLNAGS63ZjNxgGXJY"

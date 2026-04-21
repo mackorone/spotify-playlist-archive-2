@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,366 songs - 9 day 16 hr 15 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,369 songs - 9 day 16 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4374,5 +4374,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4364 | [Dead End Road](https://open.spotify.com/track/43hAOE3V7rJ6U45EH1mCKC) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [The Sound of Static](https://open.spotify.com/album/1AhJR1phukAEoqH4PwDwKR) | 2:26 |
 | 4365 | [Espectador](https://open.spotify.com/track/1aTD8dSp3ZVaCWnQbr2rM1) | [oitavosounds](https://open.spotify.com/artist/6KuxuULcCuhHl7wn5LYbM8) | [Espectador](https://open.spotify.com/album/0zigtsUnrrMDHrk5a7OpMx) | 3:33 |
 | 4366 | [She \- Radio Mix](https://open.spotify.com/track/7ssoU0Q2YLQpYfVSFodiU3) | [VB](https://open.spotify.com/artist/6bWH9AGbutBmdCkMbwJDjq) | [She](https://open.spotify.com/album/3K0S7jq6J4YZeOuB9at0J0) | 2:48 |
+| 4367 | [Lying](https://open.spotify.com/track/3NQ352T1u3Zn389Io8EmF5) | [Unlucky Empathy](https://open.spotify.com/artist/3stdHKfwcRB3Vmj7KQOsYl) | [Lying](https://open.spotify.com/album/6qdZO3ebPEZhVxx0BRDU6h) | 5:12 |
+| 4368 | [La cantina de poder](https://open.spotify.com/track/5htd2qienkY0cQlQ0gubu9) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 4:02 |
+| 4369 | [Serenada](https://open.spotify.com/track/4ZnDI6bbOt3GzZbCHRKXKR) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 2:48 |
 
-Snapshot ID: `AAAIZK5vf2zJVJ7ZvN18X2ljg7ggmOy+`
+Snapshot ID: `AAAIZ1AA7hcq2uiwTeWDzWO8Bw+9mNvm`

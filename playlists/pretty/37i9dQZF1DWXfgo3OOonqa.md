@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,048 likes - 99 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,025 likes - 99 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FINAL](https://open.spotify.com/track/7CfLohdHZlvV3rCU3yJrCw) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [FINAL](https://open.spotify.com/album/5wCxNoFNd1E4VYuECG0Yuv) | 2:08 |
-| 2 | [PERFORMANTE](https://open.spotify.com/track/0L0IVsiiM565BaEw6ZC44Q) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [PERFORMANTE](https://open.spotify.com/album/2ezemS5XCfp01kKTiE6cBg) | 1:56 |
-| 3 | [The Wire](https://open.spotify.com/track/3UWgetrlbddIwrWVmXhRov) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [The Wire](https://open.spotify.com/album/3ZxYa0OcfFwlgal3tCRlHY) | 2:10 |
-| 4 | [Kärlek & brott](https://open.spotify.com/track/0jZIXTGOxUkKvk0wwzabKI) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Kärlek & brott](https://open.spotify.com/album/4EZhLDlDFGcxhNGIgS0kxS) | 2:06 |
+| 1 | [Kärlek & brott](https://open.spotify.com/track/0jZIXTGOxUkKvk0wwzabKI) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Kärlek & brott](https://open.spotify.com/album/4EZhLDlDFGcxhNGIgS0kxS) | 2:06 |
+| 2 | [FINAL](https://open.spotify.com/track/7CfLohdHZlvV3rCU3yJrCw) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [FINAL](https://open.spotify.com/album/5wCxNoFNd1E4VYuECG0Yuv) | 2:08 |
+| 3 | [PERFORMANTE](https://open.spotify.com/track/0L0IVsiiM565BaEw6ZC44Q) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [PERFORMANTE](https://open.spotify.com/album/2ezemS5XCfp01kKTiE6cBg) | 1:56 |
+| 4 | [The Wire](https://open.spotify.com/track/3UWgetrlbddIwrWVmXhRov) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [The Wire](https://open.spotify.com/album/3ZxYa0OcfFwlgal3tCRlHY) | 2:10 |
 | 5 | [MOËT](https://open.spotify.com/track/3Ij7FMVf5IzNoPcmyC4sFc) | [G3B](https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4), [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [MOËT](https://open.spotify.com/album/7lzqZ0rZOn7wNjY08T6RMo) | 2:19 |
-| 6 | [DANSAT KLART](https://open.spotify.com/track/0BgfFQwaNDb0y6t1y7ySPq) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [DANSAT KLART](https://open.spotify.com/album/7oFar5oeXHl3I3vannJvQg) | 2:01 |
+| 6 | [Nya Sverige 2026](https://open.spotify.com/track/3o0XwyqwQ8RcPev4h1bu0B) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Nya Sverige 2026](https://open.spotify.com/album/18qIucEmXCfjGgFV6Xiu7k) | 2:27 |
 | 7 | [Control](https://open.spotify.com/track/1Atmj6CNZsuBK1cLMqXm3H) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Control](https://open.spotify.com/album/2zywhbY7pjD1o9cap0VZkV) | 2:28 |
-| 8 | [Jag & Du](https://open.spotify.com/track/5TWaVJ43j0saiCIrlYJdPe) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [Jag & Du](https://open.spotify.com/album/2fYj014bCxVfVQmSf6nPUE) | 2:09 |
-| 9 | [Nya Sverige 2026](https://open.spotify.com/track/3o0XwyqwQ8RcPev4h1bu0B) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Nya Sverige 2026](https://open.spotify.com/album/18qIucEmXCfjGgFV6Xiu7k) | 2:27 |
+| 8 | [DANSAT KLART](https://open.spotify.com/track/0BgfFQwaNDb0y6t1y7ySPq) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [DANSAT KLART](https://open.spotify.com/album/7oFar5oeXHl3I3vannJvQg) | 2:01 |
+| 9 | [Jag & Du](https://open.spotify.com/track/5TWaVJ43j0saiCIrlYJdPe) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [Jag & Du](https://open.spotify.com/album/2fYj014bCxVfVQmSf6nPUE) | 2:09 |
 | 10 | [Marbella](https://open.spotify.com/track/3AbDGbg5CSyThIomPyiZjy) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Marbella](https://open.spotify.com/album/57uTp4n0QVCB0xdxlpoJ2n) | 2:31 |
 | 11 | [MVP](https://open.spotify.com/track/3HAHEQf5YPMwVdOTiITESS) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [MVP](https://open.spotify.com/album/7asnBd9Svt6kaJHBqSVc9W) | 1:59 |
-| 12 | [VIS MAN](https://open.spotify.com/track/0bkeMrmnJ91siXBajhl07W) | [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2) | [VIS MAN](https://open.spotify.com/album/0UUbwSjjDKx2MqUNOw2CmF) | 2:40 |
-| 13 | [Welcome To The Party](https://open.spotify.com/track/34wyy1ClzFYhce4rgKnNcd) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Welcome To The Party](https://open.spotify.com/album/40nWQD3iNnPNf8KOd1snMi) | 2:34 |
+| 12 | [Welcome To The Party](https://open.spotify.com/track/34wyy1ClzFYhce4rgKnNcd) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Welcome To The Party](https://open.spotify.com/album/40nWQD3iNnPNf8KOd1snMi) | 2:34 |
+| 13 | [VIS MAN](https://open.spotify.com/track/0bkeMrmnJ91siXBajhl07W) | [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2) | [VIS MAN](https://open.spotify.com/album/0UUbwSjjDKx2MqUNOw2CmF) | 2:40 |
 | 14 | [Sann Romans](https://open.spotify.com/track/1b4Aq8g1QQ0Qb8iTwRSs3f) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [Sann Romans](https://open.spotify.com/album/5FcDc5W1RdQRfnxn0ebVrP) | 2:31 |
 | 15 | [Vibrations](https://open.spotify.com/track/5mKXu5j0mJMd13jj5kwyZL) | [MARLEY](https://open.spotify.com/artist/1tCHIYYThjbl1pdOPCst48) | [Vibrations](https://open.spotify.com/album/7F9aFHNyq5lXJ32l7x4M3d) | 2:22 |
 | 16 | [KLUBB](https://open.spotify.com/track/6zkINhgmn9Q67Ls03ItOsp) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [KLUBB](https://open.spotify.com/album/2H6j1KHmSTGBWApgURQUo3) | 2:05 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 98 | [Smutsiga Tankar](https://open.spotify.com/track/3FGjcrMU2Ocrn99AJJ9Kil) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Smutsiga Tankar](https://open.spotify.com/album/6EJ8lf1o9Fhyv3MeHVQwRE) | 2:00 |
 | 99 | [Priceless](https://open.spotify.com/track/6d1w0l1afodsaHwivuN9RV) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Ladies & Gentlemen](https://open.spotify.com/album/0e9xHx3eej1r3qemB8wNlf) | 2:34 |
 
-Snapshot ID: `AAAAAAwVBNkAaQe94A8K5RZvGD4Hs/US`
+Snapshot ID: `AAAAAL/w6s44UaRPnkfbC38soyDEKh+L`

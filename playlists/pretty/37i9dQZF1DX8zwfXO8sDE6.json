@@ -1,6 +1,6 @@
 {
   "description": "Discover the amazing world of Japanese City Pop from the \u201870s./ \u30cb\u30e5\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3068\u3082\u4e00\u7dda\u3092\u753b\u3059\u3001\u90fd\u4f1a\u7684\u3067\u6d17\u7df4\u3055\u308c\u305f\u97f3\u697d\uff1d\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u306e\u8a95\u751f\u3002\u9ece\u660e\u671f\u306e\u8f1d\u304d\u306f\u6c38\u9060\u306b\u3002",
-  "num_followers": 70943,
+  "num_followers": 70954,
   "original_name": "City Pop '70s",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
+      },
+      "artists": [
+        {
+          "name": "Rajie",
+          "url": "https://open.spotify.com/artist/007kw598oq32vy4koAoVk4"
+        }
+      ],
+      "duration_ms": 226320,
+      "name": "THE TOKYO TASTE",
+      "url": "https://open.spotify.com/track/4VtaiiprEhrb0OuDoAH8vm"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
         "name": "COBALT HOUR",
         "url": "https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu"
       },
@@ -227,18 +243,18 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
+        "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz"
       },
       "artists": [
         {
-          "name": "Rajie",
-          "url": "https://open.spotify.com/artist/007kw598oq32vy4koAoVk4"
+          "name": "Jun Fukamachi",
+          "url": "https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR"
         }
       ],
-      "duration_ms": 226320,
-      "name": "THE TOKYO TASTE",
-      "url": "https://open.spotify.com/track/4VtaiiprEhrb0OuDoAH8vm"
+      "duration_ms": 299160,
+      "name": "LETTER TO NEW YORK",
+      "url": "https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -259,22 +275,6 @@
       "duration_ms": 241733,
       "name": "\u661f\u304f\u305a",
       "url": "https://open.spotify.com/track/61hZsSHXCRgjhxBl6bKL8Q"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
-        "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30f4",
-        "url": "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz"
-      },
-      "artists": [
-        {
-          "name": "Jun Fukamachi",
-          "url": "https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR"
-        }
-      ],
-      "duration_ms": 299160,
-      "name": "LETTER TO NEW YORK",
-      "url": "https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
-      },
-      "artists": [
-        {
-          "name": "Rajie",
-          "url": "https://open.spotify.com/artist/007kw598oq32vy4koAoVk4"
-        }
-      ],
-      "duration_ms": 288506,
-      "name": "HEART to HEART",
-      "url": "https://open.spotify.com/track/7dWNiL1K3nzwGG2kwDK5KD"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
         "name": "SUNSHOWER",
         "url": "https://open.spotify.com/album/1tirkouCp0ofWI1IADUvy2"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
+      },
+      "artists": [
+        {
+          "name": "Rajie",
+          "url": "https://open.spotify.com/artist/007kw598oq32vy4koAoVk4"
+        }
+      ],
+      "duration_ms": 288506,
+      "name": "HEART to HEART",
+      "url": "https://open.spotify.com/track/7dWNiL1K3nzwGG2kwDK5KD"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
         "name": "\u307b\u3046\u308d\u3046",
         "url": "https://open.spotify.com/album/569VdQ5J9BOq1tv5ahzf7R"
       },
@@ -507,8 +507,8 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "LAGOON (\u30ea\u30de\u30b9\u30bf\u30fc2017)",
-        "url": "https://open.spotify.com/album/33zr4KaPWAo7XtvinSInsf"
+        "name": "BAND WAGON (\u30ea\u30de\u30b9\u30bf\u30fc2017)",
+        "url": "https://open.spotify.com/album/2MipJf5PtOFcUeIdPYVmtO"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z"
         }
       ],
-      "duration_ms": 175973,
-      "name": "LADY PINK PANTHER",
-      "url": "https://open.spotify.com/track/2fbyESl5b0FVR6yCDsQGPe"
+      "duration_ms": 235853,
+      "name": "\u7802\u306e\u5973",
+      "url": "https://open.spotify.com/track/3KauV05L57307GtIr7qDzn"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -587,8 +587,8 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "BAND WAGON (\u30ea\u30de\u30b9\u30bf\u30fc2017)",
-        "url": "https://open.spotify.com/album/2MipJf5PtOFcUeIdPYVmtO"
+        "name": "LAGOON (\u30ea\u30de\u30b9\u30bf\u30fc2017)",
+        "url": "https://open.spotify.com/album/33zr4KaPWAo7XtvinSInsf"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z"
         }
       ],
-      "duration_ms": 235853,
-      "name": "\u7802\u306e\u5973",
-      "url": "https://open.spotify.com/track/3KauV05L57307GtIr7qDzn"
+      "duration_ms": 175973,
+      "name": "LADY PINK PANTHER",
+      "url": "https://open.spotify.com/track/2fbyESl5b0FVR6yCDsQGPe"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "SOUTH OF THE BORDER",
-        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
-      },
-      "artists": [
-        {
-          "name": "Yoshitaka Minami",
-          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "\u591c\u9593\u98db\u884c",
-      "url": "https://open.spotify.com/track/0nJSH4TfCIFtIzVhpTAQ9T"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
         "name": "Kissing Fish (2017 \u30ea\u30de\u30b9\u30bf\u30fc)",
         "url": "https://open.spotify.com/album/0lYuIvIxDgtshJa2CUjMTQ"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
+        "name": "SOUTH OF THE BORDER",
+        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
+      },
+      "artists": [
+        {
+          "name": "Yoshitaka Minami",
+          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "\u591c\u9593\u98db\u884c",
+      "url": "https://open.spotify.com/track/0nJSH4TfCIFtIzVhpTAQ9T"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
         "name": "BEGINNING",
         "url": "https://open.spotify.com/album/36BRn0ckMgu8ePVx2wnun8"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 248600,
       "name": "\u51a5\u60f3",
       "url": "https://open.spotify.com/track/7zpGF0mHjjs7r0CUmT1yhm"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
-        "name": "SOUTH OF THE BORDER",
-        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
-      },
-      "artists": [
-        {
-          "name": "Yoshitaka Minami",
-          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "\u30d7\u30fc\u30eb\u30b5\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -787,6 +771,22 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
+        "name": "SOUTH OF THE BORDER",
+        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
+      },
+      "artists": [
+        {
+          "name": "Yoshitaka Minami",
+          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "\u30d7\u30fc\u30eb\u30b5\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
         "name": "\u30b9\u30fc\u30d1\u30fc\u30fb\u30de\u30fc\u30b1\u30c3\u30c8",
         "url": "https://open.spotify.com/album/0gL7jDFYfF6QzfEWdofTxF"
       },
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "Light Mellow \u3057\u3070\u305f\u306f\u3064\u307f",
-        "url": "https://open.spotify.com/album/0WZrx8o4lR6j3EfB53Rgnv"
+        "name": "sadistics",
+        "url": "https://open.spotify.com/album/0hoyGdz4oLEHvtazzD0myg"
       },
       "artists": [
         {
-          "name": "Hatsumi Shibata",
-          "url": "https://open.spotify.com/artist/2NmZjnTUfF6MFpkHcopO96"
+          "name": "Sadistics",
+          "url": "https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW"
         }
       ],
-      "duration_ms": 182013,
-      "name": "\u30d0\u30a4\u30d0\u30a4\u30fb\u30b8\u30e5\u30a8\u30eb",
-      "url": "https://open.spotify.com/track/7w9ahsa22ruqFptUAjf2GA"
+      "duration_ms": 322533,
+      "name": "\u4eca\u9803\u541b\u306f\u30fb\u30fb\u30fb",
+      "url": "https://open.spotify.com/track/3mMGulD9cNqpOvfuOMVQQU"
     }
   ],
   "unique_name": "City Pop '70s",

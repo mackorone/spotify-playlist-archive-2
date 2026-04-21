@@ -6,511 +6,531 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adxqQAAAAAB7laXDecwASkJLS2nZomSj",
+  "snapshot_id": "aeWkwAAAAACgg3vffRLZRMlXI/D1ijEL",
   "tracks": [
     {
-      "added_at": "2026-04-13 04:00:00",
+      "added_at": "2026-04-20 04:00:00",
       "album": {
-        "name": "A Knight of the Seven Kingdoms: Season 1 (Soundtrack from the HBO\u00ae Original Series)",
-        "url": "https://open.spotify.com/album/5ZSl0Zs50JtWrf5BmDTRvi"
+        "name": "Project Hail Mary (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84"
       },
       "artists": [
         {
-          "name": "Dan Romer",
-          "url": "https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4"
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
         }
       ],
-      "duration_ms": 132106,
-      "name": "I Suppose We Could Go Anywhere",
-      "url": "https://open.spotify.com/track/4SI2kSe8SKQlTl7PFktPZb"
+      "duration_ms": 213333,
+      "name": "The Message - from \"Project Hail Mary\"",
+      "url": "https://open.spotify.com/track/4lahc0vPseD0pJWPSEAtan"
     },
     {
-      "added_at": "2026-04-13 04:00:00",
+      "added_at": "2026-04-20 04:00:00",
       "album": {
-        "name": "A Symphonic Celebration - Music from the Studio Ghibli Films of Hayao Miyazaki",
-        "url": "https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM"
+        "name": "Jotun (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0d7oUSnx3NGMUUqyhFiqvR"
+      },
+      "artists": [
+        {
+          "name": "Max LL",
+          "url": "https://open.spotify.com/artist/1CNJPN4ay8t8CNNKxnPJiV"
+        }
+      ],
+      "duration_ms": 180271,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/12tStCSDB42OcYdY4rWUz8"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Heidi",
+        "url": "https://open.spotify.com/album/1XiAEaFCFPi58AkcXyF23P"
+      },
+      "artists": [
+        {
+          "name": "a sound for you",
+          "url": "https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI"
+        }
+      ],
+      "duration_ms": 135923,
+      "name": "Heidi",
+      "url": "https://open.spotify.com/track/6jD0HLCbadPZkkAVEGl15y"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Satie: Gymnop\u00e9die No. 1",
+        "url": "https://open.spotify.com/album/780rrNsM1R4u5OBA1hNCHw"
+      },
+      "artists": [
+        {
+          "name": "Cinthya Garcia",
+          "url": "https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv"
+        }
+      ],
+      "duration_ms": 189708,
+      "name": "Satie: Gymnop\u00e9die No. 1 - Cinthya Garcia Rework",
+      "url": "https://open.spotify.com/track/7uTDKxNigQH0hsPE7duTvd"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Collage",
+        "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
+      },
+      "artists": [
+        {
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+        },
+        {
+          "name": "Ian Burdge",
+          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
+        },
+        {
+          "name": "Bruce White",
+          "url": "https://open.spotify.com/artist/3pGqMoEIJ7ZLLEmAbq6XuT"
+        },
+        {
+          "name": "Oli Langford",
+          "url": "https://open.spotify.com/artist/0uhCqZ52g1yCoxYis7hOuv"
+        },
+        {
+          "name": "Tom Pigott-Smith",
+          "url": "https://open.spotify.com/artist/7cDm7GQi00juXOwvOKZVbm"
+        }
+      ],
+      "duration_ms": 172986,
+      "name": "King's Cross, After Dark",
+      "url": "https://open.spotify.com/track/05uaqsUlTotv0OR9TRpmdz"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/2vvlpVmvcdWyeDeoSATJsQ"
+      },
+      "artists": [
+        {
+          "name": "Forest of the Mind",
+          "url": "https://open.spotify.com/artist/7mScnVQ8uKItE8lGAABj7t"
+        }
+      ],
+      "duration_ms": 120129,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/0mvgFpL8y8gU7a03Dkghht"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Bursting with Life",
+        "url": "https://open.spotify.com/album/6AnSHo3XmUup0y2vTkIeTo"
+      },
+      "artists": [
+        {
+          "name": "Alan Gogoll",
+          "url": "https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3"
+        }
+      ],
+      "duration_ms": 144240,
+      "name": "Flourish",
+      "url": "https://open.spotify.com/track/52jesE5DI9hZB5cKtXQUOU"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "All Is Wild, All Is Silent Remixes",
+        "url": "https://open.spotify.com/album/2citHziI00yk6qgNc9gzk2"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        },
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "Truth - Helios Remix",
+      "url": "https://open.spotify.com/track/49b9CdGP7y1vG3ArUQh75p"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/4YfnRyglAWuRNUSVRuuRHg"
+      },
+      "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "duration_ms": 187988,
+      "name": "Preliminary Art Form",
+      "url": "https://open.spotify.com/track/3b0R8FSaSFnxtkAdWz6krp"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Asphodel Meadows",
+        "url": "https://open.spotify.com/album/6tBsxFK7Vz7hWQMXw1o9gu"
+      },
+      "artists": [
+        {
+          "name": "Douglas Parth",
+          "url": "https://open.spotify.com/artist/31FDlUXFoFOA7d1n2jvR42"
+        }
+      ],
+      "duration_ms": 221274,
+      "name": "Asphodel Meadows",
+      "url": "https://open.spotify.com/track/77fPKAmJ5wBiPpjVDY3BLd"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/6U2xxftHI11KUGHckT6LE5"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 191430,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/1oLJ9VtUnBYuc16GlKvAjw"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Avoidance",
+        "url": "https://open.spotify.com/album/2FFFMnIXakSCPAVqpGPqi5"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gialanella",
+          "url": "https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg"
+        }
+      ],
+      "duration_ms": 117937,
+      "name": "Renewal",
+      "url": "https://open.spotify.com/track/71IQ3bdQYRma69RYqpHgkY"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "The Knight's Sky",
+        "url": "https://open.spotify.com/album/54TEtvuWUiksFJbhsXJSbs"
+      },
+      "artists": [
+        {
+          "name": "Murr",
+          "url": "https://open.spotify.com/artist/3GMY6RVmh6Ud1aKHqKt9Fn"
+        }
+      ],
+      "duration_ms": 236521,
+      "name": "Daytime Sentimentalism",
+      "url": "https://open.spotify.com/track/0RO3CcWmBv9vQrcT6yvGVo"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Impressions",
+        "url": "https://open.spotify.com/album/6vixSerOq8RIrO76KP9PJW"
+      },
+      "artists": [
+        {
+          "name": "Joseph Nimoh",
+          "url": "https://open.spotify.com/artist/2e9kOXKWUhvdvNFN3CLo8p"
+        }
+      ],
+      "duration_ms": 225452,
+      "name": "Impressions",
+      "url": "https://open.spotify.com/track/326d9BacIYWjGCdVp9PVyK"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1DDJD9OkQi2uAs53YhAenP"
+      },
+      "artists": [
+        {
+          "name": "Alberto Giurioli",
+          "url": "https://open.spotify.com/artist/37sWo3r7HX9Fa9DhiQqclU"
+        }
+      ],
+      "duration_ms": 199638,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6OOEX2vTBKMI89Iw0obyjg"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Transform",
+        "url": "https://open.spotify.com/album/6D64AjjYOxnGVgRzAFzolz"
+      },
+      "artists": [
+        {
+          "name": "Megan Wofford",
+          "url": "https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA"
+        }
+      ],
+      "duration_ms": 188476,
+      "name": "Transform",
+      "url": "https://open.spotify.com/track/3qMDa03spxolAdk0C5gDHZ"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Little Women (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Ice Skating - from \"Little Women\" Soundtrack",
+      "url": "https://open.spotify.com/track/5r8sUP2WOJgUskeHK4z7or"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Last Leaf",
+        "url": "https://open.spotify.com/album/49xf5ljYcDZbAQpTkPcEIC"
+      },
+      "artists": [
+        {
+          "name": "Rune Tonsgaard Sorensen",
+          "url": "https://open.spotify.com/artist/4dT8PaYmm1Uh44OnChMU9p"
+        },
+        {
+          "name": "Danish String Quartet",
+          "url": "https://open.spotify.com/artist/7dkujWxvEqOlFAo979V68D"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "Shine You No More",
+      "url": "https://open.spotify.com/track/7ioUQRMN18iIUMF7hxsTuT"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Oc\u00e9an",
+        "url": "https://open.spotify.com/album/3pGXj16TlIq941crbPhgQc"
+      },
+      "artists": [
+        {
+          "name": "Jeff Roy",
+          "url": "https://open.spotify.com/artist/2TKigSrU6lcEAq168uMq2g"
+        },
+        {
+          "name": "Austin Ray",
+          "url": "https://open.spotify.com/artist/4J3krx79WbdsPe4WNYDx1H"
+        }
+      ],
+      "duration_ms": 203624,
+      "name": "Oc\u00e9an",
+      "url": "https://open.spotify.com/track/0GOkD1khAigdkz9YfpZ45b"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Ashley",
+        "url": "https://open.spotify.com/album/5QUBB5FlmJJKlHSvWHQuLE"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RE",
+          "url": "https://open.spotify.com/artist/6xd40M7muKpl2NKROnmT65"
+        },
+        {
+          "name": "Avery Bright",
+          "url": "https://open.spotify.com/artist/0ZCIMurSKs6CryBy5jjOAr"
+        }
+      ],
+      "duration_ms": 161448,
+      "name": "the shape of your smile",
+      "url": "https://open.spotify.com/track/7vc3VAnRRrQzQk2HXQR5a8"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Ted Lasso: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5USNWnvRSYMdG7CUVhG1B0"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Tom Howe",
+          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
+        }
+      ],
+      "duration_ms": 132080,
+      "name": "Dad & Darts",
+      "url": "https://open.spotify.com/track/2OqEvGkERXnwe4hghMyltD"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/2TU2OlFitzsOVi5gIq6i9v"
+      },
+      "artists": [
+        {
+          "name": "Peter Belec",
+          "url": "https://open.spotify.com/artist/012xNfNlm7MiRwB2DuLaAu"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/5mlCM4cV2pgGSV177kL5hB"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "[extended] BLISS",
+        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/7yZD5llgTsm48wz802Pkda"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/0JI3Z1yxCT2j9ZXw4hXriA"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Jess Gillam Ensemble",
+          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
+        }
+      ],
+      "duration_ms": 381106,
+      "name": "On the Nature of Daylight (Arr. Mackay)",
+      "url": "https://open.spotify.com/track/22CFQhbgkhw1xncP7AgytV"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/45EbAwTGQLgTtaYeawYKvR"
+      },
+      "artists": [
+        {
+          "name": "Evergreen Dream",
+          "url": "https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy"
+        }
+      ],
+      "duration_ms": 118227,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/71xlpCPnnoHB0X5jL7RjMP"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/5DIxeXUvtr3l9NQFZoNZQv"
+      },
+      "artists": [
+        {
+          "name": "Evening Primrose",
+          "url": "https://open.spotify.com/artist/7A1FbcuQ5n5VOaSJQwv4FM"
+        }
+      ],
+      "duration_ms": 147174,
+      "name": "Openness",
+      "url": "https://open.spotify.com/track/3calJO0etN6xEgrOthNFyT"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "Unfinished Story",
+        "url": "https://open.spotify.com/album/6L3cz0Uc70mGVYDoEcmCLc"
+      },
+      "artists": [
+        {
+          "name": "Dexter Mills",
+          "url": "https://open.spotify.com/artist/3ChW1Y1eF6w0fq0yvMQnS6"
+        }
+      ],
+      "duration_ms": 137968,
+      "name": "Unfinished Story",
+      "url": "https://open.spotify.com/track/0pdWIu5FMVfPECxtZIV1Py"
+    },
+    {
+      "added_at": "2026-04-20 04:00:00",
+      "album": {
+        "name": "The Boy and the Heron - Original Soundtrack",
+        "url": "https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW"
       },
       "artists": [
         {
           "name": "Joe Hisaishi",
           "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         }
       ],
-      "duration_ms": 128000,
-      "name": "The Legend of the Wind - from 'Nausica\u00e4 of the Valley of the Wind'",
-      "url": "https://open.spotify.com/track/5Nr9c705umTIFTDEXfECFU"
+      "duration_ms": 177333,
+      "name": "Feather Fletching",
+      "url": "https://open.spotify.com/track/73ORwLQP51JRTix1PWANlw"
     },
     {
-      "added_at": "2026-04-13 04:00:00",
+      "added_at": "2026-04-20 04:00:00",
       "album": {
-        "name": "aubades",
-        "url": "https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo"
+        "name": "Catskill",
+        "url": "https://open.spotify.com/album/2WMYySmGGfUlRsyqBBkW6a"
       },
       "artists": [
         {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
         }
       ],
-      "duration_ms": 306586,
-      "name": "murmures",
-      "url": "https://open.spotify.com/track/6GcB18Md8E1GEyWzkuWxsI"
+      "duration_ms": 112124,
+      "name": "Catskill",
+      "url": "https://open.spotify.com/track/1bg5Z9WulBD1qRSaj7ijQ1"
     },
     {
-      "added_at": "2026-04-13 04:00:00",
+      "added_at": "2026-04-20 04:00:00",
       "album": {
-        "name": "Train Dreams (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/2g35MV8cZTjVJxZQR3ijBT"
+        "name": "Dust and Disquiet",
+        "url": "https://open.spotify.com/album/2m4KwsPpsNAenV6ImBv71I"
       },
       "artists": [
         {
-          "name": "Bryce Dessner",
-          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+          "name": "Caspian",
+          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
         }
       ],
-      "duration_ms": 133522,
-      "name": "The Great Mystery",
-      "url": "https://open.spotify.com/track/1KHZsSZKTiVkxyFARRs322"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "to draw flowers (acoustic)",
-        "url": "https://open.spotify.com/album/0NAEXaidIVaqRCnDWK59kE"
-      },
-      "artists": [
-        {
-          "name": "Michael Kim-Sheng",
-          "url": "https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd"
-        }
-      ],
-      "duration_ms": 149412,
-      "name": "to draw flowers - acoustic",
-      "url": "https://open.spotify.com/track/183aap6XWgKMkWuBKGoZcf"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "First Light",
-        "url": "https://open.spotify.com/album/1Ey5eicbpQzd3nVP8kBYzu"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
-        }
-      ],
-      "duration_ms": 242485,
-      "name": "Flicker",
-      "url": "https://open.spotify.com/track/6smmDk6APtYx6pqjcshbl7"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Gigue 6.6 (Summer Tales Arrangement)",
-        "url": "https://open.spotify.com/album/6vINUgOxwcl2zhsZaU2gyl"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        },
-        {
-          "name": "Scoring Berlin",
-          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
-        }
-      ],
-      "duration_ms": 167532,
-      "name": "Gigue 6.6 - Summer Tales Arrangement",
-      "url": "https://open.spotify.com/track/4Q8r9PAnZCZ2alzLSrYtJR"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Folded Landscapes",
-        "url": "https://open.spotify.com/album/38mhxC6TEoXfimNwed6MhD"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        },
-        {
-          "name": "Scottish Ensemble",
-          "url": "https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ"
-        }
-      ],
-      "duration_ms": 252920,
-      "name": "Movement 5 - Pt. 2 - Instrumental",
-      "url": "https://open.spotify.com/track/4kQnuLKoCZDSHqkJeH9psM"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Clair Obscur: Expedition 33 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5epJvt9jHbYI1j6WqCppGc"
-      },
-      "artists": [
-        {
-          "name": "Lorien Testard",
-          "url": "https://open.spotify.com/artist/5ahmcjOOZ9FkOwTZqTRAZ8"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Monoco's Station - Maelle\u2019s First Snow",
-      "url": "https://open.spotify.com/track/6U2Hzw4g13KPNRnGfyiokC"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Frieren: Beyond Journey's End (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4fgJZhpksYeOUtddVplxWS"
-      },
-      "artists": [
-        {
-          "name": "Evan Call",
-          "url": "https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "To Travel for Aureole",
-      "url": "https://open.spotify.com/track/0DP56SbRZQr3Nu1b9kHZtd"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Treasure Planet",
-        "url": "https://open.spotify.com/album/6TCIP0qIaMYXYAFejY59cC"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "12 Years Later - From \"Treasure Planet\"/Score",
-      "url": "https://open.spotify.com/track/491SgTfng3iwBZlubejYxL"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Lotus Wings (Wingspan: Asia Expansion Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/5TLy8rNuDJuOXCM8Fw9GCh"
-      },
-      "artists": [
-        {
-          "name": "Pawe\u0142 G\u00f3rniak",
-          "url": "https://open.spotify.com/artist/0oVDZHBawiU218Kx4Ec16o"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Lotus Wings (Wingspan: Asia Expansion Original Video Game Soundtrack)",
-      "url": "https://open.spotify.com/track/5TE2nWl6XjcPm2nuY5O51U"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "The Kite (Live)",
-        "url": "https://open.spotify.com/album/4tG6jwqdDcC1XEDVncqP05"
-      },
-      "artists": [
-        {
-          "name": "Luisa Marion",
-          "url": "https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie"
-        }
-      ],
-      "duration_ms": 145535,
-      "name": "The Kite (Live)",
-      "url": "https://open.spotify.com/track/6rKcT02l7zAgTswhVFWKeY"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Ori and the Will of the Wisps (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/0BRICN5TGMT1WqFcZkYOaF"
-      },
-      "artists": [
-        {
-          "name": "Gareth Coker",
-          "url": "https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B"
-        }
-      ],
-      "duration_ms": 214250,
-      "name": "The Windswept Wastes",
-      "url": "https://open.spotify.com/track/1hGfiTVLrBJwJJ9kPfJAwh"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Piano Piano",
-        "url": "https://open.spotify.com/album/6X9yzZGaCqpK4w2nismsrg"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Fraites",
-          "url": "https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "Maggie",
-      "url": "https://open.spotify.com/track/57WOUKlv91N6FI9Tqk44KY"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Evan Call Orchestra Concert \uff5e \u97f3\u697d\u3068\u65c5\u306e\u73fe\u5728\u5730",
-        "url": "https://open.spotify.com/album/5i3L6dwcP0tpOtGe4ce5e4"
-      },
-      "artists": [
-        {
-          "name": "\u7530\u5c3b\u771f\u9ad8",
-          "url": "https://open.spotify.com/artist/1uhDzz0BIO2gsMYeDOoDJe"
-        },
-        {
-          "name": "\u6771\u4eac\u30b7\u30c6\u30a3\u30fb\u30d5\u30a3\u30eb\u30cf\u30fc\u30e2\u30cb\u30c3\u30af\u7ba1\u5f26\u697d\u56e3",
-          "url": "https://open.spotify.com/artist/5qyZYk521P9rFAj7YF4wAr"
-        },
-        {
-          "name": "\u5408\u5531\u56e3\u300cBarzz\uff5e\u9ce5\u306e\u541f\u904a\u8a69\u4eba\u305f\u3061\uff5e\u00ae\u300d",
-          "url": "https://open.spotify.com/artist/25LBYslqAXdyuwIemHnvM1"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Across the Violet Sky - 2025 Live Version",
-      "url": "https://open.spotify.com/track/2CmOvddFR8FBOp0eYh0PP6"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Jusant (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/65gX1rOrAQvcxGEbUGAfvz"
-      },
-      "artists": [
-        {
-          "name": "Guillaume Ferran",
-          "url": "https://open.spotify.com/artist/228Gomw7aulbQurdDNRv7r"
-        }
-      ],
-      "duration_ms": 109845,
-      "name": "Migration",
-      "url": "https://open.spotify.com/track/4p4KwzIJ6Ztjh9HsKYCgOw"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Planet Explorers (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/077x7nUS4x01fwGYRHKrO8"
-      },
-      "artists": [
-        {
-          "name": "Aakaash Rao",
-          "url": "https://open.spotify.com/artist/10ifqVmtIIzACRHEZQ73xm"
-        }
-      ],
-      "duration_ms": 254436,
-      "name": "Tinkering",
-      "url": "https://open.spotify.com/track/03ga1HeplVzLDHGl0UblO8"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Go Farther In Lightness",
-        "url": "https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab"
-      },
-      "artists": [
-        {
-          "name": "Gang of Youths",
-          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "Le r\u00e9el",
-      "url": "https://open.spotify.com/track/6Xv3Y04P6EEKPWRnbbXruD"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Downton Abbey (Original Score)",
-        "url": "https://open.spotify.com/album/0Vr9Oo1roO5srvIyMjJsed"
-      },
-      "artists": [
-        {
-          "name": "John Lunn",
-          "url": "https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt"
-        },
-        {
-          "name": "The Chamber Orchestra Of London",
-          "url": "https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT"
-        }
-      ],
-      "duration_ms": 164413,
-      "name": "You Are The Best Of Me - From \"Downton Abbey\"",
-      "url": "https://open.spotify.com/track/42NBmo5FqoFAghwONbIgWe"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Horizon Forbidden West (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0wMkc2tl7Ypq3n2mSV60Fx"
-      },
-      "artists": [
-        {
-          "name": "Joris de Man",
-          "url": "https://open.spotify.com/artist/7FzXqfhbeFzALmcyi1j90U"
-        }
-      ],
-      "duration_ms": 320642,
-      "name": "Shelter from the Storm - (From \"Horizon Forbidden West\" Video Game Soundtrack)",
-      "url": "https://open.spotify.com/track/0enkHAoHMkd1dzeXffj4DU"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn"
-      },
-      "artists": [
-        {
-          "name": "Marcin Przyby\u0142owicz",
-          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
-        }
-      ],
-      "duration_ms": 132436,
-      "name": "King Bran's Final Voyage",
-      "url": "https://open.spotify.com/track/5bhZCxZo9ejcqInKNvbL73"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "MADE IN ABYSS ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/6rvlFG08LZ2psOoOSWEbMv"
-      },
-      "artists": [
-        {
-          "name": "Kevin Penkin",
-          "url": "https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y"
-        }
-      ],
-      "duration_ms": 174080,
-      "name": "Riko's Theme",
-      "url": "https://open.spotify.com/track/0fA25aMXZfxsnzHiBL9Rcy"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "\u61a7\u308c",
-      "url": "https://open.spotify.com/track/6YkY9rt0L6N2FHLLZEKHrO"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Oxenfree",
-        "url": "https://open.spotify.com/album/4DDuUQhq7iuiZoPHIjR3xn"
-      },
-      "artists": [
-        {
-          "name": "scntfc",
-          "url": "https://open.spotify.com/artist/7vkhg0Rav27QjDgKgHTOSH"
-        }
-      ],
-      "duration_ms": 233555,
-      "name": "Epiphany Fields",
-      "url": "https://open.spotify.com/track/6XZ5icL0XU1iUr8ITZRAw9"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "Elendil and Isildur",
-      "url": "https://open.spotify.com/track/2jWYPgHu4pv7NbyCy6MUa3"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Downton Abbey",
-        "url": "https://open.spotify.com/album/52AS2pmDgHBjr2cje1Wyiq"
-      },
-      "artists": [
-        {
-          "name": "The Chamber Orchestra Of London",
-          "url": "https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT"
-        }
-      ],
-      "duration_ms": 150693,
-      "name": "Such Good Luck",
-      "url": "https://open.spotify.com/track/49Ww5fcHSCBdzBFSekp9du"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/1R8SGWlLLN9CTNI00tp0l6"
-      },
-      "artists": [
-        {
-          "name": "Still Restless",
-          "url": "https://open.spotify.com/artist/6AHEtmyMoioYHE2mEZWEl0"
-        }
-      ],
-      "duration_ms": 226140,
-      "name": "Chamomile",
-      "url": "https://open.spotify.com/track/7fuHFq2yWlOoBEhAeTHpKr"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "Cosmos: A SpaceTime Odyssey (Music from the Original TV Series) Vol. 3",
-        "url": "https://open.spotify.com/album/3OdyviUA83iYUdSkgvrDBx"
-      },
-      "artists": [
-        {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
-        }
-      ],
-      "duration_ms": 95720,
-      "name": "\"All That Is or Ever Was or Ever Will Be\"",
-      "url": "https://open.spotify.com/track/7E4rTbhKTWSYctdtWHfmjc"
-    },
-    {
-      "added_at": "2026-04-13 04:00:00",
-      "album": {
-        "name": "The Summit of the Gods (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4iMNokgYYhqJV6wZKlHySt"
-      },
-      "artists": [
-        {
-          "name": "Amine Bouhafa",
-          "url": "https://open.spotify.com/artist/50FuOJ5QTp0kIsLEE2FP5l"
-        }
-      ],
-      "duration_ms": 155331,
-      "name": "Feeling the Heights",
-      "url": "https://open.spotify.com/track/3yrHKSTcrrTwxvzesikdDu"
+      "duration_ms": 267333,
+      "name": "Sad Heart of Mine",
+      "url": "https://open.spotify.com/track/3e66nnkSbIvBHD8TFzh1mw"
     }
   ],
   "unique_name": "Discover Weekly (@mackorone)",

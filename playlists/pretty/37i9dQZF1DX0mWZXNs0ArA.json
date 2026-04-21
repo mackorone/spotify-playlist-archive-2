@@ -1,6 +1,6 @@
 {
   "description": "150%",
-  "num_followers": 1939936,
+  "num_followers": 1939831,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
+        "name": "Shut up My Moms Calling (Sped up)",
+        "url": "https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Shut up My Moms Calling (Sped up)",
+      "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
+    },
+    {
+      "added_at": "2025-11-26 17:14:04",
+      "album": {
         "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
-    },
-    {
-      "added_at": "2025-11-26 17:14:04",
-      "album": {
-        "name": "Shut up My Moms Calling (Sped up)",
-        "url": "https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Shut up My Moms Calling (Sped up)",
-      "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
-        "name": "older",
-        "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 125252,
-      "name": "older sped up",
-      "url": "https://open.spotify.com/track/75EIDyYc0excxUOzold15R"
-    },
-    {
-      "added_at": "2025-11-26 17:14:04",
-      "album": {
         "name": "Somebody's Pleasure - Sped Up",
         "url": "https://open.spotify.com/album/1JezApQUnDj1SkWmZy1Sn3"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 183620,
       "name": "Somebody's Pleasure - Sped Up",
       "url": "https://open.spotify.com/track/6xjBgCWC0pgNDvJzTz9JcZ"
+    },
+    {
+      "added_at": "2025-11-26 17:14:04",
+      "album": {
+        "name": "older",
+        "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 125252,
+      "name": "older sped up",
+      "url": "https://open.spotify.com/track/75EIDyYc0excxUOzold15R"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -607,6 +607,26 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/16Q4jVtBWq9UNO78ZLOvwk"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        }
+      ],
+      "duration_ms": 190758,
+      "name": "Atlantis - Extra Sped Up Version",
+      "url": "https://open.spotify.com/track/3u6PxWema1snbjLbFEyjkJ"
+    },
+    {
+      "added_at": "2025-11-26 17:14:04",
+      "album": {
         "name": "Shameless (Sped Up)",
         "url": "https://open.spotify.com/album/4ED5qxUpAgtOk8CIkoRFi6"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 242142,
       "name": "Shootout (Sped Up)",
       "url": "https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY"
-    },
-    {
-      "added_at": "2025-11-26 17:14:04",
-      "album": {
-        "name": "Atlantis",
-        "url": "https://open.spotify.com/album/16Q4jVtBWq9UNO78ZLOvwk"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        },
-        {
-          "name": "sped up + slowed",
-          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
-        }
-      ],
-      "duration_ms": 190758,
-      "name": "Atlantis - Extra Sped Up Version",
-      "url": "https://open.spotify.com/track/3u6PxWema1snbjLbFEyjkJ"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
+        "name": "girls like me don't cry (sped up)",
+        "url": "https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "girls like me don't cry (sped up)",
+      "url": "https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C"
+    },
+    {
+      "added_at": "2025-11-26 17:14:04",
+      "album": {
         "name": "Die For You",
         "url": "https://open.spotify.com/album/0hZdHrGRGnRKxmfabZme18"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 223441,
       "name": "Die For You - Sped Up",
       "url": "https://open.spotify.com/track/4LR9G3Vr27KaqrNm9aymBq"
-    },
-    {
-      "added_at": "2025-11-26 17:14:04",
-      "album": {
-        "name": "girls like me don't cry (sped up)",
-        "url": "https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "girls like me don't cry (sped up)",
-      "url": "https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
-        "name": "Soaked (Sped Up)",
-        "url": "https://open.spotify.com/album/4GrvG3QBiwLAfDEJ1cx2Fn"
-      },
-      "artists": [
-        {
-          "name": "Shy Smith",
-          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
-        }
-      ],
-      "duration_ms": 163096,
-      "name": "Soaked - Sped Up",
-      "url": "https://open.spotify.com/track/2wHzwFZZ0gMPI9TnfRxq4z"
-    },
-    {
-      "added_at": "2025-11-26 17:14:04",
-      "album": {
         "name": "Nonsense (Sped Up Version)",
         "url": "https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
-        "name": "D\u017eanum - Sped up",
-        "url": "https://open.spotify.com/album/2vuMXOH1OPzMrMxInxmnaB"
+        "name": "Soaked (Sped Up)",
+        "url": "https://open.spotify.com/album/4GrvG3QBiwLAfDEJ1cx2Fn"
       },
       "artists": [
         {
-          "name": "Teya Dora",
-          "url": "https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU"
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
         }
       ],
-      "duration_ms": 138000,
-      "name": "D\u017eanum - Sped Up",
-      "url": "https://open.spotify.com/track/0MsTPYCpMwTlhq3XrtRTT1"
+      "duration_ms": 163096,
+      "name": "Soaked - Sped Up",
+      "url": "https://open.spotify.com/track/2wHzwFZZ0gMPI9TnfRxq4z"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -1099,6 +1083,22 @@
       "duration_ms": 155744,
       "name": "Strangers (feat. Kenya Grace) - Sped Up",
       "url": "https://open.spotify.com/track/2CFl2JZVw74jVO5LTyiim3"
+    },
+    {
+      "added_at": "2025-11-26 17:14:04",
+      "album": {
+        "name": "D\u017eanum - Sped up",
+        "url": "https://open.spotify.com/album/2vuMXOH1OPzMrMxInxmnaB"
+      },
+      "artists": [
+        {
+          "name": "Teya Dora",
+          "url": "https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "D\u017eanum - Sped Up",
+      "url": "https://open.spotify.com/track/0MsTPYCpMwTlhq3XrtRTT1"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
+        "name": "Feather (Sped Up)",
+        "url": "https://open.spotify.com/album/0TCgFAC92fkbHe2lJkwZRF"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 153087,
+      "name": "Feather - Sped Up",
+      "url": "https://open.spotify.com/track/2WkrEyLzATbOK8U3xt8Ggq"
+    },
+    {
+      "added_at": "2025-11-26 17:14:04",
+      "album": {
         "name": "Price Tag (Sped Up)",
         "url": "https://open.spotify.com/album/6ITJMaP8RALYKlF1zYr8kx"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 197664,
       "name": "Price Tag - Sped Up",
       "url": "https://open.spotify.com/track/7wBOjV4TIq2YzPFDc3mFmA"
-    },
-    {
-      "added_at": "2025-11-26 17:14:04",
-      "album": {
-        "name": "Feather (Sped Up)",
-        "url": "https://open.spotify.com/album/0TCgFAC92fkbHe2lJkwZRF"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 153087,
-      "name": "Feather - Sped Up",
-      "url": "https://open.spotify.com/track/2WkrEyLzATbOK8U3xt8Ggq"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -1229,6 +1229,22 @@
       "url": "https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh"
     },
     {
+      "added_at": "2026-01-02 05:00:12",
+      "album": {
+        "name": "BEAUTIFUL CHAOS: The Remixes",
+        "url": "https://open.spotify.com/album/6XF8wsqdbLWIBnLgcoEpYu"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 165811,
+      "name": "Gabriela - Sped Up Version",
+      "url": "https://open.spotify.com/track/1hWWXZQFr0jAdnZaSLZYqG"
+    },
+    {
       "added_at": "2025-11-26 17:14:04",
       "album": {
         "name": "Maria Maria (feat. The Product G&B) [sped up]",
@@ -1255,6 +1271,22 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
+        "name": "I Wouldn't Mind (Sped Up)",
+        "url": "https://open.spotify.com/album/219eYIAsXXSxfvAs78ot6Y"
+      },
+      "artists": [
+        {
+          "name": "He Is We",
+          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
+        }
+      ],
+      "duration_ms": 169541,
+      "name": "I Wouldn't Mind - Sped Up",
+      "url": "https://open.spotify.com/track/7LMvwcBObTDW6h05HXG0S2"
+    },
+    {
+      "added_at": "2025-11-26 17:14:04",
+      "album": {
         "name": "XIII SORROWS (ODECORE MIX)",
         "url": "https://open.spotify.com/album/6wrKIZQJP4vyo7eIsAv5vE"
       },
@@ -1271,38 +1303,6 @@
       "duration_ms": 117034,
       "name": "HYPNOTIC DATA - Sped Up",
       "url": "https://open.spotify.com/track/3iLEjZtu5Za0ZR35lYIDeu"
-    },
-    {
-      "added_at": "2026-01-02 05:00:12",
-      "album": {
-        "name": "BEAUTIFUL CHAOS: The Remixes",
-        "url": "https://open.spotify.com/album/6XF8wsqdbLWIBnLgcoEpYu"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 165811,
-      "name": "Gabriela - Sped Up Version",
-      "url": "https://open.spotify.com/track/1hWWXZQFr0jAdnZaSLZYqG"
-    },
-    {
-      "added_at": "2025-11-26 17:14:04",
-      "album": {
-        "name": "I Wouldn't Mind (Sped Up)",
-        "url": "https://open.spotify.com/album/219eYIAsXXSxfvAs78ot6Y"
-      },
-      "artists": [
-        {
-          "name": "He Is We",
-          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
-        }
-      ],
-      "duration_ms": 169541,
-      "name": "I Wouldn't Mind - Sped Up",
-      "url": "https://open.spotify.com/track/7LMvwcBObTDW6h05HXG0S2"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -1413,26 +1413,6 @@
       "url": "https://open.spotify.com/track/59802nBw0MFfy5D0KywW2a"
     },
     {
-      "added_at": "2026-03-06 05:00:06",
-      "album": {
-        "name": "SPAGHETTI (Bon App\u00e9tit Remixes)",
-        "url": "https://open.spotify.com/album/0ElLaBBHmkoS0UL2nmM0YA"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        }
-      ],
-      "duration_ms": 123677,
-      "name": "SPAGHETTI (Sped Up ver.)",
-      "url": "https://open.spotify.com/track/50Xf5ETG7lTf4emGnoVwSj"
-    },
-    {
       "added_at": "2025-11-26 17:14:04",
       "album": {
         "name": "KOLLECTIVE",
@@ -1471,26 +1451,6 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
-        "name": "MONEY ON THE DASH",
-        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        }
-      ],
-      "duration_ms": 116465,
-      "name": "MONEY ON THE DASH - SPED UP",
-      "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
-    },
-    {
-      "added_at": "2025-11-26 17:14:04",
-      "album": {
         "name": "Only Love Can Hurt Like This (Sped Up Version)",
         "url": "https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8"
       },
@@ -1507,6 +1467,26 @@
       "duration_ms": 165686,
       "name": "Only Love Can Hurt Like This - Sped Up Version",
       "url": "https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV"
+    },
+    {
+      "added_at": "2026-03-06 05:00:06",
+      "album": {
+        "name": "SPAGHETTI (Bon App\u00e9tit Remixes)",
+        "url": "https://open.spotify.com/album/0ElLaBBHmkoS0UL2nmM0YA"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 123677,
+      "name": "SPAGHETTI (Sped Up ver.)",
+      "url": "https://open.spotify.com/track/50Xf5ETG7lTf4emGnoVwSj"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -1567,6 +1547,26 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 116465,
+      "name": "MONEY ON THE DASH - SPED UP",
+      "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
+    },
+    {
+      "added_at": "2025-11-26 17:14:04",
+      "album": {
         "name": "Wasted Summers (Sped Up)",
         "url": "https://open.spotify.com/album/4P0oxvMiZmCAnbkb6iWxLx"
       },
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/1H4LfB2sUsoJ1x0zfGBcXU"
     },
     {
-      "added_at": "2026-03-06 05:00:06",
-      "album": {
-        "name": "Adrenaline (Remix)",
-        "url": "https://open.spotify.com/album/1lSvq3SLvzcu61cr77Qz0i"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 189608,
-      "name": "Adrenaline (Speed Up Ver.)",
-      "url": "https://open.spotify.com/track/3nGoOCoxgADXa6Fxl9eQsd"
-    },
-    {
       "added_at": "2025-11-26 17:14:04",
       "album": {
         "name": "UNDERSTAND (Sped Up Version)",
@@ -1651,6 +1635,22 @@
       "duration_ms": 125346,
       "name": "UNDERSTAND - Sped Up",
       "url": "https://open.spotify.com/track/6DMI24muDgH74R3sT2ie4F"
+    },
+    {
+      "added_at": "2026-03-06 05:00:06",
+      "album": {
+        "name": "Adrenaline (Remix)",
+        "url": "https://open.spotify.com/album/1lSvq3SLvzcu61cr77Qz0i"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 189608,
+      "name": "Adrenaline (Speed Up Ver.)",
+      "url": "https://open.spotify.com/track/3nGoOCoxgADXa6Fxl9eQsd"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -1685,22 +1685,6 @@
       "url": "https://open.spotify.com/track/0Rjj6c6oThmuTeNu3EP3um"
     },
     {
-      "added_at": "2026-03-06 05:00:06",
-      "album": {
-        "name": "Midnight Sun (+ more)",
-        "url": "https://open.spotify.com/album/2yIRG8O7NxQMFLvwxNiDk1"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 171535,
-      "name": "Midnight Sun - Sped Up",
-      "url": "https://open.spotify.com/track/3T0DBKF5CGVmCBwqluvJee"
-    },
-    {
       "added_at": "2025-11-26 17:14:04",
       "album": {
         "name": "Never Let Go (Of Me) [Heist Edit]",
@@ -1715,6 +1699,22 @@
       "duration_ms": 83360,
       "name": "Never Let Go (Of Me) - Sped Up",
       "url": "https://open.spotify.com/track/14903RK7FPQAptnH3aSbSb"
+    },
+    {
+      "added_at": "2026-03-06 05:00:06",
+      "album": {
+        "name": "Midnight Sun (+ more)",
+        "url": "https://open.spotify.com/album/2yIRG8O7NxQMFLvwxNiDk1"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 171535,
+      "name": "Midnight Sun - Sped Up",
+      "url": "https://open.spotify.com/track/3T0DBKF5CGVmCBwqluvJee"
     },
     {
       "added_at": "2025-11-26 17:14:04",

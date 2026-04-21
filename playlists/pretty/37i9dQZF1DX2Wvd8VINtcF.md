@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Olga Myko✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,984 likes - 234 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,993 likes - 234 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

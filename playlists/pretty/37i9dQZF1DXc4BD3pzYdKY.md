@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: Hulvey
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,359 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,385 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 74 | [Aretha](https://open.spotify.com/track/0Clatxwq8QuhcTTRQgxS7z) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Aretha](https://open.spotify.com/album/7JXd9Aqk4jPIX6wgIZVuYd) | 2:15 |
 | 75 | [take the wheel](https://open.spotify.com/track/2H6Xw9IKbZirY1camQHot3) | [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [take the wheel](https://open.spotify.com/album/7sWUex3pzMhcKIvx5Kx3Ig) | 2:17 |
 
-Snapshot ID: `AAAAAGhSOSsUWXbx/Jn4gy+0kL+FLlwI`
+Snapshot ID: `AAAAAHkYgmW0/PzR/Xdd/3xfPEnepG01`

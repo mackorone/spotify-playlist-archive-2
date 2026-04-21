@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Kris Kross Amsterdam, Jan Smit & Frans Bauer
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,702 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,701 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zij Hoort Bij Mij](https://open.spotify.com/track/4NzVNVrPqz7APlA5C0TuBP) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Zij Hoort Bij Mij](https://open.spotify.com/album/5DIbGZCUppQpa7eZ3RWN8o) | 2:06 |
 | 2 | [Niet bang voor de duivel](https://open.spotify.com/track/3DiQD54AFhTAs4rR4hBdB8) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Niet bang voor de duivel](https://open.spotify.com/album/6vIC2uTGAWo7UFJZXrEzvH) | 2:18 |
-| 3 | [Ik Bleef Geloven](https://open.spotify.com/track/5ExwZgMiUnW0rBcGlhhGLq) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Ik Bleef Geloven](https://open.spotify.com/album/3FtbUJ9sP0G9ivUyeOePYF) | 3:17 |
-| 4 | [Gappie Sappie](https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Gappie Sappie](https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo) | 2:17 |
-| 5 | [In Mijn Armen](https://open.spotify.com/track/4mdhcZaB9La4w56BETFDvr) | [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8), [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [In Mijn Armen](https://open.spotify.com/album/5S8ARVOyTHK5zMdkB9QmvH) | 2:46 |
+| 3 | [Een Zomernacht Met Jou](https://open.spotify.com/track/0qGckEHOnka4myhw1vb7Q1) | [Zanger Alex](https://open.spotify.com/artist/7dX46liQvHKgYXekJTB2lO) | [Een Zomernacht Met Jou](https://open.spotify.com/album/3rGNR1Auh07J49KyJV8oYB) | 2:59 |
+| 4 | [Ik Bleef Geloven](https://open.spotify.com/track/5ExwZgMiUnW0rBcGlhhGLq) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Ik Bleef Geloven](https://open.spotify.com/album/3FtbUJ9sP0G9ivUyeOePYF) | 3:17 |
+| 5 | [Gappie Sappie](https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Gappie Sappie](https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo) | 2:17 |
 | 6 | [Op Het Randje Van De Liefde](https://open.spotify.com/track/0LJFFFhlWBYSFWwN3buOw5) | [Danny Heden](https://open.spotify.com/artist/4ke8NL9UYjeuye1E3tAsEQ) | [Op Het Randje Van De Liefde](https://open.spotify.com/album/2yDNxWW1vw3nYSPGF9YKsH) | 2:59 |
-| 7 | [Een Zomernacht Met Jou](https://open.spotify.com/track/0qGckEHOnka4myhw1vb7Q1) | [Zanger Alex](https://open.spotify.com/artist/7dX46liQvHKgYXekJTB2lO) | [Een Zomernacht Met Jou](https://open.spotify.com/album/3rGNR1Auh07J49KyJV8oYB) | 2:59 |
+| 7 | [In Mijn Armen](https://open.spotify.com/track/4mdhcZaB9La4w56BETFDvr) | [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8), [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [In Mijn Armen](https://open.spotify.com/album/5S8ARVOyTHK5zMdkB9QmvH) | 2:46 |
 | 8 | [Huisje Aan De Amstel](https://open.spotify.com/track/4VdawoYdoZ2IxVb4jRKd7b) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Huisje Aan De Amstel](https://open.spotify.com/album/0UpeBakCZYzowuuHfRr551) | 2:41 |
 | 9 | [Code Rood](https://open.spotify.com/track/0luT3jn3g1gahcH8jXR0ig) | [Edwin Van Der Toolen](https://open.spotify.com/artist/30V9SaUhU48JzEtGT7x8eI) | [Code Rood](https://open.spotify.com/album/3hfFcSON4sK9aZnFngIQVQ) | 2:27 |
 | 10 | [Badkamerkraan](https://open.spotify.com/track/4Rgu5vBdoJEL76NsGiE9tH) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Badkamerkraan](https://open.spotify.com/album/7G8QSYvpr4OZrjCXymmZyG) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 99 | [Avond Om Nooit Te Vergeten](https://open.spotify.com/track/2tTB0L8u6pEjMQ1mdL1dLO) | [Dennis van Dam](https://open.spotify.com/artist/4raBuWSzk2K1qAnymk7Ypz) | [Avond Om Nooit Te Vergeten](https://open.spotify.com/album/6dRVAY0HwzhQ3aGoPRA5gJ) | 2:38 |
 | 100 | [Femme Fatale](https://open.spotify.com/track/1boryOfIhzuquqa8MIOVm6) | [Spang!](https://open.spotify.com/artist/5RZqQNSyHP9Iovw5jC8S5r) | [Femme Fatale](https://open.spotify.com/album/6YXxW3FMQCcdX4V3MUNunK) | 2:34 |
 
-Snapshot ID: `AAAAAFpxw4l/CHwOgXxFPg5Y3Mtvdf8r`
+Snapshot ID: `AAAAAPdnnxUZBHiD1xPs7koXhMhwzuHb`

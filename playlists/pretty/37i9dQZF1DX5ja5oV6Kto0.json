@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Yorkk & ARTSALGHUL",
-  "num_followers": 111400,
+  "num_followers": 111410,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,26 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
+        "name": "No Excuses Deluxe",
+        "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "FINE SHYT (feat. Tml Vibez)",
+      "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
         "name": "CYK BADDIE",
         "url": "https://open.spotify.com/album/4qbJ8ygyU1kgB20ntWGEJZ"
       },
@@ -151,22 +171,6 @@
       "duration_ms": 134579,
       "name": "CYK BADDIE",
       "url": "https://open.spotify.com/track/7ooAKezVfi3K3urbQfXXNq"
-    },
-    {
-      "added_at": "2026-04-17 00:01:57",
-      "album": {
-        "name": "EGER",
-        "url": "https://open.spotify.com/album/0rXA7RIMpNBraCKDP2kX5S"
-      },
-      "artists": [
-        {
-          "name": "Egertton",
-          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Obokhian",
-      "url": "https://open.spotify.com/track/4SPYssky8OHoPevhpRAY00"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -211,26 +215,34 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
-        "name": "A Street Kid's Diary",
-        "url": "https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM"
+        "name": "EGER",
+        "url": "https://open.spotify.com/album/0rXA7RIMpNBraCKDP2kX5S"
       },
       "artists": [
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Efosa",
-          "url": "https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3"
+          "name": "Egertton",
+          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
         }
       ],
-      "duration_ms": 223020,
-      "name": "OTS",
-      "url": "https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz"
+      "duration_ms": 138000,
+      "name": "Obokhian",
+      "url": "https://open.spotify.com/track/4SPYssky8OHoPevhpRAY00"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
+        "name": "Isn't It Beautiful",
+        "url": "https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 156997,
+      "name": "Isn't It Beautiful",
+      "url": "https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -251,6 +263,30 @@
       "duration_ms": 117410,
       "name": "ar1gato 2 you",
       "url": "https://open.spotify.com/track/0F6r2VkKSiHn9i8p3tZJJS"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
+        "name": "A Street Kid's Diary",
+        "url": "https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Efosa",
+          "url": "https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3"
+        }
+      ],
+      "duration_ms": 223020,
+      "name": "OTS",
+      "url": "https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -315,22 +351,22 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
-        "name": "Only Water (Feat. Lady Donli)",
-        "url": "https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF"
+        "name": "Night Drive (feat. Dagmawit Ameha)",
+        "url": "https://open.spotify.com/album/1mE2Y555FBTuTACvAh3U31"
       },
       "artists": [
         {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
         },
         {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+          "name": "Dagmawit Ameha",
+          "url": "https://open.spotify.com/artist/4HA91AKqbdbTK7LdYxVxMH"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Only Water - Feat. Lady Donli",
-      "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
+      "duration_ms": 220340,
+      "name": "Night Drive (feat. Dagmawit Ameha)",
+      "url": "https://open.spotify.com/track/0XCxoVRBBYzH2QLUH6rf38"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -355,22 +391,22 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
-        "name": "Night Drive (feat. Dagmawit Ameha)",
-        "url": "https://open.spotify.com/album/1mE2Y555FBTuTACvAh3U31"
+        "name": "Only Water (Feat. Lady Donli)",
+        "url": "https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF"
       },
       "artists": [
         {
-          "name": "Alewya",
-          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
         },
         {
-          "name": "Dagmawit Ameha",
-          "url": "https://open.spotify.com/artist/4HA91AKqbdbTK7LdYxVxMH"
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
         }
       ],
-      "duration_ms": 220340,
-      "name": "Night Drive (feat. Dagmawit Ameha)",
-      "url": "https://open.spotify.com/track/0XCxoVRBBYzH2QLUH6rf38"
+      "duration_ms": 187500,
+      "name": "Only Water - Feat. Lady Donli",
+      "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -423,38 +459,6 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
-        "name": "PRETTY WOMAN (WICKED)",
-        "url": "https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        }
-      ],
-      "duration_ms": 199487,
-      "name": "PRETTY WOMAN (WICKED)",
-      "url": "https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd"
-    },
-    {
-      "added_at": "2026-04-17 00:01:57",
-      "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/3y1nLsqq6RbF22AaJPzJdS"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        }
-      ],
-      "duration_ms": 158537,
-      "name": "ROCK & SLIDE",
-      "url": "https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc"
-    },
-    {
-      "added_at": "2026-04-17 00:01:57",
-      "album": {
         "name": "Tropicana",
         "url": "https://open.spotify.com/album/3iESACtNvFj9ow5aQOTicl"
       },
@@ -479,6 +483,22 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
+        "name": "PRETTY WOMAN (WICKED)",
+        "url": "https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "duration_ms": 199487,
+      "name": "PRETTY WOMAN (WICKED)",
+      "url": "https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
         "name": "20nothing",
         "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
       },
@@ -491,6 +511,22 @@
       "duration_ms": 174267,
       "name": "Regular Shmegular Girl",
       "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
+        "name": "follow",
+        "url": "https://open.spotify.com/album/6j1ITgbvTcJili8nV9mDxm"
+      },
+      "artists": [
+        {
+          "name": "Lod\u00f9",
+          "url": "https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs"
+        }
+      ],
+      "duration_ms": 149708,
+      "name": "follow",
+      "url": "https://open.spotify.com/track/6slE6YZPbo5l8fM3AcRR94"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -509,20 +545,36 @@
       "url": "https://open.spotify.com/track/5rsXxjz8FQ1SZMjj7QZiYG"
     },
     {
-      "added_at": "2026-04-17 00:01:57",
+      "added_at": "2026-04-17 08:16:02",
       "album": {
-        "name": "follow",
-        "url": "https://open.spotify.com/album/6j1ITgbvTcJili8nV9mDxm"
+        "name": "Emefa's Revenge",
+        "url": "https://open.spotify.com/album/4wEEWn3n3LkmmqamkKpzlR"
       },
       "artists": [
         {
-          "name": "Lod\u00f9",
-          "url": "https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs"
+          "name": "M3NSA",
+          "url": "https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s"
         }
       ],
-      "duration_ms": 149708,
-      "name": "follow",
-      "url": "https://open.spotify.com/track/6slE6YZPbo5l8fM3AcRR94"
+      "duration_ms": 211636,
+      "name": "Emefa's Revenge",
+      "url": "https://open.spotify.com/track/1BixnXufFnYkbhpToboElg"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/3y1nLsqq6RbF22AaJPzJdS"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "duration_ms": 158537,
+      "name": "ROCK & SLIDE",
+      "url": "https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -551,22 +603,6 @@
       "duration_ms": 128399,
       "name": "Rewind (feat. Boj, Smada & Genio Bambino)",
       "url": "https://open.spotify.com/track/1IupBattMLqPdJBGWQt4bW"
-    },
-    {
-      "added_at": "2026-04-17 08:16:02",
-      "album": {
-        "name": "Emefa's Revenge",
-        "url": "https://open.spotify.com/album/4wEEWn3n3LkmmqamkKpzlR"
-      },
-      "artists": [
-        {
-          "name": "M3NSA",
-          "url": "https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s"
-        }
-      ],
-      "duration_ms": 211636,
-      "name": "Emefa's Revenge",
-      "url": "https://open.spotify.com/track/1BixnXufFnYkbhpToboElg"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -675,6 +711,26 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/6uHC38yfv6s3RI8Lv0Vm2Z"
+      },
+      "artists": [
+        {
+          "name": "Genio Bambino",
+          "url": "https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/2jbGtizHpszkUJnMJOAj64"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
         "name": "Duplicity",
         "url": "https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq"
       },
@@ -695,22 +751,18 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/6uHC38yfv6s3RI8Lv0Vm2Z"
+        "name": "MOSQUITOES",
+        "url": "https://open.spotify.com/album/7CudWV8gnBMZx9v3wfDjnS"
       },
       "artists": [
         {
-          "name": "Genio Bambino",
-          "url": "https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+          "name": "Amanya",
+          "url": "https://open.spotify.com/artist/3aCNLoqUdxHi5ZXSmlOsHh"
         }
       ],
-      "duration_ms": 178775,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/2jbGtizHpszkUJnMJOAj64"
+      "duration_ms": 107368,
+      "name": "MOSQUITOES",
+      "url": "https://open.spotify.com/track/2FIlgyfaaE6jL3o19pB1V0"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -755,6 +807,22 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
+        "name": "Clear Mind",
+        "url": "https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Clear Mind",
+      "url": "https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
         "name": "Nana",
         "url": "https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC"
       },
@@ -775,22 +843,6 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
-        "name": "MOSQUITOES",
-        "url": "https://open.spotify.com/album/7CudWV8gnBMZx9v3wfDjnS"
-      },
-      "artists": [
-        {
-          "name": "Amanya",
-          "url": "https://open.spotify.com/artist/3aCNLoqUdxHi5ZXSmlOsHh"
-        }
-      ],
-      "duration_ms": 107368,
-      "name": "MOSQUITOES",
-      "url": "https://open.spotify.com/track/2FIlgyfaaE6jL3o19pB1V0"
-    },
-    {
-      "added_at": "2026-04-17 00:01:57",
-      "album": {
         "name": "Imperfect Daughters",
         "url": "https://open.spotify.com/album/50CBKVxs8tjeiQANBnb3nK"
       },
@@ -803,22 +855,6 @@
       "duration_ms": 221000,
       "name": "Imperfect Daughters",
       "url": "https://open.spotify.com/track/481OshZ1RPTStU15tZLic7"
-    },
-    {
-      "added_at": "2026-04-17 00:01:57",
-      "album": {
-        "name": "Clear Mind",
-        "url": "https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Clear Mind",
-      "url": "https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -867,22 +903,6 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
-        "name": "DUA PA",
-        "url": "https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or"
-      },
-      "artists": [
-        {
-          "name": "Bapi Joss",
-          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "DUA PA",
-      "url": "https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM"
-    },
-    {
-      "added_at": "2026-04-17 00:01:57",
-      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/2Og60Asyn30jSOaR7NLwR1"
       },
@@ -915,22 +935,6 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
-        "name": "Cavy In The City",
-        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
-      },
-      "artists": [
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 151529,
-      "name": "General",
-      "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
-    },
-    {
-      "added_at": "2026-04-17 00:01:57",
-      "album": {
         "name": "UPGRADE",
         "url": "https://open.spotify.com/album/71h63m5gl6FlM1dSba1sXv"
       },
@@ -947,22 +951,34 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
-        "name": "No Excuses Deluxe",
-        "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
+        "name": "DUA PA",
+        "url": "https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
         }
       ],
-      "duration_ms": 132413,
-      "name": "FINE SHYT (feat. Tml Vibez)",
-      "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
+      "duration_ms": 126000,
+      "name": "DUA PA",
+      "url": "https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
+        "name": "Cavy In The City",
+        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 151529,
+      "name": "General",
+      "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -1023,6 +1039,22 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
+        "name": "My letter to Zayn",
+        "url": "https://open.spotify.com/album/7aAhZv5SRsHdezmOU5o2tJ"
+      },
+      "artists": [
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "My letter to Zayn",
+      "url": "https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
         "name": "RUSH",
         "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
       },
@@ -1039,6 +1071,22 @@
       "duration_ms": 253714,
       "name": "RUSH",
       "url": "https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
+        "name": "Italawa",
+        "url": "https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        }
+      ],
+      "duration_ms": 172634,
+      "name": "Italawa",
+      "url": "https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -1067,22 +1115,6 @@
       "duration_ms": 202500,
       "name": "STYLO",
       "url": "https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO"
-    },
-    {
-      "added_at": "2026-04-17 00:01:57",
-      "album": {
-        "name": "Italawa",
-        "url": "https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        }
-      ],
-      "duration_ms": 172634,
-      "name": "Italawa",
-      "url": "https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -1123,22 +1155,6 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
-        "name": "Candies",
-        "url": "https://open.spotify.com/album/2rgFM5NLjLSEbp4CjUUFzR"
-      },
-      "artists": [
-        {
-          "name": "Sante SVM",
-          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Candies",
-      "url": "https://open.spotify.com/track/4PgMQUAzazUkjLu8QwujNG"
-    },
-    {
-      "added_at": "2026-04-17 00:01:57",
-      "album": {
         "name": "Freaky",
         "url": "https://open.spotify.com/album/2t0o2APZCEKQAaBo3GlRku"
       },
@@ -1155,26 +1171,18 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
-        "name": "WELCOME 2 THE VILLE",
-        "url": "https://open.spotify.com/album/67FvSNo4BQU0I46AuwIbvU"
+        "name": "Candies",
+        "url": "https://open.spotify.com/album/2rgFM5NLjLSEbp4CjUUFzR"
       },
       "artists": [
         {
-          "name": "Apex Village",
-          "url": "https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2"
-        },
-        {
-          "name": "Uloko",
-          "url": "https://open.spotify.com/artist/1674s2psVcNDWPwXZ9x1ZP"
-        },
-        {
-          "name": "Marv OTM",
-          "url": "https://open.spotify.com/artist/6d8xfrC9LQGafSliHHxEZq"
+          "name": "Sante SVM",
+          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
         }
       ],
-      "duration_ms": 115200,
-      "name": "HOW FAR?",
-      "url": "https://open.spotify.com/track/0qRiTOwGSqofLgLKOfclBZ"
+      "duration_ms": 168000,
+      "name": "Candies",
+      "url": "https://open.spotify.com/track/4PgMQUAzazUkjLu8QwujNG"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -1219,6 +1227,30 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
+        "name": "WELCOME 2 THE VILLE",
+        "url": "https://open.spotify.com/album/67FvSNo4BQU0I46AuwIbvU"
+      },
+      "artists": [
+        {
+          "name": "Apex Village",
+          "url": "https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2"
+        },
+        {
+          "name": "Uloko",
+          "url": "https://open.spotify.com/artist/1674s2psVcNDWPwXZ9x1ZP"
+        },
+        {
+          "name": "Marv OTM",
+          "url": "https://open.spotify.com/artist/6d8xfrC9LQGafSliHHxEZq"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "HOW FAR?",
+      "url": "https://open.spotify.com/track/0qRiTOwGSqofLgLKOfclBZ"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
         "name": "Supreme Dee",
         "url": "https://open.spotify.com/album/0xuHVcGvttTmGcFxhhLPze"
       },
@@ -1251,22 +1283,6 @@
       "duration_ms": 157241,
       "name": "DON'T ASK DON'T ANSWER (feat. NATURE)",
       "url": "https://open.spotify.com/track/3OKpzbpU6pfvBq5SIVLbVb"
-    },
-    {
-      "added_at": "2026-04-17 00:01:57",
-      "album": {
-        "name": "Isn't It Beautiful",
-        "url": "https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 156997,
-      "name": "Isn't It Beautiful",
-      "url": "https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -1327,22 +1343,6 @@
       "duration_ms": 168408,
       "name": "It ends with me",
       "url": "https://open.spotify.com/track/6B1WlH8M9hkQy3DjO8NboN"
-    },
-    {
-      "added_at": "2026-04-17 00:01:57",
-      "album": {
-        "name": "My letter to Zayn",
-        "url": "https://open.spotify.com/album/7aAhZv5SRsHdezmOU5o2tJ"
-      },
-      "artists": [
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "My letter to Zayn",
-      "url": "https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

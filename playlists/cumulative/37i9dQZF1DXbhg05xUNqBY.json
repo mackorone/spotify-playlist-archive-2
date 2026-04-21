@@ -930,7 +930,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 196515,
       "name": "Closer to Heaven",
       "url": "https://open.spotify.com/track/7ygoUlBTpmN7TAnHT4g90U"
@@ -5236,7 +5236,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 378181,
       "name": "Precious Wine",
       "url": "https://open.spotify.com/track/0nkjRQ02czr5R11E0EeWCb"
@@ -5783,6 +5783,24 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0kx2b0TYDAj9oA9JVi8jdN"
+      },
+      "artists": [
+        {
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181119,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/2yfww2fXM4qCZVUSw6iSQ8"
+    },
+    {
+      "album": {
         "name": "Where You Found Me",
         "url": "https://open.spotify.com/album/5Ek7IXlnZTsHTHmC8kTxt7"
       },
@@ -5794,7 +5812,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 320580,
       "name": "Seen What I Have Seen",
       "url": "https://open.spotify.com/track/0ICgAlYUYUr0snPhO4LwfK"
@@ -7087,6 +7105,28 @@
     },
     {
       "album": {
+        "name": "Wait On You",
+        "url": "https://open.spotify.com/album/43XE5518l2BLCQmqwSA15A"
+      },
+      "artists": [
+        {
+          "name": "Godwin King",
+          "url": "https://open.spotify.com/artist/3zNPsJVNyCnqjWvTPFghkC"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237792,
+      "name": "Wait On You",
+      "url": "https://open.spotify.com/track/7yErAxvmSIVzWb0BFH0U4n"
+    },
+    {
+      "album": {
         "name": "wake up",
         "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
       },
@@ -7762,6 +7802,28 @@
       "duration_ms": 320080,
       "name": "You Are Fullness",
       "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
+    },
+    {
+      "album": {
+        "name": "You Are Holy / Falling In Love With Jesus",
+        "url": "https://open.spotify.com/album/391izZ6H98ZIMQ6WGZT9o4"
+      },
+      "artists": [
+        {
+          "name": "David Andrew",
+          "url": "https://open.spotify.com/artist/44nxpJ4QALHoSoUFpWiIQc"
+        },
+        {
+          "name": "David Soh",
+          "url": "https://open.spotify.com/artist/5gQJetIU8Kv0bvDgAusFeO"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182413,
+      "name": "You Are Holy / Falling In Love With Jesus",
+      "url": "https://open.spotify.com/track/7o65kENeLGJbAPrn4MwyfB"
     },
     {
       "album": {

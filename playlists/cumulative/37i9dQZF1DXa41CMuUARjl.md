@@ -2,7 +2,7 @@
 
 ### [All New Dance](https://open.spotify.com/playlist/37i9dQZF1DXa41CMuUARjl)
 
-> This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Silva Bumpa, Honey Dijon, John Summit, & more!
+> This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Silva Bumpa + Specialist Moss, Honey Dijon, John Summit, & more!
 
 34,706 songs - 87 day 11 hr 17 min
 
@@ -10745,7 +10745,7 @@
 | [Forward \(Foot by Foot\)](https://open.spotify.com/track/3Ng8QEtUMYJMfNyJa0rvod) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d), [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [Flash Memory](https://open.spotify.com/album/7CoVVyDBssqgaqXzJUOmqj) | 2:57 | 2024-10-25 | 2024-11-02 |
 | [Forward Forever](https://open.spotify.com/track/6nP3iynkH0n2eyrQsLDKym) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Forward Forever](https://open.spotify.com/album/4W0lEnaWhcHu5jOIc3sMCY) | 3:08 | 2023-12-08 | 2023-12-16 |
 | [Forza](https://open.spotify.com/track/3Qvwoqzcq7aKpW1omzCgQb) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg), [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM) | [Forza](https://open.spotify.com/album/4BYazN4kNLuHwpVzBNcW0T) | 3:12 | 2024-02-16 | 2024-02-24 |
-| [Fotopaparazzi \(ft\. Jon Z\)](https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Fotopaparazzi \(ft\. Jon Z\)](https://open.spotify.com/album/0yJcjogROmyReERdHLtDuq) | 2:20 | 2026-04-17 |  |
+| [Fotopaparazzi](https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Fotopaparazzi](https://open.spotify.com/album/0yJcjogROmyReERdHLtDuq) | 2:20 | 2026-04-17 |  |
 | [Fou \- Poolside Remix](https://open.spotify.com/track/1HWuPD9JjXtRBp1xqX9KNC) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Fou \(Poolside Remix\)](https://open.spotify.com/album/6ofU9bwcQ8kflxyn5Nc088) | 4:41 | 2020-07-24 | 2020-07-31 |
 | [Foul Gnawa](https://open.spotify.com/track/6U05b3hBKjauzCzYuJx0HX) | [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Foul Gnawa](https://open.spotify.com/album/5JYPep8rpEReFzPFgrjuNm) | 3:51 | 2026-04-10 | 2026-04-18 |
 | [Foul Tarnished](https://open.spotify.com/track/6XEdC8y0BB3W5IEztNxg70) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Foul Tarnished](https://open.spotify.com/album/79DmcJOAVCxt04AUfLl8ye) | 3:09 | 2024-11-15 | 2024-11-23 |

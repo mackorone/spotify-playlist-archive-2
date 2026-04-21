@@ -1,13 +1,29 @@
 {
   "description": "Bops and LGBTQIA+ artists only. Cover: Priyanka",
-  "num_followers": 21128,
+  "num_followers": 21206,
   "original_name": "GLOW US & Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJKh7qXw32EmDh4xflNc0Xx+alSe",
+  "snapshot_id": "AAAAAMQ0qQ8LZx31LEI5EI11852zSHHQ",
   "tracks": [
+    {
+      "added_at": "2026-04-20 19:50:39",
+      "album": {
+        "name": "I Feel So Free",
+        "url": "https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 303528,
+      "name": "I Feel So Free",
+      "url": "https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk"
+    },
     {
       "added_at": "2026-04-17 04:05:02",
       "album": {
@@ -827,26 +843,6 @@
       "duration_ms": 195448,
       "name": "Dangerous Nostalgia",
       "url": "https://open.spotify.com/track/3afGTfHfCJ6RjltpDGjazF"
-    },
-    {
-      "added_at": "2026-04-17 04:05:02",
-      "album": {
-        "name": "Sympathy Is A Knife",
-        "url": "https://open.spotify.com/album/74FsBdVP7714hvE7BOu9So"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        },
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 209986,
-      "name": "Sympathy Is A Knife",
-      "url": "https://open.spotify.com/track/3DwoBh7cAfEOrSVWRUtgOE"
     }
   ],
   "unique_name": "GLOW US & Canada",

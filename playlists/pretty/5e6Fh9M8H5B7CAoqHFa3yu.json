@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 307,
+  "num_followers": 309,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJSIHQdxmIGqgi6ZtGhm8UzpL9r3NI",
+  "snapshot_id": "AAAJSbVYoN8TzprxH9ahVt9PwtKlt4ap",
   "tracks": [
     {
       "added_at": "2026-04-13 10:40:02",
@@ -37579,6 +37579,22 @@
       "duration_ms": 264777,
       "name": "DON JOS\u00c9",
       "url": "https://open.spotify.com/track/6PnyBXXOnhM0cumDIy4He3"
+    },
+    {
+      "added_at": "2026-04-20 10:53:19",
+      "album": {
+        "name": "LETTING GO",
+        "url": "https://open.spotify.com/album/5qgzx90xVvgZcTqlnYLgAP"
+      },
+      "artists": [
+        {
+          "name": "anoushka hem",
+          "url": "https://open.spotify.com/artist/5tjq7Oyj6Zu5PhVACjwC8t"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "dear future self",
+      "url": "https://open.spotify.com/track/52RtpM46le3D6bVbsaUUnN"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

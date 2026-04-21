@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-182 songs - 9 hr 14 min
+183 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Falsche Helden](https://open.spotify.com/track/6y2X2xdJajRaJrrheIxqUs) | [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Trümmerkönig](https://open.spotify.com/album/7g7FlU71zkw5T6MWQyh92g) | 3:45 | 2025-01-09 | 2025-04-12 |
 | [Finger auf die Lippen](https://open.spotify.com/track/7c9jHNrmnzs9SJjDd2zfvi) | [YAENNIVER](https://open.spotify.com/artist/62yGrNS5EcrAnBVlDtlBEw) | [NACKT](https://open.spotify.com/album/2VCBmTgQym5OlZ9LxEs2AU) | 2:57 | 2025-01-09 | 2025-04-12 |
 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 | 2024-01-29 |  |
+| [Fruto do Tempo](https://open.spotify.com/track/1cFg4Gt6DLHOKm8Iya0kBQ) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 4:04 | 2026-04-20 |  |
 | [Für den Himmel durch die Hölle](https://open.spotify.com/track/5HMW5TuegnI95wWwHF0U96) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Für den Himmel durch die Hölle \(Deluxe Edition\)](https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa) | 3:00 | 2024-01-29 |  |
 | [Geister](https://open.spotify.com/track/2tpmUQKddesrmZmHEZdI3F) | [Henning Wehland](https://open.spotify.com/artist/7AgDCXy6Z60LzhvYOrDlf3) | [Der Letzte an der Bar](https://open.spotify.com/album/492ubi4D359Nl0NsqhjDWJ) | 3:28 | 2024-01-29 |  |
 | [Getting There](https://open.spotify.com/track/1YdUjBLiapo6at7XhMn0mq) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz), [Lapsi](https://open.spotify.com/artist/5ZcPF93TyiZ6F0M3S1cRLm) | [Getting There](https://open.spotify.com/album/7eKNpLH2MyOfStA0lgvfLf) | 2:36 | 2024-01-29 |  |

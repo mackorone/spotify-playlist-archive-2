@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,303 songs - 9 day 13 hr 3 min
+4,306 songs - 9 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2016,6 +2016,7 @@
 | [La Barca di Carta](https://open.spotify.com/track/2wlov7eejGYcFolQYkNjNF) | [Cow Lee](https://open.spotify.com/artist/3WM2c0I49ITR5o3BeXeBQe) | [La Barca di Carta](https://open.spotify.com/album/3nwwk9sgPJtnAyPEZL8qIq) | 4:26 | 2025-07-03 |  |
 | [LA CADUTA DI ICARO](https://open.spotify.com/track/0CutG7jNSXkTeowjtHBDN7) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [di sirene](https://open.spotify.com/album/6Tlfu8XHQgn058q8vBYPig) | 6:53 | 2026-02-01 |  |
 | [LA CADUTA DI ICARO \- 2023 Remastered Version](https://open.spotify.com/track/5oF8sAXwyjaTQvTlv9syvM) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [LA CADUTA DI ICARO \(2023 Remastered Version\)](https://open.spotify.com/album/6RjZtdBul4rmXNABVmX2eJ) | 6:53 | 2026-02-01 |  |
+| [La cantina de poder](https://open.spotify.com/track/5htd2qienkY0cQlQ0gubu9) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 4:02 | 2026-04-20 |  |
 | [La casa che brucia](https://open.spotify.com/track/56amweBM3xpdIBFpVsCm5P) | [Lityo](https://open.spotify.com/artist/2trwqCdfVqrWrY0TXfwIsJ) | [La casa che brucia](https://open.spotify.com/album/5wiqYkyVPgB65Be60yY23O) | 3:56 | 2025-07-24 |  |
 | [La chiave della libertà](https://open.spotify.com/track/1AwsZCXa1YfjlZOGVFXLSR) | [Dish\-Is\-Nein](https://open.spotify.com/artist/3AuDLNWhza3Pf8d1WdjSGS) | [Dish\-Is\-Nein](https://open.spotify.com/album/4myiiWfZU2YyXm8dTcjiV9) | 4:57 | 2025-11-12 |  |
 | [La Danza del Caos](https://open.spotify.com/track/7H948UlyJmrjGFrYxNYIIV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica pop in italiano 2025](https://open.spotify.com/album/28rwBadApgcQzz4GIG0fLX) | 2:14 | 2025-09-17 |  |
@@ -2253,6 +2254,7 @@
 | [Luz de invierno](https://open.spotify.com/track/2eyL70rGgZyvDKmwhWsGV3) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Mi tú y yo](https://open.spotify.com/album/7kpb1aHHgP4NterHXumzvo) | 2:27 | 2026-04-12 |  |
 | [LV Sandals](https://open.spotify.com/track/5XIkzgjs6TJwJmfGaB9jji) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [LV Sandals](https://open.spotify.com/album/7dk9B9ktyUhnChQA2C7YrK) | 1:51 | 2025-07-28 |  |
 | [LVING IT](https://open.spotify.com/track/3ENnhUuyp2l967WUZp3f9Z) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [LVING IT](https://open.spotify.com/album/5XcyzIEwH9CDhmhS3QXgJj) | 2:23 | 2025-07-01 |  |
+| [Lying](https://open.spotify.com/track/3NQ352T1u3Zn389Io8EmF5) | [Unlucky Empathy](https://open.spotify.com/artist/3stdHKfwcRB3Vmj7KQOsYl) | [Lying](https://open.spotify.com/album/6qdZO3ebPEZhVxx0BRDU6h) | 5:12 | 2026-04-20 |  |
 | [lykyk](https://open.spotify.com/track/2Mj9GKtxNGoyi7jjbRjTmq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 3:14 | 2025-09-17 |  |
 | [Machine Apocalypse](https://open.spotify.com/track/0AqccdPW454NRitVUhgyxN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Electronic Techno Metal](https://open.spotify.com/album/3QGQOQiU2ULfdIXSSp3w2y) | 2:39 | 2025-09-17 |  |
 | [Machine Apocalypse \(another\)](https://open.spotify.com/track/2jJUucEIJQaxX4bGQ1r24F) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Electronic Techno Metal](https://open.spotify.com/album/3QGQOQiU2ULfdIXSSp3w2y) | 3:47 | 2025-09-17 |  |
@@ -3181,6 +3183,7 @@
 | [Senza titol](https://open.spotify.com/track/1ixy5jRs4IvuRSbGQqWCcL) | [Bekruud](https://open.spotify.com/artist/5chx6Kbsyug2xjG91C6eay) | [Progressioni](https://open.spotify.com/album/0dGmrzc0FxXhl5PuDPT4sf) | 3:21 | 2025-06-02 |  |
 | [Senza un'uscita](https://open.spotify.com/track/1Ja91jJGVwzp6UDgT7f9DH) | [Ipostatomici](https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi) | [Senza un'uscita](https://open.spotify.com/album/4yoTNdW7BnOiFg7OhljnxE) | 3:40 | 2025-05-27 |  |
 | [Senza un'Uscita](https://open.spotify.com/track/4XpVRfBxcyesArVDSC0FNu) | [Post Atomic Nuclear Waste](https://open.spotify.com/artist/4GowJGrhr4lZKlPxDYOLqY) | [Il Primo Esperimento del Dott\. Stranamore](https://open.spotify.com/album/2IxDzqiMyPKfPug8YEPKGW) | 3:40 | 2025-05-27 |  |
+| [Serenada](https://open.spotify.com/track/4ZnDI6bbOt3GzZbCHRKXKR) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 2:48 | 2026-04-20 |  |
 | [Serpentine](https://open.spotify.com/track/5QZxcjUqcsQ5c9vNXNqa2n) | [Lush Duck](https://open.spotify.com/artist/7Jc4asBe7zfajAZI04Rh90) | [Serpentine](https://open.spotify.com/album/0YmSvmQrl9C9Dtc9VOV0Ra) | 3:26 | 2025-04-28 |  |
 | [Serpents and Snakes](https://open.spotify.com/track/5302JwW6xCy1x3UwIHQt5G) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Alco\-Pop](https://open.spotify.com/album/4PMlLGxFM68fEBMRqNKqG5) | 1:46 | 2025-11-05 |  |
 | [Sesso & Vino](https://open.spotify.com/track/3jxMw9TxM04BgM6HF7Ve0t) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [Sesso & Vino](https://open.spotify.com/album/0Cx1yXdH8B6tVxLO5jdVVW) | 3:09 | 2025-06-06 |  |

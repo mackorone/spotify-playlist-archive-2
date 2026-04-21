@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-511 songs - 1 day 3 hr 2 min
+512 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,8 @@
 | [Sleeve](https://open.spotify.com/track/6XuNHkA5iAVP5MZCFILt4r) | [Cathanol](https://open.spotify.com/artist/099yaibIXjBmQumhcPayiF) | [Detours](https://open.spotify.com/album/4Mo7Tfao2FVSl916lHOd6D) | 4:14 | 2024-02-09 |  |
 | [SLUGCAT PINBALL](https://open.spotify.com/track/1wkOvV481vWHJcBi0C4Zq0) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [SLUGCAT PINBALL](https://open.spotify.com/album/1A8lHXbpi3RawUMlqwq8vN) | 3:25 | 2024-02-01 |  |
 | [smile](https://open.spotify.com/track/4J4tnoWcItyeWFFDd308HQ) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 2:38 | 2025-02-03 | 2026-03-01 |
-| [SNARL AT YOUR FRIENDS!!!](https://open.spotify.com/track/1XnagEe3r0kvWlTVjYHJjN) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [SNARL AT YOUR FRIENDS!!!](https://open.spotify.com/album/58fwYy1AyXZ3FFaeVAyVtH) | 3:25 | 2026-03-29 |  |
+| [SNARL AT YOUR FRIENDS!!!](https://open.spotify.com/track/4MtrLEGZjii0FEGb4R302B) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [Gonarch's Lair](https://open.spotify.com/album/7ggH0DYZKT1p5l9U2j1z3y) | 3:25 | 2026-04-20 |  |
+| [SNARL AT YOUR FRIENDS!!!](https://open.spotify.com/track/1XnagEe3r0kvWlTVjYHJjN) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [SNARL AT YOUR FRIENDS!!!](https://open.spotify.com/album/58fwYy1AyXZ3FFaeVAyVtH) | 3:25 | 2026-03-29 | 2026-04-21 |
 | [Snow Angels](https://open.spotify.com/track/2gXMJFkJziWpOV5BVGNKfY) | [Blackmajic](https://open.spotify.com/artist/2E7JfpHr5S3CepjpL4Dt6C), [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [Snow Angels](https://open.spotify.com/album/2L1rT5fyQ1SUNZHPEei8gr) | 2:44 | 2024-05-28 | 2025-08-13 |
 | [Snow In Sweden](https://open.spotify.com/track/0drASf0itVnhlkcD0hHfsp) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Snow In Sweden](https://open.spotify.com/album/25N7jpmW7GFaB4H3yWRdxt) | 2:38 | 2023-06-14 | 2026-03-01 |
 | [Snow In Sweden \- Orchestral Cover](https://open.spotify.com/track/57ojBkTzWmDMDsqVJzYJKP) | [MetaArchion](https://open.spotify.com/artist/7CvkeLyEIzGdsUNPet1l2P) | [Schizophrenia](https://open.spotify.com/album/5umhDCK3Btxe4JDgN9YHX0) | 3:45 | 2024-07-14 |  |

@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sara Evelyn
 
-273 songs - 23 hr 37 min
+274 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Marcas da Dor](https://open.spotify.com/track/0n3kpiCcgLLZpuiKy0CBeC) | [Miriam dos Passos](https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt) | [Marcas da Dor](https://open.spotify.com/album/0Z9pMXe3ViuOtPmLIxMWtN) | 6:43 | 2023-06-23 | 2023-07-08 |
 | [Me Ajuda Deus](https://open.spotify.com/track/3mxtkBGt6vx4sS1bIicypQ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Me Ajuda Deus](https://open.spotify.com/album/1f8pXGg6sm3ZpqzjdJe6fN) | 4:28 | 2023-01-13 | 2023-02-25 |
 | [Medley \(Revestido de Glória / Desemborca o Vaso / Receba de Deus / Festa no Céu / Fogo Santo / Aqui Tem Glória\) \(Ao Vivo\)](https://open.spotify.com/track/5p63CZ4R0gUE30iL1TbarD) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Medley \(Revestido de Glória / Desemborca o Vaso / Receba de Deus / Festa no Céu / Fogo Santo / Aqui Tem Glória\) \(Ao Vivo\)](https://open.spotify.com/album/6Be9JdrnglYnu86FhhXJPi) | 8:13 | 2023-03-24 | 2023-05-13 |
-| [Melhor Amigo / O Que Seria de Mim \- Ao Vivo](https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE) | [Nair Nany](https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho), [Dimy Francisco](https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8), [Eunice Zumbuca](https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p) | [Melhor Amigo / O Que Seria de Mim \(Ao Vivo\)](https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7) | 11:18 | 2025-08-01 |  |
+| [Melhor Amigo / O Que Seria de Mim \- Ao Vivo](https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE) | [Nair Nany](https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho), [Dimy Francisco](https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8), [Eunice Zumbuca](https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p) | [Melhor Amigo / O Que Seria de Mim \(Ao Vivo\)](https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7) | 11:18 | 2025-08-01 | 2026-04-21 |
 | [Metade do Filho \(Ao Vivo\)](https://open.spotify.com/track/0bI0ggOso17BOsNbsVJ2Om) | [Carol Miranda](https://open.spotify.com/artist/2UeU6QwYpItw9sLDw0Ow9g), [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Metade do Filho \(Ao Vivo\)](https://open.spotify.com/album/3Z8BEUValYjbut2GmhC4wC) | 5:00 | 2026-02-13 |  |
 | [Meu Deus É Grande](https://open.spotify.com/track/1T1hRHr86C3AkhwZoghk4f) | [Conceição Cabral](https://open.spotify.com/artist/261lMqvy7n9kYVHrAUTOqF) | [Meu Deus É Grande](https://open.spotify.com/album/5cEE4XjAdOvf8rIiRDSHJa) | 5:34 | 2024-09-20 | 2025-04-15 |
 | [Meu Mestre \- Ao Vivo](https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Isabela Agustinho](https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt) | [Meu Mestre \(Ao Vivo\)](https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35) | 4:46 | 2024-08-16 | 2025-09-13 |
@@ -190,6 +190,7 @@
 | [Olha Você Aí](https://open.spotify.com/track/3lmKyXR7M4bTrzUWrM90eM) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Olha Você Aí](https://open.spotify.com/album/0hSIqNjbnDJdWlwUpzwKd4) | 5:02 | 2022-09-09 | 2022-10-29 |
 | [Olhando Pra Você](https://open.spotify.com/track/52RMRXYZIkVhzfbzV8xBPu) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Olhando Pra Você](https://open.spotify.com/album/1ORbMDUZk2wElpvop4nd6s) | 4:08 | 2022-09-09 | 2022-10-29 |
 | [Onde Está Sua Fé?](https://open.spotify.com/track/3HBifoZvJ5ThoUuYdHpKpr) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Onde Está Sua Fé?](https://open.spotify.com/album/7JvK5SH4FvGMZWA8iDdsem) | 5:08 | 2022-09-09 | 2025-02-01 |
+| [Ora Que Melhora \- Ao Vivo](https://open.spotify.com/track/6i3XCmIMFZiyRZQlatuWmW) | [Ariely Bonatti](https://open.spotify.com/artist/4OyTlvqTXUeLEiyOq7KLNU), [Graça Music](https://open.spotify.com/artist/1VIjLJfUSIouLqdLQqT9U1) | [Ora Que Melhora](https://open.spotify.com/album/20gcNbc4MlDGwXKKWUi7xy) | 5:17 | 2026-04-20 |  |
 | [Pai](https://open.spotify.com/track/5qeX5JKKxDA2EI96SlCP0D) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Pai](https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu) | 5:56 | 2023-02-10 | 2023-06-24 |
 | [Parar Por Quê ?](https://open.spotify.com/track/6p6fwPILucLizPbmlGkHUG) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Parar Por Quê ?](https://open.spotify.com/album/3lIdr7RLof7GAZ5XXgrwke) | 4:44 | 2024-06-28 | 2024-08-17 |
 | [Passa Lá em Casa Jesus](https://open.spotify.com/track/7qKr6x5EXFDxI5Ei6Xfaqj) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Passa Lá em Casa Jesus](https://open.spotify.com/album/61yf8smjeBzEwUNuJRWV4U) | 4:54 | 2023-09-15 | 2025-06-07 |

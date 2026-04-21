@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: Vaundy
 
-1,336 songs - 3 day 12 hr 26 min
+1,338 songs - 3 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 | 2025-01-28 | 2025-07-16 |
 | [Boys in the Band](https://open.spotify.com/track/1FgmSZydG7nfijbbcNdsd3) | [上野皓平](https://open.spotify.com/artist/5FmbHilP4PeU5VXJFpEERK) | [Boys in the Band](https://open.spotify.com/album/2JUvZTXH5zggCaAYvzf2Ut) | 3:38 | 2025-10-08 | 2025-10-15 |
 | [bubble summer](https://open.spotify.com/track/2xRCVNT0UGimdhpZ2LyH42) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [bubble summer](https://open.spotify.com/album/5s7vFzqPwCGxjzLcWlMFdl) | 3:34 | 2025-07-22 | 2025-09-03 |
-| [Buddy](https://open.spotify.com/track/4CScOyYelyzEodaT3HzA3y) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Buddy](https://open.spotify.com/album/5DX5NkHJmZiXSFVtfHQToC) | 2:22 | 2026-02-17 |  |
+| [Buddy](https://open.spotify.com/track/4CScOyYelyzEodaT3HzA3y) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Buddy](https://open.spotify.com/album/5DX5NkHJmZiXSFVtfHQToC) | 2:22 | 2026-02-17 | 2026-04-21 |
 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 | 2024-10-01 | 2026-02-12 |
 | [Bunny Girl \- Natural](https://open.spotify.com/track/7CfCkFCM17K2oyjtV5pHLM) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl \(Natural\)](https://open.spotify.com/album/0dAUkKPIVmGMkZJUaTKrMK) | 3:35 | 2024-11-13 | 2025-02-19 |
 | [Burial Sea](https://open.spotify.com/track/500KbENTYkGTrCHp4E8md6) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [Burial Sea](https://open.spotify.com/album/5k61bP1qLkituDoEMtXR6T) | 4:54 | 2025-11-25 | 2025-12-03 |
@@ -218,6 +218,7 @@
 | [Hallelujah](https://open.spotify.com/track/1oNk83zVN0i2uiVUwe4cEp) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [Hallelujah](https://open.spotify.com/album/4MJGp2EjUcTl3wjt4WTjGj) | 2:57 | 2025-09-09 | 2025-09-17 |
 | [Hanazakari](https://open.spotify.com/track/5I1aT9P9o0XwWjY1mxbJkd) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 4:20 | 2025-01-14 | 2025-02-26 |
 | [Hands and Dance](https://open.spotify.com/track/0AHf1fa7lZALALabj4Y17O) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Hands and Dance](https://open.spotify.com/album/2u3X9ZoeqE5eIIklyIXM88) | 3:33 | 2024-07-16 | 2024-07-27 |
+| [Hangover](https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Hangover](https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2) | 3:26 | 2026-04-14 |  |
 | [HAPPY](https://open.spotify.com/track/3HC6lWVTRtFMwqo47uAfH2) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [HAPPY](https://open.spotify.com/album/262C2bESKPglUZwbCs8PGX) | 4:43 | 2025-04-22 | 2025-04-30 |
 | [Happy birthday to my son.](https://open.spotify.com/track/0qtfINs7EO0TQk2EiAO8Ai) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Happy birthday to my son.](https://open.spotify.com/album/5u6yfBfTrTIxVtiJzDhTNu) | 3:46 | 2025-08-19 | 2025-09-17 |
 | [HAPPY END](https://open.spotify.com/track/1osPfNzwwAxWjRv2tCB3FN) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [HAPPY END](https://open.spotify.com/album/7oenBMkeHD3LzFfPR93Apx) | 3:12 | 2024-12-03 | 2025-02-19 |
@@ -349,6 +350,7 @@
 | [lukewarm wind](https://open.spotify.com/track/0Qx0eBmLsBVyRBAyoXyzT1) | [Hiraku Yoshimura](https://open.spotify.com/artist/0jcXXzmFqegqOKlXPpZCTq) | [lukewarm wind](https://open.spotify.com/album/3OhFlMd8ty0PWJmec0LgkO) | 3:39 | 2025-03-18 | 2025-03-26 |
 | [Machi....](https://open.spotify.com/track/7ENZ2lMGtjNgyN0cHVEJZz) | [.ENDRECHERI.](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [Machi....](https://open.spotify.com/album/1xp7bm3K4XSdqWG7ZVHTn7) | 6:25 | 2024-12-10 | 2025-03-26 |
 | [Mad Hope \(feat\. Louis Cole, Sam Gendel, Sam Wilkes\)](https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Gen](https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs) | 3:28 | 2025-05-13 | 2025-07-14 |
+| [Magic](https://open.spotify.com/track/6WyqwvGXdSdOipKBESSDKI) | [RLOEVO](https://open.spotify.com/artist/3dz08OK3pJYraaLrwrVWg0) | [Magic](https://open.spotify.com/album/2G6L8gwcR9wKUFHMGt4MUY) | 3:33 | 2026-04-14 |  |
 | [Maps to the stars](https://open.spotify.com/track/01M32J6u1o0uQpya6GbEn9) | [Loupx garoux](https://open.spotify.com/artist/59Rp7Pu3sKPJS4sZKZOv3N) | [暗野](https://open.spotify.com/album/787KBEtjeZGV6lEcrgLnJp) | 5:14 | 2024-10-01 | 2024-11-20 |
 | [Maria](https://open.spotify.com/track/18VuhHFkLgezrogT72sCfi) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Maria](https://open.spotify.com/album/3cYcU11gO5RAyMj8w60YR2) | 3:02 | 2025-04-08 | 2025-04-16 |
 | [marriage](https://open.spotify.com/track/4dzBSK1zA7EQ4VBIOLEUUR) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4) | [marriage](https://open.spotify.com/album/4z8FkDkZVgRa9qDtDoRVMu) | 3:45 | 2025-03-25 | 2025-04-02 |
@@ -1106,7 +1108,7 @@
 | [恋心は踊る](https://open.spotify.com/track/4YbaGfMsfQi4Jj4mgQ0Qf2) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [恋心は踊る](https://open.spotify.com/album/2dSc5CdE0noNk8UYjdQvZP) | 4:47 | 2025-01-28 | 2025-11-19 |
 | [恋熱](https://open.spotify.com/track/2GW5dVAXVVvhFxiMYZ1iSZ) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [恋熱 / 心音](https://open.spotify.com/album/4lXyiwfCEoVTCScOKsp0M6) | 3:12 | 2024-11-05 | 2025-01-31 |
 | [息吹](https://open.spotify.com/track/2nHuTCawDNAwWnlQVr1ax8) | [中島 寂](https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL) | [息吹](https://open.spotify.com/album/2xAVkMz6xswTl7LvaCjwEF) | 3:49 | 2026-02-11 | 2026-03-22 |
-| [悪人](https://open.spotify.com/track/7uWxsv7spQIqAqDTibWZY9) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [悪人](https://open.spotify.com/album/19znVd3k8G2JEA2SwPEXjC) | 3:15 | 2026-02-03 |  |
+| [悪人](https://open.spotify.com/track/7uWxsv7spQIqAqDTibWZY9) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [悪人](https://open.spotify.com/album/19znVd3k8G2JEA2SwPEXjC) | 3:15 | 2026-02-03 | 2026-04-21 |
 | [悪魔](https://open.spotify.com/track/5yACHWDsUsC5n1QJuVTqMp) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [good life, good people](https://open.spotify.com/album/4EsbxeEeLAAr5EOymJIZnB) | 3:54 | 2026-04-14 |  |
 | [悪魔さん](https://open.spotify.com/track/4CJ3zlUgblKfHoxUYB9LgU) | [中川昌利](https://open.spotify.com/artist/3IBNhb2Ud0d8GCLov9ksaf) | [悪魔さん](https://open.spotify.com/album/5RdGHSpvE5JOsqnUJGR8uu) | 3:19 | 2025-02-11 | 2025-02-19 |
 | [惑星ロマンス](https://open.spotify.com/track/53NuLWR6rTIO2IqQ4x1Skx) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [惑星ロマンス](https://open.spotify.com/album/5scniruALOkj4WOg3xDHuR) | 3:37 | 2025-04-29 | 2025-09-24 |

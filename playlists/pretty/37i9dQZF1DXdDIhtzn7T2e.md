@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 
 > Let these country tunes light up your day
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,026 likes - 74 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,045 likes - 74 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 | 73 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
 | 74 | [What Would Willie Do](https://open.spotify.com/track/4XFgL5ZwyukjJTYefA6mx9) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Alright Guy](https://open.spotify.com/album/5iSl36Rh0MEyDb1qVjltYP) | 5:28 |
 
-Snapshot ID: `AAAAAIi+NnyM6UD+xlXygxpIe6mU8eHx`
+Snapshot ID: `AAAAAK0KhLJOHoTfwX3pf9GdxCLeQwkW`

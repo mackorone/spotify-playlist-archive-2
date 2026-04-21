@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: NINE INCH NAILS
 
-1,981 songs - 4 day 18 hr 52 min
+1,983 songs - 4 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Bleed](https://open.spotify.com/track/3twNlcDcyTluh5UahXP8AB) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Bleed](https://open.spotify.com/album/2RkuogMfmVrJgweGc80pd4) | 3:40 | 2026-03-12 |  |
 | [Bleed Out](https://open.spotify.com/track/1oNy8VAsmqlx7isSPR5oQe) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/6NyQhDlNC1CDy0WliMhCvZ) | 4:30 | 2023-08-17 | 2023-08-25 |
 | [Bleeding for Nothing](https://open.spotify.com/track/2nGE6WcpvY0zkjo6jdHhFN) | [Modern Jazz War](https://open.spotify.com/artist/0RuckljmK4FzRmu5lU9PjU) | [Holes in Modernity](https://open.spotify.com/album/38LAAjVp1J1uDPUufgViZc) | 4:34 | 2026-03-05 | 2026-04-10 |
+| [BLINDFOLD](https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [IT CALLS ME BY NAME](https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL) | 3:14 | 2026-04-20 |  |
 | [blindspot](https://open.spotify.com/track/1rju0XLSgmtqpjrrCJxsp4) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [blindspot](https://open.spotify.com/album/5LXixqIRcSzjsHRQkGDooc) | 3:27 | 2023-12-14 | 2024-01-05 |
 | [Blood & Fire](https://open.spotify.com/track/3TWjjl0gp332SPLMxlmWET) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Blood & Fire](https://open.spotify.com/album/27Otg8SYC2BhPkLD3pqbG3) | 3:32 | 2023-08-31 | 2023-09-08 |
 | [BLOOD AND SUGAR](https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [BLOOD AND SUGAR](https://open.spotify.com/album/030TjWifiM82d85tllj2QY) | 3:06 | 2023-05-18 | 2023-06-02 |
@@ -410,7 +411,7 @@
 | [Cowboy Without a Clue](https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [No Love Lost to Kindness](https://open.spotify.com/album/3APYkdryV1LvMQS6wJyax6) | 3:57 | 2026-01-29 | 2026-04-18 |
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-29 | 2025-07-29 |
 | [Crack!](https://open.spotify.com/track/5fdcRU4NnzoQDvUaITXU8n) | [Summer Whales](https://open.spotify.com/artist/3hkum3WiqHnQUdMicxAsS8) | [Doughy](https://open.spotify.com/album/3awx1iBGigpJlxHssiFSjA) | 3:14 | 2024-07-18 | 2024-08-16 |
-| [crash](https://open.spotify.com/track/2eGGf6bIyhZPd9fPuE5kMb) | [bunii](https://open.spotify.com/artist/6mx3Y8XNLPaS2pjJbQFq3W) | [crash](https://open.spotify.com/album/4zhau6qTOQkCzyEwzaccNv) | 2:34 | 2026-03-12 |  |
+| [crash](https://open.spotify.com/track/2eGGf6bIyhZPd9fPuE5kMb) | [bunii](https://open.spotify.com/artist/6mx3Y8XNLPaS2pjJbQFq3W) | [crash](https://open.spotify.com/album/4zhau6qTOQkCzyEwzaccNv) | 2:34 | 2026-03-12 | 2026-04-21 |
 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 | 2024-01-25 | 2024-02-23 |
 | [Creature In The Black Night](https://open.spotify.com/track/4kMBP4BSFB0vNYQDVGiJq6) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Creature In The Black Night](https://open.spotify.com/album/2YWEecYJkLwMbNOG1o4cap) | 3:48 | 2025-07-10 | 2025-10-31 |
 | [Creep \- Spotify Singles](https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Spotify Singles](https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4) | 5:02 | 2023-11-09 | 2023-11-17 |
@@ -544,6 +545,7 @@
 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 | 2025-08-14 | 2025-10-17 |
 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-03-03 | 2025-08-10 |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2023-03-16 | 2023-09-22 |
+| [Electric Baby](https://open.spotify.com/track/4olhgnQxoGwYmR48vDTJIt) | [STOLEN](https://open.spotify.com/artist/1NiLgDSjGiX5cVrPjhkrm6) | [Cacophonic Symphony](https://open.spotify.com/album/2sShlM225hPkpvJrUhGG6v) | 6:04 | 2026-04-20 |  |
 | [Elevated Heartbreak](https://open.spotify.com/track/71kN8wL4AFqpMsmk9jb33D) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Elevated Heartbreak](https://open.spotify.com/album/2IAhYPxUgFVgKqLVzQV2By) | 3:23 | 2023-06-08 | 2023-06-23 |
 | [Elevator Operator](https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Elevator Operator](https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM) | 3:09 | 2025-01-23 | 2025-09-19 |
 | [Ember](https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Ember](https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE) | 3:25 | 2026-04-09 | 2026-04-17 |
@@ -882,7 +884,7 @@
 | [Insane Supermarket](https://open.spotify.com/track/22gzwnbf0gnDtzRrW6IFHE) | [CIGARETTE in your bed](https://open.spotify.com/artist/0ybUYq7tgOifr9Y1yaY281) | [Insane Supermarket](https://open.spotify.com/album/6KJxZCc3cV7axMuAXGbSL2) | 3:51 | 2023-11-23 | 2023-12-01 |
 | [INSOMNIAC](https://open.spotify.com/track/2EzDDlGlwTPNPQPojXvKty) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [INSOMNIAC](https://open.spotify.com/album/2e59EpMeBgRjNL4dcAXzB3) | 3:58 | 2023-11-16 | 2023-12-01 |
 | [Into The Ground](https://open.spotify.com/track/4qV6jreikyokvMUOnsEb8k) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Into The Ground](https://open.spotify.com/album/05dEe5FJhNTFfcWARldHLa) | 4:19 | 2026-03-19 |  |
-| [Into The Wild](https://open.spotify.com/track/75ucE1aqrtLF81oVg2k4IZ) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Into The Wild](https://open.spotify.com/album/0l6FEygTXElOA3quswzKXy) | 3:41 | 2026-03-12 |  |
+| [Into The Wild](https://open.spotify.com/track/75ucE1aqrtLF81oVg2k4IZ) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Into The Wild](https://open.spotify.com/album/0l6FEygTXElOA3quswzKXy) | 3:41 | 2026-03-12 | 2026-04-21 |
 | [INU](https://open.spotify.com/track/26UKmLKURjKwYa8wUBSDmp) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [到底及ばない](https://open.spotify.com/album/2ZGZrYV9cyqiG6YQKiIudt) | 4:11 | 2023-11-02 | 2023-11-17 |
 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 | 2025-04-17 | 2026-03-10 |
 | [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 | 2023-03-16 | 2023-04-07 |

@@ -11754,10 +11754,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 131693,
       "name": "We Open In Venice",
       "url": "https://open.spotify.com/track/1WgG3IMzz233bIm4EQ7QCM"
+    },
+    {
+      "album": {
+        "name": "The Sammy Davis Jr. Show with Special Guests Stars Frank Sinatra and Dean Martin",
+        "url": "https://open.spotify.com/album/4pBkKEwLMmRQAHLYEDAaZB"
+      },
+      "artists": [
+        {
+          "name": "The Rat Pack",
+          "url": "https://open.spotify.com/artist/75kHCUYCZGNvAfSyoEuJTz"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134040,
+      "name": "We Open in Venice",
+      "url": "https://open.spotify.com/track/1SOKPop4Zk9mIHUKpAv6qm"
     },
     {
       "album": {

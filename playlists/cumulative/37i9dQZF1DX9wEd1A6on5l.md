@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-851 songs - 1 day 16 hr 15 min
+852 songs - 1 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Alhaji](https://open.spotify.com/track/1fl2s61uhH6Ob4bU6f8TMT) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Alhaji](https://open.spotify.com/album/2x89WyCjViUviC7YjEZlxm) | 2:23 | 2025-05-23 | 2025-07-31 |
 | [All of Us](https://open.spotify.com/track/66hwnejSDoMXppajTx1jc6) | [Kukbeatz](https://open.spotify.com/artist/7ec839cm4GyYwjFaHdOUbN), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [All of Us](https://open.spotify.com/album/0f9DldlKR7QQBmy3In5BOI) | 2:52 | 2023-12-15 | 2024-06-01 |
 | [All Over](https://open.spotify.com/track/0FSJW989lq250MBNIaqfkJ) | [Eli Jae](https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ) | [All Over](https://open.spotify.com/album/3e6fnWHXafc3aVdoJPDP9q) | 2:21 | 2024-03-15 | 2024-04-26 |
+| [All Over You](https://open.spotify.com/track/6EzsUkZqhkXet4vVTc7kKv) | [Deobi](https://open.spotify.com/artist/2VFjhFAJd6PHcwVG4eo9EI) | [All Over You](https://open.spotify.com/album/7m2pHHLujtRpWFnz3aLSdb) | 2:25 | 2026-04-20 |  |
 | [All The Love](https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [All The Love](https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9) | 3:08 | 2025-02-12 | 2026-01-23 |
 | [All U Need](https://open.spotify.com/track/3wlfYeqX6Myn2PW6qsgu69) | [DHREY](https://open.spotify.com/artist/37YlqSH2vvBYNwWZLO8VbI) | [All U Need](https://open.spotify.com/album/0Grk5OsVjM85FaLQDp7OIS) | 2:35 | 2025-06-27 | 2025-07-05 |
 | [Allonsy](https://open.spotify.com/track/134ATgu95x349r7c83DWO5) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Allonsy](https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs) | 2:02 | 2026-01-14 |  |
@@ -609,7 +610,7 @@
 | [One One Time](https://open.spotify.com/track/1FeAGhoYss8MkCih7wNd0I) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [One One Time](https://open.spotify.com/album/6CZs48MveP2X8GlqoKJm2j) | 3:04 | 2025-04-11 | 2025-05-17 |
 | [ONE OR TWO \- REMIX](https://open.spotify.com/track/0zy5TnbbEpnt18P5SXoaPC) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [AXAD](https://open.spotify.com/artist/1zfpuNNxBF5qjwbi4LCXig), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [ONE OR TWO \- REMIX](https://open.spotify.com/album/2w40t66x0xawrv7yhpYQkE) | 2:34 | 2024-08-25 | 2024-09-07 |
 | [One Woman](https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:40 | 2022-06-09 | 2023-01-20 |
-| [Only Fans](https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Only Fans](https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu) | 2:29 | 2025-02-28 |  |
+| [Only Fans](https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Only Fans](https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu) | 2:29 | 2025-02-28 | 2026-04-21 |
 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 | 2024-01-12 | 2024-06-28 |
 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:18 | 2024-06-14 | 2024-11-22 |
 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 | 2022-09-09 | 2024-02-09 |

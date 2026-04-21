@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Haute & Freddy
 
-572 songs - 1 day 7 hr 5 min
+574 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Habits](https://open.spotify.com/track/0qL3JquOSa7ErWX3RXfUgo) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits \(Demo\)](https://open.spotify.com/album/0M696kjDtdAb8gsU3B9kWh) | 2:14 | 2023-04-17 | 2023-06-21 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-09-14 | 2023-05-08 |
 | [Hand On The Bible](https://open.spotify.com/track/4pEupmTD5rymu7ly4DcYVx) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Hand On The Bible](https://open.spotify.com/album/79jQaFPu4zthfeBHPjDFsD) | 3:30 | 2025-10-10 | 2025-11-01 |
-| [Happy as Hell](https://open.spotify.com/track/29z3ucWB5DV4EjS1jQ7e39) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Happy as Hell](https://open.spotify.com/album/62DWhM478uiSSlDk6WQRpe) | 3:09 | 2025-08-22 |  |
+| [Happy as Hell](https://open.spotify.com/track/29z3ucWB5DV4EjS1jQ7e39) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Happy as Hell](https://open.spotify.com/album/62DWhM478uiSSlDk6WQRpe) | 3:09 | 2025-08-22 | 2026-04-21 |
 | [Happy Place](https://open.spotify.com/track/2eunobIVSTIr6ZvBJroKDF) | [ZAMination](https://open.spotify.com/artist/7K463FESyap8fJPiVUDK5U), [Zachary Preciado](https://open.spotify.com/artist/7f6Ytci5zAhJECf9qcXTYF) | [Happy Place](https://open.spotify.com/album/1BcYulpCmLIQDTfAnE4NfW) | 2:26 | 2025-01-10 | 2025-04-05 |
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-04-26 | 2024-12-07 |
 | [Happyland](https://open.spotify.com/track/09xFY1YnSB0YdjImzv9yCS) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [Happyland](https://open.spotify.com/album/58grAOX8T0QafdrapcNPSu) | 3:39 | 2026-01-09 |  |
@@ -405,6 +405,7 @@
 | [Pisces Tears](https://open.spotify.com/track/5bDtZcw6K5kHHfXxYmUdG7) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Water Dogs](https://open.spotify.com/album/0849g2PcFwfMJup2fKh6p0) | 2:39 | 2025-03-14 | 2025-08-23 |
 | [Pity Party](https://open.spotify.com/track/5D4pxNBwIXBDaFYWFfia0r) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Pity Party](https://open.spotify.com/album/7kUXbGwQwpbgQV9obq7yGd) | 3:17 | 2025-04-04 | 2025-08-23 |
 | [play pretenses](https://open.spotify.com/track/3Ocg0Q8hekO5O8xIbNJS3Y) | [LeGrand](https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL) | [play pretenses](https://open.spotify.com/album/55rXo1YEHY71sI2DaNF5r7) | 2:39 | 2023-09-22 | 2024-03-02 |
+| [Poconos](https://open.spotify.com/track/3Sqb167kZ1XoEApxbbrDby) | [Katie Lynne Sharbaugh](https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu) | [Poconos](https://open.spotify.com/album/0Ghvwl9D5OPrUFpqy5mCB1) | 2:54 | 2026-04-20 |  |
 | [prom](https://open.spotify.com/track/1EtWJJbvPfmNsVDGOhTtSG) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [prom](https://open.spotify.com/album/3hsaSidYs7NWEn0c2ncIDA) | 3:20 | 2022-05-17 | 2022-08-06 |
 | [Prom Queen](https://open.spotify.com/track/2WEAKylXBPr9PJNANBSTDG) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Prom Queen](https://open.spotify.com/album/6sEMWS70V7jsFnEP76XDmc) | 3:46 | 2024-10-04 | 2025-09-13 |
 | [Proud](https://open.spotify.com/track/14bkozr2M41OUMW7pGXQbF) | [Kevin Walkman](https://open.spotify.com/artist/0Q1Xt8JEFDwfiuNBIM60E4) | [Proud](https://open.spotify.com/album/3eUxBO0HdQrauuHaitTlsv) | 3:19 | 2023-04-12 | 2023-04-18 |
@@ -499,6 +500,7 @@
 | [The Long Breath](https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [The Long Breath / The Willows](https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3) | 4:48 | 2023-11-17 | 2023-12-09 |
 | [The Masochism Tango \(Stereo Mix\)](https://open.spotify.com/track/0WVWNxudOyk0ncLpl1EsU1) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [The Conducted Tom Lehrer](https://open.spotify.com/album/1zSJn05mfUconkdvLJ8uqq) | 2:49 | 2024-01-22 | 2025-03-22 |
 | [The Milk Carton](https://open.spotify.com/track/0uEeF2vQCTu4ucShvarTIH) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [The Milk Carton](https://open.spotify.com/album/4wyw0CaVn3kGYRDIDQlKiq) | 5:10 | 2024-10-04 | 2025-10-04 |
+| [The Mirror](https://open.spotify.com/track/3afTokYq5ULFPgMF7bU8cP) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [The Mirror](https://open.spotify.com/album/0iJdKGzrGutX6ec9eooCie) | 2:05 | 2026-04-20 |  |
 | [The Moon Will Sing](https://open.spotify.com/track/4v0Zqmuhlbt5nCj712Y26n) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [Coyote Stories](https://open.spotify.com/album/7LhR1u0oyu001ADfAxEtsS) | 3:40 | 2025-08-18 |  |
 | [The Mountain Song](https://open.spotify.com/track/2ileXC69Z7xb95s3ljUBqb) | [Tophouse](https://open.spotify.com/artist/5WvwaJTMkZ5jb06EwCt34K) | [The Mountain Song](https://open.spotify.com/album/2KADkXNDzS6Rz7bUt9UE1b) | 4:06 | 2024-04-05 | 2024-05-03 |
 | [The Place To Be](https://open.spotify.com/track/2Y8D1aBfSngGN41XnOwydy) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [The Place To Be](https://open.spotify.com/album/6L31U4bZtscOccwZbnIvXm) | 3:28 | 2022-09-16 | 2022-12-10 |
@@ -520,7 +522,7 @@
 | [This December](https://open.spotify.com/track/3gjRRs7gmh3Euynu1cau1d) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 3:01 | 2022-05-17 | 2024-01-27 |
 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-07-18 | 2025-11-15 |
 | [Time After Time](https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Time After Time](https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x) | 3:39 | 2025-07-18 | 2025-09-13 |
-| [To douse a scalded tongue](https://open.spotify.com/track/6dBfmNdCRhOanXG9zwdqt7) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [To douse a scalded tongue](https://open.spotify.com/album/59ZPkdnpcav6a9vFG0OVOR) | 2:43 | 2025-08-18 |  |
+| [To douse a scalded tongue](https://open.spotify.com/track/6dBfmNdCRhOanXG9zwdqt7) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [To douse a scalded tongue](https://open.spotify.com/album/59ZPkdnpcav6a9vFG0OVOR) | 2:43 | 2025-08-18 | 2026-04-21 |
 | [Together We Go Down In The Dark](https://open.spotify.com/track/4NZwAKr8rYOa1lvFmvHacm) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Together We Go Down In The Dark](https://open.spotify.com/album/0WYi1XbWP4caFPfnqmm9Fy) | 2:49 | 2022-05-17 | 2022-12-10 |
 | [Tomcat Disposables](https://open.spotify.com/track/3Co6zjPlUCDgm8jDOhG5EE) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Tomcat Disposables](https://open.spotify.com/album/46PVFb16arY86SVnnRmzET) | 5:58 | 2022-05-17 | 2022-06-04 |
 | [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 | 2022-05-20 | 2022-06-07 |

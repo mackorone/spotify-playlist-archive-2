@@ -1,33 +1,13 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 943622,
+  "num_followers": 943814,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeLJgAAAAACx9+kHW1LsZwoxl/7cLnLQ",
+  "snapshot_id": "aeQbAAAAAAADAPYav8HoCcxdAoppInl/",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "DEMENCIA",
-        "url": "https://open.spotify.com/album/0bqMDlI1JR7urs2Km1WjmR"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Gael Valenzuela",
-          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
-        }
-      ],
-      "duration_ms": 221663,
-      "name": "DEMENCIA",
-      "url": "https://open.spotify.com/track/32i0REaHbRZEaD5uKIWg2Q"
-    },
     {
       "added_at": null,
       "album": {
@@ -58,15 +38,11 @@
         {
           "name": "Gael Valenzuela",
           "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 220467,
-      "name": "DROGA LETAL",
-      "url": "https://open.spotify.com/track/0IMJsnmPXXgPyQDbhomx1B"
+      "duration_ms": 221663,
+      "name": "DEMENCIA",
+      "url": "https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng"
     },
     {
       "added_at": null,
@@ -134,11 +110,15 @@
         {
           "name": "Gael Valenzuela",
           "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 190931,
-      "name": "EN DONDE E$TA$",
-      "url": "https://open.spotify.com/track/7oNzbhpMl27JJXo9GaCChN"
+      "duration_ms": 220467,
+      "name": "DROGA LETAL",
+      "url": "https://open.spotify.com/track/0IMJsnmPXXgPyQDbhomx1B"
     },
     {
       "added_at": null,
@@ -208,9 +188,9 @@
           "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
         }
       ],
-      "duration_ms": 191507,
-      "name": "MI$ LLAMADA$",
-      "url": "https://open.spotify.com/track/3xff9Zn9iZ5anX3e9oi6tt"
+      "duration_ms": 190931,
+      "name": "EN DONDE E$TA$",
+      "url": "https://open.spotify.com/track/7oNzbhpMl27JJXo9GaCChN"
     },
     {
       "added_at": null,
@@ -280,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
         }
       ],
-      "duration_ms": 221414,
-      "name": "CHOLO",
-      "url": "https://open.spotify.com/track/76m8kXyUf41NgbpzCLfWgs"
+      "duration_ms": 191507,
+      "name": "MI$ LLAMADA$",
+      "url": "https://open.spotify.com/track/3xff9Zn9iZ5anX3e9oi6tt"
     },
     {
       "added_at": null,
@@ -360,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
         }
       ],
-      "duration_ms": 222366,
-      "name": "MI GATA",
-      "url": "https://open.spotify.com/track/3mSdneOr4nDLQD70hpoBaj"
+      "duration_ms": 221414,
+      "name": "CHOLO",
+      "url": "https://open.spotify.com/track/76m8kXyUf41NgbpzCLfWgs"
     },
     {
       "added_at": null,
@@ -432,9 +412,9 @@
           "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
         }
       ],
-      "duration_ms": 252971,
-      "name": "ERRORE$",
-      "url": "https://open.spotify.com/track/6h3R9460Lm1g4xrtgKtVmB"
+      "duration_ms": 222366,
+      "name": "MI GATA",
+      "url": "https://open.spotify.com/track/3mSdneOr4nDLQD70hpoBaj"
     },
     {
       "added_at": null,

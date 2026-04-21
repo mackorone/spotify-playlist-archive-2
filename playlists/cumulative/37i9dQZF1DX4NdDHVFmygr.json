@@ -6945,6 +6945,24 @@
     },
     {
       "album": {
+        "name": "MOVETA",
+        "url": "https://open.spotify.com/album/7oPdq0spIZzvMv8EoTC7A1"
+      },
+      "artists": [
+        {
+          "name": "ONZY",
+          "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182318,
+      "name": "Nsak?",
+      "url": "https://open.spotify.com/track/1Za6AEVzkw226m94Y0RGpf"
+    },
+    {
+      "album": {
         "name": "Nsiti",
         "url": "https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG"
       },
@@ -9266,6 +9284,24 @@
       "duration_ms": 156444,
       "name": "Wsalni MSG",
       "url": "https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD"
+    },
+    {
+      "album": {
+        "name": "PURA",
+        "url": "https://open.spotify.com/album/3mlkgi42D7SWWuEKBRwRkF"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Wswass",
+      "url": "https://open.spotify.com/track/5zOVpTeOZU5k08J78R6tc6"
     },
     {
       "album": {

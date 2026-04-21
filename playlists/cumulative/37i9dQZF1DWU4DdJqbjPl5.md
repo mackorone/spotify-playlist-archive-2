@@ -2,7 +2,7 @@
 
 ### [afro&b ](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> Intersection of R&B and afrobeats\. Cover:  Bridgette Blue
+> Intersection of R&B and afrobeats\. Cover:  Amma
 
 552 songs - 1 day 4 hr 57 min
 

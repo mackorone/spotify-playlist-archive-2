@@ -133,6 +133,24 @@
     },
     {
       "album": {
+        "name": "99 PROBLEMS (But My Kick Ain't One)",
+        "url": "https://open.spotify.com/album/278oMqLt41EDRUKM3Wzs07"
+      },
+      "artists": [
+        {
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130620,
+      "name": "99 PROBLEMS (But My Kick Ain't One)",
+      "url": "https://open.spotify.com/track/776HmtbPE028tXrfav6KVe"
+    },
+    {
+      "album": {
         "name": "A New Beginning",
         "url": "https://open.spotify.com/album/5YeYIADpcL5roJDshVf0rw"
       },
@@ -886,6 +904,28 @@
       "duration_ms": 219654,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/2Iuoz2Q3MK4zuvyRYceVnT"
+    },
+    {
+      "album": {
+        "name": "Are U Me",
+        "url": "https://open.spotify.com/album/7396gKoq7bXZW0uXUg3gaa"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231082,
+      "name": "Are U Me",
+      "url": "https://open.spotify.com/track/7gbQsKu2O304w1uktHnXbd"
     },
     {
       "album": {
@@ -5734,7 +5774,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 167294,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
@@ -5892,6 +5932,28 @@
       "duration_ms": 167378,
       "name": "FCK DAT!",
       "url": "https://open.spotify.com/track/5nvs5WItsAmnmnWqWfwTWJ"
+    },
+    {
+      "album": {
+        "name": "FCK DOOM ZAAG!",
+        "url": "https://open.spotify.com/album/1JbKCFroR9YzE0jJLHwN06"
+      },
+      "artists": [
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Kronos",
+          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117750,
+      "name": "FCK DOOM ZAAG!",
+      "url": "https://open.spotify.com/track/32agjb8yo2D8muo8v1rZvH"
     },
     {
       "album": {
@@ -15500,7 +15562,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 187946,
       "name": "Return of the Rebel",
       "url": "https://open.spotify.com/track/14FDzIFBLh1kHIA2rE2phM"
@@ -16154,7 +16216,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 223213,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/50cHsbjIjPC8CGKkfaDKSJ"
@@ -16620,6 +16682,24 @@
       "duration_ms": 207012,
       "name": "Sinners Paradise",
       "url": "https://open.spotify.com/track/3zpOfaD3mZDnobX66g8hx6"
+    },
+    {
+      "album": {
+        "name": "Sirens (Sound The Alarm)",
+        "url": "https://open.spotify.com/album/3MgBGenoqXxsbTAzBRinJj"
+      },
+      "artists": [
+        {
+          "name": "NINE2NINE",
+          "url": "https://open.spotify.com/artist/6S5cusNLssYNUZZXUHT2K1"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Sirens (Sound The Alarm)",
+      "url": "https://open.spotify.com/track/4VfegrQ424lCDSoWievHBu"
     },
     {
       "album": {
@@ -17374,7 +17454,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 232215,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/2vpH5Pr0e8YuuRv4YLHB6V"
@@ -19773,6 +19853,24 @@
     },
     {
       "album": {
+        "name": "Trippin On That Oldschool",
+        "url": "https://open.spotify.com/album/5WSyjOS03EQ6pKQhwHHyt0"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186580,
+      "name": "Trippin On That Oldschool",
+      "url": "https://open.spotify.com/track/4W45bv2xeIItYBR8bnPq50"
+    },
+    {
+      "album": {
         "name": "Trommels",
         "url": "https://open.spotify.com/album/7i9x7Xbkk9NvuSt9RzCr0n"
       },
@@ -20462,7 +20560,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 211317,
       "name": "Voices",
       "url": "https://open.spotify.com/track/0HJ2kATf1sI79sLu4FNxd2"
@@ -21551,6 +21649,32 @@
     },
     {
       "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/4wezbz8qkEGf1KWMOfrgE7"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "Bass Modulators",
+          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
+        },
+        {
+          "name": "Shadow Legacy",
+          "url": "https://open.spotify.com/artist/43KI3dStl8f4EJyETnKfiX"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156809,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/5pQMGF5MPJQwdAVuWKKESr"
+    },
+    {
+      "album": {
         "name": "Won\u2019t Let Me Down",
         "url": "https://open.spotify.com/album/3gyWGgfJIwzPeSVc1ho9xf"
       },
@@ -21566,7 +21690,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 179901,
       "name": "Won\u2019t Let Me Down",
       "url": "https://open.spotify.com/track/32159t5a24N9hqjyKk09E2"

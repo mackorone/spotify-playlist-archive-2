@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: F3miii
 
-1,572 songs - 3 day 10 hr 52 min
+1,573 songs - 3 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,6 +500,7 @@
 | [forever](https://open.spotify.com/track/6m3E9eZ9XUj9rTE21tytGf) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [brother and sister](https://open.spotify.com/album/0iBv5FEHsExXe7L47h3MEf) | 2:50 | 2024-12-13 | 2025-03-01 |
 | [Forgive Me](https://open.spotify.com/track/53NbctXYBJhUSvYAo2wF3D) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Forgive Me](https://open.spotify.com/album/3lb6Qdhwx2ePppuuNWSBtl) | 3:12 | 2023-02-24 | 2023-03-04 |
 | [Fortune Favors The Bold](https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Tim Gent](https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln) | [Fortune Favors The Bold](https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy) | 3:38 | 2022-02-25 | 2022-04-15 |
+| [Forty Days](https://open.spotify.com/track/12fSlzhqUDqnrZnA50Y617) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Fidelity](https://open.spotify.com/album/4gT5itNBVYzC9jcgMvvOUa) | 3:26 | 2026-04-17 |  |
 | [Free Grillz](https://open.spotify.com/track/60YGUQOa2e5BwtDgfltZvQ) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Free Grillz](https://open.spotify.com/album/4Lagndmtb3CdC01wU12E1k) | 2:17 | 2022-04-01 | 2022-04-14 |
 | [Free My People \(feat\. Simmy & Kid Cruise\)](https://open.spotify.com/track/4T4YHAdlrEzL5Jsb1XnbGA) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw) | [Free My People \(feat\. Simmy & Kid Cruise\)](https://open.spotify.com/album/5fE5bSpNQpqVPJ8k5RvAUP) | 3:37 | 2022-04-01 | 2022-08-06 |
 | [Free Range](https://open.spotify.com/track/04Mb1bvxcOUuYNnHwV4RqP) | [Shaolinn](https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q) | [Free Range](https://open.spotify.com/album/4PkMA4iPLj1RcwMpMKmYxg) | 2:15 | 2022-08-12 | 2023-08-12 |
@@ -1515,7 +1516,7 @@
 | [White Lighter](https://open.spotify.com/track/1BVulvTYmkPUPmEjdfm4qh) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [White Lighter](https://open.spotify.com/album/1CJcaw2pUIVh9y4fI9SS6W) | 2:51 | 2025-10-17 |  |
 | [White Wine](https://open.spotify.com/track/4ysRlTFRuc1UUMPme4VdBa) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Hopeless Dreams](https://open.spotify.com/album/088yo1cqpkG6fO9ouTQ9R2) | 2:33 | 2025-02-14 | 2025-03-22 |
 | [Whiteclaw](https://open.spotify.com/track/6DpLbRHQLP3dJvz3khE3UE) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Hits Of Today](https://open.spotify.com/album/1jHO2EMilNQVl5JnMRtQU3) | 2:47 | 2022-08-19 | 2022-11-05 |
-| [WHITNEY](https://open.spotify.com/track/5bYCfnU4JbAANFkxpbAbhR) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WHITNEY](https://open.spotify.com/album/36M4NAbKJBDPIJbzWcJHDw) | 2:44 | 2024-09-20 |  |
+| [WHITNEY](https://open.spotify.com/track/5bYCfnU4JbAANFkxpbAbhR) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WHITNEY](https://open.spotify.com/album/36M4NAbKJBDPIJbzWcJHDw) | 2:44 | 2024-09-20 | 2026-04-21 |
 | [WHO ARE YOU ANYWAY? \(feat\. Leon Thomas\)](https://open.spotify.com/track/3qMj6GQYGayyJjubOZ5sm4) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [WHO ARE YOU ANYWAY? \(feat\. Leon Thomas\)](https://open.spotify.com/album/6bI8Tj8V4fjpMvnzHVEkPS) | 2:58 | 2025-02-07 | 2025-08-29 |
 | [Who Are You, Pt\. II](https://open.spotify.com/track/6JjLSIKFdzaLcCwQ2vWqgv) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Who Are You, Pt\. II](https://open.spotify.com/album/2V8bi0LD8wtZAw0uz4drrh) | 3:07 | 2023-05-19 | 2023-05-27 |
 | [WHO DO U LUV](https://open.spotify.com/track/4K3c9V4rrzCHv4kHNXP0xE) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [WHO DO U LUV](https://open.spotify.com/album/0As7QlanAke4qQRSW4bEQr) | 4:08 | 2023-07-07 | 2023-10-07 |

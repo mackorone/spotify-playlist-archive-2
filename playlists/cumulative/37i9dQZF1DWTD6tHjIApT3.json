@@ -4945,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "blue hour",
+        "url": "https://open.spotify.com/album/1rUvBCJ8zqcXa2S2QbYfHN"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183679,
+      "name": "blue hour",
+      "url": "https://open.spotify.com/track/2VezAeFgaa9IFRChV9wEPf"
+    },
+    {
+      "album": {
         "name": "FELT SENSE",
         "url": "https://open.spotify.com/album/5MFXYkQqLCe3EPZAx6nxHQ"
       },
@@ -6306,7 +6324,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 245000,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/2JFSvkUw0TIPBajbi84UcZ"
@@ -13379,6 +13397,28 @@
     },
     {
       "album": {
+        "name": "Hangover",
+        "url": "https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2"
+      },
+      "artists": [
+        {
+          "name": "REJAY",
+          "url": "https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe"
+        },
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206291,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt"
+    },
+    {
+      "album": {
         "name": "Hank",
         "url": "https://open.spotify.com/album/5VHwR3xLFQL745q58qE5s8"
       },
@@ -14854,7 +14894,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 214756,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/3ywfR2tUoo1We4dgnVXEmz"
@@ -55837,6 +55877,24 @@
     },
     {
       "album": {
+        "name": "\u5149",
+        "url": "https://open.spotify.com/album/2cB6UmQDDB8BUdFpWJGzya"
+      },
+      "artists": [
+        {
+          "name": "Mika Nakashima",
+          "url": "https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294278,
+      "name": "\u5149",
+      "url": "https://open.spotify.com/track/6NkcDFInFJPMp8X057V6TB"
+    },
+    {
+      "album": {
         "name": "\u5149\u306e\u3059\u307f\u304b",
         "url": "https://open.spotify.com/album/7ALtibHvNP1NCGtGcGrsAF"
       },
@@ -69578,7 +69636,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 206074,
       "name": "\u96e8\u5bbf\u3089\u305a",
       "url": "https://open.spotify.com/track/2CdJLWQbNRYsFdlr4izar9"

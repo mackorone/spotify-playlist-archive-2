@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 307 likes - 2,210 songs - 5 day 10 hr 48 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 309 likes - 2,211 songs - 5 day 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2218,5 +2218,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2208 | [REALIDAD ALTERADA \(acustico\)](https://open.spotify.com/track/0rj4mIjVdaLvXk2tb1UsJQ) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [REALIDAD ALTERADA \(acustico\)](https://open.spotify.com/album/6oNlg6rWaCMo8Z4zAuO2xU) | 3:02 |
 | 2209 | [PROMESA](https://open.spotify.com/track/3mUhVxbdYHsEsHb7Zms0ha) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [PROMESA](https://open.spotify.com/album/4r9Fl6f7LcOuaEdA55oLeW) | 4:45 |
 | 2210 | [DON JOSÉ](https://open.spotify.com/track/6PnyBXXOnhM0cumDIy4He3) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [DON JOSÉ](https://open.spotify.com/album/58uAz87OfcgRwB0o5evMPY) | 4:24 |
+| 2211 | [dear future self](https://open.spotify.com/track/52RtpM46le3D6bVbsaUUnN) | [anoushka hem](https://open.spotify.com/artist/5tjq7Oyj6Zu5PhVACjwC8t) | [LETTING GO](https://open.spotify.com/album/5qgzx90xVvgZcTqlnYLgAP) | 3:52 |
 
-Snapshot ID: `AAAJSIHQdxmIGqgi6ZtGhm8UzpL9r3NI`
+Snapshot ID: `AAAJSbVYoN8TzprxH9ahVt9PwtKlt4ap`

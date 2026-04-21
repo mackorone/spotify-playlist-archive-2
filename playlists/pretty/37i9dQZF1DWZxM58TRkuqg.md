@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Bernadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,482 likes - 91 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,525 likes - 91 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 18 | [AKU GAS!](https://open.spotify.com/track/5hNbaA6PA5j5Ut13dXSKh5) | [toxicdev!](https://open.spotify.com/artist/7bD17oHb4liDNH9eg7dUev), [PORIS](https://open.spotify.com/artist/6oW4eaSyUiBItGKBghBSTe) | [AKU GAS!](https://open.spotify.com/album/2agnnZmpBgRQhV7iLae6fn) | 1:53 |
 | 19 | [Tak Ada Yang Sepertimu](https://open.spotify.com/track/5Yh1sTQAU3BTIKMp3K5ZOX) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 3:11 |
 | 20 | [Remuk](https://open.spotify.com/track/55Cb01L3x8WNC286rYp7Eh) | [Angie Carvalho](https://open.spotify.com/artist/6nUQOIpgG7Sf0DqSJODNmK) | [Remuk](https://open.spotify.com/album/3gE0WK4I8cKzWHcVBngidk) | 4:06 |
-| 21 | [kota ini tak sama tanpamu \- Orchestra Version](https://open.spotify.com/track/1KuosMMOJ6Ow6snWbMdgl5) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [BSS & KITST \(Orchestra Version\)](https://open.spotify.com/album/7E9H5BTdl6B6OEmWeblwpc) | 4:37 |
+| 21 | [kota ini tak sama tanpamu \- Orchestra Version](https://open.spotify.com/track/1KuosMMOJ6Ow6snWbMdgl5) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [BSS & KITST \(Orchestra Version\)](https://open.spotify.com/album/7E9H5BTdl6B6OEmWeblwpc) | 4:37 |
 | 22 | [Sama Sama Tau](https://open.spotify.com/track/7EAfwpMk0WWKiMyoKvfPVd) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Sama Sama Tau](https://open.spotify.com/album/3Kweuk4RWAQJ5jJ3Y8MsYp) | 2:59 |
 | 23 | [Dirimu Yang Dulu](https://open.spotify.com/track/3GIiXoibZNOxoB4QJ0b8UR) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 4:00 |
 | 24 | [Ingin Kumiliki](https://open.spotify.com/track/6sOwmyHQWPZeD6RMmGAhRu) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN), [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Ingin Kumiliki](https://open.spotify.com/album/33ecjCZaCJ4r7qf372LIbA) | 5:14 |

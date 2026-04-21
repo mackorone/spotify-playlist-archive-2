@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 126241,
+  "num_followers": 126275,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-02-13 15:12:17",
       "album": {
-        "name": "O Amor Descansa Na Varanda",
-        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 204998,
-      "name": "O Amor Descansa Na Varanda",
-      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
-    },
-    {
-      "added_at": "2026-02-13 15:12:17",
-      "album": {
         "name": "Erva e Calor",
         "url": "https://open.spotify.com/album/3lJBNEG7apvwdv59QZAccd"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 197968,
       "name": "Erva e Calor",
       "url": "https://open.spotify.com/track/6aGMSrVGVKKnMeOIkAG3DV"
+    },
+    {
+      "added_at": "2026-02-13 15:12:17",
+      "album": {
+        "name": "O Amor Descansa Na Varanda",
+        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 204998,
+      "name": "O Amor Descansa Na Varanda",
+      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
     },
     {
       "added_at": "2026-02-13 15:12:17",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-02-13 15:12:17",
       "album": {
-        "name": "cheia de vontade",
-        "url": "https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 146700,
-      "name": "cheia de vontade",
-      "url": "https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz"
-    },
-    {
-      "added_at": "2026-02-13 15:12:17",
-      "album": {
         "name": "Sala De Estar",
         "url": "https://open.spotify.com/album/4s4HfTHQpIsZDrNYhDjF8A"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2026-02-13 15:12:17",
       "album": {
+        "name": "cheia de vontade",
+        "url": "https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 146700,
+      "name": "cheia de vontade",
+      "url": "https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz"
+    },
+    {
+      "added_at": "2026-02-13 15:12:17",
+      "album": {
         "name": "Estrelas",
         "url": "https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj"
       },
@@ -919,26 +919,6 @@
       "duration_ms": 213617,
       "name": "Estrelas",
       "url": "https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB"
-    },
-    {
-      "added_at": "2026-02-13 15:12:17",
-      "album": {
-        "name": "SOY DEL MUNDO",
-        "url": "https://open.spotify.com/album/1VTAl9vBwufjE3TUxrsusc"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo \u00c1vila",
-          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 198085,
-      "name": "SOY DEL MUNDO",
-      "url": "https://open.spotify.com/track/2ZZ3O1ah5j6q4UdairuHcc"
     },
     {
       "added_at": "2026-02-13 15:12:17",
@@ -959,6 +939,26 @@
       "duration_ms": 212750,
       "name": "Com Certeza",
       "url": "https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI"
+    },
+    {
+      "added_at": "2026-02-13 15:12:17",
+      "album": {
+        "name": "SOY DEL MUNDO",
+        "url": "https://open.spotify.com/album/1VTAl9vBwufjE3TUxrsusc"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo \u00c1vila",
+          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 198085,
+      "name": "SOY DEL MUNDO",
+      "url": "https://open.spotify.com/track/2ZZ3O1ah5j6q4UdairuHcc"
     },
     {
       "added_at": "2026-02-13 15:12:17",
@@ -1315,18 +1315,26 @@
     {
       "added_at": "2026-02-13 15:12:17",
       "album": {
-        "name": "Gente",
-        "url": "https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z"
+        "name": "Balan\u00e7o de Amor",
+        "url": "https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu"
       },
       "artists": [
         {
           "name": "Leo Middea",
           "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        },
+        {
+          "name": "Curandeira",
+          "url": "https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp"
+        },
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
         }
       ],
-      "duration_ms": 196546,
-      "name": "Que Sorte",
-      "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
+      "duration_ms": 199231,
+      "name": "Balan\u00e7o de Amor",
+      "url": "https://open.spotify.com/track/5ZXA3edMItRo9aRYH6woFx"
     },
     {
       "added_at": "2026-02-13 15:12:17",
@@ -1411,26 +1419,18 @@
     {
       "added_at": "2026-02-13 15:12:17",
       "album": {
-        "name": "Balan\u00e7o de Amor",
-        "url": "https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu"
+        "name": "Gente",
+        "url": "https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z"
       },
       "artists": [
         {
           "name": "Leo Middea",
           "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        },
-        {
-          "name": "Curandeira",
-          "url": "https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp"
-        },
-        {
-          "name": "B\u00e9esau",
-          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
         }
       ],
-      "duration_ms": 199231,
-      "name": "Balan\u00e7o de Amor",
-      "url": "https://open.spotify.com/track/5ZXA3edMItRo9aRYH6woFx"
+      "duration_ms": 196546,
+      "name": "Que Sorte",
+      "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
     },
     {
       "added_at": "2026-02-13 15:12:17",

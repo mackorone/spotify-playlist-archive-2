@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. EL DE LA TINTA, Angel Cervantes, Sahir Montoya en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 969,268 likes - 57 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 969,414 likes - 57 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 9 | [4 OFF\-WHITE](https://open.spotify.com/track/3TR2PrEqVzHlCxEm606r2d) | [Grupo Ajedrez](https://open.spotify.com/artist/0zQFDEHdNnqztZUHX5bzor) | [4 OFF\-WHITE](https://open.spotify.com/album/1XmSsdUtSs654nJpRqkgsA) | 2:28 |
 | 10 | [EXOTICÓN ll](https://open.spotify.com/track/3QLzh9cN6Gmq9hTbU4nx9D) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [EXOTICÓN ll](https://open.spotify.com/album/0QJThre1nco289eXG0qWw3) | 2:11 |
 | 11 | [Coco Psycho](https://open.spotify.com/track/1cHymaeuE7kkVdzgFZHi8I) | [Javier Arvayo](https://open.spotify.com/artist/0td9IOgiffWGMbcz3xKy0s) | [Coco Psycho](https://open.spotify.com/album/3GD1iucHzV8HajO7H7hlp6) | 2:08 |
-| 12 | [Los Cuadros \(En Vivo\)](https://open.spotify.com/track/7C2tv3mhtVvHrB3w1bSRN1) | [Grupo Cuadra](https://open.spotify.com/artist/65R3oFgaTYkTgkseRlh1Xr) | [En Vivo Desde La Cuadra, Vol.1](https://open.spotify.com/album/44d0ReWJ2z8pTtk6b22uoB) | 3:06 |
+| 12 | [Los Cuadros \(En Vivo\)](https://open.spotify.com/track/7C2tv3mhtVvHrB3w1bSRN1) | [Grupo Cuadra](https://open.spotify.com/artist/65R3oFgaTYkTgkseRlh1Xr), [Compadannymusic](https://open.spotify.com/artist/28WJRiJryQcboA0YemNlkY) | [En Vivo Desde La Cuadra, Vol.1](https://open.spotify.com/album/44d0ReWJ2z8pTtk6b22uoB) | 3:06 |
 | 13 | [Forjate Mi Copiloto](https://open.spotify.com/track/65IpPFWTB1I3WCIGhynlwD) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq) | [Forjate Mi Copiloto](https://open.spotify.com/album/6r3D2SFMTsNBXWvTSKqfjw) | 3:17 |
 | 14 | [El Chaparrito \- En Vivo](https://open.spotify.com/track/6jER67dJrBO0YBYQUHDhzG) | [Grupo Redenza](https://open.spotify.com/artist/7kj5eFTjWrZ6F7RLuHiUNq) | [El Chaparrito \(En Vivo\)](https://open.spotify.com/album/0iNZaJRoGdHiDGv1f4DtON) | 2:32 |
 | 15 | [El Guero Colorado](https://open.spotify.com/track/3Y1VKqAPBMlaXLh2Sww2Ws) | [Elio Vega](https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg) | [El Guero Colorado](https://open.spotify.com/album/3r66n3lmdxzRqT0OGVFdIy) | 3:45 |

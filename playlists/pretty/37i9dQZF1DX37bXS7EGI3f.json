@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Sabaton\n",
-  "num_followers": 821152,
+  "num_followers": 821171,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "A Thousand Anemones",
-        "url": "https://open.spotify.com/album/7LBjy0QhBtwr65cxFfo6JJ"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 253860,
-      "name": "A Thousand Anemones",
-      "url": "https://open.spotify.com/track/4Zzx5Xt2ud4nIcU6egxJ7a"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "82nd All the Way",
         "url": "https://open.spotify.com/album/3HCUmVHEIhTnDdQjdf60gb"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 201546,
       "name": "82nd All the Way",
       "url": "https://open.spotify.com/track/1GK39qL3zPowvvb0UpWGyQ"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "A Thousand Anemones",
+        "url": "https://open.spotify.com/album/7LBjy0QhBtwr65cxFfo6JJ"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 253860,
+      "name": "A Thousand Anemones",
+      "url": "https://open.spotify.com/track/4Zzx5Xt2ud4nIcU6egxJ7a"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Last Goodbye",
-        "url": "https://open.spotify.com/album/6P1p6YKpnipMo8CQKfTGOB"
-      },
-      "artists": [
-        {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
-        }
-      ],
-      "duration_ms": 212710,
-      "name": "Last Goodbye",
-      "url": "https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "The Catalyst",
         "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 184546,
       "name": "Re-Vision",
       "url": "https://open.spotify.com/track/450nTCIFJLFG6M9bxDohJP"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/6P1p6YKpnipMo8CQKfTGOB"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "duration_ms": 212710,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -759,18 +759,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "The Past is Forever",
-        "url": "https://open.spotify.com/album/1UlmllsirMUgbrAnJOdeMF"
+        "name": "Vultures Die Alone",
+        "url": "https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN"
       },
       "artists": [
         {
-          "name": "Elvenking",
-          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
+        },
+        {
+          "name": "Cyan Kicks",
+          "url": "https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry"
         }
       ],
-      "duration_ms": 228461,
-      "name": "The Past is Forever",
-      "url": "https://open.spotify.com/track/72k871NJTB8tVUSlZw1c6P"
+      "duration_ms": 252893,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -807,38 +811,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Vultures Die Alone",
-        "url": "https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN"
+        "name": "The Past is Forever",
+        "url": "https://open.spotify.com/album/1UlmllsirMUgbrAnJOdeMF"
       },
       "artists": [
         {
-          "name": "Arion",
-          "url": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
-        },
-        {
-          "name": "Cyan Kicks",
-          "url": "https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry"
+          "name": "Elvenking",
+          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
         }
       ],
-      "duration_ms": 252893,
-      "name": "In the Name of Love",
-      "url": "https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "Venerate Me",
-        "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
-      },
-      "artists": [
-        {
-          "name": "HammerFall",
-          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
-        }
-      ],
-      "duration_ms": 283338,
-      "name": "Venerate Me",
-      "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"
+      "duration_ms": 228461,
+      "name": "The Past is Forever",
+      "url": "https://open.spotify.com/track/72k871NJTB8tVUSlZw1c6P"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -867,18 +851,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/6IHhKcwU6zUiDMifJSOYdZ"
+        "name": "Venerate Me",
+        "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
       },
       "artists": [
         {
-          "name": "Equilibrium",
-          "url": "https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2"
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
         }
       ],
-      "duration_ms": 247273,
-      "name": "Nexus",
-      "url": "https://open.spotify.com/track/0bHN1SE0RM5vvLPJZlirTs"
+      "duration_ms": 283338,
+      "name": "Venerate Me",
+      "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -895,6 +879,22 @@
       "duration_ms": 261240,
       "name": "One Of Us Will Be Next",
       "url": "https://open.spotify.com/track/35bKgNh5mdHvtOsHUBHgEW"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/6IHhKcwU6zUiDMifJSOYdZ"
+      },
+      "artists": [
+        {
+          "name": "Equilibrium",
+          "url": "https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2"
+        }
+      ],
+      "duration_ms": 247273,
+      "name": "Nexus",
+      "url": "https://open.spotify.com/track/0bHN1SE0RM5vvLPJZlirTs"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Armada",
-        "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Armada",
-      "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "I Will Die In It",
         "url": "https://open.spotify.com/album/6CylQwPRDU6tJiQa0RH4HV"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 205826,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Armada",
+        "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Armada",
+      "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Song Of Darkness",
-        "url": "https://open.spotify.com/album/7EaXelAWA9A48KtbJBcNWk"
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
       },
       "artists": [
         {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
         }
       ],
-      "duration_ms": 296383,
-      "name": "Hall Of The Brave",
-      "url": "https://open.spotify.com/track/3mSLiX28T94T85JtrAYpwv"
+      "duration_ms": 249600,
+      "name": "Reincarnation",
+      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1139,34 +1139,50 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Reincarnation",
-        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
+        "name": "Kings of Ragnar\u00f6k",
+        "url": "https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw"
       },
       "artists": [
         {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+          "name": "Warkings",
+          "url": "https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Reincarnation",
-      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
+      "duration_ms": 234560,
+      "name": "Kings of Ragnar\u00f6k",
+      "url": "https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE"
     },
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Guillotine Walk",
-        "url": "https://open.spotify.com/album/6HOYDjy4lO4gBiabpVLwpE"
+        "name": "Song Of Darkness",
+        "url": "https://open.spotify.com/album/7EaXelAWA9A48KtbJBcNWk"
       },
       "artists": [
         {
-          "name": "Axel Rudi Pell",
-          "url": "https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl"
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
         }
       ],
-      "duration_ms": 278096,
-      "name": "Guillotine Walk",
-      "url": "https://open.spotify.com/track/1Uy1M28Xuf9SBNufDyXdm3"
+      "duration_ms": 296383,
+      "name": "Hall Of The Brave",
+      "url": "https://open.spotify.com/track/3mSLiX28T94T85JtrAYpwv"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 314414,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1191,34 +1207,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Kings of Ragnar\u00f6k",
-        "url": "https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw"
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
       },
       "artists": [
         {
-          "name": "Warkings",
-          "url": "https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E"
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
         }
       ],
-      "duration_ms": 234560,
-      "name": "Kings of Ragnar\u00f6k",
-      "url": "https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 314414,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
+      "duration_ms": 234280,
+      "name": "Legends Never Die",
+      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "Guillotine Walk",
+        "url": "https://open.spotify.com/album/6HOYDjy4lO4gBiabpVLwpE"
+      },
+      "artists": [
+        {
+          "name": "Axel Rudi Pell",
+          "url": "https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl"
+        }
+      ],
+      "duration_ms": 278096,
+      "name": "Guillotine Walk",
+      "url": "https://open.spotify.com/track/1Uy1M28Xuf9SBNufDyXdm3"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "On the Sea",
         "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 233343,
       "name": "On the Sea",
       "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
-      },
-      "artists": [
-        {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Legends Never Die",
-      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1295,18 +1295,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Brachio Bazooka Battalion",
-        "url": "https://open.spotify.com/album/5uKaQroYVI9xVsonCOJfBV"
+        "name": "Interrogativa Cantilena",
+        "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
       "artists": [
         {
-          "name": "Victorius",
-          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
+          "name": "Korpiklaani",
+          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
+        },
+        {
+          "name": "Kevin Ridley",
+          "url": "https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3"
         }
       ],
-      "duration_ms": 225577,
-      "name": "Brachio Bazooka Battalion",
-      "url": "https://open.spotify.com/track/6KuZRTwgoelmjLqAmNBv9V"
+      "duration_ms": 228000,
+      "name": "Interrogativa Cantilena",
+      "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1331,26 +1335,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Interrogativa Cantilena",
-        "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
-      },
-      "artists": [
-        {
-          "name": "Korpiklaani",
-          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
-        },
-        {
-          "name": "Kevin Ridley",
-          "url": "https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Interrogativa Cantilena",
-      "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Pro Xristou",
         "url": "https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 301533,
       "name": "The Apostate",
       "url": "https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Brachio Bazooka Battalion",
+        "url": "https://open.spotify.com/album/5uKaQroYVI9xVsonCOJfBV"
+      },
+      "artists": [
+        {
+          "name": "Victorius",
+          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
+        }
+      ],
+      "duration_ms": 225577,
+      "name": "Brachio Bazooka Battalion",
+      "url": "https://open.spotify.com/track/6KuZRTwgoelmjLqAmNBv9V"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Haze",
-          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
-        }
-      ],
-      "duration_ms": 216957,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX"
       },
@@ -1415,22 +1399,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "In The Eyes Of The Enemy",
-        "url": "https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy"
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas"
       },
       "artists": [
         {
-          "name": "Grailknights",
-          "url": "https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR"
-        },
-        {
-          "name": "Chiara Tricarico",
-          "url": "https://open.spotify.com/artist/1htSCdZGjJNC2huPxA7pHi"
+          "name": "Moonlight Haze",
+          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
         }
       ],
-      "duration_ms": 236573,
-      "name": "In The Eyes Of The Enemy",
-      "url": "https://open.spotify.com/track/6KPiJfK9OQEHpHhhDjWb9b"
+      "duration_ms": 216957,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1463,6 +1443,26 @@
       "duration_ms": 397026,
       "name": "Secrets Of The American Gods - Single Edit",
       "url": "https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "In The Eyes Of The Enemy",
+        "url": "https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy"
+      },
+      "artists": [
+        {
+          "name": "Grailknights",
+          "url": "https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR"
+        },
+        {
+          "name": "Chiara Tricarico",
+          "url": "https://open.spotify.com/artist/1htSCdZGjJNC2huPxA7pHi"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "In The Eyes Of The Enemy",
+      "url": "https://open.spotify.com/track/6KPiJfK9OQEHpHhhDjWb9b"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Stone by Stone",
-        "url": "https://open.spotify.com/album/35vuYT1ScU07cEQ5P750Oj"
-      },
-      "artists": [
-        {
-          "name": "Fabienne Erni",
-          "url": "https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR"
-        }
-      ],
-      "duration_ms": 226396,
-      "name": "Stone by Stone",
-      "url": "https://open.spotify.com/track/5qvYnwye1IkzaldUrhfqDS"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
         "url": "https://open.spotify.com/album/0b2OSKTJWsVRmLcXaLo5hl"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 197969,
       "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
       "url": "https://open.spotify.com/track/2zEAc2z7WvJnKT3i1Va4LQ"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Stone by Stone",
+        "url": "https://open.spotify.com/album/35vuYT1ScU07cEQ5P750Oj"
+      },
+      "artists": [
+        {
+          "name": "Fabienne Erni",
+          "url": "https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR"
+        }
+      ],
+      "duration_ms": 226396,
+      "name": "Stone by Stone",
+      "url": "https://open.spotify.com/track/5qvYnwye1IkzaldUrhfqDS"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Heaven Tonight",
-        "url": "https://open.spotify.com/album/1KXFGPR74Xjq6pCJ2ifh3I"
-      },
-      "artists": [
-        {
-          "name": "Crowne",
-          "url": "https://open.spotify.com/artist/5H2DFNCrBR3OSr4AJn3U2O"
-        }
-      ],
-      "duration_ms": 185706,
-      "name": "Heaven Tonight",
-      "url": "https://open.spotify.com/track/2yirL9y1igNXM11Qgt504V"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "We Stand Tall",
         "url": "https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 183626,
       "name": "We Stand Tall",
       "url": "https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "As Empires Fall",
+        "url": "https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "duration_ms": 234440,
+      "name": "As Empires Fall",
+      "url": "https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "No Place to Stay",
-        "url": "https://open.spotify.com/album/5B0DH3cn5JYdQiiJCjajeU"
+        "name": "Heaven Tonight",
+        "url": "https://open.spotify.com/album/1KXFGPR74Xjq6pCJ2ifh3I"
       },
       "artists": [
         {
-          "name": "Dawn of Destiny",
-          "url": "https://open.spotify.com/artist/6AOHVA5mVwHahUw5H4Fa45"
+          "name": "Crowne",
+          "url": "https://open.spotify.com/artist/5H2DFNCrBR3OSr4AJn3U2O"
         }
       ],
-      "duration_ms": 227781,
-      "name": "No Place to Stay",
-      "url": "https://open.spotify.com/track/0rKm5P5J8O7RT7AkpRhnIQ"
+      "duration_ms": 185706,
+      "name": "Heaven Tonight",
+      "url": "https://open.spotify.com/track/2yirL9y1igNXM11Qgt504V"
     }
   ],
   "unique_name": "Epic & Melodic",

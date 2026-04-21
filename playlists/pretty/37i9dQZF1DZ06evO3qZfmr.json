@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
-  "num_followers": 50860,
+  "num_followers": 50895,
   "original_name": "This Is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeLJgAAAAAAR/GtEwKuvRHLpKkoj4YzC",
+  "snapshot_id": "aeQbAAAAAABxZpuaRBV4td57qcOIfA8p",
   "tracks": [
     {
       "added_at": null,
@@ -172,7 +172,7 @@
       "added_at": null,
       "album": {
         "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS"
+        "url": "https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 201840,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/4L8wCqX7DmID3UJ64w8Mrw"
+      "duration_ms": 213401,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/5wbXC9b2b5JwOKTd5FhuRy"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 177400,
-      "name": "Convincing",
-      "url": "https://open.spotify.com/track/2gR4GB0rVFtzbjTZr88FQS"
+      "duration_ms": 201840,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/4L8wCqX7DmID3UJ64w8Mrw"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 213401,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/4JwsoOcsHk8nObYh0JVVE0"
+      "duration_ms": 177400,
+      "name": "Convincing",
+      "url": "https://open.spotify.com/track/2gR4GB0rVFtzbjTZr88FQS"
     },
     {
       "added_at": null,

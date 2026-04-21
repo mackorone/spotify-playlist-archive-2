@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: youbet",
+  "description": "Underground indie rock gems. Cover: Accessory",
   "name": "undercurrents",
   "tracks": [
     {
@@ -28616,6 +28616,24 @@
       "duration_ms": 135728,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/1Ki3xQa6gNxupTmKdYgfsF"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/75Bgla4lYsEMCSjFs3loGd"
+      },
+      "artists": [
+        {
+          "name": "Accessory",
+          "url": "https://open.spotify.com/artist/0Z8Jfh6OHa55AI6NdEjtUk"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233283,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/19swoESh14znOg6WDx3liB"
     },
     {
       "album": {

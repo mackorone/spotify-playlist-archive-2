@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 107906,
       "name": "Belieber",
       "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
@@ -4090,7 +4090,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 185833,
       "name": "COMPASSO",
       "url": "https://open.spotify.com/track/56nFJirPajAoZ5314gjONJ"
@@ -9588,6 +9588,40 @@
       "duration_ms": 183652,
       "name": "Jovens do Reggae",
       "url": "https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o"
+    },
+    {
+      "album": {
+        "name": "PARA: TODAS QUE FINGI AMAR",
+        "url": "https://open.spotify.com/album/0GFb1J3CPd9yxDwyD5d6iC"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "DougBeats",
+          "url": "https://open.spotify.com/artist/3HyxA4BGfaxNsT9aFf9D5w"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "saboya",
+          "url": "https://open.spotify.com/artist/7LmOCHdwrnGpDho9EdrwVJ"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138735,
+      "name": "JULIANA",
+      "url": "https://open.spotify.com/track/0MTqBSTbhN0QJvf5lNe4H2"
     },
     {
       "album": {
@@ -16302,6 +16336,32 @@
       "duration_ms": 232941,
       "name": "Sanguessuga",
       "url": "https://open.spotify.com/track/7pDSJgKFL4pnlACmswR0Eb"
+    },
+    {
+      "album": {
+        "name": "!mortal",
+        "url": "https://open.spotify.com/album/2lWpiz4yw5I8VLIQ1dKRdR"
+      },
+      "artists": [
+        {
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+        },
+        {
+          "name": "Lucchini",
+          "url": "https://open.spotify.com/artist/2w2YbWSulMlPaCCSjNmMBR"
+        },
+        {
+          "name": "Cheek",
+          "url": "https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137125,
+      "name": "Santo",
+      "url": "https://open.spotify.com/track/3LHuL8QHNLs5xJYLha2sxd"
     },
     {
       "album": {

@@ -4,13 +4,13 @@
 
 > 
 
-37 songs - 1 hr 59 min
+38 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [After Dark x Sweater Weather](https://open.spotify.com/track/4b8mFdxfCSTarIUfhMY8yR) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN) | [After Dark x Sweater Weather](https://open.spotify.com/album/2cKig247X2NwNhUIzuiBDN) | 4:48 | 2023-09-24 |  |
 | [Amour Plastique \- Slowed Version](https://open.spotify.com/track/5zy0DzrOe46zBzFFrPniRc) | [Lewis Hanton](https://open.spotify.com/artist/7C2uVXwFKLlwHteHGnMLhZ) | [Amour Plastique \(Slowed Version\)](https://open.spotify.com/album/44JyLrf2t7JXVcpTLueHXm) | 4:39 | 2024-01-01 |  |
-| [Assumptions \- slowed down version](https://open.spotify.com/track/4QhTDQlt5M2sp2DNWnVift) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Assumptions \(slowed down version\)](https://open.spotify.com/album/7dg5TA4iTqKMqAgX8hAQz1) | 4:38 | 2025-05-08 |  |
+| [Assumptions \- slowed down version](https://open.spotify.com/track/4QhTDQlt5M2sp2DNWnVift) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Assumptions \(slowed down version\)](https://open.spotify.com/album/7dg5TA4iTqKMqAgX8hAQz1) | 4:38 | 2025-05-08 | 2026-04-21 |
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2025-10-09 |  |
 | [Call Me \- Slowed](https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Call Me \(Slowed\)](https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N) | 2:40 | 2023-09-24 |  |
 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:47 | 2023-09-24 |  |
@@ -36,6 +36,7 @@
 | [Miss You](https://open.spotify.com/track/1ulh1VlvQW8hM3C3aCM41e) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Victoria's Secret \- Pop Bangers](https://open.spotify.com/album/6Bi5Q5VIzGz0c6zatIVqLq) | 3:26 | 2023-12-25 |  |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2024-06-02 |  |
 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 | 2025-04-29 |  |
+| [PYTHON FUNK](https://open.spotify.com/track/4YvxfQF9QCXykqi2ahREC4) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [RD12](https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q) | [PYTHON FUNK](https://open.spotify.com/album/7JslfZtjZ430btdARyxLQ4) | 1:14 | 2026-04-20 |  |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2023-10-13 |  |
 | [SARAVIA FUNK \- Ultra Slowed](https://open.spotify.com/track/1XzGRimMhfS0mNppq862w9) | [RD12](https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q), [Dj Funks](https://open.spotify.com/artist/4v2ai25nhHzTue4JhbCMCn), [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g) | [SARAVIA FUNK](https://open.spotify.com/album/276gm48gL8sSKBQGOo3pK4) | 2:24 | 2025-06-12 |  |
 | [secrets](https://open.spotify.com/track/2ABwmC6R0EqTwGjdOduoD7) | [julez](https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH) | [secrets](https://open.spotify.com/album/28qAR0pihpYG5aOocXNH5r) | 1:37 | 2025-08-25 |  |

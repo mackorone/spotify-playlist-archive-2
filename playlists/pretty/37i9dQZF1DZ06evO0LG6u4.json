@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c9liane Radigue. The essential tracks, all in one playlist.",
-  "num_followers": 391,
+  "num_followers": 392,
   "original_name": "This Is \u00c9liane Radigue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeLJgAAAAAALtnrBOi/5tchrFDqUKDXf",
+  "snapshot_id": "aeQbAAAAAABAB2uDKAgikpv7oWTvuKsA",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 96557,
-      "name": "La note",
-      "url": "https://open.spotify.com/track/2ZpGWu0myOzQevbBpjcA8P"
+      "duration_ms": 44700,
+      "name": "Son miroir",
+      "url": "https://open.spotify.com/track/4GltqtOOK8KxgORA00fHQo"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 80745,
-      "name": "Commande musicale",
-      "url": "https://open.spotify.com/track/2eQYadzPjRQ44OjjY6wvtW"
+      "duration_ms": 96557,
+      "name": "La note",
+      "url": "https://open.spotify.com/track/2ZpGWu0myOzQevbBpjcA8P"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 44700,
-      "name": "Son miroir",
-      "url": "https://open.spotify.com/track/4GltqtOOK8KxgORA00fHQo"
+      "duration_ms": 48433,
+      "name": "Le soleil",
+      "url": "https://open.spotify.com/track/5iFT5Xi0wixMPmBw8PI0Lh"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 48433,
-      "name": "Le soleil",
-      "url": "https://open.spotify.com/track/5iFT5Xi0wixMPmBw8PI0Lh"
+      "duration_ms": 86362,
+      "name": "Sur Adnos",
+      "url": "https://open.spotify.com/track/48E7jZljAcsGWf2UDKmTp3"
     }
   ],
   "unique_name": "This Is \u00c9liane Radigue",

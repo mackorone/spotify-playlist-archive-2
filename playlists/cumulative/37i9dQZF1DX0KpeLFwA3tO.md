@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Saosin
 
-3,216 songs - 6 day 16 hr 37 min
+3,217 songs - 6 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Am I The Menace?](https://open.spotify.com/track/7HVJD6Kjsrje6ivaXDblY0) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Am I The Menace?](https://open.spotify.com/album/3dTZbo9tPa7Ms5rcRbxDP2) | 3:01 | 2024-03-22 | 2024-04-07 |
 | [Am I The Menace?](https://open.spotify.com/track/7KTu2e9HlZI8NtYMW2EzAY) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Free Rein to Passions \(Deluxe\)](https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk) | 3:01 | 2024-04-05 | 2024-04-19 |
 | [American Futbol](https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ) | [MakeWar](https://open.spotify.com/artist/0dZUiHIO2BUomz0xwglFiW) | [Get It Together](https://open.spotify.com/album/16uIgInEGd1nh7lxZ3P3vD) | 3:19 | 2021-12-17 | 2022-01-15 |
+| [AMERICAN NIGHTMARE](https://open.spotify.com/track/53i9GNkUlsdTCVTs0O5h7U) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF) | [AMERICAN NIGHTMARE](https://open.spotify.com/album/3sY7w1wEVikP6OUWzCI6D7) | 2:08 | 2026-04-20 |  |
 | [Among Us](https://open.spotify.com/track/1Y2jMKYV1AHOoQK86jQz4p) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Among Us](https://open.spotify.com/album/2bsMoW7MNpApKqy04JfTkK) | 3:20 | 2026-02-06 | 2026-03-14 |
 | [An Artist Is An Artist](https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [An Artist Is An Artist](https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ) | 3:11 | 2025-01-17 | 2025-03-28 |
 | [An Ending In Itself](https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [An Ending In Itself](https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr) | 3:36 | 2026-03-20 |  |
@@ -737,7 +738,7 @@
 | [Degenerate Inanimate](https://open.spotify.com/track/0w4fvtPleDXgz1Fdx5r7ss) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Degenerate Inanimate](https://open.spotify.com/album/2H78Vi5y81P8Su7vZqilpH) | 2:53 | 2023-07-13 | 2023-09-22 |
 | [Degrade Me](https://open.spotify.com/track/4Prj9fsFBVEGEpokBWz6nI) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Degrade Me](https://open.spotify.com/album/6hCo1w2KpEbJaFpZGFlprK) | 3:00 | 2023-08-03 | 2023-10-13 |
 | [Deja Vu](https://open.spotify.com/track/6cQh27zqYMbNo55cDY2Amx) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Halloween Mixtape](https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy) | 3:03 | 2022-03-18 | 2022-04-22 |
-| [Deja vu \(feat\. Yours Truly\)](https://open.spotify.com/track/0EEfIXFD23IVlqq8FuKq1I) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo), [Mikaila Delgado](https://open.spotify.com/artist/6KT0sJVVBD6P3k12CyiNWe) | [Deja vu \(feat\. Yours Truly\)](https://open.spotify.com/album/1WczfU7ipvFrg5RUsvmP9B) | 2:40 | 2026-04-17 |  |
+| [Deja vu \(feat\. Yours Truly\)](https://open.spotify.com/track/0EEfIXFD23IVlqq8FuKq1I) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo), [Mikaila Delgado](https://open.spotify.com/artist/6KT0sJVVBD6P3k12CyiNWe) | [Deja vu \(feat\. Yours Truly\)](https://open.spotify.com/album/1WczfU7ipvFrg5RUsvmP9B) | 2:40 | 2026-04-17 | 2026-04-21 |
 | [Delete Myself](https://open.spotify.com/track/09vrPyeyGuI5KxWv7fmQ6L) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Delete Myself](https://open.spotify.com/album/4QMnzmLpN0pIKTct6wSJMs) | 2:35 | 2022-11-18 | 2023-03-03 |
 | [Delia Smith](https://open.spotify.com/track/740y38LGyr6gNETQSlKRoW) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [A Modern Job EP](https://open.spotify.com/album/0IZwGu5IVwpP4b6aCDs3zp) | 3:39 | 2022-03-11 | 2022-04-22 |
 | [Delicate](https://open.spotify.com/track/2vbSolhCUDzOJ8nNaK2UKa) | [Bike Routes](https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA), [Jake Clemons](https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ) | [Delicate](https://open.spotify.com/album/2Tlbb5F2tt4IatJzeEm6DS) | 4:46 | 2026-03-06 | 2026-04-11 |

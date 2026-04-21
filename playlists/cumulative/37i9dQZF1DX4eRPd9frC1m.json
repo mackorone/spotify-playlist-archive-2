@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 222814,
       "name": "Bring The House Down",
       "url": "https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K"
@@ -4487,6 +4487,28 @@
     },
     {
       "album": {
+        "name": "iwannaliveinadream (AVELLO Remix)",
+        "url": "https://open.spotify.com/album/6lloP9VBpF6glplmJxYiSv"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "iwannaliveinadream - AVELLO Remix",
+      "url": "https://open.spotify.com/track/5WRbrSJadVq4aoDM9aS6DT"
+    },
+    {
+      "album": {
         "name": "Joker (Gawm Remix)",
         "url": "https://open.spotify.com/album/6rA8lYRLd9b0i4CSlhsoBR"
       },
@@ -5294,6 +5316,24 @@
       "duration_ms": 231724,
       "name": "Madara",
       "url": "https://open.spotify.com/track/5j5AySWYSMSsBD4nmz6z1D"
+    },
+    {
+      "album": {
+        "name": "Make You Move",
+        "url": "https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Make You Move",
+      "url": "https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ"
     },
     {
       "album": {
@@ -7742,7 +7782,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 182000,
       "name": "Sacrificial",
       "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"

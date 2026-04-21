@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,104 songs - 3 day 18 hr 39 min
+1,105 songs - 3 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -929,6 +929,7 @@
 | [Sweet Boy](https://open.spotify.com/track/1SB3vBA3V37paKqQ4BfLVn) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Sweet Boy](https://open.spotify.com/album/6B53fE8uMvCNbRTzD86ACl) | 3:37 | 2025-09-19 | 2025-12-08 |
 | [Swim](https://open.spotify.com/track/1cBmC6LH5SAcNo4fEUH0sZ) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Swim / Surrounded](https://open.spotify.com/album/2dTHKAcKGZIvkrA17lwSMB) | 4:09 | 2025-10-17 | 2025-11-16 |
 | [Swing \- Solomun Remix](https://open.spotify.com/track/4uzb1HhlygWVTlH18TlUwM) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Swing \(Solomun Remix\)](https://open.spotify.com/album/6pMAtljFLCdqpVNVLY0iwB) | 4:06 | 2022-05-27 | 2022-07-29 |
+| [Sympathy For The Devil](https://open.spotify.com/track/3rrbTQvYSZNPZ5qFrti0xO) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Sympathy For The Devil](https://open.spotify.com/album/7j2bfbPa9SfdPLRGLOuNG1) | 3:39 | 2026-04-17 |  |
 | [Symphonic Fantasy](https://open.spotify.com/track/0BZxv1E9EqjwWQneH7zFYQ) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [A Winter Sampler II](https://open.spotify.com/album/0m3OpCuqwyI3It73R2Gqwp) | 8:16 | 2021-04-21 | 2022-07-28 |
 | [Synthopia](https://open.spotify.com/track/71S7v0lVV56U2wYzBuhM0b) | [Guy J](https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD) | [Synthopia / Cicada](https://open.spotify.com/album/5GieeeiYau5SSbD0C5FI8N) | 8:39 | 2021-04-21 | 2022-04-21 |
 | [Synthwave](https://open.spotify.com/track/5y37tkUEZ4zObsXHNjCoNG) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Feathers & Bones](https://open.spotify.com/album/5zbJlJNXWeaDybNeqKjUiN) | 5:43 | 2023-06-02 | 2023-07-16 |
@@ -1079,7 +1080,7 @@
 | [Where's The Music Gone](https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Paul Rogers](https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg) | [Where's The Music Gone](https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp) | 3:48 | 2024-07-12 | 2025-06-18 |
 | [Wherever You Are](https://open.spotify.com/track/4FspiRiJy5dtV2jaqsBMS5) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [Wherever You Are](https://open.spotify.com/album/6HdG5nd0R0cQRKYrIVKlZG) | 3:16 | 2025-11-07 |  |
 | [Whistleman](https://open.spotify.com/track/386PnZfbszq42M8GprZnVt) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Whistleman EP](https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70) | 7:59 | 2021-04-21 | 2023-07-01 |
-| [Who I Am](https://open.spotify.com/track/06Jz0fCBIazg682Rl0OUyA) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Who I Am](https://open.spotify.com/album/5rnzEG84btgV1sLI0N9eFQ) | 3:13 | 2026-04-03 |  |
+| [Who I Am](https://open.spotify.com/track/06Jz0fCBIazg682Rl0OUyA) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Who I Am](https://open.spotify.com/album/5rnzEG84btgV1sLI0N9eFQ) | 3:13 | 2026-04-03 | 2026-04-21 |
 | [Who Loves The Sun \- \(Everyone’s Mix\)](https://open.spotify.com/track/2app5d9EcNuXOyYV6s25mg) | [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7), [Jake Hall](https://open.spotify.com/artist/3C6iirSkJ6FZH0XW896WIp) | [Who Loves The Sun \(Everyone’s Mix\)](https://open.spotify.com/album/6gdeYIO69NaDeknC1iMDhU) | 3:51 | 2024-06-28 | 2025-01-18 |
 | [Who's That Girl \- JL & Afterman Mix](https://open.spotify.com/track/0iPwcwbrS0ZMIvqvyQw1Qs) | [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Afterman](https://open.spotify.com/artist/7bU8y1gp9Kz9zpoMCVENvD), [Jl & Afterman](https://open.spotify.com/artist/4KvIoQiPcOkNMzHfBGO5Oa) | [Who's That Girl \(JL & Afterman Mix\)](https://open.spotify.com/album/2xbVMj7lxxj9ILbKRrq4q7) | 5:20 | 2024-07-12 | 2025-08-16 |
 | [Why](https://open.spotify.com/track/4O2uAxD8LKMptOW7sQQOKL) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Why](https://open.spotify.com/album/1hodyiHqPeGoLf9w0tHWyb) | 3:19 | 2024-04-12 | 2025-02-25 |

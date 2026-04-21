@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-221 songs - 16 hr 33 min
+222 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [Toot Suite : Red Garter \- From The Album Duke Ellington Jazz Party](https://open.spotify.com/track/6vOrhq9FHTEea7jXLttoTA) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 3:40 | 2023-12-29 |  |
 | [Total Jazz \(Final Movement Of "Portrait Of Ella Fitzgerald"\)](https://open.spotify.com/track/5wDO63teFXXvFS9IarBkc4) | [Lincoln Center Jazz Orchestra](https://open.spotify.com/artist/57tcqQ5NpKmaGE9zHMTiez), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Portraits By Ellington](https://open.spotify.com/album/0LIkxSapjR9etoqmQ0gLNq) | 7:15 | 2022-09-08 |  |
 | [Triple Play](https://open.spotify.com/track/0WXLbhRZmZ8BuqGW9kqN0a) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lush Life](https://open.spotify.com/album/43x4d2Sq1mUl2X5VBWa0Ve) | 5:23 | 2022-09-08 | 2022-10-19 |
-| [Triple Play](https://open.spotify.com/track/4LHvcUgH4uw2HvYCnlPMC3) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lush Life](https://open.spotify.com/album/3YelTkVhlEXydToO9cCDjS) | 5:23 | 2022-10-18 |  |
+| [Triple Play](https://open.spotify.com/track/4LHvcUgH4uw2HvYCnlPMC3) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lush Life](https://open.spotify.com/album/3YelTkVhlEXydToO9cCDjS) | 5:23 | 2022-10-18 | 2026-04-21 |
+| [Triple Play \(Live\)](https://open.spotify.com/track/4B15zMlAX4C6wOVTuKbGsW) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [All that Jazz, Vol\. 126: Duke Ellington at Carnegie Hall, 27th December 1947 \(2020 Remaster\)](https://open.spotify.com/album/7yoUCuioeKD5ceKC3B0s9T) | 6:13 | 2026-04-20 |  |
 | [Tymperturbably Blue](https://open.spotify.com/track/7hjE25giigr2EMT4YORsIe) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Jazz Party](https://open.spotify.com/album/3in4NPGC2wwEBgqFnCDryo) | 4:23 | 2022-09-08 |  |
 | [U.M.M.G\. \(Upper Manhattan Medical Group\)](https://open.spotify.com/track/5sJpQV6iIInQ4DqL3Jfqzc) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke \(Remastered 2014\)](https://open.spotify.com/album/4iYz6htNriFtdpgqZNDWSW) | 3:06 | 2022-09-08 | 2022-11-12 |
 | [U.M.M.G\. \(Upper Manhattan Medical Group\)](https://open.spotify.com/track/5nZ3cWYXLM6exMFCweubmL) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Lush Life: The Music of Billy Strayhorn](https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku) | 5:00 | 2022-11-11 |  |

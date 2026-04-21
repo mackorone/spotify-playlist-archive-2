@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "BARIBARI",
+        "url": "https://open.spotify.com/album/0clOkJR5lTZMHrYsgPHsbX"
+      },
+      "artists": [
+        {
+          "name": "cupid tem",
+          "url": "https://open.spotify.com/artist/6vjBoUoFmdVOo0nbKwOyA0"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258187,
+      "name": "BARIBARI",
+      "url": "https://open.spotify.com/track/4EPSgv4bMiaEb06VhJzucy"
+    },
+    {
+      "album": {
         "name": "ANORAK! / DIMWORK",
         "url": "https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ"
       },
@@ -4330,7 +4348,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 191022,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/5eBUtO6pXUCCAShR6vlt0N"
@@ -6426,6 +6444,24 @@
       "duration_ms": 240014,
       "name": "Lies for you",
       "url": "https://open.spotify.com/track/3g7pMGtAkXcwOglNJcd9dS"
+    },
+    {
+      "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/1gMJvW9BDi9EokYegMXwro"
+      },
+      "artists": [
+        {
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231655,
+      "name": "LIFE",
+      "url": "https://open.spotify.com/track/6JlYTnPwyLaBWqV7fC0NaH"
     },
     {
       "album": {
@@ -13672,7 +13708,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 242824,
       "name": "you're my",
       "url": "https://open.spotify.com/track/0282oL6TW2TMbxEljHQNJn"
@@ -15210,6 +15246,24 @@
       "duration_ms": 237711,
       "name": "\u305f\u3076\u3093\u60aa\u9b54\u304c",
       "url": "https://open.spotify.com/track/5b0g5HwI78H21tN7sTq5zS"
+    },
+    {
+      "album": {
+        "name": "\u305f\u3089\u308c\u3070",
+        "url": "https://open.spotify.com/album/5t3hoO6482UAbnF8rN5orm"
+      },
+      "artists": [
+        {
+          "name": "\u30ac\u30e9\u30af\u30bf",
+          "url": "https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160400,
+      "name": "\u305f\u3089\u308c\u3070",
+      "url": "https://open.spotify.com/track/4yYsNhxb8oyU8jKPFUZeG4"
     },
     {
       "album": {
@@ -17280,7 +17334,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 239200,
       "name": "\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u306f\u6b7b\u306a\u306a\u3044",
       "url": "https://open.spotify.com/track/3EldcMHt5Y7oyebSdur2tQ"
@@ -19828,7 +19882,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 289171,
       "name": "\u30d0\u30bf\u30d5\u30e9\u30a4\u30a8\u30d5\u30a7\u30af\u30c8",
       "url": "https://open.spotify.com/track/6r2Loe9aKdf6Dn7GPdZZHO"
@@ -22410,7 +22464,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 207786,
       "name": "\u4e00\u751f\u4ef2\u4ed4",
       "url": "https://open.spotify.com/track/3NOSJZOUY8azb5MX8D7JAw"
@@ -29786,7 +29840,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 188466,
       "name": "\u84bc\u3044\u6625",
       "url": "https://open.spotify.com/track/4FJiKZoCSmtTxKhyB8JPEQ"
@@ -29822,7 +29876,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 233481,
       "name": "\u857e\u3082\u3044\u3064\u304b\u306f",
       "url": "https://open.spotify.com/track/3B6zDxydEQh5VcxqF3tfPK"

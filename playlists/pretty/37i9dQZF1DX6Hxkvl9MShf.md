@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 
 > Melodic house and techno to concentrate the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,444 likes - 99 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,502 likes - 99 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 88 | [Lone Lee](https://open.spotify.com/track/456Hy3jnUpaJCd1pYbdqSa) | [Wesky](https://open.spotify.com/artist/2Qe7rgMOTEP0nIJdY6mqVn) | [Lone Lee](https://open.spotify.com/album/6K6Zy1aiJoQJEPKeYBaw8e) | 3:24 |
 | 89 | [Starchaser \(Einmusik Remix\)](https://open.spotify.com/track/415fFrVfqJaRB9krxxaTp5) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Starchaser \(Einmusik Remix\)](https://open.spotify.com/album/7GKNg2yY9hArnwTalusAfw) | 4:00 |
 | 90 | [Rage](https://open.spotify.com/track/6Ey5lYMyrkmtOq4AynJWqq) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn) | [Rage](https://open.spotify.com/album/0UQq67DPcgjurEE1hv8BaP) | 4:21 |
-| 91 | [Under The Sun](https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Under The Sun](https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z) | 3:28 |
+| 91 | [Under The Sun](https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Under The Sun \(feat\. AR/CO\)](https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z) | 3:28 |
 | 92 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
 | 93 | [FLORAL](https://open.spotify.com/track/424p6UywhA810uXc7zr6N4) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [CAY \(DE\)](https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K) | [FLORAL](https://open.spotify.com/album/2ZpTiLH2CUPC9QUpwgW9DY) | 4:29 |
 | 94 | [Sumidero](https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sumidero](https://open.spotify.com/album/1DElDXosVfJvgArfUOsQYQ) | 4:58 |

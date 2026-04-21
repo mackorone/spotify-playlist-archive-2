@@ -204,6 +204,24 @@
     {
       "album": {
         "name": "The Center Won't Hold",
+        "url": "https://open.spotify.com/album/1572ze92PysstxyxM8nFh3"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210943,
+      "name": "Can I Go On",
+      "url": "https://open.spotify.com/track/1krtlGy6LlyMpgz4RkVGwS"
+    },
+    {
+      "album": {
+        "name": "The Center Won't Hold",
         "url": "https://open.spotify.com/album/4KQlQyPKHNR04xTBwHosuK"
       },
       "artists": [
@@ -214,10 +232,28 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 210943,
       "name": "Can I Go On",
       "url": "https://open.spotify.com/track/3BZxzGjJdXXfp4uquDlHxe"
+    },
+    {
+      "album": {
+        "name": "One Beat (Remastered)",
+        "url": "https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286893,
+      "name": "Combat Rock",
+      "url": "https://open.spotify.com/track/4QKB0FLnneQ2Q9ZPMfUCZK"
     },
     {
       "album": {
@@ -736,7 +772,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 224186,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/3Z1G48R7n658TPJbLyOiLx"

@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Raghav Kaushik, Bipul Chhetri, Janisht Joshi and other exciting artists.
 
-1,413 songs - 3 day 5 hr 28 min
+1,414 songs - 3 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,6 +535,7 @@
 | [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 | 2023-10-06 | 2023-11-25 |
 | [Jaane Jaana](https://open.spotify.com/track/19r3RVBCyOUyNoTHZqbEHX) | [Abir](https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Jaane Jaana](https://open.spotify.com/album/1SZ92QLakvszzoWAZ4H6Xh) | 2:48 | 2025-02-07 | 2025-06-14 |
 | [Jaane Kab](https://open.spotify.com/track/5nr7vbPagiOgoqNSnYsG2H) | [Rishabh Tiwari](https://open.spotify.com/artist/0BAmhustIgYJL1k35JXgXb) | [Jaane Kab](https://open.spotify.com/album/6zeWNkKkSY8vAEdJjSqYFV) | 4:39 | 2023-10-20 | 2023-11-25 |
+| [Jaane Kab Woh Din Aaye](https://open.spotify.com/track/14SEbNwajUen0qTZNrymzA) | [Arish B](https://open.spotify.com/artist/6uwKdpWSHmcoE5ODUR0XCI) | [Jaane Kab Woh Din Aaye](https://open.spotify.com/album/5jt7YU3vKjAxwCCZMzbb3O) | 3:30 | 2026-04-17 |  |
 | [Jaane Kab Woh Din Aaye](https://open.spotify.com/track/3PeaLzAREqOGWmgFz0OVab) | [Arish B](https://open.spotify.com/artist/6uwKdpWSHmcoE5ODUR0XCI) | [Jaane Kab Woh Din Aaye](https://open.spotify.com/album/5qT8zF2xbZE5Lrk41wT7b1) | 3:30 | 2024-02-09 | 2024-03-23 |
 | [Jaane Kaise](https://open.spotify.com/track/1eAre1PnI5zo1X2Ie5Sypy) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H) | [Jaane Kaise](https://open.spotify.com/album/06KFa3cCo7gFKa5CGlMmuX) | 2:32 | 2024-04-26 | 2024-06-08 |
 | [Jaane kyu](https://open.spotify.com/track/491GlVkxTnZW9qdBWXrOD4) | [Mukku](https://open.spotify.com/artist/6UONv04Z1hQqtQjskS0H0p), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR), [Leela](https://open.spotify.com/artist/7MBRGHeFs0vKcnK2VqI2dZ) | [Jaane kyu](https://open.spotify.com/album/0ubDprPp6DulbadaFKhDIo) | 1:42 | 2025-12-15 | 2026-03-13 |
@@ -891,7 +892,7 @@
 | [Nadiya](https://open.spotify.com/track/2pbAtm6A1H1kcCrI6N8gia) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Nadiya](https://open.spotify.com/album/1wm4hA20dyDloqU1tAjt52) | 3:45 | 2024-10-11 | 2024-12-21 |
 | [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 | 2023-09-29 | 2023-11-18 |
 | [Nagma \- X \- Axis](https://open.spotify.com/track/1bBdaFlKJo5VnxhrOo6IaK) | [Chhavi Sodhani](https://open.spotify.com/artist/0fAAEVtf2NBPopVvfKNmkd) | [Nagma \- X \- Axis](https://open.spotify.com/album/1WNeOKWkf2cphwyJXLWfHd) | 3:18 | 2024-08-09 | 2024-09-21 |
-| [Nai Jaana \- Project Himroo](https://open.spotify.com/track/3WBBBPdWyzhodoifU0zBRk) | [Dhrriti Saharan](https://open.spotify.com/artist/3CfM61zeuztKppkmj0CggJ) | [Nai Jaana \- Project Himroo](https://open.spotify.com/album/4mT27h1ipKP0FILUIPEVxQ) | 4:04 | 2026-02-06 |  |
+| [Nai Jaana \- Project Himroo](https://open.spotify.com/track/3WBBBPdWyzhodoifU0zBRk) | [Dhrriti Saharan](https://open.spotify.com/artist/3CfM61zeuztKppkmj0CggJ) | [Nai Jaana \- Project Himroo](https://open.spotify.com/album/4mT27h1ipKP0FILUIPEVxQ) | 4:04 | 2026-02-06 | 2026-04-21 |
 | [Nai Khena](https://open.spotify.com/track/58lItK88uURFIlIbFQRmu5) | [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww), [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK) | [Shown In Blue](https://open.spotify.com/album/3W9pJ3PBlER4WIoKbumoOS) | 3:33 | 2024-03-22 | 2024-05-11 |
 | [Naina](https://open.spotify.com/track/3zKXlnK9Dx3NfIZewGAPQ9) | [Akansha Tripathi](https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni), [Parth Shah](https://open.spotify.com/artist/5GJ4KQrfErzSj5Tute2oNf) | [Naina](https://open.spotify.com/album/3EfPWhfVtKhdAJ0gzfntcV) | 1:48 | 2024-10-18 | 2024-12-14 |
 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 | 2025-02-14 | 2025-06-21 |

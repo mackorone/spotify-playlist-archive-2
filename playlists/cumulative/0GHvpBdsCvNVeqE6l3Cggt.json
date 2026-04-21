@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Second Chance",
+        "url": "https://open.spotify.com/album/74CnigfnvWZeyglwZYzMcO"
+      },
+      "artists": [
+        {
+          "name": "Ryandexbull",
+          "url": "https://open.spotify.com/artist/6xcOyB1OapzUvFSR8d6R4M"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183520,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/49D2hBnLk5rqQzPUEsS0zS"
+    },
+    {
+      "album": {
         "name": "Rumori di Felicit\u00e0",
         "url": "https://open.spotify.com/album/6IylMld0SUGYQpBtCwna1f"
       },

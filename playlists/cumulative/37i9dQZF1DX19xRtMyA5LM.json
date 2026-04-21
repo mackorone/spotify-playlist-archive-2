@@ -1845,6 +1845,28 @@
     },
     {
       "album": {
+        "name": "Discussies en Gezeik",
+        "url": "https://open.spotify.com/album/12tRdUe3hbLocwt0AUyw31"
+      },
+      "artists": [
+        {
+          "name": "Rits",
+          "url": "https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O"
+        },
+        {
+          "name": "Solid Circle",
+          "url": "https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203265,
+      "name": "Discussies en Gezeik",
+      "url": "https://open.spotify.com/track/7zSmRAYfMpmXBvhWhCtOVd"
+    },
+    {
+      "album": {
         "name": "Don Julio",
         "url": "https://open.spotify.com/album/6sdewdfn0oBTIRZewCPT8d"
       },
@@ -1864,6 +1886,24 @@
       "duration_ms": 130700,
       "name": "Don Julio",
       "url": "https://open.spotify.com/track/50xOKdGM8g8aBZoF6eDFb1"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Underestimate",
+        "url": "https://open.spotify.com/album/7cHcMTOHyV5ymx7MFsX6Hz"
+      },
+      "artists": [
+        {
+          "name": "Lostt",
+          "url": "https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Don\u2019t Underestimate",
+      "url": "https://open.spotify.com/track/0kDZCAgWEIyYu2iKzEKL3H"
     },
     {
       "album": {
@@ -3260,7 +3300,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 162253,
       "name": "HUISELIJK GEWELD",
       "url": "https://open.spotify.com/track/3DzY371TvinEgFZFNPd7Fw"
@@ -7738,7 +7778,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 175200,
       "name": "Vage Gozer",
       "url": "https://open.spotify.com/track/0lIwbiNPr1wHVa2UfZSUMR"

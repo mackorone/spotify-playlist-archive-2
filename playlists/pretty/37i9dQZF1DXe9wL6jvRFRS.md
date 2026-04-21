@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9wL6jvRFRS.md) - [plain]
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. My New Band Believe on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,242 likes - 84 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,270 likes - 84 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

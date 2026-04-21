@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 157599,
       "name": "ENDCARD - MOSHPIT MASALA",
       "url": "https://open.spotify.com/track/50ccsqPiJhz1IUBu6LBeph"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 142548,
       "name": "Idhu Namma Bhoomi",
       "url": "https://open.spotify.com/track/671fxQH3IfnO2Z4P3PhTRy"
@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 227951,
       "name": "Kasyo",
       "url": "https://open.spotify.com/track/71S9OBBgHpuClpiNKZp6Kk"
@@ -3766,7 +3766,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 102173,
       "name": "Naai Pozhappu",
       "url": "https://open.spotify.com/track/5si2qn3libZtyd7fDj2cgl"
@@ -3876,7 +3876,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 107293,
       "name": "Naan Yaar?",
       "url": "https://open.spotify.com/track/6mekR7mUIsB9LSCNW78D09"
@@ -4254,7 +4254,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 93494,
       "name": "One Time",
       "url": "https://open.spotify.com/track/2Jt7Ba7EfzHk8SvL3JcIw9"
@@ -5129,6 +5129,32 @@
     },
     {
       "album": {
+        "name": "Romeo Juliet",
+        "url": "https://open.spotify.com/album/4cirqcCjzcOpSELBZ0LmCa"
+      },
+      "artists": [
+        {
+          "name": "Rapkid 02",
+          "url": "https://open.spotify.com/artist/3ofhK23vIRn61FSQvP4TJA"
+        },
+        {
+          "name": "Gri$ly",
+          "url": "https://open.spotify.com/artist/6rBPV9Thl28A5Q6fOqcW0t"
+        },
+        {
+          "name": "LEO XMD",
+          "url": "https://open.spotify.com/artist/4tv4JflXtgC6Zp7697lWAS"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177857,
+      "name": "Romeo Juliet",
+      "url": "https://open.spotify.com/track/6lGWiSWFT6cqS8tMBdf8Gc"
+    },
+    {
+      "album": {
         "name": "Biriyani (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/19ByOiM4yu0ETa2HNYng86"
       },
@@ -5492,7 +5518,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 124108,
       "name": "Society Dis",
       "url": "https://open.spotify.com/track/3Mdt4KZV8Vd0Yan8eMZfel"

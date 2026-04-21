@@ -1,12 +1,12 @@
 {
   "description": "The best new music from the wide world of punk. Cover: Saosin",
-  "num_followers": 334157,
+  "num_followers": 334154,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwJHwpL4rXiLP5qbCfWgTkRKDbw",
+  "snapshot_id": "AAAAAHYJ7OKS0uor0CU/gJWbehJROaar",
   "tracks": [
     {
       "added_at": "2026-04-17 04:02:48",
@@ -285,6 +285,22 @@
       "url": "https://open.spotify.com/track/6Olhi061AQDZqAwGbqhXRW"
     },
     {
+      "added_at": "2026-04-20 16:47:08",
+      "album": {
+        "name": "AMERICAN NIGHTMARE",
+        "url": "https://open.spotify.com/album/3sY7w1wEVikP6OUWzCI6D7"
+      },
+      "artists": [
+        {
+          "name": "Comastatic",
+          "url": "https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF"
+        }
+      ],
+      "duration_ms": 128874,
+      "name": "AMERICAN NIGHTMARE",
+      "url": "https://open.spotify.com/track/53i9GNkUlsdTCVTs0O5h7U"
+    },
+    {
       "added_at": "2026-04-17 04:02:48",
       "album": {
         "name": "Recurring",
@@ -355,30 +371,6 @@
       "duration_ms": 174580,
       "name": "non mi fido pi\u00f9",
       "url": "https://open.spotify.com/track/155zDi0W4vIu4ZB0eRMFvC"
-    },
-    {
-      "added_at": "2026-04-17 04:02:48",
-      "album": {
-        "name": "Deja vu (feat. Yours Truly)",
-        "url": "https://open.spotify.com/album/1WczfU7ipvFrg5RUsvmP9B"
-      },
-      "artists": [
-        {
-          "name": "Comastatic",
-          "url": "https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF"
-        },
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        },
-        {
-          "name": "Mikaila Delgado",
-          "url": "https://open.spotify.com/artist/6KT0sJVVBD6P3k12CyiNWe"
-        }
-      ],
-      "duration_ms": 160750,
-      "name": "Deja vu (feat. Yours Truly)",
-      "url": "https://open.spotify.com/track/0EEfIXFD23IVlqq8FuKq1I"
     },
     {
       "added_at": "2026-04-17 04:02:48",

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 69028,
+  "num_followers": 69051,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD7JJUDnV/k1LnCJ02C+T7jb4YFG",
+  "snapshot_id": "AAAAAFKzDGyykKnzJYtB0sEaOGwJ2rKF",
   "tracks": [
     {
       "added_at": "2026-03-02 07:46:32",
@@ -79,6 +79,46 @@
       "duration_ms": 272903,
       "name": "Bengaluru Inn Title Track (From \"Bengaluru Inn\")",
       "url": "https://open.spotify.com/track/02B3FwkxcHWv4oShA8pnoS"
+    },
+    {
+      "added_at": "2026-04-20 06:25:30",
+      "album": {
+        "name": "Sura Sura (From \"Nagabandham\") (Kannada) (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7MFGkljmJrlWb1ClbOTRWF"
+      },
+      "artists": [
+        {
+          "name": "Junaid Kumar",
+          "url": "https://open.spotify.com/artist/2JDJv3xcqwBsCjeEL0oSTN"
+        },
+        {
+          "name": "ABHE",
+          "url": "https://open.spotify.com/artist/7cOdkD4TZCEah13yslDdW7"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Akhil Chandra",
+          "url": "https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe"
+        },
+        {
+          "name": "Anila Rajeev",
+          "url": "https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6"
+        },
+        {
+          "name": "Brinda",
+          "url": "https://open.spotify.com/artist/2GPdVUg9TCQY9B0nDUgMJt"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 254087,
+      "name": "Sura Sura (From \"Nagabandham\") (Kannada) (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/2HtDEGex3x6M8J39k8k6O6"
     },
     {
       "added_at": "2026-04-13 07:07:50",
@@ -1771,34 +1811,6 @@
       "duration_ms": 282579,
       "name": "Neen Yare Nanage (From \"Karikaada - Kannada\")",
       "url": "https://open.spotify.com/track/4r6JGKJNLwTbsmMRfj3Pc7"
-    },
-    {
-      "added_at": "2026-01-19 08:24:42",
-      "album": {
-        "name": "Benki Song (From \"Graamaayana\")",
-        "url": "https://open.spotify.com/album/55p43L7AszcB1gbWbO2TZE"
-      },
-      "artists": [
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Airaa Udupi",
-          "url": "https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR"
-        },
-        {
-          "name": "Poornachandra Tejaswi SV",
-          "url": "https://open.spotify.com/artist/1VDfV4Mh4Hc6uQIw6qRQ88"
-        },
-        {
-          "name": "Chi. Udayashankar",
-          "url": "https://open.spotify.com/artist/2pj2M5Ev8R8MfO3I6Em9WL"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Benki Song (From \"Graamaayana\")",
-      "url": "https://open.spotify.com/track/0DiJstTJ5dqsOEqm8vmQin"
     },
     {
       "added_at": "2026-01-16 10:25:54",

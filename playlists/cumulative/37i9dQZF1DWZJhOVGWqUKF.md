@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: From Ashes to New
 
-899 songs - 2 day 3 hr 3 min
+900 songs - 2 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Blame](https://open.spotify.com/track/0xviTjDBRIelaqGTKHR1Ns) | [Chiefland](https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW) | [Blame](https://open.spotify.com/album/2opWu1FXpnCL3OMVNuuKmB) | 2:52 | 2024-07-11 | 2024-07-19 |
 | [Blind Side Sonny](https://open.spotify.com/track/3yJIHyPa3J6SadRkhp5QsZ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Blind Side Sonny](https://open.spotify.com/album/3Q8URHjCFx82FDBf6BUeFJ) | 2:22 | 2024-10-03 | 2024-12-04 |
 | [Blind Spot](https://open.spotify.com/track/1G9NKmN4q6KG9lT6p7Q3Cu) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Blind Spot](https://open.spotify.com/album/7uApA7LL0do3kqf671TWOg) | 3:35 | 2025-04-17 | 2025-07-04 |
+| [BLINDFOLD](https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [IT CALLS ME BY NAME](https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL) | 3:14 | 2026-04-16 |  |
 | [Blood Red Heart](https://open.spotify.com/track/33AVQadDICfdLSxmv6rsr6) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Blood Red Heart](https://open.spotify.com/album/6rY89ErMOwDPPqTsGiAiSm) | 2:24 | 2025-01-02 | 2025-02-28 |
 | [Bloodlust](https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Bloodlust](https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D) | 3:29 | 2025-09-25 | 2026-02-20 |
 | [Bloody Knuckles, Broken Glass](https://open.spotify.com/track/5Uke2UM1vyUq2RORcVbQ6R) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [Some Kind of Alchemy](https://open.spotify.com/album/2ItgqF5fIxZFdAYGMn83z8) | 3:09 | 2025-08-22 | 2025-08-30 |
@@ -871,7 +872,7 @@
 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 | 2026-02-19 | 2026-03-27 |
 | [Weirdo \(feat\. Lee Jennings of The Funeral Portrait\)](https://open.spotify.com/track/4uoC9GLUXkmZntLQLrZeQc) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Weirdo](https://open.spotify.com/album/7tiO2Gwyk5yQfs8lYEr4j1) | 2:57 | 2025-09-11 | 2025-09-19 |
 | [WE’RE ALL GONNA DIE](https://open.spotify.com/track/4O3NC8soE6ELWtgIWjSD2B) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [WE’RE ALL GONNA DIE](https://open.spotify.com/album/0zJhmlEFYi2tFdhrlD5Rjq) | 3:04 | 2025-02-06 | 2025-05-17 |
-| [WE’RE IN THIS TOGETHER](https://open.spotify.com/track/7GSbGu5TD9PEIpo3qsBp75) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [WE’RE IN THIS TOGETHER](https://open.spotify.com/album/0FcdTxDTTVvr6jiSuP1Nc5) | 4:12 | 2025-10-16 |  |
+| [WE’RE IN THIS TOGETHER](https://open.spotify.com/track/7GSbGu5TD9PEIpo3qsBp75) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [WE’RE IN THIS TOGETHER](https://open.spotify.com/album/0FcdTxDTTVvr6jiSuP1Nc5) | 4:12 | 2025-10-16 | 2026-04-21 |
 | [What If...?](https://open.spotify.com/track/4NDXISXlmXBF1bQIjULijY) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [What If...?](https://open.spotify.com/album/2iE4nia3tEAoQKRex8rElL) | 3:35 | 2024-10-24 | 2024-11-01 |
 | [What Lies Within](https://open.spotify.com/track/3noiVDFbXAcHvzuabCo109) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [What Lies Within](https://open.spotify.com/album/5kefxoE4MBRf6L5yp6RoLY) | 5:06 | 2025-10-09 | 2026-01-25 |
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-06-27 | 2024-12-25 |

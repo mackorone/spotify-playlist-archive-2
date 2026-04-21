@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-679 songs - 1 day 22 hr 35 min
+680 songs - 1 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Easy](https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Easy](https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78) | 3:25 | 2023-11-17 | 2025-03-22 |
 | [Easy Love](https://open.spotify.com/track/520bx5thoXdK6SsBJseLGl) | [Krismi](https://open.spotify.com/artist/3ujWl7adFLOFZOkNtVi0WL) | [Easy Love](https://open.spotify.com/album/07gM5wpFq7rh1kGg9NECTj) | 3:26 | 2024-07-26 | 2025-04-19 |
 | [Echoes](https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Echoes](https://open.spotify.com/album/46N04V4j9W6MOzK8JdQ4ye) | 3:37 | 2025-10-10 | 2026-01-19 |
+| [Echoes](https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [Echoes](https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8) | 3:39 | 2026-04-17 |  |
 | [Ecletric](https://open.spotify.com/track/779p7HaX7hYS0irMq30kIy) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Ecletric](https://open.spotify.com/album/3DuDHySeHsZXytYR1HHQq9) | 3:18 | 2021-05-07 | 2022-07-28 |
 | [Elamy](https://open.spotify.com/track/6jdaBz780wecXanS9elu68) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Elamy](https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6) | 4:38 | 2022-02-11 | 2023-12-17 |
 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 | 2023-10-06 | 2025-07-20 |
@@ -675,7 +676,7 @@
 | [Womaa](https://open.spotify.com/track/5JFrgSCrW4aSeYKSK9MyyC) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Wilt Claybourne](https://open.spotify.com/artist/0r7cF3rN56BbPaJVYIXMz9) | [Womaa](https://open.spotify.com/album/63709yULZc1XOJXhPeudYZ) | 6:51 | 2021-05-07 | 2022-07-29 |
 | [Worlds Apart](https://open.spotify.com/track/6TZvMl21P031RvQhFkEyUq) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Worlds Apart](https://open.spotify.com/album/3Z28rtxKPfOrkbspjCg7IN) | 3:39 | 2023-12-08 | 2024-10-12 |
 | [Worlds Apart](https://open.spotify.com/track/3mtiGwAl0rFEaxTuA8EEd8) | [Guy J](https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD) | [Worlds Apart / Surreal](https://open.spotify.com/album/7ENofwwhQGA7OWxGr4hMUc) | 8:31 | 2025-10-10 |  |
-| [You](https://open.spotify.com/track/6srHm0yHwDO6bALuR253JJ) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [You](https://open.spotify.com/album/411WDzcQy7CVDVt1UYUiPj) | 3:33 | 2025-10-17 |  |
+| [You](https://open.spotify.com/track/6srHm0yHwDO6bALuR253JJ) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [You](https://open.spotify.com/album/411WDzcQy7CVDVt1UYUiPj) | 3:33 | 2025-10-17 | 2026-04-21 |
 | [You](https://open.spotify.com/track/7eydI7R5mMKl0H6FqlS9hi) | [Jesabel](https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I) | [You](https://open.spotify.com/album/2II2V6aLtisPP0G2JicKEl) | 3:26 | 2024-08-09 | 2024-10-26 |
 | [You Can't Stop Me](https://open.spotify.com/track/5PsoWaIrI0S398z8pTy7BW) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [You Can't Stop Me](https://open.spotify.com/album/59IhytiO3MDX4ogjV22Zcf) | 3:09 | 2022-08-19 | 2022-09-12 |
 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 | 2021-11-26 | 2024-04-13 |

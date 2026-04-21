@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 237077,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/687mduwpvKdFn06IHOl1fM"
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 257487,
       "name": "Everything Grows",
       "url": "https://open.spotify.com/track/1SjWBuWiOuEWyZQJZI7aLZ"
@@ -4001,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "Remember The Rain",
+        "url": "https://open.spotify.com/album/2yCGps8fdem5qy1SgrjHnP"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9onne Hartman",
+          "url": "https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113296,
+      "name": "Remember The Rain",
+      "url": "https://open.spotify.com/track/1tfIfphdtuiLJeO27kAD3q"
+    },
+    {
+      "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/498cZKg8d0Wp1uDna2wZ5p"
       },
@@ -5446,6 +5464,24 @@
       "duration_ms": 268978,
       "name": "Walk the Line",
       "url": "https://open.spotify.com/track/5tzZZFh9SaYeuC5uUtnsET"
+    },
+    {
+      "album": {
+        "name": "Wallflower (Acoustic)",
+        "url": "https://open.spotify.com/album/0JgBb2VFLW9zldC5LLlsrh"
+      },
+      "artists": [
+        {
+          "name": "Leah Rye",
+          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157248,
+      "name": "Wallflower - Acoustic",
+      "url": "https://open.spotify.com/track/3Lq8hjZ7XOpqbtcVROOpTi"
     },
     {
       "album": {

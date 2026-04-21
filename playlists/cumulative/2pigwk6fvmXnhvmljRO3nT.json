@@ -51803,6 +51803,24 @@
     },
     {
       "album": {
+        "name": "Shooting Star Warrior",
+        "url": "https://open.spotify.com/album/0BdUdxtNYUZQ4wHSR1aOV8"
+      },
+      "artists": [
+        {
+          "name": "Guilty Kiss",
+          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246040,
+      "name": "Guilty Night, Guilty Kiss!",
+      "url": "https://open.spotify.com/track/5cSWxmG7Vm375vy6ElPKRD"
+    },
+    {
+      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },

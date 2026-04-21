@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 745,
+  "num_followers": 747,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADd3AFheQ0p3p750mtN4nmB3UOoRDq",
+  "snapshot_id": "AAADeHaVEIO1rW4ceOsO3Be+E3DhBhTA",
   "tracks": [
     {
       "added_at": "2026-04-03 14:58:07",
@@ -1391,6 +1391,26 @@
       "duration_ms": 210494,
       "name": "1969",
       "url": "https://open.spotify.com/track/7mzfM2tTKNEgHIWdvXqJyQ"
+    },
+    {
+      "added_at": "2026-04-20 14:47:22",
+      "album": {
+        "name": "Latente",
+        "url": "https://open.spotify.com/album/4kbpB8ADo8Zb0HTaAKwDyy"
+      },
+      "artists": [
+        {
+          "name": "No Hana",
+          "url": "https://open.spotify.com/artist/2O6qXZs283cofBBPPxbMAT"
+        },
+        {
+          "name": "Diana Tagle",
+          "url": "https://open.spotify.com/artist/2S6LlZoAlTysVqqOluxHWW"
+        }
+      ],
+      "duration_ms": 143157,
+      "name": "Latente",
+      "url": "https://open.spotify.com/track/3ujkaYSzU2tRuRCnyB5w8e"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

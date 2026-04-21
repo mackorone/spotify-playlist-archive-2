@@ -5476,7 +5476,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -6146,6 +6146,24 @@
       "duration_ms": 239722,
       "name": "Midnight Drive",
       "url": "https://open.spotify.com/track/4WIqSwFtfwa8LpUxjvZmud"
+    },
+    {
+      "album": {
+        "name": "Midnight tide - \u041f\u043e\u043b\u0443\u043d\u043e\u0447\u043d\u044b\u0439 \u043f\u0440\u0438\u043b\u0438\u0432",
+        "url": "https://open.spotify.com/album/4qU5RMlQzHehUwtO842WPB"
+      },
+      "artists": [
+        {
+          "name": "CHAZZ DSHV",
+          "url": "https://open.spotify.com/artist/7lFFOXS32k2b7pr7xjUm5B"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208159,
+      "name": "Midnight tide - \u041f\u043e\u043b\u0443\u043d\u043e\u0447\u043d\u044b\u0439 \u043f\u0440\u0438\u043b\u0438\u0432",
+      "url": "https://open.spotify.com/track/18GXYuqyWZJQb1CmqDwMg2"
     },
     {
       "album": {
@@ -8324,7 +8342,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 138565,
       "name": "SMS",
       "url": "https://open.spotify.com/track/1uOJvoXHYPly6AyvoZlOfS"
@@ -9472,7 +9490,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 194959,
       "name": "Traz a Querida Pra Mim",
       "url": "https://open.spotify.com/track/34CsVVuZdv1FM9edPG1tmy"
@@ -16324,7 +16342,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 210125,
       "name": "\u0420\u043e\u0434\u043d\u043e\u0439 \u0433\u043e\u0440\u043e\u0434",
       "url": "https://open.spotify.com/track/45x4xzIwyNd4GBjP1YRmZj"
@@ -17048,6 +17066,24 @@
       "duration_ms": 148500,
       "name": "\u0421\u043d\u0435\u0433 \u0440\u0430\u0441\u0442\u0430\u044f\u043b \u043d\u0430 \u043f\u043b\u0435\u0447\u0430\u0445",
       "url": "https://open.spotify.com/track/6mC2PY4sm4M0YFL9dsBMGc"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043f\u0430\u0442\u044c \u0441 \u0442\u043e\u0431\u043e\u0439",
+        "url": "https://open.spotify.com/album/2nRa0l0Anwb9KU3cwBayh6"
+      },
+      "artists": [
+        {
+          "name": "itzice",
+          "url": "https://open.spotify.com/artist/1xLo8wsLW8HaHpiHQ3031Q"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129306,
+      "name": "\u0421\u043f\u0430\u0442\u044c \u0441 \u0442\u043e\u0431\u043e\u0439",
+      "url": "https://open.spotify.com/track/2h16t48cwEHeJ9MRf4vsBv"
     },
     {
       "album": {

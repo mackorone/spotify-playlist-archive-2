@@ -6169,6 +6169,28 @@
     },
     {
       "album": {
+        "name": "Chapter 7 (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0TdADwn8RBoyHpXlumCfgk"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237656,
+      "name": "I Have A God (feat. Zara McFarlane) (Live at the Royal Albert Hall)",
+      "url": "https://open.spotify.com/track/379elayI3tNRn65G2gghlN"
+    },
+    {
+      "album": {
         "name": "Interdimensional",
         "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
       },
@@ -6234,7 +6256,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 332513,
       "name": "I'm Confessin' (That I Love You)",
       "url": "https://open.spotify.com/track/7B1BJytxRkomPwac0PeccS"
@@ -9426,7 +9448,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 209143,
       "name": "Need a Moment",
       "url": "https://open.spotify.com/track/0XlkTuDHqNSfKd2MnjQ4GE"
@@ -12048,6 +12070,28 @@
       "duration_ms": 204270,
       "name": "Slice",
       "url": "https://open.spotify.com/track/6SR5Lk3NYfaiEFm2ZhG9mC"
+    },
+    {
+      "album": {
+        "name": "Slow Heart / Fire Up",
+        "url": "https://open.spotify.com/album/2BvIz04xVj9Lp8PMj7IYeB"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167886,
+      "name": "Slow Heart",
+      "url": "https://open.spotify.com/track/56NnhFdyX5X9ZS6uHQouqA"
     },
     {
       "album": {

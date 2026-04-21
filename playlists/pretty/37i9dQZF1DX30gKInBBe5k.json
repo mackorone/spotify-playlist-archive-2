@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212273,
+  "num_followers": 212283,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "Reaching For Indigo",
+        "url": "https://open.spotify.com/album/1GBJUdudjxW6w96CkPd6Kg"
+      },
+      "artists": [
+        {
+          "name": "Circuit des Yeux",
+          "url": "https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI"
+        }
+      ],
+      "duration_ms": 446986,
+      "name": "Black Fly",
+      "url": "https://open.spotify.com/track/3AXcnekPeKzjol7iQlM0Xx"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "Day And Night",
         "url": "https://open.spotify.com/album/64SmrtVEj2HwkQyz2Z9GXf"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 243800,
       "name": "Consolation Prize",
       "url": "https://open.spotify.com/track/1rvsWurvB8VkqYT63XmJLD"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Reaching For Indigo",
-        "url": "https://open.spotify.com/album/1GBJUdudjxW6w96CkPd6Kg"
-      },
-      "artists": [
-        {
-          "name": "Circuit des Yeux",
-          "url": "https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI"
-        }
-      ],
-      "duration_ms": 446986,
-      "name": "Black Fly",
-      "url": "https://open.spotify.com/track/3AXcnekPeKzjol7iQlM0Xx"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Stratosphere",
-        "url": "https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH"
-      },
-      "artists": [
-        {
-          "name": "Duster",
-          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Bubblegum",
         "url": "https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 362973,
       "name": "Stop Waiting",
       "url": "https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH"
+      },
+      "artists": [
+        {
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Let Me Go, Let Me Go, Let Me Go",
-        "url": "https://open.spotify.com/album/5Fbhl4nU4FaLjxspC5g8ca"
-      },
-      "artists": [
-        {
-          "name": "Jason Molina",
-          "url": "https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE"
-        }
-      ],
-      "duration_ms": 399933,
-      "name": "Let Me Go Let Me Go Let Me Go",
-      "url": "https://open.spotify.com/track/39KOhhh83o7jp7We40NSsg"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "The End Is Near",
         "url": "https://open.spotify.com/album/5FZnZleJX967mKT6ljJjSS"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 223706,
       "name": "The End's Not Near",
       "url": "https://open.spotify.com/track/1AgvhVeIile1724nDOZbgb"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Let Me Go, Let Me Go, Let Me Go",
+        "url": "https://open.spotify.com/album/5Fbhl4nU4FaLjxspC5g8ca"
+      },
+      "artists": [
+        {
+          "name": "Jason Molina",
+          "url": "https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE"
+        }
+      ],
+      "duration_ms": 399933,
+      "name": "Let Me Go Let Me Go Let Me Go",
+      "url": "https://open.spotify.com/track/39KOhhh83o7jp7We40NSsg"
     },
     {
       "added_at": "2025-08-07 23:00:59",

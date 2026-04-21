@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 69638,
+  "num_followers": 69645,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeLJgAAAAABRKqSLeYUwjVgNhes52EVZ",
+  "snapshot_id": "aeQbAAAAAAB6OonL6Vrb7SaefkcDKi8u",
   "tracks": [
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hombre Que M\u00e1s Te Amo",
-        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+        "name": "Bajo Mil Llaves",
+        "url": "https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 181893,
-      "name": "Necesito Odiarte",
-      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
+      "duration_ms": 149560,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
       "duration_ms": 190976,
       "name": "Pu\u00f1o De Tierra (En Vivo)",
       "url": "https://open.spotify.com/track/6WqfubEFVfbpTDYFdADOTc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "Necesito Odiarte",
+      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
       "duration_ms": 178938,
       "name": "Sin Recompensa Ni Esperanza (En Vivo)",
       "url": "https://open.spotify.com/track/0GsGXQ9E6jjlfs3FIn6F9h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bajo Mil Llaves",
-        "url": "https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 149560,
-      "name": "Bajo Mil Llaves",
-      "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
     },
     {
       "added_at": null,
@@ -851,6 +851,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Norte\u00f1os De Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2BXF9FpsGUA0wYQdnRWAap"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Leones del Norte",
+          "url": "https://open.spotify.com/artist/0yb8fDTLfuxX43ENXl3IUf"
+        },
+        {
+          "name": "Salomon Robles",
+          "url": "https://open.spotify.com/artist/3jOuCnGTTFjtYMmTinOtOu"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "Regalo Caro",
+      "url": "https://open.spotify.com/track/4n1DL6H5nOw8LV6QcDNoVO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chapayeka (Puro Chucky) (En Vivo)",
         "url": "https://open.spotify.com/album/3yOll80cJzqzR0X6xnbX3h"
       },
@@ -875,30 +899,6 @@
       "duration_ms": 136445,
       "name": "Pa' Qu\u00e9 Me Sirve La Vida (En Vivo)",
       "url": "https://open.spotify.com/track/2zI1wnZC4M303BlyFEXH88"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norte\u00f1os De Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2BXF9FpsGUA0wYQdnRWAap"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        },
-        {
-          "name": "Leones del Norte",
-          "url": "https://open.spotify.com/artist/0yb8fDTLfuxX43ENXl3IUf"
-        },
-        {
-          "name": "Salomon Robles",
-          "url": "https://open.spotify.com/artist/3jOuCnGTTFjtYMmTinOtOu"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "Regalo Caro",
-      "url": "https://open.spotify.com/track/4n1DL6H5nOw8LV6QcDNoVO"
     },
     {
       "added_at": null,

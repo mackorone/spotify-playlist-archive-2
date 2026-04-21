@@ -432,7 +432,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 169929,
       "name": "2.0",
       "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
@@ -1444,6 +1444,28 @@
       "duration_ms": 278644,
       "name": "ADIVINO",
       "url": "https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd"
+    },
+    {
+      "album": {
+        "name": "Veneremur Et Adoremus",
+        "url": "https://open.spotify.com/album/5ynRBZdDGOBMskC1rLmTzP"
+      },
+      "artists": [
+        {
+          "name": "Padre Guilherme",
+          "url": "https://open.spotify.com/artist/7Gl7M2tjlIWsDWYa061TWh"
+        },
+        {
+          "name": "Ebmath",
+          "url": "https://open.spotify.com/artist/3NFKWhstN9hCqjnWJULb7d"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165434,
+      "name": "Adoramus - Radio edit",
+      "url": "https://open.spotify.com/track/0Qfxqmlo3h19ujS8nkbv0S"
     },
     {
       "album": {
@@ -7873,6 +7895,28 @@
     },
     {
       "album": {
+        "name": "CITADEL",
+        "url": "https://open.spotify.com/album/5EGQuwPdh2D9fS3KFaNZBQ"
+      },
+      "artists": [
+        {
+          "name": "Ginchy",
+          "url": "https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP"
+        },
+        {
+          "name": "Padre Guilherme",
+          "url": "https://open.spotify.com/artist/7Gl7M2tjlIWsDWYa061TWh"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "CITADEL",
+      "url": "https://open.spotify.com/track/2Lg8XngFhqwS3ROntccz7e"
+    },
+    {
+      "album": {
         "name": "Ciudad Amurallada",
         "url": "https://open.spotify.com/album/33jmWzMREAOfBM33f8KmNV"
       },
@@ -11430,7 +11474,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 188513,
       "name": "Dos Amantes",
       "url": "https://open.spotify.com/track/5Nnd7tvjwHjexXjhbl0WSD"
@@ -12248,6 +12292,32 @@
       "duration_ms": 216857,
       "name": "EL GORDO",
       "url": "https://open.spotify.com/track/500kQAqm0AVQIPXIe6o1Ie"
+    },
+    {
+      "album": {
+        "name": "Si Tuvieras Fe",
+        "url": "https://open.spotify.com/album/4utrKmmA1ah3PByq6u1l1U"
+      },
+      "artists": [
+        {
+          "name": "''El Obama'' Carlos Anderson",
+          "url": "https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1"
+        },
+        {
+          "name": "Padre Guilherme",
+          "url": "https://open.spotify.com/artist/7Gl7M2tjlIWsDWYa061TWh"
+        },
+        {
+          "name": "KYD3N",
+          "url": "https://open.spotify.com/artist/63CSY8puykBsuL2ZWakxBY"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254273,
+      "name": "El Grano De Mostaza - Padre Guilherme & KYD3N Remix (Radio Edit)",
+      "url": "https://open.spotify.com/track/1To4t2R0Kd71XJEGYjgbQO"
     },
     {
       "album": {
@@ -13882,7 +13952,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 84272,
       "name": "Esa Nena",
       "url": "https://open.spotify.com/track/6oz7fzEbjNNR1tqr95uXdM"
@@ -18698,7 +18768,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -19694,7 +19764,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
@@ -22756,7 +22826,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 189746,
       "name": "Like Animals",
       "url": "https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP"
@@ -34381,6 +34451,32 @@
     },
     {
       "album": {
+        "name": "Si Tuvieras Fe",
+        "url": "https://open.spotify.com/album/4utrKmmA1ah3PByq6u1l1U"
+      },
+      "artists": [
+        {
+          "name": "''El Obama'' Carlos Anderson",
+          "url": "https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1"
+        },
+        {
+          "name": "Padre Guilherme",
+          "url": "https://open.spotify.com/artist/7Gl7M2tjlIWsDWYa061TWh"
+        },
+        {
+          "name": "KYD3N",
+          "url": "https://open.spotify.com/artist/63CSY8puykBsuL2ZWakxBY"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252939,
+      "name": "Prot\u00e9geme Se\u00f1or - Padre Guilherme & KYD3N Remix (Radio Edit)",
+      "url": "https://open.spotify.com/track/5BRYPW75U6FYWbDpoMZ77U"
+    },
+    {
+      "album": {
         "name": "Pr\u00e9stame (Remix)",
         "url": "https://open.spotify.com/album/6pLgFmSrejC3SLJ9uojWkv"
       },
@@ -44902,7 +44998,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 165738,
       "name": "UNA BABY EN SANTIAGO",
       "url": "https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE"
@@ -46636,6 +46732,32 @@
       "duration_ms": 233406,
       "name": "WE PRAY - (TINI Version)",
       "url": "https://open.spotify.com/track/6OICQoNsUIcYsirqoDo08Y"
+    },
+    {
+      "album": {
+        "name": "We Want an Unarmed and Disarming Peace",
+        "url": "https://open.spotify.com/album/48rtylsc2gyYHVHXXHYYpi"
+      },
+      "artists": [
+        {
+          "name": "Padre Guilherme",
+          "url": "https://open.spotify.com/artist/7Gl7M2tjlIWsDWYa061TWh"
+        },
+        {
+          "name": "Diego Miranda",
+          "url": "https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6"
+        },
+        {
+          "name": "Liah Barrett",
+          "url": "https://open.spotify.com/artist/3SkyUhCLUnBimUPEW73HzF"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211386,
+      "name": "We Want Peace - Radio edit",
+      "url": "https://open.spotify.com/track/55vUWriBx5QqVFTDadRaxs"
     },
     {
       "album": {

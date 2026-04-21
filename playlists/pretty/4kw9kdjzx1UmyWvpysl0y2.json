@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124054,
+  "num_followers": 124045,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVUpetDicBw9/CQ1Xminke2DvNivIk",
+  "snapshot_id": "AAAVVLKDTVVPDpJX/rW6t+xGQTZpMiFr",
   "tracks": [
+    {
+      "added_at": "2026-04-20 14:21:28",
+      "album": {
+        "name": "CRUEL!",
+        "url": "https://open.spotify.com/album/0pcCbKYElscFF67gUZQg6H"
+      },
+      "artists": [
+        {
+          "name": "OSSIEN",
+          "url": "https://open.spotify.com/artist/2P7X4Jb4H4hjoQyWUvKs9s"
+        },
+        {
+          "name": "zoska",
+          "url": "https://open.spotify.com/artist/3PUGGjaM7gnyEvIGfWYwh6"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "CRUEL!",
+      "url": "https://open.spotify.com/track/5S8CRlSJxNhu9Auji1u3ZI"
+    },
     {
       "added_at": "2026-04-17 16:08:57",
       "album": {
@@ -195,30 +215,6 @@
       "duration_ms": 171126,
       "name": "Funk Star (Be Polite)",
       "url": "https://open.spotify.com/track/29w7Ph7ljedsQp7zsaLeIx"
-    },
-    {
-      "added_at": "2026-04-06 14:31:20",
-      "album": {
-        "name": "Higher (Rampage Open Air 2026 Anthem)",
-        "url": "https://open.spotify.com/album/1arSZPYhYaAsEmAYcdepNp"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        },
-        {
-          "name": "V O E",
-          "url": "https://open.spotify.com/artist/3t8Pn6gip5ndfX7mGIymYm"
-        },
-        {
-          "name": "Murdock",
-          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Higher (Rampage Open Air 2026 Anthem)",
-      "url": "https://open.spotify.com/track/4CXWY9ETaEFPQmrjCYecI4"
     },
     {
       "added_at": "2026-04-02 15:10:53",

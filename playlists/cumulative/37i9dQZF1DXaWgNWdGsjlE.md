@@ -4,14 +4,14 @@
 
 > noisy\. heavy\. unhinged\. make a mess of it.
 
-264 songs - 14 hr 28 min
+266 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#1 Crush](https://open.spotify.com/track/0P6USuYzHP8GdAyNKLkTZi) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:45 | 2022-04-08 | 2026-02-28 |
 | [\(Can't You\) Trip Like I Do](https://open.spotify.com/track/5Vip8qySvWP12QaJoPliOA) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C), [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj) | [Spawn The Album](https://open.spotify.com/album/7vMw4CQOCyCCJkq9nyDCCB) | 4:28 | 2022-04-08 | 2022-09-28 |
 | [1\-800\-CLOSE\-UR\-EYES](https://open.spotify.com/track/7aO4r1tWlxaJCsq2f8tPCR) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [1\-800\-CLOSE\-UR\-EYES](https://open.spotify.com/album/4RWQdABMRwPtFCelCgEExV) | 2:13 | 2022-04-08 | 2026-04-14 |
-| [A Question Of Trust \- Boys Noize Remix](https://open.spotify.com/track/5Ahd7aVmuzves6akNQ66gj) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [TRON Ares: Divergence](https://open.spotify.com/album/2o3q9FJqD6sJJRoREWwSp2) | 3:35 | 2026-02-27 |  |
+| [A Question Of Trust \- Boys Noize Remix](https://open.spotify.com/track/5Ahd7aVmuzves6akNQ66gj) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [TRON Ares: Divergence](https://open.spotify.com/album/2o3q9FJqD6sJJRoREWwSp2) | 3:35 | 2026-02-27 | 2026-04-21 |
 | [A.L.O.N.E.](https://open.spotify.com/track/27hYsmEv0oxDiCRtaePHHq) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [A.L.O.N.E.](https://open.spotify.com/album/1sDgdisZxO2s4AKt2TKUQf) | 3:24 | 2026-04-13 |  |
 | [Absent \- Zetra Remix](https://open.spotify.com/track/7BdML0whJPSvQWdPVQXgPl) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl), [Zetra](https://open.spotify.com/artist/19OKi91yhqwfQqFyROn06f) | [Absent](https://open.spotify.com/album/4du4IFrg8MUcq3i2TWJER8) | 3:29 | 2024-01-19 |  |
 | [Abuse Me \(ft\. L'exquisite Douleur\)](https://open.spotify.com/track/7kgppSWLikBRTcyuCs1hfC) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [L'exquisite Douleur](https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4) | [Abuse Me \(ft\. L'exquisite Douleur\)](https://open.spotify.com/album/0Jbwtz6ss80zTuTwgQsVgH) | 3:08 | 2022-04-29 | 2023-03-14 |
@@ -118,6 +118,7 @@
 | [Head Like A Hole](https://open.spotify.com/track/3ckd4YA4LcD3j50rfIVwUe) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:59 | 2022-04-08 | 2022-09-24 |
 | [HEARTSTOPPER](https://open.spotify.com/track/362y5MOIwF4ueAFlYrwuCy) | [Kent Osborne](https://open.spotify.com/artist/7A15q1iSA5BitDh0WeK7ta) | [HEARTSTOPPER](https://open.spotify.com/album/1469SqW8gXxPFpBGMrZg9p) | 2:13 | 2022-11-08 | 2024-04-19 |
 | [HEARTSTOPPER](https://open.spotify.com/track/4YDATcqz2STt6QpMVWtj5Q) | [Kent Osborne](https://open.spotify.com/artist/7A15q1iSA5BitDh0WeK7ta) | [HEARTSTOPPER](https://open.spotify.com/album/4twfTWkuCk9FLlRE4JaXjd) | 2:13 | 2022-11-08 |  |
+| [Heresy \- Nine Inch Noize Version](https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nine Inch Noize](https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp) | 3:57 | 2026-04-20 |  |
 | [Hold The Line \(feat\. grandson\)](https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:12 | 2022-04-08 | 2025-08-08 |
 | [HOUSE FULL OF FAKES](https://open.spotify.com/track/0JV7cWCtX7qGDWNmHbM6YM) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [HOUSE FULL OF FAKES](https://open.spotify.com/album/3OLbjE3KaI4kywWewJ3v4v) | 3:05 | 2024-08-21 |  |
 | [HTIS](https://open.spotify.com/track/6ZL9yaWzZtyjksUXwqncAZ) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ), [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ), [Carmen Vandenberg](https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS) | [CHILDREN OF LIGHT II](https://open.spotify.com/album/4ju7VhYQ892SQ7gEmMViW4) | 3:15 | 2022-11-08 | 2022-11-13 |
@@ -267,6 +268,7 @@
 | [Word Vomit](https://open.spotify.com/track/579Toef3RjBEXfFMXvwkqp) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Word Vomit](https://open.spotify.com/album/7dsAqFpnshTvViLP7PTzkd) | 2:26 | 2022-04-29 |  |
 | [WWYDF](https://open.spotify.com/track/4gRiFYMQSqpqHnBdjE0zmq) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [WWYDF](https://open.spotify.com/album/3U1JCsxOmikZWVPqSTgQhE) | 2:55 | 2022-11-08 | 2022-11-13 |
 | [WWYDF](https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 2:55 | 2022-07-01 | 2024-01-20 |
+| [YES GODDD](https://open.spotify.com/track/4P1zfoLVuBfKHGShgXUjQy) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 2:39 | 2026-04-20 |  |
 | [You Make Me Sick!](https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [You Make Me Sick!](https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ) | 2:18 | 2023-03-13 | 2023-08-19 |
 | [Zombie](https://open.spotify.com/track/10IbUW87Q8kTs3ySisuLVc) | [SIIICKBRAIN](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Zombie](https://open.spotify.com/album/2OrzskCbMc8Bu5rbPXppJp) | 2:42 | 2022-04-08 |  |
 | [Zombie](https://open.spotify.com/track/1qoZPeWgIWC8RWbYRjUElS) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Zombie](https://open.spotify.com/album/4RvjNkmUeCfvPnyiEXcSCc) | 2:42 | 2023-09-22 | 2024-04-19 |

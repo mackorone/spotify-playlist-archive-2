@@ -4,7 +4,7 @@
 
 > I brani italiani di cui siamo ossessionati 🎧 Sarah Toscano in cover
 
-581 songs - 1 day 6 hr 0 min
+582 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 | 2024-09-12 | 2025-02-15 |
 | [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/track/3U4UsEENKPvawZnV4mjcWW) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/album/54u4GvYfCExZ0EqYomX8i3) | 2:40 | 2026-02-23 |  |
 | [NEXT](https://open.spotify.com/track/0RcyTmiVTIN7Fvv7bLkJYx) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [NEXT](https://open.spotify.com/album/2F36LMCm7c54Ik6cU0FFjD) | 3:13 | 2025-06-03 | 2025-06-27 |
+| [Niente Canzoni D'Amore \- Inedito](https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Status \(Inediti, Rarità & Live\)](https://open.spotify.com/album/59i1dzyF8wpUTk3KJ5zNXq) | 3:46 | 2026-04-20 |  |
 | [NIENTE DA DIRE](https://open.spotify.com/track/0aUvocDuU0Ugl1jv7S4EzC) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [NIENTE DA DIRE](https://open.spotify.com/album/1XldsQ599Rih4NTWWNCNby) | 3:23 | 2025-09-23 | 2025-10-17 |
 | [NIENTE DI MALE](https://open.spotify.com/track/7CZZxHf4DZxiTnrVxeMqOt) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [NIENTE DI MALE](https://open.spotify.com/album/4uZZ29NchGBafGvRaRYVEI) | 3:37 | 2024-10-17 | 2025-02-12 |
 | [Niente di particolare](https://open.spotify.com/track/3azkH8zt6JVM0ckeww7r3i) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Niente di particolare](https://open.spotify.com/album/6Aw1yTEFMFyLOhQGAMCvKk) | 2:54 | 2025-10-23 | 2025-11-21 |

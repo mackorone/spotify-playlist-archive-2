@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 100173,
+  "num_followers": 100203,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "Selema (Po Po)",
-        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
-      },
-      "artists": [
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
-        }
-      ],
-      "duration_ms": 340846,
-      "name": "Selema (Po Po)",
-      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
         "name": "Ka Valungu",
         "url": "https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 300302,
       "name": "Ka Valungu",
       "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
+        "name": "Selema (Po Po)",
+        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
+      },
+      "artists": [
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
+        }
+      ],
+      "duration_ms": 340846,
+      "name": "Selema (Po Po)",
+      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "The Legacy EP King of Barcadi",
-        "url": "https://open.spotify.com/album/7GlVQlozV3Rb2pwWksM0rH"
-      },
-      "artists": [
-        {
-          "name": "Enny Man Da Guitar",
-          "url": "https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6"
-        }
-      ],
-      "duration_ms": 290041,
-      "name": "6 foot 7 Foot - Remix",
-      "url": "https://open.spotify.com/track/7mV3Qjnxt5mUgTq7gT1JKy"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
         "name": "Hamba Kanje (feat. LeeMcKrazy)",
         "url": "https://open.spotify.com/album/3hJTA361imvPpqRrWBLVHQ"
       },
@@ -739,22 +723,18 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "Uyavala",
-        "url": "https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ"
+        "name": "The Legacy EP King of Barcadi",
+        "url": "https://open.spotify.com/album/7GlVQlozV3Rb2pwWksM0rH"
       },
       "artists": [
         {
-          "name": "Busta 929",
-          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
-        },
-        {
-          "name": "Pcee",
-          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+          "name": "Enny Man Da Guitar",
+          "url": "https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6"
         }
       ],
-      "duration_ms": 348357,
-      "name": "Uyavala",
-      "url": "https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab"
+      "duration_ms": 290041,
+      "name": "6 foot 7 Foot - Remix",
+      "url": "https://open.spotify.com/track/7mV3Qjnxt5mUgTq7gT1JKy"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -779,6 +759,46 @@
       "duration_ms": 382334,
       "name": "Hade Boss",
       "url": "https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
+        "name": "Uyavala",
+        "url": "https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ"
+      },
+      "artists": [
+        {
+          "name": "Busta 929",
+          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        }
+      ],
+      "duration_ms": 348357,
+      "name": "Uyavala",
+      "url": "https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
+        "name": "Down The Drain",
+        "url": "https://open.spotify.com/album/4RrEXzYVPDRdYUufiCw2W2"
+      },
+      "artists": [
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Thabza Tee",
+          "url": "https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn"
+        }
+      ],
+      "duration_ms": 368610,
+      "name": "Down The Drain",
+      "url": "https://open.spotify.com/track/62SaDdv956IYAt5nS1nWx7"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -811,26 +831,6 @@
       "duration_ms": 368588,
       "name": "Umona",
       "url": "https://open.spotify.com/track/26YYPFHWxEnft8x64CsTxW"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
-        "name": "Down The Drain",
-        "url": "https://open.spotify.com/album/4RrEXzYVPDRdYUufiCw2W2"
-      },
-      "artists": [
-        {
-          "name": "Njelic",
-          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
-        },
-        {
-          "name": "Thabza Tee",
-          "url": "https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn"
-        }
-      ],
-      "duration_ms": 368610,
-      "name": "Down The Drain",
-      "url": "https://open.spotify.com/track/62SaDdv956IYAt5nS1nWx7"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -1099,6 +1099,38 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
+        "name": "Khetiwe",
+        "url": "https://open.spotify.com/album/7LSJg8madvQUCxFIecgHmG"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/3rz6XDJwU2d1gBY5bbcdtT"
+        },
+        {
+          "name": "Piano Essence",
+          "url": "https://open.spotify.com/artist/3T4aRbLTWsQdCtGIuXplpp"
+        },
+        {
+          "name": "Lintonto",
+          "url": "https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4"
+        },
+        {
+          "name": "FLUXX",
+          "url": "https://open.spotify.com/artist/3EBIij4PVtSFD8aoKa4Hwf"
+        },
+        {
+          "name": "Xman Rsa",
+          "url": "https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730"
+        }
+      ],
+      "duration_ms": 377812,
+      "name": "Khetiwe",
+      "url": "https://open.spotify.com/track/1w9VIloDbk4DiwwHD7c9Bc"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
         "name": "Skuta Baba (Remix Pack)",
         "url": "https://open.spotify.com/album/05xMiDYYKjQ6jt8AYgyCGr"
       },
@@ -1131,38 +1163,6 @@
       "duration_ms": 260209,
       "name": "Skuta Baba - Pitori Remix",
       "url": "https://open.spotify.com/track/5FsDe3oTjRtEuzZcYUGiF2"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
-        "name": "Khetiwe",
-        "url": "https://open.spotify.com/album/7LSJg8madvQUCxFIecgHmG"
-      },
-      "artists": [
-        {
-          "name": "Slade",
-          "url": "https://open.spotify.com/artist/3rz6XDJwU2d1gBY5bbcdtT"
-        },
-        {
-          "name": "Piano Essence",
-          "url": "https://open.spotify.com/artist/3T4aRbLTWsQdCtGIuXplpp"
-        },
-        {
-          "name": "Lintonto",
-          "url": "https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4"
-        },
-        {
-          "name": "FLUXX",
-          "url": "https://open.spotify.com/artist/3EBIij4PVtSFD8aoKa4Hwf"
-        },
-        {
-          "name": "Xman Rsa",
-          "url": "https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730"
-        }
-      ],
-      "duration_ms": 377812,
-      "name": "Khetiwe",
-      "url": "https://open.spotify.com/track/1w9VIloDbk4DiwwHD7c9Bc"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -1279,6 +1279,30 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
+        "name": "The EEQualizer",
+        "url": "https://open.spotify.com/album/59OalmK2yPw6B6PLgQdW3U"
+      },
+      "artists": [
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Certified Dyan",
+          "url": "https://open.spotify.com/artist/5lD4Tgz3swAAOiKq5F5f9Q"
+        }
+      ],
+      "duration_ms": 361116,
+      "name": "Rekisa Kapela (feat. Certified Dyan)",
+      "url": "https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
         "name": "Imizamo (feat. Aries Cooper, North The Jap & Havoc)",
         "url": "https://open.spotify.com/album/2hFbYWq8PFrM4nYFBX9eKo"
       },
@@ -1303,30 +1327,6 @@
       "duration_ms": 450281,
       "name": "Imizamo (feat. Aries Cooper, North The Jap & Havoc)",
       "url": "https://open.spotify.com/track/69Wt3Yy8u9T3yswT6fLI9g"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
-        "name": "The EEQualizer",
-        "url": "https://open.spotify.com/album/59OalmK2yPw6B6PLgQdW3U"
-      },
-      "artists": [
-        {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Certified Dyan",
-          "url": "https://open.spotify.com/artist/5lD4Tgz3swAAOiKq5F5f9Q"
-        }
-      ],
-      "duration_ms": 361116,
-      "name": "Rekisa Kapela (feat. Certified Dyan)",
-      "url": "https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

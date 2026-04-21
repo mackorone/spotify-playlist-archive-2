@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 RYAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,645 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,646 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 21 | [Astro](https://open.spotify.com/track/3QNSSw8L95xww3RAuirmIf) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get) | [Extrañamente](https://open.spotify.com/album/6I8NDFSZvbbuClrWCfzeIs) | 3:30 |
 | 22 | [Querido chico](https://open.spotify.com/track/3jyCGPvVavcRnvOMvlJOOO) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Querido chico](https://open.spotify.com/album/3Qh9uYKdwMnhZLXdI0BZsu) | 2:50 |
 | 23 | [El Fuego que es mi Casa](https://open.spotify.com/track/7tv6opdWPW8BOeaypmw0Lw) | [Alter Vu](https://open.spotify.com/artist/5vsjSGTCjYNsUY9Ln4R4dU) | [El Fuego que es mi Casa](https://open.spotify.com/album/492TkgIoHxqfBvYmyLnVUZ) | 4:08 |
-| 24 | [Para Caer](https://open.spotify.com/track/4uQAlEBcRHiJNJ3sGuc0sh) | [Posguerra](https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf) | [Todos Extrańos](https://open.spotify.com/album/6TBirBFm2DtznOs4vcpm1m) | 3:42 |
+| 24 | [Para Caer](https://open.spotify.com/track/4uQAlEBcRHiJNJ3sGuc0sh) | [Posguerra](https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf) | [Todos Extraños](https://open.spotify.com/album/6TBirBFm2DtznOs4vcpm1m) | 3:42 |
 | 25 | [Mabel](https://open.spotify.com/track/0OpNsqH1hrjqw188yJ2j2U) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [yo también les tengo miedo](https://open.spotify.com/album/5YzQqEKXoOFwlaEDccr3zN) | 2:48 |
 | 26 | [Matufia](https://open.spotify.com/track/0EDLiGilKGEOs1yOhIjnUU) | [Tomson Olson](https://open.spotify.com/artist/0MLtB9n8HZBReh3njxUn84) | [Matufia](https://open.spotify.com/album/4HVZpKfksOZdTKWx0Rl6d5) | 3:36 |
 | 27 | [Bosque Gris](https://open.spotify.com/track/5ROBySV5NOHHoLxZ9dLhK7) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Bosque Gris](https://open.spotify.com/album/0HOvdaietx0LNJodu9VOMy) | 5:23 |

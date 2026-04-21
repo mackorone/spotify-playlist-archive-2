@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹 cover: Baltimora
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,875 likes - 123 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,881 likes - 123 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Amarsi nel disordine](https://open.spotify.com/track/7uK6wnsYe7gmviMQjiKvoz) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3) | [Commedia musicale](https://open.spotify.com/album/1EZYjpsWIhE9EOSG3MkgE4) | 3:06 |
+| 1 | [Dove Andare](https://open.spotify.com/track/2Poalx3D18sXaufZLom7AT) | [BALTIMORA](https://open.spotify.com/artist/0rRRvEq07vdUc9QgaK46Fl) | [Dove Andare](https://open.spotify.com/album/0yReDDNaEERMPT85xSTdke) | 2:51 |
 | 2 | [Al di là delle canzoni](https://open.spotify.com/track/5HMKZh6VIvB8BhyJiz3Ajp) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3) | [Commedia musicale](https://open.spotify.com/album/1EZYjpsWIhE9EOSG3MkgE4) | 3:28 |
 | 3 | [Lasciarti Andare](https://open.spotify.com/track/36napsLD6l9Mpq6YeIBG1H) | [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE), [Keynoise](https://open.spotify.com/artist/6gXD6pjT4eFa8sdYOISCXL) | [Lasciarti Andare](https://open.spotify.com/album/1CUfJufja9MaijzjsixlWR) | 2:01 |
 | 4 | [Amore Mio](https://open.spotify.com/track/7BeDxg0gxPargyAeyXiyfr) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Amore Mio](https://open.spotify.com/album/16paxUbOzbSJPs21qcIDp7) | 2:50 |
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 12 | [il coraggio che non ho](https://open.spotify.com/track/5EoP24CMAa8MHh9j82tObR) | [icaro](https://open.spotify.com/artist/7KSeB7JWqSs50h47yIPzfC) | [il coraggio che non ho](https://open.spotify.com/album/4BusQpXJt6r9O1qLCuoukR) | 3:15 |
 | 13 | [A galla](https://open.spotify.com/track/3m9B5buG8DZNV0pJ5WrzWe) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [A galla](https://open.spotify.com/album/0MQ9q57Sf3ZVSlvTEMOvQZ) | 3:10 |
 | 14 | [\- cose da dirti](https://open.spotify.com/track/4GXzUJsAXPEAuyBmNrQvdv) | [Flamen](https://open.spotify.com/artist/0v8ujlLqWIfCTv9aK3nGMe) | [+ x \-](https://open.spotify.com/album/6lNydXoPFrRYEA073ef7UM) | 2:12 |
-| 15 | [2 x](https://open.spotify.com/track/4vyfjtLsUz9fHlaibOEVJd) | [Flamen](https://open.spotify.com/artist/0v8ujlLqWIfCTv9aK3nGMe) | [+ x \-](https://open.spotify.com/album/6lNydXoPFrRYEA073ef7UM) | 2:16 |
-| 16 | [CREEPY](https://open.spotify.com/track/0ibZvSgfCIZMb4YXKbcjTm) | [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej), [Anelie](https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF), [Erba](https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW) | [CREEPY](https://open.spotify.com/album/4r6jBryVcdTAY7xPo7xmBq) | 2:27 |
-| 17 | [Crescere](https://open.spotify.com/track/5p8gWl58IBovZ1xO3oABZD) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [OGNI PICCOLA PARTE](https://open.spotify.com/album/20fpI9bYnqik617zWEjZ3X) | 2:53 |
-| 18 | [Aurora](https://open.spotify.com/track/5qXMyFkZMcO46e6XiUwQB5) | [Karo](https://open.spotify.com/artist/4t8Wy4slFXJK31m7WpiIB4) | [Aurora](https://open.spotify.com/album/32ZFUu5oqRNRjXqprLbK4K) | 2:30 |
-| 19 | [Vita Baraonda](https://open.spotify.com/track/46SKAARpufBM3KfxMzRRng) | [Pablo Murphy](https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB), [REPT](https://open.spotify.com/artist/0yGdjU425hWC7AkfOJYHS4) | [Vita Baraonda](https://open.spotify.com/album/5Q4ITlrLRb0rcgKQuNKNFy) | 2:51 |
-| 20 | [SAPORE](https://open.spotify.com/track/1scWWCal3Xb3pHUoA8WzYH) | [Florence](https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6) | [SAPORE](https://open.spotify.com/album/6B1DIBVkXY3jWYK8wT9FS9) | 2:30 |
-| 21 | [Romanzo Criminale](https://open.spotify.com/track/0vSpcsHo6wFbJIKzDUS2j3) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Romanzo Criminale](https://open.spotify.com/album/1LuTAIP3Jxgvkypn6WKLHD) | 2:56 |
-| 22 | [✵𖦹 luce bambina 𖦹✵](https://open.spotify.com/track/0OsrsjyPrLcDWB6Ocv2m34) | [Najma](https://open.spotify.com/artist/0XqMXRWagj3oufGzaSBCqk) | [✵𖦹 luce bambina 𖦹✵](https://open.spotify.com/album/2MfoEt7C4YvydCkqxByfIG) | 3:10 |
-| 23 | [CENTOMILA](https://open.spotify.com/track/2K5LuNBoNkIO9A5yx8Owyl) | [GABRIEL TONELLI](https://open.spotify.com/artist/3gzEVxb4jUC0579HQ08Opx) | [CENTOMILA](https://open.spotify.com/album/5SzP7MjXslryCmHKvxqVtk) | 4:01 |
-| 24 | [Dove Andare](https://open.spotify.com/track/2Poalx3D18sXaufZLom7AT) | [BALTIMORA](https://open.spotify.com/artist/0rRRvEq07vdUc9QgaK46Fl) | [Dove Andare](https://open.spotify.com/album/0yReDDNaEERMPT85xSTdke) | 2:51 |
+| 15 | [Amarsi nel disordine](https://open.spotify.com/track/7uK6wnsYe7gmviMQjiKvoz) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3) | [Commedia musicale](https://open.spotify.com/album/1EZYjpsWIhE9EOSG3MkgE4) | 3:06 |
+| 16 | [2 x](https://open.spotify.com/track/4vyfjtLsUz9fHlaibOEVJd) | [Flamen](https://open.spotify.com/artist/0v8ujlLqWIfCTv9aK3nGMe) | [+ x \-](https://open.spotify.com/album/6lNydXoPFrRYEA073ef7UM) | 2:16 |
+| 17 | [CREEPY](https://open.spotify.com/track/0ibZvSgfCIZMb4YXKbcjTm) | [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej), [Anelie](https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF), [Erba](https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW) | [CREEPY](https://open.spotify.com/album/4r6jBryVcdTAY7xPo7xmBq) | 2:27 |
+| 18 | [Crescere](https://open.spotify.com/track/5p8gWl58IBovZ1xO3oABZD) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [OGNI PICCOLA PARTE](https://open.spotify.com/album/20fpI9bYnqik617zWEjZ3X) | 2:53 |
+| 19 | [Aurora](https://open.spotify.com/track/5qXMyFkZMcO46e6XiUwQB5) | [Karo](https://open.spotify.com/artist/4t8Wy4slFXJK31m7WpiIB4) | [Aurora](https://open.spotify.com/album/32ZFUu5oqRNRjXqprLbK4K) | 2:30 |
+| 20 | [Vita Baraonda](https://open.spotify.com/track/46SKAARpufBM3KfxMzRRng) | [Pablo Murphy](https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB), [REPT](https://open.spotify.com/artist/0yGdjU425hWC7AkfOJYHS4) | [Vita Baraonda](https://open.spotify.com/album/5Q4ITlrLRb0rcgKQuNKNFy) | 2:51 |
+| 21 | [SAPORE](https://open.spotify.com/track/1scWWCal3Xb3pHUoA8WzYH) | [Florence](https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6) | [SAPORE](https://open.spotify.com/album/6B1DIBVkXY3jWYK8wT9FS9) | 2:30 |
+| 22 | [Romanzo Criminale](https://open.spotify.com/track/0vSpcsHo6wFbJIKzDUS2j3) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Romanzo Criminale](https://open.spotify.com/album/1LuTAIP3Jxgvkypn6WKLHD) | 2:56 |
+| 23 | [✵𖦹 luce bambina 𖦹✵](https://open.spotify.com/track/0OsrsjyPrLcDWB6Ocv2m34) | [Najma](https://open.spotify.com/artist/0XqMXRWagj3oufGzaSBCqk) | [✵𖦹 luce bambina 𖦹✵](https://open.spotify.com/album/2MfoEt7C4YvydCkqxByfIG) | 3:10 |
+| 24 | [CENTOMILA](https://open.spotify.com/track/2K5LuNBoNkIO9A5yx8Owyl) | [GABRIEL TONELLI](https://open.spotify.com/artist/3gzEVxb4jUC0579HQ08Opx) | [CENTOMILA](https://open.spotify.com/album/5SzP7MjXslryCmHKvxqVtk) | 4:01 |
 | 25 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 |
 | 26 | [Poesie Clandestine](https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Poesie Clandestine](https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm) | 3:03 |
 | 27 | [Stupida sfortuna](https://open.spotify.com/track/2yzOkthIypp8Lwkww7LZjY) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Stupida sfortuna](https://open.spotify.com/album/2op7wmZ9fVyLGLhjGmrLMG) | 2:55 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 122 | [Tranky Funky](https://open.spotify.com/track/71axDWBLrFzciRUC8yPyfL) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Tranky Funky](https://open.spotify.com/album/1gzR5uvJuGujMKnyTGV3cl) | 2:49 |
 | 123 | [LE COSE NON DETTE \- Original Motion Picture Soundtrack](https://open.spotify.com/track/6hdzQTMLKd2IiZIeWCzV7E) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [LE COSE NON DETTE \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YUuW1m2EOKpTUBvjghhLa) | 4:29 |
 
-Snapshot ID: `AAAAANDi1MFihBGFeXQRXn/wQJZG9Tn4`
+Snapshot ID: `AAAAAA5Uqbl0UiMqZzY+CJhRz8xfI4Vq`

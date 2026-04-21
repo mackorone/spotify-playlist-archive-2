@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 107151,
+  "num_followers": 107159,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Salvame",
-        "url": "https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL"
-      },
-      "artists": [
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 201633,
-      "name": "Salvame",
-      "url": "https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Gozo Yo Quer\u00eda",
         "url": "https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 195760,
       "name": "Gozo Yo Quer\u00eda",
       "url": "https://open.spotify.com/track/6WBzmHtKqAcv295zwIWwa6"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Salvame",
+        "url": "https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 201633,
+      "name": "Salvame",
+      "url": "https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "PR24SIETE Soy de Aqu\u00ed",
-        "url": "https://open.spotify.com/album/15gMI3J7lxW9ZBPTNVy4vz"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        },
-        {
-          "name": "Genio La Musa",
-          "url": "https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "QUIERO A MI PUEBLO (PR24SIETE)",
-      "url": "https://open.spotify.com/track/7tty3poKASR5Wp6sXI3Kf9"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Alegria Latina",
         "url": "https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR"
       },
@@ -615,22 +595,6 @@
       "duration_ms": 239026,
       "name": "Sana Nuestra Tierra",
       "url": "https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
-        "url": "https://open.spotify.com/album/3ki0M3SV7T5YxxyC8wkPe1"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 229180,
-      "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
-      "url": "https://open.spotify.com/track/1I4NvCYmKakgaYtFU2KHU1"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -651,6 +615,42 @@
       "duration_ms": 182474,
       "name": "Quema",
       "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "PR24SIETE Soy de Aqu\u00ed",
+        "url": "https://open.spotify.com/album/15gMI3J7lxW9ZBPTNVy4vz"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Genio La Musa",
+          "url": "https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "QUIERO A MI PUEBLO (PR24SIETE)",
+      "url": "https://open.spotify.com/track/7tty3poKASR5Wp6sXI3Kf9"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
+        "url": "https://open.spotify.com/album/3ki0M3SV7T5YxxyC8wkPe1"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 229180,
+      "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
+      "url": "https://open.spotify.com/track/1I4NvCYmKakgaYtFU2KHU1"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "30 A\u00f1os de Adoraci\u00f3n Tropical",
-        "url": "https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq"
-      },
-      "artists": [
-        {
-          "name": "Puchi Colon",
-          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
-        }
-      ],
-      "duration_ms": 249576,
-      "name": "Coritos Medley 2.0",
-      "url": "https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Ped\u00ed Un Deseo",
         "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Lo Mejor De La Vida",
-        "url": "https://open.spotify.com/album/10o6MR8g8EXpeRGulLaPSl"
+        "name": "30 A\u00f1os de Adoraci\u00f3n Tropical",
+        "url": "https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq"
       },
       "artists": [
         {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+          "name": "Puchi Colon",
+          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
         }
       ],
-      "duration_ms": 217660,
-      "name": "Lo Mejor De La Vida",
-      "url": "https://open.spotify.com/track/4T8vv4Hwzg0vEwsRg253oS"
+      "duration_ms": 249576,
+      "name": "Coritos Medley 2.0",
+      "url": "https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -815,18 +799,18 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
+        "name": "Lo Mejor De La Vida",
+        "url": "https://open.spotify.com/album/10o6MR8g8EXpeRGulLaPSl"
       },
       "artists": [
         {
-          "name": "ANMILY",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
         }
       ],
-      "duration_ms": 147672,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
+      "duration_ms": 217660,
+      "name": "Lo Mejor De La Vida",
+      "url": "https://open.spotify.com/track/4T8vv4Hwzg0vEwsRg253oS"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -851,6 +835,22 @@
       "duration_ms": 164877,
       "name": "CARTAGENA",
       "url": "https://open.spotify.com/track/5PfhsUM1oFLszzFO449aC7"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
+      },
+      "artists": [
+        {
+          "name": "ANMILY",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 147672,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Cada ma\u00f1ana",
-        "url": "https://open.spotify.com/album/2bIrI9nbxJj73KJkr00DTe"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Cada ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0rpuMehsTKtZ26XFUTlnnO"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Todo Y Nada / Seguir Vale La Pena (Live)",
         "url": "https://open.spotify.com/album/2wDOm4jVyuBFXFkROlGKKs"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 211000,
       "name": "Todo Y Nada - En Vivo",
       "url": "https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Cada ma\u00f1ana",
+        "url": "https://open.spotify.com/album/2bIrI9nbxJj73KJkr00DTe"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Cada ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0rpuMehsTKtZ26XFUTlnnO"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1011,6 +1011,30 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "CONMIGO VA",
+        "url": "https://open.spotify.com/album/3pjDokX4LvRA9kZwTKYJdn"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+        }
+      ],
+      "duration_ms": 211891,
+      "name": "CONMIGO VA",
+      "url": "https://open.spotify.com/track/71bIRq6Bpt1CT6Luo6u12Z"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "Cantar\u00e9",
         "url": "https://open.spotify.com/album/4MnjTYf9BgX5bR0EsZZaff"
       },
@@ -1043,30 +1067,6 @@
       "duration_ms": 177605,
       "name": "LA CARRERA",
       "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "CONMIGO VA",
-        "url": "https://open.spotify.com/album/3pjDokX4LvRA9kZwTKYJdn"
-      },
-      "artists": [
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        },
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
-        }
-      ],
-      "duration_ms": 211891,
-      "name": "CONMIGO VA",
-      "url": "https://open.spotify.com/track/71bIRq6Bpt1CT6Luo6u12Z"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "La Criolla",
+        "url": "https://open.spotify.com/album/3UlKZOXdj6lqe9eyssrjFP"
+      },
+      "artists": [
+        {
+          "name": "BuiltOn Purpose",
+          "url": "https://open.spotify.com/artist/3jKdeKwnpmGGsZwkg8RypA"
+        },
+        {
+          "name": "Giovani",
+          "url": "https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG"
+        }
+      ],
+      "duration_ms": 160285,
+      "name": "La Criolla",
+      "url": "https://open.spotify.com/track/3pEBiQSYCtSC1wyNIeNvgH"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "Agua Viva",
         "url": "https://open.spotify.com/album/07qYY30VHBfIzrmcPHhinF"
       },
@@ -1215,22 +1235,18 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "La Criolla",
-        "url": "https://open.spotify.com/album/3UlKZOXdj6lqe9eyssrjFP"
+        "name": "Adorar A Dios",
+        "url": "https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn"
       },
       "artists": [
         {
-          "name": "BuiltOn Purpose",
-          "url": "https://open.spotify.com/artist/3jKdeKwnpmGGsZwkg8RypA"
-        },
-        {
-          "name": "Giovani",
-          "url": "https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG"
+          "name": "El Swing Divino",
+          "url": "https://open.spotify.com/artist/47lEsXx9WQW7NP9j8gs2Zk"
         }
       ],
-      "duration_ms": 160285,
-      "name": "La Criolla",
-      "url": "https://open.spotify.com/track/3pEBiQSYCtSC1wyNIeNvgH"
+      "duration_ms": 195133,
+      "name": "Nos Vamos A Gozar",
+      "url": "https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1267,22 +1283,6 @@
       "duration_ms": 173332,
       "name": "M\u00e1s de Una Vez",
       "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Adorar A Dios",
-        "url": "https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn"
-      },
-      "artists": [
-        {
-          "name": "El Swing Divino",
-          "url": "https://open.spotify.com/artist/47lEsXx9WQW7NP9j8gs2Zk"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Nos Vamos A Gozar",
-      "url": "https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1559,8 +1559,8 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Al ritmo del Esp\u00edritu de Dios",
-        "url": "https://open.spotify.com/album/4hzynhzd2QNuf221J1dKXj"
+        "name": "Cantemos con alegr\u00eda",
+        "url": "https://open.spotify.com/album/11hpTepACo12ED6IOrNiQB"
       },
       "artists": [
         {
@@ -1568,9 +1568,9 @@
           "url": "https://open.spotify.com/artist/0e3gPGSlQZEcsaohevhUMt"
         }
       ],
-      "duration_ms": 219688,
-      "name": "Al ritmo del Esp\u00edritu de Dios",
-      "url": "https://open.spotify.com/track/5ZT3qvf2KcmBrxMbOR0OtA"
+      "duration_ms": 285076,
+      "name": "Juntos como hermanos / Que alegr\u00eda / Vienen con alegr\u00eda",
+      "url": "https://open.spotify.com/track/4gLefdqjcYj8fwLWLF81jw"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1643,8 +1643,8 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Cantemos con alegr\u00eda",
-        "url": "https://open.spotify.com/album/11hpTepACo12ED6IOrNiQB"
+        "name": "Al ritmo del Esp\u00edritu de Dios",
+        "url": "https://open.spotify.com/album/4hzynhzd2QNuf221J1dKXj"
       },
       "artists": [
         {
@@ -1652,9 +1652,9 @@
           "url": "https://open.spotify.com/artist/0e3gPGSlQZEcsaohevhUMt"
         }
       ],
-      "duration_ms": 285076,
-      "name": "Juntos como hermanos / Que alegr\u00eda / Vienen con alegr\u00eda",
-      "url": "https://open.spotify.com/track/4gLefdqjcYj8fwLWLF81jw"
+      "duration_ms": 219688,
+      "name": "Al ritmo del Esp\u00edritu de Dios",
+      "url": "https://open.spotify.com/track/5ZT3qvf2KcmBrxMbOR0OtA"
     },
     {
       "added_at": "2026-03-29 00:09:04",

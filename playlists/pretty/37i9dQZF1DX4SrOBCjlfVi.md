@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring JT, BNYX & Quavo, Sexyy Red and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,984 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,019 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 33 | [The Breakup Song \(feat\. BunnaB\)](https://open.spotify.com/track/4c6VpgTRO2U2XwESWeRzEu) | [Glizzy Glow](https://open.spotify.com/artist/6WjwaqdBREbbmFpRTsEXkl), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [The Breakup Song \(feat\. BunnaB\)](https://open.spotify.com/album/1nB9pz1jf5WnWRLV1Lgcna) | 3:00 |
 | 34 | [Pre Heat](https://open.spotify.com/track/3k3oDiLx1s1xjCHbtO7f1E) | [Lulrose](https://open.spotify.com/artist/48CddloOYfdA7opCAtxdhD), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8), [AYOCHILLMANNN](https://open.spotify.com/artist/4bhoGTlAqJ4XmDQxt7Vsgk) | [ROSE VOL\. 3](https://open.spotify.com/album/67NHt1pczCVSoWQKmoPgH6) | 1:32 |
 | 35 | [Hunnid Summaz](https://open.spotify.com/track/22RSRzBpsYLT9i9OIZSGPY) | [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC) | [Hunnid Summaz](https://open.spotify.com/album/2d7EVhGxc3sLOFJY6kR0wu) | 2:28 |
-| 36 | [TSOD](https://open.spotify.com/track/2cpufCD1b80iCZZFPvj8I2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP), [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [TSOD](https://open.spotify.com/album/5jSp0SGH5VYRg2yKVY6bjq) | 3:25 |
+| 36 | [TSOD](https://open.spotify.com/track/2cpufCD1b80iCZZFPvj8I2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP), [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [TSOD](https://open.spotify.com/album/5jSp0SGH5VYRg2yKVY6bjq) | 4:26 |
 | 37 | [Harley Race](https://open.spotify.com/track/5XkPbh3xAPBWebJc4Bxwmh) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Premo Rice](https://open.spotify.com/artist/4pTta0pLvML8AM2AwfgJyE) | [Harley Race](https://open.spotify.com/album/3BMMMwpIEaaEca3HuHWOBw) | 3:08 |
 | 38 | [TMS](https://open.spotify.com/track/7xVNjal7zqPECK89pG8bPo) | [Devin Donnell](https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc) | [TMS](https://open.spotify.com/album/2bLVh3bVQ3voNnHvCRnhxN) | 1:10 |
 | 39 | [3 PhØnes](https://open.spotify.com/track/03mE5jKb7rhXlOrbs5Amao) | [diamond\*](https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC) | [THE HØMECØMING\*](https://open.spotify.com/album/1AX2S2Civv18xDtHQHHLQC) | 2:27 |

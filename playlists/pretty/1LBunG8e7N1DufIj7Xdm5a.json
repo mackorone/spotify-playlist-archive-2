@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIZK5vf2zJVJ7ZvN18X2ljg7ggmOy+",
+  "snapshot_id": "AAAIZ1AA7hcq2uiwTeWDzWO8Bw+9mNvm",
   "tracks": [
     {
       "added_at": "2026-04-14 21:44:21",
@@ -71195,6 +71195,54 @@
       "duration_ms": 168642,
       "name": "She - Radio Mix",
       "url": "https://open.spotify.com/track/7ssoU0Q2YLQpYfVSFodiU3"
+    },
+    {
+      "added_at": "2026-04-20 10:59:31",
+      "album": {
+        "name": "Lying",
+        "url": "https://open.spotify.com/album/6qdZO3ebPEZhVxx0BRDU6h"
+      },
+      "artists": [
+        {
+          "name": "Unlucky Empathy",
+          "url": "https://open.spotify.com/artist/3stdHKfwcRB3Vmj7KQOsYl"
+        }
+      ],
+      "duration_ms": 312890,
+      "name": "Lying",
+      "url": "https://open.spotify.com/track/3NQ352T1u3Zn389Io8EmF5"
+    },
+    {
+      "added_at": "2026-04-20 19:51:18",
+      "album": {
+        "name": "Derrocar Dictadores",
+        "url": "https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET"
+      },
+      "artists": [
+        {
+          "name": "DJAR3K",
+          "url": "https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8"
+        }
+      ],
+      "duration_ms": 242303,
+      "name": "La cantina de poder",
+      "url": "https://open.spotify.com/track/5htd2qienkY0cQlQ0gubu9"
+    },
+    {
+      "added_at": "2026-04-20 19:52:21",
+      "album": {
+        "name": "Derrocar Dictadores",
+        "url": "https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET"
+      },
+      "artists": [
+        {
+          "name": "DJAR3K",
+          "url": "https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8"
+        }
+      ],
+      "duration_ms": 168192,
+      "name": "Serenada",
+      "url": "https://open.spotify.com/track/4ZnDI6bbOt3GzZbCHRKXKR"
     }
   ],
   "unique_name": "playlist spotify free",

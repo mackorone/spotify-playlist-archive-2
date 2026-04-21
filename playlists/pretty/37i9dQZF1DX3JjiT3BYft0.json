@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! ",
-  "num_followers": 78680,
+  "num_followers": 78682,
   "original_name": "BanG Dream!",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-03-05 06:11:01",
       "album": {
+        "name": "\u30b3\u30df\u30e5\u7740\u706bFire!",
+        "url": "https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9"
+      },
+      "artists": [
+        {
+          "name": "\u5922\u9650\u5927\u307f\u3085\u30fc\u305f\u3044\u3077",
+          "url": "https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK"
+        }
+      ],
+      "duration_ms": 234017,
+      "name": "\u65b0\u4eba\u985e\u306f\u4eee\u60f3\u4e16\u754c\u306e\u5922\u3092\u898b\u308b\u304b\uff1f",
+      "url": "https://open.spotify.com/track/0bsQv9Xxwrlc0Cy6sCxhbx"
+    },
+    {
+      "added_at": "2026-03-05 06:11:01",
+      "album": {
         "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089 (\u30d1\u30e9\u30ec\u30ebver.)",
         "url": "https://open.spotify.com/album/4txrzjXgvXWNiWlZB0YndH"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 238333,
       "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089 (\u30d1\u30e9\u30ec\u30ebver.)",
       "url": "https://open.spotify.com/track/1iRCZqUqfCFBqT8NI89geT"
-    },
-    {
-      "added_at": "2026-03-05 06:11:01",
-      "album": {
-        "name": "\u30b3\u30df\u30e5\u7740\u706bFire!",
-        "url": "https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9"
-      },
-      "artists": [
-        {
-          "name": "\u5922\u9650\u5927\u307f\u3085\u30fc\u305f\u3044\u3077",
-          "url": "https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK"
-        }
-      ],
-      "duration_ms": 234017,
-      "name": "\u65b0\u4eba\u985e\u306f\u4eee\u60f3\u4e16\u754c\u306e\u5922\u3092\u898b\u308b\u304b\uff1f",
-      "url": "https://open.spotify.com/track/0bsQv9Xxwrlc0Cy6sCxhbx"
     },
     {
       "added_at": "2026-03-05 06:11:01",
@@ -840,25 +840,9 @@
           "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 215968,
-      "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
-      "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"
-    },
-    {
-      "added_at": "2026-03-05 06:11:01",
-      "album": {
-        "name": "Pastel \u00e0 la mode",
-        "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "duration_ms": 250566,
-      "name": "\u305d\u3070\u304b\u3059 - Cover",
-      "url": "https://open.spotify.com/track/2daUZPAd5e8QdN2bOzC9js"
+      "duration_ms": 255000,
+      "name": "\u8a93\u3044\u306eWingbeat",
+      "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
     },
     {
       "added_at": "2026-03-05 06:11:01",
@@ -875,6 +859,22 @@
       "duration_ms": 220017,
       "name": "\u30b3\u30cf\u30af",
       "url": "https://open.spotify.com/track/78wP3WriYV17zAADyRUJxJ"
+    },
+    {
+      "added_at": "2026-03-05 06:11:01",
+      "album": {
+        "name": "Pastel \u00e0 la mode",
+        "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "duration_ms": 250566,
+      "name": "\u305d\u3070\u304b\u3059 - Cover",
+      "url": "https://open.spotify.com/track/2daUZPAd5e8QdN2bOzC9js"
     },
     {
       "added_at": "2026-03-05 06:11:01",
@@ -920,9 +920,41 @@
           "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 255000,
-      "name": "\u8a93\u3044\u306eWingbeat",
-      "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
+      "duration_ms": 215968,
+      "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
+      "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"
+    },
+    {
+      "added_at": "2026-03-05 06:11:01",
+      "album": {
+        "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
+        "url": "https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm"
+      },
+      "artists": [
+        {
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
+        },
+        {
+          "name": "\u30e2\u30ab",
+          "url": "https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c"
+        },
+        {
+          "name": "\u30ea\u30b5",
+          "url": "https://open.spotify.com/artist/1hihJzteX1ZxRB0irUH9Jy"
+        },
+        {
+          "name": "\u82b1\u97f3",
+          "url": "https://open.spotify.com/artist/0QXuZrXpnPAvr7JpGaDPt8"
+        },
+        {
+          "name": "\u3064\u3050\u307f",
+          "url": "https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ"
+        }
+      ],
+      "duration_ms": 240725,
+      "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
+      "url": "https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd"
     },
     {
       "added_at": "2026-03-05 06:11:01",
@@ -939,22 +971,6 @@
       "duration_ms": 228833,
       "name": "SAKURA\u30b9\u30ad\u30c3\u30d7 - Cover",
       "url": "https://open.spotify.com/track/1NhUiKrcrBPCIDgkBDzx5x"
-    },
-    {
-      "added_at": "2026-03-05 06:11:01",
-      "album": {
-        "name": "Don't be afraid!",
-        "url": "https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc"
-      },
-      "artists": [
-        {
-          "name": "Glitter*Green",
-          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Don't be afraid!",
-      "url": "https://open.spotify.com/track/6xdaAj70Cp5XSSuEIuzWef"
     },
     {
       "added_at": "2026-03-05 06:11:01",
@@ -1007,6 +1023,22 @@
     {
       "added_at": "2026-03-05 06:11:01",
       "album": {
+        "name": "Don't be afraid!",
+        "url": "https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc"
+      },
+      "artists": [
+        {
+          "name": "Glitter*Green",
+          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Don't be afraid!",
+      "url": "https://open.spotify.com/track/6xdaAj70Cp5XSSuEIuzWef"
+    },
+    {
+      "added_at": "2026-03-05 06:11:01",
+      "album": {
         "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection",
         "url": "https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze"
       },
@@ -1019,38 +1051,6 @@
       "duration_ms": 245000,
       "name": "\u3075\u308f\u3075\u308f\u6642\u9593",
       "url": "https://open.spotify.com/track/3inIDEYK6C287bLZFRqjv1"
-    },
-    {
-      "added_at": "2026-03-05 06:11:01",
-      "album": {
-        "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
-        "url": "https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm"
-      },
-      "artists": [
-        {
-          "name": "\u5f69",
-          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
-        },
-        {
-          "name": "\u30e2\u30ab",
-          "url": "https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c"
-        },
-        {
-          "name": "\u30ea\u30b5",
-          "url": "https://open.spotify.com/artist/1hihJzteX1ZxRB0irUH9Jy"
-        },
-        {
-          "name": "\u82b1\u97f3",
-          "url": "https://open.spotify.com/artist/0QXuZrXpnPAvr7JpGaDPt8"
-        },
-        {
-          "name": "\u3064\u3050\u307f",
-          "url": "https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ"
-        }
-      ],
-      "duration_ms": 240725,
-      "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
-      "url": "https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd"
     },
     {
       "added_at": "2026-03-05 06:11:01",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-03-05 06:11:01",
       "album": {
-        "name": "Pastel \u00e0 la mode",
-        "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "duration_ms": 243766,
-      "name": "\u6c17\u307e\u3050\u308c\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af - Cover",
-      "url": "https://open.spotify.com/track/0S93wlmiORbpfPjG4lsPKC"
-    },
-    {
-      "added_at": "2026-03-05 06:11:01",
-      "album": {
         "name": "See you! \u301c\u305d\u308c\u305e\u308c\u306e\u660e\u65e5\u3078\u301c",
         "url": "https://open.spotify.com/album/28jD62i4cZTV3y9hh6aj0l"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 311233,
       "name": "See you! \u301c\u305d\u308c\u305e\u308c\u306e\u660e\u65e5\u3078\u301c",
       "url": "https://open.spotify.com/track/5TZyQjaLF7C6mCHn7auFhr"
+    },
+    {
+      "added_at": "2026-03-05 06:11:01",
+      "album": {
+        "name": "Pastel \u00e0 la mode",
+        "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "duration_ms": 243766,
+      "name": "\u6c17\u307e\u3050\u308c\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af - Cover",
+      "url": "https://open.spotify.com/track/0S93wlmiORbpfPjG4lsPKC"
     },
     {
       "added_at": "2026-03-05 06:11:01",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-03-05 06:11:01",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d \uff5e\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\uff5e\u300d",
+        "url": "https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
+        }
+      ],
+      "duration_ms": 322546,
+      "name": "STAR BEAT!\uff5e\u30db\u30b7\u30ce\u30b3\u30c9\u30a6\uff5e - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/210Li0dai3m4bnYYyJQgsl"
+    },
+    {
+      "added_at": "2026-03-05 06:11:01",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!\u300d",
         "url": "https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 266066,
       "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4",
       "url": "https://open.spotify.com/track/5PumX86kzr0BD3IgBtTYtM"
-    },
-    {
-      "added_at": "2026-03-05 06:11:01",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d \uff5e\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\uff5e\u300d",
-        "url": "https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8"
-      },
-      "artists": [
-        {
-          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
-          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
-        }
-      ],
-      "duration_ms": 322546,
-      "name": "STAR BEAT!\uff5e\u30db\u30b7\u30ce\u30b3\u30c9\u30a6\uff5e - Acoustic Ver.",
-      "url": "https://open.spotify.com/track/210Li0dai3m4bnYYyJQgsl"
     },
     {
       "added_at": "2026-03-05 06:11:01",

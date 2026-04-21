@@ -4,7 +4,7 @@
 
 > 
 
-8,603 songs - 21 day 22 hr 12 min
+8,604 songs - 21 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2587,6 +2587,7 @@
 | [Gucci Please](https://open.spotify.com/track/4diLeXrI30CId9haEPThGC) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Everybody Looking](https://open.spotify.com/album/5GMmnwVu1VyxwZUt0T2uvJ) | 3:22 | 2025-01-03 |  |
 | [Guess Who Is Back](https://open.spotify.com/track/4lBliLm5ufCBNPlCzpvrQB) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [DNA](https://open.spotify.com/album/6clP6HKzALC37Aoas4zX8B) | 3:26 | 2026-02-20 |  |
 | [Guilty](https://open.spotify.com/track/4SItlalMUtA8neKb7StAms) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [God Don't Make Mistakes](https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG) | 2:26 | 2024-12-14 |  |
+| [Guilty Night, Guilty Kiss!](https://open.spotify.com/track/5cSWxmG7Vm375vy6ElPKRD) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [Shooting Star Warrior](https://open.spotify.com/album/0BdUdxtNYUZQ4wHSR1aOV8) | 4:06 | 2026-04-20 |  |
 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:15 | 2024-12-14 |  |
 | [Gungala nido](https://open.spotify.com/track/1UMF4tcuC8J1XpJ1qp9Ws3) | [Luigi Malatesta](https://open.spotify.com/artist/153PCxQogtNJgjnPv5rzog), [Franco Bixio](https://open.spotify.com/artist/10MxBHzo0yJhqRLUcjLSL2), [Sandro Brugnolini](https://open.spotify.com/artist/31Z6mUDFOvTooxYZjumHns) | [Gungala, la pantera nuda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Y3sPxqlYj32f0vwrMZBgQ) | 2:34 | 2024-12-31 |  |
 | [Guns And Roses](https://open.spotify.com/track/0O0JgOEZklUxBH6kfboYha) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 3:53 | 2025-01-15 |  |

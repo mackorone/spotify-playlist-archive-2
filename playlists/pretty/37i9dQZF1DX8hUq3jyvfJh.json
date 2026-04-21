@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:3f5VCwd57gZsqMad28jyLV\">Maria Beth\u00e2nia</a>.",
-  "num_followers": 192798,
+  "num_followers": 192806,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
+        "name": "Angela Roro",
+        "url": "https://open.spotify.com/album/5b9KqfZmD65KQNs6vD4VBd"
+      },
+      "artists": [
+        {
+          "name": "Angela Ro Ro",
+          "url": "https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y"
+        }
+      ],
+      "duration_ms": 144146,
+      "name": "Gota De Sangue",
+      "url": "https://open.spotify.com/track/2hTnYpWgxPbW197EwbeAWm"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
         "name": "Um Mar Pra Cada Um,",
         "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 248500,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/2ea27ZeiVxXTY029nVpcWe"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
-        "name": "Angela Roro",
-        "url": "https://open.spotify.com/album/5b9KqfZmD65KQNs6vD4VBd"
-      },
-      "artists": [
-        {
-          "name": "Angela Ro Ro",
-          "url": "https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y"
-        }
-      ],
-      "duration_ms": 144146,
-      "name": "Gota De Sangue",
-      "url": "https://open.spotify.com/track/2hTnYpWgxPbW197EwbeAWm"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Outra Ladeira",
-        "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
-      },
-      "artists": [
-        {
-          "name": "Let\u00edcia Fialho",
-          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
-        }
-      ],
-      "duration_ms": 228312,
-      "name": "Outra Ladeira",
-      "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Falso Brilhante",
         "url": "https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 262466,
       "name": "Tatuagem",
       "url": "https://open.spotify.com/track/2vmXFXcr44JSrZ1MpgWLRa"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "Outra Ladeira",
+        "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
+      },
+      "artists": [
+        {
+          "name": "Let\u00edcia Fialho",
+          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
+        }
+      ],
+      "duration_ms": 228312,
+      "name": "Outra Ladeira",
+      "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Voz de Longe",
-        "url": "https://open.spotify.com/album/5mADYBJ2iOsAgAJOqnM7Lr"
-      },
-      "artists": [
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        }
-      ],
-      "duration_ms": 190070,
-      "name": "Voz de Longe",
-      "url": "https://open.spotify.com/track/3oYkFf1qzu7O2SUtPld2Th"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Sambas de Noel Rosa",
         "url": "https://open.spotify.com/album/4GBnrfMHbLji4DcNelwuFR"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "BEM VINDOS DE VOLTA",
-        "url": "https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr"
+        "name": "Voz de Longe",
+        "url": "https://open.spotify.com/album/5mADYBJ2iOsAgAJOqnM7Lr"
       },
       "artists": [
         {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
         }
       ],
-      "duration_ms": 268000,
-      "name": "MAPA MUNDI",
-      "url": "https://open.spotify.com/track/3E17xNfbh9h3Y4YzaHzPWO"
+      "duration_ms": 190070,
+      "name": "Voz de Longe",
+      "url": "https://open.spotify.com/track/3oYkFf1qzu7O2SUtPld2Th"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -619,6 +603,22 @@
       "duration_ms": 259953,
       "name": "Ter Filhos Fortes",
       "url": "https://open.spotify.com/track/53EdazlS9uRL1MTT4fsnA1"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "BEM VINDOS DE VOLTA",
+        "url": "https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "MAPA MUNDI",
+      "url": "https://open.spotify.com/track/3E17xNfbh9h3Y4YzaHzPWO"
     },
     {
       "added_at": "2026-04-01 03:00:06",

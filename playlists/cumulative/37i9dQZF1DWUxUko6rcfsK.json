@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 173963,
       "name": "All I Know",
       "url": "https://open.spotify.com/track/3Rg3MovzxzR6RdYw7hhZjB"
@@ -383,6 +383,36 @@
     },
     {
       "album": {
+        "name": "By The Bay",
+        "url": "https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC"
+      },
+      "artists": [
+        {
+          "name": "BAY",
+          "url": "https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet"
+        },
+        {
+          "name": "Bobbie Wall",
+          "url": "https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI"
+        },
+        {
+          "name": "aniika",
+          "url": "https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3"
+        },
+        {
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204328,
+      "name": "By The Bay",
+      "url": "https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI"
+    },
+    {
+      "album": {
         "name": "Calling After Me",
         "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
       },
@@ -625,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Day Dreamer",
+        "url": "https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW"
+      },
+      "artists": [
+        {
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192174,
+      "name": "Day Dreamer",
+      "url": "https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv"
+    },
+    {
+      "album": {
         "name": "Diamonds in my Chest",
         "url": "https://open.spotify.com/album/4dl4tuViHtusW0aG1ncIwJ"
       },
@@ -770,7 +818,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 263760,
       "name": "Evergreen (l-o-v-e-d)",
       "url": "https://open.spotify.com/track/2kM0IjYQAdtkoLoeWMDZWV"
@@ -2997,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Simple Life",
+        "url": "https://open.spotify.com/album/1nsiO0gk4qw2YAOYB4nIX8"
+      },
+      "artists": [
+        {
+          "name": "Cas Heim",
+          "url": "https://open.spotify.com/artist/0yXP3FUiGEKpLAXV1czUIE"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227666,
+      "name": "Simple Life",
+      "url": "https://open.spotify.com/track/1AYfby2uRuUTHx2LifHzyn"
+    },
+    {
+      "album": {
         "name": "Sinatra",
         "url": "https://open.spotify.com/album/1i5Ver0UuKtGr1eJSlbyXL"
       },
@@ -3684,7 +3750,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 179122,
       "name": "This Is The Silence",
       "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"

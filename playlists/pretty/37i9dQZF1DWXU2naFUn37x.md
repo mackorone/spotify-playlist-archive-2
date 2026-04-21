@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Flaco G in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,454 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,475 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DAVVERODAVVERO](https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:45 |
-| 2 | [Babyface](https://open.spotify.com/track/5LN0gLSxSEaigog3VjCci3) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 2:57 |
-| 3 | [SEX TRAP REPEAT](https://open.spotify.com/track/7jhVsioCwQDGQSXFL35cEF) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [SEX TRAP REPEAT](https://open.spotify.com/album/5nPq2Nmm3NU2BNCrWBcFep) | 2:25 |
+| 1 | [SEX TRAP REPEAT](https://open.spotify.com/track/7jhVsioCwQDGQSXFL35cEF) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [SEX TRAP REPEAT](https://open.spotify.com/album/5nPq2Nmm3NU2BNCrWBcFep) | 2:25 |
+| 2 | [DAVVERODAVVERO](https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:45 |
+| 3 | [Babyface](https://open.spotify.com/track/5LN0gLSxSEaigog3VjCci3) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 2:57 |
 | 4 | [4 Gambe](https://open.spotify.com/track/5nEWSUWRc3xjpJn25xbXFY) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [4 Gambe](https://open.spotify.com/album/3CIAryrsaEFI1hPdPsUPvQ) | 2:21 |
 | 5 | [DARKMONEY \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1SWUq0qtTSDRGrDtgq7POw) | [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [KING OF DARK](https://open.spotify.com/album/4oJZFEKPVLVViFlG5VnAhN) | 2:46 |
 | 6 | [BETTY BOOP \(feat\. Artie 5ive\)](https://open.spotify.com/track/2rNxRLShYAjeIUUYA89wUQ) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PROGETTO X DELUXE](https://open.spotify.com/album/3zbpX7pil18FtBaPKsCne1) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Potere \(feat\. Tony Boy\)](https://open.spotify.com/track/6MwOss3bVsCw0VFCkzVT73) | [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Potere \(feat\. Tony Boy\)](https://open.spotify.com/album/599BKohPCJPOW0r19HvOyY) | 3:15 |
 | 50 | [MONTANA \(feat\. RRARI DAL TACCO\)](https://open.spotify.com/track/1BxMEw38wEwSRWwywaRxu4) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [MORENDO AD OCCHI APERTI](https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C) | 2:18 |
 
-Snapshot ID: `AAAAANI3DNTjs/JhFkK9TKafd+azzxLO`
+Snapshot ID: `AAAAAFLwlj8Ou2rV+Qj/+pb++4x8tCA+`

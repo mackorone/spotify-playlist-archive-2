@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,884 songs - 5 day 7 hr 57 min
+1,885 songs - 5 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -951,7 +951,7 @@
 | [LIFELINE](https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo) | 3:26 | 2024-05-10 | 2025-01-28 |
 | [Lifted](https://open.spotify.com/track/52aTqJfaWWLIHSC3bCyjoU) | [Oliver Michael](https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z), [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Lifted](https://open.spotify.com/album/57HPihU8Vbc36hgYSqlFUh) | 3:15 | 2024-04-05 | 2024-04-11 |
 | [Light A Fire](https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Light A Fire](https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl) | 2:34 | 2022-05-20 | 2022-12-29 |
-| [Light in the Dark](https://open.spotify.com/track/4Ujt0vphNuVoXIaxkfKcwM) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE), [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Light in the Dark](https://open.spotify.com/album/0EBLHOBqzQAy27J7mBzaId) | 3:30 | 2026-04-09 |  |
+| [Light in the Dark](https://open.spotify.com/track/4Ujt0vphNuVoXIaxkfKcwM) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE), [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Light in the Dark](https://open.spotify.com/album/0EBLHOBqzQAy27J7mBzaId) | 3:30 | 2026-04-09 | 2026-04-21 |
 | [Light Of Day](https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Light Of Day](https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu) | 6:40 | 2022-07-15 | 2023-09-09 |
 | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/track/3yPd2RxNNcPwOV06zoexrv) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 6:40 | 2022-08-26 | 2022-09-10 |
 | [Light The Sky \- Charming Horses Remix Edit](https://open.spotify.com/track/3vVSHKaJydgDRa2xysZ2aF) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Airto](https://open.spotify.com/artist/7yyIIRJV6dklQEvISTzRjE), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3) | [Light The Sky \(The Remixes\)](https://open.spotify.com/album/0UcPRLzOQhcfCELuOJeato) | 3:31 | 2020-05-18 | 2020-07-03 |
@@ -1311,6 +1311,7 @@
 | [Pray for Us](https://open.spotify.com/track/49X931MF0VVnHFkhVU3M5r) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:46 | 2020-04-03 | 2020-10-09 |
 | [Pretty Good](https://open.spotify.com/track/07aFPwkdNSvNZvPg8B4dHs) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [E.VAX](https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF) | 3:10 | 2022-08-26 | 2022-09-10 |
 | [Prism](https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Prism](https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB) | 3:15 | 2024-02-09 | 2025-03-18 |
+| [Prisma](https://open.spotify.com/track/5gOH5ScZKSH64YHYyBwHLz) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Prisma EP](https://open.spotify.com/album/1w6AKkyX86b4oUheLb6add) | 4:11 | 2026-04-17 |  |
 | [Private Island \(coldbrew Remix\)](https://open.spotify.com/track/3zcUZg6MoJPHPjt7vM1wx7) | [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T), [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [Private Island \(coldbrew Remix\)](https://open.spotify.com/album/7JjYuptyDfJSIeGIZtiUr5) | 2:13 | 2020-08-06 | 2022-01-13 |
 | [Priviet](https://open.spotify.com/track/3e66lQYqNYhZX1X2mBeO4L) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Keeping the Little Things](https://open.spotify.com/album/1pT7zb48i6eE1YHC76IcLQ) | 4:55 | 2020-08-20 | 2020-10-09 |
 | [Problems](https://open.spotify.com/track/3GlJE0D0d8TsmcDLaCpVCq) | [Guille Alvarez](https://open.spotify.com/artist/4fe5ql9g8VB9jiBy37SuLY) | [Problems](https://open.spotify.com/album/1tPnmiEsktiEAVMjruALtI) | 2:37 | 2022-08-05 | 2022-10-13 |

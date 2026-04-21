@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 
 > Calm music to help you focus on your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,693 likes - 113 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,736 likes - 112 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 | 108 | [Ember Runner](https://open.spotify.com/track/4jZLoR7V67mcnbnDG0ldpw) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Favorite Hideaway](https://open.spotify.com/album/7gkJUPka0DFj7tIRazNW8B) | 2:41 |
 | 109 | [Winds of Wonder](https://open.spotify.com/track/2prKrojFxMm6Ctp1OfyCXl) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Present Patience](https://open.spotify.com/album/0Ka3k88d56pHMtyjt7vU6n) | 3:24 |
 | 110 | [Maximum](https://open.spotify.com/track/3ESsptWu4Z8Z8JVfGJhJMc) | [Coseae](https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09) | [Maximum](https://open.spotify.com/album/6Bsr1KL9hGFnFLghcCbytr) | 2:50 |
-| 111 | [Show Me How To Meditate And I Will Quit My Job](https://open.spotify.com/track/0gxBPjP8LUFnn0Mo688kxq) | [Mirrors Wellness Club](https://open.spotify.com/artist/6BLbWbtO3HgqEv4ECDhkGl), [Frankie Rivers](https://open.spotify.com/artist/0wpPRFQHoQ03Br1UHT98vp) | [Sound Bath in Watts](https://open.spotify.com/album/2Mgkgq4YvS1iqa21OhhMuW) | 3:59 |
-| 112 | [Reveries](https://open.spotify.com/track/1ZVTGSiQgZpat29115Whiv) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Reveries](https://open.spotify.com/album/4RqbjSBSX042YKc9X1NUKW) | 3:04 |
-| 113 | [Appalachia Borealis](https://open.spotify.com/track/7t9CBs8UgSpUOuKmst0UTe) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [Appalachia Borealis](https://open.spotify.com/album/6CGLtIg3MR7NfDINHlZCm8) | 3:34 |
+| 111 | [Reveries](https://open.spotify.com/track/1ZVTGSiQgZpat29115Whiv) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Reveries](https://open.spotify.com/album/4RqbjSBSX042YKc9X1NUKW) | 3:04 |
+| 112 | [Appalachia Borealis](https://open.spotify.com/track/7t9CBs8UgSpUOuKmst0UTe) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [Appalachia Borealis](https://open.spotify.com/album/6CGLtIg3MR7NfDINHlZCm8) | 3:34 |
 
-Snapshot ID: `AAAAAI+gL77xXfjFhj4inWwlgsx5XXOB`
+Snapshot ID: `AAAAAHEwe2EfCWYmKy+hqe3fayhVh15w`

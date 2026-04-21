@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Fresh from the recording to your ears\. Latest Hindi music, right here\. Cover \- Cocktail 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,614 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,757 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 65 | [Ishq Ka Fever \(From "O' Romeo"\)](https://open.spotify.com/track/2dvk0m6XYaZ4FTzx64HkB3) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Ishq Ka Fever \(From "O' Romeo"\)](https://open.spotify.com/album/3WjoJ5WQ8Jq0qXxkISufVa) | 3:25 |
 | 66 | [Jaan Se Guzarte Hain](https://open.spotify.com/track/0bdA7CMrqT1qJVwwhw2Yn4) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Khan Saab](https://open.spotify.com/artist/5Uo28tAylVBPPW2Cs8LFwN) | [Dhurandhar The Revenge](https://open.spotify.com/album/7eMMfuSyi30y0vNn2Vd0H4) | 5:32 |
 | 67 | [Hai Tujhko Bhulana](https://open.spotify.com/track/1FPJEaIqtxAe7bgxgP8LWS) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Pagalpan \- The Album](https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO) | 3:29 |
-| 68 | [Sawaal \- Acoustic](https://open.spotify.com/track/48kssygVRzLEGi5J6jOMNv) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Sawaal \(Acoustic\)](https://open.spotify.com/album/16YGKtfgHg1MoHV9oSaSqw) | 2:32 |
+| 68 | [Sawaal \- Acoustic](https://open.spotify.com/track/48kssygVRzLEGi5J6jOMNv) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Sawaal \(Acoustic\)](https://open.spotify.com/album/16YGKtfgHg1MoHV9oSaSqw) | 2:32 |
 | 69 | [Maza Pyaar Karne Mein \(feat\. Kumar Sanu\)](https://open.spotify.com/track/3ndIeDXqi9MDgxu0HuSBg7) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Raja Hindustani](https://open.spotify.com/album/6xUlvwWAmelBN0VLU4KYGd) | 3:32 |
 | 70 | [Chhaap Tilak \(From "Ginny Wedss Sunny 2"\)](https://open.spotify.com/track/769shmKjA8KqcMcP8WHqJf) | [Heer](https://open.spotify.com/artist/2xa9mQkvZzkBY1cPIi3m7q), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Amaan Noor](https://open.spotify.com/artist/77ZRSLJgrmoYa1MAzUwNZ4) | [Chhaap Tilak \(From "Ginny Wedss Sunny 2"\)](https://open.spotify.com/album/62bQoB2VMmLDnj0IdDbDK1) | 4:05 |
 | 71 | [Aashiqana](https://open.spotify.com/track/5VmmaElvu2KTB0mpUSGlMy) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx), [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Parvana](https://open.spotify.com/album/5haaCvmWOSBI362b3NRdZk) | 6:43 |

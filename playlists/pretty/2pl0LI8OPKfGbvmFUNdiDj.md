@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 745 likes - 85 songs - 4 hr 48 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 747 likes - 86 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 83 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 |
 | 84 | [Summertime](https://open.spotify.com/track/5tBQWcTJilTJC0PHmTmVlY) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Summertime](https://open.spotify.com/album/7BvYjg5CS0YE8SBM8v32m3) | 2:19 |
 | 85 | [1969](https://open.spotify.com/track/7mzfM2tTKNEgHIWdvXqJyQ) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Best Of](https://open.spotify.com/album/16zoHx9wW6EVMvPDo1sha5) | 3:30 |
+| 86 | [Latente](https://open.spotify.com/track/3ujkaYSzU2tRuRCnyB5w8e) | [No Hana](https://open.spotify.com/artist/2O6qXZs283cofBBPPxbMAT), [Diana Tagle](https://open.spotify.com/artist/2S6LlZoAlTysVqqOluxHWW) | [Latente](https://open.spotify.com/album/4kbpB8ADo8Zb0HTaAKwDyy) | 2:23 |
 
-Snapshot ID: `AAADd3AFheQ0p3p750mtN4nmB3UOoRDq`
+Snapshot ID: `AAADeHaVEIO1rW4ceOsO3Be+E3DhBhTA`

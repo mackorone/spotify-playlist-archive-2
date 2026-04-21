@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: Lumine
 
-1,018 songs - 2 day 4 hr 4 min
+1,019 songs - 2 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Bodies \(feat\. Bella Perozzi\)](https://open.spotify.com/track/2Qqbqn0qb8PimnpglA4Idn) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DJ All Empty](https://open.spotify.com/artist/1YiRziDwjPYotO0IIRAu5r), [Bella Perozzi](https://open.spotify.com/artist/0cZulQTrbZpr9BdG7v6pR9) | [Bodies \(feat\. Bella Perozzi\)](https://open.spotify.com/album/6INkTaTKXruqZBU1nIlDq4) | 2:58 | 2025-10-23 | 2025-11-28 |
 | [Body](https://open.spotify.com/track/1RgWXkfJJ5fYbNx4ENnFQx) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Body](https://open.spotify.com/album/01S9vuZSu35loQTJTSS6tS) | 2:30 | 2026-03-26 |  |
 | [Body](https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Body](https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8) | 3:14 | 2025-08-28 | 2025-10-03 |
+| [Bon Appetit](https://open.spotify.com/track/5bDILfPm7XmVmR9k19jc2K) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Bon Appetit](https://open.spotify.com/album/5hBvGREEjmTO69cEzHs4KD) | 2:59 | 2026-04-20 |  |
 | [Born To Be Lonely](https://open.spotify.com/track/64jxrtV3U1jWXAleUxlIIx) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Born To Be Lonely](https://open.spotify.com/album/2bo04wJjiFwDR4g7n1tBr3) | 2:23 | 2025-07-17 | 2025-08-29 |
 | [Bound To Be](https://open.spotify.com/track/0GxnVrhcIrwzAI4DNco1rK) | [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [Bound To Be](https://open.spotify.com/album/0nVdzmErK5yca6ul7Mna0n) | 2:48 | 2026-01-19 | 2026-02-20 |
 | [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 | 2025-07-17 | 2025-08-09 |
@@ -757,7 +758,7 @@
 | [Remedy](https://open.spotify.com/track/3wnui4xnyfaego3onuZmr3) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Remedy](https://open.spotify.com/album/1Or3vcdKpmll4qcZ41i4ZP) | 3:00 | 2025-10-02 | 2025-11-01 |
 | [Retro](https://open.spotify.com/track/50zApmNDUyoNgyQsvajnuI) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Retro](https://open.spotify.com/album/2YZnL0O55YwdWG9iAYB2C5) | 2:55 | 2025-07-17 | 2025-08-29 |
 | [Ricota](https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF), [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd) | [Ricota](https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN) | 2:25 | 2026-04-09 |  |
-| [Ride The Train](https://open.spotify.com/track/0y154XNZomXWZUjAXMiOSQ) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ) | [Ride The Train](https://open.spotify.com/album/06tcIN3sCWKP8q7VLhHKqi) | 3:54 | 2026-03-12 |  |
+| [Ride The Train](https://open.spotify.com/track/0y154XNZomXWZUjAXMiOSQ) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ) | [Ride The Train](https://open.spotify.com/album/06tcIN3sCWKP8q7VLhHKqi) | 3:54 | 2026-03-12 | 2026-04-21 |
 | [Right](https://open.spotify.com/track/5NaliF5YDYgIF0eToAuJBn) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Right](https://open.spotify.com/album/1FEooZjSxe1SytPZFR8xMW) | 3:06 | 2025-07-17 | 2025-08-15 |
 | [Right Now](https://open.spotify.com/track/69kA0r4P0OYNRunizcANLu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Right Now](https://open.spotify.com/album/7KLcjAjvk0hZjj7vWLuu7n) | 3:37 | 2025-08-07 | 2025-09-27 |
 | [Right Now](https://open.spotify.com/track/6ZqBZldD0LZFuDJgo5x6FL) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB), [Shilla](https://open.spotify.com/artist/46RRZQejikNAQDn87KvrmE) | [Right Now](https://open.spotify.com/album/5PZWNF7n9KyksLUx08xXe5) | 3:04 | 2026-03-26 |  |

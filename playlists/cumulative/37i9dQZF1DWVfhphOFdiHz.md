@@ -4,7 +4,7 @@
 
 > Bops and LGBTQIA+ artists only\. Cover: Priyanka
 
-500 songs - 1 day 2 hr 46 min
+501 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [I Am](https://open.spotify.com/track/6MVk4SW25q1CNENQE1RHyv) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [I Am](https://open.spotify.com/album/06AscAzNNnjwtxfzXgrElI) | 2:03 | 2024-06-17 | 2025-08-09 |
 | [I DON'T MIND](https://open.spotify.com/track/1HqC2eHaSky81mBIiPICok) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [I DON'T MIND](https://open.spotify.com/album/1JK4oCMxn4PyQ8OCSNe9ve) | 3:00 | 2025-09-05 | 2025-11-01 |
 | [I DON’T WANNA DO THIS ANYMORE](https://open.spotify.com/track/6FguetQoUCSHkng6Fe1ofO) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 3:31 | 2023-12-15 | 2024-04-06 |
+| [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 5:03 | 2026-04-20 |  |
 | [I JUST WANNA DANCE!](https://open.spotify.com/track/11hqkNchVpr8edC2AbtfRF) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT), [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [I JUST WANNA DANCE!](https://open.spotify.com/album/2t1FUKBXMSZvw0308pcLV5) | 3:10 | 2024-03-08 | 2025-05-31 |
 | [i think i like your girlfriend](https://open.spotify.com/track/4vfqtTA2gCEgorXHfay7XV) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [i think i like your girlfriend](https://open.spotify.com/album/4V9hYFIzK5hLLmxNEjyu2t) | 2:46 | 2023-12-15 | 2024-06-01 |
 | [I wanna see my friends dicks](https://open.spotify.com/track/0P1wKIjXnS8tSIawGJxv4t) | [Jordan Firstman](https://open.spotify.com/artist/6wCisGdDbWqLKDYDPfXcPR) | [I wanna see my friends dicks](https://open.spotify.com/album/4oJ6eDAZwR8Be2rW881AHR) | 2:30 | 2025-04-04 | 2025-11-01 |
@@ -430,7 +431,7 @@
 | [SUPERPOWER](https://open.spotify.com/track/4ljGJqdIiqywqMlAJ5lvAq) | [Pollyanna](https://open.spotify.com/artist/2y69gaZL8wD15wSB2Vl188) | [Weirdo](https://open.spotify.com/album/5vkfbZBILN90I0SWI6fzMM) | 2:31 | 2025-10-31 | 2026-01-15 |
 | [SUPERSONIC](https://open.spotify.com/track/3xaw7lWf3dmYsl7RZ8iMDn) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [Monochrome: The White Album](https://open.spotify.com/album/1aL1EchZPlpRwY07pJ6Zub) | 2:36 | 2025-09-05 | 2025-11-29 |
 | [surrender](https://open.spotify.com/track/6Iw8RkhQMg0CWBXsOGy1Ls) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [surrender](https://open.spotify.com/album/5CCSNp3sHWjiVVkdHQJlQs) | 3:39 | 2025-11-28 | 2026-01-15 |
-| [Sympathy Is A Knife](https://open.spotify.com/track/3DwoBh7cAfEOrSVWRUtgOE) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn), [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Sympathy Is A Knife](https://open.spotify.com/album/74FsBdVP7714hvE7BOu9So) | 3:29 | 2025-11-14 |  |
+| [Sympathy Is A Knife](https://open.spotify.com/track/3DwoBh7cAfEOrSVWRUtgOE) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn), [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Sympathy Is A Knife](https://open.spotify.com/album/74FsBdVP7714hvE7BOu9So) | 3:29 | 2025-11-14 | 2026-04-21 |
 | [Take It Slow](https://open.spotify.com/track/4i9TjoNNAjYEcgXJ1IX07u) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Take It Slow](https://open.spotify.com/album/0inDI68EUkhmQjo90QcVqh) | 2:19 | 2024-07-12 | 2025-09-06 |
 | [Take Me To Church](https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1) | [Spotify Singles](https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ) | 4:30 | 2023-12-15 | 2025-02-08 |
 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 | 2024-07-12 | 2025-05-31 |

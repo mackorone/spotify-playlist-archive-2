@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 598655,
+  "num_followers": 598695,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeLJgAAAAADYV3fHhxIKL+EmM130uZfw",
+  "snapshot_id": "aeQbAAAAAADPPCrsqv4a+JsJF1yIbQLc",
   "tracks": [
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "America's Suitehearts",
+      "url": "https://open.spotify.com/track/3Dg1BK3rHo6mCvzSO2b9Ct"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Believers Never Die - Greatest Hits",
         "url": "https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 229400,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "America's Suitehearts",
-      "url": "https://open.spotify.com/track/3Dg1BK3rHo6mCvzSO2b9Ct"
     },
     {
       "added_at": null,
@@ -811,22 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believers Never Die - Greatest Hits (Volume Two)",
-        "url": "https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd"
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
       },
       "artists": [
         {
           "name": "Fall Out Boy",
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
         }
       ],
-      "duration_ms": 170040,
-      "name": "Dear Future Self (Hands Up)",
-      "url": "https://open.spotify.com/track/1tm4Bl2E5RwTevOiBs4gtH"
+      "duration_ms": 192080,
+      "name": "27",
+      "url": "https://open.spotify.com/track/6gRgweWPiX1ii33coNlTt8"
     }
   ],
   "unique_name": "This Is Fall Out Boy",

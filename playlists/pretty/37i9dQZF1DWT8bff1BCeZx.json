@@ -1,29 +1,13 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 25030,
+  "num_followers": 25047,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMqTJ5Yx0li4zPhC3lDcANqxgBWW",
+  "snapshot_id": "AAAAADugoVmJW9Xutv2EhD1PYzKXGhZw",
   "tracks": [
-    {
-      "added_at": "2026-04-17 00:01:38",
-      "album": {
-        "name": "More than a Conqueror",
-        "url": "https://open.spotify.com/album/53z2riFjAI1PhfI3p7NFqJ"
-      },
-      "artists": [
-        {
-          "name": "Flames Angel",
-          "url": "https://open.spotify.com/artist/0O1PsCTzESOHo3HZFcwFUH"
-        }
-      ],
-      "duration_ms": 214497,
-      "name": "Mountain Mover",
-      "url": "https://open.spotify.com/track/6XkRTK0bVExX8NXhEdrITe"
-    },
     {
       "added_at": "2023-05-26 00:01:00",
       "album": {
@@ -271,30 +255,6 @@
       "duration_ms": 150312,
       "name": "God's Plan",
       "url": "https://open.spotify.com/track/5Bcvqq28rlCPy61XvClSQV"
-    },
-    {
-      "added_at": "2026-04-10 00:01:37",
-      "album": {
-        "name": "PHEZULU",
-        "url": "https://open.spotify.com/album/1dO3Y6U400UZbTTatRpxiy"
-      },
-      "artists": [
-        {
-          "name": "Mpilo West",
-          "url": "https://open.spotify.com/artist/5qSASw5aGWOfyHnZrVR8cf"
-        },
-        {
-          "name": "Deepkid RSA",
-          "url": "https://open.spotify.com/artist/1nxzAYhUMCE6o3uRwAxzw3"
-        },
-        {
-          "name": "Momo RSA",
-          "url": "https://open.spotify.com/artist/1xkXXWRbLxrqpevGE7eHI5"
-        }
-      ],
-      "duration_ms": 212430,
-      "name": "You Raise Me Up",
-      "url": "https://open.spotify.com/track/2NDUaoJ9h3mTXrAucL0Vv3"
     },
     {
       "added_at": "2025-02-28 00:01:32",

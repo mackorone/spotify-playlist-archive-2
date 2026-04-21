@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33925,
+  "num_followers": 33919,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-04-09 22:00:31",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 197116,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
-    },
-    {
-      "added_at": "2026-04-09 22:00:31",
-      "album": {
         "name": "Six O'Clock News",
         "url": "https://open.spotify.com/album/0djxhi0YKtQhZrRHXhlBLl"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 272722,
       "name": "Six O'Clock News",
       "url": "https://open.spotify.com/track/3kbSNJhl1oRRjgX8PBKYAE"
+    },
+    {
+      "added_at": "2026-04-09 22:00:31",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 197116,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
     },
     {
       "added_at": "2026-04-09 22:00:31",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-04-09 22:00:31",
       "album": {
-        "name": "The Machine (Radio Edit)",
-        "url": "https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3"
-      },
-      "artists": [
-        {
-          "name": "Jodymoon",
-          "url": "https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0"
-        }
-      ],
-      "duration_ms": 194741,
-      "name": "The Machine - Radio Edit",
-      "url": "https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE"
-    },
-    {
-      "added_at": "2026-04-09 22:00:31",
-      "album": {
         "name": "Heartbreak & Roses",
         "url": "https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 354760,
       "name": "Heartbreak & Roses",
       "url": "https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs"
+    },
+    {
+      "added_at": "2026-04-09 22:00:31",
+      "album": {
+        "name": "The Machine (Radio Edit)",
+        "url": "https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3"
+      },
+      "artists": [
+        {
+          "name": "Jodymoon",
+          "url": "https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0"
+        }
+      ],
+      "duration_ms": 194741,
+      "name": "The Machine - Radio Edit",
+      "url": "https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE"
     },
     {
       "added_at": "2026-04-09 22:00:31",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-04-09 22:00:31",
       "album": {
+        "name": "For Once",
+        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
+      },
+      "artists": [
+        {
+          "name": "A\u00e4ron Koch",
+          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
+        }
+      ],
+      "duration_ms": 237467,
+      "name": "For Once",
+      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
+    },
+    {
+      "added_at": "2026-04-09 22:00:31",
+      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 220212,
       "name": "Granite Mills",
       "url": "https://open.spotify.com/track/42IDWgfyuArjYaJ8uPlLrH"
-    },
-    {
-      "added_at": "2026-04-09 22:00:31",
-      "album": {
-        "name": "For Once",
-        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
-      },
-      "artists": [
-        {
-          "name": "A\u00e4ron Koch",
-          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
-        }
-      ],
-      "duration_ms": 237467,
-      "name": "For Once",
-      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
     },
     {
       "added_at": "2026-04-09 22:00:31",
@@ -815,22 +815,18 @@
     {
       "added_at": "2026-04-09 22:00:31",
       "album": {
-        "name": "Ain't No Running Around It",
-        "url": "https://open.spotify.com/album/4s7TyXJR2VHbobDIIp1JjE"
+        "name": "May",
+        "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
       },
       "artists": [
         {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        },
-        {
-          "name": "Nomden",
-          "url": "https://open.spotify.com/artist/3gcuehaPKk7YQiNG19k4fX"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 172813,
-      "name": "Ain't No Running Around It",
-      "url": "https://open.spotify.com/track/5AER6dbu2vF5W1fI8lcpoX"
+      "duration_ms": 193101,
+      "name": "Dear Maria",
+      "url": "https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i"
     },
     {
       "added_at": "2026-04-09 22:00:31",
@@ -851,42 +847,38 @@
     {
       "added_at": "2026-04-09 22:00:31",
       "album": {
-        "name": "May",
-        "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
+        "name": "The Fire Inside",
+        "url": "https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
         }
       ],
-      "duration_ms": 193101,
-      "name": "Dear Maria",
-      "url": "https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i"
+      "duration_ms": 215483,
+      "name": "The Fire Inside",
+      "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
     },
     {
       "added_at": "2026-04-09 22:00:31",
       "album": {
-        "name": "Three O'Clock Blues",
-        "url": "https://open.spotify.com/album/1d7909NAqNLO7JvzcDpuOA"
+        "name": "Ain't No Running Around It",
+        "url": "https://open.spotify.com/album/4s7TyXJR2VHbobDIIp1JjE"
       },
       "artists": [
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
         },
         {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        },
-        {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+          "name": "Nomden",
+          "url": "https://open.spotify.com/artist/3gcuehaPKk7YQiNG19k4fX"
         }
       ],
-      "duration_ms": 200306,
-      "name": "Three O'Clock Blues",
-      "url": "https://open.spotify.com/track/39YH9qL3tHtIJLBLXZyMhO"
+      "duration_ms": 172813,
+      "name": "Ain't No Running Around It",
+      "url": "https://open.spotify.com/track/5AER6dbu2vF5W1fI8lcpoX"
     }
   ],
   "unique_name": "Country & Americana",

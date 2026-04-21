@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAI9Ol/0IniWugvm0phRbAv63wc2OlL",
+  "snapshot_id": "AAAI+UrnBQRS8dLgdfiS0uFBbu+gwauG",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -11577,22 +11577,6 @@
       "url": "https://open.spotify.com/track/5T9GO8wAeBidT1vAobhGSE"
     },
     {
-      "added_at": "2026-03-27 14:30:55",
-      "album": {
-        "name": "WOR$T GIRL IN AMERICA",
-        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 287055,
-      "name": "DANCE...",
-      "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
-    },
-    {
       "added_at": "2026-03-26 01:18:39",
       "album": {
         "name": "Slanted & Enchanted",
@@ -11853,6 +11837,26 @@
       "url": "https://open.spotify.com/track/367GA7wOCuScxnLH5SlAup"
     },
     {
+      "added_at": "2026-04-20 15:20:20",
+      "album": {
+        "name": "To Whom This May Concern",
+        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "Maha Adachi Earth",
+          "url": "https://open.spotify.com/artist/5u0TvqNcTEFIhZq2iRkHrj"
+        }
+      ],
+      "duration_ms": 55235,
+      "name": "Dope Shit (feat. Maha Adachi Earth)",
+      "url": "https://open.spotify.com/track/2IkbYmNCtfC6tB1u6nd5Dn"
+    },
+    {
       "added_at": "2026-04-19 19:25:29",
       "album": {
         "name": "URGH",
@@ -11883,6 +11887,46 @@
       "duration_ms": 159600,
       "name": "Tilt",
       "url": "https://open.spotify.com/track/0ZV0aqU5aMLDDyAqfPf3dU"
+    },
+    {
+      "added_at": "2026-04-20 15:37:20",
+      "album": {
+        "name": "Darkskin Niggas with Lightskin Problems",
+        "url": "https://open.spotify.com/album/64YHSa0VHmG7Mb2oONXYKB"
+      },
+      "artists": [
+        {
+          "name": "Stickerbush",
+          "url": "https://open.spotify.com/artist/2wMCljuDDzLrEjYCk10P7B"
+        },
+        {
+          "name": "heavensouls",
+          "url": "https://open.spotify.com/artist/4H5ErCSnjrZpJYcwiJobCR"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "back in action",
+      "url": "https://open.spotify.com/track/7eFOG2217U6ooGeEv0fJ7e"
+    },
+    {
+      "added_at": "2026-04-20 18:26:40",
+      "album": {
+        "name": "The Doober",
+        "url": "https://open.spotify.com/album/0UpgnNkIkta5tDr8l8NQIS"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "duration_ms": 101467,
+      "name": "CIRCLE",
+      "url": "https://open.spotify.com/track/1KDlkUvgWmRHe2E5DV9SCW"
     }
   ],
   "unique_name": "Zacklog",

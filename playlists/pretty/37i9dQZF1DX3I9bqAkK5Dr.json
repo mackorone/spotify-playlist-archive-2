@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Anirudh Suswaram",
-  "num_followers": 43883,
+  "num_followers": 43888,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALFJbtu99fdzPpPaXIzXhi6SMlNb",
+  "snapshot_id": "AAAAAHvbQKQb0xgrdfbTtXwN3y94vqeJ",
   "tracks": [
     {
       "added_at": "2026-04-17 15:16:21",
@@ -235,6 +235,26 @@
       "duration_ms": 208000,
       "name": "Smitas Bhimavaram Beat",
       "url": "https://open.spotify.com/track/7mXzY17QD7sHky5hi5p1OZ"
+    },
+    {
+      "added_at": "2026-04-20 05:40:31",
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/49gYGDm94M6ldRlrIr34LE"
+      },
+      "artists": [
+        {
+          "name": "Roll Rida",
+          "url": "https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj"
+        },
+        {
+          "name": "Agastya Raag",
+          "url": "https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I"
+        }
+      ],
+      "duration_ms": 205290,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/3l5EhKoxEuLXacDSVriuYy"
     },
     {
       "added_at": "2026-01-20 05:55:26",

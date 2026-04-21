@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de abril 2026. Cover: Trueno",
-  "num_followers": 1556730,
+  "num_followers": 1556666,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,26 @@
     {
       "added_at": "2026-04-17 04:03:53",
       "album": {
+        "name": "Injusto - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5vZ13fB8CvXLBIpFTFPLkE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 284336,
+      "name": "Injusto - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/10nKyJBzqs6RqvBGxZpcbd"
+    },
+    {
+      "added_at": "2026-04-17 04:03:53",
+      "album": {
         "name": "barquito (bonus track)",
         "url": "https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ"
       },
@@ -379,26 +399,6 @@
     {
       "added_at": "2026-04-17 04:03:53",
       "album": {
-        "name": "Injusto - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5vZ13fB8CvXLBIpFTFPLkE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 284336,
-      "name": "Injusto - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/10nKyJBzqs6RqvBGxZpcbd"
-    },
-    {
-      "added_at": "2026-04-17 04:03:53",
-      "album": {
         "name": "\u00bfte ACUERDAS de mi?",
         "url": "https://open.spotify.com/album/4p1LeCsBKpNwg318Z7iIsP"
       },
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-04-17 04:03:53",
       "album": {
-        "name": "Los Paraca\u00eddas",
-        "url": "https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 189429,
-      "name": "Los Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl"
-    },
-    {
-      "added_at": "2026-04-17 04:03:53",
-      "album": {
         "name": "kiss goodbye / brb",
         "url": "https://open.spotify.com/album/45omOM9b7ujbjudttnasFa"
       },
@@ -451,8 +435,24 @@
     {
       "added_at": "2026-04-17 04:03:53",
       "album": {
-        "name": "no me importa",
-        "url": "https://open.spotify.com/album/3Tbq5jFyncpgjEiZeJH5mL"
+        "name": "Los Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 189429,
+      "name": "Los Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl"
+    },
+    {
+      "added_at": "2026-04-17 04:03:53",
+      "album": {
+        "name": "esperando que vuelvas",
+        "url": "https://open.spotify.com/album/1vqUjUxGNccr4r4kgFTd7M"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         }
       ],
-      "duration_ms": 200767,
-      "name": "no me importa",
-      "url": "https://open.spotify.com/track/6O4QnV6zuewfbBhVW4YghD"
+      "duration_ms": 216594,
+      "name": "esperando que vuelvas",
+      "url": "https://open.spotify.com/track/7hOpmWDACdtAeuksK2BseS"
     },
     {
       "added_at": "2026-04-17 04:03:53",
@@ -479,6 +479,22 @@
       "duration_ms": 187114,
       "name": "pecos",
       "url": "https://open.spotify.com/track/1U4gvn7EQFC2RQgaYEthVa"
+    },
+    {
+      "added_at": "2026-04-17 04:03:53",
+      "album": {
+        "name": "Una Vez Y Ya",
+        "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "duration_ms": 154506,
+      "name": "Una Vez Y Ya",
+      "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"
     },
     {
       "added_at": "2026-04-17 04:03:53",
@@ -503,22 +519,6 @@
     {
       "added_at": "2026-04-17 04:03:53",
       "album": {
-        "name": "Una Vez Y Ya",
-        "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
-      },
-      "artists": [
-        {
-          "name": "RIA",
-          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "Una Vez Y Ya",
-      "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"
-    },
-    {
-      "added_at": "2026-04-17 04:03:53",
-      "album": {
         "name": "brb",
         "url": "https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl"
       },
@@ -535,8 +535,8 @@
     {
       "added_at": "2026-04-17 04:03:53",
       "album": {
-        "name": "esperando que vuelvas",
-        "url": "https://open.spotify.com/album/1vqUjUxGNccr4r4kgFTd7M"
+        "name": "no me importa",
+        "url": "https://open.spotify.com/album/3Tbq5jFyncpgjEiZeJH5mL"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         }
       ],
-      "duration_ms": 216594,
-      "name": "esperando que vuelvas",
-      "url": "https://open.spotify.com/track/7hOpmWDACdtAeuksK2BseS"
+      "duration_ms": 200767,
+      "name": "no me importa",
+      "url": "https://open.spotify.com/track/6O4QnV6zuewfbBhVW4YghD"
     },
     {
       "added_at": "2026-04-17 04:03:53",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-04-17 04:03:53",
       "album": {
-        "name": "(todo lo que haces para no acordarte de mi)",
-        "url": "https://open.spotify.com/album/5xVfYjfD6MMIg9xq9KLyvj"
-      },
-      "artists": [
-        {
-          "name": "nic",
-          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
-        }
-      ],
-      "duration_ms": 149931,
-      "name": "(todo lo que haces para no acordarte de mi)",
-      "url": "https://open.spotify.com/track/1LSZR83twS1UYcydCYzx9E"
-    },
-    {
-      "added_at": "2026-04-17 04:03:53",
-      "album": {
         "name": "D U L C E",
         "url": "https://open.spotify.com/album/6L9ASSKb4Y5vRmNTJqRfMV"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2026-04-17 04:03:53",
       "album": {
-        "name": "O\u00eddos Sordos",
-        "url": "https://open.spotify.com/album/1q0EMeWp6yXKG5iYbolRE4"
+        "name": "(todo lo que haces para no acordarte de mi)",
+        "url": "https://open.spotify.com/album/5xVfYjfD6MMIg9xq9KLyvj"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
         }
       ],
-      "duration_ms": 214831,
-      "name": "O\u00eddos Sordos",
-      "url": "https://open.spotify.com/track/13NTcv9NSptJaE14Bpa17C"
+      "duration_ms": 149931,
+      "name": "(todo lo que haces para no acordarte de mi)",
+      "url": "https://open.spotify.com/track/1LSZR83twS1UYcydCYzx9E"
     },
     {
       "added_at": "2026-04-17 04:03:53",
@@ -647,6 +631,22 @@
     {
       "added_at": "2026-04-17 04:03:53",
       "album": {
+        "name": "O\u00eddos Sordos",
+        "url": "https://open.spotify.com/album/1q0EMeWp6yXKG5iYbolRE4"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 214831,
+      "name": "O\u00eddos Sordos",
+      "url": "https://open.spotify.com/track/13NTcv9NSptJaE14Bpa17C"
+    },
+    {
+      "added_at": "2026-04-17 04:03:53",
+      "album": {
         "name": "La M\u00e1quina",
         "url": "https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa"
       },
@@ -659,26 +659,6 @@
       "duration_ms": 154912,
       "name": "La M\u00e1quina",
       "url": "https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ"
-    },
-    {
-      "added_at": "2026-04-17 04:03:53",
-      "album": {
-        "name": "(pablo)",
-        "url": "https://open.spotify.com/album/0IYvugDtQZMtKmePc4N2UZ"
-      },
-      "artists": [
-        {
-          "name": "nic",
-          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 198351,
-      "name": "(pablo)",
-      "url": "https://open.spotify.com/track/1XSW7SenbLKKkRVvmmkoEo"
     },
     {
       "added_at": "2026-04-17 04:03:53",
@@ -699,6 +679,26 @@
       "duration_ms": 147000,
       "name": "UN PIKETON",
       "url": "https://open.spotify.com/track/7cF71NBxGJjBo6k7ssiiJu"
+    },
+    {
+      "added_at": "2026-04-17 04:03:53",
+      "album": {
+        "name": "(pablo)",
+        "url": "https://open.spotify.com/album/0IYvugDtQZMtKmePc4N2UZ"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 198351,
+      "name": "(pablo)",
+      "url": "https://open.spotify.com/track/1XSW7SenbLKKkRVvmmkoEo"
     },
     {
       "added_at": "2026-04-17 04:03:53",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-04-17 04:03:53",
       "album": {
+        "name": "no te vayas",
+        "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "duration_ms": 194890,
+      "name": "no te vayas",
+      "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
+    },
+    {
+      "added_at": "2026-04-17 04:03:53",
+      "album": {
         "name": "SIEMPRE T PIENSO",
         "url": "https://open.spotify.com/album/33HbQ8Az3usBCUoQKaUxiH"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 164105,
       "name": "RAINFOREST",
       "url": "https://open.spotify.com/track/2TRmbPMesBxEaFVODHcNkJ"
-    },
-    {
-      "added_at": "2026-04-17 04:03:53",
-      "album": {
-        "name": "no te vayas",
-        "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
-      },
-      "artists": [
-        {
-          "name": "Sparklmami",
-          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
-        }
-      ],
-      "duration_ms": 194890,
-      "name": "no te vayas",
-      "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
     },
     {
       "added_at": "2026-04-17 04:03:53",

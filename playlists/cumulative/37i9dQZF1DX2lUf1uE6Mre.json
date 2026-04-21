@@ -2697,6 +2697,24 @@
     },
     {
       "album": {
+        "name": "DON'T STOP",
+        "url": "https://open.spotify.com/album/75d1zgNLvFKDRx6uwNBwZ2"
+      },
+      "artists": [
+        {
+          "name": "Josi",
+          "url": "https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126125,
+      "name": "DON'T STOP",
+      "url": "https://open.spotify.com/track/2A4TPMbJQxxppjPEui035c"
+    },
+    {
+      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/1cOvy0q3RBQyHV0BGPZhE5"
       },
@@ -9970,7 +9988,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 166266,
       "name": "Zirkusmanege",
       "url": "https://open.spotify.com/track/3VQCRDEeYv9u2z1sFazgGs"

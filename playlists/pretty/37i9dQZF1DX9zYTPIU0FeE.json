@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Spha Mdlalose",
-  "num_followers": 13339,
+  "num_followers": 13349,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-04-09 22:02:59",
       "album": {
+        "name": "Ndilapha",
+        "url": "https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax"
+      },
+      "artists": [
+        {
+          "name": "Nomfundo Xaluva",
+          "url": "https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE"
+        }
+      ],
+      "duration_ms": 257096,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/1v0x492mSc227x9PSJWfw7"
+    },
+    {
+      "added_at": "2026-04-09 22:02:59",
+      "album": {
         "name": "Come Home (feat. Filah Lah Lah)",
         "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 366048,
       "name": "Come Home (feat. Filah Lah Lah)",
       "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
-    },
-    {
-      "added_at": "2026-04-09 22:02:59",
-      "album": {
-        "name": "Ndilapha",
-        "url": "https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax"
-      },
-      "artists": [
-        {
-          "name": "Nomfundo Xaluva",
-          "url": "https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE"
-        }
-      ],
-      "duration_ms": 257096,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/1v0x492mSc227x9PSJWfw7"
     },
     {
       "added_at": "2026-04-09 22:02:59",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-04-09 22:02:59",
       "album": {
-        "name": "A Semblance: Of Return",
-        "url": "https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl"
-      },
-      "artists": [
-        {
-          "name": "Asher Gamedze",
-          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
-        }
-      ],
-      "duration_ms": 393781,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk"
-    },
-    {
-      "added_at": "2026-04-09 22:02:59",
-      "album": {
         "name": "The Crossover II",
         "url": "https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 129998,
       "name": "Brunch In Harlem",
       "url": "https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9"
+    },
+    {
+      "added_at": "2026-04-09 22:02:59",
+      "album": {
+        "name": "A Semblance: Of Return",
+        "url": "https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl"
+      },
+      "artists": [
+        {
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+        }
+      ],
+      "duration_ms": 393781,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk"
     },
     {
       "added_at": "2026-04-09 22:02:59",
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-04-09 22:02:59",
       "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/2FxrAPMVpvhLHVlmUzc1SH"
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
       },
       "artists": [
         {
-          "name": "Asher Gamedze",
-          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+          "name": "Lucas Senyatso",
+          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
         }
       ],
-      "duration_ms": 311750,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ"
+      "duration_ms": 236202,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
     },
     {
       "added_at": "2026-04-09 22:02:59",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-04-09 22:02:59",
       "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/2FxrAPMVpvhLHVlmUzc1SH"
+      },
+      "artists": [
+        {
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+        }
+      ],
+      "duration_ms": 311750,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ"
+    },
+    {
+      "added_at": "2026-04-09 22:02:59",
+      "album": {
         "name": "ANXIOUSLY PREOCCUPIED",
         "url": "https://open.spotify.com/album/5zgywYv1iXrgnJt8BbVGvi"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 222857,
       "name": "speak now",
       "url": "https://open.spotify.com/track/1U7EDHJNa3CbkI5AxyzykX"
-    },
-    {
-      "added_at": "2026-04-09 22:02:59",
-      "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
-      },
-      "artists": [
-        {
-          "name": "Lucas Senyatso",
-          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
-        }
-      ],
-      "duration_ms": 236202,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
     },
     {
       "added_at": "2026-04-09 22:02:59",
@@ -927,26 +927,26 @@
     {
       "added_at": "2026-04-09 22:02:59",
       "album": {
-        "name": "People of the South",
-        "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU"
       },
       "artists": [
         {
-          "name": "Viwe Mkizwana Ensemble",
-          "url": "https://open.spotify.com/artist/55ApiGaA8X85InUI3yFxUg"
+          "name": "Tutu Puoane",
+          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
         },
         {
-          "name": "Bokani Dyer",
-          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
         },
         {
-          "name": "Marcus Wyatt",
-          "url": "https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4"
+          "name": "Jacomo Bairos",
+          "url": "https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3"
         }
       ],
-      "duration_ms": 345520,
-      "name": "People of the South",
-      "url": "https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu"
+      "duration_ms": 416493,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
     },
     {
       "added_at": "2026-04-09 22:02:59",
@@ -1007,32 +1007,32 @@
     {
       "added_at": "2026-04-09 22:02:59",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU"
+        "name": "People of the South",
+        "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
       },
       "artists": [
         {
-          "name": "Tutu Puoane",
-          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
+          "name": "Viwe Mkizwana Ensemble",
+          "url": "https://open.spotify.com/artist/55ApiGaA8X85InUI3yFxUg"
         },
         {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
         },
         {
-          "name": "Jacomo Bairos",
-          "url": "https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3"
+          "name": "Marcus Wyatt",
+          "url": "https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4"
         }
       ],
-      "duration_ms": 416493,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
+      "duration_ms": 345520,
+      "name": "People of the South",
+      "url": "https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu"
     },
     {
       "added_at": "2026-04-09 22:02:59",
       "album": {
-        "name": "ISIGQI (live at the bird's eye)",
-        "url": "https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM"
+        "name": "IZIBONGO",
+        "url": "https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg"
       },
       "artists": [
         {
@@ -1040,9 +1040,25 @@
           "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
         }
       ],
-      "duration_ms": 440654,
-      "name": "Kwandebele (Live)",
-      "url": "https://open.spotify.com/track/7E3YyD6mxgpEXjeXAEvU5E"
+      "duration_ms": 412966,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ"
+    },
+    {
+      "added_at": "2026-04-09 22:02:59",
+      "album": {
+        "name": "H.O.P.E (Holding On to Positive Expectations)",
+        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
+      },
+      "artists": [
+        {
+          "name": "Ofentse Moses Sebula",
+          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
+        }
+      ],
+      "duration_ms": 365000,
+      "name": "H.O.P.E",
+      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
     },
     {
       "added_at": "2026-04-09 22:02:59",
@@ -1063,22 +1079,6 @@
       "duration_ms": 159000,
       "name": "Mbuluzi / the flute song",
       "url": "https://open.spotify.com/track/5w5sZ3vPzXgbGiNfLeBSY1"
-    },
-    {
-      "added_at": "2026-04-09 22:02:59",
-      "album": {
-        "name": "H.O.P.E (Holding On to Positive Expectations)",
-        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
-      },
-      "artists": [
-        {
-          "name": "Ofentse Moses Sebula",
-          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
-        }
-      ],
-      "duration_ms": 365000,
-      "name": "H.O.P.E",
-      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
     },
     {
       "added_at": "2026-04-09 22:02:59",

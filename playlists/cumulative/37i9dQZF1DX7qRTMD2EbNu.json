@@ -98,7 +98,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 138240,
       "name": "100%",
       "url": "https://open.spotify.com/track/7Kn3I0yl0U7r5CE0Iym7yg"
@@ -1762,10 +1762,28 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 167341,
       "name": "ANTWI",
       "url": "https://open.spotify.com/track/6rQBxPjJuEmnjZXvch4D2Q"
+    },
+    {
+      "album": {
+        "name": "The Odyssey",
+        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Ara No Dey Sleep",
+      "url": "https://open.spotify.com/track/3sQgX4EW0lnLYr0BAbPA9g"
     },
     {
       "album": {
@@ -3934,7 +3952,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 129278,
       "name": "COBRA",
       "url": "https://open.spotify.com/track/2j1uhehKZpNwEbjOKoG8VT"
@@ -4758,7 +4776,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 159589,
       "name": "Do My Best",
       "url": "https://open.spotify.com/track/2H8PzL5YLaUyTNxtjqlt6F"
@@ -8060,7 +8078,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 321000,
       "name": "HELL'S KITCHEN",
       "url": "https://open.spotify.com/track/05cwkslzKM92359BUTwgsF"
@@ -8124,7 +8142,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 134399,
       "name": "Higher Place",
       "url": "https://open.spotify.com/track/6koQEuARnaW5l3lvhx3mZs"
@@ -8188,6 +8206,24 @@
       "duration_ms": 210755,
       "name": "Hmm - Remix",
       "url": "https://open.spotify.com/track/62slPHVX1XEFfdoxaUtosU"
+    },
+    {
+      "album": {
+        "name": "PLAYMAN",
+        "url": "https://open.spotify.com/album/5vOuUhzxjTyoTiW0HsOKjL"
+      },
+      "artists": [
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213348,
+      "name": "Hold Tight",
+      "url": "https://open.spotify.com/track/2G6OdggLpTjbKu8qsdiwBI"
     },
     {
       "album": {
@@ -10450,7 +10486,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 125050,
       "name": "Masallaci",
       "url": "https://open.spotify.com/track/33VYsUAdBLXYfwDm657qpJ"
@@ -13908,7 +13944,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 72000,
       "name": "PSA",
       "url": "https://open.spotify.com/track/6A2ebely8FlDFE8eTFg1pH"
@@ -13952,7 +13988,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 149438,
       "name": "PTSD II",
       "url": "https://open.spotify.com/track/6MTKNlvUf8G7kQjTofEF1P"
@@ -16448,7 +16484,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 204956,
       "name": "Suman 2.0 - Remix",
       "url": "https://open.spotify.com/track/2RWXobhFZmTWLRUO5cCKUT"
@@ -18484,7 +18520,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 116000,
       "name": "What\u2019s Up",
       "url": "https://open.spotify.com/track/14majQVTXSpC2HthtSWd2y"
@@ -18740,6 +18776,32 @@
       "duration_ms": 179825,
       "name": "Wins & Losses",
       "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
+    },
+    {
+      "album": {
+        "name": "Wish I Had a Girlfriend",
+        "url": "https://open.spotify.com/album/5JwvAk323bdKjwnSNiAwJw"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168663,
+      "name": "Wish I Had a Girlfriend",
+      "url": "https://open.spotify.com/track/7lONsH3aDoLHCBkAB3Pa4L"
     },
     {
       "album": {
@@ -19266,6 +19328,24 @@
       "duration_ms": 154723,
       "name": "YARD",
       "url": "https://open.spotify.com/track/1DyEnuuMTy2fh3ZZTd0cUf"
+    },
+    {
+      "album": {
+        "name": "Redemption Valley",
+        "url": "https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165981,
+      "name": "Yawa (Hosanna)",
+      "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
     },
     {
       "album": {

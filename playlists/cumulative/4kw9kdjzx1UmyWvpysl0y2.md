@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,214 songs - 2 day 19 hr 37 min
+1,215 songs - 2 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Crazy](https://open.spotify.com/track/4nrkuhPnpgAd4NFm908YoW) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Crazy](https://open.spotify.com/album/0mbxkLiiUPXgvNNP0FNjeE) | 3:26 | 2025-03-05 | 2025-05-30 |
 | [CREATION OF DISGUST](https://open.spotify.com/track/12Ekt7NiSWR0CJWIgVK37m) | [Avance](https://open.spotify.com/artist/7jIewPOjOwffB1mcJIk4vP), [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [CREATION OF DISGUST](https://open.spotify.com/album/0KLFcQSTmJH4V1UWSkue2b) | 3:21 | 2024-03-25 | 2024-06-11 |
 | [Crisis](https://open.spotify.com/track/5dqSozImkn085i3ljNKVLH) | [Solomon France](https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp), [Hailure](https://open.spotify.com/artist/1CVix4Yg8Q2o8YCFGNQUrn) | [Crisis / Magazine](https://open.spotify.com/album/3OssBn9F6T2VSaCjZ150lv) | 3:13 | 2024-07-11 | 2024-10-04 |
+| [CRUEL!](https://open.spotify.com/track/5S8CRlSJxNhu9Auji1u3ZI) | [OSSIEN](https://open.spotify.com/artist/2P7X4Jb4H4hjoQyWUvKs9s), [zoska](https://open.spotify.com/artist/3PUGGjaM7gnyEvIGfWYwh6) | [CRUEL!](https://open.spotify.com/album/0pcCbKYElscFF67gUZQg6H) | 3:11 | 2026-04-20 |  |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-10 | 2022-05-21 |
 | [CRY \- Borgore Remix](https://open.spotify.com/track/6ekIi6kltHC195Y4z6vMb0) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Someone You Can Count On \(The Remixes\)](https://open.spotify.com/album/0QWKmiHrLOhsSp2r8vx40l) | 4:18 | 2023-07-17 | 2023-12-14 |
 | [Crystal Cave](https://open.spotify.com/track/5Vu7U8dOSZFfWlLTyPXhUS) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM) | [Crystal Cave](https://open.spotify.com/album/1pdQbefpBh3GisI3fDW59T) | 2:29 | 2025-04-29 | 2025-07-24 |
@@ -496,7 +497,7 @@
 | [High](https://open.spotify.com/track/2Ej2CTyhrhOg0AXY1LkWNT) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [High](https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ) | 2:52 | 2023-07-18 | 2023-12-14 |
 | [High Enough](https://open.spotify.com/track/6qv0ptzHveUZEy4cwxoRg3) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [High Enough](https://open.spotify.com/album/1a9TrMvaBz287m64GsDsak) | 2:57 | 2023-08-02 | 2023-12-14 |
 | [High Octane](https://open.spotify.com/track/3SsRCTJzSTkf6pX8Yf1cU2) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [High Octane](https://open.spotify.com/album/5Oju8kpo1S0PxcpF83pdIu) | 1:50 | 2024-11-27 | 2025-03-08 |
-| [Higher \(Rampage Open Air 2026 Anthem\)](https://open.spotify.com/track/4CXWY9ETaEFPQmrjCYecI4) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [V O E](https://open.spotify.com/artist/3t8Pn6gip5ndfX7mGIymYm), [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl) | [Higher \(Rampage Open Air 2026 Anthem\)](https://open.spotify.com/album/1arSZPYhYaAsEmAYcdepNp) | 3:35 | 2026-04-06 |  |
+| [Higher \(Rampage Open Air 2026 Anthem\)](https://open.spotify.com/track/4CXWY9ETaEFPQmrjCYecI4) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [V O E](https://open.spotify.com/artist/3t8Pn6gip5ndfX7mGIymYm), [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl) | [Higher \(Rampage Open Air 2026 Anthem\)](https://open.spotify.com/album/1arSZPYhYaAsEmAYcdepNp) | 3:35 | 2026-04-06 | 2026-04-21 |
 | [Higher Ground](https://open.spotify.com/track/2adNW24fEA2QaP7uc7pFl7) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Higher Ground \(Part 2\)](https://open.spotify.com/album/5qNseEHrO1JH7H8iDVm3J6) | 3:21 | 2023-03-02 | 2023-05-30 |
 | [Higher Peaks](https://open.spotify.com/track/1PpLf7d6YnJ4SyjqmXR5VG) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Higher Peaks](https://open.spotify.com/album/0jGDUCzOBcximXf2HnHfuv) | 5:07 | 2022-06-10 | 2022-08-23 |
 | [Hit My Line](https://open.spotify.com/track/30CCIjlZ9vSb6ZTDwlEUZX) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Hit My Line](https://open.spotify.com/album/1jsCz6z1vazhH54A8z88gS) | 2:35 | 2023-01-31 | 2023-04-18 |

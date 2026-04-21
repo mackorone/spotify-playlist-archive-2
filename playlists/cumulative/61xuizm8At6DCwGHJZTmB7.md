@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 Christian
 
-743 songs - 2 day 23 hr 32 min
+744 songs - 2 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Hosanna](https://open.spotify.com/track/7J0lCOIaInKTSNclKJL1kU) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Take Heart \(Again\)](https://open.spotify.com/album/6HcqVBH2iWODP7vYAuvR8O) | 4:37 | 2022-03-15 | 2022-04-02 |
 | [House of God \- Live](https://open.spotify.com/track/5C6LXBvnV0S9gnnq4VCAC4) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Zach Johnson](https://open.spotify.com/artist/4pTMvrRvcRMeh3zMiqE39l) | [House of God \(Live\)](https://open.spotify.com/album/3c78hcVrVuOCq23GMQ0mcR) | 4:12 | 2024-06-07 | 2024-09-10 |
 | [House Of The Lord](https://open.spotify.com/track/6QHLLowPOgsmh8P8NUdLdu) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [House Of The Lord](https://open.spotify.com/album/4fzWvOYmzJ2gv1hhYQZTGx) | 4:11 | 2022-03-11 | 2022-04-05 |
+| [How Awesome](https://open.spotify.com/track/5oF4UsxUmNg0MIveexiwOX) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [How Awesome](https://open.spotify.com/album/160z96t098nZ0kjU9b2ZAU) | 7:56 | 2026-04-20 |  |
 | [How Good It Is](https://open.spotify.com/track/0vJOXzOybkJy7yQsdVt0Jg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Good It Is](https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc) | 3:56 | 2025-07-11 |  |
 | [How Great Is Our God](https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 | 2022-05-27 | 2023-04-15 |
 | [How Great Is The Greatness Of God \- Live](https://open.spotify.com/track/01CUfTSNq5ezINj1MyGuBr) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9) | [How Great Is The Greatness Of God \(Live\)](https://open.spotify.com/album/1QSwnSoqgAPTq3T1vmaRMK) | 3:44 | 2024-10-18 | 2026-02-07 |

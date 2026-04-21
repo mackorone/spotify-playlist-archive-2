@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 
 > Music Cristiana para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,758 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,760 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 | 34 | [Abre mis ojos Señor](https://open.spotify.com/track/5JtKa9IFa64S930qzTX26R) | [Niños Adorando](https://open.spotify.com/artist/1PYUF0VPXFO1yLg3heK1Nb) | [Niños Adorando Vol2](https://open.spotify.com/album/1sLgQdb9ZXuT8fXFClixPU) | 4:43 |
 | 35 | [Creemos Que Lo Harás](https://open.spotify.com/track/73T8cyCY1iKEYBBC4eC15p) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Buen Dios](https://open.spotify.com/album/0FQXX9CsG8UQzBirc7jLIy) | 3:41 |
 | 36 | [Jesús, Mi Salvador](https://open.spotify.com/track/3ryVGls7EECMk2qlXySJDm) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [La Creación](https://open.spotify.com/album/07VDOOTqOTnSRKkcQUAtlC) | 4:20 |
-| 37 | [El Padre Abraham](https://open.spotify.com/track/4hFTrfayKWmdQWCiSbiq9T) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [El Guerrero David](https://open.spotify.com/album/6s6B6C8rvHS6pzDvJefB18) | 1:56 |
-| 38 | [La Creación](https://open.spotify.com/track/40nl5kCXsFg4XqvJXHoB5N) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [La Creación](https://open.spotify.com/album/07VDOOTqOTnSRKkcQUAtlC) | 3:09 |
+| 37 | [La Creación](https://open.spotify.com/track/40nl5kCXsFg4XqvJXHoB5N) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [La Creación](https://open.spotify.com/album/07VDOOTqOTnSRKkcQUAtlC) | 3:09 |
+| 38 | [El Padre Abraham](https://open.spotify.com/track/4hFTrfayKWmdQWCiSbiq9T) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [El Guerrero David](https://open.spotify.com/album/6s6B6C8rvHS6pzDvJefB18) | 1:56 |
 | 39 | [Creo en Ti](https://open.spotify.com/track/1RQnDgL3pRJzMUhog19Rol) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Creo en Ti](https://open.spotify.com/album/3BPOlDBdVoKcKSIkyjzk1V) | 3:22 |
 | 40 | [Siempre Que Me Muevo](https://open.spotify.com/track/4ffiY4HwsRdFFmomDpthhS) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Siempre Que Me Muevo](https://open.spotify.com/album/3OpO3LBKii51mIGwH8uxBz) | 3:06 |
 

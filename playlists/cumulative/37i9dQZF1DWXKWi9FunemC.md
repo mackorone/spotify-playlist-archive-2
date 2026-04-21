@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-429 songs - 1 day 3 hr 27 min
+431 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Anywhere](https://open.spotify.com/track/3ttUhmMipgjIBjfp0TatCm) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Anywhere](https://open.spotify.com/album/2nj79DhXjioJcFbp6L93WD) | 4:57 | 2024-06-23 | 2025-10-11 |
 | [Ashes to Skies](https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Ashes to Skies](https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX) | 4:34 | 2020-08-31 | 2024-06-24 |
 | [At The Table](https://open.spotify.com/track/0bKJZa5lv1KsL6UKiDAdJK) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [At The Table](https://open.spotify.com/album/4V1Evh0o7deYLAKbKbuWn3) | 1:34 | 2025-10-10 |  |
+| [At Your Side](https://open.spotify.com/track/2we6DrxIY3fD5oBgj0tqPE) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Bianca Silver](https://open.spotify.com/artist/5pGOCZ0PkA35ZGyOxgBeHL) | [At Your Side](https://open.spotify.com/album/6UcD2nUlPwJGW4Kz8MzQDI) | 2:38 | 2026-04-17 |  |
 | [Avalanche \- Piano Version](https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [VILLAIN](https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL) | 4:06 | 2020-08-31 | 2023-09-14 |
 | [Avalanche \- Piano Version](https://open.spotify.com/track/7gfCmyLiGPkufPJdTErWar) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [Avalanche \(Piano Version\)](https://open.spotify.com/album/6xmA1KDv1uCv8tccOoPqRK) | 4:06 | 2020-08-31 | 2022-07-29 |
 | [back to life](https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [back to life](https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY) | 2:18 | 2025-08-06 | 2026-04-18 |
@@ -74,7 +75,7 @@
 | [Cloud](https://open.spotify.com/track/1OWwOQxvXElGhT7PX5acpn) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Cloud](https://open.spotify.com/album/4DbQACQLLMvxUF9ooleJOT) | 4:03 | 2025-08-06 |  |
 | [Cold Of The Night](https://open.spotify.com/track/1hVu0KC031qLlIn8UPsDe7) | [Ivan Castro](https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14) | [Cold Of The Night](https://open.spotify.com/album/118XTpb5m0rG05GIh2tXhV) | 3:43 | 2025-10-10 |  |
 | [Come As You Are](https://open.spotify.com/track/2eYm67Yrt9RGuvSXTbPUd2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The Wait](https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w) | 4:32 | 2020-08-31 | 2024-06-24 |
-| [Come Thou Fount](https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4) | [In the Wild](https://open.spotify.com/artist/7EkC95lGft8CHbl4zk2hEi) | [Come Thou Fount](https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU) | 4:44 | 2025-08-06 |  |
+| [Come Thou Fount](https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4) | [In the Wild](https://open.spotify.com/artist/7EkC95lGft8CHbl4zk2hEi) | [Come Thou Fount](https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU) | 4:44 | 2025-08-06 | 2026-04-21 |
 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/7DSeaP4O6ZD32JTBDnI6ws) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/4aQNv1K6KhHISTxppZ84DC) | 4:09 | 2023-07-28 | 2024-06-24 |
 | [Counting My Blessings](https://open.spotify.com/track/73VCobZbLNTAwCxKKBtztO) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/5GJhEpZBXUSYQLgok38ZEK) | 3:30 | 2023-07-28 | 2024-06-24 |
 | [Counting My Blessings \- Acoustic](https://open.spotify.com/track/1QQATmlwiefAJWurUVER7T) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P) | 3:28 | 2024-06-23 | 2025-08-07 |
@@ -263,7 +264,7 @@
 | [O Rock Eternal](https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [The Narrow Sea](https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8) | 5:13 | 2020-08-31 | 2025-10-11 |
 | [Oasis Of Hope](https://open.spotify.com/track/1tkiReqdLIO6z40IiIiGh7) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Oasis Of Hope](https://open.spotify.com/album/7sbdpXQNVkrROi9pdVUyo9) | 3:44 | 2026-03-23 |  |
 | [Obey](https://open.spotify.com/track/7hRadFcj5kcgS9PkWV1wce) | [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Obey / Hidden Here](https://open.spotify.com/album/6HEZcwsH3hTAfEYwC2DqXg) | 3:55 | 2023-07-28 | 2024-08-03 |
-| [oceans](https://open.spotify.com/track/0WJ8b61eOE5AjuHTEeVIte) | [xylin](https://open.spotify.com/artist/0pNQj7BHZzKhOPsCglAVNg), [Jacob Lin](https://open.spotify.com/artist/6DVR8QvYzcYtLif7f3I8op) | [oceans](https://open.spotify.com/album/6p7d9K2cEavpYmbl8Rpivz) | 4:52 | 2026-03-23 |  |
+| [oceans](https://open.spotify.com/track/0WJ8b61eOE5AjuHTEeVIte) | [xylin](https://open.spotify.com/artist/0pNQj7BHZzKhOPsCglAVNg), [Jacob Lin](https://open.spotify.com/artist/6DVR8QvYzcYtLif7f3I8op) | [oceans](https://open.spotify.com/album/6p7d9K2cEavpYmbl8Rpivz) | 4:52 | 2026-03-23 | 2026-04-21 |
 | [Oh What a Father](https://open.spotify.com/track/1H8YQq1VQDwsFrw32npGEH) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/09EayNj4y8JWxvwBUElf7q) | 3:56 | 2020-08-31 | 2023-03-31 |
 | [Oh What a Father](https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q) | 3:56 | 2020-08-31 | 2024-04-19 |
 | [Oh What a Father](https://open.spotify.com/track/599w7fRMgsd0TBKfKsej0D) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/5ZFrFQRF1EHUDh49toRT16) | 3:56 | 2020-08-31 | 2022-07-29 |
@@ -383,6 +384,7 @@
 | [Up With The Birds](https://open.spotify.com/track/30EPNX0HMflT7w6IBGV0sA) | [Olivia Stern](https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Up With The Birds](https://open.spotify.com/album/7FH29UTUol8xqMRl1wrAOm) | 2:44 | 2026-03-23 |  |
 | [uptown](https://open.spotify.com/track/3VGUd7kzUu7e7z93Ij4Vcs) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [uptown](https://open.spotify.com/album/3tVKCVSO21t2ZVdnid4EBe) | 2:03 | 2026-03-23 |  |
 | [Valley \- CalledOut Music Remix](https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf) | [DAYASOUL](https://open.spotify.com/artist/4AVCd5KaoGCrfue1bOWSww), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Valley \(CalledOut Music Remix\)](https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp) | 3:07 | 2023-07-28 | 2024-08-03 |
+| [Vices](https://open.spotify.com/track/65ou3JOhPK3lH0T5EXq7U2) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Vices](https://open.spotify.com/album/2AdhEfiegi4zBfD35z5o0w) | 4:44 | 2026-04-17 |  |
 | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt) | 3:18 | 2026-03-23 |  |
 | [wake up](https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [wake up](https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c) | 3:06 | 2026-03-23 |  |
 | [WAKE UP!](https://open.spotify.com/track/3C8xDEZWRvQYTni5pav1pQ) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [WAKE UP!](https://open.spotify.com/album/0vsxn90cgFyTztDnCuhhg7) | 1:49 | 2026-03-23 |  |

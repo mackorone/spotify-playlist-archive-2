@@ -751,6 +751,28 @@
     },
     {
       "album": {
+        "name": "Recollection (Cosmicosmo Remix)",
+        "url": "https://open.spotify.com/album/0FzYNZlsKsBiWjWF6HnCrD"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        },
+        {
+          "name": "Cosmicosmo",
+          "url": "https://open.spotify.com/artist/6JtJWLtwanDAmk4UMLFJ2v"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165568,
+      "name": "Recollection (Cosmicosmo Remix)",
+      "url": "https://open.spotify.com/track/2lK6kQsVSnZGACRr8ZJ1MK"
+    },
+    {
+      "album": {
         "name": "Modal Soul",
         "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
       },
@@ -1234,7 +1256,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 326000,
       "name": "\u8ff7\u3044\u306e\u68ee",
       "url": "https://open.spotify.com/track/5hyzs0L6FPxvdJIZLN5eyn"

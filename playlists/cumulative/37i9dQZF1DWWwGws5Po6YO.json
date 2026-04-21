@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "303 Meditation",
+        "url": "https://open.spotify.com/album/7tWmJYu84no6vae64sEXZk"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310588,
+      "name": "303 Meditation",
+      "url": "https://open.spotify.com/track/4UwXX4DkrmBfjmrQefcw01"
+    },
+    {
+      "album": {
         "name": "9\u00b0C",
         "url": "https://open.spotify.com/album/6Kn9w4RocAMB81C1m7LmYy"
       },
@@ -410,6 +428,28 @@
       "duration_ms": 477048,
       "name": "Analemma",
       "url": "https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29"
+    },
+    {
+      "album": {
+        "name": "Analog Seasons (Pop Mix)",
+        "url": "https://open.spotify.com/album/3r08WBgWv22T5FtsvKEDiv"
+      },
+      "artists": [
+        {
+          "name": "Kate Simko",
+          "url": "https://open.spotify.com/artist/2KXLSIzI7CY7AJg5ARUOSb"
+        },
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272189,
+      "name": "Analog Seasons - Pop Mix",
+      "url": "https://open.spotify.com/track/3Qbm7NQ9uBMgDCiLS9oPnK"
     },
     {
       "album": {
@@ -942,7 +982,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
@@ -2092,7 +2132,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 222167,
       "name": "Home",
       "url": "https://open.spotify.com/track/1mOygnZoGodamv4VcqSK3T"
@@ -2732,7 +2772,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 250000,
       "name": "let\u2019s walk down to the swamp together",
       "url": "https://open.spotify.com/track/4IwCet2b9lJHU5UsXN1Zx5"
@@ -3206,6 +3246,36 @@
       "duration_ms": 294485,
       "name": "Nautilus",
       "url": "https://open.spotify.com/track/0VW9g4cdRdChF7vxwEqPgE"
+    },
+    {
+      "album": {
+        "name": "nen",
+        "url": "https://open.spotify.com/album/4delrvapRx9DXUBXBUm4Y1"
+      },
+      "artists": [
+        {
+          "name": "Kiri Ra!",
+          "url": "https://open.spotify.com/artist/1kMbCcSenu1Kk0W9RGa8VR"
+        },
+        {
+          "name": "Lau Nau",
+          "url": "https://open.spotify.com/artist/2oXfE2cVZxbX7OGVldazev"
+        },
+        {
+          "name": "Linda Fredriksson",
+          "url": "https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL"
+        },
+        {
+          "name": "Matti Bye",
+          "url": "https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352680,
+      "name": "nen",
+      "url": "https://open.spotify.com/track/6ZnVWsglqpZtQUjVm9Q5X2"
     },
     {
       "album": {

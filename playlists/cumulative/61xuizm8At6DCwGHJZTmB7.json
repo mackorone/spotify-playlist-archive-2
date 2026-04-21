@@ -6399,6 +6399,28 @@
     },
     {
       "album": {
+        "name": "How Awesome",
+        "url": "https://open.spotify.com/album/160z96t098nZ0kjU9b2ZAU"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476166,
+      "name": "How Awesome",
+      "url": "https://open.spotify.com/track/5oF4UsxUmNg0MIveexiwOX"
+    },
+    {
+      "album": {
         "name": "How Good It Is",
         "url": "https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc"
       },

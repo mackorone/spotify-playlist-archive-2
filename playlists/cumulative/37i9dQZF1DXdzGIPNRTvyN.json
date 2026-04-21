@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "40Hz Sound Of Nature",
+        "url": "https://open.spotify.com/album/1MgH6LgiOlhtYVPygkFr0F"
+      },
+      "artists": [
+        {
+          "name": "Alex Zenum",
+          "url": "https://open.spotify.com/artist/1R7IPqmjjDOWrp2vH7xspV"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "40Hz Sound Of Nature",
+      "url": "https://open.spotify.com/track/3nwx8hPz31dVTuNMlybFzn"
+    },
+    {
+      "album": {
         "name": "432 Hz Omgivande",
         "url": "https://open.spotify.com/album/0g7tYAR31jgDZhcQkheRlx"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 184000,
       "name": "Aere",
       "url": "https://open.spotify.com/track/71eaxB56hq5BteDIs7fztC"
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 146506,
       "name": "Dawning - Sound Bath",
       "url": "https://open.spotify.com/track/4MojyUlnEpB2Ay3xIgpPC4"
@@ -4648,7 +4666,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 149666,
       "name": "L\u00fanaris",
       "url": "https://open.spotify.com/track/7ottqeiDfzhvwfobW4tfBc"
@@ -5771,6 +5789,24 @@
     },
     {
       "album": {
+        "name": "Paladin Diversum",
+        "url": "https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur"
+      },
+      "artists": [
+        {
+          "name": "Los Sobriles",
+          "url": "https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Paladin Diversum",
+      "url": "https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp"
+    },
+    {
+      "album": {
         "name": "Panacea",
         "url": "https://open.spotify.com/album/2bLZwZtd96totLeWRYrq2f"
       },
@@ -6304,7 +6340,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 157329,
       "name": "Plantae",
       "url": "https://open.spotify.com/track/77shZB4gVpO99vZyIbbu9B"
@@ -6340,7 +6376,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 205235,
       "name": "Pneuma",
       "url": "https://open.spotify.com/track/1RcsFHk4cpJXZD7HvKtPdr"
@@ -6520,7 +6556,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 203125,
       "name": "Quiet Water",
       "url": "https://open.spotify.com/track/6Sed7lQ9q1Iu87ew0WQlLl"
@@ -6592,7 +6628,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 169190,
       "name": "Rebalanced",
       "url": "https://open.spotify.com/track/7rAxEaJTcSQUpor4gw7rRS"
@@ -6614,6 +6650,24 @@
       "duration_ms": 192000,
       "name": "Recovery",
       "url": "https://open.spotify.com/track/2ieNJNNIwKIiT68JKVNv9I"
+    },
+    {
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/0hphWrYN58ODywl7l9rVkk"
+      },
+      "artists": [
+        {
+          "name": "Ortio",
+          "url": "https://open.spotify.com/artist/3DZCw9pq9uA8YvordxZa4i"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/6kB7GQOem87z4FAbJ2Yqcf"
     },
     {
       "album": {
@@ -8198,7 +8252,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 141000,
       "name": "Take A Breath",
       "url": "https://open.spotify.com/track/5mBJ1WB5syIHpn9LAh53hl"
@@ -9178,6 +9232,24 @@
       "duration_ms": 158000,
       "name": "Willow",
       "url": "https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp"
+    },
+    {
+      "album": {
+        "name": "Quiet Foliage",
+        "url": "https://open.spotify.com/album/1UtZGHL1DrU1G7UiCd0jvq"
+      },
+      "artists": [
+        {
+          "name": "Andrea Accorsi",
+          "url": "https://open.spotify.com/artist/3qJhX4vt6z2W7C2SsDHiAK"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167763,
+      "name": "Woodpecker",
+      "url": "https://open.spotify.com/track/65PeqOI1OtIQXNyemz90nE"
     },
     {
       "album": {

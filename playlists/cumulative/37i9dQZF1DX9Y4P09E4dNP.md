@@ -4,7 +4,7 @@
 
 > The big Hip\-Life hits rn\. Cover: Kelvyn Boy
 
-328 songs - 20 hr 6 min
+330 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [AMEN](https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 3:23 | 2024-05-24 | 2024-10-26 |
 | [Anadwo Yede](https://open.spotify.com/track/7BcXZP856gok2P9nVp0hD6) | [KK Fosu](https://open.spotify.com/artist/3LJawO6XULI4SZT5dVHEYO) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:38 | 2020-02-20 | 2022-07-27 |
 | [Ankonam](https://open.spotify.com/track/3FXxXckJ1xNWZKUmYbFaSJ) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [The Gold Coin](https://open.spotify.com/album/3QjBdftIw2vfGnSZSqRVcF) | 2:52 | 2024-09-27 | 2025-03-15 |
+| [Ara No Dey Sleep](https://open.spotify.com/track/3sQgX4EW0lnLYr0BAbPA9g) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 3:12 | 2026-04-20 |  |
 | [Araba](https://open.spotify.com/track/3j2DRJtmWdcDjzipkdTzPa) | [Ibee Melody](https://open.spotify.com/artist/7d6hM6gmUmtaM0hFd7uJbM), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Araba](https://open.spotify.com/album/1IO0WOLyXlzd932Yju5EZL) | 2:43 | 2026-02-13 | 2026-04-03 |
 | [Araba Lawson \(feat\. All4real\)](https://open.spotify.com/track/0GFjf8ABto37t2pbGm5JfL) | [C\-Zar](https://open.spotify.com/artist/0Fj9MPOAPKlcNZqVFrNWYx), [All4Real](https://open.spotify.com/artist/4iG1ZHRDz0xTngBW1hHtRe) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:31 | 2020-02-20 | 2022-07-28 |
 | [Aseda](https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Aseda](https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9) | 3:00 | 2024-04-03 | 2025-11-28 |
@@ -90,6 +91,7 @@
 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 | 2021-12-09 | 2024-03-05 |
 | [Country Side \(feat\. Black Sherif\)](https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:40 | 2024-03-04 |  |
 | [DADA BA](https://open.spotify.com/track/5lgGv9Y0i3PKtQFeHpXYXb) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [DADA BA](https://open.spotify.com/album/5EFW38XyXglIjFsqOcFeby) | 3:04 | 2022-03-03 | 2023-02-26 |
+| [Darkest Style](https://open.spotify.com/track/1PcHLgffCAgtPcHjFkIM0W) | [D Global](https://open.spotify.com/artist/4FQzUw5iPegRxTuJyKphkY), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Darkest Style](https://open.spotify.com/album/7GvXEXzV1KzVVicSTLcge3) | 2:18 | 2026-04-20 |  |
 | [Days Pass By](https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Days Pass By](https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP) | 2:26 | 2024-10-18 | 2025-09-26 |
 | [Deeba](https://open.spotify.com/track/04RrKNyYkImWhZkoEDBhTO) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:05 | 2020-02-20 | 2022-10-16 |
 | [Deeba](https://open.spotify.com/track/6NLy8oSDKKXfHfxpKeAjOt) | [Deeba](https://open.spotify.com/artist/5gZhjWdd6NuAZ8Yrg1a3Ss) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:05 | 2020-02-20 | 2022-07-29 |
@@ -320,7 +322,7 @@
 | [Wafom](https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:44 | 2020-02-20 | 2024-03-05 |
 | [Ware Me](https://open.spotify.com/track/3vyBe2SDEPLhm6peMZnk3n) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Burning \- EP](https://open.spotify.com/album/7oQTsdePfvrMkeottXJ4Go) | 3:53 | 2021-12-02 | 2023-02-17 |
 | [WEATHER FOR 2](https://open.spotify.com/track/56qLZovBjCLJUBlGv1gER8) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [WEATHER FOR 2](https://open.spotify.com/album/6NxHxVF09p78d9qBXFvJyX) | 2:55 | 2026-04-03 |  |
-| [What’s Up](https://open.spotify.com/track/14majQVTXSpC2HthtSWd2y) | [DJ K.O](https://open.spotify.com/artist/7yjvFR5JVrthgdUy0Vb0yF), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [What’s Up](https://open.spotify.com/album/1xLRummsukXMPldYeAIVZB) | 1:56 | 2026-04-03 |  |
+| [What’s Up](https://open.spotify.com/track/14majQVTXSpC2HthtSWd2y) | [DJ K.O](https://open.spotify.com/artist/7yjvFR5JVrthgdUy0Vb0yF), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [What’s Up](https://open.spotify.com/album/1xLRummsukXMPldYeAIVZB) | 1:56 | 2026-04-03 | 2026-04-21 |
 | [Who Send You](https://open.spotify.com/track/0eiLbJ7utDTWd4XF3LCXWd) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Who Send You](https://open.spotify.com/album/0lNgfoTc05m7JkI2PLotJj) | 2:25 | 2025-11-28 | 2025-12-05 |
 | [Wish Me Well](https://open.spotify.com/track/76OgQukE55wL78J77Vl5rp) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb) | 3:24 | 2020-02-20 | 2024-02-04 |
 | [Wish Me Well](https://open.spotify.com/track/7prLktT8hh87SJLGneo4ri) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE) | 3:24 | 2023-12-01 | 2024-03-15 |

@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 532956,
+  "num_followers": 532990,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Ready To Fall",
-      "url": "https://open.spotify.com/track/3tbZL9VsjRlDekb1Wt7m2Q"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 243853,
       "name": "This Could Be Anywhere in the World",
       "url": "https://open.spotify.com/track/4TnPmXU7KVmHZ51hXXn5Hv"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "Ready To Fall",
+      "url": "https://open.spotify.com/track/3tbZL9VsjRlDekb1Wt7m2Q"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Wires...And The Concept Of Breathing",
-        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "I'm Not A Thief, I'm A Treasure Hunter",
-      "url": "https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "30 Seconds To Mars",
         "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 233000,
       "name": "Capricorn (A Brand New Name)",
       "url": "https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Wires...And The Concept Of Breathing",
+        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "I'm Not A Thief, I'm A Treasure Hunter",
+      "url": "https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Wires...And The Concept Of Breathing",
-        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "All It Takes For Your Dreams To Come True",
-      "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "The Question",
         "url": "https://open.spotify.com/album/4hqjE4M2FKwKeObRmoTEet"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 210986,
       "name": "Studying Politics",
       "url": "https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Wires...And The Concept Of Breathing",
+        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "All It Takes For Your Dreams To Come True",
+      "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "You Come Before You (U.S. Version)",
-        "url": "https://open.spotify.com/album/1jWoSWzUjyq2v2jnmRv3p8"
-      },
-      "artists": [
-        {
-          "name": "Poison The Well",
-          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
-        }
-      ],
-      "duration_ms": 300640,
-      "name": "Apathy Is a Cold Body",
-      "url": "https://open.spotify.com/track/3nZI9YTYInLiCdjGx7v9tK"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "A City By The Light Divided",
         "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 199346,
       "name": "Counting 5-4-3-2-1",
       "url": "https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "You Come Before You (U.S. Version)",
+        "url": "https://open.spotify.com/album/1jWoSWzUjyq2v2jnmRv3p8"
+      },
+      "artists": [
+        {
+          "name": "Poison The Well",
+          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
+        }
+      ],
+      "duration_ms": 300640,
+      "name": "Apathy Is a Cold Body",
+      "url": "https://open.spotify.com/track/3nZI9YTYInLiCdjGx7v9tK"
     },
     {
       "added_at": "2025-11-24 12:49:27",

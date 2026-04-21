@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 111204,
+  "num_followers": 111246,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -223,18 +223,22 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Como eu Te Amo Deus",
-        "url": "https://open.spotify.com/album/1hZif2WY3WGbnarLgKUjbJ"
+        "name": "Nascer de Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
         }
       ],
-      "duration_ms": 186118,
-      "name": "Como eu Te Amo Deus",
-      "url": "https://open.spotify.com/track/1unkmTfcblkjHWIhZLSFhE"
+      "duration_ms": 239791,
+      "name": "Nascer de Novo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -255,22 +259,18 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Nascer de Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC"
+        "name": "Como eu Te Amo Deus",
+        "url": "https://open.spotify.com/album/1hZif2WY3WGbnarLgKUjbJ"
       },
       "artists": [
         {
-          "name": "Fabiana Sinfr\u00f4nio",
-          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
-        },
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
         }
       ],
-      "duration_ms": 239791,
-      "name": "Nascer de Novo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t"
+      "duration_ms": 186118,
+      "name": "Como eu Te Amo Deus",
+      "url": "https://open.spotify.com/track/1unkmTfcblkjHWIhZLSFhE"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Estou Contigo",
-        "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 249344,
-      "name": "Estou Contigo",
-      "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
         "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
         "url": "https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 328768,
       "name": "Deus Est\u00e1 Fazendo - Ao Vivo",
       "url": "https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
+        "name": "Estou Contigo",
+        "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 249344,
+      "name": "Estou Contigo",
+      "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -523,26 +523,6 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Trajet\u00f3ria",
-        "url": "https://open.spotify.com/album/713WXPAkeukQUrkN7ZRzSi"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 233472,
-      "name": "Trajet\u00f3ria",
-      "url": "https://open.spotify.com/track/64mFWof8nKdLgHpFSSDbEf"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
         "name": "O Segredo da Felicidade",
         "url": "https://open.spotify.com/album/558l8xXJGcfrhNjn6WIBFv"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 307721,
       "name": "Vai Ter Recompensa (Ao Vivo)",
       "url": "https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
+        "name": "Trajet\u00f3ria",
+        "url": "https://open.spotify.com/album/713WXPAkeukQUrkN7ZRzSi"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 233472,
+      "name": "Trajet\u00f3ria",
+      "url": "https://open.spotify.com/track/64mFWof8nKdLgHpFSSDbEf"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -671,18 +671,22 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Tudo",
-        "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
+        "name": "Encontrar Meu Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4YYey6sjR3pzeW1JfWqGne"
       },
       "artists": [
         {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+          "name": "S\u00e9rgio Saas",
+          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
+        },
+        {
+          "name": "Talita Dias",
+          "url": "https://open.spotify.com/artist/2ii8I9jF45XSJ5kVV0oFee"
         }
       ],
-      "duration_ms": 271166,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
+      "duration_ms": 172487,
+      "name": "Encontrar Meu Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/3qLEegaEjCOxB18q1gb6J4"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -707,22 +711,18 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Encontrar Meu Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4YYey6sjR3pzeW1JfWqGne"
+        "name": "Tudo",
+        "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
       },
       "artists": [
         {
-          "name": "S\u00e9rgio Saas",
-          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
-        },
-        {
-          "name": "Talita Dias",
-          "url": "https://open.spotify.com/artist/2ii8I9jF45XSJ5kVV0oFee"
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
         }
       ],
-      "duration_ms": 172487,
-      "name": "Encontrar Meu Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/3qLEegaEjCOxB18q1gb6J4"
+      "duration_ms": 271166,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Assim Como Deus Quer",
-        "url": "https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD"
+        "name": "O Noivo Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5hb5Y7fmdNVzXXlz7y5rT4"
       },
       "artists": [
         {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
         }
       ],
-      "duration_ms": 163258,
-      "name": "Assim Como Deus Quer",
-      "url": "https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX"
+      "duration_ms": 295946,
+      "name": "O Noivo Vem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7eLK9s5mQT7QW62lID0fol"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "O Noivo Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5hb5Y7fmdNVzXXlz7y5rT4"
+        "name": "Assim Como Deus Quer",
+        "url": "https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD"
       },
       "artists": [
         {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
         }
       ],
-      "duration_ms": 295946,
-      "name": "O Noivo Vem (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7eLK9s5mQT7QW62lID0fol"
+      "duration_ms": 163258,
+      "name": "Assim Como Deus Quer",
+      "url": "https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
+        "name": "Meu Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "duration_ms": 239199,
+      "name": "Meu Filho (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
         "name": "Arma Forjada",
         "url": "https://open.spotify.com/album/6Ks3dxIO88IeFfLgqZHdFG"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 336796,
       "name": "O Pr\u00f3digo Vai Voltar",
       "url": "https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
-        "name": "Meu Filho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
-      },
-      "artists": [
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        }
-      ],
-      "duration_ms": 239199,
-      "name": "Meu Filho (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
     },
     {
       "added_at": "2026-02-27 03:01:13",

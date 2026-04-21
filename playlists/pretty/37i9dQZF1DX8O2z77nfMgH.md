@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Big Soto, Danny Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,624 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,496 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 10 | [La Más Rika](https://open.spotify.com/track/3eIhjAdYTPIacTss3HGrz6) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [La Más Rika](https://open.spotify.com/album/5Ux3yqgehYSnOZNwHTIF6q) | 2:26 |
 | 11 | [Me & U](https://open.spotify.com/track/7bA4pw66AARPLFVi14O7G4) | [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Me & U](https://open.spotify.com/album/5a8WNzwGYttrWURsqdzbuu) | 3:09 |
 | 12 | [Polaroid](https://open.spotify.com/track/0JvBiJKZuJRl3wKDwGxJBV) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Polaroid](https://open.spotify.com/album/6nRkR4C2MCnIGpagBypyIU) | 2:57 |
-| 13 | [Fotopaparazzi \(ft\. Jon Z\)](https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Fotopaparazzi \(ft\. Jon Z\)](https://open.spotify.com/album/0yJcjogROmyReERdHLtDuq) | 2:20 |
+| 13 | [Fotopaparazzi](https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Fotopaparazzi](https://open.spotify.com/album/0yJcjogROmyReERdHLtDuq) | 2:20 |
 | 14 | [El Rey](https://open.spotify.com/track/16yhVOnRqwCfMBzD52pkeF) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [El Rey](https://open.spotify.com/album/5aBOOr0nJ4adxwlM97Btiv) | 2:29 |
 | 15 | [OSADÍA](https://open.spotify.com/track/0cCKN8doEIZ3mk7pXN0nW5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [OSADÍA](https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT) | 3:26 |
 | 16 | [ALL THE TIME](https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [ALL THE TIME](https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy) | 3:00 |

@@ -4,7 +4,7 @@
 
 > All the New Joints featuring JT, BNYX & Quavo, Sexyy Red and more!
 
-9,832 songs - 18 day 20 hr 10 min
+9,832 songs - 18 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8948,7 +8948,7 @@
 | [Tryna See](https://open.spotify.com/track/6INosmjhUMFjSPBseRtc5a) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Tryna See](https://open.spotify.com/album/68QYTSC5iYXL1rSMYvWh8A) | 2:08 | 2024-02-09 | 2024-02-17 |
 | [TRYNA WIN](https://open.spotify.com/track/2PLjm5Hz0ufEF3s8uo3ntq) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez) | [TRYNA WIN](https://open.spotify.com/album/6L87qbYLWVPbRu1Cg2ETQk) | 2:33 | 2026-04-17 |  |
 | [Trynna Link](https://open.spotify.com/track/7jEhMTxpIH7Duw6AQsDztS) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Trynna Link](https://open.spotify.com/album/58n7meJEMSNZ35LxhgKPZK) | 2:57 | 2023-07-07 | 2023-07-15 |
-| [TSOD](https://open.spotify.com/track/2cpufCD1b80iCZZFPvj8I2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP), [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [TSOD](https://open.spotify.com/album/5jSp0SGH5VYRg2yKVY6bjq) | 3:25 | 2026-04-17 |  |
+| [TSOD](https://open.spotify.com/track/2cpufCD1b80iCZZFPvj8I2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP), [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [TSOD](https://open.spotify.com/album/5jSp0SGH5VYRg2yKVY6bjq) | 4:26 | 2026-04-17 |  |
 | [Tsunami \(feat\. Future & Travis Scott\)](https://open.spotify.com/track/1AvZXYluV7hMnqCXZnWpBH) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Nomad](https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX) | 3:19 | 2025-11-07 | 2025-11-15 |
 | [TTSO.](https://open.spotify.com/track/3lQ445vGDKzQqBkTkHdRvr) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [TTSO.](https://open.spotify.com/album/7pkoyUUelUQjFGwx6tt3Pa) | 3:00 | 2024-11-15 | 2024-11-23 |
 | [Tubi Movie](https://open.spotify.com/track/4dWBjNnHqA0pHO3m8sIpID) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Tubi Movie](https://open.spotify.com/album/66tQnkSrKbuvbK8LgNA3Tl) | 1:47 | 2025-06-27 | 2025-07-05 |

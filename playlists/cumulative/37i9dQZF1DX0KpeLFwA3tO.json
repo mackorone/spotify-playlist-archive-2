@@ -2745,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "AMERICAN NIGHTMARE",
+        "url": "https://open.spotify.com/album/3sY7w1wEVikP6OUWzCI6D7"
+      },
+      "artists": [
+        {
+          "name": "Comastatic",
+          "url": "https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128874,
+      "name": "AMERICAN NIGHTMARE",
+      "url": "https://open.spotify.com/track/53i9GNkUlsdTCVTs0O5h7U"
+    },
+    {
+      "album": {
         "name": "Among Us",
         "url": "https://open.spotify.com/album/2bsMoW7MNpApKqy04JfTkK"
       },
@@ -13494,7 +13512,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 160750,
       "name": "Deja vu (feat. Yours Truly)",
       "url": "https://open.spotify.com/track/0EEfIXFD23IVlqq8FuKq1I"

@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Anirudh Suswaram
 
-507 songs - 1 day 6 hr 27 min
+508 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Gundellona](https://open.spotify.com/track/5VYwur3njNtvcrHQdTcueq) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Gundellona](https://open.spotify.com/album/4hSn5VGsNoq9FamiZbdC0W) | 2:59 | 2023-10-09 | 2024-01-19 |
 | [Gymdagi](https://open.spotify.com/track/62apKp3zsfo4rJkCaKjpI8) | [AbhinavaKavi](https://open.spotify.com/artist/4JNNsOGz9LwbUJCVUoV3wG), [Royoto](https://open.spotify.com/artist/0xfCyvNh798fse05rM1T37) | [Gymdagi](https://open.spotify.com/album/4at1UkxZyiEOPOAxbaWcW6) | 3:27 | 2026-02-28 |  |
 | [Haayi](https://open.spotify.com/track/0rTQeRNV44kCFxUx53IJ2x) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Anirudh Shandilya Maramraju](https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo) | [Haayi](https://open.spotify.com/album/06zs6wqQSvQZFMZcOOxReV) | 5:24 | 2026-01-15 |  |
+| [Happy Birthday](https://open.spotify.com/track/3l5EhKoxEuLXacDSVriuYy) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Agastya Raag](https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I) | [Happy Birthday](https://open.spotify.com/album/49gYGDm94M6ldRlrIr34LE) | 3:25 | 2026-04-20 |  |
 | [Harini](https://open.spotify.com/track/0Ay0o0e6n75gg7GyvdmnBI) | [Ram Mantha](https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr) | [Harini](https://open.spotify.com/album/3SJtaDClZXTAX3teBnln3M) | 3:56 | 2023-05-22 | 2024-01-11 |
 | [Harini](https://open.spotify.com/track/3nL7CA4hvqVr99agCJyhSC) | [Ram Mantha](https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr) | [Harini](https://open.spotify.com/album/1K7Kn0GkjGNVCLhzywriiG) | 3:56 | 2023-05-22 | 2024-01-04 |
 | [Hate Oddhu](https://open.spotify.com/track/4RUkcsgECnfHaAk0OEjwdE) | [brownkiddreams](https://open.spotify.com/artist/2RJmN0J5H4v0i9SQ0wDrPY) | [Hate Oddhu](https://open.spotify.com/album/5AyQhXTsHcYQ502zlGZ3ct) | 2:37 | 2024-10-10 | 2025-05-30 |

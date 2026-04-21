@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: FLEMMING, Trobi & Snelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,790 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,789 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Weer Een Dagje Ouder](https://open.spotify.com/track/7zAYKczeN7LibBSPX48qrW) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Samen Is Leuker Dan Alleen](https://open.spotify.com/album/48Y7pJ00km4Md3neQJM9Tf) | 2:43 |
 | 2 | [Kingsize Bed](https://open.spotify.com/track/1V7NFChveWl2i1QkT4PyBb) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Kingsize Bed](https://open.spotify.com/album/14h229HZfdrktan1EQaaIT) | 2:34 |
-| 3 | [Waar De Ladies Zijn](https://open.spotify.com/track/1RBAmptvCgOBmUQorOiT31) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Waar De Ladies Zijn](https://open.spotify.com/album/7sItPhIOsuhFEqT9PyPRXq) | 2:20 |
-| 4 | [Alles of Niets](https://open.spotify.com/track/5OC1jrn8jYlBj3W5OmfHkJ) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Alles of Niets](https://open.spotify.com/album/11b75O1vrwS4FO5YprIjkn) | 2:16 |
-| 5 | [Zij Hoort Bij Mij](https://open.spotify.com/track/4NzVNVrPqz7APlA5C0TuBP) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Zij Hoort Bij Mij](https://open.spotify.com/album/5DIbGZCUppQpa7eZ3RWN8o) | 2:06 |
-| 6 | [1 Glas](https://open.spotify.com/track/6clSdKrl17kWuNT28L17nV) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Samen Is Leuker Dan Alleen](https://open.spotify.com/album/48Y7pJ00km4Md3neQJM9Tf) | 2:31 |
+| 3 | [1 Glas](https://open.spotify.com/track/6clSdKrl17kWuNT28L17nV) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Samen Is Leuker Dan Alleen](https://open.spotify.com/album/48Y7pJ00km4Md3neQJM9Tf) | 2:31 |
+| 4 | [Waar De Ladies Zijn](https://open.spotify.com/track/1RBAmptvCgOBmUQorOiT31) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Waar De Ladies Zijn](https://open.spotify.com/album/7sItPhIOsuhFEqT9PyPRXq) | 2:20 |
+| 5 | [Alles of Niets](https://open.spotify.com/track/5OC1jrn8jYlBj3W5OmfHkJ) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Alles of Niets](https://open.spotify.com/album/11b75O1vrwS4FO5YprIjkn) | 2:16 |
+| 6 | [Zij Hoort Bij Mij](https://open.spotify.com/track/4NzVNVrPqz7APlA5C0TuBP) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Zij Hoort Bij Mij](https://open.spotify.com/album/5DIbGZCUppQpa7eZ3RWN8o) | 2:06 |
 | 7 | [Ik word nooit je man](https://open.spotify.com/track/0QcqIDQXJlq9UEVwnmQnyt) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Ik word nooit je man / Houden van mij mag nu in je eentje](https://open.spotify.com/album/2er8o4xPtEE5JpoVXil3b9) | 3:18 |
 | 8 | [⁠Tot Het Eind Van Mij \- Akoestisch](https://open.spotify.com/track/2uA8dEMA61IBCXGz4lA3GD) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [⁠Tot Het Eind Van Mij \- Akoestisch](https://open.spotify.com/album/5kgoAHKiaOk2YsJe6HATxX) | 2:30 |
 | 9 | [Koning](https://open.spotify.com/track/0iEx4vifhq4fhi2qoqcfSJ) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Koning](https://open.spotify.com/album/0moTgtPcTHQVEKxJ4ZFXBZ) | 2:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Echt Zo](https://open.spotify.com/track/5RiNPHQmTZeLHiVPZFg0jn) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Echt Zo](https://open.spotify.com/album/6EzKHgwuGTPMPcFOkOPN2K) | 3:14 |
 | 80 | [Zo gaat het niet](https://open.spotify.com/track/24KohgDbQQbyWumhZmKa0e) | [DAAN.](https://open.spotify.com/artist/0BhCoO6LMneAnZV5p3O233) | [Zo gaat het niet](https://open.spotify.com/album/1D160CI8AGzAiY8Q7lE25X) | 3:13 |
 
-Snapshot ID: `AAAAAPKQKTVPAzOigz3a++G+Fz+6FCo7`
+Snapshot ID: `AAAAAF3TlDkKepvWIPmEmHswWkS8pWoj`

@@ -4,7 +4,7 @@
 
 > Rustig aan doen op zaterdag met deze zachte popliedjes.
 
-313 songs - 18 hr 25 min
+315 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Apologize](https://open.spotify.com/track/2BVB7Uezg6ynj0U4hI2EH8) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Apologize](https://open.spotify.com/album/1D8Yzp60NuycUVZOkiZ2uv) | 3:34 | 2023-05-26 |  |
 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 | 2026-01-23 |  |
 | [At Least Once](https://open.spotify.com/track/4i23tbQw9JV9dfvooyfP6T) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [At Least Once](https://open.spotify.com/album/26hvixgOgvYF7NEJbbmsk1) | 4:51 | 2021-11-24 | 2026-01-24 |
-| [Autopilot](https://open.spotify.com/track/687mduwpvKdFn06IHOl1fM) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Autopilot](https://open.spotify.com/album/6nbxkRFx3GeRGK84ToSHsr) | 3:57 | 2025-04-25 |  |
+| [Autopilot](https://open.spotify.com/track/687mduwpvKdFn06IHOl1fM) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Autopilot](https://open.spotify.com/album/6nbxkRFx3GeRGK84ToSHsr) | 3:57 | 2025-04-25 | 2026-04-21 |
 | [Autumn Love](https://open.spotify.com/track/236HZ8DhG7k0cXgem99oPP) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Autumn Love](https://open.spotify.com/album/2aENqkLbaJgieNQX7fqDdl) | 3:18 | 2026-01-23 |  |
 | [Be Around](https://open.spotify.com/track/2OyoetFC3ukmbiUTWoEkxl) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Be Around](https://open.spotify.com/album/4Pkfukw7ZE1DenjeTg4eQo) | 3:15 | 2022-11-03 | 2022-11-13 |
 | [Be Around](https://open.spotify.com/track/3T3U9f5UJTTvZttYLW4J8C) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [In That Room](https://open.spotify.com/album/6i1Tfuso1BV4pRNMDtfybF) | 3:15 | 2022-06-03 | 2024-04-19 |
@@ -68,7 +68,7 @@
 | [Emma Stone](https://open.spotify.com/track/1GuIxLw79Xe9aqyLTqBS5V) | [Armen Paul](https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk) | [Emma Stone](https://open.spotify.com/album/5tjRVV6AbAKvhZGskSmVKx) | 2:36 | 2026-01-23 |  |
 | [Even on Bad Days](https://open.spotify.com/track/1Yn0e8tam3k9rNHIhI5GNg) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Even on Bad Days](https://open.spotify.com/album/02fIwZWAMLUPo5OI7LVnr9) | 4:38 | 2023-10-06 |  |
 | [Every Rainbow](https://open.spotify.com/track/7gh8ajrjzoJupX70ruzcEt) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Every Rainbow](https://open.spotify.com/album/6PBzC9YTBXU5XmhDccHcZP) | 3:03 | 2026-03-02 |  |
-| [Everything Grows](https://open.spotify.com/track/1SjWBuWiOuEWyZQJZI7aLZ) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Everything Grows](https://open.spotify.com/album/3bUHdR32jmz04qR2DNSF8B) | 4:17 | 2023-02-23 |  |
+| [Everything Grows](https://open.spotify.com/track/1SjWBuWiOuEWyZQJZI7aLZ) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Everything Grows](https://open.spotify.com/album/3bUHdR32jmz04qR2DNSF8B) | 4:17 | 2023-02-23 | 2026-04-21 |
 | [Everything Grows](https://open.spotify.com/track/7dTGW4xLjjkpEMGWdvGf4V) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Everything Grows](https://open.spotify.com/album/2aUUlYum6c8SSwLEdj0f1M) | 4:17 | 2023-04-27 | 2024-04-19 |
 | [Everything In Harmony \- Acoustic](https://open.spotify.com/track/6sDV1rXmmx4e3PFFYscTnk) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Fuzz / Everything In Harmony \(Acoustic\)](https://open.spotify.com/album/3YnQm8Q7dtsxlLhpgoPx9o) | 3:04 | 2024-11-14 |  |
 | [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 | 2025-03-21 |  |
@@ -224,6 +224,7 @@
 | [Realize It All \- Acoustic](https://open.spotify.com/track/608CINyj8dNwdOWUKgkyNs) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Realize It All \(Acoustic\)](https://open.spotify.com/album/4Ywiib2uibpXnvFFmYVDRg) | 3:36 | 2022-06-03 | 2024-04-19 |
 | [Recall](https://open.spotify.com/track/2CO6d46NdjvCS46IuzN1p7) | [Renata Louisa](https://open.spotify.com/artist/0cUWBPuAswbnFpYvzNAGfE) | [Recall](https://open.spotify.com/album/6ggWukcFVdf59Y6Pp6IYn2) | 1:44 | 2025-10-01 |  |
 | [Refined Believer](https://open.spotify.com/track/1qhTxarPbwmyx3tmBSKSbk) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Refined Believer](https://open.spotify.com/album/3B7IKD2W8zGUMxWWcZMIK9) | 3:40 | 2025-09-03 |  |
+| [Remember The Rain](https://open.spotify.com/track/1tfIfphdtuiLJeO27kAD3q) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [Remember The Rain](https://open.spotify.com/album/2yCGps8fdem5qy1SgrjHnP) | 1:53 | 2026-04-20 |  |
 | [Right Through Me](https://open.spotify.com/track/5dPREVUsHP468JeuqHNkuQ) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Right Through Me](https://open.spotify.com/album/498cZKg8d0Wp1uDna2wZ5p) | 3:33 | 2021-11-24 | 2022-07-29 |
 | [Right Through Me](https://open.spotify.com/track/7HQ0kkdIswgLxz2X9Qm4ci) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Right Through Me](https://open.spotify.com/album/60916foyRWkGRNvS0pDcEa) | 3:33 | 2022-06-03 | 2022-11-04 |
 | [Roller Coaster](https://open.spotify.com/track/1Xx7NsxXA91Jgt1fJ3NfNp) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Roller Coaster](https://open.spotify.com/album/7bNCCK8eObScVeCpbW9jQx) | 4:29 | 2021-11-24 | 2024-11-15 |
@@ -304,6 +305,7 @@
 | [Wake Up This Day](https://open.spotify.com/track/2eGFixlUmSK3Yei80riTVe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 3:49 | 2021-11-24 | 2022-06-17 |
 | [Walk the Line](https://open.spotify.com/track/1FkdHaOhueTnCiyC5jDzVs) | [Reuben de Melo](https://open.spotify.com/artist/267x7yH33pbgo6NcO9YQEZ) | [Walk the Line](https://open.spotify.com/album/5v1xQI24LD63dspgqTU283) | 4:28 | 2021-11-24 | 2025-09-04 |
 | [Walk the Line](https://open.spotify.com/track/5tzZZFh9SaYeuC5uUtnsET) | [Reuben de Melo](https://open.spotify.com/artist/267x7yH33pbgo6NcO9YQEZ) | [Walk the Line](https://open.spotify.com/album/7k8IkDYzRbLnjul8MXLQAS) | 4:28 | 2022-06-03 | 2024-04-19 |
+| [Wallflower \- Acoustic](https://open.spotify.com/track/3Lq8hjZ7XOpqbtcVROOpTi) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Wallflower \(Acoustic\)](https://open.spotify.com/album/0JgBb2VFLW9zldC5LLlsrh) | 2:37 | 2026-04-20 |  |
 | [Wasn't Expecting That](https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR) | 3:21 | 2022-06-03 | 2023-04-26 |
 | [Wasn't Expecting That](https://open.spotify.com/track/1OmAaRqTdBDH4Efcrgbthz) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Soft 10's](https://open.spotify.com/album/5nLe1daKdWUczOnLQVFAEb) | 3:21 | 2022-11-03 | 2022-11-13 |
 | [Wasn't Expecting That](https://open.spotify.com/track/7nm68uKwGwMqznlOSBxhps) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Wasn't Expecting That](https://open.spotify.com/album/5XqxTXtO3W4bDntGmNBc9q) | 3:21 | 2021-11-24 | 2022-07-29 |

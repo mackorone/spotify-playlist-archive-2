@@ -4,7 +4,7 @@
 
 > Descubrí nuevos artistas, nueva música todas las semanas 📸 Little Boggie
 
-278 songs - 14 hr 20 min
+282 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [El Farsante](https://open.spotify.com/track/2NU9AmoSeamXEqIiH8DkOl) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [El Farsante](https://open.spotify.com/album/6EzQJiZWUNBuP9eO1jhnmv) | 2:44 | 2024-05-07 | 2025-05-10 |
 | [EL PLOTTER](https://open.spotify.com/track/0RCnbUSbzP6NipEvi8vs1P) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [EL PLOTTER](https://open.spotify.com/album/1F46me8TYsulA1dpAne3OU) | 3:28 | 2023-06-01 | 2024-05-08 |
 | [El Problema](https://open.spotify.com/track/4k1dubwRoDjGVdLlThh1Tf) | [El Cristian](https://open.spotify.com/artist/71qMxiA0O6T6m9Hs2lrG90) | [Como Pa los Tiempo de Antes](https://open.spotify.com/album/1kBvuu6IjpVa830zkd6DDV) | 2:35 | 2024-05-07 | 2025-05-10 |
+| [Elevados](https://open.spotify.com/track/396JLGShBHYMC67DDC8Vy3) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [Emblema](https://open.spotify.com/album/2MXupQ2U7M4KdPyxGx7INp) | 3:18 | 2026-04-20 |  |
 | [Embriago](https://open.spotify.com/track/1hnVWXdhW9P17SpfnaN60C) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Embriago](https://open.spotify.com/album/5WR3I7h22Dt5cYgU6VV0jX) | 3:36 | 2021-11-11 | 2023-06-02 |
 | [EMD24H II](https://open.spotify.com/track/4x8xs6HFAVRtWQm5VPEF62) | [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf), [Juan 97](https://open.spotify.com/artist/6dfvEpJtap4FECKL7PznSn) | [EMD24H II](https://open.spotify.com/album/6OZ6uP4Db3BwWMJHhurmXF) | 2:43 | 2025-05-09 | 2026-04-15 |
 | [Emocional \(feat\. Marlku\)](https://open.spotify.com/track/21wToWcFmf43bfuLHqDRls) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Marlku](https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5) | [Emocional](https://open.spotify.com/album/6TrcWCUDZuWU3Sf6YqHZAV) | 2:52 | 2021-11-11 | 2022-06-28 |
@@ -100,6 +101,7 @@
 | [FASHION DILLER](https://open.spotify.com/track/7pwuuN72iIc3F671PuxErU) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [FASHION DILLER](https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv) | 2:41 | 2022-05-24 | 2023-06-02 |
 | [Fc](https://open.spotify.com/track/5FkQO91uFQ3TEIiivsvhTT) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Fc](https://open.spotify.com/album/3bLefC0ff2CeRzJbs675Mj) | 2:59 | 2021-11-11 | 2022-08-05 |
 | [FC](https://open.spotify.com/track/69FdDBCt7D7LFJrupeujMz) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [FC](https://open.spotify.com/album/2hea6PJnjJvM6QG3vjCscG) | 2:59 | 2022-08-04 | 2023-06-02 |
+| [Federico](https://open.spotify.com/track/5vHufHC11jJb37ChBg2aqe) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Federico](https://open.spotify.com/album/2UhkIha5ZUIx02k54KLtQF) | 3:39 | 2026-04-20 |  |
 | [Fin de Año](https://open.spotify.com/track/0Rfu3GCteqD7TUBi3E2N4X) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Fin de Año](https://open.spotify.com/album/62gcadq4Av5tnPUngu4c0K) | 3:21 | 2023-06-01 | 2024-05-08 |
 | [FLOR ALVAREZ \| DJ TAO Turreo Sessions \#23](https://open.spotify.com/track/2gaRESK3Gi4hEumz8oThJz) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [FLOR ALVAREZ \| DJ TAO Turreo Sessions \#23](https://open.spotify.com/album/6B2yceSshBoqkEDo8hY0F0) | 2:28 | 2024-05-10 | 2025-05-10 |
 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 | 2021-11-11 | 2023-06-02 |
@@ -239,6 +241,7 @@
 | [Resistencia](https://open.spotify.com/track/3CDkhVrRUR1REPKi7Kft6B) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Under](https://open.spotify.com/album/6MprhJ3a5zRXj0UOF4ax5n) | 3:38 | 2021-11-11 | 2023-06-02 |
 | [Resurgir](https://open.spotify.com/track/7EiggHJ0lC1qUj6qNeM2hN) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Resurgir](https://open.spotify.com/album/7z1FnYbJHBqY1SiVUzC9bx) | 2:32 | 2023-08-23 | 2024-05-08 |
 | [RNA](https://open.spotify.com/track/0tXTtaJi3FBvm3AvP64jRB) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 2:24 | 2026-04-14 |  |
+| [Romántico](https://open.spotify.com/track/1nidWDuhsN4ataoPWeu6Gb) | [Cineplexx](https://open.spotify.com/artist/3lYwzzMJbMCXmBqjo0OdSz) | [Azul Es El Rumor](https://open.spotify.com/album/6HMtorYbiA3p0PEE6B7tD8) | 3:03 | 2026-04-20 |  |
 | [Rothmans](https://open.spotify.com/track/1mhq1CwMSZD6hITfzm6AzE) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 3:11 | 2023-06-01 | 2023-08-12 |
 | [Rothmans](https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7) | 3:11 | 2023-06-01 | 2023-10-06 |
 | [Sal](https://open.spotify.com/track/5cO2dWxOMIwUmYs8F7yavs) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Sal](https://open.spotify.com/album/66EpZUnzaaQl5UV8CBAg05) | 3:11 | 2025-05-09 | 2025-10-16 |
@@ -276,6 +279,7 @@
 | [VENENO](https://open.spotify.com/track/77BiLyjwM96hI2eogbI6dy) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [VENENO](https://open.spotify.com/album/7B0yYlF6q1fTFqm0jqpD3Z) | 3:31 | 2023-06-01 | 2024-05-08 |
 | [Veni Mirá](https://open.spotify.com/track/4fDUAfzsQKszt09InZKRE4) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Nafta](https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl) | 5:04 | 2021-11-11 | 2023-06-02 |
 | [VIDRIOS NEGROS](https://open.spotify.com/track/0uPzLQ8z365LRhde8J8wDz) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [VIDRIOS NEGROS](https://open.spotify.com/album/5xGJCHjxAr2nSajMURpUwC) | 2:17 | 2021-11-11 | 2023-06-02 |
+| [VOGUE °](https://open.spotify.com/track/4pM8I8lDTZhJrFjJu2y5mF) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [VOGUE °](https://open.spotify.com/album/448zs60d9fxF5E2NZYXZjA) | 2:38 | 2026-04-20 |  |
 | [VOY A DISPARARME](https://open.spotify.com/track/6xSAUpJqJ1qwPLn4fH5R9u) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [VOY A DISPARARME](https://open.spotify.com/album/45EqJRM2e02jt1mECyRBBP) | 3:14 | 2026-04-14 |  |
 | [Water](https://open.spotify.com/track/3RCxWl2N0lPx83c7PPRmxW) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/3qdQV2P5OM19g675aZkRlQ) | 3:10 | 2022-06-27 | 2023-06-02 |
 | [Water](https://open.spotify.com/track/4BpwcrTmvQUIPcjPVhS6ki) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/0giRSV8h2BwG62oJV6AHxa) | 3:10 | 2021-11-11 | 2022-07-29 |

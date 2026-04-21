@@ -3613,6 +3613,24 @@
     },
     {
       "album": {
+        "name": "Electric Fever",
+        "url": "https://open.spotify.com/album/0kkvem8uWibBA8x0ndV6Fh"
+      },
+      "artists": [
+        {
+          "name": "DreaMuusic",
+          "url": "https://open.spotify.com/artist/5EmZzq6T5WQBgPw08QsUmi"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239840,
+      "name": "Electric Fever",
+      "url": "https://open.spotify.com/track/2z4FQna7fzi6LP5D6W4ADA"
+    },
+    {
+      "album": {
         "name": "Symphonic house",
         "url": "https://open.spotify.com/album/3jr52nMEY2rcECDUMHPPjQ"
       },
@@ -12384,6 +12402,24 @@
       "duration_ms": 215813,
       "name": "Twentyk",
       "url": "https://open.spotify.com/track/3FNOkOASmP5RW1kws04Msv"
+    },
+    {
+      "album": {
+        "name": "TWO TRIBES",
+        "url": "https://open.spotify.com/album/7LHuPskT8y6qCjffTishMn"
+      },
+      "artists": [
+        {
+          "name": "Valdor Senna",
+          "url": "https://open.spotify.com/artist/0k0aYsHeehlO0BPS5m76jH"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249720,
+      "name": "TWO TRIBES",
+      "url": "https://open.spotify.com/track/4Tw25zcm0DmN8rZg38Dfva"
     },
     {
       "album": {

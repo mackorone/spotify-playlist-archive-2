@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 64657,
+  "num_followers": 64688,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeLJgAAAAADKKWxBR6jA1GSeCB+Du+qn",
+  "snapshot_id": "aeQbAAAAAACauXvD3AqpvgXs5BS3YcuC",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 177773,
-      "name": "Golden Child",
-      "url": "https://open.spotify.com/track/04QWC97Dvd9g0IEDoyUDBX"
+      "duration_ms": 219693,
+      "name": "Faithfully",
+      "url": "https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 219693,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ"
+      "duration_ms": 177773,
+      "name": "Golden Child",
+      "url": "https://open.spotify.com/track/04QWC97Dvd9g0IEDoyUDBX"
     },
     {
       "added_at": null,

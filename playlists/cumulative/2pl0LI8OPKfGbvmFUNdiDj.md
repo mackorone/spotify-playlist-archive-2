@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-427 songs - 23 hr 58 min
+428 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Last Goodbye](https://open.spotify.com/track/5SdEoelq5gFFHzpxGeqi1W) | [Softcase](https://open.spotify.com/artist/2nqXZfwOxBVcKjVa7pYdC8) | [Last Goodbye](https://open.spotify.com/album/52T9LF5wyA24Vz0qI7C5SE) | 3:17 | 2026-02-28 |  |
 | [Last Time Dancing](https://open.spotify.com/track/3XtY6BIFUKabU0CIrntHNe) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Last Time Dancing](https://open.spotify.com/album/2TPQDIZSmD7ZD1dxACv9u2) | 2:15 | 2025-11-08 | 2025-12-01 |
 | [Late Nites](https://open.spotify.com/track/75gsaxmN1p8wLimz3iKmRa) | [Gmile](https://open.spotify.com/artist/2tt6NEFNep08zMwtrzxNaF) | [Late Nites](https://open.spotify.com/album/5XwHLVp7dZCxO0b8W2as0k) | 2:52 | 2025-11-17 | 2026-01-05 |
+| [Latente](https://open.spotify.com/track/3ujkaYSzU2tRuRCnyB5w8e) | [No Hana](https://open.spotify.com/artist/2O6qXZs283cofBBPPxbMAT), [Diana Tagle](https://open.spotify.com/artist/2S6LlZoAlTysVqqOluxHWW) | [Latente](https://open.spotify.com/album/4kbpB8ADo8Zb0HTaAKwDyy) | 2:23 | 2026-04-20 |  |
 | [Latina BB](https://open.spotify.com/track/3XqDTOzpLaSUFT2GPwbQW8) | [cami santiz](https://open.spotify.com/artist/5SqIDTS8ZHDtkIFZpS6G0S) | [Latina BB](https://open.spotify.com/album/19kXzogdcK0IQAKGUI3Je3) | 2:17 | 2026-01-29 | 2026-03-03 |
 | [Layla Bartle](https://open.spotify.com/track/0VbH7zwCc4sdkpLeSDe7nu) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Fun with Layla in Wallington](https://open.spotify.com/album/2hTc0kStuvzmNsApCiLosP) | 2:43 | 2025-10-19 | 2026-01-05 |
 | [Leave Me Alone](https://open.spotify.com/track/58k6KdzzvSjfUWkRpvbFYi) | [Mitirikpwe Patricia](https://open.spotify.com/artist/0NEmwN7vYujcKPM4hs5cVh) | [Mitirikpwe](https://open.spotify.com/album/1UgRg1mzV72aE0VQPdtujP) | 3:26 | 2025-11-17 | 2026-01-05 |

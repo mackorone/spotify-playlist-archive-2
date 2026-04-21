@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Honey Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,715 likes - 128 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,716 likes - 128 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

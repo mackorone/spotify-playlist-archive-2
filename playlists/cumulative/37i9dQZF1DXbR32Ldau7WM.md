@@ -4,7 +4,7 @@
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: Otoboke Beaver
 
-1,569 songs - 4 day 6 hr 25 min
+1,570 songs - 4 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Happy Birthday, New You](https://open.spotify.com/track/0Xq4zN6HIXbjNieLWTNee4) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Happy Birthday, New You](https://open.spotify.com/album/1bVujsbElU3nBCO70jORuL) | 3:00 | 2023-05-30 | 2023-06-14 |
 | [Haru Arashi](https://open.spotify.com/track/7nCvA8xj5SAYgYew1etVaz) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Beatrice](https://open.spotify.com/album/639qviFMk2sSY5BzExIVZA) | 4:50 | 2024-02-13 | 2024-02-21 |
 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 | 2022-11-01 | 2026-04-15 |
+| [Heaven Knows](https://open.spotify.com/track/2m9wsoF85YK4KkGIPNeJEZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [Heaven Knows](https://open.spotify.com/album/0pgiZyAh2klqVTqyLy7Pwh) | 3:08 | 2026-04-15 |  |
 | [HEAVEN'S DRIVE \- Remastered 2022](https://open.spotify.com/track/2YN0J4GseRJh9Vaocsx7aZ) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ark \(Remastered 2022\)](https://open.spotify.com/album/1yswv9nJISyhKOisp0buDe) | 4:15 | 2022-05-17 | 2022-05-25 |
 | [hellboy\. \(feat\. 釈迦坊主\)](https://open.spotify.com/track/3eQ9FDoMOunYuuJVVlPmxV) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [Shaka Bose](https://open.spotify.com/artist/2T7vRIAvrUUUKATk6IcZma) | [hellboy\. \(feat\. 釈迦坊主\)](https://open.spotify.com/album/6eqBeYoz4XJ5x5211nAj3L) | 3:32 | 2022-05-10 | 2022-05-23 |
 | [Hello Stray Kitty](https://open.spotify.com/track/0sg5ungKUSkUVWkNIJS67m) | [LEGO BIG MORL](https://open.spotify.com/artist/6AbHzcOyvyvubx7AcyQ1f9) | [Hello Stray Kitty](https://open.spotify.com/album/3SW6tUBW2lmmVEPzD8WVxc) | 3:11 | 2022-05-24 | 2022-06-09 |
@@ -1216,7 +1217,7 @@
 | [ペンペン](https://open.spotify.com/track/30AYmvC7pCwHKJZFnPE0Mp) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [ペンペン](https://open.spotify.com/album/4KvWjVts1YRnAB3CrXVOyw) | 4:21 | 2022-07-05 | 2022-07-13 |
 | [ホテルニュートリノ](https://open.spotify.com/track/66j7OAinOnLbkATzcQPfmA) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [ホテルニュートリノ](https://open.spotify.com/album/7mAnnljEik428IDN7c8zGv) | 4:04 | 2024-01-02 | 2024-05-01 |
 | [ホネホネフェスロード](https://open.spotify.com/track/1mvxF2mVZmSzEXWjxHUoII) | [Keita The Newest](https://open.spotify.com/artist/5lWQCVtFD3JBNC9Z1ohCEh) | [amable muy muy](https://open.spotify.com/album/6Lyui5eCX7NbYFiF4qhKIH) | 3:12 | 2023-11-08 | 2023-11-18 |
-| [ホレタハレタ](https://open.spotify.com/track/0PHMmilCr5oGP9OrkNzTn5) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [キラーパス](https://open.spotify.com/album/541MeMwAFGkHslqZMrp0aW) | 4:24 | 2026-02-17 |  |
+| [ホレタハレタ](https://open.spotify.com/track/0PHMmilCr5oGP9OrkNzTn5) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [キラーパス](https://open.spotify.com/album/541MeMwAFGkHslqZMrp0aW) | 4:24 | 2026-02-17 | 2026-04-21 |
 | [ボクだけのもの](https://open.spotify.com/track/1aCb1rBREFcEg2AxohiDT5) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [ボクだけのもの](https://open.spotify.com/album/5CbGQF3FSum5qLoyhzncSX) | 6:28 | 2022-05-12 | 2022-06-17 |
 | [ポケットの中](https://open.spotify.com/track/4ujFJVwK2M8c8SblmNlpv0) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [リラックマと遊園地 オリジナル・サウンドトラック \(NETFLIXシリーズ\)](https://open.spotify.com/album/5HvNkX9xldX0mO6ioV5LPN) | 5:39 | 2022-08-23 | 2022-08-25 |
 | [マイ草履 feat\. にゃん北朝時代](https://open.spotify.com/track/4WhjnX6kLVNQb7MwnZcdfJ) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [にゃん北朝時代](https://open.spotify.com/artist/42ANsGZCydh06cNyDJTZHf) | [マイ草履 feat\. にゃん北朝時代](https://open.spotify.com/album/1BXP1xh1EFU9sMJRsHY9on) | 4:36 | 2022-05-10 | 2022-07-29 |

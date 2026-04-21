@@ -615,6 +615,22 @@
     {
       "added_at": "2025-02-11 11:46:22",
       "album": {
+        "name": "Sale el Sol",
+        "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Waka Waka (This Time for Africa) - K-Mix",
+      "url": "https://open.spotify.com/track/63Tl9k1sH8tznn3bqoMuyF"
+    },
+    {
+      "added_at": "2025-02-11 11:46:22",
+      "album": {
         "name": "Levitating (feat. DaBaby)",
         "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
-    },
-    {
-      "added_at": "2025-02-11 11:46:22",
-      "album": {
-        "name": "Sale el Sol",
-        "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Waka Waka (This Time for Africa) - K-Mix",
-      "url": "https://open.spotify.com/track/63Tl9k1sH8tznn3bqoMuyF"
     },
     {
       "added_at": "2025-02-11 11:46:22",

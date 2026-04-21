@@ -2243,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "sakura / faint (a short story)",
+        "url": "https://open.spotify.com/album/5kcWCpDSZoyhLkrEbdv3jI"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137645,
+      "name": "faint (a short story)",
+      "url": "https://open.spotify.com/track/3Y6ViH038Rn6LirlSAKzTQ"
+    },
+    {
+      "album": {
         "name": "Tintswalo / Falling",
         "url": "https://open.spotify.com/album/7ml6sBkaqksNLKSXD3fmuV"
       },
@@ -5916,7 +5934,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 239824,
       "name": "Ready",
       "url": "https://open.spotify.com/track/4xT9lQIeYAtwYYH2rhEnH0"
@@ -6192,6 +6210,24 @@
       "duration_ms": 180266,
       "name": "Rushing",
       "url": "https://open.spotify.com/track/3nJQ6sHnGQkjMdRZJczmRJ"
+    },
+    {
+      "album": {
+        "name": "sakura / faint (a short story)",
+        "url": "https://open.spotify.com/album/5kcWCpDSZoyhLkrEbdv3jI"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213483,
+      "name": "sakura",
+      "url": "https://open.spotify.com/track/2dITDWkdPaRDp1T3tPXcBu"
     },
     {
       "album": {
@@ -7258,7 +7294,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-21",
       "duration_ms": 318600,
       "name": "The Plug",
       "url": "https://open.spotify.com/track/6HGbrlmb37enHxutPPZXgz"

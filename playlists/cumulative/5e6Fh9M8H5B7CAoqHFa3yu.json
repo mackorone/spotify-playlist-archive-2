@@ -7647,6 +7647,24 @@
     },
     {
       "album": {
+        "name": "LETTING GO",
+        "url": "https://open.spotify.com/album/5qgzx90xVvgZcTqlnYLgAP"
+      },
+      "artists": [
+        {
+          "name": "anoushka hem",
+          "url": "https://open.spotify.com/artist/5tjq7Oyj6Zu5PhVACjwC8t"
+        }
+      ],
+      "date_added": "2026-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "dear future self",
+      "url": "https://open.spotify.com/track/52RtpM46le3D6bVbsaUUnN"
+    },
+    {
+      "album": {
         "name": "Dear Summer",
         "url": "https://open.spotify.com/album/5dWifVlsFXOqeB0E5438BY"
       },

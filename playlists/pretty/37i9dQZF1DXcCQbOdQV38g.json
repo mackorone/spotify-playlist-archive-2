@@ -1,12 +1,12 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1. Cover: Donnie & Senna",
-  "num_followers": 61929,
+  "num_followers": 61943,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEM6X0uXuX9XilFmFGIzhEDLMp5x",
+  "snapshot_id": "AAAAAPQAv17nMYJ3YJxym7pzYPqCt3B9",
   "tracks": [
     {
       "added_at": "2026-04-16 22:00:39",
@@ -31,22 +31,6 @@
     {
       "added_at": "2026-04-16 22:00:39",
       "album": {
-        "name": "Niet Voor Lief",
-        "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 147367,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
-    },
-    {
-      "added_at": "2026-04-16 22:00:39",
-      "album": {
         "name": "Zelfs Je Naam Is Mooi",
         "url": "https://open.spotify.com/album/6NdMpCP40nHM23j9XfRL8z"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 166864,
       "name": "Zelfs Je Naam Is Mooi",
       "url": "https://open.spotify.com/track/1UgLT5FEpuMklqAaMrt4bh"
+    },
+    {
+      "added_at": "2026-04-16 22:00:39",
+      "album": {
+        "name": "Niet Voor Lief",
+        "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "duration_ms": 147367,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
     },
     {
       "added_at": "2026-04-16 22:00:39",
@@ -87,6 +87,30 @@
       "duration_ms": 151714,
       "name": "Wereldwonder",
       "url": "https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU"
+    },
+    {
+      "added_at": "2026-04-16 22:00:39",
+      "album": {
+        "name": "Lichaamstaal",
+        "url": "https://open.spotify.com/album/00Y2JC7UyHuylPEfJ6mV62"
+      },
+      "artists": [
+        {
+          "name": "Team Rush Hour",
+          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
+        },
+        {
+          "name": "SHQQ",
+          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
+        },
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        }
+      ],
+      "duration_ms": 148102,
+      "name": "Lichaamstaal",
+      "url": "https://open.spotify.com/track/6PkKA3PKeVgUVMPhsM8t1n"
     },
     {
       "added_at": "2026-04-16 22:00:39",
@@ -171,6 +195,30 @@
       "duration_ms": 148815,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
+    },
+    {
+      "added_at": "2026-04-16 22:00:39",
+      "album": {
+        "name": "Nooit Meer Voorbij",
+        "url": "https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        },
+        {
+          "name": "Brace",
+          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+        }
+      ],
+      "duration_ms": 150741,
+      "name": "Nooit Meer Voorbij",
+      "url": "https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC"
     },
     {
       "added_at": "2026-04-16 22:00:39",
@@ -271,46 +319,6 @@
     {
       "added_at": "2026-04-16 22:00:39",
       "album": {
-        "name": "Nooit Meer Voorbij",
-        "url": "https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx"
-      },
-      "artists": [
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        },
-        {
-          "name": "Brace",
-          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
-        }
-      ],
-      "duration_ms": 150741,
-      "name": "Nooit Meer Voorbij",
-      "url": "https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC"
-    },
-    {
-      "added_at": "2026-04-16 22:00:39",
-      "album": {
-        "name": "Heerlijk",
-        "url": "https://open.spotify.com/album/68JDBphxyUiqaNt3qotaf7"
-      },
-      "artists": [
-        {
-          "name": "Danny De Munk",
-          "url": "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
-        }
-      ],
-      "duration_ms": 126489,
-      "name": "Heerlijk",
-      "url": "https://open.spotify.com/track/3uNLa5MkTaw3OdXWfXzgXZ"
-    },
-    {
-      "added_at": "2026-04-16 22:00:39",
-      "album": {
         "name": "Waarom Nou Niet (Kleuren)",
         "url": "https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA"
       },
@@ -327,26 +335,22 @@
     {
       "added_at": "2026-04-16 22:00:39",
       "album": {
-        "name": "Lichaamstaal",
-        "url": "https://open.spotify.com/album/00Y2JC7UyHuylPEfJ6mV62"
+        "name": "Uitslover",
+        "url": "https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6"
       },
       "artists": [
         {
-          "name": "Team Rush Hour",
-          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
         },
         {
-          "name": "SHQQ",
-          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
-        },
-        {
-          "name": "K-Liber",
-          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
         }
       ],
-      "duration_ms": 148102,
-      "name": "Lichaamstaal",
-      "url": "https://open.spotify.com/track/6PkKA3PKeVgUVMPhsM8t1n"
+      "duration_ms": 155998,
+      "name": "Uitslover",
+      "url": "https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw"
     },
     {
       "added_at": "2026-04-16 22:00:39",
@@ -455,6 +459,42 @@
     {
       "added_at": "2026-04-16 22:00:39",
       "album": {
+        "name": "Heerlijk",
+        "url": "https://open.spotify.com/album/68JDBphxyUiqaNt3qotaf7"
+      },
+      "artists": [
+        {
+          "name": "Danny De Munk",
+          "url": "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
+        }
+      ],
+      "duration_ms": 126489,
+      "name": "Heerlijk",
+      "url": "https://open.spotify.com/track/3uNLa5MkTaw3OdXWfXzgXZ"
+    },
+    {
+      "added_at": "2026-04-16 22:00:39",
+      "album": {
+        "name": "Mo\u00ebt Dat Nou",
+        "url": "https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        }
+      ],
+      "duration_ms": 154691,
+      "name": "Mo\u00ebt Dat Nou",
+      "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
+    },
+    {
+      "added_at": "2026-04-16 22:00:39",
+      "album": {
         "name": "Hallo",
         "url": "https://open.spotify.com/album/6QEgO7kSdee6FL4SPJ1sRX"
       },
@@ -511,26 +551,6 @@
       "duration_ms": 145571,
       "name": "PRETTY GIRLS",
       "url": "https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs"
-    },
-    {
-      "added_at": "2026-04-16 22:00:39",
-      "album": {
-        "name": "Mo\u00ebt Dat Nou",
-        "url": "https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        },
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        }
-      ],
-      "duration_ms": 154691,
-      "name": "Mo\u00ebt Dat Nou",
-      "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
     },
     {
       "added_at": "2026-04-16 22:00:39",
@@ -727,26 +747,6 @@
       "duration_ms": 167002,
       "name": "Zomernacht In Griekenland",
       "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
-    },
-    {
-      "added_at": "2026-04-16 22:00:39",
-      "album": {
-        "name": "Uitslover",
-        "url": "https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6"
-      },
-      "artists": [
-        {
-          "name": "Samuel Welten",
-          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
-        },
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 155998,
-      "name": "Uitslover",
-      "url": "https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw"
     },
     {
       "added_at": "2026-04-16 22:00:39",
@@ -1395,6 +1395,58 @@
     {
       "added_at": "2026-04-16 22:00:39",
       "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/60z3FozwRlFsEyPkXTaZCw"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        },
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        }
+      ],
+      "duration_ms": 171080,
+      "name": "Hoe",
+      "url": "https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk"
+    },
+    {
+      "added_at": "2026-04-16 22:00:39",
+      "album": {
+        "name": "Ontspanje",
+        "url": "https://open.spotify.com/album/0qrftwHhC9K9rDHewAQB9N"
+      },
+      "artists": [
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "duration_ms": 160123,
+      "name": "Ontspanje",
+      "url": "https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3"
+    },
+    {
+      "added_at": "2026-04-16 22:00:39",
+      "album": {
+        "name": "Honderd Keer",
+        "url": "https://open.spotify.com/album/6DJkSNTd8UFnKsAXss5zJo"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 196034,
+      "name": "Honderd Keer",
+      "url": "https://open.spotify.com/track/35i2wSWfDTxxBMUCNnmosW"
+    },
+    {
+      "added_at": "2026-04-16 22:00:39",
+      "album": {
         "name": "Alles Wat Ik Zoek",
         "url": "https://open.spotify.com/album/1vfS5j7BUwPfoIKPrAVkt3"
       },
@@ -1499,58 +1551,6 @@
       "duration_ms": 134400,
       "name": "Leven",
       "url": "https://open.spotify.com/track/6f3vDmoE9ssTrOdLpJKxzT"
-    },
-    {
-      "added_at": "2026-04-16 22:00:39",
-      "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/60z3FozwRlFsEyPkXTaZCw"
-      },
-      "artists": [
-        {
-          "name": "Miss Montreal",
-          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
-        },
-        {
-          "name": "Nielson",
-          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
-        }
-      ],
-      "duration_ms": 171080,
-      "name": "Hoe",
-      "url": "https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk"
-    },
-    {
-      "added_at": "2026-04-16 22:00:39",
-      "album": {
-        "name": "Ontspanje",
-        "url": "https://open.spotify.com/album/0qrftwHhC9K9rDHewAQB9N"
-      },
-      "artists": [
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        }
-      ],
-      "duration_ms": 160123,
-      "name": "Ontspanje",
-      "url": "https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3"
-    },
-    {
-      "added_at": "2026-04-16 22:00:39",
-      "album": {
-        "name": "Honderd Keer",
-        "url": "https://open.spotify.com/album/6DJkSNTd8UFnKsAXss5zJo"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 196034,
-      "name": "Honderd Keer",
-      "url": "https://open.spotify.com/track/35i2wSWfDTxxBMUCNnmosW"
     }
   ],
   "unique_name": "Nederlandse Zomerhits 2026",

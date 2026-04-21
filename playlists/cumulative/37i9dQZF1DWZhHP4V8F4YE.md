@@ -4,7 +4,7 @@
 
 > All the vibes, enjoyment and future hits right here
 
-878 songs - 2 day 6 hr 47 min
+879 songs - 2 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\#skeptacore pt.3](https://open.spotify.com/track/1HAW56e0zz05phUnzuHF9E) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [\#skeptacore pt.3](https://open.spotify.com/album/603607Iup3eeTPgUM9Qoof) | 2:39 | 2023-12-04 | 2023-12-12 |
 | [1 AM](https://open.spotify.com/track/6rL8u0RmBmL1Mp5rK33tQA) | [Civ](https://open.spotify.com/artist/7qXQhtVwPF2ze2dLKpb5LT) | [1 AM](https://open.spotify.com/album/6EEuOu9JTZxw9UbTghE7UR) | 2:13 | 2025-04-07 | 2025-05-13 |
 | [10 MINUTES](https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [10 MINUTES](https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT) | 2:35 | 2026-03-09 |  |
+| [100 Meters](https://open.spotify.com/track/15swTFghLxUCfHKAeq9jMz) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Agaba Romantic](https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P) | 2:08 | 2026-04-20 |  |
 | [1er Gaou](https://open.spotify.com/track/5ohqZJp2b7HRQ6SWmxnXzU) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [1er Gaou](https://open.spotify.com/album/6AfIwxROlQG3iv2yVDdKUp) | 4:55 | 2025-08-18 | 2025-11-04 |
 | [2 days into college](https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [2 days into college](https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3) | 2:48 | 2024-02-13 | 2024-02-20 |
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-12-12 | 2023-01-17 |
@@ -515,7 +516,7 @@
 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 | 2023-03-07 | 2023-03-21 |
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-03-07 | 2023-04-04 |
 | [MPISHI](https://open.spotify.com/track/45Ly8ztGdYY438piRvlLu9) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [MPISHI](https://open.spotify.com/album/2g384lke3YzRi4wVo4hv51) | 3:19 | 2025-04-15 | 2025-04-23 |
-| [Munachi](https://open.spotify.com/track/32eZBRzpOlfJewW9Ih0tu2) | [Agbá](https://open.spotify.com/artist/6sKiadRicEKCCjyrbzzbmE) | [Munachi](https://open.spotify.com/album/0Po5K4XzLDkEnlLvKmmCVD) | 2:29 | 2026-01-26 |  |
+| [Munachi](https://open.spotify.com/track/32eZBRzpOlfJewW9Ih0tu2) | [Agbá](https://open.spotify.com/artist/6sKiadRicEKCCjyrbzzbmE) | [Munachi](https://open.spotify.com/album/0Po5K4XzLDkEnlLvKmmCVD) | 2:29 | 2026-01-26 | 2026-04-21 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-15 | 2024-02-07 |
 | [Mvelinqangi](https://open.spotify.com/track/2PVWNCTVQCHn0jLJ3q1YBR) | [Thak'so Ujey Choir](https://open.spotify.com/artist/6GAiCaNkiz2HNCPXbv8GPa) | [Mvelinqangi](https://open.spotify.com/album/0tH8n41iblT4sPuRDh9MSS) | 3:41 | 2024-07-24 | 2024-08-08 |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-11-06 | 2024-01-16 |

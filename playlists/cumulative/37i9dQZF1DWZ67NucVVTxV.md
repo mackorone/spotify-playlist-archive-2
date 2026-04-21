@@ -4,7 +4,7 @@
 
 > My enemy nah sapa
 
-855 songs - 1 day 16 hr 36 min
+856 songs - 1 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Burst](https://open.spotify.com/track/5YvcKRXYHqdu5FawbLLzw4) | [Joel Dre](https://open.spotify.com/artist/5DyaR5YlAjYxC0HcRHihY5) | [Burst](https://open.spotify.com/album/1mOKhKlHDnEO07kiSOFjav) | 2:34 | 2024-09-27 | 2024-11-30 |
 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 | 2024-02-02 | 2025-04-01 |
 | [Busy & Broke](https://open.spotify.com/track/5oGQ7wWe5DxxWJDVbpwNnm) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [Busy & Broke](https://open.spotify.com/album/2beprFW3yOohVHvReH74ei) | 2:11 | 2024-06-28 | 2024-07-06 |
+| [By Now](https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt) | [Promise Land](https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV) | 3:31 | 2026-04-20 |  |
 | [Call Jehova](https://open.spotify.com/track/1CANP9um3E8PolYHhvzttV) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Call Jehova](https://open.spotify.com/album/0bDZOcGeHoA2GM0qll0beL) | 2:39 | 2023-01-27 | 2023-02-11 |
 | [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 | 2024-11-29 |  |
 | [Can't Stop \(feat\. Sarkodie\)](https://open.spotify.com/track/5nylrAThl0wI4EeJuUQ6ym) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Young & Matured](https://open.spotify.com/album/7e4OZbvQBYDfCdbLHTIGbc) | 3:22 | 2024-04-19 | 2024-05-10 |
@@ -799,7 +800,7 @@
 | [Under Pressure](https://open.spotify.com/track/1SAlQUPK58CCDoVf90s77q) | [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Under Pressure](https://open.spotify.com/album/4bdcWdYSzrgqpsUlNNaVeT) | 3:41 | 2025-08-22 | 2025-09-26 |
 | [Under The Canopy](https://open.spotify.com/track/1QCtwTegsRR8XtgaMpoQLk) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Under The Canopy](https://open.spotify.com/album/7c6oqqAN19VuIGt7KsKf9t) | 2:51 | 2024-05-31 | 2024-10-13 |
 | [Up and Active](https://open.spotify.com/track/2jMAfXYAD29fhKPhoIOHuq) | [Olahiman](https://open.spotify.com/artist/401aSLickqnbze4b70aouW) | [Up and Active](https://open.spotify.com/album/4Q01XwYG4yWeA7tSl1KDar) | 2:21 | 2025-11-07 | 2025-11-14 |
-| [Uzo Ano](https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Uzo Ano](https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL) | 3:38 | 2026-02-13 | 2026-02-20 |
+| [Uzo Ano](https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Uzo Ano](https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL) | 3:38 | 2026-02-13 |  |
 | [Valley Of Trappers \(feat\. Sarkodie\) \- Remix](https://open.spotify.com/track/3wbTj2CQdppIyUTn69wInH) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Juiczx](https://open.spotify.com/artist/6NlTIdfjzOUvzb0uhRUO4e) | [Valley Of Trappers \(feat\. Sarkodie\) \[Remix\]](https://open.spotify.com/album/4w0ZEXI1OL7ocnC4EYmh8d) | 2:22 | 2024-07-19 | 2024-10-19 |
 | [Van Dijk](https://open.spotify.com/track/5uMdyf3DpUoqMAmgDg291j) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Van Dijk](https://open.spotify.com/album/00w0QmFIi9JPxWqFH3d3cq) | 2:38 | 2023-12-01 | 2023-12-08 |
 | [Vanilla](https://open.spotify.com/track/5CFIAgBLBm53lMElR7oaVJ) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [A Wonderful Time](https://open.spotify.com/album/0qbHtNyI6S1uDvIi3alx6N) | 1:33 | 2023-11-10 | 2023-11-17 |
