@@ -14213,6 +14213,24 @@
     },
     {
       "album": {
+        "name": "Inconsistency",
+        "url": "https://open.spotify.com/album/2TtVrIAvRehVZPLdVHXDrE"
+      },
+      "artists": [
+        {
+          "name": "This World Stands Still",
+          "url": "https://open.spotify.com/artist/0ReYfibZzwQRGgNJEXas0t"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152899,
+      "name": "No Escape",
+      "url": "https://open.spotify.com/track/0K15Wt8Zr2lBihYjvRX315"
+    },
+    {
+      "album": {
         "name": "No Gods",
         "url": "https://open.spotify.com/album/1rSMvnaueBZxlXtPLFtsPH"
       },
@@ -17473,6 +17491,24 @@
     },
     {
       "album": {
+        "name": "The Rock Made To Roll",
+        "url": "https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18"
+      },
+      "artists": [
+        {
+          "name": "Tin Zelkova",
+          "url": "https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199336,
+      "name": "Say Hello To My Friend",
+      "url": "https://open.spotify.com/track/23xG5KZSwtEZpQwjWfIrBg"
+    },
+    {
+      "album": {
         "name": "Say It Back",
         "url": "https://open.spotify.com/album/2SK2gpLqMbskLvygSVj42y"
       },
@@ -17880,7 +17916,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 145377,
       "name": "Shahanshah",
       "url": "https://open.spotify.com/track/6f9tOBgsUHGsE3FCI2YBbv"
@@ -18566,6 +18602,24 @@
       "duration_ms": 229333,
       "name": "Skateboard & Rain",
       "url": "https://open.spotify.com/track/1iAmluI90IYFBf07lwF16h"
+    },
+    {
+      "album": {
+        "name": "Slambogini",
+        "url": "https://open.spotify.com/album/4DiOEqLYwORUVb9Xn61N6J"
+      },
+      "artists": [
+        {
+          "name": "Endurus",
+          "url": "https://open.spotify.com/artist/0Q1hSukyOd14VmmdpP4mNe"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158550,
+      "name": "Slambogini",
+      "url": "https://open.spotify.com/track/3iA8AvXCiFDCHNwBqnx6S4"
     },
     {
       "album": {
@@ -24500,6 +24554,24 @@
       "duration_ms": 174901,
       "name": "You'll Believe What You're Told",
       "url": "https://open.spotify.com/track/4KSv5XoFYivrCLusrDa75U"
+    },
+    {
+      "album": {
+        "name": "The Silence We Carried",
+        "url": "https://open.spotify.com/album/2VHqPiwhzRkTZsQhd7QvML"
+      },
+      "artists": [
+        {
+          "name": "Geoff",
+          "url": "https://open.spotify.com/artist/28bGRsX9UYi8M4QJOwTHx0"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "You're All",
+      "url": "https://open.spotify.com/track/34YtNBPlO81bhT16nrJOP3"
     },
     {
       "album": {

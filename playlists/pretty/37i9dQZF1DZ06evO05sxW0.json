@@ -1,12 +1,12 @@
 {
   "description": "This is Bikini Kill. The essential tracks, all in one playlist.",
-  "num_followers": 8817,
+  "num_followers": 8822,
   "original_name": "This Is Bikini Kill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeQbAAAAAACCiu87NHqzXvn5LnM6vYVb",
+  "snapshot_id": "aeVsgAAAAACHmZqcsdm4Tf5vYRJa/isF",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 209960,
-      "name": "Ocean Song",
-      "url": "https://open.spotify.com/track/2fM9MUueSFsILkptHaiE9N"
+      "duration_ms": 215546,
+      "name": "Just Once",
+      "url": "https://open.spotify.com/track/1sGHJSgeRVGlsWMW3H0bak"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 215546,
-      "name": "Just Once",
-      "url": "https://open.spotify.com/track/1sGHJSgeRVGlsWMW3H0bak"
+      "duration_ms": 209960,
+      "name": "Ocean Song",
+      "url": "https://open.spotify.com/track/2fM9MUueSFsILkptHaiE9N"
     }
   ],
   "unique_name": "This Is Bikini Kill",

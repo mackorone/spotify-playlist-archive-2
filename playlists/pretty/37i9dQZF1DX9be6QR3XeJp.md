@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Skye Newman
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,452 likes - 277 songs - 14 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,451 likes - 277 songs - 14 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,640 songs - 3 day 12 hr 1 min
+1,641 songs - 3 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,6 +665,7 @@
 | [I Do \(Joni's Song\)](https://open.spotify.com/track/0VHOjjYADIXIYBj2uRzATe) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [I Do \(Joni's Song\)](https://open.spotify.com/album/5bssbrUysFWfGLBAp0HJ01) | 2:26 | 2025-02-21 | 2025-03-25 |
 | [I Don't Wanna Talk](https://open.spotify.com/track/3iwU0ayGmLRR4tndbBAAWL) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [I Don't Wanna Talk](https://open.spotify.com/album/5lQljp3QFWHdAeAZHwFOvK) | 2:55 | 2025-04-17 | 2025-05-23 |
 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 | 2025-04-24 | 2025-05-23 |
+| [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 5:03 | 2026-04-21 |  |
 | [i guess u never really cared about me](https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i guess u never really cared about me](https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z) | 3:11 | 2025-04-17 | 2025-05-23 |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-27 | 2024-07-27 |
 | [I Hate San Francisco](https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [I Hate San Francisco](https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36) | 3:13 | 2025-02-13 | 2025-03-28 |

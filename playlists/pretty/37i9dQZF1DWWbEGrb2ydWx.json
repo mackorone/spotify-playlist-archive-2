@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:2EFsfh1zewsSWhDINv7j1I\">Logic1000's </a> favourite tracks.  Updated regularly. Curated by Logic1000. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 21367,
+  "num_followers": 21371,
   "original_name": "Logic1000's track IDs",
   "owner": {
     "name": "Spotify",
@@ -474,6 +474,10 @@
         {
           "name": "Mala",
           "url": "https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu"
+        },
+        {
+          "name": "Simbad",
+          "url": "https://open.spotify.com/artist/7i0E2ILBOdsvqmrX7shhJE"
         }
       ],
       "duration_ms": 251820,

@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-372 songs - 1 day 1 hr 13 min
+373 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Come With Me](https://open.spotify.com/track/5nHaB4kZ5QT8cH4Ie31ssY) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Come With Me](https://open.spotify.com/album/22DsxCKPqrUUOUG5E3x5Cm) | 3:59 | 2025-09-05 | 2025-12-03 |
 | [Control](https://open.spotify.com/track/7DiK4Zb8foUGz0DdmLGOCH) | [Clara Cuvé](https://open.spotify.com/artist/7daFW9cX9jHmOxZ0PIofRm) | [Sektion 1](https://open.spotify.com/album/4C3R1RL6h7EkNvTJnwwV1j) | 5:43 | 2024-04-09 | 2024-10-01 |
 | [CONTROL YOUR BODY](https://open.spotify.com/track/3xTwHPwWKMWrWgyN22Qk2h) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [CONTROL YOUR BODY](https://open.spotify.com/album/61k2pkPgF5ky2mjy7ZrBBa) | 3:36 | 2025-12-12 |  |
+| [CRACK!](https://open.spotify.com/track/13qXoC2AyxfGXpV9yx5HOA) | [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [JAZZY](https://open.spotify.com/artist/0xGI8ZVWgiCWicV1lD1Hrk) | [CRACK!](https://open.spotify.com/album/0yLUtDg4hNz7cwrfi4GsU3) | 2:13 | 2026-04-10 |  |
 | [Crowd Operator](https://open.spotify.com/track/5I11zu7bajz0ctX3vYVML0) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Crowd Operator](https://open.spotify.com/album/4bZgI0aJv7TCz0nMpX0Tbo) | 3:45 | 2026-01-29 |  |
 | [Crucifix](https://open.spotify.com/track/1sLRN2LrirTazAthHzI4jI) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [PHOROS](https://open.spotify.com/artist/3mAGi2CAWTnF7t6CUGJN9q), [Church of Molly](https://open.spotify.com/artist/7uTmmx6Ta5g0KvtxeeFrrn) | [Crucifix](https://open.spotify.com/album/7qn042MRo4JdFQvLfnNZkp) | 2:42 | 2026-03-20 |  |
 | [Crush](https://open.spotify.com/track/4BuT5v6lb1LYYtzHntnhfx) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Crush](https://open.spotify.com/album/4i0OpEAjeFGlaySj85Lh6g) | 2:13 | 2025-05-16 | 2025-07-30 |
@@ -141,7 +142,7 @@
 | [Full Belly](https://open.spotify.com/track/3FO2udFq5htKXTN61UwDNU) | [Cera Khin](https://open.spotify.com/artist/49QMv0RvuxcUG8Xk6YweEz) | [Full Belly](https://open.spotify.com/album/3RzpO4RjhbgfiAJjmxoM67) | 5:17 | 2024-04-09 | 2024-08-17 |
 | [Fury](https://open.spotify.com/track/19VttUxQp2uerPFEZoLQGi) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Fury EP](https://open.spotify.com/album/4FDkRB2ZvvFP6yo5MONB6E) | 4:00 | 2025-11-07 | 2026-02-11 |
 | [Get High](https://open.spotify.com/track/3cCaThaCDh36KtTR64QWrv) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Get High](https://open.spotify.com/album/1inNSojfp9GpD1UjNsQqSP) | 2:26 | 2026-04-10 |  |
-| [Get Naughty](https://open.spotify.com/track/2jLJXddJOrdDh8XiL0K9nt) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Get Naughty](https://open.spotify.com/album/4xknrXxDZWckpqXI2v4Fgo) | 1:57 | 2025-04-25 |  |
+| [Get Naughty](https://open.spotify.com/track/2jLJXddJOrdDh8XiL0K9nt) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Get Naughty](https://open.spotify.com/album/4xknrXxDZWckpqXI2v4Fgo) | 1:57 | 2025-04-25 | 2026-04-22 |
 | [Get Ready](https://open.spotify.com/track/50VU7qfIoUAqG1tzJwtmzh) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Father 808](https://open.spotify.com/artist/6sggmB5DTVWDcShHGMqYi6) | [Get Ready](https://open.spotify.com/album/2afAHCgfm4r4unfH8lI7kR) | 2:14 | 2025-04-04 |  |
 | [GET THE FUCK OUT](https://open.spotify.com/track/5Hb3P9vrw0364dyW82Uyjd) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [GET THE FUCK OUT](https://open.spotify.com/album/71MKbWH7kgU3xHaj05KxXK) | 2:49 | 2025-03-19 |  |
 | [Get Up](https://open.spotify.com/track/3cwufpzK10CqK1wFWZCRxj) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [Get Up](https://open.spotify.com/album/25UZcKrzHZ5LqkSQfX1nSL) | 3:09 | 2025-02-07 | 2025-02-21 |

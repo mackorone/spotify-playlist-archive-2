@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Nikola Jokić and Anthony Edwards
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Anthony Edwards
 
 903 songs - 1 day 21 hr 59 min
 

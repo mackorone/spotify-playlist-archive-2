@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Sameer Rahat",
-  "num_followers": 191451,
+  "num_followers": 191494,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-04-20 08:24:05",
       "album": {
-        "name": "Ishq X Ranjha",
-        "url": "https://open.spotify.com/album/5grIwYxEoXUb1tVBbfsTA6"
-      },
-      "artists": [
-        {
-          "name": "Khotu Kharkhada",
-          "url": "https://open.spotify.com/artist/06fmZLGLQlgnlzyGqniuqZ"
-        }
-      ],
-      "duration_ms": 151836,
-      "name": "Ishq X Ranjha",
-      "url": "https://open.spotify.com/track/563j7XuZdH49Xqr5pNK3xo"
-    },
-    {
-      "added_at": "2026-04-20 08:24:05",
-      "album": {
         "name": "Jaadugari",
         "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2026-04-20 08:24:05",
       "album": {
+        "name": "Ishq X Ranjha",
+        "url": "https://open.spotify.com/album/5grIwYxEoXUb1tVBbfsTA6"
+      },
+      "artists": [
+        {
+          "name": "Khotu Kharkhada",
+          "url": "https://open.spotify.com/artist/06fmZLGLQlgnlzyGqniuqZ"
+        }
+      ],
+      "duration_ms": 151836,
+      "name": "Ishq X Ranjha",
+      "url": "https://open.spotify.com/track/563j7XuZdH49Xqr5pNK3xo"
+    },
+    {
+      "added_at": "2026-04-20 08:24:05",
+      "album": {
         "name": "Heeriye",
         "url": "https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj"
       },
@@ -891,26 +891,6 @@
       "duration_ms": 215333,
       "name": "Heeriye",
       "url": "https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK"
-    },
-    {
-      "added_at": "2026-04-20 08:24:05",
-      "album": {
-        "name": "Bhaage Naina",
-        "url": "https://open.spotify.com/album/7MNqgKxMEZmaxN0AECvXSl"
-      },
-      "artists": [
-        {
-          "name": "Vismay Patel",
-          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
-        },
-        {
-          "name": "Shishir",
-          "url": "https://open.spotify.com/artist/6yVDprBf66s5n9yf2hQ220"
-        }
-      ],
-      "duration_ms": 159973,
-      "name": "Bhaage Naina",
-      "url": "https://open.spotify.com/track/1VGTeXWTqjpwCBP5n3kwrI"
     },
     {
       "added_at": "2026-04-20 08:24:05",
@@ -955,18 +935,22 @@
     {
       "added_at": "2026-04-20 08:24:05",
       "album": {
-        "name": "Saanjh",
-        "url": "https://open.spotify.com/album/2eselSZqVzpUQXp2SYcamV"
+        "name": "Bhaage Naina",
+        "url": "https://open.spotify.com/album/7MNqgKxMEZmaxN0AECvXSl"
       },
       "artists": [
         {
-          "name": "Kartik Raman",
-          "url": "https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc"
+          "name": "Vismay Patel",
+          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
+        },
+        {
+          "name": "Shishir",
+          "url": "https://open.spotify.com/artist/6yVDprBf66s5n9yf2hQ220"
         }
       ],
-      "duration_ms": 240870,
-      "name": "Saanjh",
-      "url": "https://open.spotify.com/track/73HnMlPFhxQ4jqvqUWS0qO"
+      "duration_ms": 159973,
+      "name": "Bhaage Naina",
+      "url": "https://open.spotify.com/track/1VGTeXWTqjpwCBP5n3kwrI"
     },
     {
       "added_at": "2026-04-20 08:24:05",
@@ -991,6 +975,22 @@
       "duration_ms": 141716,
       "name": "Piya",
       "url": "https://open.spotify.com/track/067DbzLwQzTCkhz7Aw4GN8"
+    },
+    {
+      "added_at": "2026-04-20 08:24:05",
+      "album": {
+        "name": "Saanjh",
+        "url": "https://open.spotify.com/album/2eselSZqVzpUQXp2SYcamV"
+      },
+      "artists": [
+        {
+          "name": "Kartik Raman",
+          "url": "https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc"
+        }
+      ],
+      "duration_ms": 240870,
+      "name": "Saanjh",
+      "url": "https://open.spotify.com/track/73HnMlPFhxQ4jqvqUWS0qO"
     },
     {
       "added_at": "2026-04-20 08:24:05",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-04-20 08:24:05",
       "album": {
-        "name": "Saajanwa",
-        "url": "https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ"
-      },
-      "artists": [
-        {
-          "name": "Aanchal Tyagi",
-          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Saajanwa",
-      "url": "https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L"
-    },
-    {
-      "added_at": "2026-04-20 08:24:05",
-      "album": {
         "name": "Jiya",
         "url": "https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2026-04-20 08:24:05",
       "album": {
-        "name": "Tuu",
-        "url": "https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp"
+        "name": "Saajanwa",
+        "url": "https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ"
       },
       "artists": [
         {
-          "name": "Akanksha Bhandari",
-          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Tuu",
-      "url": "https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0"
+      "duration_ms": 162285,
+      "name": "Saajanwa",
+      "url": "https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L"
     },
     {
       "added_at": "2026-04-20 08:24:05",
@@ -1207,6 +1191,22 @@
       "duration_ms": 234713,
       "name": "Saanware Aijaiyo",
       "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
+    },
+    {
+      "added_at": "2026-04-20 08:24:05",
+      "album": {
+        "name": "Tuu",
+        "url": "https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Tuu",
+      "url": "https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0"
     },
     {
       "added_at": "2026-04-20 08:24:05",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-04-20 08:24:05",
       "album": {
+        "name": "Naina",
+        "url": "https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh"
+      },
+      "artists": [
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Naina",
+      "url": "https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e"
+    },
+    {
+      "added_at": "2026-04-20 08:24:05",
+      "album": {
         "name": "Kya Kahein",
         "url": "https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 187342,
       "name": "Kya Kahein",
       "url": "https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg"
-    },
-    {
-      "added_at": "2026-04-20 08:24:05",
-      "album": {
-        "name": "Naina",
-        "url": "https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh"
-      },
-      "artists": [
-        {
-          "name": "Bombay the Artist",
-          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Naina",
-      "url": "https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e"
     },
     {
       "added_at": "2026-04-20 08:24:05",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-04-20 08:24:05",
       "album": {
-        "name": "Maan Jao",
-        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
-      },
-      "artists": [
-        {
-          "name": "Utsavi Jha",
-          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "Maan Jao",
-      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
-    },
-    {
-      "added_at": "2026-04-20 08:24:05",
-      "album": {
         "name": "Tu hi hai",
         "url": "https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 187959,
       "name": "Tu hi hai",
       "url": "https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e"
+    },
+    {
+      "added_at": "2026-04-20 08:24:05",
+      "album": {
+        "name": "Maan Jao",
+        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "duration_ms": 154616,
+      "name": "Maan Jao",
+      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
     },
     {
       "added_at": "2026-04-20 08:24:05",

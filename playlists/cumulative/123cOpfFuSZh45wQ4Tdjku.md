@@ -4,7 +4,7 @@
 
 > mostly furry
 
-404 songs - 19 hr 50 min
+405 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [ALL MY FELLAS](https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [ALL MY FELLAS](https://open.spotify.com/album/7eLQnewAuacJFug06cN6Er) | 2:21 | 2023-11-20 |  |
 | [All We Need Is Distance](https://open.spotify.com/track/0ojSKzh3cFhxArNL4lY15s) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 4:16 | 2024-07-19 |  |
 | [Angel Of Wrath \- Lute Exorcist Leader Song](https://open.spotify.com/track/3EOiDVx6xr9XCqy77bjNzg) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Angel Of Wrath \(Lute Exorcist Leader Song\)](https://open.spotify.com/album/4Q5oXfpUJwMm1llyY5btdd) | 2:57 | 2024-12-20 |  |
+| [Animal In Me](https://open.spotify.com/track/19QX2HlkugdlIh4A6TRKbe) | [Autumn J.](https://open.spotify.com/artist/5F2rhyaflgXmVeW7NMUXAW) | [Animal In Me](https://open.spotify.com/album/305Ul0L27ElQylyA3XQwOG) | 2:54 | 2026-04-21 |  |
 | [Animals](https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:51 | 2025-04-15 |  |
 | [animation meme](https://open.spotify.com/track/76WseEyAfJ3QR7XWaoOsif) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Throwback Thursday](https://open.spotify.com/album/2ShCV6gqWGjh52zsFINMPO) | 2:18 | 2024-01-20 |  |
 | [Another Mistake](https://open.spotify.com/track/6j7tMoI35vszJbV3wrWSNY) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Another Mistake](https://open.spotify.com/album/4pMx6ufjjLUYQEsXOMDLa0) | 2:57 | 2024-07-12 |  |

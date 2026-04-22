@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musikk fra Tyla & Zara Larsson, Chris Abolade & Omar, Olivia Rodrigo og mange flere!🎵
 
-10,416 songs - 22 day 12 hr 47 min
+10,417 songs - 22 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5142,6 +5142,7 @@
 | [King's Garden](https://open.spotify.com/track/4aUPb0DZj1saaUJFDjoahk) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [King's Garden](https://open.spotify.com/album/6zsXmJ5est3sAXA9cb15xV) | 2:47 | 2024-08-01 | 2024-08-09 |
 | [Kingdom](https://open.spotify.com/track/5sM87AjEcPz9owIDAZ36hs) | [Jesse Markin](https://open.spotify.com/artist/3mxJuHRn2ZWD5OofvJtDZY) | [Kingdom](https://open.spotify.com/album/4tcRwRRseZfr6zykjZN2Ch) | 3:13 | 2024-04-26 | 2024-05-03 |
 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 | 2026-03-26 | 2026-04-03 |
+| [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 | 2026-04-17 |  |
 | [Kinky](https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Kinky](https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN) | 2:14 | 2024-07-18 | 2024-07-27 |
 | [Kirsebær](https://open.spotify.com/track/7BFubJW1pbGVs37aSz5iUa) | [BLäMST](https://open.spotify.com/artist/5aA40bXlg4BrSH5TDPOW8V) | [Kirsebær](https://open.spotify.com/album/1MlbHvfreNl1MQ7uNvTmU3) | 2:33 | 2026-01-29 | 2026-02-06 |
 | [Kirsebær](https://open.spotify.com/track/5dCLDvxvL4TPhcj43hsTBu) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Kirsebær](https://open.spotify.com/album/2GvNkzQVVOI3WxUyE1GPi5) | 2:13 | 2025-09-18 | 2025-09-27 |

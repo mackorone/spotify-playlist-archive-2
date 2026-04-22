@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica tropical, cumbia, guasca y de carrilera para recordar y disfrutar!",
-  "num_followers": 145286,
+  "num_followers": 145281,
   "original_name": "Viejoteca",
   "owner": {
     "name": "Spotify",
@@ -881,7 +881,7 @@
       "artists": [
         {
           "name": "Segundo Rosero",
-          "url": "https://open.spotify.com/artist/1k0Q2lbTTE1Mp8DQn4r5D0"
+          "url": "https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O"
         }
       ],
       "duration_ms": 185093,
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Matemos las Ganas",
-        "url": "https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 182166,
-      "name": "Matemos las Ganas",
-      "url": "https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "The Afrosound Of Colombia Volume 1",
         "url": "https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 216653,
       "name": "Caliventura",
       "url": "https://open.spotify.com/track/6m2F1jlADXgeZXD0HWMxTQ"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Matemos las Ganas",
+        "url": "https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 182166,
+      "name": "Matemos las Ganas",
+      "url": "https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Rep\u00edtela",
-        "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 209075,
-      "name": "Rep\u00edtela",
-      "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "\u00c9poca de Oro 16 \u00c9xitos",
         "url": "https://open.spotify.com/album/2fbH7juIgtukbOBqEOx9eY"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 157130,
       "name": "La Burrita",
       "url": "https://open.spotify.com/track/3mXlm2lIp3leSWzv1vqN2k"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Rep\u00edtela",
+        "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 209075,
+      "name": "Rep\u00edtela",
+      "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
     },
     {
       "added_at": "2026-02-23 16:04:48",

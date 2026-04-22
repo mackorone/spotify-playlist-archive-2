@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Ria, ria, Hung\u00e1ria! \ud83c\udded\ud83c\uddfa\ud83c\udded\ud83c\uddfa\ud83c\udded\ud83c\uddfa",
+  "description": "A legmen\u0151bb \u00e9s legtrendibb dalok egy helyen \ud83d\udd25\ud83d\udd25\ud83d\udd25",
   "name": "Most Men\u0151",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 146526,
       "name": "10/10",
       "url": "https://open.spotify.com/track/32OAOWJCY2IweKSGggKWta"
@@ -1211,6 +1211,28 @@
     },
     {
       "album": {
+        "name": "Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
+    },
+    {
+      "album": {
         "name": "EXT\u00c1ZIS",
         "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
       },
@@ -1542,7 +1564,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 141935,
       "name": "Brig\u00e1d",
       "url": "https://open.spotify.com/track/5VI7dflx7b0dRZe5bpgXAP"
@@ -2731,6 +2753,28 @@
     },
     {
       "album": {
+        "name": "VINNER DELUXE",
+        "url": "https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145950,
+      "name": "EX N GO",
+      "url": "https://open.spotify.com/track/6nvDIhdi3Dcet4sIZR5qDk"
+    },
+    {
+      "album": {
         "name": "EXPRESSZ",
         "url": "https://open.spotify.com/album/61yx6I2UGrYTMRe59fQjdw"
       },
@@ -2808,6 +2852,24 @@
       "duration_ms": 157937,
       "name": "EZ MA A SL\u00c1GER",
       "url": "https://open.spotify.com/track/4cFxF01LgZHdeZn6ERsrFC"
+    },
+    {
+      "album": {
+        "name": "Falusi cig\u00e1ny",
+        "url": "https://open.spotify.com/album/3QArQqoxzaEbvtrHhOqvgE"
+      },
+      "artists": [
+        {
+          "name": "Burai",
+          "url": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175578,
+      "name": "Falusi cig\u00e1ny",
+      "url": "https://open.spotify.com/track/0nV4rGBZzI06Axnki1AGOS"
     },
     {
       "album": {
@@ -2964,6 +3026,24 @@
       "duration_ms": 187951,
       "name": "Fels\u00fct\u00f6tt a napsug\u00e1ra",
       "url": "https://open.spotify.com/track/71NlwzHDI64UVqenLz5CMW"
+    },
+    {
+      "album": {
+        "name": "Felt\u00e1mad a tenger",
+        "url": "https://open.spotify.com/album/4KFeIghxbaCVLDT2fYHaVZ"
+      },
+      "artists": [
+        {
+          "name": "Filo",
+          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205107,
+      "name": "Felt\u00e1mad a tenger",
+      "url": "https://open.spotify.com/track/53BlzHii9uA227aRsvpsM1"
     },
     {
       "album": {
@@ -5578,7 +5658,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 138000,
       "name": "magyar",
       "url": "https://open.spotify.com/track/7M0nUUwD3ALTmeWLoE5rhB"
@@ -5604,6 +5684,24 @@
       "duration_ms": 182418,
       "name": "Magyarok",
       "url": "https://open.spotify.com/track/1wS6hC3kgiGZqfxsTwC6QI"
+    },
+    {
+      "album": {
+        "name": "\u00c9des M\u00e9reg",
+        "url": "https://open.spotify.com/album/4dBZw8JYPBO4lZ1ym9bvLU"
+      },
+      "artists": [
+        {
+          "name": "Ibolya Ol\u00e1h",
+          "url": "https://open.spotify.com/artist/03CHmaG9sjGI5vfBHPllj5"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255253,
+      "name": "Magyarorsz\u00e1g",
+      "url": "https://open.spotify.com/track/0tjb1SokIgtbqSaX80KOif"
     },
     {
       "album": {
@@ -5949,6 +6047,32 @@
     },
     {
       "album": {
+        "name": "Midnight (The Hanging Tree)",
+        "url": "https://open.spotify.com/album/6YzV3Syw4CNX3R9IaTfnSh"
+      },
+      "artists": [
+        {
+          "name": "HOSH",
+          "url": "https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs"
+        },
+        {
+          "name": "1979",
+          "url": "https://open.spotify.com/artist/0L4gqdrMNbRIbNKzgcBXG6"
+        },
+        {
+          "name": "Jalja",
+          "url": "https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178823,
+      "name": "Midnight (The Hanging Tree)",
+      "url": "https://open.spotify.com/track/38MbUy2C0FLv6exayPlImu"
+    },
+    {
+      "album": {
         "name": "IGAZIAK\u00c9RT",
         "url": "https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1"
       },
@@ -6226,7 +6350,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 290977,
       "name": "Mocskos id\u0151k",
       "url": "https://open.spotify.com/track/2m6ZQNs731wnmVW0penfJO"
@@ -6404,7 +6528,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 205120,
       "name": "Most m\u00falik pontosan",
       "url": "https://open.spotify.com/track/0ooiafVrlNqnKR5GQea4Ng"
@@ -6568,7 +6692,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 205133,
       "name": "NAGYKAB\u00c1T (ne j\u00e1tszd az agyad)",
       "url": "https://open.spotify.com/track/2E1E9HnhYHAbiwkBorPV1Q"
@@ -6776,7 +6900,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 153747,
       "name": "NEM N\u00c9M\u00cdTHATTOK EL",
       "url": "https://open.spotify.com/track/7hiLmgxXlxzfpOQlfqeBU0"
@@ -7398,7 +7522,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 159204,
       "name": "Pap\u00edrom",
       "url": "https://open.spotify.com/track/1FAhDZwQTbDNxXz83zlq2B"
@@ -7916,7 +8040,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 191687,
       "name": "Purgat\u00f3rium",
       "url": "https://open.spotify.com/track/6WljAxThjbT9RPTDo25MqC"
@@ -10251,6 +10375,24 @@
     },
     {
       "album": {
+        "name": "utema",
+        "url": "https://open.spotify.com/album/0QP8g8K8Njgn4xoWLJMUuF"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236523,
+      "name": "utema",
+      "url": "https://open.spotify.com/track/6rrn0Jzt0dDSQ9B1ZBiuCt"
+    },
+    {
+      "album": {
         "name": "Utols\u00f3 falat",
         "url": "https://open.spotify.com/album/1vcXiBFOyr6Whzy9CThiSd"
       },
@@ -10783,6 +10925,28 @@
     },
     {
       "album": {
+        "name": "SAVAGE",
+        "url": "https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157586,
+      "name": "WAY TOO HIGH",
+      "url": "https://open.spotify.com/track/17WIFL0Bicx4Eo3133nu4S"
+    },
+    {
+      "album": {
         "name": "we fell in love in october / October Passed Me By",
         "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
       },
@@ -10834,6 +10998,24 @@
       "duration_ms": 153108,
       "name": "WildWest",
       "url": "https://open.spotify.com/track/1PUUfO1tHORNs1Ur28kVy2"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2OlsLt3beHaHnP3ETClvUy"
+      },
+      "artists": [
+        {
+          "name": "Giaj",
+          "url": "https://open.spotify.com/artist/2qtr4yL91shUToOIk0XTwj"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "X",
+      "url": "https://open.spotify.com/track/20xIITnNe3DNB0t8gOWdAJ"
     },
     {
       "album": {
@@ -11121,6 +11303,24 @@
     },
     {
       "album": {
+        "name": "Valamit Majd Kital\u00e1lok",
+        "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160768,
+      "name": "\u00cdgy sem k\u00f6nnyebb",
+      "url": "https://open.spotify.com/track/4WjtNR5fqgtMSstBY3yvPN"
+    },
+    {
+      "album": {
         "name": "\u00cdgy vagyok szabad",
         "url": "https://open.spotify.com/album/4MgYzT0ETVm7tZbNXZLQ7i"
       },
@@ -11168,7 +11368,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 263000,
       "name": "\u00d6r\u00f6kre el\u00e9g volt ebb\u0151l",
       "url": "https://open.spotify.com/track/7esbe7U4fAAGx0I0g0FzCs"

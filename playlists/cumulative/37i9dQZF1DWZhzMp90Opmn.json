@@ -3224,7 +3224,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 208500,
       "name": "Let There Be Pink Noise",
       "url": "https://open.spotify.com/track/1FzKIK492Q6TSnLp5Ri4tA"
@@ -4275,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "Pink Airplane Mode",
+        "url": "https://open.spotify.com/album/4BUt5nFslbsKCSp1zbuakI"
+      },
+      "artists": [
+        {
+          "name": "Anedom",
+          "url": "https://open.spotify.com/artist/2wleVDBdqcTkS2E6agZ0AU"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259459,
+      "name": "Pink Airplane Mode",
+      "url": "https://open.spotify.com/track/6sq3IxO38LfJol09ecMxuC"
+    },
+    {
+      "album": {
         "name": "Pink Aqua",
         "url": "https://open.spotify.com/album/0OkNLQ7tU9nNRm4wJPicIR"
       },
@@ -5168,7 +5186,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 168000,
       "name": "Pink Movement",
       "url": "https://open.spotify.com/track/1T4aUo75nRuI7FAxvIlCwE"
@@ -5870,7 +5888,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 167343,
       "name": "Pink Noise Continuum",
       "url": "https://open.spotify.com/track/40FPKwy3G8Ilvjvgx7DDcW"
@@ -6252,6 +6270,24 @@
       "duration_ms": 161776,
       "name": "Pink Noise Fluffatron",
       "url": "https://open.spotify.com/track/2irZ3qugSBoVA0cfLe6ejQ"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Focus",
+        "url": "https://open.spotify.com/album/2WLS7Hzvxwvi2kcRQ2wl8E"
+      },
+      "artists": [
+        {
+          "name": "Mind & Ears",
+          "url": "https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159246,
+      "name": "Pink Noise Focus",
+      "url": "https://open.spotify.com/track/5TxnaCqOedJhVAURchTL3v"
     },
     {
       "album": {
@@ -10230,7 +10266,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 164893,
       "name": "Slo-Mo Pink Noise",
       "url": "https://open.spotify.com/track/4uxdsU3T25oMTRvUpHaEaO"

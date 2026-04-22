@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 334589,
+  "num_followers": 334677,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-02-06 23:24:59",
       "album": {
+        "name": "0 Sentimientos",
+        "url": "https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 195334,
+      "name": "0 Sentimientos",
+      "url": "https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8"
+    },
+    {
+      "added_at": "2026-02-06 23:24:59",
+      "album": {
         "name": "CASI T\u00da",
         "url": "https://open.spotify.com/album/25u60Pgm4jnY8NU8Hy3ghn"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 157927,
       "name": "CASI T\u00da",
       "url": "https://open.spotify.com/track/7MklqPSMrs22DGXSDIgxeO"
-    },
-    {
-      "added_at": "2026-02-06 23:24:59",
-      "album": {
-        "name": "0 Sentimientos",
-        "url": "https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 195334,
-      "name": "0 Sentimientos",
-      "url": "https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8"
     },
     {
       "added_at": "2026-02-06 23:24:59",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2026-02-06 23:24:59",
       "album": {
-        "name": "Que Pedo",
-        "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Eddy",
-          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
-        }
-      ],
-      "duration_ms": 194062,
-      "name": "Que Pedo",
-      "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
-    },
-    {
-      "added_at": "2026-02-06 23:24:59",
-      "album": {
         "name": "Inseparables",
         "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 171724,
       "name": "Inseparables",
       "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
+    },
+    {
+      "added_at": "2026-02-06 23:24:59",
+      "album": {
+        "name": "Que Pedo",
+        "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "duration_ms": 194062,
+      "name": "Que Pedo",
+      "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
     },
     {
       "added_at": "2026-02-06 23:24:59",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-02-06 23:24:59",
       "album": {
-        "name": "Vision",
-        "url": "https://open.spotify.com/album/3CVObq7AFkpwOkwdhJYJQo"
-      },
-      "artists": [
-        {
-          "name": "Linea Personal",
-          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
-        }
-      ],
-      "duration_ms": 185016,
-      "name": "MALIBU",
-      "url": "https://open.spotify.com/track/04lV85JVGnjC2cRtDIthqx"
-    },
-    {
-      "added_at": "2026-02-06 23:24:59",
-      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 189750,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
+    },
+    {
+      "added_at": "2026-02-06 23:24:59",
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/3CVObq7AFkpwOkwdhJYJQo"
+      },
+      "artists": [
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        }
+      ],
+      "duration_ms": 185016,
+      "name": "MALIBU",
+      "url": "https://open.spotify.com/track/04lV85JVGnjC2cRtDIthqx"
     },
     {
       "added_at": "2026-02-06 23:24:59",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-02-06 23:24:59",
       "album": {
+        "name": "Y Qu\u00e9 Tal Si Te Escapas Del Cielo",
+        "url": "https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 211750,
+      "name": "Y Qu\u00e9 Tal Si Te Escapas Del Cielo",
+      "url": "https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T"
+    },
+    {
+      "added_at": "2026-02-06 23:24:59",
+      "album": {
         "name": "Tu Forma De Ser",
         "url": "https://open.spotify.com/album/5Sv5NVXo059Wwim69ipap2"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 220570,
       "name": "Videos y Fotos",
       "url": "https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw"
-    },
-    {
-      "added_at": "2026-02-06 23:24:59",
-      "album": {
-        "name": "Y Qu\u00e9 Tal Si Te Escapas Del Cielo",
-        "url": "https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 211750,
-      "name": "Y Qu\u00e9 Tal Si Te Escapas Del Cielo",
-      "url": "https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T"
     },
     {
       "added_at": "2026-02-06 23:24:59",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-02-06 23:24:59",
       "album": {
-        "name": "vete de una vez",
-        "url": "https://open.spotify.com/album/3ZRctlFN64rCLSXvCHRsW2"
-      },
-      "artists": [
-        {
-          "name": "Julio Caesar",
-          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
-        }
-      ],
-      "duration_ms": 220201,
-      "name": "vete de una vez",
-      "url": "https://open.spotify.com/track/6RM6EWJjDuvjwkUBqbyMhl"
-    },
-    {
-      "added_at": "2026-02-06 23:24:59",
-      "album": {
         "name": "Tu Nueva Etapa",
         "url": "https://open.spotify.com/album/5wN5T8lbSVU6Y1CBZMNid1"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 175560,
       "name": "Tu Nueva Etapa",
       "url": "https://open.spotify.com/track/4qesrlnBKu1ZTSiJImSHzS"
+    },
+    {
+      "added_at": "2026-02-06 23:24:59",
+      "album": {
+        "name": "vete de una vez",
+        "url": "https://open.spotify.com/album/3ZRctlFN64rCLSXvCHRsW2"
+      },
+      "artists": [
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "duration_ms": 220201,
+      "name": "vete de una vez",
+      "url": "https://open.spotify.com/track/6RM6EWJjDuvjwkUBqbyMhl"
     },
     {
       "added_at": "2026-02-06 23:24:59",

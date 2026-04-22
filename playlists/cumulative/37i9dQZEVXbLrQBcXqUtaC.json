@@ -946,7 +946,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 369359,
       "name": "Ahki Ya Tareekh",
       "url": "https://open.spotify.com/track/2yjOEcmukC84C56uEoDn3k"
@@ -6070,7 +6070,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/7mDTvYD2ieE4Q28XFziMfJ"
@@ -11394,7 +11394,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 258454,
       "name": "Habeby Baeny Lak Damaa",
       "url": "https://open.spotify.com/track/42HETXMG4PwLo5oa3hoYhi"
@@ -15534,7 +15534,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 205946,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
@@ -23024,7 +23024,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
@@ -31075,6 +31075,28 @@
     },
     {
       "album": {
+        "name": "Ya Nas",
+        "url": "https://open.spotify.com/album/3zAvbfczErF4uqXC6bjCTK"
+      },
+      "artists": [
+        {
+          "name": "Ma\u2019moun Alnatah",
+          "url": "https://open.spotify.com/artist/6wRCP3XccKBdafOx76J7ns"
+        },
+        {
+          "name": "Osama Naji",
+          "url": "https://open.spotify.com/artist/0Wsn2xJsy1aeAPfNviVDm4"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "Ya Nas",
+      "url": "https://open.spotify.com/track/6ssHId6BHybw1g53s9CLkm"
+    },
+    {
+      "album": {
         "name": "Kol Yom Men Dah",
         "url": "https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f"
       },
@@ -34334,7 +34356,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 360055,
       "name": "\u0634\u0644\u0648\u0646 \u0628\u064a\u0629",
       "url": "https://open.spotify.com/track/4QlbWOnT3ZoR2mTsyg362u"
@@ -35002,7 +35024,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 206754,
       "name": "\u0642\u0644\u0628 \u0633\u062a\u0629 \u062a\u0633\u0639\u0648\u062f",
       "url": "https://open.spotify.com/track/224bE1Z52YV74RL7yR4qTd"

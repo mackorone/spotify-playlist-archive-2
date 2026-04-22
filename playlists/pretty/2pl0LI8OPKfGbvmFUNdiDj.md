@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 747 likes - 86 songs - 4 hr 51 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 749 likes - 87 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,5 +94,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 84 | [Summertime](https://open.spotify.com/track/5tBQWcTJilTJC0PHmTmVlY) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Summertime](https://open.spotify.com/album/7BvYjg5CS0YE8SBM8v32m3) | 2:19 |
 | 85 | [1969](https://open.spotify.com/track/7mzfM2tTKNEgHIWdvXqJyQ) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Best Of](https://open.spotify.com/album/16zoHx9wW6EVMvPDo1sha5) | 3:30 |
 | 86 | [Latente](https://open.spotify.com/track/3ujkaYSzU2tRuRCnyB5w8e) | [No Hana](https://open.spotify.com/artist/2O6qXZs283cofBBPPxbMAT), [Diana Tagle](https://open.spotify.com/artist/2S6LlZoAlTysVqqOluxHWW) | [Latente](https://open.spotify.com/album/4kbpB8ADo8Zb0HTaAKwDyy) | 2:23 |
+| 87 | [Mario Kart at Amy's Apartment](https://open.spotify.com/track/4KuCGB4hLRw8PMHnuzWVxS) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Emoticon](https://open.spotify.com/album/1ixiBOAbg2UXTxh5wf0Jj9) | 3:37 |
 
-Snapshot ID: `AAADeHaVEIO1rW4ceOsO3Be+E3DhBhTA`
+Snapshot ID: `AAADebt0OurSMrM1/FHVoZQAG57yizYk`

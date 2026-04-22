@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH\. Deftones en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,010 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,012 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

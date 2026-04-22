@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: DaBaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,754 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,731 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 74 | [Legacy In Motion](https://open.spotify.com/track/7AiQzufOI9KzRvHRb0MpDJ) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Nyxladd](https://open.spotify.com/artist/59et7vDFXkN7N6mXSrNTY5) | [Legacy In Motion](https://open.spotify.com/album/39uhfknT6BV77Zb5w90bnj) | 3:16 |
 | 75 | [purr](https://open.spotify.com/track/5WKEBmDB1Fxgfrodra8MkI) | [leecerti](https://open.spotify.com/artist/4GCBx9G31irWT77xXxWrSA) | [purr](https://open.spotify.com/album/6BoSFktsADncIRfBD7vrAz) | 1:57 |
 
-Snapshot ID: `AAAAADeTjnSA7TlLJTqqLe38nFOE2BOi`
+Snapshot ID: `AAAAAPHKFGCIBcmachBt6iMJqwy3kpdZ`

@@ -2689,6 +2689,28 @@
     },
     {
       "album": {
+        "name": "GO, ASPES, GO!",
+        "url": "https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        },
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133652,
+      "name": "GO, ASPES, GO!",
+      "url": "https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm"
+    },
+    {
+      "album": {
         "name": "Goblin Knight",
         "url": "https://open.spotify.com/album/0i6ImkD3jN1XI1Iw0OvcJK"
       },

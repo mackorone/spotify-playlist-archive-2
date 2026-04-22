@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Herra Hnetusmjör, Olivia Rodrigo, VÆB, Birnir & Blache og mörgum fleiri!
 
-10,449 songs - 23 day 9 hr 44 min
+10,450 songs - 23 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5030,6 +5030,7 @@
 | [Kind to You](https://open.spotify.com/track/365hkQZvqYIDGhCGm8ZXwu) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Kind to You](https://open.spotify.com/album/63MKGs5hv3278XjoQblvf3) | 3:15 | 2024-08-30 | 2024-09-06 |
 | [Kinda Single \(feat\. Lee Brice\)](https://open.spotify.com/track/2Bo0E6nycSb3XzjHkvKOQ0) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Kinda Single \(feat\. Lee Brice\)](https://open.spotify.com/album/45Dwlv50JKT3nkDRIr13rv) | 3:19 | 2025-08-29 | 2025-09-06 |
 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 | 2024-11-29 | 2024-12-06 |
+| [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 | 2026-04-17 |  |
 | [Kirsebær](https://open.spotify.com/track/5dCLDvxvL4TPhcj43hsTBu) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Kirsebær](https://open.spotify.com/album/2GvNkzQVVOI3WxUyE1GPi5) | 2:13 | 2025-09-19 | 2025-09-27 |
 | [Kiss](https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Kiss](https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s) | 2:19 | 2025-10-10 | 2025-10-17 |
 | [KISS ME](https://open.spotify.com/track/67zPoqrv7I49qHaMs0eYgz) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [KISS ME](https://open.spotify.com/album/17kOTawNON2BERiDHgPKjQ) | 3:08 | 2025-12-12 | 2025-12-19 |

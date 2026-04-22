@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83708,
+  "num_followers": 83692,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,26 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "011 \u00c9 o Ddd",
+        "url": "https://open.spotify.com/album/3dqDCBoecBp7CqMbxP5pjj"
+      },
+      "artists": [
+        {
+          "name": "Barbz",
+          "url": "https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD"
+        },
+        {
+          "name": "L.HARD",
+          "url": "https://open.spotify.com/artist/4X1JOqzevl6se7AQyJy0Vj"
+        }
+      ],
+      "duration_ms": 144302,
+      "name": "011 \u00c9 o Ddd - Speed Up",
+      "url": "https://open.spotify.com/track/5cAeEKEsxXj6RpzGhJUgyG"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Luxo & Crime Speed",
         "url": "https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 140628,
       "name": "Luxo & Crime Speed",
       "url": "https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "011 \u00c9 o Ddd",
-        "url": "https://open.spotify.com/album/3dqDCBoecBp7CqMbxP5pjj"
-      },
-      "artists": [
-        {
-          "name": "Barbz",
-          "url": "https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD"
-        },
-        {
-          "name": "L.HARD",
-          "url": "https://open.spotify.com/artist/4X1JOqzevl6se7AQyJy0Vj"
-        }
-      ],
-      "duration_ms": 144302,
-      "name": "011 \u00c9 o Ddd - Speed Up",
-      "url": "https://open.spotify.com/track/5cAeEKEsxXj6RpzGhJUgyG"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "N\u00e3o Fosse T\u00e3o Tarde (Speed)",
         "url": "https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 166305,
       "name": "N\u00e3o Fosse T\u00e3o Tarde (Speed)",
       "url": "https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "O Que Adianta B\u00ea, Ser T\u00e3o Gostosa Se Ela \u00c9 da Farra, Bandida Treinada",
-        "url": "https://open.spotify.com/album/7df6QDvBmyLjLhrby1VfUW"
-      },
-      "artists": [
-        {
-          "name": "PL JUNIOR",
-          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
-        }
-      ],
-      "duration_ms": 121543,
-      "name": "O Que Adianta B\u00ea, Ser T\u00e3o Gostosa Se Ela \u00c9 da Farra, Bandida Treinada",
-      "url": "https://open.spotify.com/track/6Q9cuXO5sgz7ValLDMyCMU"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+        "name": "O Que Adianta B\u00ea, Ser T\u00e3o Gostosa Se Ela \u00c9 da Farra, Bandida Treinada",
+        "url": "https://open.spotify.com/album/7df6QDvBmyLjLhrby1VfUW"
       },
       "artists": [
         {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+          "name": "PL JUNIOR",
+          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
         }
       ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+      "duration_ms": 121543,
+      "name": "O Que Adianta B\u00ea, Ser T\u00e3o Gostosa Se Ela \u00c9 da Farra, Bandida Treinada",
+      "url": "https://open.spotify.com/track/6Q9cuXO5sgz7ValLDMyCMU"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1091,6 +1091,22 @@
       "duration_ms": 168857,
       "name": "Boa Noite, DEUS (Sped Up)",
       "url": "https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Hoje Ela Pede Pandora ( Speed Up)",
         "url": "https://open.spotify.com/album/2CzQPK3aKSkXqblJTcRIBH"
       },
@@ -1187,6 +1187,26 @@
       "duration_ms": 202452,
       "name": "Hoje Ela Pede Pandora ( Speed Up)",
       "url": "https://open.spotify.com/track/03iw5tUT1HLxI0pnlKKiKV"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
+        "url": "https://open.spotify.com/album/39tM6ABIBGChLivVHYCie3"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        },
+        {
+          "name": "Dj Kiko Da Vila",
+          "url": "https://open.spotify.com/artist/3U63q6lmdoAJeS5LlgjS1Z"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
+      "url": "https://open.spotify.com/track/3JHUfpS7hQPeYwjBBZ690R"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1247,26 +1267,6 @@
       "duration_ms": 149170,
       "name": "Palha\u00e7ada Speed",
       "url": "https://open.spotify.com/track/2yKXzrfGw6nNYE4tX9cal0"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
-        "url": "https://open.spotify.com/album/39tM6ABIBGChLivVHYCie3"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        },
-        {
-          "name": "Dj Kiko Da Vila",
-          "url": "https://open.spotify.com/artist/3U63q6lmdoAJeS5LlgjS1Z"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
-      "url": "https://open.spotify.com/track/3JHUfpS7hQPeYwjBBZ690R"
     },
     {
       "added_at": "2024-07-08 19:10:57",

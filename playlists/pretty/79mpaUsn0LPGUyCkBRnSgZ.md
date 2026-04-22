@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 714 songs - 1 day 22 hr 22 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 715 songs - 1 day 22 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -722,5 +722,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 712 | [Tilt](https://open.spotify.com/track/0ZV0aqU5aMLDDyAqfPf3dU) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Lost & Found](https://open.spotify.com/album/3vnvvODpAWJFZiQWjzeLyU) | 2:39 |
 | 713 | [back in action](https://open.spotify.com/track/7eFOG2217U6ooGeEv0fJ7e) | [Stickerbush](https://open.spotify.com/artist/2wMCljuDDzLrEjYCk10P7B), [heavensouls](https://open.spotify.com/artist/4H5ErCSnjrZpJYcwiJobCR) | [Darkskin Niggas with Lightskin Problems](https://open.spotify.com/album/64YHSa0VHmG7Mb2oONXYKB) | 4:46 |
 | 714 | [CIRCLE](https://open.spotify.com/track/1KDlkUvgWmRHe2E5DV9SCW) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [The Doober](https://open.spotify.com/album/0UpgnNkIkta5tDr8l8NQIS) | 1:41 |
+| 715 | [Bishop](https://open.spotify.com/track/2rokzbolW3350YqYejvmgV) | [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA) | [Mighty Vertebrate](https://open.spotify.com/album/0lnAG8yZcln85SGhVzy9ru) | 3:14 |
 
-Snapshot ID: `AAAI+UrnBQRS8dLgdfiS0uFBbu+gwauG`
+Snapshot ID: `AAAI+tHw7QXPshApd+jWGdiI5U2Autbp`

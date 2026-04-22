@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143586,
+  "num_followers": 143585,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-04-17 04:04:46",
       "album": {
-        "name": "fin pm",
-        "url": "https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv"
-      },
-      "artists": [
-        {
-          "name": "Maddie Bay",
-          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "fin pm",
-      "url": "https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl"
-    },
-    {
-      "added_at": "2026-04-17 04:04:46",
-      "album": {
         "name": "Demain \u00e7a ira",
         "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 204400,
       "name": "Frisbee & marmelade",
       "url": "https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol"
+    },
+    {
+      "added_at": "2026-04-17 04:04:46",
+      "album": {
+        "name": "fin pm",
+        "url": "https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv"
+      },
+      "artists": [
+        {
+          "name": "Maddie Bay",
+          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "fin pm",
+      "url": "https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl"
     },
     {
       "added_at": "2026-04-17 04:04:46",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-04-17 04:04:46",
       "album": {
+        "name": "Dans une autre cour",
+        "url": "https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN"
+      },
+      "artists": [
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        }
+      ],
+      "duration_ms": 144173,
+      "name": "Dans une autre cour",
+      "url": "https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8"
+    },
+    {
+      "added_at": "2026-04-17 04:04:46",
+      "album": {
         "name": "sMiLes",
         "url": "https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 174023,
       "name": "SHouLd I sMiLe?",
       "url": "https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz"
-    },
-    {
-      "added_at": "2026-04-17 04:04:46",
-      "album": {
-        "name": "Dans une autre cour",
-        "url": "https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN"
-      },
-      "artists": [
-        {
-          "name": "Justin Roy",
-          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
-        }
-      ],
-      "duration_ms": 144173,
-      "name": "Dans une autre cour",
-      "url": "https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8"
     },
     {
       "added_at": "2026-04-17 04:04:46",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-04-17 04:04:46",
       "album": {
-        "name": "2 go\u00e9lands",
-        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
-      },
-      "artists": [
-        {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-        }
-      ],
-      "duration_ms": 178306,
-      "name": "2 go\u00e9lands",
-      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
-    },
-    {
-      "added_at": "2026-04-17 04:04:46",
-      "album": {
         "name": "Que ta lumi\u00e8re",
         "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 232319,
       "name": "Que ta lumi\u00e8re",
       "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
+    },
+    {
+      "added_at": "2026-04-17 04:04:46",
+      "album": {
+        "name": "2 go\u00e9lands",
+        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "duration_ms": 178306,
+      "name": "2 go\u00e9lands",
+      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
     },
     {
       "added_at": "2026-04-17 04:04:46",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-04-17 04:04:46",
       "album": {
-        "name": "La lumi\u00e8re",
-        "url": "https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk"
+        "name": "AVALANCHE (n.f.)",
+        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
       },
       "artists": [
         {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
         }
       ],
-      "duration_ms": 240485,
-      "name": "La lumi\u00e8re",
-      "url": "https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm"
+      "duration_ms": 188516,
+      "name": "Tu pars",
+      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
     },
     {
       "added_at": "2026-04-17 04:04:46",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-04-17 04:04:46",
       "album": {
-        "name": "AVALANCHE (n.f.)",
-        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
+        "name": "La lumi\u00e8re",
+        "url": "https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk"
       },
       "artists": [
         {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
         }
       ],
-      "duration_ms": 188516,
-      "name": "Tu pars",
-      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+      "duration_ms": 240485,
+      "name": "La lumi\u00e8re",
+      "url": "https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm"
     },
     {
       "added_at": "2026-04-17 04:04:46",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-04-17 04:04:46",
       "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/0avJv1JOKAQRSrd4WVXhiN"
-      },
-      "artists": [
-        {
-          "name": "Theo Day",
-          "url": "https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc"
-        },
-        {
-          "name": "Olivia Ridgely",
-          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Make Believe",
-      "url": "https://open.spotify.com/track/4ttz1L9DzppP1ahbqzhLMO"
-    },
-    {
-      "added_at": "2026-04-17 04:04:46",
-      "album": {
         "name": "River Run (with Lila Dupont)",
         "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
       },
@@ -1459,6 +1439,26 @@
     {
       "added_at": "2026-04-17 04:04:46",
       "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/0avJv1JOKAQRSrd4WVXhiN"
+      },
+      "artists": [
+        {
+          "name": "Theo Day",
+          "url": "https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc"
+        },
+        {
+          "name": "Olivia Ridgely",
+          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/4ttz1L9DzppP1ahbqzhLMO"
+    },
+    {
+      "added_at": "2026-04-17 04:04:46",
+      "album": {
         "name": "Ici",
         "url": "https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9"
       },
@@ -1471,38 +1471,6 @@
       "duration_ms": 168358,
       "name": "Ici",
       "url": "https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7"
-    },
-    {
-      "added_at": "2026-04-17 04:04:46",
-      "album": {
-        "name": "I took off my heels",
-        "url": "https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc"
-      },
-      "artists": [
-        {
-          "name": "Avery Jane",
-          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
-        }
-      ],
-      "duration_ms": 226480,
-      "name": "I took off my heels",
-      "url": "https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi"
-    },
-    {
-      "added_at": "2026-04-17 04:04:46",
-      "album": {
-        "name": "Islands in the Stream",
-        "url": "https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 194699,
-      "name": "Islands in the Stream",
-      "url": "https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3"
     },
     {
       "added_at": "2026-04-17 04:04:46",
@@ -1523,18 +1491,34 @@
     {
       "added_at": "2026-04-17 04:04:46",
       "album": {
-        "name": "Le temps qui passe",
-        "url": "https://open.spotify.com/album/56ulJfotRuqXCnXm9MXoNj"
+        "name": "Islands in the Stream",
+        "url": "https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8"
       },
       "artists": [
         {
-          "name": "Hubert Proulx",
-          "url": "https://open.spotify.com/artist/36hH4nqtR9vm6m0HgyeZ2O"
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 240146,
-      "name": "Le temps qui passe",
-      "url": "https://open.spotify.com/track/03n6p8Wac7MUi7tlHEPNyq"
+      "duration_ms": 194699,
+      "name": "Islands in the Stream",
+      "url": "https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3"
+    },
+    {
+      "added_at": "2026-04-17 04:04:46",
+      "album": {
+        "name": "I took off my heels",
+        "url": "https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc"
+      },
+      "artists": [
+        {
+          "name": "Avery Jane",
+          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
+        }
+      ],
+      "duration_ms": 226480,
+      "name": "I took off my heels",
+      "url": "https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi"
     },
     {
       "added_at": "2026-04-17 04:04:46",
@@ -1551,6 +1535,22 @@
       "duration_ms": 213107,
       "name": "Swimmer",
       "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
+    },
+    {
+      "added_at": "2026-04-17 04:04:46",
+      "album": {
+        "name": "Le temps qui passe",
+        "url": "https://open.spotify.com/album/56ulJfotRuqXCnXm9MXoNj"
+      },
+      "artists": [
+        {
+          "name": "Hubert Proulx",
+          "url": "https://open.spotify.com/artist/36hH4nqtR9vm6m0HgyeZ2O"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Le temps qui passe",
+      "url": "https://open.spotify.com/track/03n6p8Wac7MUi7tlHEPNyq"
     },
     {
       "added_at": "2026-04-17 04:04:46",

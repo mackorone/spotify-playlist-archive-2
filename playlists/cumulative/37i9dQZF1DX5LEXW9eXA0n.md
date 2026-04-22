@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 우디 \(Woody\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,731 songs - 4 day 16 hr 32 min
+1,732 songs - 4 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [At That Moment](https://open.spotify.com/track/0CB3B5ir8I2KbB3dkGVtWF) | [WSG WANNBE \(Gaya\-G\)](https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:42 | 2022-07-11 | 2022-12-27 |
 | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/track/1o1VpJ8DKeVzbWT0WnSLFK) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/album/4cBY8PVf0xqqnWsAiSrIGG) | 3:28 | 2022-01-27 | 2022-01-30 |
 | [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 | 2021-12-23 | 2022-06-30 |
+| [Awkward Star](https://open.spotify.com/track/2qOuSjBtfv2nUPLZTQrnhz) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [An Awkward Season](https://open.spotify.com/album/61RTjTXwMhDqOv6jnlzfmo) | 4:04 | 2026-04-21 |  |
 | [Azaleas](https://open.spotify.com/track/6PMzXBoxCyQyaT6MuLKRRE) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [Azaleas](https://open.spotify.com/album/2JAkCHflk8nudwOri0sd4f) | 3:55 | 2025-05-21 | 2025-09-27 |
 | [Baby it’s you](https://open.spotify.com/track/6NHnmWs8FNOdaWH3eq3mnx) | [NINE9](https://open.spotify.com/artist/06MGGkrdIi2KKfBdoAsAl9) | [9colors](https://open.spotify.com/album/69Xh5E4nygc7AqQyvPtf3T) | 3:40 | 2024-03-28 | 2024-07-12 |
 | [Back In The Day](https://open.spotify.com/track/7d3MyTc7PWrL8y85tOvUtW) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Back In The Day](https://open.spotify.com/album/4w0uMkhAi8n8okuwXQZzTK) | 2:54 | 2023-09-18 | 2023-12-14 |
@@ -699,7 +700,7 @@
 | [In Star](https://open.spotify.com/track/2Zd0bxXrdGKjNMbGlkTGOM) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E) | [In Star](https://open.spotify.com/album/0r9zh2sHXZk9OZy0ofc8SF) | 4:00 | 2022-01-27 | 2022-04-23 |
 | [In The End](https://open.spotify.com/track/6CBPmkWVL7uM2foOpObxrl) | [Seo Ja Yeong](https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN) | [In The End](https://open.spotify.com/album/5yETRDAvNVyFDPsG1ETjJV) | 3:42 | 2022-08-12 | 2022-12-27 |
 | [In The Night](https://open.spotify.com/track/2BzHlLKQyUVuvREaJikvmm) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Hi Bye Mama \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/7MDwMSMEZLXv7qcpMIshpe) | 4:19 | 2021-12-20 | 2022-07-03 |
-| [In this City Without You](https://open.spotify.com/track/6kFFrGbrhXHtyEw4vlYFwc) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [In this City Without You](https://open.spotify.com/album/7dbD93q8iuUBn9xCSzJ0Dq) | 4:59 | 2026-01-20 |  |
+| [In this City Without You](https://open.spotify.com/track/6kFFrGbrhXHtyEw4vlYFwc) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [In this City Without You](https://open.spotify.com/album/7dbD93q8iuUBn9xCSzJ0Dq) | 4:59 | 2026-01-20 | 2026-04-22 |
 | [In this world](https://open.spotify.com/track/2vXa3jnw1puqq9mRw4Nuit) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [In this world \(Webtoon'Plainwalker of Stigmatization' X KIMJAEJOONG\) \(Original Soundtrack\)](https://open.spotify.com/album/5efMyrzwotQXz5qxucXZQA) | 3:57 | 2022-08-12 | 2022-11-17 |
 | [In time](https://open.spotify.com/track/5CXvW4e3hz3NIH3k6GRnDI) | [정오월](https://open.spotify.com/artist/4zLM2qGVz8TX11ycCgwxk8) | [In time](https://open.spotify.com/album/0t3Gv2sSwVBWaGvdkJV03Q) | 4:53 | 2024-04-30 | 2024-09-14 |
 | [INCOMPLETE](https://open.spotify.com/track/1YI04hmMPhmcutJm1bpp0c) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [\[Vol.51\] You Hee yul's Sketchbook : 28th Voice 'Sketchbook X YOUNHA'](https://open.spotify.com/album/4opF5I4YD6RE1qzSFAMK4D) | 4:32 | 2022-03-29 | 2022-04-15 |

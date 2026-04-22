@@ -2681,6 +2681,24 @@
     },
     {
       "album": {
+        "name": "INVITE ONLY",
+        "url": "https://open.spotify.com/album/3YJmqiyXFF8QokbmiUQLxt"
+      },
+      "artists": [
+        {
+          "name": "TONE",
+          "url": "https://open.spotify.com/artist/7BTanMvfNlUM7nc1GSeiAu"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102346,
+      "name": "INVITE ONLY",
+      "url": "https://open.spotify.com/track/01GXPg6mBgZndeB0R5pxZj"
+    },
+    {
+      "album": {
         "name": "It Keeps",
         "url": "https://open.spotify.com/album/7fF7TJmT7Q2CxN9wTmB60J"
       },
@@ -2786,6 +2804,24 @@
       "duration_ms": 178386,
       "name": "Juvenile",
       "url": "https://open.spotify.com/track/4KnXS53TqnWKPAHgkDE7kC"
+    },
+    {
+      "album": {
+        "name": "Of Foxes And Tofu",
+        "url": "https://open.spotify.com/album/4dpkrcOzw7t95AqZDgMRJV"
+      },
+      "artists": [
+        {
+          "name": "Talking to Sophie",
+          "url": "https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295813,
+      "name": "Kawaii",
+      "url": "https://open.spotify.com/track/59tXTeEQ7G7koxQg5MyB1d"
     },
     {
       "album": {
@@ -3297,6 +3333,28 @@
     },
     {
       "album": {
+        "name": "Mole's Hotel",
+        "url": "https://open.spotify.com/album/78cBDN5Q2b8xsoAA3zo9uP"
+      },
+      "artists": [
+        {
+          "name": "Public Delay",
+          "url": "https://open.spotify.com/artist/2l4DfT1GBSmKk2auKQVKRO"
+        },
+        {
+          "name": "Dizzy Panda",
+          "url": "https://open.spotify.com/artist/2NpvjxVmyqxArOUBoF7oyv"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Mole's Hotel",
+      "url": "https://open.spotify.com/track/6SmtJ7NWGvpyL2LjMTCnVz"
+    },
+    {
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/0vW0OgHfbaXl2tJTSE7S65"
       },
@@ -3330,6 +3388,28 @@
       "duration_ms": 237226,
       "name": "Month of Sundays",
       "url": "https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4PPCdRFGekzGpKaTiiuGYk"
+      },
+      "artists": [
+        {
+          "name": "Blue Scarr",
+          "url": "https://open.spotify.com/artist/1gTOD1oLGnXEK81NvlQWSi"
+        },
+        {
+          "name": "Aim\u00e9e Britannia",
+          "url": "https://open.spotify.com/artist/1oxqclaWPu3nTkfNhjWSJ7"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/1Xnn2Fmts67hpUW085EJYF"
     },
     {
       "album": {
@@ -3510,6 +3590,28 @@
       "duration_ms": 234000,
       "name": "Nie wieder denken",
       "url": "https://open.spotify.com/track/19u4Ep9u8L5BsCgiZEDzXN"
+    },
+    {
+      "album": {
+        "name": "The Daylight is Gone",
+        "url": "https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ"
+      },
+      "artists": [
+        {
+          "name": "Isin",
+          "url": "https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z"
+        },
+        {
+          "name": "Vallartis",
+          "url": "https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183614,
+      "name": "No Proof",
+      "url": "https://open.spotify.com/track/0Jb6JopsRsmUeaDgiWEgGx"
     },
     {
       "album": {

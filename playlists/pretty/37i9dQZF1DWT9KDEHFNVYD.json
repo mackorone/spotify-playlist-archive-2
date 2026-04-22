@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 17095,
+  "num_followers": 17103,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -1149,6 +1149,38 @@
       "url": "https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e"
     },
     {
+      "added_at": "2022-01-20 20:59:43",
+      "album": {
+        "name": "Ecdysis!",
+        "url": "https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 389869,
+      "name": "Ecdysis!",
+      "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "La D\u00fcsseldorf",
+        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
+      },
+      "artists": [
+        {
+          "name": "La D\u00fcsseldorf",
+          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "La D\u00fcsseldorf",
+      "url": "https://open.spotify.com/track/3xGzJ6lwDAoBDisjCHkGtT"
+    },
+    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Panther Rotate",
@@ -1169,36 +1201,20 @@
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-09-04 19:37:16",
       "album": {
-        "name": "La D\u00fcsseldorf",
-        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
       },
       "artists": [
         {
-          "name": "La D\u00fcsseldorf",
-          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
         }
       ],
-      "duration_ms": 269133,
-      "name": "La D\u00fcsseldorf",
-      "url": "https://open.spotify.com/track/3xGzJ6lwDAoBDisjCHkGtT"
-    },
-    {
-      "added_at": "2022-01-20 20:59:43",
-      "album": {
-        "name": "Ecdysis!",
-        "url": "https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly"
-      },
-      "artists": [
-        {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
-        }
-      ],
-      "duration_ms": 389869,
-      "name": "Ecdysis!",
-      "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
+      "duration_ms": 310093,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1215,22 +1231,6 @@
       "duration_ms": 223066,
       "name": "Magic Kraut",
       "url": "https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk"
-    },
-    {
-      "added_at": "2023-09-04 19:37:16",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 310093,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
-      "added_at": "2023-03-23 21:21:38",
-      "album": {
-        "name": "L'\u00e9t\u00e9 suivant...",
-        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
-      },
-      "artists": [
-        {
-          "name": "Limousine",
-          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
-        }
-      ],
-      "duration_ms": 387200,
-      "name": "Autoroute",
-      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Wunderbar",
@@ -1343,6 +1327,22 @@
       "duration_ms": 520850,
       "name": "Himmelblau",
       "url": "https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK"
+    },
+    {
+      "added_at": "2023-03-23 21:21:38",
+      "album": {
+        "name": "L'\u00e9t\u00e9 suivant...",
+        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
+      },
+      "artists": [
+        {
+          "name": "Limousine",
+          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
+        }
+      ],
+      "duration_ms": 387200,
+      "name": "Autoroute",
+      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Radar, Vol. 1",
-        "url": "https://open.spotify.com/album/6G1hvboRkS2czOgqUZqh9z"
-      },
-      "artists": [
-        {
-          "name": "Sei Still",
-          "url": "https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74"
-        }
-      ],
-      "duration_ms": 300003,
-      "name": "Otto",
-      "url": "https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Feather Float",
         "url": "https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 465066,
       "name": "Be Sure To Loop",
       "url": "https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Radar, Vol. 1",
+        "url": "https://open.spotify.com/album/6G1hvboRkS2czOgqUZqh9z"
+      },
+      "artists": [
+        {
+          "name": "Sei Still",
+          "url": "https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74"
+        }
+      ],
+      "duration_ms": 300003,
+      "name": "Otto",
+      "url": "https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK"
     },
     {
       "added_at": "2021-07-30 14:56:06",

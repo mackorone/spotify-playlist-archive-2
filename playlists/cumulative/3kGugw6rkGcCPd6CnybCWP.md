@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-317 songs - 18 hr 21 min
+322 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,12 +154,14 @@
 | [Infinito](https://open.spotify.com/track/5K4JUd244XjzQLWfmiaTmS) | [Andrés Zapata](https://open.spotify.com/artist/3EVyrf1OgXe8woUNY6fbdO), [Daniela Garzon](https://open.spotify.com/artist/57VooYaAoRCGzc6AuRcIqj) | [Infinito](https://open.spotify.com/album/0JerWmlIVL40BX3uDukQSF) | 4:32 | 2026-04-17 |  |
 | [Insônia](https://open.spotify.com/track/7mnsSLbwEhtVEtapHjdV3p) | [Rod Montenegro](https://open.spotify.com/artist/0bdyMHoyw7ikqYXjwEdlt7), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Insônia](https://open.spotify.com/album/2RZ7KjRITbF7dZkDFtSuxP) | 3:19 | 2026-03-18 | 2026-04-21 |
 | [Invisible](https://open.spotify.com/track/2Kw99OuynMcNBAPauany8L) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/35LwtfCOsUxMdNuhzwfkcm) | 2:09 | 2026-02-08 | 2026-03-29 |
+| [INVITE ONLY](https://open.spotify.com/track/01GXPg6mBgZndeB0R5pxZj) | [TONE](https://open.spotify.com/artist/7BTanMvfNlUM7nc1GSeiAu) | [INVITE ONLY](https://open.spotify.com/album/3YJmqiyXFF8QokbmiUQLxt) | 1:42 | 2026-04-21 |  |
 | [It Keeps](https://open.spotify.com/track/2VJwP0nOIdaIQTTadQY8oF) | [Quarter Short](https://open.spotify.com/artist/5Bfa4fJtEIH2cZH5uu4xmv) | [It Keeps](https://open.spotify.com/album/7fF7TJmT7Q2CxN9wTmB60J) | 4:52 | 2025-10-24 | 2025-12-02 |
 | [It's Coming Soon](https://open.spotify.com/track/4ilN3buPvTXvnvgbFkAtjh) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [It's Coming Soon](https://open.spotify.com/album/08lUKyWInjb0ae5INhps8q) | 6:20 | 2026-01-12 | 2026-02-20 |
 | [I’m Hateful, I’m Horrible, I Love You](https://open.spotify.com/track/0b1x4o4APSYGjWTmLe5eHI) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [I’m Hateful, I’m Horrible, I Love You](https://open.spotify.com/album/0QRneNwpd3eLpI5O4Gna21) | 3:14 | 2025-11-04 | 2026-01-17 |
 | [jealousy misery](https://open.spotify.com/track/0x2N0M44PqRv2Dx4YtYJSy) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [Hush](https://open.spotify.com/album/3D6Dnsu11iFwDWIUoB1GUJ) | 2:47 | 2026-04-17 |  |
 | [Josef K](https://open.spotify.com/track/7ESCsOZPxGS1uvGriuUJfh) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [A Carnival of Reveries](https://open.spotify.com/album/3PEtGxaEPDtWziE2OUrd6G) | 6:31 | 2026-01-12 | 2026-02-20 |
 | [Juvenile](https://open.spotify.com/track/4KnXS53TqnWKPAHgkDE7kC) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Juvenile](https://open.spotify.com/album/6mjFTZyrqWIhnRoDsTSbgj) | 2:58 | 2026-01-22 | 2026-03-10 |
+| [Kawaii](https://open.spotify.com/track/59tXTeEQ7G7koxQg5MyB1d) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Of Foxes And Tofu](https://open.spotify.com/album/4dpkrcOzw7t95AqZDgMRJV) | 4:55 | 2026-04-21 |  |
 | [Kijk Dieper](https://open.spotify.com/track/4it5QdcZcP1ruTRDX1ixcT) | [FIERE](https://open.spotify.com/artist/27flAoHPs3qOBdlNsKM4Sr) | [Kijk Dieper](https://open.spotify.com/album/2HYMcDe1YbU0uk00boepWr) | 2:30 | 2025-11-21 |  |
 | [La Ciudad de las Estrellas](https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [La Ciudad de las Estrellas](https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE) | 3:48 | 2026-01-28 | 2026-03-10 |
 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 | 2026-03-10 | 2026-04-16 |
@@ -188,8 +190,10 @@
 | [Medicine](https://open.spotify.com/track/4IL6fBdGtJdTWHaBlq0ygR) | [Melissa Seals](https://open.spotify.com/artist/3yFgqYjP0ljLGdlm2Tel3t) | [Medicine](https://open.spotify.com/album/2FWui2L2Bz5jMhpYBFbVgp) | 2:50 | 2026-01-13 | 2026-02-20 |
 | [midnight](https://open.spotify.com/track/3Dj8351qYVaXJadChnfTFg) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [midnight](https://open.spotify.com/album/17Awl62nf01DXJzPKSb5UN) | 2:09 | 2025-11-07 | 2026-01-17 |
 | [misfit](https://open.spotify.com/track/3cZGoKYmu86ATSBA2uBNYr) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [misfit](https://open.spotify.com/album/05LVSFM0UJf9sGSfD81cOo) | 4:01 | 2025-12-30 | 2026-03-29 |
+| [Mole's Hotel](https://open.spotify.com/track/6SmtJ7NWGvpyL2LjMTCnVz) | [Public Delay](https://open.spotify.com/artist/2l4DfT1GBSmKk2auKQVKRO), [Dizzy Panda](https://open.spotify.com/artist/2NpvjxVmyqxArOUBoF7oyv) | [Mole's Hotel](https://open.spotify.com/album/78cBDN5Q2b8xsoAA3zo9uP) | 2:32 | 2026-04-21 |  |
 | [Monster](https://open.spotify.com/track/5qaDhl2WI8PZ4E8uRavh4o) | [Sam Edwards](https://open.spotify.com/artist/3SWbBPEKFKWXhms9t1S6VZ) | [Monster](https://open.spotify.com/album/0vW0OgHfbaXl2tJTSE7S65) | 2:51 | 2025-10-24 | 2025-12-12 |
 | [Month of Sundays](https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Month of Sundays](https://open.spotify.com/album/2aJDiRQCdqr0P7ZDjuPS55) | 3:57 | 2025-10-29 | 2025-12-12 |
+| [Moonlight](https://open.spotify.com/track/1Xnn2Fmts67hpUW085EJYF) | [Blue Scarr](https://open.spotify.com/artist/1gTOD1oLGnXEK81NvlQWSi), [Aimée Britannia](https://open.spotify.com/artist/1oxqclaWPu3nTkfNhjWSJ7) | [Moonlight](https://open.spotify.com/album/4PPCdRFGekzGpKaTiiuGYk) | 2:53 | 2026-04-21 |  |
 | [More](https://open.spotify.com/track/14aDPcz6whbi82MtqIGSAZ) | [Alanna Sterling](https://open.spotify.com/artist/6gfQSJ07CJAEvOwKz4sX2f) | [More](https://open.spotify.com/album/5iAMFLHajNIwWxFJh0iA0E) | 3:42 | 2026-04-17 |  |
 | [Move On](https://open.spotify.com/track/2z82PofLpBaIKJwbIYo5Cl) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Move On](https://open.spotify.com/album/2leZFJNcO96VaVYzMDYuMI) | 3:15 | 2026-04-19 |  |
 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 | 2026-01-20 | 2026-03-10 |
@@ -200,6 +204,7 @@
 | [Never Real](https://open.spotify.com/track/28sDuFjlwBhCiqg6yxf8sB) | [Tarsik](https://open.spotify.com/artist/2530s2wwvLVcrdDZHMR0vE) | [Never Real](https://open.spotify.com/album/22UJOFtqbf8uBTIpEDbjqA) | 4:17 | 2026-04-15 |  |
 | [Next In Line](https://open.spotify.com/track/7G4XN3ChekRS6KOxOIF68G) | [Carmen Olivia](https://open.spotify.com/artist/1w04bxkCPIX84eeMhf73aN) | [Next In Line](https://open.spotify.com/album/1tPGzJkKTLeb9X7mmCrdUu) | 3:31 | 2026-04-09 |  |
 | [Nie wieder denken](https://open.spotify.com/track/19u4Ep9u8L5BsCgiZEDzXN) | [Endstation Sanifair](https://open.spotify.com/artist/2qBfpEPXX7Wunr7so7DGNc) | [Nie wieder denken](https://open.spotify.com/album/31WtAgZUTznoy3qd5FbyIo) | 3:54 | 2025-11-24 | 2026-01-17 |
+| [No Proof](https://open.spotify.com/track/0Jb6JopsRsmUeaDgiWEgGx) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z), [Vallartis](https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa) | [The Daylight is Gone](https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ) | 3:03 | 2026-04-21 |  |
 | [noise around](https://open.spotify.com/track/27fE1mDoOHqkExHkgThqYc) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [noise around](https://open.spotify.com/album/0GqjQS5cIPFGyyVJOrwAtL) | 3:43 | 2026-03-20 | 2026-04-21 |
 | [not ur muse](https://open.spotify.com/track/7aBKuGcK0y9RKT3ezTfx9J) | [Lumi Mar](https://open.spotify.com/artist/5xFxgq2tTejLjoDRzAuZaw) | [not ur muse](https://open.spotify.com/album/0zb6wtxREtziSDRzui3MqJ) | 4:05 | 2026-01-16 | 2026-02-20 |
 | [Nothing We Can Do](https://open.spotify.com/track/2GcRdml2oURe3PpLEZmpfn) | [Laurie McMahon](https://open.spotify.com/artist/3Xr0YttuvFgDb6vgjONFT7) | [Nothing We Can Do](https://open.spotify.com/album/0nfkbEiPiQrwF9dIVEjGUV) | 3:36 | 2025-11-21 | 2026-01-17 |

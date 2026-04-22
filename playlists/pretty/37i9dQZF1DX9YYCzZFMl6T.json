@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 7867,
+  "num_followers": 7868,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "More Than Christmas",
-        "url": "https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "More Than Christmas",
-      "url": "https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Send Me Out Like Autumn",
         "url": "https://open.spotify.com/album/3ZLT3bHm4ksZ5AIFOEK5jJ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 233706,
       "name": "Send Me Out Like Autumn",
       "url": "https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "More Than Christmas",
+        "url": "https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "More Than Christmas",
+      "url": "https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -483,6 +483,26 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
+        "name": "The Johnny Cash Family Christmas",
+        "url": "https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR"
+        }
+      ],
+      "duration_ms": 133640,
+      "name": "That Christmasy Feeling",
+      "url": "https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
         "name": "Merry Christmas Darling",
         "url": "https://open.spotify.com/album/0QcwV6O3vAsYZZirkEccE4"
       },
@@ -507,26 +527,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "The Johnny Cash Family Christmas",
-        "url": "https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Tommy Cash",
-          "url": "https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR"
-        }
-      ],
-      "duration_ms": 133640,
-      "name": "That Christmasy Feeling",
-      "url": "https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
         "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 143909,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "HARK!",
-        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 137853,
-      "name": "Oh Holy Night",
-      "url": "https://open.spotify.com/track/1Vzqu0XeCu2PbIm561Yxok"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -575,6 +559,22 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
+        "name": "HARK!",
+        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 137853,
+      "name": "Oh Holy Night",
+      "url": "https://open.spotify.com/track/1Vzqu0XeCu2PbIm561Yxok"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 245922,
       "name": "River",
       "url": "https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Let It Snow",
-        "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 136566,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -639,6 +623,22 @@
       "duration_ms": 253746,
       "name": "Baby, It\u2019s Cold Outside",
       "url": "https://open.spotify.com/track/6CGdeRGSoKtrzFo5XSypid"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Let It Snow",
+        "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 136566,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -707,22 +707,22 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "I Heard the Bells",
-        "url": "https://open.spotify.com/album/3inmUzW5uliXu4hNQdpDUl"
+        "name": "Lonely on Christmas",
+        "url": "https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft"
       },
       "artists": [
         {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
         },
         {
-          "name": "Cindy Morgan",
-          "url": "https://open.spotify.com/artist/5iZweZ1uY4DshuBUYN6Fn4"
+          "name": "Mike and the Moonpies",
+          "url": "https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi"
         }
       ],
-      "duration_ms": 149853,
-      "name": "I Heard the Bells on Christmas Day",
-      "url": "https://open.spotify.com/track/3u7aseV74piywxb3SeFtWt"
+      "duration_ms": 189118,
+      "name": "Lonely on Christmas",
+      "url": "https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH"
     },
     {
       "added_at": "2025-12-18 16:35:14",
@@ -743,38 +743,22 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Lonely on Christmas",
-        "url": "https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft"
+        "name": "I Heard the Bells",
+        "url": "https://open.spotify.com/album/3inmUzW5uliXu4hNQdpDUl"
       },
       "artists": [
         {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
         },
         {
-          "name": "Mike and the Moonpies",
-          "url": "https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi"
+          "name": "Cindy Morgan",
+          "url": "https://open.spotify.com/artist/5iZweZ1uY4DshuBUYN6Fn4"
         }
       ],
-      "duration_ms": 189118,
-      "name": "Lonely on Christmas",
-      "url": "https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Christmas Grass - The Collection",
-        "url": "https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "One Bright Star",
-      "url": "https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1"
+      "duration_ms": 149853,
+      "name": "I Heard the Bells on Christmas Day",
+      "url": "https://open.spotify.com/track/3u7aseV74piywxb3SeFtWt"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -791,6 +775,22 @@
       "duration_ms": 194582,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/5TceVTcfSq23eNJfQizLFD"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Christmas Grass - The Collection",
+        "url": "https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "One Bright Star",
+      "url": "https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1"
     },
     {
       "added_at": "2025-12-12 05:00:29",

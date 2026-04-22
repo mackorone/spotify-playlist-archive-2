@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Kid Milli\(키드밀리\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-823 songs - 1 day 19 hr 57 min
+824 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,7 +492,7 @@
 | [Need Your Love](https://open.spotify.com/track/0JHoAHlwR9MkZrZYxgYugi) | [CHEETAH](https://open.spotify.com/artist/6ftZYkensUYXNiMM7nFwhE) | [Jazzy Misfits](https://open.spotify.com/album/4epYzvbV3UKpp7SjX2yk8v) | 3:14 | 2022-05-05 | 2022-05-07 |
 | [Neon](https://open.spotify.com/track/6p6IdL9jw9wGshHJLRWcXV) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Is Anybody Out There?](https://open.spotify.com/album/7zYpUyqdyfgQlYu9GjMoWT) | 3:20 | 2022-04-01 | 2022-07-27 |
 | [Nerdy Love](https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro) | 3:16 | 2022-07-24 | 2024-04-19 |
-| [Nerdy Love](https://open.spotify.com/track/2jBSyGuol2kWCdgSoclQ9C) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/59wrpQm51Eng077uRTDv15) | 3:16 | 2022-04-01 |  |
+| [Nerdy Love](https://open.spotify.com/track/2jBSyGuol2kWCdgSoclQ9C) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/59wrpQm51Eng077uRTDv15) | 3:16 | 2022-04-01 | 2026-04-22 |
 | [Never Grind \(feat\. 100KGOLD & HOWLER\)](https://open.spotify.com/track/5lLnlx0BMPJCSXMB9GZHIR) | [Chillin Boi G](https://open.spotify.com/artist/48RuBUKIur5QpC6tvzuVh4), [100KGOLD](https://open.spotify.com/artist/5J9IHTqjLSVbckoTCnAtes), [HOWLER](https://open.spotify.com/artist/5IYAX4BtvKfgcdncdzZecC) | [Never Grind \(feat\. 100KGOLD & HOWLER\)](https://open.spotify.com/album/5SRcrxBK3wt2NR7eEKzi6k) | 3:26 | 2022-10-08 | 2022-10-15 |
 | [new new \(Feat\. B.I\)](https://open.spotify.com/track/5NGljHeqKqfKs1a5h3rFwv) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Voice tool tip.txt 2](https://open.spotify.com/album/2aJfdRcuY9vgr69p0K1nxd) | 2:38 | 2025-04-30 | 2025-06-12 |
 | [NG \(Feat\. pH\-1, Jay Park\)](https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [LOVE MAZE](https://open.spotify.com/album/7rOm15Kcboervh20RasQPp) | 3:47 | 2022-10-28 |  |
@@ -813,6 +813,7 @@
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-03-22 |  |
 | [You So \(feat\. migoo\)](https://open.spotify.com/track/3crfuTcFmhXGSiURgSUMSM) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr), [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Migoo](https://open.spotify.com/artist/7BV43zSPYFU1W7SY6QbMcH) | [Out Of Control Vol.3](https://open.spotify.com/album/59gABTdyEHWyB7qBIx7SpA) | 3:05 | 2022-08-02 | 2022-08-13 |
 | [You Up](https://open.spotify.com/track/0avIFhF3AOSVx607hoacdl) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 2:45 | 2022-04-01 | 2022-07-25 |
+| [You're So Fine](https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:45 | 2026-04-21 |  |
 | [YOUNG BOY](https://open.spotify.com/track/6dklP83kIZRmUYawxj7sqr) | [HELLO GLOOM](https://open.spotify.com/artist/7so3OJPxoYvfHVSeYDMdCQ) | [Because I Was Young Boy](https://open.spotify.com/album/74vHOExJIUhBqW6oQgL3BZ) | 2:56 | 2022-06-13 | 2022-06-19 |
 | [Your Instagram \(Feat\. Blueday\)](https://open.spotify.com/track/69eA4nwZmmAZy3dL1OglaJ) | [IOHBOY](https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e), [Blueday](https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx) | [Your Instagram](https://open.spotify.com/album/7bFHJASGNnV4PilM1ivDfz) | 2:29 | 2022-08-18 | 2023-02-01 |
 | [Your Night](https://open.spotify.com/track/6HsXrtTgag6bymZlUNOdlN) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/5ymwUauRI4kY2omHdBkGUt) | 3:24 | 2022-04-01 | 2022-05-31 |

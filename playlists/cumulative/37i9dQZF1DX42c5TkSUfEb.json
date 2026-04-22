@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 228807,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/2N5NhAQy5OeEtTWHvpykdX"
@@ -5250,6 +5250,24 @@
       "duration_ms": 196923,
       "name": "Mama's Boy",
       "url": "https://open.spotify.com/track/68ZvWR7hhZ6mHtzBknduf6"
+    },
+    {
+      "album": {
+        "name": "Mana",
+        "url": "https://open.spotify.com/album/4hyFJk1U1nY0tzD4mxTqen"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Antoniotti",
+          "url": "https://open.spotify.com/artist/4vDyelI0fvbfPTtaaRBe9B"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194019,
+      "name": "Mana",
+      "url": "https://open.spotify.com/track/5lWQqBmU15nYEhTR0y6kHC"
     },
     {
       "album": {

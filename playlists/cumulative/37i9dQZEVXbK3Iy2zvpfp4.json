@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 176032,
       "name": "31",
       "url": "https://open.spotify.com/track/1Gix5ydCHyeExbBvbmI7WH"
@@ -3734,7 +3734,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 229152,
       "name": "ALL THE LOVE (feat. Andre Troutman)",
       "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
@@ -5336,6 +5336,24 @@
       "duration_ms": 278474,
       "name": "Assumptions - slowed down version",
       "url": "https://open.spotify.com/track/4QhTDQlt5M2sp2DNWnVift"
+    },
+    {
+      "album": {
+        "name": "MET GALA",
+        "url": "https://open.spotify.com/album/4qrGkDZq7DRqE93ysemRts"
+      },
+      "artists": [
+        {
+          "name": "Sarah Toscano",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164369,
+      "name": "Atlantide (from the Netflix film \u201cNon abbiam bisogno di parole\u201d)",
+      "url": "https://open.spotify.com/track/12MJ5fijk343STCNRQAM2e"
     },
     {
       "album": {
@@ -7754,7 +7772,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 255946,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
@@ -9366,6 +9384,24 @@
       "duration_ms": 185625,
       "name": "Blitzkrieg 2022 - Drammen",
       "url": "https://open.spotify.com/track/4qkchijBTUVzbQt9jbPv9k"
+    },
+    {
+      "album": {
+        "name": "BLOCKKIDS",
+        "url": "https://open.spotify.com/album/14hKqYA0CCaPrbtpcMVZBc"
+      },
+      "artists": [
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147893,
+      "name": "BLOCKKIDS",
+      "url": "https://open.spotify.com/track/2IzZDG0nsfZD8H9AKi2aPc"
     },
     {
       "album": {
@@ -18894,7 +18930,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 145978,
       "name": "DON'T KILL MY VIBE",
       "url": "https://open.spotify.com/track/4c1CYN4v3wzH43Mpka8F86"
@@ -19596,7 +19632,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -30845,6 +30881,24 @@
     },
     {
       "album": {
+        "name": "HIT THE JACKPOT! (Hakari Dance)",
+        "url": "https://open.spotify.com/album/0nWHTIqabLbLQDPxaWrxZ5"
+      },
+      "artists": [
+        {
+          "name": "GameboyJones",
+          "url": "https://open.spotify.com/artist/1FDAJKaPzIzRHJrl3Smitm"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131687,
+      "name": "HIT THE JACKPOT! (Hakari Dance)",
+      "url": "https://open.spotify.com/track/0J0GjG84jtHKTdAfguKget"
+    },
+    {
+      "album": {
         "name": "JA, ZLODUCH",
         "url": "https://open.spotify.com/album/1pYmvQbea8TwC5PQr2MxqY"
       },
@@ -34406,7 +34460,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
@@ -41040,7 +41094,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 136666,
       "name": "Loco Loco",
       "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
@@ -52059,6 +52113,28 @@
     },
     {
       "album": {
+        "name": "No More Blah Blah",
+        "url": "https://open.spotify.com/album/42HvzTwUt6uwAVOpKWNjtI"
+      },
+      "artists": [
+        {
+          "name": "Vesanic",
+          "url": "https://open.spotify.com/artist/4ZCAeSepGyk6stVrTd0jZR"
+        },
+        {
+          "name": "\u00fcnperturbed",
+          "url": "https://open.spotify.com/artist/0f1YyUfvI6wgOS7OrZ1DvD"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126937,
+      "name": "No More Blah Blah",
+      "url": "https://open.spotify.com/track/1Oq9gzmNzaMgPMw8tQrIux"
+    },
+    {
+      "album": {
         "name": "No More Tears (Expanded Edition)",
         "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
       },
@@ -61958,7 +62034,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 143138,
       "name": "Ritu\u00e1l",
       "url": "https://open.spotify.com/track/10r7MFieVraQW6a54q6rqC"
@@ -63260,6 +63336,24 @@
       "duration_ms": 177464,
       "name": "Sarah, Linda, Maria, Eliza",
       "url": "https://open.spotify.com/track/3IYQSdCmeaKLlz51KX5xNE"
+    },
+    {
+      "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275599,
+      "name": "Sarniezz",
+      "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
     },
     {
       "album": {
@@ -64646,7 +64740,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 176312,
       "name": "SEXYTEKK - Ultra Slowed",
       "url": "https://open.spotify.com/track/1X4FDrJ33eJuxu5vkbZjHC"
@@ -70957,6 +71051,24 @@
     },
     {
       "album": {
+        "name": "Take Me There",
+        "url": "https://open.spotify.com/album/1tuNBnbHUdE8rlooVI4sVR"
+      },
+      "artists": [
+        {
+          "name": "DA TI",
+          "url": "https://open.spotify.com/artist/0E1Yd4BPHXB4DfTaYb9Y5i"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "Take Me There",
+      "url": "https://open.spotify.com/track/05zHAkeiaKLn4Vs8bPgrqv"
+    },
+    {
+      "album": {
         "name": "Culturally Appropriate",
         "url": "https://open.spotify.com/album/6K7kj9XKdeeDSwLuEKgU1c"
       },
@@ -71576,6 +71688,28 @@
       "duration_ms": 153600,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/0woKdzamzKvMXps6AemWIV"
+    },
+    {
+      "album": {
+        "name": "Te Molla",
+        "url": "https://open.spotify.com/album/2c4c5vQa6oroNP9sCv46GV"
+      },
+      "artists": [
+        {
+          "name": "Arnon",
+          "url": "https://open.spotify.com/artist/5NvOktRLQaWY8N3R1VI18u"
+        },
+        {
+          "name": "letskillua",
+          "url": "https://open.spotify.com/artist/0XYcolmuv0aRet8pgynZmZ"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Te Molla",
+      "url": "https://open.spotify.com/track/2XsRUtos1QZOORVt4R8xT4"
     },
     {
       "album": {
@@ -76412,7 +76546,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 166666,
       "name": "Un Cachito de Luz - Versi\u00f3n Deluxe",
       "url": "https://open.spotify.com/track/0UJvn3UQWBSOh4Aj171Zoa"
@@ -77426,6 +77560,24 @@
       "duration_ms": 111342,
       "name": "Valet",
       "url": "https://open.spotify.com/track/5ycjz8lcQzJWA8dUg5GDx1"
+    },
+    {
+      "album": {
+        "name": "VALHALLA CALLING",
+        "url": "https://open.spotify.com/album/4k5z9pJyqTx5ia7F9BH1Ss"
+      },
+      "artists": [
+        {
+          "name": "Ragal Ironbull",
+          "url": "https://open.spotify.com/artist/3vDYGs9p4Y6GpfvxJDDhjx"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195599,
+      "name": "VALHALLA CALLING",
+      "url": "https://open.spotify.com/track/0fMXHtOEGKJvMJiivwNqnx"
     },
     {
       "album": {
@@ -79386,6 +79538,28 @@
       "duration_ms": 188108,
       "name": "V\u00e1\u0161e\u0148",
       "url": "https://open.spotify.com/track/6YYk1QzDea5SD81NVQhG08"
+    },
+    {
+      "album": {
+        "name": "v\u00edno",
+        "url": "https://open.spotify.com/album/5WeIbxAhk5h54QMsrZy1ny"
+      },
+      "artists": [
+        {
+          "name": "Victor Kal.",
+          "url": "https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in"
+        },
+        {
+          "name": "Lajfr",
+          "url": "https://open.spotify.com/artist/5zeSPtcFxpJeejJjDPnkl1"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155714,
+      "name": "v\u00edno",
+      "url": "https://open.spotify.com/track/2oQtEyxSIgJjEV943tK9VJ"
     },
     {
       "album": {
@@ -82532,7 +82706,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 201908,
       "name": "worry - Slowed",
       "url": "https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk"
@@ -83028,7 +83202,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 229894,
       "name": "xXx",
       "url": "https://open.spotify.com/track/2TakLZRzWUxCPWpoXlVvj5"
@@ -84574,6 +84748,28 @@
       "duration_ms": 183577,
       "name": "ZORRA",
       "url": "https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z"
+    },
+    {
+      "album": {
+        "name": "Od Nekone\u010dna Do D\u00e1vna",
+        "url": "https://open.spotify.com/album/3vaf9dCPw6akMsA0CzRmFX"
+      },
+      "artists": [
+        {
+          "name": "Saul",
+          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
+        },
+        {
+          "name": "Hasan",
+          "url": "https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178329,
+      "name": "Zrkadla",
+      "url": "https://open.spotify.com/track/1EeDMj1nmEedi2t70FPHhI"
     },
     {
       "album": {

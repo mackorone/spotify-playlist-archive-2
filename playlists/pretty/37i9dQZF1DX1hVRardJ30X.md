@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Young Miko, Trueno, Anitta, ROSALÍA, Blessd and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,920 likes - 53 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,005 likes - 53 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 25 | [Me Enamoré](https://open.spotify.com/track/7gJKqcvYbnBW2p3jDzgRNp) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Los Compas](https://open.spotify.com/artist/0p7iJs5QwLKfKmA2f7XRIg) | [Me Enamoré](https://open.spotify.com/album/5nyr3eCFoAMiKIyMyWydHq) | 2:59 |
 | 26 | [Guele](https://open.spotify.com/track/4fbtdVb5F7BgN1n4avUMqx) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh) | [Guele](https://open.spotify.com/album/3hkWFsGhzkj7qOtVRxcdL6) | 2:41 |
 | 27 | [Querida Muerte](https://open.spotify.com/track/3myxxx4CpDGAtrjMTKekOH) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Querida Muerte](https://open.spotify.com/album/2RHGmEodh7DMHemR4UHOLp) | 2:05 |
-| 28 | [Cielo Azul](https://open.spotify.com/track/4udS1ThVIEG1CGnBeHXRnk) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi), [Baha Men](https://open.spotify.com/artist/67FFKYikvTlvsPNk4NPOYJ), [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Cielo Azul](https://open.spotify.com/album/2jcmlPB21I0tc4LXvxg8i0) | 4:33 |
+| 28 | [Cielo Azul](https://open.spotify.com/track/4udS1ThVIEG1CGnBeHXRnk) | [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Baha Men](https://open.spotify.com/artist/67FFKYikvTlvsPNk4NPOYJ), [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Cielo Azul](https://open.spotify.com/album/2jcmlPB21I0tc4LXvxg8i0) | 4:33 |
 | 29 | [Corazón hinchado](https://open.spotify.com/track/51hwVUxXajijH8QarFV6Q7) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Corazón hinchado](https://open.spotify.com/album/2wZHlVJw1HAXlPZtnOMHl5) | 2:59 |
 | 30 | [Su Lazzy](https://open.spotify.com/track/5w6ZSz4JzB17e3LBmDOLus) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L), [Mapa Negro](https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO) | [Scorpion](https://open.spotify.com/album/0KsQrzX7cMKjoFNhWh1bR0) | 2:13 |
 | 31 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 |

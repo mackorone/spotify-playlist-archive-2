@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 168029,
+  "num_followers": 168052,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
+        "name": "Escumalha",
+        "url": "https://open.spotify.com/album/3uCW5dht5i4pFiaYPSV8Zq"
+      },
+      "artists": [
+        {
+          "name": "Douglas Germano",
+          "url": "https://open.spotify.com/artist/2ig041GcPcddsLoeUWpcJ0"
+        }
+      ],
+      "duration_ms": 311053,
+      "name": "Tempo Velho",
+      "url": "https://open.spotify.com/track/0Roj7QJeVqNO5ArpKGw5fR"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
         "name": "Melhor Assim",
         "url": "https://open.spotify.com/album/4DWkJyeCTzLFHRbZ4U4d4m"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 214560,
       "name": "Beijo Sem - Ao Vivo",
       "url": "https://open.spotify.com/track/07JmyvYMNUs4WnZs1SYEuG"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
-        "name": "Escumalha",
-        "url": "https://open.spotify.com/album/3uCW5dht5i4pFiaYPSV8Zq"
-      },
-      "artists": [
-        {
-          "name": "Douglas Germano",
-          "url": "https://open.spotify.com/artist/2ig041GcPcddsLoeUWpcJ0"
-        }
-      ],
-      "duration_ms": 311053,
-      "name": "Tempo Velho",
-      "url": "https://open.spotify.com/track/0Roj7QJeVqNO5ArpKGw5fR"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "Canta Cartola",
-        "url": "https://open.spotify.com/album/3JetnGaI0LSpY0HtoM2Ci5"
-      },
-      "artists": [
-        {
-          "name": "Teresa Cristina",
-          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
-        }
-      ],
-      "duration_ms": 146093,
-      "name": "Corra e Olhe o C\u00e9u",
-      "url": "https://open.spotify.com/track/41xNiLF0fk3EZuhfkK99F4"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "Delirios Delicias",
         "url": "https://open.spotify.com/album/1JYt2TdDZ892RB6bns5bGp"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 291760,
       "name": "O Amanh\u00e3",
       "url": "https://open.spotify.com/track/6bVN61aMSRNMM6vYdPfM7A"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "Canta Cartola",
+        "url": "https://open.spotify.com/album/3JetnGaI0LSpY0HtoM2Ci5"
+      },
+      "artists": [
+        {
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+        }
+      ],
+      "duration_ms": 146093,
+      "name": "Corra e Olhe o C\u00e9u",
+      "url": "https://open.spotify.com/track/41xNiLF0fk3EZuhfkK99F4"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "Samba Jazz, de Raiz Cl\u00e1udio Jorge 70",
-        "url": "https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e1udio Jorge",
-          "url": "https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Samba Jazz, de Raiz",
-      "url": "https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "Minhas Andan\u00e7as (Completo)",
         "url": "https://open.spotify.com/album/7ms6TgkVh9MYlaIG1crwSs"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 244267,
       "name": "Nem L\u00e1, Nem C\u00e1",
       "url": "https://open.spotify.com/track/4ofq9YFrrZEdc8K0hYmG83"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "Samba Jazz, de Raiz Cl\u00e1udio Jorge 70",
+        "url": "https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e1udio Jorge",
+          "url": "https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Samba Jazz, de Raiz",
+      "url": "https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "At\u00e9 Depois do Fim",
-        "url": "https://open.spotify.com/album/6NNBd6rbQFlqBbIReMBUHr"
-      },
-      "artists": [
-        {
-          "name": "Cleverson Luiz",
-          "url": "https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "At\u00e9 Depois do Fim",
-      "url": "https://open.spotify.com/track/2r8pQbeeV4JBluUo1mlvoo"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "Ind\u00edcio de Amor",
         "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 208736,
       "name": "Ind\u00edcio de Amor",
       "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "At\u00e9 Depois do Fim",
+        "url": "https://open.spotify.com/album/6NNBd6rbQFlqBbIReMBUHr"
+      },
+      "artists": [
+        {
+          "name": "Cleverson Luiz",
+          "url": "https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "At\u00e9 Depois do Fim",
+      "url": "https://open.spotify.com/track/2r8pQbeeV4JBluUo1mlvoo"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -1283,42 +1283,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 196808,
-      "name": "Samba de Amanda e T\u00e9",
-      "url": "https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
-        "name": "Gema (342 Amaz\u00f4nia ao Vivo no Circo Voador)",
-        "url": "https://open.spotify.com/album/0sbkCMPCxWHQlPjXRlLy2D"
-      },
-      "artists": [
-        {
-          "name": "Teresa Cristina",
-          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 145823,
-      "name": "Gema - 342 Amaz\u00f4nia ao Vivo no Circo Voador",
-      "url": "https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "Sambabook Dona Ivone Lara",
         "url": "https://open.spotify.com/album/69qErPKLHHugsWzOXRB0Ls"
       },
@@ -1407,6 +1371,42 @@
       "duration_ms": 228720,
       "name": "Sonho Meu",
       "url": "https://open.spotify.com/track/62hLOAVwp0V2aFuT7sEQC9"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 196808,
+      "name": "Samba de Amanda e T\u00e9",
+      "url": "https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "Gema (342 Amaz\u00f4nia ao Vivo no Circo Voador)",
+        "url": "https://open.spotify.com/album/0sbkCMPCxWHQlPjXRlLy2D"
+      },
+      "artists": [
+        {
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 145823,
+      "name": "Gema - 342 Amaz\u00f4nia ao Vivo no Circo Voador",
+      "url": "https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H"
     },
     {
       "added_at": "2025-11-25 18:58:58",

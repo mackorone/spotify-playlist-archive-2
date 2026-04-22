@@ -4,7 +4,7 @@
 
 > Ny fredag, ny musik fra Burhan G & Medina, Lamin og maaange flere  ❤️‍🔥
 
-10,115 songs - 21 day 21 hr 28 min
+10,116 songs - 21 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4984,6 +4984,7 @@
 | [King of the Sun \(feat\. Jesper Binzer & D\-A\-D\)](https://open.spotify.com/track/0TLSfenoA0Nf1e2zXGRx2g) | [BAEST](https://open.spotify.com/artist/4UtjZRQc6qXhAd1kqyLvqp), [Jesper Binzer](https://open.spotify.com/artist/5wjWVkOivGXpuprKis1UCL), [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [King of the Sun \(feat\. Jesper Binzer & D\-A\-D\)](https://open.spotify.com/album/1Hgqt3SFzveLt4AJm9nMYM) | 4:09 | 2025-06-05 | 2025-06-13 |
 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 | 2024-11-28 | 2024-12-06 |
 | [Kingdom](https://open.spotify.com/track/5sM87AjEcPz9owIDAZ36hs) | [Jesse Markin](https://open.spotify.com/artist/3mxJuHRn2ZWD5OofvJtDZY) | [Kingdom](https://open.spotify.com/album/4tcRwRRseZfr6zykjZN2Ch) | 3:13 | 2024-04-26 | 2024-05-03 |
+| [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 | 2026-04-17 |  |
 | [Kintsugi](https://open.spotify.com/track/3x6gA8SG2NB2XQ9gmgggT9) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Kintsugi](https://open.spotify.com/album/4EWfIhYmj4618XFcsFG6UW) | 3:27 | 2025-06-12 | 2025-06-20 |
 | [Kintsugi](https://open.spotify.com/track/1GeV5w0JwlmJiGzHNFPF8a) | [Tabloid](https://open.spotify.com/artist/5rcnMGND7eyKJRbVGpIjOG) | [Kintsugi](https://open.spotify.com/album/0I4RGQ8RLwr3I8c9mWKKIG) | 4:13 | 2025-01-17 | 2025-01-24 |
 | [Kirsebær](https://open.spotify.com/track/5dCLDvxvL4TPhcj43hsTBu) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Kirsebær](https://open.spotify.com/album/2GvNkzQVVOI3WxUyE1GPi5) | 2:13 | 2025-09-18 | 2025-09-27 |

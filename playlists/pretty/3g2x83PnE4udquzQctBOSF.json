@@ -1,13 +1,93 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2738,
+  "num_followers": 2740,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASOH3qovunmY3wiGHM1yrE1/aW8R+X",
+  "snapshot_id": "AAASPRq0jO/KrswNIIhzAQWuj4oVCins",
   "tracks": [
+    {
+      "added_at": "2026-04-21 19:39:59",
+      "album": {
+        "name": "Where I Disappear",
+        "url": "https://open.spotify.com/album/6gRzH6x3q6ebxUj2CPwnYp"
+      },
+      "artists": [
+        {
+          "name": "Rafxel",
+          "url": "https://open.spotify.com/artist/6PlXXzsks2YQmAjJkGxtNB"
+        }
+      ],
+      "duration_ms": 271790,
+      "name": "Where I Disappear",
+      "url": "https://open.spotify.com/track/0gBeddG5eF5r3hXrjLHTBS"
+    },
+    {
+      "added_at": "2026-04-21 18:50:40",
+      "album": {
+        "name": "La llamada",
+        "url": "https://open.spotify.com/album/0DBPPm1OOoO7lZQN4kQ5zV"
+      },
+      "artists": [
+        {
+          "name": "Red-X",
+          "url": "https://open.spotify.com/artist/78O3slbqYJoT7QZp3Q4Jnq"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "La llamada",
+      "url": "https://open.spotify.com/track/1se3mgN06RRMkhCFlItHsi"
+    },
+    {
+      "added_at": "2026-04-21 17:24:13",
+      "album": {
+        "name": "Dirty Circuit",
+        "url": "https://open.spotify.com/album/46f1FcHprH40V1mfxqSaZV"
+      },
+      "artists": [
+        {
+          "name": "Bruno Costa",
+          "url": "https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2"
+        }
+      ],
+      "duration_ms": 273230,
+      "name": "Muevela",
+      "url": "https://open.spotify.com/track/5Ctdg2td8JQT90j5u26OPf"
+    },
+    {
+      "added_at": "2026-04-21 09:49:37",
+      "album": {
+        "name": "Whispers In The Dark",
+        "url": "https://open.spotify.com/album/0xxNJpPkUGQXWHhPFvaxWN"
+      },
+      "artists": [
+        {
+          "name": "Zelipercussion",
+          "url": "https://open.spotify.com/artist/6u1zElS1JXFPIbsqdAmm6M"
+        }
+      ],
+      "duration_ms": 236008,
+      "name": "Whispers In The Dark",
+      "url": "https://open.spotify.com/track/2zrBvYn0EzJ9svq8NnvLcL"
+    },
+    {
+      "added_at": "2026-04-21 09:05:34",
+      "album": {
+        "name": "Sweet Ah",
+        "url": "https://open.spotify.com/album/3TBQjyxk7NlLXC1kjfD73I"
+      },
+      "artists": [
+        {
+          "name": "VS Prjct",
+          "url": "https://open.spotify.com/artist/5NGhNgjAPerBPAAKlYt9ie"
+        }
+      ],
+      "duration_ms": 269797,
+      "name": "Sweet Ah",
+      "url": "https://open.spotify.com/track/6KMGsJRDIyLwqlu6E5MI4X"
+    },
     {
       "added_at": "2026-04-20 18:53:15",
       "album": {

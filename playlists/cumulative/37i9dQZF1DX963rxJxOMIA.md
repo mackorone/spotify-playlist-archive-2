@@ -4,7 +4,7 @@
 
 > Fino y elegante, como Blessd y Crudo Means Raw.
 
-416 songs - 21 hr 50 min
+417 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Palabra de Honor](https://open.spotify.com/track/6YmZBTOhXdBBHySS9RlFo5) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [SpreadLof](https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O) | [Palabra de Honor](https://open.spotify.com/album/6PXaBc24sYwppirA7vzaBB) | 3:37 | 2023-09-29 | 2024-02-10 |
 | [Palabras Sobran](https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Palabras Sobran](https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs) | 3:36 | 2023-05-19 | 2024-01-27 |
 | [PALABRAS SOBRAN \- REMIX](https://open.spotify.com/track/4u8fUK0wSDHvVQ24SUMqZq) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 4:48 | 2024-01-26 | 2025-10-25 |
+| [Parcera](https://open.spotify.com/track/724Txk8NEBXqNK7nIvY6MK) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Parcera](https://open.spotify.com/album/2iiuzRYwehvW5XKRY1r5Fk) | 3:09 | 2026-04-21 |  |
 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 | 2022-10-13 | 2022-11-04 |
 | [PASIÓN Y SEXO](https://open.spotify.com/track/4pjkZyNZnOJEPpBmzOqTC2) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [PASIÓN Y SEXO](https://open.spotify.com/album/3rBYLiBQUm7DfNsTGoNSni) | 3:33 | 2026-02-27 |  |
 | [Perfección](https://open.spotify.com/track/6keww58gv3WCCGFHVVTgZb) | [Flako Gallego](https://open.spotify.com/artist/2tNVW9A320DdMR2fQNGKuZ), [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC) | [Perfección](https://open.spotify.com/album/6TAshkaMGXhmB7mdJfEwqd) | 2:30 | 2023-08-18 | 2023-09-30 |

@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 157755,
       "name": "130 Metronome",
       "url": "https://open.spotify.com/track/7dke6KEqVsre2xLiuG0aKR"
@@ -7192,7 +7192,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 223163,
       "name": "A Rain of Petals",
       "url": "https://open.spotify.com/track/0bjY1AC7Dg0dY08XwIqaTD"
@@ -18997,6 +18997,24 @@
     },
     {
       "album": {
+        "name": "An Awkward Season",
+        "url": "https://open.spotify.com/album/61RTjTXwMhDqOv6jnlzfmo"
+      },
+      "artists": [
+        {
+          "name": "Park Chan Young",
+          "url": "https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Awkward Star",
+      "url": "https://open.spotify.com/track/2qOuSjBtfv2nUPLZTQrnhz"
+    },
+    {
+      "album": {
         "name": "Blossom with Love, Pt. 5 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/06G2atOgnViq1WwdbQM6MN"
       },
@@ -30520,7 +30538,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 222749,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/45iFUxo3chvO9ub7vnN5A6"
@@ -99991,6 +100009,24 @@
     },
     {
       "album": {
+        "name": "Here Comes That Crow",
+        "url": "https://open.spotify.com/album/2ITsKM2m0yEl2UiX4m2Lfe"
+      },
+      "artists": [
+        {
+          "name": "LEENALCHI",
+          "url": "https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168837,
+      "name": "Here Comes That Crow",
+      "url": "https://open.spotify.com/track/0LIIWzpyaWRywnOrp1gmp1"
+    },
+    {
+      "album": {
         "name": "BOYS PLANET - Here I Am",
         "url": "https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc"
       },
@@ -118110,7 +118146,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 171000,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/6aIHCKcJFU19cUc02RI7zL"
@@ -136515,6 +136551,24 @@
     },
     {
       "album": {
+        "name": "Yumi's Cells 3, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6RS1nWDZkEJPLT3SQNcSIO"
+      },
+      "artists": [
+        {
+          "name": "HAN",
+          "url": "https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Let It Show",
+      "url": "https://open.spotify.com/track/7rw9yCuNFOqWT0P7rOywgA"
+    },
+    {
+      "album": {
         "name": "let it snow",
         "url": "https://open.spotify.com/album/5Rg1zdp6K4Cde8b8l0n7QQ"
       },
@@ -146257,7 +146311,7 @@
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 263340,
+      "duration_ms": 263896,
       "name": "LOVE FOUND ME",
       "url": "https://open.spotify.com/track/27qfIySSaLAhMCwZ5yqpOL"
     },
@@ -169651,6 +169705,28 @@
     },
     {
       "album": {
+        "name": "Never Again",
+        "url": "https://open.spotify.com/album/0UEDVhbZxzy9qKWgTsSBnI"
+      },
+      "artists": [
+        {
+          "name": "Jae Woo AN",
+          "url": "https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3"
+        },
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176153,
+      "name": "Never Again (Feat. Kid Wine)",
+      "url": "https://open.spotify.com/track/2agY35cLVIWWANW8UHItGd"
+    },
+    {
+      "album": {
         "name": "Behind you touch OST Part 6",
         "url": "https://open.spotify.com/album/5O7jNK8ybG0C1Gf2Bmwyvc"
       },
@@ -171960,6 +172036,24 @@
       "duration_ms": 160000,
       "name": "NINETEEN",
       "url": "https://open.spotify.com/track/2fBzTfPEf46iuJvZpTD5gp"
+    },
+    {
+      "album": {
+        "name": "Nineteen Eighteen",
+        "url": "https://open.spotify.com/album/1zvXl46KIXQJd3G1Szdl8S"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Nineteen Eighteen",
+      "url": "https://open.spotify.com/track/28zAPpjt640hu1IqTplfCs"
     },
     {
       "album": {
@@ -182263,6 +182357,24 @@
     },
     {
       "album": {
+        "name": "Pok\u00e9mon | Rising Again (Original Soundtrack, Korea)",
+        "url": "https://open.spotify.com/album/3LLPWYWjXmXEaDioL59vxs"
+      },
+      "artists": [
+        {
+          "name": "An Tae Gyu",
+          "url": "https://open.spotify.com/artist/0H0f0IPZyFqD25KSgpFiUz"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213271,
+      "name": "Orbit of Fragments",
+      "url": "https://open.spotify.com/track/5cWrRo8mPZdkqMke1qPn2J"
+    },
+    {
+      "album": {
         "name": "Orca",
         "url": "https://open.spotify.com/album/3y6pcqsKBZFeEpHr9V0O7x"
       },
@@ -185826,6 +185938,24 @@
       "duration_ms": 176250,
       "name": "paper boat",
       "url": "https://open.spotify.com/track/2EHXqLKcjzkYCKAiDyP2bk"
+    },
+    {
+      "album": {
+        "name": "Paper Chase",
+        "url": "https://open.spotify.com/album/15DhkRELmap2H04SghgrDR"
+      },
+      "artists": [
+        {
+          "name": "FRankly",
+          "url": "https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167912,
+      "name": "Paper Chase",
+      "url": "https://open.spotify.com/track/4lUs1YqwoJ4hKYlfYWZkA3"
     },
     {
       "album": {
@@ -191814,6 +191944,24 @@
       "duration_ms": 157737,
       "name": "Porsche (Feat. Owen, Loopy)",
       "url": "https://open.spotify.com/track/2fCwI74h1jsiMUfQiacfdh"
+    },
+    {
+      "album": {
+        "name": "OVEREXPOSED",
+        "url": "https://open.spotify.com/album/40cJq43i8k7NbOZh3Oh7gK"
+      },
+      "artists": [
+        {
+          "name": "CLOSE YOUR EYES",
+          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150470,
+      "name": "POSE",
+      "url": "https://open.spotify.com/track/7LRaCfIHEdDSdDJkTO2l2A"
     },
     {
       "album": {
@@ -202105,6 +202253,24 @@
     },
     {
       "album": {
+        "name": "SET",
+        "url": "https://open.spotify.com/album/3yEpcGI83U91ATraIp7lll"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Rock Paper Scissors",
+      "url": "https://open.spotify.com/track/0BZI0B75ruY0n0U3p0jYwv"
+    },
+    {
+      "album": {
         "name": "Rock Solid (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/5vyseN9ZJ5UgstGAuScyiz"
       },
@@ -207466,7 +207632,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 147299,
       "name": "SAY MY NAME",
       "url": "https://open.spotify.com/track/5Rh1Uh43TL5maI0LQaR818"
@@ -218696,7 +218862,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 215000,
       "name": "So Cute",
       "url": "https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI"
@@ -250462,7 +250628,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 164346,
       "name": "To Mars",
       "url": "https://open.spotify.com/track/40YQG7PQix3RMgzkKLzrVP"
@@ -257545,6 +257711,24 @@
     },
     {
       "album": {
+        "name": "We Are UNCHILD",
+        "url": "https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP"
+      },
+      "artists": [
+        {
+          "name": "UNCHILD",
+          "url": "https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148573,
+      "name": "UNCHILD",
+      "url": "https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb"
+    },
+    {
+      "album": {
         "name": "unconcerned",
         "url": "https://open.spotify.com/album/39XEZVGEeUltEpznvtDuQX"
       },
@@ -262374,6 +262558,24 @@
       "duration_ms": 204586,
       "name": "Wake Me Up (Feat. Meego)",
       "url": "https://open.spotify.com/track/2nWaeTFKL8JcVfpPBkfsho"
+    },
+    {
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3gF6g6wkqfWe9B7NAEgQFv"
+      },
+      "artists": [
+        {
+          "name": "9 and the Numbers",
+          "url": "https://open.spotify.com/artist/3GtxaQXCwJZaoV9lmKofs0"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186160,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/50kLcCT1B6TMkE5tktGBdS"
     },
     {
       "album": {
@@ -277322,7 +277524,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 218727,
       "name": "Woman",
       "url": "https://open.spotify.com/track/2YfyJuonyCfxEkJq0goWbZ"
@@ -284528,7 +284730,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 247750,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/2RCA20yUqPZZk9vzYr3nYE"
@@ -286732,7 +286934,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 208344,
       "name": "\uac00\uc9c0 \ub9c8 \uac00\uc9c0 \ub9c8 \ub5a0\ub098\uc9c0 \ub9c8",
       "url": "https://open.spotify.com/track/4FhWtDnrHg0ZKUKVRTdCya"
@@ -293070,7 +293272,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 168026,
       "name": "\uc0ac\ub791\ubcd1\ub3d9 Highs and Lows",
       "url": "https://open.spotify.com/track/2fzdKqLRPuCHd6SUI6ypJY"

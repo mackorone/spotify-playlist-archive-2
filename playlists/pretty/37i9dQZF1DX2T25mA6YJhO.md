@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: vangoura con La Milagrosa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,829 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,837 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [Google Fotos](https://open.spotify.com/track/4L1o63xNdXthcZqJ3sZghb) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [PatataOnStereo](https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR), [Mr\. Worth](https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U) | [Google Fotos](https://open.spotify.com/album/6valt47SYgOPcYT4yQ4Bed) | 4:15 |
 | 100 | [CÁLLATE YA](https://open.spotify.com/track/2Koj4wXXKYUiETuqGsXbNZ) | [8 y Medio](https://open.spotify.com/artist/29xJWp07Ld04lmvT0tizaR), [Drugos](https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ) | [CÁLLATE YA](https://open.spotify.com/album/5mokadGvpHWIwDgHso747O) | 1:56 |
 
-Snapshot ID: `AAAAAIuy0VlQorCwmVoz71o93WMfgyWR`
+Snapshot ID: `AAAAAHVIoGc3codsRt30PFrUG2hrVjSq`

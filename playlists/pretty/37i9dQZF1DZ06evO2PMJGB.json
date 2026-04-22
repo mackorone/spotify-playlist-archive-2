@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 265055,
+  "num_followers": 265051,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeQbAAAAAAA8uGtWrRC3zBXVKcJzI6LX",
+  "snapshot_id": "aeVsgAAAAAAVQp1XbYprDtn+A4aOTQLY",
   "tracks": [
     {
       "added_at": null,
@@ -438,11 +438,19 @@
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
         }
       ],
-      "duration_ms": 112276,
-      "name": "Tropical Paradise",
-      "url": "https://open.spotify.com/track/1aOo5rg36qqtvFllrGbOT5"
+      "duration_ms": 184100,
+      "name": "Sonhei Contigo",
+      "url": "https://open.spotify.com/track/7awOe7nQfsexvICymZ7rco"
     },
     {
       "added_at": null,
@@ -514,19 +522,11 @@
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
         }
       ],
-      "duration_ms": 184100,
-      "name": "Sonhei Contigo",
-      "url": "https://open.spotify.com/track/7awOe7nQfsexvICymZ7rco"
+      "duration_ms": 112276,
+      "name": "Tropical Paradise",
+      "url": "https://open.spotify.com/track/1aOo5rg36qqtvFllrGbOT5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-431 songs - 1 day 3 hr 35 min
+432 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Questions](https://open.spotify.com/track/3ncYFpndnPoTdoV8NUNBJz) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Questions](https://open.spotify.com/album/5pnwdDVdh7EABESXfKdZoQ) | 2:54 | 2026-04-17 |  |
 | [Raise a Hallelujah \(Acoustic\)](https://open.spotify.com/track/6PJpu9oZI9OXKTx2sBH2CL) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Raise a Hallelujah \(Acoustic\)](https://open.spotify.com/album/1PYuHatpVpavaTCBi6tidn) | 5:03 | 2020-08-31 | 2024-06-24 |
 | [RAPHA](https://open.spotify.com/track/26LoFnjsiN1NmWSGxVT19g) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [RAPHA](https://open.spotify.com/album/5VJsKDNPnKmtZCjRh1t7S0) | 2:47 | 2025-10-10 | 2026-01-03 |
+| [Reach Out](https://open.spotify.com/track/5RnGsbzXKi1zAoI35mQqAz) | [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Reach Out](https://open.spotify.com/album/0CWgKwjftxN11Fay8KOjmB) | 3:19 | 2026-04-17 |  |
 | [Reaching for the Light](https://open.spotify.com/track/7jWire3mnMRBe3ynaTip4u) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [In Process](https://open.spotify.com/album/4DJ4sCWyimQRFEwfzoxJz5) | 3:12 | 2026-04-17 |  |
 | [Reckoner \(An Axe Laid at the Root\)](https://open.spotify.com/track/3EtEM53wzZkunSZiRXEik8) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Reckoner \(An Axe Laid at the Root\)](https://open.spotify.com/album/1t9LECAcunYvpr3edukjqr) | 3:57 | 2025-08-06 |  |
 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 | 2020-08-31 | 2025-10-11 |
@@ -318,7 +319,7 @@
 | [Simple Phrase](https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Simple Phrase](https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0) | 3:28 | 2025-08-06 |  |
 | [Simple Song](https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Simple Song](https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS) | 3:22 | 2023-07-28 | 2026-04-18 |
 | [Skin And Bone](https://open.spotify.com/track/49jNWNrotJdUObt2fRpiI1) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [You Hold It All](https://open.spotify.com/album/59Fwf6YU9AdpzQmnAbRIEJ) | 3:33 | 2025-12-12 |  |
-| [Slow Burn \(Take Your Time\)](https://open.spotify.com/track/1g67bntsFM2MrXyz9u5Ken) | [darthy](https://open.spotify.com/artist/1MztshwDYEwUsUI7iMHPxr) | [Slow Burn \(Take Your Time\)](https://open.spotify.com/album/6fIdUctKitYtODWnVbg2Dg) | 3:03 | 2026-03-23 |  |
+| [Slow Burn \(Take Your Time\)](https://open.spotify.com/track/1g67bntsFM2MrXyz9u5Ken) | [darthy](https://open.spotify.com/artist/1MztshwDYEwUsUI7iMHPxr) | [Slow Burn \(Take Your Time\)](https://open.spotify.com/album/6fIdUctKitYtODWnVbg2Dg) | 3:03 | 2026-03-23 | 2026-04-22 |
 | [So Much Better](https://open.spotify.com/track/7GfigsBzSyuDsrnbsoE301) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu), [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [So Much Better](https://open.spotify.com/album/1YCA346hKtzVMVuQrDH2fr) | 2:45 | 2026-03-23 |  |
 | [Something Beautiful](https://open.spotify.com/track/2lV9YvVyqSFGo7wnbWz69n) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Something Beautiful](https://open.spotify.com/album/0ZMBVloAiTLRrV6bkyR1a6) | 3:47 | 2020-08-31 | 2022-07-29 |
 | [Something Beautiful](https://open.spotify.com/track/6JnpyvzvrN1rep8fz2EiDQ) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [The Soul](https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0) | 3:47 | 2020-08-31 | 2024-04-19 |

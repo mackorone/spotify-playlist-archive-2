@@ -9141,6 +9141,28 @@
     },
     {
       "album": {
+        "name": "Catharina (Remixes)",
+        "url": "https://open.spotify.com/album/7KPOfRWJL1EXeCEO8I4qQ5"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Catharina - Surf Mesa Remix",
+      "url": "https://open.spotify.com/track/3A2Uk0TWX6dasUh0LLloOT"
+    },
+    {
+      "album": {
         "name": "Celeste",
         "url": "https://open.spotify.com/album/63WbyPVZipktVp0XzdtCN7"
       },

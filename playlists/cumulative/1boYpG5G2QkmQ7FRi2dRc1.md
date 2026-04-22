@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-2,915 songs - 7 day 8 hr 50 min
+2,916 songs - 7 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,6 +444,7 @@
 | [Cash \- Dan Shake Remix](https://open.spotify.com/track/5LBatcTnjsfJsYxYibgLRz) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Cash \(Dan Shake Remix\)](https://open.spotify.com/album/2SOhO7qrpx9dMLLfUHplNG) | 6:19 | 2023-04-21 | 2023-05-06 |
 | [CATALYST](https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [CATALYST](https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU) | 3:26 | 2023-02-19 | 2023-02-25 |
 | [Catharina](https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Catharina](https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc) | 3:27 | 2026-03-12 |  |
+| [Catharina \- Surf Mesa Remix](https://open.spotify.com/track/3A2Uk0TWX6dasUh0LLloOT) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Catharina \(Remixes\)](https://open.spotify.com/album/7KPOfRWJL1EXeCEO8I4qQ5) | 3:37 | 2026-04-21 |  |
 | [Celeste](https://open.spotify.com/track/1rSpAf8OMJsD5WEUZ53OiO) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Celeste](https://open.spotify.com/album/63WbyPVZipktVp0XzdtCN7) | 4:23 | 2024-05-10 | 2024-05-26 |
 | [Cera](https://open.spotify.com/track/6wT0O5TGycHM1aSJeBWWMX) | [Little Foot](https://open.spotify.com/artist/55HmugLcdhmDg6XgceLQr1), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Cera](https://open.spotify.com/album/41xTPaMdELHIVZJNiSb4S9) | 3:14 | 2022-11-12 | 2022-11-19 |
 | [Chalk 1.3.3 \[2017 Export Wav\]](https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Arrived Anxious, Left Bored](https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK) | 3:32 | 2023-05-05 | 2023-11-27 |

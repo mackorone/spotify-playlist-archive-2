@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,436 likes - 140 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,422 likes - 140 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 88 | [Fairytale of New York](https://open.spotify.com/track/2rJIAkvXiReCqUJLxVuxnV) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Winter Songs \(Christmas EP\)](https://open.spotify.com/album/3fTGyGWRJTuM9CjHm5ihbT) | 5:17 |
 | 89 | [White Christmas](https://open.spotify.com/track/3pX0dLmn1PLXlrxub9ZcYE) | [Lewis & Leigh](https://open.spotify.com/artist/4B2rbEj97bSOuTPsw9px2A) | [White Christmas](https://open.spotify.com/album/4wHVLmJlI9nGbMWxBA4iUq) | 1:35 |
 | 90 | [O Come O Come Emmanuel](https://open.spotify.com/track/4YIoQTJDBXAc7r8rDxUi50) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Tracks In the Snow](https://open.spotify.com/album/28Fqt02jcDyoi6EfOMy8kQ) | 3:38 |
-| 91 | [Winter Wonderland \(feat\. Laura Cortese\)](https://open.spotify.com/track/3ifVamCIQdxN6CY7HQRL4W) | [Wintery Songs in Eleventy Part Harmony](https://open.spotify.com/artist/3b5m0W0Na4vkvStOKOe4El), [Laura Cortese](https://open.spotify.com/artist/5T5BMVZGSvhRXSx3alNp2n) | [Hark](https://open.spotify.com/album/2k1KzX9vOZ7z6LTTHuhA1L) | 2:42 |
+| 91 | [Winter Wonderland](https://open.spotify.com/track/3ifVamCIQdxN6CY7HQRL4W) | [Wintery Songs in Eleventy Part Harmony](https://open.spotify.com/artist/6VICUuDbAh7TYlWQQyqsTg), [Laura Cortese](https://open.spotify.com/artist/4yNkd7ivsSanXzdmz9WD79) | [Hark](https://open.spotify.com/album/2k1KzX9vOZ7z6LTTHuhA1L) | 2:42 |
 | 92 | [Listening To Otis Redding At Home During Christmas](https://open.spotify.com/track/1Hk2eu2DV4hZADjxKSvdqj) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [Don't Fall In Love With Everyone You See](https://open.spotify.com/album/6HlkoVhFJSEPEtPhe8PGvT) | 6:36 |
 | 93 | [It Ain't Christmas \(If I Wake Up and I'm All Alone\)](https://open.spotify.com/track/1A6zUb8hrlwSCfYmpd05zZ) | [Katie Buxton](https://open.spotify.com/artist/6HIvdxEp3DJ5IoiPcqIquO) | [It Ain't Christmas \(If I Wake Up and I'm All Alone\)](https://open.spotify.com/album/5EHm43DZXtu1z6qayy9Zho) | 3:15 |
 | 94 | [Come Thou Fount](https://open.spotify.com/track/35yT30p4tPxhckJ8Lbpd6r) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Christmas Songs](https://open.spotify.com/album/5sTk7csBMRu9jPsxnJkev3) | 3:47 |
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 101 | [Have Yourself a Merry Little Christmas \- Live at the Mac](https://open.spotify.com/track/1WHRjzb9yzWvawfIQDvZln) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Have Yourself a Merry Little Christmas \(Live at the Mac\)](https://open.spotify.com/album/5CNa7ShStDgPpCNu6Firf8) | 4:10 |
 | 102 | [Christmas Song](https://open.spotify.com/track/05GBNU3wMadW9u9sBWSleI) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Bands Under the Radar, Vol\. 3: A Very Indie Xmas](https://open.spotify.com/album/5h9XjfTvHmyyEguisaCi8F) | 3:11 |
 | 103 | [This December](https://open.spotify.com/track/40YdqaqZx7PIhFerYClk45) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/2V6uNEivEnQZnKV97bdgBx) | 3:56 |
-| 104 | [Silent Night \(feat\. Anais Mitchell\)](https://open.spotify.com/track/2Zrn4nySOKLYde7iQV7IfZ) | [Wintery Songs in Eleventy Part Harmony](https://open.spotify.com/artist/3b5m0W0Na4vkvStOKOe4El), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hark](https://open.spotify.com/album/2k1KzX9vOZ7z6LTTHuhA1L) | 1:55 |
+| 104 | [Silent Night](https://open.spotify.com/track/2Zrn4nySOKLYde7iQV7IfZ) | [Wintery Songs in Eleventy Part Harmony](https://open.spotify.com/artist/6VICUuDbAh7TYlWQQyqsTg), [Anais Mitchell](https://open.spotify.com/artist/50tnWy5SURm8dXgoOHXGBL) | [Hark](https://open.spotify.com/album/2k1KzX9vOZ7z6LTTHuhA1L) | 1:55 |
 | 105 | [Holiday Road](https://open.spotify.com/track/3XZMIVgiRCwnKfce1osBYl) | [Matt Pond PA](https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4) | [Winter Songs EP](https://open.spotify.com/album/12LlLnVszu0tnMIEng9d61) | 3:38 |
 | 106 | [Christmas Kiss](https://open.spotify.com/track/5ebE9ykh6nrO8KDlWdemk2) | [Jetty Rae](https://open.spotify.com/artist/2noDZGJxViSST2C5kyz3Gt) | [More Than December](https://open.spotify.com/album/1BSavaJ4tVQph3nZjvU3Mi) | 2:44 |
 | 107 | [First Snow](https://open.spotify.com/track/0zUAob6pnNxXj6hK2JK61r) | [Friend Of All The World](https://open.spotify.com/artist/3q3lXlWQztweePxKwV6mHY) | [The Wild](https://open.spotify.com/album/6ycQqH1vzOGCRVDTiLDI8y) | 3:46 |

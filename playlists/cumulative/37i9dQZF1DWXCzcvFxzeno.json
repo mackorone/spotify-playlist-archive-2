@@ -1541,6 +1541,28 @@
     },
     {
       "album": {
+        "name": "CRACK!",
+        "url": "https://open.spotify.com/album/0yLUtDg4hNz7cwrfi4GsU3"
+      },
+      "artists": [
+        {
+          "name": "Natte Visstick",
+          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
+        },
+        {
+          "name": "JAZZY",
+          "url": "https://open.spotify.com/artist/0xGI8ZVWgiCWicV1lD1Hrk"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "CRACK!",
+      "url": "https://open.spotify.com/track/13qXoC2AyxfGXpV9yx5HOA"
+    },
+    {
+      "album": {
         "name": "Crowd Operator",
         "url": "https://open.spotify.com/album/4bZgI0aJv7TCz0nMpX0Tbo"
       },
@@ -2790,7 +2812,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 117677,
       "name": "Get Naughty",
       "url": "https://open.spotify.com/track/2jLJXddJOrdDh8XiL0K9nt"

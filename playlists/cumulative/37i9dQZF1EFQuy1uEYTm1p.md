@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oB0YuugRL9154dHN0yJqO">Ariel Imani</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-36 songs - 1 hr 36 min
+39 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,10 @@
 | [Pressure](https://open.spotify.com/track/7o84y2UKRFwzdRzBFigtgf) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Pressure](https://open.spotify.com/album/79xuMQfvykmnxgjZui9MYB) | 2:35 | 2026-02-06 |  |
 | [Pretty Girls](https://open.spotify.com/track/7uYXHXWBq4VEsMywZQrMfR) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:38 | 2026-02-06 |  |
 | [PROVE IT](https://open.spotify.com/track/7b2eUHjwHx9E7h9CMOtZz6) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [if only u knew](https://open.spotify.com/album/2efASljhtPCOtJKlK0l18Q) | 1:52 | 2026-02-06 |  |
+| [S.I.M.P.L.E](https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [DND](https://open.spotify.com/album/0KpO1I2Sukj5rr0q2Jmugs) | 2:33 | 2026-04-21 |  |
 | [Save Your Soul](https://open.spotify.com/track/4ln9MQz4OChaV3eqGNS7BU) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 3:07 | 2026-02-06 |  |
 | [Songs About U](https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Songs About U](https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM) | 3:00 | 2026-02-06 |  |
+| [Spoil Me](https://open.spotify.com/track/4HLQhOgV31QwnGSJyzY4cV) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Note To Self](https://open.spotify.com/album/47KtxHjRKa2h8gHdmS10Zs) | 2:05 | 2026-04-21 |  |
 | [Sport](https://open.spotify.com/track/10YONGm7cTni3bzHQvxTKF) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 1:46 | 2026-02-06 |  |
 | [Stressin'](https://open.spotify.com/track/16VjvrmcPtPzLhnOSBqHxp) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:48 | 2026-02-06 |  |
 | [Thank You Come Again](https://open.spotify.com/track/7b62buEn2WToU7SC13eMb4) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/4x2VITMV5Rhr6qdkOUHM0b) | 2:45 | 2026-02-06 |  |
@@ -44,5 +46,6 @@
 | [Trust Issues](https://open.spotify.com/track/4t8zfiwV9EruvsD1oHdqTq) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 3:04 | 2026-02-06 |  |
 | [Up 4 Me](https://open.spotify.com/track/0RZR9BBg5ql33lwPuot46e) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Black & Unlimited](https://open.spotify.com/album/6rDL2TKoD4MzyJd7Dn2RFQ) | 2:34 | 2026-02-06 |  |
 | [WD5 Intro](https://open.spotify.com/track/2UuUBBKT7XxUWtnjGGUTc2) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 1:41 | 2026-02-06 |  |
+| [What U Need](https://open.spotify.com/track/57tUD88allOaqJRWEbZKGb) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Chalynn](https://open.spotify.com/artist/1RU4jaXgpfpoHrDEzAJTjx) | [Note To Self](https://open.spotify.com/album/47KtxHjRKa2h8gHdmS10Zs) | 2:43 | 2026-04-21 |  |
 
 \*This playlist was first scraped on 2026-02-07. Prior content cannot be recovered.

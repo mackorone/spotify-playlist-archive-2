@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Arroba Nat en portada.",
-  "num_followers": 546725,
+  "num_followers": 546690,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-04-17 06:00:21",
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/1O2vySLN8ge6cVr5QWgW6S"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 201401,
-      "name": "La Voz",
-      "url": "https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy"
-    },
-    {
-      "added_at": "2026-04-17 06:00:21",
-      "album": {
         "name": "Amores Ajenos",
         "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
       },
@@ -615,22 +599,18 @@
     {
       "added_at": "2026-04-17 06:00:21",
       "album": {
-        "name": "D\u00e9jame Entender",
-        "url": "https://open.spotify.com/album/0JAELe9FSSHY3olbrlKZCW"
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/1O2vySLN8ge6cVr5QWgW6S"
       },
       "artists": [
         {
-          "name": "Cumbia Pedregal",
-          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 232248,
-      "name": "D\u00e9jame Entender",
-      "url": "https://open.spotify.com/track/3RGpIuoduzZvJRK1N60wVV"
+      "duration_ms": 201401,
+      "name": "La Voz",
+      "url": "https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy"
     },
     {
       "added_at": "2026-04-17 06:00:21",
@@ -651,6 +631,26 @@
       "duration_ms": 197850,
       "name": "Serenatas Frente al Mar",
       "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
+    },
+    {
+      "added_at": "2026-04-17 06:00:21",
+      "album": {
+        "name": "D\u00e9jame Entender",
+        "url": "https://open.spotify.com/album/0JAELe9FSSHY3olbrlKZCW"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Pedregal",
+          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 232248,
+      "name": "D\u00e9jame Entender",
+      "url": "https://open.spotify.com/track/3RGpIuoduzZvJRK1N60wVV"
     },
     {
       "added_at": "2026-04-17 06:00:21",
@@ -943,22 +943,22 @@
     {
       "added_at": "2026-04-17 06:00:21",
       "album": {
-        "name": "Caso Cerrado",
-        "url": "https://open.spotify.com/album/4QyAhMcjSCY1OjNMfIgSuq"
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
       "artists": [
         {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         },
         {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 189346,
-      "name": "Caso Cerrado",
-      "url": "https://open.spotify.com/track/5ufFr8RZTUaR6onPwL4vQb"
+      "duration_ms": 180986,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k"
     },
     {
       "added_at": "2026-04-17 06:00:21",
@@ -979,22 +979,22 @@
     {
       "added_at": "2026-04-17 06:00:21",
       "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+        "name": "Caso Cerrado",
+        "url": "https://open.spotify.com/album/4QyAhMcjSCY1OjNMfIgSuq"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
         },
         {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         }
       ],
-      "duration_ms": 180986,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k"
+      "duration_ms": 189346,
+      "name": "Caso Cerrado",
+      "url": "https://open.spotify.com/track/5ufFr8RZTUaR6onPwL4vQb"
     },
     {
       "added_at": "2026-04-17 06:00:21",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-04-17 06:00:21",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
-    },
-    {
-      "added_at": "2026-04-17 06:00:21",
-      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 226973,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+    },
+    {
+      "added_at": "2026-04-17 06:00:21",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2026-04-17 06:00:21",
@@ -1103,22 +1103,6 @@
       "duration_ms": 162209,
       "name": "Cada Vez Te Extra\u00f1o Menos",
       "url": "https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe"
-    },
-    {
-      "added_at": "2026-04-17 06:00:21",
-      "album": {
-        "name": "Te Volv\u00ed a So\u00f1ar",
-        "url": "https://open.spotify.com/album/5WoM0K8PODAHa8eYCsbrlv"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 211837,
-      "name": "Te Volv\u00ed a So\u00f1ar",
-      "url": "https://open.spotify.com/track/0Gb5nrMH23fSpK2aKlCAt4"
     },
     {
       "added_at": "2026-04-17 06:00:21",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2026-04-17 06:00:21",
       "album": {
+        "name": "Te Volv\u00ed a So\u00f1ar",
+        "url": "https://open.spotify.com/album/5WoM0K8PODAHa8eYCsbrlv"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 211837,
+      "name": "Te Volv\u00ed a So\u00f1ar",
+      "url": "https://open.spotify.com/track/0Gb5nrMH23fSpK2aKlCAt4"
+    },
+    {
+      "added_at": "2026-04-17 06:00:21",
+      "album": {
         "name": "Se Me Esta Yendo La Vida",
         "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-04-17 06:00:21",
       "album": {
-        "name": "A escondidas",
-        "url": "https://open.spotify.com/album/42PNF3MKzjOVfVJnep4Ce4"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Pedregal",
-          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
-        }
-      ],
-      "duration_ms": 212019,
-      "name": "A escondidas",
-      "url": "https://open.spotify.com/track/4D3N95CZeCnsFQoGFDId84"
-    },
-    {
-      "added_at": "2026-04-17 06:00:21",
-      "album": {
         "name": "Matina",
         "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 128500,
       "name": "Matina",
       "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
+    },
+    {
+      "added_at": "2026-04-17 06:00:21",
+      "album": {
+        "name": "A escondidas",
+        "url": "https://open.spotify.com/album/42PNF3MKzjOVfVJnep4Ce4"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Pedregal",
+          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+        }
+      ],
+      "duration_ms": 212019,
+      "name": "A escondidas",
+      "url": "https://open.spotify.com/track/4D3N95CZeCnsFQoGFDId84"
     },
     {
       "added_at": "2026-04-17 06:00:21",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-04-17 06:00:21",
       "album": {
-        "name": "La Apuesta",
-        "url": "https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0"
-    },
-    {
-      "added_at": "2026-04-17 06:00:21",
-      "album": {
         "name": "Bolerito (Remix)",
         "url": "https://open.spotify.com/album/35TcEYh5Mt7ZrYNLKEBUCl"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 165542,
       "name": "Bolerito - Remix",
       "url": "https://open.spotify.com/track/3NQgFnVEptxzbpAIjgLNkE"
+    },
+    {
+      "added_at": "2026-04-17 06:00:21",
+      "album": {
+        "name": "La Apuesta",
+        "url": "https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0"
     },
     {
       "added_at": "2026-04-17 06:00:21",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-04-17 06:00:21",
       "album": {
-        "name": "Tu Tu Tu",
-        "url": "https://open.spotify.com/album/3eZXbkbXWE6i1oEvx0ewtJ"
-      },
-      "artists": [
-        {
-          "name": "Juanse Laverde",
-          "url": "https://open.spotify.com/artist/0Xsc2ZIdwp0XGL4Mzr0xcg"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Tu Tu Tu",
-      "url": "https://open.spotify.com/track/1uvs6vKbZUfr8p962klX5h"
-    },
-    {
-      "added_at": "2026-04-17 06:00:21",
-      "album": {
         "name": "Mil Vidas",
         "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 136667,
       "name": "Mil Vidas",
       "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
+    },
+    {
+      "added_at": "2026-04-17 06:00:21",
+      "album": {
+        "name": "Tu Tu Tu",
+        "url": "https://open.spotify.com/album/3eZXbkbXWE6i1oEvx0ewtJ"
+      },
+      "artists": [
+        {
+          "name": "Juanse Laverde",
+          "url": "https://open.spotify.com/artist/0Xsc2ZIdwp0XGL4Mzr0xcg"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Tu Tu Tu",
+      "url": "https://open.spotify.com/track/1uvs6vKbZUfr8p962klX5h"
     },
     {
       "added_at": "2026-04-17 06:00:21",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-04-17 06:00:21",
       "album": {
+        "name": "Maria Bonita",
+        "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Mar\u00eda Bonita",
+      "url": "https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP"
+    },
+    {
+      "added_at": "2026-04-17 06:00:21",
+      "album": {
         "name": "Empecemos a Empezar",
         "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 200859,
       "name": "Empecemos a Empezar",
       "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
-    },
-    {
-      "added_at": "2026-04-17 06:00:21",
-      "album": {
-        "name": "Maria Bonita",
-        "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Mar\u00eda Bonita",
-      "url": "https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP"
     },
     {
       "added_at": "2026-04-17 06:00:21",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2026-04-17 06:00:21",
       "album": {
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 201829,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
+    },
+    {
+      "added_at": "2026-04-17 06:00:21",
+      "album": {
         "name": "Sindicato Del Ritmo",
         "url": "https://open.spotify.com/album/0HL2RlxUVZK2nNEkliZfrX"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 250960,
       "name": "Disfruto",
       "url": "https://open.spotify.com/track/0F0Ms8uyynijIoufuJ7c0Q"
-    },
-    {
-      "added_at": "2026-04-17 06:00:21",
-      "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 201829,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
     },
     {
       "added_at": "2026-04-17 06:00:21",
@@ -1787,26 +1787,22 @@
     {
       "added_at": "2026-04-17 06:00:21",
       "album": {
-        "name": "ya llovi\u00f3",
-        "url": "https://open.spotify.com/album/1psW6fIoAAYTuZrRJnGIHT"
+        "name": "Tan B\u00e1sico",
+        "url": "https://open.spotify.com/album/0v4BjRnKBVyXuDGanBQjzM"
       },
       "artists": [
         {
-          "name": "Reno Rojas",
-          "url": "https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l"
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
         },
         {
-          "name": "Frank Maza",
-          "url": "https://open.spotify.com/artist/5PSHGxg1VQAESRSvZBCbYD"
-        },
-        {
-          "name": "\u00c1ngel C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/49GDWEcr7vN0dPliciaA0c"
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
         }
       ],
-      "duration_ms": 234570,
-      "name": "ya llovi\u00f3",
-      "url": "https://open.spotify.com/track/1wLVZ66SdIFV03cwXauOvE"
+      "duration_ms": 189155,
+      "name": "Tan B\u00e1sico",
+      "url": "https://open.spotify.com/track/72ntzS0t7Iq1smBA9wRjMx"
     }
   ],
   "unique_name": "nuevo bolero",

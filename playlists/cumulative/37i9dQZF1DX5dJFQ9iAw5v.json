@@ -388,7 +388,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 188345,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
@@ -1128,6 +1128,40 @@
       "duration_ms": 572278,
       "name": "Estate",
       "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
+    },
+    {
+      "album": {
+        "name": "Paisajes de un Venidero Retorno",
+        "url": "https://open.spotify.com/album/0fJpxzaGDLhADAGBMKEvsJ"
+      },
+      "artists": [
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+        },
+        {
+          "name": "Sebasti\u00e1n Greschuk",
+          "url": "https://open.spotify.com/artist/0olhhx78hZZ2aPIUpDmzZ0"
+        },
+        {
+          "name": "Javier Bur\u00edn Heras",
+          "url": "https://open.spotify.com/artist/2xW6Doft80Vw4eL6VlPlJ3"
+        },
+        {
+          "name": "Minino Garay",
+          "url": "https://open.spotify.com/artist/0CUvJzhxLqPRd3xMxwsoxp"
+        },
+        {
+          "name": "Fer Moreno",
+          "url": "https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316905,
+      "name": "Etude Sudaca",
+      "url": "https://open.spotify.com/track/1EWuTaSgNVzp6BQH8fA6LG"
     },
     {
       "album": {

@@ -6137,6 +6137,28 @@
     },
     {
       "album": {
+        "name": "Parcera",
+        "url": "https://open.spotify.com/album/2iiuzRYwehvW5XKRY1r5Fk"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Parcera",
+      "url": "https://open.spotify.com/track/724Txk8NEBXqNK7nIvY6MK"
+    },
+    {
+      "album": {
         "name": "Pasajero",
         "url": "https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa"
       },

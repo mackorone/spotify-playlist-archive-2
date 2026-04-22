@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: rhodessa
 
-861 songs - 2 day 5 hr 20 min
+863 songs - 2 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [365](https://open.spotify.com/track/6ItgT8b2w0x7XzFPEJ5qus) | [Yamada](https://open.spotify.com/artist/6TvBl6ilNrLLzaF6t60pOI) | [365](https://open.spotify.com/album/1m64otE97bvzvUBL8l8ztn) | 2:54 | 2026-02-24 | 2026-04-18 |
 | [5 Minutes](https://open.spotify.com/track/1flurBH9LWpbctpKlEaI6n) | [ysabelle](https://open.spotify.com/artist/6dNoiei43MgIz6y3h4nyGE) | [5 Minutes](https://open.spotify.com/album/5WYGOOF3zdLONasoodO2Ic) | 3:02 | 2025-10-03 | 2025-12-09 |
 | [7:07 \(Hay Buhay\)](https://open.spotify.com/track/5KesauCcOmAPJNUBPB3I3y) | [Kai Buizon](https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430) | [7:07 \(Hay Buhay\)](https://open.spotify.com/album/37Dhm53dSWWKUAO21BD2Mn) | 3:10 | 2024-07-02 | 2024-07-19 |
+| [9\-5](https://open.spotify.com/track/4fJeNtJnafDGNpbrOKEhQi) | [Termula](https://open.spotify.com/artist/7L5fW1cU8MtB8geMfEFPtE), [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP), [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [9\-5](https://open.spotify.com/album/1TbKXd0sO5yMOQ3EzGpilL) | 3:12 | 2026-04-21 |  |
 | [A Little Bit](https://open.spotify.com/track/4Mk2hfT0oXkuwX8bd5jln0) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [SWABE](https://open.spotify.com/album/3wTW9AjJkex9PbIEQbmF5L) | 4:37 | 2025-04-25 | 2025-07-19 |
 | [A Series of Unfortunate Events](https://open.spotify.com/track/2HNjm4tIEuvBenfsqlfXVG) | [a!ka](https://open.spotify.com/artist/6joZG8wmwfEVAxWSEhezJA) | [A Series of Unfortunate Events](https://open.spotify.com/album/2l9ZNGlbuDNgehXIfnF9yw) | 4:01 | 2025-11-13 | 2026-01-20 |
 | [A Tale of Us](https://open.spotify.com/track/5fCd7HfQzCDWplEJMaVr5O) | [Huni](https://open.spotify.com/artist/00ZKfj5ZkA4F4KvipCDZQc) | [A Tale of Us](https://open.spotify.com/album/0LEvapJu0hYIKtKo7Ak1JM) | 4:12 | 2024-07-02 | 2024-07-13 |
@@ -529,7 +530,7 @@
 | [Never Goes Away](https://open.spotify.com/track/1XUG1W2SJIG73KS2wDQDQU) | [Leanne & Naara](https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI) | [Never Goes Away](https://open.spotify.com/album/35Ahei8CGOWF2XjYqCsSE9) | 4:08 | 2025-11-28 | 2026-02-03 |
 | [New Dimensions](https://open.spotify.com/track/2fPTeoTG28JAExuQyoX8b5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Traveller Across Dimensions](https://open.spotify.com/album/3AxFszKy5olWdrPV3bHTFY) | 4:18 | 2024-11-29 | 2025-05-12 |
 | [Ngalan Mo](https://open.spotify.com/track/7vkINABNJgMl0K7xRUrIhp) | [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Ngalan mo](https://open.spotify.com/album/5K20pRwZSozWqH2xn7GSha) | 2:54 | 2025-07-21 | 2025-11-22 |
-| [Ngiti](https://open.spotify.com/track/2oGgabaCuVFA1WFiNDPdTf) | [Carren Eistrup](https://open.spotify.com/artist/4djvt3xWK9dfkga6FXAxvp) | [Ngiti](https://open.spotify.com/album/6hYz2zAcrW3oVHbWBydYhY) | 3:19 | 2026-02-27 |  |
+| [Ngiti](https://open.spotify.com/track/2oGgabaCuVFA1WFiNDPdTf) | [Carren Eistrup](https://open.spotify.com/artist/4djvt3xWK9dfkga6FXAxvp) | [Ngiti](https://open.spotify.com/album/6hYz2zAcrW3oVHbWBydYhY) | 3:19 | 2026-02-27 | 2026-04-22 |
 | [Ngiti](https://open.spotify.com/track/0OzQ6q4AErZG5kJGA3wbcN) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [TAWID](https://open.spotify.com/album/3bkrsArJCA2Wf6J3BksYot) | 3:21 | 2025-09-12 | 2025-11-22 |
 | [ngunit hindi sapat](https://open.spotify.com/track/1xusvBFG2P3CjqQi7Ez4rb) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao), [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [ELHÉVATE](https://open.spotify.com/album/5OsAMhWYPohj7fBlpafmD0) | 3:08 | 2026-03-06 |  |
 | [Nilalang](https://open.spotify.com/track/7eMn5OCApyTgqrPPoLJWBq) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Nilalang](https://open.spotify.com/album/7vTwHNQJy2vVhbhDfmF6NY) | 3:29 | 2024-07-19 | 2024-11-21 |
@@ -625,6 +626,7 @@
 | [Pinapaasa](https://open.spotify.com/track/5O6hOrPYNaWVhDgwrSppD7) | [Soapdish](https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe) | [Pinapaasa](https://open.spotify.com/album/36gDnEzTVTfwM4PU4D91Vn) | 4:27 | 2025-09-26 | 2025-11-29 |
 | [Pinipili](https://open.spotify.com/track/0xJ4Qk9lIisIjOrI8bLkNP) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Pinipili](https://open.spotify.com/album/4T3NUu3OMXdyR8D6Fi9NfC) | 3:00 | 2024-11-04 | 2025-02-13 |
 | [Pink Skies](https://open.spotify.com/track/5dOrxKSZ3MNpDNqWxBOjET) | [The Bloomfields](https://open.spotify.com/artist/5VfC1cKlJXLcluxymeHu96) | [Pink Skies](https://open.spotify.com/album/7p8sDTU2sdxx7NsnqkSkah) | 4:51 | 2025-09-19 | 2025-11-29 |
+| [Pipiliin](https://open.spotify.com/track/0v8aGaYwqT9nbHYwh5WLAn) | [Andrew Ramos](https://open.spotify.com/artist/15O0YfpWiSYUMsaJJkoZMI) | [Pipiliin](https://open.spotify.com/album/4AAkac2yx3xQKDua2jHt8U) | 3:38 | 2026-04-21 |  |
 | [Piyesa](https://open.spotify.com/track/4Dqxx2U0SSQvWnWcsQ3iop) | [Minimal Days](https://open.spotify.com/artist/7xW7KeDiKDjmh2BWwqRsPh) | [Piyesa](https://open.spotify.com/album/5F9Z1uWD2hl5xqPA9UadDG) | 3:58 | 2026-01-30 | 2026-03-21 |
 | [Please](https://open.spotify.com/track/2fRBGvmTf9d7W1pMhyXgn0) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Please](https://open.spotify.com/album/6WLO6WeqXtqGplqP2R8jhP) | 3:47 | 2025-10-03 | 2025-12-09 |
 | [PNYT](https://open.spotify.com/track/40zI0A8TPHqfIZkODRVMas) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [PNYT](https://open.spotify.com/album/6ytFN9XP7CHBqjm5F1Ygf5) | 3:18 | 2025-02-12 | 2025-05-17 |
@@ -830,7 +832,7 @@
 | [Una](https://open.spotify.com/track/29Yv0hgYGlPh1MgZAzngrg) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Una](https://open.spotify.com/album/0TCbPpcfSoh2K8TshIhwDS) | 4:20 | 2026-02-27 |  |
 | [Unang Halik](https://open.spotify.com/track/5ndlclTMoJemP6lO8hfBex) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Unang Halik](https://open.spotify.com/album/65hq8YKIAlYgzNicSYJeEG) | 4:11 | 2025-08-23 | 2025-11-22 |
 | [Unang Kilig](https://open.spotify.com/track/7mfaRuBDtbywhmLSoPSscp) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Unang Kilig / Honey Honey](https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r) | 3:37 | 2026-03-06 |  |
-| [Underneath It All](https://open.spotify.com/track/7IHznKwrp6qSglAjnFE8Rz) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Underneath It All](https://open.spotify.com/album/0P3PIoxK0qhZDXKCxuQpfb) | 3:02 | 2026-02-27 |  |
+| [Underneath It All](https://open.spotify.com/track/7IHznKwrp6qSglAjnFE8Rz) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Underneath It All](https://open.spotify.com/album/0P3PIoxK0qhZDXKCxuQpfb) | 3:02 | 2026-02-27 | 2026-04-22 |
 | [Unimaginable](https://open.spotify.com/track/339SFBs6VUjYdvDRrK8yCn) | [Klarisse](https://open.spotify.com/artist/1Imlf2KHeVnyY2bkZe1bNC) | [Unimaginable](https://open.spotify.com/album/6ojC0sFbE9CcsEFgLbxPD8) | 2:48 | 2025-09-19 | 2025-11-29 |
 | [Usad](https://open.spotify.com/track/2bOxIrFLLniNEsog54cXU9) | [Hezekiah Mesina](https://open.spotify.com/artist/4pUG0OxSNNRm5DxWq7opcp) | [Usad](https://open.spotify.com/album/1SLopDZ1pJhcByy6WH1irA) | 4:08 | 2025-11-10 | 2026-01-24 |
 | [Uwi Ka Na \(Sa Akin\)](https://open.spotify.com/track/6UrifhMFxklwSPuHSZF0BO) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [Uwi Ka Na \(Sa Akin\)](https://open.spotify.com/album/11adLTFxAQ8S0GUroGkfRb) | 4:59 | 2026-04-10 |  |

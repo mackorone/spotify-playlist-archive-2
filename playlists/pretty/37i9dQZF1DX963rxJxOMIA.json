@@ -1,12 +1,12 @@
 {
   "description": "Fino y elegante, como Blessd y Crudo Means Raw. ",
-  "num_followers": 222005,
+  "num_followers": 222032,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANKGd1tq8W1VJRJgvYfmQdhtgnmO",
+  "snapshot_id": "AAAAAH38Ee8IWQ7/pimJb7i7hqPGHxgF",
   "tracks": [
     {
       "added_at": "2026-04-10 04:59:31",
@@ -295,6 +295,26 @@
       "duration_ms": 259008,
       "name": "REINA VALERA - Spotify Sessions",
       "url": "https://open.spotify.com/track/6vzVW3oArF7RU9YM0MwmNQ"
+    },
+    {
+      "added_at": "2026-04-21 23:28:11",
+      "album": {
+        "name": "Parcera",
+        "url": "https://open.spotify.com/album/2iiuzRYwehvW5XKRY1r5Fk"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Parcera",
+      "url": "https://open.spotify.com/track/724Txk8NEBXqNK7nIvY6MK"
     },
     {
       "added_at": "2026-03-26 18:21:05",

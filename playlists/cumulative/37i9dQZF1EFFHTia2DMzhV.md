@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-165 songs - 9 hr 7 min
+166 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [I'll Take Romance \(feat\. Judith Hill\)](https://open.spotify.com/track/0VDHqkNuK6QZ8KOxuGaXVe) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [I’ll Take Romance](https://open.spotify.com/album/3uGAHnXuWQcBMBJ6IVej4d) | 2:54 | 2024-07-26 |  |
 | [I'm Gonna Wash That Man Right Outta My Hair \(From "South Pacific"\)](https://open.spotify.com/track/3nMCmZay3np5RmUyYU8Hpb) | [Mitzi Gaynor](https://open.spotify.com/artist/3RWxCgaw6DuD472vn1HyV6) | [Mitzi and Morris At the Movies](https://open.spotify.com/album/5AKvgQh3Lf6kxTlaIMkyl4) | 2:56 | 2024-07-26 |  |
 | [If I Loved You](https://open.spotify.com/track/1938FeAi8kI7w9TpbgQWgP) | [Dick Haymes](https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su) | [Imagination](https://open.spotify.com/album/6XZSedMgcXKSTal1vSaCRf) | 1:59 | 2024-07-26 |  |
+| [II\. Air \("On the G String"\)](https://open.spotify.com/track/2xCbNsrQS0MjwdOTTNaVWY) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Capella Istropolitana](https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt), [Jaroslav Dvořák](https://open.spotify.com/artist/6VBcStsQjWcCCAOaWnXirz) | [Driving Mode](https://open.spotify.com/album/7BpkZnKP2Qi0QCdAIGfDzB) | 5:15 | 2026-04-21 |  |
 | [Impossible Things](https://open.spotify.com/track/2gxwyopbW6ii6tDa15BKdx) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Impossible Things](https://open.spotify.com/album/2fDgMOIPVpUsIJZyw8xaJm) | 3:02 | 2024-07-26 |  |
 | [Indian Love Call](https://open.spotify.com/track/1StLytLkQVRq3q1PtfclE3) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [EMI Country Masters: 50 Originals](https://open.spotify.com/album/7JzqaIlXUcX5ncpe3iIqhU) | 3:09 | 2024-07-26 | 2026-02-14 |
 | [Indian Love Call](https://open.spotify.com/track/2PgGtgk0fBZEm9BDJUXswf) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Slim Whitman Favourites](https://open.spotify.com/album/4zr9Tea1ytkjAd6xYHfsj0) | 3:10 | 2026-02-13 |  |
@@ -105,7 +106,7 @@
 | [Overture](https://open.spotify.com/track/3pZvvT5nZbg3pjxKfDAv50) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Nutcracker Suite \(Expanded Edition\)](https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug) | 3:22 | 2025-11-29 | 2026-03-31 |
 | [Overture](https://open.spotify.com/track/7cFthBIOeSgKLIFM7kEpfo) | [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [Oklahoma!](https://open.spotify.com/album/7sK7Az10aqaN6ZYTTeNWQq) | 2:55 | 2026-02-19 |  |
 | [Overture](https://open.spotify.com/track/50R5QqKUfj6niDS2DTPJW1) | [Original 1955 Oklahoma! Studio Orchestra](https://open.spotify.com/artist/36qP0dp3Y5ympdBoAPijaL), [Darcy M\. Proper](https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ) | [Oklahoma! \(Expanded Edition/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8) | 2:55 | 2024-07-26 | 2026-02-20 |
-| [Overture](https://open.spotify.com/track/1i18hbOqXKuPOxuikEFwKG) | [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 3:13 | 2024-07-26 |  |
+| [Overture](https://open.spotify.com/track/1i18hbOqXKuPOxuikEFwKG) | [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 3:13 | 2024-07-26 | 2026-04-22 |
 | [Overture](https://open.spotify.com/track/7evvyA7uCErkgpOCXQGyt8) | [The New Moon 2004 Encores! Cast Orchestra](https://open.spotify.com/artist/34csp0vXnIWWJeTehIcyuM) | [The New Moon \(2004 Encores! Cast Recording\)](https://open.spotify.com/album/012P0Ti9u6DrVwhm0TNyuV) | 5:19 | 2024-07-26 |  |
 | [People Will Say We're In Love](https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Come Closer](https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39) | 2:58 | 2024-07-26 |  |
 | [Pore Jud Is Daid](https://open.spotify.com/track/4dbYEYqNVV1LIzdjqdhFqj) | [Damon Daunno](https://open.spotify.com/artist/114IXWRk0TuKYwHxAOOT3F), [Patrick Vaill](https://open.spotify.com/artist/1cWKS6fpFeWUjlskPfZm1x) | [Oklahoma! \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/3JctweW8WZzHbU8gw0J8NP) | 4:28 | 2024-07-26 |  |

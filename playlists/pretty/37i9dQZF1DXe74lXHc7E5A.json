@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Blaqbonez",
-  "num_followers": 44321,
+  "num_followers": 44338,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,26 @@
     {
       "added_at": "2026-04-20 11:21:34",
       "album": {
+        "name": "HANDOUT (Remix)",
+        "url": "https://open.spotify.com/album/59b5LfWbZ7e9N1KfFCeTny"
+      },
+      "artists": [
+        {
+          "name": "saveHXPE",
+          "url": "https://open.spotify.com/artist/1WkniaxGgj7PkhhA45z6fp"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 194736,
+      "name": "HANDOUT - Remix",
+      "url": "https://open.spotify.com/track/0YYiKtYpWLa4FPtkzjqEQ1"
+    },
+    {
+      "added_at": "2026-04-20 11:21:34",
+      "album": {
         "name": "No Sign of Weakness",
         "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 194661,
       "name": "Hello Habibi",
       "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
-    },
-    {
-      "added_at": "2026-04-20 11:21:34",
-      "album": {
-        "name": "HANDOUT (Remix)",
-        "url": "https://open.spotify.com/album/59b5LfWbZ7e9N1KfFCeTny"
-      },
-      "artists": [
-        {
-          "name": "saveHXPE",
-          "url": "https://open.spotify.com/artist/1WkniaxGgj7PkhhA45z6fp"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 194736,
-      "name": "HANDOUT - Remix",
-      "url": "https://open.spotify.com/track/0YYiKtYpWLa4FPtkzjqEQ1"
     },
     {
       "added_at": "2026-04-20 11:21:34",

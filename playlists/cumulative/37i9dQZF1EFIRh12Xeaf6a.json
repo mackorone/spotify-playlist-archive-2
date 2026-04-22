@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 226600,
       "name": "23 Lies",
       "url": "https://open.spotify.com/track/5dume2tM47wLZDlGGOs5go"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 203452,
       "name": "All Life Long (Edit)",
       "url": "https://open.spotify.com/track/1tTr4Sp2vbbVwntgk1QStr"
@@ -438,6 +438,24 @@
       "duration_ms": 183266,
       "name": "Avenue P",
       "url": "https://open.spotify.com/track/3rxuCpVMtDyzCPz6wJF4os"
+    },
+    {
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203133,
+      "name": "Back to California",
+      "url": "https://open.spotify.com/track/3Z6TINjEOYAkyUs4EqfqDl"
     },
     {
       "album": {
@@ -678,6 +696,24 @@
           "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
         }
       ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165293,
+      "name": "Brighter",
+      "url": "https://open.spotify.com/track/549L2p4KIzVRAjclYLB7BK"
+    },
+    {
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -813,6 +849,24 @@
     },
     {
       "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145080,
+      "name": "Chains - Remastered 2009",
+      "url": "https://open.spotify.com/track/3JQWLa88R35d971o5bIImd"
+    },
+    {
+      "album": {
         "name": "Wrap Around Joy",
         "url": "https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz"
       },
@@ -936,6 +990,42 @@
       "duration_ms": 190933,
       "name": "Computer Eyes",
       "url": "https://open.spotify.com/track/0EEssyfGdM2PFsE1a82p5R"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245666,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0v1qlRKi0ZwlQn4zK3kM4N"
+    },
+    {
+      "album": {
+        "name": "Touch the Sky",
+        "url": "https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7DJql3AIIFnbUUGf10hkHG"
     },
     {
       "album": {
@@ -1123,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "Something Old, Something New, Something Blue, Something Else",
+        "url": "https://open.spotify.com/album/6c3my3DmnAEBJnqmyQAtRj"
+      },
+      "artists": [
+        {
+          "name": "The Crickets",
+          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140760,
+      "name": "Don't Ever Change",
+      "url": "https://open.spotify.com/track/2PYXzkcDUprnrGJqd4LXjx"
+    },
+    {
+      "album": {
         "name": "The Essential Bobby Vee",
         "url": "https://open.spotify.com/album/4pUfjuVHUx9UpYMpgRlMgk"
       },
@@ -1138,6 +1246,24 @@
       "duration_ms": 186000,
       "name": "Don't Ever Take Her For Granted",
       "url": "https://open.spotify.com/track/4qxdMUUt6w1Eh4J5epKYJA"
+    },
+    {
+      "album": {
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172973,
+      "name": "Don't Forget About Me",
+      "url": "https://open.spotify.com/track/7IGpCCRB7MO3z4xUgKAjOn"
     },
     {
       "album": {
@@ -1174,6 +1300,24 @@
       "duration_ms": 143466,
       "name": "Don't Let Me Stand In Your Way",
       "url": "https://open.spotify.com/track/5YqYDmO1QdP5drVwBXlj3c"
+    },
+    {
+      "album": {
+        "name": "Sweet Girl Group Harmony",
+        "url": "https://open.spotify.com/album/0QavcOAN5eIcjTH8kuJIUL"
+      },
+      "artists": [
+        {
+          "name": "The Cookies",
+          "url": "https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165906,
+      "name": "Don't Say Nothin' Bad (About My Baby)",
+      "url": "https://open.spotify.com/track/56QS2a6Ff7JGApqvpGr7aa"
     },
     {
       "album": {
@@ -1444,6 +1588,24 @@
       "duration_ms": 278106,
       "name": "Eventually - Live",
       "url": "https://open.spotify.com/track/49PUEUPk6GqeTYHyslrRhx"
+    },
+    {
+      "album": {
+        "name": "This is Gene Pitney",
+        "url": "https://open.spotify.com/album/6K5awP05EBmAwBUIqdxURx"
+      },
+      "artists": [
+        {
+          "name": "Gene Pitney",
+          "url": "https://open.spotify.com/artist/3ap1NzHNV9QA1x1V6z3gSe"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165960,
+      "name": "Every Breath I Take",
+      "url": "https://open.spotify.com/track/5mqJuf5U7M3eLNsaKZ0mUH"
     },
     {
       "album": {
@@ -1773,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Right Girl",
+        "url": "https://open.spotify.com/album/2K2xlq1o2uG1RIQcy28tAp"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146886,
+      "name": "Goin' Wild (Original Mix)",
+      "url": "https://open.spotify.com/track/1VQzaPmsKdHyr3M7Ic0YQn"
+    },
+    {
+      "album": {
         "name": "The Best Of The EMI Years",
         "url": "https://open.spotify.com/album/4IgZkMxuTkMXiaa6Nq9IJw"
       },
@@ -2007,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "I'll Cry For Him",
+        "url": "https://open.spotify.com/album/1M3w0qVLBBtV0jb5VV1gdQ"
+      },
+      "artists": [
+        {
+          "name": "The Paris Sisters",
+          "url": "https://open.spotify.com/artist/0SDMI2Gkjubw3ol5p5fKtX"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156733,
+      "name": "He Knows I Love Him Too Much",
+      "url": "https://open.spotify.com/track/2FtKWVhv6z1cVbswQEXvL6"
+    },
+    {
+      "album": {
         "name": "That's a Pretty Good Love",
         "url": "https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV"
       },
@@ -2151,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits Vol. III",
+        "url": "https://open.spotify.com/album/3cJ6ZymbUcNGe1T8YZtGyE"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235615,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/2JN8RzdML2qwEyxOYYC4MP"
+    },
+    {
+      "album": {
         "name": "\u30a4\u30f3\u30fb\u30bf\u30a6\u30f3",
         "url": "https://open.spotify.com/album/7kN6xIFWxiHwu1b2xlwpqB"
       },
@@ -2238,6 +2454,24 @@
       "duration_ms": 193933,
       "name": "Holla At Your Boy",
       "url": "https://open.spotify.com/track/7koTyURobzyxyIEQ3gOW4o"
+    },
+    {
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148848,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/1381rfnkAKhUeqP0J12kk3"
     },
     {
       "album": {
@@ -2382,6 +2616,24 @@
       "duration_ms": 132280,
       "name": "I Can't Say Goodbye to You",
       "url": "https://open.spotify.com/track/24TtjVPpY6uuWxKKmosG28"
+    },
+    {
+      "album": {
+        "name": "Let Me Get Close To You (With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/0qiT0Yzyqwe884pSk75BU6"
+      },
+      "artists": [
+        {
+          "name": "Skeeter Davis",
+          "url": "https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126080,
+      "name": "I Can't Stay Mad at You",
+      "url": "https://open.spotify.com/track/7LytWfv69NzPIojDdGex0X"
     },
     {
       "album": {
@@ -3006,6 +3258,24 @@
       "duration_ms": 203650,
       "name": "Is This What I Get for Loving You?",
       "url": "https://open.spotify.com/track/1j3ZrKReZupXoiAnSJOPg0"
+    },
+    {
+      "album": {
+        "name": "Breaking up Is Hard to Do",
+        "url": "https://open.spotify.com/album/2Ea6BUGbGQL8tmPmhNN1gY"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147573,
+      "name": "It Might as Well Rain Until September",
+      "url": "https://open.spotify.com/track/18NtcPaUBR58Lq6A6bMdXf"
     },
     {
       "album": {
@@ -4151,6 +4421,42 @@
     },
     {
       "album": {
+        "name": "The EP Collection... Plus",
+        "url": "https://open.spotify.com/album/1TbczNPbmppYmcTqfJu92o"
+      },
+      "artists": [
+        {
+          "name": "Maxine Brown",
+          "url": "https://open.spotify.com/artist/1kCqTUSrWJEHZm2GSpRuMV"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157400,
+      "name": "Oh No Not My Baby",
+      "url": "https://open.spotify.com/track/2zSlpx0pVT7GIiugud2o8E"
+    },
+    {
+      "album": {
+        "name": "Sunshine Boulevard",
+        "url": "https://open.spotify.com/album/2xLW7PijPtzLeFXEyu24GY"
+      },
+      "artists": [
+        {
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153200,
+      "name": "Old Smoky Locomotion",
+      "url": "https://open.spotify.com/track/0ygmlVc2gBejVna2DPz1Va"
+    },
+    {
+      "album": {
         "name": "All Time Greats",
         "url": "https://open.spotify.com/album/24CbH0PK4BnVUWP59klvom"
       },
@@ -4475,6 +4781,24 @@
     },
     {
       "album": {
+        "name": "The Tower of Strength",
+        "url": "https://open.spotify.com/album/4cTPXXbUsML3XijmVf2CJg"
+      },
+      "artists": [
+        {
+          "name": "Gene McDaniels",
+          "url": "https://open.spotify.com/artist/6I7tqjEzznFPrardDfvsvq"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139173,
+      "name": "Point of No Return",
+      "url": "https://open.spotify.com/track/4rlPwLkHZYpvg6MYXrV8QU"
+    },
+    {
+      "album": {
         "name": "The Resurrection",
         "url": "https://open.spotify.com/album/06BLB0YP19RZgiqvYwho9A"
       },
@@ -4504,7 +4828,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 185360,
       "name": "Point of No Return",
       "url": "https://open.spotify.com/track/4bNIcTaMnyfQe4vpZTQ15L"
@@ -5179,6 +5503,24 @@
     },
     {
       "album": {
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211306,
+      "name": "So Much Love",
+      "url": "https://open.spotify.com/track/4PVhVyr6yFooyyfaHSA3B7"
+    },
+    {
+      "album": {
         "name": "One Fine Day: The Songs of Goffin & King",
         "url": "https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96"
       },
@@ -5219,6 +5561,24 @@
     },
     {
       "album": {
+        "name": "Crazy Love (Hollywood Edition)",
+        "url": "https://open.spotify.com/album/3y2IB0hPXgf2zfZFgeBhXM"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184093,
+      "name": "Some Kind of Wonderful",
+      "url": "https://open.spotify.com/track/1UQST36ygsRXTB97OdbnlS"
+    },
+    {
+      "album": {
         "name": "30 Years Of Funk: 1969-1999 The Anthology",
         "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
       },
@@ -5230,7 +5590,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 202733,
       "name": "Some Kind Of Wonderful - Remastered 1999",
       "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
@@ -5821,6 +6181,24 @@
     },
     {
       "album": {
+        "name": "Wrap Around Joy",
+        "url": "https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210426,
+      "name": "The Best Is Yet To Come",
+      "url": "https://open.spotify.com/track/253M8uBw3zHgAdUccLt4lR"
+    },
+    {
+      "album": {
         "name": "Abundantly More",
         "url": "https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke"
       },
@@ -5836,7 +6214,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 185076,
       "name": "The Best Is Yet to Come (feat. Clay Finnesand)",
       "url": "https://open.spotify.com/track/3cPFQk1FXSpSF40VQlvR5R"
@@ -5952,7 +6330,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 194133,
       "name": "The Loco-Motion",
       "url": "https://open.spotify.com/track/1L1MWnX8hpdkHWCR4wFk7G"
@@ -6651,6 +7029,24 @@
     },
     {
       "album": {
+        "name": "Sing To Trumpets And Strings",
+        "url": "https://open.spotify.com/album/0x4CVUhtrgHKqiLbti43Ar"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "What A Sweet Thing That Was",
+      "url": "https://open.spotify.com/track/69M1hKSe3E5uowQNwpwkHb"
+    },
+    {
+      "album": {
         "name": "The Night Has A Thousand Eyes",
         "url": "https://open.spotify.com/album/7wdmlx3Et202n4sUU6UFnF"
       },
@@ -7202,10 +7598,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 218883,
       "name": "You Light Up My Life",
       "url": "https://open.spotify.com/track/10qVTksSWVtwvJVUa0iD7e"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "You Light Up My Life",
+      "url": "https://open.spotify.com/track/0niWpRGYTyofCnblR3Jk1P"
     },
     {
       "album": {

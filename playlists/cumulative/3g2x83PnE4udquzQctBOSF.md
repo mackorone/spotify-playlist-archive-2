@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-703 songs - 1 day 20 hr 12 min
+708 songs - 1 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Koppa](https://open.spotify.com/track/74YBPuKegpCE0Z8XZ6voiS) | [Yungness & Jaminn](https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR) | [Love For You / Koppa](https://open.spotify.com/album/2C6oFZng8cTk70w1lewtDL) | 6:24 | 2023-07-30 | 2023-08-28 |
 | [La Factoria](https://open.spotify.com/track/2wci85N0UXRiaI66UWC0y4) | [DJ MARC ASTELL](https://open.spotify.com/artist/2laMIA9iOtGhKmy8OmiEQZ) | [La Factoria](https://open.spotify.com/album/2So7hXHWQrMyUhmkJVPtEW) | 6:43 | 2026-04-08 |  |
 | [La Fuega Oculta](https://open.spotify.com/track/7mdVDuw4JBHDw4ZWFkCPEs) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [La Fuega Oculta / Yelli](https://open.spotify.com/album/11vHLYho4kaaobxIsBFWLf) | 3:20 | 2023-05-28 | 2023-06-12 |
+| [La llamada](https://open.spotify.com/track/1se3mgN06RRMkhCFlItHsi) | [Red\-X](https://open.spotify.com/artist/78O3slbqYJoT7QZp3Q4Jnq) | [La llamada](https://open.spotify.com/album/0DBPPm1OOoO7lZQN4kQ5zV) | 2:31 | 2026-04-21 |  |
 | [La Samba](https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [La Samba](https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH) | 2:43 | 2023-03-19 | 2023-04-10 |
 | [la vida del emigrante](https://open.spotify.com/track/7xv4NBuK4mQJeVxK0ZVuHQ) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [latin house](https://open.spotify.com/album/0geGNzCW92yXGPo02EakYb) | 3:20 | 2026-01-08 | 2026-02-23 |
 | [la vida es un carnaval](https://open.spotify.com/track/4RLbl6BmRGrN5SIXhQPxiD) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [latin house](https://open.spotify.com/album/0geGNzCW92yXGPo02EakYb) | 3:59 | 2026-01-08 | 2026-02-23 |
@@ -415,6 +416,7 @@
 | [Move with Me](https://open.spotify.com/track/7kUWotZqEd7Qzd9dexqVHv) | [Isaac Washington](https://open.spotify.com/artist/2l0adiofBUN4cIVXnipldE) | [Move with Me](https://open.spotify.com/album/5K1AeIkWW211ViMy2VgNho) | 5:19 | 2026-03-20 |  |
 | [Mr\. Lover](https://open.spotify.com/track/5I062SYRoWdD5RAvLPwAJY) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [Mr\. Lover](https://open.spotify.com/album/4MmqnLXzJ3M8mPZPhHc2VS) | 3:38 | 2023-07-02 | 2023-07-31 |
 | [Mud Season](https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011) | [Mud Season](https://open.spotify.com/album/2N5zNw7LULXhVKaRD6tnn8) | 3:19 | 2024-04-14 | 2024-05-20 |
+| [Muevela](https://open.spotify.com/track/5Ctdg2td8JQT90j5u26OPf) | [Bruno Costa](https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2) | [Dirty Circuit](https://open.spotify.com/album/46f1FcHprH40V1mfxqSaZV) | 4:33 | 2026-04-21 |  |
 | [Mumba](https://open.spotify.com/track/093pNDCe1KEptfuBLXWIHI) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Mumba EP](https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ) | 2:48 | 2023-04-23 | 2023-05-15 |
 | [Murder the Dawn](https://open.spotify.com/track/59ztlX5Lvo463J4DAZ92P0) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Neon Nights: Late Night Drive Music \(Vol\. 1\)](https://open.spotify.com/album/0LrdRMztCrZRHNbe6W2k1T) | 5:34 | 2026-03-22 |  |
 | [My Bank](https://open.spotify.com/track/3SnzEIFjDfjTSN60Ebkv0q) | [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Welcome to Hell II](https://open.spotify.com/album/3CTcKWxnFO7AZtadH6rofz) | 2:54 | 2023-03-19 | 2023-04-10 |
@@ -595,6 +597,7 @@
 | [Superlicious](https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/6JH3t6xNDVN7DY5t15KOAs) | 3:01 | 2023-03-19 | 2023-04-10 |
 | [Superstylin'](https://open.spotify.com/track/7A4nInUigILmWXo0ei3j8D) | [Davide Marsala](https://open.spotify.com/artist/1SNXTiPxArdBh9psV06qEZ) | [Superstylin'](https://open.spotify.com/album/4sCkrOlVpKcWheRETO089S) | 5:30 | 2024-07-07 |  |
 | [Swag Swag](https://open.spotify.com/track/2JfqV0LVtcOo831Lh0wsJl) | [Merk \(ITA\)](https://open.spotify.com/artist/7la4AhxS3u92K30Zjg9cDz) | [We Are Invaders, Vol\. 3](https://open.spotify.com/album/79HO4h7CwWukCtRMDijaQ7) | 2:51 | 2023-09-17 | 2023-12-14 |
+| [Sweet Ah](https://open.spotify.com/track/6KMGsJRDIyLwqlu6E5MI4X) | [VS Prjct](https://open.spotify.com/artist/5NGhNgjAPerBPAAKlYt9ie) | [Sweet Ah](https://open.spotify.com/album/3TBQjyxk7NlLXC1kjfD73I) | 4:29 | 2026-04-21 |  |
 | [Swinged](https://open.spotify.com/track/7DRssGNUYjhpz1S8sCuReV) | [MI.BARRIO](https://open.spotify.com/artist/0EbzxaJq1KS6ALwcoSiMu1), [Simon Ray](https://open.spotify.com/artist/0Lv8Fe6PuOVjqAk7lUdlTU) | [MI.BARRIO VOL\. I \- Lucha Libre](https://open.spotify.com/album/5oC1pXVWVbRpgKqEjtnYbd) | 3:18 | 2024-03-24 | 2024-05-20 |
 | [symphonia.](https://open.spotify.com/track/0FSdefPsdTZgxFM5Rvwqnu) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [winter '23](https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy) | 6:52 | 2023-03-12 | 2023-04-01 |
 | [Symphony](https://open.spotify.com/track/4UvGWG6oo63tnu2AGfqWDX) | [Agigulf](https://open.spotify.com/artist/4rRPRX8WcOd8NRgtIiLwLT) | [Symphony](https://open.spotify.com/album/14nCPhw8AVz5a1vdy4EwdH) | 3:44 | 2026-03-13 |  |
@@ -683,7 +686,9 @@
 | [What?!](https://open.spotify.com/track/6OjuhFJWcKpvy9VsCSS0vV) | [Simon Ricci](https://open.spotify.com/artist/0yZzFyRzS1w61VNtQYCagB), [Gosts](https://open.spotify.com/artist/6hMxBHVIRXtr1njOIOv8aS) | [What?!](https://open.spotify.com/album/61zASyQB1pIxGBOCye0lsE) | 3:22 | 2023-07-16 | 2023-08-28 |
 | [When The Bass Kicks In](https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [TEKO](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [When The Bass Kicks In](https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23) | 3:13 | 2024-10-13 |  |
 | [When the Horizon Fades](https://open.spotify.com/track/0vcXVau1aCULmiUJS7oB7v) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Parallel Skies: Future Garage & Cinematic Bass \(Vol\. 1\)](https://open.spotify.com/album/1zHuy0yhMHocAREenyzNIB) | 3:32 | 2026-03-23 |  |
+| [Where I Disappear](https://open.spotify.com/track/0gBeddG5eF5r3hXrjLHTBS) | [Rafxel](https://open.spotify.com/artist/6PlXXzsks2YQmAjJkGxtNB) | [Where I Disappear](https://open.spotify.com/album/6gRzH6x3q6ebxUj2CPwnYp) | 4:31 | 2026-04-21 |  |
 | [Where the Structure Bends](https://open.spotify.com/track/3n2jTRrFP2Cgv9bZrNdKiL) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 4:44 | 2026-03-30 |  |
+| [Whispers In The Dark](https://open.spotify.com/track/2zrBvYn0EzJ9svq8NnvLcL) | [Zelipercussion](https://open.spotify.com/artist/6u1zElS1JXFPIbsqdAmm6M) | [Whispers In The Dark](https://open.spotify.com/album/0xxNJpPkUGQXWHhPFvaxWN) | 3:56 | 2026-04-21 |  |
 | [Whispers in the Void](https://open.spotify.com/track/1oKFOVuSVsp9SYILFlbuOR) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Cinematic Bass: Epic Dubstep & Trap \(Vol\. 1\)](https://open.spotify.com/album/1WNBIHcvpB6sWakBROrIPV) | 3:01 | 2026-03-22 |  |
 | [Will You Come Back \- Radio Mix](https://open.spotify.com/track/4XjiZgrAi8bJqywg9YJCY2) | [Angelo Draetta](https://open.spotify.com/artist/16gj3v4KRvdAt6jEZZHX7k) | [Will You Come Back](https://open.spotify.com/album/41ID9K7lNifF62rpmvcGxy) | 3:58 | 2025-12-22 | 2026-01-03 |
 | [Witch hunter](https://open.spotify.com/track/45emzk7r12P23egrFgiqnu) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Witch hunter](https://open.spotify.com/album/6VA3TDy7ztR7L8QYqyOCNT) | 3:32 | 2026-04-05 |  |

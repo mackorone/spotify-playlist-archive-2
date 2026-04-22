@@ -1,12 +1,12 @@
 {
   "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
-  "num_followers": 78230,
+  "num_followers": 78239,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeQbAAAAAABrUiTEwMU8ETLxPUfPigSU",
+  "snapshot_id": "aeVsgAAAAAC/1RRObGzK9oKTWJ9Ywnyg",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Banda el Mexicano",
-        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 207725,
-      "name": "Fue Su Voz",
-      "url": "https://open.spotify.com/track/2gmplUqmPHJ1jPvznz5zyM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ven a Bailar",
         "url": "https://open.spotify.com/album/1Wk4K8mvgNfYFkGVUSOoKN"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 219428,
       "name": "Ven a Bailar",
       "url": "https://open.spotify.com/track/3pzibp7mUjlNSzcypJbNda"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Banda el Mexicano",
+        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 207725,
+      "name": "Fue Su Voz",
+      "url": "https://open.spotify.com/track/2gmplUqmPHJ1jPvznz5zyM"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 Enormes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "La Negra Catalina",
-      "url": "https://open.spotify.com/track/3SxQ87XoLgOAZIRAHpktnP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Banda el Mexicano",
         "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 204556,
       "name": "El Ni\u00f1o Travieso",
       "url": "https://open.spotify.com/track/0tzfM9kn40qyAYKmufLwOV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "16 Enormes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "La Negra Catalina",
+      "url": "https://open.spotify.com/track/3SxQ87XoLgOAZIRAHpktnP"
     },
     {
       "added_at": null,

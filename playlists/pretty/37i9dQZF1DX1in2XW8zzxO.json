@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 100203,
+  "num_followers": 100253,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,30 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
+        "name": "I Feel Nice",
+        "url": "https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        },
+        {
+          "name": "Group Chat",
+          "url": "https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 160375,
+      "name": "I Feel Nice",
+      "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
         "name": "Sweety My Loving (feat. Ndibo Ndibs & Djy Zan SA)",
         "url": "https://open.spotify.com/album/24HHO3WJUHveNkQF5gfOmL"
       },
@@ -859,30 +883,6 @@
       "duration_ms": 458761,
       "name": "Sweety My Loving (feat. Ndibo Ndibs & Djy Zan SA)",
       "url": "https://open.spotify.com/track/42C3ZqhZ08eCsIOwmW3xZJ"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
-        "name": "I Feel Nice",
-        "url": "https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        },
-        {
-          "name": "Group Chat",
-          "url": "https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
-        }
-      ],
-      "duration_ms": 160375,
-      "name": "I Feel Nice",
-      "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -1303,30 +1303,26 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "Imizamo (feat. Aries Cooper, North The Jap & Havoc)",
-        "url": "https://open.spotify.com/album/2hFbYWq8PFrM4nYFBX9eKo"
+        "name": "Pure Bliss",
+        "url": "https://open.spotify.com/album/5N7cCHmYQ3KrPIvrQ7HlHn"
       },
       "artists": [
         {
-          "name": "Insertcoinz",
-          "url": "https://open.spotify.com/artist/1IUoYtHRj67HHGNphZ5S3U"
+          "name": "Luzyo Keys",
+          "url": "https://open.spotify.com/artist/4xejznKspg2TLQn2KOXbNk"
         },
         {
-          "name": "Aries Cooper",
-          "url": "https://open.spotify.com/artist/5y3ka5pPG4xQE0gbGx3hdx"
+          "name": "2woBunnies",
+          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
         },
         {
-          "name": "North The Jap",
-          "url": "https://open.spotify.com/artist/4CJ8uGVyiHjRoJzdDtCx8u"
-        },
-        {
-          "name": "Havoc",
-          "url": "https://open.spotify.com/artist/6UnvX7Zx85VNjOpLdaq49W"
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
         }
       ],
-      "duration_ms": 450281,
-      "name": "Imizamo (feat. Aries Cooper, North The Jap & Havoc)",
-      "url": "https://open.spotify.com/track/69Wt3Yy8u9T3yswT6fLI9g"
+      "duration_ms": 450425,
+      "name": "Pure Bliss",
+      "url": "https://open.spotify.com/track/405R1UpWRgHMjjvtk5CFNe"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

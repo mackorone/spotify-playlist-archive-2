@@ -1,28 +1,32 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 278363,
+  "num_followers": 278340,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "AAAIlg/MOKhEvwYRtXf0xPcneKo/Xg2h",
+  "snapshot_id": "AAAImG1XuAi3N9KR0juY4p0NXKuMgiV6",
   "tracks": [
     {
-      "added_at": "2026-04-17 21:32:02",
+      "added_at": "2026-04-21 11:12:23",
       "album": {
-        "name": "Catharina",
-        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
+        "name": "Catharina (Remixes)",
+        "url": "https://open.spotify.com/album/7KPOfRWJL1EXeCEO8I4qQ5"
       },
       "artists": [
         {
           "name": "Martin Garrix",
           "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
         }
       ],
-      "duration_ms": 207288,
-      "name": "Catharina",
-      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
+      "duration_ms": 217500,
+      "name": "Catharina - Surf Mesa Remix",
+      "url": "https://open.spotify.com/track/3A2Uk0TWX6dasUh0LLloOT"
     },
     {
       "added_at": "2026-04-17 21:32:02",
@@ -83,6 +87,22 @@
       "duration_ms": 155081,
       "name": "All I Need Is You - Schutzer Remix",
       "url": "https://open.spotify.com/track/5lTjTYwfNQDHgSonfB8gyB"
+    },
+    {
+      "added_at": "2026-04-17 21:32:02",
+      "album": {
+        "name": "Catharina",
+        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 207288,
+      "name": "Catharina",
+      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
     },
     {
       "added_at": "2026-04-17 21:32:02",

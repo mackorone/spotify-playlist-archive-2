@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108379,
+  "num_followers": 108382,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeQbAAAAAAA0RQ8fBRPdkGMVH/6/xNFR",
+  "snapshot_id": "aeVsgAAAAADYhM6McfA9bYD88kTAMVUa",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Met Liefde",
-        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Diep In Mijn Hart",
-      "url": "https://open.spotify.com/track/64Q455tYVAbZsRsPuqpW8s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voor Jou",
         "url": "https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 203933,
       "name": "Ik Weet 'T Zeker",
       "url": "https://open.spotify.com/track/3HMqLTb4D0l3D7vgMPofZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Met Liefde",
+        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Diep In Mijn Hart",
+      "url": "https://open.spotify.com/track/64Q455tYVAbZsRsPuqpW8s"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Met Liefde",
-        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Laat Me",
-      "url": "https://open.spotify.com/track/642MewtIduLhhM5CPbrE3O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voor Jou",
         "url": "https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 151573,
       "name": "Speel Niet Met Vuur",
       "url": "https://open.spotify.com/track/7fshS3mr0mCoOsAs5kAcYF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Met Liefde",
+        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Laat Me",
+      "url": "https://open.spotify.com/track/642MewtIduLhhM5CPbrE3O"
     },
     {
       "added_at": null,

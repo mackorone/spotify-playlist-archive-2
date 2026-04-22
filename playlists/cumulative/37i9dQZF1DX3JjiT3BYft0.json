@@ -3013,6 +3013,24 @@
     },
     {
       "album": {
+        "name": "Resonant Strings",
+        "url": "https://open.spotify.com/album/24hxATNKQdYiwRxwEqJGjY"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240384,
+      "name": "Resonant Strings",
+      "url": "https://open.spotify.com/track/2hj7cpSEMt3qqjPaOPX6FO"
+    },
+    {
+      "album": {
         "name": "Breakthrough!",
         "url": "https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3"
       },
@@ -6854,7 +6872,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 216066,
       "name": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30c3\u30af\u30e9\u30e9\u30d0\u30a4",
       "url": "https://open.spotify.com/track/61os2N4PtLf4s5ojzbpU9d"

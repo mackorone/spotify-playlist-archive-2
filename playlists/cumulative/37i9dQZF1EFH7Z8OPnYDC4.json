@@ -3705,6 +3705,32 @@
     },
     {
       "album": {
+        "name": "Driving Mode",
+        "url": "https://open.spotify.com/album/7BpkZnKP2Qi0QCdAIGfDzB"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Jaroslav Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6VBcStsQjWcCCAOaWnXirz"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315840,
+      "name": "II. Air (\"On the G String\")",
+      "url": "https://open.spotify.com/track/2xCbNsrQS0MjwdOTTNaVWY"
+    },
+    {
+      "album": {
         "name": "Babes In Arms (1999 New York Cast Recording)",
         "url": "https://open.spotify.com/album/0DxFBhHAYsBw7COR11gBG1"
       },
@@ -5481,6 +5507,32 @@
     },
     {
       "album": {
+        "name": "Wagner, R. (The Best Of)",
+        "url": "https://open.spotify.com/album/3vfW5rP6irnXmhVl4EKOtP"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Johannes Wildner",
+          "url": "https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 680266,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/6yHF5Dp63kHLvc4afIQ7Bq"
+    },
+    {
+      "album": {
         "name": "Rodgers + Hammerstein's Cinderella (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5"
       },
@@ -5544,7 +5596,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 193760,
       "name": "Overture",
       "url": "https://open.spotify.com/track/1i18hbOqXKuPOxuikEFwKG"

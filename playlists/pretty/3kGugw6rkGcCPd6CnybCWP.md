@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 69 songs - 4 hr 0 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 74 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,5 +77,10 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 67 | [Getting Deeper](https://open.spotify.com/track/6voBpAEU8b7ZT6Vz5K6JW9) | [you](https://open.spotify.com/artist/0kLi0duqyWyoRkfqBv4lja) | [Getting Deeper](https://open.spotify.com/album/7euIEY0TVksPoeQxMZ9Gs3) | 3:12 |
 | 68 | [A Debt Of Kindness And Gas Money](https://open.spotify.com/track/3TuIkuAzWzNJy98iLUs87n) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [A Debt Of Kindness And Gas Money](https://open.spotify.com/album/1NvBEPTiJisYuiYG6FCkCz) | 2:47 |
 | 69 | [Come Find Me \(Hungry People\)](https://open.spotify.com/track/1ZrfA7actP3DPjwwuFhHwK) | [The Goth Moth](https://open.spotify.com/artist/5UQU2HW4TItA5rVp9bEXvi) | [Come Find Me \(Hungry People\)](https://open.spotify.com/album/7BJWHATbf55tIfPFDhXeHT) | 2:52 |
+| 70 | [Kawaii](https://open.spotify.com/track/59tXTeEQ7G7koxQg5MyB1d) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Of Foxes And Tofu](https://open.spotify.com/album/4dpkrcOzw7t95AqZDgMRJV) | 4:55 |
+| 71 | [Mole's Hotel](https://open.spotify.com/track/6SmtJ7NWGvpyL2LjMTCnVz) | [Public Delay](https://open.spotify.com/artist/2l4DfT1GBSmKk2auKQVKRO), [Dizzy Panda](https://open.spotify.com/artist/2NpvjxVmyqxArOUBoF7oyv) | [Mole's Hotel](https://open.spotify.com/album/78cBDN5Q2b8xsoAA3zo9uP) | 2:32 |
+| 72 | [No Proof](https://open.spotify.com/track/0Jb6JopsRsmUeaDgiWEgGx) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z), [Vallartis](https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa) | [The Daylight is Gone](https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ) | 3:03 |
+| 73 | [Moonlight](https://open.spotify.com/track/1Xnn2Fmts67hpUW085EJYF) | [Blue Scarr](https://open.spotify.com/artist/1gTOD1oLGnXEK81NvlQWSi), [Aimée Britannia](https://open.spotify.com/artist/1oxqclaWPu3nTkfNhjWSJ7) | [Moonlight](https://open.spotify.com/album/4PPCdRFGekzGpKaTiiuGYk) | 2:53 |
+| 74 | [INVITE ONLY](https://open.spotify.com/track/01GXPg6mBgZndeB0R5pxZj) | [TONE](https://open.spotify.com/artist/7BTanMvfNlUM7nc1GSeiAu) | [INVITE ONLY](https://open.spotify.com/album/3YJmqiyXFF8QokbmiUQLxt) | 1:42 |
 
-Snapshot ID: `AAAOj/Rhzb5DsSEEYic27U2rV+n7BrYm`
+Snapshot ID: `AAAOlBxKDPgH32Dd0+upSn+EaFOr0Cwm`

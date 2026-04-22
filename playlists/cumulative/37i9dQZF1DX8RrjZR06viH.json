@@ -4175,6 +4175,24 @@
     },
     {
       "album": {
+        "name": "Not That Serious",
+        "url": "https://open.spotify.com/album/5aWnUZsHsnJsvPUy2jT8XE"
+      },
+      "artists": [
+        {
+          "name": "May",
+          "url": "https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172212,
+      "name": "Not That Serious",
+      "url": "https://open.spotify.com/track/7B6yrPp2vBtm57Q8HM2cyb"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/64eTSlCRiKUolrsET9Kl2v"
       },

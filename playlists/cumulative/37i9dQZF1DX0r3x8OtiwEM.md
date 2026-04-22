@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-778 songs - 3 day 0 hr 46 min
+779 songs - 3 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Goldene Acht](https://open.spotify.com/track/0wMGlXj34dld1ovW8XT6zO) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Goldene Acht](https://open.spotify.com/album/0NFG9sWMpYbtfrGt7QJdxt) | 8:52 | 2019-08-06\* | 2021-05-27 |
 | [Goliath](https://open.spotify.com/track/4YVVZmgNA9TA9V1vxYogCl) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Goliath](https://open.spotify.com/album/3kf6FVC5PEX0HyhGVoLYcs) | 7:18 | 2019-12-02 | 2020-06-12 |
 | [Goodbyes](https://open.spotify.com/track/6Mmfn16y9FPXhjvneVFE9e) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Goodbyes](https://open.spotify.com/album/0yLqr3ASNFW3E2bCwMRkGv) | 7:46 | 2019-10-24 | 2021-06-19 |
+| [Got Me Crazy](https://open.spotify.com/track/3BEkyNYWm85VrRTjLbcIuu) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Got Me Crazy](https://open.spotify.com/album/0YIegwdQOgHGZCXPQQp1MG) | 3:39 | 2026-04-17 |  |
 | [Gravity](https://open.spotify.com/track/1TbqTuBDA5jK3881s4mUEb) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Gravity EP](https://open.spotify.com/album/6JRW2nnHGWfA3ACFtQob7S) | 6:11 | 2023-02-18 | 2023-03-07 |
 | [Gravity](https://open.spotify.com/track/5DhcUBjJbFk2crXo2CgiKO) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Love Will Set U Free](https://open.spotify.com/album/5mOPJyGANs9UdcjZjuQZZH) | 5:29 | 2022-01-07 | 2022-11-20 |
 | [Gravity](https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:29 | 2022-11-14 | 2024-04-19 |
@@ -367,7 +368,7 @@
 | [Klaxon](https://open.spotify.com/track/20zXYmh2UvTiFugquhOF6i) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Klaxon](https://open.spotify.com/album/19qGdHXyTInHZWVRG4YkYs) | 3:47 | 2022-04-04 | 2022-07-26 |
 | [KNOW ME \(feat\. Gallant\)](https://open.spotify.com/track/1QrlSQGTF8aEvsdhT4vMi8) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [BRONSON](https://open.spotify.com/album/58fl8Y06xbGAW07Prk8TTZ) | 3:00 | 2020-08-30 | 2021-12-09 |
 | [Kreatur der Nacht \(feat\. Isolation Berlin\)](https://open.spotify.com/track/1KamjM1JNDyyOd6uOyZs17) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Isolation Berlin](https://open.spotify.com/artist/37vi8sUkMSg3L9BTaMZRrv) | [Kreatur der Nacht \(feat\. Isolation Berlin\)](https://open.spotify.com/album/15bnmVsu5MdR8hkc4wGhHd) | 4:55 | 2020-12-24 | 2021-03-19 |
-| [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-08-08 |  |
+| [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-08-08 | 2026-04-22 |
 | [Kurzstrecke](https://open.spotify.com/track/6AowzR1raQ3DLpBkrsQsNp) | [Function](https://open.spotify.com/artist/6eu3TBnYM3SrkUU59SFhgp) | [Existenz](https://open.spotify.com/album/6y5DYvvHhDbNQfonF1Ykc3) | 6:43 | 2020-01-03 | 2020-01-04 |
 | [Last Bloom](https://open.spotify.com/track/00om2cgsHAwhdbpACwbAke) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Last Bloom](https://open.spotify.com/album/6UC5SN5ycYhBgNk6Z5SfTT) | 5:53 | 2019-09-19 | 2020-01-04 |
 | [Last Forever](https://open.spotify.com/track/17DObRgarppeleRuJJOV8q) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Last Forever](https://open.spotify.com/album/6u9A0fkIdZfRNpLepIV39C) | 5:09 | 2025-08-08 | 2026-02-11 |

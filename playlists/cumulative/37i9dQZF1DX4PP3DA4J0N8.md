@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-239 songs - 11 hr 25 min
+241 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Birds Singing By The River](https://open.spotify.com/track/48ZBpsfLHYzXDCSReai3ls) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:02 | 2023-06-20 |  |
 | [Birds Singing in the Morning Rain](https://open.spotify.com/track/5eksbeKyteoDgDb9E6Hj2K) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Rain Chirpings](https://open.spotify.com/album/5oxNLUGZlrn7RlyaU9IoaC) | 3:03 | 2022-03-25 |  |
 | [Birds Warning the arrival of thunder](https://open.spotify.com/track/52xxBuyMUSghtmf7Cv5pVh) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Birds, Thunder & Rain](https://open.spotify.com/album/6xW5OCWUJ06VgPvLxIQy3M) | 2:51 | 2023-09-20 |  |
-| [Birdsong and Rustling Leaves](https://open.spotify.com/track/2ZuB7OS80eFxrdfZgfCkD2) | [Epic Nature Sounds](https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h) | [The Melody of Nature's Orchestra](https://open.spotify.com/album/6zFKRc7g2xF644T2z9JcCU) | 2:57 | 2023-09-20 |  |
+| [Birdsong and Rustling Leaves](https://open.spotify.com/track/2ZuB7OS80eFxrdfZgfCkD2) | [Epic Nature Sounds](https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h) | [The Melody of Nature's Orchestra](https://open.spotify.com/album/6zFKRc7g2xF644T2z9JcCU) | 2:57 | 2023-09-20 | 2026-04-22 |
 | [Blissful Brook \(Rain\)](https://open.spotify.com/track/3fEv1aGc7IsFlDUUrxIsWL) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Blissful Nature Sounds](https://open.spotify.com/album/07rmOLfWdDDM4rJx1VhjR6) | 3:12 | 2022-03-25 |  |
 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 | 2022-03-25 |  |
 | [Calm Forest Water](https://open.spotify.com/track/35byLuPZqmmsYM9U1hubfS) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Forest of Tranquility](https://open.spotify.com/album/0rJxtAj8SOB3P5gST1XQOn) | 3:38 | 2022-03-25 | 2022-04-29 |
@@ -108,6 +108,7 @@
 | [Highway Birds](https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk) | [Betweetle](https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl) | [Highway Birds](https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC) | 1:47 | 2023-03-03 | 2023-06-20 |
 | [Igilazu \- Nature](https://open.spotify.com/track/4sPQwcBc84Bn03P5JNl26l) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Kora](https://open.spotify.com/album/1CG4dmr4DY2dhpkZYjkHK7) | 2:56 | 2024-08-15 |  |
 | [in the flow \(river\)](https://open.spotify.com/track/2OQIDMa3dyuHuXrwITnTEA) | [Glacial Patience](https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav) | [in the flow \(river\)](https://open.spotify.com/album/7JFFon7hBXLhcC5vRRSKqR) | 3:12 | 2026-04-02 |  |
+| [Jungle Dusk at Pha Phum National Park](https://open.spotify.com/track/3xNme2mdtGrdxfsK5MHnDl) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Jungle Dusk at Pha Phum National Park](https://open.spotify.com/album/3OB5IzUaQvdDudL0lExpw3) | 2:15 | 2026-04-02 |  |
 | [Jungle Midnight Calm, Borneo](https://open.spotify.com/track/2rIFfdTbET7IDjZjIcGFy4) | [Naoxos](https://open.spotify.com/artist/3rOQCk7GXQhyVt0GPDzOGn) | [Jungle Midnight Calm, Borneo](https://open.spotify.com/album/6bHAVMbGHxv0dx4BZnSk8b) | 2:35 | 2026-04-02 |  |
 | [Jungle Pitter Patter](https://open.spotify.com/track/19a7gf1CPt9Oyx2yFwfqgC) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Cloud Rain](https://open.spotify.com/album/3xKdMlCL3NiWtdeEP6ITqa) | 3:08 | 2026-04-02 |  |
 | [Lakeside Repose](https://open.spotify.com/track/58rgF4KUtRIMH3LTczh1wY) | [Sounds of the Forest](https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6) | [Thicket Winging](https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l) | 6:16 | 2022-03-25 | 2023-09-21 |
@@ -184,6 +185,7 @@
 | [Singing Birds by the Stream](https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 2:55 | 2022-03-25 |  |
 | [Sitting Under The Tree](https://open.spotify.com/track/5ySy6nj1AWOTDx3Tm6M6zb) | [Paul's Field Recordings](https://open.spotify.com/artist/5fxe8QDUhBHXPULOFmFxry) | [Mother Nature](https://open.spotify.com/album/77DLlFKvDKjCbexjhopdve) | 2:23 | 2022-03-25 |  |
 | [Sleepy Rain Noise](https://open.spotify.com/track/0lyKoc6Batb1kDGCtw6pdF) | [Amsonia Star](https://open.spotify.com/artist/3qlVZpNlhxCVf5xIuDd7kL) | [Sleepy Rain Noise](https://open.spotify.com/album/2C9n2yEhA1q6kCjHl0evqu) | 2:50 | 2026-04-02 |  |
+| [Sleepy Stream XII](https://open.spotify.com/track/64CfWuXsaL2nEgmrY33Ojm) | [Mill Pond](https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7) | [Sleepy Stream XII](https://open.spotify.com/album/7z9Hcy68xQKt5RNOb2wiQh) | 1:52 | 2026-04-02 |  |
 | [Sleepy Stream XIII](https://open.spotify.com/track/1iGgsgW34vp3wnl1LL0ybf) | [Mill Pond](https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7) | [Sleepy Stream XIII](https://open.spotify.com/album/4HOPK4G0nBdZwZ6oVTIWrl) | 1:55 | 2026-04-02 |  |
 | [Sleepy Stream XIV](https://open.spotify.com/track/4Dh5KMfMrGzyiNaUFBeMpU) | [Mill Pond](https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7) | [Sleepy Stream XIV](https://open.spotify.com/album/7sX5U6EO4Y8whRL59FenOc) | 1:58 | 2026-04-02 |  |
 | [Small Birds and Swirling Stream](https://open.spotify.com/track/01wmtbMHxi9M5swTTWl40Y) | [Alisha Pearce](https://open.spotify.com/artist/0BCrRTZJYvA0AkHRhPdfln) | [Small Birds and Swirling Stream](https://open.spotify.com/album/5Cm3gkO6u5UXY7moX1QMod) | 2:29 | 2023-03-04 | 2026-04-03 |
@@ -195,7 +197,7 @@
 | [Soft & Crispy Rain](https://open.spotify.com/track/6bhxAE1z4FCDkJJKQBkV6f) | [Morgonkvist](https://open.spotify.com/artist/65IKDKBIpATr65zcLhiUvw) | [Droppar](https://open.spotify.com/album/7wr1YeA4KKJaH4aD7tzGTh) | 1:58 | 2022-03-25 | 2023-06-20 |
 | [Soft Rain](https://open.spotify.com/track/1fBxbZ4Lt76i1ZRyrhTi4D) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part 1](https://open.spotify.com/album/20wvLsO0wBMd2L2bLGHSUK) | 2:55 | 2022-03-25 |  |
 | [Songbirds at Dawn](https://open.spotify.com/track/6fdR2xhj9S7xZ46U8cw9H1) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Songbirds at Dawn](https://open.spotify.com/album/6Lx76KJ6upyFHgFGgumCgq) | 2:49 | 2026-04-02 |  |
-| [Songs of the Forest](https://open.spotify.com/track/5DE0Jb0lxBWz5d73FyFqJL) | [Experience Nature](https://open.spotify.com/artist/5cyMbzcbIkbyMlkJ4cy1ax) | [The Wind in the Woods](https://open.spotify.com/album/7G4BDFTsFB6Zq8XvhrCwwJ) | 4:11 | 2023-06-20 |  |
+| [Songs of the Forest](https://open.spotify.com/track/5DE0Jb0lxBWz5d73FyFqJL) | [Experience Nature](https://open.spotify.com/artist/5cyMbzcbIkbyMlkJ4cy1ax) | [The Wind in the Woods](https://open.spotify.com/album/7G4BDFTsFB6Zq8XvhrCwwJ) | 4:11 | 2023-06-20 | 2026-04-22 |
 | [Soothing Birdsong by the River](https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 3:04 | 2022-03-25 |  |
 | [Soothing Rain](https://open.spotify.com/track/5B7KrnudyvVieOvbrXG9Gs) | [Nuwan](https://open.spotify.com/artist/5Ntegr8o61PSRvEl9sazRU) | [Umbrella Sounds](https://open.spotify.com/album/4QzTCRjIsx21xIL0L8JaHi) | 2:39 | 2022-03-25 |  |
 | [Soul Healing Birds](https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Soul Healing Birds](https://open.spotify.com/album/4NPlWnO0Q7j8rk6CyosvKo) | 2:25 | 2022-03-25 |  |

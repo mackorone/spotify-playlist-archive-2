@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 567 likes - 2,519 songs - 6 day 3 hr 10 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 567 likes - 2,531 songs - 6 day 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2527,5 +2527,17 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2517 | [What’s On Your Mind](https://open.spotify.com/track/2DOKvJS61usFOxobo7jLi0) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [What's On Your Mind](https://open.spotify.com/album/3Zba9cZ8EP1DBcvjnVNrG6) | 3:32 |
 | 2518 | [More](https://open.spotify.com/track/14aDPcz6whbi82MtqIGSAZ) | [Alanna Sterling](https://open.spotify.com/artist/6gfQSJ07CJAEvOwKz4sX2f) | [More](https://open.spotify.com/album/5iAMFLHajNIwWxFJh0iA0E) | 3:42 |
 | 2519 | [i love you so im lying](https://open.spotify.com/track/11S2XZMLshxdE6jJeEGdgp) | [Lax.X8](https://open.spotify.com/artist/2x7oxsv7Ki5EC2nHTaEfZp), [LossWasHere](https://open.spotify.com/artist/4tTKCmzIlbZFDMr9Siu7bu) | [i love you so im lying](https://open.spotify.com/album/3ZFTCkNJdVAQWU0FwKNmkM) | 2:37 |
+| 2520 | [Bless](https://open.spotify.com/track/2h76rUpx8U6z3oGHg5NrHU) | [Mighty Bear](https://open.spotify.com/artist/1TUOL2jShvm4a1V06HWc2h), [Ragnar Zolberg](https://open.spotify.com/artist/2DUTPZZOsYJ9nvQiyAeEL8) | [Tveir+Tveir](https://open.spotify.com/album/2C6M33iCT5wkh3gTUzcJSk) | 5:13 |
+| 2521 | [empty horizon](https://open.spotify.com/track/6BZjuUiKFkGyEBcWdfsmUN) | [Omzen](https://open.spotify.com/artist/1F0SkjufRMpBlQb231LzxS) | [Pisces Currents](https://open.spotify.com/album/2CZEWUc3L1xuTqmMkGc0lM) | 3:12 |
+| 2522 | [There Are Many](https://open.spotify.com/track/60yOsAtoDzuEmswChRZDcP) | [Igła](https://open.spotify.com/artist/374zxRgrWQVVjAoDcMIRNY) | [There Are Many](https://open.spotify.com/album/4bqrukizHHZNQN4zG1bjXL) | 4:36 |
+| 2523 | [Shifting sands](https://open.spotify.com/track/7ur1asyOxPAY05E8trf0wj) | [Indie Indie](https://open.spotify.com/artist/4E6AE9M4PlKLPrnHhfGQYa) | [Fading Silhouette](https://open.spotify.com/album/5gRuEkrNfmEqhFfXkDfzsk) | 3:34 |
+| 2524 | [2AM Rockabilly](https://open.spotify.com/track/1qFEqTJemO34ZXu0uJob5Z) | [The Millers](https://open.spotify.com/artist/5Yk7GT0kTajJTmswSNzdmy) | [2AM Rockabilly](https://open.spotify.com/album/2rqnMQrKSx14Rrjcvb5z8f) | 2:23 |
+| 2525 | [GO, ASPES, GO!](https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [GO, ASPES, GO!](https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9) | 2:13 |
+| 2526 | [Forever Homesick](https://open.spotify.com/track/50H1XrhXYQAemFKDpzWQS6) | [Ward Hayden & the Outliers](https://open.spotify.com/artist/5ucHWsMlG8NB9Q5vhdPCZr) | [Forever Homesick](https://open.spotify.com/album/3O0v8uOHr3ESQPXY8bIYHw) | 2:52 |
+| 2527 | [80' Love](https://open.spotify.com/track/6XALt4hlvINjD85I2ELv1z) | [DAYSTAR6148](https://open.spotify.com/artist/71cGh2tEDMPogjCB2xASYr) | [80' Love](https://open.spotify.com/album/0jzvpGoCODEI6mmngNBqHe) | 3:38 |
+| 2528 | [Past, Present and Future](https://open.spotify.com/track/45WERxx7yju1Uw1M6hLcZP) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/7287Xttv3A5IdTikDJZZG0) | 3:53 |
+| 2529 | [Heart vs Mind](https://open.spotify.com/track/0KwOLyGgjvaTeohm5f2flL) | [Soulshocked](https://open.spotify.com/artist/3gzOzMZbjidNTYezPYXVEr) | [Heart vs Mind](https://open.spotify.com/album/0WhHdeI172j08SWRkCU2Lh) | 3:28 |
+| 2530 | [Let Me Be with You](https://open.spotify.com/track/6DYRv1LJmhTkrTu5NfFbC2) | [Marios Papalexis](https://open.spotify.com/artist/4LVxkX59xWHTrIhwI78A6K) | [Love Paths \(Remastered\)](https://open.spotify.com/album/3NuIHFKN8mPdjOgKCOSINd) | 4:13 |
+| 2531 | [Fuori Piove](https://open.spotify.com/track/0ZZyHllCfoOvI5C8M1cX8J) | [Matias Dal Pos](https://open.spotify.com/artist/6fJeuv8BJLbh6IkXdcsnfI) | [Tra I sogni che non ricordo](https://open.spotify.com/album/2fVHVSqTovdk1xmN19N87j) | 3:44 |
 
-Snapshot ID: `AAAKcKm6QV/6LTb+g/6qyXFBZJfkx6DD`
+Snapshot ID: `AAAKfOC5av2f/Uo5FpL8SbrQo3MGG01j`

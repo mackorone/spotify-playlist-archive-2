@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A 480",
+        "url": "https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157999,
+      "name": "A 480",
+      "url": "https://open.spotify.com/track/59fgjCn7ebqw8l3tl93Hfr"
+    },
+    {
+      "album": {
         "name": "Aftertouches",
         "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
       },
@@ -562,7 +580,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 294000,
       "name": "Lowlands",
       "url": "https://open.spotify.com/track/0EPpzvCONMNNjoBu07phTK"
@@ -652,7 +670,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 272000,
       "name": "Saps /h",
       "url": "https://open.spotify.com/track/6Qq6md4k1jNKON6eA53HuT"
@@ -670,7 +688,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 196374,
       "name": "Soft Fold 3/4",
       "url": "https://open.spotify.com/track/3nn1FUPOFu0PUu6hemr6Dl"
@@ -688,7 +706,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 211500,
       "name": "Splash 144",
       "url": "https://open.spotify.com/track/2gYY1MQiNbdbvOY054ty0j"

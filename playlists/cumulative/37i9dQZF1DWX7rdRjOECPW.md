@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX7rdRjOECPW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX7rdRjOECPW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWX7rdRjOECPW)
 
-### [Sommerhits 2025](https://open.spotify.com/playlist/37i9dQZF1DWX7rdRjOECPW)
+### [Sommerhits 2026](https://open.spotify.com/playlist/37i9dQZF1DWX7rdRjOECPW)
 
-> Der Sommer neigt sich dem Ende 🥲 \- und das waren die Sommerhits  2025.
+> Sommer kann kommen 🙂‍↔️
 
 267 songs - 12 hr 59 min
 

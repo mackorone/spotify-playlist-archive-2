@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Anitta, Olivia Rodrigo, Mc Kevin o Chris, Grupo Menos É Mais, Demi Lovato, Diego & Victor Hugo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,280,717 likes - 93 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,280,423 likes - 93 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 73 | [Selecta](https://open.spotify.com/track/53OLMfDeaFJgosZsxNSLT9) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Selecta](https://open.spotify.com/album/4H1B4mRc03rk9rt8R6swPA) | 3:25 |
 | 74 | [Bandido Bom](https://open.spotify.com/track/0LycSmuVfTW1XortG0aH8g) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o), [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL) | [Bandido Bom](https://open.spotify.com/album/5zU0RFmgMNWD914trkRrsA) | 2:52 |
 | 75 | [Superbloom](https://open.spotify.com/track/56imCiO83oUJj6z9favCWt) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 4:11 |
-| 76 | [EM MINHA JANELA](https://open.spotify.com/track/2hIYE9FgGnYq45lkSjb3CV) | [Tristão](https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Joab Beats](https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh) | [EM MINHA JANELA](https://open.spotify.com/album/6wTmDKfnOdNbYKYM7SBhJS) | 3:00 |
+| 76 | [EM MINHA JANELA](https://open.spotify.com/track/2hIYE9FgGnYq45lkSjb3CV) | [Tristão](https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH), [Joab Beats](https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [EM MINHA JANELA](https://open.spotify.com/album/6wTmDKfnOdNbYKYM7SBhJS) | 3:00 |
 | 77 | [Fórmula Perfeita](https://open.spotify.com/track/0bdIp6sr80CK63171GHoeD) | [Tapsounds](https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Fórmula Perfeita](https://open.spotify.com/album/6rr6YbZiL0L5i7C1TfkUgR) | 3:35 |
 | 78 | [Meia Volta Pro Bar \- Ao Vivo](https://open.spotify.com/track/6otfShUTnjXO6XvpyGiV4V) | [Naessa](https://open.spotify.com/artist/4yeGmRY9a2vswZ47DGqKJH), [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H), [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Meia Volta Pro Bar \(Ao Vivo\)](https://open.spotify.com/album/6d6ZMIJAJUL6nUREHyH7oF) | 2:28 |
 | 79 | [Ouro Minas](https://open.spotify.com/track/4fnNbGOSgr6Qa0lkMTCK0K) | [Dj Vitin do Pc](https://open.spotify.com/artist/2GAcS9WZyORyDBzd5bwfU5), [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI), [Dj Tg Da Inestan](https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl), [Mc Rd Bala](https://open.spotify.com/artist/2zAiOCzuHLvnCPX6RSJOPV), [MC RAUL](https://open.spotify.com/artist/4u34JPKINXAs8aDAiHtfCW) | [Ouro Minas](https://open.spotify.com/album/4tl7XSctfkRdRIGUNCl5MI) | 3:01 |

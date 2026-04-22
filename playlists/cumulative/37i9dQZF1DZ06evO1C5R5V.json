@@ -407,6 +407,28 @@
     },
     {
       "album": {
+        "name": "El Adi\u00f3s de un Alcoh\u00f3lico",
+        "url": "https://open.spotify.com/album/7F4pEFfyzTJmTbJeWmykce"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        },
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306770,
+      "name": "El Adi\u00f3s de un Alcoh\u00f3lico",
+      "url": "https://open.spotify.com/track/2XETm8E7PrIuiOOhGNcjIZ"
+    },
+    {
+      "album": {
         "name": "Sesiones Ac\u00fasticas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr"
       },
@@ -1460,7 +1482,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 223468,
       "name": "Tu Te las Tomaste S\u00f3lo",
       "url": "https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU"

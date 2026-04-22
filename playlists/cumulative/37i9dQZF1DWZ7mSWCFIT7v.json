@@ -2769,6 +2769,24 @@
     },
     {
       "album": {
+        "name": "Crushed Orchid",
+        "url": "https://open.spotify.com/album/69zL9nY33cxMljpslUjwP5"
+      },
+      "artists": [
+        {
+          "name": "Chase.:R",
+          "url": "https://open.spotify.com/artist/6iU03PullOnEaaIJbB1IAk"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Dreamscape",
+      "url": "https://open.spotify.com/track/2nURU9kJNyp2VfH330mANP"
+    },
+    {
+      "album": {
         "name": "Drone",
         "url": "https://open.spotify.com/album/6SRvJyQclnvVJx1ngKQ5py"
       },
@@ -3640,7 +3658,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 400209,
       "name": "Fly In Amber",
       "url": "https://open.spotify.com/track/54SfhFjcoqB5dwXVuIfbOi"

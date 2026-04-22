@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Kanako Yamamoto",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: sbk",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -19305,6 +19305,24 @@
     },
     {
       "album": {
+        "name": "Fell Again / Stranger What's Your Name?",
+        "url": "https://open.spotify.com/album/5ug1JL9PFc1gCxokrSh1yo"
+      },
+      "artists": [
+        {
+          "name": "cikho",
+          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161764,
+      "name": "Fell Again",
+      "url": "https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs"
+    },
+    {
+      "album": {
         "name": "National Disgrace",
         "url": "https://open.spotify.com/album/6JL5D0Wzgx1CsfSiG9JZfw"
       },
@@ -25212,6 +25230,24 @@
     {
       "album": {
         "name": "Heaven Now",
+        "url": "https://open.spotify.com/album/56GuwmBG96bnEg8448znWq"
+      },
+      "artists": [
+        {
+          "name": "Bone China",
+          "url": "https://open.spotify.com/artist/4I1YcszhhE7Uq09zbZ1Yzw"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141146,
+      "name": "Heaven Now",
+      "url": "https://open.spotify.com/track/6754QvJuh7U1XbvgGPhPNv"
+    },
+    {
+      "album": {
+        "name": "Heaven Now",
         "url": "https://open.spotify.com/album/2kmYn1KCIPzum8qkEXDIAk"
       },
       "artists": [
@@ -27732,7 +27768,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 192000,
       "name": "I don't recognise you anymore",
       "url": "https://open.spotify.com/track/0Iy039DDtbSrPwLXO8rsru"
@@ -31462,7 +31498,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 169872,
       "name": "It's Not You It's Him",
       "url": "https://open.spotify.com/track/5GliRrmzhcTZyXCl0EXBC1"
@@ -32972,6 +33008,24 @@
       "duration_ms": 236590,
       "name": "Kingpin\u2019s Achilles",
       "url": "https://open.spotify.com/track/6AAdJaI4hINLMIP2G40mhJ"
+    },
+    {
+      "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/1df0NvHlwnX5peFGyDIFc1"
+      },
+      "artists": [
+        {
+          "name": "Opal Mag",
+          "url": "https://open.spotify.com/artist/04DSTB4v2Gskr37xC4uaAD"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167133,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/4eRvcOIivwd85jYXhWdsmP"
     },
     {
       "album": {
@@ -35426,7 +35480,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 206799,
       "name": "looking at the same moon",
       "url": "https://open.spotify.com/track/6Fvn4scpz7HnLzCy3iiiLq"
@@ -42184,7 +42238,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 209679,
       "name": "Nothing in it for me",
       "url": "https://open.spotify.com/track/328qniA976epLuTZXzCkwd"
@@ -46146,7 +46200,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 219406,
       "name": "Please, Don't Wake Me",
       "url": "https://open.spotify.com/track/5klM0moZLMUCaAgLDO0jJ7"
@@ -56324,7 +56378,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 246474,
       "name": "Sweet Relief",
       "url": "https://open.spotify.com/track/18fuBY1bNWMRgawQ7ThJxh"
@@ -59228,6 +59282,28 @@
       "duration_ms": 186432,
       "name": "Third Time Lucky",
       "url": "https://open.spotify.com/track/49HgyKaneQrj1YeJp6OvUC"
+    },
+    {
+      "album": {
+        "name": "thirty degrees.",
+        "url": "https://open.spotify.com/album/5YScMSTEjAYVJAg6KuOcR1"
+      },
+      "artists": [
+        {
+          "name": "Floetic",
+          "url": "https://open.spotify.com/artist/65DpzULsU41SimkMyFx72v"
+        },
+        {
+          "name": "db.",
+          "url": "https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "thirty degrees.",
+      "url": "https://open.spotify.com/track/2JkHcevzr1noJyFSSgA6me"
     },
     {
       "album": {
@@ -62819,6 +62895,24 @@
     },
     {
       "album": {
+        "name": "water",
+        "url": "https://open.spotify.com/album/6UIyuCnj5rRIybG7JDH1xo"
+      },
+      "artists": [
+        {
+          "name": "Jack Patchett",
+          "url": "https://open.spotify.com/artist/1jxl5bUGSeYcwV7U0MAXv5"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "water",
+      "url": "https://open.spotify.com/track/0MqOAxDNm7IOFoGXr1hfzn"
+    },
+    {
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/62C1fLjI1lFUaxKxXKzwFN"
       },
@@ -65528,6 +65622,24 @@
       "duration_ms": 203301,
       "name": "Yellow Line",
       "url": "https://open.spotify.com/track/3kzzVvFsf6hFRhKo8rdsxD"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/4lL6KbnzIcJuV2eCzozBV1"
+      },
+      "artists": [
+        {
+          "name": "Tom Everett",
+          "url": "https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188016,
+      "name": "You",
+      "url": "https://open.spotify.com/track/7G0e2YWm6ix3zrfXsU9xsU"
     },
     {
       "album": {

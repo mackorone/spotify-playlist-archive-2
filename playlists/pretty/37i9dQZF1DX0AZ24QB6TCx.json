@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 401694,
+  "num_followers": 401726,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 371859,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Ghost (Fejk\u00e1 Remix)",
         "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 283106,
       "name": "Ghost - Fejk\u00e1 Remix",
       "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 371859,
-      "name": "Movement",
-      "url": "https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "11am",
-        "url": "https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7"
-      },
-      "artists": [
-        {
-          "name": "Duke Boara",
-          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
-        }
-      ],
-      "duration_ms": 253500,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Home (Remixes)",
         "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 334867,
       "name": "Holy - Frank Wiedemann Remix",
       "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "11am",
+        "url": "https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7"
+      },
+      "artists": [
+        {
+          "name": "Duke Boara",
+          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Eyes Alive",
+        "url": "https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5"
+      },
+      "artists": [
+        {
+          "name": "HVOB",
+          "url": "https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa"
+        }
+      ],
+      "duration_ms": 365069,
+      "name": "Eyes Alive",
+      "url": "https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Downfall",
         "url": "https://open.spotify.com/album/2ts9b0wTzLd7EQoNUrGGWi"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 194434,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/6m5dRfSREMsgBZsmKSRzNX"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Eyes Alive",
-        "url": "https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5"
-      },
-      "artists": [
-        {
-          "name": "HVOB",
-          "url": "https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa"
-        }
-      ],
-      "duration_ms": 365069,
-      "name": "Eyes Alive",
-      "url": "https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5xYklmB0BvRFjPnCjd2aRv"
-      },
-      "artists": [
-        {
-          "name": "coiro",
-          "url": "https://open.spotify.com/artist/1f68J2PZcUgqpOmQbkqcJY"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 345386,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/2vaZhREadMU6ROBSiI8UXp"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "High On Beat",
         "url": "https://open.spotify.com/album/3QPo9BkrPGZMXBOa1Mv4Ql"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 206223,
       "name": "High On Beat",
       "url": "https://open.spotify.com/track/5aYlWTAGabEUzIJefZRgyW"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5xYklmB0BvRFjPnCjd2aRv"
+      },
+      "artists": [
+        {
+          "name": "coiro",
+          "url": "https://open.spotify.com/artist/1f68J2PZcUgqpOmQbkqcJY"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 345386,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/2vaZhREadMU6ROBSiI8UXp"
     }
   ],
   "unique_name": "Afterhours",

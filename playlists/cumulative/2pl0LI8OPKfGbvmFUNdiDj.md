@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-428 songs - 1 day 0 hr 0 min
+429 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Make Believe](https://open.spotify.com/track/0qHxVLpEfjoFWlwwb1jPT2) | [Penelope](https://open.spotify.com/artist/10TjnjAFoOorE5NJoomfoN) | [Make Believe](https://open.spotify.com/album/6GM16JmN7ixpHYzoMOZ0XU) | 3:56 | 2026-04-04 |  |
 | [make it work \(interlude\)](https://open.spotify.com/track/27riDY0FZMGNIrJE3wjAQB) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:40 | 2025-12-26 | 2026-01-25 |
 | [Marijuana Blues](https://open.spotify.com/track/5d5SmkTY9V0cPeuwJtCmPF) | [Gaz Kelly](https://open.spotify.com/artist/54GFxKUpAbaUPNkQKT2A7Q) | [Marijuana Blues](https://open.spotify.com/album/5DsQGDFsghYiHftfKqt1Be) | 3:23 | 2025-11-17 | 2026-01-05 |
+| [Mario Kart at Amy's Apartment](https://open.spotify.com/track/4KuCGB4hLRw8PMHnuzWVxS) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Emoticon](https://open.spotify.com/album/1ixiBOAbg2UXTxh5wf0Jj9) | 3:37 | 2026-04-21 |  |
 | [Maryjane](https://open.spotify.com/track/0CWzSOcdlhSB1XhfQOsndm) | [Perxo](https://open.spotify.com/artist/0fbe9EfOcFVBKWyPX4GXrk) | [Maryjane](https://open.spotify.com/album/3vgROf3t4kmic0I50Y8krM) | 3:02 | 2025-12-20 | 2026-01-15 |
 | [Masta Plan](https://open.spotify.com/track/29HloLROxM5upDdZwGZNQI) | [Zeke Saadiq](https://open.spotify.com/artist/2sjFTV4Yj1PpwHP3UJmi0d), [Lana Lotus](https://open.spotify.com/artist/12LQ3pCmfxZXHrW4ULwMaM), [Wizeguy Collective](https://open.spotify.com/artist/39eU8w4KpyiTiN5aUGCo3z) | [The Wizeguy MixTape](https://open.spotify.com/album/42KQbGiza0RUx7q0b5g7VP) | 3:16 | 2026-01-01 | 2026-01-25 |
 | [Mein Block](https://open.spotify.com/track/0cHc5tyUQ1PkOCgz5kLmxc) | [DCI Dashcam](https://open.spotify.com/artist/6cL9wQrj7bdDnYtM6aeyRV) | [Mein Block](https://open.spotify.com/album/7zwRE5aoBDcuYBOzlENOxU) | 2:27 | 2025-12-25 | 2026-01-15 |

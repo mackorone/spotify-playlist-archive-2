@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 107159,
+  "num_followers": 107174,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "Gozo Yo Quer\u00eda",
+        "url": "https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Gozo Yo Quer\u00eda",
+      "url": "https://open.spotify.com/track/6WBzmHtKqAcv295zwIWwa6"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "Sublime Gracia",
         "url": "https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Gozo Yo Quer\u00eda",
-        "url": "https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7"
+        "name": "Mi Canto",
+        "url": "https://open.spotify.com/album/3g50FSDPFIWq8faoEtUyKx"
       },
       "artists": [
         {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+          "name": "Antonio y Joel Con Labranza",
+          "url": "https://open.spotify.com/artist/3UDEikwpkDlVfELpX7kM6z"
         }
       ],
-      "duration_ms": 195760,
-      "name": "Gozo Yo Quer\u00eda",
-      "url": "https://open.spotify.com/track/6WBzmHtKqAcv295zwIWwa6"
+      "duration_ms": 225870,
+      "name": "Que Estes Presente",
+      "url": "https://open.spotify.com/track/6RYEaMxLgyopcSMR98exqu"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -403,22 +419,6 @@
       "duration_ms": 201633,
       "name": "Salvame",
       "url": "https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Mi Canto",
-        "url": "https://open.spotify.com/album/3g50FSDPFIWq8faoEtUyKx"
-      },
-      "artists": [
-        {
-          "name": "Antonio y Joel Con Labranza",
-          "url": "https://open.spotify.com/artist/3UDEikwpkDlVfELpX7kM6z"
-        }
-      ],
-      "duration_ms": 225870,
-      "name": "Que Estes Presente",
-      "url": "https://open.spotify.com/track/6RYEaMxLgyopcSMR98exqu"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Ped\u00ed Un Deseo",
-        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
-      },
-      "artists": [
-        {
-          "name": "Yaronk Rouse",
-          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
-        }
-      ],
-      "duration_ms": 196156,
-      "name": "Ped\u00ed Un Deseo",
-      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Esencia (Versi\u00f3n Salsa)",
         "url": "https://open.spotify.com/album/2ofOuRNGyk0uG63GgAVqC5"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 267769,
       "name": "Antes Que Salga El Sol - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/6Ya4oYH9PgKiYzoHiajM9P"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Ped\u00ed Un Deseo",
+        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
+      },
+      "artists": [
+        {
+          "name": "Yaronk Rouse",
+          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
+        }
+      ],
+      "duration_ms": 196156,
+      "name": "Ped\u00ed Un Deseo",
+      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Mec\u00e1nico",
-        "url": "https://open.spotify.com/album/2VDjp95mLNDABNI9G2NNkU"
-      },
-      "artists": [
-        {
-          "name": "David Muguercia",
-          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
-        }
-      ],
-      "duration_ms": 179170,
-      "name": "Mec\u00e1nico",
-      "url": "https://open.spotify.com/track/76KXw6LImaUZKAn6YPceNq"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Grande y Maravillosas Son Tus Obras",
         "url": "https://open.spotify.com/album/14kFQmxzWMlUTQiZUOttWC"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 246919,
       "name": "Grande y Maravillosas Son Tus Obras",
       "url": "https://open.spotify.com/track/1QyOxWPY0hOMWV7yEuk4cq"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Mec\u00e1nico",
+        "url": "https://open.spotify.com/album/2VDjp95mLNDABNI9G2NNkU"
+      },
+      "artists": [
+        {
+          "name": "David Muguercia",
+          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
+        }
+      ],
+      "duration_ms": 179170,
+      "name": "Mec\u00e1nico",
+      "url": "https://open.spotify.com/track/76KXw6LImaUZKAn6YPceNq"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rafael",
+          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
+        }
+      ],
+      "duration_ms": 268613,
+      "name": "Sinceridad",
+      "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "LA CARRERA",
         "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 177605,
       "name": "LA CARRERA",
       "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
-      },
-      "artists": [
-        {
-          "name": "Jhonny Rafael",
-          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
-        }
-      ],
-      "duration_ms": 268613,
-      "name": "Sinceridad",
-      "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Consejos",
-        "url": "https://open.spotify.com/album/1B2IQoytSybgbWJFqgGlS2"
-      },
-      "artists": [
-        {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
-        },
-        {
-          "name": "Diamnd El Cientifico",
-          "url": "https://open.spotify.com/artist/6cO9lHBHUhwyLxcEuasjWe"
-        }
-      ],
-      "duration_ms": 221588,
-      "name": "Consejos",
-      "url": "https://open.spotify.com/track/68Jf7rJm0abIMKXBNO1og6"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "La Criolla",
         "url": "https://open.spotify.com/album/3UlKZOXdj6lqe9eyssrjFP"
       },
@@ -1183,22 +1163,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/07qYY30VHBfIzrmcPHhinF"
+        "name": "Consejos",
+        "url": "https://open.spotify.com/album/1B2IQoytSybgbWJFqgGlS2"
       },
       "artists": [
         {
-          "name": "Unified Sound",
-          "url": "https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf"
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
         },
         {
-          "name": "Abraham Velazquez",
-          "url": "https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu"
+          "name": "Diamnd El Cientifico",
+          "url": "https://open.spotify.com/artist/6cO9lHBHUhwyLxcEuasjWe"
         }
       ],
-      "duration_ms": 201002,
-      "name": "Agua Viva",
-      "url": "https://open.spotify.com/track/57QsDbFcH7Md73qWnpUeuc"
+      "duration_ms": 221588,
+      "name": "Consejos",
+      "url": "https://open.spotify.com/track/68Jf7rJm0abIMKXBNO1og6"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1215,6 +1195,26 @@
       "duration_ms": 188429,
       "name": "Bendita Prueba",
       "url": "https://open.spotify.com/track/77Kn707gltWkmNxh1Ab7x9"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/07qYY30VHBfIzrmcPHhinF"
+      },
+      "artists": [
+        {
+          "name": "Unified Sound",
+          "url": "https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf"
+        },
+        {
+          "name": "Abraham Velazquez",
+          "url": "https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu"
+        }
+      ],
+      "duration_ms": 201002,
+      "name": "Agua Viva",
+      "url": "https://open.spotify.com/track/57QsDbFcH7Md73qWnpUeuc"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "M\u00e1s de Una Vez",
-        "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
-      },
-      "artists": [
-        {
-          "name": "Soly",
-          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
-        }
-      ],
-      "duration_ms": 173332,
-      "name": "M\u00e1s de Una Vez",
-      "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Agarra La Bendici\u00f3n",
         "url": "https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 191447,
       "name": "Agarra La Bendici\u00f3n",
       "url": "https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "M\u00e1s de Una Vez",
+        "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
+      },
+      "artists": [
+        {
+          "name": "Soly",
+          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
+        }
+      ],
+      "duration_ms": 173332,
+      "name": "M\u00e1s de Una Vez",
+      "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Hay Una Fuente en M\u00ed",
-        "url": "https://open.spotify.com/album/3BDABEty1E3KBpE3GjXgiY"
-      },
-      "artists": [
-        {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Hay Una Fuente en M\u00ed",
-      "url": "https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "SOL",
         "url": "https://open.spotify.com/album/05XeZ32oWQ7sBFZRCkWSOr"
       },
@@ -1375,6 +1359,38 @@
       "duration_ms": 178909,
       "name": "SOL",
       "url": "https://open.spotify.com/track/6cky0fBq1ZS7VvTX8pmUCK"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Hay Una Fuente en M\u00ed",
+        "url": "https://open.spotify.com/album/3BDABEty1E3KBpE3GjXgiY"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Hay Una Fuente en M\u00ed",
+      "url": "https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/4EzCYYPYJhbpVVVYoNj1xy"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Real",
+          "url": "https://open.spotify.com/artist/3CRjPCbwgcnkxwVZYQqgcu"
+        }
+      ],
+      "duration_ms": 185598,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/1tInXqQ3A80Y8IUonZOHM1"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1399,22 +1415,6 @@
       "duration_ms": 161000,
       "name": "Me Dejo Llevar",
       "url": "https://open.spotify.com/track/02GImCAVTR7qOfzBpT7qIj"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/4EzCYYPYJhbpVVVYoNj1xy"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Real",
-          "url": "https://open.spotify.com/artist/3CRjPCbwgcnkxwVZYQqgcu"
-        }
-      ],
-      "duration_ms": 185598,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/1tInXqQ3A80Y8IUonZOHM1"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1559,8 +1559,8 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Cantemos con alegr\u00eda",
-        "url": "https://open.spotify.com/album/11hpTepACo12ED6IOrNiQB"
+        "name": "Al ritmo del Esp\u00edritu de Dios",
+        "url": "https://open.spotify.com/album/4hzynhzd2QNuf221J1dKXj"
       },
       "artists": [
         {
@@ -1568,9 +1568,9 @@
           "url": "https://open.spotify.com/artist/0e3gPGSlQZEcsaohevhUMt"
         }
       ],
-      "duration_ms": 285076,
-      "name": "Juntos como hermanos / Que alegr\u00eda / Vienen con alegr\u00eda",
-      "url": "https://open.spotify.com/track/4gLefdqjcYj8fwLWLF81jw"
+      "duration_ms": 219688,
+      "name": "Al ritmo del Esp\u00edritu de Dios",
+      "url": "https://open.spotify.com/track/5ZT3qvf2KcmBrxMbOR0OtA"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1643,8 +1643,8 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Al ritmo del Esp\u00edritu de Dios",
-        "url": "https://open.spotify.com/album/4hzynhzd2QNuf221J1dKXj"
+        "name": "Cantemos con alegr\u00eda",
+        "url": "https://open.spotify.com/album/11hpTepACo12ED6IOrNiQB"
       },
       "artists": [
         {
@@ -1652,25 +1652,9 @@
           "url": "https://open.spotify.com/artist/0e3gPGSlQZEcsaohevhUMt"
         }
       ],
-      "duration_ms": 219688,
-      "name": "Al ritmo del Esp\u00edritu de Dios",
-      "url": "https://open.spotify.com/track/5ZT3qvf2KcmBrxMbOR0OtA"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Me Siento Libre",
-        "url": "https://open.spotify.com/album/7sdoXJL0QM5ybxdZfcd1lQ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 189247,
-      "name": "Me Siento Libre",
-      "url": "https://open.spotify.com/track/20AahfaNpsuIz9He5tWe7Q"
+      "duration_ms": 285076,
+      "name": "Juntos como hermanos / Que alegr\u00eda / Vienen con alegr\u00eda",
+      "url": "https://open.spotify.com/track/4gLefdqjcYj8fwLWLF81jw"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1699,6 +1683,22 @@
       "duration_ms": 193183,
       "name": "Solo t\u00fa",
       "url": "https://open.spotify.com/track/3D3XarTihm3hS6rsgAOPuV"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Me Siento Libre",
+        "url": "https://open.spotify.com/album/7sdoXJL0QM5ybxdZfcd1lQ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 189247,
+      "name": "Me Siento Libre",
+      "url": "https://open.spotify.com/track/20AahfaNpsuIz9He5tWe7Q"
     },
     {
       "added_at": "2026-03-29 00:09:04",

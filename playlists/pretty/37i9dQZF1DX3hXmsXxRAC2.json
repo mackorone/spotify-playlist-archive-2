@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 360590,
+  "num_followers": 360624,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -1111,18 +1111,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+        "name": "Pepe Aguilar MTV Unplugged [(MTV Unplugged) [En Vivo]]",
+        "url": "https://open.spotify.com/album/4H1UMurbDPzRjrRA5l0nNp"
       },
       "artists": [
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
         }
       ],
-      "duration_ms": 284665,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM"
+      "duration_ms": 294760,
+      "name": "Siempre en Mi Mente - MTV Unplugged [En Vivo]",
+      "url": "https://open.spotify.com/track/15eHUj2OnfDrbKiIboohEx"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1195,22 +1199,18 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Pepe Aguilar MTV Unplugged [(MTV Unplugged) [En Vivo]]",
-        "url": "https://open.spotify.com/album/4H1UMurbDPzRjrRA5l0nNp"
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
       },
       "artists": [
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
         }
       ],
-      "duration_ms": 294760,
-      "name": "Siempre en Mi Mente - MTV Unplugged [En Vivo]",
-      "url": "https://open.spotify.com/track/15eHUj2OnfDrbKiIboohEx"
+      "duration_ms": 284665,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM"
     },
     {
       "added_at": "2024-07-02 23:46:15",

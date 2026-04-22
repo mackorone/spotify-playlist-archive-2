@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-469 songs - 1 day 9 hr 23 min
+470 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Redo](https://open.spotify.com/track/1LXfNtiu99qb3H61cyI3Ge) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [バンドリ! ガールズバンドパーティ! カバコレ \(Special Selection\)](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:19 | 2022-05-17 | 2022-07-29 |
 | [Repaint](https://open.spotify.com/track/0qOEdXcgu54ojYVpJWmCtg) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Repaint](https://open.spotify.com/album/6J1E7JWTSA672DpSpRkiLQ) | 3:53 | 2023-05-30 | 2023-07-06 |
 | [Repaint](https://open.spotify.com/track/4ONakL7VOgMug2YNLLlg2i) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Repaint](https://open.spotify.com/album/0HBfHvwN912Vr7ggTW2PFP) | 3:53 | 2022-05-17 | 2022-07-28 |
+| [Resonant Strings](https://open.spotify.com/track/2hj7cpSEMt3qqjPaOPX6FO) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Resonant Strings](https://open.spotify.com/album/24hxATNKQdYiwRxwEqJGjY) | 4:00 | 2026-04-21 |  |
 | [Returns](https://open.spotify.com/track/3V8PvJTL3QUenvsUHcNFj1) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3) | 5:23 | 2022-09-20 | 2024-04-19 |
 | [Returns](https://open.spotify.com/track/3U8CdxyJKZNYUrvC9NL1Xw) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Dreamers Go!/Returns](https://open.spotify.com/album/1G4nNcQeB7NO6eQs2uzPpx) | 5:24 | 2022-05-17 | 2022-07-27 |
 | [Reweave \(Cover\)](https://open.spotify.com/track/7j0LoiDsRptCUwZJ91a3MK) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Reweave \(Cover\)](https://open.spotify.com/album/0jIRwiginvcki1AaOU6ZXF) | 3:58 | 2025-03-20 | 2026-01-03 |
@@ -373,7 +374,7 @@
 | [プライド革命](https://open.spotify.com/track/3MHOAHO1m0njLBWMp9lFwg) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection \(2\)](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 3:58 | 2022-05-17 | 2026-03-28 |
 | [ホーミー・タイッ！！](https://open.spotify.com/track/7xDPmQoY2vlr05ys49NO0j) | [一家Dumb Rock!](https://open.spotify.com/artist/36BahzMmQXSN4VjykiWUlH) | [ホーミー・タイッ！！](https://open.spotify.com/album/7DDeXJyQ0yLTmy0RyjZNh6) | 3:35 | 2026-03-05 |  |
 | [ミライトレイン](https://open.spotify.com/track/68NLAMcxHcRkBWxPgadrqC) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5TLIFj3J5Ro4mlbb2l8a91) | 5:55 | 2022-05-17 | 2022-07-26 |
-| [メランコリックララバイ](https://open.spotify.com/track/61os2N4PtLf4s5ojzbpU9d) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:36 | 2023-03-14 |  |
+| [メランコリックララバイ](https://open.spotify.com/track/61os2N4PtLf4s5ojzbpU9d) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:36 | 2023-03-14 | 2026-04-22 |
 | [ラスハピーポー!](https://open.spotify.com/track/0bX8x2CRgT6Am72RZ5zsgm) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up), [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs](https://open.spotify.com/album/6E9PhFn4SWpwlNSDJ4JDo1) | 3:20 | 2022-05-17 | 2022-07-29 |
 | [ラムのラブソング \- Cover](https://open.spotify.com/track/1XQ1kHnmJ7dR7rq2QOtCJs) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 2:42 | 2024-03-23 | 2025-09-28 |
 | [ランブリングメモリー](https://open.spotify.com/track/352gplUuCEr46jVV5Mm628) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 5:24 | 2023-12-12 | 2024-01-09 |

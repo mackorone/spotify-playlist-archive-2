@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Day Limns",
-  "num_followers": 362508,
+  "num_followers": 362487,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-04-17 03:00:47",
       "album": {
-        "name": "antes que voc\u00ea v\u00e1",
-        "url": "https://open.spotify.com/album/6mDrodmxlJCr9iAFnEnDxD"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 160284,
-      "name": "antes que voc\u00ea v\u00e1",
-      "url": "https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD"
-    },
-    {
-      "added_at": "2026-04-17 03:00:47",
-      "album": {
         "name": "Fim Do Mundo",
         "url": "https://open.spotify.com/album/4awLAGhKdYZx9vi4tneHEe"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 148571,
       "name": "Fim Do Mundo",
       "url": "https://open.spotify.com/track/1TXGRZDEFUtF58mLjsB5Gm"
+    },
+    {
+      "added_at": "2026-04-17 03:00:47",
+      "album": {
+        "name": "antes que voc\u00ea v\u00e1",
+        "url": "https://open.spotify.com/album/6mDrodmxlJCr9iAFnEnDxD"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 160284,
+      "name": "antes que voc\u00ea v\u00e1",
+      "url": "https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD"
     },
     {
       "added_at": "2026-04-17 03:00:47",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-04-17 03:00:47",
       "album": {
-        "name": "Se o Meu Peito Fosse o Mundo",
-        "url": "https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 211658,
-      "name": "Quem \u00c9 Ju\u00e3o",
-      "url": "https://open.spotify.com/track/4dDCIWde4PQDAf7TnaoqQP"
-    },
-    {
-      "added_at": "2026-04-17 03:00:47",
-      "album": {
         "name": "Tudo o que eu preciso",
         "url": "https://open.spotify.com/album/4qgcTa8MFq2CTcY39Wlftz"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 182064,
       "name": "Tudo o que eu preciso",
       "url": "https://open.spotify.com/track/6EuZGtqXcAfejal7Ghvtrw"
+    },
+    {
+      "added_at": "2026-04-17 03:00:47",
+      "album": {
+        "name": "Se o Meu Peito Fosse o Mundo",
+        "url": "https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 211658,
+      "name": "Quem \u00c9 Ju\u00e3o",
+      "url": "https://open.spotify.com/track/4dDCIWde4PQDAf7TnaoqQP"
     },
     {
       "added_at": "2026-04-17 03:00:47",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-04-17 03:00:47",
       "album": {
-        "name": "no seu tempo",
-        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 158922,
-      "name": "no seu tempo",
-      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
-    },
-    {
-      "added_at": "2026-04-17 03:00:47",
-      "album": {
         "name": "Manh\u00e3 de Sol",
         "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 181666,
       "name": "Manh\u00e3 de Sol",
       "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
+    },
+    {
+      "added_at": "2026-04-17 03:00:47",
+      "album": {
+        "name": "no seu tempo",
+        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 158922,
+      "name": "no seu tempo",
+      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
     },
     {
       "added_at": "2026-04-17 03:00:47",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-04-17 03:00:47",
       "album": {
+        "name": "Cadela",
+        "url": "https://open.spotify.com/album/4JUoSnqGilwi1dk1HTQlUX"
+      },
+      "artists": [
+        {
+          "name": "MARIA MIRANDA",
+          "url": "https://open.spotify.com/artist/7179j5OUXPbeXiLXEHtNe3"
+        }
+      ],
+      "duration_ms": 197414,
+      "name": "Cadela",
+      "url": "https://open.spotify.com/track/2SnRx1PETbpkY7vDPSP78n"
+    },
+    {
+      "added_at": "2026-04-17 03:00:47",
+      "album": {
         "name": "G\u00caMEOS EM G\u00caMEOS",
         "url": "https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 188400,
       "name": "Energy",
       "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
-    },
-    {
-      "added_at": "2026-04-17 03:00:47",
-      "album": {
-        "name": "Cadela",
-        "url": "https://open.spotify.com/album/4JUoSnqGilwi1dk1HTQlUX"
-      },
-      "artists": [
-        {
-          "name": "MARIA MIRANDA",
-          "url": "https://open.spotify.com/artist/7179j5OUXPbeXiLXEHtNe3"
-        }
-      ],
-      "duration_ms": 197414,
-      "name": "Cadela",
-      "url": "https://open.spotify.com/track/2SnRx1PETbpkY7vDPSP78n"
     },
     {
       "added_at": "2026-04-17 03:00:47",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-04-17 03:00:47",
       "album": {
-        "name": "GPS",
-        "url": "https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
-    },
-    {
-      "added_at": "2026-04-17 03:00:47",
-      "album": {
         "name": "nada s\u00e9rio",
         "url": "https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 166153,
       "name": "nada s\u00e9rio",
       "url": "https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw"
+    },
+    {
+      "added_at": "2026-04-17 03:00:47",
+      "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
     },
     {
       "added_at": "2026-04-17 03:00:47",

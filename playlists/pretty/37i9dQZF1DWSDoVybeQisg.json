@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1253880,
+  "num_followers": 1253960,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Classic Yardbirds Vol.1",
+        "url": "https://open.spotify.com/album/5vgLTfGzgr1UQq6pd3bU0U"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        }
+      ],
+      "duration_ms": 145960,
+      "name": "Shapes Of Things",
+      "url": "https://open.spotify.com/track/3xYMN0fbQkyJfofjsufO7b"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "The Best Of Ten Years After",
         "url": "https://open.spotify.com/album/23K9VQeaaFKzmyEg2Z4V0u"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 223960,
       "name": "I'd Love To Change The World",
       "url": "https://open.spotify.com/track/3s9ri7hKv6ijDn2k89veEU"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "When You're Strange (Songs From The Motion Picture)",
-        "url": "https://open.spotify.com/album/6gXup4LBaeG6bkuJSznYCI"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 265080,
-      "name": "Five To One",
-      "url": "https://open.spotify.com/track/4IxCudQYUrgPu6qVrwnB5p"
     },
     {
       "added_at": "2024-07-12 17:17:21",

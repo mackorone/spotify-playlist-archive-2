@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Big Soto, Danny Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,496 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,362 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 36 | [Vienes y Te Vas \(Casa Sole\)](https://open.spotify.com/track/75eN2NWi9OsV4HvkPtzRSm) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Vienes y Te Vas \(Casa Sole\)](https://open.spotify.com/album/54fqrvl7oLdfH43MGZaITk) | 3:13 |
 | 37 | [Beijei A Cura \- Ao Vivo](https://open.spotify.com/track/2GY3DHh5ApNhnkYSjh9Bc8) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [O Décimo Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/01RN9v5oNWXowBVShhHmzV) | 3:03 |
 | 38 | [PERREO LLORANDO](https://open.spotify.com/track/44n0bJGRKc0aaKsYXZGq06) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [AMOR & DROGA](https://open.spotify.com/album/2nEcbAjssahw9l2VdiZswg) | 3:08 |
-| 39 | [Cielo Azul](https://open.spotify.com/track/4udS1ThVIEG1CGnBeHXRnk) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi), [Baha Men](https://open.spotify.com/artist/67FFKYikvTlvsPNk4NPOYJ), [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Cielo Azul](https://open.spotify.com/album/2jcmlPB21I0tc4LXvxg8i0) | 4:33 |
+| 39 | [Cielo Azul](https://open.spotify.com/track/4udS1ThVIEG1CGnBeHXRnk) | [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Baha Men](https://open.spotify.com/artist/67FFKYikvTlvsPNk4NPOYJ), [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Cielo Azul](https://open.spotify.com/album/2jcmlPB21I0tc4LXvxg8i0) | 4:33 |
 | 40 | [MALPARIDO](https://open.spotify.com/track/4wjIqViyNbifMldqFsdZk2) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [AMOR FIADO](https://open.spotify.com/album/6EPWuQUeAaRp61S8qG0fri) | 3:10 |
 | 41 | [Focu 'Ranni](https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX \(Complete Works\)](https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU) | 2:50 |
 | 42 | [Que Sera de Mi](https://open.spotify.com/track/5UfTbEVt1E1gbJMTOq862v) | [Baby Rasta y Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Antes del Romance...\[Unplugged\]](https://open.spotify.com/album/3WDB0IKOLPgDGIHq8OXYSH) | 4:02 |

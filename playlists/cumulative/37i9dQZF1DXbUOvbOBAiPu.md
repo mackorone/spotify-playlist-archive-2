@@ -4,7 +4,7 @@
 
 > New music from Camille Yembe, The Strokes, Lady Gaga x Doechii, Gradur x Ninho and more...
 
-9,241 songs - 20 day 6 hr 36 min
+9,242 songs - 20 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4219,6 +4219,7 @@
 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 | 2024-11-28 | 2024-12-06 |
 | [KING VON](https://open.spotify.com/track/6MmIzStC3FpF2u9L7KOMze) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [KING VON](https://open.spotify.com/album/6HJX3L3feufkBfZk7kzpP9) | 3:17 | 2025-12-18 | 2026-01-02 |
 | [Kingdom](https://open.spotify.com/track/6228KI8b8wv0lGFzgrDK84) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Kingdom](https://open.spotify.com/album/3g96RyhX27VhLMMcPcahHT) | 3:07 | 2026-01-09 | 2026-01-16 |
+| [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 | 2026-04-16 |  |
 | [Kings of the Night](https://open.spotify.com/track/632CF5Z7MtpbjBzS6yjqtZ) | [Scars on Louise](https://open.spotify.com/artist/6OLolKvyW09TJNGrvCdsSd) | [TRINITY x BODY](https://open.spotify.com/album/6tCgyb5wI79xBHD5LzEKOL) | 2:34 | 2024-10-24 | 2024-11-01 |
 | [Kinky](https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Kinky](https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN) | 2:14 | 2024-07-19 | 2024-07-27 |
 | [KINTSUGI feat\. Koie](https://open.spotify.com/track/4mOGeF0xI6dThLtCkB1jbn) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ), [Koie](https://open.spotify.com/artist/35yfozzh2wqgabWuz3d0AC) | [KINTSUGI feat\. Koie](https://open.spotify.com/album/2zxxqSTBxBJ8YHuz2Q8NKy) | 3:23 | 2026-03-26 | 2026-04-03 |

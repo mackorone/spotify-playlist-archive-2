@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 72296,
+  "num_followers": 72309,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-04-20 14:31:08",
       "album": {
+        "name": "Ainda \u00e9 pouco",
+        "url": "https://open.spotify.com/album/1m2nWpGkENRy7whHk6REol"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 174377,
+      "name": "Ainda \u00e9 pouco",
+      "url": "https://open.spotify.com/track/6AGC7ecYM61Mbpw3g9akOB"
+    },
+    {
+      "added_at": "2026-04-20 14:31:08",
+      "album": {
         "name": "(Des)conectar",
         "url": "https://open.spotify.com/album/57phCII157BEvM0camoMvd"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 163240,
       "name": "Dava Praia",
       "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
-    },
-    {
-      "added_at": "2026-04-20 14:31:08",
-      "album": {
-        "name": "Ainda \u00e9 pouco",
-        "url": "https://open.spotify.com/album/1m2nWpGkENRy7whHk6REol"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 174377,
-      "name": "Ainda \u00e9 pouco",
-      "url": "https://open.spotify.com/track/6AGC7ecYM61Mbpw3g9akOB"
     },
     {
       "added_at": "2026-04-20 14:31:08",

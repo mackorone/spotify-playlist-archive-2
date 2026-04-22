@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Skolim, BLANKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,972 likes - 65 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,007 likes - 65 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 15 | [Do Końca Dni](https://open.spotify.com/track/7ELp0ZdB87mvVupvWUDoov) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [Do Końca Dni](https://open.spotify.com/album/3rb5K0ms8c8AzXU3ceoIZw) | 3:44 |
 | 16 | [DZIŚ SOBIE DAM](https://open.spotify.com/track/5xLyZIFsmew0xUhEJQYNJj) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [DZIŚ SOBIE DAM](https://open.spotify.com/album/2pqlWiXuaQM6gD05K2e3EP) | 2:47 |
 | 17 | [Szerokości!](https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8) | [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Szerokości!](https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU) | 2:37 |
-| 18 | [Strach](https://open.spotify.com/track/7oOc4hJOT5914sOc6W4SgG) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [DOPEHOUSE](https://open.spotify.com/artist/1jGFwoIhmjGm0VMXTsi3dN), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Strach](https://open.spotify.com/album/2Qn2P4QEFyGaf8vO9v4SDZ) | 2:34 |
+| 18 | [Strach](https://open.spotify.com/track/7oOc4hJOT5914sOc6W4SgG) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Strach](https://open.spotify.com/album/2Qn2P4QEFyGaf8vO9v4SDZ) | 2:34 |
 | 19 | [Nie ucieknę](https://open.spotify.com/track/18qEhJZR4hnkq9p3duOErV) | [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Nie ucieknę](https://open.spotify.com/album/3FNrAC8JpdyitVzVTmGOxk) | 2:57 |
 | 20 | [Okruchy złota](https://open.spotify.com/track/66JwCK93hXqjfRb5BVFF8c) | [Marika](https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR), [Paweł Domagała](https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2) | [Okruchy złota](https://open.spotify.com/album/1zgs8rbLWIF352p2gPZE0d) | 3:10 |
 | 21 | [Trzy razy bardziej](https://open.spotify.com/track/0eR77P8QY3qAH9JCidfHxf) | [Hania Kuzimowicz](https://open.spotify.com/artist/2z0LDef08JN0VpXdzrZIvJ), [The Voice of Poland](https://open.spotify.com/artist/0tu7LpFeEMuCPewcudUKG4) | [Trzy razy bardziej](https://open.spotify.com/album/0k6r6cVmXykoawcweiKtpv) | 2:29 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 45 | [Czemu pozwoliłeś kochać?](https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Czemu pozwoliłeś kochać?](https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx) | 2:30 |
 | 46 | [Oj, dziewczyno!](https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Oj, dziewczyno!](https://open.spotify.com/album/2W9qJtY9eFjT5P2iJpbUqw) | 2:38 |
 | 47 | [Zabierz mnie](https://open.spotify.com/track/3l4SiHIrsbFqVW1xjWZk6W) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Szkic i kontury](https://open.spotify.com/album/55Uor5uEjfvg4XaGmelGrv) | 3:17 |
-| 48 | [Nad nami](https://open.spotify.com/track/5vDQgKe5zbd52tpoiYY5cD) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak), [DOPEHOUSE](https://open.spotify.com/artist/1jGFwoIhmjGm0VMXTsi3dN) | [Nad nami](https://open.spotify.com/album/7wNbx0fQUXnJAD5Pt5h4ul) | 2:36 |
+| 48 | [Nad nami](https://open.spotify.com/track/5vDQgKe5zbd52tpoiYY5cD) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Nad nami](https://open.spotify.com/album/7wNbx0fQUXnJAD5Pt5h4ul) | 2:36 |
 | 49 | [BOGINI](https://open.spotify.com/track/1TRFmiIBVLIVGfq9bjFFFY) | [Siles](https://open.spotify.com/artist/3eXp28Gf4fOTq0HH1wK2ul), [MaRina](https://open.spotify.com/artist/5RYLofQHxZcrEl9Bl23MCS), [Albert RCB](https://open.spotify.com/artist/2suB8DxwVd3W7nXcZkLRZc) | [BOGINI](https://open.spotify.com/album/7g70C1QuSehGgbEWtpXL67) | 2:37 |
 | 50 | [Błękit](https://open.spotify.com/track/2MCf7Lv6OKjbozB5U1YdNC) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Błękit](https://open.spotify.com/album/6AwIsJm2zgnyojCJXvQ1xM) | 2:28 |
 | 51 | [OCH MAMA](https://open.spotify.com/track/4o57q3MdpFK1sQfFfbPJDD) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg) | [OCH MAMA](https://open.spotify.com/album/2GHOQa6Y4opBFDsqzfEa6L) | 2:50 |

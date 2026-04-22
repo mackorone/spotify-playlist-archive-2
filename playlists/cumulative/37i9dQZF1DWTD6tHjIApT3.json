@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u4e43\u7d2b",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u671b\u6708\u30d2\u30ca\u30bf",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -4956,7 +4956,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 183679,
       "name": "blue hour",
       "url": "https://open.spotify.com/track/2VezAeFgaa9IFRChV9wEPf"
@@ -6792,7 +6792,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 223288,
       "name": "chocolate",
       "url": "https://open.spotify.com/track/64gfslfX6S195ZLB3hD4kp"
@@ -8817,6 +8817,24 @@
     },
     {
       "album": {
+        "name": "Diamonds in the Sky",
+        "url": "https://open.spotify.com/album/6SC1rulRuCQizgLJVS2zHN"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185031,
+      "name": "Diamonds in the Sky",
+      "url": "https://open.spotify.com/track/6B0ddCksLT3kXUtgZnExBC"
+    },
+    {
+      "album": {
         "name": "Diary 9",
         "url": "https://open.spotify.com/album/6Q1sJjqEGKYf3hS1hJwpO4"
       },
@@ -10040,6 +10058,24 @@
       "duration_ms": 197689,
       "name": "ELECTRONIC FREEEEE!!!",
       "url": "https://open.spotify.com/track/14qoo6TcHkiPjtsyTPJLw0"
+    },
+    {
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/779N1kw7wTUE33EuZug3rr"
+      },
+      "artists": [
+        {
+          "name": "\u671b\u6708\u30d2\u30ca\u30bf",
+          "url": "https://open.spotify.com/artist/4VGKxbTlK8S2rHhrR6oLh9"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189439,
+      "name": "Elevated",
+      "url": "https://open.spotify.com/track/0auzTKGIHtSIQmtzMLTPPM"
     },
     {
       "album": {
@@ -15320,7 +15356,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 254226,
       "name": "Hozuki",
       "url": "https://open.spotify.com/track/1lCCTGQu3ufl0HeEBmyeYk"
@@ -37641,6 +37677,24 @@
     },
     {
       "album": {
+        "name": "adieu 5",
+        "url": "https://open.spotify.com/album/0QjehC8JRwSK8vl4D7a20k"
+      },
+      "artists": [
+        {
+          "name": "adieu",
+          "url": "https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269797,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/5LfvepSIF8IWxYbEVyXtiy"
+    },
+    {
+      "album": {
         "name": "UP TO ME!",
         "url": "https://open.spotify.com/album/7hBsU35JlTGaVv5lwaxBli"
       },
@@ -50970,7 +51024,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 241133,
       "name": "\u30c9\u30ec\u30b9\u30b3\u30fc\u30c9",
       "url": "https://open.spotify.com/track/6vOOQuIrxAxSnHlEr0W5jy"
@@ -51398,6 +51452,24 @@
       "duration_ms": 195464,
       "name": "\u30cf\u30fc\u30c9\u30c7\u30a4\u30ba\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/7lZO05uPQiy8HyVv03r93G"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30fc\u30e2\u30cb\u30fc",
+        "url": "https://open.spotify.com/album/7zXJAAal6WqBhADoHsHrx1"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233095,
+      "name": "\u30cf\u30fc\u30e2\u30cb\u30fc",
+      "url": "https://open.spotify.com/track/3Gt35aibizWFiBlhlhmDgf"
     },
     {
       "album": {

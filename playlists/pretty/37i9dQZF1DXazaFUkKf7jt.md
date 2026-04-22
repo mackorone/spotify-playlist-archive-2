@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 
 > Essential tracks from masterpiece RPG series, “SaGa”\. ゲーム史の変遷と共に歩み続け30年。数々の感動を生み続けるRPG「SaGa」シリーズの名曲たちをプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,244 likes - 61 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,246 likes - 61 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 | 47 | [ローラのテーマ](https://open.spotify.com/track/4jLDwGcrJRcc9uwPldj1W1) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [【再発盤】アンリミテッド:サガ オリジナル･サウンドトラック](https://open.spotify.com/album/53EIyg5xIIc98Nu5UtlrAq) | 1:52 |
 | 48 | [天翔ける翼](https://open.spotify.com/track/1uRjc7fy1R5K7AUWD2dBjw) | [柏原 美緒](https://open.spotify.com/artist/5B4pmjcmERLSHSTNXtxaOx) | [【再発盤】アンリミテッド:サガ オリジナル･サウンドトラック](https://open.spotify.com/album/53EIyg5xIIc98Nu5UtlrAq) | 4:58 |
 | 49 | [全軍突撃!](https://open.spotify.com/track/35BolCNlK1hWAmcHalOkwA) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [インペリアル サガ オリジナル･サウンドトラック](https://open.spotify.com/album/3S0mCwgHzdQVEooAFc73CC) | 3:50 |
-| 50 | [スカーレットグレイス序曲](https://open.spotify.com/track/2rZQbElu4E1B6RiSqxv4Vy) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ スカーレット グレイス オリジナル・サウンドトラック](https://open.spotify.com/album/7yzZfAo5Fisme4h5g2gGif) | 1:55 |
-| 51 | [冥魔・堕されしものども](https://open.spotify.com/track/1xXcYbrjWXUQ91e2nyrtcG) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ スカーレット グレイス オリジナル・サウンドトラック](https://open.spotify.com/album/7yzZfAo5Fisme4h5g2gGif) | 3:30 |
-| 52 | [精霊・そこに在る力](https://open.spotify.com/track/557mlnuEZv2cNCEYIwFqXX) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ スカーレット グレイス オリジナル・サウンドトラック](https://open.spotify.com/album/7yzZfAo5Fisme4h5g2gGif) | 3:20 |
-| 53 | [魔術こそ祝福〜星神ヴァッハ](https://open.spotify.com/track/6AQ91HgHDMEdXC5JGuAgmj) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ スカーレット グレイス オリジナル・サウンドトラック](https://open.spotify.com/album/7yzZfAo5Fisme4h5g2gGif) | 3:28 |
+| 50 | [スカーレットグレイス序曲](https://open.spotify.com/track/2rZQbElu4E1B6RiSqxv4Vy) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ スカーレット グレイス オリジナル･サウンドトラック](https://open.spotify.com/album/7yzZfAo5Fisme4h5g2gGif) | 1:55 |
+| 51 | [冥魔･堕されしものども](https://open.spotify.com/track/1xXcYbrjWXUQ91e2nyrtcG) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ スカーレット グレイス オリジナル･サウンドトラック](https://open.spotify.com/album/7yzZfAo5Fisme4h5g2gGif) | 3:30 |
+| 52 | [精霊･そこに在る力](https://open.spotify.com/track/557mlnuEZv2cNCEYIwFqXX) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ スカーレット グレイス オリジナル･サウンドトラック](https://open.spotify.com/album/7yzZfAo5Fisme4h5g2gGif) | 3:20 |
+| 53 | [魔術こそ祝福～星神ヴァッハ](https://open.spotify.com/track/6AQ91HgHDMEdXC5JGuAgmj) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ スカーレット グレイス オリジナル･サウンドトラック](https://open.spotify.com/album/7yzZfAo5Fisme4h5g2gGif) | 3:28 |
 | 54 | [魔界吟遊詩 \-サガシリーズメドレー2016 \- Orchestra Version](https://open.spotify.com/track/0UTc7pnsltYVffCdLtff02) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv), [笹井隆司](https://open.spotify.com/artist/0PplMA4PXl7B4CZ6gLDlI0), [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE), [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガオケ! The Orchestral SaGa \-Legend of Music\-](https://open.spotify.com/album/3rofFCpReW06JiIoezeiBd) | 12:11 |
 | 55 | [“α”1](https://open.spotify.com/track/0ZX4mQuDzH0fjDLvqOwmwo) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [Piano Pieces “SF2” 〜 Rhapsody on a Theme of SaGa Frontier 2](https://open.spotify.com/album/4Zyl9gBcGJh5CzsWkP6ZRW) | 2:12 |
 | 56 | [“β”1](https://open.spotify.com/track/7sYiYe0pdZCHlVP0jAlJfh) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [Piano Pieces “SF2” 〜 Rhapsody on a Theme of SaGa Frontier 2](https://open.spotify.com/album/4Zyl9gBcGJh5CzsWkP6ZRW) | 2:24 |

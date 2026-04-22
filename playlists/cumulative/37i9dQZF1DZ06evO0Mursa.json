@@ -396,7 +396,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 542946,
       "name": "Cantus: Song of Tears",
       "url": "https://open.spotify.com/track/356Ba3qgYbEGfRA1zfq2i2"
@@ -2466,6 +2466,28 @@
       "duration_ms": 218520,
       "name": "The Armed Man - A Mass For Peace: X. Agnus Dei",
       "url": "https://open.spotify.com/track/4GXk1pAPmMRSyctqtgRdBc"
+    },
+    {
+      "album": {
+        "name": "The Armed Man: A Mass For Peace",
+        "url": "https://open.spotify.com/album/1CgJvRQcoKATvHRis0T3He"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205040,
+      "name": "The Armed Man - A Mass For Peace: XI. Now the Guns Have Stopped",
+      "url": "https://open.spotify.com/track/1KB0X2phFSnz1f0dWdHu2j"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 스포티파이 뮤직 에디터가 선정한 4월의 노래를 만나보세요.
 
-152 songs - 8 hr 8 min
+156 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 | 2026-03-23 |  |
 | [BOUNCE BACK \(Feat\. Jay Park\) \(Prod\. by Lil Moshpit\)](https://open.spotify.com/track/7LAehmIkKXv2ag7WoKQjcl) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Flowsik](https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Show Me The Money 12 Episode 2](https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ) | 3:48 | 2026-03-23 |  |
 | [Breathe](https://open.spotify.com/track/3rKjT23XeGg3pbqE1T1fpd) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Breathe](https://open.spotify.com/album/0hYuQ5w39NwmJkC5JN6e9C) | 2:56 | 2026-03-24 |  |
+| [Bricks n’ Mortar Shop \(SKRR GANG\)](https://open.spotify.com/track/0NVAUSpnzRO4exqx5iT0AQ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:12 | 2026-04-21 |  |
 | [BRUISE](https://open.spotify.com/track/5eYhUukI5PVCqSLOmO8Idq) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [The 3rd Digital Single BRUISE](https://open.spotify.com/album/0Hnt6Uo4wPdBvh0Yb4oSrI) | 3:17 | 2026-02-04 | 2026-03-04 |
 | [BURNING UP](https://open.spotify.com/track/6QQy6TLGFosP96SREaVaYD) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BURNING UP](https://open.spotify.com/album/0UoDQIsOArpbwoVplHKrvy) | 2:49 | 2025-12-04 | 2026-02-05 |
 | [BUSHWICK](https://open.spotify.com/track/6R05JVE3gN370icGwaAOUT) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [Detour](https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP) | 2:18 | 2026-04-06 |  |
@@ -58,6 +59,7 @@
 | [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:33 | 2026-04-06 |  |
 | [Endangered Love](https://open.spotify.com/track/06o2o3TpyR8eGU2ANK21Lp) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [EROS](https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8) | 3:40 | 2025-12-04 | 2026-02-05 |
 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 | 2025-12-04 | 2026-02-05 |
+| [ENERGY](https://open.spotify.com/track/3K6yAlZxPch65Xz69S2C8N) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:00 | 2026-04-21 |  |
 | [FAMOUS](https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 3:00 | 2025-12-04 | 2026-02-05 |
 | [Feel it Coming](https://open.spotify.com/track/0NOiX0RMUleJ3TBvR6LluM) | [xeom boi](https://open.spotify.com/artist/5DEvwmOXx50p6LUUg32t8M) | [Day 5](https://open.spotify.com/album/1vI56rynJdQnHYiRMmatfP) | 2:39 | 2026-02-04 | 2026-03-04 |
 | [First Sight](https://open.spotify.com/track/5trjbfsHbyxkcLdkq7aLN2) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [First Sight](https://open.spotify.com/album/25K852Vuj9m7hf21rKr6Ra) | 3:33 | 2025-12-04 | 2026-02-05 |
@@ -148,6 +150,7 @@
 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-12-04 | 2026-02-05 |
 | [TOO CLOSE \(feat\. Suen\)](https://open.spotify.com/track/4iW0ma7CQtJ7zBrZe0Thuh) | [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH), [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi) | [INTOXICATED](https://open.spotify.com/album/7CRoouenkq1sJfYwVxCvVG) | 2:33 | 2026-02-04 | 2026-03-04 |
 | [TOXICK](https://open.spotify.com/track/58usw15bgarns0kTKmNP9U) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [6SEOUL](https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh) | 2:18 | 2026-03-03 |  |
+| [UNCHILD](https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:28 | 2026-04-21 |  |
 | [WAGWAN](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ALL ROADS LEAD HOME](https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID) | 2:07 | 2026-04-06 |  |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2026-02-04 | 2026-03-04 |
 | [Where's My Phone?](https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Where's My Phone?](https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G) | 3:09 | 2026-03-03 |  |
@@ -157,6 +160,7 @@
 | [X room](https://open.spotify.com/track/74Htt1SSAm1YrIqPq6DfU1) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [X room](https://open.spotify.com/album/056wnSXPPiumFzfn2sUT1k) | 3:35 | 2026-04-06 |  |
 | [Yin and Yang \(Feat\. DEAN, PENOMECO\) \- FANXY CHILD Ver.](https://open.spotify.com/track/5VWjUgKTeDoX5GJGgfUSXM) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Yin and Yang \(Feat\. DEAN, PENOMECO\) \[FANXY CHILD Ver.\]](https://open.spotify.com/album/5zcPl24xa0wV5JXjzzs8oq) | 3:42 | 2026-02-04 | 2026-03-04 |
 | [You & Me \(Always Forever\)](https://open.spotify.com/track/448c5dsSpQjL7bkRLNjocK) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [You & Me \(Always Forever\)](https://open.spotify.com/album/4C1eeJfuCEclF1gqK0jdij) | 2:52 | 2026-02-04 | 2026-03-04 |
+| [You're So Fine](https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:45 | 2026-04-21 |  |
 | [너](https://open.spotify.com/track/3b4YlIUpzYs3CZ6s9GVmzT) | [SYSTEM SEOUL](https://open.spotify.com/artist/1YBOO3E40cq9VVNUHeQGDm), [ycs](https://open.spotify.com/artist/15Wmgj7GkO1EPXq9hZPnh6) | [SS\-POP](https://open.spotify.com/album/2KqaJruJkE1lPcY4tFkk4E) | 3:13 | 2025-12-04 | 2026-02-05 |
 | [아시나요](https://open.spotify.com/track/2R9rCnnSkSffuKZx2U3hLJ) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [Let Me Love](https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM) | 5:27 | 2026-02-04 | 2026-03-04 |
 | [이밤이지나면](https://open.spotify.com/track/2bAMoEukdKb0Rk4u6IcUM3) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [임재범1집](https://open.spotify.com/album/5bRAb4iY8eF180lWtfsd2n) | 4:10 | 2026-02-04 | 2026-03-04 |

@@ -2570,7 +2570,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 113834,
       "name": "bedrott",
       "url": "https://open.spotify.com/track/3rhZUqbKiA1ILhjc1LptC5"
@@ -4928,7 +4928,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 151181,
       "name": "CORTISOL",
       "url": "https://open.spotify.com/track/3oXAH2Us4uyqXggrwcolVH"
@@ -17084,7 +17084,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 102048,
       "name": "MONTAGEM PEGADORA - Slowed",
       "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
@@ -17176,7 +17176,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 105665,
       "name": "MONTAGEM SANTA FE 2",
       "url": "https://open.spotify.com/track/7EyTAAgH5jME3tKxbr8W12"
@@ -17924,7 +17924,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 166406,
       "name": "MY JEALOUSY - Slowed",
       "url": "https://open.spotify.com/track/6CJABsHyFh5uFZ72MAKTBN"
@@ -18000,7 +18000,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 228346,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/6mQRbuEmqiAf1ABQYDPwF7"
@@ -18018,7 +18018,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -23580,7 +23580,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 138565,
       "name": "SMS",
       "url": "https://open.spotify.com/track/1uOJvoXHYPly6AyvoZlOfS"
@@ -24618,6 +24618,24 @@
       "duration_ms": 180113,
       "name": "Stromae Formidable",
       "url": "https://open.spotify.com/track/4jTnvYfgh37GojyGF4q8F1"
+    },
+    {
+      "album": {
+        "name": "TOP SPOT - ANOTHER DIMENSION",
+        "url": "https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE"
+      },
+      "artists": [
+        {
+          "name": "T.O.P",
+          "url": "https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Studio54",
+      "url": "https://open.spotify.com/track/0tAIN10sCvYnjQVx3KQdRP"
     },
     {
       "album": {
@@ -28724,6 +28742,24 @@
       "duration_ms": 201293,
       "name": "Who Can It Be Now?",
       "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
+    },
+    {
+      "album": {
+        "name": "Who is she",
+        "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Who is she",
+      "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
     },
     {
       "album": {
@@ -35939,6 +35975,24 @@
     },
     {
       "album": {
+        "name": "\u041a\u0432\u0435\u0442\u043ai",
+        "url": "https://open.spotify.com/album/6MqsYOFDc03I9Gf58qiJsY"
+      },
+      "artists": [
+        {
+          "name": "\u041d\u043e\u0447\u043d\u043e\u0439 \u0420\u043e\u043c\u0430\u043d",
+          "url": "https://open.spotify.com/artist/56cxmiJaLR88LSLid0guVw"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110400,
+      "name": "\u041a\u0432\u0435\u0442\u043ai",
+      "url": "https://open.spotify.com/track/5X8SXPaF2cUY4BSEPqMTw9"
+    },
+    {
+      "album": {
         "name": "\u0417\u0430\u0441\u0442\u043e\u043b\u044c\u043d\u044b\u0435 \u041f\u0441\u0438\u0445\u043e\u0434\u0435\u043b\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041f\u0435\u0441\u043d\u0438",
         "url": "https://open.spotify.com/album/6X5eJJ6FlSu3VtZjPyXCrm"
       },
@@ -37842,7 +37896,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 123185,
       "name": "\u041c\u0438\u043c\u043e\u043b\u0435\u0442\u043d\u043e",
       "url": "https://open.spotify.com/track/4XfhpnPBH2CokcdlgJT0AX"
@@ -40176,6 +40230,24 @@
       "duration_ms": 151776,
       "name": "\u041e\u0431\u0430\u044f\u0442\u0435\u043b\u044c\u043d\u0430",
       "url": "https://open.spotify.com/track/35JmUajDbpZrskNO2m26u2"
+    },
+    {
+      "album": {
+        "name": "\u043e\u0431\u043b\u0430.\u043a\u043e\u043c",
+        "url": "https://open.spotify.com/album/0Uzj9R4S5c6Nt4evO9YyVI"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u043e\u043b\u043e\u0432\u0430",
+          "url": "https://open.spotify.com/artist/13CNLBEY8ClXpUn7qWwIpM"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "\u043e\u0431\u043b\u0430.\u043a\u043e\u043c",
+      "url": "https://open.spotify.com/track/3x7Lzu7QQWKYtF5090da5w"
     },
     {
       "album": {
@@ -45837,6 +45909,24 @@
     },
     {
       "album": {
+        "name": "\u0423\u043b\u0438\u0446\u0430 \u211664",
+        "url": "https://open.spotify.com/album/4NtNZDObaIhcBxYUQRY1cc"
+      },
+      "artists": [
+        {
+          "name": "\u043b\u0438\u043b \u043a\u0438\u0434\u0434",
+          "url": "https://open.spotify.com/artist/3Z2vHWmx7ie1caAJwz2QtN"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115041,
+      "name": "\u0422\u0430\u043c\u0430\u0433\u043e\u0447\u0438",
+      "url": "https://open.spotify.com/track/24nvAx6G5mU000yIZ95JSp"
+    },
+    {
+      "album": {
         "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0435 \u0434\u0435\u0432\u043e\u0447\u043a\u0438",
         "url": "https://open.spotify.com/album/4jDefrtbknQkDxkLgETNB8"
       },
@@ -46300,7 +46390,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 163000,
       "name": "\u0422\u043e\u043d\u0443",
       "url": "https://open.spotify.com/track/3dxOjnX03UHPUYW7bBikVu"
@@ -47292,7 +47382,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 172266,
       "name": "\u0424\u0435\u043d\u0438\u043a\u0441",
       "url": "https://open.spotify.com/track/6mDSdHphOriAwkIZy8q9Oz"

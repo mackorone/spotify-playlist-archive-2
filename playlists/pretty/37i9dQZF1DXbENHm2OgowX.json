@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 334551,
+  "num_followers": 334862,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "the hardest part",
-        "url": "https://open.spotify.com/album/5FejFrtgFBHiHsH3bULuAz"
-      },
-      "artists": [
-        {
-          "name": "undercurrent.",
-          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
-        }
-      ],
-      "duration_ms": 101052,
-      "name": "the hardest part",
-      "url": "https://open.spotify.com/track/1XVbFTUwLmR1znUlprLEEC"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "its never enough",
         "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 98196,
       "name": "its never enough",
       "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "the hardest part",
+        "url": "https://open.spotify.com/album/5FejFrtgFBHiHsH3bULuAz"
+      },
+      "artists": [
+        {
+          "name": "undercurrent.",
+          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
+        }
+      ],
+      "duration_ms": 101052,
+      "name": "the hardest part",
+      "url": "https://open.spotify.com/track/1XVbFTUwLmR1znUlprLEEC"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "hexa",
+        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
+      },
+      "artists": [
+        {
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "hexa",
+      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "For One Another",
         "url": "https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 164386,
       "name": "Heaven in Time",
       "url": "https://open.spotify.com/track/6XNxEFDlgG6MVfay6uGf9d"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "hexa",
-        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
-      },
-      "artists": [
-        {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "hexa",
-      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Love Is Colder Than Death",
-        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
-      },
-      "artists": [
-        {
-          "name": "Romance",
-          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
-        }
-      ],
-      "duration_ms": 213832,
-      "name": "Out Of The Past",
-      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "Renacer",
         "url": "https://open.spotify.com/album/66hWGmiZJlOcp5VUrSs07L"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 191000,
       "name": "Cenizas",
       "url": "https://open.spotify.com/track/2pEcP8gvx0G1aA3NmNbwlJ"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Love Is Colder Than Death",
+        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
+      },
+      "artists": [
+        {
+          "name": "Romance",
+          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
+        }
+      ],
+      "duration_ms": 213832,
+      "name": "Out Of The Past",
+      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "Displacement (KMRU rework)",
+        "url": "https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7"
+      },
+      "artists": [
+        {
+          "name": "Rafael Anton Irisarri",
+          "url": "https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4"
+        },
+        {
+          "name": "KMRU",
+          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Displacement - KMRU rework",
+      "url": "https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "no service",
         "url": "https://open.spotify.com/album/17wnWBr68OQoLFULf9uVXD"
       },
@@ -1459,38 +1479,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Displacement (KMRU rework)",
-        "url": "https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7"
+        "name": "Symmetry",
+        "url": "https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG"
       },
       "artists": [
         {
-          "name": "Rafael Anton Irisarri",
-          "url": "https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4"
+          "name": "Alexander John",
+          "url": "https://open.spotify.com/artist/2ngy5SYgu4IgNF7Zw9vbNt"
         },
         {
-          "name": "KMRU",
-          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Displacement - KMRU rework",
-      "url": "https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "Near Silence",
-        "url": "https://open.spotify.com/album/3Xv1uvYnSeU8phHkccNZLe"
-      },
-      "artists": [
-        {
-          "name": "knownbyC",
-          "url": "https://open.spotify.com/artist/3r6IlT9KI2aOfSuBClGBxb"
-        }
-      ],
-      "duration_ms": 184109,
-      "name": "Near Silence",
-      "url": "https://open.spotify.com/track/48TdI8BCUcvBlsfm3oZN1K"
+      "duration_ms": 199933,
+      "name": "Symmetry",
+      "url": "https://open.spotify.com/track/04xvAfowaRbutabkOUzILY"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1511,22 +1515,18 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Symmetry",
-        "url": "https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG"
+        "name": "Near Silence",
+        "url": "https://open.spotify.com/album/3Xv1uvYnSeU8phHkccNZLe"
       },
       "artists": [
         {
-          "name": "Alexander John",
-          "url": "https://open.spotify.com/artist/2ngy5SYgu4IgNF7Zw9vbNt"
-        },
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+          "name": "knownbyC",
+          "url": "https://open.spotify.com/artist/3r6IlT9KI2aOfSuBClGBxb"
         }
       ],
-      "duration_ms": 199933,
-      "name": "Symmetry",
-      "url": "https://open.spotify.com/track/04xvAfowaRbutabkOUzILY"
+      "duration_ms": 184109,
+      "name": "Near Silence",
+      "url": "https://open.spotify.com/track/48TdI8BCUcvBlsfm3oZN1K"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "snowlight",
+        "url": "https://open.spotify.com/album/6Vya1gJUf9cTkLFacmmwdq"
+      },
+      "artists": [
+        {
+          "name": "dunsky",
+          "url": "https://open.spotify.com/artist/3f92iiHCuHJqZBcfjZ8Vx5"
+        },
+        {
+          "name": "danvy",
+          "url": "https://open.spotify.com/artist/4GobnSPsgkt30gudqZv6He"
+        }
+      ],
+      "duration_ms": 167865,
+      "name": "breath under snow",
+      "url": "https://open.spotify.com/track/6P0BKhuw2QMczkstDlKOMM"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "iel te guide (lumineuse arp v)",
         "url": "https://open.spotify.com/album/3iGWgsVsg598vpnPMGOGst"
       },
@@ -1747,26 +1767,6 @@
       "duration_ms": 261849,
       "name": "Even The Horizon Knows Its Bounds VIII",
       "url": "https://open.spotify.com/track/36UNARIup8YwWvqua2DG9T"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "snowlight",
-        "url": "https://open.spotify.com/album/6Vya1gJUf9cTkLFacmmwdq"
-      },
-      "artists": [
-        {
-          "name": "dunsky",
-          "url": "https://open.spotify.com/artist/3f92iiHCuHJqZBcfjZ8Vx5"
-        },
-        {
-          "name": "danvy",
-          "url": "https://open.spotify.com/artist/4GobnSPsgkt30gudqZv6He"
-        }
-      ],
-      "duration_ms": 167865,
-      "name": "breath under snow",
-      "url": "https://open.spotify.com/track/6P0BKhuw2QMczkstDlKOMM"
     },
     {
       "added_at": "2026-03-20 04:00:38",

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Polska](https://open.spotify.com/playlist/37i9dQZF1DWTI0B69TStH2)
 
-> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:41sW1tNUQ6QgKOonv2sIez">MONGIRD</a>
+> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:3jjBSkzY9U2oim8dDan6Il">Kuba Folwarczny</a>
 
-4,177 songs - 9 day 13 hr 53 min
+4,181 songs - 9 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Atlas](https://open.spotify.com/track/7IK46mcMiXgcjLIU2107MF) | [Agnieszka Musiał](https://open.spotify.com/artist/4uOBCZk1MpMzmpOnAtN8qc) | [Atlas](https://open.spotify.com/album/5KvsMl3RlM9vfg6V6zwuGv) | 3:34 | 2023-01-10 | 2023-02-01 |
 | [Atlas](https://open.spotify.com/track/0rjKQnK7gpVRQI5CeZa0oL) | [Kami](https://open.spotify.com/artist/1sBj7upLLkCN8mmUHx5pSE) | [Obudź](https://open.spotify.com/album/2Y0ToX3dK7Feryo7o8Yj4O) | 4:19 | 2024-03-05 | 2024-04-17 |
 | [ATLETA](https://open.spotify.com/track/2NzfQSpSZygfe93WQuENHX) | [GONO](https://open.spotify.com/artist/1ZFgCfuGcbKIYsXIDt6ivC) | [ATLETA](https://open.spotify.com/album/34THoCkClhIwb9cgGvpukP) | 3:25 | 2022-11-21 | 2022-12-01 |
-| [Atomy](https://open.spotify.com/track/2W4lurZV2EkeKRu15H4irT) | [Kuliczkovska](https://open.spotify.com/artist/1ueMBjTChSMK79XYzmddib) | [Atomy](https://open.spotify.com/album/211nu4DCZ0yEtJqEnqRZgz) | 2:51 | 2026-01-27 |  |
+| [Atomy](https://open.spotify.com/track/2W4lurZV2EkeKRu15H4irT) | [Kuliczkovska](https://open.spotify.com/artist/1ueMBjTChSMK79XYzmddib) | [Atomy](https://open.spotify.com/album/211nu4DCZ0yEtJqEnqRZgz) | 2:51 | 2026-01-27 | 2026-04-22 |
 | [Aura](https://open.spotify.com/track/26W4PAOaKGi2uKQ3FTLPOl) | [Pozory](https://open.spotify.com/artist/1pVsPg5CyfUgWz25Jq1ozB) | [Aura](https://open.spotify.com/album/5kyjCDZnS8YyQyLsHNZ2hZ) | 4:44 | 2025-06-24 | 2025-08-06 |
 | [Aurelia](https://open.spotify.com/track/0ZzN1XWyyhKPGdE9SFUbaZ) | [Dots](https://open.spotify.com/artist/77dvGbzTXfYwrAYxlXFoKZ) | [Aurelia](https://open.spotify.com/album/3jdv9PjMapsmgfzYrbCiXa) | 3:57 | 2023-01-31 | 2023-02-08 |
 | [AUREOLA](https://open.spotify.com/track/1M8UkppcyI7wAPG5tU8Emw) | [KRASTOROCKSTAR](https://open.spotify.com/artist/7s8k81qFCHqXhnsC1x2Jyo) | [LONELY RAVE / AUREOLA](https://open.spotify.com/album/0coqwABaZNB3UCvpGou0Bm) | 2:19 | 2023-05-30 | 2023-07-05 |
@@ -1079,6 +1079,7 @@
 | [Hala odlotów](https://open.spotify.com/track/1UwbHW2GwYvnYQuv2Cudrn) | [IWER](https://open.spotify.com/artist/0tTFPGanKwmIzMzjRPUCE4) | [Hala odlotów](https://open.spotify.com/album/3OlZFW7UWHgEjUo4QTD38U) | 3:26 | 2025-01-07 | 2025-01-15 |
 | [HALKO](https://open.spotify.com/track/2rtnSjm26SkONQRcSPJ6li) | [asl33p](https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g) | [HALKO](https://open.spotify.com/album/4ZVv0nAXaU8EJaIpuvzbl3) | 3:25 | 2022-05-23 | 2022-06-07 |
 | [Halny](https://open.spotify.com/track/3iwE8MOM2743NR6z8FCbPs) | [Basia Giewont](https://open.spotify.com/artist/7cxbQTlqES2I9xbf2DErr9) | [Halny](https://open.spotify.com/album/2IoJsZpCu0yqLY2ZGGQfyv) | 2:57 | 2024-03-12 | 2024-03-27 |
+| [halo](https://open.spotify.com/track/4Uo6yqnZASIngGDjONda74) | [barekprzestań](https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI) | [halo](https://open.spotify.com/album/2nWczIlFcj8omcIQMKtLoe) | 5:37 | 2026-04-21 |  |
 | [HALO](https://open.spotify.com/track/2Gp68Mrbk3bGwBICWRA8nN) | [Janek Szynal](https://open.spotify.com/artist/0zfMLxMTUG0TdQ6t90yHfA) | [HALO](https://open.spotify.com/album/0ESyMNWkmYNvEEe9Y7gFfq) | 2:44 | 2023-09-12 | 2023-10-11 |
 | [halo](https://open.spotify.com/track/6Ff5CWTmAU8clZ8Gb7Gjxy) | [sskjegg](https://open.spotify.com/artist/7ClYCCz8XkRMnJDxLcEqoB) | [halo](https://open.spotify.com/album/7n7PCzrbo2fB6u79V0Yyfd) | 3:21 | 2022-10-17 | 2022-12-01 |
 | [Hamak](https://open.spotify.com/track/1Lqb61qdxy5rtAPIURYSsJ) | [Karolina Charko](https://open.spotify.com/artist/41Vn3mPwudcXJZGgzmK53q), [Pierwiastek Z Trzech](https://open.spotify.com/artist/6vLFrwrwUvLpMedfRzjik3) | [Hamak](https://open.spotify.com/album/6s9MyyjFockIGpRFL0IQUQ) | 2:54 | 2025-09-23 | 2026-01-15 |
@@ -1763,6 +1764,7 @@
 | [Małe szczęścia](https://open.spotify.com/track/6kanVtrqt8p6WGD7dSi95u) | [Hanako](https://open.spotify.com/artist/4OSYpIYfnPMcXVVqbBFGIH) | [Małe szczęścia](https://open.spotify.com/album/6UsThX5WdKQb05ItiuJB7f) | 2:23 | 2023-04-11 | 2023-04-26 |
 | [Mały Książę](https://open.spotify.com/track/4Fb8kcZaeklt4TypJgRm1V) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Mały Książę](https://open.spotify.com/album/1qCfiwWZQttvAljU1SZpLp) | 3:00 | 2025-11-11 | 2025-12-04 |
 | [mały książę](https://open.spotify.com/track/3HzEfSBl7uaSzao2L6nIJu) | [najniższy człowiek](https://open.spotify.com/artist/42OPk80DuUZKFeT9GtsDQW) | [mały książę](https://open.spotify.com/album/3JfH8vf01U5m6S1eqijesV) | 3:48 | 2025-10-07 | 2025-11-12 |
+| [Małym palcem o próg](https://open.spotify.com/track/3o6SILJ2UlYFAt7cQrxHrr) | [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il) | [Małym palcem o próg](https://open.spotify.com/album/6kUuzWjiWMRhLud7IzBNE4) | 3:08 | 2026-04-21 |  |
 | [maść](https://open.spotify.com/track/5N92rzBmuXilfYenzd6IaO) | [Spioła](https://open.spotify.com/artist/52XRZJhBbwXs39Qf3No3ow) | [Pies Andaluzyjski](https://open.spotify.com/album/3tpGJI8Shu96abfzElmAmU) | 2:10 | 2026-03-17 |  |
 | [MDMA](https://open.spotify.com/track/2DZn6Fj1KnckGR8LMb4r5M) | [OLIFIA](https://open.spotify.com/artist/1G2JMUgKdX4sMJYeSdHo1Q), [SEVEN 777](https://open.spotify.com/artist/7JjUseNd5bIBcJZniCBKAL) | [MDMA](https://open.spotify.com/album/2wEpEo7OTAHY6Jiug17c7g) | 3:09 | 2023-05-09 | 2023-05-24 |
 | [Mediolan](https://open.spotify.com/track/3yMexNejbcGhCzzVUaamIl) | [Torba97](https://open.spotify.com/artist/59uF3FnDcaXTxaMmhmWN6Y) | [Mediolan](https://open.spotify.com/album/4zrpm2qchZCtx1SN4zpMFF) | 2:46 | 2023-08-29 | 2023-10-11 |
@@ -1833,6 +1835,7 @@
 | [MIĘDZY NAMI](https://open.spotify.com/track/57JBmCux8q1fKUYgFwaffB) | [Latte](https://open.spotify.com/artist/7B58D2UpaoF1Z3Y57maFxA) | [MIĘDZY NAMI](https://open.spotify.com/album/5r6OyGAgM89B53kJL6jMY9) | 2:56 | 2025-09-23 | 2025-10-29 |
 | [Między nami](https://open.spotify.com/track/7juFhd3azUIzMsXw0Lf0zo) | [Malczi](https://open.spotify.com/artist/2uEBKkppxvuyNYidx8BawG) | [Między nami](https://open.spotify.com/album/1ZZFxX3ktF4a5LvsToli7D) | 2:16 | 2026-01-21 | 2026-03-04 |
 | [Mięknę](https://open.spotify.com/track/0G5kqBnlGJ3V62lN2ui00B) | [Sara Girgis](https://open.spotify.com/artist/44C4qLyvUVoeivjV3cl3hG) | [Mięknę](https://open.spotify.com/album/3YnZSUxIYDCaBjXaL63lp8) | 3:49 | 2025-11-25 | 2025-12-04 |
+| [mięknę&więdnę](https://open.spotify.com/track/5VGl9p1HU0lBGmyZtfitbG) | [Qncicka](https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ) | [mięknę&więdnę](https://open.spotify.com/album/1bN93Gj7Xry16P81TlCulw) | 2:39 | 2026-04-21 |  |
 | [MIĘSKO](https://open.spotify.com/track/7jVc2p4KVKwxM2XMMbbQET) | [AGNT](https://open.spotify.com/artist/5lmovwB4FMczvrKUL87TRS), [Molehead](https://open.spotify.com/artist/28jCpgzkMtyThCNKZjGVSa) | [MIĘSKO](https://open.spotify.com/album/2qV2CefVpgFpCo5a3Cl7qE) | 3:26 | 2026-04-07 |  |
 | [Mięta](https://open.spotify.com/track/6VG9BgraPsA80eKlNZUKF6) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [Mięta](https://open.spotify.com/album/20PH4CauYQjiEOihdim7y9) | 2:57 | 2025-03-25 | 2026-01-15 |
 | [Mięśnie duszy](https://open.spotify.com/track/228aFCcepMp9yinVdSHt5I) | [Echa](https://open.spotify.com/artist/2aSEzsDUyVxHnBOvseZyjE) | [Mięśnie duszy](https://open.spotify.com/album/5rs2iadVve1BLUVBOZFpMk) | 3:36 | 2025-06-03 | 2025-07-02 |
@@ -1919,7 +1922,7 @@
 | [Muszę dać ci odejść](https://open.spotify.com/track/06nFgKdL7ddzp2PSdqIp4D) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Muszę dać ci odejść](https://open.spotify.com/album/5406E4SYO3qo4gx7YS714W) | 4:16 | 2024-10-15 | 2024-12-05 |
 | [Muszę iść](https://open.spotify.com/track/5d9l2BErBeErAAWUJaA5th) | [Natalia Gałuszczyńska](https://open.spotify.com/artist/6GioJujxu52G7pokhHzwWm) | [Muszę iść](https://open.spotify.com/album/2IrVBbzE8jDLPU3p6ppwSt) | 2:49 | 2023-07-04 | 2023-08-02 |
 | [MUSZĘ ROBIĆ MUZĘ](https://open.spotify.com/track/3HTH2ehN2HQHIi1fPrOCXN) | [AGNT](https://open.spotify.com/artist/5lmovwB4FMczvrKUL87TRS), [m0nagenda](https://open.spotify.com/artist/2zZTP9efjTpcAhc4GPO4Ae) | [MUSZĘ ROBIĆ MUZĘ](https://open.spotify.com/album/2GeObEoP4Nod7jRu7Mo0Sp) | 2:49 | 2025-07-15 | 2025-08-20 |
-| [muszę trochę się rozpaść](https://open.spotify.com/track/1XJCkfXkcALBRQAzODt1Ku) | [misia horbatowska](https://open.spotify.com/artist/0AnhClvd0lTTUibEslLMAI) | [muszę trochę się rozpaść](https://open.spotify.com/album/2bSS4iqAio3vmeQboU2Frr) | 3:21 | 2026-02-03 |  |
+| [muszę trochę się rozpaść](https://open.spotify.com/track/1XJCkfXkcALBRQAzODt1Ku) | [misia horbatowska](https://open.spotify.com/artist/0AnhClvd0lTTUibEslLMAI) | [muszę trochę się rozpaść](https://open.spotify.com/album/2bSS4iqAio3vmeQboU2Frr) | 3:21 | 2026-02-03 | 2026-04-22 |
 | [MUZA DO WINDY](https://open.spotify.com/track/46vlu6xGMfykQLZmabewux) | [Wavy.](https://open.spotify.com/artist/5wW0k8C9oOBQtxWveFYy0l), [asl33p](https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g), [Acidstanek](https://open.spotify.com/artist/3Vimakv5nLJApxpcdmvgIh) | [MUZA DO WINDY](https://open.spotify.com/album/50P9kO9u2b2k66lEHGEtfO) | 3:38 | 2026-01-13 | 2026-02-25 |
 | [Muzeum](https://open.spotify.com/track/1qvKtqGCcodYov0ZCP1eZh) | [Ostrożnie](https://open.spotify.com/artist/6bS3NavtbV8mLCV5rb99TW) | [Poligon](https://open.spotify.com/album/7ajwD9ClkP3we6WrrAC1fk) | 5:31 | 2025-09-02 | 2025-10-01 |
 | [MVP](https://open.spotify.com/track/11uQXkeQ1ITjuIlHWazZJm) | [Stysio](https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT) | [MVP](https://open.spotify.com/album/2YJBNAx0nvFCiDFteCFqeY) | 2:33 | 2025-01-21 | 2025-02-12 |
@@ -3143,6 +3146,7 @@
 | [Stanzie](https://open.spotify.com/track/4p8G7m9wdkI7NO0yt7OfCU) | [Formeo](https://open.spotify.com/artist/58VDkUTKHrrr5b0P4yszTO) | [Stanzie](https://open.spotify.com/album/6Bx7DU5TFgOc3dCKA5eKBX) | 4:00 | 2025-01-07 | 2025-02-19 |
 | [Stanę się ziemią](https://open.spotify.com/track/3sy0x83BsqqHFTe8yiAXAQ) | [Ada Kućmierz](https://open.spotify.com/artist/27fVMQ4NZu3bk2ViW6F7F8) | [Stanę się ziemią](https://open.spotify.com/album/0D7vW4YBVAPZoDKMwA30xI) | 4:05 | 2022-09-12 | 2022-10-25 |
 | [Stare Dobre Czasy](https://open.spotify.com/track/5vb1UTCyC02NE0DZH0G5xC) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Stare Dobre Czasy](https://open.spotify.com/album/4AfRZOruj4xiKBaOM1JE9C) | 3:00 | 2023-10-10 | 2024-01-10 |
+| [Stare dobre czasy są teraz](https://open.spotify.com/track/5hYRC8wLnYvk6vlLQPanZ4) | [Szymon Norkowski](https://open.spotify.com/artist/3QNaRulfMHtPrj5QDAGGoS), [barekprzestań](https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI) | [Kiedyś było lepiej](https://open.spotify.com/album/6Oww6Y9fbpfE68yjS8k6nL) | 3:45 | 2026-04-21 |  |
 | [Stare śmieci](https://open.spotify.com/track/6jR6AOEhJdTyYLg5YwUIoj) | [Konrad Słoka](https://open.spotify.com/artist/0xNLMoGxtyykrSEvBpwdPa) | [Stare śmieci](https://open.spotify.com/album/6fZPFllHQTxI6KVUKPiu1p) | 4:33 | 2023-10-10 | 2023-11-22 |
 | [starzy ludzie](https://open.spotify.com/track/567Oxf9pBHKJyAJ4NwssNa) | [Pretensje](https://open.spotify.com/artist/4ERcPXKRGC38uXupJTfWGC) | [starzy ludzie](https://open.spotify.com/album/1l3maLZkAJdQvdYQZ4MQis) | 2:34 | 2022-11-14 | 2022-12-01 |
 | [Statek](https://open.spotify.com/track/3fHI31LJRXolEG9T7WKh6z) | [Szałaśny](https://open.spotify.com/artist/0oqCt2yAXbpdcXLY066wcs) | [Statek](https://open.spotify.com/album/381RFARxnDKG3z7o1svF6A) | 3:25 | 2023-10-03 | 2023-11-22 |
@@ -3432,7 +3436,7 @@
 | [To tylko my](https://open.spotify.com/track/5o327LC76uA3zJro7v5a2c) | [Matt Wysota](https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg) | [To tylko my](https://open.spotify.com/album/0Q2wZXsYLmugfRpahwqSed) | 2:33 | 2025-08-12 | 2025-09-24 |
 | [To znowu ja](https://open.spotify.com/track/5hekkTdGeRL2iaKqRmfenc) | [Matt Wysota](https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg) | [To znowu ja](https://open.spotify.com/album/60vb7wIKh4gn9Xt028xTZ5) | 3:03 | 2025-11-11 | 2025-12-04 |
 | [To światło nigdy nie będzie zielone](https://open.spotify.com/track/7ET5DJ6fP1PGhCJirS2Fb2) | [Pretensje](https://open.spotify.com/artist/4ERcPXKRGC38uXupJTfWGC), [Imitation Zone](https://open.spotify.com/artist/4nbmVqLTMQ5urUAbCwY7zT) | [To światło nigdy nie będzie zielone](https://open.spotify.com/album/2w6DK3JtYdspjpOgMCOsAb) | 4:06 | 2024-02-13 | 2024-03-13 |
-| [Toast](https://open.spotify.com/track/2XISunP6qRt8bSryfn1cvl) | [Krystian Embradora](https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z) | [Toast](https://open.spotify.com/album/1INrmmxjFbjwOq7gPwcQT2) | 2:31 | 2026-01-27 |  |
+| [Toast](https://open.spotify.com/track/2XISunP6qRt8bSryfn1cvl) | [Krystian Embradora](https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z) | [Toast](https://open.spotify.com/album/1INrmmxjFbjwOq7gPwcQT2) | 2:31 | 2026-01-27 | 2026-04-22 |
 | [Toast](https://open.spotify.com/track/6KN84ccARqDrMSqhzOtVYx) | [TOM PIGMENT](https://open.spotify.com/artist/2Y0XnClqugqbVaHhgZIu3x) | [Toast](https://open.spotify.com/album/6LbcuYDck0k1jBTktkIntX) | 4:20 | 2025-04-23 | 2025-05-28 |
 | [TOBIE UFAM](https://open.spotify.com/track/0iXQgGgheOJlI4X3yrI0ox) | [Franio Mucha](https://open.spotify.com/artist/2l1ha2vETw02TOEdpepvEx) | [TOBIE UFAM](https://open.spotify.com/album/6FxP7ngycOsoaaV7HQbG4z) | 3:42 | 2025-01-21 | 2025-02-05 |
 | [Tobą](https://open.spotify.com/track/19C1YtJsTLv5mJaH7pSOs8) | [Mimikomm](https://open.spotify.com/artist/1LNseif7hTonBBQAVXQszB) | [Tobą](https://open.spotify.com/album/3L25mEwFJ4QOITAlhwT1dF) | 3:23 | 2022-07-04 | 2022-07-26 |
@@ -3963,7 +3967,7 @@
 | [Za Późno](https://open.spotify.com/track/7ufe7q6WcPOAwzOKMzMiV8) | [GAYA](https://open.spotify.com/artist/50GdbX0ugTIjZ15kc5lBie) | [Za Późno](https://open.spotify.com/album/6idFbAaaercroGRHyy1gPO) | 3:38 | 2025-04-01 | 2025-05-07 |
 | [Za późno](https://open.spotify.com/track/6cYPueYkzpPJhSAXDbaKHh) | [Michał Wrzos](https://open.spotify.com/artist/4mxTm66QsRgChITSPcGvkI) | [Za późno](https://open.spotify.com/album/60m0Zqya6QwkfyMbpI5Hpm) | 3:09 | 2022-08-22 | 2022-10-11 |
 | [Za Szkłem](https://open.spotify.com/track/3otwxojfxaBfa2zWcsnrzd) | [XANSANA](https://open.spotify.com/artist/2NJc2bjgqogL4XktoMqrlX) | [Za Szkłem](https://open.spotify.com/album/15wkwWddVXqmmT9ASQoM9F) | 2:11 | 2024-11-05 | 2024-12-05 |
-| [Za tę miłość](https://open.spotify.com/track/0yu7zunzQDh5MPlDM3BZCA) | [Briela](https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf) | [Za tę miłość](https://open.spotify.com/album/2fI6XtGIkEy0AAqZJwev7o) | 2:59 | 2026-02-03 |  |
+| [Za tę miłość](https://open.spotify.com/track/0yu7zunzQDh5MPlDM3BZCA) | [Briela](https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf) | [Za tę miłość](https://open.spotify.com/album/2fI6XtGIkEy0AAqZJwev7o) | 2:59 | 2026-02-03 | 2026-04-22 |
 | [za wcześnie](https://open.spotify.com/track/7y5c3BLzKZNDxMuz57fBO0) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [za wcześnie](https://open.spotify.com/album/6k9mMccxYIYw9KNc6aF7Ty) | 2:09 | 2023-08-01 | 2023-09-06 |
 | [za żelazną bramą](https://open.spotify.com/track/00QF5332S5EFPkelZai4u4) | [duszno](https://open.spotify.com/artist/2utOsBf2Kzg9lYHKSMxClB) | [za żelazną bramą](https://open.spotify.com/album/1MU9NWxuwJzJdznhdiOcSs) | 4:50 | 2025-10-07 | 2025-10-29 |
 | [ZABAWA](https://open.spotify.com/track/2U6w6Pdr9DAzij24JKnLso) | [YULKA](https://open.spotify.com/artist/4reS0zac7BdO81SDRjjRVM) | [ZABAWA](https://open.spotify.com/album/7zxXmhx2abySqYT9fXK90R) | 3:15 | 2026-03-17 |  |

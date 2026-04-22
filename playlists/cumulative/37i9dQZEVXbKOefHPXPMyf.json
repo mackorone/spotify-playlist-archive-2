@@ -5474,7 +5474,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 540114,
       "name": "Aparto Todo",
       "url": "https://open.spotify.com/track/0vvqnyFB7jGUQm26hrt9hy"
@@ -6690,7 +6690,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 143279,
       "name": "Ayer Hable Con Dios",
       "url": "https://open.spotify.com/track/4k0HONHVX9U15ZKkPHmfYv"
@@ -6712,6 +6712,24 @@
       "duration_ms": 143279,
       "name": "Ayer Hable Con Dios",
       "url": "https://open.spotify.com/track/6gOvLsPRoL5ichiApvwDoU"
+    },
+    {
+      "album": {
+        "name": "Ayer Hable Con Dios",
+        "url": "https://open.spotify.com/album/51K6eFEIoGl17rASundvr6"
+      },
+      "artists": [
+        {
+          "name": "Corridos del Rey",
+          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143280,
+      "name": "Ayer Hable Con Dios",
+      "url": "https://open.spotify.com/track/51pJPhMqcdp1F0vlCYzNnd"
     },
     {
       "album": {
@@ -43260,7 +43278,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 179149,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/3i5yV30C8kFn84q5qIh2sY"
@@ -64730,7 +64748,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 169266,
       "name": "Que vuelta vox",
       "url": "https://open.spotify.com/track/50QNXm5mb1sUNhI4iTSzl9"
@@ -65656,7 +65674,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -67582,7 +67600,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -77267,6 +77285,24 @@
     },
     {
       "album": {
+        "name": "Te Toc\u00f3",
+        "url": "https://open.spotify.com/album/0HDTLt5zxMiGxuW64hrIPl"
+      },
+      "artists": [
+        {
+          "name": "Rashawn Lubowitz",
+          "url": "https://open.spotify.com/artist/0n2kNX08VxVPmqNjMDQ6Kj"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211626,
+      "name": "Te Toc\u00f3",
+      "url": "https://open.spotify.com/track/4Ryok35RCsrJynyKNc92dj"
+    },
+    {
+      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/110skZzsCFyckMdjupeIBX"
       },
@@ -79205,6 +79241,24 @@
     },
     {
       "album": {
+        "name": "Tigre de Vengala",
+        "url": "https://open.spotify.com/album/1POojwlYfq52XoaSE6CsjM"
+      },
+      "artists": [
+        {
+          "name": "Dorian Ampie",
+          "url": "https://open.spotify.com/artist/7B6ihAIQ58KBbvtml9LLz7"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163206,
+      "name": "Tigre de Vengala",
+      "url": "https://open.spotify.com/track/640nm7QVn4aKxKQZKA22Tc"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
       },
@@ -79808,7 +79862,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 192064,
       "name": "Todo Lo Fue",
       "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
@@ -84483,6 +84537,24 @@
     },
     {
       "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133746,
+      "name": "VELOCIDADE",
+      "url": "https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3"
+    },
+    {
+      "album": {
         "name": "Vem Vem",
         "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
       },
@@ -85462,7 +85534,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 194068,
       "name": "VOY A DISPARARME",
       "url": "https://open.spotify.com/track/6xSAUpJqJ1qwPLn4fH5R9u"

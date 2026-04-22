@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UwwBOf7Lpj.md) - [plain]
 
 > Fuel for any court — live from the baseline\. <a href="https://www.instagram.com/clubvolley\_\_\_\_/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,600 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,606 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UwwBOf7Lpj.md) - [plain]
 | 99 | [Remind Me](https://open.spotify.com/track/2DrA6YwOW25DsDSK4NLIJu) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Remind Me](https://open.spotify.com/album/4HLrrkxqPqa3rmvwUMe9sS) | 4:29 |
 | 100 | [DNA](https://open.spotify.com/track/4Kv9meAx5aRA7ZLtjCACeZ) | [KwanLi](https://open.spotify.com/artist/7vjjScTKp22dooqL9I3gUx) | [VarietyFlvrs '99.V2](https://open.spotify.com/album/761IQ4zxp6dGcyRrLxlT2x) | 2:04 |
 
-Snapshot ID: `AAAAAAw9nRDwhw0nKrvjauUGJp6g99/U`
+Snapshot ID: `AAAAAOUDKJiYEQajMlixbPOQwTTfiNXQ`

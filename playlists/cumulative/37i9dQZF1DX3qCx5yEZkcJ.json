@@ -881,6 +881,28 @@
     },
     {
       "album": {
+        "name": "Beyond the Lantern Lights",
+        "url": "https://open.spotify.com/album/2NqPCr21nysw9OYlBRDy4L"
+      },
+      "artists": [
+        {
+          "name": "Sling Dilly",
+          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
+        },
+        {
+          "name": "LEO",
+          "url": "https://open.spotify.com/artist/1WxBBV8qyCtx1H0f5oP2dS"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148256,
+      "name": "Beyond the Lantern Lights",
+      "url": "https://open.spotify.com/track/3jSIGrh0wFMNUz4lMzyAOS"
+    },
+    {
+      "album": {
         "name": "BIG BLUE",
         "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
       },
@@ -3892,7 +3914,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 249717,
       "name": "glow",
       "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"

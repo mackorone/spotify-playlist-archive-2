@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,540 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,534 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 26 | [Toimitusjohtaja](https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Toimitusjohtaja](https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR) | 2:45 |
 | 27 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
 | 28 | [Turisti \(feat\. Turisti\)](https://open.spotify.com/track/5m28SZu4fl8ncN4EYMphdO) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Turisti \(feat\. Turisti\)](https://open.spotify.com/album/1rTOZHPV73e1ZZgW3oKyB8) | 2:24 |
-| 29 | [Horo](https://open.spotify.com/track/6rKzCpq4UpTQZ7Yj3AT318) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Horo](https://open.spotify.com/album/6U4x289MNDQQqM4W3XwsBE) | 3:28 |
-| 30 | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT) | 3:07 |
+| 29 | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT) | 3:07 |
+| 30 | [Horo](https://open.spotify.com/track/6rKzCpq4UpTQZ7Yj3AT318) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Horo](https://open.spotify.com/album/6U4x289MNDQQqM4W3XwsBE) | 3:28 |
 | 31 | [Sit Ku Mul On Muija](https://open.spotify.com/track/53dvlTezDKZYO5wewHVi5i) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Sit Ku Mul On Muija](https://open.spotify.com/album/0oi7M2FNYSv21h3CRbxZIl) | 2:16 |
 | 32 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
 | 33 | [Tom Ford](https://open.spotify.com/track/52gUymoTGCj5xg0YU1kCw3) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Stallion](https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo) | 2:03 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 43 | [Se ei ollu minä](https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Se ei ollu minä](https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ) | 2:10 |
 | 44 | [OMG \(feat\. Evelina\)](https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [OMG \(feat\. Evelina\)](https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d) | 3:21 |
 | 45 | [Riehuu rikkoo rakastaa](https://open.spotify.com/track/14OFcRcbrnoacVCFZ2aypL) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Riehuu rikkoo rakastaa](https://open.spotify.com/album/7qZf1JEx0DXwvZzHZtpqVR) | 2:55 |
-| 46 | [DD](https://open.spotify.com/track/1bqtP940InJ6mnv1wbIJY0) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Shakespeare 2](https://open.spotify.com/album/5EZPtBbhpoYa9XdMgQcaTi) | 1:55 |
-| 47 | [Jättebra \(feat\. SVANI\)](https://open.spotify.com/track/5hRMgkefRQTIlY5xdSGUUd) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra), [SVANI](https://open.spotify.com/artist/3DUvsq0GmOqz0qfIIrdjio) | [Jättebra \(feat\. SVANI\)](https://open.spotify.com/album/0vWlkvSqfybQN4pqu6MVKV) | 2:20 |
-| 48 | [HENKIVAKUUS](https://open.spotify.com/track/7cYGCSkNwAJTHdRIMIkeJJ) | [D1 DANI](https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx) | [OBJ / HENKIVAKUUS](https://open.spotify.com/album/74pox3WjGLeYTUv83zA4fK) | 2:11 |
+| 46 | [Jättebra \(feat\. SVANI\)](https://open.spotify.com/track/5hRMgkefRQTIlY5xdSGUUd) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra), [SVANI](https://open.spotify.com/artist/3DUvsq0GmOqz0qfIIrdjio) | [Jättebra \(feat\. SVANI\)](https://open.spotify.com/album/0vWlkvSqfybQN4pqu6MVKV) | 2:20 |
+| 47 | [HENKIVAKUUS](https://open.spotify.com/track/7cYGCSkNwAJTHdRIMIkeJJ) | [D1 DANI](https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx) | [OBJ / HENKIVAKUUS](https://open.spotify.com/album/74pox3WjGLeYTUv83zA4fK) | 2:11 |
+| 48 | [DD](https://open.spotify.com/track/1bqtP940InJ6mnv1wbIJY0) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Shakespeare 2](https://open.spotify.com/album/5EZPtBbhpoYa9XdMgQcaTi) | 1:55 |
 | 49 | [Fake Love \(feat\. Sicario Jr\)](https://open.spotify.com/track/5vdl2SUnd7qwE1BSmiNrXc) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Sicario Jr](https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI) | [Fake Love \(feat\. Sicario Jr\)](https://open.spotify.com/album/3ppByEXeXULRFFXYhflemr) | 2:38 |
-| 50 | [Ringside](https://open.spotify.com/track/2nsvYByxwXzlJw6Tps4Tde) | [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB) | [Ringside](https://open.spotify.com/album/6unsEZgvoHkSk8LyvVRhuc) | 2:58 |
+| 50 | [tää ei vaan oo sulle](https://open.spotify.com/track/7EZWQeAyOfpOQGVacA5Xcx) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [tää ei vaan oo sulle](https://open.spotify.com/album/768j9sCaqohBMnuDgmKc6u) | 2:25 |
 
 Snapshot ID: `AAAAAHWPhFKE2fDxTWYB9PyQ1nM+Wu4c`

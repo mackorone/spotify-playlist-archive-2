@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 234675,
+  "num_followers": 234676,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -931,26 +931,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "Cidade do Samba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0pi0cmNcMMi5RXrXg6KiHy"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "Mulheres - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Kjil04DcA70F6h3WjLz2e"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Sambabook Dona Ivone Lara",
         "url": "https://open.spotify.com/album/69qErPKLHHugsWzOXRB0Ls"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 228720,
       "name": "Sonho Meu",
       "url": "https://open.spotify.com/track/62hLOAVwp0V2aFuT7sEQC9"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "Cidade do Samba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0pi0cmNcMMi5RXrXg6KiHy"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "Mulheres - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Kjil04DcA70F6h3WjLz2e"
     },
     {
       "added_at": "2025-09-19 22:07:37",

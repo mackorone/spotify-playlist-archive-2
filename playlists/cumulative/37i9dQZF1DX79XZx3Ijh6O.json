@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-09",
-  "description": "\u041d\u0430\u0439\u043b\u0456\u043f\u0448\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432\u0456\u0434 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0430\u0440\u0442\u0438\u0441\u0442\u0456\u0432-\u043f\u043e\u0447\u0430\u0442\u043a\u0456\u0432\u0446\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: <a href=\"spotify:artist:2TlE3Qe38b9xHDrjTkO2Kl\">mercurikill</a> ",
+  "description": "\u041d\u0430\u0439\u043b\u0456\u043f\u0448\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432\u0456\u0434 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0430\u0440\u0442\u0438\u0441\u0442\u0456\u0432-\u043f\u043e\u0447\u0430\u0442\u043a\u0456\u0432\u0446\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: SPIVOCHA & Blockbaby",
   "name": "Fresh Finds \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 216413,
       "name": "9.99",
       "url": "https://open.spotify.com/track/4NguAJwwApL0ewCCGVJPWd"
@@ -384,6 +384,24 @@
       "duration_ms": 105625,
       "name": "delulu",
       "url": "https://open.spotify.com/track/2GvV3Wvw4dcNfRNEafdWOw"
+    },
+    {
+      "album": {
+        "name": "dry lips",
+        "url": "https://open.spotify.com/album/3mJFztL1Z4ndduZS7OgUhX"
+      },
+      "artists": [
+        {
+          "name": "Entely",
+          "url": "https://open.spotify.com/artist/5cFCsmewxHM5wQb55vhqTS"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72000,
+      "name": "dry lips",
+      "url": "https://open.spotify.com/track/5M2LxLNpUNF5JA0S8F2z9S"
     },
     {
       "album": {
@@ -980,7 +998,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 122044,
       "name": "Sky calls",
       "url": "https://open.spotify.com/track/49lNmiEIeiwh4APGp9QawK"
@@ -1020,6 +1038,24 @@
       "duration_ms": 158571,
       "name": "Villain",
       "url": "https://open.spotify.com/track/0gyiEmhON5LZ7JWBDxaBOk"
+    },
+    {
+      "album": {
+        "name": "words & crying",
+        "url": "https://open.spotify.com/album/4Aw40mLX9H6eTwnJ3udwpz"
+      },
+      "artists": [
+        {
+          "name": "\u0413\u043e\u0448\u0443\u043b\u044f",
+          "url": "https://open.spotify.com/artist/7JBcQmTIHmYq0fwJHYPDiQ"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161727,
+      "name": "words & crying",
+      "url": "https://open.spotify.com/track/3Z8UZXcnr5KzropbDaj1wL"
     },
     {
       "album": {
@@ -1673,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "\u0412 \u043f'\u044f\u043d\u0456\u043c \u0442\u0430\u043d\u0446\u0456",
+        "url": "https://open.spotify.com/album/5urVCp1k8L1PJUOvcXUeIe"
+      },
+      "artists": [
+        {
+          "name": "Dianic",
+          "url": "https://open.spotify.com/artist/77GSVYMHWoZydSugWAN4BN"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147049,
+      "name": "\u0412 \u043f'\u044f\u043d\u0456\u043c \u0442\u0430\u043d\u0446\u0456",
+      "url": "https://open.spotify.com/track/5e1SW7PqfIEjdox1Q31VpB"
+    },
+    {
+      "album": {
         "name": "\u0432 \u043f\u043e\u043b\u043e\u043d\u0456",
         "url": "https://open.spotify.com/album/7k5l5fKvtwR2VVjhdByAes"
       },
@@ -2302,7 +2356,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 241144,
       "name": "\u0413\u043e\u0432\u043e\u0440\u0438\u0442\u0438",
       "url": "https://open.spotify.com/track/1FtAy55Y2vDcX2DpMsVNBP"
@@ -2642,6 +2696,24 @@
       "duration_ms": 189000,
       "name": "\u0414\u0438\u043c",
       "url": "https://open.spotify.com/track/0fEihEU2ZVijRsKGmyDdgP"
+    },
+    {
+      "album": {
+        "name": "\u0434\u0438\u043d\u0430\u043c\u0456\u0442",
+        "url": "https://open.spotify.com/album/2Z63quOpTO4B347thhsOq0"
+      },
+      "artists": [
+        {
+          "name": "\u043b\u0430\u0431\u0440\u0430\u0434\u043e\u0440\u0430 \u0441\u0443\u043c",
+          "url": "https://open.spotify.com/artist/1AWnqE9sJEoYxQBzLFVLU5"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "\u0434\u0438\u043d\u0430\u043c\u0456\u0442",
+      "url": "https://open.spotify.com/track/5Zlm5vrlnJ6rMRdcesyk8T"
     },
     {
       "album": {
@@ -3147,6 +3219,24 @@
     },
     {
       "album": {
+        "name": "\u0417\u0410\u041d\u0410\u0414\u0422\u041e \u0413\u0410\u0420\u042f\u0427\u0410",
+        "url": "https://open.spotify.com/album/6CIvOVdKMOwe5QQ2IPx0Q2"
+      },
+      "artists": [
+        {
+          "name": "\u041e\u041d\u0406\u0421\u0423\u041a\u0410 \u0422\u0410\u0419\u0413\u0415\u0420",
+          "url": "https://open.spotify.com/artist/77mZBnU5El6iexxLv2qhWM"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302781,
+      "name": "\u0417\u0410\u041d\u0410\u0414\u0422\u041e \u0413\u0410\u0420\u042f\u0427\u0410",
+      "url": "https://open.spotify.com/track/0AjPcZse7pTYwqC8nVUhIt"
+    },
+    {
+      "album": {
         "name": "\u0417\u0430\u043f\u043e\u0432\u0456\u0442 (\u0422.\u0428.)",
         "url": "https://open.spotify.com/album/1uRbEG27VyRSpVwLOH7vXR"
       },
@@ -3606,7 +3696,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 162857,
       "name": "\u041a\u0438\u0446\u044f",
       "url": "https://open.spotify.com/track/4Wd3NWl53JMvGzCJVM87jo"
@@ -5835,6 +5925,28 @@
     },
     {
       "album": {
+        "name": "\u041f\u0435\u043b\u044e\u0441\u0442\u043a\u0438",
+        "url": "https://open.spotify.com/album/4c2RxF71TgjPuux1tu59bE"
+      },
+      "artists": [
+        {
+          "name": "SPIVOCHA",
+          "url": "https://open.spotify.com/artist/1I5PwzJVh2y2AWxbPCwZkb"
+        },
+        {
+          "name": "Blockbaby",
+          "url": "https://open.spotify.com/artist/4WNzMiptlfMfG17Da3TlXD"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163602,
+      "name": "\u041f\u0435\u043b\u044e\u0441\u0442\u043a\u0438",
+      "url": "https://open.spotify.com/track/0CFSGhvUovYFx36z9Tx6bK"
+    },
+    {
+      "album": {
         "name": "\u041f\u0435\u0440\u0435\u0433\u043e\u0440\u0456\u0432",
         "url": "https://open.spotify.com/album/4iSaKGnvrXg1Wg1CUc6U7e"
       },
@@ -6132,7 +6244,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 154175,
       "name": "\u043f\u0440\u0438\u0432\u0456\u0442",
       "url": "https://open.spotify.com/track/3Oo7nHVCq1KE9O9Cf2Fl8u"
@@ -6262,7 +6374,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 111496,
       "name": "\u043f\u0440\u043e\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/3Z0hxwbZA2rB4dVoMjaeNL"

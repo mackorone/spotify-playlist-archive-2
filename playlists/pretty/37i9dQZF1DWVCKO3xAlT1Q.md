@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2026 playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222,278 likes - 35 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,346 likes - 35 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 27 | [CROSSROADS](https://open.spotify.com/track/3X6cfvG2xgtx47V03hKxjG) | [Daniel Žižka](https://open.spotify.com/artist/03igozcHSdgnU1Z1aZ20aS) | [CROSSROADS](https://open.spotify.com/album/0ynt6Fz8qqlGIdUFVhPoqL) | 3:00 |
 | 28 | [Superstar](https://open.spotify.com/track/7vsJ0bqsjhVnZxV2W2wRiD) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT) | [Superstar](https://open.spotify.com/album/5L5QsjQu2WZ2wnLYmRd7b4) | 2:54 |
 | 29 | [Pray](https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd) | [ALICJA](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [Pray](https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx) | 3:00 |
-| 30 | [Kraj mene](https://open.spotify.com/track/3cnVAUGWZcXNqojO8PfYOu) | [Lavina](https://open.spotify.com/artist/2a1W5RyJCm4GugnlqckLw3) | [Kraj mene](https://open.spotify.com/album/5jZzL46mXq6XDHbsTwO29o) | 3:01 |
+| 30 | [Kraj mene](https://open.spotify.com/track/3cnVAUGWZcXNqojO8PfYOu) | [Lavina](https://open.spotify.com/artist/2a1W5RyJCm4GugnlqckLw3) | [Kraj mene](https://open.spotify.com/album/5jZzL46mXq6XDHbsTwO29o) | 3:00 |
 | 31 | [Ridnym \- Eurovision Version](https://open.spotify.com/track/44DemLB8ChS8AaN9haWsgU) | [Leléka](https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG) | [Ridnym \(Eurovision Version\)](https://open.spotify.com/album/1Re3YIG29ZrGx6CjMdwAAn) | 2:58 |
 | 32 | [Sólo Quiero Más](https://open.spotify.com/track/1av4wp2KoCwn9P151n45WV) | [Lion Ceccah](https://open.spotify.com/artist/7ivlxzVHNKJrGyuIdLWYD4) | [Sólo Quiero Más](https://open.spotify.com/album/2aW3Fg913oEVifMta2Jvpg) | 3:02 |
 | 33 | [Rosa](https://open.spotify.com/track/03Oz6PWplRogAQJgnFuoJ7) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Festival da Canção 2026](https://open.spotify.com/album/3QFJNJbQvlVJ3sPMB1TWrH) | 2:59 |

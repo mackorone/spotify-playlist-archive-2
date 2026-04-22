@@ -365,6 +365,28 @@
     },
     {
       "album": {
+        "name": "500 Rozen",
+        "url": "https://open.spotify.com/album/3CHXii73Aa4Oc1JrAGId4j"
+      },
+      "artists": [
+        {
+          "name": "Coldcase",
+          "url": "https://open.spotify.com/artist/3IYJJywEefHtO0WnPs5mkI"
+        },
+        {
+          "name": "247Loosey",
+          "url": "https://open.spotify.com/artist/6uaH5YMYW84lVDWbBFWk2x"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198082,
+      "name": "500 Rozen",
+      "url": "https://open.spotify.com/track/67mIFOHlIPERI8N92VQ2Mc"
+    },
+    {
+      "album": {
         "name": "67 Merry Rizzmas",
         "url": "https://open.spotify.com/album/3M9tJ9aUDvuhRPPdcGlFPd"
       },
@@ -1916,7 +1938,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 108121,
       "name": "Bazooka",
       "url": "https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa"
@@ -3396,10 +3418,28 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 217439,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/2i2hd5SXypE3DL3440L2hB"
+    },
+    {
+      "album": {
+        "name": "Celebrate Me",
+        "url": "https://open.spotify.com/album/729gfCRMV21olRs4leeEGZ"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217478,
+      "name": "Celebrate Me",
+      "url": "https://open.spotify.com/track/15Jc2NviHNPXpJ9SeonD7R"
     },
     {
       "album": {
@@ -3870,7 +3910,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
@@ -3914,6 +3954,24 @@
       "duration_ms": 209420,
       "name": "Code",
       "url": "https://open.spotify.com/track/0BtioDoJQd5ZgjrdgybAuz"
+    },
+    {
+      "album": {
+        "name": "HYPER v1.0",
+        "url": "https://open.spotify.com/album/1aSBlYPiE3umYa4B7He2je"
+      },
+      "artists": [
+        {
+          "name": "Lekkerfaces",
+          "url": "https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122526,
+      "name": "CodeBreaker",
+      "url": "https://open.spotify.com/track/439veh3aWFk32wfx9VLw1k"
     },
     {
       "album": {
@@ -5509,6 +5567,24 @@
     },
     {
       "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164336,
+      "name": "Drugsprobleem",
+      "url": "https://open.spotify.com/track/7ti3nQsrUICVd2B9z6EsV1"
+    },
+    {
+      "album": {
         "name": "Druk Je Lijf Tegen Dat Van Mij",
         "url": "https://open.spotify.com/album/7cChHB5Ul0CqIjxe1CYxBQ"
       },
@@ -5742,6 +5818,24 @@
       "duration_ms": 184150,
       "name": "Euhj!",
       "url": "https://open.spotify.com/track/2Og1hNc7k1ta1vUu1vnwEc"
+    },
+    {
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248902,
+      "name": "EVERYTHING HALLELUJAH",
+      "url": "https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ"
     },
     {
       "album": {
@@ -8880,7 +8974,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 187009,
       "name": "Ideale Schoonzoon",
       "url": "https://open.spotify.com/track/5wRcs5uMy4M2bxNJib8DNH"
@@ -8974,7 +9068,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 181326,
       "name": "Ik Ben Niet Meer Bang",
       "url": "https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY"
@@ -10306,7 +10400,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 148070,
       "name": "Komt Goed",
       "url": "https://open.spotify.com/track/3qIJrZsdgUxtCjop0MD5gs"
@@ -10462,7 +10556,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 240000,
       "name": "Laat Het Licht Aan",
       "url": "https://open.spotify.com/track/3m7590UqY1VXNtF6axoWj1"
@@ -12359,6 +12453,28 @@
     },
     {
       "album": {
+        "name": "Melody of World (Revealer Live Edit) (Short Version)",
+        "url": "https://open.spotify.com/album/39mgZuNYTb28z9G0831Ded"
+      },
+      "artists": [
+        {
+          "name": "Loic D",
+          "url": "https://open.spotify.com/artist/1rzEOTdzDy4d1WwepFnxF9"
+        },
+        {
+          "name": "Revealer",
+          "url": "https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90149,
+      "name": "Melody of World (Revealer Live Edit) - Short Version",
+      "url": "https://open.spotify.com/track/14An1WlCtlfOIVShCUDh2v"
+    },
+    {
+      "album": {
         "name": "deims deims deims",
         "url": "https://open.spotify.com/album/3KMu63c6EQF0bS6ugJZuZA"
       },
@@ -13519,6 +13635,24 @@
     },
     {
       "album": {
+        "name": "NO HELP",
+        "url": "https://open.spotify.com/album/1YN6B9NBpxesaaFof0xFH4"
+      },
+      "artists": [
+        {
+          "name": "Steve Selecta",
+          "url": "https://open.spotify.com/artist/1QTew1jSw0ovwcqtljkbd5"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107540,
+      "name": "NO HELP",
+      "url": "https://open.spotify.com/track/2eyx8OAbqIcYmiLlYXQr6K"
+    },
+    {
+      "album": {
         "name": "No Lie",
         "url": "https://open.spotify.com/album/2PiGic9RlLUUR1qxhM5WDu"
       },
@@ -13560,7 +13694,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 174246,
       "name": "NO LIE",
       "url": "https://open.spotify.com/track/4dCK5jjjWgEODJrdo0Joh1"
@@ -16131,6 +16265,24 @@
     },
     {
       "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275599,
+      "name": "Sarniezz",
+      "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
+    },
+    {
+      "album": {
         "name": "SCANDAL ANTHEM",
         "url": "https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l"
       },
@@ -17604,7 +17756,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 89809,
       "name": "TAKA LA DENTRO",
       "url": "https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr"
@@ -22260,6 +22412,24 @@
       "duration_ms": 96000,
       "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
       "url": "https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj"
+    },
+    {
+      "album": {
+        "name": "\u2060Tot Het Eind Van Mij - Akoestisch",
+        "url": "https://open.spotify.com/album/5kgoAHKiaOk2YsJe6HATxX"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150475,
+      "name": "\u2060Tot Het Eind Van Mij - Akoestisch",
+      "url": "https://open.spotify.com/track/2uA8dEMA61IBCXGz4lA3GD"
     },
     {
       "album": {

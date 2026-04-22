@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-130 songs - 11 hr 3 min
+131 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Blue in Green \(Sky and Sea\)](https://open.spotify.com/track/2qpOQEkbIqbgYeO8TqmQPf) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:49 | 2023-12-08 | 2026-04-07 |
 | [Bolombolo](https://open.spotify.com/track/15F0dvScWM4gTKHVbJDjgx) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [Bolombolo](https://open.spotify.com/album/3IFEqe6eN93OVkaLOGnosX) | 4:44 | 2023-10-26 | 2024-01-03 |
 | [Brilliant Corners](https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Brilliant Corners](https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4) | 1:44 | 2022-08-12 |  |
-| [Bye Bye Blackbird](https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Bye Bye Blackbird](https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v) | 3:08 | 2022-09-09 |  |
+| [Bye Bye Blackbird](https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Bye Bye Blackbird](https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v) | 3:08 | 2022-09-09 | 2026-04-22 |
 | [Bésame Mucho](https://open.spotify.com/track/5mP6m2m775f2VYYLddc6qa) | [Oscar Aleman](https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK) | [GRABACIONES RECUPERADAS](https://open.spotify.com/album/3u0TegUGeLCo0VtxNBUeJ4) | 2:12 | 2022-08-12 |  |
 | [Cabrera's Blues](https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv) | [Oscar Giunta Supertrío!](https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Flavio Romero](https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl) | [Apaláp!](https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv) | 8:15 | 2022-09-23 | 2025-11-27 |
 | [Cafetin de Buenos Aires](https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6) | [Adrian Iaies Trio](https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje) | [Las Tardecitas de Miton's](https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4) | 6:08 | 2022-11-18 | 2025-08-30 |
@@ -63,6 +63,7 @@
 | [Equinox](https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ) | [Nestor Astarita](https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x), [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [80 Años \- Jazztaríaenbaterita](https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo) | 6:53 | 2022-08-12 |  |
 | [Estambul](https://open.spotify.com/track/0hDeQf9y3doljtZ7Qc6DCV) | [Oscar Aleman](https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK) | [Bésame Mucho](https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5) | 2:55 | 2022-08-12 |  |
 | [Estate](https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 9:32 | 2022-08-12 |  |
+| [Etude Sudaca](https://open.spotify.com/track/1EWuTaSgNVzp6BQH8fA6LG) | [Flavio Romero](https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl), [Sebastián Greschuk](https://open.spotify.com/artist/0olhhx78hZZ2aPIUpDmzZ0), [Javier Burín Heras](https://open.spotify.com/artist/2xW6Doft80Vw4eL6VlPlJ3), [Minino Garay](https://open.spotify.com/artist/0CUvJzhxLqPRd3xMxwsoxp), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Paisajes de un Venidero Retorno](https://open.spotify.com/album/0fJpxzaGDLhADAGBMKEvsJ) | 5:16 | 2025-04-14 |  |
 | [Flamenco Sketches \(feat\. Niño Josele\)](https://open.spotify.com/track/7BScDsrGLYkoTrh3LUpK0Y) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Flamenco Sketches \(feat\. Niño Josele\)](https://open.spotify.com/album/1qyUjJd3avQ9BLHmFivRCW) | 6:03 | 2022-08-12 |  |
 | [Flor de piel](https://open.spotify.com/track/2yl80UjeK76D1QE17hDDPv) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a), [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [Flor de piel](https://open.spotify.com/album/5PAtTXm3sZDzakXru1NHbu) | 2:35 | 2023-05-05 |  |
 | [Fly Me to the Moon](https://open.spotify.com/track/7a2N6gnNqKvfN5rz3kHCTV) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 2:09 | 2022-08-12 |  |

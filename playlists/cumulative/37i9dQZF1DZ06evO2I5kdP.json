@@ -364,7 +364,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 252000,
       "name": "Fields of Aloe Vera",
       "url": "https://open.spotify.com/track/3u9hSHYGb3wKCYIaCBCAHV"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 78762,
       "name": "Marmara Beach II",
       "url": "https://open.spotify.com/track/1faNqUo9262FCCAx6kPb5Y"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 98106,
       "name": "Percussion in Nonspace",
       "url": "https://open.spotify.com/track/3zSk7VaJAbu4q1L4c083mx"
@@ -1111,6 +1111,28 @@
     },
     {
       "album": {
+        "name": "Reflections Vol. 3: Water Poems",
+        "url": "https://open.spotify.com/album/3OWKy0zcaRmi0mx4XCLTOF"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        },
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Shines for Eternity",
+      "url": "https://open.spotify.com/track/17wS3gFjBUZpncmlh7ANlW"
+    },
+    {
+      "album": {
         "name": "Shines for Eternity",
         "url": "https://open.spotify.com/album/3zMkwO65sowlPwOLPm8bMA"
       },
@@ -1126,7 +1148,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 238000,
       "name": "Shines for Eternity",
       "url": "https://open.spotify.com/track/1znAJdt4igBfMuWOy9Pcgh"
@@ -1330,7 +1352,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 177226,
       "name": "Surreal Presence for SH and FM",
       "url": "https://open.spotify.com/track/1o1IfEZVEjsM9xPZrsNd5T"
@@ -1352,7 +1374,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 298000,
       "name": "Take the Hot Route",
       "url": "https://open.spotify.com/track/3OJHXjQbsBXQxHuuBqUDWd"
@@ -1430,7 +1452,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 202279,
       "name": "Tongue Shaped Rock",
       "url": "https://open.spotify.com/track/4Sb6iUxcBR9rvcCRmozowE"

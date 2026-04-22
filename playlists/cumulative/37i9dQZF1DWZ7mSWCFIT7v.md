@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-585 songs - 1 day 22 hr 54 min
+586 songs - 1 day 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Double Fifths](https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour \(10th Anniversary Edition\)](https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp) | 2:11 | 2021-10-06 | 2025-06-07 |
 | [Drangsville Drowns](https://open.spotify.com/track/0osIAWdFisbIUvKNvoI46q) | [Dubokaj](https://open.spotify.com/artist/4LpipxyhaUntlQyGXKmsQL) | [Daydreamflix](https://open.spotify.com/album/0lTJ1VWKgf6fhDiHvoQ7fq) | 5:06 | 2022-04-06 | 2022-07-29 |
 | [Dream Walk](https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy) | [Nutrition](https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x) | [These Days Don't Exist](https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr) | 3:45 | 2021-10-06 | 2025-07-17 |
+| [Dreamscape](https://open.spotify.com/track/2nURU9kJNyp2VfH330mANP) | [Chase.:R](https://open.spotify.com/artist/6iU03PullOnEaaIJbB1IAk) | [Crushed Orchid](https://open.spotify.com/album/69zL9nY33cxMljpslUjwP5) | 2:10 | 2026-04-21 |  |
 | [Drone](https://open.spotify.com/track/7rrYlcWCKWqf2FvgoD3InD) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Drone](https://open.spotify.com/album/6SRvJyQclnvVJx1ngKQ5py) | 3:16 | 2025-07-09 | 2025-11-22 |
 | [Dub Protection](https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf) | [The Diabolical Liberties](https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Dub Protection & The Sportswear Mystics](https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e) | 5:11 | 2021-10-06 | 2025-07-17 |
 | [Duo Pulse](https://open.spotify.com/track/02Jy2accvqFUfr8TmFWleS) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Duo Pulse](https://open.spotify.com/album/0PJgxCPlMtCFHg4VCrNOy3) | 4:16 | 2025-04-11 | 2025-10-18 |
@@ -200,7 +201,7 @@
 | [Flickering Shadows](https://open.spotify.com/track/7p184ALKyLhtJb8IhmX8qy) | [Laughing Ears](https://open.spotify.com/artist/459p6MR7jigJ8AuqdSYMoj) | [Blood](https://open.spotify.com/album/4ONOBiVS1bbOzYo05uVgT8) | 4:39 | 2021-10-06 | 2025-07-17 |
 | [FlimFlam](https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO), [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [FlimFlam](https://open.spotify.com/album/00lTgznpnHiEYA9xEY9nHD) | 3:11 | 2021-10-06 | 2025-07-17 |
 | [Fluo](https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Inkjet / Fluo](https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl) | 8:22 | 2021-10-06 | 2025-07-17 |
-| [Fly In Amber](https://open.spotify.com/track/54SfhFjcoqB5dwXVuIfbOi) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Fly In Amber](https://open.spotify.com/album/2AxIuysrol1DlsjFyY5OPL) | 6:40 | 2025-11-07 |  |
+| [Fly In Amber](https://open.spotify.com/track/54SfhFjcoqB5dwXVuIfbOi) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Fly In Amber](https://open.spotify.com/album/2AxIuysrol1DlsjFyY5OPL) | 6:40 | 2025-11-07 | 2026-04-22 |
 | [Fly radio](https://open.spotify.com/track/5uIG2YlinVJWNPuKTIeWGx) | [Michael Mills](https://open.spotify.com/artist/0Jh4pnOiWjf6s6KsV2mLTV) | [Fly radio](https://open.spotify.com/album/6pOJdm1TdXuJWV0u3Nbrmd) | 2:35 | 2026-01-23 |  |
 | [Fog](https://open.spotify.com/track/1KBddz4B293HkDtfFnRbJQ) | [Flame 1](https://open.spotify.com/artist/5XHpF80rFg0bBBA6vq1sj4) | [Fog / Shrine](https://open.spotify.com/album/5VmAI2tGjo2OKDXwN2RVhT) | 5:13 | 2021-10-06 | 2022-07-06 |
 | [Footprints In Solid Rock \- Beatrice Dillon Remix](https://open.spotify.com/track/0pxLDHQqDqPhlnd7tAGIWj) | [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN), [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97) | [Remixes \- 2](https://open.spotify.com/album/4JY2xSBqgCapi5p6LDIJfV) | 5:38 | 2021-10-06 | 2025-07-10 |

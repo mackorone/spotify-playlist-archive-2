@@ -4477,6 +4477,24 @@
     },
     {
       "album": {
+        "name": "Emoticon",
+        "url": "https://open.spotify.com/album/1ixiBOAbg2UXTxh5wf0Jj9"
+      },
+      "artists": [
+        {
+          "name": "The Galacticas",
+          "url": "https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217584,
+      "name": "Mario Kart at Amy's Apartment",
+      "url": "https://open.spotify.com/track/4KuCGB4hLRw8PMHnuzWVxS"
+    },
+    {
+      "album": {
         "name": "Maryjane",
         "url": "https://open.spotify.com/album/3vgROf3t4kmic0I50Y8krM"
       },

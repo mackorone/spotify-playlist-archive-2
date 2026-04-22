@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Nebrugg",
-  "num_followers": 148681,
+  "num_followers": 148692,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-02-27 18:07:57",
       "album": {
-        "name": "Alta Massa (ATM)",
-        "url": "https://open.spotify.com/album/0Twjd4TvTqehiFjeaKPiAE"
-      },
-      "artists": [
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Alta Massa (ATM)",
-      "url": "https://open.spotify.com/track/6NmhXdIUkHYO8gojTVaAMM"
-    },
-    {
-      "added_at": "2026-02-27 18:07:57",
-      "album": {
         "name": "GET RICH",
         "url": "https://open.spotify.com/album/6Ju8WvKcYuBLWrC3AGDlzm"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 139281,
       "name": "GET RICH",
       "url": "https://open.spotify.com/track/02n0kRA0M2Gs83V9QtWw0v"
+    },
+    {
+      "added_at": "2026-02-27 18:07:57",
+      "album": {
+        "name": "Alta Massa (ATM)",
+        "url": "https://open.spotify.com/album/0Twjd4TvTqehiFjeaKPiAE"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Alta Massa (ATM)",
+      "url": "https://open.spotify.com/track/6NmhXdIUkHYO8gojTVaAMM"
     },
     {
       "added_at": "2026-02-27 18:07:57",

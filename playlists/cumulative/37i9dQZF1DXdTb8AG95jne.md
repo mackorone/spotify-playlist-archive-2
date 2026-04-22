@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: <br/>이예린 \(Lee Yerin\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,322 songs - 3 day 7 hr 56 min
+1,323 songs - 3 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,6 +830,7 @@
 | [Page](https://open.spotify.com/track/6jAMGTTWOOEHBvhpi6ZsDd) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Page](https://open.spotify.com/album/1hv5kTzCuapWPHeeFm4DfY) | 3:17 | 2024-12-10 | 2025-03-05 |
 | [Paindrops](https://open.spotify.com/track/78HIu4EgPdesHf46oIBLuZ) | [Taru](https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh) | [Tiny Bits of Life Part.7](https://open.spotify.com/album/2eSf3kZZ0ii75biMW5WzQv) | 4:22 | 2022-03-31 | 2022-04-15 |
 | [Painless](https://open.spotify.com/track/04Ktlj5fakDQhjqYSNYTEL) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Sky Hundred](https://open.spotify.com/album/45rVXGAItPUFuTG9e10ldd) | 5:14 | 2026-04-01 | 2026-04-10 |
+| [Paper Chase](https://open.spotify.com/track/4lUs1YqwoJ4hKYlfYWZkA3) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Paper Chase](https://open.spotify.com/album/15DhkRELmap2H04SghgrDR) | 2:47 | 2026-04-21 |  |
 | [Paradise](https://open.spotify.com/track/3hBdLJdJQnVXASDXFrXVYW) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [Paradise](https://open.spotify.com/album/0QKQxo7eE6uDCn31vcPavp) | 3:14 | 2026-01-14 | 2026-02-17 |
 | [Paradise](https://open.spotify.com/track/4Lu5ceKlQ9FqzsoqlM7Mkq) | [sucozy](https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ), [subin](https://open.spotify.com/artist/1l9uUtOGIbKxJEPEPwiR55) | [Paradise](https://open.spotify.com/album/0EOyjYWQp8iEkF76CDsGFM) | 2:54 | 2022-04-12 | 2022-04-20 |
 | [Paradise](https://open.spotify.com/track/0ZzJjFumxMbb2T1f6KA0np) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Paradise](https://open.spotify.com/album/6xOGLpPsVSAkNAM8GYjl6Q) | 3:57 | 2021-12-12 | 2022-06-19 |
@@ -1320,7 +1321,7 @@
 | [실크 셔츠](https://open.spotify.com/track/16VP50D6es9JbzcCsEaHUm) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [실크 셔츠](https://open.spotify.com/album/3xa31ssGj9fokLcxaEAtNX) | 4:54 | 2024-04-30 | 2024-05-09 |
 | [어디쯤 있나요](https://open.spotify.com/track/3WAdDOETjUOylNrWj4ACNd) | [Sentimental Scenery](https://open.spotify.com/artist/3tAtWjLnNyZqmvfLx2dDJ7) | [H](https://open.spotify.com/album/12m0JCfmS6G5mMQa7ev5M1) | 3:28 | 2022-04-12 | 2022-04-17 |
 | [오늘밤은 어둠이 무서워요](https://open.spotify.com/track/6pZAmXnJflLRecgsHyJg15) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Life](https://open.spotify.com/album/7xbxy4bC51eZe4hc4gwyf6) | 3:26 | 2024-07-22 | 2024-08-01 |
-| [오디너리 러브](https://open.spotify.com/track/4ecxAtQScbtu6SVgEYUptr) | [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [오디너리 러브](https://open.spotify.com/album/4sA9WEaboNsS00S0RKFKDo) | 3:13 | 2026-03-06 |  |
+| [오디너리 러브](https://open.spotify.com/track/4ecxAtQScbtu6SVgEYUptr) | [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [오디너리 러브](https://open.spotify.com/album/4sA9WEaboNsS00S0RKFKDo) | 3:13 | 2026-03-06 | 2026-04-22 |
 | [오월의 나무](https://open.spotify.com/track/4SvybiKZukEaXOk4xA2laz) | [Lucite Tokki](https://open.spotify.com/artist/5AXPLM73kNsbt3lh5bysN9) | [오월의 나무](https://open.spotify.com/album/7eyIv9fDkaHtnVtJGj5It4) | 3:43 | 2022-03-31 | 2022-04-02 |
 | [오키나와 Okinawa](https://open.spotify.com/track/5WJtEElIz5vt7EOEGR97Yz) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [오키나와 Okinawa](https://open.spotify.com/album/16zuGRQCDsJsJL8psjJM9M) | 5:48 | 2021-12-12 | 2022-07-29 |
 | [잊고 살았던 것들](https://open.spotify.com/track/5cSY0Rpfgd9JapMTf9E45W) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [잊고 살았던 것들](https://open.spotify.com/album/3ntu3EDxTwnlUKnglHiUlh) | 3:06 | 2022-03-03 | 2022-06-10 |

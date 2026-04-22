@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeQbAAAAAAA/qISY3EX1ccDXMaA5abbd",
+  "snapshot_id": "aeVsgAAAAAAqNjcL3zx+vghRqS2ur6G0",
   "tracks": [
     {
       "added_at": null,
@@ -52,73 +52,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 208974,
-      "name": "Journey of the Prairie King",
-      "url": "https://open.spotify.com/track/3xoOHYehP6FjTLxmVtQr2t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Know",
-        "url": "https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 233965,
-      "name": "Know",
-      "url": "https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You're in both dreams (and you're scared)",
-        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "The Luck You Had",
-      "url": "https://open.spotify.com/track/4Ulj9Yqe2F5GwhplK2WXm8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 228789,
-      "name": "Party's over, Biff",
-      "url": "https://open.spotify.com/track/7GhEA17jVlT44Tyg4nKu4C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fixed It All",
-        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 197915,
-      "name": "Archives",
-      "url": "https://open.spotify.com/track/0tmgEJKwEDX1znh5owSKLo"
+      "duration_ms": 252169,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/6j9WxIbqbib7SjGKePRPkQ"
     },
     {
       "added_at": null,
@@ -140,7 +76,7 @@
       "added_at": null,
       "album": {
         "name": "You're in both dreams (and you're scared)",
-        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
       },
       "artists": [
         {
@@ -148,15 +84,15 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 215986,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/6nH7HTesM0q7KFtFISslhC"
+      "duration_ms": 264306,
+      "name": "The Luck You Had",
+      "url": "https://open.spotify.com/track/4Ulj9Yqe2F5GwhplK2WXm8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
+        "name": "Know",
+        "url": "https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr"
       },
       "artists": [
         {
@@ -164,9 +100,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 211274,
-      "name": "I got Punched in the Face, What's your Excuse",
-      "url": "https://open.spotify.com/track/0KDFtrVZ3Wv4Tw3YQKkgBe"
+      "duration_ms": 233965,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ"
     },
     {
       "added_at": null,
@@ -187,8 +123,40 @@
     {
       "added_at": null,
       "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 228789,
+      "name": "Party's over, Biff",
+      "url": "https://open.spotify.com/track/7GhEA17jVlT44Tyg4nKu4C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/6nH7HTesM0q7KFtFISslhC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boy",
-        "url": "https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI"
+        "url": "https://open.spotify.com/album/66JcnvXctFOhPeNeYH6gTh"
       },
       "artists": [
         {
@@ -198,103 +166,7 @@
       ],
       "duration_ms": 201534,
       "name": "Boy",
-      "url": "https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You're in both dreams (and you're scared)",
-        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 181771,
-      "name": "Amanita",
-      "url": "https://open.spotify.com/track/22MOx6iBZP7vE2jXx8l8tF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 223946,
-      "name": "Semi Finalists",
-      "url": "https://open.spotify.com/track/6Qu0iz1FNYPaCMaR8iBPTO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fixed It All",
-        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 246231,
-      "name": "Albert Suffers",
-      "url": "https://open.spotify.com/track/6mRqJM62E7KH4zXOWvFmAt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marcel and the Prince",
-        "url": "https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Marcel and the Prince",
-      "url": "https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You're in both dreams (and you're scared)",
-        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 244767,
-      "name": "Houses of American Style",
-      "url": "https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 211029,
-      "name": "Then People Forget",
-      "url": "https://open.spotify.com/track/3brIRujiNsAw7xXNJt9V9I"
+      "url": "https://open.spotify.com/track/3LZJ9sQuqQxYXK7xr7a26z"
     },
     {
       "added_at": null,
@@ -315,8 +187,140 @@
     {
       "added_at": null,
       "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 211274,
+      "name": "I got Punched in the Face, What's your Excuse",
+      "url": "https://open.spotify.com/track/0KDFtrVZ3Wv4Tw3YQKkgBe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You're in both dreams (and you're scared)",
-        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 181771,
+      "name": "Amanita",
+      "url": "https://open.spotify.com/track/22MOx6iBZP7vE2jXx8l8tF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marcel and the Prince",
+        "url": "https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "Marcel and the Prince",
+      "url": "https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        },
+        {
+          "name": "Patrick Miranda",
+          "url": "https://open.spotify.com/artist/3fzSiBL0wpt7sxX4Q9n4YI"
+        }
+      ],
+      "duration_ms": 259327,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0hcvSKPootQFoAVpqKBebJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 223946,
+      "name": "Semi Finalists",
+      "url": "https://open.spotify.com/track/6Qu0iz1FNYPaCMaR8iBPTO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 244767,
+      "name": "Houses of American Style",
+      "url": "https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 208974,
+      "name": "Journey of the Prairie King",
+      "url": "https://open.spotify.com/track/4iNY9h9jOd0lEhXHfYY4Cv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 211029,
+      "name": "Then People Forget",
+      "url": "https://open.spotify.com/track/3brIRujiNsAw7xXNJt9V9I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
       },
       "artists": [
         {
@@ -326,7 +330,23 @@
       ],
       "duration_ms": 276424,
       "name": "Sequoia",
-      "url": "https://open.spotify.com/track/52sgHE6V4gTMYE97K6m2tm"
+      "url": "https://open.spotify.com/track/6VPhuhPsapwZIU2EP6QceW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 197915,
+      "name": "Archives",
+      "url": "https://open.spotify.com/track/0q4wHE2zStn68DoAifJchG"
     },
     {
       "added_at": null,
@@ -343,22 +363,6 @@
       "duration_ms": 254528,
       "name": "Winona Ryder",
       "url": "https://open.spotify.com/track/3chwiu2j0vvNiOc5zvTnyY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fixed It All",
-        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 261301,
-      "name": "Fixed It All",
-      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
     }
   ],
   "unique_name": "This Is P\u00c6RISH",

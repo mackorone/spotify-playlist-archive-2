@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 394626,
+  "num_followers": 394883,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-03-20 09:28:15",
       "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Everett",
+          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
+        }
+      ],
+      "duration_ms": 219752,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/1THYlGUnGESGfmZWLW11C6"
+    },
+    {
+      "added_at": "2026-03-20 09:28:15",
+      "album": {
         "name": "South Beach",
         "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 292120,
       "name": "Never Without You",
       "url": "https://open.spotify.com/track/7G212RN10A9CTozYwBXbNq"
-    },
-    {
-      "added_at": "2026-03-20 09:28:15",
-      "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Everett",
-          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
-        }
-      ],
-      "duration_ms": 219752,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/1THYlGUnGESGfmZWLW11C6"
     },
     {
       "added_at": "2026-03-20 09:28:15",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-03-20 09:28:15",
       "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
-      },
-      "artists": [
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        }
-      ],
-      "duration_ms": 256295,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
-    },
-    {
-      "added_at": "2026-03-20 09:28:15",
-      "album": {
         "name": "Beaches",
         "url": "https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 227328,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD"
+    },
+    {
+      "added_at": "2026-03-20 09:28:15",
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
+      },
+      "artists": [
+        {
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+        }
+      ],
+      "duration_ms": 256295,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
     },
     {
       "added_at": "2026-03-20 09:28:15",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-03-20 09:28:15",
       "album": {
-        "name": "Playin' Favorites",
-        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "D\u00e9j\u00e0 Vu",
-      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
-    },
-    {
-      "added_at": "2026-03-20 09:28:15",
-      "album": {
         "name": "Sudden Burst Of Energy",
         "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 287626,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT"
+    },
+    {
+      "added_at": "2026-03-20 09:28:15",
+      "album": {
+        "name": "Playin' Favorites",
+        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
     },
     {
       "added_at": "2026-03-20 09:28:15",
@@ -863,18 +863,18 @@
     {
       "added_at": "2026-03-20 09:28:15",
       "album": {
-        "name": "Looking Up",
-        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
       },
       "artists": [
         {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
         }
       ],
-      "duration_ms": 324213,
-      "name": "Isabella",
-      "url": "https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL"
+      "duration_ms": 329346,
+      "name": "Rozil",
+      "url": "https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG"
     },
     {
       "added_at": "2026-03-20 09:28:15",
@@ -895,34 +895,18 @@
     {
       "added_at": "2026-03-20 09:28:15",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
       },
       "artists": [
         {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
         }
       ],
-      "duration_ms": 329346,
-      "name": "Rozil",
-      "url": "https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG"
-    },
-    {
-      "added_at": "2026-03-20 09:28:15",
-      "album": {
-        "name": "Big Jon",
-        "url": "https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo"
-      },
-      "artists": [
-        {
-          "name": "Lou Lizza",
-          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
-        }
-      ],
-      "duration_ms": 230886,
-      "name": "Big Jon",
-      "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
+      "duration_ms": 324213,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL"
     },
     {
       "added_at": "2026-03-20 09:28:15",
@@ -943,6 +927,22 @@
       "duration_ms": 224840,
       "name": "Pacific Breeze",
       "url": "https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN"
+    },
+    {
+      "added_at": "2026-03-20 09:28:15",
+      "album": {
+        "name": "Big Jon",
+        "url": "https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo"
+      },
+      "artists": [
+        {
+          "name": "Lou Lizza",
+          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
+        }
+      ],
+      "duration_ms": 230886,
+      "name": "Big Jon",
+      "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
     },
     {
       "added_at": "2026-03-20 09:28:15",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-03-20 09:28:15",
       "album": {
-        "name": "Let\u2019s Call It a Day",
-        "url": "https://open.spotify.com/album/5uENW3cnR0CJp5GvU8H1fy"
-      },
-      "artists": [
-        {
-          "name": "Boulevard Pacific",
-          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
-        }
-      ],
-      "duration_ms": 296913,
-      "name": "Let\u2019s Call It a Day",
-      "url": "https://open.spotify.com/track/2keNZpTW568HvOK445GGQU"
-    },
-    {
-      "added_at": "2026-03-20 09:28:15",
-      "album": {
         "name": "Can't Stop Now",
         "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2026-03-20 09:28:15",
       "album": {
+        "name": "Let\u2019s Call It a Day",
+        "url": "https://open.spotify.com/album/5uENW3cnR0CJp5GvU8H1fy"
+      },
+      "artists": [
+        {
+          "name": "Boulevard Pacific",
+          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
+        }
+      ],
+      "duration_ms": 296913,
+      "name": "Let\u2019s Call It a Day",
+      "url": "https://open.spotify.com/track/2keNZpTW568HvOK445GGQU"
+    },
+    {
+      "added_at": "2026-03-20 09:28:15",
+      "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
       },
@@ -1091,22 +1091,6 @@
       "duration_ms": 297493,
       "name": "Show Me The Way",
       "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
-    },
-    {
-      "added_at": "2026-03-20 09:28:15",
-      "album": {
-        "name": "Babysoul",
-        "url": "https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 284986,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc"
     },
     {
       "added_at": "2026-03-20 09:28:15",
@@ -1207,6 +1191,38 @@
     {
       "added_at": "2026-03-20 09:28:15",
       "album": {
+        "name": "Babysoul",
+        "url": "https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 284986,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc"
+    },
+    {
+      "added_at": "2026-03-20 09:28:15",
+      "album": {
+        "name": "Clover Club",
+        "url": "https://open.spotify.com/album/49LIEfwT6jcZJ1cjmsLGOL"
+      },
+      "artists": [
+        {
+          "name": "Skylineer",
+          "url": "https://open.spotify.com/artist/59QpQv4bZfkh1PgqVrxwii"
+        }
+      ],
+      "duration_ms": 233076,
+      "name": "Clover Club",
+      "url": "https://open.spotify.com/track/4xWyp4noK69mf5RF8sAt47"
+    },
+    {
+      "added_at": "2026-03-20 09:28:15",
+      "album": {
         "name": "Picante",
         "url": "https://open.spotify.com/album/0ZHhbsQQI6wFPYU4pClcaw"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2026-03-20 09:28:15",
       "album": {
-        "name": "Clover Club",
-        "url": "https://open.spotify.com/album/49LIEfwT6jcZJ1cjmsLGOL"
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
       },
       "artists": [
         {
-          "name": "Skylineer",
-          "url": "https://open.spotify.com/artist/59QpQv4bZfkh1PgqVrxwii"
+          "name": "Dan Siegel",
+          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
         }
       ],
-      "duration_ms": 233076,
-      "name": "Clover Club",
-      "url": "https://open.spotify.com/track/4xWyp4noK69mf5RF8sAt47"
+      "duration_ms": 332920,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN"
     },
     {
       "added_at": "2026-03-20 09:28:15",
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2026-03-20 09:28:15",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
+        "name": "Echoes Of Hollywood",
+        "url": "https://open.spotify.com/album/2YkjVrSM6KqrSwx5IjqujZ"
       },
       "artists": [
         {
-          "name": "Dan Siegel",
-          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
+          "name": "Duke Washington",
+          "url": "https://open.spotify.com/artist/6Tur5tz3yIV5EZeLwClVVq"
         }
       ],
-      "duration_ms": 332920,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN"
+      "duration_ms": 184875,
+      "name": "Echoes Of Hollywood",
+      "url": "https://open.spotify.com/track/1UZEyBb5T9EprU7s1aV7BY"
     },
     {
       "added_at": "2026-03-20 09:28:15",
@@ -1303,38 +1319,6 @@
     {
       "added_at": "2026-03-20 09:28:15",
       "album": {
-        "name": "Echoes Of Hollywood",
-        "url": "https://open.spotify.com/album/2YkjVrSM6KqrSwx5IjqujZ"
-      },
-      "artists": [
-        {
-          "name": "Duke Washington",
-          "url": "https://open.spotify.com/artist/6Tur5tz3yIV5EZeLwClVVq"
-        }
-      ],
-      "duration_ms": 184875,
-      "name": "Echoes Of Hollywood",
-      "url": "https://open.spotify.com/track/1UZEyBb5T9EprU7s1aV7BY"
-    },
-    {
-      "added_at": "2026-03-20 09:28:15",
-      "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "Saturday Cool",
-      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
-    },
-    {
-      "added_at": "2026-03-20 09:28:15",
-      "album": {
         "name": "Stay Sharp",
         "url": "https://open.spotify.com/album/02k936MVT6wGk4EHdNEkyC"
       },
@@ -1351,22 +1335,6 @@
     {
       "added_at": "2026-03-20 09:28:15",
       "album": {
-        "name": "Backseat Romance",
-        "url": "https://open.spotify.com/album/2rQHi14GepxBeBkB1l9jMp"
-      },
-      "artists": [
-        {
-          "name": "Wellington Groove",
-          "url": "https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8"
-        }
-      ],
-      "duration_ms": 150155,
-      "name": "Backseat Romance",
-      "url": "https://open.spotify.com/track/7EqnDxQXOpCxTGyPvB0P3G"
-    },
-    {
-      "added_at": "2026-03-20 09:28:15",
-      "album": {
         "name": "Southend Sunset",
         "url": "https://open.spotify.com/album/3kXRiCDIHhTcyi4f28qrap"
       },
@@ -1379,6 +1347,22 @@
       "duration_ms": 261838,
       "name": "Southend Sunset",
       "url": "https://open.spotify.com/track/25FsBrIzkGn3lRPQRKyWa1"
+    },
+    {
+      "added_at": "2026-03-20 09:28:15",
+      "album": {
+        "name": "Backseat Romance",
+        "url": "https://open.spotify.com/album/2rQHi14GepxBeBkB1l9jMp"
+      },
+      "artists": [
+        {
+          "name": "Wellington Groove",
+          "url": "https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8"
+        }
+      ],
+      "duration_ms": 150155,
+      "name": "Backseat Romance",
+      "url": "https://open.spotify.com/track/7EqnDxQXOpCxTGyPvB0P3G"
     },
     {
       "added_at": "2026-03-20 09:28:15",
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2026-03-20 09:28:15",
       "album": {
+        "name": "The Dubble",
+        "url": "https://open.spotify.com/album/4PFrstLSNUox98INthlTQT"
+      },
+      "artists": [
+        {
+          "name": "Lou Lizza",
+          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "The Dubble",
+      "url": "https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7"
+    },
+    {
+      "added_at": "2026-03-20 09:28:15",
+      "album": {
         "name": "BeatBack",
         "url": "https://open.spotify.com/album/0eAzf1Udink2LqCREIPuhR"
       },
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-03-20 09:28:15",
       "album": {
-        "name": "The Dubble",
-        "url": "https://open.spotify.com/album/4PFrstLSNUox98INthlTQT"
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
       "artists": [
         {
-          "name": "Lou Lizza",
-          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
         }
       ],
-      "duration_ms": 176000,
-      "name": "The Dubble",
-      "url": "https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7"
+      "duration_ms": 277840,
+      "name": "Saturday Cool",
+      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
     },
     {
       "added_at": "2026-03-20 09:28:15",

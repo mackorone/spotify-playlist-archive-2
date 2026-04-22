@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 19766,
+  "num_followers": 19783,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeQbAAAAAAAAFl8/3AryEJ6eRqRNDogg",
+  "snapshot_id": "aeVsgAAAAADNrleyD6vaN1xNl5es8nI/",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 134922,
       "name": "Chefe (Nova Mentalidade)",
       "url": "https://open.spotify.com/track/5X8qz0aRHHpemfMFXN2jRS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KM2",
-        "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 167625,
-      "name": "Extraordin\u00e1ria",
-      "url": "https://open.spotify.com/track/3WC5FPpPuiU8eauNnyY8dK"
     },
     {
       "added_at": null,
@@ -63,6 +47,22 @@
       "duration_ms": 144139,
       "name": "Vai Dar Ca\u00f4",
       "url": "https://open.spotify.com/track/7BodzPDMnkSi75ngUgjN9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KM2",
+        "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 167625,
+      "name": "Extraordin\u00e1ria",
+      "url": "https://open.spotify.com/track/3WC5FPpPuiU8eauNnyY8dK"
     },
     {
       "added_at": null,
@@ -107,26 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KM2",
-        "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
-        }
-      ],
-      "duration_ms": 139914,
-      "name": "KIA",
-      "url": "https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Escuro, Quem \u00c9 Voc\u00ea?",
         "url": "https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk"
       },
@@ -147,6 +127,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "KM2",
+        "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "duration_ms": 139914,
+      "name": "KIA",
+      "url": "https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7"
       },
@@ -163,6 +163,22 @@
       "duration_ms": 138947,
       "name": "100 Mili",
       "url": "https://open.spotify.com/track/0Ki6ZgS1U9IPGv5jBJ4EGq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KM2 (De Luxo)",
+        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 68063,
+      "name": "Dona de Casa",
+      "url": "https://open.spotify.com/track/3JT4I9BqWvwwvtmc4jbDLF"
     },
     {
       "added_at": null,
@@ -203,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KM2 (De Luxo)",
-        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 68063,
-      "name": "Dona de Casa",
-      "url": "https://open.spotify.com/track/3JT4I9BqWvwwvtmc4jbDLF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7"
       },
@@ -235,6 +235,22 @@
       "duration_ms": 117056,
       "name": "Megaloman\u00edaca",
       "url": "https://open.spotify.com/track/0BLmMvecr2siVp5Zd2C3Yv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KM2 (De Luxo)",
+        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 130493,
+      "name": "Parte do Mundo",
+      "url": "https://open.spotify.com/track/4mWJYUQ2RPbFizCnpOD8r2"
     },
     {
       "added_at": null,
@@ -291,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KM2 (De Luxo)",
-        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 49889,
-      "name": "Dona de Casa #04",
-      "url": "https://open.spotify.com/track/06lg27YDVi2sSxZB7H6LI1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 118541,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/4Zf8s6LPf3H83hCjkAHgzY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KM2 (De Luxo)",
+        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 49889,
+      "name": "Dona de Casa #04",
+      "url": "https://open.spotify.com/track/06lg27YDVi2sSxZB7H6LI1"
     },
     {
       "added_at": null,
@@ -363,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KM2 (De Luxo)",
-        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 130493,
-      "name": "Parte do Mundo",
-      "url": "https://open.spotify.com/track/4mWJYUQ2RPbFizCnpOD8r2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 108249,
       "name": "Lei da Atra\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0hPGlfjB2wK89hzKS8D2cq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KM2 (De Luxo)",
+        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 42722,
+      "name": "Sangue Ruim #01",
+      "url": "https://open.spotify.com/track/5WmegqJ48EYeF7L1pBgvWO"
     },
     {
       "added_at": null,
@@ -439,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KM2 (De Luxo)",
-        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 42722,
-      "name": "Sangue Ruim #01",
-      "url": "https://open.spotify.com/track/5WmegqJ48EYeF7L1pBgvWO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 142500,
       "name": "Hentai",
       "url": "https://open.spotify.com/track/6hgtuciqHAArNVTXuglAnh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KM2 (De Luxo)",
+        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 107522,
+      "name": "Hong He",
+      "url": "https://open.spotify.com/track/6g6R2NZhbJMR0scWTPprws"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KM2 (De Luxo)",
-        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 107522,
-      "name": "Hong He",
-      "url": "https://open.spotify.com/track/6g6R2NZhbJMR0scWTPprws"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NTGMX",
         "url": "https://open.spotify.com/album/1PX0GHNvrbAHtOyfBSilVQ"
       },
@@ -563,6 +563,26 @@
       "duration_ms": 175565,
       "name": "SXO - Irm\u00e3s de Pau Remix",
       "url": "https://open.spotify.com/track/4vr8YAo8u75p01nfqRdgJt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KM2 (De Luxo)",
+        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 129577,
+      "name": "KM2",
+      "url": "https://open.spotify.com/track/5ZBkP9AbjM2JN7n0WKqpYp"
     },
     {
       "added_at": null,
@@ -603,26 +623,6 @@
       "duration_ms": 168588,
       "name": "Maserati",
       "url": "https://open.spotify.com/track/43cQmlREc5Fvt1f2Lo5RLz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KM2 (De Luxo)",
-        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 129577,
-      "name": "KM2",
-      "url": "https://open.spotify.com/track/5ZBkP9AbjM2JN7n0WKqpYp"
     },
     {
       "added_at": null,
@@ -983,30 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
-        }
-      ],
-      "duration_ms": 134569,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetisas No Topo 2",
         "url": "https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 556662,
       "name": "Poetisas No Topo 2",
       "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "duration_ms": 134569,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
     },
     {
       "added_at": null,

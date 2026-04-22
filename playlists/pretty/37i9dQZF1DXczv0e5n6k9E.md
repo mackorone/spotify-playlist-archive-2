@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Mente Fuerte
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,142 likes - 59 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,154 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 54 | [VROXI](https://open.spotify.com/track/6IqG2lk4zHOowOMUUmEWin) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [10](https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0) | 2:47 |
 | 55 | [SEIRA](https://open.spotify.com/track/1zT7YyT8AUaYIriXCN7nWY) | [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1), [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [ODYDOZE](https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ) | [SEIRA](https://open.spotify.com/album/45FUklLice74eFv7rpNnAM) | 2:24 |
 | 56 | [GreeKs](https://open.spotify.com/track/2ENXfsQFwBug5rvsZ12I12) | [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1), [Dennis Green](https://open.spotify.com/artist/30bQ8c641ETu2iVczEdZSk) | [GreeKs](https://open.spotify.com/album/56XOp7JXGSPrnjYmbdVRLV) | 2:29 |
-| 57 | [PISTEPSE ME](https://open.spotify.com/track/37COHCA4kr6orek8bUAFhG) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [PISTEPSE ME](https://open.spotify.com/album/1WqJYOxpOfSy8jvK0hso31) | 2:49 |
-| 58 | [KENZO](https://open.spotify.com/track/72RVUaUXgSjqtWse5mQmDm) | [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [INE HERMES](https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug) | 2:44 |
-| 59 | [ASPRO](https://open.spotify.com/track/7w74ILEXCxGaowYAKTG57V) | [Mel](https://open.spotify.com/artist/0fo4hbtY8v9248tMgaR8i3) | [ASPRO / PICASSO FREESTYLE](https://open.spotify.com/album/69uWZYlSUROhjH477Yk3ZK) | 1:22 |
+| 57 | [S 500](https://open.spotify.com/track/1sEdiB9Dhf81Pg9Gv2LQhb) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [S 500](https://open.spotify.com/album/5EFeCW3UV4d4roiVIUCxk7) | 2:47 |
+| 58 | [PISTEPSE ME](https://open.spotify.com/track/37COHCA4kr6orek8bUAFhG) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [PISTEPSE ME](https://open.spotify.com/album/1WqJYOxpOfSy8jvK0hso31) | 2:49 |
+| 59 | [KENZO](https://open.spotify.com/track/72RVUaUXgSjqtWse5mQmDm) | [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [INE HERMES](https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug) | 2:44 |
+| 60 | [ASPRO](https://open.spotify.com/track/7w74ILEXCxGaowYAKTG57V) | [Mel](https://open.spotify.com/artist/0fo4hbtY8v9248tMgaR8i3) | [ASPRO / PICASSO FREESTYLE](https://open.spotify.com/album/69uWZYlSUROhjH477Yk3ZK) | 1:22 |
 
-Snapshot ID: `AAAAABtjXmv18DNwaga5la8fj4XyH3oT`
+Snapshot ID: `AAAAAIzEtVld1bO13QjeMtLa41QAWd+M`

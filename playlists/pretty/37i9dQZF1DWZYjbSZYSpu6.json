@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: \ub518\ub518 (DINDIN) & \uc870\ud604\uc601(\ub808\uc778\ubcf4\uc6b0))",
-  "num_followers": 396080,
+  "num_followers": 396079,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,26 @@
     {
       "added_at": "2026-03-31 04:01:12",
       "album": {
+        "name": "Ghosting",
+        "url": "https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo"
+      },
+      "artists": [
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Ghosting (Prod. CODE KUNST)",
+      "url": "https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub"
+    },
+    {
+      "added_at": "2026-03-31 04:01:12",
+      "album": {
         "name": "Cave Me In",
         "url": "https://open.spotify.com/album/3no6YVGaUUBPQjfeUbajXL"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 214158,
       "name": "Cave Me In",
       "url": "https://open.spotify.com/track/79ptYtWnpAnsQutzg2xSFk"
-    },
-    {
-      "added_at": "2026-03-31 04:01:12",
-      "album": {
-        "name": "Ghosting",
-        "url": "https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo"
-      },
-      "artists": [
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Ghosting (Prod. CODE KUNST)",
-      "url": "https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub"
     },
     {
       "added_at": "2026-03-31 04:01:12",
@@ -963,26 +963,6 @@
     {
       "added_at": "2026-03-31 04:01:12",
       "album": {
-        "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
-        "url": "https://open.spotify.com/album/3LKDYgN60NINDo6HBynrq0"
-      },
-      "artists": [
-        {
-          "name": "Hello Ga-Young",
-          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
-        },
-        {
-          "name": "WONPIL",
-          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
-      "url": "https://open.spotify.com/track/3pw62nzuActNxaMDhxoQVS"
-    },
-    {
-      "added_at": "2026-03-31 04:01:12",
-      "album": {
         "name": "Never Gonna Dance Again : Act 2 - The 3rd Album",
         "url": "https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 247000,
       "name": "Airport Goodbyes (Prod. The Black Skirts)",
       "url": "https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN"
+    },
+    {
+      "added_at": "2026-03-31 04:01:12",
+      "album": {
+        "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
+        "url": "https://open.spotify.com/album/3LKDYgN60NINDo6HBynrq0"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        },
+        {
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
+      "url": "https://open.spotify.com/track/3pw62nzuActNxaMDhxoQVS"
     }
   ],
   "unique_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",

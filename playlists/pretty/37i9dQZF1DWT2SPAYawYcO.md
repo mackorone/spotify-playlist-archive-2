@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Olivia Rodrigo, The Kid LAROI, Tyla, Zara Larsson, John Summit, Devault, Matt Corby + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,970 likes - 87 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,963 likes - 87 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

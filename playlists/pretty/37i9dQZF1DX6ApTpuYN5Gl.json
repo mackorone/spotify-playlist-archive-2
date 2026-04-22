@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 242844,
+  "num_followers": 242848,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -983,18 +983,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
+        "name": "Sight Of You",
+        "url": "https://open.spotify.com/album/1yOhJSW1qqd1X1tvzKKsZn"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
         }
       ],
-      "duration_ms": 198312,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
+      "duration_ms": 251200,
+      "name": "Sight Of You",
+      "url": "https://open.spotify.com/track/2rw5o91jFj0YD8NzahuZYs"
     }
   ],
   "unique_name": "melancholia",

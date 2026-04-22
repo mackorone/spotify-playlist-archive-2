@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Dow Raiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,957 likes - 74 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,934 likes - 74 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Caribe](https://open.spotify.com/track/6pCF5uenLg1y6aWk6VFIe1) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Mangueman](https://open.spotify.com/artist/5tU6zdkKr3tp3fH2MyZYW4), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Futuro Passado](https://open.spotify.com/album/4PHBv6NuMw53OScHPXjRDp) | 4:41 |
 | 2 | [Bandido Bom](https://open.spotify.com/track/0LycSmuVfTW1XortG0aH8g) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o), [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL) | [Bandido Bom](https://open.spotify.com/album/5zU0RFmgMNWD914trkRrsA) | 2:52 |
-| 3 | [EM MINHA JANELA](https://open.spotify.com/track/2hIYE9FgGnYq45lkSjb3CV) | [Tristão](https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Joab Beats](https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh) | [EM MINHA JANELA](https://open.spotify.com/album/6wTmDKfnOdNbYKYM7SBhJS) | 3:00 |
+| 3 | [EM MINHA JANELA](https://open.spotify.com/track/2hIYE9FgGnYq45lkSjb3CV) | [Tristão](https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH), [Joab Beats](https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [EM MINHA JANELA](https://open.spotify.com/album/6wTmDKfnOdNbYKYM7SBhJS) | 3:00 |
 | 4 | [Putinho piru rodado](https://open.spotify.com/track/1jBBiD8yyKuWggjR4H2t2z) | [Bia Soull](https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [DJ CARLOZS](https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU) | [PORNOGRAFIA AUDITIVA](https://open.spotify.com/album/0nRwEFPONzItt3VjqLzq2Q) | 3:30 |
 | 5 | [Joalheria](https://open.spotify.com/track/7I7H8iKHHg8RpVBBELmxec) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Joalheria](https://open.spotify.com/album/0Td4p0npDP1OvguRLoqoJc) | 2:07 |
 | 6 | [SLIME FALA CMG](https://open.spotify.com/track/39dyVueQFUdHl9asJymaWt) | [Fabiow011](https://open.spotify.com/artist/4I5Y9NX4RZ5KA78a5UKsVY), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [SLIME FALA CMG](https://open.spotify.com/album/4F0og6QXR7Bs8nJcwsL5U6) | 2:53 |

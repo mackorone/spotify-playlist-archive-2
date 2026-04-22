@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: The Gnomes",
+  "description": "The best new music by independent artists and labels. Cover: LUBBY",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -4578,7 +4578,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 180209,
       "name": "as you are",
       "url": "https://open.spotify.com/track/6dX0pWZ58EQTpt1bkQqJpd"
@@ -12722,6 +12722,24 @@
       "duration_ms": 270820,
       "name": "Certified Freak",
       "url": "https://open.spotify.com/track/23ABMAK8TWcOvDNSwO11Y6"
+    },
+    {
+      "album": {
+        "name": "Chain Reaction",
+        "url": "https://open.spotify.com/album/1RZrWRqOEBpdEpedrFvy8x"
+      },
+      "artists": [
+        {
+          "name": "LUBBY",
+          "url": "https://open.spotify.com/artist/2nBIy2jbFxJLOWOSdIVYqa"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204694,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/3yxOYpzHnm1EqJxqyewsVb"
     },
     {
       "album": {
@@ -24764,7 +24782,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 152079,
       "name": "Feel This",
       "url": "https://open.spotify.com/track/4Dr18icLddtjqPurriBNC7"
@@ -29615,6 +29633,24 @@
     },
     {
       "album": {
+        "name": "Good God (What Have We Become)",
+        "url": "https://open.spotify.com/album/4Ydl8ZZeZNssNYS9WO4ILY"
+      },
+      "artists": [
+        {
+          "name": "Jeane",
+          "url": "https://open.spotify.com/artist/7f5gRNhO2dR1V98GUoLtpI"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182624,
+      "name": "Good God (What Have We Become)",
+      "url": "https://open.spotify.com/track/3UllmUHNOWaxjBSKNa26pF"
+    },
+    {
+      "album": {
         "name": "GOOD GOD! feat. KCH",
         "url": "https://open.spotify.com/album/41hWIlxV4XJ296VSOqLg3S"
       },
@@ -30216,6 +30252,24 @@
       "duration_ms": 162000,
       "name": "Green",
       "url": "https://open.spotify.com/track/3Agiyhibs331JrfoGOUNzf"
+    },
+    {
+      "album": {
+        "name": "green eyes",
+        "url": "https://open.spotify.com/album/0ln7z8AO5UILpaRhB7ABjo"
+      },
+      "artists": [
+        {
+          "name": "Miles Nautu",
+          "url": "https://open.spotify.com/artist/0o5U1p6ZUurte1gamdqmLI"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245052,
+      "name": "green eyes",
+      "url": "https://open.spotify.com/track/3WwHdeYbevafqyeePaASmn"
     },
     {
       "album": {
@@ -41892,7 +41946,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 225266,
       "name": "Let The Girl Out",
       "url": "https://open.spotify.com/track/2mNX8x4bY3Bgz6u1WAa80L"
@@ -44760,7 +44814,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 191130,
       "name": "Lover, where'd you go",
       "url": "https://open.spotify.com/track/6BQ1cFHSN2CgBigZqBoCzq"
@@ -66347,6 +66401,24 @@
     },
     {
       "album": {
+        "name": "snow angels",
+        "url": "https://open.spotify.com/album/79UZ2WFhdb2XqxtNUk9rfN"
+      },
+      "artists": [
+        {
+          "name": "Your Personal Chef",
+          "url": "https://open.spotify.com/artist/0b8l6VFKzDwwzj7l3MzOPn"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180652,
+      "name": "snow angels",
+      "url": "https://open.spotify.com/track/6iJW5YyaHt8xilWVWoPMEe"
+    },
+    {
+      "album": {
         "name": "So Close",
         "url": "https://open.spotify.com/album/6OHoOcErZM2y1CHnkE7mlg"
       },
@@ -73184,7 +73256,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 171111,
       "name": "The Perfect Swan",
       "url": "https://open.spotify.com/track/19jaXQXCHF0qyhOYM6AzhB"
@@ -76620,6 +76692,24 @@
       "duration_ms": 164163,
       "name": "Turn Up The Sound",
       "url": "https://open.spotify.com/track/0eaatwR4Y32JUFtaYn4nba"
+    },
+    {
+      "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/2sXgSXgDqGGCLDuAiwyQHn"
+      },
+      "artists": [
+        {
+          "name": "Pain Gain",
+          "url": "https://open.spotify.com/artist/4GEGPGDIAgIIKoGssZ4EYd"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308545,
+      "name": "Turning Point",
+      "url": "https://open.spotify.com/track/0dPJFiFtHFNOMpcXg7iWY5"
     },
     {
       "album": {

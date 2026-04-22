@@ -1210,10 +1210,28 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 182413,
       "name": "School Days",
       "url": "https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182413,
+      "name": "School Days",
+      "url": "https://open.spotify.com/track/1MF8OVGu3gujAmcWGCcjuH"
     },
     {
       "album": {
@@ -1554,6 +1572,24 @@
     {
       "album": {
         "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232333,
+      "name": "You Drive Me Wild",
+      "url": "https://open.spotify.com/track/1u9Gqhag4VdMQ7uOVmpOSu"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
       },
       "artists": [
@@ -1564,7 +1600,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 232333,
       "name": "You Drive Me Wild",
       "url": "https://open.spotify.com/track/6I5Taz8OHaWBy6KqoMYYEf"

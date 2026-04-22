@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: Melanie C  💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,828 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,829 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 16 | [Von dutch](https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:44 |
 | 17 | [Weekend](https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Trip](https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW) | [Weekend](https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND) | 3:16 |
 | 18 | [Slight Werk \- Club Mix](https://open.spotify.com/track/3AenQimpj4gFY3e0CnsbD1) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Slight Werk \(Club Mix\)](https://open.spotify.com/album/3USLXh5K8mET0msxPqYXpP) | 2:58 |
-| 19 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/57yeWyaoeTt26p0dlEZukQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/5JIdaV4V6IaLMQG6uzAhJY) | [Ceremonials](https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g) | 3:38 |
+| 19 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/57yeWyaoeTt26p0dlEZukQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ceremonials](https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g) | 3:38 |
 | 20 | [Illusion](https://open.spotify.com/track/7CVEZE9RSUO3MfdqF4TRgv) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Illusion](https://open.spotify.com/album/2x5ye8DOvnqm9csJAHUbmW) | 2:23 |
 | 21 | [Training Season \- Chloé Caillet Mix](https://open.spotify.com/track/77Qh1N8NkXpQv3ShPLNsiS) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Training Season \(Remixes\)](https://open.spotify.com/album/5ps7DDNmOIh4OchVMajS3r) | 4:55 |
 | 22 | [Bite](https://open.spotify.com/track/2kqEtJ6AkXcRMDkoEcVext) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Bite](https://open.spotify.com/album/6lxHLwfqK6pihbiDLDHAAe) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 49 | [Nightshift](https://open.spotify.com/track/4uTGJvLu4HWSgtqav9j6E1) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Nightshift](https://open.spotify.com/album/4diS3O2zXWbIkVjYrzmOKZ) | 2:53 |
 | 50 | [RM 1](https://open.spotify.com/track/1aYYb062OfrKC8bb5WPz68) | [Saoirse](https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX) | [RM 1](https://open.spotify.com/album/5OQzr5MCJ4dLmWEVDMXm4x) | 5:40 |
 
-Snapshot ID: `AAAAAK5h5+Y3yr/FEvt2O6TeOAuGccF4`
+Snapshot ID: `AAAAAMxBuag4Eck09SwU8MHf12/wYg/L`

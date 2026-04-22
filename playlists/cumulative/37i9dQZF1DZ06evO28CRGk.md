@@ -4,7 +4,7 @@
 
 > This is Marco Polo\. The essential tracks, all in one playlist.
 
-187 songs - 10 hr 14 min
+188 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [Swarm](https://open.spotify.com/track/1ouOFeQ8FhStvLlEJQdMBK) | [A\-F\-R\-O](https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [A\-F\-R\-O Polo](https://open.spotify.com/album/31UBDei39FVTvh7rug1IO9) | 2:57 | 2025-11-02 |  |
 | [Talkin’ Bass](https://open.spotify.com/track/3ywY8fwUmT79JGrdMJ8m3v) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [The Many Moods of Marco Polo Vol\. 1](https://open.spotify.com/album/5fKB6tISAVk4LsLwqfc5dZ) | 2:45 | 2026-02-18 | 2026-02-21 |
 | [The Bridge](https://open.spotify.com/track/6nWkQUk7tuu2Dg2oUg0lII) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [PROMISE](https://open.spotify.com/artist/2LTPd2Sj8WO9QyOUz6VK0u) | [The Stupendous Adventures of Marco Polo](https://open.spotify.com/album/5r5uYvL1suWVjWoHZFDRrQ) | 3:08 | 2025-04-16 | 2025-04-25 |
-| [The Fight Song \(feat\. Pharoahe Monch\)](https://open.spotify.com/track/7lbwEOoHStDkvZEMQbKgv7) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [A Breukelen Story](https://open.spotify.com/album/0GldmQgDQiN0sDSeAwjujo) | 3:47 | 2025-12-01 |  |
+| [The Cutting Room \(skit\)](https://open.spotify.com/track/2e2jPmrQ9jwKZDUJDpTx1g) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [A Breukelen Story](https://open.spotify.com/album/7vNREDD0hySgbxtzhBLl9t) | 0:45 | 2026-04-22 |  |
+| [The Fight Song \(feat\. Pharoahe Monch\)](https://open.spotify.com/track/7lbwEOoHStDkvZEMQbKgv7) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [A Breukelen Story](https://open.spotify.com/album/0GldmQgDQiN0sDSeAwjujo) | 3:47 | 2025-12-01 | 2026-04-22 |
 | [The Fight Song \(feat\. Pharoahe Monch\)](https://open.spotify.com/track/3Semiur4LDOYnSjSKfWegW) | [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [A Breukelen Story](https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth) | 3:47 | 2023-12-13 | 2025-11-06 |
 | [The Greatest](https://open.spotify.com/track/4vBanFyeKfyYthwaqVzlhq) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Canned Goods](https://open.spotify.com/album/5jEiB3VnjRFD1sOTpChayh) | 3:33 | 2025-08-27 | 2025-09-09 |
 | [The Radar](https://open.spotify.com/track/5vGDozsCCleiuIzF2Q2I4P) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Port Authority](https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc) | 4:22 | 2025-12-30 | 2026-01-15 |

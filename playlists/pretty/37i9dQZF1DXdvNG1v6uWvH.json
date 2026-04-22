@@ -543,22 +543,6 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 195018,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 211885,
       "name": "Moviestar",
       "url": "https://open.spotify.com/track/4kmGiR8yUvjlf94arvTFLy"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 195018,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
+        "name": "Breaking Point",
+        "url": "https://open.spotify.com/album/12GfWaAGM3hXcWjdyuF6bK"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 157149,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/5v7Wn3282jUbkqT8dhkCwn"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
         "name": "\u304a\u306f\u3088\u3046",
         "url": "https://open.spotify.com/album/10XtjZqcqjXxRdUf0zH5tU"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 228865,
       "name": "\u304a\u306f\u3088\u3046",
       "url": "https://open.spotify.com/track/4CumCsapxGMoFpw9EZS7M0"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
-        "name": "Breaking Point",
-        "url": "https://open.spotify.com/album/12GfWaAGM3hXcWjdyuF6bK"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 157149,
-      "name": "Breaking Point",
-      "url": "https://open.spotify.com/track/5v7Wn3282jUbkqT8dhkCwn"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "Garden (Bang Goes the Drum)",
-        "url": "https://open.spotify.com/album/0F3GbkflTypBRivJQAtNNL"
-      },
-      "artists": [
-        {
-          "name": "Becca Hatch",
-          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Garden (Bang Goes the Drum)",
-      "url": "https://open.spotify.com/track/3XBIRvFmD3Az0karsCXVr3"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
         "name": "A Moment Like That",
         "url": "https://open.spotify.com/album/1cKJa8ObjWixbZFpkSxMqI"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
+        "name": "Garden (Bang Goes the Drum)",
+        "url": "https://open.spotify.com/album/0F3GbkflTypBRivJQAtNNL"
+      },
+      "artists": [
+        {
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Garden (Bang Goes the Drum)",
+      "url": "https://open.spotify.com/track/3XBIRvFmD3Az0karsCXVr3"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
         "name": "Miss You Like Hell",
         "url": "https://open.spotify.com/album/5yXnvCbolLRgQD5B46LIfx"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 178124,
       "name": "Miss You Like Hell",
       "url": "https://open.spotify.com/track/3bakvSaZbHr7fCipik4sMA"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
+        "name": "She's Missing",
+        "url": "https://open.spotify.com/album/7n7ktFWH8qWh5GJsOnWo4r"
+      },
+      "artists": [
+        {
+          "name": "Maximillian",
+          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
+        }
+      ],
+      "duration_ms": 184655,
+      "name": "She's Missing",
+      "url": "https://open.spotify.com/track/3zjgHWQEOHrtN801SqtOzo"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -919,22 +935,6 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "She's Missing",
-        "url": "https://open.spotify.com/album/7n7ktFWH8qWh5GJsOnWo4r"
-      },
-      "artists": [
-        {
-          "name": "Maximillian",
-          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
-        }
-      ],
-      "duration_ms": 184655,
-      "name": "She's Missing",
-      "url": "https://open.spotify.com/track/3zjgHWQEOHrtN801SqtOzo"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
         "name": "Please Like Me",
         "url": "https://open.spotify.com/album/0uB17I8AT9aGuQwO8X0aaC"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "Delusional",
-        "url": "https://open.spotify.com/album/0ypHHAUT74yYKJjdOQgqQi"
-      },
-      "artists": [
-        {
-          "name": "Mae Stephens",
-          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/4h9sNzgP3m0gSyNGatmOa8"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
         "name": "HEARTLESS DARLIN' !",
         "url": "https://open.spotify.com/album/1GqrJXcxdKSSZ7GcJkLhmr"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 173000,
       "name": "HEARTLESS DARLIN' !",
       "url": "https://open.spotify.com/track/1ZBt9NGhY81MeymOub5Y3A"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
+        "name": "Delusional",
+        "url": "https://open.spotify.com/album/0ypHHAUT74yYKJjdOQgqQi"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/4h9sNzgP3m0gSyNGatmOa8"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "Fine Wine",
-        "url": "https://open.spotify.com/album/4DMnvcXKuVyGGMF9qmEIps"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "Fine Wine",
-      "url": "https://open.spotify.com/track/7F2q79cnAFXabLJrj33YCc"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
         "name": "sad song",
         "url": "https://open.spotify.com/album/3M4kVE1218U6n9Qh6JQ03I"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "MANIFESTO",
-        "url": "https://open.spotify.com/album/7FjnhKX5JtkOwuEOO7GbGg"
+        "name": "Fine Wine",
+        "url": "https://open.spotify.com/album/4DMnvcXKuVyGGMF9qmEIps"
       },
       "artists": [
         {
-          "name": "Claar",
-          "url": "https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa"
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
         }
       ],
-      "duration_ms": 145344,
-      "name": "MANIFESTO",
-      "url": "https://open.spotify.com/track/1UsW8IrC76C6iC9uHTvKne"
+      "duration_ms": 142410,
+      "name": "Fine Wine",
+      "url": "https://open.spotify.com/track/7F2q79cnAFXabLJrj33YCc"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -1079,6 +1063,22 @@
       "duration_ms": 173357,
       "name": "what a waste!",
       "url": "https://open.spotify.com/track/3Ugh5aihqQGsvlyV4VKY6k"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
+        "name": "MANIFESTO",
+        "url": "https://open.spotify.com/album/7FjnhKX5JtkOwuEOO7GbGg"
+      },
+      "artists": [
+        {
+          "name": "Claar",
+          "url": "https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa"
+        }
+      ],
+      "duration_ms": 145344,
+      "name": "MANIFESTO",
+      "url": "https://open.spotify.com/track/1UsW8IrC76C6iC9uHTvKne"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
+        "name": "Out of Season",
+        "url": "https://open.spotify.com/album/46EgsZoleyuVUlkBULWEFK"
+      },
+      "artists": [
+        {
+          "name": "Yvonnes",
+          "url": "https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "Out of Season",
+      "url": "https://open.spotify.com/track/4DIt5zD5WXi5nVM3rEDkNt"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
         "name": "CRY BABY",
         "url": "https://open.spotify.com/album/2SciuyqYfSZYiPwGv6rFbF"
       },
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "Out of Season",
-        "url": "https://open.spotify.com/album/46EgsZoleyuVUlkBULWEFK"
+        "name": "Stop Thinking Bout You",
+        "url": "https://open.spotify.com/album/6as0LFwnHLazFuNYR9E5Nb"
       },
       "artists": [
         {
-          "name": "Yvonnes",
-          "url": "https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p"
+          "name": "Hakami",
+          "url": "https://open.spotify.com/artist/5PCjZI5anffjjvWELUQNEV"
         }
       ],
-      "duration_ms": 180857,
-      "name": "Out of Season",
-      "url": "https://open.spotify.com/track/4DIt5zD5WXi5nVM3rEDkNt"
+      "duration_ms": 175384,
+      "name": "Stop Thinking Bout You",
+      "url": "https://open.spotify.com/track/6WFFc9iCDRVBSGUTMVLL45"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -1339,50 +1355,18 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "Stop Thinking Bout You",
-        "url": "https://open.spotify.com/album/6as0LFwnHLazFuNYR9E5Nb"
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/3ZsLuINnm3ygsniFXYDk5F"
       },
       "artists": [
         {
-          "name": "Hakami",
-          "url": "https://open.spotify.com/artist/5PCjZI5anffjjvWELUQNEV"
+          "name": "housebarn",
+          "url": "https://open.spotify.com/artist/724Inq751yePeCrEBBZtl8"
         }
       ],
-      "duration_ms": 175384,
-      "name": "Stop Thinking Bout You",
-      "url": "https://open.spotify.com/track/6WFFc9iCDRVBSGUTMVLL45"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
-        "name": "Pal\u00e6",
-        "url": "https://open.spotify.com/album/3I9NPxc0XnFO6hG5cxQ7sV"
-      },
-      "artists": [
-        {
-          "name": "MALM",
-          "url": "https://open.spotify.com/artist/3LYDRjuwJgM8drnTLHa6HD"
-        }
-      ],
-      "duration_ms": 231301,
-      "name": "Pal\u00e6",
-      "url": "https://open.spotify.com/track/0VknFFFDTsqKRII6vQ14U4"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
-        "name": "THE DEBUTANTE",
-        "url": "https://open.spotify.com/album/6ToLxipvoGs6Gs5QgnWgm5"
-      },
-      "artists": [
-        {
-          "name": "CHILD + the banned",
-          "url": "https://open.spotify.com/artist/37jg6o775fa2KRD9iEGcNH"
-        }
-      ],
-      "duration_ms": 196217,
-      "name": "Butterfly on Cocaine",
-      "url": "https://open.spotify.com/track/3k5ws0Q7U1thPHxs88iXHR"
+      "duration_ms": 173801,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/57ct5NcRuzA18jAhdq9aBC"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -1403,18 +1387,34 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/3ZsLuINnm3ygsniFXYDk5F"
+        "name": "THE DEBUTANTE",
+        "url": "https://open.spotify.com/album/6ToLxipvoGs6Gs5QgnWgm5"
       },
       "artists": [
         {
-          "name": "housebarn",
-          "url": "https://open.spotify.com/artist/724Inq751yePeCrEBBZtl8"
+          "name": "CHILD + the banned",
+          "url": "https://open.spotify.com/artist/37jg6o775fa2KRD9iEGcNH"
         }
       ],
-      "duration_ms": 173801,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/57ct5NcRuzA18jAhdq9aBC"
+      "duration_ms": 196217,
+      "name": "Butterfly on Cocaine",
+      "url": "https://open.spotify.com/track/3k5ws0Q7U1thPHxs88iXHR"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
+        "name": "Pal\u00e6",
+        "url": "https://open.spotify.com/album/3I9NPxc0XnFO6hG5cxQ7sV"
+      },
+      "artists": [
+        {
+          "name": "MALM",
+          "url": "https://open.spotify.com/artist/3LYDRjuwJgM8drnTLHa6HD"
+        }
+      ],
+      "duration_ms": 231301,
+      "name": "Pal\u00e6",
+      "url": "https://open.spotify.com/track/0VknFFFDTsqKRII6vQ14U4"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -1447,6 +1447,26 @@
       "duration_ms": 219446,
       "name": "Wrecking My Brain",
       "url": "https://open.spotify.com/track/2c43cDQj9HZv4yd5GoXZzO"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
+        "name": "Kingmaker (with Julia Michaels)",
+        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "Kingmaker (with Julia Michaels)",
+      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
     }
   ],
   "unique_name": "New Music Friday Iceland",

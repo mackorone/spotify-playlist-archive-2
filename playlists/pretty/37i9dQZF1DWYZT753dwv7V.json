@@ -1,6 +1,6 @@
 {
   "description": "I pi\u00f9 grandi successi della storia del festival \ud83c\udfc6 ",
-  "num_followers": 103255,
+  "num_followers": 103253,
   "original_name": "Sanremo: La Storia",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Cosa rester\u00e0 degli anni 80",
-        "url": "https://open.spotify.com/album/5h1BCrp73i6cymL4ZmEEDa"
+        "name": "Vorrei incontrarti fra cent'anni",
+        "url": "https://open.spotify.com/album/1WOdMrMh0SxUThs0XM6WP5"
       },
       "artists": [
         {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+          "name": "Ron",
+          "url": "https://open.spotify.com/artist/3vuKNU7lgoecqjnArUKom6"
+        },
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
         }
       ],
-      "duration_ms": 312360,
-      "name": "Cosa Rester\u00e0 Degli Anni 80",
-      "url": "https://open.spotify.com/track/5mSnAIQ8LvszjNglBpKzAh"
+      "duration_ms": 236560,
+      "name": "Vorrei incontrarti fra cent'anni (feat. Tosca)",
+      "url": "https://open.spotify.com/track/6Y2tQcPJaknHKY0RLH3jaf"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -379,22 +383,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Vorrei incontrarti fra cent'anni",
-        "url": "https://open.spotify.com/album/1WOdMrMh0SxUThs0XM6WP5"
+        "name": "Cosa rester\u00e0 degli anni 80",
+        "url": "https://open.spotify.com/album/5h1BCrp73i6cymL4ZmEEDa"
       },
       "artists": [
         {
-          "name": "Ron",
-          "url": "https://open.spotify.com/artist/3vuKNU7lgoecqjnArUKom6"
-        },
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
         }
       ],
-      "duration_ms": 236560,
-      "name": "Vorrei incontrarti fra cent'anni (feat. Tosca)",
-      "url": "https://open.spotify.com/track/6Y2tQcPJaknHKY0RLH3jaf"
+      "duration_ms": 312360,
+      "name": "Cosa Rester\u00e0 Degli Anni 80",
+      "url": "https://open.spotify.com/track/5mSnAIQ8LvszjNglBpKzAh"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "NEI SOGNI NESSUNO \u00c8 MONOGAMO",
-        "url": "https://open.spotify.com/album/3lWe6FOAIDAOjJoDIzu67e"
-      },
-      "artists": [
-        {
-          "name": "Dargen D'Amico",
-          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
-        }
-      ],
-      "duration_ms": 198082,
-      "name": "Dove Si Balla",
-      "url": "https://open.spotify.com/track/5a6ABzVhqgVKI1znaI9tar"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "CENERE",
         "url": "https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 208323,
       "name": "CENERE",
       "url": "https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "NEI SOGNI NESSUNO \u00c8 MONOGAMO",
+        "url": "https://open.spotify.com/album/3lWe6FOAIDAOjJoDIzu67e"
+      },
+      "artists": [
+        {
+          "name": "Dargen D'Amico",
+          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
+        }
+      ],
+      "duration_ms": 198082,
+      "name": "Dove Si Balla",
+      "url": "https://open.spotify.com/track/5a6ABzVhqgVKI1znaI9tar"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Le Robe Che Ha Detto Adriano",
-        "url": "https://open.spotify.com/album/7zgNDaFDZCNcObGA6JEyte"
-      },
-      "artists": [
-        {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
-        }
-      ],
-      "duration_ms": 255266,
-      "name": "Il Ragazzo Della Via Gluck",
-      "url": "https://open.spotify.com/track/11MoOaSoxLOvryOh6Ke5zK"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Tango (1991 - Remaster)",
         "url": "https://open.spotify.com/album/6vtR5awftB25quBXs42aA3"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 252960,
       "name": "Vacanze Romane - 1991 Remaster",
       "url": "https://open.spotify.com/track/4PRdGQsEQeqvfYZTPN6pDC"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Le Robe Che Ha Detto Adriano",
+        "url": "https://open.spotify.com/album/7zgNDaFDZCNcObGA6JEyte"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Il Ragazzo Della Via Gluck",
+      "url": "https://open.spotify.com/track/11MoOaSoxLOvryOh6Ke5zK"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Barbara e altri Carella",
-        "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
-      },
-      "artists": [
-        {
-          "name": "Enzo Carella",
-          "url": "https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "Barbara",
-      "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/0jDgMZrhUnBCPTH0W9sxRD"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 250053,
       "name": "Siamo uguali",
       "url": "https://open.spotify.com/track/1E646EbKhR5pVWZGswXta8"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Barbara e altri Carella",
+        "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
+      },
+      "artists": [
+        {
+          "name": "Enzo Carella",
+          "url": "https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "Barbara",
+      "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "My Mamma",
-        "url": "https://open.spotify.com/album/6HDpIK6j126R0D5xfbuIDx"
-      },
-      "artists": [
-        {
-          "name": "La rappresentante di lista",
-          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
-        }
-      ],
-      "duration_ms": 184311,
-      "name": "Ciao Ciao",
-      "url": "https://open.spotify.com/track/4nY63p14MsBDJXRRbhFpas"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Riccardo Del Turco",
         "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 213173,
       "name": "Cosa hai messo nel caff\u00e8?",
       "url": "https://open.spotify.com/track/2BTvcx218RPaIXyH5Gz3xa"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "My Mamma",
+        "url": "https://open.spotify.com/album/6HDpIK6j126R0D5xfbuIDx"
+      },
+      "artists": [
+        {
+          "name": "La rappresentante di lista",
+          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
+        }
+      ],
+      "duration_ms": 184311,
+      "name": "Ciao Ciao",
+      "url": "https://open.spotify.com/track/4nY63p14MsBDJXRRbhFpas"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "1998\u2026e I miei grandi successi",
-        "url": "https://open.spotify.com/album/4Vas2bDBwoX9SmeJ9ucL1Q"
-      },
-      "artists": [
-        {
-          "name": "Tullio De Piscopo",
-          "url": "https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Andamento lento",
-      "url": "https://open.spotify.com/track/5HAri7dfAKqA7vTAt8vwMB"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Tutti I Miei Sogni",
         "url": "https://open.spotify.com/album/0tkQys6CWErjTUroTILFsA"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 279973,
       "name": "Se stiamo insieme",
       "url": "https://open.spotify.com/track/3V2TMVsl5LlDvEVff9hw31"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "1998\u2026e I miei grandi successi",
+        "url": "https://open.spotify.com/album/4Vas2bDBwoX9SmeJ9ucL1Q"
+      },
+      "artists": [
+        {
+          "name": "Tullio De Piscopo",
+          "url": "https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Andamento lento",
+      "url": "https://open.spotify.com/track/5HAri7dfAKqA7vTAt8vwMB"
     },
     {
       "added_at": "2026-01-25 23:01:06",

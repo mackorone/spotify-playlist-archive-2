@@ -1,6 +1,6 @@
 {
   "description": "Old school jams to kick nostalgia up a notch. ",
-  "num_followers": 22004,
+  "num_followers": 22003,
   "original_name": "Ghana Throwback Party ",
   "owner": {
     "name": "Spotify",
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D"
         }
       ],
-      "duration_ms": 359400,
-      "name": "Mfa Me Nkoho",
-      "url": "https://open.spotify.com/track/4gmJvvotDVCXVKY0ItNDOe"
+      "duration_ms": 316586,
+      "name": "Densu",
+      "url": "https://open.spotify.com/track/3Bif5CgGVc8fgA27T3whVr"
     },
     {
       "added_at": "2026-03-16 11:45:06",
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D"
         }
       ],
-      "duration_ms": 316586,
-      "name": "Densu",
-      "url": "https://open.spotify.com/track/3Bif5CgGVc8fgA27T3whVr"
+      "duration_ms": 359400,
+      "name": "Mfa Me Nkoho",
+      "url": "https://open.spotify.com/track/4gmJvvotDVCXVKY0ItNDOe"
     },
     {
       "added_at": "2026-03-16 11:45:06",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-03-16 11:45:06",
       "album": {
-        "name": "Best of C. K. Mann",
-        "url": "https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa"
-      },
-      "artists": [
-        {
-          "name": "C. K. Mann",
-          "url": "https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi"
-        }
-      ],
-      "duration_ms": 527046,
-      "name": "Adwoa Yankey, Pt. 1",
-      "url": "https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87"
-    },
-    {
-      "added_at": "2026-03-16 11:45:06",
-      "album": {
         "name": "Love & Death",
         "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 415090,
       "name": "Love and Death",
       "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+    },
+    {
+      "added_at": "2026-03-16 11:45:06",
+      "album": {
+        "name": "Best of C. K. Mann",
+        "url": "https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa"
+      },
+      "artists": [
+        {
+          "name": "C. K. Mann",
+          "url": "https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi"
+        }
+      ],
+      "duration_ms": 527046,
+      "name": "Adwoa Yankey, Pt. 1",
+      "url": "https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87"
     },
     {
       "added_at": "2026-03-16 11:45:06",

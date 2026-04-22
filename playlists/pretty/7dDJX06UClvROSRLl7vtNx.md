@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 105,413 likes - 217 songs - 9 hr 19 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 105,468 likes - 217 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 82 | [Dangerous](https://open.spotify.com/track/5cXeme5DUuEBD1n0lvAmlk) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Dangerous](https://open.spotify.com/album/2Aa2te0iNnqtwOW9s9VdA3) | 2:59 |
 | 83 | [sorry](https://open.spotify.com/track/2ZQSWCZ0xs0JQiGiHr9Zg6) | [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [sorry](https://open.spotify.com/album/3sUjlov6HHpznUA1pwNguA) | 2:17 |
 | 84 | [Never Gonna Give You Up](https://open.spotify.com/track/0Gdxx7POlFKSJ9doWvxsxJ) | [Addal](https://open.spotify.com/artist/4KvEeVTVVyMlEhr5ovZBOT) | [Never Gonna Give You Up](https://open.spotify.com/album/2wSsI2ng04XjUngE22ycQr) | 2:27 |
-| 85 | [Better Give It Back](https://open.spotify.com/track/5rHxyjFcafXhl4ELUPAhtr) | [Project Sunrise](https://open.spotify.com/artist/4ehh5E1X5nUrcjUs25lafp) | [Better Give It Back](https://open.spotify.com/album/7vdKPVPxzU6RVloTonsByq) | 2:08 |
+| 85 | [Sunny](https://open.spotify.com/track/32LlYEyzXUCtAF3eToQOOB) | [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU), [Slowsho](https://open.spotify.com/artist/509IhzBMDbDaLfUplZUv9d) | [Sunny](https://open.spotify.com/album/0ArthwbAJDYYAczcFheW4p) | 2:07 |
 | 86 | [As It Was](https://open.spotify.com/track/0hVX3PB2SNoC8fViOoYtEX) | [Acko](https://open.spotify.com/artist/4jiOvEyAn2AHCd4wJuRsBi), [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [GREGG](https://open.spotify.com/artist/3Dd8hs6oduPlzzHhqtYAzM), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A) | [As It Was](https://open.spotify.com/album/4rX8M7wAdsamubbYgmCVsH) | 2:20 |
 | 87 | [Cool For The Summer](https://open.spotify.com/track/48SiM4js3OZIdbKojHWVjq) | [John Von Dusk](https://open.spotify.com/artist/4JeAtwRoOrbTED0kN8D4jz), [Santi](https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7), [one more cig](https://open.spotify.com/artist/58xxhAwEQi1Gx6XxU5Nqm5) | [Cool For The Summer](https://open.spotify.com/album/3kvhPJ8U8qJZM703bp10a6) | 2:11 |
 | 88 | [Places](https://open.spotify.com/track/5SAIxBQiorccuI6tnMyhMO) | [Haisten](https://open.spotify.com/artist/7dd7gUFKUAa0EtdPzUroyx), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [Places](https://open.spotify.com/album/0L4RS8WvsfEpBdQ72IMmhE) | 2:13 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 97 | [I'm The One](https://open.spotify.com/track/2pC9nJXshj22fDjcZOfhbO) | [Kusta5](https://open.spotify.com/artist/7tTbcLrr3ZSC3IM1CQKbtx) | [I'm The One](https://open.spotify.com/album/0ft9SzswzmkKd89Z5LpB99) | 2:21 |
 | 98 | [Diamonds](https://open.spotify.com/track/1sxy07nZ8K16IUI3neA8WI) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Xtina Louise](https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN) | [Diamonds](https://open.spotify.com/album/5EOYFV61qsLQwrG0RnNjhJ) | 2:56 |
 | 99 | [Eyes Shut](https://open.spotify.com/track/0NgOwfHLUzmfgRY0XoXzbr) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [Eyes Shut](https://open.spotify.com/album/3XdLCfK6V5vtKrGlzmNrO1) | 2:16 |
-| 100 | [The One That Got Away](https://open.spotify.com/track/6AK9pLFV2UcxxmCj1CNMm9) | [Bayshore Court](https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg), [Zist](https://open.spotify.com/artist/0DH8z0bMj7KS2oJq6rKXxR) | [The One That Got Away](https://open.spotify.com/album/16QfaWuDFaeSKgYaxAaW3N) | 2:46 |
+| 100 | [Drive Me Crazy](https://open.spotify.com/track/76ZD43CFRwvK4n1XimWdpn) | [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [J.A.E](https://open.spotify.com/artist/6Ly2uwod1jDkU2I8otUnWa) | [Drive Me Crazy](https://open.spotify.com/album/68KeARTrFdXXPgYXHMCnpq) | 2:32 |
 | 101 | [Show Me The Way](https://open.spotify.com/track/4LRAxZ4t3Z4HnCl7Ff6g9Q) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Show Me The Way](https://open.spotify.com/album/1ponlqSJmxlYHiqw0QQSpN) | 2:28 |
 | 102 | [Stumblin' In](https://open.spotify.com/track/4QECgFL34Co7AdI0YBz3VQ) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Stumblin' In](https://open.spotify.com/album/3wsnQV7qFBqQOe8nedgjPJ) | 2:57 |
 | 103 | [Music Sounds Better With You](https://open.spotify.com/track/2rHFIPqlFDLZvaJollCR1g) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Donna Senders](https://open.spotify.com/artist/6an7nK86PPq4I4yTlBd48P) | [Music Sounds Better With You](https://open.spotify.com/album/6S9D2HbehahSN2Is8nsnx4) | 2:44 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 216 | [Runaway](https://open.spotify.com/track/6N9qE7742BJH3r9ntW78Qj) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK) | [Runaway](https://open.spotify.com/album/3oo4NyfgjCvJDCwwo1N1NP) | 2:22 |
 | 217 | [Too Late Now](https://open.spotify.com/track/3S0lvq4rYAEJtrdjtKZBsO) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Aizu](https://open.spotify.com/artist/6tAUpk1pE9QXUrDSMbPn81), [nøya.](https://open.spotify.com/artist/7uQIdGvojsQWSphx9QHNYD) | [Too Late Now](https://open.spotify.com/album/4bq6Q1qL7RLh6Y9ykLfY2V) | 2:19 |
 
-Snapshot ID: `AABRqXptLVLyVyO3YoJZod3yFrwgHJm+`
+Snapshot ID: `AABRr1osusqSWMBlAM+Bd6+yKitzwhF7`

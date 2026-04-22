@@ -1,12 +1,12 @@
 {
   "description": "This is Boards of Canada. The essential tracks, all in one playlist.",
-  "num_followers": 27806,
+  "num_followers": 27827,
   "original_name": "This Is Boards of Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeQbAAAAAAAIm/LX0HSsJES/t501xTl8",
+  "snapshot_id": "aeVsgAAAAAD7YWH7i5MnBcsxua7MzbMM",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
       "duration_ms": 367480,
       "name": "In A Beautiful Place Out In The Country",
       "url": "https://open.spotify.com/track/0X2hccY9m1D9ICGZLkvpBP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twoism",
-        "url": "https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 317600,
-      "name": "Sixtyniner",
-      "url": "https://open.spotify.com/track/77DwUe5ydUuDfSiurT0VCX"
     },
     {
       "added_at": null,

@@ -6174,7 +6174,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 148000,
       "name": "K\u0142am",
       "url": "https://open.spotify.com/track/4XivnKS2tFGqmcMAThcFgo"
@@ -7200,6 +7200,24 @@
       "duration_ms": 172361,
       "name": "Miliony monet (feat. Wiktor Walig\u00f3ra, Piotr Odoszewski & Kajetan Wolas)",
       "url": "https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp"
+    },
+    {
+      "album": {
+        "name": "Million dollar baby",
+        "url": "https://open.spotify.com/album/5YxT5Fl7ghytt6jNFRbeiz"
+      },
+      "artists": [
+        {
+          "name": "Artur Sikorski",
+          "url": "https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Million dollar baby",
+      "url": "https://open.spotify.com/track/660cvt2QQCrWo4hfk4L4rX"
     },
     {
       "album": {
@@ -9536,6 +9554,28 @@
       "duration_ms": 160161,
       "name": "PALO SANTO",
       "url": "https://open.spotify.com/track/2STHRcJesfqpaDIdbGk9i7"
+    },
+    {
+      "album": {
+        "name": "Pal\u0119 \u017cale",
+        "url": "https://open.spotify.com/album/7zbbNbDzQyLjbJFznvNwfU"
+      },
+      "artists": [
+        {
+          "name": "Amelia And",
+          "url": "https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk"
+        },
+        {
+          "name": "Filipek",
+          "url": "https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146272,
+      "name": "Pal\u0119 \u017cale",
+      "url": "https://open.spotify.com/track/3AomUcaIEH9zIrrj2oKir5"
     },
     {
       "album": {
@@ -14366,7 +14406,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 158823,
       "name": "wszystko mam",
       "url": "https://open.spotify.com/track/4BmBjbRt4EnSJGN3HHp3JF"

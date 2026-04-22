@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "Alright, Still (Deluxe)",
+        "url": "https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160417,
+      "name": "Everybody's Changing",
+      "url": "https://open.spotify.com/track/7IVB3W6trBd8u8myd90NmU"
+    },
+    {
+      "album": {
         "name": "It's Not Me, It's You",
         "url": "https://open.spotify.com/album/2OUL7ZpAvUaWyylZ1lXpe0"
       },
@@ -656,10 +674,28 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 182186,
       "name": "Littlest Things",
       "url": "https://open.spotify.com/track/3Ah7nOXSkbkejpI2yWKzSF"
+    },
+    {
+      "album": {
+        "name": "Alright, Still",
+        "url": "https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187413,
+      "name": "Littlest Things",
+      "url": "https://open.spotify.com/track/1CwCEQ5zp7w7F0ftGB1yia"
     },
     {
       "album": {

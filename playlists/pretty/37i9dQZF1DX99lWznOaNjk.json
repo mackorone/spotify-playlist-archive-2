@@ -1,12 +1,12 @@
 {
   "description": "Today's biggest and most exciting videos. Music videos available only on Premium.",
-  "num_followers": 9589,
+  "num_followers": 9762,
   "original_name": "Today's Top Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFHGE5CTFhdZgqx1JsQnnCsFo3oV",
+  "snapshot_id": "AAAAAEygQmH13MF+MUEitSjxzRtQUGuw",
   "tracks": [
     {
       "added_at": "2026-04-18 15:41:08",
@@ -23,6 +23,38 @@
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "added_at": "2026-04-15 00:06:45",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 169214,
+      "name": "House Tour",
+      "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
+    },
+    {
+      "added_at": "2026-04-15 00:06:45",
+      "album": {
+        "name": "PINKY UP",
+        "url": "https://open.spotify.com/album/64JnAiRKlQLxk9BvqsA7hx"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 181966,
+      "name": "PINKY UP",
+      "url": "https://open.spotify.com/track/1dhfijA0rH5GsFGgJA5H8n"
     },
     {
       "added_at": "2026-02-06 13:01:20",
@@ -59,38 +91,6 @@
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
-    },
-    {
-      "added_at": "2026-04-15 00:06:45",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 169214,
-      "name": "House Tour",
-      "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
-    },
-    {
-      "added_at": "2026-04-15 00:06:45",
-      "album": {
-        "name": "PINKY UP",
-        "url": "https://open.spotify.com/album/64JnAiRKlQLxk9BvqsA7hx"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 181966,
-      "name": "PINKY UP",
-      "url": "https://open.spotify.com/track/1dhfijA0rH5GsFGgJA5H8n"
     },
     {
       "added_at": "2026-04-18 15:41:08",

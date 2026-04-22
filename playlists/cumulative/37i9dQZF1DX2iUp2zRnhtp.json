@@ -7405,6 +7405,24 @@
     },
     {
       "album": {
+        "name": "Ordner seg",
+        "url": "https://open.spotify.com/album/3EJyDiqEESAm7YICRLsRaF"
+      },
+      "artists": [
+        {
+          "name": "Puls",
+          "url": "https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Ordner seg",
+      "url": "https://open.spotify.com/track/4WC0mwseHSgKlm01c8FLGF"
+    },
+    {
+      "album": {
         "name": "Oslo",
         "url": "https://open.spotify.com/album/7uTUU9hnwypL51eEv8qwyH"
       },

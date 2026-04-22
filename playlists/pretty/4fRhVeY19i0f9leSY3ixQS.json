@@ -6,7 +6,7 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAOMXGe8bks2aA5hc/hqMAiYAcABq2v",
+  "snapshot_id": "AAAON0QAJKCiOpnRSfrgtPEXv1ufCiuR",
   "tracks": [
     {
       "added_at": "2026-02-26 08:38:44",
@@ -139,6 +139,22 @@
       "duration_ms": 181333,
       "name": "Brave",
       "url": "https://open.spotify.com/track/0fnFRIU30fd7hyEmTajgoh"
+    },
+    {
+      "added_at": "2026-04-21 04:32:49",
+      "album": {
+        "name": "Inconsistency",
+        "url": "https://open.spotify.com/album/2TtVrIAvRehVZPLdVHXDrE"
+      },
+      "artists": [
+        {
+          "name": "This World Stands Still",
+          "url": "https://open.spotify.com/artist/0ReYfibZzwQRGgNJEXas0t"
+        }
+      ],
+      "duration_ms": 152899,
+      "name": "No Escape",
+      "url": "https://open.spotify.com/track/0K15Wt8Zr2lBihYjvRX315"
     },
     {
       "added_at": "2025-08-03 07:05:37",
@@ -1603,22 +1619,6 @@
       "duration_ms": 193826,
       "name": "PELUCA",
       "url": "https://open.spotify.com/track/3KbY5CV42zjVCBxS5PAUty"
-    },
-    {
-      "added_at": "2026-03-22 01:34:34",
-      "album": {
-        "name": "Pluto Presents ULTRAVIOLENCE",
-        "url": "https://open.spotify.com/album/1K1vyxbZlzSMZPkurkHyke"
-      },
-      "artists": [
-        {
-          "name": "Kris Vango",
-          "url": "https://open.spotify.com/artist/4RVRABMRTQgd1KRrnJfxMT"
-        }
-      ],
-      "duration_ms": 145377,
-      "name": "Shahanshah",
-      "url": "https://open.spotify.com/track/6f9tOBgsUHGsE3FCI2YBbv"
     },
     {
       "added_at": "2025-08-03 07:15:47",
@@ -4095,6 +4095,70 @@
       "duration_ms": 110571,
       "name": "BORN 2 ROT",
       "url": "https://open.spotify.com/track/2VMotXyDfDjZDxwxxfThtv"
+    },
+    {
+      "added_at": "2026-04-21 11:59:07",
+      "album": {
+        "name": "The Silence We Carried",
+        "url": "https://open.spotify.com/album/2VHqPiwhzRkTZsQhd7QvML"
+      },
+      "artists": [
+        {
+          "name": "Geoff",
+          "url": "https://open.spotify.com/artist/28bGRsX9UYi8M4QJOwTHx0"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "You're All",
+      "url": "https://open.spotify.com/track/34YtNBPlO81bhT16nrJOP3"
+    },
+    {
+      "added_at": "2026-04-21 11:59:46",
+      "album": {
+        "name": "Slambogini",
+        "url": "https://open.spotify.com/album/4DiOEqLYwORUVb9Xn61N6J"
+      },
+      "artists": [
+        {
+          "name": "Endurus",
+          "url": "https://open.spotify.com/artist/0Q1hSukyOd14VmmdpP4mNe"
+        }
+      ],
+      "duration_ms": 158550,
+      "name": "Slambogini",
+      "url": "https://open.spotify.com/track/3iA8AvXCiFDCHNwBqnx6S4"
+    },
+    {
+      "added_at": "2026-04-21 12:31:14",
+      "album": {
+        "name": "The Rock Made To Roll",
+        "url": "https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18"
+      },
+      "artists": [
+        {
+          "name": "Tin Zelkova",
+          "url": "https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu"
+        }
+      ],
+      "duration_ms": 199336,
+      "name": "Say Hello To My Friend",
+      "url": "https://open.spotify.com/track/23xG5KZSwtEZpQwjWfIrBg"
+    },
+    {
+      "added_at": "2026-04-21 12:33:29",
+      "album": {
+        "name": "My Body Says",
+        "url": "https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE"
+      },
+      "artists": [
+        {
+          "name": "Pink Cliffs",
+          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
+        }
+      ],
+      "duration_ms": 235453,
+      "name": "My Body Says",
+      "url": "https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ"
     }
   ],
   "unique_name": "Shuffle Roulette",

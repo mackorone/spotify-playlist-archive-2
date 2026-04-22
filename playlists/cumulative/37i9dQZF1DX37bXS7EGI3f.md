@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Sabaton
 
-719 songs - 2 day 6 hr 33 min
+720 songs - 2 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Hear My Voice](https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5) | [Alterium](https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV) | [Hear My Voice](https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV) | 3:18 | 2024-06-24 | 2025-08-31 |
 | [Heart of Steel](https://open.spotify.com/track/3MyANWSUWkYyEUqMSZl3jO) | [Nekonomicon](https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB), [Craig Cairns](https://open.spotify.com/artist/6iMoj5iPi4sUkBspHLJ4wK) | [Heart of Steel](https://open.spotify.com/album/4pVcx7JLwNVQL6TstlF4W8) | 4:52 | 2021-09-04 | 2022-04-29 |
 | [Heart of the Android](https://open.spotify.com/track/5b6x7e0p8HqA4CZ4eQEoiE) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Heart of the Android](https://open.spotify.com/album/6wDrfnlSydT3ZPcBjClH0l) | 4:31 | 2020-12-04 | 2021-02-19 |
-| [Heaven Tonight](https://open.spotify.com/track/2yirL9y1igNXM11Qgt504V) | [Crowne](https://open.spotify.com/artist/5H2DFNCrBR3OSr4AJn3U2O) | [Heaven Tonight](https://open.spotify.com/album/1KXFGPR74Xjq6pCJ2ifh3I) | 3:05 | 2025-08-15 |  |
+| [Heaven Tonight](https://open.spotify.com/track/2yirL9y1igNXM11Qgt504V) | [Crowne](https://open.spotify.com/artist/5H2DFNCrBR3OSr4AJn3U2O) | [Heaven Tonight](https://open.spotify.com/album/1KXFGPR74Xjq6pCJ2ifh3I) | 3:05 | 2025-08-15 | 2026-04-22 |
 | [Heavy Feather \- Instrumental](https://open.spotify.com/track/76x5nwldCeYU31phA3LkUB) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Epicenter \(Instrumental\)](https://open.spotify.com/album/0TJAjBZ7U52aZvfeyPMl4W) | 4:31 | 2022-07-13 | 2022-07-15 |
 | [Heavy Metal Viking](https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Heavy Metal Viking](https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J) | 3:51 | 2024-09-30 |  |
 | [Helix](https://open.spotify.com/track/7DtUZPirn8tYihfKmuqYhe) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [HELIX](https://open.spotify.com/album/1ahaJDVWamBPImLRWpqWiX) | 3:35 | 2024-02-23 | 2024-04-16 |
@@ -623,6 +623,7 @@
 | [The Skeleton Key](https://open.spotify.com/track/6IVKiq8Xxhvg03MUtu5smv) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:06 | 2021-02-26 | 2021-10-09 |
 | [The Skeleton Key \- Omega Alive](https://open.spotify.com/track/58TCqmFub3i48RrCqkjcKa) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Skeleton Key \- Omega Alive \-](https://open.spotify.com/album/7kCUk70yTH96LYWAwp0ahX) | 5:05 | 2021-10-09 | 2022-05-14 |
 | [The Stoic](https://open.spotify.com/track/1xl1IlOHK55PlGECBp1xPS) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [The Stoic](https://open.spotify.com/album/6WwFHndtjwONH2ZFCvwIRQ) | 4:04 | 2022-07-13 | 2022-07-26 |
+| [The Storm](https://open.spotify.com/track/3OplmgI6AGe5GtGPBwAbmz) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [The Thunderfist Chronicles \(Deluxe Version\)](https://open.spotify.com/album/2mh7ZPbUM9evlqf3wnQgy9) | 4:23 | 2026-03-22 |  |
 | [The Séance](https://open.spotify.com/track/49O37nbIIp7JsmI65OXDWD) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [The Séance](https://open.spotify.com/album/5mSx3qsX7azaEwYaQ1RE5V) | 3:42 | 2021-02-19 | 2021-09-04 |
 | [The Unforgiven II](https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [The Unforgiven II](https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w) | 4:05 | 2024-04-15 | 2025-05-17 |
 | [The Ungrounding](https://open.spotify.com/track/1jEZtz2b03ZxZcT1KBmI8Z) | [Earthside](https://open.spotify.com/artist/6mRDRKsNautYuxybddnvgg) | [A Dream in Static](https://open.spotify.com/album/6rTrPk4lcLGVvqUpLTSko0) | 5:34 | 2022-07-13 | 2022-07-26 |

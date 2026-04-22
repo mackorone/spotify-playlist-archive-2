@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 39828,
+  "num_followers": 39870,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,26 @@
     {
       "added_at": "2026-04-17 03:56:21",
       "album": {
+        "name": "Pinjar",
+        "url": "https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa"
+      },
+      "artists": [
+        {
+          "name": "Wadali Brothers",
+          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
+        },
+        {
+          "name": "Preeti Uttam",
+          "url": "https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU"
+        }
+      ],
+      "duration_ms": 543346,
+      "name": "Waris Shah Nu",
+      "url": "https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG"
+    },
+    {
+      "added_at": "2026-04-17 03:56:21",
+      "album": {
         "name": "Mahiya Tere Vekan Nu",
         "url": "https://open.spotify.com/album/26IzYb8ASprzkkQBl9kurh"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 221379,
       "name": "Mahiya Tere Vekan Nu",
       "url": "https://open.spotify.com/track/2DQvBdqEgSFtcGDviaKnGb"
-    },
-    {
-      "added_at": "2026-04-17 03:56:21",
-      "album": {
-        "name": "Pinjar",
-        "url": "https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa"
-      },
-      "artists": [
-        {
-          "name": "Wadali Brothers",
-          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
-        },
-        {
-          "name": "Preeti Uttam",
-          "url": "https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU"
-        }
-      ],
-      "duration_ms": 543346,
-      "name": "Waris Shah Nu",
-      "url": "https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG"
     },
     {
       "added_at": "2026-04-17 03:56:21",
@@ -527,26 +527,6 @@
     {
       "added_at": "2026-04-17 03:56:21",
       "album": {
-        "name": "Ghazal",
-        "url": "https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR"
-      },
-      "artists": [
-        {
-          "name": "Ammri",
-          "url": "https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr"
-        },
-        {
-          "name": "Jang Dhillon",
-          "url": "https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq"
-        }
-      ],
-      "duration_ms": 199511,
-      "name": "Ghazal",
-      "url": "https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi"
-    },
-    {
-      "added_at": "2026-04-17 03:56:21",
-      "album": {
         "name": "Jogi",
         "url": "https://open.spotify.com/album/0IG13ld7Mb7nAcSemcgjfb"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 285708,
       "name": "Jogi",
       "url": "https://open.spotify.com/track/0HaC7Uip2vMyHwLO5bQbB3"
+    },
+    {
+      "added_at": "2026-04-17 03:56:21",
+      "album": {
+        "name": "Ghazal",
+        "url": "https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR"
+      },
+      "artists": [
+        {
+          "name": "Ammri",
+          "url": "https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr"
+        },
+        {
+          "name": "Jang Dhillon",
+          "url": "https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq"
+        }
+      ],
+      "duration_ms": 199511,
+      "name": "Ghazal",
+      "url": "https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi"
     },
     {
       "added_at": "2026-04-17 03:56:21",

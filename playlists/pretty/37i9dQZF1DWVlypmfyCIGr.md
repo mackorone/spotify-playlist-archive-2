@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: asmi
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,855 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,889 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 24 | [me・愛・ラ・sun・虫](https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y) | [テクノポップ・有機・シンセサイザーちゃん](https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe) | [me・愛・ラ・sun・虫](https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL) | 2:39 |
 | 25 | [MONTAGEM NATTO GAKKO 2](https://open.spotify.com/track/2wjPknS9TVlyEOQEg6Gx3o) | [BMFUNK2341](https://open.spotify.com/artist/2ioPgwoBMAzajWJdmCwmj1) | [MONTAGEM NATTO GAKKO 2](https://open.spotify.com/album/3px1PI0roUdlCjae7FIDF7) | 1:01 |
 | 26 | [TOOTHPASTE](https://open.spotify.com/track/1QIQDAxTFk3XEM8IlAjFI8) | [CHITAA](https://open.spotify.com/artist/4z8Y3sfzTn9BOWachQUa9J) | [TOOTHPASTE](https://open.spotify.com/album/7w7dnVL9ECaZbkHKsHV0NW) | 2:01 |
-| 27 | [DYNA MIND](https://open.spotify.com/track/57DGPQviw75pJAlrAcEAzX) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ), [vis](https://open.spotify.com/artist/4ccobX7WdjVasEViSANYJv) | [DYNA MIND](https://open.spotify.com/album/26qPoS3Wvfzb87LXAkqQ0K) | 3:32 |
+| 27 | [DYNA MIND](https://open.spotify.com/track/57DGPQviw75pJAlrAcEAzX) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [DYNA MIND](https://open.spotify.com/album/26qPoS3Wvfzb87LXAkqQ0K) | 3:32 |
 | 28 | [ハーモニー](https://open.spotify.com/track/3Gt35aibizWFiBlhlhmDgf) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ハーモニー](https://open.spotify.com/album/7zXJAAal6WqBhADoHsHrx1) | 3:53 |
 | 29 | [君はノスタルジー](https://open.spotify.com/track/33cnVglMO8u4P5gQBeYDbH) | [RUCHKA](https://open.spotify.com/artist/776H4Mew8XT996AuD8SCa3) | [君はノスタルジー](https://open.spotify.com/album/5SiL0GesQyE9QhpH48vtti) | 3:42 |
 | 30 | [オトナノススメ](https://open.spotify.com/track/4TldzBU1uLx0PGzgs6TFxF) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/2C7gnaIagryKPUPwvcIlWM) | 4:45 |

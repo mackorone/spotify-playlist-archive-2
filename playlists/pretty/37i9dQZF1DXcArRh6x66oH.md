@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,882 likes - 180 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,958 likes - 180 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

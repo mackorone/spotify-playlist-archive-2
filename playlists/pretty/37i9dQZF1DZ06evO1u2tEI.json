@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 87450,
+  "num_followers": 87452,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeQbAAAAAADM9/Qn+bXse/2vIpOy7exN",
+  "snapshot_id": "aeVsgAAAAACOOhLIpis0UMRLb8kyIY4a",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 159746,
-      "name": "The Biggest Lie",
-      "url": "https://open.spotify.com/track/3hPVY0KEabsLxgeupjs7bV"
+      "duration_ms": 216960,
+      "name": "Roman Candle",
+      "url": "https://open.spotify.com/track/3zUkBorysSm42GV4akxnoB"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 216960,
-      "name": "Roman Candle",
-      "url": "https://open.spotify.com/track/3zUkBorysSm42GV4akxnoB"
+      "duration_ms": 159746,
+      "name": "The Biggest Lie",
+      "url": "https://open.spotify.com/track/3hPVY0KEabsLxgeupjs7bV"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Figure 8 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan"
+        "name": "From a Basement on the Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 139973,
-      "name": "Because",
-      "url": "https://open.spotify.com/track/0W78mVK0xVPpOD7oh4medH"
+      "duration_ms": 285733,
+      "name": "Pretty (Ugly Before)",
+      "url": "https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From a Basement on the Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "name": "Figure 8 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 285733,
-      "name": "Pretty (Ugly Before)",
-      "url": "https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv"
+      "duration_ms": 139973,
+      "name": "Because",
+      "url": "https://open.spotify.com/track/0W78mVK0xVPpOD7oh4medH"
     },
     {
       "added_at": null,

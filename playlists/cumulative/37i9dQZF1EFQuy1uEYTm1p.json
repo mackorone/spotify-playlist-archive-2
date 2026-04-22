@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/0KpO1I2Sukj5rr0q2Jmugs"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153654,
+      "name": "S.I.M.P.L.E",
+      "url": "https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb"
+    },
+    {
+      "album": {
         "name": "Thanks 4 Nothing",
         "url": "https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi"
       },
@@ -552,6 +570,28 @@
       "duration_ms": 180023,
       "name": "Songs About U",
       "url": "https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5"
+    },
+    {
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/47KtxHjRKa2h8gHdmS10Zs"
+      },
+      "artists": [
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        },
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "Spoil Me",
+      "url": "https://open.spotify.com/track/4HLQhOgV31QwnGSJyzY4cV"
     },
     {
       "album": {
@@ -682,6 +722,28 @@
       "duration_ms": 101694,
       "name": "WD5 Intro",
       "url": "https://open.spotify.com/track/2UuUBBKT7XxUWtnjGGUTc2"
+    },
+    {
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/47KtxHjRKa2h8gHdmS10Zs"
+      },
+      "artists": [
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        },
+        {
+          "name": "Chalynn",
+          "url": "https://open.spotify.com/artist/1RU4jaXgpfpoHrDEzAJTjx"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163253,
+      "name": "What U Need",
+      "url": "https://open.spotify.com/track/57tUD88allOaqJRWEbZKGb"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFQuy1uEYTm1p"

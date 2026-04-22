@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,359 songs - 3 day 4 hr 12 min
+1,363 songs - 3 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -786,6 +786,7 @@
 | [Nightcode](https://open.spotify.com/track/2Bylb0sKZWB2UcjKB2QKHL) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [Nightcode](https://open.spotify.com/album/6pZrBXilaoscwsW3EMVVPW) | 3:44 | 2026-01-19 | 2026-02-20 |
 | [Nine Circles Deep](https://open.spotify.com/track/4dRnNyrpCKgYyoZkKrosAN) | [Lies We Sold](https://open.spotify.com/artist/1ZaXyPktPr1gpp3m3c7330) | [Nine Circles Deep](https://open.spotify.com/album/0N2HiAO3HuSd7b4G4cutQq) | 3:00 | 2025-12-15 | 2026-01-06 |
 | [No Angel Is Watching](https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [No Angel Is Watching](https://open.spotify.com/album/68XNOikZKxIdeg4OncW44B) | 2:55 | 2025-11-29 | 2025-12-24 |
+| [No Escape](https://open.spotify.com/track/0K15Wt8Zr2lBihYjvRX315) | [This World Stands Still](https://open.spotify.com/artist/0ReYfibZzwQRGgNJEXas0t) | [Inconsistency](https://open.spotify.com/album/2TtVrIAvRehVZPLdVHXDrE) | 2:32 | 2026-04-21 |  |
 | [No Gods](https://open.spotify.com/track/4Bejk4T1EkgJFOMBruuZMQ) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [No Gods](https://open.spotify.com/album/1rSMvnaueBZxlXtPLFtsPH) | 2:59 | 2025-12-15 | 2026-01-06 |
 | [No Need to Wait](https://open.spotify.com/track/4XB1k8GJdXvQZ9YvkwNuOk) | [Brau](https://open.spotify.com/artist/4B1VpxLCj9TBzqbjN99fKQ) | [No Need to Wait](https://open.spotify.com/album/2tfynEzI16EdyoFGBIb76a) | 3:33 | 2026-02-27 | 2026-03-19 |
 | [No puedes saber](https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3) | [Decode](https://open.spotify.com/artist/4LveHUW9mrBnEh7xARbo3r) | [No puedes saber](https://open.spotify.com/album/2V9ECtvzI8NCv4fWOEEWWf) | 4:57 | 2026-03-05 | 2026-03-31 |
@@ -964,6 +965,7 @@
 | [Sangrienta Obsesión](https://open.spotify.com/track/1eI4Zzwphb4paj0NnyyBry) | [The Saint Daniel Project](https://open.spotify.com/artist/3KfVAnSb4K79mP9lRZ5cJ0) | [Todo Otra Vez](https://open.spotify.com/album/3RiEzVKmXEkurp8uKLc6YP) | 2:40 | 2025-12-22 | 2026-01-15 |
 | [Sanitizer](https://open.spotify.com/track/743uUS4NbticsU6hSJ4mZg) | [Culture Clash](https://open.spotify.com/artist/7HDKN2ajqIHP5xy5FRLn2P) | [Sanitizer](https://open.spotify.com/album/16I9FERSkmn6hfysozJWKK) | 3:11 | 2026-01-21 | 2026-02-22 |
 | [Savour the Moment](https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc) | [Attic Theory](https://open.spotify.com/artist/0oOXpZTNdHDl8M1S3xQhhN) | [Savour the Moment](https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH) | 4:06 | 2025-12-11 | 2026-01-06 |
+| [Say Hello To My Friend](https://open.spotify.com/track/23xG5KZSwtEZpQwjWfIrBg) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [The Rock Made To Roll](https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18) | 3:19 | 2026-04-21 |  |
 | [Say It Back](https://open.spotify.com/track/2mQUlpZLQl32n1jYNj0Dpm) | [Summer Colds](https://open.spotify.com/artist/1KO4w7F0yxQpGqN6w5unBn) | [Say It Back](https://open.spotify.com/album/2SK2gpLqMbskLvygSVj42y) | 2:51 | 2026-03-03 | 2026-03-21 |
 | [Say Less](https://open.spotify.com/track/7fonUxFqFluGESwOLaUZ2f) | [Color The Void](https://open.spotify.com/artist/5pmwfFkSo3nz3fuoDDw8Xx) | [FOREVERMORE](https://open.spotify.com/album/4lQSfwOBOKeQrEPqFEJlKT) | 3:34 | 2026-02-03 | 2026-03-07 |
 | [Say Now, See How](https://open.spotify.com/track/3gV5t4zD2fLROVReOVBwmH) | [Not Exact](https://open.spotify.com/artist/6J8F4udmCRNzDt5l1AckUG) | [Say Now, See How](https://open.spotify.com/album/60cSYdtXgX17GERstfxSSu) | 2:55 | 2026-02-04 | 2026-02-27 |
@@ -986,7 +988,7 @@
 | [Shades of Green \(It's a no from me\)](https://open.spotify.com/track/3KPuo6JlZaP9tyGJWHpJAH) | [Frog Fortress](https://open.spotify.com/artist/1hCyCHuTSzpTuOURKNzYCb) | [Bird Watching Music](https://open.spotify.com/album/51JqBveJWY37bzxEoZk8rM) | 2:20 | 2025-12-23 | 2026-01-24 |
 | [Shadow Artist](https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo / Shadow Artist](https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA) | 4:03 | 2025-12-01 | 2025-12-24 |
 | [Shadows Devour](https://open.spotify.com/track/2hK8q1XtpUgJg5oNWR1zlx) | [Nukehole](https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ) | [Shadows Devour](https://open.spotify.com/album/5GrEGsmB0efkNI478LlFnt) | 4:04 | 2025-11-11 | 2025-12-10 |
-| [Shahanshah](https://open.spotify.com/track/6f9tOBgsUHGsE3FCI2YBbv) | [Kris Vango](https://open.spotify.com/artist/4RVRABMRTQgd1KRrnJfxMT) | [Pluto Presents ULTRAVIOLENCE](https://open.spotify.com/album/1K1vyxbZlzSMZPkurkHyke) | 2:25 | 2026-03-22 |  |
+| [Shahanshah](https://open.spotify.com/track/6f9tOBgsUHGsE3FCI2YBbv) | [Kris Vango](https://open.spotify.com/artist/4RVRABMRTQgd1KRrnJfxMT) | [Pluto Presents ULTRAVIOLENCE](https://open.spotify.com/album/1K1vyxbZlzSMZPkurkHyke) | 2:25 | 2026-03-22 | 2026-04-22 |
 | [Shallow End](https://open.spotify.com/track/6DJChk81zSNNKBV2gC9KPL) | [Ghost Tail](https://open.spotify.com/artist/46bTT0AboCJSfadZkaiQQm) | [Shallow End](https://open.spotify.com/album/7vEMzH71vz89t2AGKD7NLE) | 3:28 | 2026-01-05 | 2026-01-29 |
 | [Shallowed Breakwater](https://open.spotify.com/track/0SrxFhP0L8ZskM6gJoqa3a) | [File Under Humanoid](https://open.spotify.com/artist/4THYnYjrIh3ssVteBV9Vmx) | [Fuel The Flame EP](https://open.spotify.com/album/3DmHe6uM9Jav9qgmtIGLbZ) | 2:39 | 2026-04-07 |  |
 | [Shame](https://open.spotify.com/track/1tbnU7U1hQqdVsC0o3L9Gr) | [HAPPY GENERATION](https://open.spotify.com/artist/4cVghRRnmwq10vWKhENbXK) | [Shame](https://open.spotify.com/album/4bb8pxp5PmMAJ02pRhF0cg) | 2:53 | 2026-03-04 | 2026-03-21 |
@@ -1024,6 +1026,7 @@
 | [Six Seasons And A Movie](https://open.spotify.com/track/0bBL5fiStd3yOZUGK2PgiA) | [Kill The Joy](https://open.spotify.com/artist/7u9DBKVrjwrpraYElkztA2) | [Six Seasons And A Movie](https://open.spotify.com/album/1TAkIJFPRFCn0Hza7jpTBF) | 3:52 | 2026-03-27 | 2026-04-17 |
 | [Sk8er Boi](https://open.spotify.com/track/0nl2HbKhvPc7uot3ikqGnX) | [Living Dead Girl](https://open.spotify.com/artist/3ahU0zmYd7h1xTDBGGiDur) | [Not That Innocent \(The Covers EP\)](https://open.spotify.com/album/0z97yPtHA8v9ixB5YM2DL8) | 3:30 | 2026-03-18 | 2026-04-19 |
 | [Skateboard & Rain](https://open.spotify.com/track/1iAmluI90IYFBf07lwF16h) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Skateboard & Rain](https://open.spotify.com/album/5hZXtecf1A9dGLHmPk3ZUS) | 3:49 | 2026-03-26 | 2026-04-17 |
+| [Slambogini](https://open.spotify.com/track/3iA8AvXCiFDCHNwBqnx6S4) | [Endurus](https://open.spotify.com/artist/0Q1hSukyOd14VmmdpP4mNe) | [Slambogini](https://open.spotify.com/album/4DiOEqLYwORUVb9Xn61N6J) | 2:38 | 2026-04-21 |  |
 | [Sleepless](https://open.spotify.com/track/4n2nKaVvxVhxFrcMYvpTMl) | [Video Store](https://open.spotify.com/artist/3NXHe22MQyzptnFeVFnU3S) | [Everything looks better at night](https://open.spotify.com/album/6ontrKAUA6W1pds4yBSgTl) | 3:41 | 2025-12-16 | 2026-01-06 |
 | [Slice of Life](https://open.spotify.com/track/0sYZewITfKPYD6DjfCSwFI) | [Lucien Sunmoon](https://open.spotify.com/artist/1iyZiDBthvSTIdAhg1TLAb) | [Slice of Life](https://open.spotify.com/album/0B4imY7vCw4DwEpt6QCCkD) | 4:04 | 2025-12-22 | 2026-01-15 |
 | [Slip Away](https://open.spotify.com/track/0B2IIvwzlNX85RhlmqxZai) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:53 | 2025-09-16 |  |
@@ -1349,6 +1352,7 @@
 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 | 2025-08-03 |  |
 | [You were my everything](https://open.spotify.com/track/0dVW4fqFFf6H9AfXK6xtkN) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [You were my everything](https://open.spotify.com/album/3EKtfIQBKbo4V5BIzDF8oS) | 3:05 | 2026-01-12 | 2026-02-03 |
 | [You'll Believe What You're Told](https://open.spotify.com/track/4KSv5XoFYivrCLusrDa75U) | [Jack Galloway](https://open.spotify.com/artist/6I2vzq3gKCswQF4iTEMblK) | [You'll Believe What You're Told](https://open.spotify.com/album/63YqsKzqVLuybNmiyICFzd) | 2:54 | 2025-12-08 | 2026-01-06 |
+| [You're All](https://open.spotify.com/track/34YtNBPlO81bhT16nrJOP3) | [Geoff](https://open.spotify.com/artist/28bGRsX9UYi8M4QJOwTHx0) | [The Silence We Carried](https://open.spotify.com/album/2VHqPiwhzRkTZsQhd7QvML) | 3:28 | 2026-04-21 |  |
 | [You're Not Alone](https://open.spotify.com/track/0eeVeWfoy34vDgMxNeJeNR) | [7 Seconds Later](https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N) | [You're Not Alone](https://open.spotify.com/album/5fAbzRhgwUL4lQnmG2ylE7) | 3:28 | 2025-10-30 | 2025-12-10 |
 | [You're Not Alone](https://open.spotify.com/track/693FjxAhFeP2NYIEJBUNQX) | [Vampire Slumber Party](https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d) | [Vampire Cover Party](https://open.spotify.com/album/4TIGIiJ37utsM5evw2mv5O) | 3:38 | 2025-11-12 | 2025-12-10 |
 | [You're Old!](https://open.spotify.com/track/5UTKDSPf9mS3EGUXcUICSf) | [Halfway To Neptune](https://open.spotify.com/artist/4mBlUkbS7gxRnnho7DNYHy) | [TAKEOFF](https://open.spotify.com/album/5d3hyIeB4GpyozLlV9U0ZX) | 2:53 | 2026-01-08 | 2026-01-29 |

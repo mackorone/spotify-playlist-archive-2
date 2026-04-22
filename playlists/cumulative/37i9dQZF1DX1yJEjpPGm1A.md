@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-120 songs - 7 hr 54 min
+122 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Beauty of my life](https://open.spotify.com/track/2nuYQ6OTqjwzHw34SJiaF8) | [Kim Young Geun](https://open.spotify.com/artist/2gYn9xPkHXRkKnVnzRc4RZ) | [Beauty of my life](https://open.spotify.com/album/5XQTrStexFPEdhcCSLGvKe) | 4:28 | 2025-07-29 |  |
 | [Because of You \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/7gJiI5P6Djq6mwy2c4rjte) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Would You Marry Me?, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3PUiaIOXsMRHw4n8Cn7NgT) | 4:00 | 2025-11-04 |  |
 | [Before Love](https://open.spotify.com/track/2lKrSfIqw1HKPZt8SMSk14) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [Before Love](https://open.spotify.com/album/12NS4M30oqznlTJPmBWMC0) | 4:05 | 2025-10-21 |  |
+| [By Your Side](https://open.spotify.com/track/0PCHcxzHaTNwTICqX0ieTR) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [By Your Side \(Crushology 101 OST Part.4\)](https://open.spotify.com/album/70cfev45DG06SUDKef1eHM) | 3:58 | 2026-04-21 |  |
 | [Compass](https://open.spotify.com/track/7vsi3yaLMIHz6ZgY1QeVTf) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Classic](https://open.spotify.com/album/3mpbMQ43egeunRgwxeup5C) | 3:23 | 2025-12-04 |  |
 | [Confession Is Not Flashy](https://open.spotify.com/track/584hTOO20B2WKK8PjPB1Gw) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2D5vry1OpxezOMaUEkCGd3) | 3:48 | 2025-07-01 |  |
 | [Daily confession](https://open.spotify.com/track/0MJqWFARd7JwuYOIAhIX9V) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Daily confession](https://open.spotify.com/album/1PD73S3rXG09xdi3XuquVb) | 3:24 | 2025-07-22 |  |
@@ -63,6 +64,7 @@
 | [Little Love](https://open.spotify.com/track/01MEDNMk2B3CfpQBZXJYXI) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Little Love](https://open.spotify.com/album/4YuAcac5jdFht2ixyEaoUE) | 3:33 | 2026-03-10 |  |
 | [look at me](https://open.spotify.com/track/06ZjtFrSVuESKVe9bnZrNp) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [look at me](https://open.spotify.com/album/4CuUCkN2O08r4kkHTPZG06) | 4:11 | 2025-07-01 |  |
 | [Love beyond words](https://open.spotify.com/track/40c4m7jV3UFTaqCxdm6AFB) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love beyond words \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/7e1IQJXFhJ8WgMt2t22oJ9) | 3:53 | 2026-03-31 |  |
+| [LOVE FOUND ME](https://open.spotify.com/track/27qfIySSaLAhMCwZ5yqpOL) | [Ashatree](https://open.spotify.com/artist/1iFLqsWnASjUPBOD0sr8Up) | [LOVE FOUND ME](https://open.spotify.com/album/3GIt6ZZCE9Wqt7UyhJtoTG) | 4:23 | 2026-04-21 |  |
 | [Love is](https://open.spotify.com/track/2hX6cnuS3YNXt8YbOTAxar) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [Cho Youngsoo Remake Project Part.4](https://open.spotify.com/album/385kNRF09SSwaGe4AbA0Cg) | 3:49 | 2025-09-30 |  |
 | [Love Is All](https://open.spotify.com/track/1QoZ5G6pg7pZgEA7uFpgVh) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 2:44 | 2024-12-19 |  |
 | [Love will find a way](https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv) | 3:43 | 2025-07-08 |  |
@@ -100,7 +102,7 @@
 | [To You My Light \(feat\. LEE RAON\)](https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Red Moon: To You My Light](https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO) | 4:25 | 2024-12-19 |  |
 | [Together](https://open.spotify.com/track/3TDGIHf1Mdxat9VftcIVZ0) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Together](https://open.spotify.com/album/4OHIhLk0uyYAdmoBD8IjMI) | 3:26 | 2024-12-19 | 2026-04-14 |
 | [Together](https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA) | 4:32 | 2024-12-19 |  |
-| [True Song](https://open.spotify.com/track/7hm4BYnceCuxlioLaKGiyW) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [True Song](https://open.spotify.com/album/6u0ZVFTvWEWfgvV3LySMgJ) | 4:30 | 2025-04-15 |  |
+| [True Song](https://open.spotify.com/track/7hm4BYnceCuxlioLaKGiyW) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [True Song](https://open.spotify.com/album/6u0ZVFTvWEWfgvV3LySMgJ) | 4:30 | 2025-04-15 | 2026-04-22 |
 | [Trust in me](https://open.spotify.com/track/4zCcKPm03kHARVAiyzlDX8) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Mr\. Trot WINNER SONG](https://open.spotify.com/album/2FulfDIqpydc4Q4vNlkk5g) | 4:02 | 2025-09-03 |  |
 | [Wedding day](https://open.spotify.com/track/3jdOfGISSsleBymbijTW8n) | [Lee Jun Ho](https://open.spotify.com/artist/6MHVkCZuNc7JpMExfxOE8Z) | [Destiny](https://open.spotify.com/album/2Dh0t1z6hTA5Ym96GxfQWt) | 4:01 | 2024-12-19 |  |
 | [Wedding Song \(feat\. WONPIL\(DAY6\)\)](https://open.spotify.com/track/3V04nXHMTLytI0hV1Rjwps) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Wedding\_Song](https://open.spotify.com/album/5911ACOYBruDs2gOVp0Tvi) | 3:52 | 2024-12-19 |  |
@@ -108,7 +110,7 @@
 | [When It’s Called Love](https://open.spotify.com/track/6iDfmFtNZGtXnpok8E7kbS) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON Digital Single ‘When It’s Called Love’](https://open.spotify.com/album/5cXFzlzAkJjKZU6mys5NEV) | 2:50 | 2026-03-03 |  |
 | [Whenever Wherever](https://open.spotify.com/track/2zyYgnZsfzUDcaBdsBzAYj) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Whenever Wherever](https://open.spotify.com/album/2lYx5WNdnwIP1x2iryh0n5) | 4:05 | 2026-04-07 |  |
 | [Will You Marry Me](https://open.spotify.com/track/20XkFteMFP8g32KhsZpug7) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [My First](https://open.spotify.com/album/7toPg2DmQRsGqPTlzdt99A) | 3:48 | 2024-12-19 |  |
-| [Will you marry me?](https://open.spotify.com/track/2ZgMY8ifuvksRSE7mkK2WV) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Lee Seung Gi \`The Best\`](https://open.spotify.com/album/5vkF1JlshXF1ofmvQONqIN) | 3:48 | 2024-12-19 |  |
+| [Will you marry me?](https://open.spotify.com/track/2ZgMY8ifuvksRSE7mkK2WV) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Lee Seung Gi \`The Best\`](https://open.spotify.com/album/5vkF1JlshXF1ofmvQONqIN) | 3:48 | 2024-12-19 | 2026-04-22 |
 | [Wishes](https://open.spotify.com/track/6HLd0XOWcwJbW9gtNkYkaE) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Wishes](https://open.spotify.com/album/3z1Wf05O960hlh7GBuqm6A) | 3:09 | 2026-03-31 |  |
 | [With you](https://open.spotify.com/track/7FrabSVdfcPggA25gq3LJU) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [With you](https://open.spotify.com/album/7Hhn7y6LSD30X5Y0jYPWWi) | 3:43 | 2025-04-22 |  |
 | [Without You by My Side \(A New Song Called Wedding March\)](https://open.spotify.com/track/2Sp0ry7eBwsS69aYgAgYSe) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Jang Beom June 2nd Album](https://open.spotify.com/album/1U8qaip0Rmk0sh0V6QP5xJ) | 3:42 | 2025-06-17 |  |

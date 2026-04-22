@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: REJAY and Andr
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,441 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,441 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hangover](https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Hangover](https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2) | 3:26 |
-| 2 | [If We Could Be Forever](https://open.spotify.com/track/59hhyDPpEwQur86x32MciO) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [If We Could Be Forever](https://open.spotify.com/album/7lz4RIPpPZF9nLNH41fHEO) | 2:42 |
-| 3 | [Groove God's Love](https://open.spotify.com/track/34ptqwgaEtSeoteDl5y24X) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck), [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [From a South Island](https://open.spotify.com/album/2eZoAgmTbUjhoHus2nEjYo) | 5:18 |
-| 4 | [to make you want me](https://open.spotify.com/track/2xGoMmlR99RY9w3axVMVZW) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [to make you want me](https://open.spotify.com/album/1CzL6ZMTKi115kgfuNpiyq) | 3:13 |
-| 5 | [Summer.Noise.Pool](https://open.spotify.com/track/5kf2wCgfs6xQ6TX0058Crb) | [碎梦飞跃SleepLeaps](https://open.spotify.com/artist/6SzldORVMPXulsJFkLqNTL) | [外面是夏天](https://open.spotify.com/album/5zMKN3Q5BK91foqe9MfbSX) | 4:21 |
-| 6 | [NRG](https://open.spotify.com/track/3hR1AVjKsZLT1PgkdiUOTV) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [NRG](https://open.spotify.com/album/3Z28WbXa0mpnXpWXfpODoU) | 3:08 |
-| 7 | [Cola](https://open.spotify.com/track/3B93NLC96iNgCwIW0Z4n7J) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Cola](https://open.spotify.com/album/209FIuRImmUnuLvTQ7PQAS) | 4:01 |
-| 8 | [grammy](https://open.spotify.com/track/3KobTfSpubhJHP6oZFESlz) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [grammy](https://open.spotify.com/album/6gC6hc4aDhu4GWdnmO8CPu) | 3:21 |
-| 9 | [Di Hotel Malibu](https://open.spotify.com/track/27ItwuFyKZbYH3hcmeDXLI) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Di Hotel Malibu](https://open.spotify.com/album/2aIHJbIgpUnEa2n0Bpt9FR) | 2:32 |
-| 10 | [請你離開](https://open.spotify.com/track/2ObQBIEZqWlpjHOCIquJpc) | [公館青少年 GGteens](https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp), [Outlander](https://open.spotify.com/artist/719QNv2dpubOiMYaxydbVq) | [請你離開](https://open.spotify.com/album/75Up5ybAQd5cnprIinAXRv) | 3:07 |
-| 11 | [More Time](https://open.spotify.com/track/1eFYjbLIN7ifJFiyn6uGfg) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [More Time](https://open.spotify.com/album/6oLAT3dtRuQAjauvm72BHp) | 3:25 |
-| 12 | [With Love feat\. luv](https://open.spotify.com/track/5ZmDD0nqtQJBF11wXY9Kvl) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [With Love feat\. luv](https://open.spotify.com/album/4Ch4vtFwX7f5QZPaSm8fFo) | 2:44 |
-| 13 | [i know u by heart](https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [i know u by heart](https://open.spotify.com/album/4S9WhrFR0EHAICu879RR5e) | 3:00 |
-| 14 | [我不用問](https://open.spotify.com/track/6WQn9EZT2cOww6bNznpfUB) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [在這裡停一下](https://open.spotify.com/album/2QqH4i4x8o5ylMQWS4jCoX) | 3:58 |
-| 15 | [Stranger's Funeral](https://open.spotify.com/track/0xsKzUbzpcqQ9kGLV1tZ16) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Stranger's Funeral](https://open.spotify.com/album/5n9BwlAdpF815L01sIed5l) | 3:43 |
-| 16 | [higher](https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [higher](https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK) | 3:34 |
-| 17 | [Home](https://open.spotify.com/track/7dkfornwa4SOG9C2dtUELO) | [Wellsaid](https://open.spotify.com/artist/03YL8KDv0Ui8DNBe1KJwnG) | [Home](https://open.spotify.com/album/6HMXBSS0wclLgvHCXMPlWp) | 2:52 |
-| 18 | [take three](https://open.spotify.com/track/67y8te5E7oYXnAq4nlhjZI) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [take three](https://open.spotify.com/album/0R8AcFXuKhEsJ5XTZ2YIwT) | 2:53 |
-| 19 | [HOSHIKUZU](https://open.spotify.com/track/56bQx7i4lEUo5JPsl40baF) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [HOSHIKUZU](https://open.spotify.com/album/6uOCwjpuGJPHdfe3gxkqNW) | 2:51 |
+| 2 | [Groove God's Love](https://open.spotify.com/track/34ptqwgaEtSeoteDl5y24X) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck), [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [From a South Island](https://open.spotify.com/album/2eZoAgmTbUjhoHus2nEjYo) | 5:18 |
+| 3 | [to make you want me](https://open.spotify.com/track/2xGoMmlR99RY9w3axVMVZW) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [to make you want me](https://open.spotify.com/album/1CzL6ZMTKi115kgfuNpiyq) | 3:13 |
+| 4 | [Summer.Noise.Pool](https://open.spotify.com/track/5kf2wCgfs6xQ6TX0058Crb) | [碎梦飞跃SleepLeaps](https://open.spotify.com/artist/6SzldORVMPXulsJFkLqNTL) | [外面是夏天](https://open.spotify.com/album/5zMKN3Q5BK91foqe9MfbSX) | 4:21 |
+| 5 | [NRG](https://open.spotify.com/track/3hR1AVjKsZLT1PgkdiUOTV) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [NRG](https://open.spotify.com/album/3Z28WbXa0mpnXpWXfpODoU) | 3:08 |
+| 6 | [Cola](https://open.spotify.com/track/3B93NLC96iNgCwIW0Z4n7J) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Cola](https://open.spotify.com/album/209FIuRImmUnuLvTQ7PQAS) | 4:01 |
+| 7 | [grammy](https://open.spotify.com/track/3KobTfSpubhJHP6oZFESlz) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [grammy](https://open.spotify.com/album/6gC6hc4aDhu4GWdnmO8CPu) | 3:21 |
+| 8 | [Di Hotel Malibu](https://open.spotify.com/track/27ItwuFyKZbYH3hcmeDXLI) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Di Hotel Malibu](https://open.spotify.com/album/2aIHJbIgpUnEa2n0Bpt9FR) | 2:32 |
+| 9 | [請你離開](https://open.spotify.com/track/2ObQBIEZqWlpjHOCIquJpc) | [公館青少年 GGteens](https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp), [Outlander](https://open.spotify.com/artist/719QNv2dpubOiMYaxydbVq) | [請你離開](https://open.spotify.com/album/75Up5ybAQd5cnprIinAXRv) | 3:07 |
+| 10 | [More Time](https://open.spotify.com/track/1eFYjbLIN7ifJFiyn6uGfg) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [More Time](https://open.spotify.com/album/6oLAT3dtRuQAjauvm72BHp) | 3:25 |
+| 11 | [With Love feat\. luv](https://open.spotify.com/track/5ZmDD0nqtQJBF11wXY9Kvl) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [With Love feat\. luv](https://open.spotify.com/album/4Ch4vtFwX7f5QZPaSm8fFo) | 2:44 |
+| 12 | [i know u by heart](https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [i know u by heart](https://open.spotify.com/album/4S9WhrFR0EHAICu879RR5e) | 3:00 |
+| 13 | [我不用問](https://open.spotify.com/track/6WQn9EZT2cOww6bNznpfUB) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [在這裡停一下](https://open.spotify.com/album/2QqH4i4x8o5ylMQWS4jCoX) | 3:58 |
+| 14 | [Stranger's Funeral](https://open.spotify.com/track/0xsKzUbzpcqQ9kGLV1tZ16) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Stranger's Funeral](https://open.spotify.com/album/5n9BwlAdpF815L01sIed5l) | 3:43 |
+| 15 | [higher](https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [higher](https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK) | 3:34 |
+| 16 | [Home](https://open.spotify.com/track/7dkfornwa4SOG9C2dtUELO) | [Wellsaid](https://open.spotify.com/artist/03YL8KDv0Ui8DNBe1KJwnG) | [Home](https://open.spotify.com/album/6HMXBSS0wclLgvHCXMPlWp) | 2:52 |
+| 17 | [take three](https://open.spotify.com/track/67y8te5E7oYXnAq4nlhjZI) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [take three](https://open.spotify.com/album/0R8AcFXuKhEsJ5XTZ2YIwT) | 2:53 |
+| 18 | [HOSHIKUZU](https://open.spotify.com/track/56bQx7i4lEUo5JPsl40baF) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [HOSHIKUZU](https://open.spotify.com/album/6uOCwjpuGJPHdfe3gxkqNW) | 2:51 |
+| 19 | [踊るノアール \- Prod\. cero](https://open.spotify.com/track/0qwWTMl4DxVGSA2vIRW3rf) | [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [踊るノアール \(Prod\. cero\)](https://open.spotify.com/album/4oPIVcsTEJbzrSIObXTcHx) | 4:22 |
 | 20 | [Smoke](https://open.spotify.com/track/3bkeFShCXWdW7jntIi3z9v) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Smoke](https://open.spotify.com/album/4V5DedfrusjJshj6j4PCED) | 4:37 |
 | 21 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
 | 22 | [GAME OVER ?](https://open.spotify.com/track/3Ce7m66BjXf97IDrvUVGbP) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [LOVE&HATE](https://open.spotify.com/album/5lOdOxNDjxelMZ7PJSZB6G) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [A Kinder World](https://open.spotify.com/track/7bFC8LVpuLnGcdTXXeyQXJ) | [Lor](https://open.spotify.com/artist/0IMWbeAo0Sc9kkhNECqFIX) | [Kinder World](https://open.spotify.com/album/3q7SedCqngB7tvHhw8ct9t) | 3:08 |
 | 100 | [Don't Overthink It](https://open.spotify.com/track/6Z6CMUIngqTpjckxZUTlwI) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [Don't Overthink It](https://open.spotify.com/album/3M85KK54B4H4y58MnQtb0O) | 2:58 |
 
-Snapshot ID: `AAAAAAFeDBlpgTnVPsPimrN7P7f7xXwa`
+Snapshot ID: `AAAAAJ6npwE8rBaeIrb0yneSVBzDCjBN`

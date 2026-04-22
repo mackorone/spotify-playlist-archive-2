@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-385 songs - 20 hr 43 min
+386 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [LALALALA \(Rock Version\)](https://open.spotify.com/track/12xk4SqP3omYgUZbPWF3nF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg) | 3:07 | 2023-11-10 |  |
 | [Leave](https://open.spotify.com/track/2zPqhdPGNCwzXnvSvj7WgD) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:39 | 2023-11-10 | 2024-04-19 |
 | [Leave](https://open.spotify.com/track/6fZLf0RxpJ9TS3xk7U7woI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg) | 3:39 | 2023-11-10 |  |
+| [Let It Show](https://open.spotify.com/track/7rw9yCuNFOqWT0P7rOywgA) | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [Yumi's Cells 3, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/6RS1nWDZkEJPLT3SQNcSIO) | 3:18 | 2026-04-21 |  |
 | [Levanter](https://open.spotify.com/track/0o0Cw5YbhMhADD0BlxSGhN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:17 | 2022-03-18 |  |
 | [Levanter](https://open.spotify.com/track/4obrd9niIX70q5At9HURLd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:17 | 2022-03-18 | 2024-04-19 |
 | [Levanter \(English Ver.\)](https://open.spotify.com/track/5sPdWGv1MlA0qHzjN9hPPv) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Step Out of Clé \(English Ver.\)](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) | 3:15 | 2022-03-18 | 2024-04-19 |

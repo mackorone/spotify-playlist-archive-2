@@ -1,12 +1,12 @@
 {
   "description": "Nieuwe tijdloze muziek. Cover: MICHA (<a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR</a>-artist)",
-  "num_followers": 450068,
+  "num_followers": 450051,
   "original_name": "Altijd Goed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE9SMLSump3ytO34ncsMEnqsfrDz",
+  "snapshot_id": "AAAAAEEktTGeDgQvXvNddcYShsEEXQ/4",
   "tracks": [
     {
       "added_at": "2026-04-16 22:01:54",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-04-16 22:01:54",
       "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
+    },
+    {
+      "added_at": "2026-04-16 22:01:54",
+      "album": {
         "name": "Love Bites Back",
         "url": "https://open.spotify.com/album/1r7EMLI4RNk6vZjcKy5Son"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 244472,
       "name": "Heart of the Matter",
       "url": "https://open.spotify.com/track/6OkmVYAiybfvlSjrGnCTPb"
-    },
-    {
-      "added_at": "2026-04-16 22:01:54",
-      "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 186438,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
     },
     {
       "added_at": "2026-04-16 22:01:54",

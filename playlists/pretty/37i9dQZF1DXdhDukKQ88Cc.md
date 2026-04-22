@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 den nyeste rap i dk 🔥 cover: Lamin
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,814 likes - 22 songs - 55 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 187,808 likes - 22 songs - 55 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

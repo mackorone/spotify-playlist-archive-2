@@ -2,7 +2,7 @@
 
 ### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
-> The hottest out the South\. Cover: Swae Lee and his son
+> The hottest out the South\. Cover: Don Toliver
 
 2,679 songs - 5 day 4 hr 53 min
 

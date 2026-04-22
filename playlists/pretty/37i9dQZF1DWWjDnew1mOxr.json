@@ -1,12 +1,12 @@
 {
   "description": "Music that means it. Cover: MOULD",
-  "num_followers": 130849,
+  "num_followers": 130854,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABHlvXG41gspGNYPZULIz4UKwOEb",
+  "snapshot_id": "AAAAAO0cOtHoqGvJppbIh4vlx63Vn7bQ",
   "tracks": [
     {
       "added_at": "2026-04-13 11:38:56",
@@ -643,18 +643,18 @@
     {
       "added_at": "2026-04-13 11:38:56",
       "album": {
-        "name": "Placebo",
-        "url": "https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq"
+        "name": "Showtime",
+        "url": "https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA"
       },
       "artists": [
         {
-          "name": "VILLANELLE",
-          "url": "https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 290086,
-      "name": "Placebo",
-      "url": "https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14"
+      "duration_ms": 280016,
+      "name": "Showtime",
+      "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"
     },
     {
       "added_at": "2026-04-13 11:38:56",
@@ -675,18 +675,34 @@
     {
       "added_at": "2026-04-13 11:38:56",
       "album": {
-        "name": "Showtime",
-        "url": "https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA"
+        "name": "Thorn",
+        "url": "https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W"
       },
       "artists": [
         {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
         }
       ],
-      "duration_ms": 280016,
-      "name": "Showtime",
-      "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"
+      "duration_ms": 248480,
+      "name": "Thorn",
+      "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
+    },
+    {
+      "added_at": "2026-04-13 11:38:56",
+      "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq"
+      },
+      "artists": [
+        {
+          "name": "VILLANELLE",
+          "url": "https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF"
+        }
+      ],
+      "duration_ms": 290086,
+      "name": "Placebo",
+      "url": "https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14"
     },
     {
       "added_at": "2026-04-13 11:38:56",
@@ -703,22 +719,6 @@
       "duration_ms": 176853,
       "name": "mettle",
       "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
-    },
-    {
-      "added_at": "2026-04-13 11:38:56",
-      "album": {
-        "name": "Thorn",
-        "url": "https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W"
-      },
-      "artists": [
-        {
-          "name": "Keo",
-          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "Thorn",
-      "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
     },
     {
       "added_at": "2026-04-13 11:38:56",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-04-13 11:38:56",
       "album": {
-        "name": "Dirty White Lies",
-        "url": "https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0"
-      },
-      "artists": [
-        {
-          "name": "Basht.",
-          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
-        }
-      ],
-      "duration_ms": 179093,
-      "name": "Dirty White",
-      "url": "https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4"
-    },
-    {
-      "added_at": "2026-04-13 11:38:56",
-      "album": {
         "name": "Personality Test",
         "url": "https://open.spotify.com/album/5WtJlhPqQKUSCjW6VYzA7S"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 140609,
       "name": "Personality Test",
       "url": "https://open.spotify.com/track/2N3bvXciflaoAPIXoAUDjL"
+    },
+    {
+      "added_at": "2026-04-13 11:38:56",
+      "album": {
+        "name": "Dirty White Lies",
+        "url": "https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Dirty White",
+      "url": "https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4"
     },
     {
       "added_at": "2026-04-13 11:38:56",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-04-13 11:38:56",
       "album": {
-        "name": "Summer Rain",
-        "url": "https://open.spotify.com/album/1jUTsjLZz162xLsUZNZgc5"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 201279,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/2r2AhkxSsxbJVFo26TQqaL"
-    },
-    {
-      "added_at": "2026-04-13 11:38:56",
-      "album": {
         "name": "From the Night",
         "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 251821,
       "name": "From the Night",
       "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
+    },
+    {
+      "added_at": "2026-04-13 11:38:56",
+      "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/1jUTsjLZz162xLsUZNZgc5"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 201279,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/2r2AhkxSsxbJVFo26TQqaL"
     },
     {
       "added_at": "2026-04-13 11:38:56",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-04-13 11:38:56",
       "album": {
-        "name": "Big Swimmer",
-        "url": "https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        }
-      ],
-      "duration_ms": 202048,
-      "name": "New York, Let's Do Nothing",
-      "url": "https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3"
-    },
-    {
-      "added_at": "2026-04-13 11:38:56",
-      "album": {
         "name": "Sandman",
         "url": "https://open.spotify.com/album/7D8d6CcdC2unP1EXdpvvYq"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 193612,
       "name": "Voice Of The Voiceless",
       "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
+    },
+    {
+      "added_at": "2026-04-13 11:38:56",
+      "album": {
+        "name": "Big Swimmer",
+        "url": "https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc"
+      },
+      "artists": [
+        {
+          "name": "King Hannah",
+          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+        }
+      ],
+      "duration_ms": 202048,
+      "name": "New York, Let's Do Nothing",
+      "url": "https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3"
     },
     {
       "added_at": "2026-04-13 11:38:56",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-04-13 11:38:56",
       "album": {
-        "name": "Do You Want It?",
-        "url": "https://open.spotify.com/album/3r1POBHLDuWzGaIqxtpKL4"
-      },
-      "artists": [
-        {
-          "name": "Corella",
-          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
-        }
-      ],
-      "duration_ms": 190914,
-      "name": "Do You Want It?",
-      "url": "https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs"
-    },
-    {
-      "added_at": "2026-04-13 11:38:56",
-      "album": {
         "name": "Nurse Depression",
         "url": "https://open.spotify.com/album/6kYfN2e5eh0SHLB6mRAaF5"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 125562,
       "name": "Nurse Depression",
       "url": "https://open.spotify.com/track/5xnFYRez4P0r3xvnnleejq"
+    },
+    {
+      "added_at": "2026-04-13 11:38:56",
+      "album": {
+        "name": "Do You Want It?",
+        "url": "https://open.spotify.com/album/3r1POBHLDuWzGaIqxtpKL4"
+      },
+      "artists": [
+        {
+          "name": "Corella",
+          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+        }
+      ],
+      "duration_ms": 190914,
+      "name": "Do You Want It?",
+      "url": "https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs"
     },
     {
       "added_at": "2026-04-13 11:38:56",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-04-13 11:38:56",
       "album": {
-        "name": "Rewire",
-        "url": "https://open.spotify.com/album/2pp6yjayJD05QuhLbGqa1K"
-      },
-      "artists": [
-        {
-          "name": "Corella",
-          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
-        }
-      ],
-      "duration_ms": 176492,
-      "name": "Rewire",
-      "url": "https://open.spotify.com/track/7vqPs5RH1PC8Sfv6hg9Q0A"
-    },
-    {
-      "added_at": "2026-04-13 11:38:56",
-      "album": {
         "name": "Reeling",
         "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 170373,
       "name": "Life's a Bitch (But I Like it So Much)",
       "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
+    },
+    {
+      "added_at": "2026-04-13 11:38:56",
+      "album": {
+        "name": "Rewire",
+        "url": "https://open.spotify.com/album/2pp6yjayJD05QuhLbGqa1K"
+      },
+      "artists": [
+        {
+          "name": "Corella",
+          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+        }
+      ],
+      "duration_ms": 176492,
+      "name": "Rewire",
+      "url": "https://open.spotify.com/track/7vqPs5RH1PC8Sfv6hg9Q0A"
     },
     {
       "added_at": "2026-04-13 11:38:56",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-04-13 11:38:56",
       "album": {
-        "name": "Girl From NYC",
-        "url": "https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD"
+        "name": "Death & Love, Pt. 1",
+        "url": "https://open.spotify.com/album/2ZA4Mn83aCyCEa9Cz3UfgK"
       },
       "artists": [
         {
-          "name": "Br\u00f2geal",
-          "url": "https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK"
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 138747,
-      "name": "Girl From NYC",
-      "url": "https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk"
+      "duration_ms": 200740,
+      "name": "Let's Leave Together",
+      "url": "https://open.spotify.com/track/28p6cPTSRglxJjKYZQeJVH"
     }
   ],
   "unique_name": "Proper Belters",

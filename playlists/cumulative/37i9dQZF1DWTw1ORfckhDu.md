@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,158 songs - 2 day 6 hr 56 min
+1,159 songs - 2 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -843,7 +843,7 @@
 | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/track/4IM8WcV6lgjQeBbOA4JaDl) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/album/5BwWhNeYf1w9Kol1PbnDeL) | 3:33 | 2024-10-03 | 2024-11-15 |
 | [Rikosrekisteri 2](https://open.spotify.com/track/4lQNe723Kc0n1NFLnWRenV) | [Julma Henri](https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o), [Asa](https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D), [Jiiaa](https://open.spotify.com/artist/3y31Ycml0xTe80UqfY5E4q) | [Rikosrekisteri 2](https://open.spotify.com/album/3nbhFVwnwbgxI37B2DJ7dN) | 3:56 | 2024-01-25 | 2024-01-27 |
 | [Rikosrekisteri 2](https://open.spotify.com/track/5gY1vrys9KVOuvgcGJvS52) | [Julma Henri](https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o), [Asa](https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D), [Jiiaa](https://open.spotify.com/artist/3y31Ycml0xTe80UqfY5E4q) | [Paratiisi SRJTNT Vol\. 3](https://open.spotify.com/album/6HXBOglr4QsdJ5ERXXbVkm) | 3:56 | 2024-01-26 | 2024-02-16 |
-| [Ringside](https://open.spotify.com/track/2nsvYByxwXzlJw6Tps4Tde) | [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB) | [Ringside](https://open.spotify.com/album/6unsEZgvoHkSk8LyvVRhuc) | 2:58 | 2026-04-09 |  |
+| [Ringside](https://open.spotify.com/track/2nsvYByxwXzlJw6Tps4Tde) | [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB) | [Ringside](https://open.spotify.com/album/6unsEZgvoHkSk8LyvVRhuc) | 2:58 | 2026-04-09 | 2026-04-22 |
 | [Rio](https://open.spotify.com/track/74LknEauq5j2CEPTUd0WWK) | [Phimi](https://open.spotify.com/artist/0H3inzBUtHTqkhaKy8Edvk), [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Rio](https://open.spotify.com/album/5bIiiWvjC6anYTeWMAfT0r) | 2:23 | 2023-09-21 | 2023-10-20 |
 | [Rockstar](https://open.spotify.com/track/1o07xfumEmwE01GeYCFz1w) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Rockstar](https://open.spotify.com/album/4qh0oqh6tSVZmgK5fEtoGM) | 3:00 | 2025-02-06 | 2025-04-18 |
 | [ROISTO](https://open.spotify.com/track/7cEX0molDUgDwiw3Mjzsmt) | [Mäly](https://open.spotify.com/artist/7Dmkxc9giT3jSEuKKX20b0), [rare](https://open.spotify.com/artist/6oxHDZYK4DdWQ9SqMntkes) | [ROISTO](https://open.spotify.com/album/5Cp3eaVCmNQugVdFZUOvI3) | 2:00 | 2024-01-04 | 2024-01-12 |
@@ -1057,6 +1057,7 @@
 | [Tässä ja nyt \(feat\. william\)](https://open.spotify.com/track/52Jcc0xkoJyguwYnfKUnFU) | [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Tässä ja nyt \(feat\. william\)](https://open.spotify.com/album/5X4Ftxb2PKeexJD9V9zf62) | 2:45 | 2023-11-16 | 2024-02-23 |
 | [Täydellinen](https://open.spotify.com/track/19mKgvz3lPyUJBXvnXXuvv) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Täydellinen](https://open.spotify.com/album/4t2rUEiSmBtwVpe1tA7MkX) | 2:28 | 2024-08-23 | 2024-10-25 |
 | [Tää ei lopu](https://open.spotify.com/track/6Fsl5nvdOFEWkZq5bJLGp1) | [Are](https://open.spotify.com/artist/16X4XStfwmDUkI98lVGj4Z) | [Tää ei lopu](https://open.spotify.com/album/4mM6bQfpEsls1PKeaNzotD) | 3:33 | 2024-03-28 | 2024-04-12 |
+| [tää ei vaan oo sulle](https://open.spotify.com/track/7EZWQeAyOfpOQGVacA5Xcx) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [tää ei vaan oo sulle](https://open.spotify.com/album/768j9sCaqohBMnuDgmKc6u) | 2:25 | 2026-04-16 |  |
 | [TÄÄ ILTA \(feat\. Senya\)](https://open.spotify.com/track/3Q2AIM4SuTHcar4Wy1hAr2) | [Maxin](https://open.spotify.com/artist/3rYG05hlpuT7IK1Qwqy7s9), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [TÄÄ ILTA \(feat\. Senya\)](https://open.spotify.com/album/2YjdIxfTnEMMWL436k0hAR) | 2:49 | 2023-09-21 | 2023-10-20 |
 | [Tää on se kesä \(feat\. Juno\)](https://open.spotify.com/track/4zFkX52MQGSqrkLHLvRhmG) | [TuuriUli](https://open.spotify.com/artist/4bdVhqWUYJo5n6evj621t7), [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9) | [Tää on se kesä \(feat\. Juno\)](https://open.spotify.com/album/4nG0mFMKgm0KMZxCbH2T34) | 3:09 | 2024-05-09 | 2024-07-02 |
 | [Tää päättyy meihin](https://open.spotify.com/track/1mfdve1Oy4dfsAvchjV9CR) | [Laascone](https://open.spotify.com/artist/3IU1HyzJQQGVjFYIc6kv7c) | [Tää päättyy meihin](https://open.spotify.com/album/4NRp6rdZtP5mZl30y2y6dc) | 3:22 | 2024-04-11 | 2024-04-26 |

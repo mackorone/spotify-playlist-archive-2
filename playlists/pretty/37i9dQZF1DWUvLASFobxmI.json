@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Grupo Anexxado y Predilecto en portada.",
-  "num_followers": 529328,
+  "num_followers": 529351,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-04-17 20:01:42",
       "album": {
-        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
-        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 286218,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
-    },
-    {
-      "added_at": "2026-04-17 20:01:42",
-      "album": {
         "name": "Nomas Pa Que Sepan",
         "url": "https://open.spotify.com/album/5d4Z3mg8EZCx5jwOSQJWpY"
       },
@@ -495,6 +479,38 @@
       "duration_ms": 169830,
       "name": "Nomas Pa Que Sepan",
       "url": "https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu"
+    },
+    {
+      "added_at": "2026-04-17 20:01:42",
+      "album": {
+        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
+        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 286218,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
+    },
+    {
+      "added_at": "2026-04-17 20:01:42",
+      "album": {
+        "name": "Para Que Ya No Duela",
+        "url": "https://open.spotify.com/album/3w1jOpPuhpmHIb5pd1C7Aw"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Para Que Ya No Duela",
+      "url": "https://open.spotify.com/track/3CukRzz5yx3Ey6E9DNdeSI"
     },
     {
       "added_at": "2026-04-17 20:01:42",
@@ -535,18 +551,18 @@
     {
       "added_at": "2026-04-17 20:01:42",
       "album": {
-        "name": "Para Que Ya No Duela",
-        "url": "https://open.spotify.com/album/3w1jOpPuhpmHIb5pd1C7Aw"
+        "name": "Me Derrito",
+        "url": "https://open.spotify.com/album/4XkaEPeQ7KLillZsiWpuVC"
       },
       "artists": [
         {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 213066,
-      "name": "Para Que Ya No Duela",
-      "url": "https://open.spotify.com/track/3CukRzz5yx3Ey6E9DNdeSI"
+      "duration_ms": 170016,
+      "name": "Me Derrito",
+      "url": "https://open.spotify.com/track/3vcrtSYtHJrhyWEBkzSDpM"
     },
     {
       "added_at": "2026-04-17 20:01:42",
@@ -563,22 +579,6 @@
       "duration_ms": 198421,
       "name": "Migajero",
       "url": "https://open.spotify.com/track/5epbktRwPpLwYz5mnBgNPq"
-    },
-    {
-      "added_at": "2026-04-17 20:01:42",
-      "album": {
-        "name": "Me Derrito",
-        "url": "https://open.spotify.com/album/4XkaEPeQ7KLillZsiWpuVC"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 170016,
-      "name": "Me Derrito",
-      "url": "https://open.spotify.com/track/3vcrtSYtHJrhyWEBkzSDpM"
     },
     {
       "added_at": "2026-04-17 20:01:42",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-04-17 20:01:42",
       "album": {
-        "name": "Soy Tan Tuyo",
-        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 220377,
-      "name": "Soy Tan Tuyo",
-      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
-    },
-    {
-      "added_at": "2026-04-17 20:01:42",
-      "album": {
         "name": "HOME RUN",
         "url": "https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 207886,
       "name": "HOME RUN",
       "url": "https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO"
+    },
+    {
+      "added_at": "2026-04-17 20:01:42",
+      "album": {
+        "name": "Soy Tan Tuyo",
+        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 220377,
+      "name": "Soy Tan Tuyo",
+      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
     },
     {
       "added_at": "2026-04-17 20:01:42",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-04-17 20:01:42",
       "album": {
+        "name": "Covers De Mi Gusto, Vol. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/6Eb7L6i4a2S0YsALJiY3Be"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 173621,
+      "name": "Eres - En Vivo",
+      "url": "https://open.spotify.com/track/4TYp9OgXHDdF75R8Ratby1"
+    },
+    {
+      "added_at": "2026-04-17 20:01:42",
+      "album": {
         "name": "Apenas Prend\u00ed El Motor",
         "url": "https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 117866,
       "name": "Apenas Prend\u00ed El Motor",
       "url": "https://open.spotify.com/track/4rJVkerzQdghvOgBW0lHKj"
-    },
-    {
-      "added_at": "2026-04-17 20:01:42",
-      "album": {
-        "name": "Covers De Mi Gusto, Vol. 3 (En Vivo)",
-        "url": "https://open.spotify.com/album/6Eb7L6i4a2S0YsALJiY3Be"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 173621,
-      "name": "Eres - En Vivo",
-      "url": "https://open.spotify.com/track/4TYp9OgXHDdF75R8Ratby1"
     },
     {
       "added_at": "2026-04-17 20:01:42",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-04-17 20:01:42",
       "album": {
+        "name": "Selectiva",
+        "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 141101,
+      "name": "Selectiva",
+      "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
+    },
+    {
+      "added_at": "2026-04-17 20:01:42",
+      "album": {
         "name": "La Reina",
         "url": "https://open.spotify.com/album/13IwsYGj7sAPuWpVVeK2wz"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2026-04-17 20:01:42",
       "album": {
-        "name": "Selectiva",
-        "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
+        "name": "Legado Beltran",
+        "url": "https://open.spotify.com/album/16g7L4AGUl6NJRfFedVYyb"
       },
       "artists": [
         {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
         }
       ],
-      "duration_ms": 141101,
-      "name": "Selectiva",
-      "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
+      "duration_ms": 217650,
+      "name": "Legado Beltran",
+      "url": "https://open.spotify.com/track/0dp7E6LpxJWfAfGpJKq72m"
     },
     {
       "added_at": "2026-04-17 20:01:42",
@@ -1131,22 +1147,6 @@
       "duration_ms": 209160,
       "name": "La Competencia",
       "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
-    },
-    {
-      "added_at": "2026-04-17 20:01:42",
-      "album": {
-        "name": "Legado Beltran",
-        "url": "https://open.spotify.com/album/16g7L4AGUl6NJRfFedVYyb"
-      },
-      "artists": [
-        {
-          "name": "Elio Vega",
-          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
-        }
-      ],
-      "duration_ms": 217650,
-      "name": "Legado Beltran",
-      "url": "https://open.spotify.com/track/0dp7E6LpxJWfAfGpJKq72m"
     },
     {
       "added_at": "2026-04-17 20:01:42",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-04-17 20:01:42",
       "album": {
-        "name": "Tengo Que Olvidar",
-        "url": "https://open.spotify.com/album/7au1GwjIJH9nkuDfuPeEgg"
-      },
-      "artists": [
-        {
-          "name": "El Cartel De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/7bkfGzqtHdzcvjy15JC7G7"
-        }
-      ],
-      "duration_ms": 159016,
-      "name": "Tengo Que Olvidar",
-      "url": "https://open.spotify.com/track/6YR24esZ2MpgBuzP6ey9Re"
-    },
-    {
-      "added_at": "2026-04-17 20:01:42",
-      "album": {
         "name": "Tu Clavo",
         "url": "https://open.spotify.com/album/6DRYfEbBa7Fouauh2HxGuf"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 182399,
       "name": "Tu Clavo",
       "url": "https://open.spotify.com/track/117epVqgLmBxScEqVRBoCh"
+    },
+    {
+      "added_at": "2026-04-17 20:01:42",
+      "album": {
+        "name": "Tengo Que Olvidar",
+        "url": "https://open.spotify.com/album/7au1GwjIJH9nkuDfuPeEgg"
+      },
+      "artists": [
+        {
+          "name": "El Cartel De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/7bkfGzqtHdzcvjy15JC7G7"
+        }
+      ],
+      "duration_ms": 159016,
+      "name": "Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/6YR24esZ2MpgBuzP6ey9Re"
     },
     {
       "added_at": "2026-04-17 20:01:42",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-04-17 20:01:42",
       "album": {
+        "name": "Mi Familia Y Mis Hijos",
+        "url": "https://open.spotify.com/album/7EKYTl7S3S0pk9VkqftvIB"
+      },
+      "artists": [
+        {
+          "name": "Victor Eme",
+          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
+        }
+      ],
+      "duration_ms": 144637,
+      "name": "Mi Familia Y Mis Hijos",
+      "url": "https://open.spotify.com/track/4FJEUVbRU0LWOCYlpkx0Zq"
+    },
+    {
+      "added_at": "2026-04-17 20:01:42",
+      "album": {
         "name": "Quisiera Decirte",
         "url": "https://open.spotify.com/album/5O5GNBfshFtq6gbeRJFhGc"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 170676,
       "name": "Quisiera Decirte",
       "url": "https://open.spotify.com/track/1F6GDNf0RMQ3alpwLtxS1V"
-    },
-    {
-      "added_at": "2026-04-17 20:01:42",
-      "album": {
-        "name": "Mi Familia Y Mis Hijos",
-        "url": "https://open.spotify.com/album/7EKYTl7S3S0pk9VkqftvIB"
-      },
-      "artists": [
-        {
-          "name": "Victor Eme",
-          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
-        }
-      ],
-      "duration_ms": 144637,
-      "name": "Mi Familia Y Mis Hijos",
-      "url": "https://open.spotify.com/track/4FJEUVbRU0LWOCYlpkx0Zq"
     },
     {
       "added_at": "2026-04-17 20:01:42",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-04-17 20:01:42",
       "album": {
-        "name": "Arrepentido y Desvelado",
-        "url": "https://open.spotify.com/album/3LvPyFnLaNA1CCrzDFbfgY"
-      },
-      "artists": [
-        {
-          "name": "Adrian Zamarripa",
-          "url": "https://open.spotify.com/artist/0d6XhOj0giOSTeOZ80jeby"
-        }
-      ],
-      "duration_ms": 157918,
-      "name": "Arrepentido y Desvelado",
-      "url": "https://open.spotify.com/track/5tMiQWHWFHCBdm2vQCUgQs"
-    },
-    {
-      "added_at": "2026-04-17 20:01:42",
-      "album": {
         "name": "Jammin' sessions",
         "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 171506,
       "name": "Gotas De Agua Dulce - Live",
       "url": "https://open.spotify.com/track/2GTj69Y6CI9UNjiFNRSb3C"
+    },
+    {
+      "added_at": "2026-04-17 20:01:42",
+      "album": {
+        "name": "Arrepentido y Desvelado",
+        "url": "https://open.spotify.com/album/3LvPyFnLaNA1CCrzDFbfgY"
+      },
+      "artists": [
+        {
+          "name": "Adrian Zamarripa",
+          "url": "https://open.spotify.com/artist/0d6XhOj0giOSTeOZ80jeby"
+        }
+      ],
+      "duration_ms": 157918,
+      "name": "Arrepentido y Desvelado",
+      "url": "https://open.spotify.com/track/5tMiQWHWFHCBdm2vQCUgQs"
     },
     {
       "added_at": "2026-04-17 20:01:42",

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: REJAY and Andr
 
-2,519 songs - 6 day 8 hr 54 min
+2,520 songs - 6 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -969,7 +969,7 @@
 | [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 | 2023-09-21 | 2024-09-26 |
 | [If Only](https://open.spotify.com/track/408zWjjulyoRLOjkJAJuNn) | [Golden Mammoth](https://open.spotify.com/artist/4ILzCq6Jt8Ykmth9ZuLSqb) | [If Only](https://open.spotify.com/album/7LftLjfpAl3ifSeJv2UJTA) | 4:54 | 2023-09-15 | 2023-09-22 |
 | [if only...](https://open.spotify.com/track/3bP8ZYJTjTdy1o9bUt0js3) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [if only...](https://open.spotify.com/album/6GOpBfDK3f8H0gSi3eeGq1) | 3:35 | 2025-02-13 | 2025-06-20 |
-| [If We Could Be Forever](https://open.spotify.com/track/59hhyDPpEwQur86x32MciO) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [If We Could Be Forever](https://open.spotify.com/album/7lz4RIPpPZF9nLNH41fHEO) | 2:42 | 2026-04-16 |  |
+| [If We Could Be Forever](https://open.spotify.com/track/59hhyDPpEwQur86x32MciO) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [If We Could Be Forever](https://open.spotify.com/album/7lz4RIPpPZF9nLNH41fHEO) | 2:42 | 2026-04-16 | 2026-04-22 |
 | [If you calling, I'm going](https://open.spotify.com/track/65Rh8rkenDC2JUXDxjo3tx) | [Secret Police](https://open.spotify.com/artist/6vuITEnveR3E7vk8pNJoy6) | [If you calling, I'm going](https://open.spotify.com/album/2jK6WERlbsa07rTflCII8N) | 3:38 | 2026-01-29 | 2026-02-14 |
 | [If you cry, I’ll cry \(feat\. H I N A N O\)](https://open.spotify.com/track/0pZuDObwPihZfgSZEHrtTw) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV), [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [If you cry, I’ll cry \(feat\. H I N A N O\)](https://open.spotify.com/album/543SUzBSneP2wLAbfuIPwt) | 4:02 | 2025-08-01 | 2025-09-05 |
 | [If You Leave Me Alone](https://open.spotify.com/track/4BJV20iCiOS0GAETnb94HI) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Bones & The Boy](https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT) | 2:31 | 2022-06-23 | 2022-08-12 |
@@ -2499,6 +2499,7 @@
 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 | 2025-09-25 | 2026-01-23 |
 | [踅神夢](https://open.spotify.com/track/0RQqs2wG3WHVSl8GF7jNHe) | [Sorry Youth](https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp) | [踅神夢](https://open.spotify.com/album/5E5BYywSmGzewKitL1WkUB) | 3:22 | 2024-04-18 | 2024-06-11 |
 | [踅神夢](https://open.spotify.com/track/5gI6vgJNsI4pbQdwW8qh69) | [Sorry Youth](https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp) | [噪音公寓](https://open.spotify.com/album/3CRT9RpZhzxWi5lk8Uc0cz) | 3:22 | 2024-06-13 | 2024-09-06 |
+| [踊るノアール \- Prod\. cero](https://open.spotify.com/track/0qwWTMl4DxVGSA2vIRW3rf) | [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [踊るノアール \(Prod\. cero\)](https://open.spotify.com/album/4oPIVcsTEJbzrSIObXTcHx) | 4:22 | 2026-04-21 |  |
 | [踏](https://open.spotify.com/track/5nkNxOrK3ce9mGxy7su4vA) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [Intro\_鞋](https://open.spotify.com/album/0Kz9xlY7KoQv0C6fESj3Ic) | 3:32 | 2023-07-14 | 2023-08-04 |
 | [迎](https://open.spotify.com/track/40B8VGHyDQEa4JlrI6LatP) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [音のする部屋](https://open.spotify.com/album/4yagD5QweRyEZWvnMB59RX) | 3:02 | 2025-03-06 | 2025-03-21 |
 | [透明的你](https://open.spotify.com/track/6EX6Oo5c1scLg8bQWYy5t1) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG), [Skippy](https://open.spotify.com/artist/1NOMIwjaZbLDHoruEWEQgl) | [相對性靜止](https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi) | 3:58 | 2022-09-22 | 2022-09-30 |

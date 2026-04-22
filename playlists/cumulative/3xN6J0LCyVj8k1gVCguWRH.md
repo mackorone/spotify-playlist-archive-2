@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,959 songs - 13 day 20 hr 53 min
+5,960 songs - 13 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3135,6 +3135,7 @@
 | [Love, Love, Love](https://open.spotify.com/track/458NMueA6uZrGgjNP7mG8y) | [Line Mari](https://open.spotify.com/artist/0nNy8WWsrdE7XpH82Ign9e) | [Love, Love, Love](https://open.spotify.com/album/6g7Ljujgzlkus3lmfH6pHa) | 2:37 | 2024-02-04 | 2024-02-12 |
 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 | 2024-03-24 | 2024-05-02 |
 | [Loved By You](https://open.spotify.com/track/48ME3EOHqCtCxgTJ7sfWUA) | [Kathy Jenneh](https://open.spotify.com/artist/6If2vDhq1gmfdeXAoQ4oyH) | [Conversation](https://open.spotify.com/album/7FN6oDaPW5yJqZJHTdZjlX) | 3:05 | 2025-09-11 | 2025-09-23 |
+| [Loved by You \- Live](https://open.spotify.com/track/4mPIIqpeUQRqRBMCyS7LFv) | [Rachal Monroe](https://open.spotify.com/artist/1a4Hp5EBTG70RAzbikE0PE) | [Rachal Monroe : Live from High Cotton Studio](https://open.spotify.com/album/2MQpAW5CyMKUbkRIroDjb2) | 3:51 | 2026-04-21 |  |
 | [Loveless](https://open.spotify.com/track/1be1QCMFwSb9tYlTnGGbns) | [Sladek](https://open.spotify.com/artist/23HWMd1bp9eo2D8ChMuq57) | [LOVELESS](https://open.spotify.com/album/3cgkmGJVpnJX86mD6hX1MI) | 2:38 | 2024-11-15 | 2024-11-27 |
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:17 | 2026-01-16 | 2026-04-15 |
 | [Lovely News](https://open.spotify.com/track/7oHRnnH8wdnwb5jkSgcb0O) | [I Hear Jimmy](https://open.spotify.com/artist/5J1J4Fgcs49xIWDtBjD1xZ), [UGENE NGHT](https://open.spotify.com/artist/7uYudqa6w4ALOkoMBAClqo) | [Lovely News](https://open.spotify.com/album/6uOZQjuqWO9aUN8dhwnBXj) | 3:16 | 2023-03-22 | 2023-04-13 |

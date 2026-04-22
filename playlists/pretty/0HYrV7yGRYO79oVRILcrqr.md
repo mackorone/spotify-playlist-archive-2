@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,780 likes - 72 songs - 4 hr 53 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,781 likes - 73 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 70 | [Whisky na Mesa](https://open.spotify.com/track/4OTt9dzu7ZoXA0dQdE62CM) | [Nathan Duarte](https://open.spotify.com/artist/7F0B4cSHBlNqwdmxGDKHim) | [Whisky na Mesa](https://open.spotify.com/album/5xBXS5LXB0k0bD8lgy064b) | 2:12 |
 | 71 | [A Million Miles Away](https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [A Million Miles Away](https://open.spotify.com/album/5NNokKgXWExS1Pu54fIJ6G) | 7:12 |
 | 72 | [Waltz of the Ghosts \- New Mix 2026](https://open.spotify.com/track/7fGRrfantyLYbQu1BeebhP) | [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Waltz of the Ghosts \(New Mix 2026\)](https://open.spotify.com/album/4VC8SAbA8EtjUzNfqPfnpm) | 6:09 |
+| 73 | [GO, ASPES, GO!](https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [GO, ASPES, GO!](https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9) | 2:13 |
 
-Snapshot ID: `AAALGxFw3PLv8B9rxV5oTq+Xx2yPnxYz`
+Snapshot ID: `AAALHDGw3Sp5iXmCMZTZrfqxYrPjbAq7`

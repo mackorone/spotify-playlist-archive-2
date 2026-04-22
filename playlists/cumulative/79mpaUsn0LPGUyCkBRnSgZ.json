@@ -2357,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "Mighty Vertebrate",
+        "url": "https://open.spotify.com/album/0lnAG8yZcln85SGhVzy9ru"
+      },
+      "artists": [
+        {
+          "name": "Anna Butterss",
+          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194200,
+      "name": "Bishop",
+      "url": "https://open.spotify.com/track/2rokzbolW3350YqYejvmgV"
+    },
+    {
+      "album": {
         "name": "The Pavilion Of Dreams",
         "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
       },

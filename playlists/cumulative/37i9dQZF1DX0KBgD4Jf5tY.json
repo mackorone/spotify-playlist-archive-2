@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:33ZiBbteOVAAXrZ6HgB3aU\">Gioia Lucia</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:2COZ1UNN4kWa65mYMVH1JZ\">SCAR</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 229489,
       "name": "+++rotto",
       "url": "https://open.spotify.com/track/0lIuPM1AANeqa0KE8lSf0T"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 138591,
       "name": "Acqua Ebbasta",
       "url": "https://open.spotify.com/track/10oqo3o8hpDD5UEHJsrgVn"
@@ -8138,7 +8138,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 163859,
       "name": "Come ti voglio",
       "url": "https://open.spotify.com/track/4Pnkgp0UW07tGo59g8dpJJ"
@@ -8792,6 +8792,24 @@
       "duration_ms": 149448,
       "name": "CREO E DISTRUGGO",
       "url": "https://open.spotify.com/track/0eqVzj8zZ6iPvlVp5rjwz9"
+    },
+    {
+      "album": {
+        "name": "OGNI PICCOLA PARTE",
+        "url": "https://open.spotify.com/album/20fpI9bYnqik617zWEjZ3X"
+      },
+      "artists": [
+        {
+          "name": "marzo",
+          "url": "https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173592,
+      "name": "Crescere",
+      "url": "https://open.spotify.com/track/5p8gWl58IBovZ1xO3oABZD"
     },
     {
       "album": {
@@ -11137,6 +11155,28 @@
     },
     {
       "album": {
+        "name": "DYK",
+        "url": "https://open.spotify.com/album/6yegcQEzT1ELl8FE4V4RSG"
+      },
+      "artists": [
+        {
+          "name": "Dema",
+          "url": "https://open.spotify.com/artist/2GF0hfaBGDm6DmDlQxlP0O"
+        },
+        {
+          "name": "effee",
+          "url": "https://open.spotify.com/artist/2SOcHQPo4X70IqbReiuSrT"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168004,
+      "name": "DYK",
+      "url": "https://open.spotify.com/track/6t9aSHVQJXCgyrFptsJxBg"
+    },
+    {
+      "album": {
         "name": "E invece",
         "url": "https://open.spotify.com/album/24vFd0VCZPqEUqFCoKQqs6"
       },
@@ -11672,7 +11712,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 172725,
       "name": "Esquisito River",
       "url": "https://open.spotify.com/track/16HGLBTpgw5VKclztUUayG"
@@ -13953,6 +13993,24 @@
     },
     {
       "album": {
+        "name": "Furtuna",
+        "url": "https://open.spotify.com/album/6NPTf6aDLdNBoPgexlERTE"
+      },
+      "artists": [
+        {
+          "name": "DDUMA",
+          "url": "https://open.spotify.com/artist/0IpuoeEIxyOxBICJVARGzG"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278284,
+      "name": "Furtuna",
+      "url": "https://open.spotify.com/track/08uUKdiwUqYnFvOMJisIBw"
+    },
+    {
+      "album": {
         "name": "Futuro",
         "url": "https://open.spotify.com/album/7q4ROjXmFjfcxbOD8peCec"
       },
@@ -14342,6 +14400,24 @@
       "duration_ms": 212000,
       "name": "Giorni di sole",
       "url": "https://open.spotify.com/track/0KY53j9J1J0o76BY8HzlGy"
+    },
+    {
+      "album": {
+        "name": "Esordienti 1994",
+        "url": "https://open.spotify.com/album/7feRUSGS3HffjLaYzeOPPS"
+      },
+      "artists": [
+        {
+          "name": "SCAR",
+          "url": "https://open.spotify.com/artist/2COZ1UNN4kWa65mYMVH1JZ"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167340,
+      "name": "Giorni d\u2019inverno",
+      "url": "https://open.spotify.com/track/3MBa38VlZ1aOVIWEW3snS4"
     },
     {
       "album": {
@@ -17139,6 +17215,24 @@
     },
     {
       "album": {
+        "name": "anche fallire \u00e8 un'arte",
+        "url": "https://open.spotify.com/album/76Utvc4jI69qDs3uLQQ4IH"
+      },
+      "artists": [
+        {
+          "name": "NANA X",
+          "url": "https://open.spotify.com/artist/3ff0FEpa4PmQjULCI7dtaT"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196224,
+      "name": "INGANNO (io non esisterei)",
+      "url": "https://open.spotify.com/track/03DApyRyCA2X4L5AeJQvVS"
+    },
+    {
+      "album": {
         "name": "insecure",
         "url": "https://open.spotify.com/album/31SuG69Dgv7qTN6cfAaYan"
       },
@@ -17440,7 +17534,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 209999,
       "name": "Isole di plastica",
       "url": "https://open.spotify.com/track/0UMUXeQpMgbg3qPpuJQsRE"
@@ -20302,7 +20396,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 149052,
       "name": "LUNA PIENA",
       "url": "https://open.spotify.com/track/5SlOrpuWZZrLwaK7UUDv37"
@@ -21226,7 +21320,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 167173,
       "name": "manifestami",
       "url": "https://open.spotify.com/track/4Ik1KRdSCvJqyOJdw5icxF"
@@ -22156,6 +22250,24 @@
       "duration_ms": 149371,
       "name": "Mi Scivoli Addosso",
       "url": "https://open.spotify.com/track/5rAXBt0QeQpB90hvkOv6OI"
+    },
+    {
+      "album": {
+        "name": "MI UCCIDE",
+        "url": "https://open.spotify.com/album/3nbizBffNRhOlKobXSBpsh"
+      },
+      "artists": [
+        {
+          "name": "GIOVAPI\u00d9GIOVA",
+          "url": "https://open.spotify.com/artist/2bJ8pwwyjQJfeVcLRQDnlx"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120222,
+      "name": "MI UCCIDE",
+      "url": "https://open.spotify.com/track/7g4Zaq7bR7ud0rJRRKbMaY"
     },
     {
       "album": {
@@ -40742,6 +40854,24 @@
       "duration_ms": 213540,
       "name": "\u2125.33",
       "url": "https://open.spotify.com/track/3PqaZ6RsFO0zlzA2nzXokm"
+    },
+    {
+      "album": {
+        "name": "\u2735\ud81a\uddb9 luce bambina \ud81a\uddb9\u2735",
+        "url": "https://open.spotify.com/album/2MfoEt7C4YvydCkqxByfIG"
+      },
+      "artists": [
+        {
+          "name": "Najma",
+          "url": "https://open.spotify.com/artist/0XqMXRWagj3oufGzaSBCqk"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "\u2735\ud81a\uddb9 luce bambina \ud81a\uddb9\u2735",
+      "url": "https://open.spotify.com/track/0OsrsjyPrLcDWB6Ocv2m34"
     },
     {
       "album": {

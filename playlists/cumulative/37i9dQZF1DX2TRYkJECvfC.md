@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-684 songs - 2 day 8 hr 1 min
+685 songs - 2 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 | 2021-12-08 | 2022-02-18 |
 | [It's All Here](https://open.spotify.com/track/2OcG6qGjgkW4zE7HYH0rN9) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [It's All Here](https://open.spotify.com/album/6slPM9uKXBhPF1hp8kMuaF) | 4:44 | 2025-09-26 |  |
 | [It's All Love](https://open.spotify.com/track/4KD5P3vY1rZUziFdw2qrKp) | [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [It's All Love](https://open.spotify.com/album/0bSjpqslnkqZHImdwBIRL0) | 5:15 | 2023-10-13 |  |
-| [It's Alright \- Original Mix](https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf) | [Radiant EP](https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2) | 4:49 | 2026-02-06 |  |
+| [It's Alright \- Original Mix](https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf) | [Radiant EP](https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2) | 4:49 | 2026-02-06 | 2026-04-22 |
 | [It's Me](https://open.spotify.com/track/7ruGyAPvRrNFqT2XroqzjP) | [P.O.S](https://open.spotify.com/artist/6PqtTOqDDdBJQzgCW2TbwU), [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Marieme](https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD) | [It's Me](https://open.spotify.com/album/2wGMjnwb9iVAGO1hKpe0p9) | 4:13 | 2023-05-26 |  |
 | [it's sky time](https://open.spotify.com/track/1oraMgXwEWgGPrcn2FCKD4) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [separation anxiety](https://open.spotify.com/album/7o9t3adexgpcxrEeEp8Dut) | 5:17 | 2024-04-12 | 2024-04-27 |
 | [Jakarta](https://open.spotify.com/track/05rQuHa8lWk9PTpQUqcO31) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Jakarta](https://open.spotify.com/album/6om4LDfQtmfEp76GPQluOT) | 3:56 | 2021-12-08 | 2023-07-15 |
@@ -524,6 +524,7 @@
 | [Seagulls](https://open.spotify.com/track/7DGGaogybfys4M7iozhbay) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Seagulls / The Mind](https://open.spotify.com/album/70vhtZIWRTamfOWQ2tdDrj) | 3:26 | 2025-02-18 |  |
 | [searchingforthelights](https://open.spotify.com/track/1Uzc6TAWKBBbp60GDJE1LR) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [searchingforthelights](https://open.spotify.com/album/0PHUdMruU2l6acvyz0RvXD) | 3:12 | 2024-10-11 | 2025-05-03 |
 | [SF to Córdoba](https://open.spotify.com/track/4WCm0HBa2LO3hO7ycV7WeI) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [SF to Córdoba // Curve](https://open.spotify.com/album/43V4cIc3qfQp2XoP3Xzr8b) | 5:42 | 2024-04-12 |  |
+| [Shake Down \- Regrette Rien Mix](https://open.spotify.com/track/70tSdH7QeLCoiEsq4gzxAk) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C), [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Shake Down \(Regrette Rien Mix\)](https://open.spotify.com/album/1kFOuM0oYv7FgZwUtvazeS) | 3:39 | 2026-04-17 |  |
 | [She's A Replicant \- Afriqua Remix](https://open.spotify.com/track/19iHk5XuK4BwNrEbqUCkxO) | [Ben Rau](https://open.spotify.com/artist/1TnMHkjDz4jm8H8QxnyAAC), [Afriqua](https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp) | [The Replicant EP](https://open.spotify.com/album/3oQWq2N3ZHTLTHZATQorQU) | 8:23 | 2021-12-08 | 2022-07-27 |
 | [Sherwood Forest](https://open.spotify.com/track/4PweJp1SbwGcCtUWGUKHbw) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Sherwood Forest](https://open.spotify.com/album/0yhqyTd1ulAT8kADrHfRiu) | 2:55 | 2023-06-30 |  |
 | [Shine \- Original Mix](https://open.spotify.com/track/3VJaqeaWFRZYoGeDKJbkqu) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa), [Alex Hook](https://open.spotify.com/artist/5crDtS0zvUv8JInPEHiige), [Gosha](https://open.spotify.com/artist/4Jf1PKoGgtUPcqLgCc1k0O) | [Shine](https://open.spotify.com/album/7vNzxzPntk22ND2FtukCls) | 5:44 | 2021-12-08 | 2022-11-17 |

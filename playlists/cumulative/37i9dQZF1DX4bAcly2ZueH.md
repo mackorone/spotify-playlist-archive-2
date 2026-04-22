@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-205 songs - 10 hr 42 min
+206 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [garden](https://open.spotify.com/track/4Xn6llzlcBkd02iXpySmbs) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Afterglow](https://open.spotify.com/album/1xgaY66wY1j5WOW8J7orN8) | 3:20 | 2022-10-11 | 2024-02-21 |
 | [Generic](https://open.spotify.com/track/5ljunHfdK4WvqK4eQo5MI9) | [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW), [一服track](https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed) | [Generic](https://open.spotify.com/album/0YTqkKm4WdDeCARIrHQ3BS) | 3:11 | 2025-02-12 |  |
 | [Ghost Town \- Side\-B](https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS) | [Nozomi Nobody](https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL) | [Dawn \(Side\-B\)](https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV) | 3:16 | 2024-11-06 |  |
-| [Go](https://open.spotify.com/track/2KPb82wS1QbcCtG5uJKZnW) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4) | [Go](https://open.spotify.com/album/6ZQyPs1UsP6o9LgNwM0YPc) | 3:15 | 2024-03-05 |  |
+| [Go](https://open.spotify.com/track/2KPb82wS1QbcCtG5uJKZnW) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4) | [Go](https://open.spotify.com/album/6ZQyPs1UsP6o9LgNwM0YPc) | 3:15 | 2024-03-05 | 2026-04-22 |
 | [Go](https://open.spotify.com/track/6pkcCKeavDKCtv147qcImc) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4) | [Go](https://open.spotify.com/album/4Lem57oFsCssMZFFrneeSo) | 3:15 | 2022-10-11 | 2024-04-19 |
 | [Good Night](https://open.spotify.com/track/6CTqCqStHM2ji0liLLVJvk) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [Dove](https://open.spotify.com/album/46KM2P8PERBA1CrK5nvIFZ) | 2:37 | 2022-10-11 | 2022-11-16 |
 | [Goodbye Blurry Days](https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [So Long So Blue](https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ) | 3:45 | 2022-10-11 |  |
@@ -118,6 +118,7 @@
 | [Mercy](https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Mercy](https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl) | 3:48 | 2022-10-11 |  |
 | [Mirage](https://open.spotify.com/track/5mV7HHYf0uYQTbk1HWDoCW) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Mirage](https://open.spotify.com/album/245D6HaTivYD87OTFiEr5Q) | 3:13 | 2022-10-11 | 2023-03-15 |
 | [MoonWARker](https://open.spotify.com/track/3lO8HR3TLoTBdRpIwrGwCr) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [MoonWARker](https://open.spotify.com/album/07nqSdRJLbcCew1ucAH3Je) | 2:44 | 2023-03-14 | 2023-03-29 |
+| [mu](https://open.spotify.com/track/0rb6rmOrFFqq35QYjWuFrt) | [SEAPOOL](https://open.spotify.com/artist/0iuh3bi0fF2wlYvZG01vZn) | [スイート Q ラブ](https://open.spotify.com/album/0fZRULe28oLLCVJPrwoUXw) | 2:38 | 2026-04-21 |  |
 | [Muse](https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE) | [mndbd](https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci), [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Introspect](https://open.spotify.com/album/65OBZP52AzrI4W5oUVoXPV) | 1:07 | 2022-10-11 |  |
 | [Namikimichi](https://open.spotify.com/track/6QgKDOxmx5ZRLHHrjSoacw) | [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Namikimichi](https://open.spotify.com/album/6GCOhJ4u43m3tJaNKkhErs) | 1:59 | 2024-11-06 |  |
 | [Naps](https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v) | 3:58 | 2022-10-11 | 2024-08-14 |

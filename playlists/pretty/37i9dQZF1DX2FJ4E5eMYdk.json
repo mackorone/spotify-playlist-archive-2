@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 194724,
+  "num_followers": 194737,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "666",
         "url": "https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe"
       },
@@ -783,18 +799,34 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+        "name": "Golden Sings That Have Been Sung (Deep Cuts Edition)",
+        "url": "https://open.spotify.com/album/6pzoDMaxrkGRsjoMKey5x8"
       },
       "artists": [
         {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+          "name": "Ryley Walker",
+          "url": "https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc"
         }
       ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
+      "duration_ms": 281786,
+      "name": "The Roundabout",
+      "url": "https://open.spotify.com/track/1bdp1CY6vfKPESMCa2NI1M"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "The Atlantic Ocean",
+        "url": "https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC"
+      },
+      "artists": [
+        {
+          "name": "Richard Swift",
+          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
+        }
+      ],
+      "duration_ms": 258800,
+      "name": "Lady Luck",
+      "url": "https://open.spotify.com/track/68dSvPdwsCEGoKj72QDEXQ"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -815,6 +847,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Liz Cooper & the Stampede | Audiotree Far Out",
+        "url": "https://open.spotify.com/album/6HDTKU5sFW1SwJ0CParyYQ"
+      },
+      "artists": [
+        {
+          "name": "Liz Cooper",
+          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
+        }
+      ],
+      "duration_ms": 331879,
+      "name": "Motions - Far Out Version",
+      "url": "https://open.spotify.com/track/6sF7pOzhRCvuTLtVDrTg1Z"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Sneaker Waves",
         "url": "https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2"
       },
@@ -827,22 +875,6 @@
       "duration_ms": 245880,
       "name": "Glass Jar",
       "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "The Atlantic Ocean",
-        "url": "https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC"
-      },
-      "artists": [
-        {
-          "name": "Richard Swift",
-          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
-        }
-      ],
-      "duration_ms": 258800,
-      "name": "Lady Luck",
-      "url": "https://open.spotify.com/track/68dSvPdwsCEGoKj72QDEXQ"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -911,22 +943,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Liz Cooper & the Stampede | Audiotree Far Out",
-        "url": "https://open.spotify.com/album/6HDTKU5sFW1SwJ0CParyYQ"
-      },
-      "artists": [
-        {
-          "name": "Liz Cooper",
-          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
-        }
-      ],
-      "duration_ms": 331879,
-      "name": "Motions - Far Out Version",
-      "url": "https://open.spotify.com/track/6sF7pOzhRCvuTLtVDrTg1Z"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "It Came to Me",
         "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 261986,
       "name": "It Came to Me",
       "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Listening In",
-        "url": "https://open.spotify.com/album/5TvAQFSNWzss7r4AZVQyBl"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 295396,
-      "name": "Listening In",
-      "url": "https://open.spotify.com/track/2MiE4uNtlIr7GKM6DwiUgl"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "The Light Of Day",
-        "url": "https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs"
+        "name": "Listening In",
+        "url": "https://open.spotify.com/album/5TvAQFSNWzss7r4AZVQyBl"
       },
       "artists": [
         {
-          "name": "Kacy & Clayton",
-          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
         }
       ],
-      "duration_ms": 172440,
-      "name": "The Light Of Day",
-      "url": "https://open.spotify.com/track/4vev473dJkBpiChkglAscC"
+      "duration_ms": 295396,
+      "name": "Listening In",
+      "url": "https://open.spotify.com/track/2MiE4uNtlIr7GKM6DwiUgl"
     }
   ],
   "unique_name": "Psych & Groove",

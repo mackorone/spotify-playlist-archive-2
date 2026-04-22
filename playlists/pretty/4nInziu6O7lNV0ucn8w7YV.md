@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nInziu6O7lNV0ucn8w7YV.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 689 likes - 147 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 688 likes - 147 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/4nInziu6O7lNV0ucn8w7YV.md) - [plain]
 | 103 | [Under the Westway](https://open.spotify.com/track/4ZMWXY7l7LtqaoEAKTDg9M) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Under the Westway \- Single](https://open.spotify.com/album/17uiLcsHcK3RcSWS8XO54y) | 4:16 |
 | 104 | [Du](https://open.spotify.com/track/2yvjj3jNpS533fZNHzR6wH) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Du](https://open.spotify.com/album/7Hu5XeaPGrCehwazVViwf9) | 2:54 |
 | 105 | [Gun Has No Trigger](https://open.spotify.com/track/3dvnVubqVeeOjabs0wC1YB) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/31hI5dQfm3EiNfzEPeny5k) | 3:24 |
-| 106 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/1ztbs9oxLOfYcDr5xL8loQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/5JIdaV4V6IaLMQG6uzAhJY) | [Spectrum \(Say My Name\) EP](https://open.spotify.com/album/6dPJH6Kw5MW3eBO3fh4qiQ) | 3:38 |
+| 106 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/1ztbs9oxLOfYcDr5xL8loQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Spectrum \(Say My Name\) EP](https://open.spotify.com/album/6dPJH6Kw5MW3eBO3fh4qiQ) | 3:38 |
 | 107 | [Thinkin Bout You](https://open.spotify.com/track/5mphdlILgAq3vh1MSvAJTS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 3:20 |
 | 108 | [Sweet Life](https://open.spotify.com/track/6fbjdXZNtoAJbJZUeT87Ii) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 4:22 |
 | 109 | [Flutes](https://open.spotify.com/track/3SCE48fTsE0YE2XzUYGZNW) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [In Our Heads](https://open.spotify.com/album/0y3NABiBZ3rN1Hrj1Xql5i) | 7:05 |

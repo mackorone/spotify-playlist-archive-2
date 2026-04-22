@@ -3205,6 +3205,24 @@
     },
     {
       "album": {
+        "name": "Cadence in Blue",
+        "url": "https://open.spotify.com/album/2ODpSlZc08sx9qPN758uIV"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186626,
+      "name": "Cadence in Blue",
+      "url": "https://open.spotify.com/track/0IonPVfqOyHT2EPvcIyvGE"
+    },
+    {
+      "album": {
         "name": "Relaxing Classics",
         "url": "https://open.spotify.com/album/15ySNjCbDjE89Xq7gl9l7f"
       },
@@ -11123,6 +11141,28 @@
     },
     {
       "album": {
+        "name": "Nessun Dorma Piano Variation (After Turandot, SC 91, Act III, No. 34: Nessun Dorma)",
+        "url": "https://open.spotify.com/album/3lNUZWQSSMTUe3vCXjxm6w"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81920,
+      "name": "Nessun Dorma Piano Variation (After Turandot, SC 91, Act III, No. 34: Nessun Dorma)",
+      "url": "https://open.spotify.com/track/2qmeWrreaVDxNcLqHU3FGQ"
+    },
+    {
+      "album": {
         "name": "The Dark Night Rhapsodies",
         "url": "https://open.spotify.com/album/1ww012hINfdwIEui2VCBRj"
       },
@@ -11474,6 +11514,32 @@
       "duration_ms": 155457,
       "name": "Nocturne III (Arr. for Piano from Nocturne Op. 15 No. 3 in G Minor by Olivia Belli)",
       "url": "https://open.spotify.com/track/42ZuTRXsLZG4qpYFsTa4y3"
+    },
+    {
+      "album": {
+        "name": "Maria Szymanowska: Nocturne in B-Flat Major (Arr. for Cello & Piano by Julian Riem)",
+        "url": "https://open.spotify.com/album/1mKB7di7qfDQ8eI5BM9r2L"
+      },
+      "artists": [
+        {
+          "name": "Maria Szymanowska",
+          "url": "https://open.spotify.com/artist/6JHFDqLNkl4W9KO8dMgRMh"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Julian Riem",
+          "url": "https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263408,
+      "name": "Nocturne in B-Flat Major (Arr. for Cello & Piano by Julian Riem)",
+      "url": "https://open.spotify.com/track/4flAEFnWOLZIKybqNB2zwK"
     },
     {
       "album": {

@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Peter, Paul and Mary",
+        "url": "https://open.spotify.com/album/1cRbbPxFMpHFeYIkLqqzBo"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162933,
+      "name": "500 Miles",
+      "url": "https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb"
+    },
+    {
+      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
       },
@@ -1486,6 +1504,24 @@
       "duration_ms": 88949,
       "name": "9 do Flamengo",
       "url": "https://open.spotify.com/track/6KbUkrLFLltGNE5Ya4wiE8"
+    },
+    {
+      "album": {
+        "name": "99 Ovelhas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1pp27ngl1GUN5SwXAGJQxX"
+      },
+      "artists": [
+        {
+          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
+          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376731,
+      "name": "99 Ovelhas - Ao Vivo",
+      "url": "https://open.spotify.com/track/74vQyxa6Q7Pmxps3fY0u2I"
     },
     {
       "album": {
@@ -4286,7 +4322,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 229152,
       "name": "ALL THE LOVE (feat. Andre Troutman)",
       "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
@@ -11864,7 +11900,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
@@ -28165,6 +28201,24 @@
     },
     {
       "album": {
+        "name": "Eu J\u00e1 Sabia Quem Me Guardava",
+        "url": "https://open.spotify.com/album/0nVtHdj4g7orDgg1z2erT7"
+      },
+      "artists": [
+        {
+          "name": "Samuel Batista Filho",
+          "url": "https://open.spotify.com/artist/5fTHZnjQeeu1FGX326vnGA"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187519,
+      "name": "Eu J\u00e1 Sabia Quem Me Guardava",
+      "url": "https://open.spotify.com/track/5wY6t6j5IoykTlW697vXc5"
+    },
+    {
+      "album": {
         "name": "EU J\u00c1 SOFRI POR AMOR MAS N\u00c3O SOFRO MAIS",
         "url": "https://open.spotify.com/album/5YS88OklifkV7ULH1Qssrb"
       },
@@ -29602,6 +29656,24 @@
       "duration_ms": 136615,
       "name": "Eu Vou Tacar x Essas Hora da Noite",
       "url": "https://open.spotify.com/track/5vOLqik7QlFD5eq3otyXBm"
+    },
+    {
+      "album": {
+        "name": "Eu Vou Testemunhar",
+        "url": "https://open.spotify.com/album/2ExtMX4SdJleL8X91gOJsT"
+      },
+      "artists": [
+        {
+          "name": "Ref\u00fagio De Adora\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/2bNdeJqwENMJSve3BmD8ag"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226719,
+      "name": "Eu Vou Testemunhar",
+      "url": "https://open.spotify.com/track/3J9SuHCapMvXAjKzmxktgr"
     },
     {
       "album": {
@@ -39156,7 +39228,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 314736,
       "name": "IMPERFEITO",
       "url": "https://open.spotify.com/track/2SswEmtlmAf5VPD69ETNrk"
@@ -39482,6 +39554,56 @@
       "duration_ms": 578040,
       "name": "Innerbloom",
       "url": "https://open.spotify.com/track/05kVyNUR9uibHta4jcGTTv"
+    },
+    {
+      "album": {
+        "name": "Resenha do Cabral (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5VV3PEsxdSkbhojw5hQnkL"
+      },
+      "artists": [
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        },
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Bruno & Denner",
+          "url": "https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        },
+        {
+          "name": "Rafael Quadros",
+          "url": "https://open.spotify.com/artist/77q2E7KVunjbcwLiceWv1b"
+        },
+        {
+          "name": "CDB",
+          "url": "https://open.spotify.com/artist/2VuyOWJPCDTzjQWqCQogJP"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203177,
+      "name": "Inseguran\u00e7a / Fim de Noite - Ao Vivo",
+      "url": "https://open.spotify.com/track/0UbftifCuaos8xnNT1K8Us"
     },
     {
       "album": {
@@ -44576,7 +44698,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 404213,
       "name": "Lover, You Should've Come Over",
       "url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
@@ -49934,7 +50056,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 172386,
       "name": "Mel\u00f4 De Poucas Ideias - Reggae Funk",
       "url": "https://open.spotify.com/track/4f6FcFtp2R5laib20lY51l"
@@ -67658,7 +67780,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 178186,
       "name": "Pq Vc N\u00e3o Me Liga?",
       "url": "https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4"
@@ -69736,6 +69858,44 @@
       "duration_ms": 176193,
       "name": "Que Rab\u00e3o (feat. Mr. Catra)",
       "url": "https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ"
+    },
+    {
+      "album": {
+        "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
+        "url": "https://open.spotify.com/album/70rgAi8ko10QS6heKNP0mR"
+      },
+      "artists": [
+        {
+          "name": "DJ WILL TN",
+          "url": "https://open.spotify.com/artist/7uVgmtaje8DlNep6BGuVgX"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324843,
+      "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
+      "url": "https://open.spotify.com/track/2L278dmb5oAZC5eogDCfzU"
     },
     {
       "album": {
@@ -73012,7 +73172,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -74560,6 +74720,24 @@
       "duration_ms": 407804,
       "name": "Se Eu Ficar P\u00e1 Nem Me Testa (feat. Mc Neg\u00e3o Original, Mc Alan JR, Menor Richard, Mc IG & DJ Japa NK)",
       "url": "https://open.spotify.com/track/7wfHnTinwOLmYktsMZz3bo"
+    },
+    {
+      "album": {
+        "name": "SE EU LARGAR O FREIO",
+        "url": "https://open.spotify.com/album/7eiNDCNA6qxx7BAttsG5fk"
+      },
+      "artists": [
+        {
+          "name": "BOLOLO",
+          "url": "https://open.spotify.com/artist/68Gf4LVSovX3eT0MVuuDMb"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168298,
+      "name": "SE EU LARGAR O FREIO",
+      "url": "https://open.spotify.com/track/3WBypfS1LhjbYRknLLX2Vq"
     },
     {
       "album": {
@@ -81153,6 +81331,56 @@
     },
     {
       "album": {
+        "name": "Resenha do Cabral (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5VV3PEsxdSkbhojw5hQnkL"
+      },
+      "artists": [
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        },
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Bruno & Denner",
+          "url": "https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        },
+        {
+          "name": "Rafael Quadros",
+          "url": "https://open.spotify.com/artist/77q2E7KVunjbcwLiceWv1b"
+        },
+        {
+          "name": "CDB",
+          "url": "https://open.spotify.com/artist/2VuyOWJPCDTzjQWqCQogJP"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254463,
+      "name": "S\u00f3 Pensando Em Voc\u00ea / Ela \u00e9 Demais - Ao Vivo",
+      "url": "https://open.spotify.com/track/2eSNfty3pjAa3HAM03sGU4"
+    },
+    {
+      "album": {
         "name": "S\u00f3 Por Causa Da Amiga",
         "url": "https://open.spotify.com/album/1e0Ac3poQOp8IDyHQsdRK1"
       },
@@ -84692,7 +84920,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 238280,
       "name": "Those Years Are Over",
       "url": "https://open.spotify.com/track/4DPx5423HjiwbHZ7WEBN2t"
@@ -92579,6 +92807,24 @@
     },
     {
       "album": {
+        "name": "ISSO \u00c9 TRAP VOL.2",
+        "url": "https://open.spotify.com/album/5jiPp1YPjyhcWqU6jYQxlv"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "WARZONE",
+      "url": "https://open.spotify.com/track/7G71juY1bt2tAVW7p4BWWL"
+    },
+    {
+      "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
@@ -93694,7 +93940,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-22",
       "duration_ms": 201908,
       "name": "worry - Slowed",
       "url": "https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk"

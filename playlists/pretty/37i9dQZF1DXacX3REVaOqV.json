@@ -1,6 +1,6 @@
 {
   "description": "The best in house music",
-  "num_followers": 498527,
+  "num_followers": 498526,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,26 @@
     {
       "added_at": "2026-04-16 22:02:17",
       "album": {
+        "name": "The Nightlife",
+        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        }
+      ],
+      "duration_ms": 244708,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
+    },
+    {
+      "added_at": "2026-04-16 22:02:17",
+      "album": {
         "name": "More To Life",
         "url": "https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 175238,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp"
-    },
-    {
-      "added_at": "2026-04-16 22:02:17",
-      "album": {
-        "name": "The Nightlife",
-        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
-      },
-      "artists": [
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Jacob Lusk",
-          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
-        }
-      ],
-      "duration_ms": 244708,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
     },
     {
       "added_at": "2026-04-16 22:02:17",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-04-16 22:02:17",
       "album": {
+        "name": "For You (Assiove)",
+        "url": "https://open.spotify.com/album/1HKmis3cCV0zCvfwfIRatZ"
+      },
+      "artists": [
+        {
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+        }
+      ],
+      "duration_ms": 203671,
+      "name": "For You (Assiove)",
+      "url": "https://open.spotify.com/track/03JFIC1mWhGPewQu08Sf46"
+    },
+    {
+      "added_at": "2026-04-16 22:02:17",
+      "album": {
         "name": "Nappp",
         "url": "https://open.spotify.com/album/6H4eDHkO9zK6tykY49qoKs"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 178552,
       "name": "Nappp",
       "url": "https://open.spotify.com/track/2VrfjBzBu6RD6ONQSq3NUP"
-    },
-    {
-      "added_at": "2026-04-16 22:02:17",
-      "album": {
-        "name": "For You (Assiove)",
-        "url": "https://open.spotify.com/album/1HKmis3cCV0zCvfwfIRatZ"
-      },
-      "artists": [
-        {
-          "name": "Rool\u00e9h",
-          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
-        }
-      ],
-      "duration_ms": 203671,
-      "name": "For You (Assiove)",
-      "url": "https://open.spotify.com/track/03JFIC1mWhGPewQu08Sf46"
     },
     {
       "added_at": "2026-04-16 22:02:17",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-04-16 22:02:17",
       "album": {
-        "name": "Why Don't You Love Me",
-        "url": "https://open.spotify.com/album/1bpMmine1onCfOKeRfeRc3"
-      },
-      "artists": [
-        {
-          "name": "Kotti Affair",
-          "url": "https://open.spotify.com/artist/50crAqMaWr9rR7rbupFyq2"
-        }
-      ],
-      "duration_ms": 244850,
-      "name": "Why Don't You Love Me",
-      "url": "https://open.spotify.com/track/7sfqhOU04aOcql3s5ltkhm"
-    },
-    {
-      "added_at": "2026-04-16 22:02:17",
-      "album": {
         "name": "In It",
         "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 167677,
       "name": "The Shiver",
       "url": "https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A"
+    },
+    {
+      "added_at": "2026-04-16 22:02:17",
+      "album": {
+        "name": "Why Don't You Love Me",
+        "url": "https://open.spotify.com/album/1bpMmine1onCfOKeRfeRc3"
+      },
+      "artists": [
+        {
+          "name": "Kotti Affair",
+          "url": "https://open.spotify.com/artist/50crAqMaWr9rR7rbupFyq2"
+        }
+      ],
+      "duration_ms": 244850,
+      "name": "Why Don't You Love Me",
+      "url": "https://open.spotify.com/track/7sfqhOU04aOcql3s5ltkhm"
     },
     {
       "added_at": "2026-04-16 22:02:17",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2026-04-16 22:02:17",
       "album": {
-        "name": "With You (Tonight)",
-        "url": "https://open.spotify.com/album/3D4xNfGMaDrraBMRuWheM6"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Alta Gracia",
-          "url": "https://open.spotify.com/artist/14yCXkLSKlrnNcp0cadiZa"
-        }
-      ],
-      "duration_ms": 200704,
-      "name": "With You (Tonight)",
-      "url": "https://open.spotify.com/track/4asw6zOFWBeYkCr3vSknf1"
-    },
-    {
-      "added_at": "2026-04-16 22:02:17",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/2aPoX3MXe5ddzbTD6l09fD"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 149364,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/2e3WuwRFv6zollUtQVC6rZ"
+    },
+    {
+      "added_at": "2026-04-16 22:02:17",
+      "album": {
+        "name": "With You (Tonight)",
+        "url": "https://open.spotify.com/album/3D4xNfGMaDrraBMRuWheM6"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Alta Gracia",
+          "url": "https://open.spotify.com/artist/14yCXkLSKlrnNcp0cadiZa"
+        }
+      ],
+      "duration_ms": 200704,
+      "name": "With You (Tonight)",
+      "url": "https://open.spotify.com/track/4asw6zOFWBeYkCr3vSknf1"
     },
     {
       "added_at": "2026-04-16 22:02:17",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-04-16 22:02:17",
       "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/0ziM3QyHWTk0MBKQO3SZFQ"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/4A5x3SuJdoP56UR3qXV3Dp"
+    },
+    {
+      "added_at": "2026-04-16 22:02:17",
+      "album": {
         "name": "Dare You",
         "url": "https://open.spotify.com/album/4UfnbpqyLkQULrkf2jkfTp"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 182044,
       "name": "Dare You",
       "url": "https://open.spotify.com/track/2SJYvOEDMMiVXlctHQ8WJ2"
-    },
-    {
-      "added_at": "2026-04-16 22:02:17",
-      "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/0ziM3QyHWTk0MBKQO3SZFQ"
-      },
-      "artists": [
-        {
-          "name": "Leyo",
-          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/4A5x3SuJdoP56UR3qXV3Dp"
     },
     {
       "added_at": "2026-04-16 22:02:17",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-04-16 22:02:17",
       "album": {
+        "name": "Together One Time",
+        "url": "https://open.spotify.com/album/2arvcqZRndNmNrUtWGJNny"
+      },
+      "artists": [
+        {
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Together One Time",
+      "url": "https://open.spotify.com/track/76CpS4stsQvmXC45oPPvT5"
+    },
+    {
+      "added_at": "2026-04-16 22:02:17",
+      "album": {
         "name": "Mali Spirit (Folamour Remix)",
         "url": "https://open.spotify.com/album/5EoHzdPRvD014BrM49icIa"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 191617,
       "name": "Mali Spirit - Folamour Remix",
       "url": "https://open.spotify.com/track/4z0nAGmNM70ygVhxLLOylS"
-    },
-    {
-      "added_at": "2026-04-16 22:02:17",
-      "album": {
-        "name": "Together One Time",
-        "url": "https://open.spotify.com/album/2arvcqZRndNmNrUtWGJNny"
-      },
-      "artists": [
-        {
-          "name": "CASSIMM",
-          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Together One Time",
-      "url": "https://open.spotify.com/track/76CpS4stsQvmXC45oPPvT5"
     },
     {
       "added_at": "2026-04-16 22:02:17",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-04-16 22:02:17",
       "album": {
-        "name": "About Yourself",
-        "url": "https://open.spotify.com/album/424UwjUyukTLxeYRfPYBbl"
-      },
-      "artists": [
-        {
-          "name": "MAXI MERAKI",
-          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
-        }
-      ],
-      "duration_ms": 165365,
-      "name": "About Yourself",
-      "url": "https://open.spotify.com/track/0TJYzpDpsNRvfxcJZFy9Gp"
-    },
-    {
-      "added_at": "2026-04-16 22:02:17",
-      "album": {
         "name": "Take Me Up (Gotta Get Up)",
         "url": "https://open.spotify.com/album/45kSt9lcncbWs2HVUnG0qo"
       },
@@ -1427,38 +1411,18 @@
     {
       "added_at": "2026-04-16 22:02:17",
       "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj"
+        "name": "About Yourself",
+        "url": "https://open.spotify.com/album/424UwjUyukTLxeYRfPYBbl"
       },
       "artists": [
         {
-          "name": "unfazed",
-          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
         }
       ],
-      "duration_ms": 165120,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
-    },
-    {
-      "added_at": "2026-04-16 22:02:17",
-      "album": {
-        "name": "Y.O.U.",
-        "url": "https://open.spotify.com/album/3SXXeeBoNzJg7oMqmXy0bh"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
-        }
-      ],
-      "duration_ms": 183515,
-      "name": "Y.O.U.",
-      "url": "https://open.spotify.com/track/7zRayTvShLcDhlxdo8CsIN"
+      "duration_ms": 165365,
+      "name": "About Yourself",
+      "url": "https://open.spotify.com/track/0TJYzpDpsNRvfxcJZFy9Gp"
     },
     {
       "added_at": "2026-04-16 22:02:17",
@@ -1487,6 +1451,42 @@
     {
       "added_at": "2026-04-16 22:02:17",
       "album": {
+        "name": "Y.O.U.",
+        "url": "https://open.spotify.com/album/3SXXeeBoNzJg7oMqmXy0bh"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "duration_ms": 183515,
+      "name": "Y.O.U.",
+      "url": "https://open.spotify.com/track/7zRayTvShLcDhlxdo8CsIN"
+    },
+    {
+      "added_at": "2026-04-16 22:02:17",
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
+    },
+    {
+      "added_at": "2026-04-16 22:02:17",
+      "album": {
         "name": "Marseille",
         "url": "https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6"
       },
@@ -1499,26 +1499,6 @@
       "duration_ms": 145250,
       "name": "Marseille",
       "url": "https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v"
-    },
-    {
-      "added_at": "2026-04-16 22:02:17",
-      "album": {
-        "name": "CHARDONNAY (Night & Day)",
-        "url": "https://open.spotify.com/album/6Fs7oJ8f9cNPBuRv2a5pnK"
-      },
-      "artists": [
-        {
-          "name": "Romeo Louisa",
-          "url": "https://open.spotify.com/artist/6goz1NVwiidLsj9fronpBg"
-        },
-        {
-          "name": "Sedric Perry",
-          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
-        }
-      ],
-      "duration_ms": 190460,
-      "name": "CHARDONNAY (Night & Day)",
-      "url": "https://open.spotify.com/track/5L2PC0h8oi4H6BlldbhOQn"
     },
     {
       "added_at": "2026-04-16 22:02:17",
@@ -1539,6 +1519,26 @@
       "duration_ms": 217000,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/69kA0r4P0OYNRunizcANLu"
+    },
+    {
+      "added_at": "2026-04-16 22:02:17",
+      "album": {
+        "name": "CHARDONNAY (Night & Day)",
+        "url": "https://open.spotify.com/album/6Fs7oJ8f9cNPBuRv2a5pnK"
+      },
+      "artists": [
+        {
+          "name": "Romeo Louisa",
+          "url": "https://open.spotify.com/artist/6goz1NVwiidLsj9fronpBg"
+        },
+        {
+          "name": "Sedric Perry",
+          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
+        }
+      ],
+      "duration_ms": 190460,
+      "name": "CHARDONNAY (Night & Day)",
+      "url": "https://open.spotify.com/track/5L2PC0h8oi4H6BlldbhOQn"
     },
     {
       "added_at": "2026-04-16 22:02:17",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2026-04-16 22:02:17",
       "album": {
-        "name": "Stay The Same",
-        "url": "https://open.spotify.com/album/1kVKWMWRZR5sAZUMsxQ88B"
-      },
-      "artists": [
-        {
-          "name": "ANATTA",
-          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
-        },
-        {
-          "name": "Fede Aliprandi",
-          "url": "https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB"
-        }
-      ],
-      "duration_ms": 219375,
-      "name": "Stay The Same",
-      "url": "https://open.spotify.com/track/3eGOTf9hjd321wBy4VvXrL"
-    },
-    {
-      "added_at": "2026-04-16 22:02:17",
-      "album": {
         "name": "Intro (Fred Falke Remix)",
         "url": "https://open.spotify.com/album/6xALSzrzr2p49MZ5dmHAKd"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 356106,
       "name": "Intro - Fred Falke Remix",
       "url": "https://open.spotify.com/track/5nxJbZFIHf8iGndx8eOJMa"
+    },
+    {
+      "added_at": "2026-04-16 22:02:17",
+      "album": {
+        "name": "Stay The Same",
+        "url": "https://open.spotify.com/album/1kVKWMWRZR5sAZUMsxQ88B"
+      },
+      "artists": [
+        {
+          "name": "ANATTA",
+          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
+        },
+        {
+          "name": "Fede Aliprandi",
+          "url": "https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB"
+        }
+      ],
+      "duration_ms": 219375,
+      "name": "Stay The Same",
+      "url": "https://open.spotify.com/track/3eGOTf9hjd321wBy4VvXrL"
     },
     {
       "added_at": "2026-04-16 22:02:17",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2026-04-16 22:02:17",
       "album": {
-        "name": "Give You My Luv",
-        "url": "https://open.spotify.com/album/2Bt9AMckSnsPQHndxTMb1W"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 204094,
-      "name": "Give You My Luv",
-      "url": "https://open.spotify.com/track/3BXDXkRqdIMN7wDnhbexvh"
-    },
-    {
-      "added_at": "2026-04-16 22:02:17",
-      "album": {
         "name": "Keeping Me Safe",
         "url": "https://open.spotify.com/album/3zNy7MMLYBSmBpZLPQ3xSe"
       },
@@ -2031,18 +2015,18 @@
     {
       "added_at": "2026-04-16 22:02:17",
       "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/3KhmmfJf1mqsl04DzwJKMX"
+        "name": "Give You My Luv",
+        "url": "https://open.spotify.com/album/2Bt9AMckSnsPQHndxTMb1W"
       },
       "artists": [
         {
-          "name": "Ashibah",
-          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
-      "duration_ms": 191500,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/4B9KPPA4Nm4HKDynyuoRZe"
+      "duration_ms": 204094,
+      "name": "Give You My Luv",
+      "url": "https://open.spotify.com/track/3BXDXkRqdIMN7wDnhbexvh"
     },
     {
       "added_at": "2026-04-16 22:02:17",
@@ -2063,22 +2047,18 @@
     {
       "added_at": "2026-04-16 22:02:17",
       "album": {
-        "name": "The Devil Works Hard",
-        "url": "https://open.spotify.com/album/3Y3UmB3THsefvGMZh1BGw4"
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/3KhmmfJf1mqsl04DzwJKMX"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
         }
       ],
-      "duration_ms": 169453,
-      "name": "The Devil Works Hard",
-      "url": "https://open.spotify.com/track/0hP0E1XXzOmCBJI7ROF0Ni"
+      "duration_ms": 191500,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/4B9KPPA4Nm4HKDynyuoRZe"
     },
     {
       "added_at": "2026-04-16 22:02:17",
@@ -2107,6 +2087,26 @@
       "duration_ms": 202734,
       "name": "Dancing On My Own - The Brothers Macklovitch Remix",
       "url": "https://open.spotify.com/track/0okKGmtQDLjPG5e70fQovQ"
+    },
+    {
+      "added_at": "2026-04-16 22:02:17",
+      "album": {
+        "name": "The Devil Works Hard",
+        "url": "https://open.spotify.com/album/3Y3UmB3THsefvGMZh1BGw4"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        }
+      ],
+      "duration_ms": 169453,
+      "name": "The Devil Works Hard",
+      "url": "https://open.spotify.com/track/0hP0E1XXzOmCBJI7ROF0Ni"
     },
     {
       "added_at": "2026-04-16 22:02:17",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2026-04-16 22:02:17",
       "album": {
-        "name": "Swing My Way",
-        "url": "https://open.spotify.com/album/4y7YuyyL1ij6h4DiYPfxwF"
-      },
-      "artists": [
-        {
-          "name": "Moojo",
-          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
-        }
-      ],
-      "duration_ms": 325000,
-      "name": "Swing My Way",
-      "url": "https://open.spotify.com/track/2vAzu2lfBHmKhOSmhSG4re"
-    },
-    {
-      "added_at": "2026-04-16 22:02:17",
-      "album": {
         "name": "Back To The Old",
         "url": "https://open.spotify.com/album/5RdANBW2sritjPOVUhrW3N"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 405200,
       "name": "Back To The Old - Joeski Remix",
       "url": "https://open.spotify.com/track/5X3p1qsoCgxATEnWsqDSbS"
+    },
+    {
+      "added_at": "2026-04-16 22:02:17",
+      "album": {
+        "name": "Swing My Way",
+        "url": "https://open.spotify.com/album/4y7YuyyL1ij6h4DiYPfxwF"
+      },
+      "artists": [
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        }
+      ],
+      "duration_ms": 325000,
+      "name": "Swing My Way",
+      "url": "https://open.spotify.com/track/2vAzu2lfBHmKhOSmhSG4re"
     },
     {
       "added_at": "2026-04-16 22:02:17",

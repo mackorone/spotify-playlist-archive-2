@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,120 songs - 3 day 0 hr 36 min
+1,121 songs - 3 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Birds](https://open.spotify.com/track/4qrv4KMBrGVcaN5NU1TSlF) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Dead Cities, Red Seas & Lost Ghosts](https://open.spotify.com/album/44Sy39wQjQFX0jJOufXTvv) | 0:53 | 2023-06-03 |  |
 | [Birds & the Bees](https://open.spotify.com/track/7bwLHhqhRu0fVTM3aaeK9V) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 2:16 | 2026-02-28 |  |
 | [Biscuits Intro](https://open.spotify.com/track/7vsPqZLxTXdrDsymHYo9nM) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bloodless](https://open.spotify.com/album/37mwvUCrctINwVYeayXa7h) | 0:15 | 2025-04-27 | 2025-04-29 |
+| [Bishop](https://open.spotify.com/track/2rokzbolW3350YqYejvmgV) | [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA) | [Mighty Vertebrate](https://open.spotify.com/album/0lnAG8yZcln85SGhVzy9ru) | 3:14 | 2026-04-21 |  |
 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 | 2024-09-25 | 2024-09-30 |
 | [Bite Me](https://open.spotify.com/track/58o9R5b5BKmVzyJWpVDB37) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Over & Over](https://open.spotify.com/album/6blr4YVJ0xwdx1qJWBtz76) | 2:17 | 2024-06-28 |  |
 | [BITTEN BY MY LOVE VAR\. XI](https://open.spotify.com/track/02RZUwOuwSiWciz1ZqeGtS) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [THE COUNT](https://open.spotify.com/album/70fXOjp8M86eENswClC51h) | 6:00 | 2026-01-02 | 2026-01-05 |

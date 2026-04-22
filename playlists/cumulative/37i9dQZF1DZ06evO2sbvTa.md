@@ -4,11 +4,11 @@
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 10 min
+72 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [77 Birds \(feat\. Gucci Mane\)](https://open.spotify.com/track/54PKRhFv5LqEX2GkwA3hqj) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Married to the Streets](https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj) | 3:59 | 2025-07-06 |  |
+| [77 Birds \(feat\. Gucci Mane\)](https://open.spotify.com/track/54PKRhFv5LqEX2GkwA3hqj) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Married to the Streets](https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj) | 3:59 | 2025-07-06 | 2026-04-22 |
 | [Big Guwap \(feat\. Young Scooter\)](https://open.spotify.com/track/66szIKCdNwvZ9lY4j8t1kO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap God 2](https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM) | 3:04 | 2025-04-01 |  |
 | [Birds Take a Bath](https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Astronaut Status](https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA) | 4:24 | 2025-04-01 |  |
 | [Black Migo](https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Zaystreet](https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf) | 3:29 | 2025-04-01 |  |
@@ -58,6 +58,7 @@
 | [Oooooh \(feat\. Young Scooter\)](https://open.spotify.com/track/5FMH3g2VYH4manoJWEDhUk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Beast Mode](https://open.spotify.com/album/02Mp4Q83TVhpe8VeCpMZjZ) | 3:09 | 2025-04-01 |  |
 | [Outro](https://open.spotify.com/track/692RBh8Fpm8i2Hme4tuq4h) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [WAKA FLACKA](https://open.spotify.com/artist/4qv6rQVJL5XhlP349GjrMm) | [Jugg King](https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk) | 2:29 | 2025-04-01 |  |
 | [Packs In \(feat\. Gucci Mane\)](https://open.spotify.com/track/4R5jWIpiLosjh6c1HPmKpL) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Fast Lane Juugin](https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX) | 4:44 | 2025-04-01 |  |
+| [Partner](https://open.spotify.com/track/1ZUxRMW756trpE2GmgLKGz) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [80's Baby](https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk) | 2:26 | 2026-04-22 |  |
 | [Pressure](https://open.spotify.com/track/7u5u2bGzODCPg9vZKoYoyt) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | [Pressure](https://open.spotify.com/album/1hxnBncFBCUDiGTYqktJzw) | 3:24 | 2025-04-01 | 2025-05-07 |
 | [Pressure](https://open.spotify.com/track/75Wu6zaSb1QUolSm70RSwo) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Zaystreet](https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf) | 3:24 | 2025-05-07 |  |
 | [Re Up](https://open.spotify.com/track/7BHt2zee786p8zTtL6ZzaV) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Free Bricks 2](https://open.spotify.com/album/0u1zuwdz8PmbNBMpR8jAx2) | 3:43 | 2025-04-01 | 2025-11-07 |

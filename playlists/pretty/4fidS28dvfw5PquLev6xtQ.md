@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain]
 
 > Zoom Zoom Zoom it&\#x27;s time to go to class and give the most sass out of all that ass DAMN that&\#x27;s a phat bar 🍑
 
-[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 49 likes - 99 songs - 12 hr 25 min
+[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 50 likes - 99 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

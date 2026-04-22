@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-619 songs - 2 day 2 hr 47 min
+620 songs - 2 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Continuum 3](https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 4:07 | 2024-09-06 |  |
 | [Continuum 9](https://open.spotify.com/track/54px5UxG3Q4rk65mTGsMdH) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 3:20 | 2025-01-09 |  |
 | [CORRI](https://open.spotify.com/track/5AFHQZ2mgLhyk8MzY5z4X2) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 4:17 | 2021-12-26 | 2022-07-27 |
-| [Cosmic Joke](https://open.spotify.com/track/79kPIyyVDcGS4EAMsK17gq) | [Slow Riffs](https://open.spotify.com/artist/1OM9xXTByZgCV0qUFQGnXF) | [Cosmic Joke](https://open.spotify.com/album/7jclO1wwORLXVOhmmpBPnX) | 3:47 | 2026-03-09 |  |
+| [Cosmic Joke](https://open.spotify.com/track/79kPIyyVDcGS4EAMsK17gq) | [Slow Riffs](https://open.spotify.com/artist/1OM9xXTByZgCV0qUFQGnXF) | [Cosmic Joke](https://open.spotify.com/album/7jclO1wwORLXVOhmmpBPnX) | 3:47 | 2026-03-09 | 2026-04-22 |
 | [Cracks](https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Cracks](https://open.spotify.com/album/0SKz3oXHcgtANIjmTDO2yJ) | 8:28 | 2021-12-26 | 2023-08-12 |
 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 | 2021-12-26 | 2023-08-12 |
 | [Crash](https://open.spotify.com/track/6GuRn7F99EtpF12KKUSRwt) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Crash](https://open.spotify.com/album/4x8zIMFv3t730LgIqBiSkg) | 5:07 | 2022-02-04 | 2023-05-03 |
@@ -431,6 +431,7 @@
 | [Poortgebouw](https://open.spotify.com/track/4eQGpdIfakaPCUEGXj0PfJ) | [Hiro Kone](https://open.spotify.com/artist/1BCUHvti8crTWtc0h0U4W4) | [Pure Expenditure](https://open.spotify.com/album/1m5iYqiindNhlRh36AldlL) | 5:03 | 2022-11-22 | 2023-08-12 |
 | [Portico](https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Portico](https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr) | 6:42 | 2022-02-18 | 2025-01-15 |
 | [Power Down the Heart](https://open.spotify.com/track/1zh6auj09toxNxeux8cwQP) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D), [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA) | [Power Down the Heart](https://open.spotify.com/album/1tvoBGiMufBZK8Ky33Ljab) | 3:41 | 2025-05-16 | 2026-03-10 |
+| [pray for me](https://open.spotify.com/track/3axYsjraQm0zrlraccsQ1z) | [ps goner](https://open.spotify.com/artist/2NvW7opzLcyUzwUCpYEacp) | [there's an atm inside](https://open.spotify.com/album/73jAMZpl5U6duG0wrw83jZ) | 3:17 | 2026-04-21 |  |
 | [Prayer](https://open.spotify.com/track/0XK1ECogYwqBuwyw3neyqg) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Crépuscule I & II](https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs) | 2:22 | 2023-01-16 | 2024-09-07 |
 | [PREY](https://open.spotify.com/track/6i4S0r1lpnCfvm5WvxIOGF) | [SZARY](https://open.spotify.com/artist/3hVzRHaqJWJvSg9DY4Y0Ca) | [PREY](https://open.spotify.com/album/380gcA5tfacYgprsHQVWrU) | 4:24 | 2025-08-22 |  |
 | [PRIMORDIUM FINALE](https://open.spotify.com/track/1JUbpsghtrxEipWObkhQPB) | [Mario Batkovic](https://open.spotify.com/artist/3lLjSS7VP84aQ1fwX3Vbqz) | [INTROSPECTIO](https://open.spotify.com/album/1emFYt0TSm5loTPAl8eQJQ) | 5:05 | 2022-12-30 | 2023-01-28 |

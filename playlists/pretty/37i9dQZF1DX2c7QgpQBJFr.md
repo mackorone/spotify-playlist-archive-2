@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹 cover: Baltimora
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,881 likes - 123 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,887 likes - 123 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

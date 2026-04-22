@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Josi
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,731 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,724 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 29 | [Männersache](https://open.spotify.com/track/1HBITtBwmz9ZUDekimTnwS) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [Männersache](https://open.spotify.com/album/6em78l04f1OVhKKNZAbAgL) | 2:11 |
 | 30 | [yin und yang](https://open.spotify.com/track/3uEWjrFM2sY2eRPrR7msZq) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [yin und yang](https://open.spotify.com/album/7tgDjiD2laU5xXl32fzy6o) | 2:32 |
 | 31 | [nie verstehen](https://open.spotify.com/track/0nKiL94U8ti7ksxjSaIDB8) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [nie verstehen](https://open.spotify.com/album/7CR6gLaObiPTPqOg2CIUoN) | 2:13 |
-| 32 | [double L](https://open.spotify.com/track/7jAX6V6DdTRETOP4Zekrby) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN) | [double L](https://open.spotify.com/album/2NffmfK2kiciEDLg7JY71Z) | 3:32 |
+| 32 | [BEBII](https://open.spotify.com/track/6YocybQAUDMGdSgU9d2pXp) | [Miss Marla](https://open.spotify.com/artist/3MtJzCQCzp6r1oEqAifuDJ), [Prod Gordon](https://open.spotify.com/artist/0xj2xEx3aLor6lFSGgP0iv) | [YOUNG BARBIE LIFE](https://open.spotify.com/album/0mFfkucO2ccQ40IvOoGyCo) | 1:54 |
 | 33 | [Sniper](https://open.spotify.com/track/52KhmZdOWIk02dwffldHMu) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Sniper](https://open.spotify.com/album/06JWbSUX77An10BejKN9C0) | 1:56 |
-| 34 | [BEBII](https://open.spotify.com/track/6YocybQAUDMGdSgU9d2pXp) | [Miss Marla](https://open.spotify.com/artist/3MtJzCQCzp6r1oEqAifuDJ), [Prod Gordon](https://open.spotify.com/artist/0xj2xEx3aLor6lFSGgP0iv) | [YOUNG BARBIE LIFE](https://open.spotify.com/album/0mFfkucO2ccQ40IvOoGyCo) | 1:54 |
+| 34 | [double L](https://open.spotify.com/track/7jAX6V6DdTRETOP4Zekrby) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN) | [double L](https://open.spotify.com/album/2NffmfK2kiciEDLg7JY71Z) | 3:32 |
 | 35 | [Jenny](https://open.spotify.com/track/1MJV6Q7cYQEOEwwgNwRcJ7) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Jenny](https://open.spotify.com/album/3BQWnI0Gg22LnYTsN2ksJp) | 4:33 |
 | 36 | [Summer In The Woods](https://open.spotify.com/track/2oMVZc7fzqNy6iq9ugUmrV) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Summer In The Woods](https://open.spotify.com/album/4yQ3hrlA3RsYy4CXlXmDP6) | 3:04 |
 | 37 | [wieviele Tage](https://open.spotify.com/track/3AfgaomsUEosFavo59d5Ki) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [wieviele Tage](https://open.spotify.com/album/6SaXHsxV1SFbQgULjEfUmw) | 2:24 |

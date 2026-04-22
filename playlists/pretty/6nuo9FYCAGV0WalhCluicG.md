@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 
 > The hottest UK rap, drill, grime and hip\-hop right now\. Featuring the biggest names and rising stars shaping the UK scene, including Nemzzz, EsDeeKid, KidWild and more\. Cover: Nemzzz.
 
-[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 71,123 likes - 70 songs - 3 hr 11 min
+[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 71,119 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [COLD](https://open.spotify.com/track/7H5CsjEafNygkvcm69RevN) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [RENT'S DUE \(DELUXE\)](https://open.spotify.com/album/0tbWPYGZ1f6vnOEP1ZxaGI) | 2:23 |
 | 2 | [Dope Boyz](https://open.spotify.com/track/0UjqnurLhsm2jf9aUJDfxk) | [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o), [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Dope Boyz](https://open.spotify.com/album/4QdUOiBbK2FXMhYw6NhJwK) | 2:21 |
-| 3 | [WAGWAN](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ALL ROADS LEAD HOME](https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID) | 2:07 |
+| 3 | [ONE HIT WONDER](https://open.spotify.com/track/1kAfNwXFY6GvuvNAm1HA6U) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO) | [ONE HIT WONDER](https://open.spotify.com/album/0esMTM0ix53P0vQRvsEEK1) | 1:42 |
 | 4 | [Let's Talk \(feat\. Jme\)](https://open.spotify.com/track/2w2FGqT7etJegkoesEzKsT) | [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Lets Talk \(feat\. Jme\)](https://open.spotify.com/album/4Y452bZyorfxW7bCIJJaIr) | 3:18 |
 | 5 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 |
-| 6 | [ONE HIT WONDER](https://open.spotify.com/track/1kAfNwXFY6GvuvNAm1HA6U) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO) | [ONE HIT WONDER](https://open.spotify.com/album/0esMTM0ix53P0vQRvsEEK1) | 1:42 |
+| 6 | [Pac\-Man](https://open.spotify.com/track/7CT6uTCmVIMnFR9VVag8Hr) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Job's Not Done](https://open.spotify.com/album/26wnCS2ge003UaGJ19XqLO) | 2:00 |
 | 7 | [Brick By Brick](https://open.spotify.com/track/0LL3KlF3Wexv0a8cOwwmvt) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Rvchet](https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75) | [Brick By Brick](https://open.spotify.com/album/19HcmpMWJsSKHK1rQNm3qj) | 2:20 |
 | 8 | [MINK SB \(feat\. Skepta, Lojay & Skillibeng\)](https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [MINK SB \(feat\. Skepta, Lojay & Skillibeng\)](https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7) | 3:04 |
-| 9 | [Pac\-Man](https://open.spotify.com/track/7CT6uTCmVIMnFR9VVag8Hr) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Job's Not Done](https://open.spotify.com/album/26wnCS2ge003UaGJ19XqLO) | 2:00 |
+| 9 | [WAGWAN](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ALL ROADS LEAD HOME](https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID) | 2:07 |
 | 10 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 |
 | 11 | [You've Changed](https://open.spotify.com/track/1yCuloYO2IJNmKoMwWjlno) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [You've Changed](https://open.spotify.com/album/2BLonWEwLiNzXp7cfaeFLr) | 3:15 |
 | 12 | [Outside](https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Half Clip](https://open.spotify.com/album/6Cuez4Hqqqxm3uZC0DnTor) | 2:47 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 | 69 | [FIRST CLASS LANDING.](https://open.spotify.com/track/3wS3axElohYztqGgvwxJX3) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [FIRST CLASS LANDING.](https://open.spotify.com/album/4a22dfdSjqIJ9fw9M8cLO0) | 3:01 |
 | 70 | [Active](https://open.spotify.com/track/0p5VYm5cWWMpn34C0lSG4T) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Active](https://open.spotify.com/album/4NCKxYcaUesoLVwl5YfuXS) | 2:51 |
 
-Snapshot ID: `AAAMHa8sjcyaayedOinhoTBgrrxbP8H7`
+Snapshot ID: `AAAMH3bSxM9p+cPBUL+q8D9ca2YZvEFx`

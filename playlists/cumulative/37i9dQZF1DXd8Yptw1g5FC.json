@@ -109092,7 +109092,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 205712,
       "name": "Susuyorsam Sayg\u0131mdan",
       "url": "https://open.spotify.com/track/1hMh1rOqj3o8umPxwHHNrj"
@@ -123503,24 +123503,20 @@
     },
     {
       "album": {
-        "name": "Yaln\u0131zl\u0131k Bana Kalan",
+        "name": "Yaln\u0131zl\u0131k Bana Kalan (Hamam Sessions)",
         "url": "https://open.spotify.com/album/3eXOYOvRkO9Qic3jHm9lKI"
       },
       "artists": [
         {
           "name": "Sena G\u00fcl",
           "url": "https://open.spotify.com/artist/5M1xHbIWiKoI6sZpCmeFHq"
-        },
-        {
-          "name": "Hamam Sessions",
-          "url": "https://open.spotify.com/artist/5kRJhbfCy8VjiXyyN1tPHq"
         }
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201599,
-      "name": "Yaln\u0131zl\u0131k Bana Kalan",
+      "name": "Yaln\u0131zl\u0131k Bana Kalan - Hamam Sessions",
       "url": "https://open.spotify.com/track/4DEGAjb6z7JnIin8FYEQks"
     },
     {

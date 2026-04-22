@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Ivan Greko
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,106 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,099 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 41 | [LIBERTÀ](https://open.spotify.com/track/7sei87uuicy9ynlN3LWky3) | [BAKV](https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [LIBERTÀ](https://open.spotify.com/album/1zXBqVCdmc664njja2YRPS) | 1:55 |
 | 42 | [Exigiste Mou](https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Exigiste Mou](https://open.spotify.com/album/5wZG3GidgJwTxeNFMIse8S) | 2:53 |
 | 43 | [CHOCO FRESH](https://open.spotify.com/track/7Ku2O5h0e3NH1qGcuZvGWT) | [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a) | [CHOCO FRESH](https://open.spotify.com/album/0KiLceIAWD6fFxbU2c0BNv) | 3:41 |
-| 44 | [Rebetiko](https://open.spotify.com/track/4oHhqNrZtxCPqlTnCsAE92) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Rebetiko](https://open.spotify.com/album/5vbHVcCQ2492sXESGmjdWd) | 2:23 |
-| 45 | [KGB](https://open.spotify.com/track/69Qsq394czCslHQYmKlvlq) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky), [MUNEYLXRD](https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB) | [Runnin' Busy](https://open.spotify.com/album/3e5lplDylZTPn9Ggpu3huQ) | 1:56 |
-| 46 | [GKD](https://open.spotify.com/track/18CrgcLdzD1I3c0Iq0bBlP) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV) | [GKD](https://open.spotify.com/album/0ORuoJwPcj7v2fbUrN2nRg) | 3:44 |
-| 47 | [Sousouro](https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Sousouro](https://open.spotify.com/album/1ZuGXCJPpIFwRcgMHSghLU) | 3:51 |
-| 48 | [Logariasmos](https://open.spotify.com/track/6qShG16XTy1emd18WVPZlh) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Logariasmos](https://open.spotify.com/album/0Mesq5mYk1HClW7ecjungg) | 3:40 |
-| 49 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
+| 44 | [S 500](https://open.spotify.com/track/1sEdiB9Dhf81Pg9Gv2LQhb) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [S 500](https://open.spotify.com/album/5EFeCW3UV4d4roiVIUCxk7) | 2:47 |
+| 45 | [Rebetiko](https://open.spotify.com/track/4oHhqNrZtxCPqlTnCsAE92) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Rebetiko](https://open.spotify.com/album/5vbHVcCQ2492sXESGmjdWd) | 2:23 |
+| 46 | [KGB](https://open.spotify.com/track/69Qsq394czCslHQYmKlvlq) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky), [MUNEYLXRD](https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB) | [Runnin' Busy](https://open.spotify.com/album/3e5lplDylZTPn9Ggpu3huQ) | 1:56 |
+| 47 | [GKD](https://open.spotify.com/track/18CrgcLdzD1I3c0Iq0bBlP) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV) | [GKD](https://open.spotify.com/album/0ORuoJwPcj7v2fbUrN2nRg) | 3:44 |
+| 48 | [Sousouro](https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Sousouro](https://open.spotify.com/album/1ZuGXCJPpIFwRcgMHSghLU) | 3:51 |
+| 49 | [Logariasmos](https://open.spotify.com/track/6qShG16XTy1emd18WVPZlh) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Logariasmos](https://open.spotify.com/album/0Mesq5mYk1HClW7ecjungg) | 3:40 |
+| 50 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 
-Snapshot ID: `AAAAAGL44zOWRYNlNKP3sjFZVP4bLpbv`
+Snapshot ID: `AAAAADxpL2tw2DIEaMH18lVwG0Sq3p3p`

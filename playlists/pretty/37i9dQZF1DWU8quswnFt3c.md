@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: BINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,067 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041,944 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 24 | [Paligoy\-Ligoy \- From "Diary Ng Panget"](https://open.spotify.com/track/2mHZkcKMA1MkXAziIXQtVv) | [Nadine Lustre](https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL) | [Paligoy\-Ligoy \(From "Diary Ng Panget"\)](https://open.spotify.com/album/3KCYGc5oOMidMFih08J4or) | 3:18 |
 | 25 | [Use Me](https://open.spotify.com/track/3I6q7b1keDmi75xjPT2RIs) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/7IjN10VEnyA5wnPOcLx12H) | 3:18 |
 | 26 | [Ako Na Lang](https://open.spotify.com/track/0HEgpKfIPNUNzDsrBt3o3l) | [Zia Quizon](https://open.spotify.com/artist/45n4dyhe8nXULBDb6wHSXe) | [Zia](https://open.spotify.com/album/5oTW0Kf2BAIaXWQAttdsbs) | 3:24 |
-| 27 | [Titibo\-Tibo](https://open.spotify.com/track/2zArX6uAJaGQzMXoqob8V6) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Malaya](https://open.spotify.com/album/4MPMYc8S6csdHlF8Ud1yLp) | 3:22 |
-| 28 | [Feel Special](https://open.spotify.com/track/14rWuS6yllHOdfZ8sZsZUj) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/5efEhTY3yPlGU4Ofu2yi7F) | 3:26 |
+| 27 | [Feel Special](https://open.spotify.com/track/14rWuS6yllHOdfZ8sZsZUj) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/5efEhTY3yPlGU4Ofu2yi7F) | 3:26 |
+| 28 | [Titibo\-Tibo](https://open.spotify.com/track/2zArX6uAJaGQzMXoqob8V6) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Malaya](https://open.spotify.com/album/4MPMYc8S6csdHlF8Ud1yLp) | 3:22 |
 | 29 | [Sousouro](https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Sousouro](https://open.spotify.com/album/1ZuGXCJPpIFwRcgMHSghLU) | 3:51 |
 | 30 | [Mix Poco Yo: Sé Que Te Amo / Tu Traición / Otra Ocupa Mi Lugar / Te He Prometido \- en vivo](https://open.spotify.com/track/2fvTFcJoB0jFnpl3U9Jip4) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Mix Poco Yo: Sé Que Te Amo / Tu Traición / Otra Ocupa Mi Lugar / Te He Prometido \(En Vivo\)](https://open.spotify.com/album/3ijH4T7QFQuueB1sQJeQNB) | 6:36 |
 | 31 | [NOISE](https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [NOISE](https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj) | 2:42 |
