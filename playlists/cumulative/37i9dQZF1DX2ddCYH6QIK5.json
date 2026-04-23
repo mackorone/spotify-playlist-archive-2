@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Mende, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: vilo, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 219626,
       "name": "150 Tage",
       "url": "https://open.spotify.com/track/4dKgH1VEpXAGKYb7TuofNO"
@@ -3016,7 +3016,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 162004,
       "name": "Black & White Movie",
       "url": "https://open.spotify.com/track/25NzjKXpXyOrUF0ulEHz8g"
@@ -4876,6 +4876,24 @@
       "duration_ms": 192820,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/1WzuSv5vdHtvA3hQNv0RJg"
+    },
+    {
+      "album": {
+        "name": "cherry spice",
+        "url": "https://open.spotify.com/album/0YFjfRJWZUrVEA1TDqu5Cy"
+      },
+      "artists": [
+        {
+          "name": "moonvine",
+          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "cherry spice",
+      "url": "https://open.spotify.com/track/0Wv4BgvkEII97SY0p41aoM"
     },
     {
       "album": {
@@ -8868,6 +8886,24 @@
       "duration_ms": 203000,
       "name": "Feel",
       "url": "https://open.spotify.com/track/5BOgK9BkIZ4otm3sbHN5yP"
+    },
+    {
+      "album": {
+        "name": "Feel Like",
+        "url": "https://open.spotify.com/album/1OlFkQ5drcNs1F2C3J9TW3"
+      },
+      "artists": [
+        {
+          "name": "SOL\u00d8S",
+          "url": "https://open.spotify.com/artist/7N21Y5fRqIDsPNtEGrA6Bz"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128181,
+      "name": "Feel Like",
+      "url": "https://open.spotify.com/track/3ieRlMEKZ2SJNdx3DCBNhe"
     },
     {
       "album": {
@@ -15683,6 +15719,24 @@
     },
     {
       "album": {
+        "name": "Letzte Seite",
+        "url": "https://open.spotify.com/album/6KdxMWV7SiBYHQWoTansy8"
+      },
+      "artists": [
+        {
+          "name": "vilo",
+          "url": "https://open.spotify.com/artist/2qNDPDaLfn29Zd84jdGGmS"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Letzte Seite",
+      "url": "https://open.spotify.com/track/3cvXcYAkPvbzewxCRYuhoq"
+    },
+    {
+      "album": {
         "name": "Levitation",
         "url": "https://open.spotify.com/album/4kylgjMemfIkxrf7vEP5Gc"
       },
@@ -18472,7 +18526,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 191428,
       "name": "Nightlight",
       "url": "https://open.spotify.com/track/5QtPuYCjj22bKXfEkrjkUC"
@@ -21630,6 +21684,24 @@
       "duration_ms": 363196,
       "name": "RIV",
       "url": "https://open.spotify.com/track/48cB4tKFQdIXfMnzt70VOU"
+    },
+    {
+      "album": {
+        "name": "RIWD",
+        "url": "https://open.spotify.com/album/1pH60bVD9Gxb2gvIAYjqEG"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/28vRRODcKi8zQZeIWeykdj"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165016,
+      "name": "RIWD",
+      "url": "https://open.spotify.com/track/7BTn6IxNVubyA9E2lIFgXB"
     },
     {
       "album": {
@@ -25522,7 +25594,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 151874,
       "name": "Taugenichts",
       "url": "https://open.spotify.com/track/7aZhWlevNi6KQ2ZEhNSXLY"
@@ -28692,7 +28764,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 209803,
       "name": "Wenn du dann weg bist",
       "url": "https://open.spotify.com/track/1PK2Z9ztmQ5OftJ12Pe7ZI"
@@ -28808,6 +28880,24 @@
       "duration_ms": 204199,
       "name": "What I Couldn't Say",
       "url": "https://open.spotify.com/track/119IJyBIJ6EBCpzyBisJWe"
+    },
+    {
+      "album": {
+        "name": "Whats on Your Mind",
+        "url": "https://open.spotify.com/album/4P1hYqdBH3Vq5i1eRVTP8I"
+      },
+      "artists": [
+        {
+          "name": "PIA",
+          "url": "https://open.spotify.com/artist/6bs3OpCmbpOfU5eEW9QvdB"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "Whats on Your Mind",
+      "url": "https://open.spotify.com/track/40dkjQM7ddC172gEwXHOIV"
     },
     {
       "album": {

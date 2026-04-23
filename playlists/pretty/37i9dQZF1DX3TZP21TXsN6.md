@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Lostt, Giegs, Bastosz, Sam J’taime, Yenko Forever en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,082 likes - 69 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,071 likes - 69 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

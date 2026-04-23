@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,911 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,907 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 19 | [SPRINTER](https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha) | [KARMA](https://open.spotify.com/artist/2CbSXiRcLCT8xjNeoebez9) | [SPRINTER](https://open.spotify.com/album/1LrwZakIRGBHovLTDBCQSj) | 3:07 |
 | 20 | [RALLY FUNK](https://open.spotify.com/track/4NX1TmWyGuTCTPguqd4KAK) | [prod\. DTM](https://open.spotify.com/artist/661DKnfZy9RMb8FcbUZboE) | [RALLY FUNK](https://open.spotify.com/album/46zifhmnByKMPQaZSjw9oh) | 1:34 |
 | 21 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 |
-| 22 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 |
-| 23 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
+| 22 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
+| 23 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 |
 | 24 | [Old' On](https://open.spotify.com/track/38zrbBzmIUC4OPL2NUBx4n) | [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [Tastes Like The 90s](https://open.spotify.com/album/0IZhc4XwdP5S3HADTrddV1) | 3:21 |
 | 25 | [The Right](https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [The Right](https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE) | 3:54 |
 | 26 | [Brazilian Sky](https://open.spotify.com/track/5KF3ijg71YSKszvHuHdfZA) | [Demm Deep](https://open.spotify.com/artist/1MzQYOcw4DMB9ISBhZTa7g), [Junes UB](https://open.spotify.com/artist/32nH6vaVKn3iDyEYdlcBi5) | [Tracks of the Blue Sky](https://open.spotify.com/album/5kCSdyvAeUACIFEspLwr83) | 3:19 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 47 | [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 |
 | 48 | [Birth4000](https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 4:46 |
 | 49 | [Who Are They?](https://open.spotify.com/track/49981XZ6QqcqRJ1LDQWDB2) | [Hedonics](https://open.spotify.com/artist/24rnH82g3EdeLwIl9BBGvS) | [Who Are They?](https://open.spotify.com/album/12PEHRDDMkmP12U79JDaCM) | 4:54 |
-| 50 | [Badder](https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Badder](https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo) | 2:50 |
+| 50 | [Night Moves](https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [Night Moves](https://open.spotify.com/album/6jsl3oV9zfqb7l7rpbQDki) | 3:21 |
 
 Snapshot ID: `AAAAAOtZZ9mbCPihj03JI6z2Dh1Xm9IN`

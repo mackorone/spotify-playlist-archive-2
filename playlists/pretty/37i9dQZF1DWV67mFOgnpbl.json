@@ -1,6 +1,6 @@
 {
   "description": "For those who like to party hard!",
-  "num_followers": 554869,
+  "num_followers": 555011,
   "original_name": "Party Hard",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-01-22 16:03:55",
       "album": {
-        "name": "Rust In Peace (2004 Remix / Expanded Edition)",
-        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 392600,
-      "name": "Holy Wars...The Punishment Due - 2004 Remix",
-      "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
-    },
-    {
-      "added_at": "2025-01-22 16:03:55",
-      "album": {
         "name": "One Day Remains",
         "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 259959,
       "name": "Metalingus",
       "url": "https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE"
+    },
+    {
+      "added_at": "2025-01-22 16:03:55",
+      "album": {
+        "name": "Rust In Peace (2004 Remix / Expanded Edition)",
+        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 392600,
+      "name": "Holy Wars...The Punishment Due - 2004 Remix",
+      "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
     },
     {
       "added_at": "2025-01-22 16:03:55",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2025-01-22 16:03:55",
       "album": {
-        "name": "Balls To The Wall",
-        "url": "https://open.spotify.com/album/2ogbkPbabA9E5LFXiFhDas"
+        "name": "Overkill (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3xqjaGS3zK0WQPLg6Qdb50"
       },
       "artists": [
         {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 342600,
-      "name": "Balls to the Wall",
-      "url": "https://open.spotify.com/track/28sMmBCmfHoy6NjZnovEYG"
+      "duration_ms": 313520,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/1Krtfh550kyhfWPcRp6SnD"
     }
   ],
   "unique_name": "Party Hard",

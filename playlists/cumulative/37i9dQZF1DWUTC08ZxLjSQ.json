@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Dehmez. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Salim Webz. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -4903,6 +4903,28 @@
     },
     {
       "album": {
+        "name": "DAH A2AL 7AGA 3ANDI",
+        "url": "https://open.spotify.com/album/2uv1BRBbqMOmsyFSEImkGb"
+      },
+      "artists": [
+        {
+          "name": "Bloodymarry",
+          "url": "https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40"
+        },
+        {
+          "name": "ZozRealStar",
+          "url": "https://open.spotify.com/artist/24qBUbjR4lhdpmEDjEEL9b"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205766,
+      "name": "Mashy Fe Tare2",
+      "url": "https://open.spotify.com/track/50Tkn3IN2WVVTCnj0Imcy9"
+    },
+    {
+      "album": {
         "name": "Molly Crapton",
         "url": "https://open.spotify.com/album/2FiCEJT0xGOZJn5s2I00KK"
       },
@@ -8990,7 +9012,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 349503,
       "name": "\u0627\u0644\u0633\u0627\u0642\u064a",
       "url": "https://open.spotify.com/track/0CECKW3SUi0sjpJIUWvOyO"

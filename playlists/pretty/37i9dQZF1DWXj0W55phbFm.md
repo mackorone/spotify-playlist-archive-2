@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,610 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,651 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 56 | [Let It Ride](https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Into the Blue](https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL) | 7:28 |
 | 57 | [Die Weisheit von Le Comte Lautréamont](https://open.spotify.com/track/1Z9Lk2lp9YYX8wH00qvY03) | [Tomasz Stańko](https://open.spotify.com/artist/65WFsTQhFYVqbovrVZAOd7), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Tony Oxley](https://open.spotify.com/artist/38hAXjCbg6MlaUqFpdNB03) | [Leosia](https://open.spotify.com/album/3MwR2imlhLJiXVk7FPXmY4) | 6:07 |
 | 58 | [Tranquillity \- Remastered 1998](https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93) | [Howard McGhee: Volume 2 / Tal Farlow Quartet](https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg) | 4:10 |
-| 59 | [I Lost My Gal from Memphis](https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK) | [Bubber Miley](https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT) | [Thumpin' & Bumpin' \- New York, Vol\. 2](https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv) | 2:59 |
-| 60 | [Dear Old Stockholm](https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Simply Stated](https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK) | 10:00 |
+| 59 | [Dear Old Stockholm](https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Simply Stated](https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK) | 10:00 |
+| 60 | [I Lost My Gal from Memphis](https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK) | [Bubber Miley](https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT) | [Thumpin' & Bumpin' \- New York, Vol\. 2](https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv) | 2:59 |
 | 61 | [Response \- Live](https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [A Rift In Decorum: Live At The Village Vanguard](https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb) | 5:37 |
 | 62 | [Apple House](https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc) | [Moving Picture](https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh) | 5:12 |
 | 63 | [Paul's Pal \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Off To The Races \(Remastered\)](https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi) | 7:06 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 79 | [Lonely Woman \- Live](https://open.spotify.com/track/12urjp66cJaOm1xfMAFkoC) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI), [Ed Blackwell](https://open.spotify.com/artist/6OyNnPUKtNrjm5QQkK0Px9) | [The Montreal Tapes \(Live\)](https://open.spotify.com/album/7yrhOwYjYhptIlD2HU6xUe) | 11:41 |
 | 80 | [Tin Roof Blues](https://open.spotify.com/track/7H1oLYALMZNmYLTMMe2aS6) | [Mugsy Spanier](https://open.spotify.com/artist/6NvhulFoko7CGrqdnm43jx) | [Mugsy Spanier Sentimental Journey, Vol\. 3](https://open.spotify.com/album/614lYenVGxB5bAKrmCXPJL) | 2:56 |
 | 81 | [Blowin up Breeze](https://open.spotify.com/track/4t0O1w9kJ0ihfwxfkTcti0) | [Hot Lips Page](https://open.spotify.com/artist/3GAp4nVDIMnsYFZnD9DWSz) | [Mr After Hours](https://open.spotify.com/album/5FQV4leqcgCPXfbesBn420) | 2:43 |
-| 82 | [Squeaky's Blues](https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Oscar Peterson Trio Plus One](https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp) | 3:28 |
-| 83 | [Hazy Blues](https://open.spotify.com/track/32BWDfFFyb8WeIh7pdaAnJ) | [Booker Little](https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv) | [Take a Coffee Break](https://open.spotify.com/album/15RS9hTyIwntnc0MEK1Aec) | 6:37 |
+| 82 | [Hazy Blues](https://open.spotify.com/track/32BWDfFFyb8WeIh7pdaAnJ) | [Booker Little](https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv) | [Take a Coffee Break](https://open.spotify.com/album/15RS9hTyIwntnc0MEK1Aec) | 6:37 |
+| 83 | [Squeaky's Blues](https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Oscar Peterson Trio Plus One](https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp) | 3:28 |
 | 84 | [Morning Song](https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Score](https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16) | 4:09 |
 | 85 | [Just in Time](https://open.spotify.com/track/3aHJmaeRrBhoNlXL079nc2) | [Cootie Williams](https://open.spotify.com/artist/4zef2ByBl6wZGFPvYWve6o) | [Where or When](https://open.spotify.com/album/6jNlEB9M8Dfmtd2pyCbhfN) | 3:31 |
 | 86 | [Tin Roof Blues](https://open.spotify.com/track/195426YTXn9COJncZ3b94u) | [Kenny Ball](https://open.spotify.com/artist/0QyB38XO00qX8Zc0EFzN4w) | [Why Not](https://open.spotify.com/album/3ayg5NSGUKMF1bdLRoVWnh) | 4:07 |

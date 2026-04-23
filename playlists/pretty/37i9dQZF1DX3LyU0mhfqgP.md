@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\. Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,438 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,421 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BRITTANY MURPHY.](https://open.spotify.com/track/4oUrl0RyDqr1DvNDvPNdRL) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:44 |
+| 1 | [CRANK](https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 2:55 |
 | 2 | [A Different Corner](https://open.spotify.com/track/7bt4SUQM5Mh6CIlFLkXHdn) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [A Different Corner](https://open.spotify.com/album/04KqIOGtMv9uJkagkupONe) | 3:59 |
 | 3 | [UNCANNY VALLEY](https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [HADES](https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l) | 3:16 |
 | 4 | [halfway to Hanna's](https://open.spotify.com/track/7uHGSKUBi948VP3Y9FmGMe) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [world's worst cowboy](https://open.spotify.com/album/4OYxKkGiz1GxJRh9dUJr3l) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Big Titties \(Little Titties\)](https://open.spotify.com/track/4NnUHyX1Ne2ZxXUU6NC8t5) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr), [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [Doin 2 Me](https://open.spotify.com/album/1YLhVGIipGLapMe9RAcYKv) | 2:10 |
 | 50 | [GOOD DAY](https://open.spotify.com/track/3TubRbPztEN9c3y09dItMb) | [ALÖW](https://open.spotify.com/artist/0pbSMcnKWHnNgCxbJOnx1z) | [GOOD DAY](https://open.spotify.com/album/2OHT0CKVeO6H64gSojHbZX) | 2:31 |
 
-Snapshot ID: `AAAAANPU4fAZGS18ZM7iqdofJSPvUfeI`
+Snapshot ID: `AAAAAEsW7GHEabdBBr0ZdAv+ehHZIKMh`

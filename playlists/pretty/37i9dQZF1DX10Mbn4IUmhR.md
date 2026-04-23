@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Tyla & Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,837 likes - 76 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,841 likes - 76 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 62 | [Ted Mosby](https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU) | [Sir Silly](https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO) | [Ted Mosby](https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC) | 2:51 |
 | 63 | [Untimely Disclosure](https://open.spotify.com/track/7g6WhPV8EJb2Lxs1AX9Mho) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [Untimely Disclosure](https://open.spotify.com/album/6bt64LXnIIgNvpF5nzrKaq) | 3:43 |
 | 64 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 |
-| 65 | [Give It To Me](https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet) | [Give It To Me](https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV) | 2:28 |
-| 66 | [Written](https://open.spotify.com/track/1G8iJbYCHs5GmUqdCy0vh4) | [GhostwriterMel](https://open.spotify.com/artist/7BXatN3mB4rAllCGNGNqDD) | [Written](https://open.spotify.com/album/6Tugfz5Byo1qKuQjdVOHhp) | 3:13 |
+| 65 | [Written](https://open.spotify.com/track/1G8iJbYCHs5GmUqdCy0vh4) | [GhostwriterMel](https://open.spotify.com/artist/7BXatN3mB4rAllCGNGNqDD) | [Written](https://open.spotify.com/album/6Tugfz5Byo1qKuQjdVOHhp) | 3:13 |
+| 66 | [Give It To Me](https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet) | [Give It To Me](https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV) | 2:28 |
 | 67 | [I want you to be happy](https://open.spotify.com/track/7dIohPKdV2O4wXxCfgXTzn) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [I want you to be happy](https://open.spotify.com/album/73hoSlv8YWoYsLOo8TdoLu) | 2:45 |
 | 68 | [Same Old](https://open.spotify.com/track/51oVvelyF8dLbqLjRWFqUS) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Same Old](https://open.spotify.com/album/7M3UFrc2dAvisOoCWCb0wp) | 3:30 |
 | 69 | [Late Adolescence](https://open.spotify.com/track/5gewN6F0jBrEkvwVz8C2ac) | [Rhedi](https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI), [Chiddy Bang](https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU), [Young Chux](https://open.spotify.com/artist/0Wb7p2SqDf9Efet2UUhvjb) | [Elementary 2](https://open.spotify.com/album/0EfX9usYFZFjFP0c6vW50y) | 2:44 |

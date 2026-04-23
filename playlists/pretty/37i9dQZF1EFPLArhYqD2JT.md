@@ -177,8 +177,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 167 | [That Society Bear](https://open.spotify.com/track/4qD8d9llYy7kwnGlYzqTsN) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [The Mad Twenties](https://open.spotify.com/album/0VGFYIbdHUhfCtdAfixyWI) | 2:29 |
 | 168 | [It's A Lovely Day Today](https://open.spotify.com/track/7nbHZdDr20xBRCw6ImR0NP) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Floatin' Like A Feather](https://open.spotify.com/album/6oyqcF1i6mdqUioivUM3tL) | 2:31 |
 | 169 | [Me](https://open.spotify.com/track/1z4FSEmQ1yEmEueJ4Pmvzs) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Fabulous Peggy Lee](https://open.spotify.com/album/6t9xUdzSvcogPLDiqiOxEd) | 2:30 |
-| 170 | [All Day Long \(Blue Skies\)](https://open.spotify.com/track/0PBGyHZznB9AxyUvko02Ag) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [All of Me \(Deluxe Version\)](https://open.spotify.com/album/1JN9fB6NOgVhAHtoPKGpeE) | 3:45 |
-| 171 | [Road To Zion](https://open.spotify.com/track/2KaKrUztUkKKy3HvWEYfsL) | [Furkan Kaya](https://open.spotify.com/artist/2XyUIftPSTikAWRwfmtzMG) | [Road To Zion](https://open.spotify.com/album/0X4QFev4ptMpTVn7WcCZaB) | 3:25 |
+| 170 | [Road To Zion](https://open.spotify.com/track/2KaKrUztUkKKy3HvWEYfsL) | [Furkan Kaya](https://open.spotify.com/artist/2XyUIftPSTikAWRwfmtzMG) | [Road To Zion](https://open.spotify.com/album/0X4QFev4ptMpTVn7WcCZaB) | 3:25 |
+| 171 | [All Day Long \(Blue Skies\)](https://open.spotify.com/track/0PBGyHZznB9AxyUvko02Ag) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [All of Me \(Deluxe Version\)](https://open.spotify.com/album/1JN9fB6NOgVhAHtoPKGpeE) | 3:45 |
 | 172 | [An Orange Grove in California](https://open.spotify.com/track/32ZRW7iqRksnABTkddEjYi) | [Sol Hoopii](https://open.spotify.com/artist/7314JFsVPBBoaOlSzGbdvL) | [The Legend of The Hawaiian Guitar](https://open.spotify.com/album/3E41uC3cfPnM5m5r91IRYp) | 3:05 |
 | 173 | [At the President's Birthday Ball](https://open.spotify.com/track/72BXSxzvk3vc0fLxuMupQo) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Complete Glenn Miller and His Orchestra](https://open.spotify.com/album/58rMb0yOYCIqwoDjdhwGlK) | 3:15 |
 | 174 | [Swanee Shuffle](https://open.spotify.com/track/4BMSEZIxnz39inabGBmeTS) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Dance the 1920s, Vol\. 7](https://open.spotify.com/album/7bfIaeJcq3qAHAtJirXguL) | 3:21 |
@@ -403,4 +403,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 393 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/07NsCTxS9SkrG7UHDw0dAy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 |
 | 394 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `AcPewAAAAAD3tV5g/DPerH2HXxs/4VGl`
+Snapshot ID: `AcPkkgAAAACGQyT8zT61qvr1phVsWJzP`

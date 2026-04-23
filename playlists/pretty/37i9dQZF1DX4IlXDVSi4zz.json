@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1013031,
+  "num_followers": 1013199,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,30 @@
     {
       "added_at": "2026-04-10 04:01:48",
       "album": {
+        "name": "Promises (with Sam Smith)",
+        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 213309,
+      "name": "Promises (with Sam Smith)",
+      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
+    },
+    {
+      "added_at": "2026-04-10 04:01:48",
+      "album": {
         "name": "Move (feat. Camila Cabello & Malachiii)",
         "url": "https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 180236,
       "name": "Move (feat. Camila Cabello & Malachiii)",
       "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
-    },
-    {
-      "added_at": "2026-04-10 04:01:48",
-      "album": {
-        "name": "Promises (with Sam Smith)",
-        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 213309,
-      "name": "Promises (with Sam Smith)",
-      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
     },
     {
       "added_at": "2026-04-10 04:01:48",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-04-10 04:01:48",
       "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        }
+      ],
+      "duration_ms": 169302,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
+    },
+    {
+      "added_at": "2026-04-10 04:01:48",
+      "album": {
         "name": "Dancin (feat. Luvli) [Krono Remix]",
         "url": "https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 198053,
       "name": "Dancin (feat. Luvli) - Krono Remix",
       "url": "https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM"
-    },
-    {
-      "added_at": "2026-04-10 04:01:48",
-      "album": {
-        "name": "Last Night",
-        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
-      },
-      "artists": [
-        {
-          "name": "Loofy",
-          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
-        }
-      ],
-      "duration_ms": 169302,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
     },
     {
       "added_at": "2026-04-10 04:01:48",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-04-10 04:01:48",
       "album": {
-        "name": "Alameyo",
-        "url": "https://open.spotify.com/album/4EqsGhVuaBaHndb3JzILFn"
-      },
-      "artists": [
-        {
-          "name": "Vidojean X Oliver Loenn",
-          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
-        }
-      ],
-      "duration_ms": 195625,
-      "name": "Alameyo",
-      "url": "https://open.spotify.com/track/42uAOnhBOaZ5hz1fjupFGJ"
-    },
-    {
-      "added_at": "2026-04-10 04:01:48",
-      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 173637,
       "name": "Salam",
       "url": "https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ"
+    },
+    {
+      "added_at": "2026-04-10 04:01:48",
+      "album": {
+        "name": "Alameyo",
+        "url": "https://open.spotify.com/album/4EqsGhVuaBaHndb3JzILFn"
+      },
+      "artists": [
+        {
+          "name": "Vidojean X Oliver Loenn",
+          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
+        }
+      ],
+      "duration_ms": 195625,
+      "name": "Alameyo",
+      "url": "https://open.spotify.com/track/42uAOnhBOaZ5hz1fjupFGJ"
     },
     {
       "added_at": "2026-04-10 04:01:48",
@@ -1735,34 +1735,6 @@
     {
       "added_at": "2026-04-10 04:01:48",
       "album": {
-        "name": "Meu Ver\u00e3o",
-        "url": "https://open.spotify.com/album/5lLsA0pN0mU93uFl7GU9VY"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        },
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Blotz",
-          "url": "https://open.spotify.com/artist/0BWTr4DfWCSNecOH1GnZEw"
-        }
-      ],
-      "duration_ms": 215433,
-      "name": "Meu Ver\u00e3o",
-      "url": "https://open.spotify.com/track/1M3osJunuDlz44RtVyCacx"
-    },
-    {
-      "added_at": "2026-04-10 04:01:48",
-      "album": {
         "name": "Asereje (Remix)",
         "url": "https://open.spotify.com/album/5wrHAkjZUkhPuj3hrHcmVB"
       },
@@ -1811,6 +1783,34 @@
       "duration_ms": 271007,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA"
+    },
+    {
+      "added_at": "2026-04-10 04:01:48",
+      "album": {
+        "name": "Meu Ver\u00e3o",
+        "url": "https://open.spotify.com/album/5lLsA0pN0mU93uFl7GU9VY"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        },
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Blotz",
+          "url": "https://open.spotify.com/artist/0BWTr4DfWCSNecOH1GnZEw"
+        }
+      ],
+      "duration_ms": 215433,
+      "name": "Meu Ver\u00e3o",
+      "url": "https://open.spotify.com/track/1M3osJunuDlz44RtVyCacx"
     },
     {
       "added_at": "2026-04-10 04:01:48",
@@ -2039,26 +2039,6 @@
     {
       "added_at": "2026-04-10 04:01:48",
       "album": {
-        "name": "La Musa (with Miluhska)",
-        "url": "https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Miluhska",
-          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
-        }
-      ],
-      "duration_ms": 183830,
-      "name": "La Musa (with Miluhska)",
-      "url": "https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt"
-    },
-    {
-      "added_at": "2026-04-10 04:01:48",
-      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
       },
@@ -2079,6 +2059,26 @@
       "duration_ms": 219221,
       "name": "Brinca (Acuario)",
       "url": "https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx"
+    },
+    {
+      "added_at": "2026-04-10 04:01:48",
+      "album": {
+        "name": "La Musa (with Miluhska)",
+        "url": "https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Miluhska",
+          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
+        }
+      ],
+      "duration_ms": 183830,
+      "name": "La Musa (with Miluhska)",
+      "url": "https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt"
     },
     {
       "added_at": "2026-04-10 04:01:48",

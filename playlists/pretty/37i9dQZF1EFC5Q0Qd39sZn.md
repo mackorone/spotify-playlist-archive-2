@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,547 likes - 581 songs - 1 day 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,551 likes - 581 songs - 1 day 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,8 +201,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 191 | [Emotional Fire \- Extended Remastered](https://open.spotify.com/track/45piW5hgUmj0wQJRxmzgFM) | [Denise](https://open.spotify.com/artist/4IhfYc5fG1itC02swMmUpo) | [Eurobeat Masters \- Remastered Vol.1](https://open.spotify.com/album/2c0ZSguh39wwivjEpim3gV) | 5:36 |
 | 192 | [I Hear Your Voice](https://open.spotify.com/track/5kcdhV63UOtO2CCj59olOC) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Time](https://open.spotify.com/album/4o5S5EwZLGCIvWOaWonhkA) | 4:00 |
 | 193 | [Nasty One Remix \(feat\. Stefflon Don, Kranium, HoodCelebrityy\)](https://open.spotify.com/track/2RuX6HJFN85balcuYh981T) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [HoodCelebrityy](https://open.spotify.com/artist/3PKyxkWOWIJ2tUnUTTeFlk), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Nasty One \(Remix\) \[feat\. Stefflon Don, Kranium, HoodCelebrityy\]](https://open.spotify.com/album/4KbGqjjyT4K3wInlhAZS3X) | 4:00 |
-| 194 | [Need to Be Next to You](https://open.spotify.com/track/4WuojYI1z4yKqDQu2NzbTu) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 4:29 |
-| 195 | [Take It to Heart](https://open.spotify.com/track/2mdNWsx6evoVi9IhD6P9uL) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Take It to Heart](https://open.spotify.com/album/26DyP2oh3gRsq5eNR1gjtV) | 5:57 |
+| 194 | [Take It to Heart](https://open.spotify.com/track/2mdNWsx6evoVi9IhD6P9uL) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Take It to Heart](https://open.spotify.com/album/26DyP2oh3gRsq5eNR1gjtV) | 5:57 |
+| 195 | [Need to Be Next to You](https://open.spotify.com/track/4WuojYI1z4yKqDQu2NzbTu) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 4:29 |
 | 196 | [No Quiero Estar Solo \- I Don't Want To Live Without Your Love](https://open.spotify.com/track/045UJJgTyiur8Nb43cgHdB) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [Tesoros De Colección](https://open.spotify.com/album/4FXrmGk8amalcdXTBy33Il) | 3:50 |
 | 197 | [Refugio De Amor \(You Are My Home\) \- Salsa](https://open.spotify.com/track/1RqKtxUtUC7niG3ob60jkV) | [Vanessa L\. Williams](https://open.spotify.com/artist/2LaI36n7EVNlR6SSqv9cKg), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne Fan's Pack \- Tiempo De Vals/Volver A Nacer/Atado A Tu Amor](https://open.spotify.com/album/4Uq8uQ70aZEXmyn4a3EnDZ) | 5:28 |
 | 198 | [I Would Find a Way](https://open.spotify.com/track/6fYrcILR5hdVlAAdcg4G4N) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 5:05 |
@@ -318,8 +318,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 308 | [Can't Fight the Moonlight](https://open.spotify.com/track/1oXQL2AMxAW90Td53z6Zp5) | [CHVRT H!TS](https://open.spotify.com/artist/3Q9m56PRztC7MN9fx3u8yP) | [THE BEST HITS OF THE 00S, VOL\. I](https://open.spotify.com/album/4BjdneVDpIFBwynll2z39B) | 3:39 |
 | 309 | [Listen With Your Heart](https://open.spotify.com/track/1BsIcp6FTuM8jSt4NYe5TW) | [Casey Donovan](https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X) | [For You](https://open.spotify.com/album/1uNMbDXBQrmYnsVpJYQV2H) | 4:01 |
 | 310 | [You Don't Have The Right](https://open.spotify.com/track/2VW7tqIuyIEUQ2fsq7Z8ji) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:43 |
-| 311 | [Never Dance Again](https://open.spotify.com/track/1VyIDVy3CCOEEswyYL0TkQ) | [Samantha Harvey](https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ) | [Never Dance Again](https://open.spotify.com/album/2XkZcDIBftWVKPWlKA50rH) | 4:05 |
-| 312 | [Couldn't We](https://open.spotify.com/track/5M9lp03sT5cuw48hMIjFf5) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:32 |
+| 311 | [Couldn't We](https://open.spotify.com/track/5M9lp03sT5cuw48hMIjFf5) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:32 |
+| 312 | [Never Dance Again](https://open.spotify.com/track/1VyIDVy3CCOEEswyYL0TkQ) | [Samantha Harvey](https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ) | [Never Dance Again](https://open.spotify.com/album/2XkZcDIBftWVKPWlKA50rH) | 4:05 |
 | 313 | [The Plumbing Song](https://open.spotify.com/track/4feL1rU1EcDRDQHetpFYlr) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Off The Deep End](https://open.spotify.com/album/6qr3P9IV7X8zSmRWUfKTNL) | 4:06 |
 | 314 | [Eu sim \(Io sì\)](https://open.spotify.com/track/7KreLkjzLSR87Re35YTdOu) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Io sì \(Seen\) \[From “The Life Ahead \(La vita davanti a sé\)”\]](https://open.spotify.com/album/1Z7aI937XmTwVAAHjekxqG) | 3:54 |
 | 315 | [What Are You Doing With a Fool Like Me \- Studio Version](https://open.spotify.com/track/1ADmyvNaireK0kH2xNdVyO) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker Live](https://open.spotify.com/album/6CpOgaWKkuIXrV3gqJmKMz) | 4:50 |
@@ -454,8 +454,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 444 | [Quitte\-moi](https://open.spotify.com/track/0KSuovcivqc10FWHWFUURH) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 4:03 |
 | 445 | [Work Me Down](https://open.spotify.com/track/2Oign5NCNEgk5OsDyl733V) | [The Jagged Edges](https://open.spotify.com/artist/134sHCB9XXwaf7En8ZwTWl) | [80's Revival](https://open.spotify.com/album/4ObiMqIu8DKqplcSB1jpY6) | 4:56 |
 | 446 | [To Get Here](https://open.spotify.com/track/549Sv1sewmEpAai5QaZCTd) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Last Movie Star Original Motion Picture Soundtrack](https://open.spotify.com/album/0jmKUjTFXhaf7Eialk8efy) | 3:38 |
-| 447 | [Get A Hold Of My Heart](https://open.spotify.com/track/4Korx62LE7rjq0zVEXBifn) | [The Smithereens](https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr) | [Blow Up](https://open.spotify.com/album/4TZDVaaWNQlukUdhwAgBUd) | 4:22 |
-| 448 | [Gently](https://open.spotify.com/track/4kj31RH60b7uWxEfLcaJ4m) | [Toshi Kubota](https://open.spotify.com/artist/3t2YGPlRfxGNhDTwTwyHPb) | [NOTHING BUT YOUR LOVE](https://open.spotify.com/album/5wlTeR34vv69owNdWR7lVt) | 4:49 |
+| 447 | [Gently](https://open.spotify.com/track/4kj31RH60b7uWxEfLcaJ4m) | [Toshi Kubota](https://open.spotify.com/artist/3t2YGPlRfxGNhDTwTwyHPb) | [NOTHING BUT YOUR LOVE](https://open.spotify.com/album/5wlTeR34vv69owNdWR7lVt) | 4:49 |
+| 448 | [Get A Hold Of My Heart](https://open.spotify.com/track/4Korx62LE7rjq0zVEXBifn) | [The Smithereens](https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr) | [Blow Up](https://open.spotify.com/album/4TZDVaaWNQlukUdhwAgBUd) | 4:22 |
 | 449 | [5 Minutes With God](https://open.spotify.com/track/3rDfxnKleq6lP8acGEalio) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Believe](https://open.spotify.com/album/2OGryqFC301zzdxgacYSbq) | 3:31 |
 | 450 | [Fatal Distraction](https://open.spotify.com/track/74mzeu6A1lTjgYRZEW8kcG) | [IF YOU DARE](https://open.spotify.com/artist/24LhTHlri6WopEv4StByYo) | [IF YOU DARE VOL\. 1](https://open.spotify.com/album/4bqo5KzYrGTaiehKdyRJ3S) | 3:22 |
 | 451 | [Fistibal \- Festival](https://open.spotify.com/track/4BgyQHLsjTIf7R3z4RmlP3) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Tuge](https://open.spotify.com/artist/2mE1cHocWbynDUIJFcruHT) | [Creole 101 \- Welcome To Haiti](https://open.spotify.com/album/274HvIfpOTSegdX30cCuOL) | 4:28 |
@@ -590,4 +590,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 580 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 581 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcPerAAAAAAgKq9PywGLLT+58n0yIM21`
+Snapshot ID: `AcPkfgAAAABucj79udK/7g79C17eYzGg`

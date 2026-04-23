@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,547 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,569 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 66 | [Lipstick On Your Collar](https://open.spotify.com/track/1tY8PhIOqDTx1GHDEhSuxh) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [The Collection](https://open.spotify.com/album/5B9weDFlXPPdoxM5HRyreL) | 2:16 |
 | 67 | [Lollipop](https://open.spotify.com/track/4A6Wc861ATCUC9tZe5S52X) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Hits](https://open.spotify.com/album/4F4lUBkTplYHYYCKFW9kZf) | 2:09 |
 | 68 | [Waitin' In School](https://open.spotify.com/track/5zYvVUfInIEx5xGR2qe3Ls) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Nelson \(Expanded Edition / Remastered\)](https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt) | 2:02 |
-| 69 | [Ooby Dooby](https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [At the Rock House](https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm) | 2:10 |
-| 70 | [New Rock The Joint](https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:18 |
-| 71 | [Money \(That's What I Want\)](https://open.spotify.com/track/0jqr2lIlIU09FsuSOibDdA) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [The Very Best Of](https://open.spotify.com/album/4Q06dq3TI47Aqm3NyH1bTO) | 2:40 |
+| 69 | [New Rock The Joint](https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:18 |
+| 70 | [Money \(That's What I Want\)](https://open.spotify.com/track/0jqr2lIlIU09FsuSOibDdA) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [The Very Best Of](https://open.spotify.com/album/4Q06dq3TI47Aqm3NyH1bTO) | 2:40 |
+| 71 | [Ooby Dooby](https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [At the Rock House](https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm) | 2:10 |
 | 72 | [Red River Rock](https://open.spotify.com/track/7EM1CeaWPjCdVY1vO0KiO4) | [Johnny & The Hurricanes](https://open.spotify.com/artist/5sgpmIi6mJNrm3fs3swCa7) | [Rockin' & Rollin' \(Volume 1\)](https://open.spotify.com/album/3L5LMEk9l6WaSgBmIU0j2G) | 2:08 |
 | 73 | [Somethin' Else](https://open.spotify.com/track/3Ib94mN8YF3cXZo5x1FpQL) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/2hG6zzSJdElBvyRfWFQ284) | 2:05 |
 | 74 | [Love Potion No.9](https://open.spotify.com/track/5WAPUAldIHRM28j5fUl1ak) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [Love Potion No\. 9](https://open.spotify.com/album/5HbF1nApfbDTgm6Xhmon3Q) | 1:52 |

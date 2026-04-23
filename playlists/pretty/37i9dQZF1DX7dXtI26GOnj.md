@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Shakira, Belée
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,335 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,363 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 56 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |
 | 57 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 |
 | 58 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 |
-| 59 | [Bésame](https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Bésame](https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl) | 3:22 |
-| 60 | [De Vuelta](https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:47 |
+| 59 | [De Vuelta](https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:47 |
+| 60 | [Bésame](https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Bésame](https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl) | 3:22 |
 | 61 | [Sigueme Besando Asi](https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sigueme Besando Asi](https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f) | 3:05 |
 | 62 | [GuabanSexxx](https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GuabanSexxx](https://open.spotify.com/album/0kKZV7SgHvDgvpV4iLNBjq) | 2:41 |
 | 63 | [Gustito](https://open.spotify.com/track/6bnRaOOeHjKAMNMGebdkn6) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Gustito](https://open.spotify.com/album/70HzCjyY0o9hY8OssJfNM8) | 2:55 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 68 | [MONOBLOCK](https://open.spotify.com/track/4P5gQPkLP15FZEZ0gHHM4l) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [MONOBLOCK](https://open.spotify.com/album/3zQ2R9T4fK8wv2AHAqsLW1) | 2:06 |
 | 69 | [ADRENALINA](https://open.spotify.com/track/50pkxDzzTceIjWcxcTRE5l) | [AF!RMA](https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS), [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk) | [ADRENALINA](https://open.spotify.com/album/4DQWPyCz5m3VdWT8ueitYJ) | 2:35 |
 | 70 | [Dame Toma](https://open.spotify.com/track/7j0pRdDEOcr8fwonHy5QCc) | [CLUB29](https://open.spotify.com/artist/0znqrbxQ21Vdr4bhrbzPH4), [Manu Dal Santo](https://open.spotify.com/artist/0b1vlMqqnLOtD28hVLVvzB), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Boschin](https://open.spotify.com/artist/1VBrrTVQwAdCZ0panaIhHo) | [Dame Toma](https://open.spotify.com/album/2si8k8pdBqNEX1MmcD6kUZ) | 2:10 |
-| 71 | [NAMORAR PELADO](https://open.spotify.com/track/1YrwCp6p69CuwiY2JTIZ3e) | [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH), [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Namorar Pelado](https://open.spotify.com/album/2FHyinjQkyFkP10QI3wfMQ) | 3:10 |
+| 71 | [NAMORAR PELADO](https://open.spotify.com/track/1YrwCp6p69CuwiY2JTIZ3e) | [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH), [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [NAMORAR PELADO](https://open.spotify.com/album/2FHyinjQkyFkP10QI3wfMQ) | 3:10 |
 | 72 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
 | 73 | [Bailando en la Lluvia](https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Bailando en la Lluvia](https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk) | 2:53 |
 | 74 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |

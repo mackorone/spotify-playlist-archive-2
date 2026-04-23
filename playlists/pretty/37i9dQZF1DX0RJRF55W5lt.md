@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Sunship
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,106 likes - 75 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,256 likes - 75 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 63 | [Dancing for Heaven \- Club](https://open.spotify.com/track/70YTThyJzwfYhy8old5EAu) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [House Tracks for the Dancefloor, Vol\. One](https://open.spotify.com/album/4NONAXdztl5tL39YurSOj9) | 6:12 |
 | 64 | [Love Bug \- Bump Mix](https://open.spotify.com/track/1aNW5AgRPpg4M10r7R7EcH) | [Ramsey](https://open.spotify.com/artist/0Jc5OpQ81K0Vbt6ESFB6zU), [Fen](https://open.spotify.com/artist/5YcvAFIoignxIQf2xrFOVL), [Lyndsey Moore](https://open.spotify.com/artist/7jc4bFQYRoQwlCWvquX5SD) | [Pure Garage Rewind](https://open.spotify.com/album/2SUjSPglsVlIv9pom5A9vq) | 5:55 |
 | 65 | [Do It Right Baby](https://open.spotify.com/track/5Xt5Tb41aRmIKBpPG3VBYA) | [Dub Syndicate](https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4) | [UK Garage Classics \- Best of Jeremy Sylvester, Vol\. 3](https://open.spotify.com/album/5xZ01zf5Pb93RJnt46sAuT) | 6:04 |
-| 66 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 |
+| 66 | [Let's Groove](https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves \(Pt\. 4\)](https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A) | 6:57 |
 | 67 | [The Chant W.E.R](https://open.spotify.com/track/3U3hN333aFVLwFlLvIIMx3) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [4X4, Vol\. 1](https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk) | 6:10 |
-| 68 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
-| 69 | [Let's Groove](https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves \(Pt\. 4\)](https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A) | 6:57 |
+| 68 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 |
+| 69 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
 | 70 | [Dooms Night \- Timo Maas Radio Edit](https://open.spotify.com/track/5EI0N84j0ReqnQmDfalEmf) | [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Dooms Night](https://open.spotify.com/album/2218GRd8YlRG9RMVx6mD5N) | 3:46 |
 | 71 | [Imagine \- Asylum Remix](https://open.spotify.com/track/7cQjdDB3ihCB7awAOZcfuE) | [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [Pure Garage Reload \- The Very Best Of Old Skool Garage](https://open.spotify.com/album/4FVSogOmseVSnVJwvFEwQa) | 5:41 |
 | 72 | [The Rub](https://open.spotify.com/track/4vZManO1cgneOP8PV0bbZu) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 5:04 |

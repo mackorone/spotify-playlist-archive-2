@@ -1,13 +1,29 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Sean Solomon",
-  "num_followers": 97102,
+  "num_followers": 97116,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGdxXIMEgc5KjCzasWHGQ4ze/0iy",
+  "snapshot_id": "AAAAAHqPxe2+RBiAWMMrNIKD3JYEoqJ7",
   "tracks": [
+    {
+      "added_at": "2026-04-22 16:18:30",
+      "album": {
+        "name": "Malvern Star",
+        "url": "https://open.spotify.com/album/2cRbGWbAjXKeGXnlCp1Ewf"
+      },
+      "artists": [
+        {
+          "name": "Scratching",
+          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
+        }
+      ],
+      "duration_ms": 211106,
+      "name": "Malvern Star",
+      "url": "https://open.spotify.com/track/4fE7Ddf94LW0d3svuj4W8E"
+    },
     {
       "added_at": "2026-04-15 17:14:04",
       "album": {
@@ -27,6 +43,22 @@
     {
       "added_at": "2026-04-15 17:14:04",
       "album": {
+        "name": "Pearl Cloud Song",
+        "url": "https://open.spotify.com/album/5CFZFveOSHzFGL3UCekS38"
+      },
+      "artists": [
+        {
+          "name": "Juni Habel",
+          "url": "https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ"
+        }
+      ],
+      "duration_ms": 260464,
+      "name": "Pearl Cloud Song",
+      "url": "https://open.spotify.com/track/2GOC8SnvzxwJS66nKVNaBC"
+    },
+    {
+      "added_at": "2026-04-15 17:14:04",
+      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/0Wi1YKnlOHLUm3AlA7dGGW"
       },
@@ -39,6 +71,54 @@
       "duration_ms": 248148,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ"
+    },
+    {
+      "added_at": "2026-04-22 16:18:30",
+      "album": {
+        "name": "Ghost / Embers",
+        "url": "https://open.spotify.com/album/2GncSUchBvdU6DIkSbWet0"
+      },
+      "artists": [
+        {
+          "name": "e4444e",
+          "url": "https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC"
+        }
+      ],
+      "duration_ms": 176436,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7hSmujtJglQ0cXd0aDnLlU"
+    },
+    {
+      "added_at": "2026-04-22 16:18:30",
+      "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/0ehkiwlcpGfMa7ylNvPS7z"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Kemplay",
+          "url": "https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ"
+        }
+      ],
+      "duration_ms": 211059,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1pcdYtroFnCW20yfUJxffT"
+    },
+    {
+      "added_at": "2026-04-22 16:18:30",
+      "album": {
+        "name": "Gladly Lost in Love",
+        "url": "https://open.spotify.com/album/20JO3Z9L647vfRO5GKQYsB"
+      },
+      "artists": [
+        {
+          "name": "Thomas Flynn",
+          "url": "https://open.spotify.com/artist/74cT8MAv0JwkUku9MKJtZj"
+        }
+      ],
+      "duration_ms": 121053,
+      "name": "Gladly Lost in Love",
+      "url": "https://open.spotify.com/track/29UT6heUG7vUeeMTsL6mgb"
     },
     {
       "added_at": "2026-04-15 17:14:04",
@@ -57,20 +137,36 @@
       "url": "https://open.spotify.com/track/6LqCRU03LUuicE0Y3IGzWG"
     },
     {
-      "added_at": "2026-04-15 17:14:04",
+      "added_at": "2026-04-22 16:18:30",
       "album": {
-        "name": "Pearl Cloud Song",
-        "url": "https://open.spotify.com/album/5CFZFveOSHzFGL3UCekS38"
+        "name": "Wash My Pain Away",
+        "url": "https://open.spotify.com/album/18C1zHsomKERvtv69EzVak"
       },
       "artists": [
         {
-          "name": "Juni Habel",
-          "url": "https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ"
+          "name": "Femi Luna",
+          "url": "https://open.spotify.com/artist/76e5g5LPWUlEHtTjKwSfsW"
         }
       ],
-      "duration_ms": 260464,
-      "name": "Pearl Cloud Song",
-      "url": "https://open.spotify.com/track/2GOC8SnvzxwJS66nKVNaBC"
+      "duration_ms": 173613,
+      "name": "Wash My Pain Away",
+      "url": "https://open.spotify.com/track/0O5WTZ1HqTHLWWBsDwP5VS"
+    },
+    {
+      "added_at": "2026-04-22 16:18:30",
+      "album": {
+        "name": "Summer Coat",
+        "url": "https://open.spotify.com/album/7DelU1erMzu42TQbMzYoqv"
+      },
+      "artists": [
+        {
+          "name": "Attic Abasement",
+          "url": "https://open.spotify.com/artist/6rK6AcigKtQ4v9hg7vejwm"
+        }
+      ],
+      "duration_ms": 303840,
+      "name": "Summer Coat",
+      "url": "https://open.spotify.com/track/6XfQtTBlv8tq3IU1FejpJD"
     },
     {
       "added_at": "2026-04-01 16:00:36",
@@ -87,6 +183,38 @@
       "duration_ms": 290853,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/3NrEbIEbmFLBKF5zruZLLX"
+    },
+    {
+      "added_at": "2026-04-22 16:18:30",
+      "album": {
+        "name": "The Mirror",
+        "url": "https://open.spotify.com/album/0iJdKGzrGutX6ec9eooCie"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 125698,
+      "name": "The Mirror",
+      "url": "https://open.spotify.com/track/3afTokYq5ULFPgMF7bU8cP"
+    },
+    {
+      "added_at": "2026-04-22 16:18:30",
+      "album": {
+        "name": "Little Bird In A Big Sky",
+        "url": "https://open.spotify.com/album/4FqFSWqv4oeGpk3cVaV02I"
+      },
+      "artists": [
+        {
+          "name": "Bonner Black",
+          "url": "https://open.spotify.com/artist/2VqvExXMDEoDd0EgDUw8kz"
+        }
+      ],
+      "duration_ms": 197754,
+      "name": "Little Bird In A Big Sky",
+      "url": "https://open.spotify.com/track/0A0AX5cmshKvQuQwJnSn5X"
     },
     {
       "added_at": "2026-04-08 18:54:44",
@@ -953,54 +1081,6 @@
       "url": "https://open.spotify.com/track/2zIFh6fcbxyNSuJOahMSdx"
     },
     {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "swan",
-        "url": "https://open.spotify.com/album/4a8pwVOYatWOp9ADOGR7P6"
-      },
-      "artists": [
-        {
-          "name": "Fazed on a Pony",
-          "url": "https://open.spotify.com/artist/6a9mnvRpDYNXCq0loqP3Md"
-        }
-      ],
-      "duration_ms": 171111,
-      "name": "The Perfect Swan",
-      "url": "https://open.spotify.com/track/1s8DOpV7PQZcnbZyPMzotN"
-    },
-    {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "End",
-        "url": "https://open.spotify.com/album/6UTDjTqL5SNUUO9cO55Uc9"
-      },
-      "artists": [
-        {
-          "name": "Olsith",
-          "url": "https://open.spotify.com/artist/4To3IUs8dDf6gHJxvFDgZT"
-        }
-      ],
-      "duration_ms": 207375,
-      "name": "End",
-      "url": "https://open.spotify.com/track/2pi79FG0BWAYX92ccmIuh9"
-    },
-    {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/1yn8sAYRP3l4F624E2mwy8"
-      },
-      "artists": [
-        {
-          "name": "Otracami",
-          "url": "https://open.spotify.com/artist/6VZhV0nHzh64xErbe4OHZs"
-        }
-      ],
-      "duration_ms": 213888,
-      "name": "Please",
-      "url": "https://open.spotify.com/track/7wtU8CEcIELlWhmvC0hqZx"
-    },
-    {
       "added_at": "2026-01-28 17:00:07",
       "album": {
         "name": "Beadie",
@@ -1029,7 +1109,7 @@
         }
       ],
       "duration_ms": 370659,
-      "name": "The Man Who Seeks Pleasure",
+      "name": "The Man Who Seeks Pleasure - Live from Ailfionn Studios",
       "url": "https://open.spotify.com/track/32msSh7ipShC5euqD5Yc9O"
     },
     {
@@ -1063,90 +1143,6 @@
       "duration_ms": 215513,
       "name": "(easily) moved",
       "url": "https://open.spotify.com/track/6wK8WtrJBXGVEk0sXX6XZG"
-    },
-    {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
-        "name": "Joy and Despair",
-        "url": "https://open.spotify.com/album/3PGbpvjDxnIdiTLbfcNYJy"
-      },
-      "artists": [
-        {
-          "name": "Charlie Noordewier",
-          "url": "https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk"
-        }
-      ],
-      "duration_ms": 240451,
-      "name": "Joy and Despair",
-      "url": "https://open.spotify.com/track/1viACvU6BoSNO0VEziw9QT"
-    },
-    {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
-        "name": "Antiques Roadshow",
-        "url": "https://open.spotify.com/album/37alqkw5tMbfwctsebZhCD"
-      },
-      "artists": [
-        {
-          "name": "The Enthusiast",
-          "url": "https://open.spotify.com/artist/0U1BO9Q6anmBv1RjO3lFN8"
-        }
-      ],
-      "duration_ms": 212562,
-      "name": "Antiques Roadshow",
-      "url": "https://open.spotify.com/track/5JfAj4ssZg6yF28C7UKdOL"
-    },
-    {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
-        "name": "Gale",
-        "url": "https://open.spotify.com/album/3EhSBVM5HLJO37J0QRvLsS"
-      },
-      "artists": [
-        {
-          "name": "Emma Harner",
-          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Gale",
-      "url": "https://open.spotify.com/track/6nFUqMJ8bGX78npDfMm8Ho"
-    },
-    {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
-        "name": "George Jones (ft. Angela Autumn)",
-        "url": "https://open.spotify.com/album/7t5DjAvZEkYKkej5qiDDN1"
-      },
-      "artists": [
-        {
-          "name": "Deloyd Elze",
-          "url": "https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo"
-        },
-        {
-          "name": "Angela Autumn",
-          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
-        }
-      ],
-      "duration_ms": 215691,
-      "name": "George Jones (ft. Angela Autumn)",
-      "url": "https://open.spotify.com/track/5OUGnKAiNCNxX3RXsGTcMI"
-    },
-    {
-      "added_at": "2026-01-21 17:00:04",
-      "album": {
-        "name": "(Me Tomorrow)",
-        "url": "https://open.spotify.com/album/6vWe2PHNscc7llWzzb2FIZ"
-      },
-      "artists": [
-        {
-          "name": "tofusmell",
-          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "(Me Tomorrow)",
-      "url": "https://open.spotify.com/track/6pGt3J3K2IkAibPJqipCkF"
     },
     {
       "added_at": "2026-01-14 17:00:23",

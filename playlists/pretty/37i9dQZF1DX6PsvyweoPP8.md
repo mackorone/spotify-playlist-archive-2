@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,572 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,581 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 5 | [Uma Noite](https://open.spotify.com/track/4e1lc0w7omCgbnEQ1AFMRT) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Uma Noite](https://open.spotify.com/album/2hDK9lkrn4rurpcerkffim) | 2:47 |
 | 6 | [BESTEIRA](https://open.spotify.com/track/0E465IMxrBKROSkIFpiS20) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [VADIAS IN LOVE](https://open.spotify.com/album/2EEAD31nCgaqX1jfjuXT2p) | 3:24 |
 | 7 | [Pente e Rala](https://open.spotify.com/track/0rziLToFoDPVwBWEYt2lIA) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [ayo white](https://open.spotify.com/artist/4QqroK2g4AEB3FEnSjutjU) | [Pente e Rala](https://open.spotify.com/album/0dWVRvAta9n35DTYIvHQh7) | 2:24 |
-| 8 | [Ludmilla](https://open.spotify.com/track/66JF1fFWQ83OYM6Sh8JCp7) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Manocchio](https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2), [s1ckb0y](https://open.spotify.com/artist/3DNpz3cyHHzNzPurLiPZH3), [NAVII](https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb) | [Cinza antes do Azul](https://open.spotify.com/album/4051MjVtRh4z2T4K2LWPHr) | 2:43 |
+| 8 | [Ludmilla](https://open.spotify.com/track/66JF1fFWQ83OYM6Sh8JCp7) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Manocchio](https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2), [s1ckb0y](https://open.spotify.com/artist/3DNpz3cyHHzNzPurLiPZH3), [NAVII](https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb), [braga!](https://open.spotify.com/artist/0gEghpGEtah4xN4sfKHF2Y) | [Cinza antes do Azul](https://open.spotify.com/album/4051MjVtRh4z2T4K2LWPHr) | 2:43 |
 | 9 | [QUEIMA A PÓLVORA](https://open.spotify.com/track/0FusygFcimNwceY0k6sDRY) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [QUEIMA A PÓLVORA](https://open.spotify.com/album/4x08ydWgwv4iLflcSdKNqt) | 2:28 |
 | 10 | [Magia](https://open.spotify.com/track/1OGzxVDGfZ9gnDJCgbqB2I) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [ARꓘANO](https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl) | 1:13 |
 | 11 | [Com Respeito](https://open.spotify.com/track/5IZzy8Nafx9OL83LlPyztr) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedrix](https://open.spotify.com/artist/6Kvajdlb4SCfkEuajloA3q) | [Com Respeito](https://open.spotify.com/album/6vt1TtgPBXusAw8EXQct2V) | 2:47 |

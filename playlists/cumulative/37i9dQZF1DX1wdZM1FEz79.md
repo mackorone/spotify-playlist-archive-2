@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 1415\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 볼빨간사춘기 \(BOL4\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-674 songs - 1 day 15 hr 36 min
+675 songs - 1 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Don't Hurt the Island Please](https://open.spotify.com/track/1FBEwUknugg7TJC70uVJ7s) | [Hanbona](https://open.spotify.com/artist/5Ks1S1FGw6Yym0Km9XCrsH) | [Don't Hurt the Island Please](https://open.spotify.com/album/3kNufrGn0Vxd0KCUoWWBlt) | 3:24 | 2021-12-10 | 2022-04-08 |
 | [Don't leave me \(feat\. Hoyeon Kim\)](https://open.spotify.com/track/3bLUVw82XR2OEdA7QdDTPN) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Don't leave me](https://open.spotify.com/album/7l0LoW9qqxnZSg1ZsDXNln) | 2:34 | 2025-03-14 | 2025-05-15 |
 | [DOOR](https://open.spotify.com/track/6NvhwP4B7VoUnl7im626ef) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [The Last Boy In The Class 3](https://open.spotify.com/album/2iGvzSxSwjEM3aXM9n8lxb) | 1:48 | 2025-05-21 | 2025-06-10 |
-| [Dot Dot](https://open.spotify.com/track/7etmWD7UbQ8j1PARyKRpRE) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [End of the Month, Jang Beom June \(March 2026\) \- Dot Dot](https://open.spotify.com/album/6fjfTNc0MNYatZJbTOZ1d1) | 3:38 | 2026-04-01 |  |
+| [Dot Dot](https://open.spotify.com/track/7etmWD7UbQ8j1PARyKRpRE) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [End of the Month, Jang Beom June \(March 2026\) \- Dot Dot](https://open.spotify.com/album/6fjfTNc0MNYatZJbTOZ1d1) | 3:38 | 2026-04-01 | 2026-04-23 |
 | [Dozy Dozy](https://open.spotify.com/track/3WKdOdaC8iHUxmMdH3wCtx) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [RESTORE : A](https://open.spotify.com/album/6DFNZmHSfrwN8vdaJWPnaB) | 4:47 | 2022-11-25 | 2023-01-11 |
 | [Drawing](https://open.spotify.com/track/7ykvewPaJOFaFesFDtUO7N) | [Kang Jeonhan](https://open.spotify.com/artist/3mWjp3jzaJVV6gHbrUNMXz) | [Drawing](https://open.spotify.com/album/01mxZOqvTAB7OCvO997KQQ) | 4:14 | 2022-03-31 | 2022-04-20 |
 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 | 2022-06-18 |  |
@@ -162,6 +162,7 @@
 | [farewell](https://open.spotify.com/track/5hA75OHYKyPHy4kgeweYdN) | [kennytheking](https://open.spotify.com/artist/4693A2I2TyU25cJJLJXgYS) | [farewell](https://open.spotify.com/album/3eTH3qFWitLWTLh8iRNrOd) | 2:39 | 2023-02-14 | 2023-02-25 |
 | [Favorite Things](https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01) | [Bok Dajin](https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx) | [Favorite Things](https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z) | 3:08 | 2024-12-05 | 2025-06-03 |
 | [figure8](https://open.spotify.com/track/0NX3sVBBiOqL0nprLHTeT0) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [dopamine](https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76) | 3:49 | 2024-06-19 | 2024-09-03 |
+| [Find You](https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Find You](https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz) | 2:55 | 2026-04-22 |  |
 | [Fine](https://open.spotify.com/track/4QaqH8QPjz88z79Vo8tpEc) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Fine](https://open.spotify.com/album/2KKDysbROKOvoGMokZADLZ) | 4:11 | 2022-02-18 | 2022-04-20 |
 | [Fine](https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:29 | 2021-12-10 |  |
 | [firefly](https://open.spotify.com/track/0Yl0RQL6YAbZvAZMBuRlfG) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Firefly](https://open.spotify.com/album/31wQ8LKIBv4YGM10scKFUq) | 3:22 | 2025-12-02 | 2025-12-05 |
@@ -186,7 +187,7 @@
 | [Get Some Rest](https://open.spotify.com/track/7sFwQlJzLGtFTqRLiUhIRf) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Trip: playlist \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/1t8sSIbYtla3EA86W4Dkzs) | 2:42 | 2024-03-06 | 2024-03-16 |
 | [Getaway](https://open.spotify.com/track/4Cb6AY4bjiSz6zIJmK2gWD) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Getaway](https://open.spotify.com/album/1UDjEv6O7uO6Mq9IQ3regW) | 1:56 | 2025-12-19 | 2026-01-15 |
 | [Gift](https://open.spotify.com/track/768qjgYUQghPWwiB7bOO8v) | [LEE JINJAE](https://open.spotify.com/artist/1i1n72fBCccroesjc4QJy6), [Lee Hyun Seok](https://open.spotify.com/artist/3hwqsPYE2apLL7pqeG8mvZ) | [Illustration Music Collaboration with Keykney](https://open.spotify.com/album/32wtvoiec5kgcVZxJ3rWHV) | 3:22 | 2025-08-18 | 2025-08-21 |
-| [Give U the Universe](https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Our Universe \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I) | 3:01 | 2026-02-20 |  |
+| [Give U the Universe](https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Our Universe \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I) | 3:01 | 2026-02-20 | 2026-04-23 |
 | [Gleaning](https://open.spotify.com/track/0G5gCyheNKiXyfei3xhIBe) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp) | [See You, Evergreen](https://open.spotify.com/album/1EdlJAIAYCgiGlpkawfazJ) | 4:27 | 2026-03-27 |  |
 | [Going Home](https://open.spotify.com/track/2XgJawz0ICRWPMu6fLUM18) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [School 2017, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TNyLDNbnUnxnoLTS8pouH) | 3:24 | 2022-03-31 | 2022-04-21 |
 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 | 2021-12-10 | 2024-09-03 |
@@ -214,7 +215,7 @@
 | [Hide And Seek](https://open.spotify.com/track/6kgbXxqe6gDKMYrjNL3zqD) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Jumpin'](https://open.spotify.com/album/5zIcY1Rd64xth4HmCwmYwu) | 2:57 | 2022-03-31 | 2022-04-16 |
 | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp), [kimminseong](https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq) | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/album/18soFYAFOWDmjUpL4R09bG) | 3:44 | 2026-03-06 | 2026-04-02 |
 | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/track/40YR1sAECqtYHaiN4wzQ9e) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/album/7ttphjk6H0f6fQ95WyOp5b) | 1:28 | 2022-03-31 | 2022-04-18 |
-| [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 | 2022-03-07 | 2026-04-14 |
+| [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 | 2022-03-07 |  |
 | [HOME](https://open.spotify.com/track/5TgEh8iGP5sfusUa1R5Z0H) | [HANUM](https://open.spotify.com/artist/6VniDsTqx9dE63GYUWM5AH) | [HOME](https://open.spotify.com/album/4iXVWGwbnDMI78HAx5WRT0) | 2:53 | 2022-12-20 | 2023-01-11 |
 | [home town](https://open.spotify.com/track/0UM7QmLlgoMOgwohLPtXbB) | [iseo](https://open.spotify.com/artist/1sJcgK5qmEdJzFtw7EGKHy) | [hometown](https://open.spotify.com/album/251GBeMnMBt09acRMBsOKb) | 3:01 | 2025-06-09 | 2025-06-25 |
 | [hometown](https://open.spotify.com/track/7MOMJntlnsDH95Q9KBbpGh) | [HAEBIN](https://open.spotify.com/artist/79e9aBzsPX9kSAqUxMNKQL) | [hometown](https://open.spotify.com/album/2OQOLKNqzQJAaRgEsQC3z3) | 3:13 | 2022-03-31 | 2022-04-20 |

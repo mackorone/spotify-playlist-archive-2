@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
 
-1,672 songs - 4 day 17 hr 7 min
+1,673 songs - 4 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Alright Alright Alright](https://open.spotify.com/track/6FoYuFpYLbu4kKIKOtARBm) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Alright Alright Alright](https://open.spotify.com/album/2loYX0tWMVfFu6AyWSZTDw) | 2:04 | 2025-06-25 | 2025-08-14 |
 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 | 2022-10-20 | 2022-11-24 |
 | [Always There](https://open.spotify.com/track/0vq5vqbGfNydG2XaSBVRxx) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 3:41 | 2022-10-12 | 2022-11-17 |
-| [Amaro](https://open.spotify.com/track/7ju5clDlfi2w1Busf1TjJT) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Amaro](https://open.spotify.com/album/2bq7mOidVQrgdhNq5ZveNq) | 3:08 | 2026-03-11 |  |
+| [Amaro](https://open.spotify.com/track/7ju5clDlfi2w1Busf1TjJT) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Amaro](https://open.spotify.com/album/2bq7mOidVQrgdhNq5ZveNq) | 3:08 | 2026-03-11 | 2026-04-23 |
 | [Ambulance](https://open.spotify.com/track/3jZNHYcFJZoLKN9cW1su7T) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Secret Measure](https://open.spotify.com/album/73LD5wqN5VgYoWQN5gNN6q) | 2:52 | 2023-05-10 | 2023-06-29 |
 | [American Airlines](https://open.spotify.com/track/7z5Y9yzEe4tj7ToFrVGW0W) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [American Airlines](https://open.spotify.com/album/1M7JnxPhr7qDTIOJKRAUKc) | 3:56 | 2022-10-06 | 2022-11-10 |
 | [american food](https://open.spotify.com/track/5lTL2lj3PUKA5qiIK3i5hw) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [american food](https://open.spotify.com/album/7rLnSbLPod9IoPvcu3NWrd) | 3:11 | 2025-05-28 | 2025-06-26 |
@@ -467,6 +467,7 @@
 | [Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn) | [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Expression On Your Face](https://open.spotify.com/album/0SylYxgzz1dgwuN4ItVB3u) | 2:53 | 2025-06-18 | 2025-07-24 |
 | [Eyes Closed](https://open.spotify.com/track/7dTZ0dEnpFed6ohli3g5NE) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Eyes Closed](https://open.spotify.com/album/6GTw2AKd5RhtzkMQ9utnGJ) | 2:57 | 2025-10-29 | 2026-02-27 |
 | [Face Of God](https://open.spotify.com/track/1TPWOE9KMPihB44CTXyYHE) | [Lush Duck](https://open.spotify.com/artist/7Jc4asBe7zfajAZI04Rh90) | [Face Of God](https://open.spotify.com/album/212GSKbV7595aV6uQ2Opef) | 3:23 | 2025-06-18 | 2026-01-29 |
+| [Face Of God](https://open.spotify.com/track/6zp5Pd20xjCfkXteNzortC) | [Lush Duck](https://open.spotify.com/artist/7Jc4asBe7zfajAZI04Rh90) | [Face Of God](https://open.spotify.com/album/3vFgYj1ZoKHQ3yrdqei1fs) | 3:23 | 2026-04-22 |  |
 | [Faded and Golden](https://open.spotify.com/track/5PRaqte3YCXbOUrTC1ljmT) | [Caroline Says](https://open.spotify.com/artist/10U1DbsjhgAqUMcouK267Q) | [Faded and Golden](https://open.spotify.com/album/0uRPSDSldsNPPRQ78Sy6Xl) | 3:13 | 2024-09-25 | 2024-10-31 |
 | [Fairlies](https://open.spotify.com/track/0xqYAKEIAvDslG3rS3YnMy) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Fairlies](https://open.spotify.com/album/2DcmRXCeUVWmKXf8ycrOED) | 4:10 | 2023-05-10 | 2023-06-29 |
 | [Fall for You](https://open.spotify.com/track/5ILyLGyJ7V4uXuXHB5ZVla) | [SACRED PAWS](https://open.spotify.com/artist/0loUVauivVQPRdqkbd250b) | [Fall for You](https://open.spotify.com/album/3Krvyyu1XzSt4ZJS4n7ZLv) | 2:30 | 2025-02-26 | 2025-04-10 |

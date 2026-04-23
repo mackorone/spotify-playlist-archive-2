@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 85610,
+  "num_followers": 85651,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
-        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
-      },
-      "artists": [
-        {
-          "name": "Bubber Miley",
-          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "I Lost My Gal from Memphis",
-      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Simply Stated",
         "url": "https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 600493,
       "name": "Dear Old Stockholm",
       "url": "https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
+        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
+      },
+      "artists": [
+        {
+          "name": "Bubber Miley",
+          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "I Lost My Gal from Memphis",
+      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
+        "name": "Take a Coffee Break",
+        "url": "https://open.spotify.com/album/15RS9hTyIwntnc0MEK1Aec"
+      },
+      "artists": [
+        {
+          "name": "Booker Little",
+          "url": "https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv"
+        }
+      ],
+      "duration_ms": 397017,
+      "name": "Hazy Blues",
+      "url": "https://open.spotify.com/track/32BWDfFFyb8WeIh7pdaAnJ"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
         "name": "Oscar Peterson Trio Plus One",
         "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 208240,
       "name": "Squeaky's Blues",
       "url": "https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
-        "name": "Take a Coffee Break",
-        "url": "https://open.spotify.com/album/15RS9hTyIwntnc0MEK1Aec"
-      },
-      "artists": [
-        {
-          "name": "Booker Little",
-          "url": "https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv"
-        }
-      ],
-      "duration_ms": 397017,
-      "name": "Hazy Blues",
-      "url": "https://open.spotify.com/track/32BWDfFFyb8WeIh7pdaAnJ"
     },
     {
       "added_at": "2025-09-10 12:53:12",

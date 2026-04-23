@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 613098,
+  "num_followers": 613064,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Goodbye to the Valley Low (Side A)",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "Stolen Seasons",
-      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 232170,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Goodbye to the Valley Low (Side A)",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/7AF8UxAKHt77J9j8ZBpH7J"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "ADMT",
+          "url": "https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF"
         }
       ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
+      "duration_ms": 189152,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/7mABSSPLVFF6HGlVLhmSsZ"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -731,18 +731,34 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/7AF8UxAKHt77J9j8ZBpH7J"
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
       },
       "artists": [
         {
-          "name": "ADMT",
-          "url": "https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 189152,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/7mABSSPLVFF6HGlVLhmSsZ"
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -763,22 +779,6 @@
       "duration_ms": 251000,
       "name": "The Parting Glass",
       "url": "https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
-        "name": "Just Because",
-        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Here It Is",
-        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "Here It Is",
-      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Hard To Be Human",
-        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
+        "name": "Here It Is",
+        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
         }
       ],
-      "duration_ms": 170414,
-      "name": "Hard To Be Human",
-      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
+      "duration_ms": 193389,
+      "name": "Here It Is",
+      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1139,6 +1123,22 @@
       "duration_ms": 213882,
       "name": "Samma saga",
       "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Hard To Be Human",
+        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 170414,
+      "name": "Hard To Be Human",
+      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
+        "name": "Kingmaker (with Julia Michaels)",
+        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "Kingmaker (with Julia Michaels)",
+      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
         "name": "Middle Ground",
         "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
       },
@@ -1355,22 +1375,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "P\u00e5 svenska",
-        "url": "https://open.spotify.com/album/59yVJJgWzN71NZtKnwqeci"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "R\u00f6da sten",
-      "url": "https://open.spotify.com/track/2cwxukwW922rPXcKYWvLlu"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "Ellen Krauss \u2013 Acoustic Versions",
         "url": "https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3"
       },
@@ -1383,6 +1387,22 @@
       "duration_ms": 168874,
       "name": "Inatt (Inget Stoppar Oss Nu) - Live in Church",
       "url": "https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "P\u00e5 svenska",
+        "url": "https://open.spotify.com/album/59yVJJgWzN71NZtKnwqeci"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "R\u00f6da sten",
+      "url": "https://open.spotify.com/track/2cwxukwW922rPXcKYWvLlu"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1487,22 +1507,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Oh love",
-        "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
-      },
-      "artists": [
-        {
-          "name": "Kasino",
-          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
-        }
-      ],
-      "duration_ms": 256047,
-      "name": "Oh love",
-      "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "It's Not Easy to Write a Love Song",
         "url": "https://open.spotify.com/album/5K6yv4og993B9tUmbc9UiN"
       },
@@ -1515,6 +1519,22 @@
       "duration_ms": 181200,
       "name": "It's Not Easy to Write a Love Song",
       "url": "https://open.spotify.com/track/6rOuxWBbbGG61MoEpfnzoI"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Oh love",
+        "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
+      },
+      "artists": [
+        {
+          "name": "Kasino",
+          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+        }
+      ],
+      "duration_ms": 256047,
+      "name": "Oh love",
+      "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1567,22 +1587,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD"
-      },
-      "artists": [
-        {
-          "name": "Rhys Frank",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        }
-      ],
-      "duration_ms": 222324,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "Back To My Roots",
         "url": "https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz"
       },
@@ -1595,6 +1599,22 @@
       "duration_ms": 202453,
       "name": "Back To My Roots - Acoustic Version",
       "url": "https://open.spotify.com/track/2vWJvQG4IXOuc5lMNfOg7Z"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD"
+      },
+      "artists": [
+        {
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 222324,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1675,22 +1695,6 @@
       "duration_ms": 186920,
       "name": "Living Comes With Dying",
       "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
-        "name": "Flytta h\u00e4rifr\u00e5n",
-        "url": "https://open.spotify.com/album/6uUuPh3SkieVRxcruAwaMh"
-      },
-      "artists": [
-        {
-          "name": "Manon Lamartine",
-          "url": "https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw"
-        }
-      ],
-      "duration_ms": 208509,
-      "name": "Flytta h\u00e4rifr\u00e5n",
-      "url": "https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v"
     }
   ],
   "unique_name": "Lugnt & Sk\u00f6nt",

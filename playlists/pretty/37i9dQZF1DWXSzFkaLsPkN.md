@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Garvit\-Priyansh
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,334 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,351 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 64 | [O Re Saavan](https://open.spotify.com/track/5EXcMk9ZlC5UlDU4jSZsm1) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [O Re Saavan](https://open.spotify.com/album/6PjAaPH6Fg68TjnSvCHK9I) | 2:38 |
 | 65 | [maikhana](https://open.spotify.com/track/6yAb3fTPNYiJFxIRbw9Uyt) | [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL), [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y) | [maikhana](https://open.spotify.com/album/7JkHK1NfMiEzjS8rNs0R6E) | 3:48 |
 | 66 | [Yun Hi Kahin](https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Yun Hi Kahin](https://open.spotify.com/album/52e2XrnIrZJXzKTMxUSx9G) | 3:23 |
-| 67 | [3am Thoughts](https://open.spotify.com/track/347wKqohKOnydV7bsloEQf) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Marammat](https://open.spotify.com/album/42T0XxsHWYn8DuOQCHwCr2) | 4:29 |
-| 68 | [Pyaar Kaafi Nahi](https://open.spotify.com/track/0emdpRC3rftireFUN9c00x) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Pyaar Kaafi Nahi](https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok) | 2:55 |
+| 67 | [Pyaar Kaafi Nahi](https://open.spotify.com/track/0emdpRC3rftireFUN9c00x) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Pyaar Kaafi Nahi](https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok) | 2:55 |
+| 68 | [3am Thoughts](https://open.spotify.com/track/347wKqohKOnydV7bsloEQf) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Marammat](https://open.spotify.com/album/42T0XxsHWYn8DuOQCHwCr2) | 4:29 |
 | 69 | [Aaye Re](https://open.spotify.com/track/7hEJ4dnjlebJZVxWsfZH7n) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Aaye Re](https://open.spotify.com/album/4Qm6trjMbavUh99TWCdHAp) | 4:00 |
 | 70 | [Ranjhana](https://open.spotify.com/track/2Vm3XVjP7oumfIgpf8ifS0) | [Abhishek Dubey](https://open.spotify.com/artist/1F3kuxj7cocQq595sYWupE), [Bandana Datta](https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp) | [Ranjhana](https://open.spotify.com/album/6psi4CQmJrez1TDlSs647E) | 4:05 |
 | 71 | [Tere Gaon](https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 2:54 |
 | 72 | [Aadhi Chai](https://open.spotify.com/track/10Mbwe81neb7Q3AATNwUBr) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Aadhi Chai](https://open.spotify.com/album/0u5P8rVA9QOeBtkQYyZ66b) | 3:37 |
 | 73 | [Rukna Nahin Hai](https://open.spotify.com/track/3zIZTlSNeoFxR2JJh2Sc7a) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Rukna Nahin Hai](https://open.spotify.com/album/2goUDAwuzqAXk3CJgo7io8) | 4:03 |
-| 74 | [Marammatein](https://open.spotify.com/track/5IvcYdbyPCoFocOu5hoZyN) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Marammatein](https://open.spotify.com/album/3fNUyCBvpJXAINIrKEPFWb) | 3:51 |
-| 75 | [Tu hi hai](https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Tu hi hai](https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ) | 3:07 |
+| 74 | [Tu hi hai](https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Tu hi hai](https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ) | 3:07 |
+| 75 | [Marammatein](https://open.spotify.com/track/5IvcYdbyPCoFocOu5hoZyN) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Marammatein](https://open.spotify.com/album/3fNUyCBvpJXAINIrKEPFWb) | 3:51 |
 
 Snapshot ID: `AAAAAGQG9VMLZsIA5JzTOf0fQjKWXzWY`

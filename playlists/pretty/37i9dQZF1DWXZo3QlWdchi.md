@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,670 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,723 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 38 | [O Papa É Pop \- Ao Vivo](https://open.spotify.com/track/3mBWUkpsvc7rQYOT50IfI1) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Revendo O Que Nunca Foi Visto](https://open.spotify.com/album/691kGDBO2A0Ba2omXqPxeo) | 3:44 |
 | 39 | [Follow Me Around](https://open.spotify.com/track/6zc5BnlGNETdLqsu2gK3y2) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Follow Me Around](https://open.spotify.com/album/2vTAZfcTyauC6ZG29d6yB5) | 5:19 |
 | 40 | [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 |
-| 41 | [Wonderwall \(Unplugged\)](https://open.spotify.com/track/2kyngSsWvKzqIWRsOoL9qA) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4EYiaCimOb1Li1bnb7ppi6) | 4:11 |
-| 42 | [Can You Hear Me \- Acoustic](https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Can You Hear Me \(Acoustic\)](https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR) | 2:54 |
+| 41 | [Can You Hear Me \- Acoustic](https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Can You Hear Me \(Acoustic\)](https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR) | 2:54 |
+| 42 | [Wonderwall \(Unplugged\)](https://open.spotify.com/track/2kyngSsWvKzqIWRsOoL9qA) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4EYiaCimOb1Li1bnb7ppi6) | 4:11 |
 | 43 | [Hear Me Now \- Ao Vivo](https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Sex on the Beach \(Ao Vivo\)](https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5) | 3:12 |
 | 44 | [Pra Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/0tXAm6W1xV2mDLVaO3Hn58) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Pra Dizer Adeus \(Ao Vivo\)](https://open.spotify.com/album/0o5WvjHaxbnY8ftGZPVbbx) | 4:13 |
 | 45 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 60 | [Não Olhe Pra Trás \(feat\. Lenine\) \- Ao Vivo](https://open.spotify.com/track/7CGbTwDDVA3TEj5sCVMfhb) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Capital Inicial Acústico NYC \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2t5g2yjLy9HIhWF0JskZTQ) | 4:16 |
 | 61 | [Enquanto Ela Não Chegar \- Acústico](https://open.spotify.com/track/6hLStuKVbiJdTj79re7JMx) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Enquanto Ela Não Chegar \(Acústico\)](https://open.spotify.com/album/3t2IxR2XIFLTtrRv03pSEk) | 3:28 |
 | 62 | [Come As You Are](https://open.spotify.com/track/4yzgjSHWy5E8fKflgwaKQh) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/5pbjLidJuoty9QUOy6X682) | 4:13 |
-| 63 | [Are You Gonna Be My Girl \- Acoustic](https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Are You Gonna Be My Girl](https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa) | 3:57 |
-| 64 | [Society](https://open.spotify.com/track/7AYoXqCtME90flUOpBJM7i) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Music For The Motion Picture Into The Wild](https://open.spotify.com/album/0AF0eSjB3atcLpJ7gQBop5) | 3:56 |
+| 63 | [Society](https://open.spotify.com/track/7AYoXqCtME90flUOpBJM7i) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Music For The Motion Picture Into The Wild](https://open.spotify.com/album/0AF0eSjB3atcLpJ7gQBop5) | 3:56 |
+| 64 | [Are You Gonna Be My Girl \- Acoustic](https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Are You Gonna Be My Girl](https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa) | 3:57 |
 | 65 | [Here Without You \- Acoustic Version](https://open.spotify.com/track/6oyUroY42HiaD9Q9VBw4BP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days \(International Version\)](https://open.spotify.com/album/5vGmRi8jMNCvmysQgBBhpx) | 3:52 |
 | 66 | [Every Time I Look At You \- Live](https://open.spotify.com/track/33D1kuSjM8e8rwHrzGeSkm) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/28R1dlvV3yiNktmnnYflK5) | 4:43 |
 | 67 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO) | 3:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/meaghansmom/">Monique Blake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,656 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,662 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 31 | [You're the One](https://open.spotify.com/track/0G0ky7lWhrwkds6MobBqvu) | [Dondria](https://open.spotify.com/artist/4NgmPmKCSWm4kczsm6J3FO) | [Dondria vs\. Phatfffat](https://open.spotify.com/album/7m1vzSK4S0pSgqWWJJbRNP) | 2:53 |
 | 32 | [Dr\. Carter](https://open.spotify.com/track/3QjQ9c1ooHiJDCqrKGC9fK) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:24 |
 | 33 | [Ravers Gas](https://open.spotify.com/track/79mzjmI59sxbnk5NOPKiFP) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Ravers Gas \- Single](https://open.spotify.com/album/2Tjwu0ywbCuXdTGfOnr7oO) | 3:10 |
-| 34 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
-| 35 | [Mama Stay](https://open.spotify.com/track/6v5xfPpCMt03M9r3dcH53k) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Mama Stay](https://open.spotify.com/album/7tru8RQVWKJ3MwC253e4CP) | 3:10 |
+| 34 | [Mama Stay](https://open.spotify.com/track/6v5xfPpCMt03M9r3dcH53k) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Mama Stay](https://open.spotify.com/album/7tru8RQVWKJ3MwC253e4CP) | 3:10 |
+| 35 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
 | 36 | [Hood Blues \(feat\. Westside Gunn, Benny The Butcher & Conway The Machine\)](https://open.spotify.com/track/1OaIvyH1IbX31m4JY6yBej) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Exodus](https://open.spotify.com/album/4kztTaq5iUKFXuWj06wbRM) | 4:36 |
 | 37 | [She's All I Got \- Radio Edit](https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw) | [J\. Cozier](https://open.spotify.com/artist/4PsXktnr6Ff4jxNJeVuWcG) | [Jimmy Cozier](https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W) | 3:31 |
 | 38 | [Tables Will Turn](https://open.spotify.com/track/0NTsxA8DrjBbZjK35oP67U) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 3:32 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 44 | [Reverse Di Ting](https://open.spotify.com/track/2bxxNd0cXD5GopNFEhyHjr) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Ragga Ragga Ragga 2007](https://open.spotify.com/album/2EaSckIrSSr6wLPdKPYg4j) | 3:56 |
 | 45 | [The Greatest](https://open.spotify.com/track/0ScOAZW5rQbEreoK0h5r5S) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [Riddim Driven: Hydro](https://open.spotify.com/album/00z29AN17yDBugKpGv2XcZ) | 3:36 |
 | 46 | [Inner G](https://open.spotify.com/track/37tNZm4rc7JurO55X6xHTi) | [Jahnya Simone](https://open.spotify.com/artist/6y09dM8DdPHYCtoIDxAHT2) | [Inner G](https://open.spotify.com/album/1u5uKl52hG6kODMImLNI8B) | 2:50 |
-| 47 | [Find Someone Like You](https://open.spotify.com/track/53SIeTHgXuAOd98hZWV2wD) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:26 |
-| 48 | [Flex](https://open.spotify.com/track/2TajSezbrdFdex9g5L6wo9) | [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Dancehall 101 Vol\. 3](https://open.spotify.com/album/2cGFEvfRv59zyj2E9BTkiH) | 3:50 |
+| 47 | [Whuteva](https://open.spotify.com/track/0QJU13S307gWlr4nhUh2SV) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story](https://open.spotify.com/album/6y9AdbqYziDJmcLSyyOsGO) | 3:46 |
+| 48 | [Find Someone Like You](https://open.spotify.com/track/53SIeTHgXuAOd98hZWV2wD) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:26 |
 | 49 | [Rum & Redbull](https://open.spotify.com/track/3rcdpymBJXEExx2YcZbjMU) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Future Fambo](https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Rum & Redbull](https://open.spotify.com/album/3og1VflDWwrGfXysXRzdcR) | 2:15 |
-| 50 | [Whuteva](https://open.spotify.com/track/0QJU13S307gWlr4nhUh2SV) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story](https://open.spotify.com/album/6y9AdbqYziDJmcLSyyOsGO) | 3:46 |
+| 50 | [Flex](https://open.spotify.com/track/2TajSezbrdFdex9g5L6wo9) | [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Dancehall 101 Vol\. 3](https://open.spotify.com/album/2cGFEvfRv59zyj2E9BTkiH) | 3:50 |
 
 Snapshot ID: `AAAAAOzG4Zjc1M7S9mAvVjE6LWA62sga`

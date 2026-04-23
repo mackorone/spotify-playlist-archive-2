@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K6ZzA.md) - [plain]
 
 > This is sombr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,763 likes - 32 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,006 likes - 32 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

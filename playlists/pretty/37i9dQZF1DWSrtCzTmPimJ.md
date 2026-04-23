@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,815 likes - 150 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,938 likes - 150 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 | 93 | [Gathering Strenght \(Alpha Waves\)](https://open.spotify.com/track/5LClC3g56RONSzKN7QG56c) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Deepest Dream \(Binaural Beats\)](https://open.spotify.com/album/6nv46CNtutXIqarQSn4XnR) | 2:46 |
 | 94 | [Deep state \- Alpha Sinus 138 Hz \- 140 Hz](https://open.spotify.com/track/2qjnXfgxjXtvS5lAbiteFh) | [Bit Rain](https://open.spotify.com/artist/58KNAmC26pbsrRUnDloPyt) | [Alpha Sinus Concentration](https://open.spotify.com/album/387DVKFQngZZf8hzWBjIAH) | 2:52 |
 | 95 | [Mystical \- Alpha Sinus 54,8hz \- 57,3 hz](https://open.spotify.com/track/7zO8xgWtAGQpAKEG9n48Yb) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:55 |
-| 96 | [Deep Focus Alpha Sinus 92Hz \- 99Hz](https://open.spotify.com/track/2Bp0ZhtzZz4hz8DrF8L5Xo) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:17 |
+| 96 | [Deep Focus Alpha Sinus 92Hz \- 99Hz](https://open.spotify.com/track/2Bp0ZhtzZz4hz8DrF8L5Xo) | [Mission Venus](https://open.spotify.com/artist/6nsP0eM0eiF3sRTh4DsL27) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:17 |
 | 97 | [Binaural Alpha Drone](https://open.spotify.com/track/57Ilh5Ja4DipqilIkfcYYW) | [Sonic Brainwaves](https://open.spotify.com/artist/1W33je0c01FrHZvRH8voH7) | [Alpha Stress Reduction](https://open.spotify.com/album/0Gqz4kIZgtNKcc1kf08Gko) | 3:22 |
 | 98 | [reflection \- Binaural Alpha Sinus 90Hz \- 98Hz](https://open.spotify.com/track/3LYevpQVcwmiH4S0OGTqnP) | [Pixeo](https://open.spotify.com/artist/2CdpLUBjbFoWgopv6lTTYf) | [Binaural Reflections](https://open.spotify.com/album/3dxCxziHGfiIaqaJM4eTGL) | 2:18 |
 | 99 | [Quiet Arrival \(Alpha Binaural 116 Hz \- 124 Hz\)](https://open.spotify.com/track/4ZnNZmV9HbPMYdRaDVxvnE) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Quiet Arrival \(Alpha Binaural 116 Hz \- 124 Hz\)](https://open.spotify.com/album/6IPwSmMVscFzZibe8FsjdS) | 3:50 |

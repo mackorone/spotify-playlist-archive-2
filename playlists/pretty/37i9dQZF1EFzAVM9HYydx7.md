@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,066 likes - 311 songs - 18 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,065 likes - 311 songs - 18 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,8 +187,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 177 | [Sin Filtro](https://open.spotify.com/track/4SL5NcO2IO1wSfhKch6yHF) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:09 |
 | 178 | [Party Hard / Cadillac \(Interlude\) \(feat\. Sevyn\)](https://open.spotify.com/track/0hoyeFFC3KYexTNztfXyEB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sevyn](https://open.spotify.com/artist/0MrWccK2g4vI3yFW9Puiv1) | [Fortune \(Expanded Edition\)](https://open.spotify.com/album/4AGQTp6rk7v8fPbFu739l7) | 5:14 |
 | 179 | [Jesus Piece](https://open.spotify.com/track/1yIhFZoPNT8LcIz7n1MVHn) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 3:53 |
-| 180 | [Weeks](https://open.spotify.com/track/3d9P90Wha2beUBCOb6boQy) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Weeks](https://open.spotify.com/album/4V9VaKYR118ULcpVZU7rpK) | 2:52 |
-| 181 | [Chills](https://open.spotify.com/track/0BtWu5QzPWkFMP2RPSoUfr) | [Down With Webster](https://open.spotify.com/artist/6eMqM0bpqakYd4EA857uD9) | [Party For Your Life](https://open.spotify.com/album/0BKvOwxCCIYAEL7XLNBAfW) | 3:28 |
+| 180 | [Chills](https://open.spotify.com/track/0BtWu5QzPWkFMP2RPSoUfr) | [Down With Webster](https://open.spotify.com/artist/6eMqM0bpqakYd4EA857uD9) | [Party For Your Life](https://open.spotify.com/album/0BKvOwxCCIYAEL7XLNBAfW) | 3:28 |
+| 181 | [Weeks](https://open.spotify.com/track/3d9P90Wha2beUBCOb6boQy) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Weeks](https://open.spotify.com/album/4V9VaKYR118ULcpVZU7rpK) | 2:52 |
 | 182 | [ROYL](https://open.spotify.com/track/1S5Kq3A8hpx3J4cmcADcF5) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 3:24 |
 | 183 | [Offended](https://open.spotify.com/track/0SMpAbwLauaXOA3A0e4uUb) | [Juice Armani](https://open.spotify.com/artist/0TIPSD7AoFPGfB8JzWKMHC) | [Offended](https://open.spotify.com/album/3EAqn4s5o54zkDBy0zcm6n) | 2:13 |
 | 184 | [Tsunami](https://open.spotify.com/track/6a2lBvIpei0ZJGsDr9nL82) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU) | 3:28 |
@@ -320,4 +320,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 310 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 311 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcPerAAAAAC/NnUuL03l1syQGygVh9zv`
+Snapshot ID: `AcPkfgAAAACkxqEsgloJGkJCdxoWDSdz`

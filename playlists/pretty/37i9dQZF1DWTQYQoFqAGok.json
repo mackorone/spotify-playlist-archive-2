@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65259,
+  "num_followers": 65265,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -189,22 +189,6 @@
       "url": "https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Dilo! Homenaje a P\u00e9rez Prado",
-        "url": "https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY"
-      },
-      "artists": [
-        {
-          "name": "Los M\u00fasicos De Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Mambo en Sax",
-      "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
-    },
-    {
       "added_at": "2023-04-12 01:24:34",
       "album": {
         "name": "El Patio",
@@ -219,6 +203,22 @@
       "duration_ms": 238000,
       "name": "Jazztepec",
       "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Dilo! Homenaje a P\u00e9rez Prado",
+        "url": "https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY"
+      },
+      "artists": [
+        {
+          "name": "Los M\u00fasicos De Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "Mambo en Sax",
+      "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -547,18 +547,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mi Sentimiento Guerrerense",
-        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
+        "name": "So\u00f1\u00e9 - Jazz Mexicano",
+        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
       },
       "artists": [
         {
-          "name": "Guerrero Jazz",
-          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
+          "name": "Gerardo Batiz",
+          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
         }
       ],
-      "duration_ms": 339280,
-      "name": "Por los Caminos del Sur",
-      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
+      "duration_ms": 266866,
+      "name": "La Cocola",
+      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -583,18 +583,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "So\u00f1\u00e9 - Jazz Mexicano",
-        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
+        "name": "Mi Sentimiento Guerrerense",
+        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
       },
       "artists": [
         {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+          "name": "Guerrero Jazz",
+          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
         }
       ],
-      "duration_ms": 266866,
-      "name": "La Cocola",
-      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
+      "duration_ms": 339280,
+      "name": "Por los Caminos del Sur",
+      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -655,6 +655,38 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "What's The Rush? (Remastered)",
+        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
+      },
+      "artists": [
+        {
+          "name": "Joe d'Etienne Big Band",
+          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
+        }
+      ],
+      "duration_ms": 403946,
+      "name": "Temporary Insanity",
+      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
+    },
+    {
+      "added_at": "2024-08-29 03:09:23",
+      "album": {
+        "name": "Tlapaler\u00eda Don Chuy",
+        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
+      },
+      "artists": [
+        {
+          "name": "Tlapaler\u00eda Don Chuy",
+          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
+        }
+      ],
+      "duration_ms": 198083,
+      "name": "La Franca",
+      "url": "https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Orquesta Moderna",
         "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
       },
@@ -681,38 +713,6 @@
       "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
     },
     {
-      "added_at": "2024-08-29 03:09:23",
-      "album": {
-        "name": "Tlapaler\u00eda Don Chuy",
-        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
-      },
-      "artists": [
-        {
-          "name": "Tlapaler\u00eda Don Chuy",
-          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
-        }
-      ],
-      "duration_ms": 198083,
-      "name": "La Franca",
-      "url": "https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "What's The Rush? (Remastered)",
-        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
-      },
-      "artists": [
-        {
-          "name": "Joe d'Etienne Big Band",
-          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
-        }
-      ],
-      "duration_ms": 403946,
-      "name": "Temporary Insanity",
-      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Mezcal",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Groove Zone",
-        "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
-      },
-      "artists": [
-        {
-          "name": "Pepe Hernandez",
-          "url": "https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW"
-        }
-      ],
-      "duration_ms": 272771,
-      "name": "Nu Soul",
-      "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 384415,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Groove Zone",
+        "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
+      },
+      "artists": [
+        {
+          "name": "Pepe Hernandez",
+          "url": "https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW"
+        }
+      ],
+      "duration_ms": 272771,
+      "name": "Nu Soul",
+      "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
     },
     {
       "added_at": "2021-07-28 16:44:28",

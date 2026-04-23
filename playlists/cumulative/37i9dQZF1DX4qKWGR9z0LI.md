@@ -4,7 +4,7 @@
 
 > Un ícono que marcó la música para siempre, gracias Willie Colón\. 🕊️
 
-325 songs - 23 hr 20 min
+326 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Creo en amor](https://open.spotify.com/track/3FMoiKx7ZQNrOjdR2TrC4j) | [Mandinga](https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe) | [Creo En Amor](https://open.spotify.com/album/6gmdIsNZFMztj4YXaue1LK) | 3:30 | 2022-09-09 | 2023-02-12 |
 | [Cuando Te Miro](https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Una Historia Musical](https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79) | 3:51 | 2022-01-01 | 2025-02-17 |
 | [Cuando Tus Ojos Me Miran](https://open.spotify.com/track/0wchJhFHcNw9fVGbsV20CB) | [Victor Waill](https://open.spotify.com/artist/5vOQV42eH7qqhnWOmuGLJV), [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Cuando Tus Ojos Me Miran](https://open.spotify.com/album/5zueCL1sBrlvTvRjQfwe1F) | 3:38 | 2022-01-01 | 2022-07-26 |
+| [Cuenta Bien](https://open.spotify.com/track/5uAUdYqKxwofLV0p47ED5Y) | [Edwin Bonilla](https://open.spotify.com/artist/2bf5VxFC3tr25BxumNDQxM) | [Soy La Candela](https://open.spotify.com/album/7yx4SxwUnCKxIecRpCGkR5) | 5:41 | 2026-03-27 |  |
 | [Cuenta Conmigo](https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Leyendas: Salsa Romántica](https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X) | 5:04 | 2022-01-01 |  |
 | [Cómo Se Compara](https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [GRIS](https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f) | 3:59 | 2025-05-09 |  |
 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 | 2023-01-06 |  |
@@ -131,7 +132,7 @@
 | [Gordo](https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:40 | 2024-02-09 |  |
 | [Hasta el Sol de Hoy \- Versión Salsa](https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Hasta el Sol de Hoy](https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp) | 3:56 | 2022-01-01 | 2023-03-05 |
 | [He Tratado](https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:03 | 2022-01-01 |  |
-| [Hello, What's Up](https://open.spotify.com/track/11GVewr1WRV4CFJtgrL5mK) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Hello,What's Up](https://open.spotify.com/album/6hDFSysxL72NCGP0mKHHeK) | 3:10 | 2025-02-28 |  |
+| [Hello, What's Up](https://open.spotify.com/track/11GVewr1WRV4CFJtgrL5mK) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Hello,What's Up](https://open.spotify.com/album/6hDFSysxL72NCGP0mKHHeK) | 3:10 | 2025-02-28 | 2026-04-23 |
 | [Incomparable \(feat\. El Revulú\)](https://open.spotify.com/track/65MT3EZxqOxnLhiGo9VqIe) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7), [El Revulú](https://open.spotify.com/artist/7K1bbLxw75tGqQXDjByXNs) | [Las Salsas](https://open.spotify.com/album/4mkfaIk2LDSQwRaxz7osID) | 2:53 | 2023-02-10 | 2023-06-19 |
 | [Incomprendido](https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Incomprendido](https://open.spotify.com/album/1QquGCJr1NtfXM1quq6qAw) | 2:59 | 2023-11-03 |  |
 | [JACARANDOSA](https://open.spotify.com/track/1cvLp0KMMMU46aPJhZ0bSj) | [José Aguirre](https://open.spotify.com/artist/45GvR0b9kXuYqSH6jpAWDr), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Cali Big Band](https://open.spotify.com/artist/6w2RBFxyl6FRHoC505rUkP) | [JACARANDOSA](https://open.spotify.com/album/7uaseBXSWlKzztmr7fBblR) | 4:12 | 2025-08-22 | 2025-10-04 |

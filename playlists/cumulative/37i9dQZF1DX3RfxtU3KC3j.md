@@ -2,9 +2,9 @@
 
 ### [Türkçe Rock](https://open.spotify.com/playlist/37i9dQZF1DX3RfxtU3KC3j)
 
-> Gitar ve davulu konuşturanlar\. 🎸 Kapak: Can Bonomo
+> Gitar ve davulu konuşturanlar\. 🎸 Kapak: Can Bonomo<br/><br/>23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷
 
-734 songs - 1 day 18 hr 13 min
+735 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Gül](https://open.spotify.com/track/11xW1ZYivwpgL7JoQ7llQR) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Mücevher](https://open.spotify.com/album/6AJBZ7HPAB4yEaG3bOTusg) | 3:07 | 2024-11-11 | 2025-05-23 |
 | [Güldünya](https://open.spotify.com/track/7gj185HNF0DhR8dqk4s6SP) | [Aylin Aslım](https://open.spotify.com/artist/17Ax2Mq0nn4I5PtBp4ieFW) | [Gülyabani](https://open.spotify.com/album/3LNtrVVIsjYwU2IkbWZSi0) | 4:45 | 2024-10-22 | 2024-11-08 |
 | [Gülüşünde Bi' Şeyler Saklı](https://open.spotify.com/track/7uXEUM3n77NF237Tftuimm) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Gülüşünde Bi' Şeyler Saklı](https://open.spotify.com/album/04a9Z16kXcdSeFJKaCsEho) | 2:38 | 2024-06-28 | 2025-03-14 |
+| [Güneş](https://open.spotify.com/track/4LmA7eKmD04MBZ4kHWXbLz) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Güneş](https://open.spotify.com/album/1Rd5ve7LrKT8Nlim4ao6jg) | 3:41 | 2026-04-22 |  |
 | [Güneş Doğacak](https://open.spotify.com/track/5gM5gewb8wHUNnQoKJzT2K) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Sana Ait](https://open.spotify.com/album/0ivZsLjLgN8se1PmE2osKv) | 3:34 | 2025-07-17 |  |
 | [Güneşimden Kaç](https://open.spotify.com/track/19OVmrDn8B8a34iBzNAbiS) | [Bulutsuzluk Özlemi](https://open.spotify.com/artist/1x59izw7Q1MpfZyzJpTfb4) | [Bulutsuzluk Senfoni](https://open.spotify.com/album/5nQVglgEQipFIsG6C2MTy5) | 6:22 | 2024-10-22 | 2024-11-08 |
 | [Günü Gelir](https://open.spotify.com/track/1CbzyWVel7o1EX7I2Ir372) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Günü Gelir](https://open.spotify.com/album/2qYc0ORnL9DLjin8pjFzr2) | 2:46 | 2024-06-28 | 2024-10-23 |

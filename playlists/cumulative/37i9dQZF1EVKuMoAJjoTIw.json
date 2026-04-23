@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZ1r57NVQAAG>The Cure</a>, <a href=spotify:playlist:37i9dQZF1EIWDRVIM3oeCu>Halsey</a>, <a href=spotify:playlist:37i9dQZF1EIW59fyjC7s7V>Alex Warren</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a>, <a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 247783,
       "name": "A TU NOMBRE",
       "url": "https://open.spotify.com/track/0ItgotO5txriRAp6lXMHJ7"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 242640,
       "name": "Aku Yang Tersakiti",
       "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 155973,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
@@ -3380,7 +3380,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
@@ -3796,7 +3796,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 215506,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
@@ -4286,7 +4286,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
@@ -4358,7 +4358,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 324649,
       "name": "Duka",
       "url": "https://open.spotify.com/track/3rXS2AEXNADrIFyuY3F6RJ"
@@ -5414,7 +5414,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 170000,
       "name": "Flores en An\u00f3nimo",
       "url": "https://open.spotify.com/track/62pg2fFuBb6zgU2gqJR8kP"
@@ -5758,7 +5758,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 243500,
       "name": "Ghebet El Habayeb",
       "url": "https://open.spotify.com/track/12PmfaF3ubVoSbhSH11tSk"
@@ -5776,7 +5776,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -6000,7 +6000,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 217768,
       "name": "HACIENDO QUE ME AMAS",
       "url": "https://open.spotify.com/track/26QApq0cuO9brJigr0C0W4"
@@ -6018,7 +6018,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 256626,
       "name": "Hal Terindah",
       "url": "https://open.spotify.com/track/1rq2b0GMPXfIdy2nezUAPN"
@@ -7786,7 +7786,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Jakarta Hari Ini",
       "url": "https://open.spotify.com/track/6AyBbSvcR2ZwTeR30I4jb9"
@@ -8560,7 +8560,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 231246,
       "name": "LAGUNAS",
       "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
@@ -8780,7 +8780,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 169353,
       "name": "Let Me Down Slowly",
       "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
@@ -10208,7 +10208,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 250000,
       "name": "Mendua",
       "url": "https://open.spotify.com/track/5g7TAIGfB6vgbaX8AH19FG"
@@ -10334,7 +10334,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 175911,
       "name": "Mesh Nadman",
       "url": "https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J"
@@ -10562,7 +10562,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 176749,
       "name": "MI\u00c9NTELE",
       "url": "https://open.spotify.com/track/77ewVGidVJETHhGtlNelrg"
@@ -11310,7 +11310,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 232263,
       "name": "NOCHES FR\u00cdAS",
       "url": "https://open.spotify.com/track/4YVLgx6LURPo1VNeaqBT5x"
@@ -11668,7 +11668,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -12050,7 +12050,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 221776,
       "name": "Pin",
       "url": "https://open.spotify.com/track/5L1GX9GFIHYm1AMAlNgoHw"
@@ -12234,7 +12234,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 198058,
       "name": "Pvta Luna",
       "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
@@ -13550,6 +13550,28 @@
     {
       "album": {
         "name": "Our Biggest Thing Ever",
+        "url": "https://open.spotify.com/album/2VZsIFI3moI5hPckoQwlWq"
+      },
+      "artists": [
+        {
+          "name": "Last Child",
+          "url": "https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288"
+        },
+        {
+          "name": "Gisel",
+          "url": "https://open.spotify.com/artist/4L0t6db3fWWG07bh14TxUw"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292333,
+      "name": "Seluruh Nafas Ini",
+      "url": "https://open.spotify.com/track/32dV7qXoU7maiMqikTHlkf"
+    },
+    {
+      "album": {
+        "name": "Our Biggest Thing Ever",
         "url": "https://open.spotify.com/album/0lmWHPA0DAJY2xKscafErm"
       },
       "artists": [
@@ -13600,7 +13622,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Serana",
       "url": "https://open.spotify.com/track/0PtJbtW50jcvvswNPn3QGd"
@@ -14214,7 +14236,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -17430,7 +17452,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ"
@@ -17538,7 +17560,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 204173,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
@@ -17556,7 +17578,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 250135,
       "name": "Yaah",
       "url": "https://open.spotify.com/track/26gwWepGyD010IUMA55OMr"
@@ -17990,7 +18012,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 232881,
       "name": "\u0623\u0648\u0644 \u062d\u0628",
       "url": "https://open.spotify.com/track/6m686JPy4eKbumXZ3Unf4n"
@@ -18008,7 +18030,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 236000,
       "name": "\u0627\u0644\u062d\u0628 \u0639\u064a\u0628\u0646\u0627",
       "url": "https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct"
@@ -18026,7 +18048,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 248333,
       "name": "\u0627\u0646\u0627 \u0647\u0648\u0646\u062a \u0639\u0644\u064a\u0643",
       "url": "https://open.spotify.com/track/1fQnrD1pd3WXoxUMpx3PmJ"
@@ -18044,7 +18066,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 217787,
       "name": "\u0628\u062a\u0641\u062a\u0643\u0631\u0646\u064a \u0633\u0627\u0639\u0627\u062a",
       "url": "https://open.spotify.com/track/225k2VOiES9R9AC0IwVBkb"
@@ -18116,7 +18138,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 218962,
       "name": "\u0639\u064a\u0648\u0646\u0647 \u0647\u062a\u062f\u0645\u0639",
       "url": "https://open.spotify.com/track/7mIlBkspGjJk5c5hrR8Q4V"
@@ -18152,7 +18174,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 158500,
       "name": "\u064a\u0627 \u0648\u0627\u062d\u0634\u0646\u064a",
       "url": "https://open.spotify.com/track/7HVcU4Vl4OYxnTfNaz419u"

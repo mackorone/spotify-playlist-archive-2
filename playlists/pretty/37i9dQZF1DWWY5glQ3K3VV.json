@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 114565,
+  "num_followers": 114591,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -503,26 +503,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "DIO LO SA",
-        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Poison Beatz",
-          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
-        }
-      ],
-      "duration_ms": 155493,
-      "name": "EL PIBE DE ORO",
-      "url": "https://open.spotify.com/track/69VAE3LA7jn5rGAsdflMOS"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Quarto di Bue",
         "url": "https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 152800,
       "name": "Massafghanistan",
       "url": "https://open.spotify.com/track/2z8mWFWbz1dyBqbLWbmPWi"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "duration_ms": 155493,
+      "name": "EL PIBE DE ORO",
+      "url": "https://open.spotify.com/track/69VAE3LA7jn5rGAsdflMOS"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1383,30 +1383,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Il mio lato peggiore",
-        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        }
-      ],
-      "duration_ms": 245853,
-      "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
-      "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Glory Days EP",
         "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
       },
@@ -1455,6 +1431,30 @@
       "duration_ms": 158624,
       "name": "Apparecchiato (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "duration_ms": 245853,
+      "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
+      "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
     },
     {
       "added_at": "2026-02-12 23:01:39",

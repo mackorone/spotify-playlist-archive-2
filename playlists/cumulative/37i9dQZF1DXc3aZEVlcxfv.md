@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-595 songs - 1 day 15 hr 38 min
+596 songs - 1 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Blessings](https://open.spotify.com/track/0lxqesw4krXBXQSevRWBWo) | [Tkellz](https://open.spotify.com/artist/6w7eO85veDbb6SE1rAA8uO), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Blessings](https://open.spotify.com/album/2E23SiWmqbaM3lmjWNBzMw) | 2:21 | 2025-02-07 | 2025-03-21 |
 | [Blessings on Blessings](https://open.spotify.com/track/7gBhyCUFLD1p9qXEniAIM3) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Xblaze](https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j), [Rooftop Mcs](https://open.spotify.com/artist/54PwDmQVoHX146N4OjtKrr), [Sokleva](https://open.spotify.com/artist/4xvZ9YDo1AwVaZdDGDVFSV), [Modenine](https://open.spotify.com/artist/3Gfe0umjxH43Mrrih0PRAX), [Maka](https://open.spotify.com/artist/3yB2cs263TPZi7uVYFeONi) | [Blessings on Blessings](https://open.spotify.com/album/7rr8bDiHzpDNEzo83naaJW) | 4:00 | 2025-01-24 | 2025-05-16 |
 | [Blood of Jesus \(No Be Cho Cho Cho\)](https://open.spotify.com/track/3FU7yqPf8k7fnPH8CPJQgW) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd) | [Blood of Jesus \(No Be Cho Cho Cho\)](https://open.spotify.com/album/1utBGXfk9LmHnRqQF7nSKx) | 2:20 | 2025-02-21 | 2025-04-18 |
-| [Blow my mind](https://open.spotify.com/track/5UukjLj7VD5vdYxGeYHxvC) | [Otejiri Imah](https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N) | [Blow my mind](https://open.spotify.com/album/3Jz9Q57g9ITHiMQy4GwUNH) | 4:25 | 2026-02-13 |  |
+| [Blow my mind](https://open.spotify.com/track/5UukjLj7VD5vdYxGeYHxvC) | [Otejiri Imah](https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N) | [Blow my mind](https://open.spotify.com/album/3Jz9Q57g9ITHiMQy4GwUNH) | 4:25 | 2026-02-13 | 2026-04-23 |
 | [BLSNS](https://open.spotify.com/track/2DH2IPLJUcfu0NZaAY1YyZ) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [BLSNS](https://open.spotify.com/album/1LYEgwhTX6Awym2ykMnyjt) | 2:56 | 2024-10-11 | 2025-02-07 |
 | [Boku](https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [God, In all Seasons](https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc) | 3:57 | 2026-01-30 |  |
 | [Brand New](https://open.spotify.com/track/4WCBSb5NDE838b3ipKbJ0K) | [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv), [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Mairos](https://open.spotify.com/artist/6magWqKDY1pnK2maOgtH6s) | [Brand New](https://open.spotify.com/album/2fjjqAlBO9REDateIMizaX) | 3:01 | 2025-09-12 | 2026-02-06 |
@@ -327,6 +327,7 @@
 | [Lift Me Higher](https://open.spotify.com/track/2D9QcNxjzpefHILXxmhhdJ) | [Justin Woodlake](https://open.spotify.com/artist/3F81eiUO2vynOEKTagezOa) | [Lift Me Higher](https://open.spotify.com/album/7l06BBQDVV3ToTCoGRT8kO) | 2:38 | 2025-11-14 | 2026-01-15 |
 | [Lifter Of Men \- Higher](https://open.spotify.com/track/01m5OjBL4EFhWWd14nC6aZ) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D), [YYC Worship](https://open.spotify.com/artist/4Kd2x5UzbYmB9icNKsYIzc) | [Lifter Of Men \(Higher\)](https://open.spotify.com/album/2mTZSMh9NW1Ep8tMdJvrzH) | 7:23 | 2026-02-27 |  |
 | [Light My Way](https://open.spotify.com/track/7cJNrb80srlS1s499HjEQF) | [Mojisola](https://open.spotify.com/artist/7B3hxItP97N9oYzvrTKFb8), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Path XLV](https://open.spotify.com/album/52VA8Xx3KpruIXdMd1REDf) | 3:17 | 2025-09-26 | 2025-10-31 |
+| [Like Fire](https://open.spotify.com/track/5zdpJyBSFvecdK7Zt5QaMb) | [Danad](https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J) | [Like Fire](https://open.spotify.com/album/3hVb3G3HXrhCY0KgIV6YCu) | 2:29 | 2026-04-17 |  |
 | [Like Me](https://open.spotify.com/track/2pzRmH3yLl2Hii5qlN792v) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Like Me](https://open.spotify.com/album/02E9HP8yuQU6mbdMyJJN6H) | 3:33 | 2026-01-16 | 2026-02-27 |
 | [Live By Faith](https://open.spotify.com/track/0eme4u5DLQAYJr9kcLPiuw) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Live By Faith](https://open.spotify.com/album/0zqZyhiNwq80v9GQ0dkUiN) | 2:10 | 2026-01-09 | 2026-04-21 |
 | [Living Water](https://open.spotify.com/track/5xVtLhfxJKrlwXPhNYfhcD) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Living Water](https://open.spotify.com/album/4ryDqnS7aEjvOV2dkzDSRB) | 2:31 | 2024-09-30 | 2025-02-28 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 ### [Türkçe Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ASuQophyb3)
 
-> Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Zeynep Bastık
+> Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Zeynep Bastık<br/>23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,550,334 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,550,830 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 48 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 |
 | 49 | [Sanmadan Git](https://open.spotify.com/track/6NvKz9LOa9KbCmd3NEnKP1) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Sanmadan Git](https://open.spotify.com/album/4tw3quCr2Q91TUqP1tD30i) | 2:57 |
 
-Snapshot ID: `AAAAAIcTiAFLQAjwpOohbgZPj5ovIBga`
+Snapshot ID: `AAAAAPnwx3Xkzb1LTSz35/+U78UL3H6K`

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 | 2022-12-16 |  |
+| [\(Sittin' On\) the Dock of the Bay \- Mono](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 | 2022-12-16 |  |
 | [A Few More Kisses To Go](https://open.spotify.com/track/4GI4Lpv6JwwVq3jgWajwif) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Don't Let Go \(Expanded Edition\)](https://open.spotify.com/album/1LHq5SCXAmNmF9cD9cnWpH) | 6:10 | 2022-12-16 | 2024-04-19 |
 | [A Few More Kisses To Go \- Single Version](https://open.spotify.com/track/28ByeOwZhcv1Ul3uki6G7F) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Music For Groovin'](https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON) | 6:04 | 2023-12-15 | 2025-01-24 |
 | [A Love Of Your Own](https://open.spotify.com/track/19RdunMM5M5iXWNcbS0m96) | [Ned Doheny](https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw) | [Hard Candy](https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA) | 3:46 | 2022-12-16 | 2024-04-19 |

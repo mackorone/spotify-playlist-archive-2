@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 937 likes - 100 songs - 6 hr 14 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 937 likes - 101 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 98 | [Lost On Queen Street](https://open.spotify.com/track/6qD5nfAKKmTjs5IoUaHJS3) | [Diagram For June](https://open.spotify.com/artist/4gtTD7x3IRglHpBgkzCVkg) | [Lost On Queen Street](https://open.spotify.com/album/7Gp9P7nstTV0xulsGSk7LH) | 3:32 |
 | 99 | [7 M 7](https://open.spotify.com/track/4vCG7nI3o8GaqG8JgGJADs) | [Cromo](https://open.spotify.com/artist/0Bxu4pu1OwbJQAMUOPe4fZ) | [Atomic Mass 51.996](https://open.spotify.com/album/4d39mxsDZnsMOJSRfyoPBx) | 4:33 |
 | 100 | [Jodido Petrarca](https://open.spotify.com/track/0U5h1yccrkqogGH6fMlkHK) | [Tacrolimus](https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT) | [Se Acabaron Las Versiones](https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25) | 2:40 |
+| 101 | [Fantasia](https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli) | [Astratto](https://open.spotify.com/artist/1kQT4JN2XDrVdT4vubHCjw) | [Fantasia](https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf) | 6:10 |
 
-Snapshot ID: `AAAF1HUK1jXw4ytPjnNwlmN+0saBotbC`
+Snapshot ID: `AAAF1Vl+EM1fXPPGz2ACJUv11cj3MKAo`

@@ -4,7 +4,7 @@
 
 > 
 
-1,437 songs - 3 day 4 hr 19 min
+1,440 songs - 3 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [dream hollywood \(k suave\)](https://open.spotify.com/track/416hYURzddnHWH8lMNUoXd) | [sem](https://open.spotify.com/artist/2qUcgTpHYclRajlkjgLsyn) | [dream hollywood \(k suave\)](https://open.spotify.com/album/0YHLvhrQcqUB8rQPBPevvb) | 2:04 | 2023-03-20 | 2023-05-09 |
 | [Drippin'](https://open.spotify.com/track/0f85bMoarvHbdIcfhDjSjN) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 3:06 | 2024-07-09 | 2025-05-21 |
 | [Drop A Gem On 'Em](https://open.spotify.com/track/4gXFUhyu4fzOgmV28BiJ9s) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 4:17 | 2024-05-23 | 2024-11-06 |
+| [Drug Ballad](https://open.spotify.com/track/7tEoJKbYdIHBfn7tTIyjHW) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 5:00 | 2026-04-22 |  |
 | [drugs\_over\_love](https://open.spotify.com/track/0Rp8IydDMk6iNIE3wV3ocb) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [lost\_files\_3](https://open.spotify.com/album/5HGQR05KWcd2FQ5EoA7Ri9) | 2:59 | 2022-11-07 | 2023-04-24 |
 | [Dsco](https://open.spotify.com/track/1OKkG3vxEuBBwLw1gCqdNW) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 3:11 | 2024-04-30 | 2024-11-06 |
 | [DX](https://open.spotify.com/track/4UtpOsZxxFv1iSuTQ6RS0B) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Hardwood Classic](https://open.spotify.com/album/2SPrPcmFf9505xgGEp2h2k) | 1:45 | 2024-12-03 | 2025-05-21 |
@@ -622,6 +623,7 @@
 | [Impala](https://open.spotify.com/track/7EgThh6AbBM6nWs4XOPx2T) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 3:05 | 2022-12-15 | 2023-12-14 |
 | [imreallytrynaf\*ckwichu](https://open.spotify.com/track/6dPPmvsoMacSlVCSfNC2mk) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Husel](https://open.spotify.com/artist/4mRwHKm2edtTqp0NXoQ1aC) | [Victims & Villains](https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia) | 3:32 | 2023-03-10 | 2023-12-14 |
 | [In and Out](https://open.spotify.com/track/2oWaHVTGvuFk38iBRVRAaO) | [Lud Foe](https://open.spotify.com/artist/0Cu32uCaqDJYQADOev92Et) | [No Hooks](https://open.spotify.com/album/6cbmULrZWVHJ0G0P4DDWLb) | 3:59 | 2024-09-15 | 2024-11-06 |
+| [In Bloom](https://open.spotify.com/track/30HCB1FoE77IfGRyNv4eFq) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:15 | 2026-04-22 |  |
 | [In Control](https://open.spotify.com/track/5IdAcHb4cwtexqMlOojWhR) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 3:01 | 2022-08-15 | 2023-12-14 |
 | [In Due Time \(with Cee\-Lo\)](https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [In Due Time](https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU) | 4:20 | 2026-01-24 |  |
 | [In the Mood \(feat\. Kanye West & Roy Ayers\)](https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Eardrum](https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr) | 3:55 | 2025-12-04 | 2026-03-08 |
@@ -1056,6 +1058,7 @@
 | [Ride Me](https://open.spotify.com/track/3IYJlal3AW4uFQJtcLdp3O) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 1:52 | 2023-01-06 | 2023-05-09 |
 | [Ridin Strikers](https://open.spotify.com/track/6PHbWsTTlmQKF9i9VC1KFv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:45 | 2024-12-30 | 2025-05-21 |
 | [rifle crew](https://open.spotify.com/track/5JL77p8CYEt7vHEBS9eyVB) | [sniper2004](https://open.spotify.com/artist/7EjJ8vM2BQi4Oxrxm2ytYT) | [i wanna be a sniperrrrr](https://open.spotify.com/album/3hqf7upVvfJhXJDgBfmBMq) | 2:03 | 2024-11-05 | 2025-05-21 |
+| [Right](https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles \(Deluxe\)](https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp) | 4:47 | 2026-04-23 |  |
 | [Risk It All, Pt.2](https://open.spotify.com/track/1FQMwCRlnmp6lLPrThtS8J) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Im Still Perfect](https://open.spotify.com/album/4HPAVn3Z1jGwZLRXadqOKO) | 2:58 | 2024-12-16 | 2025-05-21 |
 | [Roc\-A\-Fella Y'all](https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Roc\-A\-Fella Y'all](https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu) | 4:59 | 2023-07-22 |  |
 | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7) | 2:55 | 2022-10-18 | 2023-05-09 |

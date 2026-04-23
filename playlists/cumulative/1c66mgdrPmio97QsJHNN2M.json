@@ -948,7 +948,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 180951,
       "name": "Alien",
       "url": "https://open.spotify.com/track/0safhzDhmFqMToTVADb5gB"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 160000,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/5IESTItoyGjMDTxkSx2kyF"
@@ -5379,6 +5379,24 @@
     },
     {
       "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/1WL5KxEs4XHisf2C4RJH5n"
+      },
+      "artists": [
+        {
+          "name": "Eichen",
+          "url": "https://open.spotify.com/artist/10c7M1kj6QDiqGZBS8OeWC"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191977,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/5GuwRLL7WUqob4UDwSShLJ"
+    },
+    {
+      "album": {
         "name": "Effigy",
         "url": "https://open.spotify.com/album/1NVuDe3ln3ktAQ9toLGYfe"
       },
@@ -5560,6 +5578,24 @@
       "duration_ms": 252941,
       "name": "Co\u00e1gulo de un instante",
       "url": "https://open.spotify.com/track/4p9bcKLA1CFvGJmiheylqk"
+    },
+    {
+      "album": {
+        "name": "What The Moon Doesn't Tell The Sun",
+        "url": "https://open.spotify.com/album/3qYwKbKVXTEvl8uIZFhhiJ"
+      },
+      "artists": [
+        {
+          "name": "MARIS BEN",
+          "url": "https://open.spotify.com/artist/7I3i5jZW1EhGnam7NKyDt2"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160486,
+      "name": "Crab Mentality",
+      "url": "https://open.spotify.com/track/2uJncEv0ah9sPcOLUQTBDF"
     },
     {
       "album": {
@@ -8752,6 +8788,24 @@
     {
       "album": {
         "name": "Falling",
+        "url": "https://open.spotify.com/album/5pCqLPdd2lOmASXPxTl72Q"
+      },
+      "artists": [
+        {
+          "name": "Sean Muir",
+          "url": "https://open.spotify.com/artist/2Ofx1P6qcoKWu24eL3JZuI"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218567,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4pJRkuQlQxauSnp9Fmq1By"
+    },
+    {
+      "album": {
+        "name": "Falling",
         "url": "https://open.spotify.com/album/3ZOtXqjTygqkJmuHGu2Vht"
       },
       "artists": [
@@ -10277,6 +10331,24 @@
     },
     {
       "album": {
+        "name": "Games",
+        "url": "https://open.spotify.com/album/6C8vzqgHnTsbbn7VXHiBKq"
+      },
+      "artists": [
+        {
+          "name": "Sean Muir",
+          "url": "https://open.spotify.com/artist/2Ofx1P6qcoKWu24eL3JZuI"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248450,
+      "name": "Games",
+      "url": "https://open.spotify.com/track/4JJKx1k0cVlX0PJw0BwCw9"
+    },
+    {
+      "album": {
         "name": "Gaslight",
         "url": "https://open.spotify.com/album/2K6vSFl9UYN3uzd4S1haSu"
       },
@@ -11028,6 +11100,24 @@
       "duration_ms": 288938,
       "name": "Grey Rockin'",
       "url": "https://open.spotify.com/track/7scEbhS7Fnqulg9cEYyEJo"
+    },
+    {
+      "album": {
+        "name": "Grippy Socks Jail",
+        "url": "https://open.spotify.com/album/5es9FnQ3Mz8BQrwpL2XhcD"
+      },
+      "artists": [
+        {
+          "name": "Court Lee",
+          "url": "https://open.spotify.com/artist/4EUdpZKUAlErxveFMeqZVD"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66282,
+      "name": "Grippy Socks Jail",
+      "url": "https://open.spotify.com/track/2u5OKVEabagRCsf7Y34c9y"
     },
     {
       "album": {
@@ -12540,6 +12630,24 @@
       "duration_ms": 195039,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/4gntdpT6gYil6n7mvTIVzz"
+    },
+    {
+      "album": {
+        "name": "I Am The Quiet",
+        "url": "https://open.spotify.com/album/20mVAGE8wl5YWTkqOZsSXs"
+      },
+      "artists": [
+        {
+          "name": "Aionyx",
+          "url": "https://open.spotify.com/artist/1SmnoJ7CNzCLrj2uPPpFwW"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208050,
+      "name": "I Am The Quiet",
+      "url": "https://open.spotify.com/track/2FOOHGf0cHZGWPSggyKkFZ"
     },
     {
       "album": {
@@ -16172,7 +16280,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 161000,
       "name": "Lost",
       "url": "https://open.spotify.com/track/0tzKFDTbre9un86lyKeBFo"
@@ -22341,6 +22449,24 @@
     },
     {
       "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/3rYdQIpR0r2HJ8RlreWcGF"
+      },
+      "artists": [
+        {
+          "name": "Sean Muir",
+          "url": "https://open.spotify.com/artist/2Ofx1P6qcoKWu24eL3JZuI"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214595,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/4AmGfMLYLYr9fhESqpH495"
+    },
+    {
+      "album": {
         "name": "Real Reel",
         "url": "https://open.spotify.com/album/3i4jex0aWXml8rDfV8aiUo"
       },
@@ -22992,6 +23118,24 @@
       "duration_ms": 181991,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/1VeoY0VLCW1GvHMQyMJQHq"
+    },
+    {
+      "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/5s0WubEe0jKCHjamNvUk2i"
+      },
+      "artists": [
+        {
+          "name": "Souless Addiction",
+          "url": "https://open.spotify.com/artist/33Ne18PInfFpqhrwt5BGu4"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181759,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/4S0FVu3XuZcs0AXyKz55py"
     },
     {
       "album": {
@@ -24299,6 +24443,24 @@
     },
     {
       "album": {
+        "name": "Sildim Her \u015eeyi",
+        "url": "https://open.spotify.com/album/1hkdWp1vcrhmNWzcbNUh9t"
+      },
+      "artists": [
+        {
+          "name": "Ka\u011fan",
+          "url": "https://open.spotify.com/artist/73EL679o3oxZEmAES587Yn"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193392,
+      "name": "Sildim Her \u015eeyi",
+      "url": "https://open.spotify.com/track/3xeNOyy2aO1GUkDn87fr2O"
+    },
+    {
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/15wqfYTJv5L69Y8af2tBsX"
       },
@@ -25101,6 +25263,24 @@
     },
     {
       "album": {
+        "name": "Something You Didn't See",
+        "url": "https://open.spotify.com/album/5ERCtMNu1gvaLJWHFUheSc"
+      },
+      "artists": [
+        {
+          "name": "Sean Muir",
+          "url": "https://open.spotify.com/artist/2Ofx1P6qcoKWu24eL3JZuI"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224940,
+      "name": "Something You Didn't See",
+      "url": "https://open.spotify.com/track/3yGlOKjTVfIjknv7GujIq0"
+    },
+    {
+      "album": {
         "name": "Something's gotta give me Something to Believe in",
         "url": "https://open.spotify.com/album/2wf0WweKni43XSCRWkAXG7"
       },
@@ -25112,7 +25292,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 193002,
       "name": "Something's gotta give me Something to Believe in",
       "url": "https://open.spotify.com/track/0P1G4BW8wKv6k0bKJIjYmq"
@@ -25855,6 +26035,28 @@
     },
     {
       "album": {
+        "name": "Stranger Than Love",
+        "url": "https://open.spotify.com/album/1OJAlXkqvzGo8xLTtABdSA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Youngbauer",
+          "url": "https://open.spotify.com/artist/4UeB4cZPyYIaC0VYRsaFiZ"
+        },
+        {
+          "name": "Richard Greene",
+          "url": "https://open.spotify.com/artist/02BacLwR3UUwERUhF6q6My"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162992,
+      "name": "Stranger Than Love",
+      "url": "https://open.spotify.com/track/1Wtn7Dsw2XLdRuoW0kih9h"
+    },
+    {
+      "album": {
         "name": "Stranger to Myself",
         "url": "https://open.spotify.com/album/5Q49E1hGhuV5tnT2zNQHtp"
       },
@@ -26058,6 +26260,24 @@
       "duration_ms": 206146,
       "name": "Sun and the Silver Moon",
       "url": "https://open.spotify.com/track/6d0vpvZL2xxvdqCmOz7kvU"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/25Yk4h4LLjo2GfBJfDAZ8T"
+      },
+      "artists": [
+        {
+          "name": "Sean Muir",
+          "url": "https://open.spotify.com/artist/2Ofx1P6qcoKWu24eL3JZuI"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204748,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4zuuXlbsvWFIZfIbjWTaIq"
     },
     {
       "album": {
@@ -28272,6 +28492,28 @@
       "duration_ms": 127708,
       "name": "THROW ME A BONE",
       "url": "https://open.spotify.com/track/6wSLyPQhotM0pl2Bt9a3PP"
+    },
+    {
+      "album": {
+        "name": "Thrown It All Away",
+        "url": "https://open.spotify.com/album/6StHyNAz18RyQ82zDEYSk0"
+      },
+      "artists": [
+        {
+          "name": "Sean Muir",
+          "url": "https://open.spotify.com/artist/2Ofx1P6qcoKWu24eL3JZuI"
+        },
+        {
+          "name": "Papa Gyete",
+          "url": "https://open.spotify.com/artist/3QAgnI8dSii7XwDrHw9vEH"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250906,
+      "name": "Thrown It All Away",
+      "url": "https://open.spotify.com/track/1Lb3ZqWzHxygFa3J2LaA3h"
     },
     {
       "album": {
@@ -31830,6 +32072,24 @@
       "duration_ms": 175424,
       "name": "you are the architect, architect",
       "url": "https://open.spotify.com/track/6xfCPHdtLbcERFtFNnEbFq"
+    },
+    {
+      "album": {
+        "name": "You Are the One",
+        "url": "https://open.spotify.com/album/3EGdU5g1XIlHUidc2Iy3Pt"
+      },
+      "artists": [
+        {
+          "name": "Sean Muir",
+          "url": "https://open.spotify.com/artist/2Ofx1P6qcoKWu24eL3JZuI"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252317,
+      "name": "You Are the One",
+      "url": "https://open.spotify.com/track/5evbhrUUh6Shwe2FI64Su3"
     },
     {
       "album": {

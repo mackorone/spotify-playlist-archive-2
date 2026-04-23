@@ -153,6 +153,32 @@
     },
     {
       "album": {
+        "name": "9-5",
+        "url": "https://open.spotify.com/album/1TbKXd0sO5yMOQ3EzGpilL"
+      },
+      "artists": [
+        {
+          "name": "Termula",
+          "url": "https://open.spotify.com/artist/7L5fW1cU8MtB8geMfEFPtE"
+        },
+        {
+          "name": "gabby parafina",
+          "url": "https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP"
+        },
+        {
+          "name": "brayll",
+          "url": "https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192214,
+      "name": "9-5",
+      "url": "https://open.spotify.com/track/4fJeNtJnafDGNpbrOKEhQi"
+    },
+    {
+      "album": {
         "name": "SWABE",
         "url": "https://open.spotify.com/album/3wTW9AjJkex9PbIEQbmF5L"
       },
@@ -564,7 +590,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 318867,
       "name": "Aura",
       "url": "https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ"
@@ -1681,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Ether",
+        "url": "https://open.spotify.com/album/5Ovt0lNhvauiZR3bb4GOoN"
+      },
+      "artists": [
+        {
+          "name": "barb.",
+          "url": "https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251134,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/0Kcn243BBpYS1CaZI3WHMn"
+    },
+    {
+      "album": {
         "name": "Ex",
         "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
       },
@@ -2552,7 +2596,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 233728,
       "name": "I Need You More Today",
       "url": "https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej"
@@ -3552,7 +3596,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 199903,
       "name": "Lalim",
       "url": "https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd"
@@ -4120,6 +4164,24 @@
       "duration_ms": 226875,
       "name": "Maligaya Street",
       "url": "https://open.spotify.com/track/0xT3loVOOSoN3IGeAUrV1k"
+    },
+    {
+      "album": {
+        "name": "Manatili",
+        "url": "https://open.spotify.com/album/74M3oYE898sDzK8l0vmONg"
+      },
+      "artists": [
+        {
+          "name": "Over October",
+          "url": "https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220833,
+      "name": "Manatili",
+      "url": "https://open.spotify.com/track/6IigVaC8ZwuXktW0K39a16"
     },
     {
       "album": {
@@ -5398,7 +5460,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 197933,
       "name": "Pakundangan (feat. Hev Abi)",
       "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
@@ -5788,7 +5850,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 262972,
       "name": "Para Sa Sarili",
       "url": "https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e"
@@ -6052,6 +6114,24 @@
       "duration_ms": 180066,
       "name": "Pinipili",
       "url": "https://open.spotify.com/track/0xJ4Qk9lIisIjOrI8bLkNP"
+    },
+    {
+      "album": {
+        "name": "Pipiliin",
+        "url": "https://open.spotify.com/album/4AAkac2yx3xQKDua2jHt8U"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ramos",
+          "url": "https://open.spotify.com/artist/15O0YfpWiSYUMsaJJkoZMI"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218117,
+      "name": "Pipiliin",
+      "url": "https://open.spotify.com/track/0v8aGaYwqT9nbHYwh5WLAn"
     },
     {
       "album": {
@@ -6402,6 +6482,28 @@
       "duration_ms": 246290,
       "name": "Sa Uulitin",
       "url": "https://open.spotify.com/track/0lAZd9knO0d5whnNyc9CSd"
+    },
+    {
+      "album": {
+        "name": "Sa Walang Hanggan",
+        "url": "https://open.spotify.com/album/300Q4DS2z7WHxexjY4js3O"
+      },
+      "artists": [
+        {
+          "name": "Healy After Dark",
+          "url": "https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY"
+        },
+        {
+          "name": "Chrstn",
+          "url": "https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233268,
+      "name": "Sa Walang Hanggan",
+      "url": "https://open.spotify.com/track/51M0GSzpTPuCBK2pQIiVcc"
     },
     {
       "album": {
@@ -6940,6 +7042,24 @@
       "duration_ms": 267443,
       "name": "Sinong Magmamahal Sa \u2018Kin?",
       "url": "https://open.spotify.com/track/6Zkmj8E8aAmejhDTSys4rN"
+    },
+    {
+      "album": {
+        "name": "Sinungaling",
+        "url": "https://open.spotify.com/album/4SP2WYFM5HFsr16xRPYz3i"
+      },
+      "artists": [
+        {
+          "name": "Nameless Kids",
+          "url": "https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226728,
+      "name": "Sinungaling",
+      "url": "https://open.spotify.com/track/0DaEuZBzjBabTkbsnCZPs0"
     },
     {
       "album": {
@@ -8110,7 +8230,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 276992,
       "name": "Wala Na Bang Pag-ibig",
       "url": "https://open.spotify.com/track/6D0jXlvOC2llxT2xEEGQBh"

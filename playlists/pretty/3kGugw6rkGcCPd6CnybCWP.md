@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 74 songs - 4 hr 15 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 76 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 72 | [No Proof](https://open.spotify.com/track/0Jb6JopsRsmUeaDgiWEgGx) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z), [Vallartis](https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa) | [The Daylight is Gone](https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ) | 3:03 |
 | 73 | [Moonlight](https://open.spotify.com/track/1Xnn2Fmts67hpUW085EJYF) | [Blue Scarr](https://open.spotify.com/artist/1gTOD1oLGnXEK81NvlQWSi), [Aimée Britannia](https://open.spotify.com/artist/1oxqclaWPu3nTkfNhjWSJ7) | [Moonlight](https://open.spotify.com/album/4PPCdRFGekzGpKaTiiuGYk) | 2:53 |
 | 74 | [INVITE ONLY](https://open.spotify.com/track/01GXPg6mBgZndeB0R5pxZj) | [TONE](https://open.spotify.com/artist/7BTanMvfNlUM7nc1GSeiAu) | [INVITE ONLY](https://open.spotify.com/album/3YJmqiyXFF8QokbmiUQLxt) | 1:42 |
+| 75 | [Freakuency](https://open.spotify.com/track/6L5zC9NF2GgTXtlV9lyQaN) | [eyrin](https://open.spotify.com/artist/4pj5GKqMmzVNKsJHEgmiQb) | [Freakuency](https://open.spotify.com/album/5fTRffrRAXmip1mUb0r2Aw) | 4:25 |
+| 76 | [Sticks and Mud](https://open.spotify.com/track/0pOUxLuxxUMWDV6DUUxprJ) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Daydreams](https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr) | 3:03 |
 
-Snapshot ID: `AAAOlBxKDPgH32Dd0+upSn+EaFOr0Cwm`
+Snapshot ID: `AAAOlumA2mnWocmSYXw3ZCvIPXx/IBQW`

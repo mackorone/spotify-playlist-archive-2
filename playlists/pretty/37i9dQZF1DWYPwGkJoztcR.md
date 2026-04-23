@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,201 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,218 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 56 | [Not The One](https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 3:28 |
 | 57 | [Brotherhood](https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Brotherhood](https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT) | 3:56 |
 | 58 | [Apple Tree](https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Apple Tree](https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx) | 2:58 |
-| 59 | [Falling Easy](https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Green Lights](https://open.spotify.com/album/0pIx3rjKDxor7Uza8remku) | 2:57 |
+| 59 | [Easy To Love \(feat\. Iris Jean\)](https://open.spotify.com/track/63iSpVU9FUKevNdkUYpnUD) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Easy To Love \(feat\. Iris Jean\)](https://open.spotify.com/album/4dzcTV21H0O6LfuliqlYBp) | 3:46 |
 | 60 | [To Love Somebody](https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [To Love Somebody](https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9) | 2:40 |
-| 61 | [Easy To Love \(feat\. Iris Jean\)](https://open.spotify.com/track/63iSpVU9FUKevNdkUYpnUD) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Easy To Love \(feat\. Iris Jean\)](https://open.spotify.com/album/4dzcTV21H0O6LfuliqlYBp) | 3:46 |
+| 61 | [Falling Easy](https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Green Lights](https://open.spotify.com/album/0pIx3rjKDxor7Uza8remku) | 2:57 |
 | 62 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 |
 | 63 | [Who Am I](https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z) | [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [Who Am I](https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6) | 2:25 |
 | 64 | [Grow Up](https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Grow Up](https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg) | 3:49 |
@@ -86,15 +86,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 76 | [Your Spirit \- From "Team Spirit: Next Gen"](https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N) | [OSKI](https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ) | [Your Spirit \(From "Team Spirit: Next Gen"\)](https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw) | 3:31 |
 | 77 | [Always Lost](https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf) | [Emma Hessels](https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g) | [Always Lost](https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA) | 3:19 |
 | 78 | [Lonely On Lovers Lane](https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw) | 3:15 |
-| 79 | [Someone To Lose](https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ) | [Nina June](https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ) | [Someone To Lose](https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ) | 2:40 |
-| 80 | [Crystal Tears](https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Crystal Tears](https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE) | 3:42 |
+| 79 | [Crystal Tears](https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Crystal Tears](https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE) | 3:42 |
+| 80 | [Someone To Lose](https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ) | [Nina June](https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ) | [Someone To Lose](https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ) | 2:40 |
 | 81 | [Poète Maudit](https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Poète Maudit](https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ) | 2:47 |
 | 82 | [Cape Forestier](https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c) | 3:52 |
 | 83 | [Back to the River](https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [Back to the River](https://open.spotify.com/album/6yaMZCMnX7lTWKLeyAhutG) | 4:09 |
 | 84 | [I Will](https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [BROWN & GRAY](https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN) | [I Will](https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj) | 2:49 |
 | 85 | [Body Language](https://open.spotify.com/track/0lMWdThDnxoiySOEX6ur4o) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Body Language](https://open.spotify.com/album/6FqyoSKSRukmIm6kcXaLJR) | 3:11 |
-| 86 | [Suddenly Forever](https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR) | [Selwyn](https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ) | [Suddenly Forever](https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7) | 3:20 |
-| 87 | [Just Another Road](https://open.spotify.com/track/1AG54oWoFQkowhjonVMemw) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Just Another Road](https://open.spotify.com/album/6QhmM3FglBHKpZdYF6DQo6) | 3:00 |
+| 86 | [Just Another Road](https://open.spotify.com/track/1AG54oWoFQkowhjonVMemw) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Just Another Road](https://open.spotify.com/album/6QhmM3FglBHKpZdYF6DQo6) | 3:00 |
+| 87 | [Suddenly Forever](https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR) | [Selwyn](https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ) | [Suddenly Forever](https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7) | 3:20 |
 | 88 | [Trouble Is Me](https://open.spotify.com/track/4LJdc3NTNFugi2pWkjZZmr) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Trouble Is Me](https://open.spotify.com/album/2haCvHHeluKqvojJPKzJpN) | 3:12 |
 | 89 | [Woman](https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Woman](https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV) | 4:08 |
 | 90 | [seasons](https://open.spotify.com/track/3r0S9KmnTN5I9ohMd37d1f) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [seasons](https://open.spotify.com/album/2BWW9KdZt9Mbw8JVjrUJBE) | 3:40 |

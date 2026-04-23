@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-295 songs - 15 hr 18 min
+296 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Monkey in the Mango Tree \(From "Jamaica"\)](https://open.spotify.com/track/7Am5HNdBiDMQ2dv0PbphUJ) | [Cy Coleman](https://open.spotify.com/artist/0RRSSYRHmBxQXRGj2KBO8L), [Skeeter Best](https://open.spotify.com/artist/3AyFUxfuZMSclzNPUXOFYh), [Aaron Bell](https://open.spotify.com/artist/2C4GwKBbDeAiRsvObIeWJS), [Romeo Penque](https://open.spotify.com/artist/29U83154MYdAnCmh6VJp1n), [Osie Johnson](https://open.spotify.com/artist/2CYAlie3PicoM8mtJ5PekE), [Ray Mosca](https://open.spotify.com/artist/41zU5oECx5IdTMVWOrzC7u) | [A Jazzman's Broadway](https://open.spotify.com/album/7shBGIELLNFClmxxdBZr5h) | 2:15 | 2025-08-03 |  |
 | [Moon About Town](https://open.spotify.com/track/2QPvN92YXJ7LnKrfNKCdrz) | [Dana Suesse](https://open.spotify.com/artist/7z6gHumB3WriLbqxXN1Gp8) | [Dana Suesse](https://open.spotify.com/album/2XowS7W11kPn1JPXNzVqo0) | 3:20 | 2025-06-27 |  |
 | [Moon About Town](https://open.spotify.com/track/78KIhz7vKYFqXCW3ZHaVvb) | [Dane Vannatter](https://open.spotify.com/artist/1XeeSo5hTiXO6lnbdtU2PW) | [Double Standards](https://open.spotify.com/album/2NjKDR9mMpKoWSPe0tEBKG) | 4:35 | 2024-07-24 | 2025-06-28 |
-| [More and More \(2013 \- Remaster\)](https://open.spotify.com/track/3SAst5fG02Dws4DhubDz5G) | [Joe DeRise & Australian Jazz Quartet](https://open.spotify.com/artist/2ocC7rvvz3SiAkiXCx9R50) | [Joe DeRise with the Australian Jazz Quartet \(2013 \- Remaster\)](https://open.spotify.com/album/1C86TqRGr4UZ2kznKf4Zq7) | 1:53 | 2026-04-14 |  |
+| [More And More](https://open.spotify.com/track/608oAdb67FUkCyKjgU0vF0) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [More Memories](https://open.spotify.com/album/2rJNm42eblzE7CCvukTW9T) | 2:55 | 2026-04-22 |  |
+| [More and More \(2013 \- Remaster\)](https://open.spotify.com/track/3SAst5fG02Dws4DhubDz5G) | [Joe DeRise & Australian Jazz Quartet](https://open.spotify.com/artist/2ocC7rvvz3SiAkiXCx9R50) | [Joe DeRise with the Australian Jazz Quartet \(2013 \- Remaster\)](https://open.spotify.com/album/1C86TqRGr4UZ2kznKf4Zq7) | 1:53 | 2026-04-14 | 2026-04-23 |
 | [Muchacha](https://open.spotify.com/track/1rsrYgQbVP69Qhhe44hjui) | [Arthur Maia](https://open.spotify.com/artist/4DRpkmcBP1jW0jpinvMr7J) | [Planeta música](https://open.spotify.com/album/0mS1IT1uA2X12y2nqjtuw5) | 7:47 | 2024-07-24 | 2025-06-28 |
 | [My One And Only Love \- Remastered](https://open.spotify.com/track/6DHuDz9Rnz5beUnOijThjH) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(Remastered / Expanded Edition\)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 3:12 | 2024-07-24 |  |
 | [Najala's Lament](https://open.spotify.com/track/4LA8agEAvsQOsUgXVRgZAs) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [Ultimate Erotic Best](https://open.spotify.com/album/2zUaWx4BMUfrZsFyYRFxRs) | 3:17 | 2025-12-17 | 2026-01-18 |

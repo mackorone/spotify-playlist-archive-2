@@ -512,7 +512,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 270713,
       "name": "Afterlife (Feat. OOHYO)",
       "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
@@ -2998,7 +2998,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 228240,
       "name": "Gwangalli",
       "url": "https://open.spotify.com/track/5NBEUl2xVpHQ7uZWUmUACH"
@@ -3158,7 +3158,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 223360,
       "name": "Headlight",
       "url": "https://open.spotify.com/track/3tKqOIvxiN9z5AfN6pHDHd"
@@ -3954,6 +3954,28 @@
       "duration_ms": 197648,
       "name": "Line 1",
       "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"
+    },
+    {
+      "album": {
+        "name": "little bottle",
+        "url": "https://open.spotify.com/album/3l6ZNtQCx5QKFUv9PbuL9F"
+      },
+      "artists": [
+        {
+          "name": "BehindtheMoon",
+          "url": "https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO"
+        },
+        {
+          "name": "\ub2e4\uc5f0",
+          "url": "https://open.spotify.com/artist/6uCg1kEMbaB0Wtm9iZ80kc"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203300,
+      "name": "little bottle",
+      "url": "https://open.spotify.com/track/57JNiMOIMmfL17DzFhjy92"
     },
     {
       "album": {
@@ -6097,6 +6119,24 @@
     },
     {
       "album": {
+        "name": "Stargazers",
+        "url": "https://open.spotify.com/album/3UENaS6UmhRQ5blgKC8JQ5"
+      },
+      "artists": [
+        {
+          "name": "ISEGYE IDOL",
+          "url": "https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218293,
+      "name": "Stargazers",
+      "url": "https://open.spotify.com/track/5ddJtDFlVL9GwdWNdnEDGL"
+    },
+    {
+      "album": {
         "name": "Starry Night",
         "url": "https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N"
       },
@@ -6558,6 +6598,24 @@
       "duration_ms": 236906,
       "name": "Tears of Joy",
       "url": "https://open.spotify.com/track/1N7rlhcvLORBithQsghpDH"
+    },
+    {
+      "album": {
+        "name": "Far From the Madding City",
+        "url": "https://open.spotify.com/album/43toiDnPej9XfkfNB821JD"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274582,
+      "name": "TENNIS",
+      "url": "https://open.spotify.com/track/4RG7gGJjxonz2xN63JjKrH"
     },
     {
       "album": {

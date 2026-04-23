@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Kristian Llov
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,214 likes - 90 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,299 likes - 90 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 9 | [You & Me](https://open.spotify.com/track/0dAxMPe61FnuVxgxubS3Jk) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Aiiwa](https://open.spotify.com/artist/4CNahfHGLBSK2dWM1ZLwMU), [Lake Silver](https://open.spotify.com/artist/3jUIM87ijH82I8Wp91U6aE) | [You & Me](https://open.spotify.com/album/6Z6PHF1KRZIwk1AU5pzkkr) | 4:29 |
 | 10 | [Be OK](https://open.spotify.com/track/4Qujdsyg6fVpuI6rMZsTQI) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Be OK](https://open.spotify.com/album/0iwhXyOUK1BDYmliOivVgp) | 3:00 |
 | 11 | [Lose Yourself](https://open.spotify.com/track/3w8AAVx0fbY0yQ2nPSJXV3) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [ALADAG](https://open.spotify.com/artist/1UxqOQnO1IPi07q5nB3src) | [That Sound EP](https://open.spotify.com/album/43NjhtmAVeXiOWp90lHx7N) | 2:40 |
-| 12 | [Azur \- Einmusik Remix](https://open.spotify.com/track/4DBlPr1khG2LWdtdKLuLIv) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Azur \(Einmusik Remix\)](https://open.spotify.com/album/31GwX2ixWTrSvPHJRggxk9) | 3:55 |
+| 12 | [Azur \- Einmusik Remix](https://open.spotify.com/track/4DBlPr1khG2LWdtdKLuLIv) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Azur \(Einmusik Remix\)](https://open.spotify.com/album/31GwX2ixWTrSvPHJRggxk9) | 3:55 |
 | 13 | [Move](https://open.spotify.com/track/1XyO7zz6B4zMtUzVrP5G1C) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [Move](https://open.spotify.com/album/0TmAvoXHWAGgzteBGHGVob) | 3:48 |
 | 14 | [Aurora](https://open.spotify.com/track/1jzElKXBVolMOycrSKsYAD) | [Philipp Lake](https://open.spotify.com/artist/1O6uzBR9eeNjNx7tDDXsZH) | [Aurora](https://open.spotify.com/album/4OIyRyrayU5OT9IAhMdP0f) | 3:24 |
 | 15 | [Fast Forward](https://open.spotify.com/track/5C9u6uyJUb88y2gSCJ3k1T) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Fast Forward](https://open.spotify.com/album/59amXgOK1IMmFQneRPIX4b) | 3:42 |

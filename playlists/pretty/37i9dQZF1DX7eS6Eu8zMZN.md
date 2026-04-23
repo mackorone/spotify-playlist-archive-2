@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 
 > Rock tranqui para concentrarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,038 likes - 107 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,043 likes - 107 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 | 98 | [Té para Tres](https://open.spotify.com/track/6b0scCYeLBGT3zyWoZUqJY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 2:23 |
 | 99 | [Afuera](https://open.spotify.com/track/1k7qwrtL7ZTaZsUwj7KjXJ) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Afuera](https://open.spotify.com/album/073Ba74ZF7WrtuzZHmoQRw) | 3:38 |
 | 100 | [Háblame \- Versión Acústica](https://open.spotify.com/track/1kHMWedCQgnOk8CKNlq3PQ) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Miedo Escénico](https://open.spotify.com/album/5xcCfpy6FkNrMEVTiOhuom) | 5:16 |
-| 101 | [Jardin](https://open.spotify.com/track/59qjlwBAL2m3ggriczGJit) | [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [Jardin](https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC) | 3:28 |
+| 101 | [Jardín](https://open.spotify.com/track/59qjlwBAL2m3ggriczGJit) | [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [Jardin](https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC) | 3:28 |
 | 102 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 |
 | 103 | [Oye Mi Amor](https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby) | [Anabel](https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx) | [Oye Mi Amor](https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY) | 3:15 |
 | 104 | [María \(Unplugged\) \- En Vivo](https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged \(En Vivo\)](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 4:15 |

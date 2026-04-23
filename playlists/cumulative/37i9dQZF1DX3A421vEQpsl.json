@@ -3130,7 +3130,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 176170,
       "name": "Kyaa Baat Haii 2.0 (From \"Govinda Naam Mera\")",
       "url": "https://open.spotify.com/track/3SxOgJihDKlbZ9C1OvLgNs"
@@ -4634,6 +4634,36 @@
       "duration_ms": 263020,
       "name": "Rimjhim Gire Saawan (From \"Music Teacher\")",
       "url": "https://open.spotify.com/track/79AOaYNZj1pD6HYlzZSkc2"
+    },
+    {
+      "album": {
+        "name": "Roop Di Rani (From \"Pati Patni Aur Woh Do\")",
+        "url": "https://open.spotify.com/album/0rBKrEb7X2TvALhHZXceVx"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Heer",
+          "url": "https://open.spotify.com/artist/2xa9mQkvZzkBY1cPIi3m7q"
+        },
+        {
+          "name": "Indeevar",
+          "url": "https://open.spotify.com/artist/72JrtarVilyjpFdwa3qgpF"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219212,
+      "name": "Roop Di Rani (From \"Pati Patni Aur Woh Do\")",
+      "url": "https://open.spotify.com/track/7xyNDDiMs0H0424cvXjdct"
     },
     {
       "album": {

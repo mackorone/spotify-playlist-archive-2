@@ -326,10 +326,14 @@
         {
           "name": "Pills",
           "url": "https://open.spotify.com/artist/1NgrNSrig5dsYileCEdnjy"
+        },
+        {
+          "name": "Meiko",
+          "url": "https://open.spotify.com/artist/7e0PrrMliFfcNeMg1tThAn"
         }
       ],
       "duration_ms": 161281,
-      "name": "Leave the Lights On (Morgan Page vs Pills Remix) [feat. Meiko]",
+      "name": "Leave the Lights On (Morgan Page vs Pills Remix)",
       "url": "https://open.spotify.com/track/76kjk6VEvz1IWxQyLQfJzI"
     },
     {
@@ -1711,17 +1715,21 @@
     {
       "added_at": "2016-10-05 04:35:44",
       "album": {
-        "name": "Letting Go (feat. Amelia Rose)",
+        "name": "Letting Go",
         "url": "https://open.spotify.com/album/5Lj0ipuLZtTLkI9bDk32tq"
       },
       "artists": [
         {
           "name": "Rameses B",
           "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        },
+        {
+          "name": "Amelia Rose",
+          "url": "https://open.spotify.com/artist/3B9VD7QWwNjdP260mR3lPM"
         }
       ],
       "duration_ms": 315705,
-      "name": "Letting Go (feat. Amelia Rose)",
+      "name": "Letting Go",
       "url": "https://open.spotify.com/track/1ohELWVOOnAU2kP0va56mu"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Madame, MACE, Shiva, Plaza e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,314 likes - 101 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,316 likes - 101 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 31 | [Il viaggio dell'anima](https://open.spotify.com/track/6S7hv1J7pci37eEMuctdl1) | [Jesto](https://open.spotify.com/artist/3zkAFoqRMvc1ZWjW65XOO8) | [Il viaggio dell'anima](https://open.spotify.com/album/1QhXBcIj5EbfracRAl6Awo) | 3:32 |
 | 32 | [Might Delete Later \(Oppure Forse No\)](https://open.spotify.com/track/6lQAel2CNOlN1gsh2GyAmd) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Might Delete Later \(Oppure Forse No\)](https://open.spotify.com/album/4DXU2wEJaMipE4tyolJzEK) | 2:25 |
 | 33 | [MEGLIO ME CHE TE!](https://open.spotify.com/track/46jcFpFSDWkbnUDxBZmtpf) | [KLAUS NOIR](https://open.spotify.com/artist/49IamDbZMOj9GPux8Z4i9e) | [MEGLIO ME CHE TE!](https://open.spotify.com/album/0i2dt4UTo34E0Pggyp9XA0) | 1:53 |
-| 34 | [COMMERCIALE](https://open.spotify.com/track/6Y4tjYPFQV9CA55ikyIdL6) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN), [FL4KA](https://open.spotify.com/artist/7IFTFzRKEdIGxr6M7zMUHf) | [COMMERCIALE](https://open.spotify.com/album/4I4C9ByvkV7CZgFoEwFF4w) | 2:36 |
+| 34 | [COMMERCIALE](https://open.spotify.com/track/6Y4tjYPFQV9CA55ikyIdL6) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN), [FL4KA](https://open.spotify.com/artist/7IFTFzRKEdIGxr6M7zMUHf), [Dry Ice](https://open.spotify.com/artist/4R6aXci8AC3XrbveV2bLh9) | [COMMERCIALE](https://open.spotify.com/album/4I4C9ByvkV7CZgFoEwFF4w) | 2:36 |
 | 35 | [L'HO FATTO](https://open.spotify.com/track/0JWzaiR4gg7B0lkk3S8WeV) | [Benii](https://open.spotify.com/artist/2BPa4q78epq6JYvtGBn0IF), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [ASCESA 0.1](https://open.spotify.com/album/2Bx7xNHCzTy2nswj4r9EoN) | 1:47 |
 | 36 | [torino città](https://open.spotify.com/track/6qBM4gkthWTrrbRvZ29r7i) | [Yung Pips](https://open.spotify.com/artist/1M4XDihKHvUJj1Nbp8O7i7) | [torino città](https://open.spotify.com/album/4VpOQPWbNMdqh5CUmSEOpx) | 2:12 |
 | 37 | [Day by day](https://open.spotify.com/track/5fzOl95K0Ab3UINFDYmf4k) | [Chryverde](https://open.spotify.com/artist/55Adwj1kve66exxO3f8Lpm), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Day by day](https://open.spotify.com/album/5dVRCCrzA6J2GYkSzsMDJf) | 2:31 |

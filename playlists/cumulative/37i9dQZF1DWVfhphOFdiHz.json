@@ -1503,6 +1503,28 @@
     },
     {
       "album": {
+        "name": "collide",
+        "url": "https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223456,
+      "name": "collide",
+      "url": "https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm"
+    },
+    {
+      "album": {
         "name": "Come Around",
         "url": "https://open.spotify.com/album/4OEYZY111V9EZWm9P7EX3u"
       },
@@ -1796,7 +1818,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 195448,
       "name": "Dangerous Nostalgia",
       "url": "https://open.spotify.com/track/3afGTfHfCJ6RjltpDGjazF"
@@ -2356,7 +2378,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 158980,
       "name": "Face Like Yours",
       "url": "https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM"
@@ -3052,6 +3074,24 @@
       "duration_ms": 136225,
       "name": "Girls Just Wanna",
       "url": "https://open.spotify.com/track/7z1Z3ORSLmusMHO2JvEALl"
+    },
+    {
+      "album": {
+        "name": "Girls Together",
+        "url": "https://open.spotify.com/album/6GE1FVYD53jZ64VhKTVKDV"
+      },
+      "artists": [
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Girls Together",
+      "url": "https://open.spotify.com/track/3riULgwcP2JRaspwjqxHBz"
     },
     {
       "album": {
@@ -5062,7 +5102,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 174705,
       "name": "Loophole",
       "url": "https://open.spotify.com/track/2WPm0mB8ZoKmD1uw76b6yf"
@@ -6106,6 +6146,24 @@
       "duration_ms": 155988,
       "name": "Pain & Pleasure",
       "url": "https://open.spotify.com/track/2YZ0fz1TO95yOoNKMXKNWl"
+    },
+    {
+      "album": {
+        "name": "Pain (Lonesome Version)",
+        "url": "https://open.spotify.com/album/7G2eiZtTNpFADoBqvzKFs6"
+      },
+      "artists": [
+        {
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263560,
+      "name": "Pain - Lonesome Version",
+      "url": "https://open.spotify.com/track/17PLTUNOheE8k9M2oOonFF"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 28864,
+  "num_followers": 28872,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -511,26 +511,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Ojos De Fuego",
-        "url": "https://open.spotify.com/album/5SWUp6WuA1XmRHXNzpEToq"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        },
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 314996,
-      "name": "Ojos De Fuego",
-      "url": "https://open.spotify.com/track/4O0L4QnB2dYlNWa6OydjiQ"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Si Me Voy Antes Que Vos",
         "url": "https://open.spotify.com/album/6oQhH2tBt62FLkyJDuhD1e"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 151564,
       "name": "Si Me Voy Antes Que Vos",
       "url": "https://open.spotify.com/track/34WS1tHEGx7W3fZDHtPmp8"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Ojos De Fuego",
+        "url": "https://open.spotify.com/album/5SWUp6WuA1XmRHXNzpEToq"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        }
+      ],
+      "duration_ms": 314996,
+      "name": "Ojos De Fuego",
+      "url": "https://open.spotify.com/track/4O0L4QnB2dYlNWa6OydjiQ"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -779,26 +779,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Soltar",
-        "url": "https://open.spotify.com/album/00SVJrCl9DMqFNqvISN1ME"
-      },
-      "artists": [
-        {
-          "name": "Bronko Yotte",
-          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 183989,
-      "name": "Soltar",
-      "url": "https://open.spotify.com/track/4fDcua8K7LINi5eeut5Hki"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Amor Amor",
         "url": "https://open.spotify.com/album/32sOFrdJmH8zCV9Zeii2Dg"
       },
@@ -819,6 +799,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Soltar",
+        "url": "https://open.spotify.com/album/00SVJrCl9DMqFNqvISN1ME"
+      },
+      "artists": [
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 183989,
+      "name": "Soltar",
+      "url": "https://open.spotify.com/track/4fDcua8K7LINi5eeut5Hki"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Vals de la Luna (Vivo en Madrid)",
         "url": "https://open.spotify.com/album/4GUXXkfXgUVlbbp9yhzNmb"
       },
@@ -835,30 +835,6 @@
       "duration_ms": 245482,
       "name": "Vals de la Luna (Vivo en Madrid)",
       "url": "https://open.spotify.com/track/1lcYkQf99lUThsqtccv3bO"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "MALAMADOS",
-        "url": "https://open.spotify.com/album/44lJ5zDofqcICxEkA3Dn0q"
-      },
-      "artists": [
-        {
-          "name": "MALAMADOS",
-          "url": "https://open.spotify.com/artist/39zMQLfX1vraPc3MBoIgQO"
-        },
-        {
-          "name": "Joaquinx Merino",
-          "url": "https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8"
-        },
-        {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
-        }
-      ],
-      "duration_ms": 141011,
-      "name": "MALAMADOS",
-      "url": "https://open.spotify.com/track/1AAkfOx447WGFIEOUzxNkX"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -891,18 +867,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Alma Gitana",
-        "url": "https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj"
+        "name": "MALAMADOS",
+        "url": "https://open.spotify.com/album/44lJ5zDofqcICxEkA3Dn0q"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+          "name": "MALAMADOS",
+          "url": "https://open.spotify.com/artist/39zMQLfX1vraPc3MBoIgQO"
+        },
+        {
+          "name": "Joaquinx Merino",
+          "url": "https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8"
+        },
+        {
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
         }
       ],
-      "duration_ms": 171309,
-      "name": "El Oasis",
-      "url": "https://open.spotify.com/track/2Q464tEwoBbA7exfvzPBce"
+      "duration_ms": 141011,
+      "name": "MALAMADOS",
+      "url": "https://open.spotify.com/track/1AAkfOx447WGFIEOUzxNkX"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -923,6 +907,22 @@
       "duration_ms": 228271,
       "name": "Arrullito",
       "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Alma Gitana",
+        "url": "https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 171309,
+      "name": "El Oasis",
+      "url": "https://open.spotify.com/track/2Q464tEwoBbA7exfvzPBce"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1075,50 +1075,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Cenital",
-        "url": "https://open.spotify.com/album/0QvnKhLge7VNaO29hCOAFK"
-      },
-      "artists": [
-        {
-          "name": "Lucio Mantel",
-          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "Ampersan",
-          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
-        }
-      ],
-      "duration_ms": 209917,
-      "name": "Cenital",
-      "url": "https://open.spotify.com/track/60yhtT4KG6a07BMov9LZKr"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "\u00c1rboles",
-        "url": "https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA"
-      },
-      "artists": [
-        {
-          "name": "Micaela Basadoni",
-          "url": "https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU"
-        },
-        {
-          "name": "Luna Sujatovich",
-          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
-        }
-      ],
-      "duration_ms": 139952,
-      "name": "Siesta rosa",
-      "url": "https://open.spotify.com/track/5hvRrwyKWzVLNe66ZicvTU"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Matilda",
         "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
       },
@@ -1151,6 +1107,30 @@
       "duration_ms": 269540,
       "name": "Sampa",
       "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Cenital",
+        "url": "https://open.spotify.com/album/0QvnKhLge7VNaO29hCOAFK"
+      },
+      "artists": [
+        {
+          "name": "Lucio Mantel",
+          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "Ampersan",
+          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
+        }
+      ],
+      "duration_ms": 209917,
+      "name": "Cenital",
+      "url": "https://open.spotify.com/track/60yhtT4KG6a07BMov9LZKr"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1191,6 +1171,26 @@
       "duration_ms": 272010,
       "name": "Qui\u00e9n da M\u00e1s?",
       "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "\u00c1rboles",
+        "url": "https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA"
+      },
+      "artists": [
+        {
+          "name": "Micaela Basadoni",
+          "url": "https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU"
+        },
+        {
+          "name": "Luna Sujatovich",
+          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
+        }
+      ],
+      "duration_ms": 139952,
+      "name": "Siesta rosa",
+      "url": "https://open.spotify.com/track/5hvRrwyKWzVLNe66ZicvTU"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "S\u00e1banas Azules",
-        "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "S\u00e1banas Azules",
-      "url": "https://open.spotify.com/track/2gCqFVyb4QGHe0ZxrKsDYf"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "La Noche",
         "url": "https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 237078,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "S\u00e1banas Azules",
+        "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "S\u00e1banas Azules",
+      "url": "https://open.spotify.com/track/2gCqFVyb4QGHe0ZxrKsDYf"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/3Pw6e83RiUyQUy1RS8kHKp"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        }
+      ],
+      "duration_ms": 274748,
+      "name": "Puzzle",
+      "url": "https://open.spotify.com/track/2jQQD23o4uQMCNVLwjKlCU"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "La Mariposa",
         "url": "https://open.spotify.com/album/0c6di7PysBHM3aaqyhC5BO"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 109962,
       "name": "La Mariposa",
       "url": "https://open.spotify.com/track/3k8diAty8oozYqQV8j7v0R"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/3Pw6e83RiUyQUy1RS8kHKp"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        }
-      ],
-      "duration_ms": 274748,
-      "name": "Puzzle",
-      "url": "https://open.spotify.com/track/2jQQD23o4uQMCNVLwjKlCU"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Fuera de mi lugar (a la medianoche)",
-        "url": "https://open.spotify.com/album/4n6x8opHANhAIi6MulKw9o"
-      },
-      "artists": [
-        {
-          "name": "Marina Wil",
-          "url": "https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4"
-        },
-        {
-          "name": "Lito Vitale",
-          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
-        }
-      ],
-      "duration_ms": 235558,
-      "name": "Fuera de mi lugar (a la medianoche)",
-      "url": "https://open.spotify.com/track/2RIP2mkuJTH4D7zkS9zf7F"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Cortina",
         "url": "https://open.spotify.com/album/7kO0eI677tAy6q64d9cefP"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 191118,
       "name": "Cortina",
       "url": "https://open.spotify.com/track/7uOIEmbLbDBYP041Ipi2qO"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Fuera de mi lugar (a la medianoche)",
+        "url": "https://open.spotify.com/album/4n6x8opHANhAIi6MulKw9o"
+      },
+      "artists": [
+        {
+          "name": "Marina Wil",
+          "url": "https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+        }
+      ],
+      "duration_ms": 235558,
+      "name": "Fuera de mi lugar (a la medianoche)",
+      "url": "https://open.spotify.com/track/2RIP2mkuJTH4D7zkS9zf7F"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Po\u00e9tica Bailable Vol. 1",
+        "url": "https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "\u00a1Juegue!",
+      "url": "https://open.spotify.com/track/1oZT85apwCX0CBsDnKE88S"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "REGALAMOS ROSAS EN LA LUNA",
         "url": "https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 280106,
       "name": "REGALAMOS ROSAS EN LA LUNA",
       "url": "https://open.spotify.com/track/0M8tyikK7IWZEb4x7Trjfc"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Po\u00e9tica Bailable Vol. 1",
-        "url": "https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "\u00a1Juegue!",
-      "url": "https://open.spotify.com/track/1oZT85apwCX0CBsDnKE88S"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
+      },
+      "artists": [
+        {
+          "name": "Santiago Alonso",
+          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "SERENATA (En Vivo en Anfitri\u00f3n - TV P\u00fablica)",
         "url": "https://open.spotify.com/album/0gFDlNWDmcA3HTxN36EXji"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 199429,
       "name": "Empez\u00e1",
       "url": "https://open.spotify.com/track/5IeeKP9RuykyaPwK3dAL0H"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
-      },
-      "artists": [
-        {
-          "name": "Santiago Alonso",
-          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
     },
     {
       "added_at": "2026-03-10 15:20:53",

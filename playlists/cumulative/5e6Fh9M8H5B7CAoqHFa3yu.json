@@ -30999,6 +30999,24 @@
     },
     {
       "album": {
+        "name": "serry",
+        "url": "https://open.spotify.com/album/5FDNYg9D3fHmLpUMoo7o4q"
+      },
+      "artists": [
+        {
+          "name": "Lofi u",
+          "url": "https://open.spotify.com/artist/7tOkG8CZx1DrlER0naUlOr"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265367,
+      "name": "serry",
+      "url": "https://open.spotify.com/track/7CfCtIapRmmDt4fsA2IDmR"
+    },
+    {
+      "album": {
         "name": "Ignor\u00e2ncia Natural",
         "url": "https://open.spotify.com/album/5TAkSlid9jUS2fSV35hwld"
       },
@@ -38958,6 +38976,24 @@
       "duration_ms": 236664,
       "name": "Wicked Dub",
       "url": "https://open.spotify.com/track/2RU7IAMiEdZJ1AWSMzNyXP"
+    },
+    {
+      "album": {
+        "name": "Wild Rose",
+        "url": "https://open.spotify.com/album/7JEpKrtSqRtSXctVEyrThS"
+      },
+      "artists": [
+        {
+          "name": "Adam Briscoe",
+          "url": "https://open.spotify.com/artist/3CcEHcp22NtPVNDeR80z2y"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253674,
+      "name": "Wild Rose",
+      "url": "https://open.spotify.com/track/1DSxPvR3hWSxPLvjESBJE6"
     },
     {
       "album": {

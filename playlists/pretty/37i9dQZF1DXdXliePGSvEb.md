@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,000 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,010 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 46 | [Azimuth](https://open.spotify.com/track/5eLQyZ8kZKFRukO1mIAXKQ) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Azimuth](https://open.spotify.com/album/1slnJE8ptgpAnNMyE83rcg) | 3:46 |
 | 47 | [132 TECHNO](https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [132 TECHNO](https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY) | 5:34 |
 | 48 | [skyskysky](https://open.spotify.com/track/06Nlp5oqdxzvTiZL99lxP8) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [yo,](https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB) | 2:23 |
-| 49 | [Feel It For You](https://open.spotify.com/track/76vnxLIS70EvlISthDydnE) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Feel It For You](https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F) | 3:31 |
-| 50 | [E After Next](https://open.spotify.com/track/1yb4K5pUkIfRZIw32ZaTvx) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [E After Next](https://open.spotify.com/album/1YNNaOiibKxllupH7pcEyU) | 3:59 |
+| 49 | [E After Next](https://open.spotify.com/track/1yb4K5pUkIfRZIw32ZaTvx) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [E After Next](https://open.spotify.com/album/1YNNaOiibKxllupH7pcEyU) | 3:59 |
+| 50 | [Feel It For You](https://open.spotify.com/track/76vnxLIS70EvlISthDydnE) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Feel It For You](https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F) | 3:31 |
 | 51 | [Buschtaxi](https://open.spotify.com/track/1GLWfcqdlEedcZ0KywSrf9) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Music Can Hear Us](https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0) | 8:36 |
 | 52 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
 | 53 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn5EPZUBfjn.md) - [plain]
 
 > Hip\-hop hits only\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,963 likes - 55 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,972 likes - 55 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn5EPZUBfjn.md) - [plain]
 | 54 | [21](https://open.spotify.com/track/2y1HLZTajHZEnqpIFZ2AJc) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [21](https://open.spotify.com/album/04w6RcU0V2pGnBderEqWiN) | 3:07 |
 | 55 | [Come & Go](https://open.spotify.com/track/29UocD5ZcszfHj87s1mqiD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Come & Go](https://open.spotify.com/album/28i9LjqRXyudh3hYRkxuJP) | 3:32 |
 
-Snapshot ID: `AAAAAEKY9QXfM3+c9gwUqcBuf6aNrIPu`
+Snapshot ID: `AAAAAHR+Iajw0DExPccdzuagDblmkDKg`

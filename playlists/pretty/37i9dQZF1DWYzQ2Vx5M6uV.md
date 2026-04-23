@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Rvssian, Rauw Alejandro & Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,354 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,358 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,15 +71,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 61 | [En Tu Marea](https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Pantera](https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV) | 2:33 |
 | 62 | [Moviendo El Piso](https://open.spotify.com/track/6Hl8NeXRjthQl4BTEkf2a5) | [Neomai](https://open.spotify.com/artist/0EMCLd5tzoPP35uUw23Pxz), [Rodezel](https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x) | [Moviendo El Piso](https://open.spotify.com/album/0cdthXsqV8uzKH0Z3g3NJP) | 2:08 |
 | 63 | [Wapa \- Remix](https://open.spotify.com/track/06RpXuLcw8SQn8kBlMLMvP) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Wapa \(Remix\)](https://open.spotify.com/album/45V2HrcN52duWmzzXjkQqV) | 3:48 |
-| 64 | [Tengo Un Plan \- Remix](https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tengo Un Plan \(Remix\)](https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH) | 3:35 |
-| 65 | [La Ruta](https://open.spotify.com/track/7sDPVFMYuoq9UPLrM1I7Ct) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Ruta](https://open.spotify.com/album/5lgRpUbqo5VRODoEiQeNCW) | 2:41 |
+| 64 | [La Ruta](https://open.spotify.com/track/7sDPVFMYuoq9UPLrM1I7Ct) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Ruta](https://open.spotify.com/album/5lgRpUbqo5VRODoEiQeNCW) | 2:41 |
+| 65 | [Tengo Un Plan \- Remix](https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tengo Un Plan \(Remix\)](https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH) | 3:35 |
 | 66 | [RAMÉ](https://open.spotify.com/track/4RYqpukZYyESWyhEc3EYXT) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [RAMÉ](https://open.spotify.com/album/4h5f7sE8qn781dGvmqSniw) | 2:41 |
 | 67 | [AZOLEAO](https://open.spotify.com/track/1o7orLqjr0u5EbTnxsPp4N) | [Zalek](https://open.spotify.com/artist/7wGIP46NCaUDHkLrGyabsE), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu) | [AZOLEAO](https://open.spotify.com/album/4xiQ2wrEzUeQg8OimLtaEH) | 2:15 |
 | 68 | [Todo Se Supera](https://open.spotify.com/track/4CaC69iESuAoTEJ3wN0DRd) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Todo Se Supera](https://open.spotify.com/album/6yuunIfINN48eEwBvD37T0) | 3:19 |
-| 69 | [Un Trip](https://open.spotify.com/track/4IxAbO2TlNdylq7JPBHX41) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi) | [Un Trip](https://open.spotify.com/album/6yVVZiq5Ovj4PP3FnSDW63) | 2:38 |
-| 70 | [PAKETE VAS](https://open.spotify.com/track/7pytb3QXxHRo7xr4SgtZbw) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [PAKETE VAS](https://open.spotify.com/album/0g0Wi4LkntibSaCldlIbJU) | 2:07 |
-| 71 | [Loba](https://open.spotify.com/track/1b89rnIq9nhaVwzWzRvuwk) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Loba](https://open.spotify.com/album/5bTpqqGwy5jbaKeOtan1f3) | 4:17 |
-| 72 | [X Siempre](https://open.spotify.com/track/3SqHkuKsJQ6SLSdMibLiTi) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [X Siempre](https://open.spotify.com/album/4503riheEdxWQTNSVZItgF) | 2:19 |
+| 69 | [PAKETE VAS](https://open.spotify.com/track/7pytb3QXxHRo7xr4SgtZbw) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [PAKETE VAS](https://open.spotify.com/album/0g0Wi4LkntibSaCldlIbJU) | 2:07 |
+| 70 | [Un Trip](https://open.spotify.com/track/4IxAbO2TlNdylq7JPBHX41) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi) | [Un Trip](https://open.spotify.com/album/6yVVZiq5Ovj4PP3FnSDW63) | 2:38 |
+| 71 | [X Siempre](https://open.spotify.com/track/3SqHkuKsJQ6SLSdMibLiTi) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [X Siempre](https://open.spotify.com/album/4503riheEdxWQTNSVZItgF) | 2:19 |
+| 72 | [Loba](https://open.spotify.com/track/1b89rnIq9nhaVwzWzRvuwk) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Loba](https://open.spotify.com/album/5bTpqqGwy5jbaKeOtan1f3) | 4:17 |
 | 73 | [Ojitos Chinos](https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Ojitos Chinos](https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk) | 2:21 |
 | 74 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 |
 | 75 | [El Problema \(2020\)](https://open.spotify.com/track/5C5MyN6NWwcvcJNud1bkEp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [El Problema \(2020\)](https://open.spotify.com/album/7A7fxgXTMgJ0qGnMIzj0YG) | 2:30 |

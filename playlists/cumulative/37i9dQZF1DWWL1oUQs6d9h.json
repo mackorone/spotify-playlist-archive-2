@@ -676,7 +676,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 200373,
       "name": "Dope Lovers",
       "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 198440,
       "name": "Feel It Too",
       "url": "https://open.spotify.com/track/7pa2CHENwzDO82W1UDpiJp"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 239019,
       "name": "Have a good Sunday! (Feat. Wang WooYoung)",
       "url": "https://open.spotify.com/track/7dBnxSbtW5TYC6hORAu0jo"
@@ -1382,6 +1382,24 @@
       "duration_ms": 129039,
       "name": "k bye",
       "url": "https://open.spotify.com/track/3ByurcMfnnP5Af9ezJ4DEa"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140241,
+      "name": "Keep Driving",
+      "url": "https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE"
     },
     {
       "album": {
@@ -2050,6 +2068,24 @@
       "duration_ms": 185000,
       "name": "peach eyes",
       "url": "https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz"
+    },
+    {
+      "album": {
+        "name": "puffette",
+        "url": "https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4"
+      },
+      "artists": [
+        {
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "pity dirty",
+      "url": "https://open.spotify.com/track/7fta8aLy0WI85TQ3HYTru9"
     },
     {
       "album": {
@@ -3054,6 +3090,24 @@
       "duration_ms": 155127,
       "name": "Yeonnam-dong",
       "url": "https://open.spotify.com/track/3C54aRHrrtuVWGTlhjQ5Ev"
+    },
+    {
+      "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/2UKoS0WE1NdjriJlOjRSPq"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "you",
+      "url": "https://open.spotify.com/track/4JxpLXRB3oa1pSDBJ8pVF9"
     },
     {
       "album": {

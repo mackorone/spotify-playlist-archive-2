@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 114823,
+  "num_followers": 114862,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,18 @@
     {
       "added_at": "2026-04-20 11:06:35",
       "album": {
-        "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
-        "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
+        "name": "WHY LOVE",
+        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 189677,
-      "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
-      "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
+      "duration_ms": 210000,
+      "name": "WHY LOVE",
+      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
     },
     {
       "added_at": "2026-04-20 11:06:35",
@@ -595,18 +591,22 @@
     {
       "added_at": "2026-04-20 11:06:35",
       "album": {
-        "name": "WHY LOVE",
-        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
+        "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+        "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
         }
       ],
-      "duration_ms": 210000,
-      "name": "WHY LOVE",
-      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
+      "duration_ms": 189677,
+      "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+      "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
     },
     {
       "added_at": "2026-04-20 11:06:35",
@@ -739,6 +739,30 @@
     {
       "added_at": "2026-04-20 11:06:35",
       "album": {
+        "name": "Dance for Jesus",
+        "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 200948,
+      "name": "Dance for Jesus",
+      "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
+    },
+    {
+      "added_at": "2026-04-20 11:06:35",
+      "album": {
         "name": "Uncle Pele / Sew-Tape",
         "url": "https://open.spotify.com/album/59cWQDtXikHHxtrdYI1KGc"
       },
@@ -767,30 +791,6 @@
       "duration_ms": 150000,
       "name": "Na Scra",
       "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
-    },
-    {
-      "added_at": "2026-04-20 11:06:35",
-      "album": {
-        "name": "Dance for Jesus",
-        "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 200948,
-      "name": "Dance for Jesus",
-      "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
     },
     {
       "added_at": "2026-04-20 11:06:35",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-04-20 11:06:35",
       "album": {
-        "name": "Uzama The 3rd",
-        "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 154268,
-      "name": "Osusu",
-      "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
-    },
-    {
-      "added_at": "2026-04-20 11:06:35",
-      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 181606,
       "name": "Titi",
       "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
+    },
+    {
+      "added_at": "2026-04-20 11:06:35",
+      "album": {
+        "name": "Uzama The 3rd",
+        "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 154268,
+      "name": "Osusu",
+      "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
     },
     {
       "added_at": "2026-04-20 11:06:35",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-04-20 11:06:35",
       "album": {
-        "name": "Mmmn",
-        "url": "https://open.spotify.com/album/6KHUZ6Kw6qohMw6aalUcsb"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Mmmn",
-      "url": "https://open.spotify.com/track/0QiUFqWBC5Qzho0Oh0c8U9"
-    },
-    {
-      "added_at": "2026-04-20 11:06:35",
-      "album": {
         "name": "Je m'appelle",
         "url": "https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 145519,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/6EzsUkZqhkXet4vVTc7kKv"
+    },
+    {
+      "added_at": "2026-04-20 11:06:35",
+      "album": {
+        "name": "Mmmn",
+        "url": "https://open.spotify.com/album/6KHUZ6Kw6qohMw6aalUcsb"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Mmmn",
+      "url": "https://open.spotify.com/track/0QiUFqWBC5Qzho0Oh0c8U9"
     },
     {
       "added_at": "2026-04-20 11:06:35",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2026-04-20 11:06:35",
       "album": {
+        "name": "Bother Me (feat. Victony)",
+        "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "Bother Me (feat. Victony)",
+      "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
+    },
+    {
+      "added_at": "2026-04-20 11:06:35",
+      "album": {
         "name": "Hey Jago",
         "url": "https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 165000,
       "name": "PITY THIS BOY (with Victony)",
       "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
-    },
-    {
-      "added_at": "2026-04-20 11:06:35",
-      "album": {
-        "name": "Bother Me (feat. Victony)",
-        "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
-      },
-      "artists": [
-        {
-          "name": "Os\u00e9",
-          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "Bother Me (feat. Victony)",
-      "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
     },
     {
       "added_at": "2026-04-20 11:06:35",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-04-20 11:06:35",
       "album": {
-        "name": "Back to Back",
-        "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 146129,
-      "name": "Back to Back",
-      "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
-    },
-    {
-      "added_at": "2026-04-20 11:06:35",
-      "album": {
         "name": "LOW WAIST",
         "url": "https://open.spotify.com/album/2jmuPUgr7v6QLPcDQtKI2u"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 131000,
       "name": "LOW WAIST",
       "url": "https://open.spotify.com/track/1rwIm5vnGEYZtSlVJTFj2u"
+    },
+    {
+      "added_at": "2026-04-20 11:06:35",
+      "album": {
+        "name": "Back to Back",
+        "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 146129,
+      "name": "Back to Back",
+      "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
     },
     {
       "added_at": "2026-04-20 11:06:35",

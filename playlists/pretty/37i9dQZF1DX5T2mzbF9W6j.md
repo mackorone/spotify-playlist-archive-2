@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,834 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,830 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 26 | [Decyzje](https://open.spotify.com/track/4LMQdvzEt5z4D14Rr2frwH) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Decyzje](https://open.spotify.com/album/6uYOJ4jwogpsfI4q80MS65) | 3:13 |
 | 27 | [Bruce](https://open.spotify.com/track/1huxW5YUwPYVlVNj3bUKns) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [12](https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz) | 2:50 |
 | 28 | [Zabierz mnie](https://open.spotify.com/track/3l4SiHIrsbFqVW1xjWZk6W) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Szkic i kontury](https://open.spotify.com/album/55Uor5uEjfvg4XaGmelGrv) | 3:17 |
-| 29 | [Wracam](https://open.spotify.com/track/5GYd7snaxD4knd8vPfHMDB) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [Wracam](https://open.spotify.com/album/4TabkmEusGSAl53UzIhyOR) | 3:05 |
-| 30 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
+| 29 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
+| 30 | [Wracam](https://open.spotify.com/track/5GYd7snaxD4knd8vPfHMDB) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [Wracam](https://open.spotify.com/album/4TabkmEusGSAl53UzIhyOR) | 3:05 |
 | 31 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 |
 | 32 | [Zoo \- z filmu "Zwierzogród 2"](https://open.spotify.com/track/1W6AFHYh0GZpiu40atnpaS) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(z filmu "Zwierzogród 2"\)](https://open.spotify.com/album/7oPKTptGg3JbF7nXYGwU6W) | 3:10 |
-| 33 | [Naiwna ja](https://open.spotify.com/track/4x9GZTzFsErAMCDBNw6C6v) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Naiwna ja](https://open.spotify.com/album/4XxHDMDdBKMF2paNzIrAdz) | 2:20 |
-| 34 | [Na szeroką wodę](https://open.spotify.com/track/377YrfXWzy5s3JVUveRITI) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [Na szeroką wodę](https://open.spotify.com/album/6CXUDCiPhg6n3pUpueBZgJ) | 2:38 |
+| 33 | [Na szeroką wodę](https://open.spotify.com/track/377YrfXWzy5s3JVUveRITI) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [Na szeroką wodę](https://open.spotify.com/album/6CXUDCiPhg6n3pUpueBZgJ) | 2:38 |
+| 34 | [Naiwna ja](https://open.spotify.com/track/4x9GZTzFsErAMCDBNw6C6v) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Naiwna ja](https://open.spotify.com/album/4XxHDMDdBKMF2paNzIrAdz) | 2:20 |
 | 35 | [Póki Mam Ciebie](https://open.spotify.com/track/7I3rXFOYOXyHfimFAdOoC0) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [IMI](https://open.spotify.com/artist/3u4cVaeeRXjComKa6guF0I), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Póki Mam Ciebie](https://open.spotify.com/album/6Vf7UxIJeTLSFazrwu6TDy) | 2:20 |
 | 36 | [Angels' Share](https://open.spotify.com/track/1UNVWbwbIEnxElW8b0PTFL) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Angels' Share](https://open.spotify.com/album/2iTs57ox6KJn1IjuH3IMWl) | 2:40 |
 | 37 | [Cztery pory roku](https://open.spotify.com/track/64WQcLBIXbjsAA6bh7uHmH) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp) | [Cztery pory roku](https://open.spotify.com/album/6Bc7mrgqOHPkiELJbPZt0x) | 2:52 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 52 | [Jak to jest](https://open.spotify.com/track/3b3XIBnhmU4zAt9vddjVvh) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [Jak to jest](https://open.spotify.com/album/0azwKn7dzVNHDTtc8P60uO) | 3:32 |
 | 53 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 |
 | 54 | [jet lag](https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [jet lag](https://open.spotify.com/album/0T5gxTSQ6mwKCAY19q4Z8p) | 3:21 |
-| 55 | [Muzyka pop](https://open.spotify.com/track/5R0i3UmUiz7dQjzECeFPwt) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Muzyka pop](https://open.spotify.com/album/0xLwcioIso3I9TpCYinABA) | 4:13 |
-| 56 | [Więcej nas](https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh), [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Więcej nas](https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx) | 3:01 |
-| 57 | [Hot!](https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hot!](https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0) | 2:45 |
+| 55 | [Więcej nas](https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh), [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Więcej nas](https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx) | 3:01 |
+| 56 | [Hot!](https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hot!](https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0) | 2:45 |
+| 57 | [Muzyka pop](https://open.spotify.com/track/5R0i3UmUiz7dQjzECeFPwt) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Muzyka pop](https://open.spotify.com/album/0xLwcioIso3I9TpCYinABA) | 4:13 |
 | 58 | [Ciszej](https://open.spotify.com/track/6aZayI481YYsBFERs1a0UG) | [Linia Nocna](https://open.spotify.com/artist/6ASsF4ZKpJlpeRF7HarDfe) | [Ciszej](https://open.spotify.com/album/02gdMVpWIJtHi393VT1gbC) | 2:28 |
-| 59 | [Brightest Light](https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp) | [Marianna Kłos](https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc) | [Brightest Light](https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h) | 3:00 |
-| 60 | [Szerokości!](https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8) | [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Szerokości!](https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU) | 2:37 |
+| 59 | [Szerokości!](https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8) | [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Szerokości!](https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU) | 2:37 |
+| 60 | [Brightest Light](https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp) | [Marianna Kłos](https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc) | [Brightest Light](https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h) | 3:00 |
 
 Snapshot ID: `AAAAALcVFSJp0KxJD1g2rkrdIAi+znZl`

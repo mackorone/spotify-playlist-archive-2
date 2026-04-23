@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,305 likes - 41 songs - 2 hr 55 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,303 likes - 43 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 39 | [I'm Going Home](https://open.spotify.com/track/1g2AbdCDCKyRZkafuRgOom) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Alice's Restaurant](https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm) | 3:18 |
 | 40 | [Don't Look Back \- feat\. Van Morrison](https://open.spotify.com/track/7CTBrlgx4l9JXfJellaBOE) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Don't Look Back](https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7) | 6:44 |
 | 41 | [1842](https://open.spotify.com/track/3QBeMDPyMqnqkTcIzajuJN) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [But This Chicken Proved Falsehearted](https://open.spotify.com/album/3vNTpXPg2fxhMv5pEGi9DH) | 4:59 |
+| 42 | [ក្រមុំដណ្តឹងម្តាយ](https://open.spotify.com/track/0zbstp77qF4re3PT8VvC6j) | [Sinn Sisamouth](https://open.spotify.com/artist/5Vp49PDKCSLwmRI1qhb0oa), [Huoy Meas](https://open.spotify.com/artist/6cFq8stOxHqx5gmbrj0f5t) | [ក្រមុំដណ្តឹងម្តាយ & ពស់វែកសកស្រកា](https://open.spotify.com/album/5OG4mmYvGq2IFKpzsAJuOm) | 2:30 |
+| 43 | [With or Without Me](https://open.spotify.com/track/0zokHpdhq69de6KcOWMMRj) | [Petite Garçon](https://open.spotify.com/artist/24Yfuj1uVoF1YznzjXcVDV) | [Let Go of Stress](https://open.spotify.com/album/29F6gRiX93yNCW9BzQe6Hr) | 2:34 |
 
-Snapshot ID: `AAAOKaScpt5FKaXJIZaS3+NqFWRNsJtX`
+Snapshot ID: `AAAOK45uAHsz2gDjDhGGzHTwC+hiOrgR`

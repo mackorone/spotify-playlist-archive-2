@@ -39087,6 +39087,24 @@
     },
     {
       "album": {
+        "name": "Woman I Am",
+        "url": "https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211078,
+      "name": "Woman I Am",
+      "url": "https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ"
+    },
+    {
+      "album": {
         "name": "Woman Now",
         "url": "https://open.spotify.com/album/60b4zXrqhviQI1QprjwWVe"
       },

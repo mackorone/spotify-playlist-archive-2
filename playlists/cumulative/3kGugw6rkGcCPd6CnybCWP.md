@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-322 songs - 18 hr 37 min
+324 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Fire](https://open.spotify.com/track/6AYMMXHitROsSNE6KxQz9I) | [Holly Wild](https://open.spotify.com/artist/1gwRWwDueKmMcxHLX5ttmC) | [Fire](https://open.spotify.com/album/1RpsbQ26lwGS3tWYCRsB1q) | 3:24 | 2025-10-24 | 2025-12-02 |
 | [Flames From Ashes](https://open.spotify.com/track/2mxuCuLVNniXnAyHuuDlyZ) | [Lisha Sebastian](https://open.spotify.com/artist/3DGpupUZehN24bDfwPU647) | [Learning to Love](https://open.spotify.com/album/1Ck5RZSaEz4LzO0n1sQk6d) | 3:20 | 2026-03-26 | 2026-04-21 |
 | [Forever Blue](https://open.spotify.com/track/0HCpOV0BPeDiwzWMRdPc2F) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [Forever Blue](https://open.spotify.com/album/1jPuINX9YzECKkhVibkw0V) | 4:16 | 2025-11-14 | 2026-01-17 |
+| [Freakuency](https://open.spotify.com/track/6L5zC9NF2GgTXtlV9lyQaN) | [eyrin](https://open.spotify.com/artist/4pj5GKqMmzVNKsJHEgmiQb) | [Freakuency](https://open.spotify.com/album/5fTRffrRAXmip1mUb0r2Aw) | 4:25 | 2026-04-22 |  |
 | [Friday Night](https://open.spotify.com/track/1iLAJCSGufM6kFwQmEsAsy) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [Friday Night](https://open.spotify.com/album/4xy9aR4N9jINMWqrGDoxty) | 3:55 | 2025-11-03 | 2025-12-02 |
 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-03-08 |  |
 | [Getting Deeper](https://open.spotify.com/track/6voBpAEU8b7ZT6Vz5K6JW9) | [you](https://open.spotify.com/artist/0kLi0duqyWyoRkfqBv4lja) | [Getting Deeper](https://open.spotify.com/album/7euIEY0TVksPoeQxMZ9Gs3) | 3:12 | 2026-04-20 |  |
@@ -252,6 +253,7 @@
 | [Stay 11:11](https://open.spotify.com/track/7uJKlwmX0BxgIlbDKswIDn) | [Grace Smiles](https://open.spotify.com/artist/33i07ALaC6xQq0AoSnJTN1) | [Stay 11:11](https://open.spotify.com/album/2dlmMwtAli1znWbwZKKUej) | 3:47 | 2026-01-16 | 2026-02-20 |
 | [Stay at Home](https://open.spotify.com/track/2rH6auma4kzIccJqLL4CgZ) | [Eli Orion](https://open.spotify.com/artist/6NLvoDEJwXQj6k8nxniIit), [BUSTER](https://open.spotify.com/artist/5j4912Niko0ozSGWJThvkg) | [Morning After, Again](https://open.spotify.com/album/7r7wkB4ldSeXV3Y7RPZJ01) | 3:43 | 2026-01-05 | 2026-03-29 |
 | [Stay Wild, Have Fun](https://open.spotify.com/track/6DddkfQvmpV5HqSlUFDcKo) | [Jo LaRue](https://open.spotify.com/artist/4SSaR5cm4dnhPDkWNv1nZb) | [Stay Wild, Have Fun](https://open.spotify.com/album/59mv3Pteq8TgH1ode0UnBm) | 3:42 | 2025-11-24 | 2026-01-17 |
+| [Sticks and Mud](https://open.spotify.com/track/0pOUxLuxxUMWDV6DUUxprJ) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Daydreams](https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr) | 3:03 | 2026-04-22 |  |
 | [Still Here](https://open.spotify.com/track/31Ysqd200XLDm6gKPwvMYA) | [Tex M](https://open.spotify.com/artist/2UdABJUkfJ2hQEERZhhkUq) | [Still Here](https://open.spotify.com/album/39p1NuJHiJz6UJ6QBlaI87) | 2:03 | 2026-02-25 | 2026-04-16 |
 | [Stolen from the People](https://open.spotify.com/track/0zcvlslcLdMxJ9y9XhVwPZ) | [anisa ao](https://open.spotify.com/artist/6sVoTuFYhlpkmzqJUs7P2L) | [Stolen from the People](https://open.spotify.com/album/5tLbIqQReR6QRnyBx7qCs5) | 2:55 | 2026-02-23 | 2026-04-16 |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-10-24 | 2025-12-02 |

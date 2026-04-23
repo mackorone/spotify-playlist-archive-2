@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1FUX6sM67g.md) - [plain]
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Kany García y Juan Luis Guerra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,740 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,761 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

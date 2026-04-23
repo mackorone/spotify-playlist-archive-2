@@ -4,7 +4,7 @@
 
 > instrumental study beats for deep focus and concentration\. lock in, max productivity 📚 🎧 u got this!
 
-622 songs - 23 hr 49 min
+623 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,7 @@
 | [Peaceful Ghost](https://open.spotify.com/track/0xHlJoGrK2vxMT4rBOGqy5) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Peaceful Ghost](https://open.spotify.com/album/0F5PTu1lq5AbjV8ZSr7Qzx) | 2:21 | 2024-01-05 | 2024-06-08 |
 | [Peaches And Cream](https://open.spotify.com/track/14oGzCDd0Vc8zAmy4XZo9s) | [Extatics](https://open.spotify.com/artist/4iGRANB0bQlyjiewj4ZFs6) | [Peaches And Cream](https://open.spotify.com/album/35UfPfsj9bf6I90OS16Xqe) | 2:20 | 2024-01-05 | 2025-08-22 |
 | [Peachy](https://open.spotify.com/track/2WRKH5AuRG6c0uG1dQs9rh) | [cloud minor](https://open.spotify.com/artist/3l5LfIhzi10fJD4DJzW4ll) | [Peachy](https://open.spotify.com/album/1Hy7DveUNMzyX0dxU2BAYS) | 3:04 | 2024-11-07 |  |
-| [peanut butter shake](https://open.spotify.com/track/6qlRjxUAkxCTVtbEIntkEZ) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/2P0nMU7WLtITurnReYqaH3) | 2:45 | 2024-07-19 |  |
+| [peanut butter shake](https://open.spotify.com/track/6qlRjxUAkxCTVtbEIntkEZ) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/2P0nMU7WLtITurnReYqaH3) | 2:45 | 2024-07-19 | 2026-04-23 |
 | [peanut dream shake](https://open.spotify.com/track/32R8uRLa9uf1ffKWhVrdFR) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/7aqITKpq0WfAmXYwNCwj9u) | 2:45 | 2024-01-05 | 2024-04-19 |
 | [Pen Pal](https://open.spotify.com/track/5Oo2QK56CJN3scvaXVdaOR) | [Siegburg West](https://open.spotify.com/artist/06QqgeWBB7omtNKDJk773W) | [Pen Pal](https://open.spotify.com/album/3IeuMsDTGxhx94xO2UdSPO) | 2:18 | 2024-01-05 | 2025-08-22 |
 | [Pendulum](https://open.spotify.com/track/2LB3xquVei6eQEJYSofh0z) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Pendulum](https://open.spotify.com/album/7yTNsaO89jgkGBajDI3r9y) | 2:15 | 2024-01-05 | 2025-08-22 |
@@ -524,6 +524,7 @@
 | [Starfew Alley](https://open.spotify.com/track/4j647icCpXJcRES7szthoM) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Starfew Alley](https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V) | 2:09 | 2024-01-05 | 2025-05-10 |
 | [starry eyes](https://open.spotify.com/track/6HX2fTjb1lItGhMPjrcF0p) | [Cat Dreams](https://open.spotify.com/artist/5FcssevMYhJmgxxVmIUkH1) | [starry eyes](https://open.spotify.com/album/2ivknlaDl9aLesFWbhqgSz) | 1:55 | 2024-01-15 | 2025-09-26 |
 | [starry night](https://open.spotify.com/track/4EpMnMxqGXNfmDmEV4Uq6E) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [starry night](https://open.spotify.com/album/3Izct1glTX9dzY3SMbodJO) | 2:23 | 2024-01-05 | 2025-09-26 |
+| [Still Dock](https://open.spotify.com/track/6CvradJS3BYVT3sjrz6y6n) | [Half Memory](https://open.spotify.com/artist/5oDGsGsO36Sruc5NNySUTe) | [Still Dock](https://open.spotify.com/album/0S3NzJXHH92qA9LNui23nG) | 2:02 | 2026-04-22 |  |
 | [stomp around](https://open.spotify.com/track/7ccSh1AqYoH8UMvWU43HQZ) | [Miss Misaki](https://open.spotify.com/artist/72WUl0K33i5N2nHaAeOw0M) | [stomp around](https://open.spotify.com/album/1pt2F8Ch6rYUGFMirLfo0f) | 2:07 | 2024-01-05 | 2025-08-22 |
 | [stone walls](https://open.spotify.com/track/5nel7kSpeghUoQwWGg79JC) | [sunday zzzz](https://open.spotify.com/artist/4Zbz7i41jO9FLN6KfxOHIE) | [stone walls](https://open.spotify.com/album/3A36TVfR0sZnc4dTvPEvbq) | 2:41 | 2024-06-21 | 2024-07-19 |
 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 | 2024-01-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ShCuCszBOs.md) - [plain]
 
 > Enjoy the ZEROBASEONE Seoul world tour LIVE SET including the voices of them on stage! \(제로베이스원의 무대 멘트와 목소리가 포함된 서울 월드투어 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,480 likes - 30 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,481 likes - 30 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ShCuCszBOs.md) - [plain]
 | 10 | [Insomnia](https://open.spotify.com/track/6ZBvbBP192aoDc7ykFMgbW) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [CINEMA PARADISE](https://open.spotify.com/album/4sJqg93IDEPUQlj4CwQacF) | 2:43 |
 | 11 | [Good Night](https://open.spotify.com/track/3WQYdKHLbXQGitt7exmMXW) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:59 |
 | 12 | [Always](https://open.spotify.com/track/5AZjB4QYB3ZQ45gVO0b8We) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 2:09 |
-| 13 | [Over Me](https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF) | [Overdose](https://open.spotify.com/artist/32jdgEsyvdXqUoReMyR0gl) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 3:12 |
+| 13 | [Over Me](https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF) | [Overdose](https://open.spotify.com/artist/7iVsjta4JnKkAI6yBqKUbW) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 3:12 |
 | 14 | [Switch](https://open.spotify.com/track/4e378M6XRmJBW30gNws2TE) | [Gguggugi](https://open.spotify.com/artist/0SLGKxtZbiQFfJGtJ8TDTo) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 2:59 |
 | 15 | [En Garde](https://open.spotify.com/track/4GZvo0OL3BsRxNrj4TBeP3) | [En Butter](https://open.spotify.com/artist/3X6XIt8zNXvrNzxb1R8TW5) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 2:54 |
 | 16 | [ZEROBASEONE\_MENT B](https://open.spotify.com/track/1q0Q282ezXcbt5sUd18zjO) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD \(LIVE\)](https://open.spotify.com/album/38hbHsxJNCCiWg25GGNaev) | 8:02 |

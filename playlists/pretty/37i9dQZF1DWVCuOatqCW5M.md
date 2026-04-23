@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Arijit Singh, Payal Dev, Madhur Sharma and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,921 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,001 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Laiyaan](https://open.spotify.com/track/2ecDjOlGElRwIIhfpeg7Z6) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Ruaa Kayy](https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7), [RUTVXK](https://open.spotify.com/artist/1GmpuAH0l3Z0AYj0vkGh2e) | [Laiyaan](https://open.spotify.com/album/7v1vuvYPo1OLs7GSWBTKWM) | 3:33 |
-| 2 | [Bulleya Ve \| Coke Studio Bharat](https://open.spotify.com/track/6kb9VzJblzeib3eZD38K98) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Swarit Shukl](https://open.spotify.com/artist/68lFVBZfoBPbKgOLdPaUSb), [ASHOK MASKEEN](https://open.spotify.com/artist/1raw5H3Hs5PAYeOG7UYoMX) | [Bulleya Ve \| Coke Studio Bharat](https://open.spotify.com/album/0EDLG7SDQLmjVerqen9baP) | 5:24 |
+| 2 | [Bulleya Ve \| Coke Studio Bharat](https://open.spotify.com/track/6kb9VzJblzeib3eZD38K98) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Swarit](https://open.spotify.com/artist/2k3h7l54uB8Fa0yOjF0gnj), [ASHOK MASKEEN](https://open.spotify.com/artist/1raw5H3Hs5PAYeOG7UYoMX) | [Bulleya Ve \| Coke Studio Bharat](https://open.spotify.com/album/0EDLG7SDQLmjVerqen9baP) | 5:24 |
 | 3 | [Dosti](https://open.spotify.com/track/67L5pbi8qYQg3KKxroat6g) | [Shilpa Aggarwal](https://open.spotify.com/artist/68Ei7hl4pXB8M4PxV7XYu9), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM) | [Dosti](https://open.spotify.com/album/5QdFol6xjXoqijqV6gMJh4) | 3:52 |
 | 4 | [Ilzaam](https://open.spotify.com/track/6oKyU8BlhwFnRuaCMjizGQ) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Satyajeet Jena](https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Ilzaam](https://open.spotify.com/album/2LTC19IYB2RPPBhL77DcG5) | 3:39 |
 | 5 | [Awara](https://open.spotify.com/track/5mX2aKNEOmBVMwLb6WknfL) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk), [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur), [GARVV](https://open.spotify.com/artist/1M27DESbtsGNZrvvTyJ0eo) | [Awara](https://open.spotify.com/album/09LXLVDvPtIprv4rymHNx1) | 2:07 |

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover \- ANA
+> The best new music by independent artists and labels in India\. Cover \- JBABE
 
-1,921 songs - 4 day 14 hr 52 min
+1,923 songs - 4 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,7 +619,7 @@
 | [Hold Your Hand](https://open.spotify.com/track/6KXX2I2E1y30DVvmtvpSCs) | [Carolina Norbu](https://open.spotify.com/artist/6Vvjl4JhGGwJvcrzNKsyFP) | [Chemistry](https://open.spotify.com/album/0DNnvFe9wNdvR52dYkLoLH) | 2:32 | 2022-02-16 | 2022-03-03 |
 | [Holding On To The Hope](https://open.spotify.com/track/24IgBHkgObOvSD4A2IgW0y) | [The Colour Compound](https://open.spotify.com/artist/4KtxCWu3CoqSSHtdmdiwpu) | [Holding On To The Hope](https://open.spotify.com/album/4J7eyBtkz33Em3qI5FD1g9) | 3:22 | 2022-04-20 | 2022-05-19 |
 | [Home](https://open.spotify.com/track/421Ebj7i0EJ3zq05nYCmqZ) | [Nidhi Rawat](https://open.spotify.com/artist/7cf1RowWBaDGxNU9JDinlY) | [Home](https://open.spotify.com/album/0uqZ4OOIBXaenXsG45tvYc) | 3:10 | 2023-06-14 | 2023-08-24 |
-| [Home](https://open.spotify.com/track/59xtrZ1efk1xlccevchoso) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS) | [Everybody Knows, Everybody Understands.](https://open.spotify.com/album/66QbBuBIH8Pk5eHKWEqj9m) | 3:28 | 2026-02-18 |  |
+| [Home](https://open.spotify.com/track/59xtrZ1efk1xlccevchoso) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS) | [Everybody Knows, Everybody Understands.](https://open.spotify.com/album/66QbBuBIH8Pk5eHKWEqj9m) | 3:28 | 2026-02-18 | 2026-04-23 |
 | [Home](https://open.spotify.com/track/5uiswDLthSUVqf8Rk1NnRo) | [Shweta Srivastava](https://open.spotify.com/artist/7fDKGPqbGBIf9uc6Q3gINP) | [Home](https://open.spotify.com/album/0Tl1XKSajBfPFMlgKcvVWf) | 3:38 | 2022-03-23 | 2022-06-09 |
 | [Home Is a Person](https://open.spotify.com/track/13HP5q52FeGslvsug2gD6C) | [Robin Joseph](https://open.spotify.com/artist/7bvgoZUjbeBOiZ94FDkfTF), [Abhik Choudhury](https://open.spotify.com/artist/0f0kkVC1g9Tj5qA6mCvJyo) | [Home Is a Person](https://open.spotify.com/album/4pBWpAutsv07LUBPZK9Yfi) | 2:11 | 2024-02-28 | 2024-05-16 |
 | [Hometown](https://open.spotify.com/track/6RhEbIMGMfzgP87vVnAwjg) | [George Haokip](https://open.spotify.com/artist/70byiBrJdwpYFKP4zlBCie) | [Hometown](https://open.spotify.com/album/52yNfEQGfv1dBgFGRa9zet) | 2:41 | 2023-08-09 | 2023-11-10 |
@@ -812,6 +812,7 @@
 | [Kaayar](https://open.spotify.com/track/6cbxJhOuZWDP8kEeM6QWYe) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY) | [Kaayar](https://open.spotify.com/album/3nuufuEPeDjesdwC7AqzNQ) | 2:14 | 2023-09-27 | 2024-01-18 |
 | [Kab Yeh Shaam Dhaley](https://open.spotify.com/track/71r1RNL4irAaRZf1QE1gjw) | [A Dot In The Sky](https://open.spotify.com/artist/1qZDeu1NyIEwzO9bE81erG) | [Kab Yeh Shaam Dhaley](https://open.spotify.com/album/0ezgfNBRyLVGG1kC6IR2hD) | 5:50 | 2021-12-01 | 2022-01-13 |
 | [kabhi kabhi](https://open.spotify.com/track/3e8XkkOopfbyVcrDiVuM7r) | [AMATYA](https://open.spotify.com/artist/0Heah2porgesiBnVn5GUX2), [Dabeer](https://open.spotify.com/artist/1PgiYjgb3nC2Qyax12o3Fk), [BEERBUNNY](https://open.spotify.com/artist/7nadWdjgrQKyEs7dxn3CEG) | [kabhi kabhi](https://open.spotify.com/album/4oOVLFxVi0at1R4WQLGDl7) | 2:25 | 2022-08-03 | 2023-01-26 |
+| [Kabhi Kabhi](https://open.spotify.com/track/5KuFnXF1Z1zS9E89D0biYY) | [Kunal Pandit](https://open.spotify.com/artist/2X38jO2RYETr4jcb77rAnr) | [Kabhi Kabhi](https://open.spotify.com/album/4QELrKUmmQa1Rsdg6pHpCK) | 2:44 | 2026-04-22 |  |
 | [Kabhi Kabhi](https://open.spotify.com/track/7qe1K6raFo0Fxyrvb0bobf) | [Nidhi Rawat](https://open.spotify.com/artist/7cf1RowWBaDGxNU9JDinlY) | [Kabhi Kabhi](https://open.spotify.com/album/37XmxgSHYIYX9GyV57bQ11) | 3:33 | 2021-12-01 | 2022-01-13 |
 | [Kabhi Kabhi](https://open.spotify.com/track/1t3ypW6DYHtxdvR5lPWn8f) | [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Kabhi Kabhi](https://open.spotify.com/album/1QWMabbCgjaO8o7fqgeD3w) | 3:18 | 2024-12-04 | 2025-01-09 |
 | [Kabhi Kabhi](https://open.spotify.com/track/6mh140yXGpf0ABlVna1out) | [Pho](https://open.spotify.com/artist/3QXoQ4PbVx1LgzFFVOnvbu), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Kabhi Kabhi](https://open.spotify.com/album/2LLfecd85UR1XtvIm1o7vc) | 3:18 | 2024-01-10 | 2025-01-23 |
@@ -1315,6 +1316,7 @@
 | [Perfume](https://open.spotify.com/track/4Tf2FDY1CgoWgZGR5TrPje) | [vivasvan](https://open.spotify.com/artist/1aeAUpgdr1BjkKz8bzlt0l), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR) | [Perfume](https://open.spotify.com/album/2JvcXrf0EIFpIcn9lvMSoL) | 2:30 | 2025-03-05 | 2025-06-12 |
 | [persephone](https://open.spotify.com/track/2wVUPIC27DOrJiQX9388EJ) | [Gaia Meera](https://open.spotify.com/artist/1UELyRsYJIZC0QrOayNKxw) | [persephone](https://open.spotify.com/album/16ZNDmpFolJfTsdx939wiT) | 4:11 | 2022-05-18 | 2022-08-11 |
 | [Petals in the Rain](https://open.spotify.com/track/3zjtnhRYwWjTw5Up3cUGM4) | [Nikhil Narayan](https://open.spotify.com/artist/3Q9sRTHjvl3QAjtZwc9rPh) | [Petals in the Rain](https://open.spotify.com/album/3iRamLHjXqo7J5IfPBwq7z) | 4:10 | 2025-07-30 | 2025-11-06 |
+| [Phantom Baby](https://open.spotify.com/track/1CN05iiInwzi0XzNXB6WIZ) | [JBABE](https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby) | [Phantom Baby](https://open.spotify.com/album/2TPVo4DPP8kA6yosp9lpIa) | 3:32 | 2026-04-22 |  |
 | [Phase](https://open.spotify.com/track/6YUTTAipgb0FdBbVXB4GkB) | [Sarthak Saksena](https://open.spotify.com/artist/3rGPKj1qScQgEsDyL8PKfu) | [Phase](https://open.spotify.com/album/5yfYDSHDo712lB9m2ek2Y1) | 3:44 | 2022-04-06 | 2023-01-12 |
 | [Pheeki](https://open.spotify.com/track/6MUUHR78WVHQLZkE43vNEM) | [Desi Roots](https://open.spotify.com/artist/26hfUJM4wF2sje8dB1bhOI) | [Pheeki](https://open.spotify.com/album/3zcMqzfhGlg7ij7FNUjiae) | 3:28 | 2022-03-02 | 2022-03-10 |
 | [Phir Bekhabar](https://open.spotify.com/track/5pUrlEGxrzuC2PzjcqBFRA) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Phir Bekhabar](https://open.spotify.com/album/0cGn21RY35wMplh6OB7nRL) | 3:17 | 2022-09-14 | 2023-02-09 |
@@ -1694,7 +1696,7 @@
 | [Thousand Miles](https://open.spotify.com/track/1VJYxSVAhJLUUj2fGegCtb) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Thousand Miles](https://open.spotify.com/album/0cZ4FY7vanJaKXCSTG5guS) | 5:43 | 2021-12-01 | 2022-01-13 |
 | [Tigress](https://open.spotify.com/track/45TcQuukZWtO7qDPJyNFHm) | [Manchild](https://open.spotify.com/artist/29DEknQpxdiLrlgOHxnWKF) | [Tigress](https://open.spotify.com/album/6Evwv4kbSbqj1Fyjr8iOhJ) | 4:02 | 2022-06-22 | 2022-09-15 |
 | [Till Midnight](https://open.spotify.com/track/4Dc3XTwAWL6TmgkEBtT431) | [DapynMusic](https://open.spotify.com/artist/1MsAhXVBSgU6h9v9OvGrgi) | [Till Midnight](https://open.spotify.com/album/3IBr5MGj7ytvIThbhQtPWd) | 3:10 | 2024-01-17 | 2024-03-28 |
-| [Time's Going By](https://open.spotify.com/track/5bQfluUOOsWz5uwRdiXPqN) | [Malvi](https://open.spotify.com/artist/1emXPCYT47GWaaGMHgWm88) | [Time's Going By](https://open.spotify.com/album/0Do7E49u9b1ElsrWe2uGqP) | 4:54 | 2026-03-11 |  |
+| [Time's Going By](https://open.spotify.com/track/5bQfluUOOsWz5uwRdiXPqN) | [Malvi](https://open.spotify.com/artist/1emXPCYT47GWaaGMHgWm88) | [Time's Going By](https://open.spotify.com/album/0Do7E49u9b1ElsrWe2uGqP) | 4:54 | 2026-03-11 | 2026-04-23 |
 | [Tinka](https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Tinka](https://open.spotify.com/album/6nklrGCdQRC5NUuYoM9DMP) | 3:19 | 2023-05-31 | 2024-01-11 |
 | [Tippity\-Toe](https://open.spotify.com/track/0pVWurfElBtrujP1YB5WY3) | [Shivangi Kale](https://open.spotify.com/artist/1xGv7tCiaxDMDVtj8RY2N6) | [Tippity\-Toe](https://open.spotify.com/album/2DCh4W0PUjpJ5smHIJ9A6U) | 3:29 | 2022-06-08 | 2022-06-23 |
 | [Tiptoes](https://open.spotify.com/track/2pTE5zinlVElLlCtjmxdhj) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv) | [Tiptoes](https://open.spotify.com/album/3njRKt4cwtYFd7BLKWNVJp) | 3:14 | 2024-11-27 | 2025-05-16 |

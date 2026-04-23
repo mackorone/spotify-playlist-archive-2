@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,824 likes - 42 songs - 2 hr 16 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,829 likes - 43 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 40 | [Wrong Things](https://open.spotify.com/track/1wB6r8nXiBz0EETAAT2Ysn) | [Danitsa](https://open.spotify.com/artist/0M1Kb2aco43kS4nb66HOn2), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Wrong Things](https://open.spotify.com/album/3FVMLm8MQt729AkPGPIikI) | 2:49 |
 | 41 | [Around The World](https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Around The World](https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA) | 3:48 |
 | 42 | [Everything U](https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Everything U](https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi) | 3:30 |
+| 43 | [Fanga](https://open.spotify.com/track/2DykxprHbMOi4HlOGVXBo3) | [Narasimha](https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV) | [Fanga](https://open.spotify.com/album/71MjiX9HjfdP5Kf7WwnUtq) | 3:29 |
 
-Snapshot ID: `AAARbkZ/jDO68qRr4vaN7LXqvVLdu/+H`
+Snapshot ID: `AAARbxe5u3UexM+7zcEhLoiA0yyITdut`

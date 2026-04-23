@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,140 songs - 5 day 6 hr 41 min
+2,142 songs - 5 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1635,6 +1635,7 @@
 | [Semesta Menggila](https://open.spotify.com/track/6lnIySh1RqakQgC713tPsG) | [Insiden Ruang Legar](https://open.spotify.com/artist/2K8UAczIizDsAy6isQ4r9w) | [Semesta Menggila](https://open.spotify.com/album/6lyP8gp9QM9YFKK4TlGaRI) | 3:52 | 2025-08-02 |  |
 | [Seres de Luz](https://open.spotify.com/track/0eweIlwAkfm1L2FgW81cX3) | [Os Bardos da Pangeia](https://open.spotify.com/artist/3KMlVXkS8GLgNqU0ao8Hst) | [Seres de Luz](https://open.spotify.com/album/4eLYexORsIpytRvsunx716) | 7:22 | 2025-06-17 |  |
 | [Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Milk & Kisses](https://open.spotify.com/album/2xWjRAaO5qYhsJSxmJp1IK) | 3:57 | 2024-03-04 |  |
+| [serry](https://open.spotify.com/track/7CfCtIapRmmDt4fsA2IDmR) | [Lofi u](https://open.spotify.com/artist/7tOkG8CZx1DrlER0naUlOr) | [serry](https://open.spotify.com/album/5FDNYg9D3fHmLpUMoo7o4q) | 4:25 | 2026-04-22 |  |
 | [Servir e Proteger](https://open.spotify.com/track/55cqnts8ObPqRSynBvds5H) | [Tapuru](https://open.spotify.com/artist/6efhglYGjl31jFVNDRzHzh) | [Ignorância Natural](https://open.spotify.com/album/5TAkSlid9jUS2fSV35hwld) | 2:32 | 2025-10-15 |  |
 | [Sex Appeal](https://open.spotify.com/track/7um15LqVMfsUNaqtpv0cBG) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Sex Appeal](https://open.spotify.com/album/1xrXkVdiu7BlPV1z0KYapO) | 2:24 | 2024-10-06 |  |
 | [Señal](https://open.spotify.com/track/0YHztkvQIx2OJWRtuX6i9d) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 4:42 | 2025-12-28 |  |
@@ -2058,6 +2059,7 @@
 | [Wicked Ah Come](https://open.spotify.com/track/2H22wgZL7aSUoBG6SXkbFx) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 3:58 | 2024-03-23 |  |
 | [Wicked Babylon](https://open.spotify.com/track/759LNjKrf2prwpu7QVnbq4) | [Menilek](https://open.spotify.com/artist/61KYnn1IwsxUzHIStwSabV) | [Son of Solomon](https://open.spotify.com/album/1rC5MlLVYNCEYTtHB2IzFL) | 3:41 | 2024-05-01 |  |
 | [Wicked Dub](https://open.spotify.com/track/2RU7IAMiEdZJ1AWSMzNyXP) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 3:56 | 2024-03-23 |  |
+| [Wild Rose](https://open.spotify.com/track/1DSxPvR3hWSxPLvjESBJE6) | [Adam Briscoe](https://open.spotify.com/artist/3CcEHcp22NtPVNDeR80z2y) | [Wild Rose](https://open.spotify.com/album/7JEpKrtSqRtSXctVEyrThS) | 4:13 | 2026-04-22 |  |
 | [Wind of Memory](https://open.spotify.com/track/5zZIlhK0uriz3OCafDyTiO) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Wind of Memory](https://open.spotify.com/album/2mm8mdKvVf3wmqK3X8ZEKo) | 3:25 | 2023-08-16 |  |
 | [Winding Down](https://open.spotify.com/track/23up0WOGztxs52xTrPVajM) | [Robe Mode](https://open.spotify.com/artist/75v4Ig5LovCRPKJvQ2Gm7B) | [Winding Down](https://open.spotify.com/album/3xJftarohwHPE4GmgPyTyI) | 1:39 | 2025-11-14 |  |
 | [Winter Merry](https://open.spotify.com/track/3UuTeffQjzkVdx1o980TMt) | [柯淳恩](https://open.spotify.com/artist/7etKd05AwHXCtlW2Wq2r82) | [Winter Merry](https://open.spotify.com/album/16vHUPwb2WQnoTTEvBfqrf) | 3:24 | 2025-12-26 |  |

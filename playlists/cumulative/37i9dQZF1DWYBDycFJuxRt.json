@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Kan Sano *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/345484\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Kan Sano *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/345643\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -3958,6 +3958,24 @@
       "duration_ms": 2609737,
       "name": "2026/4/15 STUTS&\u5927\u8cab\u5999\u5b50\u304c\u767b\u5834\uff01\u30e2\u30ca\u30ad\u304b\u3089\u306e\u30e1\u30c3\u30bb\u30fc\u30b8\u3082\u5230\u7740\uff01Official\u9aed\u7537dism\u306e\u65b0\u66f2\u3001Vaundy\u3068yama\u306e\u30b9\u30d7\u30ea\u30c3\u30c8\u30b7\u30f3\u30b0\u30eb\u3001muque\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3001REJAY\u3068\u53f0\u6e7e\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8Andr\u306e\u30b3\u30e9\u30dc\u66f2\u3001\u6ce8\u76ee\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8Julia Takada\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01",
       "url": "https://open.spotify.com/episode/6g3XUTuD2aEfbLiFQcqCJN"
+    },
+    {
+      "album": {
+        "name": "New Music Wednesday [Podcast Edition]",
+        "url": "https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E"
+      },
+      "artists": [
+        {
+          "name": "New Music Wednesday [Podcast Edition]",
+          "url": "https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1739894,
+      "name": "2026/4/22 Kan Sano\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u304c\u5230\u7740\uff01LANA\u306e\u65b0\u66f2\u3001\u5947\u5999\u793c\u592a\u90ce\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3082\uff01\u6771\u4eac\u9152\u5410\u5ea7\uff08Tokyo Shoegazer\uff09\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3001\u53f0\u6e7e\u306eWendy Wander\u3068\u3001JABBERLOOP\u306b\u3088\u308b\u30b3\u30e9\u30dc\u66f2\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01Lucky Kilimanjaro\u306e\u718a\u6728\u5e78\u4e38\u306e\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u3082\uff01",
+      "url": "https://open.spotify.com/episode/5Mo986elFrtk6fad2hQfXW"
     },
     {
       "album": {
@@ -106181,6 +106199,24 @@
     },
     {
       "album": {
+        "name": "mosi mosi?",
+        "url": "https://open.spotify.com/album/7f1NEFlfunI7TMwrE886W5"
+      },
+      "artists": [
+        {
+          "name": "\u697d\u97f3",
+          "url": "https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "mosi mosi?",
+      "url": "https://open.spotify.com/track/76oCvJj6LRoed2754GybpH"
+    },
+    {
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/73LAJZRm61iAQZEjZTgojd"
       },
@@ -168619,24 +168655,6 @@
     },
     {
       "album": {
-        "name": "JOURNALS",
-        "url": "https://open.spotify.com/album/59TdIDpZpQ8nCOoxLBEtuf"
-      },
-      "artists": [
-        {
-          "name": "Hannah Warm",
-          "url": "https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7"
-        }
-      ],
-      "date_added": "2026-04-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2rByECYP3ZmRvfxH7hlXsk"
-    },
-    {
-      "album": {
         "name": "Debugging",
         "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
       },
@@ -180092,6 +180110,24 @@
       "duration_ms": 241999,
       "name": "why I let you go",
       "url": "https://open.spotify.com/track/4xH4AH4c4t0boBSZD0I7p0"
+    },
+    {
+      "album": {
+        "name": "JOURNALS",
+        "url": "https://open.spotify.com/album/59TdIDpZpQ8nCOoxLBEtuf"
+      },
+      "artists": [
+        {
+          "name": "Hannah Warm",
+          "url": "https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207089,
+      "name": "Why not",
+      "url": "https://open.spotify.com/track/2rByECYP3ZmRvfxH7hlXsk"
     },
     {
       "album": {

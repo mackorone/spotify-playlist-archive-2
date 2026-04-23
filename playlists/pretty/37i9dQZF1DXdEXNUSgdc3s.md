@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,761 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,817 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 | 66 | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/track/6zfn958Atr2Nrx4A4eGJI5) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/album/2ZLbL1RUAloHNUQxZpyqBm) | 2:35 |
 | 67 | [Namaste \- Alpha Sinus 102Hz \- 109Hz](https://open.spotify.com/track/6sdB0fMk2Kcu1mgJ5gQ47Z) | [Restovi](https://open.spotify.com/artist/7HtgTmI7yVTGoTsDqWVh5A) | [Namaste](https://open.spotify.com/album/44qckyrwtH1TFwC7rUma0o) | 3:16 |
 | 68 | [Binaural Alpha Deep 45,5 + 49 hz](https://open.spotify.com/track/5pGpcXSHImdddmdCylkRWP) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Horizon](https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z) | 2:34 |
-| 69 | [Deep Focus Alpha Sinus 92Hz \- 99Hz](https://open.spotify.com/track/2Bp0ZhtzZz4hz8DrF8L5Xo) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:17 |
+| 69 | [Deep Focus Alpha Sinus 92Hz \- 99Hz](https://open.spotify.com/track/2Bp0ZhtzZz4hz8DrF8L5Xo) | [Mission Venus](https://open.spotify.com/artist/6nsP0eM0eiF3sRTh4DsL27) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:17 |
 | 70 | [Binaural Alpha Sinus 100 Hz \- 108 Hz](https://open.spotify.com/track/5jybuYzW5AGQWMJNUh0URP) | [Goodness Gr8ness](https://open.spotify.com/artist/55rbsxmvnIOixAbVNg0LlA) | [Binaural Alpha Sinus 160 Hz \- 164 Hz](https://open.spotify.com/album/6EVolwCnTo3kSr3IE4Xupp) | 2:30 |
 | 71 | [Meditacion Profunda 54 Hz](https://open.spotify.com/track/4eGMzga0671WIOxPr4Vkz6) | [Z Izzard](https://open.spotify.com/artist/4qp4lOUTaF9RMySaLkjcyN) | [Meditacion Profunda 54 Hz](https://open.spotify.com/album/3yj9LuNHBxIcmmOKRMzoxt) | 3:10 |
 | 72 | [Pulse of Calm Alpha \(98Hz–106Hz\)](https://open.spotify.com/track/7wPgPviBRV5iTwkqPEz7vy) | [Solfjord](https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0) | [Pulse of Calm Alpha \(98Hz–106Hz\)](https://open.spotify.com/album/6m5uh7ucRfweDubwMynfXn) | 2:53 |

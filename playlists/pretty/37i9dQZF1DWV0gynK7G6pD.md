@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Renaud Capuçon
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,856 likes - 91 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,840 likes - 91 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 64 | [Variants in A Major "Souvenir de Paganini"](https://open.spotify.com/track/4zEY1zYjz95wXXbLFQmFPK) | [Fryderyk Chopin](https://open.spotify.com/artist/7tMAB63OgAglXyGSmcslBG), [Szymon Nehring](https://open.spotify.com/artist/01Zxbhs9NSmvNj2nZWdI5x) | [Frédéric Chopin: Etudes / Scherzo / Rondo a la Mazur](https://open.spotify.com/album/3mY2MpJtMEn2Akk00qXr4R) | 3:47 |
 | 65 | [33 Miniatures: No\. 23, Theme from Bear’s Kiss](https://open.spotify.com/track/6Ta5nCQyox9kEl6rPkkiwV) | [Giya Kancheli](https://open.spotify.com/artist/7eZXdqPC0XYtALWzaVjGLh), [Olga Jegunova\-Oppetit](https://open.spotify.com/artist/2iuAegX4KPDHRL5BcTrDfx) | [33 Miniatures: No\. 23, Theme from Bear’s Kiss](https://open.spotify.com/album/6Hy0JKu5TqNobjg22XLOXv) | 1:36 |
 | 66 | [Requiem for Mum](https://open.spotify.com/track/7ErANU7mqPqStgZnRiOQht) | [Joe Galuszka](https://open.spotify.com/artist/3skJ6O2Cm78d3UXoUMhoUM), [Bristol Ensemble](https://open.spotify.com/artist/2gHoH1nBzFw32SdetStnXH) | [Requiem for Mum](https://open.spotify.com/album/5pXwCZTryfaZForXODFSQP) | 5:28 |
-| 67 | [03.42 \- Soliloquio V](https://open.spotify.com/track/7gYGFJpSyJaHVsesWJ11NI) | [Nicola Tescari](https://open.spotify.com/artist/0c3LvuiTNcaDYbkaVFwLSW), [Manofresca](https://open.spotify.com/artist/7oVOgObg1YFvm2vIdPhEtE) | [03.42 \- Soliloquio V](https://open.spotify.com/album/2UScjVK1K0DP7306ENhEXn) | 3:37 |
+| 67 | [03.42 pm \- Soliloquio V](https://open.spotify.com/track/7gYGFJpSyJaHVsesWJ11NI) | [Nicola Tescari](https://open.spotify.com/artist/0c3LvuiTNcaDYbkaVFwLSW), [Manofresca](https://open.spotify.com/artist/7oVOgObg1YFvm2vIdPhEtE) | [03.42 pm \- Soliloquio V](https://open.spotify.com/album/2UScjVK1K0DP7306ENhEXn) | 3:37 |
 | 68 | [O come vaneggiate, Donna](https://open.spotify.com/track/1yzuq2G2IpSooDhwPgVWSi) | [Giaches de Wert](https://open.spotify.com/artist/1oMQRPbwi2uetIq5EPnLPP), [La Compagnia del Madrigale](https://open.spotify.com/artist/4Yur9Xe5kNEhiZ3WMJig7X) | [Giaches de Wert, Nono libro de madrigali](https://open.spotify.com/album/58mUBXJPAjrzSADbSoktaT) | 2:55 |
 | 69 | [3 mélodies, Op\. 23: No\. 1, Les berceaux \(Arr\. for Violin and Piano by Kerson Leong\)](https://open.spotify.com/track/2CsL21I5qwyXxbWv2o5l5w) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kerson Leong](https://open.spotify.com/artist/0vVQcKL2ELgA9ieOSCcgCg), [Jonathan Fournel](https://open.spotify.com/artist/6tchXfIzdl9tFNIi1fKAHc) | [Fauré: 3 mélodies, Op\. 23: No\. 1, Les berceaux](https://open.spotify.com/album/64idWLMI2oeRG6xY8YPL7c) | 3:01 |
 | 70 | [Mozart: Duo No\. 3](https://open.spotify.com/track/1keOpVtttVxzYfvKMhpfZr) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Christian Lindberg](https://open.spotify.com/artist/2gQKtXD5BZqKT8Tl9JfFcy), [Sergei Nakariakov](https://open.spotify.com/artist/32h8NkZiQ9UdUBCxiKKffU) | [Mozart: 12 Duets for Winds, K\. 487](https://open.spotify.com/album/21eJoSEpYDBlUmxTJXVUuB) | 2:42 |

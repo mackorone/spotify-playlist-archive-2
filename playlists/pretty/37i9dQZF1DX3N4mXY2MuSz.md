@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,028 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,026 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 39 | [Jingle Bells \- Punk Rock Version](https://open.spotify.com/track/7BbKJ8uPUCMnFr5bdskJyO) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza), [Henry Rollins](https://open.spotify.com/artist/6Jm8KViMNCuYjzrO1hJkcT) | [Shatner Claus](https://open.spotify.com/album/3qIFrZLHvYdd2jZcJaeRwd) | 3:19 |
 | 40 | [X'Mas Time \(It Sure Doesn't Feel Like It\)](https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Christmas Rock](https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2) | 2:57 |
 | 41 | [Little Drummer Boy](https://open.spotify.com/track/22rBktERctuWCLmnV51Td5) | [The Almost](https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 3:08 |
-| 42 | [Rudy Christmas A Jail](https://open.spotify.com/track/1iICcD096UT9ckrlTent5j) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 2:39 |
-| 43 | [Silent Night](https://open.spotify.com/track/6gnNYcp6JfcOmX7itB8Mqy) | [Masked Intruder](https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc) | [Under the Mistletoe](https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG) | 2:33 |
+| 42 | [Silent Night](https://open.spotify.com/track/6gnNYcp6JfcOmX7itB8Mqy) | [Masked Intruder](https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc) | [Under the Mistletoe](https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG) | 2:33 |
+| 43 | [Rudy Christmas A Jail](https://open.spotify.com/track/1iICcD096UT9ckrlTent5j) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 2:39 |
 | 44 | [Black Christmas](https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L) | [Poly Styrene](https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq) | [Black Christmas](https://open.spotify.com/album/3AiM0vW6bds2RNDKIgHZY9) | 3:23 |
 | 45 | [It's Beginning to Look a Lot Like Shitmas](https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d) | [A Kamakazi Christmas](https://open.spotify.com/artist/3o8sKHj7c3YQdv4fP3ydNR) | [A More Angry Than Naughty Kamakazi Christmas](https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk) | 0:52 |
 | 46 | [Another Christmas](https://open.spotify.com/track/7wTUURwHvDfAfUPHPaxhei) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 3:40 |
-| 47 | [Please Come Home for Christmas](https://open.spotify.com/track/2S8rCnJHO2Gbj6648CrDyf) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Punk Rock Christmas](https://open.spotify.com/album/0t4F6flsnJPTxR6sJOzE2X) | 2:02 |
-| 48 | [Under the Mistletoe](https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR) | [Masked Intruder](https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc) | [Under the Mistletoe](https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG) | 2:58 |
+| 47 | [Under the Mistletoe](https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR) | [Masked Intruder](https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc) | [Under the Mistletoe](https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG) | 2:58 |
+| 48 | [Please Come Home for Christmas](https://open.spotify.com/track/2S8rCnJHO2Gbj6648CrDyf) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Punk Rock Christmas](https://open.spotify.com/album/0t4F6flsnJPTxR6sJOzE2X) | 2:02 |
 | 49 | [Christmas is Canceled](https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca) | [Bankrupt](https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g) | [Christmas is Canceled](https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM) | 2:12 |
 | 50 | [Merry Flippin' Christmas \(Happy Freakin' New Year\)](https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Merry Flippin' Christmas Vol\. 1 and 2](https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj) | 2:44 |
 | 51 | [Sleigh Ride](https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 3:12 |

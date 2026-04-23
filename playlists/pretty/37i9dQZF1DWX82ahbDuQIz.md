@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: Death Becomes Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,644 likes - 82 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,654 likes - 82 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

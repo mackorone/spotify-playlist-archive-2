@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q9mvf.md) - [plain]
 
 > This is The Slits\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,192 likes - 34 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,194 likes - 34 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

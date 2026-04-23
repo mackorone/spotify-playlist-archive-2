@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,870 likes - 50 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,913 likes - 50 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 24 | [Kalli Beh Ke Sochni](https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64) | [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5) | [Greatest Hits Of Manmohan Waris](https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9) | 6:57 |
 | 25 | [Tu Mane Ya Na Mane \- Edit Version](https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Tu Mane Ya Na Mane](https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI) | 14:28 |
 | 26 | [Uchiyaan Lambiyaan](https://open.spotify.com/track/0IafwsYaah6ee0mY9FLOiO) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Uchiyaan Lambiyaan](https://open.spotify.com/album/43MG1gcCk4wp2ULa0Fl5xd) | 8:45 |
-| 27 | [Pyar Hoyi Janda Ae \- From "Arjan"](https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Pyar Hoyi Janda Ae \(From "Arjan"\)](https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT) | 4:43 |
-| 28 | [Jogi](https://open.spotify.com/track/0HaC7Uip2vMyHwLO5bQbB3) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt), [Manpreet Singh](https://open.spotify.com/artist/0vqqFNT40Yi47BEE0XBkfg), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Jogi](https://open.spotify.com/album/0IG13ld7Mb7nAcSemcgjfb) | 4:45 |
+| 27 | [Jogi](https://open.spotify.com/track/0HaC7Uip2vMyHwLO5bQbB3) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt), [Manpreet Singh](https://open.spotify.com/artist/0vqqFNT40Yi47BEE0XBkfg), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Jogi](https://open.spotify.com/album/0IG13ld7Mb7nAcSemcgjfb) | 4:45 |
+| 28 | [Pyar Hoyi Janda Ae \- From "Arjan"](https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Pyar Hoyi Janda Ae \(From "Arjan"\)](https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT) | 4:43 |
 | 29 | [Ghazal](https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi) | [Ammri](https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Ghazal](https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR) | 3:19 |
 | 30 | [Ve Sone Diyan Kangna](https://open.spotify.com/track/3E765tcRR8JBqWBha6AG3Q) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Treasured Moments](https://open.spotify.com/album/3AJVUQpGABGVVUoDvi848K) | 19:34 |
 | 31 | [Uthan Wale Lai Jaange](https://open.spotify.com/track/6zqxy4YhDcsbiN89cqcE8u) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Ishqe De](https://open.spotify.com/album/3xeIWOhVor6b8GbMlmgr5C) | 6:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Tiffany Day...\. you dropped this 👑
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,102 likes - 125 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,203 likes - 125 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

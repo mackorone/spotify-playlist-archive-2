@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -2882,7 +2882,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
@@ -2954,10 +2954,28 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 204815,
       "name": "dandelion",
       "url": "https://open.spotify.com/track/3fxDcaiomBMomHdMeCSsZ2"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204815,
+      "name": "dandelion",
+      "url": "https://open.spotify.com/track/6wZOZ0votPhc8qdg4UFPtH"
     },
     {
       "album": {
@@ -4138,7 +4156,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 236230,
       "name": "feelslikeimfallinginlove",
       "url": "https://open.spotify.com/track/5VSqvL5NLxBr7uMNfjwLt8"
@@ -4716,10 +4734,28 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 216264,
       "name": "Hampstead",
       "url": "https://open.spotify.com/track/0T3gCq5ZQvGq9jqZmaAff1"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216264,
+      "name": "Hampstead",
+      "url": "https://open.spotify.com/track/4D2DFuqs2PwLiHbcf6CX47"
     },
     {
       "album": {
@@ -5218,7 +5254,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 219946,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/6hvRoJ0BTZywxu8UCPBkzx"
@@ -7750,7 +7786,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 193837,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/0rIAC4PXANcKmitJfoqmVm"
@@ -8838,10 +8874,28 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 215834,
       "name": "past life",
       "url": "https://open.spotify.com/track/2Im5a2GdRF1QIUUNqnloX4"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215834,
+      "name": "past life",
+      "url": "https://open.spotify.com/track/2MIpkAQVJqQIDf9k4YWoHR"
     },
     {
       "album": {
@@ -9678,7 +9732,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 215626,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
@@ -11941,6 +11995,24 @@
     },
     {
       "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM"
+    },
+    {
+      "album": {
         "name": "eternal sunshine deluxe: brighter days ahead (a cappella version)",
         "url": "https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD"
       },
@@ -11952,7 +12024,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 198320,
       "name": "twilight zone",
       "url": "https://open.spotify.com/track/1edcyazKIdKrIuz9cWpXU6"
@@ -12197,6 +12269,24 @@
     },
     {
       "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201905,
+      "name": "warm",
+      "url": "https://open.spotify.com/track/0BeR2fJmYnKNn7IORw3GR9"
+    },
+    {
+      "album": {
         "name": "eternal sunshine deluxe: brighter days ahead (a cappella version)",
         "url": "https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD"
       },
@@ -12208,7 +12298,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 201905,
       "name": "warm",
       "url": "https://open.spotify.com/track/3bdSZEgKApb7vGxDxyrpdO"

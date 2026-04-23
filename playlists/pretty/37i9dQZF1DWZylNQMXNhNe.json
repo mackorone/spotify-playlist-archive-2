@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Bixarte",
-  "num_followers": 248632,
+  "num_followers": 248628,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,26 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
+        "name": "\u00c1GUA DE COCO",
+        "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
+      },
+      "artists": [
+        {
+          "name": "MARTTE",
+          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
+        },
+        {
+          "name": "Heddy Beats",
+          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
+        }
+      ],
+      "duration_ms": 134705,
+      "name": "\u00c1GUA DE COCO",
+      "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
         "name": "Amar\u00edssima V2 (Remix)",
         "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 151252,
       "name": "10 Minutos - Remix",
       "url": "https://open.spotify.com/track/0dR7WzzTPGipMCiErNxgPh"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "\u00c1GUA DE COCO",
-        "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
-      },
-      "artists": [
-        {
-          "name": "MARTTE",
-          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
-        },
-        {
-          "name": "Heddy Beats",
-          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
-        }
-      ],
-      "duration_ms": 134705,
-      "name": "\u00c1GUA DE COCO",
-      "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
     },
     {
       "added_at": "2026-03-27 03:00:31",

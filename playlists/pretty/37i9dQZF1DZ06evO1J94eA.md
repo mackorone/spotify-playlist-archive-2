@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 
 > This is Herbie Hancock\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,189 likes - 50 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,200 likes - 50 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 49 | [One Finger Snap \- Remastered](https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 7:21 |
 | 50 | [Miyako](https://open.spotify.com/track/2m8F1DopzoORa4jbV4c3C4) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO), [Curtis Fuller](https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK), [James Spaulding](https://open.spotify.com/artist/6F5uZAPmezDckVTqNpmpn2), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Schizophrenia](https://open.spotify.com/album/4Ngkptf4tipkoTOIjoF2kW) | 5:00 |
 
-Snapshot ID: `aeVsgAAAAABk/IqJEJmlcDWjLf7R1fUX`
+Snapshot ID: `aeVsgAAAAAC26TfMLm7rcR/+5OGGLozq`

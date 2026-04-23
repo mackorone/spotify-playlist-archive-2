@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-189 songs - 10 hr 8 min
+190 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Feeling Good \- triple j Like A Version](https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Feeling Good \(triple j Like A Version\)](https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs) | 3:59 | 2024-06-27 |  |
 | [Fire Escapes](https://open.spotify.com/track/7f8lDyHliy2grjseiVV7JS) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Fire Escapes](https://open.spotify.com/album/7kkPQtRxES08kc1r24BpjK) | 2:50 | 2024-06-27 | 2024-09-16 |
 | [First Heartbreak](https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [First Heartbreak](https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n) | 3:00 | 2024-09-12 |  |
-| [Flytta härifrån](https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v) | [Manon Lamartine](https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw) | [Flytta härifrån](https://open.spotify.com/album/6uUuPh3SkieVRxcruAwaMh) | 3:28 | 2024-10-04 |  |
+| [Flytta härifrån](https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v) | [Manon Lamartine](https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw) | [Flytta härifrån](https://open.spotify.com/album/6uUuPh3SkieVRxcruAwaMh) | 3:28 | 2024-10-04 | 2026-04-23 |
 | [Follow You](https://open.spotify.com/track/34Q2nKX8PIQNrYEe98mFoH) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Follow You](https://open.spotify.com/album/4ZYs6XPHza9DCaNccj5vo3) | 3:39 | 2025-05-26 | 2025-07-01 |
 | [Fragile Thing](https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Fragile Thing](https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj) | 2:48 | 2024-06-27 |  |
 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 | 2024-06-27 |  |
@@ -115,6 +115,7 @@
 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2024-06-27 |  |
 | [Just idag är jag stark](https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Just idag är jag stark](https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV) | 3:26 | 2025-01-23 | 2025-01-31 |
 | [Just Us](https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Just Us](https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc) | 3:34 | 2024-06-27 |  |
+| [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 | 2026-04-16 |  |
 | [Kite \- Acoustic](https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Kite \(Acoustic\)](https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd) | 2:29 | 2024-06-27 |  |
 | [Last Forever](https://open.spotify.com/track/3k7fKbbxx0FPxknUdUfOpp) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf), [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Last Forever](https://open.spotify.com/album/08Q5zl0Pi1083nDP01RMna) | 3:11 | 2024-09-12 | 2024-11-20 |
 | [let go of me slowly](https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [let go of me slowly](https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T) | 3:27 | 2024-06-27 | 2024-08-27 |

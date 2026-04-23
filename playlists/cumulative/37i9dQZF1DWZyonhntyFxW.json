@@ -198,7 +198,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 181533,
       "name": "3ALA FEN?",
       "url": "https://open.spotify.com/track/30COeIn1dQn7VgHYxgrU9Q"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "B.B. King (feat. Dhom Altlasy)",
       "url": "https://open.spotify.com/track/3foWJiDgHfG2OJfoiB6W9i"
@@ -1406,6 +1406,24 @@
       "duration_ms": 151578,
       "name": "Baklem El Amar",
       "url": "https://open.spotify.com/track/7L15zTOGWGnKZY7a7Fr2ol"
+    },
+    {
+      "album": {
+        "name": "Bansaki Fel Sif",
+        "url": "https://open.spotify.com/album/0CIRYgdMvvE9dMGmG8ONcv"
+      },
+      "artists": [
+        {
+          "name": "Begad",
+          "url": "https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169156,
+      "name": "Bansaki Fel Sif",
+      "url": "https://open.spotify.com/track/036zfPvKI80DWJt6GZHRjv"
     },
     {
       "album": {
@@ -5551,6 +5569,24 @@
     },
     {
       "album": {
+        "name": "Msh Batghayar",
+        "url": "https://open.spotify.com/album/3eIKq9W9VQCu16OB2QOMai"
+      },
+      "artists": [
+        {
+          "name": "Karim Osama",
+          "url": "https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Msh Batghayar",
+      "url": "https://open.spotify.com/track/4RR4R4a7kL1XNZgjBEP6Sg"
+    },
+    {
+      "album": {
         "name": "Msh Da Elle Ekhtarto",
         "url": "https://open.spotify.com/album/4kAMmCobqwvID1jNNVJGzG"
       },
@@ -5894,7 +5930,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 219250,
       "name": "Noor Ainy (feat. Humood Al Semah)",
       "url": "https://open.spotify.com/track/7uIZXZsGhD45EPW2ddLlqV"
@@ -6526,7 +6562,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 164400,
       "name": "Sebny Ala Dool",
       "url": "https://open.spotify.com/track/3fNOATr4zA4bKAhY7bdgNO"

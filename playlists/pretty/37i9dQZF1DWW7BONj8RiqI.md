@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Machel Montano
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,770 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,788 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 16 | [Mind My Business](https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Mind My Business](https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1) | 1:59 |
 | 17 | [Fast Wine](https://open.spotify.com/track/4NwVmwGWpiiPdJj3NCehe9) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Fast Wine](https://open.spotify.com/album/2htMNG5thjmStMpHtdE9iH) | 3:24 |
 | 18 | [Jump](https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [1 On 1](https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy) | 3:34 |
-| 19 | [Overdue](https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w) | [Overdue](https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3) | 2:57 |
-| 20 | [Bicycle Ride \- Soca Remix](https://open.spotify.com/track/3iGfDrCxEu5PLayUTF9OMX) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Mario Dunwell](https://open.spotify.com/artist/2nyWInNN7pGfAL7sgTAOOO) | [Bicycle Ride \(Soca Remix\)](https://open.spotify.com/album/6ZrNKMrWoQWQZ2HtY5RDD2) | 2:52 |
+| 19 | [Bicycle Ride \- Soca Remix](https://open.spotify.com/track/3iGfDrCxEu5PLayUTF9OMX) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Mario Dunwell](https://open.spotify.com/artist/2nyWInNN7pGfAL7sgTAOOO) | [Bicycle Ride \(Soca Remix\)](https://open.spotify.com/album/6ZrNKMrWoQWQZ2HtY5RDD2) | 2:52 |
+| 20 | [Overdue](https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w) | [Overdue](https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3) | 2:57 |
 | 21 | [Roll It Gal](https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 3:58 |
 | 22 | [Jamtown](https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg) | [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1), [Coutain](https://open.spotify.com/artist/1MdzISNKOYvAhoak5FBn2C) | [Heroes Riddim](https://open.spotify.com/album/259CBsx920bdse65Q33ln1) | 3:08 |
 | 23 | [Hard Fete](https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Hard Fete](https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK) | 3:50 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 43 | [Face Beat](https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG) | [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Face Beat](https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM) | 2:23 |
 | 44 | [D N A](https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [D N A](https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8) | 3:26 |
 | 45 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 |
-| 46 | [Holiday](https://open.spotify.com/track/3HhdRHgiGbSH8rcGhJ0PGW) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V), [Nelieux](https://open.spotify.com/artist/0gMDsodMcZUuum1iXNMVge) | [Black Keys Riddim](https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g) | 2:17 |
-| 47 | [Cloud 9](https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Cloud 9](https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR) | 3:28 |
+| 46 | [Cloud 9](https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Cloud 9](https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR) | 3:28 |
+| 47 | [Holiday](https://open.spotify.com/track/3HhdRHgiGbSH8rcGhJ0PGW) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V), [Nelieux](https://open.spotify.com/artist/0gMDsodMcZUuum1iXNMVge) | [Black Keys Riddim](https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g) | 2:17 |
 | 48 | [Soca Start](https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ) | [Soca Start](https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ) | 2:21 |
 | 49 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 |
 | 50 | [Tack Back](https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Tack Back](https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq) | 3:18 |

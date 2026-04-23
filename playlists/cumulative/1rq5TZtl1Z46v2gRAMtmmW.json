@@ -3095,6 +3095,24 @@
     },
     {
       "album": {
+        "name": "Fanga",
+        "url": "https://open.spotify.com/album/71MjiX9HjfdP5Kf7WwnUtq"
+      },
+      "artists": [
+        {
+          "name": "Narasimha",
+          "url": "https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209769,
+      "name": "Fanga",
+      "url": "https://open.spotify.com/track/2DykxprHbMOi4HlOGVXBo3"
+    },
+    {
+      "album": {
         "name": "Cascade",
         "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
       },

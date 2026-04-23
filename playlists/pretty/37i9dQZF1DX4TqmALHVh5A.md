@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : D'accord Simon
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,133 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,131 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 10 | [Silencieux](https://open.spotify.com/track/39KQPpuNyoNVM97LOizaxm) | [Peet](https://open.spotify.com/artist/7u4o1K3Qui9DmeWqSMsa6l) | [JOYBOY](https://open.spotify.com/album/07WovYq28qEgFfshFH42Xh) | 2:56 |
 | 11 | [CINÉMA](https://open.spotify.com/track/05AppqGcRJffs3mpphLOTU) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [CINÉMA](https://open.spotify.com/album/3w3eJevAHMoQzOv4lJDxox) | 2:35 |
 | 12 | [Merci](https://open.spotify.com/track/0pDyMsssPFrvzmqKqCzKdf) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Merci](https://open.spotify.com/album/2LKIzijGpkzbHyf3TsdkAG) | 3:47 |
-| 13 | [internet](https://open.spotify.com/track/7aC0og0wGBisY87cUpEdXG) | [Mitty](https://open.spotify.com/artist/6Wo4zyufcc4V8ZM1TCxDxW) | [internet](https://open.spotify.com/album/4I7qdgWeMuzB2ME7LnZcsN) | 2:42 |
+| 13 | [internet](https://open.spotify.com/track/7aC0og0wGBisY87cUpEdXG) | [Mittyintranslation](https://open.spotify.com/artist/6Wo4zyufcc4V8ZM1TCxDxW) | [internet](https://open.spotify.com/album/4I7qdgWeMuzB2ME7LnZcsN) | 2:42 |
 | 14 | [Viens en moi](https://open.spotify.com/track/3NXB3g0GGucjYBxY8JqmZ9) | [Marlon Magnée](https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs), [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Dark Star](https://open.spotify.com/album/3SzAcYU1XQjWeocjF8Gn5j) | 3:03 |
 | 15 | [ça pik un peu quand même](https://open.spotify.com/track/2ujqZZagehmL85kUTw8qFc) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [industry plant](https://open.spotify.com/album/3wx2wcQ53Ilo5NOUU6Mw65) | 2:17 |
 | 16 | [Winter Days 冬の日々\(feat\. Salasa\)](https://open.spotify.com/track/2bWgeHJmSexEyZgOCCPiAM) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Winter Days 冬の日々 \(feat\. Salasa\)](https://open.spotify.com/album/4P1S3gomsgdZjScXrhLKWA) | 3:42 |

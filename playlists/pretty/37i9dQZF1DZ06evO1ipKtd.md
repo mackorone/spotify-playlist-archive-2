@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ipKtd.md) - [plain]
 
 > This is Nala Sinephro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082 likes - 18 songs - 56 min 47 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,085 likes - 18 songs - 56 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

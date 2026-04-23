@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 ### [Campiranas y Sierreñas](https://open.spotify.com/playlist/37i9dQZF1DWYNz9xcyse7Z)
 
-> Cruzando cerros y arroyos con el legado musical que dejó la sierra\. Miguel y Miguel en portada.
+> Cruzando cerros y arroyos con el legado musical que dejó la sierra\. Ariel Camacho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,198 likes - 145 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,214 likes - 145 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

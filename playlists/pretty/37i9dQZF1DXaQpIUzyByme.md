@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,529 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,540 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 66 | [Daar Gaat Ze](https://open.spotify.com/track/7kMPC3vgXk3o9xUP3GWAJ0) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Clouseau30](https://open.spotify.com/album/5jy4Ndvb4aJcbt9Cy8LDFJ) | 3:47 |
 | 67 | [Ome Jan](https://open.spotify.com/track/6UWOJvPjoFA4NoCbLw8wzI) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Hollandse Sterren Collectie](https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk) | 4:31 |
 | 68 | [Liefdesliedjes](https://open.spotify.com/track/0wD43UCEku61GIZB89O0vP) | [De Jazzpolitie](https://open.spotify.com/artist/1nOTwY0FfKdXCBQiuQILbG) | [Liefdesliedjes](https://open.spotify.com/album/7CdAzPf0nk3FfsXGuZWiI7) | 4:44 |
-| 69 | [Zomer](https://open.spotify.com/track/7n6IVz6fc1yGRi1DSmkRom) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:39 |
-| 70 | [V.V.T.](https://open.spotify.com/track/32PR7yBDk99gKE1ihEcKQB) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Hemel & Aarde](https://open.spotify.com/album/0Jgb5SBxUJOPRRL0H6SNMz) | 4:54 |
+| 69 | [Zonder Jou](https://open.spotify.com/track/7dIuHfrJskIy7ynwRkptkb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2SqhO69ScHJePoFmMesQs6) | 3:56 |
+| 70 | [Zomer](https://open.spotify.com/track/7n6IVz6fc1yGRi1DSmkRom) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:39 |
 
 Snapshot ID: `AAAAAEnqx6NixhaUBYjgLkGZz3EeCJRl`

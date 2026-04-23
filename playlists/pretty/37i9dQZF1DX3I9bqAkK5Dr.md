@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Anirudh Suswaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,892 likes - 78 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,901 likes - 78 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Evvare Evvare](https://open.spotify.com/track/6PO9tnh3wD1aONPiEnklKe) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Aishwarya Ravichandran](https://open.spotify.com/artist/0Mbxm07Hiahy2xSMtesff8) | [Evvare Evvare](https://open.spotify.com/album/7aADKIlahFtMNGHlOCAzUu) | 4:01 |
+| 1 | [Evvare Evvare](https://open.spotify.com/track/6PO9tnh3wD1aONPiEnklKe) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Aishwarya Ravichandran](https://open.spotify.com/artist/0Mbxm07Hiahy2xSMtesff8) | [Evvare Evvare](https://open.spotify.com/album/7aADKIlahFtMNGHlOCAzUu) | 4:02 |
 | 2 | [Tholi Prema](https://open.spotify.com/track/1n0vHglFsfr7zFQOybh9IA) | [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Sterlin Nithya](https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To), [Anirudh Shandilya Maramraju](https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo) | [Tholi Prema](https://open.spotify.com/album/3Fg6AMNJy3EcRsTpgIStGM) | 4:38 |
 | 3 | [Edho Varamila](https://open.spotify.com/track/3aBodknhLkUpac581YamqC) | [Akhil Chandra](https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Edho Varamila](https://open.spotify.com/album/6aUxYQX5Krg0aWNCTOTTOX) | 4:03 |
 | 4 | [Ningiloni Chandamama](https://open.spotify.com/track/5duaeNlFheTw4bGkuywnRe) | [Yadagiri Ajay Yesudass](https://open.spotify.com/artist/0dA5o66qNf5LDGxkTcuWXL) | [Ningiloni Chandamama](https://open.spotify.com/album/7u2HRvuKdLZ5f6ek1xg0rv) | 4:33 |

@@ -1,6 +1,6 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. COSME TADEO en portada.",
-  "num_followers": 426968,
+  "num_followers": 427160,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
+        "name": "Profundamente",
+        "url": "https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "Carta Abierta",
+      "url": "https://open.spotify.com/track/4eSYNzie0zHOPoXp0iisZw"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 172512,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/6ab5dRx0VtGzMjUejMFI9u"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
-        "name": "Profundamente",
-        "url": "https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 151626,
-      "name": "Carta Abierta",
-      "url": "https://open.spotify.com/track/4eSYNzie0zHOPoXp0iisZw"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 185469,
-      "name": "Al Mismo Nivel",
-      "url": "https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Banda La Pirinola",
         "url": "https://open.spotify.com/album/2B1eN4sLg3mjruRkO0X5G5"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 207632,
       "name": "Aventurero Y Loco",
       "url": "https://open.spotify.com/track/5lF5XniaT9e3EJMnDmSUsA"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 185469,
+      "name": "Al Mismo Nivel",
+      "url": "https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -2155,18 +2155,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Con la N\u00famero 1: 13 Rancheras y Cumbias",
-        "url": "https://open.spotify.com/album/2wpgtaMNbDEOs6Woe0PUhk"
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 177800,
-      "name": "Fue Tan Poco Tu Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6qm7ozFRARBhjOfvhygUNn"
+      "duration_ms": 205813,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/2b9l3Hx1Msq36CiiVoqmtX"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -2187,18 +2187,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Hoy y Siempre",
-        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+        "name": "Con la N\u00famero 1: 13 Rancheras y Cumbias",
+        "url": "https://open.spotify.com/album/2wpgtaMNbDEOs6Woe0PUhk"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 205813,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/2b9l3Hx1Msq36CiiVoqmtX"
+      "duration_ms": 177800,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6qm7ozFRARBhjOfvhygUNn"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -2235,18 +2235,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
-        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
+        "name": "Tenis M\u00e1gicos",
+        "url": "https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 174453,
-      "name": "La Fea",
-      "url": "https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh"
+      "duration_ms": 154693,
+      "name": "Tenis m\u00e1gicos",
+      "url": "https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -2267,18 +2267,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Tenis M\u00e1gicos",
-        "url": "https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D"
+        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
+        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 154693,
-      "name": "Tenis m\u00e1gicos",
-      "url": "https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep"
+      "duration_ms": 174453,
+      "name": "La Fea",
+      "url": "https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -2315,18 +2315,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+        "name": "Banda Peque\u00f1os Musical",
+        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 176269,
-      "name": "La Peligrosa",
-      "url": "https://open.spotify.com/track/4qJylr6M0smswsVjpPQvTs"
+      "duration_ms": 175400,
+      "name": "Eso no, no, no",
+      "url": "https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -2347,18 +2347,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Banda Peque\u00f1os Musical",
-        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 175400,
-      "name": "Eso no, no, no",
-      "url": "https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om"
+      "duration_ms": 176269,
+      "name": "La Peligrosa",
+      "url": "https://open.spotify.com/track/4qJylr6M0smswsVjpPQvTs"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -2395,18 +2395,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Esta...Si! Es Banda! Pegando Con Tubo",
-        "url": "https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5"
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 159706,
-      "name": "El Jaripeo",
-      "url": "https://open.spotify.com/track/121OuFnnXX59x9wgf3pFyU"
+      "duration_ms": 172613,
+      "name": "Tu Castigo",
+      "url": "https://open.spotify.com/track/2qgcvWIkezO74IpIOUHIJs"
     },
     {
       "added_at": "2026-02-09 16:44:15",

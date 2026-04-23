@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-425 songs - 23 hr 20 min
+426 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Summarizing Sunrises](https://open.spotify.com/track/4RPxFFNwl0awElXJIRnxSQ) | [Don Salfva](https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW) | [Summarizing Sunrises](https://open.spotify.com/album/4ZEaUN5EcjTzJBHS2eBNjm) | 3:49 | 2021-09-17 | 2025-04-14 |
 | [Sunyata](https://open.spotify.com/track/5sL1zebMXrBymyK6STo7n6) | [Sureborn](https://open.spotify.com/artist/6pEkJOAdhn8zjYFNH7uZ8g) | [Sunyata](https://open.spotify.com/album/1bXMt1obmoWbDteFpp1DY5) | 4:13 | 2020-12-08\* | 2021-05-27 |
 | [Surface](https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK) | [Lerone Gios](https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52) | [Surface](https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6) | 2:06 | 2021-04-15 | 2025-11-16 |
-| [Swept Away](https://open.spotify.com/track/4CoI3DqVYCDGZIEY7ukEnU) | [Anas discors](https://open.spotify.com/artist/1btt73BhuA2lFZD05peAWD) | [Swept Away](https://open.spotify.com/album/6wgYwidPuval4o3MqeEpj0) | 3:09 | 2025-12-10 |  |
+| [Swept Away](https://open.spotify.com/track/4CoI3DqVYCDGZIEY7ukEnU) | [Anas discors](https://open.spotify.com/artist/1btt73BhuA2lFZD05peAWD) | [Swept Away](https://open.spotify.com/album/6wgYwidPuval4o3MqeEpj0) | 3:09 | 2025-12-10 | 2026-04-23 |
 | [Tetrial](https://open.spotify.com/track/3RKdfJKiVlFEYkHy95Wipt) | [Isaïe Limbila](https://open.spotify.com/artist/1Xyby5XAIEpGvYZzIz9f8r) | [Tetrial](https://open.spotify.com/album/0s1etM9N31dg0pmY4Ijurv) | 3:15 | 2023-10-02 |  |
 | [The Beach \- Beatless](https://open.spotify.com/track/3vM7pu2T1rSdUyFM7qyULV) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Beatless EP](https://open.spotify.com/album/6ojWTPCROs4UBqmKKc9K7B) | 4:01 | 2023-01-13 | 2024-03-24 |
 | [The Beach \- Beatless](https://open.spotify.com/track/6Er28KITtqA7MNOLz7M2pg) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [The Beach \(Beatless\)](https://open.spotify.com/album/55uT0xyvRnHEO4EtfbccVk) | 4:01 | 2022-11-22 | 2023-01-14 |
@@ -391,6 +391,7 @@
 | [Tikslingas](https://open.spotify.com/track/2pMeoS1SZqigdBMxghMTbJ) | [Teo Walter](https://open.spotify.com/artist/6JZdERTqI6ikmDkKmY4BKR) | [Tikslingas](https://open.spotify.com/album/607nQKNmISVcmWP29QYBXm) | 3:31 | 2022-05-19 | 2025-03-28 |
 | [Tired Eyes](https://open.spotify.com/track/41RcpktSrVWYmI8XaNZA07) | [Still Dreams](https://open.spotify.com/artist/0a1kKmsMURyIFWhuCgOsqR) | [Close To Sleep](https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK) | 4:12 | 2020-12-08\* | 2025-05-15 |
 | [To Unwind](https://open.spotify.com/track/7ov7MmCvTeQsHyDscGKTKD) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [To Unwind](https://open.spotify.com/album/2bGAKzje194VHkf6iR0l0t) | 2:42 | 2024-09-19 | 2025-10-02 |
+| [Together Alone](https://open.spotify.com/track/0bpNA6uoDL3a2JYY5pQfpG) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Underground Rainbow](https://open.spotify.com/album/0jN15gQ2W0ll9DYj1ejEMc) | 2:53 | 2026-02-12 |  |
 | [Towards Silence](https://open.spotify.com/track/25stZHn22KgYL9roXriBe9) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Towards Silence](https://open.spotify.com/album/4e3UJoorTIvwDfg8D4DDYr) | 2:54 | 2022-10-14 | 2026-03-28 |
 | [Transcendence EMDR](https://open.spotify.com/track/5g81eo7gUrc0exnDOhnoQJ) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Transcendence EMDR](https://open.spotify.com/album/2UOrOP0NQGSotpi2unJkxY) | 3:04 | 2025-05-14 | 2025-07-19 |
 | [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 | 2022-10-14 | 2025-11-06 |

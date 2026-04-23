@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,172 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,199 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,15 +72,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 62 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 |
 | 63 | [Silence Like The Grave](https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Silence Like The Grave](https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH) | 4:47 |
 | 64 | [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 |
-| 65 | [Raptor Squad Attack](https://open.spotify.com/track/2R69sY2isStlfXbbhfZxRP) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Raptor Squad Attack](https://open.spotify.com/album/2K5oYKC8PEJQJlPpAL4wd8) | 2:34 |
-| 66 | [Reincarnation](https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Reincarnation](https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ) | 4:09 |
+| 65 | [Reincarnation](https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Reincarnation](https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ) | 4:09 |
+| 66 | [Raptor Squad Attack](https://open.spotify.com/track/2R69sY2isStlfXbbhfZxRP) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Raptor Squad Attack](https://open.spotify.com/album/2K5oYKC8PEJQJlPpAL4wd8) | 2:34 |
 | 67 | [The Rune \(2025\)](https://open.spotify.com/track/5k6LqI2iBDkVQa3gixPB7S) | [Týr](https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa) | [The Rune \(2025\)](https://open.spotify.com/album/1EY79HaW7GIniTTMA9LVJd) | 6:46 |
 | 68 | [Kings of Ragnarök](https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Kings of Ragnarök](https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw) | 3:54 |
 | 69 | [Experience](https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Experience](https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM) | 5:14 |
 | 70 | [The Wicked Rule The Night](https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ralf Scheepers](https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV) | [The Wicked Rule The Night](https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf) | 4:24 |
 | 71 | [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 |
-| 72 | [Hall Of The Brave](https://open.spotify.com/track/3mSLiX28T94T85JtrAYpwv) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Song Of Darkness](https://open.spotify.com/album/7EaXelAWA9A48KtbJBcNWk) | 4:56 |
-| 73 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
+| 72 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
+| 73 | [Hall Of The Brave](https://open.spotify.com/track/3mSLiX28T94T85JtrAYpwv) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Song Of Darkness](https://open.spotify.com/album/7EaXelAWA9A48KtbJBcNWk) | 4:56 |
 | 74 | [Until the End](https://open.spotify.com/track/0bd3NFnDVgFZi25ktPoHHO) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Until the End](https://open.spotify.com/album/2qGsmSyz7OTBTGF6lQDt8X) | 4:02 |
 | 75 | [Guillotine Walk](https://open.spotify.com/track/1Uy1M28Xuf9SBNufDyXdm3) | [Axel Rudi Pell](https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl) | [Guillotine Walk](https://open.spotify.com/album/6HOYDjy4lO4gBiabpVLwpE) | 4:38 |
 | 76 | [Can You Hear Me](https://open.spotify.com/track/4sNfEL2D6Qgy370ajeldtJ) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf), [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [Can You Hear Me](https://open.spotify.com/album/1sPmGATnN4rdUUJyr7dLRT) | 4:10 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 94 | [Paradise Lost](https://open.spotify.com/track/2cXaW4pdpDmtAqkAyWKcLx) | [Alterium](https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV) | [Paradise Lost](https://open.spotify.com/album/0Kntofu4jRJmvBban1BWsO) | 6:46 |
 | 95 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 |
 | 96 | [Deified](https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C) | [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Deified](https://open.spotify.com/album/0s6HINWvUrRD3EmQG8YRPn) | 3:56 |
-| 97 | [As Empires Fall](https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [As Empires Fall](https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk) | 3:54 |
-| 98 | [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 |
+| 97 | [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 |
+| 98 | [As Empires Fall](https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [As Empires Fall](https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk) | 3:54 |
 | 99 | [I'll Be Thunder](https://open.spotify.com/track/7wwcdLz4PNnROgGn58VL1k) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [I'll Be Thunder](https://open.spotify.com/album/4GSNqQd7vKmVDCqfhGDS3y) | 3:20 |
 | 100 | [The Storm](https://open.spotify.com/track/3OplmgI6AGe5GtGPBwAbmz) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [The Thunderfist Chronicles \(Deluxe Version\)](https://open.spotify.com/album/2mh7ZPbUM9evlqf3wnQgy9) | 4:23 |
 

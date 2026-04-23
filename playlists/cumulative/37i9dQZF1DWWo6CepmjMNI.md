@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: SOK
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: The Publish
 
-328 songs - 23 hr 33 min
+330 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [From Now On](https://open.spotify.com/track/2CGjGKiz7HdaqOKLR4jE75) | [rubberstamp](https://open.spotify.com/artist/0fhLQtdb7qygZd7WCl3oY0) | [From Now On](https://open.spotify.com/album/1RhnfelKFOeXpfGoTScAZm) | 3:51 | 2025-05-30 | 2025-10-25 |
 | [Good Time](https://open.spotify.com/track/1Anas6GRmSjoIkyjuntZgz) | [Seal Pillow](https://open.spotify.com/artist/4Wojlk2KVCqYJ1D7ZskjDH) | [Good Time](https://open.spotify.com/album/0bfSQtsHLvUvLyoNQxPPHE) | 2:46 | 2025-05-30 | 2025-06-07 |
 | [Greed](https://open.spotify.com/track/5kD32fiZ5b6HiQOQDkM9wf) | [Flowers Pillar](https://open.spotify.com/artist/6wlHidGxh3Dx0lRtu7vHtM) | [Greed](https://open.spotify.com/album/5XIuWSPPwwTs33MAAEqIUc) | 4:42 | 2025-12-26 |  |
-| [Hallway](https://open.spotify.com/track/0kk4AZh6CwUvLUmlQ9XcJs) | [OK but no.](https://open.spotify.com/artist/5MFKZu8PvExV56orhdxPpA) | [Hallway](https://open.spotify.com/album/79R1zCiHRC7sjyV84VVGMg) | 3:23 | 2026-03-20 |  |
+| [Hallway](https://open.spotify.com/track/0kk4AZh6CwUvLUmlQ9XcJs) | [OK but no.](https://open.spotify.com/artist/5MFKZu8PvExV56orhdxPpA) | [Hallway](https://open.spotify.com/album/79R1zCiHRC7sjyV84VVGMg) | 3:23 | 2026-03-20 | 2026-04-23 |
 | [How Are U?](https://open.spotify.com/track/31d7yUJB75GOVgMDDiqoIt) | [ELEVEN](https://open.spotify.com/artist/2CdDqxKkNoPOVaipDo9rBN), [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [Don't Wanna Lose "U"](https://open.spotify.com/album/1avLfjuM8CQMIhGogDksw3) | 4:43 | 2024-06-21 | 2025-04-12 |
 | [IG](https://open.spotify.com/track/7Aepf1U1aEjhU4lhCmvqMz) | [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN), [MOTLEY FLOWER](https://open.spotify.com/artist/49CPHGp65T1yS5lgST1dWi) | [IG](https://open.spotify.com/album/3kt7j2BUwZ2FJRjCBZwdNH) | 3:32 | 2024-12-13 | 2025-05-17 |
 | [Jinna](https://open.spotify.com/track/4sTpyVCItKsKf9yduwZMIF) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [Jinna](https://open.spotify.com/album/1tjZtHV3wJuaeMgMouIkQ2) | 4:18 | 2024-06-28 | 2024-08-03 |
@@ -71,7 +71,7 @@
 | [กลับมาหา](https://open.spotify.com/track/4xKCJX8eyf4JkA2iZPQxrK) | [Techin](https://open.spotify.com/artist/5LYbiQQoxNyhxHh2RdHOKU) | [กลับมาหา](https://open.spotify.com/album/66WMUpuVrulqFihO7Cxpy2) | 4:03 | 2026-03-09 |  |
 | [กลับไปไม่รู้จัก \- Back To Strangers](https://open.spotify.com/track/41a1TRLJFko8a4rkoWYhdv) | [SOK](https://open.spotify.com/artist/2RcrQpcnnhqYCxJhul3mUa) | [กลับไปไม่รู้จัก \(Back To Strangers\)](https://open.spotify.com/album/4u9qavbgutFErDPWtmAg9h) | 4:19 | 2025-09-05 | 2025-09-13 |
 | [กลัวลืม](https://open.spotify.com/track/4HQ16IdY2XwCYPVmcSg6zG) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [กลัวลืม](https://open.spotify.com/album/05oGOoivSkPUADBnsEbP2c) | 3:44 | 2024-12-26 | 2025-01-25 |
-| [กลิ่นของดอกไม้](https://open.spotify.com/track/5cjpq08etyoQqnuYpv6U20) | [Chili sauce with mackerel](https://open.spotify.com/artist/4HYi53mjmSBq5dUk3hdFCh) | [กลิ่นของดอกไม้](https://open.spotify.com/album/65H7YVJiXtvSIAu6mhEZGs) | 3:55 | 2025-12-26 |  |
+| [กลิ่นของดอกไม้](https://open.spotify.com/track/5cjpq08etyoQqnuYpv6U20) | [Chili sauce with mackerel](https://open.spotify.com/artist/4HYi53mjmSBq5dUk3hdFCh) | [กลิ่นของดอกไม้](https://open.spotify.com/album/65H7YVJiXtvSIAu6mhEZGs) | 3:55 | 2025-12-26 | 2026-04-23 |
 | [กอดตัวเอง](https://open.spotify.com/track/1wz8Qxvz05IamC6bmdFkFu) | [tAH AND FRIENDS.](https://open.spotify.com/artist/7GiVqJyTERi3KviSwbnanE) | [กอดตัวเอง](https://open.spotify.com/album/6wMJNnTzM1q4mB3hx6Rr3G) | 4:27 | 2024-12-20 |  |
 | [การแอบรักใครสักคนนึง](https://open.spotify.com/track/0KhW3r1SRHHcW2IepwH5FJ) | [dayys](https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr) | [การแอบรักใครสักคนนึง](https://open.spotify.com/album/7mt8j5pGsfRH7mQUgnyTzS) | 3:41 | 2025-02-28 | 2025-03-22 |
 | [กาลครั้งหนึ่ง](https://open.spotify.com/track/2WiveUOux6dIjNHwOgSMkj) | [Serotonin](https://open.spotify.com/artist/1jv5r0hKtAnEhmeCAkAIFy) | [กาลครั้งหนึ่ง](https://open.spotify.com/album/4xS2yzQCTlQb6dSitNnV0t) | 4:38 | 2024-06-21 | 2024-08-03 |
@@ -191,6 +191,7 @@
 | [ภาพวันโหดร้าย \(Why?\)](https://open.spotify.com/track/6wELNCuVcZVRHs2PfvGaxq) | [ROUSE](https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB) | [ภาพวันโหดร้าย \(Why?\)](https://open.spotify.com/album/7Cdw5PP56ZeW8vbIh4AuT1) | 5:28 | 2024-06-21 | 2025-04-19 |
 | [ภาพเรา](https://open.spotify.com/track/4IO5XrgTEJmSkeX49WFQa2) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [ภาพเรา](https://open.spotify.com/album/4TyLJsokFClIRkyeurMKjG) | 3:40 | 2025-11-21 | 2026-01-15 |
 | [ภาพแทนใจ](https://open.spotify.com/track/5GU4qd4u4JisdNvm91z4ID) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [ภาพแทนใจ](https://open.spotify.com/album/2gxVX0out0vHNbQmrjwy2w) | 4:31 | 2024-06-21 | 2024-08-10 |
+| [มหานครกระจกเงา](https://open.spotify.com/track/5AdFyDcoHyRpu3niDZu2qw) | [The Publish](https://open.spotify.com/artist/1dkiRgFFVF7XmX4vo0NEEh) | [มหานครกระจกเงา](https://open.spotify.com/album/1nL5hK5Gnaal9xopEHbpzv) | 5:49 | 2026-04-22 |  |
 | [มอบดอกไม้ \(one date\)](https://open.spotify.com/track/1J4aLl39aBpfsR8M7p0VFx) | [PAKBUNG](https://open.spotify.com/artist/5GREsJHsL3GncdQgtfHLJq) | [มอบดอกไม้ \(one date\)](https://open.spotify.com/album/5B0qar4CUdf5ASjXlYDgjP) | 3:16 | 2024-07-19 | 2024-08-03 |
 | [มันจบลงแล้วใช่ไหม](https://open.spotify.com/track/3V21XBT70y2nytEwdJAiMy) | [REDDOOR](https://open.spotify.com/artist/7kHOUXsUzQVW2iiZ0RqnNQ) | [มันจบลงแล้วใช่ไหม](https://open.spotify.com/album/2TFjlmsnTNR5WDGTqdJ1Ys) | 5:43 | 2025-09-05 | 2025-09-13 |
 | [มายา \(Maya\)](https://open.spotify.com/track/1Cem1uvGhTYu3JB9uaaFi2) | [MAMIO](https://open.spotify.com/artist/3QZuZCQ3xF6bfUUD8or3vU) | [มายา \(Maya\)](https://open.spotify.com/album/4hfbSH6ZwMdvx6ZmGcj8ZV) | 3:27 | 2024-09-06 | 2024-09-21 |
@@ -246,6 +247,7 @@
 | [หวงเธอได้มั้ย \(jelly\)](https://open.spotify.com/track/0u2ICY64eKa8rsFnqg3OUy) | [dayys](https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr) | [หวงเธอได้มั้ย \(jelly\)](https://open.spotify.com/album/4lZuaKMNN0OMyzGbbbVcnA) | 3:08 | 2024-11-22 | 2024-11-29 |
 | [หากคำนวณความน่าจะเป็น คงได้แค่ 0 เปอร์เซ็นเท่านั้น](https://open.spotify.com/track/0jivjpX81Baork8Sc1qXMr) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [หากคำนวณความน่าจะเป็น คงได้แค่ 0 เปอร์เซ็นเท่านั้น](https://open.spotify.com/album/2MovYY8AFgs6aeBk4pR9ym) | 5:01 | 2025-02-07 |  |
 | [หากเธอยังอ่อนล้า](https://open.spotify.com/track/4sEHPGZUSkwvR1MOx7F32s) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [หากเธอยังอ่อนล้า](https://open.spotify.com/album/2e0gtbdOLAFDXASeJpyslR) | 5:04 | 2024-06-21 | 2025-03-29 |
+| [หากเป็นแมวสักวันคงดี](https://open.spotify.com/track/6hbsvi6h6EGed72avGhWDr) | [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR) | [หากเป็นแมวสักวันคงดี](https://open.spotify.com/album/6a4P09KbkhfRhG9A1m1OOo) | 3:51 | 2026-04-22 |  |
 | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/track/39mU3qyvw9veZvQkzk5UJi) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/album/0aHAfD1PG1pfU8iJKdubdS) | 3:51 | 2024-08-16 | 2025-02-22 |
 | [หาย \(Disconnect\)](https://open.spotify.com/track/0Gd5NAjYf85OU9FfSfFbhK) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [หาย \(Disconnect\)](https://open.spotify.com/album/0Cf6AY1Bjz8DlfdHNs90Uk) | 3:05 | 2024-10-25 | 2024-11-09 |
 | [ห่าง \(Aloof\)](https://open.spotify.com/track/3acoUHcihLubnQzclzNXlb) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [ห่าง \(Aloof\)](https://open.spotify.com/album/1SWDtRDueKEWt0o1eEd3ZE) | 4:51 | 2025-09-19 | 2025-10-18 |

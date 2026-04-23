@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sharan Kumar",
-  "num_followers": 19354,
+  "num_followers": 19359,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANO4JDvNgMvXr066fzrUw3ktZmcE",
+  "snapshot_id": "AAAAALA9ZZnPhwKMCIOY5kPGbkbfruk6",
   "tracks": [
     {
       "added_at": "2026-04-02 06:27:19",
@@ -331,6 +331,30 @@
       "duration_ms": 105918,
       "name": "Kaattu Thee",
       "url": "https://open.spotify.com/track/5HoTu1IeTAtQJY340chNFJ"
+    },
+    {
+      "added_at": "2026-04-22 12:04:58",
+      "album": {
+        "name": "Azhakiye",
+        "url": "https://open.spotify.com/album/5kF6xNN9BEAuuLwAg2bn0w"
+      },
+      "artists": [
+        {
+          "name": "Ajmal NS",
+          "url": "https://open.spotify.com/artist/1DQSb4emLM9WhYlBlEPXLi"
+        },
+        {
+          "name": "Syan Zues",
+          "url": "https://open.spotify.com/artist/0SIXk5dgJD5a6pYkjuEmsz"
+        },
+        {
+          "name": "Hamza Vattaparamba",
+          "url": "https://open.spotify.com/artist/5NNlRgYTsZ65C063MTV4U8"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "Azhakiye",
+      "url": "https://open.spotify.com/track/4K5lsr5a16XtOuoVxg6JeZ"
     },
     {
       "added_at": "2026-04-09 10:06:42",
@@ -1447,26 +1471,6 @@
       "duration_ms": 182937,
       "name": "Minnal",
       "url": "https://open.spotify.com/track/5LTPpvlqykXDlzVRO29BxV"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Mazhai Tuli",
-        "url": "https://open.spotify.com/album/0FgBGIgRD4g5mF2jPLstAl"
-      },
-      "artists": [
-        {
-          "name": "Jayakumar Dhanasekar",
-          "url": "https://open.spotify.com/artist/0PbhfVdGoisemMRtoMTBGg"
-        },
-        {
-          "name": "Senthil Kumar M",
-          "url": "https://open.spotify.com/artist/3lfMImVY1tXrx1lOv9UBap"
-        }
-      ],
-      "duration_ms": 244871,
-      "name": "Mazhai Tuli",
-      "url": "https://open.spotify.com/track/7wXjfaLndZ3VEeVGXLJgJH"
     },
     {
       "added_at": "2026-01-20 11:23:55",

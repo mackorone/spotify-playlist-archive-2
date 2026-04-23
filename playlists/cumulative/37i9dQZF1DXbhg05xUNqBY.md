@@ -4,7 +4,7 @@
 
 > Let go and let God.
 
-407 songs - 1 day 3 hr 6 min
+408 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [dwell](https://open.spotify.com/track/6APrayamM5q5xumqGca8wT) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Grace Coleman](https://open.spotify.com/artist/3R2G7IcUc0fmusW118P3cK) | [dwell](https://open.spotify.com/album/360JgfnkxMUaA7kjpNTXlW) | 4:19 | 2025-08-08 |  |
 | [Easy](https://open.spotify.com/track/6wLGR76rJ1HqWUJshvWbtM) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Easy](https://open.spotify.com/album/6d8x2X8GleIBbRvAU2zVDL) | 6:09 | 2026-03-23 |  |
 | [Eden Restored](https://open.spotify.com/track/7pmM87UsSeda7D8K8avnFU) | [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV) | [JUBILATION](https://open.spotify.com/album/629pdeYK3aEP2oCVgo8Vyv) | 6:50 | 2024-07-26 | 2025-04-05 |
+| [El Roi](https://open.spotify.com/track/3dBKAPLPzLQqEbIpkD4ekL) | [Heather Suzanne](https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO) | [El Roi](https://open.spotify.com/album/6m0G3Yny9o3iNgv1xwdgtj) | 2:59 | 2026-04-17 |  |
 | [Enough For Me](https://open.spotify.com/track/4mAjvXpzW7mVwakpDWgukZ) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [Enough For Me](https://open.spotify.com/album/09R33s9sO2JtCXMtlynPRg) | 3:16 | 2024-07-26 | 2026-04-18 |
 | [Esé](https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Esé](https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH) | 3:14 | 2025-12-13 |  |
 | [Eternal Light](https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [Eternal Light](https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg) | 4:07 | 2021-10-31 | 2025-04-05 |
@@ -353,7 +354,7 @@
 | [The Mire is Where Grace Abounds](https://open.spotify.com/track/28teLHHWDvP7PtUORZH6Nq) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [The Mire is Where Grace Abounds](https://open.spotify.com/album/1I0gK1uCdNtg0pF4aZ4L9f) | 2:25 | 2025-12-13 |  |
 | [The Old Rugged Cross \- Spotify Singles](https://open.spotify.com/track/7zvRdGXBx4ypKHzXwnmk58) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [The Old Rugged Cross \(Spotify Singles\)](https://open.spotify.com/album/6PPQduXeIf3ShWuJJGOg58) | 3:08 | 2026-04-17 |  |
 | [The Thank You Song](https://open.spotify.com/track/5jmz156BNGH5pqNQU1bAGz) | [Kevin Jones](https://open.spotify.com/artist/3nU78mclpmN6Yv3m5mvTUL) | [Simple as That](https://open.spotify.com/album/3XBMq0LWlGNbrhRFC7RAEV) | 3:17 | 2024-06-23 | 2025-04-05 |
-| [The Way of Love](https://open.spotify.com/track/7dPy7qLhDbkwqsStowDcFq) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [The Way of Love](https://open.spotify.com/album/27B6xYGSZ31DjV0XXqeerp) | 3:51 | 2025-08-08 |  |
+| [The Way of Love](https://open.spotify.com/track/7dPy7qLhDbkwqsStowDcFq) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [The Way of Love](https://open.spotify.com/album/27B6xYGSZ31DjV0XXqeerp) | 3:51 | 2025-08-08 | 2026-04-23 |
 | [The Wreck](https://open.spotify.com/track/5nVSProqTU4RYONccBvte5) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Selah \- EP](https://open.spotify.com/album/47jnz1CVIPk3gq1BhdVlIA) | 4:44 | 2024-06-23 | 2024-07-27 |
 | [There Is Peace \- Live](https://open.spotify.com/track/1gArkzIvOIPRVWqXoUmpG8) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Open Door \(Live\)](https://open.spotify.com/album/0NxDsacgrGu2cZQDuv8LFQ) | 6:10 | 2026-03-23 |  |
 | [There Will Be A Light Again](https://open.spotify.com/track/3hVLhSayyVMhAY5Ren4v1O) | [Kali Joy](https://open.spotify.com/artist/2p9Wic9uRDOjLRTzFAXGMe) | [Real Life](https://open.spotify.com/album/2kbI60CAiPN9oFRKqFTaIx) | 3:02 | 2024-07-26 | 2025-04-05 |

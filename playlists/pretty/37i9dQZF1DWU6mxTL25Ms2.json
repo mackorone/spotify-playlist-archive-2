@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 61569,
+  "num_followers": 61586,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 05",
+        "url": "https://open.spotify.com/album/20ZzGezmzDKqZ9UsAgHWsJ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 304920,
+      "name": "We are DREAMERS!!",
+      "url": "https://open.spotify.com/track/2mViOFg8N1olmZsSa9vi8j"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
         "name": "\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc ROAD TO THE TOP\u300f\u30a2\u30eb\u30d0\u30e0",
         "url": "https://open.spotify.com/album/2UDTzB8zpCddqHna9Gn9sY"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 284266,
       "name": "Lucky Comes True! - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/5V3ooILkQ076X0jWHQTkkb"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 07 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/2izwoaDxzVWzejzYG3vDyk"
-      },
-      "artists": [
-        {
-          "name": "\u30b9\u30fc\u30d1\u30fc\u30af\u30ea\u30fc\u30af (CV. \u512a\u6728\u304b\u306a)",
-          "url": "https://open.spotify.com/artist/7BsozDTdT8AReDSiwGvPiE"
-        }
-      ],
-      "duration_ms": 327853,
-      "name": "\u3075\u3093\u308f\u308aSlowly - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/6lSKwmVKD4I07RkFpKD94d"
     }
   ],
   "unique_name": "Umamusume: Pretty Derby",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FqJtg90sGe.md) - [plain]
 
 > sólo para skatos
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,007 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,044 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FqJtg90sGe.md) - [plain]
 | 23 | [Lost](https://open.spotify.com/track/4LLHvfvE21JQFD9ZKVCbd0) | [T\-Dre](https://open.spotify.com/artist/7wGbzHaUlDhx4dUO4PCSmD), [Delux](https://open.spotify.com/artist/4FqhfuOE9gIZuYAVIqEy4f), [Cali Life Style](https://open.spotify.com/artist/3E2UDuBBn7uLqOz30oWEQu) | [Mexican Invasion](https://open.spotify.com/album/5ksj97hVu25U5lHRov3kkX) | 4:48 |
 | 24 | [El Squash](https://open.spotify.com/track/2FnqSXq8GeDre2uLPFGV4x) | [Grito Exclamac!ón](https://open.spotify.com/artist/4iMYltZVwrhw9tCf8PuG6W) | [Grito Exclamac!ón](https://open.spotify.com/album/2BZou6srY1NcyoyliICnEp) | 5:01 |
 | 25 | [Manos de Anillo](https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Manos de Anillo](https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU) | 3:45 |
-| 26 | [De Espaldas \(feat\. Nedman Guerrero & DJ Tukul Paxil\)](https://open.spotify.com/track/26x57oZQyqwDb4uRokyL8y) | [Rxnde Akozta](https://open.spotify.com/artist/5YO3yQx97KLLE9zJYa4jaU), [Nedman Guerrero](https://open.spotify.com/artist/216EDkKlBGRZUxVVhUwDll), [DJ Tukul Paxil](https://open.spotify.com/artist/2Or73t2VUQM4b0psjazizL) | [Etcetera](https://open.spotify.com/album/6Fir3uk1HYGYDd64v5nxKb) | 2:41 |
+| 26 | [De Espaldas](https://open.spotify.com/track/26x57oZQyqwDb4uRokyL8y) | [Rxnde Akozta](https://open.spotify.com/artist/5YO3yQx97KLLE9zJYa4jaU), [Nedman Guerrero](https://open.spotify.com/artist/0zTgyOFv1DyfJK0EGM9O6S), [DJ Tukul Paxil](https://open.spotify.com/artist/4IjnwdY878DN46iK8QS1YO) | [Etcetera](https://open.spotify.com/album/6Fir3uk1HYGYDd64v5nxKb) | 2:41 |
 | 27 | [intervalos de 40 dias](https://open.spotify.com/track/72efOgYAINxgPlTeldHfxq) | [unperro andaluz](https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k) | [peek!](https://open.spotify.com/album/33BXeFZabK1YWgJCKfGeF8) | 7:59 |
 | 28 | [Sheep en la Gran Ciudad](https://open.spotify.com/track/2cauNqML2K1EBYPWSzw9Fd) | [PERRA BRAVA](https://open.spotify.com/artist/4ODjjfjx4SqJixJYVqeUrE) | [Sheep en la Gran Ciudad](https://open.spotify.com/album/0UYRaktu51aS6p7s2G6ej8) | 3:33 |
 | 29 | [La Perra Brava](https://open.spotify.com/track/5sc61LCz9wWpRrb6ziYilE) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 3:13 |

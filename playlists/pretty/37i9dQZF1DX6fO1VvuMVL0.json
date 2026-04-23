@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 153842,
+  "num_followers": 153889,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "First Place Again",
+        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 331666,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 204480,
       "name": "Come Rain Or Come Shine (Take 5)",
       "url": "https://open.spotify.com/track/13KYyenapQ2RMEGBJuRkUa"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "First Place Again",
-        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 331666,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Moonlight In Vermont",
-        "url": "https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Smith",
-          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
-        }
-      ],
-      "duration_ms": 146880,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "The Poll Winners Ride Again!",
         "url": "https://open.spotify.com/album/5fpBssf4ZkNncA3zYpRrC6"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 264533,
       "name": "Custard Puff",
       "url": "https://open.spotify.com/track/6QRA6ekJHWPYyxnqGpdlfY"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Moonlight In Vermont",
+        "url": "https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Smith",
+          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
+        }
+      ],
+      "duration_ms": 146880,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
-        "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 338732,
-      "name": "Monaco - Set 1 / Live At Cafe Bohemia, May 31, 1956",
-      "url": "https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "New Faces - New Sounds",
         "url": "https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 181674,
       "name": "Under Capricorn",
       "url": "https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
+        "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 338732,
+      "name": "Monaco - Set 1 / Live At Cafe Bohemia, May 31, 1956",
+      "url": "https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi"
     },
     {
       "added_at": "2024-07-08 07:01:17",

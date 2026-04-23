@@ -17315,6 +17315,24 @@
     },
     {
       "album": {
+        "name": "Let Go of Stress",
+        "url": "https://open.spotify.com/album/29F6gRiX93yNCW9BzQe6Hr"
+      },
+      "artists": [
+        {
+          "name": "Petite Gar\u00e7on",
+          "url": "https://open.spotify.com/artist/24Yfuj1uVoF1YznzjXcVDV"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154187,
+      "name": "With or Without Me",
+      "url": "https://open.spotify.com/track/0zokHpdhq69de6KcOWMMRj"
+    },
+    {
+      "album": {
         "name": "Pretty Place Demos",
         "url": "https://open.spotify.com/album/2aSMfYhkI2RwV6ucurrWV2"
       },
@@ -17730,6 +17748,28 @@
       "duration_ms": 166626,
       "name": "\u041e\u0441\u0435\u043d\u043d\u044f\u044f \u043f\u043e\u0440\u0430",
       "url": "https://open.spotify.com/track/03tDg3HEmooVr4mgj8n2Ll"
+    },
+    {
+      "album": {
+        "name": "\u1780\u17d2\u179a\u1798\u17bb\u17c6\u178a\u178e\u17d2\u178f\u17b9\u1784\u1798\u17d2\u178f\u17b6\u1799 & \u1796\u179f\u17cb\u179c\u17c2\u1780\u179f\u1780\u179f\u17d2\u179a\u1780\u17b6",
+        "url": "https://open.spotify.com/album/5OG4mmYvGq2IFKpzsAJuOm"
+      },
+      "artists": [
+        {
+          "name": "Sinn Sisamouth",
+          "url": "https://open.spotify.com/artist/5Vp49PDKCSLwmRI1qhb0oa"
+        },
+        {
+          "name": "Huoy Meas",
+          "url": "https://open.spotify.com/artist/6cFq8stOxHqx5gmbrj0f5t"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "\u1780\u17d2\u179a\u1798\u17bb\u17c6\u178a\u178e\u17d2\u178f\u17b9\u1784\u1798\u17d2\u178f\u17b6\u1799",
+      "url": "https://open.spotify.com/track/0zbstp77qF4re3PT8VvC6j"
     },
     {
       "album": {

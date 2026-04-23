@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,891 likes - 60 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063,003 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 30 | [Falling](https://open.spotify.com/track/4d8031x6HPpjQtH98BmRio) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Falling](https://open.spotify.com/album/0nnSX8cnMsGV9pcQxyTND9) | 3:02 |
 | 31 | [Natural Blues](https://open.spotify.com/track/0YMP9iIN0kPO3kp7pnxZpB) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2) | [Natural Blues](https://open.spotify.com/album/1Il6vUKaKu9dwdxWSvtoSC) | 2:35 |
 | 32 | [You Gonna Want Me \(I Know\)](https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [You Gonna Want Me \(I Know\)](https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN) | 3:12 |
-| 33 | [Like A Dream](https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Like A Dream](https://open.spotify.com/album/2g6OYPEIP9D20JF6MRxElp) | 4:13 |
-| 34 | [About U](https://open.spotify.com/track/2gKO4QzaDBhpprwD4XXZFW) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R) | [About U](https://open.spotify.com/album/1w0c45yUou9pVM7qe2pvti) | 2:37 |
+| 33 | [About U](https://open.spotify.com/track/2gKO4QzaDBhpprwD4XXZFW) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R) | [About U](https://open.spotify.com/album/1w0c45yUou9pVM7qe2pvti) | 2:37 |
+| 34 | [Like A Dream](https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Like A Dream](https://open.spotify.com/album/2g6OYPEIP9D20JF6MRxElp) | 4:13 |
 | 35 | [One And Only](https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [One And Only](https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8) | 3:42 |
 | 36 | [Dangerous](https://open.spotify.com/track/3YRFFwV0OtH5pWJYvNS8yV) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [Dangerous](https://open.spotify.com/album/5rbT9aLdysEsXZnLapWUNF) | 3:51 |
 | 37 | [Saga](https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Saga](https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h) | 5:36 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 55 | [Strange](https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Strange](https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY) | 3:44 |
 | 56 | [Kinesphere](https://open.spotify.com/track/0JktQvQRsWSwzVPsIFNnBd) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Coco Nancy](https://open.spotify.com/artist/6UdrfJ5hsqDUsANqLtQ42b) | [Kinesphere](https://open.spotify.com/album/34riHamtey94DLboN3bmo4) | 3:34 |
 | 57 | [Born Like That](https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Born Like That](https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q) | 3:45 |
-| 58 | [Dancing Penguins](https://open.spotify.com/track/1JWxMJR4RF00BQIXvag03G) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Dancing Penguins](https://open.spotify.com/album/6xo8gu7kxXiT6SG5bmzHIT) | 7:58 |
-| 59 | [Tibet](https://open.spotify.com/track/0iVIz19bKMM87UUOkBWoJa) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tibet](https://open.spotify.com/album/1AEnheMsQcR7yzsAJLh9dm) | 3:39 |
-| 60 | [Got Me Crazy](https://open.spotify.com/track/3BEkyNYWm85VrRTjLbcIuu) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Got Me Crazy](https://open.spotify.com/album/0YIegwdQOgHGZCXPQQp1MG) | 3:39 |
+| 58 | [Got Me Crazy](https://open.spotify.com/track/3BEkyNYWm85VrRTjLbcIuu) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Got Me Crazy](https://open.spotify.com/album/0YIegwdQOgHGZCXPQQp1MG) | 3:39 |
+| 59 | [Dancing Penguins](https://open.spotify.com/track/1JWxMJR4RF00BQIXvag03G) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Dancing Penguins](https://open.spotify.com/album/6xo8gu7kxXiT6SG5bmzHIT) | 7:58 |
+| 60 | [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 |
 
 Snapshot ID: `AAAAAMpAqhhUc/RRu8K8mTudWJpdKvCN`

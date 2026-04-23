@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Young Miko, Trueno, Anitta, ROSALÍA, Blessd and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,005 likes - 53 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,081 likes - 53 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,885 songs - 5 day 8 hr 2 min
+1,886 songs - 5 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Believe](https://open.spotify.com/track/3ISqJrqSULAszi0B0tB1OX) | [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE) | [Who You Are EP](https://open.spotify.com/album/4ebgeJzWzstciDwvXNgS4G) | 4:00 | 2021-04-30 | 2022-07-29 |
 | [Believer \- Marsh's Guatape Remix](https://open.spotify.com/track/1GHOLip5jcgRIBqd8QUx7N) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Believer \(Marsh's Guatape Remix\)](https://open.spotify.com/album/7GGVUzqEZQFwbHsBO3Fzam) | 4:15 | 2022-01-07 | 2024-03-02 |
 | [Bellariva](https://open.spotify.com/track/5tGboJa7ztLFH3d1gFOGFn) | [Hear & Now](https://open.spotify.com/artist/3YQwxKTjtAELAeGeqY4HgJ) | [Alba Sol](https://open.spotify.com/album/1ZDWGVjdLTUgVbZ2uGG5kW) | 5:39 | 2020-05-26 | 2020-10-09 |
-| [Belong](https://open.spotify.com/track/13BcrP8f9jpxbI2vCD7dg7) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Thaylo](https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB) | [Belong](https://open.spotify.com/album/0dGe34n6w8qQAFLcjgypKr) | 5:29 | 2026-01-09 |  |
+| [Belong](https://open.spotify.com/track/13BcrP8f9jpxbI2vCD7dg7) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Thaylo](https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB) | [Belong](https://open.spotify.com/album/0dGe34n6w8qQAFLcjgypKr) | 5:29 | 2026-01-09 | 2026-04-23 |
 | [Benidorm](https://open.spotify.com/track/625S8ZDzHnn0bo8csfIG9o) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp) | [Benidorm](https://open.spotify.com/album/30nXTM6P8pO0UEt1KT6Bfj) | 2:14 | 2024-08-02 | 2024-08-27 |
 | [Beside You](https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Beside You](https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS) | 4:41 | 2025-08-08 | 2025-12-20 |
 | [Best Life](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Best Life](https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn) | 3:59 | 2024-06-07 | 2025-06-23 |
@@ -1632,6 +1632,7 @@
 | [Temporary Love \- il:lo Remix](https://open.spotify.com/track/4gSIbyOjmtFOYgJYax0xpy) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh), [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Temporary Love \(il:lo Remix\)](https://open.spotify.com/album/7kl5K9V6DTpbD00kXn6t9K) | 5:17 | 2021-07-09 | 2022-07-29 |
 | [Temptation](https://open.spotify.com/track/1qRSmPYphBuAZR7RjbfaCa) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Temptation](https://open.spotify.com/album/5dG49c8MhEyWmZ7ukcrQmu) | 4:53 | 2022-11-11 | 2022-12-29 |
 | [The Act of Hesitation](https://open.spotify.com/track/787zdEiofzLaXxMX0HXVPI) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Krrum](https://open.spotify.com/artist/1qxSVLNqRcdhXPkE6suUlN) | [The Act of Hesitation](https://open.spotify.com/album/7taf75ZPSE9Aai4yN7xeSI) | 3:31 | 2020-05-18 | 2020-10-09 |
+| [the art of letting go](https://open.spotify.com/track/30qrn4P5XelUYPsDWSa6yB) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [the art of letting go](https://open.spotify.com/album/5WCpvkfEHDsZ1dF63DwLcG) | 4:34 | 2026-04-17 |  |
 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 | 2021-07-16 | 2025-08-30 |
 | [The Blues](https://open.spotify.com/track/0v1XJjO4PXdfNMGqjKewsf) | [Niklas Ibach](https://open.spotify.com/artist/2LyxhWXFqUt5Zbe0KSW38j), [Dan Reeder](https://open.spotify.com/artist/4pzjm2iMtclScYmoJ7q9tD) | [The Blues](https://open.spotify.com/album/6lyKa86myArsLsix1mxe26) | 3:43 | 2020-05-22 | 2020-07-03 |
 | [The Bulldog](https://open.spotify.com/track/7iYlacahYFEKx8cpRNC2Tx) | [Lil Skate](https://open.spotify.com/artist/3nrcM9gaRDpXvGYBxuhxl6) | [The Bulldog](https://open.spotify.com/album/3HIV2UOXcao1UrJKAEgAcb) | 3:04 | 2020-05-18 | 2021-01-11 |

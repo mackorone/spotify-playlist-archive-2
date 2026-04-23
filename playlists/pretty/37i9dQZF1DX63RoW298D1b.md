@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63RoW298D1b.md) - [plain]
 
 > Soothing piano for the ultimate wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,948 likes - 99 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,993 likes - 99 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63RoW298D1b.md) - [plain]
 | 26 | [Slow Morning](https://open.spotify.com/track/2H52h4eB5VOlYLk9ij1bBA) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Slow Morning](https://open.spotify.com/album/07Y9Dqu922zuptTVX3vWA9) | 2:39 |
 | 27 | [Douce Èmeraude](https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Douce Èmeraude](https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx) | 2:45 |
 | 28 | [Into The Light](https://open.spotify.com/track/339bMJGEo9fHqWy0g7F7ht) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Into The Light](https://open.spotify.com/album/4yzkMY5AjfqnfyOCk11fNz) | 2:41 |
-| 29 | [Only This](https://open.spotify.com/track/17f2DDyfRo8KFXEYAJs6UB) | [Carl Bom](https://open.spotify.com/artist/322b1QHcAr1pM9nu1A7CC9) | [Only This](https://open.spotify.com/album/4A2o1qKlIau3fwwN0Fa5NJ) | 3:08 |
+| 29 | [Only This](https://open.spotify.com/track/17f2DDyfRo8KFXEYAJs6UB) | [Carl Bom](https://open.spotify.com/artist/4CJJY9yn3HJK7nmGNWVQnb) | [Only This](https://open.spotify.com/album/4A2o1qKlIau3fwwN0Fa5NJ) | 3:08 |
 | 30 | [hollow hour](https://open.spotify.com/track/6LaeVakkn3QgRM9YLX48WM) | [everall](https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX) | [hollow hour](https://open.spotify.com/album/1v7zdJllhIxRLHndR4tits) | 2:45 |
 | 31 | [The Quiet We Found](https://open.spotify.com/track/7dfeIc1U6aX4937k6JygdL) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [The Quiet We Found](https://open.spotify.com/album/7HXIdIszQKrybX8tR2MN3p) | 2:44 |
 | 32 | [Tender Steps](https://open.spotify.com/track/3WNsw5ObrZTAQGQVd8LM0m) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Tender Steps](https://open.spotify.com/album/2xorZUQJHWqqlcAGG00PXe) | 2:24 |

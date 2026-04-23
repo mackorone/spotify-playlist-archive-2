@@ -371,22 +371,6 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "SHUT YOUR DAMN 95.7892",
-        "url": "https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 185407,
-      "name": "SHUT YOUR DAMN 95.7892",
-      "url": "https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
         "name": "Middle of Nowhere",
         "url": "https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 156973,
       "name": "Middle of Nowhere",
       "url": "https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
+        "name": "SHUT YOUR DAMN 95.7892",
+        "url": "https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 185407,
+      "name": "SHUT YOUR DAMN 95.7892",
+      "url": "https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
+        "name": "CHUCK THE MONEY",
+        "url": "https://open.spotify.com/album/3CSeM9Ufgof02QTlzL5TEm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 164802,
+      "name": "CHUCK THE MONEY",
+      "url": "https://open.spotify.com/track/4dyG3W77oSZCxaU7SZC8Mj"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
         "name": "Yo Favorite Trappa Favorite Rappa",
         "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 173806,
       "name": "Rackies (feat. ATL Jacob)",
       "url": "https://open.spotify.com/track/0UcuymskcvzMYexnJiVBmd"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
-        "name": "CHUCK THE MONEY",
-        "url": "https://open.spotify.com/album/3CSeM9Ufgof02QTlzL5TEm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 164802,
-      "name": "CHUCK THE MONEY",
-      "url": "https://open.spotify.com/track/4dyG3W77oSZCxaU7SZC8Mj"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -599,18 +599,18 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "Splinter",
-        "url": "https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB"
+        "name": "BEAUTY QUEEN",
+        "url": "https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ"
       },
       "artists": [
         {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
         }
       ],
-      "duration_ms": 173538,
-      "name": "SPLINTER",
-      "url": "https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj"
+      "duration_ms": 190000,
+      "name": "BEAUTY QUEEN",
+      "url": "https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "BEAUTY QUEEN",
-        "url": "https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ"
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB"
       },
       "artists": [
         {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
         }
       ],
-      "duration_ms": 190000,
-      "name": "BEAUTY QUEEN",
-      "url": "https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih"
+      "duration_ms": 173538,
+      "name": "SPLINTER",
+      "url": "https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
+        "name": "Middle Child",
+        "url": "https://open.spotify.com/album/40UETJYLuyi0ys3kWhFuXM"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2"
+        }
+      ],
+      "duration_ms": 212009,
+      "name": "Talking To Jesus",
+      "url": "https://open.spotify.com/track/52cTqjEjB5PEftPWqKxmgD"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
         "name": "\u304a\u306f\u3088\u3046",
         "url": "https://open.spotify.com/album/10XtjZqcqjXxRdUf0zH5tU"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 228865,
       "name": "\u304a\u306f\u3088\u3046",
       "url": "https://open.spotify.com/track/4CumCsapxGMoFpw9EZS7M0"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
-        "name": "Middle Child",
-        "url": "https://open.spotify.com/album/40UETJYLuyi0ys3kWhFuXM"
-      },
-      "artists": [
-        {
-          "name": "Amma",
-          "url": "https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2"
-        }
-      ],
-      "duration_ms": 212009,
-      "name": "Talking To Jesus",
-      "url": "https://open.spotify.com/track/52cTqjEjB5PEftPWqKxmgD"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
+        "name": "Left / Right",
+        "url": "https://open.spotify.com/album/6lL0ztJ8zzIuXK3xflVkcC"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "duration_ms": 155735,
+      "name": "Left / Right",
+      "url": "https://open.spotify.com/track/6Cbk7em8ECA5xUxbglKU3S"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
         "name": "Our Last Fight",
         "url": "https://open.spotify.com/album/0x9VEJW5HA3TIPwCaiPYWL"
       },
@@ -835,18 +851,22 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "Left / Right",
-        "url": "https://open.spotify.com/album/6lL0ztJ8zzIuXK3xflVkcC"
+        "name": "Kingmaker (with Julia Michaels)",
+        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
       },
       "artists": [
         {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 155735,
-      "name": "Left / Right",
-      "url": "https://open.spotify.com/track/6Cbk7em8ECA5xUxbglKU3S"
+      "duration_ms": 188106,
+      "name": "Kingmaker (with Julia Michaels)",
+      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -1035,22 +1055,6 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "Fine Wine",
-        "url": "https://open.spotify.com/album/4DMnvcXKuVyGGMF9qmEIps"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "Fine Wine",
-      "url": "https://open.spotify.com/track/7F2q79cnAFXabLJrj33YCc"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
         "name": "what a waste!",
         "url": "https://open.spotify.com/album/3jSjDPO4oNJkWwMR6LiBoj"
       },
@@ -1063,6 +1067,22 @@
       "duration_ms": 173357,
       "name": "what a waste!",
       "url": "https://open.spotify.com/track/3Ugh5aihqQGsvlyV4VKY6k"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
+        "name": "Fine Wine",
+        "url": "https://open.spotify.com/album/4DMnvcXKuVyGGMF9qmEIps"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "Fine Wine",
+      "url": "https://open.spotify.com/track/7F2q79cnAFXabLJrj33YCc"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -1179,6 +1199,22 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
+        "name": "Womandatory",
+        "url": "https://open.spotify.com/album/50eqjAR2P4Vj7Tm17JW52g"
+      },
+      "artists": [
+        {
+          "name": "Ju Kaia",
+          "url": "https://open.spotify.com/artist/0FyDbCVcgGKT9gihAG0jlO"
+        }
+      ],
+      "duration_ms": 159809,
+      "name": "Womandatory",
+      "url": "https://open.spotify.com/track/4isx2MH8WnJyxGH3gPt7Qa"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
         "name": "Fjer",
         "url": "https://open.spotify.com/album/3NCDnysVUOtnFzOOmxl7CY"
       },
@@ -1207,6 +1243,22 @@
       "duration_ms": 235061,
       "name": "The Pedestal",
       "url": "https://open.spotify.com/track/5t0TscttdPUMUZbhio57lD"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
+        "name": "Out of Season",
+        "url": "https://open.spotify.com/album/46EgsZoleyuVUlkBULWEFK"
+      },
+      "artists": [
+        {
+          "name": "Yvonnes",
+          "url": "https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "Out of Season",
+      "url": "https://open.spotify.com/track/4DIt5zD5WXi5nVM3rEDkNt"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -1243,54 +1295,6 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "Womandatory",
-        "url": "https://open.spotify.com/album/50eqjAR2P4Vj7Tm17JW52g"
-      },
-      "artists": [
-        {
-          "name": "Ju Kaia",
-          "url": "https://open.spotify.com/artist/0FyDbCVcgGKT9gihAG0jlO"
-        }
-      ],
-      "duration_ms": 159809,
-      "name": "Womandatory",
-      "url": "https://open.spotify.com/track/4isx2MH8WnJyxGH3gPt7Qa"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
-        "name": "Out of Season",
-        "url": "https://open.spotify.com/album/46EgsZoleyuVUlkBULWEFK"
-      },
-      "artists": [
-        {
-          "name": "Yvonnes",
-          "url": "https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "Out of Season",
-      "url": "https://open.spotify.com/track/4DIt5zD5WXi5nVM3rEDkNt"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
-        "name": "CRY BABY",
-        "url": "https://open.spotify.com/album/2SciuyqYfSZYiPwGv6rFbF"
-      },
-      "artists": [
-        {
-          "name": "Ana Ju\u00e9l",
-          "url": "https://open.spotify.com/artist/1iHkVAKq12mQH5fZHmKPaU"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "CRY BABY",
-      "url": "https://open.spotify.com/track/1vKl38WUqG03sRnSLenlXZ"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
         "name": "you're moving, you're shaking",
         "url": "https://open.spotify.com/album/0X7P5ZXcC0XmohziwbAsN1"
       },
@@ -1307,18 +1311,18 @@
     {
       "added_at": "2026-04-17 04:01:40",
       "album": {
-        "name": "Eu To B\u00e9m",
-        "url": "https://open.spotify.com/album/7BCZiu0uyCszk9F7uV0sIq"
+        "name": "CRY BABY",
+        "url": "https://open.spotify.com/album/2SciuyqYfSZYiPwGv6rFbF"
       },
       "artists": [
         {
-          "name": "Arto",
-          "url": "https://open.spotify.com/artist/5GxSrs1n2CS9x1XJgNI26O"
+          "name": "Ana Ju\u00e9l",
+          "url": "https://open.spotify.com/artist/1iHkVAKq12mQH5fZHmKPaU"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Eu To B\u00e9m",
-      "url": "https://open.spotify.com/track/74OsC1tRhPh9C8VazNTros"
+      "duration_ms": 145000,
+      "name": "CRY BABY",
+      "url": "https://open.spotify.com/track/1vKl38WUqG03sRnSLenlXZ"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -1351,6 +1355,22 @@
       "duration_ms": 367435,
       "name": "My Island",
       "url": "https://open.spotify.com/track/5qEGOVeE7TRkpwKVZl14ZK"
+    },
+    {
+      "added_at": "2026-04-17 04:01:40",
+      "album": {
+        "name": "Eu To B\u00e9m",
+        "url": "https://open.spotify.com/album/7BCZiu0uyCszk9F7uV0sIq"
+      },
+      "artists": [
+        {
+          "name": "Arto",
+          "url": "https://open.spotify.com/artist/5GxSrs1n2CS9x1XJgNI26O"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Eu To B\u00e9m",
+      "url": "https://open.spotify.com/track/74OsC1tRhPh9C8VazNTros"
     },
     {
       "added_at": "2026-04-17 04:01:40",
@@ -1447,26 +1467,6 @@
       "duration_ms": 219446,
       "name": "Wrecking My Brain",
       "url": "https://open.spotify.com/track/2c43cDQj9HZv4yd5GoXZzO"
-    },
-    {
-      "added_at": "2026-04-17 04:01:40",
-      "album": {
-        "name": "Kingmaker (with Julia Michaels)",
-        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "Kingmaker (with Julia Michaels)",
-      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
     }
   ],
   "unique_name": "New Music Friday Iceland",

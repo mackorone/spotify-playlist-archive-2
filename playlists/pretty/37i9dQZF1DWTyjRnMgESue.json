@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Tyler Ballgame",
-  "num_followers": 88489,
+  "num_followers": 88501,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "The Bend",
-        "url": "https://open.spotify.com/album/5hoF6Qgg5SKKuKW4uknLk7"
-      },
-      "artists": [
-        {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
-        }
-      ],
-      "duration_ms": 242446,
-      "name": "The Bend",
-      "url": "https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Double Infinity",
         "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 237134,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "The Bend",
+        "url": "https://open.spotify.com/album/5hoF6Qgg5SKKuKW4uknLk7"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 242446,
+      "name": "The Bend",
+      "url": "https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Sunflowers and Leather",
         "url": "https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 210973,
       "name": "Black Lung",
       "url": "https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "I Saw The Mountains",
-        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 264664,
-      "name": "I Saw The Mountains",
-      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Burn Me",
         "url": "https://open.spotify.com/album/0100hgq4IwkxrCmldWPgYj"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 214617,
       "name": "Burn Me",
       "url": "https://open.spotify.com/track/3diMgXk3RxGChNwsAVqyIL"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "I Saw The Mountains",
+        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 264664,
+      "name": "I Saw The Mountains",
+      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Sad And Beautiful World",
-        "url": "https://open.spotify.com/album/07aZwFEzDfh0BALXf1o6FH"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 246210,
-      "name": "Sad and Beautiful World",
-      "url": "https://open.spotify.com/track/6UFDma78AVAyHaN4i88R8i"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "The Cost of Growing Up",
         "url": "https://open.spotify.com/album/07wWN064o7XUxgw7IRmJFB"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 263799,
       "name": "The Cost of Growing Up",
       "url": "https://open.spotify.com/track/0yhLlhh36yxfE2MWnC28Bz"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Sad And Beautiful World",
+        "url": "https://open.spotify.com/album/07aZwFEzDfh0BALXf1o6FH"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 246210,
+      "name": "Sad and Beautiful World",
+      "url": "https://open.spotify.com/track/6UFDma78AVAyHaN4i88R8i"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "Returning To Myself",
-      "url": "https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Postcards to Heaven",
         "url": "https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 161931,
       "name": "Northern Star",
       "url": "https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Returning To Myself",
+      "url": "https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Earthstar",
-        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 243455,
-      "name": "Earthstar",
-      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5l746yNWWESUlLuveqla2p"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Twilight Override",
-        "url": "https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6"
+        "name": "Earthstar",
+        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
       },
       "artists": [
         {
-          "name": "Jeff Tweedy",
-          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
         }
       ],
-      "duration_ms": 263040,
-      "name": "Caught Up In the Past",
-      "url": "https://open.spotify.com/track/2JXZ6ZQ9nDVKiyws0VYWoE"
+      "duration_ms": 243455,
+      "name": "Earthstar",
+      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
+        "name": "Twilight Override",
+        "url": "https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6"
+      },
+      "artists": [
+        {
+          "name": "Jeff Tweedy",
+          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Caught Up In the Past",
+      "url": "https://open.spotify.com/track/2JXZ6ZQ9nDVKiyws0VYWoE"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
         "name": "You and Me Time",
         "url": "https://open.spotify.com/album/0m6wO7RR5ugYzk0wZW5ori"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 225559,
       "name": "You and Me Time (feat. Sheryl Crow)",
       "url": "https://open.spotify.com/track/4v0bYGAGo7GjTDQeoaSsp7"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
-        "name": "I Love Being Wrong",
-        "url": "https://open.spotify.com/album/4dGzA7HNh8Fi9dHMhGr6Jn"
-      },
-      "artists": [
-        {
-          "name": "Tessa Violet",
-          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
-        }
-      ],
-      "duration_ms": 288812,
-      "name": "I Love Being Wrong",
-      "url": "https://open.spotify.com/track/5Jc9bnCD014SgJzz8npVrp"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
+        "name": "I Love Being Wrong",
+        "url": "https://open.spotify.com/album/4dGzA7HNh8Fi9dHMhGr6Jn"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 288812,
+      "name": "I Love Being Wrong",
+      "url": "https://open.spotify.com/track/5Jc9bnCD014SgJzz8npVrp"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
         "name": "Somebody Nobody Gets Over",
         "url": "https://open.spotify.com/album/49xvRotzBI9ef94BJ5WhHf"
       },
@@ -1543,22 +1543,6 @@
       "duration_ms": 167808,
       "name": "Somebody Nobody Gets Over",
       "url": "https://open.spotify.com/track/4mgHSgglAVlr7i7vPKJmSo"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
-        "name": "What Are You Thinking Of?",
-        "url": "https://open.spotify.com/album/10jbswbbYaJJ3rvvBhNOAH"
-      },
-      "artists": [
-        {
-          "name": "Robert Lester Folsom",
-          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
-        }
-      ],
-      "duration_ms": 198646,
-      "name": "What Are You Thinking Of?",
-      "url": "https://open.spotify.com/track/1m2fUf7eX7Crq8BHOrUy1L"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1591,6 +1575,22 @@
       "duration_ms": 198681,
       "name": "World's Greatest Lover",
       "url": "https://open.spotify.com/track/72MaHk87Y002Si9fvC5bXt"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "What Are You Thinking Of?",
+        "url": "https://open.spotify.com/album/10jbswbbYaJJ3rvvBhNOAH"
+      },
+      "artists": [
+        {
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
+        }
+      ],
+      "duration_ms": 198646,
+      "name": "What Are You Thinking Of?",
+      "url": "https://open.spotify.com/track/1m2fUf7eX7Crq8BHOrUy1L"
     },
     {
       "added_at": "2026-03-13 14:26:58",

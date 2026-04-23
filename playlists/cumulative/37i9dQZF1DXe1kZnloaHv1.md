@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-149 songs - 8 hr 5 min
+151 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Drink it, Girls!](https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Work Later Drink Now S2, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh) | 2:56 | 2023-11-09 | 2026-03-18 |
 | [Drive mE cRaZy](https://open.spotify.com/track/1dWCQTQeAHZQhAKUVsWOg6) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Drive mE cRaZy](https://open.spotify.com/album/2vckNenVlFyIZDN3UTQYZA) | 2:51 | 2024-03-08 |  |
 | [everything is bothersome](https://open.spotify.com/track/37M5iTQTitE9a9RE909yAJ) | [0415](https://open.spotify.com/artist/49EamolQqzPhub6zY9By4A) | [everything is bothersome](https://open.spotify.com/album/3DNC7ASLsa73bC1oCtwmQh) | 3:40 | 2025-06-25 |  |
-| [Fake Flower \(feat\. Nucksal\)](https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [THE SOLOEST](https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T) | 2:59 | 2023-11-09 |  |
+| [Fake Flower \(feat\. Nucksal\)](https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [THE SOLOEST](https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T) | 2:59 | 2023-11-09 | 2026-04-23 |
 | [favorite things](https://open.spotify.com/track/2dCEOB0ETs7xydmxUVL7lg) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [favorite things](https://open.spotify.com/album/47LNVoOXsgKbKlq3EGIKSF) | 3:42 | 2026-04-01 |  |
 | [feelight!](https://open.spotify.com/track/7EXuQTtIgQ19kxRkFlN2g3) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [feelight!](https://open.spotify.com/album/6w01FQT5vZAQNTJbaaS31r) | 3:05 | 2026-04-08 |  |
 | [flow](https://open.spotify.com/track/5bxyh1CcujeiaByDCetPO3) | [최영인](https://open.spotify.com/artist/3p61qhWNmHG31V9j8x2M6o) | [Monthly Youthonic, Vol.1](https://open.spotify.com/album/0mgwAirSdWtq4Q7LuzwHSY) | 3:54 | 2025-07-02 |  |
@@ -111,6 +111,7 @@
 | [Rainy n Bed](https://open.spotify.com/track/7dkkW6rmoC4IAtVDpaZNX1) | [sumgoyange](https://open.spotify.com/artist/7kUElOJQ6VHTmIGp57pAff) | [Rainy n Bed](https://open.spotify.com/album/50lNXjV17xNe38bsHJ3Jvr) | 2:36 | 2023-11-09 | 2026-03-11 |
 | [Refresh](https://open.spotify.com/track/4z1XBGODhvrP73681Cmluj) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Refresh](https://open.spotify.com/album/4TWFoQslU8MtoWZWB9VlJk) | 3:36 | 2023-11-09 | 2025-05-08 |
 | [Relax Holic](https://open.spotify.com/track/1UW32RzePHgU2cvAq7C8YU) | [Jueun](https://open.spotify.com/artist/5ozAVjACutjHz3lBDxxtn4) | [NONOL VOL 74\. Jueun ‘ Relax Holic ’](https://open.spotify.com/album/0xtA8EBnUPXdIhdwL6eFtD) | 2:38 | 2026-01-19 |  |
+| [Rest](https://open.spotify.com/track/0NnQTCaZnKrOK1lojv5qYI) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu) | 3:28 | 2026-04-23 |  |
 | [right next to me](https://open.spotify.com/track/6G4qa5d3rrRrCLIuHZyKQH) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [right next to me](https://open.spotify.com/album/5JwrbfAphlVvKf1HWxXT1z) | 4:15 | 2026-03-13 |  |
 | [Shrimp with Mental Illness](https://open.spotify.com/track/6f9EvnVk5tMRCZUbttLxYo) | [Deng.E](https://open.spotify.com/artist/4ockKZwqrNI9wO6LWtulK3) | [life like a machine, day like a shrimp, and daily life like a bus.](https://open.spotify.com/album/0BgdfoBbiczsx6hZf50sZ5) | 3:10 | 2023-11-09 | 2026-03-11 |
 | [Silky](https://open.spotify.com/track/0vq0jeNuAKYryydXzZUoYw) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [PERCENT](https://open.spotify.com/album/4de5hT5ZhXjpGXvwsLsZNW) | 2:34 | 2025-07-17 |  |
@@ -119,7 +120,7 @@
 | [SO WHAT](https://open.spotify.com/track/6hC2Qn11Fzw4Ufi4XH6z2m) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 2:58 | 2025-09-08 |  |
 | [Soggy soggy \(feat\. JEONAIN\)](https://open.spotify.com/track/38t9a8VqpAJECDZxmw7811) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi), [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [Soggy soggy \(feat\. JEONAIN\)](https://open.spotify.com/album/37zHF0IjiuHCBZcwY8KSHj) | 2:50 | 2025-06-11 |  |
 | [Something Casual](https://open.spotify.com/track/1eqzWjF4C3upoquBmoLnwh) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Something Casual](https://open.spotify.com/album/28TW1djKaHKzXtrGeu4etl) | 3:20 | 2023-11-09 | 2026-04-02 |
-| [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 | 2024-07-02 |  |
+| [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 | 2024-07-02 | 2026-04-23 |
 | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/track/49lrMwawOXBBi2zQGrPTlK) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [쿼카](https://open.spotify.com/artist/4n67uXDzfLiGEeaX0NAnJX) | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/album/6LXCbFfy30ywcpWyqwHzoB) | 3:25 | 2023-11-09 | 2025-05-08 |
 | [Take a rest](https://open.spotify.com/track/0vM1Pao1HFHIzkbhymQsPg) | [DENIM KIDS!](https://open.spotify.com/artist/5JcssLw0Skn0meF0EhTwt3) | [Take a rest](https://open.spotify.com/album/1s944dPEUKWccALe1BGu5i) | 2:28 | 2026-03-04 |  |
 | [Take It Slow](https://open.spotify.com/track/3L82GIzkljT0c8etq54PQn) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Take It Slow](https://open.spotify.com/album/6cmHhqsTvRJfWzCmowRGuY) | 2:50 | 2023-11-09 | 2024-04-19 |
@@ -148,6 +149,7 @@
 | [내가 들었는데](https://open.spotify.com/track/5aZ1058WKY8rvEK9Bcrftg) | [TIKITIK](https://open.spotify.com/artist/4I5VHsJIkTdNbQNC2xkSEO) | [내가 들었는데](https://open.spotify.com/album/0OSQOFnrNebz3m98FQtQxD) | 1:18 | 2024-03-08 | 2026-04-02 |
 | [놀래! Whatever!](https://open.spotify.com/track/7i7UcFcEpbY3Ihzv1KZBi7) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Every DAY6 August](https://open.spotify.com/album/3ElTy5eVezQCNrgAbTii5m) | 3:16 | 2025-04-08 |  |
 | [똑같아](https://open.spotify.com/track/3QbF4n57Nhu59aYP8PASRv) | [성운](https://open.spotify.com/artist/3X3gXfx207dFNZcyE2zJvt) | [똑같아](https://open.spotify.com/album/3Yw4AW7NXkquOZS8tKVbdk) | 4:31 | 2025-07-23 |  |
+| [맘 편히 쉬고 싶어](https://open.spotify.com/track/5VLPV1iYzuiz8BQiZJBfze) | [naxbon](https://open.spotify.com/artist/2ELvyBRqernNxMtfpCiODa) | [맘 편히 쉬고 싶어](https://open.spotify.com/album/10fuIXqPOA9j2Fu8vnnsIU) | 2:20 | 2026-04-23 |  |
 | [비행기모드 \(feat\. KOONTA, 오성\)](https://open.spotify.com/track/4Yu9b6vp9DOzGv2yP7RdKY) | [Common Tale](https://open.spotify.com/artist/4G4rdOqGKjUOTrTEhLJcfB), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [Oh Seong](https://open.spotify.com/artist/5m7x1EvBV3TkLHmRgEh8zy) | [비행기모드](https://open.spotify.com/album/7unYD2HXDa53jO5dOZg5fQ) | 3:59 | 2026-02-11 |  |
 | [설명하기 귀찮은 밤](https://open.spotify.com/track/34NbLGushBGKom3ifJYNiP) | [Frankie Summer](https://open.spotify.com/artist/3uTI0eDlNwwnQKj2gnleTf) | [설명하기 귀찮은 밤](https://open.spotify.com/album/4rhYsEfByflKLrZwNxsRM9) | 4:27 | 2025-06-04 |  |
 | [아무것도 안 하고 싶다 I don't wanna do anything](https://open.spotify.com/track/6UJEtBT9wPkZ0fFeRqUN2e) | [SUNGJIN](https://open.spotify.com/artist/5ZQ96t8nPfBXYdZaXZwDHC) | [30](https://open.spotify.com/album/65B9PeoRbBTQwBTtGrWHJT) | 4:04 | 2025-08-14 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 665,
+  "num_followers": 669,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
@@ -631,26 +631,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "UNDERGROUND ROCKSTAR",
-        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 222014,
-      "name": "Supernova (Feat. Dut2)",
-      "url": "https://open.spotify.com/track/5by16CeSkrzyrSOrv1rdFx"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "LALALA Remix",
         "url": "https://open.spotify.com/album/70otDt0x1EX7RVIiGWPju3"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 184146,
       "name": "LALALA Remix (Feat. Jay Park, Paul Blanco)",
       "url": "https://open.spotify.com/track/1Dd6lOJeKgJVeWSZQPtkVF"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "UNDERGROUND ROCKSTAR",
+        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "duration_ms": 222014,
+      "name": "Supernova (Feat. Dut2)",
+      "url": "https://open.spotify.com/track/5by16CeSkrzyrSOrv1rdFx"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -727,30 +727,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Show Me The Money 9 Semi Final",
-        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
-      },
-      "artists": [
-        {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        },
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "Queen WA$ABII",
-          "url": "https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "Part Time (Feat. Queen WA$ABII) (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/1WUyKGWYfkZ5n9hb0w3WX3"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "MUGGLES' MANSION",
         "url": "https://open.spotify.com/album/4SUzNglOur6GH4IGIbNGcr"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 270500,
       "name": "Red Light (Feat. BIG Naughty) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/0dLsjLIoEpiBWVvYO0jfB3"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Show Me The Money 9 Semi Final",
+        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Queen WA$ABII",
+          "url": "https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "Part Time (Feat. Queen WA$ABII) (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/1WUyKGWYfkZ5n9hb0w3WX3"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1447,22 +1447,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "MultrillVerse",
-        "url": "https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI"
+        "name": "MANTA BIPOLAR, Pt. 2",
+        "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
       },
       "artists": [
         {
-          "name": "BLAS\u00c9",
-          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
         }
       ],
-      "duration_ms": 167571,
-      "name": "Retirement (feat. The Quiett)",
-      "url": "https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA"
+      "duration_ms": 120502,
+      "name": "GANGSHIN",
+      "url": "https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1483,18 +1479,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "MANTA BIPOLAR, Pt. 2",
-        "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
+        "name": "MultrillVerse",
+        "url": "https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI"
       },
       "artists": [
         {
-          "name": "VINXEN",
-          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
         }
       ],
-      "duration_ms": 120502,
-      "name": "GANGSHIN",
-      "url": "https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2"
+      "duration_ms": 167571,
+      "name": "Retirement (feat. The Quiett)",
+      "url": "https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1571,6 +1571,38 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        }
+      ],
+      "duration_ms": 123287,
+      "name": "MIRACLE(Album version)",
+      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 177220,
+      "name": "Ride it like",
+      "url": "https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
       },
@@ -1599,38 +1631,6 @@
       "duration_ms": 263505,
       "name": "1llusion Remix - Bonus Track",
       "url": "https://open.spotify.com/track/7h8KGENglYCGD6MD6PfeRu"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
-      },
-      "artists": [
-        {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 177220,
-      "name": "Ride it like",
-      "url": "https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        }
-      ],
-      "duration_ms": 123287,
-      "name": "MIRACLE(Album version)",
-      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Superbee's Maserati",
+        "url": "https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl"
+      },
+      "artists": [
+        {
+          "name": "Basick",
+          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
+        }
+      ],
+      "duration_ms": 230408,
+      "name": "Superbee's Maserati",
+      "url": "https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "FAKE RAPPERS KILLER",
         "url": "https://open.spotify.com/album/52Htfn8fvmMajlxTlVtP4b"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 203549,
       "name": "WINNING MIND (Feat. Chin, LIL GIMCHI)",
       "url": "https://open.spotify.com/track/2wwmdvHAH09hRZ9w7tqNie"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Superbee's Maserati",
-        "url": "https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl"
-      },
-      "artists": [
-        {
-          "name": "Basick",
-          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
-        }
-      ],
-      "duration_ms": 230408,
-      "name": "Superbee's Maserati",
-      "url": "https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Stargaze",
-        "url": "https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5"
-      },
-      "artists": [
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 222232,
-      "name": "Look What I Did (Feat. The Quiett)",
-      "url": "https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "It's Your Turn (Feat. Futuristic Swaver)",
         "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 193174,
       "name": "It's Your Turn (Feat. Futuristic Swaver)",
       "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Stargaze",
+        "url": "https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5"
+      },
+      "artists": [
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 222232,
+      "name": "Look What I Did (Feat. The Quiett)",
+      "url": "https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/2GQ0hzRmV4NZ3GF4KFGnBX"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        }
+      ],
+      "duration_ms": 161557,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/7A9AhTLKa87hQcFhS4jb7P"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "Yessir!",
         "url": "https://open.spotify.com/album/5pUsKPyDAiruVHE9pHYrZV"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 129600,
       "name": "Yessir!",
       "url": "https://open.spotify.com/track/7gDjX9OBv0igB7PyZXJje6"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/2GQ0hzRmV4NZ3GF4KFGnBX"
-      },
-      "artists": [
-        {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
-        }
-      ],
-      "duration_ms": 161557,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/7A9AhTLKa87hQcFhS4jb7P"
     },
     {
       "added_at": "2025-11-10 09:53:18",

@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158831,
+  "num_followers": 158835,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,30 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
+        "name": "ALAKASAM",
+        "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Sem Press\u00e3o",
+      "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -1227,30 +1251,6 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
-        "name": "ALAKASAM",
-        "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Sem Press\u00e3o",
-      "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
-        "name": "Primeira Vez (Studio Rec #8)",
-        "url": "https://open.spotify.com/album/5dnrS9JpNujiPMZrodx1K8"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Trem Caro",
-          "url": "https://open.spotify.com/artist/5wiDkXNXNdlohPMVqIAYI1"
-        }
-      ],
-      "duration_ms": 163218,
-      "name": "Primeira Vez (Studio Rec #8)",
-      "url": "https://open.spotify.com/track/4LPI2efmQjL8xGA1YnIpo1"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
         "name": "Passa a Bola (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 188319,
       "name": "Passa a Bola (Ao Vivo em Noronha)",
       "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
+        "name": "Primeira Vez (Studio Rec #8)",
+        "url": "https://open.spotify.com/album/5dnrS9JpNujiPMZrodx1K8"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Trem Caro",
+          "url": "https://open.spotify.com/artist/5wiDkXNXNdlohPMVqIAYI1"
+        }
+      ],
+      "duration_ms": 163218,
+      "name": "Primeira Vez (Studio Rec #8)",
+      "url": "https://open.spotify.com/track/4LPI2efmQjL8xGA1YnIpo1"
     },
     {
       "added_at": "2026-04-20 14:17:08",

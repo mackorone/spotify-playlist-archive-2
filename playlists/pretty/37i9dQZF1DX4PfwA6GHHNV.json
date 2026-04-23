@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23132,
+  "num_followers": 23131,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -527,26 +527,6 @@
     {
       "added_at": "2026-04-20 14:18:08",
       "album": {
-        "name": "Repare",
-        "url": "https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 202245,
-      "name": "Repare",
-      "url": "https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R"
-    },
-    {
-      "added_at": "2026-04-20 14:18:08",
-      "album": {
         "name": "Baile Em Chamas",
         "url": "https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 173333,
       "name": "Baile Em Chamas",
       "url": "https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid"
+    },
+    {
+      "added_at": "2026-04-20 14:18:08",
+      "album": {
+        "name": "Repare",
+        "url": "https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 202245,
+      "name": "Repare",
+      "url": "https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R"
     },
     {
       "added_at": "2026-04-20 14:18:08",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-04-20 14:18:08",
       "album": {
+        "name": "C\u00ea Decide",
+        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
+      },
+      "artists": [
+        {
+          "name": "Scardinni",
+          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
+        }
+      ],
+      "duration_ms": 116035,
+      "name": "C\u00ea Decide",
+      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
+    },
+    {
+      "added_at": "2026-04-20 14:18:08",
+      "album": {
         "name": "Atitude",
         "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 185741,
       "name": "Brinca Comigo",
       "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
-    },
-    {
-      "added_at": "2026-04-20 14:18:08",
-      "album": {
-        "name": "C\u00ea Decide",
-        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
-      },
-      "artists": [
-        {
-          "name": "Scardinni",
-          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
-        }
-      ],
-      "duration_ms": 116035,
-      "name": "C\u00ea Decide",
-      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
     },
     {
       "added_at": "2026-04-20 14:18:08",

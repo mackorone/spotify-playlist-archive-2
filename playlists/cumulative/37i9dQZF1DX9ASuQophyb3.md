@@ -2,7 +2,7 @@
 
 ### [Türkçe Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ASuQophyb3)
 
-> Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Zeynep Bastık
+> Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Zeynep Bastık<br/>23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷
 
 598 songs - 1 day 6 hr 53 min
 

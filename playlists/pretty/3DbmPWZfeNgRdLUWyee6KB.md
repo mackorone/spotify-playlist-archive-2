@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,294 likes - 134 songs - 7 hr 32 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,294 likes - 136 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 103 | [Dandelion](https://open.spotify.com/track/46gVwH2UBde8k2n8q4X4iQ) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Dark Skies](https://open.spotify.com/album/6msdDrMHEmyWefzameIaQC) | 3:10 |
 | 104 | [Kawaii](https://open.spotify.com/track/59tXTeEQ7G7koxQg5MyB1d) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Of Foxes And Tofu](https://open.spotify.com/album/4dpkrcOzw7t95AqZDgMRJV) | 4:55 |
 | 105 | [Ti Abbraccio](https://open.spotify.com/track/4ro107oVcj3Lee2sRpONUG) | [Giofly](https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp) | [Ti Abbraccio](https://open.spotify.com/album/0ce9BeLdWPndy8MlXIBoWP) | 3:48 |
-| 106 | [No More Chains to Hold Us \(From "Unliked"\)](https://open.spotify.com/track/52rXrALwA36lCsqEyjjwAc) | [Gonzalo Perales Roy](https://open.spotify.com/artist/6AnX8950eF5AnppQ3lRCBc), [Gonçal Perales](https://open.spotify.com/artist/66mfK9wH1pGIyiHG29aLtv), [Alex Flores](https://open.spotify.com/artist/6x1uNga2exZAAlQxMVHNUK) | [Short Films, Vol\. 3](https://open.spotify.com/album/08YDzbe8bNIgXORZt73VUB) | 2:29 |
+| 106 | [No More Chains to Hold Us \(From "Unliked"\)](https://open.spotify.com/track/52rXrALwA36lCsqEyjjwAc) | [Gonçal Perales](https://open.spotify.com/artist/66mfK9wH1pGIyiHG29aLtv), [Alex Flores](https://open.spotify.com/artist/6x1uNga2exZAAlQxMVHNUK) | [Short Films, Vol\. 3](https://open.spotify.com/album/08YDzbe8bNIgXORZt73VUB) | 2:29 |
 | 107 | [my medication](https://open.spotify.com/track/2UkTzHwSSLcFof1muj3XHz) | [Blooming Cellar](https://open.spotify.com/artist/3vP2BcyNwoVMEsi1bBy5A6) | [my medication](https://open.spotify.com/album/3ywRW5ajgw9LG7hGDVo0eL) | 3:08 |
 | 108 | [I Want It, I Need It](https://open.spotify.com/track/4bxyJNeHP6Vs7lMpCH7S8L) | [ARIE](https://open.spotify.com/artist/6dA76J841h4udyGQEoxnng) | [I Want It, I Need It](https://open.spotify.com/album/0nNZkPn5WAnal2swOTDrSw) | 2:56 |
 | 109 | [English Girls](https://open.spotify.com/track/17E04fJqvTKuzuHCtihkPS) | [Liquid Days](https://open.spotify.com/artist/6BHO09GORbj09337HZTxeJ) | [English Girls](https://open.spotify.com/album/4oiHnbiWOZ7zI1XZjubcoY) | 4:00 |
@@ -142,5 +142,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 132 | [Don't Want Me Around](https://open.spotify.com/track/3chrJfNMSkys4Wy0Gd4ToZ) | [Dane Rivers](https://open.spotify.com/artist/6PaURsKDuXnJOuLBhIpnJh) | [Don't Want Me Around](https://open.spotify.com/album/0OuHifKRJ2KVx4li3Kl5t1) | 2:26 |
 | 133 | [Little Wonders](https://open.spotify.com/track/0uEZXhpxqigo36E5NMQETt) | [Jasmin Ahrent](https://open.spotify.com/artist/2ZkozTiOfdofrlkZVWK3WM) | [Little Wonders](https://open.spotify.com/album/4mVtkDM3Bf02KEege14QMx) | 3:38 |
 | 134 | [When Kermit Sings My Song](https://open.spotify.com/track/7c8SwAshSP9V2MZk0JS9UI) | [The Haze](https://open.spotify.com/artist/6iUcuJFopb8XcXduZjuGJe) | [When Kermit Sings My Song](https://open.spotify.com/album/5Kkol2UkHLgmoFkQxrernj) | 3:29 |
+| 135 | [Throne](https://open.spotify.com/track/5A2VNGomqev230PjCu02Nq) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Throne](https://open.spotify.com/album/6GhuTJMvb8Yc0PA6jotClj) | 4:20 |
+| 136 | [Grace is Gone](https://open.spotify.com/track/5QyGhIs60QO3KOVMv7X54y) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Grace is Gone](https://open.spotify.com/album/6NJPxxjLZ1gD0zNOQbKcbN) | 4:13 |
 
-Snapshot ID: `AAATYey9SBE1QwTpzblfy9hsI0dsg6HR`
+Snapshot ID: `AAATY+vbJRGH0y6KU6WpEyofOuyXLwZc`

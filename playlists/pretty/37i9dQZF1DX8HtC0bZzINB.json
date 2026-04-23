@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 108469,
+  "num_followers": 108481,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Favela",
-        "url": "https://open.spotify.com/album/3HPYQBXJg7qGD51sBOfqRm"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Favela",
-      "url": "https://open.spotify.com/track/0OSmjU2982agUzLQ08Wqkl"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
         "name": "Melek",
         "url": "https://open.spotify.com/album/2ARaqMe0AxH8vfYSNMCxJF"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 154923,
       "name": "Melek",
       "url": "https://open.spotify.com/track/6XbuJHhqugUVdJbTdshUEL"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/3HPYQBXJg7qGD51sBOfqRm"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/0OSmjU2982agUzLQ08Wqkl"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Ke\u015fke Benim Olsan",
-        "url": "https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR"
-      },
-      "artists": [
-        {
-          "name": "Kozmos",
-          "url": "https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Ke\u015fke Benim Olsan",
-      "url": "https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
         "name": "Ta\u015ftan",
         "url": "https://open.spotify.com/album/37r3WudqX3UQofAS2fYpug"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 176927,
       "name": "Ta\u015ftan",
       "url": "https://open.spotify.com/track/53IJ9i9i6Y96lJyrFKzYV7"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
+        "name": "Ke\u015fke Benim Olsan",
+        "url": "https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR"
+      },
+      "artists": [
+        {
+          "name": "Kozmos",
+          "url": "https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Ke\u015fke Benim Olsan",
+      "url": "https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP"
     },
     {
       "added_at": "2024-07-08 08:41:13",

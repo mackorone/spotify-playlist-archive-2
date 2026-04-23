@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,565 likes - 80 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,580 likes - 80 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 10 | [ABC](https://open.spotify.com/track/1VWsOHwb8bThWcbqYKzh6y) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [ABC Of Love](https://open.spotify.com/album/4laW16BiD24CmfqHGQ5TfH) | 5:37 |
 | 11 | [Still I Love You](https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:22 |
 | 12 | [Poison](https://open.spotify.com/track/6R665j6sltbo8FGZ3NIHmk) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Poison](https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC) | 5:49 |
-| 13 | [Densu](https://open.spotify.com/track/3Bif5CgGVc8fgA27T3whVr) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:16 |
+| 13 | [Mfa Me Nkoho](https://open.spotify.com/track/4gmJvvotDVCXVKY0ItNDOe) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:59 |
 | 14 | [Ashikele](https://open.spotify.com/track/2Kyl8xjffiK1FtGIK1HZEo) | [George Jahraa](https://open.spotify.com/artist/5sxAvf3rRFLHabyhuvKl7T) | [Yaw Burger](https://open.spotify.com/album/23Kc44TUjz27zLUahkuMQq) | 4:49 |
 | 15 | [Agatha](https://open.spotify.com/track/0zM6h92IpK2GCcIVmrqaTq) | [Nana Kwame Ampadu](https://open.spotify.com/artist/2tne5cj1SZrx1Xm1lNEWzb) | [Evergreen Tunes, Vol\. 4](https://open.spotify.com/album/7acUZRPhxC1uP259oRu4NJ) | 9:30 |
 | 16 | [Wafom](https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:44 |
 | 17 | [Tokrom](https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 6:24 |
-| 18 | [Mfa Me Nkoho](https://open.spotify.com/track/4gmJvvotDVCXVKY0ItNDOe) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:59 |
+| 18 | [Densu](https://open.spotify.com/track/3Bif5CgGVc8fgA27T3whVr) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:16 |
 | 19 | [Mante Wo Nka](https://open.spotify.com/track/09jKaYjVrZjfWwW2IFdkEk) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Fre No Ma Me](https://open.spotify.com/album/0PWXKEWKKt6Usc7BoQCMiR) | 4:37 |
 | 20 | [Abiba](https://open.spotify.com/track/6F0D7wS8XbrClBxhC4Okex) | [Rex Omar](https://open.spotify.com/artist/4IPHkdjugU9e3ACphVpX3s) | [The Collection](https://open.spotify.com/album/0g60elM8DKMcjusfaaQi8x) | 4:55 |
 | 21 | [Mmobrowa](https://open.spotify.com/track/1UX48v0WSkBkq11mVKGNLd) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O) | [Twa Me Ke Ke](https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM) | 6:22 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 30 | [Koyon So \- Game](https://open.spotify.com/track/3JsL7IF5injWE1V8220Vul) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Koyon So](https://open.spotify.com/album/42ERj6ANxjLvf9XufhAfgy) | 6:15 |
 | 31 | [Medo Hemaa](https://open.spotify.com/track/2K2wEAw5sjiTAeB5slHbPX) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Medo Hemaa](https://open.spotify.com/album/3iR2k41ydYQa2Jtchiy2sr) | 5:37 |
 | 32 | [Bonwire](https://open.spotify.com/track/4bJZIgQuefmHbMq3v8P5NG) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 5:43 |
-| 33 | [Akonoba](https://open.spotify.com/track/2zr71skOlEOnm1Lv7fxpX2) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Love Classics](https://open.spotify.com/album/3MnCoc8Ya7XHPDY7eRlvJW) | 6:15 |
-| 34 | [Ntsaase](https://open.spotify.com/track/7wMXKStdPZzqKifB5BSavm) | [Ben Brako](https://open.spotify.com/artist/6lLx7n1C0vjYDYL5IexQNf) | [Baya](https://open.spotify.com/album/2nsHFIaIWB5MjN32hTihEa) | 4:13 |
+| 33 | [Ntsaase](https://open.spotify.com/track/7wMXKStdPZzqKifB5BSavm) | [Ben Brako](https://open.spotify.com/artist/6lLx7n1C0vjYDYL5IexQNf) | [Baya](https://open.spotify.com/album/2nsHFIaIWB5MjN32hTihEa) | 4:13 |
+| 34 | [Akonoba](https://open.spotify.com/track/2zr71skOlEOnm1Lv7fxpX2) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Love Classics](https://open.spotify.com/album/3MnCoc8Ya7XHPDY7eRlvJW) | 6:15 |
 | 35 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
 | 36 | [Akoo Te Brofo](https://open.spotify.com/track/3TYgzjwlcpEdN1GufC9C2U) | [George Darko](https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9) | [Akoo Te Brofo](https://open.spotify.com/album/6j9WYjUpnKSyuOSL3F6Bhw) | 9:33 |
 | 37 | [Asem Ben?](https://open.spotify.com/track/0rgKKg0pZK2qH64RK45HNK) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Kabribi Kyere Me](https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I) | 4:26 |

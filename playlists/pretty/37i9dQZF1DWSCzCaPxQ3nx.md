@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCzCaPxQ3nx.md) - [plain]
 
 > Les incontournables du Raï.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,653 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,720 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCzCaPxQ3nx.md) - [plain]
 | 32 | [Je t'aime à la folie](https://open.spotify.com/track/6m6vUaRlYubGR66nSv2JsE) | [Mohamed Ray](https://open.spotify.com/artist/3UsTGPrSeX6JJB1mZ7s2Tp) | [Je t'aime à la folie](https://open.spotify.com/album/1I3uAAWRsrqQJ03H19hvwx) | 6:10 |
 | 33 | [N'Direk Amour](https://open.spotify.com/track/7MKLtQiD18XDNzZFdGgnx3) | [Cheb Nasro](https://open.spotify.com/artist/1qYpnd9rnstqqrGNYfwYNP) | [Cheb Nasro, Le meilleur du prince de la chanson sentimentale Vol.3](https://open.spotify.com/album/4hK6jG2gxt32QL8sTDyWp9) | 5:59 |
 | 34 | [Tlabti lafrak](https://open.spotify.com/track/66Rt29ZaDmb1uNi3nTYVzH) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Dak el mahroum](https://open.spotify.com/album/6EHkCFSzcsecGInoU2gYa6) | 5:45 |
-| 35 | [Khalini Nkamal Lik Sidi Le Juge](https://open.spotify.com/track/3fOLrcKaZJJVs2MgbzY0LS) | [Cheb Rezki](https://open.spotify.com/artist/1FtSXD0ARrkd7yDHg6jEd7) | [Ana Al Ghaltan](https://open.spotify.com/album/6CqdkI81UEvtVB8MDDIzIk) | 6:52 |
+| 35 | [Khalini Nkamal Lik Sidi Le Juge](https://open.spotify.com/track/3fOLrcKaZJJVs2MgbzY0LS) | [Cheb Rezki](https://open.spotify.com/artist/3qDSrpeWpdaMEJDaC9PbFO) | [Ana Al Ghaltan](https://open.spotify.com/album/6CqdkI81UEvtVB8MDDIzIk) | 6:52 |
 | 36 | [Warini Werak Tergoud](https://open.spotify.com/track/0yzvREh5z2sNevqrFlwGlf) | [Zahouania](https://open.spotify.com/artist/13sLlXcYUQJPSPMYIqa6wv) | [Best Of](https://open.spotify.com/album/27poA8VNvJfONriMRyZZLM) | 6:20 |
-| 37 | [Ana Al Ghaltan](https://open.spotify.com/track/460n4I7Dhf2XPp6ExQTBt0) | [Cheb Rezki](https://open.spotify.com/artist/1FtSXD0ARrkd7yDHg6jEd7) | [Ana Al Ghaltan](https://open.spotify.com/album/6CqdkI81UEvtVB8MDDIzIk) | 5:39 |
+| 37 | [Ana Al Ghaltan](https://open.spotify.com/track/460n4I7Dhf2XPp6ExQTBt0) | [Cheb Rezki](https://open.spotify.com/artist/3qDSrpeWpdaMEJDaC9PbFO) | [Ana Al Ghaltan](https://open.spotify.com/album/6CqdkI81UEvtVB8MDDIzIk) | 5:39 |
 | 38 | [Nouara](https://open.spotify.com/track/6B4tshQIyXQgRfa21mkkoP) | [Cheb Aissa](https://open.spotify.com/artist/0hDmmxtDPAEMHD03kD8NiW) | [Cheb Aïssa , Nouara](https://open.spotify.com/album/1Z95c8O3vgGB0wlHaXGe2e) | 3:59 |
 | 39 | [Didi](https://open.spotify.com/track/4xbAZSAfXfksdBXSvtAHLJ) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Best Of](https://open.spotify.com/album/0EPtnknFIXdVyOsck4rvz8) | 4:58 |
 | 40 | [Bravo Alik](https://open.spotify.com/track/5cYGnhS7RXRtpOWoeLfJdH) | [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [La star du raï moral \[Original Masters\]](https://open.spotify.com/album/2cJBvpzqteQNdG6rwM5xoG) | 6:08 |

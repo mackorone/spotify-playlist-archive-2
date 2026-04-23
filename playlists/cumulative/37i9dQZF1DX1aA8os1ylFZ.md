@@ -4,7 +4,7 @@
 
 > Nieuwe R&B releases \| Cover: Neema Nekesa
 
-738 songs - 1 day 14 hr 1 min
+739 songs - 1 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,12 +562,13 @@
 | [Seconds](https://open.spotify.com/track/3BP01MqVe1kbbuJrdA0B7u) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Attek](https://open.spotify.com/artist/23iAWqyfMe6hnEkfI6UFTe) | [Seconds](https://open.spotify.com/album/73F0T5lYCFF5US1hrx2R4K) | 3:04 | 2021-12-16 | 2022-07-29 |
 | [Seconds](https://open.spotify.com/track/52az6sQHGhgWUTRB27ArA2) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Attek](https://open.spotify.com/artist/23iAWqyfMe6hnEkfI6UFTe) | [Seconds](https://open.spotify.com/album/6Z0PUl38DPPa7qBbBzhvfG) | 3:04 | 2022-07-22 | 2023-01-13 |
 | [Seduction](https://open.spotify.com/track/0QKK4eotVSqKUHJWHizP6z) | [Lyna](https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV) | [Muted Chaos.](https://open.spotify.com/album/4y17DEPHYBNF1zBqRVOnHn) | 2:45 | 2023-11-09 | 2024-11-22 |
-| [SEE RIGHT THROUGH ME \(feat\. Kehlani\)](https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 4:16 | 2025-08-28 |  |
+| [SEE RIGHT THROUGH ME \(feat\. Kehlani\)](https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 4:16 | 2025-08-28 | 2026-04-23 |
 | [Selfish](https://open.spotify.com/track/6RjdyJoKIxX8eNbYE5WWBK) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [WHO HURT YOU? \(Deluxe\)](https://open.spotify.com/album/0Y5fofxLKT5mqVsprWjbn5) | 3:03 | 2023-01-12 | 2023-09-01 |
 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 | 2023-01-26 | 2023-09-01 |
 | [Sending My Love \- Spotify Singles](https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Spotify Singles](https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2) | 2:53 | 2021-12-16 | 2022-03-26 |
 | [Shades Prayer](https://open.spotify.com/track/3wpFi89CVt5zFkDqhZHoKH) | [Giefa Sparkle](https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh) | [SHADES](https://open.spotify.com/album/3Ig7EPokyOuhMGzF0JQyty) | 2:28 | 2024-09-27 | 2025-06-28 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2023-01-12 | 2023-03-01 |
+| [side slider](https://open.spotify.com/track/2O3zj9sxh8NcurUYDGfduH) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Mr\. Lovebomb](https://open.spotify.com/album/6P5iNEDyHXsLhL781CJFyZ) | 3:47 | 2026-04-22 |  |
 | [Silky Feels](https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ) | [Simona](https://open.spotify.com/artist/3vhX2s2sJN6iV0fbvgZAAB), [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Silky Feels](https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI) | 2:45 | 2024-10-04 | 2025-06-28 |
 | [Simp](https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Simp](https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr) | 2:31 | 2023-02-23 | 2023-11-10 |
 | [sing about love](https://open.spotify.com/track/5B3vp0n7EJch6ExLlyfLdl) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [sing about love](https://open.spotify.com/album/0ZH61KMwJcevDmzFkxVXoz) | 3:34 | 2021-12-16 | 2023-01-13 |

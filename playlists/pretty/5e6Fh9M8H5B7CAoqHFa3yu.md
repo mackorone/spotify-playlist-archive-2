@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 309 likes - 2,213 songs - 5 day 10 hr 59 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 309 likes - 2,215 songs - 5 day 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2221,5 +2221,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2211 | [dear future self](https://open.spotify.com/track/52RtpM46le3D6bVbsaUUnN) | [anoushka hem](https://open.spotify.com/artist/5tjq7Oyj6Zu5PhVACjwC8t) | [LETTING GO](https://open.spotify.com/album/5qgzx90xVvgZcTqlnYLgAP) | 3:52 |
 | 2212 | [Never End \- Radio Edit](https://open.spotify.com/track/3axEp7Kauy9iVoeLVy8UR9) | [The11thhour](https://open.spotify.com/artist/5ACitgnHseUts6syK1PvYP) | [Never End \(Radio Edit\)](https://open.spotify.com/album/31RNNiJJSJj3jEMbs9iZDJ) | 3:20 |
 | 2213 | [Find a Local Number](https://open.spotify.com/track/5ssQ6lnBgbH7t71UjtWvtU) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Find a Local Number](https://open.spotify.com/album/1H1YLJ2bi1gA8S9T5EjlqE) | 3:33 |
+| 2214 | [Wild Rose](https://open.spotify.com/track/1DSxPvR3hWSxPLvjESBJE6) | [Adam Briscoe](https://open.spotify.com/artist/3CcEHcp22NtPVNDeR80z2y) | [Wild Rose](https://open.spotify.com/album/7JEpKrtSqRtSXctVEyrThS) | 4:13 |
+| 2215 | [serry](https://open.spotify.com/track/7CfCtIapRmmDt4fsA2IDmR) | [Lofi u](https://open.spotify.com/artist/7tOkG8CZx1DrlER0naUlOr) | [serry](https://open.spotify.com/album/5FDNYg9D3fHmLpUMoo7o4q) | 4:25 |
 
-Snapshot ID: `AAAJSwF63UIszSb8X0Bzoa7u0uPs9q4Y`
+Snapshot ID: `AAAJTVtK7QNDjo+DlJI5v/IwnVkBS/BA`

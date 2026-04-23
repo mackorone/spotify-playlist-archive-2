@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,794 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,804 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 47 | [Business](https://open.spotify.com/track/7iU1ZT0cD11WQO6PI6ChdB) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Longway](https://open.spotify.com/album/44SVcjDKmwb0buNknrEpiW) | 3:06 |
 | 48 | [Famous](https://open.spotify.com/track/72NiOXPx95GInH5HFZaf3H) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:49 |
 | 49 | [Pyaar Tenu Karda Gabru \(From "Shubh Mangal Zyada Saavdhan"\)](https://open.spotify.com/track/0OcVZqIer0LLu3K8sdU5Yb) | [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Pyaar Tenu Karda Gabru \(From "Shubh Mangal Zyada Saavdhan"\)](https://open.spotify.com/album/4FSDkGEXFPKgmrnxHNvp2Y) | 2:45 |
-| 50 | [She Don't Know \(From "She Don't Know"\)](https://open.spotify.com/track/23dCPIMivfUQwUPSeDSUPc) | [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr) | [She Don't Know \(From "Blessed"\)](https://open.spotify.com/album/0vomvwmwqw7puUfnwVWjsf) | 3:23 |
+| 50 | [Left Behind](https://open.spotify.com/track/2CQlMyN2oEbCN2Rqg1uuzB) | [Zafar](https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Left Behind](https://open.spotify.com/album/3Z3kGbW5yyIlKeu6zpEFzQ) | 3:42 |
 
 Snapshot ID: `AAAAAD9XdkQ9GZBK/FTNqNUsgsBp9/nS`

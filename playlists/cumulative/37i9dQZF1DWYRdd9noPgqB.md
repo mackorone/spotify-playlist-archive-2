@@ -4,14 +4,14 @@
 
 > La playlist qui fait du bien ☀️
 
-470 songs - 1 day 1 hr 51 min
+471 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Where Are\) The Good Days?](https://open.spotify.com/track/0RJAS5OAb2tgr8nVIAnZfF) | [Kimberose](https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Roses](https://open.spotify.com/album/4NSDfQZFfOcEXd844BfSjl) | 3:12 | 2024-09-26 | 2025-01-31 |
 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 | 2025-07-24 | 2026-01-23 |
 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2023-09-28 | 2023-10-27 |
-| [555](https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [555](https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k) | 3:18 | 2025-10-16 |  |
+| [555](https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [555](https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k) | 3:18 | 2025-10-16 | 2026-04-23 |
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-20 | 2024-11-15 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-04-18 | 2024-06-07 |
 | [A Real Hero](https://open.spotify.com/track/6nhtQSFipKR5CdtiJBgQup) | [TimeMachine1985](https://open.spotify.com/artist/2XgfAq6E80cypDmNZ5JXGv) | [A Real Hero](https://open.spotify.com/album/2zLx60VBP8NhZRk3fvKJ1x) | 4:00 | 2025-03-13 | 2025-06-28 |
@@ -378,7 +378,7 @@
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-09-25 | 2026-02-06 |
 | [Sober](https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sober](https://open.spotify.com/album/7JKGPSP7UIjxPWWo9KuqMK) | 2:42 | 2024-05-02 | 2024-09-20 |
 | [Sober Up](https://open.spotify.com/track/3ImNIsa0NoPrvF77lNAvM3) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Lunch EP](https://open.spotify.com/album/64InF946FZ8kReuvMx8qn2) | 2:49 | 2024-09-19 | 2025-01-17 |
-| [Somebody](https://open.spotify.com/track/0qyO4rqD2KCnuk8I6GM6KD) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [George Henry Tizzard](https://open.spotify.com/artist/6RZqAZ8MHHYZ2jlW91naq6), [Richard James Parkhouse](https://open.spotify.com/artist/626SnFAnViZWjj61ehLN0j) | [Somebody](https://open.spotify.com/album/4ERzj0QbSR3IgerROEtPKG) | 3:44 | 2026-03-26 |  |
+| [Somebody](https://open.spotify.com/track/0qyO4rqD2KCnuk8I6GM6KD) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Somebody](https://open.spotify.com/album/4ERzj0QbSR3IgerROEtPKG) | 3:44 | 2026-03-26 |  |
 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 | 2025-01-23 | 2026-03-20 |
 | [Stand Back For You](https://open.spotify.com/track/0QPAliTY1pzXMn4flw3t9t) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Stand Back For You](https://open.spotify.com/album/5LtepWAuEjgO0N9VHQA6iT) | 3:43 | 2025-07-17 | 2025-11-07 |
 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-04-10 | 2025-07-25 |
@@ -462,6 +462,7 @@
 | [What Are You Waiting For](https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [What Are You Waiting For](https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm) | 2:24 | 2025-04-10 | 2025-05-16 |
 | [When I Go](https://open.spotify.com/track/1DIWTY8YI8cLaQRdPSrkDl) | [Saults](https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8) | [When I Go](https://open.spotify.com/album/5MYFajLWl4uphD3NPW223K) | 4:17 | 2025-11-27 |  |
 | [WHEN YOU'RE WITH ME](https://open.spotify.com/track/7DrW56pQPjh9IssRHY5jcV) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [WHEN YOU'RE WITH ME](https://open.spotify.com/album/2A3Ydj3xzNAanvUobhv2YN) | 3:18 | 2024-03-29 | 2024-05-17 |
+| [Whether I Win or Lose](https://open.spotify.com/track/7icgSLNDP90O7g7PwTpX6d) | [Saults](https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8) | [Whether I Win or Lose](https://open.spotify.com/album/6qFJGE4q3yu20PrJu4cTpr) | 4:02 | 2026-04-16 |  |
 | [Whole World](https://open.spotify.com/track/6l4d6IKVNSC6Ic9wbxv0Ai) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Whole World](https://open.spotify.com/album/277XEKE1geqVvUV3yCjoCS) | 3:04 | 2024-08-29 | 2024-10-18 |
 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 | 2024-08-29 | 2024-10-25 |
 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 | 2025-09-25 |  |

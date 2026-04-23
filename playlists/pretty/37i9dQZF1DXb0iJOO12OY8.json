@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 211007,
+  "num_followers": 211006,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,38 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
+        "name": "Oslo",
+        "url": "https://open.spotify.com/album/7uTUU9hnwypL51eEv8qwyH"
+      },
+      "artists": [
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Oslo",
+      "url": "https://open.spotify.com/track/4rfYHi76AIktWXmeb7ycjN"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
+        "name": "Individ",
+        "url": "https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId"
+      },
+      "artists": [
+        {
+          "name": "GOLF",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        }
+      ],
+      "duration_ms": 188067,
+      "name": "Sucker For Pain",
+      "url": "https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
         "name": "Galopp",
         "url": "https://open.spotify.com/album/5Kc2vzQnDo9AInTgxixR4n"
       },
@@ -463,38 +495,6 @@
       "duration_ms": 165785,
       "name": "Galopp",
       "url": "https://open.spotify.com/track/6kx2yUfhcc372Iknjrx6YK"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
-        "name": "Individ",
-        "url": "https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId"
-      },
-      "artists": [
-        {
-          "name": "GOLF",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
-        }
-      ],
-      "duration_ms": 188067,
-      "name": "Sucker For Pain",
-      "url": "https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
-        "name": "Oslo",
-        "url": "https://open.spotify.com/album/7uTUU9hnwypL51eEv8qwyH"
-      },
-      "artists": [
-        {
-          "name": "Streetboys",
-          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "Oslo",
-      "url": "https://open.spotify.com/track/4rfYHi76AIktWXmeb7ycjN"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -531,18 +531,18 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "Det L\u00f8ser Seg",
-        "url": "https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W"
+        "name": "En million",
+        "url": "https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu"
       },
       "artists": [
         {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
         }
       ],
-      "duration_ms": 132727,
-      "name": "Det L\u00f8ser Seg",
-      "url": "https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S"
+      "duration_ms": 146918,
+      "name": "En million",
+      "url": "https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -563,18 +563,18 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "En million",
-        "url": "https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu"
+        "name": "Det L\u00f8ser Seg",
+        "url": "https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W"
       },
       "artists": [
         {
-          "name": "Streetboys",
-          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
         }
       ],
-      "duration_ms": 146918,
-      "name": "En million",
-      "url": "https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR"
+      "duration_ms": 132727,
+      "name": "Det L\u00f8ser Seg",
+      "url": "https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S"
     },
     {
       "added_at": "2026-03-26 23:00:13",

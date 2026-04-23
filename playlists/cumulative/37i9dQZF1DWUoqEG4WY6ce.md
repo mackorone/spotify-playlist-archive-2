@@ -4,7 +4,7 @@
 
 > Hop in.
 
-385 songs - 1 day 0 hr 32 min
+386 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Furr](https://open.spotify.com/track/7yLfnmaMV6Hq0wuPPpC94i) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/17KSATDlU5GkFWK3conZPv) | 4:07 | 2020-10-29\* | 2022-07-20 |
 | [Girls](https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 | 2023-12-18 |  |
 | [Give It Time \- Radio Edit](https://open.spotify.com/track/6Ospx9pAyAI7vEHY5gzH19) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Give It Time](https://open.spotify.com/album/4PhyA2i3coWU3qnqLxnKWo) | 4:39 | 2025-02-07 | 2025-02-28 |
-| [Gold and Green](https://open.spotify.com/track/3N23j0DZvS0LfPM1gsELPz) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Birdie](https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy) | 3:07 | 2024-08-15 |  |
+| [Gold and Green](https://open.spotify.com/track/3N23j0DZvS0LfPM1gsELPz) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Birdie](https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy) | 3:07 | 2024-08-15 | 2026-04-23 |
 | [Golden](https://open.spotify.com/track/3kQDykkw9HVowlm3HxTcuR) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [It Still Moves](https://open.spotify.com/album/5vCqxfNSqatehjPustNq4s) | 4:39 | 2020-10-29\* |  |
 | [Golden Days](https://open.spotify.com/track/1oy0UIGzuqIPBkOsjojeJ1) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO) | 4:02 | 2021-01-15 | 2022-07-29 |
 | [Gone](https://open.spotify.com/track/6OJMVcgJYX3rJrjN6txUOI) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Gone](https://open.spotify.com/album/1lVGIXjXpaPw2qoeYqBQjM) | 3:41 | 2020-10-29\* | 2021-10-16 |
@@ -182,6 +182,7 @@
 | [It Gets Better](https://open.spotify.com/track/38UXvQmxp5HxbhBNaHiC8D) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC), [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [It Gets Better](https://open.spotify.com/album/2xJtRIh8Tmjfz8YjHyP8aX) | 4:18 | 2023-12-18 |  |
 | [It Hurts Until It Doesn't](https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5) | [Mothers](https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv) | [When You Walk A Long Distance You Are Tired](https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe) | 5:33 | 2020-10-29\* | 2021-10-10 |
 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 | 2021-06-28 | 2022-07-29 |
+| [Jane!](https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5) | [The Long Faces](https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40) | [Jane!](https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu) | 3:06 | 2026-04-23 |  |
 | [Joker Lips](https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Joker Lips](https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc) | 3:01 | 2024-08-15 | 2025-03-01 |
 | [Kamera](https://open.spotify.com/track/7xSUGewoItgxStLNXnoWkl) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:30 | 2020-10-29\* | 2022-07-22 |
 | [Katie Queen Of Tennessee](https://open.spotify.com/track/5iXuX70Sxp6sKdumBcQQW7) | [The Apache Relay](https://open.spotify.com/artist/62pBNClOEZJEyRXrzC2CtI) | [Apache Relay](https://open.spotify.com/album/239UV8PJLsEaJfcNM4T7rb) | 3:24 | 2021-01-15 | 2022-07-29 |

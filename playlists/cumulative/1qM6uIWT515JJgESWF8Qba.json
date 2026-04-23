@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf"
+      },
+      "artists": [
+        {
+          "name": "Astratto",
+          "url": "https://open.spotify.com/artist/1kQT4JN2XDrVdT4vubHCjw"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370194,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli"
+    },
+    {
+      "album": {
         "name": "In Our Nature",
         "url": "https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3"
       },

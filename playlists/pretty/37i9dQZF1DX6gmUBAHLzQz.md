@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. \(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,991 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,007 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 31 | [恋するみたいなキャラメリゼ](https://open.spotify.com/track/3aY0hvX7FZUDia35dDgPwj) | [えり・れみ from STAR☆ANIS](https://open.spotify.com/artist/0fAhOKHfpW6oPKwNGOsVaD) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 3年目2](https://open.spotify.com/album/4M12YvwwGbcwexRTydDy4H) | 5:05 |
 | 32 | [Kira・pata・shining](https://open.spotify.com/track/2FnIKQYAVX0xtcoZgvMxd3) | [すなお from STAR☆ANIS](https://open.spotify.com/artist/75ALaxGClrqPrdEXeYuOfw) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目1](https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT) | 3:52 |
 | 33 | [いばらの女王](https://open.spotify.com/track/4Y2uO5rzu5UENvKvFNClQS) | [もな from AIKATSU☆STARS!](https://open.spotify.com/artist/4VPREigW2d9IB5D8xZEZw9) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 4年目](https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT) | 4:05 |
-| 34 | [放課後ポニーテール](https://open.spotify.com/track/6eNQAc1EbiY0gZBLtqY6YB) | [れみ from STAR☆ANIS](https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目2](https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ) | 4:31 |
-| 35 | [輝きのエチュード](https://open.spotify.com/track/6zCDVDPWdar8bKJ6bTDB27) | [わかfrom STAR☆ANIS](https://open.spotify.com/artist/3OJmzShbWK77VWMFFd2UnB) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 3年目1](https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y) | 5:12 |
+| 34 | [輝きのエチュード](https://open.spotify.com/track/6zCDVDPWdar8bKJ6bTDB27) | [わかfrom STAR☆ANIS](https://open.spotify.com/artist/3OJmzShbWK77VWMFFd2UnB) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 3年目1](https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y) | 5:12 |
+| 35 | [放課後ポニーテール](https://open.spotify.com/track/6eNQAc1EbiY0gZBLtqY6YB) | [れみ from STAR☆ANIS](https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目2](https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ) | 4:31 |
 | 36 | [Precious](https://open.spotify.com/track/1D7hkgYzx8CAOmKnOApXYG) | [りすこ・わか・ふうり・もな form STAR☆ANIS](https://open.spotify.com/artist/15YVhVSnrukr0JnikTliTX) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目2](https://open.spotify.com/album/2HJdoqtoKMRUBkhFwHwXqX) | 5:36 |
 | 37 | [Lovely Party Collection](https://open.spotify.com/track/6yjZEXpihrxQHL8FI8WZSB) | [るか・もな・みき from AIKATSU☆STARS!](https://open.spotify.com/artist/6SlV2XvL2mIbMC3AQKAvU6) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 3年目2](https://open.spotify.com/album/4M12YvwwGbcwexRTydDy4H) | 4:21 |
 | 38 | [Du\-Du\-Wa DO IT!!](https://open.spotify.com/track/2QAVxAYeSqbAs01hXOh4M2) | [るか・もな・みき from AIKATSU☆STARS! & わか from STAR☆ANIS](https://open.spotify.com/artist/00zQjOwNpDon4OsHmxUmoK) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 3年目1](https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y) | 4:01 |

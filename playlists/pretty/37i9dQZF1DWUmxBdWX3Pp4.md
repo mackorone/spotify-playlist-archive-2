@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos de Trap Latino  📸  Miky Woodz y Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,387 likes - 98 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,386 likes - 98 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

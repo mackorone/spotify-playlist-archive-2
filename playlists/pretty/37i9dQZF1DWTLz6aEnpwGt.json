@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 71738,
+  "num_followers": 71758,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2025-12-23 12:10:07",
       "album": {
-        "name": "Johann Sebastian Bach",
-        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Concerto in D Minor, BWV 974: III. Presto",
-      "url": "https://open.spotify.com/track/0ClrgVLLJTLbu58EaTxZ1U"
-    },
-    {
-      "added_at": "2025-12-23 12:10:07",
-      "album": {
         "name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058",
         "url": "https://open.spotify.com/album/14rnDYdD1OCvTh9lSvodMK"
       },
@@ -783,8 +763,8 @@
     {
       "added_at": "2025-12-23 12:10:07",
       "album": {
-        "name": "Bach, J.S.: Das Wohltemperierte Klavier I",
-        "url": "https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2"
+        "name": "Johann Sebastian Bach",
+        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
       },
       "artists": [
         {
@@ -792,13 +772,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Andr\u00e1s Schiff",
-          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
         }
       ],
-      "duration_ms": 233600,
-      "name": "The Well-Tempered Clavier, Book 1: Prelude & Fugue No. 15 in G Major, BWV 860",
-      "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
+      "duration_ms": 211320,
+      "name": "Concerto in D Minor, BWV 974: III. Presto",
+      "url": "https://open.spotify.com/track/0ClrgVLLJTLbu58EaTxZ1U"
     },
     {
       "added_at": "2025-12-23 12:10:07",
@@ -819,6 +799,26 @@
       "duration_ms": 143760,
       "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
       "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
+    },
+    {
+      "added_at": "2025-12-23 12:10:07",
+      "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier I",
+        "url": "https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "The Well-Tempered Clavier, Book 1: Prelude & Fugue No. 15 in G Major, BWV 860",
+      "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
     },
     {
       "added_at": "2025-12-23 12:10:07",

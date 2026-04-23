@@ -9609,6 +9609,24 @@
     },
     {
       "album": {
+        "name": "Can You Feel The Heat",
+        "url": "https://open.spotify.com/album/6C1hJiiURrI2eMgdNtvhGP"
+      },
+      "artists": [
+        {
+          "name": "S3PPA",
+          "url": "https://open.spotify.com/artist/0sIB3PokRCqqllNuzZ38NO"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373714,
+      "name": "Can You Feel The Heat",
+      "url": "https://open.spotify.com/track/2q1DSNVu90P1ecl8cpaAN9"
+    },
+    {
+      "album": {
         "name": "Can You Fix Your Heart",
         "url": "https://open.spotify.com/album/2f1YeI2ufkpylmc6WmSqmJ"
       },
@@ -12745,6 +12763,32 @@
     },
     {
       "album": {
+        "name": "Crazy On My Mind",
+        "url": "https://open.spotify.com/album/12hAYV2aowo2CYMYtbFzbQ"
+      },
+      "artists": [
+        {
+          "name": "chriz javey",
+          "url": "https://open.spotify.com/artist/4n545NeyanWohXT6Ku1Br8"
+        },
+        {
+          "name": "1981 Tokyo",
+          "url": "https://open.spotify.com/artist/6meknouY1caCQg3ZxvrPdt"
+        },
+        {
+          "name": "Shaolinn",
+          "url": "https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Crazy On My Mind",
+      "url": "https://open.spotify.com/track/19kFxiDnQNbXLIXMQ2RDva"
+    },
+    {
+      "album": {
         "name": "Crazy Sexy Dirty",
         "url": "https://open.spotify.com/album/6sWsMNGzp9zHizUdZkl1oA"
       },
@@ -13362,7 +13406,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 208372,
       "name": "Daddy's Got A Gun",
       "url": "https://open.spotify.com/track/5lTLXjOzbA9MAregavAu0U"
@@ -20478,6 +20522,24 @@
       "duration_ms": 110773,
       "name": "Finest",
       "url": "https://open.spotify.com/track/1TRGdHdRkRv5ukCferu1D0"
+    },
+    {
+      "album": {
+        "name": "finest girl",
+        "url": "https://open.spotify.com/album/1Pk4rkbCOiI8CuVtVul5tu"
+      },
+      "artists": [
+        {
+          "name": "Aki Oke",
+          "url": "https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154232,
+      "name": "finest girl",
+      "url": "https://open.spotify.com/track/2hoksN8fT30jKOYqVeqCth"
     },
     {
       "album": {
@@ -32822,7 +32884,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 190451,
       "name": "Laser Beams",
       "url": "https://open.spotify.com/track/3VEfoWGnWD09ZnQlVKKGHa"
@@ -40675,6 +40737,24 @@
     },
     {
       "album": {
+        "name": "No Bad Trips",
+        "url": "https://open.spotify.com/album/3AngFwNxlTz9Byb8TzLpaf"
+      },
+      "artists": [
+        {
+          "name": "Birthday in Texas",
+          "url": "https://open.spotify.com/artist/35SYTkkKBjuA75X0FoLRjA"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132985,
+      "name": "No Bad Trips",
+      "url": "https://open.spotify.com/track/5L1jMPd94KbotvZRtA7dJH"
+    },
+    {
+      "album": {
         "name": "No Drugs",
         "url": "https://open.spotify.com/album/4QyUvhtYJqcrt9CsDlSvAZ"
       },
@@ -46554,7 +46634,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 168701,
       "name": "PUT YOUR USB IN MY CDJ",
       "url": "https://open.spotify.com/track/3ABAbdoy3EJLKeGevwuJeK"
@@ -62690,7 +62770,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 192380,
       "name": "We Don't Stop",
       "url": "https://open.spotify.com/track/6fnbDKCey6fvF65hYhnJDc"

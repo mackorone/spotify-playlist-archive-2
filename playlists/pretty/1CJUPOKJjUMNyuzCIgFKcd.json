@@ -1,13 +1,205 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 22077,
+  "num_followers": 22072,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAnhq2EtUucxR+Q6M2vXjzRm3lFX0Aw",
+  "snapshot_id": "AAAnmJfuUdBaHxqP2Q4UizBV0wyQ7szb",
   "tracks": [
+    {
+      "added_at": "2026-04-22 21:36:23",
+      "album": {
+        "name": "Break The Rules Or Stay Broke",
+        "url": "https://open.spotify.com/album/43Ai5wtKATvq8hgEhUKP5a"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "White Trash",
+      "url": "https://open.spotify.com/track/0cQtd2V9vn8shmJVx6svT0"
+    },
+    {
+      "added_at": "2026-04-22 21:40:15",
+      "album": {
+        "name": "Ice Hound",
+        "url": "https://open.spotify.com/album/6SEWgVINLDxOVMdrEH9avp"
+      },
+      "artists": [
+        {
+          "name": "Xavier Wulf",
+          "url": "https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S"
+        }
+      ],
+      "duration_ms": 92689,
+      "name": "Ice Hound",
+      "url": "https://open.spotify.com/track/3NMZBauh9NhD6nmdZCda6r"
+    },
+    {
+      "added_at": "2026-04-22 21:40:05",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/75Jix4is5wxklcCIZEGCLd"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        }
+      ],
+      "duration_ms": 114055,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6AUKhuveLvni7f0o4dvou8"
+    },
+    {
+      "added_at": "2026-04-22 21:32:13",
+      "album": {
+        "name": "Day After Day (feat. Lori Perry)",
+        "url": "https://open.spotify.com/album/5SR4FxTHW3yTLbFZZmO1uP"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        },
+        {
+          "name": "Lori Perry",
+          "url": "https://open.spotify.com/artist/5D4g8u0UfgSFcisAei0qPI"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Day After Day (feat. Lori Perry)",
+      "url": "https://open.spotify.com/track/4deVP1zpdGKQs5QRqTvE3i"
+    },
+    {
+      "added_at": "2026-04-22 21:40:26",
+      "album": {
+        "name": "Pharmacy",
+        "url": "https://open.spotify.com/album/39TLtYwCN8xgX4xFvz3tD5"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Pharmacy",
+      "url": "https://open.spotify.com/track/3b2sucuX9SqXrX2nDwHfV1"
+    },
+    {
+      "added_at": "2026-04-22 21:40:35",
+      "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/4Z1bwN41GF6DwjgerhMI2n"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "duration_ms": 160509,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/02fpY51jccaKv1iIokSNqV"
+    },
+    {
+      "added_at": "2026-04-22 21:40:47",
+      "album": {
+        "name": "I Can't Relate",
+        "url": "https://open.spotify.com/album/1qfoNMzrhJTBHblCbyaRex"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "I Can't Relate",
+      "url": "https://open.spotify.com/track/3AKrCHauPcQbaXBn39qO06"
+    },
+    {
+      "added_at": "2026-04-22 21:36:36",
+      "album": {
+        "name": "2GOOD4U",
+        "url": "https://open.spotify.com/album/7nZNLY8vQLK1WGQY6MN0C6"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "2GOOD4U",
+      "url": "https://open.spotify.com/track/4f0XOmZT9i5n9xwUlofqwo"
+    },
+    {
+      "added_at": "2026-04-22 21:36:57",
+      "album": {
+        "name": "TALK LIKE THIS",
+        "url": "https://open.spotify.com/album/52FRwwCptm0Mbu1DRpw20i"
+      },
+      "artists": [
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        }
+      ],
+      "duration_ms": 132244,
+      "name": "TALK LIKE THIS",
+      "url": "https://open.spotify.com/track/6GiyYwhB1nFxXjx2vsYISo"
+    },
+    {
+      "added_at": "2026-04-22 21:37:15",
+      "album": {
+        "name": "Harlem River Drive",
+        "url": "https://open.spotify.com/album/20CMIjogDsbSZkk6EHa3P0"
+      },
+      "artists": [
+        {
+          "name": "Fergie Baby",
+          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
+        },
+        {
+          "name": "Cam'ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ],
+      "duration_ms": 230504,
+      "name": "Harlem River Drive",
+      "url": "https://open.spotify.com/track/56zQuzPKVV5DW1MYEvgqa6"
+    },
+    {
+      "added_at": "2026-04-22 21:37:46",
+      "album": {
+        "name": "Fuck, Marry, Kill",
+        "url": "https://open.spotify.com/album/1xIWjruzzPXUWWZ9q20FVG"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 157818,
+      "name": "Non Negotiables",
+      "url": "https://open.spotify.com/track/3HUhrokD6jm8EH8qK1gIuZ"
+    },
     {
       "added_at": "2026-04-08 00:10:24",
       "album": {

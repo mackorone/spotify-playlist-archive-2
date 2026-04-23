@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,821 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,851 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 36 | [Fast](https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I) | [FUNFUN](https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Fast](https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf) | 3:18 |
 | 37 | [The Underground](https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Tom Diesel](https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX) | [The Underground](https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB) | 3:26 |
 | 38 | [Strange](https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Strange](https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY) | 3:44 |
-| 39 | [Escapism](https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Escapism](https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ) | 3:42 |
-| 40 | [Waterfall](https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV) | [Waterfall](https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx) | 4:24 |
+| 39 | [Waterfall](https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV) | [Waterfall](https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx) | 4:24 |
+| 40 | [Escapism](https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Escapism](https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ) | 3:42 |
 | 41 | [Lighter](https://open.spotify.com/track/0LJeMisvD34COpkt7QFFIO) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Lighter](https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h) | 3:07 |
 | 42 | [Sunday Sunrise](https://open.spotify.com/track/3yn9JKlURgymXnZzl7E9ht) | [Martim Rola](https://open.spotify.com/artist/5HIY98z9x6Qmh7fjlSRvxb), [David Mackay](https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt) | [Sunday Sunrise](https://open.spotify.com/album/3BU5kYeGA0c5DvgwP3mryt) | 3:17 |
 | 43 | [Quicksand \(Don't Go\)](https://open.spotify.com/track/31bZ1mzfyByfW5uPw1lxT7) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Quicksand \(Don't Go\)](https://open.spotify.com/album/0WCqTOZHxoqdZBkwuyXZEC) | 3:12 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 47 | [Chasing Ghosts](https://open.spotify.com/track/4uzqcDlCOl0et4pGtfkka5) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Chasing Ghosts](https://open.spotify.com/album/6SjsSADxNyzHxGbh0qQfq4) | 4:12 |
 | 48 | [Start A Fire](https://open.spotify.com/track/1gZKuzj9GsuFl0IshqPPom) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [Bigger Than All Of Us](https://open.spotify.com/album/0EovqHtUM3sLB0IqlS3Xkm) | 3:49 |
 | 49 | [Beside You](https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Beside You](https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS) | 4:41 |
-| 50 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
-| 51 | [Make Believe](https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Make Believe](https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv) | 5:05 |
+| 50 | [Make Believe](https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Make Believe](https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv) | 5:05 |
+| 51 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
 | 52 | [set me free \- Joris Voorn Remix](https://open.spotify.com/track/7DGDV7TCZyxnRQv1uxH4en) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [set me free](https://open.spotify.com/album/2nuFBHPKFRwmVeegVGZKlH) | 3:22 |
 | 53 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
 | 54 | [If You're Here With Me](https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [If You're Here With Me](https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M) | 3:28 |

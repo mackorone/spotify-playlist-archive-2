@@ -1,6 +1,6 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 88010,
+  "num_followers": 88011,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Church Music",
+        "url": "https://open.spotify.com/album/69UXabkBHbKMJ0DQjctXtK"
+      },
+      "artists": [
+        {
+          "name": "David Crowder Band",
+          "url": "https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS"
+        }
+      ],
+      "duration_ms": 318693,
+      "name": "How He Loves",
+      "url": "https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Graves Into Gardens (Live)",
         "url": "https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 452499,
       "name": "Graves Into Gardens (Live)",
       "url": "https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Church Music",
-        "url": "https://open.spotify.com/album/69UXabkBHbKMJ0DQjctXtK"
-      },
-      "artists": [
-        {
-          "name": "David Crowder Band",
-          "url": "https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS"
-        }
-      ],
-      "duration_ms": 318693,
-      "name": "How He Loves",
-      "url": "https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Christ Be Magnified",
-        "url": "https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 302011,
-      "name": "Christ Be Magnified",
-      "url": "https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "When The Kingdom Comes",
         "url": "https://open.spotify.com/album/3VlrT7tpwfMMPbweY4Clp0"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 163493,
       "name": "When The Kingdom Comes",
       "url": "https://open.spotify.com/track/3LINos46sYoZPunSUgW26Q"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Christ Be Magnified",
+        "url": "https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 302011,
+      "name": "Christ Be Magnified",
+      "url": "https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Burn The Ships (Deluxe Edition: Remixes & Collaborations)",
-        "url": "https://open.spotify.com/album/5bZuiwMXhNgCTPXgKh3nOb"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 227013,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/77ntXt0HAf9cn9WJpzQQ3g"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Something Different (Deluxe Version)",
         "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 228040,
       "name": "To Live Is Christ",
       "url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Burn The Ships (Deluxe Edition: Remixes & Collaborations)",
+        "url": "https://open.spotify.com/album/5bZuiwMXhNgCTPXgKh3nOb"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/77ntXt0HAf9cn9WJpzQQ3g"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "He's Alive: Don Francisco Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/2Ax36W4f22Kr96sJnsnBtw"
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
       },
       "artists": [
         {
-          "name": "Don Francisco",
-          "url": "https://open.spotify.com/artist/6TxrRPbH25NhjMCBvoeyXI"
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 298706,
-      "name": "He's Alive",
-      "url": "https://open.spotify.com/track/3BHTusPUbP50JY0uzCUODT"
+      "duration_ms": 292289,
+      "name": "All Things New",
+      "url": "https://open.spotify.com/track/2D1F0ukjJniQCgO1ex5KJi"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "When The Light Comes",
-        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+        "name": "He's Alive: Don Francisco Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/2Ax36W4f22Kr96sJnsnBtw"
       },
       "artists": [
         {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+          "name": "Don Francisco",
+          "url": "https://open.spotify.com/artist/6TxrRPbH25NhjMCBvoeyXI"
         }
       ],
-      "duration_ms": 292289,
-      "name": "All Things New",
-      "url": "https://open.spotify.com/track/2D1F0ukjJniQCgO1ex5KJi"
+      "duration_ms": 298706,
+      "name": "He's Alive",
+      "url": "https://open.spotify.com/track/3BHTusPUbP50JY0uzCUODT"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1607,22 +1607,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "LIVE FROM IO WKND",
-        "url": "https://open.spotify.com/album/0rREJdGac7CLynSDpGaRxQ"
+        "name": "The Blood + the Breath: Songs That Tell the Story of Redemption",
+        "url": "https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON"
       },
       "artists": [
         {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Clay Finnesand",
-          "url": "https://open.spotify.com/artist/1nfsteEnDvYQUoFNJtsiM4"
+          "name": "Caroline Cobb",
+          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
         }
       ],
-      "duration_ms": 312898,
-      "name": "How Great The Love Of God - Live",
-      "url": "https://open.spotify.com/track/13NzMeG6afiIFc5bRBxgH1"
+      "duration_ms": 249000,
+      "name": "The Passover Song (feat. Sean Carter)",
+      "url": "https://open.spotify.com/track/4IM3k6CREQ4buhuklvqpa8"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1643,6 +1639,26 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "LIVE FROM IO WKND",
+        "url": "https://open.spotify.com/album/0rREJdGac7CLynSDpGaRxQ"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Clay Finnesand",
+          "url": "https://open.spotify.com/artist/1nfsteEnDvYQUoFNJtsiM4"
+        }
+      ],
+      "duration_ms": 312898,
+      "name": "How Great The Love Of God - Live",
+      "url": "https://open.spotify.com/track/13NzMeG6afiIFc5bRBxgH1"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Precious Gold",
         "url": "https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 216400,
       "name": "Precious Gold",
       "url": "https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "The Blood + the Breath: Songs That Tell the Story of Redemption",
-        "url": "https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON"
-      },
-      "artists": [
-        {
-          "name": "Caroline Cobb",
-          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "The Passover Song (feat. Sean Carter)",
-      "url": "https://open.spotify.com/track/4IM3k6CREQ4buhuklvqpa8"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "hallelujah",
-        "url": "https://open.spotify.com/album/0igxQaN8iQNIwDvZBSKKRA"
-      },
-      "artists": [
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 328607,
-      "name": "hallelujah",
-      "url": "https://open.spotify.com/track/7jwDkuFY3aHdVo42eesrnI"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Nothing But The Blood (Live)",
         "url": "https://open.spotify.com/album/5oc8j52aZ2nD6OzuNV2hHX"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 305454,
       "name": "Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/7DMltTS4tvWCm423u42YEr"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "hallelujah",
+        "url": "https://open.spotify.com/album/0igxQaN8iQNIwDvZBSKKRA"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 328607,
+      "name": "hallelujah",
+      "url": "https://open.spotify.com/track/7jwDkuFY3aHdVo42eesrnI"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Still My Little Boy",
+        "url": "https://open.spotify.com/album/0s00dylb9jlVwZOct1rief"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 272007,
+      "name": "Still My Little Boy",
+      "url": "https://open.spotify.com/track/7pH0SM8tsclIBgRX7Al1zm"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "The Lamb Slain (Live)",
         "url": "https://open.spotify.com/album/4hCC720mFetw7yfbwIjGEn"
       },
@@ -2211,22 +2227,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Still My Little Boy",
-        "url": "https://open.spotify.com/album/0s00dylb9jlVwZOct1rief"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 272007,
-      "name": "Still My Little Boy",
-      "url": "https://open.spotify.com/track/7pH0SM8tsclIBgRX7Al1zm"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "We Shall Behold Him/Behold The Lamb",
         "url": "https://open.spotify.com/album/6CpNgIYmLAgZmvgPoynCzg"
       },
@@ -2243,6 +2243,22 @@
       "duration_ms": 480240,
       "name": "We Shall Behold Him/Behold The Lamb",
       "url": "https://open.spotify.com/track/7mINdftFHnJOOO2ur4ZFzS"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Hallelujah for the Cross",
+        "url": "https://open.spotify.com/album/4EPgdHhYtLpO3FpRvh6d0y"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 209687,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/0VNaskMjoh3z2y9akAfodM"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2287,22 +2303,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Hallelujah for the Cross",
-        "url": "https://open.spotify.com/album/4EPgdHhYtLpO3FpRvh6d0y"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 209687,
-      "name": "Jesus Paid It All",
-      "url": "https://open.spotify.com/track/0VNaskMjoh3z2y9akAfodM"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Everlasting God: 25 Modern Worship Favorites",
         "url": "https://open.spotify.com/album/0evyT1Z2NZBf3RuOneAJMf"
       },
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 234748,
+      "name": "Come See (Glory Hallelujah)",
+      "url": "https://open.spotify.com/track/5rDxLru8HN7czVZrw7BzOt"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Long Live The King (Live At The Grove)",
         "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
       },
@@ -2359,38 +2375,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 234748,
-      "name": "Come See (Glory Hallelujah)",
-      "url": "https://open.spotify.com/track/5rDxLru8HN7czVZrw7BzOt"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "The Crucifixion of Jesus",
-        "url": "https://open.spotify.com/album/34fmXMkIlFqWXAe5vqBQZq"
-      },
-      "artists": [
-        {
-          "name": "Fernando Ortega",
-          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Stay With Me Here",
-      "url": "https://open.spotify.com/track/74Xfijo7ERntrhBdgLsicn"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Let It Echo (Live)",
         "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 328173,
       "name": "Power In The Cross - Live",
       "url": "https://open.spotify.com/track/3blTwlIOG5KrXP7UnxFTzT"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "The Crucifixion of Jesus",
+        "url": "https://open.spotify.com/album/34fmXMkIlFqWXAe5vqBQZq"
+      },
+      "artists": [
+        {
+          "name": "Fernando Ortega",
+          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Stay With Me Here",
+      "url": "https://open.spotify.com/track/74Xfijo7ERntrhBdgLsicn"
     },
     {
       "added_at": "2026-04-04 06:04:53",

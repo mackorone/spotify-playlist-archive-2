@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,617 likes - 105 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,642 likes - 105 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 6 | [Off Days](https://open.spotify.com/track/4ICreVvOWLDmvt98XAWSHz) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Off Days](https://open.spotify.com/album/32VGwDDqJ7ZG6mfnsAAIQU) | 3:20 |
 | 7 | [Savior](https://open.spotify.com/track/3Aj2VPE6lCiEmI97HNkQsx) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Savior](https://open.spotify.com/album/6lVdRPoAW3zsTLnzIaPcEg) | 3:26 |
 | 8 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
-| 9 | [Ijinle \(Remix\)](https://open.spotify.com/track/0kD4EbJh8dK0XURVNYhGZH) | [Great Godwin](https://open.spotify.com/artist/32aRAuhgYPnJhfCOrw0ZCZ), [Mckelve](https://open.spotify.com/artist/0PaFFapYBWTlpgpZoddb3x), [JEW Boys](https://open.spotify.com/artist/6NVC1nhI5v6L3gAyPKbnvm) | [Ijinle \(Remix\)](https://open.spotify.com/album/33UcxTl66w3uuvfLUBeLKd) | 3:26 |
+| 9 | [Ijinle \(Remix\)](https://open.spotify.com/track/0kD4EbJh8dK0XURVNYhGZH) | [Great Godwin](https://open.spotify.com/artist/32aRAuhgYPnJhfCOrw0ZCZ), [Mckelv](https://open.spotify.com/artist/1hp89EeuCGUjpcEzqAFWia), [JEW Boys](https://open.spotify.com/artist/6NVC1nhI5v6L3gAyPKbnvm) | [Ijinle \(Remix\)](https://open.spotify.com/album/33UcxTl66w3uuvfLUBeLKd) | 3:26 |
 | 10 | [Holy Spirit](https://open.spotify.com/track/0vdwSEcvTdrbfa58Q9RR7r) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Worship SZN](https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI) | 7:29 |
 | 11 | [Quiet On Me](https://open.spotify.com/track/3QmlGetwC8PkRcwDpvJA6c) | [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [Quiet On Me](https://open.spotify.com/album/7leyfRlekvo4RyP6sbJQhq) | 2:16 |
 | 12 | [Solitude](https://open.spotify.com/track/3PZSTBNopf5iiP2wYTKTD4) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [MonLee Mane](https://open.spotify.com/artist/10uFSeSqZvh5HQmINSSGcE) | [Solitude](https://open.spotify.com/album/3vNGrHDnRrxEu3g1ccJFIj) | 3:20 |

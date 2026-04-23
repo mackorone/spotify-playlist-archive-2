@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > todos pro alto, cada um com o seu\. Foto: Oklin, NandaTsunami
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,973 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,974 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [4K](https://open.spotify.com/track/2CV9GyLn1DWQAszrd1fwzO) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Busco Romance Love Show](https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1) | 3:21 |
 | 50 | [Sensações](https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Sensações](https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a) | 2:46 |
 
-Snapshot ID: `AAAAADRsvuwHtx29fRIuH0DEuuHrofAY`
+Snapshot ID: `AAAAAHv/IhmZqeGkJ+aW2O7jeJpw6ZsR`

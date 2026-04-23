@@ -1665,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Delta Pink Noise",
+        "url": "https://open.spotify.com/album/7wuN1Fk9vokIod2a9j03Mo"
+      },
+      "artists": [
+        {
+          "name": "Pink Noise Orchestra",
+          "url": "https://open.spotify.com/artist/5ArL02BGaSy7C4lrXl9U0s"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141099,
+      "name": "Delta Wave Pink Noise",
+      "url": "https://open.spotify.com/track/3v1mPHpJqIMfK4EieeS6kn"
+    },
+    {
+      "album": {
         "name": "Pink Noise Pt. 1",
         "url": "https://open.spotify.com/album/5TPg3sZNozxbEesXiyvaGy"
       },
@@ -4376,7 +4394,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 191393,
       "name": "Pink Background Noise",
       "url": "https://open.spotify.com/track/0Cyu5QUCoVNXMFjcjyRBru"
@@ -6086,7 +6104,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 192000,
       "name": "Pink Noise Dreamscape",
       "url": "https://open.spotify.com/track/4utqboqDZKKu5YcKoFF9Hb"
@@ -8772,7 +8790,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 154078,
       "name": "Pink Study Noise",
       "url": "https://open.spotify.com/track/00MWOYuJhqRC9lSM4pvWNC"
@@ -9096,7 +9114,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 178533,
       "name": "Polar Sweep",
       "url": "https://open.spotify.com/track/4vrRZXtXhuqL3LSdwoJQ0Z"
@@ -10450,6 +10468,24 @@
       "duration_ms": 190171,
       "name": "Soft Noise",
       "url": "https://open.spotify.com/track/6IStgKRenj5qdifclUFSFs"
+    },
+    {
+      "album": {
+        "name": "Soft Pink Cushion",
+        "url": "https://open.spotify.com/album/0z2lPgxmKjPoYZUwhq7tLG"
+      },
+      "artists": [
+        {
+          "name": "Symphony of Noises",
+          "url": "https://open.spotify.com/artist/0gju4pLAHiP2XhvPXy5Irj"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193971,
+      "name": "Soft Pink Cushion",
+      "url": "https://open.spotify.com/track/6dR5O1j1mhCvHls3atWC2L"
     },
     {
       "album": {

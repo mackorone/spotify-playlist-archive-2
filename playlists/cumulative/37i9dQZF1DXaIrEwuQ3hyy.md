@@ -4,7 +4,7 @@
 
 > wenn du mal kurz durchatmen musst 🌻
 
-322 songs - 18 hr 6 min
+323 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 | 2023-07-26 | 2024-04-19 |
 | [Cut In Half](https://open.spotify.com/track/1aGnbst3HYuQ2Rq3bMXM53) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Cut In Half](https://open.spotify.com/album/0LEFdPWcty1wzOYTBebazM) | 2:41 | 2026-04-02 |  |
 | [David](https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:24 | 2025-10-09 |  |
-| [Day Dreamer](https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Day Dreamer](https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW) | 3:12 | 2026-04-16 |  |
+| [Day Dreamer](https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Day Dreamer](https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW) | 3:12 | 2026-04-16 | 2026-04-23 |
 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 | 2023-07-26 |  |
 | [Devil You Know](https://open.spotify.com/track/0SvFR7coUg1LeJvGPWxG2w) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Devil You Know](https://open.spotify.com/album/3XutjqiiywXz5uD4Fx6JA0) | 3:10 | 2026-03-05 | 2026-03-27 |
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-05-22 | 2024-07-02 |
@@ -215,6 +215,7 @@
 | [palmtreedays\_1644.wav](https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [palmtreedays\_1644.wav](https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T) | 4:08 | 2023-07-26 | 2023-09-16 |
 | [Pancakes & Butter](https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/0ct2cPZ49xWrgqTWk2P6Mx) | 3:51 | 2023-09-26 | 2023-09-29 |
 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 | 2024-02-09 |  |
+| [Pause](https://open.spotify.com/track/6IM2LNtEfICxZrLrL8QKQX) | [Lilli](https://open.spotify.com/artist/0EdqMUSITvHwlyAc5SwPcK) | [Pause](https://open.spotify.com/album/74mhbiFIWl58S3erMjR3GP) | 2:23 | 2026-04-22 |  |
 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 | 2024-08-16 | 2026-01-31 |
 | [Personally](https://open.spotify.com/track/1Vgb7D76Y5QcIGheZgHnSt) | [Kamran Khan](https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA), [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Personally](https://open.spotify.com/album/2aqWNJaFSgobmmJxRWKbe7) | 3:58 | 2025-08-01 | 2025-11-18 |
 | [Piano in the Sky](https://open.spotify.com/track/2fOW155ruGcjxBdKoYFys4) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD) | 3:10 | 2023-09-15 | 2024-03-25 |

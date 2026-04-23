@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,369 songs - 9 day 16 hr 27 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,376 songs - 9 day 16 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3764,7 +3764,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3754 | [Beast](https://open.spotify.com/track/5XhSIUgEOmgV2x7KCCiOvL) | [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Basic Beater Beast](https://open.spotify.com/album/69EEhh1xWPvqJQ0QRYoGkr) | 3:29 |
 | 3755 | [Progression](https://open.spotify.com/track/7n10SATemReHLWUwmZS5VC) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Machine Yearning EP](https://open.spotify.com/album/7HBzPwXdizTOmjuEGCF9Bx) | 2:46 |
 | 3756 | [It Was Nice Meeting You](https://open.spotify.com/track/5FRX4SxGuILpN1mE6tS30y) | [Slowcoaching](https://open.spotify.com/artist/2EDx60iaorVfT7kuWZbo1m) | [It Was Nice Meeting You](https://open.spotify.com/album/46NdFFFJp2TA83rLRIc3xj) | 3:10 |
-| 3757 | [a thousand times again](https://open.spotify.com/track/0jpXkgSepTCCBjrJTTxVvH) | [Danny Ritz](https://open.spotify.com/artist/1D0aNZ7A0lxBAbu6FRzywE) | [a thousand times again](https://open.spotify.com/album/5zs8tTk94JxIuEnQbW3oIc) | 2:29 |
+| 3757 | [a thousand times again](https://open.spotify.com/track/0jpXkgSepTCCBjrJTTxVvH) | [Danny Ritz and the Regulars](https://open.spotify.com/artist/2q5bK3HYX17M0G0JHaToYY) | [a thousand times again](https://open.spotify.com/album/5zs8tTk94JxIuEnQbW3oIc) | 2:29 |
 | 3758 | [The Dead Internet \(Digital Echoes\)](https://open.spotify.com/track/4SQbNwdCGrHqdbK0ybRdH7) | [The Bliss Machine](https://open.spotify.com/artist/61ah4S257JAMWo56rMHd0T) | [The Dead Internet \(Digital Echoes\)](https://open.spotify.com/album/7pSr4IE7sSSHgXHIYZmaez) | 4:35 |
 | 3759 | [who can?](https://open.spotify.com/track/3bIi1myBW7Vn0X49oAaixm) | [isxcshi](https://open.spotify.com/artist/1HREUjXW4zz3TMHe838W3f) | [\* ISXC](https://open.spotify.com/album/3C7Dz2bxoiOVovzeMD9mxK) | 1:55 |
 | 3760 | [Hesitation.](https://open.spotify.com/track/0RiKxb9EhXL8eaR2BYGNc4) | [Alessandra Brewer](https://open.spotify.com/artist/30vaNT4Hqg7xZ8curffL0s) | [Sabrina.](https://open.spotify.com/album/63dBpHnLs1PVpbpJLqun5B) | 3:48 |
@@ -4139,7 +4139,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4129 | [RIMA IMPERFETTA](https://open.spotify.com/track/5ehttmA33mV9jNBhfpTATm) | [An I me Elegantia](https://open.spotify.com/artist/4DbDGP98nZYmeovM56sg0i) | [RIMA IMPERFETTA](https://open.spotify.com/album/5yp9qdMcwWlxShR5O1gtvr) | 3:27 |
 | 4130 | [CANZONE DI HALLOWEEN](https://open.spotify.com/track/3rjKzU56KAqdHmIAvbMO95) | [DANTILEVRA](https://open.spotify.com/artist/7gCW2s24hjRz8rwsrsU36h) | [CANZONE DI HALLOWEEN](https://open.spotify.com/album/7fKWA3OMoMI7HrxFHu3PhX) | 3:40 |
 | 4131 | [ancora](https://open.spotify.com/track/6Han0gQ1Mu9c7DVyWVerzx) | [Holyroh](https://open.spotify.com/artist/0LPwMpSScA73gR7VENCleQ) | [ancora](https://open.spotify.com/album/5U4uERTv47xnVshlh2Qd1O) | 3:00 |
-| 4132 | [FrAiMiEiFraMeS](https://open.spotify.com/track/3vZ3iRrr3UpYBsyp9ZIepq) | [AnnoLuce](https://open.spotify.com/artist/0RAepJjLAqVtjFtufCgL3A) | [FrAiMiEiFraMeS](https://open.spotify.com/album/7c6md6kE26cL6P43b1qUsa) | 2:47 |
+| 4132 | [Fra i Miei Frames](https://open.spotify.com/track/3vZ3iRrr3UpYBsyp9ZIepq) | [AnnoLuce](https://open.spotify.com/artist/0RAepJjLAqVtjFtufCgL3A) | [Fra i Miei Frames](https://open.spotify.com/album/7c6md6kE26cL6P43b1qUsa) | 2:47 |
 | 4133 | [In fondo al mondo](https://open.spotify.com/track/7vfDeck07Yq9N8fRqurXmx) | [Pietro Contenti \(Montecristo\)](https://open.spotify.com/artist/1hElnwNn7P1EbfblsN7SWA) | [In fondo al mondo](https://open.spotify.com/album/2zGdDkU1WRTy1pxrfiOGe5) | 3:05 |
 | 4134 | [Io sono Mimì](https://open.spotify.com/track/2B01btrmxsnDQv4VifXquI) | [Mimì Scano](https://open.spotify.com/artist/0GsT5bKZFG4ECfrFS25S4Q) | [Io sono Mimì](https://open.spotify.com/album/0mRGy8RZcfOJVbd6Kfjit3) | 3:05 |
 | 4135 | [Felicità \- Electro Remix](https://open.spotify.com/track/3SU51rlsImUUx8GLcYrlzj) | [Crash the Box](https://open.spotify.com/artist/6yXiOG9zf5KB9m4p3DcJhX) | [Felicità \(Electro Remix\)](https://open.spotify.com/album/2wie6HXDfhMRmIrKVTOqVs) | 5:04 |
@@ -4155,7 +4155,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4145 | [Imperfectos](https://open.spotify.com/track/1mv4UwJt06q4Xi8rCfiJeM) | [Tortuga & Friends](https://open.spotify.com/artist/0iLCDMSfPB3EQDmnuYg5W0) | [Imperfectos](https://open.spotify.com/album/4AKeNey9mjcaToE7qAofeN) | 3:13 |
 | 4146 | [Say the name](https://open.spotify.com/track/4lBMjeFvuoTLDvYVu80nFg) | [Pietro Contenti \(Montecristo\)](https://open.spotify.com/artist/1hElnwNn7P1EbfblsN7SWA) | [Say the name](https://open.spotify.com/album/2kttrMPVtjqKZmTP2Z06Md) | 3:12 |
 | 4147 | [plastica](https://open.spotify.com/track/4NyzAKdn2GwtzLhMOScf5j) | [Holyroh](https://open.spotify.com/artist/0LPwMpSScA73gR7VENCleQ) | [plastica](https://open.spotify.com/album/68nnSMYTMj1lRGLPyeFmnl) | 3:00 |
-| 4148 | [LaiLa](https://open.spotify.com/track/3MX5wBWJSFtFG6DvR8XKFB) | [AnnoLuce](https://open.spotify.com/artist/0RAepJjLAqVtjFtufCgL3A), [Mat Neumann](https://open.spotify.com/artist/6Ewb0KHn0X3JkieRDGBTYn) | [LaiLa](https://open.spotify.com/album/5wB7vjsFDbUeuZVIlZa09k) | 4:02 |
+| 4148 | [Laila](https://open.spotify.com/track/3MX5wBWJSFtFG6DvR8XKFB) | [AnnoLuce](https://open.spotify.com/artist/0RAepJjLAqVtjFtufCgL3A), [Mat Neumann](https://open.spotify.com/artist/6Ewb0KHn0X3JkieRDGBTYn) | [Laila](https://open.spotify.com/album/5wB7vjsFDbUeuZVIlZa09k) | 4:02 |
 | 4149 | [Sóleo](https://open.spotify.com/track/4cLwjYitwB3VKihpfrg69m) | [Bernal](https://open.spotify.com/artist/36qikjyD6tDDJdlbnULZKv), [Pumuky](https://open.spotify.com/artist/6hwrqqoXR0zZalLtIuUQPk) | [Vida y milagros](https://open.spotify.com/album/0L7na3tEUWs9EU0qcvn62p) | 2:38 |
 | 4150 | [Nadie quiere oír tu llanto](https://open.spotify.com/track/3NnLvkofPjboW69U9F7y1e) | [091](https://open.spotify.com/artist/0A6WBpDrr0afYnqRMvc7OC) | [Espejismo nº9](https://open.spotify.com/album/39oph7b9S97RHWolv7FSue) | 4:29 |
 | 4151 | [Tutta La Notte](https://open.spotify.com/track/6hGqWpUkuPDgw2I8F2K2NH) | [Katzen Dj](https://open.spotify.com/artist/16xe0CbKc4sQj6FMAUEWe0) | [Tutta La Notte](https://open.spotify.com/album/4ruH46F6x8Hs3x0Z3hu396) | 2:39 |
@@ -4164,7 +4164,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4154 | [Vivila](https://open.spotify.com/track/4P176ECfyNbCnWjmQgFH1x) | [Mimì Scano](https://open.spotify.com/artist/0GsT5bKZFG4ECfrFS25S4Q) | [Vivila](https://open.spotify.com/album/37xLLejOUXmYgyWcTHC45k) | 2:45 |
 | 4155 | [Forget About Me](https://open.spotify.com/track/2XbUXSDK23FjWDTbLzcCQu) | [Teddy Head](https://open.spotify.com/artist/7yYBXPgf2bNOaqB9scncXU) | [Forget About Me](https://open.spotify.com/album/550m1eO29g1nuV0eJf97M8) | 5:20 |
 | 4156 | [MIRACOLO \(RIP\)](https://open.spotify.com/track/39I8mcs3nMG7ctWyk3GM70) | [Maximilian](https://open.spotify.com/artist/2ysBLiVHbTXWPcYXNE9U4m) | [RAGIONE e SENTIMENTO](https://open.spotify.com/album/70wL7Os7BJR41xUZtpKbWv) | 3:10 |
-| 4157 | [Il Bisogno Di Te](https://open.spotify.com/track/2a0tkYPolMSq7LuoBxJjyN) | [AnnoLuce](https://open.spotify.com/artist/0RAepJjLAqVtjFtufCgL3A), [Mat Neumann](https://open.spotify.com/artist/6Ewb0KHn0X3JkieRDGBTYn) | [Il Bisogno Di Te](https://open.spotify.com/album/7CQwHYILteraTct35EJSEc) | 3:30 |
+| 4157 | [Il Bisogno di Te](https://open.spotify.com/track/2a0tkYPolMSq7LuoBxJjyN) | [AnnoLuce](https://open.spotify.com/artist/0RAepJjLAqVtjFtufCgL3A), [Mat Neumann](https://open.spotify.com/artist/6Ewb0KHn0X3JkieRDGBTYn) | [Il Bisogno di Te](https://open.spotify.com/album/7CQwHYILteraTct35EJSEc) | 3:30 |
 | 4158 | [Trickster](https://open.spotify.com/track/0VXnlziJCl0eOI3seuH65j) | [Menervah](https://open.spotify.com/artist/2aiGy5FSWy22PUb03v0qSU) | [HARD TIMES \(DELUXE\)](https://open.spotify.com/album/6SI4Kar8NolF2crf2tGnF8) | 4:04 |
 | 4159 | [Nemico](https://open.spotify.com/track/4Fn1zu8jL7wmlCxCtn8eWq) | [Holyroh](https://open.spotify.com/artist/0LPwMpSScA73gR7VENCleQ) | [Nemico](https://open.spotify.com/album/7DeGMiTbTHLReukKHyaJJs) | 2:47 |
 | 4160 | [XXX L Girl](https://open.spotify.com/track/0Ql3Y6gOCSScpWX8ncSCsC) | [The Zoot Suit Riot](https://open.spotify.com/artist/5avKyZeuT1vnyOzXANu004), [Teddy Head](https://open.spotify.com/artist/7yYBXPgf2bNOaqB9scncXU) | [The Zoot](https://open.spotify.com/album/062n3XpNNS4rm7EXHE2yx4) | 2:45 |
@@ -4377,5 +4377,12 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4367 | [Lying](https://open.spotify.com/track/3NQ352T1u3Zn389Io8EmF5) | [Unlucky Empathy](https://open.spotify.com/artist/3stdHKfwcRB3Vmj7KQOsYl) | [Lying](https://open.spotify.com/album/6qdZO3ebPEZhVxx0BRDU6h) | 5:12 |
 | 4368 | [La cantina de poder](https://open.spotify.com/track/5htd2qienkY0cQlQ0gubu9) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 4:02 |
 | 4369 | [Serenada](https://open.spotify.com/track/4ZnDI6bbOt3GzZbCHRKXKR) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 2:48 |
+| 4370 | [さよならの未来](https://open.spotify.com/track/4PoXSOjk9cljdE5IQQOxxi) | [Ks/Marys](https://open.spotify.com/artist/5sAakdhIYQPe1oUd4Yk70z) | [さよならの未来](https://open.spotify.com/album/1MKezfwB56g6N6FNfr9Quu) | 4:22 |
+| 4371 | [Sakê De Binks](https://open.spotify.com/track/4D6ZaYG8xUp8tJ24A52wp3) | [Mardita](https://open.spotify.com/artist/1QFIZ0lOZciTNlDBJcIdJc), [Casão Rennó](https://open.spotify.com/artist/3A7hlyVNvg5AEqwIF4HXtm) | [Sakê De Binks](https://open.spotify.com/album/1HNvSEkybDOV743FV9qYdq) | 3:50 |
+| 4372 | [Cuenta Atrás](https://open.spotify.com/track/0o30QIC9zwhoJCiJzhrn4M) | [Cöntraband](https://open.spotify.com/artist/1JMdNs2RokE5F6O4KzqF6q) | [La Tormenta Perfecta](https://open.spotify.com/album/2MwZQsOEBTkMNeyZgtN9te) | 4:28 |
+| 4373 | [LOADSTONE \- SINGOLO](https://open.spotify.com/track/2yLJnJl5fZWU1r5AUkNiBl) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [LOADSTONE \(SINGOLO\)](https://open.spotify.com/album/1Cx5pyhdifjYwPVZESXdJT) | 3:23 |
+| 4374 | [BLACK STAR \- SINGOLO](https://open.spotify.com/track/7In4JGEpZPLTyuckV69bBV) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [BLACK STAR \(SINGOLO\)](https://open.spotify.com/album/6DrwTjhBvwsIpDHGdGRUdi) | 3:50 |
+| 4375 | [OPEN AND CLOSE YOURSELF](https://open.spotify.com/track/2FxLjv7GfqP0csK1Xc5Br3) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:59 |
+| 4376 | [Bless the Morning Train](https://open.spotify.com/track/4ZMJoKSQdonpU8UT2Gwr0d) | [Funeral Letters](https://open.spotify.com/artist/0cDgNx7GyU4qBNjuQ1Zy7H) | [Bless the Morning Train](https://open.spotify.com/album/1jGZQCB0ldwwsXisZYUDDC) | 3:15 |
 
-Snapshot ID: `AAAIZ1AA7hcq2uiwTeWDzWO8Bw+9mNvm`
+Snapshot ID: `AAAIbm3JgPQmvFFRP0z+D4c8mthahDTc`

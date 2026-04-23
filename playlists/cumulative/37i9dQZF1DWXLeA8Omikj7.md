@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,174 songs - 3 day 14 hr 18 min
+1,175 songs - 3 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Chi\-Motion](https://open.spotify.com/track/6mbhnUOPz13VA2BKeAikWH) | [ANF](https://open.spotify.com/artist/0yEUBlEOtPhU1vEUVintkf), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [Dust\-e\-1](https://open.spotify.com/artist/6kpa0OfAlmtLnGykwMJWVu) | [Mauna Kea](https://open.spotify.com/album/059Mt6wq8kN6J3btJMNw8e) | 4:00 | 2025-08-08 |  |
 | [chill](https://open.spotify.com/track/2yX8nS9n0uZ70OrnUYpkyW) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3kAKiw0kRCuSXsTBWbBc9X) | 1:48 | 2019-06-19\* | 2020-10-22 |
 | [Chlorine](https://open.spotify.com/track/23yg1gw1PJyxVkZ2Sd0iQo) | [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Chlorine](https://open.spotify.com/album/5uz6aFRJFWm111CvmosVBE) | 4:11 | 2024-12-11 | 2025-03-20 |
+| [CHOP](https://open.spotify.com/track/5lqM8WYEdVrlQ1SF4RUswe) | [Village](https://open.spotify.com/artist/6D96m0U03CqX1KdjAwZjm6) | [CHOP](https://open.spotify.com/album/2J8vAFKJELaHdzRnHkxFpH) | 2:37 | 2026-04-16 |  |
 | [chrone](https://open.spotify.com/track/0EFCKDoiPI4zTVXrgP2wJR) | [not even noticed](https://open.spotify.com/artist/2pAV7s3FEruu2LJW6JQGFo) | [chrone](https://open.spotify.com/album/19Eq7Kx4RwHPFoLqpzowRJ) | 3:06 | 2026-04-16 |  |
 | [Circle The Sun](https://open.spotify.com/track/0Y3JtlNwFkF4qbka3VfPK3) | [Nadia Struiwigh](https://open.spotify.com/artist/4iQwTFjXjNOKncBABz0FAQ) | [Circle The Sun](https://open.spotify.com/album/15cQa9RgoDqW1x1pGdZStT) | 4:47 | 2026-02-13 |  |
 | [Civilian World](https://open.spotify.com/track/0UFSRShQ5xVoojuNbFSD9i) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Civilian World](https://open.spotify.com/album/7xxQ6IO8IeqOY7hPxs9cDH) | 7:36 | 2026-03-20 |  |
@@ -597,7 +598,7 @@
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2020-10-22 |  |
 | [Loon E](https://open.spotify.com/track/27WhNUMC7jvvQ6m2zF3FW0) | [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ) | [Club Moss](https://open.spotify.com/album/2XpWP3eKFkMNlISF1ApaMm) | 5:51 | 2024-03-15 | 2024-05-01 |
 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 | 2023-03-24 | 2023-05-04 |
-| [Love](https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Love](https://open.spotify.com/album/6OenbU5SkncCjUpzRIQ4Zo) | 4:38 | 2020-10-19 |  |
+| [Love](https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Love](https://open.spotify.com/album/6OenbU5SkncCjUpzRIQ4Zo) | 4:38 | 2020-10-19 | 2026-04-23 |
 | [Love](https://open.spotify.com/track/3VsAxQh5ke9D3UCg7ZnPq2) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Love](https://open.spotify.com/album/6w32IwyhOZUgoU8sEUt3Rq) | 3:56 | 2025-02-12 |  |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-19 | 2024-02-23 |
 | [Loyalty](https://open.spotify.com/track/4zyYWKv2hYVdAzeVBHeJAv) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Loyalty](https://open.spotify.com/album/3JB13d1xqzarAyIUD9BKbV) | 3:18 | 2024-05-24 | 2024-06-14 |

@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 321425,
+  "num_followers": 321432,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc"
+      },
+      "artists": [
+        {
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+        }
+      ],
+      "duration_ms": 220458,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Stay And Rest For A While",
         "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 191072,
       "name": "House Of Mirrors",
       "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Beautiful World",
-        "url": "https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc"
-      },
-      "artists": [
-        {
-          "name": "Blondes",
-          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
-        }
-      ],
-      "duration_ms": 220458,
-      "name": "Beautiful World",
-      "url": "https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
-      },
-      "artists": [
-        {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 950210,
-      "name": "Songs",
-      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Gloomy Girl",
         "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 186410,
       "name": "Gloomy Girl",
       "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
+      },
+      "artists": [
+        {
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+        }
+      ],
+      "duration_ms": 950210,
+      "name": "Songs",
+      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/3OP8x4M096zMaMx3Rk89fw"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 389948,
-      "name": "Deceiver",
-      "url": "https://open.spotify.com/track/1rtlnLhySfda2ZgY5sRpEH"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "baby\u2019s out of luck again",
         "url": "https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 185365,
       "name": "carry you on my broken wings",
       "url": "https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/3OP8x4M096zMaMx3Rk89fw"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 389948,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/1rtlnLhySfda2ZgY5sRpEH"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 242515,
-      "name": "Haunt You Still",
-      "url": "https://open.spotify.com/track/7hLYnfqZ8IlIMxjdTkRFxO"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Cabin Fever Dreams",
         "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 206134,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 242515,
+      "name": "Haunt You Still",
+      "url": "https://open.spotify.com/track/7hLYnfqZ8IlIMxjdTkRFxO"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Your Type",
-        "url": "https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3"
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
       },
       "artists": [
         {
-          "name": "bb sway",
-          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
         },
         {
-          "name": "Basile Petite",
-          "url": "https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE"
+          "name": "Bat For Lashes",
+          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
         }
       ],
-      "duration_ms": 241560,
-      "name": "Your Type",
-      "url": "https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX"
+      "duration_ms": 340000,
+      "name": "Near",
+      "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
     }
   ],
   "unique_name": "Dreampop",

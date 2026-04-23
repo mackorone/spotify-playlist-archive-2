@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: CHO",
-  "num_followers": 141054,
+  "num_followers": 141057,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -727,26 +727,6 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "WAHALA (FEAT. OLAMIDE)",
-        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "WAHALA (feat. Olamide)",
-      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
         "name": "Ben Met SRNO",
         "url": "https://open.spotify.com/album/5b77xXOGpcgfaoHvsGVbOs"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 150822,
       "name": "Ben Met SRNO",
       "url": "https://open.spotify.com/track/75gHd5DLUJraDEGuQukMsK"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "WAHALA (FEAT. OLAMIDE)",
+        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "WAHALA (feat. Olamide)",
+      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1519,30 +1519,6 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Tiptop",
-        "url": "https://open.spotify.com/album/02pGycUh9gWr3r1T7b2yQN"
-      },
-      "artists": [
-        {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        },
-        {
-          "name": "Dior",
-          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
-        }
-      ],
-      "duration_ms": 153554,
-      "name": "Tiptop",
-      "url": "https://open.spotify.com/track/1Bs3psfhOUzwgyHDwJuOhh"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
         "name": "Noncha",
         "url": "https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ"
       },
@@ -1563,6 +1539,30 @@
       "duration_ms": 198750,
       "name": "Noncha",
       "url": "https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "Tiptop",
+        "url": "https://open.spotify.com/album/02pGycUh9gWr3r1T7b2yQN"
+      },
+      "artists": [
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        },
+        {
+          "name": "Dior",
+          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
+        }
+      ],
+      "duration_ms": 153554,
+      "name": "Tiptop",
+      "url": "https://open.spotify.com/track/1Bs3psfhOUzwgyHDwJuOhh"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1599,8 +1599,8 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Deim Van Je",
-        "url": "https://open.spotify.com/album/4t4eaa2CdjvOj0E0ojRqZu"
+        "name": "Bon Mij",
+        "url": "https://open.spotify.com/album/1yMLdQ7qZu26m6wy0cKJ6a"
       },
       "artists": [
         {
@@ -1608,21 +1608,17 @@
           "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
         },
         {
-          "name": "Diquenza",
-          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
+          "name": "DJ Wale",
+          "url": "https://open.spotify.com/artist/4gTsaC1OX5plDemue2uZHn"
         },
         {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        },
-        {
-          "name": "Geechi",
-          "url": "https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W"
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
         }
       ],
-      "duration_ms": 156854,
-      "name": "Deim Van Je",
-      "url": "https://open.spotify.com/track/4xyLHd9CyBt3ky2BxtwDxL"
+      "duration_ms": 151874,
+      "name": "Bon Mij",
+      "url": "https://open.spotify.com/track/2OYXPbWNIJjS5Um0iviIdM"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1655,22 +1651,6 @@
       "duration_ms": 158927,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4mgYtnnm01NgTKLlMpF10h"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
-        "name": "OHMA TOKITA",
-        "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 135257,
-      "name": "OHMA TOKITA",
-      "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1715,8 +1695,24 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Bon Mij",
-        "url": "https://open.spotify.com/album/1yMLdQ7qZu26m6wy0cKJ6a"
+        "name": "OHMA TOKITA",
+        "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 135257,
+      "name": "OHMA TOKITA",
+      "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "Deim Van Je",
+        "url": "https://open.spotify.com/album/4t4eaa2CdjvOj0E0ojRqZu"
       },
       "artists": [
         {
@@ -1724,17 +1720,21 @@
           "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
         },
         {
-          "name": "DJ Wale",
-          "url": "https://open.spotify.com/artist/4gTsaC1OX5plDemue2uZHn"
+          "name": "Diquenza",
+          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
         },
         {
-          "name": "ADF Samski",
-          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "Geechi",
+          "url": "https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W"
         }
       ],
-      "duration_ms": 151874,
-      "name": "Bon Mij",
-      "url": "https://open.spotify.com/track/2OYXPbWNIJjS5Um0iviIdM"
+      "duration_ms": 156854,
+      "name": "Deim Van Je",
+      "url": "https://open.spotify.com/track/4xyLHd9CyBt3ky2BxtwDxL"
     },
     {
       "added_at": "2026-04-02 22:02:08",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Tatum Scott, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Ethan Burdick, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 207840,
       "name": "Ain't No You",
       "url": "https://open.spotify.com/track/7omi2Mx3XG2XOyBYU9FLH9"
@@ -4126,7 +4126,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 162774,
       "name": "Bad Barstool",
       "url": "https://open.spotify.com/track/5Pw9smYfMC6WcnbDFQZM2f"
@@ -10566,7 +10566,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 216844,
       "name": "Clean Slate",
       "url": "https://open.spotify.com/track/7A0GADpxbGao2QUk6hQtsT"
@@ -13008,7 +13008,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 157282,
       "name": "Dancing with the Devil",
       "url": "https://open.spotify.com/track/6xNOQtDY4qITGiCCWYnX3i"
@@ -20051,6 +20051,24 @@
     },
     {
       "album": {
+        "name": "Get to Forget",
+        "url": "https://open.spotify.com/album/4yOiaIRxgRXjjhK7ZcXGJ4"
+      },
+      "artists": [
+        {
+          "name": "Brooks Hoffman",
+          "url": "https://open.spotify.com/artist/211ei7mBKVPTmpm023Em6Q"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Get to Forget",
+      "url": "https://open.spotify.com/track/40f9QwdG34O013PmfLuuGG"
+    },
+    {
+      "album": {
         "name": "Get To Know Me",
         "url": "https://open.spotify.com/album/6L0lGC5qqgDRk1XBeDiwBl"
       },
@@ -22918,7 +22936,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 198306,
       "name": "Hail Mary",
       "url": "https://open.spotify.com/track/6rsdQdyRqZ6npHEsSHr9D0"
@@ -27915,6 +27933,24 @@
     },
     {
       "album": {
+        "name": "I Get the Picture",
+        "url": "https://open.spotify.com/album/5KZsfeLzTxruhuG8xuQvUk"
+      },
+      "artists": [
+        {
+          "name": "Ethan Burdick",
+          "url": "https://open.spotify.com/artist/0RWelsacoB4K2zhUmrb1nA"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184098,
+      "name": "I Get the Picture",
+      "url": "https://open.spotify.com/track/7shaapE7GxBnRK0FqlQsm7"
+    },
+    {
+      "album": {
         "name": "40 East",
         "url": "https://open.spotify.com/album/301nj6ofxdFt37H33Nd9k5"
       },
@@ -30210,7 +30246,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 174383,
       "name": "Insanity",
       "url": "https://open.spotify.com/track/3I1ElhvfUD6bdSPhTYjxby"
@@ -38899,6 +38935,24 @@
     },
     {
       "album": {
+        "name": "More Than My All",
+        "url": "https://open.spotify.com/album/1FmKC7JntUG04MaIOuYTsi"
+      },
+      "artists": [
+        {
+          "name": "Luke Rob",
+          "url": "https://open.spotify.com/artist/6xVnksnC8qln4WUd7Y3muQ"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "More Than My All",
+      "url": "https://open.spotify.com/track/2rFCD9e7MqHv0oY2mJ9C5J"
+    },
+    {
+      "album": {
         "name": "Wildflower EP",
         "url": "https://open.spotify.com/album/2tb87bX13nVaN875CfpLLY"
       },
@@ -47490,7 +47544,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 204026,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/49Rje9PQo6BjDCapGXgbGO"
@@ -48028,6 +48082,24 @@
       "duration_ms": 201388,
       "name": "Second Wind",
       "url": "https://open.spotify.com/track/71UKlf9OjnkhyPXUNyDeDk"
+    },
+    {
+      "album": {
+        "name": "See How It Sounds",
+        "url": "https://open.spotify.com/album/2AfF48f1LGASqr1BYc2Gcn"
+      },
+      "artists": [
+        {
+          "name": "Payton Smith",
+          "url": "https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275689,
+      "name": "See How It Sounds",
+      "url": "https://open.spotify.com/track/4zEQQBy7UlenXoNo6GQUA6"
     },
     {
       "album": {
@@ -54341,6 +54413,24 @@
     },
     {
       "album": {
+        "name": "Talk to Me at Two",
+        "url": "https://open.spotify.com/album/7L7WMJClmvpGMcNK2X9J9s"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229187,
+      "name": "Talk to Me at Two",
+      "url": "https://open.spotify.com/track/7mwa422OrRs3FYgVC2RlOS"
+    },
+    {
+      "album": {
         "name": "Talking to Heaven",
         "url": "https://open.spotify.com/album/4qALeFAl9EV651VGaic5DY"
       },
@@ -59570,6 +59660,24 @@
       "duration_ms": 170133,
       "name": "Two Way Street",
       "url": "https://open.spotify.com/track/5Gf8CtJbLkA3vwlkV6SvsY"
+    },
+    {
+      "album": {
+        "name": "Two Years in Two Weeks",
+        "url": "https://open.spotify.com/album/1nfSrfS1NvsckoC6yfHxdd"
+      },
+      "artists": [
+        {
+          "name": "Taylor-Rae",
+          "url": "https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "Two Years in Two Weeks",
+      "url": "https://open.spotify.com/track/0P7lYijRL5egHjELsuKtRk"
     },
     {
       "album": {
@@ -65972,6 +66080,24 @@
       "duration_ms": 184128,
       "name": "You're My Hometown",
       "url": "https://open.spotify.com/track/1trwMIE6uAUy5sKxjNGasA"
+    },
+    {
+      "album": {
+        "name": "You're Okay",
+        "url": "https://open.spotify.com/album/2ivViwrjWhCjsb0uFc1cXA"
+      },
+      "artists": [
+        {
+          "name": "Brady Brazeal",
+          "url": "https://open.spotify.com/artist/20zqiut7ySxdf9WfBJJbkK"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182386,
+      "name": "You're Okay",
+      "url": "https://open.spotify.com/track/615eGv396a233YHuC5KPOW"
     },
     {
       "album": {

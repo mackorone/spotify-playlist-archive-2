@@ -1,6 +1,6 @@
 {
   "description": "Try a little tenderness. Cover: 54 Ultra",
-  "num_followers": 54916,
+  "num_followers": 54937,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Seems Like",
-        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        }
-      ],
-      "duration_ms": 194020,
-      "name": "Seems Like",
-      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Never Be Yours",
         "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 196025,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Seems Like",
+        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        }
+      ],
+      "duration_ms": 194020,
+      "name": "Seems Like",
+      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "The Celestial Suite",
-        "url": "https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Shameful Game",
-      "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/15ejkGAzLKHl2S1jvXWb1u"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 175813,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "The Celestial Suite",
+        "url": "https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Shameful Game",
+      "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -941,20 +941,20 @@
       "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
     },
     {
-      "added_at": "2026-01-23 01:47:43",
+      "added_at": "2026-04-16 14:00:34",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/3cpNHI7xhNIosF9WjSk8Zh"
+        "name": "Superbloom",
+        "url": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
       },
       "artists": [
         {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
         }
       ],
-      "duration_ms": 203960,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/43sdRsmJFcSnlTWTVRhYtz"
+      "duration_ms": 251200,
+      "name": "Superbloom",
+      "url": "https://open.spotify.com/track/56imCiO83oUJj6z9favCWt"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -971,6 +971,22 @@
       "duration_ms": 227095,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/6ZQucKTplXdpBJlnnpqQHI"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/3cpNHI7xhNIosF9WjSk8Zh"
+      },
+      "artists": [
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 203960,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/43sdRsmJFcSnlTWTVRhYtz"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 246036,
-      "name": "Good Things Will Come After the Pressure",
-      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Con Todo El Mundo",
         "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 265410,
       "name": "August 10",
       "url": "https://open.spotify.com/track/2MIavWMdvbYuRoA2Cw6VkN"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 246036,
+      "name": "Good Things Will Come After the Pressure",
+      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1069,20 +1085,20 @@
       "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"
     },
     {
-      "added_at": "2026-04-16 14:00:34",
+      "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Superbloom",
-        "url": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+        "name": "Honeycomb",
+        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
       },
       "artists": [
         {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
         }
       ],
-      "duration_ms": 251200,
-      "name": "Superbloom",
-      "url": "https://open.spotify.com/track/56imCiO83oUJj6z9favCWt"
+      "duration_ms": 204324,
+      "name": "I'm a Rock",
+      "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
     },
     {
       "added_at": "2026-03-05 13:00:11",
@@ -1115,22 +1131,6 @@
       "duration_ms": 117976,
       "name": "I'll Call U Back",
       "url": "https://open.spotify.com/track/6zfVYM5Nne0EzpjzYfJKwp"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Honeycomb",
-        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 204324,
-      "name": "I'm a Rock",
-      "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "End of Time",
-        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
-      },
-      "artists": [
-        {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
-        }
-      ],
-      "duration_ms": 226052,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Bonnie Raitt (2008 Remaster)",
         "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 170800,
       "name": "Thank You - 2008 Remaster",
       "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 226052,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
     },
     {
       "added_at": "2026-01-23 01:47:43",

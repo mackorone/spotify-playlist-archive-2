@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2000s.",
-  "num_followers": 68899,
+  "num_followers": 69013,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
+        "name": "Bright Nights * Dark Days",
+        "url": "https://open.spotify.com/album/6VxhmV2m5nlaVS0aF8VItG"
+      },
+      "artists": [
+        {
+          "name": "Cavo",
+          "url": "https://open.spotify.com/artist/7a06JYLmZG3txQqr9uzvbg"
+        }
+      ],
+      "duration_ms": 187293,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/3C5cvFzAklAzMffGjirEVw"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/4HKGobgiysyDLsWp86chaK"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 270644,
       "name": "No Surprise",
       "url": "https://open.spotify.com/track/6q4XLE5WeOBWftoc9gTl2P"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
-        "name": "Bright Nights * Dark Days",
-        "url": "https://open.spotify.com/album/6VxhmV2m5nlaVS0aF8VItG"
-      },
-      "artists": [
-        {
-          "name": "Cavo",
-          "url": "https://open.spotify.com/artist/7a06JYLmZG3txQqr9uzvbg"
-        }
-      ],
-      "duration_ms": 187293,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/3C5cvFzAklAzMffGjirEVw"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Scars & Souvenirs",
-        "url": "https://open.spotify.com/album/4a1HD2UUPH5unMngBeI6jb"
+        "name": "Rock Steady",
+        "url": "https://open.spotify.com/album/6ENy8DWFCnqF4dfaeH6352"
       },
       "artists": [
         {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 213826,
-      "name": "Not Meant To Be",
-      "url": "https://open.spotify.com/track/0ysA0Ufa2mTZeZfPKo9ypx"
+      "duration_ms": 242586,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/3p9WUMN8SPfq3mUtUUnmE5"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Rock Steady",
-        "url": "https://open.spotify.com/album/6ENy8DWFCnqF4dfaeH6352"
+        "name": "Scars & Souvenirs",
+        "url": "https://open.spotify.com/album/4a1HD2UUPH5unMngBeI6jb"
       },
       "artists": [
         {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
         }
       ],
-      "duration_ms": 242586,
-      "name": "Hella Good",
-      "url": "https://open.spotify.com/track/3p9WUMN8SPfq3mUtUUnmE5"
+      "duration_ms": 213826,
+      "name": "Not Meant To Be",
+      "url": "https://open.spotify.com/track/0ysA0Ufa2mTZeZfPKo9ypx"
     },
     {
       "added_at": "2024-07-12 15:02:20",

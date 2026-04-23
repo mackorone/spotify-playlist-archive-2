@@ -2,7 +2,7 @@
 
 ### [trend 2026](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: Poizi
+> viral, trend ve yükselenler\.  Kapak: Poizi<br/>23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷
 
 269 songs - 13 hr 47 min
 

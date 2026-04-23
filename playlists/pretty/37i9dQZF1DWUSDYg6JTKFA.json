@@ -1,6 +1,6 @@
 {
   "description": "Lift your spirit and anchor your faith in these songs of hopefulness.",
-  "num_followers": 212944,
+  "num_followers": 212956,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-03-23 15:58:34",
       "album": {
+        "name": "Not The End",
+        "url": "https://open.spotify.com/album/1z9cu0bqNqoJ0YHZqzmMM8"
+      },
+      "artists": [
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        }
+      ],
+      "duration_ms": 161001,
+      "name": "Not The End",
+      "url": "https://open.spotify.com/track/4UxBbFETMwBIHhXtlAI0Po"
+    },
+    {
+      "added_at": "2026-03-23 15:58:34",
+      "album": {
         "name": "high water",
         "url": "https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 202226,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1LvPXi9WbYBub6v0Q94ItD"
-    },
-    {
-      "added_at": "2026-03-23 15:58:34",
-      "album": {
-        "name": "Not The End",
-        "url": "https://open.spotify.com/album/1z9cu0bqNqoJ0YHZqzmMM8"
-      },
-      "artists": [
-        {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
-        }
-      ],
-      "duration_ms": 161001,
-      "name": "Not The End",
-      "url": "https://open.spotify.com/track/4UxBbFETMwBIHhXtlAI0Po"
     },
     {
       "added_at": "2026-03-23 15:58:34",
@@ -1567,6 +1567,30 @@
     {
       "added_at": "2026-03-23 15:58:34",
       "album": {
+        "name": "Watch Him Turn It (NYE Live) [feat. Shomoneik]",
+        "url": "https://open.spotify.com/album/7w7ME5DOT5DMwNWp0F0SsU"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        },
+        {
+          "name": "Shomoneik",
+          "url": "https://open.spotify.com/artist/0rMMkFdHrKidahS2Yg2GeC"
+        }
+      ],
+      "duration_ms": 269293,
+      "name": "Watch Him Turn It (NYE Live) [feat. Shomoneik]",
+      "url": "https://open.spotify.com/track/2zuOJKwL1XsKtN0yyd4BpO"
+    },
+    {
+      "added_at": "2026-03-23 15:58:34",
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
       },
@@ -1591,30 +1615,6 @@
       "duration_ms": 192362,
       "name": "Biggest, Greatest Thing",
       "url": "https://open.spotify.com/track/3OcPyu9YnmsqM6Aq1vWrV8"
-    },
-    {
-      "added_at": "2026-03-23 15:58:34",
-      "album": {
-        "name": "Watch Him Turn It (NYE Live) [feat. Shomoneik]",
-        "url": "https://open.spotify.com/album/7w7ME5DOT5DMwNWp0F0SsU"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Forward City",
-          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
-        },
-        {
-          "name": "Shomoneik",
-          "url": "https://open.spotify.com/artist/0rMMkFdHrKidahS2Yg2GeC"
-        }
-      ],
-      "duration_ms": 269293,
-      "name": "Watch Him Turn It (NYE Live) [feat. Shomoneik]",
-      "url": "https://open.spotify.com/track/2zuOJKwL1XsKtN0yyd4BpO"
     },
     {
       "added_at": "2026-03-23 15:58:34",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2026-03-23 15:58:34",
       "album": {
-        "name": "Million Lifetimes",
-        "url": "https://open.spotify.com/album/6c0wkMQRpJeXiDgv74lklV"
+        "name": "Mover of Mountains",
+        "url": "https://open.spotify.com/album/2lpkPfilFnBtHHqwbVk92G"
       },
       "artists": [
         {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
         }
       ],
-      "duration_ms": 288986,
-      "name": "Hope Has a Name",
-      "url": "https://open.spotify.com/track/6qzEwrOf3GGrqH7ijrxLli"
+      "duration_ms": 344986,
+      "name": "Mover of Mountains (Live)",
+      "url": "https://open.spotify.com/track/7tj72TNjfyaYeYyQ01yNhP"
     }
   ],
   "unique_name": "Hold Hope",

@@ -1491,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "done done done",
+        "url": "https://open.spotify.com/album/6QGYexIgJpVXPpDlkqFrX7"
+      },
+      "artists": [
+        {
+          "name": "Ordinary Kid",
+          "url": "https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116940,
+      "name": "done done done",
+      "url": "https://open.spotify.com/track/4pGMZRqLZtqrQe4ehY4lCQ"
+    },
+    {
+      "album": {
         "name": "Dracula (Remix)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 204360,
       "name": "Herz \u00fcber Kopf",
       "url": "https://open.spotify.com/track/2krwNGlAHQuClcMw0WMUiz"
@@ -2572,7 +2590,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 136500,
       "name": "Hypnotisiert",
       "url": "https://open.spotify.com/track/0d8fGLkvzLLUGgTf3UsKI4"
@@ -4225,6 +4243,28 @@
     },
     {
       "album": {
+        "name": "so lonely",
+        "url": "https://open.spotify.com/album/5CTVZuW5raoKVOI8QCfH8X"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        },
+        {
+          "name": "smello",
+          "url": "https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108207,
+      "name": "so lonely",
+      "url": "https://open.spotify.com/track/5yPX2sxEKFyslaZx872OCi"
+    },
+    {
+      "album": {
         "name": "Soleil Bleu",
         "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
       },
@@ -4674,7 +4714,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
@@ -4838,7 +4878,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"

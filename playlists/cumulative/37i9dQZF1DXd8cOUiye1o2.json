@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 312832,
       "name": "Ambwa Talay",
       "url": "https://open.spotify.com/track/1CyLBIdvwHLXTrDm7PD8TY"
@@ -1792,6 +1792,24 @@
       "duration_ms": 166556,
       "name": "Banda Tere Liye - From \"Happy Patel - Khatarnak Jasoos\"",
       "url": "https://open.spotify.com/track/2MpAD2UsOIvRzy1li9Jx7J"
+    },
+    {
+      "album": {
+        "name": "Banna Re",
+        "url": "https://open.spotify.com/album/2rcVvnOMtXfzOmhLBm4UzI"
+      },
+      "artists": [
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170117,
+      "name": "Banna Re",
+      "url": "https://open.spotify.com/track/5Hr462EC4jZpUhr5RREE27"
     },
     {
       "album": {
@@ -2604,8 +2622,8 @@
           "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
         },
         {
-          "name": "Swarit Shukl",
-          "url": "https://open.spotify.com/artist/68lFVBZfoBPbKgOLdPaUSb"
+          "name": "Swarit",
+          "url": "https://open.spotify.com/artist/2k3h7l54uB8Fa0yOjF0gnj"
         },
         {
           "name": "ASHOK MASKEEN",
@@ -7668,7 +7686,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 234166,
       "name": "Kaise Hum",
       "url": "https://open.spotify.com/track/7sxx709AexC8scBIjVMCQV"
@@ -7938,7 +7956,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 297894,
       "name": "Khatt 2.0",
       "url": "https://open.spotify.com/track/0eFGZK6gRMBTIyG5qhy5hG"
@@ -8034,6 +8052,28 @@
       "duration_ms": 230357,
       "name": "kinaare",
       "url": "https://open.spotify.com/track/6oUfzXJGtzdjANU7Hx2FHY"
+    },
+    {
+      "album": {
+        "name": "Kinara",
+        "url": "https://open.spotify.com/album/3GyBkcTdhjU7khLnJ7HeVb"
+      },
+      "artists": [
+        {
+          "name": "Yugm",
+          "url": "https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL"
+        },
+        {
+          "name": "The Aahvaan Project",
+          "url": "https://open.spotify.com/artist/7JpzLv0XjhqSet8epgf7qF"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405838,
+      "name": "Kinara",
+      "url": "https://open.spotify.com/track/7nMpGwEuY6hAPPCMBR157E"
     },
     {
       "album": {
@@ -9272,7 +9312,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 212713,
       "name": "Maza Pyaar Karne Mein (feat. Kumar Sanu)",
       "url": "https://open.spotify.com/track/3ndIeDXqi9MDgxu0HuSBg7"
@@ -9386,6 +9426,32 @@
       "duration_ms": 245368,
       "name": "Mera Jee Nahi Bhara (From \"Maatrubhumi: May War Rest in Peace\")",
       "url": "https://open.spotify.com/track/3XPEDdg9Zpms1WWeTI63S2"
+    },
+    {
+      "album": {
+        "name": "Mere Humnava",
+        "url": "https://open.spotify.com/album/73xQTeA7B33QMXL55FDhTi"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        },
+        {
+          "name": "Rocky Khanna",
+          "url": "https://open.spotify.com/artist/706HpBx83UlG2Shf6zTnSC"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311046,
+      "name": "Mere Humnava",
+      "url": "https://open.spotify.com/track/4CebC3MMdxo6LN9urwbTwu"
     },
     {
       "album": {
@@ -10782,6 +10848,32 @@
       "duration_ms": 194062,
       "name": "Oh Mama! TETEMA",
       "url": "https://open.spotify.com/track/6LWd4TAkJt6kfHIQatolHP"
+    },
+    {
+      "album": {
+        "name": "Oh Meri Heeriye",
+        "url": "https://open.spotify.com/album/1JLa5JL8WngVA7C9JA6RSY"
+      },
+      "artists": [
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Mandeep Panghal",
+          "url": "https://open.spotify.com/artist/01kiIUUCXZTuCidoF0KIY2"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "Oh Meri Heeriye",
+      "url": "https://open.spotify.com/track/2nSQ2MhvJAHlL0mFlZ4P0e"
     },
     {
       "album": {
@@ -12320,6 +12412,36 @@
       "duration_ms": 202092,
       "name": "Rooh",
       "url": "https://open.spotify.com/track/4Zd2zHGhX3EcahGSd9vpWQ"
+    },
+    {
+      "album": {
+        "name": "Roop Di Rani (From \"Pati Patni Aur Woh Do\")",
+        "url": "https://open.spotify.com/album/0rBKrEb7X2TvALhHZXceVx"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Heer",
+          "url": "https://open.spotify.com/artist/2xa9mQkvZzkBY1cPIi3m7q"
+        },
+        {
+          "name": "Indeevar",
+          "url": "https://open.spotify.com/artist/72JrtarVilyjpFdwa3qgpF"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219212,
+      "name": "Roop Di Rani (From \"Pati Patni Aur Woh Do\")",
+      "url": "https://open.spotify.com/track/7xyNDDiMs0H0424cvXjdct"
     },
     {
       "album": {
@@ -14074,7 +14196,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 151083,
       "name": "Tauba",
       "url": "https://open.spotify.com/track/4QKT1WE079EqMAWC8S0MEJ"

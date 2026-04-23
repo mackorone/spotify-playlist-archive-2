@@ -1,6 +1,6 @@
 {
   "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: OD Band",
-  "num_followers": 72188,
+  "num_followers": 72192,
   "original_name": "Ke\u015fif",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-04-17 08:18:16",
       "album": {
-        "name": "A\u015eIK OLDUM SANA",
-        "url": "https://open.spotify.com/album/5yFJC6Gup6hqCkrbMBKma1"
-      },
-      "artists": [
-        {
-          "name": "Bora Balc\u0131",
-          "url": "https://open.spotify.com/artist/3K5jA6oWGdIA11Ztjc0cJ2"
-        }
-      ],
-      "duration_ms": 178588,
-      "name": "A\u015eIK OLDUM SANA",
-      "url": "https://open.spotify.com/track/3DqAhi6218XpQC3o2opPlG"
-    },
-    {
-      "added_at": "2026-04-17 08:18:16",
-      "album": {
         "name": "gel ne olur",
         "url": "https://open.spotify.com/album/4zIL7RFxiRMpy5VHod8Ves"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 154455,
       "name": "gel ne olur",
       "url": "https://open.spotify.com/track/2AAz3cv61aJ6bWnlTxtVLm"
+    },
+    {
+      "added_at": "2026-04-17 08:18:16",
+      "album": {
+        "name": "A\u015eIK OLDUM SANA",
+        "url": "https://open.spotify.com/album/5yFJC6Gup6hqCkrbMBKma1"
+      },
+      "artists": [
+        {
+          "name": "Bora Balc\u0131",
+          "url": "https://open.spotify.com/artist/3K5jA6oWGdIA11Ztjc0cJ2"
+        }
+      ],
+      "duration_ms": 178588,
+      "name": "A\u015eIK OLDUM SANA",
+      "url": "https://open.spotify.com/track/3DqAhi6218XpQC3o2opPlG"
     },
     {
       "added_at": "2026-04-17 08:18:16",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-04-17 08:18:16",
       "album": {
-        "name": "Kaybettim \u0130stanbul'u",
-        "url": "https://open.spotify.com/album/7yisGYCmJcbUoUvK7bOTuY"
-      },
-      "artists": [
-        {
-          "name": "Do\u011fa",
-          "url": "https://open.spotify.com/artist/3GsGRGDFFTzDbigXSVbqne"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "Kaybettim \u0130stanbul'u",
-      "url": "https://open.spotify.com/track/2PeIc4LyziFYyD0MMNd2dt"
-    },
-    {
-      "added_at": "2026-04-17 08:18:16",
-      "album": {
         "name": "neler gizli",
         "url": "https://open.spotify.com/album/5yuiJZZpstwBxsq5swoB4c"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 228750,
       "name": "neler gizli",
       "url": "https://open.spotify.com/track/2ACIcDumWQPJ3BCuhrtsfB"
+    },
+    {
+      "added_at": "2026-04-17 08:18:16",
+      "album": {
+        "name": "Kaybettim \u0130stanbul'u",
+        "url": "https://open.spotify.com/album/7yisGYCmJcbUoUvK7bOTuY"
+      },
+      "artists": [
+        {
+          "name": "Do\u011fa",
+          "url": "https://open.spotify.com/artist/3GsGRGDFFTzDbigXSVbqne"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "Kaybettim \u0130stanbul'u",
+      "url": "https://open.spotify.com/track/2PeIc4LyziFYyD0MMNd2dt"
     },
     {
       "added_at": "2026-04-17 08:18:16",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-04-17 08:18:16",
       "album": {
-        "name": "belki bi' g\u00fcn",
-        "url": "https://open.spotify.com/album/2ECal5W1mGrv6hVgPCUwLt"
-      },
-      "artists": [
-        {
-          "name": "Deniz Mert",
-          "url": "https://open.spotify.com/artist/5QVlUHz4xnayUocGAYCTLm"
-        }
-      ],
-      "duration_ms": 202166,
-      "name": "bilmece",
-      "url": "https://open.spotify.com/track/2m7UUwaVyHmmCF3NnqMX8G"
-    },
-    {
-      "added_at": "2026-04-17 08:18:16",
-      "album": {
         "name": "Koynumda",
         "url": "https://open.spotify.com/album/3scIO1UkwUSwqeJoj5YfSy"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 180800,
       "name": "Koynumda",
       "url": "https://open.spotify.com/track/0aHhfqMmkbLZZyd2JID6Ts"
+    },
+    {
+      "added_at": "2026-04-17 08:18:16",
+      "album": {
+        "name": "belki bi' g\u00fcn",
+        "url": "https://open.spotify.com/album/2ECal5W1mGrv6hVgPCUwLt"
+      },
+      "artists": [
+        {
+          "name": "Deniz Mert",
+          "url": "https://open.spotify.com/artist/5QVlUHz4xnayUocGAYCTLm"
+        }
+      ],
+      "duration_ms": 202166,
+      "name": "bilmece",
+      "url": "https://open.spotify.com/track/2m7UUwaVyHmmCF3NnqMX8G"
     },
     {
       "added_at": "2026-04-17 08:18:16",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-04-17 08:18:16",
       "album": {
-        "name": "gece g\u00fcnd\u00fcz",
-        "url": "https://open.spotify.com/album/0sNUfaDpHlSkgLDlm7gfQx"
-      },
-      "artists": [
-        {
-          "name": "Bahad\u0131r Macit",
-          "url": "https://open.spotify.com/artist/0FL1jGhozSxbhJoOt7uacc"
-        }
-      ],
-      "duration_ms": 148596,
-      "name": "gece g\u00fcnd\u00fcz",
-      "url": "https://open.spotify.com/track/5vT94MAha3TdhV4LPsECyG"
-    },
-    {
-      "added_at": "2026-04-17 08:18:16",
-      "album": {
         "name": "Yar\u0131n\u0131 Yok Ac\u0131s\u0131 Var",
         "url": "https://open.spotify.com/album/2QwGdbSvrwaV1uXrGDgwu9"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2026-04-17 08:18:16",
       "album": {
-        "name": "Belki Bi' G\u00fcn Anlars\u0131n",
-        "url": "https://open.spotify.com/album/4TjIITyVEoaYup0JFmNMjg"
+        "name": "gece g\u00fcnd\u00fcz",
+        "url": "https://open.spotify.com/album/0sNUfaDpHlSkgLDlm7gfQx"
       },
       "artists": [
         {
-          "name": "B\u00f6yleyken B\u00f6yle",
-          "url": "https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH"
+          "name": "Bahad\u0131r Macit",
+          "url": "https://open.spotify.com/artist/0FL1jGhozSxbhJoOt7uacc"
         }
       ],
-      "duration_ms": 145107,
-      "name": "Belki Bi' G\u00fcn Anlars\u0131n",
-      "url": "https://open.spotify.com/track/0ddXQ4eNqVOr1YacLki5Xa"
+      "duration_ms": 148596,
+      "name": "gece g\u00fcnd\u00fcz",
+      "url": "https://open.spotify.com/track/5vT94MAha3TdhV4LPsECyG"
     },
     {
       "added_at": "2026-04-17 08:18:16",
@@ -919,18 +903,18 @@
     {
       "added_at": "2026-04-17 08:18:16",
       "album": {
-        "name": "Benden \u00d6te",
-        "url": "https://open.spotify.com/album/6Qq7CP7qhgqwW3bvrMpHnw"
+        "name": "Belki Bi' G\u00fcn Anlars\u0131n",
+        "url": "https://open.spotify.com/album/4TjIITyVEoaYup0JFmNMjg"
       },
       "artists": [
         {
-          "name": "Kaan Ceylan",
-          "url": "https://open.spotify.com/artist/3c78ilDTckX5klD0x6fHlj"
+          "name": "B\u00f6yleyken B\u00f6yle",
+          "url": "https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH"
         }
       ],
-      "duration_ms": 170204,
-      "name": "Benden \u00d6te",
-      "url": "https://open.spotify.com/track/6JfgPAQw0QReNRefKBu13n"
+      "duration_ms": 145107,
+      "name": "Belki Bi' G\u00fcn Anlars\u0131n",
+      "url": "https://open.spotify.com/track/0ddXQ4eNqVOr1YacLki5Xa"
     },
     {
       "added_at": "2026-04-17 08:18:16",
@@ -947,6 +931,22 @@
       "duration_ms": 194160,
       "name": "Vah Benim Halime",
       "url": "https://open.spotify.com/track/3dnN5XUK6g8Pbry58cGhFt"
+    },
+    {
+      "added_at": "2026-04-17 08:18:16",
+      "album": {
+        "name": "Benden \u00d6te",
+        "url": "https://open.spotify.com/album/6Qq7CP7qhgqwW3bvrMpHnw"
+      },
+      "artists": [
+        {
+          "name": "Kaan Ceylan",
+          "url": "https://open.spotify.com/artist/3c78ilDTckX5klD0x6fHlj"
+        }
+      ],
+      "duration_ms": 170204,
+      "name": "Benden \u00d6te",
+      "url": "https://open.spotify.com/track/6JfgPAQw0QReNRefKBu13n"
     },
     {
       "added_at": "2026-04-17 08:18:16",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-04-17 08:18:16",
       "album": {
-        "name": "Art\u0131k Ka\u00e7ma",
-        "url": "https://open.spotify.com/album/2EM2S2MP5rLnBvMCC7fX2X"
-      },
-      "artists": [
-        {
-          "name": "Alan\u00e7a",
-          "url": "https://open.spotify.com/artist/0GtJApmg5HlC724a8wNLr8"
-        }
-      ],
-      "duration_ms": 157823,
-      "name": "Art\u0131k Ka\u00e7ma",
-      "url": "https://open.spotify.com/track/67Zchk9vtnPe4fXWxlvuRK"
-    },
-    {
-      "added_at": "2026-04-17 08:18:16",
-      "album": {
         "name": "Kalbimi \u00d6p (Akustik)",
         "url": "https://open.spotify.com/album/18YFTdMxHw3ypTftjGIx7N"
       },
@@ -1107,26 +1091,6 @@
       "duration_ms": 200689,
       "name": "Kalbimi \u00d6p - Akustik",
       "url": "https://open.spotify.com/track/6vPTotkA9b6nUB2LvgFFPx"
-    },
-    {
-      "added_at": "2026-04-17 08:18:16",
-      "album": {
-        "name": "kelep\u00e7e",
-        "url": "https://open.spotify.com/album/0VVAz2skQSINs9D64ODr6w"
-      },
-      "artists": [
-        {
-          "name": "Sena \u015eahin",
-          "url": "https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W"
-        },
-        {
-          "name": "Reflectionz",
-          "url": "https://open.spotify.com/artist/5r0ab3bcrUY6uixHCr28Xo"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "kelep\u00e7e",
-      "url": "https://open.spotify.com/track/0m6ph12BbDXzfgNPwA83ne"
     },
     {
       "added_at": "2026-04-17 08:18:16",
@@ -1159,6 +1123,42 @@
       "duration_ms": 148349,
       "name": "Elveda",
       "url": "https://open.spotify.com/track/1Cq43stElh7czsd1h0yf2w"
+    },
+    {
+      "added_at": "2026-04-17 08:18:16",
+      "album": {
+        "name": "kelep\u00e7e",
+        "url": "https://open.spotify.com/album/0VVAz2skQSINs9D64ODr6w"
+      },
+      "artists": [
+        {
+          "name": "Sena \u015eahin",
+          "url": "https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W"
+        },
+        {
+          "name": "Reflectionz",
+          "url": "https://open.spotify.com/artist/5r0ab3bcrUY6uixHCr28Xo"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "kelep\u00e7e",
+      "url": "https://open.spotify.com/track/0m6ph12BbDXzfgNPwA83ne"
+    },
+    {
+      "added_at": "2026-04-17 08:18:16",
+      "album": {
+        "name": "Art\u0131k Ka\u00e7ma",
+        "url": "https://open.spotify.com/album/2EM2S2MP5rLnBvMCC7fX2X"
+      },
+      "artists": [
+        {
+          "name": "Alan\u00e7a",
+          "url": "https://open.spotify.com/artist/0GtJApmg5HlC724a8wNLr8"
+        }
+      ],
+      "duration_ms": 157823,
+      "name": "Art\u0131k Ka\u00e7ma",
+      "url": "https://open.spotify.com/track/67Zchk9vtnPe4fXWxlvuRK"
     },
     {
       "added_at": "2026-04-17 08:18:16",

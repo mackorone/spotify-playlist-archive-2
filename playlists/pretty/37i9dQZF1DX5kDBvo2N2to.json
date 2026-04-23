@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60907,
+  "num_followers": 60911,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-04-16 22:01:57",
       "album": {
+        "name": "H\u00f6gsbo Riviera",
+        "url": "https://open.spotify.com/album/2aBTX786uODU6398tiT9F9"
+      },
+      "artists": [
+        {
+          "name": "Valter Nilsson",
+          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
+        }
+      ],
+      "duration_ms": 228561,
+      "name": "G\u00f6teborg",
+      "url": "https://open.spotify.com/track/7pFOZqgnaKfwxcPnGTEWXw"
+    },
+    {
+      "added_at": "2026-04-16 22:01:57",
+      "album": {
         "name": "Bakom molnen",
         "url": "https://open.spotify.com/album/45YWIRQbOKBHi8FwMBTT6o"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 182400,
       "name": "Bakom molnen",
       "url": "https://open.spotify.com/track/55m2vizhdnC34lToqqzgcw"
-    },
-    {
-      "added_at": "2026-04-16 22:01:57",
-      "album": {
-        "name": "H\u00f6gsbo Riviera",
-        "url": "https://open.spotify.com/album/2aBTX786uODU6398tiT9F9"
-      },
-      "artists": [
-        {
-          "name": "Valter Nilsson",
-          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
-        }
-      ],
-      "duration_ms": 228561,
-      "name": "G\u00f6teborg",
-      "url": "https://open.spotify.com/track/7pFOZqgnaKfwxcPnGTEWXw"
     },
     {
       "added_at": "2026-04-16 22:01:57",

@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 643641,
+  "num_followers": 643655,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANTSX44hz/Ii1WvVVM9S7qTty3VJ",
+  "snapshot_id": "AAAAANzjYtfzuWnxXkAnpFT3M7Ale983",
   "tracks": [
     {
       "added_at": "2026-04-15 15:15:09",
@@ -655,6 +655,42 @@
     {
       "added_at": "2026-04-15 15:15:09",
       "album": {
+        "name": "Give It To Me (Full Vocal Mix)",
+        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 102860,
+      "name": "Give It To Me - Full Vocal Mix",
+      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
+    },
+    {
+      "added_at": "2026-04-15 15:15:09",
+      "album": {
+        "name": "Blank Blank",
+        "url": "https://open.spotify.com/album/3dTK7B1dxF2slGLPye5NN1"
+      },
+      "artists": [
+        {
+          "name": "Kai Baum",
+          "url": "https://open.spotify.com/artist/5kp4UMsrN5oZxPnsef59iQ"
+        },
+        {
+          "name": "GX488",
+          "url": "https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa"
+        }
+      ],
+      "duration_ms": 122700,
+      "name": "Blank Blank",
+      "url": "https://open.spotify.com/track/7uZJbr3quBNxvroKi13jrJ"
+    },
+    {
+      "added_at": "2026-04-15 15:15:09",
+      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -691,42 +727,6 @@
     {
       "added_at": "2026-04-15 15:15:09",
       "album": {
-        "name": "Blank Blank",
-        "url": "https://open.spotify.com/album/3dTK7B1dxF2slGLPye5NN1"
-      },
-      "artists": [
-        {
-          "name": "Kai Baum",
-          "url": "https://open.spotify.com/artist/5kp4UMsrN5oZxPnsef59iQ"
-        },
-        {
-          "name": "GX488",
-          "url": "https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa"
-        }
-      ],
-      "duration_ms": 122700,
-      "name": "Blank Blank",
-      "url": "https://open.spotify.com/track/7uZJbr3quBNxvroKi13jrJ"
-    },
-    {
-      "added_at": "2026-04-15 15:15:09",
-      "album": {
-        "name": "The Glen (Levi Heron Edit)",
-        "url": "https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h"
-      },
-      "artists": [
-        {
-          "name": "Levi Heron",
-          "url": "https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP"
-        }
-      ],
-      "duration_ms": 173056,
-      "name": "The Glen - Levi Heron Edit",
-      "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
-    },
-    {
-      "added_at": "2026-04-15 15:15:09",
-      "album": {
         "name": "BIERZELT SANIT\u00c4TER! (HBz Remix)",
         "url": "https://open.spotify.com/album/4BikZleNZh9oWjv5vGvlwq"
       },
@@ -747,18 +747,18 @@
     {
       "added_at": "2026-04-15 15:15:09",
       "album": {
-        "name": "Give It To Me (Full Vocal Mix)",
-        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
+        "name": "The Glen (Levi Heron Edit)",
+        "url": "https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h"
       },
       "artists": [
         {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+          "name": "Levi Heron",
+          "url": "https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP"
         }
       ],
-      "duration_ms": 102860,
-      "name": "Give It To Me - Full Vocal Mix",
-      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
+      "duration_ms": 173056,
+      "name": "The Glen - Levi Heron Edit",
+      "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
     },
     {
       "added_at": "2026-04-15 15:15:09",
@@ -847,30 +847,6 @@
     {
       "added_at": "2026-04-15 15:15:09",
       "album": {
-        "name": "Praise The Lord (Da Shine) (feat. Skepta) [Durdenhauer Edit]",
-        "url": "https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu"
-      },
-      "artists": [
-        {
-          "name": "Durdenhauer",
-          "url": "https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 163783,
-      "name": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
-      "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
-    },
-    {
-      "added_at": "2026-04-15 15:15:09",
-      "album": {
         "name": "YEAH",
         "url": "https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH"
       },
@@ -899,6 +875,30 @@
     {
       "added_at": "2026-04-15 15:15:09",
       "album": {
+        "name": "Praise The Lord (Da Shine) (feat. Skepta) [Durdenhauer Edit]",
+        "url": "https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu"
+      },
+      "artists": [
+        {
+          "name": "Durdenhauer",
+          "url": "https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 163783,
+      "name": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
+      "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
+    },
+    {
+      "added_at": "2026-04-15 15:15:09",
+      "album": {
         "name": "Wackelkontakt",
         "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
       },
@@ -911,26 +911,6 @@
       "duration_ms": 168801,
       "name": "Wackelkontakt",
       "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
-    },
-    {
-      "added_at": "2026-04-15 15:15:09",
-      "album": {
-        "name": "HASENJAGD",
-        "url": "https://open.spotify.com/album/7z6XRu94FWJRAsVaFeodgL"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
-        }
-      ],
-      "duration_ms": 158135,
-      "name": "HASENJAGD",
-      "url": "https://open.spotify.com/track/4VCeLD6GatBDyoA5ijrL4X"
     },
     {
       "added_at": "2026-04-15 15:15:09",
@@ -955,6 +935,26 @@
       "duration_ms": 125076,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq"
+    },
+    {
+      "added_at": "2026-04-15 15:15:09",
+      "album": {
+        "name": "HASENJAGD",
+        "url": "https://open.spotify.com/album/7z6XRu94FWJRAsVaFeodgL"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "duration_ms": 158135,
+      "name": "HASENJAGD",
+      "url": "https://open.spotify.com/track/4VCeLD6GatBDyoA5ijrL4X"
     },
     {
       "added_at": "2026-04-15 15:15:09",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2026-04-15 15:15:09",
       "album": {
-        "name": "Als du gingst (edit)",
-        "url": "https://open.spotify.com/album/24CMRdb9SWlm08gBNhWD3F"
-      },
-      "artists": [
-        {
-          "name": "Contec",
-          "url": "https://open.spotify.com/artist/2BFFFDU8cOaMWt7i2BHLtX"
-        },
-        {
-          "name": "Lina Maly",
-          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
-        }
-      ],
-      "duration_ms": 239019,
-      "name": "Als du gingst - edit",
-      "url": "https://open.spotify.com/track/1MDyUzZgyrdeQVmV1FU3WQ"
-    },
-    {
-      "added_at": "2026-04-15 15:15:09",
-      "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2026-04-15 15:15:09",
+      "album": {
+        "name": "Als du gingst (edit)",
+        "url": "https://open.spotify.com/album/24CMRdb9SWlm08gBNhWD3F"
+      },
+      "artists": [
+        {
+          "name": "Contec",
+          "url": "https://open.spotify.com/artist/2BFFFDU8cOaMWt7i2BHLtX"
+        },
+        {
+          "name": "Lina Maly",
+          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
+        }
+      ],
+      "duration_ms": 239019,
+      "name": "Als du gingst - edit",
+      "url": "https://open.spotify.com/track/1MDyUzZgyrdeQVmV1FU3WQ"
     },
     {
       "added_at": "2026-04-15 15:15:09",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-04-15 15:15:09",
       "album": {
-        "name": "ALL IN (Lieblingslieder)",
-        "url": "https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 163601,
-      "name": "ALL IN (Lieblingslieder)",
-      "url": "https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm"
-    },
-    {
-      "added_at": "2026-04-15 15:15:09",
-      "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2026-04-15 15:15:09",
       "album": {
+        "name": "ALL IN (Lieblingslieder)",
+        "url": "https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 163601,
+      "name": "ALL IN (Lieblingslieder)",
+      "url": "https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm"
+    },
+    {
+      "added_at": "2026-04-15 15:15:09",
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
       },
@@ -1167,6 +1167,26 @@
       "duration_ms": 187394,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2026-04-15 15:15:09",
+      "album": {
+        "name": "Would You (go to bed with me?)",
+        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        },
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        }
+      ],
+      "duration_ms": 120522,
+      "name": "Would You (go to bed with me?)",
+      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
     },
     {
       "added_at": "2026-04-15 15:15:09",
@@ -1203,26 +1223,6 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
-    },
-    {
-      "added_at": "2026-04-15 15:15:09",
-      "album": {
-        "name": "Would You (go to bed with me?)",
-        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
-      },
-      "artists": [
-        {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        },
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        }
-      ],
-      "duration_ms": 120522,
-      "name": "Would You (go to bed with me?)",
-      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
     },
     {
       "added_at": "2026-04-15 15:15:09",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-04-15 15:15:09",
       "album": {
-        "name": "Big Jet Plane",
-        "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
-      },
-      "artists": [
-        {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
-    },
-    {
-      "added_at": "2026-04-15 15:15:09",
-      "album": {
         "name": "It's My Life (Techno Remix)",
         "url": "https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2"
       },
@@ -1599,22 +1583,18 @@
     {
       "added_at": "2026-04-15 15:15:09",
       "album": {
-        "name": "APRES SKI",
-        "url": "https://open.spotify.com/album/2nnz1MfGxdZ0tjpgEUBAV3"
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
       },
       "artists": [
         {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "Gzuz",
-          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
         }
       ],
-      "duration_ms": 162362,
-      "name": "APRES SKI",
-      "url": "https://open.spotify.com/track/2rKSoNQsHt0oRWZmnBZUNe"
+      "duration_ms": 150000,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
     },
     {
       "added_at": "2026-04-15 15:15:09",
@@ -1631,6 +1611,26 @@
       "duration_ms": 179760,
       "name": "Cooler Than Me",
       "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
+    },
+    {
+      "added_at": "2026-04-15 15:15:09",
+      "album": {
+        "name": "APRES SKI",
+        "url": "https://open.spotify.com/album/2nnz1MfGxdZ0tjpgEUBAV3"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "duration_ms": 162362,
+      "name": "APRES SKI",
+      "url": "https://open.spotify.com/track/2rKSoNQsHt0oRWZmnBZUNe"
     },
     {
       "added_at": "2026-04-15 15:15:09",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2026-04-15 15:15:09",
       "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Binder",
+          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+    },
+    {
+      "added_at": "2026-04-15 15:15:09",
+      "album": {
         "name": "DRAGO AUGUSTINO",
         "url": "https://open.spotify.com/album/5eay977L3PSc3kaq3l7Ouq"
       },
@@ -1727,18 +1743,18 @@
     {
       "added_at": "2026-04-15 15:15:09",
       "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
       },
       "artists": [
         {
-          "name": "Nicolas Binder",
-          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2026-04-15 15:15:09",
@@ -1759,22 +1775,6 @@
       "duration_ms": 154493,
       "name": "HURENSOHN",
       "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
-    },
-    {
-      "added_at": "2026-04-15 15:15:09",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2026-04-15 15:15:09",

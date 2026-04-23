@@ -1,6 +1,6 @@
 {
   "description": "Ghazals for the rapture and passion of intense love and longing. Cover - Jagjit Singh",
-  "num_followers": 140209,
+  "num_followers": 140239,
   "original_name": "Golden Ghazals",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,30 @@
     {
       "added_at": "2026-04-10 09:59:22",
       "album": {
+        "name": "Mil Ke Bhi Na Mili Khushi",
+        "url": "https://open.spotify.com/album/47elzd0gUBpWKopixNHzMy"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Irfan",
+          "url": "https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        },
+        {
+          "name": "Nayeem - Shabir",
+          "url": "https://open.spotify.com/artist/6RWQUPcHK4DiRidMeOoW3A"
+        }
+      ],
+      "duration_ms": 298676,
+      "name": "Mil Ke Bhi Na Mili Khushi",
+      "url": "https://open.spotify.com/track/6wRThmYPMYMtmuCyncsRUJ"
+    },
+    {
+      "added_at": "2026-04-10 09:59:22",
+      "album": {
         "name": "Metro ... In Dino (Side B)",
         "url": "https://open.spotify.com/album/0Xenz5qY7LXiUVHvEQDoWr"
       },
@@ -199,30 +223,6 @@
       "duration_ms": 223317,
       "name": "Zamaana Lage - Mood Shift",
       "url": "https://open.spotify.com/track/2KiPZtDxNXfiCuEFE2G1Co"
-    },
-    {
-      "added_at": "2026-04-10 09:59:22",
-      "album": {
-        "name": "Mil Ke Bhi Na Mili Khushi",
-        "url": "https://open.spotify.com/album/47elzd0gUBpWKopixNHzMy"
-      },
-      "artists": [
-        {
-          "name": "Mohammed Irfan",
-          "url": "https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY"
-        },
-        {
-          "name": "Mahendra Dhirajlal Kamdar",
-          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
-        },
-        {
-          "name": "Nayeem - Shabir",
-          "url": "https://open.spotify.com/artist/6RWQUPcHK4DiRidMeOoW3A"
-        }
-      ],
-      "duration_ms": 298676,
-      "name": "Mil Ke Bhi Na Mili Khushi",
-      "url": "https://open.spotify.com/track/6wRThmYPMYMtmuCyncsRUJ"
     },
     {
       "added_at": "2026-04-10 09:59:22",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-04-10 09:59:22",
       "album": {
-        "name": "Hamara Dil",
-        "url": "https://open.spotify.com/album/7lDXRXTGVhKXHbQUmPsx6q"
-      },
-      "artists": [
-        {
-          "name": "Talat Aziz",
-          "url": "https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Hamara Dil",
-      "url": "https://open.spotify.com/track/4MYjT0f53X3XW3Qcwj2085"
-    },
-    {
-      "added_at": "2026-04-10 09:59:22",
-      "album": {
         "name": "Koi Umeed",
         "url": "https://open.spotify.com/album/5YQT8LdcOc0smqplylj0jD"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 328909,
       "name": "Koi Umeed",
       "url": "https://open.spotify.com/track/1rWlMfkwDrDbUbtJrvyJYW"
+    },
+    {
+      "added_at": "2026-04-10 09:59:22",
+      "album": {
+        "name": "Hamara Dil",
+        "url": "https://open.spotify.com/album/7lDXRXTGVhKXHbQUmPsx6q"
+      },
+      "artists": [
+        {
+          "name": "Talat Aziz",
+          "url": "https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Hamara Dil",
+      "url": "https://open.spotify.com/track/4MYjT0f53X3XW3Qcwj2085"
     },
     {
       "added_at": "2026-04-10 09:59:22",
@@ -883,30 +883,6 @@
     {
       "added_at": "2026-04-10 09:59:22",
       "album": {
-        "name": "Bandh Aankhein",
-        "url": "https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG"
-      },
-      "artists": [
-        {
-          "name": "Muhafiz",
-          "url": "https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9"
-        },
-        {
-          "name": "Sarthak Kalyani",
-          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
-        },
-        {
-          "name": "Siddharth Chopra",
-          "url": "https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Bandh Aankhein",
-      "url": "https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP"
-    },
-    {
-      "added_at": "2026-04-10 09:59:22",
-      "album": {
         "name": "Rooh",
         "url": "https://open.spotify.com/album/7p6PpWdahXJb6XQaR8ly2e"
       },
@@ -931,6 +907,30 @@
     {
       "added_at": "2026-04-10 09:59:22",
       "album": {
+        "name": "Bandh Aankhein",
+        "url": "https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG"
+      },
+      "artists": [
+        {
+          "name": "Muhafiz",
+          "url": "https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9"
+        },
+        {
+          "name": "Sarthak Kalyani",
+          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
+        },
+        {
+          "name": "Siddharth Chopra",
+          "url": "https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Bandh Aankhein",
+      "url": "https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP"
+    },
+    {
+      "added_at": "2026-04-10 09:59:22",
+      "album": {
         "name": "The Great Ghazals",
         "url": "https://open.spotify.com/album/09OSMi2qL8eeEwvD6czHdN"
       },
@@ -947,6 +947,30 @@
       "duration_ms": 450373,
       "name": "Nazar Mujhse",
       "url": "https://open.spotify.com/track/2qAHkVmvyhcxgJqKXxnLIz"
+    },
+    {
+      "added_at": "2026-04-10 09:59:22",
+      "album": {
+        "name": "Dil Ke Chhaale",
+        "url": "https://open.spotify.com/album/13Lq2RJ7uLtN0NOpSg6aEt"
+      },
+      "artists": [
+        {
+          "name": "Prithvi Gandharv",
+          "url": "https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        },
+        {
+          "name": "Shahab Hussain",
+          "url": "https://open.spotify.com/artist/4bBGi3ViY36psd55ThPkDv"
+        }
+      ],
+      "duration_ms": 322554,
+      "name": "Dil Ke Chhaale",
+      "url": "https://open.spotify.com/track/50704i9WQZM3Nco78XBLLo"
     },
     {
       "added_at": "2026-04-10 09:59:22",
@@ -1003,30 +1027,6 @@
     {
       "added_at": "2026-04-10 09:59:22",
       "album": {
-        "name": "Dil Ke Chhaale",
-        "url": "https://open.spotify.com/album/13Lq2RJ7uLtN0NOpSg6aEt"
-      },
-      "artists": [
-        {
-          "name": "Prithvi Gandharv",
-          "url": "https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs"
-        },
-        {
-          "name": "Mahendra Dhirajlal Kamdar",
-          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
-        },
-        {
-          "name": "Shahab Hussain",
-          "url": "https://open.spotify.com/artist/4bBGi3ViY36psd55ThPkDv"
-        }
-      ],
-      "duration_ms": 322554,
-      "name": "Dil Ke Chhaale",
-      "url": "https://open.spotify.com/track/50704i9WQZM3Nco78XBLLo"
-    },
-    {
-      "added_at": "2026-04-10 09:59:22",
-      "album": {
         "name": "Vo Haseen Raat",
         "url": "https://open.spotify.com/album/3lgSHYWQ83jzYB5uOSiV5v"
       },
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-04-10 09:59:22",
       "album": {
+        "name": "Achanak Safar Mein",
+        "url": "https://open.spotify.com/album/6dkt2eYxjXK0z7EnEFcNDw"
+      },
+      "artists": [
+        {
+          "name": "Pratibha Singh Baghel",
+          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
+        }
+      ],
+      "duration_ms": 391601,
+      "name": "Achanak Safar Mein",
+      "url": "https://open.spotify.com/track/3x8uf74HEWtW3AZ7uCvTWI"
+    },
+    {
+      "added_at": "2026-04-10 09:59:22",
+      "album": {
         "name": "Dil Pareshan Karta Hai",
         "url": "https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2026-04-10 09:59:22",
       "album": {
-        "name": "Achanak Safar Mein",
-        "url": "https://open.spotify.com/album/6dkt2eYxjXK0z7EnEFcNDw"
+        "name": "Muddat Hui Hai",
+        "url": "https://open.spotify.com/album/1HehuhKkuMgjOU99zkE0Cd"
       },
       "artists": [
         {
-          "name": "Pratibha Singh Baghel",
-          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
+          "name": "Avanti Patel",
+          "url": "https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf"
         }
       ],
-      "duration_ms": 391601,
-      "name": "Achanak Safar Mein",
-      "url": "https://open.spotify.com/track/3x8uf74HEWtW3AZ7uCvTWI"
+      "duration_ms": 416640,
+      "name": "Muddat Hui Hai",
+      "url": "https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi"
     },
     {
       "added_at": "2026-04-10 09:59:22",
@@ -1119,22 +1135,6 @@
       "duration_ms": 224874,
       "name": "Dil Ke Behlane Ki",
       "url": "https://open.spotify.com/track/0j8bQyja91hw3OM4GaTx37"
-    },
-    {
-      "added_at": "2026-04-10 09:59:22",
-      "album": {
-        "name": "Muddat Hui Hai",
-        "url": "https://open.spotify.com/album/1HehuhKkuMgjOU99zkE0Cd"
-      },
-      "artists": [
-        {
-          "name": "Avanti Patel",
-          "url": "https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf"
-        }
-      ],
-      "duration_ms": 416640,
-      "name": "Muddat Hui Hai",
-      "url": "https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi"
     },
     {
       "added_at": "2026-04-10 09:59:22",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2026-04-10 09:59:22",
       "album": {
+        "name": "Wajah Dhoondh Rahi Hoon",
+        "url": "https://open.spotify.com/album/38CLfNETJOIYjRCz9ug5fe"
+      },
+      "artists": [
+        {
+          "name": "Rubai",
+          "url": "https://open.spotify.com/artist/6tBTqKtxRUei3EWE8sl10r"
+        },
+        {
+          "name": "Gufy",
+          "url": "https://open.spotify.com/artist/6fGoY0h9sQa81gzIw3e6Qv"
+        }
+      ],
+      "duration_ms": 226956,
+      "name": "Wajah Dhoondh Rahi Hoon",
+      "url": "https://open.spotify.com/track/6S9QMBT09F27PmBSttpQ0m"
+    },
+    {
+      "added_at": "2026-04-10 09:59:22",
+      "album": {
         "name": "Aashiqana",
         "url": "https://open.spotify.com/album/5Ch1Cy2rf2LNVr72GTY7v3"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 394818,
       "name": "Aashiqana",
       "url": "https://open.spotify.com/track/7LiOJy6J3AtJjxwamxYGiQ"
-    },
-    {
-      "added_at": "2026-04-10 09:59:22",
-      "album": {
-        "name": "Wajah Dhoondh Rahi Hoon",
-        "url": "https://open.spotify.com/album/38CLfNETJOIYjRCz9ug5fe"
-      },
-      "artists": [
-        {
-          "name": "Rubai",
-          "url": "https://open.spotify.com/artist/6tBTqKtxRUei3EWE8sl10r"
-        },
-        {
-          "name": "Gufy",
-          "url": "https://open.spotify.com/artist/6fGoY0h9sQa81gzIw3e6Qv"
-        }
-      ],
-      "duration_ms": 226956,
-      "name": "Wajah Dhoondh Rahi Hoon",
-      "url": "https://open.spotify.com/track/6S9QMBT09F27PmBSttpQ0m"
     },
     {
       "added_at": "2026-04-10 09:59:22",

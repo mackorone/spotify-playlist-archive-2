@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: vangoura con La Milagrosa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,837 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,843 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 59 | [Alguien especial](https://open.spotify.com/track/70l1yDDqBeh8rGxBPM3GEt) | [La 126](https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY) | [Alguien especial](https://open.spotify.com/album/5Y9vYd2Alq7pXGO6xuSjCS) | 3:34 |
 | 60 | [Flores a la Guerra](https://open.spotify.com/track/1egWhb5waRWLWKegCYnpMY) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Flores a la Guerra](https://open.spotify.com/album/2gaEAA8H24C9yst7jH3KiO) | 3:52 |
 | 61 | [Triángulo de Amor Bizarro](https://open.spotify.com/track/1LqtshPVQeyN32a3S9NpUM) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [Triángulo de Amor Bizarro](https://open.spotify.com/album/1RF04W05UToks9SX7Y3lXr) | 3:37 |
-| 62 | [Lapsus](https://open.spotify.com/track/5gaHUShVDYB2kn5s0xzIAi) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Lapsus](https://open.spotify.com/album/50MmSo6jaCpsBd585e4oOP) | 4:20 |
+| 62 | [LAPSUS](https://open.spotify.com/track/5gaHUShVDYB2kn5s0xzIAi) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [LAPSUS](https://open.spotify.com/album/50MmSo6jaCpsBd585e4oOP) | 4:20 |
 | 63 | [Curso Avanzado de Perra](https://open.spotify.com/track/3vLy8XXfciY4KvQktrOClg) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Curso Avanzado de Perra](https://open.spotify.com/album/4vL3EwRnbXQFXYtCSRc39p) | 2:58 |
 | 64 | [Gigantes](https://open.spotify.com/track/59O4rfsHvXTG5c0lB1xNbo) | [Neverland Bari](https://open.spotify.com/artist/68hEzkqJzDWakEF63HUHeA) | [Gigantes](https://open.spotify.com/album/3E5s8EJXprphGKEGnTcr8n) | 4:06 |
 | 65 | [40 de mayo](https://open.spotify.com/track/05HBqcSM1SeixtdrWrp3Dm) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [40 de mayo](https://open.spotify.com/album/3DCSQJL7BOBeCgoEpIOmYr) | 2:53 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 72 | [Moreno Albañil](https://open.spotify.com/track/0iFbCBsfJEiY5SJOOE1ddZ) | [Orina](https://open.spotify.com/artist/2hKjDkYnFqGKQrGsgYI4TJ) | [Moreno Albañil](https://open.spotify.com/album/3JpPgTC7u1IAexMDHmtcK5) | 3:30 |
 | 73 | [Historias que contar](https://open.spotify.com/track/3taryJdWZSn8ucmFyqHlvR) | [rumbos](https://open.spotify.com/artist/7qNftOu0DUIDh1Gd6Gy8LQ) | [Historias que contar](https://open.spotify.com/album/0RJ13jWwbQkYByaYGIIYBv) | 3:29 |
 | 74 | [Noche de Casino \(This Gambling Man\)](https://open.spotify.com/track/5z1qOTwU2nCaGEv6zVsAUQ) | [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Noche de Casino \(This Gambling Man\)](https://open.spotify.com/album/3Zyt72JMHaOMjU5UIbkcAV) | 3:42 |
-| 75 | [Cuando todo vaya mal](https://open.spotify.com/track/42JC9Y8yRZHNkEOqLqbRgk) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Cuando todo vaya mal](https://open.spotify.com/album/2UNgIEHiwB0cfn2XskIwUR) | 4:32 |
+| 75 | [CUANDO TODO VAYA MAL](https://open.spotify.com/track/42JC9Y8yRZHNkEOqLqbRgk) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [CUANDO TODO VAYA MAL](https://open.spotify.com/album/2UNgIEHiwB0cfn2XskIwUR) | 4:32 |
 | 76 | [Non Sei Como](https://open.spotify.com/track/48Qrb6fpGg0N0VoDSBteuv) | [The Rapants](https://open.spotify.com/artist/6n9E45r5Ewzy1qXMqSVMA7), [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Non Sei Como](https://open.spotify.com/album/69nLTmEQvfhh4q4sf6ri4u) | 3:21 |
 | 77 | [Me Miras Mal](https://open.spotify.com/track/1Y0yo9M0NizVkZKUPm2sLK) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Pelo De Foca](https://open.spotify.com/album/7IaN8e5ag5SEFaHLBmKBss) | 3:05 |
 | 78 | [De Viaje](https://open.spotify.com/track/3LMI65OUMtvYj0jVU55maX) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Super H \(Homenaje al Super 8 de Los Planetas\)](https://open.spotify.com/album/2ZT83rOpAIhACchXvYfNgb) | 3:30 |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Luis Alfonso Partida El Yaki, Banda Corona del Rey",
-  "num_followers": 83252,
+  "num_followers": 83272,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
+        "name": "Las Preferidas, Vol. 2 (En vivo)",
+        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 188917,
+      "name": "Yo Te Necesito - En vivo",
+      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
         "name": "Desde Topo Hasta La Sierra (En vivo)",
         "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 218534,
       "name": "Desde Topo Hasta La Sierra - En vivo",
       "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
-        "name": "Las Preferidas, Vol. 2 (En vivo)",
-        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 188917,
-      "name": "Yo Te Necesito - En vivo",
-      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "El Sera y El Chavo (En Vivo)",
-        "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "El Sera y El Chavo (En Vivo)",
-      "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "Sin Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 143180,
       "name": "Changuito Me Apodaron",
       "url": "https://open.spotify.com/track/4c2zq4HTSVLQP7esFifI0M"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "El Sera y El Chavo (En Vivo)",
+        "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "El Sera y El Chavo (En Vivo)",
+      "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Desde Las Vegas",
-        "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 183842,
-      "name": "Mi Luna, Mi Estrella",
-      "url": "https://open.spotify.com/track/6DW1TtzOyXRmt6I8bfb9L0"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "En Vivo Desde El Rancho 2",
         "url": "https://open.spotify.com/album/4aa77DHr5hsvxxX9jxUB35"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 237749,
       "name": "Que Lloro - En Vivo",
       "url": "https://open.spotify.com/track/3qvlIyDfh30tUYr7s76Umh"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "Desde Las Vegas",
+        "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 183842,
+      "name": "Mi Luna, Mi Estrella",
+      "url": "https://open.spotify.com/track/6DW1TtzOyXRmt6I8bfb9L0"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Desde Las Vegas",
-        "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 153562,
-      "name": "Una Flor Quise Cortar",
-      "url": "https://open.spotify.com/track/6fbbV0S1tDc9msYsgZ23gA"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "El Corrido Del Piyi (LDLG)",
         "url": "https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2"
       },
@@ -1811,6 +1795,22 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
+        "name": "Desde Las Vegas",
+        "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 153562,
+      "name": "Una Flor Quise Cortar",
+      "url": "https://open.spotify.com/track/6fbbV0S1tDc9msYsgZ23gA"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
         "name": "Sigo Siendo El M Grande (En Vivo)",
         "url": "https://open.spotify.com/album/3gTAVNVPSj660tNcGU7gl0"
       },
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Chapayeka (Puro Chucky) (En Vivo)",
-        "url": "https://open.spotify.com/album/3yOll80cJzqzR0X6xnbX3h"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 182750,
-      "name": "Mi \u00danico Camino (En Vivo)",
-      "url": "https://open.spotify.com/track/0VCu0JDkHoFpuRTvZ9Bbr3"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 233106,
       "name": "El Pistolero - El Chinelito Borracho - Popurr\u00ed / En Vivo",
       "url": "https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "\u201cV1V0\u201d EN VIVO",
+        "url": "https://open.spotify.com/album/2f7QrCkWsLVqxVFuCZEHcz"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 218634,
+      "name": "DE SOBREMANERA - EN VIVO",
+      "url": "https://open.spotify.com/track/2DkA9NlXSTXJehAQdRJU1a"
     }
   ],
   "unique_name": "M\u00fasica Mexicana En Vivo",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-327 songs - 18 hr 48 min
+330 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Can Ghosts Be Gay?](https://open.spotify.com/track/0CN9ZaGJjFCFa5H3CyEJzm) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:21 | 2024-05-01 |  |
 | [Can't Be Sure](https://open.spotify.com/track/353dPA2LDj3UuiR0HwG4Vh) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/4UgPnKsu5oqfJSaK4kkLT1) | 2:26 | 2024-05-01 |  |
 | [Can't Show My Face](https://open.spotify.com/track/6qTlCSela5oHJkKy9NVOgC) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/7GoPa8H2OoqADzSwrFwyHy) | 4:09 | 2024-05-01 |  |
+| [Canyon Nights](https://open.spotify.com/track/2P3XEzMYI4mzb4ncbS0nC9) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Album II: The Land Of The Twisted Tree](https://open.spotify.com/album/6oKdKdacgWZBqmeqvp0thB) | 3:09 | 2026-04-22 |  |
 | [Caroline](https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:36 | 2024-05-01 |  |
 | [Change Your Mind](https://open.spotify.com/track/5kytpT5jLg0DNCmYKrtcuA) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 5:31 | 2024-05-01 |  |
 | [Charlie](https://open.spotify.com/track/7fkPjpfCAMudsbluRgWXXG) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Charlie](https://open.spotify.com/album/6VqHNOtp3CJlj9ZBDTN9ZU) | 3:40 | 2024-05-01 |  |
@@ -131,6 +132,7 @@
 | [Heaven](https://open.spotify.com/track/26EFvel8n1Ky0uba3Ll67H) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:38 | 2024-05-01 |  |
 | [Hell of a Life](https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:15 | 2024-12-11 |  |
 | [Hex](https://open.spotify.com/track/4Bq0dDS1Yk1g3KwpbMDtvU) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 5:17 | 2024-05-01 |  |
+| [Hi](https://open.spotify.com/track/5HtswmywLW6N0oDiKafPWw) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Album II: The Land Of The Twisted Tree](https://open.spotify.com/album/6oKdKdacgWZBqmeqvp0thB) | 3:42 | 2026-04-22 |  |
 | [Hideaway](https://open.spotify.com/track/26JG8US8oI3U3sdfL6OeA5) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Hideaway](https://open.spotify.com/album/2etUxQYwcWRglGBTSGKYCY) | 4:02 | 2024-05-01 | 2025-11-28 |
 | [High on You](https://open.spotify.com/track/1x2ql7GenJK1F30lmR45vp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [High on You](https://open.spotify.com/album/2UBuB3s8t310icc8c4pQED) | 2:51 | 2025-04-19 | 2025-06-30 |
 | [High on You](https://open.spotify.com/track/3A2n4QNrHMiwUlonQcpwFp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:51 | 2025-06-29 |  |
@@ -214,6 +216,7 @@
 | [Overdrive](https://open.spotify.com/track/5oxWSNe8xUp2GtT8l28Qz7) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 2:59 | 2024-12-11 |  |
 | [Palomita Negrita](https://open.spotify.com/track/7xcBQkWMbxAvYO03q5K4YQ) | [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Palomita Negrita](https://open.spotify.com/album/4fz3NUIBxQlzgAX5ztB1uz) | 4:05 | 2024-05-01 | 2026-02-23 |
 | [Palomita Negrita](https://open.spotify.com/track/2dOBdBDLjEZlcpc6lC2mQ6) | [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [ISOLA](https://open.spotify.com/album/0oBxa56yxjesMkTF5StVML) | 4:05 | 2026-02-22 |  |
+| [Paranoid](https://open.spotify.com/track/2tf2kksnra9pqQfZ0ZPsaI) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Album II: The Land Of The Twisted Tree](https://open.spotify.com/album/6oKdKdacgWZBqmeqvp0thB) | 3:20 | 2026-04-22 |  |
 | [Personal](https://open.spotify.com/track/2nXa9R1HW85cFPDFxmnutP) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 4:19 | 2024-05-01 |  |
 | [Photosynthesis](https://open.spotify.com/track/5mq1tLYr3ukhvIuTguWHlX) | [Korantemaa](https://open.spotify.com/artist/6KEQ1IQ4NayJNUT2zAVXgl) | [Fruit](https://open.spotify.com/album/3WuqywZ2hMkiOXEsCE9SSP) | 3:22 | 2024-05-01 |  |
 | [Pressure](https://open.spotify.com/track/6i6dlak8cGUP1I9Owj9zPq) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:19 | 2024-05-01 |  |

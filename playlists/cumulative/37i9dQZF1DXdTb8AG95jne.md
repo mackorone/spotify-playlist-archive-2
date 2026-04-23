@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: <br/>이예린 \(Lee Yerin\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 볼빨간사춘기 \(BOL4\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,323 songs - 3 day 7 hr 59 min
+1,325 songs - 3 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [A Long Dream](https://open.spotify.com/track/2LQJZcCEfTG1v087gaaMMj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/41NYtKrSofLWaxOZNs1Atb) | 4:18 | 2025-04-11 | 2025-07-24 |
 | [A Long Dream](https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy) | 4:18 | 2022-07-27 | 2024-04-19 |
 | [A long goodbye \(with jangheewon\)](https://open.spotify.com/track/061Ux23ax9kBY7WnrwZJEi) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [A long goodbye \(with jangheewon\)](https://open.spotify.com/album/6CpMftwOS947ubCDQaTodv) | 3:28 | 2025-03-04 | 2025-04-11 |
-| [A Love Cliche](https://open.spotify.com/track/2UeMHseXwiwB4zpdAIy0DY) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [A Love Cliche](https://open.spotify.com/album/1HzfxIBaNo2V7ECZaDQ3FV) | 2:27 | 2026-03-09 |  |
+| [A Love Cliche](https://open.spotify.com/track/2UeMHseXwiwB4zpdAIy0DY) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [A Love Cliche](https://open.spotify.com/album/1HzfxIBaNo2V7ECZaDQ3FV) | 2:27 | 2026-03-09 | 2026-04-23 |
 | [a particular thing 별일 \(feat\. Parc Jae Jung\)](https://open.spotify.com/track/3SfGwHuSbRkawRw7PFI81n) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs), [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Rotary](https://open.spotify.com/album/7CbrplovlgNSO5Qo8X7sVa) | 4:20 | 2022-04-12 | 2022-04-21 |
 | [a plumber](https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [a plumber](https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN) | 3:29 | 2026-03-30 |  |
 | [a song i like to sing](https://open.spotify.com/track/5BDScyCac0wCKu1ZvCpk8K) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [a song i like to sing](https://open.spotify.com/album/4rnDUUhsDdMgFFoeg5DrqT) | 2:40 | 2021-12-21 | 2022-04-20 |
@@ -133,6 +133,7 @@
 | [Blinded](https://open.spotify.com/track/3k5xWgRecbkY5XzhpjIJ65) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Blinded](https://open.spotify.com/album/5kM1pxqGfFhXBqbtFRjaTb) | 3:45 | 2023-07-17 | 2023-08-25 |
 | [Blocks](https://open.spotify.com/track/3WuzkyoFApI0co4QbaltyO) | [Ashmute](https://open.spotify.com/artist/7EYwKfQY1bAfLr2EUPOL0h) | [Somnia 0:00 \- Chapter 1](https://open.spotify.com/album/0yxt6or5KqsURYDJMAMTmi) | 4:01 | 2025-10-30 | 2025-12-05 |
 | [Blood \(feat\. Akane Lize\)](https://open.spotify.com/track/5Svxqesi1CTPCfUiMeRb7f) | [Miiro](https://open.spotify.com/artist/4CadaJC2t5tnQg06HlXVnP), [Akane Lize](https://open.spotify.com/artist/3lgpOwvhfE07WXOW6BTmmK) | [Blood \(feat\. Akane Lize\)](https://open.spotify.com/album/2KPXtbLys8I96RGCkrgE7i) | 4:27 | 2025-06-13 | 2025-07-23 |
+| [Bloom and Wither](https://open.spotify.com/track/2dkWvjHWcll9kepV7F2NBF) | [Saebit](https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX) | [Bloom and Wither](https://open.spotify.com/album/6wqBWJLivks8w3bz39d6Gq) | 3:49 | 2026-04-22 |  |
 | [Blue](https://open.spotify.com/track/4wZ4Mb2u58AcVPbNNXKQwL) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Blue](https://open.spotify.com/album/4e5cub7bCm8o61uKKaAVFW) | 3:16 | 2026-01-14 | 2026-02-14 |
 | [Blue & Lemonade \(Feat\. Choi Cello\)](https://open.spotify.com/track/2YmnxhsvBJA08kyCAzQacz) | [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o), [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Blue & Lemonade \(Feat\. Choi Cello\)](https://open.spotify.com/album/285AagckaF30HANKbEQnxd) | 3:10 | 2022-03-18 | 2022-07-25 |
 | [Blue bird](https://open.spotify.com/track/1WlNLsdkbPm2tjwIgvkneM) | [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [Blue bird](https://open.spotify.com/album/79aVg7uljET5XuVio9dNFr) | 3:25 | 2021-12-21 | 2024-04-28 |
@@ -351,6 +352,7 @@
 | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/track/14UVhlg2jUPo64sTfNBKTo) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/album/5QrmhLK3bHHl6y6lRh94n4) | 2:34 | 2024-11-29 | 2025-01-31 |
 | [Fighting! 응원해](https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting! 응원해](https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80) | 3:05 | 2022-10-07 | 2022-11-13 |
 | [Fighting! 응원해](https://open.spotify.com/track/6jD4BKw85zAOpK9DCx6uYm) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting! 응원해](https://open.spotify.com/album/2DGqiNKAYJIJuqcQfKU2Hi) | 3:05 | 2021-12-12 | 2022-07-21 |
+| [Find You](https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Find You](https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz) | 2:55 | 2026-04-22 |  |
 | [Fine](https://open.spotify.com/track/6VVNdVTR3akq26mrvlEUQJ) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [Fine](https://open.spotify.com/album/6KXd8ZKlGFulveeHsOH5cX) | 2:57 | 2022-03-31 | 2022-04-13 |
 | [FINE](https://open.spotify.com/track/1HP9RKXLLbanlco3KB0QsN) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [FINE](https://open.spotify.com/album/3lowzloIMuCOyzPGCWXbks) | 2:37 | 2022-07-08 | 2022-08-09 |
 | [Fire](https://open.spotify.com/track/0h1KusfiDFqqWhHNPcKn0V) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn) | [Two Faces](https://open.spotify.com/album/1xtsl99YsUY2QBbMIRQqzC) | 5:00 | 2022-12-21 | 2023-01-05 |
@@ -799,7 +801,7 @@
 | [Numb face](https://open.spotify.com/track/7HIM3fpXtx7edtpcdP1IZK) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Numb face](https://open.spotify.com/album/05vJSkIdQPRkCO6C1fbXsq) | 2:36 | 2025-03-14 | 2025-04-11 |
 | [O\`Chunnki](https://open.spotify.com/track/4zvIT9fIJxLXZc5RDMuYZR) | [Mono\. J](https://open.spotify.com/artist/2sCSfdtkRpjNWt2O2GabKA) | [Ready For Run](https://open.spotify.com/album/62te8mLl9wITyzuyOAalut) | 3:55 | 2022-03-31 | 2022-04-09 |
 | [Oasis](https://open.spotify.com/track/1AnnFOJdf5zFPup7VoXRbn) | [kimminseong](https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq) | [The Human Condition](https://open.spotify.com/album/3HBvQMuv6pS21E2Tz6R6by) | 3:59 | 2026-04-01 | 2026-04-10 |
-| [Oasis](https://open.spotify.com/track/0bxtHyBu4hJMk2irUkQFpQ) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [Oasis](https://open.spotify.com/album/6PklPzH8lEZIRvRsP8xg3H) | 4:47 | 2026-03-03 |  |
+| [Oasis](https://open.spotify.com/track/0bxtHyBu4hJMk2irUkQFpQ) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [Oasis](https://open.spotify.com/album/6PklPzH8lEZIRvRsP8xg3H) | 4:47 | 2026-03-03 | 2026-04-23 |
 | [October](https://open.spotify.com/track/2sA8WPQSXlYWujfojCgtWV) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [October](https://open.spotify.com/album/6tb3F5jPWvBPjjRMBbdyjW) | 3:54 | 2024-11-06 | 2024-12-20 |
 | [Oh my darling, you](https://open.spotify.com/track/1bnxyxbTnr8B88Nto0jf34) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Moments That Stayed](https://open.spotify.com/album/2AUS9zCDCkYdlHvHV94AVa) | 3:38 | 2026-03-03 |  |
 | [Oh! Summer night, Romantic Melodies](https://open.spotify.com/track/6MikG6rbwaFoUfoLaNo4uE) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Buscar Buscar](https://open.spotify.com/album/6p6LR7wxGB3Nsy2Bd0zAoe) | 2:35 | 2025-07-21 | 2025-07-23 |

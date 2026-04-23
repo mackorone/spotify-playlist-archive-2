@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 
 > Your escape to the world of chill Indian pop\. Cover \- Thoda Thoda Pyaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,200 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,347 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 | 21 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 |
 | 22 | [Maan Meri Jaan](https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:14 |
 | 23 | [Rang Lageya](https://open.spotify.com/track/7mSzDKajY2wUtstQSLdzMK) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Rang Lageya](https://open.spotify.com/album/3Gv6LmSvfxkUFmw8KCmUEr) | 3:47 |
-| 24 | [Brown Rang](https://open.spotify.com/track/3yRLROmAcKJBqTrdEczFB8) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [International Villager](https://open.spotify.com/album/1CQeKPICg50fn9bkhesH5S) | 3:31 |
+| 24 | [Brown Rang](https://open.spotify.com/track/3yRLROmAcKJBqTrdEczFB8) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [International Villager](https://open.spotify.com/album/1CQeKPICg50fn9bkhesH5S) | 2:59 |
 | 25 | [Bheegi Bheegi](https://open.spotify.com/track/3KYbbE5Yje5IcqJmNNbbkS) | [A\. R\. Ameen](https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Bheegi Bheegi](https://open.spotify.com/album/3gSamGzuaJypB6V9z6CvrX) | 3:39 |
 | 26 | [Charmer](https://open.spotify.com/track/1F2sn8iJA607Xfz1K3d9dJ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:55 |
 | 27 | [RAINA](https://open.spotify.com/track/3Hmfcqxxy8OCPhaLJT9QaQ) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [RAINA](https://open.spotify.com/album/75clQ7n29rQkzvGxrW1Btw) | 3:37 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 | 46 | [Maza Pyaar Karne Mein \(feat\. Kumar Sanu\)](https://open.spotify.com/track/3ndIeDXqi9MDgxu0HuSBg7) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Raja Hindustani](https://open.spotify.com/album/6xUlvwWAmelBN0VLU4KYGd) | 3:32 |
 | 47 | [Tu Hai](https://open.spotify.com/track/2fsBaSK1551VvUD9Uvbb9Q) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Tu Hai](https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY) | 2:44 |
 | 48 | [Tu Ru Ruu](https://open.spotify.com/track/3y7WECxvtou36AS4rhwgYO) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Tu Ru Ruu](https://open.spotify.com/album/036AwFKcee9b7rLriwBHPG) | 3:05 |
-| 49 | [Kya Bataun Tujhe](https://open.spotify.com/track/7wg6IOI3dapIER6r1Sz5eS) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Pagalpan \- The Album](https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO) | 4:30 |
-| 50 | [Milenge Hum Nahi](https://open.spotify.com/track/213ylixMhUkUEQaTJnT6fc) | [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Milenge Hum Nahi](https://open.spotify.com/album/46WiNmrfHH0Xu1uKG83s0K) | 3:29 |
+| 49 | [Milenge Hum Nahi](https://open.spotify.com/track/213ylixMhUkUEQaTJnT6fc) | [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Milenge Hum Nahi](https://open.spotify.com/album/46WiNmrfHH0Xu1uKG83s0K) | 3:29 |
+| 50 | [Kya Bataun Tujhe](https://open.spotify.com/track/7wg6IOI3dapIER6r1Sz5eS) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Pagalpan \- The Album](https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO) | 4:30 |
 
 Snapshot ID: `AAAAAD4TUtOp+8WLLGle7AOiPDukANXX`

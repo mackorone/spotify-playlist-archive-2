@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Nimrat Khaira
 
-275 songs - 13 hr 50 min
+276 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Chakk Dan Gey](https://open.spotify.com/track/04OwlVqkEpJXiBKyPmTCOR) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Chakk Dan Gey](https://open.spotify.com/album/2L7tRROA8UKC09b0VlAYR3) | 2:24 | 2025-01-20 | 2025-09-13 |
 | [Challa](https://open.spotify.com/track/1JDGbbo7p8vTn9telazxNG) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Challa](https://open.spotify.com/album/4vrY5oQa2qYcA21IBPKNlz) | 4:46 | 2024-12-03 | 2026-01-15 |
 | [Chandigarh Ka Chokra](https://open.spotify.com/track/0n2LpEAixGBWK8mwUSGtGb) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Chandigarh Ka Chokra](https://open.spotify.com/album/3VWQigEYk4sOaiLNileTP4) | 2:24 | 2023-11-17 |  |
-| [Changa Hunda](https://open.spotify.com/track/6L3ezy8fhDzOuTckbv0W01) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Gold Boy](https://open.spotify.com/artist/6TyygtEKx5VVlq0Elbi0KV), [Samandeep Singh](https://open.spotify.com/artist/4NMW9sct0kNjRP7yIbOWoH) | [Changa Hunda](https://open.spotify.com/album/7oiUE7dp0vjyEiNF5NzSLQ) | 3:25 | 2026-04-01 |  |
+| [Changa Hunda](https://open.spotify.com/track/6L3ezy8fhDzOuTckbv0W01) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Gold Boy](https://open.spotify.com/artist/6TyygtEKx5VVlq0Elbi0KV), [Samandeep Singh](https://open.spotify.com/artist/4NMW9sct0kNjRP7yIbOWoH) | [Changa Hunda](https://open.spotify.com/album/7oiUE7dp0vjyEiNF5NzSLQ) | 3:25 | 2026-04-01 | 2026-04-23 |
 | [Chann Diggeya Ve](https://open.spotify.com/track/6OnQeuKgLWYTpHve6PGkC0) | [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Chann Diggeya Ve](https://open.spotify.com/album/2r7IPJkMgpCLrYyFEVCg6o) | 3:12 | 2025-09-16 | 2025-10-15 |
 | [Chitte Kurte Waleya](https://open.spotify.com/track/0RXKcVTby7pYusTm2t3rE5) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Chitte Kurte Waleya](https://open.spotify.com/album/1ZNDNUpjtB0LcDPbOUdP9U) | 3:02 | 2026-02-06 | 2026-03-06 |
 | [Chori Chori](https://open.spotify.com/track/0XJxjocvgG75ixFM66qxuv) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chori Chori](https://open.spotify.com/album/1kBvmOFJyTfZTg4cfGHSUS) | 2:51 | 2023-03-18 | 2024-12-23 |
@@ -136,6 +136,7 @@
 | [Kinna Pyar Karan](https://open.spotify.com/track/5k1zCA31FEQ62FrnV9RHIW) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Kinna Pyar Karan](https://open.spotify.com/album/3k1InutqRcvVcBmwOiX58d) | 3:07 | 2024-04-24 | 2024-09-29 |
 | [Kismat](https://open.spotify.com/track/23Om54rdyag2vKlK4pz07f) | [Sona Walia](https://open.spotify.com/artist/5oskGmORhLpWRv2jcZiVkX) | [Kismat](https://open.spotify.com/album/0o5lFAGhdz8lml9kqGqdoF) | 3:56 | 2024-10-01 | 2024-10-22 |
 | [Koka](https://open.spotify.com/track/5icw6LkuZbIJlYE6P4yALG) | [Sarika Gill](https://open.spotify.com/artist/2gzKmku9ZYUmTrqgWeMDVc), [Flame Music](https://open.spotify.com/artist/685liAZg6uWsPa8Fgqx6Aa), [Raana](https://open.spotify.com/artist/7w7LFAUtY9IXgELoHjeCqG) | [Koka](https://open.spotify.com/album/5Qn9dQPkdB9bf1fXci7ERs) | 3:46 | 2024-09-28 | 2024-11-06 |
+| [Kukdu Ku \(From "Jawaak"\)](https://open.spotify.com/track/1CqohnGO7yQTEYDkAmrCKF) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Gurmoh](https://open.spotify.com/artist/3mgciNhvc5PbGOjbmfcU2s), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Kukdu Ku \(From "Jawaak"\)](https://open.spotify.com/album/4Q1t2YGhPTnQxg0uXIsw4m) | 3:02 | 2026-04-22 |  |
 | [Kuwait Wala Koka](https://open.spotify.com/track/6rqCGWzwW10e370MIA4lWW) | [Gurman Sandhu](https://open.spotify.com/artist/5ugj60Brzgzl1h08AjGlKN), [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Kuwait Wala Koka](https://open.spotify.com/album/5Gst6VK89e4LeTHOT0CvAQ) | 2:49 | 2023-03-18 | 2024-09-12 |
 | [La La La](https://open.spotify.com/track/6dMm31vV30QYSLwpcTPznv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8) | [La La La](https://open.spotify.com/album/4HLctn0Rgefl2sMIYF0XUU) | 2:41 | 2023-03-18 | 2024-08-28 |
 | [Laagdaat](https://open.spotify.com/track/1EukMacxrj0ParRdjL387n) | [Harpi Gill](https://open.spotify.com/artist/2IAVxMMu1NjwNSLZ7YrXWu) | [Laagdaat](https://open.spotify.com/album/6rmfWuXRaENIdwC2gfY4mu) | 2:50 | 2025-10-08 | 2025-11-06 |

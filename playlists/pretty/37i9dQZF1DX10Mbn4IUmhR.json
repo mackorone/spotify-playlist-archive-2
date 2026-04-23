@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Tyla & Zara Larsson",
-  "num_followers": 5837,
+  "num_followers": 5841,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-04-16 22:59:33",
       "album": {
+        "name": "Written",
+        "url": "https://open.spotify.com/album/6Tugfz5Byo1qKuQjdVOHhp"
+      },
+      "artists": [
+        {
+          "name": "GhostwriterMel",
+          "url": "https://open.spotify.com/artist/7BXatN3mB4rAllCGNGNqDD"
+        }
+      ],
+      "duration_ms": 193985,
+      "name": "Written",
+      "url": "https://open.spotify.com/track/1G8iJbYCHs5GmUqdCy0vh4"
+    },
+    {
+      "added_at": "2026-04-16 22:59:33",
+      "album": {
         "name": "Give It To Me",
         "url": "https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 148800,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8"
-    },
-    {
-      "added_at": "2026-04-16 22:59:33",
-      "album": {
-        "name": "Written",
-        "url": "https://open.spotify.com/album/6Tugfz5Byo1qKuQjdVOHhp"
-      },
-      "artists": [
-        {
-          "name": "GhostwriterMel",
-          "url": "https://open.spotify.com/artist/7BXatN3mB4rAllCGNGNqDD"
-        }
-      ],
-      "duration_ms": 193985,
-      "name": "Written",
-      "url": "https://open.spotify.com/track/1G8iJbYCHs5GmUqdCy0vh4"
     },
     {
       "added_at": "2026-04-16 22:59:33",

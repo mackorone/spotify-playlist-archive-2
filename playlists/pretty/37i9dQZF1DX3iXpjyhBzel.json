@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isaias Saad, Julliany Souza, L\u00e9o Brand\u00e3o",
-  "num_followers": 1214920,
+  "num_followers": 1214987,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,26 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
+        "name": "Meia Noite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0jRjSI7vj4r16D1HeePfIa"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "Caio Freitas",
+          "url": "https://open.spotify.com/artist/7ffCL7plBaDkeHkQyLjz59"
+        }
+      ],
+      "duration_ms": 445560,
+      "name": "Sublime - Ao Vivo",
+      "url": "https://open.spotify.com/track/0PEkKjD8bgssfDbKUzKQ21"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
         "name": "Clamo Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 437426,
       "name": "Clamo Jesus - Ao Vivo",
       "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
-        "name": "Meia Noite (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0jRjSI7vj4r16D1HeePfIa"
-      },
-      "artists": [
-        {
-          "name": "fhop music",
-          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
-        },
-        {
-          "name": "Caio Freitas",
-          "url": "https://open.spotify.com/artist/7ffCL7plBaDkeHkQyLjz59"
-        }
-      ],
-      "duration_ms": 445560,
-      "name": "Sublime - Ao Vivo",
-      "url": "https://open.spotify.com/track/0PEkKjD8bgssfDbKUzKQ21"
     },
     {
       "added_at": "2026-04-03 03:01:52",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
-        "name": "Em Todas As \u00c1reas (Milagres)",
-        "url": "https://open.spotify.com/album/3WzDtNKZhRwa5MsIxypB6y"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 297313,
-      "name": "Em Todas As \u00c1reas (Milagres)",
-      "url": "https://open.spotify.com/track/5oqnLlkjFuXzz1xe6Aj8dT"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
         "name": "Reacende a Chama (Ao Vivo)",
         "url": "https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 477994,
       "name": "Reacende a Chama - Ao Vivo",
       "url": "https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
+        "name": "Em Todas As \u00c1reas (Milagres)",
+        "url": "https://open.spotify.com/album/3WzDtNKZhRwa5MsIxypB6y"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 297313,
+      "name": "Em Todas As \u00c1reas (Milagres)",
+      "url": "https://open.spotify.com/track/5oqnLlkjFuXzz1xe6Aj8dT"
     },
     {
       "added_at": "2026-04-03 03:01:52",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
-        "name": "Tudo \u00c9 Perda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2l9zvPbm9i9RHzlX6plTcd"
-      },
-      "artists": [
-        {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        }
-      ],
-      "duration_ms": 518094,
-      "name": "Tudo \u00c9 Perda - Ao Vivo",
-      "url": "https://open.spotify.com/track/46w8kyLAUvD5fUGPLfXXH2"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
         "name": "Deus Est\u00e1 Aqui (Medley)",
         "url": "https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 682941,
       "name": "A Maior Honra - Ao Vivo",
       "url": "https://open.spotify.com/track/1C9gcXH4aJVwz7dr4JNnOG"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
+        "name": "Tudo \u00c9 Perda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2l9zvPbm9i9RHzlX6plTcd"
+      },
+      "artists": [
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        }
+      ],
+      "duration_ms": 518094,
+      "name": "Tudo \u00c9 Perda - Ao Vivo",
+      "url": "https://open.spotify.com/track/46w8kyLAUvD5fUGPLfXXH2"
     },
     {
       "added_at": "2026-04-03 03:01:52",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/1OZP7A6bb4HPNXLwhmVNfj"
-      },
-      "artists": [
-        {
-          "name": "Jeyzer Maia",
-          "url": "https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh"
-        }
-      ],
-      "duration_ms": 273734,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/6z5hadHglLMtp2sf8L8Or9"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
         "name": "Tu \u00c9s Deus (A Ele) [Ao Vivo]",
         "url": "https://open.spotify.com/album/6rUW1OFCdCmX7gfmhCokIR"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 531193,
       "name": "Cristo + Tudo \u00c9 Teu - Ao Vivo no Jesus Vida Ver\u00e3o",
       "url": "https://open.spotify.com/track/3aAk05LYyipr9PaHUp9ZDW"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/1OZP7A6bb4HPNXLwhmVNfj"
+      },
+      "artists": [
+        {
+          "name": "Jeyzer Maia",
+          "url": "https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh"
+        }
+      ],
+      "duration_ms": 273734,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/6z5hadHglLMtp2sf8L8Or9"
     },
     {
       "added_at": "2026-04-03 03:01:52",
@@ -887,26 +887,6 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
-        "name": "Meu Amigo",
-        "url": "https://open.spotify.com/album/4Tmh71KgXFnMlble0QwgJY"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Meu Amigo",
-      "url": "https://open.spotify.com/track/1Y26XpiffIFDpF4uob5lj7"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
         "name": "Tantos Mares (Ao Vivo)",
         "url": "https://open.spotify.com/album/5qpIR86WhNYZzkwNo56x1P"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 283406,
       "name": "Tantos Mares - Ao Vivo",
       "url": "https://open.spotify.com/track/7FOPTUmEJ3ByYW9ag9cZJ3"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
+        "name": "Meu Amigo",
+        "url": "https://open.spotify.com/album/4Tmh71KgXFnMlble0QwgJY"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Meu Amigo",
+      "url": "https://open.spotify.com/track/1Y26XpiffIFDpF4uob5lj7"
     },
     {
       "added_at": "2026-04-03 03:01:52",
@@ -1235,34 +1235,6 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
-        "name": "O Grande Banquete",
-        "url": "https://open.spotify.com/album/1q6vwW5Cz3X9UdQW6BZwBw"
-      },
-      "artists": [
-        {
-          "name": "Marco Telles",
-          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
-        },
-        {
-          "name": "Coletivo Candiero",
-          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
-        },
-        {
-          "name": "Filipe da Guia",
-          "url": "https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a"
-        },
-        {
-          "name": "Ana Heloysa",
-          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
-        }
-      ],
-      "duration_ms": 315943,
-      "name": "Au\u00ea (A F\u00e9 Ganhou)",
-      "url": "https://open.spotify.com/track/50W1rtz1xOmrqbL0HPg7Ro"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
         "name": "Avenida do Arrependimento",
         "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
       },
@@ -1291,6 +1263,34 @@
       "duration_ms": 431470,
       "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
       "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
+        "name": "O Grande Banquete",
+        "url": "https://open.spotify.com/album/1q6vwW5Cz3X9UdQW6BZwBw"
+      },
+      "artists": [
+        {
+          "name": "Marco Telles",
+          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        },
+        {
+          "name": "Filipe da Guia",
+          "url": "https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a"
+        },
+        {
+          "name": "Ana Heloysa",
+          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
+        }
+      ],
+      "duration_ms": 315943,
+      "name": "Au\u00ea (A F\u00e9 Ganhou)",
+      "url": "https://open.spotify.com/track/50W1rtz1xOmrqbL0HPg7Ro"
     },
     {
       "added_at": "2026-04-03 03:01:52",

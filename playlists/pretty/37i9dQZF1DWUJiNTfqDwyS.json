@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 391334,
+  "num_followers": 391360,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-03-20 16:45:24",
       "album": {
+        "name": "Obsolete (Special Edition)",
+        "url": "https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "Cars - Remix",
+      "url": "https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78"
+    },
+    {
+      "added_at": "2026-03-20 16:45:24",
+      "album": {
         "name": "How It's Done",
         "url": "https://open.spotify.com/album/64ubOftES7s24r5sMpraAb"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 174374,
       "name": "How It's Done",
       "url": "https://open.spotify.com/track/5IXGxvewBsrfHtfym01YfL"
-    },
-    {
-      "added_at": "2026-03-20 16:45:24",
-      "album": {
-        "name": "Obsolete (Special Edition)",
-        "url": "https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "Cars - Remix",
-      "url": "https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78"
     },
     {
       "added_at": "2026-03-20 16:45:24",
@@ -827,18 +827,18 @@
     {
       "added_at": "2026-03-20 16:45:24",
       "album": {
-        "name": "Under C\u00f6ver",
-        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
+        "name": "Live And Inspired",
+        "url": "https://open.spotify.com/album/4KvZhLes9MpE8IUZKhxiRF"
       },
       "artists": [
         {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
         }
       ],
-      "duration_ms": 260720,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c"
+      "duration_ms": 226800,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/5rhcVBkHb1G6dVPkP1FupN"
     }
   ],
   "unique_name": "Metal Covers",

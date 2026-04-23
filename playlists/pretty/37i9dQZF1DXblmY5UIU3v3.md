@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,727 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,794 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 11 | [Get Low](https://open.spotify.com/track/6o2FQGObDH7kCpYlvJH2ai) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o) | [Get Low](https://open.spotify.com/album/7vjky38QfkVvkXF1ueWyZT) | 3:41 |
 | 12 | [Just A Lil Bit](https://open.spotify.com/track/6Wwi5V7VAR9KOo8c9gksh1) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv), [Flyn Stoned](https://open.spotify.com/artist/0O7upj4KBKaTdQJ6WM0m9k) | [Just A Lil Bit](https://open.spotify.com/album/4XjtQUIBZEkOiGLXbUwEoe) | 2:08 |
 | 13 | [Die Slow](https://open.spotify.com/track/5N3miUm4C10nb8CXEFfmLZ) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z), [Voyage](https://open.spotify.com/artist/3Ruev6M4tYJtGSInO2xkSt) | [Die Slow](https://open.spotify.com/album/1c9f0oKHV367vgBypmYQoV) | 2:22 |
-| 14 | [BAD OMENS](https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [BAD OMENS](https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0) | 2:27 |
-| 15 | [The Motto](https://open.spotify.com/track/5r6axyEqpdxog8T8u6gm5D) | [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Newroad](https://open.spotify.com/artist/7fMVmvW8MFpSAeJBHAbyf9), [DVNAIR](https://open.spotify.com/artist/61A7lqEfBx8ghvKGtzWqWU), [Snoblack](https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX) | [The Motto](https://open.spotify.com/album/4HoTfH5ggbjjTSH8rP7eHQ) | 2:54 |
+| 14 | [The Motto](https://open.spotify.com/track/5r6axyEqpdxog8T8u6gm5D) | [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Newroad](https://open.spotify.com/artist/7fMVmvW8MFpSAeJBHAbyf9), [DVNAIR](https://open.spotify.com/artist/61A7lqEfBx8ghvKGtzWqWU), [Snoblack](https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX) | [The Motto](https://open.spotify.com/album/4HoTfH5ggbjjTSH8rP7eHQ) | 2:54 |
+| 15 | [BAD OMENS](https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [BAD OMENS](https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0) | 2:27 |
 | 16 | [Magic Violin](https://open.spotify.com/track/1VlHp8KvN31LdtDC9orfyV) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [Magic Violin](https://open.spotify.com/album/6oRdtpTdhRpyAZQlQGNCMB) | 2:16 |
 | 17 | [Get Low](https://open.spotify.com/track/5KFBAzmzTkacQj5Qt02AAb) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Junior Charles](https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO) | [Get Low](https://open.spotify.com/album/4bmkg3DOj8rdX6OzmWfmLE) | 2:26 |
 | 18 | [Gangsta's Paradise](https://open.spotify.com/track/0LrL7mzCA0iOYGKl12OxvF) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Gangsta's Paradise](https://open.spotify.com/album/38FYUgLqzuJH0gUUpy29zx) | 3:17 |

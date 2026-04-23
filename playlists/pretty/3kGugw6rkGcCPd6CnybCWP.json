@@ -1,12 +1,12 @@
 {
   "description": "Celebrating individuality within independent music",
-  "num_followers": 1170,
+  "num_followers": 1171,
   "original_name": "INDI(E)VIDUAL",
   "owner": {
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAOlBxKDPgH32Dd0+upSn+EaFOr0Cwm",
+  "snapshot_id": "AAAOlumA2mnWocmSYXw3ZCvIPXx/IBQW",
   "tracks": [
     {
       "added_at": "2026-04-15 23:19:40",
@@ -1235,6 +1235,38 @@
       "duration_ms": 102346,
       "name": "INVITE ONLY",
       "url": "https://open.spotify.com/track/01GXPg6mBgZndeB0R5pxZj"
+    },
+    {
+      "added_at": "2026-04-22 15:51:52",
+      "album": {
+        "name": "Freakuency",
+        "url": "https://open.spotify.com/album/5fTRffrRAXmip1mUb0r2Aw"
+      },
+      "artists": [
+        {
+          "name": "eyrin",
+          "url": "https://open.spotify.com/artist/4pj5GKqMmzVNKsJHEgmiQb"
+        }
+      ],
+      "duration_ms": 265565,
+      "name": "Freakuency",
+      "url": "https://open.spotify.com/track/6L5zC9NF2GgTXtlV9lyQaN"
+    },
+    {
+      "added_at": "2026-04-22 15:52:17",
+      "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lutter",
+          "url": "https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b"
+        }
+      ],
+      "duration_ms": 183879,
+      "name": "Sticks and Mud",
+      "url": "https://open.spotify.com/track/0pOUxLuxxUMWDV6DUUxprJ"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

@@ -5,24 +5,6 @@
   "tracks": [
     {
       "album": {
-        "name": "The Dock of the Bay (Mono)",
-        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "date_added": "2022-04-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163755,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
-    },
-    {
-      "album": {
         "name": "Wedding Songs",
         "url": "https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS"
       },
@@ -38,6 +20,24 @@
       "duration_ms": 163755,
       "name": "(Sittin' On) The Dock of the Bay",
       "url": "https://open.spotify.com/track/46TZ4M361E7cGxqZZNqfUP"
+    },
+    {
+      "album": {
+        "name": "The Dock of the Bay (Mono)",
+        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163755,
+      "name": "(Sittin' On) the Dock of the Bay - Mono",
+      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 505555,
+  "num_followers": 505569,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Um Dia Inteiro",
-        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
-      },
-      "artists": [
-        {
-          "name": "DUX",
-          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
-        },
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Um Dia Inteiro",
-      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "It's Your Life",
         "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 160909,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Um Dia Inteiro",
+        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
+      },
+      "artists": [
+        {
+          "name": "DUX",
+          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
+        },
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Um Dia Inteiro",
+      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -727,30 +727,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "No Embalo da Vila (Club Mix)",
-        "url": "https://open.spotify.com/album/1WBxcalV2JHKZCFsFh3ruq"
-      },
-      "artists": [
-        {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "Mozambo",
-          "url": "https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 241935,
-      "name": "No Embalo da Vila - Club Mix",
-      "url": "https://open.spotify.com/track/3k1isZWtIca9Opntaspwpo"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 160429,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "No Embalo da Vila (Club Mix)",
+        "url": "https://open.spotify.com/album/1WBxcalV2JHKZCFsFh3ruq"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Mozambo",
+          "url": "https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 241935,
+      "name": "No Embalo da Vila - Club Mix",
+      "url": "https://open.spotify.com/track/3k1isZWtIca9Opntaspwpo"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -859,6 +859,26 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
         "name": "E Depois (Que Sorte A Minha)",
         "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
       },
@@ -883,22 +903,22 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
       },
       "artists": [
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
         }
       ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -923,26 +943,6 @@
       "duration_ms": 194905,
       "name": "Carla - Remix",
       "url": "https://open.spotify.com/track/4P4e4EyMLqYq2XACkIhMny"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
+        "name": "Low (feat. Victor Perry)",
+        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Victor Perry",
+          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
+        }
+      ],
+      "duration_ms": 145952,
+      "name": "Low (feat. Victor Perry)",
+      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
         "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
         "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 158824,
       "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
       "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
-        "name": "Low (feat. Victor Perry)",
-        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Victor Perry",
-          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Low (feat. Victor Perry)",
-      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
     },
     {
       "added_at": "2026-02-13 15:25:57",

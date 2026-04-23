@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Minister GUC
 
-748 songs - 2 day 17 hr 32 min
+749 songs - 2 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,7 +547,7 @@
 | [Prayer](https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Prayer](https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU) | 3:54 | 2024-10-25 | 2025-07-04 |
 | [Prayer](https://open.spotify.com/track/6kESTNY3rhbE5yDFQJ0kEh) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Prayer](https://open.spotify.com/album/6RsJ8zdUYTTUZ2OVavjxpb) | 2:26 | 2025-06-13 | 2025-07-04 |
 | [Prepare the Way](https://open.spotify.com/track/7uW9MM84wg65ODHwMTL5Fc) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Prepare the Way](https://open.spotify.com/album/3DZGhQN7bHZeQ62egNvQST) | 2:27 | 2025-06-27 | 2025-07-04 |
-| [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 | 2023-06-09 |  |
+| [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 | 2023-06-09 | 2026-04-23 |
 | [Promise Keeper](https://open.spotify.com/track/24DLQbUsCuHfQ6QeAy3aQX) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Promise Keeper](https://open.spotify.com/album/1LzQO3qndwCYQ5SwvBkc2U) | 8:30 | 2025-05-09 | 2025-07-14 |
 | [Promises](https://open.spotify.com/track/0oKhLmoWD4qnlbSeqvGVmq) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Good News \(feat\. Todd Galberth\)](https://open.spotify.com/album/7wXs3tGbYj2qzaLLT26DgB) | 9:06 | 2024-12-31 | 2025-01-07 |
 | [Prophetic Chant \(Live\)](https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Apostolos \(Sounds of Transition\)](https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv) | 6:22 | 2023-02-20 | 2025-05-31 |
@@ -558,6 +558,7 @@
 | [Quiet On Me](https://open.spotify.com/track/3QmlGetwC8PkRcwDpvJA6c) | [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [Quiet On Me](https://open.spotify.com/album/7leyfRlekvo4RyP6sbJQhq) | 2:16 | 2026-03-27 | 2026-04-03 |
 | [Radical](https://open.spotify.com/track/73x1RKOULcFwHI4fXEVJPu) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Radical](https://open.spotify.com/album/1qH7PKSm7heJPJVtl89bIc) | 2:40 | 2025-06-27 | 2025-07-04 |
 | [Rahama \(Live\)](https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rahama \(Live\)](https://open.spotify.com/album/3KZjGboiC4GMKw7mo2opPI) | 9:56 | 2024-12-31 | 2025-01-07 |
+| [Ranmilowo \(Help me\)](https://open.spotify.com/track/5sPaqTbtkx7Jt2TJ8ODJF9) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI) | [Ranmilowo \(Help me\)](https://open.spotify.com/album/2gHd3qqLd7Kh19vk4MtIeM) | 2:53 | 2026-04-10 |  |
 | [RARA O](https://open.spotify.com/track/6sI3DBcGZCP3pXgxlpLHeL) | [Mr\. TEA](https://open.spotify.com/artist/7pB2W4UzaQB84YnhpEzeG7), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [RARA O](https://open.spotify.com/album/4Os77rt3KOOMyxH38Mv0nB) | 3:04 | 2026-03-27 | 2026-04-03 |
 | [Ready](https://open.spotify.com/track/5xTDvjETI0M1xpqTtNqffo) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r) | [Ready](https://open.spotify.com/album/2cbzL66lCOQqfizLgD9plV) | 2:11 | 2025-05-16 | 2025-05-23 |
 | [Reckless Lover](https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Reckless Lover](https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB) | 8:57 | 2026-03-13 |  |

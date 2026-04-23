@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Sepultura",
-  "num_followers": 1407036,
+  "num_followers": 1407092,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "To The Last Breath",
-        "url": "https://open.spotify.com/album/0vfQRlSzj8vJjdl4Kxhmf6"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 297920,
-      "name": "To The Last Breath",
-      "url": "https://open.spotify.com/track/6eQkDPZCtGpJ0rIYwIBNxN"
-    },
-    {
-      "added_at": "2026-02-27 05:00:53",
-      "album": {
         "name": "War Pigs (Charity Version)",
         "url": "https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 484779,
       "name": "War Pigs - Charity Version",
       "url": "https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q"
+    },
+    {
+      "added_at": "2026-02-27 05:00:53",
+      "album": {
+        "name": "To The Last Breath",
+        "url": "https://open.spotify.com/album/0vfQRlSzj8vJjdl4Kxhmf6"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 297920,
+      "name": "To The Last Breath",
+      "url": "https://open.spotify.com/track/6eQkDPZCtGpJ0rIYwIBNxN"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "Tsunami Sea",
-        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "No Loss, No Love",
-      "url": "https://open.spotify.com/track/2wwxE7Ww8UfcDtXCiLlnsB"
-    },
-    {
-      "added_at": "2026-02-27 05:00:53",
-      "album": {
         "name": "The Black",
         "url": "https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 247599,
       "name": "Desolation",
       "url": "https://open.spotify.com/track/5uyD7zoJKzukGNFxZ1jPpM"
+    },
+    {
+      "added_at": "2026-02-27 05:00:53",
+      "album": {
+        "name": "Tsunami Sea",
+        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "No Loss, No Love",
+      "url": "https://open.spotify.com/track/2wwxE7Ww8UfcDtXCiLlnsB"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "Parasocial Christ",
-        "url": "https://open.spotify.com/album/66PcSynAzKA0YtIU7Drb9x"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 200963,
-      "name": "Parasocial Christ",
-      "url": "https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i"
-    },
-    {
-      "added_at": "2026-02-27 05:00:53",
-      "album": {
         "name": "Urban Discipline",
         "url": "https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws"
       },
@@ -1691,6 +1675,22 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
+        "name": "Parasocial Christ",
+        "url": "https://open.spotify.com/album/66PcSynAzKA0YtIU7Drb9x"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 200963,
+      "name": "Parasocial Christ",
+      "url": "https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i"
+    },
+    {
+      "added_at": "2026-02-27 05:00:53",
+      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
@@ -1703,6 +1703,22 @@
       "duration_ms": 330453,
       "name": "Screaming Suicide",
       "url": "https://open.spotify.com/track/2zSb2Db4kNYH5qIs5V3BgG"
+    },
+    {
+      "added_at": "2026-02-27 05:00:53",
+      "album": {
+        "name": "The Forgotten",
+        "url": "https://open.spotify.com/album/0jIKQkG06Op47HFg6slCS1"
+      },
+      "artists": [
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        }
+      ],
+      "duration_ms": 362500,
+      "name": "While We Serve",
+      "url": "https://open.spotify.com/track/3LmcjJ7e4tlRqwYs2VNRq0"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -1727,6 +1743,22 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
+        "name": "Sleepless Empire",
+        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "I Wish You Were Dead",
+      "url": "https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST"
+    },
+    {
+      "added_at": "2026-02-27 05:00:53",
+      "album": {
         "name": "State Of Unrest",
         "url": "https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB"
       },
@@ -1743,38 +1775,6 @@
       "duration_ms": 187894,
       "name": "State Of Unrest",
       "url": "https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT"
-    },
-    {
-      "added_at": "2026-02-27 05:00:53",
-      "album": {
-        "name": "The Forgotten",
-        "url": "https://open.spotify.com/album/0jIKQkG06Op47HFg6slCS1"
-      },
-      "artists": [
-        {
-          "name": "Orbit Culture",
-          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
-        }
-      ],
-      "duration_ms": 362500,
-      "name": "While We Serve",
-      "url": "https://open.spotify.com/track/3LmcjJ7e4tlRqwYs2VNRq0"
-    },
-    {
-      "added_at": "2026-02-27 05:00:53",
-      "album": {
-        "name": "Sleepless Empire",
-        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "I Wish You Were Dead",
-      "url": "https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "Sepsis",
-        "url": "https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Sepsis",
-      "url": "https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00"
-    },
-    {
-      "added_at": "2026-02-27 05:00:53",
-      "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 189915,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
+    },
+    {
+      "added_at": "2026-02-27 05:00:53",
+      "album": {
+        "name": "Sepsis",
+        "url": "https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Sepsis",
+      "url": "https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "The Trooper",
-        "url": "https://open.spotify.com/album/6we9preGiPMKlAlHFWx4FH"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 251375,
-      "name": "The Trooper",
-      "url": "https://open.spotify.com/track/3X9TaoUaAgBCQ3G9DLCBOZ"
-    },
-    {
-      "added_at": "2026-02-27 05:00:53",
-      "album": {
         "name": "Blood Dynasty",
         "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 236746,
       "name": "Paper Tiger",
       "url": "https://open.spotify.com/track/7dNg8khl5uESWTskg2ddNX"
+    },
+    {
+      "added_at": "2026-02-27 05:00:53",
+      "album": {
+        "name": "The Trooper",
+        "url": "https://open.spotify.com/album/6we9preGiPMKlAlHFWx4FH"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 251375,
+      "name": "The Trooper",
+      "url": "https://open.spotify.com/track/3X9TaoUaAgBCQ3G9DLCBOZ"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -2311,38 +2311,6 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "Para Bellum",
-        "url": "https://open.spotify.com/album/0ea7kKW9urApKz2E5MIgPW"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/6zsJjey6gAb8wVo3Rx4DVt"
-    },
-    {
-      "added_at": "2026-02-27 05:00:53",
-      "album": {
-        "name": "The Real You",
-        "url": "https://open.spotify.com/album/6RVPnpptZoMHjubHk3VjBX"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 241480,
-      "name": "The Real You",
-      "url": "https://open.spotify.com/track/5ZeZSbuvupOAfm3zD73tp2"
-    },
-    {
-      "added_at": "2026-02-27 05:00:53",
-      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/3YCi2v3qZOVD8Ni6JlnPVu"
       },
@@ -2371,6 +2339,38 @@
       "duration_ms": 263560,
       "name": "I Don't Believe In Love - Remastered 2003",
       "url": "https://open.spotify.com/track/3p9GbXMy1f9Efhdfj0QNBG"
+    },
+    {
+      "added_at": "2026-02-27 05:00:53",
+      "album": {
+        "name": "The Real You",
+        "url": "https://open.spotify.com/album/6RVPnpptZoMHjubHk3VjBX"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 241480,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/5ZeZSbuvupOAfm3zD73tp2"
+    },
+    {
+      "added_at": "2026-02-27 05:00:53",
+      "album": {
+        "name": "Para Bellum",
+        "url": "https://open.spotify.com/album/0ea7kKW9urApKz2E5MIgPW"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 232693,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/6zsJjey6gAb8wVo3Rx4DVt"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "The Gallows",
-        "url": "https://open.spotify.com/album/2OanGtG5sW8esAhY25EMoH"
-      },
-      "artists": [
-        {
-          "name": "Black Label Society",
-          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
-        }
-      ],
-      "duration_ms": 230375,
-      "name": "The Gallows",
-      "url": "https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS"
-    },
-    {
-      "added_at": "2026-02-27 05:00:53",
-      "album": {
         "name": "Steelbound",
         "url": "https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry"
       },
@@ -2455,6 +2439,22 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
+        "name": "The Gallows",
+        "url": "https://open.spotify.com/album/2OanGtG5sW8esAhY25EMoH"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "duration_ms": 230375,
+      "name": "The Gallows",
+      "url": "https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS"
+    },
+    {
+      "added_at": "2026-02-27 05:00:53",
+      "album": {
         "name": "Divine",
         "url": "https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA"
       },
@@ -2467,26 +2467,6 @@
       "duration_ms": 219676,
       "name": "Divine",
       "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
-    },
-    {
-      "added_at": "2026-02-27 05:00:53",
-      "album": {
-        "name": "Tossing Coins Into The Fountain Of Fuck",
-        "url": "https://open.spotify.com/album/4lbvv35zFeSFL6ys1mgUom"
-      },
-      "artists": [
-        {
-          "name": "Melvins",
-          "url": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
-        },
-        {
-          "name": "Napalm Death",
-          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Tossing Coins Into The Fountain Of Fuck",
-      "url": "https://open.spotify.com/track/787GaXaF78bTvl7ijFf0gz"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -2539,18 +2519,22 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "Blood Dynasty (Expanded Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
+        "name": "Tossing Coins Into The Fountain Of Fuck",
+        "url": "https://open.spotify.com/album/4lbvv35zFeSFL6ys1mgUom"
       },
       "artists": [
         {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+          "name": "Melvins",
+          "url": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
+        },
+        {
+          "name": "Napalm Death",
+          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
         }
       ],
-      "duration_ms": 241300,
-      "name": "Moths",
-      "url": "https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz"
+      "duration_ms": 197573,
+      "name": "Tossing Coins Into The Fountain Of Fuck",
+      "url": "https://open.spotify.com/track/787GaXaF78bTvl7ijFf0gz"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -2571,34 +2555,18 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "Broken and Blind",
-        "url": "https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj"
+        "name": "Blood Dynasty (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
       },
       "artists": [
         {
-          "name": "Black Label Society",
-          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 192125,
-      "name": "Broken and Blind",
-      "url": "https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC"
-    },
-    {
-      "added_at": "2026-02-27 05:00:53",
-      "album": {
-        "name": "Slave Machine",
-        "url": "https://open.spotify.com/album/4dCDFxVCXddE7CCAO7RAEv"
-      },
-      "artists": [
-        {
-          "name": "Nervosa",
-          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
-        }
-      ],
-      "duration_ms": 233886,
-      "name": "Slave Machine",
-      "url": "https://open.spotify.com/track/5cyRVCVkVl4hU3HHF2yCVU"
+      "duration_ms": 241300,
+      "name": "Moths",
+      "url": "https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -2619,18 +2587,50 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "Gimme Some Moore",
-        "url": "https://open.spotify.com/album/5FSvHnlf6S0gb3JWKM2bro"
+        "name": "Slave Machine",
+        "url": "https://open.spotify.com/album/4dCDFxVCXddE7CCAO7RAEv"
       },
       "artists": [
         {
-          "name": "Corrosion Of Conformity\t",
-          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
+          "name": "Nervosa",
+          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
         }
       ],
-      "duration_ms": 240363,
-      "name": "Gimme Some Moore",
-      "url": "https://open.spotify.com/track/3dmMQXiPOIJM3chhBHHC5u"
+      "duration_ms": 233886,
+      "name": "Slave Machine",
+      "url": "https://open.spotify.com/track/5cyRVCVkVl4hU3HHF2yCVU"
+    },
+    {
+      "added_at": "2026-02-27 05:00:53",
+      "album": {
+        "name": "Broken and Blind",
+        "url": "https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "duration_ms": 192125,
+      "name": "Broken and Blind",
+      "url": "https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC"
+    },
+    {
+      "added_at": "2026-02-27 05:00:53",
+      "album": {
+        "name": "HOLLYWOOD SUICIDE",
+        "url": "https://open.spotify.com/album/6YFZoTSdDcMGv0ryhzB4Oy"
+      },
+      "artists": [
+        {
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        }
+      ],
+      "duration_ms": 235061,
+      "name": "HEAVY RAIN",
+      "url": "https://open.spotify.com/track/2aNOTGXCObY6U2zblqqWA9"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -2651,18 +2651,18 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "HOLLYWOOD SUICIDE",
-        "url": "https://open.spotify.com/album/6YFZoTSdDcMGv0ryhzB4Oy"
+        "name": "Gimme Some Moore",
+        "url": "https://open.spotify.com/album/5FSvHnlf6S0gb3JWKM2bro"
       },
       "artists": [
         {
-          "name": "GH\u00d8STKID",
-          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+          "name": "Corrosion Of Conformity\t",
+          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
         }
       ],
-      "duration_ms": 235061,
-      "name": "HEAVY RAIN",
-      "url": "https://open.spotify.com/track/2aNOTGXCObY6U2zblqqWA9"
+      "duration_ms": 240363,
+      "name": "Gimme Some Moore",
+      "url": "https://open.spotify.com/track/3dmMQXiPOIJM3chhBHHC5u"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "Cancelled",
-        "url": "https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Cancelled",
-      "url": "https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy"
-    },
-    {
-      "added_at": "2026-02-27 05:00:53",
-      "album": {
         "name": "The Cleansing",
         "url": "https://open.spotify.com/album/4ibZ4TjoERMmx7fsVVYnaO"
       },
@@ -2767,18 +2751,18 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "Game of Faces",
-        "url": "https://open.spotify.com/album/08AMSf5EM3u6mALyDL1vYU"
+        "name": "Cancelled",
+        "url": "https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK"
       },
       "artists": [
         {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 229880,
-      "name": "Fire to Fight",
-      "url": "https://open.spotify.com/track/2C3xLv8AjBRH0AiVg5rwLP"
+      "duration_ms": 287840,
+      "name": "Cancelled",
+      "url": "https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -2795,6 +2779,22 @@
       "duration_ms": 220426,
       "name": "House of Mirrors",
       "url": "https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR"
+    },
+    {
+      "added_at": "2026-02-27 05:00:53",
+      "album": {
+        "name": "Game of Faces",
+        "url": "https://open.spotify.com/album/08AMSf5EM3u6mALyDL1vYU"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Fire to Fight",
+      "url": "https://open.spotify.com/track/2C3xLv8AjBRH0AiVg5rwLP"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -2919,22 +2919,6 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "Witch Club Satan",
-        "url": "https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp"
-      },
-      "artists": [
-        {
-          "name": "Witch Club Satan",
-          "url": "https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Fresh Blood, Fresh Pussy",
-      "url": "https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p"
-    },
-    {
-      "added_at": "2026-02-27 05:00:53",
-      "album": {
         "name": "The Hunter (Deluxe)",
         "url": "https://open.spotify.com/album/7lObP1GanG65wToWzufQtq"
       },
@@ -2951,18 +2935,18 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "Where the Light Leaves",
-        "url": "https://open.spotify.com/album/34FAgzBCmGWThMi1NVbAAh"
+        "name": "Witch Club Satan",
+        "url": "https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp"
       },
       "artists": [
         {
-          "name": "Varials",
-          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+          "name": "Witch Club Satan",
+          "url": "https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy"
         }
       ],
-      "duration_ms": 118656,
-      "name": "Where the Light Leaves",
-      "url": "https://open.spotify.com/track/43W0zKZU9R962HlGGoHNLY"
+      "duration_ms": 215786,
+      "name": "Fresh Blood, Fresh Pussy",
+      "url": "https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -2999,22 +2983,18 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "Goliath (feat. Katie Jacoby)",
-        "url": "https://open.spotify.com/album/1Y1mWkswMnIQatDOynEmsf"
+        "name": "Where the Light Leaves",
+        "url": "https://open.spotify.com/album/34FAgzBCmGWThMi1NVbAAh"
       },
       "artists": [
         {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        },
-        {
-          "name": "Katie Jacoby",
-          "url": "https://open.spotify.com/artist/4OcRlZ5unLd0Im4qzLkuhy"
+          "name": "Varials",
+          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
         }
       ],
-      "duration_ms": 304869,
-      "name": "Goliath (feat. Katie Jacoby)",
-      "url": "https://open.spotify.com/track/5ksyuDSahIOlfV1Nk7vIOU"
+      "duration_ms": 118656,
+      "name": "Where the Light Leaves",
+      "url": "https://open.spotify.com/track/43W0zKZU9R962HlGGoHNLY"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -3083,22 +3063,22 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "Dig Down",
-        "url": "https://open.spotify.com/album/2z8hF5SRXcYzan5kUjZGtL"
+        "name": "Goliath (feat. Katie Jacoby)",
+        "url": "https://open.spotify.com/album/1Y1mWkswMnIQatDOynEmsf"
       },
       "artists": [
         {
-          "name": "ANGUS McSIX",
-          "url": "https://open.spotify.com/artist/1NDBvJdsUcycpj4K8l0ooy"
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
         },
         {
-          "name": "Van Canto",
-          "url": "https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL"
+          "name": "Katie Jacoby",
+          "url": "https://open.spotify.com/artist/4OcRlZ5unLd0Im4qzLkuhy"
         }
       ],
-      "duration_ms": 289911,
-      "name": "Dig Down",
-      "url": "https://open.spotify.com/track/6umkxHRfCmU0eS85fNOfix"
+      "duration_ms": 304869,
+      "name": "Goliath (feat. Katie Jacoby)",
+      "url": "https://open.spotify.com/track/5ksyuDSahIOlfV1Nk7vIOU"
     },
     {
       "added_at": "2026-02-27 05:00:53",
@@ -3119,6 +3099,22 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
+        "name": "Green Serpent",
+        "url": "https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9"
+      },
+      "artists": [
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Green Serpent",
+      "url": "https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg"
+    },
+    {
+      "added_at": "2026-02-27 05:00:53",
+      "album": {
         "name": "Someone Has to Pay",
         "url": "https://open.spotify.com/album/05On1IxfDvhu78R1jYw8Tm"
       },
@@ -3135,18 +3131,22 @@
     {
       "added_at": "2026-02-27 05:00:53",
       "album": {
-        "name": "Green Serpent",
-        "url": "https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9"
+        "name": "Dig Down",
+        "url": "https://open.spotify.com/album/2z8hF5SRXcYzan5kUjZGtL"
       },
       "artists": [
         {
-          "name": "Jinjer",
-          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+          "name": "ANGUS McSIX",
+          "url": "https://open.spotify.com/artist/1NDBvJdsUcycpj4K8l0ooy"
+        },
+        {
+          "name": "Van Canto",
+          "url": "https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL"
         }
       ],
-      "duration_ms": 241413,
-      "name": "Green Serpent",
-      "url": "https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg"
+      "duration_ms": 289911,
+      "name": "Dig Down",
+      "url": "https://open.spotify.com/track/6umkxHRfCmU0eS85fNOfix"
     },
     {
       "added_at": "2026-02-27 05:00:53",

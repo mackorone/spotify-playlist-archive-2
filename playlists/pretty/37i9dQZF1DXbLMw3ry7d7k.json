@@ -1,6 +1,6 @@
 {
   "description": "The latest and greatest! Revive los \u00e9xitos latinos de los \u00faltimos meses.",
-  "num_followers": 827337,
+  "num_followers": 827790,
   "original_name": "Latin Hit Mix",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-04-14 16:30:20",
       "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 226298,
+      "name": "LAS NOCHES",
+      "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
+    },
+    {
+      "added_at": "2026-04-14 16:30:20",
+      "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
-    },
-    {
-      "added_at": "2026-04-14 16:30:20",
-      "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 226298,
-      "name": "LAS NOCHES",
-      "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
     },
     {
       "added_at": "2026-04-14 16:30:20",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2026-04-14 16:30:20",
       "album": {
-        "name": "FAN\u00c1TICO",
-        "url": "https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "FAN\u00c1TICO",
-      "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
-    },
-    {
-      "added_at": "2026-04-14 16:30:20",
-      "album": {
         "name": "QUE HACES",
         "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 171813,
       "name": "QUE HACES",
       "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
+    },
+    {
+      "added_at": "2026-04-14 16:30:20",
+      "album": {
+        "name": "FAN\u00c1TICO",
+        "url": "https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "FAN\u00c1TICO",
+      "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
     },
     {
       "added_at": "2026-04-14 16:30:20",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2026-04-14 16:30:20",
       "album": {
-        "name": "MONSTRUO",
-        "url": "https://open.spotify.com/album/1zCc2EaQzif2IzspBCpwuG"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 213430,
-      "name": "MONSTRUO",
-      "url": "https://open.spotify.com/track/2ToF4unFUMMKGfu7KYhy1j"
-    },
-    {
-      "added_at": "2026-04-14 16:30:20",
-      "album": {
         "name": "ESTA ES TU CASA NENA",
         "url": "https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 209616,
       "name": "ESTA ES TU CASA NENA",
       "url": "https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge"
+    },
+    {
+      "added_at": "2026-04-14 16:30:20",
+      "album": {
+        "name": "MONSTRUO",
+        "url": "https://open.spotify.com/album/1zCc2EaQzif2IzspBCpwuG"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 213430,
+      "name": "MONSTRUO",
+      "url": "https://open.spotify.com/track/2ToF4unFUMMKGfu7KYhy1j"
     },
     {
       "added_at": "2026-04-14 16:30:20",
@@ -1863,22 +1863,18 @@
     {
       "added_at": "2026-04-14 16:30:20",
       "album": {
-        "name": "Y si peleamos",
-        "url": "https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY"
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
       },
       "artists": [
         {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Y si peleamos",
-      "url": "https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1"
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
       "added_at": "2026-04-14 16:30:20",
@@ -1899,18 +1895,22 @@
     {
       "added_at": "2026-04-14 16:30:20",
       "album": {
-        "name": "Quiero +",
-        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+        "name": "Y si peleamos",
+        "url": "https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 128487,
-      "name": "Quiero +",
-      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+      "duration_ms": 192000,
+      "name": "Y si peleamos",
+      "url": "https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1"
     }
   ],
   "unique_name": "Latin Hit Mix",

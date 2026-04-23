@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-492 songs - 1 day 1 hr 59 min
+493 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC), [LEWS](https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL), [FIRSTCLASS](https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK), [TIMID.](https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg) | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/album/1g3CRfapU2HVFs1QK6jNAs) | 2:14 | 2025-07-25 |  |
 | [Adore](https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Adore](https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ) | 3:29 | 2023-01-27 | 2024-03-26 |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-06-24 |  |
+| [Ain't With That \(Late Night Callin'\)](https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Ain't With That \(Late Night Callin'\)](https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh) | 3:27 | 2026-04-17 |  |
 | [All I Need](https://open.spotify.com/track/5uMCXikeX6Z8p10rtYgop8) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [All I Need](https://open.spotify.com/album/3eGLkWKJMU6PFxE6eEq6W5) | 2:18 | 2021-10-29 | 2022-03-19 |
 | [All Over Again \- Radio\-Edit](https://open.spotify.com/track/49MzBQ3UnIZNrF3fvcWOCm) | [Steve Norton](https://open.spotify.com/artist/3PCnJPxTg6LT4q4vWXrxsL) | [All Over Again \(Radio\-Edit\)](https://open.spotify.com/album/3WrsHgA8e0LpvXplzVYKKU) | 2:26 | 2022-02-28 | 2022-07-03 |
 | [All This Time](https://open.spotify.com/track/0xV1SugUe8sTfoscbx4sp8) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [All This Time](https://open.spotify.com/album/0lEqL5mhY7PN3WWpb6mHXx) | 2:20 | 2023-03-31 | 2024-06-09 |
@@ -324,7 +325,7 @@
 | [NYC](https://open.spotify.com/track/01xOb3gjIGLHsdKnL5QTi4) | [Quliano](https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323) | [NYC](https://open.spotify.com/album/0GhydGBqymdnwKofdoVmMQ) | 3:02 | 2025-07-04 | 2025-07-18 |
 | [Ocean Quiet](https://open.spotify.com/track/6zFCci00787rGrLkWDwog8) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Ocean Quiet](https://open.spotify.com/album/4KrSgkyrBWUG4fS3N1CgZ9) | 2:47 | 2021-10-29 | 2023-05-13 |
 | [Oku \- Night Version](https://open.spotify.com/track/2uZKeDWOF9ydWinmfee4ki) | [Rosa Ama](https://open.spotify.com/artist/0IBVUiVJxjc8yGcbwP7Jic), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB), [Vhyce](https://open.spotify.com/artist/5rzLwPhUU0Fh8KEM021KHa) | [Oku \(Night Version\)](https://open.spotify.com/album/226ec9SbgyBB7IKJkSbokM) | 3:32 | 2022-01-21 | 2022-04-23 |
-| [On My Mind \- Enzo is Burning Remix](https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df), [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [On My Mind \(Enzo is Burning Remix\)](https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN) | 2:42 | 2024-07-09 |  |
+| [On My Mind \- Enzo is Burning Remix](https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df), [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [On My Mind \(Enzo is Burning Remix\)](https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN) | 2:42 | 2024-07-09 | 2026-04-23 |
 | [One and Only \- AseMix](https://open.spotify.com/track/45VHi1pZE1NKeBuoPGTsZj) | [Ase](https://open.spotify.com/artist/6NUvHOofq46GTsvTU8jiYe) | [One and Only \(AseMix\)](https://open.spotify.com/album/0bpCNqt5p9ejztrQrXQVgc) | 4:02 | 2022-08-05 | 2024-06-13 |
 | [One More Night](https://open.spotify.com/track/5uIXRf0nKHHWbJ2jVGlRoU) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [One More Night](https://open.spotify.com/album/437pHGBe6cnnxyEdZrbMvo) | 2:37 | 2021-10-29 | 2022-03-22 |
 | [Only Friends](https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Only Friends](https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC) | 2:38 | 2025-05-30 | 2026-01-15 |

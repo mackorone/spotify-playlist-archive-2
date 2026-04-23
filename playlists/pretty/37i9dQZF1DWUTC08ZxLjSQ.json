@@ -1,13 +1,29 @@
 {
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Dehmez. Artwork: Isu Kim",
-  "num_followers": 13272,
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Salim Webz. Artwork: Isu Kim",
+  "num_followers": 13274,
   "original_name": "Fresh Finds Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH4KqjktD+zxeJBqvVNv5U5sRxmd",
+  "snapshot_id": "AAAAAOoHdY94Y0YYID2PM/CinTVKWj8C",
   "tracks": [
+    {
+      "added_at": "2026-04-14 14:34:43",
+      "album": {
+        "name": "LA TAKHAF",
+        "url": "https://open.spotify.com/album/4LiEp07RdmllLStNC7XCcf"
+      },
+      "artists": [
+        {
+          "name": "Salim Webz",
+          "url": "https://open.spotify.com/artist/4FIXxdSb5ZrBLzGbGPk5FL"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "LA TAKHAF",
+      "url": "https://open.spotify.com/track/0WqtGX3hQrKoW4ZU7ZDEXT"
+    },
     {
       "added_at": "2026-04-14 14:34:43",
       "album": {
@@ -25,20 +41,24 @@
       "url": "https://open.spotify.com/track/5KL6RhFyuc3nyFXdj0GoBm"
     },
     {
-      "added_at": "2026-04-14 14:34:43",
+      "added_at": "2026-04-22 07:50:52",
       "album": {
-        "name": "EL BA7R EL A3ZAM",
-        "url": "https://open.spotify.com/album/2apOaSX0WSlo1k6HP9rOsv"
+        "name": "DAH A2AL 7AGA 3ANDI",
+        "url": "https://open.spotify.com/album/2uv1BRBbqMOmsyFSEImkGb"
       },
       "artists": [
         {
-          "name": "DAL!A",
-          "url": "https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7"
+          "name": "Bloodymarry",
+          "url": "https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40"
+        },
+        {
+          "name": "ZozRealStar",
+          "url": "https://open.spotify.com/artist/24qBUbjR4lhdpmEDjEEL9b"
         }
       ],
-      "duration_ms": 180168,
-      "name": "NDOOR",
-      "url": "https://open.spotify.com/track/3fnUy8PxiIXubLQBS3aFei"
+      "duration_ms": 205766,
+      "name": "Mashy Fe Tare2",
+      "url": "https://open.spotify.com/track/50Tkn3IN2WVVTCnj0Imcy9"
     },
     {
       "added_at": "2026-04-14 14:34:43",
@@ -59,6 +79,22 @@
     {
       "added_at": "2026-04-14 14:34:43",
       "album": {
+        "name": "EL BA7R EL A3ZAM",
+        "url": "https://open.spotify.com/album/2apOaSX0WSlo1k6HP9rOsv"
+      },
+      "artists": [
+        {
+          "name": "DAL!A",
+          "url": "https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7"
+        }
+      ],
+      "duration_ms": 180168,
+      "name": "NDOOR",
+      "url": "https://open.spotify.com/track/3fnUy8PxiIXubLQBS3aFei"
+    },
+    {
+      "added_at": "2026-04-14 14:34:43",
+      "album": {
         "name": "APORIA",
         "url": "https://open.spotify.com/album/4q9nP2q2Y816WLbWItT1Qw"
       },
@@ -71,22 +107,6 @@
       "duration_ms": 163422,
       "name": "RASSMA",
       "url": "https://open.spotify.com/track/2BLuMnfGLbLfpyHuWAIwEe"
-    },
-    {
-      "added_at": "2026-04-14 14:34:43",
-      "album": {
-        "name": "\u062f\u0631\u0628 \u0661\u0667",
-        "url": "https://open.spotify.com/album/2ZEfwK5SBnuRBXZcnbxgKX"
-      },
-      "artists": [
-        {
-          "name": "Bloodymarry",
-          "url": "https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40"
-        }
-      ],
-      "duration_ms": 349503,
-      "name": "\u0627\u0644\u0633\u0627\u0642\u064a",
-      "url": "https://open.spotify.com/track/0CECKW3SUi0sjpJIUWvOyO"
     },
     {
       "added_at": "2026-04-14 14:34:43",
@@ -407,22 +427,6 @@
       "duration_ms": 154978,
       "name": "3arf El Matloob",
       "url": "https://open.spotify.com/track/2r4IgKomtMEcNpcCX5RZ1f"
-    },
-    {
-      "added_at": "2026-04-14 14:34:43",
-      "album": {
-        "name": "LA TAKHAF",
-        "url": "https://open.spotify.com/album/4LiEp07RdmllLStNC7XCcf"
-      },
-      "artists": [
-        {
-          "name": "Salim Webz",
-          "url": "https://open.spotify.com/artist/4FIXxdSb5ZrBLzGbGPk5FL"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "LA TAKHAF",
-      "url": "https://open.spotify.com/track/0WqtGX3hQrKoW4ZU7ZDEXT"
     },
     {
       "added_at": "2026-04-14 14:34:43",

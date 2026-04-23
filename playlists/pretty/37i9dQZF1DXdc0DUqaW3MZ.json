@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 375441,
+  "num_followers": 375461,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "YOU KNOW I'M DOWN",
-        "url": "https://open.spotify.com/album/29qoVH75Kc800yEeHjMRi6"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Tyler Daley",
-          "url": "https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "YOU KNOW I'M DOWN",
-      "url": "https://open.spotify.com/track/6hiwAsDc2fyuWK4iCCZJvL"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Been A Minute...",
         "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 189947,
       "name": "Been A Minute...",
       "url": "https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "YOU KNOW I'M DOWN",
+        "url": "https://open.spotify.com/album/29qoVH75Kc800yEeHjMRi6"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Tyler Daley",
+          "url": "https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "YOU KNOW I'M DOWN",
+      "url": "https://open.spotify.com/track/6hiwAsDc2fyuWK4iCCZJvL"
     },
     {
       "added_at": "2026-03-13 00:00:07",

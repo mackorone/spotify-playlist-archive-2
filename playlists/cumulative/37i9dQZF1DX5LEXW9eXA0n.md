@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 우디 \(Woody\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,732 songs - 4 day 16 hr 36 min
+1,733 songs - 4 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Hard to Forget You](https://open.spotify.com/track/1HWJpm34LmznIHSBEMkrJW) | [Kim Na\-kyung](https://open.spotify.com/artist/5IQpGF3xbjCj7BbtOuw15f) | [Hard to Forget You](https://open.spotify.com/album/63tKhR6iB7Iz4hVxWGZZiy) | 3:13 | 2026-02-23 |  |
 | [Hard to Say I Love You](https://open.spotify.com/track/2ilUqImdWBVPrzWL4kTbxx) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Red Balloon OST Part.3](https://open.spotify.com/album/5fvFvfK7fzy9jTZdiqGPNS) | 4:05 | 2023-01-20 | 2023-02-15 |
 | [Have A Good Time](https://open.spotify.com/track/5FIBWD7WZLgbtOpzS8ijKU) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Have A Good Time](https://open.spotify.com/album/4z0qDxvdwY7wb5yCJrVaEV) | 2:00 | 2025-11-17 | 2026-03-07 |
+| [Have You Been Well?](https://open.spotify.com/track/6qZ6fPm0thFsNiV0IoXPqP) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Have You Been Well?](https://open.spotify.com/album/5jyOYnachD65HetuScbTim) | 2:59 | 2026-04-22 |  |
 | [He's next to you, instead of me](https://open.spotify.com/track/1vMxDpmSBRHhh0eRCLxQcQ) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [He's next to you, instead of me](https://open.spotify.com/album/0blCdfQUSARuYDtwzHUxqP) | 2:52 | 2022-02-17 | 2022-07-06 |
 | [Healing](https://open.spotify.com/track/3jXvQPiwLDtgA1JdhhMYLV) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [Healing](https://open.spotify.com/album/5RioRsDCuLZA1FJ274ZvEA) | 3:49 | 2025-08-04 | 2025-12-03 |
 | [Heart](https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Heart](https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP) | 4:17 | 2023-09-14 | 2025-01-12 |
@@ -1453,7 +1454,7 @@
 | [too late](https://open.spotify.com/track/1HvjjweYcnWWEF6kogNTdA) | [CHUNJI](https://open.spotify.com/artist/5HS9HhKluiMJe6hAoxgggj) | [too late](https://open.spotify.com/album/3cizllj4s7FZPX3ojRojZ6) | 4:13 | 2022-12-26 | 2023-02-25 |
 | [too late to love you](https://open.spotify.com/track/1zVva32WyvjVO5SHcmBP6u) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [too late to love you](https://open.spotify.com/album/1cNGbwdjPS243ZKqMQ17ZY) | 4:15 | 2025-01-07 | 2025-06-03 |
 | [Trace](https://open.spotify.com/track/6qcNxQOnG0XIJTBJ4dj20S) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Afterglow](https://open.spotify.com/album/739E4HVYrFVObgK0IFJYkA) | 3:51 | 2022-12-12 | 2023-01-21 |
-| [Trace](https://open.spotify.com/track/4NisfxvLivDgaosC7s6ejt) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Trace](https://open.spotify.com/album/2Dfsq1imLWUNAjhcScwk4H) | 4:21 | 2026-01-26 |  |
+| [Trace](https://open.spotify.com/track/4NisfxvLivDgaosC7s6ejt) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Trace](https://open.spotify.com/album/2Dfsq1imLWUNAjhcScwk4H) | 4:21 | 2026-01-26 | 2026-04-23 |
 | [Traces of You](https://open.spotify.com/track/0K9vliPUbih2E6YCLDobCu) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [The Law Cafe \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/1FuORImSSQuDDj7A1rTxSz) | 3:49 | 2022-10-07 | 2023-01-11 |
 | [Tree](https://open.spotify.com/track/6GvZ3jcbYhdsKeZGLnwE76) | [Unchan](https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF) | [Tree](https://open.spotify.com/album/2dAPUL5WhLBjg1HtdW3yoE) | 3:38 | 2023-10-20 | 2023-12-30 |
 | [Trickle Down](https://open.spotify.com/track/1BABEuRAAPzzDDgbsJhFI0) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [ENDAND](https://open.spotify.com/album/4I6W6VKYZqjbVg2U1nS0H7) | 4:19 | 2025-10-22 | 2026-02-02 |

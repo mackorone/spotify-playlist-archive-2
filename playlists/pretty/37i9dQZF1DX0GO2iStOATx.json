@@ -1,6 +1,6 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 228875,
+  "num_followers": 228927,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-01-30 11:13:46",
       "album": {
-        "name": "Best of Punjabi Superstar Diljit Dosanjh",
-        "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 190934,
-      "name": "Ak 47 - From \"Hero Naam Yaad Rakhi\"",
-      "url": "https://open.spotify.com/track/1sPu6Tfpdk5nksIKixMTJ6"
-    },
-    {
-      "added_at": "2026-01-30 11:13:46",
-      "album": {
         "name": "Lak 28 Kudi Da",
         "url": "https://open.spotify.com/album/526HxFaDf5l1T0C5QBoT7B"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 160136,
       "name": "Pappleen",
       "url": "https://open.spotify.com/track/7p4SfEwbVzpBhkn9ACSGzw"
+    },
+    {
+      "added_at": "2026-01-30 11:13:46",
+      "album": {
+        "name": "Best of Punjabi Superstar Diljit Dosanjh",
+        "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 190934,
+      "name": "Ak 47 - From \"Hero Naam Yaad Rakhi\"",
+      "url": "https://open.spotify.com/track/1sPu6Tfpdk5nksIKixMTJ6"
     },
     {
       "added_at": "2026-01-30 11:13:46",
@@ -539,26 +539,6 @@
     {
       "added_at": "2026-01-30 11:13:46",
       "album": {
-        "name": "Amar Singh Chamkila - Live Recorded",
-        "url": "https://open.spotify.com/album/1Fjio02TgzmjzqXcVX5EmK"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Nisha Bano",
-          "url": "https://open.spotify.com/artist/49094fCmcy4SfKYaOtSkOr"
-        }
-      ],
-      "duration_ms": 117536,
-      "name": "Pat Doon Chugti Ni",
-      "url": "https://open.spotify.com/track/4XDcAT42H83pKPGLoYjGZ9"
-    },
-    {
-      "added_at": "2026-01-30 11:13:46",
-      "album": {
         "name": "Back to Basics",
         "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 244960,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1mYjwd7fhieNlsrjiFyOr0"
+    },
+    {
+      "added_at": "2026-01-30 11:13:46",
+      "album": {
+        "name": "Amar Singh Chamkila - Live Recorded",
+        "url": "https://open.spotify.com/album/1Fjio02TgzmjzqXcVX5EmK"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Nisha Bano",
+          "url": "https://open.spotify.com/artist/49094fCmcy4SfKYaOtSkOr"
+        }
+      ],
+      "duration_ms": 117536,
+      "name": "Pat Doon Chugti Ni",
+      "url": "https://open.spotify.com/track/4XDcAT42H83pKPGLoYjGZ9"
     },
     {
       "added_at": "2026-01-30 11:13:46",
@@ -619,26 +619,6 @@
     {
       "added_at": "2026-01-30 11:13:46",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/0Qi3UVsHtnxNZW1WPrpxOh"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Simar Kaur",
-          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/64GMWImeb6xJcddUiK9kov"
-    },
-    {
-      "added_at": "2026-01-30 11:13:46",
-      "album": {
         "name": "Back to Basics",
         "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 217640,
       "name": "Kharku",
       "url": "https://open.spotify.com/track/1xzxjqnT7mZb2Sh4HaG5tc"
+    },
+    {
+      "added_at": "2026-01-30 11:13:46",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/0Qi3UVsHtnxNZW1WPrpxOh"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/64GMWImeb6xJcddUiK9kov"
     },
     {
       "added_at": "2026-01-30 11:13:46",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-01-30 11:13:46",
       "album": {
+        "name": "Advisory",
+        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 127802,
+      "name": "Holster",
+      "url": "https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp"
+    },
+    {
+      "added_at": "2026-01-30 11:13:46",
+      "album": {
         "name": "Jugni",
         "url": "https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 205333,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/2EU4dEMDrPS1hwLSxk6PZ7"
-    },
-    {
-      "added_at": "2026-01-30 11:13:46",
-      "album": {
-        "name": "Advisory",
-        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 127802,
-      "name": "Holster",
-      "url": "https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp"
     }
   ],
   "unique_name": "This Is Diljit Dosanjh",

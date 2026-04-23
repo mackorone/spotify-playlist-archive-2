@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 713470,
+  "num_followers": 713660,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
-        "name": "Careless Love",
-        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 191946,
-      "name": "Don't Wait Too Long",
-      "url": "https://open.spotify.com/track/2JgQULmVwV0J3Gds7YfBCu"
+      "duration_ms": 194346,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
     },
     {
       "added_at": "2026-04-10 09:23:33",
@@ -107,18 +107,18 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+        "name": "Careless Love",
+        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 194346,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
+      "duration_ms": 191946,
+      "name": "Don't Wait Too Long",
+      "url": "https://open.spotify.com/track/2JgQULmVwV0J3Gds7YfBCu"
     },
     {
       "added_at": "2026-04-10 09:23:33",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
-    },
-    {
-      "added_at": "2026-04-10 09:23:33",
-      "album": {
         "name": "The Changing Lights (Bonus Edition)",
         "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 244653,
       "name": "How Insensitive",
       "url": "https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e"
+    },
+    {
+      "added_at": "2026-04-10 09:23:33",
+      "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
     },
     {
       "added_at": "2026-04-10 09:23:33",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
-        "name": "Autumn Leaves (The Songs of Johnny Mercer)",
-        "url": "https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU"
-      },
-      "artists": [
-        {
-          "name": "Jacintha",
-          "url": "https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "Here's to Life",
-      "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
-    },
-    {
-      "added_at": "2026-04-10 09:23:33",
-      "album": {
         "name": "The Big Picture",
         "url": "https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 168755,
       "name": "Oh My Love",
       "url": "https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h"
+    },
+    {
+      "added_at": "2026-04-10 09:23:33",
+      "album": {
+        "name": "Autumn Leaves (The Songs of Johnny Mercer)",
+        "url": "https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU"
+      },
+      "artists": [
+        {
+          "name": "Jacintha",
+          "url": "https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "Here's to Life",
+      "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
     },
     {
       "added_at": "2026-04-10 09:23:33",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
-        "name": "Prisoner of Love",
-        "url": "https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
-        }
-      ],
-      "duration_ms": 143746,
-      "name": "Prisoner of Love",
-      "url": "https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO"
-    },
-    {
-      "added_at": "2026-04-10 09:23:33",
-      "album": {
         "name": "My Wonderland",
         "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 172080,
       "name": "Make It Another Old Fashioned, Please",
       "url": "https://open.spotify.com/track/0BXVF6rdWKfDY28a02u5WN"
+    },
+    {
+      "added_at": "2026-04-10 09:23:33",
+      "album": {
+        "name": "Prisoner of Love",
+        "url": "https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 143746,
+      "name": "Prisoner of Love",
+      "url": "https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO"
     },
     {
       "added_at": "2026-04-10 09:23:33",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
+        "name": "Edelweiss",
+        "url": "https://open.spotify.com/album/0iMw5aKpZC7Ifv7oQZ8FzF"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "Edelweiss",
+      "url": "https://open.spotify.com/track/4aRUHmTxZtltzbnv1XApBD"
+    },
+    {
+      "added_at": "2026-04-10 09:23:33",
+      "album": {
         "name": "It's the Talk of the Town",
         "url": "https://open.spotify.com/album/7Gq2fHvO6W7MF4H5H1wdub"
       },
@@ -2011,22 +2027,6 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
-        "name": "Edelweiss",
-        "url": "https://open.spotify.com/album/0iMw5aKpZC7Ifv7oQZ8FzF"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "Edelweiss",
-      "url": "https://open.spotify.com/track/4aRUHmTxZtltzbnv1XApBD"
-    },
-    {
-      "added_at": "2026-04-10 09:23:33",
-      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm"
       },
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
-        "name": "Dreamers Ball",
-        "url": "https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Poole",
-          "url": "https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D"
-        }
-      ],
-      "duration_ms": 283960,
-      "name": "Dreamers Ball",
-      "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
-    },
-    {
-      "added_at": "2026-04-10 09:23:33",
-      "album": {
         "name": "Reaching For The Sky",
         "url": "https://open.spotify.com/album/3Tzs2RDjic6cxCMMUz2406"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 406735,
       "name": "Reaching For The Sky",
       "url": "https://open.spotify.com/track/6I8GMAR15VdiU0H1KcuHY1"
+    },
+    {
+      "added_at": "2026-04-10 09:23:33",
+      "album": {
+        "name": "Dreamers Ball",
+        "url": "https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Poole",
+          "url": "https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D"
+        }
+      ],
+      "duration_ms": 283960,
+      "name": "Dreamers Ball",
+      "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
     },
     {
       "added_at": "2026-04-10 09:23:33",

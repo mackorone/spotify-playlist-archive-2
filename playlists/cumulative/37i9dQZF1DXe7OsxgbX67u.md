@@ -4,7 +4,7 @@
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-86 songs - 5 hr 25 min
+88 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Alive](https://open.spotify.com/track/5SzUrle1WAaMAJjIEZ2YYy) | [Battle Tapes](https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67) | [Form](https://open.spotify.com/album/5kvczjPMKDVYG5TFhU5gBl) | 5:07 | 2025-02-06 |  |
 | [Alive!](https://open.spotify.com/track/28cm9uWSKVAfZ0HDBlq4rS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:52 | 2026-03-25 |  |
 | [Attitude](https://open.spotify.com/track/108bp2InL1lMrIi1cFkWI7) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw) | [Big Mood Attitude](https://open.spotify.com/album/4XTGugIUJgEbzoL0oH1l2z) | 2:08 | 2025-02-20 |  |
+| [August Underground](https://open.spotify.com/track/3JuoY84eCBqfDPb0Caggcg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 3:40 | 2026-04-22 |  |
 | [Avalanche](https://open.spotify.com/track/3PH1n0JC1icuzNQTD4Rsv0) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [From Her to Eternity \(2009 \- Remaster\)](https://open.spotify.com/album/5XWZDaQXTMUnXAzyBbpR7P) | 5:09 | 2025-02-06 |  |
 | [Baby Drummer](https://open.spotify.com/track/3AL0jiB2Ix2u6x1MKMNcQv) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Bad Nerves](https://open.spotify.com/album/2bs2CFgfCEYfNCwfholBYd) | 2:20 | 2025-02-06 |  |
 | [Ballad Of A Thin Place](https://open.spotify.com/track/0VkMYMMccsX2fE4BRLiSiD) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Rain On Dust](https://open.spotify.com/album/7Fdr6rpnrWE6GsMzIyPh0g) | 4:16 | 2025-02-06 |  |
@@ -37,6 +38,7 @@
 | [For Nothing](https://open.spotify.com/track/6uu7hTgI4v2Oyk7NKhkjB4) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Time Lapsed](https://open.spotify.com/album/2rzaUdlBmCJt9f5KjT2HDE) | 2:57 | 2025-02-06 |  |
 | [Forever](https://open.spotify.com/track/4Pn4v9RemDhJ2iOi0q11js) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 5:29 | 2025-02-06 |  |
 | [Forever Never Feat\. Cleva Thoughts](https://open.spotify.com/track/2BBAdTvt3a0B3sFuQ2OcDG) | [K+Lab](https://open.spotify.com/artist/3y7GPPMrPAZKg9BlCO8cFA), [Cleva Thoughts](https://open.spotify.com/artist/4J6nDeOpnphiMzFMXjLNrs) | [Beasts](https://open.spotify.com/album/2YcgLxtAkhbrli6kiZlJ1f) | 4:34 | 2025-02-06 |  |
+| [Fragments From the Decade](https://open.spotify.com/track/4J6JARDGkdc1fqLEflP94Z) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 4:38 | 2026-04-22 |  |
 | [Future People](https://open.spotify.com/track/09ElWkqYgwbuZoo52YWQ7m) | [Vindigo](https://open.spotify.com/artist/5lSc6BIpfTBIcco5gQOEWH) | [Future People](https://open.spotify.com/album/1LCJclhR4VDUcR27NhdZmT) | 2:37 | 2025-02-27 |  |
 | [Get Gone](https://open.spotify.com/track/5B220KelBGlzYwKrChQezA) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Get Gone](https://open.spotify.com/album/1WuwRUmQxBxYMP85xvv4lY) | 1:41 | 2025-02-06 |  |
 | [GHETTOCHIP MALFUNCTION \(Hell Yes \- remix by 8\-Bit\)](https://open.spotify.com/track/7oS9vh40ps5sBCx2i2FMfB) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [GameBoy Variations \(Hell Yes Remix EP\)](https://open.spotify.com/album/1daaLQSRyaeuCbj54x1geV) | 2:40 | 2025-02-27 |  |

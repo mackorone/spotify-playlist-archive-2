@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-457 songs - 1 day 4 hr 24 min
+458 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Estupideces](https://open.spotify.com/track/5dzpZRtR52Pqxeg5PZtfpI) | [Croupiers](https://open.spotify.com/artist/3R0Fcr1lCsQy3W18te2HcB) | [Si Vieras Lo Rápido Que Pierdo La Elegancia](https://open.spotify.com/album/0aRngY5uGhtLEP9D4BwGAL) | 3:36 | 2026-02-07 | 2026-03-04 |
 | [Every 1’s a Winner](https://open.spotify.com/track/2E7HHBw2ZYZIbo8E5uzn9P) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [Every 1’s a Winner](https://open.spotify.com/album/6V2mbkh0DXgupUg1wGHbmG) | 3:16 | 2026-04-16 |  |
 | [FAKE](https://open.spotify.com/track/2ee980L0EX5tDefxf5kumE) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET](https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq) | 2:58 | 2026-02-14 |  |
+| [Fantasia](https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli) | [Astratto](https://open.spotify.com/artist/1kQT4JN2XDrVdT4vubHCjw) | [Fantasia](https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf) | 6:10 | 2026-04-22 |  |
 | [Farewell](https://open.spotify.com/track/27tcaTzyrakD3Upv0kNKhU) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 6:05 | 2026-04-06 |  |
 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 | 2025-12-13 | 2026-01-05 |
 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 | 2025-12-13 | 2026-01-05 |

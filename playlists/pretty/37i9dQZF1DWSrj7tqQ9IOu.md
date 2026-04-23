@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,288 likes - 39 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,273 likes - 39 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blow My Mind](https://open.spotify.com/track/1VDfq61UbPycYsPnqSdrSH) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential](https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL) | 2:57 |
 | 2 | [Season 2 Weight Loss](https://open.spotify.com/track/6GteP2UCnpHRWSZTL63QHe) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:49 |
-| 3 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 |
-| 4 | [Pocahontas](https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Grand Garçon](https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr) | 2:48 |
+| 3 | [Pocahontas](https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Grand Garçon](https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr) | 2:48 |
+| 4 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 |
 | 5 | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt) | 3:43 |
 | 6 | [Griddlë](https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 2:37 |
 | 7 | [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 19 | [Conduire](https://open.spotify.com/track/1jhvR9vk43uqt5n4XTCTfN) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Conduire](https://open.spotify.com/album/4oM56AR6sAOblRejJhCaEB) | 2:50 |
 | 20 | [BLEUDECHANEL](https://open.spotify.com/track/3DM4e9h5cHrWwX4NNOkybx) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [23 JOURS PLUS TARD](https://open.spotify.com/album/1x7JRkRLh5YBPq00I1bjKQ) | 2:38 |
 | 21 | [Happy Birthday](https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 3:53 |
-| 22 | [internet](https://open.spotify.com/track/7aC0og0wGBisY87cUpEdXG) | [Mitty](https://open.spotify.com/artist/6Wo4zyufcc4V8ZM1TCxDxW) | [internet](https://open.spotify.com/album/4I7qdgWeMuzB2ME7LnZcsN) | 2:42 |
+| 22 | [internet](https://open.spotify.com/track/7aC0og0wGBisY87cUpEdXG) | [Mittyintranslation](https://open.spotify.com/artist/6Wo4zyufcc4V8ZM1TCxDxW) | [internet](https://open.spotify.com/album/4I7qdgWeMuzB2ME7LnZcsN) | 2:42 |
 | 23 | [Critical Condition](https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [State Of Emergency Vol 1.](https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG) | 2:32 |
 | 24 | [Tout Va Bien](https://open.spotify.com/track/5KZj2gtIVHWq8TA1lSCb8p) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Tout Va Bien](https://open.spotify.com/album/5TKj49a8DSMuxNTHVoxgL9) | 3:11 |
 | 25 | [Fast Money](https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q) | [PITCHBLACK](https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW) | [Fast Money](https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN) | 2:22 |

@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 277172,
+  "num_followers": 277207,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "Novo Bossa Nova",
+        "url": "https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM"
+      },
+      "artists": [
+        {
+          "name": "Danny Mandalay",
+          "url": "https://open.spotify.com/artist/34aetUeuJ0C1phjVY5F4vl"
+        }
+      ],
+      "duration_ms": 200285,
+      "name": "Escada Infinita",
+      "url": "https://open.spotify.com/track/22tlsA8FUS6wDbGjqioZnq"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "Antes Que A Terra Acabe",
         "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 272556,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5TgO9jAdOOber4wK9Sn6FN"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "Novo Bossa Nova",
-        "url": "https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM"
-      },
-      "artists": [
-        {
-          "name": "Danny Mandalay",
-          "url": "https://open.spotify.com/artist/34aetUeuJ0C1phjVY5F4vl"
-        }
-      ],
-      "duration_ms": 200285,
-      "name": "Escada Infinita",
-      "url": "https://open.spotify.com/track/22tlsA8FUS6wDbGjqioZnq"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -231,6 +231,26 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta"
+      },
+      "artists": [
+        {
+          "name": "Daniela Soledade",
+          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        }
+      ],
+      "duration_ms": 247837,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/68g7b2qXw6eV2xr9B2OUWm"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "Estado Febril",
         "url": "https://open.spotify.com/album/7DTS7m1xp1PFlOQwZ0HLyd"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 196179,
       "name": "Bela Mo\u00e7a",
       "url": "https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta"
-      },
-      "artists": [
-        {
-          "name": "Daniela Soledade",
-          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        }
-      ],
-      "duration_ms": 247837,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/68g7b2qXw6eV2xr9B2OUWm"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Chuvas De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "Al\u00e9m da Bossa",
         "url": "https://open.spotify.com/album/19GvUGWM0Nxpeu9tAT3fnq"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 225040,
       "name": "Al\u00e9m da Bossa",
       "url": "https://open.spotify.com/track/7eoYRn9t2a0XprCvLLW7lZ"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Chuvas De Ver\u00e3o",
-      "url": "https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Garoa",
-        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Voa",
-      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "D\u00e1jazz",
         "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Bim Bom",
-        "url": "https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq"
+        "name": "Garoa",
+        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
       },
       "artists": [
         {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 101793,
-      "name": "Bim Bom",
-      "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
+      "duration_ms": 164000,
+      "name": "Voa",
+      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1087,6 +1071,22 @@
       "duration_ms": 318674,
       "name": "Deixa - Ao Vivo",
       "url": "https://open.spotify.com/track/06urYdNnVIzkCaYOS05Hrv"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Bim Bom",
+        "url": "https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq"
+      },
+      "artists": [
+        {
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+        }
+      ],
+      "duration_ms": 101793,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "Baden",
+        "url": "https://open.spotify.com/album/2rbLM0aXQdSZDsQV1wKcFQ"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Camarero",
+          "url": "https://open.spotify.com/artist/4TM8RyZ7PdxOkoIMayDMVO"
+        }
+      ],
+      "duration_ms": 192618,
+      "name": "Voltei",
+      "url": "https://open.spotify.com/track/3IQzfVsRY5lyDz5TOlnrHM"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "Tristeza de N\u00f3s Dois",
         "url": "https://open.spotify.com/album/27um7gvskpbYdoD4QnU1EP"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 222983,
       "name": "Tristeza de N\u00f3s Dois",
       "url": "https://open.spotify.com/track/217s4JPQy0sZkKzB6aqcxn"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "Baden",
-        "url": "https://open.spotify.com/album/2rbLM0aXQdSZDsQV1wKcFQ"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Camarero",
-          "url": "https://open.spotify.com/artist/4TM8RyZ7PdxOkoIMayDMVO"
-        }
-      ],
-      "duration_ms": 192618,
-      "name": "Voltei",
-      "url": "https://open.spotify.com/track/3IQzfVsRY5lyDz5TOlnrHM"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Media\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
-      },
-      "artists": [
-        {
-          "name": "Bossa Brothers",
-          "url": "https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc"
-        }
-      ],
-      "duration_ms": 151109,
-      "name": "Media\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Muito \u00e0 Vontade",
         "url": "https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 157268,
       "name": "Muito \u00e0 Vontade",
       "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Media\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
+      },
+      "artists": [
+        {
+          "name": "Bossa Brothers",
+          "url": "https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc"
+        }
+      ],
+      "duration_ms": 151109,
+      "name": "Media\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw"
     },
     {
       "added_at": "2025-09-19 14:10:48",

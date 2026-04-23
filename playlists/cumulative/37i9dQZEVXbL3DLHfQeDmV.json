@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Bang Bang Bang",
+        "url": "https://open.spotify.com/album/2zFrkINzgIXLOXMAiQQVP7"
+      },
+      "artists": [
+        {
+          "name": "BBpanzu",
+          "url": "https://open.spotify.com/artist/4h8eXe8mMUAVe2NthUKnek"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180451,
+      "name": "Bang Bang Bang",
+      "url": "https://open.spotify.com/track/6T80kNfM3iJMRO6uzeOzRG"
+    },
+    {
+      "album": {
         "name": "Bang It",
         "url": "https://open.spotify.com/album/7cjsSsGMCrEz1KJx3m0j2J"
       },
@@ -6630,7 +6648,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 263933,
-      "name": "Joy. (feat. Amma & Absolutely)",
+      "name": "Joy.",
       "url": "https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei"
     },
     {
@@ -12028,7 +12046,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 149026,
       "name": "Theme from Harry's Game - 2003 Remaster",
       "url": "https://open.spotify.com/track/7nVKpwmGcrhyZqRuGV7r8j"

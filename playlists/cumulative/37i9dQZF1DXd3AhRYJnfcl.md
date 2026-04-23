@@ -2,9 +2,9 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: تامر عاشور
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: رامي صبري
 
-437 songs - 1 day 1 hr 37 min
+438 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Shedeeny](https://open.spotify.com/track/7t2pto2Td9oldo7aGOft4n) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:08 | 2025-12-31 |  |
 | [Shokran](https://open.spotify.com/track/3zpuelnjip23dk1hxTqklg) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shokran](https://open.spotify.com/album/572v0Jez74h9cMKAYPCIug) | 3:28 | 2022-04-13 | 2023-01-13 |
 | [Shyaf Nafsk](https://open.spotify.com/track/3a7QA108PHmYTGzaQvorSg) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Shyaf Nafsk](https://open.spotify.com/album/79KTwmLoafLHSbn37XOQKd) | 3:56 | 2024-09-09 | 2026-01-15 |
-| [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 | 2022-04-13 |  |
+| [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 | 2022-04-13 | 2026-04-23 |
 | [Taalili](https://open.spotify.com/track/1Ghjyo13NTn6yDyQ86bLMV) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Taalili](https://open.spotify.com/album/5PsBjIgUc9FnjdLbm1idet) | 3:43 | 2022-06-14 | 2022-08-04 |
 | [Tab Aoulak \- Karkouba](https://open.spotify.com/track/10kAWGJi58siX7qOKFt2uY) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [Tab Aoulak \- Karkouba](https://open.spotify.com/album/2dNRGgO2tkZiaVLOPcgDjP) | 3:46 | 2023-04-20 | 2025-05-14 |
 | [Tab3ak Ghalab](https://open.spotify.com/track/5gh6uDCEwPtz5khpNn7o3K) | [Nourhan El Morshedy](https://open.spotify.com/artist/4MGWotf08LJf0qe1UPVkNs) | [Tab3ak Ghalab](https://open.spotify.com/album/3Z8ckVlwhwVcKGcrQtO3Kl) | 4:06 | 2024-06-13 | 2025-11-05 |
@@ -373,6 +373,7 @@
 | [عم المجال \- يبني أنا في الشغله دي عمها](https://open.spotify.com/track/4tHdErGYkKkbHI9Svvhy4Z) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عم المجال](https://open.spotify.com/album/72ggotxJU02kj6Anb7WKcV) | 4:15 | 2024-07-04 | 2024-08-21 |
 | [عين سحرية](https://open.spotify.com/track/0pTxrkqqHSVCsuHS9NhaH5) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عين سحرية](https://open.spotify.com/album/2imB9na6sN3WCbz49IuBY0) | 3:21 | 2026-04-01 |  |
 | [عين سحرية](https://open.spotify.com/track/0SuWrDNsHCpu2Nh1Ygoeet) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عين سحرية](https://open.spotify.com/album/2j2GeCSkeSYIr3Rv86e4Km) | 2:21 | 2026-02-27 |  |
+| [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/track/1yCIPv9azb6iatALhQnRR9) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/album/5lagJdup7OYfTD72gzwZI2) | 3:39 | 2026-04-22 |  |
 | [فعلا مبيتنسيش](https://open.spotify.com/track/7lTods1J2VtQY6UXmwDgyT) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [فعلا مبيتنسيش](https://open.spotify.com/album/4M4reByZFC9jKIRLvIOknM) | 4:50 | 2025-01-09 | 2025-06-17 |
 | [فيها إيه](https://open.spotify.com/track/1EjWf609wyNxHwlq1kuug8) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [أنا جامد كده كده](https://open.spotify.com/album/3Lk8CFHLrKlAv9cd4Cyi5v) | 3:26 | 2024-09-09 | 2024-12-12 |
 | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/track/7GdTv7oq8wMIEHm6ZO3C5w) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/album/4ZrbdcI2JPDlkInji4FlaV) | 3:51 | 2023-06-06 | 2024-05-17 |

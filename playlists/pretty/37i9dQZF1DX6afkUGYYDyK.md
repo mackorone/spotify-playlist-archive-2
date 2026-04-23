@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,218 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,246 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 3 | [THANKFUL](https://open.spotify.com/track/3q7GRmWPTNo5S6CEq6SURW) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [THANKFUL](https://open.spotify.com/album/0Lukg1vKeWF4qQ0k4YcN0C) | 2:16 |
 | 4 | [This Is How I Thank The Lord](https://open.spotify.com/track/0xHdrRs3i00vBbXzx0Hq67) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [This Is How I Thank The Lord](https://open.spotify.com/album/4nqe5ontu7BXz6C7mD5Ami) | 3:09 |
 | 5 | [THANKYOU 1000X \(feat\. Mitch Wong\)](https://open.spotify.com/track/5wrhbFQuTnm6eyZEzPMGY8) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [THANKYOU 1000X \(feat\. Mitch Wong\)](https://open.spotify.com/album/6yc8hO0oyemOu4qHEoI6B4) | 4:28 |
-| 6 | [I Thank God](https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [I Thank God](https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU) | 3:41 |
+| 6 | [Praise The Lord](https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn) | 3:18 |
 | 7 | [Thank You](https://open.spotify.com/track/2YSFG4eMG4W1bPlsQ13wB1) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Thank You](https://open.spotify.com/album/6hYNb0Bu73paVyrGwhJmGM) | 3:51 |
-| 8 | [Praise The Lord](https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn) | 3:18 |
+| 8 | [I Thank God](https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [I Thank God](https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU) | 3:41 |
 | 9 | [Grateful](https://open.spotify.com/track/4d2S4TnoA8QSTsV4jsStWK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 4:06 |
 | 10 | [Rich](https://open.spotify.com/track/4tNPvDMaT7GMv5pQQqkesB) | [ELI GABLE](https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY) | [Rich](https://open.spotify.com/album/6Da5S0GCQK9Ex5Nbud8ozV) | 3:11 |
 | 11 | [Grateful](https://open.spotify.com/track/0vtvtxjSKV02DeQJNW217U) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Love Fellowship Choir](https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6) | [The Essential Hezekiah Walker](https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg) | 6:55 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 64 | [Give Thanks](https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Give Thanks](https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE) | 3:13 |
 | 65 | [Thank You \(Famine Or Feast\)](https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Thank You \(Famine Or Feast\)](https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q) | 3:23 |
 | 66 | [Thank You Lord](https://open.spotify.com/track/5xPmU88ZnWOfPVFIlUogNk) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [Thank You Lord](https://open.spotify.com/album/0BJntH21Xd65RJsLzlsipj) | 3:06 |
-| 67 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
-| 68 | [Give Thanks](https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Give Thanks](https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK) | 4:31 |
+| 67 | [Give Thanks](https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Give Thanks](https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK) | 4:31 |
+| 68 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 | 69 | [Thankful](https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Faithful To Believe](https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61) | 6:26 |
 | 70 | [Thank You](https://open.spotify.com/track/6uv1fhJ65Ev2lcgRmCMeOf) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [Thank You, I Love You](https://open.spotify.com/album/1Q3OpMJgTNZZq6wE4kcscv) | 4:39 |
 | 71 | [Thank You for What You've Done \(feat\. The Band Table\)](https://open.spotify.com/track/6QQstj40hrBqzmz6yIOsoL) | [Cliff Preston](https://open.spotify.com/artist/3wIWw1KUDe4DDgbsuQidCS), [Jonathan Lee McElhenny](https://open.spotify.com/artist/08vxD3roX2JckYwjZZVjr2), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L) | [Thank You for What You've Done \(feat\. The Band Table\)](https://open.spotify.com/album/0clx0dPMrLJKyF8O1vbEtq) | 4:45 |

@@ -4,7 +4,7 @@
 
 > Hand\-picked releases from the new wave in soul\. Cover: K.ZIA
 
-651 songs - 1 day 13 hr 35 min
+652 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Decide](https://open.spotify.com/track/6EA60hnDibhTmqIgSzyJAH) | [Madd9](https://open.spotify.com/artist/5JVFe7DdYJ53zoF1mKFXpZ) | [Madd at Love](https://open.spotify.com/album/7AlAf18aOEAYTnZwxkrqaC) | 4:00 | 2025-03-21 | 2026-03-03 |
 | [Deep Dive \(feat\. Candy Dulfer\)](https://open.spotify.com/track/1vUIfW9ZucBz0DZAMW5Suj) | [ROSEYE](https://open.spotify.com/artist/5OgVIGurum64YtfpEjicYy), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Deep Dive \(feat\. Candy Dulfer\)](https://open.spotify.com/album/6f5TCopsrO24t7Asl2lO4C) | 3:03 | 2025-02-27 | 2026-02-04 |
 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 | 2023-10-06 | 2024-05-25 |
+| [DIAMOND GOLD](https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [wHIMSY!](https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF) | 3:15 | 2026-04-22 |  |
 | [Diamonds And Pearls](https://open.spotify.com/track/2fKW2z6VAOGSaEeOTBTOWt) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Diamonds And Pearls](https://open.spotify.com/album/17v5uQhPTOV1xbNcHBWivY) | 3:09 | 2024-07-01 | 2025-04-18 |
 | [DiH](https://open.spotify.com/track/0jqTpSEBeasDrkNykprjwY) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [DiH](https://open.spotify.com/album/4GdkgZNWIKgGqOihh5r3TY) | 2:55 | 2025-02-27 | 2026-01-15 |
 | [Dingaling](https://open.spotify.com/track/1upqTfjNfblLHKqasQAPc0) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Dingaling](https://open.spotify.com/album/5aMRGlhrRsaVUIL25FRYsJ) | 3:20 | 2021-12-16 | 2022-10-15 |
@@ -184,7 +185,7 @@
 | [For Granted \(feat\. Arin Ray\)](https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Enigmatic Society](https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe) | 2:52 | 2023-10-06 | 2024-04-19 |
 | [Forget To Remember](https://open.spotify.com/track/4YbnQVAmuehPi4l81nNjEM) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Forget To Remember](https://open.spotify.com/album/6dTUqqMG9gQaU1x3RZ7gS4) | 3:53 | 2024-07-01 | 2025-04-18 |
 | [Freeze Tag \(feat\. Phoelix\)](https://open.spotify.com/track/3t3ZvTvH2juv335N5E1ANK) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Freeze Tag \(feat\. Phoelix\)](https://open.spotify.com/album/40is5SPcJdMGa6HSJgB4el) | 3:11 | 2021-12-16 | 2022-01-14 |
-| [From A Distance](https://open.spotify.com/track/1VW6rRYpdTRJ3WCgLovnOe) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [From A Distance](https://open.spotify.com/album/3KndyzgemjdDrIL5VRIphG) | 3:03 | 2025-08-08 |  |
+| [From A Distance](https://open.spotify.com/track/1VW6rRYpdTRJ3WCgLovnOe) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [From A Distance](https://open.spotify.com/album/3KndyzgemjdDrIL5VRIphG) | 3:03 | 2025-08-08 | 2026-04-23 |
 | [FUL](https://open.spotify.com/track/2yq63DzJwoMqmL9e6pIIyJ) | [Lee Lewis](https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D) | [Something Burning](https://open.spotify.com/album/5SicShvCbTp0ZJqjmhjjLA) | 4:27 | 2024-10-04 | 2025-05-20 |
 | [Futurity](https://open.spotify.com/track/5JTjqiwTbED3kRWmDc1f16) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Futurity](https://open.spotify.com/album/4HasQy2DqL3IGHXn50QGGi) | 4:14 | 2021-12-16 | 2023-02-18 |
 | [GARDEN](https://open.spotify.com/track/6YpiUebCTyUcLmV4X8W7Vq) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [GARDEN](https://open.spotify.com/album/3M0yFfkVWQnAmjMpe2TGlH) | 3:06 | 2024-08-29 | 2025-04-25 |

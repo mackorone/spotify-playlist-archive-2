@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אבנר טואג
 
-384 songs - 22 hr 30 min
+385 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [אפריל](https://open.spotify.com/track/2JSfnWdQ40jK6kc6HSZW7v) | [Yael Selinger](https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l) | [אפריל](https://open.spotify.com/album/49yXdVs72GtN97p8drkDT4) | 3:44 | 2025-06-12 | 2025-07-11 |
 | [אפשר לנשום](https://open.spotify.com/track/09zklQ120q209D3xXGrKnZ) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אפשר לנשום](https://open.spotify.com/album/4rmIIrkqvUwGiFYfrIQ0uH) | 2:57 | 2025-11-13 |  |
 | [אפשרות של אי](https://open.spotify.com/track/1U6SYgLo1VqMFNGfV8Aw2s) | [Or Biron](https://open.spotify.com/artist/7FdMaA6Pn01qtUM5655PgM) | [אפשרות של אי](https://open.spotify.com/album/2jLU4g1C3cJoNSYC3kHFZB) | 4:18 | 2025-06-05 | 2025-07-04 |
+| [ארץ ישראל](https://open.spotify.com/track/2vhxV3P0CrnanflxjuTueN) | [The Uzi Navon Legacy](https://open.spotify.com/artist/1slP3t9sVZTNu1vN9qZxKp) | [ארץ ישראל](https://open.spotify.com/album/5nRtlv9RH3qwGYOshzt0v0) | 3:46 | 2026-04-16 |  |
 | [ארץ מולדת](https://open.spotify.com/track/22l5xX5d7j74YebfkMxd9c) | [האחיות](https://open.spotify.com/artist/7L5wad6KXYMMy8vKf3pP9Y), [Tula Ben Ari](https://open.spotify.com/artist/3CN0CmCxBfEQ1wJbNc5Zt3), [Mika Sade](https://open.spotify.com/artist/0kROWsDsrudeisdMchbraW), [Zozo Ginzburg](https://open.spotify.com/artist/5kZZhF5ONyp2YAFbr2Xlud) | [ארץ מולדת](https://open.spotify.com/album/6hseBZtaMVzLr0ekckVXvD) | 3:41 | 2025-11-20 | 2025-12-05 |
 | [אשכרה מה שקרה](https://open.spotify.com/track/1S8hoTrnprqQLWKKk7FXs1) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd), [פז דמארי](https://open.spotify.com/artist/2sbI28qb7PyxnqWi48pNx7) | [אשכרה מה שקרה](https://open.spotify.com/album/39R8S78JAEpO2GZ4Foduv9) | 5:08 | 2025-09-04 | 2026-01-15 |
 | [את כבר לא איתי](https://open.spotify.com/track/1vXEkrj2fvnyjfPl9XaoNW) | [Eldad Zitrin](https://open.spotify.com/artist/4NNomCVl1n5hhBBk2h8aNk), [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h) | [את כבר לא איתי](https://open.spotify.com/album/4B1ceipHIibHQUXUZ6JSP6) | 3:15 | 2025-07-17 | 2025-08-22 |
@@ -319,7 +320,7 @@
 | [משולש](https://open.spotify.com/track/489N0TwvwxHTv9EnZQiOzo) | [Shekel](https://open.spotify.com/artist/4XRymSxqMfKCkA6njs39lM), [Gilad Kahana](https://open.spotify.com/artist/4hF3Jg1HZqfV8e5xvbgPvm), [Tzlil Danin](https://open.spotify.com/artist/3rzVtsul7Jt3BFcy0UhWgs) | [פריק](https://open.spotify.com/album/0MdMq3Lz4jwgdsXC6qZ5kn) | 2:45 | 2025-03-27 | 2025-05-29 |
 | [מת מאהבה](https://open.spotify.com/track/1kRSvhKqClw18juX10vhYb) | [Noam Rotem](https://open.spotify.com/artist/769lTISrBj4SCvqW9mSK2y) | [מת מאהבה](https://open.spotify.com/album/6ZhHgJ9Nwfr3tUsBMF5TxJ) | 4:57 | 2025-10-30 | 2026-01-15 |
 | [מתגעגע](https://open.spotify.com/track/2bhkznDZSb1GtTLiUdmcpg) | [Meirav Hellinger](https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy) | [מתגעגע](https://open.spotify.com/album/78OGy1SHfRpVoFHvPN8nYl) | 2:52 | 2025-11-20 | 2025-12-19 |
-| [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 | 2024-06-27 |  |
+| [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 | 2024-06-27 | 2026-04-23 |
 | [נהרות ומפלים](https://open.spotify.com/track/3gpfzYhbbxaHlgbDQsPCON) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd), [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [נהרות ומפלים](https://open.spotify.com/album/4TKOCUq3Ya9j4mI2eQe0NG) | 3:38 | 2024-06-27 | 2024-11-02 |
 | [נורי](https://open.spotify.com/track/1nkfhZmS2ezI41ynnTkX2s) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק א'](https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC) | 3:42 | 2024-06-27 | 2025-03-21 |
 | [נושף מהחלל](https://open.spotify.com/track/1kkUZI1op0lX3x4mug2rf2) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [נושף מהחלל](https://open.spotify.com/album/4teXqEjIFXp1Wz4dBegRg0) | 3:13 | 2025-11-06 | 2025-11-28 |

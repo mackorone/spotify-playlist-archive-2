@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1506671,
+  "num_followers": 1506602,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Lulu Ac\u00fastico",
+        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "Apenas Mais uma de Amor",
+      "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Lulu Ac\u00fastico",
-        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Apenas Mais uma de Amor",
-      "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Onde A Gente Chegou",
-        "url": "https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If"
-      },
-      "artists": [
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 160408,
-      "name": "Onde A Gente Chegou",
-      "url": "https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Sol Lua Sol, ao Vivo em S\u00e3o Paulo (Ao Vivo)",
         "url": "https://open.spotify.com/album/21dh335o4NHy3gkFZrNJla"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 257282,
       "name": "Outra Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/1fC4ixhfi1eiurXafXQ4UL"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Onde A Gente Chegou",
+        "url": "https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 160408,
+      "name": "Onde A Gente Chegou",
+      "url": "https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Sorte",
+        "url": "https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 195138,
+      "name": "Sorte",
+      "url": "https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Novo Ciclo",
         "url": "https://open.spotify.com/album/3Uayj41Ce88zsnjXajnGG2"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Sorte",
-        "url": "https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 195138,
-      "name": "Sorte",
-      "url": "https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
       },
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Peu Canta Ivete",
+        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
+      },
+      "artists": [
+        {
+          "name": "Peu Del Rey",
+          "url": "https://open.spotify.com/artist/56ffksUZDcDGHGx5s3Lnwx"
+        }
+      ],
+      "duration_ms": 243179,
+      "name": "Quando a Chuva Passar",
+      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "A Cura",
         "url": "https://open.spotify.com/album/3WkskrMgtz390TzYXFX5XC"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 245195,
       "name": "A Cura",
       "url": "https://open.spotify.com/track/2I0J5YWZ8ostNNiDShh5Di"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Peu Canta Ivete",
-        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
-      },
-      "artists": [
-        {
-          "name": "Peu Del Rey",
-          "url": "https://open.spotify.com/artist/56ffksUZDcDGHGx5s3Lnwx"
-        }
-      ],
-      "duration_ms": 243179,
-      "name": "Quando a Chuva Passar",
-      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
     },
     {
       "added_at": "2024-08-02 18:37:00",

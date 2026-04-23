@@ -5829,6 +5829,24 @@
     },
     {
       "album": {
+        "name": "Grace is Gone",
+        "url": "https://open.spotify.com/album/6NJPxxjLZ1gD0zNOQbKcbN"
+      },
+      "artists": [
+        {
+          "name": "Austin-Tucker",
+          "url": "https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253128,
+      "name": "Grace is Gone",
+      "url": "https://open.spotify.com/track/5QyGhIs60QO3KOVMv7X54y"
+    },
+    {
+      "album": {
         "name": "I Keep Standing Above the Clouds",
         "url": "https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc"
       },
@@ -10979,10 +10997,6 @@
         "url": "https://open.spotify.com/album/08YDzbe8bNIgXORZt73VUB"
       },
       "artists": [
-        {
-          "name": "Gonzalo Perales Roy",
-          "url": "https://open.spotify.com/artist/6AnX8950eF5AnppQ3lRCBc"
-        },
         {
           "name": "Gon\u00e7al Perales",
           "url": "https://open.spotify.com/artist/66mfK9wH1pGIyiHG29aLtv"
@@ -16408,6 +16422,24 @@
       "duration_ms": 175081,
       "name": "Three woman in jail",
       "url": "https://open.spotify.com/track/47Hbxy6DYS21ZjwcujRtMh"
+    },
+    {
+      "album": {
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/6GhuTJMvb8Yc0PA6jotClj"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Grace",
+          "url": "https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260869,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/5A2VNGomqev230PjCu02Nq"
     },
     {
       "album": {

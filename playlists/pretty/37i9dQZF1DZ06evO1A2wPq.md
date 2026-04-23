@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 
 > This is kwn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,333 likes - 20 songs - 55 min 47 sec
+[Spotify](https://open.spotify.com/user/spotify) - 17,338 likes - 20 songs - 55 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

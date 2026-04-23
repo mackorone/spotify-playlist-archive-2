@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- United Kingdom.
 
-685 songs - 1 day 13 hr 11 min
+686 songs - 1 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [BANG BANG](https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:58 | 2026-02-26 | 2026-03-11 |
 | [BANG BANG](https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7) | 2:58 | 2026-02-25 | 2026-02-27 |
 | [BANG BANG](https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 2:58 | 2026-03-02 | 2026-03-10 |
+| [Bang Bang Bang](https://open.spotify.com/track/6T80kNfM3iJMRO6uzeOzRG) | [BBpanzu](https://open.spotify.com/artist/4h8eXe8mMUAVe2NthUKnek) | [Bang Bang Bang](https://open.spotify.com/album/2zFrkINzgIXLOXMAiQQVP7) | 3:00 | 2026-04-22 |  |
 | [Bang It](https://open.spotify.com/track/0JdIEbuLxEBu8iEUCzk7l3) | [4.4c](https://open.spotify.com/artist/6FrW0pQ9mi0A3B5UGP9nrd) | [Bang It](https://open.spotify.com/album/7cjsSsGMCrEz1KJx3m0j2J) | 2:33 | 2026-03-10 | 2026-03-18 |
 | [Bazooka](https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa) | [Miami XO](https://open.spotify.com/artist/3YtYKFoeuIDJs7UVGiFauz) | [Bazooka](https://open.spotify.com/album/6cM8Ky6V5piRMcuePn2H4L) | 1:48 | 2026-03-03 |  |
 | [Bazooka](https://open.spotify.com/track/65WKFX9Zjt2jhF2SByGmRg) | [Miami XO](https://open.spotify.com/artist/3YtYKFoeuIDJs7UVGiFauz) | [Bazooka](https://open.spotify.com/album/1NQeDAUh3AtqSr3PZJU8Q6) | 1:48 | 2026-04-04 | 2026-04-11 |
@@ -326,7 +327,7 @@
 | [Jane!](https://open.spotify.com/track/3Jn9AqZDPC6bw3Fe2wlSLK) | [The Long Faces](https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40) | [Jane!](https://open.spotify.com/album/5jz6L4ytDQNpvMXBYGs2T2) | 3:06 | 2026-02-09 | 2026-02-15 |
 | [Jane!](https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ) | [The Long Faces](https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40) | [Jane!](https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5) | 3:06 | 2026-02-02 | 2026-04-04 |
 | [Josephine](https://open.spotify.com/track/6JFfOp1LTXnyDCTfHlOc9j) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Shamrock Diaries](https://open.spotify.com/album/4DshZuvIZmKThL2D3cPJOZ) | 3:57 | 2025-12-27 | 2025-12-31 |
-| [Joy\. \(feat\. Amma & Absolutely\)](https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:23 | 2026-04-14 |  |
+| [Joy.](https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:23 | 2026-04-14 |  |
 | [Just Another Love Song](https://open.spotify.com/track/6O8wHBUg6L1YmVYS4vIbVc) | [Beave](https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS) | [Just Another Love Song](https://open.spotify.com/album/34kuIt1bpXShhri5v00SMN) | 2:53 | 2026-03-17 | 2026-04-01 |
 | [Just The Way You Are](https://open.spotify.com/track/22BiNbFtHyktTOKzXBaTp3) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw) | [Star 2008](https://open.spotify.com/album/03THQjn4rbpKRo94XkhQ3Z) | 3:30 | 2026-01-30 | 2026-02-03 |
 | [Just the Way You Are](https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw) | [Star](https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX) | 3:30 | 2026-01-01 | 2026-02-14 |
@@ -596,7 +597,7 @@
 | [The Wreck of the Edmund Fitzgerald](https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Summertime Dream](https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8) | 6:29 | 2025-11-12 | 2025-11-19 |
 | [theclubrock](https://open.spotify.com/track/1pC8k7AoP2uSDOgmNo0vHN) | [Benny Bellson](https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6) | [theclubrock](https://open.spotify.com/album/4upEx9M0b73bqjeiej0Prp) | 2:02 | 2026-01-18 | 2026-01-23 |
 | [theclubrock](https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3) | [Benny Bellson](https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6) | [theclubrock](https://open.spotify.com/album/5vkwMyUecMKS1qOSLt9pIc) | 2:02 | 2026-01-15 | 2026-02-04 |
-| [Theme from Harry's Game \- 2003 Remaster](https://open.spotify.com/track/7nVKpwmGcrhyZqRuGV7r8j) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Magical Ring \(2003 Remaster\)](https://open.spotify.com/album/7aDYJYbaUSgJ3lwaa6BJBs) | 2:29 | 2026-04-21 |  |
+| [Theme from Harry's Game \- 2003 Remaster](https://open.spotify.com/track/7nVKpwmGcrhyZqRuGV7r8j) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Magical Ring \(2003 Remaster\)](https://open.spotify.com/album/7aDYJYbaUSgJ3lwaa6BJBs) | 2:29 | 2026-04-21 | 2026-04-23 |
 | [Therapy](https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Therapy](https://open.spotify.com/album/5heRF13vXGLyz5bmpBsm9Z) | 2:03 | 2025-10-27 | 2025-10-30 |
 | [There's Just Something About Her](https://open.spotify.com/track/6XzSqyhtKa4uJT6O1ZjMe8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [There's Just Something About Her](https://open.spotify.com/album/7qfhRZlEHzCmdgoHnEJuar) | 3:12 | 2025-10-27 | 2025-11-02 |
 | [There's Just Something About Her](https://open.spotify.com/track/7Ae3TUjIzn3gIHPMpZKhot) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [How To Be Human](https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe) | 3:12 | 2025-11-01 | 2025-11-17 |

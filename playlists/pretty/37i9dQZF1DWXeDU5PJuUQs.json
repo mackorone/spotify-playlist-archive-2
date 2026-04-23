@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 263571,
+  "num_followers": 263649,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -964,22 +964,6 @@
       "added_at": "2026-03-13 03:00:05",
       "album": {
         "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 281234,
-      "name": "Si No Te Hubieras Ido - En Vivo",
-      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
-        "name": "En Vivo",
         "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
       },
       "artists": [
@@ -991,6 +975,22 @@
       "duration_ms": 221701,
       "name": "Tu Sin Mi - En Vivo",
       "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 281234,
+      "name": "Si No Te Hubieras Ido - En Vivo",
+      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 278133,
-      "name": "Como Podr\u00e9",
-      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
         "name": "En Vivo...Hasta la Muerte",
         "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 168253,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 278133,
+      "name": "Como Podr\u00e9",
+      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "Bonita / Madre Soltera (En Vivo)",
-        "url": "https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 232896,
-      "name": "Madre Soltera - En Vivo",
-      "url": "https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
         "name": "En Vivo...Hasta la Muerte",
         "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 117653,
       "name": "El Tano Pastita",
       "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "Bonita / Madre Soltera (En Vivo)",
+        "url": "https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 232896,
+      "name": "Madre Soltera - En Vivo",
+      "url": "https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+        "name": "Ya Te Olvide (En Vivo)",
+        "url": "https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Los Pibes del Penal",
+          "url": "https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi"
         }
       ],
-      "duration_ms": 81813,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
+      "duration_ms": 260096,
+      "name": "Ya Te Olvide - En Vivo",
+      "url": "https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "Ya Te Olvide (En Vivo)",
-        "url": "https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC"
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
       "artists": [
         {
-          "name": "Los Pibes del Penal",
-          "url": "https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 260096,
-      "name": "Ya Te Olvide - En Vivo",
-      "url": "https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf"
+      "duration_ms": 81813,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "Flor del Ba\u00f1ado (En Vivo)",
-        "url": "https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 221376,
-      "name": "Flor del Ba\u00f1ado (En Vivo)",
-      "url": "https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
         "name": "En Vivo...Hasta la Muerte",
         "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 496146,
       "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
       "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "Flor del Ba\u00f1ado (En Vivo)",
+        "url": "https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 221376,
+      "name": "Flor del Ba\u00f1ado (En Vivo)",
+      "url": "https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
+        "name": "En Vivo en el Teatro",
+        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 462272,
+      "name": "Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor",
+      "url": "https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
         "name": "Amaneciendo En Ti (En Vivo en la Casa Sabanera)",
         "url": "https://open.spotify.com/album/0sJ614rOz5MikiGV3ZIzmq"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 259721,
       "name": "Amaneciendo En Ti - En Vivo en la Casa Sabanera",
       "url": "https://open.spotify.com/track/5azg6NgweuZ6dciNXGP32I"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
-        "name": "En Vivo en el Teatro",
-        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 462272,
-      "name": "Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor",
-      "url": "https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc"
     },
     {
       "added_at": "2026-03-13 03:00:05",

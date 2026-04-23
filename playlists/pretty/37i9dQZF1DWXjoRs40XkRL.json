@@ -1,6 +1,6 @@
 {
   "description": "Unwind to the best Indian classical sounds out there.",
-  "num_followers": 125015,
+  "num_followers": 125029,
   "original_name": "Raga Lounge",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,26 @@
     {
       "added_at": "2026-04-14 09:12:19",
       "album": {
-        "name": "Saanware Aijaiyo",
-        "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
+        "name": "Bandish Bandits (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
       },
       "artists": [
         {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
         },
         {
-          "name": "Kanishk Seth",
-          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+          "name": "Farid Hasan",
+          "url": "https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ"
+        },
+        {
+          "name": "Mohammed Aman",
+          "url": "https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf"
         }
       ],
-      "duration_ms": 234713,
-      "name": "Saanware Aijaiyo",
-      "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
+      "duration_ms": 330921,
+      "name": "Garaj Garaj Jugalbandi",
+      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
     },
     {
       "added_at": "2026-04-14 09:12:19",
@@ -307,26 +311,22 @@
     {
       "added_at": "2026-04-14 09:12:19",
       "album": {
-        "name": "Bandish Bandits (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+        "name": "Saanware Aijaiyo",
+        "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
       },
       "artists": [
         {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
         },
         {
-          "name": "Farid Hasan",
-          "url": "https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ"
-        },
-        {
-          "name": "Mohammed Aman",
-          "url": "https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf"
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
         }
       ],
-      "duration_ms": 330921,
-      "name": "Garaj Garaj Jugalbandi",
-      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
+      "duration_ms": 234713,
+      "name": "Saanware Aijaiyo",
+      "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
     },
     {
       "added_at": "2026-04-14 09:12:19",
@@ -823,6 +823,26 @@
     {
       "added_at": "2026-04-14 09:12:19",
       "album": {
+        "name": "Sabr",
+        "url": "https://open.spotify.com/album/3WC4sGcmSsfIfHHwgFfskQ"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Saptak Chatterjee",
+          "url": "https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc"
+        }
+      ],
+      "duration_ms": 329120,
+      "name": "Raas Rachat",
+      "url": "https://open.spotify.com/track/3PYDl0Ukv3lVDMLamewPEP"
+    },
+    {
+      "added_at": "2026-04-14 09:12:19",
+      "album": {
         "name": "Jhoom Jhoom",
         "url": "https://open.spotify.com/album/5zmJgoX7CGyOlxQSlX5WF1"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 307970,
       "name": "Jhoom Jhoom",
       "url": "https://open.spotify.com/track/1ZbddoQNQdutI2htLkAhPu"
-    },
-    {
-      "added_at": "2026-04-14 09:12:19",
-      "album": {
-        "name": "Sabr",
-        "url": "https://open.spotify.com/album/3WC4sGcmSsfIfHHwgFfskQ"
-      },
-      "artists": [
-        {
-          "name": "The Anirudh Varma Collective",
-          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
-        },
-        {
-          "name": "Saptak Chatterjee",
-          "url": "https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc"
-        }
-      ],
-      "duration_ms": 329120,
-      "name": "Raas Rachat",
-      "url": "https://open.spotify.com/track/3PYDl0Ukv3lVDMLamewPEP"
     },
     {
       "added_at": "2026-04-14 09:12:19",
@@ -911,26 +911,6 @@
     {
       "added_at": "2026-04-14 09:12:19",
       "album": {
-        "name": "Piya Mere",
-        "url": "https://open.spotify.com/album/10ruqoIbD4Q5UWEDP4i8zH"
-      },
-      "artists": [
-        {
-          "name": "Sanah Moidutty",
-          "url": "https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC"
-        },
-        {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        }
-      ],
-      "duration_ms": 193144,
-      "name": "Piya Mere",
-      "url": "https://open.spotify.com/track/7Arvf7vYFiPV7OovVT6GYh"
-    },
-    {
-      "added_at": "2026-04-14 09:12:19",
-      "album": {
         "name": "Pankh",
         "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 364018,
       "name": "Tarana",
       "url": "https://open.spotify.com/track/4mEhKVLzUW1GsBbPLp60S1"
+    },
+    {
+      "added_at": "2026-04-14 09:12:19",
+      "album": {
+        "name": "Piya Mere",
+        "url": "https://open.spotify.com/album/10ruqoIbD4Q5UWEDP4i8zH"
+      },
+      "artists": [
+        {
+          "name": "Sanah Moidutty",
+          "url": "https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "duration_ms": 193144,
+      "name": "Piya Mere",
+      "url": "https://open.spotify.com/track/7Arvf7vYFiPV7OovVT6GYh"
     },
     {
       "added_at": "2026-04-14 09:12:19",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2026-04-14 09:12:19",
       "album": {
+        "name": "Pankh",
+        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
+      },
+      "artists": [
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        }
+      ],
+      "duration_ms": 365000,
+      "name": "Nayi Bhor",
+      "url": "https://open.spotify.com/track/7cpYb0cqkPhIFX8Rnex93e"
+    },
+    {
+      "added_at": "2026-04-14 09:12:19",
+      "album": {
         "name": "Raga Darbari Kannada & Dhun in Rag Mishra Pilu",
         "url": "https://open.spotify.com/album/2tIWCH1Sx2Lxk6C8Rk1qS9"
       },
@@ -1039,42 +1059,6 @@
     {
       "added_at": "2026-04-14 09:12:19",
       "album": {
-        "name": "Pankh",
-        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
-      },
-      "artists": [
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        },
-        {
-          "name": "Shantanu Moitra",
-          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
-        }
-      ],
-      "duration_ms": 365000,
-      "name": "Nayi Bhor",
-      "url": "https://open.spotify.com/track/7cpYb0cqkPhIFX8Rnex93e"
-    },
-    {
-      "added_at": "2026-04-14 09:12:19",
-      "album": {
-        "name": "Woh Jagah",
-        "url": "https://open.spotify.com/album/1ejBWD9wf5R290bqqj4tRr"
-      },
-      "artists": [
-        {
-          "name": "Deveshi Sahgal",
-          "url": "https://open.spotify.com/artist/1PKC3nPoqvdGFs3hvwIjkP"
-        }
-      ],
-      "duration_ms": 315719,
-      "name": "Ae Re Sakhi",
-      "url": "https://open.spotify.com/track/64yA009hCj5khC1AE09ZlM"
-    },
-    {
-      "added_at": "2026-04-14 09:12:19",
-      "album": {
         "name": "Kaahe?",
         "url": "https://open.spotify.com/album/1arDw3ffIscGEGImorLw98"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2026-04-14 09:12:19",
       "album": {
-        "name": "Mora Akhiyaan",
-        "url": "https://open.spotify.com/album/0c7dOlWQ6Wa3TkFo7JJ4i8"
+        "name": "Woh Jagah",
+        "url": "https://open.spotify.com/album/1ejBWD9wf5R290bqqj4tRr"
       },
       "artists": [
         {
-          "name": "Prayas Pandey",
-          "url": "https://open.spotify.com/artist/6zrMaYTtn7Ll4L9nHL9DOS"
+          "name": "Deveshi Sahgal",
+          "url": "https://open.spotify.com/artist/1PKC3nPoqvdGFs3hvwIjkP"
         }
       ],
-      "duration_ms": 223255,
-      "name": "Mora Akhiyaan",
-      "url": "https://open.spotify.com/track/6VS6r1lw6XQg1JwE3a6zhK"
+      "duration_ms": 315719,
+      "name": "Ae Re Sakhi",
+      "url": "https://open.spotify.com/track/64yA009hCj5khC1AE09ZlM"
     },
     {
       "added_at": "2026-04-14 09:12:19",
@@ -1127,6 +1111,22 @@
       "duration_ms": 165900,
       "name": "Ratiya",
       "url": "https://open.spotify.com/track/1NxUTUf4rQqtnux7QA9hoc"
+    },
+    {
+      "added_at": "2026-04-14 09:12:19",
+      "album": {
+        "name": "Mora Akhiyaan",
+        "url": "https://open.spotify.com/album/0c7dOlWQ6Wa3TkFo7JJ4i8"
+      },
+      "artists": [
+        {
+          "name": "Prayas Pandey",
+          "url": "https://open.spotify.com/artist/6zrMaYTtn7Ll4L9nHL9DOS"
+        }
+      ],
+      "duration_ms": 223255,
+      "name": "Mora Akhiyaan",
+      "url": "https://open.spotify.com/track/6VS6r1lw6XQg1JwE3a6zhK"
     },
     {
       "added_at": "2026-04-14 09:12:19",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-04-14 09:12:19",
       "album": {
-        "name": "Baju Band",
-        "url": "https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f"
-      },
-      "artists": [
-        {
-          "name": "Sniti Mishra",
-          "url": "https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Baju Band",
-      "url": "https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD"
-    },
-    {
-      "added_at": "2026-04-14 09:12:19",
-      "album": {
         "name": "ESWY",
         "url": "https://open.spotify.com/album/0cOUvMbQkmW7xMYTAwBUPI"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 179257,
       "name": "ESWY",
       "url": "https://open.spotify.com/track/1yazBO7fdWNDUcr3uuRbTr"
+    },
+    {
+      "added_at": "2026-04-14 09:12:19",
+      "album": {
+        "name": "Baju Band",
+        "url": "https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f"
+      },
+      "artists": [
+        {
+          "name": "Sniti Mishra",
+          "url": "https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Baju Band",
+      "url": "https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD"
     },
     {
       "added_at": "2026-04-14 09:12:19",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-04-14 09:12:19",
       "album": {
+        "name": "Hori Rasiya",
+        "url": "https://open.spotify.com/album/4pSmoEK6Zc3ZHgnI4l67Ob"
+      },
+      "artists": [
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        }
+      ],
+      "duration_ms": 175694,
+      "name": "Hori Rasiya",
+      "url": "https://open.spotify.com/track/6eUNQaRzJX4kpuX5QwViRo"
+    },
+    {
+      "added_at": "2026-04-14 09:12:19",
+      "album": {
         "name": "Kaari",
         "url": "https://open.spotify.com/album/6daQiMjPyMjA91IpMW4UDS"
       },
@@ -1395,18 +1411,22 @@
     {
       "added_at": "2026-04-14 09:12:19",
       "album": {
-        "name": "Hori Rasiya",
-        "url": "https://open.spotify.com/album/4pSmoEK6Zc3ZHgnI4l67Ob"
+        "name": "Moko Kahan",
+        "url": "https://open.spotify.com/album/3TKDcIp43A2db9vnK263xP"
       },
       "artists": [
         {
-          "name": "Garvit - Priyansh",
-          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+          "name": "Vidhya Gopal",
+          "url": "https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B"
+        },
+        {
+          "name": "digV",
+          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
         }
       ],
-      "duration_ms": 175694,
-      "name": "Hori Rasiya",
-      "url": "https://open.spotify.com/track/6eUNQaRzJX4kpuX5QwViRo"
+      "duration_ms": 426813,
+      "name": "Moko Kahan",
+      "url": "https://open.spotify.com/track/2i6hWZ4s93bxWrrag2fcLI"
     },
     {
       "added_at": "2026-04-14 09:12:19",
@@ -1451,26 +1471,6 @@
       "duration_ms": 159622,
       "name": "Kaliyaan",
       "url": "https://open.spotify.com/track/2imK2X4ah7bVms1TjSAB19"
-    },
-    {
-      "added_at": "2026-04-14 09:12:19",
-      "album": {
-        "name": "Moko Kahan",
-        "url": "https://open.spotify.com/album/3TKDcIp43A2db9vnK263xP"
-      },
-      "artists": [
-        {
-          "name": "Vidhya Gopal",
-          "url": "https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B"
-        },
-        {
-          "name": "digV",
-          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
-        }
-      ],
-      "duration_ms": 426813,
-      "name": "Moko Kahan",
-      "url": "https://open.spotify.com/track/2i6hWZ4s93bxWrrag2fcLI"
     },
     {
       "added_at": "2026-04-14 09:12:19",
@@ -1587,26 +1587,22 @@
     {
       "added_at": "2026-04-14 09:12:19",
       "album": {
-        "name": "Mohanam",
-        "url": "https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp"
+        "name": "Dhai Aakhar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PbmH1UGtEj2rUhSh7D7kQ"
       },
       "artists": [
         {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+          "name": "Anupam Roy",
+          "url": "https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L"
         },
         {
-          "name": "Zakir Hussain",
-          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
-        },
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
         }
       ],
-      "duration_ms": 359960,
-      "name": "Mohanam",
-      "url": "https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs"
+      "duration_ms": 285000,
+      "name": "Ae Ri Sakhi",
+      "url": "https://open.spotify.com/track/48VuZBLob8F0K62yPqch09"
     },
     {
       "added_at": "2026-04-14 09:12:19",
@@ -1635,22 +1631,26 @@
     {
       "added_at": "2026-04-14 09:12:19",
       "album": {
-        "name": "Dhai Aakhar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3PbmH1UGtEj2rUhSh7D7kQ"
+        "name": "Mohanam",
+        "url": "https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp"
       },
       "artists": [
         {
-          "name": "Anupam Roy",
-          "url": "https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L"
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
         },
         {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        },
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
         }
       ],
-      "duration_ms": 285000,
-      "name": "Ae Ri Sakhi",
-      "url": "https://open.spotify.com/track/48VuZBLob8F0K62yPqch09"
+      "duration_ms": 359960,
+      "name": "Mohanam",
+      "url": "https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs"
     }
   ],
   "unique_name": "Raga Lounge",

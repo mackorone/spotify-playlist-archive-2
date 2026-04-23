@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Los Pericos & Nonpalidece",
-  "num_followers": 1169384,
+  "num_followers": 1169271,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "No Es Solo Rock And Roll",
-        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 296666,
-      "name": "Reggae Para Los Amigos",
-      "url": "https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
         "name": "Tiempos de Tribulacion",
         "url": "https://open.spotify.com/album/2nQvDkJgU47Ghb59zb0UVK"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 363120,
       "name": "Orillas",
       "url": "https://open.spotify.com/track/7gP7A6Fz8easI7b0qxZPAw"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
+        "name": "No Es Solo Rock And Roll",
+        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 296666,
+      "name": "Reggae Para Los Amigos",
+      "url": "https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -1515,30 +1515,22 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "Celebration (feat. Ky-Mani Marley)",
-        "url": "https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E"
+        "name": "Mundo de Cristal",
+        "url": "https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL"
       },
       "artists": [
         {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
         },
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Ky-Mani Marley",
-          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 231933,
-      "name": "Celebration (feat. Ky-Mani Marley)",
-      "url": "https://open.spotify.com/track/08j5bEz5uMlE9zCFvLyaDr"
+      "duration_ms": 210000,
+      "name": "Mundo de Cristal",
+      "url": "https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -1563,22 +1555,30 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "Mundo de Cristal",
-        "url": "https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL"
+        "name": "Celebration (feat. Ky-Mani Marley)",
+        "url": "https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E"
       },
       "artists": [
         {
-          "name": "Green Valley",
-          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
         },
         {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Mundo de Cristal",
-      "url": "https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d"
+      "duration_ms": 231933,
+      "name": "Celebration (feat. Ky-Mani Marley)",
+      "url": "https://open.spotify.com/track/08j5bEz5uMlE9zCFvLyaDr"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "C\u00f3mo Voy a Olvidarte",
-        "url": "https://open.spotify.com/album/7xYk2XnU8ZoJsIaA5UBTNP"
+        "name": "El Baile y El Sal\u00f3n",
+        "url": "https://open.spotify.com/album/4qVBQAJ9QcTfwUtGAAZsAi"
       },
       "artists": [
         {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
         }
       ],
-      "duration_ms": 175123,
-      "name": "C\u00f3mo Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/63mOOfk3Z85c3bxTC9hT4m"
+      "duration_ms": 291160,
+      "name": "El Baile y El Sal\u00f3n",
+      "url": "https://open.spotify.com/track/7CYUhmlh78j9u1rJPojNiL"
     }
   ],
   "unique_name": "Reggae en Espa\u00f1ol",

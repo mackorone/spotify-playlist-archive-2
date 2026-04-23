@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Shakira, Bel\u00e9e",
-  "num_followers": 241335,
+  "num_followers": 241363,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2026-04-10 03:00:47",
       "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
-    },
-    {
-      "added_at": "2026-04-10 03:00:47",
-      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 167315,
       "name": "De Vuelta",
       "url": "https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz"
+    },
+    {
+      "added_at": "2026-04-10 03:00:47",
+      "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
     },
     {
       "added_at": "2026-04-10 03:00:47",
@@ -1427,7 +1427,7 @@
     {
       "added_at": "2026-04-10 03:00:47",
       "album": {
-        "name": "Namorar Pelado",
+        "name": "NAMORAR PELADO",
         "url": "https://open.spotify.com/album/2FHyinjQkyFkP10QI3wfMQ"
       },
       "artists": [

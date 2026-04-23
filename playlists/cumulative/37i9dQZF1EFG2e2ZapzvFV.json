@@ -3423,6 +3423,24 @@
     },
     {
       "album": {
+        "name": "Up All Night - House Party Energy",
+        "url": "https://open.spotify.com/album/36wq5YXDyqJIA895HmnpHn"
+      },
+      "artists": [
+        {
+          "name": "Flashback Avenue",
+          "url": "https://open.spotify.com/artist/1HANinT2rV1dtgfmxTTucL"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191290,
+      "name": "The Way I Are (Dance with Somebody)",
+      "url": "https://open.spotify.com/track/1TLwImbhpQtHiNrbfqmVdl"
+    },
+    {
+      "album": {
         "name": "Pop Hits Anthems",
         "url": "https://open.spotify.com/album/6NmPeYy79lVRBn7tzJ9mC2"
       },
@@ -3460,7 +3478,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 191290,
       "name": "The Way I Are (Dance with Somebody)",
       "url": "https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ"

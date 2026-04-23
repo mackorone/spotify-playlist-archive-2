@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 456451,
+  "num_followers": 456549,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -385,6 +385,22 @@
       "url": "https://open.spotify.com/track/7MO3e3jJ8iczmix3WeDMFO"
     },
     {
+      "added_at": "2022-02-09 09:10:51",
+      "album": {
+        "name": "DJ Tillu",
+        "url": "https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0"
+      },
+      "artists": [
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Tillu Anna DJ Pedithe",
+      "url": "https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn"
+    },
+    {
       "added_at": "2025-12-02 09:29:59",
       "album": {
         "name": "Neeli Meghamulalo (From \"35 Chinna Katha Kaadu\")(TeIugu)",
@@ -411,22 +427,6 @@
       "duration_ms": 292825,
       "name": "Neeli Meghamulalo (From \"35 Chinna Katha Kaadu\")(TeIugu)",
       "url": "https://open.spotify.com/track/0sYNZqHarbkRCJ1TOIkhqB"
-    },
-    {
-      "added_at": "2022-02-09 09:10:51",
-      "album": {
-        "name": "DJ Tillu",
-        "url": "https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0"
-      },
-      "artists": [
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Tillu Anna DJ Pedithe",
-      "url": "https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn"
     },
     {
       "added_at": "2021-12-16 12:46:43",
@@ -973,6 +973,30 @@
       "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
     },
     {
+      "added_at": "2022-08-16 07:40:21",
+      "album": {
+        "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
+        "url": "https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 218808,
+      "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
+      "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
+    },
+    {
       "added_at": "2026-04-17 11:03:44",
       "album": {
         "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
@@ -999,30 +1023,6 @@
       "duration_ms": 190083,
       "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
       "url": "https://open.spotify.com/track/5SSYMRye4sfUYk5yjMdvWV"
-    },
-    {
-      "added_at": "2022-08-16 07:40:21",
-      "album": {
-        "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
-        "url": "https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "S.P. Charan",
-          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 218808,
-      "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
-      "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
     },
     {
       "added_at": "2023-05-04 06:50:45",
@@ -2095,6 +2095,26 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
+        "name": "Shivam",
+        "url": "https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7"
+      },
+      "artists": [
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        },
+        {
+          "name": "Haripriya",
+          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
+        }
+      ],
+      "duration_ms": 239372,
+      "name": "Andamaina Lokam",
+      "url": "https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
         "name": "Temper",
         "url": "https://open.spotify.com/album/64aQTxaAVppQw0m5qSkzvS"
       },
@@ -2115,26 +2135,6 @@
       "duration_ms": 250971,
       "name": "Choolenge Aasma",
       "url": "https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Shivam",
-        "url": "https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7"
-      },
-      "artists": [
-        {
-          "name": "Sagar",
-          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
-        },
-        {
-          "name": "Haripriya",
-          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
-        }
-      ],
-      "duration_ms": 239372,
-      "name": "Andamaina Lokam",
-      "url": "https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5"
     },
     {
       "added_at": "2023-08-07 09:11:28",

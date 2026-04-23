@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 100906,
+  "num_followers": 100939,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Que Suene Mexico, Vol. 3",
-        "url": "https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3"
+        "name": "Olokun",
+        "url": "https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf"
       },
       "artists": [
         {
-          "name": "DJ TETRIS",
-          "url": "https://open.spotify.com/artist/6LgjuGF7FuYQ0Ycx9a4oqA"
+          "name": "XAVO",
+          "url": "https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM"
         }
       ],
-      "duration_ms": 195226,
-      "name": "Costars",
-      "url": "https://open.spotify.com/track/5UYVlRMSVmel4NohDcLK0o"
+      "duration_ms": 211295,
+      "name": "Olokun",
+      "url": "https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Olokun",
-        "url": "https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf"
+        "name": "Que Suene Mexico, Vol. 3",
+        "url": "https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3"
       },
       "artists": [
         {
-          "name": "XAVO",
-          "url": "https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM"
+          "name": "DJ TETRIS",
+          "url": "https://open.spotify.com/artist/6LgjuGF7FuYQ0Ycx9a4oqA"
         }
       ],
-      "duration_ms": 211295,
-      "name": "Olokun",
-      "url": "https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6"
+      "duration_ms": 195226,
+      "name": "Costars",
+      "url": "https://open.spotify.com/track/5UYVlRMSVmel4NohDcLK0o"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Club Negro",
+        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda y Jos\u00e9",
+          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
+        }
+      ],
+      "duration_ms": 212097,
+      "name": "Rey de Reyes",
+      "url": "https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Baila Conmigo (feat. Kelly Ruiz)",
         "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 189817,
       "name": "Baila Conmigo (feat. Kelly Ruiz)",
       "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Club Negro",
-        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Jos\u00e9",
-          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
-        }
-      ],
-      "duration_ms": 212097,
-      "name": "Rey de Reyes",
-      "url": "https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -927,22 +927,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "El \u00daltimo",
-        "url": "https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p"
+        "name": "Club Negro",
+        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
       },
       "artists": [
         {
-          "name": "El Catorce",
-          "url": "https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc"
-        },
-        {
-          "name": "Syztema",
-          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
+          "name": "Mar\u00eda y Jos\u00e9",
+          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
         }
       ],
-      "duration_ms": 300522,
-      "name": "Kombat",
-      "url": "https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax"
+      "duration_ms": 298697,
+      "name": "Violentao (Feat. Sheeqo Beat)",
+      "url": "https://open.spotify.com/track/1pFruucew24311dJNbcjMZ"
     }
   ],
   "unique_name": "Fiesta Tribal",

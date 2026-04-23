@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,678 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,677 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 44 | [ひとりじゃないんだから \(パラレルver.\)](https://open.spotify.com/track/1iRCZqUqfCFBqT8NI89geT) | [羽沢珈琲店にようこそ♪](https://open.spotify.com/artist/1z3oUWGzmtiO7LytZJLx8O), [羽沢つぐみ\(CV:金元寿子\)](https://open.spotify.com/artist/7faWE6B8AnIPOCDuQmv96x), [若宮イヴ\(CV:秦佐和子\)](https://open.spotify.com/artist/66E2DxfDG4cUdM0uivbYPs), [二葉つくし\(CV:mika\)](https://open.spotify.com/artist/6JtSmSbV4QC96Wm4b4hjZK) | [ひとりじゃないんだから \(パラレルver.\)](https://open.spotify.com/album/4txrzjXgvXWNiWlZB0YndH) | 3:58 |
 | 45 | [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 |
 | 46 | [熱風海陸ブシロード〜熱き咆哮〜 \(Cover\)](https://open.spotify.com/track/0TSGiufLpHUCT3RpiBogE8) | [夢幻戦隊むーたいぷ](https://open.spotify.com/artist/0Jvxrj4gf4hdQYuTNq12b5) | [夢幻戦隊むーたいぷ１ \(Cover\)](https://open.spotify.com/album/1stMIkjvzPRWv5li1KO293) | 4:37 |
-| 47 | [寄る辺のSunny, Sunny](https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:35 |
+| 47 | [誓いのWingbeat](https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:15 |
 | 48 | [コハク](https://open.spotify.com/track/78wP3WriYV17zAADyRUJxJ) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [コミュ着火Fire!](https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9) | 3:40 |
 | 49 | [そばかす \- Cover](https://open.spotify.com/track/2daUZPAd5e8QdN2bOzC9js) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 4:10 |
 | 50 | [カサブタ \- Cover](https://open.spotify.com/track/59Pe5PRQEFrLVj9G4Bvp13) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:16 |
 | 51 | [GO! GO! MANIAC](https://open.spotify.com/track/789UN0IFmblfGjNPaiJoqb) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:07 |
-| 52 | [誓いのWingbeat](https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:15 |
+| 52 | [寄る辺のSunny, Sunny](https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:35 |
 | 53 | [Don't be afraid!](https://open.spotify.com/track/6xdaAj70Cp5XSSuEIuzWef) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc) | 3:57 |
 | 54 | [SAKURAスキップ \- Cover](https://open.spotify.com/track/1NhUiKrcrBPCIDgkBDzx5x) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 3:48 |
 | 55 | [青い栞 \- Cover](https://open.spotify.com/track/5UHnD4ZYLLOSQaAeJGuBzt) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 5:36 |

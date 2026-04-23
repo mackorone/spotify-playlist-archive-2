@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 221765,
+  "num_followers": 221778,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Dear, Piano",
-        "url": "https://open.spotify.com/album/1MrAfbbO15n2Y1odaVOt9u"
-      },
-      "artists": [
-        {
-          "name": "Illuminine",
-          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
-        },
-        {
-          "name": "Simeon Walker",
-          "url": "https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK"
-        }
-      ],
-      "duration_ms": 271760,
-      "name": "Patterns, Erase - Simeon Walker Rework",
-      "url": "https://open.spotify.com/track/1Biw7PpA3W0wCSl4PPspsa"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Liszt - My Piano Hero",
         "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 259573,
       "name": "Consolation No. 3 in D-Flat Major, S. 172",
       "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "Dear, Piano",
+        "url": "https://open.spotify.com/album/1MrAfbbO15n2Y1odaVOt9u"
+      },
+      "artists": [
+        {
+          "name": "Illuminine",
+          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
+        },
+        {
+          "name": "Simeon Walker",
+          "url": "https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK"
+        }
+      ],
+      "duration_ms": 271760,
+      "name": "Patterns, Erase - Simeon Walker Rework",
+      "url": "https://open.spotify.com/track/1Biw7PpA3W0wCSl4PPspsa"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1215,30 +1215,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Sinfonie Napolitane",
-        "url": "https://open.spotify.com/album/76c3khwtHNzubPiSN5RSkp"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Battista Pergolesi",
-          "url": "https://open.spotify.com/artist/08ewVs9B2qQZ2Gy3xfTFyo"
-        },
-        {
-          "name": "Orchestra da Camera di Napoli",
-          "url": "https://open.spotify.com/artist/3Xvs8dfAyr88DYUupSLITc"
-        },
-        {
-          "name": "Enzo Amato",
-          "url": "https://open.spotify.com/artist/4hqWKF9i5qQvlPA3UpuTIN"
-        }
-      ],
-      "duration_ms": 147120,
-      "name": "Lo frate 'nnamorato: II. Andante",
-      "url": "https://open.spotify.com/track/6xhVf7SgpsCDV0im95XTe3"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Sibelius: Violin Concerto; Prokofiev: Violin Concerto No. 1",
         "url": "https://open.spotify.com/album/0fJXrHy6ehWMoxSlHuguF2"
       },
@@ -1259,6 +1235,30 @@
       "duration_ms": 47760,
       "name": "Water Drops, JS 216",
       "url": "https://open.spotify.com/track/0Lmnw6Rc0lCMup7rQ2nRMY"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "Sinfonie Napolitane",
+        "url": "https://open.spotify.com/album/76c3khwtHNzubPiSN5RSkp"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Battista Pergolesi",
+          "url": "https://open.spotify.com/artist/08ewVs9B2qQZ2Gy3xfTFyo"
+        },
+        {
+          "name": "Orchestra da Camera di Napoli",
+          "url": "https://open.spotify.com/artist/3Xvs8dfAyr88DYUupSLITc"
+        },
+        {
+          "name": "Enzo Amato",
+          "url": "https://open.spotify.com/artist/4hqWKF9i5qQvlPA3UpuTIN"
+        }
+      ],
+      "duration_ms": 147120,
+      "name": "Lo frate 'nnamorato: II. Andante",
+      "url": "https://open.spotify.com/track/6xhVf7SgpsCDV0im95XTe3"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Dancing Michelangelo (Andante Piano Sessions)",
+        "url": "https://open.spotify.com/album/5BpXpfoLktI95OkrIGUCj0"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "duration_ms": 110583,
+      "name": "Dancing Michelangelo - Andante Piano Sessions",
+      "url": "https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Mozart: Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
         "url": "https://open.spotify.com/album/5GymNwQR1TLH6HoYcuLAeT"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Dancing Michelangelo (Andante Piano Sessions)",
-        "url": "https://open.spotify.com/album/5BpXpfoLktI95OkrIGUCj0"
-      },
-      "artists": [
-        {
-          "name": "Luis Berra",
-          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
-        }
-      ],
-      "duration_ms": 110583,
-      "name": "Dancing Michelangelo - Andante Piano Sessions",
-      "url": "https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Bach: Inventions & Sinfonias",
         "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
@@ -1387,30 +1387,6 @@
       "duration_ms": 98120,
       "name": "Invention No. 14 in B-Flat Major, BWV 785",
       "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Telemann Collection",
-        "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
-      },
-      "artists": [
-        {
-          "name": "Georg Philipp Telemann",
-          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
-        },
-        {
-          "name": "Collegium Instrumentale Brugense",
-          "url": "https://open.spotify.com/artist/58WgXgh03rjIO1BkByxMgu"
-        },
-        {
-          "name": "Marc Peire",
-          "url": "https://open.spotify.com/artist/1W2a3r99zPaSl50jkBxhgz"
-        }
-      ],
-      "duration_ms": 65080,
-      "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
-      "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1435,6 +1411,30 @@
       "duration_ms": 153640,
       "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
       "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "Telemann Collection",
+        "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
+      },
+      "artists": [
+        {
+          "name": "Georg Philipp Telemann",
+          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
+        },
+        {
+          "name": "Collegium Instrumentale Brugense",
+          "url": "https://open.spotify.com/artist/58WgXgh03rjIO1BkByxMgu"
+        },
+        {
+          "name": "Marc Peire",
+          "url": "https://open.spotify.com/artist/1W2a3r99zPaSl50jkBxhgz"
+        }
+      ],
+      "duration_ms": 65080,
+      "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
+      "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Tempora",
+        "url": "https://open.spotify.com/album/5JRtd3VR4X2LUziz7CcVxE"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "duration_ms": 152849,
+      "name": "Tempora",
+      "url": "https://open.spotify.com/track/0uME5XUJPts0jypYhjtG13"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Norway",
         "url": "https://open.spotify.com/album/5CO47sQ8DX7uMbJbQ8uM38"
       },
@@ -2211,22 +2227,6 @@
       "duration_ms": 294848,
       "name": "V\u00e5ren",
       "url": "https://open.spotify.com/track/3oBshZ7DMS9sAgja2M1JVV"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Tempora",
-        "url": "https://open.spotify.com/album/5JRtd3VR4X2LUziz7CcVxE"
-      },
-      "artists": [
-        {
-          "name": "Luis Berra",
-          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
-        }
-      ],
-      "duration_ms": 152849,
-      "name": "Tempora",
-      "url": "https://open.spotify.com/track/0uME5XUJPts0jypYhjtG13"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -2271,30 +2271,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "A Lionel Tertis Celebration",
-        "url": "https://open.spotify.com/album/6PQmsEvXXCMSTjxkFyqcS2"
-      },
-      "artists": [
-        {
-          "name": "Lionel Tertis",
-          "url": "https://open.spotify.com/artist/299AWVLPvfT2eFjZFlhlOW"
-        },
-        {
-          "name": "Timothy Ridout",
-          "url": "https://open.spotify.com/artist/5Ff3ExmaueX5f8ROQjeB4g"
-        },
-        {
-          "name": "Frank Dupree",
-          "url": "https://open.spotify.com/artist/6njtXkDG0AlF0gO1hpIaqf"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/3z7waGD32zmOs9ndMqPhPl"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Melartin: Symphonies Nos. 5 & 6",
         "url": "https://open.spotify.com/album/1WIRM3HWWFCaVipjRigisi"
       },
@@ -2315,6 +2291,30 @@
       "duration_ms": 332682,
       "name": "Symphony No. 5 in A Minor, Op. 90 \"Sinfonia brevis\": III. Intermezzo",
       "url": "https://open.spotify.com/track/4IEe8mTvhyZ4MBEZTZj6RI"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "A Lionel Tertis Celebration",
+        "url": "https://open.spotify.com/album/6PQmsEvXXCMSTjxkFyqcS2"
+      },
+      "artists": [
+        {
+          "name": "Lionel Tertis",
+          "url": "https://open.spotify.com/artist/299AWVLPvfT2eFjZFlhlOW"
+        },
+        {
+          "name": "Timothy Ridout",
+          "url": "https://open.spotify.com/artist/5Ff3ExmaueX5f8ROQjeB4g"
+        },
+        {
+          "name": "Frank Dupree",
+          "url": "https://open.spotify.com/artist/6njtXkDG0AlF0gO1hpIaqf"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/3z7waGD32zmOs9ndMqPhPl"
     },
     {
       "added_at": "2025-12-23 11:21:37",

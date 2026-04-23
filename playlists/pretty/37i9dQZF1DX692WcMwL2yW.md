@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic beats and dark ambient movements.
 
-[Spotify](https://open.spotify.com/user/spotify) - 910,189 likes - 166 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 910,170 likes - 166 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

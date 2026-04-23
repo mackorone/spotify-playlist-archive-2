@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:034u8Qcs47NHkRQXaWkLXW">MORGXN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,654 likes - 36 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,668 likes - 36 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

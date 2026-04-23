@@ -859,6 +859,32 @@
     },
     {
       "album": {
+        "name": "Chand Mera Dil (Title Track)",
+        "url": "https://open.spotify.com/album/1ttzMgG7D1bPl2adfo1lbD"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280909,
+      "name": "Chand Mera Dil - Title Track",
+      "url": "https://open.spotify.com/track/7GQB2CWQcahCLCCNQHKWXM"
+    },
+    {
+      "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
       },
@@ -1856,7 +1882,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 204041,
       "name": "Haan Ke Haan",
       "url": "https://open.spotify.com/track/1WxzZoWBTmB68AtyA6ejBB"
@@ -5536,7 +5562,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 329375,
       "name": "Sahiba",
       "url": "https://open.spotify.com/track/3g5JKHCtMyjEXJY2ZotLoA"
@@ -6812,6 +6838,36 @@
       "duration_ms": 272869,
       "name": "Tu Har Lamha (From \"Khamoshiyan\")",
       "url": "https://open.spotify.com/track/13tg1zpSfWyFQbv09a9LPD"
+    },
+    {
+      "album": {
+        "name": "Tu Hi Disda (From \"Bhooth Bangla\")",
+        "url": "https://open.spotify.com/album/7KMLTs8phfJh2QGVR2qYdE"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277565,
+      "name": "Tu Hi Disda - From \"Bhooth Bangla\"",
+      "url": "https://open.spotify.com/track/4mjAJxu1OQMd0Pf5lOLNQL"
     },
     {
       "album": {

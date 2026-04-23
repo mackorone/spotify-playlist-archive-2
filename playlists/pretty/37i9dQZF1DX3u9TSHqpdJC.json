@@ -1,13 +1,141 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: d\u00f3ttir.x. Artwork by Paola Saliby",
-  "num_followers": 239421,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: mra. Artwork by Paola Saliby",
+  "num_followers": 239427,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFYfueaZir3AW2N5MoWrtp4weQfd",
+  "snapshot_id": "AAAAAGBVxZ/DaEW1QIuYWaI/vUumJiv/",
   "tracks": [
+    {
+      "added_at": "2026-04-22 04:00:09",
+      "album": {
+        "name": "001",
+        "url": "https://open.spotify.com/album/5c9FP6mRrhRbCNLrP3NqBC"
+      },
+      "artists": [
+        {
+          "name": "mra",
+          "url": "https://open.spotify.com/artist/5ICv05L4fcvG3i8l6yEoWA"
+        }
+      ],
+      "duration_ms": 220655,
+      "name": "Critical",
+      "url": "https://open.spotify.com/track/4TYZUb95asPHvyT5mfrJ2y"
+    },
+    {
+      "added_at": "2026-04-22 04:00:09",
+      "album": {
+        "name": "Overwhelmed",
+        "url": "https://open.spotify.com/album/0M1WroYGkSi8IJ8lKVT691"
+      },
+      "artists": [
+        {
+          "name": "Ava Ro",
+          "url": "https://open.spotify.com/artist/3dtibWWBFanW0n3GYu8NIU"
+        }
+      ],
+      "duration_ms": 212811,
+      "name": "Overwhelmed",
+      "url": "https://open.spotify.com/track/1cY7aYp1ioUC4mkPTT2qpf"
+    },
+    {
+      "added_at": "2026-04-22 04:00:09",
+      "album": {
+        "name": "The Mirror",
+        "url": "https://open.spotify.com/album/0iJdKGzrGutX6ec9eooCie"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 125698,
+      "name": "The Mirror",
+      "url": "https://open.spotify.com/track/3afTokYq5ULFPgMF7bU8cP"
+    },
+    {
+      "added_at": "2026-04-22 04:00:09",
+      "album": {
+        "name": "MANIFESTO",
+        "url": "https://open.spotify.com/album/7FjnhKX5JtkOwuEOO7GbGg"
+      },
+      "artists": [
+        {
+          "name": "Claar",
+          "url": "https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa"
+        }
+      ],
+      "duration_ms": 145344,
+      "name": "MANIFESTO",
+      "url": "https://open.spotify.com/track/1UsW8IrC76C6iC9uHTvKne"
+    },
+    {
+      "added_at": "2026-04-22 04:00:09",
+      "album": {
+        "name": "Lay It Down",
+        "url": "https://open.spotify.com/album/5j7oTRAi1YltxBhoEL6n9Z"
+      },
+      "artists": [
+        {
+          "name": "Tusekah",
+          "url": "https://open.spotify.com/artist/6w8NhdLlNYDyfFfbjJanRl"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Lay It Down",
+      "url": "https://open.spotify.com/track/7HD1eI4xMRmiVer4mnkeEk"
+    },
+    {
+      "added_at": "2026-04-22 04:00:09",
+      "album": {
+        "name": "The Mental Game",
+        "url": "https://open.spotify.com/album/23JoUZTfJicANFn2EK6dfU"
+      },
+      "artists": [
+        {
+          "name": "ALZZY",
+          "url": "https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7"
+        }
+      ],
+      "duration_ms": 152437,
+      "name": "One Step",
+      "url": "https://open.spotify.com/track/6O9GCOLvN9XXdeMJDTZTYg"
+    },
+    {
+      "added_at": "2026-04-22 04:00:09",
+      "album": {
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/5oZjxGVnWSmZD6Zmls9ksq"
+      },
+      "artists": [
+        {
+          "name": "Maryn Charlie",
+          "url": "https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL"
+        }
+      ],
+      "duration_ms": 161014,
+      "name": "Hit By Lightning",
+      "url": "https://open.spotify.com/track/2NHXvqspojNxWjmRSdcZn3"
+    },
+    {
+      "added_at": "2026-04-22 04:00:09",
+      "album": {
+        "name": "disintegrating",
+        "url": "https://open.spotify.com/album/0GL1tAnw9zX6RzXWawVoHf"
+      },
+      "artists": [
+        {
+          "name": "gleame",
+          "url": "https://open.spotify.com/artist/6nx1vqfMzIOHKpBeLBiSWR"
+        }
+      ],
+      "duration_ms": 131658,
+      "name": "disintegrating",
+      "url": "https://open.spotify.com/track/2vIf7jNhpcgjHCKF6SHRku"
+    },
     {
       "added_at": "2026-04-15 04:00:17",
       "album": {
@@ -713,22 +841,6 @@
       "url": "https://open.spotify.com/track/5E0SRWQIVOpPBWfOB4F1DA"
     },
     {
-      "added_at": "2026-03-11 04:00:22",
-      "album": {
-        "name": "Dog Eat Dog",
-        "url": "https://open.spotify.com/album/5x8ghkdsw5hs8RvPoHSGbd"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 190410,
-      "name": "Dog Eat Dog",
-      "url": "https://open.spotify.com/track/601V6Cr1UYkR8qaRtrSDzl"
-    },
-    {
       "added_at": "2026-03-11 13:57:39",
       "album": {
         "name": "How Cruel",
@@ -921,38 +1033,6 @@
       "url": "https://open.spotify.com/track/3lmznpzLjYggvFY9cVMzbh"
     },
     {
-      "added_at": "2026-02-25 05:00:10",
-      "album": {
-        "name": "Listen To Me",
-        "url": "https://open.spotify.com/album/1HYb34NcCRU2OgOgNxpfoP"
-      },
-      "artists": [
-        {
-          "name": "Glass Kinsman",
-          "url": "https://open.spotify.com/artist/2r6hsDRBak5K0d2FWtgBSx"
-        }
-      ],
-      "duration_ms": 234271,
-      "name": "Listen To Me",
-      "url": "https://open.spotify.com/track/2hj1pwxEQDh1Y5Fo9yZZjr"
-    },
-    {
-      "added_at": "2026-02-25 05:00:10",
-      "album": {
-        "name": "Sign of the Times",
-        "url": "https://open.spotify.com/album/61V8sQNNsInhjEzHUp1wBP"
-      },
-      "artists": [
-        {
-          "name": "Internet Cafe",
-          "url": "https://open.spotify.com/artist/53k5QCjTcDkWtbltJLSIq6"
-        }
-      ],
-      "duration_ms": 138488,
-      "name": "Sign of the Times",
-      "url": "https://open.spotify.com/track/1lLj2Sx25r56K18YYfkSW6"
-    },
-    {
       "added_at": "2026-02-18 18:23:36",
       "album": {
         "name": "Emotional Currency",
@@ -983,22 +1063,6 @@
       "duration_ms": 213137,
       "name": "Clairvoyant",
       "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
-    },
-    {
-      "added_at": "2026-02-18 18:23:36",
-      "album": {
-        "name": "PLM",
-        "url": "https://open.spotify.com/album/2t6DASZWlEFjg7sxUFQHLi"
-      },
-      "artists": [
-        {
-          "name": "LALA HAYDEN",
-          "url": "https://open.spotify.com/artist/54K6X7R6KvbCryoGE5Dufn"
-        }
-      ],
-      "duration_ms": 150465,
-      "name": "PLM",
-      "url": "https://open.spotify.com/track/117MZN6QmvdeBN78rVmphq"
     },
     {
       "added_at": "2026-02-11 13:40:41",
@@ -1033,54 +1097,6 @@
       "url": "https://open.spotify.com/track/03w3rXukAjqDavSVdJPlNB"
     },
     {
-      "added_at": "2026-02-11 13:40:41",
-      "album": {
-        "name": "DANGERUSH",
-        "url": "https://open.spotify.com/album/4cYtuwrNSzsYe0QnD6Bqnz"
-      },
-      "artists": [
-        {
-          "name": "Jourdin Pauline",
-          "url": "https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk"
-        }
-      ],
-      "duration_ms": 167628,
-      "name": "DANGERUSH",
-      "url": "https://open.spotify.com/track/5WfjsBrLERzoPafwsxOOhE"
-    },
-    {
-      "added_at": "2026-02-11 13:40:41",
-      "album": {
-        "name": "DJesus",
-        "url": "https://open.spotify.com/album/0PkfgoOTi7L3nwJxMoWJOq"
-      },
-      "artists": [
-        {
-          "name": "Magdalene",
-          "url": "https://open.spotify.com/artist/3UYOQKTtbI8icWKAH8My1c"
-        }
-      ],
-      "duration_ms": 174655,
-      "name": "DJesus",
-      "url": "https://open.spotify.com/track/6PWoqFfl4HwgsScx99CyF2"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Never Be Me (M\u2605therf\u2605cker)",
-        "url": "https://open.spotify.com/album/3iVH46CgYIPFt2NfKUuj4B"
-      },
-      "artists": [
-        {
-          "name": "Cherry Bomb",
-          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
-        }
-      ],
-      "duration_ms": 217649,
-      "name": "Never Be Me (M\u2605therf\u2605cker)",
-      "url": "https://open.spotify.com/track/0RCaDuYsW4d5dtsx6G2u1K"
-    },
-    {
       "added_at": "2026-02-04 05:00:17",
       "album": {
         "name": "Love Is Easy Chaos",
@@ -1095,22 +1111,6 @@
       "duration_ms": 194251,
       "name": "Love Is Easy Chaos",
       "url": "https://open.spotify.com/track/7w8MAjzHIK1nNlbkEzbia6"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "To Feel Is To Be",
-        "url": "https://open.spotify.com/album/00Zx7Wp8wcSV51lXOc8n5o"
-      },
-      "artists": [
-        {
-          "name": "Bee Bran",
-          "url": "https://open.spotify.com/artist/2JwcISksi9jHUtnesLpQWQ"
-        }
-      ],
-      "duration_ms": 232602,
-      "name": "To Feel Is To Be",
-      "url": "https://open.spotify.com/track/50aiw9k7XNOoCb3k70iwRE"
     },
     {
       "added_at": "2026-01-28 15:08:44",

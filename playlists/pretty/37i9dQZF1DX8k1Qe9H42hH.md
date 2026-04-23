@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k1Qe9H42hH.md) - [plain]
 
 > From rocking to walking and everything in between to help you celebrate every milestone & cherish every moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,169 likes - 110 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,203 likes - 110 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k1Qe9H42hH.md) - [plain]
 | 15 | [I See the Light \- From "Tangled" / Soundtrack Version](https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu), [Zachary Levi](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 3:44 |
 | 16 | [Nothing Can Stop Us Now](https://open.spotify.com/track/2tppFTGF1UTVHqld242o8g) | [The Toontown Tooners](https://open.spotify.com/artist/3skIyYGqzp3KSrfb2KfADr) | [Music from Mickey's Toontown](https://open.spotify.com/album/5bCGUsjittoLfG2La9JHPN) | 1:39 |
 | 17 | [Rumbly in My Tumbly](https://open.spotify.com/track/6Wce2SYdU7ockSkIJ894ca) | [Jim Cummings](https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG) | [Songs and Story: Winnie the Pooh and the Honey Tree](https://open.spotify.com/album/2h7GDf31ar6zI2SkHrQ9TE) | 1:23 |
-| 18 | [You Get Me \- From "Talking Friends"](https://open.spotify.com/track/3w8Rsid0CYMkPilk1oWIaO) | [Tom and Angela](https://open.spotify.com/artist/50r2NlQ72aS0VyAZxIr1Rw) | [You Get Me \(From "Talking Friends"\)](https://open.spotify.com/album/4SuhqcaWPQxMhK9Cq1bwCs) | 2:45 |
+| 18 | [You Get Me \- From "Talking Friends"](https://open.spotify.com/track/3w8Rsid0CYMkPilk1oWIaO) | [Tom²](https://open.spotify.com/artist/5BKe2eMjhFohQ4JYOHT2Rj), [Angela](https://open.spotify.com/artist/0U4OOBhlsVMkF0DdlVWiMp) | [You Get Me \(From "Talking Friends"\)](https://open.spotify.com/album/4SuhqcaWPQxMhK9Cq1bwCs) | 2:45 |
 | 19 | [Playtime Shuffle](https://open.spotify.com/track/52FBLtzYglbeQrtYJpvxjI) | [The Toontown Tooners](https://open.spotify.com/artist/3skIyYGqzp3KSrfb2KfADr) | [Music from Mickey's Toontown](https://open.spotify.com/album/5bCGUsjittoLfG2La9JHPN) | 1:06 |
 | 20 | [Luv\-a\-bye](https://open.spotify.com/track/6jtzfvZWJsG2TJ94I7ajF9) | [Kira Small](https://open.spotify.com/artist/1fxy5pcly3Em0aTCarKPxO) | [Songs and Story: Winnie the Pooh and the Honey Tree](https://open.spotify.com/album/2h7GDf31ar6zI2SkHrQ9TE) | 3:32 |
 | 21 | [Love Is an Open Door](https://open.spotify.com/track/61rwlSKGf9nB2A0eWalrHA) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Calm](https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj) | 2:24 |

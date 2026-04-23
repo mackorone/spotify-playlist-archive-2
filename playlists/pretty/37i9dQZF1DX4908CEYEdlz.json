@@ -1,6 +1,6 @@
 {
   "description": "Lan\u00e7amentos de rock que voc\u00ea precisa conhecer, AUMENTA O VOLUME! Foto: Sepultura",
-  "num_followers": 926321,
+  "num_followers": 926190,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-04-06 20:07:59",
       "album": {
-        "name": "Dominate",
-        "url": "https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 194773,
-      "name": "Dominate",
-      "url": "https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt"
-    },
-    {
-      "added_at": "2026-04-06 20:07:59",
-      "album": {
         "name": "Autodefesa",
         "url": "https://open.spotify.com/album/4WqbzM2Cm4IWAhVMYv4kMy"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 211316,
       "name": "Autodefesa",
       "url": "https://open.spotify.com/track/2avUPgMfgnPOj54zsIrrOK"
+    },
+    {
+      "added_at": "2026-04-06 20:07:59",
+      "album": {
+        "name": "Dominate",
+        "url": "https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 194773,
+      "name": "Dominate",
+      "url": "https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt"
     },
     {
       "added_at": "2026-04-06 20:07:59",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-04-06 20:07:59",
       "album": {
-        "name": "Ready For Something",
-        "url": "https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE"
-      },
-      "artists": [
-        {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
-        }
-      ],
-      "duration_ms": 237560,
-      "name": "Ready For Something",
-      "url": "https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21"
-    },
-    {
-      "added_at": "2026-04-06 20:07:59",
-      "album": {
         "name": "Worst Is On Its Way (Requiem Mass)",
         "url": "https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 244089,
       "name": "Worst Is On It's Way - Requiem Mass / Live",
       "url": "https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL"
+    },
+    {
+      "added_at": "2026-04-06 20:07:59",
+      "album": {
+        "name": "Ready For Something",
+        "url": "https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "duration_ms": 237560,
+      "name": "Ready For Something",
+      "url": "https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21"
     },
     {
       "added_at": "2026-04-06 20:07:59",

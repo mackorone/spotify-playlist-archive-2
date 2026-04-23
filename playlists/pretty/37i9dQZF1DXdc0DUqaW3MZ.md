@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,441 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,461 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 43 | [Still \(feat\. Charlotte Day Wilson\)](https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:14 |
 | 44 | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92) | 3:32 |
 | 45 | [Skin to Skin](https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Kaisha](https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe) | [Skin to Skin](https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS) | 3:45 |
-| 46 | [YOU KNOW I'M DOWN](https://open.spotify.com/track/6hiwAsDc2fyuWK4iCCZJvL) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr) | [YOU KNOW I'M DOWN](https://open.spotify.com/album/29qoVH75Kc800yEeHjMRi6) | 2:24 |
-| 47 | [Been A Minute...](https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Been A Minute...](https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub) | 3:09 |
+| 46 | [Been A Minute...](https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Been A Minute...](https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub) | 3:09 |
+| 47 | [YOU KNOW I'M DOWN](https://open.spotify.com/track/6hiwAsDc2fyuWK4iCCZJvL) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr) | [YOU KNOW I'M DOWN](https://open.spotify.com/album/29qoVH75Kc800yEeHjMRi6) | 2:24 |
 | 48 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 |
 | 49 | [Unconditional feat\. Rationale \- Girls of the Internet Remix](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Unconditional feat\. Rationale \(Girls of the Internet Remix\)](https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF) | 3:50 |
 | 50 | [All Night](https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne) | [Sensuré](https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA), [Rastreep](https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw) | [Pathways](https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia) | 2:46 |

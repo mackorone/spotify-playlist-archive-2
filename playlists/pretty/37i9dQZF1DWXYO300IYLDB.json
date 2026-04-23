@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 138117,
+  "num_followers": 138112,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,26 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
+        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190464,
+      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 180000,
       "name": "Cool About It",
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
-        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190464,
-      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "= (Tour Edition)",
         "url": "https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 231546,
       "name": "One Life",
       "url": "https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 215758,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "Grow As We Go (feat. Sara Bareilles)",
         "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 249937,
       "name": "Grow as We Go (feat. Sara Bareilles)",
       "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t"
+      },
+      "artists": [
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Hola",
-        "url": "https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t"
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
       },
       "artists": [
         {
-          "name": "Gemini",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
         }
       ],
-      "duration_ms": 194360,
-      "name": "Hola",
-      "url": "https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj"
+      "duration_ms": 215758,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "80 Days",
-      "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "Dakota",
         "url": "https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 294498,
       "name": "Dakota",
       "url": "https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "duration_ms": 156386,
+      "name": "80 Days",
+      "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Dear Jubilee -RADWIMPS TRIBUTE-",
-        "url": "https://open.spotify.com/album/6Gru76yWx8iMVWkTqkKU4I"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "\u305d\u3063\u3051\u306a\u3044",
-      "url": "https://open.spotify.com/track/1r1BKnCK7XTcYmRciPYtKB"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "rain",
         "url": "https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 254230,
       "name": "rain",
       "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Dear Jubilee -RADWIMPS TRIBUTE-",
+        "url": "https://open.spotify.com/album/6Gru76yWx8iMVWkTqkKU4I"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "\u305d\u3063\u3051\u306a\u3044",
+      "url": "https://open.spotify.com/track/1r1BKnCK7XTcYmRciPYtKB"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
+        "name": "\u706f\u308a",
+        "url": "https://open.spotify.com/album/5FOzwzqAslUU7oX5HitDW7"
+      },
+      "artists": [
+        {
+          "name": "\u771e\u540d\u5b50\u65b0",
+          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
+        }
+      ],
+      "duration_ms": 286710,
+      "name": "\u706f\u308a",
+      "url": "https://open.spotify.com/track/6KFq8QrhFWxquhE4Kz0SjS"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
         "name": "Evangeline",
         "url": "https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 206800,
       "name": "Evangeline",
       "url": "https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
-        "name": "\u706f\u308a",
-        "url": "https://open.spotify.com/album/5FOzwzqAslUU7oX5HitDW7"
-      },
-      "artists": [
-        {
-          "name": "\u771e\u540d\u5b50\u65b0",
-          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
-        }
-      ],
-      "duration_ms": 286710,
-      "name": "\u706f\u308a",
-      "url": "https://open.spotify.com/track/6KFq8QrhFWxquhE4Kz0SjS"
     },
     {
       "added_at": "2026-03-12 15:00:29",

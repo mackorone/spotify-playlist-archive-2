@@ -6,8 +6,24 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAON0QAJKCiOpnRSfrgtPEXv1ufCiuR",
+  "snapshot_id": "AAAOSFOFBDDeNgqG/UVCwcbqgiX4r4jL",
   "tracks": [
+    {
+      "added_at": "2026-04-22 14:07:35",
+      "album": {
+        "name": "Get Motivated",
+        "url": "https://open.spotify.com/album/4Zkqq0Dwp7SXSFx23VdWpT"
+      },
+      "artists": [
+        {
+          "name": "Deaf Romero",
+          "url": "https://open.spotify.com/artist/2nnaaiLkTYGU2EjpckOi7a"
+        }
+      ],
+      "duration_ms": 232959,
+      "name": "Get Motivated",
+      "url": "https://open.spotify.com/track/3kravhCwMvloxttZIygnMo"
+    },
     {
       "added_at": "2026-02-26 08:38:44",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 214213,
       "name": "Without Within",
       "url": "https://open.spotify.com/track/5SDDsLaIjbJKWupa1TYBgy"
-    },
-    {
-      "added_at": "2026-04-20 19:03:30",
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/0k3NxZeSwzilNQRiYjcpTI"
-      },
-      "artists": [
-        {
-          "name": "ACORAH",
-          "url": "https://open.spotify.com/artist/09fJQHzzsp8Q3RrGyB86zs"
-        }
-      ],
-      "duration_ms": 142545,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/4YFCb4CTjfRJ7oLZ9KYL5w"
     },
     {
       "added_at": "2025-09-18 03:26:19",
@@ -141,22 +141,6 @@
       "url": "https://open.spotify.com/track/0fnFRIU30fd7hyEmTajgoh"
     },
     {
-      "added_at": "2026-04-21 04:32:49",
-      "album": {
-        "name": "Inconsistency",
-        "url": "https://open.spotify.com/album/2TtVrIAvRehVZPLdVHXDrE"
-      },
-      "artists": [
-        {
-          "name": "This World Stands Still",
-          "url": "https://open.spotify.com/artist/0ReYfibZzwQRGgNJEXas0t"
-        }
-      ],
-      "duration_ms": 152899,
-      "name": "No Escape",
-      "url": "https://open.spotify.com/track/0K15Wt8Zr2lBihYjvRX315"
-    },
-    {
       "added_at": "2025-08-03 07:05:37",
       "album": {
         "name": "Can't Get You Out of My Head (Audio Pulleys Remix)",
@@ -175,6 +159,102 @@
       "duration_ms": 185777,
       "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
       "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-04-22 15:29:59",
+      "album": {
+        "name": "We Do What We Want (When We Want When We Want To)",
+        "url": "https://open.spotify.com/album/5NDOsPPemuzyJto6n6SCm3"
+      },
+      "artists": [
+        {
+          "name": "Cello",
+          "url": "https://open.spotify.com/artist/6DkFZn6lnSSEJ6UFl03zNy"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "We Do What We Want (When We Want When We Want To)",
+      "url": "https://open.spotify.com/track/3WqJ6taFlXQ3Ndfbg0JC5r"
+    },
+    {
+      "added_at": "2026-04-20 19:03:30",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/0k3NxZeSwzilNQRiYjcpTI"
+      },
+      "artists": [
+        {
+          "name": "ACORAH",
+          "url": "https://open.spotify.com/artist/09fJQHzzsp8Q3RrGyB86zs"
+        }
+      ],
+      "duration_ms": 142545,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/4YFCb4CTjfRJ7oLZ9KYL5w"
+    },
+    {
+      "added_at": "2026-04-22 12:12:49",
+      "album": {
+        "name": "Fight",
+        "url": "https://open.spotify.com/album/2G6zaQK9gejdheb5e2ACyO"
+      },
+      "artists": [
+        {
+          "name": "Guiltera",
+          "url": "https://open.spotify.com/artist/3Zn5DaI82ti9N0TLUd3LqQ"
+        }
+      ],
+      "duration_ms": 205051,
+      "name": "Fight",
+      "url": "https://open.spotify.com/track/17XBnERLVrARfWUSLlfs8Q"
+    },
+    {
+      "added_at": "2026-04-22 12:10:10",
+      "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/3nQsRY6ksciRdJhaTyfBnT"
+      },
+      "artists": [
+        {
+          "name": "Mermaid Island",
+          "url": "https://open.spotify.com/artist/7iGEsQzSOaEhXNgTSKfqSS"
+        }
+      ],
+      "duration_ms": 189943,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/4ZZiHLVd3XAYvCZFGoRauR"
+    },
+    {
+      "added_at": "2026-04-22 12:02:34",
+      "album": {
+        "name": "Forever Box (EP)",
+        "url": "https://open.spotify.com/album/6y102JFJoSML8BAR0nJY6W"
+      },
+      "artists": [
+        {
+          "name": "Have Fun!",
+          "url": "https://open.spotify.com/artist/7kvXFm6bDiFtNsfMwZHyIN"
+        }
+      ],
+      "duration_ms": 194605,
+      "name": "Bipolaroid",
+      "url": "https://open.spotify.com/track/3EsdBloxOhc9swUOeBoEuO"
+    },
+    {
+      "added_at": "2026-04-21 04:32:49",
+      "album": {
+        "name": "Inconsistency",
+        "url": "https://open.spotify.com/album/2TtVrIAvRehVZPLdVHXDrE"
+      },
+      "artists": [
+        {
+          "name": "This World Stands Still",
+          "url": "https://open.spotify.com/artist/0ReYfibZzwQRGgNJEXas0t"
+        }
+      ],
+      "duration_ms": 152899,
+      "name": "No Escape",
+      "url": "https://open.spotify.com/track/0K15Wt8Zr2lBihYjvRX315"
     },
     {
       "added_at": "2026-04-20 05:02:18",
@@ -1751,6 +1831,22 @@
       "duration_ms": 229826,
       "name": "Lovely Head",
       "url": "https://open.spotify.com/track/1zgep5cR2ZjHRKLi3qqbl8"
+    },
+    {
+      "added_at": "2026-04-22 14:07:49",
+      "album": {
+        "name": "Mechanical Bird Theory",
+        "url": "https://open.spotify.com/album/65tjd5gARLr6hIYAbD2MBU"
+      },
+      "artists": [
+        {
+          "name": "Deaf Romero",
+          "url": "https://open.spotify.com/artist/2nnaaiLkTYGU2EjpckOi7a"
+        }
+      ],
+      "duration_ms": 240365,
+      "name": "Mechanical Bird Theory",
+      "url": "https://open.spotify.com/track/1BTXttiYzBCQ2TpUNYSrkW"
     },
     {
       "added_at": "2025-09-16 08:32:18",
@@ -4145,6 +4241,22 @@
       "url": "https://open.spotify.com/track/23xG5KZSwtEZpQwjWfIrBg"
     },
     {
+      "added_at": "2026-04-22 12:49:43",
+      "album": {
+        "name": "MADeSER",
+        "url": "https://open.spotify.com/album/5gELpA82b8EVe2FEQKydAs"
+      },
+      "artists": [
+        {
+          "name": "JOBA X CHUMBITA",
+          "url": "https://open.spotify.com/artist/031mjLNmL1dFQRMY8lrj3g"
+        }
+      ],
+      "duration_ms": 219778,
+      "name": "Yandere",
+      "url": "https://open.spotify.com/track/1MIGXBM5oM7rl9fce8ljjs"
+    },
+    {
       "added_at": "2026-04-21 12:33:29",
       "album": {
         "name": "My Body Says",
@@ -4159,6 +4271,70 @@
       "duration_ms": 235453,
       "name": "My Body Says",
       "url": "https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ"
+    },
+    {
+      "added_at": "2026-04-22 12:49:24",
+      "album": {
+        "name": "A pesar del tiempo",
+        "url": "https://open.spotify.com/album/3AoMXiiwyC6sXjWqiStEdu"
+      },
+      "artists": [
+        {
+          "name": "Atar de Ser",
+          "url": "https://open.spotify.com/artist/1yAwL1vf9TRIgFqoquKQX9"
+        }
+      ],
+      "duration_ms": 191492,
+      "name": "Nada es como antes",
+      "url": "https://open.spotify.com/track/0kkom5ehtU8JPUfJGzCqrN"
+    },
+    {
+      "added_at": "2026-04-22 12:49:07",
+      "album": {
+        "name": "MADeSER",
+        "url": "https://open.spotify.com/album/5gELpA82b8EVe2FEQKydAs"
+      },
+      "artists": [
+        {
+          "name": "JOBA X CHUMBITA",
+          "url": "https://open.spotify.com/artist/031mjLNmL1dFQRMY8lrj3g"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Mevamatar",
+      "url": "https://open.spotify.com/track/29FgWlzd2rGTaENbKa9H3I"
+    },
+    {
+      "added_at": "2026-04-22 20:55:54",
+      "album": {
+        "name": "Tech Daddy",
+        "url": "https://open.spotify.com/album/3HackJXhVAaIy15zMO9k8D"
+      },
+      "artists": [
+        {
+          "name": "Brad Arliss",
+          "url": "https://open.spotify.com/artist/06lLd5jrInOYWDVsfL6bzG"
+        }
+      ],
+      "duration_ms": 99056,
+      "name": "Tech Daddy",
+      "url": "https://open.spotify.com/track/6zulprnbabKivRgbw7zpRf"
+    },
+    {
+      "added_at": "2026-04-22 20:57:03",
+      "album": {
+        "name": "Burn The Boats",
+        "url": "https://open.spotify.com/album/5DNFITsnbs3eTdRxxV2OCK"
+      },
+      "artists": [
+        {
+          "name": "Rebelmatic",
+          "url": "https://open.spotify.com/artist/6CUYmBUaJokq3auKhAzHXR"
+        }
+      ],
+      "duration_ms": 110718,
+      "name": "Burn The Boats",
+      "url": "https://open.spotify.com/track/6iWf8nIPY949D9hPEtTeto"
     }
   ],
   "unique_name": "Shuffle Roulette",

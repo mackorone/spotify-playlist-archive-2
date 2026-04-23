@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-216 songs - 13 hr 26 min
+217 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Eva sin nombre](https://open.spotify.com/track/4o3uIjspoGtA5aTokB9tsT) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 3:09 | 2025-11-04 | 2025-12-28 |
 | [Everything Explode](https://open.spotify.com/track/7MVF3BaFC3cVI84CifAswf) | [Permanent Risk](https://open.spotify.com/artist/2a9KV1XmaaINFAtlKC3PYa) | [Everything Explode](https://open.spotify.com/album/6pKMeXruu16rQjbOe8rK7B) | 3:45 | 2025-11-26 | 2025-12-28 |
 | [Falling Ashes](https://open.spotify.com/track/2qtTj2YxabvM10StglYGLl) | [DOJOKUN](https://open.spotify.com/artist/1tHQ1ejmEqRiFp6a3HzgRN) | [Falling Ashes](https://open.spotify.com/album/5nQNdBbRmACdZa3WWWy2B9) | 4:19 | 2026-03-12 |  |
+| [Fantasia](https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli) | [Astratto](https://open.spotify.com/artist/1kQT4JN2XDrVdT4vubHCjw) | [Fantasia](https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf) | 6:10 | 2026-04-22 |  |
 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-03-17 |  |
 | [Fickled](https://open.spotify.com/track/0sSi3pV5lJk7bwCNC3NQt5) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Fickled](https://open.spotify.com/album/5KbqNfYxhr2lK6wuvf6L2i) | 3:43 | 2026-03-21 |  |
 | [FLOWERS](https://open.spotify.com/track/24hBaP9gSlo2NeyQZGGvQB) | [OUR GREAT ESCAPE](https://open.spotify.com/artist/0Gtsp3mRl1OlBiudeI4DSx) | [INFINITY WARS](https://open.spotify.com/album/1GATZuf4mUVmik7eFpPK5y) | 5:44 | 2026-04-02 |  |

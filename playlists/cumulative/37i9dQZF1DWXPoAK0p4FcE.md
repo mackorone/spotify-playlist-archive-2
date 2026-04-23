@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Newery
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Whal & Dolph
 
-167 songs - 11 hr 34 min
+168 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,13 +117,14 @@
 | [วันบอกรัก \(It's Time\)](https://open.spotify.com/track/1xZ9yjk9d32eSVUv4q1Y9S) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [วันบอกรัก \(It's Time\)](https://open.spotify.com/album/1QHIjsXTfRyM2RouKPuU6X) | 4:18 | 2025-01-23 | 2025-03-01 |
 | [สบายดี](https://open.spotify.com/track/5Fd2rhFYhNq2bdIrtQfBTE) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [สบายดี](https://open.spotify.com/album/53jfXBBh8XkDIwDLEc6aAu) | 4:02 | 2025-09-19 |  |
 | [สร้างภาพ \(PERSONA\)](https://open.spotify.com/track/53eyWhgIpBtTl29xtUe9ju) | [YODSARUN](https://open.spotify.com/artist/7w7BVYWmNFduUbjjqUuFb7) | [สร้างภาพ \(PERSONA\)](https://open.spotify.com/album/2oBnPzhAHXG6SBOmQofeJZ) | 4:02 | 2025-07-04 | 2025-07-19 |
+| [สักวันหนึ่ง \(Someday\)](https://open.spotify.com/track/2hMTyuTMniu9l0StZ9RZNW) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [สักวันหนึ่ง \(Someday\)](https://open.spotify.com/album/1OXgq0ZJljJ3DveQhNh2D6) | 3:59 | 2026-04-22 |  |
 | [สายรุ้งหลังฝนโปรย](https://open.spotify.com/track/6IAnRK7K3c6SZetYS7R3wY) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [PurfectPeech](https://open.spotify.com/album/5wAiWwSRZKqpUIsKlVADiI) | 5:00 | 2024-06-27 | 2025-05-02 |
 | [สิ่งที่สวยงาม \(I Wish Every Night\)](https://open.spotify.com/track/6pQp49ThiAsKwCl8OWcO4V) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [สิ่งที่สวยงาม \(I Wish Every Night\)](https://open.spotify.com/album/1MHUEhvO4u9sKKKVcUOVRy) | 3:59 | 2025-10-24 |  |
 | [สิ่งเดียวที่เราต่าง](https://open.spotify.com/track/0CC1S9A2e9v8ZSUFkWSZkN) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F) | [สิ่งเดียวที่เราต่าง](https://open.spotify.com/album/1rukZSSmILafBs5Yt9FxXu) | 4:41 | 2024-11-22 | 2025-02-01 |
 | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/track/5GwXBrY91rDCB18cwpjsBz) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/album/2S1NnWORdoVfgwFFHK2xww) | 3:56 | 2026-03-09 |  |
 | [หยุดก่อน! \(Puzzle\)](https://open.spotify.com/track/1E7wgi9Ni4WhS6ZpqZpRqQ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [หยุดก่อน! \(Puzzle\)](https://open.spotify.com/album/5yORwvTp3m9IWnLib8cdhf) | 3:16 | 2025-08-08 |  |
 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 | 2024-06-27 | 2025-04-12 |
-| [หวังว่าเราจะไม่พบกันอีก \(Hello, Goodbye!\)](https://open.spotify.com/track/2nDfwvNrFTZzMZoiyYIUjL) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [Human Certificate](https://open.spotify.com/album/5GUEyeFL6NXFMc0N1zbFbn) | 4:01 | 2026-02-20 |  |
+| [หวังว่าเราจะไม่พบกันอีก \(Hello, Goodbye!\)](https://open.spotify.com/track/2nDfwvNrFTZzMZoiyYIUjL) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [Human Certificate](https://open.spotify.com/album/5GUEyeFL6NXFMc0N1zbFbn) | 4:01 | 2026-02-20 | 2026-04-23 |
 | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/track/6vAH43fkKUA2Ysgf7jIw6R) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [สยาโม](https://open.spotify.com/artist/4AJ2vsPrlHwJMpGB4RHuvG) | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros) | 3:05 | 2025-03-21 | 2025-06-28 |
 | [หาย](https://open.spotify.com/track/0ztahKmSIUIdr2F8Iy8ZYw) | [Greasy Cafe'](https://open.spotify.com/artist/5VR2NQf3Y8Hmh8iHS6bXYx) | [หาย](https://open.spotify.com/album/0UDjVe5A2IGrMAeLEZt3m6) | 4:20 | 2025-03-21 | 2025-07-12 |
 | [ห้องเล็ก \(Wishful\)](https://open.spotify.com/track/1L2Kyu9eOSz9PVKyUloBM6) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [ห้องเล็ก \(Wishful\)](https://open.spotify.com/album/0ptiLoehWeONMaAlbo4ukW) | 3:50 | 2024-08-30 | 2024-11-29 |

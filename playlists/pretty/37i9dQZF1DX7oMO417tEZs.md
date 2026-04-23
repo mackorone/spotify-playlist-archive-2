@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: IDHEM
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,897 likes - 86 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,068 likes - 86 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I WANNA DANCE](https://open.spotify.com/track/7meRbdhGSL33VwsUK9P2mB) | [Tallandskiinny](https://open.spotify.com/artist/7oV3ZD4d2onldb3N8DKQjm) | [I WANNA DANCE](https://open.spotify.com/album/0ERprW5OlF990S05xy6TEs) | 2:31 |
 | 2 | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY) | 3:05 |
-| 3 | [not my day](https://open.spotify.com/track/2za2pSt3gmetP4PJnT66ZX) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [not my day](https://open.spotify.com/album/6BoM7AhD4zh4zqpWcI2etW) | 2:32 |
-| 4 | [CHANGE MY LIFE](https://open.spotify.com/track/1t1Pll5MMbxVu3unEy1pQy) | [CAIRO!](https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK) | [CHANGE MY LIFE](https://open.spotify.com/album/0K7c9selPcIc31lxQ2jPtt) | 1:03 |
-| 5 | [Cállate](https://open.spotify.com/track/4uZ5cSWcTLgvwqDZHduY67) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Cállate](https://open.spotify.com/album/4OA7KpQ0fiZ0eiYHRe6MmK) | 1:59 |
-| 6 | [FIGURE IT OUT](https://open.spotify.com/track/0ZNcMmQFfId5YbrwbGEcN1) | [ZEP](https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV) | [FIGURE IT OUT](https://open.spotify.com/album/4jCKsyJs8tskfcov8TnhPC) | 2:15 |
-| 7 | [TROUBLE MAKER](https://open.spotify.com/track/2za0rJlyOtqKjYEsZcDUnC) | [Nathan Daisy](https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf), [Taras Bazeev](https://open.spotify.com/artist/3tUuyM5RyjpHXGOJ2w83xA) | [TROUBLE MAKER](https://open.spotify.com/album/2GW1CABDRKm27GqySqL51c) | 3:05 |
+| 3 | [CHANGE MY LIFE](https://open.spotify.com/track/1t1Pll5MMbxVu3unEy1pQy) | [CAIRO!](https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK) | [CHANGE MY LIFE](https://open.spotify.com/album/0K7c9selPcIc31lxQ2jPtt) | 1:03 |
+| 4 | [Cállate](https://open.spotify.com/track/4uZ5cSWcTLgvwqDZHduY67) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Cállate](https://open.spotify.com/album/4OA7KpQ0fiZ0eiYHRe6MmK) | 1:59 |
+| 5 | [FIGURE IT OUT](https://open.spotify.com/track/0ZNcMmQFfId5YbrwbGEcN1) | [ZEP](https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV) | [FIGURE IT OUT](https://open.spotify.com/album/4jCKsyJs8tskfcov8TnhPC) | 2:15 |
+| 6 | [TROUBLE MAKER](https://open.spotify.com/track/2za0rJlyOtqKjYEsZcDUnC) | [Nathan Daisy](https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf), [Taras Bazeev](https://open.spotify.com/artist/3tUuyM5RyjpHXGOJ2w83xA) | [TROUBLE MAKER](https://open.spotify.com/album/2GW1CABDRKm27GqySqL51c) | 3:05 |
+| 7 | [not my day](https://open.spotify.com/track/2za2pSt3gmetP4PJnT66ZX) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [not my day](https://open.spotify.com/album/6BoM7AhD4zh4zqpWcI2etW) | 2:32 |
 | 8 | [MUSIC SAVED MY LIFE](https://open.spotify.com/track/11s4KWKnusrlkZspPoQNyA) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [BEFORE GRANDE](https://open.spotify.com/album/3V2tbjvK7Yl9gquooDh08f) | 3:27 |
 | 9 | [Lonely](https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:58 |
 | 10 | [Hoes Link Up](https://open.spotify.com/track/1wWXn1jYMEhYbDQtFMZmlO) | [Zora Jones](https://open.spotify.com/artist/5zJUDjV6daKYTo1H7OoFAY), [DJ Polo](https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7) | [Hoes Link Up / Abalone Kiss](https://open.spotify.com/album/5bh7U4bwwkj3Dq1LaAR9Ml) | 3:00 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 85 | [bust](https://open.spotify.com/track/1GfGJ2WDKQF3Ui9YZJ6AZr) | [virtue](https://open.spotify.com/artist/716wsDOzcRFUIlOc4rdfEy) | [bust](https://open.spotify.com/album/546XG0z3KV4QYS3m3mym16) | 2:13 |
 | 86 | [Feel U](https://open.spotify.com/track/6VCzzMqg5SDnrSR1D4pMfk) | [Perfect Person](https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ) | [Perfect Person](https://open.spotify.com/album/7DifoesqiYcCgcBVSCXetr) | 0:56 |
 
-Snapshot ID: `AAAAAIP1i/6QVwIAjasFqlLv1UgSZGeg`
+Snapshot ID: `AAAAAFNv+8QJUby9AakrIyzy1MGcZkWR`

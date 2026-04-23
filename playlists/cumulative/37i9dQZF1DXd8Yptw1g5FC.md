@@ -2,7 +2,7 @@
 
 ### [New Music Friday Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXd8Yptw1g5FC)
 
-> Mabel Matiz ve haftanın en iyi çıkışları!
+> Mabel Matiz ve haftanın en iyi çıkışları! 23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷
 
 7,143 songs - 15 day 5 hr 40 min
 

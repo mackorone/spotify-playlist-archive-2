@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-969 songs - 2 day 10 hr 51 min
+971 songs - 2 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -945,6 +945,7 @@
 | [Wild Goose Chase](https://open.spotify.com/track/6gRn4Cs6bJeo0RP7XXxn95) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 3:06 | 2025-06-14 | 2025-07-04 |
 | [Winter in America](https://open.spotify.com/track/06taFelNWknt8fhZ2jQey1) | [Doug Ashdown](https://open.spotify.com/artist/0Vy1HzvSfJ3bjbxZQxR2eZ) | [No Cheap Grace](https://open.spotify.com/album/09ZOx9IwXvXAjeiLMYK6dl) | 4:16 | 2025-02-06 | 2025-03-02 |
 | [Wishing Well](https://open.spotify.com/track/64w8GIJRkm6zejGjxLVN3K) | [Chris Cohen](https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF) | [Paint a Room](https://open.spotify.com/album/3sZZlLS1JY1MPWOGWe8mtQ) | 2:38 | 2024-10-23 | 2024-11-14 |
+| [With or Without Me](https://open.spotify.com/track/0zokHpdhq69de6KcOWMMRj) | [Petite Garçon](https://open.spotify.com/artist/24Yfuj1uVoF1YznzjXcVDV) | [Let Go of Stress](https://open.spotify.com/album/29F6gRiX93yNCW9BzQe6Hr) | 2:34 | 2026-04-22 |  |
 | [With You \- Demo](https://open.spotify.com/track/0fxf9dkUc8r8AHWPx7Cdkn) | [NumbDome](https://open.spotify.com/artist/2dt0CUEEL1u22uqRoocBQP) | [Pretty Place Demos](https://open.spotify.com/album/2aSMfYhkI2RwV6ucurrWV2) | 2:03 | 2024-07-16 | 2024-09-08 |
 | [Woke Up Laughing](https://open.spotify.com/track/2bhHZqQ2TIeSC5WpJKjGDF) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [Clues \(Expanded Edition\)](https://open.spotify.com/album/1pn4ocPNjqhiugDVFNFrSR) | 3:34 | 2026-04-09 |  |
 | [Woman You're Gonna Pay For This](https://open.spotify.com/track/5lLJQZOGf9MvgxFTGmJSzz) | [Wicked Lester](https://open.spotify.com/artist/4mnC6BVhObGZnXtQm4hjzH) | [Local Customs: Burned At Boddie](https://open.spotify.com/album/0JbT7bYKpJ1ESB9Y5z0aCC) | 3:24 | 2025-12-02 | 2026-01-15 |
@@ -968,6 +969,7 @@
 | [Água](https://open.spotify.com/track/29ZUFEjGpprL595i3JEF50) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan](https://open.spotify.com/album/72O5JvUfLI71iSMqaOdNAY) | 3:39 | 2024-07-12 | 2024-09-08 |
 | [É Natural](https://open.spotify.com/track/6CoARmWYgVOTZnoTdfOmmo) | [Negritude Junior](https://open.spotify.com/artist/3YBaTAcy9PQpIbuRQTbD8F) | [Bis \- Negritude Junior](https://open.spotify.com/album/1ul1Zz4eU1q33YI9uev8jM) | 3:28 | 2025-03-01 | 2025-05-09 |
 | [Осенняя пора](https://open.spotify.com/track/03tDg3HEmooVr4mgj8n2Ll) | [Инструментальный ансамбль п/у Виктора Игнатьева](https://open.spotify.com/artist/4YSR0wlhLMuWjjBu1NS96C) | [Инструментальный ансамбль под руководством Виктора Игнатьева](https://open.spotify.com/album/0VuD3LSaLU8UDIO1cyEBY0) | 2:46 | 2026-01-09 | 2026-03-13 |
+| [ក្រមុំដណ្តឹងម្តាយ](https://open.spotify.com/track/0zbstp77qF4re3PT8VvC6j) | [Sinn Sisamouth](https://open.spotify.com/artist/5Vp49PDKCSLwmRI1qhb0oa), [Huoy Meas](https://open.spotify.com/artist/6cFq8stOxHqx5gmbrj0f5t) | [ក្រមុំដណ្តឹងម្តាយ & ពស់វែកសកស្រកា](https://open.spotify.com/album/5OG4mmYvGq2IFKpzsAJuOm) | 2:30 | 2026-04-22 |  |
 | [ចាំនៅតែចាំ](https://open.spotify.com/track/5gqEV0HG9wakmVPB3GORGU) | [Ros Serey Sothea](https://open.spotify.com/artist/6aBWAoJJ2F6HD6mTr2aLZ0) | [តើថ្ងៃណាទៅវិលវិញ?\. នឹកអើយសែននឹក](https://open.spotify.com/album/0P3YI4mCXyqATNfAq5Tuhr) | 3:37 | 2025-11-01 | 2026-01-15 |
 | [あなたから遠くへ](https://open.spotify.com/track/6hFK7qLwkhxcOZw3ywEq8l) | [金延幸子](https://open.spotify.com/artist/5rT9yvOxKxNBsDevOiKKGs) | [み空](https://open.spotify.com/album/3FnRt5aR3UNby43dumedN9) | 3:29 | 2024-09-18 | 2024-11-14 |
 | [アン・オープン・ドア](https://open.spotify.com/track/1DrPpgiTvuogt6Ktxsag4h) | [FLat7](https://open.spotify.com/artist/6qWQ49hbX08ZLyRABxaasl) | [スウィート・グロウ・オブ・サイレンス](https://open.spotify.com/album/21AVBPMluy9ZI8SkMWC4Ar) | 4:43 | 2024-10-27 | 2024-11-14 |

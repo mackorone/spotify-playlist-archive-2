@@ -4,7 +4,7 @@
 
 > 
 
-515 songs - 1 day 9 hr 27 min
+516 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Fader \- Edit](https://open.spotify.com/track/4oR9onkuU2xWQL3E5apApP) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Fader](https://open.spotify.com/album/2WKucBnirwfJwNMtcxxD1U) | 2:24 | 2023-06-20 | 2023-10-13 |
 | [Faint of Hearts](https://open.spotify.com/track/0CaOlIGjs5oZH8V7zzTEIb) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Human and Kind](https://open.spotify.com/album/6NVZcL5hrDcO3QlEC6Wy40) | 3:29 | 2022-03-25 | 2022-07-29 |
 | [Faithless](https://open.spotify.com/track/75WGKUulm21jqVSoZETrQT) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Faithless](https://open.spotify.com/album/0mdOEm115gzcsxtjgHiTQP) | 3:35 | 2024-09-11 | 2025-09-18 |
+| [Fanga](https://open.spotify.com/track/2DykxprHbMOi4HlOGVXBo3) | [Narasimha](https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV) | [Fanga](https://open.spotify.com/album/71MjiX9HjfdP5Kf7WwnUtq) | 3:29 | 2026-04-22 |  |
 | [Fast Forward](https://open.spotify.com/track/1pgK78vWoIm9cPhMKIola3) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 7:38 | 2024-09-13 | 2025-03-14 |
 | [Faust](https://open.spotify.com/track/1S2sO3ExZiT35UOAb9AIQs) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Faust](https://open.spotify.com/album/1hQzzeC9dpnh7HU29ipXRd) | 4:30 | 2024-06-20 | 2024-09-11 |
 | [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-05-23 | 2024-07-17 |

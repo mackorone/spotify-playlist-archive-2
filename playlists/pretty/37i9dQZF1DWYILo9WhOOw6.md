@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,193 likes - 148 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,604 likes - 148 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 45 | [Waves \(Delta 73.2\-76.1 Hz\)](https://open.spotify.com/track/0vm4FJSItNDbtNJrA4OsF7) | [Lux Alba](https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz) | [Waves \(Delta 73.2\-76.1 Hz\)](https://open.spotify.com/album/1Pbu9m6wEEwP17HWCSmi6K) | 2:27 |
 | 46 | [Galactica 59,3\-64,9](https://open.spotify.com/track/1VCzfvONWETBZZzMPLnS9H) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Galactica 59,3\-64,9](https://open.spotify.com/album/7AF5QQ5u8XKpBJkBokFdDQ) | 2:32 |
 | 47 | [Substance Delta 69.0Hz \- 69.6Hz](https://open.spotify.com/track/3dxPNJ0OyWLX6XCx0leFlh) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Substance Delta 69.0Hz \- 69.6Hz](https://open.spotify.com/album/7icLU7CCELy9YmzqHmnHCW) | 3:11 |
-| 48 | [Delta Sinus 100Hz \- 103Hz](https://open.spotify.com/track/3n3MUApWQYx9sb2IfBBgI5) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Natural Healing](https://open.spotify.com/album/6lzDsptMU5Wk7mfPLxKji0) | 2:09 |
+| 48 | [Delta Sinus 100Hz \- 103Hz](https://open.spotify.com/track/3n3MUApWQYx9sb2IfBBgI5) | [Mission Venus](https://open.spotify.com/artist/6nsP0eM0eiF3sRTh4DsL27) | [Natural Healing](https://open.spotify.com/album/6lzDsptMU5Wk7mfPLxKji0) | 2:09 |
 | 49 | [Transcendental Phase Bb Delta \(114\-118hz\)](https://open.spotify.com/track/7pe4sWtc1ocgLrKrIeUzFG) | [Peace In Stillness](https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf) | [Transcendental Phase Delta](https://open.spotify.com/album/1SJVQ7hhm89HhcMIxAUCbB) | 2:15 |
 | 50 | [Delta Waves for Sleep](https://open.spotify.com/track/0CtgRpAgA3CXKFqRJv6pig) | [Binaural Beats](https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1), [Binaural Beats Brain Waves Isochronic Tones Brain Wave Entrainment](https://open.spotify.com/artist/1lMnDlcShGnu74pUrnIupg), [Binaural Beats Library](https://open.spotify.com/artist/5Mk1SfiKteGGUq5WDcRwOB) | [Binaural Beats for Deep Sleep, Delta Wave Sleeping Music and Isochronic Tones](https://open.spotify.com/album/42LVE5FjxDIGc5jRDXphun) | 2:23 |
 | 51 | [Lost At Sea Delta \(96\-100hz\)](https://open.spotify.com/track/2dahhCTgq377s2brFqF58T) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Lost At Sea Delta \(96\-100hz\)](https://open.spotify.com/album/1nCe9CK1NayZic0yIzFTwV) | 2:42 |

@@ -1,6 +1,6 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132708,
+  "num_followers": 132698,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-04-16 21:00:24",
       "album": {
+        "name": "m0ti0n",
+        "url": "https://open.spotify.com/album/2agpEAlJ7uDQjcIGswVPLM"
+      },
+      "artists": [
+        {
+          "name": "louna0nline",
+          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
+        }
+      ],
+      "duration_ms": 147562,
+      "name": "m0ti0n",
+      "url": "https://open.spotify.com/track/1bfGnvSonrY4NJcG8DAK0l"
+    },
+    {
+      "added_at": "2026-04-16 21:00:24",
+      "album": {
         "name": "Kui paljon (Remix)",
         "url": "https://open.spotify.com/album/4TebmnW0jxbBVKixLi2Xfi"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 160129,
       "name": "Kui paljon - Remix",
       "url": "https://open.spotify.com/track/2bBhjebWhLpeumAdojsJyO"
-    },
-    {
-      "added_at": "2026-04-16 21:00:24",
-      "album": {
-        "name": "m0ti0n",
-        "url": "https://open.spotify.com/album/2agpEAlJ7uDQjcIGswVPLM"
-      },
-      "artists": [
-        {
-          "name": "louna0nline",
-          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
-        }
-      ],
-      "duration_ms": 147562,
-      "name": "m0ti0n",
-      "url": "https://open.spotify.com/track/1bfGnvSonrY4NJcG8DAK0l"
     },
     {
       "added_at": "2026-04-16 21:00:24",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-04-16 21:00:24",
       "album": {
-        "name": "Magic City",
-        "url": "https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE"
-      },
-      "artists": [
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 114937,
-      "name": "Kui paljon",
-      "url": "https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5"
-    },
-    {
-      "added_at": "2026-04-16 21:00:24",
-      "album": {
         "name": "Sin\u00e4 ja se poitsu",
         "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 183957,
       "name": "Sin\u00e4 ja se poitsu",
       "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
+    },
+    {
+      "added_at": "2026-04-16 21:00:24",
+      "album": {
+        "name": "Magic City",
+        "url": "https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 114937,
+      "name": "Kui paljon",
+      "url": "https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5"
     },
     {
       "added_at": "2026-04-16 21:00:24",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-04-16 21:00:24",
       "album": {
-        "name": "Kuka nauraa nyt",
-        "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
-      },
-      "artists": [
-        {
-          "name": "ABREU",
-          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Kuka nauraa nyt",
-      "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
-    },
-    {
-      "added_at": "2026-04-16 21:00:24",
-      "album": {
         "name": "Syv\u00e4 p\u00e4\u00e4ty",
         "url": "https://open.spotify.com/album/5vAcp73b5x6zBo3qzvDyhM"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 188650,
       "name": "Syv\u00e4 p\u00e4\u00e4ty",
       "url": "https://open.spotify.com/track/4eKb3URMF19IeCXcBkbVoN"
+    },
+    {
+      "added_at": "2026-04-16 21:00:24",
+      "album": {
+        "name": "Kuka nauraa nyt",
+        "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
+      },
+      "artists": [
+        {
+          "name": "ABREU",
+          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "Kuka nauraa nyt",
+      "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
     },
     {
       "added_at": "2026-04-16 21:00:24",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-04-16 21:00:24",
       "album": {
-        "name": "Pelkk\u00e4 kirosana",
-        "url": "https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY"
-      },
-      "artists": [
-        {
-          "name": "helmi marleena",
-          "url": "https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK"
-        }
-      ],
-      "duration_ms": 192949,
-      "name": "Pelkk\u00e4 kirosana",
-      "url": "https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa"
-    },
-    {
-      "added_at": "2026-04-16 21:00:24",
-      "album": {
         "name": "Solmui",
         "url": "https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 198409,
       "name": "Solmui",
       "url": "https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna"
+    },
+    {
+      "added_at": "2026-04-16 21:00:24",
+      "album": {
+        "name": "Pelkk\u00e4 kirosana",
+        "url": "https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY"
+      },
+      "artists": [
+        {
+          "name": "helmi marleena",
+          "url": "https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK"
+        }
+      ],
+      "duration_ms": 192949,
+      "name": "Pelkk\u00e4 kirosana",
+      "url": "https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa"
     },
     {
       "added_at": "2026-04-16 21:00:24",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-04-16 21:00:24",
       "album": {
-        "name": "Valoa varten",
-        "url": "https://open.spotify.com/album/0rA902E230Stu32mLX4axp"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "Tuun viel himaan",
-      "url": "https://open.spotify.com/track/6xpnBGFThS3Z8slDBiVJN2"
-    },
-    {
-      "added_at": "2026-04-16 21:00:24",
-      "album": {
         "name": "Mun mestoi",
         "url": "https://open.spotify.com/album/2D3SYswLZHpgTDq7qaZCWQ"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 171124,
       "name": "Mun mestoi",
       "url": "https://open.spotify.com/track/3lIX8HJBQv8uc5F7QUeCPo"
+    },
+    {
+      "added_at": "2026-04-16 21:00:24",
+      "album": {
+        "name": "Valoa varten",
+        "url": "https://open.spotify.com/album/0rA902E230Stu32mLX4axp"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "Tuun viel himaan",
+      "url": "https://open.spotify.com/track/6xpnBGFThS3Z8slDBiVJN2"
     },
     {
       "added_at": "2026-04-16 21:00:24",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-04-16 21:00:24",
       "album": {
+        "name": "Uus ikuisuus",
+        "url": "https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "duration_ms": 176754,
+      "name": "Uus ikuisuus",
+      "url": "https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk"
+    },
+    {
+      "added_at": "2026-04-16 21:00:24",
+      "album": {
         "name": "Totuus sattuu",
         "url": "https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 165688,
       "name": "Totuus sattuu",
       "url": "https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL"
-    },
-    {
-      "added_at": "2026-04-16 21:00:24",
-      "album": {
-        "name": "Uus ikuisuus",
-        "url": "https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc"
-      },
-      "artists": [
-        {
-          "name": "Nelli Matula",
-          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
-        }
-      ],
-      "duration_ms": 176754,
-      "name": "Uus ikuisuus",
-      "url": "https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk"
     },
     {
       "added_at": "2026-04-16 21:00:24",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-04-16 21:00:24",
       "album": {
+        "name": "Bensaa tulipaloon",
+        "url": "https://open.spotify.com/album/3VSTPC1rNLN2YPDMOwejoe"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "duration_ms": 181578,
+      "name": "Bensaa tulipaloon",
+      "url": "https://open.spotify.com/track/1FCjidFdL7qwloCUnzQkoD"
+    },
+    {
+      "added_at": "2026-04-16 21:00:24",
+      "album": {
         "name": "2.0",
         "url": "https://open.spotify.com/album/1U8b3ii7rGYjIHLSbenp4d"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 221912,
       "name": "Onnellinen 2.0",
       "url": "https://open.spotify.com/track/4I449JXcbtG29y76wlyb8i"
-    },
-    {
-      "added_at": "2026-04-16 21:00:24",
-      "album": {
-        "name": "Bensaa tulipaloon",
-        "url": "https://open.spotify.com/album/3VSTPC1rNLN2YPDMOwejoe"
-      },
-      "artists": [
-        {
-          "name": "Benjamin",
-          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
-        }
-      ],
-      "duration_ms": 181578,
-      "name": "Bensaa tulipaloon",
-      "url": "https://open.spotify.com/track/1FCjidFdL7qwloCUnzQkoD"
     },
     {
       "added_at": "2026-04-16 21:00:24",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2026-04-16 21:00:24",
       "album": {
-        "name": "Oots\u00e4 n\u00e4hny mua?",
-        "url": "https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI"
+        "name": "Jos viel t\u00e4n\u00e4\u00e4n (feat. AHTI)",
+        "url": "https://open.spotify.com/album/36m9kmhRSZLRp1N9AwdqYz"
       },
       "artists": [
         {
-          "name": "Alina Burnet",
-          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        },
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
         }
       ],
-      "duration_ms": 165085,
-      "name": "Kauniita lupauksii",
-      "url": "https://open.spotify.com/track/7FvHpBQNBx0kOo3uB2UPrP"
+      "duration_ms": 150353,
+      "name": "Jos viel t\u00e4n\u00e4\u00e4n (feat. AHTI)",
+      "url": "https://open.spotify.com/track/14WphbjwdiMZNkT0YhcnkW"
     }
   ],
   "unique_name": "#vainsuomihitit",

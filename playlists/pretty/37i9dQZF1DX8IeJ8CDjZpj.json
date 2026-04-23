@@ -1,6 +1,6 @@
 {
   "description": "2026 es el nuevo 2016 \ud83d\udcf8 Justin Bieber",
-  "num_followers": 95498,
+  "num_followers": 95509,
   "original_name": "2016 vibes \u2728",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 467586,
       "name": "Let It Happen",
       "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 135920,
-      "name": "Father Stretch My Hands Pt. 1",
-      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Motivan2",
         "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 209453,
       "name": "Otra Vez (feat. J Balvin)",
       "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 135920,
+      "name": "Father Stretch My Hands Pt. 1",
+      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/68gzf3AleOyt4NlKwpV0MY"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers)",
         "url": "https://open.spotify.com/album/1ZriaC9kT8i4L51al45sgZ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 308133,
       "name": "Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers)",
       "url": "https://open.spotify.com/track/2opYh9ZmKbiVrzEuPgrCTX"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/68gzf3AleOyt4NlKwpV0MY"
     },
     {
       "added_at": "2026-01-23 01:08:49",

@@ -11510,7 +11510,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 152164,
       "name": "Bla Bla Car",
       "url": "https://open.spotify.com/track/2S85psL2GuBbYlQK22BryI"
@@ -18218,7 +18218,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -37512,7 +37512,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 216800,
       "name": "In the End",
       "url": "https://open.spotify.com/track/3tSmXSxaAnU1EPGKa6NytH"
@@ -37530,7 +37530,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -46442,7 +46442,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 123053,
       "name": "M-PAKET",
       "url": "https://open.spotify.com/track/1M2M6PtBuXKJniX0t0PE6c"
@@ -53304,6 +53304,28 @@
       "duration_ms": 203653,
       "name": "Never Not Try",
       "url": "https://open.spotify.com/track/0AKxA0LR1eHNIiyg4KMZGy"
+    },
+    {
+      "album": {
+        "name": "Never Say Never - The Remixes",
+        "url": "https://open.spotify.com/album/0wZJCeyfJ0LVrrtH4CwQYw"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Jaden",
+          "url": "https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227853,
+      "name": "Never Say Never",
+      "url": "https://open.spotify.com/track/5GYbkDveRD2I8M5ZJ14hWn"
     },
     {
       "album": {
@@ -66612,7 +66634,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 115555,
       "name": "Shabab(e)s im VIP",
       "url": "https://open.spotify.com/track/1JjHQ4lfAjbDq7wmOmH9wM"
@@ -73352,7 +73374,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"

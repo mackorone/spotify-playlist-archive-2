@@ -375,6 +375,32 @@
     },
     {
       "album": {
+        "name": "Aitbaar (From \"Chand Mera Dil\")",
+        "url": "https://open.spotify.com/album/5cvafihHJER4kPlqEpGbHN"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Aitbaar (From \"Chand Mera Dil\")",
+      "url": "https://open.spotify.com/track/1VoorSPoJTq6K0tObRIQOv"
+    },
+    {
+      "album": {
         "name": "Aje Na Jaa",
         "url": "https://open.spotify.com/album/5hEYiIfpeOcmM2IpQ4Fubp"
       },
@@ -1284,6 +1310,32 @@
       "duration_ms": 200373,
       "name": "Chaleya (From \"Jawan\")",
       "url": "https://open.spotify.com/track/4nc6XiUze2Yh7wFueGOPv7"
+    },
+    {
+      "album": {
+        "name": "Chand Mera Dil (Title Track)",
+        "url": "https://open.spotify.com/album/1ttzMgG7D1bPl2adfo1lbD"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280909,
+      "name": "Chand Mera Dil - Title Track",
+      "url": "https://open.spotify.com/track/7GQB2CWQcahCLCCNQHKWXM"
     },
     {
       "album": {

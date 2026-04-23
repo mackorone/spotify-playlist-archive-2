@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Bitza",
-  "num_followers": 23026,
+  "num_followers": 23023,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -431,26 +431,6 @@
     {
       "added_at": "2026-04-16 21:00:44",
       "album": {
-        "name": "TOXIC",
-        "url": "https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        },
-        {
-          "name": "Katarina",
-          "url": "https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0"
-        }
-      ],
-      "duration_ms": 169787,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr"
-    },
-    {
-      "added_at": "2026-04-16 21:00:44",
-      "album": {
         "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
         "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 193481,
       "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
       "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
+    },
+    {
+      "added_at": "2026-04-16 21:00:44",
+      "album": {
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Katarina",
+          "url": "https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0"
+        }
+      ],
+      "duration_ms": 169787,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr"
     },
     {
       "added_at": "2026-04-16 21:00:44",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-04-16 21:00:44",
       "album": {
-        "name": "Mintea Mea",
-        "url": "https://open.spotify.com/album/7t2Yr9iJCea9Qo7PW8z1On"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        },
-        {
-          "name": "JO",
-          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Mintea Mea",
-      "url": "https://open.spotify.com/track/0COYO76iJYm8yTch9UeAsq"
-    },
-    {
-      "added_at": "2026-04-16 21:00:44",
-      "album": {
         "name": "Grinch",
         "url": "https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 194000,
       "name": "Grinch",
       "url": "https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk"
+    },
+    {
+      "added_at": "2026-04-16 21:00:44",
+      "album": {
+        "name": "Mintea Mea",
+        "url": "https://open.spotify.com/album/7t2Yr9iJCea9Qo7PW8z1On"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Mintea Mea",
+      "url": "https://open.spotify.com/track/0COYO76iJYm8yTch9UeAsq"
     },
     {
       "added_at": "2026-04-16 21:00:44",

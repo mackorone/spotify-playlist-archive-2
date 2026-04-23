@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Morgan Wallen",
-  "num_followers": 680251,
+  "num_followers": 680415,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-04-17 04:02:13",
       "album": {
-        "name": "Loving Life Again",
-        "url": "https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "Loving Life Again",
-      "url": "https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny"
-    },
-    {
-      "added_at": "2026-04-17 04:02:13",
-      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "added_at": "2026-04-17 04:02:13",
+      "album": {
+        "name": "Cold Beer & Country Music",
+        "url": "https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "I Never Lie",
+      "url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
     },
     {
       "added_at": "2026-04-17 04:02:13",
@@ -475,18 +475,18 @@
     {
       "added_at": "2026-04-17 04:02:13",
       "album": {
-        "name": "Cold Beer & Country Music",
-        "url": "https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF"
+        "name": "Loving Life Again",
+        "url": "https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC"
       },
       "artists": [
         {
-          "name": "Zach Top",
-          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 224906,
-      "name": "I Never Lie",
-      "url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
+      "duration_ms": 226413,
+      "name": "Loving Life Again",
+      "url": "https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny"
     },
     {
       "added_at": "2026-04-17 04:02:13",
@@ -523,18 +523,22 @@
     {
       "added_at": "2026-04-17 04:02:13",
       "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+        "name": "Don't Mind If I Do",
+        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 143985,
-      "name": "Say Why",
-      "url": "https://open.spotify.com/track/0BUvxX1tTOSJcsn6Y24Bsp"
+      "duration_ms": 218946,
+      "name": "Don't Mind If I Do",
+      "url": "https://open.spotify.com/track/1FHIZknONrV2c20w0x5AVG"
     },
     {
       "added_at": "2026-04-17 04:02:13",
@@ -555,22 +559,18 @@
     {
       "added_at": "2026-04-17 04:02:13",
       "album": {
-        "name": "Don't Mind If I Do",
-        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
       },
       "artists": [
         {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 218946,
-      "name": "Don't Mind If I Do",
-      "url": "https://open.spotify.com/track/1FHIZknONrV2c20w0x5AVG"
+      "duration_ms": 143985,
+      "name": "Say Why",
+      "url": "https://open.spotify.com/track/0BUvxX1tTOSJcsn6Y24Bsp"
     },
     {
       "added_at": "2026-04-17 04:02:13",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-04-17 04:02:13",
       "album": {
-        "name": "Outskirts",
-        "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Outskirts",
-      "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
-    },
-    {
-      "added_at": "2026-04-17 04:02:13",
-      "album": {
         "name": "Man of the Year",
         "url": "https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 228546,
       "name": "Man of the Year",
       "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
+    },
+    {
+      "added_at": "2026-04-17 04:02:13",
+      "album": {
+        "name": "Outskirts",
+        "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Outskirts",
+      "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
     },
     {
       "added_at": "2026-04-17 04:02:13",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-04-17 04:02:13",
       "album": {
-        "name": "29: Written In Stone",
-        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "What He Didn't Do",
-      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
-    },
-    {
-      "added_at": "2026-04-17 04:02:13",
-      "album": {
         "name": "Bad State of Mind",
         "url": "https://open.spotify.com/album/7yPorglELKJoIBGGkgHSLg"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 261006,
       "name": "Bad State of Mind",
       "url": "https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX"
+    },
+    {
+      "added_at": "2026-04-17 04:02:13",
+      "album": {
+        "name": "29: Written In Stone",
+        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "What He Didn't Do",
+      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
     },
     {
       "added_at": "2026-04-17 04:02:13",

@@ -1,15 +1,35 @@
 {
   "description": "Bops and LGBTQIA+ artists only. Cover: Priyanka",
-  "num_followers": 21276,
+  "num_followers": 21337,
   "original_name": "GLOW US & Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMQ0qQ8LZx31LEI5EI11852zSHHQ",
+  "snapshot_id": "AAAAADYGPWQ7WZWsz0TzxKJH+04tiuhM",
   "tracks": [
     {
-      "added_at": "2026-04-20 19:50:39",
+      "added_at": "2026-04-22 16:44:04",
+      "album": {
+        "name": "collide",
+        "url": "https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 223456,
+      "name": "collide",
+      "url": "https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm"
+    },
+    {
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "I Feel So Free",
         "url": "https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y"
@@ -25,39 +45,7 @@
       "url": "https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
-      "album": {
-        "name": "BABY JAKE",
-        "url": "https://open.spotify.com/album/3rClarwptOqh2A2oaWJEDx"
-      },
-      "artists": [
-        {
-          "name": "Fancy Hagood",
-          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "Say You\u2019ll Be There",
-      "url": "https://open.spotify.com/track/120OFSsTEeENBSnp6bHrNs"
-    },
-    {
-      "added_at": "2026-04-17 04:05:02",
-      "album": {
-        "name": "DUMB",
-        "url": "https://open.spotify.com/album/68SonfKPODsOntzXjCZOvn"
-      },
-      "artists": [
-        {
-          "name": "JORDY",
-          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
-        }
-      ],
-      "duration_ms": 140506,
-      "name": "DUMB",
-      "url": "https://open.spotify.com/track/30iQqVmUyPxyDPTby3KjwM"
-    },
-    {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Dressin'",
         "url": "https://open.spotify.com/album/6uL9jAno7bic63OfT8ZN2e"
@@ -73,7 +61,71 @@
       "url": "https://open.spotify.com/track/0fR98swBUtvJP3p8gyQAVR"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
+      "album": {
+        "name": "Girls Together",
+        "url": "https://open.spotify.com/album/6GE1FVYD53jZ64VhKTVKDV"
+      },
+      "artists": [
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Girls Together",
+      "url": "https://open.spotify.com/track/3riULgwcP2JRaspwjqxHBz"
+    },
+    {
+      "added_at": "2026-04-22 16:44:04",
+      "album": {
+        "name": "Pain (Lonesome Version)",
+        "url": "https://open.spotify.com/album/7G2eiZtTNpFADoBqvzKFs6"
+      },
+      "artists": [
+        {
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+        }
+      ],
+      "duration_ms": 263560,
+      "name": "Pain - Lonesome Version",
+      "url": "https://open.spotify.com/track/17PLTUNOheE8k9M2oOonFF"
+    },
+    {
+      "added_at": "2026-04-22 16:44:04",
+      "album": {
+        "name": "BABY JAKE",
+        "url": "https://open.spotify.com/album/3rClarwptOqh2A2oaWJEDx"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "Say You\u2019ll Be There",
+      "url": "https://open.spotify.com/track/120OFSsTEeENBSnp6bHrNs"
+    },
+    {
+      "added_at": "2026-04-22 16:44:04",
+      "album": {
+        "name": "DUMB",
+        "url": "https://open.spotify.com/album/68SonfKPODsOntzXjCZOvn"
+      },
+      "artists": [
+        {
+          "name": "JORDY",
+          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
+        }
+      ],
+      "duration_ms": 140506,
+      "name": "DUMB",
+      "url": "https://open.spotify.com/track/30iQqVmUyPxyDPTby3KjwM"
+    },
+    {
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Wasn't Your Type",
         "url": "https://open.spotify.com/album/1IV4En5QCRKoj5lAcgDQEv"
@@ -89,7 +141,7 @@
       "url": "https://open.spotify.com/track/362fSh6bBIqZsUyJbZUCeI"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "idea 1",
         "url": "https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm"
@@ -105,7 +157,7 @@
       "url": "https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "From My Side",
         "url": "https://open.spotify.com/album/5vmJ1xWkA9gU8IBSn6gAck"
@@ -121,7 +173,7 @@
       "url": "https://open.spotify.com/track/2JkJ3ju8snOnciAw7YRC92"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Wannabeher",
         "url": "https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9"
@@ -137,7 +189,7 @@
       "url": "https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "BROKE BITCH FREE$TYLE",
         "url": "https://open.spotify.com/album/5dqawOCoShBIAN8R9Dl0GE"
@@ -153,7 +205,7 @@
       "url": "https://open.spotify.com/track/32HAF87vgPSUQ6l6pRO7Er"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Doing It Wrong",
         "url": "https://open.spotify.com/album/0ir7ane2shVWPnuBZwYCwG"
@@ -173,7 +225,7 @@
       "url": "https://open.spotify.com/track/7JV9PR0p7ejQmRugzlFTyp"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Tan Lines",
         "url": "https://open.spotify.com/album/5K8JMSph1hfovoB0LoHvGo"
@@ -189,7 +241,7 @@
       "url": "https://open.spotify.com/track/5oDT7KAJxuOy4kvat3bzlf"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/0KpO1I2Sukj5rr0q2Jmugs"
@@ -205,7 +257,7 @@
       "url": "https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Same Life",
         "url": "https://open.spotify.com/album/46mxte5lGijXlFCWSksOfu"
@@ -221,7 +273,7 @@
       "url": "https://open.spotify.com/track/10KS3LMV89Agd6NBLfnvHO"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "second grade",
         "url": "https://open.spotify.com/album/5pMdeiF3uvKgUkjrAjX3so"
@@ -237,7 +289,7 @@
       "url": "https://open.spotify.com/track/77GI8YUY8xvnXD3qaC1xWQ"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Kleptomaniac",
         "url": "https://open.spotify.com/album/4sPk5dVTCNlkSufapIPEpy"
@@ -253,7 +305,7 @@
       "url": "https://open.spotify.com/track/3abBBKioYtLnqXCu4Jaa3I"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "SORRY I'M OBSESSED WITH YOU",
         "url": "https://open.spotify.com/album/3QFu8PfLym8S7VgUwl5WFs"
@@ -269,7 +321,7 @@
       "url": "https://open.spotify.com/track/4Arirl7XmsQedbiU566bWb"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Lavender Cowboy",
         "url": "https://open.spotify.com/album/6zeA4GCl9aHODp1dB4yo8w"
@@ -289,7 +341,7 @@
       "url": "https://open.spotify.com/track/2B8BHU6KqYiDbabtYEqfqD"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/5b7UrNnuckYDfCp6ZW0Sji"
@@ -305,7 +357,7 @@
       "url": "https://open.spotify.com/track/6wZePFKufqT4ZRQwTY3TiH"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Gold Star Baby: After Hours",
         "url": "https://open.spotify.com/album/08a8HQzyrjbt7qiWWV43iT"
@@ -321,7 +373,7 @@
       "url": "https://open.spotify.com/track/4aFsz8k1nk9uqHJnq0ff9A"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "HADES",
         "url": "https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l"
@@ -337,7 +389,7 @@
       "url": "https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Good Luck and Don\u2019t F%k It Up",
         "url": "https://open.spotify.com/album/47r67PWWnIMhZslf1Y6CO0"
@@ -353,7 +405,7 @@
       "url": "https://open.spotify.com/track/4AGBnT96qI3DlTheMSfWI8"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Feel Your Rain",
         "url": "https://open.spotify.com/album/7qTMakCD0P74bbkIPWuNGi"
@@ -369,7 +421,7 @@
       "url": "https://open.spotify.com/track/07be0QUZ1uxxXDkarMiZe6"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "The Truth We Hold",
         "url": "https://open.spotify.com/album/4ZECwfb4wwu830xgPnTk52"
@@ -385,7 +437,7 @@
       "url": "https://open.spotify.com/track/1ll5HKOjeWDnRlVpk4r0np"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Wanna Get Along?",
         "url": "https://open.spotify.com/album/6nXoVCjgTkOEfg4FZyO7IY"
@@ -401,7 +453,7 @@
       "url": "https://open.spotify.com/track/5yHm4fwAC3Y8jArEHpKvEy"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Chinese Tobacco",
         "url": "https://open.spotify.com/album/4KqpIccgc4jNqIBkKbwtru"
@@ -417,7 +469,7 @@
       "url": "https://open.spotify.com/track/0wi8HTSPE4b6LE6zAI98oN"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Downfall",
         "url": "https://open.spotify.com/album/2ZqZlFztQvsypPBoPcMpP8"
@@ -433,7 +485,7 @@
       "url": "https://open.spotify.com/track/2aAcT2candbjm9HghUotKF"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Body Count",
         "url": "https://open.spotify.com/album/1DuWqJMjxVhiXmGOiNM9rT"
@@ -449,7 +501,7 @@
       "url": "https://open.spotify.com/track/0Uzjswk2Ef17f6g369J4EX"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Big Disgrace",
         "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
@@ -465,7 +517,7 @@
       "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Lemonade and Cyanide",
         "url": "https://open.spotify.com/album/3VzTpNpktjZMwkpxI8scrk"
@@ -481,7 +533,7 @@
       "url": "https://open.spotify.com/track/71ZAwuJfQ6p1wCMLOqyh93"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Male Validation and Other Drugs",
         "url": "https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM"
@@ -497,7 +549,7 @@
       "url": "https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Le temps joue contre nous",
         "url": "https://open.spotify.com/album/3HVVSrmECIxpKey48UW0Ea"
@@ -513,7 +565,7 @@
       "url": "https://open.spotify.com/track/2nDd5bfWoEBIhHlT3x0pDh"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "LEZ GO!",
         "url": "https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv"
@@ -533,7 +585,7 @@
       "url": "https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Is It Fun Or Is It Over?",
         "url": "https://open.spotify.com/album/54N4dAkractT6mUBC0a48b"
@@ -549,7 +601,7 @@
       "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Shot In The Dark",
         "url": "https://open.spotify.com/album/7tjCQmc3sGfCtXc3XcZ5FN"
@@ -565,23 +617,7 @@
       "url": "https://open.spotify.com/track/2EbdsGq1E2fySR2iACw3ur"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
-      "album": {
-        "name": "Loophole",
-        "url": "https://open.spotify.com/album/7riBETcMwQjmSOWxRQGQio"
-      },
-      "artists": [
-        {
-          "name": "MINOE",
-          "url": "https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi"
-        }
-      ],
-      "duration_ms": 174705,
-      "name": "Loophole",
-      "url": "https://open.spotify.com/track/2WPm0mB8ZoKmD1uw76b6yf"
-    },
-    {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Emotional Virgin",
         "url": "https://open.spotify.com/album/30CQlL2HWaWxbhAJNPsLbG"
@@ -597,7 +633,7 @@
       "url": "https://open.spotify.com/track/48r9lJLYNBHTB4P1YE8M4T"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Wish I Wasn't Gay",
         "url": "https://open.spotify.com/album/0qecOmlfacASt3Vo2j254p"
@@ -625,7 +661,7 @@
       "url": "https://open.spotify.com/track/6qlbhnbYWLE8ivxaRMArIl"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "RAIN",
         "url": "https://open.spotify.com/album/6lm5tf9xL9t37Uz1jsthZV"
@@ -645,7 +681,7 @@
       "url": "https://open.spotify.com/track/04TlEj0Fhxnq4qbc560fnh"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Queen of Texas",
         "url": "https://open.spotify.com/album/3XFMsDqtgYA0ImMRJW4e7e"
@@ -661,7 +697,7 @@
       "url": "https://open.spotify.com/track/5SnAkhrhPXKRSCuvGjCM1s"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Gentleman",
         "url": "https://open.spotify.com/album/2rVHGc0YWHFfKTcrVhmeLn"
@@ -677,23 +713,7 @@
       "url": "https://open.spotify.com/track/5qGlVj7q8E5kJRznWOD12a"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
-      "album": {
-        "name": "Face Like Yours",
-        "url": "https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 158980,
-      "name": "Face Like Yours",
-      "url": "https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM"
-    },
-    {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Have You Considered?",
         "url": "https://open.spotify.com/album/2RDeu9FwauUY8b4zdccmuV"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/5HpJZ8oogq6EP1OsMD9W38"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Not My Problem",
         "url": "https://open.spotify.com/album/7Aw9A0BigsX2OYGCHNZDRQ"
@@ -733,7 +753,7 @@
       "url": "https://open.spotify.com/track/4nTwtkAMW0CVRAcA1uLKCR"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Helen's Door",
         "url": "https://open.spotify.com/album/34yIxzhBiLbKWvneIEXE30"
@@ -749,7 +769,7 @@
       "url": "https://open.spotify.com/track/3vMX1vKzmkprqxRiKwDNfu"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "New Thing",
         "url": "https://open.spotify.com/album/7s0JL3zSGMkKcUBj7F8NAl"
@@ -765,7 +785,7 @@
       "url": "https://open.spotify.com/track/2WmmyvbTkePnoUejoibJEM"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "What Would I Look Like Without A Brave Face? (Deluxe)",
         "url": "https://open.spotify.com/album/3Hj9SMz8qehBEn6KQGkCC6"
@@ -781,7 +801,7 @@
       "url": "https://open.spotify.com/track/4FCZ8hxMvHiYWx1mdLoqEs"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "Girlhood",
         "url": "https://open.spotify.com/album/05KNazpljahHfx1ElDNujj"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/7z1Z3ORSLmusMHO2JvEALl"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "E2E",
         "url": "https://open.spotify.com/album/31tmdkhoxjChUpoe6x4wsd"
@@ -813,7 +833,7 @@
       "url": "https://open.spotify.com/track/6LERtOJrTXTKq5J391pDLA"
     },
     {
-      "added_at": "2026-04-17 04:05:02",
+      "added_at": "2026-04-22 16:44:04",
       "album": {
         "name": "BAD SEX",
         "url": "https://open.spotify.com/album/3xVX1ylMlhB0AQ1dWFgd7g"
@@ -827,22 +847,6 @@
       "duration_ms": 170507,
       "name": "BAD SEX",
       "url": "https://open.spotify.com/track/1J3q19fUwmGK3Ub8hjiJSv"
-    },
-    {
-      "added_at": "2026-04-17 04:05:02",
-      "album": {
-        "name": "Dangerous Nostalgia",
-        "url": "https://open.spotify.com/album/5iz4jfHqIgEA9NGlNQ1nsd"
-      },
-      "artists": [
-        {
-          "name": "Ralph",
-          "url": "https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8"
-        }
-      ],
-      "duration_ms": 195448,
-      "name": "Dangerous Nostalgia",
-      "url": "https://open.spotify.com/track/3afGTfHfCJ6RjltpDGjazF"
     }
   ],
   "unique_name": "GLOW US & Canada",

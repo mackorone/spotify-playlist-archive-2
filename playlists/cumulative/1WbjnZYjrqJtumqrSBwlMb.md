@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,318 songs - 3 day 9 hr 0 min
+1,319 songs - 3 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [i recovered from this](https://open.spotify.com/track/2f6UtOGwSA1CMuWZi59r8Z) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:55 | 2024-08-03 |  |
 | [I THINK](https://open.spotify.com/track/4f8Mh5wuWHOsfXtzjrJB3t) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:32 | 2022-07-13 |  |
 | [I Thought About Killing You](https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 4:34 | 2022-09-18 |  |
+| [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2026-04-22 |  |
 | [I Want You \(She's So Heavy\) \- 2019 Mix](https://open.spotify.com/track/5h0yfg2KLqjVOKpCUTkBKo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Super Deluxe Edition\)](https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c) | 7:47 | 2021-09-28 |  |
 | [I Want Your Video](https://open.spotify.com/track/3RuAgZtnLN6vDWuf6FDd9R) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 2:08 | 2022-09-17 |  |
 | [I Wasn’t There](https://open.spotify.com/track/36GforftaCASOR8kBnhqN8) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:07 | 2025-06-26 |  |

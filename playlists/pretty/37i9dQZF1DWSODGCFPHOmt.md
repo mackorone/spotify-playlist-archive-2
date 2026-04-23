@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Cover: Ilusion Eterno
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,903 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,902 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 43 | [La Bala](https://open.spotify.com/track/2PsYNKGoDGJ3gRXuHICdRv) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Los Ultimos Exitos De Rigo Tovar](https://open.spotify.com/album/0QXfEvC4wzO6uj8ftQcPY8) | 6:21 |
 | 44 | [Los Plebes En El Río](https://open.spotify.com/track/6rysHSjF5GptPktyORkVfQ) | [El Ezequiel](https://open.spotify.com/artist/5fEXlQQjFkAH2xuBUGxOTw) | [Los Plebes En El Río](https://open.spotify.com/album/1ElvdlX6KOY80peRUO78xN) | 2:38 |
 | 45 | [Navidad Sin Ti \- Live](https://open.spotify.com/track/0IowQHym495GsLIVyuScWH) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Diva en Vivo](https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce) | 4:13 |
-| 46 | [Juana La Cubana](https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS) | [Fito Olivares Y La Pura Sabrosura](https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o) | [Exitos Inolvidables](https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv) | 3:10 |
+| 46 | [Manantial en la Arena](https://open.spotify.com/track/2MMSi1VHFZJPiAvLdjFLtE) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Manantial en la Arena](https://open.spotify.com/album/27hp3mqAlbKkVyV7T4f02U) | 3:59 |
 | 47 | [Cada Diciembre](https://open.spotify.com/track/06jpTiHUJBpgXaiPvrFMLE) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 2:37 |
-| 48 | [Manantial en la Arena](https://open.spotify.com/track/2MMSi1VHFZJPiAvLdjFLtE) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Manantial en la Arena](https://open.spotify.com/album/27hp3mqAlbKkVyV7T4f02U) | 3:59 |
+| 48 | [Juana La Cubana](https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS) | [Fito Olivares Y La Pura Sabrosura](https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o) | [Exitos Inolvidables](https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv) | 3:10 |
 | 49 | [Blanca Navidad \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Blanca Navidad \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE) | 3:16 |
 | 50 | [Amarga Navidad](https://open.spotify.com/track/09o5v9lhDZjv10YTuq5HII) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Amarga Navidad](https://open.spotify.com/album/51cutxEJjhAElByk3K1I8X) | 3:13 |
 | 51 | [Navidad En Mi Rancho](https://open.spotify.com/track/58poRvBpaSao6M24ZItrMq) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Momentos Inolvidables](https://open.spotify.com/album/4j52g8PEdpDLzznzt3lGUO) | 3:59 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 75 | [La Güera Salomé](https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [La Güera Salomé](https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5) | 3:44 |
 | 76 | [Blanca Navidad](https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:37 |
 | 77 | [Los Peces En El Río](https://open.spotify.com/track/1fg5yTwVBmUFWIVRTvZDT5) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:46 |
-| 78 | [Navidad, Feel The Magic](https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Navidad, Feel The Magic](https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO) | 2:45 |
-| 79 | [Mi Burrito Sabanero](https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Mi Burrito Sabanero](https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp) | 3:10 |
+| 78 | [Mi Burrito Sabanero](https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Mi Burrito Sabanero](https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp) | 3:10 |
+| 79 | [Navidad, Feel The Magic](https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Navidad, Feel The Magic](https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO) | 2:45 |
 | 80 | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe) | 2:35 |
 | 81 | [Cumbión Navideño](https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:27 |
 | 82 | [Blanca Navidad](https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Blanca Navidad](https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc) | 2:29 |

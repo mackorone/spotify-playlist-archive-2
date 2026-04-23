@@ -976,7 +976,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 205116,
       "name": "Changa Hunda",
       "url": "https://open.spotify.com/track/6L3ezy8fhDzOuTckbv0W01"
@@ -2862,6 +2862,32 @@
       "duration_ms": 226201,
       "name": "Koka",
       "url": "https://open.spotify.com/track/5icw6LkuZbIJlYE6P4yALG"
+    },
+    {
+      "album": {
+        "name": "Kukdu Ku (From \"Jawaak\")",
+        "url": "https://open.spotify.com/album/4Q1t2YGhPTnQxg0uXIsw4m"
+      },
+      "artists": [
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+        },
+        {
+          "name": "Gurmoh",
+          "url": "https://open.spotify.com/artist/3mgciNhvc5PbGOjbmfcU2s"
+        },
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182380,
+      "name": "Kukdu Ku (From \"Jawaak\")",
+      "url": "https://open.spotify.com/track/1CqohnGO7yQTEYDkAmrCKF"
     },
     {
       "album": {

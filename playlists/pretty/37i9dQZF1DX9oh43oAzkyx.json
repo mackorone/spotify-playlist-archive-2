@@ -1,6 +1,6 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2852915,
+  "num_followers": 2853076,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,26 @@
     {
       "added_at": "2026-04-03 04:20:40",
       "album": {
+        "name": "Coke Wave 3.5: Narcos",
+        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "Ever Since U Left Me (I Went Deaf)",
+      "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
+    },
+    {
+      "added_at": "2026-04-03 04:20:40",
+      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 236524,
       "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
       "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
-    },
-    {
-      "added_at": "2026-04-03 04:20:40",
-      "album": {
-        "name": "Coke Wave 3.5: Narcos",
-        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Max B",
-          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "Ever Since U Left Me (I Went Deaf)",
-      "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
     },
     {
       "added_at": "2026-04-03 04:20:40",
@@ -903,30 +903,6 @@
     {
       "added_at": "2026-04-03 04:20:40",
       "album": {
-        "name": "SPEAK NOW OR...",
-        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Big Boogie",
-          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
-        }
-      ],
-      "duration_ms": 213524,
-      "name": "WYD (with GloRilla & Big Boogie)",
-      "url": "https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS"
-    },
-    {
-      "added_at": "2026-04-03 04:20:40",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
       },
@@ -947,6 +923,30 @@
       "duration_ms": 132986,
       "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
       "url": "https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV"
+    },
+    {
+      "added_at": "2026-04-03 04:20:40",
+      "album": {
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "duration_ms": 213524,
+      "name": "WYD (with GloRilla & Big Boogie)",
+      "url": "https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS"
     },
     {
       "added_at": "2026-04-03 04:20:40",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-04-03 04:20:40",
       "album": {
-        "name": "B.B.B.",
-        "url": "https://open.spotify.com/album/2cuHPmCMw1FbcYjzFnYxX5"
-      },
-      "artists": [
-        {
-          "name": "JUVENILE",
-          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
-        },
-        {
-          "name": "Genesisthegawd",
-          "url": "https://open.spotify.com/artist/4Sn6QtpIRLwt5mtQBbzcOu"
-        }
-      ],
-      "duration_ms": 140986,
-      "name": "B.B.B.",
-      "url": "https://open.spotify.com/track/34cHt7RO0My6Nsi4mvj0ez"
-    },
-    {
-      "added_at": "2026-04-03 04:20:40",
-      "album": {
         "name": "Rumors (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 185855,
       "name": "Rumors (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
+    },
+    {
+      "added_at": "2026-04-03 04:20:40",
+      "album": {
+        "name": "B.B.B.",
+        "url": "https://open.spotify.com/album/2cuHPmCMw1FbcYjzFnYxX5"
+      },
+      "artists": [
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Genesisthegawd",
+          "url": "https://open.spotify.com/artist/4Sn6QtpIRLwt5mtQBbzcOu"
+        }
+      ],
+      "duration_ms": 140986,
+      "name": "B.B.B.",
+      "url": "https://open.spotify.com/track/34cHt7RO0My6Nsi4mvj0ez"
     },
     {
       "added_at": "2026-04-03 04:20:40",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-04-03 04:20:40",
       "album": {
-        "name": "Eternal Atake 2",
-        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 164366,
-      "name": "Light Year (Practice)",
-      "url": "https://open.spotify.com/track/3NE6g9h77FZbQqCLzUpGRt"
-    },
-    {
-      "added_at": "2026-04-03 04:20:40",
-      "album": {
         "name": "REPEAT IT",
         "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 190344,
       "name": "REPEAT IT (with Gunna)",
       "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
+    },
+    {
+      "added_at": "2026-04-03 04:20:40",
+      "album": {
+        "name": "Eternal Atake 2",
+        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 164366,
+      "name": "Light Year (Practice)",
+      "url": "https://open.spotify.com/track/3NE6g9h77FZbQqCLzUpGRt"
     },
     {
       "added_at": "2026-04-03 04:20:40",
@@ -1211,30 +1211,6 @@
     {
       "added_at": "2026-04-03 04:20:40",
       "album": {
-        "name": "Big Dawgs (Remix) [with A$AP Rocky]",
-        "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Big Dawgs (Remix) [with A$AP Rocky]",
-      "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
-    },
-    {
-      "added_at": "2026-04-03 04:20:40",
-      "album": {
         "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
         "url": "https://open.spotify.com/album/4T64HQK7hobpqtvq8284zI"
       },
@@ -1255,6 +1231,30 @@
       "duration_ms": 165270,
       "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
       "url": "https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE"
+    },
+    {
+      "added_at": "2026-04-03 04:20:40",
+      "album": {
+        "name": "Big Dawgs (Remix) [with A$AP Rocky]",
+        "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Big Dawgs (Remix) [with A$AP Rocky]",
+      "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
     },
     {
       "added_at": "2026-04-03 04:20:40",

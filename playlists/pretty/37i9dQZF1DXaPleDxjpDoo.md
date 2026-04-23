@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,860 likes - 140 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,058 likes - 140 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 14 | [Tvivl](https://open.spotify.com/track/0MD3DcB2wd5szM23EQtAVD) | [Silenced](https://open.spotify.com/artist/4DIjHWtTuEdnc561jHAESJ), [Sorth](https://open.spotify.com/artist/5r7HLWLaJMF1MsqUVWveyG) | [Tvivl](https://open.spotify.com/album/7IxhbSKsEdnOQ3XkAOxu2L) | 2:29 |
 | 15 | [Lyvora](https://open.spotify.com/track/6swO4wcKvKlpIPziPc7AAk) | [Monkville](https://open.spotify.com/artist/53qEoYIkHrhdTdC6AaSoiJ) | [Lyvora](https://open.spotify.com/album/3i2ntpjwIuvdMuYJwjXfNQ) | 2:23 |
 | 16 | [Reach](https://open.spotify.com/track/2jDbgwfBc2BjYlh3EdZrCn) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Reach](https://open.spotify.com/album/1VwTkqotErO8juMoGGYgeS) | 2:31 |
-| 17 | [Forest Morning](https://open.spotify.com/track/15fQ0VWN2bXSJFUWgSyeUz) | [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Shared Pulse \(feat\. NATURE\)](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:25 |
+| 17 | [Forest Morning](https://open.spotify.com/track/15fQ0VWN2bXSJFUWgSyeUz) | [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Shared Pulse](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:25 |
 | 18 | [Forest Life](https://open.spotify.com/track/62tCKf9APDvw2HC0D08E49) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Forest Life](https://open.spotify.com/album/1zliktVTGNm3llEFcT3lZd) | 2:40 |
 | 19 | [Nature's Heart](https://open.spotify.com/track/7yIzdeMsJ8Ao3E4WReINYu) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Nature's Heart](https://open.spotify.com/album/7zmcX2OiYE6yZf4FDk1W9o) | 2:45 |
 | 20 | [Tunes in the Mist](https://open.spotify.com/track/2m96Ut2Doxbxf83noJ56vk) | [Erastox](https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd) | [Tunes in the Mist](https://open.spotify.com/album/0yjIDrbqojqS7aamV2sgwW) | 2:08 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 22 | [Paladin Diversum](https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin Diversum](https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur) | 3:16 |
 | 23 | [Nature's Energy](https://open.spotify.com/track/03kNewVwapP82UDyaYHns8) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Nature's Energy](https://open.spotify.com/album/4dF4uAh7ElOl6BfncIdZf2) | 2:40 |
 | 24 | [Parivartan](https://open.spotify.com/track/4Hc33JBj2VROga6Iei6667) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Parivartan](https://open.spotify.com/album/1WWJWjksaxJqnBU8fgrwBa) | 2:46 |
-| 25 | [Weightless](https://open.spotify.com/track/6vs3zn3RZXdnehXKsXhDmJ) | [Graphity](https://open.spotify.com/artist/4BFOUasxzvjSS6N2zvp4Zd), [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Shared Pulse \(feat\. NATURE\)](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:48 |
+| 25 | [Weightless](https://open.spotify.com/track/6vs3zn3RZXdnehXKsXhDmJ) | [Graphity](https://open.spotify.com/artist/4BFOUasxzvjSS6N2zvp4Zd), [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Shared Pulse](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:48 |
 | 26 | [Midrib](https://open.spotify.com/track/5oYxD5jqVkJLLld1Wxw6mb) | [Canopy Sound](https://open.spotify.com/artist/6tjeq3snhkGGVQrBRMzr0s) | [Midrib](https://open.spotify.com/album/5GsUgnGOmiBv0tYrDzYrky) | 2:05 |
 | 27 | [Birds In The Cul\-De\-Sac](https://open.spotify.com/track/6Vv7pOvG9e8zFWOwIKJTqA) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds In The Cul\-De\-Sac](https://open.spotify.com/album/7sUigBnrLRsr8JD3oCVNfq) | 1:05 |
 | 28 | [Mirage](https://open.spotify.com/track/58jZ97ENjISsrrwppz7RXq) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Mirage](https://open.spotify.com/album/3DftN7ZoiR9xzRh2CSl9yd) | 2:59 |

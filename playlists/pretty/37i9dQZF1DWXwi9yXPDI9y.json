@@ -1,6 +1,6 @@
 {
   "description": "Grab a drink and relax to the Jazz played in the background at the bar.",
-  "num_followers": 194361,
+  "num_followers": 194430,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "How Deep Is The Ocean?",
-      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Sings The Winners",
         "url": "https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 191240,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/1tj5ZJB9BhKlIBsi5mhI8b"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "How Deep Is The Ocean?",
+      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Waiter, Make Mine Blues",
-      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
         "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 204866,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Waiter, Make Mine Blues",
+      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
+        "name": "The Jazz Giants '56",
+        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 569880,
+      "name": "I Guess I'll Have To Change My Plan",
+      "url": "https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
         "name": "Anita Sings The Most",
         "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 223893,
       "name": "You Turned The Tables On Me",
       "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
-        "name": "The Jazz Giants '56",
-        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 569880,
-      "name": "I Guess I'll Have To Change My Plan",
-      "url": "https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Stairway To The Stars",
+      "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
         "name": "Autumn Leaves",
         "url": "https://open.spotify.com/album/0G6O2FuXK2CrwyzxcEpGsK"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 285693,
       "name": "If I Had You - Bonus Track",
       "url": "https://open.spotify.com/track/54U0BdTlsSah7SI6bxJeF6"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
-        "name": "I Just Dropped By To Say Hello",
-        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Stairway To The Stars",
-      "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "The Imperious Dinah Washington",
-        "url": "https://open.spotify.com/album/0vHivwpqcKaKn3CmXY7SvK"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Our Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/5cxRemrNoI9DUqQxqd2sir"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Angel Eyes",
         "url": "https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 528226,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "The Imperious Dinah Washington",
+        "url": "https://open.spotify.com/album/0vHivwpqcKaKn3CmXY7SvK"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Our Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/5cxRemrNoI9DUqQxqd2sir"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
-      },
-      "artists": [
-        {
-          "name": "The Ben Webster Quintet",
-          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
-        }
-      ],
-      "duration_ms": 258160,
-      "name": "Time On My Hands",
-      "url": "https://open.spotify.com/track/4xqIedpD7DajzLlyS9b7rl"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Verve Jazz Masters 43: Ben Webster",
         "url": "https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 261333,
       "name": "Come Rain Or Come Shine",
       "url": "https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
+      },
+      "artists": [
+        {
+          "name": "The Ben Webster Quintet",
+          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
+        }
+      ],
+      "duration_ms": 258160,
+      "name": "Time On My Hands",
+      "url": "https://open.spotify.com/track/4xqIedpD7DajzLlyS9b7rl"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "The President Plays With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/5GV8mn6Y244jnMc8wiOpqt"
-      },
-      "artists": [
-        {
-          "name": "Lester Young & The Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/3Ws6pq018BWAz8uYhZ7V6h"
-        }
-      ],
-      "duration_ms": 207293,
-      "name": "These Foolish Things",
-      "url": "https://open.spotify.com/track/428zgQbotcPFjjWbTZuzid"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "The Classic Lena Horne",
         "url": "https://open.spotify.com/album/2feDNzqIwyjntEmwEoqMfm"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 203973,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/301Sxo2jTQH3CBRka9wEK1"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "The President Plays With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/5GV8mn6Y244jnMc8wiOpqt"
+      },
+      "artists": [
+        {
+          "name": "Lester Young & The Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/3Ws6pq018BWAz8uYhZ7V6h"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "These Foolish Things",
+      "url": "https://open.spotify.com/track/428zgQbotcPFjjWbTZuzid"
     },
     {
       "added_at": "2026-04-01 09:07:54",

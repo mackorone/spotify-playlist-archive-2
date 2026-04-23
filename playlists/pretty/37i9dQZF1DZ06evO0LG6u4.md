@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LG6u4.md) - [plain]
 
 > This is Éliane Radigue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392 likes - 15 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 391 likes - 15 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

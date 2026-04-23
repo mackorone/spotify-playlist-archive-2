@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,801 likes - 40 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,817 likes - 40 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 39 | [Ana Estaslamt](https://open.spotify.com/track/4mSPXX5Hb7S1nTmb8Mkbsi) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Ana Estaslamt](https://open.spotify.com/album/0abUIrSyfczVxloVNHvD4D) | 3:45 |
 | 40 | [Labba Ghalak](https://open.spotify.com/track/7s69csDDFLra4cViwDXG97) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Labba Ghalak](https://open.spotify.com/album/2DlF4zMTimbBjfXtFiNQGE) | 3:32 |
 
-Snapshot ID: `AAAAAJazCC6Egg+abAlNaqIs/VViSKKc`
+Snapshot ID: `AAAAAL1QStdKEFaQSMJji2ptV0OxKK4J`

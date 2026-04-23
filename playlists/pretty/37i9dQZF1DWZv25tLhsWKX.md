@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,627 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,634 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 | 59 | [Are You Ready to Love Me?](https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 3:34 |
 | 60 | [Games People Play](https://open.spotify.com/track/50t8gshcAtXiUdk7nHfYDp) | [Joe South](https://open.spotify.com/artist/7s2L0cftC6UBVVxADuyfwS) | [Introspect \(Expanded Edition\)](https://open.spotify.com/album/0efmkx26DQ4OSiPCdKsQgB) | 3:35 |
 | 61 | [Long White Line](https://open.spotify.com/track/40Xg69oisdpuP4C7xl3RkK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 4:01 |
-| 62 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
+| 62 | [\(Sittin' On\) the Dock of the Bay \- Mono](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 | 63 | [You Must Go](https://open.spotify.com/track/7zb4BpYdR26dSTGSWkGM6f) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [All Kinds Of People / You Must Go](https://open.spotify.com/album/4rIScWdlTV9CNp2ljgr7PD) | 5:02 |
 | 64 | [Honky Tonk Women](https://open.spotify.com/track/38Cn5x1VP6gBDbibmokN8d) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [Sleepless Nights](https://open.spotify.com/album/3hDXV8pPMWKzRziBsuPJWA) | 4:17 |
 | 65 | [Way Down](https://open.spotify.com/track/5yidfuDlmErOA4KAYBokdS) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Southern Gentleman](https://open.spotify.com/album/3nyn814gTrjxbSbbEtqkBU) | 2:45 |

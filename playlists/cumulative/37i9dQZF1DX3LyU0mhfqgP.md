@@ -4,7 +4,7 @@
 
 > Songs from LGBTQIA+ artists\. Cover: Slayyyter
 
-1,781 songs - 4 day 0 hr 33 min
+1,782 songs - 4 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Breaking Up With Jesus](https://open.spotify.com/track/2yp3Cqx9etkMlVVe0vourb) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Breaking Up With Jesus](https://open.spotify.com/album/0elBjfzN9RNSaXmcCHq35k) | 2:57 | 2023-10-10 | 2023-11-14 |
 | [BREATH](https://open.spotify.com/track/5WyzABu6GZCC4au3PqPxFC) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [BREATH](https://open.spotify.com/album/4pMqeL0MbG9Zjvr555FpNl) | 3:30 | 2022-05-13 | 2022-05-28 |
 | [Brisa 22](https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:03 | 2023-05-23 | 2023-06-02 |
-| [BRITTANY MURPHY.](https://open.spotify.com/track/4oUrl0RyDqr1DvNDvPNdRL) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:44 | 2026-03-27 |  |
+| [BRITTANY MURPHY.](https://open.spotify.com/track/4oUrl0RyDqr1DvNDvPNdRL) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:44 | 2026-03-27 | 2026-04-23 |
 | [Broke a Sweat](https://open.spotify.com/track/5taA6pnGkqh9LRvpRpcUgW) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Broke a Sweat](https://open.spotify.com/album/7zipQoqEskoBS1OGUG7xBh) | 2:50 | 2023-07-25 | 2023-08-09 |
 | [Broken](https://open.spotify.com/track/0OW2r3EJzCg7K5Ml0AUVEo) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Yours](https://open.spotify.com/album/6XUpmmF38NqTp1Nf6QcUfq) | 3:36 | 2023-11-29 | 2024-01-11 |
 | [Broken](https://open.spotify.com/track/2FkbeqpCrjjDdVH1SZgDo6) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Yours](https://open.spotify.com/album/3t31ldCb4oXOYSKXyGfaUA) | 3:36 | 2023-01-24 | 2023-03-08 |
@@ -339,6 +339,7 @@
 | [CP\_009\_ Évidemment](https://open.spotify.com/track/5XoaHIInmGuv7j6KssXWBg) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Nonante\-Cinq](https://open.spotify.com/album/0pcRdTAIkItbFdyRA4CVZM) | 3:26 | 2022-10-28 | 2022-12-01 |
 | [CPR](https://open.spotify.com/track/4iWrth0GCimHZWXNbNW1Em) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [CPR](https://open.spotify.com/album/6tR5iranrNLoNKWRVHGQOk) | 2:58 | 2024-08-13 | 2024-11-13 |
 | [Crack The Code](https://open.spotify.com/track/2lnozb68tIDOgnP6iOmq1m) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND \(BLOSSOM EDITION\)](https://open.spotify.com/album/3uAKzfR2PMG5eJTEXprAPF) | 1:17 | 2024-12-04 | 2025-01-15 |
+| [CRANK](https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 2:55 | 2026-04-22 |  |
 | [Crave](https://open.spotify.com/track/1iu8AelI8HgWFvvMiTwJ1j) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Crave](https://open.spotify.com/album/0sVi5uSYTodMvoT2tHC6g5) | 3:16 | 2021-12-17 | 2022-01-15 |
 | [Crazy Woman](https://open.spotify.com/track/65ocdKTGjti9ea5nNqaq4v) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5Z22p0gxm4C7o7wZRJ2QTy) | 2:48 | 2024-11-12 | 2024-12-05 |
 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 | 2024-07-09 | 2024-08-14 |

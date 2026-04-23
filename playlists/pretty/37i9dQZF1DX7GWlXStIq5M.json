@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Day Limns",
-  "num_followers": 362487,
+  "num_followers": 362461,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-04-17 03:00:47",
       "album": {
-        "name": "antes que voc\u00ea v\u00e1",
-        "url": "https://open.spotify.com/album/6mDrodmxlJCr9iAFnEnDxD"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 160284,
-      "name": "antes que voc\u00ea v\u00e1",
-      "url": "https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD"
-    },
-    {
-      "added_at": "2026-04-17 03:00:47",
-      "album": {
         "name": "Pedacin de Mim",
         "url": "https://open.spotify.com/album/2eGN7en1PVMGZ9j0JUWCCp"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 161764,
       "name": "Pedacin de Mim",
       "url": "https://open.spotify.com/track/3a4c19yPZKQaSShh6KiwYG"
+    },
+    {
+      "added_at": "2026-04-17 03:00:47",
+      "album": {
+        "name": "antes que voc\u00ea v\u00e1",
+        "url": "https://open.spotify.com/album/6mDrodmxlJCr9iAFnEnDxD"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 160284,
+      "name": "antes que voc\u00ea v\u00e1",
+      "url": "https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD"
     },
     {
       "added_at": "2026-04-17 03:00:47",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-04-17 03:00:47",
       "album": {
-        "name": "Solst\u00edcio",
-        "url": "https://open.spotify.com/album/2WHyCLLfvbNYVO4sqmdzsn"
-      },
-      "artists": [
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "FAL",
-      "url": "https://open.spotify.com/track/4Rs3vSQPDnvnQBmbw9pVY6"
-    },
-    {
-      "added_at": "2026-04-17 03:00:47",
-      "album": {
         "name": "ESTA\u00c7\u00c3O DO PRAZER",
         "url": "https://open.spotify.com/album/6AFXCGQQA2rwH76SjQnRQw"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 171967,
       "name": "ESTA\u00c7\u00c3O DO PRAZER",
       "url": "https://open.spotify.com/track/63M7nKz9FoFp9xD1cBTIo5"
+    },
+    {
+      "added_at": "2026-04-17 03:00:47",
+      "album": {
+        "name": "Solst\u00edcio",
+        "url": "https://open.spotify.com/album/2WHyCLLfvbNYVO4sqmdzsn"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "FAL",
+      "url": "https://open.spotify.com/track/4Rs3vSQPDnvnQBmbw9pVY6"
     },
     {
       "added_at": "2026-04-17 03:00:47",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-04-17 03:00:47",
       "album": {
+        "name": "APGC (Ao Vivo Na Casa Da Colina)",
+        "url": "https://open.spotify.com/album/4zl5y4as3m2eZS8DFRfqVt"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 195094,
+      "name": "N\u00f3s Dois - Ao Vivo Na Casa da Colina",
+      "url": "https://open.spotify.com/track/6Mg2CaEissVzViqC5jgveU"
+    },
+    {
+      "added_at": "2026-04-17 03:00:47",
+      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 127600,
       "name": "Volta",
       "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
-    },
-    {
-      "added_at": "2026-04-17 03:00:47",
-      "album": {
-        "name": "APGC (Ao Vivo Na Casa Da Colina)",
-        "url": "https://open.spotify.com/album/4zl5y4as3m2eZS8DFRfqVt"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 195094,
-      "name": "N\u00f3s Dois - Ao Vivo Na Casa da Colina",
-      "url": "https://open.spotify.com/track/6Mg2CaEissVzViqC5jgveU"
     },
     {
       "added_at": "2026-04-17 03:00:47",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-04-17 03:00:47",
       "album": {
+        "name": "Me Deixa Partir",
+        "url": "https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        }
+      ],
+      "duration_ms": 174107,
+      "name": "Me Deixa Partir",
+      "url": "https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr"
+    },
+    {
+      "added_at": "2026-04-17 03:00:47",
+      "album": {
         "name": "No Mar",
         "url": "https://open.spotify.com/album/0UIt3RBifk0pziphGUHL2i"
       },
@@ -707,18 +723,18 @@
     {
       "added_at": "2026-04-17 03:00:47",
       "album": {
-        "name": "Me Deixa Partir",
-        "url": "https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk"
+        "name": "Manh\u00e3 de Sol",
+        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
       },
       "artists": [
         {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 174107,
-      "name": "Me Deixa Partir",
-      "url": "https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr"
+      "duration_ms": 181666,
+      "name": "Manh\u00e3 de Sol",
+      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
     },
     {
       "added_at": "2026-04-17 03:00:47",
@@ -739,22 +755,6 @@
       "duration_ms": 139354,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
-    },
-    {
-      "added_at": "2026-04-17 03:00:47",
-      "album": {
-        "name": "Manh\u00e3 de Sol",
-        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Manh\u00e3 de Sol",
-      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
     },
     {
       "added_at": "2026-04-17 03:00:47",

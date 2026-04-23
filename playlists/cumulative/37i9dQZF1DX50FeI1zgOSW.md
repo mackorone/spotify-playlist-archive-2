@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sharan Kumar
 
-768 songs - 1 day 19 hr 30 min
+769 songs - 1 day 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Azhagana Kadhali](https://open.spotify.com/track/2JFRYYfoUyvSt2Zkjft2jT) | [Vibin Kumar](https://open.spotify.com/artist/742EmbLi9qjhahiOJWDPEz) | [Azhagana Kadhali](https://open.spotify.com/album/6EUzqEp4WRA7rzZ3sGJrtI) | 4:06 | 2024-11-25 | 2025-01-18 |
 | [AZHAGE](https://open.spotify.com/track/3101JsKdWxdNu7BbQWJCIY) | [JANGGO](https://open.spotify.com/artist/2jrF96ZZdfAKEnMOnIraxn), [Yung Nav](https://open.spotify.com/artist/5YF9X28CKZHVSOZPHJa0p6) | [L'sX&O's](https://open.spotify.com/album/6IGEgi7J2H0IIntZYixh7w) | 2:35 | 2025-01-16 | 2025-03-06 |
 | [Azhagiya Puyale \(From "VM ORIGINALS \- Season 1"\)](https://open.spotify.com/track/0Cu8B23eCUGm1NTmCHsQPX) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm), [Harsha Vardhan](https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1) | [Azhagiya Puyale \(From "VM ORIGINALS \- Season 1"\)](https://open.spotify.com/album/1UtsxjH73zzbhkyet7WVpj) | 3:31 | 2024-03-17 | 2024-03-19 |
+| [Azhakiye](https://open.spotify.com/track/4K5lsr5a16XtOuoVxg6JeZ) | [Ajmal NS](https://open.spotify.com/artist/1DQSb4emLM9WhYlBlEPXLi), [Syan Zues](https://open.spotify.com/artist/0SIXk5dgJD5a6pYkjuEmsz), [Hamza Vattaparamba](https://open.spotify.com/artist/5NNlRgYTsZ65C063MTV4U8) | [Azhakiye](https://open.spotify.com/album/5kF6xNN9BEAuuLwAg2bn0w) | 3:02 | 2026-04-22 |  |
 | [Azhuvurene \(Story of a Bleeding Heart\)](https://open.spotify.com/track/2zLqnD7Cj6BCjIfsZDyXqV) | [Hari Haran B.Tech](https://open.spotify.com/artist/2egHlcbHbBTNT4SGDonzQB) | [Azhuvurene \(Story of a Bleeding Heart\)](https://open.spotify.com/album/0qN4EwXinA34YR4hygVhdK) | 3:10 | 2023-03-21 | 2023-08-08 |
 | [Baasha](https://open.spotify.com/track/6ihc2u4GmDXVeIizwL3jEw) | [sachu Madrasi](https://open.spotify.com/artist/5cTDZIXnv13h05pY6zTQjN), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU) | [Baasha](https://open.spotify.com/album/7m9TNeVmbF54r1oDUivMcp) | 2:16 | 2024-05-24 | 2024-12-06 |
 | [BABY](https://open.spotify.com/track/1eoGNzdH9PaRwcQzUpzg2N) | [Kishore krishnan](https://open.spotify.com/artist/7lCO7RX3b2d22J0OUMYRXj) | [BABY](https://open.spotify.com/album/3quP6KJkQmzJFgsqs90SQZ) | 4:01 | 2024-02-01 | 2024-04-19 |
@@ -367,7 +368,7 @@
 | [Maya](https://open.spotify.com/track/7kXUnNf7vZTyWHrnmcDpPl) | [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5), [Jo](https://open.spotify.com/artist/7rTuLzJBUcmKeqfqxuhv94) | [Maya](https://open.spotify.com/album/33kre6aCwOaOGcckKeQilT) | 3:18 | 2024-03-19 | 2024-09-20 |
 | [Mayangi Porene](https://open.spotify.com/track/6tFLx1VLB8pf8OHIo0w5su) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Mayangi Porene](https://open.spotify.com/album/4hVpItdDOGiUYXccGQsEWs) | 1:04 | 2023-05-02 | 2023-11-16 |
 | [Mayilu](https://open.spotify.com/track/7wFXImJlaYB7PUq8fHRrHB) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Mayilu](https://open.spotify.com/album/5ODNrjXo2I640UF0294PNP) | 3:41 | 2023-04-28 | 2023-06-24 |
-| [Mazhai Tuli](https://open.spotify.com/track/7wXjfaLndZ3VEeVGXLJgJH) | [Jayakumar Dhanasekar](https://open.spotify.com/artist/0PbhfVdGoisemMRtoMTBGg), [Senthil Kumar M](https://open.spotify.com/artist/3lfMImVY1tXrx1lOv9UBap) | [Mazhai Tuli](https://open.spotify.com/album/0FgBGIgRD4g5mF2jPLstAl) | 4:04 | 2026-01-09 |  |
+| [Mazhai Tuli](https://open.spotify.com/track/7wXjfaLndZ3VEeVGXLJgJH) | [Jayakumar Dhanasekar](https://open.spotify.com/artist/0PbhfVdGoisemMRtoMTBGg), [Senthil Kumar M](https://open.spotify.com/artist/3lfMImVY1tXrx1lOv9UBap) | [Mazhai Tuli](https://open.spotify.com/album/0FgBGIgRD4g5mF2jPLstAl) | 4:04 | 2026-01-09 | 2026-04-23 |
 | [Mazhayila](https://open.spotify.com/track/2Hb77FkwkkNzM3UUPKCOt9) | [$carce](https://open.spotify.com/artist/71LOuajUcL1fBqE6rA1nTc), [Ryan Prakash](https://open.spotify.com/artist/3bUkxt5tJamYjcG4qM0pBp), [NANDHITAXX](https://open.spotify.com/artist/4MLKYLMWvFnrCA8TvuNIO0) | [Mazhayila](https://open.spotify.com/album/55zweKakkL0wXdqg9nKeKg) | 2:33 | 2025-04-04 | 2025-05-07 |
 | [Mazhayin Thuli Neyye](https://open.spotify.com/track/439jzAgL2bsdW2S7syJTyC) | [Suriya Karthikeya Kumaran](https://open.spotify.com/artist/53T0PTMSmd3vQ1WCKPKlZR), [Suriya Prakash R](https://open.spotify.com/artist/5038oPgwyZF8A1vxGAQu1W) | [Mazhayin Thuli Neyye](https://open.spotify.com/album/1Ld3xQLtqjFfXDYzUFxdn3) | 2:11 | 2025-04-11 | 2025-06-12 |
 | [Medhuvaay Medhuvaay](https://open.spotify.com/track/1NXB8bGXRYy0CR0vXIZNHI) | [Rajeesh K Chandu](https://open.spotify.com/artist/6qbLwov3SHUSEiFf9qXzEH), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Medhuvaay Medhuvaay](https://open.spotify.com/album/3mnDNu1uXWqTOdmBDofzta) | 4:28 | 2024-06-13 | 2024-08-01 |

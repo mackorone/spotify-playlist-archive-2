@@ -2,7 +2,7 @@
 
 ### [RAP 91 Tamil](https://open.spotify.com/playlist/37i9dQZF1DXcZdJumtdMCZ)
 
-> Best of Tamil Hip\-Hop!<br/>Cover : Jaxk
+> Best of Tamil Hip\-Hop!<br/>Cover : Thamizh Aadhavan
 
 309 songs - 16 hr 24 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 2026 RADAR登場！持續發掘香港未來新聲！Cover: inablankat
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,777 likes - 38 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,780 likes - 38 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

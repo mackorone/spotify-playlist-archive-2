@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Cover: \u8352\u8c37\u7fd4\u5927",
-  "num_followers": 65136,
+  "num_followers": 65138,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -512,8 +512,8 @@
           "url": "https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 207089,
+      "name": "Why not",
       "url": "https://open.spotify.com/track/2rByECYP3ZmRvfxH7hlXsk"
     },
     {
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
-        "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092",
-        "url": "https://open.spotify.com/album/4BAoQY8BW3PTfjVUeH1Pfw"
-      },
-      "artists": [
-        {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
-        }
-      ],
-      "duration_ms": 277800,
-      "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092",
-      "url": "https://open.spotify.com/track/2iZFyqTZpXgh6mZFxvHtgS"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
         "name": "stay with me",
         "url": "https://open.spotify.com/album/4SWgA2dCYmu6shSGPmnh37"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 183636,
       "name": "stay with me",
       "url": "https://open.spotify.com/track/5jL2iJzLhS4PNsLtc4ltgw"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
+        "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092",
+        "url": "https://open.spotify.com/album/4BAoQY8BW3PTfjVUeH1Pfw"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "duration_ms": 277800,
+      "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092",
+      "url": "https://open.spotify.com/track/2iZFyqTZpXgh6mZFxvHtgS"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
-        "name": "\u767e\u65e5\u8349",
-        "url": "https://open.spotify.com/album/0U3TaCiy5hLI2urzi74CDG"
-      },
-      "artists": [
-        {
-          "name": "\u8309\u3072\u308b",
-          "url": "https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R"
-        }
-      ],
-      "duration_ms": 317812,
-      "name": "\u767e\u65e5\u8349",
-      "url": "https://open.spotify.com/track/2jPX3IZxD7y9gMKW7KhfAu"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
         "name": "New Walk",
         "url": "https://open.spotify.com/album/1NlVIqlpnza7IfBNMNMUmC"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 240398,
       "name": "New Walk",
       "url": "https://open.spotify.com/track/4QQZw019EXzf6ZDi4ytD5Z"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
+        "name": "\u767e\u65e5\u8349",
+        "url": "https://open.spotify.com/album/0U3TaCiy5hLI2urzi74CDG"
+      },
+      "artists": [
+        {
+          "name": "\u8309\u3072\u308b",
+          "url": "https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R"
+        }
+      ],
+      "duration_ms": 317812,
+      "name": "\u767e\u65e5\u8349",
+      "url": "https://open.spotify.com/track/2jPX3IZxD7y9gMKW7KhfAu"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
-        "name": "\u9752\u8449",
-        "url": "https://open.spotify.com/album/5BTWDCyyD1K4TtuzTPohGf"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 232488,
-      "name": "\u9752\u8449",
-      "url": "https://open.spotify.com/track/5UJzCg8xaEpC59l3agBzX7"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
         "name": "\u30ac\u30a4\u30a2",
         "url": "https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 240000,
       "name": "\u66d6\u6627\u306a\u6307\u5207\u308a",
       "url": "https://open.spotify.com/track/0NZmVUHSk4JEC2oaxa2ibz"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
+        "name": "\u9752\u8449",
+        "url": "https://open.spotify.com/album/5BTWDCyyD1K4TtuzTPohGf"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 232488,
+      "name": "\u9752\u8449",
+      "url": "https://open.spotify.com/track/5UJzCg8xaEpC59l3agBzX7"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
-        "name": "\u3072\u304b\u308a\u306e\u3046\u305f - Hikari no uta",
-        "url": "https://open.spotify.com/album/3Ud4G6KPEMCYb0RvoSLAMf"
-      },
-      "artists": [
-        {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
-        }
-      ],
-      "duration_ms": 232949,
-      "name": "\u3072\u304b\u308a\u306e\u3046\u305f - Hikari no uta",
-      "url": "https://open.spotify.com/track/6ik9HIJOqh1ygP96ud9EtL"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
         "name": "\u30ac\u30a4\u30a2",
         "url": "https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 268487,
       "name": "\u30ac\u30a4\u30a2",
       "url": "https://open.spotify.com/track/7JyMBBXAn6guCGmDwJdn6y"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
+        "name": "\u3072\u304b\u308a\u306e\u3046\u305f - Hikari no uta",
+        "url": "https://open.spotify.com/album/3Ud4G6KPEMCYb0RvoSLAMf"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 232949,
+      "name": "\u3072\u304b\u308a\u306e\u3046\u305f - Hikari no uta",
+      "url": "https://open.spotify.com/track/6ik9HIJOqh1ygP96ud9EtL"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
-        "name": "\u3067\u304d\u308b\u3060\u3051/\u53cb\u9054\u304c\u3044\u308b",
-        "url": "https://open.spotify.com/album/2iccswYJOuTlPVR7KKUHMi"
+        "name": "Hangover",
+        "url": "https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2"
       },
       "artists": [
         {
-          "name": "\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce",
-          "url": "https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB"
+          "name": "REJAY",
+          "url": "https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe"
+        },
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
         }
       ],
-      "duration_ms": 258253,
-      "name": "\u53cb\u9054\u304c\u3044\u308b",
-      "url": "https://open.spotify.com/track/5ovMnbYBgHszF21lHPNhBv"
+      "duration_ms": 206291,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -1275,6 +1279,22 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
+        "name": "\u3067\u304d\u308b\u3060\u3051/\u53cb\u9054\u304c\u3044\u308b",
+        "url": "https://open.spotify.com/album/2iccswYJOuTlPVR7KKUHMi"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce",
+          "url": "https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB"
+        }
+      ],
+      "duration_ms": 258253,
+      "name": "\u53cb\u9054\u304c\u3044\u308b",
+      "url": "https://open.spotify.com/track/5ovMnbYBgHszF21lHPNhBv"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
         "name": "\u30ea\u30d9\u30e9",
         "url": "https://open.spotify.com/album/3RuyvYAJQpgF1qR7R3ofzC"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 148679,
       "name": "\u30ea\u30d9\u30e9",
       "url": "https://open.spotify.com/track/6kUge4VjMwcYOLlSGPQAAP"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
-        "name": "Hangover",
-        "url": "https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2"
-      },
-      "artists": [
-        {
-          "name": "REJAY",
-          "url": "https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe"
-        },
-        {
-          "name": "Andr",
-          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
-        }
-      ],
-      "duration_ms": 206291,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
-        "name": "\u56db\u6708\u306e\u9752",
-        "url": "https://open.spotify.com/album/5kcxD7En8gvAJFOYfjgAyB"
-      },
-      "artists": [
-        {
-          "name": "\u3082\u3055\u3092\u3002",
-          "url": "https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "\u56db\u6708\u306e\u9752",
-      "url": "https://open.spotify.com/track/5AQCLvWlQYitIrSMtRvEad"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
         "name": "blue hour",
         "url": "https://open.spotify.com/album/1rUvBCJ8zqcXa2S2QbYfHN"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 183679,
       "name": "blue hour",
       "url": "https://open.spotify.com/track/2VezAeFgaa9IFRChV9wEPf"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
+        "name": "\u56db\u6708\u306e\u9752",
+        "url": "https://open.spotify.com/album/5kcxD7En8gvAJFOYfjgAyB"
+      },
+      "artists": [
+        {
+          "name": "\u3082\u3055\u3092\u3002",
+          "url": "https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "\u56db\u6708\u306e\u9752",
+      "url": "https://open.spotify.com/track/5AQCLvWlQYitIrSMtRvEad"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -1475,8 +1475,8 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
-        "name": "RUST",
-        "url": "https://open.spotify.com/album/5mWy40lILGCjSt2XAvszWP"
+        "name": "From Miseducation",
+        "url": "https://open.spotify.com/album/3avKjwBtFn7WjTfZd7lZlx"
       },
       "artists": [
         {
@@ -1484,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH"
         }
       ],
-      "duration_ms": 197068,
-      "name": "RUST",
-      "url": "https://open.spotify.com/track/3eWMVr8Z0lyRr6iBQpeRrc"
+      "duration_ms": 184567,
+      "name": "\u30e1\u30de\u30a4",
+      "url": "https://open.spotify.com/track/2WCn9HrGDwcEm0bU0xgcrt"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/2G6L8gwcR9wKUFHMGt4MUY"
+      },
+      "artists": [
+        {
+          "name": "RLOEVO",
+          "url": "https://open.spotify.com/artist/3dz08OK3pJYraaLrwrVWg0"
+        }
+      ],
+      "duration_ms": 213617,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/6WyqwvGXdSdOipKBESSDKI"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
         "name": "Navy",
         "url": "https://open.spotify.com/album/2Zi7RpcLBSXHqEkjUe2nbN"
       },
@@ -1535,6 +1551,22 @@
       "duration_ms": 177190,
       "name": "Navy",
       "url": "https://open.spotify.com/track/6CqlTwtPM4yK2GpdXtEzvB"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
+        "name": "RUST",
+        "url": "https://open.spotify.com/album/5mWy40lILGCjSt2XAvszWP"
+      },
+      "artists": [
+        {
+          "name": "KeNN",
+          "url": "https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH"
+        }
+      ],
+      "duration_ms": 197068,
+      "name": "RUST",
+      "url": "https://open.spotify.com/track/3eWMVr8Z0lyRr6iBQpeRrc"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -1555,38 +1587,6 @@
       "duration_ms": 206950,
       "name": "Coffee Break feat. \u95a2\u53e3\u30b7\u30f3\u30b4",
       "url": "https://open.spotify.com/track/1LJ5imdA2VunyCA3CfpY5u"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
-        "name": "From Miseducation",
-        "url": "https://open.spotify.com/album/3avKjwBtFn7WjTfZd7lZlx"
-      },
-      "artists": [
-        {
-          "name": "KeNN",
-          "url": "https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH"
-        }
-      ],
-      "duration_ms": 184567,
-      "name": "\u30e1\u30de\u30a4",
-      "url": "https://open.spotify.com/track/2WCn9HrGDwcEm0bU0xgcrt"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/2G6L8gwcR9wKUFHMGt4MUY"
-      },
-      "artists": [
-        {
-          "name": "RLOEVO",
-          "url": "https://open.spotify.com/artist/3dz08OK3pJYraaLrwrVWg0"
-        }
-      ],
-      "duration_ms": 213617,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/6WyqwvGXdSdOipKBESSDKI"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -1623,22 +1623,18 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
-        "name": "Rondo",
-        "url": "https://open.spotify.com/album/6SS1xn4JNWWU5Oq9eSHE3Q"
+        "name": "sunrise",
+        "url": "https://open.spotify.com/album/5t7qKSYFumwa6D1b5gkqde"
       },
       "artists": [
         {
-          "name": "Foi",
-          "url": "https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB"
-        },
-        {
-          "name": "Young Kee",
-          "url": "https://open.spotify.com/artist/4axCzBPNlQBLmcmlb6jt9a"
+          "name": "\u91ce\u7530\u611b\u5b9f",
+          "url": "https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7"
         }
       ],
-      "duration_ms": 260250,
-      "name": "Last song - feat.Young Kee",
-      "url": "https://open.spotify.com/track/5JwtniwTAHi1bf9VMvL5ZM"
+      "duration_ms": 270405,
+      "name": "sunrise",
+      "url": "https://open.spotify.com/track/5wEswwGWtlGcmdn1OMRAAR"
     }
   ],
   "unique_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",

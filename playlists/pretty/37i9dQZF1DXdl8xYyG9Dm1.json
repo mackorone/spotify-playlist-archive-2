@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  Kwesi Arthur",
-  "num_followers": 189238,
+  "num_followers": 189262,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,26 @@
     {
       "added_at": "2026-04-20 10:58:22",
       "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         },
         {
           "name": "ODUMODUBLVCK",
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 157614,
-      "name": "WAR MACHINE",
-      "url": "https://open.spotify.com/track/4tw5Za3CCg7QpFj3sGDGww"
+      "duration_ms": 138614,
+      "name": "Al-Jannah",
+      "url": "https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW"
     },
     {
       "added_at": "2026-04-20 10:58:22",
@@ -303,26 +307,22 @@
     {
       "added_at": "2026-04-20 10:58:22",
       "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
           "name": "ODUMODUBLVCK",
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 138614,
-      "name": "Al-Jannah",
-      "url": "https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW"
+      "duration_ms": 157614,
+      "name": "WAR MACHINE",
+      "url": "https://open.spotify.com/track/4tw5Za3CCg7QpFj3sGDGww"
     },
     {
       "added_at": "2026-04-20 10:58:22",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-04-20 10:58:22",
       "album": {
-        "name": "No Typo",
-        "url": "https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 103783,
-      "name": "No Typo",
-      "url": "https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz"
-    },
-    {
-      "added_at": "2026-04-20 10:58:22",
-      "album": {
         "name": "DREAMS II",
         "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 237647,
       "name": "DREAMS II",
       "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
+    },
+    {
+      "added_at": "2026-04-20 10:58:22",
+      "album": {
+        "name": "No Typo",
+        "url": "https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 103783,
+      "name": "No Typo",
+      "url": "https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz"
     },
     {
       "added_at": "2026-04-20 10:58:22",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-04-20 10:58:22",
       "album": {
+        "name": "BEASTMODE VOL1",
+        "url": "https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "I DONT CARE",
+      "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
+    },
+    {
+      "added_at": "2026-04-20 10:58:22",
+      "album": {
         "name": "BABA",
         "url": "https://open.spotify.com/album/4j0yrlnoFKbyj3Duw4I1eD"
       },
@@ -1319,38 +1335,22 @@
     {
       "added_at": "2026-04-20 10:58:22",
       "album": {
-        "name": "Contraband / Diamonds",
-        "url": "https://open.spotify.com/album/50i6slAqu47pjV99lUJ6Nl"
+        "name": "Abebrese",
+        "url": "https://open.spotify.com/album/5ZdHKnvxVASTL9RQ82QluX"
       },
       "artists": [
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "Ko-Jo Cue",
+          "url": "https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M"
         },
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/7j84rJTwTVN6LcUlqvpQ2Q"
-    },
-    {
-      "added_at": "2026-04-20 10:58:22",
-      "album": {
-        "name": "I No Be God",
-        "url": "https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "I No Be God",
-      "url": "https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD"
+      "duration_ms": 260963,
+      "name": "Abebrese",
+      "url": "https://open.spotify.com/track/6wXa8h2vC297a8ks2Ta9Gu"
     },
     {
       "added_at": "2026-04-20 10:58:22",
@@ -1371,22 +1371,18 @@
     {
       "added_at": "2026-04-20 10:58:22",
       "album": {
-        "name": "Abebrese",
-        "url": "https://open.spotify.com/album/5ZdHKnvxVASTL9RQ82QluX"
+        "name": "I No Be God",
+        "url": "https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw"
       },
       "artists": [
         {
-          "name": "Ko-Jo Cue",
-          "url": "https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M"
-        },
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         }
       ],
-      "duration_ms": 260963,
-      "name": "Abebrese",
-      "url": "https://open.spotify.com/track/6wXa8h2vC297a8ks2Ta9Gu"
+      "duration_ms": 138666,
+      "name": "I No Be God",
+      "url": "https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD"
     }
   ],
   "unique_name": "Afro Bars ",

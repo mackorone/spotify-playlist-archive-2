@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE3gVjyXci4.md) - [plain]
 
 > there's gonna be one less lonely girl
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,033 likes - 55 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,445 likes - 55 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

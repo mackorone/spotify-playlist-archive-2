@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover:  Kwesi Arthur
 
-412 songs - 21 hr 15 min
+413 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [DELILAH](https://open.spotify.com/track/6YY2AIGdI5rD2auPItEPfc) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Bar 7](https://open.spotify.com/album/7crJEGssIO4bqz8blqLx6G) | 3:00 | 2024-07-26 | 2024-10-19 |
 | [Deposit](https://open.spotify.com/track/4HtPflwFZLKZrP3sUgWhuw) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | ["EHH Baby" The Big Bang Theory](https://open.spotify.com/album/06obGxxDKWf1Y7KqSILWIo) | 2:08 | 2022-05-12 | 2022-06-10 |
 | [Depression \(feat\. Holy Ten\)](https://open.spotify.com/track/7fikIBIhVSFmBE3ygAXpY5) | [Poptain](https://open.spotify.com/artist/2TXijGGYZ8JnRklS2oFM1B), [Holy Ten](https://open.spotify.com/artist/16b7bAZHyztoAwENn1CRiE) | [Depression \(feat\. Holy Ten\)](https://open.spotify.com/album/0CfrY07EevI7DikmCWQ3Fe) | 4:37 | 2024-08-02 | 2024-10-26 |
-| [Diamonds](https://open.spotify.com/track/7j84rJTwTVN6LcUlqvpQ2Q) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Contraband / Diamonds](https://open.spotify.com/album/50i6slAqu47pjV99lUJ6Nl) | 2:27 | 2025-11-14 |  |
+| [Diamonds](https://open.spotify.com/track/7j84rJTwTVN6LcUlqvpQ2Q) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Contraband / Diamonds](https://open.spotify.com/album/50i6slAqu47pjV99lUJ6Nl) | 2:27 | 2025-11-14 | 2026-04-23 |
 | [DIFFERENT PATTERN](https://open.spotify.com/track/7fLCROqSZ6vqVAbuYZnjVT) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [DIFFERENT PATTERN](https://open.spotify.com/album/4xGQkrkVUNM0X2tqjUdKze) | 1:50 | 2025-03-07 | 2025-03-21 |
 | [DND](https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 2:46 | 2024-04-19 | 2026-03-20 |
 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 | 2023-11-10 | 2024-04-19 |
@@ -184,6 +184,7 @@
 | [Hustle](https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Hustle](https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH) | 3:09 | 2022-02-24 | 2024-07-27 |
 | [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe) | 3:09 | 2026-03-13 |  |
 | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ) | 3:15 | 2025-06-06 |  |
+| [I DONT CARE](https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [BEASTMODE VOL1](https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6) | 2:58 | 2026-04-20 |  |
 | [I No Be God](https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [I No Be God](https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw) | 2:18 | 2025-03-21 |  |
 | [Idansk1 tw0](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:09 | 2025-11-28 |  |
 | [Impossible](https://open.spotify.com/track/6ILVxE20PUooTyoSK0mHat) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Aeph](https://open.spotify.com/artist/0lzSrFGE3CoEg8dtn1PS6i), [KoKo ](https://open.spotify.com/artist/1A4NyrcivdiIQ0INQm6ICx) | [Impossible](https://open.spotify.com/album/6OMZajVz7Gr0mv737s2CVK) | 2:58 | 2022-03-24 | 2022-04-22 |

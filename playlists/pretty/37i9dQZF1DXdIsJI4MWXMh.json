@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 80632,
+  "num_followers": 80636,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
-      },
-      "artists": [
-        {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
-        }
-      ],
-      "duration_ms": 188577,
-      "name": "Mi Complice",
-      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "El Sol No Regresa",
         "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 174474,
       "name": "El Sol No Regresa",
       "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 188577,
+      "name": "Mi Complice",
+      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
+        "name": "Tornado Ranchero",
+        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
+      },
+      "artists": [
+        {
+          "name": "Tornado Ranchero",
+          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
         "name": "Cumbias",
         "url": "https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 235994,
       "name": "El Chorito de Violeta",
       "url": "https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "Tornado Ranchero",
-        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
-      },
-      "artists": [
-        {
-          "name": "Tornado Ranchero",
-          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
-        }
-      ],
-      "duration_ms": 267859,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Me Opongo",
-        "url": "https://open.spotify.com/album/68sJRe35z5Zc6tTJpabi4d"
-      },
-      "artists": [
-        {
-          "name": "J Matt",
-          "url": "https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96"
-        }
-      ],
-      "duration_ms": 177711,
-      "name": "Me Opongo",
-      "url": "https://open.spotify.com/track/2zpxH79G1hf1XcbT5v4Jd7"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "El Cocho",
         "url": "https://open.spotify.com/album/6YQ0XxcdYNnxGqg303Rebl"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 195353,
       "name": "El Cocho",
       "url": "https://open.spotify.com/track/1GHIKA3KDtjCJ8zzaK1QMk"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Me Opongo",
+        "url": "https://open.spotify.com/album/68sJRe35z5Zc6tTJpabi4d"
+      },
+      "artists": [
+        {
+          "name": "J Matt",
+          "url": "https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96"
+        }
+      ],
+      "duration_ms": 177711,
+      "name": "Me Opongo",
+      "url": "https://open.spotify.com/track/2zpxH79G1hf1XcbT5v4Jd7"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "El Mu\u00f1eco",
-        "url": "https://open.spotify.com/album/6Z07ylD7FrOyaptOmnCvns"
-      },
-      "artists": [
-        {
-          "name": "Las Patronas de Chile",
-          "url": "https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk"
-        }
-      ],
-      "duration_ms": 238064,
-      "name": "El Mu\u00f1eco",
-      "url": "https://open.spotify.com/track/6h6li7ucK8Te3dBRRbLQpW"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Vivo en Tinieblas",
         "url": "https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 226727,
       "name": "Vivo en Tinieblas",
       "url": "https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "El Mu\u00f1eco",
+        "url": "https://open.spotify.com/album/6Z07ylD7FrOyaptOmnCvns"
+      },
+      "artists": [
+        {
+          "name": "Las Patronas de Chile",
+          "url": "https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk"
+        }
+      ],
+      "duration_ms": 238064,
+      "name": "El Mu\u00f1eco",
+      "url": "https://open.spotify.com/track/6h6li7ucK8Te3dBRRbLQpW"
     },
     {
       "added_at": "2026-02-19 20:52:53",

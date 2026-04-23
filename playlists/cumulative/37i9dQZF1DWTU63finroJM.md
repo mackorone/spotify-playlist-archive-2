@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: dia
 
-2,352 songs - 5 day 6 hr 51 min
+2,353 songs - 5 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2065,6 +2065,7 @@
 | [With Love, Your Clementine](https://open.spotify.com/track/1jvJDy007RAaWV73Pe3pIi) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [With Love, Your Clementine](https://open.spotify.com/album/6hw39JZJJT8evF2lUxC2Ko) | 2:55 | 2025-02-14 | 2025-09-05 |
 | [Without Me](https://open.spotify.com/track/4fp4bybobrFHSjpG39jG64) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Without Me](https://open.spotify.com/album/0m7SYiB2n6V3FNZumxHSwW) | 3:39 | 2026-03-18 | 2026-04-18 |
 | [WITHOUT YOU](https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:41 | 2025-09-09 | 2025-10-02 |
+| [Woman I Am](https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Woman I Am](https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70) | 3:31 | 2026-04-22 |  |
 | [Woman Now](https://open.spotify.com/track/1ge9hmkt5PVOxnmIECJLYJ) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Woman Now](https://open.spotify.com/album/60b4zXrqhviQI1QprjwWVe) | 2:38 | 2024-12-13 | 2025-02-23 |
 | [Wonder \(903艾爾絲懷疑仙境主題曲\)](https://open.spotify.com/track/6FlGnCo8PvCnIWfGoaLLn7) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [Wonder \(903艾爾絲懷疑仙境主題曲\)](https://open.spotify.com/album/35OO6oauvdOfXuby4YxcmB) | 1:49 | 2022-04-07 | 2022-08-02 |
 | [Wonderful](https://open.spotify.com/track/7x4RmtZxcyfcpNM0Xmn1IP) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Wonderful](https://open.spotify.com/album/4KQItagk7zPti70xlk71UX) | 3:27 | 2022-02-10 | 2022-02-25 |

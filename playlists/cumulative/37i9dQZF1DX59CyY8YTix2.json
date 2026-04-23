@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 259903,
       "name": "bestie",
       "url": "https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn"
@@ -2262,6 +2262,24 @@
       "duration_ms": 219939,
       "name": "BMO",
       "url": "https://open.spotify.com/track/4Hc8BOyRbkQ3g9uZjsRgcM"
+    },
+    {
+      "album": {
+        "name": "GLHF",
+        "url": "https://open.spotify.com/album/5UosEfWZJZ7ol7WLerlTNq"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215039,
+      "name": "Bouquet",
+      "url": "https://open.spotify.com/track/6AEiVvowy0FhIACwS9BROM"
     },
     {
       "album": {

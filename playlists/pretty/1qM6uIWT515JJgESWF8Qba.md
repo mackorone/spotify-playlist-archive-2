@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 413 likes - 83 songs - 5 hr 18 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 414 likes - 84 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,5 +91,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 81 | [Pride](https://open.spotify.com/track/5fTYOxtkQXksKM7Pbj6SQy) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 2:32 |
 | 82 | [Crime Doesn't Pay](https://open.spotify.com/track/3FK8CfhykxQBohpPrZPc7y) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Borderline](https://open.spotify.com/album/5naCmg7cIFEsG4tuHeaKll) | 4:20 |
 | 83 | [Fragile Prism](https://open.spotify.com/track/4Kc2BR20xmeJpN2FQuClKp) | [Aurora Rising](https://open.spotify.com/artist/5ynYRfVl7ZsgRkFBhNOT9f) | [Fragile Prism](https://open.spotify.com/album/1kTkMQGBdJIakc60LY1PBK) | 3:23 |
+| 84 | [Fantasia](https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli) | [Astratto](https://open.spotify.com/artist/1kQT4JN2XDrVdT4vubHCjw) | [Fantasia](https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf) | 6:10 |
 
-Snapshot ID: `AAABhAeIu8s6bt0R5wxZGcBQA9i/QZLl`
+Snapshot ID: `AAABhco1LwZjjWY14GN77auRoaRFMOmZ`

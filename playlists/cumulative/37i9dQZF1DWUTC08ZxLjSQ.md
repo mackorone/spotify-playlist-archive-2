@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Dehmez\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Salim Webz\. Artwork: Isu Kim
 
-513 songs - 1 day 2 hr 54 min
+514 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Marhaba Ahlen](https://open.spotify.com/track/2yRJ0K97TCAmWDSMRzMVcc) | [Kazdoura](https://open.spotify.com/artist/7zm6lF98wKwyohB2zFetum) | [Marhaba Ahlen](https://open.spotify.com/album/1e5Qo5rKlui48ThX50Y1qK) | 3:04 | 2024-10-01 | 2025-02-18 |
 | [Mashour](https://open.spotify.com/track/3SxuYBLjoTihfngUtyERD1) | [Raja Otaqui](https://open.spotify.com/artist/4MD2oUZ33Z7NfnYPf0c7EL) | [Mashour](https://open.spotify.com/album/4U11yfCf0psrGtE5sxRhNH) | 3:27 | 2023-09-12 | 2024-05-15 |
 | [MASHY BE3LAG](https://open.spotify.com/track/4ZFtmpUX4tsDEnz1DmsqyA) | [KHALED ROSSIA](https://open.spotify.com/artist/6LxiAUw5qfrr2MiUNlHpO9) | [MASHY BE3LAG](https://open.spotify.com/album/1U9ComcWbP0kr8BNY24Emd) | 2:15 | 2024-11-26 | 2025-07-16 |
+| [Mashy Fe Tare2](https://open.spotify.com/track/50Tkn3IN2WVVTCnj0Imcy9) | [Bloodymarry](https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40), [ZozRealStar](https://open.spotify.com/artist/24qBUbjR4lhdpmEDjEEL9b) | [DAH A2AL 7AGA 3ANDI](https://open.spotify.com/album/2uv1BRBbqMOmsyFSEImkGb) | 3:25 | 2026-04-22 |  |
 | [Masquerading Crowd](https://open.spotify.com/track/0zaMCsXxqGXrz1quaVDBtP) | [Skeleton Crowd](https://open.spotify.com/artist/35q8gwzaxeJGQQImnaF0Fo) | [Molly Crapton](https://open.spotify.com/album/2FiCEJT0xGOZJn5s2I00KK) | 3:50 | 2022-09-20 | 2022-11-02 |
 | [Mat7awlish](https://open.spotify.com/track/5K6GvXAjGyFR7Nthh8d78s) | [TaffyRaps](https://open.spotify.com/artist/2Bamg8sORR59W8xzcIyv3n) | [Mat7awlish](https://open.spotify.com/album/5W5SlYXCpIlhPykPUbT1aY) | 2:51 | 2024-08-13 | 2024-11-07 |
 | [matgily tany ماتجيلي تاني](https://open.spotify.com/track/5ZBL2z5hjFtaAsE2hZFnAs) | [Pink Seasalt](https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D) | [matgily tany ماتجيلي تاني](https://open.spotify.com/album/4HZze1w2BihEUjCGypObpm) | 3:37 | 2025-12-17 |  |
@@ -481,7 +482,7 @@
 | [أبغى السلامة](https://open.spotify.com/track/5KL6RhFyuc3nyFXdj0GoBm) | [Dehmez](https://open.spotify.com/artist/1KsCygiMH1XK9ePJpqVUC1) | [أبغى السلامة](https://open.spotify.com/album/3w33AoSnXBnmEc2rnaaPmS) | 2:32 | 2026-04-01 |  |
 | [ادي الايام](https://open.spotify.com/track/0LfqSLdayU8s012yBYILY5) | [Mohamed Raies](https://open.spotify.com/artist/1wbAAYYCMnTszCcwkQiHCQ) | [ادي الايام](https://open.spotify.com/album/6otvAKsCYxckhbe3bHJWpa) | 3:19 | 2025-06-22 | 2025-06-25 |
 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 | 2024-01-16 | 2024-06-27 |
-| [الساقي](https://open.spotify.com/track/0CECKW3SUi0sjpJIUWvOyO) | [Bloodymarry](https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40) | [درب ١٧](https://open.spotify.com/album/2ZEfwK5SBnuRBXZcnbxgKX) | 5:49 | 2026-04-01 |  |
+| [الساقي](https://open.spotify.com/track/0CECKW3SUi0sjpJIUWvOyO) | [Bloodymarry](https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40) | [درب ١٧](https://open.spotify.com/album/2ZEfwK5SBnuRBXZcnbxgKX) | 5:49 | 2026-04-01 | 2026-04-23 |
 | [القناع \(THE MASK\)](https://open.spotify.com/track/5mMP2k6GgsnRchvZM0jfDj) | [Al9ine](https://open.spotify.com/artist/0La66xyJsTyYMmXvh4ZW2o) | [القناع \(THE MASK\)](https://open.spotify.com/album/40H4BmmB4isI4Ow5FfEA02) | 2:25 | 2025-08-06 | 2025-12-18 |
 | [الورود](https://open.spotify.com/track/0yLiUX7xOAqQ4qOaE5zwyV) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [الورود](https://open.spotify.com/album/5lHlJTXmNbWAnk8D9kqDgO) | 2:22 | 2023-03-01 | 2023-03-14 |
 | [الورود](https://open.spotify.com/track/4stva5wFGdHPxaWPEk1zHS) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [ELWOROUD](https://open.spotify.com/album/0i3CGbhBMbx72GSv4vLZnR) | 2:22 | 2023-03-07 | 2023-03-15 |

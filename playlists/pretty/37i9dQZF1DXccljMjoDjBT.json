@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 358922,
+  "num_followers": 358981,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "Angelia",
-      "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Law and Order",
         "url": "https://open.spotify.com/album/38UhlwlFmxKBRVCUdaY21m"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 236533,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/04ijIUVdT4Qy1SBWFUPROY"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "Angelia",
+      "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "High Adventure",
-        "url": "https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA"
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
       },
       "artists": [
         {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
         }
       ],
-      "duration_ms": 322333,
-      "name": "Heart to Heart",
-      "url": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH"
+      "duration_ms": 235333,
+      "name": "I Gotta Try",
+      "url": "https://open.spotify.com/track/0qnfAVtzFPY0pOGYpTkZeY"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+        "name": "High Adventure",
+        "url": "https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA"
       },
       "artists": [
         {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
         }
       ],
-      "duration_ms": 235333,
-      "name": "I Gotta Try",
-      "url": "https://open.spotify.com/track/0qnfAVtzFPY0pOGYpTkZeY"
+      "duration_ms": 322333,
+      "name": "Heart to Heart",
+      "url": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Airplay",
-        "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
-      },
-      "artists": [
-        {
-          "name": "Airplay",
-          "url": "https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw"
-        }
-      ],
-      "duration_ms": 226306,
-      "name": "Should We Carry On",
-      "url": "https://open.spotify.com/track/73yhx3X96uO3jpNlAQLZwA"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Break Of Dawn",
         "url": "https://open.spotify.com/album/3Zr0QdJlpHUstVVy3yvBdW"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 227773,
       "name": "Always",
       "url": "https://open.spotify.com/track/4ko4WxOdiaVEJexWRb53zZ"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Airplay",
+        "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
+      },
+      "artists": [
+        {
+          "name": "Airplay",
+          "url": "https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw"
+        }
+      ],
+      "duration_ms": 226306,
+      "name": "Should We Carry On",
+      "url": "https://open.spotify.com/track/73yhx3X96uO3jpNlAQLZwA"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Airplay",
-        "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
-      },
-      "artists": [
-        {
-          "name": "Airplay",
-          "url": "https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw"
-        }
-      ],
-      "duration_ms": 241586,
-      "name": "It Will Be Alright",
-      "url": "https://open.spotify.com/track/2fbQVHBdsNLD6ol4KsUHPM"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Once In a Lifetime",
         "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 272933,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/6icn5WumyUJN7o8RBz0RQU"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Airplay",
+        "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
+      },
+      "artists": [
+        {
+          "name": "Airplay",
+          "url": "https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw"
+        }
+      ],
+      "duration_ms": 241586,
+      "name": "It Will Be Alright",
+      "url": "https://open.spotify.com/track/2fbQVHBdsNLD6ol4KsUHPM"
     },
     {
       "added_at": "2023-03-30 14:38:10",

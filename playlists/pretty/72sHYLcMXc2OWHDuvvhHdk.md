@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 567 likes - 2,531 songs - 6 day 3 hr 53 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 567 likes - 2,541 songs - 6 day 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2539,5 +2539,15 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2529 | [Heart vs Mind](https://open.spotify.com/track/0KwOLyGgjvaTeohm5f2flL) | [Soulshocked](https://open.spotify.com/artist/3gzOzMZbjidNTYezPYXVEr) | [Heart vs Mind](https://open.spotify.com/album/0WhHdeI172j08SWRkCU2Lh) | 3:28 |
 | 2530 | [Let Me Be with You](https://open.spotify.com/track/6DYRv1LJmhTkrTu5NfFbC2) | [Marios Papalexis](https://open.spotify.com/artist/4LVxkX59xWHTrIhwI78A6K) | [Love Paths \(Remastered\)](https://open.spotify.com/album/3NuIHFKN8mPdjOgKCOSINd) | 4:13 |
 | 2531 | [Fuori Piove](https://open.spotify.com/track/0ZZyHllCfoOvI5C8M1cX8J) | [Matias Dal Pos](https://open.spotify.com/artist/6fJeuv8BJLbh6IkXdcsnfI) | [Tra I sogni che non ricordo](https://open.spotify.com/album/2fVHVSqTovdk1xmN19N87j) | 3:44 |
+| 2532 | [Modal Steps](https://open.spotify.com/track/6PKV6RAAGQkW9FmkR7iHNt) | [Loris Donatelli](https://open.spotify.com/artist/2CEqeXv2Re2xZDHyLPTuRJ) | [Blue Taxi](https://open.spotify.com/album/2ukA8v6BZaK8jhBYzbYJDo) | 4:14 |
+| 2533 | [Giants Will Fall](https://open.spotify.com/track/7eTnHvIqQXm2qHUwzjv7TQ) | [Flooyd Potter](https://open.spotify.com/artist/2BxlD5qDvOgJlW6lZyWD8v) | [Giants Will Fall](https://open.spotify.com/album/7ixa30GJHnTkno6HtCGrzX) | 3:48 |
+| 2534 | [Guitar Talk](https://open.spotify.com/track/7mbal2GFI0GvBTchDj61bO) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [Guitar Talk](https://open.spotify.com/album/5UhF5qbdtztphs2f6wqpOa) | 2:48 |
+| 2535 | [Out In The Night](https://open.spotify.com/track/4q7D915xYwv56WBSF4B8OS) | [Spaceship Encounter](https://open.spotify.com/artist/298Cq9CCeZOLLSOd6lH5F3) | [Out In The Night](https://open.spotify.com/album/2mRJPROGypOV0Bjq7Ia0mu) | 3:15 |
+| 2536 | [Prise au piège](https://open.spotify.com/track/3llWxmfiYq8NmaKFIxEUZm) | [Kyara](https://open.spotify.com/artist/4WVmhdZJe3NHn0QDxkW3Ff) | [Prise au piège](https://open.spotify.com/album/48ZT7Nc6uJfzMiI65Oa8f0) | 3:55 |
+| 2537 | [I Am Not a Robot](https://open.spotify.com/track/4WcQyKvtLslvIf9mbEolCP) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [I Am Not a Robot](https://open.spotify.com/album/7ngJJBlk9nVRAvi8TLm49e) | 3:26 |
+| 2538 | [People Pleaser](https://open.spotify.com/track/5sDz1w92Wbi5cCpyZfo7hb) | [JianHere](https://open.spotify.com/artist/5HYA4GxRfxcT8hlzGOA6uY) | [People Pleaser](https://open.spotify.com/album/1c8vVUNLxo736AbSz4bara) | 3:00 |
+| 2539 | [Runaway](https://open.spotify.com/track/6fVrdZhPQDPFX78HqcUu24) | [Nate the Great](https://open.spotify.com/artist/4EHovbr428q6Tnj15gQWu8) | [Runaway](https://open.spotify.com/album/7loqwEQe6W5HYObon40D0H) | 2:40 |
+| 2540 | [Sildim Her Şeyi](https://open.spotify.com/track/3xeNOyy2aO1GUkDn87fr2O) | [Kağan](https://open.spotify.com/artist/73EL679o3oxZEmAES587Yn) | [Sildim Her Şeyi](https://open.spotify.com/album/1hkdWp1vcrhmNWzcbNUh9t) | 3:13 |
+| 2541 | [Ticket Home](https://open.spotify.com/track/565heuQCrqPr9PE4ECfyLS) | [The Waterforge](https://open.spotify.com/artist/5Za10Ihv4sUll8jCqvuyHv) | [Ticket Home](https://open.spotify.com/album/1gOeXbrfeL6dNyPG7aihgn) | 4:20 |
 
-Snapshot ID: `AAAKfOC5av2f/Uo5FpL8SbrQo3MGG01j`
+Snapshot ID: `AAAKhl3JlIbfPTfUlCuBfF4xDy57p02n`

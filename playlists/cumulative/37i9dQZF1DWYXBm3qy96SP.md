@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: NINE INCH NAILS
 
-1,984 songs - 4 day 19 hr 4 min
+1,985 songs - 4 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 | 2025-10-09 | 2025-12-09 |
 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-11 | 2024-04-20 |
 | [Beautiful Sky \(feat\. Jim James\)](https://open.spotify.com/track/7zlU2NsGW5lILMxjTwJrpm) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Little Bit of Sun](https://open.spotify.com/album/2IIZUA4Ey5voQpvhhrOw71) | 4:57 | 2023-11-02 | 2023-11-10 |
-| [Bedroom Posters \(feat\. Good Charlotte\)](https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Bedroom Posters \(feat\. Good Charlotte\)](https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY) | 3:38 | 2026-01-15 |  |
+| [Bedroom Posters \(feat\. Good Charlotte\)](https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Bedroom Posters \(feat\. Good Charlotte\)](https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY) | 3:38 | 2026-01-15 | 2026-04-23 |
 | [Been Here Before](https://open.spotify.com/track/2KlAdT5Y6515sZdOPka8sA) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Been Here Before](https://open.spotify.com/album/71S6zEj9bB6MAYURARKQ4g) | 4:27 | 2024-08-01 | 2024-11-05 |
 | [Beer and Blood Stains](https://open.spotify.com/track/26bnW74Wx2gOADqc6c8mV0) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Beer and Blood Stains](https://open.spotify.com/album/6qfKaBSurOwbjy3jm1uMrL) | 3:19 | 2026-03-12 | 2026-03-15 |
 | [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 | 2025-04-17 | 2025-08-26 |
@@ -1563,6 +1563,7 @@
 | [SPINE](https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [SPINE](https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2) | 3:00 | 2024-05-09 | 2025-04-06 |
 | [Spiral](https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Spiral](https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie) | 2:48 | 2023-08-31 | 2023-09-15 |
 | [Spirit](https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Rebel Diamonds](https://open.spotify.com/album/6B4kdT96eBQnigkNj8eqeN) | 2:58 | 2023-12-07 | 2024-01-05 |
+| [split](https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [split](https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m) | 2:11 | 2026-04-20 |  |
 | [Spoiled](https://open.spotify.com/track/1kpLFYELP9ZawXgUd8gr8v) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [See You In The Dark](https://open.spotify.com/album/4TtZH64f81Pv1Y7rpwqDBe) | 3:16 | 2023-03-23 | 2023-03-31 |
 | [Spread City](https://open.spotify.com/track/3GmSEfuuFLpRxC6iZV9Mv7) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [Midnight Chocolate \- EP](https://open.spotify.com/album/6Jjha9eFKiS7bvJbxU2U7Y) | 3:52 | 2023-04-27 | 2023-05-12 |
 | [St\. Agnes](https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4) | 2:09 | 2026-02-12 | 2026-04-06 |

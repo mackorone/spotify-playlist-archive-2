@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4n32BG.md) - [plain]
 
 > This is Hannah Montana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,639 likes - 34 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,669 likes - 34 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

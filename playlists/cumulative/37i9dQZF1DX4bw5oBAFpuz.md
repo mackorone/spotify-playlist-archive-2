@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-637 songs - 1 day 12 hr 10 min
+638 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [Pennies From Heaven](https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe) | [Josh Island](https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4) | [Pennies From Heaven](https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2) | 4:15 | 2023-02-23 |  |
 | [Perfect timing](https://open.spotify.com/track/15Obnb8DCcSeLJeiTPlko0) | [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Perfect timing](https://open.spotify.com/album/3polefX1SBxQITeLo2Dwc0) | 3:02 | 2023-02-23 | 2024-04-19 |
 | [Places To Go](https://open.spotify.com/track/2kIMDGHkZPCwK0MD2IlXzR) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Paradise And Back Again](https://open.spotify.com/album/1taypDxNMQORzlU7YfZlk1) | 3:46 | 2023-02-23 |  |
+| [Plage](https://open.spotify.com/track/3WU1BGMLe9Tg2QuVmRPpw6) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star of Love \(+ acoustic version\)](https://open.spotify.com/album/5z6klKjs2g01A8z5sHljhQ) | 3:50 | 2026-04-16 |  |
 | [Plage](https://open.spotify.com/track/6jPNXRnTy37ADxbihf56rM) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star Of Love](https://open.spotify.com/album/00v21bgN2da5KonMWEAMec) | 3:50 | 2023-02-23 | 2024-04-19 |
 | [Plan B](https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Plan B](https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd) | 3:05 | 2023-02-23 |  |
 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 | 2026-02-12 |  |
@@ -581,7 +582,7 @@
 | [Trade it for the Night](https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/1TUyTfzAhejrdz4I4pymgp) | 4:50 | 2024-01-16 | 2024-04-19 |
 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 | 2023-02-23 | 2023-04-13 |
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2024-07-15 | 2024-09-28 |
-| [Tututu](https://open.spotify.com/track/60CDsfALVxdHCtWSGNEIib) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Irrational](https://open.spotify.com/album/1cNx0aM4urNQ0gMalkNnQ1) | 2:55 | 2023-02-23 |  |
+| [Tututu](https://open.spotify.com/track/60CDsfALVxdHCtWSGNEIib) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Irrational](https://open.spotify.com/album/1cNx0aM4urNQ0gMalkNnQ1) | 2:55 | 2023-02-23 | 2026-04-23 |
 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 | 2023-02-23 |  |
 | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm) | 3:00 | 2024-03-26 | 2025-06-21 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2024-09-27 | 2025-10-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,428 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,467 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 38 | [NueveOnce](https://open.spotify.com/track/091vECHhqk4LF0ztHw7fbt) | [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD) | [Punchline City, Vol\. 1](https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz) | 1:16 |
 | 39 | [Intraterreno](https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Intraterreno](https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5) | 3:54 |
 | 40 | [Dolor](https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Dolor](https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8) | 4:25 |
-| 41 | [Ríe Cuando Puedas](https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Striptease](https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi) | 3:41 |
-| 42 | [Esto Es México](https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb) | [Elote el Barbaro](https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m), [Sinful](https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2) | [Tiempos Muertos](https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV) | 4:46 |
-| 43 | [LA VIDA ES TAN DURA](https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Cheo Gallego](https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo) | [LA VIDA ES TAN DURA](https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP) | 2:40 |
-| 44 | [Esquirlas](https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd) | [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb), [Montebel](https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV) | [Esquirlas](https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi) | 3:40 |
+| 41 | [Esto Es México](https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb) | [Elote el Barbaro](https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m), [Sinful](https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2) | [Tiempos Muertos](https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV) | 4:46 |
+| 42 | [LA VIDA ES TAN DURA](https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Cheo Gallego](https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo) | [LA VIDA ES TAN DURA](https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP) | 2:40 |
+| 43 | [Esquirlas](https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd) | [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb), [Montebel](https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV) | [Esquirlas](https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi) | 3:40 |
+| 44 | [Ríe Cuando Puedas](https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Striptease](https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi) | 3:41 |
 | 45 | [La Capital Del Pecado](https://open.spotify.com/track/5sxIv3QmlnQ4u5NxPM1E7V) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Zirck Saucedo](https://open.spotify.com/artist/4T69z0gm8SP5HxlUBMMXpR) | [La Capital Del Pecado](https://open.spotify.com/album/5ZhKILys7Vne4fJ1gvWZVc) | 2:43 |
 | 46 | [El eslabón perdido](https://open.spotify.com/track/5oPhZx0Ap6kcJKBIfzzy6D) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [El eslabón perdido](https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq) | 3:33 |
 | 47 | [Más & Menos](https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Más & Menos](https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus) | 4:29 |

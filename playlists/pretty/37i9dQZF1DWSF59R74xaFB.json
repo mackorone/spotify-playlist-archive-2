@@ -1,6 +1,6 @@
 {
   "description": "El amor no se escucha, se siente...  \ud83d\udc96 nic & Leo Rizzi en portada.",
-  "num_followers": 558231,
+  "num_followers": 558270,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-04-17 16:45:32",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
-    },
-    {
-      "added_at": "2026-04-17 16:45:32",
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 221800,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+    },
+    {
+      "added_at": "2026-04-17 16:45:32",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
       "added_at": "2026-04-17 16:45:32",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-04-17 16:45:32",
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "Heroe",
+      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
+    },
+    {
+      "added_at": "2026-04-17 16:45:32",
+      "album": {
         "name": "En Otra Vida",
         "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 153609,
       "name": "En Otra Vida",
       "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
-    },
-    {
-      "added_at": "2026-04-17 16:45:32",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "Heroe",
-      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
     },
     {
       "added_at": "2026-04-17 16:45:32",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-04-17 16:45:32",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Te Equivocaste",
-      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
-    },
-    {
-      "added_at": "2026-04-17 16:45:32",
-      "album": {
         "name": "Si Me Dejas Ahora",
         "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 272000,
       "name": "Si Me Dejas Ahora",
       "url": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
+    },
+    {
+      "added_at": "2026-04-17 16:45:32",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Te Equivocaste",
+      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
     },
     {
       "added_at": "2026-04-17 16:45:32",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2026-04-17 16:45:32",
       "album": {
+        "name": "Yahir",
+        "url": "https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6"
+      },
+      "artists": [
+        {
+          "name": "Yahir",
+          "url": "https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ"
+        }
+      ],
+      "duration_ms": 304426,
+      "name": "Alucinado",
+      "url": "https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX"
+    },
+    {
+      "added_at": "2026-04-17 16:45:32",
+      "album": {
         "name": "El Ayer",
         "url": "https://open.spotify.com/album/0oNqIoImVPrSxGIrdZCMPp"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 206900,
       "name": "Hipot\u00e9ticamente",
       "url": "https://open.spotify.com/track/2TaEcl4cN5G91oOWMt4h0P"
-    },
-    {
-      "added_at": "2026-04-17 16:45:32",
-      "album": {
-        "name": "Yahir",
-        "url": "https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6"
-      },
-      "artists": [
-        {
-          "name": "Yahir",
-          "url": "https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ"
-        }
-      ],
-      "duration_ms": 304426,
-      "name": "Alucinado",
-      "url": "https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX"
     },
     {
       "added_at": "2026-04-17 16:45:32",
@@ -1735,22 +1735,18 @@
     {
       "added_at": "2026-04-17 16:45:32",
       "album": {
-        "name": "Nunca Me Lo Esper\u00e9",
-        "url": "https://open.spotify.com/album/1PWDNAdAcDUbyMPUHMHGoa"
+        "name": "Todo Lo Que Est\u00e1 Mal",
+        "url": "https://open.spotify.com/album/0T3lqtLeFuM6pJk6g8k4QI"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
         }
       ],
-      "duration_ms": 165194,
-      "name": "Nunca Me Lo Esper\u00e9",
-      "url": "https://open.spotify.com/track/7gtowQfLM1t2nlS1ZKG6uk"
+      "duration_ms": 154533,
+      "name": "Todo Lo Que Est\u00e1 Mal",
+      "url": "https://open.spotify.com/track/6nXyY9M6ZErHlaXh9HB5aU"
     }
   ],
   "unique_name": "Radio Coraz\u00f3n",

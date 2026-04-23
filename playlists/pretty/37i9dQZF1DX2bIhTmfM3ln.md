@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > love is in the air...breathe in
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,023 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,052 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 28 | [Oh No](https://open.spotify.com/track/19nmeU0aNGfXHzIpfKUQB2) | [Oberz](https://open.spotify.com/artist/1URhWT4bXKGpVkfDFe1R1v), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Oh No](https://open.spotify.com/album/6KvaVWRLV9UA9fc8xy5sEb) | 2:40 |
 | 29 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
 | 30 | [Slow \(feat\. Anaïs Cardot\)](https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:25 |
-| 31 | [AMA](https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:37 |
-| 32 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 |
+| 31 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 |
+| 32 | [AMA](https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:37 |
 | 33 | [Love Egbugomo](https://open.spotify.com/track/1pi9XMrwEocfCRlDiEDrHM) | [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Love Egbugomo](https://open.spotify.com/album/7wQM76tkNQjgyK1NBEs2nt) | 2:31 |
 | 34 | [All The Love](https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [All The Love](https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9) | 3:08 |
 | 35 | [Calculate](https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Calculate](https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo) | 3:00 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 60 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 |
 | 61 | [Solace](https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Solace](https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA) | 3:16 |
 | 62 | [Gaddem](https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Gaddem](https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1) | 2:41 |
-| 63 | [Love Sick Crazy](https://open.spotify.com/track/0owbHldQEENBOUXpl0QEIj) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Agaba Romantic](https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P) | 2:35 |
-| 64 | [Go Crazy](https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Go Crazy](https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE) | 2:36 |
+| 63 | [Go Crazy](https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Go Crazy](https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE) | 2:36 |
+| 64 | [Love Sick Crazy](https://open.spotify.com/track/0owbHldQEENBOUXpl0QEIj) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Agaba Romantic](https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P) | 2:35 |
 | 65 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |
 | 66 | [Only Fans](https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Only Fans](https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu) | 2:29 |
 | 67 | [Only God Can Save Me](https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:43 |

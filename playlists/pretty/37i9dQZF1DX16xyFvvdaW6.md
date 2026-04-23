@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,362 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,365 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 18 | [Mi Mirada Puesta en Ti](https://open.spotify.com/track/1DbbtSXVtQ10yZ9i0yvRRq) | [Fos Rock](https://open.spotify.com/artist/0p9As39OkIqK6mOPOs7EvK), [Jan Earle](https://open.spotify.com/artist/6O1gkriLfZg5mnBrTlBq1N) | [Mi Mirada Puesta en Ti](https://open.spotify.com/album/5rBMnQBX6Krk7RvFeRO7Gc) | 2:31 |
 | 19 | [Vengan y Vean](https://open.spotify.com/track/3ML4PR7vYby13O1QbEpyMf) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Vengan y Vean](https://open.spotify.com/album/1PXuLd5Om2stClhROOdtqU) | 4:38 |
 | 20 | [VIENE \- En Vivo Desde VORTERIX](https://open.spotify.com/track/0kag34OinSKhKZ9tViRAD9) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [VIENE \(En Vivo Desde VORTERIX\)](https://open.spotify.com/album/0FEHlgZGTDRDcReRDNBhUg) | 3:06 |
-| 21 | [Aire \(feat\. Miguel Balboa\)](https://open.spotify.com/track/14P5c7BfBNCmQvvK2bVwVq) | [Heler](https://open.spotify.com/artist/35NxdBqTf7OqYjSIYDwI8c), [Miguel Balboa](https://open.spotify.com/artist/0T6gtHK8LMFs4BjsmHGLzX) | [Tan Real](https://open.spotify.com/album/6mQeUGxs4D5Of6Z0BPnV3R) | 3:25 |
+| 21 | [Aire](https://open.spotify.com/track/14P5c7BfBNCmQvvK2bVwVq) | [Heler](https://open.spotify.com/artist/3BFU3qvFy41dezDv4jJSyZ), [Miguel Balboa](https://open.spotify.com/artist/0XXSxHghP297H53ScwbCRm) | [Tan Real](https://open.spotify.com/album/6mQeUGxs4D5Of6Z0BPnV3R) | 3:25 |
 | 22 | [Es Una Fiesta](https://open.spotify.com/track/1jqXqSdZ6NNsu4PNmsfkzy) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Es Una Fiesta](https://open.spotify.com/album/4ULBU0vwhkmfXdGbxHcxvs) | 4:01 |
 | 23 | [Contra Tu Sistema](https://open.spotify.com/track/52eb1ee2bhsQxnDaMprAys) | [revoestereo](https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J), [Eliud L'voices](https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj) | [Contra Tu Sistema](https://open.spotify.com/album/1ClppXjQsdAEJ7kzJuJ1ur) | 3:56 |
 | 24 | [Al Único / Que Dulce es Estar](https://open.spotify.com/track/6M0EWZ4OlkDRAwzvepzTOH) | [Fos Rock](https://open.spotify.com/artist/0p9As39OkIqK6mOPOs7EvK), [Will Fabre](https://open.spotify.com/artist/07Awsxxzr9ZL19x4IfNTDm) | [Al Único / Que Dulce es Estar](https://open.spotify.com/album/46fUUBkh28La01t6zFDHuS) | 2:35 |

@@ -1,13 +1,61 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Cover: After Louise",
-  "num_followers": 255875,
+  "description": "The best new indie tracks from independent artists & labels. Cover: Baileyrp",
+  "num_followers": 255895,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIzwpFZEUrrBGMbvDGe3n2+nR4z2",
+  "snapshot_id": "AAAAAJwMOGjBusuajDfCRmHuZ7NJu+cT",
   "tracks": [
+    {
+      "added_at": "2026-04-22 16:16:37",
+      "album": {
+        "name": "can we just forget?",
+        "url": "https://open.spotify.com/album/6olTVmgvSuZeUleCYAtayG"
+      },
+      "artists": [
+        {
+          "name": "Baileyrp",
+          "url": "https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz"
+        }
+      ],
+      "duration_ms": 283255,
+      "name": "can we just forget?",
+      "url": "https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye"
+    },
+    {
+      "added_at": "2026-04-22 16:16:37",
+      "album": {
+        "name": "sad song",
+        "url": "https://open.spotify.com/album/3M4kVE1218U6n9Qh6JQ03I"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "duration_ms": 183488,
+      "name": "sad song",
+      "url": "https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P"
+    },
+    {
+      "added_at": "2026-04-22 16:16:37",
+      "album": {
+        "name": "Sun after rain",
+        "url": "https://open.spotify.com/album/0KDmZawPnFYKTYL2PbSkT9"
+      },
+      "artists": [
+        {
+          "name": "ZK king",
+          "url": "https://open.spotify.com/artist/0mXeqEE6ZBHM6B9CPpB9PS"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Sun after rain",
+      "url": "https://open.spotify.com/track/1uoeixxLW14fGVBt6e3vQ1"
+    },
     {
       "added_at": "2026-04-08 16:00:06",
       "album": {
@@ -23,6 +71,38 @@
       "duration_ms": 175597,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/1etY8R5Z0rXhBKlqkUkkwN"
+    },
+    {
+      "added_at": "2026-04-22 16:16:37",
+      "album": {
+        "name": "Little Miss Sunshine",
+        "url": "https://open.spotify.com/album/5HfhKhEHJiRv1UknjlocfF"
+      },
+      "artists": [
+        {
+          "name": "Eaves Wilder",
+          "url": "https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ"
+        }
+      ],
+      "duration_ms": 289650,
+      "name": "The Great Plains",
+      "url": "https://open.spotify.com/track/6c8Uo1Oxh8voqJqA1O5Jgz"
+    },
+    {
+      "added_at": "2026-04-08 16:00:06",
+      "album": {
+        "name": "Better Angels",
+        "url": "https://open.spotify.com/album/5oZuk5EIEG4licuoLSpgrz"
+      },
+      "artists": [
+        {
+          "name": "sadie",
+          "url": "https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc"
+        }
+      ],
+      "duration_ms": 160616,
+      "name": "Better Angels",
+      "url": "https://open.spotify.com/track/4dVmB6Y60E2U5tK79G2dhK"
     },
     {
       "added_at": "2026-04-15 17:14:31",
@@ -41,6 +121,38 @@
       "url": "https://open.spotify.com/track/6wBprAkQVcFYp4xLo4Hvg8"
     },
     {
+      "added_at": "2026-04-08 16:00:06",
+      "album": {
+        "name": "FALLINFORU",
+        "url": "https://open.spotify.com/album/05717ezKBBLNKFiIRpqLD1"
+      },
+      "artists": [
+        {
+          "name": "jonie",
+          "url": "https://open.spotify.com/artist/4qI070Q4VrKFF2gHXzGRNa"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "FALLINFORU",
+      "url": "https://open.spotify.com/track/2eOK6VYIsnUsOvTTkEcZkJ"
+    },
+    {
+      "added_at": "2026-04-22 16:16:37",
+      "album": {
+        "name": "Leaves to the Sun",
+        "url": "https://open.spotify.com/album/71nSSWdjOnQrj3dVczN5pQ"
+      },
+      "artists": [
+        {
+          "name": "Gawshock",
+          "url": "https://open.spotify.com/artist/3i7wkbtnfpvKYxFzWDRxWh"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "What Do You Dream About?",
+      "url": "https://open.spotify.com/track/61udt3YoXJJpNV5LpMTm9v"
+    },
+    {
       "added_at": "2026-04-15 17:14:31",
       "album": {
         "name": "brave2",
@@ -57,20 +169,36 @@
       "url": "https://open.spotify.com/track/65Lfg7gOR3BZQzVD4d7JJY"
     },
     {
-      "added_at": "2026-04-08 16:00:06",
+      "added_at": "2026-04-22 16:16:37",
       "album": {
-        "name": "Better Angels",
-        "url": "https://open.spotify.com/album/5oZuk5EIEG4licuoLSpgrz"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/75Bgla4lYsEMCSjFs3loGd"
       },
       "artists": [
         {
-          "name": "sadie",
-          "url": "https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc"
+          "name": "Accessory",
+          "url": "https://open.spotify.com/artist/0Z8Jfh6OHa55AI6NdEjtUk"
         }
       ],
-      "duration_ms": 160616,
-      "name": "Better Angels",
-      "url": "https://open.spotify.com/track/4dVmB6Y60E2U5tK79G2dhK"
+      "duration_ms": 233283,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/19swoESh14znOg6WDx3liB"
+    },
+    {
+      "added_at": "2026-04-22 16:16:37",
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/2I10bEdFZUMfvMHi4lNIzF"
+      },
+      "artists": [
+        {
+          "name": "Foxtide",
+          "url": "https://open.spotify.com/artist/5hTigSXgVwn9Mvaz8MBHxv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Cut and Dry",
+      "url": "https://open.spotify.com/track/57m7ws7xQ6XSdOfU9w92D5"
     },
     {
       "added_at": "2026-04-15 17:14:31",
@@ -103,22 +231,6 @@
       "duration_ms": 260296,
       "name": "Lizzie mcguire",
       "url": "https://open.spotify.com/track/7kNqAfUxLmrETcwvBTQCkg"
-    },
-    {
-      "added_at": "2026-04-08 16:00:06",
-      "album": {
-        "name": "FALLINFORU",
-        "url": "https://open.spotify.com/album/05717ezKBBLNKFiIRpqLD1"
-      },
-      "artists": [
-        {
-          "name": "jonie",
-          "url": "https://open.spotify.com/artist/4qI070Q4VrKFF2gHXzGRNa"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "FALLINFORU",
-      "url": "https://open.spotify.com/track/2eOK6VYIsnUsOvTTkEcZkJ"
     },
     {
       "added_at": "2026-04-15 17:14:31",
@@ -459,22 +571,6 @@
       "duration_ms": 211360,
       "name": "Same Kids",
       "url": "https://open.spotify.com/track/2oOEbRXZ4HIS4KC7iu1D5d"
-    },
-    {
-      "added_at": "2026-03-25 16:00:36",
-      "album": {
-        "name": "Safeword",
-        "url": "https://open.spotify.com/album/1yIbaul81EmmWh1EjSQLiY"
-      },
-      "artists": [
-        {
-          "name": "Accessory",
-          "url": "https://open.spotify.com/artist/0Z8Jfh6OHa55AI6NdEjtUk"
-        }
-      ],
-      "duration_ms": 135277,
-      "name": "Safeword",
-      "url": "https://open.spotify.com/track/5AgbD4ZSxrAPkG9YqSbX9B"
     },
     {
       "added_at": "2026-03-25 16:00:36",
@@ -967,22 +1063,6 @@
     {
       "added_at": "2026-02-18 17:00:06",
       "album": {
-        "name": "over/over",
-        "url": "https://open.spotify.com/album/1PJCDRAh0xcCDoKtwUjvWP"
-      },
-      "artists": [
-        {
-          "name": "Hockitay",
-          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "over/over",
-      "url": "https://open.spotify.com/track/2HzU4z6R1Oj7OsgJN73ep8"
-    },
-    {
-      "added_at": "2026-02-18 17:00:06",
-      "album": {
         "name": "almost normal",
         "url": "https://open.spotify.com/album/6TjhZBF4MKIPszmD0mzbf0"
       },
@@ -1043,102 +1123,6 @@
       "duration_ms": 110320,
       "name": "Pop",
       "url": "https://open.spotify.com/track/6VRRHGNt3ewRm8oRlXnyJO"
-    },
-    {
-      "added_at": "2026-02-11 17:00:28",
-      "album": {
-        "name": "substack girl",
-        "url": "https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl"
-      },
-      "artists": [
-        {
-          "name": "NEW LORE",
-          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "substack girl",
-      "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
-    },
-    {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "Impaler",
-        "url": "https://open.spotify.com/album/0C5OtavRdxSTs0eReaFzgW"
-      },
-      "artists": [
-        {
-          "name": "Rosacea boy",
-          "url": "https://open.spotify.com/artist/61YfdcpPNccLF3vgbHKKj1"
-        }
-      ],
-      "duration_ms": 205766,
-      "name": "Impaler",
-      "url": "https://open.spotify.com/track/12FjzonRpdzyEKV4r2ZZOO"
-    },
-    {
-      "added_at": "2026-02-11 17:00:28",
-      "album": {
-        "name": "CAT AND DOG",
-        "url": "https://open.spotify.com/album/7zMKsX7lR9zFaZrvsPa6l4"
-      },
-      "artists": [
-        {
-          "name": "almost a.m.",
-          "url": "https://open.spotify.com/artist/4Z2wzyq0l5fihW1OrsGtMt"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "CAT AND DOG",
-      "url": "https://open.spotify.com/track/5vegfruiWmIAsrnaMcwDQe"
-    },
-    {
-      "added_at": "2026-02-11 17:00:28",
-      "album": {
-        "name": "City Girl",
-        "url": "https://open.spotify.com/album/1lMlLc62JZoeEeJVAb5zVH"
-      },
-      "artists": [
-        {
-          "name": "naarjesse",
-          "url": "https://open.spotify.com/artist/0Yeft76DHqpV2MWMfeOQRT"
-        }
-      ],
-      "duration_ms": 180599,
-      "name": "City Girl",
-      "url": "https://open.spotify.com/track/1RwhNNeWrMIMrSvwEMLNIG"
-    },
-    {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
-        "name": "Kiss&Tell",
-        "url": "https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR"
-      },
-      "artists": [
-        {
-          "name": "GUINEVERE",
-          "url": "https://open.spotify.com/artist/1aLFv51RG1QPZfYtlF8ood"
-        }
-      ],
-      "duration_ms": 225477,
-      "name": "Kiss&Tell",
-      "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
-    },
-    {
-      "added_at": "2026-02-11 17:00:28",
-      "album": {
-        "name": "Your Eyes",
-        "url": "https://open.spotify.com/album/69MKyZkRZIYsAu0kACZfkc"
-      },
-      "artists": [
-        {
-          "name": "White Fence",
-          "url": "https://open.spotify.com/artist/5gH9MJvoI7pN9bohESzYaA"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Your Eyes",
-      "url": "https://open.spotify.com/track/5wJBsjJ1vy7MdNEdBIxhYO"
     },
     {
       "added_at": "2026-02-04 17:00:09",

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-429 songs - 1 day 0 hr 4 min
+431 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Avatar](https://open.spotify.com/track/4jvDddu5cVPq4ogsmSEeQ9) | [Svend48](https://open.spotify.com/artist/5u4b2A5VnjVTMzNxs5QhCc) | [Avatar](https://open.spotify.com/album/3rNkFTNqKvXFpiOB70Mb1f) | 4:28 | 2025-12-26 | 2026-01-15 |
 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 | 2025-12-09 | 2026-01-05 |
 | [Back 2 Back](https://open.spotify.com/track/7K02ichOW2ETR9CpgGe66n) | [Flav Gabry](https://open.spotify.com/artist/6HnknQDdmkAh8IIr2Z6rh5), [Slim Spitta](https://open.spotify.com/artist/5nfwr1v0kuonRC9Vnb573t) | [Back 2 Back](https://open.spotify.com/album/57YaD8D6CT5lTgC1Im14S2) | 4:24 | 2026-03-05 |  |
+| [backseat confessions](https://open.spotify.com/track/79lCZgjb8Sw6cVqsJTJ5FA) | [DeMonte Lavon](https://open.spotify.com/artist/417b6aqhC6zWo0I5iD8Q9K) | [backseat confessions](https://open.spotify.com/album/2ZxJeVllW06njTXqorI5P4) | 4:27 | 2026-04-22 |  |
 | [BackYard](https://open.spotify.com/track/5MWrY70Z923ND9CmINZlJQ) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [BackYard](https://open.spotify.com/album/7gPsLU48jdwEDbf2fJmgaq) | 3:52 | 2025-12-30 | 2026-01-25 |
 | [Bags Full Of Money](https://open.spotify.com/track/6s6ycfcQBla88TX9SmTkkD) | [Dawn Muzik Legionnaires](https://open.spotify.com/artist/0PoD2dNSuiKzEst4CfIwOl) | [Bags Full Of Money](https://open.spotify.com/album/69DIxggZ7kwksKWQotolnz) | 3:55 | 2025-11-08 | 2025-12-01 |
 | [Banana Trees And Heart Deals](https://open.spotify.com/track/4hgHjUTRvAm4qAKYmkHvUN) | [Matty Mannant](https://open.spotify.com/artist/7Md4vnO1EzzzwN716kEXtR) | [Banana Trees And Heart Deals](https://open.spotify.com/album/68m2WfcBHGBgA4rkWRYwFX) | 3:59 | 2025-11-17 | 2026-01-05 |
@@ -159,6 +160,7 @@
 | [Gonzo](https://open.spotify.com/track/0hkHE5hYqBQcaeKxyKr259) | [Keepin' It Cloudy](https://open.spotify.com/artist/7wbDcKP4xhqq4NO3UpjhXk), [King Hansom](https://open.spotify.com/artist/19nbXBEBmc6z0hUdb9AB7f) | [Gonzo](https://open.spotify.com/album/1kL6WL20wKjBZo7bSgb36c) | 2:55 | 2026-03-05 |  |
 | [Good Things](https://open.spotify.com/track/71dSBF6OYZXAgttZUkU1R6) | [Belonging](https://open.spotify.com/artist/35Hu3Q5BlAlQgUDH3jATl7) | [Good Things](https://open.spotify.com/album/2ljaFGrgIpGVt04MXHP3IH) | 2:16 | 2025-11-22 | 2026-01-05 |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2025-12-24 | 2026-01-15 |
+| [Grace is Gone](https://open.spotify.com/track/5QyGhIs60QO3KOVMv7X54y) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Grace is Gone](https://open.spotify.com/album/6NJPxxjLZ1gD0zNOQbKcbN) | 4:13 | 2026-04-22 |  |
 | [Great Escape](https://open.spotify.com/track/1Qk1TypCuztmSRnPucphnq) | [Ignatius Reilly](https://open.spotify.com/artist/5EvmRBc82fhLAJla8bdCt3) | [Superstitions Fade](https://open.spotify.com/album/6q7sbsq8GVQTzrk4LujFkm) | 5:29 | 2025-11-08 | 2025-12-01 |
 | [Gregorian Time](https://open.spotify.com/track/2GLBxwXrIY5P2kHzZDAtek) | [Lily Quinn](https://open.spotify.com/artist/2vDtkusMUDE17BfHasvShX) | [Seraphic Whisper](https://open.spotify.com/album/3uzuuzA6r2Po42yaiqOS0F) | 4:08 | 2025-12-01 | 2026-01-05 |
 | [Guau Guau](https://open.spotify.com/track/6c63incVIBg4FCtvxFUqZX) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 4:32 | 2025-11-03 | 2025-12-01 |

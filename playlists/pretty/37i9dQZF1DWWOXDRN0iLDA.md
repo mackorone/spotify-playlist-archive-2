@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 
 > soft ambient + bird song for spring study sessions 🦜🌿 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 277 likes - 67 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 295 likes - 67 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 | 26 | [Between Sound and Air](https://open.spotify.com/track/446YBnz1ukcDXTJ5sAIauj) | [Eternal Meadows](https://open.spotify.com/artist/0ADZFr36OypozKmbt7y0Bm), [Tish'](https://open.spotify.com/artist/2Snl7bD9P5FLeAMajWU3xx) | [Between Sound and Air](https://open.spotify.com/album/5nvXV765TUtmCP3qNqbn5O) | 2:34 |
 | 27 | [Restart](https://open.spotify.com/track/7bUtYZp5Nx93HaPPyzk64o) | [Marc Westfield](https://open.spotify.com/artist/5GbWQkreLZ1Q0anHtK93UJ) | [Restart](https://open.spotify.com/album/4owhXLeFbrS6TxGAIWF3uJ) | 2:37 |
 | 28 | [Nectar Grass](https://open.spotify.com/track/5DPw5xtrfAh6QSzsAcjjjp) | [Omni Gardens](https://open.spotify.com/artist/1LCXHSFYrRpIN27BkeU4Pc) | [Amethyst: New Sounds from Moon Glyph Records](https://open.spotify.com/album/7klISdUs38HWDv8iKsan7g) | 1:57 |
-| 29 | [Weightless](https://open.spotify.com/track/6vs3zn3RZXdnehXKsXhDmJ) | [Graphity](https://open.spotify.com/artist/4BFOUasxzvjSS6N2zvp4Zd), [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Shared Pulse \(feat\. NATURE\)](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:48 |
+| 29 | [Weightless](https://open.spotify.com/track/6vs3zn3RZXdnehXKsXhDmJ) | [Graphity](https://open.spotify.com/artist/4BFOUasxzvjSS6N2zvp4Zd), [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Shared Pulse](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:48 |
 | 30 | [meloh](https://open.spotify.com/track/3j6ZZ8CdOOxTauHtiDVxuQ) | [Julio Raass](https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4) | [meloh](https://open.spotify.com/album/3JGENPKwjfu9LD8Qv6FGfd) | 3:00 |
 | 31 | [Paladin Diversum](https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin Diversum](https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur) | 3:16 |
-| 32 | [Forest Morning](https://open.spotify.com/track/15fQ0VWN2bXSJFUWgSyeUz) | [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Shared Pulse \(feat\. NATURE\)](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:25 |
+| 32 | [Forest Morning](https://open.spotify.com/track/15fQ0VWN2bXSJFUWgSyeUz) | [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Shared Pulse](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:25 |
 | 33 | [Forest Embrace](https://open.spotify.com/track/5vgeEKVZgiAKYJNxrv83yX) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Forest Embrace](https://open.spotify.com/album/37BwObBKhkgzkPWze8Gcr3) | 2:32 |
 | 34 | [Veil of Sylva](https://open.spotify.com/track/0deuii5DgfxodJswCQicZb) | [Far North](https://open.spotify.com/artist/5PsHx1QHRwGpw7tIvFVI9P) | [Veil of Sylva](https://open.spotify.com/album/2pvacHIi2kDaYoIxREZo79) | 2:22 |
 | 35 | [Mystic Nature](https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Mystic Nature](https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP) | 3:22 |

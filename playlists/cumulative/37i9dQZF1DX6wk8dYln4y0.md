@@ -4,7 +4,7 @@
 
 > music that just \*hits different\* Cover: Laufey
 
-696 songs - 1 day 13 hr 31 min
+697 songs - 1 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Gold](https://open.spotify.com/track/3Cu4apMkDxFIIh8aKNFNPg) | [Lara Buchanan](https://open.spotify.com/artist/2MpvmnNz8i4y2XPX2DLpPh) | [Gold](https://open.spotify.com/album/5OQHSj1cZeZUS34ePprYFq) | 3:19 | 2026-02-19 |  |
 | [Gold and Blue](https://open.spotify.com/track/19UaojPzWS9grhRntuVEVA) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Gold and Blue](https://open.spotify.com/album/7L5EHyJ7rnJUw2kYM459cs) | 3:12 | 2025-09-11 | 2025-10-24 |
 | [golden boy](https://open.spotify.com/track/2RlNVAciIcppSI1Iu10RDh) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [stardust](https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4) | 3:17 | 2026-02-05 |  |
-| [Good Girl](https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Girl](https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE) | 4:23 | 2026-01-29 |  |
+| [Good Girl](https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Girl](https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE) | 4:23 | 2026-01-29 | 2026-04-23 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-04 | 2025-03-21 |
 | [Good With Goodbye \(feat\. Chloe Parché\)](https://open.spotify.com/track/7uDYeoLutNRtO8fYvXU0uf) | [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA), [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Good With Goodbye \(feat\. Chloe Parché\)](https://open.spotify.com/album/3t79sGB2WMVu2mptSdfmY6) | 2:45 | 2025-03-27 | 2025-04-11 |
 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 | 2023-09-28 | 2023-10-17 |
@@ -482,6 +482,7 @@
 | [RIP KP](https://open.spotify.com/track/79ntb6PIEy0xSr0DZgIZer) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [RIP KP](https://open.spotify.com/album/3AgWdgUIlQJVHdsdieSHdl) | 2:18 | 2025-06-12 | 2025-08-02 |
 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 | 2025-01-23 | 2025-07-18 |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-16 | 2023-05-30 |
+| [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 | 2026-04-16 |  |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-03-16 | 2024-07-19 |
 | [Ruin A Good Thing](https://open.spotify.com/track/1WBCT1X3icl0ElsOXxxg25) | [Lottie McLeod](https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9) | [Bug](https://open.spotify.com/album/2cMqGu1camh7KGSPLUhO5w) | 3:19 | 2025-05-29 | 2025-06-13 |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2023-12-19 | 2024-06-19 |

@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 477340,
+  "num_followers": 477317,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Ever Since I Lost My Mind",
-        "url": "https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 266053,
-      "name": "If I Was",
-      "url": "https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "How Low",
         "url": "https://open.spotify.com/album/4c9IVypw3UiHl8wBhqLe5s"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 244160,
       "name": "How Low",
       "url": "https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Ever Since I Lost My Mind",
+        "url": "https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 266053,
+      "name": "If I Was",
+      "url": "https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "It's Been a While",
-        "url": "https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 246840,
-      "name": "It's Been a While",
-      "url": "https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Galacticana",
         "url": "https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 240733,
       "name": "Galacticana",
       "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "It's Been a While",
+        "url": "https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 246840,
+      "name": "It's Been a While",
+      "url": "https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Topaz",
-        "url": "https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2"
-      },
-      "artists": [
-        {
-          "name": "Israel Nash",
-          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
-        }
-      ],
-      "duration_ms": 214944,
-      "name": "Down in the Country",
-      "url": "https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Soul In Mind",
         "url": "https://open.spotify.com/album/77hh6fk09R9oh9OFGAeCrS"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 216198,
       "name": "Soul In Mind",
       "url": "https://open.spotify.com/track/3tTroIOjnFUeohJqPeb4QB"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Topaz",
+        "url": "https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2"
+      },
+      "artists": [
+        {
+          "name": "Israel Nash",
+          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
+        }
+      ],
+      "duration_ms": 214944,
+      "name": "Down in the Country",
+      "url": "https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1367,38 +1367,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Home Truths",
-        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
-      },
-      "artists": [
-        {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Home Truths",
-      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Pain Shifter",
-        "url": "https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt"
-      },
-      "artists": [
-        {
-          "name": "W. B. Wooten",
-          "url": "https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Pain Shifter",
-      "url": "https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Strange to Explain [More Strange (Deluxe Edition)]",
         "url": "https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG"
       },
@@ -1415,6 +1383,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Home Truths",
+      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "I'm Not There",
         "url": "https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 243706,
       "name": "I'm Not There",
       "url": "https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Pain Shifter",
+        "url": "https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt"
+      },
+      "artists": [
+        {
+          "name": "W. B. Wooten",
+          "url": "https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Pain Shifter",
+      "url": "https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf"
     },
     {
       "added_at": "2025-02-07 05:00:32",

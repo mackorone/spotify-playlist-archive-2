@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 5912,
+  "num_followers": 5914,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+        "name": "HONEY FAMILY",
+        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
       },
       "artists": [
         {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+          "name": "Honey Family",
+          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
         }
       ],
-      "duration_ms": 223578,
-      "name": "Overclass - 2021 Remaster",
-      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
+      "duration_ms": 293041,
+      "name": "\ub7a9\uad50 1\ub9c9",
+      "url": "https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "HONEY FAMILY",
-        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
+        "name": "Bizzionary",
+        "url": "https://open.spotify.com/album/6iEkOP0oNzQz7yiJNHhoOM"
       },
       "artists": [
         {
-          "name": "Honey Family",
-          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
+          "name": "Bizzy",
+          "url": "https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41"
         }
       ],
-      "duration_ms": 293041,
-      "name": "\ub7a9\uad50 1\ub9c9",
-      "url": "https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp"
+      "duration_ms": 477231,
+      "name": "Movement 4",
+      "url": "https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Bizzionary",
-        "url": "https://open.spotify.com/album/6iEkOP0oNzQz7yiJNHhoOM"
-      },
-      "artists": [
-        {
-          "name": "Bizzy",
-          "url": "https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41"
-        }
-      ],
-      "duration_ms": 477231,
-      "name": "Movement 4",
-      "url": "https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Thunderground",
         "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 223640,
       "name": "You Don\u2019t Know",
       "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "duration_ms": 223578,
+      "name": "Overclass - 2021 Remaster",
+      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Massmediah",
+        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
+      },
+      "artists": [
+        {
+          "name": "CB MASS",
+          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
+        }
+      ],
+      "duration_ms": 286812,
+      "name": "The Movement II",
+      "url": "https://open.spotify.com/track/3ilwG9iYGH9HecRrT4LgYc"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Q Train (Remaster)",
         "url": "https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 84925,
       "name": "Interlude (feat. Mad Clown)",
       "url": "https://open.spotify.com/track/7pLOLSicKZhYp0OFXX1aiN"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Massmediah",
-        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
-      },
-      "artists": [
-        {
-          "name": "CB MASS",
-          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
-        }
-      ],
-      "duration_ms": 286812,
-      "name": "The Movement II",
-      "url": "https://open.spotify.com/track/3ilwG9iYGH9HecRrT4LgYc"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1687,6 +1687,26 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "A Giant Step",
+        "url": "https://open.spotify.com/album/1CM29NkWfipbcqasYZh0bU"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 316944,
+      "name": "AEAO",
+      "url": "https://open.spotify.com/track/7hrlGlLnzusciZyzxwhkn9"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Q Train (Remaster)",
         "url": "https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX"
       },
@@ -1711,26 +1731,6 @@
       "duration_ms": 218265,
       "name": "\ubb50 (feat. Notorious Kid, Friz & Pumkin)",
       "url": "https://open.spotify.com/track/3qgm6blx9hXtZZysC9Yrbm"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "A Giant Step",
-        "url": "https://open.spotify.com/album/1CM29NkWfipbcqasYZh0bU"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 316944,
-      "name": "AEAO",
-      "url": "https://open.spotify.com/track/7hrlGlLnzusciZyzxwhkn9"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Garion \uac00\ub9ac\uc628",
-        "url": "https://open.spotify.com/album/0NAGKYjre0MgNYdUtcBuDp"
-      },
-      "artists": [
-        {
-          "name": "Garion",
-          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
-        }
-      ],
-      "duration_ms": 331426,
-      "name": "\ubfcc\ub9ac\uae4a\uc740 \ub098\ubb34",
-      "url": "https://open.spotify.com/track/2W7KlM3CkB65v2P5pBwkqh"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Luckynumbers",
         "url": "https://open.spotify.com/album/0N8zvUXI9292Lm0rqx8Sbj"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 220880,
       "name": "BAAAM",
       "url": "https://open.spotify.com/track/32raq5fE3JqPn7HqZ6rgsk"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Garion \uac00\ub9ac\uc628",
+        "url": "https://open.spotify.com/album/0NAGKYjre0MgNYdUtcBuDp"
+      },
+      "artists": [
+        {
+          "name": "Garion",
+          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
+        }
+      ],
+      "duration_ms": 331426,
+      "name": "\ubfcc\ub9ac\uae4a\uc740 \ub098\ubb34",
+      "url": "https://open.spotify.com/track/2W7KlM3CkB65v2P5pBwkqh"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Garion \uac00\ub9ac\uc628",
-        "url": "https://open.spotify.com/album/0NAGKYjre0MgNYdUtcBuDp"
-      },
-      "artists": [
-        {
-          "name": "Garion",
-          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "\uc5b8\ub354\uadf8\ub77c\uc6b4\ub4dc",
-      "url": "https://open.spotify.com/track/4kmIEThorIgS5RewYcPgkJ"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Luckynumbers",
         "url": "https://open.spotify.com/album/0N8zvUXI9292Lm0rqx8Sbj"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 254400,
       "name": "Three Dopeboyz",
       "url": "https://open.spotify.com/track/6TWlfF0NDu8fJoBIgZCr0w"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Garion \uac00\ub9ac\uc628",
+        "url": "https://open.spotify.com/album/0NAGKYjre0MgNYdUtcBuDp"
+      },
+      "artists": [
+        {
+          "name": "Garion",
+          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "\uc5b8\ub354\uadf8\ub77c\uc6b4\ub4dc",
+      "url": "https://open.spotify.com/track/4kmIEThorIgS5RewYcPgkJ"
     },
     {
       "added_at": "2024-11-20 08:34:55",

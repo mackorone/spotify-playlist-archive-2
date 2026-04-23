@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-972 songs - 2 day 8 hr 45 min
+974 songs - 2 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Goldfinger](https://open.spotify.com/track/7CxpqrpikeDO932mUdMT3D) | [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL) | [Jazz on the Rocks](https://open.spotify.com/album/5eiluKFW35SbkOipksoF8B) | 4:09 | 2023-04-20 | 2025-11-29 |
 | [GOOD FOR YOU](https://open.spotify.com/track/2uHuyQH3meGuANECYfsxOj) | [Joseph Culpepper](https://open.spotify.com/artist/59vVBRGa1W9LWAqs9UswfE) | [GOOD FOR YOU](https://open.spotify.com/album/6Nq8Ln6gGbzBLCbdaR7cNl) | 2:44 | 2025-12-15 | 2026-01-15 |
 | [goodbye, magenta.](https://open.spotify.com/track/7BNNKc24hazUDCbp1KsfJq) | [CerVon Campbell](https://open.spotify.com/artist/11BE68QWC1UePwPs7clKa5) | [LOVED](https://open.spotify.com/album/5fYZQtJI5bqjVebYOLLosn) | 3:23 | 2025-12-30 | 2026-02-03 |
+| [Grace is Gone](https://open.spotify.com/track/5QyGhIs60QO3KOVMv7X54y) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Grace is Gone](https://open.spotify.com/album/6NJPxxjLZ1gD0zNOQbKcbN) | 4:13 | 2026-04-22 |  |
 | [Grace Under Fire](https://open.spotify.com/track/6qDrIGQ2SEcdHx0H8DCrf9) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:10 | 2026-04-17 |  |
 | [Görmeseydim](https://open.spotify.com/track/3e0L8kr4FZusJbyTnufoly) | [Sefa Gümüştakım](https://open.spotify.com/artist/68pWu4Vj6PfXu7B2qYCavq) | [Görmeseydim](https://open.spotify.com/album/55pul9AWZslDTdcAduIu1u) | 2:37 | 2026-01-20 | 2026-02-20 |
 | [Habitar](https://open.spotify.com/track/0YcGS5JFK7Cfr1kxRmjeq4) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Habitar](https://open.spotify.com/album/2Nz486xwXRIxTzrpgCWSEm) | 3:40 | 2026-03-14 | 2026-04-12 |
@@ -579,7 +580,7 @@
 | [Nina the Dressmaker \(alt\. Vers\)](https://open.spotify.com/track/5KpF9K5ey1hJ8t07zKD42G) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Ma sister jumps through fire: a jazz drama](https://open.spotify.com/album/5FW6ouGwJts0HD8PfUFti9) | 4:49 | 2023-04-27 | 2025-11-29 |
 | [No Es para Ti](https://open.spotify.com/track/3KzdyeLHY03BGaflizEsUO) | [MDN](https://open.spotify.com/artist/6M7T1w0kGNqLrOdXbWZoNT), [mdn.beats](https://open.spotify.com/artist/1VFNIHRiKBm7BkpQdF2qUD) | [No Es para Ti](https://open.spotify.com/album/1VdO2ivmFAg6QyUo155F7N) | 3:10 | 2026-04-11 |  |
 | [No Kings](https://open.spotify.com/track/15E5RPanamaDv4eW8nmkPl) | [Hariyono](https://open.spotify.com/artist/1mX3tMoN3V0gl2mUk79o5T) | [No Kings](https://open.spotify.com/album/5BOKRHvfad5v80hpna7T43) | 2:14 | 2026-04-10 |  |
-| [No More Chains to Hold Us \(From "Unliked"\)](https://open.spotify.com/track/52rXrALwA36lCsqEyjjwAc) | [Gonzalo Perales Roy](https://open.spotify.com/artist/6AnX8950eF5AnppQ3lRCBc), [Gonçal Perales](https://open.spotify.com/artist/66mfK9wH1pGIyiHG29aLtv), [Alex Flores](https://open.spotify.com/artist/6x1uNga2exZAAlQxMVHNUK) | [Short Films, Vol\. 3](https://open.spotify.com/album/08YDzbe8bNIgXORZt73VUB) | 2:29 | 2026-04-20 |  |
+| [No More Chains to Hold Us \(From "Unliked"\)](https://open.spotify.com/track/52rXrALwA36lCsqEyjjwAc) | [Gonçal Perales](https://open.spotify.com/artist/66mfK9wH1pGIyiHG29aLtv), [Alex Flores](https://open.spotify.com/artist/6x1uNga2exZAAlQxMVHNUK) | [Short Films, Vol\. 3](https://open.spotify.com/album/08YDzbe8bNIgXORZt73VUB) | 2:29 | 2026-04-20 |  |
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2026-03-02 | 2026-03-25 |
 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2026-02-22 | 2026-03-25 |
 | [Noah \- Radio Edit](https://open.spotify.com/track/1x58z8IfXZpTsWWqJaHV1B) | [Bob Birthisel](https://open.spotify.com/artist/4uc4QBJqxmjH3I6QnA3IdT), [Phil Keaggy](https://open.spotify.com/artist/1bAzlT6fMBcvCfwgh4S3Xl) | [Noah \(Radio Edit\)](https://open.spotify.com/album/4OUb2YjMiE9fRJAGiNpFKk) | 4:20 | 2025-10-06 | 2025-11-29 |
@@ -857,6 +858,7 @@
 | [Three Hundred \- Slowed Down + Reverbed](https://open.spotify.com/track/4Yud8mlM573dunsyLWUPeO) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Three Hundred \(Slowed Down + Reverbed\)](https://open.spotify.com/album/6S2dESE9edCXEGVukeQzCw) | 4:40 | 2026-01-02 | 2026-02-03 |
 | [Three Hundred \- Sped Up + Reverbed](https://open.spotify.com/track/2dofgWgFXmYPXhPLai8WQh) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Three Hundred \(Sped Up + Reverbed\)](https://open.spotify.com/album/7IB5wBe0uLtuuxrFwYl30F) | 3:40 | 2026-01-05 | 2026-02-03 |
 | [Three woman in jail](https://open.spotify.com/track/47Hbxy6DYS21ZjwcujRtMh) | [Aton O'Cat](https://open.spotify.com/artist/7ieJ9uNgDXeg3GzVcI1oMm), [Goran Vedriš](https://open.spotify.com/artist/3o1XYZQEkAhsOaYuz87ojd) | [Three woman in jail](https://open.spotify.com/album/35tCEptF8FdvmYdza8vIWx) | 2:55 | 2026-01-19 | 2026-02-20 |
+| [Throne](https://open.spotify.com/track/5A2VNGomqev230PjCu02Nq) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Throne](https://open.spotify.com/album/6GhuTJMvb8Yc0PA6jotClj) | 4:20 | 2026-04-22 |  |
 | [Ti Abbraccio](https://open.spotify.com/track/4ro107oVcj3Lee2sRpONUG) | [Giofly](https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp) | [Ti Abbraccio](https://open.spotify.com/album/0ce9BeLdWPndy8MlXIBoWP) | 3:48 | 2026-04-19 |  |
 | [Ti aspetterò per anni \- Demo](https://open.spotify.com/track/67FrejNz20wZwatCbcnSwa) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Ti aspetterò per anni \(Demo\)](https://open.spotify.com/album/5FTqGok8ZgiualuvwjjfrF) | 3:21 | 2025-12-29 | 2026-01-24 |
 | [Ticket To The Moon](https://open.spotify.com/track/6j5upLhN41mzpAwK3NWFrv) | [Earth Zep Tepi](https://open.spotify.com/artist/5rrEyXFSwau2wwN0JcrRLh), [420 Sir$mokealot](https://open.spotify.com/artist/4K1wW4mswgXDZUks88Up8O) | [Ticket To The Moon](https://open.spotify.com/album/1VpdLVkm6TIixsUtU68qnp) | 2:57 | 2025-11-14 | 2025-12-21 |

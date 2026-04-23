@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  miaw
 
-413 songs - 21 hr 7 min
+414 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 | 2025-01-23 |  |
 | [Klubben \(i Klubben\) \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/2jlxBDCYsN3jdKqA7EviyG) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Klubben \(i Klubben\)](https://open.spotify.com/album/2yxOclgOPNKkEJ5rC5OQ1j) | 2:51 | 2024-06-27 | 2024-08-05 |
 | [Kom Jeg Lidt For Tæt På](https://open.spotify.com/track/2LX5B1o9HEewHqutr10e55) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [Kom Jeg Lidt For Tæt På](https://open.spotify.com/album/6DnlVV0aiAROgRYI3LZvfs) | 3:09 | 2025-03-27 | 2025-04-04 |
-| [Kommet Videre](https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Kommet Videre](https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP) | 2:21 | 2025-10-16 |  |
+| [Kommet Videre](https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Kommet Videre](https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP) | 2:21 | 2025-10-16 | 2026-04-23 |
 | [Krystalklart Kaos](https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr \- Del 1](https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0) | 3:35 | 2024-10-10 | 2025-05-11 |
 | [Kun For Festerne](https://open.spotify.com/track/5BcjRKsn31CzIz1K72LpZN) | [FØNS](https://open.spotify.com/artist/2f7J0tvrmhyRViGRtMnTfi) | [Kun For Festerne](https://open.spotify.com/album/1KfQdQcjuTtKTjxIGBTWmn) | 2:39 | 2025-06-26 | 2025-09-05 |
 | [KUN FOR HENDE](https://open.spotify.com/track/00det1fLbLgM0Q3ECIL3S4) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [KUN FOR HENDE](https://open.spotify.com/album/7M4x51QpouLVWnVPIRhRGW) | 2:32 | 2026-03-05 | 2026-03-28 |
@@ -222,6 +222,7 @@
 | [Lad Dig Gå](https://open.spotify.com/track/5aLQybTzAGTgbY9QFkMzMH) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Lad Dig Gå](https://open.spotify.com/album/2e4MVybCUxC94Ic5obJPvA) | 2:57 | 2025-04-17 | 2025-08-01 |
 | [Lander Et Sted](https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Lander Et Sted](https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF) | 2:53 | 2024-06-27 | 2025-02-23 |
 | [Last Time](https://open.spotify.com/track/7MvfWJfnXqdYZFrkslgEW3) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Last Time](https://open.spotify.com/album/76zoFSv7yICfy6aHAqw3a5) | 2:42 | 2025-06-05 | 2025-06-13 |
+| [Let It Ripe](https://open.spotify.com/track/0xE6EgmDrk46jpPvUwzTY1) | [The Bird](https://open.spotify.com/artist/0VToPtDRTYvKFpUYh1IIOn) | [Let It Ripe](https://open.spotify.com/album/3WnOw1wygEU7BRmG9trnRC) | 2:22 | 2026-04-16 |  |
 | [Let Love In](https://open.spotify.com/track/2l6KDYpelKHRRRJDI575rR) | [Jaleesa](https://open.spotify.com/artist/6vITjiBPBg3AzBES4OM7h4) | [Sodalite](https://open.spotify.com/album/3zI4SVPWaD16mLD9MTuS1S) | 4:08 | 2025-10-09 | 2025-10-30 |
 | [Levende Billeder](https://open.spotify.com/track/586R54PZL7ylXFu9UIiPTx) | [Carl Emil Petersen](https://open.spotify.com/artist/110Rr0Zj9wSL6vOlh9DEyW) | [Amager Forbrænding](https://open.spotify.com/album/4Bkf4gR14UujSaNy6WlX8H) | 3:04 | 2024-07-11 | 2024-08-18 |
 | [Life Witness](https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Life Witness](https://open.spotify.com/album/0CB8vDMfO66UUAIaOskgUm) | 2:25 | 2025-01-30 | 2025-07-24 |

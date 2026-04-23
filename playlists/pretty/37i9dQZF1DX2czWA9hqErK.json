@@ -1,6 +1,6 @@
 {
   "description": "Soft edges and slow motion moments \ud83e\udeb4",
-  "num_followers": 1325223,
+  "num_followers": 1325155,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "ROOM UNDER THE STAIRS",
-        "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 232380,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "FOREVER AGAIN",
         "url": "https://open.spotify.com/album/0j9WkluXe8I6DNPWyYTevQ"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 160147,
       "name": "FOREVER AGAIN",
       "url": "https://open.spotify.com/track/3CVQG2E6CL91pTeggbJOSj"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "ROOM UNDER THE STAIRS",
+        "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 232380,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 232360,
-      "name": "Frances",
-      "url": "https://open.spotify.com/track/1aWgq6UfTHralw5xL1Drs0"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Don't Put It All On Me (feat. Fleet Foxes)",
         "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 247306,
       "name": "Don't Put It All On Me (feat. Fleet Foxes)",
       "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 232360,
+      "name": "Frances",
+      "url": "https://open.spotify.com/track/1aWgq6UfTHralw5xL1Drs0"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Solar Power (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 171594,
-      "name": "Helen of Troy - Bonus Track",
-      "url": "https://open.spotify.com/track/5luI0qmsWNYRRTJCWn8rcb"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Where Were You",
         "url": "https://open.spotify.com/album/5qbZtAhc1eF1mdImrJlKIs"
       },
@@ -715,18 +699,34 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Old Man",
-        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
+        "name": "Solar Power (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 207242,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
+      "duration_ms": 171594,
+      "name": "Helen of Troy - Bonus Track",
+      "url": "https://open.spotify.com/track/5luI0qmsWNYRRTJCWn8rcb"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "No Way To Relax When You Are On Fire",
+        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "No Way To Relax When You Are On Fire",
+      "url": "https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -747,18 +747,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "No Way To Relax When You Are On Fire",
-        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
       },
       "artists": [
         {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 242240,
-      "name": "No Way To Relax When You Are On Fire",
-      "url": "https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc"
+      "duration_ms": 207242,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Teenage Love",
-        "url": "https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 261586,
-      "name": "Teenage Love",
-      "url": "https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Light hit my face like a straight right",
         "url": "https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 212043,
       "name": "Horses",
       "url": "https://open.spotify.com/track/3l9qqtfWLOkFvvLB570maZ"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Teenage Love",
+        "url": "https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 261586,
+      "name": "Teenage Love",
+      "url": "https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "It's Fine",
-        "url": "https://open.spotify.com/album/1p20UtXFNNv5DQDTsp1D4R"
-      },
-      "artists": [
-        {
-          "name": "Junes",
-          "url": "https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "It's Fine",
-      "url": "https://open.spotify.com/track/37aMREVDR0UxvOMjWJoIAY"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Made It Happen",
         "url": "https://open.spotify.com/album/2sLnGoVVwoK6ckcM4JPRwG"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 239080,
       "name": "Made It Happen",
       "url": "https://open.spotify.com/track/72uExfJ4uroHaNJyQqTHIX"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "It's Fine",
+        "url": "https://open.spotify.com/album/1p20UtXFNNv5DQDTsp1D4R"
+      },
+      "artists": [
+        {
+          "name": "Junes",
+          "url": "https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "It's Fine",
+      "url": "https://open.spotify.com/track/37aMREVDR0UxvOMjWJoIAY"
     }
   ],
   "unique_name": "Easy",

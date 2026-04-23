@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring Collect 200. Curated by human Spotify editors. \n",
-  "num_followers": 212165,
+  "num_followers": 212189,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABBrUrLBxg5BJAyNUliP7C6Oj0Bm",
+  "snapshot_id": "AAAAAIgH0Ph9tHxYIsfLHU4v8j9qMJTh",
   "tracks": [
     {
       "added_at": "2026-04-15 17:24:57",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
     },
     {
+      "added_at": "2026-04-22 17:32:04",
+      "album": {
+        "name": "finest girl",
+        "url": "https://open.spotify.com/album/1Pk4rkbCOiI8CuVtVul5tu"
+      },
+      "artists": [
+        {
+          "name": "Aki Oke",
+          "url": "https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv"
+        }
+      ],
+      "duration_ms": 154232,
+      "name": "finest girl",
+      "url": "https://open.spotify.com/track/2hoksN8fT30jKOYqVeqCth"
+    },
+    {
       "added_at": "2026-04-03 04:02:29",
       "album": {
         "name": "TU",
@@ -41,116 +57,44 @@
       "url": "https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN"
     },
     {
-      "added_at": "2026-04-17 04:02:50",
+      "added_at": "2026-04-22 17:32:04",
       "album": {
-        "name": "Mic Killa",
-        "url": "https://open.spotify.com/album/0ZLffPqxvXaRFpDrQkK80o"
+        "name": "Crazy On My Mind",
+        "url": "https://open.spotify.com/album/12hAYV2aowo2CYMYtbFzbQ"
       },
       "artists": [
         {
-          "name": "Headstorm",
-          "url": "https://open.spotify.com/artist/4fd2RsyH7o4ZHLhRwsMwow"
-        }
-      ],
-      "duration_ms": 228934,
-      "name": "Mic Killa",
-      "url": "https://open.spotify.com/track/61qPPslPbFPgCxyKHg0hVk"
-    },
-    {
-      "added_at": "2026-04-15 17:24:57",
-      "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/0x91e6MfHNAyBaytxCFV4c"
-      },
-      "artists": [
+          "name": "chriz javey",
+          "url": "https://open.spotify.com/artist/4n545NeyanWohXT6Ku1Br8"
+        },
         {
-          "name": "Elroy (AUS)",
-          "url": "https://open.spotify.com/artist/6DiRok1NmemDiXM5SVIgXp"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/44UvUDywsREUPPGuJF0z73"
-    },
-    {
-      "added_at": "2026-04-17 04:02:50",
-      "album": {
-        "name": "Fix It",
-        "url": "https://open.spotify.com/album/7qXPopiabkvOGzyUKHowgq"
-      },
-      "artists": [
+          "name": "1981 Tokyo",
+          "url": "https://open.spotify.com/artist/6meknouY1caCQg3ZxvrPdt"
+        },
         {
-          "name": "Nat Kara",
-          "url": "https://open.spotify.com/artist/45JSk7XvIJijTo2Kc8Nzfj"
+          "name": "Shaolinn",
+          "url": "https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q"
         }
       ],
-      "duration_ms": 180117,
-      "name": "Fix It",
-      "url": "https://open.spotify.com/track/2P2hfZzVcEv3bUjC2E3AZX"
-    },
-    {
-      "added_at": "2026-04-10 04:02:22",
-      "album": {
-        "name": "Snakebite Boogie EP",
-        "url": "https://open.spotify.com/album/65kPQwCvSFLJndDg9zJTOv"
-      },
-      "artists": [
-        {
-          "name": "Mellizos",
-          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
-        }
-      ],
-      "duration_ms": 211355,
-      "name": "Snakebite Boogie",
-      "url": "https://open.spotify.com/track/3Tokd2H9xxDzkvKVahm6tc"
+      "duration_ms": 181818,
+      "name": "Crazy On My Mind",
+      "url": "https://open.spotify.com/track/19kFxiDnQNbXLIXMQ2RDva"
     },
     {
       "added_at": "2026-03-18 17:43:09",
       "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3"
+        "name": "GTFU",
+        "url": "https://open.spotify.com/album/5jLlh1dm37OduWtv69Ouam"
       },
       "artists": [
         {
-          "name": "Ben Van Kuringen",
-          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
+          "name": "Wal",
+          "url": "https://open.spotify.com/artist/349ZnULvoYVFB1lIOedjkc"
         }
       ],
-      "duration_ms": 195692,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW"
-    },
-    {
-      "added_at": "2026-04-15 17:24:57",
-      "album": {
-        "name": "Kinesis / Get Up N Dance",
-        "url": "https://open.spotify.com/album/2rr3B4LbCkTqk5RY6T9jsJ"
-      },
-      "artists": [
-        {
-          "name": "Jordan George",
-          "url": "https://open.spotify.com/artist/4AVZ1AsKWbzEc50djOcn2w"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Kinesis - Short Mix",
-      "url": "https://open.spotify.com/track/2JiASV4tYTbbB45lUJySdq"
-    },
-    {
-      "added_at": "2026-04-08 16:58:31",
-      "album": {
-        "name": "Left Foot Right Foot",
-        "url": "https://open.spotify.com/album/2szB8PZLwss07ai7hy6GMz"
-      },
-      "artists": [
-        {
-          "name": "Tommy Gold",
-          "url": "https://open.spotify.com/artist/2AUIc8LBUY3YOJanUGnFoR"
-        }
-      ],
-      "duration_ms": 163004,
-      "name": "Left Foot Right Foot",
-      "url": "https://open.spotify.com/track/4NqzQ8jpz7YmET9fOAlOB1"
+      "duration_ms": 230551,
+      "name": "What Ya Got",
+      "url": "https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055"
     },
     {
       "added_at": "2026-04-18 00:48:32",
@@ -173,6 +117,150 @@
       "url": "https://open.spotify.com/track/5B0XGW3FOwqAPiXMWBOiYC"
     },
     {
+      "added_at": "2026-04-15 17:24:57",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/0x91e6MfHNAyBaytxCFV4c"
+      },
+      "artists": [
+        {
+          "name": "Elroy (AUS)",
+          "url": "https://open.spotify.com/artist/6DiRok1NmemDiXM5SVIgXp"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/44UvUDywsREUPPGuJF0z73"
+    },
+    {
+      "added_at": "2026-04-01 16:59:55",
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/5Zr1RpCtSSjJSQLvFYJXSb"
+      },
+      "artists": [
+        {
+          "name": "Ontonic",
+          "url": "https://open.spotify.com/artist/2ubj9n9jrEgvG6pbegX06x"
+        }
+      ],
+      "duration_ms": 227527,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/6u5uJUkN4Virf2lLxRCcve"
+    },
+    {
+      "added_at": "2026-04-22 17:32:04",
+      "album": {
+        "name": "No Bad Trips",
+        "url": "https://open.spotify.com/album/3AngFwNxlTz9Byb8TzLpaf"
+      },
+      "artists": [
+        {
+          "name": "Birthday in Texas",
+          "url": "https://open.spotify.com/artist/35SYTkkKBjuA75X0FoLRjA"
+        }
+      ],
+      "duration_ms": 132985,
+      "name": "No Bad Trips",
+      "url": "https://open.spotify.com/track/5L1jMPd94KbotvZRtA7dJH"
+    },
+    {
+      "added_at": "2026-04-17 04:02:50",
+      "album": {
+        "name": "Fix It",
+        "url": "https://open.spotify.com/album/7qXPopiabkvOGzyUKHowgq"
+      },
+      "artists": [
+        {
+          "name": "Nat Kara",
+          "url": "https://open.spotify.com/artist/45JSk7XvIJijTo2Kc8Nzfj"
+        }
+      ],
+      "duration_ms": 180117,
+      "name": "Fix It",
+      "url": "https://open.spotify.com/track/2P2hfZzVcEv3bUjC2E3AZX"
+    },
+    {
+      "added_at": "2026-03-18 17:43:09",
+      "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3"
+      },
+      "artists": [
+        {
+          "name": "Ben Van Kuringen",
+          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW"
+    },
+    {
+      "added_at": "2026-04-22 17:32:04",
+      "album": {
+        "name": "Can You Feel The Heat",
+        "url": "https://open.spotify.com/album/6C1hJiiURrI2eMgdNtvhGP"
+      },
+      "artists": [
+        {
+          "name": "S3PPA",
+          "url": "https://open.spotify.com/artist/0sIB3PokRCqqllNuzZ38NO"
+        }
+      ],
+      "duration_ms": 373714,
+      "name": "Can You Feel The Heat",
+      "url": "https://open.spotify.com/track/2q1DSNVu90P1ecl8cpaAN9"
+    },
+    {
+      "added_at": "2026-04-17 04:02:50",
+      "album": {
+        "name": "Mic Killa",
+        "url": "https://open.spotify.com/album/0ZLffPqxvXaRFpDrQkK80o"
+      },
+      "artists": [
+        {
+          "name": "Headstorm",
+          "url": "https://open.spotify.com/artist/4fd2RsyH7o4ZHLhRwsMwow"
+        }
+      ],
+      "duration_ms": 228934,
+      "name": "Mic Killa",
+      "url": "https://open.spotify.com/track/61qPPslPbFPgCxyKHg0hVk"
+    },
+    {
+      "added_at": "2026-04-10 04:02:22",
+      "album": {
+        "name": "Snakebite Boogie EP",
+        "url": "https://open.spotify.com/album/65kPQwCvSFLJndDg9zJTOv"
+      },
+      "artists": [
+        {
+          "name": "Mellizos",
+          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
+        }
+      ],
+      "duration_ms": 211355,
+      "name": "Snakebite Boogie",
+      "url": "https://open.spotify.com/track/3Tokd2H9xxDzkvKVahm6tc"
+    },
+    {
+      "added_at": "2026-04-08 16:58:31",
+      "album": {
+        "name": "Left Foot Right Foot",
+        "url": "https://open.spotify.com/album/2szB8PZLwss07ai7hy6GMz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Gold",
+          "url": "https://open.spotify.com/artist/2AUIc8LBUY3YOJanUGnFoR"
+        }
+      ],
+      "duration_ms": 163004,
+      "name": "Left Foot Right Foot",
+      "url": "https://open.spotify.com/track/4NqzQ8jpz7YmET9fOAlOB1"
+    },
+    {
       "added_at": "2026-04-17 04:02:50",
       "album": {
         "name": "Taka Taka",
@@ -189,20 +277,20 @@
       "url": "https://open.spotify.com/track/72BJos9sh1LYO8zt57OH0a"
     },
     {
-      "added_at": "2026-03-18 17:43:09",
+      "added_at": "2026-04-15 17:24:57",
       "album": {
-        "name": "GTFU",
-        "url": "https://open.spotify.com/album/5jLlh1dm37OduWtv69Ouam"
+        "name": "Kinesis / Get Up N Dance",
+        "url": "https://open.spotify.com/album/2rr3B4LbCkTqk5RY6T9jsJ"
       },
       "artists": [
         {
-          "name": "Wal",
-          "url": "https://open.spotify.com/artist/349ZnULvoYVFB1lIOedjkc"
+          "name": "Jordan George",
+          "url": "https://open.spotify.com/artist/4AVZ1AsKWbzEc50djOcn2w"
         }
       ],
-      "duration_ms": 230551,
-      "name": "What Ya Got",
-      "url": "https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055"
+      "duration_ms": 233333,
+      "name": "Kinesis - Short Mix",
+      "url": "https://open.spotify.com/track/2JiASV4tYTbbB45lUJySdq"
     },
     {
       "added_at": "2026-04-15 17:24:57",
@@ -223,22 +311,6 @@
       "duration_ms": 366502,
       "name": "Summer Card",
       "url": "https://open.spotify.com/track/3Q0LhQkqusn71J7kkxcIZS"
-    },
-    {
-      "added_at": "2026-04-01 16:59:55",
-      "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/5Zr1RpCtSSjJSQLvFYJXSb"
-      },
-      "artists": [
-        {
-          "name": "Ontonic",
-          "url": "https://open.spotify.com/artist/2ubj9n9jrEgvG6pbegX06x"
-        }
-      ],
-      "duration_ms": 227527,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/6u5uJUkN4Virf2lLxRCcve"
     },
     {
       "added_at": "2026-04-08 16:58:31",
@@ -645,58 +717,6 @@
       "url": "https://open.spotify.com/track/05sEHLouKqQvs0ShE4tWbD"
     },
     {
-      "added_at": "2026-03-11 17:10:27",
-      "album": {
-        "name": "We Don't Stop",
-        "url": "https://open.spotify.com/album/2OWNphT68OUX47HOG418yM"
-      },
-      "artists": [
-        {
-          "name": "Dodi",
-          "url": "https://open.spotify.com/artist/4EnqNMAlxI4dewzlGdBCTE"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "We Don't Stop",
-      "url": "https://open.spotify.com/track/6fnbDKCey6fvF65hYhnJDc"
-    },
-    {
-      "added_at": "2026-03-18 17:43:09",
-      "album": {
-        "name": "PUT YOUR USB IN MY CDJ",
-        "url": "https://open.spotify.com/album/2SIrZvQPHfL7dHvbrrwFH3"
-      },
-      "artists": [
-        {
-          "name": "VON DI",
-          "url": "https://open.spotify.com/artist/18DtMa3kSXz1ziUhSJrTZT"
-        }
-      ],
-      "duration_ms": 168701,
-      "name": "PUT YOUR USB IN MY CDJ",
-      "url": "https://open.spotify.com/track/3ABAbdoy3EJLKeGevwuJeK"
-    },
-    {
-      "added_at": "2026-03-18 17:43:09",
-      "album": {
-        "name": "Laser Beams",
-        "url": "https://open.spotify.com/album/14igiMIUMS40wKZgr28UxO"
-      },
-      "artists": [
-        {
-          "name": "Henk",
-          "url": "https://open.spotify.com/artist/5yt5ZGD6Q2FfK1Elw2Efbv"
-        },
-        {
-          "name": "August Kind",
-          "url": "https://open.spotify.com/artist/45jDjvNOeGVJkKfEwRgxhP"
-        }
-      ],
-      "duration_ms": 190451,
-      "name": "Laser Beams",
-      "url": "https://open.spotify.com/track/3VEfoWGnWD09ZnQlVKKGHa"
-    },
-    {
       "added_at": "2026-03-18 17:43:09",
       "album": {
         "name": "Keep It Movin'",
@@ -779,26 +799,6 @@
       "duration_ms": 108945,
       "name": "BD Baile",
       "url": "https://open.spotify.com/track/6Il2m8E46J4fu1WFbrIKfE"
-    },
-    {
-      "added_at": "2026-02-26 18:54:06",
-      "album": {
-        "name": "Daddy's Got A Gun",
-        "url": "https://open.spotify.com/album/6rcpBsXMlpZ7hCGKFGlum0"
-      },
-      "artists": [
-        {
-          "name": "Allnight",
-          "url": "https://open.spotify.com/artist/0s8cHQ7qsebgXl9G5QvwOK"
-        },
-        {
-          "name": "L0-G",
-          "url": "https://open.spotify.com/artist/141tVOTrAyMU3VdELgMMqP"
-        }
-      ],
-      "duration_ms": 208372,
-      "name": "Daddy's Got A Gun",
-      "url": "https://open.spotify.com/track/5lTLXjOzbA9MAregavAu0U"
     },
     {
       "added_at": "2026-03-13 04:00:43",

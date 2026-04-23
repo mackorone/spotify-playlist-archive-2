@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: MAIASAURA",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: NOVARA NYX",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -4070,7 +4070,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 254722,
       "name": "Dying Son",
       "url": "https://open.spotify.com/track/0PrFpMByl3SoBNx8GwgGDz"
@@ -4182,7 +4182,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 146601,
       "name": "Echoes of May",
       "url": "https://open.spotify.com/track/2QQXN8gSbW2LMAbFZHP9q4"
@@ -5700,7 +5700,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 226380,
       "name": "Glare",
       "url": "https://open.spotify.com/track/0QgCjOPLRaCPMDbpwNAV4U"
@@ -6541,6 +6541,32 @@
     },
     {
       "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/0hErd93mwPhw5sGcggVmhK"
+      },
+      "artists": [
+        {
+          "name": "Prince Of Failure",
+          "url": "https://open.spotify.com/artist/4m3CUQmjdcjkYYS3MNUBS8"
+        },
+        {
+          "name": "Daniel Tompkins",
+          "url": "https://open.spotify.com/artist/5n5iBDC9dOljWGwj7BrdZt"
+        },
+        {
+          "name": "Paul Ortiz",
+          "url": "https://open.spotify.com/artist/3YDZDmOmdEaywtM8O3HMsa"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307293,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/3mU1u8CWGW0Fom3Jm9o2YY"
+    },
+    {
+      "album": {
         "name": "Horizon Of Spikes",
         "url": "https://open.spotify.com/album/5KUno95fDG555aIRIt7mC7"
       },
@@ -6592,6 +6618,24 @@
       "duration_ms": 216151,
       "name": "Host",
       "url": "https://open.spotify.com/track/6MP0zsi25mgQafDXkLCUOD"
+    },
+    {
+      "album": {
+        "name": "A Love I Hope Will Haunt Me Forever",
+        "url": "https://open.spotify.com/album/2cl6ZM8bBiMerOxDfbN87j"
+      },
+      "artists": [
+        {
+          "name": "Midwinter",
+          "url": "https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267042,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/5zxllKP6BctpNXNUSn8Uwp"
     },
     {
       "album": {
@@ -7785,6 +7829,24 @@
     },
     {
       "album": {
+        "name": "Leech",
+        "url": "https://open.spotify.com/album/4nwevfBEXZ49kbcAbivuo4"
+      },
+      "artists": [
+        {
+          "name": "What Lies Below",
+          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130065,
+      "name": "Leech",
+      "url": "https://open.spotify.com/track/7t8LIf1JmKKigK3dnrEesY"
+    },
+    {
+      "album": {
         "name": "Leglock",
         "url": "https://open.spotify.com/album/73tP2HhzzfVMIDxB0pu1Rb"
       },
@@ -8135,6 +8197,24 @@
     },
     {
       "album": {
+        "name": "Lost In The Dark",
+        "url": "https://open.spotify.com/album/5bRtxStorMIgntGGGkqPce"
+      },
+      "artists": [
+        {
+          "name": "NOVARA NYX",
+          "url": "https://open.spotify.com/artist/33Bd6UaMyCd0XFmKge3f7m"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227404,
+      "name": "Lost In The Dark",
+      "url": "https://open.spotify.com/track/10GPCLxhVDFn9qKrbuK0AM"
+    },
+    {
+      "album": {
         "name": "LOTUS",
         "url": "https://open.spotify.com/album/119tys0tH16SxmySVdx9oF"
       },
@@ -8312,7 +8392,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 250695,
       "name": "Lying Figures",
       "url": "https://open.spotify.com/track/21I8rQSWJBXKVgQHS20zCU"
@@ -9966,7 +10046,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 205384,
       "name": "Pale Shadow",
       "url": "https://open.spotify.com/track/6foUpoZ99QPkjPdzoBgyJz"
@@ -10172,6 +10252,24 @@
       "duration_ms": 281900,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/6ApxGWwWsiNukJAaMXWkN8"
+    },
+    {
+      "album": {
+        "name": "PIECES OF MY HEART",
+        "url": "https://open.spotify.com/album/3lji38RxXnPPzztd3neDxd"
+      },
+      "artists": [
+        {
+          "name": "Sorry X",
+          "url": "https://open.spotify.com/artist/1iUS1TbK8JyjsC4ZhMRzaT"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "PIECES OF MY HEART",
+      "url": "https://open.spotify.com/track/1MQbr45KnM0T0gEFvY4Nkr"
     },
     {
       "album": {
@@ -10932,10 +11030,28 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 115598,
       "name": "Safety On",
       "url": "https://open.spotify.com/track/6fOYgQP1teXtqPk9JdSFva"
+    },
+    {
+      "album": {
+        "name": "Khaos",
+        "url": "https://open.spotify.com/album/6DsZseUKXLpOi6P94pEExL"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1u1DkbYSAOpAWeBir7TEUV"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216554,
+      "name": "Salade de Phalanges",
+      "url": "https://open.spotify.com/track/2zzAvXPkq2PE0raC3AVIGI"
     },
     {
       "album": {
@@ -11478,7 +11594,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 184640,
       "name": "Sharp Teeth",
       "url": "https://open.spotify.com/track/2iruoTNGENcCv0UtfRuN81"
@@ -14268,6 +14384,24 @@
       "duration_ms": 343405,
       "name": "Waging War Against God",
       "url": "https://open.spotify.com/track/5waQ7NyOgTOqwdEI4TyB7Y"
+    },
+    {
+      "album": {
+        "name": "Waiting Here",
+        "url": "https://open.spotify.com/album/1dMWBLSNNSG4MS5dZjcfY2"
+      },
+      "artists": [
+        {
+          "name": "OHKAYA",
+          "url": "https://open.spotify.com/artist/4uhsmjBwCLRupPcYGK5CTg"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313759,
+      "name": "Waiting Here",
+      "url": "https://open.spotify.com/track/1MnLc6fFKTFkfBuGE0XRgh"
     },
     {
       "album": {

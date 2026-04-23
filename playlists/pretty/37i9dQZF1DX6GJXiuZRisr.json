@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1612943,
+  "num_followers": 1613005,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,30 @@
     {
       "added_at": "2026-04-17 04:01:13",
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Saksham",
+          "url": "https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF"
+        },
+        {
+          "name": "sadHAPPY",
+          "url": "https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T"
+    },
+    {
+      "added_at": "2026-04-17 04:01:13",
+      "album": {
         "name": "Tidal Wave",
         "url": "https://open.spotify.com/album/7qPWRxHCpAciE2ZmHaFamE"
       },
@@ -971,26 +995,6 @@
       "duration_ms": 184620,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/0Ec7CMUXnfpSCZsJL26lhS"
-    },
-    {
-      "added_at": "2026-04-17 04:01:13",
-      "album": {
-        "name": "Super Powers",
-        "url": "https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Super Powers",
-      "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
     },
     {
       "added_at": "2026-04-17 04:01:13",
@@ -1051,6 +1055,26 @@
     {
       "added_at": "2026-04-17 04:01:13",
       "album": {
+        "name": "Super Powers",
+        "url": "https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Super Powers",
+      "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
+    },
+    {
+      "added_at": "2026-04-17 04:01:13",
+      "album": {
         "name": "Tibet",
         "url": "https://open.spotify.com/album/1AEnheMsQcR7yzsAJLh9dm"
       },
@@ -1063,30 +1087,6 @@
       "duration_ms": 219566,
       "name": "Tibet",
       "url": "https://open.spotify.com/track/0iVIz19bKMM87UUOkBWoJa"
-    },
-    {
-      "added_at": "2026-04-17 04:01:13",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Saksham",
-          "url": "https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF"
-        },
-        {
-          "name": "sadHAPPY",
-          "url": "https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T"
     },
     {
       "added_at": "2026-04-17 04:01:13",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-04-17 04:01:13",
       "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
+    },
+    {
+      "added_at": "2026-04-17 04:01:13",
+      "album": {
         "name": "Attraction (Marsh's Mix)",
         "url": "https://open.spotify.com/album/1DOvj0TbwyTUTlKzZJD18w"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 285797,
       "name": "Attraction - Marsh's Mix",
       "url": "https://open.spotify.com/track/0lqQP09YJFxYPd5M0AUTJc"
-    },
-    {
-      "added_at": "2026-04-17 04:01:13",
-      "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
     },
     {
       "added_at": "2026-04-17 04:01:13",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-04-17 04:01:13",
       "album": {
+        "name": "My Love For You",
+        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "duration_ms": 173587,
+      "name": "My Love For You",
+      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
+    },
+    {
+      "added_at": "2026-04-17 04:01:13",
+      "album": {
         "name": "London To Buenos Aires",
         "url": "https://open.spotify.com/album/23voORn42hd5caxnLbTJwy"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 185943,
       "name": "London To Buenos Aires",
       "url": "https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg"
-    },
-    {
-      "added_at": "2026-04-17 04:01:13",
-      "album": {
-        "name": "My Love For You",
-        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        }
-      ],
-      "duration_ms": 173587,
-      "name": "My Love For You",
-      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
     },
     {
       "added_at": "2026-04-17 04:01:13",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2026-04-17 04:01:13",
       "album": {
-        "name": "Never Be The Same",
-        "url": "https://open.spotify.com/album/1kHn05ayh73VUcRhot9lGs"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "RHODES",
-          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
-        }
-      ],
-      "duration_ms": 218095,
-      "name": "Never Be The Same",
-      "url": "https://open.spotify.com/track/0IuHs8T0ZqUeJmhO04LLcl"
-    },
-    {
-      "added_at": "2026-04-17 04:01:13",
-      "album": {
         "name": "Drop That Beat",
         "url": "https://open.spotify.com/album/5HSSnZBsoHxq1Ch7LH9niU"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 208915,
       "name": "Drop That Beat",
       "url": "https://open.spotify.com/track/1zdpuot7uYIIPUAqKUcMap"
+    },
+    {
+      "added_at": "2026-04-17 04:01:13",
+      "album": {
+        "name": "Never Be The Same",
+        "url": "https://open.spotify.com/album/1kHn05ayh73VUcRhot9lGs"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "RHODES",
+          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
+        }
+      ],
+      "duration_ms": 218095,
+      "name": "Never Be The Same",
+      "url": "https://open.spotify.com/track/0IuHs8T0ZqUeJmhO04LLcl"
     },
     {
       "added_at": "2026-04-17 04:01:13",
@@ -1791,22 +1791,26 @@
     {
       "added_at": "2026-04-17 04:01:13",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk"
+        "name": "Now We Are Free (B Jones Remix)",
+        "url": "https://open.spotify.com/album/57f75W90HKQrPNKXLkU4kf"
       },
       "artists": [
         {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+          "name": "Elysian",
+          "url": "https://open.spotify.com/artist/6IPtgWMGTP1ZVcfMeo0XlO"
         },
         {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
         }
       ],
-      "duration_ms": 184615,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx"
+      "duration_ms": 210490,
+      "name": "Now We Are Free - B Jones Remix",
+      "url": "https://open.spotify.com/track/1J8k92DuKPAmJEOfKmCTYQ"
     },
     {
       "added_at": "2026-04-17 04:01:13",
@@ -1831,26 +1835,22 @@
     {
       "added_at": "2026-04-17 04:01:13",
       "album": {
-        "name": "Now We Are Free (B Jones Remix)",
-        "url": "https://open.spotify.com/album/57f75W90HKQrPNKXLkU4kf"
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk"
       },
       "artists": [
         {
-          "name": "Elysian",
-          "url": "https://open.spotify.com/artist/6IPtgWMGTP1ZVcfMeo0XlO"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         },
         {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
-        },
-        {
-          "name": "B Jones",
-          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
         }
       ],
-      "duration_ms": 210490,
-      "name": "Now We Are Free - B Jones Remix",
-      "url": "https://open.spotify.com/track/1J8k92DuKPAmJEOfKmCTYQ"
+      "duration_ms": 184615,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx"
     },
     {
       "added_at": "2026-04-17 04:01:13",

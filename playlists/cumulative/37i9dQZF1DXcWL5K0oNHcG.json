@@ -8034,7 +8034,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 348216,
       "name": "Drive",
       "url": "https://open.spotify.com/track/3XeppK1Ja55D2FdyRKJgVG"
@@ -11194,7 +11194,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 292240,
       "name": "Gazons",
       "url": "https://open.spotify.com/track/3zSxSBVMO4ts1sDnVhV3O6"
@@ -16788,6 +16788,36 @@
       "duration_ms": 177000,
       "name": "Love Of The Music",
       "url": "https://open.spotify.com/track/5MhZmei40VOGR33etvD2ox"
+    },
+    {
+      "album": {
+        "name": "Powder",
+        "url": "https://open.spotify.com/album/0dsS2rebeHYFQi7KYkicEp"
+      },
+      "artists": [
+        {
+          "name": "Nathanial Young",
+          "url": "https://open.spotify.com/artist/60v3K7UhzLbEnVws8zWNBm"
+        },
+        {
+          "name": "Corey Gordon",
+          "url": "https://open.spotify.com/artist/0L1ETgZO2x7XAJSwXWTdN5"
+        },
+        {
+          "name": "Roger Hallaway",
+          "url": "https://open.spotify.com/artist/2G1gs5h7xWPt3wZ9YhQFl4"
+        },
+        {
+          "name": "Jesse Katz",
+          "url": "https://open.spotify.com/artist/79eXDYyn0sf5aTgNydpakl"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118085,
+      "name": "Love Theme from Spartacus",
+      "url": "https://open.spotify.com/track/7JYNKFdvQACKxkNJT6rVws"
     },
     {
       "album": {
@@ -24928,6 +24958,28 @@
       "duration_ms": 263213,
       "name": "Shoal",
       "url": "https://open.spotify.com/track/2jKsP66gOCm0FJKEhuZ6yd"
+    },
+    {
+      "album": {
+        "name": "Smash Combat",
+        "url": "https://open.spotify.com/album/3wb0gR13hzmsFExK0AWCEG"
+      },
+      "artists": [
+        {
+          "name": "Ping Pong Go",
+          "url": "https://open.spotify.com/artist/5C3BsAXPHbkUKm3wi8GUMG"
+        },
+        {
+          "name": "Dolphin Hyperspace",
+          "url": "https://open.spotify.com/artist/6tTZ6fX5qsm8Alc9GLwJ9q"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213011,
+      "name": "Shrala",
+      "url": "https://open.spotify.com/track/0za6Bjao6YFkxIOc6pT6fx"
     },
     {
       "album": {

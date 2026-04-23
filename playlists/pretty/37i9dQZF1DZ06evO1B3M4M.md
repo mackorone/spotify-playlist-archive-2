@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 > This is James Newton Howard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,253 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,254 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 49 | [Archer & Solomon Hike](https://open.spotify.com/track/4mbA69qFwC1NhffvpsUt5u) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Blood Diamond \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X) | 1:55 |
 | 50 | [Fantastic Beasts Theme \- Solo Piano](https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 1:37 |
 
-Snapshot ID: `aeVsgAAAAACdr8NEy4BXd+hEjvFadFRH`
+Snapshot ID: `aeVsgAAAAABpRN8hp1aX2l1JbaeBXjx5`

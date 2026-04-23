@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Lani Rose",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Madalyn Rae",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/0ZzCkWtTyM8GJkWGy1FuUC"
+      },
+      "artists": [
+        {
+          "name": "Lady Audri",
+          "url": "https://open.spotify.com/artist/75HzJOTVySISxmtIxZnqke"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178947,
+      "name": "Alabaster Box",
+      "url": "https://open.spotify.com/track/01ij7XzZi6PZK020XL2faE"
+    },
+    {
+      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/3ojNI0Iitk4xoLY6QPNLgx"
       },
@@ -726,7 +744,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 194005,
       "name": "All Things New",
       "url": "https://open.spotify.com/track/2BRlXNm7lgzK0eBrMfinnm"
@@ -11099,6 +11117,24 @@
     },
     {
       "album": {
+        "name": "Lion's Den",
+        "url": "https://open.spotify.com/album/7rAe1Pv4xZuSvusgZiJOGS"
+      },
+      "artists": [
+        {
+          "name": "Madalyn Rae",
+          "url": "https://open.spotify.com/artist/29ZmYR2TwSfAjdosOQmIpG"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172978,
+      "name": "Lion's Den",
+      "url": "https://open.spotify.com/track/0c0x284UYBjzJn8NxMSota"
+    },
+    {
+      "album": {
         "name": "Easel",
         "url": "https://open.spotify.com/album/1DBnQ2Wl9s5TF6n2beqpC3"
       },
@@ -11656,6 +11692,24 @@
       "duration_ms": 230117,
       "name": "Lowly Servant",
       "url": "https://open.spotify.com/track/75FJOeHfUs7p0HtQqWFzeH"
+    },
+    {
+      "album": {
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/1dWwbxrrxZYK8pSdmgglBC"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/5tSsKHQzt8dvT4eV39KKDw"
     },
     {
       "album": {
@@ -14204,7 +14258,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 258092,
       "name": "Paths",
       "url": "https://open.spotify.com/track/1fR3dT23kscB6N9Y2xmcYB"
@@ -17549,6 +17603,28 @@
     },
     {
       "album": {
+        "name": "Sulcus",
+        "url": "https://open.spotify.com/album/0jqcrUZDsTfighqPMBTmC5"
+      },
+      "artists": [
+        {
+          "name": "THE ONE HE LOVED",
+          "url": "https://open.spotify.com/artist/19g5k95pW2wSOzj3Itd2f9"
+        },
+        {
+          "name": "JORDEN MICHAEL",
+          "url": "https://open.spotify.com/artist/7iMmy6p7MMnfoeY52ZAPZh"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288750,
+      "name": "Sulcus",
+      "url": "https://open.spotify.com/track/6AqUCz7ewZxEhTN13Tg1Vj"
+    },
+    {
+      "album": {
         "name": "SUMMER",
         "url": "https://open.spotify.com/album/42lZ7fs6ZVYjOvpXvbhUu1"
       },
@@ -18560,7 +18636,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 258000,
       "name": "The Table",
       "url": "https://open.spotify.com/track/5E1KI7bfDS0dwEBlszVjEa"
@@ -18674,6 +18750,28 @@
       "duration_ms": 164973,
       "name": "Think Of You",
       "url": "https://open.spotify.com/track/2OPK6Ib8SmagyZTy0TTfDC"
+    },
+    {
+      "album": {
+        "name": "Third Week",
+        "url": "https://open.spotify.com/album/54SwDCAanYBJiWEGyAu59B"
+      },
+      "artists": [
+        {
+          "name": "Carlito Codigo",
+          "url": "https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR"
+        },
+        {
+          "name": "Dexter Music",
+          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Third Week",
+      "url": "https://open.spotify.com/track/1Djw76rSvVp2KEA8EsG4Z2"
     },
     {
       "album": {
@@ -20256,7 +20354,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 461693,
       "name": "What A Friend",
       "url": "https://open.spotify.com/track/2Ce5mlADVbZ89PjyTbA4Vd"
@@ -20940,7 +21038,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 162473,
       "name": "With Me",
       "url": "https://open.spotify.com/track/0a8pyKkJDooOWv4nj1tn5C"
@@ -21570,6 +21668,24 @@
       "duration_ms": 265135,
       "name": "You Don't Need Me",
       "url": "https://open.spotify.com/track/2HTqOMjeJkqH38VIEWiCJt"
+    },
+    {
+      "album": {
+        "name": "YOU GIVE ME LIFE!",
+        "url": "https://open.spotify.com/album/11ftUSz4ijSa6JfLmLoTt2"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Zamar",
+          "url": "https://open.spotify.com/artist/6h6ySmE1mgWa3M9UADYJt0"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178505,
+      "name": "YOU GIVE ME LIFE!",
+      "url": "https://open.spotify.com/track/2ICcWYofJBWP2c4xHWoqop"
     },
     {
       "album": {

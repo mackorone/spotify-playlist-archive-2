@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,254 songs - 3 day 5 hr 15 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,255 songs - 3 day 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1262,5 +1262,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1252 | [Tommy's Party \- Live](https://open.spotify.com/track/1w2iGiB7aNdZ4ajxBXP7U8) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 6:05 |
 | 1253 | [10/10](https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 2:26 |
 | 1254 | [Powerlines](https://open.spotify.com/track/7nmtH3cyqEmKz8F09V60yO) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 4:18 |
+| 1255 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
 
-Snapshot ID: `AAAJ3ZpZPEie4duzsQbGiI8RnQmkvc81`
+Snapshot ID: `AAAJ3j4yNoxycs97iLsWrYiUVVbJ3f3R`

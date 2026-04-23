@@ -1,6 +1,6 @@
 {
   "description": "Todo hits veraniegos para la mejor fiesta.",
-  "num_followers": 146978,
+  "num_followers": 146973,
   "original_name": "Verano Mix 2025",
   "owner": {
     "name": "Spotify",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2025-07-11 06:15:21",
       "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 187125,
+      "name": "Quiere Beber",
+      "url": "https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh"
+    },
+    {
+      "added_at": "2025-07-11 06:15:21",
+      "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2025-07-11 06:15:21",
       "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 187125,
-      "name": "Quiere Beber",
-      "url": "https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh"
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2025-07-11 06:15:21",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2025-07-11 06:15:21",
       "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
-    },
-    {
-      "added_at": "2025-07-11 06:15:21",
-      "album": {
         "name": "Dura",
         "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 200480,
       "name": "Dura",
       "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
+    },
+    {
+      "added_at": "2025-07-11 06:15:21",
+      "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "S\u00edguelo Bailando",
+      "url": "https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz"
     },
     {
       "added_at": "2025-07-11 06:15:21",
@@ -1595,22 +1611,6 @@
       "duration_ms": 254920,
       "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
-    },
-    {
-      "added_at": "2025-07-11 06:15:21",
-      "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "S\u00edguelo Bailando",
-      "url": "https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz"
     },
     {
       "added_at": "2025-07-11 06:15:21",
@@ -2123,34 +2123,6 @@
     {
       "added_at": "2025-07-11 06:15:21",
       "album": {
-        "name": "Latinamerica (feat. Vika)",
-        "url": "https://open.spotify.com/album/2bHb66F60DMmKtFlmlkFJK"
-      },
-      "artists": [
-        {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
-        },
-        {
-          "name": "MichaelBM",
-          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
-        },
-        {
-          "name": "Jayie",
-          "url": "https://open.spotify.com/artist/4yiUOYE4qfKINbGjeePqiG"
-        },
-        {
-          "name": "Vika",
-          "url": "https://open.spotify.com/artist/4oJoVioxaLXaqrc9YTvKKu"
-        }
-      ],
-      "duration_ms": 124830,
-      "name": "Latinamerica (feat. Vika)",
-      "url": "https://open.spotify.com/track/3b5hWg2x9MoVM7wjZ3qiY6"
-    },
-    {
-      "added_at": "2025-07-11 06:15:21",
-      "album": {
         "name": "POLARIS (Remix)",
         "url": "https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv"
       },
@@ -2175,6 +2147,34 @@
       "duration_ms": 288000,
       "name": "POLARIS - Remix",
       "url": "https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2"
+    },
+    {
+      "added_at": "2025-07-11 06:15:21",
+      "album": {
+        "name": "Latinamerica (feat. Vika)",
+        "url": "https://open.spotify.com/album/2bHb66F60DMmKtFlmlkFJK"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        },
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
+        },
+        {
+          "name": "Jayie",
+          "url": "https://open.spotify.com/artist/4yiUOYE4qfKINbGjeePqiG"
+        },
+        {
+          "name": "Vika",
+          "url": "https://open.spotify.com/artist/4oJoVioxaLXaqrc9YTvKKu"
+        }
+      ],
+      "duration_ms": 124830,
+      "name": "Latinamerica (feat. Vika)",
+      "url": "https://open.spotify.com/track/3b5hWg2x9MoVM7wjZ3qiY6"
     },
     {
       "added_at": "2025-07-11 06:15:21",

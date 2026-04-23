@@ -1,6 +1,6 @@
 {
   "description": "heartbreak feels good in a place like sad hour, with Mulaa Joans",
-  "num_followers": 2394638,
+  "num_followers": 2394652,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
     },
     {
-      "added_at": "2025-09-29 15:49:30",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/3bUpRf4GN6SV6ejgQ4IQxT"
-    },
-    {
       "added_at": "2026-01-09 05:00:49",
       "album": {
         "name": "Love Is A Kingdom",
@@ -727,6 +711,22 @@
       "duration_ms": 234080,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
+    },
+    {
+      "added_at": "2025-09-29 15:49:30",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/3bUpRf4GN6SV6ejgQ4IQxT"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -845,20 +845,20 @@
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
-      "added_at": "2025-08-08 04:00:48",
+      "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
       },
       "artists": [
         {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 143298,
-      "name": "I Think I Like You Better When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
+      "duration_ms": 201080,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Remember That Night?",
         "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 227186,
       "name": "Remember That Night?",
       "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
+    },
+    {
+      "added_at": "2025-08-08 04:00:48",
+      "album": {
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 143298,
+      "name": "I Think I Like You Better When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
+        "name": "As the World Caves In",
+        "url": "https://open.spotify.com/album/0RiimwsSMUsxrBu0RsyuRH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Cothran",
+          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
+        }
+      ],
+      "duration_ms": 161612,
+      "name": "As the World Caves In",
+      "url": "https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
         "name": "28 (with Dean Lewis)",
         "url": "https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K"
       },
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "As the World Caves In",
-        "url": "https://open.spotify.com/album/0RiimwsSMUsxrBu0RsyuRH"
+        "name": "Hold the Rhythm",
+        "url": "https://open.spotify.com/album/4nof0TI1S49a6Gogj33yue"
       },
       "artists": [
         {
-          "name": "Sarah Cothran",
-          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
         }
       ],
-      "duration_ms": 161612,
-      "name": "As the World Caves In",
-      "url": "https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S"
+      "duration_ms": 198573,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/0aIW3ekrhK1eh3BYCh11op"
     },
     {
       "added_at": "2025-11-18 20:55:44",
@@ -1203,22 +1219,6 @@
       "duration_ms": 191519,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Hold the Rhythm",
-        "url": "https://open.spotify.com/album/4nof0TI1S49a6Gogj33yue"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/0aIW3ekrhK1eh3BYCh11op"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1465,22 +1465,6 @@
       "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
     },
     {
-      "added_at": "2026-01-23 05:58:48",
-      "album": {
-        "name": "Love To Hate Me",
-        "url": "https://open.spotify.com/album/0ZTzjWMvCojnPErhSvcR22"
-      },
-      "artists": [
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Love To Hate Me",
-      "url": "https://open.spotify.com/track/24hGRuiXla6Kqu0uuBZZXC"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "NEVER ENOUGH (Bonus Version)",
@@ -1495,6 +1479,22 @@
       "duration_ms": 225312,
       "name": "Always",
       "url": "https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH"
+    },
+    {
+      "added_at": "2026-01-23 05:58:48",
+      "album": {
+        "name": "Love To Hate Me",
+        "url": "https://open.spotify.com/album/0ZTzjWMvCojnPErhSvcR22"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Love To Hate Me",
+      "url": "https://open.spotify.com/track/24hGRuiXla6Kqu0uuBZZXC"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1545,6 +1545,22 @@
       "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
     },
     {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/7qUpf1A0w5hh4Do5SLRYjP"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 184892,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/3kywzyEr7V106Un5cDyh12"
+    },
+    {
       "added_at": "2026-02-20 05:13:45",
       "album": {
         "name": "No More Heart To Break",
@@ -1561,20 +1577,20 @@
       "url": "https://open.spotify.com/track/2Aw6y57VpYel8CmRWtODTn"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
+      "added_at": "2025-04-01 00:04:02",
       "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/7qUpf1A0w5hh4Do5SLRYjP"
+        "name": "Dinner",
+        "url": "https://open.spotify.com/album/4OWtgRW16OHXE98shkJjZA"
       },
       "artists": [
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "Adam Klobi",
+          "url": "https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI"
         }
       ],
-      "duration_ms": 184892,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/3kywzyEr7V106Un5cDyh12"
+      "duration_ms": 228000,
+      "name": "Dinner",
+      "url": "https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy"
     },
     {
       "added_at": "2025-08-08 04:00:48",
@@ -1595,22 +1611,6 @@
       "duration_ms": 157540,
       "name": "Loved You Better (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5"
-    },
-    {
-      "added_at": "2025-04-01 00:04:02",
-      "album": {
-        "name": "Dinner",
-        "url": "https://open.spotify.com/album/4OWtgRW16OHXE98shkJjZA"
-      },
-      "artists": [
-        {
-          "name": "Adam Klobi",
-          "url": "https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Dinner",
-      "url": "https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy"
     },
     {
       "added_at": "2025-08-01 04:00:33",
@@ -2069,22 +2069,6 @@
       "url": "https://open.spotify.com/track/2tHFU0czPTYsKckxvUIZKn"
     },
     {
-      "added_at": "2026-01-16 05:00:45",
-      "album": {
-        "name": "Please Don't Hate Me",
-        "url": "https://open.spotify.com/album/14EBLrQbRhhzyCMQBSlhmn"
-      },
-      "artists": [
-        {
-          "name": "Aaron Rowe",
-          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
-        }
-      ],
-      "duration_ms": 201063,
-      "name": "Please Don't Hate Me",
-      "url": "https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t"
-    },
-    {
       "added_at": "2026-04-10 04:36:33",
       "album": {
         "name": "Never Know Love",
@@ -2101,20 +2085,20 @@
       "url": "https://open.spotify.com/track/2tlONys5V3ZuO5OxrDJfE8"
     },
     {
-      "added_at": "2026-01-09 05:00:49",
+      "added_at": "2026-01-16 05:00:45",
       "album": {
-        "name": "Tell Me It's Over",
-        "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
+        "name": "Please Don't Hate Me",
+        "url": "https://open.spotify.com/album/14EBLrQbRhhzyCMQBSlhmn"
       },
       "artists": [
         {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
         }
       ],
-      "duration_ms": 176133,
-      "name": "Tell Me It's Over",
-      "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
+      "duration_ms": 201063,
+      "name": "Please Don't Hate Me",
+      "url": "https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t"
     },
     {
       "added_at": "2025-07-11 04:00:20",
@@ -2131,6 +2115,22 @@
       "duration_ms": 162904,
       "name": "Two Sides Of Goodbye",
       "url": "https://open.spotify.com/track/7uKXumzluES9YdRyYB4Ur7"
+    },
+    {
+      "added_at": "2026-01-09 05:00:49",
+      "album": {
+        "name": "Tell Me It's Over",
+        "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Tell Me It's Over",
+      "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
     },
     {
       "added_at": "2026-02-06 04:58:34",
@@ -2457,10 +2457,10 @@
       "url": "https://open.spotify.com/track/2VYIeZGLDsSn8wubtWuT1V"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
+      "added_at": "2025-07-18 04:02:26",
       "album": {
-        "name": "Locksmith",
-        "url": "https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl"
+        "name": "I Tried",
+        "url": "https://open.spotify.com/album/151XFBOwvm6LvudHhqDlNP"
       },
       "artists": [
         {
@@ -2468,9 +2468,9 @@
           "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
         }
       ],
-      "duration_ms": 164081,
-      "name": "Locksmith",
-      "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
+      "duration_ms": 152815,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/7GvGFGMeck6jUymfuqDUTc"
     }
   ],
   "unique_name": "sad hour",

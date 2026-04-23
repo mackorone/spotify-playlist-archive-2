@@ -1,12 +1,12 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a>Georgia</a>",
-  "num_followers": 61318,
+  "num_followers": 61324,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAARu6UZ/pJc4eRvmbN1/H+XgOO3feSX",
+  "snapshot_id": "AAARvjKl7NBIR6VS7Enmx+4lVuc6UsBE",
   "tracks": [
     {
       "added_at": "2026-04-01 14:23:53",
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS"
     },
     {
+      "added_at": "2026-04-22 10:57:27",
+      "album": {
+        "name": "Face Of God",
+        "url": "https://open.spotify.com/album/3vFgYj1ZoKHQ3yrdqei1fs"
+      },
+      "artists": [
+        {
+          "name": "Lush Duck",
+          "url": "https://open.spotify.com/artist/7Jc4asBe7zfajAZI04Rh90"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Face Of God",
+      "url": "https://open.spotify.com/track/6zp5Pd20xjCfkXteNzortC"
+    },
+    {
       "added_at": "2026-03-18 12:17:51",
       "album": {
         "name": "Completely Necessary (Anthology 1978-1982)",
@@ -843,22 +859,6 @@
       "duration_ms": 211494,
       "name": "Obvious",
       "url": "https://open.spotify.com/track/3HQBl2IxewrUzb2h5aPxXT"
-    },
-    {
-      "added_at": "2026-03-18 12:17:51",
-      "album": {
-        "name": "Amaro",
-        "url": "https://open.spotify.com/album/2bq7mOidVQrgdhNq5ZveNq"
-      },
-      "artists": [
-        {
-          "name": "Bibi Club",
-          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
-        }
-      ],
-      "duration_ms": 188111,
-      "name": "Amaro",
-      "url": "https://open.spotify.com/track/7ju5clDlfi2w1Busf1TjJT"
     }
   ],
   "unique_name": "Domino Sound System",

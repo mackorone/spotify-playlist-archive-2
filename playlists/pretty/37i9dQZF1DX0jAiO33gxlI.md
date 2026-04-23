@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Dow Raiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,934 likes - 74 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,912 likes - 74 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

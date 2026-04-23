@@ -4,7 +4,7 @@
 
 > House Music 2026 🌴 Deep House Classics 🕺 Best Dance Hits ✨ Summer Vibes 💃 Ibiza Party Mix 🌇 Lounge Beats ☀️ Afro &amp; Tech House 🔊 Disco \| Updated 2026 \| EDM \| UK Club Bangers \| TikTok Discoveries \| Top House Songs
 
-477 songs - 23 hr 42 min
+478 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Easy On My Heart](https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Easy On My Heart](https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab) | 2:58 | 2023-11-03 | 2024-02-10 |
 | [Echoes](https://open.spotify.com/track/2uRiijCGIqZI4f2vCHwGb2) | [Josh Hunter](https://open.spotify.com/artist/3DWpDqNBdUvlSfzRk27N4z), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Echoes](https://open.spotify.com/album/1dSokYM4bQNCqX9dI0wfJd) | 3:11 | 2024-08-19 | 2025-10-04 |
 | [Ecstasy](https://open.spotify.com/track/0I7i8CLkydZcwcyi1Ls9c1) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Ecstasy](https://open.spotify.com/album/5iQrsBUUGwmBWeUMETtby6) | 2:59 | 2024-05-03 | 2025-10-11 |
-| [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 | 2025-11-21 |  |
+| [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 | 2025-11-21 | 2026-04-23 |
 | [Edge of Saturday Night](https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Edge of Saturday Night](https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ) | 3:26 | 2024-08-19 | 2025-11-22 |
 | [Electric Feel \(feat\. Orem\)](https://open.spotify.com/track/3RBuBtVnzmfM0NyeaTtgBj) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Electric Feel \(feat\. Orem\)](https://open.spotify.com/album/5kPC3aznnrOgUAMAtY26of) | 2:58 | 2024-12-06 | 2024-12-19 |
 | [Electricity](https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Electricity](https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H) | 2:40 | 2024-04-09 | 2024-04-13 |
@@ -262,6 +262,7 @@
 | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/track/601pOTGkiTqGFpAtphsZDx) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/album/3egxqN0wJ8CMeVbtRZYN3s) | 2:38 | 2024-01-12 | 2025-06-14 |
 | [Love Makes It Easy](https://open.spotify.com/track/58oViQMqs9AKFdwHviYi43) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5), [Bottom Lip](https://open.spotify.com/artist/1kGshKeUGUyFii95MRyIiJ) | [Love Makes It Easy](https://open.spotify.com/album/0hZymJYNU43kcdp9SIzTc6) | 2:59 | 2024-05-24 | 2025-06-21 |
 | [Love Me Better \(feat\. Leah Guest\)](https://open.spotify.com/track/08BdwDsjgDp9N3ALRaKuYJ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [Love Me Better \(feat\. Leah Guest\)](https://open.spotify.com/album/09PyXeLOshCAxaVs56KcMN) | 3:20 | 2023-11-03 | 2024-02-24 |
+| [Love Me Now](https://open.spotify.com/track/00HzuLcr1YhupCMz6torSk) | [ConKi](https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF) | [Love Me Now](https://open.spotify.com/album/4kuLj3Gl0UhvnwvCMzY6zP) | 2:11 | 2026-04-22 |  |
 | [Love Song](https://open.spotify.com/track/6OT17NwvpPgvNxB5VwJFum) | [Charlie Knox](https://open.spotify.com/artist/7pPwVoW9SP3X6AA0mSgXto) | [Love Song](https://open.spotify.com/album/01Hyz2e8Ul7paN91RInL6I) | 2:47 | 2025-11-21 |  |
 | [Love Songs \(feat\. Kosmo Kint\)](https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Love Songs \(feat\. Kosmo Kint\)](https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ) | 3:18 | 2025-11-21 |  |
 | [Loveless](https://open.spotify.com/track/4aHbNb41EVPHpd7bDlm0qm) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Loveless](https://open.spotify.com/album/3J7RqdFl8npQPq43yPTngZ) | 3:12 | 2025-07-18 |  |

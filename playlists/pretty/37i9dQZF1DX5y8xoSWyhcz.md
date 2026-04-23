@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,757 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,761 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 7 | [What’s On Your Mind](https://open.spotify.com/track/2DOKvJS61usFOxobo7jLi0) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [What's On Your Mind](https://open.spotify.com/album/3Zba9cZ8EP1DBcvjnVNrG6) | 3:32 |
 | 8 | [Waiting In Line](https://open.spotify.com/track/2fGjus14Nunys4nQxGulqY) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi) | [Waiting In Line](https://open.spotify.com/album/3oCxkN7IrNLVXWFpez7FIL) | 3:33 |
 | 9 | [Flutter](https://open.spotify.com/track/1h7BredQJxe70R90k69FoS) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Daisy](https://open.spotify.com/album/5FFE0Lmz20phfvrju1VK7m) | 3:14 |
-| 10 | [stuck song](https://open.spotify.com/track/1xaXwMtCtm0KmpRSpV2QUB) | [priyana](https://open.spotify.com/artist/0dLw2a1tfVQCJ5cOQnpdlQ) | [stuck song](https://open.spotify.com/album/48af6MS7FydlaNLXIrWG6V) | 2:49 |
+| 10 | [stuck song](https://open.spotify.com/track/1xaXwMtCtm0KmpRSpV2QUB) | [priyana](https://open.spotify.com/artist/0dLw2a1tfVQCJ5cOQnpdlQ) | [stuck song](https://open.spotify.com/album/48af6MS7FydlaNLXIrWG6V) | 2:50 |
 | 11 | [one trick pony](https://open.spotify.com/track/2haBYqYbGzA8FpE84bawai) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [one trick pony](https://open.spotify.com/album/5jTcc8efQu81o3XvM29YvN) | 2:40 |
 | 12 | [When I Loved You](https://open.spotify.com/track/2mQs2KBZVfJWmJHr4gqTNI) | [BRDGS](https://open.spotify.com/artist/3yHcgChNW7jVTvgBfgrTeT) | [Music for Elephants](https://open.spotify.com/album/4Z0D3HiCZrTwbhZeuMACwT) | 2:44 |
 | 13 | [Acid Washed](https://open.spotify.com/track/0bla0kPTlY0r1M3tOY6BfS) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Acid Washed](https://open.spotify.com/album/7ByICVrVB3zYNVoSfGbe7s) | 2:07 |

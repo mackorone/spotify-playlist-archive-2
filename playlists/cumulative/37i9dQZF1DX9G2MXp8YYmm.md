@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Sezen Aksu
 
-563 songs - 1 day 4 hr 30 min
+564 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Bi' Farkın Var](https://open.spotify.com/track/7yV4NuGTMAwTJyymp7vdrL) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Bi' Farkın Var](https://open.spotify.com/album/3vgV50xyw8ldVEPJEXbZqA) | 2:32 | 2024-10-10 | 2024-10-18 |
 | [Bil Ki](https://open.spotify.com/track/0QXwA2k5hAD6nWeAzcwjTJ) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Sende De Benden Var](https://open.spotify.com/album/39zwVUxvdqEfPwW0JRg0KP) | 3:18 | 2025-09-25 | 2026-02-07 |
 | [Bilsen De](https://open.spotify.com/track/3vfPPNNAOPteFWU9xIwT1R) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Bilsen De](https://open.spotify.com/album/0qol5uBtarWXta5lVvDc5h) | 2:40 | 2025-12-11 | 2026-04-10 |
-| [Bir Başıma](https://open.spotify.com/track/591vD59s3EeTxLFH9K5OWk) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Bir Başıma](https://open.spotify.com/album/3eW6cRPWUdzifoxcHAar8g) | 6:13 | 2025-11-20 |  |
+| [Bir Başıma](https://open.spotify.com/track/591vD59s3EeTxLFH9K5OWk) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Bir Başıma](https://open.spotify.com/album/3eW6cRPWUdzifoxcHAar8g) | 6:13 | 2025-11-20 | 2026-04-23 |
 | [Bir Ev Vardı](https://open.spotify.com/track/0FH7zgmFuF8hgndYl0Jb8l) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Bir Ev Vardı](https://open.spotify.com/album/2ujewzFJr8bycfOSvSSoqh) | 2:39 | 2026-03-05 | 2026-03-13 |
 | [Bir Gün Gideceğim Buradan](https://open.spotify.com/track/6xkSI48AJlIRQwffd0and4) | [Demet Sağıroğlu](https://open.spotify.com/artist/1JezmRKWjau6fQtfotfhZY), [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Bir Gün Gideceğim Buradan](https://open.spotify.com/album/2xtEDraGpjQwsGv6rqGSwX) | 5:12 | 2026-01-01 | 2026-02-03 |
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2024-06-27 | 2025-07-18 |
@@ -562,6 +562,7 @@
 | [Üzdü](https://open.spotify.com/track/37h8rUJVvJ3AjsHqFxeuo8) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [2 Şarkı](https://open.spotify.com/album/5GrJxnDfpxO83UV8jnb8x8) | 4:24 | 2025-02-06 | 2025-02-14 |
 | [Üzgünüm](https://open.spotify.com/track/0B8qH6UPs4dwXAVOBLhpsV) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Üzgünüm](https://open.spotify.com/album/7isCAPK9fbeeQjTcCzHdfh) | 4:01 | 2024-11-14 | 2026-02-27 |
 | [Üzgünüm](https://open.spotify.com/track/0hhfaytUvJM5ouXayoEuPc) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Üzgünüm](https://open.spotify.com/album/4wYg0nesrlhwHUdTSs3lq4) | 2:57 | 2026-01-22 |  |
+| [Üzgünüm \(Talu Şarkıları\)](https://open.spotify.com/track/5V2PVVkNhtCyZoG9QmLNGN) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Üzgünüm \(Talu Şarkıları\)](https://open.spotify.com/album/4xkzKuxxgfD1hsjEhDWfTn) | 4:15 | 2026-04-16 |  |
 | [Üzgünüm Aşkım](https://open.spotify.com/track/27JIwRoqmSZ85M20Im6yGR) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX), [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [Üzgünüm Aşkım](https://open.spotify.com/album/08xRb60WnzSW4iH127Bi40) | 3:15 | 2026-02-12 | 2026-02-27 |
 | [Üzülmedim Ki](https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Üzülmedim Ki](https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF) | 2:34 | 2026-03-19 |  |
 | [Şarkıları Sen Seç](https://open.spotify.com/track/6rSiGLKusaEhZYo7k1GeKo) | [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Şarkıları Sen Seç](https://open.spotify.com/album/16jPtZQ6sxaYj6mwhP1XU0) | 2:37 | 2025-08-07 | 2025-08-16 |

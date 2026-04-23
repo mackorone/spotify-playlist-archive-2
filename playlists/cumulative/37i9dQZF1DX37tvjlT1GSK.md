@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX37tvjlT1GSK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX37tvjlT1GSK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX37tvjlT1GSK)
 
-### [Sierreño 2025](https://open.spotify.com/playlist/37i9dQZF1DX37tvjlT1GSK)
+### [Sierreño 2026](https://open.spotify.com/playlist/37i9dQZF1DX37tvjlT1GSK)
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Aldo Trujillo en cover.
 

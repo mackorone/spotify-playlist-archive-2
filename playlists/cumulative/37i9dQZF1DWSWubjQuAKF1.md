@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Marissa
 
-810 songs - 1 day 15 hr 32 min
+811 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,6 +667,7 @@
 | [taki nawyk](https://open.spotify.com/track/31mLz6royKD4dlmDYj8HDY) | [PK sisters](https://open.spotify.com/artist/0i9jmvTbFQK9JFPSwO1X1P), [Jakub Laszuk](https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ) | [taki nawyk](https://open.spotify.com/album/3Kq5ViGpn1ATJzFjmyzT3k) | 2:34 | 2024-11-21 | 2025-01-24 |
 | [Taki plan](https://open.spotify.com/track/11bS9b18NOz23W3Vwj6B9M) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Na Dwoje Lampa Świeciła](https://open.spotify.com/album/2BoUXwHl2EKmvS7qRWZSWn) | 3:02 | 2024-11-07 | 2025-01-24 |
 | [Taki sam](https://open.spotify.com/track/02jQS3HryEg3epjoGqObzC) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Taki sam](https://open.spotify.com/album/4pmvIGVvSWytUyKU50mdJ8) | 2:55 | 2024-06-28 | 2024-09-07 |
+| [Takie Jak Ty](https://open.spotify.com/track/2gcZYpILe02niCNP9NNGVf) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [Takie Jak Ty](https://open.spotify.com/album/237gwWoHj5bnmq2Y3TvQIO) | 3:05 | 2026-04-17 |  |
 | [Talk Me Down](https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Talk Me Down](https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL) | 2:52 | 2025-03-13 | 2025-04-04 |
 | [Talking To Jesus](https://open.spotify.com/track/52cTqjEjB5PEftPWqKxmgD) | [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2) | [Middle Child](https://open.spotify.com/album/40UETJYLuyi0ys3kWhFuXM) | 3:32 | 2026-04-17 |  |
 | [Tam czeka mnie dom](https://open.spotify.com/track/2R5JI5M63xGVesrcwILZ0B) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Tam czeka mnie dom](https://open.spotify.com/album/1BFCotBzxEo6Od7Uk0g2OH) | 2:17 | 2024-09-13 | 2024-10-05 |
@@ -714,7 +715,7 @@
 | [Tęsknię](https://open.spotify.com/track/6ZIExaf8SeE2WYDazQtrdZ) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Tęsknię](https://open.spotify.com/album/4bMP6PMo8Vm4LCJIzW7Si9) | 2:56 | 2025-12-05 | 2025-12-12 |
 | [U Want Me Anyway](https://open.spotify.com/track/2NZpYLv014p6rfl2CYxDX6) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [U Want Me Anyway](https://open.spotify.com/album/1voy9mRdneNwKnaBgIjLh4) | 3:20 | 2025-03-20 | 2025-06-28 |
 | [Udawaj do rana](https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [Udawaj do rana](https://open.spotify.com/album/4exck6h9MiotcqH2gtfZdT) | 3:18 | 2025-04-24 | 2025-07-18 |
-| [UFO](https://open.spotify.com/track/3kMm00fo2cVmvwyW5hFPRv) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa) | [UFO](https://open.spotify.com/album/3sPNRi6Ay5pXxTfAUEzQJC) | 2:13 | 2026-03-26 |  |
+| [UFO](https://open.spotify.com/track/3kMm00fo2cVmvwyW5hFPRv) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa) | [UFO](https://open.spotify.com/album/3sPNRi6Ay5pXxTfAUEzQJC) | 2:13 | 2026-03-26 | 2026-04-23 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-04-17 | 2025-05-09 |
 | [Upadki i wzloty](https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Upadki i wzloty](https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S) | 3:11 | 2024-07-18 | 2024-11-22 |
 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 | 2025-10-21 | 2025-12-06 |

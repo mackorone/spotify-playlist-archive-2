@@ -2053,6 +2053,28 @@
     },
     {
       "album": {
+        "name": "Forever Lit (Deluxe)",
+        "url": "https://open.spotify.com/album/41alz6LrulH40FBg3hLiWa"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "Yxng Bane",
+          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148879,
+      "name": "Santo Domingo (feat. Yxng Bane)",
+      "url": "https://open.spotify.com/track/2J3DbL8YqhWKFtKZ2WQ5Om"
+    },
+    {
+      "album": {
         "name": "Nieuw Goud",
         "url": "https://open.spotify.com/album/3aLjRZ1X1ho3tyzpZgJ1HG"
       },
@@ -2480,7 +2502,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 156921,
       "name": "Walou Crisis (feat. 3robi & Mula B)",
       "url": "https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V"

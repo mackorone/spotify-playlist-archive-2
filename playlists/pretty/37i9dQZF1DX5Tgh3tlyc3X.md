@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,354 likes - 82 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,425 likes - 82 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 | 77 | [Soft Release \(Binaural Theta 130\-137 Hz\)](https://open.spotify.com/track/1Rck80pflVyLwlwHTjcVpI) | [Prismera](https://open.spotify.com/artist/1VnwLTvLYn3F9sKcgBdC8I) | [Soft Release \(Binaural Theta 130\-137 Hz\)](https://open.spotify.com/album/1697OSFfzdyAG3J8wp26zQ) | 2:43 |
 | 78 | [Equilibrium Theta Waves \(130 \- 137 Hz\)](https://open.spotify.com/track/3yibs0fLNkA8RNXZnW3Zc6) | [throughfield](https://open.spotify.com/artist/38RdlcwxQGnKfpO1z7pJaQ) | [Equilibrium Theta Waves \(130 \- 137 Hz\)](https://open.spotify.com/album/1ftnlnMTXVxOFkcrDPc8Yp) | 2:41 |
 | 79 | [Anthesis \- Theta Waves 135 \- 142 Hz](https://open.spotify.com/track/01AJQpS2l3Qmfew43EVtbk) | [Rosonance](https://open.spotify.com/artist/4SYjHr4H1LksGbBg0sXkb3) | [Anthesis \- Theta Waves 135 \- 142 Hz](https://open.spotify.com/album/6xkzst4vS59hClH6Ui5vUH) | 2:30 |
-| 80 | [Theta Brain Waves 185 Hz \- 190Hz](https://open.spotify.com/track/5fdR2Iv1yNWc6GXpTaY1iu) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Theta Brain Waves 185 Hz \- 190Hz](https://open.spotify.com/album/6ta2g3374zEtP6sucEYesr) | 3:12 |
+| 80 | [Theta Brain Waves 185 Hz \- 190Hz](https://open.spotify.com/track/5fdR2Iv1yNWc6GXpTaY1iu) | [Mission Venus](https://open.spotify.com/artist/6nsP0eM0eiF3sRTh4DsL27) | [Theta Brain Waves 185 Hz \- 190Hz](https://open.spotify.com/album/6ta2g3374zEtP6sucEYesr) | 3:12 |
 | 81 | [Purple Night \(Theta Binaural\)](https://open.spotify.com/track/4jMT24JGe191KtWPERax3D) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Binaural Theta for Sleep](https://open.spotify.com/album/7rpR7N25fNVUyqFZT32xAh) | 3:24 |
 | 82 | [Theta\-Rain Song](https://open.spotify.com/track/1gnWeFRY87chZfRUUIxhwo) | [Santino Dunleaf](https://open.spotify.com/artist/6UmU6V7Nh76CSxujJEBEja) | [Theta\-Rain Song](https://open.spotify.com/album/17AZbMWWCY8x3kyR1ezCXR) | 2:55 |
 

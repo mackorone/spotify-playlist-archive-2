@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Anitta, Olivia Rodrigo, Mc Kevin o Chris, Grupo Menos É Mais, Demi Lovato, Diego & Victor Hugo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,280,423 likes - 93 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,280,120 likes - 93 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 36 | [Vingança](https://open.spotify.com/track/7iBATFYW03nTefCrkadzWb) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [dj andreoli](https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa) | [Vingança](https://open.spotify.com/album/5sLZVAx5YSGgXqX2APTbdj) | 2:20 |
 | 37 | [Sunday Again \(with 2 Chainz\)](https://open.spotify.com/track/0jqIclUdaqiwYEi4FLUBOc) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Sunday Again \(with 2 Chainz\)](https://open.spotify.com/album/1b3dLmOwWOyyqsUtT0NrBv) | 3:40 |
 | 38 | [Stay Love](https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6) | 3:26 |
-| 39 | [Ludmilla](https://open.spotify.com/track/66JF1fFWQ83OYM6Sh8JCp7) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Manocchio](https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2), [s1ckb0y](https://open.spotify.com/artist/3DNpz3cyHHzNzPurLiPZH3), [NAVII](https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb) | [Cinza antes do Azul](https://open.spotify.com/album/4051MjVtRh4z2T4K2LWPHr) | 2:43 |
+| 39 | [Ludmilla](https://open.spotify.com/track/66JF1fFWQ83OYM6Sh8JCp7) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Manocchio](https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2), [s1ckb0y](https://open.spotify.com/artist/3DNpz3cyHHzNzPurLiPZH3), [NAVII](https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb), [braga!](https://open.spotify.com/artist/0gEghpGEtah4xN4sfKHF2Y) | [Cinza antes do Azul](https://open.spotify.com/album/4051MjVtRh4z2T4K2LWPHr) | 2:43 |
 | 40 | [MULHER \(By BERSHKA Music\)](https://open.spotify.com/track/0boJTpbJMlKJWzyEEWuQdO) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [MULHER \(By BERSHKA Music\)](https://open.spotify.com/album/1Mym0DikYAiFaKftMdsqo4) | 3:25 |
 | 41 | [Mar de Copa](https://open.spotify.com/track/22CEoR9pglfE3VqsBZtYkE) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Mar de Copa](https://open.spotify.com/album/2oJCOxsaUkxkHcP3kTuHMr) | 3:32 |
 | 42 | [SACRED HEART](https://open.spotify.com/track/0XOlRD5Q2foFN2hCOOyZc1) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [Kala](https://open.spotify.com/artist/1u94nEnxIMhDOMOScTHVTr) | [M.I.7](https://open.spotify.com/album/6TGoIu9hPSLt2fYgdThVKD) | 2:51 |

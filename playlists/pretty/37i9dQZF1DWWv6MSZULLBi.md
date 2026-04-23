@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Noah Derksen
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,020 likes - 149 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,021 likes - 149 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

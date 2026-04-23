@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 249213,
+  "num_followers": 249283,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1191,18 +1191,22 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Mexicano Soy",
-        "url": "https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY"
+        "name": "Traigo El Mando",
+        "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
       },
       "artists": [
         {
           "name": "Luis R Conriquez",
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
         }
       ],
-      "duration_ms": 152562,
-      "name": "Mexicano Soy",
-      "url": "https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId"
+      "duration_ms": 182911,
+      "name": "Traigo El Mando",
+      "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1967,26 +1971,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "duration_ms": 150517,
-      "name": "Toretto",
-      "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "No Te La Sabes",
         "url": "https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl"
       },
@@ -2003,6 +1987,26 @@
       "duration_ms": 215200,
       "name": "No Te La Sabes",
       "url": "https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "duration_ms": 150517,
+      "name": "Toretto",
+      "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
     },
     {
       "added_at": "2026-03-27 06:00:17",

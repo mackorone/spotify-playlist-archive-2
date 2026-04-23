@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187 likes - 141 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 186 likes - 141 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 77 | [Run To You](https://open.spotify.com/track/0IDkpNa98T918RALnS3CbW) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Run To You](https://open.spotify.com/album/1b6jVbfl9Cmdt0pj7Q2rgY) | 2:59 |
 | 78 | [SIGN IT](https://open.spotify.com/track/0fXnyYPljuHzW3FRXAv9wP) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:09 |
 | 79 | [You Should Be Alone](https://open.spotify.com/track/3a3TUhKJCOfmyjdaynC1t2) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [You Should Be Alone](https://open.spotify.com/album/3VyyCtbAOTppTYySZ9TvVD) | 3:38 |
-| 80 | [Last One On My Mind](https://open.spotify.com/track/49X0xXnEaD4QogX7wevj5s) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [The Fifth Chapter](https://open.spotify.com/album/34zBuaI0qXuvCD9WrG0NbC) | 2:44 |
-| 81 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
+| 80 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
+| 81 | [Last One On My Mind](https://open.spotify.com/track/49X0xXnEaD4QogX7wevj5s) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [The Fifth Chapter](https://open.spotify.com/album/34zBuaI0qXuvCD9WrG0NbC) | 2:44 |
 | 82 | [Concrete](https://open.spotify.com/track/2uYlI0bKR6m7kkjHLmEI76) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:19 |
 | 83 | [Fireproof](https://open.spotify.com/track/7ApcKRTsTSGEKI14RwF7FB) | [Forever Bound](https://open.spotify.com/artist/7tklGFmhSD9jlcE506ZcZO) | [Fireproof](https://open.spotify.com/album/20uXkEjYVIGDnhO3TLBh4L) | 2:36 |
 | 84 | [Never Let You Go](https://open.spotify.com/track/195rIaxn3j8SysVOs2UaOJ) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [Never Let You Go](https://open.spotify.com/album/7aGJUHI9MDCEabog2n4B3O) | 2:54 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 110 | [Start of Something](https://open.spotify.com/track/00Kg79l6oqxYjnJXCuzt48) | [Rachael O'Connor](https://open.spotify.com/artist/33b9NGd3gHIZbBfOwBMAHO) | [Start of Something](https://open.spotify.com/album/0QWwQEnegx6V4PuE98fvPX) | 2:47 |
 | 111 | [Give and Take](https://open.spotify.com/track/5d1DjzjzzCioNUDU8CJaey) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Die Happy](https://open.spotify.com/album/1A80UhpC8KIRVJWhLSkcdI) | 2:45 |
 | 112 | [Deathwish](https://open.spotify.com/track/5vOTkYL1V8SMLv2dqmi9uE) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Deathwish](https://open.spotify.com/album/1IGNvQjs3pivPPPpsLpkBX) | 3:12 |
-| 113 | [40 Days & 40 Nights \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/6jV1ordhBJJeEjCW04XJCx) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [40 Days & 40 Nights \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/album/629FIvZBa2hJuEN3VB9zAl) | 2:33 |
-| 114 | [No Mercy](https://open.spotify.com/track/3WKaMWuVBDfb0fBXdpsZfY) | [Leblanc](https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb) | [No Mercy](https://open.spotify.com/album/2O5VnN5s1stWeAqnIGsDxV) | 2:56 |
+| 113 | [No Mercy](https://open.spotify.com/track/3WKaMWuVBDfb0fBXdpsZfY) | [Leblanc](https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb) | [No Mercy](https://open.spotify.com/album/2O5VnN5s1stWeAqnIGsDxV) | 2:56 |
+| 114 | [40 Days & 40 Nights \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/6jV1ordhBJJeEjCW04XJCx) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [40 Days & 40 Nights \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/album/629FIvZBa2hJuEN3VB9zAl) | 2:33 |
 | 115 | [マスター・ピース](https://open.spotify.com/track/0vqEBLf7OfPwJPAhHeuo5R) | [Emi Meyer](https://open.spotify.com/artist/6f4y1h4jbvEDZXMojr4hNn) | [スーツケース・オブ・ストーンズ](https://open.spotify.com/album/0baJWk1RdDFQpZdqrhWkWT) | 4:21 |
 | 116 | [Rotten Peaches](https://open.spotify.com/track/7wOCKHdhWsKzRd9YKYz3zV) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:20 |
 | 117 | [1000 Questions](https://open.spotify.com/track/0LxpkO2AazoIfJ1PoRFbBp) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 4:06 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 140 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 141 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `AcPe1AAAAACY3bF50GsiTUaSyx0yfJvX`
+Snapshot ID: `AcPkfgAAAAAQUQ6BsCF1TagACuIkYIGA`

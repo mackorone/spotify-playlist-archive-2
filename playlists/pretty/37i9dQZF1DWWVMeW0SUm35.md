@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVMeW0SUm35.md) - [plain]
 
 > The official soundtrack and score of Euphoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,164 likes - 274 songs - 15 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,934 likes - 274 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,7 +265,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVMeW0SUm35.md) - [plain]
 | 255 | [Étude de Concert in D Flat Major, S144 No\. 3: "Un Sospiro"](https://open.spotify.com/track/150hsYSC33ppTwTKuTEoic) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Alba Ventura](https://open.spotify.com/artist/3ikBh3hfPImaGZn7nrsz3M) | [Études](https://open.spotify.com/album/6n6qg9nnHsqEIZPTIOphMC) | 5:59 |
 | 256 | [Hold Up](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:41 |
 | 257 | [Can't Get Used to Losing You](https://open.spotify.com/track/3iU9nRZHD5tLx2As8aiUQN) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Essential Andy Williams](https://open.spotify.com/album/21n0NU4iyxyiTvtKSpa9x8) | 2:21 |
-| 258 | [Getcha' Weight Up](https://open.spotify.com/track/3W6nW7EymmUevU5NuQ3ikV) | [Rockstar JT](https://open.spotify.com/artist/10BogjPr6eDq6O4Pablice), [Big Yae](https://open.spotify.com/artist/0z6z2MX96mb6MNhdghqiFX), [CBM Muley](https://open.spotify.com/artist/0BI7PPMRWHTsZN3Po8yXzE), [Cet Dollar](https://open.spotify.com/artist/0PwyR3ekyhxCAWAYGOPziy) | [Getcha' Weight Up](https://open.spotify.com/album/0ZsMwOsXdeocWTsmrb24f8) | 5:03 |
+| 258 | [Getcha' Weight Up](https://open.spotify.com/track/3W6nW7EymmUevU5NuQ3ikV) | [Rockstar Jt](https://open.spotify.com/artist/0sqFuHEkdOpQy0smz788GW), [Big Yae](https://open.spotify.com/artist/0z6z2MX96mb6MNhdghqiFX), [CBM Muley](https://open.spotify.com/artist/0BI7PPMRWHTsZN3Po8yXzE), [Cet Dollar](https://open.spotify.com/artist/0PwyR3ekyhxCAWAYGOPziy) | [Getcha' Weight Up](https://open.spotify.com/album/0ZsMwOsXdeocWTsmrb24f8) | 5:03 |
 | 259 | [Brighter Tomorrow](https://open.spotify.com/track/57nRXrAbgQipfAE1fIElnv) | [Soul Swingers](https://open.spotify.com/artist/1WhVD7a6nxjSuvyC6ypq7v) | [Wheedle's Groove \- Seattle's Finest in Funk & Soul 1965\-75](https://open.spotify.com/album/47LtDToMAiWFznI0BROaj6) | 2:52 |
 | 260 | [Once Again](https://open.spotify.com/track/20FikWwiEhqTvrqVxuSxfR) | [Stratus](https://open.spotify.com/artist/1StpDeeRA4A5BC00GAP8Ka) | [Once Again](https://open.spotify.com/album/6c3l4TiVjCWagucSKJFUdG) | 3:20 |
 | 261 | [Beckham](https://open.spotify.com/track/6Zs31lV9Jtxx1rHflhlOv5) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [BOYS](https://open.spotify.com/album/1wFvwQ7b3bpe4YbzFs7H4d) | 3:07 |

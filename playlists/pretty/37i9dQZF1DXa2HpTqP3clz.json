@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Molly Tuttle",
-  "num_followers": 167601,
+  "num_followers": 167599,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "The New Modern Hymns",
-        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        }
-      ],
-      "duration_ms": 226901,
-      "name": "American Tune",
-      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Smoky Mountain DNA: Family, Faith and Fables",
         "url": "https://open.spotify.com/album/28bVqBO08O6jcgirj9Yj0l"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 179389,
       "name": "My Tennessee Mountain Home",
       "url": "https://open.spotify.com/track/6NtjZAMX3jjuzNqHKMFCu8"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "The New Modern Hymns",
+        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        }
+      ],
+      "duration_ms": 226901,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
+      },
+      "artists": [
+        {
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+        }
+      ],
+      "duration_ms": 301586,
+      "name": "Give That Wildman a Knife/ Bellows Falls/ Waitin' On a Hannah",
+      "url": "https://open.spotify.com/track/7lNq4xjEtOVBfLdlU48g6T"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "Work Song (I Can Still Sing)",
         "url": "https://open.spotify.com/album/2deofjFoM5Rwugpm0iF3Yj"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 209603,
       "name": "Work Song (I Can Still Sing)",
       "url": "https://open.spotify.com/track/3VDvqw41vBUXaqK9FPzkYz"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "The Stray Birds",
-        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
-      },
-      "artists": [
-        {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
-        }
-      ],
-      "duration_ms": 301586,
-      "name": "Give That Wildman a Knife/ Bellows Falls/ Waitin' On a Hannah",
-      "url": "https://open.spotify.com/track/7lNq4xjEtOVBfLdlU48g6T"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1095,42 +1095,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "The Whole of the Moon",
-        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "The Whole of the Moon",
-      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "I Built A World",
-        "url": "https://open.spotify.com/album/6hTAyMVolX7dzbPkLZ54MV"
-      },
-      "artists": [
-        {
-          "name": "Bronwyn Keith-Hynes",
-          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
-        },
-        {
-          "name": "Jason Carter",
-          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
-        }
-      ],
-      "duration_ms": 243736,
-      "name": "I Built A World",
-      "url": "https://open.spotify.com/track/15nDnHLaE6j9xZnwLvRHfs"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Living In A Song",
         "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
       },
@@ -1155,6 +1119,58 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "I Built A World",
+        "url": "https://open.spotify.com/album/6hTAyMVolX7dzbPkLZ54MV"
+      },
+      "artists": [
+        {
+          "name": "Bronwyn Keith-Hynes",
+          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+        },
+        {
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
+        }
+      ],
+      "duration_ms": 243736,
+      "name": "I Built A World",
+      "url": "https://open.spotify.com/track/15nDnHLaE6j9xZnwLvRHfs"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "The Whole of the Moon",
+        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "The Whole of the Moon",
+      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Please Mr Please",
+        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 272326,
+      "name": "Please Mr Please",
+      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Please Mr Please",
-        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
+        "name": "Ain't No Sin",
+        "url": "https://open.spotify.com/album/4n8lKlIIi2nPMMfgHCiTQx"
       },
       "artists": [
         {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
         }
       ],
-      "duration_ms": 272326,
-      "name": "Please Mr Please",
-      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
+      "duration_ms": 172000,
+      "name": "Ain't No Sin",
+      "url": "https://open.spotify.com/track/3GckgXLQoe486mGzxGKz6i"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Ain't No Sin",
-        "url": "https://open.spotify.com/album/4n8lKlIIi2nPMMfgHCiTQx"
+        "name": "BBQ Chips",
+        "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
       },
       "artists": [
         {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+          "name": "Abby Webster",
+          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Ain't No Sin",
-      "url": "https://open.spotify.com/track/3GckgXLQoe486mGzxGKz6i"
+      "duration_ms": 248364,
+      "name": "BBQ Chips",
+      "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1255,22 +1271,6 @@
       "duration_ms": 273627,
       "name": "Mr. Charlie",
       "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "BBQ Chips",
-        "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
-      },
-      "artists": [
-        {
-          "name": "Abby Webster",
-          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
-        }
-      ],
-      "duration_ms": 248364,
-      "name": "BBQ Chips",
-      "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Way Back When",
-        "url": "https://open.spotify.com/album/7cLJ83Yh2aiTrUGu5UYFsL"
-      },
-      "artists": [
-        {
-          "name": "Larry Sparks",
-          "url": "https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA"
-        }
-      ],
-      "duration_ms": 139999,
-      "name": "Tennessee Border",
-      "url": "https://open.spotify.com/track/7k2shcdLyUwPOAYoFmkIsO"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 216950,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Way Back When",
+        "url": "https://open.spotify.com/album/7cLJ83Yh2aiTrUGu5UYFsL"
+      },
+      "artists": [
+        {
+          "name": "Larry Sparks",
+          "url": "https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA"
+        }
+      ],
+      "duration_ms": 139999,
+      "name": "Tennessee Border",
+      "url": "https://open.spotify.com/track/7k2shcdLyUwPOAYoFmkIsO"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Georgia Rain",
-        "url": "https://open.spotify.com/album/1BFRKYgiqWRHl2FVHSLXzg"
-      },
-      "artists": [
-        {
-          "name": "Jaelee Roberts",
-          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Georgia Rain",
-      "url": "https://open.spotify.com/track/6kM1cbK4b9MPzIDKvzXJHu"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Let It Fall",
         "url": "https://open.spotify.com/album/4PUo10KAVp8UYAUXRvVZq2"
       },
@@ -1647,26 +1631,6 @@
       "duration_ms": 213360,
       "name": "Let It Fall",
       "url": "https://open.spotify.com/track/0JC6wfQJn8GyFwgscOLNoM"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "Lifetime To Go",
-        "url": "https://open.spotify.com/album/7fPKHS5uBtUv5hxb8eIMqX"
-      },
-      "artists": [
-        {
-          "name": "Cris Jacobs",
-          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
-        },
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        }
-      ],
-      "duration_ms": 259534,
-      "name": "Lifetime to Go",
-      "url": "https://open.spotify.com/track/6lIa72k5pLtGwAmdsfgvG6"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1699,6 +1663,42 @@
       "duration_ms": 197500,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Lifetime To Go",
+        "url": "https://open.spotify.com/album/7fPKHS5uBtUv5hxb8eIMqX"
+      },
+      "artists": [
+        {
+          "name": "Cris Jacobs",
+          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
+        },
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "duration_ms": 259534,
+      "name": "Lifetime to Go",
+      "url": "https://open.spotify.com/track/6lIa72k5pLtGwAmdsfgvG6"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Georgia Rain",
+        "url": "https://open.spotify.com/album/1BFRKYgiqWRHl2FVHSLXzg"
+      },
+      "artists": [
+        {
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Georgia Rain",
+      "url": "https://open.spotify.com/track/6kM1cbK4b9MPzIDKvzXJHu"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Radio John: Songs of John Hartford",
-        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "I'm Still Here",
-      "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/3LVLGUjjuicXJofykim9ne"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 235786,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Radio John: Songs of John Hartford",
+        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "I'm Still Here",
+      "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
     },
     {
       "added_at": "2026-03-27 04:00:14",

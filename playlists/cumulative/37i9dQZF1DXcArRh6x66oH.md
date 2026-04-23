@@ -4,7 +4,7 @@
 
 > roots run deep with Kacey Musgraves
 
-441 songs - 1 day 2 hr 17 min
+442 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/1DbZAffh8GGwW41Q3AU8iC) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [FLOWER SHOPS \(THE ALBUM\)](https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O) | 3:34 | 2024-08-28 |  |
 | [Fly](https://open.spotify.com/track/0dOo9NqxZf5QtyzU44lhFS) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Fly](https://open.spotify.com/album/4Av0ru4lo7D7fe0DlKDR10) | 2:43 | 2023-03-10 | 2023-08-21 |
 | [Fly On The Wall](https://open.spotify.com/track/2YBOHdgzpMmNHdW0Zub9Ze) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S), [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [Introducing: The Heartbreak](https://open.spotify.com/album/7HdNW5sRiuHyje1MWpzpI7) | 3:48 | 2023-11-17 | 2024-10-11 |
+| [Fool's Gold](https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Fool's Gold](https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG) | 3:17 | 2026-04-22 |  |
 | [For A Day](https://open.spotify.com/track/29LtoylY7DDpmY2hMdEVkx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini) | 2:47 | 2023-11-10 | 2023-11-18 |
 | [For A Day](https://open.spotify.com/track/3ImUotYT19T3vXDVOWAXAm) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i) | 2:48 | 2023-05-19 | 2023-11-11 |
 | [Four Leaf Clover](https://open.spotify.com/track/23XqRpuJoOgUokER9MeNLP) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Four Leaf Clover](https://open.spotify.com/album/5LSirFXyzjH9d0xJcjKvId) | 3:11 | 2024-01-26 |  |
@@ -376,7 +377,7 @@
 | [Take Me Down River](https://open.spotify.com/track/1JB1ib2LlccjoFHbHKaK9V) | [Grayson Little](https://open.spotify.com/artist/3m9JXQ3NwpCcmzwOKH5AKM) | [Take Me Down River](https://open.spotify.com/album/2lM7nqpNNf7kanAoVTB18P) | 3:31 | 2023-02-24 | 2023-12-09 |
 | [Tattoos](https://open.spotify.com/track/1XcxubL4Y4U4gxLeIbb8VM) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:23 | 2023-02-24 |  |
 | [Tears the Size of Texas](https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI) | 3:58 | 2023-02-24 | 2023-10-01 |
-| [Tennessee](https://open.spotify.com/track/7l9mIuhLAQJzvpoibPU2bE) | [The Creekers](https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i) | [River Rat](https://open.spotify.com/album/1B1uV1TfiwBFxKSJBakP8Z) | 3:51 | 2025-08-18 |  |
+| [Tennessee](https://open.spotify.com/track/7l9mIuhLAQJzvpoibPU2bE) | [The Creekers](https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i) | [River Rat](https://open.spotify.com/album/1B1uV1TfiwBFxKSJBakP8Z) | 3:51 | 2025-08-18 | 2026-04-23 |
 | [The Actor \(feat\. Charles Wesley Godwin\)](https://open.spotify.com/track/2Njx2qH5mUaKXHNvMeQeue) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Actor \(feat\. Charles Wesley Godwin\)](https://open.spotify.com/album/1j9PYG8WzrHfUvrLRTcjXo) | 2:49 | 2025-05-16 |  |
 | [The Devil Always Made Me Think Twice](https://open.spotify.com/track/40FSPpFK3mhTjJvPE3wygi) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream](https://open.spotify.com/album/1UfyxIrWgV9362cakdeucO) | 4:11 | 2023-02-24 | 2023-12-09 |
 | [The Devil Wears a Suit and Tie](https://open.spotify.com/track/43UV5Uk0ntzH6MP8Rx1RKh) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:56 | 2023-08-25 | 2024-04-19 |

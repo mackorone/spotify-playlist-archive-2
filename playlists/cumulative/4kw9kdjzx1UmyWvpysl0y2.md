@@ -4,12 +4,13 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,215 songs - 2 day 19 hr 40 min
+1,216 songs - 2 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...Ready For It?](https://open.spotify.com/track/7dMHikM2EFipQdSyDZbnsE) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [...Ready For It?](https://open.spotify.com/album/4DXlmR7JJ4epvcYOqL6jet) | 3:50 | 2023-05-25 | 2023-08-20 |
 | [1 Man Army](https://open.spotify.com/track/5PVplB3e8qidkOZrdHrbKg) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [1 MAN ARMY](https://open.spotify.com/album/0JiUH7A9KRrmt1P7sUB0ta) | 3:18 | 2025-02-28 | 2025-05-24 |
+| [1234](https://open.spotify.com/track/3Q4c260OtcneST0kSXoLnE) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [1234](https://open.spotify.com/album/5ThSyNsXiVHyF06Zd4mZuq) | 2:31 | 2026-04-22 |  |
 | [1975](https://open.spotify.com/track/5bQqkBDFptj1oNKoVDVsGI) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Paranoid Optimist](https://open.spotify.com/album/2XuM7DMo1S8BueOOxBuiYl) | 2:11 | 2022-05-06 | 2022-07-19 |
 | [2 Da Floor](https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V) | [2 Da Floor](https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L) | 3:05 | 2025-01-22 | 2025-04-16 |
 | [2 u](https://open.spotify.com/track/5bx9sEQYEJ1thvxHhq7uLB) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [2 u](https://open.spotify.com/album/2cqdDAdGDlpBV2guQtg9Bw) | 2:16 | 2026-03-19 |  |

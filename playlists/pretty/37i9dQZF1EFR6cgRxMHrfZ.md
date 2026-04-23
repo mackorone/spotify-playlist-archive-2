@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200 likes - 169 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 201 likes - 169 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 59 | [Insomniac](https://open.spotify.com/track/5LFGS3o3H1OSIf6y9lH8oP) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 2:59 |
 | 60 | [Thick Skin](https://open.spotify.com/track/6AUdIUa9taPXjYv2IuyMh1) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS \(DELUXE\)](https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU) | 2:32 |
 | 61 | [Beast](https://open.spotify.com/track/6LxYLEHqoPvKDyhoTU0d9F) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/7612v2NCnEexfvOHwK0Ttr) | 3:14 |
-| 62 | [Comedown](https://open.spotify.com/track/4BijsA9UwhonQHErVbzH4L) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3) | [Comedown](https://open.spotify.com/album/0GiUcSBb1JXpGsPwX4eAfn) | 2:48 |
-| 63 | [You and Me](https://open.spotify.com/track/0vuj9C2EaijzROiGd4yAvz) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [You and Me](https://open.spotify.com/album/2XhdejNPxAfbGZwuoeBEqo) | 2:46 |
+| 62 | [You and Me](https://open.spotify.com/track/0vuj9C2EaijzROiGd4yAvz) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [You and Me](https://open.spotify.com/album/2XhdejNPxAfbGZwuoeBEqo) | 2:46 |
+| 63 | [Comedown](https://open.spotify.com/track/4BijsA9UwhonQHErVbzH4L) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3) | [Comedown](https://open.spotify.com/album/0GiUcSBb1JXpGsPwX4eAfn) | 2:48 |
 | 64 | [Be Easy](https://open.spotify.com/track/1rVRvYpH6numR6NfRtwJAo) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [To Dream](https://open.spotify.com/album/4hXGxuxXLcpbVTQUqOSZCJ) | 3:11 |
 | 65 | [Call For You](https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 3:38 |
 | 66 | [For You](https://open.spotify.com/track/7152P5rQMwjwoyepSuHx1B) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 4:46 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 103 | [Prosecco](https://open.spotify.com/track/21RpxKRagsCUsiqJe2zg9Z) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:25 |
 | 104 | [Crystal Ball](https://open.spotify.com/track/2if88MyNq14tVvQg49WwqP) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 3:00 |
 | 105 | [Are You Down](https://open.spotify.com/track/3q4KWbIzey7qQwaEsjlZl6) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Are You Down](https://open.spotify.com/album/7avyGDYu07FYDN8dslIxeS) | 3:05 |
-| 106 | [Until the Sunrise](https://open.spotify.com/track/79sLEAkkvv4Ogc67PkhBWR) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 7:02 |
-| 107 | [Wildheart](https://open.spotify.com/track/73ZgfWXgthO6suB2xM5wac) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Deluxe\)](https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv) | 2:46 |
+| 106 | [Wildheart](https://open.spotify.com/track/73ZgfWXgthO6suB2xM5wac) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Deluxe\)](https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv) | 2:46 |
+| 107 | [Until the Sunrise](https://open.spotify.com/track/79sLEAkkvv4Ogc67PkhBWR) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 7:02 |
 | 108 | [Crazy](https://open.spotify.com/track/6YBMZXn64raboF2O3LcUh4) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:07 |
 | 109 | [To Dream](https://open.spotify.com/track/0vaXxVRPhjCo6MUnGsmHD2) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [To Dream](https://open.spotify.com/album/4hXGxuxXLcpbVTQUqOSZCJ) | 2:13 |
 | 110 | [Ex Games](https://open.spotify.com/track/4aFLceY2SiW4mclfXXyurP) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 4:41 |
@@ -150,19 +150,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 140 | [Drift Away](https://open.spotify.com/track/1DRAXxL9FO38rjUhCCKoqA) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [LOOK! I'm Alive](https://open.spotify.com/album/6kEeD6FBlXWEuWN2YFj4pU) | 2:33 |
 | 141 | [Trigger Pull](https://open.spotify.com/track/36lWj5leItG9UojUEdtlPy) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/25wOAGrwmxfXdI7lRVHCB4) | 3:25 |
 | 142 | [Spend Some Money](https://open.spotify.com/track/3TcqRZ82oECJnwU9CDoQ1w) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 2:14 |
-| 143 | [My Brother](https://open.spotify.com/track/6CyG7dQCSt5rQAWglWRUJH) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [The Identity Crisis: Side A](https://open.spotify.com/album/0frneG4jiVupF47MCKJR4I) | 3:01 |
-| 144 | [Trip Around The Sun](https://open.spotify.com/track/1AaU5I2I62IdMUV755YCQm) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/25wOAGrwmxfXdI7lRVHCB4) | 3:02 |
+| 143 | [Trip Around The Sun](https://open.spotify.com/track/1AaU5I2I62IdMUV755YCQm) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/25wOAGrwmxfXdI7lRVHCB4) | 3:02 |
+| 144 | [My Brother](https://open.spotify.com/track/6CyG7dQCSt5rQAWglWRUJH) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [The Identity Crisis: Side A](https://open.spotify.com/album/0frneG4jiVupF47MCKJR4I) | 3:01 |
 | 145 | [Interlude](https://open.spotify.com/track/0FKQ1F4rLZPr3rRI7eiHDN) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 0:54 |
 | 146 | [I CAN'T DANCE TO THIS](https://open.spotify.com/track/0sxRvZ1eY4kh29felb8ZPQ) | [Benicio Bryant](https://open.spotify.com/artist/4qs1nF5ED0DZKyxFwNCyMC) | [I CAN'T DANCE TO THIS](https://open.spotify.com/album/2iwMfZMKFNBs5ytkjsZTJl) | 2:31 |
 | 147 | [Flower Moon](https://open.spotify.com/track/4GPvWYn5804EKxq6g8kxdj) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/25wOAGrwmxfXdI7lRVHCB4) | 3:35 |
-| 148 | [The Chase](https://open.spotify.com/track/7dC5kRk8SGKk9zjuDLJQFf) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Chase](https://open.spotify.com/album/6Xarwi5eTFjSPMUIUUHoIr) | 4:55 |
-| 149 | [Run With The Sun](https://open.spotify.com/track/4tzDxQC3Rkso3khvj5nQJG) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Run With The Sun](https://open.spotify.com/album/0yGAKnZcjJiLJtz8zxZw3a) | 2:30 |
+| 148 | [Run With The Sun](https://open.spotify.com/track/4tzDxQC3Rkso3khvj5nQJG) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Run With The Sun](https://open.spotify.com/album/0yGAKnZcjJiLJtz8zxZw3a) | 2:30 |
+| 149 | [The Chase](https://open.spotify.com/track/7dC5kRk8SGKk9zjuDLJQFf) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Chase](https://open.spotify.com/album/6Xarwi5eTFjSPMUIUUHoIr) | 4:55 |
 | 150 | [1999](https://open.spotify.com/track/1lg6UeR6Y1575awdNzQxJ2) | [dwilly](https://open.spotify.com/artist/3XyvBNwsPBVhCXoYLNNQ84) | [CRAYOLA](https://open.spotify.com/album/26XpI9rAvpr02jCCJpZUIJ) | 3:07 |
 | 151 | [Pipe Dreams](https://open.spotify.com/track/37t9jRXgVdG9sMZkARkCYo) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Pipe Dreams](https://open.spotify.com/album/19ELZjBFt6REPNO5hprMXM) | 4:23 |
 | 152 | [Silver Lining](https://open.spotify.com/track/1rokgLrCwVL5GqjdKHVCs3) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/25wOAGrwmxfXdI7lRVHCB4) | 1:27 |
 | 153 | [Christmas Isn't Christmas Without You](https://open.spotify.com/track/0uayTjcJemZSpl83vpLbYt) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [a heartfelt holiday part 2](https://open.spotify.com/album/7jxFPptXltgsOe2faw82JA) | 3:20 |
-| 154 | [Sun Goes Down](https://open.spotify.com/track/1owtUJFiAoNQ7FpJj5x2Ni) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Sun Goes Down](https://open.spotify.com/album/2AL2B57umU9ZrQqRJDl6XF) | 2:03 |
-| 155 | [Time Zones](https://open.spotify.com/track/5kWEk88wMR9mmTyspnBOp4) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Jordi](https://open.spotify.com/album/0A3Wbzsq8IHa6K5BTfcoMr) | 2:54 |
+| 154 | [Time Zones](https://open.spotify.com/track/5kWEk88wMR9mmTyspnBOp4) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Jordi](https://open.spotify.com/album/0A3Wbzsq8IHa6K5BTfcoMr) | 2:54 |
+| 155 | [Sun Goes Down](https://open.spotify.com/track/1owtUJFiAoNQ7FpJj5x2Ni) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Sun Goes Down](https://open.spotify.com/album/2AL2B57umU9ZrQqRJDl6XF) | 2:03 |
 | 156 | [Goodbye, Me](https://open.spotify.com/track/2UmMqjf7JNC7cezNPos4sg) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 2:37 |
 | 157 | [pretty when you cry](https://open.spotify.com/track/6sV7rEw7DtxA96eqQLBNcM) | [Jackson Marshall](https://open.spotify.com/artist/4sabxefSr7gXnTA6Lv3ILl) | [STRIKE](https://open.spotify.com/album/1mbi9Un5fSy6dGF8ZUsy4F) | 2:11 |
 | 158 | [Trip Around The Sun](https://open.spotify.com/track/1F2R8QEBvyBnSGCStDsjPf) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr) | [Nosebleeds \- Other Sides](https://open.spotify.com/album/3Z9R3Bhxv9lHP60wHynQL4) | 3:23 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 168 | [Drink Us Back Together](https://open.spotify.com/track/5dANkvVBO2q1vqty0jNp4i) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 3:12 |
 | 169 | [Give You Love](https://open.spotify.com/track/2UO5W95ydfVo5AmCQNzVxJ) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Give You Love](https://open.spotify.com/album/4AhCVQ2AZkSQD7N3Mp3ksC) | 3:04 |
 
-Snapshot ID: `AcPewAAAAADOICvylzWR3mlKo40G/o4n`
+Snapshot ID: `AcPkkgAAAAD9d8BC3mGCfqEzU8yYMiiS`

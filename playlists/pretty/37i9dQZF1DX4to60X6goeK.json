@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Voltage",
-  "num_followers": 75426,
+  "num_followers": 75435,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -427,42 +427,6 @@
     {
       "added_at": "2026-04-09 18:06:13",
       "album": {
-        "name": "Reaper (feat. Comma Dee)",
-        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 213793,
-      "name": "Reaper (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
-    },
-    {
-      "added_at": "2026-04-09 18:06:13",
-      "album": {
-        "name": "Do U Feel It Now?",
-        "url": "https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL"
-      },
-      "artists": [
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Do U Feel It Now?",
-      "url": "https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma"
-    },
-    {
-      "added_at": "2026-04-09 18:06:13",
-      "album": {
         "name": "Sientelo (Sota & Circadian Remix)",
         "url": "https://open.spotify.com/album/3nRCHcfRdwHgKkYyYYYj4h"
       },
@@ -487,6 +451,42 @@
       "duration_ms": 237257,
       "name": "Sientelo - Sota & Circadian Remix",
       "url": "https://open.spotify.com/track/2G1ePysdwwjtoxB0qSacjd"
+    },
+    {
+      "added_at": "2026-04-09 18:06:13",
+      "album": {
+        "name": "Do U Feel It Now?",
+        "url": "https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL"
+      },
+      "artists": [
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Do U Feel It Now?",
+      "url": "https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma"
+    },
+    {
+      "added_at": "2026-04-09 18:06:13",
+      "album": {
+        "name": "Reaper (feat. Comma Dee)",
+        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 213793,
+      "name": "Reaper (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
     },
     {
       "added_at": "2026-04-09 18:06:13",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-04-09 18:06:13",
       "album": {
-        "name": "Come With It",
-        "url": "https://open.spotify.com/album/0xwUWz3tDMxaWHvQXIphvy"
-      },
-      "artists": [
-        {
-          "name": "Selecta J-Man",
-          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Come With It",
-      "url": "https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2"
-    },
-    {
-      "added_at": "2026-04-09 18:06:13",
-      "album": {
         "name": "Dopamine Hits",
         "url": "https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2026-04-09 18:06:13",
       "album": {
+        "name": "Come With It",
+        "url": "https://open.spotify.com/album/0xwUWz3tDMxaWHvQXIphvy"
+      },
+      "artists": [
+        {
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Come With It",
+      "url": "https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2"
+    },
+    {
+      "added_at": "2026-04-09 18:06:13",
+      "album": {
         "name": "Told You (Soundboy)",
         "url": "https://open.spotify.com/album/2Ah95ZX9DuOmwzGv51rCBS"
       },
@@ -1055,22 +1055,26 @@
     {
       "added_at": "2026-04-09 18:06:13",
       "album": {
-        "name": "Dragon Style",
-        "url": "https://open.spotify.com/album/0NJrj8gD8zMYzIIuu2mbFY"
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/12FRM8NELjqrOSdfuXxrfC"
       },
       "artists": [
         {
-          "name": "Jamezy",
-          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
         },
         {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
         }
       ],
-      "duration_ms": 176914,
-      "name": "Cost Of Living",
-      "url": "https://open.spotify.com/track/7frbuW4N5CoVYGkSnu4UIa"
+      "duration_ms": 204137,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/4roXdtgxy29XQ8hSOaT8F7"
     }
   ],
   "unique_name": "Jump Up!",

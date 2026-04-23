@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,320 likes - 85 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,336 likes - 85 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 19 | [Céu Rosé](https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Céu Rosé](https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR) | 2:44 |
 | 20 | [Banho de Mar](https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Re.Significa](https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ) | [Banho de Mar](https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2) | 2:49 |
 | 21 | [Erva e Calor](https://open.spotify.com/track/6aGMSrVGVKKnMeOIkAG3DV) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Erva e Calor](https://open.spotify.com/album/3lJBNEG7apvwdv59QZAccd) | 3:17 |
-| 22 | [O Amor Descansa Na Varanda](https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [O Amor Descansa Na Varanda](https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo) | 3:24 |
-| 23 | [Farol das Estrelas \- Ao Vivo](https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Farol das Estrelas \(Ao Vivo\)](https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl) | 3:48 |
+| 22 | [Farol das Estrelas \- Ao Vivo](https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Farol das Estrelas \(Ao Vivo\)](https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl) | 3:48 |
+| 23 | [O Amor Descansa Na Varanda](https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [O Amor Descansa Na Varanda](https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo) | 3:24 |
 | 24 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
 | 25 | [amores vêm e vão](https://open.spotify.com/track/6EJT6JMDqVAlxBkCsMhBFi) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [amores vêm e vão](https://open.spotify.com/album/2XF4xVFMqUIkz0bAtmrhBf) | 3:56 |
 | 26 | [Vem Cá](https://open.spotify.com/track/4nRM0WwUuXCCkQMKD4xWFF) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:52 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 49 | [cheia de vontade](https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [cheia de vontade](https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv) | 2:26 |
 | 50 | [Estrelas](https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB) | [Jonathan Luiz](https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2) | [Estrelas](https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj) | 3:33 |
 | 51 | [Com Certeza](https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv), [Zeider](https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW) | [Com Certeza](https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7) | 3:32 |
-| 52 | [SOY DEL MUNDO](https://open.spotify.com/track/2ZZ3O1ah5j6q4UdairuHcc) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [SOY DEL MUNDO](https://open.spotify.com/album/1VTAl9vBwufjE3TUxrsusc) | 3:18 |
-| 53 | [Juízo e Responsabilidade](https://open.spotify.com/track/7p01taFUjX5boi9yIiOgEK) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Juízo e Responsabilidade](https://open.spotify.com/album/08CY5RDd32Yyd92rOA4uVa) | 2:37 |
-| 54 | [Vou Me Banhar](https://open.spotify.com/track/1BFf0ApsecABByJCo1jsYr) | [LOFRAN](https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78), [Jônatas Belgrande](https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz) | [Vou Me Banhar](https://open.spotify.com/album/145K2alwT2soP1E7ioZr1M) | 3:42 |
+| 52 | [Juízo e Responsabilidade](https://open.spotify.com/track/7p01taFUjX5boi9yIiOgEK) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Juízo e Responsabilidade](https://open.spotify.com/album/08CY5RDd32Yyd92rOA4uVa) | 2:37 |
+| 53 | [Vou Me Banhar](https://open.spotify.com/track/1BFf0ApsecABByJCo1jsYr) | [LOFRAN](https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78), [Jônatas Belgrande](https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz) | [Vou Me Banhar](https://open.spotify.com/album/145K2alwT2soP1E7ioZr1M) | 3:42 |
+| 54 | [SOY DEL MUNDO](https://open.spotify.com/track/2ZZ3O1ah5j6q4UdairuHcc) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [SOY DEL MUNDO](https://open.spotify.com/album/1VTAl9vBwufjE3TUxrsusc) | 3:18 |
 | 55 | [PREAMAR](https://open.spotify.com/track/5vXucjlEods0fafmWCudxU) | [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj), [Felipe Cordeiro](https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4), [Júnior Soares](https://open.spotify.com/artist/4d4yeFgcaOZvMcCWWY0pON) | [PREAMAR](https://open.spotify.com/album/46P8ssX2MolOO2NNGcGoeA) | 4:21 |
 | 56 | [borboletas](https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf) | [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [borboletas](https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi) | 2:55 |
 | 57 | [Atrás do Paredão](https://open.spotify.com/track/4O6i8ct2I0HtUmZVUBlDjZ) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI) | [Atrás do Paredão](https://open.spotify.com/album/4Sxugxaro4A5vKGDKWjM13) | 2:50 |

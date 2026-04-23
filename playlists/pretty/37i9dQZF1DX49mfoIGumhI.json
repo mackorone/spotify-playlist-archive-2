@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 273873,
+  "num_followers": 273943,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Rodven Clasico: Tommy Olivencia Y Su Orquesta \"30 Aniversario\"",
-        "url": "https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Olivencia",
-          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
-        }
-      ],
-      "duration_ms": 290453,
-      "name": "Lobo Domesticado",
-      "url": "https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Al Duro",
         "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 277906,
       "name": "Te Propongo",
       "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Rodven Clasico: Tommy Olivencia Y Su Orquesta \"30 Aniversario\"",
+        "url": "https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia",
+          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
+        }
+      ],
+      "duration_ms": 290453,
+      "name": "Lobo Domesticado",
+      "url": "https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "De Costa a Costa",
-        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
-      },
-      "artists": [
-        {
-          "name": "Mariano Civico",
-          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
-        }
-      ],
-      "duration_ms": 309760,
-      "name": "Te Voy a Hacer Feliz",
-      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Original",
         "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 265480,
       "name": "De Punta a Punta",
       "url": "https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "De Costa a Costa",
+        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Civico",
+          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
+        }
+      ],
+      "duration_ms": 309760,
+      "name": "Te Voy a Hacer Feliz",
+      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
     },
     {
       "added_at": "2024-07-11 00:51:42",

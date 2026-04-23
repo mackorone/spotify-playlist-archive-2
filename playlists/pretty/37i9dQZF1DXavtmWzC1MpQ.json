@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 154831,
+  "num_followers": 154835,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Rainforest Soundscapes",
-        "url": "https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w"
+        "name": "Calm Green Wave Sounds",
+        "url": "https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT"
       },
       "artists": [
         {
-          "name": "Rain Gems",
-          "url": "https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq"
+          "name": "EFX Mirelight",
+          "url": "https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv"
         }
       ],
-      "duration_ms": 162679,
-      "name": "Rainforest",
-      "url": "https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF"
+      "duration_ms": 104374,
+      "name": "Calming Creek",
+      "url": "https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -367,18 +367,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Calm Green Wave Sounds",
-        "url": "https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT"
+        "name": "Rainforest Soundscapes",
+        "url": "https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w"
       },
       "artists": [
         {
-          "name": "EFX Mirelight",
-          "url": "https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv"
+          "name": "Rain Gems",
+          "url": "https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq"
         }
       ],
-      "duration_ms": 104374,
-      "name": "Calming Creek",
-      "url": "https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd"
+      "duration_ms": 162679,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Small River Stream in the Jungle",
+        "url": "https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Gutierrez G.",
+          "url": "https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x"
+        }
+      ],
+      "duration_ms": 281792,
+      "name": "Small River Stream in the Jungle",
+      "url": "https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "Tr\u00f3pico",
         "url": "https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 153488,
       "name": "Still the River Flows",
       "url": "https://open.spotify.com/track/45oRTAt9cy1PHglZfBlG5P"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Small River Stream in the Jungle",
-        "url": "https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Gutierrez G.",
-          "url": "https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x"
-        }
-      ],
-      "duration_ms": 281792,
-      "name": "Small River Stream in the Jungle",
-      "url": "https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Bird Life",
-        "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
-      },
-      "artists": [
-        {
-          "name": "Beyond North",
-          "url": "https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Bird Life",
-      "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Terapheutic Thunder",
         "url": "https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 179938,
       "name": "Power and Meditation",
       "url": "https://open.spotify.com/track/24XDOa1lefrRyMMoqEgmze"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Bird Life",
+        "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
+      },
+      "artists": [
+        {
+          "name": "Beyond North",
+          "url": "https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Bird Life",
+      "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
     },
     {
       "added_at": "2026-04-02 09:58:26",

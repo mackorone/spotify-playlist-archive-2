@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124042,
+  "num_followers": 124039,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVVLKDTVVPDpJX/rW6t+xGQTZpMiFr",
+  "snapshot_id": "AAAVVbZB+Uqun6x09mrNvGwTjCYRzKSP",
   "tracks": [
+    {
+      "added_at": "2026-04-22 13:48:05",
+      "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/5ThSyNsXiVHyF06Zd4mZuq"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        }
+      ],
+      "duration_ms": 151267,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/3Q4c260OtcneST0kSXoLnE"
+    },
     {
       "added_at": "2026-04-20 14:21:28",
       "album": {

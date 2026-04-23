@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 273702,
+  "num_followers": 273681,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 254437,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
         "name": "Home To You (This Christmas)",
         "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Winter Song",
-        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
         }
       ],
-      "duration_ms": 254437,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
+      "duration_ms": 219093,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -727,22 +743,6 @@
       "duration_ms": 180974,
       "name": "This Christmas I'm Coming Home",
       "url": "https://open.spotify.com/track/7JZAQlrUT16F5dHeGeeB3Y"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "This Christmas",
-        "url": "https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
+        "name": "Purple Snowflakes / This Wintertime",
+        "url": "https://open.spotify.com/album/5SoBDgotyx8iue58ZB35uf"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "This Wintertime",
+      "url": "https://open.spotify.com/track/4K2eNoUvBzaD0yjAtSHvG3"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
         "name": "A Christmas Album",
         "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
       },
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Purple Snowflakes / This Wintertime",
-        "url": "https://open.spotify.com/album/5SoBDgotyx8iue58ZB35uf"
+        "name": "Carol Of The Bells",
+        "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
       },
       "artists": [
         {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
         }
       ],
-      "duration_ms": 253066,
-      "name": "This Wintertime",
-      "url": "https://open.spotify.com/track/4K2eNoUvBzaD0yjAtSHvG3"
+      "duration_ms": 193379,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1219,22 +1235,6 @@
       "duration_ms": 176583,
       "name": "The Little Drummer Boy",
       "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "Carol Of The Bells",
-        "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
-      },
-      "artists": [
-        {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
-        }
-      ],
-      "duration_ms": 193379,
-      "name": "Carol Of The Bells",
-      "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
     },
     {
       "added_at": "2025-12-17 22:42:18",

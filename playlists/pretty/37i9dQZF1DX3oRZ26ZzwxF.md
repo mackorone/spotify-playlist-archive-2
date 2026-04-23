@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Didi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,173 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,233 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 6 | [OKULU](https://open.spotify.com/track/5EYzkAbjF5CEY2SWtyUeYl) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [AFRO\-N\-TCHAM 2](https://open.spotify.com/album/0aTEIBSkouiQnHANZUekbg) | 2:58 |
 | 7 | [KAGEINNOVE!](https://open.spotify.com/track/3AAFqi7W4QcpvsX7PrGMRa) | [KAGE](https://open.spotify.com/artist/5oNgpBQyteJdewZ0emcyfb) | [KAGEINNOVE!](https://open.spotify.com/album/5LmDG8gpJvW8yFsZZuwdLu) | 3:09 |
 | 8 | [Comment](https://open.spotify.com/track/20QJGEOvJ8UHY9v3Ner3r7) | [TRK.](https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7) | [Comment](https://open.spotify.com/album/4bxuDXWLfdLt9pfcW7emLl) | 2:42 |
-| 9 | [Number One](https://open.spotify.com/track/0pzVy9m27gZ9vZ99PmYQXN) | [Le Niapo](https://open.spotify.com/artist/6usbXA7yWZzwHOmOaKbDoJ) | [Number One](https://open.spotify.com/album/7cXvYCBhsR0QJckyTGKmqe) | 2:22 |
+| 9 | [Number One](https://open.spotify.com/track/0pzVy9m27gZ9vZ99PmYQXN) | [Le Niapo](https://open.spotify.com/artist/6usbXA7yWZzwHOmOaKbDoJ), [Waza no limite](https://open.spotify.com/artist/0J285nKY53u8GAlvywTPQb) | [Number One](https://open.spotify.com/album/7cXvYCBhsR0QJckyTGKmqe) | 2:22 |
 | 10 | [AMADAN](https://open.spotify.com/track/59SNPmcXGLAMAmnUqQw2ZH) | [Lamine løssa](https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6) | [AMADAN](https://open.spotify.com/album/76fbIrnYRRxc6zjykmBNwV) | 3:14 |
 | 11 | [Maintenant ça va \(feat\. Didi B\)](https://open.spotify.com/track/0FZFPzlAV43lEzh3ANMVIE) | [BLACKY LAMELO](https://open.spotify.com/artist/7E97Mg8YMYEctprZJLP6IM), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Maintenant ça va \(feat\. Didi B\)](https://open.spotify.com/album/1vGrpA77Ks4EcieMG1jodA) | 3:22 |
 | 12 | [Recommence](https://open.spotify.com/track/3ELmcYIi0PXmFXrnLeKwIt) | [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Flâ Ni](https://open.spotify.com/album/338CpWJ2T8WYv1ABjLEp5j) | 2:12 |

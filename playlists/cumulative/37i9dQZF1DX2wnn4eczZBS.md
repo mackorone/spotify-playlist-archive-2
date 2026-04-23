@@ -4,7 +4,7 @@
 
 > Indiepop in het Nederlands\. Cover: IDA
 
-323 songs - 16 hr 45 min
+324 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Het Outro](https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Het Outro](https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY) | 3:20 | 2024-11-07 | 2025-05-27 |
 | [Het Vliegt Voorbij](https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Het Vliegt Voorbij](https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl) | 2:43 | 2025-03-07 | 2025-04-07 |
 | [Hete Plaat](https://open.spotify.com/track/7gjLOSH4deTDoXDxWaZoaE) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO) | [Hete Plaat](https://open.spotify.com/album/21bS7BvqWf6mwZX2bYKOO0) | 4:34 | 2025-07-17 | 2025-09-27 |
+| [Hij/Zij](https://open.spotify.com/track/4DQpJA2ZH1zkwBVdLlhxG9) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS), [Boaz Tooren](https://open.spotify.com/artist/3naJPrcJbwO1ibrVzpbTTs) | [Hij/Zij](https://open.spotify.com/album/6MOavJ87WAghmtviNzTDMr) | 2:17 | 2026-04-16 |  |
 | [HOE?](https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [HOE?](https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3) | 3:41 | 2026-02-26 |  |
 | [Hoofd](https://open.spotify.com/track/7DsTVwUPn3qvsTVn26kgwv) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Hoofd](https://open.spotify.com/album/5XV6LTscTMjMK9EwuqSSJ9) | 2:49 | 2026-02-26 |  |
 | [Hotel de Goudfazanten](https://open.spotify.com/track/3k10pBkw1BbRf7gUmWARQM) | [Jordy Dijkshoorn](https://open.spotify.com/artist/2rxfs3NQmggU6tSbZZJ3Ke) | [Hotel de Goudfazanten](https://open.spotify.com/album/5c3FvmDVsg3K2dNpWZGS6X) | 3:21 | 2024-10-11 | 2025-01-11 |
@@ -153,7 +154,7 @@
 | [Jochie](https://open.spotify.com/track/5tNpYAk3ZYwStWmTgwmiuY) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [De Helft Van Het Verhaal](https://open.spotify.com/album/5uNnNkVHmIGDsBUbP2CyC4) | 4:04 | 2025-10-07 | 2025-12-02 |
 | [Jouw Stem](https://open.spotify.com/track/3GcUzRNG5LrUYktawq8PzU) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Jouw Stem](https://open.spotify.com/album/1SDL0q28t1zlBaD4Pc7QeU) | 2:49 | 2024-08-01 | 2025-01-11 |
 | [Kan Ik Zoveel?](https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2) | [Igor](https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq) | [Kan Ik Zoveel? / Dingen Mis Met De Auto](https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC) | 3:54 | 2026-04-09 |  |
-| [Kan Je Niet Blijven?](https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Kan Je Niet Blijven?](https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI) | 3:35 | 2026-01-26 |  |
+| [Kan Je Niet Blijven?](https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Kan Je Niet Blijven?](https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI) | 3:35 | 2026-01-26 | 2026-04-23 |
 | [Karma](https://open.spotify.com/track/6hI6zAfJPnjHHBMsbHfMDU) | [Clean Pete](https://open.spotify.com/artist/2dAA5CkO4PeMVmOXxrsl38) | [Karma](https://open.spotify.com/album/6XDpKxCJKw7yBN8lhjZW2h) | 3:25 | 2024-06-26 | 2024-11-15 |
 | [Kechseizoen](https://open.spotify.com/track/1XPCEPVwWCNKcXQ3uElIXC) | [Linde Schöne](https://open.spotify.com/artist/0XnberZ5D2ZUrwBm4RfFi4) | [Kechseizoen](https://open.spotify.com/album/3Yxb8mvbNLePJ2GPCxKLkA) | 2:29 | 2024-06-26 | 2024-07-27 |
 | [Kijk me aan als je met me vrijt](https://open.spotify.com/track/1be5nDVqn24PE8cbhtqc61) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Eeuwig Voor Een Tijdje](https://open.spotify.com/album/1WYFO1LEcm6BatRKJApR2g) | 2:41 | 2024-06-26 | 2024-07-19 |

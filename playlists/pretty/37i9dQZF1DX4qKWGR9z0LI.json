@@ -1,6 +1,6 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f",
-  "num_followers": 1880784,
+  "num_followers": 1880737,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ"
+      },
+      "artists": [
+        {
+          "name": "Miguel Enriquez",
+          "url": "https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Abre Que Voy",
+      "url": "https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
         "name": "Desde Un Principio / From The Beginning",
         "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 366200,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ"
-      },
-      "artists": [
-        {
-          "name": "Miguel Enriquez",
-          "url": "https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "Abre Que Voy",
-      "url": "https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "Quien",
-        "url": "https://open.spotify.com/album/0hNgwLeRtUaLir1rHEwdLp"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 259090,
-      "name": "Quien",
-      "url": "https://open.spotify.com/track/2hkAgJwtYXK4GiWeJmIyDv"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
         "name": "La Foto, el Video, la Chicaner\u00eda",
         "url": "https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 341839,
       "name": "Charrupi",
       "url": "https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
+        "name": "Quien",
+        "url": "https://open.spotify.com/album/0hNgwLeRtUaLir1rHEwdLp"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 259090,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/2hkAgJwtYXK4GiWeJmIyDv"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "Mal Necesario",
-        "url": "https://open.spotify.com/album/2sPvbTytESc5KmPIudRZTU"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 186224,
-      "name": "Mal Necesario",
-      "url": "https://open.spotify.com/track/6uXvGrdCSoMPSjMGWEQzFf"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
         "name": "Salsa de Amor Vol. 3",
         "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 296133,
       "name": "P\u00e1ginas De Amor",
       "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
+        "name": "Mal Necesario",
+        "url": "https://open.spotify.com/album/2sPvbTytESc5KmPIudRZTU"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 186224,
+      "name": "Mal Necesario",
+      "url": "https://open.spotify.com/track/6uXvGrdCSoMPSjMGWEQzFf"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 209723,
+      "name": "LA RONDA",
+      "url": "https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
         "name": "Fue Culpa De Usted",
         "url": "https://open.spotify.com/album/25DTevb3waLjeothJ0ADfZ"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 207423,
       "name": "Fue Culpa De Usted",
       "url": "https://open.spotify.com/track/38WoHatz30sMtk0JvZUIpO"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 209723,
-      "name": "LA RONDA",
-      "url": "https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "Como Olvidarte",
-        "url": "https://open.spotify.com/album/32uPouQihQTzUcgZCPXJY9"
-      },
-      "artists": [
-        {
-          "name": "Josimar y Su Yamb\u00fa",
-          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 188078,
-      "name": "Como Olvidarte",
-      "url": "https://open.spotify.com/track/4BqXG8Al1bDML9J8Ywapt7"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
         "name": "Mi Propiedad Privada",
         "url": "https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 216626,
       "name": "Mira - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
+        "name": "Como Olvidarte",
+        "url": "https://open.spotify.com/album/32uPouQihQTzUcgZCPXJY9"
+      },
+      "artists": [
+        {
+          "name": "Josimar y Su Yamb\u00fa",
+          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 188078,
+      "name": "Como Olvidarte",
+      "url": "https://open.spotify.com/track/4BqXG8Al1bDML9J8Ywapt7"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "Hello,What's Up",
-        "url": "https://open.spotify.com/album/6hDFSysxL72NCGP0mKHHeK"
+        "name": "Soy La Candela",
+        "url": "https://open.spotify.com/album/7yx4SxwUnCKxIecRpCGkR5"
       },
       "artists": [
         {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+          "name": "Edwin Bonilla",
+          "url": "https://open.spotify.com/artist/2bf5VxFC3tr25BxumNDQxM"
         }
       ],
-      "duration_ms": 190909,
-      "name": "Hello, What's Up",
-      "url": "https://open.spotify.com/track/11GVewr1WRV4CFJtgrL5mK"
+      "duration_ms": 341760,
+      "name": "Cuenta Bien",
+      "url": "https://open.spotify.com/track/5uAUdYqKxwofLV0p47ED5Y"
     }
   ],
   "unique_name": "Salsa Nation",

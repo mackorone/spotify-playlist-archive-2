@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: ivri
 
-2,194 songs - 4 day 22 hr 33 min
+2,195 songs - 4 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Addicted](https://open.spotify.com/track/1LefN4ngQU0F49QKq1GEe5) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [Addicted](https://open.spotify.com/album/5mIOx6pq7N7kX5Nyl3WLqi) | 3:06 | 2022-01-05 | 2022-02-03 |
 | [Addicted](https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [Addicted](https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk) | 2:43 | 2026-02-06 |  |
 | [Addicted](https://open.spotify.com/track/7BkqGhv7Al11dEg582Vfu1) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Maltman and Effie](https://open.spotify.com/album/3fMhlibIYwYG32CifC7DOq) | 4:21 | 2022-07-06 | 2022-07-29 |
+| [AFRAID!](https://open.spotify.com/track/7CL73y6Alwtgh9UGeugLYH) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [AFRAID!](https://open.spotify.com/album/0MK4yks85NeMeaUhRKBHYj) | 2:44 | 2026-04-20 |  |
 | [afrovay](https://open.spotify.com/track/0u8ONlIp5Ww8GpjsAFLQ7I) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [VAYTRIX](https://open.spotify.com/album/2eJUaD1yTAjsLn9Sg1eED2) | 1:58 | 2024-11-01 | 2024-12-05 |
 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-05-01 | 2026-04-01 |
 | [Afterlife](https://open.spotify.com/track/1DO4aHyMKVW66VWnA4pNeV) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:08 | 2025-04-22 | 2025-05-28 |
@@ -381,7 +382,7 @@
 | [choirs](https://open.spotify.com/track/5RwHKaZRI1z78HEZSO6zZn) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [The Heavy\. The Healing\. The Holding.](https://open.spotify.com/album/7FTdPyA46usZd9MUzMWr8M) | 3:30 | 2024-11-01 | 2024-12-05 |
 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 | 2023-08-02 | 2023-09-07 |
 | [Chrome](https://open.spotify.com/track/4zh2G1zGXAZUYs5X4FKSRA) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Chrome](https://open.spotify.com/album/5fh2Gvkv8SaLkKO7S4aGVe) | 3:10 | 2024-10-01 | 2024-11-02 |
-| [Chronic](https://open.spotify.com/track/5c20yKxwM7vnSCG6LGyJPy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Chronic](https://open.spotify.com/album/0AXvyUq5ZDOWScCAEbr4hT) | 2:36 | 2026-01-20 |  |
+| [Chronic](https://open.spotify.com/track/5c20yKxwM7vnSCG6LGyJPy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Chronic](https://open.spotify.com/album/0AXvyUq5ZDOWScCAEbr4hT) | 2:36 | 2026-01-20 | 2026-04-23 |
 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 | 2023-07-05 | 2024-01-27 |
 | [Church Girl](https://open.spotify.com/track/21cwn0wFC2FIaFShgFjsPT) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Church Girl](https://open.spotify.com/album/0VmjCDUt4jvjulivLagXOf) | 3:19 | 2026-03-09 |  |
 | [Church Outfit](https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Church Outfit](https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH) | 1:54 | 2023-05-03 | 2023-06-08 |

@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2026 (previous playlists archived on my profile)",
-  "num_followers": 24305,
+  "num_followers": 24303,
   "original_name": "home when you return",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOKaScpt5FKaXJIZaS3+NqFWRNsJtX",
+  "snapshot_id": "AAAOK45uAHsz2gDjDhGGzHTwC+hiOrgR",
   "tracks": [
     {
       "added_at": "2026-03-12 17:07:42",
@@ -683,6 +683,42 @@
       "duration_ms": 299960,
       "name": "1842",
       "url": "https://open.spotify.com/track/3QBeMDPyMqnqkTcIzajuJN"
+    },
+    {
+      "added_at": "2026-04-22 21:13:39",
+      "album": {
+        "name": "\u1780\u17d2\u179a\u1798\u17bb\u17c6\u178a\u178e\u17d2\u178f\u17b9\u1784\u1798\u17d2\u178f\u17b6\u1799 & \u1796\u179f\u17cb\u179c\u17c2\u1780\u179f\u1780\u179f\u17d2\u179a\u1780\u17b6",
+        "url": "https://open.spotify.com/album/5OG4mmYvGq2IFKpzsAJuOm"
+      },
+      "artists": [
+        {
+          "name": "Sinn Sisamouth",
+          "url": "https://open.spotify.com/artist/5Vp49PDKCSLwmRI1qhb0oa"
+        },
+        {
+          "name": "Huoy Meas",
+          "url": "https://open.spotify.com/artist/6cFq8stOxHqx5gmbrj0f5t"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "\u1780\u17d2\u179a\u1798\u17bb\u17c6\u178a\u178e\u17d2\u178f\u17b9\u1784\u1798\u17d2\u178f\u17b6\u1799",
+      "url": "https://open.spotify.com/track/0zbstp77qF4re3PT8VvC6j"
+    },
+    {
+      "added_at": "2026-04-22 21:15:11",
+      "album": {
+        "name": "Let Go of Stress",
+        "url": "https://open.spotify.com/album/29F6gRiX93yNCW9BzQe6Hr"
+      },
+      "artists": [
+        {
+          "name": "Petite Gar\u00e7on",
+          "url": "https://open.spotify.com/artist/24Yfuj1uVoF1YznzjXcVDV"
+        }
+      ],
+      "duration_ms": 154187,
+      "name": "With or Without Me",
+      "url": "https://open.spotify.com/track/0zokHpdhq69de6KcOWMMRj"
     }
   ],
   "unique_name": "home when you return",

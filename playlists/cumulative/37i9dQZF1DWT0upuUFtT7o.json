@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new indie tracks from independent artists & labels. Cover: After Louise",
+  "description": "The best new indie tracks from independent artists & labels. Cover: Baileyrp",
   "name": "Fresh Finds Indie",
   "tracks": [
     {
@@ -10223,6 +10223,24 @@
     },
     {
       "album": {
+        "name": "can we just forget?",
+        "url": "https://open.spotify.com/album/6olTVmgvSuZeUleCYAtayG"
+      },
+      "artists": [
+        {
+          "name": "Baileyrp",
+          "url": "https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283255,
+      "name": "can we just forget?",
+      "url": "https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye"
+    },
+    {
+      "album": {
         "name": "Can You Keep Being Around",
         "url": "https://open.spotify.com/album/5wHb7WjAP4MR9CWtg0uH1V"
       },
@@ -10872,7 +10890,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 173600,
       "name": "CAT AND DOG",
       "url": "https://open.spotify.com/track/5vegfruiWmIAsrnaMcwDQe"
@@ -11798,7 +11816,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 180599,
       "name": "City Girl",
       "url": "https://open.spotify.com/track/1RwhNNeWrMIMrSvwEMLNIG"
@@ -13900,6 +13918,24 @@
       "duration_ms": 221962,
       "name": "Cut",
       "url": "https://open.spotify.com/track/207FZMdh8fRkAY5PzCnjjP"
+    },
+    {
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/2I10bEdFZUMfvMHi4lNIzF"
+      },
+      "artists": [
+        {
+          "name": "Foxtide",
+          "url": "https://open.spotify.com/artist/5hTigSXgVwn9Mvaz8MBHxv"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Cut and Dry",
+      "url": "https://open.spotify.com/track/57m7ws7xQ6XSdOfU9w92D5"
     },
     {
       "album": {
@@ -30400,7 +30436,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 205766,
       "name": "Impaler",
       "url": "https://open.spotify.com/track/12FjzonRpdzyEKV4r2ZZOO"
@@ -33002,7 +33038,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 225477,
       "name": "Kiss&Tell",
       "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
@@ -44564,7 +44600,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 220893,
       "name": "over/over",
       "url": "https://open.spotify.com/track/2HzU4z6R1Oj7OsgJN73ep8"
@@ -49993,6 +50029,24 @@
     },
     {
       "album": {
+        "name": "sad song",
+        "url": "https://open.spotify.com/album/3M4kVE1218U6n9Qh6JQ03I"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183488,
+      "name": "sad song",
+      "url": "https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P"
+    },
+    {
+      "album": {
         "name": "Sad Techno",
         "url": "https://open.spotify.com/album/3sXGYnXJPsKnw8ODBZdd7i"
       },
@@ -50148,7 +50202,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 135277,
       "name": "Safeword",
       "url": "https://open.spotify.com/track/5AgbD4ZSxrAPkG9YqSbX9B"
@@ -56654,7 +56708,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 160000,
       "name": "substack girl",
       "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
@@ -56967,6 +57021,24 @@
     },
     {
       "album": {
+        "name": "Sun after rain",
+        "url": "https://open.spotify.com/album/0KDmZawPnFYKTYL2PbSkT9"
+      },
+      "artists": [
+        {
+          "name": "ZK king",
+          "url": "https://open.spotify.com/artist/0mXeqEE6ZBHM6B9CPpB9PS"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237600,
+      "name": "Sun after rain",
+      "url": "https://open.spotify.com/track/1uoeixxLW14fGVBt6e3vQ1"
+    },
+    {
+      "album": {
         "name": "SUN ON MY FACE",
         "url": "https://open.spotify.com/album/4KhOofEf1ZIIpAv1iXTHty"
       },
@@ -57184,6 +57256,24 @@
       "duration_ms": 204500,
       "name": "Sunset Blvd.",
       "url": "https://open.spotify.com/track/7FsZeb6sYRsUhoES6Na1U1"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/75Bgla4lYsEMCSjFs3loGd"
+      },
+      "artists": [
+        {
+          "name": "Accessory",
+          "url": "https://open.spotify.com/artist/0Z8Jfh6OHa55AI6NdEjtUk"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233283,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/19swoESh14znOg6WDx3liB"
     },
     {
       "album": {
@@ -59506,6 +59596,24 @@
       "duration_ms": 259349,
       "name": "The Great Beyond",
       "url": "https://open.spotify.com/track/07fY05IMBdLzl6IzQozd0T"
+    },
+    {
+      "album": {
+        "name": "Little Miss Sunshine",
+        "url": "https://open.spotify.com/album/5HfhKhEHJiRv1UknjlocfF"
+      },
+      "artists": [
+        {
+          "name": "Eaves Wilder",
+          "url": "https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289650,
+      "name": "The Great Plains",
+      "url": "https://open.spotify.com/track/6c8Uo1Oxh8voqJqA1O5Jgz"
     },
     {
       "album": {
@@ -65763,6 +65871,24 @@
     },
     {
       "album": {
+        "name": "Leaves to the Sun",
+        "url": "https://open.spotify.com/album/71nSSWdjOnQrj3dVczN5pQ"
+      },
+      "artists": [
+        {
+          "name": "Gawshock",
+          "url": "https://open.spotify.com/artist/3i7wkbtnfpvKYxFzWDRxWh"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "What Do You Dream About?",
+      "url": "https://open.spotify.com/track/61udt3YoXJJpNV5LpMTm9v"
+    },
+    {
+      "album": {
         "name": "What I Don't Know",
         "url": "https://open.spotify.com/album/13JjycR07JZcVs22tvIObG"
       },
@@ -68728,7 +68854,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 228626,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/5wJBsjJ1vy7MdNEdBIxhYO"

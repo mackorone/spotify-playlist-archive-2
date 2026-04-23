@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: 荒谷翔大
 
-1,362 songs - 3 day 14 hr 0 min
+1,362 songs - 3 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Lan la](https://open.spotify.com/track/25DwQL8Lb235GHwpWPRkwt) | [Kaori Kusuhashi](https://open.spotify.com/artist/40NGX8Hj6US8dXfBsaJKIP) | [Lan la](https://open.spotify.com/album/1mCzEVPVN8nu88kYbPIp7I) | 3:20 | 2025-06-11 | 2025-06-18 |
 | [Land](https://open.spotify.com/track/4NIruJVVykCcTKIa7y9kkW) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [Horse County](https://open.spotify.com/album/3B0xXGGFKGbLZzJ2yuJNNS) | 3:53 | 2025-10-14 | 2025-10-22 |
 | [LAST LOVE LETTER](https://open.spotify.com/track/14HAoLdDKYn6WfI9VZB4Sm) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [LAST LOVE LETTER](https://open.spotify.com/album/5jMeVRXPkfx6JPXs92tPdB) | 4:34 | 2024-07-16 | 2024-08-07 |
-| [Last song \- feat.Young Kee](https://open.spotify.com/track/5JwtniwTAHi1bf9VMvL5ZM) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB), [Young Kee](https://open.spotify.com/artist/4axCzBPNlQBLmcmlb6jt9a) | [Rondo](https://open.spotify.com/album/6SS1xn4JNWWU5Oq9eSHE3Q) | 4:20 | 2026-02-17 |  |
+| [Last song \- feat.Young Kee](https://open.spotify.com/track/5JwtniwTAHi1bf9VMvL5ZM) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB), [Young Kee](https://open.spotify.com/artist/4axCzBPNlQBLmcmlb6jt9a) | [Rondo](https://open.spotify.com/album/6SS1xn4JNWWU5Oq9eSHE3Q) | 4:20 | 2026-02-17 | 2026-04-23 |
 | [Last Summer Bye\-bye](https://open.spotify.com/track/1IkVj8frr0z1b9lYjfxSqg) | [辻井 くぬえ](https://open.spotify.com/artist/3TlnzDv4MPoUbyE3X7djbQ) | [Last Summer Bye\-bye](https://open.spotify.com/album/3SKAgMwyJ5id9vwylWcgwm) | 5:22 | 2025-09-30 | 2025-10-09 |
 | [Latata](https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Laugh](https://open.spotify.com/album/0QmujzTxQFdS9zYbfJznnJ) | 3:06 | 2025-12-09 | 2026-02-12 |
 | [leeway](https://open.spotify.com/track/4KOaVXtQ905oQbzPvflnum) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [leeway](https://open.spotify.com/album/37YjSR5m2VC05W5JET65un) | 3:52 | 2025-04-01 | 2025-04-09 |
@@ -547,7 +547,7 @@
 | [Summer Love](https://open.spotify.com/track/0ny48ucaT7xrXu8Ne1wKnS) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [Valley Girl](https://open.spotify.com/album/5sG81zYvaFgjGLlEsoEjqb) | 2:48 | 2025-06-17 | 2025-07-25 |
 | [Summer Princess](https://open.spotify.com/track/2mxLMO0U94w8URMdQgsmtO) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Summer Princess](https://open.spotify.com/album/7sec374LvT6rkiJXadGe5C) | 2:56 | 2024-08-13 | 2024-09-18 |
 | [Sunny Days](https://open.spotify.com/track/6rgx30CqVGujB7BRVrNvaW) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [Sunny Days](https://open.spotify.com/album/1UCXsazN1bDBbu6FFr55RT) | 3:43 | 2024-11-13 | 2024-11-20 |
-| [sunrise](https://open.spotify.com/track/5wEswwGWtlGcmdn1OMRAAR) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [sunrise](https://open.spotify.com/album/5t7qKSYFumwa6D1b5gkqde) | 4:30 | 2026-02-24 | 2026-04-22 |
+| [sunrise](https://open.spotify.com/track/5wEswwGWtlGcmdn1OMRAAR) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [sunrise](https://open.spotify.com/album/5t7qKSYFumwa6D1b5gkqde) | 4:30 | 2026-02-24 |  |
 | [Sunshade](https://open.spotify.com/track/5ydosGKz5mN41OGweXrMx9) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Sunshade](https://open.spotify.com/album/6yfodvXv3ObrBqR1vXZe2y) | 3:17 | 2024-08-13 | 2024-09-18 |
 | [Sunshine](https://open.spotify.com/track/4W5H8Vo3sldHA5blNXqb6U) | [望月ヒナタ](https://open.spotify.com/artist/4VGKxbTlK8S2rHhrR6oLh9) | [Sunshine](https://open.spotify.com/album/6H7rhsOYo7N31seiAu9zlG) | 3:10 | 2024-10-08 | 2024-10-16 |
 | [Super Ball](https://open.spotify.com/track/6eh0kyNpZlmJbtMb1mLHTo) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TWO MOON](https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa) | 3:23 | 2024-07-02 | 2024-12-25 |
@@ -580,7 +580,6 @@
 | [tomato](https://open.spotify.com/track/0fvg4lNtdROo83CGCfgyNF) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [tomato](https://open.spotify.com/album/7wRw76TSgb16kQfeGvGtal) | 4:40 | 2025-06-11 | 2025-10-22 |
 | [TONGO \- Feat.松重豊](https://open.spotify.com/track/3lsNooWcDZtv5IqLBIpYqH) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI), [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50) | [TONGO \(Feat.松重豊\)](https://open.spotify.com/album/4JHpBsNaT4m35TipUmpvyr) | 3:23 | 2025-11-04 | 2025-11-12 |
 | [Toxic Luv](https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Toxic Luv](https://open.spotify.com/album/29tAiHG6vz4qsZhAw22Pkb) | 2:19 | 2025-08-12 | 2025-08-20 |
-| [Track 1](https://open.spotify.com/track/2rByECYP3ZmRvfxH7hlXsk) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [JOURNALS](https://open.spotify.com/album/59TdIDpZpQ8nCOoxLBEtuf) | 0:00 | 2026-04-21 |  |
 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-07-02 | 2024-12-25 |
 | [Trésor](https://open.spotify.com/track/22rjO66CqqLJcJ0m0Gks9Z) | [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Trésor / Yesterday Once More](https://open.spotify.com/album/44WwN6a4AF7Xbs7bUI4kXH) | 4:32 | 2024-07-26 | 2024-07-31 |
 | [Tsubasa](https://open.spotify.com/track/7K2HP1SXZZ31yrJjbHtZRt) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Tsubasa](https://open.spotify.com/album/3GjF80YwlbsgjIcYLvH8k2) | 3:00 | 2025-04-29 | 2025-05-24 |
@@ -614,6 +613,7 @@
 | [White Dreamers](https://open.spotify.com/track/78CVku5RWwLSmV4jnCSj1d) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [White Dreamers](https://open.spotify.com/album/6ZXGzGfEQr9NMRp4qKgxpe) | 2:44 | 2025-09-30 | 2025-10-09 |
 | [White Grave](https://open.spotify.com/track/5QGIxFKbve0bRQjPQsAHhT) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [White Grave](https://open.spotify.com/album/5N7PtLVsMbgtVqylVJvuNI) | 3:39 | 2025-06-24 | 2025-07-09 |
 | [Why am I doing \(what I’m doing\)](https://open.spotify.com/track/1yqP8wSS3mDuxnT7unMneT) | [Gen Kakon](https://open.spotify.com/artist/71SKBlLgCqiEPzFBfU7GaF) | [Why am I doing \(what I’m doing\)](https://open.spotify.com/album/3PSui5PREzjWqHAq1qDU0Z) | 5:07 | 2025-11-25 | 2025-12-03 |
+| [Why not](https://open.spotify.com/track/2rByECYP3ZmRvfxH7hlXsk) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [JOURNALS](https://open.spotify.com/album/59TdIDpZpQ8nCOoxLBEtuf) | 3:27 | 2026-04-21 |  |
 | [Why so serious?](https://open.spotify.com/track/6BAObOuojq5PThlGtrMKim) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [Early Project 2](https://open.spotify.com/album/2CzsbvZlEQ4XcoTc2kbZds) | 2:39 | 2025-04-08 | 2025-04-22 |
 | [Wild Humanity](https://open.spotify.com/track/72Z9ciF3wCOZqzAs6wFlnj) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Wild Humanity](https://open.spotify.com/album/2MxJPxCMVIkVQUjBCfAvsj) | 5:17 | 2026-02-24 | 2026-03-04 |
 | [Wind](https://open.spotify.com/track/3FcGv9fUNiNu7LuzXnQvCn) | [Junya Narita](https://open.spotify.com/artist/2wh4NOBvfcF2S8z9jr6XBF) | [wind e.p.](https://open.spotify.com/album/1MtCi1jcGMGrQsEvq1xEro) | 2:59 | 2024-11-13 | 2024-11-20 |

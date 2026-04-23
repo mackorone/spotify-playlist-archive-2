@@ -702,7 +702,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 179925,
       "name": "Fake Flower (feat. Nucksal)",
       "url": "https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx"
@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208850,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/0NnQTCaZnKrOK1lojv5qYI"
+    },
+    {
+      "album": {
         "name": "right next to me",
         "url": "https://open.spotify.com/album/5JwrbfAphlVvKf1HWxXT1z"
       },
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 192514,
       "name": "Starfish on your head",
       "url": "https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh"
@@ -2630,6 +2648,24 @@
       "duration_ms": 271956,
       "name": "\ub611\uac19\uc544",
       "url": "https://open.spotify.com/track/3QbF4n57Nhu59aYP8PASRv"
+    },
+    {
+      "album": {
+        "name": "\ub9d8 \ud3b8\ud788 \uc26c\uace0 \uc2f6\uc5b4",
+        "url": "https://open.spotify.com/album/10fuIXqPOA9j2Fu8vnnsIU"
+      },
+      "artists": [
+        {
+          "name": "naxbon",
+          "url": "https://open.spotify.com/artist/2ELvyBRqernNxMtfpCiODa"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140469,
+      "name": "\ub9d8 \ud3b8\ud788 \uc26c\uace0 \uc2f6\uc5b4",
+      "url": "https://open.spotify.com/track/5VLPV1iYzuiz8BQiZJBfze"
     },
     {
       "album": {

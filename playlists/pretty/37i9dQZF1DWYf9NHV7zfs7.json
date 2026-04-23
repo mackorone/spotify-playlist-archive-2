@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Alejandro Sanz & Yami Safdie",
-  "num_followers": 76562,
+  "num_followers": 76563,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -1383,18 +1383,22 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "Obsesionario",
-        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
+        "name": "Quiromancia",
+        "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
       "artists": [
         {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 266840,
-      "name": "Obsesionario en La Mayor",
-      "url": "https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB"
+      "duration_ms": 213948,
+      "name": "Las Flores (feat. Los Aut\u00e9nticos Decadentes)",
+      "url": "https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK"
     },
     {
       "added_at": "2026-03-27 03:00:30",
@@ -1419,22 +1423,18 @@
     {
       "added_at": "2026-03-27 03:00:30",
       "album": {
-        "name": "Quiromancia",
-        "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
+        "name": "Obsesionario",
+        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
       },
       "artists": [
         {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
         }
       ],
-      "duration_ms": 213948,
-      "name": "Las Flores (feat. Los Aut\u00e9nticos Decadentes)",
-      "url": "https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK"
+      "duration_ms": 266840,
+      "name": "Obsesionario en La Mayor",
+      "url": "https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB"
     },
     {
       "added_at": "2026-03-27 03:00:30",

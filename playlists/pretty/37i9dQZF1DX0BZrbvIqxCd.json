@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544576,
+  "num_followers": 544581,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "Worries",
+        "url": "https://open.spotify.com/album/0lR5SeL2xHTOEHh7a4aDoI"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "duration_ms": 143808,
+      "name": "Worries",
+      "url": "https://open.spotify.com/track/5YtpGJgS6vBDMMaguVeRDG"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "Heartwork",
         "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Worries",
-        "url": "https://open.spotify.com/album/0lR5SeL2xHTOEHh7a4aDoI"
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
       },
       "artists": [
         {
-          "name": "MxPx",
-          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
         }
       ],
-      "duration_ms": 143808,
-      "name": "Worries",
-      "url": "https://open.spotify.com/track/5YtpGJgS6vBDMMaguVeRDG"
+      "duration_ms": 226385,
+      "name": "Up and Comer",
+      "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1103,22 +1119,6 @@
       "duration_ms": 210200,
       "name": "Brick Wall",
       "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "Letter to Self",
-        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 226385,
-      "name": "Up and Comer",
-      "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "SURVIVORS GUILT: THE MIXTAPE//",
-        "url": "https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY"
+        "name": "WEIRDO",
+        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
       },
       "artists": [
         {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "GANG!",
+          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
         }
       ],
-      "duration_ms": 137986,
-      "name": "survivors guilt//",
-      "url": "https://open.spotify.com/track/7cOY6vXmsZS85mSCAaa5rF"
+      "duration_ms": 155526,
+      "name": "WEIRDO",
+      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1207,18 +1203,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "WEIRDO",
-        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
+        "name": "SURVIVORS GUILT: THE MIXTAPE//",
+        "url": "https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY"
       },
       "artists": [
         {
-          "name": "GANG!",
-          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 155526,
-      "name": "WEIRDO",
-      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
+      "duration_ms": 137986,
+      "name": "survivors guilt//",
+      "url": "https://open.spotify.com/track/7cOY6vXmsZS85mSCAaa5rF"
     },
     {
       "added_at": "2024-07-19 11:53:42",

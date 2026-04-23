@@ -1299,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "El Roi",
+        "url": "https://open.spotify.com/album/6m0G3Yny9o3iNgv1xwdgtj"
+      },
+      "artists": [
+        {
+          "name": "Heather Suzanne",
+          "url": "https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179573,
+      "name": "El Roi",
+      "url": "https://open.spotify.com/track/3dBKAPLPzLQqEbIpkD4ekL"
+    },
+    {
+      "album": {
         "name": "Enough For Me",
         "url": "https://open.spotify.com/album/09R33s9sO2JtCXMtlynPRg"
       },
@@ -6778,7 +6796,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 231293,
       "name": "The Way of Love",
       "url": "https://open.spotify.com/track/7dPy7qLhDbkwqsStowDcFq"

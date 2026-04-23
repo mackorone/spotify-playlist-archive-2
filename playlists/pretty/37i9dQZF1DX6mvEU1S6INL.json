@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1142950,
+  "num_followers": 1142947,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Era Vulgaris",
         "url": "https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 290493,
       "name": "Make It Wit Chu",
       "url": "https://open.spotify.com/track/0Cgd3CK6D2hhbwmLRvtscH"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 214632,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Conditions",
         "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 230800,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 214632,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Silent Alarm",
-        "url": "https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 265613,
-      "name": "This Modern Love",
-      "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Woodland - EP",
         "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 210080,
       "name": "Bloom - Bonus Track",
       "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 265613,
+      "name": "This Modern Love",
+      "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 151792,
+      "name": "Superbloodmoon (feat. D4vd)",
+      "url": "https://open.spotify.com/track/2yBiwYEX680zQLrHwdV1aT"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
       },
@@ -1499,22 +1519,34 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+        "name": "Something",
+        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        },
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
         }
       ],
-      "duration_ms": 151792,
-      "name": "Superbloodmoon (feat. D4vd)",
-      "url": "https://open.spotify.com/track/2yBiwYEX680zQLrHwdV1aT"
+      "duration_ms": 207306,
+      "name": "I Belong in Your Arms",
+      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Shake! Shake! Shake!",
+        "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
+      },
+      "artists": [
+        {
+          "name": "Bronze Radio Return",
+          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
+        }
+      ],
+      "duration_ms": 163236,
+      "name": "Shake, Shake, Shake",
+      "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1531,22 +1563,6 @@
       "duration_ms": 321453,
       "name": "Hanging On",
       "url": "https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
-      },
-      "artists": [
-        {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "I Belong in Your Arms",
-      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1611,22 +1627,6 @@
       "duration_ms": 159711,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Guru",
-        "url": "https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed"
     }
   ],
   "unique_name": "You & Me",

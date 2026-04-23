@@ -732,6 +732,10 @@
         {
           "name": "Herra Hnetusmj\u00f6r",
           "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        },
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
         }
       ],
       "date_added": "2026-04-16",
@@ -5720,6 +5724,24 @@
       "duration_ms": 194165,
       "name": "Bejeweled",
       "url": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE"
+    },
+    {
+      "album": {
+        "name": "Believe in YOU",
+        "url": "https://open.spotify.com/album/4PziZQT0kE4UoFMTp3EppL"
+      },
+      "artists": [
+        {
+          "name": "Ostar\u00e8",
+          "url": "https://open.spotify.com/artist/6tlL8JhoKcRNsCEQQpLN44"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199999,
+      "name": "Believe in YOU",
+      "url": "https://open.spotify.com/track/4ZxObnR4gQRWU6mBvkGQAV"
     },
     {
       "album": {
@@ -13876,7 +13898,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
@@ -14422,7 +14444,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 201946,
       "name": "Eenie Meenie",
       "url": "https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2"
@@ -14444,7 +14466,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 201973,
       "name": "Eenie Meenie - Radio Version",
       "url": "https://open.spotify.com/track/4Yaw2PmyOETOnEM3TCf98I"
@@ -30742,6 +30764,10 @@
         {
           "name": "Herra Hnetusmj\u00f6r",
           "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        },
+        {
+          "name": "J\u00f3n J\u00f3nsson",
+          "url": "https://open.spotify.com/artist/2mgonCuv2QEZZbPOatCbyu"
         }
       ],
       "date_added": "2026-04-16",
@@ -35170,7 +35196,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 144775,
       "name": "Miklu betri einn",
       "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
@@ -37490,7 +37516,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 227853,
       "name": "Never Say Never",
       "url": "https://open.spotify.com/track/5GYbkDveRD2I8M5ZJ14hWn"
@@ -51324,7 +51350,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 107050,
       "name": "Superman",
       "url": "https://open.spotify.com/track/3mQsB2BR4o4kASOsN3LhuX"
@@ -52314,6 +52340,10 @@
         {
           "name": "Herra Hnetusmj\u00f6r",
           "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        },
+        {
+          "name": "Helgi S\u00e6mundur",
+          "url": "https://open.spotify.com/artist/2RaL5kU2qa3wQXB8JewLVz"
         }
       ],
       "date_added": "2026-04-16",
@@ -56654,10 +56684,36 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 179220,
       "name": "T\u00fdnda kynsl\u00f3\u00f0in",
       "url": "https://open.spotify.com/track/3XggbP91AwAoSsVHpwS0FV"
+    },
+    {
+      "album": {
+        "name": "T\u00fdnda kynsl\u00f3\u00f0in",
+        "url": "https://open.spotify.com/album/5G8VCOGip6X184jLtdqxhr"
+      },
+      "artists": [
+        {
+          "name": "AL0R1AN",
+          "url": "https://open.spotify.com/artist/1EgWb4z0osdzTtKPVoXwLg"
+        },
+        {
+          "name": "Alaska1867",
+          "url": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk"
+        },
+        {
+          "name": "Gross",
+          "url": "https://open.spotify.com/artist/1LxLj4vppufRm90N3Avz7k"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179220,
+      "name": "T\u00fdnda kynsl\u00f3\u00f0in",
+      "url": "https://open.spotify.com/track/5P3MwEcrBYQ4oviLfk8pLU"
     },
     {
       "album": {
@@ -57472,6 +57528,10 @@
         {
           "name": "Herra Hnetusmj\u00f6r",
           "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        },
+        {
+          "name": "Helgi S\u00e6mundur",
+          "url": "https://open.spotify.com/artist/2RaL5kU2qa3wQXB8JewLVz"
         }
       ],
       "date_added": "2026-04-16",
@@ -58018,6 +58078,10 @@
         {
           "name": "Herra Hnetusmj\u00f6r",
           "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        },
+        {
+          "name": "Helgi S\u00e6mundur",
+          "url": "https://open.spotify.com/artist/2RaL5kU2qa3wQXB8JewLVz"
         }
       ],
       "date_added": "2026-04-16",
@@ -59756,7 +59820,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 205680,
       "name": "What Do You Mean?",
       "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
@@ -61806,7 +61870,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-23",
       "duration_ms": 163866,
       "name": "YUKON",
       "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
@@ -63376,6 +63440,10 @@
         {
           "name": "Herra Hnetusmj\u00f6r",
           "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        },
+        {
+          "name": "Joe Frazier",
+          "url": "https://open.spotify.com/artist/0Mdm2CCxStFoJr3GQGHf5V"
         }
       ],
       "date_added": "2026-04-16",
@@ -64334,7 +64402,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

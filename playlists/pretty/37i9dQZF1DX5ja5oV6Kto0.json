@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Yorkk & ARTSALGHUL",
-  "num_followers": 111417,
+  "num_followers": 111429,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
-        "name": "Do Not Disturb (DND)",
-        "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "Do Not Disturb (DND)",
-      "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
-    },
-    {
-      "added_at": "2026-04-17 00:01:57",
-      "album": {
         "name": "impossible",
         "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 146666,
       "name": "impossible",
       "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
+        "name": "Do Not Disturb (DND)",
+        "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 172035,
+      "name": "Do Not Disturb (DND)",
+      "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
+        "name": "Imperfect Daughters",
+        "url": "https://open.spotify.com/album/50CBKVxs8tjeiQANBnb3nK"
+      },
+      "artists": [
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Imperfect Daughters",
+      "url": "https://open.spotify.com/track/481OshZ1RPTStU15tZLic7"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
         "name": "Nana",
         "url": "https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 193453,
       "name": "Nana",
       "url": "https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa"
-    },
-    {
-      "added_at": "2026-04-17 00:01:57",
-      "album": {
-        "name": "Imperfect Daughters",
-        "url": "https://open.spotify.com/album/50CBKVxs8tjeiQANBnb3nK"
-      },
-      "artists": [
-        {
-          "name": "Anabel Rose",
-          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Imperfect Daughters",
-      "url": "https://open.spotify.com/track/481OshZ1RPTStU15tZLic7"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
-        "name": "DUA PA",
-        "url": "https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or"
-      },
-      "artists": [
-        {
-          "name": "Bapi Joss",
-          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "DUA PA",
-      "url": "https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM"
-    },
-    {
-      "added_at": "2026-04-17 00:01:57",
-      "album": {
         "name": "Cavy In The City",
         "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
       },
@@ -983,6 +967,22 @@
     {
       "added_at": "2026-04-17 00:01:57",
       "album": {
+        "name": "DUA PA",
+        "url": "https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or"
+      },
+      "artists": [
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "DUA PA",
+      "url": "https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
         "name": "Princessa",
         "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 118974,
       "name": "Princessa",
       "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
+    },
+    {
+      "added_at": "2026-04-17 00:01:57",
+      "album": {
+        "name": "My letter to Zayn",
+        "url": "https://open.spotify.com/album/7aAhZv5SRsHdezmOU5o2tJ"
+      },
+      "artists": [
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "My letter to Zayn",
+      "url": "https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC"
     },
     {
       "added_at": "2026-04-17 00:01:57",
@@ -1019,22 +1035,6 @@
       "duration_ms": 176299,
       "name": "If You Try",
       "url": "https://open.spotify.com/track/5vDaZI2RvpevJq7xUWkKSI"
-    },
-    {
-      "added_at": "2026-04-17 00:01:57",
-      "album": {
-        "name": "My letter to Zayn",
-        "url": "https://open.spotify.com/album/7aAhZv5SRsHdezmOU5o2tJ"
-      },
-      "artists": [
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "My letter to Zayn",
-      "url": "https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC"
     },
     {
       "added_at": "2026-04-17 00:01:57",

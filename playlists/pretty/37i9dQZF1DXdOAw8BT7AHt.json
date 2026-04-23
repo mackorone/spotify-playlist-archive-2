@@ -1,6 +1,6 @@
 {
   "description": "The best of every corner of modern punk rock. Cover: Turnstile",
-  "num_followers": 472899,
+  "num_followers": 472908,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF"
-      },
-      "artists": [
-        {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
-        }
-      ],
-      "duration_ms": 205274,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
         "name": "PROWLER",
         "url": "https://open.spotify.com/album/4o8ibLshDMD2wTrG9s2GwO"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 165690,
       "name": "PROWLER",
       "url": "https://open.spotify.com/track/5fD5ikfL6P5NZkbQYCfXa7"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "duration_ms": 205274,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "Bomb To A Knife Fight",
-        "url": "https://open.spotify.com/album/7t0w7wWnCcNvZrUGvreW21"
-      },
-      "artists": [
-        {
-          "name": "The Barbarians of California",
-          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
-        }
-      ],
-      "duration_ms": 161504,
-      "name": "Bomb To A Knife Fight",
-      "url": "https://open.spotify.com/track/1mVaXOne0HkvbeReuBkg8V"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
         "name": "Crystalpunk",
         "url": "https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac"
       },
@@ -755,18 +739,34 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "Box In The Basement",
-        "url": "https://open.spotify.com/album/2N13X4HNaRNqzjYL1nHPoF"
+        "name": "Bomb To A Knife Fight",
+        "url": "https://open.spotify.com/album/7t0w7wWnCcNvZrUGvreW21"
       },
       "artists": [
         {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Box In The Basement",
-      "url": "https://open.spotify.com/track/44r3djxJsaQTlddoeW5hjh"
+      "duration_ms": 161504,
+      "name": "Bomb To A Knife Fight",
+      "url": "https://open.spotify.com/track/1mVaXOne0HkvbeReuBkg8V"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
+        "name": "I Don't Wanna Go!",
+        "url": "https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "duration_ms": 159315,
+      "name": "I Don't Wanna Go!",
+      "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
+        "name": "Box In The Basement",
+        "url": "https://open.spotify.com/album/2N13X4HNaRNqzjYL1nHPoF"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Box In The Basement",
+      "url": "https://open.spotify.com/track/44r3djxJsaQTlddoeW5hjh"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/4tqmxRUMi21ZAqKVemewpO"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 192603,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/02bj1hZGIwwTYG6z1bJG1M"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
-        "name": "I Don't Wanna Go!",
-        "url": "https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585"
-      },
-      "artists": [
-        {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
-        }
-      ],
-      "duration_ms": 159315,
-      "name": "I Don't Wanna Go!",
-      "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
+        "name": "Burnout (Deluxe)",
+        "url": "https://open.spotify.com/album/3LmX1xv47y93fNKCV6nnD7"
+      },
+      "artists": [
+        {
+          "name": "Good Terms",
+          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
+        }
+      ],
+      "duration_ms": 216640,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/4WITjHzYfcwafn02StU5VA"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
         "name": "Limb From Limb / Mechanically Separated",
         "url": "https://open.spotify.com/album/757tW1HgmEk6NhXZk0kcHt"
       },
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "Burnout (Deluxe)",
-        "url": "https://open.spotify.com/album/3LmX1xv47y93fNKCV6nnD7"
+        "name": "Pray To That",
+        "url": "https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo"
       },
       "artists": [
         {
-          "name": "Good Terms",
-          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
         }
       ],
-      "duration_ms": 216640,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/4WITjHzYfcwafn02StU5VA"
+      "duration_ms": 186727,
+      "name": "Pray To That",
+      "url": "https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "Pray To That",
-        "url": "https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo"
+        "name": "Erasure",
+        "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
       },
       "artists": [
         {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
         }
       ],
-      "duration_ms": 186727,
-      "name": "Pray To That",
-      "url": "https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO"
+      "duration_ms": 189159,
+      "name": "Erasure",
+      "url": "https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -1115,22 +1131,6 @@
       "duration_ms": 204773,
       "name": "Thoroughbreds",
       "url": "https://open.spotify.com/track/1c4Oq2SYTnRzt1gg4zCl9q"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
-        "name": "Erasure",
-        "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 189159,
-      "name": "Erasure",
-      "url": "https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -1199,38 +1199,6 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "Even If I Never Get There",
-        "url": "https://open.spotify.com/album/0G5V83mMQWMXtEdnudKaI7"
-      },
-      "artists": [
-        {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
-        }
-      ],
-      "duration_ms": 163315,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/0TkAD1a7uXJkt7HqDbp6YT"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
-        "name": "Straight Up (Needy)",
-        "url": "https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 194273,
-      "name": "Straight Up (Needy)",
-      "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
         "name": "Sweet",
         "url": "https://open.spotify.com/album/4UE9iLgjXaU4oYmZPqOzN4"
       },
@@ -1251,18 +1219,50 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "Will",
-        "url": "https://open.spotify.com/album/1YAmfQGybwywqGhljGAwhe"
+        "name": "Straight Up (Needy)",
+        "url": "https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX"
       },
       "artists": [
         {
-          "name": "Love Rarely",
-          "url": "https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM"
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
         }
       ],
-      "duration_ms": 198983,
-      "name": "Will",
-      "url": "https://open.spotify.com/track/2yYos0GmwgrPZAHOnpsSdM"
+      "duration_ms": 194273,
+      "name": "Straight Up (Needy)",
+      "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
+        "name": "Even If I Never Get There",
+        "url": "https://open.spotify.com/album/0G5V83mMQWMXtEdnudKaI7"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "duration_ms": 163315,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0TkAD1a7uXJkt7HqDbp6YT"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz"
+      },
+      "artists": [
+        {
+          "name": "Sn\u00f5\u00f5per",
+          "url": "https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb"
+        }
+      ],
+      "duration_ms": 191542,
+      "name": "Star 6 9",
+      "url": "https://open.spotify.com/track/0e2aRqnNEkLc1NDgVpfSuP"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz"
+        "name": "Will",
+        "url": "https://open.spotify.com/album/1YAmfQGybwywqGhljGAwhe"
       },
       "artists": [
         {
-          "name": "Sn\u00f5\u00f5per",
-          "url": "https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb"
+          "name": "Love Rarely",
+          "url": "https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM"
         }
       ],
-      "duration_ms": 191542,
-      "name": "Star 6 9",
-      "url": "https://open.spotify.com/track/0e2aRqnNEkLc1NDgVpfSuP"
+      "duration_ms": 198983,
+      "name": "Will",
+      "url": "https://open.spotify.com/track/2yYos0GmwgrPZAHOnpsSdM"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
+        "name": "Sabotage",
+        "url": "https://open.spotify.com/album/7nPd8RFHLiqjftozCODIRp"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "duration_ms": 170362,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
         "name": "AIN'T MY GAME",
         "url": "https://open.spotify.com/album/5zlLiXZwPWgXHTkbNDD3Py"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "Sabotage",
-        "url": "https://open.spotify.com/album/7nPd8RFHLiqjftozCODIRp"
+        "name": "This Thing Is Old",
+        "url": "https://open.spotify.com/album/4h66SvKR1zrVWH8SgOW2Oo"
       },
       "artists": [
         {
-          "name": "Show Me the Body",
-          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+          "name": "Piebald",
+          "url": "https://open.spotify.com/artist/4rOGGTXaYygtFIHsPgLKJv"
         }
       ],
-      "duration_ms": 170362,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8"
+      "duration_ms": 221719,
+      "name": "This Thing is Old",
+      "url": "https://open.spotify.com/track/4h0fR9diodQffQvz9cSRaJ"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "This Thing Is Old",
-        "url": "https://open.spotify.com/album/4h66SvKR1zrVWH8SgOW2Oo"
-      },
-      "artists": [
-        {
-          "name": "Piebald",
-          "url": "https://open.spotify.com/artist/4rOGGTXaYygtFIHsPgLKJv"
-        }
-      ],
-      "duration_ms": 221719,
-      "name": "This Thing is Old",
-      "url": "https://open.spotify.com/track/4h0fR9diodQffQvz9cSRaJ"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
         "name": "I really am feeling better",
         "url": "https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C"
       },
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "Trickle Down",
-        "url": "https://open.spotify.com/album/4bewK44e2zjdapyJ4KhITb"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 167419,
-      "name": "Trickle Down",
-      "url": "https://open.spotify.com/track/1EiUn7JKSP2D7tcrPLgEel"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
         "name": "Bite Harder Than You Bleed",
         "url": "https://open.spotify.com/album/0b2GduToVZmx1XjEsd8szn"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 179562,
       "name": "Bite Harder Than You Bleed",
       "url": "https://open.spotify.com/track/2Iaz9HxyGExG8bfFpNIYFa"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
+        "name": "Trickle Down",
+        "url": "https://open.spotify.com/album/4bewK44e2zjdapyJ4KhITb"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 167419,
+      "name": "Trickle Down",
+      "url": "https://open.spotify.com/track/1EiUn7JKSP2D7tcrPLgEel"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "Leglock",
-        "url": "https://open.spotify.com/album/73tP2HhzzfVMIDxB0pu1Rb"
-      },
-      "artists": [
-        {
-          "name": "Dry Socket",
-          "url": "https://open.spotify.com/artist/6OPZS4R79OduZPOLxzQnSm"
-        }
-      ],
-      "duration_ms": 124648,
-      "name": "Leglock",
-      "url": "https://open.spotify.com/track/0e025R7ZIG6QEQYq3aDWZ5"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
         "name": "Panic Shack",
         "url": "https://open.spotify.com/album/2yox6fBqg5BEBHpARToOav"
       },
@@ -1667,22 +1651,6 @@
       "duration_ms": 187815,
       "name": "Pockets",
       "url": "https://open.spotify.com/track/4JUmLb7NjUuF5Dkd63m5Fy"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
-        "name": "Trying Not to Have a Thought",
-        "url": "https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM"
-      },
-      "artists": [
-        {
-          "name": "Algernon Cadwallader",
-          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
-        }
-      ],
-      "duration_ms": 249304,
-      "name": "noitanitsarcorP",
-      "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -1703,6 +1671,22 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
+        "name": "Trying Not to Have a Thought",
+        "url": "https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM"
+      },
+      "artists": [
+        {
+          "name": "Algernon Cadwallader",
+          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
+        }
+      ],
+      "duration_ms": 249304,
+      "name": "noitanitsarcorP",
+      "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
         "name": "Within Dreams",
         "url": "https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB"
       },
@@ -1719,18 +1703,34 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "Bozo",
-        "url": "https://open.spotify.com/album/08bg2gKiNy11SjWzrNNMfz"
+        "name": "Leglock",
+        "url": "https://open.spotify.com/album/73tP2HhzzfVMIDxB0pu1Rb"
       },
       "artists": [
         {
-          "name": "Wavves",
-          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+          "name": "Dry Socket",
+          "url": "https://open.spotify.com/artist/6OPZS4R79OduZPOLxzQnSm"
         }
       ],
-      "duration_ms": 42692,
-      "name": "Bozo",
-      "url": "https://open.spotify.com/track/62fPgFDQaQbLOVldD49sNI"
+      "duration_ms": 124648,
+      "name": "Leglock",
+      "url": "https://open.spotify.com/track/0e025R7ZIG6QEQYq3aDWZ5"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
+        "name": "the loneliest place i've ever been",
+        "url": "https://open.spotify.com/album/48BSCKNHfBxveLMd2KtSSO"
+      },
+      "artists": [
+        {
+          "name": "Have Mercy",
+          "url": "https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM"
+        }
+      ],
+      "duration_ms": 242413,
+      "name": "little pieces",
+      "url": "https://open.spotify.com/track/6edMmG3Ru1pfHSheSYVuha"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "the loneliest place i've ever been",
-        "url": "https://open.spotify.com/album/48BSCKNHfBxveLMd2KtSSO"
+        "name": "Bozo",
+        "url": "https://open.spotify.com/album/08bg2gKiNy11SjWzrNNMfz"
       },
       "artists": [
         {
-          "name": "Have Mercy",
-          "url": "https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM"
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
         }
       ],
-      "duration_ms": 242413,
-      "name": "little pieces",
-      "url": "https://open.spotify.com/track/6edMmG3Ru1pfHSheSYVuha"
+      "duration_ms": 42692,
+      "name": "Bozo",
+      "url": "https://open.spotify.com/track/62fPgFDQaQbLOVldD49sNI"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "I Want That For You",
-        "url": "https://open.spotify.com/album/7IbMCegh1uObI9lJuQCQoD"
-      },
-      "artists": [
-        {
-          "name": "Gladie",
-          "url": "https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6"
-        }
-      ],
-      "duration_ms": 183345,
-      "name": "I Want That For You",
-      "url": "https://open.spotify.com/track/5evwmIXLG40k1EYxbNHbBm"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
         "name": "There's Love In This World If You Want It",
         "url": "https://open.spotify.com/album/2yFT16aiGIbFbeCTYVsmw7"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 242230,
       "name": "Blood",
       "url": "https://open.spotify.com/track/547YHEDFzD5h3hlJSrJAR8"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
+        "name": "I Want That For You",
+        "url": "https://open.spotify.com/album/7IbMCegh1uObI9lJuQCQoD"
+      },
+      "artists": [
+        {
+          "name": "Gladie",
+          "url": "https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6"
+        }
+      ],
+      "duration_ms": 183345,
+      "name": "I Want That For You",
+      "url": "https://open.spotify.com/track/5evwmIXLG40k1EYxbNHbBm"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "Look Down On Us",
-        "url": "https://open.spotify.com/album/3CxAKlsE2UUbX1O80xwAqY"
-      },
-      "artists": [
-        {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
-        }
-      ],
-      "duration_ms": 598360,
-      "name": "Look Down On Us",
-      "url": "https://open.spotify.com/track/7yIyR2o9DGWKhVrTe37FLs"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
         "name": "Nobody\u2019s",
         "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 135897,
       "name": "Nobody\u2019s",
       "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
+        "name": "Look Down On Us",
+        "url": "https://open.spotify.com/album/3CxAKlsE2UUbX1O80xwAqY"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 598360,
+      "name": "Look Down On Us",
+      "url": "https://open.spotify.com/track/7yIyR2o9DGWKhVrTe37FLs"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "\"Isn't It Fun?\"",
-        "url": "https://open.spotify.com/album/536T4IjqmHA1OVd0VVcLJi"
-      },
-      "artists": [
-        {
-          "name": "Spunk",
-          "url": "https://open.spotify.com/artist/18Za6dEy5X55cV7uAR4hUH"
-        }
-      ],
-      "duration_ms": 131482,
-      "name": "\"Isn't It Fun?\"",
-      "url": "https://open.spotify.com/track/20uw7cpPiacV4u9l5HWR36"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
         "name": "Love's The Worst",
         "url": "https://open.spotify.com/album/26S3PSq7r4OA47qMo9I4JC"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 167197,
       "name": "Love's The Worst",
       "url": "https://open.spotify.com/track/4qD9qh4FRu4wl5QevQKm0b"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
+        "name": "\"Isn't It Fun?\"",
+        "url": "https://open.spotify.com/album/536T4IjqmHA1OVd0VVcLJi"
+      },
+      "artists": [
+        {
+          "name": "Spunk",
+          "url": "https://open.spotify.com/artist/18Za6dEy5X55cV7uAR4hUH"
+        }
+      ],
+      "duration_ms": 131482,
+      "name": "\"Isn't It Fun?\"",
+      "url": "https://open.spotify.com/track/20uw7cpPiacV4u9l5HWR36"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "Beat To Beat",
-        "url": "https://open.spotify.com/album/2xzitXIQ7x8HqVfNvnzfLi"
-      },
-      "artists": [
-        {
-          "name": "Gut Health",
-          "url": "https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU"
-        }
-      ],
-      "duration_ms": 256920,
-      "name": "Beat To Beat",
-      "url": "https://open.spotify.com/track/4UFcCjyoEA6mGXDsur7UOD"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
         "name": "Talk Real",
         "url": "https://open.spotify.com/album/7uhHXD3tSb0OyXwNrxxU9o"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 175000,
       "name": "Talk Real",
       "url": "https://open.spotify.com/track/7LPbyMRdlafzBDgn1bfTND"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
+        "name": "Beat To Beat",
+        "url": "https://open.spotify.com/album/2xzitXIQ7x8HqVfNvnzfLi"
+      },
+      "artists": [
+        {
+          "name": "Gut Health",
+          "url": "https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU"
+        }
+      ],
+      "duration_ms": 256920,
+      "name": "Beat To Beat",
+      "url": "https://open.spotify.com/track/4UFcCjyoEA6mGXDsur7UOD"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -2299,50 +2299,18 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "Mental Mentality",
-        "url": "https://open.spotify.com/album/5qzTshf9d9Jk0odSQMN1or"
+        "name": "ONLY FREE WHEN SLEEPING",
+        "url": "https://open.spotify.com/album/14oGLi6dGDC8ETlormipUk"
       },
       "artists": [
         {
-          "name": "Pig Pen",
-          "url": "https://open.spotify.com/artist/5gz02MKm1uxQLcjE5Cs9Hr"
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
         }
       ],
-      "duration_ms": 147333,
-      "name": "Mental Mentality",
-      "url": "https://open.spotify.com/track/0xyRfPRx5mQ0O3HqVHSUsF"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/0R8R0PcSWP82qPyYFsF2bz"
-      },
-      "artists": [
-        {
-          "name": "Filth is Eternal",
-          "url": "https://open.spotify.com/artist/0BqcFG3uqS8l59OsCtIiH0"
-        }
-      ],
-      "duration_ms": 180196,
-      "name": "Hellfire",
-      "url": "https://open.spotify.com/track/1YqnHnqfjdXuOiwkNwJwOg"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
-        "name": "Four",
-        "url": "https://open.spotify.com/album/2rMmBni7bR0pH9wiWVmmBf"
-      },
-      "artists": [
-        {
-          "name": "DITZ",
-          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "Four",
-      "url": "https://open.spotify.com/track/4aXP57iyfp7ApVMc9pu3md"
+      "duration_ms": 179000,
+      "name": "ONLY FREE WHEN SLEEPING",
+      "url": "https://open.spotify.com/track/1l10icP59EXiBa1DavWU8t"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -2363,18 +2331,50 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "ONLY FREE WHEN SLEEPING",
-        "url": "https://open.spotify.com/album/14oGLi6dGDC8ETlormipUk"
+        "name": "Four",
+        "url": "https://open.spotify.com/album/2rMmBni7bR0pH9wiWVmmBf"
       },
       "artists": [
         {
-          "name": "BIG SPECIAL",
-          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+          "name": "DITZ",
+          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
         }
       ],
-      "duration_ms": 179000,
-      "name": "ONLY FREE WHEN SLEEPING",
-      "url": "https://open.spotify.com/track/1l10icP59EXiBa1DavWU8t"
+      "duration_ms": 180746,
+      "name": "Four",
+      "url": "https://open.spotify.com/track/4aXP57iyfp7ApVMc9pu3md"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/0R8R0PcSWP82qPyYFsF2bz"
+      },
+      "artists": [
+        {
+          "name": "Filth is Eternal",
+          "url": "https://open.spotify.com/artist/0BqcFG3uqS8l59OsCtIiH0"
+        }
+      ],
+      "duration_ms": 180196,
+      "name": "Hellfire",
+      "url": "https://open.spotify.com/track/1YqnHnqfjdXuOiwkNwJwOg"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
+        "name": "Mental Mentality",
+        "url": "https://open.spotify.com/album/5qzTshf9d9Jk0odSQMN1or"
+      },
+      "artists": [
+        {
+          "name": "Pig Pen",
+          "url": "https://open.spotify.com/artist/5gz02MKm1uxQLcjE5Cs9Hr"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "Mental Mentality",
+      "url": "https://open.spotify.com/track/0xyRfPRx5mQ0O3HqVHSUsF"
     },
     {
       "added_at": "2026-04-17 04:03:22",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2026-04-17 04:03:22",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/0c0rEkRnhINRrpxGc9cOEe"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 521517,
-      "name": "Environmental Catastrophe Film",
-      "url": "https://open.spotify.com/track/2obTmxuKn1149c80PC5LDb"
-    },
-    {
-      "added_at": "2026-04-17 04:03:22",
-      "album": {
         "name": "Gift Horse",
         "url": "https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 249586,
       "name": "Gift Horse",
       "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
+    },
+    {
+      "added_at": "2026-04-17 04:03:22",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/0c0rEkRnhINRrpxGc9cOEe"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 521517,
+      "name": "Environmental Catastrophe Film",
+      "url": "https://open.spotify.com/track/2obTmxuKn1149c80PC5LDb"
     },
     {
       "added_at": "2026-04-17 04:03:22",

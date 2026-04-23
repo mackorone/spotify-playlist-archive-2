@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105777,
+  "num_followers": 105773,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-04-17 04:01:46",
       "album": {
-        "name": "Loving Life Again",
-        "url": "https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "Loving Life Again",
-      "url": "https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny"
-    },
-    {
-      "added_at": "2026-04-17 04:01:46",
-      "album": {
         "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
         "url": "https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 223788,
       "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
+    },
+    {
+      "added_at": "2026-04-17 04:01:46",
+      "album": {
+        "name": "Loving Life Again",
+        "url": "https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "Loving Life Again",
+      "url": "https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny"
     },
     {
       "added_at": "2026-04-17 04:01:46",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-04-17 04:01:46",
       "album": {
-        "name": "How I Get",
-        "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "How I Get",
-      "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
-    },
-    {
-      "added_at": "2026-04-17 04:01:46",
-      "album": {
         "name": "My Mess",
         "url": "https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu"
       },
@@ -747,6 +731,38 @@
       "duration_ms": 191000,
       "name": "My Mess",
       "url": "https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY"
+    },
+    {
+      "added_at": "2026-04-17 04:01:46",
+      "album": {
+        "name": "I CONDEMN",
+        "url": "https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 142597,
+      "name": "I CONDEMN",
+      "url": "https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT"
+    },
+    {
+      "added_at": "2026-04-17 04:01:46",
+      "album": {
+        "name": "How I Get",
+        "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "How I Get",
+      "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
     },
     {
       "added_at": "2026-04-17 04:01:46",
@@ -771,38 +787,6 @@
     {
       "added_at": "2026-04-17 04:01:46",
       "album": {
-        "name": "I CONDEMN",
-        "url": "https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 142597,
-      "name": "I CONDEMN",
-      "url": "https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT"
-    },
-    {
-      "added_at": "2026-04-17 04:01:46",
-      "album": {
-        "name": "Catharina",
-        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        }
-      ],
-      "duration_ms": 207288,
-      "name": "Catharina",
-      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
-    },
-    {
-      "added_at": "2026-04-17 04:01:46",
-      "album": {
         "name": "New Religion",
         "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 174400,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
+    },
+    {
+      "added_at": "2026-04-17 04:01:46",
+      "album": {
+        "name": "Catharina",
+        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 207288,
+      "name": "Catharina",
+      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
     },
     {
       "added_at": "2026-04-17 04:01:46",
@@ -867,6 +867,22 @@
       "duration_ms": 191840,
       "name": "My Regards",
       "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
+    },
+    {
+      "added_at": "2026-04-17 04:01:46",
+      "album": {
+        "name": "KONNAKOL",
+        "url": "https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 197159,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm"
     },
     {
       "added_at": "2026-04-17 04:01:46",
@@ -923,18 +939,18 @@
     {
       "added_at": "2026-04-17 04:01:46",
       "album": {
-        "name": "KONNAKOL",
-        "url": "https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG"
+        "name": "Survive - EP",
+        "url": "https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 197159,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm"
+      "duration_ms": 206106,
+      "name": "Stay Love",
+      "url": "https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3"
     },
     {
       "added_at": "2026-04-17 04:01:46",
@@ -955,22 +971,6 @@
     {
       "added_at": "2026-04-17 04:01:46",
       "album": {
-        "name": "Survive - EP",
-        "url": "https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "Stay Love",
-      "url": "https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3"
-    },
-    {
-      "added_at": "2026-04-17 04:01:46",
-      "album": {
         "name": "Cruel World",
         "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 195627,
       "name": "Beauty Pageant",
       "url": "https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr"
+    },
+    {
+      "added_at": "2026-04-17 04:01:46",
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 156973,
+      "name": "Middle of Nowhere",
+      "url": "https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME"
     },
     {
       "added_at": "2026-04-17 04:01:46",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2026-04-17 04:01:46",
       "album": {
-        "name": "Trying Times",
-        "url": "https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 273805,
-      "name": "Trying Times",
-      "url": "https://open.spotify.com/track/52T8TTMESX21406wvTdQDY"
-    },
-    {
-      "added_at": "2026-04-17 04:01:46",
-      "album": {
         "name": "F\u00f8r Vi G\u00e5r Hjem",
         "url": "https://open.spotify.com/album/0eacHMmOEg0lccpmgf0do3"
       },
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2026-04-17 04:01:46",
       "album": {
-        "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb"
+        "name": "Trying Times",
+        "url": "https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 156973,
-      "name": "Middle of Nowhere",
-      "url": "https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME"
+      "duration_ms": 273805,
+      "name": "Trying Times",
+      "url": "https://open.spotify.com/track/52T8TTMESX21406wvTdQDY"
     },
     {
       "added_at": "2026-04-17 04:01:46",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2026-04-17 04:01:46",
       "album": {
-        "name": "I Had a Dream She Took My Hand",
-        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+        "name": "Vind & Vejr",
+        "url": "https://open.spotify.com/album/45VZXwNOuioG2Qjba4iAeH"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
         }
       ],
-      "duration_ms": 220291,
-      "name": "I Had a Dream She Took My Hand",
-      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
+      "duration_ms": 158500,
+      "name": "Vind & Vejr",
+      "url": "https://open.spotify.com/track/7qIQL8M3VhfRAKDD49GERE"
     }
   ],
   "unique_name": "De nye",

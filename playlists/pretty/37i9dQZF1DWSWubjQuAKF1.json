@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Marissa",
-  "num_followers": 25667,
+  "num_followers": 25689,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-04-17 07:25:24",
       "album": {
-        "name": "Dla zasady",
-        "url": "https://open.spotify.com/album/3vOiQmpWuGfaQrRumJosm8"
-      },
-      "artists": [
-        {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        }
-      ],
-      "duration_ms": 183214,
-      "name": "Dla zasady",
-      "url": "https://open.spotify.com/track/6NvJYTxaftqf7Rif5zE2ym"
-    },
-    {
-      "added_at": "2026-04-17 07:25:24",
-      "album": {
         "name": "PAMI\u0118TAJ",
         "url": "https://open.spotify.com/album/3FWEcL3khaOowLFFzgNDLE"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 168571,
       "name": "PAMI\u0118TAJ",
       "url": "https://open.spotify.com/track/5xGpJoxIzALCGEVreG4KoW"
+    },
+    {
+      "added_at": "2026-04-17 07:25:24",
+      "album": {
+        "name": "Dla zasady",
+        "url": "https://open.spotify.com/album/3vOiQmpWuGfaQrRumJosm8"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 183214,
+      "name": "Dla zasady",
+      "url": "https://open.spotify.com/track/6NvJYTxaftqf7Rif5zE2ym"
     },
     {
       "added_at": "2026-04-17 07:25:24",
@@ -595,18 +595,18 @@
     {
       "added_at": "2026-04-17 07:25:24",
       "album": {
-        "name": "have fun bby",
-        "url": "https://open.spotify.com/album/2dyS6p9Ng1KLP5JGMVlgx6"
+        "name": "Room Of Lies",
+        "url": "https://open.spotify.com/album/2MmHtirw3z96fZr2EAmsR7"
       },
       "artists": [
         {
-          "name": "Julia Po\u015bnik",
-          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
+          "name": "emi",
+          "url": "https://open.spotify.com/artist/5yUvntXwc1otvnZ8Bhxo85"
         }
       ],
-      "duration_ms": 151409,
-      "name": "have fun bby - sped up",
-      "url": "https://open.spotify.com/track/2e1FsxhYudUC8Z5bPPmCUk"
+      "duration_ms": 170880,
+      "name": "Room Of Lies",
+      "url": "https://open.spotify.com/track/1pAGEVfhuIkMUwH0JJdj8o"
     },
     {
       "added_at": "2026-04-17 07:25:24",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-04-17 07:25:24",
       "album": {
+        "name": "have fun bby",
+        "url": "https://open.spotify.com/album/2dyS6p9Ng1KLP5JGMVlgx6"
+      },
+      "artists": [
+        {
+          "name": "Julia Po\u015bnik",
+          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
+        }
+      ],
+      "duration_ms": 151409,
+      "name": "have fun bby - sped up",
+      "url": "https://open.spotify.com/track/2e1FsxhYudUC8Z5bPPmCUk"
+    },
+    {
+      "added_at": "2026-04-17 07:25:24",
+      "album": {
         "name": "MILCZ",
         "url": "https://open.spotify.com/album/72vc2D3brHNtwxuBlylJTG"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 148818,
       "name": "MILCZ",
       "url": "https://open.spotify.com/track/089Hm491O6KqdCU53oDLoU"
-    },
-    {
-      "added_at": "2026-04-17 07:25:24",
-      "album": {
-        "name": "Room Of Lies",
-        "url": "https://open.spotify.com/album/2MmHtirw3z96fZr2EAmsR7"
-      },
-      "artists": [
-        {
-          "name": "emi",
-          "url": "https://open.spotify.com/artist/5yUvntXwc1otvnZ8Bhxo85"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "Room Of Lies",
-      "url": "https://open.spotify.com/track/1pAGEVfhuIkMUwH0JJdj8o"
     },
     {
       "added_at": "2026-04-17 07:25:24",
@@ -687,6 +687,22 @@
       "duration_ms": 145134,
       "name": "Mo\u017ce wolniej",
       "url": "https://open.spotify.com/track/6PM2WnI82OpoQAN3eWqTMi"
+    },
+    {
+      "added_at": "2026-04-17 07:25:24",
+      "album": {
+        "name": "Serce",
+        "url": "https://open.spotify.com/album/3glWhyUYAF0ofKNjHQLSRi"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Serce",
+      "url": "https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v"
     },
     {
       "added_at": "2026-04-17 07:25:24",
@@ -731,18 +747,18 @@
     {
       "added_at": "2026-04-17 07:25:24",
       "album": {
-        "name": "Serce",
-        "url": "https://open.spotify.com/album/3glWhyUYAF0ofKNjHQLSRi"
+        "name": "Million dollar baby",
+        "url": "https://open.spotify.com/album/5YxT5Fl7ghytt6jNFRbeiz"
       },
       "artists": [
         {
-          "name": "Martyna Baranowska",
-          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+          "name": "Artur Sikorski",
+          "url": "https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A"
         }
       ],
-      "duration_ms": 193500,
-      "name": "Serce",
-      "url": "https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v"
+      "duration_ms": 166956,
+      "name": "Million dollar baby",
+      "url": "https://open.spotify.com/track/660cvt2QQCrWo4hfk4L4rX"
     },
     {
       "added_at": "2026-04-17 07:25:24",
@@ -795,22 +811,6 @@
     {
       "added_at": "2026-04-17 07:25:24",
       "album": {
-        "name": "lie to me better",
-        "url": "https://open.spotify.com/album/6t4iyrvn3OAPRhbtYFtzxO"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 160795,
-      "name": "lie to me better",
-      "url": "https://open.spotify.com/track/1yOVQADad0VaKAmx9VKkZb"
-    },
-    {
-      "added_at": "2026-04-17 07:25:24",
-      "album": {
         "name": "Na start",
         "url": "https://open.spotify.com/album/68tJRTYvpbzEqp9VNskGkh"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 239260,
       "name": "Na start",
       "url": "https://open.spotify.com/track/71nAxA4dPuCsiEj7p7wA6Z"
+    },
+    {
+      "added_at": "2026-04-17 07:25:24",
+      "album": {
+        "name": "lie to me better",
+        "url": "https://open.spotify.com/album/6t4iyrvn3OAPRhbtYFtzxO"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 160795,
+      "name": "lie to me better",
+      "url": "https://open.spotify.com/track/1yOVQADad0VaKAmx9VKkZb"
     },
     {
       "added_at": "2026-04-17 07:25:24",
@@ -859,6 +875,22 @@
     {
       "added_at": "2026-04-17 07:25:24",
       "album": {
+        "name": "Na stacji paliw",
+        "url": "https://open.spotify.com/album/5EDPDKxzeq5njUIfbQZhx5"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "duration_ms": 183260,
+      "name": "Na stacji paliw",
+      "url": "https://open.spotify.com/track/1VzgaKsDOrRe3Gucc0e6Ti"
+    },
+    {
+      "added_at": "2026-04-17 07:25:24",
+      "album": {
         "name": "Wild Child",
         "url": "https://open.spotify.com/album/7CeQTUeuMPEKhS1R7E1PA4"
       },
@@ -883,22 +915,6 @@
     {
       "added_at": "2026-04-17 07:25:24",
       "album": {
-        "name": "Na stacji paliw",
-        "url": "https://open.spotify.com/album/5EDPDKxzeq5njUIfbQZhx5"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
-        }
-      ],
-      "duration_ms": 183260,
-      "name": "Na stacji paliw",
-      "url": "https://open.spotify.com/track/1VzgaKsDOrRe3Gucc0e6Ti"
-    },
-    {
-      "added_at": "2026-04-17 07:25:24",
-      "album": {
         "name": "Herbaciana",
         "url": "https://open.spotify.com/album/2arsGcjiMa2Y86deEL0FEb"
       },
@@ -919,18 +935,18 @@
     {
       "added_at": "2026-04-17 07:25:24",
       "album": {
-        "name": "Million dollar baby",
-        "url": "https://open.spotify.com/album/5YxT5Fl7ghytt6jNFRbeiz"
+        "name": "drink\u0142ykshot",
+        "url": "https://open.spotify.com/album/1kolE1AX5sUoKmnh7eyGzM"
       },
       "artists": [
         {
-          "name": "Artur Sikorski",
-          "url": "https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A"
+          "name": "emi",
+          "url": "https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu"
         }
       ],
-      "duration_ms": 166956,
-      "name": "Million dollar baby",
-      "url": "https://open.spotify.com/track/660cvt2QQCrWo4hfk4L4rX"
+      "duration_ms": 149126,
+      "name": "drink\u0142ykshot",
+      "url": "https://open.spotify.com/track/40I9oJKHZUGWA3QYDVTJhb"
     },
     {
       "added_at": "2026-04-17 07:25:24",
@@ -947,22 +963,6 @@
       "duration_ms": 145533,
       "name": "\u017bURAWIE",
       "url": "https://open.spotify.com/track/1nT0822I7pQ2qISF80IWjo"
-    },
-    {
-      "added_at": "2026-04-17 07:25:24",
-      "album": {
-        "name": "drink\u0142ykshot",
-        "url": "https://open.spotify.com/album/1kolE1AX5sUoKmnh7eyGzM"
-      },
-      "artists": [
-        {
-          "name": "emi",
-          "url": "https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "drink\u0142ykshot",
-      "url": "https://open.spotify.com/track/40I9oJKHZUGWA3QYDVTJhb"
     },
     {
       "added_at": "2026-04-17 07:25:24",
@@ -999,6 +999,26 @@
       "duration_ms": 159323,
       "name": "This too shall pass",
       "url": "https://open.spotify.com/track/521BQfcSZETxe1GV9TAbsP"
+    },
+    {
+      "added_at": "2026-04-17 07:25:24",
+      "album": {
+        "name": "Pal\u0119 \u017cale",
+        "url": "https://open.spotify.com/album/7zbbNbDzQyLjbJFznvNwfU"
+      },
+      "artists": [
+        {
+          "name": "Amelia And",
+          "url": "https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk"
+        },
+        {
+          "name": "Filipek",
+          "url": "https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ"
+        }
+      ],
+      "duration_ms": 146272,
+      "name": "Pal\u0119 \u017cale",
+      "url": "https://open.spotify.com/track/3AomUcaIEH9zIrrj2oKir5"
     },
     {
       "added_at": "2026-04-17 07:25:24",
@@ -1055,42 +1075,6 @@
     {
       "added_at": "2026-04-17 07:25:24",
       "album": {
-        "name": "UFO",
-        "url": "https://open.spotify.com/album/3sPNRi6Ay5pXxTfAUEzQJC"
-      },
-      "artists": [
-        {
-          "name": "Hania",
-          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
-        }
-      ],
-      "duration_ms": 133686,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/3kMm00fo2cVmvwyW5hFPRv"
-    },
-    {
-      "added_at": "2026-04-17 07:25:24",
-      "album": {
-        "name": "Pal\u0119 \u017cale",
-        "url": "https://open.spotify.com/album/7zbbNbDzQyLjbJFznvNwfU"
-      },
-      "artists": [
-        {
-          "name": "Amelia And",
-          "url": "https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk"
-        },
-        {
-          "name": "Filipek",
-          "url": "https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ"
-        }
-      ],
-      "duration_ms": 146272,
-      "name": "Pal\u0119 \u017cale",
-      "url": "https://open.spotify.com/track/3AomUcaIEH9zIrrj2oKir5"
-    },
-    {
-      "added_at": "2026-04-17 07:25:24",
-      "album": {
         "name": "HALO?",
         "url": "https://open.spotify.com/album/3o1aehL37sKqxz3x99m2rj"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 128321,
       "name": "HALO?",
       "url": "https://open.spotify.com/track/7jOOHCWvNYb2oDJ4F2CVry"
+    },
+    {
+      "added_at": "2026-04-17 07:25:24",
+      "album": {
+        "name": "Takie Jak Ty",
+        "url": "https://open.spotify.com/album/237gwWoHj5bnmq2Y3TvQIO"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Anio\u0142",
+          "url": "https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS"
+        }
+      ],
+      "duration_ms": 185742,
+      "name": "Takie Jak Ty",
+      "url": "https://open.spotify.com/track/2gcZYpILe02niCNP9NNGVf"
     }
   ],
   "unique_name": "up next",

@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1480091,
+  "num_followers": 1480160,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -75,26 +75,6 @@
     {
       "added_at": "2026-04-17 04:01:24",
       "album": {
-        "name": "Say My Name (Remix)",
-        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
-      },
-      "artists": [
-        {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
-        },
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Say My Name - Remix",
-      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
-    },
-    {
-      "added_at": "2026-04-17 04:01:24",
-      "album": {
         "name": "Bad Angel (with LISA)",
         "url": "https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 153281,
       "name": "Bad Angel (with LISA)",
       "url": "https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ"
+    },
+    {
+      "added_at": "2026-04-17 04:01:24",
+      "album": {
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
       "added_at": "2026-04-17 04:01:24",
@@ -235,26 +235,6 @@
     {
       "added_at": "2026-04-17 04:01:24",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
-    },
-    {
-      "added_at": "2026-04-17 04:01:24",
-      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 201700,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
+    },
+    {
+      "added_at": "2026-04-17 04:01:24",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
     },
     {
       "added_at": "2026-04-17 04:01:24",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-04-17 04:01:24",
       "album": {
-        "name": "LIGHTS GO OUT",
-        "url": "https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "LIGHTS GO OUT",
-      "url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw"
-    },
-    {
-      "added_at": "2026-04-17 04:01:24",
-      "album": {
         "name": "HIGHJACK (right back)",
         "url": "https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 161982,
       "name": "HIGHJACK (right back)",
       "url": "https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"
+    },
+    {
+      "added_at": "2026-04-17 04:01:24",
+      "album": {
+        "name": "LIGHTS GO OUT",
+        "url": "https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "LIGHTS GO OUT",
+      "url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw"
     },
     {
       "added_at": "2026-04-17 04:01:24",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-04-17 04:01:24",
       "album": {
-        "name": "stranger",
-        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 148943,
-      "name": "stranger",
-      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
-    },
-    {
-      "added_at": "2026-04-17 04:01:24",
-      "album": {
         "name": "Don't Wanna Go Home (feat. Henry Camamile)",
         "url": "https://open.spotify.com/album/1Vs2Q4ghAOsjUiTQoGDBAn"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 157717,
       "name": "Don't Wanna Go Home (feat. Henry Camamile)",
       "url": "https://open.spotify.com/track/6CAiFxfsp5qIOYs5m7kSZX"
+    },
+    {
+      "added_at": "2026-04-17 04:01:24",
+      "album": {
+        "name": "stranger",
+        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 148943,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
     },
     {
       "added_at": "2026-04-17 04:01:24",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-04-17 04:01:24",
       "album": {
-        "name": "BEAT UP CHANEL$",
-        "url": "https://open.spotify.com/album/20LgrvecBXfayOLkjbrEIU"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 198937,
-      "name": "BEAT UP CHANEL$",
-      "url": "https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS"
-    },
-    {
-      "added_at": "2026-04-17 04:01:24",
-      "album": {
         "name": "Feels Like Us",
         "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2026-04-17 04:01:24",
       "album": {
+        "name": "BEAT UP CHANEL$",
+        "url": "https://open.spotify.com/album/20LgrvecBXfayOLkjbrEIU"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 198937,
+      "name": "BEAT UP CHANEL$",
+      "url": "https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS"
+    },
+    {
+      "added_at": "2026-04-17 04:01:24",
+      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/0uwj7PaqVqPoY66QCo0i9n"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 187561,
       "name": "Movement",
       "url": "https://open.spotify.com/track/629lfbX9FnjfRDHoIOgNao"
-    },
-    {
-      "added_at": "2026-04-17 04:01:24",
-      "album": {
-        "name": "Out of My Mind EP",
-        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 204737,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
     },
     {
       "added_at": "2026-04-17 04:01:24",
@@ -1075,6 +1059,22 @@
       "duration_ms": 201379,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/4NZRpnuP4EZl6yohxQofP2"
+    },
+    {
+      "added_at": "2026-04-17 04:01:24",
+      "album": {
+        "name": "Out of My Mind EP",
+        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 204737,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
     },
     {
       "added_at": "2026-04-17 04:01:24",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-04-17 04:01:24",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/4KQwLxOFOK8dXsBS1aDU0e"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 222249,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/3d7kMkIJe0bt4NDOdaoC69"
-    },
-    {
-      "added_at": "2026-04-17 04:01:24",
-      "album": {
         "name": "Vision Blurred",
         "url": "https://open.spotify.com/album/49nuuneGqTobuf0FytxCyI"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 185624,
       "name": "Vision Blurred",
       "url": "https://open.spotify.com/track/0MBZH1gMOjrF9OVyhrDAo3"
+    },
+    {
+      "added_at": "2026-04-17 04:01:24",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/4KQwLxOFOK8dXsBS1aDU0e"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 222249,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/3d7kMkIJe0bt4NDOdaoC69"
     },
     {
       "added_at": "2026-04-17 04:01:24",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-04-17 04:01:24",
       "album": {
-        "name": "Mad World",
-        "url": "https://open.spotify.com/album/4lJuvmioRCQCHahAemAGzs"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 138328,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/5pIOX4Fy3CXEdvs6Yp8roU"
-    },
-    {
-      "added_at": "2026-04-17 04:01:24",
-      "album": {
         "name": "whatever you do",
         "url": "https://open.spotify.com/album/332Ale8JZU0KaSGjoL3aXY"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 210014,
       "name": "whatever you do",
       "url": "https://open.spotify.com/track/7tYkpOOHN2YB5RhFkLPs6R"
+    },
+    {
+      "added_at": "2026-04-17 04:01:24",
+      "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/4lJuvmioRCQCHahAemAGzs"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 138328,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/5pIOX4Fy3CXEdvs6Yp8roU"
     },
     {
       "added_at": "2026-04-17 04:01:24",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2026-04-17 04:01:24",
       "album": {
+        "name": "SHAKEUP",
+        "url": "https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "duration_ms": 213913,
+      "name": "SHAKEUP",
+      "url": "https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7"
+    },
+    {
+      "added_at": "2026-04-17 04:01:24",
+      "album": {
         "name": "I Never Knew (Shiba San Remix)",
         "url": "https://open.spotify.com/album/1eVixJvu9p4VrdjT5lmhdp"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 158769,
       "name": "I Never Knew - Shiba San Remix",
       "url": "https://open.spotify.com/track/4k4R0Fboys1lMarTUtrIu0"
-    },
-    {
-      "added_at": "2026-04-17 04:01:24",
-      "album": {
-        "name": "SHAKEUP",
-        "url": "https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5"
-      },
-      "artists": [
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
-        }
-      ],
-      "duration_ms": 213913,
-      "name": "SHAKEUP",
-      "url": "https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7"
     },
     {
       "added_at": "2026-04-17 04:01:24",

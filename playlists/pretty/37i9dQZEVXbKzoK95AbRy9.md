@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,003 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,015 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Vai Tomando Pock Pock](https://open.spotify.com/track/2WYuivMCuOQbxhaatuWUCN) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC GH Original](https://open.spotify.com/artist/6TlHQuC7PJX1Ki2AjN7YAy), [MC Menor ZL](https://open.spotify.com/artist/7vtCvjMGmRijbRIvScJmkO), [DJ GORDINHO DA VF](https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX) | [Chatão](https://open.spotify.com/album/7EGchezSqkD2O78GuahT0r) | 5:35 |
 | 50 | [Aliens](https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:47 |
 
-Snapshot ID: `MXrjcAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MXw5oAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > Unwind and relax to the soft sound of jazz piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,649 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,686 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 4 | [It's in the Details](https://open.spotify.com/track/5keTw2OzVACky7ElLZG9BV) | [Galeazzo](https://open.spotify.com/artist/616VGbzD5uDsj07r4cX7Uw) | [It's in the Details](https://open.spotify.com/album/0Iid18lx8DrhR5UUZuk0mB) | 2:34 |
 | 5 | [Slowly Moving Forward](https://open.spotify.com/track/6Fd6aiIghztXABZu3yyMIi) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Slowly Moving Forward](https://open.spotify.com/album/09xYUcUWDC5UEHY9JKFKVy) | 2:31 |
 | 6 | [Love of my life](https://open.spotify.com/track/0xGhtDxlN0wPry1XnFtdsx) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Love of my life](https://open.spotify.com/album/2rfixBbKpVxPXNUJTZMEeu) | 2:15 |
-| 7 | [The Only One](https://open.spotify.com/track/2yNAPCt1ey10ov2GZVuCf9) | [In\-No\-Scence](https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA) | [The Only One](https://open.spotify.com/album/6824Z6r0vErBVaH8Xjc3gJ) | 2:36 |
-| 8 | [The sound of waiting](https://open.spotify.com/track/1ZuNV7S1kGPHu3nDHKIEDo) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [The sound of waiting](https://open.spotify.com/album/2RVsSBBdYZmzty5xVTu1hr) | 2:37 |
+| 7 | [The sound of waiting](https://open.spotify.com/track/1ZuNV7S1kGPHu3nDHKIEDo) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [The sound of waiting](https://open.spotify.com/album/2RVsSBBdYZmzty5xVTu1hr) | 2:37 |
+| 8 | [The Only One](https://open.spotify.com/track/2yNAPCt1ey10ov2GZVuCf9) | [In\-No\-Scence](https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA) | [The Only One](https://open.spotify.com/album/6824Z6r0vErBVaH8Xjc3gJ) | 2:36 |
 | 9 | [Be Mine](https://open.spotify.com/track/3tPUKFwVYYA71e1rOlwIDb) | [Galeazzo](https://open.spotify.com/artist/616VGbzD5uDsj07r4cX7Uw) | [Be Mine](https://open.spotify.com/album/42F6ToeNoU8B0P0hKLIutt) | 3:02 |
 | 10 | [World Spinning](https://open.spotify.com/track/5jeCcXDCQ9Si433XSmb0Js) | [Alex Flynn](https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF) | [World Spinning](https://open.spotify.com/album/6BRZGCg1sBoAaweLlbUdHh) | 2:19 |
 | 11 | [always you](https://open.spotify.com/track/6CiSQLqDIwgyJKLbYsKXwR) | [Niels Henningsen](https://open.spotify.com/artist/6j9utDobDDjqHOlkOlpg0x) | [always you](https://open.spotify.com/album/2vnxbOxcXicmqlAfXsV2x4) | 2:43 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 39 | [Everyone Will Know](https://open.spotify.com/track/1ZWDi0dUOje7fcTGS14rzC) | [Hveiti Brauo](https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK) | [Everyone Will Know](https://open.spotify.com/album/1c19UtVFYbhGNPIPkAbHL9) | 2:53 |
 | 40 | [Tender Is The Quiet](https://open.spotify.com/track/23h7USfFHcvcPOeFAOIeZi) | [Aliz Uveges](https://open.spotify.com/artist/5AtZWSF011oHJ6ebfhCJpp) | [Tender Is The Quiet](https://open.spotify.com/album/4ARwOHjiYYEJs8QVA1dirh) | 2:58 |
 | 41 | [Conversations in the Night](https://open.spotify.com/track/2ryZ0oodUIPTaNb8x3htAq) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [Conversations in the Night](https://open.spotify.com/album/2FYH8ycX92JZF8Ey2VX8eE) | 2:47 |
-| 42 | [Pradayoo](https://open.spotify.com/track/6dpxiaunf6rT5tjr446YSd) | [Alex Flynn](https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF) | [Pradayoo](https://open.spotify.com/album/5mMOphduDFRZZsCE7HELJZ) | 2:10 |
-| 43 | [The Night Forgot Our Names](https://open.spotify.com/track/5AVnesv0aPqtiub0UmMjNw) | [Georg Harvester](https://open.spotify.com/artist/2w9g3qs7EAeQFeRC91BaBs) | [The Night Forgot Our Names](https://open.spotify.com/album/3flAwqL9DL2A1MpWb0UQo5) | 2:35 |
+| 42 | [The Night Forgot Our Names](https://open.spotify.com/track/5AVnesv0aPqtiub0UmMjNw) | [Georg Harvester](https://open.spotify.com/artist/2w9g3qs7EAeQFeRC91BaBs) | [The Night Forgot Our Names](https://open.spotify.com/album/3flAwqL9DL2A1MpWb0UQo5) | 2:35 |
+| 43 | [Pradayoo](https://open.spotify.com/track/6dpxiaunf6rT5tjr446YSd) | [Alex Flynn](https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF) | [Pradayoo](https://open.spotify.com/album/5mMOphduDFRZZsCE7HELJZ) | 2:10 |
 | 44 | [Seat for Two](https://open.spotify.com/track/1OfaNgaWjSA9HiedH84LPE) | [Suwonah Nolja](https://open.spotify.com/artist/1HFudkZUUEr5MiMSsPng4B) | [Seat for Two](https://open.spotify.com/album/6jcfxHvEQhlBqNr45FAgY5) | 2:38 |
 | 45 | [Two Shadows](https://open.spotify.com/track/0onz00xJtAFBVRlOUHNeVm) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Two Shadows](https://open.spotify.com/album/73vN2nvl4vs9sqEd4Ctvel) | 2:29 |
 | 46 | [At The Core](https://open.spotify.com/track/6T5aKm6NU1JGdhYe4dqRVT) | [Luke Marantz](https://open.spotify.com/artist/0TDN86diVFoP3zBNOBg1nP) | [At The Core](https://open.spotify.com/album/37eEka6JOchS6lvRD1k9VF) | 3:10 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 49 | [Leave Us Fonder](https://open.spotify.com/track/3LjHn0yHI37EQryp4DSnRe) | [Yuffin Joah](https://open.spotify.com/artist/33XuwZaY3Ku1OgM4f5xwz8) | [Leave Us Fonder](https://open.spotify.com/album/3vc6MOXMp1pOyo37yWSkbO) | 2:05 |
 | 50 | [Downtown](https://open.spotify.com/track/66wIHcEnTSehfU3sJRppV3) | [TS Eklund](https://open.spotify.com/artist/71cMIIvFN9dEqa8LQES3Kp) | [Downtown](https://open.spotify.com/album/7K2p7UfYJky7XTUq7aFX0B) | 2:36 |
 | 51 | [Evening Stillness](https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [Evening Stillness](https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v) | 3:18 |
-| 52 | [By My Side](https://open.spotify.com/track/2lWr2P2cfBD0L1HfgGJXCf) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [By My Side](https://open.spotify.com/album/3PBFlBto2ZZIusYAWgxSEE) | 2:54 |
-| 53 | [A Touch of Kindness](https://open.spotify.com/track/30Ts0oF1ycdLf7hxQCD1sF) | [Johnny Blackwood](https://open.spotify.com/artist/0Cp7RkxzaI0pJm1GvYHuSe) | [A Touch of Kindness](https://open.spotify.com/album/3bUEwUGZO7l2nr4WPZwwx3) | 2:16 |
+| 52 | [A Touch of Kindness](https://open.spotify.com/track/30Ts0oF1ycdLf7hxQCD1sF) | [Johnny Blackwood](https://open.spotify.com/artist/0Cp7RkxzaI0pJm1GvYHuSe) | [A Touch of Kindness](https://open.spotify.com/album/3bUEwUGZO7l2nr4WPZwwx3) | 2:16 |
+| 53 | [By My Side](https://open.spotify.com/track/2lWr2P2cfBD0L1HfgGJXCf) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [By My Side](https://open.spotify.com/album/3PBFlBto2ZZIusYAWgxSEE) | 2:54 |
 | 54 | [Let's Take a Chance](https://open.spotify.com/track/2ssY14WTj7YcA6RaZhItHc) | [Wiz Senega](https://open.spotify.com/artist/0Nj1FVgOM1YdKQj3xa6vWP) | [Let's Take a Chance](https://open.spotify.com/album/4wZUH0xUUnZdvHonSugHCA) | 2:47 |
 | 55 | [My Periscope](https://open.spotify.com/track/5e98RqB5qbAMxE2l8wB7pc) | [Miles Hartfield](https://open.spotify.com/artist/0rRnduLmaVVPR7hcsAectW) | [My Periscope](https://open.spotify.com/album/2lG9d8CAcQ7vxoubAjnazb) | 2:23 |
 | 56 | [promenade](https://open.spotify.com/track/2r451wKpR4AKtqD0bvAyAR) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [promenade](https://open.spotify.com/album/7Ctg2u11AefozpBYpyT9qb) | 2:43 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 71 | [Here with Me](https://open.spotify.com/track/1Ea4Xe2SCtPJmdeJk4bI17) | [Jakob Schröder](https://open.spotify.com/artist/2bZm8QiZFS3VRCfRqVP5kE) | [Here with Me](https://open.spotify.com/album/5zn6x74Z6tctMhmWTHBxHf) | 3:17 |
 | 72 | [bygones](https://open.spotify.com/track/2HIMBX7Z4lUcgdXSQS33r5) | [Gabriel Haag](https://open.spotify.com/artist/1DCDW9vq8CKwTDSh6TcXn2) | [bygones](https://open.spotify.com/album/0HY70Iio9tJrqKfpO9289A) | 2:17 |
 | 73 | [Too Close for Comfort](https://open.spotify.com/track/4MKNeTEzXe3jdLNZlf5oDG) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Too Close for Comfort](https://open.spotify.com/album/6SQKJbpX46rUn9gTtHgzyV) | 2:41 |
-| 74 | [Says Nothing](https://open.spotify.com/track/6OmanS9tVYUZhYdOOlbowM) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [Says Nothing](https://open.spotify.com/album/1SkzCnyBGWs8cw3MESTZ9m) | 2:44 |
+| 74 | [An Evening Walk](https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [An Evening Walk](https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V) | 2:13 |
 | 75 | [More than love](https://open.spotify.com/track/3fYzBnvEKKQdNWt18hUKSG) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [More than love](https://open.spotify.com/album/7aQarAAHVveMNtKYqWHL4m) | 2:53 |
-| 76 | [An Evening Walk](https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [An Evening Walk](https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V) | 2:13 |
+| 76 | [Says Nothing](https://open.spotify.com/track/6OmanS9tVYUZhYdOOlbowM) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [Says Nothing](https://open.spotify.com/album/1SkzCnyBGWs8cw3MESTZ9m) | 2:44 |
 | 77 | [Quite a dilemma](https://open.spotify.com/track/0pqVwU2Qh0DqWtCM2Z34R0) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Quite a dilemma](https://open.spotify.com/album/0SWqBR8eqW0LqgJXrPUQcI) | 2:55 |
 | 78 | [A clear sky](https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [A Clear Sky](https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY) | 2:50 |
 | 79 | [Good Night My Love](https://open.spotify.com/track/2eFOwHmDqSq3CCGG6pdpjB) | [Myles Dale](https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG) | [Good Night My Love](https://open.spotify.com/album/1XRcJXl7Vog98zHq8YI1Q1) | 3:12 |

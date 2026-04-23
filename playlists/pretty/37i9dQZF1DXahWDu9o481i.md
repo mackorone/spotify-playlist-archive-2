@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Iceage
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,618 likes - 48 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,647 likes - 48 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 36 | [Bad Bitch](https://open.spotify.com/track/4baCpqXOivYqROUNMrfUCC) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Bad Bitch](https://open.spotify.com/album/2RU8jg3q51UuxlS5bsUYnD) | 2:28 |
 | 37 | [Safety](https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Safety](https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY) | 3:18 |
 | 38 | [West to East \(feat\. 42 Dugg\)](https://open.spotify.com/track/7wbEwA6nnbdZA2QESPFdea) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [West to East \(feat\. 42 Dugg\)](https://open.spotify.com/album/3mbPS36EkFbEXWhIXCGqWa) | 2:17 |
-| 39 | [Light as a Feather](https://open.spotify.com/track/7pucKxQeLhLzu84oZLnkHf) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Light as a Feather](https://open.spotify.com/album/2Bd7Z2Gpsgje6AeP3iAeCy) | 3:36 |
-| 40 | [Maybe Again](https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [When The City Sleeps](https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj) | 3:29 |
+| 39 | [Maybe Again](https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [When The City Sleeps](https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj) | 3:29 |
+| 40 | [Light as a Feather](https://open.spotify.com/track/7pucKxQeLhLzu84oZLnkHf) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Light as a Feather](https://open.spotify.com/album/2Bd7Z2Gpsgje6AeP3iAeCy) | 3:36 |
 | 41 | [Sweet Surrender](https://open.spotify.com/track/0GYC0TTILK7gGBNUdt5Erj) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 1:54 |
 | 42 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
 | 43 | [SYRINX](https://open.spotify.com/track/5tAVZKH9CE6EkGJTRaqgG1) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [RHR](https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6), [Me Jesmay](https://open.spotify.com/artist/1p3gsovsSOdWucOGKaMEFv), [Lucas Swatch](https://open.spotify.com/artist/23IdyGJLgKTvopNrHG3XfF) | [SYRINX](https://open.spotify.com/album/4HdLXXUpDyCKgLbSXN5Clh) | 2:27 |
 | 44 | [Happy Birthday](https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 3:53 |
 | 45 | [Strong](https://open.spotify.com/track/336Ear6GlKMVrwgshhf6CH) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Strong](https://open.spotify.com/album/3M9w4YSLJbRKaBITj8OqNd) | 2:36 |
 | 46 | [oooshxt!](https://open.spotify.com/track/5g7ekg0eed42JuSCUEuSEe) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [oooshxt!](https://open.spotify.com/album/5lati9k4WZBRfjaDU28IyN) | 2:15 |
-| 47 | [TIME](https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk) | [Sofia D'Angelo](https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5) | [TIME](https://open.spotify.com/album/0Z6GDq6vic09cDKt4LVoKR) | 3:15 |
-| 48 | [Must Be](https://open.spotify.com/track/5TJtMHbfSSHrWPcnMHdjUy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Must Be](https://open.spotify.com/album/1FUgbYn6lHaVS4RrpAEMSE) | 2:55 |
+| 47 | [Must Be](https://open.spotify.com/track/5TJtMHbfSSHrWPcnMHdjUy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Must Be](https://open.spotify.com/album/1FUgbYn6lHaVS4RrpAEMSE) | 2:55 |
+| 48 | [TIME](https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk) | [Sofia D'Angelo](https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5) | [TIME](https://open.spotify.com/album/0Z6GDq6vic09cDKt4LVoKR) | 3:15 |
 
 Snapshot ID: `AAAAAH9pFVmNIUKsLQWdq+Mg5u8y5K+r`

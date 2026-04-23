@@ -759,6 +759,24 @@
     },
     {
       "album": {
+        "name": "backseat confessions",
+        "url": "https://open.spotify.com/album/2ZxJeVllW06njTXqorI5P4"
+      },
+      "artists": [
+        {
+          "name": "DeMonte Lavon",
+          "url": "https://open.spotify.com/artist/417b6aqhC6zWo0I5iD8Q9K"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267445,
+      "name": "backseat confessions",
+      "url": "https://open.spotify.com/track/79lCZgjb8Sw6cVqsJTJ5FA"
+    },
+    {
+      "album": {
         "name": "BackYard",
         "url": "https://open.spotify.com/album/7gPsLU48jdwEDbf2fJmgaq"
       },
@@ -2804,6 +2822,24 @@
       "duration_ms": 175247,
       "name": "goodbye - 2025 remastered",
       "url": "https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0"
+    },
+    {
+      "album": {
+        "name": "Grace is Gone",
+        "url": "https://open.spotify.com/album/6NJPxxjLZ1gD0zNOQbKcbN"
+      },
+      "artists": [
+        {
+          "name": "Austin-Tucker",
+          "url": "https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253128,
+      "name": "Grace is Gone",
+      "url": "https://open.spotify.com/track/5QyGhIs60QO3KOVMv7X54y"
     },
     {
       "album": {

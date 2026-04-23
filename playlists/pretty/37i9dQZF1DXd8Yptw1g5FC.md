@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 ### [New Music Friday Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXd8Yptw1g5FC)
 
-> Mabel Matiz ve haftanın en iyi çıkışları!
+> Mabel Matiz ve haftanın en iyi çıkışları! 23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,291 likes - 115 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,297 likes - 115 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 114 | [Düşme Gönül](https://open.spotify.com/track/5QQ8pxRluPXyE50kOZX21y) | [Mazlum Çimen](https://open.spotify.com/artist/0cSwsn3X2r2eGvshfy0She) | [Düşme Gönül](https://open.spotify.com/album/7ioQbjDRVnf0wrXWoUeyjF) | 3:59 |
 | 115 | [De Be Wayiro](https://open.spotify.com/track/0hKe6KVd2AYOSKxwjo6VJU) | [Ahmet Aslan](https://open.spotify.com/artist/7nx9ts8pRmbvMQvnPwqDSS) | [De Be Wayiro](https://open.spotify.com/album/2cB2JcB6kbvesPcAIRpGKF) | 6:10 |
 
-Snapshot ID: `AAAAAIIem5mPe8vaNHrwMWT9b8Ki/91P`
+Snapshot ID: `AAAAANZsVcjaDx1PsQsC2yjv8vGUam0l`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Theresa Phondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,441 likes - 92 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,541 likes - 92 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 51 | [Oasis Extend \(Prayer Chant\)](https://open.spotify.com/track/3CwMvYeM1Xc1h0BcIfpEsl) | [Clement Prayer](https://open.spotify.com/artist/5pwxvXIn5HQkrBD9WJuBjF) | [Oasis Extend \(Prayer Chant\)](https://open.spotify.com/album/3RDJouyLS122lCC2xPDvv1) | 4:01 |
 | 52 | [Amandla Omkhuleko](https://open.spotify.com/track/3VJdHtCgT8HUvFtyiLBP1H) | [Yustinez ZA](https://open.spotify.com/artist/1O5ICHddoHFAintj42Pvyk), [Jiggy R](https://open.spotify.com/artist/5RWTafEA8J3nude9LZwuOM) | [Amandla Omkhuleko](https://open.spotify.com/album/4ezongdu1SgK6CNdpZqtqt) | 3:28 |
 | 53 | [Ike](https://open.spotify.com/track/6ZqRKXDxoPW00gks5TD89s) | [Eljoe Onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi) | [Ike](https://open.spotify.com/album/2C1I95eyPsZ9n4YpDQNaRr) | 4:24 |
-| 54 | [Ijinle \(Remix\)](https://open.spotify.com/track/0kD4EbJh8dK0XURVNYhGZH) | [Great Godwin](https://open.spotify.com/artist/32aRAuhgYPnJhfCOrw0ZCZ), [Mckelve](https://open.spotify.com/artist/0PaFFapYBWTlpgpZoddb3x), [JEW Boys](https://open.spotify.com/artist/6NVC1nhI5v6L3gAyPKbnvm) | [Ijinle \(Remix\)](https://open.spotify.com/album/33UcxTl66w3uuvfLUBeLKd) | 3:26 |
+| 54 | [Ijinle \(Remix\)](https://open.spotify.com/track/0kD4EbJh8dK0XURVNYhGZH) | [Great Godwin](https://open.spotify.com/artist/32aRAuhgYPnJhfCOrw0ZCZ), [Mckelv](https://open.spotify.com/artist/1hp89EeuCGUjpcEzqAFWia), [JEW Boys](https://open.spotify.com/artist/6NVC1nhI5v6L3gAyPKbnvm) | [Ijinle \(Remix\)](https://open.spotify.com/album/33UcxTl66w3uuvfLUBeLKd) | 3:26 |
 | 55 | [TOO SOFT II](https://open.spotify.com/track/0PAih94aX9rqH9McIDdRKK) | [Paul Payne837](https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp) | [TOO SOFT II](https://open.spotify.com/album/3LpcpmZNYiruVl8RR140q7) | 2:37 |
 | 56 | [Souviens\-toi](https://open.spotify.com/track/2JCbAjJG31ZPFBOagNOarV) | [Teddy Diso](https://open.spotify.com/artist/2ASkZeQXjHQCTVZBNU2Ujc) | [Positif](https://open.spotify.com/album/2ysggSa4Q9zSk5mwmvGZ9p) | 4:51 |
 | 57 | [Be Okay](https://open.spotify.com/track/5qREBs6CJk7yMvzalIRe3N) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Miriam Jaydah](https://open.spotify.com/artist/0WD1OVRYVzK0UGWfh42NrG) | [Not Depressed, Just Tired](https://open.spotify.com/album/5hPYNLpMTwKA0xXAlRmhbK) | 3:20 |

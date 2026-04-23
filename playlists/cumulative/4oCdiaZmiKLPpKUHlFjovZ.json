@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.",
+  "description": "Turn this playlist all the way up! Featuring, Blxst &amp; Big Sad 1900, Money Man &amp; more.",
   "name": "All The Way Up",
   "tracks": [
     {
@@ -1367,6 +1367,32 @@
     },
     {
       "album": {
+        "name": "Day After Day (feat. Lori Perry)",
+        "url": "https://open.spotify.com/album/5SR4FxTHW3yTLbFZZmO1uP"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        },
+        {
+          "name": "Lori Perry",
+          "url": "https://open.spotify.com/artist/5D4g8u0UfgSFcisAei0qPI"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Day After Day (feat. Lori Perry)",
+      "url": "https://open.spotify.com/track/4deVP1zpdGKQs5QRqTvE3i"
+    },
+    {
+      "album": {
         "name": "Demons In The Dark",
         "url": "https://open.spotify.com/album/2b9zu0KdTmeLAdtNSNcvZw"
       },
@@ -2425,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Ice Hound",
+        "url": "https://open.spotify.com/album/6SEWgVINLDxOVMdrEH9avp"
+      },
+      "artists": [
+        {
+          "name": "Xavier Wulf",
+          "url": "https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92689,
+      "name": "Ice Hound",
+      "url": "https://open.spotify.com/track/3NMZBauh9NhD6nmdZCda6r"
+    },
+    {
+      "album": {
         "name": "inthej",
         "url": "https://open.spotify.com/album/2QUpX5PFxU2pCmW88hoPZL"
       },
@@ -3200,6 +3244,24 @@
       "duration_ms": 162804,
       "name": "Out The Box (feat. Bosko)",
       "url": "https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/4oNiVZ9G3qyfQYLYU48w10"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195063,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/1JTXX2PRBauOOKWiR1sOkU"
     },
     {
       "album": {
@@ -4101,6 +4163,24 @@
     },
     {
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/75Jix4is5wxklcCIZEGCLd"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114055,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6AUKhuveLvni7f0o4dvou8"
+    },
+    {
+      "album": {
         "name": "swag it! (Remix)",
         "url": "https://open.spotify.com/album/7KjmXSpjjhHctk0eyQNNEB"
       },
@@ -4620,6 +4700,24 @@
       "duration_ms": 199626,
       "name": "West Coast Weekend",
       "url": "https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4"
+    },
+    {
+      "album": {
+        "name": "Break The Rules Or Stay Broke",
+        "url": "https://open.spotify.com/album/43Ai5wtKATvq8hgEhUKP5a"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161373,
+      "name": "White Trash",
+      "url": "https://open.spotify.com/track/0cQtd2V9vn8shmJVx6svT0"
     },
     {
       "album": {

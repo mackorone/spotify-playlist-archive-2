@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Los \u00c1ngeles Azules y Belinda en portada ",
-  "num_followers": 841329,
+  "num_followers": 841408,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-04-17 06:00:28",
       "album": {
+        "name": "LINAJE",
+        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 336026,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp"
+    },
+    {
+      "added_at": "2026-04-17 06:00:28",
+      "album": {
         "name": "Chaparrita (Remix)",
         "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 266400,
       "name": "Chaparrita (Remix)",
       "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
-    },
-    {
-      "added_at": "2026-04-17 06:00:28",
-      "album": {
-        "name": "LINAJE",
-        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 336026,
-      "name": "FREESTYLE",
-      "url": "https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp"
     },
     {
       "added_at": "2026-04-17 06:00:28",
@@ -675,22 +675,38 @@
     {
       "added_at": "2026-04-17 06:00:28",
       "album": {
-        "name": "Modo Dif\u00edcil",
-        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 153566,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
+    },
+    {
+      "added_at": "2026-04-17 06:00:28",
+      "album": {
+        "name": "C Y Medio",
+        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 201461,
-      "name": "Modo Dif\u00edcil",
-      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+      "duration_ms": 166500,
+      "name": "C Y Medio",
+      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
     },
     {
       "added_at": "2026-04-17 06:00:28",
@@ -711,26 +727,6 @@
       "duration_ms": 128409,
       "name": "Agu\u00e1ntame",
       "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
-    },
-    {
-      "added_at": "2026-04-17 06:00:28",
-      "album": {
-        "name": "Balenciaga",
-        "url": "https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 153566,
-      "name": "Balenciaga",
-      "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
     },
     {
       "added_at": "2026-04-17 06:00:28",
@@ -775,22 +771,6 @@
     {
       "added_at": "2026-04-17 06:00:28",
       "album": {
-        "name": "C Y Medio",
-        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "C Y Medio",
-      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
-    },
-    {
-      "added_at": "2026-04-17 06:00:28",
-      "album": {
         "name": "Cartier",
         "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
       },
@@ -811,18 +791,42 @@
     {
       "added_at": "2026-04-17 06:00:28",
       "album": {
-        "name": "ESPEJO",
-        "url": "https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2"
+        "name": "Modo Dif\u00edcil",
+        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
       },
       "artists": [
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 199114,
-      "name": "ESPEJO",
-      "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
+      "duration_ms": 201461,
+      "name": "Modo Dif\u00edcil",
+      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+    },
+    {
+      "added_at": "2026-04-17 06:00:28",
+      "album": {
+        "name": "Baddie",
+        "url": "https://open.spotify.com/album/5iHhdiPFVE8q0dMCRw4Eox"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/0ETHntyQqLE16k0ch034EQ"
     },
     {
       "added_at": "2026-04-17 06:00:28",
@@ -855,22 +859,18 @@
     {
       "added_at": "2026-04-17 06:00:28",
       "album": {
-        "name": "La Mala Era Yo",
-        "url": "https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV"
+        "name": "ESPEJO",
+        "url": "https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 150000,
-      "name": "La Mala Era Yo",
-      "url": "https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB"
+      "duration_ms": 199114,
+      "name": "ESPEJO",
+      "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
     },
     {
       "added_at": "2026-04-17 06:00:28",
@@ -895,22 +895,22 @@
     {
       "added_at": "2026-04-17 06:00:28",
       "album": {
-        "name": "Baddie",
-        "url": "https://open.spotify.com/album/5iHhdiPFVE8q0dMCRw4Eox"
+        "name": "La Mala Era Yo",
+        "url": "https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV"
       },
       "artists": [
         {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         },
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Baddie",
-      "url": "https://open.spotify.com/track/0ETHntyQqLE16k0ch034EQ"
+      "duration_ms": 150000,
+      "name": "La Mala Era Yo",
+      "url": "https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB"
     },
     {
       "added_at": "2026-04-17 06:00:28",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-04-17 06:00:28",
       "album": {
-        "name": "Eden Vol. II",
-        "url": "https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 268331,
-      "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/0vQtxhm39aWCD3rcK00OZA"
-    },
-    {
-      "added_at": "2026-04-17 06:00:28",
-      "album": {
         "name": "si me esperas",
         "url": "https://open.spotify.com/album/4QOth8IwUwVPWblM8AdO5r"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 180381,
       "name": "si me esperas",
       "url": "https://open.spotify.com/track/0SXCN08q2ixC3pgWYqLmn3"
+    },
+    {
+      "added_at": "2026-04-17 06:00:28",
+      "album": {
+        "name": "Eden Vol. II",
+        "url": "https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 268331,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/0vQtxhm39aWCD3rcK00OZA"
     },
     {
       "added_at": "2026-04-17 06:00:28",

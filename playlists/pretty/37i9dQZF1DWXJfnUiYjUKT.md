@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Ella Langley on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,201 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,254 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Damn Good Actress](https://open.spotify.com/track/3Uh3cFYJUYqS8CdHDbHkFC) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [Damn Good Actress](https://open.spotify.com/album/7IReyqV2mLXGxaNcJkBuh3) | 2:49 |
 | 100 | [Friendship Is The Truth](https://open.spotify.com/track/1cS1w3qvaehzsKCnLatbW4) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [Friendship Is The Truth](https://open.spotify.com/album/6lMArNErrmtXlfSQnu38kQ) | 5:36 |
 
-Snapshot ID: `AAAAAHaBmM2/GttxzPdK4KdU1v0rYaGU`
+Snapshot ID: `AAAAAN09fuf0XPNZVlW+VLliz0juNjhJ`

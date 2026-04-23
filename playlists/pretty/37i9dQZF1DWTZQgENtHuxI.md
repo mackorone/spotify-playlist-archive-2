@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,257 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,249 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 41 | [Beat the Street](https://open.spotify.com/track/41F97acqBc7aMzwD224kRR) | [Sharon Redd](https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY) | [Beat the Street: The Very Best of Sharon Redd](https://open.spotify.com/album/3EOCA2DlYoeTIYjQauWDXM) | 6:15 |
 | 42 | [Spacer](https://open.spotify.com/track/3gzFESmUSfoFWeehf2rNOl) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Intégrale \(exclus À 17 ans "At Seventeen", En duo avec Claude François\)](https://open.spotify.com/album/6wzJnPvJwYOzW5LMjAdfNc) | 5:54 |
 | 43 | [Disco Nights \(Rock Freak\) \- 12" Disco Remix](https://open.spotify.com/track/21NEoaczQ5G1aEhJAgz0JQ) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Disco Nights \(Expanded Edition\)](https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum) | 8:50 |
-| 44 | [Genius Of Love](https://open.spotify.com/track/11aqD66CgNU4UXKGz9DtfZ) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Wordy Rappinghood](https://open.spotify.com/album/68Iowv229lKyHJZxSrfKL3) | 5:35 |
-| 45 | [Brazilian Love Affair](https://open.spotify.com/track/1gN4FXvfrVOqJSWh20BPBK) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Brazilian Love Affair \(Expanded Edition\)](https://open.spotify.com/album/7mVnCwqkT2tYSJBBbD4l4T) | 7:23 |
+| 44 | [Brazilian Love Affair](https://open.spotify.com/track/1gN4FXvfrVOqJSWh20BPBK) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Brazilian Love Affair \(Expanded Edition\)](https://open.spotify.com/album/7mVnCwqkT2tYSJBBbD4l4T) | 7:23 |
+| 45 | [Genius Of Love](https://open.spotify.com/track/11aqD66CgNU4UXKGz9DtfZ) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Wordy Rappinghood](https://open.spotify.com/album/68Iowv229lKyHJZxSrfKL3) | 5:35 |
 | 46 | [Spank \- Special DJ Remix](https://open.spotify.com/track/6MfYTs6Cwny5P4a1fI7stu) | [Jimmy "Bo" Horne](https://open.spotify.com/artist/6jcPHv7qVfqysvBT7Jmn7K) | [The Very Best Of The Tk Years](https://open.spotify.com/album/6R1hsCjnZakiVgqjcJkRRv) | 6:58 |
 | 47 | [September](https://open.spotify.com/track/5nNmj1cLH3r4aA4XDJ2bgY) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Eternal Dance](https://open.spotify.com/album/6UixeNUSjrBnxeYV0ZuGHR) | 3:34 |
 | 48 | [Funky Town](https://open.spotify.com/track/7723JnKU2R15Iv4T7OJrly) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Paradas Continuas](https://open.spotify.com/album/3r4KvV3xbEN0VAHthWYnAE) | 3:59 |

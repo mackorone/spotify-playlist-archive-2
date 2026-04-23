@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,190 songs - 1 day 21 hr 47 min
+1,192 songs - 1 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Elevated](https://open.spotify.com/track/0G2RKuFx54rmtbhi5CP0VZ) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Elevated](https://open.spotify.com/album/36FHXlNUoSoarwPkzATpun) | 2:30 | 2022-08-19 | 2022-12-10 |
 | [Elevator Vibes](https://open.spotify.com/track/0wIvtei7sFyuvMwG5bRfSo) | [STAY THERE](https://open.spotify.com/artist/169SFNhjiSsCtKYt0APX6r) | [Elevator Vibes](https://open.spotify.com/album/0L2tAWPMwQdUF0fkc6pj8j) | 2:46 | 2022-04-15 | 2025-02-15 |
 | [Elysian Fields](https://open.spotify.com/track/7MtTVOpbquSu8SCiNQY0fS) | [Pelicano](https://open.spotify.com/artist/3CRpU6gIV5tdSEjvZqlRl0), [DJ Lagoa](https://open.spotify.com/artist/4YFewOTyrU36fR7k3LkIY4) | [Elysian Fields](https://open.spotify.com/album/4KM1V8eVOymeKDI64aInfM) | 2:30 | 2022-04-15 | 2023-10-13 |
-| [embers](https://open.spotify.com/track/1hZJG7EmQ8iOSz6Xp4JCUB) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [embers](https://open.spotify.com/album/7tmDYMItqxTeCVrHnsu23e) | 2:27 | 2026-02-06 |  |
+| [embers](https://open.spotify.com/track/1hZJG7EmQ8iOSz6Xp4JCUB) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [embers](https://open.spotify.com/album/7tmDYMItqxTeCVrHnsu23e) | 2:27 | 2026-02-06 | 2026-04-23 |
 | [emotionally unavailable](https://open.spotify.com/track/71vPGvp1ANV3iDpA9wFQ0v) | [Taipei Tapes](https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT) | [emotionally unavailable](https://open.spotify.com/album/2rLlb5HAK5vwXc1zqDfcGZ) | 2:05 | 2023-09-08 | 2025-07-19 |
 | [Emotions](https://open.spotify.com/track/0GX01FogF0EeJYXKTYwhMp) | [Kibunde](https://open.spotify.com/artist/53W7kqgUgfbnfgPXkK7r0g) | [Emotions](https://open.spotify.com/album/61boJpcbCcJogaxhegOHwN) | 2:24 | 2023-09-29 | 2025-10-05 |
 | [Enchanted lights](https://open.spotify.com/track/50VmJsAU9f3q2WGnUCWVek) | [rosetta's stone](https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ) | [Enchanted lights](https://open.spotify.com/album/1Szqrq0Hq27WERZib7cRo7) | 2:45 | 2025-06-07 | 2025-09-21 |
@@ -410,7 +410,7 @@
 | [Head Down](https://open.spotify.com/track/6bK9DxZ3UOo1x6fpUTmhLr) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Head Down](https://open.spotify.com/album/00BtezqtTN1x9b252Lvc5P) | 2:29 | 2022-04-22 | 2022-12-10 |
 | [Healing](https://open.spotify.com/track/7ww9dpRq9JazTQTbmQvt1F) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Healing](https://open.spotify.com/album/0V8w3lrIyZbd47a3ZMgsEF) | 2:25 | 2023-12-08 | 2025-07-19 |
 | [Healing in HD](https://open.spotify.com/track/6CTFQ7hQohx68uoMb7WZ0S) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [Healing in HD](https://open.spotify.com/album/2wGqWzAizybnHbqRXSNafS) | 2:04 | 2025-09-12 | 2025-09-21 |
-| [Heartbeat](https://open.spotify.com/track/1CcDRIoWnH19cOockC58UT) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Heartbeat](https://open.spotify.com/album/2b4MQwic08GoiWdAoI76Q3) | 2:05 | 2024-09-13 |  |
+| [Heartbeat](https://open.spotify.com/track/1CcDRIoWnH19cOockC58UT) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Heartbeat](https://open.spotify.com/album/2b4MQwic08GoiWdAoI76Q3) | 2:05 | 2024-09-13 | 2026-04-23 |
 | [Heat Sink](https://open.spotify.com/track/1LkKE6EKpkBXBqYnfaPHXE) | [Yeriho](https://open.spotify.com/artist/78i2cMCD9ZGsHitYgLbMhW), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Odyssey](https://open.spotify.com/album/0tt8x0BZjFBKRbPP5Z5tNq) | 2:00 | 2022-07-22 | 2022-12-10 |
 | [Heaux](https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI) | [Dr\. Travis](https://open.spotify.com/artist/49IK4aTJhEP93RfabiqaEZ) | [Kawhi](https://open.spotify.com/album/0ASHEDZAklWntGctYuGsRY) | 2:36 | 2022-04-15 | 2025-07-01 |
 | [Heavensent](https://open.spotify.com/track/0SdZzPskMPdVibBUHNrrim) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Heavensent](https://open.spotify.com/album/0nzrNWqyAHUgLFiB4gE15Y) | 3:04 | 2023-12-22 | 2025-05-24 |
@@ -669,6 +669,7 @@
 | [night waves](https://open.spotify.com/track/7DvDMIiYaDzzwTtM09pdp3) | [lowfi](https://open.spotify.com/artist/3LvyCet2eyTqt2XGXTkGxo) | [night waves](https://open.spotify.com/album/7MJCRCppqd1CEz04TmeoEu) | 1:34 | 2022-08-12 | 2022-12-04 |
 | [nightdrive](https://open.spotify.com/track/0fOOBR8JW4u6D8jF6GNhFF) | [mr\_slace](https://open.spotify.com/artist/2XQmmMkdTIZ7diR6B3tduO) | [nightdrive](https://open.spotify.com/album/5WgyOVLv9DShm6xXKwJ3LZ) | 2:02 | 2022-04-15 | 2022-05-27 |
 | [Nightfall](https://open.spotify.com/track/1U4SM2KN49g01Q4G42wBU3) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Nightfall](https://open.spotify.com/album/5GnUgFtiNggX7qZf7fBkoC) | 2:18 | 2022-07-29 | 2022-08-12 |
+| [nightglare](https://open.spotify.com/track/676S4HWskYeVFfDNXisB6E) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [nightglare](https://open.spotify.com/album/7CjsLkOIBCJXX8P1xVLOCq) | 2:06 | 2026-04-22 |  |
 | [Nightlie](https://open.spotify.com/track/1BtS1rydHXYKyGyIrrrfph) | [Mos Becka](https://open.spotify.com/artist/2OlHuqEXZbePEmtsVP9Xlk) | [Nightlie](https://open.spotify.com/album/0GC1DNI4n7wFxDEEGSpuqC) | 2:14 | 2024-03-22 | 2025-12-20 |
 | [Nimbus](https://open.spotify.com/track/7EGVmfzahjn9DvtGFtZ9XQ) | [zoemoon.](https://open.spotify.com/artist/4p3SsPKnaomOEyJ42L21Yd) | [Nimbus](https://open.spotify.com/album/6XhpLDxnMsNgIf3QVJvI1h) | 1:45 | 2026-01-09 |  |
 | [No Problem Too Small](https://open.spotify.com/track/0Td7VHO3ojTr3VO8GJTqQh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [No Problem Too Small](https://open.spotify.com/album/3qKy5Uvc5ru23HZ4XYW40d) | 2:02 | 2022-04-15 | 2022-07-01 |
@@ -964,6 +965,7 @@
 | [Stellar Mood](https://open.spotify.com/track/0ZEzdu0ICYA1aVO9ANzSyj) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Stellar Mood](https://open.spotify.com/album/3M9MFOVJXXZafVstHH7TRO) | 2:07 | 2026-02-27 |  |
 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 | 2022-04-15 | 2022-04-22 |
 | [Stickwithit](https://open.spotify.com/track/4oHP5Y5kJXrnNPh6M7iMsn) | [Recaps](https://open.spotify.com/artist/10AsJvn27mBPRP1G05gQs1) | [Stickwithit](https://open.spotify.com/album/5HfJlErhpKw5scselQANe3) | 2:48 | 2022-04-15 | 2025-07-10 |
+| [Still Dock](https://open.spotify.com/track/6CvradJS3BYVT3sjrz6y6n) | [Half Memory](https://open.spotify.com/artist/5oDGsGsO36Sruc5NNySUTe) | [Still Dock](https://open.spotify.com/album/0S3NzJXHH92qA9LNui23nG) | 2:02 | 2026-04-22 |  |
 | [Still Young](https://open.spotify.com/track/4akTe398s6zuJumFOM84Ik) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Still Young](https://open.spotify.com/album/2trVdjWprHDbEPZ4zG597Y) | 1:48 | 2022-04-15 | 2022-05-27 |
 | [Stillness](https://open.spotify.com/track/6VVw1EElwMRwRJPFRfCstX) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o), [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [Stillness](https://open.spotify.com/album/2lDlvcgjWdVWsUhrOpQCbO) | 2:03 | 2026-03-13 |  |
 | [Stockholm](https://open.spotify.com/track/5nRHqipQw774uJ6y3KmECc) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [Stockholm](https://open.spotify.com/album/7yNwWw24BP1Sr2T2yw9BBa) | 1:36 | 2022-04-15 | 2025-07-10 |

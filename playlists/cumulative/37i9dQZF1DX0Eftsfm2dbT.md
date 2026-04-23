@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: LANA \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,453 songs - 5 day 3 hr 22 min
+2,455 songs - 5 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1224,6 +1224,7 @@
 | [Money Baby \(feat\. Awich\)](https://open.spotify.com/track/1TKmCpLf269seZfKoNP8xu) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Money Baby \(feat\. Awich\)](https://open.spotify.com/album/6ah5EwDnO1uzwx06r2a5gV) | 3:00 | 2024-10-02 | 2025-03-07 |
 | [Money Baby \(feat\. Awich\)](https://open.spotify.com/track/5xjwUB2jWEe3CcPBp6k1PV) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [N.I.T.O.](https://open.spotify.com/album/3FfM39wTQC0EZ4zyNE8Yl1) | 3:00 | 2026-04-04 | 2026-04-08 |
 | [MONEY LOVE RESPECT](https://open.spotify.com/track/6hpgmfe9GRmqaJxtevmSBr) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [20](https://open.spotify.com/album/3I1SmXdnEgjl20HUGWytYq) | 2:44 | 2023-09-21 | 2023-12-13 |
+| [MONEY RAIN \(feat\. YTG\)](https://open.spotify.com/track/0Cd2KkddZSxHn4hCu9qBo3) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [YTG](https://open.spotify.com/artist/3XYA9DdaDMDHEnB9XC4G4c) | [Rich or Die 3](https://open.spotify.com/album/7JdfkXp1Hf4qC0z1PkzAWw) | 2:53 | 2026-04-22 |  |
 | [MONEY TALK $TUDIO](https://open.spotify.com/track/2nnIyR8rqm19eotbEJh0Sw) | [DOUBLE UP](https://open.spotify.com/artist/1bufnt2arEhPCXTuDXhO07) | [MONEY TALK $TUDIO](https://open.spotify.com/album/2F6dKd3RTqrRPLpa6Mtwiu) | 2:50 | 2026-01-15 | 2026-01-28 |
 | [Money Trees](https://open.spotify.com/track/2JaEYhyKiufEazcC51QhWC) | [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Money Trees](https://open.spotify.com/album/4HZHWJbiZt59LEGbBKPoph) | 3:23 | 2024-07-18 | 2024-09-06 |
 | [MONEY UP \(feat\. 7 & eyden\)](https://open.spotify.com/track/6FYeN26inu1ArB0YGuW98s) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [MONEY UP \(feat\. 7 & eyden\)](https://open.spotify.com/album/08zxWOjo6UKSy1zNaGAyt6) | 2:54 | 2026-01-29 | 2026-03-25 |
@@ -1633,6 +1634,7 @@
 | [Rodeo13](https://open.spotify.com/track/0boflQ50Hu6Gil4n51iWF2) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc), [KOPERU](https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7), [teppei](https://open.spotify.com/artist/2prlN3wUFSsbl5mHjdu8hi) | [Unfold Collective](https://open.spotify.com/album/2UtGf7oEgjxbl6YSrkxBHd) | 3:13 | 2024-08-28 | 2024-11-06 |
 | [ROKUDENASHI](https://open.spotify.com/track/3yQruCLOH32RXx0fsHVuSx) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [ROKUDENASHI](https://open.spotify.com/album/17jfTXkpA80mIfA6QDJDUm) | 3:01 | 2024-07-30 | 2024-09-13 |
 | [Rokuro Obi](https://open.spotify.com/track/2zZ67a5a5GSo7HUBgu6Yf1) | [GAGLE](https://open.spotify.com/artist/7EEGSEHvuzEc2x4dhZPb50) | [Rokuro Obi](https://open.spotify.com/album/7jtOySP97dfLT5BkqfUPb5) | 3:14 | 2026-03-24 | 2026-04-08 |
+| [Role Model](https://open.spotify.com/track/3y5mopRsDAG1UddZ72KjHY) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [Rich or Die 3](https://open.spotify.com/album/7JdfkXp1Hf4qC0z1PkzAWw) | 3:16 | 2026-04-22 |  |
 | [ROLL AND SMOKE](https://open.spotify.com/track/5sfxNXZVyifXvuOzmyF6NH) | [Kapsoul](https://open.spotify.com/artist/4MfpSSOsKtg5bSBpeXCuP8), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L) | [DIVERCITY](https://open.spotify.com/album/3gP2ykb1DUimBBEgscsTfz) | 2:16 | 2025-03-04 | 2025-04-02 |
 | [Roll up](https://open.spotify.com/track/7BDTUeqHq9gITnla77y744) | [R i H](https://open.spotify.com/artist/0jLLNW0NF2qLxz3rqyNwDi) | [Roll up](https://open.spotify.com/album/4uDNHQvB0iQAI09adwaMCt) | 2:16 | 2026-04-21 |  |
 | [Rolling Stone](https://open.spotify.com/track/6dpc1pMJ7kqo3LXe90iQ3A) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY) | [Rolling Stone](https://open.spotify.com/album/624HmwI9X4sqJa8vC0YZKs) | 2:09 | 2024-05-28 | 2024-07-31 |

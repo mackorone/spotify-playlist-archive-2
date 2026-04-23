@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22rN53.md) - [plain]
 
 > This is Victor Ray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,878 likes - 17 songs - 53 min 59 sec
+[Spotify](https://open.spotify.com/user/spotify) - 5,879 likes - 17 songs - 53 min 59 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
